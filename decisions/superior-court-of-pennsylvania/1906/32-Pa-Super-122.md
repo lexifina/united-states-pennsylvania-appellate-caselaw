@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 218"
+decided: "1906-11-19"
+citations: ["32 Pa. Super. 122"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Porter, Henderson, Morrison, Orlady and Head, JJ."]
+parties: ["Pattonville and Woodbury Turnpike Road Company."]
+source_url: "https://static.case.law/pa-super/32/cases/0122-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 866916
+cites_cases: ["20 Pa. Superior Ct. 173"]
+---
+
+# Pattonville & Woodbury Turnpike Road Co.
+
+## Majority (Orlady, J.,)
+
+Opinion bv
+Orlady, J.,
+The only assignments of error in this case refer to the action of the court in confirming the report of the master and jury of view in the proceedings which resulted in the condemnation of the Pattonville and Woodbury Turnpike Road, and assessing damages sustained by the corporation at $2,550. The hearing before the master and the jury of view was earnestly contested by counsel; seventy-four witnesses were called, sixteen points were submitted by the petitioners and twenty by the turnpike company for charge, by the master to the jury, and the three assignments of error to which our attention is directed had their inception in the action of the master, in refusing to direct the jury to disregard the testimony of three witnesses called before him. The request was refused in each instance, and the jury were instructed that in considering it they must take it along with all the other testimony adduced, and give it only such weight as it deserves in- connection with the other testimony. The subject-matter of the testimony elicited from these three witnesses referred to their opinion as to whether it was to their personal benefit or advantage, and of the locality in which they resided, to have the turnpike condemned to public use. The reasons given for the several witnesses favoring the condemnation were the inconvenience of getting toll from their clothes, and the slight delay incident thereto at the toll gates, and the personal advantages they would derive from expending the money thus saved in purchases for their individual comfort, making special references to cigars, oranges, taxes, and in one instance the savings thus accumulated would furnish sufficient to buy a cow.
+The assignments cannot be sustained for a reason quite apparent on this record. We do not have with this record the testimony taken before the master and jury, and that covered by the assignments represent brief excerpts from but a small part of the testimony of even the witnesses whose names are mentioned. What relation that testimony may have to the other adduced on the hearing, we cannot tell, but even if it would be considered a proper subject for judicial revision in determining its • relevancy, it is quite apparent that it could not do the appellant any harm; moreover, the effect to be given to it was fully covered by the answer of the master to the point requesting him to disregard this testimony, and taken in connection with the sixth point submitted by the turnpike company, to wit: “local best interests.alone will not warrant a condemnation, and if the jury believe that this proceeding is instituted by certain people of the localities along the line of the turnpike or contiguous thereto, in order to relieve themselves of tolls at the expense of the county as a whole, and that the condemnation of this turnpike would be a matter of local interest only, and not a matter of advantage to the people of the country as a whole, they should refuse to condemn such road,” which was answered as follows: “ This point is affirmed. The jury, however, must consider the testimony of the witnesses in determining the question of condemnation, and if from all the evidence they are satisfied that it is for the best interests of the people of the county that the turnpike should be condemned, then it is their duty to condemn it,” presented the whole question to the jury in its proper light.
+' It was proper for the jury to consider local interests in connection with general interests, but they were not controlling. The purpose of such proceedings is to condemn the turnpike road so that it should become a public road free from tolls and toll gates, and in determining this question it was proper for the jury to consider the local advantages and disadvantages in connection with the benefit to the public at large. It is to be borne in mind that the tribunal created by the act of June 2, 1887, P. L. 306 under which these proceedings were instituted, while called a jury of view is an entirely different one from a trial jury in the courts below under the act of 1887, and on such a hearing the investigation would necessarily take a wider range than would be tolerated on a trial in court. The proceeding in such a case has been so recently decided in Chambersburg and Bedford Turnpike Road Company, 20 Pa. Superior Ct. 173, that it is not necessary to again go over that subject. The assignments of error are without merit, and are overruled. We prefer to decide this case on its merits rather than to sustain the motion to quash.
+The decree of the court below is affirmed.
