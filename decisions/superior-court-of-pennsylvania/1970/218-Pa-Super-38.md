@@ -1,0 +1,36 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 525 to 529"
+decided: "1970-09-18"
+citations: ["218 Pa. Super. 38"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Weight, P. J., Watkins, Montgomebt, Jacobs, Hoffman, Spaulding, and Ceeconb, JJ."]
+parties: ["Commonwealth v. Stewart, Appellant."]
+source_url: "https://static.case.law/pa-super/218/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 795118
+cites_cases: ["10 A.L.R. 3d 974", "101 A. 2d 440", "107 A. 2d 543", "167 Pa. Superior Ct. 323", "174 Pa. Superior Ct. 280", "214 Pa. Superior Ct. 460", "214 Pa. Superior Ct. 536", "215 Pa. Superior Ct. 147", "237 A. 2d 339", "248 A. 2d 32", "249 A. 2d 351", "255 A. 2d 534", "256 A. 2d 868", "257 A. 2d 310", "257 A. 2d 645", "261 A. 2d 314", "351 U.S. 12", "372 U.S. 353", "373 U.S. 420", "378 Pa. 214", "384 U.S. 436", "393 U.S. 895", "395 U.S. 213", "428 Pa. 571", "432 Pa. 256", "433 Pa. 101", "434 Pa. 489", "436 Pa. 519", "74 A. 2d 656", "89 S. Ct. 156"]
+---
+
+# Commonwealth v. Stewart
+
+## Majority (Watkins, J.,)
+
+Opinion by
+Watkins, J.,
+This is an appeal, nunc pro tunc, from the judgment of sentence of the Court of Common Pleas, Trial Division, of Philadelphia, by the defendant-appellant, James R. Stewart, Jr., after conviction of larceny and forgery on March 1, 1963; and from the denial of a new trial, nunc pro tunc.
+The defendant, on March 5, 1963, was found guilty on five bills of indictment and sentenced to not less than 2 1/3 years nor more than 10 years in prison.
+On March 16, 1969, leave was granted by Judge Sloane to file post-trial motions, nunc pro tunc, and after appeal to this Court it was remanded for hearing. After post-conviction hearing before Judge Gold, the motion for a new trial was denied. Two arguments were pressed below and now are pressed here: (1) Admission of a statement allegedly made by the defendant in the form of an admission that he signed the checks in question was error because he had not been advised of his rights under Miranda v. Arizona, 384 U.S. 436, 16 L. ed. 2d 694, 86 S. Ct. 1602 (1966). (2) The failure of the court to have the charge transcribed is an effective denial of defendant’s post-trial remedies.
+The defendant relied on Commonwealth v. Little, 432 Pa. 256, 248 A. 2d 32 (1968), in which the Pennsylvania Supreme Court held Miranda applicable to a situation involving a tacit admission where the case was not finalized as of the date Miranda was announced. So in Little, Miranda was applied to a nunc pro tunc appeal as the defendant contends for in the instant case. See also, Commonwealth v. Gist, 433 Pa. 101, 249 A. 2d 351 (1969); Commonwealth v. Wetzel, 214 Pa. Superior Ct. 536, 257 A. 2d 310 (1969).
+However, in Jenkins v. Delaware, 395 U.S. 213, 23 L. ed. 2d 253, 89 S. Ct. 1677 (1969), the majority opinion by Mr. Chief Justice Wakken held that in view of the “justifiable reliance of law enforcement officials” on pre-existing constitutional standards pertaining to criminal procedure, and in view of “society’s interest in the effective prosecution of criminals in light of the protection [that such standards] afford [ed] criminal defendants”, the constitutional principles announced in Miranda v. Arizona, 384 U.S. 436, 16 L. Ed. 2d 694, 86 S. Ct. 1602, 10 A.L.R. 3d 974 (1966), holding that in the absence of intelligent waiver of the constitutional rights involved, confessions and other statements obtained through custodial interrogation are inadmissible in a criminal trial where the accused has not been informed of his right to counsel, and of his right to remain silent, and of the possible use of his statements as evidence against him, need not be applied to a post-Miranda retrial of a state criminal prosecution in which the original trial had commenced prior to June 13, 1966, the date on which the Miranda decision was announced. (Emphasis — The Writer)
+Miranda was announced June 13, 1966. The original trial in the instant case where the statement was introduced was held in 1963.
+Jenkins was decided on June 2, 1969. It was followed by Commonwealth v. Willman, 434 Pa. 489, 255 A. 2d 534 (1969), decided on June 27, 1969. Willman held clearly, on the authority of Jenkins, that Miramda was not retroactive and specifically not applicable to retrials when the original trial commenced prior to June 13, 1966. See also, Commonwealth v. Nash, 436 Pa. 519, 261 A. 2d 314 (1970); Commonwealth v. Savage, 214 Pa. Superior Ct. 460, 257 A. 2d 645 (1969).
+The second contention of the defendant is based on the fact that although a transcript of the record was kept and made available to the defendant the charge was not taken and transcribed so that the stenographer was unable to supply a copy of the charge.
+The court below said: “the evidence was clear and persuasive and the record does not reflect any exceptions to the Charge, and the defense attorney knew that the Charge was not transcribed. Defense attorney’s trial notes do not reflect any exceptions to the Charge and to the best of his recollection there were none.” The court stenographer states that the practice was that the consent of counsel was obtained before dispensing with the taking and transcribing of the charge. He testified as to the practice, but he had no recollection that there was an agreement in the instant situation. This was also true of counsel for the defendant at the time.
+In Griffin v. Illinois, 351 U.S. 12 (1956), where the only impediment to full appellate review was the lack of funds to buy a transcript so that only those who could afford the price could obtain a transcript, it was held that this was an unreasonable distinction which the court could not make under the Fourteenth Amendment.
+In the instant case, only the charge was missing and unobtainable. The right to transcribe the record is statutory. There is no constitutional requirement that the proceedings in a criminal prosecution be steno-graphically reported. The best practice, however, is to report the entire proceeding. 10 (a) P.L.E., Criminal Law §462. See, Commonwealth v. Diehl, 174 Pa. Superior Ct. 280, 101 A. 2d 440 (1953), as affirmed, 378 Pa. 214, 107 A. 2d 543 (1954); Commonwealth ex rel. Turk v. Ashe, 167 Pa. Superior Ct. 323, 74 A. 2d 656 (1950), Act of 1907, May 1, P. L. 135, §2, as amended, 17 P.S. §1802.
+In Commonwealth v. Banks, 428 Pa. 571, 237 A. 2d 339 (1968), the Supreme Court, in a homicide case, was confronted with the problem of the entire record never being transcribed and not available. The stenographer was dead and the notes could not be transcribed. The Supreme Court disposed of the appeal by a per curiam order of affirmance, but Mr. Justice Roberts wrote a strong dissent, joined by Mr. Justice Eagbn, on the basis of Douglas v. California, 372 U.S. 353, 83 S. Ct. 814 (1963) and Norvell v. Illinois, 373 U.S. 420, 83 S. Ct. 1366 (1963).
+However, on appeal, certiorari was denied by the Supreme Court in Banks v. Pennsylvania, 393 U.S. 895, 21 L. ed. 2d 177, 89 S. Ct. 156 (1968). See also, Commonwealth v. Anderson, 215 Pa. Superior Ct. 147, 256 A. 2d 868 (1969).
+The order of the court below denying defendant’s motion for a new trial is affirmed.
