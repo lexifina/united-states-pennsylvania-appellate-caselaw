@@ -1,0 +1,55 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 819 C.D. 1983"
+decided: "1985-03-08"
+citations: ["88 Pa. Commw. 141"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Crumlisii, Jr. and Judges Williams, Jr., Craig, MacPhail, Barry, Colins and Palladino.", "Judge Williams, Jr., did not participate in the decision in this case."]
+parties: ["Greater Johnstown Area Vocational-Technical School, Appellant v. Greater Johnstown Area Vocational-Technical Education Association, Appellee. Re: Robert (Bud) Ward."]
+source_url: "https://static.case.law/pa-commw/88/cases/0141-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1328770
+cites_cases: ["363 U.S. 574", "405 F.2d 1123", "432 A.2d 1152", "455 A.2d 779", "456 A.2d 715", "464 Pa. 92", "473 Pa. 576", "476 Pa. 27", "492 Pa. 515", "61 Pa. Commonwealth Ct. 191", "72 Pa. Commonwealth Ct. 24", "72 Pa. Commonwealth Ct. 374"]
+---
+
+# Greater Johnstown Area Vocational-Technical School v. Greater Johnstown Area Vocational-Technical Education Ass'n
+
+## Majority (Judge Palladino,)
+
+Opinion by
+Judge Palladino,
+Before us is the appeal of the Greater Johnstown Area Vocational-Technical School (Vo-Tech) from a decision of the Court of Common Pleas of Cambria County which affirmed an arbitrator’s award in favor of the Greater Johnstown Area Vocational-Technical Education Association (Association).
+The Vo-Tech and the Association were parties to a collective bargaining agreement (agreement) which was in effect July 1, 1981 through June 30, 1984. On October 27,1981, the Vo-Tech sent a letter to the president of the Association informing her (1) that Association members are prohibited from conducting Association business during normal school hours and (2) that Pennsylvania State Education Association (PSEA) field representatives are prohibited from entering the school building during the normal work day to engage in Association activities. The Association thereafter filed a grievance pursuant to the agreement. The arbitrator granted the Association’s grievance and found that because a “past practice” of permitting PSEA field representatives to appear at the Vo-Tech to meet with the Association president and/ or other teachers’ during their preparation or lunch periods existed and had evolved into an employment condition incorporated into the parties’ agreement, the Vo-Tech had violated the agreement.
+Before this Court the Vo-Tech contends: (1) that because the dispute involved PSEA field representatives who are not covered by the agreement, the dispute is not arbitrable; (2) that the award does not draw its essence from the agreement; and (3) that pursuant to the Public School Code of 1949 (School Code) it had the right to prevent the interruption of its educational program.
+With respect to the threshold issue of arbitrability, our Supreme Court stated in County of Allegheny v. Allegheny County Prison Employees Independent Union, 476 Pa. 27, 381 A.2d 849 (1977):
+As this Court noted in Board of Education of Philadelphia v. Federation of Teachers Local No. 3, 464 Pa. 92, 99, 346 A.2d 35, 39 (1975), Pennsylvania labor policy not only favors but requires the submission to arbitration of public employee grievances “arising out of the interpretation of the provisions of a collective bargaining agreement”. [Citation omitted.] From this policy is derived the corollary principle that where, as here, an arbitrator has interpreted a collective bargaining agreement in favor of the arbitrability of the grievance before him, a reviewing court should be slow indeed to disagree. As the Supreme Court of the United States observed in United Steelworkers of America v. Warrior & Gulf Navigation Company, 363 U.S. 574, 584-85, 80 S. Ct. 1347, 1354, 4 L. Ed. 2d 1409 (1960):
+“In the absence of any express provision excluding a particular grievance from arbitration, we think only the most forceful evidence of a purpose to exclude the claim from arbitration can prevail, particularly where, as here, the exclusion clause is vague and the arbitration clause quite broad.” (Emphasis added.) (Footnotes omitted.)
+County of Allegheny, 476 Pa. at 31-32, 381 A.2d at 851.
+After reviewing the applicable clauses of the agreement, we find no error in the arbitrator’s conclusion that the dispute concerning whether PSEA field representatives could meet with Association members during their preparation and lunch periods involved an employment condition benefitting Association members and therefore arose out of the interpretation or application of the provisions of the agreement. Moreover, the definition of grievance as “any alleged violation” of the agreement or “any dispute” involving “its meaning, interpretation or application” is quite broad. The arbitration provision, by its language, extends to grievances not resolved to the satisfaction of the parties in the final step of the grievance procedure. And there is no express provision excluding this particular dispute from either the grievance procedure or arbitration. Accordingly, we will not disturb the arbitrator’s decision on the arbitrability of the dispute.
+We must next determine whether the arbitrator’s award was drawn from the essence of the agreement. Northwest Tri-County Intermediate Unit No. 5 Education Association v. Northwest Tri-County Intermediate Unit No. 5, 61 Pa. Commonwealth Ct. 191, 432 A.2d 1152 (1981). The “essence” test, which defines our scope of review of an arbitrator’s award, has been articulated by our Supreme Court:
+To state the matter more precisely, where a task of an arbitrator, . . . has been to determine the intention of the contracting parties as evidenced by their collective bargaining agreement and the circumstances surrounding its execution, then the arbitrator’s award is based on a resolution of a question of fact and is to be respected by the judiciary if “the interpretation can in any rational way be derived from the agreement, viewed in light of its context, and any other indicia of the parties’ intention. ...”
+Leechburg Area School District v. Dale, 492 Pa. 515, 520, 424 A.2d 1309, 1312 (1981) (quoting Community College of Beaver County v. Community College of Beaver County, Society of the Faculty (PSEA/NEA), 473 Pa. 576, 593-94, 375 A.2d 1267, 1275 (1977) (quoting Ludwig Honold Manufacturing Co. v. Fletcher, 405 F.2d 1123, 1128 (3d Cir. 1969))).
+Four situations have been articulated where evidence of past practice is used in arbitration as indicia of the parties’ intention. Here, we are confronted with a situation within the fourth category, where evidence of past practice may prove an employment condition Avhich cannot be derived from any express language of the agreement. After reviewing evidence of the parties ’ conduct during prior collective bargaining agreements, the arbitrator found that for the past six years the Vo-Tech had permitted PSEA field representatives to meet with the Association president and/ or other teachers during their preparation or lunch periods. Upon entering the school, the field representatives would report to the main office to inform the Vo-Tech of their presence, with whom they would be meeting and where the meeting would take place. Based on these findings, the arbitrator concluded that this practice had evolved into an employment condition-incorporated into the parties’ agreement.
+The arbitrator’s decision that the Association is entitled to the continuation of this “past practice” does not conflict with any language of the agreement. Moreover, the agreement does not contain an integration clause which might serve to negate the notion that the parties intended to include any employment condition which cannot be derived from the express language of the agreement. See County of Allegheny. Thus, we hold that the arbitrator’s decision was drawn from the essence of the parties’ agreement.
+Finally, the Vo-Tech asserts that it acted within its rights under the ¡School .Code in deciding to prohibit PSEA field representatives from entering its building during normal school hours. While this may be true, the arbitrator found that it had been the VoTech’s practice to permit the field representatives’ entrance during school hours. Moreover, this Court will not supersede a provision in a collective bargaining agreement, or in this case a past practice which has been implicitly incorporated therein, because of a statutory conflict except where the conflict is explicit and definitive. County of Erie Appeal, 72 Pa. Commonwealth Ct. 24, 455 A.2d 779 (1983). We have examined the School Code and find no provision which would explicity prohibit the Vo-Tech from permitting Association members to meet with PSEA field representatives during preparation and lunch periods.
+We will, therefore, affirm the order of the court of common pleas which upheld the award of the arbitrator.
+Order
+And Now, this March 8, 1985 the order of the Court of Common Pleas of Cambria County in the above-captioned matter is hereby affirmed.
+Judge Colins dissents.
+Judge Williams, Jr., did not participate in the decision in this case.
+Act of March 10, 1949, PX. 30, as amended, 24 P.S. §§1-[ XXX-XX-XXXX ].
+The pertinent clauses are as follows:
+ARTICLE IV — CRIEVANCE PROCEDURE
+A. Definitions
+1. A “Grievance” is any alleged violation of this Agreement or any dispute with respect to its meaning, interpretation, or application.
+ARTICLE V — RICET8 OF PROFESSIONAL EMPLOYES
+H. Just Cause
+No Professional Employe shall be discharged, disciplined, reprimanded, reduced in ranis or compensation or deprived of any professional advantage without just cause.
+The four situations are:
+(1) to clarify ambiguous language; (2) to implement contract language which sets forth only a general rule; (3) to modify or amend apparently unambiguous language which has arguably been waived by the parties; and (4) to create or prove a separate, enforceable condition of employment which cannot be derived from the express language of the agreement
+County of Allegheny, 470 Pa. at 34, 381 A.2d at 852.
+We will not address the Vo-Teeh’s contention that it was unaware of this practice inasmuch as the arbitrator is the sole judge of factual questions in an arbitration proceeding. Northwest TriCounty. Questions which go to the merits of a grievance are reserved to the arbitrator and may not be ruled upon further by the courts. West Shore Education Association v. West Shore School District, 72 Pa. Commonwealth Ct. 374, 456 A.2d 715 (1983).
+A typical integration clause states that the written provisions constitute the entire agreement of the parties.
+In County of Allegheny, the parties’ agreement not only made no mention of past practices but contained a broad integration clause. Our Supreme Court held that an arbitration award incorporating into such an agreement a past practice antedating the effective date of the agreement cannot be said to “draw its essence” from the agreement.
