@@ -1,0 +1,48 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "01927"
+decided: "1993-05-25"
+citations: ["425 Pa. Super. 473", "625 A.2d 703"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before ROWLEY, President Judge, TAMILIA and BROSKY, JJ.", "ROWLEY, P.J., concurs in the result."]
+parties: ["PINE TOWNSHIP WATER COMPANY, INC., a Corporation, Appellant, v. FELMONT OIL CORPORATION, a Corporation, Consolidated Gas Supply Corporation, a Corporation, and Delta Drilling Company, a Corporation."]
+source_url: "https://static.case.law/pa-super/425/cases/0473-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 927715
+cites_cases: ["373 Pa.Super. 369", "419 Pa.Super. 201", "526 Pa. 617", "529 Pa. 350", "529 Pa. 360"]
+---
+
+# Pine Township Water Co. v. Felmont Oil Corp.
+
+## Majority (TAMILIA, Judge.)
+
+TAMILIA, Judge.
+Pine Township Water Company appeals from the November 5, 1992 Order denying its petition to open the June 3, 1992 judgment of non pros entered as a consequence of its delay and lack of diligence in prosecuting the Township’s complaint in trespass against the appellees, Freemont Oil Company (Freemont), Consolidated Gas Supply Company (Consolidated) and Delta Drilling Company (Delta).
+Appellant argues the defendants’ petition for non pros was precluded by Pa.R.J.A. 1901 which dictates, inter alia, a motion to terminate suit on the basis of inactivity shall be entered by the tribunal. Appellant avers the Court of Common Pleas of Indiana County adopted a local rule and practice, in accordance with Rule 1901, whereby the prothonotary would list for termination all cases without docket activity for two or more years and the court would then enter an Order stating all such cases would be terminated by judgment of non pros “unless appropriate action is taken by a party or parties in each case to reinstate the case.” (Appellant’s brief at p. 8.) It is appellant’s contention, pursuant to Rule 1901, a petition for non pros can be made only by court initiative. In the alternative, appellant argues judgment of non pros was improper because the requisite two-year period of inactivity had not passed, and appellees failed to allege prejudice.
+Appellant has presented this Court with no authority to support its argument that pursuant to Pa.R. J.A. 1901 a motion for a judgment of non pros may be made exclusively by the hearing tribunal. To the contrary, the note following the Rule contemplates a party may move to seek dismissal of a stale action.
+Note
+The general policy set forth in Subdivision (a) is based on an administrative consideration, not substantive or procedural standards applicable to speedy trials in either civil or criminal cases. This rule is intended to supplement, not to modify or abrogate, procedural rules or substantive decisions involving the rights of defendants in criminal cases to a speedy disposition of charges. It is intended to foster elimination of stale cases from the judicial system where the parties have failed to proceed and which are carried as open matters because of the failure on the part of any party to seek dismissal or otherwise to bring the matter to a conclusion.
+Pa.R.J.A. 1901, Note. Moreover,.support for the proposition a party may move for judgment non pros was expressed by our Supreme Court in Streidl v. Community General Hospital, 529 Pa. 360, 603 A.2d 1011 (1992):
+It does not matter whether the Prothonotary notifies the party of its intent to terminate the case, or whether the non-delaying party petitions for dismissal; the same standards apply.
+Id. at 362 n. 2, 603 A.2d at 1012 n. 2. Accordingly, we find appellant’s first argument devoid of merit.
+The denial of a petition to open and/or strike judgment of non pros is subject to an abuse of discretion standard of review. Sklar v. Harleysville Insurance Co., 526 Pa. 617, 587 A.2d 1386 (1991); Martin v. Grandview Hospital, 373 Pa.Super. 369, 541 A.2d 361 (1988). In order to open a non pros judgment three factors must be satisfied: 1) the petition to open must be promptly filed; 2) the delay must be reasonably explained; and 3) facts must be shown to exist which support a cause of action. Id. Pa.R.C.P. 3051. There is no disagreement appellant’s petition to open judgment was timely filed. However, we must also address whether the inordinate amount of docket inactivity has been reasonably explained.
+Appellant does not proffer an explanation for its failure to move forward, but instead avers the requisite two-year period after which judgment non pros can be entered had not passed. Because of the nature of this appeal, the specific facts of this case are immaterial while the procedural history is critical to appellant’s argument and we adopt as our own the trial court’s statement of the facts which follows:
+The facts of this case indicate that on June 27, 1979, Plaintiff filed a Praecipe for Writ of Summons in Trespass, followed by a Complaint against Defendants on February 2, 1982. Prior to Plaintiffs filing Praecipe to Remove Case from Termination List on December 24, 1990, the last docket activity of any kind on this matter occurred when Plaintiff, on June 6, 1988, filed the Deposition of James F. Cawley, C.P.A.. Thus, prior to the Plaintiffs December of 1990 Praecipe, the last activity to occur in this matter happened when Plaintiff filed the Deposition of June 6,1988.
+(Slip Op., Ruddock, J., 6/8/92, pp. 1-2.) The record thereafter indicates that on May 7, 1992, more than sixteen months after appellant’s December 24, 1990 praecipe to remove the case from the termination list, appellees petitioned for judgment non pros. Appellant argues non pros was erroneously entered because its December 24, 1990 praecipe began “a new two (2) year clock” and, therefore, the requisite two-year time period had not expired as of the appellees’ May 7, 1992 petition for non pros. We disagree.
+In order to dismiss a case for lack of activity the movant must show 1) a party has failed to diligently proceed with reasonable promptitude; 2) there was no compelling reason for the delay; and 3) the delay has caused some prejudice to the adverse party, which will be presumed in actions in which the delay exceeds two years. Streidl, supra. These standards apply whether the motion is made by a party or by the court, sua sponte. Id. Moreover, it is the responsibility of the plaintiff to move a case forward. Penn Piping, Inc. v. INA, 529 Pa. 350, 603 A.2d 1006 (1992); Pennridge Elec. v. Souderton School, 419 Pa.Super. 201, 615 A.2d 95 (1992). Appellant’s December 24, 1990 petition was neither substantive in nature nor exemplary of the type of positive docket activity contemplated by this Court in Penn Piping. Accordingly, we agree with the trial court appellant’s praecipe did not preclude an entry of a judgment non pros based on inactivity exceeding two years.
+Finally, appellant contends appellees’ failure to allege prejudice in their petition for non pros is fatal. However, because of our finding there was no docket activity for a time period exceeding two years, prejudice will be presumed and need not be averred or proven by the movant. See Penn Piping, supra.
+Based on the foregoing discussion, we affirm the November 5, 1992 Order denying appellant’s petition to open judgment.
+Order affirmed.
+ROWLEY, P.J., concurs in the result.
+. RULE 1901. PROMPT DISPOSITION OF MATTERS; TERMINATION OF INACTIVE CASES
+(a) General Policy. It is the policy of the unified judicial system to bring each pending matter to a final conclusion as promptly as possible consistently with the character of the matter and the resources of the system. Where a matter has been inactive for an unreasonable period of time, the tribunal, on its own motion, shall enter an appropriate order terminating the matter,
+(b) Primary Responsibility for Implementation of Policy.
+(1) Each court of common pleas is primarily responsible for the implementation of the policy expressed in subdivision (a) of this rule and is directed to make local rules of court for such purposes applicable to the court to the community court or district justices of the peace of the judicial district.
+(2) the Philadelphia Municipal Court and the Traffic Court of Philadelphia are each directed to make rules of court for such purposes applicable to their respective courts.
+(c) Minimum Standards. Before any order terminating a matter on the ground of unreasonable inactivity is entered, the parties shall be given at least 30 days’ written notice of opportunity for hearing on such proposed termination, which notice shall be given:
+(1) In person or by mail to the last address of record of the parties or their counsel of record and setting forth a brief identification of the matter to be terminated; or
+(2) By publication in the manner provided by rule of court in the legal newspaper designated by rule of court for the publication of legal notices in any case where notice by mail cannot be given or has been returned undelivered or where the docket of the matter shows no evidence of activity during the previous two years. Any matter terminated after notice by publication pursuant to this paragraph may be reinstated by the court after dismissal upon written application for good cause shown.
+Pa.RJ.A. 1901.
+. We note with disfavor appellant’s failure to provide this Court with the complete Indiana County rule he alleges is applicable to the disposition of this case. Moreover, our review of Indiana locad rules failed to disclose support for appellant’s position.
