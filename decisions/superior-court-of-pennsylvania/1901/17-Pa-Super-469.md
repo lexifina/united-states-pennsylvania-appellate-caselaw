@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 17"
+decided: "1901-07-25"
+citations: ["17 Pa. Super. 469"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beater, Orlady, W. W. Porter and W. D. Porter, JJ."]
+parties: ["May v. Newingham, Appellant."]
+source_url: "https://static.case.law/pa-super/17/cases/0469-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 835236
+cites_cases: ["1 Pa. 263", "125 Pa. 52", "15 Pa. 103", "159 Pa. 477", "16 Pa. 387", "165 Pa. 510", "21 Pa. 443", "22 Pa. 300", "34 Pa. 299", "37 Pa. 491", "48 Pa. 70", "49 Pa. 282", "5 W. & S. 217", "7 Pa. Superior Ct. 98", "79 Pa. 354", "79 Pa. 367"]
+---
+
+# May v. Newingham
+
+## Majority (Rice, P. J.,)
+
+Opinion by
+Rice, P. J.,
+It is a well settled principle that the law casts upon the assignee of a bond or a judgment note the duty of notifying the obligor or the promisor, in order to protect his rights thereto and prevent the extinguishment of the debt by payment to the obligee or promisee. Bury v. Hartman, 4 S. & R. 175, Brindle v. McIlvaine, 9 S. & R. 74, Henry v. Brothers, 48 Pa. 70, Horstman v. Gerker, 49 Pa. 282, Hodgdon v. Naglee, 5 W. & S. 217, Foster v. Carson, 159 Pa. 477, and Lee v. Sallada, 7 Pa. Superior Ct. 98, are a few of the numerous cases in which this principle has been applied. “ It is impossible to conceive upon what principle of justice a debtor should be prejudiced by an assignment of which he knows nothing. If the party whose interest and duty it is to give him notice, so that he can regulate his conduct according to his new relations, make it a point to keep him ignorant, he should certainly not be compelled to suffer, since one man is not to answer for the default of another. Down to the moment of notice the debtor may do whatever he could legally have done if no assignment had been made:” Black, C. J., in Gaullagher v. Caldwell, 22 Pa. 300. If voluntary payment to the obligee without notice of a prior assignment of the instrument will extinguish the debt, why should not the same protection be accorded a debtor who has been compelled by due process of law to pay the money to an attaching creditor of the obligee, especially where the obligee has assigned the instrument without consideration and for the sole purpose of defrauding his creditors ? All that the law requires of a garnishee is that he shall, in good faith, see that the money is recovered from him by due course of law; and if in good faith, without notice of the covinous assignment, this defendant made truthful answers to the interrogatories served upon her that she owed the money and had no knowledge or notice that the debt had been assigned, she did all that the law required of her. She was not bound to make untruthful or evasive answers, or to prolong the litigation by dilatory motions and appeals in order to protect an assignee of whom she had no knowledge. As was said in Bury v. Hartman, the contract between the assignee and the debtor commences with notice of the assignment. Down to that moment, to repeat the language of Chief Justice Black in Gaullagher v. Caldwell, the latter may do whatever he could legally have done if no assignment had been made. He is not bound to assume that the obligee had fraudulently assigned the obligation and to frame his conduct upon that assumption. Hence if final judgments in the attachment proceedings were obtained against the defendant before actual or constructive notice to her of the covinous assignment, she was in precisely the same position as if under like circumstances she had paid the money to the original obligee. To hold otherwise, if she can prove these facts, would be to make her the victim of the fraud that was aimed at her obligee’s creditors. To say that it was not aimed at her is no answer. The case is plainly distinguished from Pellman v. Hart, 1 Pa. 263, and Noble v. Thompson Oil Co., 79 Pa. 354, 367, because in each of those cases the garnishee had notice of the assignment in ample time to protect himself. It is alleged in the plaintiff’s replication that the defendant had such notice and as this allegation was not specifically denied by plea duly verified by affidavit, it is urged that the replication was admissible, under the rule of court, as conclusive evidence of that fact. The ruling admitting the replication in evidence for the purpose above stated was duly excepted to and is the subject of the assignment of error filed at bar. We are of opinion that the rule of court does not apply, but is confined in its operation by its express terms to actions founded on contract. The defendant may not be able to make good her offers, but we are of opinion that she should have an opportunity to do so, if she can.
+The assignments of error are sustained, the judgment is reversed and a venire facias de novo awarded.
