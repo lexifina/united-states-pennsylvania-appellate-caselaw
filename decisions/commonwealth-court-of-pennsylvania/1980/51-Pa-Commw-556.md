@@ -1,0 +1,34 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1198 C.D. 1979"
+decided: "1980-05-28"
+citations: ["51 Pa. Commw. 556"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Crumlish and Judges Rogers and.Craig, sitting as a panel of three."]
+parties: ["Darrel Edwards, Petitioner v. Commonwealth of Pennsylvania Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/51/cases/0556-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1909660
+cites_cases: ["10 Pa. Commonwealth Ct. 90", "11 Pa. Commonwealth Ct. 142", "133 Pa. Superior Ct. 518", "23 Pa. Commonwealth Ct. 188", "24 Pa. Commonwealth Ct. 248", "26 Pa. Commonwealth Ct. 156", "28 Pa. Commonwealth Ct. 57", "3 A.2d 211", "309 A.2d 165", "312 A.2d 77", "33 Pa. Commonwealth Ct. 376", "34 Pa. Commonwealth Ct. 345", "350 A.2d 882", "355 A.2d 614", "363 A.2d 890", "367 A.2d 390", "37 Pa. Commonwealth Ct. 401", "381 A.2d 1343", "383 A.2d 580", "390 A.2d 890", "408 A.2d 1191", "48 Pa. Commonwealth Ct. 65"]
+---
+
+# Edwards v. Commonwealth
+
+## Majority (President Judge Crumlish,)
+
+Opinion by
+President Judge Crumlish,
+This is an appeal from the Pennsylvania Unemployment Compensation Board of Review’s denial of benefits pursuant to Section 402(e) of the Unemployment Compensation Law. We affirm.
+Darrel Edwards was last employed by the Allegheny County Shuman Juvenile Detention Center as a Child Care Worker in the Jobpower program, which provides employment to low-income and minority unemployed. On August 15, 1978, Edwards filed a grievance based upon his employer’s failure to equivalently upgrade his salary in November of 1977 with other Jobpower employees. This problem, coupled with increased supervisory responsibilities, resulted in a nervous condition, which caused Edwards to notify his employer of illness on August 24, 1978. However, Edwards was physician-certified fit to work on September 8, 1978, and did not return until after the November 22, 1978 receipt of his grievance approval letter. Upon reporting for work that day, he found a termination letter, dated November 20, 1978, removing him from payroll because of the failure to either substantiate his continued absence or report for duty. Although Edwards claims to have requested a leave of absence, the referee denied benefits on the basis of a “voluntary quit” without cause of a necessitous and compelling nature as provided by Section 402(b)(1) of the Law, 43 P.S. §802(b)(l).. The Board modified the referee’s decision, finding that claimant’s separation was not voluntary, but Was an employer-initiated teiinination due to willful misconduct.
+Edwards initially argues that the Board erred by denying benefits under Sedtion 402(e) ráiher than Section 402(b) (l)’s “voluntarily leaving work” provision. The phrase specifically refers to a cláimant Who has “left of his own motion; he was nót discharged. It is the opposite of a discharge, dismissal or layoff by the employer or other action by the employer severing relations with his employes ...” Hutt v. Unemployment Compensation Board of Review, 28 Pa. Commonwealth Ct. 57, 59-60, 367 A.2d 390, 391 (1976), citing Labor and Industry Department v. Unemployment Compensation Board of Review, 133 Pa. Superior Ct. 518, 521, 3 A.2d 211, 213 (1938). Since there was an involuntary termination of employment, the Board properly treated this case as one involving a discharge for willful misconduct. See Unemployment Compensation Board of Review v. Simone, 24 Pa. Commonwealth Ct. 248, 355 A.2d 614 (1976).
+Although the Act does not define willful misconduct, an employee has been held ineligible for benefits under Section 402(e) if the suspension, discharge, or termination is related to work and based upon conduct which constitutes either a disregard of behavioral standards which an employer has a right to expect from his employee or a conscious indifference to the duties owed the employer. Homony v. Unemployment Compensation Board of Review, 11 Pa. Commonwealth Ct. 142, 145-46, 312 A.2d 77, 79 (1973); see also Unemployment Compensation Board of Review v. Williams, 23 Pa. Commonwealth Ct. 188, 191, 350 A.2d 882, 884 (1976), and Kentucky Fried Chicken of Altoona, Inc. v. Unemployment Compensation Board of Review, 10 Pa. Commonwealth Ct. 90, 97, 309 A.2d 165, 168-69 (1973).
+Edwards attempts to counter the Section 402(e) denial of benefits by personal testimony that he sought a sick leave of absence from his employment supervisors, and thus his employer failed to sustain the burden of proof for willful misconduct. Since the Board had the fact-finding authority to resolve all questions of credibility and conflicts in testimony and the party having the burden of proof prevailed below, the conclusions are binding on this Court if they are supported by substantial evidence. Rodriguez v. Unemployment Compensation Board of Review, 48 Pa. Commonwealth Ct. 65, 67, 408 A.2d 1191, 1192 (1979); Geesey v. Unemployment Compensation Board of Review, 33 Pa. Commonwealth Ct. 376, 378, 381 A.2d 1343, 1344 (1978). We are unable to conclude after careful review that either the Board or referee erred by finding that Edwards did not request a leave of absence.
+The law in these cases is well settled. Where an employee has been physician-cleared for return to work, then fails to maintain reasonable contact or communication with his employer during a subsequent period of prolonged absence, the employer’s expectations are clearly violated, and the Board’s findings, if properly found as fact, will support a conclusion of willful misconduct. Blessings v. Unemployment Compensation Board of Review, 34 Pa. Commonwealth Ct. 345, 347, 383 A.2d 580, 581 (1978); Cf. Bajor v. Unemployment Compensation Board of Review, 37 Pa. Commonwealth Ct. 401, 390 A.2d 890 (1978).
+After being given medical clearance on September 8, 1978 for employment, Edwards returned to work on November 22, 1978, only after receiving a satisfactory response to his work grievance, but failed to request a leave of absence, supply further medical certifications for his condition, or keep open the lines of communication with his employer. His actions are clearly violative of those standards of conduct which an employer has a right to expect from an employee, and there, benefits were properly denied.
+Accordingly, we
+Order
+And Now, this 28th day of May, 1980, the order of the Unemployment Compensation Board of Review, dated May 9, 1979, denying benefits to Darrel Edwards, is hereby affirmed.
+Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §802(e).
+An employer must sustain the burden of proving willful misconduct before the Board. Lee v. Temple University (Personnel), 26 Pa. Commonwealth Ct. 156, 363 A.2d 890 (1976).
