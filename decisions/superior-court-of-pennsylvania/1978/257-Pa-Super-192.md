@@ -1,0 +1,49 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "634 and 635"
+decided: "1978-07-12"
+citations: ["257 Pa. Super. 192", "390 A.2d 777"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WATKINS, President Judge, and JACOBS, HOFFMAN, CERCONE, PRICE, VAN der VOORT and SPAETH, JJ.", "PRICE and VAN der VOORT, JJ., dissent.", "WATKINS, former President Judge, did not participate in the consideration or decision of this case."]
+parties: ["COMMONWEALTH of Pennsylvania v. Lonnie L. DULL, Appellant. COMMONWEALTH of Pennsylvania v. Bernard YAGLE, Appellant."]
+source_url: "https://static.case.law/pa-super/257/cases/0192-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 102954
+cites_cases: ["244 Pa.Super. 173", "285 A.2d 189", "285 A.2d 191", "326 A.2d 272", "420 U.S. 332", "446 Pa. 24", "458 Pa. 418", "468 Pa. 338", "6 L.Ed. 165"]
+---
+
+# Commonwealth v. Dull
+
+## Majority (SPAETH, Judge:)
+
+SPAETH, Judge:
+This appeal is from the denial of a petition for writ of habeas corpus.
+On November 24, 1975, a jury was empaneled and sworn to try appellants, Lonnie L. Dull and Bernard Yagle. Dull was charged with one count of simple assault and Yagle with two counts, each of aggravated assault and of simple assault. On November 25 and 26, Andrew Hovanec testified for the Commonwealth. On December 1, following a recess for the Thanksgiving holiday, trial resumed. The district attorney informed the trial judge that during the recess Hovanec had suffered a heart attack and was hospitalized. In an in camera discussion the judge informed appellants’ counsel of this development and of the district attorney’s request that Mrs. Hovanec and her children, who were present in the courtroom, be excused from testifying because they were distraught over Mr. Hovanec’s condition. The judge indicated his intention to declare a mistrial because “the ends of justice . . . [might] be defeated by unnecessarily prolonging the trial by excusing witnesses from appearing in their normal turn . . . ” N.T. 12/1/75, 3. Defense counsel objected, arguing inter alia that
+the prosecuting witness here, Mr. Hovanec, has testified at length already in the case, as well as protracted cross examination having occurred. There has been no indication thus far that his testimony or any additional testimony would be needed further in the case. Secondly, Mrs. Hovanec and her two children are, according to the District Attorney, only witnesses in the case of the Commonwealth v. Dull, and all three of them are in the courtroom at the present time .
+Id.
+Despite this objection the judge sua sponte declared a mistrial.
+After an application to quash the indictments was denied, appellants’ counsel on February 17, 1976, filed a petition for writ of habeas corpus, contending that appellants’ retrial would constitute a violation of the double jeopardy clause of the Fifth Amendment of the United States Constitution and the Pennsylvania Constitution. The lower court denied the petition, and this appeal followed.
+-1-
+In Commonwealth v. Stroup, 244 Pa.Super. 173, 366 A.2d 1248 (1976) we stated:
+A trial judge “may declare a mistrial only for reasons of manifest necessity”. Pa.R.Crim.P. 1118(b). This “manifest necessity” test or standard must be grounded upon a consideration of the importance to the defendant to be tried by the tribunal first impanelled. . . . This standard has been held to include attention to the cause of public justice. The “Government [has] the right to retry a defendant after a mistrial only where ‘there is a manifest necessity for the act, or the ends of public justice would otherwise be defeated’.” United States v. Wilson, 420 U.S. 332, [344], 95 S.Ct. 1013, 43 L.Ed.2d 232 .. . (1975) citing United States v. Perez, 9 Wheat. (22 U.S.) 578, 580, 6 L.Ed. 165 .. . (1824). If the appropriate circumstances of manifest necessity and interests of justice do not exist, then the double jeopardy clause of the Fifth Amendment of the United States Constitution prevents retrial. . . . This rule was made applicable to the states through the Fourteenth Amendment . . . However, “another trial is allowable where a court sua sponte declares a mistrial without the defendant’s consent and over his objection where ‘manifest necessity’ justifies the declaration of the mistrial”. .
+Id., 244 Pa.Super. at 179-80, 366 A.2d at 1251 (citations omitted).
+The Commonwealth argues that appellants have waived their right to challenge the trial judge’s sua sponte declaration of a mistrial because defense counsel did not specifically object to the judge’s finding that Mr. Hovenac was seriously ill. Commonwealth v. Clair, 458 Pa. 418, 326 A.2d 272 (1974). However, in Commonwealth v. Bartolomucci, 468 Pa. 338, 362 A.2d 234 (1976), the Supreme Court rejected this argument stating:
+“[T]he Perez doctrine of manifest necessity stands as a command to trial judges not to” declare a mistrial absent manifest necessity. . . . Thus, unlike the vast majority of situations wherein Clair’s requirements are strictly enforced, in the instant circumstance, the Constitution of the United States prohibits a sua sponte declaration of a mistrial absent manifest necessity. . . . [T]he lack of a correct specific objection should not be viewed as consent or a request, nor should it be considered as a functional equivalent of these, that is, a waiver. .
+Id., 468 Pa. at 346, 362 A.2d at 238-39, (citations omitted).
+Therefore, appellants’ claim is properly before us and we must determine whether the trial judge’s declaration of a mistrial was manifestly necessary.
+-2-
+In making this determination we are controlled by the Supreme Court’s decision in Commonwealth v. Ferguson, 446 Pa. 24, 285 A.2d 189 (1971). There the facts were as follows. The defendant alleged that he had been twice placed in jeopardy by his retrial. At his first trial the first witness had started to testify when the trial judge excused the jury in order to hear testimony on an outstanding suppression motion. After this hearing was completed the judge recessed for the weekend.
+On Monday morning, the court was informed that Jack Goldberg, the Commonwealth’s key witness on Bill 1003, was ill and would not be able to testify. The district attorney stated that Mrs. Goldberg had called and said her husband was ill, suffering from subclinical pneumonia. He then said that he contacted the physician who supposedly had made that diagnosis and was told that the doctor had examined Mr. Goldberg on Saturday and that at that time Mr. Goldberg had a bad cough and a temperature of 101 degrees. The doctor would not say, however, what Mr. Goldberg’s condition was, nor would he give a prognosis.
+Id., 446 Pa. at 27, 285 A.2d at 190.
+In addition to Bill 1003 charging the defendant with aggravated robbery of Jack Goldberg, Bills 1001 and 1002 charged him with aggravated robbery and conspiracy to commit robbery against one Chester Jordan. The district attorney represented to the trial judge that “Mr. Goldberg was a necessary witness, first on Bill 1003, but also to establish the validity of the whole identification process [as to Bills 1001 and 1002]”, and therefore requested that a mistrial be granted. Defense counsel objected to this request and argued either that the bills should be severed and the trial proceed as to Bills 1001 and 1002, involving the other victim, or that the judge should grant a continuance to determine Mr. Goldberg’s availability. The judge, however, granted the Commonwealth’s request for a mistrial. On appeal the Supreme Court stated:
+[W]e do not believe that the facts in the instant case justified the granting of a mistrial at the time of the district attorney’s request. The trial could have proceeded on the other indictments, completing the testimony of Chester Jordan and other witnesses, and then granting a continuance until there was a definite diagnosis of Mr. Goldberg’s condition. The court could even have sent the jury home early for the day until more was known about Mr. Goldberg’s health. If he in fact did have pneumonia, then the mistrial could have been granted on the bills in which his testimony was needed. But anything less than a definite diagnosis, introduced with more formality than merely the introduction into evidence of the fact of the telephone call of the undoubtedly nervous wife of the prosecution witness, does not give the trial court ample grounds for subjecting appellant to the continuing ordeal of a pending trial.
+Id., 446 Pa. at 29-30, 285 A.2d 191.
+So here: The trial judge had no “definite diagnosis” of Mr. Hovanec’s condition. He therefore did not have facts that justified “subjecting appellants] to the continuing ordeal of a pending trial.” At the least the judge should have continued the case to ascertain Mr. Hovenac’s condition before determining that a mistrial was necessary.
+The order denying appellants’ petition for writ of habeas corpus is reversed, and appellants are ordered discharged.
+PRICE and VAN der VOORT, JJ., dissent.
+WATKINS, former President Judge, did not participate in the consideration or decision of this case.
+. Hovanec and another person had filed the private complaints on which the charges against appellants were based.
+. The Commonwealth did not request that a mistrial be granted, although the district attorney stated at the in camera hearing that “[t]he Commonwealth joins in the [Judge’s] motion for a mistrial.” N.T. 12/1/75, 5.
+. Upon motion of the Commonwealth, this court quashed the appeal. Appellants filed a petition for allowance of appeal to the Supreme Court at No. 1234 Allocatur Docket. On June 3, 1977, the Court granted the petition, vacated the order of this court quashing the appeal, and remanded the case to this court for determination of the appeal on the merits.
