@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 337"
+decided: "1939-12-13"
+citations: ["137 Pa. Super. 599"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Cunningham, Stadtfeld, Parker and Rhodes, JJ."]
+parties: ["Brown v. Saltillo Borough Council (et al., Appellant)."]
+source_url: "https://static.case.law/pa-super/137/cases/0599-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1021094
+cites_cases: ["88 Pa. Superior Ct. 525"]
+---
+
+# Brown v. Saltillo Borough Council
+
+## Majority (Parker, J.,)
+
+Opinion by
+Parker, J.,
+The sole question in this workmen’s compensation case is what base shall be used to compute the compensation. Willis G. Brown was continuously employed by the American Refractories Company for more than twenty-two years as a dinky operator and worked regularly six or seven days each week. On Saturday, October 16, 1937, he had a day off and was requested by a representative of the defendant borough to assist in shoveling and hauling road material, during the forenoon, for which service he was to receive thirty-five cents per hour. After working three and one-half hours and while employed, he was killed instantly by a landslide. He left a widow and three children to survive him. It is conceded that his wages with Refractories were regularly more than $24 per week, the maximum upon which death compensation may be based (Act, June 2, 1915, P. L. 736, §307, as amended by Act, April 26, 1929, P. L. 829, 77 PS §581). It is also agreed that his wage rate with the borough was $15.40 per week. The employer concedes liability for compensation computed on a basis of $15.40 as fixed by the rate of wages paid by the borough, while the claimant contends that she is entitled to add the wages paid by Refractories and the Borough, subject to the maximum limitation of $24 per week, to find such base. The referee, the board, and a common pleas court sustained the position of the claimant and we agree with that conclusion.
+It is provided in part by §309 (77 PS §582): “Where the employee is working under concurrent contracts with two or more employers, his wages from all employers shall be considered as if earned from the employer liable for compensation.” The question therefore resolves itself into the problem as to whether the deceased’s contracts were concurrent as that term is used in the statute. The precise question raised does not appear to have been presented to the board or any court in this jurisdiction. We must construe the meaning of the expression “working under concurrent contracts.”
+Brown had not terminated his contract with Refractories when that concern shut down for the day. Just as on all former days, it was assumed that the employee would return to work the next working day. His relation to it remained the same as it had been for more than twenty-two years. He continued to be in the employ of that concern although he was not at the time of the accident on its premises or engaged in its business. He returned for work each day under the same contract and a new agreement was not required. The contract continued. It is even clearer that he was working at that time under a contract with the borough. The two contracts were therefore concurrent.
+The appellant urges that employments are not concurrent unless each employer at the time has the right to direct the manner in which the task shall be performed or exercises like authority of a master over his servant, or at least unless the parties cooperated in the control of the employee. To so hold would require us to add words to the statute in place of following its plain mandate.
+Where one performs services for two or more parties within a given period of time and the employee is at the same time under contracts with both, his actual services may be concurrently furnished to and be for the benefit of both, or he may during that period be under concurrent contracts with both but be actually at the time the servant of only one. In the case of Garman v. Cambria Trust Co., 88 Pa. Superior Ct. 525, the employee was a messenger for two employers and was injured while on an errand for both. In such case the contract and the actual employment were both concurrent. Here the contracts were concurrent but the actual work was not done concurrently for both. An examination of the sentence in question as well as the remainder of this compensation act shows clearly that it was the intention of the legislature to place both classes of employees to which we have referred in the same category.
+The expression “as if earned from the employer liable for compensation” shows that wages received from one not at the time in control of the services of the employee are to be taken into account and necessitates a broader construction than that suggested by appellant. In the Garman case the compensation was based upon the earnings of the employee from both sources but the employers were each held liable for the one-half thereof. In that situation the entire wages paid are bound to be taken into consideration as each was liable for compensation. Section 309 provides that all of the payments shall be taken into account even though the employers are not all liable for compensation. This fact supports our conclusion.
+It is plain that the legislature intended to give some compensation to an employee for loss of earning power and such loss can only be fairly determined by considering what the employee earns from all sources. Such combined earnings reflect Ms actual earning power. Not only so, but our construction is in harmony with the general intent of the legislature as exhibited at numerous places in the statute where special provisions are made for the purpose of measuring earning power.
+As the court below pointed out, it is interesting to note that when extensive changes were made in the compensation act by amendment, .June 21, 1939, the same language was employed as here but there was an additional limitation placed upon that liability to the effect that it only applies where “the defendant employer-has knowledge of such employment prior to the accident.” From this it is evident that the legislature interpreted the clause as we have done.
+Judgment affirmed.
