@@ -1,0 +1,43 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "97 Misc. Docket No. 2"
+decided: "1979-08-07"
+citations: ["44 Pa. Commw. 610"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to President Judge Bowman and Judges Crumlish:, Jr., Wilkinson, Jr., Mencer, Rogers, Blatt, DiSalle, Craig and MacPhail."]
+parties: ["George Jones, Petitioner v. Commonwealth of Pennsylvania, Pennsylvania Board of Probation and Parole, Respondent."]
+source_url: "https://static.case.law/pa-commw/44/cases/0610-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1898962
+cites_cases: ["26 Pa. Commonwealth Ct. 234", "29 Pa. Commonwealth Ct. 268", "363 A.2d 866", "37 Pa. Code §71.4", "370 A.2d 813", "38 Pa. Commonwealth Ct. 488", "39 Pa. Commonwealth Ct. 524", "394 A.2d 647", "395 A.2d 1035", "395 F. Supp. 404", "408 U.S. 471"]
+---
+
+# Jones v. Commonwealth
+
+## Majority (Judge Craig,)
+
+Opinion by
+Judge Craig,
+Petitioner George Jones’ Petition for Review against the Pennsylvania Board of Probation and Parole (Board) is before us for consideration of the cross-motions for summary judgment filed by both petitioner and the Board.
+An Allegheny County judge sentenced petitioner, in 1973, to a term ultimately set at 2 1/2 to 5 years, effective January 27, 1974, with a maximum expiration date being January 27,1979.
+On July 27, 1976, the expiration date of the minimum sentence, petitioner was actually released on parole from the State Correctional Institution at Pittsburgh.
+On January 6, 1977, while on parole, petitioner was arrested upon new charges of armed robbery and other offenses and incarcerated in the Allegheny County Jail. On the next day, January 7, the Board lodged a parole violation warrant against petitioner at that jail. Petitioner, according to his averment, satisfied bail as to the new charges but remained in custody under the Board warrant.
+After an October, 1977 trial in Allegheny County, petitioner was sentenced December 15, 1977 to three consecutive terms of 10 to 20 years on three counts of armed robbery and to various concurrent terms for other offenses.
+On December 22, 1977, petitioner was transferred from the Allegheny County Jail and entered into the State Correctional Institution at Pittsburgh under the newly-imposed sentence. On February 2, 1978, petitioner was transferred to the State Correctional Institution at G-raterford and there entered as a parole violator under his original sentence.
+During the period between February 2, 1978 and April, 1978, the Board three times scheduled petitioner for a final parole violation hearing, and each time the scheduled hearing was postponed because of the transfer of petitioner from Graterford to Allegheny County Jail and back to Graterford.
+Finally on April 6, 1978, when the hearing was again set, petitioner’s counsel asked for a continuance and, on the rescheduled date of June 8, 1978, again, requested a continuance. The full Board revocation hearing was held July 13, 1978, pursuant to which the Board took action to recommit petitioner to serve his unexpired original term, extending his maximum expiration date under the original sentence to July 7,1979.
+Petitioner raises four issues: (1) The Board’s parole violation warrant, lodged against petitioner as a detainer, deprived him of due process and the right to be free on bail without a hearing; (2) the Board violated the law by failing to afford petitioner a timely revocation hearing; (3) the Board violated the law by entering petitioner at the State Correctional Institution at Pittsburgh under the new sentence during the period of December 22, 1977 to February 6, 1978; and (4) the Board’s recomputation of the expiration date of petitioner’s original sentence, deleting credit for time at liberty on parole, was in violation of the law.
+As to petitioner’s initial claim, that the Board’s parole violation warrant deprived him of due process and the right to be free on bail without a hearing, we note that the record shows that petitioner signed a waiver of preliminary revocation hearing. Moreover, the continuation of an arrested parolee under pretrial detention has been constitutionally approved by the United States Supreme Court. Morrissey v. Brewer, 408 U.S. 471, 487 (1972).
+With respect to the second question, under the Board’s regulations at 37 Pa. Code §71.4, in accordance with United States ex rel. Burgess v. Lindsey, 395 F. Supp. 404 (E.D. Pa. 1975), the parole violation hearing must be held within 120 days (not 30 days, as petitioner contends) from the date the Board receives official notification of the new conviction, except that, where the parolee is confined in a county correctional institution, the final hearing must be held within 120 days after the official verification to the Board of the return of the parolee to a state correctional facility.
+Therefore, the 120-day period did not begin to run until petitioner was transferred to the State Correctional Institution at Pittsburgh on December 22, 1977, having been confined in the county jail before that date. Despite the three-time postponement of hearings scheduled during February and March because of transfers between institutions, the revocation hearing was definitely scheduled April 6, 1978, less than 120 days after December 22, 1977. The two postponements, from April 6 and from the rescheduled date of June 8, were at the request of petitioner’s counsel and therefore cannot be charged against the Board. See Adams v. Pennsylvania Board of Probation and Parole, 39 Pa. Commonwealth Ct. 524, 395 A.2d 1035 (1979). We hold that the revocation hearing was timely in accordance with the law.
+With respect to the third question, we have already held, in Young v. Pennsylvania Board of Probation and Parole, 29 Pa. Commonwealth Ct. 268, 370 A.2d 813 (1977), that the fact that petitioner was, as here, first entered at a state correctional institution on his new sentence did not preclude the Board from timely revoking his parole and reimposing the remainder of the old sentence.
+It is true that, by statute, where a parolee commits and is convicted of a new crime while on parole, the backtime on the original term must be served before commencing the new term in the situation where both the old and new sentences are to be served in state correctional institutions. Thus, the recommitment of petitioner to the state institution on December 22, 1977 under the new sentence was in error. Under the Young case, supra, that error was correctable and was corrected; as noted below, the new maximum expiration date gives petitioner full credit, toward the original sentence, for the time served in custody after his arrest while on parole, January 6, 1977.
+Petitioner’s final issue is that it is a violation of the laws and constitutions to withhold credit for the time spent at liberty on parole. The statutory section, last cited above, expressly provides that a parole violator, if convicted of a new crime, “shall be given no credit for the time at liberty on parole.” It has clearly been held that such a refusal of credit, and recomputation of a maximum expiration date accordingly, is not violative of constitutional rights. Kuykendall v. Pennsylvania Board of Probation and Parole, 26 Pa. Commonwealth Ct. 234, 363 A.2d 866 (1976).
+The Board’s establishment of a new maximum date for petitioner’s original sentence, at July 7, 1979 was correct. Petitioner had served exactly 2 1/2 years, his minimum, when he was paroled. Pursuant to his arrest while on parole, he reentered custody January 7, 1977; when the two years and six months remaining in the original maximum term is added to that date, the expiration date properly was July 7, 1979.
+In addition to applying all state institution time, up to that date, to the old sentence, it was also proper to apply the county jail time, in 1976 and 1977, to the old sentence because, having allegedly satisfied bail, petitioner’s county jail custody was by virtue of the Board’s warrant. Davis v. Pennsylvania Board of Probation and Parole, 38 Pa. Commonwealth Ct. 488, 394 A.2d 647 (1978).
+Therefore the Board’s actions with respect to the custody of petitioner have been valid. We grant the Board’s motion for summary judgment and dismiss petitioner’s motion for summary judgment.
+Order
+And Now, this 7th day of August, 1979, petitioner’s motion for summary judgment is dismissed and respondent Board’s motion for summary judgment is granted.
+Section 21.1(a) of the Act of August 6, 1941, PX. 861, added by the Act of August 24, 1951, P.L. 1401, as amended, 61 P.S. §331.21a(a).
