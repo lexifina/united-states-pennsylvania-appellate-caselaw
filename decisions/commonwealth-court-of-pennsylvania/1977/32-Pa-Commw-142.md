@@ -1,0 +1,38 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1544 C.D. 1976"
+decided: "1977-10-11"
+citations: ["32 Pa. Commw. 142"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Wilkinson, Jr. and Rogers, sitting as a panel of three."]
+parties: ["Curtis Kells, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/32/cases/0142-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1883492
+cites_cases: ["21 Pa. Commonwealth Ct. 387", "22 Pa. Commonwealth Ct. 479", "27 Pa. Commonwealth Ct. 142", "27 Pa. Commonwealth Ct. 522", "29 Pa. Commonwealth Ct. 548", "296 A.2d 297", "303 A.2d 875", "309 A.2d 72", "346 A.2d 591", "349 A.2d 511", "365 A.2d 459", "365 A.2d 889", "367 A.2d 366", "372 A.2d 38", "6 Pa. Commonwealth Ct. 484", "8 Pa. Commonwealth Ct. 486", "9 Pa. Commonwealth Ct. 597"]
+---
+
+# Kells v. Commonwealth
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+Curtis Kells appeals from a decision of the Unemployment Compensation Board of Review that he is ineligible for benefits because he lost his work as the result of misconduct.
+The appellant had worked for the Commercial Carpet Company for thirteen months when on May 6, 1974 he was dismissed for alleged excessive unjustified absenteeism. A referee originally found the appellant eligible for benefits but the Board, after a remand and two additional hearings, reversed and denied benefits, finding that Mr. Kells’ absenteeism did constitute willful misconduct. An appeal to this Court resulted in a remand to the Board for the purpose of determining whether or not the claimant’s absences prior to May 5, 1974 were justified and were taken with proper notice to the employer. Unemployment Compensation Board of Review v. Kells, 22 Pa. Commonwealth Ct. 479, 349 A.2d 511 (1975). The Board, without a further evidentiary hearing, made additional findings of fact in response to our remand and again denied benefits.
+We therefore proceed, within our normal scope of review in unemployment compensation eases, to a determination of whether the findings of the Board of Review are supported by substantial evidence on the record. Gladieux Food Services, Inc. v. Unemployment Compensation Board of Review, 27 Pa. Commonwealth Ct. 142, 365 A.2d 889 (1976).
+The claimant’s contention that the record contains only hearsay evidence that he was frequently absent during February, March and April of 1974, is without effect. The claimant himself introduced check stubs which accompanied sick benefit payments showing a number of absences.
+The real issue is whether or not the claimant’s absences were reported to the employer in a proper and timely manner consistent with company rules. It is settled that a failure to so report “does constitute willful misconduct justifying discharge and precluding the recovery of benefits.” Kells, supra at 482, 349 A.2d at 513, citing Ferko v. Unemployment Compensation Board of Review, 9 Pa. Commonwealth Ct. 597, 309 A.2d 72 (1973). See also Gardner v. Unemployment Compensation Board of Review, 29 Pa. Commonwealth Ct. 548, 372 A.2d 38 (1977).
+The Board of Review on remand found that: “The claimant usually failed to give notice of the reason for his absence.” Kells says that this finding is based solely on uncorroborated hearsay and cannot therefore support the Board’s holding. We disagree.
+The record contains testimony which supports the Board’s finding that the claimant “usually failed to give notice of the reason for his absences.” After it was established that there were several persons to whom the claimant could report his reasons for being absent, Kells’ counsel on cross-examination questioned the president of Commercial Carpet as follows:
+Attorney: And the fact that you didn’t talk to him for a two-month period doesn’t mean that he didn’t talk to Mr. Thompson or Mr. Grant [sic], am I correct?
+Mr. Graff: Well, that’s not quite correct because I checked with Mr. Thompson and Mr. Graham on a weekly basis and I asked them to contact Kells to find out whether he’s going to come back to work or not. . . .
+Although this answer, in context importing that Kells had not reported his intended absences to Thompson or Graham, is based on hearsay, it was elicited by counsel for the claimant on cross-examination and the same counsel neither objected to the answer as unresponsive nor moved that it be stricken. While in Walker v. Unemployment Compensation Board of Review, 27 Pa. Commonwealth Ct. 522, 367 A.2d 366 (1976), we held that a finding of fact based solely on hearsay cannot stand, in neither Walker nor any of the authorities on which it depended, was the hearsay elicited and permitted to remain in the record without objection by a party who later asserted its insufficiency as the basis for a finding. Nevertheless, the record here contains corroboration of the finding that Kells did not report all of Ms absences. In response to a question from the referee as to whether the claimant gave any reason for missing work, Commercial Carpet’s president replied, “On one occasion he did, yes.” The Board of Review as fact finder is entitled to assess the credibility of the witnesses, determine the weight to be accorded their testimony, and consider the reasonable inferences which can be drawn from the testimony. Pellegrino v. Unemployment Compensation Board of Review, 8 Pa. Commonwealth Ct. 486, 303 A.2d 875 (1973); Loder v. Unemployment Compensation Board of Review, 6 Pa. Commonwealth Ct. 484, 296 A.2d 297 (1972). It was therefore within the Board’s power to draw the inference from the testimony just described that on occasions other than the one referred to, the claimant did not provide his employer with notice of intended absences.
+Kells also says that his own testimony establishes that he reported his absences. Of course the presence of conflicting testimony in the record does not demonstrate the absence of other competent evidence supporting the findings of the Board. Unemployment Compensation Board of Review v. Moran, 21 Pa. Commonwealth Ct. 387, 346 A.2d 591 (1975). Nor was the Board compelled to find for the claimant because he introduced check stubs showing that he was paid sick leave benefits by his union. Although testimony established that the employer was required to certify in writing the employee’s days absent as a condition of payment, there is also proof in the record that tends to show that Kells signed the certifications. It is for the Board to decide which version of the events is credible and, in the absence of fraud, we are bound by the Board’s determination. See Unemployment Compensation Board of Review v. Kessler, 27 Pa. Commowealth Ct. 1, 365 A.2d 459 (1976).
+Order
+And Now, this 11th day of October, 1977, the order of the Unemployment Compensation Board of Review dated August 4, 1976 is hereby affirmed.
+Section 402(e) of The Unemployment Compensation Law, Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §802(e).
+The referee originally justifiably believed that the reason for Mr. Kells’ dismissal was his failure to report to work on May 5, 1974. Subsequent hearings determined, however, that Mr. Kells was dismissed because of an alleged pattern of unjustified absenteeism prior to May 5, 1974.
+Somewhat unusually for an unemployment compensation case, the claimant was represented at the last and crucial hearing by vigorous counsel and the employer was unrepresented.
