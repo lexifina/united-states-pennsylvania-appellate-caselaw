@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 187"
+decided: "1898-11-21"
+citations: ["9 Pa. Super. 13"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Wick-ham, Beaveb, Reeder, Oblady, Smith and Pobteb, JJ."]
+parties: ["P. C. Martin and I. E. Martin, partners, doing business under the firm name of P. C. Martin & Co., v. M. L. Zahnizer, H. B. Zahnizer and John R. Rush, partners, doing business under the firm name and style of the East End Oil Company, Appellants."]
+source_url: "https://static.case.law/pa-super/9/cases/0013-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 817257
+cites_cases: ["171 Pa. 89", "62 Pa. 374", "89 Leg. Int. 178"]
+---
+
+# Martin v. Zahnizer
+
+## Majority (Orlady, J.,)
+
+Opinion by
+Orlady, J.,
+The liability of the defendant partnership under the contract as made between I. E. Martin and M. L. Zahnizer, depends entirely on the authority of Zahnizer to act for and to bind the defendant, and not solely upon the credence to be given to the testimony of either.
+The plaintiff claimed that Zahnizer was a member of the defendant partnership and was its authorized agent to purchase an interest in the oil lease owned by the plaintiff. The defendant denied all such authority, and Zahnizer testified, that the contract was between him and I. E. Martin as individuals.
+The learned court below said to the jury, “ This thing comes down to a question of fact between Mr. Martin and Mr. Zahnizer, and it will be for you to determine from their testimony as to which of them is stating the facts correctly. If the facts as stated by Martin are true, then the verdict should be for the plaintiff; if the facts as stated by Mr. Zahnizer are true then the verdict should be for the defendant.” The defendant’s first point was as follows: “ If the jury find that Mr. Zahnizer, in the particular transaction in question, did not represent or undertake to represent the East End Oil Co., the verdict must be for the defendant,” and this was answered, viz: “ We affirm that point, but qualify it with this; if the plaintiff had dealings with Zahnizer before the time of the alleged contract as a partner or manager and secretary of the partnership company, and when dealings were with Martin the words ‘ we ’ and ‘ us ’ were used by him, the plaintiff would have a right to infer and believe that he was dealing with the company through him unless the plaintiff was informed or knew he was acting for himself.” The third point was, “ there is no sufficient evidence in the case that P. C. Martin & Co. ever made the alleged contract on which this suit is brought,” and this was answered, viz: “ Refused; that is a question for the jury.”
+The correctness of the verdict depends upon the sufficiency of the evidence and the instruction of the court.
+I. E. Martin had secured a number of oil leases and had made a proposition to M. L. Zahnizer to purchase an interest in one of them. After an examination of the territory by Zahnizer, and after several conversations between these persons in regard to the business, they each contributed and expended some labor and money in furtherance of the enterprise, which ultimately resulted in a total lost.
+Certain defects in the pleadings were amended by consent of the parties, and this action, as it now stands, is to recover damages for the breach of this parol contract from the East End Oil Co., of which M. L. Zahnizer was the manager at the time the contract was made.
+In support of plaintiff’s claim I. E. Martin testified, viz: “ Q. State who you made this contract for. A. P. C. Martin & Co. with the East End Oil Co. Q. At the time you made this contract you did not mention anybody but yourself ? A. Mr. Zahnizer knew it. Q. You mentioned none but yourself? A. He knew that we was doing business that way. Q. You said nothing to him that you represented anybody but yourself at the time you made the contract? A. I don’t know as I did. He didn’t say to me that he was representing anybody else, because we knew. Q. He didn’t say to you that he represented anybody but himself? A. He said ‘we.’ Q. What did you sa}r? A. I said ‘we.’”
+I. E. Martin and M. L. Zahnizer were each associated with other parties and with other operations in the development of oil property, and, under the testimony of I. E. Martin, he and Zahnizer were equal owners of the operation out of which this controversy arose, providing Zahnizer did not represent the East End Oil Co. The plaintiff’s claim is based upon the assumption that if Zahnizer used the words “ we ” and “ us,” it followed as a necessary inference that the East End Oil Co. was meant. The same words would be just as intelligible, consistent, and truthful if they were applied to the contracting persons, and their use falls short of fixing the liability for breach of this contract upon parties who were not shown to be in any way interested in it, who never ratified it, nor derived any benefit from it. It is not alleged that Zahnizer held himself out as acting for the East End Oil Co., and the whole testimony is consistent with the theory that he was acting for himself, to which fact he testified.
+Because the authority of Martin to act for the plaintiff as named was not questioned, Martin was not justified in assuming that Zahnizer was acting for persons who1 were not mentioned. An inquiry on this subject would have disclosed the fact as to whether Zahnizer was acting for himself or others, and the East End Oil Co. should not suffer by reason of Martin’s silence on so important a matter. The other witnesses called by the plaintiff do not strengthen the testimony of I. E. Martin, as each and all ascribe language to Zahnizer which is compatible with his being the sole owner of the half interest; .and the use of the East End Oil Co.’s check, which was given by Zahnizer in payment of Martin’s order to Barnhart, could only weigh against that company if that fact were followed by proof that the act was authorized or ratified by the company, but this was not attempted. Zahnizer sold to one of these witnesses his interest in the rig, as his personal property; from another he accepted an order from Martin addressed to himself; and to the other he stated, “ I have taken a half intérest with Mr. Martin, I would rather sell an interest.”
+The first and fifth assignments of error are sustained, the judgment is reversed, and a v. f. d. n. awarded.
