@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 46"
+decided: "1916-10-09"
+citations: ["65 Pa. Super. 51"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Henderson, Kepi-iart, Trexler and Williams, JJ."]
+parties: ["Schmitt, Appellant, v. Cook."]
+source_url: "https://static.case.law/pa-super/65/cases/0051-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 625318
+cites_cases: ["141 Pa. 649", "211 Pa. 74", "214 Pa. 614"]
+---
+
+# Schmitt v. Cook
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+The Inter-State Lumber Company in 1908 brought suit against the defendants and in November, 1913, the receiver of the company was substituted as plaintiff. After he had filed his statement of claim, the defendants presented a petition to the court alleging that W. A. Coleman, the secretary and treasurer of the lumber company had on January 11,1912, settled the suit with them and that they had paid him the sum of $200.00 and had obtained a receipt in full together with a paper authorizing the prothonotary to have the suit “satisfied upon the record.” This paper had never been filed nor had the suit been discontinued. A rule was granted on the plaintiff to show cause why the receipt given should not be filed of record and a judgment of non pros, entered. The receiver replied to the rule alleging that the statements of the defendants were matters of defense which should be submitted to a jury. He denied that the receipt was given in full satisfaction but was merely to be taken as a credit on the indebtedness; that part of the transaction was the surrender to the company of the stock which defendants had in it and that the transfer of stock was illegal and was a fraud upon the other stockholders. Testimony was taken under the rule and after argument the court entered judgment of non pros. The court in its opinion states- that the one question, in the case .is the authority of Coleman “to make the settlement of the plaintiff’s claim, accept the money paid in consideration and to execute and deliver the receipt and written authority to discontinue said suit.” There may have been sufficient testimony to warrant a finding that Coleman was within his authority to settle the case. He asserts that his authority “if not in writing was implied” and that the stock turned in by the stockholders on four or five occasions had been accepted by the company and the transfer acquiesced in, but we feel under the facts as they are presented that these questions were for the jury. They were matters of defense which could be offered at the trial but we do not think the court could decide them in a preliminary inquiry. The learned trial judge held that he had warrant to act as he did in the matter under the cases of Wilkins v. Burr, 6 Binney 389; Bach v. Burke, 141 Pa. 649. These cases decide that the court will enforce an agreement to discontinue founded on a good consideration and entered into with deliberation. The enforcement of such agreements is within the summary jurisdiction of the court. When parties have settled a case, and the plaintiff has agreed to discontinue, the court will not allow him to recede from his contract but will hold him to it if the agreement is such as the court' should lend its aid to enforce. Such cases “fall within the reason of that principle by which the courts compel the specific execution of agreements concerning suits depending upon them”: Bach v. Burke, supra. Where there is a denial of such an agreement as was pointed out in the case of Good v. Grit Publishing Co., 214 Pa. 614, the above cases do. not apply. In the case at bar the existence of the written paper is not disputed but its validity is in question by reason of the fact that plaintiff denies the authority of the agent to make it, and to deny the authority of the agent is to deny its existence as a binding obligation. We quote the language of Justice Elkin in the above case, “This proceeding is somewhat unusual in character and would seem to deny appellant his constitutional right of a trial by jury. It is at variance with a last utterance of this court wherein it held that an action can only be stricken off where irregular, defective or improper, Bruner v. Finley, 211 Pa. 74.” We think the court below erred in passing upon the question of the authority of the plaintiff’s officer to make the settlement.
+There are a number of questions discussed by the learned judge of the court below in his opinion entering judgment but as his power to consider them is predicated upon his right to decide disputed facts, and as we do not think he has such right, we need not discuss them. The matters involved ean best be settled by the jury at the trial.
+The judgment of non pros, is reversed and it is ordered that the action be reinstated in the court below so that appellant may proceed to have the matters.in controversy determined by due process of law.
