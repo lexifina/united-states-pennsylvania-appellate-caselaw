@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "282 Misc. Docket"
+decided: "1978-08-25"
+citations: ["37 Pa. Commw. 324"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to President Judge Bowman and Judges Crumlish, Jr., Wilkinson, Jr., Mencer, Rogers, Blatt and DiSalle."]
+parties: ["Allen Cohen, Petitioner v. Commonwealth of Pennsylvania, Board of Probation and Parole, Respondent."]
+source_url: "https://static.case.law/pa-commw/37/cases/0324-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1890172
+cites_cases: ["218 Pa. Superior Ct. 188", "250 Pa. 363", "279 A.2d 768", "34 Pa. Commonwealth Ct. 313", "37 Pa. Code §71.4", "383 A.2d 568", "429 U.S. 78", "95 A. 565"]
+---
+
+# Cohen v. Commonwealth
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+Allen Cohen (.Cohen) was under the jurisdiction of the Pennsylvania Board of Probation and Parole (Board) by virtue of a sentence from the Court of Common Pleas of Philadelphia County, on November 14, 1973, to serve not less than 9 months nor more than 10 years following his entry of a plea of guilty to aggravated robbery. The sentence was to be computed from April 14, 1973. Cohen was paroled on January 29, 1975 and was arrested on October 7, 1975 and charged with simple assault, theft, receiving stolen property, conspiracy, robbery, criminal attempt, felonious restraint, possession of offensive weapon, burglary, and criminal trespass. On July 9, 1976, Cohen was arrested and charged with involuntary deviate sexual intercourse, simple assault, and conspiracy, for which charges he appeared before the Honorable Isaac S. Garb, of the Court of Common Pleas of Bucks County on October 11, 1976 and was found guilty, with sentence being deferred. On December 8, 1976, Cohen was found guilty of the offenses for which he had been arrested on October 7, 1975, but again sentence was deferred. Cohen was arrested on May 18, 1977 in Luzerne County and charged with possession of marijuana and, on June 27, 1977, was sentenced to a term of 15 days to 1 month for this charge.
+On May 27, 1977, Cohen was sentenced to a term of not less than 6 nor more than 12 years for the offenses of which he had been found guilty in Bucks County. Cohen was scheduled for a full board revocation hearing on July 6, 1977, but, upon his written request, the Board continued the hearing until August 4, 1977. On August 9, 1977, Cohen was recommitted by the Board as a convicted parole violator, and his maximum sentence was extended to August 12, 1985.
+Cohen seeks to have the Board’s order recommitting him as a convicted parole violator set aside because his revocation hearing on August 4, 1977 was not held within a reasonable time after his convictions and therefore he asserts he was denied his right of due process of law.
+Initially, we note that the delay from July 6, 1977 to August 4, 1977 was at the written request of Cohen. Next, we take note of the fact that Cohen’s revocation hearings pertained only to his convictions in Bucks County and did not relate to the sentence imposed upon Cohen in Luzerne County on a charge of possession of marijuana.
+Cohen contends' that a period of 9 months elapsed from the date he was found guilty on charges of involuntary deviate' sexual intercourse, simple assault, and conspiracy and a period of 7 months elapsed from the time he was found guilty of robbery and other related offenses before his revocation hearing was conducted. The Board contends, however, that he was not sentenced in Bucks County until May 27, 1977 and thus a period of 2 months and 8 days elapsed between Cohen’s conviction and the revocation hearing and that 29 days of this delay was the result of Cohen’s written request for continuance of his hearing.
+One convicted of crimes committed while on parole is not constitutionally entitled to an immediate parole revocation hearing prior to commencement of his new sentence. Moody v. Daggett, 429 U.S. 78 (1976). The question of what length of time between an alleged parole violation and a hearing on parole revocation will be considered excessive must be decided on an individual-case basis.
+Our Supreme Court held, in Commonwealth v. Minnich, 250 Pa. 363, 95 A. 565 (1915), that conviction means the ascertainment of the guilt of the accused and sentence thereon. Accordingly, we must agree with the contention of the Board in the instant case and conclude that 2 months and 8 days is not an unreasonable period, especially when 34 days of the delay was the result of a request to the Board for a continuance, such as to deprive Cohen of his right to a speedy hearing.
+Order
+And Now, this 25th day of August, 1978, the motion for summary judgment of the Pennsylvania Board of Probation and Parole is hereby granted, and Allen Cohen’s petition for review is hereby dismissed.
+Although neither Cohen nor the Board called the rules and regulation of the Board to our attention, we note that Cohen was found guilty of a criminal offense committed while he was on parole when the Board’s regulations, namely, regulation 71.4(1), formerly 37 Pa. Code §71.4(1), provided:
+If the parolee is found guilty of a criminal offense committed while he was on parole, the Board may lift the warrant or detainer, if appropriate, or shall schedule a hearing to determine what sanctions, if any, shall he imposed for violation. The hearing shall be held within 30 days of notification of imposition of sentence.
+Cohen was sentenced May 27, 1977, but this record does not disclose when the Board received notification of the imposition of sentence. However, Cohen was returned from Bucks County to the State Correctional Institution at Dallas on June 6, 1977, and we consider this date to be the date of notification of the imposition of sentence. On August 4, 1977, Cohen was afforded a full Board revocation hearing. Although the time period between June 6, 1977 and August 4, 1977 was 59 days and more than the 30-day period prescribed for a hearing by the regulation, 34 of the 59 days cannot be counted against the time frame of the regulation because, on July 6, 1977, Cohen requested a continuance until August of his Board hearing which had been scheduled for July and, in addition, Cohen had signed a waiver of a full Board hearing on June 10, 1977 which was not rescinded until June 15, 1977. Therefore, the full Board hearing on August 4, 1977 was timely and within the mandated time period of the applicable regulation. Cf. Kemp v. Board of Probation and Parole, 34 Pa. Commonwealth Ct. 313, 383 A.2d 568 (1978).
+Cohen contends that Commonwealth v. White, 218 Pa. Superior Ct. 188, 279 A.2d 768 (1971), controls the instant case. However, in White, a delay of 5 months between conviction and the revocation hearing, under the circumstances of that case, was held unreasonable. Without accepting the 5-month period as being an unreasonable one, we nevertheless believe that the 5-month period involved in White distinguishes that case from the present case where the delay was only 2 months and 8 days.
