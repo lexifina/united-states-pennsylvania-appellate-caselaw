@@ -1,0 +1,75 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "208 C.D. 1993"
+decided: "1993-08-12"
+citations: ["157 Pa. Commw. 564", "630 A.2d 919"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DOYLE and SMITH, JJ., and KELTON, Senior Judge.", "DOYLE, J., concurs in the result only.", "PELLEGRINI, J., did not participate in the decision in this case."]
+parties: ["CITY OF PITTSBURGH, DEPARTMENT OF PERSONNEL AND CIVIL SERVICE COMMISSION, Petitioner, v. PENNSYLVANIA HUMAN RELATIONS COMMISSION, Respondent."]
+source_url: "https://static.case.law/pa-commw/157/cases/0564-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1449096
+cites_cases: ["29 U.S.C. § 706", "365 A.2d 649", "411 U.S. 792", "449 A.2d 774", "452 A.2d 301", "469 Pa. 292", "516 Pa. 124", "527 Pa. 315", "608 F.Supp. 739", "70 Pa.Commonwealth Ct. 62", "716 F.Supp. 1201"]
+---
+
+# City of Pittsburgh v. Pennsylvania Human Relations Commission
+
+## Majority (KELTON, Senior Judge.)
+
+KELTON, Senior Judge.
+The City of Pittsburgh Department of Personnel (City) and its Civil Service Commission (CSC) petition for review of the December 23, 1992 order of the Pennsylvania Human Relations Commission (PHRC) ordering the City as employer (1) to cease and desist from discriminating against the handicapped and disabled with regard to hiring and (2) to pay the complainant, Mr. Richard Biondo, an unsuccessful police officer applicant, the lump sum of $88,057.00 plus six per cent interest as back pay for the period of September 6, 1983 to May 1992. Because we conclude that Mr. Biondo never established that he was handicapped or disabled within the meaning of Section 5(a) of the Pennsylvania Human Relations Act (Act), we reverse.
+The threshold issue before us for review is whether the PHRC erred in concluding that Mr. Biondo had established prima facie that he was a “handicapped person.” Our scope of review on this issue is limited to determining whether the findings of fact necessary to support the adjudication are supported by substantial evidence, whether there was a violation of constitutional rights, or whether an error of law was made. Allegheny Housing Rehabilitation Corporation v. Pennsylvania Human Relations Commission, 516 Pa. 124, 532 A.2d 315 (1987).
+BACKGROUND FACTS
+On April 7, 1982, Mr. Biondo applied for a police officer position with the City. He successfully completed six of the seven steps in the hiring procedure, but also had to pass a physical. The City referred him to an outside panel whose comprehensive medical evaluation was then forwarded to City physician Dr. Swan.
+The outside evaluation was performed by Dr. Joseph Mazzei of Central Medical Health Services. In his May 18, 1983 letter to Dr. Swan, Dr. Mazzei commented that, although there were degenerative changes in Mr. Biondo’s back, there was no abnormality. Based thereon, Dr. Swan noted “fail” on Dr. Mazzei’s letter and instructed the City’s nurse, Ms. B.A Ferguson, R.N., to advise Mr. Biondo that he was medically disqualified. She did so by telephone and a notice from her and the City’s Chief Examiner, Ms. Michele Cunko, followed. Therein, they informed Mr. Biondo that he could consult his own doctor if he wished and seek reconsideration of the City’s decision. (R.R. 18a.)
+Accordingly, Mr. Biondo contacted Dr. E. Richard Prostko, a board-certified neurological surgeon affiliated with six area hospitals and a professor of neurological surgery. After reviewing the x-rays and examining Mr. Biondo, Dr. Prostko concluded that Mr. Biondo had a very minimal and normal amount of facet sclerosis over the lower lumbar spine consistent with that of a forty-four year old man. (R.R. 81a.) Further, Dr. Prostko opined that Mr. Biondo could handle the stress and physical exertion required for the position of police officer. (R.R. 79a.)
+In addition to submitting Dr. Prostko’s report, Mr. Biondo submitted several medical records from the Veteran’s Administration Hospital where he had received treatment the previous year for a slight back injury at work. In general, these records indicated that there was no abnormality in Mr. Biondo’s back. (R.R. 203-5a.)
+Upon receipt of Mr. Biondo’s independent medical evidence, Dr. Swan again concluded that Mr. Biondo had a physiological condition which affected his musculoskeletal system and recommended his rejection under the City’s physical standard. She concluded that “degenerative changes are a failure by current standards.” (R.R. 39a.)
+After various attempts to settle the matter, Mr. Biondo filed his complaint with the PHRC. (R.R. l-3a.) Therein, he alleged that the City refused to hire him due to his age, forty-four, and his non-job related lower-back condition. Age, however, is no longer at issue at this juncture.
+At the May 29,1992 hearing, the PHRC took testimony and concluded that Mr. Biondo had met his initial burden of proof and established a prima facie case for employment discrimination. It further concluded that the City failed to establish that Mr. Biondo’s back condition was job-related and that its reliance on Dr. Swan’s recommendations was unreasonable. The CSC’s and the City’s appeal to this Court followed.
+THE STATUTE AND ITS REGULATIONS
+Under Section 5(a) of the Act:
+It shall be unlawful discriminatory practice ... for any employer because of the ... non-job related handicap or disability ... of any individual to refuse to hire or employ ... such individual, or otherwise discriminate against such individual ... if the individual ... is the best able and most competent to perform the services required----
+43 P.S. § 955(a).
+Pursuant to Section 4(p) of the Act, a non-job related handicap or disability is one “which does not substantially interfere with the ability to perform the essential functions of the employment which a handicapped person applies for, is engaged in or has been engaged in.” 43 P.S. § 954(p). In 1991, the General Assembly included a more specific definition of handicap or disability in the Act itself via Section 4(p. 1), which provides as follows:
+(1) a physical or mental impairment which substantially limits one or more of such person’s major life activities;
+(2) a record of having such an impairment; or
+(3) being regarded as having such an impairment----
+43 P.S. § 954 (p. I).
+The PHRC’s regulations contain specific definitions of the essential terms contained in Section (p. 1). Section 44.4 of the Code provides as follows:
+(A) ‘Physical or mental impairment means a physiological disorder or condition, cosmetic disfigurement or anatomical loss affecting one or more of the following body systems: neurological; musculoskeletal; special sense organs____
+(B) ‘Major life activities’ means functions such as caring for one’s self, performing manual tasks, walking, seeing, hearing, speaking, breathing, learning and working.
+(C) ‘Has a record of such an impairment’ means has a history of or has been misclassified as having a mental or physical impairment that substantially limits one or more major life activities.
+(D) ‘Is regarded as having an impairment’ means has a physical or mental impairment that does not substantially limit major life activities but that is treated by an employer or owner, operator or provider of a public accommodation as constituting a limitation; has a physical or mental impairment that substantially limits major life activities only as a result of the attitudes of others toward the impairment; or has none of the impairments defined in subparagraph (i)(A) but is treated by an employer or owner, operator or provider of a public accommodation as having an impairment.
+16 Pa.Code § 44.4(ii)(A)-(D).
+The following elements are necessary in order to establish a prima facie case for employment discrimination:
+a. That he belonged in a protected class (handicapped and disabled person);
+b. That he applied for a position for which he was qualified;
+c. That his application was rejected; and
+d. That the City continued to seek applicants of equal qualifications.
+General Electric Corp. v. Pennsylvania Human Relations Commission, 469 Pa. 292, 365 A.2d 649 (1976); National Railroad Passenger Corporation (AMTRAK) v. Pennsylvania Human Relations Commission, 70 Pa.Commonwealth Ct. 62, 452 A.2d 301 (1982).
+DISCUSSION
+The CSC and the City argue that Mr. Biondo failed to satisfy the first criterion for a prima facie case because his back abnormality did not rise to the level of a handicap and certainly did not limit any major life activity. Further, Petitioners argue that Dr. Swan clearly testified that, although it was her belief that Mr. Biondo was not physically suited for the police officer position, she did not regard him as being physically handicapped. (R.R. at 106a.) We agree that Mr. Biondo was not a member of the protected class of handicapped or disabled people.
+In Civil Service Commission of City of Pittsburgh v. Pennsylvania Human Relations Commission, 527 Pa. 315, 320, 591 A.2d 281, 283 (1991), our Supreme Court held that “[a] person who attempts to make out a prima facie case on the basis that he is regarded as having a physical or mental impairment, then, must show that he is regarded as having a physiological disorder ... which affects the body systems set” forth in 16 Pa.Code § 44.4(ii)(A).
+We agree that the City’s refusal to give Mr. Biondo the police officer position on the basis of his back condition did not mean that he was handicapped under the Act. While Mr. Biondo may have some sort of back abnormality, this does not necessarily mean that the City regarded him as having a physiological disorder which affected his musculoskeletal body system as contemplated under the Act. It is clear that not every applicant who fails to fulfill the criteria for a police officer position is legally handicapped.
+Here, there was simply no evidence presented that the City regarded him as having a physiological condition which affected his musculoskeletal system as required to establish the first prong of a prima facie case. The evidence merely indicated that City physician Dr. Swan concluded that Mr. Biondo did not satisfy the medical qualifications required of police officer applicants. The evidence did not show that he was handicapped or disabled as defined in the Act.
+Significantly, in his report to the City, Mr. Biondo’s neurological surgeon found as follows:
+Physical examination in my office revealed no specific focal motor, sensory or reflex abnormalities in the lower extreme-ties. Lumbar range of motion was normal. Paraspinal muscles were normal. Review of the patient’s recent x-rays, which were obtained, show no significant abnormality. The patient has a very minimal and entirely normal amount of facet sclerosis over the lower lumbar spine which is consistent with having achieved the age of 44.
+In addition he, approximately one year ago, underwent a total spine series along with tomography of the thoracic spine which revealed no significant abnormalities____
+Joint Stipulation of Fact No. 21.
+Additionally, because the Commonwealth’s definition of a “handicapped or disabled person” was federal in origin, we find significant the fact that Mr. Biondo similarly would not be handicapped under federal law. The comments portion of the regulations found at 16 Pa.Code § 44.4 provides that “[t]he definition of ‘handicapped or disabled person’ is adopted verbatim from the definition of the United States Department of ELE.W.’s section 504 regulations [to the Rehabilitation Act of 1973] in accordance with the recommendations of most commentators.”
+Federal cases decided pursuant to the Rehabilitation Act of 1973 indicate that an inability to obtain a single job due to a real or perceived physical or mental impairment does not render a person handicapped within the meaning of Section 706(7)(B) of that act, 29 U.S.C. § 706(7)(B). Eg. Fuqua v. Unisys Corporation, 716 F.Supp. 1201 (D.Minn.1989) (general laborer excluded from one position); Tudyman v. United Airlines, 608 F.Supp. 739 (D.C.Cal.1984) (obese applicant excluded from airline flight attendant position).
+Similarly, Mr. Biondo’s inability here to obtain a position as police officer in the City did not render him handicapped under the Act. As the court noted in Tudyman v. United Airlines, a complainant who is excluded from a single job, but who has no physical impairment and is not limited in any major life activity, is not handicapped.
+CONCLUSION
+There was simply no evidence presented that Mr. Biondo was limited in a major life activity as defined in 16 Pa.Code § 44.4(ii)(B). While working is, of course, a major life activity, preclusion from one job, as noted above, does not render one handicapped.
+For the above reasons, we reverse.
+ORDER
+AND NOW, this 12th day of August, 1993 the order of the Pennsylvania Human Relations Commission, dated December 23, 1992 is hereby reversed.
+DOYLE, J., concurs in the result only.
+PELLEGRINI, J., did not participate in the decision in this case.
+. Act of October 27, 1955, P.L. 744, as amended, Act of 1974, P.L. 966, No. 318, 43 P.S. § 955(a).
+. Because we conclude that the PHRC erred in finding that Mr. Biondo established a prima facie case of employment discrimination, we need not reach the second issue: whether the City made out a good faith defense that it reasonably relied on City physician Dr. Donna Swan's recommendation that Mr. Biondo was not medically qualified for the police officer position. See McDonnell Douglas Corp. v. Green, 411 U.S. 792, 93 S.Ct. 1817, 36 L.Ed.2d 668 (1973).
+. In 1983, Section 12B(10) of the City’s rules listed the following medical standard: “Spine: Evidence of serious back injury, disc or back pathology, abnormal curvature, Pott's disease, ankylosis, osteomelititis, or other gross abnormalities will be disqualifying.” (R.R. 40a.)
+. In 1978, the PHRC adopted a definition of a “handicapped or disabled person” at 16 Pa.Code § 44.4(i)(A)-(D). The Code definition is essentially the same as that set forth in Section (p. 1) of the Act, added in 1991. Because the definition was in existence in 1978 in the Code, the fact that the General Assembly did not include it in the Act until the 1991 amendment does not mean that we must disregard it in reference to Mr. Biondo’s 1983 denial of employment. In fact, in Civil Service Commission of City of Pittsburgh v. Pennsylvania Human Relations Commission, 527 Pa. 315, 591 A.2d 281 (1991) (obese person held not to be handicapped), our Supreme Court relied on the Code definition prior to the 1991 amendment to the Act. Of course, an agency’s regulations, properly promulgated pursuant to statutory authority, have the full force and effect of law. Peterson v. Pennsylvania State Horse Racing Commission, 68 Pa.Commonwealth 353, 449 A.2d 774 (1982). Thus, the City’s and the CSC’s argument that we should disregard the more specific definition, as set forth in Section (p. 1) of the Act and 16 Pa.Code § 44.4, is without merit.
