@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 437"
+decided: "1968-11-14"
+citations: ["213 Pa. Super. 261"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Weight, P. J., Watkins, Montgomery, Jacobs, Hoffman, Spaulding, and Hannum, JJ."]
+parties: ["Crowell Office Equipment v. Krug, Appellant."]
+source_url: "https://static.case.law/pa-super/213/cases/0261-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 785266
+cites_cases: ["1 Binn. 219", "119 Pa. 316", "13 A. 283", "152 Pa. Superior Ct. 628", "168 A.L.R. 641", "17 Serg. & Rawle 386", "3 Binn. 45", "33 A. 2d 273", "37 Pa. 387", "61 Pa. 497"]
+---
+
+# Crowell Office Equipment v. Krug
+
+## Majority (Hannum, J.,)
+
+Opinion by
+Hannum, J.,
+An action in assumpsit was filed by the appellee before a justice of the peace for recovery of $276.92. A default judgment was permitted and appellant then took an appeal to the Court of Common Pleas of Delaware County. A complaint was filed and in response appellant lodged an answer which contained a counterclaim for $2,075.00, which sum was later reduced to $1,916.69. Following this both a reply and counter-reply were entered of record. The case then went through pretrial procedures and finally proceeded to trial before a panel of arbitrators, which gave an award to the appellee for his claim plus interest and to the appellant for $1,800.00. An order was then signed by Judge Catania approving a stipulation of counsel which suspended the award until the propriety of appellant’s award could be determined by the court en bane. After argument, the lower court, speaking through Judge E. E. Lippincott, II, ordered that the award for the appellant was a nullity. Following this appellee entered judgment on his award as permitted by the order. Appellant took this appeal from the judgment, and Judge Lippincott then wrote an expanded opinion.
+This case raises a single question: can a counterclaim in excess of $500.00 be filed by a defendant in the Court of Common Pleas after an appeal from a judgment in favor of the plaintiff entered by a justice of the peace? The defendant frankly admits that all the decisional law there is on the question appears to be in favor of the appellee. It is his contention that this line of cases should be overruled.
+Unfortunately, some of the cases holding that the jurisdiction of the common pleas court on an appeal from a justice of the peace is limited to the jurisdiction which the justice of the peace had originally, are Supreme Court cases and we have no power to overrule them.
+In Deihm v. Snell, 119 Pa. 316, 13 A. 283 (1888), the Court said: “The statutes limiting and defining the jurisdiction of a justice are not left behind when a case comes into the Common Pleas by appeal, but are to be applied by the judge in the same manner as by the justice. If the justice had not jurisdiction of the cause of action or the contract or demand sought to be used as a set-off, the Common Pleas will not have it after an appeal. The forum is changed by the appeal, but the cause of action remains the same: Moore v. Wait, 1 Binn. 219; Owen v. Shelhamer, 3 Binn. 45; Collins v. Collins, supra [37 Pa. 387]; Bergman v. Roberts, 61 Pa. 497.” See also Bauman v. Bittner, 152 Pa. Superior Ct. 628, 33 A. 2d 273 (1943), and an annotation in 168 A.L.R. 641, entitled “Amendment in appellate court increasing amount claimed beyond, or reducing amount claimed to, jurisdiction of court below.”
+This line of cases ignores a very well reasoned opinion by Chief Justice Gibson in the case of Boone v. Boone, 17 Serg. & Rawle 386 (1828), where this question was squarely raised. The appeal in that case was taken by the plaintiff, but the opinion stated: “The question, therefore, is to he viewed as if the defendant were the appellant.
+“But, if the analogy between an action and a set-off were carried out entire, it would produce no difference in the conclusion; unless it were admitted, that a part of a debt, sufficient to extinguish the plaintiff’s demand, might be set off before the justice, where the whole could not. Even if that were so, it would not be worth while, for the sake of an analogy, to stop short of complete justice, or drive the defendant to a separate remedy, when it is obviously better for both parties to have all the points in contest settled at once. Simply to prevent the plaintiff from unjustly taking money out of the defendant’s pocket, in the first instance, is less than justice: he ought to be prevented also from inflicting on the defendant the delay and vexation of another suit. But the inconvenience there would be in inquiring, in an action for the residue of the set-off, how much has already been allowed, where some of the jurors or arbitrators may have agreed to sustain the defence on one ground, and some on another, is also worthy of consideration. Where the demand of the plaintiff should be unliquidated, or the defence of a mixed nature, much uncertainty would necessarily arise, and there would be danger of having the set-off allowed twice, or not at all; but danger from this source would be excluded by setting the whole on the appeal. There is not the semblance of hardship in doing this, and adjudging the costs to be paid by the plaintiff, whose unnecessary interference, in the first instance, was the efficient cause of their being incurred.” (Emphasis supplied)
+The Boone case has never been overruled except by implication and while we might believe that it expresses the sounder reasoning, we are bound by the later cases to the contrary.
+Judgment affirmed.
+The appellee did not appear for oral argument nor did it file a brief. This is a discourtesy to this Court and required us to make a research without the assistance which we should have received. We are not addressing our remarks to the counsel who represented the plaintiff in the court below, because it may well be that the compensation which he received did not justify his continuance in the case. However, it was the duty of the appellee, either in his own proper person or by some other attorney, to see to a conclusion the action which he commenced.
