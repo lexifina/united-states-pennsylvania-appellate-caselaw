@@ -1,0 +1,39 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2259 C.D. 1978"
+decided: "1979-07-30"
+citations: ["44 Pa. Commw. 506"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Wilkinson, Jr., Blatt and MacPhail, sitting as a panel of three."]
+parties: ["Jo V. Seibert, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/44/cases/0506-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1899001
+cites_cases: ["10 Pa. Commonwealth Ct. 275", "22 Pa. Commonwealth Ct. 225", "25 Pa. Commonwealth Ct. 256", "295 A.2d 198", "297 A.2d 520", "31 Pa. Commonwealth Ct. 1", "310 A.2d 707", "34 Pa. Code §64.31", "34 Pa. Code §65.33", "34 Pa. Code §65.41", "34 Pa. Code §§65.31-65.42", "348 A.2d 497", "360 A.2d 293", "374 A.2d 1009", "6 Pa. Commonwealth Ct. 351", "6 Pa. Commonwealth Ct. 539"]
+---
+
+# Seibert v. Commonwealth
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+The appellant, Jo V. Seibert, appeals here from the denial of unemployment compensation benefits by the Unemployment Compensation Board of Review (Board) on the basis that for two separate weeks she failed to meet the reporting requirements under Section 401(b) of the Unemployment Compensation Law, Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §801 (b).
+On March 17, 1978, the appellant reported to the local employment office and filed a valid application for benefits. She reported properly again on March 24, 1978, but the Board argues that she did not so report for the two weeks thereafter. On her scheduled reporting date of March 31, 1978 the appellant testified that she reported to the employment office of the Bureau of Employment Security (Bureau) and gave a man there her card but was not asked any questions and did not recall signing anything. The referee found the Bureau’s records showed no such visit and held, therefore, that the appellant did not report on this date. For the ensuing week of April 1, 1978, the appellant testified that she did not report to the Bureau because she had an appointment with an employment counselor, to help her prepare an employment resume, which conflicted with her reporting time to the Bureau. She further testified that she had called the Bureau and been informed “it was alright not to report” that day and that she should come in the following week. The referee held that a conlicting appointment was not an acceptable excuse for failure to report and also found that the appellant was not misled or misinformed regarding the Bureau’s reporting requirements. On appeal, the Board affirmed this determination, and this appeal followed.
+Section 401(b) of the Act provides that compensation shall be payable to an employe who is or becomes unemployed and who:
+(b) Has registered for work at, and thereafter continued to report at, an employment office in accordance with such regulations as the secretary may prescribe. . . .
+43 P.S. §801 (b).
+The relevant regulations for reporting provide that claimants are required to report each week and file a claim for the previous week of unemployment. They also provide that, following the initial filing of a claim, Stanek v. Unemployment Compensation Board of Review, 6 Pa. Commonwealth Ct. 351, 295 A.2d 198 (1972), claimants are scheduled to report to the local public employment office at a given time each week in accordance with a digit reporting schedule based on the last digit of their Social Security number. See 34 Pa. Code §§65.31-65.42.
+The appellant argues first that the referee improperly rejected her uncontradicted testimony she actually did report to the Bureau. In any unemployment compensation case, of course, questions as to the credibility of witnesses are for the referee to decide, and he need not accept as true even uncontroverted testimony. Unemployment Compensation Board of Review v. Cooper, 25 Pa. Commonwealth Ct. 256, 360 A.2d 293 (1976); Edelman v. Unemployment Compensation Board of Review, 10 Pa. Commonwealth Ct. 275, 310 A.2d 707 (1973). It is also true, however, that there cannot be a capricious disregard of competent evidence, and we have defined capricious disregard as follows:
+It is not merely disbelieving a witness. To constitute capricious disbelief there must be a willful, deliberate disbelief of an apparently trustworthy witness, whose testimony one of ordinary intelligence could not possibly challenge or entertain the slightest doubts as to its truth. To charge . . . capricious disbelief, the adjudication must be so flagrant as to be repugnant to a man of reasonable intelligence.
+Bullock v. Building Maintenance, Inc., 6 Pa. Commonwealth Ct. 539, 542-43, 297 A.2d 520, 522 (1972).
+The referee found here that the appellant’s testimony was without merit because he had also found that the Bureau’s records disclosed no visits by her on the dates in question. The appellant argues in this regard that the referee impermissibly took judicial notice of Bureau procedures regarding the recordation of claimant visits without any testimony by any Bureau representative as to such procedure and that she was therefore denied an impartial tribunal. We believe, however, that judicial notice is generally exercised when the fact is so well known that the formal introduction of evidence in support of it is unnecessary. Wells v. Pittsburgh Board of Public Education, 31 Pa. Commonwealth Ct. 1, 5, 374 A.2d 1009, 1011 (1977). We also believe that Bureau employees do make notations on claimants’ cards when the required reporting visits are made and that this is a fact of which judicial notice may be taken.
+The appellant’s final argument is that her inability to report to the Bureau because of her appointment with an employment counselor is an acceptable reason for failing to report especially in light of her further testimony that a Bureau employe informed her it would be alright for her to do so. It is true that the referee found that she did have an appointment for job counseling on one of the scheduled reporting days, but he also held that this was not an acceptable excuse for failure to report and that she had not been misled or misinformed in regard to the Bureau’s reporting requirements. There is a presumption, of course, as to the regularity and propriety of acts of public administrative officials. Unemployment Compensation Board of Review v. Hart, 22 Pa. Commonwealth Ct. 225, 228, 348 A.2d 497, 499 (1975). Moreover, the applicable regulations do provide that failure to report because of a conflicting appointment is not an acceptable reason for not filing a claim. 34 Pa. Code §65.33 and §65.41. While the appellant’s having such an appointment may well have exhibited her interest in seeking employment, the record indicates that she could have both kept the appointment with the employment counselor, which was in the afternoon, as well as her scheduled reporting appointment at the Bureau’s offices some other time of that day. We do not believe, therefore, as a matter of law, that the appellant has established an acceptable excuse for failure to meet the reporting requirements of Section 401 (b) of the Act.
+The order of the Board is therefore affirmed.
+Order
+And Now, this 30th day of July, 1979, the order of the Unemployment Compensation Board of Review in the above-captioned matter is hereby affirmed.
+The regulations provide that
+[c]laims for compensation shall be filed personally by the claimant on official forms available for that purpose at local public employment offices. . . .
+34 Pa. Code §64.31. See 34 Pa. Code §65.41 (procedure for application for benefits).
