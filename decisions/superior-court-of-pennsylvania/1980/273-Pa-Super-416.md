@@ -1,0 +1,44 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "57"
+decided: "1980-01-04"
+citations: ["273 Pa. Super. 416", "417 A.2d 717"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CERCONE, President Judge, and WIEAND and LIPEZ, JJ.", "WIEAND, J., files a dissenting statement."]
+parties: ["COMMONWEALTH of Pennsylvania v. Leonard Fred TILMAN, Appellant."]
+source_url: "https://static.case.law/pa-super/273/cases/0416-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 136625
+cites_cases: ["222 A.2d 902", "238 Pa.Super. 591", "276 A.2d 719", "309 A.2d 396", "362 A.2d 1027", "423 Pa. 8", "454 Pa. 59", "466 Pa. 314"]
+---
+
+# Commonwealth v. Tilman
+
+## Majority (LIPEZ, Judge:)
+
+LIPEZ, Judge:
+Appellant was convicted on July 30, 1976 in a non-jury trial of theft by unlawful taking, receiving stolen goods and burglary. The trial judge immediately gave appellant a general sentence of two to four years imprisonment. Appellant timely filed both post-verdict motions and an appeal from this judgment of sentence. On February 16, 1977 the trial court denied appellant’s post-verdict motions, and modified sentence, imposing an imprisonment of three months to six months and twenty-three days for the burglary, with a consecutive two-year probation for theft. Appellant contends that the evidence was insufficient to support the verdicts. We agree, and order appellant discharged.
+The Commonwealth’s evidence was as follows. An employee of an automobile dealership testified that, on the morning of February 18, 1976 at “around a quarter to 8:00,” she was dusting off cars in the showroom, when she saw appellant standing in a corridor off the showroom looking around. She assumed he was a customer and was going to ask if she could help him, but she changed her mind. When she looked up again, appellant was gone. She stated that appellant could not have come through the showroom, because she would have seen him. She knew he did not go into her office, because she could see through the large window of her office from the showroom. The only remaining places appellant could have gone were the main office, the parts room, or the service department. She did not believe he had gone to the service department, because she would have seen the door swinging when she looked up and noticed appellant was gone.
+The dealership’s service manager testified that at about 8:00 a. m. or shortly afterward on February 18, 1976 the parts manager came to him and said, “I think we’re missing some radios.” A check of computer inventory records verified that “[rjoughly somewhere around eight or nine” GM AM-FM stereo car radios were missing. The computer run generated an “exact list” of missing part numbers. The service manager went to the body shop, and noticed that the door was held open by a buffing pad. Walking into the shop, the manager saw a man other than appellant, and told the man he would like to talk to him. The man darted out the door, and jumped into the passenger side of a black 1975 Oldsmobile Toronado. The car had the motor running and immediately sped away. The service manager, however, managed to see the car’s license number, which was given to the police as the incident was immediately reported to them by phone. The service manager also testified that the man he had seen was not in the courtroom at trial.
+Three policemen gave testimony which established the following. At about 8:15 a. m. on February 18, 1976 the black Toronado with the reported license number was spotted by police from one township, who chased the car and lost it. Police from another township spotted the car at about 8:30 or 8:35 a. m. They chased and stopped the car. A Mr. Woodson, who was not in the courtroom for the trial, was driving the car, which was registered in his name. At the time the car was stopped, appellant was in the front seat on the passenger side. In the back seat of the car were six boxes, each containing a GM AM-FM stereo car radio, which were eventually returned to the auto dealership’s service manager, after he identified them as coming from the dealership. No fingerprints could be taken, because the boxes had been handled by too many people in processing by the police.
+In Commonwealth v. Garrett, 423 Pa. 8, 222 A.2d 902 (1966), the defendant admitted that he was a member of a group that the victim of a robbery saw in the immediate area just before the robbery took place. The record showed that the victim was attacked from behind by one or more members of that group, and the defendant was arrested at the scene shortly after the robbery. The Supreme Court held, “Appellant’s presence on the scene, both immediately prior and subsequent to the commission of the crime was established. This fact, however, in the absence of other evidence indicative of appellant’s participation in the robbery, did not warrant submission of the case to the jury.” Commonwealth v. Garrett, supra, 423 Pa. at 13, 222 A.2d at 905.
+The evidence in this case is no more persuasive than the evidence found insufficient in Garrett. Read in the light most favorable to the Commonwealth as verdict winner, this record establishes only that appellant was in the general vicinity shortly before the theft, and about a half hour afterward was found riding as a passenger in the front seat of a car, which had the stolen articles in the back seat. “In our opinion this evidence, while perhaps raising a possibility or even a strong suspicion of participation in the criminal activity, was not sufficient for finding appellant guilty beyond a reasonable doubt.” Commonwealth v. Roscioli, 454 Pa. 59, 65, 309 A.2d 396, 400 (1973), quoting Perry v. United States, 276 A.2d 719 (D.C.C.A.1971).
+Without sufficient evidence to establish active participation by appellant in the theft, we cannot infer that appellant intended to commit the theft when he entered the building, and therefore the burglary conviction also cannot stand. Another reason the burglary conviction must be overturned is that the Commonwealth must establish beyond a reasonable doubt that the premises were not open to the public at the time of entry. 18 Pa.C.S. § 3502; Commonwealth v. Cost, 238 Pa.Super. 591, 602, 362 A.2d 1027, 1032 (1976). The only evidence of the time the dealership opened for business was the testimony of the service manager that it opened “[a]bout 8:00 o’clock.” The employee who saw appellant near the showroom placed him there at “around a quarter to 8:00.” Nothing in the record indicates that the public entrances to the showroom were still locked. What evidence there is tends to show that the premises were open to the public, since the employee who saw appellant assumed that he was a customer. This record cannot support a conclusion beyond a reasonable doubt that the premises were not open to the public when appellant entered. Similarly, the conviction for receiving stolen goods cannot stand, because there is no evidence that appellant was ever in possession of the stolen goods, or even knew they were stolen.
+Judgment of sentence reversed, and appellant discharged.
+WIEAND, J., files a dissenting statement.
+. 18 Pa.C.S. § 3921.
+. 18Pa.C.S. § 3925.
+. 18 Pa.C.S. § 3502.
+. Appellant should not have been sentenced until after disposition of post-verdict motions. Comments, Pa.R.Crim.P. 1123, 1405; Commonwealth v. Webster, 466 Pa. 314, 317-18, 353 A.2d 372, 373 (1975). While procedurally incorrect, however, this sentence was a final order reduced to judgment, and therefore appealable. Pa.R.A.P. 301(a).
+. The record gives no indication of why the court modified sentence, and neither party has raised any question concerning the propriety or validity of the modification order. The record indicates that on. March 8, 1978 the consecutive two-year probation was revoked, and a sentence of six months to two years imprisonment imposed. So that there will be no confusion, we point out that our discharge order applies to whatever sentence or sentences depend on the validity of the three convictions we are overturning.
+. Our disposition obviates consideration of appellant’s alternative contention: that new trial should be awarded because of the admission of hearsay testimony concerning a computer printout.
+
+## Dissent (WIEAND, Judge,)
+
+WIEAND, Judge,
+dissenting:
+I respectfully dissent. When considered in the light most favorable to the Commonwealth, as we are required to do, the evidence, in my judgment, was clearly sufficient to prove appellant guilty of burglary, theft, and receiving stolen property.
+Moreover, I perceive no error in permitting David O’Leary, the automobile agency’s service manager, to testify that the fact of missing radios was ascertained in the first instance from computer records.
+Therefore, I would affirm the judgment of sentence.
