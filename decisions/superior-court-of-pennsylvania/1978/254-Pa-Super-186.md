@@ -1,0 +1,47 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1263"
+decided: "1978-04-13"
+citations: ["254 Pa. Super. 186", "385 A.2d 588"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WATKINS, President Judge, and JACOBS, HOFFMAN, CERCONE, PRICE, VAN der VOORT and SPAETH, JJ.", "HOFFMAN and SPAETH, JJ., concur in the result.", "WATKINS, former President Judge, did not participate in the consideration or decision of this case."]
+parties: ["COMMONWEALTH of Pennsylvania, Appellee, v. Phillip SNYDER, Appellant."]
+source_url: "https://static.case.law/pa-super/254/cases/0186-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 96813
+cites_cases: ["224 Pa.Super. 33", "233 A.2d 284", "234 Pa.Super. 146", "238 Pa.Super. 431", "339 A.2d 573", "357 A.2d 635", "366 A.2d 302", "427 Pa. 53", "462 Pa. 344", "468 Pa. 465"]
+---
+
+# Commonwealth v. Snyder
+
+## Majority (PER CURIAM:)
+
+PER CURIAM:
+This is an appeal from the judgment of sentence of the Court of Common Pleas of Lehigh County, Criminal Division, by the defendant-appellant, Phillip Snyder, following a conviction of possession with intent to deliver and delivery of a controlled substance. (The Controlled Substance, Drug, Device and Cosmetic Act, 1972, April 14, P.L. 233 Sec. 1 of 64, 35 P.S. 780-101, et seq.)
+Appellant was arrested by the State Police November 14, 1974, in connection with the sale of a quantity of marijuana to an undercover state policeman (Trooper Goff) by Thomas Leggett.
+The sale had been set up the day before by a confidential informant, known to State Police only as “Danny”. The informant’s only task was to introduce Trooper Goff to Leggett. The introduction took place November 14, 1974. There is a dispute as to whether “Danny” remained in the vicinity thereafter. Trooper Goff testified that he instructed “Danny” to leave the scene immediately. (N.T. 21) The Appellant testified that “Danny” was still there when he arrived. When Appellant arrived on the scene, he backed his truck up the driveway, got out of his truck and went to the rear of vehicle where Mr. Leggett and Trooper Goff were standing. He handed Trooper Goff a paper with the marijuana weights marked thereon (Commonwealth Ex. # 1). He then opened the rear door of his vehicle and removed a brick of marijuana and gave it to Goff to examine. Immediately thereupon the State Troopers staked out in the vicinity, converged and arrested Leggett and the Appellant.
+Appellant was arraigned on charges of Possession and Delivery of a Controlled Substance.
+On May 28,1975, following a hearing, Appellant’s Application to disclose or produce a material eyewitness was denied.
+A jury trial was held on December 10 and 11, 1975. Appellant was convicted on both counts. Motions for New Trial and in Arrest of Judgment were denied on January 21, 1977. This Appeal followed.
+Appellant initially asserts that the lower court should have ordered the Commonwealth to disclose the identity and whereabouts of their confidential informant.
+In support of this argument, Appellant relies on Commonwealth v. Carter, 427 Pa. 53, 233 A.2d 284 (1967) wherein the court held that where police testimony is the sole evidence of the accused’s guilt and where testimony from a more disinterested witness is available, the Commonwealth must disclose the identity and whereabouts of the witness, regardless of whether he is a confidential informant. Appellant contends that because the police version and his version of what occurred were so conflicting, the Commonwealth should have been compelled to disclose the identity and whereabouts of “Danny”, who presumably would provide corroboration to one version or the other.
+We agree that in a situation similar to Carter, the Commonwealth should release the information about their informant. We disagree that the instant case calls for such a finding. Here, there is a dispute as to whether “Danny” ever witnessed the transaction between the State Police and the Appellant. It is here important to note that there was another witness available to the Appellant. Thomas Leggett was present at the scene and was available to the defense. They elected not to call him. Appellant’s alibi directly involved Mr. Leggett. Appellant claimed he was present at the scene only to pick up his motorcycle which he had loaned to Leggett. Who was in a better position to corroborate his testimony than Leggett? We believe that the availability of Leggett as a defense witness absolved the Commonwealth of all duty to produce or disclose information concerning their confidential informant.
+Assuming, arguendo, that there was no non-police witness to the transaction, we believe that the Commonwealth revealed as much as it could concerning the informant. At the May 28th hearing on Appellant’s Application to Produce or Disclose, some five months prior to trial, State Trooper Goff testified that he knew the informant only as “Danny” and that the most specific address he could give was “somewhere in Northern New Jersey” (N.T. 24). The Commonwealth has no duty to produce a witness whose whereabouts is unknown. Commonwealth v. Detre, 462 Pa. 344, 341 A.2d 112 (1975).
+Appellant next argues that the Commonwealth failed to satisfy its burden of proof that the Appellant possessed and delivered a controlled substance.
+The Commonwealth produced Thomas Jensen, employed by the State Police in their Crime Lab, as an expert witness. He testified that, in his opinion, the substance seized from Appellant’s possession was marijuana as defined by the Controlled Substance Act, supra.
+Appellant argues that Jensen was not able to distinguish between the species of marijuana known as Cannabis Sativa L. (the substance defined and prohibited in the Act), and the species of marijuana known as Cannabis Indica (not defined in the Act), and, therefore, the Commonwealth did not prove that the substance the Appellant allegedly possessed and delivered was the prohibited substance, Cannabis Sativa L.
+A review of the testimony indicates that Jensen, while admitting that some botanists recognize different species of marijuana and that if, in fact, there are different species, he did not have the expertise to distinguish between them, never testified that he recognized the existence of any different species of marijuana.
+Appellant, however, assumes the existence of two species of marijuana and because Jensen could not distinguish between them, he is unqualified to testify as an expert.
+The law is clear that the admission of expert opinion evidence is a matter within the sound discretion of the trial court. Hussey v. May Department Stores, 238 Pa.Super. 431, 357 A.2d 635 (1976).
+Here, there is no reason to believe the trial court abused its discretion. Mr. Jensen satisfied the court with his credentials. He is employed by the State Police as a chemist in their Crime Lab.
+Appellant next contends that the lower court should have granted a mis-trial where the District Attorney used the word “heroin” in his opening statement in a case which did not involve heroin.
+The opening statement of the District Attorney was not recorded. The Appellant’s attorney did not object at the time the word was allegedly uttered but only after the District Attorney completed his opening statement.
+Where an opening statement is not recorded, any objection as to its content must be made at the time the objectionable material is uttered, otherwise the objection is waived. Commonwealth v. Adkins, 468 Pa. 465, 364 A.2d 287 (1976). This is to eliminate unnecessary disputes concerning what was said. In this case, that is precisely what happened. Upon the Appellant’s objection, the Judge could not recall hearing the word and the Prosecutor did not recall having uttered it. The Judge overruled the Appellant’s objection. Following Adkins, we believe that the Appellant waived any argument on this objection by failing to voice it in a timely manner.
+Appellant’s final contention is that the physical evidence introduced by the Commonwealth should not have been received due to the fact the Commonwealth did not call all witnesses having access to the evidence during the period it was in custody.
+It is well established that the Commonwealth need not produce every individual who came into contact with an item of evidence, nor is there a need to eliminate all possibilities of tampering. Commonwealth v. Rick, 224 Pa.Super. 33, 366 A.2d 302 (1976). The Commonwealth need only establish a reasonable inference that the identity and condition of the exhibits remained unimpaired until they were surrendered to the court. Commonwealth v. Miller, 234 Pa.Super. 146, 339 A.2d 573 (1975).
+Trooper Karvan testified that exhibits 1 and 2 were kept in a locked cabinet file and that exhibit 3 was kept in a locked vault. He indicated that probably four other officers had access to the evidence. (N.T. 81-84). Appellant offers no evidence to indicate that the exhibits were tampered with or that they were altered in any way. In the absence of any evidence which would create a reasonable doubt, we accept the inference to be drawn from the Commonwealth’s testimony. Appellant’s allegations are without merit.
+Judgment affirmed.
+HOFFMAN and SPAETH, JJ., concur in the result.
+WATKINS, former President Judge, did not participate in the consideration or decision of this case.
