@@ -1,0 +1,50 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 745 C.D. 1972"
+decided: "1973-05-16"
+citations: ["9 Pa. Commw. 132"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crtjmlish, Jr., Kramer, Wilkinson, Jr., Mencer, Rogers and Blatt.", "President Judge Bowman dissents."]
+parties: ["Hartshorn, et al. v. Allegheny County, et al."]
+source_url: "https://static.case.law/pa-commw/9/cases/0132-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1854143
+cites_cases: ["259 A. 2d 437", "289 A. 2d 523", "436 Pa. 168", "5 Pa. Commonwealth Ct. 105"]
+---
+
+# Hartshorn v. Allegheny County
+
+## Majority (Judge Crumlish, Jr.,)
+
+Opinion by
+Judge Crumlish, Jr.,
+The Common Pleas Court of Allegheny County held that the county detectives of Allegheny County are “policemen” within the meaning of the Act of June 24, 1968, P. L. 247, Section 1, 43 P.S. §217.1. (Act 111).
+Hence this appeal by the County Commissioners and the District Attorney.
+The appellees herein were appointed and presently serve as county detectives for Allegheny County by the District Attorney by virtue of the power vested in him by the Act of July 28, 1953, P. L. 723, 16 P.S. §4440. They were elected to the Wage and Police Committee by the county detectives pursuant to the provisions of Act 111.
+On June 24, 1971, appellees as representatives of the staff of county detectives notified in writing the County Commissioners and the District Attorney of their desire to engage in collective bargaining as provided in Act 111. On September 10,1971, they notified appellants in writing of their intention to engage in binding arbitration under the same Act.
+Appellants ignored both of these requests and this litigation ensued. Appellees filed a Complaint in Mandamus by which they sought to compel appellants to arbitrate. Preliminary Objections of appellants and Motions for Summary Judgment by both parties were heard by Judge John J. McLean who filed an opinion which contained an order which dismissed the Preliminary Objections and granted summary judgment in favor of appellees.
+Appellants argue that (1) this Court should overrule its own ruling in Venneri v. County of Allegheny, 5 Pa. Commonwealth Ct. 105, 289 A. 2d 523 (1972), and designate the Pennsylvania Labor Relations Board as the initial forum in which to determine the issue of the status of certain public employees under Act 111 and (2) appellees are not “policemen” as described in Act 111, but on the contrary they are covered by the Act of July 23, 1970, P. L. 563, as amended, 43 P.S. §1101.101 et seq. (Act 195).
+We disagree with the appellants’ contention and affirm the Order of the lower court. We will consider appellants’ argument to the extent that they deserve attention.
+In Venneri, we held that a determination of the status of an employee by the Pennsylvania Labor Belations Board is not prerequisite to relief in mandamus under a state collective bargaining statute. We said that it is the duty of the court of first instance to determine whether a particular employee is so classified.
+Appellants urge us to reverse ourselves because, in their eyes, Venneri prolongs unresolved disputes between the public employer and employees and strips the Pennsylvania Labor Belations Board of the power it was granted by the General Assembly.
+We affirm Venneri and refer to the reasoning therein. ~
+Appellant’s second contention is likewise without merit.
+Act 111 provides that: “Policemen . . . employed by a political subdivision of the Commonwealth . . . shall, through labor organizations or other representatives . . . have the right to bargain collectively with their public employers concerning the terms and conditions of their employment, including compensation, hours, working conditions, retirement, pensions and other benefits and shall have the right to an adjustment or settlement of their grievances or disputes in accordance with the terms of this act.” 43 P.S. §217.1.
+The Act further provides for compulsory and binding arbitration between policemen and their employes when the bargaining procedure stalls.
+Act 111 does not define the term “policemen.” However, at the outset in looking to the statute which authorizes the appointment of county detectives in counties of the second class (of which Allegheny County is one), we find that: “. . . Said detectives shall be general police officers and shall have all powers now conferred on constables by existing laws of this Commonwealth, so far as they relate to crime or criminal procedure and they shall serve subpoenas in cases in which the Commonwealth is a party in a court of record.” (Emphasis supplied.) 16 P.S. §4440(b).
+Simply stated, then, the question is whether the county detectives of Allegheny .County fall within the class designated in Act 111 by the term “policemen.”
+The purpose of Act 111 was to insure appropriate pay increases and additional fringe benefits to policemen and firemen by collective bargaining, while guaranteeing, through the compulsory and binding arbitration provision, that these critical employees would not find it necessary to resort to strikes. The resultant danger to the health and safety of the community is obvious.
+The appellants do not see the county detectives of Allegheny County as critical employees within the contemplation of the Legislature when it enacted Act 111 but rather they are court-related employees as provided in Act 195.
+Again, we are guided by Venneri which determined that the legal determination of the definition of the term “policemen” in Act 111 must be resolved after full consideration of the particular factual posture presented to the Court. 5 Pa. Commonwealth Ct. at 108, 289 A. 2d at 524.
+Turning to the facts on the record, it is clear that county detectives of Allegheny County perform duties normally associated with policemen. The court below aptly recites in appropriate detail those facts which lead to the conclusion with which we here agree.
+“Upon appointment by the district attorney, county detectives are issued a .38 caliber revolver, ammunition for it, handcuffs and key, and a badge. They are given initial training and later in-service training in use of firearms and are required to be armed when on duty and when in a county motor vehicle. There are 32 county detectives at the present time and they are divided among three divisions, the homicide division, the narcotics and vice division, and the general investigative division. The first two divisions are assigned to cover the entire county of Allegheny, whereas the third division is divided into three groups, each to cover a separate section into which the county has been divided.
+“Substantially all of the working time of the county detectives is spent in the investigation of felonies and serious misdemeanors and in the apprehension of suspects indicated by those investigations. Because the City of Pittsburgh and the City of McKeesport, both located in Allegheny County, have detective branches within their police departments, the county detectives investigate crimes in those municipalities only in a few instances when their assistance is specifically requested. However, with respect to all of the other municipalities of Allegheny County, numbering more than 125, the county detectives routinely, daily provide the investigative service for felonies and serious misdemeanors. That is to say, the county detectives provide exactly that function that is provided by the detective branchs of Pittsburgh and McKeesport. It is necessary for them to do so because, except for Pittsburgh and McKeesport, the other municipalities are too small in population and police resources to be able to maintain skilled detectives. For the years 1964 through July 1971, the county detectives made 6074 arrests. Currently, arrests average 54 per month.”
+From a review of these recited facts, we find it reasonable to conclude that the appellees are “policemen” within the common meaning and understanding of that term. Indeed to conclude otherwise would be totally unrealistic. It is also apparent that by providing investigation and detection of serious crimes, appellees’ services must be termed “critical” to the safety and welfare of the smaller communities they serve.
+Appellants also argue that application of Act 111 to the county detectives would divest the county district attorney of control of his staff. They contend that an arbitrator’s decision under 111, both binding and unappealable, could subject the district attorney to demands which would destroy his independent command of the detectives.
+There is no merit to this position. Our Supreme Court in Washington Arbitration Case, 436 Pa. 168, 259 A. 2d 437 (1969), ruled that arbitration panels proceeding under the procedures of Act 111 cannot force a public employer to perform an illegal act. The court wrote: “The essence of our decision is that an arbitration award may only require a public employer to do that which it could do voluntarily.” 436 Pa. at 177, 259 A. 2d at 442. Therefore it is clear that the arbitrators can only require the district attorney to implement changes which legitimately concern “the terms and conditions of . . . employment.” Control of the detectives is vested in the district attorney. 16 P.S. §4440 (b). An arbitrator’s decision cannot disturb that statutorily derived right.
+We are not unmindful of the tenuous position of the County Commissioners. The District Attorney hires, fires and controls these county detectives; but the County Commissioners regulate their pay and worldng conditions. The result we reached today may put the Commissioners in an unhappy bargaining position, but the statute mandates the result.
+Affirmed.
+President Judge Bowman dissents.
+43 P.S. §1101.805 provides a special arbitration procedure for court personnel. The appellants contend that the appellees are in this class.
