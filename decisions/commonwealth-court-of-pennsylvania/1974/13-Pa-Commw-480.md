@@ -1,0 +1,38 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 348 C.D. 1973"
+decided: "1974-05-08"
+citations: ["13 Pa. Commw. 480"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Mencer and Rogers, sitting as a panel of three."]
+parties: ["Prince E. Hunter, Appellant, v. Penn Galvanizing Company and Pennsylvania Manufacturers’ Association Insurance Company and Commonwealth of Pennsylvania Occupational Disease Fund, Appellees."]
+source_url: "https://static.case.law/pa-commw/13/cases/0480-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1859172
+cites_cases: ["305 A.2d 59", "305 A.2d 757", "309 A.2d 583", "453 Pa. 401", "9 Pa. Commonwealth Ct. 176", "9 Pa. Commonwealth Ct. 79"]
+---
+
+# Hunter v. Penn Galvanizing Co.
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+Prince E. Hunter, the claimant in this case under The Pennsylvania Occupational Disease Act, Act of June 21, 1939, P.L. 566, 77 P.S. §1201 et seq., has appealed from an order of the Court of Common Pleas of Philadelphia County affirming a decision amd order of the Workmen’s Compensation Board denying compensation. The Board vacated a referee’s findings, substituted its own and reversed an award made by the referee.
+Mr. Hunter was employed for 26 years by Penn Galvanizing Company in its steel processing plant. His work was conducted in a factory where steel sheets were cleaned by sandblasting and additionally cleaned and “pickled” by their immersion in large tanks containing hot water mixed variously with carbolic acid, cyanide, lime, caustic soda and possibly other substances. The sandblasting produced dust and the immersion of the plates caused fumes. On July 12, 1968 Hunter became ill while on the job and has not worked since. He has been hospitalized several times since July 1968 and is being treated for pulmonary complaints.
+The claimant’s treating physician testified that the claimant suffers from “pneumonitis, probable silicosis, bilateral diffused interstitial pulmonary fibrosis, compensatory emphysema and arteriosclerotic cardiovascular disease, with early evidence of heart strain, cor pulmonale.” He expressed the opinion that “[t]here is a direct causal relationship between the . . . years of working in an environment of sandblasting, acid and other fumes and Ms present pneumoconiosis and pulmonary fibrosis.”
+The defendants’ examining physician, a board certified internist with special training in pulmonary diseases, found the claimant to have “a slight process of fibrotic scarring in both lungs” and “coronary artery disease.” He diagnosed the claimant’s condition as “pulmonary fibrosis, cause unknown” and as “[A] natural disease process and definitely not related to the exposure to the claimant’s occupational environment.” This expert indicated that the claimant’s fibrosis could be the result of many causes including air pollution, carbon dioxide in the air, exposure to virus, fungus, or numerous diseases. He held the opinion that the claimant was not suffering from pneumoconiosis because, as both doctors agreed, the claimant’s condition of pulmonary fibrosis improved from time to time, which does not occur with pneumoconiosis. This doctor also believed that the claimant’s pulmonary problems alone caused little disability.
+The claimant’s evidence did not establish that he was afflicted with any of the occupational diseases specifically named in section 108 of the Act, 77 P.S. §1208. He was, therefore, required to bring his case within subsection (n) of 108 which names as a compensable occupational disease: “(n) All other occupational diseases (1) to which the claimant is exposed by reason of his employment, and (2) which are peculiar to the industry or occupation, and (3) which are not common to the general population....”
+As we have noted, the claimant’s proofs consisted of his doctor’s opinion that his undoubted condition of pulmonary fibrosis was caused by the conditions of his employment. Unfortunately, there was no attempt made by the claimant to tell which of the asserted hazards, dust or fumes, or both, was responsible, or to describe either what kind of dust or fumes were present or how or why they or either of them caused the claimant’s malady. On the other hand, the Board had before it the defendants’ opinion evidence that the claimant’s condition was not caused by dust (that is, was not pneumoconiosis) and that it was indeed a condition common to the general population in that it could have been caused by a wide variety of things including general air pollution, viruses, bacteria and a number of diseases. The Board’s acceptance of the defendants’ and rejection of the claimant’s medical evidence may not be disturbed by us. McKinney Manufacturing Corp. v. Straub, 9 Pa. Commonwealth Ct. 79, 305 A.2d 59 (1973).
+The claimant has not cited in support of his position Utter et al. v. Asten-Hill Mfg. Co., 453 Pa. 401, 309 A.2d 583 (1973). Because that case is so recent and important to the consideration of a section 108(n) claim, we note that it holds that while lung cancer is a disease common to the general public, it nevertheless can be an occupational disease as defined by 108 (n) if it is peculiar to the claimant’s occupation by its causes and the characteristics of its manifestation. The instant record does not, as did that of Utter, reveal the claimant’s condition of pulmonary fibrosis as one peculiar in cause and manifestation to the claimant’s occupation. Indeed, the claimant’s evidence that his condition was the result of any occupational hazard was refuted and the refutation accepted by the Board.
+Order affirmed.
+This action was and remains proper under The Pennsylvania Occupational Disease Act which was not affected by the Act of March 29, 1972, P.L. — No. 61 or our case of Universal Cyclops v. Krawczynski, 9 Pa. Commonwealth Ct. 176, 305 A.2d 757 (1973).
+Such of these words as require definition mean, according to the Attorney’s Dictionary of Medicine, J. E. Schmidt (Matthew Bender 1971), the following:
+pneumonitis — “inflamation of the lung which is limited to a relatively small region and is not accompanied by the severe general symptoms of pneumonia.”
+silicosis — “a disease of the lungs caused by the prolonged inhalation of dust derived from sand, stone, etc.” fibrosis — “an overgrowth of fibrous tissue; especially an overgrowth of fibrous tissue which forms the framework of an organ, so that the functional part of the organ is encroached upon.” compensatory — “making good a defect in one part by increasing activity or efficiency in another.”
+emphysema — “the presence of air in the delicate tissue between the miniature air sacs of the lungs. ... If some obstruction develops ... so that air does not flow out easily, the pressure extended by the chest wall and diaphragm . . . will cause the delicate sacs to stretch and burst, letting air enter certain small spaces which separate one little sac from another. This causes emphysema.”
+cor pulmonale — “an abnormal condition of the right side of the heart . . . due to a disease of the lungs or/and the blood vessels which supply the lungs.”
+pneumoconiosis — “a chronic disease of the lungs marked by an overgrowth of connective tissue (supporting tissue) and caused by the inhalation of large quantities of dust.”
+While claimant’s physician testified that the claimant had “probable silicosis”, there was no proof that the claimant’s occupation involved exposure to coal dust or dust of silicon dioxide as provided by subsection (k) of section 108, 77 P.S. §1208.
