@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "331, Misc. Docket No. 4"
+decided: "1937-03-02"
+citations: ["126 Pa. Super. 238"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth ex rel. Otten v. Smith."]
+source_url: "https://static.case.law/pa-super/126/cases/0238-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 998343
+cites_cases: ["104 A. 672", "123 A. 681", "123 Pa. Superior Ct. 113", "148 A. 45", "186 A. 810", "261 Pa. 496", "279 Pa. 84", "298 Pa. 63", "3 Pa. Superior Ct. 161", "69 Pa. 482", "80 Pa. Superior Ct. 320", "82 Pa. Superior Ct. 156", "92 Pa. Superior Ct. 581", "93 Pa. Superior Ct. 339"]
+---
+
+# Commonwealth ex rel. Otten v. Smith
+
+## Majority (Per Curiam,)
+
+Per Curiam,
+Petition for writ of habeas corpus. The relator was tried and found guilty in the court of Oyer and Terminer of Philadelphia County on two indictments charging robbery; the one, No. 859 March Term, 1930 charging robbery from the person of Mark Huffnagle, the other No. 860 March term, 1930, charging robbery from the person of Albert Gillen. He was sentenced, March 31, 1930, on indictment No. 859 to imprisonment at labor in the Eastern Penitentiary for not less than five years nor more than ten years; and the same sentence was imposed on indictment No. 860, to take effect at the expiration of the sentence on No. 859.
+He presents two grounds for his discharge: (1) That as the testimony in the record shows that he committed both robberies in the same place and, approximately, at the same time, he could be legally sentenced only once; (2) that the indictments were drawn under section 102 of the Criminal Code of March 31, 1860, P. L. 382, the maximum sentence for which is fixe years imprisonment at labor, and not under section 100, as amended by Act of April 18, 1919, P. L. 61, the maximum sentence for which is twenty years imprisonment at labor.
+(1) There is no merit in the first contention. Each robbery was a separate offense even though committed at the same place and at approximately the same time: Com. v. Bailey & Ford, 92 Pa. Superior Ct. 581; Com. ex rel. Wendell v. Smith, 123 Pa. Superior Ct. 113, 114, 186 A. 810. If the relator had killed both' men, in perpetrating or attempting to perpetrate the robberies, he would have been guilty of two murders, not one, even though the killings occurred at the same time and place: Com. v. Valotta, 279 Pa. 84, 123 A. 681; Com. v. Melissari, 298 Pa. 63, 148 A. 45. The rule enforced in Com. v. Ernesto, 93 Pa. Superior Ct. 339, a case of involuntary manslaughter, where several persons were unintentionally and without malice killed by an explosion in the illegal operation of a still,—an offense not amounting to felony—, does not apply. The two robberies were not successive steps constituting one crime, as in Com. v. Basha, 80 Pa. Superior Ct. 320; nor was either robbery merged in the other, as the larceny of goods following a burglary, may be considered as merged in the greater crime: Com. v. Birdsall, 69 Pa. 482, 485; Com. ex rel. Wendell v. Smith, 123 Pa. Superior Ct. 113, 114, 115, 186 A. 810.
+(2) Our examination of the indictments, however, leads us to the conclusion that they were drawn under section 102 of the Criminal Code and not under section 100, as amended. They do not charge that the defendant was armed with an offensive weapon, or that he acted together with one or more other persons, or that at the time, or immediately before or after such robbery, he did beat, strike, or ill use the person robbed or did violence to him, one of which is essential to a conviction under section 100. The use in the indictment of the stock phrase, “with force and arms,” which is employed in almost every indictment, is not sufficient : Com. v. Mills and Adams, 3 Pa. Superior Ct. 161, 165; nor are the phrases, “in bodily fear and danger of his life, then and there feloniously did put,” or “then and there feloniously and violently did rob, seize, steal, take and carry away.” Violence or putting in fear is a necessary ingredient of robbery under section 102: Com v. Anagustov, 82 Pa. Superior Ct. 156; Com. v. Dantine, 261 Pa. 496, 104 A. 672. The failure to use in the indictment any of the distinctive charges under section 100, recited above, satisfies us that the indictment charged offenses under section 102, the maximum imprisonment for which was five years in each case.
+As the relator has not served the full maximum terms for which he could be legally sentenced he is not entitled to his discharge; but the sentences should be corrected to accord with the legal sentences which could have been imposed under section 102 of the Act of March 31, 1860, supra.
+And now, March 2, 1937, it is ordered and adjudged that the rule previously allowed to show cause why habeas corpus should not issue be made absolute, and the application is treated as though the writ had issued and Charles Otten were before us; and it is further ordered and adjudged that the relator be remanded for resentence and that the record be remitted to the court below to the end that appropriate process may be issued to bring him into that court for such resentence in accordance with law.
