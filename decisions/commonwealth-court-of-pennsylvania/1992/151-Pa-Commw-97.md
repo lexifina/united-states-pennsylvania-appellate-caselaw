@@ -1,0 +1,42 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "2482 C.D. 1991"
+decided: "1992-10-05"
+citations: ["151 Pa. Commw. 97", "617 A.2d 46"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before PALLADINO and PELLEGRINI, JJ., and NARICK, Senior Judge."]
+parties: ["COUNTY OF SCHUYLKILL, Petitioner, v. WORKMEN’S COMPENSATION APPEAL BOARD (LAWLOR), Respondent."]
+source_url: "https://static.case.law/pa-commw/151/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1438723
+cites_cases: ["513 Pa. 518"]
+---
+
+# County of Schuylkill v. Workmen's Compensation Appeal Board
+
+## Majority (PELLEGRINI, Judge.)
+
+PELLEGRINI, Judge.
+The County of Schuylkill (Employer) appeals from an order of the Workmen’s Compensation Appeal Board (Board) reversing the Referee’s decision setting aside the Notice of Compensation Payable to Ronald J. Lawlor (Claimant). The Board reversed because the Employer’s insurer had completed its investigation of Claimant’s claim for benefits prior to issuing the Notice of Compensation Payable recognizing Claimant’s myocardial infarction as work-related.
+Claimant was employed by the Schuylkill County Prison as a Corrections Officer. His primary responsibility was to supervise prisoners. On June 3,1985, while at work, Claimant sustained a myocardial infarction after engaging in a verbal confrontation with a prisoner. The claims examiner of the Employer’s insurance carrier, Westmoreland Casualty Company, issued a Notice of Compensation Payable on July 26, 1985, based solely on his investigation regarding the circumstances surrounding Claimant’s heart attack, and Claimant’s statement that he did not suffer from high blood pressure and previously had a clean bill of health. The claims examiner apparently never requested Claimant’s medical records from his treating physician, Benjamin B. Platt, M.D., to aid in determining if Claimant’s injury was work-related. Claimant began receiving weekly workmen’s compensation benefits in the amount of $171.96.
+In June of 1986, the insurance carrier received a medical bill for Claimant for approximately $23,000. After making inquiries to Claimant’s health care providers, the insurance carrier found that Claimant had undergone coronary bypass surgery in September of 1985 as a result of coronary artery disease. The insurance carrier then forwarded Claimant’s file to the Employer’s counsel, who scheduled an examination of Claimant with an independent medical examiner. The medical examiner’s report indicated that Claimant’s heart attack and subsequent surgery was not work-related, but the result of his history of coronary artery disease. Consequently, on October 26, 1987, the insurance carrier filed a Petition to Review Notice of Compensation Payable on behalf of the Employer, stating that Claimant did not sustain a compensable work-related injury on June 3, 1985, and compensation had been paid in error.
+A hearing was held at which time the Employer offered the expert medical testimony of David Leaman, M.D. Dr. Leaman testified that Claimant’s myocardial infarction in 1985 was caused by his underlying coronary arteriosclerosis, and there was no correlation between the verbal altercation with the prisoner and the subsequent heart attack. Claimant offered the expert medical testimony of T. Duncan Sellers, M.D. and Dr. Platt. While Dr. Sellers testified that Claimant’s confrontation with the prisoner was the type of emotional stress which caused platelet clumping and vasoconstriction in the heart which could be followed by a heart attack, Dr. Platt testified that even though his heart attack was related to stress, Claimant was at risk of suffering a heart attack regardless of his employment because of his diet, smoking and mild obesity.
+The Referee determined that Dr. Leaman’s testimony was competent and credible and that Claimant’s heart attack and subsequent bypass surgery was not related to the incident with the prisoner on June 3, 1985. Based on his findings, the Referee concluded that the Employer met its burden and set aside the Notice of Compensation Payable, because a subsequent and timely medical investigation revealed that Claimant did not sustain a work-related injury.
+Claimant filed an appeal with the Board, alleging that the Referee erred by setting aside the Notice of Compensation Payable because his Employer’s insurer had investigated the claim prior to filing the Notice of Compensation Payable, which recognized that Claimant’s heart attack was work-related, and the investigation had been completed. Relying on our Supreme Court’s decision in Barna v. Workmen’s Compensation Appeal Board (Jones & Laughlin Steel Corpora tion), 513 Pa. 518, 522 A.2d 22 (1987), the Board agreed with Claimant that the Referee’s action constituted an error of law and reversed the Referee’s decision.
+In Bama, our Supreme Court held that where an employer promptly commences payment of compensation prior to commencement or completion of investigation into the cause of claimant’s injuries, and later determines that the claimant’s disability was never work-related, in the absence of evidence of repeated contests of the cause of the disability, the employer must be permitted to seek relief. The Board in this case determined that the Employer had an opportunity to investigate the claim, did so, and nothing in the record indicated that the Employer or its insurer was precluded from further investigation of the claim, or that they were misled or deceived by the Claimant in any respect. The Employer then filed this appeal.
+In its appeal, the Employer argues that the Board erred in its interpretation of Bama because the insurer had not completed its investigation of Claimant’s alleged work-related heart attack. Specifically, the insurer did not have any medical records in its file from Dr. Platt when it issued the Notice of Compensation Payable, and only when it received the bill for $23,000 for the bypass surgery did it begin the process of collecting all pertinent medical records.
+However, the fact that there were no medical records in Claimant’s file at the time the Notice of Compensation Payable was issued is not sufficient justification for finding that the insurer had not completed its investigation, because the insurer had the opportunity to have Claimant’s file forwarded from Dr. Platt’s office and failed to do so. According to the record, the claims examiner testified that he was unclear as to whether Claimant was ever requested to provide authorization for the release of his medical records from Dr. Platt’s office:
+A. As I remember, I think Dr. Platt would not release any records or any information regarding a patient’s status without the signed medical authorization. That’s what we did not have at the time.
+Q. Did you ask Mr. Lawlor to execute a medical authorization prior to the filing of the Notice of Compensation Payable?
+A. By course, those forms are usually sent out to the claimant, yes, but I can’t see in this file if it was or was not done.
+Q. So you don’t know whether or not that was done?
+A. No, I don’t.
+(Notes of Testimony at 33a-84a.)
+The claims examiner’s testimony indicates that no effort was made to ensure that Claimant’s authorization was received so Dr. Platt’s office could forward his medical files. Moreover, no effort was made to have Claimant independently examined.
+Consequently, because the insurer made little attempt to determine by medical evaluation whether Claimant’s heart attack was work-related before issuing benefits and clearly had the opportunity to do so, the insurer’s investigation regarding Claimant’s heart attack was completed prior to issuing the Notice of Compensation Payable. Accordingly, the decision of the Board is affirmed.
+ORDER
+AND NOW, this 5th day of October, 1992, the order of the Workmen’s Compensation Appeal Board, dated October 24, 1991, No. A90-924, is affirmed.
+. Section 413 of The Pennsylvania Workmen’s Compensation Act, Act of June 2, 1915, as amended, P.L. 736, 77 P.S. § 771, provides in pertinent part that a referee may, at any time, set aside a notice of compensation payable if it is proven that such notice of compensation payable or agreement was in any material respect incorrect.
+. The issue of whether the medical expenses for the bypass surgery were related to Claimant's heart attack on June 3, 1985, has not been raised in this appeal.
