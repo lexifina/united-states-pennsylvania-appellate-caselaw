@@ -1,0 +1,68 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2213 C.D. 1979"
+decided: "1981-11-02"
+citations: ["62 Pa. Commw. 302"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Mencer, Rogers and Palladino, sitting as a panel of three. Reargued September 15,1981, before President Judge Crumlish and Judges Mencer, Rogers, Blatt, Craig, MacPhail and Palladino.", "Judges MacPhail and Palladino join in this dissent."]
+parties: ["McGraw-Edison/Power Systems Division, Petitioner v. Commonwealth of Pennsylvania, Workmen’s Compensation Appeal Board and Joseph Rendziak, Respondents."]
+source_url: "https://static.case.law/pa-commw/62/cases/0302-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1925896
+cites_cases: ["13 Pa. Commonwealth Ct. 343", "130 A.2d 445", "133 Pa. Superior Ct. 576", "154 A.2d 298", "18 Pa. Commonwealth Ct. 352", "190 Pa. Superior Ct. 319", "20 Pa. Commonwealth Ct. 305", "23 Pa. Commonwealth Ct. 454", "276 A.2d 534", "29 Pa. Commonwealth Ct. 365", "295 A.2d 845", "3 A.2d 216", "318 A.2d 379", "32 Pa. Commonwealth Ct. 508", "336 A.2d 440", "34 Pa. Commonwealth Ct. 316", "340 A.2d 915", "352 A.2d 571", "370 A.2d 1254", "379 A.2d 1074", "383 A.2d 571", "388 Pa. 419", "406 A.2d 606", "421 A.2d 489", "432 A.2d 1128", "442 Pa. 484", "46 Pa. Commonwealth Ct. 449", "464 Pa. 276", "54 Pa. Commonwealth Ct. 313", "6 Pa. Commonwealth Ct. 470", "61 Pa. Commonwealth Ct. 12"]
+---
+
+# McGraw-Edison/Power Systems Division v. Commonwealth
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+Joseph Rendziak is an employee of McGraw-Edison/Power Systems Division. On April 1, 1977 he was doing work with a steel coil which he later testified required a lot of effort. Shortly after finishing his shift on that day, while taking a shower at home, Rendziak noticed a bulge in his left side. He saw Dr. Schmieler, a physician engaged by his employer, and later Dr. Krosnoff to whom he was referred by Dr. Schmieler. Both doctors diagnosed the bulge as an inguinal hernia. Dr. Krosnoff performed a herniorrhaphy and Rendziak returned to work on July 19, 1977 with no further disability or loss of earnings. Rendziak had no history of hernia before the occurrence just described.
+Rendziak filed a Claim Petition under The Pennsylvania Workmen’s Compensation Act, Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §1 et seq., which the employer answered that Rendziak’s hernia was not work related. The two doctors’ reports were admitted into the record of the referee’s hearing. Dr. Schmieler wrote that “no history [was] reported to me ... of any unusual strain, slip, etc. ’ ’ and that ‘ ‘ there was no history of an accident that would be compatible with causing a hernia”, and stated his belief that the hernia .was- riot related to any injury that occurred at work.
+Dr. Krosnoff on the other hand wrote as follows:
+In reviewing my records (see enclosed copy of history obtained from the patient) it would appear that a cause and effect relationship for the development of his hernia could be established. The patient stated to me that he had not noted the mass in his left inguinal area until after lifting all day Friday (presumable date April 1, 1977) and then reported same on Monday, April 4, 1977. During this time he was also being treated for an acute exacerbation of a chronic low back problem.
+If no documentation of the hernia was ever made except as he prior states, then in my judgment I give the patient the benefit of the doubt as he so states, which would seemingly make this a work related incident.
+The referee denied benefits making the two following pertinent findings:
+13. The claimant by his own admission denies the occurrence of any injury on April 1, 1977.
+14. The claimant has failed to meet the burden of proving the occurrence of a work related injury on April 1, 1977 and, therefore, his prayer for compensation must be denied.
+On appeal the Workmen’s Compensation Appeal Board reasonably concluded, based on the referee’s findings 13 and 14, that the referee may have erroneously imposed upon Bendziak the burden of proving that a lay accident (or facts justifying the application of the unusual strain doctrine) was the cause of the hernia. It remanded the record to the referee for application of the proper standard, in existence since 1972 amendments to Section 301 of the Act dispensed with the requirement that the injury be the résult of an accident.
+In response to the remand the referee made a new decision awarding benefits, which the Appeal Board affirmed.
+The employer contends that the Appeal Board erred in remanding because the record contains substantial evidence supporting the referee’s first decision, citing Forbes Pavilion Nursing Home, Inc. v. Harden, 18 Pa. Commonwealth Ct. 352, 336 A.2d 440 (1975). The flaw in this thesis is that the remand was ordered, not for the referee’s reconsideration of the facts, but for the application of the proper principle of law. While under the 1972 amendments, fact finding is committed to the referee, matters of law continue to be reviewable by the Appeal Board. Page’s Department Store v. Velardi, 464 Pa. 276, 346 A.2d 556 (1975). It follows that the Board discerning an apparent error of law, may remand to assure the application of the correct principles.
+The employer also says that there was not unequivocal medical evidence that Bendziak’s hernia was work related, emphasizing Dr. Krosnoff’s use of the phrase “benefit of the doubt” and the referee’s characterization, in his first decision, of Dr. Krosnoff’s report as equivocal. Of course, the claimant is entitled to the benefit of the most favorable inferenees reasonably deducible from the medical evidence supporting his claim. Cooper-Jarrett, Inc. v. Workmen’s Compensation Appeal Board, 61 Pa. Commonwealth Ct. 12, 432 A.2d 1128 (1981). A careful reading of Dr. Krosnoff’s letter reveals that the phrase “benefit of the doubt” had reference to the history given by the claimant of not experiencing any symptoms of a hernia — a bulge — until the heavy lifting incident of Friday, April 1, 1977 and of his noticing the bulge on the weekend and reporting it on Monday. The doctor says he gives the claimant the benefit of the doubt as to that history, not as to the cause of the hernia if that history is accepted.
+A physician’s opinion of the cause of an injury is of course often conditioned on the acceptance of a history as well as of the correctness of the results of objective tests, of the truthfulness of the patient’s report of his subjective symptoms, of the accuracy of observations recorded in the patient’s medical file, etc. Medical causation testimony is not rendered equivocal because it is based on the witness’s assumption of the truthfulness of the information provided him for the purpose of forming his opinion. As we stated in Workmen’s Compensation Appeal Board v. Czepurnyj, 20 Pa. Commonwealth Ct. 305, 340 A.2d 915 (1975)
+With respect to this physician’s reliance upon the history of the accident as described by Appellant, such reliance does not render his subsequent opinion of causation equivocal or otherwise incompetent if the supposed facts forming the basis of his diagnosis and determination of causal nexus with the accident are proven by competent evidence and accepted as true by the referee. Reed v. Glidden Co. [13 Pa. Commonwealth Ct. 343, 318 A.2d 379 (1974)]; Sabatini v. Affiliated Food Distributors, Inc., 6 Pa. Commonwealth Ct. 470, 295 A.2d 845 (1972).
+Id. at 312, 340 A.2d at 919. See also F. W. Kestle Associates v. Workmen’s Compensation Appeal Board, 54 Pa. Commonwealth Ct. 313, 421 A.2d 489 (1980); Atlas Mineral and Chemical, Inc. v. Workmen’s Compensation Appeal Board, 46 Pa. Commonwealth Ct. 449, 406 A.2d 606 (1979). Here the claimant testified, as he told Dr. Krosnoff, that his first symptom of herniation appeared shortly after the lifting incident at work. The referee credited this testimony. Dr. Krosnoff gave his medical opinion that if this was the inception of the hernia, then the hernia was the result of the lifting incident. This was not equivocal medical evidence of causation. In Workmen’s Compensation Appeal Board v. Bethlehem Steel Corporation, 23 Pa. Commonwealth Ct. 454, 457, 352 A.2d 571, 573 (1976), we held the following very similar testimony to be sufficient:
+Well, I would have to presume, you know, with the type of work he’s doing and that’s about all it would be — a presumption — unless he does some other things, you know, outside of his work area that would favor herniation. I would presume that the type of work he is doing would lead to herniation if he stressed himself, considering his age and considering the fact than an inguinal hernia was involved.
+Order affirmed; an appropriate judgment order will be entered.
+Order
+And Now, this 2nd day of November, 1981, we affirm the award of benefits as follows:
+McGraw-Edison/Power Systems Division, self-insured, is directed to pay Joseph Rendziak compensation at the rate of $168.32 per week beginning April 14, 1977 and continuing through June 17, 1977, inclusive, a period of 15 weeks, in the total amount of $2,524.80.
+The petitioner is directed to take subrogation against the award in the total amount of $1,386.00.
+Interest is payable on all deferred payments of compensation at the rate of ten percentum per annum.
+A termination of compensation is directed effective July 18, 1977 continuing within the meaning, provisions and limitations of the Workmen’s Compensation Act.
+The petitioner is directed to reimburse the claimant’s counsel for costs incurred in the total amount of $79.00 for hospital records and Dr. Krosnoff’s report.
+Reasonable attorney fees in the amount of $288.80 are approved and the petitioner is directed to deduct said amount from the deferred compensation due the claimant and forward it with the aforementioned $79.00 in costs to Leonard P. Kane, Jr., Esquire.
+The remaining compensation of $850.00 and all payments of interest shall be paid by bank drafts issued in the name of the claimant only and forwarded directly to him.
+
+## Dissent (Judge Mencer :)
+
+Dissenting Opinion by
+Judge Mencer :
+I respectfully dissent for three reasons:
+(1) The medical testimony is equivocal and cannot, as a matter of law, support an award in favor of the claimant.
+Clamant must show a causal connection between his work and his hernia and, where this causal connection is not obvious, this connection must be established by unequivocal medical testimony. Hudack v. Workmen’s Compensation Appeal Board, 32 Pa. Commonwealth Ct. 508, 379 A.2d 1074 (1977); Heffer v. GAF Corp., 29 Pa. Commonwealth Ct. 365, 370 A.2d 1254 (1977).
+Here, there is no question that the connection is not obvious. Claimant himself admits, and the referee found, that claimant did not experience any symptom that would indicate that he had sustained an injury in the course of employment.
+Courts of this Commonwealth have previously held that medical opinions such as “could have,” Florig v. Sears, Roebuck & Co., 388 Pa. 419, 130 A.2d 445 (1957); “highly possible,” DiFazio v. J. G. Brill Co., 133 Pa. Superior Ct. 576, 3 A.2d 216 (1938); “probably was,” Bonaduce v. Transcontinental Gas Pipe Line Corp., 190 Pa. Superior Ct. 319, 154 A.2d 298 (1959); and “probably a cause and effect relationship,” McMahon v. Young, 442 Pa. 484, 276 A.2d 534 (1971), were legally insufficient to constitute equivocal testimony.
+In Ricciardi v. Workmen’s Compensation Appeal Board, 34 Pa. Commonwealth Ct. 316, 383 A.2d 571 (1978), claimant’s doctor, responding to a question by claimant’s counsel as to whether the cause of the injury was the incident at work, replied, “Yes, it could be.” This was held to be legally insufficient to support the “unequivocal” standard.
+In the instant case, the doctor, at best, says that a cause-and-effect relationship “could be established.” Moreover, the doctor is willing to give the patient the “benefit of the doubt,” which would “seemingly make this a work related incident.”
+These words can in no way be construed as unequivocal. The “benefit of the doubt” standard is clearly not legally competent evidence to show that the result in question came from the cause alleged. At best, it is a mere probability; it should not be deemed by this Court as unequivocal.
+(2) The Board remanded the ease solely for the referee to apply the correct standard of law. The referee had no power to change any facts, especially since the referee took no new additional evidence.
+In the first referee decision, the referee concluded that claimant’s doctor’s testimony was “to say the least . . . equivocal,” and that employer’s doctor’s testimony “is unequivocal and clearly indicates that ... the hernia was not work related. ’ ’
+In the second decision, the referee now finds that claimant’s doctor’s testimony is “somewhat equivocal.” The referee also deletes his finding as to the unequivocalness of employer’s doctor’s opinion.
+These changes are wholly unwarranted. The findings of fact in the first decision control.
+(3) The referee makes a finding which is inconsistent with his legal result. On remand, the referee found, in finding of fact 9, that the opinion of claimant’s doctor is “somewhat equivocal.” As a matter of law, then, the referee, believing that the only medical testimony favorable to claimant is equivocal, could not find for the claimant.
+I would reverse the order of the Board.
+Judges MacPhail and Palladino join in this dissent.
