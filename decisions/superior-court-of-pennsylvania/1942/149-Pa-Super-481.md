@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 102"
+decided: "1942-07-23"
+citations: ["149 Pa. Super. 481"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldbige, Rhodes, Hibt and Ken-worthey, JJ."]
+parties: ["Lowe et ux. v. L. & H. Transportation Company et al., Appellants."]
+source_url: "https://static.case.law/pa-super/149/cases/0481-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1043227
+cites_cases: ["172 A. 293", "315 Pa. 97"]
+---
+
+# Lowe v. L. & H. Transportation Co.
+
+## Majority (Rhodes, J.,)
+
+Opinion by
+Rhodes, J.,
+Claimants are partially dependent parents . of deceased who was employed by defendant as a truck operator, and who met with an accident in the course of his employment on January 27, 1939, which resulted in his death that day. The referee made an award on the basis of an average weekly wage of $33.75. On appeals by claimants and defendant and its insurance carrier, the board reversed the referee and made an award on the basis of an average weekly wage of $41.25. The court of common pleas affirmed the board and entered judgment in favor of claimants and against defendant and its insurance carrier. The latter have appealed.
+Deceased was an employee of defendant from December 22, 1938, to January 27, 1939. Under the contract of hiring he was to receive $11.25 for driving a truck between Pittsburgh and New York City, and an equal amount for a return trip. There was testimony that this represented compensation at the union rate of 62% cents per hour for 18 hours, the estimated time to make each trip. During the period of his employment he made 12 trips, or 6 round trips, and received $135. Deceased was not actually paid by the hour or by the day. His compensation was merely for a trip to or from New York, and for the time thus expended he was to receive the agreed amount. This sum was to he paid regardless of the actual hours involved, as a trip may have taken 18 hours or it may have required more or less. In any event,, the compensation- was the same. There is no evidence as to the number of trips made in any one week.
+Section 309 of the Workmen’s Compensation Act of June 2, 1915, P. L. 736, as amended by the Act of June 4, 1937, P. L. 1552, §1, 77 PS §582, cited and relied upon in both briefs, provides in part: “In continuous employments, if immediately prior to the accident the rate of wages was fixed by the day or hour, or by the output of the employe, his weekly wages shall be taken to be five and one-half times his average earnings at such rate for a working day, and using as a basis of calculation his earnings during so much of the preceding six months as he worked for the same employer: Provided, however, That if the employe regularly and habitually worked more than five and one-half days per week, the weekly wage shall be found by multiplying his average earnings for working day by six, six and one-half, or seven, according to the customary number of working days constituting an ordinary week in his occupation or trade.”
+The board fixed deceased’s wages at $7.50 per day (12 hours at 62% cents per hour), and his weekly wage at 5% times that amount, or $41.25, and in. doing so relied on Romig v. Champion Blower & Forge Co., 315 Pa. 97, 172 A. 293, as pronouncing the controlling principle. The board reached its result by allowing 3 days for deceased to make a round trip for which he wbuld be compensated $22.50, or $7;50 for each of three 12-hour days at 62% cents per hour. In the Romig casé a daily wage rate was present, and the number of days worked was known; but that is not true in the present case.
+Appellants’ theory is that deceased’s average daily ral» was $4.65%, wbieb is derived by dividing $135 by 29, tbe number of working days they concede to bave been in tbe period during which deceased worked; using a 6-day week would make deceased’s average weekly rate $27.93, or $25.60 for an average week using a statutory week of 5% days.
+Tbe referee found: “Third: That tbe average weekly wage was $33.75 based upon the union rate of 62% cents per hour and upon the average number of trips made to New York during tbe period of employment each week, each trip requiring 18 hours, or a total number of hours per week of 54.”
+An argument can be made in support of tbe methods of computation adopted by tbe referee, the board, and appellants. However, a defect common to all of them is that each one is to some extent theoretical and not based on evidence in tbe record. A more fundamental objection is that none of them conforms to tbe statutory formula.
+Conceivably, cases may arise where that formula cannot be applied. But it seems to us that such is not necessarily true of tbe one at bar.
+Apparently tbe fixed sum per trip base sought to accomplish at least two things: First, to secure to tbe employee a wage approximating tbe union rate based on tbe average time required, per trip; secondly, to insure reasonable promptness by tbe employee in conforming to tbe schedule as be would gain nothing by undue procrastination. Tbe agreed remuneration per trip required both parties to yield something, and this should not be ignored in arriving at a fair basis for an award of compensation. Tbe record does not disclose a most important factor, namely, tbe actual number of days worked by deceased in earning tbe sum of $135 during tbe period of bis employment. If this figure could be determined and divided into tbe sum of $135, a rate per day would be obtained. This, multiplied by 5% days; tbe statutory week, or such greater number of days per week as deceased may be found to have regularly and habitually worked, would provide a weekly wage as a basis for compensation which would conform, with the law and the contract of hiring made by the parties.
+For the above reasons and on account of the meagerness of the evidence, we are constrained to remit the record. Claimants do not seem to fee entirely responsible for this situation. Defendant’s records Should show the essential facts, and it should be required to produce them before the compensation authorities. Neither defendant nor its insurance carrier should hamper any effort by claimants to have the necessary records produced.
+The judgment will be vacated, and the record returned to the Workmen’s Compensation Board for further hearing, and (1) to find the actual number of days deceased worked, (2) to find the number of days (if more than 5%) per week habitually and regularly worked by deceased while employed by defendant, and (3) to make an award based thereon.
+The judgment is vacated, and the record is remitted to the court below with direction to return it to the board for further proceedings in accordance with this opinion.
