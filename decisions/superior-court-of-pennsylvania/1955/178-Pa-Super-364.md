@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 187"
+decided: "1955-07-21"
+citations: ["178 Pa. Super. 364"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Ross, Gunther, Wright, Woodside and Ervin, JJ."]
+parties: ["Commonwealth ex rel. Melensky, Appellant, v. Maroney."]
+source_url: "https://static.case.law/pa-super/178/cases/0364-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 726467
+cites_cases: ["101 A. 2d 161", "101 A. 2d 415", "172 Pa. Superior Ct. 108", "172 Pa. Superior Ct. 247", "174 Pa. Superior Ct. 233", "174 Pa. Superior Ct. 331", "91 A. 2d 913", "93 A. 2d 894"]
+---
+
+# Commonwealth ex rel. Melensky v. Maroney
+
+## Majority (Rhodes, P. J.,)
+
+Opinion by
+Rhodes, P. J.,
+Relator, Theodore J. Melensky, on January 19, 1954, filed, in the Court of Common Pleas of Beaver County, a petition for writ of habeas corpus. He averred that he had not been afforded a fair and impartial trial when he was convicted on June 11, 1952, on a bill of indictment charging burglary, larceny, and receiving stolen goods, at No. 4, June Term, 1952, in the Court of Oyer and Terminer of Beaver County. He had been indicted with two others — Marino Michelotti and Walter Green. Michelotti and Green entered pleas of guilty before relator’s trial. At the trial, Green testified that he, Michelotti, and relator participated in burglarizing the Elks Club, at Rochester, Pennsylvania. There was other testimony as to the identity of relator as a participant. Michelotti refused to testify at relator’s trial. Relator was represented by counsel of his own choice. He was sentenced on June 18, 1952, to the Western State Penitentiary for a term of not less than seven and one-half years nor more than twenty years. No motion for new trial had been filed.
+The relator further set forth in his petition that his trial counsel failed to serve notice upon him as to the exact date of his trial, that he was not given an opportunity to subpoena his witnesses before trial, and that his trial counsel failed to notify relator’s wife and his attorney, S. IT. Reichman, Esq., of the Allegheny County Bar as to the date relator was to be tried. Finally, relator contends that he was not represented by competent and adequate counsel at his trial.
+The warden of the Western State Penitentiary and the District Attorney of Beaver County filed answers to relator’s petition. Hearing was held on April 2, 1954, in the Court of Common Pleas of Beaver County on the petition and answers. At the hearing relator was represented by court-appointed counsel. Relator was present and testified. Both attorneys for relator •also testified. . Relator’s wife was not ..present .at the hearing on his petition for writ of habeas corpus and has since died. On April 9, 1954, the court dismissed relator’s petition and on May 25, 1954, filed its opinion.
+. Relator’s trial counsel testified- that both relator and his wife, Mrs. Melensky, were told on Friday, June 6, 1952, that his case would probably be listed for trial after the following Monday. His ease was called for trial on Tuesday, June 10th, and concluded on the eleventh. Counsel, on June 9th, called the telephone number given by Mrs. Melensky, and the party answering was told that relator’s case would be called for trial the next morning. Counsel did not see or hear from Mrs.. Melensky until after the trial had been concluded on the eleventh. It was also testified relator did not ask counsel to have his trial continued in the absence of his wife who, he said, would have testified that he was home at the time the crime was committed. There was also testimony that Mr. Reichman of the Allegheny County Bar did not anticipate taking an active part in the case. At most, failure to notify him of the trial was a misunderstanding between him and trial counsel. Neither this nor any other action upon the part of trial counsel discloses any violation of relator’s constitutional rights.
+The court in its opinion states as follows: “We find as a fact that relator’s able counsel did notify him of the trial of his case and had him present in court during the whole trial. We find as a fact that relator’s counsel did notify relator’s wife of the time and place of trial by the only means which she placed in his hands for communication, namely, by calling the telephone number which she gave him in order to get in touch with her. We find as a fact that relator’s counsel failed to notify Pittsburgh counsel of the time and place of trial because Pittsburgh counsel had told him he did not want to be notified of the time and place of trial and that he did not want to be at the trial, and we further find that local counsel, of relator’s own choosing, would not have been aided in the slightest by the presence of additional counsel.”
+The court’s findings are supported by the record, which also discloses that relator has a long criminal record beginning in 1937.
+In this type of proceeding we have held that a relator who has been tried, convicted, and sentenced, and avers that he has been denied due process has the burden of affirmatively establishing circumstances constituting such a denial. Com. ex rel. Sell v. Burke, 174 Pa. Superior Ct. 233, 235, 101 A. 2d 415. Moreover, the credibility of the witnesses was for the hearing judge to determine. Com. ex rel. Uhler v. Burke, 172 Pa. Superior Ct. 108, 115, 91 A. 2d 913. We have also held that the mere fact that a criminal, after conviction, is of the opinion that the trial was not properly conducted by his counsel constitutes no ground for the issuance of a writ of habeas corpus. Com. ex rel. Garrison v. Burke, 174 Pa. Superior Ct. 331, 334, 101 A. 2d 161. Errors of judgment of defendant’s counsel, if any, during the progress of his trial cannot be made the basis for setting aside a valid judgment of conviction. Com. ex rel. Smilley v. Claudy, 172 Pa. Superior Ct. 247, 251, 93 A. 2d 894.
+Order is affirmed.
