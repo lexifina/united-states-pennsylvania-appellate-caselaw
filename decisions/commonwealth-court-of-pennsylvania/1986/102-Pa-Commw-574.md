@@ -1,0 +1,50 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2817 C.D. 1985"
+decided: "1986-12-24"
+citations: ["102 Pa. Commw. 574", "519 A.2d 552"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Craig and Barry, and Senior Judge Kalish, sitting as a panel of three."]
+parties: ["West Shore School District, Appellant v. West Shore Education Association, Appellee."]
+source_url: "https://static.case.law/pa-commw/102/cases/0574-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1355549
+cites_cases: ["26 Pa. Commonwealth Ct. 241", "28 Pa. Commonwealth Ct. 323", "363 A.2d 860", "368 A.2d 834", "417 A.2d 837", "422 U.S. 490", "440 A.2d 673", "465 A.2d 89", "473 Pa. 576", "492 Pa. 515", "496 Pa. 239", "53 Pa. Commonwealth Ct. 262", "64 Pa. Commonwealth Ct. 389", "77 Pa. Commonwealth Ct. 92"]
+---
+
+# West Shore School District v. West Shore Education Ass'n
+
+## Majority (Judge Craig,)
+
+Opinion by
+Judge Craig,
+The West Shore School District appeals from a decision of the Court of Common Pleas of Cumberland County dismissing the districts appeal from an arbitrators award. We affirm.
+The West Shore Education Association and the West Shore School District were parties to a collective bargaining agreement for the years 1983-85. In 1971, the Pennsylvania Labor Relations Board (PLRB) certified the association to act as the exclusive bargaining representative for the following employees of the district:
+In a subdivision of the employer unit comprised of all professional employes including teachers, nurses, dental hygienists, counsellors, home and school visitor, librarians, school psychologists and senior teachers. . . .
+Section 2.01 of the collective bargaining agreement provides a definition of the bargaining unit as:
+This Collective Bargaining Agreement shall apply to a bargaining unit including teachers, nurses, dental hygienists, counsellors, home and school visitor, librarians, school psychologists and senior teachers employed by the Board. . . .
+The district had been paying long-term substitute teachers wages and benefits which were less than those provided under the agreement for teachers. On April 27, 1984, the association filed a grievance on behalf of all long-term substitutes, asserting that the long-term substitutes were part of the unit covered by the contract and were entitled to the rate of pay and the amount of benefits which the contract provided. The districts position was that the contract did not cover long-term substitutes and it therefore could pay them wages which were less than contract scale.
+The arbitrator determined that the grievance was arbitrable and that all long-term substitutes who could demonstrate an expectancy of continued employment and had working conditions, duties and obligations similar to those of full-time permanent teachers were to be included in the unit, and that they should be made whole for all wages and benefits lost since April 19, 1984.
+The issues are whether the arbitrator based his decision on the essence of the contract and whether he exceeded his authority in making a retrospective monetary award.
+As Judge Edgar B. Bayley correctly noted in his opinion, neither party asserted that their differences constituted a unit clarification issue which the parties would have been required to submit to the Pennsylvania Labor Relations Board under section 604 of the Pennsylvania Public Employes Relations Act, Act of July 23, 1970, P.L. 563, 43 P.S. §1101.604.
+The focus of section 604 is to provide for PLRB certification of the bargaining unit. Once that certification has been obtained and an agreement entered into, the board may determine whether an employee is a member of the bargaining unit under section 604.
+However, the PLRB does not have exclusive jurisdiction over that latter question. Although an arbitrator may not alter the definition of the bargaining unit, the arbitrator does have jurisdiction to determine whether particular employees are members of the bargaining unit as that unit is defined. Northwest Tri-County Intermediate No. 5 Education Association v. Northwest Tri-County Intermediate No. 5, 77 Pa. Commonwealth Ct. 92, 465 A.2d 89 (1983).
+“The essence test requires a determination as to whether the terms of the agreement encompass the subject matter of the dispute.” Leechburg Area School District v. Dale, 492 Pa. 515, 520-21, 424 A.2d 1309, 1312 (1981). If the arbitrators decision can in any rational way be derived from the agreement, viewed in light of its language, its context, and any other indicia of the parties’ intention, that decision must be upheld if it is reasonable. Brownsville Area School District v. Brownsville Education Association, 26 Pa. Commonwealth Ct. 241, 363 A.2d 860 (1976).
+The arbitrator also correctly noted in his decision that the issue before him was not unit clarification but was “a ‘scope of the unit’ question that requires interpretation of §2.01 of the Agreement, a subject clearly within the authority of the arbitrator to decide.” Hence, the arbitrator had jurisdiction to determine whether long-term substitute teachers were members of a bargaining unit certified to include teachers.
+In striving to determine the intentions of the parties in their 1983-85 agreement, the arbitrator referred to the PLRB’s Millcreek decision, involving a unit clarification procedure, affirmed in School District, Township of Millcreek v. Millcreek Education Association, 64 Pa. Commonwealth Ct. 389, 440 A.2d 673 (1982), where this court upheld the PLRB’s determination that long-term substitute teachers could be included in a bargaining unit consisting of “teachers” if those long-term substitute teachers shared a community of interest with those “teachers” in the bargaining unit.
+The decision of the arbitrator here clearly did not look to the Millcreek decision as an external determination binding upon these parties despite their contract. Instead, after his reference to Millcreek, the arbitrator—referring to the Millcreek analysis as “the above tests”—concluded as follows:
+For the purposes of interpreting the collective bargaining agreement and determining the scope of the bargaining unit, a finding that a substitute meets the above tests is tantamount to a finding that the substitute is a professional employee, a teacher, for example, or other included category of professional employee within the meaning of the terms of §2.01 of the Agreement.
+As the Pennsylvania Supreme Court stated in Association of Pennsylvania State College and University Faculties v. Commonwealth, 496 Pa. 239, 243, 436 A.2d 987, 988 (1981):
+[A] collective bargaining agreement may encompass more than what has been reduced to writing. This Courts decision in Community College of Beaver County v. Community College of Beaver County, Society of the Faculty, 473 Pa. 576, 375 A.2d 1267 (1977), holds that an arbitrators award must be sustained if it is a reasonable interpretation of the bargaining agreement. In determining the parties’ collective bargaining agreement, the arbitrator may examine not only the writing but also ‘the circumstances surrounding its execution. . . .’ Id. at 593, 375 A.2d at 1275. As was recently observed by Mr. Justice Flaherty, ‘[t]he arbitrator must look at the full context of the agreement, along with “. . . other indicia of the parties intention ...” in determining the intention of the parties.’ (Citations omitted.)
+Accordingly, because the issue of whether long-term substitutes belonged in the bargaining unit was resolved within the agreement, by an interpretation defining the agreement’s terms relating to “teachers,” we conclude that the arbitrator’s decision was drawn from the essence of the agreement.
+Remedy
+The district asserts that, because no employee initiated or voluntarily participated in the grievance proceedings, the arbitrator exceeded his powers in awarding retrospective monetary relief and that the relief granted should be limited to a prospective declaration of rights under the agreement.
+Section 5.02 of the agreement permits a grievance to be presented on behalf of the employee. Because of the ongoing nature of the alleged harm, resurrected every payday, the arbitrator determined that the remedy was to date from April 19, 1984—the last date of pay before the filing of the grievance.
+The district cites Warth v. Seldin, 422 U.S. 490 (1975) in support of its assertion that the association could not present a claim for damages on behalf of its members who were not individually named as parties in the grievance.
+In Warth, the courts inquiry regarding an associations standing to seek damages on behalf of its members involved constitutional limitations on federal court jurisdiction. The court held that no award could be made to the association. Here, the award was not made to the association; the award was made to individual members of the association upon whose behalf the contract entitled the association to present the grievance. Therefore, Warth is not dispositive here.
+This court has recognized that an arbitrator possesses authority to fashion remedies necessary to further the intended essence of the bargaining agreement. Neshaminy School Services Personnel Association v. Neshaminy School District, 53 Pa. Commonwealth Ct. 262, 417 A.2d 837 (1980). This court may disturb an arbitrators award only when there is a manifest disregard of the agreement. United Transportation Union, Local 1594 v. SEPTA, 28 Pa. Commonwealth Ct. 323, 368 A.2d 834 (1977). Because the arbitrators award directs the district to pay those long-term substitutes who qualify as members of the bargaining unit in ac cordance with the wages established in the agreement, this court will not disturb that award.
+Accordingly, we affirm Judge Bayleys sound decision.
+Order
+Now, December 24, 1986, the order of the Court of Common Pleas of Cumberland County, at Docket No. 1513 Civil 1985, dated September 19, 1985, is affirmed.
