@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 179"
+decided: "1917-07-13"
+citations: ["67 Pa. Super. 231"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Kephart, Trexler and Williams, JJ."]
+parties: ["McCaffrey v. Lukens, Appellant."]
+source_url: "https://static.case.law/pa-super/67/cases/0231-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 629151
+cites_cases: ["134 Pa. 396", "139 Pa. 195", "156 Pa. 410", "176 Pa. 97", "191 Pa. 249", "213 Pa. 229", "217 Pa. 69", "227 Pa. 488", "244 Pa. 122", "252 Pa. 478", "39 Pa. 177", "4 Penny. 406", "50 Pa. Superior Ct. 579", "56 Pa. 294", "62 Pa. Superior Ct. 455"]
+---
+
+# McCaffrey v. Lukens
+
+## Majority (Portee, J.,)
+
+Opinion by
+Portee, J.,
+The opinion filed by the learned judge of the court below, overruling the motion of defendant for judgment non obstante veredicto, will appear in the report of this case, and renders it unnecessary that we enter into any lengthy discussion of the facts or the questions of law arising out o'f them. The plaintiff was a passenger in an automobile, which was being operated as a jitney. The car was crowded and one of defendant’s legs was hanging over the rear door of the car, but inside the lines of the footboard. The appellant contends that because of this fact the court should have held the plaintiff guilty of contributory negligence, as matter of law. The court, below refused to SO1 hold and submitted the question of plaintiff’s contributory negligence to the jury. Upon the correctness of this ruling we deem it unnecessary to add more to what is said in the opinion of the court below than to cite the decision of the Supreme Court in McClung v. Pennsylvania Taximeter Cab Co., 252 Pa. 478.
+The automobile of the defendant was being operated by his daughter, who was under sixteen years of age.' The second ground upon which the defendant appeals is that under the facts disclosed by the evidence the defendant was not liable for the negligence of his daughter in operating the automobile. The defendant maintained the automobile for the use of himself and his family. The daughter had frequently driven the car when accompanied by her father, the defendant, or her brother and at least on one occasion by her mother alone. The defendant was absent from home on a business trip at the time of the. accident Before leaving home he had ordered of a merchant in Chester a fixture for his residence. He testified that his wife had authority to send for this fixture and to employ his daughter upon that errand. His wife had authority to use the automobile during his absence and she ordered their daughter to take the automobile, go to the store of the merchant and bring home the fixture for the family residence, which the defendant had ordered. The daughter obeyed this command and accompanied by a young man, a friend of the defendant and a guest at his house, went upon the errand, during the performance of which the accident occurred. The defendant testified that before leaving home he had told his daughter that she must not drive the automobile unless he or his son was with her. The testimony of the daughter as to whether she had received such instructions from her father was by no means clear; one part of her testimony would have warranted a finding that she had not received such instructions. The car was being operated by the daughter not upon any errand of her own, but in and about the business of the defendant, her father, and in obedience to the order of her mother, who had the authority of the defendant to send her upon the errand. The court submitted to the jury the question whether the daughter of the defendant was operating the car with the authority and consent of the defendant and in and about his business. Under the evidence in this case, the court did not err in thus submitting the question of the defendant’s responsibility for the manner in which his daughter operated the car: Moon v. Matthews, 227 Pa. 488; Hazzard v. Carstairs, 244 Pa. 122.
+The third question which has been argued on behalf of appellant is that the evidence was insufficient to warrant a finding of negligence on the part of the daughter of the defendant in operating the car. This contention is entirely without merit. The evidence was certainly sufficient to warrant a finding that the car of the defendant approached the intersection of a busy street without giving warning, at a rate of speed which rendered it at least doubtful whether the operator could stop the car in case another vehicle entered upon the crossing, that the car of the defendant was turned into the busy cross street upon the left hand side thereof right in opposition to the line of traffic upon that street, and that when danger threatened, instead of the car being stopped, it was first turned in one direction, then in another, and finally in a third direction, and that it struck the car in which the plaintiff was riding upon the side. This was not the case of the other car running into that of the defendant; nor of a head-on collision, but the car of the defendant ran into- the side of the other car.
+The judgment is affirmed.
