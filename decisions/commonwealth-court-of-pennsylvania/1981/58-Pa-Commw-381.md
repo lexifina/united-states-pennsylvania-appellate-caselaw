@@ -1,0 +1,46 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 490 C.D. 1980"
+decided: "1981-04-09"
+citations: ["58 Pa. Commw. 381"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Mencer, Rogers and Craig, sitting as a panel of three."]
+parties: ["Susquehanna County, by the Susquehanna County Board of Commissioners, Petitioner v. Commonwealth of Pennsylvania, Department of Environmental Resources, Respondent. Lyncott Corporation, Intervenor."]
+source_url: "https://static.case.law/pa-commw/58/cases/0381-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1919490
+cites_cases: ["16 Pa. Commonwealth Ct. 341", "27 Pa. Commonwealth Ct. 276", "33 Pa. Commonwealth Ct. 180", "330 A.2d 293", "366 A.2d 1298", "381 A.2d 204", "409 A.2d 511", "415 A.2d 1014", "464 Pa. 168", "48 Pa. Commonwealth Ct. 241", "52 Pa. Commonwealth Ct. 514"]
+---
+
+# Susquehanna County ex rel. Susquehanna County Board of Commissioners v. Commonwealth, Department of Environmental Resources
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+The Susquehanna County Commissioners, on behalf of Susquehanna County (County), have filed a petition for review of the Environmental Hearing Board’s (EHB) dismissal of the County’s appeal of a Department of Environmental Resources (DER) order directed to Lyncott Corporation (Lyncott). The County’s appeal was not based on the contents of the DEE order but on the grounds that the order failed to include provisions requiring (1) the revocation of the solid waste and industrial waste permits issued to Lyncott and (2) site reclamation.
+The EHB dismissed the County’s appeal for lack of standing and, in doing so, stated:
+It is apparent from the County’s Notice of Appeal that its objection to the DEE order is the method used by the DEE to bring Lyncott into compliance with the Solid Waste Management Act. It prefers that the DEE revoke the permits rather than order the imposition of a compliance schedule. Its preference however does not confer standing to appeal. The method chosen by the DEE to enforce its Solid Waste Management Act is discretionary with the DEE and does not, as a matter of law, adversely affect the rights or interests of the County.
+We are of the view that the ruling of the EHB under challenge here was correct and that the County was without standing to appeal the DEE order to the EHB. Controlling is onr recent case of Strasburg Associates v. Newlin Township, 52 Pa. Commonwealth Ct. 514, 415 A.2d 1014 (1980), in which we held that a township did not have standing to challenge a DEE determination.
+In Strasburg, the EHB had concluded that the Township had standing to appeal from a DEE letter to Strasburg Associates, approving certain modifications and revisions to a previously approved permit for a sanitary landfill. We stated there what is equally applicable here:
+The basic principles of standing are enumerated by our Supreme Court in Wm. Penn Parking Garage, Inc. v. City of Pittsburgh, 464 Pa. 168, 346 A.2d 269 (1975). To. prevail on the standing issue, the ‘adversely affected’ or ‘aggrieved’ party must have an interest in the subject matter or particular question litigated which is substantial, immediate and direct. The interest is ‘substantial’ when there is ‘some discernible adverse effect to some interest other than the abstract interest of all citizens in having others comply with the law.’ Wm. Penn, supra at 195, 346 A.2d at 282. The requirement that the interest be ‘direct’ goes to causation in that ‘the person claiming to be aggrieved must show causation of the harm to his interest by the matter of which he complains. ’ Wm. Penn, supra. The interest must also be ‘immediate’ and not a remote consequence of the judgment, the concern being focused on the nature and proximity of the action and injury challenged to the person challenging it. Wm. Penn, supra at 197, 346 A.2d at 269.
+This Court has dutifully obeyed these instructions in a number of cases where there have been interests analogous to those present here. In Snelling v. Department of Transportation, 27 Pa. Commonwealth Ct. 276, 366 A.2d 1298 (1976), the City of Allentown challenged the Department’s issuance of a highway occupancy permit to a private building for proposed road modifications in the area of a shopping mall. The City alleged that its citizens would suffer serious bodily harm from motor vehicle accidents caused by the area’s poor traffic control and air pollution from the increased vehicular emissions. This Court found that the City lacked standing to assert the rights or claims of individual property owners against the Department in light of the municipality’s purpose to merely carry out local government functions. Bee also Concerned Citizens of Greater West Chester v. Larson, 48 Pa. Commonwealth Ct. 241, 409 A.2d 511 (1980), and Department of Environmental Resources v. Borough of Carlisle, 16 Pa. Commonwealth Ct. 341, 330 A.2d 293 (1974).
+52 Pa. Commonwealth Ct. at 519, 415 A.2d at 1016-17.
+We further noted in Btrasburg that the Township, as the County in this case, failed to establish that the action of the DEE. either adversely affected its municipal purpose in carrying out local government functions or acted in some way to affect rights or claims of individual property owners against the DEE in which the Township would act as trustee.
+As we further stated in Btrasburg, we can find no reasonable grounds for standing where interests or injuries are hypothetical in nature. See Snelling, supra, and Concerned Citizens of Greater West Chester, supra. To approve of the Township’s alleged interest only if and when poor management or insufficient financial commitment from ownership results in economic trouble would extend the principles of standing to speculation, far beyond the intent of our Supreme Court in Wm. Penn, supra. This we are unwilling to do.
+Pa. Commonwealth Ct. at , 415 A.2d at 1017-18. We discern no reason why the County here stands in any different position than the Township did in Strasburg. See Borough of Valley-Hi Incorporation Case, 33 Pa. Commonwealth Ct. 180, 381 A.2d 204 (1977) (County held to lack standing to object to the incorporation of a borough).
+However, the County contends that our decision in Strasburg has been invalidated by the enactment of the Solid Waste Management Act, effective, except as to Section 402 which deals with the listing of hazardous waste, .September 5, 1980. Our careful examination of this legislation has not disclosed any substantive interest or responsibility imposed upon counties and therefore we remain of the view that this Court’s Strasburg decision controls the instant matter.
+Accordingly, we make the following
+Order
+And Now, this 9th day of April, 1981, the motion to quash filed by Lyncott Corporation in response to the County of Susquehanna’s petition for review is denied, and the order of the Environmental Hearing Board, under date of February 1, 1980, dismissing the appeal of the County of Susquehanna from the April 27, 1979 order of the Department of Environmental Resources, directed to Lyncott Corporation, is hereby affirmed.
+This decision was reached prior- to the resignation of Judge Wilkinson, Jr.
+On June 1, 1979, Lyncott and DER entered into a stipulation of counsel in which it was agreed that certain items contained in the DER order of April 27, 1979, being the order appealed by the County, would be modified or deleted in consideration of Lyncott’s submission of a closure plan for a portion of of the site and a revised leachate collection and treatment plan acceptable to DER. . The County appealed from this stipulation of counsel by a document captioned “Supplemental Appeal” and the EHB order sought to be reviewed here also dismissed this supplementary appeal.
+Lyncott filed, in response to the County’s petition for review, a motion to quash based on a contention that the EHB order was not a final order. We conclude that this motion is meritless and it will be denied.
+George Campbell and certain other citizens bare appealed to the EHB from tlie issuance by HER of permits to Lyncott. This appeal is pending.
+Act of July 7, 1980,, P.L. 362, No. 97, 35 P.S. §6018.101 et seq.
+35 P.S. §6018.402.
+We are not persuaded, without citation of authority, that an enactment of the Legislature, effective on September 5, 1980, could give a county standing to appeal an administrative order dated April 27, 1979, especially when the new enactment is silent on the question.
+Section 504 of the Solid Waste Management Act, 35 P.S. §6018.504, reads:
+Applications for a permit shall be reviewed by the appropriate county, county planning agency or county health department where they exist and the host municipality, and they may recommend to the department conditions upon, revisions to,, or disapproval of the permit only if specific cause is identified. In such case the department shall be required to publish in the Pennsylvania Bulletin its justification for overriding the county’s recommendations. If the department does not receive comments within 60 days, the county shall be deemed to have waived its right to review.
