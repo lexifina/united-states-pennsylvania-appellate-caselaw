@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 40"
+decided: "1900-01-17"
+citations: ["12 Pa. Super. 298"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlad y, W. W. Porter, W. D. Porter and Berber, JJ.", "Per Curiam."]
+parties: ["Joseph Sheehan, Appellant, v. Jacob Rosen."]
+source_url: "https://static.case.law/pa-super/12/cases/0298-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 823350
+cites_cases: ["1 Yeates, 403", "101 Pa, 462", "101 Pa. 80", "106 Pa.- 87", "110 Pa. 339", "112 Pa. 197", "115 Pa. 32", "119 Pa. 139", "127 Pa. 564", "132 Pa. 325", "138 Pa. 276", "150 Pa. 255", "154 Pa. 501", "167 Pa. 153", "169 Pa. 1", "176 Pa. 167", "177 Pa. 197", "182 Pa. 97", "2 Pa. Superior Ct. 474", "20 Pa. 19", "21 Pa. 466", "22 Pa. 492", "3 Yeates, 84", "4 Rawle, 272", "47 Pa. 335", "5 Pa. Superior Ct. 205", "53 Pa. 226", "66 Pa. 158", "9 Pa. Superior Ct. 352"]
+---
+
+# Sheehan v. Rosen
+
+## Majority (Pek Ctjeiam,)
+
+Pek Ctjeiam,
+1. This was an issue upon an opened judgment. The disputed question of fact was, whether or not it was agreed between the plaintiff and the defendant that the judgment should stand as collateral security for any subsequent indebtedness that the defendant might incur for goods sold by the plaintiff. This being the issue, it was unquestionably relevant to show that the indebtedness for goods subsequently furnished to Knight was in reality the defendant’s indebtedness. If this fact had been in dispute, it would have been error to refuse to permit the plaintiff’s counsel to ask the questions specified in the first eight assignments. But it was not disputed. The defendant had admitted that he conducted the business carried on in the name of Knight, and when these questions were asked, his counsel conceded that the defendant assumed liability for whatever goods were furnished to Knight, and had given the plaintiff two notes indorsed by Knight therefor. By this concession, the issue to be decided by the jury was narrowed to the single question stated at the outset of this opinion, and the trial judge instructed the jury explicitly that if they found that the parties made that agreement the plaintiff would be entitled to recover the original amount of his judgment together with the amount of the two notes referred to, less the credits shown or admitted. In view of the concessions of the defendant and his counsel, and the positive instructions of the court, it is clear that the plaintiff was not harmed by the refusal to permit him to go into the details of the relations between the defendant and Knight. The rejection of evidence is not ground for reversal where, by the concessions made on the trial by the opposite party and the positive instructions of the court, the party complaining had every legitimate benefit that the evidence, if admitted, would have given him. Therefore, these assignments are overruled.
+2. Neither of the methods recognized in Com. v. Weber, 167 Pa. 153, Holden v.Penna. R. Co., 169 Pa. 1, and Com. v. Windish, 176 Pa. 167, for bringing up for review the ruling of the court upon objection to the remarks of counsel in argument to the jury was followed in the present case. Indeed, it does not appear in the official report of the trial, or in any other way, what the remarks were, and unfortunately counsel do not agree in their recollection concerning them. The only ruling we find in the record is that made when the defendant’s counsel opened his case, .and to that no exception was taken. We are, therefore, unable to sustain the ninth assignment. See also Com. v. Smith, 2 Pa. Superior Ct. 474, 487; Littell v. Young, 5 Pa. Superior Ct. 205, 215.
+3. The plaintiff’s counsel argues with much force that the burden of proof was on his client, and therefore he should have been permitted to make the concluding argument to the jury. He has, however, cited to us no case where an erroneous ruling as to this matter has been held sufficient, standing alone, to warrant a reversal on appeal. The general rule is the other way: 1 P. & L. Dig. of Dec. Col. 1005. The subject is fully considered by our Brother W. W. Porter in an opinion filed to-day in the case of Mendenhall v. Mendenhall, ante, p. 290. The tenth assignment is overruled.
+4. We have examined the evidence with special reference to the matter specified in the eleventh assignment and are not convinced that the learned trial judge exceeded proper limits in expressing his opinion as to the significance of the evidence referred to by him, nor that his comments were unfair or one-sided when viewed in the light of his other instructions. This assignment is overruled.
+5. It was held in Wheeler v. Woodward, 66 Pa. 158, that a tender is a good plea in bar, and if followed up, protects the defendant. The admitted sum brought into court becomes the money of the plaintiff, and the verdict goes for the defendant if no more is found to be due. See also Pennypacker v. Umberger, 22 Pa. 492. The plaintiff’s objection that in the present state of the record there is nothing to show his right to the money paid into court is not well founded. He has no reason to fear that he will not be permitted to draw out the money, if he has not already 'done so. The twelfth assignment is overruled.
+The judgment is affirmed.
