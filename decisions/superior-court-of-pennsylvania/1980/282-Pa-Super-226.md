@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1263"
+decided: "1980-10-03"
+citations: ["282 Pa. Super. 226", "422 A.2d 1088"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CERCONE, President Judge, and MONTGOMERY and LIPEZ, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. John JULIANO, Appellant."]
+source_url: "https://static.case.law/pa-super/282/cases/0226-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 155150
+cites_cases: ["250 Pa.Super. 80", "269 Pa.Super. 194", "487 Pa. 197"]
+---
+
+# Commonwealth v. Juliano
+
+## Majority (MONTGOMERY, Judge:)
+
+MONTGOMERY, Judge:
+The appeal in this case is from the denial of Appellant’s request for relief pursuant to the Post Conviction Hearing Act (“PCHA”). Appellant’s PCHA Petition alleged a violation of his right to the effective assistance of counsel, and contended that his counsel erred in permitting a violation of his right to speedy trial by failing to object to a claimed violation of Rule 1100 of the Pennsylvania Rules of Criminal Procedure, which at the time required trial within one hundred and eighty (180) days.
+The record shows that the Appellant was arrested on March 3, 1976 and charged with counts of robbery with a weapon and criminal conspiracy. A pre-trial motion to suppress evidence was denied and thereafter, on July 13, 1976, while represented by privately retained counsel, the Appellant entered a guilty plea to the charges. Apparently a plea bargain had been arranged. The Judge who accepted the plea ordered a pre-sentence report and deferred sentencing. The Appellant remained on bond until he was arrested in early September, 1976 on several new charges. Thereafter, on September 10, 1976 the Appellant again appeared before the Court for sentencing. While the record is not clear, the parties agree that the trial judge refused to sentence Appellant consistent with the plea bargain and permitted the Appellant to withdraw his plea of guilty. On October 20, 1976, again represented by a privately retained attorney, the Appellant entered a plea of guilty pursuant to a plea agreement covering all of the outstanding criminal charges against him. The Court accepted the terms of the plea bargain and sentenced the Appellant in accordance therewith.
+The Appellant did not initiate any direct appeal from the October 20, 1976 sentencing. However, in April, 1978, he filed his PCHA Petition, claiming that his right to a speedy trial, as required by Rule 1100, had been violated. Further he contended that his trial counsel had been ineffective in not raising such claim at the appropriate time before trial. We find no merit in those contentions.
+The record makes it clear that the Appellant’s trial commenced on July 13, 1976 when the Appellant entered a guilty plea on the robbery and conspiracy charges. That date was one hundred and thirty-two (132) days after the date of his arrest. While the Appellant contends that the time between July 13, 1976 and September 10, 1976 must be counted in the one hundred eighty (180) day period for the commencement of trial, we cannot agree with such an argument. The period between the entry of the plea and the September sentencing date cannot be measured in terms of Rule 1100, since it can only be viewed as time needed by the Court to prepare for appropriate sentencing. It was after the trial, and there is no logical basis for declaring that period to be a continuation of the period of time mandated by our rules to afford the Appellant a speedy trial. After the Appellant withdrew his plea on September 10, 1976, it might be argued that the speedy trial period recommenced. However, only forty (40) more days elapsed before the Appellant again was tried and again entered a guilty plea. Thus, even if we view the period between the September 10, 1976 withdrawal of plea and the October 20, 1976 second guilty plea as part of the original time period permitted by Rule 1100, a total of only one hundred and seventy-two (172) days had elapsed when Appellant entered his plea on the latter date. In Commonwealth v. Johnson, 487 Pa. 197, 409 A.2d 308 (1979) our Supreme Court recognized that Rule 1100 is an administrative method by which we seek to give substance to the constitutional guarantee of a speedy trial for criminal defendants. The Court noted that the speedy trial guarantee is designed to limit the period of anxiety and concern accompanying a public accusation of criminal conduct which has not resulted in either an acquittal or a finding of guilt. Certainly, after a guilty plea has been entered, the defendant is no longer an accused, subject to the anxiety and concern accompanying an untried accusation of criminal conduct. The Appellant in the instant case experienced such periods for a total of only one hundred and seventy-two (172) days in this case. It is appropriate to note a complete absence of evidence of any attempt by the prosecution to evade compliance with the prompt trial rule in the circumstances of this case. Compare Commonwealth v. Leatherbury, 269 Pa.Super. 194, 409 A.2d 431 (1979).
+Appellant’s claim for relief under Rule 1100 is of no arguable merit. Therefore, Appellant’s counsel cannot be deemed ineffective for failing to file a nugatory Rule 1100 motion. See Commonwealth v. Lennox, 250 Pa.Super. 80, 378 A.2d 462 (1977).
+Affirmed.
+. Act of January 25, 1966, P.L. (1965) 1580, 19 P.S. § 1180-1 et seq., as amended. This Act was repealed and is now implemented by Pa.R.Crim.P. 1501 through 1506, effective August 1, 1968.
