@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 152"
+decided: "1935-01-04"
+citations: ["116 Pa. Super. 41"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Cunningham, Baudrige, Stadtfeld, Parker and James, JJ."]
+parties: ["Garbarini, Appellant, v. The American Snyder B. & L. Association."]
+source_url: "https://static.case.law/pa-super/116/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 979668
+cites_cases: ["114 Pa. 464", "216 Pa. 516", "32 Pa. Superior Ct. 100", "44 Pa. 32", "46 Pa. Superior Ct. 505", "65 A. 1103", "7 A. 72", "70 Pa. Superior Ct. 231", "84 Pa. 347", "95 Pa. 122", "99 Pa. 265"]
+---
+
+# Garbarini v. American Snyder B. & L. Ass'n
+
+## Majority (Per Curiam,)
+
+Per Curiam,
+John Garbarini, a stockholder in and borrower from the defendant building and loan association, brought this action in assumpsit to recover from it certain sums paid by way of premium, alleging that such payments were usurious. After pleadings were filed, the court below, on a motion for judgment for want of a sufficient affidavit of defense, entered a judgment for the plaintiff for two dollars. Plaintiff appealed, complaining of the amount allowed.
+The plaintiff, on July 11, 1919, gave a mortgage to the defendant building and loan' association and assigned to it shares of stock which he held in that association as collateral for a loan of $500'. Without bidding a premium for preference or priority in procuring the loan or mortgage or contracting for the payment of a premium, as provided by the Act of May 14, 1913, P. L. 205, §1, Par. c (now amended by Act of April 8, 1927, P. L. 179, 15 PS 953), the plaintiff, in addition to a payment on principal and the regular payments of dues on the stock and interest at the rate of six per cent per annum, paid to defendant between August 6, 1919, and April, 1933, $90.69 as a premium.
+The premiums so paid were usurious: Stiles’ Appeal, 95 Pa. 122; Klein v. Pennsylvania S. F. & L. Assn., 216 Pa. 516, 65 A. 1103; Roeser v. German Nat. B. & L. Assn., 32 Pa. Superior Ct. 100; Keystone S. B. & L. Assn. v. Anderson, 70 Pa. Superior Ct. 231. The court below so considered the matter but held that the plaintiff was only entitled to recover payments made within six months of the date that this action was begun, or the sum of two dollars, relying on the Act of May 28, 1858, P. L. 622 (41 PS 3, 4).
+The first section of the' Act of 1858 provides that “the lawful rate of interest for the loan or use of money, in all cases where no express contract shall have been made for a less rate, shall be six per cent per annum. ’ By the second section it is provided that when a rate of interest exceeding that established by law is reserved or contracted for, “the borrower or debtor shall not be required to pay to the creditor the excess over the legal rate, and it shall be lawful for such borrower or debtor, at his option, to retain and deduct such excess from the amount of any such debt; and in all cases where' any borrower or debtor shall heretofore or hereafter have voluntarily paid the whole debt or sum loaned, together with interest exceeding the lawful rate, no action to recover back any such excess shall' be sustained in any court of this Commonwealth, unless the same shall have been commenced within six months from and after the time of such payment.” The pleadings do not disclose the fact as to whether the “whole debt or sum loaned, together with interest exceeding the lawful rate” had been' voluntarily paid when this action was started. The trial court was therefore not in a position to enter a judgment on the pleadings.
+The Act of 1858 contains an express repeal of the previous acts dealing with usury or usurious contracts in Pennsylvania and did away with the penal provisions contained in a former act. “It is to be remembered in all discussions upon the subject of interest, that what used to be and still is called usury, is not unlawful in this state—as it was, prior to 1858 ’ ’: Montague v. McDowell, 99 Pa. 265, 269. The creditor may lawfully charge and receive the excess though he cannot coerce its payment by suit or process, and the debtor may retain and deduct such excess from the amount of the debt; or where the debtor has voluntarily paid the whole debt or sum loaned) together with interest exceeding the lawful rate, he may recover back any such excess, provided suit is commenced within six months “from and after the time of such payment”: Montague v. McDowell, supra; Fitzsimons v. Baum, 44 Pa. 32; Com. v. Hill, 46 Pa. Superior Ct. 505, 508; Stayton v. Riddle, 114 Pa. 464, 7 A. 72.
+In Rutherford v. Boyer, 84 Pa. 347, 349, Mr. Justice Sharswood said: “The learned judge below was undoubtedly right in holding that when there is a payment of usurious interest for the forbearance of a loan or debt, the right to retain and deduct such excess continues until the whole is paid. It is only when the whole amount and illegal interest has been voluntarily paid, that no suit to recover it back will lie after six months.” This statement by the Supreme Court makes it clear that the limitation of six months runs from the time when the loan debt and interest was voluntarily paid and does not refer to the dates of payment of the items of excess interest.
+If, on further proceedings, it shall appear that the debt and interest have not been paid, the plaintiff is then entitled to offset any sum paid by him in excess of six per cent. If such sums were voluntarily paid within six months of the time when this action was begun, then the plaintiff is entitled to a judgment for such excess.
+The judgment is reversed with a procedendo.
