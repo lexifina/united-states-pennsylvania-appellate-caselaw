@@ -1,0 +1,47 @@
+---
+court: "Superior Court of Pennsylvania"
+decided: "1995-02-21"
+citations: ["439 Pa. Super. 636", "654 A.2d 1156"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WIEAND, CIRILLO and TAMILIA, JJ."]
+parties: ["MI-LOR, INC., a Pennsylvania corporation and Jack Siskin, in his individual capacity and Marvin Trachtman, in his individual capacity, Appellants, v. Sarae DiPENTINO and Jerome Realty Co., Inc., a Pennsylvania corporation and Vincent Dipentino, in his individual capacity, Appellees."]
+source_url: "https://static.case.law/pa-super/439/cases/0636-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 713636
+cites_cases: ["280 Pa.Super. 329", "382 Pa.Super. 108", "426 Pa.Super. 376", "433 Pa.Super. 316", "522 Pa. 367", "527 Pa. 132", "527 Pa. 182", "589 A.2d 205", "640 A.2d 939"]
+---
+
+# Mi-Lor, Inc. v. DiPentino
+
+## Majority (WIEAND, Judge.)
+
+WIEAND, Judge.
+In this action to recover damages for the wrongful use of civil proceedings, the plaintiff-tenants contended that the defendant-lessors had improperly defended an action to recover a rental deposit by asserting a counterclaim without probable cause and for purposes of harassment. When the trial court entered summary judgment in favor of the defendant-lessors, an appeal was filed by the plaintiff-tenants.
+Prior to February, 1988, Mi-Lor, Inc. occupied premises 1222 East Hunting Park Avenue, Philadelphia, pursuant to a lease with the owner, Sarae DiPentino. This lease had been negotiated by DiPentino’s agent, Jerome Realty Co., Inc., a DiPentino family business. Before vacating the premises, MiLor requested and made arrangements for an inspection of the premises and a return of its security deposit, plus interest. When neither the landlord nor a representative of the landlord appeared at the appointed time, the tenant vacated the premises, locked the doors and returned the keys to Jerome Realty Co. Later the same day, Vincent DiPentino, the owner’s son and president of Jerome Realty, delivered to Mi-Lor a written request for the immediate removal from the demised premises of certain fixtures which had been used in the tenant’s dry cleaning business. When Mi-Lor denied any obligation to remove fixtures, the landlord refused to return the security deposit. When the tenant sued to recover its deposit, the landlord counterclaimed for the cost of removing the fixtures. The action was submitted to compulsory arbitration and resulted in an award in favor of the tenant for its security deposit and in favor of the landlord for the cost of removing fixtures. The tenant appealed the arbitration award, and the case was thereafter heard de novo by the court sitting without a jury. The court found in favor of the tenant on its claim and against the landlord on its counterclaim.
+Still later, the tenant, together with Jack Siskin and Marvin Trachtman, filed this action to recover damages for the landlord’s assertion of its counterclaim, alleging that it had been without “reasonable cause or justification” and for the sole purpose of hindering, harassing and annoying the tenant in its effort to recover its security deposit. The defendants denied that they had acted in bad faith and argued that a favorable arbitration award had demonstrated probable cause for the counterclaim.
+Summary judgment may properly be granted only where “the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law.” Marks v. Tasman, 527 Pa. 132, 134, 589 A.2d 205, 206 (1991). See: Pa.R.C.P. 1035(b). An entry of summary judgment is appropriate only in cases where the right is clear and free from doubt. Musser v. Vilsmeier Auction Co., Inc., 522 Pa. 367, 370, 562 A.2d 279, 280 (1989).
+Wrongful use of civil proceedings is a tort which arises when a' party institutes a lawsuit with malicious motive and lacking probable cause. Ludmer v. Nernberg, 433 Pa.Super. 316, 323, 640 A.2d 939, 942 (1994). The tort is defined at 42 Pa.C.S. § 8351 as follows:
+§ 8351. Wrongful use of civil proceedings
+(a) Elements of action. — A person who takes part in the procurement, initiation or continuation of civil proceedings against another is subject to liability, to the other for wrongful use of civil proceedings:
+(1) He acts in a grossly negligent manner or without probable cause and primarily for a purpose other than that of securing the proper discovery, joinder of parties or adjudication of the claim in which the proceedings are based; and
+(2) The proceedings have terminated in favor of the person against whom they are brought.
+(b) Arrest or seizure of person or property not required. — The arrest or seizure of the person or property of the plaintiff shall not be a necessary element for an action brought pursuant to this subchapter.
+The burden of proof is prescribed by 42 Pa.C.S. § 8354 as follows:
+§ 8354. Burden of proof
+In an action brought pursuant to this subchapter the plaintiff has the burden of proving, when the issue is properly raised, that:
+(1) The defendant has procured, initiated or continued the civil proceedings against him.
+(2) The proceedings were terminated in his favor.
+(3) The defendant did not have probable cause for his action.
+(4) The primary purpose for which the proceedings were brought was not that of securing the proper discovery, joinder of parties or adjudication of the claim on which the proceedings were based.
+(5) The plaintiff has suffered damages as set forth in section 8353 (relating to damages).
+In this case, it is clear that the counterclaim filed by the defendants in the prior action was ultimately decided in favor of Mi-Lor. To recover, however, the plaintiffs must prove each and every element of the tort by a preponderance of the evidence.
+Whether the filing of a counterclaim by a defendant, who has been sued, constitutes “the procurement, initiation or continuation of civil proceedings” has not previously been decided by the appellate courts of this Commonwealth. After careful study, we conclude that the filing of a counterclaim may well constitute the “continuation” of a civil proceeding and that the harm intended to be prevented by the statute may also arise from the filing of a counterclaim for improper purposes. We observe, however, that an action for the wrongful use of a counterclaim demands that courts examine such claims closely, lest a defendant be punished for nothing more than defending himself or herself against a claim made by another.
+A review of the record in this case causes us to agree with the trial court that there is no real issue regarding the existence of probable cause for the counterclaim or the propriety of the purpose for which the counterclaim was filed. The documents which the plaintiff-appellants have produced in this action and upon which they relied to defeat the counterclaim in the prior action suggest nothing more sinister or malicious than a legal dispute between the several parties and their lawyers. Whether the tenant was obligated to remove the fixtures from the demised premises was not so definitive that the landlord should be allowed to raise it in defense of the tenant’s action only at the risk of a second action for abusing the process.
+Pa.R.C.P. 1035(d) provides that
+“[w]hen a motion for summary judgment is made and supported as provided in this rule, an adverse party may not rest upon the mere allegations or denials of his pleading, but his response, by affidavits or as otherwise provided in this rule, must set forth specific facts showing that there is a genuine issue for trial. If he does not respond, summary judgment, if appropriate, shall be entered against him.” Pa.R.C.P. 1035(d) (Emphasis added). Therefore, where a motion for summary judgment has been made and properly supported, parties seeking to avoid the imposition of summary judgment must show by specific facts in their depositions, answers to interrogatories, admissions or affidavits that there is a genuine issue for trial. See Overly v. Kass, 382 Pa.Super. 108, 554 A.2d 970 (1989) and Tom Morello Construction Co., Inc. v. Bridgeport Federal Savings and Loan Assn., 280 Pa.Super. 329, 421 A.2d 747 (1980).
+Marks v. Tasman, supra 527 Pa. at 135, 589 A.2d at 206. In response to the defendant-appellees’ motion for summary judgment, the plaintiff-appellants submitted documents from the prior trial and their interpretation thereof. The trial court determined that the prior action “was litigation like any other, unmarked by any of the varieties of outrageousness required to sustain a lawsuit under the cited statute[].” Our own review gives us no basis for disagreement.
+Order affirmed.
+. While not discussed by the parties, we observe that an action under 42 Pa.C.S. § 8351 cannot be maintained by one who was not a party to the underlying action; mere adversity of interest is not sufficient to establish standing. Rosen v. American Bank of Rolla, 426 Pa.Super. 376, 383, 627 A.2d 190, 193 (1993).
+. We observe that if the landlord's withholding of the deposit had been wrongful, the tenant would have been entitled to recover double the amount of the deposit in the prior action. See: Act of April 6, 1951, P.L. 69, § 512, as amended, 68 P.S. § 250.512.
