@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 279 and 280"
+decided: "1913-02-27"
+citations: ["52 Pa. Super. 241"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady and Porter, JJ."]
+parties: ["Wolff’s Estate."]
+source_url: "https://static.case.law/pa-super/52/cases/0241-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 432758
+cites_cases: ["1 Pa. 251", "117 Pa. 120", "164 Pa. 415", "172 Pa. 191", "2 Phila. 352", "22 Pa. 489", "231 Pa. 180", "233 Pa. 300", "4 Watts, 71", "48 Pa. 223", "5 Rawle, 291", "5 W. & S. 373", "5 W. N. C. 243", "54 Pa. 148", "6 Watts, 32", "69 Pa. 295", "87 Pa. 449", "9 Pa. 61", "90 Pa. 224"]
+---
+
+# Wolff's Estate
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+The opinion filed in the court below by Judge Anderson clearly states the facts and fully vindicates the decree from which these appeals are taken. That opinion will appear in the report of this case and renders it unnecessary that we should discuss at length the questions involved. A judicial sale, for the purpose of paying debts, discharges all liens which are then due and payable, save those protected by statute. There is in this respect no distinction between a sale by the sheriff and a sale under an order of the orphans’ court for payment of debts: Ramsey’s Appeal, 4 Watts, 71. The deceased had conveyed his land to Copperfield in fraud of the rights of his creditors, but while that conveyance was void as against the creditors it was entirely valid as against the decedent and his heirs. Copperfield had mortgaged the land to one who had advanced money without notice of the fraudulent character of his title, and the title of the.mortgagee was good as. against the creditors of Wolff. Wolff having died, the. property was, within two years after his death, sold by the' sheriff, under proceedings upon the mortgage, for an amount more than sufficient to pay the claim of the mortgagee. The court of common pleas, under proper proceedings, held that the title of Copperfield was fraudulent as against the creditors of Wolff, but that the mortgagee had advanced money and taken the mortgage in good faith, without knowledge of the fraud, and decreed that the mortgage should first be paid out of the proceeds and that the balance of the fund should be paid to the executor of Wolff, the accountant. The land, at the time of the confirmation of the sheriff’s sale, the payment of the purchase money, and the execution of the deed was subject to the lien of the claims of the general creditors of Wolff’s estate. The purchaser at the sheriff’s sale took the land discharged of all the liens, which were accordingly transferred to the fund realized from the sale. The rights of the parties were fixed by the confirmation of the sale. “Lien creditors who were such at that time are entitled to their respective shares of the fund realized, and delay of the court in decreeing distribution cannot deprive them of their rights. If there is any question as to the lien of a debt, or whether it is barred by the statute of limitations, the status of the claim at the time the sale was confirmed must determine it. Whether it be a debt of record or not, if it was then a lien on the land sold and was not then barred by the statute of limitations, it is entitled to participate in the distribution of the fund, provided it is not all exhausted by prior liens:” Arndt’s Appeal, 117 Pa. 120; Douglass’s Appeal, 48 Pa. 223; Tomlinson’s Appeal, 90 Pa. 224. The case of a sale upon a mortgage, which is essentially for the payment of debts, is clearly distinguishable from a sale in partition, for the purpose of dividing land between tenants in common. “A sale for partition, therefore, works a conversion of the form without a transmutation of the essence; and this distinguishes it from a sale for the payment of debts, of which transmutation is the primary and entire intent. . . . In every judicial sale for the payments of debts, however, the money raised for the object is in course of administration, and no process lies against it to enforce or continue a lien on it; but money raised incidentally by process of partition, is land in another form, and attended with inheritable qualities:” Commonwealth v. Pool, 6 Watts, 32; Dolan’s Estate, 231 Pa. 180. The claims of the appellees were liens upon the land at the time it was sold by the sheriff under the proceeding upon the mortgage, the lien of the debts was divested by that sale, and the appellees were entitled to participate in the distribution of the fund realized from the sale.
+The decree is affirmed and the appeals are dismissed at cost of the appellants.
