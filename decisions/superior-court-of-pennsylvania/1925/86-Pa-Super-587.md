@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 19"
+decided: "1925-12-14"
+citations: ["86 Pa. Super. 587"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, Henderson, Trekler, Keller, Linn and Gawthrob, JJ.", "Before Davis, J."]
+parties: ["Director General of Railroads v. Birdsboro Stone Company, Appellant."]
+source_url: "https://static.case.law/pa-super/86/cases/0587-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 569984
+cites_cases: ["10 Watts 384", "133 Fed. 409", "158 Pa. 107", "219 U. S. 467", "23 Pa. Super. 577", "237 U. S. 94", "241 Pa. 603", "265 U. S. 59", "265 U. S. 67", "73 Pa. Superior Ct. 588", "76 Pa. Superior Ct. 186", "79 Pa. 298", "81 Pa. Superior Ct. 306"]
+---
+
+# Director General of Railroads v. Birdsboro Stone Co.
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+This is an action to recover the lawful freight charges on an interstate shipment of goods. The statement of plaintiff’s cause of action averred and the affidavit of defense admitted that the defendant delivered to the plaintiff at Monocaey, Pennsylvania, a large quantity of crushed stone, which was loaded in eleven cars and consigned to Manwaring & Cummins, Princeton Junction, New Jersey, and the bill of lading named the defendant as the shipper. The stone was transported by the plaintiff and delivered to the consignees at Princeton Junction, New Jersey. The freight rate charged was in accordance with the tariffs duly published and filed with the Interstate Commerce Commission .at Washington. The charges never have been paid. The court below held the affidavit of defense insufficient and made .absolute a rule for judgment. The defendant appeals.
+The affidavit of defense alleged that, prior to the shipment, the defendant had sold the stone to Man-waring & Cummins; that under the terms of sale delivery was made by the defendant to the purchasers f. o. b. the quarries of defendant at Monocaey; that the purchasers requested defendant to place said stone in transit to the purchasers at Princeton Junction; that pursuant to said request defendant, acting as the agent of said Manwaring & Cummins, placed said stone in the custody of plaintiff; that at the time of delivery of the stone to plaintiff defendant did not own the stone, and that in making delivery to the plaintiff the defendant acted as agent of Manwaring & Cummins.
+The affidavit did not aver that the carrier was notified of the terms of the contract between the defendant and the purchasers of the stone, or that the shipper was not the owner of the stone, or that he was merely acting as the agent of the consignee. We must, therefore, assume that the carrier had no notice or knowledge of the fact that this defendant was acting merely as ■ an agent. As a result of this we have thus presented by this appeal the question, “Is one who ships merchandise by railroad in interstate commerce liable for the freight charge for the transportation thereof, it appearing that the shipper had sold the merchandise to the consignee f. o. b. shipping point, but that the carrier was not notified of the terms of sale?” The decisions have so definitely settled this question that it can no longer be regarded as open for discussion.
+“Ordinarily, the person from whom the goods are received for shipment assumes the obligation to pay the freight charges; and his obligation is ordinarily the primary one. This is true even where the bill of lading contains, as here, a provision imposing liability upon the consignee. For the shipper is presumably the consignor; the transportation ordered by him is presumably on his own behalf; and a promise by him to pay therefor is inferred (that is, implied in fact), as a promise to pay for goods is implied, when one orders them from a dealer. But this inference may be rebutted, as in the case of other contracts. It may be shown, by the bill of lading or otherwise, that the shipper of the goods was not acting on his own behalf ; that this fact was known by the carrier; that the parties intended not only that the consignee.should assume the obligation to pay the freight charges, but that the shipper should not assume any liability whatsoever therefor; or that he should assume only a secondary liability”; L. & N. R. R. Co. v. Central Iron & Coal Co., 265 U. S. 67. The carrier has no right to designate the consignee, nor has he any right to refuse to accept the goods until he has had an opportunity to inquire whether the consignee will receive them. Even where there is a clause in the bill of lading providing that the goods are to be delivered to the consignee upon presentation of the receipt and payment of freight, if the carrier delivers the goods without collecting the freight, the consignor still remains liable to the carrier for his lawful charges; Collins v. Union Transportation Co., 10 Watts 384; P. R. R. Co. v. Whitney & Kemmerer, 73 Pa. Superior Ct. 588; B. & O. R. R. Co. v. Foster Co., 81 Pa. Superior Ct. 306. When a shipper calls upon a carrier to transport goods, without disclosing the fact that he is merely acting as an agent, he becomes liable for the cost of transportation whether he is the owner of the goods or not; P. R. R. Co. v. General Crushed Stone Co., 76 Pa. Superior Ct. 186. The court below properly held the affidavit of defense to be insufficient.
+The judgment is affirmed.
