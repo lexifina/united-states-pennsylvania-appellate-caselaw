@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 60"
+decided: "1960-06-15"
+citations: ["192 Pa. Super. 632"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Gunther, Wright, Woodside, Ervin, Watkins, and Montgomery, JJ."]
+parties: ["Erwin, Appellant, v. L. & H. Construction Co."]
+source_url: "https://static.case.law/pa-super/192/cases/0632-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 748902
+cites_cases: ["116 A. 2d 320", "145 A. 2d 893", "149 A. 2d 475", "150 A. 2d 383", "188 Pa. Superior Ct. 16", "188 Pa. Superior Ct. 371", "188 Pa. Superior Ct. 606", "189 Pa. Superior Ct. 339"]
+---
+
+# Erwin v. L. & H. Construction Co.
+
+## Majority (Watkins, J.,)
+
+Opinion by
+Watkins, J.,
+This is an appeal from the judgment of the Court of Common Pleas of Schuylkill County affirming the decision of the Workmen’s Compensation Board in terminating compensation benefits.
+The claimant, Wallace Erwin, on' May 10, 1955, met with an accident while working in a hole, when a piece of steel fell from the surface and struck him on the top of the head causing lacerations of the scalp. The claimant was paid compensation under agreement for total disability. On December 19, 1955, the appellee company filed a petition to terminate the agreement, averring that the claimant’s disability, resulting from the accident, terminated as of July 28, 1955, and that he had been paid up to August 15, 1955, in the total sum of $417.
+The referee, after several hearings, dismissed the petition. On appeal to the board by the appellee company, the record was remanded for the appointment of an impartial physician, an ophthalmologist. Further hearings were held by the referee and again the petition for termination was dismissed. Upon appeal to the Workmen’s Compensation Board, the decision of the referee was reversed and the board found as a fact that all disability of the claimant from the accident ceased on August 16, 1955, and concluded that the defendant was entitled to terminate all compensation benefits as of that date. The Court of Common Pleas of Schuylkill County, on appeal by the claimant, affirmed the Workmen’s Compensation Board and entered judgment for the defendant.
+The board is the final arbiter of facts, the referee is only an agent of the board and the board may reject, change or adopt the findings of the referee. Rodgers v. Methodist Episcopal Hosp., 188 Pa. Superior Ct. 16, 145 A. 2d 893 (1958). The only question before this Court is whether there was sufficient competent evidence to support the findings of the board. The board may accept or reject, in whole or in part, the testimony of any witnesses as it is its province to pass upon the testimony and determine the credibility to be accorded the witnesses and the weight to be given their testimony. Kubler v. Yeager, 189 Pa. Superior Ct. 339, 150 A. 2d 383 (1959). In Dindino v. Weekly Review Pub. Co., Inc., 188 Pa. Superior Ct. 606, 610, 149 A. 2d 475 (1959), we said: “Questions of fact are for the compensation authorities and the appellate court may not make an independent appraisement of the evidence.”
+The appellee company, the petitioner, who had the burden of proof in this case, called as its medical experts, Dr. Benjamin P. Weiss and Dr. Ben P. Ilouser. Dr. Weiss testified: “I felt this man had no disability, and that opinion was also confirmed on the second examination. Of course, by that I mean excluding the visual disturbance which is being treated by Dr. Ben Houser, and I am stating my position from the neurological side of the case.” His testimony clearly indicated that he was of the opinion that the claimant was a malingerer. Dr. Weiss, who was the Clinical Professor of Neurology at Jefferson Medical College and whose qualifications were admitted by the claimant, testified that at the time of his examination of the claimant on July 28, 1955, in his opinion, from a neurological standpoint the claimant was able to resume work. Dr. B. P. Houser, called by the appellee company, as a specialist in the field of eye, ear, nose and throat, and whose qualifications were also admitted, treated the claimant a number of times beginning June 13, 1955. He testified: “The vision kept improving in this right eye. For example, on the 12th of September, 1955, the vision in the right eye was 20/50. I have a note here that on the 15th of August, 1955, I said he could go back to work as far as the eye was concerned.”
+There was testimony on behalf of the claimant that his field of vision was restricted and that the accidental injury of May 10, 1955, superimposed upon Ms preexisting neurotic personality, set into being a psycboneurotic reaction with conversion features which totally disabled him. As Judge Staudenmeier, speaking for the court en banc below said, “It is, therefore, apparent that we have the testimony of Doctor Weiss who stated that in July 1955 there was no disability from a neurological standpoint, and we have the testimony of Doctor Ben Houser who was of the opinion that there was no disability in his eye which would prevent him from returning to work. It is unnecessary for us to detail the testimony of other medical men for as we have stated above, the only question for us to determine is whether there is sufficient competent evidence to support the finding of the board. We believe that we have set forth testimony to support the finding and conclusion of the Workmen’s Compensation Board.” It is well settled that the credibility of expert witnesses and the weight to be attached to their testimony, are matters exclusively for the board and in a conflict of medical opinion it is for the board to decide which conclusion it will adopt. Gasior v. Pittsburgh, 188 Pa. Superior Ct. 371, 116 A. 2d 320 (1958).
+Judgment affirmed.
