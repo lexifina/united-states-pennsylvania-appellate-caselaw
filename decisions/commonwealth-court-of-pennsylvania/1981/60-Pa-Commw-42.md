@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1973 C.D. 1979"
+decided: "1981-06-12"
+citations: ["60 Pa. Commw. 42"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogers, Williams, Jr. and Palladino, sitting as a panel of three.", "Judge Palladino dissents."]
+parties: ["Bethany Gould, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/60/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1922533
+cites_cases: ["305 A.2d 380", "34 Pa. Code §101.107", "405 A.2d 1044", "426 A.2d 198", "45 Pa. Commonwealth Ct. 546", "474 Pa. 351", "487 Pa. 448", "57 Pa. Commonwealth Ct. 103", "8 Pa. Commonwealth Ct. 649"]
+---
+
+# Gould v. Commonwealth, Unemployment Compensation Board of Review
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+Bethany Gould was working as a bookkeeper at the Harrisburg office of Majestic Spa, Inc., the nature of whose business in Harrisburg is not disclosed in this record, when, in February, 1977, she was asked by her employer to be manager of the employer’s new Allentown facility. Two weeks after the Allentown spa opened for business, the claimant, four other employees, and the owner and president of Majestic Spa, Inc. were arrested and charged with offenses related to prostitution illegally committed at the Allentown spa. The Allentown spa was closed and the claimant went back to her bookkeeping job at the employer’s Harrisburg office.
+On October 20, 1977, a Lehigh County jury found Gould guilty of promoting prostitution, of conspiring to promote prostitution, and of conspiring to commit prostitution. When the time came for the imposition, of judgment of sentence, Gould’s lawyer, advised her to quit her work for Majestic Spa in order to improve her prospects for a lenient sentence. Gould quit her job on January 25, 1978. When Gould appeared for sentencing on the three convictions, the sentencing judge asked if her former employment had ended and then imposed judgment of sentence of a fine of Twelve Hundred Dollars.
+Gould applied for and was denied unemployment compensation benefits by the Office of Employment Security (OES) as a voluntary quit pursuant to Section 402(b)(1) of the Pennsylvania Unemployment Compensation Law (Act), Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §802(b) (1). A referee reversed OES and granted benefits. On appeal by the OES, the Unemployment Compensation Board of Review reversed the referee’s action and denied benefits pursuant to Section 3 of the Act, 43 P.S. §752 providing that a purpose of the Act is to assist persons who are unemployed through no fault of their own and a line of cases which hold that this provision provides an independent ground for holding persons ineligible for benefits. See, e.g., Dombroskie v. Unemployment Compensation Board of Review, 45 Pa. Commonwealth Ct. 546, 405 A.2d 1044 (1979). Gould asked the Board to reconsider its action and it vacated its decision, heard oral argument and then reinstated it. Gould appealed to this court. The parties stipulated that they wanted a remand of the case to the Board and we so ordered. The Board heard argument and remanded the case to a referee acting as the Board’s hearing officer for the Board for the purpose of receiving further testimony. After the hearing, the Board again vacated its decision holding that Gould was disqualified under .Section 3 and issued a new decision reversing the referee’s order granting benefits and holding that Gould was ineligible as a voluntary quit. Section 402(b)(1). This appeal followed.
+Gould contends that she quit her job on advice of counsel and in order to obtain a light sentence and that these were causes of a necessitous and compelling nature for leaving her work. In Taylor v. Unemployment Compensation Board of Review, 474 Pa. 351, 358, 378 A.2d 829, 832-33 (1977) the court equated such causes with “circumstances which produce pressure to terminate employment that is both real and substantial and which would compel a reasonable person under the circumstances to act in the same manner. ’ ’ In view of the fact that Gould might have received a sentence to a term of imprisonment of fifteen years and a $32,-500.00 fine under the Crimes Code, 18 Pa. C. S. §101 et seq., we believe she had real and substantial grounds for leaving her work. One who is employed by an enterprise engaged in illegal activities as part of its usual business has a good cause for leaving such work even if the particular employee is not required to engage in those activities. Zinman v. Unemployment Compensation Board of Review, 8 Pa. Commonwealth Ct. 649, 305 A.2d 380 (1973).
+However, it would appear that even though the claimant left her job for good cause, she may be subject to disqualification under Section 3 because her unemployment was due to her own fault in participating- in her employer’s illegal business. See any of our cases involving Section 3 as a ground for disqualification approved in Smith v. Unemployment Compensation Board of Review, 487 Pa. 448, 409 A.2d 854 (1980).
+It will be recalled that after OES had declared Gould to be a voluntary quit and a referee reversed, the Board decided that she was ineligible under Section 3. In her petition for reconsideration of the Board’s decision, and since, Gould has pointed out that the Board had violated its Rule of Practice at 34 Pa. Code §101.107 declaring that the Board will not consider issues not previously considered. In this case, as the Section 3 issue had not been considered by OES or the referee, the Board’s decision, twice made, based on Section 3 was in the end properly vacated. The Board might have remanded the case to a referee for hearing and disposition under Section 3, and so, of course, may we. Wing v. Unemployment Compensation Board of Review, 57 Pa. Commonwealth Ct. 103, 426 A.2d 198 (1981).
+We reverse the Board’s order and remand the record for further hearing and decision by a referee concerning Gould’s eligibility, or not, under Section 3.
+Judge Palladino dissents.
+Order
+And Now, this 12th day of June, 1981, we reversed the order of the Board denying benefits to Bethany Gould and remand the record for further hearing and decision by a referee concerning the appellant’s eligibility, or not, under Section 3.
+Per Curiam Order
+Now, July 3, 1981, upon consideration of petitioner’s motion to amend order to include statement required to appeal interlocutory order, said motion is granted and this Court’s order in the above case entered June 12, 1981 is hereby amended to include the following language:
+We are of the opinion that this order involves a controlling question of law as to which there is substantial ground for difference of opinion and that an immediate appeal may materially advance the ultimate termination of this matter.
