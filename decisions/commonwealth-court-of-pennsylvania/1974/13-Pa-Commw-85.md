@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 860 C.D. 1973"
+decided: "1974-04-08"
+citations: ["13 Pa. Commw. 85"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Mencer, Rogers and Blatt."]
+parties: ["Charles LaCamera, Appellant, v. Commonwealth of Pennsylvania, Board of Probation and Parole, Appellee."]
+source_url: "https://static.case.law/pa-commw/13/cases/0085-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1859213
+cites_cases: ["1 Pa. Commonwealth Ct. 627", "185 A. 2d 581", "249 A. 2d 549", "269 A. 2d 712", "275 A. 2d 83", "276 A. 2d 561", "28 A. 2d 897", "345 Pa. 581", "409 Pa. 204", "433 Pa. 328", "440 Pa. 310", "442 Pa. 241"]
+---
+
+# LaCamera v. Commonwealth
+
+## Majority (Judge Rogers,)
+
+Opinion By
+Judge Rogers,
+The decisive issue of this case is whether there is a right of appeal to a court of record from a denial of parole by the Pennsylvania Board of Probation and Parole.
+Charles LaCamera was convicted of three separate counts of poolselling and bookmaking and sentenced to pay a fine of $500.00 and undergo imprisonment for a period of not less than six months nor more than three years on each of the three counts, the jail terms to run consecutively. On June 7, 1972, the approximate date of the expiration of LaCamera’s minimum sentence of 18 months, the Board of Probation and Parole refused LaCamera a parole “because of consistent record of arrests, and other reasons based upon consideration of factors prescribed in section 19 of the Parole Act.” On review on May 24, 1973, the Board of Probation and Parole again refused parole, ascribing the same reasons as it had previously and adding the information that “the Board feels you should serve your sentence in its entirety.”
+LaCamera has lodged an appeal from the Board’s action. The Board of Probation and Parole has moved to quash.
+Able counsel for LaCamera who has graciously accepted and vigorously pursued our appointment to represent the appellant, contends that Article Y, Section 9 of the Pennsylvania Constitution, adopted April 23, 1968, guarantees the right of appeal from an administrative agency and that, if the constitutional provision does not confer the right of appeal without legislative implementation, Section 403(1) of the Appellate Court Jurisdiction Act of 1970, granting exclusive jurisdiction to the Commonwealth Court of appeals from final orders of administrative agencies under the Administrative Agency Law “or otherwise,” is such implementation. Act of July 31, 1970, P. L, 673, 17 P.S. §211.403(1). He thus argues that we should overrule our holding in Manheim Township School District v. State Board of Education, 1 Pa. Commonwealth Ct. 627, 276 A. 2d 561 (1971), and adopt the views expressed in that case by Judges Manderino and Crumlish, dissenting.
+In Manheim we declared (1) on the authority of Smethport Area School District v. Bowers, 440 Pa. 310, 269 A. 2d 712 (1970), that Article V, Section 9 is not self executing and requires legislative implementation, (2) that as concerns appeals from state administrative agencies the legislative implementation was the Act of December 2, 1968, P. L. 1135 (No. 354), 71 P.S. §1710.47 which provides that where an Act declares that there shall be no appeal from an adjudication of an administrative agency or that such an adjudication shall be final, conclusive or not subject to review or where an Act is silent on the matter of review, a person aggrieved may appeal as provided by the Administrative Agency Law, and (3) that an action of the State Board of Education relating to the change of boundaries of school districts after annexation by another governmental body is nonjudicial and therefore not an adjudication subject to judicial review within the meaning of the Administrative Agency Law.
+We have concluded that the Manheim decision is based on solid authority and sound reasoning and should not be disturbed. Its holdings as applied to this case leaves remaining for our decision only the question of whether the action of the Board of Probation and Parole refusing a parole at the expiration of a minimum sentence is an adjudication. If the determination should be dependent entirely upon the definition of an adjudication in the Administrative Agency Law, there can be no doubt that the action is not an adjudication, because that definition expressly excludes “any final order, decree, decision, determination or ruling . . . which involves paroles or pardons.” Since, however, a constitutional right is asserted and it might be argued that the legislature’s definition of an adjudication should not for this purpose be controlling, we advert to the recent case of Commonwealth v. Brittingham, 442 Pa. 241, 275 A. 2d 83 (1971), where Justice Boberts explores the nature of parole in the following terms:
+“Furthermore, the granting of parole is not a right, but a matter of administrative discretion. As we observed in Commonwealth ex rel. Henrickson v. State Board of Parole, 409 Pa. 204, 185 A. 2d 581 (1962) : ‘The parole of a prisoner at the expiration of his minimum term is not a matter of right. Bather, it is a matter of grace and mercy, and the granting, reinstatement and revocation of parole is within the exclusive jurisdiction of the Board. Parole is first and foremost a penological measure for the disciplinary treatment of prisoners who seem capable of rehabilitation outside of prison walls. The prisoner on parole is still in the legal custody of the state through the warden of the institution from which he was paroled, and is under the control of the warden and of other agents of the Commonwealth until expiration of the term of his sentence. . . .’ Id. at 207-08, 185 A. 2d at 584 (citation omitted). See also Commonwealth ex rel. Banks v. Cain, 345 Pa. 581, 28 A. 2d 897 (1942).”
+“Parole is an administrative rather than a judicial determination that the applicant is sufficiently rehabilitated to serve the remainder of his sentence outside prison walls.” 442 Pa. at 246, 275 A. 2d at 85.
+Parole, being a matter of administrative discretion and determination, is nonjudicial and not subject to judicial review under the law of Pennsylvania as now existing.
+Appeal quashed.
+Judge Crumlish dissents.
+Providing: “There shall be a right of appeal in all eases to a eonrt of record from a court not of record; and there shall also be a right of appeal from a court of record or from an administrative agency to a court of record or to an appellate court, the selection of such court .to be as provided by law; and there shall be such other rights of appeal as may be provided by law.”
+The parties agree that the Board of Probation and Parole is an administrative agency within the definition of the Administrative Agency Law, Act of June 4, 1945, P. L. 1888, §2, 71 P.S. §1710.2.
+This does not imply that principles of procedural due process are inapplicable to parole proceedings. See Commonwealth y. Tinson, 433 Pa. 328, 249 A. 2d 549 (1969) (holding that prisoner has a constitutional right to assistance of counsel at a recommitment hearing before the Parole Board).
+We recognize that a prisoner statutorily eligible for parole has an absolute right to submit his application to the Parole Board and have it considered. Act of August 6, 1941, P. E. 861, §22, as amended, 61 P.S. §331.22. ...”
