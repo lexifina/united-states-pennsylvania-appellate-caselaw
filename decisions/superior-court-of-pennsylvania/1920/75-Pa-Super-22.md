@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 74"
+decided: "1920-07-14"
+citations: ["75 Pa. Super. 22"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Trexler, Keller and Linn, JJ."]
+parties: ["Commonwealth v. Morura et al. Appeal of Rosario Morura."]
+source_url: "https://static.case.law/pa-super/75/cases/0022-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 647089
+cites_cases: ["11 Pa. Superior Ct. 164", "11 Pa. Superior Ct. 165", "45 Pa. Superior Ct. 37", "60 Pa. Superior Ct. 230", "89 Pa. 432"]
+---
+
+# Commonwealth v. Morura
+
+## Majority (Linn, J.,)
+
+Opinion by
+Linn, J.,
+Morura, Valenzia and Mestroiana, tried together, were convicted of violating the Act of June 9,1911, P. L. 833, entitled “An act making it a misdemeanor to intimidate, levy blackmail, or extort money or other valuable thing, or to attempt so to do, from any person, and providing punishment therefor.” On April 15, 1918, Mike Patricella received a letter in Italian which was translated as follows: “Dear Friend: ‘You are requested to bring $300 Saturday evening about 9 p. m. Bring the money at the corner of the show in Conway — to explain it better, where the theatre is in Conway, at the corner you will find a person, when you see him he will remove his hat and wipe his face with a handkerchief, and give him the money. If you refuse to do this, you will see something; we will strangle you and your family. We will put dynamite under your house and blow it in the air.’ (Signed) Black Hand.”
+The three men lived in Sewickley, Allegheny County. Patricella lived in Conway, a village of about 2,000 inhabitants, in Beaver County, nine miles from Sewickley; he turned the letter over to the authorities who prepared a package to resemble what was demanded and arranged with him to go to the place designated and deliver it to the person making the signal. Patricella arrived there at about 8.50 p. m. and found the three men, strangers in the village, standing on the sidewalk. Shortly before 9 o’clock, one of them walked up the street a short distance watched by an officer, who, observing that he was making signals, apparently to be observed by one or both the others, arrested him. Another, at about the same time, went into a near-by milk shop where he was arrested a few minutes later. The conduct of the third was thus described by one of the witnesses: “As soon as the nine o’clock bell rang, I was in the dark, right behind Mike Patricella, and this third man started up and came slowly past Mike and tipped his hat off. And Mike was nervous and was going like this (indicating), and he walked in the store, in the doorway, and came out, and stood at the curb, and was reaching around his face for something, and I jumped right back of Mike and grabbed the man and arrested him......” A knife was found on one of the men and a revolver on each of the others. The learned counsel who now appears for appellants, and who was not in the case below, contends (1) that the evidence is insufficient to sustain a conviction; and (2) that the sentence is not in accordance with the statute.
+1. As counsel suggests, the signal specified in the letter was perhaps not completed, but the jury heard what the witness said and saw what he did and had no doubts. It is also said that the three strangers explained their presence in Conway and gave a good reason for standing on the corner at that hour. The carrying of weapons was explained by reference to hold-ups said to have taken place on the road out of Sewickley. At the conclusion of the charge counsel for appellants suggested an additional matter for instruction which was given as requested; only a general exception was asked for. We have considered the extracts from the charge quoted in the assignments of error, with the context from which they are taken and find no error. It is objected that the “black hand” letter should not have been received in evidence, but the only objection made when it was offered was that it should be read in Italian instead of in English and that objection was withdrawn by counsel for the defendants who requested the district attorney to read the letter.' The defendants themselves testified; the charge of the court was adequate; the jury was instructed as to the quality of circumstantial evidence and its duty with regard to such evidence, and the verdict determined the facts against the defendants. After conviction the learned court below carefully reviewed the evidence and refused a new trial in an opinion saying with regard to the verdict of the jury, “and with its conclusion we are not disposed to differ.” We have been furnished with no reason to reverse on the merits.
+2. We must sustain the fifteenth assignment complaining that the “sentence imposes an imprisonment ‘by separate and solitary confinement jat hard labor in the Western Penitentiary’-when the act of assembly under which the defendant was convicted imposes the punishment only of simple imprisonment.”
+Following the practice approved in Com. v. Barge, 11 Pa. Superior Ct. 164, it is ordered that the sentence of the Court of Quarter Sessions of Beaver County in this case be reversed and that the record be remitted to said court with instructions to resentence the prisoner according to law.
