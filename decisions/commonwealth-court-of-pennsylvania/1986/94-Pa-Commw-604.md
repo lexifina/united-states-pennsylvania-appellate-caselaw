@@ -1,0 +1,33 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 3011 C.D. 1983"
+decided: "1986-02-04"
+citations: ["94 Pa. Commw. 604"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail and Doyle, and Senior Judge Babbieri, sitting as a panel of three."]
+parties: ["Argonaut Insurance Company, Petitioner v. Workmen’s Compensation Appeal Board (Krajovic), Respondents."]
+source_url: "https://static.case.law/pa-commw/94/cases/0604-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1343411
+cites_cases: ["497 A.2d 280", "91 Pa. Commonwealth Ct. 389"]
+---
+
+# Argonaut Insurance v. Workmen's Compensation Appeal Board
+
+## Majority (Judge Doyle,)
+
+Opinion by
+Judge Doyle,
+This is an appeal by Argonaut Insurance Company (Argonaut) from an order of the Workmen’s Compensation Appeal Board (Board) reversing a referee’s decision which awarded Argonaut reimbursement from the Workmen’s Compensation Supersedeas Fund (Fund), for attorney’s fees pursuant to Section 443 of The Pennsylvania Workmen’s Compensation Act (Act), 77 P.S. §999. The attorney’s fees had been paid by Argonaut pursuant to an earlier order which arose in the context of the litigation in this case. The procedural morass engendered by this case is indeed unfortunate, but, a lengthy recital of the prior proceedings is not necessary. Suffice it to say that William Krajovie was found to have sustained a compensable injury and was awarded compensation plus, inter alia, attorney’s fees by the referee. The Board later determined that the award of attorney’s fees was inappropriate and reversed this portion of the referee’s award. Argonaut, which had already paid said fees pursuant to the referee’s order, sought reimbursement from tbe Fund, and the referee granted the request.
+On appeal, the Board in a September 29, 1983 order reversed the referee and denied the reimbursement. The Board wrote:
+Section 443 of the Workmen’s Compensation Act, 77 P.S. §999 provides that reimbursement of overpayment of compensation may be granted in any case in which a supersedeas has been requested and denied if payments are made as the result thereof and it is finally determined that compensation was not in fact payable. After a careful review of the record in this matter, we find no evidence, other than the allegations contained in Argonaut’s Petition, that the employer ever requested a supersedeas or that the request for supersedeas was denied by the Referee. Under these circumstances,' it is clear that the Referee’s subsequent Decision granting Argonaut reimbursement is not supported by competent evidence. In any event, this Board, not the Referee, is the proper forum to submit a supersedeas request. Since there was no authority for Referee Darkins to indulge such a request, assuming he ever did, such action lacks authority and we deem it moot. The Referee could not thereafter grant employer’s later application for Supersedeas Fund Reimbursement.
+Argonaut petitioned for rehearing maintaining that it had requested a supersedeas and that the Board, by order dated October 16, 1980, had denied the supersedeas. Copies of these documents were attached to the petition for rehearing. For reasons this Court cannot fathom the Board took no action on this petition and it now lacks the power to do so inasmuch as more than eighteen months have passed since the Board’s order of September 29, 1983 was entered. See Section 426 of the Act, 77 P.S. §871; Boyce v. Workmen’s Compensation Appeal Board (Penn State Services), 91 Pa. Commonwealth Ct. 389, 497 A.2d 280 (1985). Thus, the appeal to this Court is only from the September 29, 1983 Board order denying reimbursement from the Fund.
+When the case came before this Court for oral argument on October 10,1985, the Bureau of Workers’ Compensation (Bureau) maintained that the original record certified to us did not contain a petition for supersedeas and a Board order denying said petition. The Bureau is technically correct. But, for unexplained reasons, the action before the Board was docketed at two separate numbers, viz., A-83588 and A-79669. The original record docketed at A-79669 was not certified to this Court. By per curiam order dated October 29, 1985 this Court directed the Board to supplement the record to us by certifying the additional portions of the record docketed at A-79669. This was done on November 6,1985.
+Our review of the record of A-79669 discloses that there was indeed a supersedeas petition filed and that the Board sent a letter dated September 25, 1980 acknowledging receipt of that petition. The record, however, does not contain the Board issued October 16, 1980 order, allegedly denying the supersedeas, a purported copy of which, as noted above, was attached to Argonaut’s petition for rehearing. Thus, while we are reluctant to do so, we must remand this ease .to the Board with instructions to either (1) issue a new order, ruling on the petition for supersedeas inasmuch as a petition for such order was admittedly filed before it.or (2) reopen the record and permit Argonaut to offer into evidence a copy of the purported order and attempt to establish its authenticity.
+Order
+Now, February 4, 1986, the September 29, 1983 order of the Workmen’s Compensation Appeal Board in the above captioned matter is hereby vacated and the case is remanded to the Board for further proceedings consistent with this opinion. Jurisdiction relinquished.
+Act of June 2, 1915, P.L. 736, as amended. Section 443 was added by Section 3 of tbe Act of February 8, 1972, P.L. 25.
+We need not decide whether the Board was correct in its assertion that a petition for supersedeas could not be filed before and validly acted upon by a referee, inasmuch as it is clear from the September 25, 1980 letter that a petition was filed and that it was accepted by the Board.
+The Bureau, in its brief before this Court, also argues that even if Argonaut properly complied with Section 443 of the Act by petitioning for supersedeas, it nonetheless does not qualify for reimbursement because the Fund provides only for reimbursement of “compensation” and that that term does not include attorneys’ fees. Because of its disposition of the matter below the Board did not state in its adjudication that this was a basis for the denial of reimbursement. Inasmuch as we must remand this case for a finding on the October 16, 1980 order, we will not consider this issue and instead allow the Board the opportunity to address it on remand.
