@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 64"
+decided: "1906-06-30"
+citations: ["31 Pa. Super. 383"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Porter, Henderson, Morrison, Orlady, Head and Beaver, JJ."]
+parties: ["Commonwealth v. Henderson, Appellant."]
+source_url: "https://static.case.law/pa-super/31/cases/0383-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 864327
+cites_cases: ["126 Pa. 367", "211 Pa. 110", "24 Pa. Superior Ct. 571"]
+---
+
+# Commonwealth v. Henderson
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+The petition upon which this proceeding was instituted sets forth as a part thereof an indictment containing several counts returned to the court of quarter sessions charging the defendant with having violated the provisions of the act of May 29,1901, P. L. 327, prohibiting the manufacture and sale of oleomargarine, and also a copy of the complaint on which the indictment was framed. In the complaint and indictment it was charged that the defendant unlawfully exposed and offered for sale and sold and had in his possession with intent to sell the product known as oleomargarine. It was further alleged that after the finding of said indictment the defendant had again violated the provisions of the act of assembly by selling one or more pounds of oleomargarine, The act of 1901 provides that “ whenever any prosecution for a misdemeanor on account of any violation of the provisions of this act has been returned to any court of ' quarter sessions, it shall be lawful for the dairy and food commissioner, his agents or attorneys, in case the person or persons who have been .... prosecuted for such misdemeanor, have' since the commencement of such .... prosecution again viólated any of the provisions of this act, to apply to the court having jurisdiction of such .... prosecution, or to any law judge thereof, by petition setting forth the facts and asking the said court to make an order commanding and restraining the person or persons so .... prosecuted as aforesaid, from further violating any of the provisions of this act until such time as .... the said prosecution shall have been finally decided and determined,” etc. This provides a mode of bringing to the attention of the proper tribunal the unlawful act committed by the defendant, not for the purpose of inflicting a penalty, but to enable the court to determine whether facts exist warranting the issuing of a restraining order. It is not necessary that the averments of the petition be set forth with the formality and elaboration of an indictment or a bill in equity. It is sufficient if the fact of the former indictment and the subsequent act in violation of the statute be clearly set forth in order that the court and the defendant may understand the specific character of the charge. Considering the petition as a whole it is manifest that the averment that the defendant had again violated the provisions of the act of assembly by selling oleomargarine had reference to the particular offense set forth in the first count of the indictment. In both the indictment and petition it is stated that' the defendant's action was contrary to the act of 1901. These averments are in conformity to the requirements of section 9 of the statute and are sufficient for the purpose. A perusal of the petition would inform the defendant that he was charged with having a second time sold oleomargarine in violation of the act. The object sought was a decree. The petition was the foundation for a rule on the defendant to show cause why such a decree should not be entered. The defendant had a day in court when upon a hearing the court was satisfied that he had committed the act complained of and which rendered him liable to the- order sought. It is not pretended that the evidence was insufficient to sustain the decree and we do not find any defect in the petition which deprives the court of jurisdiction.
+We do not deem it necessary to enter into a discussion of the question of the constitutionality of the section of the act upon which this proceeding is founded. The same question was recently before this court in Com. v. Andrews, 24 Pa. Superior Ct. 571, and the Supreme Court in Com. v. Andrews, 211 Pa. 110, and was decided adversely to the appellant’s present contention. The proceeding for a restraining order is no more the trial of a misdemeanor than is the hearing before a committing magistrate on a complaint for a similar offense. Upon the hearing of the rule the court does not convict the defendant norimpose a sentence, but concludes if satisfied of the existence of the facts that he is likely to continue to violate the law and therefore enters a decree. This does the defendant no harm and does not restrain him from any lawful action. It requires him to refrain from the further prosecution of the business which has been declared to be unlawful and criminal.
+The assignments are overruled and the decree affirmed.
