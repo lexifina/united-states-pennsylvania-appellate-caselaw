@@ -1,0 +1,46 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1645 C.D. 1974"
+decided: "1976-03-17"
+citations: ["24 Pa. Commw. 82"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Mencer, Rogers and Blatt."]
+parties: ["The General State Authority of the Commonwealth of Pennsylvania, Plaintiff v. Pacific Indemnity Company, Defendant, and Koppers Company, Inc., Flintkote Roofing Materials, Gypsum Roof Decks, Inc., Roofings, Inc. and Michael R. Cozza & Associates, Additional Defendants."]
+source_url: "https://static.case.law/pa-commw/24/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1873426
+cites_cases: ["196 A.2d 349", "21 Pa. Commonwealth Ct. 181", "23 Pa. Commonwealth Ct. 662", "287 A.2d 862", "297 A.2d 544", "341 A.2d 481", "344 A.2d 763", "354 A.2d 52", "4 Pa. Commonwealth Ct. 517", "413 Pa. 218", "6 Pa. Commonwealth Ct. 612"]
+---
+
+# General State Authority of the Commonwealth v. Pacific Indemnity Co.
+
+## Majority (President Judge Bowman,)
+
+Opinion by
+President Judge Bowman,
+Although plaintiff, General State Authority (GSA), has recently been merged into the newly created Department of General Services, it retains a limited vitality until the satisfaction of its bond obligations. Hence, despite the GSA’s temporal existence, its status for purposes of our jurisdiction in this case must be adjudicated.
+The GSA was created by The General State Authority Act of one thousand nine hundred forty-nine as a public corporation and governmental instrumentality for various purposes, including the construction and acquisition of public buildings for the use of the Commonwealth. 71 P. S. §1707.4. It has a measure of autonomy in conducting its operations, 71 P. S. §1707.7, however, its board is composed of executive and legislative officers of the Commonwealth and their appointees and is specifically designated as agent of the Commonwealth for taking title to property on behalf of the Commonwealth. 71 P. S. §1707.4b. In summary, the legislation established an entity intimately related to the Commonwealth.
+The origin of this assumpsit action is a written contract between the GSA and Allegheny Building Company as the general contractor for the construction of a dining hall/kitchen at California State College located in Washington County. Incident to this construction contract, Pacific Indemnity Company (defendant) issued a performance bond as surety for the general contractor. As a result of its bankruptcy, the general contractor was unable to complete the project, and defendant thereupon undertook performance as surety.
+Thereafter, the GSA discovered a contraction on the roof of said building, which caused leakage and water damage. The gravamen of the complaint is that the defective roof and defendant’s subsequent failure to repair said roof constituted a breach of the surety contract and forced the GSA to seek alternative performance after having paid the full contract price. After a circuitous journey through the Federal District Court, this matter is now before us on defendant’s preliminary objections.
+Initially, defendant contends that the GSA is not the “Commonwealth” as defined in the Appellate Court Jurisdiction Act of 1970 (ACJA) for purposes of our concurrent original jurisdiction. Section 102(a) (2) of the ACJA, 17 P. S. §211.102(a) (2), provides:
+“ ‘Commonwealth’ includes departments, departmental administrative boards and commissions, officers, independent boards or commissions, authorities and other agencies of this Commonwealth, but shall not include any political subdivision, municipal or other local authority, or any officer or agency of any such political subdivision, municipal or local authority.” (Emphasis added.)
+We hold that the GSA is an authority of this Commonwealth as contemplated in the ACJA. In so holding, it is our position that the above quoted definition of the “Commonwealth” is to be considered as coextensive with the concept of the Commonwealth for purposes of sovereign immunity. In this vein, we note prior decisions of our Supreme Court and of this Court which have established the GSA’s entitlement to the shield of sovereign immunity. Roney v. General State Authority, 413 Pa. 218, 196 A.2d 349 (1964) ; Armour Rentals, Inc. v. General State Authority, 4 Pa. Commonwealth Ct. 517, 287 A.2d 862 (1972).
+In addition, the GSA enjoys a status comparable to that of the Pennsylvania Higher Education Assistance Agency (PHEAA). In Richmond v. Pennsylvania Higher Education Assistance Agency, 6 Pa. Commonwealth Ct. 612, 297 A.2d 544 (1972), this Court found PHEAA to be an agency of the Commonwealth for purposes of our original jurisdiction. PHEAA was created by language identical to that creating the GSA and like GSA, possesses certain attributes of independent stature and other attributes of a Commonwealth agency.
+Defendant argues that the Supreme Court’s recent decision in Specter v. Commonwealth, Pa. , 341 A.2d 481 (1975), abolishing the turnpike commission’s sovereign immunity because it is “separate and apart” from the Commonwealth, is applicable to this case, thereby negating our jurisdiction. In view of past decisions entitling the GSA to sovereign immunity, we will not extend Specter to cover this jurisdictional matter. In short, so long as the GSA retains its posture as being within the ambit of sovereign immunity, it is also an authority of the Commonwealth as defined in the ACJA.
+Next, defendant urges that this case should be transferred to the Court of Common Pleas of Washington County because venue lies in that county by reason of the provisions of Section 1 of the Act of 1911, which provides:
+“When any corporation, whether of this or any other State, shall become surety in a bond given for the faithful performance of any duty or contract by any person, partnership, or corporation as principal, suit upon said bond, against such corporation as surety, may be brought in the county in which such duty or contract was to be performed, or in the county in which such principal resided or had his or its principal place of business at the time of the execution of such bond.”
+The jurisdiction of our courts is not found in venue statutes. Such statutes are operative only for the purpose of determining in what court of less than statewide jurisdiction a cause of action may or must be brought. The Commonwealth Court is one of statewide jurisdiction. Pa. Const, art. V, §4. Within its original jurisdiction as prescribed by Section 401 of the AC JA, 17 P. S. §211.401, it enjoys concurrent jurisdiction with the several courts of common pleas over all civil actions or proceedings by the Commonwealth. At the election of the GSA, it had the option of initiating the suit at hand in this Court or a court of common pleas. If it had chosen to sue in a court of common pleas, then and only then would the provisions of the Act of 1911 apply.
+As we have previously observed, the jurisdiction of this Court is unique in that it is predicated upon the identity of the parties and the capacity in which they sue or are sued rather than upon the nature of the cause of action asserted. Konhaus v. Lutton, 21 Pa. Commonwealth Ct. 181, 344 A.2d 763 (1975).
+Finally, defendant asserts that another court and not this Court must have jurisdiction over the cause of action here asserted to protect its right to a jury trial. If defendant is constitutionally entitled to a jury trial, Pa. R.C.P. No. 215.1, in recognition of this right, prescribes the procedure to be followed in such cases.
+Order
+Now, March 17, 1976, defendant’s preliminary objections are hereby overruled, and it is directed to answer plaintiff’s complaint within twenty-five (25) days of the date hereof.
+. Act of July 22, 1975, P.L. , No. 45, created the Department of General Services by amending The Administrative Code of 1929, Act of April 9, 1929, P.L. 177, as amended, 71 P.S. §51 et seq. Additionally, Section 23 of the Act of July 22, 1975, preserves GSA in a limited manner.
+. Act of March 31, 1949, P.L. 372, as amended, 71 P.S. §1707.1 et seq.
+. The United States District Court for the Middle District of Pennsylvania in General State Authority v. Pacific Indemnity Company, Civil No. 75-188 (M.D. Pa., filed May 21, 1975), ordered this case “remanded” to this Court in a memorandum opinion by The Honorable Michael H. Sheridan, finding the GSA to be the “Commonwealth” and not a citizen of the Commonwealth for purposes of federal diversity jurisdiction.
+. Act of July 31, 1970, P.L. 673, as amended, 17 P.S. §211.101 et seq.
+. Section 401(b), 17 P.S. §211.401 (b), provides that this Court’s original jurisdiction over actions by the Commonwealth is concurrent with the several courts of common pleas.
+. See Kennedy v. Delaware River Joint Toll Bridge Commission, 23 Pa. Commonwealth Ct. 662, 354 A.2d 52 (1976).
+. Certain language found in the Act of August 7, 1963, P.L. 549, as amended, 24 P.S. §5101, creating PHEAA, is identical to that of 71 P.S. §1707.3 creating the GSA.
+. Act of March 22, 1911, P.L. 23, 8 P.S. §156.
