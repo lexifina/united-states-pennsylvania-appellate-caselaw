@@ -1,0 +1,44 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 2130 C.D. 1987"
+decided: "1988-07-25"
+citations: ["118 Pa. Commw. 146", "544 A.2d 1091"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail and Colins, and Senior Judge Narick, sitting as a panel of three."]
+parties: ["Norman Seip and Margaret Seip, his wife, Appellants v. The Millcreek Township Supervisors and The Millcreek Township Planning Commission, Erie County, Pennsylvania, Appellees."]
+source_url: "https://static.case.law/pa-commw/118/cases/0146-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1375510
+cites_cases: ["106 Pa. Commonwealth Ct. 389", "441 A.2d 466", "487 A.2d 481", "64 Pa. Commonwealth Ct. 513", "87 Pa. Commonwealth Ct. 443"]
+---
+
+# Seip v. Millcreek Township Supervisors
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+Norman and Margaret Seip (Appellants) appeal an order of the Erie County Court of Common Pleas denying their motion for summary judgment and entering judgment for the Millcreek Township Supervisors and the Millcreek Township Planning Commission (Appellees). We affirm.
+Appellants own a 4.235 acre tract of land in Mill-creek Township, Erie County. In September of 1985, Appellants submitted a subdivision plan to the Planning Commission, seeking to divide the tract into two lots, one of approximately 1.235 acres and one of 3 acres. The Planning Commission recommended denial of the proposed subdivision, and, on October 14, 1985, the matter was heard by the Township Supervisors. Appellants’ subdivision was subsequently denied by the Supervisors because the proposed lots did not have sufficient frontage on a public road.
+On November 13, 1985, Appellants filed a notice of appeal with the common pleas court, pursuant to Section 1006 of the Pennsylvania Municipalities Planning Code (MPC), 53 P.S. §11006. Appellants argued before the trial court that, inter alia, they, are entitled to a variance, pursuant to the Millcreek Township Subdivision Ordinance (Ordinance), from the requirement that their lots front on a public road. The trial court concluded that Appellants did not prove that unnecessary hardship would result if the Ordinance is applied to their property, and consequently, granted summary judgment for Appellees. This appeal ensued.
+Appellants argue here that the trial court erred, as a matter of law, in denying summary judgment as to their request for a variance from the Ordinance when unique and undue hardship, including economic hardship, would result. Our scope of review, where the trial court has taken additional evidence, is to determine whether the court committed an abuse of discretion or an error of law. Saber v. Zoning Hearing Board of the Borough of Roaring Spring, 106 Pa. Commonwealth Ct. 389, 526 A.2d 464 (1987).
+Appellees’ denial of Appellants’ subdivision plan was based on Article III, Section 1 of the Ordinance, which provides as follows:
+No subdivision which shall result in additional building lots shall be approved unless each parcel or lot thereon abuts on a public street and has the required width at the building line as described in Article V, Section 7, Paragraphs B and C; and which meets all of the design standards in Article IV, requirements of Article IX, as well as other pertinent provisions of this Subdivision Ordinance.
+Appellants do not contend that their lots will abut a public street within the meaning of this provision. Their argument is that they are entitled to a variance of the public street requirement under Article XI, Section 1(B) of the Ordinance, which provides that:
+If any mandatory provision of these regulations are shown by the applicant to the satisfaction of all Supervisors at a scheduled meeting, to be unreasonable and to cause unique and undue hardship as they apply to his proposed subdivision, the Supervisors may grant a variance in writing to such applicant from such mandatory provisions, so that substantial justice may be done and the public interests secured, providing that such variation [sic] will not have the effect of nullifying the intent and purposes of these regulations.
+Appellants argue that the ^public street provision of the Ordinance causes them a “unique and undue hardship” and that they are, therefore, entitled to a variance.
+According to Appellants, in 1978 they were assessed $8,000.00 for a sewer line which was installed along their property by the Millcreek Township Sewer Authority. Appellants appealed this assessment to the common pleas court. The court affirmed the assessment, concluding that Appellants’ property was benefited by the sewer line. On further appeal to this Court, we affirmed the trial court based on evidence that indicated the property could be subdivided. See Riehl v. Millcreek Township Sewer Authority, 64 Pa. Commonwealth Ct. 513, 441 A.2d 466 (1982). In 1981, however, the Ordinance was amended to include the prohibition on subdivided lots without frontage on a public street. Appellants argue that they “have now paid $8,000.00 based upon testimony that the property could be subdivided and they are now in the unique position of being unable to subdivide their property due to a change in the law.” Appellants’ brief at 23.
+We do not believe that this Court’s 1982 affirmance of the sewer assessment on Appellants’ property in any way controls our decision in the case before us. In Riehl, we were called upon to review action taken by the Sewer Authority, which is not a party to the instant proceedings. Our conclusion there that the assessment benefited Appellants’ property was based on evidence not a part of the record currently before us, that their property could be subdivided pursuant to Ordinance provisions in effect at that time. It is irrelevant to this proceeding that, when we decided Riehl, we took into consideration that Appellants’ property could then be subdivided.
+The issue properly before us is whether the Township Supervisor’s denial of the subdivision plan based on the amended Ordinance was appropriate. We must, accordingly, determine whether Appellants are entitled to a variance from the public street requirement of the Ordinance. Under Article XI, Section 1(B) of the Ordinance, quoted above, Appellants must prove that the requirement is “unreasonable” and causes “unique and undue hardship.” We agree with the trial court that Appellants did not meet this burden.
+First, we reject as specious Appellants’ claim that they will suffer a "unique and undue hardship” if the subdivision is denied because theirs is the only property in Millcreek Township affected by the 1981 Ordinance amendment, and the only property against which an $8,000.00 sewer assessment was levied. Of course, any property owner who attempts to subdivide property abutting a private road will be affected by the Ordinance, and according to the testimony below, there are a “number” of such private roads in Millcreek Township. In addition, as wé have already indicated, the appropriateness of.the sewer assessment is not presently before us.
+We also reject Appellants’ argument that they are entitled to a variance because of the economic detriment they will suffer if the subdivision plan is denied. In construing the “unnecessary hardship” requirement for a variance contained in Section 912 of the MPC, 53 P.S. §10912, this Court has recognized that such hardship must render a property “practically valueless.” Moses v. Zoning Hearing Board of the Borough of Dormont, 87 Pa. Commonwealth Ct. 443, 448, 487 A.2d 481, 484 (1985). Mere economic hardship' is insufficient to justify the granting of a variance. Id.
+Finally, even though we are satisfied that Appellants have not demonstrated a unique and undue hardship, we note that they have not alleged how the public street provision of the Ordinance is unreasonable. As quoted above, a variance may only be granted when the property owner establishes that an Ordinance provision is both unreasonable and causes unique and undue hardship.
+Finding no error of law or abuse of discretion in the trial court’s conclusion that Appellants did not prove their entitlement to a variance, we will affirm its order.
+Order
+The order of the Erie County Court of Common Pleas in the above-captioned proceeding is affirmed. Judge Colins dissents.
+The parties agree, and the trial court found, that there are no outstanding issues of feet.
+Act of July 31, 1968, P.L. 805, added by Section 1006 of the Act of June 1, 1972, P.L. 333, as amended.
+See Deposition of Robert J. Waytenick at 28, R.R. at 104a.
+Although Appellants are not seeking a variance pursuant to Section 912, we do not believe there is a significant, difference between the “unnecessary hardship” language of Section 912(1) and the “unique and undue hardship” required under the Ordinance.
