@@ -1,0 +1,39 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 35"
+decided: "1941-06-30"
+citations: ["144 Pa. Super. 583"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Baldrige, Stadtfeld, Rhodes, Hirt and Kenworthey, JJ."]
+parties: ["Rau, Appellant, v. Unemployment Compensation Board of Review."]
+source_url: "https://static.case.law/pa-super/144/cases/0583-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1032784
+---
+
+# Rau v. Unemployment Compensation Board of Review
+
+## Majority (Keller, P. J.,)
+
+Opinion by
+Keller, P. J.,
+On August 2,1938 Harry J. Rau was appointed Manager, Class V, Northampton County, in the Civil Service created under the Unemployment Compensation Law of December 5, 1936, P. L. of 1937, p. 2897, and its amendment of May 18, 1937, P. L. 658.
+On September 20, 1940 he was dismissed from his position by the Secretary of Labor and Industry on charges, which may be summarized as follows:
+1. Want of the moral qualifications required by the Unemployment Compensation Law.
+2. Faláe statement in his application for examination, dated July 12, 1937, giving as the reason for leaving his employment as a teacher with the Northampton School District, “Resigned — disagreement”, when, in fact, he had been discharged by the school board for immoral behavior towards girls attending the school.
+3. For delinquency or misconduct in the performance of his duties, pursuant to the authority conferred on the Secretary in sec. 208(o) of the Act, (a) in respect to his deportment and language during the year 1940 towards several of his female subordinates, amounting to indignities to them; (b) conduct to the prejudice of good order and discipline, by his use of immoral and suggestive language to female applicants for positions.
+He appealed to the Board of Review on September 26, 1940. At the hearing held on October 11, 1940 his counsel Objected to any testimony in relation to the first two charges referred to in his letter of dismissal, on the ground that they had been assigned as reasons for a previous dismissal by the Secretary on June 15,1939, which on appeal to the Board of Review had been sustained by the board on August 11, 1939; but that on appeal to this court, to No. 339 October Term 1939, the record, at the request of the board, had been remitted to it by this court, and, on October 17, 1939, the board had vacated its decision of August 11, 1939, for the reason that, as it had not fixed the time for the hearing within the time limit prescribed by law (sec. 208(p) — 30 days), and the appellant had objected to the hearing on that ground, it wás without jurisdiction to act in the matter; and accordingly ordered appellant restored to his position, which was done.
+The board proceeded to hear testimony on October 11, 1940, and at the conclusion of the Secretary’s case appellant’s counsel requested a continuance until October 31,1940 and again until November 8, 1940, waiving all objections under sec. 208 (p). The testimony was concluded on November 8,1940 and the board handed down its decision on November 19, 1940, making, inter alia, the following findings of fact :
+“3. The appellant, in the application which he filed for Civil Service examination and employment, knowingly and falsely stated that he had resigned from his position under the School Board of Northampton because of ‘disagreement with Board and parents’, whereas in fact he had been dismissed from that position by the School Board because of his immoral conduct. The appellant did not disclose in his application for examination and employment that he had been charged with immoral conduct in connection with his employment as a school teacher and principal prior to the filing of his application.
+“4. The appellant, in the course of his employment as a Civil Service employe in the Bureau of Employment and Unemployment Compensation was guilty of improper conduct toward female employes under his supervision, to the prejudice of good order and discipline and the necessary standards of efficiency and propriety in the conduct and administration of a public office.
+“5. The appellant, in his application for the Civil Service position to which he was appointed, falsely stated and represented a fact material to his qualifications for employment, and in addition failed to disclose certain material facts as to his fitness for appointment and employment, and this false statement and non-disclosure on the part of the appellant was made by him knowingly in order to obtain employment in the Bureau of Employment and Unemployment Compensation.
+“6. The appellant in the course of his employment as a Civil Service employe in the Bureau of Employment and Unemployment Compensation, so conducted himself towards those under his supervision as to constitute delinquency and misconduct in the performance of his duties under the Unemployment Compensation Law.”
+From these facts the board held that the charges of the Secretary of Labor and Industry had been sustained and that the appellant had been properly dismissed, and it dismissed the appeal. The board also held that excluding the first two charges, which related to matters occurring before his reinstatement after his former appeal to this court in 1939, his deportment and language towards his female subordinates in 1940 had been so suggestive and immoral as to justify his dismissal for delinquency and misconduct in the performance of his duties.
+Section 510 of the Act aforesaid provides:
+“In any appeal to the Superior Court the findings of the board or referee, as the case may be, as to the facts, if supported by the evidence and in the absence of fraud, shall be conclusive, and in such cases the jurisdiction of the court shall be confined to questions of law,......”
+We have read the testimony with care and are of opinion that it supports the findings of the board. No good purpose will be served by discussing it in detail.
+We are also of opinion that as the prior appeal to this court was not disposed of on the merits, but the decision of the board appealed from was vacated by it solely because of its failure to comply with the provisions of section 208(p) directing a hearing and decision within thirty days after the appeal to it, which objection had been raised by the appellant at the first hearing, this disposition, on a question of procedure and jurisdiction, did not prevent the board from receiving and considering evidence relating to the first two charges in connection with the evidence bearing on his delinquency and misconduct in the performance of his duties in 1940; it being relevant on his general moral unfitness for his position as manager, charged with the duty of supervising female employees and interviewing female applicants for positions. Said charges had not been ruled upon and decided in his favor on the merits in the prior proceeding, and the matter was not res judicata.
+But, in any event, we agree with the board, that excluding all the evidence relating to his dismissal as teacher by the Northampton School Board for immoral conduct and the other matters involved on his first hearing on August 9, 1939, there was still ample, credible evidence as to his misconduct in the way of lewd, suggestive and immoral talk and conduct toward young women employed as his subordinates, and coming before him as applicants for positions, to justify and require his dismissal. Young women who are earning their living in civil service positions have a right to be protected from Te'wd and suggestive talk and conduct by their superiors. In our opinion appellant’s dismissal was justified by the evidence.
+The decision of the board is affirmed and the appeal is dismissed at appellant’s costs.
