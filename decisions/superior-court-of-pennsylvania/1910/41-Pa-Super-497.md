@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 66"
+decided: "1910-03-03"
+citations: ["41 Pa. Super. 497"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady, Head, Beaver and Porter, JJ.", "Head, J., dissents."]
+parties: ["Moore v. Third National Bank of Philadelphia, Appellant."]
+source_url: "https://static.case.law/pa-super/41/cases/0497-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 884207
+cites_cases: ["1 Am. B. R. 458", "100 U. S. 686", "104 U. S. 469", "11 Am. B. R. 665", "147 U. S. 640", "148 Pa. 333", "16 Am. B. R. 32", "16 Am. B. R. 519", "17 Am. B. R. 80", "17 Phila. 265", "2 Am. B. R. 383", "2 Am. B. R. 805", "23 Pa. 297", "27 Pa. Superior Ct. 196", "3 Sadler, 213", "35 Pa. Superior Ct. 47", "38 Pa. Superior Ct. 275", "4 Am. B. R. 578", "4 Am. B. R. 722", "5 Am. B. R. 402", "52 Pa. 458", "64 Pa. 240", "7 Am. B. R. 369", "8 W. & S. 304", "86 Pa. 483", "94 U. S. 553", "96 Pa. 93"]
+---
+
+# Moore v. Third National Bank
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+The statement filed by the plaintiff averred the following facts which the affidavit of defense admitted to be true. On January 16, 1908, before 3 o’clock p. m., Henry E. Sealey & Co., incorporated, deposited in their account with the defendant bank sundry checks aggregating $335.03, for collection, and received the usual credit in their bank book therefor, which checks were collected in due course by the bank on January 17, 1908. The bank paid nothing and incurred no liability upon the faith of the deposit of the checks in question. Upon the same day on which this deposit was made, at 3:45 o’clock p. m. a petition of creditors was filed praying that Henry E. Sealey & Co., incorporated, be adjudged bankrupt, and in that proceeding they were subsequently duly so adjudged, and John L. Moore, the plaintiff herein, was appointed trustee. At the date of the making of the deposit of the checks in question and the filing of the petition in bankruptcy and for some time prior thereto Sealey & Co. had been liable to the bank as indorsers upon certain promissory notes, not yet due, amounting in the aggregate to $900. There was a balance due Sealey & Co. upon their open account with the bank, on January 15, 1908, of $687.12. It is admitted that the bank had the right to set off this $687.12, the balance on January 15, 1908, against the liability of Sealey & Co. as indorsers upon the notes not yet due. The question raised by the affidavits involves the right of the bank to apply in the same manner the proceeds of the checks, which were deposited for collection, on the day the petition in bankruptcy was filed and the proceeds of which were by the bank received on the day following. The bank having paid to the plaintiff the amount in excess of the sum for which Sealey & Co. were liable as indorsers, the plaintiff brought this action to recover that part of the proceeds of the checks in question which had not been thus paid by the bank. The court below entered judgment for want of a sufficient affidavit of defense and the defendant appeals.
+The conclusion at which the court below arrived is so fully vindicated by the opinion of Judge Yon Moschzisker, which appears in full in the report of this case, that it is not necessary for us to discuss at length the question presented. The general rule in judicial proceedings is that fractions of a day are not to be regarded, and that all transactions of the same day are to be regarded as occurring at the same instant of time. The exception to the rule is that when the application of the general principle would result in manifest injustice the exact hour or minute at which acts were done may be shown, in order to prevent a great mischief or inconvenience. In Long’s Appeal, 23 Pa. 297, cited in the opinion of the court below, it was held that: “Neither necessity nor justice requires that one creditor should be aided in seizing all the assets of his debtor, to the entire exclusion of others equally meritorious,” and in that case fractions of a day were disregarded. The same conclusion was arrived at in Baldwin’s Appeal, 86 Pa. 483. In bankruptcy, “The day of cleavage, both as to provable and dischargeable debts, and as to property with which to pay those debts, is the day when the petition is filed;” In re Yukon Woolen Company, 2 Am. B. R. 805; In re Pease, 4 Am. B. R. 578; State Bank v. Cox, 16 Am. B. R. 32. The rule in bankruptcy, as in other judicial proceedings, is that as to the general doctrine the law does not allow fractions of a day, and that such fractions will only be considered when substantial justice so requires: Dutcher v. Wright, 94 U. S. 553; Taylor v. Brown, 147 U. S. 640. The deposit of these checks was not a deposit of money; the bank took the checks for collection only; it advanced no money upon them and parted with nothing upon the faith of the deposit; it was not the holder of the checks for value: National Bank of Phœnixville v. Bonsor, 38 Pa. Superior Ct. 275.
+The judgment is affirmed.
+Head, J., dissents.
