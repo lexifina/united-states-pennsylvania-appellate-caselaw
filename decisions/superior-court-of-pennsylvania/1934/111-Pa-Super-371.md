@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 111"
+decided: "1934-02-01"
+citations: ["111 Pa. Super. 371"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Cunningham, Baldrige, Stadtfeld, Parker and James, JJ."]
+parties: ["Commonwealth v. Mann, Appellant."]
+source_url: "https://static.case.law/pa-super/111/cases/0371-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 970997
+cites_cases: ["93 Pa. Superior Ct. 193"]
+---
+
+# Commonwealth v. Mann
+
+## Majority (Parker, J.,)
+
+Opinion by
+Parker, J.,
+The defendant, Frank J. Mann, has appealed from the judgment entered on a verdict of guilty on an indictment charging a violation of the Act of June 9, 1911, P. L. 833, §1 (18 PS 2932), relating to blackmail and extortion, and urges here that the evidence was not sufficient to sustain the verdict and that the trial judge improperly refused to charge the jury as requested by the defendant.
+It is provided by that Act of Assembly as follows: “If any person or persons shall, by means of written, printed or oral communications, intimidate, or levy blackmail, or extort money, property or other valuable thing from, any person; or by such written, printed or oral communications attempt to intimidate, annoy, or levy blackmail, or extort money, property or other valuable thing from any person, he, she, or they, so offending, shall be guilty of a misdemeanor.”
+On June 29, 1931, Fred Passamonti, after hearing before a justice of the peace, was bound over to the court of quarter sessions of Erie County to answer charges of aggravated assault and battery and felonious assault and battery with intent to kill inflicted on the person of his uncle, Alfonzo Marianno. The defendant in this case, Frank J. Mann, was acquainted with the defendant and the victim in the assault charge. With the approval of Passamonti, Mann interested himself and undertook to effect a settlement of the charge against Passamonti and as a result secured from him- the sum of $125 which he represented to be in settlement of the charges and paid the same over to Marianno. There was evidence showing that Passamonti, a foreigner who spoke little English and was compelled to use an interpreter to give his evidence in this case, was in fear of serious punishment for the offenses charged against him, which condition of mind was encouraged by the defendant; that Mann had a number of interviews with Passamonti at which times he represented, that he had seen Marianno, that he knew the district attorney and had influence'with him, then that he had seen the district attorney and learned that the matter could he settled, and later that the settlement had the approval of the district attorney, although he had not at any time interviewed that officer; that he could make a very much better settlement than an attorney; and that it would be better if Passamonti did not have an attorney. In short, it was shown that he pretended that he could, would, and had used his influence with the district attorney to secure Passamonti’s discharge. At first Mann attempted to secure $180, but finally arranged the settlement for $125. There was also evidence, which was competent to show criminal intent, that the defendant had, at about the same time, extorted sums of money from three different individuals upon the promise to protect them from prosecutions for violation of the liquor law, in such illegal transactions posing as a representative of American Civic Alliance.
+The late Judge Hekdersoh, in speaking for this court in the case of Com. v. Nathan, 93 Pa. Superior Ct. 193, 197, said: “While extortion at common law was an offense committed by an officer under color of his office, the term has a broader significance in modern legislation and applies to persons who exact money either for the performance of a duty, the prevention of injury, or the exercise of influence. It covers the obtaining of money or other property by operating on fear or credulity or by promise to conceal the crimes of others.” It is most apparent that if the jury believed the witnesses for the Commonwealth, they could properly find that this money was exacted by Mann from Passamonti by working upon his, fears with the promise that he would stifle the criminal prosecution then pending, and that he had used his influence with the district attorney to secure a withdrawal of the charges. .The credibility of the witnesses was for the jnry. While the fact that this money was . all paid over to Marianno was a proper fact to be taken into account by tbe jury as bearing on tbe criminal intent, its effect was largely offset by tbe evidence of the Commonwealth that Marianno at that time was complaining that he had entrusted money to Mann on the promise to render service to him which had not materialized, with the inference that it was to placate Marianno that he was interesting himself in securing the money from Passamonti.
+We have carefully examined the assignments of error relating to the request of the defendant to charge the jury on certain matters. The points as drawn were properly refused, and the law involved in the points submitted was fully and accurately covered by the trial judge in his general charge. -
+The judgment of the lower court is affirmed, and it is directed that the defendant appear in the court belo-w at such time as he may be there called and that he be by that court committed until he has complied with the sentence, or any part of it, which had not been performed at the time the appeal in this case was made a supersedeas.
