@@ -1,0 +1,47 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1536"
+decided: "1979-09-28"
+citations: ["270 Pa. Super. 184", "411 A.2d 241"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before PRICE, GATES and DOWLING *, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Rene FERGUSON, Appellant."]
+source_url: "https://static.case.law/pa-super/270/cases/0184-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 131056
+cites_cases: ["154 A. 786", "176 A.2d 421", "237 Pa.Super. 19", "246 Pa.Super. 154", "248 A.2d 289", "253 Pa.Super. 566", "258 Pa.Super. 312", "259 Pa.Super. 376", "299 A.2d 590", "303 Pa. 509", "319 A.2d 669", "326 A.2d 272", "34 L.Ed.2d 178", "346 A.2d 579", "393 F.Supp. 529", "406 Pa. 102", "409 U.S. 915", "432 Pa. 386", "450 Pa. 252", "456 Pa. 394", "458 Pa. 418", "459 Pa. 545", "461 F.2d 586", "462 Pa. 43", "466 Pa. 382", "482 Pa. 598", "93 S.Ct. 247"]
+---
+
+# Commonwealth v. Ferguson
+
+## Majority (DOWLING, Judge:)
+
+DOWLING, Judge:
+Appellant, Rene Ferguson; was tried before a jury and found guilty of rape and involuntary deviate sexual intercourse. His contentions, on direct appeal, concern the putative prosecutorial misconduct in the Commonwealth’s summation and cross-examination of Defendant.
+The standards for judging prosecutorial misconduct are well established. Any caustic, ill-advised or otherwise improper remarks by the Commonwealth are not necessarily grounds for a new trial. Commonwealth v. Stoltzfus, 462 Pa. 43, 337 A.2d 873. Reversible error attaches only where: “. . . the unavoidable effect of such comments would
+be to prejudice the jury, forming in their minds fixed bias and hostility toward the defendant so that they could not weigh the evidence objectively and render a true verdict.” Commonwealth v. McNeal, 456 Pa. 394, 400, 319 A.2d 669, 673 (1974).
+The effect of such remarks depends upon the atmosphere of the trial. Commonwealth v. Stoltzfus, supra; Commonwealth v. Dickerson, 406 Pa. 102, 176 A.2d 421 (1962). Whether the bounds of propriety have been exceeded is within the reasonable discretion of the trial court.
+Defendant initially contends that the Commonwealth’s putatively argumentative and sarcastic questions during cross-examination were an improper expression of its view that the defendant was incredulous and guilty. Defendant mentions only four questions from the record:
+Q You are the one that’s under oath? (N.T.264)
+Q What is it you have, which makes you so irresponsible, Mr. Ferguson? (N.T.272)
+Q Don’t you think you assumed an awful lot? (N.T.264)
+Q That’s the way you kiss your mother? (N.T.271)
+Any complaint respecting the first two questions has been waived as defendant failed to object at trial to the first one and failed to request specific relief by way of cautionary instructions or a mistrial after the court sustained his objection to the second question. Commonwealth v. Clair, 458 Pa. 418, 326 A.2d 272 (1974); Commonwealth v. Sargent, 253 Pa.Super. 566, 385 A.2d 484 (1978); Commonwealth v. Glenn, 459 Pa. 545, 330 A.2d 535 (1974). In any event, defendant was not prejudiced by any of the inquiries. Defendant, in his direct examination brought up the subject of his sexual encounter with the victim and the manner in which he kissed her, and the questions by the prosecutor on that subject constituted legitimate cross-examination. Questions far less tame, temperate and subdued have been approved by this Court. A case in point is Commonwealth v. Boykin, 246 Pa.Super. 154, 369 A.2d 857 (1977), where the district attorney’s cross-examination of defendant concerning the latter’s intention to have sexual intercourse with a male or cat in his office was not reversible error. Moreover, it is noteworthy that the lower court in the instant case repeatedly instructed the jury that questions were not to be considered as evidence (N.T.138, 139). Defendant, is not entitled to relief on this ground.
+Defendant next argues that the Commonwealth’s references to a “night of terror” in its summation was a request for revenge and. hence reversible error. In recounting the facts, the Commonwealth had stated:
+Now, Mrs. G— told you a story of a night of terror for her, when she was doing the most ordinary thing that you can imagine, driving an automobile with her child, on the way from her mother’s home to her home, in the middle of what is the fourth largest city in the country. (N.T.296).
+The Commonwealth’s inference was factually supported and a refutation of counsel’s characterization of the victim as a willing and voluntary participant. The facts demonstrating the propriety of this inference are as follows: The prosecutrix developed car problems while she was driving home from her mother’s home in the evening. After the problem was corrected, defendant approached her. When she temporarily left her automobile to pick up her baby’s fallen bottle, defendant seized control of the car. Defendant drove the vehicle despite the victim’s persistent protestations and he. stopped in a driveway supposedly to check the motor. "When the victim exited the automobile, defendant suddenly grabbed her by the neck, ordered her to get in the back seat, pulled her hair while keeping one hand around her neck, threatened to injure her baby, choked her, forced her to commit oral sex and then compelled her to engage in sexual intercourse (N.T.156-165). The victim screamed “Please help me, help me, somebody help me.” (N.T.219). Subjected thus to such foul abuse, how can anyone say that this lady was not terrified and that the perpetration of this outrage had indeed entailed a night of terror.
+Courts have repeatedly rejected claims of prejudice arising from the Commonwealth’s employment of relevant characterizations, flowing from the evidence, even when infused with an emotional charge of equal or greater magnitude than in the instant case. Commonwealth v. Baker, 466 Pa. 382, 353 A.2d 406 (1976) (labeling the moral character of a witness romantically linked to defendant as “too hot to trot and still burning” where that relationship supplied a motive for defendant’s murder of his wife; making reference to the defendant’s “bloody hands”.). Commonwealth v. Rodgers, 259 Pa.Super. 376, 393 A.2d 876 (1978) (portraying defendant as a lion lying in wait for “the aged, the weak, the crippled, the sick.”). Commonwealth v. Jarvis, 482 Pa. 598, 394 A.2d 483 (1978) (describing the relationship of a witness to the defendant and the slain victim as a “love triangle”, declaring the shooting to be a “set-up” or “scheme” on defendant’s part).
+Finally, appellant objects to the following statement made by the district attorney in his summation to the jury:
+“Mr. Larrabee said there would be marks, doctors would know.”
+“Who is Mr. Larrabee to tell you that doctors would know? Is he a doctor?”
+“If he wants a doctor to come here and tell you about what doctors would see . . . ”
+“Pulling a hair is going to leave a scar or a blood stain? If so, have a doctor come here and tell you that it would leave a blood stain. Our common sense tells you that every time our hair is pulled or every time our arm is twisted it doesn’t leave a mark.”
+“Every time we have sexual intercourse, it doesn’t mean an abrasion, a cut or contusion.”
+The trial judge interrupted the district attorney to advise him of the impropriety of the above remarks.
+The district attorney was responding to defense counsel’s contention that a sexual assault of the kind alleged to have been perpetrated by the appellant necessarily would have left telltale signs, of which there were none in the present case. Appellant assigns error to the prosecuting attorney’s tacit criticism of the defense counsel’s failure to produce expert medical testimony in support of his proposition because of its purported tendency to shift the burden of proof onto the appellant.
+The prosecution is entitled to respond to the arguments advanced by defense counsel. Commonwealth v. Stoltzfus, 462 Pa. 43, 337 A.2d 873 (1975); Commonwealth v. Stafford, 450 Pa. 252, 299 A.2d 590 (1973). Insofar as the district attorney’s comments may have suggested that it was incumbent upon appellant to offer expert medical testimony, any prejudicial effect was quickly neutralized by the curative jury instructions regarding the appellant’s presumption of innocence and the Commonwealth’s burden of proof. U. S. v. Dabney, 393 F.Supp. 529 (E.D.Pa.1975); U. S. v. Leftwich, 461 F.2d 586 (3rd Cir. 1972), cert. denied 409 U.S. 915, 93 S.Ct. 247, 34 L.Ed.2d 178.
+Judgment of sentence affirmed.
+. In the context of the cross-examination, which concerned defendant’s claim that the victim consented, it is more likely that the Commonwealth either said or intended to say “irresistible” and not “irresponsible”.
+. Four of the five cases cited by defendant as authority for the prejudicial nature of the Commonwealth’s cross-examination are irrelevant. Commonwealth v. Chandler, 237 Pa.Super. 19, 346 A.2d 579 (1975); Commonwealth v. DelGiorna, 303 Pa. 509, 154 A. 786 (1930); Commonwealth v. Dickerson, 406 Pa. 102, 176 A.2d 421 (1962); Commonwealth v. Simon, 432 Pa. 386, 248 A.2d 289 (1968). In each of these cases, the Courts approved the prosecutor’s conduct. The fifth case is inapposite as it concerns only a prosecutor’s summation. Commonwealth v. Long, 258 Pa.Super. 312, 392 A.2d 810 (1978).
