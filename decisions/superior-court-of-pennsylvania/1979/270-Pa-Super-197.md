@@ -1,0 +1,36 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2750"
+decided: "1979-09-28"
+citations: ["270 Pa. Super. 197", "411 A.2d 248"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before PRICE, GATES and DOWLING *, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. John J. BROGAN, Appellant."]
+source_url: "https://static.case.law/pa-super/270/cases/0197-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 131024
+cites_cases: ["124 A.2d 666", "160 A.2d 448", "181 Pa. Super. 382", "227 A.2d 900", "234 Pa.Super. 337", "246 Pa.Super. 412", "260 Pa. Super. 280", "338 A.2d 657", "399 Pa. 563", "424 Pa. 331"]
+---
+
+# Commonwealth v. Brogan
+
+## Majority (DOWLING, Judge:)
+
+DOWLING, Judge:
+This is an appeal from a conviction for harassment. The testimony adduced at trial disclosed that on September 11, 1977 as the appellant was operating a sailboat on the Delaware River near the Burlington-Bristol Bridge, he threw a bottle of beer in the direction of the complainant’s motorized boat which was travelling in the opposite direction. The bottle struck the gunwale, and splintered over the deck narrowly missing two of the four persons aboard. On December 9,1977, a private criminal complaint was filed. A preliminary hearing was held on January 9, 1978, at which time the appellant was found guilty. Pursuant to appellant’s motion, a non-jury trial de novo was conducted in the Bucks County Court of Common Pleas on September 15, 1978 and appellant was again found guilty. Following denial of post-conviction motions, appellant comes before this court to request relief.
+Initially, appellant argues that the isolated incident of tossing a bottle falls short of constituting a “course of conduct . . . serv(ing) no legitimate purpose” as required under Subsection 3 of the Harassment Statute. Appellant stated in his brief that this claim was raised and argued during his trial de novo. However, neither the official record certified to this court nor the lower court’s opinion contains any reference to this argument. Because we are required to accept the transcribed record as correct, we cannot lend any credence to appellant’s unsubstantiated statement that this point had indeed been brought to the trial court’s attention. Commonwealth v. O'Brien, 181 Pa. Super. 382, 124 A.2d 666 (1956). It is fundamental that assignments of error not raised in the court below may not be raised for the first time on appeal. Commonwealth v. Jefferson, 234 Pa.Super. 337, 338 A.2d 657 (1975). Consequently, we are unable to reach the merits of appellant’s argument.
+Court of Common Pleas of Dauphin County, Pennsylvania, are sitting by designation.
+It is next argued that the lower court committed error in failing to dismiss the charges lodged against appellant because trial was not held within the time limits imposed by Pa.R.Crim.P, 57(b)(1)(i). This rule provides that trial for summary offenses such as harassment shall be conducted no less than three nor more than ten days after the accused’s initial appearance before the issuing authority. In the instant case, appellant’s trial wasn’t held until twenty-five days after such appearance. It is obvious that Pa.R. Crim.P. 57(b)(1)(i) has not been complied with; it is less obvious that this necessitates disturbing the order entered below. Unlike Pa.R.Crim.P. 1100, Rule 57(b)(1)(i) does not expressly provide for dismissal or any other remedy upon violation of its requirements. Rather, Rule 57(b)(1)(i) is more akin to Pa.R.Crim.P. 140(f)(1), which provides for an identical time framework within which to schedule a preliminary hearing. In Commonwealth v. DeCosey, 246 Pa.Super. 412, 371 A.2d 905 (1977), this court held that discharge is not properly forthcoming for a Rule 140(f)(1) violation when the accused was not incarcerated during the period of delay, failed to object to the hearing’s untimeliness before it was conducted, and failed to demonstrate prejudice flowing from the delay. Reasoning by analogy, we are satisfied that the delay in conducting appellant’s trial, in violation of Pa.R. Crim.P. 57(b)(1)(i) was not so inherently egregious as to mandate dismissal absent a showing of prejudice accruing to the appellant. Since no such showing has been made, we do not believe appellant’s discharge is appropriate. See, Commonwealth v. Riley, 260 Pa. Super. 280, 393 A.2d 1263 (1978).
+Appellant next contests the jurisdiction of the court below. The evidence adduced at trial revealed that the offense complained of took place on the waters of the Delaware River in the vicinity of the Burlington-Bristol Bridge. We take judicial notice of the fact that the geographical area described lies between Pennsylvania and New Jersey. Under the Interstate Compact of 1783, Sept. 20, 2 Sm.L. 77, § 1, 71 P.S. § 1805, Pennsylvania and New Jersey share concurrent jurisdiction over offenses committed on the Delaware River and between their respective shores. Exclusive jurisdiction rests in the state wherein the accused is first apprehended. Since the appellant was arrested in Pennsylvania, the lower court was empowered to conduct appellant’s trial.
+The appellant also contends that the Commonwealth failed to present extrinsic proof of the corpus delicti of the crime of harassment before introducing evidence of an out of court admission by the appellant. It is true that the fact that a crime has been committed by someone must be established before extra-judicial admissions or confessions are admissible into evidence. Commonwealth v. Leslie, 424 Pa. 331, 227 A.2d 900 (1967) (citing cases). However, the corpus delicti may be proved, like other facts, by circumstantial evidence. Commonwealth v. Deyell, 399 Pa. 563, 160 A.2d 448 (1960).
+In the case before us, the prosecution presented the testimony of the complainant and another eyewitness to the incident prior to the introduction of the appellant’s admission against interest. Each of these witnesses testified to the factual circumstances surrounding the confrontation between the boats, explaining that although identification of the offender was impossible at the time, subsequent law enforcement investigation of the registration number listed on the offender’s boat disclosed the appellant as the owner. Because this testimony constituted adequate independent proof that a crime had been committed, it was not an abuse of discretion for the trial court afterwards to have admitted evidence of the appellant’s damaging statements. Moreover, when the evidence is viewed in its entirety, we cannot say that it was insufficient to justify the conclusion that the appellant was the guilty party.
+Accordingly, the order entered in the court below is affirmed.
+. Act of 1972, Dec. 6, P.L. 1484, No. 334, § 1, 18 C.P.S.A. § 2709.
+. 18 C.P.S.A. § 2709 provides in pertinent part as follows:
+Harassment
+A person commits a summary offense when, with intent to harass, annoy, or alarm another person:
+(1) he strikes, shoves, kicks or otherwise subjects him to physical contact, or attempts or threatens to do the same; or
+(2) . . .
+(3) he engages in a course of conduct or repeatedly commits acts which alarm or seriously annoy such other person[s] and which serve no legitimate purpose.
