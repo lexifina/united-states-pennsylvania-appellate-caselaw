@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1000"
+decided: "1976-11-22"
+citations: ["245 Pa. Super. 169", "369 A.2d 347"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WATKINS, President Judge, and JACOBS, HOFFMAN, CERCONE, PRICE, VAN der VOORT and SPAETH, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Achelohiym WALTON, Appellant."]
+source_url: "https://static.case.law/pa-super/245/cases/0169-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 826540
+cites_cases: ["109 A. 922", "131 Pa.Super. 370", "199 A.2d 411", "200 A. 274", "222 Pa. 156", "231 Pa.Super. 157", "237 Pa.Super. 424", "241 A.2d 755", "261 A.2d 577", "267 Pa. 233", "326 A.2d 272", "331 A.2d 821", "352 A.2d 185", "363 F.Supp. 614", "414 Pa. 246", "429 Pa. 415", "436 Pa. 555", "453 Pa. 302", "458 Pa. 418", "70 A. 1053"]
+---
+
+# Commonwealth v. Walton
+
+## Majority (CERCONE, Judge:)
+
+CERCONE, Judge:
+On December 27, 1974, appellant was tried, non-jury, and convicted of aggravated assault, recklessly endangering the life of another person, and various weapons offenses. The conviction was the result of a July 1, 1974 incident in which the victim, Mr. Hamms, was shot in the face by appellant with a shotgun resulting in Mr. Hamms’ total blindness in one eye and partial blindness in the other. On February 18, 1975, appellant was sentenced to a term of nineteen years probation on the four charges listed above and, as a condition of the probation, appellant was ordered to pay $25.00 per week in restitution to Mr. Hamms.
+Appellant raises two issues on this appeal, the first relates to the validity of his conviction, while the other relates to the legality of the sentence imposed.
+First, appellant contends that his alleged common-law wife, Marlene Hamms, was allowed to testify against him in violation of the statutory prohibition of one spouse testifying against the other. However, since the facts of this case fail to comply as an exception to waiver under the rationale of Cañóle v. Allen, 222 Pa. 156, 70 A. 1053 (1908), we find that appellant’s failure to raise an objection to Marlene Hamms’ testimony at time of trial or in post-verdict motions constitutes a waiver of this issue. The rule that a spouse’s incompetency cannot be waived is inapplicable under the facts of the instant case because the rule is applied only where “there is no question but that the parties are legally married.” Commonwealth v. Stots, 436 Pa. at 558, 261 A.2d at 579. In the instant case, as in Stots, there was no evidence on the record which might establish the essential requirements of a common-law marriage existing between the witness and the defendant, the testimony of the witness merely indicating that she and the defendant had been living together without being legally married, nothing more. The burden of proof lies with the party alleging a witness’ incompetency. Beeruk Estate, 429 Pa. 415, 417 (n. 1), 241 A.2d 755 (1968). The mere allegations by a defendant that a valid marriage existed are insufficient to sustain his burden of proof. United States v. Lewis, 363 F.Supp. 614 (W.D.Pa.1973). “Since the evidence presented at trial did not even approximate the factors which must be proven for a common-law marriage, the trial judge was under no duty to raise the question of competency — particularly where no objection was made by counsel for the defendant.” Commonwealth v. Stots, 436 Pa. at 559, 261 A.2d at 579. Accordingly, appellant’s issue raised as to Marlene Hamms’ testimony must be dismissed as not having been properly raised.
+In his second issue concerning the legality of the sentence imposed, appellant contends that the trial court was without authority to order him to make payments to the victim as compensation for the physical injury inflicted. Succinctly stated, appellant’s position is that the Act of November 27, 1970, P.L. 790, No. 257, § 1; September 22, 1972, P.L. 876, No. 200, § 1 (18 P.S. § 5109) under which appellant was sentenced to make restitution, was not in effect at the time that he was ordered to compensate the victim. Based upon controlling precedent of this court, we find appellant’s sentence illegal as imposed and must reverse and remand for resentencing. This result is factually and legally controlled by the comprehensive decision of this court, in the recent case of Commonwealth v. Flashburg, 237 Pa.Super. 424, 352 A.2d 185 (1975), allocatur denied, April 28, 1976, which specifically held that between June 6, 1973 and March 30, 1975, the courts of this Commonwealth were not empowered to order a criminal defendant to make restitution as part of a judgment of sentence.
+Accordingly, judgment of sentence of the court below is reversed and case remanded for imposition of a legal sentence. In all other respects, judgment of the court below is hereby affirmed.
+. Post-verdict motions had been previously filed, but were withdrawn prior to sentencing by appellant and his counsel.
+. Act of May 23, 1887, P.L. 158, Sec. 2(b) as amended, 19 P.S. Sec. 683, provides as follows: “Nor shall husband and wife be competent or permitted to testify against each other . . . .” (Emphasis added.)
+. It has been stated that 19 P.S. § 683 is a “prohibition of which both the parties to the suit and the trial judge as well are bound to take notice. Connivance by the parties cannot evade it, nor can indulgence by the court.” Canole v. Allen, supra. See Commonwealth v. Moore, 453 Pa. 302, 307 (1973); Commonwealth v. Stots, 436 Pa. 555, 261 A.2d 577 (1970); In re Ulrich, 267 Pa. 233, 109 A. 922 (1920); Huffman v. Simmons, 131 Pa.Super. 370, 200 A. 274 (1938). Compare 19 P.S. § 683 with 19 P.S. § 684.
+. Commonwealth v. Clair, 458 Pa. 418, 326 A.2d 272 (1974); Commonwealth v. Abruzzese, 231 Pa.Super. 157, 331 A.2d 821 (1974).
+. Because of the disposition of this issue under Commonwealth v. Stots, supra, we do reach the problem of whether this waiver exception is still viable in light of the subsequent and pervasive line of waiver cases, had a valid existing marriage been established with no objection entered at trial.
+. Moreover, Marlene Hamms testified that she married the victim Mancy Hamms, on November 12, 1974, so that she was the spouse of Mr. Hamms, not the appellant, on the day she testified against the appellant. See Commonwealth v. Wilkes, 414 Pa. 246, 199 A.2d 411 (1964).
