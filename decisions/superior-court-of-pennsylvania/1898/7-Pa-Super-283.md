@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 54"
+decided: "1898-04-25"
+citations: ["7 Pa. Super. 283"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Wickham, Beayee, Reedee, Smith and Poe-tee, JJ."]
+parties: ["Appeal of George G. Tarbell et al., in the Matter of the Appointment of Alvoni R. Allen, as Trustee under the Mortgage of the Pa. & W. Va. R. R. Co. to the New England Trust Company."]
+source_url: "https://static.case.law/pa-super/7/cases/0283-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 285495
+cites_cases: ["18 Pa. 179"]
+---
+
+# Appeal of Tarbell
+
+## Majority (Beaver, J.,)
+
+Opinion by
+Beaver, J.,
+The mortgage of the Pennsylvania & West Virginia Railroad Co. to the New England Trust Co., as trustee, dated July 1, 1891, is not printed in the paper-book of either the appellant or appellee. The appellant, however, in his answer to the petition presented by the bondholders’ committee, claiming to represent the bonds secured by the said mortgage, sets out what he alleges is the only provision in said mortgage which relates to the resignation of said trustee and the appointment of a successor, as follows:
+“ Fourteenth. That, in the event of the resignation, neglect, refusal or incapacity to act of the trustee, or any successor or successors in the trust, then the railroad company shall have power and' authority to nominate and appoint a new trustee or trustees, for the purpose of filling the vacancy so caused, provided, however, that any trustee thus nominated and appointed may at any time be superseded by a new appointment made and certified to in writing by the holders of a majority of the said bonds, hereby intended to be secured, then outstanding; and the said trustee or trustees so nominated and appointed shall take upon itself, himself or themselves the same trust and have the same powers and be subject to all the stipulations and conditions of this indenture, all of which trusts, powers, stipulations and conditions it is hereby agreed and declared shall extend to and be performed and executed by said newly appointed trustee or trustees as fully as they can or may or could or might be by the trustee herein, and the like nomination and appointment shall and may be made and carried into effect in like manner and as often from time to time as there may be occasion therefor and with the same effect as before mentioned.”
+This would seem to be the law relating to the resignation or appointment or supersedure of trustees under this mortgage. It is the law of the trust as made by its creator and those who took or hold under the mortgage are bound by these provisions. It evidently recognizes the power of the trustees named to resign, provides for a reappointment, in case of resignation, neglect, refusal or incapacity, and finally vests in the majority of the holders of the bonds secured by the mortgage the power to supersede any appointment which may have been previously made. The appointment of the original trustee was made by the mortgagor. The instrument under which the trust was created could, of course, provide for the continuance or renewal of the trust by the appointment of a trustee or trustees in any way which its maker saw proper, not contrary to law. It is not by any means certain that it was necessary for the bondholders to apply to the court of common pleas of Bedford county for the approval of the appointment of the trustee made by it. Inasmuch, however, as the said court is specially clothed with the appointment of trustees, under the provisions of the 23d section of the Act of June 14,1836, P. L. 634, “ when any sole assignee or trustee shall renounce the trust or refuse to act under or fully execute the same,” and, inasmuch as it was important for all parties in interest that the appointment of. the said trustee should be recognized by the court which would have ultimate jurisdiction of his accounts, we can see no error in the decree of the court, made December 20, 1897, in and by which it was “ ordered, adjudged and decreed that the appointment of the said Alvoni R. Allen by the committee of bondholders, as trustee under the mortgage from the Pennsylvania & West Virginia Railroad Company, which said mortgage is dated July 1,1891, and recorded in said county of Bedford, in Mortgage Boot ‘ Gr,’ page 607, etc., in place of the New England Trust Company resigned, be and the same is hereby approved.”
+It may well be that the committee representing the bondholders preferred to have the appointment of their trustee approved, so as to avoid any cloud u]3on the title under a sale which might be made by the trustee under the foreclosure of the mortgage, in accordance with the provisions of which he was appointed and might be called to act. The decree of the court would seem to be equivalent to a finding of fact that the petitioners were a committee of the holders of a majority of said bonds, outstanding at the time of the decree, intended to be secured by the mortgage. No testimony was taken and the matter was disposed of upon petition and answer.
+Our jurisdiction was distinctly recognized and assented to hy both appellant and appellee, as per stipulation filed at the argument. Under all the facts as stated by the appellant in his statement and so many of those contained in the counterstatement of the appellee as are not denied in the appellant’s reply, we can see no error in the action of the court below.
+The decree is, therefore affirmed.
