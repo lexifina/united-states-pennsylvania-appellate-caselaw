@@ -1,0 +1,52 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 28"
+decided: "1914-07-15"
+citations: ["58 Pa. Super. 355"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Orladt, Head, Porter, Henderson, Kephart and Trexler, JJ."]
+parties: ["Edmonson’s License."]
+source_url: "https://static.case.law/pa-super/58/cases/0355-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 446305
+cites_cases: ["11 Pa. Superior Ct. 560", "11 Pa. Superior Ct. 569", "11 W. N. C. 31", "124 Pa. 203", "127 Pa. 330", "139 Pa. 354", "148 Pa. 199", "15 W. N. C. 129", "20 Pa. Superior Ct. 95", "217 Pa. 182", "218 Pa. 581", "28 Pa. Superior Ct. 323", "34 Pa. Superior Ct. 535", "65 Pa. 16", "72 Pa. 200", "79 Pa. 303", "9 Pa. Superior Ct. 371", "9 Pa. Superior Ct. 647"]
+---
+
+# Edmonson's License
+
+## Majority (Sloan, P. J., Henderson, J.,)
+
+Sloan, P. J.,
+filed the following opinion:
+The applicant filed his petition in the court of quarter sessions for a license to sell intoxicating liquors at the Edenburg house.
+The petition is in due form and certified to by twenty-eight qualified electors of the borough of Edenburg. Upon the hearing of the case two witnesses called on the part of the remonstrants testified that in their opinion, there was no necessity for a hotel in the borough of Edenburg for the sale of jliquor.
+travelers and strangers for the remonstrants, or Five witnesses were called for the applicant, all of whom testified that it wa¡s necessary for the applicant to have a license to sell intoxicants for the entertainment of in that district; the witnesses those objecting to the granting of the license, having admitted the necessity for a hotel for the public accommodation, but that it was not necessary for the sale of liquor. This brings us to the point, whether or not the license should be granted where it is admitted, or shown by proof that the hotel is necessary for the public accommodations.
+Lester’s Appeal, 10 Central Reports, is a case decided by the Supreme Court, which, as we understand, substantially rules that where there is a necessity for a house to accommodate the traveling public, license to sell liquor should follow.
+In Rezner’s App., reported in 34 Pa. Superior Ct. 535, this same point was before the Superior Court, but it does not seem that Lester’s Appeal was called to the attention of that court, and no mention is made of that case in their opinion.
+In the last case cited, the court holds that the question of the necessity of the hotel, when admitted, is a strong inference that the license to sell intoxicating liquors is necessary, and uses these words:
+“It may be conceded that proof that the appl.cant’s place is necessary for the accommodation of the public, and the entertainment of strangers or travelers goes very far to move in a proper way the discretion of the court, and to warrant its inference that the license applied for is necessary.”
+All the evidence on the part of the applicant and the remonstrants show that there is a necessity for a hotel in the borough of Edenburg to accommodate strangers and travelers, and from the above rulings which we are bound to follow, a license should be granted in the borough of Edenburg for the accommodation of the public.
+There are now two hotels located in that borough, that have been licensed to sell intoxicating drink for a long period of years.
+When these applicants came up for renewal of their license, and after hearing the evidence, and considering the same, along with the remonstrance, we were inclined to the opinion that one license might be all that was necessary to accommodate the public in that place, and license at the Knox Inn was granted, and that of the Edenburg House was held over for future consideration, our idea being to limit the number of licenses applied for in the several districts to the minimum number necessary to accommodate the public, and entertainment of strangers and travelers.
+Since then, a petition has been presented to the court, signed by a number of citizens, all electors of the borough of Edenburg, as follows:
+“We the undersigned Electors of the Borough of Edenburg, Clarion County, Pennsylvania, Respectfully Represent that when the Remonstrance was signed against the granting of Liquor License to the Knox Inn and Edenburg House in this place, it was with the understanding that the same objections were to apply to each of the Hotels and that both would be either granted or refused, and whereas the Honorable Court has granted License to the Knox Inn we therefore respectfully represent that it is just as necessary, that we have two License Houses here as one and we respectfully Petition the Honorable Court that the Petition of the Edenburg House be granted, and we'will ever pray.”
+While we fail to understand their philosophy, we have no desire to criticise their action, and will consider the petition.
+To file this petition at the present time would be in violation of the rules of court covering such cases, but in this particular case, and owing to the fact that the remonstrants having failed to express themselves clearly, and signed the same with the understanding that it was to apply against both hotels, and that either both or none should be granted, we feel like relaxing the rule and permitting the same ^ to be filed and considered.
+• F. J. Maffett, of Maffett & Rimer, with him Corbett & Rugh, for appellants.
+The right to a license depending wholly upon statutes, the applicant must show to the court that he has strictly complied with all of the requirements of the law: Schlaudecker’s Case, 72 Pa. 200; Jones v. Beale, 217 Pa. 182; Tenth Nat., etc., Bank v. Smith Construction Co., 218 Pa. 581; Behny v. Bassler, 4 Pa. C. C. Rep. 496.
+The court clearly violated its rule, Ap., p. 13 by receiving and considering a petition after the argument, not filed until more than six weeks after the time specified by the rule: Knoblauch’s License, 28 Pa. Superior Ct. 323; Brennen’s Estate, 65 Pa. 16; Gann v. Fritz, 79 Pa. 303; Todd v. Insurance Co., 9 Pa. Superior Ct. 371.
+The original petition contains the names of twenty-eight signers, and the supplemental petition the names of fifty-six, making eighty-four qualified electors, who aver that a license to sell liquor is necessary at the Edenburg House. The average bar receipts during last year was $20.00 a day, as shown by the evidence in the case.
+This clearly shows a demand for license to sell intoxicants at this place. The signers of the qualified electors to the petition outnumber those of the remonstrants.
+The following order is made:
+And now, April 13, 1914, after hearing of petitioners and remonstrants, and the evidence, and argument of counsel, and due consideration given thereto, license is hereby granted, and the clerk is ordered and directed to issue the same according to law.
+Error assigned was the order of the court.
+J. T. Reinsel, for appellee.
+We submit to the court that it is without jurisdiction to determine the matter sought to be raised by the appellants in this appeal: Sweeney’s License, 11 Pa. Superior Ct. 569; McBeth v. Newlin, 15 W. N. C. 129; Donovan’s License, 9 Pa. Superior Ct. 647; Carlson’s License, 127 Pa. 330; Weaver’s License, 20 Pa. Superior Ct. 95; McCabe’s License, 11 Pa. Superior Ct. 560.
+The suspension of a rule within the exercise of a sound discretion will not be adversely reviewed: Collins v. Leafey, 124 Pa. 203; Peck’s App., 11 W. N. C. 31; Brennan v. Prudential Ins. Co., 148 Pa. 199.
+July 15, 1914:
+Opinion bt
+Henderson, J.,
+We do not consider it necessary to discuss the question whether the special Act of April 14, 1851, P. L. 548, as amended by the Act of May 8, 1854, P. L. 633, is repealed by the act of May 13, 1887. The special statute applicable to Clarion county provided that in an application for tavern licenses where objections are made the signers to the petition of the applicant shall appear and be sworn in open court to the truth of the petition and the necessity for the said tavern for the accommodation of strangers and travelers. The act of 1854 contained the following amendment of the act of 1851: “Provided it- shall be sufficient if a majority of such signers for a license appear in court to testify as provided for in said action.” The act has reference to the procedure under an application for a “tavern” license and to the evidence necessary to be produced in support of the petition. Under the act of 1854 it is only required that a majority.of the signers for the license appear in court to testify. The acts both relate to the production of evidence but the evidence is not brought up with the record. The appeal is a substitute for a certiorari and we cannot review the procedure in the court below as disclosed by the evidence: Berg’s App., 139 Pa. 354. The record shows that after hearing by evidence, petition, remonstrance and arguments of counsel and due consideration given thereto the license was granted as prayed for and the bond approved. There is nothing on the record to show that the hearing was not regularly conducted in accordance with law. It’ is true that after the cases were presented to the court for consideration a request was made on behalf of remonstrants asking the court to find as a fact that in the hearing before, the court a majority of the signers to the petition of the applicant did not appear and were not sworn in open court to the truth of the petition and the necessity for the license but the court refused so to find and we have nothing properly before us on the subject. Comment is made in the argument on the fact that the court received a petition in support of the application after the time fixed by a rule of court limiting the date of such filing, but this is not assigned for error nor do we regard it as a violation of the rule. The petition was rather a withdrawal of the remonstrance theretofore presented by the signers, the withdrawal being induced by the fact that the court had granted one license in the borough and was holding this application under advisement. The remonstrants were opposed to any license but when one was granted they desired to withdraw their objection to the other.
+There being nothing in the record to impeach the regularity of the action of the court the order is affirmed at the cost of the appellants.
