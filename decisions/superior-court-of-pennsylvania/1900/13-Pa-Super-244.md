@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 23"
+decided: "1900-03-21"
+citations: ["13 Pa. Super. 244"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlad y, W. W. Porter, W. D. Porter and Mitchell, JJ.", "Before Bennett, J."]
+parties: ["Daniel S. Gallagher and Tague Gallagher, trading as Gallagher Brothers, v. Patrick Burke, Catherine Burke and James Burke, Appellants."]
+source_url: "https://static.case.law/pa-super/13/cases/0244-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 825602
+cites_cases: ["1 Pa. 190", "10 Pa. 151", "102 Ind. 443", "123 Pa. 140", "176 Pa. 594", "34 Pa. 48", "4 Rawle, 339", "5 Watts, 516", "63 Ill. 430", "69 Pa. 326", "76 Mass. 285", "79 Pa. 462", "88 Pa. 450", "91 Pa. 822"]
+---
+
+# Gallagher v. Burke
+
+## Majority (William W. Porter, J.,)
+
+Opinion by
+William W. Porter, J.,
+The assignments of error are four in number. The first is to a part of the charge. If anything is clear in this case it is that it turns on the question, whether there was an extension of the lease between the parties as to the part of the property used as adiquor store-room. So the trial judge rightly said, and submitted the question of fact to the jury for decision. But little stress is laid upon the first assignment. We dismiss it.
+It is claimed by the second assignment that the presentation made by the, portion of the charge therein quoted excludes the submission to the jury of the question, whether there had been a technical eviction. It is an objection to an omission. It is groundless. By no point submitted by the defendants, was the trial judge requested to instruct the jury on the subject. As developed by their evidence and as shown by the points of charge submitted, the defendants tried their case on the theory that they had a right to the possession of the liquor-room; that the prior lease had not been extended and that their entry was for the purpose of taking permanent possession. The testimony does not indicate that the entry was intended to be transient. Had the question of eviction pointedly been raised, it is possible that the court below would have been warranted in saying to the jury that if they believed that the lease had been extended, as claimed by the plaintiffs, the acts of the defendants amounted to an eviction. The term eviction is no longer restricted in application to its original meaning of ouster by title paramount, or to a total deprivation of possession by the landlord. “ Any act of the landlord which deprives the tenant of that beneficial enjoyment of the premises to which he is entitled under the lease will amount in law to an eviction: ” Hoeveler v. Fleming, 91 Pa. 822. The court was not bound to rule upon this, however. The theory upon which the case was tried in the court below is the one upon which it must be decided here. The defendants attempted to justify their action, not on the basis of a transient trespass mistakenly committed, but on the ground of a right to a present and permanent retention of possession. In this view the trial judge was warranted in assuming, from the acts of the defendants proved and the claim of right made, that the defendants intended to permanently deprive the plaintiffs 'of the possession of the store. The first part of the clause of the charge to which objection is made is an application of the principle stated in Irwin v. Nolde, 176 Pa. 594, that in the case of a trespass by a landlord “ the real loss is the value of the use of the part taken in connection with that which remains, and is measured by the difference in rental value.” The second part of the clause is justified by the case of Seyfort v. Bean, 88 Pa. 450. We are unable to see that this part of the charge opens the door to the recovery of any damages to which the plaintiffs were not entitled on a finding bjr the jury that they held under a renewal of the original lease.
+The third and fourth assignments raise this question : Was error committed in permitting the jury to award exemplary damages in case they found malice or wantonness ? There was some evidence in the words and acts of the defendants testified to, which might warrant the jury in finding that the trespass of the defendants was malicious and wanton. If they so found, then they were warranted in measuring the damages by the punitive or exemplary standard. The court so instructed them. “ It is the duty of the court to submit a question of the kind of damages that may be given, to the jury, if there be evidence of aggravation or oppression. Compensation is the rule in the absence of such circumstances. Exemplary damages may follow in the wake of their existence, but there must be evidence on the point. If there is, it is proper to submit it to the jury for the ascertainment of the circumstances that constitute oppression and aggravation. The facts may or may not satisfy a jury that exemplary damages should be given, but they alone can dispose of the evidence, if there be any on the subject: ” Nagle v. Mullison, 34 Pa. 48. See also Pittsburg, etc., Ry. Co. v. Lyon, 123 Pa. 140.
+We are of opinion that no error was committed by the court below, and the judgment is therefore affirmed.
