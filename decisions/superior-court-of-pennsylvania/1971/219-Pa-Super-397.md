@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 153 and 154"
+decided: "1971-09-21"
+citations: ["219 Pa. Super. 397"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. J., Watkins, Montgomery, Jacobs, Spaulding, and Cercone, JJ. (Hoffman, J., absent)."]
+parties: ["Graev et al. v. Mandell, Appellant."]
+source_url: "https://static.case.law/pa-super/219/cases/0397-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 796938
+cites_cases: ["120 A. 762", "146 Pa. Superior Ct. 509", "150 A. 2d 553", "151 Pa. Superior Ct. 45", "167 Pa. Superior Ct. 143", "189 Pa. Superior Ct. 322", "23 A. 2d 244", "277 Pa. 196", "29 A. 2d 366", "74 A. 2d 670"]
+---
+
+# Graev v. Mandell
+
+## Majority (Montgomery, J.,)
+
+Opinion by
+Montgomery, J.,
+In this action of trespass Joseph Gaev recovered a verdict of $24,181.70 on account of personal injuries to himself and for the death of his wife, Irene Gaev, and the estate of Irene Gaev recovered $11,445.75 on account of her death. Defendant’s motions for a new trial and for judgment n.o.v. having been refused and judgments entered on the verdicts, these appeals by defendant followed.
+The accident out of which these claims arose occurred after dark on March 31, 1967, at about 7:50 p.m,, on the northerly one half of Stenton Avenue about 150 feet west of Broad Street in the City of Philadelphia. Defendant testified that on this dry, clear evening he had driven his Chevrolet automobile, with headlights burning, north on Broad Street; he made a left turn into Stenton Avenue, which is 60 feet wide and accommodates three lanes of traffic in both directions (two moving and one for parking) ; after proceeding west on Stenton Avenue at 30 miles per hour on the lane nearest the center line of that street he saw two people walking north about two to three feet from the center line of Stenton Avenue three car lengths, or about 60 feet to 72 feet, in front of his car; and he tried to stop and in doing so skidded his wheels 52 feet, veered over to his right a couple (two) feet and struck such persons in the middle of lanes two and three with the “front right side of the hood” of his car while still traveling at a speed of 10 to 15 miles per hour.
+On the basis of this testimony the defendant requested in his point 17 that the court charge the jury as follows:
+“17. ‘The driver of any vehicle, street car, or trackless trolley omnibus, upon a highway within a business or residence district shall yield the right of way to a pedestrian crossing such highway within a crosswalk, except at intersections where the movement of traffic is being regulated by a police officer or traffic signal. Every pedestrian crossing a highway within a business or residence district, at any point other than a crosswalk, shall yield the right of way to vehicles upon the highway.’ The Vehicle Code, 1959 April 29, P. L. 58, §101, 75 P.S. §1013(c).” This point was not read as submitted, the court saying, “No. 17, I covered that to the jury about the crosswalk, that a person crossing not at a crosswalk has a high degree of care and the operator of a motor vehicle has a lesser degree of care”, to which ruling defendant took a specific acceptance.
+Presumably the court referred to the following passage in the charge. “. . . a pedestrian should obviously cross at a crosswalk whenever possible. The fact that one crosses at a place other than a crosswalk is not of itself negligence, however, so long as that person in crossing at a place other than a crosswalk exercises a high degree of care. They must be constantly on the lookout and not cross unless the circumstances warrant a reasonable person to believe that he can cross with safety at that point.”
+The testimony of Bobert Hemphill, a witness for the plaintiff, should also be given consideration to better understand the situation we are dealing with. This witness testified that he first saw two people (identified as Mr. and Mrs. Gaev) crossing the eastbound lanes of Stenton Avenue, walking between lines of stopped cars which were waiting for the light at Broad Street to change, that he saw the defendant’s car on Stenton Avenue, and that these two people walked “in front of the path of the automobile” and were struck by it.
+Under this view of the accident we have no difficulty in concluding that it presented a situation where the two pedestrians should have recognized the superior right of way of the approaching car and stopped before proceeding into its path. Therefore, the jury should have had explained to it the rights and responsibility of the parties as set forth in point 17 taken from Section 1013(c) of The Vehicle Code. The lower court agreed that this was proper but, in our opinion, was mistaken when it considered its charge on this point to be an adequate explanation.
+The passage from the charge, quoted above, means only that a pedestrian crossing a highway at a place other than at the crosswalk must exercise a high degree of care for his own safety. It does not convey the idea that he must also recognize the superior rights of motor vehicles on the highway and yield to them. There is a difference. The latter means that such a pedestrian should not risk injury even with the exercise of a high degree of care and should await the exercise of the right of passage by the motorist before crossing the street, unless the facts and circumstances are such that a reasonably prudent person could cross safely without taking an obvious chance. Bell v. Dugan, 189 Pa. Superior Ct. 322, 150 A. 2d 553 (1959). Furthermore, what would be negligence at an intersection is not necessarily negligence between crossings: there a vehicle need not be under instant control; drivers are not required to sound their horns; and automobiles have the right of way over pedestrians. McAvoy v. Kromer, 277 Pa. 196, 120 A. 762 (1923). There is also another reason why this matter should have been more fully explained to the jury. A person having the right of way has the right to presume that others will comply wdth the duty to recognize it and yield to it. Robinson v. Ondack, 151 Pa. Superior Ct. 45, 29 A. 2d 366 (1942).
+We must, therefore, conclude that it was error for the trial judge to refuse this point, requiring a new trial. Dandridge v. Exhibitors Service Company, 167 Pa. Superior Ct. 143, 74 A. 2d 670 (1950) ; Rigberg v. Truskey, 146 Pa. Superior Ct. 509, 23 A. 2d 244 (1941).
+Tn view of the above conclusion, we will not discuss the other assignment of error.
+Judgments reversed and a new trial awarded.
