@@ -1,0 +1,92 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "2912 C.D. 1993"
+decided: "1994-09-30"
+citations: ["167 Pa. Commw. 693", "648 A.2d 1339"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before SMITH and KELLEY, JJ., and KELTON, Senior Judge."]
+parties: ["Eleanor T. FILOON, Petitioner, v. PENNSYLVANIA PUBLIC UTILITY COMMISSION, Respondent."]
+source_url: "https://static.case.law/pa-commw/167/cases/0693-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1466739
+cites_cases: ["151 Pa.Commonwealth Ct. 562", "493 A.2d 653", "507 Pa. 561", "534 Pa. 654", "627 A.2d 731"]
+---
+
+# Filoon v. Pennsylvania Public Utility Commission
+
+## Majority (KELLEY, Judge.)
+
+KELLEY, Judge.
+Eleanor T. Filoon appeals pro se from an order of the Pennsylvania Public Utility Commission (PUC), which granted in part and denied in part Filoon’s exceptions to the initial decision of the administrative law judge (ALJ) dismissing a formal complaint filed by Filoon against Bell Telephone Company of Pennsylvania (Bell) .We affirm.
+On March 12, 1992, Filoon filed a formal complaint against Bell alleging a conspiracy between Bell and Bell’s bank to repeatedly submit for payment, checks for which there were insufficient funds, in order to assess multiple return check charges against Filoon. Filoon’s complaint also questioned the amount of her telephone bills. Filoon requested a public hearing and that her telephone bill be credited for the return check charges.
+Bell filed an answer to Filoon’s complaint on April 6, 1992, in which Bell admitted to having a policy of imposing a $15.00 charge for returned checks. However, Bell asserted, that it presents a check for payment only once to its deposit bank; that it has no control over how many times the deposit bank may present checks for payment to the drawee bank; and, that it receives no remuneration when its deposit bank makes several presentments of a check to the drawee bank.
+In addition, Bell asserted a counterclaim in its answer, wherein it alleged, inter alia, that Filoon had not made any payment to Bell since a bill dated June 1991. Accordingly, Bell asked that the complaint be dismissed and that Filoon be directed to pay her arrearage within ten (10) days.
+A hearing was held before the ALJ on May 28, 1992, wherein Filoon appeared pro se. The facts in this matter, as found by the ALJ and adopted by the PUC, are as follows:
+1. On or about May 15, 1991, Complainant issued a check to Bell for $200.31 as payment on her account. Same was returned for insufficient funds on June 17, 1991.
+2. Bell assessed Complainant a $15.00 charge in accordance with its tariff for the dishonored check.
+3. Complainant does not dispute Bell’s charge.
+4. Complainant’s bank (First Valley Bank) charged Complainant $30.00 for not having sufficient funds to cover said check of $200.31 which Complainant does not dispute.
+5. On or about July 24, 1991, Complainant issued a check to Bell for $286.22 as payment on her account. Same was returned on August 29, 1991 for insufficient funds.
+6. Bell assessed Complainant $15.00 for the $286.22 dishonored check in accordance with its tariff.
+7. Complainant does not dispute Bell’[s [sic] charge.
+8. Bell deposited the $286.22 check dated July 24, 1991 with its bank (Corestates), which in turn presented it for payment to Complainant’s bank (First Valley Bank), but it was dishonored for non-sufficient funds.
+9. First Valley Bank charged Complainant $30.00 for not having sufficient funds to cover the check.
+10. Complainant does ont [sic] dispute this $30.00 charge.
+11. Thereafter, Corestates again presented the $286.22 check for payment to First Valley Bank on August 7, 1991 and on August 12, 1991, but it was dishonored on both occasions and the check was returned to Bell on August 29, 1991.
+12. First Valley bank charged Complainant an additional $30.00 for each presentment, totalling $60.00.
+13. Complainant paid the $286.22 in cash to Bell after the check was returned.
+14. Complainant seeks credit of the $60.00 against her telephone bill of $506.24.
+15. Bell received no portion of the $90.00 in bank charges assessed by First Valley Bank upon Complainant.
+16. Bell deposited the $286.22 check only one time with its bank, Corestates.
+17. Bell has no special arrangement with Corestates concerning resubmission of checks by Corestates to a customers’ bank for payment and does not dictate bank policy concerning same.
+18. Bell complied with its tariff regarding return check charges.
+19. As of May 1, 1992, Complainant’s balance was $506.24.
+20. Complainant does not dispute this balance of $506.24.
+21. Complainant’s last payment was August 16, 1991.
+22. Complainant seeks to pay her balance over a four month period and seeks a credit of $60.00 for the disputed bank charges.
+23. Bell agrees to accept Complainant’ [sic] repayment schedule with respect to a four month pay-out period. No arrangement was agreed upon between the parties as to the $60.00 in bank charges.
+Based upon the foregoing findings of fact, the ALJ reached the following conclusions of law:
+1. The Commission has jurisdiction over the parties and subject matter in this proceeding.
+2. The Commission does not have jurisdiction over banking and banking practices.
+3. The Commission does not have jurisdiction to award as damages against Bell Telephone Company of Pennsylvania charges assessed to Complainant by her bank for dishonored checks.
+Accordingly, the ALJ recommended dismissal of Filoon’s complaint and directed her to pay Bell for current service, plus an additional $126.56 per month until her arrearage was satisfied.
+Filoon filed timely exceptions with the PUC to the ALJ’s decision taking exception to:
+1. Any references which the ALJ made to Corestates Bank as Bell’s bank because Philadelphia National Bank is Bell’s bank with which Bell has an arrangement to profit from Bell’s returned check procedures;
+2. Erroneous findings made by the ALJ, to the effect that Filoon does not dispute Bell’s charges or does not dispute the amount which she owes to Bell;
+3. The ALJ’s ignorance of Filoon’s evidence, in particular her proof that she paid Bell $286.22 in cash on August 16, 1991;
+4. The ALJ’s erroneous conclusion that the PUC does not have jurisdiction over the banking practices of Bell’s banks, as regards to return check procedures.
+The PUC granted Filoon’s exceptions to the extent that the ALJ found that Bell did not dispute the $15.00 returned check fee charged to her by Bell. The PUC denied the remainder of Filoon’s exceptions and ordered, inter alia, that Filoon’s complaint be dismissed and that Filoon shall pay all current monthly telephone charges when due, plus $126.56 each month toward her outstanding balance, until that balance is paid in full. This appeal followed.
+Initially, we note that our scope of review of a decision of the PUC is to determine whether constitutional rights have been violated or an error of law committed, and whether the PUC’s findings are unsupported by substantial evidence in the record. Barasch v. Pennsylvania Public Utility Commission, 507 Pa. 561, 493 A.2d 653 (1985).
+On appeal, Filoon sets forth two issues for our review: (1) whether the PUC properly affirmed the decision of the administrative law judge which denied Filoon jurisdiction and redress of the confiscation of her property; and (2) whether the PUC violated Filoon’s constitutional rights of due process of law in their decision.
+It is clear from the language of the Public Utility Code (Code) that the PUC was correct in its conclusion that it has no jurisdiction over banking and banking practices nor does it have jurisdiction to award as damages against Bell charges assessed to Filoon by her bank for dishonored checks. Section 501 of the Code sets forth the general powers of the PUC and provides, in part, as follows:
+(b) Administrative authority and regulations. — The commission shall have general administrative power and authority to supervise and regulate all public utilities doing business within this Commonwealth____
+66 Pa.C.S. § 501(b).
+Section 102 of the Code defines a public utility as:
+(1) Any person or corporations now or hereafter owning or operating in this Commonwealth equipment or facilities for:
+(i) Producing, generating, transmitting, distributing or furnishing natural or artificial gas, electricity or steam for the production of light, heat, or power to or for the public for compensation.
+(ii) Diverting, developing, pumping, impounding, distributing, or furnishing water to or for the public for compensation.
+(in) Transporting passengers or property as a common carrier.
+(iv) Use as a canal, turnpike, tunnel, bridge, wharf and the like for public compensation.
+(v) Transporting or conveying natural or artificial gas, crude oil, gasoline, or petroleum products, materials for refrigeration, or oxygen or nitrogen, or other fluid substance, by pipeline or conduit, for the public for compensation.
+(vi) Conveying, or transmitting messages or communications, except as set forth in paragraph (2)(iv), by telephone or telegraph, or domestic public land mobile radio service, including, but not limited to, point-to-point microwave radio service to the public for compensation.
+(vii) Sewage collection, treatment, or disposal for the public for compensation.
+66 Pa.C.S. § 102.
+Nowhere in section 102 or the provisions of the Code is banking or the regulation thereof mentioned as being a public utility service. It is the Department of Banking that has jurisdiction over the regulation of corporations or persons which are authorized to engage or which do engage in this Commonwealth in a banking business. See Department of Banking Code, Act of May 15,1933, P.L. 565, as amended, 71. P.S. §§ 733-201 — 733-204.
+The subject matter to which the PUC has jurisdiction over includes the formal complaint that Filoon filed against Bell as provided by section 701 of the Code. In her formal complaint, Filoon was questioning the $15.00 charged by Bell for Filoon’s returned check. Thereafter, before the ALJ, Filoon testified that she was requesting the return of the $60.00 in charges assessed against her bank account by her bank. However, as discussed above, it is clear that the PUC has no jurisdiction to award damages to Filoon for charges assessed against Filoon’s bank account by her own bank for processing dishonored checks.
+Filoon argues that under section 1302 of the Code, the PUC has co-jurisdiction over Bell’s bank because the bank is a national bank under federal guidelines. However, section 1302 governs the filing and inspection of tariffs with the PUC by a public utility showing the rates established, collected or enforced by that public utility. 66 Pa.C.S. § 1302.
+Although section 1302 contains one sentence mandating that the “tariffs of any public utility also subject to the jurisdiction of a Federal regulatory body shall correspond, ... to the form of those prescribed by such Federal regulatory body,” it clearly governs the filing of tariffs with the PUC. It in no way bestows co-jurisdiction upon the PUC over Bell’s bank because Bell’s bank is a national bank regulated by the federal government.
+Filoon also argues that under section 2102 of the Code, Bell’s bank is an affiliated interest of Bell; therefore, the PUC has jurisdiction over any agreement relating to banking services between Bell and Bell’s bank. We disagree.
+Under section 2102, the PUC must approve any contract or arrangement between a public utility and any affiliated interest. 66 Pa.C.S. § 2102. Section 2101 of the Code, definitions of affiliated interest, defines what affiliated interest with a public utility means. See 66 Pa.C.S. § 2101. A review of the record in this case reveals no evidence establishing that Bell’s bank is an affiliated interest with Bell nor has Filoon offered any support in her brief to prove that such a relationship exists.
+Next, Filoon contends that the PUC violated her constitutional rights to due process of law in their decision. Filoon argues in her reply brief that she was denied a full and evidentiary hearing and consideration of briefs and arguments by the PUC concerning adequacy of telephone company service. We disagree.
+Filoon took advantage of her right to file a formal complaint against Bell with the PUC. In her formal complaint, Filoon complained of the $15.00 charged to her by Bell for the return of a dishonored check. A hearing was held before an ALJ wherein Filoon was given every opportunity to present her complaint including any additional complaint she may have had regarding the adequacy of telephone company service, Moreover, the record reveals that because Filoon was not represented by counsel, the ALJ assisted Filoon to the extent necessary in the presentation of her case. Filoon then took advantage of the opportunity to file timely exceptions to the ALJ’s decision with the PUC. It is clear that Filoon was not denied an opportunity to appear nor a full evidentiary hearing by the PUC.
+Accordingly, the order of the PUC is affirmed.
+ORDER
+NOW, this 30th day of September, 1994, the order of the Pennsylvania Public Utility Commission, dated November 4, 1993, at No. C-00923887, is affirmed.
+. Bell Telephone Company of Pennsylvania is now known as Bell Atlantic-Pennsylvania, Inc.
+. Filoon sets forth several more issues in her reply brief filed in this matter. This court wishes to point out to Filoon that, in accordance with the Rules of Appellate Procedure, a reply brief may be filed in order to reply to matters raised by appellee’s brief not previously raised in appellant’s brief. See Pa.R.A.P. 2113. A reply brief may not be used as an opportunity to raise additional issues on appeal. Park v. Chronister, 151 Pa.Commonwealth Ct. 562, 617 A.2d 863 (1992), appeal clenied, 534 Pa. 654, 627 A.2d 731 (1993). Accordingly, this court will not address any additional issues raised by Filoon in her reply brief which have not already been raised by her initial brief.
+. 66 Pa.C.S. §§ 101-3315.
+. Section 701 provides that:
+The commission, or any person, corporation, or municipal corporation having an interest in the subject matter, or any public utility concerned, may complain in writing, setting forth any act or thing done or omitted to be done by any public utility in violation, or claimed violation, of any law which the commission has jurisdiction to administer, or of any regulation or order of the commission....
+66 Pa.C.S. § 701.
