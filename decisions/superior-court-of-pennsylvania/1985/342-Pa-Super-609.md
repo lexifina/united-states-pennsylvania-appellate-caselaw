@@ -1,0 +1,36 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "01109"
+decided: "1985-05-24"
+citations: ["342 Pa. Super. 609", "493 A.2d 758"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before OLSZEWSKI, HESTER and SHIOMOS, JJ."]
+parties: ["David W. PATO and Rita Pato, his wife v. John CERNUSKA and Catherine Cernuska, his wife, Appellants."]
+source_url: "https://static.case.law/pa-super/342/cases/0609-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 632935
+cites_cases: ["120 A.2d 170", "133 A. 377", "286 Pa. 273", "295 Pa.Super. 146", "367 Pa. 353", "384 Pa. 198", "80 A.2d 853"]
+---
+
+# Pato v. Cernuska
+
+## Majority (HESTER, Judge:)
+
+HESTER, Judge:
+David and Rita Pato, appellees (hereinafter Patos), instituted an action in ejectment in the Court of Common Pleas of Fayette County against John and Catherine Cernuska (hereinafter Cernuskas). Both parties claimed ownership of a disputed tract of land. Following a non-jury trial, the court found in favor of Patos. The Fayette County Court en banc dismissed appellants’ exceptions to the trial court’s findings of fact and conclusions of law on August 12, 1983. This appeal followed.
+The facts of the case may be summarized as follows. Mark and Ada Sugarman owned a parcel of land in Fayette County. They conveyed a portion of the land to Emery and Dessie Morrow in 1952, and purported to convey a portion to Cernuskas in 1968. Dessie Morrow, then a widow, conveyed her tract to David Pato, then unmarried, in 1975. Following his purchase of the property, Pato made demand upon Cernuskas to discontinue using the disputed tract of land as a garden. When appellants refused, Patos brought this action in ejectment to establish their ownership of the disputed portion of the property.
+In determining ownership of the disputed property, the trial court found that there was an inconsistency between the call for monuments and the call for distances in the Sugarman to Morrow deed description. The deed conveyed an area of 1.541 acres and recited the distance between the monuments (old Rt. 51 and the eastern line of the Elwell Branch of the Pittsburgh, McKeesport, Youghiogheny Railroad right-of-way, which is now new Rt. 51), to be 165 feet. The trial court further found that the actual distance between the monuments exceeds 400 feet. Cernuskas argued at trial, and argue here, that Sugarman (and therefore Morrow) did not convey more than 165 feet. Pato maintained that the call for distances is incorrect, and that the deed actually conveyed the entire area between old Rt. 51 and new Rt. 51, based upon the call for monuments. The trial court agreed with Patos, and appellants now assert that the trial court erred.
+The findings of a trial judge sitting without a.jury carry the same weight as a jury verdict, and we will not disturb those findings on appeal absent an error of law or abuse of discretion. Bigham v. Wenschhof, 295 Pa.Super. 146, 441 A.2d 391 (1982). With this standard in mind, we cannot say that the trial court erred in applying the rule that permanent monuments prevail over courses and distances in a deed description. N.Y. State Natural Gas Corp. v. Roeder, 384 Pa. 198, 120 A.2d 170 (1956).
+Appellants argue that this court should not apply the above proposition of law because it leads to an absurd result, Post v. Wilkes-Barre Connecting Railroad Co., 286 Pa. 273, 133 A. 377 (1926), in that it enlarges Patos’ land to more than double its original size. Appellants assert that since the location of the monuments, as set forth in the deed, is doubtful, we should resort to, and rely upon, the distances set forth therein.
+The trial court found that the monuments referred to in the deed were the Elwell Branch of the Pittsburgh, McKeesport, Youghiogheny Railroad right-of-way on the east, and a 20-foot alley running parallel thereto on the west. Appellants argue that the trial court disregarded the existence of similar monuments located at the 165 foot mark, thereby giving support to their assertion that the call for distances is accurate and should prevail. The county court en banc rejected this argument.
+[T]he description in the ... deed clearly demonstrates that the westerly line of the parcel runs concurrent with the western side of a 20-foot alley and the eastern side of the Elwell Branch of the Pittsburgh, McKeesport, Youghiogheny Railroad right-of-way. It is for this reason that [Cernuskas’] argument is untenable. The railroad arc to which they refer does not run parallel to the 20-foot alley maintained by them to be the alley described in the deed and, accordingly, their eastern and western boundary lines could not coincide.
+(Record at 330a).
+Furthermore, Exhibit 9, introduced at trial by appellants, shows the area to which the parties claim ownership as it existed prior to the Sugarman to Morrow conveyance. Not only does Exhibit 9 show the right-of-way as running parallel to the 20-foot alley, it also establishes that the parcel contained 1.541 acres. This consistency between Exhibit 9 and the call for distances in the deed description was relied upon by the court en banc in affirming the trial court’s conclusion that the parcel conveyed by Sugarman to Morrow was the parcel of land described in Cernuskas’ Exhibit 9. As the court’s conclusion is supported by competent evidence, that finding will not be disturbed.
+Appellants also argue that Patos are not bona fide purchasers entitled to the protection of the Recording Acts. “[I]t has long been settled that it is the duty of a purchaser of real property to make inquiry respecting the rights of the party in possession and failing to do so they are affected with constructive notice of such facts as would have [been disclosed]____” Malamed v. Sedelsky, 367 Pa. 353, 357, 80 A.2d 853, 855 (1951).
+Testimony at trial reveals that David Pato asked Dessie Morrow why appellants were using the disputed property, and was told they only had permission to use it. (R. 37a-40a). Further, appellants’ use of the disputed property was not exclusive since Dessie Morrow, Patos’ predecessor in title, used the same area. (R. 256a-57a).
+We believe that whether or not Patos had notice of Cernuskas’ use of the disputed property is irrelevant to the issue in this case. Appellees are entitled to rely upon the strength of their title, and to prove that their record title is superior to that of Cernuskas. This they have done.
+Order affirmed.
+. Since Cernuskas argued that the deed from Dessie Morrow to Patos, based upon Patos’ interpretation of the deed description, purported to convey an area in excess of the land conveyed to Morrows by Sugar-man, the Court was required to determine the parcel actually conveyed from Sugarman to Morrow in order to determine ownership of the disputed tract. The Sugarman to Morrow deed and the Morrow to Pato deed both contained the same inconsistency between the call for monuments and the call for distances.
+Furthermore, if the court determined that Sugarman conveyed the disputed area to the Morrows in 1952, Sugarman obviously could not have conveyed the land in question to Cernuskas in 1968.
