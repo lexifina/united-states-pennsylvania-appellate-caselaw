@@ -1,0 +1,35 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 185"
+decided: "1939-07-13"
+citations: ["136 Pa. Super. 549"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Stadtfeld, Parker, Rhodes and Hirt, JJ."]
+parties: ["First National Bank of Koppel, for use, Appellant, v. Mount et al."]
+source_url: "https://static.case.law/pa-super/136/cases/0549-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1018218
+cites_cases: ["101 A. 349", "193 Pa. 527", "257 Pa. 163", "45 A. 317"]
+---
+
+# First National Bank v. Mount
+
+## Majority (Baldrige, J.,)
+
+Opinion by
+Baldrige, J.,
+This appeal is from an order dismissing exceptions to the payment of certain taxes out of funds arising from a sheriff’s sale under a writ of fi. fa. issued by Mary B. Hunter, use plaintiff, appellant herein.
+The property levied upon by the sheriff included a group of twenty-five lots in the “Mount Plan” of lots in the borough of Koppel, owned by the estate of O. F. Mount, defendant in the writ, and sold to the county of Beaver for $558.
+The appellant’s contention is that the township, school and county taxes for the years 1930 to 1935, and the 1936-1937 county taxes were not entitled to be paid out of the fund for distribution, as the property was improperly assessed. The assessment books show that each lot in a designated plot was assessed by a number and a total value of $3,000 placed on forty-eight lots. The appellant- claims that each of the twenty-five lots sold should have been valued separately for a definite amount.
+The Act of May 15,184.1, P. L. 393, §4 (72 PS §5101), provides that it is the duty of an assessor to assess objects of taxation according to the actual value thereof and at such rates and prices for which the same would separately bona fide sell. This act, in substance, was reaffirmed by the Act of May 22, 1933, P. L. 853, art. IV, §402 ( 72 PS §5020-402). These statutes do not expressly require an assessor to place a value on each lot where, as here, a tract is laid out in a number of lots in a designated plot.
+The taxes levied for the years 1930 to 1933, inclusive, were returned under the provisions of the Act of May 9, 1929, P. L. 1684 (72 PS §5951 et seq.), and those for the years 1934 to 1937, inclusive, were returned under the Act of May 29, 1931, P. L. 280 (72 PS §5971a et seq.), which repealed the 1929 Act. For our purposes, these statutes are identical, both requiring a receiver or collector of taxes to file with his return made to the county commissioners a description of the real estate sufficient to identify the land, together with the name of the owner or reputed owner against whom such taxes were assessed, the amounts of the taxes unpaid, and the term during which they were assessed or levied. The county commissioners must enter the taxes in a tax return docket. A first lien then exists upon the real estate liable for the payment thereof, which shall have priority to and be fully paid out of the proceeds of any judicial sale.
+This procedure was followed. No difficulty was encountered by any one in identifying and locating these various lots on the recorded plot, or in computing the taxes due thereon. We think it may be fairly assumed that where a group of lots are valued at a lump sum each lot is assessed as of equal value. As the learned court below in its opinion said: “......the amount of taxes against each lot is obviously the total divided by the number of lots. This, we are assured, is the manner in which the county commissioners have handled this and similar situations, and is the manner in which the amount of taxes included in the bid at the sale was determined.” That it was the apparent intention of the assessor to value each lot in question at the same amount is manifest, as the assessments show that two lots were assessed separately, each in a sum different from the proportionate value of the lots sold. The appellant’s knowledge and approval of the sale of these lots is shown by the court’s further statement, which we assume to be correct as no complaint was made thereto: “In this execution, the use-plaintiff was ably represented by counsel. When the fieri facias issued he directed the sheriff to make levy upon the lots in question; lie was present at the sale and twice directed the sheriff to sell only parts of the levy; and in all this, in contemplation of law, his client was present and acting by and through him.”
+The taxing authorities, in our judgment, assessed these lots in the manner and form authorized by law.
+The appellant is confronted, however, with even a more formidable barrier. These lots were sold by the sheriff under an execution issued by the appellant, use-plaintiff in a judgment, and only the defendant in the writ could file objections to the legality of the assessment. In. so far as the record is concerned, at the time of the sale the liens for taxes were unchallenged. This appellant had no right to attack collaterally the existing liens or to question the distribution thereto: Stratford v. Franklin Paper Mills Co., 257 Pa. 163, 101 A. 349. If the taxpayer had any objection to the correctness or regularity of the assessment, the remedy was an appeal to the county commissioners as a board of revision, as provided by the Act of 1933, supra, art. V, §501 et seq. (72 PS §5020-501 et seq.).
+In Bonnett v. Murdoch, 193 Pa. 527, 45 A. 317, cited by appellant, an action of ejectment was brought by a purchaser of land at a sheriff’s sale under judgment obtained by the city of Pittsburgh for taxes assessed in the name of “Mr. Patterson.” The court held that plaintiff failed to make out his case as the evidence showed that the taxes were assessed against a person not definitely designated or shown to have ever had any interest in or title to the lots which plaintiff claimed.
+In Cunningham v. White, County Treasurer, 2 Dist. 531, 532, there was a treasurer’s sale for unpaid taxes. The property, consisting of one hundred and seventy-six acres, was assessed in the name of “Benjamin Cunningham’s heirs” and included eighty-seven acres owned by the plaintiff. The entire tract was advertised and sold as the property of the assessed owner. The court restrained the county treasurer from selling any part of the eighty-seven acres owned by the plaintiff.
+Neither these cases nor the others cited by the appellant, to which we have given consideration, apply to the facts before us.
+Under our laws, taxes are a lien against the land and remain so until they are paid. In view of the existence of these tax liens regular on their face, they were entitled to be paid from the funds for distribution. We might add that the appellant has not shown that the twenty-five lots sold by the sheriff were burdened with more than their proportionate share of taxes. We do not deem that the appellant is entitled to the relief she seeks.
+Order of the learned court below is affirmed, costs to be paid by appellant.
