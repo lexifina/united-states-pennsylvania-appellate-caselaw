@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 147"
+decided: "1942-11-11"
+citations: ["150 Pa. Super. 491"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Rhodes, Hirt and Kenworthey, JJ."]
+parties: ["Trignani’s Case."]
+source_url: "https://static.case.law/pa-super/150/cases/0491-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1044764
+cites_cases: ["148 Pa. Superior Ct. 142", "213 Pa. 48", "24 A. 2d 743", "62 A. 198"]
+---
+
+# Trignani's Case
+
+## Majority (Hirt, J.,)
+
+Hirt, J.,
+Opinion by
+A history of this case and a review of the essential facts prior to the present controversy appear in the opinion in the first appeal, 148 Pa. Superior Ct. 142, 24 A. 2d 743. Following our award of a procedendo, further hearing was held in the court below on April 15, 1942, but no additional testimony was taken. On the same day the judge, who conducted all of the hearings in this proceeding from its inception, made the following order: “It is ordered that Israel Trignani be committed as a delinquent to the State Industrial School at White Hill and the said Israel Trignani is held under bond in the sum of |800 for the Grand Jury on the charge of assault and battery by automobile and the violation of the Vehicle Code of May 1, 1Q22, Section 1025.” This appeal questions the validity of the commitment to an industrial school when in the same order the juvenile court held the hoy to bail on a charge triable in the quarter sessions.
+The Juvenile Court Act-(June 2, 1933, P. L. 1433, with its amendments, 11 PS 243) does not deprive the courts of quarter sessions and oyer and terminer of jurisdiction to try a delinquent child upon an indictment, cf. Com. v. Fisher, 213 Pa. 48, 54, 62 A. 198. But the juvenile court is given exclusive jurisdiction, in the first instance, in cases affecting delinquent children under 18 years of age. Section 2, 11 PS 244. There are a number úf ways by which a child may be brought into the juvenile court; by petition, by commitment by a magistrate without preliminary hearing, (Amendment of June 15, 1939, P. L. 394, §1, 11 PS 246) or by transfer from the criminal courts, which is mandatory, where the child is under 16. ibid. 11 PS 256. In all of these cases, in the exercise of its exclusive jurisdiction, it is for the juvenile court to determine, after hearing, “whether the best interests and welfare of a child and the State require the care, guidance and control of such child.” ibid. 11 PS 250. If a delinquent is found to Ibe a proper subject for reformation the child remains within the jurisdiction of the juvenile court to be dealt with by it. If the contrary appears and “the interests of the State require a prosecution of such case on an indictment, [the juvenile court] may certify the same to the district attorney of the county, who shall thereupon proceed with the case in the same manner as though the jurisdiction of the juvenile court had never attached.” Act of 1933, supra, §18, 11 PS 260. There is an exception in the act which gives the juvenile court exclusive jurisdiction in the first instance. If it appears during the pendency of a criminal charge in a court of quarter sessions or oyer and terminer that a child is 16 years of age or over and less than 18 years of age, “such court may, at its discretion, transfer such cases, to the juvenile court.” Transfer however is not required. 1939 Amendment. 11 PS 256.
+The juvenile court in the present case clearly had the authority, after it had assumed jurisdiction, to commit the delinquent who was almost 18 years of age, to a state industrial school or to direct a prosecution on the charge of a misdemeanor in the quarter sessions; hut it could not do both. Under ordinary circumstances an order holding a delinquent to bail for the grand jury or certifying the case to the district attorney, ends the jurisdiction of the juvenile court and nullifies an order of commitment to a correctional institution. We would so hold in this case except for the reasons assigned by the juvenile court for directing the criminal prosecution.
+In our former opinion we said: “The municipal court, in the boy in question, no doubt, was dealing with a difficult subject; the processes .of a juvenile court, perhaps, were inadequate” and again: “He might have, and perhaps should have been indicted for that misdemeanor in a court of quarter sessions.” The juvenile court found in this language a direction to certify the case to the quarter sessions. That is not our function and we intended no more than to emphasize the importance of determining whether a delinquent child is, in fact, a fit subject for reformation. If not, the interests of the State require prosecution for the criminal offense. This is a question to be decided by the juvenile court after investigation or hearing in the exercise of its discretion. Since the court has found that commitment to White Hill is appropriate in this case, and held the child to bail only because of a mistaken belief that we had directed it, we will reform the order to conform, with the judgment of the court as to what it considered a proper disposition of the case.
+The order is modified by striking out that part of it holding the minor to bail and, as modified, the order is affirmed.
