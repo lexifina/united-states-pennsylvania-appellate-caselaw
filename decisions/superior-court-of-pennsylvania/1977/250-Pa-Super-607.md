@@ -1,0 +1,19 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 974"
+decided: "1977-10-26"
+citations: ["250 Pa. Super. 607", "379 A.2d 591"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth v. Hunter, Appellant."]
+source_url: "https://static.case.law/pa-super/250/cases/0607-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 836210
+---
+
+# Commonwealth v. Hunter
+
+## Majority
+
+Judgment of sentence affirmed.
