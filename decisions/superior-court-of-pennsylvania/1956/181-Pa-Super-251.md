@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 295"
+decided: "1956-07-17"
+citations: ["181 Pa. Super. 251"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Gunther, Wright, Woodside, Ervin, and Carr, JJ."]
+parties: ["Commonwealth ex rel. Davis, Appellant, v. Baldi."]
+source_url: "https://static.case.law/pa-super/181/cases/0251-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 732251
+cites_cases: ["103 A. 2d 293", "112 A. 2d 661", "167 Pa. Superior Ct. 71", "171 Pa. Superior Ct. 115", "175 Pa. Superior Ct. 255", "178 Pa. Superior Ct. 193", "74 A. 2d 746", "90 A. 2d 383"]
+---
+
+# Commonwealth ex rel. Davis v. Baldi
+
+## Majority (Ervin, J.,)
+
+Opinion by
+Ervin, J.,
+Relator, a prisoner in the Western State Penitentiary of Pennsylvania, filed a petition for a writ of habeas corpus on March 12, 1955. A rule to show cause was granted and the court below appointed counsel to represent the relator. After an answer was filed the district attorney and counsel for the relator stipulated that the rule be made absolute and the writ was issued. After hearing on June 6, 1955, at which relator testified at length before the court in banc, he was remanded to the custody of the warden of the penitentiary. This appeal followed.
+On November 16, 1954 relator waived the finding of true bills and through his counsel entered pleas of guilty to indictments charging him with false pretense and forgery. On December 10, 1954 sentence was suspended on the charge of false pretense but on the bill charging forgery relator was sentenced to pay a fine of |300.00 and costs of prosecution and to undergo imprisonment in the penitentiary for a period of not less than two years nor more than six years and to make restitution. Sentence was to run from October 12, 1954, the date of relator’s commitment.
+Relator questions here the right of the court below to hold the hearing on his petition for writ of habeas corpus because there was no return by the warden of the penitentiary to the writ of habeas corpus together with a copy of the commitment. However, the record of the proceedings on this petition definitely established there was an actual commitment, the relator, who requested the writ, was in court and was identified by the deputy sheriff as being the man he delivered to the Eastern Correctional Diagnostic and Classification Center for the Eastern District of Pennsylvania. Also admitted and identified as part of relator’s criminal record was a paper showing the transfer of relator to the Western State Penitentiary at Rockview. Under the circumstances the failure of the warden on whom the writ was served to make a return together with a copy of the commitment furnishes no basis for relator to question the right of the court below to hold the hearing on his petition.
+Relator’s petition for writ of habeas corpus presented to the court below contained numerous irrelevant and immaterial averments relating partly to alleged errors prior to the entry of his pleas and sentence and partly to other proceedings prior to thé first information lodged against him for the offense here involved. Allegations, which have no bearing on whether petitioner is at present being improperly or unlawfully detained are not proper subject for habeas corpus. See Com. ex rel. Burkley v. Maroney, 178 Pa. Superior Ct. 193, 112 A. 2d 661. The learned court below adequately disposes of these averments and there is no need to repeat here what was so well stated in the opinion of the court below. Suffice it to say these allegations afford no basis for relief by habeas corpus. See Com. ex rel. Chambers v. Claudy, 171 Pa. Superior Ct. 115, 90 A. 2d 383.
+Eelator also contends that since he was discharged after hearing on a prior writ of habeas corpus because the justice of the peace had not held a hearing, he could not be rearrested immediately following discharge upon information charging him with the offense of forgery of the same instrument involved in the prior information. This contention is also without merit. In Com. v. Townsend, 167 Pa. Superior Ct. 71, 74 A. 2d 746, we said: “However, even under the Fifth Amendment where a petitioner’s trial, conviction, and sentence are declared a nullity and set aside in a habeas corpus proceeding for lack of due process of law, as where the right to counsel has been denied, upon his release from the original sentence, the petitioner is subject to arrest and prosecution and may be delivered to the proper officers to answer the charges contained in the original indictment still outstanding, and a trial and conviction thereon do not place defendant in double jeopardy [Federal cases cited]/’ In the instant case the fact that relator was discharged on a prior writ of habeas corpus because of the absence of due process does not make him immune from subsequent arrest on the same charge for which he was originally unlawfully in custody.
+' Eelator also complains of inadequate representation by counsel. As we said in Com. ex rel. Richter v. Burke, 175 Pa. Superior Ct. 255, 103 A. 2d 293, at p. 259: “The absence of effective representation must be strictly construed. It must mean representation so lacking in competence that it becomes the duty of the court or the prosecution to observe it and correct it.” The lack of any merit to this contention of relator is apparent in light of the statement in the opinion of the court below that “The record clearly shows that counsel appointed at his request by the Court under the volunteer public defender committee system in this County, was notably studious, conscientious and competent in the performance of his services in the interest of relator; and was, indeed, patient with and tolerant of relator above the call of all reasonable requirements.”
+Upon a careful review of the entire record Ave concur Avith the conclusion of the court beloiv that relator was properly remanded after hearing on the writ.
+Order affirmed.
