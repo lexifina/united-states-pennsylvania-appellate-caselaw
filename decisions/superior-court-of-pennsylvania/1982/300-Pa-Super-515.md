@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1038"
+decided: "1982-06-11"
+citations: ["300 Pa. Super. 515", "446 A.2d 974"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before McEWEN, MONTEMURO, and HOFFMAN, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Allen RAMSEY, a/k/a Allen Thomas, Appellant."]
+source_url: "https://static.case.law/pa-super/300/cases/0515-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 191880
+cites_cases: ["235 A.2d 349", "259 Pa.Superior Ct. 240", "261 Pa. Superior Ct. 183", "274 Pa.Superior Ct. 350", "295 Pa.Superior Ct. 598", "305 A.2d 9", "427 Pa. 599", "437 A.2d 1023", "452 Pa. 376", "472 Pa. 259", "479 Pa. 112", "480 Pa. 394", "495 Pa. 82"]
+---
+
+# Commonwealth v. Ramsey
+
+## Majority (PER CURIAM:)
+
+PER CURIAM:
+This is an appeal from an order denying appellant’s Post Conviction Hearing Act (PCHA) petition. Appellant contends that his PCHA counsel was ineffective in failing to call trial counsel as a witness and in failing to produce evidence to support the petition. Because the record is insufficient to determine the merits of these contentions, we must vacate the order of the lower court in part, and remand for an evidentiary hearing.
+Appellant was convicted in a nonjury trial of conspiracy and five counts of robbery. On direct appeal, he alleged several instances of trial counsel’s incompetence. We affirmed his conviction in Commonwealth v. Ramsey, 259 Pa.Superior Ct. 240, 393 A.2d 806 (1978). Appellant subsequently filed a PCHA petition and an amended, counseled, petition alleging, inter alia, that trial counsel was ineffective. The lower court denied the petition following a hearing at which appellant was the only witness called by his counsel. Appellant was appointed new counsel to pursue this appeal.
+Appellant contends that his PCHA counsel was ineffective in not calling trial counsel as a witness and in failing to present evidence substantiating the other allegations of error in the PCHA petition. In determining counsel’s effectiveness, “our inquiry ceases and counsel’s assistance is deemed constitutionally effective once we are able to conclude that the particular course chosen by counsel had some reasonable basis designed to effectuate his client’s interests.” Commonwealth ex rel. Washington v. Maroney, 427 Pa. 599, 604, 235 A.2d 349, 352 (1967). Although the Commonwealth correctly notes that many of the issues raised in appellant’s PCHA petition were finally litigated in his direct appeal, see Commonwealth v. Butler, 495 Pa. 82, 432 A.2d 590 (1981), several issues had not been previously raised and are ripe for adjudication. The PCHA petition alleged that trial counsel was ineffective in failing to: (1) sever the trial from that of his co-defendants; (2) prepare adequately or ask for a continuance to have time to prepare; (3) present any defense; and (4) review the pre-sentence report and advance an argument at sentencing. Despite raising these new allegations, PCHA counsel did not call trial counsel as a witness, nor did he present any evidence other than appellant’s testimony to substantiate his claims. Trial counsel’s testimony would certainly be crucial in determining his effectiveness. The record is insufficient, however, to permit us to determine whether PCHA counsel had some reasonable basis for his actions. Accordingly, we must remand the case for an evidentiary hearing.
+Order of the lower court affirmed in part and vacated and remanded in part for an evidentiary hearing consistent with this opinion. Jurisdiction is relinquished.
+. Because this is appellant’s first opportunity to challenge the effectiveness of PCHA counsel, his claim is properly before us. Commonwealth v. Black, 480 Pa. 394, 390 A.2d 750 (1978); Commonwealth v. Brown, 295 Pa.Superior Ct. 598, 437 A.2d 1023 (1982); Commonwealth v. Hamilton, 274 Pa.Superior Ct. 350, 418 A.2d 442 (1980).
+. The Commonwealth contends that any question of trial counsel’s effectiveness was finally litigated in appellant’s direct appeal. See Commonwealth v. Wilson, 452 Pa. 376, 305 A.2d 9 (1973). We disagree. Unlike in Wilson, appellant’s direct appeal, Court did not “review[] the record and rule[] that appellant received ‘competent assistance of counsel rendered by an experienced trial lawyer.’ ” Id., 452 Pa. at 378, 305 A.2d at 11. Rather, appellant’s direct appeal raised and disposed of specific instances of alleged incompetence without conducting an overall review of counsel’s representation. See Commonwealth v. McNeal, 479 Pa. 112, 387 A.2d 860 (1978) (three allegations of ineffectiveness finally litigated in an earlier proceeding, however, further allegations of ineffectiveness cognizable on appeal). Because the PCHA petition also alleged that direct appeal counsel had been ineffective in failing to preserve issues surrounding trial counsel’s effectiveness, appellant’s new claims have been properly preserved for review. See Commonwealth v. Hubbard, 472 Pa. 259, 276-77 n.6, 372 A.2d 687, 695 n.6 (1977).
+. The PCHA court heard testimony from appellant and his direct appeal counsel regarding appellant’s contentions that direct appeal counsel had (1) failed to consult with appellant and (2) had failed to inform him of his right to appeal to the Supreme Court. The lower court found direct appeal counsel’s testimony to be more credible and denied appellant’s request for relief. Determinations of credibility are within the domain of the PCHA court. Commonwealth v. Sweitzer, 261 Pa. Superior Ct. 183, 191, 395 A.2d 1376, 1380 (1978). Accordingly, we affirm the lower court’s order denying appellant relief on those two contentions.
