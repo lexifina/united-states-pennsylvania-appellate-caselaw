@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 163"
+decided: "1908-05-14"
+citations: ["36 Pa. Super. 283"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Porter, Henderson, Morrison, Orlady, Head and Beaver, JJ."]
+parties: ["Bakewell, Appellant, v. Turner."]
+source_url: "https://static.case.law/pa-super/36/cases/0283-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 874317
+cites_cases: ["148 Pa. 294", "166 Pa. 25", "171 Pa. 369", "32 Pa. 367"]
+---
+
+# Bakewell v. Turner
+
+## Majority (Morrison, J.,)
+
+Opinion by
+Morrison, J.,
+In this suit in assumpsit the plaintiffs filed an affidavit of claim, with a copy of the lease upon which the suit was founded; the affidavit alleged that the lease had expired on April 1,1907, and that the defendant had held over, after its expiration, with the plaintiffs’ consent, and had failed to pay the rent due May 1, 1907.
+The affidavit of defense admitted the execution and existence of the lease and the occupancy thereunder, but denied that under its terms the tenant, by holding over, became a tenant for another year. By the terms of the lease the rent was payable monthly in sums of $150 per month. The affidavit of defense further alleged that, "pursuant to notice duly given to plaintiffs prior to the expiration of the term of said lease,” defendant removed from the premises on April 26,1907.
+A rule was taken by plaintiffs for judgment for want of a sufficient affidavit of defense and the court below, upon argument, discharged, the rule, and sealed a bill of excejptions, and from that order this appeal was taken.
+The learned court seems to have attached importance to the allegation in the affidavit of defense that notice of the defendant’s intention to remove from the premises was duly given before the termination of the lease. But the fact remains that he did not remove until twenty-six days after the date of the termination of the lease, and under the decisions in this state, this fact put it in the power of the plaintiffs to consider-the defendant a tenant for another year, in the absence of a new agreement, under the terms of the written lease, under which the tenant took possession of the premises.
+In the present case there is no sufficient averment of a new arrangement set out in the affidavit of defense. The affidavit of defense contains some immaterial averments and some legal conclusions, but, taken together and given their full force, they signally fail to furnish facts giving power to the defendant to hold over twenty-six days and then terminate the lease and end the relation of landlord and tenant between himself and the plaintiffs. “ Defendant denies -that under the provisions of the lease he became a tenant of the said property and liable to pay rent by the terms and conditions of the lease for the term of one year from April 1, 1907, as alleged in plaintiffs’ statement.” But this is only a legal conclusion and under the decisions it is not good law: Harvey v. Gunzberg, 148 Pa. 294; Patterson v. Park et ah, 166 Pa. 25; Williams et al. v. Ladew et al., 171 Pa. 369. The above caseswere cited and considered by the court below, but, on the facts in the present case, the learned judge failed to apply the law as decided in these and many other cases.
+The lease contains the following: “It is further agreed between the parties hereto, that should the said party of the second part continue to occupy the said tenement after the expiration of the term above limited, by consent of the said parties of the first part, without entering into any further or other agreement, then the amount of rent, times of payment and other covenants and agreements hereinbefore mutually agreed upon, shall be continued as applicable to such further term so long as the said parties may continue to occupy the relation of landlord and tenant.”
+We have already seen that the affidavit of defense avers no other or further agreement sufficient in law to permit the tenant to hold over in the relation of tenant, except under the written lease which expired, by its terms, on April 1,1907.
+But,-under all of the cases, it was in the power of the landlord to silently permit the tenant to hold over and enforce against him the terms of the lease for a year from April 1, 1907.
+The court below was in error in holding that the tenant could continue the term of his occupancy, after April 1, 1907, without a new agreement, by a simple notice, and not be liable under the terms of the old lease. In other words the court held that the tenant could, by his own acts, make himself a tenant of the landlord after the expiration of the written lease, and then, at his own will, terminate the relation of landlord and tenant between himself and the lessors. The law is not so. .The court, to support the above position, cited and relied on Effinger v. Lewis, 32 Pa. 367. But we think the learned . court misunderstood and misapplied that case. In it there .was a lease for 100 years, and it provided that the lessee, his heirs and assigns, might hold the premises so long as he or they should think proper, after the expiration of the term, at the same rent. The question was the right to hold under said lease longer than 100 years. The Supreme Court held that the parties meant to-create an estate that should not end so long as the grantee, his heirs and assigns, should desire to keep it at the rent agreed upon, and that there was no rule or policy of law.standing in the way of such a contract. That case does not touch the present controversy, because the tenant has no agreement or arrangement with his landlord placing him under the protection of that case. We cannot agree, under the facts in the present case, that the tenant has succeeded in getting into a legal position where he can occupy the premises during his lifetime. His legal position is, so far as the facts now appear, that of a tenant for a year from April 1, 1897, under the terms of the lease for three years from April 1,1904.
+The assignment of error is sustained, the order reversed, and the rule reinstated, and unless other legal or equitable ground is shown to the contrary, the court below is directed to make the rule absolute and enter judgment against the defendant for the amount of the plaintiffs’ claim, with interest and costs.
