@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1425"
+decided: "1996-02-27"
+citations: ["448 Pa. Super. 529", "672 A.2d 343"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CAVANAUGH, EAKIN, and OLSZEWSKI, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania, Appellee, v. Roger GARRIS, Appellant."]
+source_url: "https://static.case.law/pa-super/448/cases/0529-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 732368
+cites_cases: ["109 Pa.Commw. 341", "214 Pa.Super. 347", "257 A.2d 867", "379 Pa.Super. 226"]
+---
+
+# Commonwealth v. Garris
+
+## Majority (OLSZEWSKI, Judge.)
+
+OLSZEWSKI, Judge.
+On November 29, 1993, a criminal complaint was filed against appellant Roger Garris for failing to obtain a sewage permit under 35 P.S. § 750.7. After a hearing on the matter, Garris was ordered to correct the sewage violation by May 6, 1994. The parties stipulated to extend the correction date to July 31, 1994. On November 9, 1994, a hearing was held before a district justice in order to determine whether the sewage violation had been rectified. Consequently, the district justice imposed a fine of $2,700 for the period of time after July 31,1994, during which the problem remained uncorrected. Garris appealed to the Court of Common Pleas of Monroe County. Following a hearing on the matter held on March 16, 1995, the Honorable Peter J. O’Brien found Garris guilty and ordered him to pay the $2,700 fine. This appeal follows.
+At the outset, we note that 35 P.S. § 750.13, which proscribes penalties for violations of § 750.7, reads as follows:
+Any person who shall violate any provision of section 7 of this act ... shall be guilty of a summary offense. Upon conviction thereof, such person shall be sentenced to pay a fine of not less than one hundred dollars ($100) and costs, and not more than three hundred dollars ($300) and costs, or in default thereof, shall be confined in the county jail for a period of not more than thirty days.
+On appeal, Garris contends solely that his fine was impermissible because it exceeded three hundred dollars. In arguing to the contrary, the Commonwealth contends that § 750.13 allows the trial court to impose a three hundred dollar fine for each day a defendant remains in violation of section 7. We agree with Garris and vacate the judgment of sentence.
+The rules of statutory construction state that “[w]hen-ever a penalty or forfeiture is provided for the violation of a statute, such penalty or forfeiture shall be construed to be for each such violation.” 1 Pa.C.S.A. § 1930. Thus, we must determine whether Garris’s inactivity constituted more than one violation of § 750.7. After careful consideration, we find that Garris’s- failure to obtain a sewage permit equalled a single continuing violation, rather than a series of identical violations.
+“ ‘[C]ontinuing offenses’ are proscribed activities that are of an ongoing nature and cannot be feasibly segregated into discrete violations so as to impose separate penalties.” Newcomer Trucking v. P.U.C., 109 Pa.Commw. 341, 345, 531 A.2d 85, 87 (1987) (citation omitted). Instantly, without legislative guidance, it is impossible for us to segregate Garris’s inactivity into separate violations of § 750.7. Any attempt to do so merely equates to an arbitrary judicial determination. Taken to its logical extension, the Commonwealth would have us find separate violations for every hour, minute or second that Garris had not obtained a permit. Appellee essentially requests that we re-write § 750.13 to read that the maximum penalty may be imposed “per day for each violation.” While our legislature has repeatedly written such language into the laws of our state, it has failed to do so concerning § 750.13. As such, we are constrained to apply the law as it has been written and, thus, it would be improper to adjudicate Garris guilty of more than one violation of § 750.7. See Key Savings and Loan Assn. v. Louis John, Inc., 379 Pa.Super. 226, 230-32, 549 A.2d 988, 991 (1988) (“this Court is without authority to insert a word into a statutory provision where the legislature has failed to supply it”).
+We agree with the Commonwealth that a maximum penalty of $300 is rather light for a continuing offense of section 7. We note, however, that subsequent to the initiation of criminal proceedings in the instant matter, § 750.13 was amended to require imposition of fines of “not less than five hundred dollars ($500) nor more than five thousand dollars ($5,000), plus costs, or to imprisonment not to exceed ninety days, or both.” Amended 1994, Dec. 14, P.L. 1250, No. 149, § 8, effective in 365 days. We applaud our legislature’s actions. Nonetheless, since Garris’s crimes occurred prior to the amendment of section 13, it was error for the trial court to sentence Garris to pay more than $300 in the instant matter. See Commonwealth v. Dessus, 214 Pa.Super. 347, 363-64, 257 A.2d 867, 875 (1969). Finally, if our legislature intends for the current maximum penalty under section 13 to apply on a daily basis, we implore the legislature to specifically amend the statute accordingly.
+Judgment of sentence vacated. Case remanded for resentencing and jurisdiction relinquished.
+. 35 P.S. § 750.7 reads, in pertinent part, as follows:
+No person shall install, construct, or request bid proposals for construction, or alter an individual sewage system ... without first obtaining a permit indicating that the site and the plans and specifications of such system are in compliance with the provisions of this act and the standards adopted pursuant to this act.
+. We note that the trial court’s order dated March 16, 1995, supports this conclusion. The order reads, in pertinent part, that:
+the Court finds the defendant, Roger Garris, guilty of a violation of 35 P.S. 750.7, continuing from November 9, 1994. It is the sentence of this Court that the defendant pay a fine in the amount totaling $2,700 and the costs of these proceedings.
+(emphasis added). Thus, the plain language of the order reveals that the trial court found Garris guilty of only one violation of section 7.
