@@ -1,0 +1,21 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 1112"
+decided: "1969-02-07"
+citations: ["214 Pa. Super. 723"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth v. Mitchell, Appellant."]
+source_url: "https://static.case.law/pa-super/214/cases/0723-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 786510
+cites_cases: ["232 A. 2d 623", "426 Pa. 226"]
+---
+
+# Commonwealth v. Mitchell
+
+## Majority (Per Curiam :)
+
+Per Curiam :
+Opinion In accordance with the opinion of the Supreme Court in Commonwealth v. Hoffman, 426 Pa. 226, 232 A. 2d 623 (1967), the order is vacated and the record is remanded to the court below with instructions to appoint counsel to represent appellant in a post-conviction proceeding at which his eligibility for an evidentiary hearing and/or other relief may be determined. See Rule 1503(a) of Rules of Criminal Procedure.
