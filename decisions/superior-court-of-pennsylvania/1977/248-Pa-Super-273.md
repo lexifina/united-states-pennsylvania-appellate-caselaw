@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "46"
+decided: "1977-06-29"
+citations: ["248 Pa. Super. 273", "375 A.2d 93"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WATKINS, President Judge, JACOBS, HOFFMAN, CERCONE, PRICE, VAN der VOORT and SPAETH, JJ."]
+parties: ["The BELL TELEPHONE COMPANY OF PENNSYLVANIA, Appellant v. Mitchell W. SANNER, t/a and d/b/a M. W. Sanner Associates."]
+source_url: "https://static.case.law/pa-super/248/cases/0273-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 832500
+cites_cases: ["146 A.2d 657", "188 Pa.Super. 163", "242 Pa.Super. 47", "243 A.2d 346", "247 Pa.Super. 505", "431 Pa. 63"]
+---
+
+# Bell Telephone Co. v. Sanner
+
+## Majority (JACOBS, Judge:)
+
+JACOBS, Judge:
+This is an appeal by The Bell Telephone Company of Pennsylvania from the order of the lower court dismissing its preliminary objections to appellee’s answer, new matter and counterclaim. For the reasons developed below, we reverse.
+The pertinent facts of the case are not in dispute and may be summarized as follows: On August 25,1975, Bell instituted this assumpsit action against appellee Mitchell W. Sanner to recover tariff charges for the telephone services it had provided. Sanner filed an answer, new matter and counterclaim to Bell’s complaint. In his answer, appellee admitted that the alleged telephone services had been furnished during the periods in question. However, he claimed that the services were so defective and inadequate as to be of no value to him whatsoever. In his new matter and counterclaim, appellee set forth counts in both assumpsit and trespass. He alleged that the defective nature of Bell’s service and equipment was in breach of an implied warranty of fitness for a particular purpose, and averred negligence in relation to the manner of installation of the equipment and the services rendered by Bell.
+Thereupon Bell filed preliminary objections to Sanner’s answer, new matter and counterclaim challenging the jurisdiction of the court below. Bell claimed that appellee’s allegations related to the reasonable adequacy and value of the telephone services it had rendered Sanner and, therefore, raised questions within the exclusive original jurisdiction of the Public Utility Commission. This appeal followed Judge BODLEY’s order of September 2, 1976, dismissing Bell’s preliminary objections.
+The seminal case in this area is Behrend v. Bell Telephone Company, 242 Pa.Super. 47, 363 A.2d 1152 (1976). Appellee, relying on Behrend, maintains that the Court of Common Pleas is the proper jurisdictional forum to resolve the issue of Bell’s negligence in the performance of its contractual obligations. We believe, however, that appellee’s reliance on Behrend is misplaced.
+In Behrend, a telephone company customer sought to recover damages for the omission of his name from Bell’s directories and the directory assistance operators’ lists, and for the disruption of his telephone service. Bell argued that Behrend’s allegations raised questions within the exclusive original jurisdiction of the P.U.C., and that the lower court erred in permitting a jury to rule on those matters. We concluded, however, that the regulatory authority of the P.U.C. over utility service did not remove from the lower court’s jurisdiction an action for damages based on a failure of a service. “The courts retain jurisdiction of a suit for damages based on negligence or breach of contract wherein a utility’s performance of its legally imposed and contractually adopted obligations are examined and applied to a given set of facts.” Id., 242 Pa.Super. at 59, 363 A.2d at 1158 (citation omitted) (footnote omitted). Although we rejected Bell’s claims that there were factual matters requiring reference to the P.U.C., we did so only because the determination of the reasonableness or adequacy of Bell’s methods of providing service was not before us.
+Here, however, appellee’s answer, new matter and counterclaim concern the adequacy and value of the services provided by Bell. These matters are clearly within the exclusive original jurisdiction of the P.U.C. See, Behrend v. Bell Telephone Company, 431 Pa. 63, 243 A.2d 346 (1968). When a utility’s failure to maintain reasonable and adequate service is alleged, regardless of the form of pleading in which the allegations are couched, it is for the P.U.C. initially to determine whether the service provided by the utility has fallen short of the statutory standard required of it. It is only where the P.U.C. has made findings adverse to the utility on this question that the Court of Common Pleas can then proceed to determine the issues of liability and damages which we held in Behrend v. Bell Telephone Company, 242 Pa. Super. 47, 363 A.2d 1152 (1976) to be within its jurisdiction. Elkin v. Bell Telephone Company, 247 Pa.Super. 505, 372 A.2d 1203 (1977).
+Since appellee’s answer, new matter and counterclaim raise matters within the exclusive original jurisdiction of the P.U.C., we conclude that appellant’s preliminary objections were improperly dismissed.
+Order reversed.
+. The question below was the jurisdiction of the court over the subject matter and, therefore, is appealable under the Act of March 5, 1925, P.L. 23, § 1, 12 P.S. § 672.
+. Section 401 of the Public Utility Law, Act of May 28, 1937, P.L. 1053, § 401, 66 P.S. § 1171, provides that: “Every public utility shall furnish and maintain adequate, efficient, safe, and reasonable service and facilities, and shall make all such repairs, changes, alterations, substitutions, extensions, and improvements in or to such service and facilities as shall be necessary or proper for the accommodation, convenience, and safety of its patrons . . . and the public. Such service also shall be reasonably continuous and without unreasonable interruptions or delay. Such service and facilities shall be in conformity with the regulations and orders of the commissions.
+We discussed the nature of this statutory standard, and the P.U. C.’s duties with respect thereto, in Colonial Products Company v. P. U. C., 188 Pa.Super. 163, 146 A.2d 657 (1958), wherein we stated:
+“By its very nature, the statutory standard is not capable of definition with mathematical precision. The duty is upon the commission ... to determine on the basis of the facts and circumstances indicated by the substantial evidence whether the service provided is reasonable and adequate for the public.” Id., 188 Pa.Super, at 169-70, 146 A.2d at 661-62.
