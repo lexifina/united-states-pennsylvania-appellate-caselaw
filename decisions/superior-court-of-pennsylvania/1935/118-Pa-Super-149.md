@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 227"
+decided: "1935-07-18"
+citations: ["118 Pa. Super. 149"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldbige, Stadtfeld, Parker, James and Bhodes, JJ."]
+parties: ["Commonwealth v. Cucciardo, Appellant."]
+source_url: "https://static.case.law/pa-super/118/cases/0149-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 983096
+cites_cases: ["113 Pa. Superior Ct. 320", "113 Pa. Superior Ct. 385", "173 A. 472", "173 A. 890"]
+---
+
+# Commonwealth v. Cucciardo
+
+## Majority (Baldrige, J.,)
+
+Opinion by
+Baldrige, J.,
+The defendant was indicted and convicted of arson. He conducted a store in one of the rooms of a two-story frame building and lived alone in the remaining portion. A fire was discovered in the building about 2:30 a. m., on February 13, 1934. When the firemen arrived at the scene of the fire a few minutes after the alarm, the building was enveloped in smoke, and as they entered there was an explosion. After the fire was under control, there was found in the dining room, immediately in the rear of the store, a coffee pot, which had the odor of gasoline and a large hole in it, evidently the result of an explosion, and close by were a small electric stove, and an alarm clock which was tied to a kitchen chair. A wire was suspended from the electric outlet on the ceiling, which was attached to the winding section of the alarm on the back of the clock. Nearby were three buckets, in which was present the odor of turpentine. Wires were also run from the ceiling outlet to the basement, at the end of which were quantities of combustible materials, saturated with oil or gasoline, and three 5-gallon kegs, which emitted a strong odor of gasoline and turpentine. The Johnstown city chemist analyzed the contents of these kegs and found that in the one was 74.8% gasoline, in another 22.5% turpentine, and in the third 16.4% turpentine.
+At the time of the fire, defendant carried $1,000 fire insurance on his stock and fixtures and $500 on his furniture. He admitted that his stock and fixtures were worth about $100, and he fixed the value of his furniture from $150 to $200. D. L. Anderson, called upon the part of the Commonwealth, appraised the merchandise and fixtures at $100.98 and the household goods at $92.
+The defendant left his store at 9 o’clock in company with Dorothea Wiggin, 19 years of age, and William Clawson, 17 years of age, friends of his. Both of these witnesses testified that they had been in the dining room but had not seen any of the arrangements to which we have referred. The three parties walked a distance of about 680 feet when the defendant left his companions to call on his brother-in-law, who was ill. The girl and boy continued walking a distance of 624 feet to the corner of Baumer and Bedford Streets. According to the girl’s testimony, the defendant joined them there in ten minutes after the separation, but Clawson stated that defendant was gone but three minutes. The defendant fixed the time of his absence at five minutes. When he returned they all proceeded to a dance in the city of Johnstown, where they remained until 12 o’clock. The girl testified that the defendant had one or two dances with her, and Clawson said that while at the dance defendant was not out of sight for more than a minute or so. Defendant and the two witnesses left the dance hall five minutes past 12 in a borrowed automobile and went to a roadhouse approximately five miles outside of Johnstown, where they remained as defendant’s guests until 3 o’clock. As they were about to leave, defendant received a telephone call notifying him of the fire. Defendant testified that he was entertaining his friends in the manner described in celebration of his birthday. The Commonwealth showed that the defendant stated in his citizen papers and application for a life insurance policy that his birthday was in December, not February 13th.
+The sole question involved in this appeal is whether there was sufficient evidence to submit to the jury the question of defendant’s guilt or innocence.
+The Commonwealth established conclusively that the defendant was in exclusive control of the building and that the fire was of an incendiary origin; that he was somewhat of an electrician and had knowledge of wiring and the conveyance of heat thereby; that he was over-insured and was the only person who would have profited by the fire. The owners of the building were living in New York City and no-evidence was adduced, nor was it contended, that they were in any way connected with the crime.
+The testimony of defendant’s companions as to the time of his absence from them was but an approximation on their part, and, as the learned court below said, it may be that the jury concluded that they were not telling the whole truth. Assuming the defendant was away from them for ten minutes, he had but a little more than one-third of a mile to go to the store and to return to the place where he rejoined them. By hurrying he could have been to the store a sufficient length of time to complete plans that had previously been partly prepared. The circumstantial evidence of defendant’s guilt is as strong as in Com. v. Perdikakis, 113 Pa. Superior Ct. 320, 173 A. 472, and Com. v. Buti, 113 Pa. Superior Ct. 385, 173 A. 890, where we sustained the convictions. We find no sufficient reason in this case to disturb the jury’s verdict.
+Judgment is affirmed, the record is remitted to the court below, and it is ordered that the defendant appear in that court at such time as he may there be called and. that he be by that court committed until he has complied with the sentence or any part of it which had not been performed at the time the appeal in this case was made a supersedeas.
