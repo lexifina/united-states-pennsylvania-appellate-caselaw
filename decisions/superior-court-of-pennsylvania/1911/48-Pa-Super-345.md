@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1; Appeal, No. 285"
+decided: "1911-11-13"
+citations: ["48 Pa. Super. 345"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady, Head and Porter, JJ."]
+parties: ["Tuttleman v. Beetem, Appellant"]
+source_url: "https://static.case.law/pa-super/48/cases/0345-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8862598
+cites_cases: ["1 N. Y. 419", "107 Mich. 55", "112 Pa. 272", "112 Pa. 518", "133 Pa. 628", "15 Mass. 439", "150 Pa. 57", "158 Pa. 317", "191 Pa. 134", "29 Ind. 400", "56 Pa. 424", "59 Pa. 275", "6 Pa. Superior Ct. 452", "6 Pa. Superior Ct. 573", "6 Phila. 209", "81 Pa. 194", "88 Pa. 100"]
+---
+
+# Tuttleman v. Beetem
+
+## Majority (Hendebson, J.,)
+
+Opinion by
+Hendebson, J.,
+The plaintiffs declared on a written lease by which a term of one year from January 1, 1908, was granted to the defendants with the privilege on the part of the lessees to' remain in possession for a further period of two years at the annual rental of $1,000. The lease was signed by the lessees on December 14, 1907, but was not signed by the lessors. The lessees remained in possession for a year and held over for a second year at the end of which they removed from the premises. This action was brought to recover a part of the rent due for the third year for which the plaintiffs allege the defendants were bound by reason of the fact that they held over under the option stated in the lease. The demurrer raises the question of the sufficiency of the lease to create the term for which the plaintiffs seek to hold the defendants.
+The first section of the act of March 21, 1772,1 Sm. L. 389, declares that all leases and contracts creating an interest in lands not put in writing and signed by the parties so making or creating the same or their agents thereunto, lawfully authorized by writing, shall have the effect of leases or. estates at will only, except leases not exceeding the term of three years from the making thereof. That the lease relied on by the plaintiffs was for a greater period than three years is shown by all the authorities and is admitted by the appellee. The estate is created at the time the lease is executed; not at the time named as the beginning of the term: Browne on Statute of Frauds, sec. 33; Taylor on Landlord and Tenant, sec. 30; 12 Modern Reports, 610; Boydell v. Drummond, 11 East, 142; Chapman v. Gray, 15 Mass. 439; Whiting & Co. v. Opera House Co., 88 Pa. 100; Jennings v. McComb, 112 Pa. 518; and this is so where the lease is for a definite time with the option of enlarging the term for a further period which with the first term would create an interest in the land exceeding three years: McClelland v. Rush, 150 Pa. 57; Lipper v. Bouve, Crawford & Co., 6 Pa. Superior Ct. 452. In such a case by exercising the option the tenant holds the premises for the full term by virtue of the original lease. The lease creates and defines the term. The facts bring the case, therefore, under the operation of the statute; and inasmuch as the writing pleaded by the plaintiffs was not signed by them it had the effect only to create a tenancy at will. This might become an estate from year to year by a holding over, but the tenants had the election to terminate the tenancy at the end of any year. The defect in the plaintiffs’ lease as a contract to create a tenancy for the term contemplated is that it was not signed by "the parties so making or creating the same.” The lessees did not create the estate. They had no capacity so to do. The lessors alone could demise the premises and vest the title for the term in the lessees. This is the clear requirement of the statute as is shown in Tripp v. Bishop, 56 Pa. 424; Johnston v. Cowan, 59 Pa. 275; Dumn v. Rothermel, 112 Pa. 272; Jennings v. McComb, 112 Pa. 518, The cases cited by the appellee are not contradictory of this view. Schultz v. Burlock, 6 Pa. Superior Ct. 573, was an amicable action of ejectment entered against the tenant by virtue of a written power of attorney which he had executed and as there was express authority over the tenant’s signature for such judgment he could not be heard to dispute the effect of his own act. Moreover, as appears from the opinion of the court the lease was from month to month and the statute of frauds was therefore not involved. It follows that the demurrer should have been sustained as the contract computed from the time it was made until the end of the term provided for at the option of the lessees covered a greater period than three years and created a tenancy at will only under the. statute. The action is planted expressly on the contract and as that is invalid for the term for which the plaintiffs seek to recover the rent their cause of action set forth in the declaration does not support the judgment.
+The judgment is reversed, the demurrer reinstated and judgment is now entered for the defendants on the demurrer.
