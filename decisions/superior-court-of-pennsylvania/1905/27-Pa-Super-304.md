@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 27"
+decided: "1905-03-14"
+citations: ["27 Pa. Super. 304"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Or-lad y, Smith, Porter, Morrison and Henderson, JJ."]
+parties: ["Commonwealth v. McManiman, Appellant."]
+source_url: "https://static.case.law/pa-super/27/cases/0304-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 856436
+cites_cases: ["106 Pa. 1", "12 Pa. Superior Ct. 497", "133 Pa. 293", "175 Pa. 50", "6 Pa. Superior Ct. 65", "65 Pa. 59", "7 Kulp. 349", "85 N. Y. 75"]
+---
+
+# Commonwealth v. McManiman
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+The first assignment of error relates to the charge of the court; the second and third to the admission of testimony; the fourth to the refusal of the court to permit additional reasons for a new trial to be filed after a motion for a new trial had been disposed of.
+In considering the portion of the charge complained of, the language of the court should be interpreted in the light of the whole charge. Part of a charge, which, taken by itself could be considered objectionable; may not be so considered when taken in connection with other portions of the charge. “ The court will be reviewed on the general effect of the. charge, and not upon sentences or paragraphs disconnected from the context which qualifies and explains them: ” Com. v. Winkelman, 12 Pa. Superior Ct. 497. Evidence of the conduct of one accused of a crime at the time of his arrest is competent to show consciousness of guilt. Resistance to arrest is evidence of fear of punishment, and if the resistance be violent, may be evidence of malice. The presumption is that one who is wrongfully accused will rely on his consciousness of innocence, while a guilty man will resort to violence iñ order that he may escape dreaded punishment. Such evidence is not sufficient of itself to warrant a conviction, but may have weight in connection with the other evidence in the case. The evidence to which the trial judge refers was not offered nor admitted to show a tendency of the defendant to commit crime, nor do we understand the charge of the learned judge to so consider it. While that part of the charge which is complained of does not state in as clear terms as might have been adopted the grounds upon which the evidence was competent, we think it does not mislead tlie jury from its relevancy. It is less prejudicial to the defendant than if the attention of the jury had been called in clear language to the logical grounds upon which such evidence is held to be competent. The instruction that if the jurors believed the defendant resisted arrest after he was informed that the officers had a warrant for him and attempted to shoot the officers, and after his arrest expressed regret that he had not succeeded in so doing they Would be justified in finding him of a bold and lawless disposition, does not amount to a charge that they might convict the defendant because of this resistance, nor that it was evidence that he had a tendency to commit crimes of the character of that for which he was indicted. If the jury found the facts as assumed, they would doubtless, without any advice from the court, conclude that the defendant has a, lawless disposition, for that condition of mind is necessarily involved in the willful obstruction of an officer in serving a warrant for felony. The reference to the possession of a revolver by the defendant was not unwarranted, as a part of the commonwealth’s case was that, the defendant had 'a revolver in his possession at the time the robbery was committed. We do not discover that the charge permits the jury to convict the defendant under the indictment .because of his conduct at the time of his arrest of because he had a tendency to rob. Taking the- whole charge into consideration, the case was fairly presented, and the defendant has no substantial grounds for complaint.
+The defendant denied that he had ever been in Dombrosky’s company until March 17, four days'after the robbery; and the inference from his testimony was that Dombrosky was a comparative stranger. It might well be argued 'from this evidence that it was highly improbable that the defendant would conspire with a stranger to commit the offense charged. It was competent in rebuttal to show that the- defendant and Dombrosky were on intimate terms, and that they were, together a short time before the crime was committed. ' •
+The court had entertained, considered and refused an application for a new trial. Afterwards the defendant’s counsel asked leave to file an additional reason for a new trial. This the court refused. In this there was no error. ■ It would not have been the duty of the court to grant a new trial if the reason assigned had been presented while the rule for a new trial was pending; much less was the court required to entertain it after the rule had been discharged. “ Excepting in clear cases of abuse 'of discretion, refusal of the court to grant a new trial is not assignable for error:” Shanahan v.Insurance Company, 6 Pa. Superior Ct. 65; DeGrote v. DeGrote, 175 Pa. 50.
+We do not find any error in the record, which calls for reversal of the judgment. The appeal is therefore dismissed, the judgment affirmed and the record remitted to the end that the sentence be executed.
