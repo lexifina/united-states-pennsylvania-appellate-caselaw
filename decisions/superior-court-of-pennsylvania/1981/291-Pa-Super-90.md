@@ -1,0 +1,44 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "286 and 405"
+decided: "1981-09-11"
+citations: ["291 Pa. Super. 90", "435 A.2d 234"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before SPAETH, CAVANAUGH and O’KICKI, JJ.", "CAVANAUGH, J., files a concurring statement."]
+parties: ["COMMONWEALTH of Pennsylvania, Appellant, v. Leonard H. SWIFT. COMMONWEALTH of Pennsylvania, v. Leonard SWIFT, Appellant."]
+source_url: "https://static.case.law/pa-super/291/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 171507
+cites_cases: ["260 Pa.Super. 327", "285 A.2d 492", "292 A.2d 345", "309 A.2d 396", "317 A.2d 293", "445 Pa. 284", "448 Pa. 224", "454 Pa. 59", "455 Pa. 448", "460 Pa. 316", "470 Pa. 179", "478 Pa. 575", "482 Pa. 151"]
+---
+
+# Commonwealth v. Swift
+
+## Majority (O’KICKI, Judge:)
+
+O’KICKI, Judge:
+A jury returned a verdict of guilty of the crime of Burglary and Conspiracy to Commit Burglary on June 22, 1968; the same jury found the defendant not guilty of the Possession of an Offensive Weapon. On January 12,1979, at the time of sentencing, the Trial Court vacated its earlier Order of December 22, 1978, wherein the Trial Court had denied all post-trial motions. At the time of sentencing the Trial Court granted the Defendant’s Motion for a New Trial and denied the Motion to Arrest Judgment. Cross Appeals were filed by the Defendant and by the District Attorney to this Court.
+Two basic questions arise from the underlying facts of this instant case. Was the Commonwealth’s evidence sufficient to support the jury verdict? If so, did the Trial Court exceed its authority granting the motion for a new trial? And, if not, did the Trial Court err in refusing the Defendant’s motion in Arrest of Judgment?
+The Croyden V.F.W. (V.F.W.) was located on the first floor of a three story building in Croyden, Bristol Township, Bucks County, Pa. In the early morning hours of January 20, 1978, while fresh snow was falling, the Bristol Town police received a call at 4:19 a. m. that a burglary was in progress at the V.F.W. An officer witnessed two sets of fresh footprints leading from a tire track to the building. One set of footprints led from the building through the woods to the place on the State Road where the Defendant was placed in custody. The other suspect (Amareld) was found inside the V.F.W. Upon searching the Defendant, along with displaced liquor bottles both inside and outside the building, police found lead filled gloves on his person. The window at the V.F.W. had been broken. The Commonwealth seeks to infer that Defendant broke the window in furtherance of the conspiracy or burglary. Through the footprints Commonwealth seeks to infer that these belong to Defendant since Defendant was found near the point where the prints left the boards and entered the State Road.
+The primary issue is the sufficiency of the Commonwealth’s evidence, i. e. could their presentation at trial conceivably support the jury verdict?
+It has been well established law in this Commonwealth that the test for sufficiency of evidence in a criminal case is whether, viewing all the evidence admitted at trial, in light most favorable to the Commonwealth, there is sufficient evidence to enable the trier of fact to find every element of the crime beyond a reasonable doubt. Commonwealth v. Coades, 260 Pa.Super. 327, 394 A.2d 575, 576 (1978).
+The evidence and the reasonable inferences taken in the light most favorable to the Commonwealth establish that two people went from Bellview Avenue to the V.F.W. Building, the window was smashed, liquor bottles were piled both inside and outside the window, one suspect was caught inside the building, one set of tracks led away from the building to where the defendant was caught and the defendant was found to have had lead-knuckle gloves in his pocket, and most importantly, the defendant lied as to his presence at the scene.
+Although mere presence at the scene is insufficient to convict, Commonwealth v. Bailey, 448 Pa. 224, 292 A.2d 345 (1973), Commonwealth v. Roscioli, 454 Pa. 59, 309 A.2d 396 (1973) , Commonwealth v. Leach, 455 Pa. 448, 317 A.2d 293 (1974) and mere presence or flight from the scene is not, in itself, sufficient to establish a conviction, Commonwealth v. Fields, 460 Pa. 316, 333 A.2d 745 (1975), the jury could, and did, conclude that Amareld and Swift, the defendant, went to the V.F.W. building together, that one or both of them smashed the window, that Amareld went inside to get the liquor, that the bottles were handed out the window to Swift and that when the police arrived, Swift fled through the woods to the point of his capture. There is more than mere presence at the scene and flight. The evidence and inferences also show the affirmative involvement of two persons and the defendant’s untruth about his presence at the scene.
+We conclude that the evidence is sufficient to support a jury verdict. In doing so, we need not address the question of any error in the Trial Court’s refusal of defendant’s Motion in Arrest of Judgment.
+The second issue is the question of the authority of the Trial Court in granting the Motion for a New Trial.
+Prior to sentencing, the Trial Court, sua sponte, vacated the prior orders issued by that Court. Not only is that Court permitted by law to consider and rule in post-trial motions, Pa.R.Crim.P. 1123, reconsider its rulings on previously raised pre-trial or trial motions, but in addition, other grounds for a new trial can be considered “upon cause shown”. Pa.R. Crim.P. 1123 (a). Upon reflection of its own decisions, and upon reconsideration of the prosecution’s demeanor and remarks before the jury, the Trial Judge felt it necessary to reverse his earlier order denying a motion for a new trial (Trial Court Opinion P. 10).
+The Trial Court, in his Opinion at page 7, correctly states the function of and position of his role at trial, i. e., “to apply the law in a fashion which could bring about a just result.” Just as after-discovered evidence is considered as a basis for a new trial (Pa.R.Crim.P. 1123 (d)) the judge, in keeping with his function and position, can consider evidence which later becomes known to him and which may well have or could have affected the jury’s verdict if known at time of trial.
+The Commonwealth’s position in urging this court to disregard completely all the events which the Trial Court judge considered and which occurred after the trial as legally irrelevant, is not valid. We can affirm the granting of a new trial. Perhaps more convincing than the philosophical reasoning behind the Trial Courts discussion of function and role of the Trial Judge is the fact that certain improper and prejudicial remarks were made by the Assistant District Attorney in his closing arguments. The defendant testified in his defense at trial and his credibility, along with that of all witnesses was decided by the jury. Commonwealth v. Bogan, 482 Pa. 151, 393 A.2d 424 (1978). When the Assistant District Attorney made reference to the incapability of Defendant’s testimony as being credible, he precipitated a defense objection and a motion for mistrial. (Record p. 208).
+The Pennsylvania Supreme Court has held that a prosecutor may not express his personal opinion regarding a defendant’s guilt or credibility and, in doing so, “clearly and improperly intrudes upon the jury’s exclusive function of evaluating the credibility of the witness.” Commonwealth v. Gilman, 470 Pa. 179 at 180 and 191, 368 A.2d 253 at 258 and 259 (1977).
+The Defendant, Swift, believe that such remarks of the Assistant District Attorney represent improper trial conduct that injects his personal opinion of the defendant’s credibility and intrudes upon the jury’s function by implying guilt based on personal opinion. When a prosecutor comments in such a manner, it is so highly prejudicial that it can be remedied only by the granting of a new trial. Commonwealth v. Potter, 445 Pa. 284, 285 A.2d 492 (1971), Commonwealth v. Caesar, 478 Pa. 575, 387 A.2d 471 (1978). For the above reasons, it is obvious that the Trial Court did not exceed its authority in the reversal of its earlier order denying defendant’s Motion for a New Trial. Therefore, such order must be affirmed.
+The Trial Court has the broad overview ability and responsibility to oversee the trial process, both with respect to the establishment of the burden of proof and the application of due process. With that function in mind, we deny all appeals, affirm the Trial Court’s Order and remand the case.
+Affirmed and Remanded.
+CAVANAUGH, J., files a concurring statement.
+
+## Concurrence (CAVANAUGH, Judge,)
+
+CAVANAUGH, Judge,
+concurring:
+I concur in the result which is to grant a new trial.
