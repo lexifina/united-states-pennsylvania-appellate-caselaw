@@ -1,0 +1,42 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2692 C.D. 1978"
+decided: "1980-01-22"
+citations: ["49 Pa. Commw. 9"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Wilkinson, Jr., Rogers and Craig, sitting as a panel of three.", "Judge DiSalle did not participate in the decision in this case."]
+parties: ["James C. Johnston, Jr., M.D., Petitioner v. Commonwealth of Pennsylvania, State Board of Medical Education and Licensure, Respondent."]
+source_url: "https://static.case.law/pa-commw/49/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1906514
+cites_cases: ["129 U.S. 114", "135 A. 237", "287 Pa. 531", "347 U.S. 442", "408 A.2d 572", "47 Pa. Commonwealth Ct. 500"]
+---
+
+# Johnston v. Commonwealth, State Board of Medical Education & Licensure
+
+## Majority (Judge Wilkinson, Jr.,)
+
+Opinion by
+Judge Wilkinson, Jr.,
+Petitioner has filed this petition for review challenging an order of the State Board of Medical Education and Licensure (Pennsylvania Board), revoking his license to practice medicine in Pennsylvania pursuant to terms of the Medical Practice Act of 1974 (Act), Act of July 20, 1974, P.L. 551, as amended, 63 P.S. §421.1 et seq. following the revocation of his license to practice medicine in the State of Washington by that state’s medical licensing authority (Washington Board). We affirm.
+Licensed to practice medicine in Pennsylvania in 1972 following completion of his medical education, petitioner soon after set up practice in the State of Washington where he was a duly licensed physician. On December 6, 1976, charges were brought against petitioner alleging gross incompetence in the practice of medicine resulting in the deaths of two of his patients. Petitioner’s Washington license was summarily suspended the following day. An additional charge, that petitioner aided and abetted an unlicensed person to practice medicine, was brought on February 1, 1977. Following hearings on all charges the Washington Board on July 6, 1977, revoked petitioner’s license to practice medicine in that state. An appeal was promptly filed in the Superior Court of the State of Washington.
+By Citation and Notice of Hearing forwarded to petitioner by the Pennsylvania Board, petitioner was charged with having had his license to practice medicine in the State of Washington revoked and ordered to show cause why his license to practice medicine in Pennsylvania should not be suspended or revoked pursuant to subdivision (a) (4) of Section 15 of the Act, 63 P.S. §421.15(a) (4).
+Petitioner challenges on constitutional grounds the validity of Section 15(a)(4) of the Act. Since the question would appear to be one of first impression in this Commonwealth, it would seem that making some preliminary observations concerning the power of the state to regulate the practice,of medicine and related health professions through licensing might be helpful.
+The potential clash between the interests of persons engaged in a profession like medicine and those of members of the public who rely on the expertise of such professionals as embodied in the state-issued license was recognized nearly a century ago by Justice Field of the United States Supreme Court:
+It is undoubtedly the right of every citizen of the United States to follow any lawful calling, business or profession he may choose. . . . The interest . . . [in] continu[ing] their prosecution, is often of great value to the possessors, and cannot be arbitrarily taken from them, any more than their real or personal property can be thus taken. But there is no arbitrary deprivation of such right where its exercise is not permitted because of a failure to comply with conditions imposed by the State for the protection of society. The power of the State to provide for the general welfare of its people authorizes it to prescribe all such regulations as, in its judgment, will secure or tend to secure them against the consequences of ignorance and incapacity as well as of deception and fraud.
+Dent v. West Virginia, 129 U.S. 114, 121-22 (1889).
+More recently that Court observed the broad extent of State power in this area:
+It is elemental that a state has broad power to establish and enforce standards of conduct within its borders relative to the health of everyone there. It is a vital part of a state’s police power. The state’s discretion in that field extends naturally to the regulation of all professions concerned with health.
+Barsky v. Board of Regents, 347 U.S. 442, 449 (1954). Justice Field recognized the justification for the especially close supervision of the medical profession. “Every one may have occasion to consult him, but comparatively few can judge of the qualifications of learning and skill which he possesses. Reliance must be placed upon the assurance given by his license, issued by an authority competent to judge in that respect, that he possesses the requisite qualifications.” Dent, supra at 122-23.
+The standard against which the validity of Section 15(a)(4) must be tested was announced by our own Supreme Court in Harris v. State Board of Optometrical Examiners, 287 Pa. 531, 135 A. 237 (1926). Statutes regulating the practice of medicine and its ■branches are to safeguard the public health and welfare and such regulatory measures if not unreasonable or arbitrary constitute a proper exercise of the police power.
+We hold that the Legislature’s authorization of suspension or revocation following disciplinary action taken by another state against a holder of a Pennsylvania license found in Section 15(a)(4) is neither unreasonable nor arbitrary and constitutes a valid exercise of the state’s police power. Because the Pennsylvania Board has no real independent ability to monitor the performance of Pennsylvania-licensed physicians who conduct their practices out-of-state, we view the authority of the Pennsylvania Board to act swiftly upon official verification of disciplinary action in another state as most salutary.
+We find no merit in petitioner’s challenge to the procedural regularity of the Pennsylvania Board’s action against him. Petitioner was given due and adequate notice of the charges against him nearly seven weeks in advance of the Pennsylvania Board’s hearing at which he was accorded a full and fair opportunity to address the charges. The certified documents of the Washington Board concerning the events which occurred in the State of Washington provided sufficient competent evidence to support the Pennsylvania Board’s determination.
+Finally, petitioner’s arguments concerning the procedural and substantive validity of the Washington Board’s action are properly addressed, as petitioner has done, to the courts of the State of Washington. Since the Pennsylvania Board is acting on the fact of disciplinary action in another state rather than the underlying events leading to that action, the substance of the charges and the procedure utilized in their resolution must, for purposes of Section 15(a) (4), be considered immaterial.
+Accordingly, we will enter the following
+Order
+And Now, January 22, 1980, the order of the State Board of Medical Education and Licensure dated November 8, 1978, sustaining the revocation of the license to practice medicine of James O. Johnston, Jr., M.D., License Number MD-13431-E issued July 1,1972 is hereby affirmed.
+Judge DiSalle did not participate in the decision in this case.
+From petitioner’s brief we learn that the Superior Court of the State of Washington, the trial level court and the court of first appeal from adjudications of an administrative agency, by Memorandum Opinion dated February 9, 1979 ’ sustained the findings of - fact and conclusions of law of the Washington board. To our knowledge no final decree has been issued by that court which in any event is subject to further appellate review in the State of Washington.
+We recognize, of course, that a question concerning the validity of disciplinary action of the Pennsylvania Board pursuant to Section 15(a)(4) was raised in the recent case of DeMarco v. State Board of Medical Education and Licensure, 47 Pa. Commonwealth Ct. 500, 408 A.2d 572 (1979). The constitutional validity of the instant statutory provision, however, was expressly not considered there by our Court since it had not been raised by the parties. The case law of our sister states is similarly unavailing on this question.
