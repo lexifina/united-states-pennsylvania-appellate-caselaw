@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "434"
+decided: "1983-12-09"
+citations: ["321 Pa. Super. 536", "468 A.2d 1118"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before ROWLEY, BECK and MONTEMURO, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania Ex rel. Marion JACOBS, a/k/a Frank Davis v. A.S. DIGIACINTO, Warden of Northampton County Prison, Easton, Pennsylvania. Appeal of Marion JACOBS, a/k/a Frank Davis."]
+source_url: "https://static.case.law/pa-super/321/cases/0536-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 590317
+cites_cases: ["124 A.2d 110", "230 Pa.Super. 70", "238 Pa.Super. 584", "319 Pa.Super. 531", "321 A.2d 637", "326 A.2d 886", "361 A.2d 652", "385 Pa. 545", "456 Pa. 423"]
+---
+
+# Commonwealth ex rel. Jacobs v. Digiacinto
+
+## Majority (MONTEMURO, Judge:)
+
+MONTEMURO, Judge:
+In this appeal denying habeas corpus relief to the appellant, Marion Jacobs, a/k/a Frank Davis, we are called upon to determine whether the substantive and procedural safeguards afforded by the Uniform Criminal Extradition Act [hereinafter Extradition Act] apply to persons held' under out-of-state parole violation detainers. We can determine no valid rationale to except parole violation detainers from the purview of the Extradition Act, and consequently reverse the order of the lower court.
+The relevant facts of this case are as follows: On October 9, 1981, the appellant was arrested on multiple charges stemming from an incident in Northampton County. He was unable to post bail and was therefore incarcerated in Northampton County Prison to await trial.
+On October 22, 1981, New Jersey authorities lodged a detainer against the appellant based on a violation of his New Jersey parole. On November 13, 1981, the Commonwealth petitioned for, and received, an additional sixty days in which to process the appellant’s extradition to New Jersey. 42 Pa.C.S.A. § 9138. On January 22, 1982, the appellant, through counsel, filed a petition for writ of Habeas Corpus, alleging that more than ninety days had elapsed since the detainer had been lodged during which no action had been taken, and that, as such, the detainer should be lifted. 42 Pa.C.S.A. § 9131.
+A hearing on the petition was held on January 29, 1982. On February 2, 1982, the lower court issued an order denying appellant’s petition. In an opinion filed along with the order, the trial court found that the Agreement on Detainers was inapplicable because the appellant was awaiting trial on charges in Pennsylvania, and was not under an imposed sentence of imprisonment following a conviction. The court further found that the Extradition Act did not require that the detainer be lifted because it was premised on a parole violation, not a pending criminal proceeding. The court distinguished between the two situations on various policy grounds and held that the safeguards of the Extradition Act do not apply to parole violation detainers until the detainer becomes the sole basis for custody. Because the appellant was being held on criminal charges in addition to the detainer, the provisions of the Extradition Act were found inapplicable, and relief was denied.
+Our courts have often held that the lodging of a detainer against one already in custody on other charges is an “arrest.” Commonwealth ex rel. Knowles v. Lester, 456 Pa. 423, 426, 321 A.2d 637, 639-40 (1974); Commonwealth v. Jacobs, supra; Commonwealth ex rel. Coffman v. Aytch, 238 Pa.Super. 584, 361 A.2d 652 (1976). We do not find any basis for distinguishing detainers based on parole violations, from those based on criminal prosecutions. The Extradition Act itself makes no exception for detainers based on parole violations. 42 Pa.C.S.A. § 9134. The detainer constitutes an additional, albeit redundant, restriction on the appellant’s liberty, and is, therefore, an arrest as provided for in the Extradition Act.
+The Extradition Act provides that “the judge, or issuing authority must ... commit [the detained] to county jail for such a time, not exceeding 30 days ... as will enable the arrest of the accused to be made under a warrant of the Governor ... of the state having jurisdiction of the offense____” 42 Pa.C.S.A. § 9136. As stated, the detained party can be recommitted for a period not exceeding sixty days. 42 Pa.C.S.A. § 9138. If a Governor’s warrant is not produced by the Commonwealth within ninety days, the detainer must be lifted. Commonwealth ex rel. Knowles v. Lester, supra; Commonwealth ex rel. Goodroe v. Roth, 230 Pa.Super. 70, 326 A.2d 886 (1974).
+Based on the above analysis, we have no alternative but to reverse the lower court’s order and grant the relief requested by the appellant. The Commonwealth and the New Jersey authorities should have taken the appropriate steps to procure a Governor’s warrant and implement extradition proceedings in accordance with the provisions of the Extradition Act.
+If the proper warrant had been procured, the Governor of this state would have had the discretion, during the pendency of the criminal prosecution in Pennsylvania, to “surrender him on demand of the executive authority of [New Jersey] or hold him until he ha[d] been tried and discharged or convicted and punished in this Commonwealth.” 42 Pa.C.S.A. § 9140. In the latter event, New Jersey’s interest is still protected inasmuch as the extradition is merely deferred. Commonwealth ex rel. Houser v. Seip, 385 Pa. 545, 124 A.2d 110 (1956). Additionally, should the appellant be tried and convicted on the charges in Northampton County, he would then be within the purview of the Agreement on Detainers, 42 Pa.C.S.A. § 9101 et seq.
+The Order of the Court of Common Pleas is reversed and the detainer is discharged. Case remanded. Jurisdiction is not retained.
+. Act of July 9, 1976, P.L. 586, No. 142, § 2, 42 Pa.C.S.A. § 9121, etseq.
+. On October 23, 1981, the New Jersey authorities lodged a second detainer against the appellant based on robbery charges in Salem County, New Jersey. The Commonwealth filed for an extension of sixty days to process the extradition papers. The extension was granted. At the extradition hearing, appellant requested permission to file an application for habeas corpus which was denied. The court then ordered extradition on the robbery charges. The appeal was taken from this order and this court reversed the order and remanded the case to afford the appellant an opportunity to file an application for habeas corpus. Commonwealth v. Jacobs, 319 Pa.Super. 531, 466 A.2d 671 (1983).
+. Act of July 9, 1976, P.L. 586, No. 142, § 2, 42 Pa.C.S.A. § 9101.
