@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 132"
+decided: "1931-07-08"
+citations: ["102 Pa. Super. 527"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Tkexler, P. J., Keller, Linn, Gawthrop, Cunningham, Baldrige and Drew, JJ."]
+parties: ["Wible v. Shor, Appellant."]
+source_url: "https://static.case.law/pa-super/102/cases/0527-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 695525
+cites_cases: ["296 Pa. 561", "79 Pa. Superior Ct. 117", "85 Pa. Superior Ct. 329"]
+---
+
+# Wible v. Shor
+
+## Majority (Baldrige, J.,)
+
+Opinion by
+Baldrige, J.,
+The plaintiff brought this action in trespass against a dentist for injuries sustained when a patient in his office. From a judgment entered on a verdict for the plaintiff, we have this appeal.
+On October 15, 1928, the plaintiff visited the dental office of the defendant to have adjusted a set of teeth, which the defendant had previously made for her and which fit improperly. The defendant’s assistant heated the heeolite plate, in which the teeth were set, to make it pliable and susceptible to the proper adjustment. The plaintiff testified that when the plate was placed in her mouth she complained that it was very hot, and thereupon the attending dentist removed it and went out of the office. In a few minutes he returned with another dentist and again they placed in her mouth the plate “which was terribly hot,” and the two dentists held her forcibly in the chair until the plate cooled. In consequence of this treatment, her mouth “immediately came in blisters and just hung in rags.” She experienced • pain and soreness for nearly two months and was required to consult a physician, who treated her on four different occasions. She was corroborated as to certain details by her son who accompanied her to the defendant’s office. Her attending physician testified that she came to his office, November 15, 1928. Although a month had elapsed since the occurrence, he found that the interior of her mouth was “red, swollen and along the gums there were sheets of membrane hanging,” which could have been caused by the heated plate. The dentist called for the plaintiff in rebuttal testified that in order to make heeolite plastic, it would have to be placed in steaming hot water.
+The defendant’s witnesses denied the testimony of the plaintiff, stating that her mouth was difficult to fit as she had large condyles; that an endeavor was made to spring the corners of the plate over them, and in order to accomplish this, by manipulation without breaking the plate, it was necessary to soak it in water heated to 100 to .103 degrees Fahrenheit. One of the dentists testified that he took the. plate out of the ■warm water, tested it as to heat by holding it on the back of his hand and by putting it next to his cheek; that before there .was sufficient opportunity to make the proper adjustment, the plaintiff complained of being burned, jumped out of the chair, and ran out of the office.
+The appellant contends that the testimony was insufficient to sustain the verdict. To so hold, the trial judge would have had to assume the duties of a trier of facts and to pass on the credibility of witnesses and on the weight to be given to their testimony; and after so doing, to have disregarded the testimony in behalf of the plaintiff, which was sufficient to support a verdict. The trial judge would not have been within his rights to arrogate unto himself those duties and to substitute his judgment for the jury’s.
+It is argued also that under the ruling in Remley v. Plummer, 79 Pa. Superior Ct. 117, and Barnard v. Schell, 85 Pa. Superior Ct. 329, as three experienced, practicing dentists called by the defendant testified that the method employed in adapting the plate to plaintiff’s mofith was usual and proper, the defendant was not liable, notwithstanding that a dentist called by the plaintiff testified to the contrary. In those cases, it was held that where medical authority is divided, a physician will' not be responsible if, in the exercise of his judgment, he follows a’ course of treatment advocated by a considerable number of his professional brethren in good standing. But that principle is not involved in the case at bar. This was not a disputed question of scientific dentistry. The defendant does not attempt to justify, as a proper practice, the insertion of a super-heated plate in a patient’s mouth to adjust it. The issue here is, whether the plate, in fact, was in such a heated condition as to inflict the burns complained of.
+It is further complained that the trial judge erred in admitting in evidence and sending out with the jury, hecolite in a carton having certain printed or stamped statements thereon. The record does not show the nature of the objectionable matter, nor does it disclose that there was any exception taken to the court’s action. The counsel for appellant argued’that an exception was taken, but we must be governed by the record before us.
+-Finally, the appellant maintains that the verdict is excessive. The plaintiff was in business as a manufacturer’s representative of dresses and lingerie. She went to her place of business but she sat in her private office and allowed her stenographer to interview the trade, as much-as possible, as she was ashamed to appear without teeth. She suffered great physical pain, her sleep was interfered with, and she was unable to eat normally for a period of about two months. The jury brought in a verdict of $1,00,0, which was subsequently reduced by the learned court below to the sum of $750, which was estimated to be fair and conservative in view of the testimony. Judgment will be reversed on appeal on account, of an exorbitant verdict only where the impropriety of permitting it to stand is so clear as to show an abuse of discretion on the part of the court below in declining to set it aside: Amey v. Erb, 296 Pa. 561, 567.
+-In view, of the nature of the injuries, we cannot say that the induced judgment is so out of proportion to the damages proven as to make it necessary to grant a new trial. .
+Judgment is affirmed.
