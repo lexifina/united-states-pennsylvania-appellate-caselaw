@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 353"
+decided: "1964-03-17"
+citations: ["203 Pa. Super. 29"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Ervin, Weight, Woodside, Watkins, Montgomery, and Flood, JJ."]
+parties: ["Commonwealth ex rel. Munder v. Munder, Appellant."]
+source_url: "https://static.case.law/pa-super/203/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 767899
+cites_cases: ["113 A. 2d 327", "161 A. 2d 922", "162 Pa. Superior Ct. 10", "170 Pa. Superior Ct. 570", "178 Pa. Superior Ct. 82", "184 A. 2d 361", "192 Pa. Superior Ct. 502", "199 Pa. Superior Ct. 255", "358 Pa. 118", "56 A. 2d 228", "87 A. 2d 799"]
+---
+
+# Commonwealth ex rel. Munder v. Munder
+
+## Majority (Watkins, J.,)
+
+Opinion by
+Watkins, J.,
+In this non-support proceeding brought by Margaret J. Munder, the wife-appellee, against Raymond A. Munder, husband-appellant, in the Court of Quarter Sessions of Montgomery County, under the provisions of The Penal Code (Act of June 24, 1939, P. L. 872, §733, as amended, 18 PS §4733), an order was entered for the payment by the husband of $60 per week for the support of his wife.
+The husband is 61 years of age, the wife 59. He is in good health; is President and sole stockholder of the Penn Leasing Company. The husband left his wife on June 14, 1963 and moved to Baltimore, Maryland, where he rented an apartment. The wife is presently living in the house they both occupied for twenty years before the separation. This property is owned jointly so that payments made upon the mortgage, insurance, maintenance, etc., improves his equity in the property. It is a stone house, with a slate roof, six bedrooms, three and one-half baths, living room, dining room, kitchen, pantry, laundry and one and one-third acres of land. They have an offer for the purchase of this home of $37,500 but both have agreed to hold it for $40,000. The sale of the house would reduce the expenses of the wife but both are equally responsible for that situation.
+Although the husband did not leave for Baltimore until June 14, 1963, he had advised his wife of his intention to leave the state and she had full knowledgé of the fact that he had rented an apartment in that city. He admitted stating to his wife that he would not give her one penny more than $112 per month. Because of this statement and the knowledge that he was leaving the state, on advice of counsel, she filed her information on June 7, 1963. The record indicates that beginning with July his only contribution was $21 per month.
+The contention of the husband is that there is legally insufficient evidence to support the charge that the husband failed and neglected to support and maintain his wife; and that under the factual circumstances the order of $60 a week is unreasonable.
+- The court below found that the wife’s expenses in connection with the house were over $50 weekly and her personal expenses approximately $128 per week. He also found that the expenses were incurred while maintaining substantially the same standard of living which she enjoyed when the parties were living together. Com. ex rel. Rankin v. Rankin, 170 Pa. Superior Ct. 570, 87 A. 2d 799 (1952). She has an income from a trust fund and some common stocks of approximately $75 per week.
+The husband’s gross income in 1962 was over $14,-000 or approximately $280 per week. He also realized $6700 in capital gains. There was evidence that his 1962 income from his leasing rental business of $10,-700 would be reduced to $9400 in 1963. He also testified that he expected further reductions in his income but if this does come about he can petition the court for a reduction based on change of circumstances. Under this record the court below did not abuse its discretion in fixing an order of $60 a week as the evidence amply supports it, and the amount directed to be paid is less than one-fourth of his gross income.
+The husband contends that this action should be dismissed because at the time of the filing of the information he did not fail and neglect to support and maintain his wife. It is true that an order of support cannot be entered in the absence of evidence to sustain a finding that the husband either deserted his wife or neglected to support her. Com. ex rel. Hamilton v. Hamilton, 199 Pa. Superior Ct. 255, 184 A. 2d 361 (1962); Com. ex rel. Turner v. Turner, 192 Pa. Superior Ct. 502, 161 A. 2d 922 (1960); Com. v. George, 358 Pa. 118, 56 A. 2d 228 (1948). “A husband may be prosecuted under either (§731 or §733 of the Act of 1939) although there is no proof of desertion, provided there is neglect to maintain.” Com. v. Peters, 178 Pa. Superior Ct. 82, 86, 113 A. 2d 327 (1955).
+It is true that as of June 7, when the information was lodged and throughout the month of June, the husband did support and maintain his wife but at the hearing which was held on August 26, 1963, the testimony is ample that he discontinued his former payments in July and admitted his statement that he would not give her one penny more than $112 per month and in fact, only contributed $21 a month toward her expenses, so that as of that time and including the time of the hearing there was ample evidence of his neglect to maintain his wife. As the court below said: “His statements prior to the separation, and his subsequent conduct in providing the inadequate support which he had indicated, shows that she was justified in seeking a support order at that time. There is no reason to require her to institute new proceedings to obtain the support to which she is entitled.”
+We agree with counsel for the wife that: “Since a support order cannot be retroactive and since the defendant might be able to purge himself of his illegal behavior as abovementioned, the clear, legislative intent of §733 would be subverted and a prosecutrix would be relegated to a series of nonsupport actions until an evasive pattern could be established which itself would become the grounds for the action. Since the duty of a husband to support his wife and children is a continuing one (see Commonwealth v. Dugan, 162 Pa. Superior Ct. 10 (1948)), one is logically led to the inevitable conclusion that the court must review and have before it the facts as they existed not only at the time of, and prior to, the execution of the information, but also as they existed up to the time of the hearing.”
+Order affirmed.
