@@ -1,0 +1,55 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "2283 C.D. 1991"
+decided: "1992-06-03"
+citations: ["148 Pa. Commw. 350", "611 A.2d 356"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before SMITH and KELLEY, JJ., and LEDERER, Senior Judge."]
+parties: ["The STANDARD FIRE INSURANCE COMPANY, Petitioner, v. INSURANCE DEPARTMENT, Respondent."]
+source_url: "https://static.case.law/pa-commw/148/cases/0350-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1433487
+cites_cases: ["102 Pa. Commonwealth Ct. 452", "106 Pa. Commonwealth Ct. 202", "129 Pa. Commonwealth Ct. 120", "338 F.Supp. 331", "401 A.2d 606", "43 Pa. Commonwealth Ct. 9", "640 F.Supp. 1497", "829 F.2d 409"]
+---
+
+# Standard Fire Insurance v. Insurance Department
+
+## Majority (KELLEY, Judge.)
+
+KELLEY, Judge.
+The Standard Fire Insurance Company (Standard) appeals from an order and adjudication of the Insurance Commissioner of the Commonwealth of Pennsylvania (Commissioner) affirming a determination by the Department of Insurance that Standard’s cancellation of Robert and Kathleen Boggi’s homeowners insurance policy violated section 5(a)(9) of the Unfair Insurance Practices Act (Act). We affirm.
+The Commissioner made the following findings of fact, which are not challenged by Standard.
+1. Robert and Kathleen Boggi are holders of Standard Fire Insurance Company (hereinafter “Standard Fire”) homeowners policy No. 204 SQ 21669870 PCS.
+2. By notice dated November 14, 1990, Standard Fire notified insureds that their policy would be cancelléd effective December 17, 1990 for the following reason:
+In your case, we learned from our Claim Department that on June 16, 1990, Robert Boggi was intoxicated and involved in a fight. He threw a stool and hit another person. We feel that this is an increase in hazard by reason of willful acts of the insured.
+[Docket Exhibit 1 (D—1); Notes of Testimony pages 5-6 (N.T. 5-6) ].
+3. On June 16, 1990, Robert Boggi was involved in an argument with his brother at Tom’s Sportsman Pub [Standard Fire Exhibit No. 8; N.T. 8].
+4. During the argument, Mr. Boggi threw a bar stool at his brother.
+5. The bar stool missed Mr. Boggi’s brother but broke some glass and injured a bartender (D-10; N.T. 12).
+6. Standard Fire has established a reserve of $15,000 in anticipation of a claim by the injured pub employee (N.T. 12).
+7. Since 1987 when the Boggis became insureds under the subject policy, no claims have been filed or paid by Standard Fire under the policy (N.T. 19).
+Upon receipt of Standard’s notice of cancellation, the Boggis requested that the department review the legality of the cancellation and, on December 13,1990, the department issued an “Investigative Report/Order” which found that the cancellation violated the Act, and ordered reinstatement. Standard requested a formal administrative hearing which was held on March 14, 1991. The Commissioner reviewed the record and, on September 30, 1991, affirmed the department’s directive to reinstate the policy. Standard now argues that the Commissioner erred in finding no “substantial increase” in risk, that the decision is inconsistent with other adjudications, and that the Commissioner abused her discretion in denying Standard’s request to re-open the record to consider additional evidence,
+Our scope of review of orders of the Commissioner is limited to a determination of whether constitutional rights have been violated, an error of law has been committed, or the findings of fact are supported by substantial evidence. Erie Insurance Exchange v. Insurance Department, 129 Pa. Commonwealth Ct. 120, 564 A.2d 1312 (1989).
+The Act prohibits insurance companies operating in this state from engaging in unfair trade practices, which are defined to include:
+Cancelling any policy of insurance covering owner-occupied private residential properties or personal property of individuals that has been in force for sixty days or more or refusing to renew any such policy unless ... there is a substantial increase in hazards insured against by reason of wilful or negligent acts or omissions by the insured; ...
+40 P.S. § 1171.5(a)(9).
+Although the phrase “substantial increase in hazards insured against” is not defined in the Act, this court has interpreted the phrase as requiring not just “a mere trifling increase in risk,” but rather “a substantial and material increase, such as the insurer, in view of the terms of the policy, could not reasonably be presumed to have contracted to assume.” Lititz Mutual Insurance Co. v. Sheppard, 43 Pa. Commonwealth Ct. 9, 13, 401 A.2d 606, 608 (1979).
+In Lititz Mutual, we held that the acquisition by the policyholder of a large dog was not such a “substantial increase” of hazard so as to justify cancellation or non-renewal. In Erie, we concluded that the policyholder’s conviction for possession with intent to distribute marijuana was not a substantial increase in hazard as related to a homeowners policy. In both of those cases, we considered as significant the fact that the insurer had presented no evidence that the acts of the policyholder would necessarily result in a substantial increase of the risk. Lititz Mutual, 43 Pa. Commonwealth Ct. at 13, 401 A.2d at 608 (no evidence of the dangerous propensities of the insured’s dog in particular); Erie, 129 Pa. Commonwealth Ct. at 123, 564 A.2d at 1313-14 (no evidence that the conviction will necessarily result in a substantial increase in the risk). From these cases, it is apparent that the insurer must present more than mere speculative evidence of the increase in risk.
+Here, Standard’s sole witness was James Kreis, unit manager in the underwriting departmént of Standard’s parent company, Aetna Casualty and Surety. Kreis testified that the intent of the subject policy was “to exclude coverage for intentional acts of a policyholder”; however, he also stated that “even though the basic contract says there’s no coverage for intentional acts, there’s a possibility there may be a payout at some point because of whatever happens through the claim resolution process.” Standard presented no evidence tending to establish that Boggi’s one violent outburst increased the probability that he would engage in similar acts in the future, thereby substantially increasing the risk to Standard.
+The Commissioner, in her adjudication and order, noted that this was an isolated incident, and further noted that the policy excludes coverage for intentional acts of the insured. The Commissioner also found that the Act requires more than a showing of one isolated willful or negligent act by the insured in order to constitute a substantial increase in hazard. We find no error of law in the Commissioner’s conclusions.
+Standard next argues that the Commissioner’s order in this case is not consistent with a prior adjudication, In Re: Appeal of James and Sandra Davis, Docket No. PH 86-11-2 (slip op., filed July 14, 1987). Initially, it is clear that a prior adjudication of the Commissioner has no precedential value before this court. Department of Environmental Resources v. Pennsylvania Mines Corp., 102 Pa. Commonwealth Ct. 452, 519 A.2d 522 (1986). While an administrative agency is not bound by the rule of stare decisis, Baker v. United States, 338 F.Supp. 331 (E.D.Pa.1972), an agency does have the obligation to render consistent opinions, and should either follow, distinguish or overrule its own precedent. Lehigh Valley Farmers v. Block, 640 F.Supp. 1497 (E.D.Pa.), aff'd, 829 F.2d 409 (3rd Cir.1986).
+In Davis, the insured fired a shotgun at his wife’s ex-husband and was convicted of simple assault with a deadly weapon. The insured then made a claim against his homeowners policy, requesting the insurer to defend for injuries caused to the ex-husband. The Commissioner, affirming the non-renewal of the policy, stated that “[o]ne who engages in such willful and intentional acts and then submits claims to his insurer for the harm which results therefrom, clearly constitutes an increase in moral hazard insured against.”
+Although, like the Commissioner, we do not condone the insured’s conduct in the present case, we find numerous distinctions from the conduct in Davis, where there was clear evidence of intent to inflict serious bodily harm, a criminal conviction resulting from that conduct, and a claim made by the insured seeking to compel insurer to defend for the injuries caused. None of these factors are present in the present case.
+Finally, Standard contends that the Commissioner erred in refusing to reopen the record to admit additional evidence of the Standard’s potential liability as a result of Mr. Boggi’s conduct. The evidence sought to be admitted consisted of a letter from the injured bartender’s attorney, dated April 23, 1991, demanding payment in excess of $30,000 as compensation for personal injury, wage loss and as subrogation for workmen’s compensation payments. Standard filed its petition to reopen the proceeding on May 2,1991. By order dated May 15, 1991, the Commissioner denied the request, noting that the letter “is neither relevant nor material to Standard Fire’s decision to cancel the Boggi policy as explained in its November 14, 1990 cancellation notice.”
+The Department argues that this issue was not raised in Standard’s petition for review, and has therefore been waived. We agree. Pa.R.A.P. 1513(a) provides that “[t]he statement of objections will be deemed to include every subsidiary question fairly comprised therein.” Although the petitioner need only make a general statement of the objections to the order sought to be reviewed, which may be refined subsequently in petitioner’s brief on the merits, objections which are raised for the first time in petitioner’s brief, which are not subsidiary questions fairly comprised in the main issue, will not be considered. Glesk v. Unemployment Compensation Board of Review, 106 Pa. Commonwealth Ct. 202, 525 A.2d 1249 (1987).
+Standard’s petition for review raised two issues: (1) that the Commissioner erred in holding that Mr. Boggi’s conduct did not constitute a substantial increase in hazard, and (2) that the adjudication was not supported by substantial evidence. Because the Commissioner’s denial of the petition to reopen was not objected to in the petition for review, we find that it has been waived. Were we to consider the issue, however, we would be constrained to agree that Standard must justify its cancellation based on facts as they existed at the time of the cancellation notice, and not on subsequent events.
+Accordingly, the order of the Commissioner is affirmed.
+ORDER
+NOW, this 3rd day of June, 1992, the order and adjudication of the Insurance Commissioner, Docket No. PH91-01-10, dated September 30, 1991, is affirmed.
+. Act of July 22, 1974, P.L. 589, as amended, 40 P.S. § 1171.5(a)(9).
+. Notes of Testimony (N.T.) at 14.
+. N.T. at 15.
+. The Commissioner’s adjudication and order in Davis is appended to Standard's brief in this case as Appendix B.
+. R. at 77a.
