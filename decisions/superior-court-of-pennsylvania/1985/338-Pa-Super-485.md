@@ -1,0 +1,64 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "02683 Philadelphia 1983"
+decided: "1985-01-30"
+citations: ["338 Pa. Super. 485", "487 A.2d 1386"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WIEAND, DEL SOLE and POPOVICH, JJ."]
+parties: ["Susan L. Piczon LOHMANN, as Parent and Natural Guardian of Christopher PICZON and Alexander Piczon, Minors, and Individually In Her Own Right, Appellant, v. Severino PICZON."]
+source_url: "https://static.case.law/pa-super/338/cases/0485-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 625206
+cites_cases: ["242 Pa.Super. 435", "244 Pa.Super. 264", "289 Pa.Super. 405", "294 Pa.Super. 81", "335 Pa.Super. 258", "364 A.2d 350"]
+---
+
+# Lohmann v. Piczon
+
+## Majority (POPOVICH, Judge:)
+
+POPOVICH, Judge:
+This is an appeal from an order of the Court of Common Pleas of Lackawanna County which dismissed appellant’s exceptions and entered a final decree. We affirm in part, reverse in part, and remand.
+The instant appeal arises from an action in equity wherein appellant, Susan L. Piczon Lohmann, as parent and natural guardian of Christopher Piczon and Alexander Pic-zon, minors, and individually in her own right, sought to enforce the terms of a support agreement between appellant, Susan L. Piczon Lohmann, and appellee, Severino Piczon, her former husband, which agreement was entered into on February 4, 1976. After a hearing before a chancellor, appellant filed timely exceptions. This appeal followed the entry of a final order.
+Pursuant to the terms of the agreement, appellee was obliged to pay to appellant, for the benefit of the parties’ minor children, a sum equal to twenty-five percent of appel-lee’s “net income after taxes”. The action in equity centers upon the proper definition of this term. The alleged ambiguity of the phrase does not involve the term “income” but to what extent the modifier “net” reduces it. Appellant argues that the amount upon which the twenty-five percent is to be calculated (hereinafter referred to as “base amount”) is exclusive of taxes and those expenses incurred by appellee in realizing his income, i.e. business expenses. Such a definition will result in a substantial underpayment commencing in 1977. Appellee, on the other hand, maintains that the base amount is exclusive of all taxes and deductions statutorily allowable, both business and personal. His calculations admit of underpayments in 1979 and 1980, but overpayments for the years 1976, 1977 and 1978. Therefore, both parties agree that taxes are to be excluded; the conflict centers on which, if any, of appellee’s statutorily-allowed deductions will be excluded.
+Appellant contends that the chancellor erred when he excluded parol evidence to explain the term “net income after taxes”. We agree and would remand the proceedings to the lower court so that parol evidence may be admitted to clarify the term “net income after taxes”.
+We are mindful that where a term in a written contract is clear, “this court will not re-write it or give it a construction in conflict with the accepted and plain meaning of the language used.” Litwack v. Litwack, 289 Pa.Super. 405, 433 A.2d 514 (1981). In the instant case, we must inquire as to whether the intention of the parties can be reasonably ascertained from the language of the writing alone. (See De Witt v. Kaiser, 335 Pa.Super. 258, 484 A.2d 121 (1984)).
+In De Witt v. Kaiser, this court held that parol evidence should be permitted where there is an ambiguous term. There, the threshold inquiry was whether such evidence was admissible for the purpose of clarifying the term “income” which was defined in the agreement but remained ambiguous. The parties disagreed as to whether the base amount, upon which payments to the wife were calculated, was exclusive of income from trusts. Wife-appellant offered to prove that her understanding at the time of contract formation was that such term included income from trusts of which her former husband was beneficiary.
+The court noted:
+Where a term is defined in a contract and is, therefore, presumably unambiguous, no further interpretation is justified since if the meaning is clear from the express language of the agreement, judicial construction is unnecessary. Eannarino v. Eannarino, 294 Pa.Super. 81, 439 A.2d 760 (1982)....
+We are convinced that in this case
+“While [appellant] cannot use parol evidence to add terms to the original description, such evidence is admissible to clarify the terms of the description so that the Court can act upon it.”
+Powell v. Powell, 244 Pa.Super. 264, 272, 367 A.2d 314, 318 (1976).
+In Kohn v. Kohn, 242 Pa.Super. 435, 364 A.2d 350 (1976), the issue on appeal was whether the trial court erred in refusing to receive evidence that the parties used the term “alimony” to mean “child support”, or simply, what was the meaning that the parties intended when they used the word “alimony”.
+“In general the court must adopt the construction which gives effect to the parties’ reasonable and probable intent, in view of the surrounding circumstances and the purposes of the contract, (cites omitted) And, although a word is generally used for its ordinary meaning, the context of the instrument may indicate it was used in a different sense, (cites omitted) If the meaning of a term is not clear, aprol (sic) evidence is admissible to resolve the ambiguity, but not to alter the terms of the contract____the Restatement of Contracts, Second, § 240 provides: “Agreements and negotiations prior to or contemporaneous with the adoption of a writing are admissible in evidence to establish ... the meaning of the writing, whether or not integrated____” Although there is Pennsylvania law stating that “parol evidence” may not be introduced unless the language of the written agreement is ambiguous on its face, this principle is substantially undercut by a competing proposition that extrinsic facts and circumstances may be proved to show that language apparently clear and unambiguous on its face is, in fact, latently ambiguous ...”
+Kohn v. Kohn, 242 Pa.Superior Ct. at 442-443, 364 A.2d at 353-355. (Emphasis added) De Witt v. Kaiser, supra.
+In the instant case, the chancellor below based his holding on Paragraph 2 of the support agreement which he found to define the term “net income after taxes” although no definition was specifically crafted as in De Witt v. Kaiser. He found it manifest that the base amount was to be keyed to appellee’s federal income tax return. This paragraph reads, in pertinent part, as follows:
+The support payments called for herein shall be paid by Husband to Wife Monday of each week in equal weekly installments. Said weekly installments being in proportion to the amount reported on Husband’s declaration of estimated income filed in connection with his United States Income Tax report for that year. However, in no event shall said weekly installments be less than one fifty second of Husband’s net income as reported on his prior year’s United States Income Tax return. Further, in the event that upon filing of Husband’s United States Income Tax return for the year during which support payments have been made, it shall be determined that Husband’s net income exceeded the amount upon which said payments were made, the balance due shall be paid to Wife no later than ten (10) days after said return is required by law to be filed. In the event of over payment, Husband shall be entitled to deduct the amount of said over payment at the rate of one twenty-fifth of the amount of said over payment each week for twenty-five (25) weeks. Appellant’s counsel made an offer of proof at trial indicating that the parties’ intentions regarding the meaning of the phrase was to exclude taxes and only business-related expenses. The court stated midway through the proceedings:
+On the basis of the parol evidence rule, we’ll sustain all objections concerning discussions of this term. (T-220)
+This evidentiary ruling was made after appellee’s accountant testified:
+It’s gross income less the statutorial deductions to arrive at adjusted gross income, and then deducting the itemized deductions, coming down to net income, the taxes that were paid on that income — on that taxable income on the tax returns that were taken directly from the returns, to come down to the net income after taxes. (T-74, 75)
+but before appellant’s accountant testified:
+Q What does (the term “net income”) mean to you?
+A The income less the expenses of earning that income, I would think.
+Q If you would consider itemized deductions that might be allowed by the Internal Revenue Service, would you, in your opinion, consider that to be encompassed in your definition of expenses incurred in realizing income.
+A No. I would not. (T-292, 293)
+Indeed, at the outset, in 1976, appellee paid appellant one-quarter of his paycheck.
+We hold, therefore, that the court abused its discretion in disallowing parol evidence and would remand for proceedings consistent with this opinion.
+Appellant further argues that the term “net income after taxes” should have been given its ordinary accounting meaning, i.e., total income less legitimate expenses of realizing such income, less taxes actually paid. We find it unnecessary to attempt to resolve the conflicting definitions provided by the parties’ accountants or to evaluate the case law provided by appellant. The decision as to whether to ascribe to the phrase its ordinary accounting meaning may only be made by the lower court after a hearing at which parol evidence is admitted.
+Finally, appellant requests certain reasonable attorneys’ fees incurred because of appellee’s breach of the agreement. Paragraph 13 of the agreement reads as follows:
+13. Husband shall reimburse Wife for all reasonable attorney’s fees incurred by Wife as a result of Husband’s failure to abide by this Agreement.
+In particular, appellant requests three amounts:
+(1) fees relating to the instant suit;
+(2) fees relating to defense of a suit brought by appellee to annul a deed to the parties’ marital residence which had been executed in favor of appellant.
+(3) a legal fee to ward off a sheriff’s sale of appellant’s personal property.
+The record is sparse in describing the events which necessitated the legal services enumerated at (2) and (3). Apparently, appellee deeded the parties’ marital residence to appellant in her own right and then she, in turn, deeded it to herself as trustee for the children. Appellee then brought an action in equity to annul the deed. The lower court held:
+Nowhere in the agreement is it stated that the wife shall receive a deed for the house.
+With respect to the attorney’s fees to ward off the sheriff’s sale, the lower court held that it was not as a “result of husband’s failure to abide by this agreement.” We cannot say that the lower court abused its discretion in so finding. There is no evidence presented that these legal fees resulted from appellant’s failure to abide by the agreement.
+We are, therefore, in agreement with the chancellor below that these fees are not recoverable; however, the fees attached to the instant suit are due from appellee. The court below found that appellee failed to maintain his life insurance policies pursuant to the agreement. Appellee effectively admitted this. Therefore, the court held that this suit is a direct effort to enforce said agreement and effect compliance with the terms thereof.
+Accordingly, with respect to legal fees incurred with respect to the instant suit, we affirm that portion of the adjudication and the decree of the lower court which
+(1) orders Severino Piczon to restore all insurance policies in effect on February 4, 1976, to status quo and remove all encumbrances thereon; and
+(2) awards appellant attorney’s fees incurred to date in the instant suit.
+Whether or not appellee will be liable for attorney’s fees henceforth will depend on whether they resulted from his failure to “abide by the agreement.”
+Order affirmed in part, reversed in part, and remanded for proceedings consistent with this opinion. Jurisdiction relinquished.
+. Moreover, we question whether social security or workman’s compensation payments would be constituents of the base amount were appellee to retire or become disabled. The agreement refers to “net income after taxes from whatever source or sources that income may be derived", but if it is to be strictly keyed to appellee’s Federal Income Tax return, such amounts would be excluded as non-taxables. (but see Eannarino v. Eannarino, 294 Pa.Super. 81, 439 A.2d 760 (1982) where social security payments were held to be includable in the term “net earnings after taxes" for support payment purposes under an agreement which defined “net earnings” to include "all income”.)
