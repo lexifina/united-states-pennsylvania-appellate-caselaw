@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2748"
+decided: "1979-12-21"
+citations: ["273 Pa. Super. 48", "416 A.2d 1082"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CERCONE, President Judge, and LIPEZ and WATKINS, JJ."]
+parties: ["Leroy WASHINGTON, Appellant, v. Hading LIBERI."]
+source_url: "https://static.case.law/pa-super/273/cases/0048-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 136677
+cites_cases: ["250 Pa.Super. 194", "257 Pa.Super. 542", "268 Pa.Super. 245", "269 Pa.Super. 275"]
+---
+
+# Washington v. Liberi
+
+## Majority (CERCONE, President Judge:)
+
+CERCONE, President Judge:
+This is an appeal from the order of the Court of Common Pleas of Philadelphia County denying appellant’s petition for reconsideration of an earlier order denying his motion to strike a non pros. In the alternative appellant sought to have the court reenter the earlier order denying his motion to strike so that he could belatedly challenge it on appeal. We affirm the decision of the lower court.
+A judgment of non pros was entered on September 24, 1976 against appellant for his failure to answer written interrogatories. The judgment was entered pursuant to the procedure established by Philadelphia Civil Rule 145 which provided that the prothonotary, upon praecipe and certification of notice by the appellee, was to enter an interlocutory order requiring the adverse party to file answers to interrogatories within thirty days. If no answer was filed within that time, the interlocutory order was to be made final and a judgment of non pros entered. On November 23, 1976, plaintiff-appellant filed a motion to strike the judgment of non pros alleging that counsel had never received notice of the filing of the praecipe and intent to file an interlocutory order. The oral argument on the petition was heard in February, 1977, but decision was delayed due to the parties’ indication to the trial court that they might reach an amicable settlement. When it became apparent that this would not occur, the lower court sent a letter to counsel informing them that a decision would be reached on June 2, 1977. An order dated June 6, 1977 was mailed to the attorneys on June 8, 1977 wherein the lower court denied plaintiff’s petition to strike the judgment of non pros. Notice of this order also appeared in the Legal Intelligencer. No appeal was taken from this order.
+Thirteen months later, on July 5, 1978, plaintiff-appellant filed his petition for reconsideration of the order of June 6, 1977 which had denied his motion to strike. This time appellant alleged counsel had not received notice of the order denying his petition to strike, and asked the lower court to reconsider that order or reinstate it nunc pro tunc in order that plaintiff-appellant’s appellate remedies could be preserved. On October 30, 1978, the lower court denied the petition for reconsideration and it is from that order that appellant has appealed to this court.
+The opinion of the lower court supporting the order of October 30, 1978 states that in addition to claiming he never received notice of the refusal of the petition, plaintiff-appellant argued that the Philadelphia Civil Rule 145 was void for being inconsistent with Pa.R.C.P. 4019. Although appellant did not raise this issue with his original motion to strike, it is the only issue he raises on appeal before us now. Our court has recently declared Philadelphia Civil Rule 145 invalid in Gonzales v. Procaccio Bros. Trucking Co., 268 Pa.Super. 245, 407 A.2d 1338 (1979), but that case has not been applied retroactively, and it does not compel reconsideration of an order entered in June, 1977. The order of June 6, 1977 that denied plaintiff-appellant’s petition to strike is the order which determined the rights and duties of the parties. It is from that order which appellant should have appealed within 30 days. Pa.R.A.P. 903(a). An appellate court is prohibited from enlarging the time for filing an appeal. Pa.R.A.P. 105(b). Furthermore, a petition for reconsideration does not affect a final order unless the lower court grants a stay of all proceedings or grants reconsideration within 30 days of the order. Pa.R.A.P. 1701; Provident Nat'l Bank v. Rooklin, 250 Pa.Super. 194, 378 A.2d 893 (1977), allocatur refused 12/12/77. None of these procedures was followed and, therefore, the trial judge correctly refused to reconsider the June, 1977 order.
+The instant case is similar to Strickler v. United Elevator Co., Inc., 257 Pa.Super. 542, 391 A.2d 614 (1978). There, our court stated if a party fail's to properly appeal from an order denying a motion to strike a judgment of non pros entered pursuant to Philadelphia Civil Rule 145, the effect of the order was the final determination of the suit. United Elevator had appealed the original order in an untimely fashion and our court entered an order quashing the appeal. Thereafter, United Elevator filed a petition for reconsideration which was entertained by the lower court judge. Our court reversed and held that the lower court judge had no authority to reconsider the original order. We stated:
+“Having failed to follow established procedures for appellate review, [the moving party] waived any right it may possess to have its contentions reconsidered in a collateral attack. To uphold [the moving party’s] attempt to circumvent the decision of our court would undermine the validity of the appellate powers and permit a party to escape the procedural requirements of perfecting an appeal.” Id., 257 Pa. Super. at 549, 391 A.2d at 618.
+The reconsidered order was held invalid.
+This reasoning is applicable to the case at bar. Appellant failed to exercise his appellate rights within thirty days of June 6,1977. As noted by the lower court, the allegation by counsel that he received no notice of the entry of the order is not credible, since the docket entries clearly reflect that such notice was mailed to counsel and was published in the Legal Intelligencer. Thus, the June 6, 1977 order was final and could not be attacked more than one year later by a subsequent petition for reconsideration.
+Order of the lower court affirmed.
+See Matos v. SEPTA, 269 Pa.Super. 275, 409 A.2d 886, (1979).
