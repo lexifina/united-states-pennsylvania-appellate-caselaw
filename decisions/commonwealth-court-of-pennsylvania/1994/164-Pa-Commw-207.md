@@ -1,0 +1,65 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1268 C.D. 1993"
+decided: "1994-05-20"
+citations: ["164 Pa. Commw. 207", "642 A.2d 600"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CRAIG, President Judge, and NEWMAN, J., and DELLA PORTA, Senior Judge."]
+parties: ["TOWNSHIP OF MAIDENCREEK, v. J. Merle STUTZMAN, Elizabeth L. Stutzman and Bountiful Acres Trust, Appellants."]
+source_url: "https://static.case.law/pa-commw/164/cases/0207-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1461149
+cites_cases: ["162 Pa.Commonwealth Ct. 408", "520 Pa. 513", "638 A.2d 408"]
+---
+
+# Township of Maidencreek v. Stutzman
+
+## Majority (CRAIG, President Judge.)
+
+CRAIG, President Judge.
+Merle Stutzman, Elizabeth L. Stutzman and Bountiful Acres Trust (landowners) appeal a preliminary injunction order of the Court of Common Pleas of Berks County (1) enjoining the Stutzmans from conducting business other than the sale of farm produce and homemade dolls on their property, (2) directing the Stutzmans to remove manufactured gazebos, sheds, playground equipment and other products that were not made or grown on their property, and (3) ordering the Stutzmans to reimburse the township for costs and legal fees the township incurred in prosecuting the Stutzmans in this matter.
+The facts as found by the trial court are as follows. The landowners reside on and own a farm that is located in an R-2 Medium Density Residential Zone in Maidencreek Township. Section 403.1 of the township zoning ordinance lists the following permitted uses:
+A. Single-family detached dwellings
+B. Two-family dwellings
+C. Public Schools, parochial schools, private schools, which do not provide corrective rehabilitative or remedial care or instruction, and those which are not considered penal institutions
+D. Churches or similar places of worship
+E. Public structures owned and operated by the Township
+Section 403.2 of the ordinance provides for the following accessory uses:
+Located on the same lot with the Permitted Principal Use.
+A. Private garage or private parking areas pursuant to
+Section 514
+B. Signs pursuant to Section 513
+C. Home Occupations pursuant to Section 502
+D. Accessory uses and buildings
+The landowner applied for a zoning and building permit to construct a prefabricated shed of the following dimensions: 40 feet wide, 14 feet deep, and seven feet high. The landowners indicated on the application that they proposed to use the shed for the sale of produce and handmade dolls. The township approved that application on April 15, 1989.
+Although the landowners never sought a permit to demolish the 1989 shed or to construct a new building, in March 1992, the township became aware that the landowners’ contractor was constructing a new building at the site of the landowners’ 1989 shed, which was approximately twice the size of the 1989 shed.
+On March 6,1992 and March 9,1992, a representative of the township orally ordered the contractor to stop the construction of the new building. On March 17, 1992, the township issued a written order to the landowners to stop construction. The landowners did not comply with the order and completed the new building, which they use to sell pre-manufactured products such as gazebos, lawn furniture, cupolas, and antiques.
+The township sent an enforcement letter to the landowners on June 1, 1992, which described the alleged zoning violations and the potential consequences of the landowners’ continued violation, under section 616.1 of the Pennsylvania Municipalities Planning Code (MPC), Act of July 31, 1968, as amended, 53 P.S. § 10616.1.
+The landowners continued their use of the building and property, and the township commenced an action seeking to enjoin the landowners’ allegedly unlawful use.
+The trial court concluded that the landowners’ actions violated the township’s zoning ordinance, because the landowners’ present use is not permitted by the zoning ordinance in an R-2 Medium Density District.
+In this appeal, the landowners raise the following issues: (1) whether the enforcement notice the township sent to the landowners failed to comply with section 616.1 of the MPC; (2) whether a pending zoning appeal to the court of common pleas, challenging the determination that the landowners are violating the ordinance, results in a stay of the enforcement proceedings, including the injunction proceeding which this court is presently reviewing; and (3) whether the landowners have a vested right in the continued use of the property for the sale of products other than produce and handmade dolls.
+1. Does the Enforcement Notice Comply With MPC § 616.1?
+The landowners assert that the enforcement notice the township sent to them does not comply with section 616.1, and hence cannot support the trial court’s order.
+Section 616.1 states, in pertinent part, as follows:
+Enforcement Notice. — (a) If it appears to the municipality that a violation of any zoning ordinance enacted under this act or prior enabling laws has occurred, the municipality shall initiate enforcement proceedings by sending an enforcement notice as provided in this section.
+(Emphasis added.)
+The specific subsection upon which the landowners rely, requires enforcement notices to include “[t]he specific violation with a description of the requirements which have not been met, citing in each instance, the applicable provisions of the Ordinance.” 616.1(c)(3). The landowners assert that the notice is deficient because it does not state the specific provision which the township contends the landowner has violated.
+On the first page of the notice, the township did make reference to the district in which the property is located; however, the notice erroneously lists the zoning district as being “Residential-Agricultural Zone.” As indicated in the trial court’s findings, the zone is actually an “R-2 Medium Density Residential” zone. Thus, the notice neither mentions the specific ordinance section number, nor correctly describes the applicable district.
+The trial court also addressed the alleged violation regarding the construction of the second shed without a permit. The enforcement notice states “[i]n addition, the roadside stand has been enlarged and rebuilt without a building permit as prescribed by the Maidencreek Township zoning and building codes”’ However, as with the alleged violation of the permitted use section of the ordinance, the township did not specifically cite section 702 of the “Administration and Enforcement” section of the township’s ordinance, which relates to zoning permits, and requires persons to obtain a zoning permit before they erect or alter a structure.
+Although the term “cite” can have a broader meaning than a numeric reference to an ordinance authority, this court concludes that the word, as used in section 616.1(3), means a specific numerical reference to the ordinance section which the township asserts the landowners have violated.
+An analogous use of the word “cite” is found in section 508(2) of the MPC, 53 P.S. § 10508(2), relating to the approval of plats. That provision states that
+[w]hen the application is not approved in terms as filed the decision shall specify the defects found in the application and describe the requirements which have not been met and shall, in each case, cite to the provisions of the statute or ordinance relied upon.
+In interpreting that section, the Pennsylvania Supreme Court has held that the legislature intended the word “cite”, as used in section 508(2), to mean a specific reference to an ordinance section. Coretsky v. Board of Commissioners of Butler Township, 520 Pa. 513, 555 A.2d 72 (1989). Similarly, in section 616.1, the legislature indicated that notices shall indicate the specific violations, citing the applicable ordinance provisions. Hence, the township’s notice to the landowners does not satisfy the requirements of section 616.1.
+Accordingly, the trial court erred in granting the preliminary injunction, because the township has not complied with section 616.1.
+2. Does a Request Made to a Zoning Hearing Board for a Variance, Which Would Allow the Challenged Use, Stay the Enforcement Action?
+Because of our conclusion above, that the enforcement notice was so deficient as to render the trial court’s grant of the preliminary injunction improper, this court need not address the issue of whether an appeal to the zoning hearing board stays the grant of an injunction. Nevertheless, we note the following principles.
+The landowners assert that they should be allowed to continue their allegedly unlawful use because they have filed an application with the zoning hearing board. Subsection (6) of section 616.1 states that “failure to comply with the notice within the time specified, unless extended by appeal to the zoning hearing board, constitutes a violation, with possible sanctions clearly described.”
+That provision does not grant landowners a stay of an injunction. That provision only provides that, when a landowner continues an allegedly unlawful use after receiving an enforcement notice, there is no conclusive determination of a violation, upon which a municipality may proceed before a district justice under section 617.1, 53 P.S. § 10617.1 to seek the imposition of sanctions allowed under section 617.2, if a landowner has taken the affirmative step of appealing the determination. If a landowner fails to appeal, and continues the allegedly unlawful use, section 616.1(6) provides that there is a conclusive determination of guilt, which forms the basis for the imposition of sanctions under section 617.2. Johnston v. Upper Macungie Township, 162 Pa.Commonwealth Ct. 408, 638 A.2d 408 (1994).
+This case involves an order granted by a court exercising its equity jurisdiction, apparently under section 617. No provision of the MPC provides for an automatic stay of an order granting injunctive relief when a landowner files an appeal from an enforcement notice. The only power a trial court has to grant a stay under the enforcement section is to toll the per diem fine authorized under section 617.2, when an appeal has been taken. § 617.2(b).
+This court also notes that the trial court granted costs and attorney fees to the township. That is a sanction that is permitted under section 617.2, but not under 617. Before a court may impose sanctions under section 617.2 there must be a determination of liability in accordance with that section. Of course, the failure to appeal the notice results in such a determination, Johnston. However, the township must first present evidence of the alleged violation or proof of a landowner’s failure to appeal to the zoning hearing board to a district justice, under section 617.1. Although the trial court could properly grant injunctive relief under section 617, it had no power to impose sanctions under 617.2.
+S. Has the Landowner Established a Vested Right to the Use?
+Because of our conclusion that the trial court erred in granting the preliminary injunction, we need not address this issue.
+ORDER
+NOW, May 20, 1994, the order of the Court of Common Pleas of Berks County, dated April 26, 1993, at No. 6351 Equity 1993, is reversed.
