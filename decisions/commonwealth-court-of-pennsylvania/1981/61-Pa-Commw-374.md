@@ -1,0 +1,38 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2369 C.D. 1980"
+decided: "1981-08-19"
+citations: ["61 Pa. Commw. 374"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Mencer, Craig and Palladino, sitting as a panel of three."]
+parties: ["West Jefferson Hills School District, Appellant v. Jefferson Federation of Teachers and John M. Hyjurick, Appellees."]
+source_url: "https://static.case.law/pa-commw/61/cases/0374-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1924071
+cites_cases: ["363 U.S. 574", "412 A.2d 167", "424 A.2d 1299", "476 Pa. 27", "49 Pa. Commonwealth Ct. 379"]
+---
+
+# West Jefferson Hills School District v. Jefferson Federation of Teachers
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+West Jefferson Hills School District (District) has appealed from an order of the Court of Common Pleas of Allegheny County dismissing a petition for review of an arbitration award. We affirm.
+The District and the Jefferson Federation of Teachers were parties to a collective bargaining agreement which contained the following provision:
+Section 6B. POSTING OF VACANCIES When notice is received by the Superintendent that there is an anticipated permanent vacancy in a bargaining unit job or a non-bargaining unit supervisory job, the District shall post such vacancy for five (5) business days. A copy will be mailed to the Federation at the time of posting during the summer months. Within 48 hours after the final day of posting any interested employee shall submit his/her application and qualifications for consideration, which will include all relevant factors, including length of continuous service, before the District fills such vacancy.
+During the school term vacancies will be posted in each school; between school terms, posting will be at the District Administration Building. Nothing contained herein shall limit the District’s exclusive right to fill any vacancy with whomsoever it selects, whether a bargaining unit employee or a non-bargaining unit person.
+The agreement also established a three-step grievance procedure culminating in binding arbitration, with a proviso in Section 14 that “[t]he arbitrator shall not have the right to add to, subtract from, modify, .or disregard any of the terms or provisions of this Agreement. ’ ’
+On July 10, 1979, the District posted a “notice of vacancy” for the position of District Library Coordinator. John M. Hyjurick submitted his application for the position on July 13, 1979. No other person aplied “within 48 hours after the final day of posting.” Approximately one month after the posting period had ended, however, another district employee applied for and subsequently received the appointment to the position.
+Hyjurick then filed a grievance with the District, contending that the District had violated the collective bargaining agreement by filling a vacancy with a person who had not timely filed an application. In granting relief to Hyjurick, the arbitrator interpreted Section 6B as follows:
+The procedural requirements of Section 6B do not limit the District’s contractual exclusive right to Till any vacancy with whomsoever it selects. ’ The Employer is not obligated to select a bargaining unit employee, or to fill the vacant position. The Section does require that if an employee is to be considered for a vacant position, that employee shall submit an application within the time period designated by the Agreement. (Emphasis in original.)
+The District argues that the arbitrator exceeded his powers by improperly expanding his subject matter jurisdiction as defined by the collective bargaining agreement. Specifically, the District asserts that, when the arbitrator granted relief to Hyjuriek, he exceeded his powers under Section 14 by modifying the District’s contractual right to “fill a vacancy with whomsoever it selects.”
+We first do not agree that the arbitrator infringed upon the District’s “exclusive” right to fill vacancies. As he indicated in his award, the arbitrator was not directing the District to fill the vacancy or to select a bargaining unit employee. Bather, the arbitrator ruled that, in order to give meaning to the procedural requirements in Section 6B, an employee must file an application within the designated time limitation as a prerequisite to consideration for the position. The arbitrator thus did not alter the District’s contractual right to fill vacancies but simply provided a reasonable interpretation of the scope of this right in light of the other language contained in Section 6B. While the arbitrator may have misinterpreted Section 6B, such misinterpretation cannot be characterized as a “modification” of the terms of the agreement or as an “expansion of powers ” in an attempt to avoid the finality of arbitration. See Trinity Area School District v. Trinity Area Education Association, 49 Pa. Commonwealth Ct. 379, 412 A.2d 167 (1980).
+We also disagree with the District’s contention that the arbitrator exceeded his jurisdiction. The collective bargaining agreement is both the source and the limit of an arbitrator’s jurisdiction. See Port Authority of Allegheny County v. Amalgamated Transit Union, Division 85, Pa. , 424 A.2d 1299 (1981). Section 14 of the collective bargaining agreement limited the arbitrator’s jurisdiction only to the extent that he could not “add to, subtract from, modify, or disregard” the terms of the agreement. In addressing a similar issue in United Steelworkers v. Warrior & Gulf Navigation Co., 363 U.S. 574, 584-85 (1960) (followed in Allegheny County Prison Employees, supra note 1), the Supreme Court of the United States ruled: “In the absence of any express provision excluding a particular grievance from arbitration, we think only the most forceful evidence of a purpose to exclude the claim from arbitration can prevail, particularly where, as here, the exclusion clause is vague and the arbitration clause quite broad.” We do not believe that Section 14 is a clear expression of the parties ’ intention to remove a dispute concerning the District’s right to fill vacancies from the arbitrator’s jurisdiction.
+Furthermore, we must respect the award, including the arbitrator’s definition of his own jurisdiction, provided it is rationally derived from the collective bargaining agreement in light of its language, context or other indicia of the parties’ intention. Port Authority of Allegheny County. We are satisfied that the arbitrator’s interpretation of Section 6B and the interrelated issue of his jurisdiction are rationally derived from the collective bargaining agreement.
+Order affirmed.
+Order
+And Now, this 19th day of August, 1981, the order of the Court of Common Pleas of Allegheny County, dated September 12, 1980, dismissing the petition for review of the arbitration award, is affirmed.
+Section 10 of the Arbitration by Contract Law, Act of April 25, 1927, P.L. 381, as amended, formerly 5 P.S. §170, repealed by Section 501(c) of the Act of October 5, 1980, P.L. 693, allowed a reviewing court to vacate an arbitration award where the arbitrator exceeded his powers. A claim that the arbitrator lacked jurisdiction to hear the dispute was cognizable under this section. A similar provision is now found at 42 Pa. C. S. §7314. An allegation that the arbitrator misinterpreted the collective bargaining agreement does not, however, fall within the purview of this section or give rise to the vacation of the arbitration award. See Allegheny County v. Allegheny County Prison Employees Independent Union, 476 Pa. 27, 381 A.2d 849 (1977).
