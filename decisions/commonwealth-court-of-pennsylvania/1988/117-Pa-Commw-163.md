@@ -1,0 +1,34 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 1763 C.D. 1986"
+decided: "1988-06-16"
+citations: ["117 Pa. Commw. 163", "543 A.2d 213"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Craig and Barry, and Senior Judge Narick, sitting as a panel of three. '"]
+parties: ["Commonwealth of Pennsylvania, Department of Transportation, Bureau of Driver Licensing, Appellant v. Marc A. Petrucelli, Appellee."]
+source_url: "https://static.case.law/pa-commw/117/cases/0163-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1373767
+cites_cases: ["445 A.2d 554", "499 A.2d 738", "66 Pa. Commonwealth Ct. 529", "92 Pa. Commonwealth Ct. 520"]
+---
+
+# Commonwealth, Department of Transportation v. Petrucelli
+
+## Majority (Judge Barry,)
+
+Opinion by
+Judge Barry,
+The Pennsylvania Department of Transportation (DOT) appeals an order of the Court of Common Pleas of Chester County which sustained the appeal of Marc Petrucelli (the licensee) and reversed DOTs decision to suspend the licensees driving privileges for 60 days.
+On November 17, 1984, October 11, 1985 and November 2, 1985, the licensee was convicted of violating Section 3362 of the Pennsylvania Motor Vehicle Code, 75 Pa. C. S. §3362 (Code) for driving in excess of maximum speed limitations. The licensees driving record was assessed a total of twelve'points for these three convictions. On February 2, 1986, DOT notified the licensee that his driving privilege was suspended for 60 days. The licensee appealed this suspension alleging that DOT did not notify him of the points assessed for the November 17, 1984 conviction. At the de novo hearing, instead of producing certified copies of the original notice letter, DOT introduced a certification statement to prove that all of the notice requirements had been met. The trial court determined that the certification statement was not sufficient to establish that the licensee received notice. The trial court opined that based upon our decision in Department of Transportation v. Suchko, 92 Pa. Commonwealth Ct. 520, 499 A.2d 738 (1985), the only acceptable proof that the notice was sent was a certified copy of the actual notice letter. DOT appeals this order.
+Section 1536 of the Code states:
+Whenever points are assigned to a drivers record, the department shall send to that person at his last known address a letter of notice pointing out the fact and emphasizing the nature and effects of the point system.
+75 Pa. C. S. §1536. We have held that this section does not require that the licensee receive the notice, but, that DOT establish that the notice was sent. Faulstick v. Commonwealth, 66 Pa. Commonwealth Ct. 529, 445 A.2d 554 (1982). The certification statement introduced at the trial contained a verification that all of the required notices had been sent. Therefore, we must decide whether, as a matter of law, a certification statement of the driving record of a licensee is competent to establish notice.
+When a licensee is convicted of a driving offense, DOT preserves the record of conviction on film. After conviction, points are assigned to the motorist by use of a computer. The appropriate information is placed electronically on a notice letter which is subsequently mailed to the licensee. DOT does not retain a copy of this notice; however, the computer registers the date that the notice was sent. A summary of the driving record can be obtained by having the computer print out the pertinent history of DOTs actions. DOT alleges that its certification of this computer summary is sufficient to establish notice.
+In Suchko, we refused to allow DOT to establish, by certification of its records, a mailing date to toll the appeal process for a license suspension. In that' case, the issue was whether the suspension appeal was timely. In an effort to prove that it was not, DOT attempted to introduce the proof of the notice date by certifying its record of the operators driving record. We held that DOTs certification of its records was not sufficient evidence to establish that the notice was sent on a particular date. In the present matter, DOT has certified that notice was sent on a definite date. Although an actual copy of the notice was not produced we believe that the system for sending notice is sufficient to ensure that the licensee was given the notice required by Section 1536 of the Code. Therefore, we hold that DOTs certification of the driving record showing that notice was given is competent to establish that the notice was sent. DOTs certification of its records is not sufficient to establish the date of the notice or for that matter anything further than the mere fact that the notice was sent. We also note in Suchko, albeit in a footnote, that point assessment notice could be established if the licensee took a required driver’s examination after being instructed to do so by DOT. In the present matter, after the licensee was convicted of two violations of Section 3362 of the Code, DOT sent notice to the licensee that he was required to pass an examination since his record had been assessed a total of seven points. Four of these points had been assessed from the November 17, 1984 conviction. The licensee took and passed the test. This is sufficient evidence that the licensee received notice. Suchko.
+Therefore, we reverse the trial court and reinstate DOTs decision to suspend the licensee’s driving privilege for 60 days.
+Order
+Now, June 16, 1988, the order of the Court of Common Pleas of Chester County, dated May 5, 1986 at 86-01356, is reversed and the suspension by DOT of appellee’s driving privilege is reinstated.
+On January 23, 1986 DOT informed the licensee that because of the October 11, 1985 conviction for violation of Section 3362, his driver record had been assessed three additional points and that the total was seven points. DOT informed the licensee that he was required to pass a drivers examination as the point total exceeded 6. On February 2, 1986, the licensee passed the required driving examination. On February 7, 1986, DOT notified the licensee that because of the November 2, 1985 conviction his record reflected a total of 12 points. The feet that the licensee passed the examination in the interim period does not affect the result in this case as the conviction for the offense preceded the licensees passing the exam. 75 Pa. C. S. §1539.
+The certification statement depicts the date of the three citations, the section violated, a description of the violation and, under the category of action taken by the department, the points assessed for each violation and the date that the point notice letter was sent. The certification statement indicates that DOT sent the required point notice letter for the November 17, 1984 conviction on March 11, 1985.
