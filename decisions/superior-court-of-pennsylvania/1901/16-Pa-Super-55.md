@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1; Appeal, No. 64"
+decided: "1901-01-22"
+citations: ["16 Pa. Super. 55"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, W. W. Porter and W. D. Porter, JJ."]
+parties: ["Philadelphia v. Armstrong"]
+source_url: "https://static.case.law/pa-super/16/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 832741
+cites_cases: ["102 Pa. 434", "124 Pa. 303", "132 Pa. 568", "147 Pa. 348", "16 Pa. 15", "177 Pa. 633", "182 Pa. 150", "39 Legal Int. 42", "79 Pa. 407", "9 Pa. Superior Ct. 255", "98 Pa. 250"]
+---
+
+# Philadelphia v. Armstrong
+
+## Majority (Rice, P. J.,)
+
+Opinion by
+Rice, P. J.,
+The Act of April 16, 1845, P. L. 488, provided as follows: “No debt, charge or assessment, for work hereafter done, or materials furnished by or under the authority of the board of health, or any municipal corporation, shall be a lien on real estate for more than six months from the time of doing such work, unless a claim for the same be filed in the office of the prothonotary of the proper court within that time,” etc. In Philadelphia v. Beatty, 9 Pa. Superior Ct. 255, the only question raised and considered was, whether the time within which the claim must he filed was to be computed from the date of the completion of the entire improvement (paving), or from the date of the completion of the work in front of the premises subject to lien. We held, affirming the judgment of the court below, the latter to be the true construction of the section above quoted. It appeared in the present case that the entire improvement (a branch sewer in Souder street) was completed on August 5, 1893, and the claim was filed on February 27, 1894. Under either construction of the act of 1845, the lien was gone at the time the claim was filed. It is contended, however, that, as the assessment was made within six months after the completion of the work, and the claim was filed within six months after the date of the assessment, the lien was restored by the Act of July 26, 1897, P. L. 420. The validity of the retroactive provisions of this act was defended by the plaintiff’s counsel upon the grounds that the legislative change of the limitation prescribed by the act of 1845 was not an unconstitutional deprivation of any vested right of the defendant (citing Bates v. Cullum, 177 Pa. 633) that the legislature has power to ratify whatever it might have authorized; and that, as the legislature had antecedent power to authorize the assessment, it had power by a retroactive law to confirm and validate the lien entered therefor. In support of the last proposition, Chester City v. Black, 132 Pa. 568, and Donley v. City of Pittsburg, 147 Pa. 348, and the cases there cited are relied on. Granting, for the purposes of this case the validity of the retroactive provisions of the act, and their application to assessments made by the district surveyor and regulator, as provided in the ordinance of May 12, 1866, it was, nevertheless, incumbent on the plaintiff, under the issue raised by the pleadings, to prove that the work claimed for was duly authorized. This may be averred in general terms in the claim filed, without setting out the ordinance under which the work was done, but the plaintiff “ will be required at the trial to prove the specific authority conferred : ” Philadelphia v. Richards, 124 Pa. 303. Clearly the act of 1897 does not dispense with such proof; nor does the record show that the defendant waived it on the trial. We must take the record as we find it.
+As to the argument based on the averments of the affidavit of defense it is to be observed, that there is no rule of the court below providing that material averments of fact in the statement of claim not directly and specifically denied in the affidavit of defense shall be taken as admitted on the trial. In the absence of such rule the issue is made by the pleadings proper. Nor was the affidavit of defense offered in evidence ; therefore, it could not be read to, or considered by, the jury as an admission of facts essential to recovery by the plaintiff: Mullen v. Union Central Life Ins. Co., 182 Pa. 150; Maynard v. Sixth National Bank, 98 Pa. 250; Xander v. Commonwealth, 102 Pa. 434. Aside from these considerations, we are of opinion, that, taking the second averment of the affidavit of defense as a whole, it cannot properly be regarded as an admission that the work was done under a duly enacted ordinance. There is an express averment that the construction of the sewer “ was not authorized by law.” This was sufficient notice — if notice was required — that proof of the specific authority for the construction of the sewer and the assessment of the cost thereof upon the abutting properties would not be dispensed with on the trial. Such proof being absent the court committed no error in affirming the defendant’s point.
+Judgment affirmed.
