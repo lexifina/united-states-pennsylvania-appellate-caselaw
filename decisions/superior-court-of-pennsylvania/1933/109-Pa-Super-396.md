@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 245"
+decided: "1933-07-14"
+citations: ["109 Pa. Super. 396"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trext.-r-Rj P. J.5 Keeler, Cunningham, Baldrige, Stadtfeld, Parker and James, JJ."]
+parties: ["In Re: Petition of the Inhabitants of Conemaugh Township for Public Road."]
+source_url: "https://static.case.law/pa-super/109/cases/0396-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 967781
+cites_cases: ["19 Pa. Superior Ct. 376", "50 Pa. Superior Ct. 619", "50 Pa. Superior Ct. 627", "63 Pa. 471"]
+---
+
+# In re the Inhabitants of Conemaugh Township
+
+## Majority (Trexuer, P. J.,)
+
+Opinion by
+Trexuer, P. J.,
+The Act of April 23, 1909, P. L. 142, Sec. 1 provides that, “Hereafter all petitions for the laying out or for the vacation of a public road, in any county of the Commonwealth, shall fix definitely the point of beginning and the point of ending, mentioned in said petition by giving the exact distance from an intersecting public road, street, or railroad, already opened. In the present .case the petition, for a public road in Conemaugh Township, described the location as beginning “At the intersection of the center line of First Avenue West and the center line of West Second Street and to end at the intersection of the center line of First Avenue West and the center line of West Fifth Street, .all of which streets are laid out on the plan of Franklin.......None of the aforesaid streets are opened. The distance between the two intersections above set forth is approximately sixteen hundred (1600) feet.” The petition was followed by an order to view and then by a report of the viewers. In the report the road was designated in substantially the same language as in the petition, and a map, which was presumably attached to the report, shows the location of the road, as beginning at Second Street extending and opening to Fifth Street, unopened. Nowhere in the report is any attempt to comply with the above act of assembly by definitely fixing the point of beginning and the point of ending mentioned in said petition “by giving the exact distance from an intersecting public road, street, or railroad, already opened.”
+In Kennedy Township Road, 50 Pa. Superior Ct. 619, this court held, referring to the Act of 1909, supra, that the evident purpose of the act was to require greater certainty than theretofore in designating the termini of a road so that the relation of the road to other roads should more clearly and definitely appear. The provisions of the act are undoubtedly mandatory, and the omission to comply with it, where compliance is possible, is fatal. The words relate to a public road, street, or railway, which intersect the public road upon which the terminal point of the road to be laid out is situated. Portage Township Road, 50 Pa. Superior Ct. 627. The petition in this case is fatally defective. The court held that since the report “shows the proposed road as having neither beginning nor ending on a public highway, but being part of a designated street” on a plan of lots, the law does not contemplate impossible and unnecessary things, and that the Department of Highways for whose benefit the act was passed in order to enable it to have a complete record of all the roads in the Commonwealth, could by reference to the plan definitely locate the road. The act evidently was intended to give the information to the highway department as to the location of the proposed road in the manner indicated, i. e., with reference to other roads already opened. It is not required that the department go into an extended inquiry in order to fit the road into the general scheme of the highways of the state. If this proposed road is extended in either direction it must of necessity, somewhere or other, he intersected by a highway that is already opened, and it should be an easy matter to ascertain the distance from such highway and insert that data into the petition. We see no reason why the plain mandate of the act should be ignored.
+Furthermore, if we correctly understand the remarks of the lower court, and the report of the viewers, the road in question has no connection at either end with any road or street. If this be so, it has no termini in the legal sense of the word. The Act of June 20, 1919, P. L. 509, Sec. 1, only requires one, but that one must be on a public highway or place of public resort. The report, we have already quoted, shows that all the contiguous streets are laid out on a plan, but distinctly states “the aforesaid streets being unopened ” We can find no authority in law for the opening of a road entirely detached from all other roads and leading nowhere. Schuylkill River Road, 19 Pa. Superior Ct. 376; Miller Road Case, 9 S. & R. 35; West Pikeland Road, 63 Pa. 471. The actual situation may be different, but our only guide is the record as presented, and as we read it we have the anomolous position of a road being entirely a thing apart, having no connection with any other road, or place of resort, or to repeat the language of the lower court “having neither beginning nor ending on a public highway.”
+Under either of the above views of the case the road cannot be approved.
+The order of the court confirming the road is reversed, and the proceedings set aside. Appellee to pay' the- costs. ,
