@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 173"
+decided: "1972-06-16"
+citations: ["221 Pa. Super. 405"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. J., Watkins, Jacobs, Hoffman, Spaulding, Cercone, and Packel, JJ."]
+parties: ["Commonwealth, Appellant, v. Bey."]
+source_url: "https://static.case.law/pa-super/221/cases/0405-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 800203
+cites_cases: ["210 Pa. Superior Ct. 482", "233 A. 2d 921", "3 Pa. Superior Ct. 167", "34 Pa. D. & C. 2d 49", "39 Pa. D. & C. 2d 784"]
+---
+
+# Commonwealth v. Bey
+
+## Majority (Jacobs, J.,)
+
+Opinion by
+Jacobs, J.,
+The Commonwealth appeals from an order of the lower court sustaining a demurrer to the evidence at the conclusion of its case against the appellee on a charge of prison breach.
+Such an order is appealable by the Commonwealth; the test to be applied by us is whether the evidence of record and the inferences reasonably drawn therefrom would support a guilty verdict, and in making our determination we must read the evidence in the light most favorable to the Commonwealth. Commonwealth v. Green, 210 Pa. Superior Ct. 482, 233 A. 2d 921 (1967).
+The sole witness for the Commonwealth was the senior records officer at the State Correctional Institution at Pittsburgh. His testimony from the records showed that appellee was sentenced on May 15, 1970, to a term of 2y2 to 5 years in the institution and was received there on May 20, 1970; that upon orders of a counselor at the institution appellee was furloughed for a 3-day pass on July 23, 1971, with directions to return Sunday evening, July 25, 1971. The appellee left the institution on July 23, 1971, and was returned by a minister on September 15, 1971. Although this was the entire Commonwealth case, it is reasonable to infer from the sentence that appellee was sentenced following conviction of an indictable offense.
+The court below held that the failure of the appellee to return to prison at the end of his furlough did not constitute prison breach. The court felt that while on furlough the appellee could not be considered as undergoing imprisonment within the meaning of §309 of The Penal Code, Act of June 24, 1939, P.L. 872, as amended, July 29, 1953, P.L. 1445, §1; July 12, 1961, P.L. 575, §1; and July 16, 1968, P.L. , No. 174, §1, 18 P.S. §4309. We hold otherwise.
+Section 309 of The Penal Code defines prison breach as follows: “Any person undergoing imprisonment, whether before or after conviction, who breaks prison or escapes, or shall break prison although no escape is actually made, is guilty of prison breach. . . .” The use of the disjunctive “or” makes it plain that either breaking prison or escaping will support the statutory crime of prison breach.
+The final paragraph of §809 defines imprisonment in the following language: “The word ‘imprisonment/ as used in this section, means actual confinement in any penal or correctional institution, regional jail, forestry camp and other off institution grounds, facility or installation, established by law located in this Commonwealth or any restraint by lawful authority pursuant to a commitment issued by an issuing authority, a court order or after conviction of any crime.” Since the appellee was not “actually confined” we must determine if he was under “any restraint by lawful authority”. The wording of the statute divides such restraint into two groups. The first group seems to cover the situation where the person has not been convicted and in order to qualify his status as imprisonment there must be either a commitment by an issuing authority or a court order restraining him. The second group covers those convicted of a crime. In such cases all that is required is that the restraint be exercised by lawful authority which in this case was the correctional institution to which appellee was sentenced. The lawful authority placed him on furlough and directed him to return to prison at the end of his furlough. During that time he was not discharged but was still under restraint. That restraint constituted imprisonment within the meaning of the statute. See Commonwealth v. Hearn, 34 Pa. D. & C. 2d 49 (1964), wherein it was held that a prisoner engaged in private employment under the work release program from county jails was still a prisoner under §309.
+We have no difficulty in concluding that appellee escaped when he failed to return from the furlough or pass granted him. As we said in Commonwealth v. Adams, 3 Pa. Superior Ct. 167, 169 (1896), “Any person who, being lawfully confined or in custody, regains his freedom, with or without force, before being lawfully discharged, is guilty of an escape. . . The furlough with its direction to return was a lawful restraint imposed upon appellee similar to custody and when he failed to return he went beyond the limits of that restraint and escaped.
+If the facts as presented are believed by a jury they are sufficient to support a verdict of guilty. Therefore, the order of the court below granting a demurrer must be reversed.
+Order reversed with a procedendo.
+The appellee’s brief notes that the sentence was Imposed after conviction of larceny and assault and battery.
+Appellee, citing the common law distinction between prison breach involving force and escape without force, argues that escape without force cannot constitute prison breach under the statute. However, we held as long ago as Commonwealth v. Adams, 3 Pa. Superior Ct. 167 (1896), in construing the same wording in the Criminal Code of 1860, that the word “escape” in the statute encompassed escape without force and that someone so escaping was guilty of prison breach. Under the Act of 1939 there was a distinction between escapes prior to conviction and escapes after conviction in that either breaking prison or escape prior to conviction constituted prison breach while after conviction it was necessary to break prison to constitute prison breach. See Commonwealth v. McKee, 39 Pa. D. & C. 2d 784 (1966). The amendment of 1953 eliminated the distinction between escape prior to and subsequent to conviction, but said “[a]ny person undergoing imprisonment who breaks prison and escapes. . . .” (Emphasis added.) The amendment of 1961 substituted “or” for “and”, giving the section its present wording.
+The Commonwealth argues that appellee was given a 3-day pass under the provisions of the Act of July 16, 1968, P. L. , No. 173, 61 P.S. §1051 et seq., providing for pre-release centers and work release plans and that failure of an inmate to return from his pass is statutorily classified as an escape for prison breach purposes by that act. We cannot consider this argument because there is nothing on the record to show that the appellee was furloughed under the provisions of the Act of 1968.
