@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 1028"
+decided: "1973-11-08"
+citations: ["228 Pa. Super. 733"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Wright, P. J., would affirm the order of the court below."]
+parties: ["Commonwealth v. Shaeffer, Appellant."]
+source_url: "https://static.case.law/pa-super/228/cases/0733-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 811413
+cites_cases: ["304 A. 2d 158", "451 Pa. 427"]
+---
+
+# Commonwealth v. Shaeffer
+
+## Majority (Per Curiam :)
+
+Opinion
+Per Curiam :
+The case is remanded to the court below to determine defendant’s indigency as to the sentence of imprisonment for fine and costs, under the guidelines set forth in Commonwealth ex rel. Benedict et al. v. Cliff, 451 Pa. 427, 304 A. 2d 158 (1973).
+Wright, P. J., would affirm the order of the court below.
