@@ -1,0 +1,44 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1951 C.D. 1976"
+decided: "1978-04-25"
+citations: ["35 Pa. Commw. 81"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Mencer and Blatt, sitting as a panel of three.", "Judge Crumlish, Jr. dissents."]
+parties: ["Child Care Service of the Delaware County Institution District, Petitioner v. Commonwealth of Pennsylvania, Department of Public Welfare, Ellen Kuliszewski and Joseph Kuliszewski, Respondents."]
+source_url: "https://static.case.law/pa-commw/35/cases/0081-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1885891
+cites_cases: ["31 Pa. Commonwealth Ct. 203", "313 A.2d 156", "375 A.2d 894", "455 Pa. 52"]
+---
+
+# Child Care Service of Delaware County Institution District v. Commonwealth
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+The Child Care Service of the Delaware County Institution District (Child Care) appeals here from an order of the Pennsylvania Department of Public Welfare (DPW) which adopted a hearing officer’s recommendation that Child Care be denied permission to remove a child from long-term foster care so that it could be placed for adoption.
+The child, Laura Cherry, was born on September 8, 1975 and four days later was voluntarily placed by her natural parents in Child Care’s custody. On that same day, Child Care placed her in the home of Joseph and Ellen Kuliszewski, in a short-term foster-home placement, pending implementation of a permanent placement. In March of 1976, the Kuliszewskis were informed by Child Care that Laura was to be removed from their home and placed in an adoptive home, and they requested an informal hearing with the agency pursuant to Section 4363B(1) of the DPW regulations and asked that they be permitted to adopt Laura. The director of Child Care, after a hearing, determined that Laura should be removed as proposed, and the Kuliszewskis appealed this decision to the Secretary of Welfare. After conducting several hearings, a DPW hearing officer issued an adjudication and recommendation stating that Child Care had not met its burden to establish that the proposed relocation was the least detrimental long-term placement alternative for Laura. The DPW adopted the hearing officer’s recommendation, and ordered that Laura remain in the home of the Kuliszewskis. This appeal followed.
+Section 44 of the Administrative Agency Law, 71 P.S. §1710.44, limits our scope of review here to a determination as to whether or not the findings of fact necessary for the adjudication are supported by substantial evidence, whether or not an error of law was committed and whether or not constitutional rights were violated. Stoffan v. Department of Public Welfare, 31 Pa. Commonwealth Ct. 203, 375 A.2d 894 (1977). Child Care argues, inter alia, that the controlling DPW regulations are invalid, and alternatively that, if they are valid, they are not applicable in the circumstances of this case. After a careful review of the record, we conclude that the regulations do not apply in regard to proposed placements for adoption and that the adjudication of the DPW must therefore be reversed.
+The regulations at issue were promulgated in 1975 and amend the Title 4300 regulations applying to foster family care for children when such services are provided under public and voluntary social service auspices. They require that, when a child care agency determines that it would be appropriate and desirable to relocate a child in foster family care, the foster parents must be given notice of the intention to relocate the child and the opportunity for an informal hearing. At the hearing, the burden rests upon the agency to establish that the proposed relocation is the least detrimental long-term placement alternative for the child. The regulations also provide that appeals may be taken from the agency’s decision as provided by the Administrative Agency Law.
+Our Supreme Court examined the rule-making authority of. administrative agencies in Uniontown Area School District v. Pennsylvania Human Relations Commission, 455 Pa. 52, 76-7, 313 A.2d 156, 169 (1973), and observed that:
+There is a well-recognized distinction in the law of administrative agencies between the authority of a rule adopted by an agency pursuant to what is denominated by the textwriters as legislative rule-maldng power and the authority of a rule adopted pursuant to interpretative rule-making power. The former type of rule ‘is the product of an exercise of legislative power by an administrative agency, pursuant to a grant of legislative power by the Legislative body,’ and ‘is valid and is as binding upon a court as a statute if it is (a) within the granted power, (b) issued pursuant to proper procedure, and (c) reasonable.’ (Citation omitted, emphasis in original.)
+The legal basis on which these regulations rest is to be found in Articles VII and IX of the Public Welfare Code (Code). Article VII requires the DPW to assure the availability and equitable provision of adequate child welfare services to all children in the Commonwealth who need them. Article IX grants the DPW supervisory powers with regard to any society or agency within the Commonwealth which cares for children. Section 703 of Article VII of the Code, 62 P.S. §703, empowers the DPW to
+[m]ake and enforce all rules and regulations necessary and appropriate to the proper accomplishment of the child welfare duties and functions vested by law in the county institution districts or their successors. All rules and regulations which the department is authorized by this section to make with respect to the duties and functions of the county institution districts or their successors shall be binding upon them.
+We believe that in promulgating the regulations here in question, the DPW was acting within its legislative rule-making power to regulate the cafe of children entrusted to foster family care and that this authority would reasonably extend to regulating the relocation of children from one foster family to another. The present case, however, involves the relocation of a child from a foster family to an adoptive home. We believe that the regulation of this type of relocation is outside of. the scope of the DPW’s regulatory authority and that the adjudication must therefore be reversed.
+Section 4363A of these regulations imposes upon a child agency attempting to relocate a child in foster family care the burden of establishing that the proposed relocation is the least detrimental long-term placement alternative for the child. If these regulations were to be applied in cases involving a proposed relocation to an adoptive home, an investigation would be required into the relative qualities of the foster home and the proposed adoptive home, and this in effect, would give DPW control over the adoptive process, for the agency would be required to seek the DPW’s preliminary approval of the potential adoptive family before the child could be removed from the foster home. This, however, would directly conflict with Section 201 of the Adoption Act, 1 Pa. C.S. §201, which' places, original jurisdiction over adoption proceedings .in the courts of common pleas. In such cases of course, the legislature assumes that the interests of concerned individuals such as foster parents could be adequately protected by their participation in the adoption proceedings in the courts of common pleas.
+We realize that the conclusion we reach here produces the unhappy result that Laura may now be removed from the foster home in which she has lived since the fourth day of her life. We believe, however, that the authority over adoption procedures has been given by the legislature to courts of common pleas and has not been left to the administrative discretion of the DPW.
+The order of the Secretary must, therefore, be reversed.
+Judge Crumlish, Jr. dissents.
+Order
+And Now, this 25th day of April, 1978, the order of the Department of Public Welfare dated October 21, 1976 is hereby reversed.
+These regulations relate to foster home care and are found in Title 4300 of the Department of Public Welfare's Child and Youth Manual.
+Act of June 4, 1945, P.L. 1388, as amended, 71 P.S. §1710.1 et seq.
+Sections 4360 to 4363 inclusive of DPW’s Title 4300 regulations.
+Act of June 13, 1967, P.L. 31, as amended, 62 P.S. §101 et seq.
+Section 701 of the Code, 62 P.S. §701.
+Section 902 of the Code, 62 P.S. §902.
+Section 331 of the Adoption Act, 1 Pa. C.S. §331, provides that the adoption process begins with the timely filing of a report of intention to adopt in the court of common pleas by the potential adoptive parents who must have custody of the child.
