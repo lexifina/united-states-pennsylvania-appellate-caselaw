@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 191"
+decided: "1918-03-02"
+citations: ["69 Pa. Super. 208"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Henderson, Head, Kerhart, Trexler and Williams, JJ."]
+parties: ["Rose v. Quaker City Cab Company, Appellant."]
+source_url: "https://static.case.law/pa-super/69/cases/0208-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 632530
+cites_cases: ["111 Pa. 9", "122 Pa. 449", "14 Pa. Superior Ct. 594", "144 Pa. 14", "200 Pa. 311", "221 Pa. 611", "226 Pa. 514", "252 Pa. 478", "56 Pa. 593", "65 Pa. Superior Ct. 247"]
+---
+
+# Rose v. Quaker City Cab Co.
+
+## Majority (Kephart, J.,)
+
+Opinion by
+Kephart, J.,
+The appellant’s car traveling north on Juniper street collided with the appellee’s car traveling east on Chestnut street, at the intersection of these streets. The court below charged the jury that if the appellant’s servant “failed to blow his horn so as to give proper warning of his approach, the jury may find for the plaintiff.” In so directing, the court erred. Generally speaking, the rights of travelers on the highway are reciprocal. When two vehicles are approaching each other at right angles, the rights of each are equal and each is bound to exercise reasonable care to avoid injury to the other. It is the duty of each to have his vehicle under control and to observe what is or may be approaching on the other street; to keep his car at such speed that he may, to avoid a collision, stop it quickly; and where another vehicle is first at the crossing, it should be given an opportunity to clear the crossing: McClung v. Pennsylvania Taximeter Cab Co., 252 Pa. 478. When this rule is observed, the probability of accident is greatly reduced.
+There may be circumstances where the failure to sound a horn would of itself be sufficient evidence of negligence. The facts in this record do not present such condition. The appellee saw the car some distance away coming in his direction. In such situation, he had the same knowledge that the sounding of a horn would give. The failure to give warning was not the proximate cause of the accident. Under the evidence, if the appellant were responsible, it was due to its driver’s failure to approach the intersection with his car under control. If the thirteenth section of the Act of July 7, 1913, P. L. 672, prescribes a standard of care for automobiles in approaching intersecting streets, in addition to that enunciated by Justice Waiting in McClung v. Pennsylvania Taximeter Cab Co., supra, it must appear that the failure to observe that rule was the proximate cause of the injury. Evidence as to the violation of the rule is not helpful in the determination of the case. But, as we have said, there are. no facts in this case to which the rule might be applied and the court was, therefore, in error in affirming the point as presented.
+The court below further charged the jury that “The plaintiff may recover damages caused by the defendant’s negligence, notwithstanding the plaintiff’s own negligence exposing him to the risk of injury, if such injury was more immediately caused by the defendant’s omission to use ordinary care for the purpose of avoiding injury to the plaintiff, after the defendant’s driver became aware of the plaintiff’s danger.” It would serve no useful purpose for us to discuss the laAV of contributory negligence. It has been so frequently before the appellate courts that we need not repeat it, but as to comparative negligence, in Weir v. Haverford Electric Light Co., 221 Pa. 611, Mr. Justice Fell stated: “The doctrine of comparative negligence has not been recognized in our State. Any negligence on the part of a plaintiff that contributes to; and is the proximate cause of his injury defeats his action. There can be no balancing or matching of degrees of negligence.” The court below relies for authority upon the case of Hess v. Kemmerer, 65 Pa. Superior Ct. 247. What was there said had relation to the possible inference of negligence that might be draAvn from the fact that the plaintiff had reached the safety zone in the center of Broad street before attempting to cross the remainder of the street. The defense relied on was the contributory negligence of the plaintiff in attempting to pass in front of a moving car. This court did not attempt to inject the doctrine of comparative negligence into that case nor did it attempt to modify the law of contributory negligence as applied by our courts; that law with respect to pedestrians and vehicles is the same now as it was before that opinion was written. The fourth and fifth assignments of error are sustained.
+There should be no question about the measure of damages, and as this case goes back for a retrial, the plaintiff will, no doubt, know just how much it did cost him to have his car repaired. He is not permitted to make a guess. The request for binding direction and for judgment n. o. v. were properly denied. All of the plaintiffs evidence must be considered, and when this is done the distance of the defendant’s car from Chestnut street and the probability of the plaintiffs story were for the jury. The rest of the assignments are without merit and are accordingly dismissed.
+The judgment of the court below is reversed and a venire facias de novo is awarded.
