@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 145 and 146"
+decided: "1935-07-18"
+citations: ["118 Pa. Super. 265"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Kellek, P. J„, Cunningham, Baldrige, Stadtfeld, Parker, James and Rhodes, JJ."]
+parties: ["Zoeller et al. v. Smallstig, Appellant."]
+source_url: "https://static.case.law/pa-super/118/cases/0265-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 983153
+cites_cases: ["162 A. 827", "309 Pa. 17"]
+---
+
+# Zoeller v. Smallstig
+
+## Majority (Stadtfeld, J.,)
+
+Opinion by
+Stadtfeld, J.,
+This was an action of trespass to recover damages for personal injuries sustained by minor plaintiff as a result of having been struck by a truck of defendant. No affidavit of defense was filed. At the close of the testimony the defendant filed a point for binding instructions which was refused, the case submitted to the jury, and verdicts were returned in favor of the minor plaintiff, Clara Zoeller, in the sum of $600, and in favor of the parents, Joseph and Marcella Zoeller, in the sum of $1,900. Defendant moved for judgment non obstante veredicto which was refused and from that refusal these appeals were taken.
+The only assignment of error is the refusal to enter judgment in favor of defendant n. o. v. The verdict of the jury establishes the negligence of the defendant. The sole question for our consideration is whether the evidence showed such contributory negligence on the part of the minor plaintiff that the court should have so declared as a matter of law and directed a verdict in favor of defendant.
+In passing on the right of the defendant for judgment n, o. v., the testimony must be read in the light most advantageous to the plaintiffs, all conflicts therein being resolved in the plaintiffs’ favor, and the plaintiffs must be given the benefit of every fact and inference of fact pertaining to the issues involved, which may reasonably be deduced from the evidence; Muehlhof v. Reading Co., 309 Pa. 17, 162 A. 827.
+The testimony ex parte plaintiff establishes the following facts: Prior to the accident, the minor plaintiff was a passenger on a street car, outbound from the downtown section of the city of Pittsburgh, Pennsylvania, which street car came to a stop at a regular street car stop at the intersection of Lowrie and Ley Streets, near where a switch or double street car track began. A number of passengers, including the minor plaintiff, alighted from the street car at that stop. At least one passenger, George P. Yost, preceded the minor plaintiff in alighting from the street car, and in passing in front of the street car, for the purpose of crossing Lowrie Street at its intersection with Ley Street. Yost walked in front of the standing street car to a point where he could observe the condition of traffic, and seeing that there were no vehicles on Lowrie Street, crossed the intersection. The minor plaintiff following him, likewise passed in front of the street car to a point where she could see the condition of vehicular traffic, and seeing that there was no traffic, continued to cross until struck by defendant’s truck which was in the act of passing the standing street car on the left side.
+The truck, prior to entering Lowrie Street, had come around a bend two blocks in the rear of the stréet car, and in approaching the street car was traveling on the right side of Lowrie Street until it reached a point within twenty feet of the rear of the standing street car, when it pulled from the back of the street car to the left of the same, and was passing the standing street car at a speed of thirty to thirty-five miles an hour, when it struck the minor plaintiff. After hitting the minor plaintiff, the truck came to a stop thirty-five feet in front of the street car. After the accident the minor plaintiff was lying ten to fifteen feet in front of the street car and between the rails of the opposite street car tracks.
+Appellant’s contention is necessarily based upon the theory that at the time the minor plaintiff attempted to cross the intersection, defendant’s truck must have been within the view of the minor plaintiff, and to support this theory we must assume that prior to the accident defendant’s truck was travelling on that portion of the highway which necessarily placed the truck within the view of the minor plaintiff.
+From the undisputed evidence in the case, the position of the truck as it approached the standing street car, the course it took in attempting to pass to the left of the street car, and the position of the minor plaintiff after the accident, it is apparent that the truck must have been behind the street car at the time the minor plaintiff made her observations as to the conditions of traffic and before she started to cross the street. The testimony of defendant’s driver seems to corroborate plaintiff’s position, when he testified that at the point where he turned to the left, there were two street car tracks, that he was compelled to turn at least four feet in order to clear the street car, and that he was passing the street car within two feet of the nearest rail on which the street car was standing. The evidence in the case and the inferences deducible therefrom tend to establish that the truck was not within the view of the minor plaintiff or Yost, the pedestrian preceding her, when they made their observations, before attempting to cross.
+Appellant’s contention that the minor plaintiff stepped into the side of the passing truck, which at the time was traveling two feet from the last rail of the track on which the street car was standing, is not supported by tbe evidence in view of tbe fact tbat the minor plaintiff, subsequent to being struck, was ten to fifteen feet in front of the street car and between the rails of the opposite track.
+After a careful reading of the testimony we are of the opinion that it would not have been proper for the trial judge to have given binding instructions in favor of the defendant. The question of defendant’s negligence, as also that of contributory negligence of the minor plaintiff, were questions of fact properly submitted to the jury. The evidence amply sustains the verdicts rendered.
+The assignments of error are overruled and judgments affirmed.
