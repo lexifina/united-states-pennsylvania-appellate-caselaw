@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 321"
+decided: "1965-03-18"
+citations: ["205 Pa. Super. 191"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, Wright, Woodside, Watkins, Montgomery, and Flood, JJ. (Rhodes, P. J., absent)."]
+parties: ["Commonwealth ex rel. Bonicker, Appellant, v. Bonicker."]
+source_url: "https://static.case.law/pa-super/205/cases/0191-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 771451
+cites_cases: ["100 L. Ed. 860", "104 A. 2d 183", "118 A. 2d 144", "125 Pa. Superior Ct. 380", "127 Pa. Superior Ct. 567", "149 A. 2d 488", "162 Pa. Superior Ct. 29", "175 Pa. Superior Ct. 373", "188 Pa. Superior Ct. 553", "189 A. 746", "193 A. 860", "350 U.S. 995", "383 Pa. 70", "56 A. 2d 265", "76 S. Ct. 544", "9 Pa. D. & C. 2d 152"]
+---
+
+# Commonwealth ex rel. Bonicker v. Bonicker
+
+## Majority (Montgomery, J.,)
+
+Opinion by
+Montgomery, J.,
+On June 20, 1962, relatrix and defendant, wife and husband, by stipulation, had an order made by the County Court of Philadelphia County providing for the support of wife-relatrix at the rate of $37.50 per week and for the support of their child Donna Marie in the same amount, or a total of $75 per week. This stipulation was predicated on a separation agreement previously entered into by the parties, which provided for the same support payments as set forth in the court order.
+On January 8, 1983, the parties were divorced by decree of a court of the State of Nevada, the validity of which is not questioned. This divorce also provided for the future support of relatrix and the child in the same amounts as stated in the agreement. Subsequent to the entry of this decree defendant filed a petition with said Philadelphia County Court to vacate its order as to his wife, to reduce the order as to the child, and to remit arrearages on the order for support of the wife which had occurred after the divorce.
+Also subsequent to the divorce relatrix filed a petition with the Philadelphia County Court for the attachment of defendant for failure to abide by the order of the court, and at the same time a second petition for support for herself and child, which was determined by that court as unnecessary and surplusage since it sought an order that would have duplicated the previous one; and a third petition, asking that court to give recognition to and enforce that part of the Nevada divorce decree which provided for the support of herself and child. This provision was incorporated in the Nevada decree by agreement of the parties and was also predicated on the aforementioned separation agreement.
+After hearing on all petitions, that court found that the relationship of the parties had changed materially, not only by reason of the divorce, but also by a substantial reduction in the defendant’s income; and it granted the defendant’s petition by vacating the order for support for the wife and reducing the order for the child from $37.50 per week to $20 per week. It dismissed the wife’s new petition for support and continued her petition for the attachment of defendant on account of his arrearages.
+This appeal by the wife presents only one question, although it is stated in her brief in several ways. That question is, should the Philadelphia County Court have recognized and enforced the provisions of the Nevada decree providing for the support of appellant and her child in the amounts set forth therein.
+The lower court held that jurisdiction having been taken by it of this subject matter and of the parties and their child prior to the assumption of jurisdiction by the Nevada court, that it was not bound by the provisions of the Nevada decree relating to the same subject, i.e., support, and that if such provisions were enforceable in Pennsylvania, they were not enforceable in this quasi-criminal nonsupport proceeding under §733 of the Act of June 24, 1939, P. L. 872, as amended, 18 P.S. §4733.
+Generally, a valid foreign judgment which imposes a duty to pay money will be enforced by a proper action if it is final, certain in amount, unconditional, and has not been vacated, and if execution has not been superseded in the state which rendered it. Dunn v. Hild, 125 Pa. Superior Ct. 380, 189 A. 746 (1937). Even though the decree has not been reduced to judgment, a foreign decree finally establishing a husband’s liability for alimony will be treated in Pennsylvania as a judgment entitled to full faith and credit and will be respected and enforced. Commonwealth ex rel. Branch v. Branch, 175 Pa. Superior Ct. 373, 104 A. 2d 183 (1954); Stewart v. Stewart, 127 Pa. Superior Ct. 567, 193 A. 860 (1937).
+The controversy in this case arises because the wife-appellant chose the wrong form of action to enforce her claim, which error was recognized and referred to obliquely by the lower court. Since she is now divorced, she has no right to support or alimony under Pennsylvania law and the court to which she is now appealing no longer has jurisdiction to award her either. However, her form of remedy to enforce payment of her property settlement or the alimony provision of the Nevada divorce decree, whichever it may later be determined to be, is governed by Pennsylvania procedural law and must follow the same procedure prescribed for enforcing any other judgment or debt by an action in assumpsit. Commonwealth ex rel. McVay v. McVay, 383 Pa. 70, 118 A. 2d 144 (1955), cert. denied, 350 U.S. 995, 76 S. Ct. 544, 100 L. Ed. 860; Commonwealth ex rel. v. Jacobs, 9 Pa. D. & C. 2d 152 (1955); 1 Standard Pennsylvania Practice 462; 3 Standard Pennsylvania Practice 319.
+In regard to the matter of support for the child, the jurisdiction of the Philadelphia County Court having been invoked by the action of the appellant, she may not now deny that jurisdiction. In Commonwealth ex rel. DiPasquale v. DiPasquale, 162 Pa. Superior Ct. 29, 56 A. 2d 265 (1948), we held that Pennsylvania courts were bound by the prior judgment entered at the request of a wife in New York. We think the same principle is applicable here. Appellant secured an order in Pennsylvania which the court in Nevada was bound to recognize. Appellant could not divest the Pennsylvania court of that jurisdiction except by proper action, which she has not taken. On the contrary, she still seeks redress from the Philadelphia court. Also see Commonwealth ex rel. Meth v. Meth, 188 Pa. Superior Ct. 553, 149 A. 2d 488 (1959), and Commonwealth ex rel. v. Jacobs, 9 Pa. D. & C. 2d 152, supra.
+We find no error in the action of the lower court.
+Orders affirmed.
