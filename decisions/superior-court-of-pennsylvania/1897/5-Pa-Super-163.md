@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 142"
+decided: "1897-07-23"
+citations: ["5 Pa. Super. 163"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Willard, Wickham, Beaver, Reeder, Orlady and Smith, JJ."]
+parties: ["Eli G. Suter, Appellant, v. William Findley with notice to Catharine E. Findley, Terre-Tenant."]
+source_url: "https://static.case.law/pa-super/5/cases/0163-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 280128
+cites_cases: ["10 Pa. 381", "100 Pa. 109", "100 Pa. 165", "110 Pa. 472", "155 Pa. 507", "155 Pa. 512", "163 Pa. 210", "170 Pa. 346", "170 Pa. 611", "22 W. N. C. 145", "3 W. & S. 470", "5 W. & S. 352", "98 Pa. 625"]
+---
+
+# Suter v. Findley
+
+## Majority (Wickham, J.,)
+
+Opinion by
+Wickham, J.,
+In Yerkes v. Richards et al., 170 Pa. 346, a point reserved, in the language of the one before us in the present case was condemned. There, however, the validity of the point was questioned by a specification of error. Here the matter has not been assigned for error, nor argued, hence we need give it no further attention, and will pass to the only question raised.
+Judgment was entered against William F. Findley, on May 6, 1890, and was revived, as against him only, on March 2, 1895, by amicable scire facias. The land bound by the original judgment had been previously conveyed by the defendant to his wife, Catharine E. Findley, by deed dated December 20, 1890, acknowledged March 6,1891, and recorded April 2,1891. On November 13, 1895, an alias scire facias was issued on the original judgment, with notice to Mrs. Findley who contends that as to her the proceeding to revive came too late, and that therefore she holds the land discharged from the lien of the judgment against her husband. Her view was adopted' and enforced by the court below, in entering judgment on the reserved question.
+The Act of June 1, 1887, P. L. 289, provides that no proceeding shall be available to continue the lien of a judgment “ against a terre-teüant, whose deed for the land bound by the said judgment has been recorded, except by agreement in writing, signed by said terre-tenant, and entered on the proper lien docket, or the terre-tenant or terre-tenants be named as such in the original scire facias.” This language means that the judgment creditor cannot, as formerly disregard, perhaps for years, the existence of a purchaser from the defendant under a recorded deed. Such a purchaser having done all that is necessary to give notice of his title has now the .right to insist that when the judgment is revived, either by an agreement between the plaintiff and the defendant alone, or by a scire facias wherein he is not named, that the land he bought is not to be held or pursued, as before the passage of the act, for the payment of the defendant’s debt. The words of the act are not susceptible of any other reasonable construction. In 3 Trickett on Liens, 312, the view of the author, which we are satisfied indicates the general practice since the act was passed, is thus summed up: “ When the deed of the terre-tenant is on record at the time of attempted revival, the scire facias to revive must name him as a terre-tenant, otherwise the lien will be lost in five years from the rendition of the judgment sought to be revived'. The same result will follow, the deed being on record, if the revival is attempted by an amicable scire facias which the terre-tenant has not signed.” This rule is sufficiently recognized in Lyon v. Cleveland, 170 Pa. 611, the last case on the subject, although a general expression in the opinion, considered .apart from the context and the facts, might seem to indicate that the judgment may, after revival against the defendant alone, and at any time within five years from and after the recording of the terre-tenant’s deed, bring in the terretenant. That he has, under the Act of April 16, 1849, P. L. 663, five years after the recording of the deed, or taking possession by the purchaser, to revive his judgment against the latter is true, but that he can, when so reviving it, skip a terre-tenant whose deed is on record and proceed against him later, is not now the law. To so hold would nullify the act of 1887.
+The practice made mandatory by that act is convenient, will often prevent a multiplicity of needless suits, enables terre-tenants to discover earlier than formerly whether the judgment creditor intends to hold the land conveyed, and works no real hardship to anyone.
+In Baum v. Custer, 22 W. N. C. 145, decided soon after the passage of the act of 1887, and evidently without any reference thereto, it was held that there was and always had been an important distinction between reviving a judgment amicably by agreement filed, and by issuing a scire facias for that purpose. The plaintiff and defendant, in that case, within the statutory five years revived the judgment by agreement. Between six and seven years after the entry of the original judgment, and two or three years after the' terre-tenants had purchased and recorded their deed, an alias scire facias was issued against them. It was beld too late, and that tbe land was freed from the lien at the end of five years from the entry of the original judgment. It was conceded that had the revival been accomplished through a writ of scire facias the alias would have been in time. As said before, this decision was based on the law as it stood prior to the passage of the act of 1887. That act makes still more hopeless the plaintiff’s contention. It will be observed that in all essential respects the facts in the case of Baum v. Custer are similar to those of the present case.
+We agree with the conclusion reached by the learned judge of the court below.
+Judgment affirmed.
