@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 266"
+decided: "1926-02-26"
+citations: ["87 Pa. Super. 327"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, Henderson, Trexler, Keller, Linn and Gawthrop, JJ."]
+parties: ["Electric City Motors, Inc. v. Ross, Appellant."]
+source_url: "https://static.case.law/pa-super/87/cases/0327-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 571179
+cites_cases: ["274 Pa. 152", "277 Pa. 530", "281 Pa. 448", "282 Pa. 127", "283 Pa. 304", "82 Pa. Superior Ct. 597"]
+---
+
+# Electric City Motors, Inc. v. Ross
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+An automobile was levied upon and sold at a sheriff’s sale, and was bought by the defendant. Tbe plaintiff, before the sale, gave notice of ownership to the sheriff, alleging that the automobile about to be sold as the property of the defendant in the execution was held by him under a bailment lease. Afterwards, a writ of replevin was issued by the plaintiff and the case came to trial. There was nothing in the pleadings to indicate that what proved to be the point in the case would be raised. The plaintiff proved the lease and on cross examination it developed that the note which under the provisions of the lease was given by the lessee, was indorsed by the plaintiff and discounted at the bank, and the lease was assigned as collateral; whether orally or in writing does not appear, nor if in writing was the form or contents of the assignment disclosed. As soon as the fact of the assignment appeared, the defendant raised the point that the plaintiff, having parted with his title, could not maintain his action. The learned trial judge entered judgment for the defendant, but afterwards granted a new trial, from which action this appeal is taken. The reasons for granting a new trial are stated by the lower court thus: “The plaintiff went to trial without having at hand important files, and the case proceeded upon an agreement to dispense with them. In consequence some testimony was introduced which otherwise might not have been admissible. In several respects assumptions were made which should have been avoided by proof apparently producible. The plaintiff’s attorneys expressed surprise at the turn of the case upon the point herein later discussed, and neither party seemed able to aid the Court with relevant authorities. In the hurry of the trial and under these circumstances we erred in directing a verdict for the defendant, and as some questions of fact, determinable by the jury, were involved we cannot enter judgment for the plaintiff, n. o. v., on this rule. Therefore, ¡and to do justice in the matter, we will grant a new trial.” “Under the pleadings and evidence adduced, we cannot enter judgment as moved for by tbe plaintiff, but to correct our error in directing a verdict for the defendant we will grant a new trial, upon which all documentary and other written evidence of essential facts and circumstances involved should be introduced or ground laid for the admission of secondary evidence.” To the above may be added the fact that the court states that a certain objection to testimony was erroneously sustained.
+Where the trial judge is of the opinion that a new trial is required, in order that justice may be done, we approach the case with a desire to further such purpose, and unless there is a compelling reason to the contrary, we will not interfere. We refrain from the discussion of the law involved, for upon a new trial facts may develop which may change matters so that an entirely different question may be presented. If a fuller presentation of the matters involved will lead to a riper judgment, and a just conclusion, we see no harm in a re-trial, particularly so because we see that the case was tried in such a manner as to compel the plaintiff to meet an unexpected proposition. In Alianell vs. Schreiner, 274 Pa. 152, the court granted a new trial for the reason that the losing party had been misled by a ruling of a trial judge, and for this reason should be given an opportunity to present his case. In Smith v. Penn Mutual Fire Insurance Co., 82 Pa. Superior Ct. 597, this court reversed the judgment and ordered a new trial in order that the plaintiff, who was met by a point that was not expected, and had not his witnesses in court to prove a certain matter that came up Avhen the case Avas tried, might have a better opportunity to present his case. An order granting a new trial will not be reversed unless a palpable abuse of power appears: Class and Nachod Brewing Co. v. Giacobello, 277 Pa. 530, where a number of cases are reviewed. Some later eases to the same effect are: Tate-Jones & Co. v. Union Electric Steel Co., 281 Pa. 448; Weiss v. London Guarantee and Accident Co., 282 Pa. 127; Rittenhouse v. Exeter Machine Works, 283 Pa. 304.
+The assignments of error are overruled and the order granting a new trial is affirmed.
