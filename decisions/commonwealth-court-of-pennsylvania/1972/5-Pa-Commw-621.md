@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 47 C.D. 1972"
+decided: "1972-05-05"
+citations: ["5 Pa. Commw. 621"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Kramer and Wilkinson, Jr., sitting as a panel of three."]
+parties: ["Department of Transportation v. Bechtel."]
+source_url: "https://static.case.law/pa-commw/5/cases/0621-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1849278
+---
+
+# Department of Transportation v. Bechtel
+
+## Majority (Judge Kramer,)
+
+Opinion by
+Judge Kramer,
+We have before us an appeal filed by the Commonwealth of Pennsylvania, Department of Transportation (appellant), from an Opinion and Order of the Court of Common Pleas of Franklin County. On the afternoon of June 28, 1970, Oscar Paul Bechtel, appellee (Bechtel), while operating his automobile in the City of Chambersburg, was involved in an accident. The record indicates that no other vehicles were involved in the accident. That same afternoon, Bechtel spoke by telephone with an officer of the Pennsylvania State Police and informed the officer that his car had been stolen. The officer informed Bechtel that the car had been found in Chambersburg in a wrecked condition. Bechtel was further informed as to the location of his automobile. Shortly thereafter, Bechtel returned to the scene and inquired of them as to whether the driver had been found. Later that day, Bechtel was charged by the State Police with operation of a motor vehicle while under the influence of alcohol (The Vehicle Code, Act of April 29, 1959, P. L. 58, 75 P.S. §1037), and with falsification of information to a state agency (The Penal Code, Act of June 24, 1939, P. L. 872, as amended, 18 P.S. §4328). At a hearing held before a justice of the peace on June 30, 1970, Bechtel pleaded guilty to the falsification charge, admitting that, in fact, he had been operating the automobile at the time of the accident and that no theft had occurred. The record before us does not indicate appellee’s plea relating to the charge of operation of a motor vehicle while under the influence of alcohol.
+On August 24, 1970, in the Court of Common Pleas of Franklin County (Criminal Division) appellee pleaded guilty to. the falsification charge. The charge relating to operating a vehicle while under the influence of alcohol was “nolle prossed.”
+The Clerk of the Court of Common Pleas of Franklin County, on August 25, 1970, certified Bechtel’s conviction under , the Penal Code, to the Department of Transportation, Bureau of Traffic Safety. The Department of Transportation notified Bechtel by mailed notice, on June 4,1971, that his license was suspended for a period of one year for “certification from the Clerk of Court of Franklin County, Section 618(a) (2) of Act 32, Vehicle Code” and “falsification of information to a state agency, Section 328, Penal Code, 6/28/ 70.” Bechtel was ordered therein to return his operator’s license to the Bureau of Traffic Safety. Bechtel filed an appeal before the Court of Common Pleas on June 18, 1971; and on June 21, 1971, the court granted him a hearing de novo to determine whether he was subject to suspension óf his operator’s license. A hearing was held on July 29, 1971, before the court below. On January 7, 1972, the Opinion and Order of the court were filed sustaining Bechtel’s appeal, and directing the Secretary of the Department of Transportation to reinstate his operating privileges. The Commonwealth then filed this appeal.
+Section 618(a)(2) of The Vehicle Code, at 75 P.S. reads:
+“(a) The secretary may suspend the operating privilege of any person, with or without a hearing before the secretary or his representative, upon receiving a record of proceedings, if any, in which such person pleaded guilty, entered a plea of nolo contendere, or was found guilty by a judge or jury, or whenever the secretary finds upon sufficient evidence:
+“(2) That such person has been convicted of a misdemeanor, or has forfeited bail upon such a charge, in the commission of which a motor vehicle or tractor was used.”
+The Penal Code, at 18 P.S. §4328, states: “Whoever, in any matter within the jurisdiction of any department, board, commission or agency of the Commonwealth of Pennsylvania, . . . makes any false, fictitious' or fraudulent statements or representations, . . ! knowing the same to contain any false, fictitious or fraudulent statement or entry, shall he guilty of a misdemeanor, . . .”
+The Commonwealth maintains that the above-cited statutory quotations support its position that Bechtel’s conviction of the misdemeanor of falsification of information to a state agency, given the facts of this case, are sufficient grounds upon which to suspend Bechtel’s operating privileges. We cannot agree with the Commonwealth in its statutory construction and application.
+A reading of the appellate and lower court cases cited in the briefs of both parties leaves little doubt as to the proper interpretation of Section 618(a)(2) of The Vehicle Code. The “Misdemeanor,” of which The commission, a “motor vehicle or tractor” is employed as Vehicle Code speaks, and requires, is that which, in its an integral part of the perpetration of an act of misdemeanor magnitude. The use of the “motor vehicle or tractor” must be of such a nature and type that it be an integral part of the proscribed conduct. For example, the use of a “getaway car” before or after a burglary would be an obvious integral part of a Penal Code crime.
+For whatever reason, Bechtel suffered an automobile accident. It was only after the accident that he falsely notified the State Police of the theft of his automobile. His later falsehood was not an integral part of the completed vehicular accident. His use of the automobile was not an integral part of the falsehood. His falsehood had indeed violated The Penal Code of this Commonwealth, as clearly indicated by his conviction before the Criminal Court. His falsehood, and his desire for its furtherance, were not operative at a time during -winch a “motor vehicle or tractor was used.” We interpret the words “in the commission of” as meaning a reasonable and integral relationship with the proscribed conduct. We find no such relationship in this case. To otherwise construe the statute would provide nurture to a -variety of absurd applications.
+In the light of our determination of the major issue relating to our construction of the statute, it is unnecessary to consider the other questions presented.
+Based upon the above analysis, we affirm the Opinion and Order of the Common Pleas Court of Franklin County sustaining Bechtel’s appeal and directing the Secretary of the Department of Transportation to reinstate his operating privileges.
+It should be noted that the “scene of the accident” and the location of the automobile when found by the State Police are one and the same.
+See Creasy License, 49 D. & C. 2d 775 (1970) ; License of Malloy, 81 D. & C. 422 (1952) ; License of Dieter, 76 D. & C. 181 (1951).
