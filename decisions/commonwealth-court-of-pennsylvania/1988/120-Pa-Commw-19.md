@@ -1,0 +1,42 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 381 Misc. Docket No. 4"
+decided: "1988-09-26"
+citations: ["120 Pa. Commw. 19", "547 A.2d 1290"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judge Palladino dissents."]
+parties: ["McGraw-Edison, Petitioner v. Workmen's Compensation Appeal Board (Ardeno et al.), Respondents."]
+source_url: "https://static.case.law/pa-commw/120/cases/0019-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1378436
+cites_cases: ["189 A.2d 593", "410 Pa. 446", "465 A.2d 81", "77 Pa. Commonwealth Ct. 67"]
+---
+
+# McGraw-Edison v. Workmen's Compensation Appeal Board
+
+## Majority (Judge Doyle,)
+
+Opinion by
+Judge Doyle,
+Before us is the interlocutory appeal by permission of McGraw-Edison (Petitioner) from an order of the Workmens Compensation Appeal Board (Board) directing Petitioner to reinstate partial disability benefits to several of its injured employees pursuant to Section 306(b) of The Pennsylvania Workmens Compensation Act (Act), and remanding for computation of those benfits.
+This appeal actually involves twenty-three separate modification petitions filed by Petitioner and twenty-three separate reinstatement petitions filed by the individual Claimants (Claimants). All of the Claimants are employees of Petitioner and sustained injuries while in the course of their employment. Some Claimants were unable to work for a period of time and received compensation benefits for total disability. Some Claimants were able to return to light duty or restricted work immediately after their injuries. All Claimants, however, eventually returned to work at light duty or restricted duty positions, and all returned to work at jobs that paid less than their pre-injury average weekly wage. The Claimants were receiving partial disability compensation benefits equaling two-thirds of the difference between their pre-injury average weekly wage and their post-injury wage.
+The unusual problem which now confronts us had its origin in a negotiated wage concession agreement of March 5, 1985, when all of Petitioners hourly employees had their wages reduced. When the post-injury wages were reduced for the Claimants, the difference between their higher pre-injury average weekly wage and their now reduced post-injury wage, of course, became greater and accordingly, the amount of their partial disability compensation benefits automatically increased. The result of this was that the Claimants received wages and compensation benefits which, when added together, totaled more than the average post-injury wages earned by employees performing Claimants’ pre-injury jobs.
+Petitioner filed a petition to modify the compensation benefits of the Claimants. Claimants, in turn, filed petitions for reinstatement asserting that the partial disability benefit calculation under Section 306(b) of the Act must be made using the pre-injury average weekly wage, and the post-injury earnings, regardless of the present earnings of the fellow employees.
+In the proceeding before the referee, the parties agreed to bifurcate the legal issue involved from the factual determination of each case. The referee’s decisions in favor of the Claimants were appealed by Petitioner. The Board, in affirming the decision of the referee relied on Section 306(b) of the Act which provides in part that:
+[I]n no instance shall an employe receiving compensation under this section receive more in compensation and wages combined than a fellow employe in employment similar to that in which the injured employe was engaged at the time of the injury.
+77 P.S. §512. The Board concluded that under Section 306(b) an injured employee’s substantive legal rights become fixed or vested at the time a claimant sustains a compensable disability. Petitioner’s petition to appeal an interlocutory order was granted by this Court.
+In this appeal, Petitioner dontends that the Board incorrectly interpreted Section 306(b) of the Act. We do not agree. Section 306(b) serves to offset the losses of injured workers and to assure that the system of loss measurement remains calibrated. Duquesne Light Co. v. Workmens Compensation Appeal Board (Klein), 77 Pa. Commonwealth Ct. 67, 465 A.2d 81 (1983). It is clear from Section 306(b) that an employee may not receive more in compensation and wages than a fellow employee in similar employment. What is at issue here, however, is the time at which the wage comparison should be fixed: at the time of injury, as purported by Claimants, or presently, at the time of the actual wage loss, as purported by Petitioner. Section 306(b) specifically states that the employee receiving compensation cannot receive more than a fellow employee “in which the injured employee was engaged at the time of the injury.” (Emphasis added.)
+After careful examination of the language of this statute, we believe that the Board was correct in holding that Section 306(b) establishes a comparison of wages with similar employees at the time of the injury,. rather than at a time prior or subsequent to the claimants injury. As stated above, the purposes of Section 306(b) is to offset the losses of injured workers, and to assure that the system of loss measurement remains calibrated. Setting the wage comparison at the time of injury assures a claimant that he or she will be made whole. Additionally, claimants receiving partial disability benefits at this comparison rate cannot suffer a decrease in the amount of partial disability benefits received based on a wage cut affecting fellow employees, nor can they enjoy an increase in their disability payments if their fellow employees’ wages rise. If, however, the wage comparison were set at the time of the wage loss, a claimant’s compensation could, potentially, vary greatly from his time of injury wage, thus, undermining the purpose of the Act.
+Contrary to Petitioners contention, we find Duquesne Light to be factually distinguishable from the case at bar. In that case, an employee injured his arm at work in July 1979, but was able to continue working full time and overtime. In December of the same year, his employer prohibited him from working overtime to protect the employee from further injury. The employee then filed a petition contending that he was partially disabled. Under those facts, this Court held that the employee could not receive benefits for any period during which he worked overtime, and that the critical date for calculating maximum compensation benefits was in December, when the Claimant actually suffered a loss of wages. Therefore, we held that that was when payments should have begun.
+Finally, Petitioner asserts that if the wage comparison is set at the time of injury, Claimants will be unjustly enriched and that such enrichment is violative of Section 306(b). See Duquesne Light. In order for there to be unjust enrichment, there must be both enrichment and injustice. Meehan v. Cheltenham Township, 410 Pa. 446, 189 A.2d 593 (1963). We discern no injustice where a claimant is receiving compensation benefits at a wage rate that Petitioner had, at one time, set for that employee. Wage concession agreements, as well as wage increases, are to be expected in the work-force and cannot be directly attributed to an employer or its employees. Thus, we believe that no injustice has been done.
+Accordingly, we affirm the order of the Board.
+Order
+Now, September 26, 1988, the order of the Workmens Compensation Appeal Board in the above-captioned matter is hereby affirmed and this case is remanded for further proceedings consistent with this opinion.
+Jurisdiction is relinquished.
+Judge Palladino dissents.
+Order
+Now, November 17, 1988, Petitioners Application for Amended Order is granted and the order of this Court entered on September 26, 1988 in the above-captioned matter is hereby amended to indicate that the case involves a controlling question of law as to which there is substantial ground for difference of opinion and an immediate appeal from the order may materially advance the ultimate termination of the matter. See 42 Pa. C. S. §702(b).
+Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §512.
+Our scope of review is limited to determining whether con-, stitutional rights have been violated, errors of law were committed, or findings of feet were unsupported by substantial evidence. Section 704 of the Administrative Agency Law, 2 Pa. C. S. §704.
