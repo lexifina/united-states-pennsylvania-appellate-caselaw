@@ -1,0 +1,39 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2898; 2916"
+decided: "1996-10-28"
+citations: ["453 Pa. Super. 598", "684 A.2d 203"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before McEWEN, President Judge, and DEL SOLE, BECK, TAMILIA, KELLY, POPOVICH, JOHNSON, HUDOCK and SCHILLER, JJ.", "SCHILLER, J., concurs in the result.", "JOHNSON, J., files a dissenting statement in which McEWEN, President Judge, concurs in the result and TAMILIA, J., joins.", "TAMILIA, J., files a dissenting statement."]
+parties: ["Nancy M. ORZECK a/k/a Nancy M. Nowlan, Appellee, v. Gregory J. ORZECK, Appellant. Nancy M. ORZECK a/k/a Nancy M. Nowlan, Appellant, v. Gregory J. ORZECK, Appellee."]
+source_url: "https://static.case.law/pa-super/453/cases/0598-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 770978
+cites_cases: ["453 Pa.Super. 576", "684 A.2d 192"]
+---
+
+# Orzeck v. Orzeck
+
+## Majority (PER CURIAM:)
+
+OPINION
+PER CURIAM:
+Appellant-wife takes this appeal from an order of spousal support directing Appellee-husband to make payments in the amount of $340.00 per month. The court’s order was initiated by the wife’s complaint for support which followed and was filed separately from husband’s complaint in divorce. Because the divorce action and its related economic matters are not resolved, this appeal from the spousal support order is premature and is quashed. See Leister v. Leister, 453 Pa.Super. 576, 684 A.2d 192 (1996).
+SCHILLER, J., concurs in the result.
+JOHNSON, J., files a dissenting statement in which McEWEN, President Judge, concurs in the result and TAMILIA, J., joins.
+TAMILIA, J., files a dissenting statement.
+
+## Dissent (JOHNSON, Judge,)
+
+JOHNSON, Judge,
+dissenting.
+In this case, the hearing officer recommended an order of support in favor of Wife. The trial court entered an award in favor of Wife in an amount less than that recommended by the hearing officer. Both Husband and Wife filed appeals from the support order. Although not consolidated, both appeals were listed before this en banc panel.
+I believe that the question of the immediate appealability of a spousal support order, entered in response to an independent complaint for support and during a separate divorce action, is beyond the scope of our proper appellate review. See Leister v. Leister, 453 Pa.Super. 576, 684 A.2d 192 (1996) (Johnson, J. dissenting). I would reach the merits of both appeals and affirm the order from which both appeals have been brought.
+
+## Dissent (TAMILIA, Judge,)
+
+TAMILIA, Judge,
+dissenting.
+I respectfully dissent to the Opinion Per Curiam which quashes wife’s appeal from an Order of spousal support due to the fact the divorce action has not yet been resolved. I do so for the reasons set forth in my Dissenting Opinion in Leister v. Leister, 453 Pa.Super. 576, 684 A.2d 192 (1996).
