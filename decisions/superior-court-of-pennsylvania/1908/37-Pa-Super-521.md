@@ -1,0 +1,37 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 77"
+decided: "1908-12-07"
+citations: ["37 Pa. Super. 521"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Porter, Henderson, Morrison, Orlady and Beaver, JJ."]
+parties: ["Beck v. Germantown Cricket Club, Appellant."]
+source_url: "https://static.case.law/pa-super/37/cases/0521-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 876041
+cites_cases: ["10 Pa. Superior Ct. 283", "102 Pa. 474", "165 Pa. 109", "192 Pa. 137", "195 Pa. 372", "213 Pa. 357", "217 Pa. 140"]
+---
+
+# Beck v. Germantown Cricket Club
+
+## Majority (Morrison, J.,)
+
+Opinion by
+Morrison, J.,
+The plaintiffs sued to recover damages caused by an injury to Mary Beck on the evening of May 10, 1906. The theory of the plaintiffs was that she stepped into a hole in a board walk in front of the defendant’s premises on Manheim street; that there was a hole broken through one of the boards and that this was the direct cause of Mrs. Beck’s injury. The plaintiffs offered sufficient evidence at the trial to carry the question of whether her injury was caused, as above stated, to the jury. In reply the defendant offered the evidence of several persons, whose business it was to know the condition of the sidewalk, who testified strongly and quite convincingly that there was no hole in the sidewalk, on that evening, from end to end, and especially at the place where the accident happened; that the walk was repaired and put in good condition two days prior to the accident. There was positive . evidence that the walk was in good condition, with the exception of a depression of about one-fourth of an inch caused probably by a soft board being worn that much more than the adjoining boards.
+The happening of an accident on a sidewalk is not enough to establish negligence on the part of the person whose duty it is to construct and keep in repair said walk. In Lohr v. Philipsburg Borough, 165 Pa. 109, our Supreme Court said: “ It is essential to the plaintiff’s recovery in this action that she should show by competent evidence a defective and dangerous condition of the sidewalk which was the sole cause of the injury she received and of which the borough had actual or constructive notice before the accident.”
+With the case in the condition above indicated, the learned counsel for the defendant presented the following points:
+■ “1. If the jury find that the board walk was not broken, and that it was level except for a depression about a quarter or half an inch deep in one of the boards, then the verdict must be for the defendant.
+“2. If the jury find that the boards were in good repair at the place where the plaintiff fell, but that there was a slight unevenness in one of the boards, the verdict must be for the defendant.
+“3. If the condition of the board walk was such that it 'would not be natural or probable that a person should fall upon it, the defendant is not responsible for the accident and the verdict must be for the defendant.”
+These points give rise to the first three assignments of error, as they were all Answered in the negative. There is also a fourth assignment of error which is an excerpt from the charge. As we view the law, under the evidence in this case, the learned court should have affirmed each of the defendant’s points. It is not the law in Pennsylvania, and perhaps nowhere else, that a depression of one-fourth of an inch in a board, plank, flagstone or brick sidewalk, otherwise sound and in good condition, is sufficient to carry the question of the negligence of the defendant to a jury. In the charge as quoted in the fourth assignment, the learned court erroneously submitted to the jury to find whether or not the one-fourth inch depression caused the accident, and that if it did, the plaintiffs were entitled to recover, unless Mrs. Beck was guilty of contributory negligence. But there was no question of contributory negligence on her part being pressed by the defendant, nor was there any question about the one-fourth inch depression, and, therefore, this was practically a binding instruction to find for the plaintiffs. There is an additional contention by the learned counsel for the defendant that there was no evidence to sustain a finding that the alleged hole in the sidewalk had been there any length of time prior to the accident and, therefore, the counsel argues that the court erred in submitting the case to the jury for that reason. But we cannot reverse on that ground for the reason that'all of the points submitted by the defendant’s counsel conceded that the case was for the jury as to whether or not the accident was caused by a broken or defective sidewalk. The question of actual or constructive notice of a defective condition of the sidewalk was not raised at the trial, and it would be unfair to the court to attach importance to that subject now in view of the points submitted by the defendant’s counsel.
+It is contended by appellee’s counsel that the jury found in favor of the plaintiffs on the ground that there was a hole in the sidewalk. This is begging the question. Under the instructions from the learned court, it is quite probable that the jury convicted the defendant of negligence because a board in the sidewalk was a quarter of an inch lower than the adjoining boards.
+It is true that defendant’s first point concedes that the depression may have been about a quarter or half an inch deep, but we have considered it as not more than' a quarter of an inch because there is not a particle of evidence that the depression was greater than that.
+In Morris v. Philadelphia, 195 Pa. 372, the Supreme Court said: “The plaintiff, Mrs. Morris, trod upon a brick in a slight depression in the pavement, and it turned under the pressure of her foot sufficiently to cause her to fall. There was no evidence to show that the brick was out of its position then, or at any time before, but it had become slightly loosened, a circumstance which may easily happen at any time in any part of the city. To hold the city liable in damages for every trivial accident of this kind would be to adopt a measure of liability quite unheard of, and entirely too severe for the ordinary administration of municipal affairs.”
+It is only requisite that sidewalks should be maintained in a reasonably safe condition: Rotsell v. Warren Borough, 10 Pa. Superior Ct. 283.
+In Reed v. Tarentum Borough, 213 Pa. 357, it is held that the duty as to side-walks is to maintain them in a reasonably safe condition, and it cannot be left to the judgment or caprice of a jury to establish any other standard. The standard in this case was whether the pavement was reasonably safe. This was to be determined by the standard of ordinary usage, and not by a standard the jury might set up. See also Borough of Easton v. Neff, 102 Pa. 474.
+When we consider the standard of ordinary usage, in regard' to slight depressions in sidewalks and pavements, it was unreasonable for the court to consider so slight a depression in a sidewalk as a dangerous defect. The law does not require perfect sidewalks; the standard is reasonably safety.
+We are compelled to sustain all of the assignments of error and reverse the judgment, but in view of the manner in which the case was tried, we will award a new venire.
+The judgment is reversed with a venire facias de novo.
