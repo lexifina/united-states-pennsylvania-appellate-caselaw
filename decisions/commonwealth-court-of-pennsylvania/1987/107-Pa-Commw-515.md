@@ -1,0 +1,64 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2427 C.D. 1985"
+decided: "1987-07-21"
+citations: ["107 Pa. Commw. 515", "528 A.2d 702"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail and Palladino, and Senior Judge Blatt, sitting as a panel of three.", "Judge Palladino dissents."]
+parties: ["Allied Services for the Handicapped, Inc., Petitioner v. Commonwealth of Pennsylvania, Department of Public Welfare, Respondent."]
+source_url: "https://static.case.law/pa-commw/107/cases/0515-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1361018
+cites_cases: ["103 Pa. Commonwealth Ct. 21", "443 A.2d 867", "464 Pa. 276", "498 A.2d 996", "501 Pa. 335", "512 Pa. 377", "517 A.2d 523", "55 Pa. Code §1101.68", "55 Pa. Code §§1101.11-1101.95", "66 Pa. Commonwealth Ct. 95", "92 Pa. Commonwealth Ct. 89", "99 Pa. Commonwealth Ct. 213"]
+---
+
+# Allied Services for the Handicapped, Inc. v. Commonwealth
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+Allied Services For The Handicapped, Inc. (Allied), has petitioned for review of an order of the Director of the Office of Hearings and Appeals (Director) of the Department of Public Welfare (Department). The Directors order had rejected the recommendation of the hearing examiner and denied Allied’s appeal from the Department’s refusal to pay certain medical assistance invoices pursuant to the General Provisions of the Medical Assistance Manual (Manual), 55 Pa. Code §§1101.11-1101.95.*
+Allied actually filed several appeals from the Department’s denial of provider reimbursement and the matter was scheduled for hearing by a Departmental hearing officer. A hearing was held and, thereafter, the hearing examiner issued his recommended decision which included the following material, comprehensive and specific findings of fact:
+1. On January 1, 1981, DPW adopted the MAMIS SYSTEM for processing and payment of MA claims of long term care facilities, requiring that invoices must be submitted to DPW within 6 months of the date of service.
+2. DPW did not enforce its 6 month limitation until March 1, 1982.
+3. Many claims submitted by Allied Services (Allied), for services provided to qualified MA patients during the period January-November, 1981 (with most of those days of service occurring in February/March, 1981), in the amount of $41,214 [Ledger One], were not reflected as approved, rejected, or pended on the remittance advices (RA’s); all claims were submitted within 180 days of date of service.
+4. Allied was informed by Dottie Alexander, who was conducting provider training in the MAMIS system, at the training seminar held at the beginning of 1981, that when an RA came back and the claim was not approved, rejected or pended, that it was not to be resubmitted, but, rather, they were to be sent back at the end of the year in the cost report.
+5. Allied relied on the advice from Ms. Alexander and did not resubmit any of its claims for payment, which were reflected on the RAs.
+6. Dottie Alexander, at the time, was employed by the Computer Company (TCC), a firm retained by DPW to administer/operate the MAMIS system.
+7. On September 24, 1981 DPW issued MAB 36-81-13 which proposed three suggested ways providers could reconcile submitted invoices with the RAs received form [sic] DPW The method adopted by Allied, in its final step, provided that if an invoice did not appear on a [sic] RA marked approved, rejected or pended within 45-50 days after submission, it should be resubmitted.
+8. Allied used the aforementioned method for claims not appearing in the RAs arising after July 1, 1981. It did not use the method for claims for January-June, 1981 because they were in the prior fiscal year and Allied expected that they would be resolved in that years cost report as directed by Ms. Alexander.
+9. On January 29, 1982 DPW issued MAB 36-82-01 which informed providers that the provisions of Regulation 1101.68, which require submission of all claims within 180 days, would be strictly enforced starting March 1, 1982.
+10. As a result of receiving MAB 36-82-01, all claims for January-June, 1981 were resubmitted by certified mail on February 25, 1982. (Exhibit A-l, RA, shows 2-25-82 as the date of invoice).
+11. On March 12, 1982 DPW rejected all the claims resubmitted on February 25, 1982 on the grounds that they were not submitted and approved by March 1, 1982.
+12. The parties agree that the basis for DPWs rejection was based on DPWs interpretation of Regulation 1101.68 and MAB 36-82-01 to require that claims be submitted and approved within the 180 day period.
+13. Claims submitted by Allied for Services [sic] provided to qualified MA patients during the period December 1981 — February, 1982, in the amount of $11,846, designated Ledger Three, were timely submitted.
+14. The Ledger Three claims were rejected by the Department on grounds that insufficient information was provided.
+* * *
+16. Ledger Three claims were subsequently rejected by DPW on the same grounds as Ledger One claims—that they were not submitted and approved within the 180 day deadline.
+From these findings, the hearing officer concluded that, as a matter of law, the Departments interpretation of §1101.68 of the Manual, i.e., that in order to satisfy the 180 day rule contained in §1101.68, medical assistance provider invoices must be received, and approved, by the Department within that period, is plainly erroneous and, therefore, invalid. See State College Manor Ltd. v. Department of Public Welfare, 92 Pa. Commonwealth Ct. 89, 498 A.2d 996 (1985). Accordingly, the hearing officer recommended that the Department pay the disputed amounts to Allied.
+As noted above, the Director rejected the hearing officers recommendations and denied Allied’s appeal. The material portions of the Director’s order are as follows:
+AND NOW, this 15th day of August, 1985, after careful review and consideration of the Recommendation of Hearing Officer Herman Kaufman, it is hereby ORDERED and DECREED that the Recommendation is rejected and the appeal of the appellant is denied.
+On December 26, 1980, the Department clarified that in order for invoices to be considered timely submitted, the Department must receive the invoices within the specified 180 day timeframe. Medical Assistance Bulletin No. 99-80-15. Accordingly, in the instant case, the Department correctly denied payment because the invoices were not submitted (received) within the 180 day period. [Emphasis in original]
+On review, Allied repeats its contention that the Departments interpretation of §1101.68 is erroneous; that the Department should be estopped to deny payment of the Ledger One claims on grounds that these invoices were not received by the Department by March 1, 1982; and that the record evidence does not support a finding that all of the involved invoices were not received by the Department by March 1, 1982. The Department responds that these invoices were not timely filed and that, under a strict interpretation of §1101.68, these invoices were properly denied; that Allied failed to raise the estoppel argument before the administrative authorities and that, therefore, that issue has been waived; that Allied has failed to comply with state and federal law and did not reasonably rely on the Department’s representation to its detriment and, therefore, that estoppel will not lie here; and that the Director’s adjudication is in accordance with the law, not in violation of Allied’s constitutional rights and is supported by substantial evidence.* *****
+Unfortunately, we are unable to reach these questions. Recently, in Northwestern Institute of Psychiatry v. Department of Public Welfare, 99 Pa. Commonwealth Ct. 213, 513 A.2d 495 (1986), this Court, en banc, held that, in provider appeals, such as the instant matter, the Director, not the hearing officer, is the fact-finder. And, as can be seen above, the only factual statement in the Director’s order here is the blanket declaration that “the invoices were not submitted (received) within the 180 day period.” Clearly, such a vague finding of fact is insufficient to resolve the complex questions presented in this case. We are compelled, therefore, to remand this case to the Office of Hearings and Appeals so that the Director may make the necessary factual findings. Pages Department Store v. Velardi, 464 Pa. 276, 346 A.2d 556 (1975).
+Accordingly, we will vacate the Directors order and remand for a new adjudication with appropriate findings of fact and conclusions of law.
+Order
+And Now, this 21st day of July, 1987, the order of the Director of the Office of Hearings and Appeals of the Department of Public Welfare in the above-captioned matter is vacated and the record is remanded for further proceedings in accordance with this Opinion.
+Jurisdiction relinquished.
+Judge Palladino dissents.
+Specifically, the pertinent regulation in this case is 55 Pa. Code §1101.68, which provides as follows:
+(a) Providers shall use the invoices specified by the Department or its agents when billing for Medical Assistance services or items. Providers shall submit the invoices within 6 months after the delivery of the services or items. Invoices that have not been completed according to specified instructions or that lack any required documentation will be rejected by the Department. In the event that an invoice is rejected by the Department, a remittance advice will be sent to the provider explaining the reason for the rejection. The provider may submit a corrected invoice for payment.
+(b) Invoices submitted after the 6-month period will be rejected absolutely unless:
+(1) A recipient eligibility determination that was required to be made by a CAO was delayed for 30 days or longer.
+(2) Payment is being requested from a third party resource.
+Allied filed three separate appeals from the Departments denials of payment, No. 36-83-06, No. 36-83-07 and No. 23-83-105. No. 23-83-105 was settled prior to the hearing and, consequently, only Nos. 36-83-06 and 36-83-07 are involved here.
+The hearing examiner’s finding number 5 appears to be inconsistent with his 4th finding, and seemingly should read that Allied did not resubmit claims which were not reflected in the RA’s.
+The hearing officers 15th finding of feet is a repetition of his finding number 14, apparently an inadvertency.
+The Directors order also contains advice to Allied on the proper method of requesting administrative reconsideration, if desired, and the time limitations applicable thereto. The order further informs that the reconsideration request will generate a written response by the Departments Executive Deputy Secretary within 15 working days from the date the request is received. Such notification, however, does not advise the party requesting reconsideration that even if such time limits are met, a request for reconsideration might be denied after the 30 day period for filing a petition for review, as provided by Pa. R.A.P. 1512 has passed, thereby limiting judicial review to the narrow issue of whether or not the administrative agency has abused its discretion in denying reconsideration. Muehleisen v. State Civil Service Commission, 66 Pa. Commonwealth Ct. 95, 443 A.2d 867 (1982), aff'd 501 Pa. 335, 461 A.2d 615 (1983).
+On page 11 of its brief to us, the Department cites Harmerville Rehabilitation Center, Inc. v. Department of Public Welfare, No. 1396 C.D. 1985, filed April 11, 1986, an unreported opinion of this Court, in violation of Section 414 of our Internal Operating Procedures (I.O.P.). Inasmuch as the Department also cites State College Manor for the same point, the I.O.P. violation is harmless, but we caution the Department not to repeat this error in future cases.
+Under Section 704 of the Administrative Agency Law, Pa. C. S. §704, we must affirm the Director’s adjudication unless an error of law has been committed, constitutional rights have been violated or necessary findings of feet are not supported by substantial evidence. Estate of McGovern v. State Employees’ Retirement Board, 512 Pa. 377, 517 A.2d 523 (1986); Nelson v. Department of Public Welfare, 103 Pa. Commonwealth Ct. 21, 519 A.2d 1062 (1986).
+As noted in Northwestern, the Director is presumed to be the authorized agent for the Secretary of the Department for the purpose of considering medical assistance provider appeals. Id. at 217 n. 2, 513 A.2d at 498 n. 2.
+Of course, the Director may, in a given case, accept a hearing officers findings of feet and reject the recommended conclusions of law. Where, as here, however, the Director rejects the hearing officers recommended adjudication in toto, we are left to glean the facts necessary for review from the Directors order.
