@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 85"
+decided: "1934-10-03"
+citations: ["114 Pa. Super. 365"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Cunningham:, Baldrige, Stadtfeld, Parker and James, JJ."]
+parties: ["Lamberton National Bank v. Kineston."]
+source_url: "https://static.case.law/pa-super/114/cases/0365-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 975933
+cites_cases: ["105 Pa. Superior Ct. 102", "111 Pa. Superior Ct. 604", "113 A. 681", "12 Pa. 229", "123 A. 304", "14 Pa. Superior Ct. 248", "159 A. 454", "171 A. 96", "189 Pa. 44", "22 Pa. Superior Ct. 557", "270 Pa. 451", "278 Pa, 300", "36 Pa. Superior Ct. 593", "41 A. 998", "88 Pa. Superior Ct. 346"]
+---
+
+# Lamberton National Bank v. Kineston
+
+## Majority (Trexler, P. J.,)
+
+Opinion by
+Trexler, P. J.,
+The Lamberton National Bank, the plaintiff, entered a judgment against Ellis Kineston on a bond accompanying a mortgage, caused a fi. fa. to be issued and in pursuance thereof the sheriff levied upon the farm stock and personal property found in his possession. His mother, Mrs. M. J. Kineston, gave notice to the sheriff that some of the farm machinery and livestock levied upon were her property. The sheriff entered a rule upon the parties to the judgment and the claimant to show cause why an issue should not be framed to determine the ownership of the goods and chattels claimed by the mother. After some delay a time was fixed for a hearing. The defendant was a farmer and the machinery and livestock in question were used by him most of the time since 1927. He claimed he acquired possession of them from his mother under an agreement that he might use them as long as he desired to farm, and when he quit farming the machinery and property were to be returned to his mother. At the hearing the mother was not present being very old and quite sick. A brother of the defendant testified that the articles were bought by his mother and specified from whom in each instance. A written memorandum unsigned was produced showing that on October 1,1927, a lease of the personal property in question was made to the son by the mother. On behalf of the Lamberton National Bank, the execution creditor, its officers testified that when the defendant, Ellis Kineston, obtained the money from the bank for which judgment was given he told them distinctly that all the personal property on the farm was his. ■ He denied making such statement.
+The court took the view that the possession of the defendant was evidence of ownership, and the claimant having placed these chattels in his keeping she¡ afforded him the means of imposing upon the bank and, therefore, since the bank or she must suffer loss by reason of defendant’s act, she should bear the consequences; that not having asserted her rights and protected her property she was thereafter precluded from asserting them to the injury of the plaintiff. We cannot follow this course of reasoning. If the mother bona fide wished to lease personal property to her son there is no law preventing her from so doing. His possession and the presumption of ownership that may arise does not overcome the effect of the lease if, in fact, it was made in good faith. If this issue were tried before a jury and her witnesses were believed, a finding in her favor would necessarily result. The declarations of the defendant, if unauthorized by her, that he owned the property could not bind her. The claimant’s demand is not so manifestly unfounded that the court should dismiss it. Possession merely affords a presumption of ownership.
+The purpose of the preliminary inquiry in inter-pleader cases provided by the Act of 22 June, 1931, P. L. 883, 12 PS. 2358, 1933 Cumulative Annual Pocket Part, and preceding acts is to protect the sheriff not to settle contending titles; that question arises after the issue is framed. Necker v. Sedgwick, 36 Pa. Superior Ct. 593; Breyer Ice Cream Co. v. Rudley, 111 Pa. Superior Ct. 604, 171 A. 96; Trainer v. Saunders, 270 Pa. 451, 113 A. 681; Book v. Sharpe, 189 Pa. 44, 41 A. 998; Com. v. Burns, 14 Pa. Superior Ct. 248, 257. The court on a preliminary inquiry does not go into the merits, other than to see that the claim'is “not merely colorable, frivolous or collusive, but may be the basis of bona fide suits.” McKinley v. Mutual L. Ins. Co., 278 Pa, 300, 304, 123 A. 304. If the facts are undisputed and the inferences to be deduced therefrom clear and unconflicting, the question of title becomes one of law and is to be passed upon by the court. If the facts are disputed, the parties are entitled to an issue. Commonwealth v. Burns, supra; Gillespie v. Agnew, 22 Pa. Superior Ct. 557, 558; Clarke & Cohen v. Real etc., 105 Pa. Superior Ct. 102, 159 A. 454; and Carpenter & Pierce Co. v. Rothwell, 88 Pa. Superior Ct. 346. If there be a question of fraud that is particularly for the jury. McMahon v. Sloan, 12 Pa. 229. So is the subject of good faith. Book v. Sharpe, supra.
+We are all of the opinion that the matters brought up at the preliminary inquiry required that the rule be made absolute and an issue should have been framed.
+The order of the lower court discharging the rule for an interpleader is reversed and the record remitted so that an issue may be framed.
