@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1114 C.D. 1979"
+decided: "1980-09-17"
+citations: ["54 Pa. Commw. 17"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Mencer, Bogebs and Blatt, sitting as a panel of three."]
+parties: ["In Re: Condemnation by Lower Paxton Township of Land Owned by Marya P. Spory, a/k/a Marya P. Mumper, John Hughs and Charles H. Graff for Right-of-Way and Street Construction. Marya P. Spory, a/k/a Marya P. Mumper, Appellant."]
+source_url: "https://static.case.law/pa-commw/54/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1914221
+cites_cases: ["11 Pa. Commonwealth Ct. 14", "312 A.2d 86", "33 Pa. Commonwealth Ct. 162", "380 A.2d 1322", "39 Pa. Commonwealth Ct. 90", "394 A.2d 1089", "410 A.2d 917", "48 Pa. Commonwealth. Ct. 542"]
+---
+
+# In re Condemnation by Lower Paxton Township of Land Owned by Spory
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+The appellant appeals here from the lower court’s dismissal of her preliminary objections to condemnation proceedings instituted against her property by the appellee, Lower Paxton Township (Township).
+In September of 1974, the Township’s Board of Supervisors (Board) decided after public discussion and receipt of an engineering report, to extend a public thoroughfare known as Colonial Road. In April of 1978, the Township engineers presented the Board with three alternative routes (Routes A, B and C) and recommended that Route B be adopted. Despite this recommendation, the Board selected Route A for the road extension and the Township then instituted condemnation proceedings against the appellant’s property pursuant to Article X of The Second Class Township Code, Act of May 1, 1933, P.L. 103, as amended, 53 P.S. §66001 et seq. and the Eminent Domain Code, Act of June 22, 1964, Special Sess., P.L. 84, as amended, 26 P.S. §1-101 et seq.
+The appellant contends that the Board’s choice of Route A rather than Route B violated the Township’s duty to protect and preserve the environment imposed upon the Commonwealth and its agents by Article I, Section 27 of the Pennsylvania Constitution and was an arbitrary and capricious decision. She maintains that Route B is environmentally preferable because Route A would cause substantially greater harm to the ecosystems of a neighboring stream and nearby woods, and the Board’s decision ignored Route A’s detrimental effect on the environment.
+In eminent domain cases, our review is limited to a determination as to whether or not the lower court decision evidences an abuse of discretion or error of law. Redevelopment Authority of Luzerne County v. Legosh, 39 Pa. Commonwealth Ct. 90, 394 A.2d 1089 (1978). The trial court itself must apply a three-part standard established by this Court in Payne v. Kassab, 11 Pa. Commonwealth Ct. 14, 29-30, 312 A.2d 86, 94 (1973), to test governmental decisions of this type under Article I, Section 27:
+(1) Was there compliance with all applicable statutes and regulations relevant to the protection of the Commonwealth’s public natural resources? (2) Does the record demonstrate a reasonable effort to reduce the environmental incursion to a minimum? [and] (3) Does the environmental harm which will result from the challenged decision or action so clearly outweigh the benefits to be derived therefrom that to proceed further would be an abuse of discretion?
+The appellant first asserts that Route A does not comply with all applicable statutes and regulations in that about one acre of trees would have to be removed in violation of the Township’s own comprehensive plan which encourages the maintenance of open space and wooded areas for recreational purposes. We must agree with the trial judge, however, that all appropriate laws have been satisfied. The Township received the necessary permits from the Pennsylvania Department of Environmental Resources for the relocation of the stream and construction of a culvert over which any extension of Colonial Road must pass. The record discloses no evidence that the Township’s comprehensive plan does any more than express a preference for preservation of wooded terrain.
+The trial court also held that the second element of the test, a reasonable effort to minimize environmental interference, had likewise been demonstrated. This is a factual issue, the determination of which, in the face of conflicting evidence, is for the fact finder and not a reviewing court. Harborcreek Township v. Ring, 48 Pa. Commonwealth. Ct. 542, 410 A.2d 917 (1980). Although the appellant presented evidence in the lower court that Route A would cause more damage to the woodlands than Route B, testimony was also given that a roadway along Route B would also cause detrimental flooding and that some trees would have to be cleared in either event. We, therefore, can find no error with the court’s finding that the Township exercised reasonable efforts to avoid undue impact upon the environment.
+Finally, the court held that the Board did not abuse its discretion or act capriciously or arbitrarily in its choice of Route A rather than Route B. It is axiomatic, however, that a party who seeks to prove that a municipality’s decision to condemn property was an abuse of discretion carries an extremely heavy burden, Pidstawski v. South Whitehall Township, 33 Pa. Commonwealth Ct. 162, 380 A.2d 1322 (1977), and we agree that the appellant has not met that burden. The objective of the Payne test is to ensure that a municipality balances environmental and social concerns before acting, Payne v. Kassab, supra, and, although the appellant argues that the Board abused its discretion by ignoring both the environmental deficiencies of Route A and tbe recommendation of Route B by the Township engineer, the record reveals that before the Board chose Route A it conducted both formal and informal discussions of the road project, visited the site of both routes, and considered both environmental and safety factors. Additionally, the Township engineer testified that the choice between Routes A and B would have been a “toss-up” if not for the proximity of residences along Route A.
+We hold, therefore, that the lower court properly dismissed the appellant’s objections and that the Board neither violated Article I, Section 27 of the Pennsylvania Constitution nor acted capriciously and arbitrarily in the designation of Route A for the proposed roadway.
+Order
+And Now, this 17th day of September, 1980, the order of the Court of Common Pleas of Dauphin County in the above-captioned case which dismissed the petitioner’s preliminary objection is hereby affirmed.
+The appellant’s property would not have been subject to condemnation if the Board had adopted Route B as the intended right of way.
+Article I, Section 27 of the Pennsylvania Constitution adopted May 18,1971 provides:
+The people have a right to clean air, pure water, and to the preservation of the natural, scenic, historic and esthetic values of the environment. Pennsylvania’s Public natural resources are the common property of all the people, including generations yet to come. As trustee of these resources, the Commonwealth shall conserve and maintain them for the benefit of all the people.
+All parties concerned agreed that the problems posed by the physical terrain of Koute C precluded it from serious consideration as the site for the proposed road.
