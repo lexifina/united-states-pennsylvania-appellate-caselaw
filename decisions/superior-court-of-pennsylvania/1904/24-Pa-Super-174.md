@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 37"
+decided: "1904-01-21"
+citations: ["24 Pa. Super. 174"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beavee, Oelady, Smith, Poetee, Moeeison and Hendeeson, JJ."]
+parties: ["Wells, Appellant, v. Becker."]
+source_url: "https://static.case.law/pa-super/24/cases/0174-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 849806
+cites_cases: ["108 Pa. 595", "114 Pa. 381", "116 Pa. 351", "13 Pa. Superior Ct. 70", "15 Pa. Superior Ct. 565", "15 W. N C.. 187", "15 W. N. C. 187", "170 Pa. 437", "172 Pa. 421", "18 Pa. 60", "32 Pa. 69", "35 Pa. 364", "4 W. & S. 255", "42 Pa. 97", "68 Pa. 57", "77 Pa. 103", "83 Pa. 126", "85 Pa. 463"]
+---
+
+# Wells v. Becker
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+The only effect of the statute of 4 and 5 Anne,- chapter 16, section 27, so far as it relates to joint tenants and tenants in common was to give a right of action of account to one joint tenant or tenant in common against- his cotenant “ as bailiff for receiving more than comes to his just share or proportion:” Filbert v. Huff, 42 Pa. 97; Kline v. Jacobs, 68 Pa. 57; Norris v. Gould, 15 W. N. C. 187. This just share or proportion has been held to refer to rents or profits received by a cotenant, and not to personal use or enjoyment of joint property. It was never held in this state prior to the act of 1895, P. L. 237, that an action of assumpsit could be maintained for use and occupation by one joint tenant or tenant in common against his co-tenant either at common law or by statute. Each tenant had an equal right of occupancy without liability to account to his cotenant. An express agreement to pay rent must be shown to create such liability. The mere fact of occupancy without evidence of ouster or denial of title to the tenant out of possession did not create the relation of landlord and tenant, nor an implied liability for use and accupation: Kline v. Jacobs, supra; Enterprise Oil & Gas Co. v. National Transit Co., 172 Pa. 421; Solomon v. Rogers, 13 Pa. Superior Ct. 70.
+It is assumed by the learned counsel for the appellant that there is a conflict between Winton Coal Co. v. Pancoast Coal Co., 170 Pa. 437, and Enterprise Oil Co. v. Transit Co., supra. The former case, however, was not an action for the use and occupation of land, but for the proceeds of coal mined and sold by the cotenant, the plaintiff’s title to which had been legally divested, and as to which he could have no action for the recovery of the coal itself. In such a case, as was said by Judge Sterrett, “ there would seem to be no good reason why .... he may not be sued in assumpsit for his cotenant’s share thereof.”
+It is claimed, however, that the plaintiff is entitled to maintain this action under the act of 1895, which provides “ that in all cases in which any real estate is now, or shall be hereafter held by two or more persons as tenants in common,^and one or more of said tenants shall have been, or shall hereafter be, in possession of said real estate, it shall be lawful for any one or more of said tenants in common, not in possession, to sue for and recover from such tenants in possession1 his or their proportionate part of the rental value of said real estate for the time such real estate shall have been in possession as aforesaid.”
+After a careful consideration of the statute, we are of the opinion that it does not apply to tenants under a lease for years, but was intended to affect such owners of real estate as were joint tenants or tenants in common at common law.
+Real estate is “ landed property, including all estates and interests in lands which are held for life, or for some greater estate, and whether such lands be of freehold or copyhold tenure: ” Wharton’s Law Diet, title “ Real Estate.”
+Real property is “ something which may be held by tenure, or will pass to the heir of the possessor at his death, instead of his executor, including lands; tenements, and hereditaments, whether the latter be corporeal or incorporeal: ” 2 Bouvier’s Law Diet, title “ Real Property; ” 2 Blackstone’s Com. 17-19.
+There is nothing in the terms of the statute under consideration to indicate an intention to extend its operation to a larger class of things than that technically and commonly understood by the term real estate. On the contrary, the provision of the act that “ in case of partition of such real estate held in common as aforesaid, the parties in possession shall have deducted from their distributive shares of said real estate, the rental value thereof to which their cotenant or tenants are entitled,” would indicate that the legislature had in view that class of property generally described as land.
+The lease on which plaintiff’s action is based is a chattel, — a chattel real as distinguishable from movable property, but nevertheless a chattel. It is not subject to the lien of a judgment. It might be levied upon and sold under fieri facias: Titusville Novelty Iron Works’ Appeal, 77 Pa. 103; Kile v. Giebner, 114 Pa. 381; Dalzell v. Lynch, 4 W. & S. 255 ; Williams v. Downing, 18 Pa. 60; Lefever v. Armstrong, 15 Pa. Superior Ct. 565. No deed from the sheriff is necessary to pass the title to his vendee. The return to the writ is evidence of title. The act providing a method for levying upon lands in execution does not apply to leaseholds. It was held in Sterling v. Commonwealth, 2 Grant’s Cases, 162, that a lease for years may be seized on a warrant against the husband for deserting and refusing to maintain his wife.
+No question of ouster is raised by the facts in the case. As between joint tenants there is no constructive-ouster; positive hostile acts must be shown. The possession of a cotenant is presumed to be pursuant to his title and consistent with the rights of his cotenants: Bennet v. Bullock, 35 Pa. 364 ; Forward v. Deetz, 32 Pa. 69; Norris v. Gould, supra. It does not appear that the plaintiff was disseized by the defendants, or that they have received rents from other persons,
+The act of 1895 not applying to the plaintiff’s, title, and no implied liability arising from the fact of óccupancy by the der fendants, the learned judge of the court below was not in error in entering judgment for the defendants on the point reserved, (fbe judgment is therefore affirmed.
