@@ -1,0 +1,42 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2943 C.D. 1984"
+decided: "1986-01-15"
+citations: ["94 Pa. Commw. 210"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Rogers and Palladino, laud Senior Judge Barbieri, sitting as a panel of three."]
+parties: ["Mark Hankin, Appellant v. Upper Moreland Township and Zoning Hearing Board of Upper Moreland Township, Appellees."]
+source_url: "https://static.case.law/pa-commw/94/cases/0210-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1343393
+cites_cases: ["115 Montg. 155", "20 Pa. Commonwealth Ct. 410", "342 A.2d 158", "415 A.2d 954", "432 A.2d 288", "458 A.2d 1043", "52 Pa. Commonwealth Ct. 249", "60 Pa. Commonwealth Ct. 561", "60 Pa. D. & C. 2d 653", "73 Pa. Commonwealth Ct. 531"]
+---
+
+# Hankin v. Upper Moreland Township
+
+## Majority (Senior Judge Barbieri,)
+
+Opinion by
+Senior Judge Barbieri,
+This is an ¡appeal ¡by Mark Hankin who seeks review of ,an order of the Court ¡of Common Pleas of Montgomery County which had 'affirmed a decision of the Upper Moreland Township Zoning Hearing Board (Board). That Board decision had determined .that a gymnastics iand dance .school is not a permitted use in an I-Limited Industrial District. We affirm.
+The following facts are pertinent. Hankin owns thirty-two acres of land in Upper Moreland Township, Montgomery ¡County, upon which is located a ¡self-contained business park. The property is zoned I-Limited Industrial under the Upper Moreland Township Zoning Ordinance (Ordinance). Hankin had leased a portion ¡of one of the buildings on that prop-arty to Richoehet’s Gymmasities Club, Inc. (Richochet’s) which operates a private .dlanioe and gymnastics slchool. On August 30, 1983, ¡the .Township Zoning Officer informed Hamkin that the school could not operate on the property ,simce it wias not a permitted use in a Limited Industrial 'District. He appealed the Zoning Officer’s decision to the iB¡o>ard contending that 'the school came under the “office use” provision of Section 14.01 of the Ordinance. The Board determined that while ia dance and ¡gymnastics ¡school was a permitted use in an O-Office or C-Commercial District, it was not a permitted use in am I-Limited Industrial District. HanMn .then appealed that decision to ¡common pleas court which ¡affirmed the Board. Hankin v. Upper Moreland Township, 115 Montg. 155 (Pa. C.P. 1984). This appeal followed.
+The sole issue presented for our determination in this ¡appeal is whether the Ordinance’s listing of permitted uses in an O-Office District contained in Section 13.02 of the Ordinance constitutes a definition of “office” which, applies .throughout the Ordinance. As recognized by both parties, 'this is solely an issue of statutory construction.
+Pursuant to Section 1921(b) of the Statutory Construction Act of 1972, 1 Pa. ,0. iS. §192.1 (b), we must first [ascertain whether the words of ,the Ordinance are cliear and free from all ambiguity. If so, we may not disregard the letter of the Ordinance under the pretext of pursuing its spirit. Pennsylvania Labor Relations Board v. Teamsters Union Local No. 77, 20 Pa. Commonwealth Ct. 410, 342 A.2d 158 (1975). The rules of statutory construction contained in the Statutory Construction Act of 1972, 1 Pa. C. S. §§1501-1939, are applicable to ordinances enacted by municipalities as well as to acts of the General Assembly. Diehl v. City of McKeesport, 60 Pa. Commonwealth Ct. 561, 432 A.2d 288 (1981). Here, Section 14.01(6) specifies “offices and office record storage” as one of the permitted uses in ,a Limited Industrial District. The Ordinance does not define further the term “office” in Article 14 dealing with Limited Industrial Districts. The Ordinance does contain a general definition provision which is encompassed in Section ,1.03. That section provides that unless otherwise expressly stated, the terms listed in Section 1.03 have the meanings set forth in that section. The term “office” is not speeifioally defined ¡by Section 1.03. Hankin, however, argues that the Ordinance does indeed .provide a specific definition of “.office” .and calls our attention to Section 13.02. He contends that the listing of permitted uses in an O-Office District constitutes a definition of “office” .which is applicable throughout the Ordinance. We disagree. Section 13.02 purports to define nothing. It merely lists those uses which are permitted by the Ordinance in an Office District. Its applicability is limited to Article 13 of the Ordinance pertaining' to Office Districts. The inclusion of a particular land use in Section 13.02, ¡an “office” does not provide a definition for purposes of Article 14 .of the Ordinance dealing with Limited Industrial Districts. We agree with the Common pleas court that what is permitted as an “office” is not patently obvious from the language of Section 14.01 or in the general definition provisions of Section 1.03. Therefore, we must turn to the rules ¡of statutory construction to discern what facilities tare permitted under the term “office” in ¡a Limited Industrial District.
+Where the, .statute or ordinance does not specifically define the term .sought to be construed, .and the words .are ones in common usage, they are to be given their common usage meaning. Section 1903(a) of the Statutory Construction Act of 1972, 1 Pa. C. S. §1903 (a); Mt. Laurel Racing Ass’n v. Zoning Hearing Board, Municipality of Monroeville, 73 Pa. Commonwealth Ct. 531, 458 A.2d 1043 (1983). The common usage meaning and the dictionary definition of “office ’ ’ do not include .a dance or .gymnastics school. The dictionary definition of “officio,” as it pertains here, is .as follows:
+' ... 5. a place where a particular kind of busi- . ness is transacted o,r a service is .supplied; as a: a place in which the functions (as consulting, record keeping, clerical work) of a public officer are performed b: the directing headquarters of ,an enterprise tor organization c: the place in which ,a professional man (as a physician or
+•lawyer) conducts his professional business. . . . Webster’s New Collegiate Dictionary 790 (1981). That definition does not encompass a dance and gymnastics school such as Richochet’s. Accord West gate Professional Center, Inc. v. Hearing Board of Hanover Township, 60 Pa. D. & C. 2d 653, 656 (C.P. Northampton 1972) (health spa not included in the common usage meaning of .the term “office ”). Accordingly, the Board did not err ¡or abuse its discretion when it held that a dance and gymnastics school is not a permitted use in an I-Limited Industrial District.
+Having found no errors of law nor abuses of discretion on the part of the Board, ,we .shall affirm the •order ¡of the common pleas court.
+Order
+Now, January 15, 1986, the Order of the Court of Common Pleas of Montgomery County at Docket No. 84-00266, dated ¡September 18, 1984, is hereby affirmed.
+Section 14.01 of the Ordinance delineates the uses permitted in an I-Limited Industrial District. That section reads, in pertinent part, as follows:
+Bee. 14.01 Uses
+The specific uses permitted in this district shall be the erection, construction, alteration or use of buildings or premises for .the following uses and no others, to he conducted wholly within a completely enclosed building or in a court enclosed on all sides by buildings, except for on-site parking and loading incidental thereto, and then approved by the Zoning Hearing Botad, public utility facilities not normally enclosed with a building:
+6. Offices and office record storage.
+Section 13.02 of the Ordinance delineates the uses permitted in an O-Offiee District. That section reads, in pertinent part, as follows:
+Sec. 13.0% Uses
+The following uses shall be permitted in the O-Office District:
+1. Office Buildings — Professional, executive, administrative and governmental; such, uses shall include but not limited to the following:
+(e) Private, vocational, business and professional schools except those of an industrial character. (Emphasis added.)
+Since the common pleas court did not take any evidence, our scope of review, like that of the common pleas court, is limited to determining whether the Board abused its discretion or committed an error of law. Kuhl v. Zoning Hearing Board of Green Township, 52 Pa. Commonwealth Ct. 249, 415 A.2d 954 (1980).
