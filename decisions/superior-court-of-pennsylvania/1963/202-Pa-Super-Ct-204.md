@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 230"
+decided: "1963-12-12"
+citations: ["202 Pa. Super. Ct. 204"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J;, Ervin, Wright, Woodside, Watkins, Montgomery, and Flood, JJ."]
+parties: ["Commonwealth v. Remo, Appellant."]
+source_url: "https://static.case.law/pa-super/202/cases/0204-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 766928
+cites_cases: ["119 A. 2d 89", "127 A. 2d 108", "135 Pa. Superior Ct. 594", "139 A. 374", "166 A. 2d 640", "176 Pa. 621", "186 A. 2d 854", "194 A. 2d 143", "200 Pa. Superior Ct. 122", "290 Pa. 573", "35 A. 206", "383 Pa. 434", "387 Pa. 14", "402 Pa. 116", "41 Pa. Superior Ct. 326", "412 Pa. 109", "7 A. 2d 102"]
+---
+
+# Commonwealth v. Remo
+
+## Majority (Montgomery, J.,)
+
+Opinion by
+Montgomery, J.,
+Appellant, Walter J. Remo, was found guilty by a jury on four charges of burglary and one charge of attempted burglary. This appeal is from a judgment of sentence imposed on those convictions and raises but two questions.
+Appellant first contends that it was reversible error for the trial judge to refuse his motion for the withdrawal of a juror because of a question asked of him on cross-examination by the Assistant District Attorney, but unanswered. The question was: “Q. And in February you went to North Carolina until the end of March and worked for Michael Dombrowsky? A. That’s right. Q. Is that the same Michael Dombrowsky who was recently convicted for receiving stolen goods?” The objection to this question made by appellant’s counsel was sustained, but his motion for the withdrawal of a juror was refused. However, the jury was instructed to disregard the question.
+The grant of a new trial is largely a matter within ihe discretion of the lower court and this Court will not reverse the decision of that court unless there is a clear abuse of its discretion. McArthur v. Balas, 402 Pa. 116, 166 A. 2d 640; Davis v. Rider, 387 Pa. 14, 127 A. 2d 108. One of the governing criteria for the exercise of such discretion was expressed by Mr. Justice Kephart in Commonwealth v. Meyers, 290 Pa. 573, 581, 139 A. 374, 377: “. . . the language of the prosecuting officer which will justify a reversal must be such that its unavoidable effect would be to prejudice the jury, forming in their minds a fixed bias and hostility toward the defendant, so that they could not fairly weigh in his behalf such circumstances of doubt, extenuation or degree of guilt that may be present in the case, and thus make them unable to render a true verdict . . . .” Great latitude is allowed in the cross-examination of a defendant who takes the stand in his own behalf, and as a general rule in establishing reversible error it is not sufficient to show merely that an improper question has been put to a witness. Commonwealth v. Rouchie, 135 Pa. Superior Ct. 594, 7 A. 2d 102; Commonwealth v. Williams, 41 Pa. Superior Ct. 326.
+Although it has been held that where a question is completely unanswered it is harmless error, Frank Musser, by Mis Father and Newt Friend, Isaac Musser, v. The Lancaster City Street Railway Company, 176 Pa. 621, 35 A. 206, we would not rule out the possibility of a question being unavoidably harmful even though unanswered. However, we need not rest on that reasoning in this case since we do not consider the question under consideration such as to have had the unavoidable effect of causing prejudice or corrupting the minds of the jury against the appellant.
+The question, whether a trial court has abused its discretion in refusing to withdraw a juror because of improper remarks or questions of counsel, must be determined by the circumstances and the precautions taken by the court and counsel to prevent such remarks from having a prejudicial effect. McCune v. Leamer, 383 Pa. 434, 119 A. 2d 89. Judge McCreary repeated his instruction to disregard the question and stated in his opinion that under the present circumstances, “The trial judge was conscious of the fact that the jury could not possibly have been prejudiced by the question . . . .” One of those circumstances was, that prior to this question evidence had been given to establish appellant’s association with accomplices in the perpetration of some of the crimes for which he was being tried, and that one of those accomplices had entered a plea of guilty. Proof of appellant’s association with an established criminal rendered harmless any error that might have occurred by the question under consideration. We need not rule on the reason or the propriety of the question.
+Appellant’s second argument in support of a new trial is based on the recantation of vital testimony given by David J. Thomson, a Commonwealth witness, who had previously pleaded guilty to the charges. in which he had implicated appellant.
+In Commonwealth v. Scull, 200 Pa. Superior Ct. 122, 130, 186 A. 2d 854, 858, this Court, speaking through its President Judge Rhodes, stated the rule as to recanted testimony thusly: “Recanting testimony is exceedingly unreliable, and it is the duty of the court to deny a new trial where it is not satisfied that such testimony is true, and the appellate court will not interfere with an order refusing a new trial on this ground in the absence of a plain abuse of discretion.” Also see Commonwealth ex rel. Wilson v. Rundle, 412 Pa. 109, 194 A. 2d 143.
+There was no abuse of discretion present in this case. We are in accord with the lower court that subsequent statements of the witness Thomson did not amount to a recantation of his original testimony and that his conduct throughout the hearing at which his deposition was taken to support appellant’s motion clearly demonstrated that he was unreliable. In contrast to his original testimony, described by the trial judge as “. . . [it] rings true and is corroborated in all material respects by the testimony of other witnesses”, there are his refusals to testify in the prosecution of Matthews, another alleged accomplice, and, at the time his deposition was taken to answer definitely the question of whether the record of his prior testimony in the appellant’s case was “the truth or not”.
+Judgment affirmed.
