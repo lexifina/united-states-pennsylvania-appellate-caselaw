@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 78"
+decided: "1945-09-26"
+citations: ["158 Pa. Super. 112"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Baldrige, P. J., Rhodes, Hirt, Reno, Dithrich, Ross and Arnold, JJ."]
+parties: ["Commonwealth v. Dress, Sr., Appellant."]
+source_url: "https://static.case.law/pa-super/158/cases/0112-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1063347
+cites_cases: ["109 A. 234", "130 Pa. Superior Ct. 191", "175 A. 541", "196 A. 866", "265 Pa. 476", "317 Pa. 7", "32 Pa. Superior Ct. 279", "57 Pa. 168"]
+---
+
+# Commonwealth v. Dress
+
+## Majority (Ross, J.,)
+
+Opinion by
+Ross, J.,
+The appellant was convicted by a jury of committing sodomy with his eight-year-old adopted son. After the appellant’s motion for a new trial ivas refused, he was sentenced and this appeal followed.
+The only witness against the appellant was the adopted son. When he was on the witness stand, he was examined for approximately 45 minutes by the assistant district attorney and the trial judge. During this time he constantly sobbed and cried and failed or refused to incriminate his father. During a five-minute recess the district attorney, who had not been participating in the trial of the case but who had talked with the child on previous occasions, requested permission of the court to talk privately with the young witness. Over objection by counsel for appellant, permission was granted. The district attorney and the boy withdrew into an adjoining room for a period of approximately three minutes. The trial was then resumed and the district attorney conducted the further direct examination of the child witness, who, with little or no sobbing, incriminated his father and his testimony was not shaken on cross examination. Later in the trial of the case the appellant moved that his wife, the foster -mother of the child witness, be permitted to talk to the witness in the presence of the district attorney, the motion stating, inter alia, that the mother believed that the boy was “lying” and that if she could talk with him in the presence of the district attorney he would change his story and tell the truth. This motion was refused after objection by the Commonwealth.
+The appellant assigns as error the action of the trial court (1) in permitting the child witness to confer privately with the district attorney in the absence of the appellant or his counsel, and (2) in sustaining the Commonwealth’s objection to the appellant’s motion that the foster mother be allowed to speak with the child.
+In its opinion dismissing appellant’s motion for a new trial the court below stated: “We consider it to be the duty of the trial judge not only to see that the trial is conducted in an orderly and legal manner and with entire impartiality, but he is also charged by law and conscience with the fundamental duty of seeing that the truth is established and justice done. A trial judge must be allowed considerable latitude in conducting a trial, but his discretion must not be abused, and if abused, is subject to judicial review.” With this statement, we agree. A trial judge is necessarily vested with broad powers to control the course of the trial limited’ only by statute or constitutional requirements. Thompson v. American Steel & Wire Company, 317 Pa. 7, 175 A. 541. The examination of witnesses, like other matters connected with the conduct of the trial, is within'the sound discretion of the trial judge. Koenig v. Bauer, 57 Pa. 168; Hoffman v. Berwind-White Coal Mining Company, 265 Pa. 476, 109 A. 234. Unless this discretion is abused the action of the trial judge is not the basis for reversal. Frech v. Lewis, 32 Pa. Superior Ct. 279.
+Further in its opinion the court below stated: “Surely, -in the exercise of a sound discretion and good conscience, the court had the right to permit the district attorney, who had talked with the boy on previous occasions and for whom he had friendly feelings, to speak privately to the young witness during a customary recess and when he was still under direct examination. . . . Nor do we think the trial judge erred in refusing to permit the mother of the boy to talk to him in the court room, either alone or in the presence of the prosecuting attorney during the trial. The mother had left her husband and adopted child on May 12, 1944, and had not seen him during his three-month stay in the House of Detention. She left because the child made her nervous. No good purpose would have been served to permit her to question the witness after he had testified under oath.”
+A reading of the record disclos.es nothing which would warrant a reversal by this Court on the ground of abuse of discretion on the part of the trial judge.
+As his third and last assignment of error the appellant contends that the Commonwealth failed to meet the burden of proof of appellant’s guilt beyond a reasonable doubt. The Commonwealth’s case was based upon testimony of the adopted son, who testified as to the criminal acts committed in secret by his father, which actions were denied by the defendant. Thus the testimony of the Commonwealth’s witness and of the appellant was conflicting. One was telling the truth and it was the prerogative of the jury to pass upon their credibility and determine which was worthy of belief. The .jury apparently believed the boy and his evidence was sufficient to establish defendant’s guilt if believed by. the jury. Whether such testimony was sufficient to create a. reasonable doubt of guilt was for the jury to decide. Com monwealth v. Gabriel, 130 Pa. Superior Ct. 191, 196 A. 866.
+Judgment is affirmed, and the record is remitted to the court below, and it is ordered that the defendant appear in the court below at such time as he may there be called, and that he be by that court committed until he has complied with the sentence, or any part thereof which had not been performed at the time the appeal in this case was made a supersedeas.
