@@ -1,0 +1,45 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 55"
+decided: "1971-09-21"
+citations: ["219 Pa. Super. 530"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. J., Watkins, Montgomery, Jacobs, Hoffman, Spaulding and Cercone, JJ."]
+parties: ["Elkay Manufacturing Company, Appellant, v. Chasco Supply Company, Inc. et al."]
+source_url: "https://static.case.law/pa-super/219/cases/0530-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 796864
+cites_cases: ["212 Pa. Superior Ct. 58", "239 A. 2d 841", "315 F. 2d 235", "32 F.R.D. 379", "36 Pa. D. & C. 2d 332", "375 U.S. 824", "98 Pa. Superior Ct. 530"]
+---
+
+# Elkay Manufacturing Co. v. Chasco Supply Co.
+
+## Majority (Watkins, J.,)
+
+Opinion by
+Watkins, J.,
+This is an appeal from the entry of judgment on the pleadings by the Court of Common Pleas, Civil Division, of Allegheny County, in favor of Sol Chase, an individual and Maxine Chase, an individual, the appellees, and against Elkay Manufacturing Company, a corporation, the appellant. Judgment was entered in favor of the appellee and against the corporate defendant.
+The facts in this case are as follows. On December 23, 1968, appellees executed a document entitled “Personal Guaranty” which they signed “Sol Chase, Pres. & Treas.,” and “Maxine Chase, Vice Pres. & Sec’y.” The instrument reads as follows:
+“Personal Guaranty
+“Please sell and deliver to Chasco Supply Co., Inc., 7702 Edgewood Avenue of Pittsburgh, Pennsylvania (referred to as ‘Purchaser’) on your usual credit terms: such goods, wares, and merchandise as it may from time to time select, and in consideration thereof we, the undersigned guarantors, hereby guarantee for payment when due, whether at maturity or upon demand or otherwise, any and all indebtedness of Purchaser to Elkay Manufacturing Company including but not limited to the purchase price of all goods, wares, and merchandise so sold and delivered whether evidenced by open account, acceptance, note, or otherwise.
+“Each of the undersigned hereby waives any notice including but not limited to notice of acceptance hereof, notice of extensions of credit made hereunder, notice of amounts of sales, dates of shipment or delivery, and notice of default of payment. The validity of this guaranty shall not be affected by any ..compromise or adjustment of accounts guaranteed hereunder which you, in your sole discretion, might make, or by the granting of any extension or other indulgence, or by bankruptcy, dissolution, reorganization, or other change in corporate structure or corporate officers of Purchaser.
+“This guaranty is unconditional and absolute, and the undersigned guarantors will pay to you, upon demand, amounts due and unpaid by the Purchaser, without the necessity of your utilizing or exhausting legal remedies which you may have against Purchaser.
+“This is a continuing guaranty applying to all sales made by you to Purchaser from this date and shall not be revoked by the death of the undersigned guarantors or any one of them but from this date shall remain in full force and affect until we or our executors or administrators shall have given notice in writing to make no further advances on the security of this guaranty, and until such notice shall have been received by you from us or from our executors or administrators. A registry return receipt for such letter shall be conclusive evidence of the receipt of notice of revocation.
+Sol Chase, Pres.'
+Sol Chase, Pres. & Treas.
+Maxine Chase, Yice-Pres. & Sec’y.
+Maxine Chase, Yice-Pres. & Sec’y.”
+In the writing, Chasco Supply Company, Inc., was identified as “Purchaser”. Chasco has since gone into receivership and Elkay Manufacturing Company sued Sol Chase and Maxine Chase, individually, as signors of the instrument. The trial court entered summary judgment for the defendant-appellees holding that it was clear from the pleadings that the appellees signed in their corporate capacities only and not as individuals.
+Both sides cite Flexlume Gorp. v. Norris, 98 Pa. Superior Ct. 530 (1930), as the controlling law. This case involved an instrument much like the one in the instant case in which the makers signed “Sec. & Treas.”. It read as follows:
+“Enter our order for two signs (describing the size of letters, method of construction, etc.) at Osce-Y-Ola Co., Steeplechase Pier, Atlantic City, N. J.”
+“Signed (printed) John Norris (written) by (printed) Sec. & Treas. Osee y ola (written).”
+This Court, in that case, held that this alone was not sufficient to establish that the maker signed as a corporate agent rather than as an individual.
+The appellees attempt to distinguish Flexlume, supra, in that “Chasco” is named in the body of the instrument as “Purchaser”. While this is true, the name of the corporation also appeared in the body of the instrument in Flexlume as the place to which delivery was addressed. Further, the signature in Flexlume also contained the name of the corporation following the title which is not true in the instant ease. This Court held in Flexlume that even the titles and the corporate name were insufficient, without more, to raise the presumption that the signature was for a corporate principal and reversed the judgment below based on corporate liability alone and entered judgment against the individual.
+A question of fact as to whether or not the signatures of the appellees were placed on the instrument as agents for the corporation or in their individual capacities or both, is raised in this case. And despite the patent ambiguity raised by the title of the instrument and its body when compared to the alleged corporate signatures, it may well be that a rebuttable presumption arises from the corporate titles in favor of the appellees. But even assuming this to be true, and assuming too, that this places the burden of proof on the appellant, an evidentiary hearing is still required to determine the question of fact.
+In Schacter v. Albert, 212 Pa. Superior Ct. 58, 239 A. 2d 841 (1968), at page 62, this Court stated: “In passing upon a motion for summary judgment ‘it is no part of the court’s function to decide issues of fact but solely to determine whether there is an issue of fact to be tried. All doubts as to the existence of a genuine issue as to a material fact must be resolved against the party moving for summary judgment.’ (In the instant case, appellee.) Admiral Corporation v. Cerullo Electric Supply Co., 32 F.R.D. 379, 380 (M.D. Pa. 1961). ‘. . . a party should not be deprived of an adequate opportunity to fully develop (sic) his case by witnesses and a trial, when the issues involved make such procedure the appropriate one. ... It is often the case that although the basic facts are not in dispute, the parties in good faith may nevertheless disagree about the inferences to be drawn from these facts, what the intention of the parties was as shown by the facts.. . . Under such circumstances the case is not one to be decided by the Trial Judge on a motion for summary judgment.’ S. J. Groves & Sons Company v. Ohio Turnpike Commission, 315 F. 2d 235, 237, 238 (C.A. 6th Cir.), cert. denied, 375 U.S. 824 (1963).”
+Section 323(2) of the Restatement 2d, Agency, at page 72 provides as follows: “(2) If the fact of agency appears in an integrated contract, not sealed or negotiable, and there is no unambiguous expression of an intention either to make the agent a party thereto or not to make him a party thereto, extrinsic evidence can be introduced to show the intention of the parties.”
+Here the appellees executed an instrument entitled “Personal Guaranty” whereby the signators undertook, as contended by the appellant, to guarantee payment of any and all indebtedness of Chasco Supply Company, Inc., the customer. The court below held that because the titles followed the personal signatures of the appellees that, without more, the presumption arose that this instrument was signed in their representative capacities, and entered judgment for the appellees on the pleadings.
+The name of the principal does not appear anywhere upon the instrument unless, of course, it is the Chasco Supply Company, Inc., the customer. It is illogical and unlikely to have the customer act as Ms own guarantor a,nd it is impossible to see what value such an instrument would be to the appellant. In Anchor Hocking Glass Corp. v. Edelman, 36 Pa. D. & C. 2d 332 (1965), the court said in a similar situation at page 334: “The weakness of this argument is that the name of his corporate principal does not appear anywhere upon the instrument, unless it be the Hires Bottling Co. of Baltimore, Inc., the customer named in the instrument. This may be so but seems unlikely. It is difficult to imagine any advantage Anchor Hocking may derive by having the customer as guarantor, or surety, of the customer’s obligation.”
+Judgment entered in favor of the individual defendants, Sol Chase and Maxine Chase, is reversed with a procedendo.
