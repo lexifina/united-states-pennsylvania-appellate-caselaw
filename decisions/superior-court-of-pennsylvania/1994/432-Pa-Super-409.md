@@ -1,0 +1,36 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "02241"
+decided: "1994-03-15"
+citations: ["432 Pa. Super. 409", "638 A.2d 1004"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before McEWEN, OLSZEWSKI and HOFFMAN, JJ."]
+parties: ["Joseph L. SZABO and Stacy Szabo v. BRYN MAWR HOSPITAL, David J. Adams, M.D., and Robert J. Lachman, M.D., Appeal of Joseph SZABO."]
+source_url: "https://static.case.law/pa-super/432/cases/0409-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 939996
+cites_cases: ["173 A.2d 54", "255 Pa.Super. 381", "257 Pa.Super. 348", "310 Pa.Super. 425", "329 A.2d 497", "361 Pa. 355", "371 Pa.Super. 443", "404 Pa. 574", "458 Pa 246", "522 Pa. 584", "559 A.2d 527", "65 A.2d 243"]
+---
+
+# Szabo v. Bryn Mawr Hospital
+
+## Majority (HOFFMAN, Judge.)
+
+HOFFMAN, Judge.
+This appeal is from the April 25, 1993 order granting appellee, David M. Adams, M.D., summary judgment. Appellants, Joseph and Stacy Szabo, raise one issue for our review:
+Whether genuine issues of material fact exist, precluding Summary Judgment, as to the liability of an operating surgeon, pursuant to the “Captain of the Ship Doctrine” and agency principles, where the surgeon was present at the surgical procedure along with the anesthesiologist, and the plaintiff/patient was injured as a result of negligence during the anesthesia procedure?
+Appellants’ Brief at 3. For the reasons that follow, we reverse.
+On April 29, 1986, appellant Joseph Szabo (hereinafter “Mr. Szabo”), was admitted to Bryn Mawr Hospital for a left knee arthroscopy. On that day, Mr. Szabo was evaluated by a nurse and given pre-operative instructions which included an instruction not to eat or drink anything by mouth after midnight prior to surgery.
+On April 30, 1986, the morning of surgery, appellee, Dr. Adams (hereinafter “Dr. Adams”), took the history and performed a physical examination of Mr. Szabo. In addition, on that morning Mr. Szabo received a pre-anesthesia evaluation by Dr. Lachman, the anesthesiologist, also a defendant in this action. Prior to this evaluation, Dr. Lachman was advised that Mr. Szabo had ingested 4 ounces of milk at 5:30 a.m. Deposition of Robert J. Lachman, M.D. at 8. After conducting his evaluation, Dr. Lachman made the decision to proceed with surgery and chose the type of anesthesia to be used.
+Anesthesia began at approximately 11:40 a.m. Shortly thereafter, Mr. Szabo began to retch and vomit solid food particles causing an immediate intubation and suctioning of the pharynx and trachea. Mr. Szabo was immediately transferred to the intensive care unit for aspiration pneumonitis. He was treated and discharged several days later.
+On January 20, 1988, appellants filed their complaint alleging that Mr. Szabo received improper anesthesia care. On March 17, 1993, Dr. Adams filed his motion for summary judgment. On March 22,1993, the court, inadvertently, granted summary judgment before appellants had a chance to respond. On that same day, the court’s order was vacated in order to afford appellants an opportunity to respond. On March 26, 1993, appellants filed their responses.
+On April 23, 1993, the Honorable Thomas J. Rutter, Judge Pro Tern, granted Dr. Adams’ motion for summary judgment. On April 25, 1993, that order was ratified by the Honorable Sandra Mazer Moss. This timely appeal followed. The Rule governing motions for summary judgment provides in pertinent part that:
+The judgment sought shall be rendered if the pleadings, depositions, answers to interrogatories and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law.
+Pa.R.C.P. 1035. Summary judgment may only be granted in cases that are clear and free from doubt. Weiss v. Keystone Mack Sales, Inc., 310 Pa.Super. 425, 430; 456 A.2d 1009, 1011 (1983). In addition, the record must be examined in the light most favorable to the non-moving party, accepting as true all well-pleaded facts in its pleadings and giving that party the benefit of all reasonable inferences drawn therefrom. Hower v. Whitmark Assoc., 371 Pa.Super. 443, 445; 538 A.2d 524, 525 (1988), appeal denied, 522 Pa. 584, 559 A.2d 527 (1989).
+Appellant argues that where the operating physieian is present at a surgical procedure and his patient is injured as a result of negligence, during the anesthesia procedure, a factual issue is presented regarding the surgeon’s liability, pursuant to the “Captain of the Ship Doctrine.” We agree.
+Under the “Captain of the Ship” Doctrine a surgeon is liable for all negligence which causes harm to his patient in the operating room in which the surgeon is the person of the highest authority. McConnell v. Williams, 361 Pa. 355, 65 A.2d 243 (1949) (operating surgeon liable for resident’s negligent insertion of silver nitrate into eyes of a newborn following a cesarean section delivery); Schneider v. Albert Einstein Medical Center, 257 Pa.Super. 348, 390 A.2d 1271 (1978) (operating surgeon liable for negligence by the anesthesiologist).
+“The ‘Captain of the Ship’ Doctrine has agency considerations at its base.” Grubb v. Albert Einstein Medical Center, 255 Pa.Super. 381, 395, 387 A.2d 480, 487 (1978). The essential question when determining whether an agency relationship exists is “whether one is subject to the control of another not only to the work to be done but also the manner of performing it.” Grubb at 395, 387 A.2d at 487. In addition, it is well-settled that doctors may be simultaneously the agent of a hospital and another physician even where employment between the doctors themselves is not joint. Grubb at 395, 387 A.2d at 487; See also, Rockwell v. Stone, 404 Pa. 574, 173 A.2d 54 (1961) (surgeon responsible on agency theory for negligence of doctor in charge of administering anesthesia to patient).
+In the instant case, the trial court found that there was no evidence to support a claim that Dr. Adams deviated from the required standard of care. However, the trial court fails to discuss whether Dr. Adams remains hable for medical malpractice under an agency theory. Moreover, the facts remain unclear as to whether Dr. Lachman, the anesthesiologist, was subject to the control of Dr. Adams. Therefore, as there remains a genuine issue of material fact, summary judgment was inappropriate. See Schneider 257 Pa.Super. at 366, 390 A.2d at 1280 (citing Tonsic v. Wagner, 458 Pa 246, 253, 329 A.2d 497, 500 (1974)) (where inferences are unclear, questions of agency are for the jury’s determination). Hence, we reverse the trial court’s order.
+Order reversed.
