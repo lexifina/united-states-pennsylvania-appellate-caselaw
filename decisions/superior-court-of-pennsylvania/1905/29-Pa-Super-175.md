@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 198"
+decided: "1905-10-09"
+citations: ["29 Pa. Super. 175"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Beaver, Orlady, Smith, Porter, Morrison and Henderson, JJ."]
+parties: ["Orr, Appellant, v. Rogers."]
+source_url: "https://static.case.law/pa-super/29/cases/0175-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 860076
+cites_cases: ["1 Watts, 382", "10 Watts, 351", "147 Pa. 370", "147 Pa. 532", "18 Pa. Superior Ct. 313", "18 Pa. Superior Ct. 578", "19 Pa. 329", "24 Pa. 55", "38 Pa. 151", "39 Pa. 409", "4 Yeates, 392", "57 Pa. 433", "66 Pa. 336", "86 Pa. 454"]
+---
+
+# Orr v. Rogers
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+The defendant moved to strike off the mechanic’s lien in this case upon the following grounds, that: (1) the claim filed did not set forth with sufficient fullness the contract between the plaintiff and the owner under which the building was erected; (2) the work was commenced to be performed and materials were commenced to be furnished before the approval of the Act of June 4, 1901, P. L. 431, and that act is not applicable to this claim; (3) claimant did not serve notice upon the owner within one month after the filing of the claim, as required by the act of June 4, 1901, and (4) there was no act of assembly authorizing the filing of this claim, all previous statutes having been repealed by the act of June 4, 1901, which act does not permit the filing of liens for work commenced before its approval. The court below granted a rule to show cause why the lien should not be- stricken off, which it subsequently made absolute, and the plaintiff appeals.
+The Act of June 4, 1901, P. L. 431, sec. 60, provides that: “ This Act shall apply only to claims wherein the work was commenced to be performed or materials were commenced to be furnished after the date of its approval, but the rights of claimants under existing laws shall remain unaffected by its passage.” And, by section 61, repeals all prior statutes “ appertaining to the subject-matter covered by this Act, .... it being intended that this Act shall furnish a complete and exclusive system in itself, so far as relates to liens for labor or materials commenced to be furnished after its approval.” These provisions make it very clear that no lien could have been filed under the act of June 4, 1901, for the work done and materials furnished by this plaintiff, for the performance of such work and the furnishing of such materials were commenced prior to the approval of that statute. It does not follow, however, that the plaintiff is without the right tó file a lien and proceed thereon in the manner authorized by prior legislation. The acts of 1836 and 1845 were repealed by the act of June 4, 1901, only in so far as they “ appertain to the subject-matter covered by this Act.” The subject-matter of the statute was expressly declared to be “liens for labor or materials commenced to be furnished after its approval.” The statute has no application to those cases in which the work had been commenced prior to its approval. This plaintiff had a lien and the unquestionable right to file and prosecute a claim under prior statutes at the time the act of June 4, 1901, was approved, and comes within the saving clause of the sixtieth section of the statute; “ but the rights of claimants under existing laws shall remain unaffected by its passage.” The express words of the statute declare the legislative intention that such right shall remain unchanged.
+The claim filed averred that the contract was made directly with Rogers, the owner of the building, that it was verbal, that Orr agreed to furnish all the materials and do all the work necessary “to construct, erect and build a frame barn, upon a stone foundation, then in course of construction,” that Rogers agreed to pay $2,900 for the same when completed, that during the progress of the work at the request of the owner certain extra work was done under an additional agreement amounting to $891.20, the items of the extra work aggregating this sum being specifically set forth in the lien. The claim specifically averred that the principal contract was entire, providing. for the doing of all the work for a fixed compensation. It further averred that the • building was completed and accepted by the owner and that he agreed to pay for the same the amount of this claim. The contract having been an entire one and having been made by the claimant directly with the owner, the averments as to the contract. were, under the provisions of the Act of April 16, 1845, P. L. 538, sufficient: Chapman v. Faith, 18 Pa. Superior Ct. 578; Hahn’s Appeal, 39 Pa. 409; Lee v. Burke, 66 Pa. 336; Miller v. Bedford, 86 Pa. 454. We are of opinion that the learned judge of the court below erred in striking off this lien.
+When the lien was stricken off, the scire facias which had , been issued fell with it, the plaintiff could proceed no further in the court below. The order was not interlocutory, but a definitive judgment, and the only course left open to the plaintiff was to appeal; Hill v. Newman, 38 Pa. 151; Carter v. Caldwell, 147 Pa. 370.
+The order striking off the lien is reversed, the lien is reinstated, the record remitted for further proceedings, and it is ordered that the appellee pay the costs of this appeal.
