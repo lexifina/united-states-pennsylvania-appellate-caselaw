@@ -1,0 +1,46 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "928"
+decided: "1991-02-01"
+citations: ["402 Pa. Super. 319", "586 A.2d 1372"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before TAMILIA, POPOVICH and JOHNSON, JJ.", "POPOVICH, J., joins TAMILIA, J., and also files a concurring statement."]
+parties: ["TTMAR, INC., a Pennsylvania Corporation v. John G. SULKA and Barbara L. Sulka, His Wife, Individuals, Appellants."]
+source_url: "https://static.case.law/pa-super/402/cases/0319-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 891701
+cites_cases: ["102 A.2d 175", "174 Pa.Super. 549", "359 Pa.Super. 572", "373 Pa.Super. 377", "380 Pa.Super. 376"]
+---
+
+# TTMAR, Inc. v. Sulka
+
+## Majority (TAMILIA, Judge:)
+
+TAMILIA, Judge:
+The facts of this case are not in dispute nor are they complex. Appellee/seller filed suit in Allegheny County against appellants/buyers for an alleged breach of a land sale contract. The matter proceeded to arbitration on June 8, 1989 and appellants prevailed. On July 6, 1989, after a settlement agreement had been withdrawn, appellee took an appeal from the award to the Court of Common Pleas.
+In the January 22, 1990 issue of the Pittsburgh Legal Journal, the case was listed for de novo trial on March 26, 1990. The Pittsburgh Legal Journal is the official newspaper for the court system of Judicial District V, which is Allegheny County. On March 26, 1990, the case was called for trial. Appellee, their witnesses and attorney appeared and were ready for trial. Appellants and their counsel of record did not appear. The case proceeded without appellants or their counsel when neither appeared after the third call. After the hearing, the court found in favor of appellee in the sum of $8,500 with interest from January 20, 1989.
+Our initial inquiry is whether Allegheny County’s notice requirements comport with due process of law and Rule 218. Appellant initially argues Pa.R.C.P. 218, Party not ready when case is called for trial, requires the trial court to make the determination whether a defendant has a satisfactory excuse for not being ready for trial, as a condition precedent, before the plaintiff may proceed to trial. Appellants argue their counsel did not have actual notice of the trial and, therefore, had a satisfactory excuse for missing the trial. Appellants request this Court to shift the duty to make sure they are personally aware of the date and time of trial to the trial court or opposing counsel. This argument is unsupportable.
+Appellants’ counsel is trained and schooled in the practice of law. He is a member of the Pennsylvania Bar and thus has successfully completed those rigorous requirements necessary for admission to the Bar. The duties, responsibilities and obligations attendant to this profession are to be undertaken with the utmost degree of care. If counsel chooses to accept a case and practice in a particular forum, then he must master notice requirements of local rules and procedures of that forum. This is not a case where notice could be posted on a tree to bind all interested parties. Counsel attacks the very process which every responsible member of the Bar practicing in Allegheny County is bound to follow. The Pittsburgh Legal Journal is the official court publication of Allegheny County as authorized by the local rules of court. Appellants’ counsel, choosing to practice in the forum, was duty bound to identify this rule, and reliance on the telephone opinion of an unidentified clerk does not relieve him of the obligation to be aware of notice procedure. Appellants’ counsel’s law offices are located in Washington County, adjacent to Allegheny County’s southern border, within one-half hour of the city of Pittsburgh, the County Seat of the Judicial District. Such geographic proximity makes reasonably certain appellants’ counsel would have occasion to practice law in that forum. Counsel is under a high duty of care to learn and familiarize himself with the local rules of all forums in which he chooses to practice law and to read the Pittsburgh Legal Journal for notice of the date and time of any Allegheny County trials with which he is concerned. Failing to do so does not excuse counsel. (See Toczylowski v. General Bindery Co., 359 Pa.Super. 572, 519 A.2d 500 (1986), counsel is under obligation to keep abreast of publications to the bar and local rules of court).
+We hold publication of the time and place of the trial afforded counsel legal notice of the trial. The court is required to do no more. Thus counsel is deemed to have notice of the trial and does not have a “satisfactory excuse” pursuant to Pa.R.C.P. 218. The trial court, in taking notice of the fact that counsel had actual notice of the trial, comported with the requirements of Rule 218 when it allowed plaintiff-appellee to proceed to trial.
+This case is inapposite to Potter v. Temple University Hospital, 380 Pa.Super. 376, 551 A.2d 1101 (1988), and Nivens v. Chestnut Hill Hospital, 373 Pa.Super. 377, 541 A.2d 365 (1988), which are relied upon by the appellants. In those two cases, both parties displayed a lack of due diligence by failing to monitor the list and be present at the same call. This Court’s rationale in both decisions was that neither party was prepared to go forward, and under those circumstances, neither party was permitted to profit from the combined negligence of indifferent or incompetent counsel of the parties. In the instant case, however, appellee was prepared at the call of the case and did, in fact, go through with the trial. Appellants’ counsel’s oversight alone is the reason for appellants missing the trial.
+Finally, appellants argue there is insufficient evidence to support the trial court’s verdict. Our studied review of the uncontroverted record indicates otherwise. Ttmar Inc. is in the business of buying and selling real and personal property. On or about January 15, 1989, appellants John G. and Barbara L. Sulka contacted Ttmar and expressed interest in buying two parcels of Ttmar’s property. The parties entered into a contract of sale and appellants tendered $8,500 hand money. Afterwards, appellants stopped payment on the check, later admitting they changed their minds and decided not to purchase the property. Paragraph 15(a) of the agreement states the seller shall retain the earnest money deposit upon a buyer’s default.
+Accordingly, we find the evidence sufficient to support the trial court’s verdict, Sipowicz v. Olivieri, 174 Pa.Super. 549, 102 A.2d 175 (1954).
+Order affirmed.
+POPOVICH, J., joins TAMILIA, J., and also files a concurring statement.
+. This Court, in Toczylowski v. General Bindery Co., 359 Pa.Super. 572, 519 A.2d 500 (1986), stated its rationale, in pertinent part, as follows:
+The Legal Intelligencer is the official periodical for publication of all notices to the Philadelphia Bar. It is incumbent upon a Philadelphia practitioner to be familiar with the Intelligencer and its contents, particularly those sections which govern the practice of litigation in the Philadelphia courts____ [C]ounsel [was not excused] from her duty to be knowledgeable concerning other portions of the Intelligencer---- As such, former counsel was not excused from her duty to monitor the master lists; it was her duty, as a diligent practitioner, to monitor the master major jury list and the individual judge calendars.
+Her duty to have so performed is further buttressed by Philadelphia Local Rule of Court 200, which governs the assignment of cases for trial[.]
+As such, the Rule imposes upon a Philadelphia practitioner a need for watchfulness with respect to the civil trial listings in the Intelligencer, as opposed to the type of limited scrutiny which was applied by appellee's former counsel.
+In light of the foregoing, it is inconceivable to this Court that former counsel’s excuse for nonappearance, i.e. the letter, can be deemed reasonable. A litigator is under an obligation to keep abreast of publications to the bar, such as the Intelligencer, as well as local rules of court.
+Id., 359 Pa.Superior Ct. at 580, 519 A.2d at 504 (citations omitted).
+. Wherein the trial court stated:
+THE COURT: Neither Defendant present. No Defendant lawyer. No other witness for Defendant. Let the record show that this case was advertised in the Pittsburgh Legal Journal in its issue of January 22, 1990. The PLJ is the official newspaper for the court system of Allegheny County. In that issue it announced that this case was to be heard on March 26, 1990 at nine a.m. in Pittsburgh, Room 648—City-County Building, add that in there.
+(T.T., 3/26/90, p. 2.)
+
+## Concurrence (POPOVICH, Judge,)
+
+POPOVICH, Judge,
+concurring.
+Although I join in the opinion of the majority, I write separately to note my concern over the lack of uniformity in legal procedure within our Unified Judicial System. I believe something as basic as legal notice of a trial should be governed by uniform state-wide rules, not by local determination. However, until such a time comes when the state has a “true” Uniform Judicial System, the law will remain as cited by the majority with which I join.
