@@ -1,0 +1,38 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "00522, 01348"
+decided: "1986-04-08"
+citations: ["352 Pa. Super. 186", "507 A.2d 834"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before BROSKY, McEWEN and HESTER, JJ."]
+parties: ["Frank J. RICCOBONO, as Administrator of the Estate of Patricia A. Riccobono v. KEYSTONE HELICOPTER CORPORATION, Appellant. Kirsten Kay EDMONDS, Administratrix of the Estate of Leonard Blaine Edmonds, Deceased, and Kirsten Kay Edmonds, in her own right v. M.B.B., INC. and Messerschmitt-Boelkow-Blohm and Keystone Helicopter Corporation and Lehigh Valley Hospital Center, Inc. and Adella J. Dillman, Administratrix of the Estate of Scott Dillman, Deceased, and Adella J. Dillman, in her own right. Appeal of KEYSTONE HELICOPTER CORPORATION."]
+source_url: "https://static.case.law/pa-super/352/cases/0186-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 651087
+cites_cases: ["254 Pa.Super. 256", "264 A.2d 638", "345 Pa. Super. 95", "438 Pa. 249"]
+---
+
+# Riccobono v. Keystone Helicopter Corp.
+
+## Majority (HESTER, Judge:)
+
+HESTER, Judge:
+These are the consolidated appeals of two wrongful death actions arising from a helicopter accident. One appellee is Frank J. Riccobono, administrator of the estate of Patricia A. Riccobono, deceased. The other appellee is Kirsten Kay Edmonds, administratrix of the estate of Leonard Blaine Edmonds, deceased. Each appellee filed separate complaints against appellant, Keystone Helicopter Corporation.
+In November, 1984, seventeen months after appellee Ric-cobono filed suit and fourteen months after appellee Ed-monds filed suit, appellant moved for leave to join additional defendants, Mario Aurigemma, t/a Mr. A’s Bar, and Jennie Kunkel, t/a Jennie’s Place, in both actions nunc pro tunc. Orders were entered on January 18, 1985, in both actions, denying leave to file complaints against the additional defendants. Appellant filed separate appeals which were later consolidated for argument and disposition. We affirm.
+On April 27, 1982, eighteen-year-old Leonard Edmonds was one of four passengers in a motor vehicle operated by Scott Dillman. The vehicle struck a telephone pole on Route 895 in East Brunswick Township, Schuylkill County, Pennsylvania. Dillman was fatally injured while Edmonds and the others were seriously injured.
+Appellant provided helicopter medical service for Allentown and Sacred Heart Hospital Center. The hospital dispatched one of appellant’s helicopters to the accident scene to transport Edmonds to the hospital for treatment. Twenty-four-year-old Patricia Riccobono, a paramedic, was a member of the helicopter’s medical evacuation team. The helicopter landed safely at the accident scene, and Edmonds was removed from the vehicle and placed in the helicopter. Shortly after take-off, the helicopter crashed, killing Ed-monds, Riccobono, the pilot and another paramedic.
+The proposed additional defendants operated taverns from which Scott Dillman, the driver, had purchased beer. Appellant alleged that their negligence in serving beer to a minor had caused Dillman to wreck his automobile. Had the automobile accident not occurred, appellant reasoned, the helicopter and medical evacuation team would not have been dispatched to the scene.
+Pennsylvania Rule of Civil Procedure 2253 prohibits the filing of a praecipe or complaint to join an additional defendant more than sixty days after the original defendant is served with plaintiffs initial pleading. Rule 2253 permits an untimely filing only upon cause shown. In both actions, appellant filed motions to join additional defendants more than one year after being served with the complaints. Unless appellant demonstrated cause to justify the untimely filing, the trial court had no choice but to deny the motions to join nunc pro tunc.
+Joinder after the sixty day period may provide a method of expeditiously litigating disputes involving many parties provided the plaintiff is not subjected to unreasonable delay. Zakian v. Liljestrand, 438 Pa. 249, 264 A.2d 638 (1970). To justify late joinder, the petitioning defendant must show,
+(1) some reasonable justification or excuse for the delay;
+(2) a statement of the facts alleged to render the proposed additional defendant alone liable, or liable with, or liable over to defendant, or liable to the defendant on a proper cross claim; and (3) allegations that the late joinder will not be prejudicial to the proposed additional defendant. It should ask for leave to file both the praecipe and the complaint called for by Rule 2252(b).
+Kovalesky v. Esther Williams Swimming Pools, 345 Pa. Super. 95, 103, 497 A.2d 661, 665 (1985), quoting Goodrich-Amram 2d § 2253:3.1 at 108 (1977). Whether cause is shown to justify late joinder is a matter for the sound discretion of the trial court, and we shall not reverse absent an abuse of discretion. Welch Foods, Inc. v. Bishopric Products Co., 254 Pa.Super. 256, 385 A.2d 1007 (1978).
+Appellant argues that it did not discover the identity of the additional defendants until depositions were taken of the surviving passengers in the Dillman automobile. These depositions were taken more than one year after the Riccobono complaint was filed and nearly one year after the filing of the Edmonds complaint. Furthermore, appellant argues that joinder would not prejudice appellees as Aurigemmo and Kunkel were defendants in a third lawsuit filed by the estate of the other paramedic of the medical evacuation team. According to appellant, appellees could utilize the discovery in that case to prepare here. Finally, appellant contends that Rule 2253 should be liberally applied as joinder enhances inexpensive and expeditious litigation.
+The evidence supports the trial court’s finding that a reasonable cause, justification or excuse was not shown for late joinder. Appellant had an opportunity to discover the facts relative to the two taverns prior to the summer of 1984. The police report of the accident and the pathological examination of Dillman revealed that he had consumed alcohol. This information was sufficient to place appellant on notice that Dillman may have purchased the alcohol from a distributor or tavern. These facts should have alerted appellant to request a statement or to take depositions shortly after the complaints were filed. Had it done so, it could have discovered the existence of the additional defendants several months earlier.
+Having failed to demonstrate reasonable justification for late joinder, appellant has not satisfied the Kovalesky test; accordingly, we hold that the trial court did not abuse its discretion in denying late joinder.
+Orders affirmed.
+. Appellant alleges that the trial court incorrectly stated in Riccobono that appellant was attempting to join the estate of Scott Dillman as additional defendant. In addition, appellant argues that the trial court incorrectly ruled in Riccobono that pilot error, not Dillman's negligence, caused the helicopter crash.
+The order on appeal here consolidated the motions to join the taverns in both actions. It is clear from the trial court’s opinion under Pa.R.A.P. 1925 that joinder of the taverns in both actions was considered.
+Appellant moved to join the estate of Scott Dillman as an additional defendant in Riccobono. That motion was also denied; however, no appeal was taken. Appellant incorrectly asserts that the disposition of its motion to join the estate of Scott Dillman was inverted for the disposition of its motion to join the taverns.
