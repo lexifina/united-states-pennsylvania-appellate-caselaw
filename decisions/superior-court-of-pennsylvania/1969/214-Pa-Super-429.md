@@ -1,0 +1,36 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 156 and 157"
+decided: "1969-06-13"
+citations: ["214 Pa. Super. 429"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. j., Watkins, Montgomery, Jacobs, Hoffman, Spaulding, and Cercone, JJ."]
+parties: ["Commonwealth v. Bomberger, Appellant."]
+source_url: "https://static.case.law/pa-super/214/cases/0429-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 786911
+cites_cases: ["192 A. 2d 258", "193 A. 2d 657", "200 A. 2d 773", "201 Pa. Superior Ct. 387", "201 Pa. Superior Ct. 649", "414 Pa. 471"]
+---
+
+# Commonwealth v. Bomberger
+
+## Majority (Hoffman, J.,)
+
+Opinion by
+Hoffman, J.,
+On October 19, 1959, appellant pleaded guilty to eleven indictments, ten (Bills No. 74 through 83 September Sessions, 1958) charging false pretenses and one (Bill No. 91 September Sessions, 1958) charging making a false statement of financial condition.
+The trial court placed him on probation, consisting of twelve one year terms to run consecutively commencing with Indictment No. 74 and proceeding in numerical order. The probation, however, was conditioned upon appellant making restitution at the rate of $20.00 per week until the entire sum of $13,290.30 was paid to the private prosecutor.
+On September 25, 1967, the private prosecutor informed the Probation Department that he had received only $60.00 from appellant and that payment was made in December 1966. Subsequent arrangements were made for appellant to pay an additional sum but he did not comply with their terms.
+Finally, on January 26, 1968, a detainer was lodged against appellant, and on February 27, 1968, he was found in violation of his probation. The Court revoked probation and imposed consecutive prison terms of one to five years each on bills No. 74 and 75 and suspended sentence on the remainder of the bills. This appeal followed.
+Appellant contends that the lower court did not act with reasonable promptness in revoking his probation and, therefore, he is entitled to be released from confinement. Specifically, he maintains that since he has been sentenced on two bills of indictment for which his probation had expired on October 19, 1960, and on October 19, 1961, respectively it is beyond the power of the court to sentence him as to those bills.
+This case is controlled by Commonwealth v. Duff, 414 Pa. 471, 200 A. 2d 773 (1964), wherein the Supreme Court reversed this Court’s disposition reported at 201 Pa. Superior Ct. 387, 192 A. 2d 258 (1963).
+In Duff, the trial court in February, 1959, placed the defendant on probation for twenty-three months on one bill and suspended sentence on the other bills. During the probationary period defendant violated the terms of his probation by committing another crime. Five months after the probationary period ended, appellant was indicted and one and one-half years later he was convicted for this offense. Two weeks later the court “vacated” the suspended sentences and imposed a sentence of eighteen months to three years.
+This Court upheld the action of the lower court on the basis that a suspended sentence should be treated as a probationary period, even though no period of probation is specified. “Therefore, when the court suspends the imposition of sentence without fixing terms of probation, it may, for proper reasons, impose a prison sentence within a reasonable time thereafter, if it does so within the maximum term which could have been imposed for the offense.” At 393.
+Moreover, we indicated that, alternatively, the lower court could have sentenced appellant on the bill to which he had been placed on probation for twenty-three months, although it failed to do so. “It seems clear that, for the proper operation of a probation system and the attainment of the rehabilitation of the defendant at which it aims, the court must have the power, even after the expiration of the probationary period, to punish a violation which occurs during the period, provided the court acts within a reasonable time after the violation. ... It seems obvious that a violation which takes place on the last day of the probationary period, or so near the end of the probationary period that the court cannot aet within the period, should be punishable by revocation of the probation thereafter. Similarly, a serious violation of the terms of probation which occurs under circumstances which prevent it from coming to the attention of the probation authorities or the court until after the expiration of the probationary period, should be punishable promptly after the court learns of it. . . .
+“In each such case, the question reduces to whether the delay in the revocation and the imposition of the prison sentence is reasonable. It is sufficient that the court which imposed the probation should act promptly after the violation is discovered or, in the case of an accusation of crime, after the conviction, even though the probationary period has expired meanwhile.” At 394-395. In Commonwealth v. Ferguson, 201 Pa. Superior Ct. 649, 193 A. 2d 657 (1963), we adopted this reasoning and permitted the incarceration of a defendant for violation of the terms of his probation after his probationary term had expired.
+Nonetheless, the Supreme Court in Duff reversed and discharged appellant holding that a defendant may not be resentenced on bills for which sentence had been suspended. In doing so, it did not consider whether appellant could have been sentenced on the bill for which probation had initially been imposed. Although the Superior Court indicated that this would have been a proper procedure, the Supreme Court ignored this suggestion and refused to remand the case for resentencing so that this adjustment could be made. Thus, the discharge by the Supreme Court constituted a holding that the trial court was bound by its election to sentence on those bills where a suspended sentence had originally been imposed even though such election was predicated on an erroneous view of the law.
+In the instant case, appellant had sentence suspended on all bills other than Nos. 74 and 75. Accordingly, Duff mandates that appellant cannot be re-sentenced on these bills.
+With respect to bills Nos. 74 and 75, sentence was imposed five and six years after the probationary terms had expired. This is impermissible. None of the extenuating circumstances mentioned in the Superior Court’s dicta in Duff or in Ferguson are found. Appellant’s failure to make restitution to the private prosecutor was known to that person for seven years. Yet, throughout that period of time he failed to complain to the Probation department or otherwise assert his rights. Similarly, the Probation department which is charged with the duty to investigate whether appellant obeyed the terms of his probation certainly should have known of his failure to make restitution. In such circumstances, the court has failed to act with reasonable promptness and cannot now impose a prison term upon appellant. Commonwealth v. Ferguson, supra, at 654.
+Judgment of sentence is vacated and appellant is discharged.
