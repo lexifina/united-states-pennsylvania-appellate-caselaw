@@ -1,0 +1,73 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "683"
+decided: "1990-04-16"
+citations: ["393 Pa. Super. 103", "573 A.2d 1108"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DEL SOLE, BECK and MONTGOMERY, JJ."]
+parties: ["Nicholas S. CALDARARO, Appellant, v. KEYSTONE INSURANCE COMPANY, Appellee."]
+source_url: "https://static.case.law/pa-super/393/cases/0103-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 877843
+cites_cases: ["336 N.W.2d 288", "370 Pa.Super. 51"]
+---
+
+# Caldararo v. Keystone Insurance
+
+## Majority (MONTGOMERY, Judge:)
+
+MONTGOMERY, Judge:
+The Plaintiff-Appellant, Nicholas S. Caldararo, instituted this declaratory judgment action to obtain a ruling regarding his claim for certain benefits under a motor vehicle insurance policy issued to him and his wife by the Defendant-Appellee, Keystone Insurance Company. After the close of pleadings, both parties filed motions for judgment on the pleadings. The trial court denied the plaintiff’s motion, but granted the motion of the defendant. We find no error in the trial court’s order granting judgment on the pleadings for the defendant.
+The facts are not in dispute. In 1987, the plaintiff was injured in a motor vehicle accident in which he was a passenger in a vehicle operated by his wife. The plaintiff owned the vehicle, and both he and his wife were covered by a policy of insurance issued by the defendant. The plaintiff instituted a claim against his wife, which resulted in a payment to him by the defendant of $100,000.00, the full liability coverage limit in the policy. The plaintiff executed a release to his wife. Thereafter, the plaintiff instituted a claim with the defendant-insurer for additional payments under the underinsured motorist coverage of the policy. That claim was denied, and this litigation followed.
+The defendant-insurer relies upon various policy provisions to support its position that the plaintiff is not entitled to recover both liability and underinsurance proceeds under the provisions of the insurance policy in issue in this case. An examination of the applicable policy provisions is, of course, essential in our resolution of this appeal.
+The first relevant section of the policy to be referenced is the bodily injury liability section, under which the plaintiff has already recovered the full policy limits. In pertinent part, that section of the policy includes the following limitation clause:
+The limit of liability shown in the Declarations for “each person” for Bodily Injury Liability is our maximum limit of liability for all damages for bodily injury sustained by any one person in any one auto accident. Subject to this limit for “each person”, the limit of liability shown in the Declarations for “each accident” for Bodily Injury Liability is our maximum limit of liability for all damages for bodily injury resulting from any one auto accident. The limit of liability shown in the Declarations for “each accident” for Property Damage Liability is our maximum limit of liability for all damages to all property resulting from any one auto accident. This is the most we will pay regardless of the number of:
+1. Covered persons;
+2. Claims made;
+3. Vehicles or premiums shown in the Declarations; or
+4. Vehicles involved in the auto accident.
+The underinsured motorists provisions of the policy include the following basic statement regarding the coverage provided:
+We will pay damages which a covered person is legally entitled to recover from the owner or operator of either an uninsured motor vehicle or underinsured motor vehicle, but not both, because of bodily injury:
+1. Sustained by a covered person; and
+2. Caused by an accident.
+The owner’s or operator’s liability for these damages must arise out of the ownership, maintenance or use of the uninsured motor vehicle or underinsured motor vehicle. We will pay damages under this coverage arising out of an accident with an underinsured motor vehicle only after the limits of liability under any applicable bodily injury liability bonds or policies have been exhausted by payment of judgments or settlements.
+The amount of damages we will pay is subject to the provisions of our Limit of Liability.
+No judgment for damages arising out of a suit brought against the owner or operator of an uninsured motor vehicle or underinsured motor vehicle is binding on us unless we:
+1. Received reasonable notice of the pendency of the suit resulting in the judgment; and
+2. Had a reasonable opportunity to protect our interests in the suit.
+“Covered person” as used in this endorsement means:
+1. You or any family member.
+2. Any other person occupying your covered auto.
+3. Any person for damages that person is entitled to recover because of bodily injury to which this coverage applies sustained by a person described in 1. or 2. above.
+This same policy section defines an underinsured motor vehicle as follows:
+“Underinsured motor vehicle” means a land motor vehicle or trailer of any ■ type to which a bodily injury liability bond or policy applies at the time of the accident but its limit for bodily injury liability is not enough to pay the full amount the covered person is legally entitled to recover as damages.
+“Underinsured motor vehicle” does not include an uninsured motor vehicle.
+, sfc if sfc * *
+In addition, neither “uninsured motor vehicle” nor “underinsured motor vehicle” includes any vehicle or equipment:
+1. Owned by or furnished or available for the regular use of you or any family member.
+Finally, the insurance contract includes underinsurance limitation of liability clauses which, in pertinent part state:
+Except as provided in the following paragraph, the limit of liability shown in the Schedule or in the Declarations for “each person” for Uninsured/Underinsured Motorists Coverage is our maximum limit of liability for all damages for bodily injury sustained by any one person in any one accident. Subject to this limit for “each person”, the limit of liability shown in the Schedule or in the Declarations for “each accident” for Uninsured/Underinsured Motorists Coverage is our maximum limit of liability for all damages for bodily injury resulting from any one accident. This is the most we will pay regardless of the number of:
+1. Covered persons;
+2. Claims made;
+3. Vehicles or premiums shown in the Schedule or in
+the Declarations; or
+4. Vehicles involved in the accident.
+If bodily injury is sustained in an accident by you or any family member, our maximum limit of liability for all damages in any such accident is the sum of the limits of liability for Uninsured/Underinsured Motorists Coverage shown in the Declarations applicable to each vehicle. Subject to this maximum limit of liability for all damages, the most we will pay for bodily injury sustained by a covered person other than you or any family member is the limit shown in the Schedule or in the Declarations applicable to the vehicle the covered person was occupying at the time of the accident. This is the most we will pay regardless of the number of:
+1. Covered persons;
+2. Claims made; or
+3. Vehicles involved in the accident.
+However, no covered person will be entitled to receive duplicate payments for the same elements of loss. Any amounts otherwise payable for damages which the covered person is legally entitled to recover from the owner or operator of an uninsured motor vehicle or underinsured motor vehicle because of bodily injury caused by an accident, shall be reduced by all sums paid because of the bodily injury by or on behalf of persons or organizations who may be legally responsible. This includes all sums paid under Part A.
+Any payment under this coverage will reduce any amount that person is entitled to recover for the same damages under Part A.
+Reading all of these sections together certainly leads to the conclusion that the policy precludes the plaintiff from recovering underinsurance benefits after he has already recovered for losses under the liability coverage provisions of the agreement.
+The fact that the damage was incurred while he was a passenger in his own vehicle clearly appears to prohibit the plaintiffs claim because of the underinsured section which declares that an “underinsured motor vehicle” does not include any vehicle “owned by ... you or any family member.” The same coverage exclusion was the subject of examination by our Court, en banc, in the case of Wolgemuth v. Harleysville Mutual Insurance Co., 370 Pa.Super. 51, 535 A.2d 1145 (1988). In that declaratory judgment action, which followed a single vehicle accident, underinsured motorist benefits were sought on behalf of an injured passenger who had already recovered the limits of the liability coverage of the same host vehicle policy. It was held that such a recovery was not proper in light of policy declarations identical to those in the instant case which excluded the insured vehicle from the definition of “under-insured motor vehicle.” It was held that such a coverage exclusion did not violate the public policy of our Commonwealth, and did not contravene the express provisions or intent of the Pennsylvania Motor Vehicle Financial Responsibility Law, Act of February 12, 1984, P:L. 26, No. 11, § 3, 75 Pa.C.S. § 1701, et seq., effective October 1, 1984.
+The appellant has correctly pointed out that in Wolgemuth, our Court did not rule upon whether an insured, as that term is defined in the Motor Vehicle Financial Responsibility Law, could recover under both the liability and underinsured motorist provisions of a single policy. That question was specifically reserved for another case, and no opinion was expressed with regard to that issue. Of course, we are now presented with that problem in the instant appeal. We have no basis to conclude that a result different from that rendered in Wolgemuth would be appropriate here.
+The appellant has presented no compelling arguments which support the type of recovery he seeks. He has not challenged the critical policy language as ambiguous. In fact, his brief states: “There is no question of clarity or ambiguity involving the policy language of the Keystone policy.” Instead, he grounds his argument on the general position that the provisions in issue are repugnant to the policy underlying the Motor Vehicle Financial Responsibility Law and are contrary to its terms. Contentions identical to those raised by the appellant were directly examined and rejected by our Court in Wolgemuth.
+Further, he pleads for a liberal interpretation of the policy in favor of the insured. Our Court also recognized the appropriateness of such an approach in Wolgemuth. However, given the appellant’s own admission that the exclusionary provisions are clear and unambiguous, a conclusion with which we have no disagreement, we have no basis for interpreting them to allow the plaintiff the recovery he seeks. His automobile was clearly not to be considered an “underinsured” motor vehicle under the terms of his insurance agreement.
+The appellant points out our Court’s approval in Wolgemuth of the statement by the Minnesota Supreme Court in Myers v. State Farm Mutual Automobile Insurance Co., 336 N.W.2d 288, 291 (Minn.1983) that underinsured motorist coverage is first party coverage and, in that sense, the coverage follows the person and not the vehicle. He also tries to distinguish his legal position as an insured to that of a class two beneficiary like the passenger in the Wolgem,uth case. We are convinced that the distinctions raised by the appellant do not require a different result from that reached in Wolgemuth, in light of the purpose of underinsured motor vehicle coverage, which our Court discussed in that case:
+The purpose of underinsured motorist coverage is to protect the insured (and his additional insureds) from the risk that a negligent driver of another vehicle will cause injury to the insured (or his additional insureds) and will have inadequate liability coverage to compensate for the injuries caused by his negligence. Thus, an insured who purchases $100,000.00 of liability coverage to protect others from his negligence, must, by law, be offered the option of purchasing up to $100,000.00 of underinsured motorist coverage to protect himself and his additional insureds from the risk that they will be severely injured by a negligent driver who has liability coverage in an amount insufficient to fully compensate them for their injuries. The language of the statute itself suggests that underinsurance motorist coverage requires the existence of at least two applicable policies of motor vehicle insurance. See 75 Pa.C.S. § 1731(c). An underinsured motor vehicle, must, by definition, be an insured vehicle. Thus, the statute contemplates one policy applicable to the vehicle which is at fault in causing the injury to the claimant and which is the source of liability coverage (which is ultimately insufficient to fully compensate the victim), and a second policy, under which the injured claimant is either an insured or a covered person. It is the second policy which the statute contemplates as the source of underinsured motorist coverage, where the liability coverage provided by the first policy of insurance is insufficient to fully compensate the claimant for his injuries.
+370 Pa.Super. at 58, 535 A.2d at 1149.
+We believe that permitting the plaintiff the underinsurance recovery he seeks in this action would require that we ignore the purpose of the coverage, as described above. Obviously we would also have to ignore the provision of the insurance agreement which excludes the plaintiffs automobile from the category of vehicles which may be considered to be “underinsured” for purposes of such coverage. As noted above, the exclusion is neither ambiguous nor contrary to the provisions or intent of the Motor Vehicle Financial Responsibility Law, and we will not ignore it.
+The aforesaid conclusions would be enough, standing alone, to support an affirmance of the trial court’s Order. However, we deem it appropriate to note our conclusion that the wording in the limitation of liability clauses in both the liability and underinsured motorist sections of the policy would also operate to deny the appellant a right to recover in this case. A detailed analysis of those sections is not necessary in this opinion in view of our rejection of the appellant’s arguments concerning the underinsurance vehicle exclusion discussed at length above.
+The Order of the trial court is hereby affirmed.
