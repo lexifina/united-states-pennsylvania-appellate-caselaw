@@ -1,0 +1,20 @@
+---
+court: "Superior Court of Pennsylvania"
+decided: "1917-05-07"
+citations: ["66 Pa. Super. 478"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Scranton Railway Company v. Bisignani, Appellant."]
+source_url: "https://static.case.law/pa-super/66/cases/0478-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 628061
+---
+
+# Scranton Railway Co. v. Bisignani
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+As per agreement filed and for reasons set forth, in opinion this day filed in Scranton Railway Company v. Fiorucci, No. 49, March Term, 1917, the judgment is affirmed. Appellant to pay costs.
