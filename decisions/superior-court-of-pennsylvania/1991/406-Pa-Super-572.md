@@ -1,0 +1,45 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1539"
+decided: "1991-07-19"
+citations: ["406 Pa. Super. 572", "594 A.2d 766"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before McEWEN, DEL SOLE and FORD ELLIOTT, JJ."]
+parties: ["Margaret C. BRINDLE, Carla Douglass, Michelle Trimbur, Deborah Kojsza, Gregory Glinka, and Deborah Hunt, Appellants, v. WEST ALLEGHENY HOSPITAL and Greater Canonsburg Health Systems, Appellees."]
+source_url: "https://static.case.law/pa-super/406/cases/0572-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 898258
+cites_cases: ["345 Pa.Super. 595", "378 Pa.Super. 111", "404 Pa.Super. 127", "506 A.2d 862", "509 Pa. 553"]
+---
+
+# Brindle v. West Allegheny Hospital
+
+## Majority (DEL SOLE, Judge:)
+
+DEL SOLE, Judge:
+This appeal has been taken from a Judgment of Non-suit by six nurses formerly employed at West Allegheny Hospital. They initiated an action against West Allegheny Hospital and its owner, Greater Canonsburg Health Systems, seeking damages for breach of their employment contracts and for fraud and misrepresentation. The court subsequently granted defendants/Appellees Summary Judgment on number of counts and only Count V, the claim based on fraud and misrepresentation, remained to be heard at trial. After Appellants presented their evidence and rested their case, the trial judge granted a defense motion for a Compulsory Non-suit. Appellants’ motion to have the Non-suit removed was denied and this appeal followed.
+On appeal we are asked to consider whether the trial court erred in determining that there was insufficient evidence of fraud to take the case to the jury. This court upon review of an order denying a motion to remove a compulsory non-suit will reverse that order where an abuse of discretion or error of law is found. Kuriger v. Cramer, 345 Pa.Super. 595, 498 A.2d 1331 (1985). In determining whether the trial court properly concluded that the plaintiff failed to establish a cause of action, an appellate court must view the evidence in the light most favorable to the plaintiff, giving the plaintiff the benefit of all reasonable inferences of fact arising from that evidence and resolving any conflict in the evidence in favor of the plaintiff. Coatesville Contractors v. Borough of Ridley, 509 Pa. 553, 506 A.2d 862 (1986).
+The courts have traditionally held that in order to state a cause of action for fraud, the plaintiff must establish five elements: (1) a misrepresentation; (2) a fraudulent utterance thereof; (3) an intention by the maker that the recipient will thereby be induced to act; (4) justifiable reliance by the recipient upon the misrepresentation; and (5) damage to the recipient as the proximate result. Woodward v. Dietrich, 378 Pa.Super. 111, 548 A.2d 301 (1988). The second element requiring a “fraudulent utterance” has been found to refer to the intent or scienter required for an utterance to be considered fraudulent. “This intent has been characterized as knowing or reckless, and applies when the maker of the utterance knows or believes that the matter is not as he or she represents it to be, does not have the confidence in the accuracy of the representation that is stated or implied, or knows that there is not the basis for the representation that is stated or implied.” B.O. v. C.O., 404 Pa.Super. 127, 132 fn. 1, 590 A.2d 313 (1991). Because we conclude that Appellants were unable to prove scienter on Appellees’ part, we need not consider the remaining elements of the test to affirm the trial court’s action.
+At trial Appellants attempted to demonstrate that they were induced to remain at their jobs at West Allegheny Hospital by hospital management who assured them that the hospital was not for sale and that it would not close. Appellants maintain that these statements were fraudulently made and that they were harmed when they lost their jobs as result of the hospital’s eventual closure a few months after the statements were made. A critical component of Appellants’ case was proof the the hospital intentionally and knowingly misrepresented the truth when the employees were told that the hospital would not close and that the employees jobs were secure. Appellants claim this element of the test was met by three distinct pieces of evidence.
+As proof that management personnel knew that their representations were false, Appellants point to testimony that the hospital’s vice president announced his resignation just 6 weeks after he presided over a meeting assuring personnel that their jobs would remain safe. Appellants argue that the fact that he then obtained employment with Allegheny General Hospital, the hospital which purchased West Allegheny, demonstrates that knowing misrepresentations were made. Absent from Appellants evidence, however, is any proof that the vice president’s departure was prompted by the eventual sale. Any conclusion that his resignation and new employment made his earlier statements intentional misrepresentations would be mere speculation, something upon which a jury cannot rest its verdict.
+Appellants also point to the comments of a nursing manager to establish scienter. Appellant Douglas testified at trial to a conversation she had with this nursing manager.
+She had joked at one time how you will probably be working for Allegheny General again, because I had been employed at Allegheny General before.
+N.T. 11/15-17/89 at 172.
+And on cross examination the following exchange occurred:
+Q And on September 26 you talked to Diane Karcz about this situation again, and she offered you her personnel opinion at that time that Allegheny General would buy the hospital and make it into a psychiatric unit? A Yes, sir.
+N.T. 11/15-17/89 at 182.
+We are unable to conclude from this testimony that hospital management knew that the hospital would close and intentionally misrepresented this fact to its employees. The plaintiff witness here merely stated that á nurse manager “joked” about the future and that she offered her “personal opinion” that Allegheny General would buy the hospital. There was no proof offered that this nurse manager knew these facts to be true and she was not called as a witness to so testify.
+Appellants strongest evidence on this point came from the testimony of the hospital’s attorney. Appellants offered in evidence deposition testimony taken of A. Patricia Diulus. In this very brief testimony she responded to the following:
+Question: Did you have occasion to participate in negotiations leading to the sale of West Allegheny Hospital as you described earlier as an asset transaction that occurred last week?
+Answer: I had some involvement, yes.
+Question: What was your involvement?
+Answer: I was involved as in-house legal counsel for Greater Canonsburg Health System.
+Question: As part of your role as in-house legal counsel, what did you do?
+Answer: I was involved in the discussions with management and administration of the Greater Canonsburg Health System and outside parties to the negotiations. Question: When did the negotiations for the sale initiate? Answer: Actual negotiations for the sale were initiated sometime in the summer of 1986.
+N.T. 11/15-17/89 at 259.
+When questioned further the witness was unable to state with any more particularity the date when negotiations began. Appellants suggest that since this witness’ testimony establishes that negotiations were underway in the summer of 1986, the same time they were being assured that their jobs were safe and the hospital would not close, they have satisfied their requirement to prove that the hospital made knowingly false statements calculated to deceive them. We do not concur that this testimony is sufficient to establish such proof.
+The witness first referred to the “sale” as an “asset transaction” a term which can be used to describe the “joint venture” which hospital personnel repeatedly informed the staff was a viable option to help the hospital and the employees. Further, although the witness indicates that negotiations were initiated in the summer, there is no indication from this testimony that hospital management mislead hospital personnel about their job security. A sale of the hospital would not necessarily have resulted in a closing of the hospital and the layoff of its staff. Appellants’ harm would have occurred, if proven, from the loss of their jobs which was a result of the hospital’s closure, not its sale. Appellants offered no proof that the hospital knowingly misinformed them that the hospital would remain open.
+Since Appellants failed to offer any proof that would enable a jury to conclude that as of the summer of 1986 there had been a decision made to close the hospital and that, with such knowledge, hospital management intentionally made false representations of this fact, the trial properly court entered a non-suit in this case. Because we reach this conclusion, it is unnecessary for us to examine Appellants’ claim that certain special damages are compensable.
+Order affirmed.
