@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 28"
+decided: "1965-11-10"
+citations: ["206 Pa. Super. 523"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, P. J., Wright, Watkins, Montgomery, Jacobs, and Hope-man, JJ. (Flood, J., absent)."]
+parties: ["Erie-Lackawanna Railroad Company, Appellant, v. Pennsylvania Public Utility Commission."]
+source_url: "https://static.case.law/pa-super/206/cases/0523-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 772929
+cites_cases: ["166 A. 2d 55", "178 A. 2d 856", "193 Pa. Superior Ct. 636", "195 A. 2d 830", "197 Pa. Superior Ct. 382", "198 A. 2d 383", "202 Pa. Superior Ct. 402", "202 Pa. Superior Ct. 511"]
+---
+
+# Erie-Lackawanna Railroad v. Pennsylvania Public Utility Commission
+
+## Majority (Watkins, J.,)
+
+Opinion by
+Watkins, J.,
+This is an appeal by the railroad from an order of the Pennsylvania Public Utility Commission denying approval of a petition by the railroad to change the status of its station known as Lake Ariel, in Lake Township, Wayne County, Pennsylvania, from that of an agency freight station to that of a nonagency carload only freight station.
+This is another in a line of cases where the Commission continues to ignore the decisions of this Court in these freight station cases. In Erie-Lackawanna Railroad Company v. Pa. P.U.C., 202 Pa. Superior Ct. 511, 198 A. 2d 383 (1964), we said at page 516: “. . . Our cases stand firmly for the proposition that it is the duty of railroads to seek, and of the Commission to grant, the elimination of services and facilities which are no longer needed or used to any substantial extent, and which can be discontinued without material inconvenience to the public.” This is that kind of case.
+We also said in Pennsylvania Railroad Company v. Pa. P.U.C., 202 Pa. Superior Ct. 402, at pages 405, 406, 195 A. 2d 830, 832 (1963) : “. . . A person is not entitled to a personalized service. So far as this record discloses he could secure exactly the same service from Falls Creek by the installation of a telephone. As to the appearance of two witnesses on behalf of the community, it is a well known fact that local pride compels the effort to keep the agency in the community but, although deserving sympathetic consideration in the overall picture, it cannot be one of the factors considered in the public control of rates and services.” From this record the feed business protestant is seeking such personalized service.
+And again in Pennsylvania Railroad Company v. Pa. P.U.C., 197 Pa. Superior Ct. 382, at page 386, 178 A. 2d 856, 858 (1962), we said: “It is apparent that the Coalport station itself does not return sufficient income to warrant the retention of an agent at the station and even though it would seem that the total revenue credited to the Coalport station would be sufficient to carry the burden of the agency, the railroad company should be permitted the economy of saving the expense of this agency station where, as indicated above, there are other readily available agency stations, and where the change from an agency station to a nonagency station will cause no inconvenience to the shippers using the facility, nor to the public in general.”
+The factors to be considered in these cases are (1) the volume and the nature of the business transacted at the stations; (2) proximity and accessibility of other stations; (3) the ratio of cost of maintaining the station agency (including both out-of-pocket and overall expense) to revenues received from the station; (4) the inconvenience to the public resulting from removal of the agent; and (5) the nature of the service remaining or to be substituted. Erie-Lackawanna Railroad Company v. Pa. P.U.C., supra, at page 514.
+The facts in this record regarding revenue and cost ratio are more favorable to the railroad than those in the Erie-Lackawanna Railroad Company v. Pa. P.U.C., supra, and in N. Y. Central RR. Co. v. Pa. P.U.C., 193 Pa. Superior Ct. 636, 166 A. 2d 55 (1960), where the agency station itself operated at a profit and the facts are practically identical to the Pennsylvania Railroad Company v. Pa. P.U.C., case, supra, so that the reasoning applied to those eases should be applied here.
+The record discloses that Lake Ariel is located on the railroad’s Scranton Division about thirteen miles by improved highway southwest of its agency station at Honesdale and twenty-three miles by improved highway east of its agency station at Scranton. The population of Lake Ariel, by the 1960 census, is 275 people. There is, of course, the hope for community growth.
+Carload freight is presently handled by one local freight train operating three .days a week.' According to the record, there are presently no L.C.L. shipments. fThey are handled by the Scranton agency, so that the statement of the Commission in its order that the “Applicant’s proposal now to place the Lake Ariel agency under the jurisdiction of Scranton would place an undue burden of travel ■ (46 miles round trip) on patrons desiring to use railroad L.C.L. services”, is without foundation in this record. The- record shows that no patrons use intrastate L.C.L. services and interstate L.C.L. services were discontinued at this station effective-February 1, 1964. No change will be made in the handling of carload freight. There were four protestant customers, the chief user being a' customer in the feed business who receives substantial carload lot shipments yearly. The other four protestante are nqhusers who are interested in keeping the service in the community and look hopefully forward to community growth.
+The complaints of the four patrons can be boiled down to inspection of damaged goods and the tracing of cars. We cannot see how such complaints can constitute such inconveniencé to the public to justify the refusal of the railroad’s petition. Both can be cured by a telephone call to the Scranton office at the expense óf the railroad where available personnel will immediately attend to them. Such personnel, if it is necessary, can travel to Lake Ariel to inspect the damaged goods and the tracing of cars can be done just as well at the Scranton station as it . was formerly done at the Lake Ariel station.
+We are living in a modern era where the old fashioned depot designed for an older and slower age, housing railroad freight and passenger agencies at every crossroad is no longer" practical. At the time the system was created the' competition that railroads now must meet did not exist. - ' Its impracticability is especially true in view of the modern economic plight of the railroads as recognized in our prior decisions.
+The order denying the application for a change of agency status is so arbitrary, capricious and unreasonable as to amount to an error of law.
+Order reversed.
