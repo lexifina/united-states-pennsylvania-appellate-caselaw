@@ -1,0 +1,50 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "257 C.D. 1992"
+decided: "1993-04-28"
+citations: ["155 Pa. Commw. 267", "625 A.2d 112"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DOYLE, PALLADINO and FRIEDMAN, JJ."]
+parties: ["McKEESPORT HOSPITAL, Petitioner, v. UNEMPLOYMENT COMPENSATION BOARD OF REVIEW, Respondent."]
+source_url: "https://static.case.law/pa-commw/155/cases/0267-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1445851
+cites_cases: ["117 Pa.Commonwealth Ct. 517", "142 Pa.Commonwealth Ct. 294", "15 Pa.Commonwealth Ct. 157", "18 Pa.Commonwealth Ct. 378", "246 A.2d 668", "325 A.2d 642", "336 A.2d 654", "431 Pa. 446", "433 A.2d 587", "451 A.2d 563", "61 Pa.Commonwealth Ct. 231", "69 Pa.Commonwealth Ct. 405"]
+---
+
+# McKeesport Hospital v. Unemployment Compensation Board of Review
+
+## Majority (DOYLE, Judge.)
+
+DOYLE, Judge.
+McKeesport Hospital (Employer) appeals an order of the Unemployment Compensation Board of Review (Board) which affirmed the decision of the referee granting benefits under the Unemployment Compensation Law (Law), Act of December 5,1936, Second Ex.Sess., P.L. (1937) 2897, as amended, 43 P.S. §§ 751-914.
+Patricia Jenkins (Claimant) worked for Employer as a nurse when she was fired in June of 1991 for excessive absences. Claimant filed a claim for benefits which the Office of Employment Security denied on the basis of willful misconduct. Claimant appealed to the referee and a hearing was held. At the hearing, Claimant testified that she had injured her back while at work in 1989 and as a result was unable to work for six or seven months, during which time she collected workmen’s compensation benefits. Claimant also testified that while she did indeed miss work on numerous occasions, she was ill on each and every day she was absent from work. The referee concluded that Claimant was not therefore ineligible for benefits because of willful misconduct under Section 402(e) of the Law, 43 P.S. § 802(e), and stated as follows:
+The claimant testified that the only reason she ever reported off work was due to her personal illness. There was no proof presented by employer that the claimant’s absenteeism was due to any reason other that her personal illness .... The employer has the burden of proof in any case of alleged willful misconduct and in this appeal case, that burden has not been met.
+Decision of Referee at 3.
+Employer appealed this determination to the Board, arguing that Claimant had been guilty of willful misconduct and also contending that Claimant was ineligible for benefits by virtue of Section 401(d) of the Law, 43 P.S. § 801(d), because Claimant was not able and available for suitable work. Section 401(d) provides in pertinent part:
+Compensation shall be payable to any employe who is or becomes unemployed, and who—
+(d)(1) Is able to work and available for suitable work____
+The Board affirmed on the basis of the referee’s decision but failed to address Employer’s argument based on Section 401(d). Appeal to this Court followed.
+Because we conclude that the referee misplaced the burden of proof, a remand is necessary.
+It is undisputed that an employer has the burden of demonstrating willful misconduct for which a claimant has been terminated, Bailey v. Unemployment Compensation Review Board, 142 Pa.Commonwealth Ct. 294, 597 A.2d 241 (1991), and, generally speaking, excessive absences may constitute willful misconduct. See, e.g., Pettey v. Unemployment Compensation Board of Review, 15 Pa.Commonwealth Ct. 157, 325 A.2d 642 (1974). In the instant case, it is clear that Employer established that Claimant had been guilty of excessive absences, and thus, Employer established a prima facie case of willful misconduct.
+Once an employer has met its burden, however, the burden then shifts to the claimant to show good cause as justification for the conduct considered willful. Mulqueen v. Unemployment Compensation Board of Review, 117 Pa.Commonwealth Ct. 517, 543 A.2d 1286 (1988). Thus, while illness is a good cause defense to a charge of willful misconduct due to excessive absenteeism, see, e.g., Green v. Unemployment Compensation Board of Review, 61 Pa.Commonwealth Ct. 231, 433 A.2d 587 (1981), it is incumbent upon the claimant to establish that illness was indeed the cause of her absenteeism, which is an affirmative fact. See Barrett v. Otis Elevator Co., 431 Pa. 446, 246 A.2d 668 (1968) (burden of proof may be placed on party who must prove existence of fact rather than on party who must prove its nonexistence).
+In the instant case, however, the referee, as noted above, stated that “there was no proof presented by the employer that claimant’s absenteeism was due to any reason other than her personal illness.” This statement makes it apparent that, rather than assigning the burden of proving good cause to Claimant, the referee assigned the burden of disproving the good cause defense raised by Claimant to Employer. This constitutes an error of law and necessitates a remand to the Board for a determination in accordance with the proper burdens of proof.
+Prior to relinquishing jurisdiction over this matter, however, we will, in the interest of judicial economy, address Employer’s contention concerning Section 401(d) of the Law, 43 P.S. § 801(d). Employer argues that, if Claimant’s absences were caused by illness, she was not able and available for suitable work and was not therefore eligible for compensation.
+This assertion is based upon a misunderstanding of Section 401(d) which concerns availability for work following termination; in other words, “absences” (meaning a claimant’s unavailability for work because of illness) during weeks for which benefits are claimed. Frey v. Unemployment Compensation Board of Review, 69 Pa.Commonwealth Ct. 405, 451 A.2d 563 (1982). All of the evidence of Claimant’s illness presented before the referee related to the illness of Claimant prior to her termination. There was no showing that Claimant was unavailable for work due to illness following her termination, and therefore Section 401(d)(1) is completely inapplicable to the present case.
+Accordingly, the order of the Board is vacated and this matter is remanded to the Board for a determination of whether Claimant met her burden of showing good cause for her excessive absences.
+ORDER
+NOW, April 28, 1993, the order of the Unemployment Compensation Board of Review in the above-captioned matter is hereby vacated and the case is remanded to the Board for further proceedings consistent with this opinion.
+Jurisdiction relinquished.
+. This matter was previously considered by a panel of this Court and an opinion, authored by Senior Judge Barry, and order was filed on August 19, 1992. The opinion concluded that a remand was necessary in order to allow the Board to consider Employer's argument concerning Section 401(d) of the Law, 43 P.S. § 801(d). The Board filed a petition for reconsideration which we granted by order of October 27, 1992. For the reasons discussed in the opinion that follows, we again conclude that a remand is necessary, although on a different basis.
+. Our scope of review is limited to a determination of whether errors of law have been committed, constitutional violations have occurred or whether the necessary findings of fact are supported by substantial evidence. Section 704 of the Administrative Agency Law, 2 Pa.C.S. § 704.
+
+## Dissent (FRIEDMAN, Judge,)
+
+FRIEDMAN, Judge,
+dissenting.
+The referee in this case correctly stated that the burden of proving willful misconduct is on the Employer, and the Employer attempted to meet that burden by proving that the Claimant was absent from work on a number of occasions. As the majority correctly notes, once the Employer establishes a prima facie case of willftd misconduct, the Claimant, in order to prevail, must prove the existence of good cause; in this case, the Claimant testified that all of her absences were due to illness, a valid defense to a charge of willful misconduct due to excessive absences from work. While the referee’s choice of language in his decision is somewhat less than precise, I believe it is clear that the referee chose to believe the Claimant’s testimony.
+I must note that the Employer here never argued that the referee misplaced the burden of proof in this case. With regard to the question of willful misconduct, the Employer argued (1) absences even due to illness should constitute willful misconduct where the Employer is a hospital, (2) that the Claimant should have taken a leave of absence and (3) that the record contained no substantial evidence to support the referee’s finding that the Claimant was ill on the days she missed work. Because the Employer has not argued to us that the referee misplaced the burden of proof, I believe it is error for the majority to vacate the Board’s order on a matter not presented to us.
+As to the arguments actually presented, I believe that all are meritless. With regard to the question that hospitals should be treated differently from other employers, I must note that the Employer offers no authority for such a novel position. The Employer’s argument that the Claimant should have sought a leave of absence is based upon our decision in Ralston v. Unemployment Compensation Board of Review, 18 Pa.Commonwealth Ct. 378, 336 A.2d 654 (1975). In that case, we held that an employee was guilty of willful misconduct when he failed to follow a work rule which required the employee to seek medical attention whenever he was required to leave the barge while on duty. The Employer failed to prove the existence of such a work rule in the present case. Finally, the Claimant’s own testimony constituted substantial evidence for the referee’s finding that the Claimant was actually ill on the days she missed work.
+I agree with the majority’s disposition of the Employer’s argument concerning Section 401(d). As the Employer’s arguments presented do not require a reversal, I would affirm.
