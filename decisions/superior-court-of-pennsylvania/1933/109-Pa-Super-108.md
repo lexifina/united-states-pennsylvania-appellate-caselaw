@@ -1,0 +1,36 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 284"
+decided: "1933-04-28"
+citations: ["109 Pa. Super. 108"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Cunningham, Baldrige, Stadtfeld, Parker and James, JJ."]
+parties: ["Anna M. & Ella R. Toy, Extrs. v. Robin & City of Philadelphia, Appellant."]
+source_url: "https://static.case.law/pa-super/109/cases/0108-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 967756
+---
+
+# Toy v. Robin
+
+## Majority (Cunningham, J.,)
+
+Opinion by
+Cunningham, J.,
+On February 16, 1927, Anna Toy brought her action to recover damages for personal injuries alleged to have been suffered through the joint negligence of Mike Robin and the City of Philadelphia, when Robin drove his automobile, in which she was riding as a guest, into a hole in the cartway of a city street.
+The death of Mrs. Toy (from, causes unconnected with the accident) occurred during the pendency of the suit and her personal representatives were substituted as plaintiffs.
+The trial resulted in a verdict for plaintiffs against both defendants in the sum of $2,250; the court below granted Robin’s motion for judgment n. o. v. upon the ground of the absence of any evidence of negligence upon his part.
+The city’s motion for judgment n. o. v. was denied, but, under its motion for a new trial, the verdict was reduced by order and remittitur to $1,500, and this appeal is by the city from the judgment entered against it for that amount.
+The only question involved is whether plaintiffs submitted evidence from which a jury could properly and reasonably find that the injuries of Anna M. Toy resulted from the cause alleged in her statement — the dropping of the left wheels of the car into a hole which the city had permitted to exist for an unreasonable period of time in the cartway of one of its streets. In other words, did the learned trial judge, Hututgmau, J., err in refusing the city’s motion for binding instructions ?
+The following excerpt from the opinion of the court below correctly states the circumstances of the accident — subject to the qualification noted. “On December 8, 1926, Mike Robin, one of the defendants, was conducting an installment business, and on the day in question had as a prospective customer the decedent, Anna Toy, in his automobile, which he was driving on Boston Avenue near Kensington Avenue in the City of Philadelphia. Mrs. Toy was in the rear seat of this automobile......their destination being some place of business, so that he could exhibit a rug to her which she desired to purchase. While driving westwardly on Boston Avenue about thirty feet from the intersection of Kensington Avenue in the cartway of Boston Avenue on the north side thereof, the left front and rear wheels of his automobile struck a hole or depression in the street, and Mrs. Toy was thrown to the floor of the automobile and injured. [The city contends the evidence does not warrant the conclusion that the wheels “struck a hole”]. The evidence on the part of the plaintiffs shows that the hole in question was about three feet long, three feet wide and about a foot deep, and on the day in question this hole was filled with snow and slush. Many witnesses were called on behalf of the plaintiffs, who described the hole and the length of time that the dangerous condition of the same existed prior to the date of the accident. Defendants called one witness, a police officer, who stated that the hole did not exist [until about a year after the accident]. It also appears that on December 5, 1926, there had been a snowfall of 4.3 inches, which began on that morning at 6 A. M. and changed to sleet at 5:45 P. M., so that there was an accumulation of snow and sleet, about 4.5 inches, of which 4.3 was snow. On December 8, 1926, there was a slight rain and the rain of the early morning...... froze as it fell, making travel quite slippery. On December 8, 1926, there was still snow in the street around the scene of the accident. At the time of the accident Mrs. Toy was about sixty-two years of age, and the extent of her injuries was detailed by Dr. Lafferty, her attending physician,......but all in all the [original] plaintiff, Anna Toy, was more or less incapacitated for a year after the accident.”
+Photographs, taken January 24, 1927, showed the existence of the hole on that date and discredited the testimony of the police officer.
+Beading the testimony in the light most favorable to plaintiffs, it is clear there was abundant evidence of the existence, and obscured condition, of the hole in the cartway at the point of the accident and of constructive notice to the city that a dangerous condition had there been created through the undermining of a number of the Belgian blocks with which the cart-way was paved. There was also evidence that no other depressions, of sufficient depth or size to have caused the accident, existed in the immediate vicinity.
+Counsel for the city stress the testimony of the defendant, Robin, called by plaintiffs and examined as under cross-examination. He testified Mrs. Toy’s injuries were caused by a “jar” to his automobile as he was proceeding at a rate of about ten miles per hour; that he stopped immediately and got out of the car but could not see what had caused the jar because the cartway was covered with snow.
+We quote from his testimony: “Q. And you ran into what at that time? A. I heard a jar and I couldn’t say what it was, if it was a big rock or a hole or anything like that, because I wasn’t able to see what it was there......Q. Don’t you know that you ran into a hole? A. Afterwards I did...... Q. Do you know to this day what caused the jar? A. I found out afterwards it was a hole in the street. Q. How long afterwards did you go there? A. I think about two or three days...... Well, I could not say that this particular hole did cause the accident. Q. All you know is that you went back there two or three days afterwards and you saw a hole in the street? A. I saw a hole in the street...... Q. You know that where you saw that hole is where you had the bump, do you not? A. Yes.”
+One of Mrs. Toy’s daughters testified that on the day following the accident Robin took her to its scene and directed her attention to the hole. There was no evidence of the presence of a rock, or any object, upon the surface of the cartway at the time of the accident.
+When the testimony is considered as a whole, we think there was sufficient competent evidence from which a jury could reasonably and properly conclude that Mrs. Toy’s injuries were caused by the presence of the hole in the cartway.
+As we read the record, this case does not fall within the line of cases relied upon by counsel for the city; namely, those holding that where a defendant is responsible for only one of several possible causes, and it is equally probable that the accident may have resulted from any of them, there can be no recovery.
+It follows that the City of Philadelphia was not entitled to binding instructions and its assignments must therefore be overruled.
+Judgment affirmed.
