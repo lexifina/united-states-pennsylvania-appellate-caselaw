@@ -1,0 +1,41 @@
+---
+court: "Superior Court of Pennsylvania"
+decided: "1995-04-04"
+citations: ["441 Pa. Super. 110", "656 A.2d 944"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DEL SOLE, FORD ELLIOTT and MONTGOMERY, JJ."]
+parties: ["Ellen K. DETWILER, Appellant, v. Ronald E. BRUMBAUGH and Nancy J. Brumbaugh, Appellees."]
+source_url: "https://static.case.law/pa-super/441/cases/0110-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 717991
+cites_cases: ["281 Pa.Super. 135", "388 Pa.Super. 121", "393 Pa.Super. 339", "412 Pa.Super. 534", "420 Pa.Super. 18", "516 A.2d 440", "529 Pa. 512", "533 Pa. 600", "535 Pa. 619", "617 A.2d 1274", "629 A.2d 1380"]
+---
+
+# Detwiler v. Brumbaugh
+
+## Majority (DEL SOLE, Judge:)
+
+DEL SOLE, Judge:
+The issue before this court is whether Section 4-497 of the Pennsylvania Liquor Code insulates employees of a licensee from liability to third persons when they serve a visibly intoxicated customer. We hold that it does not insulate the licensee’s employee and, therefore, we vacate the trial court’s Order dismissing Appellant’s Complaint.
+Appellant, Ellen K. Detwiler, filed suit against, Appellees, Ronald E. Brumbaugh and Nancy J. Brumbaugh, alleging that she sustained serious injuries as the result of a motor vehicle accident during which her car was struck by a vehicle operated by David Marion Dubbs, an individual who died as a result of the crash and had allegedly consumed alcoholic beverages, just prior to the accident at The Creekside Inn. Appellant claimed that Dubbs was operating his vehicle while under the influence of alcohol and that Appellees were responsible for providing him with the drinks that caused his intoxication. The Complaint averred that Appellees were the owners, managers, and/or proprietors of a corporation known as The Creekside Inn and that the Inn was licensed for the sale and service of alcoholic beverages by the Pennsylvania Liquor Control Board. The corporation was not named as a defendant. The trial court dismissed the action by granting Appellees’ preliminary objections in the nature of a demurrer holding that only licensees could be held liable to third parties for a violation of Pennsylvania’s Dram Shop Act. This appeal followed.
+The standard of review that we apply in determining whether a trial court acted properly in sustaining preliminary objections in the nature of a demurrer has been set forth as follows:
+All material facts set forth in the pleadings as well as all inferences reasonably deducible therefrom are admitted as true for the limited purpose of this review. The question presented by the demurrer is whether, on the facts averred, the law says with certainty that no recovery is possible. Where a doubt exists as to whether a demurrer should be sustained, this doubt should be resolved in favor of overruling it. In reviewing the grant of a demurrer we are not bound by the inferences drawn by the trial court, nor are we bound by its conclusions of law. Furthermore, we will affirm the grant of such a motion only when the moving party’s right to succeed is certain and the case is so free from doubt that further proceedings would clearly be fruitless.
+Foflygen v. R. Zemel, M.D. (P.C.), 420 Pa.Super. 18, 32, 615 A.2d 1345, 1352 (1992), appeal denied 535 Pa. 619, 629 A.2d 1380 (1993) citing Valley Forge Towers v. Roru-Ike F. Ins., 393 Pa.Super. 339, 345, 574 A.2d 641, 644 (1990), aff'd per curiam, 529 Pa. 512, 605 A.2d 798 (1992).
+After careful examination, we conclude that the trial court’s holding that Section 4-497 insulates individual employees of a licensee is an erroneous interpretation of the statute.
+Section 4-497 specifically states that:
+[n]o licensee shall be liable to third persons on account of damages inflicted upon them off of the licensed premises by customers of the licensee unless the customer who inflicts the damages was sold, furnished or given liquor or malt or brewed beverages by the said licensee or his agent, servant or employee when the said customer was visibly intoxicated.
+47 P.S. § 4-497.
+The trial court held that liability to third parties is grounded in this provision and read Section 4-497 .to make only licensees potentially liable to third parties. We disagree. Section 4-497 is clearly a limiting provision designed to specifically shield licensees from liability to third parties except in those instances where the patron served was visibly intoxicated.
+The limiting nature of Section 4-497 was recognized in Reber v. Commonwealth of Pennsylvania Liquor Control Board, 101 Pa.Cmwlth. 397, 516 A.2d 440 (1986), where the Liquor Control Board attempted to shield itself from liability for injuries that resulted to a third person as the result of a liquor sale that was made to a minor. The Board argued that even though it was not a licensee, it was immune from third party liability under Section 4-497. Our sister court, the Commonwealth Court, rejected the Board’s argument and held that Section 4-497 could not insulate the Liquor Control Board from liability when its employees sold alcoholic beverages to a minor. The Court stated, “[b]y its terms, section 497 shelters licensees only.” Reber at 402, 516 A.2d at 443.
+It is clear that Section 4-497 acts as a shield restricting liability instead of a provision defining where it is to apply. As Appellant correctly argues, “[t]his section does not create a cause of action against a licensee but in fact limits the extent of a licensee’s liability.” Accordingly, we hold that the trial court erred in concluding that “civil liability to third persons for a Dram Shop violation is limited to the licensee”. (Trial Court Opinion at page 2).
+Traditionally, liability is established after a finding is made that a duty existed, a breach of that duty occurred and the resulting harm was proximately caused by the breach. Fennell v. Nationwide Mutual Fire Insurance Company, 412 Pa.Super. 534, 603 A.2d 1064 (1992), allocatur denied 533 Pa. 600, 617 A.2d 1274 (1992). Section 4-493 of the Liquor Code sets forth the duties associated with the service of alcohol. It reads, in pertinent part, as follows:
+It shall be unlawful—
+furnishing liquor or malt or brewed beverages to certain persons
+(1) For any licensee ... or any employee, servant or agent of such licensee ... to sell, furnish or give any liquor or malt or brewed beverages, or to permit any liquor or malt or brewed beverages to be sold, furnished or given, to any person visibly intoxicated ...
+47 P.S. § 4-493(1).
+This section clearly imposes a duty on those parties identified to refrain from selling liquor to a visibly intoxicated individual. “A violation of the requirements of this statute is deemed negligence per se, and if the violation is the proximate cause of the plaintiffs injuries, then the defendant is liable.” McDonald v. Marriott Corp., 388 Pa.Super. 121, 564 A.2d 1296, 1298 (1989) citing Couts v. Ghion, 281 Pa.Super. 135, 141, 421 A.2d 1184, 1187 (1980) [additional citations omitted]. Thus, where those on whom a duty has been imposed not to serve visibly intoxicated patrons, breach that duty, those persons may be responsible where their actions are found to be a substantial factor in causing an injury. By imposing potential liability on employees of a licensee who are responsible for making the determination of whether a patron is visibly intoxicated, there is a better chance that patrons will not be served when they should not be served.
+In the present case, Appellant averred in her Complaint that Appellees, personally, or by those who they supervise, violated Section 4-493(1). She further averred that because of Appellees’ actions, she sustained injuries when the car that she was driving was struck by a car that was operated by Mr. Dubbs who had just left the Creekside Inn and was still intoxicated.
+Having reviewed Appellant’s Complaint, we conclude that she has clearly averred sufficient facts that, if proven, would allow for recovery. Therefore, we vacate the trial court’s Order granting Appellees’ preliminary objections in the nature of a demurrer.
+Order vacated.
