@@ -1,0 +1,30 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1381 C.D. 1973"
+decided: "1974-03-06"
+citations: ["12 Pa. Commw. 473"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Ceumlish, Je., Wilkinson, Je., and Mencee, sitting as a panel of three."]
+parties: ["H. W. VanHorn and Aetna Insurance Company, Appellants, v. Workmen’s Compensation Appeal Board and Peter Scrip, Appellees."]
+source_url: "https://static.case.law/pa-commw/12/cases/0473-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1858288
+cites_cases: ["138 A. 2d 251", "185 Pa. Superior Ct. 540", "204 Pa. Superior Ct. 465", "205 A. 2d 624", "281 A. 2d 172", "3 Pa. Commonwealth Ct. 168", "308 A. 2d 633", "309 A. 2d 172", "9 Pa. Commonwealth Ct. 546", "9 Pa. Commonwealth Ct. 612"]
+---
+
+# VanHorn v. Workmen's Compensation Appeal Board
+
+## Majority (Judge Wilkinson,)
+
+Opinion by
+Judge Wilkinson,
+Claimant-appellee suffered a compensable injury while in the course of his employment with the appellant on April 17, 1969. Pursuant to an agreement, compensation for total disability was paid to claimantappellee at the rate of $60.00 per week. On March 23, 1972, the appellant filed a petition for modification of the compensation agreement, alleging that claimant-appellee’s claim for compensation is limited to a claim for loss of use of the right leg in accordance with Section 306(c) of The Pennsylvania Workmen’s Compensation Act, Act of June 2, 1915, P. L. 736, as amended, 77 P.S. §513. Claimant-appellee filed an answer, alleging that he is still totally disabled under Section 306 (a) of The Pennsylvania Workmen’s Compensation Act, 77 P.S. §511, and that there has been no change in his disability justifying modification of the compensation agreement. Following a hearing, the referee dismissed appellant’s petition to modify upon finding that the claimant-appellee “has not lost the use of the right leg for all practical intents and purposes and continues to remain totally disabled.” The Workmen’s Compensation Appeal Board affirmed the referee’s decision and this appeal followed.
+“Clearly, on a petition to modify filed by an enir ployer, the burden is on the employer to prove that the claimant’s disability is no longer total.” Borough of Catawissa v. Shultz, 9 Pa. Commonwealth Ct. 546, 547, 548, 308 A. 2d 633, 634 (1973). “The party seeking to modify a compensation agreement has the burden of establishing the allegations upon which he relies. Where, as here, the decision of the [compensation authorities] is against the party having the burden of proof, the question on appellate review is whether the findings of fact are consistent with each other and with the [compensation authorities’] conclusion of law and its order and can be sustained without a capricious disregard of competent evidence.” Wilkes-Barre Iron & Wire Works, Inc. v. Workmen’s Compensation Appeal Board and Meyers, 9 Pa. Commonwealth Ct. 612, 614, 309 A. 2d 172, 173 (1973).
+A review of the record discloses that the evidence does not support the appellant’s contention that the compensation authorities capriciously disregarded competent evidence in making its findings. Dr. Victor F. Greco testified as a witness for the claimant-appellee as follows: “Q. Are you able to tell us, with reasonable medical certainty, whether or not Mr. Scrip has lost the use of that right leg for all practical intents and purposes? A. No, no. Obviously, he’s still able to get along with it. He can walk with it. It gives him balance when he stands. He’s able to do ordinary chores around the house, things of this sort, so that, obviously, he has not lost the use of his leg for all intents and purposes.” Although claimant’s two medical experts answered the above question in the affirmative, it is for the compensation authorities to resolve conflicting testimony, including that of medical witnesses. Scott and Statesman Insurance Company v. DeAngelis, 3 Pa. Commonwealth Ct. 168, 281 A. 2d 172 (1971).
+Appellant further claims that the compensation authorities committed an error of law in failing to follow Groncki v. Allegheny Pittsburgh Coal Company, 204 Pa. Superior Ct. 465, 468, 205 A. 2d 624, 626 (1964), wherein it was stated: “Where an employe has lost the use of a leg as the result of a compensable accident, he is not entitled to additional compensation for total disability under Section 306(a) of the Act unless the injury extends beyond the leg.” (Emphasis added.) The above principle of law is inapposite here. Inasmuch as the compensation authorities found that the claimantappellee did not lose the use of his leg, there was no need by the compensation authorities to find an injury extending beyond the leg in order to find total disability.
+While at first the findings of the referee and the Board may seem incongruous in that the claimant-appellant was found to have not lost the use of his right leg but was found to be totally disabled, such a finding fulfills the requirements of Sections 306(a) and (c). As noted by Judge Woodside in Curran v. Walter E. Knipe and Sons, Inc., 185 Pa. Superior Ct. 540, 138 A. 2d 251 (1958), the capacity to work is involved under Section 306(a) which concerns total disability but not under Section 806(c) which con-corns specific permanent injuries. “It is possible for one to be totally disabled by a leg injury, and still not have suffered the permanent loss of use of the leg. It is also possible to have suffered the permanent loss of use of the leg and not be totally disabled.” 185 Pa. Superior Ct. at 544, 138 A. 2d at 254.
+Accordingly, we enter the following
+Order
+Now, March 6, 1974, the award of the Workmen’s Compensation Appeal Board, dated September 27, 1973, is affirmed and the appellant is ordered to continue to pay compensation for total disability to the claimantappellee, at the rate of §60.00 per week for the indefinite future, within the limitations of The Pennsylvania Workmen’s Compensation Act.
