@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 127"
+decided: "1900-11-19"
+citations: ["15 Pa. Super. 350"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["•Before Rice, P. J., Beaver, Orlady, W. W. Porter and 'W« D. Porter, JJ."]
+parties: ["Dix v. Railway Company."]
+source_url: "https://static.case.law/pa-super/15/cases/0350-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 829606
+cites_cases: ["13 Pa. Superior Ct. 17", "13 Pa. Superior Ct. 354", "13 Pa. Superior Ct. 630", "14 Pa. Superior Ct. 594", "141 Pa. 615", "153 Pa. 105", "153 Pa. 29", "153 Pa. 31", "155 Pa. 279", "171 Pa. 522", "181 Pa. 276", "184 Pa. 425", "186 Pa. 193", "194 Pa. 564", "7 Pa. Superior Ct. 318", "74 Pa. 218"]
+---
+
+# Dix v. Railway Co.
+
+## Majority (Orlady, J.,)
+
+Opinion by
+Orlady, J.,
+On the trial of this case the defendant did not offer any evidence, but requested the court to instruct the jury that under all the evidence the verdict should be for the defendant. This was refused and the case was submitted to the jury, who returned a verdict in favor of the plaintiff. It is not necessary to refer to the alleged negligence of the defendant, as the plaintiff’s contributory negligence is so clearly established by his own testimony that the judgment must be reversed. The plaintiff testified to all the facts leading up to the accident in an exceptionally frank and intelligent manner. He had been driving team for seven or eight years and was familiar with street railways, and with Arch street which was occupied by two street car tracks placed quite close together so that there was barely room for ears to pass each other, and permit a man to stand in safety between the tracks. In clear daylight, when seated on the right-hand side of a covered wagon, he was driving a double team of horses on the west-bound track on Arch street. After passing Eighth street, the near horse dropped a shoe which was left lying close to the north rail of the track he occupied. On account of there being so many wagons on the street he drove onward about half way up the block and pulled out from the track toward the pavement, where he stopped his team, alighted from the wagon, crossed over to the space between the tracks, and walked eastward in that space, a distance of about twenty-five yards, to where the shoe was lying. He states that when he left his wagon he did not see any car coming on the eastbound track, and then walked eastward with his back to the west. He did not look around once, and when in the act of picking up the shoe he was struck by a moving car on the eastbound track. When he stopped his wagon, he was at the edge of the pavement, along which he could have passed in safety to a point opposite to where the shoe was lying, near the north rail of the west-bound track. Without once looking for a car on this busy thoroughfare, he elected to walk for twenty-five yards in a dangerous space, not intended for nor used by pedestrians. In so doing he ignored the unchanging rule that is to be observed at all times when a traveler is likely to come in conflict with a trolley or steam car. If he had been attempting to cross the track he would have been bound to look for the approaching car as an imperative duty, and if the street was obstructed, to listen, and in some situations to stop. He would be held to have seen that which was obvious: Kline v. Electric Traction Co., 181 Pa. 276; Callahan v. Traction Co., 184 Pa. 425; Watkins v. Traction Co., 194 Pa. 564; McCauley v. Traction Co., 13 Pa. Superior Ct. 354. He was not a pedestrian on the street, in the ordinary sense, as he was neither crossing the street nor using the tracks in common with the defendant company.
+He was not on the east-bound track, and he states, that the space between the tracks was sufficiently wide to allow a larger person than he was to stand therein in safety. He was not in a proper place on the street, and he recklessly exposed himself in this narrow space when he knew that cars were very frequently passing in each direction. If he had looked backward after entering upon this space he could and would have seen the car which struck him, whether it came from beyond, or entered upon Arch street from an intersecting street. His witness, Andrews, saw it as it passed the wagon, a distance of twenty-five yards from the place of the accident. The time required to cross a track at right angles is obviously much less than consumed in walking the distance mentioned by the plaintiff, and his duty to observe ordinary care was increased by his selected place of peril. He ignored the plain dictates of common prudence and under authority of Collins v. Traction Co., 7 Pa. Superior Ct. 318, McCauley v. Traction Co., 13 Pa. Superior Ct. 354, Gilmartin v. Lackawanna Transit Co., 186 Pa. 193, and Warner v. Peoples’ Pass. Ry. Co., 141 Pa. 615, the court should have directed a verdict for the defendant.
+The judgment is reversed.
