@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 243"
+decided: "1934-07-13"
+citations: ["113 Pa. Super. 235"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexeer, P. J., Ket.t.er, Cunningham, Baldrige, Stabteeld, Parker' and James, JJ."]
+parties: ["Graham v. Kimmel Drilling Co. et al."]
+source_url: "https://static.case.law/pa-super/113/cases/0235-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 974470
+cites_cases: ["96 Pa. Superior Ct. 336"]
+---
+
+# Graham v. Kimmel Drilling Co.
+
+## Majority (James, J.,)
+
+Opinion by
+James, J.,
+The question presented for our consideration in this ease is whether the conclusion of the referee, the compensation board and the court that the claimant is within the protection of the compensation act is supported by the evidence.
+The referee found the following facts: “First: That the claimant, John H. Graham, suffered two injuries in January, 1932 while at work in the employ of the Kimmel Drilling Company on the company’s lease in Somerset County, Pennsylvania: That the claimant, during the first week of January, sustained a fall by slipping on the floor, going down and striking his left side: That he continued to work until January 4th when he laid off work until January 11th: That on January 22nd he suffered a second fall backwards over a casing wagon but is unable to say what part of his body he struck in said fall: That neither of the falls resulted in apparent bruises: That on the 23rd of January, the day following the second injury, the claimant went to a doctor who found him sore in the abdominal region and in the back: That on January 26th he was ordered to the hospital:. That pleurisy developed and the claimant was totally disabled from January 22, 1932 to August 1, 1932, following which date he could have performed light work.”
+Appellant’s complaint is that the referee failed to find which accident, if any, was responsible for claimant’s disability; that he has further failed to find that the pleurisy which developed was the result of either fall, and that there was no competent evidence upon which it could be concluded that the disability was the result of either or both falls.
+The evidence of the claimant, which was uncontradicted, clearly established that he did suffer an accident on both January 4th and January 22nd. Under this state of facts it was not necessary to establish which accident was the cause of his condition if it could be attributed to either or to both as both accidents happened in the course of his employment for the same employer. The finding of the referee clearly indicated that the pleurisy developed as the result of the injury.
+Whether the disability was the result of the injury must be determined from the uncontradicted medical testimony offered by the claimant. This testimony disclosed that from the history as given by the claimant, although formerly suffering from indigestion, at the time of the accident he was in good health; that such falls as suffered by claimant, while not a frequent cause are a common cause of pleurisy; that he was examined thoroughly and no other cause could be found for pleurisy but the falls, although he was unable to state which fall caused the pleurisy; that he had his sputum examined for any germs and there were no consumptive germs in his sputum or anything that could cause it from that standpoint, and that several x-ray examinations were made to determine the cause. The doctor further testified as follows: “Q. From your knowledge as the physician of Mr. Graham, and from the examinations that you made, which you have testified to, and the other observations that you may have made of this man, can you give a positive opinion as to the cause of the pleurisy? A. The only thing I could give was the history of trauma or fall, and the fluid, that is the only relation I could find in this man’s history......Q. It is your professional opinion, Doctor, that this did come from the fall? A. I could only answer it that way. Q. Taking into consideration all those attending circumstances, the history of the fall together with what you found, is it your professional opinion that this condition did come from the fall? A. By excluding all other possibilities, the fall had something to do with it. Q. You think that was the most probable cause? A. The most probable cause and I gave him a thorough painstaking examination to find out any other trouble.” Appellant argues that the language of the physician “most probable cause” destroys the effect of his previous opinion that he could account for the pleurisy in no other way than that it was attributable to the fall. Standing alone such language would not be sufficient to establish the causal relation, but taken in conjunction with the remaining portion of his answer “and I gave him a thorough painstaking examination to find out any other trouble,” as well as his previous answer that the pleurisy did come from the fall, we believe the opinion of the doctor to have been sufficiently positive and specific to have warranted the referee in his conclusion. A fair analysis of the doctor’s testimony clearly establishes that in his opinion the pleurisy was caused by a fall.
+Appellant relies upon Varner v. Lorain Steel Co., 96 Pa. Superior Ct. 336, 338, which we do not believe to be controlling as the medical testimony relied upon was “that the lifting could be a probable cause.” Testimony was offered before the referee as to hospital and medical expenses, concerning which we find no reasonable ground for dispute. The hospital bill for $32 was agreed upon and the doctor testified that his bill was either $70 or $75, which expenses, although not itemized, are included in the award.
+Judgment affirmed.
