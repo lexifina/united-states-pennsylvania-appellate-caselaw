@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 212"
+decided: "1937-11-18"
+citations: ["129 Pa. Super. 121"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Stadtfeld, Parker, James and Rhodes, JJ."]
+parties: ["Iaquinto v. Notarfrancesco, Appellant."]
+source_url: "https://static.case.law/pa-super/129/cases/0121-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1004391
+cites_cases: ["120 Pa. Superior Ct. 285", "146 A. 428", "171 A. 607", "182 A. 120", "314 Pa. 375"]
+---
+
+# Iaquinto v. Notarfrancesco
+
+## Majority (Stadteeld, J.,)
+
+Opinion by
+Stadteeld, J.,
+This was an action in trespass to recover damages for personal injuries sustained by plaintiff in entering the automobile of defendant. The case was tried before the court and a jury and resulted in a verdict for plaintiff in the sum of $500. Binding instructions for defendant were refused and motion for judgment non obstante veredicto overruled in an opinion by Alessandroni, J. This appeal followed.
+The facts are correctly stated in the opinion of the court below from which we quote as follows: “The testimony discloses that the plaintiff was visiting the home of a Mend in the 4100 block Kellerman Street in the City of Philadelphia and that the defendant and his wife were also guests at the same place on that occasion, to wit, on February 12, 1936. At one or two o’clock in the morning they left the home of their friend and the defendant offered to drive the plaintiff and her escort home. It was a dark night and the grass plot between the sidewalk and the curb was covered with ice and very slippery. The defendant unlocked the car and opened the front door and the rear door of the automobile. He helped his wife into the front seat and invited Miss Iaquinto to step into the rear of his automobile. In order to support herself on the slippery footing she placed her right hand on the post between the two doors, and as she was stepping into the car the defendant slammed the front door shut, the flange of the front door catching the little finger of the plaintiff’s hand so tightly as to crush the bones. It was necessary to reopen the front door to release her injured finger. It appears that the defendant’s invitation to the plaintiff to get into the car almost immediately preceded the slamming of the front door by the defendant.”
+On a motion for judgment n. o. v. the testimony must be considered in a light most favorable to the plaintiff, and she is entitled to every inference of fact fairly deducible from the evidence: Ford v. Reinoehl, 120 Pa. Superior Ct. 285, 182 A. 120; Christ v. Hill Metal & Roofing Co., 314 Pa. 375, 171 A. 607.
+The defendant was called for cross-examination and described the kind of automobile, the position of the doors and the position of the hinges as follows: “Q. About February 12, 1936, you were the owner of a Ford automobile? A. That’s right. Q. What kind of an automobile was it? A. A four-door V-8 Ford. Q. Where were the hinges of the front door, toward the entrance or toward the rear? A. Toward the rear. Q. Where were the hinges on the rear door? A. Toward the rear. Q. What model was this? A. A 1934 Ford. Q. On the front door of your Ford, there was a flange at the rear end of the door that covered the crack of the door, when it was closed, to prevent rain coming in? A. All doors that [have] that. Q. The hinges stood out from the side about an inch and a half? A. That’s right. Q. So that when the door is opened, it swings away from there? A. That’s right.”
+The plaintiff testified as to the happening of the accident, as follows: “Q. And you had your finger in the crack between the door and the post, did you not? A. No, I didn’t, I put my hand flat up against the post. Q. Did not your finger extend into the space between where the door was open and the post? A. No, sir. Q. Then how did you get hurt? A. I put my hand up against the post, to step into the car, to keep myself from slipping. Q. You were standing on the curb, do you mean to say that when you stepped forward you were slipping, and you put out your hand and grabbed something? A. No, I didn’t slip. Q. You were standing there and you put your right hand on this center post, did you not? A. That’s right. Q. At that time the door was partly open? A. Yes, sir. Q. It was dark there was it not, there were no lights on the automobile, were there? A. No, sir......A. To prevent myself from slipping, I put my hand on the post between the front door and the rear door, and before I knew it the door was shut on my finger.”
+The case clearly presented a question of fact for the jury as to the defendant’s negligence and the plaintiff’s contributory negligence. It was submitted to the jury in a charge no portion of which is assigned as error. The only assignments relate to the refusal of request for binding instructions and overruling motion for judgment non obstante veredicto. There is ample evidence to sustain the jury’s findings that the defendant was negligent and that the plaintiff was free from contributory negligence.
+In Alban v. Sommer, 146 A. 428, it was held by the Supreme Court of New Jersey, that the negligence of the defendant and the contributory negligence of a guest in an automobile with respect to injuries to the guest’s hand caught in the door of the automobile was for the jury. The admitted facts there were that the plaintiff was invited to ride as a passenger in defendant’s automobile. Entering the automobile, the plaintiff in taking his place on the seat, took hold of the frame work of the open door or of the jamb and while he was in the act of seating himself, the defendant shut the door on his hand. The court said at p. 428: “It would be quite reasonable for the jury to say that the operator of a car should reasonably anticipate that a passenger would support himself in this way while taking his seat and that the passenger would fairly be entitled to expect the door would not be closed until the driver of the car had seen him safely seated.”
+We find no error which would warrant a reversal of the judgment.
+Judgment affirmed.
