@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 178"
+decided: "1897-12-13"
+citations: ["6 Pa. Super. 195"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Bice, P. J\\, Wickham, Beaver, Beeder, Orlady, Smith and Porter, JJ."]
+parties: ["Wm. P. Gray, now to the use of Thomas H. Gray, v. Henry F. Hartman, Appellant."]
+source_url: "https://static.case.law/pa-super/6/cases/0195-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 281916
+cites_cases: ["149 Pa. 232", "149 Pa. 282", "150 Pa. 611", "53 Pa. 490", "6 W. & S. 285", "8 Watts, 447"]
+---
+
+# Gray ex rel. Gray v. Hartman
+
+## Majority (Beaver, J.,)
+
+Opinion by
+Beaver, J.,
+Sixteen of the assignments of error in this case relate to exceptions taken to the examination of one Bachman, a witness called by the plaintiff, or to the testimony of witnesses called to contradict him. They raise but a single question: Can a party who has called a witness lay the ground for contradicting him by a cross-examination and subsequently contradict him by other witnesses, when he has been misled as to what the witness will testify by a preliminary examination ?
+The general rule upon the subject is thus stated in Greenleaf on Evidence, vol. 1, sec. 442: “When a party offers a witness in proof of his cause, he thereby in general represents him as worthy of belief. He is presumed to know the character of the witnesses he adduces; and, having thus presented them to the court, the law will not permit the party afterwards to impeach their general reputation for truth or to impugn their credibility by general evidence tending to show them to be unworthy of belief.” “ Whether it be competent for a party to prove that a witness whom he has called and whose testimony is unfavorable to his cause had previously stated the facts in a different manner, is a question upon which there exists some diversity of opinion. . . . But the weight of authority seems in favor of admitting the party to show that the evidence has taken him by surprise and is contrary to the examination of the witness preparatory to the trial or to what the party had reason to believe he would testify, or that the witness has recently been brought under the influence of the other party and has deceived the party calling him.”
+The allegation in this case is that the testimony of the witness was not only contrary to his examination preparatory to the trial but that he had been brought under the influence of the opposite party.
+The authorities in Pennsylvania very clearly sustain the right of the party calling a witness under such circumstances to cross-examine him, for the purpose of showing that he had made statements different from those to which he testifies on the stand on a previous occasion, not, it is true, for the purpose of making his previous statements substantive evidence of the facts therein stated, but in order to neutralize the evidence given by the witness.
+This rule is clearly recognized in McNerney v. Reading, 150 Pa. 611, in which Mr. Justice MoColltjm, delivering the opinion of the court, says: “ It is apparent that Boyer was an unwilling witness and that his evidence was a surprise to the appellee who called him to the stand. It was proper, therefore, for the learned trial judge, in the exercise of the sound discretion'which the law allows him in such cases, to permit a cross-examination of the witness by the party calling him, to show that his previous statements and conduct were at variance with his testimony.”
+The present Chief Justice, in Fisher v. Hart, 149 Pa. 282, distinctly recognizes the rule and the exceptions thereto which he says “were fully considered by Mr. Justice Thompson in Stearns v. Merchants’ Bank, 53 Pa. 490,” in which latter case the authorities upon the subject are very fully commented upon, and the reasons for the exceptions to the general rule fairly and as we believe soundly laid down.
+The facts of the present case warranted the court below, in the exercise of the sound discretion which the law allows in such cases, in permitting the cross-examination of the witness Bachman by the party calling him, and also in showing that his previous statements were at variance with his testimony.
+This is not the case of Fisher v. Hart, supra, where the witness testified to nothing prejudicial to the plaintiff, and where it did not appear that he manifested any bias. His answers were “ I don’t remember.’’ In this case, the witness Bachman was important. His testimony was directly contradictory to that of the plaintiff; and, if the plaintiff’s witnesses were to be believed* the very opposite of what he had stated in the preliminary examination, when the case was being prepared for trial. The parts of his testimony to which exception was taken and which constitute the first three assignments of error, are not fairly representative of its vital character and its far-reaching influence in determining the plaintiff’s case.
+The seventeenth assignment relates to the following portion of the charge of the trial judge in the court below: “There is another principle of law, which I deem it my duty to give to you, with reference to the weight and preponderance of the testimony. It is your duty, gentlemen of the jury, to carefully scrutinize and dispassionately weigh the evidence of all the witnesses in the case, and to give proper credit to the evidence of each and all of the witnesses and, if possible, to reconcile all the evidence in the case with the presumption that each witness has intended to speak the truth, unless, by their manner of testifying on the witness stand or inconsistent statements sworn to, or by testimony inconsistent with other credible witnesses in the case, you are led to believe, from a manifestation of influence, bias or prejudice, that such witness or witnesses have been inclined to cover, distort or suppress the truth, or unless they have been impeached. It is your duty to carefully scrutinize the testimony, as it has been given upon the stand, in order to arrive at the truth of the matters in dispute at issue between the parties.” This is a general statement proper to be made in every case where there is conflicting or contradictory oral testimony.
+The case seems to have been carefully and fairly tried and we see no reason to disturb the judgment. It is, therefore, affirmed.
