@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 346"
+decided: "1916-04-17"
+citations: ["63 Pa. Super. 82"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Henderson, Kephart, Trexler and Williams, JJ."]
+parties: ["Lewis, Appellant, v. Lewis."]
+source_url: "https://static.case.law/pa-super/63/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 456996
+cites_cases: ["27 Pa. Superior Ct. 328", "38 Pa. Superior Ct. 551", "45 Pa. Superior Ct. 332", "57 Pa. Superior Ct. 424"]
+---
+
+# Lewis v. Lewis
+
+## Majority (Orlady, P. J.,)
+
+Opinion by
+Orlady, P. J.,
+The libellant sets out two' causes for his divorce — indignities to his person, etc., and cruel and barbarous treatment. The master to whom the case was referred, recommended that the libel be dismissed. Forty-four exceptions were filed thereto; after a hearing, they were overruled, and the report approved by the court for the reasons stated by the master. Forty-seven assignments are presented for our consideration, in a paper book of 300 pages, with the testimony covering over 1,000 additional pages. The master reports a painstaking analysis of the testimony, which we have carefully reviewed and concur in his conclusions of fact.
+The early years of the married life of these parties were all that could be desired, and it is extremely difficult to trace the present unfortunate situation to its reliable source. It is apparent that, the libellant has very largely magnified many of the items on which he relies, and places as much stress on trifling incidents of many years ago as on more serious ones preceding their actual separation. The spirit inducing the continuing nagging and domestic differences seems to be fairly divided between the parties. The attempt to have the wife detained in an asylum; the studied record of petty incidents in a diary for.a number of years; the arrangement to have telephone conversations between the husband and wife overheard through an extension ’phone by his attorney, and record kept of such private talks as are generally regarded as sacred; the voluminous testimony taken in regard to’ many insignificant instances, and the inexcusable and useless repetition of trivial daily events, indicate clearly that the libellant is abnormally sensitive in regard to criticism, and in a number of instances it is as clearly shown that his own conduct, by chance or design, was the moving cause of the trouble. Matters that werg manifestly immaterial and irrelevant are urged without regard to any rule of evidence, and, but serve to complicate a situation that is sufficiently confused with its simplest facts.
+The parties were married in 1895, and lived together until 1913; during that period, if the special causes urged were considered by the libellant as of the importance and gravity he now seeks to ascribe to them, the separation would have taken place á number of years earlier. These facts taken in connection with the absolute denial by the respondent; corroborated as she is by the testimony of some of his witnesses, and eight of her own, in showing that some of the facts on which he relies never occurred, or were distorted through designed or unwarranted deductions; or, so negative in character and so unimportant in effect, as to justify the master in his conclusions, that the allegations in the libel were not sustained, and the-libellant’s alleged wrongs were largely imaginary. It must be conceded that each was a very unhappy person,, and that each unnecessarily added to the mental discomfort of the other. It is not important that we should further review the testimony. “We can exercise no sound judgment in such cases, without studying the acts complained of in their connection with the character of the parties, and indignities provoked by the complaining parties are of course no ground for divorce, unless when the retaliation is excessive: Aikins v. Aikins, 57 Pa. Superior Ct. 424.”
+We said in Yetter v. Yetter, 45 Pa. Superior Ct. 332, “No gauge has yet been set by which the patience or endurance of a man or woman can be measured under such trying conditions,” and while we feel that the conduct of neither was justifiable, we cannot classify the responsibility to entitle the libellant to a decree. The law applicable to such cases has been so frequently announced by this court, that reference need only be made to Platt v. Platt, 38 Pa. Superior Ct. 551; Fay v. Fay, 27 Pa. Superior Ct. 328, in which we said, “It is important to notice that ‘indignities to the person,’ and ‘cruel and barbarous treatment’ are two distinct causes of divorces, and that in the legislation upon the latter a distinction is made between the case where the wife, and the case where the husband, is the complaining party. In the former,' the language of the statute is: When any husband shall have by cruel and barbarous treatment, endangered his wife’s life; Act of March 13,1815, 6 Sm. L. 286. In the latter, the language is: When the wife shall have, by cruel and barbarous treatment rendered the condition of her husband intolerable or life burdensome: Act of May 8,1854, P. L. 644; Act of May 22,1895, P. L. 309. This distinction has been recognized by the decisions as substantial.
+The assignments are overruled, and the decree is affirmed.
