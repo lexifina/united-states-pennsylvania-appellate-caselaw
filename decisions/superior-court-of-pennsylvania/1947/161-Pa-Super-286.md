@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 70"
+decided: "1947-07-17"
+citations: ["161 Pa. Super. 286"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, Ross and Arnold, JJ."]
+parties: ["Commonwealth ex rel. DeGosz v. DeGosz, Appellant."]
+source_url: "https://static.case.law/pa-super/161/cases/0286-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 461251
+cites_cases: ["154 Pa. Superior Ct. 481", "155 Pa. Superior Ct. 393", "156 Pa. Superior Ct. 632", "160 Pa. Superior Ct. 263", "325 U. S. 279", "348 Pa. 455", "35 A. 2d 335", "36 A. 2d 235", "38 A. 2d 730", "41 A. 2d 752", "50 A. 2d 739"]
+---
+
+# Commonwealth ex rel. DeGosz v. DeGosz
+
+## Majority (Reno, J.,)
+
+Opinion by
+Reno, J.,
+This is an appeal from an order of the court below dismissing appellant’s petition to vacate an order for the support of his wife upon his claim that a Nevada divorce had released him from his marital obligations.
+The case falls naturally into the factual groove of, and is doctrinally governed by, the cases recently decided by this and the Supreme Court. Com. ex rel. Esenwein v. Esenwein, 348 Pa. 455, 35 A. 2d 335, affirmed 325 U. S. 279, 65 S. Ct. 1118; Com. ex rel. Saunders v. Saunders, 155 Pa. Superior Ct. 393, 38 A. 2d 730; Com. ex rel. Meth v. Meth, 156 Pa. Superior Ct. 632, 41 A. 2d 752; Melnick v. Melnick, 154 Pa. Superior Ct. 481, 36 A. 2d 235; Com. ex rel. Barker v. Barker, 160 Pa. Superior Ct. 263, 50 A. 2d 739. It is not necessary that the principles of those cases be restated or amplified.
+In support of his petition, appellant introduced in evidence the • decree of the Nevada court, and thereby established prima facie his right to a vacation of the order. Com. ex rel. Esenwein v. Esenwein, supra. He testified also that his residence was in Eeno, Nevada, and that he was “going back”. His cross-examination, the testimony of his wife, and the record of the support proceedings supplied further facts, and upon them the court below based its finding that his prima facie case had been overcome by the countervailing evidence.
+The parties were next-door neighbors and when, on August 31,1941, they were married, they moved into the house where the husband and his mother were living. They were both employed, and his demand that she should assist his mother to iron her household laundry, in addition to washing and ironing her own, precipitated a quarrel in which he threw her clothing at her and told her to leave the house. She returned to her former home, and unsuccessfully tried to induce him to set up a separate household in apartments which she had searched for and found. When her pregnancy was in its final stages she applied to the domestic relations court for a support order, and on December 30, 1942, was awarded $20 per week, which after the birth of the child was, on June 9,1943, increased to $25 per week. He was also ordered to pay the medical and hospital bills.
+Further court proceedings followed. On November 1, 1943, he was before the court in attachment proceedings; on September 26, 1944, his petition to reduce the order because of decreased earnings was allowed and the award fixed at $22 per week; on November 16, 1944, in another attachment proceeding he was ordered to pay the $22 per week and $3 per week upon the arrears; on January 30,1945, in still another attachment proceeding he was ordered to pay $25 at once and $100 within a week upon the arrears; and on February 27, 1945, he was committed “to the House of Correction for sixty days to pay $100.” On April 18, 1946, under a warrant of seizure an account in the Ezepski Bank was attached and made available for the arrears. When the final attachment proceeding was called for hearing on July 26, 1945, the court reported: “There is a telegram in this case stating that the husband is in Eeno.”
+Meanwhile, on May 18, 1943, he had instituted an action of divorce in Philadelphia. This case remains pending and undecided. About the same time he commenced a suit in equity for a decree dividing the joint account in the Ezepski Bank which comprised his and his wife’s earnings, and Judge Finletter dismissed his bill of complaint on March 7, 1944. So, as stated, by July 26, 1945, and before, he was in Eeno, and the purpose of his going, in view of all that had transpired, cannot be the subject of conjecture. He was speedily followed by an injunction issued by the court in which his divorce proceeding was pending restraining him from seeking a Eeno divorce. Nevertheless, he filed his petition in the Nevada court and on September 20,1945, his wife not having appeared in response to the writ served upon her in Philadelphia, he was awarded a decree upon the ground “that for more than three consecutive years immediately preceding the commencement of this action the plaintiff and defendant have lived separate and apart and without cohabitation.”
+In May, 1946, according to Ms wife’s testimony, or “about Sunday before Labor Day” of September 1946, according to his version, he was back in Philadelphia. Before coming to Philadelphia he spent a month with a cousin on his farm in Long Island. He claimed he had voted in Reno, had a room there for which he had paid rent from July to the end of September, 1946, and would return there. He testified that he “had a job at Reno that I can go hack to”, but was then on a leave of absence : “A. The fellow [his employer] let me go as long as I want to, until I come back.” Before leaving Philadelphia he secured a leave of absence of six months from his employer, the Midvale Company, because: “My nerves were bad and I went out for my nerves.”
+This brief and uncolored recital of the bare facts convinces us, as it did the court below, that appellant left Pennsylvania for the purpose of securing a divorce in Nevada without intent to establish a permanent bona fide residence in that state, that in fact he did not establish a domicile in that state, and consequently, under the cited decisions, the courts of Pennsylvania are not, in the circumstances, required to give full faith and credit to his divorce.
+Order affirmed.
+We mention the injunction proceeding ás a part of the narrative without intending to rule upon its legal effect upon the Reno divorce which he subsequently procured.
