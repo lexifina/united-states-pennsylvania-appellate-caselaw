@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 8"
+decided: "1927-07-08"
+citations: ["91 Pa. Super. 157"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, P. J., Henderson, Trexler, Keller, Linn, Gawthrop and Cunningham, JJ."]
+parties: ["Yonker v. Vaneer, Appellant."]
+source_url: "https://static.case.law/pa-super/91/cases/0157-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 674168
+cites_cases: ["110 Pa. 204", "148 Pa. 234", "170 Pa. 545", "175 Pa. 586", "282 Pa. 212", "63 Pa. Superior Ct. 16", "78 Pa. 141", "85 Pa. 283", "99 Pa. 47"]
+---
+
+# Yonker v. Vaneer
+
+## Majority ((xawthrof, J.,)
+
+Opinion by
+(xawthrof, J.,
+Defendant has appealed from a judgment entered against him on a verdict in an action of replevin brought in the court below for the recovery of three horses and a set of hand made work harness and two halters and one collar, which it is admitted plaintiff had given to defendant in trade or exchange for a tractor, a gray mare, a note for $50 and $10 in cash. Defendant filed a counter bond and retained possession of the property, which the jury found to be worth $905 to plaintiff. The jury was warranted in finding under the evidence that on August 18, 1925, defendant persuaded plaintiff to trade the above mentioned property to him for a tractor and a gray mare and $10 in cash and a note of the "defendant for $50; that at the opening of negotiations plaintiff told defendant of the purpose for which he desired the tractor and that he did not “know anything about” a tractor; that at the time and immediately before' the trade was effected, defendant represented to plaintiff that the tractor was “in A-l shape,” would haul as many logs in a day as three teams could haul and would pull more at one time than plaintiff’s four horses could pull, and said, that if the tractor would not haul six logs the size of those then a)nd there designated that he, defendant, would give plaintiff the tractor; that the representations made by defendant as to its condition and fitness to do the work for which plaintiff acquired it were false and fraudulent; that the tractor was of little or no value; and that on August 22, 1925, plaintiff delivered the note for $50 and $10 in cash to defendant, offered to return the tractor and mare to him and demanded a re-delivery of the horses and harness, but that the latter would not agree to the re-exchange.
+The first proposition urged by appellant is that the court below should have affirmed his point for binding instructions in his favor, because the action of replevin was not maintainable for the reason that plaintiff had no general or special property, with the right to immediate possession, in the property sought to be recovered. The contention is not sound. It is well settled that a contract induced by fraud is voidable and in the case of a sale and delivery of goods induced by the fraud of the vendee, the vendor may rescind and sue in replevin in disaffirmance of the contract. (Neff v. Landis, 110 Pa. 204; Cincinnati Cooperage v. Gaul, 170 Pa. 545.) But even in the absence of fraud “where there is a breach of warranty by the seller, the buyer may, at his election,......rescind____•.. the sale and ...... if the goods have already been received, return them or offer to return them to the seller, and recover the price or any part theieof which has been paid.” (Section 69 of the Uniform Sales Act of 1915, P. L. 543.) As plaintiff had offered to place defendant in statu quo by returning the consideration which he had received, his right to proceed by replevin was complete when the suit was instituted.
+The only other complaints which require our consideration are that the learned trial judge committed error in affirming plaintiff’s first and second points for charge, which were:
+1. “If the jury find from the evidence that the parties to the contract of sale or exchange of personal property involved in this action were not at the time of the said exchange in position of perfect equality to judge of the merits of the tractor, then any false representations thereof made by the defendant in this action will void the contract. ’ ’
+2. “If the jury find from the evidence that the defendanit affirmed as a fact that the tractor in suit would pull in as many logs in a day for the plaintiff as three teams of horses could do, and further find that the defendant said to the plaintiff at a time when plaintiff’s team was hauling two logs to Mr. G-ahagen’s sawmill ‘if I can’t bring six logs like that with the tractor, I will give it to him,’ and by such or like affirmations by the defendant the plaintiff was induced to purchase the tractor, then such express affirmations constitute an express warranty of such facts.”
+The second point is substantially correct when measured by Section 12 of the Uniform Sales Act, supra, which reads: “Any affirmation of fact or any promise by the seller relating to the goods is an express warranty if the natural tendency of such affirmation or promise is to induce the buyer to purchase the goods. ’ ’ The statement that the tractor would pull in as many logs in a day for the plaintiff as three teams of horses could do and the assertion that “if I can’t bring six logs like that with the tractor I will give it to him,” amounted to an express affirmation of fact which had a natural tendency to induce plaintiff to purchase the tractor and constituted an express warranty. (Montgomery Foundry & Fittings Co. v. Hall Planetary Thread Milling Machine Co., 282 Pa. 212, 215.)
+After the fullest consideration we have reached the conclusion that while' plaintiff’s first point was too broad and the affirmance thereof amounted to a technical error, the jury could not have been misled by it, in view of the fact that the trial judge affirmed a point of defendant that unless the jury should find under the evidence that defendant induced the exchange by fraud the verdict should be for defendant. Therefore the error was harmless.
+The judgment is affirmed.
