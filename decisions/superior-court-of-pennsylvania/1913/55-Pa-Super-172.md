@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 120"
+decided: "1913-10-13"
+citations: ["55 Pa. Super. 172"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady, Head and Porter, JJ."]
+parties: ["Wagner, Appellant, v. Hamer."]
+source_url: "https://static.case.law/pa-super/55/cases/0172-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 439531
+---
+
+# Wagner v. Hamer
+
+## Majority (Morrison, J.,)
+
+Opinion bt
+Morrison, J.,
+This is an action of trespass brought by the plaintiff for the recovery of damages for the cutting of timber trees by the defendants, on a tract of land containing thirty-one and one-half acres, located in Shade township, Somerset county.
+In 1830, Conrad Wolford entered upon a tract of land in said township and county, as a settler, and continued his residence thereon till he died in 1868. This tract of land was estimated to contain about 185 acres, about eighty acres of which were cleared.
+In 1858, one Jacob Crissey obtained a warrant and had a survey made of the land lying on the north of the Conrad Wolford improvement; this survey recognized the north line of the Wolford improvement as the southern line of the said Jacob Crissey survey.
+In 1861, Aaron Crissey and George Lohr obtained a warrant and in June of that year had a survey made of a tract of land containing thirty-one and one-half acres, about twenty acres of which defendants claim overlapped the land claimed by Conrad Wolford under his settlement right, and on October 24, 1861, Conrad Wolford brought an action of trespass against Crissey and Lohr for cutting timber on said parcel of land, as claimed by defendants, which action resulted in the defendants in that suit confessing judgment to the plaintiff in open court on January 29,1863, for $10.00 and costs of suit. Said judgment was never reversed nor set aside, and the record thereof shows that it was finally collected from the defendants therein. It is alleged that thereafter neither Crissey nor Lohr made any claim to the parcel of about twenty acres of land claimed by Wolford as part of his settlement right. It is further alleged that Lohr died without making any conveyance or disposition of his interest in said land under the warrant and survey above mentioned.
+It appears that Conrad Wolford died, intestate, in 1868 upon the land claimed by him, and his administrator sold the entire tract of about 185 acres at orphans’ court sale to John Geisel to whom a deed was made by the said administrator in 1870. It is further alleged that John Geisel then resided upon the said farm until 1879, when he made a deed therefor to James F. Hamer, who resided on the farm until he conveyed it in 1902 to Elmer E. Berkeybile and Josiah Naugle who claim to be the occupants of the land at the time this suit was brought and tried.
+During the ownership and possession of Hamer he obtained a warrant, dated August 30, 1892, and on November 7, following, a patent from the commonwealth for 205 acres and 119 perches and allowance.
+In 1893 Aaron Crissey made a deed to Daniel Wagner for the parcel of land said to contain thirty-one and one-half acres, and in September, 1894, the latter obtained a patent therefor, under which he now claims title to the land on which the timber trees were alleged to have been cut and to recover damages for said cutting he brought the present action of trespass. In said action issue was joined and the case was elaborately and carefully tried in the court below and the result was a verdict and judgment thereon in favor of the defendants. After the verdict the plaintiff moved for a new trial and for judgment non obstante veredicto and obtained rules to show cause, but afterwards, upon argument, both of said rules were discharged by the court.
+Perhaps the most important question raised upon this record appears in the first assignment of error. That question arises upon the record of an action of trespass brought by Conrad Wolford against Aaron Crissey and George and Valentine Lohr on October 24,1861, to No. 139, November term, 1861, in the court of common pleas of Somerset county for an alleged trespass on the 'same premises in dispute in the present action. The said action at No. 139, November term, 1861, resulted in a judgment against the defendants and, as we have already stated, said judgment was never reversed nor set aside but was collected from the defendant therein. It is a conceded fact that the present, plaintiff is in privity of title with the defendants in that case and if the two trespasses were upon the same piece of land it would seem that the former suit and judgment is conclusive against the present plaintiff unless he has a better title than the one he obtained in 1893 from Aaron Crissey and we are not able to find from the record anything in his favor on that question. In our opinion there was sufficient evidence to carry the question to the jury as to the fact of the two trespasses being upon the same parcel of land and the jury having found this fact in favor of the defendants, we can see no merit in the first assignment of error.
+The plaintiff’s learned counsel contend that the record of the former suit and judgment was improperly admitted in evidence because there was no proof why the paper of settlement in that case was not offered nor was there any evidence submitted as to its loss or destruction. A complete answer to this argument is that it does not appear that there ever was any paper of settlement or any loss or destruction of any part of the record. The record shows the case was ended on January 29, 1863, by the confession of judgment in favor of the plaintiff, and, therefore, we cannot sustain the first assignment.
+There are nine other assignments of error which have been examined with care, and upon careful consideration of the testimony, the arguments of counsel and the charge of the court, we are finable to discover reversible error raised by any one or all of these assignments. The determination of the controlling questions of whether the title and possession of the land in dispute were in the plaintiff or defendants depended upon questions of fact to be found from both documentary and oral testimony, and it was all referred to the jury in an elaborate, fair and adequate charge, and the jury having found in favor of the defendants and judgment having been entered on the verdict, this controversy ought to end here and now.
+We all agree that the judgment ought to be affirmed.
+The assignments of error are all dismissed and the judgment is affirmed.
