@@ -1,0 +1,35 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 209"
+decided: "1961-11-16"
+citations: ["196 Pa. Super. 405"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, Wright, Woodside, Watkins, Montgomery, and Flood, JJ. (Rhodes, P. J., absent).", "Before Showers, P. J."]
+parties: ["Boyer, Appellant, v. Baker."]
+source_url: "https://static.case.law/pa-super/196/cases/0405-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 754835
+cites_cases: ["104 A. 2d 173", "106 A. 2d 461", "126 A. 2d 715", "136 A. 669", "154 A. 492", "156 A. 2d 597", "159 A. 2d 14", "159 A. 2d 536", "175 Pa. Superior Ct. 339", "191 Pa. Superior Ct. 323", "191 Pa. Superior Ct. 500", "192 Pa. Superior Ct. 7", "288 Pa. 434", "303 Pa. 422", "378 Pa. 264", "386 Pa. 403"]
+---
+
+# Boyer v. Baker
+
+## Majority (Montgomery, J:,)
+
+Opinion by
+Montgomery, J:,
+The lower court sustained preliminary objections to the Complaint in Equity filed in this case because of (a) an adequate remedy at law and (b) the insufficiency of the complaint in alleging any enforceable rights in plaintiff.
+The complaint alleges that plaintiff and defendants own land abutting on Cairo Alley in East Buffalo Township, Union County, Pennsylvania; that Cairo Alley Avas dedicated to public use by Harrison’s Supplemental Addition to the Borough of Lewisburg, a plan recorded October 12, 1936; that Cairo Alley has been used by plaintiff and other persons of the traveling public, that “the sewer authority of [East] Buffalo Township had laid a sewer in and under the said Cairo Alley”; that “the road supervisors of East Buffalo Township, Union County, Pennsylvania, have from time to time repaired and improved said alleys” (referring to Block Alley as well as Cairo Alley); that the Board of Supervisors, on petition, refused to vacate Cairo Alley and decided “to leave alley in present status”. It is alleged further that the estate of Jane Harrison, deceased, conveyed Cairo Alley to defendant Bakers and that defendants have appropriated the alley to private use and closed it to plaintiff and the traveling public.
+To aid the court in passing on the objections it was stipulated that the Harrison Plan aforementioned was recorded October 12,1936, that plaintiff’s property was not included in that plan but that it bordered on Cairo Alley; and that East Buffalo Township Sewer Authority had laid a sewer on Cairo Alley prior to October 12, 1957.
+Plaintiff seeks to enjoin defendants from interfering with the use of Cairo Alley, and to have the deed to Bakers, and the one from Bakers to Strouse for Cairo Alley stricken from the record. The opinion of the lower court identifies these deeds to be quitclaim deeds, although title to Cairo Alley was not reversed to the owners of the plan when they conveyed lots therein.
+The main issue in this case is. whether plaintiff has alleged sufficient facts from which it may be concluded that East Buffalo Township ever accepted Cairo Alley as a public way. If there is no acceptance of a way dedicated in a recorded plan within 21 years, there may -be no acceptance thereafter - without the consent of the owners of the land on which the same has been laid out. Act of May 9, 1889, P. L. 173, No, 192, §1, 36. P.S. 1961. However, this does not affect the easement rights of purchasers of lots in the plan over said way. Whittaker Appeal, 386 Pa. 403, 126 A. 2d 715) Travaglia v. Weinel, 191 Pa. Superior Ct. 323, 156 A. 2d 597. Plaintiff did not have such a right since his property, although abutting on Cairo Alley, was not within the Harrison Plan but was part of an adjoining tract.
+Acceptance of such dedicated ways must be established by some definite authoritative act of the municipality, or a long continued use by the public, or by a combination of municipal acts and public uses. Philadelphia Electric Co. v. Philadelphia, 303 Pa. 422, 154 A. 492.
+In our present case no definite authoritative act of the township is alleged, nor is there any allegation of long continued use of the way by the public. The fact that the township commission refused to take official action to vacate Cairo Alley and left it in its present status does not indicate a present or prior acceptance. It means only that Cairo Alley should remain accepted or unaccepted as the history of the alley might indicate.
+Milford Borough v. Burnett, 288 Pa. 434, 136 A. 669, sets forth the rules for determining acceptance, inter alia (p. 438), “.. . there must be unequivocal acts, continued during a long time, to show beyond question the intention on the part of the municipality to accept the proposed street as a public highway. The evidence to sustain this intent must be clear and convincing: . . . Mere occasional use, or inconsequential acts for the convenience of the municipality will not be sufficient to convert a dedication into a public way:” Plaintiff’s allegations fall far short of the required merits. To say that he and other members of the traveling public have used Cairo Alley is far different than saying the general public made use of Cairo Alley as a public way for a long and continuous period; and to say that the township repaired and improved it from time to time falls short of alleging unequivocally that the township accepted it as part of the street system and assumed the responsibility of its repair and maintenance. The act of the Authority in laying a sewer along it is not the act of the municipality and has no significance. The right of the Authority is not described or alleged to be the result of the dedication or its acceptance. The Authority is not the municipality.
+Plaintiff has alleged no private or contractual right to the use of Cairo Alley. His case is based on his alleged rights as a member of the public in using Cairo Alley as a public way.
+Therefore, on the basis that plaintiff has failed to allege sufficient facts to show an acceptance by municipal action or by long public use of Cairo Alley as offered for dedication by the Harrison Plan, and since more than 21 years have elapsed from the date the plan was adopted and recorded rendering the offer ineffective by virtue of the Act of 1889, supra; Rahn v. Hess, 378 Pa. 264, 106 A. 2d 461; McLaughlin v. Cybulski, 192 Pa. Superior Ct. 7, 159 A. 2d 14; Mynyk's Appeal, 175 Pa. Superior Ct. 339, 104 A. 2d 173, the order of the lower court will be affirmed.
+It will be unnecessary under this view of the case to rule on the second point concerning the adequacy of a remedy at law. However, in this connection, it may be well to refer to the case of Capozzi v. Cummins, 191 Pa. Superior Ct. 500, 159 A. 2d 536, wherein the right of a member of the public to resort to equity to enjoin interference with a public way was recognized.
+It will also be unnecessary to discuss the validity of the quitclaim deeds previously referred to, since plaintiff has alleged no rights concerning the property described in them.
+Judgment of the lower court dismissing the complaint is affirmed.
