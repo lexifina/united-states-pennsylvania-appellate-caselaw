@@ -1,0 +1,46 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 731 C.D. 1978"
+decided: "1979-06-26"
+citations: ["43 Pa. Commw. 544"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogers, DiSalle and Craig, sitting as a panel of three."]
+parties: ["Robert P. Lentz, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent; Phoenix Clothes, Intervenor."]
+source_url: "https://static.case.law/pa-commw/43/cases/0544-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1897695
+cites_cases: ["159 A.2d 579", "159 Pa. Superior Ct. 549", "171 Pa. Superior Ct. 491", "192 Pa. Superior Ct. 251", "22 Pa. Commonwealth Ct. 304", "25 Pa. Commonwealth Ct. 316", "27 Pa. Commonwealth Ct. 244", "29 Pa. Commonwealth Ct. 307", "33 Pa. Commonwealth Ct. 565", "34 Pa. Code §101.53", "34 Pa. Code §101.85", "34 Pa. Code §101.89", "348 A.2d 753", "360 A.2d 815", "366 A.2d 605", "370 A.2d 1234", "382 A.2d 487", "399 A.2d 825", "41 Pa. Commonwealth Ct. 546", "49 A.2d 281", "90 A.2d 269"]
+---
+
+# Lentz v. Commonwealth
+
+## Majority (Judge Craig,)
+
+Opinion by
+Judge Craig,
+In this unemployment compensation case, claimant was discharged for excessive absenteeism and the local office of the Bureau of Employment Security (Bureau) approved benefits on June 27, 1975. Within the allotted time, the employer, Phoenix Clothes, a division of Genesco, Inc. located in Allentown, sent to the Bureau’s local office a petition for appeal from its decision. The signature and address of appellant was designated as “Phoenix Clothes by: Reed, Roberts Associates, Inc., 650 Smithfield St., Suite 920, Pittsburgh, Pennsylvania.”
+The central finding of fact in the long procedural history of this case is that the notice of the hearing on the original appeal, mailed August 4,1975, was mailed to Phoenix Clothes at its Allentown address, but that no such notice was mailed to the employer’s representative, who petitioned for the appeal.
+The hearing was held before a referee as scheduled on August 11, 1975, at which neither the employer nor his representative appeared. The referee awarded claimant benefits under a decision dated August 20, 1975. Again, this decision was mailed to the employer at its local address, but not to the employer’s representative.
+When, in 1976, claimant filed an application for benefits for a second benefit year, the Bureau again granted benefits and employer by its representative again filed an appeal.
+This time, a fully contested hearing was held, and the referee disallowed benefits, concluding that claimant was discharged due to excessive absenteeism, which constituted willful misconduct under Section 402(e) of the Unemployment Compensation Law (Law). The Unemployment Compensation Board of Review (Board) affirmed.
+After several Board reconsiderations of this case, this court, upon a stipulation of the parties, ordered the case remanded to the Board for the purpose of taking additional testimony and again reconsidering its decision.
+The hearing on remand focused on the applicability of our Superior Court’s decision in Oravec Unemployment Compensation Case, 171 Pa. Superior Ct. 491, 90 A.2d 269 (1952).
+In Oravec, the court read Section 509 of the Law, as amended, 43 P.S. §829, to make a distinction between decisions of the Bureau and decisions of a referee or the Board. Under the statute, a departmental decision is binding only for a particular benefit year, but an unappealed decision of a referee or the Board, “shall he conclusive for all purposes of this Act and shall not be subject to collateral attack as among all affected parties who had notice of such decision. ...” See also Unemployment Compensation Board of Review v. Esposito, 25 Pa. Commonwealth Ct. 316, 360 A.2d 815 (1976).
+Consequently, if the employer had legal notice of the referee’s original decision of August 20, 1975, that determination was conclusive on the issue of willful misconduct and immune to the employer’s attack upon claimant’s application for the second benefit year — an attack which necessarily is a collateral one in- relation to the unappealed substantive decision as to the first year.
+The hearing on remand established that both notice of the hearing and the decision of the referee were sent to the employer at its Allentown address. The Board, however, concluded that “a strict adherence to the principle of Oravec would create an inequity” because the representative of the employer, who took the appeal, was never notified of the impending hearing or the decision.
+We disagree because the precise issue is, as stated in Section 509 of the Law, whether or not the “parties” had notice of the proceedings. Clearly the employer had such notice. The employer’s director of personnel testified that he received a copy of the decision and. the referee expressly found that notice of both the hearing and the decision were mailed and not returned. That was sufficient to put the employer-party on notice because mailing to the last known address (and correct address here) of the party adequately provides a reasonable means to insure that the party will receive actual notice. See Mihelic v. Unemployment Compensation Board of Review, 41 Pa. Commonwealth Ct. 546, 399 A.2d 825 (1979); Banks v. Unemployment Compensation Board of Review, 29 Pa. Commonwealth Ct. 307, 370 A.2d 1234 (1977); Graul Unemployment Compensation Case, 159 Pa. Superior Ct. 549, 49 A.2d 281 (1946).
+However, the employer now adds the additional argument that the failure to send notice to its representative constitutes such negligent conduct on the part of the administrative authorities that no res judicata effect should attach to the decision of the referee in August of 1975.
+Although the issues of proper notice and the issue of the timeliness of an appeal from a decision of the referee are closely intertwined in this case, those issues nevertheless remain distinct. The rule that an untimely appeal will be allowed where fraud or negligent conduct on the part of authorities can be shown, might very well be relevant here were the employer seeking to appeal the 1975 decision. See, e.g., Berry v. Unemployment Compensation Board of Review, 33 Pa. Commonwealth Ct. 565, 382 A.2d 487 (1978); Banks v. Unemployment Compensation Board of Review, supra; Mayer v. Unemployment Compensation Board of Review, 27 Pa. Commonwealth Ct. 244, 366 A.2d 605 (1976); Unemployment Compensation Board of Review v. Ferraro, 22 Pa. Commonwealth Ct. 304, 348 A.2d 753 (1975); Flynn v. Unemployment Compensation Board of Review, 192 Pa. Superior Ct. 251, 159 A.2d 579 (1960).
+However, our view is that the employer here is actually attempting to attack the 1975 decision collaterally. The issue of the timeliness of an appeal from that decision has never been before the Board and is not now before this court. The 1975 decision remains unappealed and Section 509 of the Law, 43 P.S. §829, renders that decision final and conclusive in this collateral proceeding.
+Hence, we must reverse the Board’s adjudication in favor of the employer and conclude that the decision of August 20,1975, a conclusive adjudication granting claimant benefits for that benefit year, is binding as to his substantive right to benefits for a second benefit year.
+Order
+And Now, this 26th day of June, 1979, the order of the Unemployment Compensation Board of Review, dated March 22, 1978, in No. B-131810-F denying benefits, is hereby reversed and the decision of the referee, dated August 20, 1975 in the same case is hereby reinstated.
+Act of December 5, 1936, Sec. Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §802(e).
+Section 502 of the Law, as amended, 43 P.S. §822, dealing with appeals from a decision of referee, reads in relevant part:
+The parties and the department shall be duly notified of the referee’s decision, and the reasons therefor, which shall be deemed the final decision of the board, unless within fifteen days after the date of such decision the board acts on its own motion, or upon application, permits any of the parties or the department to institute a further appeal before the board. .. . (Emphasis added.)
+The Board’s regulation at 34 Pa. Code §101.53 is consistent with the statutory language:
+Mailing of any notices, orders, or decisions of a referee, or of the Board to the parties at their last known addresses as furnished by the parties to the referee, the Board, or the Department, shall constitute notice of the matters therein contained.
+However, the regulation at 34 Pa. Code §101.85 dealing with notice of the hearing refers to parties and their counsel or authorized agents in the disjunctive, and the regulation dealing with notice of the decision, 34 Pa. Code §101.89 refers to parties and their counsel or authorized agent in the conjunctive.
+These regulations (not considered by the Board in this case) are controlled by the applicable statute quoted above, as applied by Oraveo Unemployment Compensation Case, supra. However, we note that they appear to be inconsistent. with each other and perhaps should be re-examined.
