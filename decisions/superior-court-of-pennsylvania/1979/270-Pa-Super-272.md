@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "269"
+decided: "1979-10-05"
+citations: ["270 Pa. Super. 272", "411 A.2d 523"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before MONTGOMERY, O’BRIEN and HONEYMAN, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Kenneth SOUDER, Appellant."]
+source_url: "https://static.case.law/pa-super/270/cases/0272-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 130970
+cites_cases: ["235 A.2d 349", "271 A.2d 481", "318 A.2d 77", "384 U.S. 436", "427 Pa. 599", "440 Pa. 590", "455 Pa. 198", "476 Pa. 83"]
+---
+
+# Commonwealth v. Souder
+
+## Majority (MONTGOMERY, Judge:)
+
+MONTGOMERY, Judge:
+Appellant entered a plea of guilty in 1962 to First Degree Murder and was sentenced to life imprisonment. At that time, a direct appeal was filed resulting in an affirmance of the judgment of sentence. On March 10, 1978, appellant filed a petition under the Post Conviction Hearing Act wherein he averred ineffective assistance of counsel and the invalidity of his guilty plea. An evidentiary hearing was thereafter held with appellant being represented by counsel, and relief was denied.
+The facts surrounding petitioner’s original conviction are as follows: In April, 1962, the appellant and an accomplice robbed a gasoline station in Luzerne County. The appellant killed the attendant during the course of the robbery. Ten days after the crime, he enlisted in the Army. Shortly thereafter, the accomplice was apprehended and he gave a statement implicating appellant in the crime. Local police travelled to Fort Gordon, Georgia, and took appellant into custody, and he waived extradition. During a three-day drive from Georgia to Pennsylvania, appellant admitted his involvement in the crime and his commission of the murder. He signed a written confession to this effect at a police station in Virginia. He was not represented by counsel at this time. However, once in Pennsylvania, and approximately two months before his scheduled trial, two court' appointed attorneys were assigned to represent him. Following his plea of guilty, appellant spent several years in Fairview State Hospital, and in 1971, he was transferred, by court order, to the State Correctional Institution at Pittsburgh to continue serving his sentence.
+On this appeal, petitioner alleges several allegations of constitutional violations; however we shall only review those which directly relate to the ineffective assistance of counsel claim, and the voluntariness of his guilty plea. All other grounds have been waived by petitioner’s failure to either raise them in his direct appeal or in his petition and counselled hearing below.
+Appellant alleges that the two attorneys who represented him at the time of his plea were ineffective for failing to inform him of his opportunity to refute his confession. It is suggested that this challenge is based on the involuntariness of his confession in that it was uncounselled and allegedly the product of coercion. Appellant by way of argument relies on the standards established by Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966). There is no question that at the time of appellant’s confession and plea in 1962, Miranda had not yet been decided and is therefore not applicable to the instant case. Appellant argues that even though the per se rules of Miranda are not applicable, the basic rationale underlying the decision in that case should apply in the interests of fairness and justice. This argument might have been appropriate if the issue of the voluntariness of his confession had been properly preserved for our review; but it is wholly inappropriate as a test in determining the effectiveness of counsels’ assistance at the time of conviction. Rather, a review of counsels’ stewardship is based on the standard enunciated by the case of Commonwealth ex rel. Washington v. Maroney, 427 Pa. 599, 235 A.2d 349 (1967), that “counsel’s assistance is deemed constitutionally effective once we are able to conclude that the particular course chosen by counsel had some reasonable basis designed to effectuate his client’s interests. The test is not whether other alternatives were more reasonable, employing a hindsight evaluation of the record.” Further, counsels’ stewardship must be examined by the standards as they existed at the time of their action, and they will not be deemed ineffective for failing to predict future developments in the law. Commonwealth v. Triplett, 476 Pa. 83, 381 A.2d 877 (1977).
+Applying the foregoing to the instant case, we find that counsels’ failure to challenge the voluntariness of the confession, and their advice to appellant to plead guilty and thereby avoid the death penalty was clearly a matter of strategy and designed to effectuate appellant’s interests. Not only would the success of a challenge to the confession have been speculative at that point in time, but there was also an accomplice who had already implicated appellant in the crime as the shooter.
+Appellant next challenges the validity of his guilty plea. Under Commonwealth v. Marsh, 440 Pa. 590, 271 A.2d 481 (1971), he must therefore prove that there was in fact an involuntary pre-trial confession which primarily motivated his guilty plea, and that he was incompetently advised by counsel to plead guilty rather than stand trial. We find that based on the standards which existed at the time, appellant has initially failed to prove that his confession was involuntary. We also concur in the finding of the hearing judge that the primary motivation for his plea was to escape a possible death penalty.
+We further find that on the record colloquy conducted by the lower court prior to acceptance of appellant’s guilty plea was adequate based on pre-Ingram standards.
+The order of the lower court is affirmed.
+. Act of January 25, 1966, P.L. (1965) 1580, § 1 et seq.; 19 P.S. § 1180-1 et seq. (Supp. 1976-1977).
+. Commonwealth v. Ingram, 455 Pa. 198, 318 A.2d 77 (1974) established mandatory questions which the trial judge is required to ask of a defendant in order to ascertain that the plea is in fact voluntarily and understanding^ tendered. This practice has since been codified by Pa.R.Crim.P., Rule 319.
