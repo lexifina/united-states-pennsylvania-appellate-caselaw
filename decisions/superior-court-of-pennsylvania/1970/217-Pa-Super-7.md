@@ -1,0 +1,43 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 298"
+decided: "1970-06-11"
+citations: ["217 Pa. Super. 7"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Weight, P. J., Watkins, Montgomery, Jacobs, Hoffman, Spaulding, and Cercone, JJ.", "Jacobs, J., concurs in the result."]
+parties: ["Selig v. Selig, Appellant."]
+source_url: "https://static.case.law/pa-super/217/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 792976
+cites_cases: ["134 U.S. 316", "140 N.J. Eq. 183", "143 Pa. 201", "198 U.S. 215", "326 U.S. 310", "357 U.S. 235", "402 Pa. 534", "65 N.J. Super. 585"]
+---
+
+# Selig v. Selig
+
+## Majority (Opinion by Cercone, J.,)
+
+Opinion by Cercone, J.,
+On October 3, 1968 Nancy Selig, plaintiff herein, a Pennsylvania resident, filed a complaint in assumpsit against her husband, Alan E. Selig, a former resident whose whereabouts were unknown. The complaint alleged a debt arising out of an oral agreement of support for plaintiff and their seven children. Defendant abandoned his wife on October 9, 1965 and has not provided support. Simultaneously with the complaint, a writ of Foreign Attachment was issued, naming as garnishee Milton Selig, executor under the Will of Ralph E. Selig in which Will defendant was named a legatee. Garnishee is a resident of Montgomery County, Pennsylvania, and personal service was obtained on him in that County. Garnishee’s co-executors are Robert Williams, a resident of Pennsylvania, Harry Cassman, a resident of Atlantic City, New Jersey, and the Boardwalk National Bank of Atlantic City, New Jersey. Personal service had not been obtained on any of Milton Selig’s co-executors. The funds which constitute the defendant’s interest in the estate are in an account in the Boardwalk National Bank.
+Defendant filed preliminary objections to the Writ of Foreign Attachment on the grounds that the property sought was immune from attachment and that no property of defendant was in the garnishee’s possession.
+The Common Pleas Court of Montgomery County overruled the objections on the grounds that a writ of attachment personally served on one of several executors of an estate is sufficient to bind them all.
+The action of Foreign Attachment in Pennsylvania is a quasi-in-rem proceeding. The essence of the proceeding is service on the defendant’s obligor, the garnishee, which is considered equivalent to seizure of the res. Its basic function is to adjudicate the interests of a defendant in the property. The basis for jurisdiction is the power of the state over a res situated within its border, whether real or personal, tangible or intangible, Arndt v. Griggs, 134 U.S. 316, 320-321, 323 (1890).
+A state may impose any conditions it pleases upon the bringing of a quasi-in-rem proceeding as long as it provides for sufficient contacts with property in the state, so as not to violate the due process clause of the United States Constitution, Hanson v. Denckla, 357 U.S. 235 (1958).
+Property which may be attached includes real and personal, tangible and intangible. It may be attached by manual seizure or by service of the writ upon a person (garnishee) who has possession of defendant’s property. Under Rule 1253 of the Pennsylvania Rules of Civil Procedure, any person may be made a garnishee and deemed to have possession of property of the defendant if he: “1. owes a debt to the defendant; 2. has property of the defendant in his custody, possession or control; 3. holds as fiduciary property in which defendant has an interest; or 4. holds the legal title to property of the defendant, whether or not in fraud of creditors”. (Emphasis supplied)
+The question presented by the defendant for us on appeal is whether under Section 3 of the above Rule 1253 personal service of one executor is sufficient to attach funds which are on deposit with a nonresident co-executor. We hold such service to be sufficient and not violative of due process of law.
+The fear of being held liable for a breach of fiduciary duty by the defendant or his co-fiduciaries creates a “self-protection” compulsion on the garnishee-executor to notify the defendant-legatee of the pending litigation. Thus, notice is satisfactory in terms of due process of law, especially when it is considered that suqh notice is adequate when the garnishee is only a debtor, as in Harris v. Balk, 198 U.S. 215 (1905).
+The remaining question is whether there is property within the state upon which jurisdiction can be based.
+The res here involved is a bank account in which defendant has an intangible interest. That interest being merely an intangible legal concept, incapable of an actual physical situs, its situs is the domicile of the person who has control over the fund. Did this garnishee-executor have control of the bank account involved?
+In New Jersey acts done by one co-executor are deemed acts of all, inasmuch as they have joint and entire authority. In Re Greims Will, 140 N.J. Eq. 183 (1947) and Re Garey’s Estate, 65 N.J. Super. 585 (1961). Pennsylvania law is to the same effect: Fesmire v. Shannon, 143 Pa. 201, 208. In fact, the New Jersey Code 3A N.J. S.A. 12-3 expressly provides: “In a civil action, in any court of this state against two or more executors or administrators, such of them as are returned served shall answer to the plaintiff on behalf of all of them. If in such an action, judgment go for the plaintiff payable out of the personal property of the decedent, he shall have judgment and execution against all the fiduciaries named in the process, to be satisfied out of such personal property.” (Emphasis supplied) Thus, a single executor does have control over the estate’s property and all executors will be bound by the results of litigation in which only one of several executors is before the court.
+Determination of in-rem jurisdiction is to be based on a realistic and reasonable evaluation of the respective rights and interests of the parties and the state in terms of fairness: International Shoe Co. v. State of Washington, 326 U.S. 310 (1945). Such an appraisal requires a practical evaluation of the situation of the various parties rather than an emphasis on the static concepts of presence and power.
+In this case the plaintiff is a resident of the state, making the Courts of this state convenient to her and giving the state a substantial and continuing relation with the controversy. The obligations which give rise to plaintiff’s claim were created under the laws of this state and the garnishee is a resident of this state. In fact, in this case there appears to be stronger reason to affirm jurisdiction than was present in Harris v. Balk, 198 U.S. 215 (1905), where the service was upheld even though the garnishee-debtor was not a resident of the state and his presence in the forum was wholly fortuitous.
+Personal service of the garnishee being valid, he may be ordered to act or refrain from acting with respect to the estate funds located in New Jersey: Drummond v. Drummond, 402 Pa. 534.
+The order of the Court of Common Pleas is affirmed and the case is remanded for further action.
+Jacobs, J., concurs in the result.
+
+## Concurrence (Hoffman, J.:)
+
+Concurring Opinion by
+Hoffman, J.:
+I join in the finding of the majority that under prior law and the Pennsylvania Rules of Civil Procedure, personal service of the garnishee was valid so that he may be ordered to refrain from acting with respect to estate funds located in New Jersey. I- am not convinced, however, that policy should, support such a result which would allow judgments so obtained to be enforceable against an estate being administered in another state. While it is true that our Com: monwealth does have a strong interest in this case in light of plaintiff’s residence here, New Jersey has, what appears to me, to be a stronger countervailing interest in the orderly administration of its estates. Under such circumstances I question whether New Jersey should be required to be bound by a judgment resulting from the fortuitous presence of an executor in another state. I similarily recognize how we in Pennsylvania might not wish to give effect to a judgment obtained in a remote jurisdiction merely because an executor happened to pass through it. In my opinion, the fiduciary of an estate should not be subject to service in a foreign state unless and to the extent that he is acting there. This, however, is a matter for consideration by our legislature and by the Supreme Court in a review of the Rules of Civil Procedure.
