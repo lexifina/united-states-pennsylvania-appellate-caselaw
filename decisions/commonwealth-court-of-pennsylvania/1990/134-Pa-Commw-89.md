@@ -1,0 +1,41 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+decided: "1990-07-18"
+citations: ["134 Pa. Commw. 89", "577 A.2d 966"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before PALLADINO and McGINLEY, JJ., and BARBIERI, Senior Judge.", "CRUMLISH, Jr., Former President Judge, did not participate in the decision in this case."]
+parties: ["Douglas CRAWFORD, Petitioner, v. WORKMEN’S COMPENSATION APPEAL BOARD (PEUGOT CONTRACTING), Respondent."]
+source_url: "https://static.case.law/pa-commw/134/cases/0089-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1405032
+cites_cases: ["105 Pa. Commonwealth Ct. 106", "120 Pa.Commonwealth Ct. 364", "121 Pa.Commonwealth Ct. 436", "471 A.2d 596", "80 Pa.Commonwealth Ct. 301"]
+---
+
+# Crawford v. Workmen's Compensation Appeal Board
+
+## Majority (PALLADINO, Judge.)
+
+PALLADINO, Judge.
+Douglas Crawford (Claimant) appeals from an order of the Workmen’s Compensation Appeal Board (Board) reversing a referee’s decision that granted Claimant’s petition to set aside a final receipt but denied Claimant’s request for specific loss of the use of his feet for all practical intents and purposes.
+Claimant worked for Peugot Contracting as a laborer and truck driver, assisting in the demolition of houses and other structures and the hauling away of debris. On December 7, 1978, Claimant was injured in the course of his employment when he “fell 30 feet from a beam and landed on a steel beam below. Claimant sustained fractures to both ankles and heels, injuries to his right wrist, elbow and back and [suffered] elevated hypertension.” Finding of Fact 7. Claimant’s injuries required operations on both of his ankles and his right wrist. Claimant began receiving workmen’s compensation pursuant to a Notice of Compensation Payable.
+Unable to return to his prior position, Claimant obtained a truck-driving position in October, 1980 earning less than his pre-injury wage. On three separate occasions, a representative of Employer’s insurance company contacted Claimant at his home and requested that he sign a final receipt. Claimant neither understood the meaning of the final receipt nor was given an explanation of its meaning, and he was reluctant to sign the final receipt because he had not completely healed. The referee found that even though he was not completely healed, Claimant signed the final receipt on January 18, 1981. Finding of Fact 17.
+In August, 1986 Claimant filed a modification petition which the referee treated as a petition to set aside final receipt. In addition to having the final receipt set aside, Claimant, the only party to present evidence in these proceedings, also sought specific loss benefits pursuant to Section 306(c)(24) of the Pennsylvania Workmen’s Compen-
+sation Act (Act), alleging a loss of the use of his feet for all practical intents and purposes. The referee found that the final receipt had been fraudulently prepared and obtained, and set it aside. The referee also found that Claimant had not lost the use of his feet for all practical intents and purposes. Claimant appealed to the Board, the referee’s finding that Claimant had not lost use of his feet for all practical intents and purposes. The Board reversed after finding, sua sponte, that the final receipt was not obtained by fraud nor was the petition to set aside final receipt filed within three years of the signing of the final receipt, as required by Section 434 of the Act.
+On appeal to this court, Claimant contends that the Board erred in reversing the referee’s decision to set aside the final receipt, and that the referee erred by finding that Claimant had not lost the use of his feet for all practical intents and purposes.
+Section 434 of the Act, provides:
+A final receipt, given by an employe or dependent entitled to compensation under a compensation agreement notice or award, shall be prima facie evidence of the termination of the employer’s liability to pay compensation under such agreement notice or award: Provided, however, That a referee designated by the department may, at any time within three years from the date to which payments have been made, set aside a final receipt, upon petition filed with the department, or on the department’s own motion, if it be shown that all disability due to the injury in fact had not terminated.
+The time period in Section 434 of the Act is an absolute bar to obtaining additional benefits unless the claimant proves that the final receipt was obtained by means of fraud, intentional or unintentional deception, or other improper action of the employer. Auerbach v. Workmen’s Compensation Board of Review (Auerbach), 80 Pa.Commonwealth Ct. 301, 471 A.2d 596 (1984).
+34 Pa.Code § 121.17(a), which pertains to terminations by final receipt, provides in pertinent part:
+If an injured employe has recovered from his injury so that he has regained his full earning power, and so that all disability due to the injury has terminated, a final receipt may be fully prepared for signature. The fact that the employe returns to similar work at his original or greater wage unaccompanied by a showing that all disability has terminated is not a basis for a final receipt. However, it may be the basis for a suspension of compensation.
+In the case at hand, the referee made the following pertinent finding of fact: “That there is no question in this Referee’s mind that the defendant insurance carrier from the various reports they obviously received from the treating physicians and surgeons had full knowledge that the claimant on January 18, 1981 continued to suffer a serious partial disability involving his ankles and wrist and that he had not returned to his previous employment, yet they persisted in badgering the claimant until they finally succeeded in getting him to execute a final receipt.” Finding of Fact 17. The referee concluded that the final receipt was fraudulently prepared and submitted to Claimant for his signature. Conclusion of Law 3. Although Claimant did sign the final receipt, apparently he did not know its significance. We conclude, that when an insurance compány prepares a final receipt signifying that the claimant has recovered from his injuries and regained his full earning power, knowing that the claimant is still disabled, and the claimant signs without knowing the significance of the final receipt, the insurance company’s actions constitute fraudulent conduct, warranting that such final receipt be set aside.
+As to the second issue, the party seeking to establish the loss of use of an extremity must prove that there has been permanent loss of use of the injured part of the body for all practical intents and purposes. Bailey v. Workmen’s Compensation Appeal Board (Lawton Feed & Supply, Inc.), 105 Pa. Commonwealth Ct. 106, 523 A.2d 415 (1987). The referee as finder of fact may accept or reject the testimony of any witness in whole or in part. Sullivan v. Workmen’s Compensation Appeal Board (Philadelphia Electric Company), 120 Pa.Commonwealth Ct. 364, 548 A.2d 404 (1988).
+In the case at hand, Claimant testified and presented the testimony of Dr. Minde to prove that he had permanently lost the use of his feet for all practical intents and purposes. The referee rejected this testimony. We will not interfere with the referee’s credibility determinations.
+Accordingly, the order of the Board is reversed and the order of the referee is reinstated.
+ORDER
+AND NOW, July 18, 1990, the order of the Workmen’s Compensation Board of Review in the above-captioned matter is reversed and the referee’s order is reinstated.
+CRUMLISH, Jr., Former President Judge, did not participate in the decision in this case.
+. Act of June 2, 1915, P.L. 736, as amended, 77 P.S. § 513(24).
+. 77 P.S. § 1001.
+. Where the burdened party is the only party to present evidence and fails to prevail before the agency, our scope of review is limited to a determination of whether there has been an error of law, constitutional rights have been violated, or there has been a capricious disregard of competent evidence. Russell v. Workmen’s Compensation Board of Review (Volkswagen of America), 121 Pa.Commonwealth Ct. 436, 550 A.2d 1364 (1988).
