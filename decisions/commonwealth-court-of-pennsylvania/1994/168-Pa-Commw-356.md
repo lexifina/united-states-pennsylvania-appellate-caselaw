@@ -1,0 +1,48 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1440 C.D. 1994"
+decided: "1994-11-15"
+citations: ["168 Pa. Commw. 356", "650 A.2d 1138"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DOYLE and KELLEY, JJ., and NARICK, Senior Judge."]
+parties: ["DEPARTMENT OF the NAVY, Petitioner, v. UNEMPLOYMENT COMPENSATION BOARD OF REVIEW, Respondent."]
+source_url: "https://static.case.law/pa-commw/168/cases/0356-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1468981
+cites_cases: ["125 Pa.Commonwealth Ct. 64", "143 Pa.Commonwealth Ct. 171", "32 Pa.Commonwealth Ct. 59", "377 A.2d 1060", "414 A.2d 770", "427 A.2d 1273", "474 Pa. 351", "509 Pa. 267", "51 Pa.Commonwealth Ct. 475", "58 Pa.Commonwealth Ct. 422"]
+---
+
+# Department of the Navy v. Unemployment Compensation Board of Review
+
+## Majority (NARICK, Senior Judge.)
+
+NARICK, Senior Judge.
+Department of the Navy, Naval Air Warfare Center (NAWC) appeals from the order of the Unemployment Compensation Board of Review (UCBR) that granted benefits to Henry Muir (Claimant). We reverse.
+Claimant worked for NAWC as an electronics mechanic. The Department of the Navy targeted NAWC for closure. NAWC began offering an incentive plan to its employees in order to downsize its facilities. NAWC offered a voluntary separation incentive payment (VSIP) program to employees, which was purely voluntary. NAWC offered separation pay as an incentive for them to leave their jobs. NAWC offered Claimant $25,000 as an incentive to retire.
+On May 27,1993, Claimant completed the VSIP request. In completing this request, Claimant specifically acknowledged that if he accepted the VSIP, he would not be eligible for, among other things, unemployment compensation. (59a.) NAWC advised Claimant that his request for a VSIP to voluntarily retire was approved and that if he were to accept the offer, his retirement would be effective between August 20 and September 29, 1993. Claimant accepted the VSIP to voluntarily retire, noting his preferred retirement date as August 31, 1993. Claimant was of normal retirement age when he terminated his employment on August 31, 1993.
+On January 28, 1994, Claimant filed for unemployment benefits which were granted by the Job Center. NAWC appealed and a hearing was held before a referee. The referee denied Claimant benefits under Section 402(b) of the Pennsylvania Unemployment Compensation Law (Law), Act of December 5, 1936, Second Ex.Sess., P.L. (1937) 2897, as amended, 43 P.S. § 802(b). Claimant appealed and the UCBR reversed, finding Claimant was not ineligible for benefits under Section 402(b) of the Law because his unemployment was due to his voluntarily leaving work with cause of a necessitous and compelling nature.
+On appeal, NAWC argues that two of the UCBR’s findings of fact are not supported by substantial evidence. These findings of fact are:
+4. The job force, including the claimant, was informed that their jobs were being eliminated and that a move to Maryland was imminent.
+* * * * *
+11. The claimant believed the employer was moving to Maryland within a year, and he would no longer have employment.
+NAWC argues that no substantial evidence supports these findings and, in fact, Claimant’s own testimony contradicts these findings made by the UCBR. We agree.
+The only testimony by Claimant concerning Findings of Fact Nos. 4 and 11, is set forth as follows:
+R. Okay, now, so if you decided to stay then, could you have continued to work in your position?
+C. Yeah, I believe so.
+(52a-53a.)
+R. Now, was there any other reason why you left the [NAWC] when you did other than to accept the voluntary retirement incentive, severance incentive?
+C. Well, it was — the way things looked, they were moving to Maryland, perhaps next year, and it looked like I wouldn’t have a job. And I would say around the spring of 1993, we have very little work to do in the shop. And about that time in the spring they sent us — we received letters about that they were overstaffed by about — I think it was 150 people. And they were asking for volunteers to take ... leave without pay and like — later on they came out— they sent me a letter about this VSIP, voluntary separation, with $25,000 and, I believe they sent it to everybody who was eligible for immediate retirement. So I put my name on the list for it, and it seemed like quite a long time went by, and they had sent — it went through quite a process, going through personnel and the Navy Department. Let’s see — I’m getting confused now myself. But eventually I was accepted, and I believe what they do is I think they eliminate your job. It’s stated on the back of the VSIP form. I believe your job is more or less eliminated.
+‡ % # * :j«
+L. When was your job scheduled to be moved to Maryland?
+C. At the time I didn’t know, but talking to some of my friends in the shop they believed that they’re supposed to be there in April of 1995, after I left. Before it looked — just guessing — I would guess that’s when they would have gone, just from the way things were happening.
+(56a-57a) (emphasis added). Based on Claimant’s testimony, the UCBR’s Findings 4 and 11 are not supported by the evidence in that Claimant testified he had continuing employment and only believed that his job would have been eliminated when he left. Employer testified that Claimant’s job had not been abolished and would have still been available had Claimant not accepted the VSIP. Employer testified that Claimant’s job would have been available until March of 1995, almost two years after Claimant requested the VSIP. We have carefully reviewed the record and based upon the testimony of the parties, as a whole, the UCBR’s Findings 4 and 11 are not supported by the evidence.
+Whether a claimant has a necessitous and compelling cause for terminating his employment is a legal question fully reviewable by this Court. Anchor Darling Valve Co. v. Unemployment Compensation Board of Review, 143 Pa.Commonwealth Ct. 171, 598 A.2d 647 (1991). When, as here, a claimant voluntarily terminates his employment, the burden is upon him to show cause of a necessitous and compelling nature for having done so. Taylor v. Unemployment Compensation Board of Review, 474 Pa. 351, 378 A.2d 829 (1977). Necessitous and compelling cause is such that “results from circumstances which produce pressure to terminate employment and is both real and substantial, and which would compel a reasonable person under the circumstances to act in the same manner.” Id. at 358-59, 378 A.2d at 832-33.
+The circumstances surrounding Claimant’s termination as testified to by Claimant demonstrates some uncertainty about his job situation, apparent overstaffing in the work place and a request for volunteers to take leave without pay. However, uncertainty and speculation about the future existence of a job does not create necessitous and compelling cause. Goffi v. Unemployment Compensation Board of Review, 58 Pa.Commonwealth Ct. 422, 427 A.2d 1273 (1981) (a college professor who resigned in the face of a dean’s recommendation that he be terminated was not entitled to benefits since no definite determination about his status had been made by anyone with the actual authority to fire him); Gackenbach v. Unemployment Compensation Board of Review, 51 Pa.Commonwealth Ct. 475, 414 A.2d 770 (1980) (an unfavorable performance evaluation created no imminent threat of termination but merely a possibility of a future occurrence, at least three to four months away, and thus, resignation was not deemed a necessitous and compelling reason); Rizzitano v. Unemployment Compensation Board of Review, 32 Pa.Commonwealth Ct. 59, 377 A.2d 1060 (1977) (an employer threat that a claimant would be fired if he did not increase productivity created no more than a possibility of a future discharge and did not justify terminating his employment).
+In Flannery v. Unemployment Compensation Board of Review, 125 Pa.Commonwealth Ct. 64, 557 A.2d 52 (1989), a claimant who chose to retire under his employer’s voluntary retirement plan argued that his eventual lay-off was inevitable, yet we found this argument speculative because the employer introduced evidence that continuing work was available. Here, Employer testified that Claimant’s position was secure through March 1995 and Claimant also testified that if he had decided to stay, continuing work was available. (52a-53a.) Therefore, we hold that Claimant’s belief that his termination was imminent was speculative and contrary to the facts, and that he did not meet his burden that he quit for necessitous and compelling reasons.
+Accordingly, we reverse.
+ORDER
+AND NOW, this 15th day of November, 1994, the order of the Unemployment Compensation Board of Review in the above-captioned matter is hereby reversed.
+. Our scope of review is limited to a determination of whether constitutional rights were violated, an error of law was committed or whether necessary findings of fact are supported by substantial competent evidence. 2 Pa.C.S. § 704.
+. Substantial evidence is such relevant evidence as a reasonable mind might accept as adequate to support a conclusion. Peak v. Unemployment Compensation Board of Review, 509 Pa. 267, 501 A.2d 1383 (1985).
