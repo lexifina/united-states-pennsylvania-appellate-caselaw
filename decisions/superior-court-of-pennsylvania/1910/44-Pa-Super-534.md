@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 147"
+decided: "1910-11-21"
+citations: ["44 Pa. Super. 534"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Henderson, Morrison, Orlady, Head and Beaver, JJ."]
+parties: ["Oakdale Borough."]
+source_url: "https://static.case.law/pa-super/44/cases/0534-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 417910
+cites_cases: ["159 Pa. 20", "169 Pa. 433", "24 Pa. Superior Ct. 597", "31 Pa. Superior Ct. 638", "9 Pa. Superior Ct. 604"]
+---
+
+# Oakdale Borough
+
+## Majority (Head, J.,)
+
+Opinion by
+Head, J.,
+The Act of April 28, 1899, P. L. 74, is one of a series of acts dealing with what has been generally termed municipal improvements. It is characteristic of this legislation that in the construction of such improvements the municipalities are authorized and empowered to charge the costs of all or an ascertained part of the improvement upon a certain class of real property as distinguished from the remaining taxable real estate in the community. The nature of this power and the extent of the class of property, as to which it might be lawfully exercised, were defined and declared by the Supreme Court in many well-known cases prior to the passage of the act of 1899 referred to.
+In all of these acts prior to the one in question the properties to be charged were described by the legislature as those benefited or peculiarly benefited by the proposed improvement. In interpreting this legislative language the courts have declared that only the properties which actually abutted on the line of the improvement could be assessed with any portion of the costs thereof.
+When the legislature in 1899 enacted the act now under consideration it used substantially the same language to describe the properties to be assessed as had been used in the earlier acts and had been interpreted by the courts. We must therefore conclude that it was the legislative intent that the properties to be assessed under the act of 1899 should be those, and those only, which actually abutted on the line of the improvement authorized by that act.
+What then was the improvement in the present case which was made by the appellant borough under the authority of the act of 1899? This must be determined by an inspection of the ordinance authorizing and describing the work to be done. It appears from the record that an unnamed run or creek ran in its natural channel for a considerable distance along Union avenue, one of the streets of the borough of Oakdale. We are not informed as to the entire length of the stream nor the distance along Union avenue traversed by it beyond what is shown in the plot attached to the record. On both sides of the stream, so far as the plan shows, the land had been divided into lots, many of which were improved with dwellings. Union avenue as its northern termination had the railroad station of the P., C., C. & St. L. Railroad, which road at this point runs generally in an east and west line. A short distance north of the railroad and parallel with it is a stream of some size called Robinson’s run. When the small stream first mentioned reached a point on Union avenue farther north than the properties of any of the appellees it turns sharp to the right and for a distance of some hundreds of feet follows a meandering course eastward, with but little if any fall, until it finally empties into Robinson’s run aforesaid. From natural causes the flow of this stream near its mouth became easily obstructed, and this would result in more or less backwater farther up the stream.
+Now the ordinance of the appellant borough conclusively shows that the improvement which was authorized by the borough councils, and which was actually constructed, consisted of two things: (a) the vacation of all that portion of the channel of the said stream between its mouth and the point on Union avenue where it turned sharply to the east, this point being accurately described in the ordinance; (b) in substituting therefor a new channel starting at the same point last described and extending almost due north along Union avenue to and under the railroad tracks and then into Robinson’s run.
+The ordinance mentions no portion of the stream south of its turning point last described and provided for no work whatever to be done along the line of the stream where the properties of the appellees abut on it or on Union avenue in which its channel was located.
+It seems clear enough to us, therefore, that if we are to follow the uniform decisions of the Supreme Court, we must conclude that the only properties which could be lawfully assessed with any portion of the cost of the improvement made by the appellant borough are those which abutted on the line of the improvement; that this improvement, as the ordinance declares, consisted of the vacation of the portion of the stream already described and the substitution for it of the new channel already adverted to; that the properties of the appellees which were sought to be charged with benefits by the report of the viewers did not abut on the line of the proposed improvement; that although they, like all other riparian owners above them, may find it to their advantage to have had the stream near its mouth traverse a straight and unobstructed channel rather than the tortuous and difficult one it had theretofore taken, such advantage did not bring these properties within the class of those peculiarly benefited by the improvement as that expression has been defined by the courts.
+Were it competent for the legislature, unhampered by constitutional restrictions, to assess with benefits an}' property which a board of viewers might determine was even indirectly benefited by a municipal improvement, the argument of the able counsel for the appellant addressed to the legislative power would have much force. If, however, we were to adopt this reasoning it would result in giving to the act of 1899 a construction radically different from that given by the Supreme Court to the earlier acts, which are in pari materia and which use substantially the same language as the act in question describing the class of properties that could be assessed.
+We are of opinion, therefore, that the learned court below was right in sustaining the exceptions of the appellees and in setting aside the report of the board of viewers to that extent.
+Judgment affirmed.
