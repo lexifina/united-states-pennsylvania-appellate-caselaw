@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 233"
+decided: "1947-01-17"
+citations: ["160 Pa. Super. 211"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Baldrige, P. J., Rhodes, Hirt, Reno, Dithrich, Ross and Arnold, JJ."]
+parties: ["Commonwealth v. Holman, Appellant."]
+source_url: "https://static.case.law/pa-super/160/cases/0211-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 458430
+cites_cases: ["117 A. 211", "152 Pa. Superior Ct. 236", "155 Pa. Superior Ct. 120", "170 A. 139", "19 A. 2d 920", "273 Pa. 474", "31 A. 2d 582", "314 Pa. 99", "342 Pa. 282", "38 A. 2d 494", "76 Pa. Superior Ct. 500"]
+---
+
+# Commonwealth v. Holman
+
+## Majority (Ross, J.,)
+
+Opinion by
+Ross, J.,
+The only question involved in this appeal from a jury conviction of involuntary manslaughter is the sufficiency of the commonwealth’s evidence to sustain the conviction.
+On June 28, 1946, about 7:30 p.m., Daylight Saving Time, on a clear day, the defendant was operating his automobile south on Tenth Street, a one-way street, in Philadelphia, approaching Buttonwood Street, when at a point 15 or 20 feet north of Buttonwood Street the automobile struck and killed a five-year-old girl, who was crossing Tenth Street from the west to the east side and at the time she was struck was two feet from the east curb. Tenth Street runs north and south, measures 26 feet from curb to curb and is intersected at right angles by Buttonwood Street and by Spring Garden Street, which is one block north of Buttonwood.
+Involuntary manslaughter is committed where it appears that neither death nor any great bodily harm was intended, but death is accidentally caused by some unlawful act. Commonwealth v. Micuso, 273 Pa. 474, 117 A. 211. The essence of the crime of involuntary manslaughter is the death of a human being in consequence of an unlawful act. Commonwealth v. Stosny, 152 Pa. Superior Ct. 236, 31 A. 2d 582. It is immaterial whether the unlawful act was unlawful in its inception or became unlawful after it was begun. Commonwealth v. Aurick, 342 Pa. 282, 19 A. 2d 920. Where the act in itself is not unlawful, that is, contrary to law, then to make it criminal, negligence must be such a departure from what would be the conduct of an ordinary prudent man under the same circumstances as to evidence a disregard of human life or an indifference to consequences. Commonwealth v. Dellcese, 155 Pa. Superior Ct. 120, 38 A. 2d 494.
+The appellant contends that the commonwealth failed to show the commission of an unlawful act, but with that contention we cannot agree. Reckless driving upon a highway is an unlawful act (Commonwealth v. Godshalk, 76 Pa. Superior Ct. 500), and there is sufficient testimony in this case from which a jury could find that the defendant at the time of the accident was driving not only recklessly but with an indifference to consequences.
+According to the testimony, there is a single set of car rails located in the center of Tenth Street, a one-way street southbound. An eyewitness, Borho, testified that he saw the little girl on the west side of Tenth Street and saw her start to cross the street. He testified, “I didn’t see the car come, and she went to the east side of the tracks and this car came along and sideswiped her with the left fender. . and that there was nothing on Tenth Street to obstruct the view of anyone else on that street. Another eyewitness, Kowall, who saw the car strike the child, testified that when she was struck she was about two feet from the east curb and was struck about 15 or 20 feet north from the intersection of Tenth and Buttonwood Streets. He also testified that the car was traveling between 30 and 35 miles an hour and that it came to a stop “around 130 or 110 feet” away from the scene of the accident. A police officer, who arrived at the scene of the accident a few minutes after it happened, testified that the defendant said there was nothing to obstruct his view but that he “had no knowledge or sight of the child which he struck until he felt a bump”.
+Appellant complains that Kowall was not able to express an opinion of the speed of the defendant’s car. However, after qualifying, he did express an opinion and its weight was for the jury. He also advances an ingenious argument about the distance the car traveled after the accident, but that, likewise, is a jury argument.
+Here we have a situation where in daylight, with no obstructions to vision and with no other traffic on a city street, tlie driver of an automobile approaching an intersection at a speed of 30 to 35 miles an hour, runs down a child who had crossed 24 feet of a 26-foot one-way street —within two feet of her apparent destination — strikes and kills her on his left side of the highway and does not bring his car to a stop until it had traveled from 116 to 130 feet from the scene of the accident. Clearly, there is sufficient evidence in the record to sustain the verdict of the jury. As stated by the present Mr. Chief Justice Maxey in Commonwealth v. Aurick, supra, 342 Pa. 282, 19 A. 2d 920: “The law nowhere countenances careless, negligent and reckless conduct when that conduct menaces the physical well-being of others. Such conduct is therefore unlawful. It may not be unlawful if it menaces only the well-being of the reckless individual himself. It becomes so when others are brought within its compass. In Bisson v. Kelly, 314 Pa. 99, 110, 170 A. 139, this court said: ‘It is a primary social duty of every person to take thought and have a care lest his action result in injuries to others. This social duty the law recognizes and enforces, and for any injury resulting from any person’s lack of elementary forethought, the law holds that person accountable. A normal human being is held to foresee those injuries which are the consequence of his acts of omission or commission which he, as a reasonable human being, should have foreseen.’ ”.
+Judgment and sentence affirmed.
