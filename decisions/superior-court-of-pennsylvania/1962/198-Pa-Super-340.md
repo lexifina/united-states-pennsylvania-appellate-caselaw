@@ -1,0 +1,38 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 123"
+decided: "1962-06-13"
+citations: ["198 Pa. Super. 340"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Ervin, Wright, Woodside, Watkins, Montgomery, and Flood, JJ."]
+parties: ["Smith v. Sanft, Appellant."]
+source_url: "https://static.case.law/pa-super/198/cases/0340-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 758635
+cites_cases: ["12 Pa. Superior Ct. 169", "12 Pa. Superior Ct. 628", "172 Pa. 91", "22 Pa. Superior Ct. 326", "254 Pa. 510", "29 Pa. Superior Ct. 200", "31 Pa. Superior Ct. 268", "33 A. 349", "86 Pa. D. & C. 326", "98 A. 1072"]
+---
+
+# Smith v. Sanft
+
+## Majority (Woodside, J.,)
+
+Opinion by
+Woodside, J.,
+This is an appeal from a judgment of the County Court of Philadelphia entered in favor of the Insurance Commissioner as Statutory Liquidator of a mutual fire insurance company against a former policyholder of the company.
+The action was brought in assumpsit to recover an assessment calculated under an assessment order of the Dauphin County Court. The relevant facts, set forth in an agreed statement of the case, are as follows :
+The General Mutual Fire Insurance and Reinsurance Company, a domestic mutual fire insurance company, became insolvent and was dissolved on November 20, 1951, by order of the Court of Common Pleas of Dauphin County. The Insurance Commissioner became its statutory receiver to liquidate its business.
+On May 10, 1958, the Court of Common Pleas of Dauphin County, sitting as the Commonwealth Court, ordered and decreed that all members and policyholders of the company, including the appellant, pay an additional premium or assessment for the purpose of paying the losses of the company. The court set forth a formula to be followed in arriving at the computation of the assessment against the individual policyholders. The said assessment order, after setting forth the petitioning by the liquidator for an assessment order, the hearings thereon, and the notice thereof, provided: “that all members and policyholders . . . who had policies in effect during all or part of the period from December 22, 1947 to November 1, 1951, inclusive pay ... an additional premium or assessment. . . . The additional premium or assessment of each member and policyholder shall be the result of multiplying the total of the following monthly assessment factors of the months during which a policy was in force by the cash premium stated in the policy, subject to the limitation that the additional premium or assessment shall not exceed an amount equal to the said cash premium.” (Emphasis supplied) The monthly assessment factors were then set forth in the order.
+Thereafter, the liquidator computed the assessment owing under the said order from the appellant as $1,-764.00. After payment was refused the liquidator brought suit in assumpsit in the then Municipal Court of Philadelphia.
+The appellant and her husband (Avho had died prior to the institution of the suit herein involved) had been insured by the company under four standard fire and extended coverage insurance policies in the amount of $10,000.00 each, covering four separate buildings. The policies were written for a period of five years from September 18, 1950 to September 18, 1955, for a cash premium of $1764.
+The parties stipulated in the court below that the earned premium on the said policies for the period September 18, 1950, to November 2, 1951 was $454.99. The parties further stipulated that if the court below found that the pro-ration of the premium requested by the appellant was correct, her assessment should be in the amount of $454.99. On the other hand, if the liquidator’s contention was followed by the court, her assessment should be in the amount of $1764. The court found the amount due to be $1764, and judgment was entered for that amount. This amount was calculated by multiplying the cash premium set forth in the policy for five years by the monthly assessment factors during the months between the issuance of the policy and the taking over of the company by the Insurance Commissioner.
+The appellant contends that under the assessment order of the Dauphin County Court the assessment factors should not be multiplied by the cash premium stated in the policy, but by only that part of the premium earned by the company up to the time that the Insurance Commissioner took over the company for liquidation.
+She contends that it is inequitable to use the five year premium to determine the assessment against her and to use only a one year premium to determine the assessment against a policyholder who was insured for a term of only one year. This contention should have been made to the Dauphin County Court when it was considering the order of assessment.
+It has long been settled that an assessment order made against policyholders of a mutual insurance company by a court of competent jurisdiction may not be attacked collaterally in a subsequent action to collect the assessment. Capital City Mutual Fire Ins. Co. v. Boggs, 172 Pa. 91, 33 A. 349 (1895); Moore v. Reifsnyder, 22 Pa. Superior Ct. 326 (1903); Stockley v. Riebenack, 12 Pa. Superior Ct. 169 (1899); Stockley v. Hartley, 12 Pa. Superior Ct. 628 (1900); International Savings and Trust Co. v. Kleber, 29 Pa. Superior Ct. 200 (1905) ; Backenstoe v. Kline, 31 Pa. Superior Ct. 268 (1906).
+Counsel for the appellant recognizes this principle, for he argues in his brief that he is not making a collateral attack upon the Dauphin County Court order, but wishes only “to clear up an ambiguity” in the order.
+Actually, there is no ambiguity whatsoever in the order of the Dauphin County Court. The narrow question stated in the Agreed Statement of the Case answers itself. The parties ask us, “Did the Court mean that the total of the assessment factors shall be multiplied by the cash premium actually stated in the policy or by a pro rata portion of that cash premium for the actual period the policy ran?” Of course, “cash premium stated in the policy” means exactly what it says, and not “earned premium,” or “annual premium,” or “pro rata premium.”
+“Premium,” in the law of insurance, means the consideration for a contract of insurance. 18 P.L.E. Insurance, §111; Commonwealth v. Metropolitan Life Insurance Co., 254 Pa. 510, 98 A. 1072 (1916). The premiums stated in the policies of the appellant totalled $1764, and this was the figure that the Dauphin County Court ordered to be used in determining the assessment.
+The only case cited by the appellant in support of her position establishes her error. She argues that in Commonwealth ex rel. Woodside v. Seaboard Mutual Casualty Co., 86 Pa. D. & C. 326, 64 Dauphin 419 (1953), which involved an order of assessment, the court directed the monthly factor to be multiplied “by the annual premium on each policy.” (Emphasis supplied). That case involved a casualty company whose policies are usually written for one year, while this case involves a fire insurance company whose policies are frequently written for three and five years. A comparison of the orders shows, however, that when the court intends the monthly factors to be multiplied by the annual premium it knows how to say it, and when it intends the monthly factors to be multiplied by the “cash premium stated in the policy” it knows how to say that.
+If the monthly assessment factors are multiplied by the cash premiums stated in the appellant’s policies the amount of her assessment is the amount for which the judgment was entered.
+Judgment affirmed.
