@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 275"
+decided: "1965-12-16"
+citations: ["207 Pa. Super. 84"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, P. J., Wright, Waticins, Montgomery, Jacobs, and Hoffman, JJ. (Flood, J., absent)."]
+parties: ["Vincenti Unemployment Compensation Case."]
+source_url: "https://static.case.law/pa-super/207/cases/0084-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 775360
+cites_cases: ["138 A. 2d 174", "185 Pa. Superior Ct. 413", "205 Pa. Superior Ct. 122", "208 A. 2d 3"]
+---
+
+# Vincenti Unemployment Compensation Case
+
+## Majority (Watkins, J.,)
+
+Opinion by
+Watkins, J.,
+This is an unemployment compensation case in which the claimant, Arthur Yincenti, was denied benefits by the compensation authorities on the ground that his base year earnings were insufficient. He had been employed for a period of eight weeks and one day by W. A. Morten, a landscape gardener in planting sod, trees and shrubs at new home sites. This was held to be agricultural labor and was excluded from his earnings. If it had been added to his earnings he would qualify for benefits. This appeal followed.
+The compensation authorities held him to be an agricultural laborer largely because of this Court’s ruling in the Lubold Unemployment Compensation Case, 205 Pa. Superior Ct. 122, 208 A. 2d 3 (1965), where we held the claimant to be an agricultural worker where he was employed by a nursery under Art. I, §4 (1) (4) (1) (a) and (d) of the Unemployment Compensation Act, Act of December 5, 1936, P. L. (1937) 2897, 43 PS §753.
+We carefully pointed out in that case, at p. 127: “. . . the question depends on the facts of the individual case and that it is the nature of the work which determines whether the employee is engaged in agricultural labor and not the uses to which the product of his labor are put.” See Wolfe Unemployment Compensation Case, 185 Pa. Superior Ct. 413, 138 A. 2d 174 (1958).
+The present case is clearly distinguishable from the Lubold case. In that case the nursery occupied eight to ten acres of growing ground; trees, shrubs, plants and all kinds of horticultural products were grown and cultivated for sale. Some of the plants had been there from six months to six years; that bulbs, ivy, privet, liners, roses and some annuals were grown on the nursery property and in the greenhouse. The Board in the Lubold case found as a fact: “During the calendar year 1961, the Nursery Division of Hershey Estates purchased approximately $20,000 worth of horticultural plants; the total of charges for plant materials made to its customers Avas approximately $90,000; labor and equipment charges amounted to approximately $40,000; and only approximately 33% of the $20,000 purchases was used in 1961 planting.”
+In the instant case, finding of fact four held that: “4. The claimant worked for W. A. Morten, Landscape Gardener, Coraopolis, Pennsylvania, from April 1964 to June 15, 1964 as a laborer doing pick and shovel work in connection with the planting of trees and shrubbery.”
+The evidence in support of this finding is to the effect that all the trees and shrubbery were purchased from an out-of-state nursery; that he did not grow or cultivate any horticultural or agricultural stock of any kind; that he had “quite a bit of ground”; that there were times when the load of trees, shrubs or sod were taken directly to the home site for planting and other times when they were “heeled” in on Morten’s ground but not planted; that they were so kept and watered until the home site was ready.
+It is clear from this record that this landscape gardener exclusively purchased the trees, shrubs and sod when needed and that in fact, he did not raise or cultivate any horticultural or agricultural product of any kind. The work the claimant did was primarily digging the holes for trees and shrubs at the home site or digging the holes for the shrubbery and trees on Morten’s land for heeling. He also did the pick and shovel work in connection with the preparation of home sites for sod. This employer did not own a nursery or greenhouse “used primarily for the raising of agricultural or horticultural commodities” as provided in the law, §4(1) (4) (1) (d), supra. In fact, in this case there is no evidence that he was the owner of a nursery or greenhouse.
+A nursery has been defined as “. . . any grounds or premises on or in which nursery stock is propagated or grown for sale . . .”. Act of April 21, 1937, P. L. 318, 3 PS §214-2. We pointed out in the Lubold case, supra, that the Bureau of Employment Security issued a statement of policy dated May,.1961, which was one of the guidelines used by this Court in its determination and which now clearly distinguishes' this case from the Lubold case. It reads as follows: “It is sometimes necessary for a producer of agricultural or horticultural commodities to purchase additional products not produced by himself, to. augment his supply ... The opinions handed down in a number of court cases provide a guide for an equitable policy in this respect. It is, therefore, our policy to rule that the exempt status of services is not disturbed when the purchase of outside products over a calendar year do not exceed 49% of the total of his own production plus the purchases.” And too, the Bureau’s standards of the same date, provide as follows: “Services performed in the planting of nursery stock on the property of customers of nurserymen shall be deemed to be incidental to the agricultural nature of the nursery enterprise and considered agricultural employment, providing the landscaping work is performed by regular employees of the nursery. This exception does not extend to services performed exclusively in the business of landscaping and disassociated with the growing and cultivation of nursery stock.” It follows that under the facts in this case the services performed by this claimant were performed exclusively in the business of landscaping and disassociated with the growing and cultivation of nursery stock.
+Decision reversed and it is directed that the Compensation Authorities credit the claimant with his earnings while employed by W. A. Morten, landscape gardener.
