@@ -1,0 +1,33 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 443 C.D. 1985"
+decided: "1987-04-22"
+citations: ["105 Pa. Commw. 372", "524 A.2d 1031"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail and Colins, and Senior Judge Blatt, sitting as a panel of three."]
+parties: ["Robert K. Sanders, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/105/cases/0372-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1358299
+cites_cases: ["103 Pa. Commonwealth Ct. 154", "103 Pa. Commonwealth Ct. 267", "34 Pa. Code §101.24", "38 Pa. Commonwealth Ct. 419", "393 A.2d 514", "470 A.2d 203", "472 A.2d 752", "491 A.2d 947", "510 Pa. 574", "511 A.2d 167", "79 Pa. Commonwealth Ct. 625", "81 Pa. Commonwealth Ct. 101", "89 Pa. Commonwealth Ct. 61"]
+---
+
+# Sanders v. Commonwealth
+
+## Majority (Judge Colins,)
+
+Opinion by
+Judge Colins,
+Robert K. Sanders (claimant) appeals an order of the Unemployment Compensation Board of Review (Board) which reversed a referees grant of unemployment benefits on the basis of Section 402(e) of the Unemployment Compensation Law (Law), Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §802(e).
+Claimant had been employed as a security guard by Security Services, Inc. (employer). Claimant applied for benefits to the Office of Employment Security which denied his application on the ground of willful misconduct. Claimant appealed and a hearing before the referee was scheduled for August 13, 1984 at 3:00 p.m. At approximately 2:30 p.m. that same day, employers representative called the referees office to say that he would be unable to attend and was told by a staff member of the referees office that he would be contacted by telephone to give his testimony. At 3:00 p.m. the hearing was held as scheduled. The referee entered the message of the telephone conversation into the record but failed to call employers representative. Following the hearing at which claimant testified, the referee issued a decision awarding claimant compensation benefits.
+Employer filed an appeal and a request to reopen the hearing with the Board, which remanded the case on the ground that employer had not been contacted by telephone when it had been notified that this would be the case. After a second hearing during which both parties testified, the Board reversed the referee and denied benefits. This appeal followed.
+The burden of proving willful misconduct is upon the employer. Hine v. Unemployment Compensation Board of Review, 103 Pa. Commonwealth Ct. 267, 520 A.2d 102 (1987). Our review is limited to determining whether constitutional rights were violated, an error of law committed, and whether necessary findings of feet are supported by substantial evidence. Section 704 of the Administrative Agency Law, 2 Pa. C. S. §704. Moore v. Unemployment Compensation Board of Review, 103 Pa. Commonwealth Ct. 154, 520 A.2d 80 (1987).
+Claimant contends that the Board abused its discretion in remanding the case for additional testimony, arguing that employer lacked good cause for foiling to participate in the first hearing. We preliminarily note that where a party fails to appear at a scheduled hearing, the Board may remand the case for an additional hearing only where the Board has made an independent determination that the reasons set forth by the party for its failure to appear constitute proper cause. McNeill v. Unemployment Compensation Board of Review, 510 Pa. 574, 511 A.2d 167 (1986); sec also 34 Pa. Code §101.24(a). In the present case, the Board ordered a second hearing on the basis that subsequent to informing the referees staff that it would be unable to attend the hearing, the employer was advised that it would be notified by telephone. This is not sufficient for purposes of McNeill, however, for the Boards determination did not address the issue of whether the employers failure to appear at the hearing constituted good cause.
+We do not believe it necessary to remand a case to the Board for findings of good cause where, as here, the employers explanations for its failure to appear do not rise to the level of “proper cause” as a matter of law. Savage v. Unemployment Compensation Board of Review, 89 Pa. Commonwealth Ct. 61, 491 A.2d 947 (1985).
+Employer proffered two excuses for its failure to appear which, we note, are mutually exclusive by virtue of their inconsistency. One half hour before the start of the 3:00 p.m. hearing, the employer called the referees office to say that the employers representative scheduled to appear had just called in sick and the employer was then too great a distance away to appear. Under such circumstances, we do not believe that the referee was obligated to continue the hearing or to conduct a telephonic hearing. “[I]t is no abuse of a referees discretion to refuse a party’s telephonic request for a continuance made just before a scheduled hearing and at a time moreover when his adversary is actually on the way to the hearing place.” Martin v. Unemployment Compensation Board of Review, 38 Pa. Commonwealth Ct. 419, 422, 393 A.2d 514, 515 (1978). Inasmuch as employer failed to take the necessary steps to protect its own interest, the Board should not have remanded the case for a second hearing. See Bennett v. Unemployment Compensation Board of Review, 79 Pa. Commonwealth Ct. 625, 470 A.2d 203 (1984).
+In its request to reopen the employer offered an entirely different explanation for not attending the hearing. This time the employer stated that it had failed to receive notice of the hearing until 2:30 p.m. the same day owing to the negligence of the service it utilizes for clerical and office support. It is, of course, true that the negligence of a third party not part of the litigation may excuse the dilatory actions of a party to the litigation in certain circumstances, see, e.g., Finney v. Unemployment Compensation Board of Review, 81 Pa. Commonwealth Ct. 101, n. 3, 472 A.2d 752, n. 3 (1984). In the instant case, however, the alleged late notice was attributable to the purported negligence of an entity acting on the employers behalf, and not that of a disinterested third party. Accepting as true both explanations proffered by the employer, we hold there was no proper cause for the Board to remand the case for a second hearing.
+Accordingly, the order of the Board is reversed.
+Order
+And Now, April 22, 1987, the order of the Unemployment Compensation Board of Review in the above matter is reversed.
