@@ -1,0 +1,21 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 238"
+decided: "1965-12-01"
+citations: ["207 Pa. Super. 712"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Flood, J., absent."]
+parties: ["Commonwealth ex rel. Scott, Appellant, v. Russell."]
+source_url: "https://static.case.law/pa-super/207/cases/0712-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 775230
+---
+
+# Commonwealth ex rel. Scott v. Russell
+
+## Majority
+
+Order affirmed.
+Flood, J., absent.
