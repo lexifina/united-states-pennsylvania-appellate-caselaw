@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 359"
+decided: "1964-11-12"
+citations: ["204 Pa. Super. 335"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, Wright, Woodside, Watkins, Montgomery, and Flood, JJ. (Rhodes, P. J., absent)."]
+parties: ["Glisson v. Carlin et al., Appellants."]
+source_url: "https://static.case.law/pa-super/204/cases/0335-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 769983
+cites_cases: ["160 A. 2d 398", "198 A. 2d 342", "202 Pa. Superior Ct. 517", "399 Pa. 261"]
+---
+
+# Glisson v. Carlin
+
+## Majority (Montgomery, J.,)
+
+Opinion by
+Montgomery, J.,
+This is an appeal from an order which was entered in the pretrial stage of an action in trespass commenced by complaint filed on May 31, 1962, by appellee-plaintiff against the appellants-defendants.
+In December, 1963, pursuant to Pa. R. C. P. 4003(a) (2), the defendants served upon plaintiff and duly filed written interrogatories to be answered by an eyewitness, John H. Stephans, who at that time was serving in the United States Air Force and was stationed in Germany. The plaintiff filed written objeetions to the interrogatories and moved to strike them. Plaintiff further requested that the defendants be permitted to take the oral testimony of Stephans on payment of reasonable counsel fees and expenses to the plaintiff. In the order appealed from, filed February 11, 1964, the court struck the defendants’ interrogatories and stated, “The defendants may take the oral examination of the witness within sixty days of this date upon reasonable notice to plaintiff and upon payment of reasonable counsel fees and expenses to the plaintiff.”
+Defendants have appealed from the order in its entirety; but the plaintiff contends that the order is interlocutory, with the exception of that part, relating to costs, which he concludes is final and appealable.
+By the very nature of that portion of the order permitting the taking of the oral deposition on payment of costs to the plaintiff, we conclude that it is not before us now and, in fact, may be ignored with impunity by the parties because it is utterly void. Pa. R. C. P. 4003(a)(2) provides that a deposition by written interrogatories for use at trial may be taken of a witness more than one hundred miles from the courthouse as a matter of right, the only requirement being due notice to the opposing party or parties. The right to take the deposition of such witnesses by written interrogatories may be abrogated only when the court exercises its discretion to order the taking of the deposition by oral examination under the provisions of Pa. R. C. P. 4003(a) (2), which provides generally for oral examination; Pa. R. C. P. 4004(e), which provides that the court may order that the deposition not be taken by oral examination; and Pa. R. C. P. 4008, which provides for the imposition of reasonable costs if such depositions are to be taken by oral examination. However, the court may not act under these rules unless a proper motion is made by a party; for each of the three rules cited above contain the words “upon motion”. No motion has been made by any party in this case to take the deposition of Stephans by oral examination. Obviously the defendants do not wish that such a motion be made and the plaintiff also does not wish fco make such a motion because he does not want the costs imposed on him. See Goodrich-Amram Civil Practice, §4004(e)-l. Plaintiff’s motion amounts to little more than a suggestion to the court, whose order rises no higher than another suggestion, without legal effect, that the deposition be taken by oral examination, although the order striking the interrogatories is mandatory.
+Similarly, the court did not make the costs final and definite but merely made them conditional on a future event, the taking of the deposition by oral examination. Thus we find these circumstances distinguishable from the facts in Garris v. McClain, 399 Pa. 261, 160 A. 2d 398 (1960), cited by defendants as authority that such orders are appealable. In that case the court withdrew a juror and continued the case at trial and imposed the costs on the plaintiff. It was held that the order was generally interlocutory because it did not put the plaintiff out of court entirely but that the imposition of costs was not interlocutory. Under the facts here, the costs have not yet been incurred and are not definite and final. Moreover, in view of our discussion of the order permitting the taking of the deposition, we also find that the order as to costs is a nullity.
+Therefore, we find that the only matter before us is the order striking the interrogatories. However, unless a special right to appeal is expressly given by statute, an appeal will lie only from a definitive order, decree, or judgment which finally determines the action; such order, judgment or decree is not final unless it determines the litigation between the parties to the suit by precluding a party from further action in the court below; and the court cannot assume such appellate jurisdiction even by consent of the parties. Caples v. Klugman, 202 Pa. Superior Ct. 517, 198 A. 2d 342 (1964). Even if the order were to have the practical effect of preventing the defendants from obtaining the testimony of the witness in Germany, it would not determine the whole action, it would not end the litigation, and it would not preclude the defendants from further action in the court below. We recognize the seriousness of defendants’ contention that the lower court abused its discretion in striking the interrogatories; but, in view of our opinion that such orders are interlocutory, we do not decide the merits of this question on this appeal.
+We do not construe the court’s order as an order that the deposition may not be taken except by oral examination, which the court would have been empowered to direct within its discretion under Pa. R. O. P. 4004(e). Even if this order should be so interpreted, the result would be the same; such an order is interlocutory under the cases cited herein.
+Appeal quashed.
+The order quashing this appeal was filed September 30, 1964.
