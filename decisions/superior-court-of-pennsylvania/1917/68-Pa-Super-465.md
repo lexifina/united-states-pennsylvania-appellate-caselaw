@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 190"
+decided: "1917-12-13"
+citations: ["68 Pa. Super. 465"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Henderson, Head, Kephart, Trexler and Williams, JJ."]
+parties: ["Callahan v. Pennsylvania Railroad Company, Appellant."]
+source_url: "https://static.case.law/pa-super/68/cases/0465-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 630938
+cites_cases: ["141 Pa. 615", "17 W. N. C. 177", "201 Pa. 247", "201 Pa. 297", "206 Pa. 356", "214 Pa. 82", "227 Pa. 297", "65 Pa. Superior Ct. 247", "78 Pa. 219", "99 Pa. 301"]
+---
+
+# Callahan v. Pennsylvania Railroad
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+The accident out of which this action arises occurred on Delaware avenue, a paved public street of Philadelphia, on which were three tracks of the defendant laid flush with the pavement. The street was used for vehicles of all kinds as well as for the transportation of such cars as the business of the defendant required in that locality. The right of the defendant in the street was concurrent, therefore, with that of the public. Nothing disclosed by the testimony tends to show that the- defendant’s right was greater than that exercised by a street car company occupying the streets of the city. James Callahan, the person injured, was driving a horse not attached to a vehicle southwardly on the westerly side of the street near the middle track of the defendant. Two employees of the defendant were operating a locomotive and tender on the same track at a considerable distance back of the defendant but were moving toward him, the tender being between him and the locomotive. He was driving the horse to the stable of his employer and while so engaged was struck by the tender or a projecting part of the locomotive and seriously injured. It is not disputed that the evidence required the submission of the case to the jury on the negligence of the defendant. It is contended, however, that binding instructions should have been given against the plaintiff because of the alleged contributory negligence of Callahan. It cannot be doubted that he was lawfully on the street. The right of the defendant to the use of the street was not exclusive. If it be assumed that in that street the cars of the defendant should have the right of way that right could only be exercised with due regard to the rights of owners and drivers of vehicles who were entitled to the use of the street when it was not occupied by the defendant’s cars. It was the duty of the employees of the defendant, therefore, to give warning when about to move cars on the street when the animals or vehicles of others were dangerously near the moving cars. It was evidently not the intention of the municipal authorities in granting the use of the street to the defendant that the large part of it within the limits of the tracks should be in the exclusive control of the defendant and when the latter’s business required the moving of cars persons occupying the street along the line over which the cars were to be moved should have sufficient warning to enable them to avoid the danger. It is in evidence and not controverted that the engineer in charge of the loco-’ motive saw Calláhan some distance ahead of the tender and knew that he was driving close to the rails on which the locomotive was moving. The plaintiff’s evidence is to the effect that the engineer and fireman were talking on the opposite side of the engine from the position of Callahan and that no warning Avas given by bell or otherwise of the approach of the locomotive. If the facts were as alleged there was a failure of duty on the part of the defendant’s employees in omitting to warn the driver of the approach of the engine in order that he might avoid peril. Callahan was not a .trespasser and the cases relating to the charge of contributory negligence of persons traveling on property in the exclusive possession of a railroad company or of pedestrians making an inappropriate use of the wagonway do not control the case. The authorities cited by the learned counsel for the appellant are of this character and are all consistent with the decision in Holt v. Pennsylvania Railroad Company', 206 Pa. 356, a case relied on by the learned judge of the court below in disposing of the motion for judgment non obstante veredicto. The question of contributory negligence was submitted to the jury as favorably for the defendant as the evidence warranted and a careful examination of the subject leads ns to the conclusion that the case was well tried and that it involved questions of fact properly submitted to the jury.
+The judgment is affirmed.
