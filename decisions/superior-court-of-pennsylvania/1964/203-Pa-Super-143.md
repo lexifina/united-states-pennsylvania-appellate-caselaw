@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 144 to 171"
+decided: "1964-04-14"
+citations: ["203 Pa. Super. 143"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, Wright, Woodsidid, Watkins, Montgomery, and Flood, JJ. (Rhodes, P. J., absent).", "Montgomery and Flood, JJ., would affirm on the opinion of the court below."]
+parties: ["Commonwealth, Appellant, v. Harris."]
+source_url: "https://static.case.law/pa-super/203/cases/0143-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 767939
+cites_cases: ["190 A. 2d 709", "372 Pa. 266", "411 Pa. 81", "93 A. 2d 691"]
+---
+
+# Commonwealth v. Harris
+
+## Majority (Ervin, J.,)
+
+Opinion by
+Ervin, J.,
+The court below granted the prayer of a petition of the appellee, Henry D. Harris, to suppress certain evidence (payroll checks, stubs, income tax notification slips) claimed to have been obtained through an illegal search and seizure from his apartment and certain other evidence (samples of handwriting) claimed to have been obtained by fraud, trickery and coercion.
+Harris had been an employe of Sun Oil Company for approximately five years prior to the afternoon of January 14, 1963. At that time he was one of the mail drivers and he had been identified by several bank tellers as having passed certain Sun Oil checks which were not made out to him. These checks were dispatched to the mail room and then were sent to various parts of the country. Reports were received that some of these checks were never received and some of them had turned up as being cashed in Philadelphia. A conference was held in the office of the Sun Oil Company and Harris was asked to report at this conference. The questioning commenced at approximately 2:15 p.m.
+Frank McCorkle, a detective in the Intelligence Unit of the Philadelphia Police, read from certain notes which he had prepared concerning the meeting of January 14 as follows: “At this time Harris stated to the assigned detectivies and officers of the Sun Oil Company that he was not involved in any theft from the mail department and that he would consent to take a lie detector test, he also said he would be glad to accompany the assigned detectives to his apartment and allow them to search same. He stated he had nothing to hide and would voluntarily consent to said search in attempt to clear his name.”
+McCorkle also testified that before they left for the apartment they asked Harris where his car was and he told them he had loaned it to a friend and that possibly it might be parked at a train station in German-town. They then went to Germantown but the car was not there. They then went to Harris’ apartment, arriving there about 6:00 p.m., and found certain check stubs and other evidence which linked Harris to the checks which had been irregularly cashed. After find: ing these articles in his apartment, they asked him whether he had any more checks and he said he had one more. They asked him where it was and he said it was in his car and he gave them a parking check where he had parked the car near the Sun Oil Company office. They subsequently went to the car and found that check. They testified that they would not have known where the car was had not Harris told them and given them the parking check.
+It is also clear from the testimony of the officers, as well as Harris, that he was not placed under arrest until after the incriminating evidence was discovered in his apartment. Harris himself corroborated the police officer’s testimony. Under examination by his own attorney he testified as follows: “Q. When they asked you to go to your apartment did you request it or did they request it? A. No, chief Kelly came back in from outside the office and he asked me did I have anything of Sun Oil Company in my apartment. And I knew about the stubs but I didn’t think to say it was the same thing they were talking about because I didn’t know anything about it. So I told them no. So they asked me would I object to going to my apartment, and I told them No again.” Again, on cross-examination, he testified as follows: “Q. From the conference, you voluntarily went to your apartment, is that correct, after the discussion with inspector Kelly? A. Yes, sir, I did. . . . Q. ... So then you had no objection to them searching your apartment? A. No, sir, because they told me that anything that didn’t pertain to what they were looking for wouldn’t be touched. But that was contradicted at the end. . . . Q. Assuming you hadn’t stolen, as you say, if they were in there would you have objected to them coming to your apartment and making a search? A. I didn’t object.”
+It is well settled that the constitutional right prohibiting an unreasonable search and seizure may be waived by the defendant personally: Com. v. Wright, 411 Pa. 81, 190 A. 2d 709.
+No implicit coercion arises from the mere fact of the interrogation of a suspect where he has been assured that he is not under arrest: Com. v. Johnson, 372 Pa. 266, 93 A. 2d 691.
+It is clear from the record in this case that Harris gave consent to the search of his apartment at a time when he was not under arrest.
+After the search of the apartment and the visit to his car, Harris was taken to a Horn & Hardart restaurant and offered food. Harris declined any food but did take some coffee. Thereafter he was taken to the police station and later on that evening he was asked to write certain names and he complied with the request. He testified that he had not been told the handwriting might be used against him. Certainly Harris knew by this time that he was under arrest and he must have known that the writings he was asked to make were for the purpose of checking his handwriting with those of the specimens presented to him. He testified that he was nervous at this time and upset and we have no doubt but that this was the truth. By this time he knew that he was in real difficulty with the law. The record reveals that he had a fair amount of intelligence and had been taking a course at Peirce School to improve himself. There was no fraud, trickery or coercion used in securing the signatures. Detective McCorkle testified that when Harris was asked to make the samples of handwriting, he said something to the effect that “I’ll fill it out because I repeat I have nothing to hide.”
+We are convinced that the search and seizure in Harris’ apartment was not unreasonable because it was done with his permission, voluntarily given at a time when he was not under arrest. We are also convinced that he freely gave the samples of handwriting and that he was not coerced or tricked into doing this but that he did it because his attitude was that he had nothing to hide.
+The order of the court below is reversed.
+Montgomery and Flood, JJ., would affirm on the opinion of the court below.
