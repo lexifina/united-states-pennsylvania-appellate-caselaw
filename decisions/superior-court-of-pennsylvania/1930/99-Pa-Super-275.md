@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 13"
+decided: "1930-07-10"
+citations: ["99 Pa. Super. 275"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Linn, Gawthrop, Cunningham, Baldrige and Grape, JJ."]
+parties: ["Culp v. Independent Card Corporation, Appellant."]
+source_url: "https://static.case.law/pa-super/99/cases/0275-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 688841
+cites_cases: ["134 Pa. 348", "187 U. S. 90", "207 Pa. 217", "211 Pa. 596", "227 Pa. 580", "288 Pa. 104", "29 Pa. 534", "41 W. N. C. 411", "49 Pa. 118", "95 Pa. 408"]
+---
+
+# Culp v. Independent Card Corp.
+
+## Majority (Baldrige, J.,)
+
+Opinion bt
+Baldrige, J.,
+The defendant company was incorporated in 1925 for the manufacture of playing cards. The plaintiff was the president and A. O'hlson was the treasurer. The board of directors consisted of Culp, Ohlson and Ohlson’s son.
+This action of assumpsit was brought to recover money alleged to be due for services rendered the defendant corporation under an alleged oral contract with A. Ohlson. According to the plaintiff’s testimony, all the common shares of the defendant corporation were held by Culp and Ohlson, with the exception of one share owned by Ohlson’s son. The stock record shows, however, that 14,900 shares were owned by August and Amelia Ohlson, jointly, and that one hundred shares were issued on October 15, 1925, to Carl Ohlson, and on June 9, 1926, eight shares were issued to Cornelius J. Crossin. The plaintiff testified that shortly after the incorporation, Ohlson agreed with him that each was to receive a monthly salary of $200 and Ohlson’s son was to be paid $10' per month; that about the first of August, 1926, Ohlson stated, “We will wait for our salaries. We have money here to pay the salaries, and, as far as that is concerned, these orders are just coming in now and we have to buy these stamps; we have to buy these stamps and until that money comes in we will only pay ourselves half the salaries until the stock is turned over.” The plaintiff sold his stock the following January and brought this action to recover $600, being the balance which he alleged to be due for services rendered in keeping the machinery in shape, making chemicals used in the manufacture of playing cards, etc., from August to January, inclusive. Yerdiet was rendered for the plaintiff and motion for a judgment n. o. v. was refused, and this appeal followed.
+The first five assignments of error raise the major question involved, viz., whether or not the corporation is liable for services rendered by an officer, not strictly related to his official duties, where compensation was not authorized by the corporation. The by-laws provided that salaries of all officers and agents of the corporation were to be fixed by the board of directors. The president was vested with all the general powers and duties of supervision and management of the company’s affairs and the treasurer was to perform duties incident to that office. It appears that Culp and Ohlson each drew a salary of $200 a month to July and $100 a month from August to December. The October salary was paid in two payments. The last check, dated October 30, 1926, bore the endorsement, “Oct. salary in full.”
+There are authorities in other jurisdictions allowing a recovery without corporate action for necessary services rendered by an officer of a corporation entirely outside his duties as an officer (7 E. C. L. 464), but in Pennsylvania that rule is not recognized, as “ a corporate officer has ample opportunities to adjust and fix his compensation before he renders his services, and no great mischief is likely to result from compelling them to do so. But if, on the other hand, actions are to be maintained by corporate officers for services, which, however faithful and valuable, were not rendered on the foot of an express contract, there would be no limitation to corporate liabilities, and stockholders would be devoured by officers” (Kilpatrick v. Penrose Ferry Bridge Co., 49 Pa. 118); and no presumption of such an agreement arises from the services; the agreement must be proven: Martindale v. Wilson-Cross Co., 134 Pa. 348. See also Danville, etc. R. Co. v. Kase, 41 W. N. C. 411 (419). A director rendering services as a superintendent and manager, without an express contract, may not recover (Brophy v. American Brewing Co., 211 Pa. 596); nor is a president of a corporation, who performs services as a mining and civil engineer, allowed to recover on the basis of a quantum meruit: Althouse v. Cobaugh Colliery Co., 227 Pa. 580.
+The plaintiff contends that the distinguishing feature in the case at bar is that there was a contract, but, concededly, there was no official action taken, and the individual members of a corporation, unless they are authorized to do so, cannot bind the corporation: Allegheny County Workhouse v. Moore, 95 Pa. 408.
+The fact that the stock was held by a limited number of persons does not change these well recognized principles. Corporate action is nevertheless essential if the corporation is to be bound, whether the stockholders are few or many.
+In Carville v. Bornot & Co., 288 Pa. 104, it was held that an officer of a corporation may render even manual service at times, but if he renders services not within the scope of the duties of his office, those services in law would be regarded as given free and could not be sued for in the absence of a contract, nor will services rendered by an officer be entitled to compensation under an express contract to pay for them made after they were rendered: Martindale v. Wilson-Cross Co., supra.
+The other assignments relate to the judge’s instructing the jury that the plaintiff was entitled to compensation for service on a quantum meruit, even though compensation was not authorized, if the services were hot strictly related to his official duties. We are of the opinion that those instructions were erroneous but it is unnecessary to elaborate our views on this phase of the case as we sustain the first five assignments of error.
+Judgment is reversed and is hereby directed to be entered for defendant.
