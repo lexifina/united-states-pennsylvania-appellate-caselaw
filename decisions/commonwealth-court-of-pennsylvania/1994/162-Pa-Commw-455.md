@@ -1,0 +1,55 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1915 C.D. 1993"
+decided: "1994-03-10"
+citations: ["162 Pa. Commw. 455", "639 A.2d 887"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CRAIG, President Judge, KELLEY, J., and DELLA PORTA, Senior Judge."]
+parties: ["Steven PIKE, Petitioner, v. WORKMEN’S COMPENSATION APPEAL BOARD (BOB HART CONTRACTORS), Respondent."]
+source_url: "https://static.case.law/pa-commw/162/cases/0455-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1458290
+cites_cases: ["122 Pa.Commonwealth Ct. 58", "27 Pa.Commonwealth Ct. 522", "367 A.2d 366", "402 A.2d 718", "43 Pa.Commonwealth Ct. 454", "522 Pa. 606", "562 A.2d 828"]
+---
+
+# Pike v. Workmen's Compensation Appeal Board
+
+## Majority (CRAIG, President Judge.)
+
+CRAIG, President Judge.
+The claimant, Steven Pike, appeals from an order of the Workmen’s Compensation Appeal Board which affirmed a referee’s decision determining that the employer, Bob Hart Contractors, properly computed the claimant’s average weekly wage pursuant to § 309(d) of the Worker’s Compensation Act, Act of June 2, 1915, P.L. 736, as amended, 77 P.S. § 582(d). We vacate and remand.
+According to the record, the facts in this case are as follows. The claimant started working for the employer in September, 1990. The claimant suffered a work-related injury on January 30,1991. Thereafter, the employer issued a notice of compensation payable on April 23, 1991, which noted an average weekly wage of $140.38 and compensation benefits of $145.33 per week.
+On May 16, 1991, the claimant filed a petition to review the notice of compensation payable, alleging that the employer incorrectly calculated the claimant’s average weekly wage.
+At the referee’s hearing, the claimant introduced a statement of wages which the employer and its insurance carrier had attached to the notice of compensation payable. The information contained on the statement of wages is as follows:
+From To Wages Days Worked
+1st Period 1/30/89 4/30/90 $ 0 0
+2nd Period 4/30/90 7/30/90 $ 0 0
+3rd Period 7/30/90 10/30/90 $1710.00 22
+4th Period 10/30/90 1/30/91 $1825.00 26
+Computation:
+(a) Highest period
+$1825 divided by 13 weeks = $140.38
+This computation of the claimant’s average weekly wage is apparently based on the formula contained in § 309(d) of the Act. That section provides:
+[T]he average weekly wage shall be the wage most favorable to the employe, computed by dividing by thirteen the total wages of said employe earned in the employ of the employer in the first, second, third, or fourth period of thirteen consecutive calendar weeks in the fifty-two weeks immediately preceding the injury,____'
+In addition to presenting the above documentation, the claimant testified on his own behalf. The claimant testified that he earned $10 an hour and worked 40 hours per week for the employer. The employer presented the testimony of Robert Hart, the owner of the company, who testified as to the claimant’s job duties.
+In a decision dated September 18, 1992, the referee found the claimant’s testimony that he earned $400 a week not credible. The referee determined that the statement of wages, as attached by the employer to the notice of compensation payable, correctly computed the claimant’s average weekly wage pursuant to § 309(d) of the Act. On appeal, the board affirmed the decision of the referee and this appeal followed.
+The claimant initially alleges that the statement of wages prepared by the employer is hearsay evidence which, without corroboration, cannot support a finding of fact. Walker v. Unemployment Compensation Board of Review, 27 Pa.Commonwealth Ct. 522, 367 A.2d 366 (1976). We agree. Because that statement was part of the notice which the claimant was required to produce, the statement is not admissible as an admission by the claimant. Moreover, although the employer now contends that the statement of wages was prepared in the normal course of business, the employer did not produce any witnesses to testify as to its identity and mode of preparation as is required by the Uniform Business Records as Evidence Act, 42 Pa.C.S. § 6108.
+The claimant further contends that calculation of his average weekly wage pursuant to the last paragraph of § 309(e), or in the alternative § 309(f) of the Act, would result in a more, favorable average weekly wage. The board determined that the claimant could not avail himself of the last paragraph of § 309(e) of the Act because he did not work for the employer for “two completed calendar quarters”. Section 309(e), first relates to seasonal employment — not applicable here — and then, in its last paragraph, states:
+If under clauses (a), (b), (c), (d) and (e) of this section, the amount determined is less than if computed as follows, this computation shall apply, viz.: Divide the total wages earned by the employe during the last two completed calendar quarters with the same employer by the number of days he worked for such employer during such period multiplied by five. (Emphasis added.)
+In Follett v. Workmen’s Compensation Appeal Board, 122 Pa.Commonwealth Ct. 58, 551 A.2d 616 (1988), petition for allowance of appeal denied, 522 Pa. 606, 562 A.2d 828 (1989), this court stated that calendar quarters constitute four fixed intervals of time, with reference to calendar months. Although Follett concerned § 309(f) of the Act, the definition of a “calendar quarter” is the same for the last paragraph of § 309(e) and § 309(f) of the Act. The four calendar quarters are as follows:
+January 1 through March 31
+April 1 through June 30
+July 1 through September 30
+October 1 through December 31
+In this case, the board erred in determining that the claimant must have been employed for two completed calendar quarters, i.e., throughout those two quarters. We are guided by this court’s decision in Follett. In that case, this court interpreted the language in § 309(f) of the Act, which calculates a claimant’s average weekly wage based on his “highest calendar quarter wage amount in the first four of the last five completed calendar quarters immediately preceding the date of his injury,____” This court stated:
+Section 309(f) does not require that an employee must have worked for an employer for any specified period of time before the formula set forth therein can be used to calculate his average weekly wage. It merely defines that period within which wages must have been earned by the employee in order that they may be considered when calculating his average weekly wage. Id. at 63, 64, 551 A.2d at 619. (Emphasis added.)
+As in § 309(f) of the Act, the language in the last paragraph of § 309(e) of the Act merely sets forth the time in which wages must have been earned by the employee so that they may be considered in the calculation of his weekly wage. The last paragraph of § 309(e) of the Act does not impose a requirement that the employee must have worked for a specified amount of time before application of its formula may be used.
+In this case, the claimant’s injury occurred on January 30, 1991. Thus, the last two completed calendar quarters preceding his injury are the calendar quarters ending September 30 and December 31. The wages earned by the claimant during this time frame, with the same employer, can be considered in calculating his average weekly wage pursuant to the last paragraph of § 309(e) of the Act. However, because this information is not contained in the record, we must remand this case to the board for the taking of additional evidence.
+On remand, the parties shall present evidence as to the amount of wages earned by the claimant during the last two completed calendar quarters, i.e., July 1 through September 30 and October 1 through December 31.
+Additionally, because the applicability of the last paragraph of § 309(e) of the Act, as quoted above, depends on it producing more benefits than computation under clauses (a), (b), (c), and (d), the parties may also submit proof as to the thus-far-unproved elements of § 309(d).
+ORDER
+NOW, March 10, 1994, the order of the Workmen’s Compensation Appeal Board, dated August 5, 1993, No. A92-2493, is vacated, and the case is remanded to the board. On remand, the parties shall introduce evidence as to the claimant’s wages during the last two completed calendar quarters so that calculations may be made pursuant to last paragraph of section 309(e) of the Act. Additionally, the parties may introduce evidence as to the claimant’s wages during the four thirteen-week periods preceding the date of his injury so that calculations may be made pursuant to section 309(d) of the Act. The board shall determine which formula results in the most favorable pre-injury average weekly wage.
+Jurisdiction relinquished.
+. The claimant now contends that calculation under § 309(f) of the Act would result in a higher average weekly wage. However, the claimant did not raise this issue before the referee or the board. Thus, the claimant failed to preserve this issue for appeal. Bethlehem Mines Corporation v. Workmen's Compensation Appeal Board, 43 Pa.Commonwealth Ct. 454, 402 A.2d 718 (1979).
