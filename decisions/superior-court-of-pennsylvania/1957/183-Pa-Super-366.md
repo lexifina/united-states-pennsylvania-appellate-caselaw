@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 161"
+decided: "1957-06-11"
+citations: ["183 Pa. Super. 366"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Gunther, Wright, Woodside, Ervin and Watkins, JJ."]
+parties: ["Romig Unemployment Compensation Case."]
+source_url: "https://static.case.law/pa-super/183/cases/0366-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 735264
+cites_cases: ["106 A. 2d 639", "110 A. 2d 874", "176 Pa. Superior Ct. 306", "177 Pa. Superior Ct. 496", "182 Pa. Superior Ct. 49", "56 A. 2d 688"]
+---
+
+# Romig Unemployment Compensation Case
+
+## Majority (Rhodes, P. J.,)
+
+Opinion by
+Rhodes, P. J.,
+This is an unemployment compensation case. Claimant, Charles F. Eomig, was denied benefits by the bureau, the referee, and the Board of Review for the period during which his vacation pay was allocated to his unemployment. He has appealed to this Court.
+The facts as found by the referee and adopted by the board are not in dispute. The appeal concerns a matter of law.
+On May 12, 1955, claimant was laid off by his employer, the American Window Glass Company, because certain repairs had to be made to its plant. On May 13, 1955, claimant applied for benefits. Prior thereto, on April 8, 1955, he had received the sum of $316.51, which represented three weeks’ vacation pay for 1955. It was not allocated by the employer or by agreement to any specific period. The bureau allocated the vacation pay to the initial period of unemployment in accordance with the provisions of Regulation 108 (b) of June 24, 1953, which was promulgated under the authority of section 4 (u) of the Unemployment Compensation Law, 43 PS §753 (u). This section was subsequently further amended by the Act of March 30, 1955, P. L. 6, No. 5.
+Claimant’s contention is that it was error to deny him compensation on the sole basis that he had received vacation pay within ninety days prior to the period of unemployment.
+Section 4 (u) of the Law, 43 PS §753 (u) provided, inter alia: “An individual shall be deemed unemployed (I) with respect to any week (i) during which he performs no services for which remuneration is paid or payable to him and (ii) with respect to which no remuneration is paid or payable to him, . . . Provided, That for the purposes of this subsection, (i) vacation pay and similar payments, whether or not legally required to be paid, . . . shall be deemed remuneration paid or payable with respect to such period as shall be determined by rules and regulations of the department.” The purpose of this provision is to prevent the payment of benefits for those periods of idleness for which the claimant has received remuneration which relates thereto. Hoenstine Unemployment Compensation Case, 176 Pa. Superior Ct. 306, 309, 106 A. 2d 639. Whether or not vacation pay is allocated to a period of unemployment is determined by the regulations of the department promulgated under the specific authorization of section 4 (u) of the Law, 43 PS §753 (u). Regulation 108 (b), which was in effect from June 24, 1953, until June 15, 1955, provided: “Vacation pay, or similar payments received by an individual prior to a period of unemployment shall be allocated to the first period of otherwise compensable unemployment within 90 days following such payments, . . .” The validity of this regulation was determined in Bantus Unemployment Compensation Case, 177 Pa. Superior Ct. 496, 110 A. 2d 874, and it is not questioned now on that ground. Subsequent to claimant’s unemployment and while his claim was pending before the referee, Regulation 108 (b), adopted June 24, 1953, was superseded and repealed by Regulation 108, effective on Juné 15* 1955. The Regulation of 1955 is lengthy and detailed, and it does not contain any mandatory directive. It sets forth a number of rules for determining, as a factual matter, whether or not the vacation payments were intended to relate to the period of unemployment. Claimant contends that the repeal and the change of the Regulation of 1953 eliminate it from application to this claim and that the provisions of the Regulation of 1955 should be applied. At the argument and in his brief counsel for the board indicated that, even if the Regulation of 1955 were ajiplied, this claimant would be disqualified because the testimony-established that the vacation pay was taken in anticipation of the impending layoff. No findings to that effect were made and it is not mentioned in the decision of the board. As we view the case, however, this was not necessary to sustain the disallowance of benefits by the compensation authorities since the Regulation of 1953 clearly applies.
+The Regulation of 1953 was not superseded and repealed until June 15, 1955, which was after claimant’s unemployment began and after his claim had been filed and disallowed by the bureau. Moreover, the period of unemployment involved (May 13, 1955, to June 2, 1955) had expired prior to the repeal. The Regulation of 1955, adopted subsequently, may not be applied to claims arising under the Regulation of 1853 unless it clearly and unequivocally appears that the former was intended to be retroactive in its application. Jenkins Unemployment Compensation Case, 182 Pa. Superior Ct. 49, 51, 56 A. 2d 688. Such intent is lacking here. The Regulation of 1955 specifies June 15, 1955, as the effective date, and there is nothing in its context which manifests an intention that it operate other than prospectively.
+The fact that the Regulation of 1955 superseded and repealed the Regulation of 1953 does not by itself supply a retroactive intent or affect the determination of claims for benefits for the period prior to its expressed effective date. See Statutory Construction Act of May 28, 1937, P. L. 1019, §96, 46 PS §596.
+The decision is affirmed.
+There are apparently similar claims of seventy-three other employes, which will be controlled by the disposition of this ease.
+The Regulation of 1955 states, inter alia: “(d) Where there is no provision for a vacation period or a vacation payment in any collective bargaining agreement, or in the absence of any agreement on the basis of which certain payments received by the claimant are related to a particular period, determination as to whether such payments were received with respect to the period in question shall be based upon all the circumstances of the case; . . .”
+Claimant testified: “Well, for some reason or other, this year we had a letter to the effect we could draw vacation pay the first week in April. We all knew the factory was going to be sbnt down in May.”
