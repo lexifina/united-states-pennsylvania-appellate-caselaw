@@ -1,0 +1,52 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2529 C.D. 1983"
+decided: "1984-07-23"
+citations: ["84 Pa. Commw. 163"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Williams, Jr., Barry and Palladino, sitting as a panel of three."]
+parties: ["Aegis Security Insurance Company, Petitioner v. Commonwealth of Pennsylvania, Insurance Department, Respondent."]
+source_url: "https://static.case.law/pa-commw/84/cases/0163-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1324236
+cites_cases: ["469 A.2d 344", "79 Pa. Commonwealth Ct. 345"]
+---
+
+# Aegis Security Insurance v. Commonwealth, Insurance Department
+
+## Majority (Judge Barry,)
+
+Opinion bt
+Judge Barry,
+Aegis Security Insurance Company (Aegis) initiated this appeal from an order issued by the Insurance Commissioner of the Commonwealth of Pennsylvania (Commissioner).
+On March 10,1981, Aegis issued an insurance policy to Mearl Livingston which covered his mobile home. Indiana Insurance Counselors, Inc. (Indiana), a duly authorized agent of Aegis, mailed a memorandum to the last known address of Mr. Livingston on December 23, 1981, which stated, in part:
+The subject policy covering your 1972 Freedom mobile home will expire on March 10, 1982. We. will not order a renewal of this policy unless you authorize us to do so either by telephone or mail. Please advise by January 14, 1982. Thank you.
+When it received no response, Indiana mailed a second memorandum on February 22, 1982, identical to the first, to Mr. Livingston’s last known address, He did not respond to this notice either. Mr. Livingston was not advised of nor did he receive a bill for the premium due to renew the insurance policy.
+On April 17, 1982, Mr. Livingston’s mobile home was destroyed by fire. Indiana was informed about the accident on April 19, 1982, and on April 27, 1982, Aegis denied coverage for Mr. Livingston’s fire loss because his insurance policy had not been renewed because the premium had not been paid.
+Some time after April 27, 1982, Mr. Livingston filed a complaint with the Department of Insurance. A department investigator, Carl Stumbaugh, investigated Aegis’ denial of coverage for the fire loss. A representative of Aegis advised Mr. Stumbaugh that, although a notice of cancellation or notice of non-renewal was not sent to Mr. Livingston, an offer to renew had been made to Mr. Livingston. Mr. Stumbaugh concluded that the memorandums sent to Mr. Livingston did not meet the standards for a valid offer to renew because they did not include a bill for the premium due. He also directed Aegis to afford coverage to Mr. Livingston.
+The Commissioner determined that an insurance company may renew policies of homeowner’s insurance not less than thirty days prior to the anniversary date of the insurance policy by expressing to the insured a willingness to renew the policy, the amount of the renewal premium and the due date for continuation of the policy. He concluded that Aegis violated the Unfair Insurance Practices Act (Act) and ordered Aegis to reinstate Mr. Livingston’s insurance policy retroactive to March 10, 1982. Aegis appealed that order.
+Disposition of the issues rests principally on the interpretation of Sections 5(a) (9) and 5(c) of the Act. Section 5(a) (9) provides:
+Cancelling any policy of insurance covering owner-occupied private residential properties or personal property of individuals that has been in force for sixty days or more or refusing to renew any such policy unless the policy was obtained through material misrepresentation, fraudulent statements, omissions or concealment of fact material to the acceptance of the risk or to the hazard assumed by the company ; or there has been a substantial change or increase in hazard in the risk assumed by the company subsequent to the date the policy was issued; or there is a substantial increase in hazards insured against by reason of wilful or negligent acts or omissions by the insured; or the insured has failed to pay any premium when due whether such premium is payable directly •to the company or its agent or indirectly under any premium finance plan or extension of credit; or for any other reasons approved by the commissioner pursuant to rules and regulations promulgated by the commissioner. No cancellation or refusal to renew by any person shall be effective unless a written notice of the cancellation or refusal to renew is received by the insured either at the address shown in the policy or at a forwarding address. Such notice shall:
+(i) Be approved as to form by the insurance commissioner prior to use.
+(ii) State the date, not less than thirty days after the date of delivery or mailing on which such cancellation or refusal to renew shall become effective.
+(iii) State the specific reason or reasons of the insurer for cancellation or refusal to renew.
+(iv) Advise the insured of his right to request, in writing, within ten days of the receipt of the notice of cancellation or intention not to renew that the insurance commissi oner review the action of the insurer.
+(v) Advise the insured of his possible eligibility for insurance under the act of July 31, 1968 (P.L. 738, No. 233), known as “The Pennsylvania Fair Plan Act,” or the Pennsylvania Assigned Eisk Plan.
+(vi) Advise the insured in a form commonly understandable of the provisions of sub-paragraphs (II), (III) and (TV) of this paragraph as they limit permissible time and reasons for cancellation.
+(vii) Advise the insured of the procedures to be followed in prosecuting an appeal.
+40 P.S. §1171.5(a) (9) (Supp. 1984-85). Section 5(c) states, in part:
+Nothing in subsection (a)(9) of this section shall apply:
+(1) If the insurer has manifested its willingness to renew by issuing or offering to issue a renewal policy, certificate or other evidence of renewal, including the mailing of a renewal premium notice to the insured not less than thirty days in advance of the expiration date of the policy.
+(2) If the named insured has demonstrated by some overt action to the insurer or its agent other than mere nonpayment of premium that he wishes the policy to be cancelled or that he does not wish the policy to be renewed.
+40 P.S. §1171.5(c) (Supp. 1984-85).
+Aegis argues that it made a valid offer to renew which complied with the requirements of Section 5(c)-(1) of the Act. It maintains that this provision is not an exclusive means by which an insurer may make an offer to renew a policy but rather that Section 5(c) (1) is a “safe harbor” provision which permits insurers to make an offer to renew by reasonable notice. Aegis further contends that Mr. Livingston, by overt and open conduct, did not accept its offer to renew under Section 5(c) (2) of the Act. It concludes that, because it has made a valid offer to renew under Section 5(c), it is exempt from satisfying the requirements of Section 5(a)(9) of the Act.
+The Act was created to regulate the insurance business and it defines the conduct which constitutes unfair or bad faith methods of competition or deceptive acts or practices. Sections 5(a)(9) and 5(c) of the Act address standards by which insurance companies which write homeowner’s insurance are to be held. Section 5(a)(9) of the Act establishes minimum requirements for a notice of cancellation or nonrenewal of policies. This section does not apply when the insurer makes a valid offer to renew under Section 5(c)-(1) to the insured or when the insured, by an overt act, demonstrates that he does not desire the renewal of the policy under Section 5(c)(2). For example, when the insured does not pay the renewal premium due after a valid offer to renew is made, the insurer is not required to send a notice of cancellation. But, on the other hand, when the insurer does not send a valid offer to renew, the policy coverage must continue unless the insured receives a notice of cancellation.
+Aegis sent two memorandums to Mr. Livingston which, in our view, do not meet the requirements of either Section 5(c)(1) or (2). Neither notice included the amount of premium due and the second memorandum did not conform to the Act since it was sent less than thirty days before the anniversary date of the policy. Section 5(c) (1) clearly provides for .these particular minimum requirements to validly create an offer to renew. Mr. Livingston, moreover, did not act overtly merely by failing to respond to the renewal conditions in the memorandums. Under Section 5(c)-(2), an insured’s conduct is overt when he or she acts affirmatively. Mr. Livingston did not initiate the termination of his coverage and Aegis cannot infer .that Mr. Livingston’s silence or inaction allowed it to terminate his insurance policy. Aegis, therefore, was not relieved under Section 5(e)(2) from the duty of sending Mr. Livingston a cancellation or nonrenewal notice. Furthermore, the memorandums which Aegis sent to Mr. Livingston do not satisfy the requirements of a notice of cancellation or nonrenewal under Section 5(a)(9). We, therefore, agree with the Commissioner that, because Aegis failed to comply with either Section 5(c) (1) and (2) or 5(a) (9) of the Act, it must reinstate Mr. Livingston’s insurance policy.
+Aegis also argues that the testimony and documentary evidence presented by Mr. Livingston regarding the manner in which another insurer offers to renew a policy is irrelevant and inadmissible because it does not establish industry custom or trade practices. Aegis further argues that its failure to rebut •this evidence does not create an inference adverse to it. In either case, assuming arguendo, Aegis is correct, the Commissioner’s order need not be reversed because the order was based solely on his interpretation of the relevant sections of the Act.
+For the foregoing reasons, we affirm the Commissioner’s order.
+Order
+Now, July 23, 1984, the order of the Insurance Commissioner of the Commonwealth of Pennsylvania, dated September 8,1983, at No. P82-10-12, is affirmed.
+Act of July 22, 1974, P.L. 589, 40 P.S. §§1171.1-1171.15 (1984-85 Supp.).
+In oral argument, Aegis argued that Federal Kemper Insurance Co. v. Insurance Department, 79 Pa. Commonwealth Ct. 345, 469 A.2d 344 (1984), applied to this ease. Federal Kemper, however, is irrelevant because it dealt with automobile insurance rather than homeowner’s insurance.
