@@ -1,0 +1,31 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 329 C.D. 1974"
+decided: "1975-02-03"
+citations: ["17 Pa. Commw. 209"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Mencer, Rogers and Blatt, sitting as a panel of three."]
+parties: ["Travelers Indemnity Company, Appellant, v. Susquehanna County Commissioners, Appellee."]
+source_url: "https://static.case.law/pa-commw/17/cases/0209-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1864592
+cites_cases: ["137 A.2d 265", "152 A.2d 463", "184 A.2d 512", "191 A. 603", "202 A.2d 82", "208 A.2d 276", "277 A.2d 347", "326 Pa. 154", "391 Pa. 103", "396 Pa. 328", "408 Pa. 373", "415 Pa. 50", "417 Pa. 39", "442 Pa. 492"]
+---
+
+# Travelers Indemnity Co. v. Susquehanna County Commissioners
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+This appeal arises out of an action brought by the Susquehanna County Commissioners (Commissioners) to recover $5,626.25, the amount due on an allegedly forfeited bid bond. The bond was furnished by the Travelers Indemnity Company (Travelers) to secure the bid of the R. W. Rudy Construction Co. (Rudy) on a project to improve the Susquehanna County Court House.
+The Commissioners solicited sealed bids on the project with each to be accompanied by a 5% security deposit or bid bond. According to the information provided for bidders, a bid could be withdrawn and the bond returned to the bidder 30 days after the date of the opening of the bids so long as the bidder had not been notified of the acceptance of his bid. On the other hand, if the bid was accepted and the bidder had failed or refused to execute and deliver the contract and performance bonds within 10 days after receiving notice of the acceptance, the bidder would forfeit his security as liquidated damages for the failure or refusal. Under the terms of the bid form supplied by the Commissioners, the notice of acceptance was to be in writing.
+On February 24, 1972, the six bids received by the Commissioners were opened revealing a low bid of $112,525.00 by Rudy. After the bid openings and apparently in the presence of a Rudy representative, the Commissioners passed a resolution to award the bid to Rudy. Rudy, however, never received written notice of acceptance. Sometime thereafter, and before February 28, 1972, Rudy discovered a miscalculation on its worksheets revealing that its bid was $10,000 under the intended figure. A Rudy representative then met with the architectural and engineering firm engaged by the Commissioners to certify Rudy’s qualifications to complete the project, and requested to be released from all bid obligations without forfeiting the bid bond. That firm concluded that Rudy could not perform at a profit, and recommended that the Commissioners accept the next lowest bid. Thereafter the Commissioners voted to award the contract to the next lowest bidder and instituted suit to collect the amount due on the bid bond from Travelers, the appellant indemnity company for Rudy. After an adverse judgment of the Court of Common Pleas of Susquehanna County, Travelers has now appealed to this Court.
+A firm bid rule has long been established in this Commonwealth. It declares that if a contractor discovers a clerical error in the bid any time after the bid opening, he is not entitled to withdraw his bid without forfeiting his bid bond as liquidated damages. Bellefonte Borough Authority v. Gateway Equipment & Supply Co., Inc., 442 Pa. 492, 277 A.2d 347 (1971); Modany v. State Public School Building Authority, 417 Pa. 39, 208 A.2d 276 (1965); Hedden v. Northampton Area Joint School Authority, 396 Pa. 328, 152 A.2d 463 (1959); Colella v. Allegheny County, 391 Pa. 103, 137 A.2d 265 (1958). Under the firm bid rule, however, the conditions for bond forfeiture must fully ripen. Inasmuch as each of the bidders in each of the above cited cases had given either formal notice of withdrawal of the bid or had actually refused to execute the contract documents presented, the forfeiture conditions had, in fact, fully ripened and the respective governmental authorities, therefore, properly exercised their prerogative to collect the forfeited security deposit.
+The conditions of forfeiture are included in the instruction to bidders, all of which, of course, form a material part of the contract between the parties. Compliance, therefore, is necessary for the enforcement of rights and obligations arising thereunder. See R&B Builders, Inc. v. Philadelphia School District, 415 Pa. 50, 202 A.2d 82 (1964); Whitemarsh Township Authority v. Finelli Brothers, Inc., 408 Pa. 373, 184 A.2d 512 (1962). In the instant case, forfeiture could not take place unless the bidder either withdraws his bid within 30 days after the bid opening or refuses to execute and deliver the contract documents within ten days after receiving written notice of acceptance. Here there is no indication that these conditions of forfeiture had actually ripened. Rudy merely requested to withdraw its bid, a request which the Commissioners apparently misidentified as an actual withdrawal. The Commissioners, therefore, mistakenly failed to notify Rudy of the acceptance and failed to present the company with the contract papers for execution and delivery. Thus, it is impossible to determine now whether or not Rudy, if put to the test by the Commissioners, would have undertaken the project as the company was obligated to do. Instead, the contract was awarded to another bidder.
+However inadvertent their actions may have been, the Commissioners did not perfect their right to collect on the forfeiture of the bid bond. Accordingly, the decision of the court below must be reversed.
+. The next lowest bid amounted to $127,935, a difference of $15,410.
+. Although the resolution of the Commissioners to award the bid to Rudy may have been an acceptance of Rudy’s bid, it was not sufficient to constitute written notice of the acceptance under the conditions of the contract. See Morganstern Electric Company v Coraopolis Borough, 326 Pa. 154, 191 A. 603 (1937).
+. There is no evidence of record to support the notion that Rudy actually withdrew his bid during the 30 days after the bid opening.
