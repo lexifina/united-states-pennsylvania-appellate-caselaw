@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 240"
+decided: "1934-02-01"
+citations: ["111 Pa. Super. 439"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, Ctnsrzntbtgham, Balurige, Stadteeld, Parker and James, JJ."]
+parties: ["Turner v. Phila. R. T. Co., Appellant."]
+source_url: "https://static.case.law/pa-super/111/cases/0439-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 971030
+cites_cases: ["106 Pa. Superior Ct. 494", "154 A. 805", "163 A. 39", "303 Pa. 498", "94 Pa. Superior Ct. 509"]
+---
+
+# Turner v. Phila. R. T. Co.
+
+## Majority (James, J.,)
+
+Opinion by
+James, J.,
+This case was heard before a judge without a jury which found a verdict for the plaintiff and against both defendants for the personal injuries sustained by the plaintiff. A motion for judgment non obstante veredicto was refused, and this appeal by the Transit Company was taken, from the judgment on the finding by the judge.
+Plaintiff was driving a three-ton truck, loaded with coal, eastwardly on the north side of Callowhill Street, said street being a one-way street. As he approached Seventeenth Street, he brought his truck to a stop to allow traffic to proceed south on Seventeenth Street. When the traffic stopped on Seventeenth Street, plaintiff proceeded to follow two passenger cars that were ahead of him and was right near the rail of the car track when he observed that a street car of the defendant, which had stopped at the intersection of Seventeenth and Callowhill Streets to take on or leave off passengers, had started across. The presence of the truck was apparent to the motorman as the plaintiff testified, “I was looking at him and he was looking at me.” As defendant’s car started down Seventeenth Street, a truck of C. C. A. Baldi Bros. & Co. Inc., which was on the left side of the street car travelling south, struck the front of plaintiff’s truck which had reached a point over the east rail. Plaintiff could not see the Baldi truck because the trolley car obscured his view. Plaintiff’s truck was seen by the motorman as under an excerpt from his testimony he stated, “I drifted across, just left the car drift to see whether he (meaning plaintiff) would stop or not.” The motorman further testified, “He (meaning plaintiff) passed the car. When I started drifting this truck (meaning Baldi truck) on the left-hand side passed the car, and this other truck jammed into him, I think.” Under plaintiff’s testimony the street car was about seven feet away from his truck when he was struck in the front by the Baldi truck, turned around by the force of the collision, and struck at the back of the truck by the trolley car, while under the motorman’s testimony he could not tell whether the trolley car or the Baldi truck first hit plaintiff’s truck.
+The court below found that the plaintiff was not guilty of contributory negligence, “but that both the motorman of the trolley car and the driver of the Baldi truck were negligent, the motorman in failing to stop his car under all the circumstances and the driver of the Baldi truck in attempting to pass a trolley at an intersection without knowing that the crossing was clear and no other vehicle was crossing his path.”
+Prom the testimony it was a question of fact for the trial judge as to whether the defendant’s motorman, seeing that the coal truck was proceeding with its heavy load across the track, was negligent in drifting across the street to a point so close to the plaintiff’s ■truck that it collided with the truck at almost the same time that he was struck by the Baldi truck. Having observed and permitted the plaintiff’s truck to pass in front, it was the duty; of the motorman to maintain a safe distance from plaintiff’s truck.
+Plaintiff, observing that the motorman whose car had been stopped saw him proceeding to cross, had a right to assume that when he had committed himself to the crossing the motorman would exercise reasonable care and would not run into him.
+It is the duty of a driver of a street car or a motor vehicle at all times to have his vehicle under control, and having it under control means having it under such control that it can be stopped before doing injury to any person in any situation that is reasonably likely to arise under the circumstances: Galliano v. East Penn Electric Co., 303 Pa. 498, 154 A. 805.
+In the case of Reitmeir v. P. R. T. Co., 94 Pa. Superior Ct. 509, 511, in an opinion by Gawthrop, J., we held in the following language: “Having arrived at the crossing when the trolley car was stopped, the driver of the truck was not bound to wait until it passed, if he had reasonable grounds for believing that the crossing could be made with safety. He had a right to assume: that when he had committed himself to the crossing the motorman would exercise reasonable care and would not run into him.”
+Appellant relies upon the case of Feldman v. P. R. T. Co., 106 Pa. Superior Ct. 494, 163 A. 39, which we do not believe applies to the facts in the present case. In that case the automobile in which the plaintiff was riding was proceeding southwardly and upon reaching the house line of the intersecting street it came almost to a full stop. At that time the defendant’s trolley was about 50 feet east of the house line and approaching from the plaintiff’s left. The automobile continued to cross the intersection but was struck by the trolley. There was no proof that the trolley car was going at a negligent rate of speed, or that it accelerated its speed after the driver of the automobile came to the house line. It was held that the automobile in which the plaintiff was riding did not have the right of way, and that the motorman was not bound to anticipate that an automobile, which had come almost to a full stop, would so quicken its speed as to dash in front of him, while he was where he had a right to be. He had a right to think that the driver would act as a reasonably prudent man would act, and stop before putting himself in danger.
+In the case at bar the trolley car was stopped and plaintiff was proceeding with the traffic on Callowhill Street and had committed himself to the street near the track at or about the time the defendant’s car was set in motion by its motorman.
+We are convinced that under all the testimony it was a question of fact for the trial judge, who found that the plaintiff was not guilty of contributory negligence /and that appellant defendant was guilty of negligence, and we see no reason why his findings should be disturbed.
+Judgment affirmed.
