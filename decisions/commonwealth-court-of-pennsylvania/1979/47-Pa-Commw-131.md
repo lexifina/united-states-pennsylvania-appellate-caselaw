@@ -1,0 +1,30 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2380 C.D. 1978"
+decided: "1979-10-31"
+citations: ["47 Pa. Commw. 131"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogers, Blatt and Craig, sitting as a panel of three."]
+parties: ["Charlotte Kreiger, Appellant v. City of Philadelphia, Board of Pensions and Retirement, Appellee."]
+source_url: "https://static.case.law/pa-commw/47/cases/0131-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1903545
+cites_cases: ["15 Duq. L. Rev. 581", "26 Pa. Commonwealth Ct. 625", "28 Pa. Commonwealth Ct. 589", "284 A.2d 515", "3 Pa. Commonwealth Ct. 499", "300 A.2d 823", "32 Pa. Commonwealth Ct. 541", "364 A.2d 986", "370 A.2d 393", "380 A.2d 497", "395 U.S. 411", "396 U.S. 869", "421 U.S. 35", "461 Pa. 745", "466 Pa. 152", "7 Pa. Commonwealth Ct. 603"]
+---
+
+# Kreiger v. City of Philadelphia
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+Charlotte Kreiger has appealed from an order of the Court of Common Pleas of Philadelphia County affirming the decision of the Board of Pensions and Retirement of the City of Philadelphia (Board) denying Kreiger a service-connected disability pension under the provisions of the Philadelphia Retirement System Ordinance. We reverse and remand.
+Kreiger, an employee of the City of Philadelphia, contends that she suffered a back and leg injury in 1956 when a typewriter table which she was using collapsed. The injury was aggravated by other accidents occurring over the next nine years. In 1969, Kreiger applied for City of Philadelphia service-connected disability benefits and received such for one year. She then applied for a permanent service-connected disability pension. A hearing was conducted by a panel consisting of three members of the Board. A deputy city solicitor, who was a member of the Board but who was not serving on the panel, attended the panel’s hearing as counsel for the Board. Kreiger presented the testimony of two physicians in support of her claim. The deputy city solicitor objected to questions put by Kreiger’s counsel in direct examination of her witnesses and cross-examined these witnesses. The deputy city solicitor was clearly there in opposition to Kreiger’s claim and in support of the thesis that Kreiger’s disability was caused by arthritis. The only evidence produced by the Board was a report of a Medical Panel which had examined Kreiger at the Board’s request. No member of the Medical Panel testified.
+The three member panel recommended to the full Board that Kreiger’s application be granted. The Board, however, denied Kreiger’s application by a 5-4 vote. The deputy city solicitor cast his vote as a Board member against the application.
+The court below affirmed the Board’s action. We are required to reverse but we make it clear that we do so on a ground which was not raised before the able judge who decided the matter for the Court of Common Pleas of Philadelphia County. The crucial fact that the deputy city solicitor had voted against Kreiger ’s claim as a Board member was not known to Kreiger until after the court’s decision was handed down. Although the Board lodged the minutes of the meeting at which the members voted to deny Kreiger’s application in the court below, a copy was not sent to Kreiger or her attorney as required by a local rule of court and as indicated by Pa. R.C.P. No. 233. We think the onus of Kreiger’s ignorance of McNally’s participation when the case was before the trial judge should fall on the appellee.
+Kreiger contends that her right to procedural due process was violated by the actions of the deputy city solicitor in appearing as an advocate against her claim before the hearing panel and in voting against her claim as a member of the Board. Due process rights attach in administrative proceedings. Withrow v. Larkin, 421 U.S. 35 (1975); First National Bank of Pike County v. Department of Banking, 7 Pa. Commonwealth Ct. 603, 606, 300 A.2d 823, 824 (1973). They are violated when the roles of advocate and judge are combined in one person. Horn v. Township of Hilltown, 461 Pa. 745, 337 A.2d 858 (1975); Bruteyn Appeal, 32 Pa. Commonwealth Ct. 541, 380 A.2d 497 (1977). See Dussia v. Barger, 466 Pa. 152, 351 A.2d 667 (1976) and Gornish, Due Process in Administrative Hearings in Pennsylvania: The Commingling of Functions Under Feeser and Dussia, 15 Duq. L. Rev. 581 (1977). The deputy city solicitor here was counsel for the Board before the three member panel, acting in opposition to Kreiger’s claim. He then cast a deciding vote against her application when it came before the Board. We therefore reverse and remand the record for new proceedings before the Board and a new and untainted decision.
+Kreiger also claims that her statutory and constitutional right to cross-examine an adverse witness was offended by the three member panel’s acceptance into evidence of the report of the Medical Panel without its author being available for cross-examination. See Jenkins v. McKeithen, 395 U.S. 411, 428, reh. denied, 396 U.S. 869 (1969); Section 32 of the Administrative Agency Law, 2 Pa. C.S. §505; Section 5 of the Local Agency Law, 2 Pa. C.S. §554. Since the matter must be tried anew, we comment briefly on this issue. Reports such as that of the Medical Panel are admissible into evidence for the Board’s consideration unless objected to. Yesner v. Unemployment Compensation Board of Review, 28 Pa. Commonwealth Ct. 589, 370 A.2d 393 (1977). If an objection is made, the Board should require the attendance of the author. Riojas v. Board of Licenses and Inspections Review, 26 Pa. Commonwealth Ct. 625, 364 A.2d 986 (1976); A. P. Weaver and Sons v. Sanitary Water Board 3 Pa. Commonwealth Ct. 499, 508, 284 A.2d 515, 519-20 (1971).
+Order
+And Now, this 31st day of October, 1979, the order of the Court of Common Pleas of Philadelphia County, No. 3330, is reversed and this case is remanded for proceedings consistent with this opinion.
