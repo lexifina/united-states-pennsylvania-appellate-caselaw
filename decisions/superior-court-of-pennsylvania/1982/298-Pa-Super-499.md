@@ -1,0 +1,53 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2393"
+decided: "1982-04-30"
+citations: ["298 Pa. Super. 499", "444 A.2d 1294"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before PRICE, WICKERSHAM and LIPEZ, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Dennis E. KING, Appellant."]
+source_url: "https://static.case.law/pa-super/298/cases/0499-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 187842
+cites_cases: ["155 A.2d 825", "212 Pa.Super. 208", "239 A.2d 870", "284 A.2d 783", "297 Pa.Super. 350", "306 U.S. 451", "314 A.2d 304", "383 F.2d 421", "397 Pa. 575", "405 U.S. 156", "415 A.2d 89", "439 U.S. 379", "445 Pa. 359", "455 Pa. 93", "464 Pa. 557", "466 Pa. 345", "481 Pa. 256", "490 Pa. 173", "490 Pa. 519"]
+---
+
+# Commonwealth v. King
+
+## Majority (WICKERSHAM, Judge:)
+
+WICKERSHAM, Judge:
+On April 11, 1979, appellant, Dennis E. King, was convicted by a jury of homicide by vehicle. Post-verdict motions were denied and appellant was sentenced to a term of imprisonment of three to twenty-three months. On appeal, appellant alleges that the evidence was insufficient to sustain the conviction. He also argues that section 3732 of the Vehicle Code, 75 Pa.C.S. § 3732, is unconstitutional. We disagree and, accordingly, affirm the judgment of sentence.
+The test for passing on the sufficiency of the evidence is whether, accepting as true all the evidence, together with all reasonable inferences therefrom, upon which the jury could have based its verdict, such evidence and inferences are sufficient in law to prove guilt beyond a reasonable doubt. Commonwealth v. Ilgenfritz, 466 Pa. 345, 348, 353 A.2d 387, 389 (1976); Commonwealth v. Carbonetto, 455 Pa. 93, 95, 314 A.2d 304, 305 (1974). In addition, we are required to consider the evidence in the light most favorable to the Commonwealth as the verdict winner. Commonwealth v. Ilgenfritz, supra; Commonwealth v. Green, 464 Pa. 557, 565, 347 A.2d 682, 686 (1975). Applying these standards, the evidence in the instant case was clearly sufficient to sustain the conviction.
+In the early morning hours of December 16, 1978, appellant was operating a vehicle which was occupied by himseif and five passengers. At the time of the accident, the automobile was on a two lane highway. It was a clear night and the highway was dry. Approximately one-half mile before the accident occurred, a passenger in the automobile observed the vehicle speedometer at 85 miles per hour. At a distance of approximately 2/io of a mile from where the accident occurred, the automobile swerved and drove into the right berm of the highway when it failed to negotiate a slight curve. Appellant then managed to return the automobile to the highway but was never able to regain complete control of the car. The automobile then skidded across the road a distance of fifty feet and then went onto the left berm of the road for a distance of ninety-five feet before it struck a speed limit sign and a guard post. The vehicle then became airborne after going off an eight foot embankment and bounced once before it came to rest on its roof approximately 105 feet from the embankment. One passenger was killed in the accident when his body was thrown an additional 69 feet. After the accident occurred, Trooper James C. Clouse, Pennsylvania State Police, testified that he interviewed appellant concerning the accident and that appellant stated that, “he was going a little bit too fast and lost control of his vehicle. . . . ” Record at 93.
+A person is guilty of homicide by vehicle if he: [U]nintentionally causes the death of another person while engaged in the violation of any law of this Commonwealth or municipal ordinance applying to the operation or use of a vehicle or to the regulation of traffic . . . when the violation is the cause of death.
+75 Pa.C.S. § 3732.
+As we recently held in Commonwealth v. Koch, 297 Pa.Super. 350, 443 A.2d 1157 (1982) (J. 1357/1981) (No. 1626 Philadelphia 1980):
+We summarize below the elements of the crime of homicide by vehicle, 75 Pa.C.S. § 3732, . . .:
+1) Defendant deviated from the standard of care established by the underlying Vehicle Code provision [or municipal ordinance].
+a) Defendant knew, or should have known, he engaged in the conduct claimed to be in violation of the underlying Vehicle Code provision [or municipal ordinance].
+2) A death occurred.
+b) The death was, at the very least, a probable consequence of the defendant’s violation of the underlying Vehicle Code provision [or municipal ordinance].
+Id., 297 Pa.Super. at-, 443 A.2d at 1160.
+As in every criminal prosecution, the Commonwealth’s proof must be beyond a reasonable doubt. See e.g., Com monwealth v. Busler, 445 Pa. 359, 362, 284 A.2d 783, 784 (1971). It was the legislative judgment in enacting section 3732 to expand the scope of criminal liability for violations of the Vehicle Code causing death. Compare 18 Pa.C.S. § 2504; Commonwealth v. Busler, supra; Commonwealth v. Clowser, 212 Pa.Super. 208, 239 A.2d 870 (1968).
+While the mere happening of an accident does not raise an inference or presumption of negligence, Hamil v. Bashline, 481 Pa. 256, 392 A.2d 1280 (1978), we find that the particular circumstances and the testimony surrounding this particular accident were sufficient to find appellant guilty of reckless driving and speeding. The testimony concerning the speed of the automobile immediately before the accident, the length of the skid marks, the impact with the sign and guard post, and the distance the car traveled in the air before landing upside down all support a reasonable inference that appellant was driving recklessly and at an unreasonable speed and that he knew or should have known that he was engaged in such conduct. Clearly the jury could find that the death of the passenger was, at the very least, a probable consequence of the defendant’s speeding and reckless driving.
+Appellant also contends that section 3732 of the Vehicle Code, which defines homicide by vehicle is unconstitutional. Recently in Commonwealth v. Burt, 490 Pa. 173, 415 A.2d 89 (1980), the supreme court unanimously reversed an order of the Court of Common Pleas of Warren County holding section 3732 unconstitutionally vague. There, the court stated:
+With unmistakable clarity, section 3732 defines ‘homicide by vehicle’ as a death caused by any person’s conduct violating law or municipal ordinance applying to vehicles or traffic regulation. This section does not employ ‘ambiguous’ words, ‘archaic classifications,’ or words with ‘numerous and varied’ meanings. Compare Colautti v. Franklin [439 U.S. 379, 99 S.Ct. 675, 58 L.Ed.2d 596 (1979)], supra (‘viability’ determination requirement of statute regulating physicians’ performance of abortions void), Papachristou v. City of Jacksonville [405 U.S. 156, 92 S.Ct. 839, 31 L.Ed.2d 110 (1972)], supra (‘vagrancy’ ordinance drafted in terms of archaic English poor laws invalid), and Lanzetta v. State of New Jersey, 306 U.S. 451, 59 S.Ct. 618, 83 L.Ed. 888 (1939) (voiding statute making it crime to be member of ‘gang’). Accordingly, any vagueness challenge must be rejected. See United States ex rel. Almeida v. Rundle, 383 F.2d 421, 426 (3d Cir. 1967) (upholding former felony-murder statute).
+Id., 490 Pa. at 178-79, 415 A.2d at 92.
+Furthermore, in Commonwealth v. Field, 490 Pa. 519, 417 A.2d 160 (1980), the supreme court added:
+Burt is not dispositive of this case, however, for here appellee contends section 3732 is unconstitutional on an additional ground. Section 3732 is a first-degree misdemeanor punishable by imprisonment of up to five years. See 18 Pa.C.S. § 1104(1). Relying primarily upon Commonwealth v. Koczwara, 397 Pa. 575, 155 A.2d 825 (1959), appellee maintains section 3732 unconstitutionally imposes criminal liability without fault. Like the vagueness challenge, this challenge must also be rejected.
+... As the Attorney General recognizes, section 3732 requires the Commonwealth to prove that appellee has deviated from the standard of care established by section 3703, the underlying Vehicle Code provision allegedly violated here. Section 3703 provides:
+No person shall drive any vehicle except a human-powered vehicle upon a sidewalk or sidewalk area except upon a permanent or duly authorized temporary driveway.
+Consistent with the culpability requirement, section 3703 leaves for determination at trial whether appellee knew, or should have known, he engaged in the conduct claimed to be in violation of that section. Thus, for example, it remains to be decided if a reasonable driver could, in view of the congestion at the terminal exit, know where the sidewalk was or, indeed, if a sidewalk existed. Section 3732 also requires the Commonwealth to prove that appellee’s alleged violation of section 3703 caused the victim’s death. As the Attorney General points out, at the very least, death must be a ‘probable consequence’ of appellee’s culpable conduct. See 18 Pa.C.S. § 303(d).
+Accordingly, our review satisfies us that here, unlike in Koczwara, section 3732 requires the Commonwealth to establish that it was the actor’s conduct which caused death. This requirement of personal responsibility under a section 3732 prosecution precludes successful constitutional challenge.
+Id., 490 Pa. at 523-25, 417 A.2d at 162-63 (footnotes omitted).
+Judgment of sentence affirmed.
+. At trial, the Honorable Richard M. Sharp, P. J., charged the jury to consider various sections of the Motor Vehicle Code including 75 Pa.C.S. § 3361:
+§ 3361. Driving vehicle at safe speed
+No person shall drive a vehicle at a speed greater than is reasonable and prudent under the conditions and having regard to the actual and potential hazards then existing, nor at a speed greater than will permit the driver to bring his vehicle to a stop within the assured clear distance ahead. Consistent with the foregoing, every person shall drive at a safe and appropriate speed when approaching and crossing an intersection or railroad grade crossing, when approaching and going around curve, when approaching a hill crest, when traveling upon any narrow or winding roadway and when special hazards exist with respect to pedestrians or other traffic or by reason of weather or highway conditions,
+and 75 Pa.C.S. § 3714:
+§ 3714. Reckless driving
+Any person who drives a vehicle in careless disregard for the safety of persons or property is guilty of reckless driving, a summary offense.
+. Appellant has asserted other allegations of error, but we find such allegations to-be without merit.
