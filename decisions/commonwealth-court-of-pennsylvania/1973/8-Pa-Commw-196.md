@@ -1,0 +1,34 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 596 C.D. 1972"
+decided: "1973-03-22"
+citations: ["8 Pa. Commw. 196"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Wilkinson, Jr., and Mencer, sitting as a panel of three."]
+parties: ["Hiram Wible & Son, et al. v. Keith, et al."]
+source_url: "https://static.case.law/pa-commw/8/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1853097
+cites_cases: ["130 Pa. Superior Ct. 430", "159 A. 2d 924", "159 Pa. Superior Ct. 354", "161 A. 2d 639", "186 A. 2d 412", "192 Pa. Superior Ct. 161", "192 Pa. Superior Ct. 632", "198 A. 464", "200 Pa. Superior Ct. 186", "205 Pa. Superior Ct. 129", "208 A. 2d 33", "211 Pa. Superior Ct. 238", "215 Pa. Superior Ct. 382", "235 A. 2d 627", "258 A. 2d 870", "295 A. 2d 615", "48 A. 2d 62", "6 Pa. Commonwealth Ct. 403"]
+---
+
+# Hiram Wible & Son v. Keith
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+Russell F. Keith (claimant) was injured in a truck accident on July 24, 1967, while he was employed as a truck driver by the appellant-employer, Hiram Wible & Son.
+A compensation agreement was executed for total disability beginning July 25, 1967. That agreement stated: “Claimant lost control of truck and collided into a tractor-trailer unit going the opposite direction. He suffered fracture of the tenth rib on the left side and an acceleration injury of the neck.” He also received a concussion which left him unconscious for about eight hours following the accident.
+On January 23, 1969, a Supplemental Agreement was executed setting forth that as of October 19, 1968, the claimant was 50% disabled. Compensation payments of $42.00 per week were made in accordance with this agreement from October 19, 1968, through April 7, 1969. On June 24, 1969, the appellant insurance carrier filed a Petition for Termination alleging that a medical examination of March 28, 1969, indicated that the claimant was only 5% disabled.
+At the hearing on this petition before the Referee on March 26,1970, Dr. John F. Whitehill, the sole medical witness, testified for the insurance carrier that the claimant’s disability was 5%. However, in the words of the Board, “he did not spread upon the record the medical details from which he deduced that the disability had reduced to 5%. In fact, Dr. Whitehill vacillated somewhat and suggested that claimant try to do his former work, but he thought that he might not be able to do it. The doctor also suggested that claimant not resume heavy lifting because he might impede his neck problem. This single witness for the carrier’s position to reduce compensation did not measure up to the standard required to reduce compensation. . . . The testimony of the carrier’s medical witness is too desultory and indefinite.”
+On September 2, 1971, the Referee denied the insurance carrier’s petition and found that the claimant’s 50% partial disability continued. The employer appealed to the Workmen’s Compensation (Appeal) Board (Board) alleging that the testimony did not support the findings of the Referee. The Board, on May 25, 1972, dismissed the appeal, and this appeal followed. Our review is limited to whether constitutional rights were violated, an error of law was committed, or any necessary finding of fact was not supported by substantial evidence. Nash v. Sandnes’ Sons, Inc., 6 Pa. Commonwealth Ct. 403, 295 A. 2d 615 (1972).
+Where an employer files a Petition for Termination or Modification of the compensation agreement, the employer has the burden of proving that claimant’s disability has ceased altogether or has changed. Lackman v. F. W. Woolworth Co., 205 Pa. Superior Ct. 129, 208 A. 2d 33 (1965). The Board is not required to accept the testimony of any witnesses, and this rule applies even though the testimony is uncontradicted. Wolfe v. Wm. J. Burns Int’l Detective Agency, 215 Pa. Superior Ct. 382, 258 A. 2d 870 (1969); Wehr v. Philadelphia Derrick & Salvage Corp., 192 Pa. Superior Ct. 161, 159 A. 2d 924 (1960). Furthermore, we must view the evidence in the light most favorable to the party having the Board’s decision. Michael v. Roadway Express, Inc., 211 Pa. Superior Ct. 238, 235 A. 2d 627 (1967). It is the prerogative of the Board to weigh testimony of witnesses and to accept or reject it either in whole or in part. Erwin v. L. & H. Construction Co., 192 Pa. Superior Ct. 632, 161 A. 2d 639 (1960).
+After an independent examination of the record, including the Board’s carefully worded opinion, we conclude that the Board did not err but rather weighed Dr. Whitehill’s entire testimony, evaluated it in terms of the employer’s burden of proof, and simply found it lacking.
+Finally, the employer alleges that the Board on its own accord should have referred this matter back to the Referee for additional medical testimony, even though the employer did not file a petition for a rehearing.
+The Board itself “if it deem proper may hear other evidence,” §423 of the Workmen’s Compensation Act, Act of June 2, 1915, P. L. 736, as amended, 77 P.S. §854, or it may return the entire record to the Referee for further testimony and new findings of fact and conclusions of law based on all the testimony. Thus, the Board’s refusal to rehear the matter, either by itself or by the Referee, was within the Board’s discretion and was reversible only for an abuse of that discretion. Gould v. Wood, 200 Pa. Superior Ct. 186, 186 A. 2d 412 (1962). Since the Board was not petitioned to rehear the matter, it can hardly be faulted for refusing to grant the petition. Additionally, “[t]he purpose of a rehearing is to take testimony not offered at the original hearing, either because it was not available, or because of some actual disability of the petitioner existing at the time.” Powell v. Sonntag, 159 Pa. Superior Ct. 354, 361, 48 A. 2d 62, 66 (1946). The petitioner must aver that the alleged evidence was obtained after the hearing and that, even by the exercise of ordinary diligence, it could not have been presented at the hearing. Schach v. Hazle Brook Coal Co., 130 Pa. Superior Ct. 430, 198 A. 464 (1938).
+The responsibility for having presented only one medical witness at the hearing rests with the employer, which had the burden of proof. By the exercise of ordinary diligence it could have brought forth more doctors to testify. Certainly such medical evidence as they could now evince was available and could have been presented at the hearing. We therefore cannot conclude that the Board committed an abuse of discretion. Accordingly, we make the following
+Order
+And Now, this 22nd day of March, 1973, the order of the Workmen’s Compensation (Appeal) Board is affirmed.
