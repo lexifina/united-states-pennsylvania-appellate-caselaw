@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "517"
+decided: "1993-09-02"
+citations: ["428 Pa. Super. 205", "630 A.2d 894"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before ROWLEY, President Judge, and TAMILIA and POPOVICH, JJ."]
+parties: ["Harold O. SENTZ and Kay C. Sentz, His Wife v. Donald J. CRABBS and Melody Crabbs, and Bryan S. Ketterman and Leatha Ketterman, Appellants."]
+source_url: "https://static.case.law/pa-super/428/cases/0205-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 933140
+cites_cases: ["364 Pa.Super. 243", "415 Pa.Super. 449", "415 Pa.Super. 605"]
+---
+
+# Sentz v. Crabbs
+
+## Majority (TAMILIA, Judge:)
+
+TAMILIA, Judge:
+The appellants, Donald J. and Melody Crabbs and Bryan S. and Leatha Ketterman, appeal from the June 19, 1992 Order dismissing their exceptions to and making final the decree nisi entered February 13, 1992, following a nonjury trial at which it was found plaintiffs/appellees held an easement by implication over an undeveloped borough alleyway which abutted appellants’ property on the south and appellees’ lots on the north.
+In finding there existed an easement by implication in appellees’ favor, the court reasoned that although the plaintiffs were unable to establish definitively that title to their land was derived from a grantor common to the appellants’ lots, enough circumstantial evidence was presented to infer title probably sprang from a common source, thereby shifting to the defendants the burden to prove otherwise. (Decree Nisi, Spicer, J., 2/13/92, p. 5.) Appellants failed to do so and, therefore, were instructed to remove the fence and shed they had erected in the alleyway and cease interfering with appellees use of the alley. This conclusion was repeated and elaborated upon in the court’s Opinion addressing the appellants’ exceptions to the decree nisi. (Slip Op., Spicer, J., 6/19/92, p. 5.) Thereafter, a notice of appeal was served on this Court on August 3, 1992.
+Black’s Law Dictionary, Fifth Edition, defines “implied easement” as follows:
+Implied easement. One which the law imposes by inferring the parties to a transaction intended that result, although they did not express it. An easement resting upon the principle that, where the owner of two or more adjacent lots sells a part thereof, he grants by implication to the grantee all those apparent and visible easements which are necessary for the reasonable use of the property granted, which at the time of the grant are used by the owner of the entirety for the benefit of the part granted. One not expressed by parties in writing but arises out of existence of certain facts implied from the transaction.
+Id., p. 458.
+Appellants argue one who has enjoyed “uninterrupted possession of the land for 18 or 19 years cannot be ousted from exclusive possession on the basis of an easement by implication based solely on a deed reference that their land borders on an alley.” (Appellants’ brief at p. 8.) The essence of this argument is that some time in the history of appellants’ chains of title an alley came into use which subsequently became identified in deeds relating to the adjoining properties. Appellants are correct in asserting that this in itself does not establish an easement by implication because nothing in the chain of title establishes the creation of an easement by a grantor who was the possessor of both estates.
+An easement by implication arises after it is clear that a particular division of property was created by a common grantor and, without specifying that an easement over one of the estates was granted, by implication the use of the parcel would not be possible without the existence of the easement. The use of circumstantial evidence is proper to establish the necessity for the easement to the enjoyment of the property and in tracing title back to a common grantor. However, it cannot be used, as did the trial judge, to establish that somewhere in the past there was a common grantor, although never identified, merely because there appears to be an easement. Since the easement was not established by adverse possession and no common grantor has surfaced in the chain of title to establish an easement by implication, an easement cannot exist.
+Our scope of review in matters of equity is narrow and limited to determining whether the findings of fact are supported by competent evidence, whether an error of law has been committed or whether there has been a manifest abuse of discretion. Hercules v. Jones, 415 Pa.Super. 449, 609 A.2d 837 (1992). An easement by implication can be found to exist where the intent of the parties is demonstrated by the terms of the grant, the property’s surroundings and other res gestae of the transaction. King v. Rock, 415 Pa.Super. 605, 610 A.2d 48 (1992). When a deed refers to a road or driveway as a boundary, which is not a highway or dedicated to public use, an easement by implication over the lands is established in favor of the grantee. Id.
+At first blush it appears King is controlling. However, both in King and the earlier case on which its reasoning rests, Auman v. Grimes, 364 Pa.Super. 243, 527 A.2d 1045 (1987), the grantees or parties to the action acquired title to their land via a common grantor. And although the trial court was correct in finding there exists no authority directly on point mandating a common grantor be established by recorded claim, we find, based on our review of case law and the very nature of an easement by implication, requiring as a predicate to its existence singular ownership at some point in time, the trial court erred by finding, based on circumstantial evidence, all titles to the lots in question sprang from a common grantor. To find otherwise would dangerously violate the Statute of Frauds as it pertains to the recordation of real property, the system on which all landowners rely to substantiate their ownership.
+Accordingly, absent the documented existence of a common grantor to the properties in question at the time the easement became necessary to the enjoyment of the devised property, there can be no easement by implication. The fourteen-foot alleyway is the property of the borough and no party has an enforceable right to use the land absent an agreement with the borough. Should the borough decide some time in the future a higher public use is essential, it has full legal recourse to open the alley as a public thoroughfare, which, by letter to the parties it has declined to do at this time.
+Order reversed.
+Jurisdiction relinquished.
