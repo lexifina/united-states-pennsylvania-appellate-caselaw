@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "113"
+decided: "1993-02-24"
+citations: ["423 Pa. Super. 228", "620 A.2d 1194"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before OLSZEWSKI, POPOVICH and MONTGOMERY, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania, Appellee, v. Barbara A. MARTIN, Appellant."]
+source_url: "https://static.case.law/pa-super/423/cases/0228-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 924723
+cites_cases: ["338 Pa.Super. 225", "392 Pa.Super. 100", "396 Pa.Super. 6", "451 U.S. 204", "498 Pa. 326", "524 Pa. 72"]
+---
+
+# Commonwealth v. Martin
+
+## Majority (PER CURIAM:)
+
+OPINION
+PER CURIAM:
+Following a jury trial, Barbara Martin was convicted of hindering apprehension. The trial court denied posttrial motions. A sentence of six months probation was imposed. This appeal followed. For the reasons below, we vacate the judgment of sentence, reverse the order denying suppression and remand for a new trial.
+On appeal, appellant claims: (1) that the suppression court erred when it failed to suppress evidence seized pursuant to a warrantless search of appellant’s home; (2) that the trial court erred by failing to instruct the jury that her request that the police obtain a search warrant was a valid defense to the charge; and (3) whether the trial court improperly instructed that an arrest warrant provided sufficient basis for searching appellant’s house.
+At approximately 2:30 a.m. on January 3, 1991, Mrs. Sprankle saw her ex-husband’s truck parked on the street. She then saw her ex-husband, Jeffrey Sprankle, through the window of appellant’s house. Knowing that there were outstanding warrants on Mr. Sprankle, she went to a nearby convenience store and called police. An officer responding to the scene drove past appellant’s house and confirmed that the truck was the one used by Mr. Sprankle. The officers then returned to appellant’s house and knocked on the door. They told appellant that they had received a report of a disturbance at the address. Appellant allowed them to enter the house. Police then informed appellant that they were looking for Mr. Sprankle. She denied knowing him. Appellant subsequently admitted to knowing a Mr. Sprankle, but not Jeffrey Sprankle. The officers told appellant they wanted to search her house for Sprankle. Appellant demanded that the officers produce a search warrant before they searched the house. The officers told appellant that there was an outstanding arrest warrant for Sprankle and that they were going to search the house for him. Police discovered Sprankle in a hidden room on the third floor of the house.
+Appellant claims that the discovery of Sprankle should have been suppressed because the officer’s entry violated her Fourth Amendment rights. When reviewing a suppression court’s decision, we consider only the evidence of the appellee’s witnesses and- that of appellant’s witnesses which remains uncontradicted. Commonwealth v. Fromal, 392 Pa.Super. 100, 572 A.2d 711 (1990). If the suppression court’s factual findings are supported by the evidence submitted at trial, we are bound by the findings and may reverse only if the legal conclusions drawn are in error. Commonwealth v. Smith, 396 Pa.Super. 6, 577 A.2d 1387 (1990).
+The United States Supreme Court addressed this issue in Steagald v. United States, 451 U.S. 204, 101 S.Ct. 1642, 68 L.Ed.2d 38 (1981). In Steagald, a police informant told police where they could find a fugitive. Police proceeded to the location, Steagald’s residence, with their arrest warrant for the fugitive. Police searched the house for the fugitive. Although they failed to find the fugitive, police discovered forty-three pounds of cocaine. Steagald appealed from his conviction on federal drug charges.
+The Steagald Court considered whether an arrest warrant, as opposed to a search warrant, was adequate to protect the Fourth Amendment rights of a person not named in the warrant. When the search and seizure of an individual occurs in the home of a third party, two interests are implicated: (1) the arrestee’s interest in being free from unreasonable search and seizure; and (2) the homeowner’s interest in being free from an unreasonable search of his home. Id. The Steagald Court concluded that to allow police, acting alone and without exigent circumstances, to determine when to search the home of a third party for the subject of an arrest warrant would create a significant potential for abuse. Id. Holding that the search violated Steagald’s Fourth Amendment rights, the Court reversed. The situation which occurred in Steagald is indistinguishable from appellant’s situation.
+The suppression court and the Commonwealth cite Commonwealth v. Smith, 524 Pa. 72, 569 A.2d 337 (1990) and Commonwealth v. Stanley, 498 Pa. 326, 446 A.2d 583 (1982) for the proposition that such a search is permissible upon reasonable belief that the individual named in the arrest warrant is in the home. However, in both Smith and Stanley, the issue is raised by the person who was named in the arrest warrant but was arrested in a third party’s home. Smith and Stanley address the rights of the person named in the arrest warrant. In Stanley, the Pennsylvania Supreme Court noted this distinction in holding that Steagald did not apply when the person named in the arrest warrant was challenging the search of the third party’s home. Commonwealth v. Stanley, at 333 fn. 4, 446 A.2d at 586 fn. 4. In the present case, however, we are concerned with the Fourth Amendment rights of a third party for whom no warrant has been issued and thus Steagald is controlling.
+The Commonwealth also claims that exigent circumstances justified the warrantless search. The Steagald Court noted that if the Commonwealth can demonstrate that appellant consented to the search or that exigent circumstances existed the result may be different. Steagald v. U.S., supra. Neither consent nor exigent circumstances exist in this case. See, Commonwealth v. Rispo, 338 Pa.Super. 225, 487 A.2d 937 (1985) (exigent circumstances do not exist where police could maintain covert surveillance while a search warrant was obtained.)
+Accordingly, we must reverse the order denying suppression and remand for a new trial. Because we are granting a new trial, we need not address appellant’s remaining claims.
+Judgment of sentence is vacated. Order denying suppression is reversed. Case is remanded for a new trial. Jurisdiction is relinquished.
+. The outstanding warrants related charges of indirect criminal contempt arising from alleged violations of a Protection from Abuse order.
