@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 5"
+decided: "1900-04-23"
+citations: ["13 Pa. Super. 480"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, W. W. Porter, and W. D. Porter, JJ.", "Before Swope, P. J."]
+parties: ["King v. Bosserman."]
+source_url: "https://static.case.law/pa-super/13/cases/0480-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 825561
+cites_cases: ["103 Pa. 517", "104 Pa. 20", "165 Pa. 298", "3 Watts 394", "31 Pa. 426", "37 Pa. 134", "4 Pa. 146", "45 Pa. 376", "5 W. & S. 163", "5 W. & S. 432", "56 Pa. 175", "6 Pa. Superior Ct. 156", "6 Pa. Superior Ct., 155", "90 Pa. 218", "94 Pa. 115"]
+---
+
+# King v. Bosserman
+
+## Majority (William W. Pouter, J.,)
+
+Opinion by
+William W. Pouter, J.,
+The question here is: Did the sheriff’s vendee of the real estate take the landlord’s share of the crops severed from the land, but not set apart or divided by the tenant, under a lease in which no time was fixed for the payment of the rent and of which the term expired subsequently to the delivery of the sheriff’s deed ? The court below answered the question in the affirmative and rightly.
+The lease before us does not indicate in terms when the rent should be paid. As there was no covenant to pay at any particular time, the end of the year is the period which the law assigns for the annual reditus to the landlord: Boyd v. McCombs, 4 Pa. 146; Menough’s Appeal, 5 W. & S. 432. The sheriff’s deed was delivered to the appellee on October 19, 1896. The lease of the tenant in possession expired April 1, 1897. The rent, falling due subsequently to the execution of the deed, therefore, became payable to the sheriff’s vendee of the realty: Bank v. Wise, 3 Watts 394; Collins v. Assurance Co., 165 Pa. 298, 308. Furthermore, under the provisions of “the act of June 16, 1836, the purchaser of the landlord’s title to the land under execution against him, is entitled to the rent falling due :after the acknowledgment of the sheriff’s deed, whether it be payable in money or grain: ” Loose v. Scharff, 6 Pa. Superior Ct. 156; Borrell v. Dewart, 37 Pa. 134. That the rent was reserved payable in kind by a share of the grain, does not militate against the idea of a lease: Steel v. Frick, 56 Pa. 175; Brown v. Jaquette, 94 Pa. 115.
+The case stated shows that the corn over which this controversy arises was “on the shock in the field, unhusked, not garnered and none of the same set apart as the landlord’s share, , . . . The said com was cut prior to the levy by the sheriff on the 22d day of September, 1896.” The crop of oats in controversy was “ in the sheaves in the mow of the bam, unthreshed .and not divided or separated,” but was “severed from the ground prior to September 22, 1896, and was threshed November 20, 1896, after the acknowledgment and delivery of the deed by the sheriff.”
+The appellant contends that as the crops were severed from the ground before the delivery of the deed to the appellee, title to them did not pass. He asserts that the physical severance of the grain from the land vested in the landlord a title to his share of the crops. For this he relies for support upon Long v. Seavers, 103 Pa. 517. There are expressions used in that case which seem to indicate that the mere physical severance of the crop from the ground is a vesting of title in the landlord to his undivided share. It is to be noted, however, that the only point decided is that a sale upon a fi. fa. of the landlord’s share of the growing grain before actual severance, does not pass title to the purchaser, as against a subsequent purchaser of the land at sheriff’s sale, who obtains a deed before the rent falls due. There was no severance at all in that case. Therefore, the matter of the división of the crop, or a setting apart of the landlord’s share, had no place in the discussion. Furthermore, it is to be noted that Mr. Justice Green, in the course of his opinion, quotes with approval this language from Rinehart v. Olwine, 5 W. & S. 163 : “ The better opinion seems to be that it is property of the tenant, and until the grain is severed and delivered to the landlord, he has no interest in the thing itself.” And again he quotes from Ream v. Harnish, 45 Pa. 376, referring to the landlord’s share: “Until delivery by the tenants, the landlord had no title to any part of it.” See also Burns v. Cooper, 31 Pa. 426. We are of opinion that Long v. Seavers, supra, does not, and was not intended to make the right of the sheriffs, vendee of the realty to the crops as rent dependent on the mere physical severance of the crops from the soil, without division or setting apart before the acknowledgment of the deed. The cases of Hershey v. Metzgar, 90 Pa. 218, and Hardenburg v. Beecher, 104 Pa. 20, also relied on by the appellant, were not cases of the occupancy of land by a tenant, but by an owner. The distinction we have noted in the case of Long v. Seavers, supra, also takes our own case of Loose v. Scharff, supra, out of the discussion. The case before us is ruled by Boyd v. McCombs, supra, where upon facts strikingly similar to those of the present case, it was held that the sheriff’s vendee took the rent payable in kind as against an assignee of the rent.
+The judgment is affirmed.
