@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 196"
+decided: "1913-10-13"
+citations: ["55 Pa. Super. 164"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady, Head and Porter, JJ."]
+parties: ["Kuhns, Appellant, v. Ward-Mackey Company."]
+source_url: "https://static.case.law/pa-super/55/cases/0164-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 439644
+cites_cases: ["209 Pa. 315", "216 Pa. 259", "216 Pa. 367", "220 Pa. 61", "226 Pa. 523", "30 Pa. Superior Ct. 246"]
+---
+
+# Kuhns v. Ward-Mackey Co.
+
+## Majority (Head, J.,)
+
+Opinion by
+Head, J.,
+This was an action to recover damages for an alleged malicious prosecution. In such cases, if it be made to appear there was probable cause for beginning the prosecution complained of, a complete defense is made out. The existence or nonexistence of probable cause is a legal conclusion to be drawn from established facts. If the facts necessary to support such conclusion are admitted or established by uncontradicted evidence, it becomes the duty of the court to declare, as matter of law, that such defense has or has not been made out.
+At the close of the evidence the learned trial judge, being of opinion there was a material question of fact to be determined by a jury, submitted the case, and a verdict for the plaintiff followed. Later, on a consideration of the whole of the evidence, following a motion for judgment non obstante veredicto, he reached the conclusion that a verdict for the defendant should have been directed and accordingly granted the motion and entered such judgment, filing therewith an opinion fully setting forth the reasons on which his conclusion rested.
+There can be no doubt, from the pleadings and all of the evidence, that the plaintiff was an employee in the service of the defendant, and that by virtue of such employment he received into his possession money and other property of his employer. If he willfully appropriated or converted such money or property to his own use, he was guilty of the offense with which he after-wards was charged. His duties required him to make daily reports in writing to his employer showing the disposition he had made of the property and money received by him. From these daily reports the books and accounts of the defendant were made up, not only against its employee but against its customers with whom he dealt.
+In January, 1909, the books of the company showed the plaintiff to be short in his accounts in the sum of $132. He raised no question as to the accuracy of the books and made no denial of the shortage of which he was accused, but obtained the sum demanded and paid it to the defendant in satisfaction of that shortage. There is some conflict in the evidence as to the reason why or condition on which he was permitted to retain his place. He continued his service until in December of the same year, when he was called to the office of his superior and told that he was again short- in his accounts. He at once admitted that he knew he was short to the extent of $20.00 or $30.00. When told the books showed his shortage exceeded $100, he again made no question as to their correctness but remarked he did not see how it could be so much. An information was made against him for embezzlement. He was arrested and taken before a magistrate who testifies that the present plaintiff, then defendant, said to him, the magistrate, he was short in his accounts with .this firm and thought he might as well plead guilty. It is true this declaration had not yet been made at the time the information was sworn to and therefore could not have been within the knowledge of the prosecutor. Made as •it was, however, so closely following his admission in the office of the defendant, it is significant as showing his estimate of the weight of the accusing evidence and the reason why he had attempted no explanation of the shortage.
+We have then the defendant’s knowledge of his previous default; we have the fact that the books of the company, the accuracy of which is not questioned, clearly showed a shortage; we have the fact that these books were founded on the daily written reports made by the plaintiff himself, and that these reports, on their face at least, showed that the plaintiff had failed to acccount for money of his employer which he had received by virtue of his employment." Under such a state of facts we are of the opinion a jury should not have been permitted to find a verdict for the plaintiff. If the facts we have stated, no one of which is really in controversy, do not constitute probable cause for beginning- a criminal prosecution, it would be difficult to have prosecutions begun at any time except by the public authorities, and thus the interests of the public would suffer. It is true, when the case came on to be tried, the defendant was able to explain away the appearances of guilt to the satisfaction of the jury, and their verdict of course establishes that he was in fact innocent. But this in no way weakens the force of the circumstances we have referred to as they appeared to the prosecutor and must, have appeared to any reasonable man. We are of opinion, for these reasons, that the learned judge below was right in entering a judgment for the defendant non obstante veredicto. The several assignments of error, apart from the main question, do not, as we view the case, demand any detailed discussion. They are all overruled.
+Judgment affirmed.
