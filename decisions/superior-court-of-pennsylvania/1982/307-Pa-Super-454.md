@@ -1,0 +1,40 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "925"
+decided: "1982-12-10"
+citations: ["307 Pa. Super. 454", "453 A.2d 671"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before BECK, MONTEMURO and POPOVICH, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Jerry M. HATFIELD, Appellant."]
+source_url: "https://static.case.law/pa-super/307/cases/0454-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 204426
+cites_cases: ["260 Pa.Super. 82", "265 Pa.Super. 315", "272 Pa.Super. 457", "293 Pa.Super. 491", "4 Pa.D. & C.3d 106"]
+---
+
+# Commonwealth v. Hatfield
+
+## Majority (MONTEMURO, Judge:)
+
+MONTEMURO, Judge:
+Appellant was convicted of meeting or overtaking a school bus in a summary proceeding before a district justice. He contends that the summary proceeding was improperly commenced and that consequently he is entitled to discharge. We agree.
+On October 27, 1980, a citation averring a violation of Section 3345(a) of the Motor Vehicle Code was filed by Trooper James E. McFadden of the Pennsylvania State Police with District Justice Marjorie Teagarden in Washington, Pennsylvania. The violation allegedly occurred on October 24,1980. Trooper McFadden was not present when this incident is said to have occurred and he did not make an on-scene investigation of the incident. Instead, he relied solely on the information received in a telephone call from the school bus driver who witnessed the incident. No private complaint was filed by the bus driver, although he did testify at the hearing before the district justice.
+The appellant was found guilty and an appeal was taken to the Court of Common Pleas of Washington County for a hearing de novo, in which the appellant was again found guilty. Post-verdict motions were denied by the court en banc and a timely appeal was taken to this court.
+Appellant’s primary contention is that he is entitled to discharge because the Commonwealth did not use the proper method of instituting the summary proceeding below. Specifically, he argues that the proceeding should have been commenced by the filing of a private complaint pursuant to Rule 51 A(4), rather than by filing of a citation pursuant to Rule 51 A(l)(b), where the police officer-affiant neither witnessed the violation nor made an on-scene investigation. The Commonwealth counters with the contention that Rule 51 A(l)(b) provides for situations like the one herein and that the procedure used was proper. A close examination of Rule 51 persuades us the appellant’s interpretation is correct.
+Rule 51 provides three methods for the institution of summary proceedings for traffic violations according to the circumstances under which the violation is witnessed and reported. The Rule states in pertinent part:
+Rule 51. Means of Instituting Proceedings in Summary Cases.
+A. Criminal proceedings in summary cases shall be instituted in the following manner:
+(1) Traffic Offenses (Other than Parking)
+(a) Except as provided by subparagraphs A(l)(b) and (c), a citation shall be issued to the defendant by a police officer, who shall be in uniform, when the offense charged is a violation of a traffic ordinance or when it is a summary offense under the Vehicle Code; or
+(b) A citation (rather than a complaint) shall be filed with an issuing authority by a police officer when the offense charged is a violation of a traffic ordinance or is a summary offense under the Vehicle Code, when the police officer is not in uniform, or when it is not feasible for him to issue a citation to the defendant, or when evidence is discovered after the issuance of a citation which gives rise to additional summary charges against the defendant resulting from the same incident. The issuing authority shall thereupon issue a summons and not a warrant of arrest except as provided in Section B(3) of this Rule. Thereafter, the case shall proceed as provided in Rules 57 and 59.
+(4) Private Complaints. A complaint shall be filed with an issuing authority when the affiant is not a police officer as described in Section C of this Rule. If the issuing authority decided to issue process, he shall issue a summons and not a warrant of arrest except as provided in subsection B(3) of this Rule. (Emphasis added)
+The specific provision relied upon by the Commonwealth in support of their contention is that the citation filing procedure is to be used when “it is not feasible for him [the police officer] to issue a citation to defendant.” We find this interpretation to be incorrect inasmuch as the provision seems to be directed toward specific situations not applicable herein, and additionally, this interpretation would create manifold problems which are better avoided.
+There are four problems with allowing the use of the citation-filing procedure in the circumstances herein. First, each citation filed by a police officer with an issuing authority is required to comport with Pa.R.Crim.P. 53(a), which sets forth the form of the citation filed. Each citation contains an affidavit in which the police officer-affiant “being duly sworn (affirmed) according to the law, deposes and says that the facts set forth in the foregoing citation are true and correct.” Allowing a police officer to swear to facts of which he has no knowledge, either by direct observation or on-scene investigation, is an anomoly we will not countenance. Second, there is a possibility that a defendant would not be aware of the identity of the witness to the alleged violation prior to trial. This would severely hamper the defendant’s ability to effectively cross-examine the witness, thus impairing his ability to properly prepare his defense. Third, allowing the use of this procedure would vitiate the private complaint procedure set forth in Rule 51 A(4). We are required to the interpret and construe rules in a way which will give effect to all it provisions. 1 Pa.C.S.A. § 1921(a). Gordon v. Gordon, 293 Pa.Super. 491, 439 A.2d 683 (1981). Finally, the citation-filing procedure could be subverted to personal ends in that a putative witness could fabricate a violation in order to harass or annoy others. We cannot allow the courts to be a vehicle for such an offensive tactic.
+Finally, we recognize past holdings of this court which required that Rule 51 be strictly construed. Commonwealth v. Wagner, 272 Pa.Super. 457, 416 A.2d 546 (1979); Commonwealth v. Jonnet, 265 Pa.Super. 315, 401 A.2d 1228 (1979); Commonwealth v. Shelton, 260 Pa.Super. 82, 393 A.2d 1022 (1978). In light of all of these factors, we hold that Rule 51 requires that a summary proceeding be instituted by the filing of a private complaint and not by a filing of a citation in instances when the police officer has not witnessed the violation nor made an on-scene investigation.
+Accordingly, we reverse the order of the lower court and order the appellant discharged.
+. 75 Pa.C.S.A. § 3345.
+. The appellant also contends that he is entitled to discharge because the trial court rendered its verdict more than three (3) days after trial, in violation of Pa.R.Crim.P. 1122. It is not necessary to reach this issue because of our decision today.
+. Pa.R.Crim.P., Rule 51, 42 Pa.C.S.A.
+. The language “when it is not feasible for him to issue a citation to the defendant” refers to instances where the police officer observing the violation for one reason or another is unable to issue a citation directly to the defendant. In Commonwealth v. Lombardo, 4 Pa.D. & C.3d 106 (1977), a police officer instituted summary proceedings under Rule 51 A(l)(b) by filing a citation when he was unable to immediately interview a witness to an accident who was crucial to the determination of whether or not to cite the defendant. The court ruled that this was proper. Other instances might include a chase of a speeding vehicle where the officer is able to obtain the license number, but unable to apprehend the driver or when an officer discovers a violation but is occupied with other business and unable to issue a citation directly.
