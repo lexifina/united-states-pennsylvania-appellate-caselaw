@@ -1,0 +1,41 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "746"
+decided: "1992-07-06"
+citations: ["415 Pa. Super. 598", "609 A.2d 1384"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before OLSZEWSKI, JOHNSON and HOFFMAN, JJ."]
+parties: ["ESTATE of Carolyn J. HAERTSCH, an Alleged Incompetent. Appeal of Carolyn J. HAERTSCH."]
+source_url: "https://static.case.law/pa-super/415/cases/0598-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 911128
+cites_cases: ["150 A.2d 525", "331 Pa.Super. 26", "395 Pa. 459", "496 Pa. 127"]
+---
+
+# Estate of Haertsch
+
+## Majority (OLSZEWSKI, Judge:)
+
+OLSZEWSKI, Judge:
+This is an appeal of an order of the Court of Common Pleas of Montgomery County dated February 7,1991, which declared appellant, Carolyn J. Haertsch, incompetent. The order further appointed both of her parents co-guardians and established a schedule of custody and visitation. We find that the lower court did not apply the proper standard and that the evidence in the lower court failed to establish appellant incompetent. The order of the lower court is reversed and vacated. A discussion of the case follows.
+Appellant is a twenty-three-year-old individual with Downs Syndrome. Appellant suffers from a degree of mental retardation, but has apparently been able to maintain a job and pursue many of her daily needs. Appellant’s parents, Raymond and Bernadette Haertsch, were separated and subsequently divorced in 1975. Appellant lived with her father until October of 1989, when for some reason she went to her mother’s home and did not return. During 1989 both parents filed petitions to have their daughter declared incompetent and themselves declared guardian. The court appointed both parents as co-guardians and established a schedule of custody for appellant. The custody schedule involved spending half the year living with one parent and half the year with the other parent. This timely appeal followed.
+Appellant presents three issues for our consideration:
+1. Did the lower court apply an erroneous standard in determining that Carolyn Haertsch is incompetent and in need of guardians of her estate and person?
+2. Was the evidence sufficient to support the lower court’s finding that Carolyn Haertsch is incompetent and in need of guardians of her estate and person?
+3. Did the court below violate Carolyn Haertsch’s due process rights under the United States Constitution by failing to appoint counsel or a guardian ad litem to represent her in the incompetency and guardianship proceeding?
+Brief of appellant at 3. Since we find the lower court employed an erroneous standard and that the evidence presented below was insufficient to support a finding of incompetency, we reverse and vacate the order of the lower court.
+When reviewing a competency determination, the standard of review is well séttled. In regard to factual determinations, we recognize that the lower court had the opportunity to hear and observe the witnesses. We will not substitute our judgment for that of the lower court absent a clear abuse of discretion, “even though we, had we been sitting in judgment below, might have reached a contrary result, yet if the evidence is sufficient in quality and quantity to sustain the finding of incompetency such a finding should be sustained.” In re Myers’ Estate, 395 Pa. 459, 460, 150 A.2d 525, 526 (1959) (citations omitted). The statute which controls the determination of incompetency provides:
+An incompetent is defined as follows:
+a person who, because of infirmities of old age, mental illness, mental deficiency or retardation, drug addiction or inebriety:
+(1) is unable to manage his property, or is liable to dissipate it or become the victim of designing persons; or
+(2) lacks sufficient capacity to make or communicate responsible decisions concerning his person.
+20 Pa.C.S.A. § 5501. A statute of this nature places a great power in the court. The court has the power to place total control of a person’s affairs in the hands of another. This great power creates the opportunity for great abuse. Myers’ Estate, 395 Pa. at 460, 150 A.2d at 526. “Mental capacity and competency are to be presumed and before any person shall be deprived of the right to handle his or her own property and manage his or her affairs there must be clear and convincing proof of mental incompetency and such proof must be preponderating.” Id.
+We have examined the evidence and the lower court opinion. We find that the lower court failed to apply the proper standard required under the law. Further, we find the evidence was not sufficient to establish mental incompetency.
+A case to declare an adult individual mentally incompetent is not equivalent to a case to determine custody of a minor child. The question in a custody case is what custody arrangement will serve the best interests of the child. In a case to declare an adult individual an incompetent, the question is whether the alleged incompetent is indeed incompetent. With a child there is not a question of whether the child’s custody must be determined. Under the law it is presumed that the child’s custody must be set and, therefore, the only question is what custody arrangement will serve the best interests of the child. The case of an adult differs greatly. The adult must first be determined to be incompetent, before any determination as to what arrangement will best serve the needs of the alleged incompetent.
+The trial court in this case presumed that appellant was incompetent. Trial court opinion at 3. The trial court did not apply the above standards and determine that appellant was incompetent. Rather, a review of the trial court opinion reveals immediately that the court assumed appellant was incompetent and went on to decide what it believed to be an appropriate custody arrangement. Although appellant’s mother and father had each filed a petition to have her declared incompetent, the court abused its discretion by accepting this as an acquiescence that appellant was incompetent. Appellant may very well have wished to contest whether or not she was incompetent. Since the lower court failed to apply the appropriate standard, we find that the court committed a clear abuse of discretion.
+Appellant’s second argument is that there was insufficient evidence presented at the trial of this matter to establish her incompetent. We agree with appellant. The evidence presented at the trial of this matter was largely related to whether appellant would do best living with her mother or her father. The entire trial court opinion is related to what living arrangement would be best for appellant. These matters are irrelevant until there has been a proper adjudication of incompetency. Our review of the record indicates that it is replete with evidence of how appellant was doing when living with each of her parents, but is lacking evidence of whether appellant is incompetent under the statutory definition. Further, all of the evidence of appellant’s abilities indicates that she is not incompetent. In this situation, we feel we are required to reverse and vacate the decision of the lower court.
+Appellant’s third argument is that the trial court violated her due process rights under the United States Constitution by failing to appoint her counsel or a guardian ad litem for the trial of this matter. Since this case has been decided on a non-constitutional basis, we will not reach this constitutional issue. Ballou v. State Ethics Commission, 496 Pa. 127, 436 A.2d 186 (1981).
+For the foregoing reasons, the order of the trial court is reversed and vacated.
+. We note here that no post-trial motions were filed in the lower court. We feel, however, that the appeal was properly taken. The lower court specifically provided in its order that the order was not subject to post-trial motions. Further, appellant was not represented by counsel in the lower court. We believe that in this situation the failure to file exceptions is excused. We feel that in this regard appellant is correct to refer this Court to Storti v. Minnesota Mutual Life, 331 Pa.Super. 26, 479 A.2d 1061 (1984).
