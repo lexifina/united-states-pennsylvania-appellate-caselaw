@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 269"
+decided: "1965-09-16"
+citations: ["206 Pa. Super. 329"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, P. J., Wright, Watkins, Montgomery, Flood, Jacobs, and Hoeeman, JJ."]
+parties: ["Urbanski, Appellant, v. Urbanski."]
+source_url: "https://static.case.law/pa-super/206/cases/0329-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 773096
+cites_cases: ["109 A. 2d 209", "167 A. 350", "171 Pa. Superior Ct. 218", "172 Pa. Superior Ct. 5", "176 Pa. Superior Ct. 626", "312 Pa. 77", "352 Pa. 173", "42 A. 2d 609", "90 A. 2d 402", "92 A. 2d 236"]
+---
+
+# Urbanski v. Urbanski
+
+## Majority (Jacobs, J.,)
+
+Opinion by
+Jacobs, J.,
+In this divorce action, plaintiff appeals from the decree of the lower court dismissing his complaint.
+The action was brought by the husband in October, 1963, on the grounds of indignities to the person and desertion. He alleges that the desertion occurred on or about September 7, 1961. The parties were married on July 30, 1959, in Poland. They began living together in Philadelphia in January, 1960, when defendant-wife came to this country. At first they lived with plaintiff’s parents, then in their own home. A daughter was born on September 21, 1960. In the spring of 1961 plaintiff left his wife and child to live at the home of his parents. On May 31, 1961, defendant was committed to the Philadelphia State Hospital at Byberry and was a patient there until her discharge near the end of August, 1961. Her diagnosis upon admission was “schizophrenic reaction, acute paranoid type.” In July, 1961, she was declared an incompetent in proceedings before the Orphans’ Court of Philadelphia County, and the plaintiff’s brother-in-law was appointed guardian. In November, 1961, the same Orphans’ Court declared defendant to be competent. Since her discharge from the mental institution, defendant has never lived with plaintiff.
+After carefully reviewing all the testimony, we agree with the master and the lower court en banc that plaintiff has failed to present the clear and satisfactory evidence necessary to support a decree in divorce. McKrell v. McKrell, 352 Pa. 173, 42 A. 2d 609 (1915).
+Plaintiff alleged and testified that defendant rer fused to cohabit with him after her discharge from By-berry in August, 1961, although he requested her to do so. This, he contends, constituted wilful and malicious desertion as defined in the Act of May 2, 1929, P. L. 1237, §10, subd. 1(d), as amended, 23 P.S. 10, subd. 1(d). There is no claim by the plaintiff that the defendant-wife deserted him in the spring when he left so that the separation must have been either consensual, as found by the master, or a desertion by the plaintiff. In either event the burden is on the plaintiff of proving by clear and convincing evidence that he made a bona fide offer of reconciliation. Clark v. Clark, 172 Pa. Superior Ct. 5, 92 A. 2d 236 (1952). Our independent review of the testimony fails to convince us that the plaintiff sustained this burden. He testified that he asked the defendant to live with him several times after her release from the mental hospital. The first offer was made by telephone. However, he admitted that he never offered her any particular place to live, their home having been sold while she was in the institution. He also admitted that he was living with his relatives during the time of the alleged offers and that he never made any effort to get a house or apartment. The picture portrayed is not that of a man making a good faith attempt at reconciliation. Wilful and malicious desertion was not established in this case.
+Plaintiff’s case on the ground of indignities is also deficient. He testified that defendant falsely accused him of having sexual relations with a neighbor and with a 62 year-old house guest, constantly bothered him at work, nagged him at home and once tried to lilt him over the head with a bottle. All these incidents occurred between September, 1960, and the spring of 1961, when he left. He admitted that he noticed a change in defendant’s mental condition after the baby was born in September, 1960, and testified that she consulted with three different doctors before finally being admitted to Byberry. A psychiatrist from By-berry testified that her paranoid schizophrenic condition was a progressively worsening thing which required insulin shock therapy upon admission. The report of the admitting psychiatrist stated that during the prior year she had been growing increasingly paranoid. In view of all this we hold that her conduct resulted from her mental condition and lacked the spirit of hate, estrangement and malevolence which is the heart of the charge of indignities. Stewart v. Stewart, 171 Pa. Superior Ct. 218, 90 A. 2d 402 (1952). As was said by Judge Ervin, now our president judge, in Albrecht v. Albrecht, 176 Pa. Superior Ct. 626 at 633, 109 A. 2d 209 (1954), “ill health both explains and excuses a wife’s conduct, and the acts of a spouse resulting from ill health do not furnish a ground for divorce.” Plaintiff’s contention that defendant’s action on two occasions in support court, one in May, 1963, and one in June, 1963, in accusing him of having unnatural sexual relations with their 2y2 year old daughter, is sufficient to constitute indignities is unconvincing. Such accusations on these two separate occasions, standing alone, do not constitute the course of conduct required to show indignities as the same are defined by our law. Esenwein v. Esenwein, 312 Pa. 77, 167 A. 350 (1933).
+Decree affirmed.
+She had signed an agreement of sale five days before she was committed and apparently the incompetency proceeding was held in order to facilitate the sale.
