@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 146"
+decided: "1962-06-13"
+citations: ["198 Pa. Super. 279"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, Wright, Woodside, Watkins, Montgomery, and Flood, JJ. (Bhodes, P. J., absent)."]
+parties: ["Brourman, Appellant, v. Bova."]
+source_url: "https://static.case.law/pa-super/198/cases/0279-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 758528
+cites_cases: ["108 Pa. 291", "114 A. 773", "13 Pa. Superior Ct. 303", "140 A. 2d 358", "169 Pa. 167", "186 Pa. Superior Ct. 101", "2 A. 230", "230 Pa. 165", "26 A. 2d 460", "271 Pa. 245", "32 A. 432", "344 Pa. 579", "79 A. 410"]
+---
+
+# Brourman v. Bova
+
+## Majority (Watkins, J.,)
+
+Opinion by
+Watkins, J.,
+Appellant, Samuel Brourman, trading and doing business as Mabro Company, a general contractor, sought to recover in an action of assumpsit the balance of $1,044 alleged to be due on a contract with appellees for repair and construction of an addition to their home in Beaver County, Pennsylvania. The original amount of the contract was $6,900 plus extras subsequently added amounting to $44 or a total of $6,944.
+Appellees, by way of defense, alleged the failure of appellant to perform the contract in a good and workmanlike manner and filed a counterclaim claiming damages in the sum of $2,659.49, but by an amended answer increased this claim to $5,069.38. A jury returned a verdict in their favor in the amount of $2,900. A motion for a new trial having been refused, this appeal followed.
+This appeal raises the following questions: (a) the admissibility of testimony as to costs of repairs given by two experts, who were allegedly not qualified, (b) error in the charge of the court on the matter of damages and (c), error in the charge on the interpretation of the language of the contract “cash upon satisfactory completion.”
+No complaint is made as to the general qualification of two experts; complaint is made entirely on their lack of knowledge of the provisions of the contract, and the remoteness of their inspections and estimates. Neither witness examined the contract; Carcaise examined the work for the first time in March, 1960, a month before the trial, and his estimate of damages $5,069.38, was as of that date; Matzzie made his first inspection in the summer of 1958 and a second inspection a week before the trial (April, 1960) and estimated damages at $2,162.50 as of the time of his first visit, although he stated it would cost more at the time he was testifying, without indicating how much more.
+We find no merit in the objection relating to their lack of knowledge of the contractual provisions. They were advised by the owner what work had been done; they inspected and saw the work and there was no testimony offered to dispute the fact that they had been properly informed as to the work appellant had contracted to do. On that basis each testified as to what, in his opinion, it would cost to correct the defects they saw so as to complete and restore the work as to meet reasonable standards of building construction, if not “satisfactory completion” as provided in the contract.
+The measure of damages in matters of this nature, as a general rule, is the difference in value between what is tendered as performance and what is due as performance under the contract, and this may consist of the amount required to remedy the defect. Morgan v. Gamble, 230 Pa. 165, 79 A. 410; Dixon-Woods Company v. Phillips Glass Company, 169 Pa. 167, 32 A. 432; Haines, Jones & Cadbury Co. v. Edwin P. Young, 13 Pa. Superior Ct. 303; and they are measured as of the date of the breach, Gaylord Builders, Inc. v. Richmond Metal Mfg. Corp., 186 Pa. Superior Ct. 101, 140 A. 2d 358. The charge of the court gave the jury three alternatives: (a) verdict for plaintiff for amount of his claim, (b) verdict for plaintiff for amount claimed less what it would cost to place work in condition to meet contractual obligation, and (c) verdict for defendants for excess of such costs in excess of balance due.
+We are of the opinion, however, that it was error to permit Carcaise to testify to repair costs as of March, 1960, on conditions as he found them at that time. There is no question that there was no work of any substantial nature done after March 8, 1958, the job having been completed prior thereto. Mr. Matzzie, the other expert, testified that there were noticeable changes between his two visits, the second of which was at about the same time as the visit of Mr. Carcaise. Therefore, since it was the obligation of appellee to mitigate his damages, Taber v. Porter-Gilder-sleeve Co., Inc., 271 Pa. 245, 114 A. 773, it cannot be said that appellant was solely responsible for those conditions found to exist on these later inspections. However, the main objection to his testimony is that his costs were not related to the time the contract was allegedly breached, to wit, March 1, 1958, and with the spiraling costs of not only building material and labor, but of other things during that period, his testimony was inadmissible to demonstrate appellees’ loss as of the earlier date. Gaylord Builders, Inc. v. Richmond Metal Mfg. Corp., supra. The jury, evidently, relied on his testimony since it allowed $2,900 damages in excess of the balance of $1,044 due on the contract, thus assessing the damages at $3,944 as against $2,162.50 given by Mr. Matzzie, which would be subject to a credit of the $1,044 due on the contract or net damages of $1,118.50.
+We find no error in the court’s charge on damages as contended by appellant. The jury was fully informed that it might find a verdict for appellee-defendants if the costs to complete the contract were in' excess of the balance due thereon, and that the verdict would be for the excess, meaning the costs of completion less the balance.
+As to the court’s interpretation of tlie contractual phrase “cash upon satisfactory completion,” viz., that this meant to the satisfaction of the appellees, subject to the qualification that their dissatisfaction must be bona fide and not unreasonable or capricious, we find no error. Burke v. Daughters of the Most Holy Redeemer, Inc., 344 Pa. 579, 26 A. 2d 460; Singerly v. Thayer, 108 Pa. 291, 2 A. 230.
+We are of the opinion that the error of admitting the testimony of the expert Carcaise is prejudicial and that the verdict based thereon is excessive to the extent of working an injustice making a new trial mandatory.
+Judgment reversed with a venire.
