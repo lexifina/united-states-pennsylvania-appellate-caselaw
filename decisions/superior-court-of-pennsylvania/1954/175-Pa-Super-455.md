@@ -1,0 +1,39 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 171"
+decided: "1954-07-13"
+citations: ["175 Pa. Super. 455"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Ross, Gunther, Wright and Ervin, JJ."]
+parties: ["Kraesko v. Black Lick Mining Company, Appellant."]
+source_url: "https://static.case.law/pa-super/175/cases/0455-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 720716
+cites_cases: ["157 Pa. Superior Ct. 467", "159 Pa. Superior Ct. 29", "43 A. 2d 553", "46 A. 2d 512"]
+---
+
+# Kraesko v. Black Lick Mining Co.
+
+## Majority (Rhodes, P. J.,)
+
+Opinion by
+Rhodes, P. J.,
+This is an appeal by defendant-employer and its insurance carrier from a judgment for claimant entered on an award of the Workmen’s Compensation Board under The Pennsylvania Occupational Disease Act of June 21, 1939, P. L. 566, 77 PS § 1201 et seq.
+Appellants question the sufficiency of the evidence in the record to support the finding that claimant was exposed to a silica hazard for an aggregate period of four years during the eight years next preceding disability as contemplated by section 301 (d) of the Act, 77 PS § 1401 (d). Section 301 (d) provides as follows:
+“(d) Compensation for silicosis or anthraco-silicosis, and asbestosis, shall be paid only when it is shown that the employe has had an aggregate employment of at least four years in the Commonwealth of Pennsylvania, during a period of eight years next preceding the date of disability, in an occupation having a silica or asbestos hazard.”
+Claimant was employed by appellant-employer as a coal miner from June 10,1946, to September 19,1951, the occupation having a silica hazard. Claimant had no other employment during this period. On September 19, 1951, he became totally disabled as a result of anthraco-silicosis. He had worked as a coal miner for the Westmoreland Mining Company prior to 1942. He then served eighteen months in the United States Army, and for the two years immediately prior to his employment with appellant he was engaged in farming.
+Claimant filed a claim petition on January 31, 1952, in which he alleged that he became totally disabled on September 19, 1951, as the result of anthraco-silicosis caused by his employment with appellant in an occupation having a silica hazard. The referee awarded compensation; the Board affirmed the award; and the Court of Common Pleas of Cambria County on appeal entered judgment on the award. From the judgment an appeal was taken to this Court.
+The real issue presented on this appeal involves the construction to be given to section 301 (d) of the Act, 77 PS § 1401 (d), and is whether on the undisputed facts there was an aggregate employment of at least four years in an occupation having a silica hazard as contemplated by the Act.
+Claimant’s employment with appellant was from June 10,1946, to September 19,1951, a period of slightly over 5% years. He worked a total of 753 days during this time. For the same period appellant’s mine was in operation 969 days, or an average of 3.54 days a week, a substantial part of a 5-day week although claimant’s employment was not necessarily on that basis. It thus appears that claimant worked 77.7 per cent of the time the mine operated, or an average of 2.75 days a week. Otherwise expressed it may be said that claimant worked 4.08 years during the 5% years of employment with appellant.
+Appellant’s mine operated an average of 184 days a year while claimant worked an average of 143 days a year.
+Claimant’s working days were well distributed over the entire employment period of 5% years, and they substantially coincide Avith the period the mine had work available for claimant. He Avorked in every pay period, i.e., every two-week period that the mine was in operation, Avith the exception of four such periods, to wit: August 16-31, 1948; November 1-15, 1949; February 1-15, 1950; June 16-31, 1951. Claimant had no employment other than his continuous employment with appellant. The continuity of claimant’s employment Avas not impaired by absences from work for short periods because of emergencies personal to him or applicable to appellant’s operation. The mine operated in a consistent manner, and with sufficient regularity to give claimant, whose continuous employment substantially coincided with the mine’s operation, the necessary aggregate of four years’ exposure during the statutory period.
+Appellants rely on Bingaman v. Baldwin Locomotive Works, 159 Pa. Superior Ct. 29, 46 A. 2d 512, as controlling the present case. The cases are readily distinguishable. In the Bingaman case, claimant had been employed about 5% years by the Baldwin Locomotive Works in its foundry. There were extensive periods during which Bingaman did not work for the company. During the period of his contractual employment covering approximately five years and seven months, he Avorked a total of three years, six months, and tAventyfour days. In determining this aggregate period credits toward the aggregate four-year period were alloAved for the time between the beginning of a given period worked by Bingaman and the termination thereof. HoAvever, there was an aggregate period of two years when Bingaman had no exposure to a silica hazard. These periods consisted of three months and twenty days between the cessation of work in 1934 and the resumption in 1935, nine months and twenty-five days between 1935 and 1936, and ten months and seventeen days between 1938 and 1939. In passing upon the question involved this Court stated (page 34 of 159 Pa. Superior Ct., page 514 of 46 A. 2d) : “We desire to make it clear that in our opinion employment in an occupation having a silica hazard . . . exists only where an employee is subjected to the hazard of exposure to the dust of silicon dioxide. . . . The aggregate employment must carry with it the hazard for the required time. The extended periods of nonemployment or employment elsewhere involved no such hazard . . . More is required than the continued relationship of employer and employee. Proof of the silica hazard is an essential part of a claimant’s case.”
+In the present case there existed an unbroken course of employment by claimant with appellant. It was not based upon “a mere continuation of the contract of employment” without any exposure. There was an actual exposure of claimant to the silica hazard throughout the entire term of his employment. No extended layoff periods occurred when claimant would not be subjected to the hazard as contemplated by the Act.
+The facts in each case under the Act must determine the nature and the extent of a claimant’s exposure to a hazard in his employment. See Tokash v. Early Foundry Co., 157 Pa. Superior Ct. 467, 43 A. 2d 553.
+Judgment is affirmed.
+Rule (1), Article 6 of the Rules of Procedure of the Workmen’s Compensation Board applying to the Occupational Disease Compensation Acts provides:
+“An employe shall be deemed to have had an aggregate employment of four (4) years (under the Act of 1937 — 2 years) in the Commonwealth of Pennsylvania during the eight (8) years next preceding disability in an occupation involving a silica or asbestos hazard: . . .
+“(b) When he has been employed in such an occupation during the eight-year period for a total number of working days equal to four times the number of days the men employed in that industry work during an average year; or in the event the disability occurred during the Act of 1937,, then equal to twice the number of days the men employed in that industry work during an average year; . . .” 77 PS Appendix 431.
+The average number of days per year the mine worked during the time of claimant’s employment was 184. This multiplied by four would be tbe number of days claimant would have been required to work, to wit, 736; lie actually worked 753.
