@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 274"
+decided: "1962-03-21"
+citations: ["197 Pa. Super. 538"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Ervin, Wright, Woodside, Watkins, Montgomery, and Flood, JJ.", "Before O’Donnell, J."]
+parties: ["Commonwealth ex rel. Smith v. Patterson, Appellant."]
+source_url: "https://static.case.law/pa-super/197/cases/0538-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 757175
+cites_cases: ["126 A. 2d 523", "146 Pa. Superior Ct. 553", "163 Pa. Superior Ct. 211", "167 Pa. Superior Ct. 184", "182 Pa. Superior Ct. 232", "22 A. 2d 596", "60 A. 2d 416", "74 A. 2d 741"]
+---
+
+# Commonwealth ex rel. Smith v. Patterson
+
+## Majority (Woodside, J.,)
+
+Opinion by
+Woodside, J.,
+This is an appeal by Charles L. Patterson from a sentence directing him to pay $6 per week for the support of a child born out of wedlock. The sentence was imposed after his conviction of willful neglect to support the child in violation of the Act of June 24, 1939, P. L. 872, §732, 18 P.S. §4732. He contends that the court below erred in its refusal to arrest the judgment of sentence on the ground of the long delay between the making of the information and the trial.
+The child was born May 19, 1951. The mother signed an affidavit of complaint on August 1, 1951, charging the defendant with being the father of the child.. At that time the defendant was in the armed services. He was discharged December 31, 1952. Shortly thereafter, he visited the prosecutrix, and gave her §5 to buy the baby a present. However, nothing was said concerning the pending action. At this time the mother’s father, who has since died, was supporting the child. No action was taken on the complaint, and the defendant knew nothing of the charge until he was summoned to a preliminary hearing on September 19, 1959.
+At that time the defendant waived an indictment by a grand jury and requested a bill to be prepared with his plea of not guilty entered thereon. He was finally brought to trial and convicted on April 23, 1961. Thereafter, he moved for arrest of judgment which the court below refused. After the imposition of the sentence he appealed to this Court, contending that the failure to give notice of the pendency of the legal proceedings over the long period of time violated the requirements of the State and Federal Constitutions for a speedy trial and for due process, and that the action was barred by the statute of limitations.
+Section 732, supra, provides that “all prosecutions under this section must be brought within two (2) years of the bii’th of the child,” except under conditions not here relevant. It does not require that an indictment, which is a step in prosecution toward final judgment, must be found within that period. If the prosecution is started within two years of the birth of the child, it is immaterial that the indictment is found more than two years after the birth. The date of the information, or affidavit of complaint, and not the date of the indictment determines whether the action is barred by the statute of limitations. Commonwealth v. O’Gorman, 146 Pa. Superior Ct. 553, 22 A. 2d 596 (1941); Commonwealth v. Teeter, 163 Pa. Superior Ct. 211, 60 A. 2d 416 (1948). Here the affidavit of complaint was filed within three months of the birth of the child.
+Article I, Section 9, of the Pennsylvania Constitution provides that “In all criminal prosecutions the accused hath a right to ... a speedy public trial by an impartial jury of the vicinage . . .”
+In the matter before us, the affidavit of complaint was made against the defendant on August 1, 1951, and there is no evidence that the defendant had knowledge of this complaint until summoned to a preliminary hearing over eight years later in September 1959. We are not impressed by the argument that knowledge of the illegitimate child put the defendant on notice that a complaint might have been made and that it was his duty to make an investigation to determine this fact. The prosecutrix knew the defendant’s whereabouts shortly after he was discharged from the service, so, at least from that time on, he was not a fugitive. As no effort to press the charge was made for over eight years and the defendant had no knowledge of the action during this period, we are of the opinion that he had a constitutional right to have an indictment quashed. But, the defendant made no attempt to quash the indictment. Instead he waived the obtaining of one by the grand jury and entered his plea of “not guilty”. He, thus, elected to have the case disposed of on its merits, which he had a right to do. Having thus elected to dispose of the case on its merits, he waived any constitutional right which he might have had to have the case discharged because of the delay.
+In Commonwealth v. Smihal, 182 Pa. Superior Ct. 232, 126 A. 2d 523 (1956), the defendant was convicted by a jury and sentenced on a charge of fornication and bastardy. The information had been made on December 31, 1942, and a true bill on the indictment was found on January 25, 1943, but the defendant was not arrested until March 22, 1956, over thirteen years later. The defendant was overseas in the armed services when the information was made and the indictment found. He was discharged in 1945 and returned to his home where he resided until arrested on March 22, 1956. The jury found him guilty, and the court refused defendant’s motion for a new trial and arrest of judgment.
+Upon appeal this Court said, p. 236: “The question of delay in bringing him to trial in violation of his constitutional right to a speedy trial should' have been raised by the defendant in a motion to quash the indictment. As stated in 8 R.C.L. §28, p. 74: ‘The right of the accused to a discharge for the failure of the prosecution to put him on trial within the required time may be waived by his own conduct. He must claim his right if he wishes its protection ... if he goes to trial without objecting that the time limit has passed, . . . he will not be in a position to demand a discharge because of delay in prosecution.’ (Emphasis added) Under the circumstances here the defendant must be deemed to have waived his constitutional right to a speedy trial.”
+See also Commonwealth v. Kumitis, 167 Pa. Superior Ct. 184, 74 A. 2d 741 (1950).
+Judgment of sentence affirmed.
