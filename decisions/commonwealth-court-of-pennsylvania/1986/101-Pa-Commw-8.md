@@ -1,0 +1,62 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 51 C.D. 1985"
+decided: "1986-09-24"
+citations: ["101 Pa. Commw. 8", "515 A.2d 361"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogers and Barry, and Senior Judge Blatt, sitting as a panel of three.", "Judge Rogers dissents."]
+parties: ["Ralph M. Bloom, Jr., Petitioner v. Commonwealth of Pennsylvania, Department of Environmental Resources, Respondent."]
+source_url: "https://static.case.law/pa-commw/101/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1354315
+cites_cases: ["25 Pa. Code §86.1", "25 Pa. Code §86.13", "25 Pa. Code §§86.81-86.95", "30 U.S.C. §1201", "30 U.S.C. §1253", "30 U.S.C. §§1201-1328", "30 U.S.C. §§801-962", "373 F. Supp. 797", "457 A.2d 610", "505 Pa. 198", "73 Pa. Commonwealth Ct. 148"]
+---
+
+# Bloom v. Commonwealth
+
+## Majority (Opinion by Judge Blatt,)
+
+Opinion by Judge Blatt,
+Ralph M. Bloom, Jr. (petitioner) here requests a review of the order of the Environmental Hearing Board (Board) which dismissed his appeal from an order of the Department of Environmental Resources (Department).
+The petitioner owns and operates a one-man underground coal mine in Somerset County. He has operated his mine since 1968 under a permit issued by the Departments predecessor. Pursuant, however, to the Clean Streams Law (CSL) and the Surfe.ce Mining Conservation and Reclamation Act (Pa. SMA), the Department issued a compliance order to the petitioner in April 1984, directing him to immediately cease his mining activities and to refrain from operating his mine until he had submitted a complete “repermitting” application. This order also specified that, if the repermitting application was not received within sixty days, the petitioner would have to submit a reclamation plan within ninety days of the order.
+The Board denied the petitioners request for supersedeas and subsequently issued the order here concerned. This Court, however, granted the petitioners supersedeas application and, consequently, he is currently operating his mine pursuant to the 1968 permit.
+On review, the petitioner presents several interrelated questions. In order, however, to resolve the ultimate question in this case, i.e., whether or not his coal mine must be repermitted, we must answer two basic questions: 1) whether or not the 1980 amendments to the CSL and the Pa. SMA and the regulations promulgated thereunder were intended to apply to small coal mining operations such as the petitioners, and 2) whether or not the petitioners mining operation is exempted from the repermitting requirements of the CSL by virtue of Section 315(1) of the CSL.
+In regard to the first question, the petitioner argues that, because a federal court had held that the requirements of the Federal Coal Mine Health and Safety Act of 1969 do not apply to his mine, the presence of identical definitional provisions in the Federal Surface Mining Control and Reclamation Act of 1977 (federal SMA) precludes application of the federal SMA and the CSL and Pa. SMA to his operation. Inasmuch as the Departments compliance order does not reference the federal SMA, we express no opinion as to the applicability of that statute in the present case. We cannot agree with the petitioner, however, that the state statutes are inapplicable here.
+It is true, of course, that, in order to obtain primary jurisdiction (primacy) over coal mining operations within Pennsylvania from the federal government, the Commonwealth was required to meet certain minimum standards contained in the federal SMA. Accordingly, the Commonwealth amended, inter alia, the CSL and the Pa. SMA. Pursuant to these amendments, the Environmental Quality Board (EQB) promulgated new regulations in 1982 (primacy regulations), which pertinently provide that:
+[n]o persons may conduct coal mining activities except under permits issued pursuant to this chapter and in compliance with the terms and conditions of the permit and the requirements of this chapter, Chapter 87 (relating to surface mining of coal), Chapter 88 (relating to anthracite coal), Chapter 89 (relating to underground mining of coal and coal preparation facilities), and Chapter 90 (relating to coal refuse disposal), and the statutes pursuant to which they were promulgated.
+25 Pa. Code §86.13 (emphasis added).
+The petitioner acknowledges that, to gain primacy, the Commonwealth only had to meet the minimum requirements of the federal SMA. And we note that Section 315(a) of the CSL pertinently provides that “[n]o person or municipality shall operate a mine . . . unless such operation ... is authorized by the rules and regulations of the [Department or such person or municipality has first obtained a permit from the [D]epartment.” 35 P.S. §691.315(a). When read together, Section 315(a) and 25 Pa. Code §86.13 clearly express a legislative and regulatory intent to require all ongoing, as well as any future coal mining activities, to be conducted only under permits issued pursuant to the primacy regulations. Moreover, where, as in the instant case, the federal government has erected minimum standards regarding a joint federal-state program, a participating state is free to enact higher standards of its own. See Novak v. Unemployment Compensation Board of Review, 73 Pa. Commonwealth Ct. 148, 457 A.2d 610 (1983). The petitioners mining operation is bound, therefore, by Pennsylvania’s more demanding statutory and regulatory provisions subjecting, without exception, all coal mining operations within the Commonwealth to the repermitting requirements of the primacy regulations.
+The petitioner alternatively contends that he is exempted from the repermitting requirements of the CSL by virtue of subsection (1) of Section 315 of that statute, which provides:
+The requirements of this section shall not apply to lands on which mining operations are being conducted on August 3, 1977, or under a permit issued pursuant to the Act, or where substantial legal and financial commitments as they are defined under §522 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. §1201 et seq.), in such operation were in existence prior to January 4, 1977.
+35 P.S. §691.315(1) (emphasis added). The petitioner argues that, because his mine was in operation before August 1977, the use of the word “section” in subsection (1) indicates that the repermitting provisions of Section 315 do not apply to his mine.
+The Department responds that subsection (1) applies on its face only to the matter of designating land areas as being unsuitable for mining and does not create an exception to the repermitting requirements.
+We agree with the Department on this matter, because subsection (1) is directed to specified lands, not to mining operations. It would be, we believe, contrary to logic to exempt land from the repermitting requirements, which are designed to control certain activities conducted on the land, i.e., mining operations. We further believe, therefore, that the only logical reading of subsection (1) is in conjunction with subsections (h), (i), (j), (k), (m) and (n) of Section 315, all of which are concerned with the identification and designation of land areas as being unsuitable for mining and the protection of such lands from mining. We conclude, therefore, that the petitioners mine is not exempt from Section 315s repermitting requirements by virtue of subsection (1).
+Accordingly, we hold that, in order to continue to legally operate his coal mine, the petitioner must comply with the primacy repermitting procedures as ordered by the Department and we will, therefore, affirm the order of the Board.
+Order
+And Now, this 24th day of September, 1986, the order of the Environmental Hearing Board in the above-captioned matter is affirmed.
+Judge Rogers dissents.
+Act of June 22, 1937, P.L. 1987, as amended, 35 P.S. §§691.1-691.1001.
+Act of November 30, 1971, P.L. 554, as amended, 52 P.S. §§1396.1—1406.21.
+Chapter 86 of Title 25 of the Pennsylvania Code provides the regulatory scheme for surface and underground coal mining in the Commonwealth. Section 86.11(c) provides that:
+Except as provided for in §86.12 (relating to continued operation under interim permits) and Subchapter E (relating to coal exploration), on and after eight months from the effective date of this chapter, no person shall engage in or carry out coal mining activities within Pennsylvania, unless that person has first obtained a valid permit issued by the Department.
+Section 86.12 is as follows:
+A person conducting coal mining activities under a permit issued in accordance with the requirements of Chapter 13 (relating to compliance with the Surface Mining Control and Reclamation Act of 1977), who has filed an application for permit in accordance with §86.14(a) (relating to permit application filing deadlines) for which the Department has not rendered a decision may conduct these activities under such permit beyond the period prescribed in §86.11(c) (relating to general requirements for permits) provided:
+(1) Timely and complete application for a permit has been made to the Department in accordance with this chapter.
+(2) The Department has not yet rendered an initial administrative decision with respect to such application.
+(3) The operations are conducted in compliance with all terms and conditions of the permit, Chapter 13 (relating to compliance with the Surface Mining Control and Reclamation Act of 1977), and the Surface Mining Conservation and Reclamation Act, the Coal Refuse Disposal Control Act, the Bituminous Mines Subsidence and Land Conservation Act, the Dam Safety and Encroachments Act, and the Air Pollution Control Act.
+Morton v. Bloom, 373 F. Supp. 797 (W.D. Pa. 1973).
+30 U.S.C. §§801—962.
+30 U.S.C. §§1201—1328.
+See 30 U.S.C. §1253 and Arsenal Coal Co. v. Department of Environmental Resources, 505 Pa. 198, 204 n.4, 477 A.2d 1333, 1336 n.4 (1984).
+Pertinently, the CSL was amended by the Act of October 10, 1980, P.L. 894, No. 147 and the Pa. SMA was amended by the Act of October 10, 1980, P.L. 835, No. 155.
+The EQB formulates, adopts and promulgates rules and regulations which become the rules and regulations of the Department. The Department then has the duty to enforce such rules and regulations. The Board is the administrative review body for orders, permits, licenses and decisions of the Departments enforcement actions. Arsenal, 505 Pa. at 203 n.3, 477 A.2d at 1336 n.3.
+Both the pre-primacy and present versions of Section 315 require all mining operations within the Commonwealth to be permitted.
+25 Pa. Code §86.1 defines “coal mining activities” as “[a]ny surface mining activities, underground mining activities, or coal refuse disposal activities as these terms are defined in this section.” This regulatory section also provides that “underground mining activities” includes:
+(i) Surface operations incident to underground extraction of coal or in situ processing, such as construction, use, main-' tenance, and reclamation of roads, above-ground repair areas, storage areas, processing areas, shipping areas, areas upon which are sited support facilities, including hoist and ventilating ducts, areas used for the disposal and storage of waste, and areas on which materials incident to underground mining operations are placed.
+(ii) Underground operations such as underground construction, operation, and reclamation of shafts, adits, underground support facilities in situ processing, and underground mining, hauling, storage, and blasting.
+(iii) Operation of a mine, including preparatory work in connection with the opening or reopening of a mine, back-filling, sealing and other closing procedures, and any other work done on land or water in connection with a mine.
+We agree with the Department that this conclusion is supported by the existence of the Small Operator Assistance Fund, 25 Pa. Code §§86.81—86.95, which is also a part of the primacy regulations and which assists qualified small mine operators to meet the repermitting requirements.
+Of course, even if the petitioner were to be held to be exempt from the repermitting requirements of the CSL, he would, nonetheless, remain subject to the similar requirement of Section 5 of the Pa. SMA, 52 P.S. §1396.4.
+Our order here also operates to lift our supersedeas order.
