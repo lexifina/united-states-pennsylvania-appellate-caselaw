@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 56"
+decided: "1908-07-15"
+citations: ["37 Pa. Super. 49"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Porter, Henderson, Orlady, Head and Beaver, JJ."]
+parties: ["Robbins v. Locust Mountain Savings & Loan Association, Appellant."]
+source_url: "https://static.case.law/pa-super/37/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 876012
+cites_cases: ["10 Kulp, 538"]
+---
+
+# Robbins v. Locust Mountain Savings & Loan Ass'n
+
+## Majority (Orlady, J.,)
+
+Opinion by
+Orlady, J.,
+This action of ejectment, after being at issue, was referred to a referee, under the Act of March 23, 1870, P. L. 540, who made a report to which exceptions were filed, and after a hearing a judgment was directed to be entered in favor of the plaintiff for the land described in the writ, upon condition that within twenty days he deposit with the prothonotary. a general warranty deed for said land, to be delivered to the defendant association upon payment of $700 and interest to the prothonotary for the plaintiff, whereupon judgment absolute was to be entered for the defendant.
+The common source of title was Rev. Stephen Jay, who agreed orally, about February 11,1898, to convey the premises in dispute to George E. Devins, and pursuant to that agreement, he executed, with his wife, a deed in fee. simple dated February 14, 1898, and placed it in the hands of one E. D. Nichols, Esq., his attorney, with instructions to deliver the deed to Devins when the purchase money, $700, should be paid.
+Devins entered into possession of the premises under the verbal agreement about March, 1898, and began the erection of a building thereon under a contract with B. M. Pace, who furnished the greater part of the labor and materials for the building. Robbins, the present plaintiff, also furnished material amounting to about $300, and upon consultation with his attorney, was advised that the best way to secure his claim would be to obtain title to the- premises from Jay. Robbins subsequently arranged with one E. M. Yost, who agreed to act as a middleman to secure the deed from the attorney of Jay, who had retained it for the reason that the purchase price had not been paid, and when Yost agreed to pay this sum,- the deed was altered by erasing the name and residence of George E. Devins, the grantee therein named, and substituting therefor the name and residence of E. M. Yost. He- as attorney for Robbins, then paid Nichols the $700 handed to him by his client, which Nichols immediately paid over to his client, Jay, the original grantor. The altered deed was delivered to Yost, who put it on record the same day, and under his agreement to act as middleman, he, Yost, made a deed to Robbins for the premises in dispute, which was subsequently placed on record.
+In the meantime, Pace, one of the contractors of the building, filed a mechanic’s lien, naming Devins and Yost as owners, and on June-17, 1899, took judgment for the amount of his claim. After judgment had been entered on the mechanic’s lien, Robbins endeavored to have it opened, and petitioned that he might be permitted to intervene as a party defendant, which was refused by the court, and the land was sold on a levari facias on the mechanic’s lien judgment by the sheriff to one Frank B. Harrower, to whom the sheriff made his deed. On the following day Harrower and his brother, who were attorneys, executed a bond and mortgage to the defendant association, upon the premises in dispute. The real estate with the improvements is admittedly worth $3,000 and more.
+After a full examination of the whole testimony, it appears clearly that Jay, the original grantor, was innocent of any wrongdoing throughout the transaction and knew nothing of the change made in his deed to Devins. It is equally clear that Robbins did not know of the alterations in the deed until three months afterwards, but it is as certain that he was a participant in the transaction, which was devised for his benefit by his attorney to secure his claim. The conclusion of the referee was that the plaintiff, although vested with the legal title, was estopped from asserting it because he was a party or privy to the alteration of the deed which forms a link in the title set up by the defendant, but we feel that the decision of the court below is fully warranted under the facts.
+While there is no positive proof that, when the defendant association took the mortgage from Harrower, which formed the inception- of their title, it had actual knowledge of the forgery, yet it must be held to have known the facts which a search would have disclosed, and an examination would have shown such a. tortuous course of dealings, aptly described by the court below as “a complex tissue of circumstances, involving criminal blunder if not actual crime,” that if a further and fuller inquiry had then been made the whole truth would have been developed. Athwart the path of the defendant’s title lay this forged deed with the distinct notice of the adjudication by the court prior to the sheriff’s sale that it was a forgery. Under all tfie facts, we feel that the lower court was correct in holding “That Robbins paid his money in good faith, that he had no guilty complicity although he was the intended beneficiary in the performance of the attorneys; and that the defendant has no just cause of complaint, if allowed to retain the benefit of the equitable title, subject to the payment of the original purchase price of the lot,” which will be doing substantial justice between these parties.
+The assignments of error are overruled and the judgment is affirmed.
