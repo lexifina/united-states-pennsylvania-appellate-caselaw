@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 208"
+decided: "1902-01-21"
+citations: ["19 Pa. Super. 127"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rige, P. J., Beaver, OrlaBy, W. W. Porter and W. D. Porter, JJ."]
+parties: ["Herndon Borough."]
+source_url: "https://static.case.law/pa-super/19/cases/0127-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 839504
+cites_cases: ["105 Pa. 46", "11 Pa. Superior Ct. 69", "13 Pa. Superior Ct. 651", "131 Pa. 365", "173 Pa. 331", "185 Pa. 602", "2 Pa. Superior Ct. 596", "3 Ill. 227", "49 Pa. 371", "51 Pa. 187", "60 Ark. 155", "61 Pa. 187", "72 Pa. 363", "9 Pa. Superior Ct. 136", "96 Iowa, 158"]
+---
+
+# Herndon Borough
+
+## Majority (W. D. Porter, J.,)
+
+Opinion by
+W. D. Porter, J.,
+The court below, on May 6, 1901, entered a decree incorporating the proposed borough; a petition and remonstrance signed by a large number of the freeholders of the territory proposed to be incorporated was subsequently presented to the court, and, on May 13, 1901, the court granted a rule to show cause why the decree of incorporation should not be opened; exceptions to the incorporation of the borough were then filed, and the court after a hearing vacated the decree incorporating the borough, and finding that it was not expedient to grant the prayer of the petitioners, dismissed the petition. All of the above recited orders and decrees were made at the same term. The complaint of the appellants is that the court having entered the decree of incorporation had no power to vacate it. The power to ihcorporate boroughs delegated by the legislature to the court of quarter sessions was intended to be exercised in such a manner as to promote the convenience and welfare of the citizens of the commonwealth; it is an exercise of the sovereign power, and until the decree of incorporation has been carried into execution and the new municipal subdivision has entered into some contract, no right of private property can possibly become involved in the proceeding. The law vests in the judges of the court of quarter sessions a discretion which it is vital to the interests of the public should be wisely and carefully exercised. In view of the responsibility imposed upon the judges, it would certainly be unwise to deny them the power to review their own decrees within the same reasonable limits which apply to all other judicial proceedings. Every court has power to open a judgment in order to give the parties a hearing or trial. In the case of judgments by confession or default, there is no limit of time to the exercise of this power, but in the case of judgments entered adversely after a hearing or trial, it is settled that it must be done before the end of the term at which they are entered. The whole term, save where there is a statute or rule of court to the contrary, is considered as but one day, and the judges may, at any time within the term, revise their decrees ; the record is incomplete until the term is ended: King v. Brooks, 72 Pa. 363; Lance v. Bonnell, 105 Pa. 46 ; Fisher v. Hestonville, etc., Pass. Railway Company, 185 Pa. 602; Hill v. Egan, 2 Pa. Superior Ct. 596 ; O’Donnell v. Flanigan, 9 Pa. Superior Ct. 136 ; Dean v. Munhall, 11 Pa. Superior Ct. 69. The term not having ended, the court was still vested with discretionary power to open its decree.
+The allegation that a session of the court was held at Herndon, away from the county seat, is without foundation in the record. No order or decree of the court was made at that place, nor was anything there done which constitutes a part of this record. The learned judge of the court below was called upon to discharge an important duty, there was certainly no impropriety in his going upon the ground and ascertaining for himself the conditions which existed in this territory, the expediency of the incorporation of which had been by law committed to his discretion, nor does it appear in the .secondary record, the testimony printed in connection with the record proper, that there was either error or abuse., of. discretion in what the judge did. It would have been proper for him in disposing of this ease to consider depositions, which after due notice had been taken by the parties at Herndon, or he might by consent of the parties have appointed.an examiner to take testimony at that place. The learned judge with the acquiescence of the parties, and for their convenience, himself went to Herndon and there heard the witnesses, whose testimony it is not questioned was accurately transcribed by the court stenographer. Any objection to this proceeding certainly comes with bad grace from these appellants, who without a word of objection, proceeded to there have taken the testimony of every witness that they desired to use in connection with their case. The court did not .require any of the parties to appear there, nor did it refuse to hear any witness produced in court at the county seat.
+The decree is affirmed, and the appeal dismissed at costs of the appellants.
