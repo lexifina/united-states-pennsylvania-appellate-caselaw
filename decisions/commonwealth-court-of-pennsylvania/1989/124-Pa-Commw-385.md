@@ -1,0 +1,39 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 1418 C.D. 1988"
+decided: "1989-03-23"
+citations: ["124 Pa. Commw. 385", "555 A.2d 1388"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to President Judge CRUMLISH, Jr. , Judge COLINS, and Senior Judge Blatt, sitting as a panel of three."]
+parties: ["Ronald G. Carrasquer, Petitioner v. Workmen’s Compensation Appeal Board (Mader’s Carpet Cleaners of Pittsburgh, Inc.), Respondents."]
+source_url: "https://static.case.law/pa-commw/124/cases/0385-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1385222
+cites_cases: ["106 Pa. Commonwealth Ct. 181", "120 Pa. Commonwealth Ct. 364", "32 Pa. Commonwealth Ct. 147", "377 A.2d 1304"]
+---
+
+# Carrasquer v. Workmen's Compensation Appeal Board
+
+## Majority (Judge Colins,)
+
+Opinion by
+Judge Colins,
+Ronald G. Carrasquer (petitioner) petitions for review of an order of the Workmen’s Compensation Appeal Board (Board) which affirmed a decision of the referee suspending benefits. We affirm.
+This matter was initiated when Mader’s Carpet Cleaners of Pittsburgh, Inc. (employer) filed a termination petition pursuant to Section 413 of The Pennsylvania Workmen’s Compensation Act (Act), Five hearings were held before a. referee and evidence was also introduced by way of deposition. On July 3, 1986, the referee issued his decision suspending benefits, therein finding that petitioner was capable of performing light-duty work and that employer had shown the availability of such work. On appeal, the Board affirmed the referee’s decision holding that employer had met its burden of proof in showing the availability of work in the Pittsburgh, Pennsylvania area. Petitioner filed a timely petition for review with this Court.
+The sole issue presented for review is whether the Board erred in determining that petitioner was domiciled in Pittsburgh, Pennsylvania for purposes of establishing job availability.1
+The Board, in its opinion, stated that:
+[tjestimony in the record indicates that the Claimant, from the date of his injury in September of 1983 has either lived or temporarily resided as a transient in eight separate locations of the country. The record establishes that the Claimant lived in Pittsburgh at least from September of 1983 to the end of December of 1984. During this time frame, however, there is an indication that the Claimant spent the month of June with friends in Florida before returning to the Pittsburgh area.
+... In December of 1984, the Claimant moved to Orlando, Florida where he stayed until February of 1985. ... The Claimant then moved in with a friend at 483 North Avenue in Hapeville, Georgia, where he resided two or three months. ... The Claimant moved into a new residence in Georgia in May of 1985 and at the time of the hearing on July 11, 1985, he was residing at yet another address in Georgia. Shortly after the hearing in July of'1985, the Claimant was arrested and ultimately incarcerated in a jail in Allegheny County for a period of four months. ... In November of 1985, the Claimant went back to Georgia and returned to Pittsburgh for Referee Roney’s hearing of February 10, 1986.
+The Board, therefore, concluded that petitioner’s principal place of residence had been Pittsburgh and that it was the correct place for the availability of work, to be shown.
+Petitioner contends that the Board has erroneously entered into fact finding, a task exclusively within the province of the referee. We disagree. Although the referee made no explicit finding that petitioner’s domicile for purposes of showing work availability was Pittsburgh, it is implicit in his finding that employer had shown available light duty work in that area. Our review of the record indicates that employer presented evidence that it notified petitioner of work available in Pittsburgh. No evidence was presented as to the availability of work elsewhere. Therefore, implicit in the referee’s conclusion that employer carried its burden of showing available work is the fact that he considered Pittsburgh to be the relevant area. The Board simply pointed to the evidence of record which supports that conclusion. The Board then went on to reasonably conclude that because of the transient nature of petitioner, the employer carried its burden by showing available work in Pittsburgh.
+We find no error in the Board’s decision. Under the particular facts of this matter, because petitioner has changed his residence numerous times during the course of the proceedings, we must conclude that to require that employer show work availability in each of these locations would be unduly burdensome. In addition, it would also be unfair to require employer to show work availability in the area that petitioner resided in Georgia at the time of the filing of the petition, since petitioner was residing at yet another address at the time of the July 11, 1985 referee’s hearing. Instead of requiring employer to play the guessing game of determining at which location to show work availability, the Board concluded that Pittsburgh was the relevant area. Considering the fact that petitioner lived in Pittsburgh from September 1983 through December 1984, and again, albeit in the Allegheny County Jail, for a four month period in 1985, we cannot disagree with the Board’s conclusion. See. generally Marinetti v. Workmen's Compensation Appeal Board (Jetnet Corp.), 106 Pa. Commonwealth Ct. 181, 525 A.2d 883 (1987) (employer not required to establish availability of work in Italy, where employee resided at time of petition, since this would unduly increase employer’s burden).
+Petitioner cites Yellow Freight System a Workmen's Compensation Appeal Board, 32 Pa. Commonwealth Ct. 147, 377 A.2d 1304 (1977) for the proposition that when a claimant changes his residence an employer seeking to suspend benefits must show availáble work in the area of the new residence. Although this is an accurate statement of opr holding in Yellow Freight, we feel that a departure from our analysis therein is warranted under the limited facts of the matter subjudice.
+In Yellow Freight the claimant had moved once, to a new permanent residence. We will not reiterate the pattern of moves petitioner has undertaken throughout the history of these proceedings. Suffice it to say that the situation in the instant matter is quite distinguishable from that in Yellow Freight
+The decision of the Board is affirmed.
+Order
+And Now, this 23rd day of March, 1989, the decision of the Workmen’s Compensation Appeal Board in the above-captioned matter is affirmed.
+Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §772.
+Our scope of review is limited to determining whether an error of law was committed, whether constitutional rights were violated, or whether findings of fact were unsupported by substantial evidence. Sullivan v. Workmen's Compensation Appeal Board (Philadelphia Electric Co.), 120 Pa. Commonwealth Ct. 364, 548 A.2d 404 (1988).
+It was emphasized in Yellow Freight that the claimant’s move evidenced neither “a lack of good faith in the move itself [nor] in subsequent attempts to find work within his capabilities.” Id. at 150, 377 A.2d at 1306. We observe that although the evidence in the instant matter does not indicate a lack of good faith in the moves, petitioner has made the choice to move repeatedly within a short period of time on his own. Petitioner testified that he has not sought employment, as he maintains that he remains totally disabled. The referee determined that the evidence indicates otherwise and that available work has been shown. We do not feel'.that the burden of establishing work availability in several places or of guessing at which location it should be shown, should be borne solely by employer, when petitioner has chosen to maintain a transient lifestyle.
