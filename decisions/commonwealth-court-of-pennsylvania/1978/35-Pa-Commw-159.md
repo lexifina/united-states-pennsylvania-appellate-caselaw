@@ -1,0 +1,36 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 177 C.D. 1977"
+decided: "1978-05-02"
+citations: ["35 Pa. Commw. 159"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Wilkinson, Jr., Mencer and Blatt, sitting as a panel of three."]
+parties: ["Mary L. Lynch, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review and Suburban General Hospital, Respondents."]
+source_url: "https://static.case.law/pa-commw/35/cases/0159-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1885868
+cites_cases: ["162 Pa. Superior Ct. 14", "18 Pa. Commonwealth Ct. 286", "188 A.2d 858", "200 Pa. Superior Ct. 328", "24 Pa. Commonwealth Ct. 309", "31 Pa. Commonwealth Ct. 519", "335 A.2d 843", "336 A.2d 595", "355 A.2d 616", "377 A.2d 828", "461 Pa. 392", "56 A.2d 400"]
+---
+
+# Lynch v. Commonwealth
+
+## Majority (Judge Menceb,)
+
+Opinion by
+Judge Menceb,
+Mary L. Lynch (claimant) has taken this appeal from an order of the Unemployment Compensation Board of Review (Board) disallowing a further appeal from a referee’s denial of benefits. The referee’s decision was based on her failure, without good cause, to accept suitable work under Section 102(a) of the Unemployment Compensation Law (Act), Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 13 P.S. §802(a). We affirm.
+Prior to. April 1, 1976, claimant had worked for 1 years and 9 months for Suburban General Hospital as a registered nurse. On that date, the nursery for newborn infants in which claimant had worked was closed, and she was laid off. During her 31 years as a professional nurse, she had always worked on the nursery staff, although she had worked as a medical/ surgical nurse as a student. By letter dated June 1, 1976, Suburban General offered her a position as a registered nurse and requested her to contact the director of nursing. The hours and rate of pay were apparently the same as in her former position. Claimant never responded to this letter.
+When the Bureau of Employment Security denied her claim for benefits, claimant appealed, and a hearing was held before a referee. Ruth M. Kelley, Director of Nursing, testified that she talked with claimant at the beginning of April and informed her that Suburban General would retrain her for medical/surgical nursing. Nurse Kelley indicated that claimant had the background for such work and that she was capable of handling it. According to Nurse Kelley, claimant’s response was that she did not want to go into medieal/surgical nursing and that she thought she would take a couple of months off and try to find a job elsewhere in nursery work. Claimant testified at the hearing that she did not respond to the offer in June because she knew that it could not involve the care of newborn babies and because she did not feel capable of attending to patients on a medical/'surgical floor, considering the new medicines and treatments in current use.
+When the referee denied benefits and the Board disallowed a further appeal, claimant brought this appeal.
+Our examination of claimant’s eligibility under Section 402(a) must include the separate considerations of (1) whether the offered work was suitable and (2) whether her failure to accept such work was without good cause. See Lattanzio v. Unemployment Compensation Board of Review, 461 Pa. 392, 336 A.2d 595 (1975); Unemployment Compensation Board of Review v. Lowell, 24 Pa. Commonwealth Ct. 309, 355 A.2d 616 (1976).
+“Suitable work” is defined as all work which the employe is capable of performing. In determining whether or not any work is suitable for an individual, the department shall consider the degree of risk involved to his health, safety and morals, his physical fitness, prior training and experience, and the distance of the available work from his residence. The department shall also consider among other factors the length of time he has been unemployed and the reasons therefor, the prospect of obtaining local work in his customary occupation, his previous earnings, the prevailing condition of the labor market generally and particularly in his usual trade or occupation, prevailing wage rates in his usual trade or occupation, and the permanency of his residence.
+Section 4(t) of the Act, 43 P.S. §753(t).
+As we said in Unemployment Compensation Board of Review v. Kozinsky, 18 Pa. Commonwealth Ct. 286, 290, 335 A.2d 843, 845 (1975), “[a] claimant cannot decide for himself whether a position is ‘suitable’ simply because the position offered is not to his liking.” Although claimant’s prior experience here was in newborn nursing, we must also consider that the offered work was as a registered nurse at the same rate of pay and involved the same hours, that claimant had been unemployed for two months, and that Nurse Kelley was of the opinion that claimant was capable of performing the work. Considering these factors, we conclude that the determination below that the work offered was suitable was proper.
+On the question of whether claimant’s failure to accept the position was without good cause, we must be mindful that “ ‘[t]he reasons for refusal of offered work must be substantial and reasonable, not arbitrary, whimsical, capricious or immaterial.’ ” Lattanzio, supra, 461 Pa. at 398, 336 A.2d at 598. “Cood cause” in this respect has been treated as synonymous with “good faith.” Id. at 397, 336 A.2d at 598. In Bicer v. Unemployment Compensation Board of Review, 31 Pa. Commonwealth Ct. 519, 377 A.2d 828 (1977), we specifically addressed the question of a claimant’s good faith in not accepting an offer of employment similar to his prior job. We stated there:
+‘Lack of good faith in refusing a job offer does not necessarily mean fraud, but includes conduct which is inconsistent with a genuine desire to work and to be self-supporting. . . . [W]hen the job offered is reasonably similar to the claimant’s former job, with which she presumably had no difficulty, a refusal of the job offer without a trial because it is “not in the line of [her] work” may properly be taken by the board to indicate lack of good faith as that phrase is used in this connection.’
+Id. at 522-23, 377 A.2d at 829-30, quoting Kline Unemployment Compensation Case, 200 Pa. Superior Ct. 328, 329-30, 188 A.2d 858, 859 (1963).
+Here, claimant not only was not willing to give the offer from Suburban General a trial, she did not even respond to their letter of June 4, 1976 to learn the details of the position. See Hassey Unemployment Compensation Case, 162 Pa. Superior Ct. 14, 56 A.2d 400 (1948) (claimant had obligation to investigate the nature, details and working conditions of the work offered). Such conduct, coupled with claimant’s statement to Nurse Kelley that she thought she would take a couple of months off, is not consistent with a genuine desire to work. Since we believe the offered work as a medical/surgical nurse was reasonably similar to her former job, claimant’s conduct was lacking in good cause.
+Order
+And Now, this 2nd day of May, 1978, the order of the Unemployment Compensation Board of Review, dated January 14, 1977, disallowing further appeal to Mary L. Lynch, is hereby affirmed.
