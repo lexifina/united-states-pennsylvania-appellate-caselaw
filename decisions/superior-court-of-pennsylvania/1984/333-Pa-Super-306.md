@@ -1,0 +1,45 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "3244"
+decided: "1984-09-21"
+citations: ["333 Pa. Super. 306", "482 A.2d 580"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WIEAND, JOHNSON and LIPEZ, JJ."]
+parties: ["FIDELITY CONSUMER DISCOUNT COMPANY, Appellant, v. Juanita R. CLARK, Trustee for Anne Clark, Real Owner and Juanita Clark, Trustee and Juanita Clark, Individually, a/k/a Juanita Wheeler, and Rob R. Wheeler, Mortgagor, and United States of America."]
+source_url: "https://static.case.law/pa-super/333/cases/0306-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 616477
+cites_cases: ["318 Pa.Super. 90", "464 A.2d 1266", "482 F.2d 381", "503 Pa. 74"]
+---
+
+# Fidelity Consumer Discount Co. v. Clark
+
+## Majority (JOHNSON, Judge:)
+
+JOHNSON, Judge:
+On February 6, 1978 Appellees Juanita Clark and Rob Wheeler executed a mortgage on their property at 7422 Georgian Road, Philadelphia, Pa. and a security agreement in favor of Appellant, Fidelity Discount Company, obligating these Appellees to pay Appellant $6,552 in thirty-six monthly installments of $182.00 each. Under the terms of the security agreement, Appellant obtained a security interest in Appellee Wheeler’s 1975 Ford LTD and his 1973 Plymouth Wagon.
+Beginning in May 1980 Appellees Clark and Wheeler stopped making payments to Appellant. In October 1980 Appellant took possession of Appellee Wheeler’s 1975 Ford LTD and notified him by letter dated October 30, 1980 that the vehicle could be redeemed by paying the entire balance on the loan on or before November 12, 1980. That letter went on to indicate “[f]ailure to do so will result in your automobile being sold at public or private sale.” (R. at 27) Appellant received no response from Appellee Wheeler and the 1975 Ford LTD was sold on November 28, 1980 for $100.00.
+In December 1980 Appellant took possession of Appellee Wheeler’s 1973 Plymouth wagon and notified him by letter dated December 11, 1980 that the car could be redeemed on or before December 23, 1980. The body of the December 11th letter was identical to the earlier October 30th letter sent to Appellee Wheeler except for the identification of the automobile to be sold and the last date for redemption. (R. at 27a) Again Appellant received no response from its December 11, 1980 letter. The 1973 Plymouth Wagon was sold for $50.00 on January 14, 1981.
+On February 20, 1981 Appellant filed Complaint in Mortgage Foreclosure against Appellees Clark and Wheeler seeking to foreclose on the mortgaged premises located at 7422 Georgian Road, Philadelphia, Pa.. The United States of America was also named as defendant because the Federal government had recorded a lien of $904.98 against the premises. Appellees Clark and Wheeler filed an Answer and Counterclaim in which they denied that their mortgage was in default and alleged that the cars represented payment in full which satisfied the mortgage.
+The trial court in its order of March 10, 1982 ruled in favor of Appellees Clark and Wheeler and against Appellant on the mortgage foreclosure action and entered a verdict against Appellant in the amount of $225.39 on the Counterclaim pursuant to 13 Pa.C.S. § 9507(a).
+The trial court in its opinion found the sales of the two vehicles to have been public under the Uniform Commercial Code. The court went on to hold that Appellant failed to comply with the Code’s notice requirements for public sales which are set forth in 13 Pa.C.S. § 9504(c) and state in relevant part:
+Unless collateral is perishable or threatens to decline speedily in value or is of a type customarily sold on a recognized market, reasonable notification of the time and place of any public sale or reasonable notification of the time after which any private sale or other intended disposition is to be made shall be sent by the secured party to the debtor. . . .
+On appeal Appellant argues that the two vehicles were sold at private sales rather than at public sales and further that Appellant complied with the notice provision for private sales. We agree.
+The major issue before this court is whether the sales by Appellant of the two vehicles were “public” or “private” under 13 Pa.C.S. § 9504(c). We believe that the trial court erroneously concluded that the vehicles were sold at public sales.
+The Uniform Commercial Code does not define the term “public sale,” but Section 48, comment c of the Restatement of Security defines “public sale” as “one to which the public is invited by advertisement to appear and bid at auction for the goods to be sold.” This section was cited with approval in In re Bishop, 482 F.2d 381 (4th Cir.1973).
+Bishop, like the instant case, involved an interpretation of the identical statutory language of Section 9-504(3) of the Uniform Commercial Code. In Bishop, the lending institution argued that the sale of a boat without advertisement was a private sale under circumstances where the collection manager for the lending institution mentioned the sale to anyone he thought would be interested. The Fourth Circuit concluded that no public sale of the boat occurred and cited the following language from Professor Gilmore’s discussion of § 9-504(3) of the Uniform Commercial Code in his work on Security Interests in Personal Property:
+Gilmore, in his commentary on § 9-504(3) of the code, says:
+“Presumably the essence of a ‘public sale’ is that the relevant public is not only invited to attend but is also informed, by whatever means of publicity may be appropriate, when and where the sale is to be held. If the sale has not been appropriately publicized, it would not be a public sale no matter where it was held or how it was conducted.” 2 G. Gilmore, Security Interests in Personal Property 1242 (1965).
+Id. at 385.
+The trial court apparently concluded that the vehicles were sold at public sale based on the testimony of Appellant’s collection manager, Richard A. Beese. His testimony that the sales were “[f]or anybody that wanted to look at it” does not convert a private sale that was never publicly advertised into a public sale under the Uniform Commercial Code.
+The clear language of § 9504(c) gives the creditor the option of selling the repossessed collateral at either public or private sale. If the private sale route is chosen, the creditor is only required to give “reasonable notification of the time after which any private sale or other intended disposition is to be made.” 13 Pa.C.S. § 9504(c). With respect to both vehicles, Appellant provided reasonable notice as to the time after which a private sale was to be made.
+We are cognizant of this court’s recent opinion in Delahanty v. First Pennsylvania Bank, N.A., 318 Pa.Super. 90, 464 A.2d 1243 (1983). In that case this court ruled against a lending institution which sold repossessed collateral without giving any notice at all to the debtor. The dictum indicating that the debtor should be appraised “of the time and place of any public or private sale of the repossessed collateral,” is not controlling. Id., 318 Pa.Superior Ct. at 62, 464 A.2d 1266, 1267.
+Having determined that the two vehicles were sold at private sale and that reasonable notice of the sales was given to Appellees Wheeler and Clark, we now address the issue of whether the sales of the vehicles were commercially reasonable. Our supreme court in Savoy v. Beneficial Consumer Discount Co., 503 Pa. 74, 468 A.2d 465 (1983) recently discussed what the creditor must establish when the commercial reasonableness of the sale is challenged. Justice Flaherty speaking for the court stated:
+When a private sale of repossessed collateral has been made, and the debtor raises the question of the commercial reasonableness of that sale, the great weight of authority holds that the burden of proof on this issue is shifted to the secured party seeking a deficiency judgment to show that, under the totality of circumstances, the disposition of collateral was commercially reasonable.
+Id., 503 Pa. at 77, 468 A.2d at 467.
+From the record before this court we cannot determine whether Appellant met its burden of proof. The hearing before the trial court took place on November 24 and 25, 1981, but the notes of testimony of November 25, 1981 are not part of the record. Testimony on November 25, 1981 may be important to the question of the commercial reasonableness of the sale since Appellant’s counsel informed them at the conclusion of testimony on November 24, 1981, that he would present a witness the following morning who would testify concerning the condition and contents of the vehicles at time of repossession.
+We, therefore, vacate the Order of March 10, 1982 and remand for a determination of the commercial reasonableness of the sales and other proceedings not inconsistent with this opinion. Jurisdiction is not retained.
+. Also Section 9-504(3) of the Uniform Commercial Code.
+. Va.Code Ann. § 8.9-504(3).
