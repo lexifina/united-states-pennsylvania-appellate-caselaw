@@ -1,0 +1,28 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+decided: "1971-05-05"
+citations: ["2 Pa. Commw. 132"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman, and Judges Crumlisii, Jr., Kramer, Wilkinson, Jr., Manderino, Mencer and Rogers."]
+parties: ["B. R. Donolow Enterprises, Inc. v. Walter B. Lang, C. Robert Budd, William B. Blake, The Board of Assessment and Revision of Taxes of the County of Dauphin."]
+source_url: "https://static.case.law/pa-commw/2/cases/0132-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1845089
+cites_cases: ["124 Atl. 694", "147 Pa. Superior Ct. 236", "180 A. 2d 900", "209 A. 2d 389", "209 A. 2d 397", "24 A. 2d 470", "280 Pa. 441", "407 Pa. 567", "417 Pa. 213", "417 Pa. 234"]
+---
+
+# B. R. Donolow Enterprises, Inc. v. Lang
+
+## Majority (Judge Wilkinson,)
+
+Opinion by
+Judge Wilkinson,
+This is an appeal from a real estate assessment for the year 1969 of a two-story garden type apartment property located in Harrisburg, Pennsylvania. The property was originally assessed by the Dauphin County assessor, which assessment was reduced slightly by the Board of Assessment and Revision of Taxes. An appeal was taken to the Dauphin County Court where a hearing de novo was held. The court conducted a full hearing and made findings of fact and conclusions of law. The court found that appellant failed to overcome the prima facie correctness of the assessment as fixed by the Board of Assessment and Revision of Taxes. We must remand the case to the Dauphin County Court of Common Pleas.
+... The taxing authorities established a prima facie case for the validity of the assessment by offering the tax assessment records. McKnight Shopping Center, Inc. v. Board of Property Assessment, 417 Pa. 234, 209 A. 2d 389 (1965). The appellant then offered two witnesses who testified that the fair market value was substantially less than that fixed by the county assessor or the Board of Assessment and Revision of Taxes. The taxing authorities then offered evidence to support the assessment. See Deitch Co. v. Board of Property Assessment, 417 Pa. 213, 209 A. 2d 397 (1965).
+Prior to Deitch, there was some confusion in the cases as to what effect appellant’s testimony would have on the taxing authorities’ prima facie case. In his dissenting opinion in Deitch, Chief Justice Bell quite clearly sets forth his view as that of the learned court below, i.e., only if the court accepts the appellant’s testimony is the prima facie case overcome. That view was not accepted by the majority in Deitch and, accordingly, the lower court’s decision must be set aside. Justice Roberts, speaking for the majority of the court, quite clearly sets forth the current law to be: “The proceedings in the' trial court are de novo [footnote omitted] and the proper order of proof in cases such as the present one has long been established. The procedure requires that the taxing authority first present its assessment record into evidence. Such presentation makes out a prima facie case for the validity of the assessment in the sense that it fixes the time when the burden of coming forward with evidence shifts to the taxpayer. If the taxpayer fails to respond with credible, relevant evidence, then the taxing body prevails. But once the taxpayer produces sufficient proof to overcome its initially allotted status, the prima facie significance of the Board’s assessment figure has served its procedural purpose, and its value as an evidentiary device is ended. Thereafter, such record, of itself, loses the weight previously accorded to it and may not then influence the court’s determination of the assessment’s correctness. [Footnote omitted.] See Kemble’s Estate, 280 Pa. 441, 447, 124 Atl. 694, 696 (1924) ; Ritter’s Appeal, 147 Pa. Superior Ct. 236, 24 A. 2d 470 (1942).
+“Of course, the taxpayer still carries the burden of persuading the court of the merits of his appeal, but that burden is not increased by the presence of the assessment record in evidence.” Deitch Co. v. Board of Property Assessment, 417 Pa. 213, 221, 209 A. 2d 397, 402 (1965). Thus, the lower court’s third conclusion of law that the appellant had not overcome the prima facie case is clearly in error.
+Since the lower court must reconsider this case and may desire additional testimony, we would call attention to Finding of Fact 11, wherein the lower court found: “11. The chief assessor of the County of Dauphin adopted as the actual value of the premises the value calculated by the aforementioned Thomas R. Donahue as the fair market value of the land and buildings of the appellant.”
+Mr. Donahue, in his testimony in chief on behalf of the taxing authorities (Record 74a), stated: “The highest and best use of this property would be a commercial venture.” If this is what he meant, and if it was on this basis that, as an expert witness, he arrived at his conclusion, accepted by the assessor, he must surely explain it in view of the fact that almost all of the property here being assessed is not in a commercial zone but rather is in a zone classified R-4. In addition, this witness used as comparable sales, sales of property in areas zoned commercial. To base an opinion of the market value of a property on a use prohibited by the existing zoning may of itself be sufficient to overcome the taxing authorities’ prima facie case. See Buhl Foundation v. Board of Property Assessment, 407 Pa. 567, 180 A. 2d 900 (1962).
+The order of the court belcw is vacated and the case is remanded for further proceedings consistent Avith this opinion.
