@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 28"
+decided: "1951-07-19"
+citations: ["169 Pa. Super. 396"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, Ross, Arnold and Gunther, JJ."]
+parties: ["Williams Unemployment Compensation Case. Sun Shipbuilding & Dry Dock Co., Appellant, v. Unemployment Compensation Board of Review."]
+source_url: "https://static.case.law/pa-super/169/cases/0396-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 473035
+cites_cases: ["144 F. 2d 415", "45 U.S.C.A. §351"]
+---
+
+# Sun Shipbuilding & Dry Dock Co. v. Unemployment Compensation Board of Review
+
+## Majority (Hirt, J.,)
+
+Opinion by
+Hirt, J.,
+In this proceeding there were no disputed facts. Sun Shipbuilding and Dry Dock Company was claimant’s base year employer; he last worked for the company on March 22, 1949. Claimant then absented himself from his work, without notice to that employer and without valid reason, for a period of over fifteen days, in violation of the rules of the company. On that ground he was properly discharged from his employment with the Sun Company for willful misconduct and accordingly became ineligible for benefits under §402 (e) of our Unemployment Compensation Law, the Act of December 5,1936, Second Ex. Sess., P.L. (1937) 2897 as amended, 43 PS §802. After his separation from the Sun Company claimant became employed by Pennsylvania Railroad Company for a period of about five months and until September 21, 1949, when he was laid off for lack of work. He thereupon registered for work and filed claims for benefits in this proceeding. The claims were allowed by the Unemployment Compensation Board of Review, in affirming the Referee, on its conclusion that the claimant had met all of the requirements as to eligibility under our Unemployment Compensation Law.
+If it be conceded that claimant was a “qualified employee” eligible for benefits under the Railroad Unemployment Insurance Act (45 U.S.C.A. §351, et seq.) he is barred by the provisions of §363(a) of that Act from asserting any rights to benefits under the Pennsylvania Unemployment Compensation Law. A state statute must yield in case of direct conflict with the exercise by the Government of the United States of any power, such as this, which it possesses under the Constitution. United States v. City of Chester, 144 F. 2d 415, and authorities cited therein, page 420. Section 363(a) provides: “By enactment of this chapter the Congress makes exclusive provision for the payment of unemployment benefits for unemployment occurring after June 30, 1939, based upon employment (as defined in this chapter). No employee shall have or assert any right to unemployment benefits under an unemployment compensation law of any State with respect to unemployment occurring after June 30, 1939, based upon employment (as defined in this chapter). The Congress finds and declares that by virtue of the enactment of this chapter, the application of State unemployment compensation laws after June 30, 1939, to such employment, except pursuant to section 362(g) of this title, would constitute an undue burden upon, and an undue interference with the effective regulation of, interstate commerce . . .” (Emphasis added).
+There is an exception to the exclusive application of the Railroad Unemployment Insurance Act in §362 (g). That section provides for reimbursement, on an equitable basis between the United States and a State, of benefits paid, when the employment is covered both by the Railroad Unemployment Insurance Act and the compensation law of a' state. The exception, however, can have no application here for claimant’s employment with the railroad was not covered in any respect by our Unemployment Compensation Law. On the contrary, his service with the Railroad was specifically and wholly excluded from the operation of our Act by Article 1, §4(8), as amended, 43 PS §753, which provides: “The word ‘employment’ shall not include— .. Service performed after June thirtieth, one thousand nine hundred and thirty-nine, either as an employe, -representative, or service performed in the employ of an employer when such, employe, representative, or- employer is determined to be subject to the Act of Congress'known as the Railroad Unemployment Insurance'Act. (52 Ú.S.'.Stat, 1094) .'.” /
+The asserted right to benefits in this proceeding is based upon claimant’s separation from his service with the Pennsylvania Railroad, an employer subject to the above Act of Congress. Except for such employment he unquestionably was ineligible for benefits under our Act because of his willful misconduct which provoked his discharge by his base year employer, the appellant here. And his subsequent full time service, with the Railroad in an employment specifically excluded from our Act, although severed without fault on his part, could not erase his prior ineligibility for benefits under §402(e). A claimant, thus rendered ineligible, cannot reestablish eligibility to compensation by service in any employment which is specifically excluded by the Act. That is the holding of our decision in Sun Shipbuilding and Dry Dock Company, claim of Griffin v. Unemployment Compensation Board of Review, filed this day. That case, for the reasons there stated, rules the disposition of this appeal.
+Order reversed.
