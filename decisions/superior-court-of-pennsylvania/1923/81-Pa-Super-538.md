@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+decided: "1923-07-12"
+citations: ["81 Pa. Super. 538"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, Henderson, Trexler, Keller, Linn and Gawthrop, JJ."]
+parties: ["Lubanski et al. v. Delaware, Lackawanna & Western Railroad Company, Appellant."]
+source_url: "https://static.case.law/pa-super/81/cases/0538-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 655560
+cites_cases: ["000 U. S. 000", "266 Pa. 84", "272 Pa. 125", "277 Pa. 88", "77 Pa. Superior Ct. 122", "79 Pa. Superior Ct. 303"]
+---
+
+# Lubanski v. Delaware, Lackawanna & Western Railroad
+
+## Majority (Linn, J.,)
+
+Opinion by
+Linn, J.,
+As the only question is whether appellant has been ordered to pay too much to a deceased employee’s dependents, it may be desirable to state the circumstances somewhat fully.
+Following the employee’s death, leaving a widow and two children under sixteen, resident aliens, a compensation agreement' was made and approved, providing for payment to- the widow for three hundred weeks (to January 25, 1924) at ten dollars a week until November 24, 1922, (when a child became sixteen) and at nine dollars a week for the rest of the three hundred weeks; and thereafter at' three dollars a week until 1930 when the other child reached sixteen.
+Payments were made on the agreement until November 26, 1920. In September, 1920, the widow filed a petition stating she wished “to return to Poland,” asking that' the board “commute the future installments of compensation......as provided in section 316......and to order the (employer) to forthwith pay the present value of such installments in one lump sum payment.” The employer filed an answer opposing commutation. The board heard the case, and, in part, granted the petition, a guardian appearing for the children.
+This action took place November 17, 1920, after 135 weeks of the 300 week period had elapsed. We understand that a total of $660, composed of $4 a week out of the weekly installments payable during the remaining 165 weeks, was commuted by the payment of $611.19, pursuant to section 316, (1915, P. L. 736, 748). That payment reduced the weekly liability from $10 to $6 until November 24, 1922, and from $9 to $5 for the rest of the period. Appellant paid $6 a week until February 8, 1921, at which date, the record states, the dependents became nonresident aliens.
+Then a dispute arose as to how much appellant should continue to pay. To settle it, the parties joined in a petition to the board, stating facts agreed upon, and desiring the board to determine the weekly rate payable after February 8, 1921, each reserving a right of appeal. The board decided the change from resident to nonresident aliens reduced the compensation “to two-thirds of the amount provided in each case for residents,” as provided in section 310 (1915 P. L. 736, 746), and that instead of continuing to pay $6 weekly, only two-thirds thereof should be paid (with like reduction of the other sums payable under the agreement). Appellant challenges that application of section 310, and asserts it need only pay two-thirds of the weekly installments specified in the agreement, i. e. now two-thirds of $10 or $6.67, and, as it has already paid $4 a week in commutation of that weekly liability for the remainder of the period, it may deduct that sum from the $6.67, and make its present weekly liability only $2.67.
+We all agree that position cannot be sustained. The statute is authorized by the police power and, therefore, must be liberally interpreted. “These acts were sustained, in their entirety, without any separate reference to the status of dependents......upon the broad ground that the state, by reason of its public interest in the safety and lives of employees, engaged in such occupations, may provide, in the just and reasonable exercise of its police power, that the loss of earning power sustained by an employee through an industrial accident resulting in his disability or death, constituting a loss arising out of the business and an expense of its operation, shall, in effect, be charged against the industry after the manner of casualty insurance, and to that end require the employer to make such compensation as may reasonably be prescribed for the loss thus incurred in the common enterprise, irrespective of the question of negligence, to the injured employee or to his surviving dependents; (citing precedents); and it is clear that the underlying reason of these decisions applies alike to all dependents who, by his death, have been deprived of their support, whether they be residents or nonresidents of the state”: Madera Sugar Pine Co. v. Industrial Accident Com. of California, et al., 000 U. S. 000 (decided June 4, 1923).
+We find nothing in the statute requiring a dependent to repay the compensation lawfully received, yet partial repayment is what appellant desires. It is not contended that the amounts paid up to February 8, 1921, were not payable, or that payment resulted from mistake, or was induced by fraud, coercion or other improper conduct (section 413, 1919, P. L. 661). Assuming, though not deciding, that appellees’ change of residence is a change of status within section 413, it is clear the change took place February 8, 1921, and that at the time it took place, the dependents as residents were entitled to $6 a week until November 24, 1922, and thereafter $5 a week until January 25, 1924.
+Appellant’s argument overlooks the effect of commutation ; it is present payment at a reduced rate of sums successively payable. When paid, according to this record, so much of the transaction was ended and the obligation satisfied: Hall v. Steel Co., 79 Pa. Superior Ct. 303, 306; Garrity v. Bituco Mfg. Co., 277 Pa. 88. The board had power t'o sanction commutation; (section 316, 1915, P. L. 748), payment of $6 a week ($5 after November 24, 1922) was not commuted and remained payable.
+Finding no support in the statute for the suggestion that appellant may get back a part of the money paid at a time when it is conceded to have been properly paid and received, we must overrule the assignment of error.
+Judgment affirmed.
