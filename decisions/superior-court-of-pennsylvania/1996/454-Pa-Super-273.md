@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "00591"
+decided: "1996-11-12"
+citations: ["454 Pa. Super. 273", "685 A.2d 183"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DEL SOLE, BECK and POPOVICH, JJ."]
+parties: ["Robert A. KORN, and Jerome N. Kline and Alan R. Kutner, Appellants, v. DESIMONE REPORTING GROUP, INC. t/a Schulman/Desimone-The Court Reporters, Ellyn M. Epstein."]
+source_url: "https://static.case.law/pa-super/454/cases/0273-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 772867
+cites_cases: ["152 A.2d 731", "396 Pa. 592", "429 Pa.Super. 440", "453 Pa.Super. 231", "507 Pa. 194", "683 A.2d 889"]
+---
+
+# Korn v. Desimone Reporting Group, Inc.
+
+## Majority (BECK, Judge.)
+
+BECK, Judge.
+We decide that pursuant to Pennsylvania Rule of Appellate Procedure 341(c) the Superior Court lacks jurisdiction to entertain an interlocutory appeal where the trial court failed to certify its order as final within 30 days of the order’s entry. We quash the appeal.
+Appellants Robert A. Korn, Jerome N. Kline and Alan R. Kutner filed this lawsuit against DeSimone Reporting Group and Ellyn M. Epstein alleging wrongful use of civil proceedings. On September 5, 1995, the trial court granted defendant-appellee DeSimone’s motion for summary judgment. Because the action against defendant Epstein remained viable, the summary judgment order was interlocutory. Pa.R.App.P. 341(a) (a final order is one that disposes of all claims or of all parties); Note to Pa.R.App.P. 341 (order dismissing an action as to less than all defendants is not final and appealable). See also Robert H. McKinney, Jr., Associates v. Albright, 429 Pa.Super. 440, 632 A.2d 937 (1993).
+In accordance with Pa.R.App.P. 341(c), appellants filed an application with the trial court asking that the summary judgment order be certified as final. Subsection (c) provides:
+(c) When more than one claim for relief is presented in an action, whether as a claim, counterclaim, cross-claim, or third-party claim or when multiple parties are involved, the trial court or other governmental unit may enter a final order as to one or more but fewer than all of the claims or parties only upon an express determination that an immediate appeal would facilitate resolution of the entire case. Such an order becomes appealable when entered. In the absence of such a determination and entry of a final order, any order or other form of decision that adjudicates fewer than all the claims or parties shall not constitute a final order.
+(1) An order may be amended to include the determination of finality within 30 days of entry of the order. A notice of appeal or petition for review may be filed within 30 days after entry of an order as amended, unless a shorter time period is provided in Rules 903(c) or 1512(b).
+(2) The trial court or other governmental unit is required to act on an application for a determination of finality under subdivision (c) within 30 days of entry of the order. During the time an application for determination of finality is pending, the action will be stayed. Any denial of such an application shall be reviewable only for abuse of discretion pursuant to Chapter 15.
+Pa.R.App.P. 341(c), 42 Pa.C.S.
+The trial court did not act within 30 days of the entry of the summary judgment order. Four months after the entry of its original order, on January 19, 1996, the trial court amended the original order “to include an express determination that an immediate appeal would facilitate resolution of the entire case.” Appellants then filed their appeal directly to this court.
+We quash the appeal. Rule 341(c) requires the trial court to act within 30 days of the entry of the order. Pa.R.App.P. 341(c)(1) and (c)(2); Liberty State Bank v. Northeastern Bank, 453 Pa.Super. 231, 683 A.2d 889 (1996). If the trial court does not act timely, the application is deemed denied.
+Despite the trial court’s failure to act timely, appellants urge us to accept jurisdiction over the appeal. They argue that they had no control over the trial court’s failure to act. In essence, appellant is asking us to overlook the untimeliness and create jurisdiction. This court’s jurisdiction is established by statute and in the absence of proper authority, we are barred from accepting jurisdiction. Municipal Publications, Inc. v. Court of Common Pleas, 507 Pa. 194, 489 A.2d 1286 (1985) (quoting from Bell Appeal, 396 Pa. 592, 152 A.2d 731 (1959)).
+Appeal quashed.
+. The September 5, 1995 summary judgment was granted by order of then-Judge Russell Nigro. At argument before this court, appellants’ counsel claimed that the application for certification of finality pursuant to Rule 341(c) “fell through the cracks’’ at Judge Nigro’s chambers during his transition to the Supreme Court of Pennsylvania. When the delay was brought to the court’s attention, the request for certification was decided in appellants’ favor by Judge Sandra Mazer Moss in her order dated January 19, 1996. Judge Mazer Moss’s order was entered on the docket on January 30, 1996.
+. We note that appellants have not lost their right to appeal the grant of summary judgment at a later time. We simply hold that an appeal at this time is premature. The matter will be ripe for appeal upon the lower court's disposition of the claim against defendant Epstein, i.e., upon the entry of a final order. Robert H. McKinney v. Albright, 429 Pa.Super. at 443-44, 632 A.2d at 939.
