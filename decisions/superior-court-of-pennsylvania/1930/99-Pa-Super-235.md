@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 113"
+decided: "1930-07-10"
+citations: ["99 Pa. Super. 235"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Linn, Gawthrop, Cunningham and Baldrige, JJ."]
+parties: ["Kunish v. Porter, Appellant."]
+source_url: "https://static.case.law/pa-super/99/cases/0235-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 688827
+cites_cases: ["282 Pa. 318", "291 Pa. 437"]
+---
+
+# Kunish v. Porter
+
+## Majority (Gawthkop, J.,)
+
+Opinion by
+Gawthkop, J.,
+Appellant complains only of the refusal of judgment n. o. v. Considering the evidence most favorably supporting plaintiff’s verdict, as we are required to do in passing on the question before us, the following may be stated as the facts: Shortly after 10 P. M. on a clear night in September, defendant was driving a Dodge coupe automobile eastwardly over an iron bridge across the Youghiogheny River into the Borough of Dawson, which is bounded on the west by the river. About fifty feet east of the eastern end of the bridge the highway, a borough street called Bridge Street, intersects at substantially a right angle a street called the River Road, which runs north and south along the bank of the river. Bridge Street is about eighteen feet wide between the curbs at a point immediately east of the intersection. The River Road is somewhat narrower. Plaintiff was walking south on the River Road and intended to cross Bridge Street. He testified that when he got to the northeast corner of Bridge Street and River Road he looked to the east and to the west, did not see or hear any automobile approaching and started to walk across Bridge Street, and that when he was more than halfway across he was struck by defendant’s- car, and that there were no “headlights burning” on the car at the time. On cross-examination he testified that when he was struck he did not know from what point the car came, because he did not hear it or see it until he was struck. It is undisputed that defendant had a clear view of the point at which plaintiff was struck for at least seventy-five feet. Although' the testimony of defendant and hi's witnesses that plaintiff suddenly ran out from behind another automobile and against the side of defendant’s car would excuse defendant of negligence and fix the blame on plaintiff, if the jury believed it, the question whether defendant was negligent was for the jury. It has been held over and over again that at street crossings all motor drivers must be highly vigilant and maintain such control that, on the shortest possible notice, they can stop their cars so as to prevent danger to pedestrians who have the right to cross the streets át crossings and rely on the drivers of automobiles not to run them down. See Johnson v. French, 291 Pa. 437. If an accident cannot be avoided without stopping, the driver must stop his car. It must come to the crossing under control. “If there is any superior right to use the highway under circumstances such as described in this case, it is with the pedestrian who is in the cartway. It is quite clear the traffic should not run him down when he is in full view. And when it does, even at a moderate or slow rate of speed, the driver lacks the control of his car necessary under the circumstances and is chargeable with negligence”: Gilles v. Leas, 282 Pa. 318, 321.
+Appellant vigorously urges that plaintiff was contributorily negligent on his own showing, because the only rational conclusion to be drawn from his testimony is that if he looked for approaching traffic, when and where he says he did, he must have seen defendant’s car, because he testified that, from the point where he stopped to look he could see “pretty nearly through the bridge but not quite,” which admittedly is a distance of several hundred feet. The contention is that he either failed to look or that if he did look he must have seen the car and undertaken to cross immediately in front of it, and that in either circumstance he was eontributorily negligent. We cannot adopt that view. The photographs in the record plainly indicate that when plaintiff was standing on the curb, where he says he looked for approaching cars, his view through the bridge would be obstructed by the iron frame work of the superstructure of the bridge so that his unobstructed view in the direction from which the automobile was approaching was limited to the distance to the nearest end of the bridge, which was about seventy-five feet. In view of this condition and the fact that it was night time and the fact, as testified by plaintiff, that the lights were not burning on the car, it is not impossible that the car was immediately west of the eastern end of the bridge when plaintiff looked and that he could not see it. With thaf fact found in his favor he had the right to cross the street when and where he did and in so doing he would not be guilty of contributory negligence, as matter of law.
+The judgment is affirmed.
