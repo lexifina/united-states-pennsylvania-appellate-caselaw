@@ -1,0 +1,40 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 1681"
+decided: "1975-06-24"
+citations: ["234 Pa. Super. 525"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Watkins, P. J., Jacobs, Hoffman, Cercone, Price, Van der Voort, and Spaeth, JJ."]
+parties: ["Commonwealth v. Henderson, Appellant."]
+source_url: "https://static.case.law/pa-super/234/cases/0525-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6772492
+cites_cases: ["328 A.2d 845", "328 A.2d 851", "458 Pa. 289", "458 Pa. 307"]
+---
+
+# Commonwealth v. Henderson
+
+## Majority (Hoffman, J.,)
+
+Opinion by
+Hoffman, J.,
+Appellant contends that the lower court erred in considering the maximum sentence for the crime of involuntary manslaughter provided by the new Crimes Code when the crime occurred prior to the effective date of the new Code. Appellant further contends that the Act under which she was sentenced denies female offenders the equal protection of the laws.
+On January 1, 1973, appellant was arrested and charged with murder, involuntary manslaughter, playfully and wantonly pointing a firearm, and carrying a firearm on a public street. Appellant was found guilty on the charge of involuntary manslaughter, but was acquitted of the remaining charges by a judge sitting without a jury. No written post-trial motions were filed, but immediately following trial, defense counsel argued that the Commonwealth had failed to produce sufficient evidence to prove appellant guilty beyond a reasonable doubt. This motion was denied, and on July 2, 1973, appellant was sentenced to the State Industrial Home for Women at Muncy for a maximum term of three years.
+Our Supreme Court has recently held that the provision of the Muncy Act which prohibits the sentencing court from imposing a minimum sentence on female offenders amounts to a denial of equal protection because male offenders are entitled to a minimum sentence. Commonwealth v. Butler, 458 Pa. 289, 328 A.2d 851 (1974). In Commonwealth v. Piper, 458 Pa. 307, 328 A.2d 845 (1974), however, the Court refused to reach the constitutional issue because appellant failed to raise it in the lower courts. In the present case, defense counsel made clear that the only post-trial motion he wished to present concerned the sufficiency of the evidence. In addition, the constitutionality of the Muncy Act was not argued at the time of sentencing, although the trial court, sua sponte, indicated that it believed the act was unconstitutional. Thus, under Piper, we are precluded from addressing the merits of appellant’s constitutional claim.
+Appellant next contends that the trial court’s apparent confusion in regard to the applicable maximum sentence that could be imposed on the involuntary manslaughter charge compels this Court to remand for reconsideration of the sentence. Under the prior law, 18 P.S. §4703, involuntary manslaughter was punishable by a maximum term of three years’ imprisonment. Under the new Crimes Code, however, involuntary manslaughter is a misdemeanor of the first degree, 18 Pa. C.S. §2504, which is punishable by a maximum of five years’ imprisonment. 18 Pa. C.S. §1104(1). The trial judge was o-f the opinion that the Crimes Code penalty provisions governed the sentence, despite the fact that the crime occurred several months before the Code’s effective date: “As you know, the maximum sentence for this crime is five years .... under the new code with which we are bound . . . But penalty is procedural and you have to impose a penalty as of the day the penalty is imposed.” While this statement raises concerns of constitutional dimension, the conclusion is erroneous under the terms of the Act adopt-ting the new Crimes Code: “Title 18 of the Consolidated Pennsylvania Statutes (relating to crimes and offenses), as added by this Act, does not apply to offenses committed prior to the effective date of this act and prosecution for such offenses shall be governed by the prior law, which is continued in effect for that purpose, as if this act were not in force. For the purposes of this section, an offense was committed prior to the effective date of this act if any of the elements of the offense occurred prior thereto.” (Emphasis added). Act of December 6, 1972, P.L. 1482, No. 334, eff. June 6, 1973, Section 2.
+Although the sentencing judge operated under the misconception that the applicable lawful maximum for this crime was five years, it is clear that the judge intended to impose a sentence of four years: “As you know, the maximum sentence for this crime is five years. I did not have in mind giving her the maximum. I had in mind giving her a maximum of four years. The District Attorney has recommended a maximum of three years.” The court then acceded to the District Attorney’s recommendation and imposed a three-year sentence.
+The Commonwealth argues that appellant suffered no prejudice from the court’s consideration of an erroneous maximum sentence. As the appellant points out, however, the court obviously intended to impose less than the maximum term of imprisonment. It is true that the court imposed a lawful sentence, but it is certainly possible that the court was influenced by the increased severity attached to this crime by the legislature. Thus, had the court considered the lawful maximum sentence, i.e., three years, it might have imposed a lesser sentence than three years. Thus, we must remand to the trial court for reconsideration of sentence. In all other respects, the case is affirmed.
+Judgment of sentence is vacated, and the case is remanded to the trial court for reconsideration of sentence.
+. Act of December 6, 1972, P.L. 1482, No. 334, §1, eff. June 6, 1973, 18 Pa.C.S. §101 et seq.
+. Appellant was sentenced under the Muncy Act, July 16, 1968, P.L. 349, §1, 61 P.S. §566, which provides in pertinent part: “Any court of record in this Commonwealth, exercising criminal jurisdiction, may, in its discretion, sentence to the State Industrial Home for Women, any female over sixteen years of age . . . The court in imposing sentence shall not fix a minimum sentence, but shall fix such maximum sentence as the court shall deem appropriate . . .” (Emphasis added).
+. Appellant raises two other issues in her brief. First, appellant contends that the evidence was insufficient to convict. The trier of fact held to the contrary and this ruling is supported by the record. Second, appellant contends that the lower court erred in disregarding the pre-sentence report which recommended that appellant be placed on probation. The record clearly indicates that the sentencing judge considered the pre-sentence report, but chose to ignore its recommendation. This does not amount t'o an abuse of discretion which warrants reversal.
+. 1939, June 24, P.L. 872, §703, 18 P.S. §4703.
+
+## Concurring in part and dissenting in part (Van der Voort, J.:)
+
+Concurring and Dissenting Opinion by
+Van der Voort, J.:
+I am in agreement with all of the conclusions reached by the Majority in this case, with the exception of the Order for Remand for reconsideration of sentence. As is pointed out in the Majority Opinion, the learned lower court specifically stated an inclination to sentence the appellant to a four year term. It was only after consideration of the District Attorney’s recommendation for a three year term that the court adopted that lower sentence. In my view, the lower court’s actions and words impart a clear and unmistakable intent to sentence the appellant, at the least, to a term having a three year maximum. Such a sentence was within the then-applicable statutory limits and constituted no abuse of discretion by the lower court. Because of my conclusion, in this regard, I feel it is a wasteful effort to require a remand for reconsideration of sentence; I would simply affirm the judgment of sentence.
+Jacobs, J., joins in this concurring and dissenting opinion.
