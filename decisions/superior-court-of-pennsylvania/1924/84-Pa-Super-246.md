@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 72"
+decided: "1924-11-17"
+citations: ["84 Pa. Super. 246"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Trbxler, Keller, Linn and Gawthrop, JJ."]
+parties: ["Manorville v. Flenner, Appellant."]
+source_url: "https://static.case.law/pa-super/84/cases/0246-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 662755
+cites_cases: ["100 Pa. 368", "117 Pa. 326", "12 Pa. 318", "136 Pa. 519", "216 Pa. 221", "248 Pa. 11", "261 Pa. 129", "274 Pa. 489", "36 Pa. Superior Ct. 188", "40 Pa. Superior Ct. 50", "74 Pa. Superior Ct. 286", "78 Pa. Superior Ct. 345", "97 U. S. 25"]
+---
+
+# Manorville v. Flenner
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+1 An information was made before the burgess of Manorville Borough, charging the appellant with violation of the provisions of a borough ordinance, upon which he was arrested. A hearing before the burgess followed and after testimony taken the appellant was summarily convicted of the offense with which he was charged and sentenced to pay a fine. The defendant promptly filed •in- the court of quarter sessions a petition praying for the allowance of an appeal from the judgment, of the burgess to the court of quarter sessions, as provided by the Constitution and statutes of the State of Pennsylvania. The court, being of opinion that cause for the allowance of an appeal had been shown, made an order allowing the appeal and the same was then filed in the said court of quarter sessions. It is apparent enough to us, from an examination of the record, that the appeal was not inadvertently allowed. No jurisdictional question was involved and the petition for the appeal presented questions for the determination of the court that might well move the court to make the order prayed for. There was no allegation that the order had been obtained by any fraud or misrepresentation. The appeal was, therefore, properly lodged in the court of quarter sessions and could be disposed of only in the manner contemplated by the constitutional provision on the subject and the Act of 1876 passed in pursuance of that provision. The court, after a hearing, entered the following order: “And now, August 6,1924, the appeal is dismissed at the cost of appellant.”
+. In cases of summary conviction the court of quarter sessions has discretionary power to allow or refuse an appeal. But if the appeal has been duly allowed, and has not been dismissed upon legal cause shown, the 'parties are entitled to a hearing upon such relevant and material evidence pertaining to the charge as they produce, and having submitted their evidence they are entitled'to the distinct judgment of the court based upon the facts established by the evidence, and the law applicable to the facts: Com. v. Levine, 36 Pa. Superior Ct. 188. “When the appeal has been allowed, the charge dr cause of action remains the same, but the proceedings to determine the guilt or innocence of the defendant are de novo. The court is without authority to treat the case as an inquiry into the regularity of the proceedings before the magistrate and the record should disclose that the court has passed upon the facts established by the evidence and entered the judgment warranted by the conclusion reached”: Com. v. Congdon, 74 Pa. Superior Ct. 286; Com. v. Brann, 78 Pa. Superior Ct. 345. When an appeal has been inadvertently allowed, or has been procured by fraud or misrepresentation, the court may revoke its order allowing the appeal, and in that event the effect is the same as if the appeal had not been allowed; the judgment stands as the judgment of the magistrate. We have nothing of the kind in this case, it is not even suggested that the appeal was not properly allowed. Upon the allowance of the appeal the proceeding is properly lodged in the court of quarter sessions and should be disposed of by the definite judgment of that tribunal. The court has no authority to return the proceeding to the magistrate for purposes of execution. This marks the difference between such a proceeding as that with which we are now dealing and the result obtained by writ of certiorari issued out of the court of common pleas. The failure to observe this difference resulted in the making of the order, above quoted, which is now assigned for error. This record does not really disclose any definite judgment of the court of quarter sessions; in order to find out what the appellant must do, if that judgment should be sustained, we must go to the record of the magistrate. We have repeatedly held that the order entered by the court below is not such a judgment as the law contemplates, in cases of this character. The record must, therefore, be remitted for further proceedings.
+The judgment is reversed and the record is remitted to the court below with direction to hear the case and enter such judgment as the law and evidence require.
