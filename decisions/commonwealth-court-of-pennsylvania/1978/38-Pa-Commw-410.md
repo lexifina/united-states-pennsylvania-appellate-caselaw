@@ -1,0 +1,38 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1492 C.D. 1977"
+decided: "1978-11-06"
+citations: ["38 Pa. Commw. 410"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Wilkinson, Jr., Rogers and Craig, sitting as a panel of three."]
+parties: ["L. Gruizzetti & Son and Archemedi Griofreddi, Partnership, Petitioners v. Workmen’s Compensation Appeal Board and John H. Corum, Respondents."]
+source_url: "https://static.case.law/pa-commw/38/cases/0410-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1891055
+cites_cases: ["169 Pa. Superior Ct. 180", "373 Pa. 593", "82 A.2d 584", "97 A.2d 59"]
+---
+
+# L. Gruizzetti & Son v. Workmen's Compensation Appeal Board
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+The only issue remaining in this workmen’s compensation appeal is that of whether the record supports the referee’s finding that the appellant was the employer of the injured workman.
+John Corum, a mushroom worker, suffered injuries to his wrist when he fell from a conveyor while he was engaged in emptying a mushroom house. The basic facts are not seriously in dispute. The appellant, a partnership known as G & G, owned conveyors used in emptying (and filling) mushroom houses. Gr & G rented these machines to mushroom growers. G & G had in its employ one Reggie Eastridge who acted as so-called “gang leader” in connection with the operation of the conveyors. Eastridge’s duties for G & G were to take calls from mushroom growers desiring their houses to he emptied, to schedule the times for doing the work, to supply workers, and to see that the work was done. When an engagement had been thus arranged, Eastridge’s duties in particular were to transport the conveyors, to maintain them while the work was being done, to supervise the workers, and to see that the grower paid for the use of G & G’s conveyors and for the crew. The charge for the use of the conveyor was fix-ed by G & G. The two charges were paid by two checks of the grower delivered to Eastridge, one payable to G & G for the use of the conveyors, the other to Eastridge for the crew. The latter check was cashed by Eastridge and the entire proceeds divided among the workers. No money was withheld from the workers’ pay for social security or other taxes, in accordance with the practice in the industry. While growers are often on the site when their houses are emptied, they do not supervise the workmen; this is done by the gang leader. G & G had assured Eastridge that it carried workmen’s compensation insurance, which in fact it did; Eastridge carried none.
+On the day Corum was injured, Eastridge had called for him at his home and had driven him to the grower’s mushroom house in a truck owned by G & G. After his injury he was paid $20 for the day’s work by Eastridge from money provided by the grower.
+Referee Perna in an exhaustive decision with detailed findings which we have summarized above, found as ultimate facts that Eastridge was employed by G & G, that Eastridge was G & G’s agent for hiring gang members, that gang members were not employes of the growers, bnt that they were the employes of G & G because G & G’s agent Eastridge engaged them and controlled their work.
+G & G has appealed from an order of the Workmen’s Compensation Appeal Board upholding Referee Perna’s imposition of Corum’s benefits on it as the employer. G & G states as the questions involved those of whether Corum and Eastridge were independent contractors or employes; whether, if employes, they were employed by the grower or G & G; and whether there was competent evidence in the record supporting the referee’s finding that G & G was in the business of filling and emptying mushroom houses. G & G’s brief is devoted for the most part to a process of emphasizing those things in the record which would have provided support for a finding that Corum was an independent contractor or an employe of the grower or which would have supported a finding that G & G’s business was that of renting equipment not that of filling and emptying mushroom houses. This approach to the case is misguided. The issue is not whether there are facts in the record which might have lent support to a finding that Corum was an independent contractor or that he was employed by the grower or that G & G had nothing to do with mushroom houses.; the issue is whether the record supports Referee Perna’s finding that Corum was G & G’s employe when he was injured. It seems clear to- us the record amply supports the finding. Eastridge was unquestionably G & G’s employe. When growers wanted houses, emptied they called him. He came with G & G’s equipment and a crew which he recruited, put to work and whose work he controlled. There is no suggestion that East-ridge had any interest in the work other than as G & G’s employe. It was in furtherance of his duties as G & G’s employe that Eastridge engaged the crew members and controlled their work. His actual control and his right to control was therefore that of G & G.
+G & G emphasizes the fact that the money to pay Corum was furnished by the grower, although actually delivered by Eastridge. This it says is an indication that the grower was Corum’s employer. The crucial and very familiar test is that the employer-employe relation exists where the employer has the right to select the employe, the power to remove and discharge him and to direct both what work shall be done and the manner in which it shall be done. Mature v. Angelo, 373 Pa. 593, 97 A.2d 59 (1953). If these things are shown to exist the relationship of employer-employe exists, and the fact that someone other than the one having these rights and powers paid the worker’s wages will not militate against it. Fanning v. Apawana Golf Club, 169 Pa. Superior Ct. 180, 82 A.2d 584 (1951).
+We affirm the order below.
+Order
+And Now, this 6th day of November, 1978, it is hereby ordered that the partnership of L. Guizzetti & Son and Archemedi Giofreddi and/or its insurance carrier pay to John H. Corum compensation at the rate of $106.00 per week for total disability for the period commencing April 18, 1974 and ending March 2, 1975 inclusive, and at the rate of $106.00 per week for partial disability for the period commencing March 3, 1975 and ending March 16, 1975 inclusive, and at the rate of $100.00 per week commencing March 17, 1975 and continuing into the future within the terms and limitations of the Workmen’s Compensation Act.
+The partnership of L. Guizzetti & Son and Archemedi Giofreddi and/or its insurance carrier is further ordered to pay the following medical expenses incurred by John H. Corum:
+a. Community Memorial Hospital $2013.50
+b. Coatesville Hospital 60.00
+c. Ajit Prasad, M.D. & Associates 625.00
+d. Highland Orthopedic Center 1013.00
+All deferred payments of compensation shall bear interest at the rate of ten percent (10%) per annum.
+The partnership of L. Guizzetti & Son and Archemedi Giofreddi and/or its insurance carrier shall pay to the claimant’s attorney twenty percent (20%) of all compensation payments and interest thereon due to the claimant, out of the claimant’s award, directly to claimant’s attorney and shall pay the balance of such compensation and interest directly to the claimant. The partnership of L. Guizzetti & Son and Archemedi Giofreddi and/or its insurance carrier shall pay twenty percent (20%) of the aforesaid medical expenses directly to claimant’s attorney and shall pay the balance of the medical expenses directly to the entities entitled thereto.
