@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2926 C.D. 1981"
+decided: "1983-03-09"
+citations: ["72 Pa. Commw. 471"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to President Judge Crumlish, Jr. and Judges Bogers and MacPhail, sitting as a panel of three."]
+parties: ["Charles R. Young, Petitioner v. Workmen’s Compensation Appeal Board (Britt & Pirie, Inc. et al.), Respondents."]
+source_url: "https://static.case.law/pa-commw/72/cases/0471-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1938491
+cites_cases: ["13 Pa. Commonwealth Ct. 357", "301 A.2d 924", "318 A.2d 385", "32 Pa. Commonwealth Ct. 156", "377 A.2d 1300", "414 A.2d 774", "51 Pa. Commonwealth Ct. 582", "8 Pa. Commonwealth Ct. 273"]
+---
+
+# Young v. Workmen's Compensation Appeal Board
+
+## Majority (Judge Bogers,)
+
+Opinion by
+Judge Bogers,
+We have here consolidated for argument and disposition the appeal by Charles B. Young, a claimant, from a decision of the Workmen’s Compensation Appeal Board (board) refusing him a rehearing of an unappealed board decision affirming a referee’s refusal of benefits and the employer-respondents ’ motion to quash the claimant’s petition for review as untimely filed under Pa. B.A.P. 1512(a)(1).
+We overrule the motion to quash. The claimant filed the pending petition for review on November 30, 1981, a date within 30 days of the board’s order of November 5, 1981 refusing the application for rehearing.
+We turn to the claimant’s appeal. He contends that the board committed an abuse of discretion in refusing bim ,a rehearing of an unappealed board decision affirming a referee’s refusal of benefits. Section 426 of The Pennsylvania Workmen’s Compensation Act (Act), Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §871 provides that the board, upon petition, may grant a rehearing of any petition upon which an award or an order of disallowance of compensation has been made.
+The claimant worked ¡as a ¡spray gun chopper operator for manufacturers of fiberglass parts. In April 1976, he filed a claim petition under the Workmen’s Compensation Act against Fiberglass Corporation, alleging that he ¡suffered from ‘ ‘chronic tracheitis due to fiberglass in the trachea and liver malfunctioning possibly due to acetone.” On July 14, 1976, he filed an amended petition, joining Britt & Pirie, Inc., as an additional defendant. Both ¡employers, through their insurance carriers, filed answers demanding proof of the claim and alleging that the claimant had not given notice of his injury within 120 days after its occurrence as required by Section 311 of the Act, 77 P.S. §631.
+After hearings, the referee dismissed the claim petition, concluding that (1) the claimant had not met his burden to prove that the diseases he was shown to have, chronic pneumonoconiosis and obstructive vestrictive pulmonary disease, not being diseases which Section 108 of the Act, 77 P.S. §27.1 makes compensable by name, were of incidence substantially greater in the industry in which he worked than in the general population as required by Section-108 (n) of the Act, 77 P.S. §27.1 (n) and that (2) the claimant had not given notice of his injury .to the defendants within 120 days after having knowledge of his injury as required by Section 311 of the Act. The board affirmed the referee’s decision on October 31, 1980. The claimant did not appeal the board’s order.
+The petitioner filed his petition for rehearing on July 17,1981. He alleged that on April 10,1981, a pulmonary biopsy was performed, which procedure he asserts was not available at the time of the referee’s hearing, and that -this procedure revealed silicate in the tissues of his lungs.
+A rehearing should, the claimant alleged, be afforded because (1) the discovery of silicate deposits in his lungs is after discovered evidence and that the presence of silicate is “far more prevalent than those found in the lungs of persons in the general population” and, (2) the referee in the unappealed proceedings had capriciously disregarded competent evidence in finding that the claimant knew “or by the exercise of reasonable diligence should know, of the existence of the injury and its possible relationship to his employment” more than 120 days before he filed his claim petitions. The board refused rehearing because its review of the record satisfied it that the referee’s findings on the issue of notice were indeed, as the board had decided in its unappealed decision, supported by substantial evidence and was made without capricious disregard of evidence to the contrary. The board did not deal with the claimant’s additional plea to be heard on the merits based on the claimed after discovered evidence of the presence of silicate in the claimant’s lungs.
+The decision of whether to grant or deny a rehearing is within the discretion of the hoard and our review is limited to the issue of whether a sound discretion was abused. Anderson v. Workmen’s Compensation Appeal Board, 51 Pa. Commonwealth Ct. 582, 585, 414 A.2d 774, 776 (1980); Douglas v. Workmen’s Compensation Appeal Board, 32 Pa. Commonwealth Ct. 156, 159, 377 A.2d 1300, 1302 (1977). A rehearing petition may not be used as a vehicle for testing the merits of an unappealed decision. It is appropriate for use as a means of seeking to present after discovered, noncumulative evidence which could not have been, by the exercise of ordinary diligence, produced at the original hearing. Anderson; Douglas; Fetzer v. Michrina, 8 Pa. Commonwealth Ct. 273, 301 A.2d 924 (1973). However, “a rehearing .should not be allowed simply for the purpose of strengthening weak proofs which have already been presented. . . .” General Woodcraft & Foundry v. Workmen’s Compensation Appeal Board, 13 Pa. Commonwealth Ct. 357, 362, 318 A.2d 385, 387 (1974).
+Surely the board in this case did not abuse a sound discretion in refusing to rehear the claimant’s renewed contest of the issue of notice on ground identical to those advanced at the unappealed earlier proceeding. Additionally and with respect to the offer of asserted after discovered medical evidence of the presence of silicate, the claimant in his petition for hearing fails to disclose how this fact could .affect the outcome already reached. There is no averment that the presence of silicate showed that the claimant suffered from disease other than chronic pneumoconiosis and obstructive restrictive pulmonary disease or of how the presence of .silicate would prove that the incidence of chronic pneumoconiosis and obstructive restrictive pulmonary disease is substantially greater in the industry in which the claimant was employed than in the general population.
+The respondents’ motion to quash is overruled; the order of the Workmen’s Compensation Appeal Board is affirmed.
+Order
+And Now, this 9th day of March, 1983, the respondents’ motion to quash is overruled; the order of the Workmen’s Compensation Appeal Board dated November 5, 1981, dismissing the claimant’s petition for rehearing is affirmed.
+Pa. B.A.P. 1512(a) (1) provides:
+(a) Appeals authorized by law. Except as otherwise prescribed by Subdivision (b) of this rule:
+il) A petition for review of a quasijudicial order, or an order appealable under 42 Pa. C. S. §7663(b) (awards of arbitrators) or under any other provision of law, shall be filed with the prothonotary of the appellate court within 30 days after the entry of the order.
