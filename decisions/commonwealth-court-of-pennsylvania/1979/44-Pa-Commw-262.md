@@ -1,0 +1,30 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 628 C.D. 1978"
+decided: "1979-07-16"
+citations: ["44 Pa. Commw. 262"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Wilkinson, Jr., Rogers and MacPhail, sitting as a panel of three."]
+parties: ["James D. Peppelman, Appellant v. Commonwealth of Pennsylvania, Appellee."]
+source_url: "https://static.case.law/pa-commw/44/cases/0262-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1899050
+cites_cases: ["19 Pa. Commonwealth Ct. 363", "22 Pa. Commonwealth Ct. 559", "305 A.2d 732", "338 A.2d 742", "349 A.2d 798", "9 Pa. Commonwealth Ct. 87"]
+---
+
+# Peppelman v. Commonwealth
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+This is the appeal of James D. Peppelman from an order of the Montgomery County Court of Common Pleas upholding the suspension of his driving privileges by the Department of Transportation under Section 1547(b) (1) of the Vehicle Code, 75 Pa. C.S. §1547 (b)(1), for his refusal to submit to a breathalyzer test.
+On August 28,1977, Peppelman was involved in an automobile accident and was arrested and charged with operating a vehicle while under the influence of alcohol in violation of Section 3731(a)(1) of the Vehicle Code, 75 Pa. C.S. §3731(a)(l). The arresting officer requested Peppelman to sumit to a breathalyzer test and warned him that if he'refused, he could lose his license. Peppelman agreed to take the test. On the way to the state police barracks where the test was to be conducted, the officer told Peppelman that the driver of another car involved in the accident had died and advised Peppelman to consult a lawyer. Peppelman called a lawyer as soon as he arrived at the barracks and, on the lawyer’s advice, refused to submit to the breathalyzer test. Peppelman appears to have refused to submit to the test for a reason other than that of the form of the officer’s warning. The Department suspended Peppelman’s operating privileges.
+Section 1547 (b) (2) of the Vehicle Code, 75 Pa. C.S. §1547(b) (2), states: “It shall be the duty of the police officer to inform the person that the person’s operating privilege will be suspended or revoked upon refusal to submit to a chemical test.” (Emphasis added.) Peppelman argues here that the officer’s use of the word “could” instead of “will” in informing him of the consequences of refusal was not that required by the statute and that the suspension should therefore be set aside. We are impelled to agree.
+In Moran v. Commonwealth, 44 Pa. Commonwealth Ct; 105, A.2d (1979), we found it unnecessary to decide the question here raised because the petitioner there, who also was informed only that his license could be suspended, was also given a copy of Section 1547(b) (2) which he read — so that we held that he had been properly informed. Peppelman was afforded only the officer’s oral information and we must now decide whether the Act requiring that the motorist shall be told that his license will be suspended or revoked if he refuses the test is satisfied by telling him that the license could be suspended or revoked for this cause.
+Section 1547(b)(2) of the Vehicle Code, requiring the warning that suspension or revocation will follow refusal was added by the new Vehicle Code which became effective July 1, 1977. The breathalyzer provision section of the old Vehicle Code, Section 624.1, did not require a warning. We gave strict construction to Section 624.1. We held that a police officer had no duty to warn a motorist who was arrested for driving while under the influence of alcohol that a refusal to submit to a breathalyzer test would result in a revocation or suspension of the motorist’s operating privilege. Commonwealth v. Williams, 19 Pa. Commonwealth Ct. 363, 338 A.2d 742 (1975). We also held that a suspension of operating privileges under Section 624.1 was proper although the arrest was not lawful, Commonwealth v. Barrett, 22 Pa. Commonwealth Ct. 559, 349 A.2d 798 (1976), and although the licensee was subsequently acquitted of the charge of driving under the influence of alcohol. Commonwealth v. Clawson, 9 Pa. Commonwealth Ct. 87, 305 A.2d 732 (1973). In short, we took the strict view that all that was required to be shown for sanctions was that the motorist be arrested, that he be charged with driving under the influence, that he be requested to take the test, and refuse the request. We see no reason why we should take less strict appoach with respect to language imposing the duty upon the police officer to inform the motorist that his license will be suspended or revoked if he refuses to take the test. The Legislature clearly added the requirement of Section 1547(b) (2) to provide something to which it believed the motorist was in fairness entitled — prior warning of the consequence of refusing the test. The language of Section 1547(b)(2) is clear and unambiguous and the duty it imposes on the police officer is not difficult to perform. For us to hold, as we are asked, that an inaccurate performance of this duty is to be overlooked if the motorist has not relied on the warning would simply invite a trial of the issue of reliance wherever the warning was defective. We refused to accept exculpatory issues at the behest of the motorists who failed to do what the statute required ; and we believe we should not do so at the behest of erring public authority.
+Order
+And Now, this 16th day of July, 1979, the order of the Montgomery County Court of Common Pleas dated March 6,1978 upholding the Department of Transportation’s suspension of the operating privileges of James D. Peppelman is reversed; and his privileges ordered to be reinstated.
+Act of April 29, 1959, P.L. 58, as amended, Section 624.1 was added by Section 1 of the Act of July 28, 1961, P.L. 918, as amended, formerly 75 P.S. §624.1, repealed by the Act of June 17, 1976, P.L. 162.
