@@ -1,0 +1,23 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 238"
+decided: "1925-02-27"
+citations: ["85 Pa. Super. 84"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: [",Before Orlady, P. J., Porter, Henderson, Trexler, Keller, Linn and Gawthrop, JJ."]
+parties: ["In re: Manor Township School District."]
+source_url: "https://static.case.law/pa-super/85/cases/0084-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 665577
+---
+
+# In re Manor Township School District
+
+## Majority (Gawthrop, J.,)
+
+Opinion by
+Gawthrop, J.,
+Little need be said in sustaining the order of Judge Landis, whose opinion will appear in the report of the case. The township auditors were required by law to audit, at a certain time, the finances of the school district including the accounts of the collector of school taxes, and to make a statement in duplicate, setting forth any sum which they charged against that officer. It was their further duty to file one copy of their report and audit with the secretary of the board of school directors and one in the court of quarter sessions. It is clear from the testimony and the minute book of the auditors that they did audit the accounts of the collector of school taxes, but the further duty of including in the report filed in the court of quarter sessions a statement of the result of the audit of that officer’s accounts they failed to perform. The filing in that court of a report of the audit of the tax collector’s accounts is a necessary step in fixing the liability of that officer. Until that is done a proceeding against his estate or his surety would be premature and unauthorized. While the School Code contemplates that the auditors shall file in the court of quarter sessions a single report which shall include a statement of the result of the audit of the tax collector’s accounts and the amount due, if any, by that officer to the school district, in our opinion the filing of a report of the audit of the accounts of the school board and the officers of the school district, exclusive of the tax collector, was not conclusive against the school district or. any taxpayer thereof as to the liability of the tax collector. The case is clearly distinguishable from the line of cases, of which Westmoreland County v. Fisher, 172 Pa: 317, is a sample, holding that the decision of the tribunal created by law for the settlement of the accounts of public officers is final and conclusive and cannot be opened for the correction of errors or again inquired into by the auditors or the court. The learned counsel for the appellant, in their statement of the question involved, assume the fact that the auditors had “filed a complete audit of the tax collector’s accounts.” Unfortunately for them this is incorrect. If the report filed had contained a statement of the audit of the tax collector’s accounts and made a charge against him, the rights of all parties would have been fixed at the end of thirty days from the filing of the report. But here the auditors have never settled the accounts of the tax collector. There is no settlement of his accounts until a report of the audit of his account is filed. If the auditors, whether by mistake or by design, had failed to audit the accounts of the tax collector and, as a consequence thereof, their report filed in the court of quarter sessions contained no statement of that officer’s accounts, on what principle of law could it be said that there had been a settlement of the accounts of the tax collector which was conclusive against the school district and the taxpayers thereof. Such a failure on the part of the auditors to perform their duty cannot result in relieving a tax collector from paying to the school district the balance with which he is chargeable. The provision in the statute prescribing the time when the auditors shall audit the finances of the school district is merely directory. In our opinion these auditors could have been compelled in a mandamus proceeding to perform their duty and file a report of their audit of the tax collector’s accounts at a later date. When in the circumstances here there had been an audit of the tax collector’s accounts, but, apparently inadvertently, no report thereof was filed in the court of quarter sessions and the auditors asked the permission of the court to supplement their report by filing a statement of their audit of that officer’s accounts, it would have been error to refuse to grant permission to do so.
+The assignments of error are overruled, and the decree is affirmed.
