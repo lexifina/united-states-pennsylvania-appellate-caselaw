@@ -1,0 +1,34 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1258 C.D. 1974"
+decided: "1975-08-07"
+citations: ["21 Pa. Commw. 47"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Wilkinson, Jr., Mencer and Rogers, sitting as a panel of three."]
+parties: ["Unemployment Compensation Board of Review of The Commonwealth of Pennsylvania and Eaton Corporation, Intervening Appellee, v. Carol J. Walton, Appellant."]
+source_url: "https://static.case.law/pa-commw/21/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1870138
+cites_cases: ["10 Pa. Commonwealth Ct. 286", "10 Pa. Commonwealth Ct. 289", "11 Pa. Commonwealth Ct. 535", "12 Pa. Commonwealth Ct. 481", "12 Pa. Commonwealth Ct. 550", "12 Pa. Commonwealth Ct. 64", "124 A.2d 386", "13 Pa. Commonwealth Ct. 317", "146 A. 2d 367", "15 Pa. Commonwealth Ct. 385", "150 A.2d 163", "179 A.2d 679", "182 Pa. Superior Ct. 23", "188 Pa. Superior Ct. 185", "189 Pa. Superior Ct. 204", "19 Pa. Commonwealth Ct. 475", "197 Pa. Superior Ct. 618", "296 A. 2d 297", "310 A.2d 433", "310 A.2d 449", "314 A.2d 528", "315 A. 2d 925", "316 A. 2d 112", "317 A.2d 324", "318 A.2d 422", "327 A.2d 219", "338 A.2d 794", "6 Pa. Commonwealth Ct. 484"]
+---
+
+# Unemployment Compensation Board of Review of the Commonwealth v. Walton
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+After three hearings, a remand order of this Court, and two opinions of the Unemployment Compensation Board of Review (Board), Carol J. Walton (appellant) appeals the Board’s latest decision which denied her unemployment compensation benefits because of her discharge from employment with Eaton Corporation for willful misconduct connected with her work.
+In willful misconduct cases, the burden of establishing claimant’s ineligibility is placed on the employer. MacFarlane v. Unemployment Compensation Board of Review, 12 Pa. Commonwealth Ct. 550, 317 A.2d 324 (1974). Additionally, our scope of review in these cases is confined to questions of law and to a determination as to whether or not the findings of the compensation authorities are supported by substantial evidence. Warminster Fiberglass Co. v. Unemployment Compensation Board of Review, 15 Pa. Commonwealth Ct. 385, 327 A.2d 219 (1974). The question as to whether or not an employee’s actions constitute willful misconduct is, of course, one of law and subject to our review. Food Fair Stores, Inc. v. Unemployment Compensation Board of Review, 11 Pa. Commonwealth Ct. 535, 314 A.2d 528 (1974).
+In interpreting the concept of willful misconduct, we have often stated that “ ‘ [m] isconduct within the meaning of an unemployment compensation act excluding from its benefit an employee discharged for misconduct must be an act of wanton or toilful disregard of the employer’s interest, a deliberate violation of the employer’s rules, a disregard of standards of behavior which the employer has the right to expect of his employe or negligence in such degree or recurrence as to manifest culpability, wrongful intent, or evil design, or show an intentional and substantial disregard of the employer’s interest or the employe’s duties and obligations to the employer.’ See Sun Shipbuilding & Dry Dock Company v. Unemployment Compensation Board of Review, 10 Pa. Commonwealth Ct. 289, 310 A.2d 449 (1973) ; DiAmico v. Unemployment Compensation Board of Review, 10 Pa. Commonwealth Ct. 286, 310 A.2d 433 (1973).” (Emphasis added.). Chambers v. Unemployment Compensation Board of Review, 13 Pa. Commonwealth Ct. 317, 319-20, 318 A.2d 422, 423 (1974).
+The Board’s only finding of fact on the concept of willful misconduct was that “[t]he claimant was discharged because she left her place of employment without permission from her supervisor, following an argument over work procedures.” It is impossible for us to exercise our review, or for the Board to have made its determination, based on this single limited finding.
+As Judge Flood said, in speaking for the Superior Court, “it was incumbent upon the board to make findings of the underlying facts from which it could be determined whether or not the claimant’s leaving was or was not justified. Donnelly Unemployment Compensation Case, 182 Pa. Superior Ct. 23, 124 A.2d 386 (1956). This court is bound by the findings of the board but cannot infer findings not actually made. Ibid. The findings must be sufficiently definite and specific to enable this court to pass upon the legal issues involved: Folmer Trucking Company v. Pennsylvania Public Utility Commission, 189 Pa. Superior Ct. 204, 150 A.2d 163 (1959).” Palmitessa Unemployment Compensation Case, 197 Pa. Superior Ct. 618, 621, 179 A.2d 679, 681 (1972). See also Sturniolo v. Unemployment Compensation Board of Review, 19 Pa. Commonwealth Ct. 475, 338 A.2d 794 (1975).
+Here the Board’s findings do not- meet any of the issues raised by claimant that may be legally determinative of a conclusion of willful misconduct pursuant to Chambers, supra. Though findings need not always address themselves to all of the allegations and defenses raised by a claimant, the failure of the Board to address any of the factual issues raised by this claimant certainly makes it impossible to review a legal determination of willful misconduct. So, notwithstanding the regrettable delay in the administrative and judicial process, we are compelled to remand this record for more detailed findings and for the Board’s redetermination in light of those additional findings.
+Order
+And now, this 7th day of August, 1975, the record is remanded to the Unemployment Compensation Board of Review for further proceedings consistent with this opinion.
+. The applicable law in such a case is Section 402(e) of the Unemployment Compensation Law, Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §802(e), which provides in part:
+“An employe shall be ineligible for compensation for any week—
+“(e) In which his unemployment is due to his discharge or temporary suspension from work for willful misconduct connected with his work . . . .”
+. See, for example, the following cases which deal with some of the issues raised by claimant that are not here available to our scrutiny because of the absence of appropriate findings: Druzak v. Unemployment Compensation Board of Review, 12 Pa. Commonwealth Ct. 481, 315 A. 2d 925 (1974) (reasonableness and applicability of a rule); Frumento v. Unemployment Compensation Board of Review, 12 Pa. Commonwealth Ct. 64, 316 A. 2d 112 (1974) (good cause — sickness); Loder v. Unemployment Compensation Board of Review, 6 Pa. Commonwealth Ct. 484, 296 A. 2d 297 (1972) (single dereliction of duty); Weimer Unemployment Compensation Case, 188 Pa. Superior Ct. 185, 146 A. 2d 367 (1958) (enforceability, applicability, and existence of a plant rule).
