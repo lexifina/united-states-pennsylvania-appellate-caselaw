@@ -1,0 +1,19 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 26"
+decided: "1972-06-08"
+citations: ["221 Pa. Super. 830"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Steigerwalt v. Pennsylvania Power Co., Appellant."]
+source_url: "https://static.case.law/pa-super/221/cases/0830-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 800078
+---
+
+# Steigerwalt v. Pennsylvania Power Co.
+
+## Majority
+
+Judgment affirmed.
