@@ -1,0 +1,30 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1203 C.D. 1980"
+decided: "1981-09-14"
+citations: ["61 Pa. Commw. 568"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogues, Blatt and Palladino, sitting as a panel of three."]
+parties: ["Frederick A. Bignell, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/61/cases/0568-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1924051
+cites_cases: ["17 Pa. Commonwealth Ct. 110", "29 Pa. Commonwealth Ct. 147", "30 Pa. Commonwealth Ct. 327", "30 Pa. Commonwealth Ct. 429", "330 A.2d 541", "36 Pa. Commonwealth Ct. 304", "370 A.2d 755", "373 A.2d 1183", "373 A.2d 795", "387 A.2d 998", "397 A.2d 842", "40 Pa. Commonwealth Ct. 378", "404 A.2d 768", "410 A.2d 976", "417 A.2d 1311", "426 A.2d 757", "45 Pa. Commonwealth Ct. 29", "49 Pa. Commonwealth Ct. 279", "53 Pa. Commonwealth Ct. 407"]
+---
+
+# Bignell v. Commonwealth
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+The petitioner, Frederick A. Bignell, has appealed an April 30, 1978 decision of the Unemployment Compensation Board of Review denying him benefits on the basis that his discharge was a result of his own willful misconduct.
+The petitioner was formerly employed as an engineer by Emporium Specialities, Inc. (employer) until his discharge on April 25, 1978. His employer charged him with copying and removing from the premises blueprints of the employer’s machines, and for taking sixty to eighty photographs of patented equipment located in the employer’s plant, all without permission of his superiors.
+In an unemployment compensation case where the employee is denied benefits due to a discharge resulting from willful misconduct, the burden of proof is upon the employer. Lee v. Unemployment Compensation Board of Review, Pa. Commonwealth Ct. , 426 A.2d 757 (1981); Glasser v. Unemployment Compensation Board of Review, 45 Pa. Commonwealth Ct. 29, 404 A.2d 768 (1979). And the scope of our review “is limited to a determination of whether the findings of fact are consistent with each other and can be sustained without a capricious disregard of competent evidence.” Penn Photomounts, Inc. v. Unemployment Compensation Board of Review, 53 Pa. Commonwealth Ct. 407, 417 A.2d 1311 (1980); see Dell Watts, Jr. v. Unemployment Compensation Board of Review, 49 Pa. Commonwealth Ct. 279, 410 A.2d 976 (1980). Questions of credibility and evidentiary weight are left to the Board, and the prevailing party below has the benefit of all reasonable inferences drawn from the evidence. Recker v. Unemployment Compensation Board of Review, 30 Pa. Commonwealth Ct. 327, 373 A.2d 795 (1977); see also Barrett v. Unemployment Compensation Board of Review, 30 Pa. Commonwealth Ct. 429, 373 A.2d 1183 (1977). In addition, we are bound by findings of fact supported by substantial evidence even though contrary evidence was introduced below. Martin v. Unemployment Compensation Board of Review, 36 Pa. Commonwealth Ct. 304, 387 A.2d 998 (1978) . Willful misconduct has not been statutorily defined, but we have described it in general terms as an act or course of conduct constituting a wanton or willful disregard of the employer’s interests, a deliberate violation of the employer’s rules, a disregard of standards of behavior the employer has the right to expect or negligence in such degree or recurrence so as to manifest evil design, wrongful intent, or intentional and substantial disregard of the employer’s interests or the employee’s duties and obligations. Lee v. Unemployment Compensation Board of Review, supra; Serban v. Unemployment Compensation Board of Review, 29 Pa. Commonwealth Ct. 147, 370 A.2d 755 (1977).
+In determining as a matter of law whether or not the facts of record will support a finding of willful misconduct on the petitioner’s part, the nature of the employer’s business is particularly relevant, and, the employer here was a developer of industrial processes, equipment and tools. The record indicates that if the designs, patents, photographs, and plans which were reproduced and removed by the petitioner had fallen into the possession of competitors, the employer’s operation and the success of his company would likely have been jeopardized. Clearly, the petitioner manifested substantial disregard of his employer’s interests even though he contended that his actions were motivated by a deep sense of loyalty to the employer. See Parsons v. Unemployment Compensation Board of Review, 40 Pa. Commonwealth Ct. 378, 397 A.2d 842 (1979) . Moreover, it is obvious that his actions contravened both the duties and obligations owed to his employer as well as that standard of behavior which this employer had the right to expect from an employee in a business such as that here involved. We have previously recognized that an employee’s unpermitted removal of an employer’s property from the employment premises constitutes grounds for a determination of willful misconduct. White v. Unemployment Compensation Board of Review, 17 Pa. Commonwealth Ct. 110, 330 A.2d 541 (1975). This is even more true where the materials are of a sensitive nature and misappropriation could cause the employer great harm, as in the case here.
+We will therefore affirm the decision of this Board.
+Order
+And Now, this 14th day of September, 1981, the order of the Unemployment Compensation Board of Review in the above-captioned matter is affirmed.
+Section 402(e) of the Unemployment Compensation Law, Act of December 5,1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §802(e). Section 402(e) of the Act, the controlling law in this case, dictates that a claimant is ineligible for compensation for any week in which his unemployment is due to his discharge or temporary suspension from work for wiUful misconduct connected with his work.
