@@ -1,0 +1,43 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 262"
+decided: "1942-01-30"
+citations: ["147 Pa. Super. Ct. 97"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Stadtfeld, Rhodes and Hirt, JJ."]
+parties: ["Jaczyszyn v. Paslawski, Appellant."]
+source_url: "https://static.case.law/pa-super/147/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1039021
+cites_cases: ["11 A. 2d 199", "124 Pa. Superior Ct. 418", "138 Pa. Superior Ct. 288", "188 A. 539", "334 Pa. 441", "36 Pa. 458", "40 Pa. 453", "6 A. 2d 275", "61 Pa. 455", "7 W. & S. 406"]
+---
+
+# Jaczyszyn v. Paslawski
+
+## Majority (Keller, P. J.,)
+
+Opinion by
+Keller, P. J.,
+This is an action of ejectment brought by Bessie Jaczyszyn against. John Paslawski for premises No. 2044 Blavis Street, Philadelphia.
+It deals with a later stage of the matters discussed by us in Paslawski v. Borys (Appeal of Bessie Jaczyszyn), 138 Pa. Superior Ct. 288, 11 A. 2d 199.
+On October 24,1934 Nikolai Borys became the owner of said premises by deed from George H. Urwiler, dated that day and duly recorded. His deed was duly registered in the name, Nikolai Borys.
+On January 2, 1935 Nikolai Borys conveyed said premises to Katherine Haiko, by deed of that date, duly recorded.
+On January 25, 1937 Katherine Haiko and husband reconveyed the said premises to Nikolai Borys pursuant to a decree of the Court of Common Pleas No. 4, sitting in equity, to 4352 June Term 1935, affirmed by this Court on December 21, 1936, 124 Pa. Superior Ct. 418, 188 A. 539.
+The said Nikolai Borys by deed dated January 25, 1937, acknowledged February 5, 1937 and recorded February 19, 1937, conveyed the said premises to the plaintiff, Bessie Jaczyszyn. The consideration paid was $250 and a judgment for $956.45 entered November 7, 1936 to 4867 September Term 1936, against Nikolai Borys in favor of John Jaczyszyn, husband of this plaintiff and nephew of Borys, on two judgment notes (Act of May 26, 1897, P. L. 94, 12 PS §740) of the grantor, one dated January 30, 1936 for $548.70 and the other dated August 13, 1936 for $407.75. She entered into possession and had her deed registered and on February 5, 1937 leased the property to George Edward Copien.
+On November 24, 1934 Nikolai Borys gave the defendant, John Paslawski, his note containing a warrant to confess judgment, which was éntered on July 18, 1935 to 5039 June Term 1935, but in recording the judgment and entering it in the judgment index the said Borys’ first or given name was entered as Mikola, the Ukrainian capital N, in writing as distinguished from printing, being similar in appearance to our written M.
+Accordingly, when Mrs. Jaczyszyn’s attorney looked up the liens against Nikolai Borys preparatory to the conveyance to her of January 25, 1937 he found no record of any judgment in favor of John Paslawski against Nikolai Borys. Judgments against Mikola Borys, or persons having a first or given name beginning with M, are recorded in a different part of the index from judgments entered against Nikolai Borys or persons having a first or given name beginning with N.
+Sometime in August 1937 Paslawski issued execution on his judgment against Mikola Borys and levied on the real-estate conveyed to Bessie Jaezyszyn by Nikolai Borys. On September 8,1937 she obtained a rule against Paslawski to show cause why the execution issued on said judgment, under which the said real estate was advertised for sheriff’s sale on September 20, 1937, should not be set aside, because the judgment was entered against Mikola Borys whereas the name of the registered owner from whom she had purchased the real estate, without knowledge of the judgment against Mikola Borys, was Nikolai Borys. The rule was discharged on December 22, 1937 on the ground that the execution would not affect the rights of the petitioner, Bessie Jaezyszyn.
+Thereafter, on July 5, 1938 the court made absolute a rule obtained by Paslawski to amend the judgment to 5039 June Term 1935 and the judgment index so as to make the name of the judgment debtor read “Mikola Borys, also known as Nikolai Borys.” But as pointed out by us in 138 Pa. Superior Ct. 288, pp. 291 and 296, the order making absolute the rule to amend the judgment had, and could have, no effect on Mrs. Jaczyszyn’s title to the real estate acquired a year and a half before, if she was an innocent purchaser.
+On August 16,1938 Paslawski issued another writ of execution on his judgment to 5039 June Term 1935 and on September 19, 1938 the real estate levied upon, 2044 Blavis Street, was sold by the sheriff as the property of Mikola Borys, also known as Nikolai Borys, to John Paslawski for sixty dollars, and a deed for the same was acknowledged on September 26, 1938 and recorded October 7, 1938.
+It subsequently developed — see 138 Pa. Superior Ct. pp. 295-6 — that Mrs. Jaczyszyn’s tenant Copien attorned to Paslawski and since September 20, 1938 Paslawski has been collecting rent from him.
+Mrs. Jaczyszyn accordingly brought this action in ejectment. The jury rendered a verdict in her favor, on which judgment was entered. The defendant, Paslawski, appealed.
+The learned court below correctly instructed the jury that the plaintiff, Mrs. Jaczyszyn, was entitled to a verdict unless they should find that prior to the conveyance to her by Nikolai Borys she knew that the defendant Paslawski had a judgment on record against the Mr. Borys who was selling the property to her: The York Bank’s Appeal, 36 Pa. 458, 461; Coral Gables, Inc. v. Kerl, 334 Pa. 441, 443-4, 6 A. 2d 275.
+There was no evidence in the record that Nikolai Borys was ever known as, or called, Mikola Borys. The evidence was all to the contrary. The deed to him was in his proper name Nikolai Borys. It was so registered. The deed from him to Mrs. Halko was written as from Nikolai Borys as grantor, and the suit in equity for its cancellation, of which John Paslawski had full knowledge, was brought in the name of Nikolai Borys, his true and correct name. In fact, he had no other name. But because in writing his name in the Ukrainian script the N looked like our M, the clerk in entering and indexing the judgment, wrote the name as Mikola. The initial script M was the Ukrainian N. It was the duty of the plaintiff in the judgment, Paslawski, to see that it was correctly entered: Coyne v. Souther, 61 Pa. 455, 457; Heil & Lauer’s Appeal, 40 Pa. 453, 454; Wood v. Reynolds, 7 W. & S. 406, 407.
+There was no duty resting on Mrs. Jaczyszyn, or her attorney, to search the records for any other name than the one Borys was always called and known by, Nikolai Borys. There was no testimony, worthy of submission to a jury, that either Mrs. Jaczyszyn or her husband ever knew of his being called or known by any other name. None of the cases relied on by the appellant apply to the present state of facts.
+The evidence that Mrs. Jaczyszyn, or her husband, had any knowledge of Paslawski’s judgment against Borys, prior to the conveyance to her, was unconvincing and was denied by both of them. The learned trial judge in his opinion refusing a new trial, said: “The case was fully and fairly tried, and the verdict rendered meets with our entire approval, for it represents, in our judgment, the probable truth respecting the factual dispute in the case.”
+Our review of the evidence in the record leads us to the same conclusion.
+We are likewise in accord with the court’s ruling on the alleged after-discovered evidence as ground for a new trial: “The alleged after discovered evidence lacks the essential characteristics of such evidence, for neither is it ‘after discovered,’ nor are we satisfied, that it would or should, produce a different result on a second trial. The witness Borys, whose testimony is claimed to be after discovered, was the judgment debtor and owner of the property against which the judgment lien is here sought to be enforced. The defendant and his counsel knew of the existence of Ms testimony before the trial, and admittedly made efforts to subpoena him. Having failed to reach him with a subpoena the defendant voluntarily, and without any request for a contimiance because of his absence, went on with the trial. Thus he elected to take the chance of going to trial without evidence, of the existence of which he and his counsel were well aware, and he is therefore in no position to demand a retrial of the case on this ground.”
+The assignments of error are overruled and the judgment is affirmed.
+Ukrainian for Nicholas.
