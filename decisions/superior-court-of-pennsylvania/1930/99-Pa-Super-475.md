@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 150"
+decided: "1930-07-10"
+citations: ["99 Pa. Super. 475"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexlek, P. J., Keller, Linn, Gawthrop, Cunningham, Baldrige and Graff, JJ."]
+parties: ["Highway Advertising Company, Inc., Appellant, v. Philadelphia Development Corp."]
+source_url: "https://static.case.law/pa-super/99/cases/0475-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 688910
+cites_cases: ["98 Pa. Superior Ct. 274"]
+---
+
+# Highway Advertising Co. v. Philadelphia Development Corp.
+
+## Majority (Linn, J.,)
+
+Opinion by
+Linn, J.,
+At last October Term we affirmed judgment for $1,500 for want of a sufficient affidavit of defense in this case, a rule having been taken for judgment for that sum “on the ground that the affidavit was insufficient as to the said amount.” 98 Pa. Superior Ct. 274. When the record was returned the use-plaintiff took the present rule for judgment for the balance of the amount in suit, $1,785, contending that the judgment for $1,500 was an adjudication that defendant was in default and that an acceleration-of-payment clause in the contract operated to impose immediate liability for the balance claimed. The rule was discharged and this appeal followed.
+Plaintiff agreed to find locations for and to place 60 advertising signs at $2.50 each per month, for which defendant agreed to pay $3,600 in equal monthly installments of $150 for 24 months. Instead of merely agreeing that plaintiff must place all the signs before becoming entitled to any monthly payment, the parties provided for apportionment of the consideration by agreeing in the third paragraph that “a proportionate amount of the payment for the total number of locations may be billed and shall become payable as soon as any portion of said signs are erected.” The affidavit of defense admitted that 25 signs had been placed; accordingly, under the clause just quoted, defendant was obligated to pay monthly the sum of $2.50 for each of said signs. The sixth clause of the contract accelerated payments by providing “that upon failure ......to pay within 30 days any of the installments herein mentioned, the total accrued and unpaid balance shall become due and payable.” As defendant had not paid within 30 days, the first of the monthly installments of $2.50 for each sign erected, we held that clause 6 required it to pay at once the sum of the total of the 24 installments, which would otherwise have matured monthly.
+Plaintiff now contends, however, that, as the defendant agreed to pay $3,600 for 60 signs if erected, “in equal monthly installments of $150 for 24 months,” and as it defaulted in paying for the 25 signs erected, the acceleration clause quoted makes defendant liable forthwith for the total unpaid balance of the contract price of $3,600. But the averments of the affidavit make the contention inapplicable. It is there averred that a certain number of the sighs never were erected and that plaintiff disregarded defendant’s request to erect them. That averment is taken to be true for the purposes of disposing of this rule. Defendant has not agreed to pay for any signs that have not been erected, but only for those erected. The failure to pay within thirty days for signs erected brought into operation the acceleration clause as to the total amount payable for erected signs, and matured the sum of $1,500, as we held, but it did nothing more; it did not make immediately payable any part of the installments that would have become payable if the signs which were not erected had been erected; there is nothing in the contract to indicate such intention.
+Appellant contends that the words “the total accrued and unpaid balance shall immediately become due and payable” sustains its argument. If the consideration had not been apportioned, if the agreement had gone no further than to provide for 60 signs for $3,600 payable in 24 equal installments, no part would be payable, — i. e., payment would not “accrue,” — until all the signs were placed; but as that provision was modified by providing that defendant should pay for each sign as erected, without waiting for the erection of all, liability accrued to pay for each sign as it was erected.
+One of the accepted meanings of the word “accrue” is “to become due and payable” (1 Words and Phrases, First Series, 101, etc.) and we understand the parties to have employed the word in that sense. So construed, it has a direct and rational relation to the contract; it is easily conceivable that the parties intended that if defendant failed to pay monthly, it should forfeit its right to credit for any sign erected and should at once pay the entire rental for that sign but it can not have been intended, without more specific expression, that for thirty days’ failure to pay $2.50 if but one sign had been placed, plaintiff should immediately pay $3,600 though the other 59 signs were never erected, leaving defendant to its suit for damages to get back its over-payment and possible damages. Appellant reads into the contract words which are not there and which change the sense of what it plainly expressed; the words of the contract are “total accrued and unpaid balance” and not as appellant suggests “total accrued and unpaid balance,” of the con tract price of $3,600; the words, “of the contract price of $3,600” cannot be read into the contract, and without them, appellant’s argument fails.
+Order affirmed.
