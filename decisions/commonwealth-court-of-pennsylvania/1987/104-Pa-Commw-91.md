@@ -1,0 +1,96 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2630 C.D. 1983"
+decided: "1987-02-18"
+citations: ["104 Pa. Commw. 91", "521 A.2d 497"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail, Doyle and Colins, sitting as a panel of three."]
+parties: ["CRH Catering Co., Inc., a Pennsylvania Corporation, Petitioner v. Commonwealth of Pennsylvania, Respondent."]
+source_url: "https://static.case.law/pa-commw/104/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1356779
+cites_cases: ["126 N.H. 239", "128 N.H. 180", "20 Pa. Commonwealth Ct. 517", "214 A.2d 209", "279 A.2d 53", "298 Minn. 277", "342 A.2d 119", "384 Mass. 635", "384 U.S. 268", "419 Pa. 370", "429 N.E.2d 11", "444 Pa. 38", "468 Pa. 145", "47 Pa. D. & C. 2d 326", "490 A.2d 1354", "493 Pa. 480", "507 Pa. 317", "512 A.2d 411", "61 Pa. Code §31.28", "61 Pa. Code §49.1"]
+---
+
+# CRH Catering Co. v. Commonwealth
+
+## Majority (Judge Colins,)
+
+Opinion by
+Judge Colins,
+CRH Catering Co., Inc. (taxpayer), an owner/ operator of automatic vending machines, challenges an order of the Board of Finance and Revenue (Board) which sustained the decision of the Board of Appeals pursuant to an assessment issued by the Commonwealth of Pennsylvania, Department of Revenue (Commonwealth), for the payment of additional sales tax accruing during the audit period August 1, 1979, to January 31, 1982. The Commonwealths assessment included sales tax not remitted by taxpayer on reported sales of certain prepackaged food items dispensed by vending machine as well as a tax deficiency on admitted taxable sales resulting from taxpayers method of calculating its tax liability.
+In accordance with Pa. R.A.P. 1571(f), the taxpayer and the Commonwealth have entered into and filed a Partial Stipulation of Facts which we will accept and adopt as findings of fact for the purposes of this appeal. From those stipulations, and from our review of the evidence presented at a hearing on July 15, 1986, we make the following findings of fact:
+Findings of Fact
+1. Taxpayer is a Pennsylvania corporation engaged in the business of full line vending which includes industrial catering through the use of automatic vending machines.
+2. During the audit period at issue, taxpayer served to the general public, through vending machines, a variety of foodstuffs and beverages including, but not limited to: milk and other dairy products, ice tea, lemonade, assorted juices, assorted ice cream novelties, pastries and assorted fresh fruits.
+3. In order for a consumer to purchase the items in question as listed in Stipulation [No. 8] hereinafter set forth from the taxpayers vending machines, a consumer must place money into the vending machine prior to the machine dispensing said item.
+4. The food or beverage items dispensed from taxpayers vending machines are served in a readily consumable state.
+5. The Commonwealth treats all the sales from vending machines as taxable except sales such as sales of candy, chewing gum or sales at or from schools.
+6. A field audit of the taxpayers books and records was conducted by the [Commonwealth] for the period of August 1, 1979, to January 31, 1982, and an Assessment No. 61796 was mailed to the taxpayer on June 3, 1982. Said assessment was composed of the following:
+Sales Tax $74,877.54
+Use Tax 2,931.61
+Penalties 3,903.56
+Interest to 6/15/81 10,070.32
+TOTAL $91,783.03
+7. Taxpayer does not contest the use tax portion of the assessment.
+8. When taxpayer filed its sales tax report, it did not calculate tax to be due on ice cream, hot canned food (soup and chili),11 milk and juice. Taxpayer did not remit sales tax on the following sales:
+Items Sizes Amount of Gross Receipts
+Vz pint $ 83,387.38 Ice Cream
+3 to 7 oz. 110,989.25 Hot Canned Food11
+Vz pint 513,797.78 Milk
+6 or 12 oz. 189,234.44 Juice
+TOTAL SALES $897,411.85 (sic)
+Tax Rate 6% 6%
+TAX DUE $ 53,844.72
+(Taxpayer, without admission, calculates said “tax due” to be $50,796.90. See Stipulation [No. 15]).
+9. On July 22, 1982, the taxpayer filed a petition for review with the Board of Appeals. The Board of Appeals by decision dated February 25, 1983, sustained the assessment in its entirety.
+10. The taxpayer filed a petition for review with the Board of Finance and Revenue on April
+11. 1983. By decision dated August 23, 1983, the Board of Finance and Revenue sustained the action taken by the Board of Appeals.
+11. Taxpayer timely filed a petition for review with this Court on September 22, 1983.
+12. For the period in question, the taxpayer reported gross receipts from sales through said vending machines of $6,193,400.00.
+13. Each food or beverage item that is sold by the taxpayers vending machine is sold for more than 10 cents per item.
+14. Taxpayer was not assessed for non-taxable sales such as sales of candy, out-of-state sales, and sales at or from schools.
+15. The [Commonwealth] assessed a $21,032-.83 sales tax deficiency based on the taxpayers method of computing the tax due on admitted taxable sales. The taxpayers method of computing tax was to divide the admitted taxable gross receipts amount by 1.06 and to multiply the net quotient by the six percent sales tax rate. The auditor multiplied the total of the admitted taxable gross receipts amount by six percent. The difference in the two methods results in a difference in reported amounts of $21,032.83.
+16. Taxpayer remitted sales tax of $350,569.78 for the instant period based upon its calculation as described in Stipulation [No. 15] above.
+17. The assessment of tax on the sale of the items set forth in Stipulation [No. 11] above was made on the gross receipts from the sale thereof.
+18. All the machines which the taxpayer installs for its customers on its customers’ premises are owned by the taxpayer.
+19. None of taxpayer’s vending machines designated that the purchase price paid by the consumer included sales tax due and owing to the Commonwealth.
+Discussion
+Taxpayer challenges the Commonwealth’s assessment of sales tax upon retail sales of certain prepackaged food items from vending machines pursuant to Sections 202 and 204 of the Tax Reform Code of 1971 (Code), Act of March 4, 1971, P.L. 6, as amended, 72 P.S. §§7202(d), 7204(29), as violative of the Uniformity Clause of the Pennsylvania Constitution, Article VIII, Section I, as well as the equal protection clause of the Fourteenth Amendment, in that similar or identical products may be purchased in convenience stores without the assessment of sales tax. The items at issue are milk, juice and ice cream, individually packaged and dispensed in a readily consumable state. Secondarily, taxpayer challenges the Commonwealth’s method of calculating sales tax on vending machine receipts.
+We begin our inquiry with an examination of the relevant Code provisions. Section 202(d) of the Code provides:
+Notwithstanding any other provisions of this article, the sale or use of food and beverages dispensed by means of coin operated vending machines shall be taxed at the rate of six per cent of the receipts collected from any such machine which dispenses food and beverages heretofore taxable.
+72 P.S. §7202(d).
+Section 204 of the Code provides an exemption for the sale of food and beverages for human consumption but excludes from that exemption:
+(iii) Food and beverages . . . when purchased (i) from persons engaged in the business of catering, or (ii) from persons engaged in the business of operating restaurants, cafes, lunch counters, private and social clubs, taverns, dining cars, hotels and other eating places. (Emphasis supplied.)
+72 P.S. §7204(29).
+The statute appears to be a strong articulation of the legislative intent concerning the treatment of sales of food and beverages via vending machine. Moreover, the statute read in its entirety demonstrates a definite mandate to exclude the purchase of life’s necessities from the assessment of sales tax, unless they are purchased from “restaurants, cafes . . . and other eating places.” 72 PS. §7204(29). Under such circumstances, the purchase of food and beverages comprises a luxury subject to sales tax. The purchase of food and beverages from a grocery store or supermarket is not, of course, taxed.
+Taxpayer contends that the disparate treatment of similar or identical prepackaged food items afforded by the statutory scheme, dependent upon whether the consumer purchases these items from a vending machine or in a convenience store, imposes an arbitrary and thus unconstitutional classification. The taxpayer does not dispute that the Commonwealth assesses sales tax uniformly within each designated class. Taxpayer also contends that the nature of its merchandising operation precludes its designation as an “other eating place” within the meaning of Section 204 of the Code.
+The principles which govern the analysis of claims of non-uniform taxation are well-established. The legislature possesses wide discretion in matters of taxation. Leonard v. Thornburgh, 507 Pa. 317, 489 A.2d 1349 (1985); Aldine Apartments, Inc. v. Commonwealth, 493 Pa. 480, 426 A.2d 1118 (1981). The burden is upon the taxpayer to demonstrate that a classification made for purposes of taxation is unreasonable, Leonard, and that burden is a heavy one. Amidon v. Kane, 444 Pa. 38, 279 A.2d 53 (1971). Indeed, tax legislation will not be declared unconstitutional unless it “clearly, palpably, and plainly violates the Constitution.” Commonwealth v. Life Assurance Co. of Pa., 419 Pa. 370, 377, 214 A.2d 209, 214 (1965), appeal dismissed, 384 U.S. 268 (1966).
+Under the equal protection clause, and under the Uniformity Clause, absolute equality and uniformity in taxation are not required. Leonard. The applicable test where the validity of a classification for tax purposes is challenged is whether the classification is based upon some legitimate distinction between the classes that provides a non-arbitrary, reasonable and just basis for the difference in treatment. Aldine Apartments. “Stated alternatively, the focus of judicial review is upon whether there can be discerned ‘some concrete justification for treating the relevant group of taxpayers as members of distinguishable classes subject to different tax burdens.” Leonard, 507 Pa. at 321, 489 A.2d at 1352, citing Columbia Gas Corp. v. Commonwealth, 468 Pa. 145, 150-53, 360 A.2d 592, 595-97 (1976). Where no legitimate distinction exists between the classes, the tax scheme imposes substantially unequal tax burdens upon persons otherwise similarly situated, and is unconstitutional. Leonard.
+Applying these principles to the instant case, we find the tax scheme in question meets constitutional requirements for there exists the requisite basis for classifying vending machines as “other eating places” subject to an assessment of sales tax. We distinguish these sales from sales in a convenience store so as to constitutionally subject same to different tax burdens. The distinction rests not upon the identity of the items but upon the method of merchandising. We reject the taxpayers argument that merely because vending machines and convenience stores sell some of the same products, they are necessarily members of the same class for taxation purposes.
+We cite with approval the test formulated by the Supreme Court of Minnesota in Associated Food Services, Inc. v. Commissioner of Taxation, 298 Minn. 277, 216 N.W.2d 253 (1974). The Supreme Court there considered whether a vending machine, in its method of merchandising and the consumer market it services, bears greater resemblance to a grocery store or restaurant, and concluded that a vending machine was more like a restaurant. Accord The Seitler Corp. v. Commissioner of Revenue, 384 Mass. 635, 429 N.E.2d 11 (1981).
+Unfortunately, the Code does not define “other eating places.” The pertinent regulations do provide some guidance and “other eating place” is therein defined as:
+Any establishment or premises where food or beverages are prepared and sold, primarily for consumption on the premises, including, but not limited to, a grill, vending machine, cafeteria, automat, soda fountain, refreshment stand, saloon, buffet, lunchroom, snack bar, employers cafeteria lunchroom, hospital cafeteria, and any place required to be licensed by a state or local health agency as a public eating or drinking place.
+61 Pa. Code §49.1(a).
+The Commonwealth, pursuant to its statutory authority, has thus promulgated a regulation which in effect says that vending machines are more like restaurants than grocery stores.
+In its characteristic method of merchandising, taxpayer provides a bank of vending machines in locations not limited to industrial facilities, universities and sports centers. The vending machines are self-service, mechanical or electronic devices which, upon insertion of a coin or coins, dispense the particular item selected by the purchaser. In these locations, taxpayer may also provide microwave ovens, bill changing machines, plasticware, cups and napkins. Tables and chairs may be provided by taxpayer or the particular facility. Taxpayer maintains and repairs its machines and may provide attendants to assist consumers. In one instance of record, taxpayer assumed the full cost of vending area decor. Such locations and services permit the inference that the machines are situated so as to supply consumers with immediate refreshment in places of employment, educational institutions or the like. Their competitors are more likely to be restaurants, coffee shops or snack bars, than grocery stores. See Associated Foods.
+Taxpayer contends that it operates thousands of machines in locations without eating facilities and that this fact precludes its categorization as an “other eating place.” The fact that taxpayer may not provide tables, chairs or other eating facilities does not remove it from taxation. Munsch Limited v. Board of Finance and Revenue, 47 Pa. D. & C. 2d 326 (1969) (a lunchwagon delivering prepared food to construction sites, office buildings and factories was in effect a mobile restaurant and subject to tax as “other eating place” despite the fact that purchases were solely for off premises consumption), cited with approval in Rossi v. Common wealth, 20 Pa. Commonwealth Ct. 517, 342 A.2d 119 (1975) (Munsch distinguished and the sale of boxed pizza for off premises consumption not subject to sales tax.)
+Taxpayer relies on In Re: Twisteroo Soft Pretzel Bakeries, Inc., 21 Bankruptcy 665 (1982), Cagan's Inc. v. New Hampshire Department of Revenue, 126 N.H. 239, 490 A.2d 1354 (1985), appeal after remand, 128 N.H. 180, 512 A.2d 411 (1986), and Rossi in support of its insistence that it cannot be an “other eating place.” None of these cases persuades us that taxpayer, in its method of merchandising and its consumer base, cannot fairly fall within that classification.
+Lines must be drawn in making tax classifications. As we indicated, absolute equality and uniformity in taxation are not required. We find sales of food items from vending machines and convenience stores sufficiently distinct so as to justify the disparate tax treatment imposed by the pertinent Code provisions. While vending machines and convenience stores do indeed sell some of the same products, this factor alone does not necessarily make them of the same class for tax purposes. See Associated Foods.
+We reject the taxpayers contention that the Commonwealths method of taxing vending machine receipts imposes double taxation on these sales. The Commonwealth assessed a six per cent tax on reported gross receipts by multiplying reported gross receipts by six per cent, a computation which adheres to the clear language of Section 202(d) of the Code. Such a computation is further supported by the pertinent regulation at 61 Pa. Code §31.28 which provides that the vendor pay sales tax on the sale of food and beverages dispensed by vending machine “at the rate of six per cent of the gross receipts collected from the machine. . . . [I]f the receipts from a machine totalled $100, the amount of tax that would be remitted to the Commonwealth by the vendor would be $6.00.”
+The taxpayer argues that the gross receipts collected from its machines amounted to the cost of the item plus the sales tax. Were there sufficient evidence of record to support that contention, we might be inclined to a different interpretation. We do not find taxpayers testimony that it intended the gross receipts to include sales tax to suffice, absent other record evidence. There is no indication on the record that the vending machines inform the consumer via printed message that the purchase price includes sales tax due and owing to the Commonwealth.
+Conclusions of Law
+1. Taxpayer has not met its burden of proving that Sections 202 and 204 of the Code unconstitutionally impose sales tax upon vending machine sales of ice cream, milk and juice although these same items are not taxed when purchased from a convenience store. The taxpayer is thus not relieved of its sales tax liability on these items.
+2. Taxpayer has not met its burden of proving on this record that the Commonwealths method of calculating sales tax due and owing on admitted vending machine sales imposes double taxation.
+3. The Commonwealths method of computing sales tax on vending machine sales by multiplying admitted gross receipts by six per cent tax complied with pertinent statutory provisions and regulations and was at all times correct.
+4. Sales tax was properly assessed by the Commonwealth against taxpayer for the audit period at issue in the amount of $74,877.54, together with a penalty of $3,903.56.
+5. The above sales tax assessment properly included a $21,032.83 sales tax deficiency attributable to taxpayers erroneous method of calculating its tax liability.
+Order
+And Now, February 18, 1987, the order of the Board of Finance and Revenue, dated August 23, 1983, in the above-captioned matter, is affirmed. Unless exceptions are filed pursuant to the provisions of Pa. R. A.P. No. 1571, the Chief Clerk shall, on praecipe, enter judgment for the Commonwealth of Pennsylvania in the amount of $81,712.71 with interest as provided by law. Stenographic costs incurred for the hearing on July 15, 1986, to be paid by petitioner.
+The assessment also included $3,903.56 in penalties imposed by virtue of the feet that taxpayer had been the subject of a prior sales and use tax audit involving the same questions now before this Court. Taxpayer has not raised the issue of the assessment of penalties in its Petition for Review before this Court and we consider this matter to be waived.
+We adopt only those stipulations agreed upon by the parties which we find crucial to our determination.
+At oral argument before a panel of this Court on November 17, 1986, taxpayer waived objection to the Commonwealths assessment of sales tax on items of hot canned food.
+See footnote 3.
+The Uniformity Clause provides that “[a]ll taxes shall be uniform, upon the same class of subjects, within the territorial limits of the authority levying the tax, and shall be levied and collected under general laws.”
