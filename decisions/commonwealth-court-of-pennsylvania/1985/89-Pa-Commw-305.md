@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 3458 C.D. 1983"
+decided: "1985-05-16"
+citations: ["89 Pa. Commw. 305"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogers, MacPhail and Palladino, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania v. One 1981 Volvo Coupe Manufacturer’s No. YV1AX4728B1199644. Joey M. Scotten, Owner, Appellant."]
+source_url: "https://static.case.law/pa-commw/89/cases/0305-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1330211
+cites_cases: ["240 Pa. Superior Ct. 458", "245 Pa. Superior Ct. 303", "263 A.2d 886", "362 A.2d 999", "408 A.2d 157", "437 Pa. 326", "452 A.2d 603", "46 Pa. Commonwealth Ct. 189", "70 Pa. Commonwealth Ct. 81"]
+---
+
+# Commonwealth v. One 1981 Volvo Coupe Manufacturer's No. YV1AX4728B1199644
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+Joey Scotten, who owned a 1981 Volvo Coupe automobile, appeals from an order of the Court of Common. Pleas of Montgomery County directing the forfeiture of the vehicle under Section 28 of the Controlled Substance, Drug, Device and Cosmetic Act (Act), Act of April 14, 1972, P.L. 233, as amended, 35 P.S. §780-128. Section 28 of the Act provides in part:
+(a) The following shall be subject to forfeiture to the Commonwealth and no property right shall exist in them:
+(4) All conveyances, including aircrafts, vehicles, or vessels, which are used or intended for use, to transport, or in any manner to facilitate the transportation, sale, receipt, possession or concealment of . . . [all controlled substances or other drugs manufactured, dispensed or acquired in violation of the Act or raw materials, equipment and products used or intended •for use in manufacturing a controlled substance]. (Emphasis supplied.)
+On July 13, 1983, a Cheltenham Township detective and a confidential informant met with the appellant, who was suspected of dealing in controlled substances, at a restaurant in the Cheltenham Square Shopping Center for the purpose of purchasing cocaine from the appellant. The informant and the appellant spoke briefly and the latter then left the restaurant on foot promising to return soon. The appellant left the shopping center, crossed a public street and disappeared from view. He returned to the shopping center five minutes later driving the Volvo Coupe which is the subject of this appeal. The appellant parked the car, entered the restaurant and delivered a small package of white powder, later determined to be cocaine, to the detective. After a struggle, during which the appellant swallowed three other packets of cocaine, he was subdued and placed under arrest.
+The Office of the Attorney General obtained possession of the antomobile and filed a petition for forfeiture. The court of common pleas, following a hearing, granted the prayer of the Commonwealth’s petition.
+The appellant first contends that the hearing judge erred in not sustaining his objections to the petition for forfeiture because the Commonwealth did not meet its burden of proving that he used his automobile to deliver or facilitate the sale of a controlled substance. He cites One 1978 Porsche Coupe v. Commonwealth, 70 Pa. Commonwealth Ct. 81, 452 A.2d 603 (1982); One 1965 Buick 4-Door Sedan v. Commonwealth, 46 Pa. Commonwealth Ct. 189, 408 A.2d 157 (1979); and Commonwealth v. One 1971 Ford Ltd., 245 Pa. Superior Ct. 303, 369 A.2d 414 (1976), cases in which forfeiture was upheld where the sale and delivery of a controlled substance occurred in or from a motor vehicle, as authority for his argument that forfeiture cannot occur unless the sale or delivery of the controlled substance actually takes place in the automobile. He argues that the use of an automobile merely for the purpose of traveling to the scene of a delivery is not sufficient to support the forfeiture. This argument, of course, is plainly contrary to the words of Section 28(a)(4) of the Act, 35 P.S. §780-128(a) (4), which provides for the forfeiture of all vehicles “which are used ... to transport or in any manner to facilitate the transportation, sale ... or receipt” of a controlled substance. As we shall explain, there is ample evidence in this case that the Volvo was used to transport or facilitate the delivery.
+Judge Sidney Hoeeman of the Superior Court of Pennsylvania has provided a scholarly exegesis of forfeiture with specific reference to the Controlled Substance, Drug, Device and Cosmetic Act in the case of Commonwealth v. Landy, 240 Pa. Superior Ct. 458, 362 A.2d 999 (1976). He there observes that forfeiture proceedings, although quasi-criminal in nature, are civil in form; they are not criminal proceedings so as to require the full panoply of rights due a criminal defendant. On issues of evidence,' such proceedings should be treated as civil proceedings with the Commonwealth having the burden of proving the material allegations by a preponderance of the evidence only. Hence, the question is whether the Commonwealth established by a preponderance of the evidence that the appellant used his automobile .to “transport or facilitate the transportation or sale” of a controlled substance. The evidence was that the appellant agreed to meet with an undercover police detective and an informant at a restaurant in the Cheltenham Square Mall to arrange a sale of cocaine; that he arrived at the restaurant on foot; that, after observing the situation there, he left the mall on foot; that he later returned driving the Volvo Coupe; and that he then delivered the controlled substance. The inference that the appellant did not have drugs when he came to the restaurant on foot, that he left the restaurant on foot without the drugs and that he returned in his automobile with the drugs, supports the conclusion that the Volvo was used to make or facilitate the delivery.
+The appellant next contends that the prayer of the Commonwealth’s petition for forfeiture should have been refused because the Commonwealth did not obtain a warrant before seizing his car.
+Section 28(b)(4) of the Act, 35 P.S. §780-128(b), authorizes the seizure of property subject to forfeiture without process if:
+There is probable cause to believe that the property has been used or is intended to be used in violation of the act.
+Probable cause exists when the facts and circumstances within an officer’s knowledge are such as warrant the belief that a crime has been committed. Commonwealth v. Murray, 437 Pa. 326, 263 A.2d 886 (1970). In this case, as demonstrated by the evidence described above, the authorities clearly had probable cause to believe that the appellant’s automobile was used to transport and deliver a controlled substance in violation of the Act.
+Order affirmed.
+Order
+And Now, this 16th day of May, 1985, the order of the Court of Common Pleas of Montgomery County in the above-described matter is affirmed.
+It is not clear from the record when the appellant’s automobile was seized. The Commonwealth in its petition for forfeiture, alleged that the appellant;’,s automobile was seized moments after the appellant was arrested on July 13, 1983. The appellant, by Answer and New Matter, denied the allegation. At the hearing, the Commonwealth adduced no evidence as to when the appellant’s automobile was seized. It clearly was in the custody of the Office of the Attorney General when the petition for forfeiture was filed.
