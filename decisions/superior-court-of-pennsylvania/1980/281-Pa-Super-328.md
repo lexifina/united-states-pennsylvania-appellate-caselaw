@@ -1,0 +1,48 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1499"
+decided: "1980-10-31"
+citations: ["281 Pa. Super. 328", "422 A.2d 193"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before SPAETH, SUGERMAN and STRANAHAN, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania, v. Jerome MONROE, Appellant."]
+source_url: "https://static.case.law/pa-super/281/cases/0328-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 152734
+cites_cases: ["248 Pa.Super. 564", "253 Pa.Super. 279", "259 Pa.Super. 204", "263 Pa.Super. 206", "263 Pa.Super. 512", "484 Pa. 476"]
+---
+
+# Commonwealth v. Monroe
+
+## Majority (STRANAHAN, Judge:)
+
+STRANAHAN, Judge:
+On February 15, 1978, appellant was convicted, after a non-jury trial, of aggravated assault (18 Pa.C.S. 2702), possessing instruments of crime (18 Pa.C.S. 907(a)), possessing a concealed weapon (18 Pa.C.S. 907(b)), and carrying firearms on public street or public property in Philadelphia (18 Pa. C.S. 6108). The two possession offenses are contained in the same term and number. All charges arose from the September 28, 1977 shooting of Thomas Hickman in the 1700 block of Point Breeze Avenue, a public street in Philadelphia.
+Post trial motions seeking arrest of judgment and/or a new trial were filed by appellant and denied by the trial court.
+Appellant was sentenced to a term of one to four years imprisonment for aggravated assault and four years probation for the two possession charges. The sentence for carrying firearms was suspended. All sentences were concurrent.
+Appellant filed a timely appeal from Judgment of Sentence. On May 2, 1978, the trial court entered an order pursuant to Pa.R.App.P. 1925(b) requiring appellant to submit a precise statement of matters complained of on appeal. Appellant did not comply with the court’s order.
+Appellant contends that the evidence was insufficient to support the verdicts and that the verdicts were against the weight of the evidence. Each claim will be considered in turn.
+SUFFICIENCY OF THE EVIDENCE:
+In Commonwealth v. Madison, 263 Pa.Super. 206, 209—210, 397 A.2d 818, 820 (1979), this court delineated the standard applied in testing the sufficiency of the evidence as follows:
+First, we accept as true all of the evidence upon which the finder of fact could properly have reached its verdict. Next, we give the Commonwealth the benefit of all reasonable inferences arising from that evidence. And finally, we ask whether the evidence, and the inferences arising from it, are sufficient in law to prove beyond a reasonable doubt that the defendant is guilty of the crime or crimes of which he has been convicted. (Citations omitted.)
+The facts, viewed in light of the above standard, reveal that the victim, Thomas Hickman, was walking south on Point Breeze Avenue, a public street in Philadelphia, between 8:30 p. m. and 9:00 p. m. on September 28, 1977. He encountered appellant, Jerome Monroe, with whom he had been acquainted for approximately ten years. About a week earlier, the two men had a disagreement over a numbers bet. Upon meeting, they exchanged greetings, shook hands and walked together for a short distance. The victim testified that appellant then dropped back a step and shot him twice in the back. The victim did not see the first shot fired, but felt blood trickle down his back after the shot was fired. He then turned his head and upper torso and saw appellant shoot him again. The victim specifically stated that he saw appellant holding the gun in his hand. Prior to the firing of the second shot, the victim made no mention of seeing a gun, although he had walked and conversed with appellant. Appellant fled the scene after the shooting.
+Joyce Hickman, the victim’s wife, testified that appellant, who was her cousin, telephoned her at about 11:00 p. m. the night of the shooting. Appellant told Mrs. Hickman that he had shot her husband twice in the arm and that her husband had been taken to St. Agnes Hospital. Mrs. Hickman was taken to the hospital where she encountered her husband.
+Mr. Hickman was hospitalized from the date of the shooting to October 9, 1977. The two bullets were not removed from his body.
+The offense of aggravated assault, as it relates to the case, is defined as follows:
+Section 2702, Aggravated Assault (a) Offense defined-A person is guilty of aggravated assault if he: (1) Attempts to cause serious bodily injury to another, or causes such injury intentionally, knowingly or recklessly under circumstances manifesting extreme indifference to the value of human life.
+In light of the testimony of the victim and his wife, appellant’s conduct clearly falls within the ambit of the aggravated assault statute. The Commonwealth’s evidence and inferences therefrom indicate that appellant shot the victim twice in the back at very short range, obviously an attempt to cause or actual causation of serious bodily injury. Appellant maintains that the evidence was insufficient because of alleged prior inconsistent statements made by the victim, Mr. Hickman, and his wife. This argument does not relate to the sufficiency of the evidence, but rather the evaluation of the evidence by the fact finder. Commonwealth v. Johnson, 263 Pa.Super. 512, 398 A.2d 694 (1979).
+Possessing instruments of crime is defined as follows: Section 907. Possessing instruments of crime, (a) Criminal instruments generally-A person commits a misdemeanor of the first degree if he possesses any instrument of crime with intent to employ it criminally (b) Possession of weapon-A person commits a misdemeanor of the first degree if he possesses a firearm or other weapon concealed upon his person with intent to employ it criminally.
+Appellant was convicted of both subsections of the above statute. Again, the evidence supporting the guilty verdicts is based primarily on the victim’s testimony. Mr. Hickman stated that he observed the firearm in appellant’s hand as the second shot was being fired. A handgun is clearly an instrument of crime as defined in subsection (a). Commonwealth v. Smith, 253 Pa.Super. 279, 384 A.2d 1343 (1978). While there is no direct evidence that appellant concealed the weapon on his person, as per subsection (b), it can reasonably be inferred from the victim’s testimony. Mr. Hickman met the appellant, shook hands with him and conversed. They walked down the street together. Prior to the firing of the second shot, there is no evidence that Mr. Hickman saw a firearm. The shooting followed very closely upon the heels of the conversation between appellant and his victim. From the circumstances, it can reasonably be inferred that appellant possessed the firearm concealed on his person immediately prior to the shooting.
+Finally, appellant was convicted of carrying firearms on public streets or public property in Philadelphia which states as follows:
+Section 6108 Carrying Firearms on Public Streets or Public Property in Philadelphia. No person shall carry a firearm.... at any time upon the public street. ... in a city of the first class unless: (1) such person is licensed to carry a firearm; or (2) such person is exempt from licensing under section 6106(b) of this title.
+Mr. Hickman’s testimony is sufficient to prove appellant guilty of this offense. The shooting occurred on Point Breeze Avenue, a public street in Philadelphia. The Commonwealth is not required to prove non-licensure. Commonwealth v. Poindexter, 248 Pa.Super. 564, 375 A.2d 384 (1977); Commonwealth v. Bigelow, 484 Pa. 476, 399 A.2d 392 (1979).
+WEIGHT OF THE EVIDENCE:
+Appellant further contends that all of the guilty verdicts were against the weight of the evidence.
+At trial, appellant denied shooting the victim and alleged that an unidentified third party was responsible. Two friends of appellant, Reginald Rollins and Lonnie Powell also testified on his behalf. Both men were across the street in front of a bar when the shooting occurred. Mr. Rollins reported hearing three shots while Mr. Powell heard two. Neither claimed to have seen the shooting, or any smoke or gun flash. Both men testified that an unidentified third person came around the corner at about the same time as the incident and got into a car which drove away. Appellant points to alleged prior inconsistent statements from both the victim and his wife which, he asserts, render their testimony incredible. He further notes that there was no direct evidence that the weapon was concealed.
+As noted above, the victim positively identified appellant as the person responsible for the shooting and observed appellant holding the firearm in his hand. The victim’s wife testified that appellant, her cousin, confessed to her.
+The trial court, in evaluating the evidence, passed upon the credibility of the appellant’s witnesses, resolved the alleged conflicts in testimony, and determined that the offenses charged were supported by the weight of the evidence. Absent an abuse of discretion in fulfilling this function, the trier of the fact findings will not be disturbed by appellate review. Commonwealth v. Johnson, 263 Pa.Super. 512, 398 A.2d 694 (1979).
+No such abuse of discretion is evident in this case.
+The judgment of sentence is affirmed.
+. Appellant’s failure to comply with Pa.R.App.P. 1925(b) could constitute a waiver of all objections to the order appealed from. However, in this case, since this Court is able to adequately review the record as submitted, the issue raised should not be considered waived. Commonwealth v. Crowley, 259 Pa.Super. 204, 393 A.2d 789 (1978).
