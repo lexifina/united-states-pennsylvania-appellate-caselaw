@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 517"
+decided: "1935-01-04"
+citations: ["116 Pa. Super. 64"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Cunningham, Baldrige, Stadteeld, Parker and James, JJ."]
+parties: ["Stoll et al. v. Boyle (Casserly, Appellant)."]
+source_url: "https://static.case.law/pa-super/116/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 979588
+cites_cases: ["101 Pa. Superior Ct. 278", "113 A. 417", "12 Pa. Superior Ct. 195", "154 Pa. 100", "20 Pa. Superior Ct. 605", "253 Pa. 232", "26 A. 253", "270 Pa. 407", "75 Pa. Superior Ct. 404", "83 Pa. Superior Ct. 238", "91 Pa. Superior Ct. 136", "92 Pa. 50"]
+---
+
+# Stoll v. Boyle
+
+## Majority (Trexler, P. J.,)
+
+Opinion by
+Trexler, P. J.,
+The parties are the heirs at law of Herman C. Ordeman and Thomas Casserly, the devisee under his will, both claiming the proceeds of an insurance certificate which was issued to Ordeman. The case was tried without a jury and an award made in favor of the heirs at law. Casserly appealed.
+Ordeman was a member in good standing of the Police Beneficiary Association of Philadelphia and had a certificate providing for the payment of $2,000 upon his death to the beneficiary designated by him in accordance with the charter and by-laws of the association. The association reinsured him, and others holding certificates, in the Prudential Insurance Company under a group policy. The latter company issued a certificate wherein it agreed to pay to the beneficiary or to his heirs the amount due at the death of the insured in accordance with the by-laws of the police association. The certificate provided that if there be no beneficiary living at the death of the member, the amount of the insurance was to be paid to such beneficiary as was designated by the association. It also provided that the beneficiary could be changed by written notice from the association to the company, but no change should be made unless in accordance with the charter and by-laws of the association. Such change should take effect if due acknowledgment thereof ivas furnished by the company to such person insured. The beneficiary named by Ordeman was his wife. She died before he died. He made a will, which was admitted to probate in which he used the following words: “My police insurance to Thomas Casserly.” No notice of the making of the will, nor of its contents was given to the association during the life of the insured ; it knew nothing of its existence until his death. By agreement of the parties the sum of $2,000, the amount involved was paid into court. An issue was awarded in'which Kathryn O. Stoll and Thomas Ordeman, the claimants to the fund as heirs at law were made plaintiffs and Casserly, the person mentioned in the will, as defendant, and with him the executor of the estate of Ordeman was joined. There seems to be no question that the words, “My police insurance to Thomas Casserly,” were testamentary in character. The designation of a beneficiary in an instrument testamentary in its character cannot- be recognized when the regulation of the society prescribed a different mode of changing the beneficiary. See Vollman’s Appeal, 92 Pa. 50, Hunter v. Fireman’s Assn., 20 Pa. Superior Ct. 605; Bell v. Police Bene. Assn., 270 Pa. 407, 113 A. 417; and Coffey v. The Maccabees, 91 Pa. Superior Ct. 136.
+The appellant, Casserly cites Masonic Aid Assn. v. Jones, 154 Pa. 100, 26 A. 253, as lending support to his argument, but in that ease the certificate specifically provided that it should be payable “to the devisees, or if no will to the heirs” of the insured. In the case of Thomeuf v. Knights of Birmingham, 12 Pa. Superior Ct. 195, there was a change of beneficiary by will, but there the instrument in question was forwarded to the society on the day of its execution, filed among its records and the change of beneficiary noted on the books thereof. Bice, P. J., took occasion to state that the decision was based upon the fact that the paper on the day it was executed was forwarded to the secretary of the lodge. “If he had retained it in his possession until his death, an entirely different question would be presented. The appointment was then complete and never revoked.” In the instant case, as already, stated above, the instrument was held until after the death of the insured. ‘ ‘ The holder of a policy of life insurance who desires to change the beneficiary can do so only in accordance with the terms of the policy: see Kress v. Kress, 75 Pa. Superior Ct. 404; Herrod v. Kimbrough, 83 Pa. Superior Ct. 238 and Grant v. Faires, 253 Pa. 232.” Shoemaker v. Sun Life Ins. Co., 101 Pa. Superior Ct. 278, 281. In Herrod v. Kimbrough, supra, this court held: “Where a method has been prescribed by an insurance company, by which the benficiary under a policy may be changed without the consent of the beneficiary, such method must be followed exactly to bring about an actual'and completed substitution of the beneficiary.”
+The learned judge of the lower court discusses the question as to whether, if a designation by will could be considered, there was sufficient identity of the fund by the words employed. In view of what has been said above we do not think that any further reference need be made to this feature of the case.
+We are all of the opinion that the lower court decided the case properly. The judgment is affirmed.
