@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 1"
+decided: "1921-07-14"
+citations: ["77 Pa. Super. 308"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Or-lady, P. J., Porter, Henderson, Trexler, Keller and Linn, JJ."]
+parties: ["York Haven Water & Power Co., Appellant, v. School District of the Township of Londonderry."]
+source_url: "https://static.case.law/pa-super/77/cases/0308-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 648329
+cites_cases: ["142 Pa. 92", "191 Pa. 170", "222 Pa. 319", "252 Pa. 149", "30 Pa. 232", "34 Pa. Superior Ct. 234", "38 Pa. Superior Ct. 640", "44 Pa. Superior Ct. 293", "51 Pa. Superior Ct. 158", "53 Pa. Superior Ct. 458", "63 Pa. Superior Ct. 64"]
+---
+
+# York Haven Water & Power Co. v. School District
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+A bill in equity filed by the plaintiff, the water company, asked for an injunction restraining the School District of the Township of Londonderry, from collecting tax upon certain land belonging to the plaintiff, consisting of three islands in the Susquehanna River. The plaintiff in the exercise of its chartered rights erected a dam in the Susquehanna River, and in doing so, backed up the water of the river and caused the banks of the islands to be flooded. In order to avoid damage suits, the corporate officers deemed it best to buy the entire islands. They now claim that the three islands are exempt from taxation, because as stated in the bill, they were purchased solely for the purpose of enabling the corporation to perform its public duties and are necessary for that purpose. Two of the islands in question are very small, and are assessed at $100 each. The largest known as Duffy’s contains over 400 acres of lánd and was assessed at $28,000. The island is occupied and tilled as farm land. The plaintiff is a quasi public corporation, and the real estate essential to the exercise of its corporate functions is not subject to local taxation in the absence of legislative authority imposing such taxes; Conoy Twp. v. York Haven Co., 222 Pa. 319. The power to tax necessarily includes the power to sell for nonpayment of taxes, and thus the property of a public corporation without which it could not perform its duties to the public could be sold piecemeal, and the corporate purpose be defeated by divesting the title to certain portions of the real estate. Idem.
+The test to be applied is whether the land in question is necessary, essential, and indispensable to the plaintiff, in the exercise and performance of its franchises and public duties: Pittsburgh, A. & M. Ry. Co. v. Stowe Twp., 252 Pa. 149; Pittsburgh v. Consolidated Gas Co., 34 Pa. Superior Ct. 234; Phillips Co. v. Butler County, 51 Pa. Superior Ct. 158; Luzerne Co. Gas & E. Co. v. Morgan, 63 Pa. Superior Ct. 64; Southern Electric L. & P. Co. v. Phila., 191 Pa. 170. The court below has answered this question in the negative except as to twenty acres of land, and if the finding be supported by evidence we should not change it. The whole of Duffy’s Island is not required for the purposes of the plaintiff. As stated before, it is cultivated. There are farm buildings erected thereon and a school house for the accommodation of the children. If the corporation deemed it wise to buy the whole, in order to avoid paying an exorbitant price for a part, that does not fix the character of the entire island as essential to the purposes of the corporation. If the building of the dam has raised the water so as to decrease the area of the land, certainly that would reduce the area, and pro tanto the assessment. That the island by reason of the construction of plaintiff’s dam would be liable to some extent to the overflow of the waters of the river might seriously affect the market value of the island, but it would not exempt it from taxation.
+There is no testimony to support the assertion that the island is an essential element in the prosecution of plaintiff’s business. For the same reason that led the corporation to buy the entire island, it might be constrained to buy large farms fronting on the river, but that would not change the character of all the land bought and make it corporate property under our tax laws. The islands could be sold and all the rights of the corporation to maintain its dam with entire freedom from any suits for damages arising therefrom be reserved and the corporate functions could be exercised without the ownership of the island.
+It must not be forgotten in this inquiry, we are limited to the question whether the islands or any part of them, are exempt from taxation? We are not concerned as to the amount of the assessment so far as just value is concerned, although of course, a reduction of the area subject to tax would necessarily ultimately reduce the amount of the assessment. The lower court sitting as a chancellor allowed a reduction of twenty acres evidently intending that amount to cover the land occupied by the dam, wing walls and area liable to frequent flooding. Whether the court was able to do this with any definiteness under the evidence presented, or whether this action was proper in the present proceeding, we need not inquire as the appellant was not harmed but benefited thereby.
+The decree of the lower court is affirmed. Costs to be paid by the appellant.
