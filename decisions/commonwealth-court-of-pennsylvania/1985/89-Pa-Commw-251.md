@@ -1,0 +1,64 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 687 C.D. 1984"
+decided: "1985-05-13"
+citations: ["89 Pa. Commw. 251"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogers, MacPhail and Doyle, sitting as a panel of three.", "Judge Williams, Jr., did not participate in the decision in this case."]
+parties: ["Iceland Products, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/89/cases/0251-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1330188
+cites_cases: ["172 A.2d 807", "207 Pa. Superior Ct. 506", "218 A.2d 847", "35 Pa. Code §65.94", "37 Pa. Commonwealth Ct. 458", "390 A.2d 886", "404 Pa. 527", "423 A.2d 458", "451 A.2d 1059", "477 A.2d 900", "55 Pa. Commonwealth Ct. 215", "69 Pa. Commonwealth Ct. 537", "83 Pa. Commonwealth Ct. 447"]
+---
+
+# Iceland Products v. Commonwealth, Unemployment Compensation Board of Review
+
+## Majority (Judge Doyle,)
+
+Opinion by
+Judge Doyle,
+Iceland Products (Employer) appeals the grant of unemployment compensation benefits to thirty-five of its employees by the Unemployment Compensation Board of Review (Board). Because all thirty-five cases involve the same issue, they have been consolidated in a single appeal pursuant to Rule 512 of the Pennsylvania Rules of Appellate Procedure.
+Employer does not contest any of the referee’s findings of fact. All employees involved in this appeal were members of the United Steel Workers Association, Local No. 6156. The terms and conditions of their employment during the time period concerned were governed by a collective bargaining agreement between the union and the Employer with an effective date of February 21, 1983. Pursuant to this agreement, employees were entitled to between five and twenty-five days of paid vacation per year, depending upon their years of service with the company. Eligibility for vacation was conditioned on a requirement that each employee must have worked a minimum of 1500 hours during the previous year. Vacations were permitted to be scheduled at any time throughout the calendar year, pursuant to Employer’s approval. Employer reserved the option under the agreement to annually shut down all or part of the plant for a period up to two weeks for vacation purposes, provided thirty days notice was given to employees. On May 17, 1983, Employer posted notice on the company bulletin board that the plant would be closed from June 20 through July 1, 1983, for vacation and maintenance. On May 18, Employer posted another notice informing employees that they did not have to schedule their vacation during the shutdown, but if they had vacation days available and elected not to use them, they would be ineligible for unemployment compensation benefits during the two week shutdown.
+Employees who applied for and received unemployment compensation benefits during the shutdown fell into three categories: 1) those who had not yet accumulated any vacation time, 2) those who had already used up all their available vacation time, and 3) those who had available vacation time but chose to save it for use later in the year. Employer is apparently contesting only the receipt of benefits by the third category of employees, on the basis that these people were “unemployed” through their own fault since they could have received vacation pay during the shutdown had they requested it.
+The initial burden of proving eligibility for benefits falls upon an employee. Schuster v. Unemployment Compensation Board of Review, 69 Pa. Commonwealth Ct. 537, 451 A.2d 1059 (1982). In the instant case, this means that the employees must show that the shutdown period was improperly designated by the employer as vacation time, and that the employees were in fact unemployed during the shutdown period. Our scope of review in an unemployment compensation case where, as here, the party with the burden of proof has prevailed before the Board is limited to a determination of whether an error of law was committed or a necessary finding of fact is not supported by substantial evidence in the record. Huyett v. Unemployment Compensation Board of Review, 83 Pa. Commonwealth Ct. 447, 477 A.2d 900 (1984).
+Section 4(u) of the Unemployment Compensation Law (Law), Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §753(u), provides in pertinent part:
+[A]n employe who is unemployed during a plant shutdown for vacation purposes shall not be deemed ineligible for compensation merely by reason of the fact that he or his collective bargaining agents agreed to the vacation.
+No employe shall be deemed eligible for compensation during a plant shutdown for vacation who receives directly or indirectly any funds from the employer as vacation allowance.
+Section 404(d) (ii) of the Law, 43 P.S. §804(d) (ii), provides in pertinent part:
+(d) Notwithstanding any other provisions of this section each eligible employe who is -unemployed with respect to any week ending subsequent to July 1, 1980 shall be paid, with respect to such week, compensation in an amount equal to his weekly benefit rate less the total of . . . (ii) vacation pay, if any, which is in excess of his partial benefit credit, except when paid to an employee who is permanently or indefinitely separated from his employment. . . .
+In essence, Employer is arguing that these sections of the Law, when read together with the collective bargaining agreement which was in effect at Iceland Products, require the allocation of vacation pay, which was paid for vacations taken after the shutdown, to the shutdown period.
+Cases interpreting these sections have concluded that only the allocation of vacation pay to a period of time which is properly designated as vacation time will trigger the deduction provision of Section 404(d) (ii) of the Law. Dennis v. Unemployment Compensation Board of Review, 55 Pa. Commonwealth Ct. 215, 423 A.2d 458 (1980); Eckenrode v. Unemployment Compensation Board of Review, 37 Pa. Commonwealth Ct. 458, 390 A.2d 886 (1978).
+According to Dennis, the term “vacation period” applies to a period of time when an employee who would otherwise have been required to work was excused from working. The term is defined in the Pennsylvania Code as:
+(1) A period designated or approved by the claimant’s employer as his vacation period.
+(2) The period of any plant-wide or departmental closing for vacation, except to the extent that the employer of the claimant has granted him a separate vacation, period in substitution, in whole or in part, for the general shutdown. (Emphasis added.)
+35 Pa. Code §65.94.
+It would thus appear that in the present case, since vacations were expressly approved for times other than the general shutdown, the shutdown did not constitute the employees ’ vacation period. Employer argues, however, that the terms of the collective bargaining agreement preclude this conclusion. It is quite appropriate to consider the terms of a collective bargaining agreement in determining whether a particular period of time may be considered as vacation time. Dennis; Eckenrode. In the present case, the agreement specifically provided, in pertinent part:
+ARTICLE XV
+Vacations
+Section 15:01. Effective February 21, 1983, each employee shall be entitled to a vacation as follows:
+(c) Vacation will be scheduled between January 1 and December 31 of each year.
+(d) The Company reserves the right, upon 30 days notice to the employees, to shut down all or a portion of the plant for up to two (2) weeks annually for the purpose of a vacation shutdown.
+(e) In the event of no general shutdown for vacation purposes, an employee may take pay in lieu of vacation for the convenience of the Company. Such employee will be paid forty-eight (48) hours of vacation pay in addition to their standard hourly wage rate for time worked.
+(j) The vacation policy attached hereto as Exhibit “B” shall be part of this contract.
+EXHIBIT B
+VACATION POLICY
+1. Vacations must be scheduled at least two weeks in advance.
+5. Vacations must be taken in periods of full weeks. Extra vacation days may be taken at the employee’s discretion providing two weeks’ notice is given.
+6. Employee must have worked at least 1500 hours during the previous year to be eligible for vacation.
+7. Up to three single vacation days may be taken at the employee’s discretion providing the employee contacts the personnel office by 11:00 a.m. for the day shift or 7:30 p.m. for the night shift on the day in question.
+“Whether provision (d) of Article XV was intended to override provision (c) is ambiguous at best. Notably, however, the Employer’s representative stipulated to the fact that employees were permitted to take their vacations at any time throughout the year with the approval of their employer. In all cases involved, the Employer approved the vacation times. Also, some of the employees who testified stated that they had only a few days of vacation time left and wished to reserve these days for emergency purposes. This was entirely within their discretion (for up to three days) pursuant to item number 7 of the Vacation Policy.
+In the Eckenrode and Dennis cases, cited above, terms of collective bargaining agreements were analyzed by this Court. The shutdown period in Eckenrode was determined to be properly designated as vacation, while the shutdown period in Dennis was not. Employer argues that Eckenrode, rather than Dennis, controls this case. It is true that the circumstances here are not as compelling as were those in Dennis, where the agreement in question did not even refer to the shutdown as a “vacation” shutdown and the employees were given only two or three days advance notice. In Eckenrode, on the other hand, the agreement specifically required employees to take at least one week of their vacation during the shutdown. There was no such requirement here.
+Considering the ambiguous nature of the collective bargaining agreement at issue, we believe that Dennis requires us to find that the definition of a “vacation period” has not been satisfied. We stated in that case,
+[I] t is clear that claimants were not excused from working, but rather were not scheduled to work. There is no evidence that any of the claimants requested that the shutdown period be used for their vacation time. The testimony indicates that claimants, in fact, wanted to work during the shutdown period. (Emphasis in Original.)
+55 Pa. Commonwealth Ct. at 223, 423 A.2d at 462. These observations are equally applicable to the employees in the present case.
+Unfortunately, however, the problem does not end here. Under Dennis, where a determination is made that vacation pay has been improperly allocated to a non-vacation period, either the referee or the Board is required to make a finding of fact regarding each employee’s availability for suitable work during the period of unemployment. Although in the present case, testimony from several employees was specifically elicited concerning their availability, this was not the case with respect to all of the employees. In any event, the mere presence of testimony on the record does not allow us to make an assumption of availability, as the question is one of fact for the Board. Dennis.
+Accordingly, we must remand the record to the Board for specific findings of fact regarding the availability for suitable work of each employee during the time period involved.
+Order
+Now, this 13th day of May, 1985, the decisions of the Unemployment Compensation Board of Review numbered B-227273 through B-227307, dated February 13, 1984, are hereby vacated. The record is remanded for proceedings consistent with this opinion.
+Judge Williams, Jr., did not participate in the decision in this case.
+Three separate referee’s hearings were held to enable all the employees to appear and testify. Specific findings with respect to the above recited facts were made in each decision from which the Employer now appeals.
+Although Employer included with its brief the decisions of the Board and the referee granting benefits to several employees who were ineligible for vacation pay because they had not yet worked the 1500 hours required under the collective bargaining agreement, no argument is raised with respect to those employees. The testimony taken at the referee’s hearings indicates that even at that point, the employer was contesting only the receipt of benefits by those employees who had unused vacation days remaining at the time the shutdown notice was posted.
+Accord Piestrak Unemployment Compensation Case, 404 Pa. 527, 172 A.2d 807 (1961); Ungarean Unemployment Compensation Case, 207 Pa. Superior Ct. 506, 218 A.2d 847 (1966).
