@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 3"
+decided: "1936-07-10"
+citations: ["123 Pa. Super. 17"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Stadtfeld, Parker, James and Rhodes, J J."]
+parties: ["Trojanowska, Appellant, v. Sonman Shaft Coal Company."]
+source_url: "https://static.case.law/pa-super/123/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 992084
+cites_cases: ["110 Pa. Superior Ct. 261", "124 A. 499", "133 A. 256", "145 A. 603", "280 Pa. 331", "286 Pa. 199", "296 Pa. 34"]
+---
+
+# Trojanowska v. Sonman Shaft Coal Co.
+
+## Majority (Jambs, J.,)
+
+Opinion by
+Jambs, J.,
+Claimant’s petition for compensation for the death of her husband was disallowed by the referee; his findings were sustained by the Compensation Board and affirmed by the court of common pleas.
+On October 20, 1930, the decedent, who was employed by the defendant company as a miner, while riding a man trip on his way home, was injured by the derailment of the car in which he was riding. He was then taken to his home and several days later removed to a hospital. A physical examination and X-ray disclosed he had suffered severe contusions to his chest and a simple fracture of the sternum. He remained at the hospital for three weeks and then returned to his home. Under an agreement, compensation was paid until January 2, 1931, when a final receipt was submitted to him, but not executed until June 1931, at which time he signed the receipt because he was badly in need of funds. In July 1931, he resumed employment and worked until February 23, 1932. He received hospital treatment during the summer of 1932, being discharged on September 17, 1932. He returned to the hospital November 18, 1932, where he died November 26, 1932 of carcinoma of the esophagus, located about four inches below the site of the fracture.
+The referee’s third finding of fact is as follows: “That decedent’s injury was a simple fracture of the sternum, and he was discharged hy the attending physician as being able to return to work on November 25th, 1930, at that time there was absolutely no evidence of any cancer, there was no displacement of the sternum, and the site of the carcinoma was a relative distance from the site of the fracture; and that, therefore your Referee finds that the carcinoma or cause of death was neither caused nor aggravated by the injury he sustained October 20th, 1930”; which finding was approved by the Board.
+Appellant asks us to reverse the referee and the Workmen’s Compensation Board and make a finding that the carcinoma of the esophagus was either aggravated or caused by the injury sustained on October 20, 1930. In thus arguing, appellant overlooks the functions of the compensation authorities and the courts. The duty of the former is to decide all questions of fact, and the latter to decide those of law: Vorbnof v. Mesta Machine Co., 286 Pa. 199, 133 A. 256. In the first instance, the referee makes findings, supported by the record, and on appeal the Compensation Board may approve the findings or substitute other findings, as in its opinion the testimony warrants. On appeal from the Compensation Board, the court may examine the proof to see whether legally competent evidence is present in the record to support the findings of the referee and the Board. It has been repeatedly held that the revisory powers of this court are limited to a review of the testimony of record, with the sole purpose of ascertaining whether evidence appears which justifies a finding made, and if so, whether the law has been properly applied: Thomas v. State Workmen’s Ins. Fund, 280 Pa. 331, 124 A. 499; Hiles v. Hecla G. & C. Co., 296 Pa. 34, 145 A. 603.
+In passing upon this appeal, it is unnecessary for us to determine whether the nature and location of the injury and the physical condition of the decedent, prior and subsequent to the injury, bring the facts within the rule that where the injuries are so immediately and directly or naturally and probably, the result of the accident, the connection between them need not depend solely on the testimony of medical witnesses: Kucinic v. United Eng. & Fdy. Co., 110 Pa. Superior Ct. 261, 168 A. 3áá; for the reason that, in addition to this testimony, we find the further medical testimony, which may be briefly summarized as follows: A physician, called by the claimant, testified the injury had a lot to do with the carcinoma, but this testimony was materially weakened when on cross-examination he testified: “Q. You can say that this carcinoma was either caused or aggravated by the injury, can you? A. No, and I wouldn’t say that it was not.” One physician, called by the defendant, testified it was entirely possible but not probable there was any connection between the injury and the disability ; another physician testified it was possible but very doubtful whether there was any connection between the injury and the death, and the physician, called by the referee, was of the opinion the injury had nothing to do with the carcinoma of the esophagus. Under all the testimony, the Board, in its opinion, reached the conclusion that the findings of the referee were responsive to the clear preponderance of the evidence. Both the referee and the Board having found, from the testimony, there was no causal connection between the injury and the carcinoma or its aggravation, and competent evidence appearing upon the record to justify such findings, this court cannot interfere.
+Judgment affirmed.
