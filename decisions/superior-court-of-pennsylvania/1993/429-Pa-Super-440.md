@@ -1,0 +1,35 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1099"
+decided: "1993-11-19"
+citations: ["429 Pa. Super. 440", "632 A.2d 937"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before McEWEN, DEL SOLE and HOFFMAN, JJ."]
+parties: ["ROBERT H. McKINNEY, JR., ASSOCIATES, INC., Appellant, v. John H. ALBRIGHT, Jr. and James Connelly."]
+source_url: "https://static.case.law/pa-super/429/cases/0440-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 934782
+cites_cases: ["313 Pa.Super. 332"]
+---
+
+# McKinney v. Albright
+
+## Majority (DEL SOLE, Judge:)
+
+DEL SOLE, Judge:
+Appellant filed a Complaint on August 3, 1992, naming Appellee, James Connelly and another man, John H. Albright, Jr. as defendants. It sought to collect from them fees it claimed they owed as a result of engineering services which were performed by Appellant. Connelly filed preliminary objections which Appellant answered. Following argument, the court sustained the preliminary objections and dismissed the Complaint against Connelly. An appeal from this order is now before us. Upon review, we conclude this appeal was prematurely taken. A court order dismissing a complaint against some but not all of the defendants in a case is not considered a final order under Pa.R.A.P. 341, 42 Pa.C.S.A., and therefore, this appeal must be quashed.
+Rule 341 of the Rules of Appellate Procedure defines what is a final order for appeal purposes. This rule as written in 1982 did not explicitly define the term “final order.” Thus, litigants and the courts often had to undertake a complex analysis to determine whether an order was to be considered “final.” See Praisner v. Stocker, 313 Pa.Super. 332, 459 A.2d 1255 (1983). An amendment to Rule 341 was later drafted in an effort to clarify which orders are to be deemed final. Amended Rule 341 was added to govern those actions commenced on or after July 6, 1992. Thus, the present action, which was commenced in August of 1992, is governed by the amended version of Rule 341. It provides in relevant part:
+(a) General Rule. Except as prescribed in subdivisions (d) and (e) of this rule [relating to appeals from the Superior and Commonwealth court, and Commonwealth appeals from final orders in criminal matters], an appeal may be taken as of right from any final order of an administrative agency or lower court.
+(b) Definition of Final Order. A final order is any order that:
+(1) disposes of all claims or of all parties; or
+(2) any order that is expressly defined as a final order by statute; or
+(3) any order entered as final pursuant to subsection (c) of this rule
+(c) When more than one claim for relief is presented in an action, whether as a claim, counterclaim, cross-claim, or third party claim or when multiple parties are involved, the trial court or other governmental unit may enter a final order as to one or more but fewer than all of the claims or parties only upon an express determination that an immediate appeal would facilitate resolution of the entire case. Such an order becomes appealable when entered. In the absence of such a determination and entry of a final order, any order or other form of decision that adjudicates fewer than all the claims or parties shall not constitute a final order.
+Case law which interpreted the earlier provisions of Rule 341, considered final all orders which had a practical consequence of putting a litigant out of court. These included instances where a party was dismissed from a case or, in some circumstances, where some, but not all of the counts of a multi-count complaint were dismissed. In these later situations a legal analysis of finality was required to determine whether the dismissed claim was a separate cause of action in which instance it would be considered final. If the dismissed claim was merely found to be a different theory of recovery for the same cause of action left remaining, it was not a final order from which an appeal could be taken. Thus finality was often determined without regard to the fact that the litigation did not end as to all claims or all parties. However, under the amended version of Rule 341, as quoted above, this is no longer the case for actions commenced after July 6, 1992. Under the amended rule an appeal may not be taken from an order dismissing less than all claims or all parties from a case. An exception to this general rule exists under subparagraph (c), whenever an express determination has been made by the trial court that an immediate appeal would facilitate resolution of the entire ease.
+In the present action, the court dismissed Appellant’s complaint as against one of two named defendants. The order did not dismiss the action against defendant, Albright, and, in fact, Appellant’s complaint remains pending against him. Because the order did not dispose of all the claims or all of the parties and because no statute expressly defines this type of order as final, the trial court’s order was not final as that term is defined in Rule 341(b)(1) or (2). Further, the order can not be considered a final order under 341(c) because the trial court did not make, as required under subsection (c), “an express determination that an immediate appeal would facilitate resolution of the entire case.”
+By this later comment we do not suggest that such a determination was appropriate for the trial court to make in this case. A determination that an immediate appeal of a non-final order is appropriate should be made only in the most extraordinary circumstances because such action would frustrate the purpose of the amendments to the Rule. The revisions to the Rule were designed to eliminate the confusion created by the prior case law and to prevent piecemeal appeals which necessarily result in delay. Thus, the mere fact that some of the parties have been dismissed from a case, or that some of the counts of a multi-count complaint have been dismissed is insufficient reason to classify an order as final. While the comment to Rule 341 suggests areas where certification may be appropriate, courts are cautioned to refuse to classify orders as final except where the failure to do so would result in an injustice which a later appeal can not correct.
+The failure of Appellant, or any aggrieved party, to apply to . the court for a determination of finality pursuant to Subparagraph (c) does not constitute a waiver of the matter. See Note to Pa.R.C.P., Rule 341, 42 Pa.C.S.A. Appellant may still challenge the trial court’s decision to dismiss the complaint against Connelly, if Appellant so desires, once the case has ended and a final order or judgment has been entered. In the event that an appeal is taken, the propriety of the trial court’s action in dismissing a party earlier in the proceedings can be reviewed.
+Because no final order exists in this case, we find it necessary to quash the instant appeal.
+Appeal quashed. Jurisdiction relinquished.
