@@ -1,0 +1,35 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "3290"
+decided: "1989-06-08"
+citations: ["384 Pa. Super. 579", "559 A.2d 588"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before MONTEMURO, TAMILIA and MONTGOMERY, JJ."]
+parties: ["Kathleen O’NEILL, Appellee, v. Charles J. GIOFFRE, Appellant."]
+source_url: "https://static.case.law/pa-super/384/cases/0579-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 466332
+---
+
+# O'Neill v. Gioffre
+
+## Majority (MONTEMURO, Judge:)
+
+MONTEMURO, Judge:
+The appellant, Charles Gioffre, appeals from the trial court’s order denying his petition to open or strike the judgment rendered against him, asserting that a judgment for arrearages may not lawfully be entered against him pursuant to Rule 1910.23 of the Rules of Civil Procedure where the arrearages are created by the retroactive effect of the support order. The order specifically provides that the arrearages are to be paid in weekly installments, and the appellant has continually complied with the order. We agree.
+On May 6, 1985, the appellee, Kathleen O’Neill, filed a petition for child support against the appellant who responded by denying paternity of the child. At the conclusion of the paternity hearing, held on September 22, 1986, the appellant was found to be the 'father. The appellant’s subsequent appeal from the order of paternity was dismissed by this Court. Based on the finding of paternity, the trial court entered an order, dated February 18, 1987, which directed the appellant to pay $120 per week in child support and $15 per week towards the arrearages created by the retroactive effect of the order. On February 28, 1987, the appellant began making the payments outlined in the February 18, 1987 order, and has continued to do so. On September 19, 1987, the Domestic Relations Office issued to the appellee a certificate of arrears in the amount of $8,118.55. On October 2, 1987 the appellee had the $8,118.55 reduced to a judgment against the appellant, pursuant to Rule 1910.23 of the Rules of Civil Procedure. On November 12,1987, the appellee attached the appellant’s property in order to collect the amount in arrears. The appellant responded by filing, on November 25, 1987, a petition to strike or open the judgment. It is from the denial of this petition that the appellant appeals.
+According to Rule 1910.23 of the Rules of Civil Procedure, “if the defendant is thirty days or more in arrears under the order of the court as appears from a current certificate of the domestic relations section, the prothonotary shall enter judgment on praecipe accompanied by the certificate in the amount shown in the certificate.” The appellant contends that Rule 1910.23 does not apply where the defendant is in compliance with the support order. The appellee does not dispute this latter statement, but argues instead that the appellant was not in compliance with the order of support, because the entire amount of the arrearages became due on the day the order was entered and was not paid within the thirty day period. We disagree. The support order only required the appellant to pay $15.00 per week towards the arrearages, and the appellant has made those payments each week.
+Having concluded that the appellant has complied with the order of support, we must now determine whether Rule 1910.23 applies to such situations. Although we have found no cases interpreting Rule 1910.23, its purpose is clear. The rule was created in order to provide a means by which a party could enforce an order of support which the defendant has refused to honor. The explanatory note to Rule 1910.23 supports this conclusion. It declares that:
+The defendant against whom an order has been entered has the obligation to make payment____ If he fails in this obligation, judgment may be entered against him as provided by subdivision (a). Having violated the support order, the burden is upon the defendant to pay the amount of the judgment, petition to strike or open it, or simply communicate with the domestic relations section where judgment has been entered.
+Because Rule 1910.23 permits judgments to be entered only where the defendant fails to comply with the order of support within the thirty day period, we conclude that it does not apply to situations in which the defendant is in compliance with the support order. Therefore, the judgment was improperly entered.
+The judgment is also improper in that it was based upon a non-existent support order. In order to be valid, the judgment had to be based upon a support order which required the appellant to pay the total amount of arrearages as of the date of the support order. Clearly, the order of support in the instant case does not require such payment. It only requires the appellant to make $15.00 payments each week towards the arrearages. Moreover, were we to permit the appellee to collect the total amount of the arrearages created by the retroactive order, we would, in effect, be permitting the appellee to change the order of support without going through the proper channels. The support order specifically designated the manner of payment. If the appellee was not satisfied with the manner of payment, the proper procedure would have been to appeal the order or seek its modification. This she did not do.
+For these reasons, we reverse the trial court’s denial of the petition to open the judgment and vacate the judgment which was entered against the appellant in the sum of $8,118.55.
+. In its opinion, the trial court explained that:
+The order was made effective from that earlier date [the date the petition for support was filed] because of a large amount which had been paid by the Department of Public Welfare for the child because the respondent, the mother of the child, was on welfare from that date and received funds for this child. Therefore, there essentially are two orders of court, one being a direct support order in the sum of $120.00, the other being the welfare order for the welfare funds previously received. The respondent was no longer on welfare on the date of the entry of this order and therefore the payments from the Department of Welfare have terminated.
+Trial Court Opinion at 2.
+. This sum represented the number of weeks existing between May 6, 1985 and September 19, 1987 multiplied by $120.00.
+. The order appealed from states: "AND NOW, to wit, this 24th day of October 25, 1988, it is hereby ordered that the rule of November 25, 1987 to show cause why the judgment should not be opened or stricken is DISCHARGED.” Although such language does not ordinarily constitute a final appealable order, we will treat it as such since the trial court’s opinion makes clear its denial of the appellant’s petition through discharge of the rule to show cause.
+. See Section 4534 of the Uniform Reciprocal Enforcement of Support Act. 23 Pa.C.S.A. § 4534.
+. See Pa.R.C.P. 1910.10 (Support Order. Modification. Termination).
