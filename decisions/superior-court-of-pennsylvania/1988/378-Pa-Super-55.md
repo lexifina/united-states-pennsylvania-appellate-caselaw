@@ -1,0 +1,42 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1078"
+decided: "1988-09-15"
+citations: ["378 Pa. Super. 55", "548 A.2d 272"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CAVANAUGH, ROWLEY and KELLY, JJ.", "CAVANAUGH, J., concurs in the result.", "ROWLEY, J., files a dissenting statement."]
+parties: ["COMMONWEALTH of Pennsylvania v. Michael H. CHILQUIST, Appellant."]
+source_url: "https://static.case.law/pa-super/378/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 706177
+cites_cases: ["364 Pa.Super. 505", "366 Pa.Super. 597", "369 Pa.Super. 109", "372 Pa.Super. 145", "372 Pa.Super. 365", "513 Pa. 508", "516 Pa. 365", "519 Pa. 88", "532 A.2d 775"]
+---
+
+# Commonwealth v. Chilquist
+
+## Majority (KELLY, Judge:)
+
+KELLY, Judge:
+Appellant, Michael H. Chilquist, appeals from judgment of sentence entered following the acceptance of appellant’s guilty plea to charges of robbery and related offenses. We grant allowance of appeal of the discretionary aspects of sentence, and affirm judgment of sentence.
+FACTS AND PROCEDURAL HISTORY
+On January 5, 1987, appellant robbed a Hills Department Store in Bethel Park, Pennsylvania. While the robbery was still in progress, an employee outside the manager’s office where the robbery occurred noticed the robbery and called the police. The police dispatcher relayed the employees’ description of appellant, his car, and his license plate number to officers on patrol in the area. As appellant attempted to flee he was trapped in stopped traffic and boxed in by an alert police officer in a patrol car. When the officer approached appellant’s vehicle, appellant shifted his car into reverse and attempted to flee. Appellant stated to the officer that he would not be taken alive, and reached for a bag in the car. Nonetheless, the brave officer was able to thwart appellant’s repeated efforts to flee until other officers arrived and appellant was forcibly removed from his car. During his removal, appellant grabbed one of the officer’s guns and was shot in the leg in the ensuing scuffle. Following appellant’s arrest, police seized from the car a sawed off shotgun and 9 millimeter caliber automatic pistol (both loaded) as well as the bullet proof vest appellant had been wearing. A large variety , of other evidence linking appellant to the robbery was also seized.
+On May 15, 1987, appellant entered a guilty plea to one count of Robbery, two counts of Violation of the Uniform Firearms Act, one count of Prohibited Offensive Weapon, one count Resisting Arrest, one count Recklessly Endangering Another Person, and three counts of Simple Assault. The plea was accepted following an exhaustive and comprehensive plea colloquy. (N.T. 5/15/87 at 1-30). Sentencing was postponed pending completion of a presentence investigation report. (N.T. 5/15/87 at 30). Notice was given by the Commonwealth of its intent to seek the application of the mandatory minimum sentence provision of 42 Pa.C.S.A. § 9712.
+Appellant’s sentencing hearing was conducted on July 14, 1987. Appellant’s counsel presented extended argument regarding mitigating factors and was permitted to summarize for the court uncontested mitigation testimony which would otherwise have been presented by defense witnesses. (N.T. 7/14/87 at 2-5). Appellant made a brief expression of his remorse. (N.T. 7/14/87 at 6). The Commonwealth then presented argument relating to items in the presentence investigation report and in rebuttal to parts of appellant’s mitigation evidence. (N.T. 7/14/87 at 6-9). Appellant was then given a second opportunity to address the court, during which he denied that he had violent tendencies and that he had prepared for a violent conflict before the present robbery. (N.T. 7/14/87 at 9-10).
+The trial court then indicated that, in light of great potential for further serious injuries during the commission of the present crime, an aggravated sentence was appropriate. (N.T. 7/14/87 at 11). The court sentenced appellant to a term of imprisonment of ten (10) to twenty (20) years on the Robbery conviction and a consecutive five (5) year term of probation on one of the Violation of the Uniform Firearms Act convictions. In light of the sentence imposed on the first two convictions, the trial court exercised its discretion to impose no further penalty with respect to the remaining convictions. (N.T. 7/14/87 at 12). A timely motion to modify the sentence imposed was denied, and this timely appeal follows.
+I.
+Appellant contends that the trial court abused its discretion by failing entirely to consider the sentencing guidelines, and by failing to set forth adequate reasons for the sentence imposed. These are challenges to the discretionary aspects of sentence.
+Appellant has complied with the procedural dictates of Commonwealth v. Tuladziecki, 513 Pa. 508, 522 A.2d 17 (1987) , by filing timely notice of appeal and by complying with the provisions of Pa.R.A.P. 2116(b) and Pa.R.A.P. 2119(f). Appellant’s contentions present substantial questions for review, as they allege total non-compliance with applicable guidelines, and the failure to state adequate reasons for the sentence imposed. We exercise our discretion to grant allowance of appeal.
+II.
+Allowance of appeal, however, will be of little solace to appellant, as we find both his claims to be meritless. First, at the time of sentencing in this case, sentencing guidelines had not validly been adopted. See Commonwealth v. Sessoms, 516 Pa. 365, 532 A.2d 775 (1987). Hence, the trial court cannot be deemed to have abused its discretion in failing to consider or comply with guidelines which were not constitutionally adopted. See Commonwealth v. Felix, 372 Pa.Super. 145, 161, 539 A.2d 371, 379 (1988) (citing cases). Second, though brief, the trial court’s statement of the reasons for the sentence imposed was plainly adequate. See Commonwealth v. Devers, 519 Pa. 88, 546 A.2d 12 (1988); see also Commonwealth v. Graham, 372 Pa.Super. 365, 368 n. 2, 539 A.2d 838, 839 n. 2 (1988); Commonwealth v. Darden, supra, 366 Pa.Super. at 605-606, 531 A.2d at 1148; Commonwealth v. Osborn, 364 Pa.Super. 505, 520, 528 A.2d 623, 631 (1987). It is readily apparent on the face of the record that the trial court was fully apprised of the relevant aggravating and mitigating factors via full argument and a comprehensive pre-sentence report. The weight to be given those factors was within the province of the trial court to determine. Commonwealth v. Moran, 369 Pa.Super. 109, 534 A.2d 1103 (1987).
+Judgment of sentence is affirmed.
+CAVANAUGH, J., concurs in the result.
+ROWLEY, J., files a dissenting statement.
+In dismissing appellant's claim on this ground, we do not imply that the statement of the reasons for sentencing outside the standard minimum range was inadequate. Appellant conceded the applicability of the five year mandatory minimum sentence provision of 42 Pa.C.S.A. § 9712; thus, a sentence at the upper limit of the standard range would have been the lowest minimum sentence permissible. The trial court, however, found that the danger of serious injury to others caused by appellant was a significant aggravating factor; we agree. Moreover, it is apparent that the trial court considered the related offenses committed as aggravating factors rather than imposing separate sentences for those eonvietions. We find the court’s statement of these reasons adequate and find no abuse of discretion in this respect. Cf. Commonwealth v. Darden, 366 Pa.Super. 597, 607, 531 A.2d 1144, 1149 (1987) ("... facts regarding the nature and circumstances of the offense, which are net necessary elements of the offense for which appellant has been convicted, are also proper factors to consider in deciding whether to sentence in the mitigated minimum range, the aggravated minimum range, or outside the guidelines.’’)
+
+## Dissent (ROWLEY, Judge,)
+
+ROWLEY, Judge,
+dissenting:
+For the reasons set forth in my Dissenting Statement in Com. v. Felix, 372 Pa.Super. 145, 539 A.2d 371 (1988), I would deny appellant’s “petition” for permission to appeal the discretionary aspects of his sentence. In my opinion, his “petition” for allowance of appeal fails to present a substantial question that the sentence imposed is inappropriate under the Sentencing Code.
