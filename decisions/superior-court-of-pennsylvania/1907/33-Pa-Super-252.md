@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 92"
+decided: "1907-03-05"
+citations: ["33 Pa. Super. 252"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Porter, Henderson, Morrison, Orlady, Head and Beater, JJ."]
+parties: ["Brennan's License."]
+source_url: "https://static.case.law/pa-super/33/cases/0252-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 868602
+cites_cases: ["1 Pa. Superior Ct. 627", "108 Pa. 564", "11 Pa. Superior Ct. 575", "127 Pa. 330", "8 Pa. Superior Ct. 475"]
+---
+
+# Brennan's License
+
+## Majority (Morrison, J.,)
+
+Opinion by
+Morrison, J.,
+This is styled an appeal from the order of the court of quarter sessions of Allegheny county revoking the license, to wholesale liquors, theretofore granted by said court to P. J. Brennan. In fact, we only have before us the record, consisting of the petition, answer and order.
+In Moyer’s Appeal, 8 Pa. Superior Ct. 475, we said: “ The question as to the respondent’s negligence in the sale of liquors to these minors was one of fact and for the exclusive determination of the court of quarter sessions and its finding is not reviewable upon appeal, for the reason that an appeal in such a case is but a mere substitute for a certiorari, and does not bring up the evidence.”
+In Commonwealth v. Brewing Company, 1 Pa. Superior Ct. 627, we said: “ The appellate jurisdiction of this court in such a case is the same as, and no greater than, that exercised by the Supreme Court upon certiorari prior to the Act of May 9, 1889 (P. L. 158) .... As defined in Dolan’s Appeal, 108 Pa. 564, it is restricted to what appears upon the face of the record proper. If manifest error does not there appear, the order complained of must be affirmed.” See also Carlson’s License, 127 Pa. 330.
+In the present case the petition and answer showed jurisdiction, and these papers and the order of the court do not show upon their face any irregularity or illegality Calling for. a reversal. There was a petition in writing setting forth plainly that the licensee had sold intoxicating liquors at places away from the first ward of the borough of Bradclock where his license gave him authority to sell, and there only. The fourth clause of tiie petition averred that during the month of August, 1906, and the month of September of the same year, up until the time of the filing of the petition, the licensee had sold and delivered large quantities of spirituous and malt liquors within the townships of Penn, Patton and Wilkins respectively. While there is much surplusage and unnecessary verbiage in the petition, there is no question but it plainly charged that this wholesale liquor dealer had been selling and delivering intoxicating liquors, under the license in question, at several places outside of and away from the distinct place where he had authority to sell. It is of no consequence whether or not there were prohibitory laws in force in the places where it was alleged the improper sales had been made. The gravamen of the offense charged was the sale of liquor in places other than that for which the license was granted. As to the alleged sale in Penn township, the defendant had full opportunity to be heard and it is now to be presumed that the court found that he had violated the law, and it, therefore, became the duty of the court, under the plain terms of the sixth section of the Act of June 9, 1891, P. L. 257, “ upon sufficient cause being shown or proof being made to the said court, that the party holding a license has violated any law of this commonwealth, relating to the sale of liquors, the court of quarter sessions shall, upon notice being given to the persons so licensed, revoke said license.” It is not pretended that the licensee did not have notice in the present case and it was conceded, at the argument, that he appeared with his counsel and was given a full hearing before the order revoking his license was made.
+If we refer to the order we see that the court found that P. I. Brennan, the holder of a license to sell liquors at wholesale at the borough of Braddock, for the year from May 1, 1906, to May 1, 1907, has, since May 1,1906, violated the laws of the commonwealth relating to the sale of liquors, in that he has sold and delivered liquors within the township of Penn, etc. It is immaterial whether or not there was a valid prohibitory law in force in Penn township. So much of the order as recites that fact may go for naught. The fact remains, however, that the liquors were sold and delivered in that township, as found by the court, and in so doing he violated the law.
+In Dolan’s Appeal, 108 Pa. 564, the Supreme Court said: “ He was duly brought into court, testimony was taken, and, as the record shows, after hearing and due consideration, the court, in the exercise of the discretion with which it was invested, revoked the license. If there was anything on the face of the record to show affirmatively that the court acted arbitrarily and without cause, or that the cause shown was wholly insufficient, it would exhibit such an abuse of discretion as would demand a reversal of the order complained of; but nothing of the kind appears in the record before us, and we have no right to go outside in search of something on which to convict the court helow of error, nor do we feel disposed to do so.”
+The above applies with peculiar force to the present case. In Meenan’s License, 11 Pa. Superior Ct. 575, we said: “We find nothing in this record to take the case out of the well settled rule that where a license has been refused after a hearing, the presumption on appeal is, that the refusal was for a legal reason unless the contrary affirmatively appears.” The above doctrine applies with equal force to the revocation of a license.
+Under the above and many other authorities, we are bound to presume that the court acted legally and with due regard for the law, as there is nothing appearing on the record showing the contrary.
+Order revoking the license granted to the appellant, affirmed, and appeal dismissed at costs of appellant.
