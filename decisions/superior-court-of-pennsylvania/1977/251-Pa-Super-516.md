@@ -1,0 +1,45 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "59"
+decided: "1977-12-02"
+citations: ["251 Pa. Super. 516", "380 A.2d 899"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WATKINS, President Judge, and JACOBS, HOFFMAN, CERCONE, PRICE, VAN der VOORT and SPAETH, JJ.", "SPAETH, J., files a concurring opinion."]
+parties: ["Joanna SARSFIELD, Appellee, v. Walter T. SARSFIELD, Appellant."]
+source_url: "https://static.case.law/pa-super/251/cases/0516-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 837922
+cites_cases: ["121 A.2d 178", "126 Pa.Super. 255", "130 A.2d 119", "166 Pa.Super. 532", "186 A.2d 396", "191 A. 187", "193 Pa. 294", "199 Pa. 161", "200 A.2d 775", "224 A.2d 212", "236 Pa.Super. 147", "240 A.2d 544", "282 A.2d 386", "3 P. & W. 531", "32 Pa.Super. 353", "345 A.2d 742", "369 Pa. 278", "384 Pa. 530", "388 Pa. 47", "409 Pa. 338", "414 Pa. 381", "423 Pa. 498", "430 Pa. 289", "44 A. 417", "445 Pa. 238", "48 A. 976", "72 A.2d 623", "85 A.2d 406"]
+---
+
+# Sarsfield v. Sarsfield
+
+## Majority (VAN der VOORT, Judge:)
+
+VAN der VOORT, Judge:
+On November 20, 1975, the parties to this dispute entered into a post-nuptial agreement for the support of appellant in anticipation of a divorce which was granted in December of that year. By the terms of the agreement, appellant vfas to make specified repairs on their home property and transfer title to appellee. He was also to pay the outstanding medical bills of appellee and to pay her $1,000 in cash and $200 a month thereafter during her lifetime or until she should remarry.
+On January 20, 1976, appellee filed a complaint in the Court of Common Pleas of Allegheny County, Family Division, alleging non-compliance with the separation agreement and seeking an order of enforcement. Appellant filed preliminary objections to the effect that the court had no equity jurisdiction because there was an adequate remedy at law and that the post-nuptial agreement was unenforceable because a violation of the public policy of Pennsylvania. On March 2, 1976, these objections were overruled and the court entered an order decreeing specific performance of the post-nuptial agreement and entering judgment for the amount then in arrears.
+On June 23, 1976, appellee filed a petition asking that appellant be held in contempt of court for failure to comply with the order of March 3. A rule to show cause issued and a hearing was held on August 10, 1976, to consider the contempt petition. At that hearing the parties negotiated a settlement of their differences and drafted a consent order which they presented to the court for entry. Before signing the order, Judge John Brosky directed counsel for each party to ask his client if he agreed to the consent order and both so indicated. The Judge thereupon entered the order in the exact wording proposed by counsel for the parties. The substance of the order was to drop the claim for certain arrearages as unproved, to direct the payment of others and to reaffirm appellant’s obligation to comply with the post-nuptial agreement.
+Appellant appeals from this consent order, reiterating the contention made by him prior to the March order that the court has no jurisdiction in equity and that at the August hearing appellant was not afforded the hearing required before he could be adjudged to be in contempt of the court. However, the latter issue became moot when the parties agreed to a consent order.
+We are met at the threshold of this case by the fact that this is an appeal from a consent order drafted with the collaboration of appellant’s counsel and to which both appellant and his counsel agreed in the court below. In an opinion filed in support of his order, Judge Brosky concluded with this statement:
+“In view of both counsels’ representation to this court that they were proposing a consent order, and, in view of their colloquy with their clients which appears on record, this court accepted and signed their consent order. Thereafter, no objection was made thereto by either counsel or either party to the litigation although there was an opportunity to do so. Thus, the parties should be bound by their agreement and the corresponding reflective consent order signed by this court.”
+This is plainly correct: Wilson v. Commonwealth, 3 P. & W. 531 (1832); Mintz v. Brock, 193 Pa. 294, 44 A. 417 (1899). This court ruled in Baran v. Baran, 166 Pa.Super. 532, 537, 72 A.2d 623 (1950)—
+“A decree entered by consent of the parties is so conclusive that it will be reviewed only on a showing that an objecting party’s consent was obtained by fraud or that it was based upon a mutual mistake.”
+Any move to modify or abrogate the consent order must be initiated in the court below. See Rule 302(a) of the Rules of Appellate Procedure.
+However, equity jurisdiction cannot be conferred upon the court by consent. It was challenged by appellant at the March hearing but the objection was overruled in the order entered on that date. That order included a disposition of the case on its merits and was appealable. No appeal was taken but appellant persists in his contention that only an action of assumpsit on the law side was within the court’s jurisdiction. Inasmuch as the nature of this case suggests the possibility of further hearings and orders, we deem it appropriate to lay to rest the issue of jurisdiction.
+While some actions to enforce a post-nuptial agreement may be grounded in assumpsit, Gillan v. Gillan, 236 Pa.Super. 147, 345 A.2d 742 (1975), equity has concurrent jurisdiction to enforce support agreements, Silvestri v. Slatowski, 423 Pa. 498, 502, 224 A.2d 212 (1966). It was elaborated in Silvestri (423 Pa. p. 502, 224 A.2d p. 215)—
+“On the theory that a wife’s disability deprived her of an adequate remedy at law, this state and other jurisdictions ruled years ago, that equity does have jurisdiction to enforce support agreements. . . . While the reason upon which these decisions were based is not present today, courts have continued to rule in favor of equity’s jurisdiction in such cases, because of the difficulties present in enforcing such contracts at law
+These decisions have not made a distinction between arrearages and future payments due. Additionally, the Superior Court of Pennsylvania has ruled that equity has jurisdiction and that an order enforcing future payments is proper. See Stull v. Stull, 126 Pa.Super. 255, 191 A. 187 (1937), and Adams v. Adams, 32 Pa.Super. 353 (1907).
+“We conclude that equity has jurisdiction in this action and may decree specific performance. The payments due are clear and unchangeable. A multiplicity of suits at law will be obviated.”
+The court having jurisdiction to proceed in equity and the parties having negotiated and consented to the order of August 10, 1976, it is affirmed.
+SPAETH, J., files a concurring opinion.
+
+## Concurrence (SPAETH, Judge,)
+
+SPAETH, Judge,
+concurring:
+I should rest affirmance entirely on the consent order, and I join in so much of the-majority’s opinion as concerns that order. The majority, however, goes on to say that “equity jurisdiction cannot be conferred upon the court by consent.” Majority Opinion at 519. I do not see why not.
+There are two sorts of “jurisdiction”: “personal” and “subject matter.” Commonwealth v. Barnett, 199 Pa. 161, 48 A. 976 (1901). One may always confer personal jurisdiction on a court, by submitting oneself to the court. Yentzer v. Taylor Wine Co., Inc., 409 Pa. 338, 186 A.2d 396 (1962); Ciammaichella Appeal, 369 Pa. 278, 85 A.2d 406 (1952). One may never confer subject matter jurisdiction on a court. Appeal of Kramer, 445 Pa. 238, 282 A.2d 386 (1971); Calabrese v. Collier Twp. Mun. Auth., 430 Pa. 289, 240 A.2d 544 (1968).-
+To speak of a court’s “equity jurisdiction” confuses this distinction; one should instead speak of the court’s “equity side.” Suppose a court with personal jurisdiction of the parties, and capable of trying cases on both the equity side and law side. (In other words, suppose a court like the lower court here.) If one of the parties files an appropriate preliminary objection, a given case may be transferred from the equity side to the law side. Pa.R.C.P. 1509(c); Allegheny Plastics, Inc. v. Stuyvesant Ins. Co., 414 Pa. 381, 200 A.2d 775 (1964). If, however, for whatever reason, no objection is filed, the case will not be transferred; although the case should not be on the equity side, the objection that it should not be will have been waived. Jones v. Amsel, 388 Pa. 47, 130 A.2d 119 (1957); Brobst v. Brobst, 384 Pa. 530, 121 A.2d 178 (1956). Thus, by failing to object the parties will indeed have conferred “equity jurisdiction” on the court; and since the case will remain within the court’s subject matter jurisdiction, the court may proceed to decide it, see Jones v. Amsel, supra; 5 Goodrich-Amram 2d 127, even though the court retains the power, sua sponte, to transfer it to the law side, Jones v. Amsel, supra.
