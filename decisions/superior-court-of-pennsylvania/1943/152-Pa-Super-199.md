@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 27"
+decided: "1943-04-16"
+citations: ["152 Pa. Super. 199"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Baldrige, Stadteeld, Rhodes, Hirt, Kenworthey, and Reno, JJ."]
+parties: ["Francis v. Francis, Appellant."]
+source_url: "https://static.case.law/pa-super/152/cases/0199-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1048167
+cites_cases: ["143 Pa. Superior Ct. 22", "17 A. 2d 758", "208 Pa. 186", "36 Pa. Superior Ct. 33", "49 Pa. 249", "57 A. 525", "67 Pa. Superior Ct. 412", "84 Pa. Superior Ct. 451"]
+---
+
+# Francis v. Francis
+
+## Majority (Hirt, J.,)
+
+Opinion by
+Hirt, J.,
+'The parties to this action were married in 1916; they separated on October 10, 1939. They have one daughter now 15 years old who has been living with libellant since !the separation. While they lived together the principal differences between the parties arose from ■the unwillingness of the respondent to concentrate ■his energies upon providing adequate support. The family were on public relief almost Continuously from 1934. Respondent, a coal broker, with 'something of the confidence of a Micawber, was always on the eve of a so-called' “big de'al” which never materialized. On May 17, 1939, they had moved to a 'house in Kingston Borough., Respondent paid only a part of one month’s rent. They were evicted by the landlord on* October 11, 1939, on a writ of possession. Respondent removed the furniture during the night to 'avoid a levy for rent (it was later sold by a warehouse company on his failure to pay 'any of Ibhe storage charges). Libellant testified: “We left the house at five o’clock [in the morning]. He told me to take my daughter and get out and I asked him where I should go and he said he didn’t care but to get out.” She and her daughter wandered about the street for several hours when they were taken in by friends. They later secured a rented room and were on relief until the libellant found employment. The parties have not lived together since October 11, 1939.
+The separation was not by consent but at its inception was from necessity. This does not amount to desertion, nor does the fact that the respondent failed to contribute anything to the support of his wife since the separation. The libellant has been maintaining her daughter. The respondent occasionally provided some clothing for the daughter and gave her small sums of money from time to time. The daughter testified that respondent gave her “a large amount” just before the hearing in this case. The amount Was $1.50. Non-support is not desertion (Knipe v. Knipe, 84 Pa. Superior Ct. 451; Ingersoll v. Ingersoll, 49 Pa. 249) but when persisted in over a long period it is some evidence of wilfulness and malice. If the respondent did not intend to desert his wife it is likely that he would have made an effort to provide something for her support if only occasionally and small in amount during a period of two and one-half years. The conduct of the respondent is sufficient to- indicate that his intention on October 11, 1939, was to desert the libellant and the eviction by their landlord merely furnished the occasion. Referring to a meeting with respondent a few days later libellant testified: “I asked him what he was going to do and he said ‘nothing,’ that he had no place to take us.” For a time the libellant indicated a willingness to return to him and respondent wrote a number of letters protesting his affection for his wife but in many of them he used abusive language or falsely accused her of improper conduct. In his letters he offered to provide a home but the offers were never fulfilled., Her acquiescence in the desertion did not convert it into a cohsentable separation. Leonard v. Leonard, 67 Pa. Superior Ct. 412.
+We are unable to find any evidence of a bona fide offer of reconciliation from the respondent made with the desire that it be accepted and with the intention of honestly performing his whole duty as husband. Cf. Gordon v. Gordon, 208 Pa. 186, 57 A. 525. The burden was on him to establish the good faith of his offers to resume the marital relation. Helm v. Helm, 143 Pa. Superior Ct. 22, 17 A. 2d 758. This burden has not been met. The last offer, a few months before the hearing in this case, in our view of the testimony, Was not sincere but was made for the sole purpose of defeating the divorce. The real attitude of respondent throughout the period of the separation is indicated in a letter written to libellant on August 19, 1941. In it he said: “Please don’t talk to me again or if I say anything to any one you are with, if you know when you are well off. I have left you alone for a long time and [am] very happy...... As far as you are concerned, you mean nothing to me. I neither get lonesome for you, worry about you, or care what you do.”
+This case was heard by Judge Flannery without a jury.. He saw and heard the witnesses and was in position to form a correct estimate of their credibility. The conclusions of the trial judge are to be given consideration and weight in determining disputed questions of fact. King v. King, 36 Pa. Superior Ct. 33. We are in accord with the conclusion that the evidence supports the charge of wilful and malicious desertion.
+The decree is affirmed at respondent’s costs.
