@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 166"
+decided: "1917-07-13"
+citations: ["67 Pa. Super. 581"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Kephart, Trexler and Williams, JJ."]
+parties: ["Buffalo & Lake Erie Trac. Co. v. Public Service Com."]
+source_url: "https://static.case.law/pa-super/67/cases/0581-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 629117
+cites_cases: ["256 Pa. 516", "63 Pa. Superior Ct. 337"]
+---
+
+# Buffalo & Lake Erie Trac. Co. v. Public Service Com.
+
+## Majority (Williams, J.,)
+
+Opinion by
+Williams, J.,
+The Buffalo & Lake Erie Traction Company applied for the approval of an agreement made with the Erie & Suburban Railway Company and the Erie Commercial Railroad Company for an exchange of rights of way, provided the traction company’s tracks should be and remain substantially at the same grade as at present established.
+The Public Service Commission granted its approval subject to the condition “that neither the approval of this application nor the granting of the certificate of public convenience shall , be taken or deemed to be an approval of the construction at grade of a crossing by the tracks of the Buffalo & Lake Erie Traction Company or its subsidiary, the Erie & Suburban Railway Company, over the public highway at or near Six Mile creek; it being hereby found and determined that the construction of such a grade crossing is neither proper nor necessary for the service, accommodation, convenience or safety of the public; and that any crossing of the said highway by the tracks of the Buffalo & Lake Erie Traction Company or its subsidiary at the point indicated, on the plan attached to the petition......shall be above the grade of the said highway.”
+It appéars that three railroads run parallel in an easterly and westerly direction between Iroquois avenue and Buffalo road.in Harbor Creek Township, Erie County, Pennsylvania, and it has been provided that where Buffalo road crosses these tracks to join Iroquois avenue, a subway shall be put in to accommodate vehicular traffic. The traction company has a line running on the Buffalo road south of the three railroad lines, turning north through the subway and desired, a connection at grade with its lines running east and west on the Buffalo road and Iroquois avenue at the northern outlet of the subway. Its engineers testified that if it had to elevate its tracks at the outlet of the subway and still make a connection, a dangerous curve would be necessary upon a sharp incline, but if there is no physical connection, passengers would have to alight from one line and walk up or down a flight of stairs to reach the other line; that this would entail an expenditure of $20,-000, and, as the company is in the hands of a receiver, this would be impracticable. It was pointed out by these witnesses that the danger of the grade crossing could be obviated by all electric trains on the Buffalo road stopping before passing the outlet of the subway and the construction of a safety curve and fence around which vehicular traffic could be diverted.
+The traction company operates an interurban electric railway line. Its trains are run in the country at the rate of thirty miles an hour or more. The particular crossing in question is a very busy one at some portions of the year; thousands of people and hundreds of automobiles pass it every day during the exposition. It was admitted that the grade crossing is dangerous, but denied that it was as dangerous as any other method suggested. Gannett, one of the traction company’s witnesses, admitted that the traction company’s crossings were nearly as dangerous as those of a steam railroad..
+Upon an appeál from the order of the Public Service Commission we determine whether “the order appealed from is reasonable and in conformity with the law”; that is to say, whether it is based upon competent evidence: Act of July 26, 1913, P. L. 1374, Sections 22 and 24, Art. VI; Borough of Mt. Union v. Mt. Union Water Company, 256 Pa. 516, affirming 63 Pa. Superior Ct. 337. No objection was raised to the evidence, so the reasonableness of the order is the only question to be considered. A grade crossing is admittedly dangerous and it is in accord with the public policy of the State to prevent the construction of others where they are not imperatively required. It is the duty of the traction company to obey any reasonable order of the commission in regard to crossings “to the end, intent, and purpose that accidents may be prevented; and also to bear and pay the expenses, damages, or compensation incident thereto, either severally or in such proportions as the commission may determine” : Art. II, clause (t) of the Act of 1913. The commission has power to inquire into the matter of requiring a separation of grade at a crossing of its own motion: Art. V, Sec. 12. An order, when appealed from, is prima facie reasonable, and the burden of proving it unreasonable rests upon the appellant: Art. VI, Sec. 23. We do not think the burden has been sustained.
+We are more concerned with the personal safety of the pedestrians and those being carried in vehicles, which, of necessity, must travel on the public highway, than whether it will embarrass a corporation financially, or make it more difficult from an engineering standpoint to overcome conditions resulting from safeguarding the public.
+The contention that the imposition of the entire cost of the grade separation upon the appellant is in violation of the Federal Constitution, which forbids the taking of property without due process of law, cannot be sustained, as the order complained of does not compel a change of grade, nor disturb the status quo.
+The appeal is dismissed and the order of the Public Service Commission, entered January 8, 1917, is affirmed, without prejudice to the due prosecution of any appeal upon a question of fact from the aforesaid order to the Court of Common Pleas of Erie County.
