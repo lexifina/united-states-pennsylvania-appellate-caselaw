@@ -1,0 +1,42 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2023"
+decided: "1977-06-29"
+citations: ["248 Pa. Super. 420", "375 A.2d 168"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WATKINS, President Judge, and JACOBS, HOFFMAN, CERCONE, PRICE, VAN der VOORT, and SPAETH, JJ.", "HOFFMAN and SPAETH, JJ., concur in the result only."]
+parties: ["COMMONWEALTH of Pennsylvania, Appellee, v. Robert Lee JACKSON, Appellant."]
+source_url: "https://static.case.law/pa-super/248/cases/0420-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 832490
+cites_cases: ["163 A.2d 702", "185 A.2d 653", "193 Pa.Super. 69", "199 Pa.Super. 388", "229 Pa.Super. 211", "324 A.2d 392"]
+---
+
+# Commonwealth v. Jackson
+
+## Majority (VAN der VOORT, Judge:)
+
+VAN der VOORT, Judge:
+Appellant, Robert Lee Jackson, was found guilty by a jury of being an accessory before the fact to the delivery of a controlled substance in violation of the Pennsylvania Penal Code, 18 P.S. 5105.
+The transaction, as identified by Thomas F. Lepere, an undercover agent for the Bureau of Drug Control, consisted of a sidewalk negotiation in the City of Scranton between the appellant and the undercover agent. The agent inquired of appellant as to the availability of several drugs and was told that cocaine was available from a Mr. Clay who stood nearby. The agent negotiated with appellant the price to be paid for six bags of cocaine which were then delivered to the agent by Mr. Clay, the bystander.
+Appellant’s major challenge is to the adequacy of his identification. The agent was certain of his identification of appellant on direct examination, but conceded on cross examination that he could not remember how appellant was dressed or whether he wore a beard, a goatee or long sideburns. The agent admitted that he had never dealt with appellant before this case. However, he concluded his cross examination with the statement that there was no doubt in his mind that appellant was the person with whom he negotiated. He explained his failure to identify dress or hair by the fact that in his training as an undercover agent he was taught through caricature drawings to concentrate upon essential facial characteristics which could not be changed as hair or dress could be.
+Appellant’s defense was the alibi that he had been in Philadelphia at the time of the alleged transaction in Scranton. This was supported by three witnesses. However, the jury found for the Commonwealth, thereby resolving the issue of the adequacy of the agent’s identification and the credibility of appellant’s alibi.
+Appellant next contends that the trial court erred in not including in its charge to the jury specific instructions as to how to evaluate identification testimony. No such instruction was requested of the trial court by appellant nor were any exceptions or additions taken to the charge when opportunity was afforded for such moves. The court included in its charge detailed instructions on how to evaluate the credibility of witnesses, which would include the issue of identification. We have read the charge in its entirety and find it adequate. There is nothing in the law which requires specific instructions on the issue of identification, particularly if none are requested.
+Appellant makes the further contention that he should be granted a new trial because, in the course of the cross examination of the undercover agent by appellant’s counsel, the agent testified that he saw appellant’s picture in the Scranton Detective Bureau in connection with a previous conviction for burglary. The entire colloquy was as follows:
+“Q. After this encounter on January 9 before you filed this criminal complaint, did you have occasion to look at mug shots at the Pennsylvania State Police? A. Yes, I did.
+“Q. Did you identify Mr. Jackson from those mug shots? A. Excuse me — if I could correct myself — not from the State Police, from the Scranton Detective Bureau. I had occasion to go into the Scranton Detective Bureau to identify another subject of investigation, since his name had been mentioned to me by another subject of investigation, when I saw his picture, I studied that picture because he was alleged by this other person to be dealing in it, I was looking for another picture admittedly at the time but I did take notation of his picture on a previous conviction for burglary.”
+There was no prolonged discussion of the issue either by appellant’s counsel, the prosecution or the court. There was a request by appellant’s counsel for the withdrawal of a juror and the declaration of a mistrial. This was denied and the court very simply directed the witness to limit his answers to specific responses to the question asked. There was no issue made of the matter to the jury at the time or later. Neither was there any request by appellant’s counsel for specific instructions to the jury regarding the incident. The court en banc, in reviewing this issue, stated:
+“ . . . the court specifically shied away from any further reference to this issue because the mention of it was so minimal in the context of the entire trial that it is impossible to conceive that it had any impact at all on the jury’s decision. Any undue reference to it either by way of additional instructions or admonishment would have only exaggerated a very minor problem.”
+We commend the trial court for the manner in which it handled the matter. We accept the judgment of the court en banc that the incident had no impact on the jury’s decision.
+In any event, the testimony of the undercover agent was brought about in response to questions asked by appellant’s counsel. In asking the identifying witness about his recourse to mug shots, appellant was proceeding at his peril, knowing of their existence and apparently desiring to make the agent’s use of them a matter of record in order to buttress the argument that the agent had no firsthand recollection of the appearance of appellant. Appellant cannot inject the issue of mug shots for his own purposes and then object when the answer is given: Commonwealth v. Brown, 229 Pa.Super. 211, 324 A.2d 392 (1974); Commonwealth v. Dalton, 199 Pa.Super. 388, 393-4, 185 A.2d 653 (1962); Commonwealth v. Johnson, 193 Pa.Super. 69, 74, 163 A.2d 702 (1960). Our view of the matter is well summarized in the conclusion reached in Johnson, 193 Pa. Super, at p. 74, 163 A.2d at p. 705:
+“The record clearly indicates, therefore, that defense counsel brought the prejudicial remarks upon himself and, in view of the evidence of guilt produced throughout the case, we doubt whether such prejudicial statements had any effect on the jury.”
+It is also urged that appellant was denied a fair trial by the Commonwealth’s failure to call as a witness a second undercover agent who had been an eyewitness to the sidewalk transaction on which the indictment is based. It is contended that if the Commonwealth did not call the witness it should have notified appellant of his availability. The contention is groundless. The name of the second agent was not on the indictment so there was no obligation on the Commonwealth to notify the court or defense counsel that the second agent would not be called. No argument is made that his testimony would have conflicted in any way with that of the agent who testified.
+The appellant’s final argument is that the indictment was defective because it did not define the crime of being an accessory before the fact. The precise wording of the indictment is as follows:
+“Robert Jackson willfully and feloniously did become an accessory before the fact to a certain felony, to wit, the felony of the delivery of a controlled substance known as cocaine, in that the said Robert Jackson did direct Thomas Lepere a State narcotic agent to Jerry Clay for the purpose of the delivery of a controlled substance.”
+We find the wording of the indictment to be quite clear and certainly sufficient to give appellant notice of the crime of which he was charged.
+It is our conclusion that appellant had a fair trial, that the Commonwealth’s case, if believed by the jury as it was, was sufficient to sustain the verdict of guilty and that no reversible error was committed in the conduct of the trial.
+Affirmed.
+HOFFMAN and SPAETH, JJ., concur in the result only.
+The transaction took place January 9, 1973 prior to the effective date of the Crimes Code of 1972.
