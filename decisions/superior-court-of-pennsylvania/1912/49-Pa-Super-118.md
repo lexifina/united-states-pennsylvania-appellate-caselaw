@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 94"
+decided: "1912-03-01"
+citations: ["49 Pa. Super. 118"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady, Head, Beaver and Porter, JJ."]
+parties: ["Correll v. Mount Jewett Borough."]
+source_url: "https://static.case.law/pa-super/49/cases/0118-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 425704
+cites_cases: ["111 Pa. 135", "14 Pa. Superior Ct. 293", "147 Pa. 170", "162 Pa. 630", "172 Pa. 467", "172 Pa. 596", "174 Pa. 395", "19 W. N. C. 46", "216 Pa. 476", "4 Sadler, 464", "48 Pa. Superior Ct. 146", "53 Pa. 280"]
+---
+
+# Correll v. Borough
+
+## Majority (Rice, P. J.,)
+
+Opinion by
+Rice, P. J.,
+In Steelton Boro. v. Booser, 162 Pa. 630, it was held that the “grading” referred to in clause 5, sec. 2, of the Act of April 3, 1851, P. L. 320, was intended to cover the “ ordinary leveling” which is almost always necessary when a lot owner is required by a borough to grade and pavé the sidewalk in front of his premises. Judge McPherson, whose opinion was adopted by the Supreme Court, said that the phrase was chosen because its meaning is .elastic and seems to be sufficiently extensive; further, that the subject does not admit of precision and, as often happens, each case must be left for consideration in the light of its own facts. When the later remark, that “the owner must do ordinary leveling — a foot or two, perhaps more,” is read in connection with these explanatory remarks, it becomes apparent that the court did not intend to lay down an invariable rule that an excavation of two feet is, under all circumstances, ordinary leveling. Here, the petition averred that the cartway of the street had been cut away and lowered gradually from time to time within the past six years, and that, in order to make the sidewalk grade conform to this changed grade of the cartway, it was lowered “over two feet below the natural and original level of the ground and sidewalk” theretofore in common use. Following the doctrine of Steelton Boro. v. Booser, we held, in Phila. v. Weaver, 14 Pa. Superior Ct. 293, that municipal authorities cannot impose upon property owners the burden of grading sidewalks to meet substantial changes in the grade of the cartway. Therefore, it cannot be said, in this case, that the appellee is seeking to recover damages for that which it was his duty to do. Prima facie, the petition was sufficient to sustain a recovery of d'amages for change of grade, if the evidence warranted such recovery. Nor do we think the appellee went into the wrong forum or chose the wrong remedy. Sec. 27 of the act of 1851 is referred to as providing for an appeal to the quarter sessions by the person aggrieved in consequence of any ordinance, regulation, or act done or purporting to be done in virtue of the act, and making the determination and order of the court thereon conclusive. The section was evidently intended to give the court of quarter sessions certain supervisory jurisdiction over the action of council. This was the purpose for which the section was invoked in Chartiers Boro.’s Appeal, 4 Sadler, 464. But it did not provide specifically an adequate remedy for the assessment of damages caused by change of grade. This remedy was given by the Act of May 24, 1878, P. L. 129, and we cannot agree with counsel for the appellant in his contention that the act only applies to a change of grade of the entire width of the street. It might well be that the change of the grade of the cart-way did not cause damage to the appellee’s property, but that the subsequent cutting down of the portion set apart for the sidewalk did. The act of 1878 is broad enough, in terms and in intent, to authorize the appointment of viewers to assess the damages, if any be sustained by such a change of grade. This act was not repealed by the Act of May 16, 1891, P. L. 75: Seaman v. Washington Boro., 172 Pa. 467; Bowers v. Braddock Boro., 172 Pa. 596; Maxler v. Freeport Boro., 48 Pa. Superior Ct. 146. See also Klenke v. W. Homestead Boro., 216 Pa. 476. Nor was it supplanted by the Act of May 22, 1883, P. L. 39, amending sec. 27 of the act of 1851. We conclude that'the court was right in refusing the borough’s application to set aside the proceedings and strike off the judgment entered upon the report of viewers.
+The right of appeal from the assessment of damages in such cases was given by the Act of June 13, 1874, P. L. 283, and, by that act, was to be exercised within thirty days from the ascertainment of the damages or the filing a report thereof in court, and not afterwards. As the proceeding was not in the quarter sessions, the Act of May 26, 1891, P. L. 116, does not apply. Bowers v. Braddock Boro., which we have cited for another purpose, also decides that the appeal must be filed within thirty days from the filing of the report. This was not done in the present case, and, therefore, the court was right in striking off the borough’s appeal.
+The order is affirmed.
