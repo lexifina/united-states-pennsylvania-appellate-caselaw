@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 212"
+decided: "1953-01-20"
+citations: ["172 Pa. Super. 459"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, Ross and Gunther, JJ., (Arnold, J., absent)."]
+parties: ["Commonwealth ex rel. Harmon v. Harmon, Appellant."]
+source_url: "https://static.case.law/pa-super/172/cases/0459-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 477149
+cites_cases: ["162 Pa. Superior Ct. 22", "167 Pa. Superior Ct. 603", "325 U. S. 226", "325 U. S. 279", "348 Pa. 455", "35 A. 2d 335", "41 A. 2d 752", "56 A. 2d 362", "76 A. 2d 469"]
+---
+
+# Commonwealth ex rel. Harmon v. Harmon
+
+## Majority (Dithrich, J.,)
+
+Opinion by
+Dithrich, J.,
+This is an appeal by the husband from an order of the Municipal Court of Philadelphia dismissing his petition to vacate an order for the support of his wife made by that court on October 31, 1950. In dismissing the petition the learned judge of the court below refused to accord full faith and credit to a decree of divorce a.v.m., dated October 3, 1951, obtained by appellant in the State of Virginia, holding that the Virginia court was without jurisdiction.
+At the hearing on the petition, appellant testified to the following. In 1946 he married respondent and, until their separation, lived with her in Philadelphia, where he had resided since 1943. In September, 1950, following a period of hospitalization for pneumonia, he went to Virginia for a long vacation and rest, and there lived on a farm with his uncle. In November, 1951, after the entry of the decree of divorce, he returned to Philadelphia, where, in the spring of 1952, lie reopened a garage business which h¿ had established in 1949, but which he was forced to discontinue when stricken with pneumonia.
+The respondent testified that during the pendency of the divorce proceeding she saw appellant in Philadelphia in December, 1950, and in April and August of 1951. She also testified that during that time she saw him working at his place of business.
+The evidence is sufficient to support the conclusion of the court below that appellant had not established a domicile in Virginia. As stated by Judge Piekabski, “His conduct in returning almost immediately to his old place of business, his frequent returns to Philadelphia and to his place of business . . . during the pend-ency of the divorce proceeding accord with his expressed intention of establishing only an abode in Virginia for purposes of temporary convenience as contrasted with any intention of permanently establishing a new domicile.”
+Appellant’s testimony that he went to Virginia in September, 1950, given at the hearing on the petition to vacate, differed from his testimony, given at the divorce hearing in February, 1951, that he separated from his wife and went to live in Virginia in October, 1948, as did his testimony in the instant proceeding that he first got the garage in Philadelphia in 1949, a year after he testified, he went to Virginia to live. Because the record in the divorce case was not filed as part of the record in the instant case until after the learned judge had written his opinion, counsel for appellant urges that we remand the record to permit the taking of additional testimony to explain the discrepancies in appellant’s testimony.
+The order of the court below rests5 fundamentally on a finding that appellant had not established a domicile in Virginia. Domicile being an essential jurisdictional fact, the court below had the power to make its own determination based on evidence educed before it. Commonwealth ex rel. Hoffman v. Hoffman, 162 Pa. Superior Ct. 22, 25 (allocatur refused ibid, xxv), 56 A. 2d 362. In view of other admissions of appellant, bearing on the factual issue of domicile, it is our opinion that it would serve no useful purpose to afford appellant an opportunity to explain the discrepancies in his testimony as to the date he went to Virginia.
+At the hearing on the petition to vacate the support order, appellant testified that he commenced his divorce action in Virginia in April or May of 1951, but the record discloses that an award of publication of notice to respondent to appear within ten days after due publication thereof was made November 7, 1950, and that the cause came on for hearing October 3,1951. Ruth Talley, a witness for appellant in the divorce proceeding, testifying on October 3, 1951, in answer to the question “Have they lived together as man and wife since October 5, 1948?” said, “No, not since October. She left last year.” (Emphasis added.) Counsel for appellant tried unsuccessfully to get the witness to say that it was October of 1948.
+After a careful review of the entire record we are of one mind that the Virginia divorce proceeding was part of a brazen attempt by appellant to evade the order for the support of his wife.
+The principles which govern the disposition of this case were fully and succinctly stated in the case of Commonwealth ex rel. Achter v. Achter, 167 Pa. Superior Ct. 603, 76 A. 2d 469, where Reno, J., speaking for this Court, said (p. 605) : “Under the Full Faith and Credit Clause of the Federal Constitution we are required to enforce a divorce decree of a sister state as prima facie valid, but only where the forum rendering the decree had jurisdiction. Com. ex rel. Esenwein v. Esenwein, 348 Pa. 455, 35 A. 2d 335, affirmed 325 U. S. 279, 65 S. Ct. 1118. Domicile in good faith in the state granting the divorce decree is an essential jurisdictional fact, and if that ingredient is lacking the decree need not be enforced outside the state where it was secured. Com. ex rel. Meth v. Meth, 156 Superior Ct, 632, 41 A. 2d 752, (allocatur refused 157 Pa. Superior Ct. xxiv). To effect a change of domicile and thereby confer jurisdiction upon a state to dissolve a marriage wheresoever contracted, there must exist on the part of the libellant an intention to live at the divorce forum permanently or indefinitely. Williams v. North Carolina, 325 U. S. 226, 65 S. Ct. 1092; Restatement, Conflict of Laws, §19. As we said in Com. ex rel. Meth v. Meth, supra, p. 638: ‘The determination of whether an asserted acquisition of a domicile has actually occurred depends upon whether all the facts taken together indicate the establishment of a permanent residence or merely a temporary sojourn for a particular purpose.’ ”
+Order affirmed.
