@@ -1,0 +1,45 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 3155 C.D. 1985"
+decided: "1987-03-10"
+citations: ["104 Pa. Commw. 481", "522 A.2d 166"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Crumlish, Jr., Judge Barry, and Senior Judge Barbieri, sitting as a panel of three."]
+parties: ["Joyce Pate, Petitioner v. Workmen's Compensation Appeal Board (Boeing Vertol Company), Respondents."]
+source_url: "https://static.case.law/pa-commw/104/cases/0481-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1356625
+cites_cases: ["406 A.2d 583", "423 A.2d 784", "46 Pa. Commonwealth Ct. 372", "470 A.2d 1099", "474 A.2d 82", "481 A.2d 374", "487 A.2d 1053", "512 Pa. 377", "517 A.2d 523", "55 Pa. Commonwealth Ct. 449", "80 Pa. Commonwealth Ct. 1", "81 Pa. Commonwealth Ct. 579", "85 Pa. Commonwealth Ct. 128", "87 Pa. Commonwealth Ct. 558"]
+---
+
+# Pate v. Workmen's Compensation Appeal Board
+
+## Majority (President Judge Crumlish, Jr.,)
+
+Opinion by
+President Judge Crumlish, Jr.,
+Joyce Pate appeals a Workmens Compensation Appeal Board order which reversed a referees decision and denied compensation based on a psychiatric disability. We affirm.
+Pate, an electronics assembler at Boeing Vertol, was required to work with small components and wires in the manufacture of helicopter parts. Pate suffered from a pre-existing schizophrenic condition for which she had been receiving psychiatric treatment. The referee made findings of fact indicating that Pate suffered an exacerbation of her schizophrenic condition due to her supervisors repeated rejection of her work on certain electronic components. The Board reversed the referees compensation award, finding that Pates mental injury was a subjective reaction to a normal work situation.
+Pate contends initially that the Board erred because she has adequately pinpointed the cause of her psychiatric disability based upon an objective reaction to an abnormal working condition. Thomas v. Workmens Compensation Appeal Board (Atlantic Refining Co.), 55 Pa. Commonwealth Ct. 449, 423 A.2d 784 (1980).
+In Thomas this Court held that a claimants subjective reaction to a normal work condition is not a compensable injury. We further interpreted this standard in Hirschberg v. Workmens Compensation Appeal Board (Department of Transportation), 81 Pa. Commonwealth Ct. 579, 474 A.2d 82 (1984), where we held that a claimants distorted, subjective perceptions are not sufficient to provide the necessary causal connection between the employment and the mental injury. Although we agree that Pate has adequately identified actual (not merely perceived or imagined) employment events which have precipitated her psychiatric injury, these events do not constitute an abnormal working condition.
+The referees findings of fact and conclusions of law imply that having to work a full week on a task usually completed in three hours constitutes an abnormal working condition. However, the Board decided as a matter of law that such working conditions, as well as the events surrounding Pates employment termination, were not so abnormal or unusual in relation to those of her fellow workers so as to impose workmens compensation liability upon her employer. We agree with the Board.
+Our review of the record discloses no evidence that Pates working conditions were any different from those of her fellow employees. While we recognize the tedious and painstaking nature of Pates work task, these factors alone are not unusual for this type of employment. Nor does the testimony support a conclusion that it was abnormal or unusual for Pates supervisors to reject work which did not meet its standards. Criticism for improper work is not per se abnormal when an employee has a consistently poor work performance. Therefore, we agree with the Board that workmens compensation liability cannot be imposed upon Boeing Vertol based on Pates inability to continue her work duties. See Moon blatt v. Workmens Compensation Appeal Board (City of Philadelphia), 85 Pa. Commonwealth Ct. 128, 481 A.2d 374 (1984) (attorney for City of Philadelphia failed to prove that pressure and overcrowding of work environment was abnormal).
+Lastly, Pate contends that the higher burden of proof imposed upon claimants seeking compensation for mental injuries amounts to unconstitutionally disparate treatment of psychiatric and physical injuries. We disagree.
+We note initially that despite the advanced state of modern psychology, psychiatric and physical injuries are not susceptible to the same objective standard of proof. Psychiatric diagnoses are characteristically subjective in nature. Therefore, we believe that the requirement set forth in Thomas that a claimant adequately pinpoint the objective cause of a mental injury rationally relates to the governmental interest in discouraging meritless or fraudulent claims. The abnormal working condition requirement similarly deters dubious claims and, in effect, charges an employer with workmens compensation liability only where the claimants psychiatric injury can be traced to some abnormality in the work relationship. In light of the subjective nature of psychiatric claims, we believe that this additional, substantive burden of proving an abnormal work condition is reasonable to prevent a multitude of psychiatric injury claims based on normal work conditions.
+Accordingly, we affirm the decision of the Workmens Compensation Appeal Board.
+Order
+The Workmens Compensation Appeal Board order, No. A-88485 dated November 8, 1985, is affirmed.
+The referees Findings of Fact No. 4-8 and 12 read as follows:
+4. The Claimant began to grow increasingly nervous due to her inability to perform her work to the satisfaction of her supervisor. The Claimants work product was repeatedly rejected by the inspector requiring the Claimant to complete the same part over and over again.
+5. On April 27, 1981, the Claimants work on three plugs was rejected by her supervisor. The Claimant had worked for a full week on these plugs which would ordinarily take an hour each to complete.
+6. As a result of the rejection of her work on April 27, 1981, the Claimant grew sick to her stomach, developed headaches, experienced nervousness, entered a crying spell and began to hear voices.
+7. On April 30, 1981, the Claimant returned to the Defendants plant and spoke to her boss Mr. Feeney. She told him that she was on the verge of a nervous breakdown because the work was getting on her nerves.
+8. The Claimant did not return to work after April 27, 1981 and since that date has suffered from nervousness, headaches, and auditory hallucinations. She was on the verge of committing suicide a few times.
+12. The Referee also recognized that the Defendant produced witnesses who gave testimony which differed from the testimony of Claimant, Joyce Pate. The Referee finds the testimony of Joyce Pate to be more credible and convincing than that of the other witnesses.
+The Boards decision stated in part:
+In this case, the claimant experienced a normal work activity at defendants plant and, according to the claimant, could not cope with this normal activity. The claimants duties and obligations while working for the defendant were the same as those imposed on her fellow employees. The claimant took the job with an understanding of the work duties, due to the nature of defendants business. We see nothing abnormal and unusual in the work relationship between the claimant and the defendant in the performance of the work involved. Even though the claimant might not be able to continue with her normal work duties for the defendant, we see no workmen’s compensation liability to be imposed upon the defendant and/or its insurance carrier in this case.
+We note that our scope of review is limited to determining whether there was an error of law or whether a finding of feet was unsupported by substantial evidence. Section 704 of the Administrative Agency Law, 2 Pa. C.S. §704. Estate of McGovern v. State Employees’ Retirement Board, 512 Pa. 377, 517 A.2d 523 (1986).
+The Board may without taking additional evidence delete a referees finding of feet when the finding is in the nature of a legal conclusion and is directly contradicted by other findings and at odds with the record. Holy Spirit Hospital v. Workmens Compensation Appeal Board (Gilroy), 46 Pa. Commonwealth Ct. 372, 406 A.2d 583 (1979).
+We find the instant case distinguishable from the cases cited by Pate, McDonough v. Workmens Compensation Appeal Board (Department of Transportation), 80 Pa. Commonwealth Ct. 1, 470 A.2d 1099 (1984), and Bell Telephone Co. of Pennsylvania v. Workmens Compensation Appeal Board (DeMay), 87 Pa. Commonwealth Ct. 558, 487 A.2d 1053 (1985) (both involved situations where claimants’ mental injuries were due, in part, to being individually reprimanded in the presence of co-workers). No such public reprimand is evident in the record.
