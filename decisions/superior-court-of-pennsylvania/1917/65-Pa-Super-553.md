@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 176"
+decided: "1917-03-09"
+citations: ["65 Pa. Super. 553"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Kephart, Trexler and Williams, JJ."]
+parties: ["Welty v. Parry, Appellant."]
+source_url: "https://static.case.law/pa-super/65/cases/0553-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 625359
+cites_cases: ["72 Pa. 376"]
+---
+
+# Welty v. Parry
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+On the 30th of September, 1912, the plaintiffs gave to the defendants three written orders for lumber, designating Nazareth, Pennsylvania, as the point of delivery, and the time of shipment “at once.” These orders were duly accepted by the defendants. On the 30th of October, the defendants advised the plaintiffs that they were getting behind in their shipments owing to scarcity of cars, and that they could give no definite date of shipment of the lumber ordered. On November 5th they again wrote stating their inability to furnish the car of hemlock ordered and further declining any definite assurance as to the shipment of the remainder of the lumber. On November '6th the plaintiffs wrote to the defendants telling them that they would hold them to their bargain and that unless the lumber were shipped by November 16th, they would go into the open market and buy similar lumber and hold the defendants for the difference in price. This was followed by the defendants’ letter declining to ship any of the lumber and advising the plaintiffs that they would have no difficulty in procuring the lumber from other parties. After this definite refusal of the defendants to be bound by their contract, the plaintiffs went into the market and bought the lumber of the kind the defendants had contracted to deliver. Although the contract called for immediate delivery, the learned trial judge held that the question whether the plaintiffs had fixed a reasonable time for the delivery of the lumber was a question for the jury. jEIe left it to them to decide whether the date of November 16th fixed by the plaintiffs gave the defendants a reasonable time in which to ship the lumber.
+We take up the matter as it is presented by the appellants in their argument.
+1. Although the plaintiffs had fixed the time of shipment as of November 16th, the trial judge allowed them to offer as evidence proof of the price of lumber purchased by the plaintiffs prior to said date. The theory of the defendants is that plaintiffs were required to wait until the time fixed by them for the shipment of the lumber had passed. When the defendants wrote to the plaintiffs “We will not ship any lumber at all,” it definitely settled the question of plaintiffs getting any lumber from them. It was not incumbent upon the plaintiffs to wait until the time had expired. Why require them to do a vain thing and wait after the defendants had avowed that they were no longer bound by the contract? We take the view that as soon as the defendants repudiated the contract and advised the plaintiffs that they could get the lumber elsewhere, that the plaintiffs could take them at their word and go into the open market and supply their needs by purchasing such lumber as the contract called for.
+2. Defendants claim that,even if this view be correct, it was incumbent upon the plaintiffs to show that they had received the defendants’ letter, declining to furnish any lumber, prior to the date the purchases were made in the open market and that plaintiffs, having failed to show this, the items showing purchases before said date were inadmissible. An examination of the records discloses that the only objection to the bills showing the purchases of lumber elsewhere than from the defendants was that they bore date prior to November 16th, the date fixed for the shipment of the lumber by the plaintiffs. This present objection that they bore date prior to the receipt by the plaintiffs of the cancellation of the contract by the defendants is evidently an afterthought. If made at the trial it would have been easily overcome, for an examination of the paper book shows that in the course of dealings between the parties the time consumed in the carriage of letters .by post from Philadelphia to .Nazareth' was far less than that elapsing between the date of defendants’ letter, to wit, November 8th, and the dates of the bills.
+3. A witness was put on the stand for the purpose of testifying to the market price of lumber at the time of the alleged breach. This was the only subject upon which he was questioned by the plaintiffs. The defendants asked the [witness whether mills carry lumber of the size and kind shown in one of the bills, in stock. The court sustained the objection. We see no error in this. The question bore no apparent relation to the subject of the examination in chief.
+4. As to the&question of market value the test is the price at the place where the defendants engaged to deliver the lumber: Kountz v. Kirkpatrick, 72 Pa. 376.
+5. The written contract is supposed to be the final expression of the minds of the parties contracting. Testimony on the part of the defendants to show what passed prior to the making of the contract and any conditions attaching to the contract, was properly excluded by the court. If the defendants wished to show that the written order was not the entire contract of the parties they should have made an offer of proof showing upon what theory of law they claimed the right to modify it.
+6. There was an offer to prove that there was a shortage of cars and that the defendants were thus unable to comply with their contract within the time set by the plaintiffs. The counsel of both parties appear to have conceded that such shortage had to be general. The court excluded proof of local conditions showing a lack of cars. Whether this was strictly correct or not we need not discuss. In view of the position taken by the pasties we cannot regard the refusal of the court to allow proof of local shortage, as reversible error.
+All assignments of error are overruled and the judgment is affirmed.
