@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 115"
+decided: "1924-07-02"
+citations: ["83 Pa. Super. 326"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Henderson, Trexler, Linn and Gawthrop, JJ."]
+parties: ["Haggerty v. Liberty Ledger Publishing Company et al., Appellants."]
+source_url: "https://static.case.law/pa-super/83/cases/0326-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 661235
+cites_cases: ["170 Pa. 354", "220 Pa. 420", "45 Vt. 137", "7 W. N. C. 92", "7 Watts 387"]
+---
+
+# Haggerty v. Liberty Ledger Publishing Co.
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+C. T. Pauli and John E. Haggerty formed a partnership to conduct a newspaper business. They were equal partners. In the contract of employment between the partners and their manager, the following clause appeared : “It is likewise agreed between the parties of the first and second part that in the event of incorporation, the party of the second part will have the right to subscribe to shares of stock of said corporation. Parties of the first part retaining the right to purchase said stock from party of the second part in case he desires to sell.” Thereafter the Liberty Ledger Publishing Company was incorporated on March 23, 1921, with 100 shares of common stock, John F. Haggerty, the appellee and C. T. Pauli, the appellant, each owing 49 shares, the remaining two shares being held for Haggerty and Pauli by nominal parties. On January 16, 1922, these shares were voted to Edwin S. Gessner for his faithful services as editor and manager of the Liberty Ledger Publishing Company during the preceding year being in the nature of a bonus to him. On October 3, 1922, Gessner sold his two shares of stock to Pauli for the consideration of $500. On March 16, 1923, Haggerty, the appellee, by a suit in equity sought to compel C. T. Pauli to transfer and assign to him one of said shares upon the payment of one-half of the consideration of the two shares, to wit, $250. It is claimed by the appellant that these shares of stock were held by Gessner without any restrictions and that he could freely sell them to any one, that the original agreement between the partners merely provided that Gessner was to have the right to subscribe to shares of stock if a corporation was formed and that he had not subscribed for them but that they were transferred to him. It is the familiar maximum in equity that it regards substance or intent rather than form. While it is true that the word “subscribe” has a limited meaning, there is no doubt that the intention of the parties to the contract was that if Gessner obtained any shares of stock in the corporation from them, the equality between Pauli and Haggerty should not be disturbed by his selling the stock to either, but that such stock was, if sold, to return to them jointly. When the stock was given to Gessner for faithful service, even if Gessner could have given title to a stranger, it was the intention that neither of the partners should thereby indirectly get control of the corporation and such transaction would be in violation of the evident intention of the parties. The lower court was, we all think, right in deciding that the original contract determined the relation of the parties in regard to above two shares and bound them to preserve equality as owners of the stock of the corporation. What has been said in Sherman v. Herr, 220 Pa. 420, 423, may appropriately be repeated here: “The contract entered into by the parties required them to act in the utmost good faith towards each other in purchasing the stock. Each acted for the other as well as himself. Equity, therefore, will not permit the. purchaser to hold the stock which was purchased for the other party. A party purchasing stock under the circumstances of this case becomes a trustee and holds it for the other party in the joint venture: 23 Cyclopedia of Law and Procedure, 455. He is a trustee ex maleficio for the plaintiff and as such is required to account to the plaintiff for the one-half of the stock he purchased: Kennedy v. McCloskey, 170 Pa. 354; Fairlamb v. Hempshire, 7 W. N. C. 92. Confidence was reposed by the plaintiff and defendant in each other in entering into the contract to make the purchase of this stock, and justice forbids that it shall be abused: Rankin v. Porter, 7 Watts 387.”
+There is some evidence to the effect that the plaintiff, Haggerty, was seeking to obtain the same advantage over Pauli, as Pauli subsequently tried to obtain over him. The answer to this is that the judge who heard the case did not believe the testimony of the witness who was produced to establish these facts. He came to the conclusion that there was no evidence that Haggerty made any overtures directly or indirectly to secure from Gessner the stock he had.
+The decree of the lower court is affirmed, the appellant to pay the costs of this appeal.
