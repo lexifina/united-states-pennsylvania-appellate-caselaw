@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 254"
+decided: "1920-02-28"
+citations: ["73 Pa. Super. 564"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Trexler, Keller and Linn, JJ."]
+parties: ["Commonwealth v. McCullen, Appellant."]
+source_url: "https://static.case.law/pa-super/73/cases/0564-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 643371
+---
+
+# Commonwealth v. McCullen
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+The defendant was convicted of fornication and bastardy in the court below and appeals from that judgment. In the presentation of the case of the Commonwealth the district attorney failed to ask the young girl who was the prosecutrix whether she had ever been married and as a consequence the appellant, in his statement of the questions involved, contends that the judgment should be reversed for two reasons. “First: Where under a prosecution for fornication and bastardy the Commonwealth fails to prove that a prosecutrix is a single woman, and further fails to prove nonaccess of husband, the Commonwealth has failed to make out a case.” “Second: Where in a charge of fornication and bastardy the Commonwealth fails to prove that the prosecutrix and defendant are not husband and wife, the Commonwealth has failed to make out a case and the conviction must be set aside or a new trial granted.”
+The case of the Commonwealth may have been presented in a careless manner, a single question, as to the answer to which there can.be scarcely a doubt, would have prevented this appeal, but that is not necessarily a proper reason for reversing this judgment. The prosecutrix in this case was a young girl, between sixteen and seventeen years of age, at the time the offense is alleged to have been committed. She was living at the home of her father and was called by her companions Miss Nace. The single state is, during early life, the natural one; nor is there any period at which it is necessarily terminated or merged into marriage. In the absence, therefore, of testimony tending to the contrary, the presumption is that celibacy which exists during youth continues. Until the fact is drawn into actual question, no affirmative testimony on this point was required from the prosecution: Gaunt v. State, 50 N. J. L. R. 490. The learned counsel who represented the defendant at the trial evidently assumed this to be the true principle, for he fully cross-examined the prosecutrix as to her relation with other men about the time this child must have been begotten, and if the testimony which he thus brought out was true no other man had connection with her at or about that time. He certainly was fully satisfied that the prosecutrix was a single woman, or lie would not have thus developed the fact that no imaginary husband had access to her. The learned judge of the court below properly refused to arrest the judgment upon the ground stated in the first question involved.
+The contention of the defendant presented under the second question stated to be involved cannot be sustained. It was, of course, necessary, in order to warrant a conviction, for the Commonwealth to produce evidence sufficient to warrant a finding that the prosecutrix and the defendant were not husband and wife. This evidence may, however, consist in fully disclosing the relations in which the parties stood to each other, and the circumstances in which they acted. It is not necessary that the declarations of the witness should be in any specific words, or that the witness should be asked a direct formal question. The prosecutrix in this case testified that she was not acquainted with the defendant, had not met him or spoken to him, until the evening of August 4, 1918, when she was walking with a friend, and the defendant, who was riding in his automobile, accosted them, that he invited her into his car, which invitation she accepted, that her friend left them, that she and the defendant then took a ride in the car, and she related in detail everything that occurred until after the unlawful connection had taken place. The defendant, testifying in his own behalf, said that he had never met the prosecutrix until after the 4th of .•August, 1918. If either of the parties told the truth "they certainly were not husband and wife át the time this offense is alleged to have been committed. The evidence was fully sufficient to warrant a jury in finding that the parties were not husband and wife. The court did not err when it overruled the motion in arrest of judgment.
+The judgment is affirmed and it is ordered that the defendant appear in the court below at such time as he may be there called and that he be by that court committed until he has complied with the sentence or any part of it which had not been performed at the time the appeal in this case was made a supersedeas.
