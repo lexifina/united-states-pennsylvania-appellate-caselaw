@@ -1,0 +1,50 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeals, Nos. 1039 C.D. 1984 and 1040 C.D. 1984"
+decided: "1985-05-24"
+citations: ["89 Pa. Commw. 490"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail, Barry and Colins, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania, Department of Transportation, Appellant v. Henry J. Beamer, Appellee. Commonwealth of Pennsylvania, Department of Transportation, Appellant v. Henry J. Beamer and Elizabeth S. Beamer, his wife, Appellees."]
+source_url: "https://static.case.law/pa-commw/89/cases/0490-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1330164
+cites_cases: ["149 A.2d 641", "22 Pa. Commonwealth Ct. 262", "244 A.2d 779", "348 A.2d 762", "395 Pa. 343", "431 Pa. 240"]
+---
+
+# Commonwealth, Department of Transportation v. Beamer
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+The Pennsylvania Department of Transportation (DOT) appeals here from a decision of the Court of Common Pleas of Somerset County which ordered that two contiguous parcels of land condemned in part by DOT must be treated as one parcel for the purpose of assessing damages. Although we are not in agreement with all of that Count’s rationale, for the reasons set forth below we will affirm.
+The Beamers were married in 1950. In 1956, Henry J. Beamer purchased a tract of land approximately one acre in area. In 1970, the Beamers as tenants by the entireties purchased a contiguous tract of laud containing approximately 5.48 acres. Both tracts were undeveloped and they remained vacant and undeveloped until July 16, 1979, when DOT filed a declaration of taking condemning a portion of each lot. The Beamers petitioned for the appointment of viewers for each parcel of land. At the hearing held by the viewers, the Beamers argued that the two parcels should be assessed as one to determine the amount of damages. The Beamers predicated their argument upon Section 605 of the Eminent Domain Code (Code), Act of June 22, 1964, Sp. Sess., P.L. 84, as amended, 26 P.S. §1-605, which states “ [w]here all or a part of several contiguous tracts owned by one owner is condemned or a part of several non-contiguous tracts owned by one owner which are used together for a unified purpose is condemned, damages shall be assessed as if such tracts were one parcel.” (Emphasis added.)
+The parties submitted the issue of construction of Section 605 of the Code to the trial court. That Court, in its opinion, analyzed the theory of unity of use in determining that the two tracts should be assessed as one. We are constrained to disagree with this analysis inasmuch as our Supreme Court has said that “the ‘unity of use’ doctrine should be limited to situations involving non-contiguous land and not extend to contiguous tracts.” Elgart v. Philadelphia, 395 Pa. 343, 346, 149 A.2d 641, 643 (1969). This Court has followed Elgart. See Moore v. Montgomery County, 22 Pa. Commonwealth Ct. 262, 348 A.2d 762 (1975).
+The Code was enacted as a codification of the laws concerning eminent domain. As such, its purpose is to ensure just compensation to those persons whose land is condemned by eminent domain. Our research has disclosed no Pennsylvania oases which construe the phrase “owned by one owner.” As counsel for the Beamers states, that phrase is not without ambiguity. Had the legislature intended to say “owned by one owner of record” or “titled in the same party,” it could have done so. Lacking such precision, we must refer to the rules of statutory construction found in the Statutory Construction Act of 1972, 1 Pa. C. S. §§1501-1991 (Act).
+Because we find that the words of Section 605 of the Code are not explicit we may consider, among other things, the object to be attained by the statute : that condemnees receive just compensation. We also must consider that although provisions conferring the power of eminent domain and provisions exempting property from the power of eminent domain must be strictly construed, Section 1928(b) (4) and (6) of the Act, 1 Pa. C. S. §1928(b)(4) and (6), the provision in question is to be liberally construed to effect its object and provide a just result. Section 1928(c) of the Act, 1 Pa. C. S. §1928 (c).
+As was noted by Elgart, when two contiguous tracts of land are acquired by a single owner, the combined parcel may be worth more than the total value of each tract considered separately. We believe that Section 605 of the Code recognizes that there may be an advantage to the landowner in assessing two or more contiguous tracts as a single parcel, and that just compensation requires such assessment.
+We hold that where a husband and wife seek an assessment of damages pursuant to Section 605 of the Code, and the contiguous properties were purchased by one or both of the spouses during the marriage and can best be used as a single parcel, such properties shall be deemed “owned by one owner” although one parcel is titled in the name of both spouses and the other is titled in the name of one spouse.
+Order affirmed. "We will remand this matter to the court of common pleas for trial or such further proceedings as are necessary.
+Order
+The order of the Court of Common Pleas of Somerset County dated March 22, 1984, Nos. 261 and 262 Civil 1983, is hereby affirmed. The matter is remanded to that Count for further proceedings as necessary.
+Jurisdiction relinquished.
+Amended Order
+Now, May 30, 1985, the Order of this Court entered May 24, 1985, is hereby amended to read as follows:
+The order of the Court of Common Pleas of Somerset County dated March 22, 1984, No. 261 Civil 1983 and No. 262 Civil 1983 is hereby affirmed. The matter is remanded to that Court for further proceedings as necessary.
+Jurisdiction relinquished.
+Henry J. Beamer and Elizabeth S. Beamer, his wife (Beamers), brought two civil actions seeking an award of damages for condemnation of their property. The actions were consolidated in the trial court and the parties submitted to that Court the legal issue of whether the two parcels of land in question should be considered as one. The appeals to this Court have also been consolidated for argument.
+Our scope of review of the decision of the trial court in the instant case is to determine whether that Court committed an error of law. The matter was before the trial court solely on the parties’ motion for consideration of the legal issue of the applicability of Section 605 of the Eminent Domain Code (Code), Act of June 22, 1964, Sp. Sess., P.L. 84, as amended, 26 P.S. §1-605.
+It is important to note that the order appealed from is interlocutory, notwithstanding the fact that DOT had the order reduced to judgment and entered in the Judgment Docket of Somerset County. The order is not final such that under ordinary circumstances we would consider an appeal taken from it. The proper procedure to have been followed by the parties is found in Pa. R.A.P. 1311, petition for permission to appeal. We feel, however, in the present circumstances nothing is to be gained by a remand without consideration of the merits of this appeal. The parties jointly petitioned the trial court for the order from which DOT appealed. In their joint petition they stated
+4. At the viewers [sic] hearing on these matters, the question arose concerning the applicability of Section 605 of the Eminent Domain Code, or the “Unity of Use” doctrine.
+5. The question of whether the “Unity of Use” doctrine applies to this matter must be determined in order for the parties to appraise these properties consistently.
+6. The resolution of this issue will in all probability avoid the necessity for trial on this matter.
+In light of these joint averments by the parties and in the interest o£ judicial economy, we have addressed the substantive issue raised by this appeal.
+Our recitation of the facts regarding ownership and development of the land in question is taken from the opinion of the common pleas court. We recognize that our construction of Section 605 of the Code must rely upon these facts, although no hearing was held before the common pleas court nor did that Court rule upon the record developed before the Board of View. We believe that the parties have bound themselves to an acceptance of these facts by their joint action in asking the common pleas court to determine the applicability of Section 605 of the Code to the ease at bar.
+The common pleas court accepted as fact the Beamers’ averment that the parcels of land would best be used if developed for a single purpose.
+This case was decided prior to the adoption of the Code; however, it is our opinion that Section 605 of the Code is consistent with the prior statement found in Mlgart.
+We note too that the land in question was undeveloped at the time of condemnation and that the unity of use was one which was contemplated for the future. The instant ease is distinguishable from Sams v. Redevelopment Authority, 431 Pa. 240, 244 A.2d 779 (1968). In that case the tracts of land were not contiguous. The issue before the Court was whether there was unity of use where a business was operated on one tract by a partnership and another business was operated on the other tract by a corporation solely owned by the individual members of the partnership. ' The Court refused to pierce the corporate veil in order to find joint identical users and consequently found no unity of use under those circumstances. In the case sub judice, the two tracts are contiguous and there is an identity of ownership, notwithstanding the fact that one tract is in the name of the husband and the other in the name of the husband and Wife.
+Section 1921(c) of the Act, 1 Pa. C. S. §1921(e).
+In the instant ease Mr. Beamer testified before the Board of View that the subject property was commercial property and that it had been his intention to use the property as a whole for commercial development.
