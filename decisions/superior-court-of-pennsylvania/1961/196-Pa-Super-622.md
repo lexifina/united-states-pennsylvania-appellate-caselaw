@@ -1,0 +1,38 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 194 and 195"
+decided: "1961-12-14"
+citations: ["196 Pa. Super. 622"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, Wright, Woodside, Watkins, Montgomery, and Flood, JJ. (Rhodes, P. J., absent).", "Before Soffel, J."]
+parties: ["Graham et al., Appellants, v. Sieger."]
+source_url: "https://static.case.law/pa-super/196/cases/0622-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 754777
+cites_cases: ["130 A. 2d 212", "141 A. 2d 408", "153 A. 2d 477", "157 A. 2d 56", "183 Pa. Superior Ct. 148", "392 Pa. 628", "397 Pa. 134", "398 Pa. 69"]
+---
+
+# Graham v. Sieger
+
+## Majority (Montgomery, J.,)
+
+Opinion by
+Montgomery, J.,
+This is an appeal from a judgment of compulsory nonsuit in an action of trespass, occurring out of personal injuries sustained by the minor appellant Mark Graham, on September 16, 1956 at about 7:00 P.M., when he, a pedestrian, was struck by the automobile operated by the appellee Madeline Sieger, in the 200 block of Rustic Avenue, Mt. Oliver, Pennsylvania.
+Suit was instituted on behalf of the injured minor by his guardian, and also by the minor’s father in his own right, against the driver and her husband, Robert Sieger. During the subsequent jury trial, at the conclusion of the plaintiffs’ (appellants’) case, the lower court gave a judgment of compulsory nonsuit as to both defendants on motion of counsel. A motion to remove the compulsory nonsuit was filed and argued before the court en banc, which refused the motion.
+At the trial the appellants developed that immediately before the accident, Mark Graham, then age four, was playing among a group of children in front of the residence of Edwin A. Comfort, which is on the north side of Rustic Avenue, a three lane throughfare running generally east and west. Mrs. Sieger turned west onto Rustic Avenue below the scene of the accident and proceeded at about 15 miles per hour. At a disputed point between the houses known as 202 and 208 Rustic Avenue, Mark Graham stepped out from the north curb heading in a southerly direction and commenced to cross the street, when he was struck by the right front of Mrs. Sieger’s automobile. When the vehicle and the youngster came to rest, Mark Graham was lying about two feet west of the extreme right front side of the Sieger vehicle.
+Mrs. Sieger testified that she was on a mission of her own to shop for her daughter, and she stated that Robert Sieger, her husband, had not requested or ordered her to do anything for him. Appellants have not contradicted that testimony and are bound by it, and there is therefore no proof at all upon which to impute any negligence to Robert Sieger. Geiger v. Schneyer, 398 Pa. 69, 157 A. 2d 56.
+As to Mrs. Sieger’s liability, appellants’ evidence was based on tbe testimony of one eyewitness, William Santos, eleven years old, and two other witnesses who observed the scene a very short time after impact. The appellants contend that the evidence raises a question of whether Mark Graham was on the street such a length of time before the accident occurred that the defendant, in the exercise of due care, should have seen him and avoided the accident.
+Billy Santos, the only eyewitness to the accident, testified, that Mark Graham stepped off the north curb and walked between two parked cars, five feet apart, into the street; that when Mark stepped off the curb the Sieger car had not yet reached the rear of the first parked car; that when Mark first saw the Sieger car it was so close he was unable to do anything; that Mrs. Sieger tried to stop but could not before hitting the boy.
+Appellants’ witness Edwin A. Comfort stated that he had been standing on the sidewalk just before the accident; that he saw Mrs. Sieger drive by and that the next thing he knew about the accident was when he heard the noise. He admitted that Mark Graham had walked into the street between two cars, although he estimated the distance between the cars at twenty feet, and that at the time Mark Graham was so small that the top of his head was below the top of the fenders of the current model cars.
+Appellants’ witness Edward L. Ellgass stated that he was in his kitchen in the rear of the house when the accident occurred. He was uncertain of the position of any parked cars other than that there were none directly in front of his house.
+The appellants claim that the testimony of the witnesses Ellgass and Comfort indicates that there was a distance of from 20 to 40 feet of unobstructed curb west of the last parked car to the point where the youngster was lying after the accident.
+It is our conclusion, after a careful study of the testimony, that it fails to show such possibility. However, even admitting the appellants’ conjecture as to the distance between the parked cars, their conclusion is manifestly incorrect. The uncontradicted testimony shows that the Sieger car was moving at 15 miles per hour at the instant of impact. Appellants are equating the point of impact with the point where the youngster was lying after the accident, while the testimony shows, and normal reasoning would indicate from the part of the car striking the boy, that his body was thrust in the direction of the car’s motion.
+The only disputed question here is the relative proximity of the parked cars to each other, but even if we would disregard the testimony of the eyewitness and consider the distance between the parked cars from the testimony most favorable to the appellants, it could only be conjecture or guess on the part of a jury as to where the child entered the street and whether Mrs. Sieger could possibly have seen him in time.
+When a party who has the burden of proof relies upon circumstantial evidence and inferences reasonably deducible therefrom, such evidence, in order to prevail, must be adequate to establish the conclusion sought and must so preponderate in favor of that conclusion as to outweigh in the mind of the fact-finder any other evidence and reasonable inferences therefrom which are inconsistent therewith. Smith v. Bell Telephone Company of Pennsylvania, 397 Pa. 134, 153 A. 2d 477. Proving the existence of an opportunity for an accident to happen is insufficient to establish negligence. Hillelson v. Renner, 183 Pa. Superior Ct. 148, 130 A. 2d 212.
+The testimony of the witnesses Comfort and Ellgass establish nothing more than an accident and the absence of any parked vehicle in front of the Ellgass house. There is nothing in their testimony to show where Mark Graham entered the street, how he entered the street, or where Mrs. Sieger was driving at the time he entered the street. There is no proof that Mrs. Sieger could have seen the boy in time to avoid the collision by the exercise of due care, and from the testimony of Billy Santos it is clear that she could not have seen the boy, and that the accident was unavoidable.
+The mere happening of an accident is not evidence of negligence. It must be proved by a fair preponderance of evidence that the defendant was negligent and that her negligence was the proximate cause of the accident. Gift v. Palmer, 392 Pa. 628, 141 A. 2d 408; Hillelson v. Renner, supra.
+Viewing the evidence in the light most favorable to the appellants, together with every reasonable inference therefrom, we are unable to ascertain any issues or inference of negligence which require determination by a jury, and we conclude that the lower court did not err in granting the compulsory nonsuit.
+Judgment affirmed.
