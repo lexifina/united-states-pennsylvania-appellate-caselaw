@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 16"
+decided: "1939-09-27"
+citations: ["137 Pa. Super. 60"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Stadteeld, Parker, Rhodes and Hirt, JJ."]
+parties: ["Kosman’s Estate."]
+source_url: "https://static.case.law/pa-super/137/cases/0060-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1021084
+cites_cases: ["155 Pa. 96", "160 A. 724", "25 A. 889", "307 Pa. 84", "90 Pa. Superior Ct. 189"]
+---
+
+# Kosman's Estate
+
+## Majority (Hirt, J.,)
+
+Opinion by
+Hirt, J.,
+Appellant claims an equal share with the other legatees on distribution, under the following provisions of the will of decedent: “Third: I direct my executors to collect the balance due on mortgages and interest on same from the following children, namely, Edwin, Wilfred and Robert Kosman. If either one of the above mentioned does not satisfy his mortgage and interest he is to receive Five ($5.00) Dollars as his share. However, if they all comply with the above mentioned requirement they are to receive their full share of the remaining property, real personal or mixed, share and share alike.” “Fifth: I direct that the balance of my estate, real, personal or mixed, be converted into cash, and be divided between my eight children,......share and share alike, subject however to the stipulation mentioned in the Third bequeath.”
+The lower court found that appellant and each of two other sons of decedent had failed “to satisfy his mortgage” and awarded each of them but five dollars on distribution of the estate.
+Appellant bought land in 1928 and borrowed the purchase price from decedent and gave her a mortgage on the land for $2,900, payable in three years with interest at five per cent. The, principal was not reduced during his mother’s lifetime, and at her death there were unpaid taxes against the land and appellant was in default in the payment of interest. A demand for the payment of the mortgage was made by the executors, which was ignored, and thereafter, on foreclosure proceedings, execution was issued on the accompanying bond and levy made not only on the real estate described in the mortgage, but on appellant’s personal property as well. To save his personal property appellant offered to convey the land to the executors; this offer was accepted and the conveyance was made, whereupon the executors satisfied the mortgage of record. The mortgage had been appraised, in the administration of the estate, at $2,000, but the executors by resale, with leave of court, were able to realize but $1,800 for the land. This sale price was about the market value of the property, and by the failure of appellant to pay his mortgage in full, the estate sustained a loss of $1,100 in principal and in addition, the amount of the unpaid taxes and interest.
+In construing the will, the intention of the testator must govern (Mayhew’s Est., 307 Pa. 84, 160 A. 724) and from the plain language of the will it is apparent that testatrix intended that appellant’s obligation to “satisfy his mortgage and interest” could be performed only by payment of his obligation in full, with interest. His position in this appeal would have some merit if the value of the property conveyed and the amount realized from its resale by the executors were equal to or greater than his total obligation. But the land admittedly was not worth the amount of the mortgage, and a sale at market value actually resulted in a loss to the estate. It was Edwin Kosman, the appellant, who by the will was required to satisfy this obligation, and therefore the fact that the executors satisfied the mortgage of record after the conveyance, gave appellant no additional rights under the will. Satisfaction of a mortgage by a mortgagor and satisfaction by a mortgagee involve entirely different processes. To make marketable title to a purchaser the executors were obliged to remove this lien from the record, for a purchaser could, not be required to assume that there was a merger, for merger does not necessarily follow from a conveyance of the land to the mortgagee: Carrow v. Headley, 155 Pa. 96, 25 A. 889. And by the will the executors were required to convert the estate into cash.
+Moreover, it is not pretended that there was any agreement between the appellant and the executors that the conveyance was to be considered payment of the obligation. At most, appellant understood that the executors would not look to him for the payment of the loss on resale of the property and that the mortgage would be satisfied of record, although there was no express agreement to that effect. Therefore there was no accord and satisfaction of the obligation, for accord and satisfaction cannot be implied from language of doubtful meaning: Pratt v. Pratt, 90 Pa. Superior Ct. 189. On any view, however, accord and satisfaction of the mortgage debt between the executors and appellant could not give appellant the right to an equal share in the estate, for that right must rest not upon an agreement of executors but upon the provisions of the will, and it is the testatrix’s intention and not the executor’s agreement which determines which provision of the will must govern. If effect be given to that expressed intention, only payment by appellant in full would satisfy his mortgage and interest. Since he did not pay his obligation he is entitled under the will to but five dollars, and this he has received.
+Judgment affirmed.
