@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 202"
+decided: "1899-01-18"
+citations: ["9 Pa. Super. 332"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beater, Orlady, Smith, W. W. Porter and W. D. Porter, JJ."]
+parties: ["William H. Peterson v. Alexander J. Russell, Appellant."]
+source_url: "https://static.case.law/pa-super/9/cases/0332-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 817225
+cites_cases: ["124 Pa. 347", "31 Pa. 225", "32 Pa. 160", "36 Pa. 373", "6 W. N C. 220"]
+---
+
+# Peterson v. Russell
+
+## Majority (W. D. Pouter, J.,)
+
+Opinion by
+W. D. Pouter, J.,
+Judgment was entered on September 9, 1896, in favor of plaintiff and against defendant for $285.67, without waiver by defendant of the benefit of exemption. On March 5, 1897, a judgment was entered against the defendant in favor of John F. Betz upon a judgment note which expressly waived the benefit of all exemption laws. An execution attachment was issued upon the last named judgment and John S. Kane, summoned as garnishee and in that proceeding judgment was duly jpnjiej.'ed, on May 21,1897, against the garnishee and in favor of Betz. On May 27, 1897, the plaintiff issued an execution attachment upon his judgment summoning Kane as garnishee, which writ was duly served the same day. Kane, the garnishee, was at that time indebted to the defendant in the sum of $575.28, but, with the acquiescence of the defendant, he, on June 2, 1897, paid to Betz the sum of $182.41, being the amount of the judgment held by the latter against Russell with costs, thus reducing the fund in Kane’s hands to $892.87. The original judgment of Betz against Russell, and also the judgment of Betz against the garnishee were satisfied of record upon receipt by Betz of the payment above recited. Russell, the defendant, then asserted a right as against the judgment of Peterson, under the act of assembly approved April 9,1849, to have set apart to him $300 of the fund in the hands of Kane and, on June 4,1897, duly gave notice of his claim.
+Plaintiff having served interrogatories the garnishee filed answers setting forth the above recited material facts. The court, on motion of plaintiff, granted a rule on defendant to show cause why “ the defendant’s claim for the $300 exemption should not be set aside as to $182.41 of it.” This rule was subsequently made absolute, which action of the court is assigned for error. The only question presented by the record is the extent to which Russell could assert his right to exemption, out of the fund in the hands of Kane, as against the attachment of Peterson. By virtue of the provisions of the Act of June 16, 1836, P. L. 767. the attachment of Peterson bound the fund in the hands of Kane from the time of the service of the writ, but it was subject to defendant’s claim to the exemption and to the prior attachment of Betz, upon which exemption was waived. The effect of Russell’s assertion of his claim to exemption is to divide the amount owing by Kane into two funds, one of which, viz: $300, is as against Peterson exempt; the other, $275.28, is liable to both attaching creditors. But Betz had a claim upon both funds. The debtor was common to both and this is a fair case for the application of the equitable principle which forces Betz upon the fund which Peterson could not touch-Shelly’s Appeal, 36 Pa. 373. Betz’s claim must, therefore, be taken out of the $300 to which the defendant would have been entitled in the absence of a waiver of exemption. After deducting the $182.41 necessary to pay Betz, there still remained $117.59 as to which the defendant’s claim of exemption was effective, as against the attachment of Peterson. The remaining $275.28 must be applied to the Peterson attachment.
+The learned cojmsel for appellant has earnestly argued that, as the claim of Betz has been paid, appellant is entitled to have set apart to Mm, out of the balance remaining in Kane’s hands, the entire $300 exemption. If appellant had paid the claim of Betz, or if that claim had been made out of any other property, the result would have been to release the fund in Kane’s hands from the Betz attachment; whereupon the appellant would have become entitled to his entire exemption out of the sum owing by Kane, but, as the Betz attachment would have been out of the way, Peterson would still have taken the same surplus, to wit-: $275.28. The difficulty with the position of appellant is that he did n'ot pay the claim of Betz, but simply acquiesced in the application of a part of the fund, which two • of his creditors had attached, in the same manner in which the law would have applied it if the money had been paid into court.
+By undertaking to distribute the fund in this way, after the attachment of Peterson had been served, he could not defeat the rights of the attaching’creditor. If the judgment of Betz had been paid by Kane prior to service of Russell’s attachment an entirely different question would have been presented: Bowman v. Smiley, 31 Pa. 225. We have in tMs case a waiver as to a prior lien which must inure to the benefit of the subsequent lien, so far as to compel the waiver creditor to resort first to the exempt fund. The waiver being upon a judgment for less than $300, the defendant is entitled to the balance of his exemption after deducting that judgment: Hallman v. Hall-man, 124 Pa. 347.
+The judgment is affirmed at costs of appellant.
