@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 7"
+decided: "1903-10-05"
+citations: ["23 Pa. Super. 381"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, W. D. Porter, Morrison and Henderson, JJ."]
+parties: ["Johnstown v. Central District and Printing Telegraph Company, Appellant."]
+source_url: "https://static.case.law/pa-super/23/cases/0381-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 847722
+cites_cases: ["10 Pa. Superior Ct. 227", "112 Ala. 557", "127 U. S. 640", "141 U. S. 18", "142 U. S. 339", "145 U. S. 1", "153 U. S. 692", "155 U. S. 688", "164 U. S. 650", "43 Neb. 499", "48 N. J. Eq. 91", "56 Neb. 572", "62 Pa. 286", "8 Pa. Superior Ct. 141", "99 Pa. 535", "99 Tenn. 684"]
+---
+
+# Johnstown v. Central District & Printing Telegraph Co.
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+The defendant company is a Pennsylvania corporation doing business in the city of Johnstown, where it has a local telephone system. It is also engaged in the same business in other cities and towns in Pennsylvania, and has its lines extended into the states of West Virginia and Ohio, and is engaged in interstate commerce between the states named, and also in commerce exclusively within the state of Pennsylvania. The city of Johnstown is a city of the third class, and is therefore expressly authorized to impose the license tax referred to in the case stated under paragraph 3 of clause IV of article V of the act of May 23, 1889. The ordinance imposing the charge is general in its terms, makes no discrimination between subjects of taxation of the same class, is not unreasonable, and is not prohibitive of the business.
+It may be conceded that if the ordinance referred to is a regulation of or imposes a burden upon interstate commerce it is repugnant to the federal constitution, and therefore invalid, It is equally true that a person, partnership or corporation engaged in both intrastate and interstate commerce is not exempt from liability to tax on intrastate business: Ficklen v. Shelby County, 145 U. S. 1 (12 Sup. Ct. Repr. 810) ; Pullman Palace Car Co. v. Commonwealth, 141 U. S. 18 (11 Sup. Ct. Repr. 876); Postal Telegraph Cable Co. v. Charleston, 153 U. S. 692 (14 Sup. Ct. Repr. 1094).
+The appellant being admittedly engaged in business done wholly within the state of Pennsylvania, it is subject to the operation of the ordinance unless it clearly appear that the ordinance also imposes a tax upon its interstate business.
+The first section of the ordinance enacts “that every person, firm or corporation in the several classes hereinafter mentioned doing business in the city of Johnstown shall on or before the 25th day of April in each and every year apply to the city controller for a license,” etc.
+Section 2 of the ordinance provides, among other classes, that “ every telephone company shall pay $100.”
+Nothing in the language of the ordinance indicates a municipal intention to tax interstate commerce business. On the contrary, it discloses an intention to impose a tax upon business done within the city of Johnstown only. The appellant is engaged in the management of a local telephone system in that city. The city has power to impose the license tax upon such business, and, in addition to the language of the ordinance, it is a fair presumption that such was the intention. “ A state law must operate directly as a regulation of commerce before it will be pronounced unconstitutional: ” Commonwealth v. Phila. & Reading R. R. Co., 62 Pa. 286. It is presumed that a legislative body does not intend to exceed its power, and that its laws were intended to operate within the limits of its jurisdiction : North Wales Borough v. Brownback, 10 Pa. Superior Ct. 227.
+The ordinance bears the interpretation put upon it by the court below, and the court was therefore warranted in treating it as imposing a tax upon the local business of the defendant company only.
+If there were a doubt in regard to the construction of the ordinance, it should be resolved in favor of its validity: Commonwealth ex rel. v. Butler, 99 Pa. 535 ; Commonwealth v. Phila. & Reading R. R. Co., 62 Pa. 286.
+It is not necessary that it should appear by the express terms of the ordinance that the tax is imposed upon the business of the company done within the state. “So long as the regulation as to the license or taxation does not refer to and is not imposed upon the business of the company which is interstate, there is no interference with that commerce by the state statute : ” Osborne v. Florida, 164 U. S. 650 (17 Sup. Ct. Repr. 214). In the case just cited a statute of the state of Florida imposed a license tax upon the express companies doing business in Florida, and an agent of the Southern Express Company, a transportation company engaged in interstate commerce as well as commerce within the state of Florida, was arrested under a penal provision of the statute for acting as an agent of an express company which had not paid the license fee required by the statute. Ninety-five per cent of the business of the express company was interstate commerce business. The courts of the state of Florida held that the statute was intended to apply only to business done within the state, and that the defendant was properly arrested. On appeal to the Supreme Court of the United States, it was held tbat the particular construction to be given to the statute was a question for the state court to deal with, and that the federal court would follow the construction given by the state court to the statutes of its own state. Nothing in the express terms of the statute limited the tax to intrastate business. It having been decided, however, by the Supreme Court of the state that its operation was properly confined to business done within the state, it was said by the Supreme Court of the United States, “ We have no doubt as to the correctness of the decision that the act does not in any manner violate the Federal constitution.” We consider this case decisive of the question raised on the present appeal.
+It was properly questioned by the court below whether it clearly appeared from the case stated that the appellant in the management of its business in the city of Johnstown was conducting any interstate commerce business.
+In the view of the case now taken, we do not consider it material whether it so appear or not. The ordinance by its terms permitting a construction limiting its operation to local business, and the appellant being admittedly engaged in a business which would subject it to liability under the ordinance if it were not engaged in any interstate commerce business, no error was committed by the court.
+The judgment is affirmed.
