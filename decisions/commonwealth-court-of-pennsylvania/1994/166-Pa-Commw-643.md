@@ -1,0 +1,33 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "2962 C.D. 1993"
+decided: "1994-08-17"
+citations: ["166 Pa. Commw. 643", "647 A.2d 287"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before COLINS and NEWMAN, JJ., and SILVESTRI, Senior Judge."]
+parties: ["Charles T. STONE, Appellant, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING."]
+source_url: "https://static.case.law/pa-commw/166/cases/0643-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1464342
+cites_cases: ["150 Pa.Commonwealth Ct. 259", "154 Pa.Commonwealth Ct. 118", "161 Pa.Commonwealth Ct. 421", "637 A.2d 673"]
+---
+
+# Stone v. Commonwealth
+
+## Majority (COLINS, Judge.)
+
+COLINS, Judge.
+Charles T. Stone (Stone) appeals the November 15, 1993 order of the Court of Common Pleas of Montgomery County (Common Pleas) denying his appeal of the suspension of his operating privilege and granting him a supersedeas pending appeal to this Court. Stone’s operating privilege was suspended for three months pursuant to Section 1786(d) of the Vehicle Code (Code), 75 Pa.C.S. § 1786(d).
+On January 25, 1993, Stone was cited for operating his motor vehicle when it was not insured, a violation of Section 1786(f) of the Code, 75 Pa.C.S. § 1786(f). He paid the fines and costs associated with the citation, thereby pleading guilty pursuant to Section 6501(b) of the Code, 75 Pa.C.S. § 6501(b). Additionally, at the de novo hearing before Common Pleas, he testified that the vehicle was not insured on January 25, 1993 and that he was at fault.
+Common Pleas determined that Section 1786(d) clearly requires the Department of Transportation (Department) to suspend the operating privilege of the owner or registrant of a vehicle, when the Department determines that that owner or registrant operated the vehicle without insurance. Although Common Pleas was sympathetic to Stone’s hardship, i.e., the fact that his livelihood as a tractor-trailer driver depended on his possession of a driver’s license, Common Pleas opined that “the suspension is automatic in this case and the Court’s hands are tied, no discretion exists in the statute’s application.”
+In this appeal, Stone raises one issue, which is whether Common Pleas erred by not considering the fact that Stone, “through no fault of his own, was unaware that his automobile insurance had lapsed.”
+In reviewing the decision of the trial court, we are limited to determining whether necessary findings of fact are supported by competent evidence, and whether an error of law has been committed. In addition, we are required to view the evidence in the light most favorable to the party that prevailed before the trial court. Therefore, [in this matter, the Department] is entitled to all favorable facts and inferences which may reasonably be drawn from the evidence and all conflicts in the evidence must be resolved in [its] favor.
+Department of Transportation, Bureau of Driver Licensing v. Zavodsky, 161 Pa.Commonwealth Ct. 421, 424, 637 A.2d 673, 674 (1994) (citation omitted).
+Stone argues that through no fault of his own, he did not know that his insurance had lapsed. He argues that he was not receiving his mail in a timely fashion, because his mail was going to his former wife’s residence (the former marital home), his mother was periodically picking up the mail for him, and he was sometimes “on-the-road” for two or three weeks at a time. He also argues that the Department did not prove that the insurance company had timely notified him that his policy would lapse.
+While we too have sympathy for Stone’s predicament, we agree with Common Pleas that the Code is clear. The Department is required to suspend the operating privilege of the owner or registrant of a vehicle, when the Department determines that that person has operated the vehicle without insurance. There is no requirement that the Department establish that the person was at fault or that the person intended to operate the vehicle without insurance. Neither is the Department required to prove that the owner or registrant actually received notice of an imminent lapse of insurance. Department of Transportation, Bureau of Driver Licensing v. Riley, 150 Pa.Commonwealth Ct. 259, 615 A.2d 905 (1992), overruled on other grounds, 154 Pa.Commonwealth Ct. 118, 623 A.2d 369 (1993). It is the Department’s burden to prove that the vehicle is one which must be insured and that the owner or registrant of the vehicle either operated it or permitted it to be operated without insurance. The Department satisfied its burden, and the burden then shifted to Stone to prove that he fell within the exceptions described in Sections 1786(d)(1) and (2) of the Code, 75 Pa.C.S. §§ 1786(d)(1) and (2). Stone did not meet his burden.
+Accordingly, the November 15, 1993 order of the Court of Common Pleas of Montgomery County is affirmed.
+ORDER
+AND NOW, this 17th day of August, 1994, the order of the Court of Common Pleas of Montgomery County in the above-captioned matter is affirmed.
+. Section 1786(d) of the Code provides, in pertinent part, that "[t]he Department of Transportation shall ... suspend the operating privilege of the owner or registrant [of a motor vehicle] for a period of three months if the department determines that the owner or registrant has operated or permitted the operation of the vehicle without the required financial responsibility."
