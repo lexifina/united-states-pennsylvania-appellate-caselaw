@@ -1,0 +1,40 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1513 C.D. 1992"
+decided: "1994-01-07"
+citations: ["163 Pa. Commw. 18", "640 A.2d 488"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before COLINS and FRIEDMAN, JJ., and RODGERS, Senior Judge."]
+parties: ["Mary E. MARTIN, Petitioner, v. DEPARTMENT OF ENVIRONMENTAL RESOURCES, Respondent."]
+source_url: "https://static.case.law/pa-commw/163/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1459911
+cites_cases: ["131 Pa.Commonwealth Ct. 297", "151 Pa.Commonwealth Ct. 86", "36 Pa.Commonwealth Ct. 69", "387 A.2d 954", "475 A.2d 902", "523 Pa. 235", "527 Pa. 605", "589 A.2d 695", "82 Pa.Commonwealth Ct. 266"]
+---
+
+# Martin v. Department of Environmental Resources
+
+## Majority (RODGERS, Senior Judge.)
+
+RODGERS, Senior Judge.
+Mary E. Martin (Martin) petitions for review of the order of the Board of Claims (Board) which dismissed her complaint against the Commonwealth of Pennsylvania, Department of Environmental Resources (DER) based on a lack of jurisdiction. We affirm.
+Martin’s complaint alleged that DER improperly forfeited and collected fourteen certificates of deposit and one cashier’s check, which Martin and her husband had assigned to DER as collateral for her husband’s strip mining company. In its preliminary objections, DER argued that the Board lacked jurisdiction because Martin failed to establish a contractual relationship between herself and DER. The Board agreed and granted DER’s preliminary objections in its June 9, 1992 order.
+Martin filed a petition for review with this Court on July 17, 1992, which we dismissed, sua sponte, as being untimely filed. After Martin filed a motion for reconsideration, we issued an order stating that her motion would be considered as a petition for review nunc pro tunc. On April 5, 1993, we granted Martin’s appeal nunc pro tunc and reinstated the petition for review.
+Section 4 of the Surface Mining Conservation and Reclamation Act (Act), Act of May 31, 1945, P.L. 1198, as amended, 52 P.S. § 1396.4, requires persons who wish to mine coal by the surface mining method to apply to DER for a permit. Prior to commencing mining, a permittee must file a collateral bond for the land affected by each operation. The bond is held by DER until the permittee completes mining and reclamation, in compliance with the Act. Upon a permittee’s failure to comply with the requirements of the Act, DER must forfeit the bond and deposit the funds into the Surface Mining Conservation and Reclamation Fund.
+Martin and her husband assigned to DER fourteen certificates of deposit and one cashier’s check, which were pledged as collateral by the James E. Martin Coal Company, incorporated into surface mining bonds and submitted to DER with permit applications. Mr. Martin received the permits and engaged in surface coal mining; he failed to carry out reciamation as required by the Act, and the bonds were forfeited.
+Martin filed a complaint before the Board of Claims, seeking, inter alia, judgment in the amount of one hundred sixty-eight thousand two hundred fifty dollars ($168,250.00), the value of the forfeited bonds. DER filed preliminary objections, asserting that the Board lacked jurisdiction and that the complaint failed to state a cause of action for which relief can be granted. The Board concluded that it lacked jurisdiction, granted DER’s preliminary objections and dismissed Martin’s complaint.
+On appeal to this Court, Martin contends that the Board erred in failing to find that a contractual relationship existed between herself and DER. Martin further asserts that the Board erred in not allowing her to amend her complaint and in not recognizing that DER had denied her constitutional rights to due process.
+The Board’s jurisdiction is limited to the adjudication of claims “against the Commonwealth arising from contracts hereafter entered into with the Commonwealth.” Section 4 of the Act of May 20, 1937 P.L. 728 as amended, 72 P.S. § 4651-4; Dept. of Revenue, Bureau of State Lotteries v. Irwin, 82 Pa.Commonwealth Ct. 266, 475 A.2d 902 (1984). In addition, the Board is empowered to determine whether a contract has been entered into for the purpose of invoking its jurisdiction. Shovel Transfer & Storage, Inc. v. Simpson, 523 Pa. 235, 565 A.2d 1153 (1989).
+The Board applied the proper legal standard for a demurrer made in the form of a preliminary objection as set forth in Matschener v. City of Pittsburgh, 36 Pa.Commonwealth Ct. 69, 73, 387 A.2d 954, 956 (1978):
+A demurrer is an assertion that a complaint does not set forth a cause of action upon which relief can be granted____ In disposing of a demurrer, every well pleaded, material, relevant fact set forth in the pleading to which it is filed, together with all reasonable inferences therefrom, are admitted as true.... A demurrer will be sustained only where a plaintiffs complaint or pleading shows with certainty that upon the facts averred therein, the law will not permit the plaintiff to recover____ A demurrer cannot supply a fact missing in the complaint. (Citations omitted.)
+The Board correctly determined that the complaint itself demonstrated the absence of a contract; Martin failed to aver any contractual relationship, in fact or implied, between herself and DER, in the pleadings.
+Martin argues that the Board erred in failing to recognize a partial assignment between Martin and the Commonwealth as a contract. The Board reviewed the assignments at issue here and determined that they evidence an agreement between the Commonwealth and the James E. Martin Coal Company. We agree. Martin was not a party to the agreement between the Commonwealth and the James E. Martin Coal Company, nor was she bound by any terms of that agreement. Furthermore, Martin completely and irrevocably assigned all rights to the certificates of deposit to DER as collateral for her husband’s mining operation. Martin believes that an assignment is a contract; this is simply not the case.
+The record confirms the Board’s determination that no contract existed between Martin and DER. As the Board lacks jurisdiction in the absence of a contract, the Board properly granted the preliminary objections of DER and dismissed Martin’s complaint.
+ORDER
+NOW, January 7, 1994, the order of the Board of Claims, dated June 9, 1992, is affirmed.
+. Mr. Martin appealed DER’s forfeiture to the Environmental Hearing Board, which affirmed, in part, DER's forfeiture actions. Martin v. Department of Environmental Resources, 1988 EHB 1256. Mr. Martin then appealed to this Court, which sustained in part and dismissed in part the order of the Environmental Hearing Board. Martin v. Department of Environmental Resources, 131 Pa.Commonwealth Ct. 297, 570 A.2d 122 (1990), petition for allowance of appeal denied, 527 Pa. 605, 589 A.2d 695 (1991).
+. Our scope of review of an order of the Board of Claims is limited to determining whether an error of law was committed, constitutional rights were violated, or whether necessary findings of fact are supported by substantial evidence. Vartan v. Commonwealth, 151 Pa.Commonwealth Ct. 86, 616 A.2d 160 (1992).
+. Martin bases her belief on the definition of assignment as a contract allegedly found in Black's Law Dictionary 109 (5th ed. 1979). But after careful scrutiny of that volume we failed to locate that definition.
+. In so holding, we necessarily decide that the Board committed no error for which relief may be obtained on appeal; therefore, we do not address other issues raised on appeal.
