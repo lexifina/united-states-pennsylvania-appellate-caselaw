@@ -1,0 +1,19 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 511"
+decided: "1976-02-05"
+citations: ["238 Pa. Super. 781"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Suto v. Marmo et ux., Appellants."]
+source_url: "https://static.case.law/pa-super/238/cases/0781-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6779455
+---
+
+# Suto v. Marmo
+
+## Majority
+
+Order affirmed.
