@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 55"
+decided: "1929-04-10"
+citations: ["96 Pa. Super. 13"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, Keller, Linn, Cawthrop, Cunningham and Baldrige, JJ."]
+parties: ["Commonwealth v. Brown, Appellant."]
+source_url: "https://static.case.law/pa-super/96/cases/0013-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 683990
+cites_cases: ["14 Phila. 384", "282 Pa. 479", "5 W. & S. 345", "81 Pa. Superior Ct. 205", "93 Pa. Superior Ct. 339"]
+---
+
+# Commonwealth v. Brown
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+The defendant was charged in two counts of the indictment; first, that he made a certain written instrument fraudulently; and second, that he uttered the same, the instrument being a promissory note for $17,250, payable to the order of Robert P. Brown at the Reading National Bank and signed by Myrtle Brown Lease, (which turned out to be a forgery).
+The defendant was indebted to the Reading National Bank in a large sum of money. He secured a portion of it by giving two mortgages and gave a note for $17,250 for the balance which latter note was renewed from time to time. On May 18, 1925, the date of the note in question, he brought .it to the bank and the officer, after receiving it, returned to him a previous note of like character and amount of which he was the maker. When he gave this note signed by his sister, as testified by the president of the bank, he said, “I have a sister who owes me some money in connection with some lots at Bethlehem. This note 1 can give you for that amount, and she is good, because she sold this interest in Bethlehem and one thing or another. ’ ’
+After the Commonwealth had submitted all its evidence, the defendant demurred to the evidence and the Commonwealth joined whereupon the jury was discharged and a judgment of guilty was given by the court against the defendant following the practice in Com. v. Sonis, 81 Pa. Superior Ct. 205; Com. v. Ernesto, 93 Pa. Superior Ct. 339; Com. v. Wilson, 14 Phila. 384, 391; Com. v. Parr, 5 W. & S. 345.
+Forgery is the fraudulent making of any writing to the prejudice of another’s right. The appellant argues that in the case before us the bank which took the note was not prejudiced, that there was no intent shown on the part of the defendant to defraud the bank, that the note was void being signed by a married woman, that fact being known to the president of the bank at the .time it was accepted.
+The rights of the bank were prejudiced by this transaction. It is not necessary to establish a loss to the party taking a forged paper in order to indict the maker or utterer of forgery. The fraud need not be successfully perpetrated, nor must someone have suffered thereby. The crime does not exist in the actual perpetration of a fraud. It is sufficient that the false instrument is made with the intent to defraud and 'that it is of such character that it might prejudice the rights of another accepting it. While the presumption of intent to defraud may not arise merely from the false signature, we have in the present case the fact that the defendant admits that he signed the name of Myrtle Brown Lease to the note without her authority or consent and we have the added circumstances that he went to the bank, presented the note- and received his old note in return and secured by the giving of the new note an extension for ninety days during which the debt was not demand able. Thus we have the affirmative act showing the criminal intent. Although the bank did not pay any money in exchange for the note, there is no question that there was deception practiced on the officers of the bank, and that this was in prejudice of its right. When they gave up this note, as stated, they ceased to have the right of the immediate demand for the principal and in substitution of that they got this new note. Whether they could have secured anything by proceeding on the note, does not matter. Neither is the matter affected by the fact that the maker of the note in question was a married woman and that that fact was known to the officers of the bank with whom the transaction was made. The paper was presumably valid. The power of a married woman to contract is so general that her inability to contract is tbe exception rather than the rule: Kolb v. Lieberman, 282 Pa. 479. In fact, the testimony does not disclose it was void, for the statement was made by the defendant that his sister was indebted to him and this implied that the note in question had been given for an existing debt. It is only when the instrument on its face discloses as a matter of law that it is void, that the accused can escape the liability for its fraudulent mating. The law applicable to the question is stated in 26 C. J. 910, and is supported by abundant authority. “Since an instrument cannot be said to be incapable of effecting fraud because by extraneous evidence it can be shown to be of no validity, such an instrument may be the subject of a forgery. Hence it is immaterial that the name signed is that of a person under legal disability, or dead, or that the name is fictitious.”
+The defendant was clearly guilty of the crime charged and the judgment entered by the lower court was proper. All the elements essential to the proof of defendant’s guilt were present.
+The judgment of the lower court is affirmed and the record remitted to the court below and it is- ordered that the defendant appear in the court below at such time as he may be there called and that he be by that court committed until he has complied with the sentence or any part of it which had not been performed at the time the appeal in this case was made a supersedeas.
