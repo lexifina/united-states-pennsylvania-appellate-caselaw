@@ -1,0 +1,35 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1150"
+decided: "1989-09-15"
+citations: ["387 Pa. Super. 225", "563 A.2d 1266"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before OLSZEWSKI, MONTEMURO and KELLY, JJ."]
+parties: ["Esper NASIM, Appellant, v. SHAMROCK WELDING SUPPLY COMPANY, Appellee."]
+source_url: "https://static.case.law/pa-super/387/cases/0225-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 471252
+cites_cases: ["2 Grant 60", "244 A.2d 436", "367 Pa.Super. 261", "373 Pa.Super. 536", "430 Pa. 583"]
+---
+
+# Nasim v. Shamrock Welding Supply Co.
+
+## Majority (MONTEMURO, Judge:)
+
+MONTEMURO, Judge:
+The appellant, Esper Nasim, appeals from an order of the Court of Common Pleas of Allegheny County denying his motion for a new trial after a jury returned a verdict in favor of the appellee, Shamrock Welding Supply Company, Inc. For the following reasons, we reverse and remand.
+On July 20, 1983, the appellant filed a complaint in trespass against the appellee. In his complaint, the appellant, a welder, claimed that he had been injured while working with a defective propane torch assembly allegedly sold by the appellee. In its response, the appellee denied that it sold the appellant’s employer the allegedly defective product. Subsequently, the appellee filed a Petition for Leave to Join an Additional Defendant. In its petition, the appellee alleged the potential liability of two additional parties, Scovill, Inc. and Bering Sales, Inc., as manufacturer and intermediate distributor, respectively, of this product. The appellee’s petition also admitted the appellee’s involvement as the direct supplier of this propane torch assembly to the appellant’s employer. The appellee’s petition was granted. However, prior to trial, the court released both Scovill and Bering Sales as defendants in this action. Subsequently, at trial, the appellant read into evidence the appellee’s Petition for Leave to Join an Additional Defendant. The appellee, however, presented evidence refuting any purported admissions contained in its petition. On March 14, 1988, the jury returned a verdict for the appellee. Timely post-trial motions were filed and denied. Judgment was entered on the verdict, and this timely appeal followed.
+On appeal, the appellant maintains that the trial court erred in allowing the appellee to present evidence refuting the averments contained in its Petition to Join an Additional Defendant. Specifically, the appellant contends that the appellee’s admission in its petition that it was the distributor of this product is a judicial admission which cannot subsequently be rebutted by the appellee. We agree.
+It is well established that a judicial admission is an express waiver made in court or preparatory to trial by a party or his attorney, conceding for the purposes of trial, the truth of the admission. Jewelcor Jewelers & Distributors, Inc. v. Corr, 373 Pa.Super. 536, 542, 542 A.2d 72, 75 (1988). It has the effect of a confessory pleading, in that the fact is thereafter to be taken for granted, so that the opposing party need offer no evidence to prove it and the party by whom the statement was made is not allowed to disprove it. Jewelcor Jewelers, supra, 373 Pa.Superior Ct. at 542, 542 A.2d at 75. A principal element of a judicial admission is that the fact has been admitted for the advantage of the admitting party, and consequently, a judicial admission cannot be subsequently contradicted by the party that made it. Jewelcor Jewelers, supra, 373 Pa.Superior Ct. at 543, 542 A.2d at 76. As our Supreme Court stated:
+Pennsylvania has followed this rule since Wills v Kane, 2 Grant 60, 63 (Pa. 1853), where the court insisted: “Where a man alleges a fact in a court of justice, for his advantage, he shall not be allowed to contradict it afterwards. It is against good morals to permit such double dealing in the administration of justice.”
+Jewelcor Jewelers, supra, 373 Pa.Superior Ct. at 542, 542 A.2d at 75 (quoting Tops Apparel Mfg. Co. v Rothman, 430 Pa. 583, 587-88 n. 8, 244 A.2d 436, 438 n. 8 (1968)) (emphasis added).
+In the present case, we find that the averments of fact contained in the appellee’s Petition to Join Additional Defendant/Defendants constitute a judicial admission on the part of the appellee, and therefore, the trial court erred in permitting the appellee to introduce evidence contravening the averments contained in their petition. In pertinent part, the appellee’s petition asserts the following:
+1. On July 20, 1983, Plaintiff brought suit against the original Defendant. The date of service was August 24, 1983.
+2. Following institution of suit, the Defendant attempted to locate and review its records in order to determine where it purchased the product in question.
+3. It was determined that the product was purchased from Bering Sales Inc., P.O. Box 20837, Dallas, Texas 75220.
+4. A meeting was held between counsel for Defendant and counsel for the Plaintiff wherein the product was inspected and it was determined that the product was manufactured by Scovill, Inc.
+(R.R. 19a) (emphasis added). In their petition, the appellee unequivocally admitted their role as retail distributor of this product, and attempted to impose liability for the appellant’s injuries on two additional parties, Scovill, Inc. and Bering Sales, as manufacturer and intermediate distributor, respectfully of the allegedly defective propane torch assembly. Clearly, the averments contained in the petition were admitted for the appellee’s advantage. " The appellee was attempting to distribute its potential liability to two other parties, Scovill, Inc. and Bering Sales. The fact that the two additional defendants were dismissed prior to trial does not now allow the appellee to recant its prior admission that it was the retail distributor of this product. It is exactly this type of “double dealing” which this rule of evidence was intended to protect against. See Jewelcor Jewelers, supra
+The appellee contends that the averments contained in their petition were not judicial admissions because a Petition to Join an Additional Defendant is not a pleading. In part, the appellee’s contention is correct. A Petition to Join an Additional Defendant is not a pleading. Equibank v Duboy, 367 Pa.Super. 261, 264, 532 A.2d 889, 890 (1987). However, there is no requirement that a judicial admission must be contained in a pleading. It is well settled that judicial admissions may be contained in pleadings, stipulations and other like documents. See Tops, supra, 430 Pa. at 587, 244 A.2d at 438. As we have already stated, the key element of a judicial admission is that a fact which has been admitted for the advantage of the admitting party cannot subsequently be refuted by that party. Accordingly, we find that the trial court erred in allowing the appellee to present evidence contradicting the averments of fact contained in their Petition to Join an Additional Defendant/Defendants.
+Reversed and Remanded. Jurisdiction Relinquished.
