@@ -1,0 +1,44 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2125 C.D. 1982"
+decided: "1986-01-06"
+citations: ["94 Pa. Commw. 61"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to President Judge Crumlish, Jr., and Judges Rogers, Craig, MacPhail, ,Barry and Colins."]
+parties: ["General Asphalt Paving Company of Philadelphia, Petitioner v. Commonwealth of Pennsylvania, Respondent."]
+source_url: "https://static.case.law/pa-commw/94/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1343366
+cites_cases: ["305 A.2d 908", "483 A.2d 1021", "483 A.2d 1068", "8 Pa. Commonwealth Ct. 18", "85 Pa. Commonwealth Ct. 577", "86 Pa. Commonwealth Ct. 106"]
+---
+
+# General Asphalt Paving Co. v. Commonwealth
+
+## Majority (Judge-MacPhail,)
+
+Opinion- by
+Judge-MacPhail,
+General Asphalt Paving Company of Philadelphia (General) and the respondent Commonwealth of Pennsylvania (Commonwealth) have entered into a “Supplemental Stipulation of Facts” in accordance with our .opinion and order in General Asphalt Paving Co. Appeal, 86 Pa. Commonwealth Ct. 106, 483 A.2d 1068 (1984). We adopt as our own the facts set forth in the supplemental stipulation. The Board of Finance and Revenue (Board) had denied a refund claim by General for use taxes paid on the basis that the paving materials in question were not covered by the public utility exclusion to the use tax found at Section 201 (o) (4) (B) (iii) of the Tax Reform Code of 1971 (1971 Code), Act of March 4, 1971, P.L. 6, as amended, 72 P.S. §7201(d) (4) (B) (iii). In General’s appeal to this Court, we held''that General and the Commonwealth did not stipulate precisely enough the nature of the work done by General and we found ourselves unable to perform our judicial function. Having received further stipulations of fact, we now proceed to the merits of this case.
+Section 201(o) (4) (B) of the 1971 Code provides in pertinent part:
+[T]he term ‘use’ shall not include—
+•(B) The use or consumption of tangible personal property, including but not limited: to machinery and equipment and parts therefor, and supplies or the obtaining of the services described in subclauses (2), (3) and (4) of tMs clause directly in any of the operations of—
+(iii) The producing, delivering or rendering of a public utility service, or in constructing, reconstructing, remodeling, repairing or maintaining the facilities which are directly used in such service, whether or not such facilities constitute real estate: Provided, however, ‘real estate’ shall not include buildings, roads or similar facilities;
+The [exclusion] provided in [subparagraph] ... (iii) ... shall not apply ... to materials or supplies to be used or consumed in any construction, reconstruction, remodeling, repair or maintenance of real estate other than machinery, equipment, parts or foundations therefor that may be affixed to such real estate . . ;
+The exclusion provided in subparagraph (iii) shall not apply to (A) construction materials used to construct, reconstruct, remodel, repair or maintain facilities not used directly in the production, delivering or rendition of public utility service, or (B) tools and equipment used but not installed in the maintenance of facilities used directly in the production, delivering or rendition of a public utility , service.
+In Commonwealth v. Equitable Gas Co., 85 Pa. Commonwealth Ct. 577, 483 A.2d 1021 (1984), we held that the public utility exclusion from use taxes found at Section 201(o) (4) (B) (iii) of the 1971 Code is available whether or not the public utility services facilities in question are real estate. We noted that “ [t]he result of our holding is that the exclusion applies if the materials are directly used in constructing, reconstructing, remodeling, repairing or maintaining facilities directly used for the production, delivery or rendering of a public utility service....” 85 Pa. Commonwealth Ct. at 583, 483 A.2d at 1024. The public utility exclusion “does not apply where materials or supplies are used or consumed in any construction, reconstruction, remodeling, repair or maintenance of real- estate other than machinery, equipment or parts-that may be affixed to such real estate.” Id.
+The parties have entered into the following Supplemental Stipulations of Fact:
+3. The work performed by [General] for [Philadelphia Gas Works (PGW)] during the period at issue was one of two types. First, PGW makes -emergency repairs of leaks in its gas lines, upon notice from its various customers. [General] completed the • resurfacing of -the roadway and/or sidewalk that had been disturbed in connection with the repair work performed by PGW. Secondly, PGW contracted for the installation of new gas lines and mains in connection with and in furtherance of the extension o-f its delivery and' transmission -systems. The general contractor -responsible for the installation of the new gas lines and mains hired [General] as a subcontractor to pave or repave roads and for sidewalks disturbed by the general contractor in installing the new line's and mains.
+4. During the period for which refund is sought, [Philadelphia Electric Co. (PECO)] contracted for the installation of new pipes that were to be used by it in rendering public utility services. The general contractor responsible for the installation of the new pipes hired [General] to pave or repave the roadways and/or sidewalks disturbed by -the general contractor in installing the new lines.
+5. During the period for which refund is sought, the Water Department [of the City of Philadelphia] contracted with [General] for the installation of new pipes used by it in rendering public utility services. In connection with the installation of the new pipes, [General] resurfaced roadways and/or sidewalks disturbed by it in installing the pipes.
+The gas pipe lines and mains are facilities directly used in the provision of public utility services. The public utility or general contractor would first complete subsurface repair or maintenance of existing lines and mains or the construction and installation of new lines and mains. General Asphalt Paving Co. Appeal. Then General would complete the surface repairs. General used various materials directly on top of the fill materials surrounding the pipes or lines. Supplemental Stipulation of Fact 9. Salt hay was used by General to cover the concrete during the cold weather to prevent the concrete from cracking. Supplemental Stipulation of Fact 10. In addition, General contracted with an independent contractor to transport the materials to the various locations, Supplemental Stipulation of Fact 11, and rented backhoes to prepare the surfaces for paving. Supplemental Stipulation of Fact 12.
+We hold that the materials, including the salt hay, used by General in paving and repaving were directly used in “constructing, reconstructing, remodeling, repairing or maintaining the facilities which are directly used” in producing, delivering or rendering a public utility service. Section 201(o) (4) (B) (iii) of the 1971 Code. Therefore, these materials were excluded from the use tax.
+The backhoe and truck rentals are another matter. This equipment was “used but not installed in the maintenance of facilities used directly in the production, delivering or rendition of a public utility service” and hence are excepted from the exclusion. See Equitable Gas Co., 85 Pa. Commonwealth Ct. at 583, 483 A.2d at 1024. The backhoe and truck rentals were properly subjected to the use tax.
+For the foregoing reasons, we will affirm that part óf the Board’s decision which denied the refund on the basis that the equipment rentals were not covered by the public utility exclusion to the use tax; we reverse that part of the Board’s decision that denied the refund on the basis that the materials in question were not covered by the public utility exclusion to the use tax.
+Order
+The order, of-the Board of Finance and Revenue is affirmed in part and reversed in part.
+It is further ordered that unless exceptions are filed within thirty (30) days of this Order, the Prothonotary shall enter judgment in favor of General Asphalt Paving Company of Philadelphia in the amount of, $21,984,63.
+Materials used included concrete, blacktop, asphalt, coke, cinder and related paving materials. Supplemental Stipulation of Fact 6.
+The salt hay was used directly in the construction and repair of the public roads.
+By stipulation, tlie parties agreed that in the event this Court finds that the paving materials are properly excluded from the use tax, the Commonwealth would refund the amount of $21,984.63 to General. Supplemental Stipulation of Fact. 14. We are applying the three year statute of limitations. See Lehigh, Valley Cooperative Farmers v. Commonwealth, 8 Pa. Commonwealth Ct. 18, 305 A.2d 908 (1973).
