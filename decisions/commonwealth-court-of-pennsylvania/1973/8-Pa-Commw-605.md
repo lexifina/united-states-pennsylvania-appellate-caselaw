@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 815 C.D. 1971"
+decided: "1973-04-06"
+citations: ["8 Pa. Commw. 605"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Mencer, Rogers and Blatt."]
+parties: ["Tross, et al., Executors, v. Johnstown Redevelopment Authority."]
+source_url: "https://static.case.law/pa-commw/8/cases/0605-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1853016
+cites_cases: ["1 Pa. Commonwealth Ct. 172", "165 A. 836", "179 A. 2d 638", "203 A. 2d 665", "207 A. 2d 872", "266 A. 2d 759", "273 A. 2d 923", "310 Pa. 506", "406 Pa. 631", "415 Pa. 370", "417 Pa. 426", "439 Pa. 233"]
+---
+
+# Tross v. Johnstown Redevelopment Authority
+
+## Majority (Judge Crumlish, Jr.,)
+
+Opinion by
+Judge Crumlish, Jr.,
+In this eminent domain case, we are called upon to determine the propriety of the action of the Court of Common Pleas of Cambria County in granting a new trial after trial had been held and after the jury had returned a verdict of $140,000 as just compensation for the taking of the property involved.
+The lower court, in its opinion of August 30, 1971, gave the following reasons for the grant of a new trial: (1) it was improper for the condemnor’s expert to testify as to the valuation of the property on the basis of the three approaches outlined in Section 705 of the Eminent Domain Code; such expert should have selected one of the three outlined approaches and testified on the basis of that theory; (2) it was error for the court to refuse to allow a contractor to testify as to specific replacement or reproduction costs of improvements on the premises; (3) the charge to the jury on the application of the Assembled Economic Unit Doctrine was inadequate; and (4) a disparity that existed between the Viewer’s award and the jury’s verdict was the result of the foregoing errors.
+We hold that the court below erred in applying the law and therefore the grant of a new trial was unwarranted.
+At the outset, it is significant to note that the motion for new trial was reviewed by the court below en banc. Only the trial judge, Judge Smorto, thought that all of the above stated reasons were valid in granting the new trial. The three other members of the court felt that the condemnor’s expert should have selected one valuation theory on which to base his testimony. They specifically disagreed with the other reasons for the grant of the new trial.
+We will dispose of the issues in their stated order. The Code does not require that an expert witness limit himself to one theory of valuation. Section 705, 26 P.S. §1-705 provides: “A qualified valuation expert may testify on direct or cross-examination in detail as to the valuation of the property on a comparable market value, reproduction cost or capitalization basis. . . .” The official comment to this section states that this section is intended to “permit testimony of all modern appraisal methods.” We glean from this language no requirement of selection of an exclusive valuation theory.
+Furthermore, this Court has approved of the system of valuation whereby an expert testifies on the basis of the three methods outlined. Wolfe v. Redevelopment Authority of Johnstown, 1 Pa. Commonwealth Ct. 172, 273 A. 2d 923 (1971). It was not improper for the expert to consider all three approaches in determining valuation.
+Secondly, at trial, the court had not permitted the testimony of a contractor as to specific reproduction costs of the reconstruction and renovation made necessary for the installation of a diner into the building. The structure originally was a four-story commercial apartment building and a one-story addition had been constructed for occupation as a diner. The witness worked on the building in order to prepare it for the addition of the diner. It was not error to refuse to allow this testimony.
+We realize that a valuation expert may testify as to the value of the land together with the cost of replacing the existing improvements. Section 705(2) (iv), 26 P.S. §1-705(2) (iv) of the Eminent Domain Code. However, not allowing testimony by the contractor as to specific dollar reproduction cost of the installation of a diner in the building was not improper. To allow such testimony would not be equivalent to permitting an expert to testify on a value based, in part, on reproduction costs given to him by the contractor without specifying dollar amounts, which would be proper. See Hasenflu v. Commonwealth, 406 Pa. 631, 179 A. 2d 638 (1962). Furthermore, in this case appellee’s real estate valuation expert, as distinguished from the building contractor, testified that he based his opinion of value on the reconstruction approach upon the information he had received from the contractor in question. Such testimony meets the requirements and purpose of Section 705(2) (iv), 26 P.S. §1-705(2) (iv) and is more instructive and less confusing to a jury. See Scavo v. Dept. of Highways, 439 Pa. 233, 266 A. 2d 759 (1970). This was not the same situation as in Mott v. Department of Highways, 417 Pa. 426, 207 A. 2d 872 (1965), where a consulting engineer was permitted to testify as to the cost of rehabilitating the remaining land of a condemnee when part of the original property ivas taken in condemnation.
+Thirdly, contrary to the opinion of the trial judge and in accordance with the view of the other three members of the court en banc, we feel that the charge to the jury on the assembled economic unit doctrine was specific enough for the jury to properly determine damages. More importantly, for purposes of our review, the appellees’ attorney did not ask for more specific instructions. An attorney who wishes more specific instructions is under a duty to request the same, Williams v. Philadelphia Transportation Co., 415 Pa. 370, 376, 203 A. 2d 665 (1964), and the failure to do so will generally be considered as a waiver of any objections that might otherwise be made, especially where it appears that no harm was done by the matter in question. Brink v. Kessler, 310 Pa. 506, 165 A. 836 (1933).
+Finally, Judge Smorto felt that a disparity that existed between the award of the viewers ($201,587.50) and the jury verdict ($140,000.00) was the result of the foregoing alleged errors. Since we have determined that there were in fact no such errors and since the trial judge presents and the record shows no other evidence that the verdict was against the weight of the evidence, the granting of a new trial was improper.
+The decision of the Court of Common Pleas of Cambria County granting a new trial is reversed. The lower court is hereby directed to enter judgment on the verdict.
+Act of June 22, 1964, P. L. 84, §705, 26 P.S. §1-705.
+The record does show that although the jury verdict was 8140,000.00, in fact $171,292.60 was paid out by the condemnor to the condemnees. Most, if not all, of this was paid prior to the litigation.
