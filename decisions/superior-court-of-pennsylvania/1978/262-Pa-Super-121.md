@@ -1,0 +1,37 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "16"
+decided: "1978-12-29"
+citations: ["262 Pa. Super. 121", "396 A.2d 675"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judgment of sentence affirmed.", "Before JACOBS, President Judge, and HOFFMAN, CER-CONE, PRICE, VAN der VOORT, SPAETH and HESTER, JJ.", "HOFFMAN, J., did not participate in the consideration or decision of this case."]
+parties: ["COMMONWEALTH of Pennsylvania v. Howard ROSOV, Appellant."]
+source_url: "https://static.case.law/pa-super/262/cases/0121-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 112444
+cites_cases: ["13 Pa.Super. 256", "203 A.2d 358", "203 A.2d 360", "204 Pa.Super. 265", "208 Pa.Super. 200", "222 A.2d 437", "222 A.2d 575", "236 Pa.Super. 474", "252 Pa.Super. 332", "345 A.2d 767", "389 A.2d 152"]
+---
+
+# Commonwealth v. Rosov
+
+## Majority (JACOBS, President Judge:)
+
+JACOBS, President Judge:
+This appeal follows appellant’s conviction and sentencing in the court below after a non-jury trial on the charge of involuntary manslaughter. The issue presented to us is whether the Commonwealth produced sufficient evidence to sustain the verdict. For the reasons that follow, we hold that the evidence was sufficient, and therefore affirm the judgment of sentence.
+Testimony adduced at trial and viewed in the light most favorable to the Commonwealth reveals-(that on November 7, 1975, appellant travelled a short distance from his home to a gas station, where he stayed for a short time to discuss a towing bill he had received. On the return trip home, he drove his 1969 Mercury station wagon in the west lane of the two-lane section of U.S. Route 6, to the point where Route 6 becomes a three-lane highway. At that juncture, appellant operated his vehicle in the center passing lane of traffic, and at some undetermined point, crossed into the oncoming eastbound lane. Just below the crest of a sweeping hill to the right, his vehicle collided with a 1969 Ford coupe travelling in the east lane of Route 6, resulting in the death of Elwin Loomis, the operator of the oncoming vehicle.
+The accident occurred at approximately 5:00 P.M. on a dry, concrete highway. The investigating state policeman testified that when he arrived at the scene of the fatal collision, the left rear tire of appellant’s vehicle was approximately three feet into the eastbound lane, followed by nine feet of heavy skid marks. Skid marks from appellant’s automobile also extended into the center of the eastbound lane, and while forty-eight feet of skid marks led up to the rear tires of the decedent’s vehicle, these latter marks were confined to the east lane. The officer also testified that most of the debris from the collision was in the eastbound lane.
+Appellant was subsequently arrested and indicted on the charge of involuntary manslaughter, and tried before the court below without a jury. The court returned a verdict of guilty on July 30, 1976, and after denial of post-trial motions, imposed sentence of thirty-six months probation. This appeal followed.
+Appellant contends that the evidence presented at trial was insufficient to show the recklessness required to sustain a conviction for involuntary manslaughter. Involuntary manslaughter is defined in the Crimes Code as follows:
+A person is guilty of involuntary manslaughter when as a direct result of the doing of an unlawful act in a reckless or grossly negligent manner, ¡or the doing of a lawful act in a reckless or grossly negligent manner, he causes the death of another person. Act of December 6, 1972, P.L. 1482, No. 334, § 1, 18 Pa.C.S. § 2504 (1973).
+The Commonwealth contends that the unlawful act here consisted of appellant’s failure to operate his vehicle in the proper lane of traffic. While we agree with this assertion, we nevertheless must examine the circumstances surrounding this transgression to determine if the fact-finder was justified in inferring therefrom a disregard of human life or an indifference to consequences. See, e. g., Commonwealth v. Kaulback, 13 Pa.Super. 256, 389 A.2d 152 (1978); Commonwealth v. Keysock, 236 Pa.Super. 474, 345 A.2d 767 (1975).
+In Commonwealth v. Smoker, 204 Pa.Super. 265, 203 A.2d 358 (1964), the defendant was found guilty of involuntary manslaughter after a head-on collision between his vehicle and another resulted in the death of the other driver. On appeal, the defendant contended that the mere presence of his vehicle on the wrong side of the road was insufficient to sustain the conviction. We rejected this contention and held that driving his vehicle in the wrong lane due to inattention was sufficient, stating:
+The mere fact that he drove on the wrong side of the road, without any visible reason or compulsion to do so, would warrant the jury in inferring that he did so negligently and, particularly in view of the great danger involved in such conduct under the circumstances, that he did so recklessly. 204 Pa.Super. at 268-69, 203 A.2d 360.
+Likewise, in Commonwealth v. Farrell, 208 Pa.Super. 200, 222 A.2d 437 (1966), the defendant drove his tractor-trailer into the opposite lane of traffic while negotiating a turn, and collided with an oncoming vehicle, resulting in the death of a passenger therein. The trial court sustained a demurrer to the prosecution’s case, and on appeal by the Commonwealth we held that the evidence was sufficient to submit the case to the jury. Citing Smoker, we stated that the evidence that defendant drove his vehicle in the wrong lane without any reason to do so was sufficient to establish beyond a reasonable doubt that defendant was guilty of involuntary manslaughter.
+Commonwealth v. Trainor, 252 Pa.Super. 332, 381 A.2d 944 (1977), is not to the contrary. In that case, the defendant was driving a large van on a two-lane highway when he sideswiped a dump truck towing a trailer. As a result of the collision, defendant’s truck landed on an automobile, causing the death of two passengers in the car. Appellee’s demurrer to the charge of involuntary manslaughter was sustained, and on appeal, we affirmed. Smoker was distinguished on the basis that this collision was a sideswipe, and not head on; the accident occurred on a relatively narrow highway (two lanes, eighteen feet and seven inches total width); and there was no evidence of continuous erratic driving.
+The facts of this case differ significantly. Here, appellant testified that he repeatedly took his eyes from the road ahead to examine the fuel gauge in his car, which he believed to be defective. As in Smoker, the fatal collision was a head-on impact. Additionally, appellant’s inattentiveness occurred just as his vehicle turned a curve and approached the crest of a hill. Furthermore, the highway was a three-lane road, thirty-six feet wide, and appellant apparently had not one, but two lanes within which to operate his vehicle. Appellant offered no reason for being in the eastbound lane.
+We are therefore persuaded that these circumstances, coupled with the principles enunciated in Smoker and Farrell, compel the conclusion that sufficient evidence exists to sustain appellant’s conviction of involuntary manslaughter.
+Judgment of sentence affirmed.
+HOFFMAN, J., did not participate in the consideration or decision of this case.
+. The violation of law might also have consisted of reckless driving. See Commonwealth v. Farrell, 208 Pa.Super. 200, 205, 222 A.2d 575 (1966).
