@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1748 C.D. 1979"
+decided: "1980-05-22"
+citations: ["51 Pa. Commw. 485"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Wilkinson, Jr., Rogers and MacPhail, sitting as a panel of three."]
+parties: ["Lakeside Youth Service, Appellant v. Zoning Hearing Board of Upper Moreland Township, Appellee."]
+source_url: "https://static.case.law/pa-commw/51/cases/0485-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1909440
+cites_cases: ["16 Pa. Commonwealth Ct. 530", "329 A.2d 925", "358 Pa. 98", "37 Pa. Commonwealth Ct. 151", "389 A.2d 261", "414 A.2d 148", "51 Pa. Commonwealth Ct. 79", "56 A.2d 210"]
+---
+
+# Lakeside Youth Service v. Zoning Hearing Board
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+This is the appeal of Lakeside Youth Service from the order of the Court of Common Pleas of Montgomery County affirming an order of the Zoning Hearing Board of Upper Moreland Township denying Lakeside’s application for a special exception.
+Lakeside is a non-profit corporation which operates homes to which people who have committed criminal offenses may be assigned for supervision and rehabilitation. Lakeside agreed to purchase a dwelling house in Upper Moreland Township for the purpose of establishing a home for delinquent young females in court custody. The agreement to purchase is contingent on the approval of the use by township zoning authorities. The house is located in an O-Office Zoning District where single family detached dwellings are a permitted use.
+Lakeside filed an application to use the house as a group home with the township Zoning Hearing Board without giving a name to the relief it sought. The Board in its notice of hearing described the application as one for a variance. After the hearing the Zoning Hearing Board approved the proposed use as a special exception. The township appealed this order to the Court of Common Pleas of Montgomery County which agreed that the notice informing that a variance was requested was ineffective as the basis for an order granting a special exception and remanded the matter to the Zoning Hearing Board for a new hearing to be conducted after proper notice.
+The Zoning Hearing board scheduled a new hearing and advertised it as one concerning an application for a variance or a special exception. At the hearing, the notes of testimony of the earlier hearing were admitted and additional testimony of witnesses for the parties and that of a neighbor was received. This time the Zoning Hearing Board denied Lakeside any relief. On appeal the Montgomery County Court of Common Pleas affirmed the Zoning Hearing Board.
+Lakeside presents two questions. It first says that the Zoning Hearing Board committed an abuse of discretion or erred at law by failing to grant a special exception on second hearing after granting one on the first, the evidence being essentially the same at both. It relies on our case of Grace Building Co. v. Hatfield Township, 16 Pa. Commonwealth Ct. 530, 329 A.2d 925 (1974), where we held that a zoning hearing board abused a sound discretion by refusing a variance for a project on the same record of dimensional hardship which had induced it earlier to grant a variance —the refusal on the second occasion being based only on the failure of the landowner to prove he could not buy additional ground and thereby comply with the zoning regulations. The case is not apposite here because Lakeside failed at both hearings to bring itself within the terms of the only special exception available to it, as we will presently see. Rather, Ventresca v. Exley, 358 Pa. 98, 56 A.2d 210 (1948) is controlling. There the zoning hearing board granted a variance on a record containing no proof of unnecessary hardship. The board later, as by statute it was empowered to do, revoked permits issued on strength of the variance. The Supreme Court held that, no vested rights having accrued, the zoning hearing board had not only the right but the duty to revoke the permits granted on the authority of improperly and illegally granted permits. Surely the Upper Moreland Zoning Hearing Board had the right and duty, its first improvident grant of a special exception having been reversed, to make the proper decision the second time. Moreover, as we have said, an expanded record was made at the second hearing.
+On the merits, Section 13.02 of the Upper Moreland Township Zoning Ordinance provides pertinently as follows:
+The following uses shall be permitted in the O-Office District:
+3. [single family detached dwelling].
+4. Any use of the same general character as any of the above permitted uses when authorized as a special exception by the Zoning Hearing Board, provided that such use shall be permitted subject to such reasonable restrictions as the Board may determine and further provided that no use shall be permitted which is either noxious or hazardous.
+Lakeside contends that its group home is a use of the same general character as a single family dwelling. The record shows that Lakeside’s home would accommodate six adjudicated young women referred by the courts; that the average stay for each subject would be six months to a year and that after that period if all went well she would be transferred to, as Lakeside’s principal witness put it, an “even more homelike” situation. In addition to live-in houseparents, weekend substitute houseparents and a permanent daytime support staff of caseworkers, the six young women would be regularly visited by a psychologist and psychiatrist. We agree with Judge Tredinnick that in view of the numbers of people entering and leaving the house and the transient nature of the principal residents that “the basic social structure of the proposed use is simply too far removed from the ordinance’s concept of ‘single family dwelling’ to be considered of ‘the same general character’ of that use.”
+Furthermore, Section 1.03(19) of the Zoning Ordinance defines single family dwelling as a “building designed for and occupied as a residence for one (1) family”, and Section 1.03(22) defines family as “[a]ny number of individuals living and cooking together as a single housekeeping unit, provided that not more than two (2) of such number are unrelated.... As a special exception, the Zoning Hearing Board may interpret the term ‘family’ to apply to a group of individuals not exceeding four (4) not related to each other ... as a single family housekeeping unit.” Hence, not even by special exception could Lakeside’s home of at least six unrelated persons be brought within the ordinance’s allowance of a single family use.
+Our decision upholding the order below and the decision of the Upper Moreland Zoning Hearing Board denying a special exception for lack of similarity of the proposed use to single family home use is consistent with our holdings in Wengert v. Zoning Hearing Board of Upper Merion, 51 Pa. Commonwealth Ct. 79, 414 A.2d 148 (1980), and Pennsylvania George Junior Republic v. Zoning Hearing Board of Cool-spring Township, 37 Pa. Commonwealth Ct. 151, 389 A.2d 261 (1978), where we held that very similar foster homes were not single family residential uses.
+Order affirmed.
+Order
+And Now, this 22nd day of May, 1980, the order of the Court of Common Pleas of Montgomery County, Civil Action Law, No. 79-4623, zoning appeal, dated August 27, 1979, is affirmed.
