@@ -1,0 +1,40 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 1774 C.D. 1987"
+decided: "1989-04-03"
+citations: ["124 Pa. Commw. 557", "557 A.2d 35"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Doyle, Palladino and Smith, sitting as a panel of three."]
+parties: ["Muhammad Ali v. Montgomery County Tax Claim Bureau and 850 Modena Street, Inc. 850 Modena Street, Inc., Appellant."]
+source_url: "https://static.case.law/pa-commw/124/cases/0557-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1385227
+cites_cases: ["113 Pa. Commonwealth Ct. 105", "123 Pa. Commonwealth Ct. 371", "132 A.2d 200", "389 Pa. 93", "435 A.2d 681", "503 A.2d 1051", "62 Pa. Commonwealth Ct. 216", "94 Pa. Commonwealth Ct. 423"]
+---
+
+# Ali v. Montgomery County Tax Claim Bureau & 850 Modena Street, Inc.
+
+## Majority (Judge Palladino,)
+
+Ofinion by
+Judge Palladino,
+Appellant, 850 Modena Street, Inc., appeals from a decision of the Court of Common Pleas of Montgomery County (trial court) which set aside a tax sale at which Appellant purchased premises located at 30 West Levering Mill Road in Lower Merion.
+The premises in question were sold at a tax sale on September 9, 1985. On November 6, 1985, Muhammad Ali (Ali), the owner of the property, filed exceptions to the sale averring that the Tax Claim Bureau of Montgomery ery County (Bureau) had failed to comply with the notice provisions in section 602 of the Real Estate Tax Sale Law (Law), Act of July 7,1947, P.L. 1368, as amended, 72P.S. §5860.602. The trial court concluded that the posting and mailing requirements of section 602 of the Law had not been complied with; accordingly, the trial court sustained Ali’s exceptions and set aside the sale. Appellant has appealed to this court.
+Appellant raises four issues for review. Our disposition of the case requires that we address only three: (1) whether Ali waived issues by not raising them in his exceptions; (2) whether the trial court improperly allocated the burden of proof; and (3) whether changes in United States Postal Service provisions make it impossible for the Bureau to comply with the Law, as written, thereby rendering the Bureau’s notice sufficient by present United States Postal Service provisions. Our scope of review is limited to determining whether the trial court abused its discretion, rendered a decision with lack of supporting evidence or clearly erred as a matter of law. Chester County Tax Claim Bureau v. Griffith, 113 Pa. Commonwealth Ct. 105, 536 A.2d 503 (1988). For the reasons which follow, we affirm.
+Appellant first argues that Ali failed to raise various issues in his exceptions and has therefore waived any argument as to those issues. Our review of the exceptions establishes that Ali properly raised all notice issues. Ali averred that the premises had not been properly posted, that the mail notice was inadequate and insufficient, and that, therefore, the Bureau had not complied with §602 of the Law. These alleged notice deficiencies provided the basis for the trial court’s decision. There was no waiver.
+Appellant next argues that the trial court erred in imposing the burden of proof upon the Bureau. Appellant correctly asserts that the presumption of regularity of the acts of public officers applies to tax sales. See Hughes v. Chaplin, 389 Pa. 93, 132 A.2d 200 (1957). (A prima facie presumption of the regularity of the acts of public officers exists until the contrary appears. Such a presumption is' particularly suitable in tax sales.) Appellant contends that this presumption places the burden of proof on the party protesting the tax sale. In Casanta v. Clearfield County Tax Claim Bureau, 62 Pa. Commonwealth Ct. 216, 435 A.2d 681 (1981), we held that in tax sale cases the bureau bears the burden of proving compliance with the statutory notice provisions. Appellant argues that Hughes and Casanta are conflicting and that Hughes, a Supreme Court decision, must control. Hughes and Casanta are not in conflict. According to Hughes, a presumption of regularity exists until the contrary appears. By filing exceptions to a tax sale, averring that the statutory notice provisions were not complied with, a property owner creates a contrary appearance. Accordingly, the trial court did not err in allocating the burden of proof.
+Appellant next argues that changes in United States Postal Service provisions render compliance with the Law, as written, impossible. Specifically, Appellant argues that section 602(e)(1) cannot be complied with given the present offerings of the Postal Service. Section 602(e)(1) provided, at the time of the tax sale, as follows:
+(e) In addition to such publications, similar notice of the sale shall also be given by the bureau as follows:
+(1) At least thirty (30) days before the date of the sale, by United States certified mail, personal addressee only, return receipt requested, postage prepaid, to each owner as defined by this act.
+The trial court found that 2 notices were sent to Ali on July 8, 1985. One of the notices was addressed to Ali Muhammad, c/o J. Colehower, Esq., Centre Sq. W. 38th Fir., Phila., PA 19102. The other was addressed to Ali Muhammad at the same address, but c/o Saul, Ewing, Remick and Saul. Both letters were marked certified, restricted delivery, return receipt requested. The return receipts for both letters were signed by “S. Croom.” Based on these facts, the trial court held that both mail notices were faulty because neither Ali nor a person authorized to accept mail on his behalf signed the return receipt.
+Appellant asserts that the trial court found the notice faulty on the basis that it was not marked “personal addressee only” as required by section 602(e)(1). This is simply not the case. The trial court found the mail notice faulty because the Bureau did not establish that S. Croom is authorized to accept mail for Ali. We agree that the mail notice was insufficient. Notice provisions of the Law are to be strictly construed, and there must be strict compliance with such provisions to guard against deprivation of property without due process of law. In re: Exceptions to Sale of Property of Molchan, 94 Pa. Commonwealth Ct. 423, 503 A.2d 1051 (1986).
+Inasmuch as we have concluded that the Bureau’s mail notice did not comply with the Law, we need not address whether the posting was proper. A tax sale is properly invalidated if any of the three types of notice required by the Law is missing. Molchan.
+Accordingly, the decision of the trial court is affirmed.
+Order
+And Now, April 3, 1989, the decision of the Court of Common Pleas of Montgomery County in the above-captioned matter is affirmed.
+Appellant actually lists five issues for review. We have omitted the issue stated as “Has Ali established that a second notice was not sent?” The trial court did not address the issue of .whether a second notice was sent. Thus, we will not address this issue.
+Because we have concluded that the mail notice in this case was inadequate, we need not address whether the trial court properly concluded that the posting of the property was inadequate.
+Our recent decision in Thomas v. Montgomery County Tax Claim Bureau, 123 Pa. Commonwealth Ct. 371, 553 A.2d 1044 (1989), is in accord with our decision today. In Thomas, the issue before us was whether property sold at a tax sale had been properly posted. The trial court held that the Bureau had created a presumption of the regularity of posting by presenting a deputy sheriffs affidavit of posting, and that the burden then shifted to Thomas. The trial court concluded that Thomas had failed to rebut the presumption. Accordingly, the trial court confirmed the tax sale. We affirmed. It is clear that in Thomas the bureau bore the burden of proof, and. was able to meet that burden with an unrebutted affidavit.
+The Law was amended in 1986, and now provides that notice is to be sent by “United States certified mail, restricted delivery, return receipt requested. ...”
