@@ -1,0 +1,31 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1915 C.D. 1981"
+decided: "1983-11-29"
+citations: ["78 Pa. Commw. 580"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Rogers, MacPhail and Barry, sitting as a panel of three."]
+parties: ["Daniel M. Groff Appellant v. Commonwealth of Pennsylvania, Department of Transportation, Bureau of Traffic Safety, Appellee."]
+source_url: "https://static.case.law/pa-commw/78/cases/0580-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1314881
+cites_cases: ["29 Pa. Commonwealth Ct. 415", "371 A.2d 526", "437 A.2d 115", "495 Pa. 238", "62 Pa. Commonwealth Ct. 620"]
+---
+
+# Groff v. Commonwealth
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+Daniel M. Groff, who represents himself, has appealed from an order of the Court of Common Pleas of Lancaster County upholding the suspension by the Pennsylvania Department of Transportation (DOT) of his operator’s license for failure to respond to a citation to appear before a court for violation of the Vehicle Code. See 75 Pa. C. S. §1533.
+A judge of the common pleas court scheduled a hearing at which we are told counsel for DOT moved to quash Groff’s appeal as untimely. In support of the motion, DOT offered into evidence a copy of a notice of suspension addressed to the appellant dated December 19, 1980 to which was attached a certification over the signature of the Director of the Bureau of Traffic Safety Operations that the notice was “dated and mailed 12/19/80.” Groff’s appeal had been filed on April 22, 1981.
+The motion to quash was grounded on Sections 5571(b) and 5572 of the Judicial Code, 42 Pa. C. S. §§5571(b) and 5572, providing, respectively, that appeals from a government unit to a court must be commenced within thirty days after entry of the order and that the date of mailing, if service is made by mail, shall be deemed to be the date of entry. The hearing judge granted the motion to quash. The judge filed a short opinion in which he noted that Groff “states that he only received actual notice of the suspension on March 24, 1981”. The judge rejected this argument on the authority of Commonwealth v. Forte, 29 Pa. Commonwealth Ct. 415, 371 A.2d 526 (1977), in which it was held that the date of mailing, not the date of receipt, of the notice marks the beginning of the time within which the appeal must be taken.
+A number of circumstances impel us to vacate the court’s order and to remand for a hearing and further disposition of DOT’s motion to quash and thereafter for a decision of the merits, if necessary. No transcript of the proceedings before the trial judge, if one was made, is in the record certified to us; hence, we do not know whether the appellant had an opportunity to give evidence. No copy of the notice dated December 19, 1980 is in the record certified from the court of common pleas, although a notice bearing that date is attached to DOT’s brief. Among the records which were certified is the appellant’s petition for review filed in common pleas to which are attached two notices, each dated February 6, 1981, one of which is similar in substance to the December 19, 1980 notice attached to DOT’s brief. Groff alleges in the petition that the notices dated February 6, 1981 were handed to him by a state policeman on March 24, 1981.
+Also, none of the copies of notices we have found in the record and briefs bears a date of mailing. In Schmidt v. Commonwealth, 495 Pa. 238, 241, 433 A.2d 456, 458 (1981), the Supreme Court held that where the beginning of the appeal period is the date of the mailing of notice, the government unit has the duty to advise the appellant of the date of mailing. In Hanna v. Zoning Hearing Board of Adjustment, 62 Pa. Commonwealth Ct. 620, 437 A.2d 115 (1981), we applied the rule of Schmidt in a case where Sections 5571(b) and 5572 of the Judicial Code controlled the timé within which the appeal was required to be taken.
+Finally, as we have noted, DOT offered in evidence a copy of a notice of suspension dated December 19, 1980 attested by the officer having custody of the original and a certificate that the attesting officer was the legal custodian. In typescript on the attestation appears the notation describing the document attested as “official notice of suspension . . . dated and mailed 12/19/80 . . . .” Lest it be later contended by DOT that .this notice constituted competent evidence that the notice was mailed December 19, 1980, we express the opinion that it is not. Section 6103 of the Judicial Code, 42 Pa. O. S. §6103, provides that an official record kept by a government unit when admissible may be evidenced by a copy attested by its custodian. Section 6104(a), 42 Pa. O. S. §6104(a), provides that a copy of a record authenticated as provided in Section 6103 shall be admissible as evidence that the governmental action disclosed therein was taken. Section 6104(b), 42 Pa. C. S. §6104(b), provides that a copy of a record authenticated as provided in Section 6103 which discloses the existence of facts which have been or should have been so recorded had the facts existed shall be admissible as evidence of the existence of such facts. In moving to quash, DOT had the burden .to show the fact it asserted — that it mailed a notice of suspension to Groff on December 19, 1980. If the attested copy of the notice of suspension had disclosed the fact that it was mailed on December 19, 1980, it would have been admissible as evidence of that fact of mailing on that date under Section 6104. If, as we believe, the authenticated copy disclosed no date of mailing, there was no admissible evidence of that fact. The fact cannot be supplied, for the record by a notation dehors the authenticated copy typed on the attestation.
+Order vacated; record remanded for proceedings not inconsistent with this opinion. Jurisdiction is relinquished.
+Order
+And Now, this 29th day of November, 1983, the order of the Common Pleas Court of Lancaster County, dated July 2, 1981 is vacated and the record is remanded for further proceedings not inconsistent with the accompanying opinion. Jurisdiction is relinquished.
