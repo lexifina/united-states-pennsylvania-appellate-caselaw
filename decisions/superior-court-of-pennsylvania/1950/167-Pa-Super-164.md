@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 75"
+decided: "1950-07-20"
+citations: ["167 Pa. Super. 164"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, Ross and Arnold, JJ."]
+parties: ["Schlott v. Stefanosicz, Appellant."]
+source_url: "https://static.case.law/pa-super/167/cases/0164-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 470535
+cites_cases: ["137 A. 731", "155 A. 299", "160 A. 219", "165 A. 841", "17 A. 2d 371", "188 A. 828", "289 Pa. 560", "304 Pa. 165", "306 Pa. 525", "310 Pa. 546", "325 Pa. 235", "334 Pa. 246", "340 Pa. 508", "46 Pa. Superior Ct. 142", "5 A. 2d 552"]
+---
+
+# Schlott v. Stefanosicz
+
+## Majority (Hirt, J.,)
+
+Opinion by
+Hirt, J.,
+In this trespass action the jury found for the plaintiff in the sum of $2,500. Defendant has appealed from the refusal of the court to enter judgment in his favor n. o. v. His negligence is admitted; the single question raised is the contributory negligence of plaintiff.
+The defendant did not offer any testimony and these facts, based upon undisputed testimony, are established by the verdict: shortly after midnight on August 13,1947 plaintiff, on his way home from work, was waiting for a street car at a regular stop on the east sidewalk of Brady Street near Forbes Street in Pittsburgh, at a point on the approach to. the bridge crossing the Monongahela River. Running southwardly from Forbes Street on the approach to the bridge, which in reality is a part of it, there were concrete guard rails on both the east and west sidewalks. These guard rails were about 18 inches high, set back 6 inches from the face of the curb with a flat top surface about 8 inches wide. While waiting for a street car plaintiff sat on the rail facing the street with his feet pulled under him into an opening between the sidewalk and the slab of the rail on which he was seated. He testified: “I was just sitting on the guard rail with my feet pulled out under me . . .” He said that in that position his feet were resting on the curb “on the balls of my toes”.
+Plaintiff did not observe the movement of any vehicles in Brady Street when he arrived there. But, while seated on the guard rail, as he turned his body to the north to observe a clock on the nearby boulevard, defendant in his automobile approached from the south. The automobile then was the only vehicle on the street. There is a slight curve to the west in Brady Street but the street at that point was well lighted and the night was clear and dry. Without warning defendant’s automobile left the highway and went up over the curb against the guard rail at the place where plaintiff was seated. In striking plaintiff the force of the impact broke both of his ankles and threw him backward over the rail on to the sidewalk. He also suffered contusions and lacerations. His injuries were serious. Defendant did not stop his automobile at the scene of the injury to plaintiff but turned left and proceeded some distance into Forbes Street where he was found fixing a front right tire which had been deflated by the force of the impact. The concrete surface of the guard rail near where plaintiff had been sitting bore the marks of having been struck by defendant’s automobile and a metal hub cap from the right front wheel and a chrome strip torn from the right running board were found in the street near that point. Defendant’s front headlight and front right fender also were damaged.
+In our view the judgment in this case must be affirmed. “Contributory negligence may be declared judicially only where it is so clearly revealed that fair and reasonable individuals could not disagree as to its existence” : Altomari v. Kruger et al., 325 Pa. 235, 188 A. 828. We are mindful of the rule that one who assumes a position of danger from choice and is injured because of it, is chargeable with contributory negligence barring recovery. Dezelan v. Duquesne Light Co., 334 Pa. 246, 5 A. 2d 552; Szanborsky v. Armour & Co., 306 Pa. 525, 160 A. 219; Valente v. Lindner, 340 Pa. 508, 17 A. 2d 371. But the circumstances in this case do not charge the plaintiff with negligence merely because of his failure to anticipate the gross negligence of the defendant. The purpose of the guard rail was to prevent vehicles, which on rare occasions might leave the roadway out of control, from falling from the bridge. The presence of the rail was no notice of the likelihood of such occurrence. And we may not say as a matter of law that it was physically impossible for one to sit on the guard rail in the position described by plaintiff without some part of his body extending into the roadway. The doctrine of incontrovertible physical facts has no application to this case. Cf. Crago v. Sickman et al., 310 Pa. 546, 165 A. 841. A different situation might have been presented if plaintiff had been struck by the overhang of an automobile properly driven in the highway near the curb. That is not this case. Here defendant’s car left the highway and went over the curb and into the guard rail where the plaintiff was seated. Hence the situation is analogous to one where the driver of an automobile, in the language of Griffith v. V. A. Simrell & Son Co., 304 Pa. 165, 155 A. 299, “permits his car to deflect from its course and to dash or skid across a highway and injure a person on the sidewalk”. Cf. also, Hunter v. Pope, 289 Pa. 560, 137 A. 731; Tan Winckler v. Morris (No. 1), 46 Pa. Superior Ct. 142.
+The question of plaintiff’s contributory negligence was exclusively for the jury and we are bound by their finding.
+Judgment affirmed.
