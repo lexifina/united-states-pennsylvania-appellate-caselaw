@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 134"
+decided: "1958-06-11"
+citations: ["186 Pa. Super. 601"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Wright, Woodside, Ervin, and Watkins, JJ. (Gunther, J., absent).", "Before Lamoree, P. J."]
+parties: ["Predwitch v. Chrobak et ux., Appellants."]
+source_url: "https://static.case.law/pa-super/186/cases/0601-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 740635
+cites_cases: ["106 A. 2d 872", "118 A. 2d 210", "126 A. 2d 809", "129 A. 83", "139 A. 2d 908", "146 Pa. Superior Ct. 143", "146 Pa. Superior Ct. 425", "164 Pa. Superior Ct. 67", "166 Pa. Superior Ct. 374", "176 Pa. Superior Ct. 271", "180 Pa. Superior Ct. 24", "182 Pa. Superior Ct. 192", "20 Pa. 331", "22 A. 2d 305", "22 A. 2d 70", "283 Pa. 250", "32 A. 2d 747", "347 Pa. 504", "349 Pa. 194", "36 A. 2d 802", "392 Pa. 221", "63 A. 2d 377", "71 A. 2d 844"]
+---
+
+# Predwitch v. Chrobak
+
+## Majority (Wright, J.,)
+
+Opinion by
+Wright, J.,
+Joseph Y. Predwitch and Anna Predwitch, his wife, commenced an action in equity against Frank Chrobak and Catherine Chrobak, his wife, seeking to enjoin the defendants from interfering with the plaintiffs’ use of a roadway or lane between adjoining tracts of land of the parties in Shenango Township, Lawrence County. After hearing, the chancellor filed an adjudication with decree nisi in favor of the plaintiffs. Defendants’ exceptions were overruled by the court en banc, and a final decree entered. This appeal followed.
+. The roadway or lane in question extends in a westerly direction from the Old Pittsburgh Eoad some 1286 feet along appellees’ north (and a portion cf. appellants’ south) boundary line, thence on across appellants’ land. The chancellor found as a fact that this roadway or lane had existed for more than twenty-one years prior to the hearing, and that it had been used, not only for the purpose of ingress and egress to and from appellees’ fields, but also by the public generally. He concluded that the roadway or lane should be kept open and that the costs of its maintenance, as well as the. costs of the proceeding, should be borne by the parties. equally. Our review of the record establishes that the finding of the chancellor is supported by the evidence, and the decree will therefore be affirmed.
+Appellants contend that the court below erred in holding that an easement by prescription existed in favor .of the appellees over appellants’ lands; that appellees had owned the dominant tenement for less than the prescriptive period, and their deed contains no transfer of any such easement; and that the roadway or lane “had fallen into disuse”. . , -
+In the frequently cited case of Garrett v. Jackson, 20 Pa. 331, Mr. Chief Justice BLACK said: "But where one uses an easement whenever he sees fit, without asking leave, and without objection, it is adverse, and an uninterrupted adverse enjoyment for twenty-one years is a title which cannot be afterwards disputed. Such enjoyment, without evidence to explain how it began, is presumed to have been in pursuance of a full and unqualified grant. The owner of the land has the burden of proving that the use of the easement was under some license, indulgence, or special contract inconsistent with a claim of right by the other party". And see Mather-Klock v. Plymire, 349 Pa. 194, 36 A. 2d 802; Cohn v. Williams, 60 D. & C. 221. Whether appellees had acquired an easement by adverse user for over twenty-one years was a question of fact: Farmers' Northern Market Co. v. Gallagher, 392 Pa. 221, 139 A. 2d 908. In the case at bar, there was testimony showing that the road in question had existed for a time beyond the memory of living witnesses, and far beyond the period of twenty-one years. It had been used not only by appellees but by the general public and, at one time, the township supervisors performed work thereon. Upon such evidence, the chancellor was warranted in finding that a right by prescription existed. See Wedge v. Schrock, 146 Pa. Superior Ct. 425, 22 A. 2d 305.
+Appellants argue that adverse use by one owner does not become available to a successor in title unless there has been "tacking", and that an actual conveyance is required, citing Masters v. Local Union No. 472, 146 Pa. Superior Ct. 143, 22 A. 2d 70. That case involved a claim of fee title to land. Such a rule has never been applied to easements, which are appurtenances of the dominant estate and require no deed or writing to support them: Lauderbach-Zerby Co. v. Lewis, 283 Pa. 250, 129 A. 83. Easements pass by conveyance of the estates to which they are appurtenant: Paci v. Shipley, 166 Pa. Superior Ct. 374, 71 A. 2d 844. And see Kloock v. Rusnack, 164 Pa. Superior Ct. 67, 63 A. 2d 377. This precise question was raised in Hatalowich v. Nagy, 182 Pa. Superior Ct. 192, 126 A. 2d 809. While it was not discussed in the opinion, our decision in the Hatalowich case actually rules the question contrary to appellants' position.
+Appellants argue finally that "Casual use during a few months of each year is not enough to sustain proof of an easement by prescription", citing Shinn v. Rosenberger, 347 Pa. 504, 32 A. 2d 747, and Trexler v. Lutz, 180 Pa. Superior Ct. 24, 118 A. 2d 210. The factual situations in those cases are readily distinguishable from that in the case at bar, in which the chancellor stated that a portion of the roadway or lane had "fallen into disuse but the plaintiffs did use the passageway or road for some years past for the purpose of egress and ingress to their fields". In any event, it is well established that an easement cannot be lost by non-user alone: Crowe v. O'Hagan, 176 Pa. Superior Ct. 271, 106 A. 2d 872.
+Decree affirmed.
