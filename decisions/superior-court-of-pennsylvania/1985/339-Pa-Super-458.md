@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+decided: "1985-03-08"
+citations: ["339 Pa. Super. 458", "489 A.2d 251"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CAVANAUGH, BECK and TAMILIA, JJ."]
+parties: ["Pamela RUSSELL, Appellee, v. PENNSYLVANIA INSURANCE GUARANTY ASSOCIATION, Appellant."]
+source_url: "https://static.case.law/pa-super/339/cases/0458-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 627046
+cites_cases: ["283 Pa.Super. 217", "489 A.2d 868"]
+---
+
+# Russell v. Pennsylvania Insurance Guaranty Ass'n
+
+## Majority (CAVANAUGH, Judge:)
+
+CAVANAUGH, Judge:
+At issue is the liability of the Pennsylvania Insurance Guaranty Association (PIGA) for post judgment interest on a judgment following an arbitration award entered against an insurer which was later suspended and eventually declared insolvent. The trial court allowed the interest and since we disagree, we reverse.
+The appellee, Pamela Russell, asserted an uninsured motorist claim against Safeguard Mutual Insurance Company and received an award at arbitration. The award was thereafter confirmed by the Court of Common Pleas and judgment was entered on April 18, 1979 against Safeguard. Shortly thereafter, on May 29, 1979 Safeguard was suspended by the Pennsylvania Insurance Commissioner. The judgment was unpaid. It was not until almost three years later, on April 21, 1982, that Safeguard was declared insolvent and dissolved. Russell’s claim was presented to PIGA which, in accordance with its obligations under the Pennsylvania Insurance Guaranty Association Act of 1970, November 25, P.L. 716, No. 232, 40 P.S. §§ 1701.101, et seq., paid the amount of the award but refused payment of the post judgment interest on the basis that its statutory obligation extended only to the amount of the claim itself, but not to interest on the judgment.
+In Roman Matusz v. Safeguard Mutual Insurance Company, 340 Pa.Super. —, 489 A.2d 868 (1985), we decided that PIGA was responsible for the payment of properly awarded attorney’s fees, costs and interest assessed under provisions of the No-fault Motor Vehicle Insurance Act of 1974, 40 P.S. § 1009.106(2) and § 1009.107. Our theory was that since PIGA’s statutory obligation was to assume all the “rights, duties and obligations of the insolvent insurer as if that insurer had not become insolvent” 40 P.S. § 1701.201(b)(l)(ii) the statutory fees and interest imposed as a result of the insurer’s dereliction were considered part of the “covered claim” insofar as they were necessary to avoid financial loss to the claimant by reason of costs and delay involved in asserting a rightful claim. However, we disallowed the interest for the period following the suspension and for the duration of the insolvency proceedings. We think the same distinction should apply to post judgment interest. Thus, we conclude that while PIGA should be liable for post judgment interest to the date of suspension, we do not think interest liability should accrue for the period following the suspension and until the determination of insolvency.
+The purpose of PIGA is to provide a means for payment of covered claims as the result of the “insolvency of an insurer.” 40 P.S. § 1701.102(1). But, an “insolvent insurer” is one determined determined to be insolvent “by a court of competent jurisdiction.” 40 P.S. § 1701.103(6). Thus, PIGA’s responsibilities do not arise until such time as the insolvency determination is made and the claim could not be paid prior to that time. The PIGA Act is remedial legislation which, in effect, places a monetary assessment against property and casualty insurance companies as a cost of doing business in Pennsylvania. This money is used to pay just claims which are unpaid as the result of insurer insolvency. Recognizing the burden on participating insurers, the legislature has recognized limitations on the amount of assessment to member insurers. 40 P.S. § 1701.301(d) (annual limit of assessment to two per cent of insurer’s net direct written premiums); 40 P.S. § 1701.-301(e) (exemption from assessment under certain circumstances). While PIGA is fairly charged with the amount of a claim against an insolvent insurance company including legally imposed enhancements incurred while the company is in operation, we do not think the legislature meant to also impose post judgment interest (42 Pa.C.S.A. § 8101) against PIGA during the period in question.
+We note that PIGA relies on Sands v. P.I.G.A., 283 Pa.Super. 217, 423 A.2d 1224 (1980) as controlling authority for reaching essentially the result we reach herein. While Sands is not inconsistent, we read that case as one which did not reach the present issue since the payment of interest would have exceeded the applicable policy limits. See Matusz, supra.
+The issue of if and when, after the determination of insolvency PIGA may be responsible for interest is not before us and our decision here is in accordance with the issue presented as to the liability for interest from the date of suspension to the date of judicial declaration of insolvency.
+Finally, as stated above, we agree that PIGA should be liable for post-judgment interest to the date of suspension, and since the lower court order properly awarded interest from that date, we affirm insofar as interest from the date of judgment to the date of suspension and reverse as to the award of interest from the date of suspension to the date of determination of insolvency.
+Affirmed in part and reversed in part. Remanded for recalculation of interest. We do not retain jurisdiction.
