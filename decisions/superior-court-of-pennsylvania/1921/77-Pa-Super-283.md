@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 17"
+decided: "1921-07-14"
+citations: ["77 Pa. Super. 283"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Trexler, Keller and Linn, JJ.", "Tbexjler, J., dissents."]
+parties: ["Storm v. City of Scranton, Appellant."]
+source_url: "https://static.case.law/pa-super/77/cases/0283-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 648337
+cites_cases: ["170 Pa. 402", "193 Pa. 67", "202 Pa. 267", "205 Pa. 598", "230 Pa. 392", "230 Pa. 394", "30 Pa. Superior Ct. 265", "40 N. W. 663", "62 Pa. Superior Ct. 80", "90 Pa. 161"]
+---
+
+# Storm v. City of Scranton
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+The plaintiff brought this action of assumpsit to recover salary alleged to be due him, as an employee of the fire department of the City of Scranton, for the months of January, February, March and April, 1914. The parties waived a jury trial and agreed that the cause be tried by the court, under and in accordance with the provisions of the Act of April 22, 1874, P. L. 109. The case was tried by one of the judges who, after a hearing, filed a preliminary decision finding in favor of the defendant. The plaintiff filed exceptions to the preliminary decision, in the manner by the statute provided. The court sustained the exceptions and entered judgment in favor of the plaintiff, which action the defendant assigns for error.
+There was no dispute at the trial, as to the facts that the plaintiff had been appointed a fireman, in the fire department of the City of Scranton in the year 1902; that he had been promoted to clerk in 1905, and assigned to duty as assistant superintendent and clerk; that he had continued to discharge the duties of that position until some time in the month of January, '1914, and that he had been ready and willing to perform his duties during the months for which he seeks to recover compensation in this action. The only question concerning which there was any dispute was whether he had been dismissed from the fire department in January, 1914. The question was not whether he had been illegally dismissed, for insufficient cause, but whether he had been dismissed by any person who had the authority to dismiss him. The judge who sat during the trial ruled out the only evidence which might have remotely tended to establish that some person connected with the city government had attempted to dismiss the plaintiff, but notwithstanding the absence of evidence found in the preliminary decision that the plaintiff had been discharged. The plaintiff filed exceptions to that finding of fact, which the court after a final hearing sustained, upon the ground that there was no evidence to support the finding. The defendant had not, after the preliminary decision, filed any exceptions to the exclusion of the evidence which might have shown that there had been an attempt to discharge the plaintiff, and has not here assigned that ruling for error so that it can have nothing to do with the disposition of this case. Scranton is a city of the second class, and the parties tried the case in the court below and have presented it here upon the theory that the appointment and dismissal of city employees is regulated by the Act of May 23, 1907, P. L. 206. The concluding sentence of the 20th section of that statute is in the following words: “Nothing in this act shall alter the procedure required for the removal or punishment of policemen and firemen as provided in the Act of March seventh, one thousand nine hundred and one, relating to the government of cities of the second class.” The Act of March 7, 1901, article III, section 1, contains the following provision: “No policeman or fireman appointed under this act shall be dismissed without his written consent, except by the decision of a court either of trial or inquiry duly determined and certified in writing to the city recorder, which court shall be composed of persons belonging to the police or fire force, equal or superior in official position therein to the accused.” The city did not produce any evidence which warranted a finding that the plaintiff had been notified that he had been dismissed, either in the manner provided by the Act of 1901 or by any officer vested with power to dismiss firemen; this being tbe case, tbe court did not err in holding that tbe plaintiff was entitled to recover bis salary: Jenkins v. Scranton, 205 Pa. 598. When tbe trial judge filed bis preliminary decision, that was not a final judgment. Tbe plaintiff bad a right, given by tbe statute, to file exceptions to tbe decision and findings, and it thereupon became tbe duty of tbe court to consider and pass upon them and order judgment to be entered in tbe cause. This is tbe judgment which may be reviewed by writ of error or appeal to the proper appellate court. No question of fact or law is determined until there is some disposition of tbe exceptions. Tbe preliminary decision is neither a verdict nor a judgment, nor can it be reviewed on appeal: McDermott v. Blank, 230 Pa. 394.
+Tbe judgment is affirmed.
+Tbexjler, J., dissents.
