@@ -1,0 +1,42 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2587 C. D. 1986"
+decided: "1987-11-23"
+citations: ["111 Pa. Commw. 240", "533 A.2d 819"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Craig, Doyle, and Senior Judge Kalish, sitting as a panel of three."]
+parties: ["Irving Miller, Individually and as Liquidating Trustee of Millers Inc., Petitioner v. Commonwealth of Pennsylvania, Board of Property, Respondent."]
+source_url: "https://static.case.law/pa-commw/111/cases/0240-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1366592
+cites_cases: ["102 Pa. Commonwealth Ct. 363", "123 A.2d 650", "134 A.2d 669", "186 A.2d 24", "300 A.2d 815", "385 Pa. 467", "390 Pa. 148", "409 Pa. 241", "498 A.2d 1370", "500 A.2d 208", "509 Pa. 336", "7 Pa. Commonwealth Ct. 611", "91 Pa. Commonwealth Ct. 622", "92 Pa. Commonwealth Ct. 627"]
+---
+
+# Miller v. Commonwealth, Board of Property
+
+## Majority (Judge Doyle,)
+
+Opinion by
+Judge Doyle,
+Irving Miller (Petitioner) petitions for review of an order of the Board of Property (Board) granting a motion by the Department of Transportation (DOT) to dismiss Petitioners complaint.
+This case is one of many stemming from the preparations, planning, delays, changes and actual construction of the Vine Street Expressway in Philadelphia. As we have already placed on record a complete exposition of the pertinent facts in this case in our prior decision in Miller v. Department of Transportation, 91 Pa. Commonwealth Ct. 622, 498 A.2d 1370 (1985) (Miller I), no lengthy recital is necessary here.
+However, in his complaint, styled as an Action to Quiet Title, first filed in the Court of Common Pleas of Philadelphia County, Petitioner seeks a final decree declaring that he is the owner in fee simple of premises known as 1517-23 Spring Street, which premises were the subject of a Declaration of Taking filed by DOT on August 31, 1972. The basis of Petitioners claim is his allegation that DOT abandoned the purpose for which it had condemned the premises, to wit, the construction of a highway. Petitioners case was first transferred to this Court, and then by this Court to the Board of Property for resolution. Before the Board, DOT denied the alleged abandonment, asserting affirmatively that it has continued to use the premises as a staging area for construction of the Vine Street Expressway. DOT further asserted that it had acquired the fee title underlying the highway easement. See Miller I. Finally, DOT argued that this case was controlled by Miller I, with the parties, issues of fact, and issues of law in both instances being identical and, accordingly, filed a motion to dismiss. The Board concluded that Petitioners action to quiet title was barred by res judicata and granted the motion to dismiss. Petition for review to this Court followed.
+The salient issue in this case is whether, in light of our decision in Miller I, Petitioners action to quiet title is precluded by either the doctrine of res judicata or the correlative doctrine of collateral estoppel, also called “issue preclusion.” This is the dispositive issue and, for the reasons set forth below, we find that the petition is precluded by our prior determination in Miller I.
+For res judicata to apply, four “identities” between the prior and present cases must exist: the identity of the thing sued upon or for must be the same in both cases; the identity of the parties must be the same; the capacity of the parties to sue or be sued must be the same; and the causes of action in each case must be the same. Carroll Township Authority v. Municipal Authority of the City of Monongahela, 102 Pa. Commonwealth Ct. 363, 518 A.2d 337 (1986). It is beyond dispute that the first three identities exist between the present case and Miller I. Petitioner asserts, however, that res judicata cannot apply because the the case sub judice is an “action to quiet title,” whereas Miller I was a condemnation proceeding. We disagree.
+Causes of action may be considered identical when in both the current and prior proceedings the subject matter and the ultimate issues are the same. Carroll. Beyond this, determination of the question must rest in the sound discretion of the court as applied to the circumstances of each case, having proper regard both to the public policy of res judicata and to the rights of the parties to have every bona fide issue passed upon. McCarthy v. Township of McCandless, 7 Pa. Commonwealth Ct. 611, 300 A.2d 815 (1973).
+It is apparent from even the most cursory reading of Miller I that the subject matter of each case, i.e., the premises at 1517-23 Spring Street in Philadelphia, is identical. Likewise, the ultimate issue in each case is identical: whether, due to the alleged abandonment of DOTs easement, ownership has reverted to Petitioner. Petitioner’s assertion that the causes of action in Miller I and the present case are separate and distinct is without merit. Petitioner puts forward two different arguments in support of this assertion. In the first instance, it is argued that the issue of abandonment was merely dictum in Miller I and was not actually litigated. However, in Miller 1 we specifically delineated “[t]he disputed issues raised ... [to be] whether . . . the Department abandoned the property or exceeded its permissible authority in condemning the fee.” Miller I, 91 Pa. Commonwealth Ct. at 626, 498 A.2d at 1373. Simply because a decision is based on two or more equally valid grounds, none of those grounds may be relegated to the inferior status of dictum. Commonwealth ex rel. Fox v. Swing, 409 Pa. 241, 186 A.2d 24 (1962). In the second instance, Petitioner argues that the cause of action in this case is an action to quiet title and is per se separate and distinct from Miller I. Petitioner has merely put old wine into a new bottle and attempted to relitigate the pivotal issues in Miller I. The four identities necessary for res judicata to apply, however, are present here, and Petitioner is barred from this attempt.
+Even if this “repackaging” of Miller 1 was sufficient to constitute a separate cause of action, Petitioner would nevertheless be barred from litigating it under the doctrine of collateral estoppel. Where the issue in two proceedings is the same, the fact that the relief sought in the latter of the two differs from that sought or obtained in the former will not prevent the bar by collateral estoppel of relitigation of the issue. Balsbaugh v. Zeck, 92 Pa. Commonwealth Ct. 627, 500 A.2d 208 (1985). Where the controlling facts and applicable legal rules remain unchanged from the prior case, collateral estoppel may apply. Clark v. Troutman, 509 Pa. 336, 502 A.2d 137 (1985).
+Accordingly, we dismiss the petition for review and affirm the order of the Board of Property.
+Order
+Now, November 23, 1987, the order of the Board of Property in the above-captioned matter is hereby affirmed.
+President Judge Crumlish did not participate in the decision in this case.
+
+## Concurrence (Senior Judge Kalish:)
+
+Concurring Opinion by
+Senior Judge Kalish:
+I concur.
+The fact that the condemnor has a right by statute to take the land beneath the easement does not absolve it of its obligation to pay just compensation for the taking. Each is a separate and distinct interest, the taking of which affects the before and after value. Thus, ownership of the easement and/or its abandonment is an extremely important factor in determining the use value of real estate. Use is a factor to be considered in determining the fair market value of the interest taken. Mazur v. Commonwealth, 390 Pa. 148, 134 A.2d 669 (1957).
+While viewers may pass upon title to land which is the subject of condemnation in order to determine who are entitled to damages, viewers are without power to decide a dispute between owners claiming the same piece of property. Powell Appeal, 385 Pa. 467, 123 A.2d 650 (1956). That was not the issue here. There is no question that Miller was the title owner of the underlying fee. The question was whether Miller was entitled to damages for a fee simple estate or one subject to an easement. This depends, of course, on whether the easement had been abandoned by the condemnor. It was purely a question of the extent of the damages, and the viewers certainly were capable and competent to decide that question.
