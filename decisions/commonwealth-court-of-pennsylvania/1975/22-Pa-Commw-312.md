@@ -1,0 +1,50 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 85 C.D. 1975"
+decided: "1975-12-11"
+citations: ["22 Pa. Commw. 312"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Mencer, Rogers and Blatt, sitting as a panel of three."]
+parties: ["In Re: Taking in Eminent Domain of Certain Parcels of Real Estate Located in the Central Business District Urban Renewal Project #2, Project Penna. R-404 in the City of Bethlehem, Northampton County, Pennsylvania, by the Redevelopment Authority of the City of Bethlehem, Pa. Alice E. Weidner and James M. Smith, et al. Redevelopment Authority of the City of Bethlehem, Appellant."]
+source_url: "https://static.case.law/pa-commw/22/cases/0312-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1871586
+cites_cases: ["14 Pa. Commonwealth Ct. 448", "20 Pa. Commonwealth Ct. 627", "253 A. 2d 260", "266 A. 2d 759", "298 A. 2d 682", "322 A. 2d 800", "342 A. 2d 794", "373 Pa. 376", "435 Pa. 344", "439 Pa. 233", "7 Pa. Commonwealth Ct. 150", "96 A.2d 118"]
+---
+
+# In re Taking in Eminent Domain of Certain Parcels of Real Estate Located in Central Business District Urban Renewal Project #2, Project Penna. R-404
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+This is an appeal from an order of the Court of Common Pleas of Northampton County, sitting en banc, denying the motion of the Redevelopment Authority of the City of Bethlehem (condemnor) for a new trial in an eminent domain case.
+The facts in this case are uncontested. Alice E. Weidner and James M. Smith, et al. (condemnees) were the owners of a property in the central business district of Bethlehem, Pennsylvania. On April 18, 1973, the condemnor filed a declaration of taking. A Board of View was appointed and awarded condemnees general damages in the amount of $114,000.00. Condemnees appealed to the Court of Common Pleas of Northampton County, where a jury returned damages to condemnees in the amount of $167,500.00.
+The condemnor then entered a Motion for a New Trial before the court assigning, as the main reasons in support of its motion, that:
+1. It was reversible error for the trial court to admit, as evidence of a comparable sale, testimony of a sale of adjoining property made to the condemnor;
+2. It was error to refuse to strike testimony of a valuation by condemnees’ expert witness based on a capitalization of economic rents rather than actual rents;
+3. It was error to admit a comparable sale which had not been introduced at pre-trial conference; and
+4. The jury’s verdict was so against the weight of evidence as to shock one’s sense of justice.
+From a refusal of the court below to grant the motion for a new trial, condemnor appeals to this court raising the same questions.
+Initially we note that the action of the lower court, in granting or refusing a motion for a new trial, is discretionary and will not be reversed unless there has been a manifest abuse of that discretion or a clear error of law. Department of Transportation v. Lutz, 14 Pa. Commonwealth Ct. 448, 322 A. 2d 800 (1974) ; Arndt v. Central Cambria School District, 7 Pa. Commonwealth Ct. 150, 298 A. 2d 682 (1972).
+However, we are compelled to find, on these facts, that the lower court committed an error of law by permitting testimony of a sale made to the condemnor as evidence of a comparable sale. We therefore reverse.
+A condemnee is entitled to just compensation for the taking of his property. Section 602(a) of the Eminent Domain Code (Code) defines just compensation:
+“(a) Just compensation shall consist of the difference between the fair market value of the condemnee’s entire property interest immediately before the condemnation and as unaffected thereby and the fair market value of his property interest remaining immediately after such condemnation and as affected thereby, and such other damages as are provided in this code.” (Emphasis added.)
+In section 603, 26 P.S. §1-603, “fair market value” is defined:
+“Fair market value shall be the price which would be agreed to by a willing and informed seller and buyer. . . .”
+One of the methods permitted for determining fair market value at trial is to have an expert testify to comparable sales.
+The Supreme Court of Pennsylvania has repeatedly held that sales to a condemnor are not sales between a willing seller and a willing buyer and are therefore not admissible as comparable sales. The rationale for this rule was first announced in Community Housing Services, Inc. v. Pittsburgh Urban Redevelopment Authority, 435 Pa. 344, 349-50, 253 A. 2d 260, 262 (1969), in a concurring opinion by Justice Pomeroy:
+“Sales to a condemnor of properties which it could and if necessary would, acquire by condemnation are not, in my judgment, sales on the open market between a willing seller and a willing buyer. They involve an ingredient of compulsion on the part of the seller that might make the ‘sales price’ too low; there may be an ingredient of anxiety for speedy acquisition or some other factor operating in the mind of the authority which would place the ‘sales price’ on the high side of fair market value. The fact is that the parties are not only buying and selling real estate; they are also settling a potential lawsuit, with all the elements of time, trouble, expense, and worry that would be involved. The properties may indeed be comparable, but for one reason or another the transactions may not be, and the so-called ‘sales price’ may be higher or lower than if no condemnation were involved. To admit such testimony would be to invite side excursions into all the other related factors; such collateral matters would unduly complicate and delay the trial. For these and the other reasons contained in the opinion of the lower court, I see no reason to depart from the so-called ‘exclusionary rule,’ which has long been the law in Pennsylvania, and represents the majority view in the United States. See Nichols on Eminent Domain (3d Ed., 1967), §§21-33; Snitzer, Pennsylvania Eminent Domain (1965), §705 (1)-2.11.” (Emphasis added.) In the case at bar, condemnees’ expert, Mr. Fitelson,
+was permitted to testify, over objections, to a sale made to condemnor of the Greenberg property adjoining condemnees’ property. Although the trial judge, in overruling the objection, was commendably interested in allowing the condemnees full and complete opportunity to prove the value of their land, such evidence was not relevant or competent.
+This case, we believe, is directly on point with Scavo v. Department of Highways, 439 Pa. 233, 239-40, 266 A. 2d 759, 762-63 (1970), in which the Supreme Court of Pennsylvania stated:
+“The Eminent Domain Code, §705(1), states that ‘A qualified valuation expert may, on direct or cross-examination, state any or all facts and data which he considered in arriving at his opinion. . . .’ This, however, must be subject to the limitation that neither an expert witness nor the condemnee (who is deemed a qualified expert, Hoffman, supra at 151) can testify to facts and data which are not judicially relevant and competent. Snitzer, Eminent Domain §705(1)2.1. The subject of the admissibility of testimony as to sales of comparable property to a condemnor was discussed in the Concurring Opinion of Mr. Justice Pomeroy in Community Housing Services, Inc. v. Pittsburgh Urban Redevelopment Authority, supra at 348. We concur in the reasoning expressed there and hold that the court below erred in overruling the Commonwealth’s objections to this testimony.
+“Finally, this evidence is not made admissible by §705 (2) (i) which permits a qualified valuation expert to testify as to ‘The price and other terms of any sale or contract to sell the condemned property or comparable property made within a reasonable time before or after the date of condemnation.’ While the comment to the section states that its purpose is to broaden the permissible scope of testimony, the case cited for the restrictive view, Berkley v. Jeannette, 373 Pa. 376, 96 A.2d 118 (1953), did not involve a sale to a condemnor, and nowhere does the statute indicate a purpose to change the law with respect to the special situation (see Justice Pomeroy’s Concurring Opinion) represented by such sales. Therefore, it appears that a settlement with a condemnor is not the type of ‘sale or contract to sell’ contemplated by the Eminent Domain Code.” (Emphasis added.)
+The condemnees argue that the sale of the Greenberg property was a settlement prior to any declaration of taking being filed and was not within the rule in Community Housing Services, Inc., supra. However, the record reveals that this was a sale to condemnor of properties which “it could, and if necessary would, acquire by condemnation. . . .” bringing it directly within that rule.
+While we may question the rationale for this “exclusionary rule,” it is, nevertheless, the well-settled law of this Commonwealth. Since we find reversible error on condemnor’s first assertion of error, it is unnecessary to reach the other issues raised by condemnor. Accordingly we enter our
+Order
+Now, this 11th day of December, 1975, the order of the Court of Common Pleas of Northampton County, denying condemnor’s motion for a new trial, is reversed. The judgment of the court below is vacated and the record remanded for a new trial.
+. Act of June 22, 1964, Special Sess., P.L. 84, as amended, 26 P.S. §1-602(a).
+. Eminent Domain Code, §705(1), (2) (i), 26 P.S. §1-705(1), (2) (i).
+. In a recent case, Klick v. Department of Transportation, 20 Pa. Commonwealth Ct. 627, 342 A. 2d 794 (1975), we found that the admission of testimony, similar to that in the instant case, was harmless error. However, in Klick the record was devoid of evidence showing that the sale was to a condemnor and the price quoted per acre was next to the lowest of seven comparables and hence, was beneficial to condemnor. Such special circumstances are not present in the instant case.
