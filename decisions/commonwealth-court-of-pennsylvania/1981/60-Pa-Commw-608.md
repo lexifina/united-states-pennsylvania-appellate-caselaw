@@ -1,0 +1,34 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1779 C.D. 1980"
+decided: "1981-07-17"
+citations: ["60 Pa. Commw. 608"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogers, Blatt and Palladino, sitting as a panel of three."]
+parties: ["Yorktowne Paper Mills and Pennsylvania Manufacturers’ Association Insurance Company, Petitioners v. Commonwealth of Pennsylvania, Workmen’s Compensation Appeal Board and Charles H. Beard, Respondents."]
+source_url: "https://static.case.law/pa-commw/60/cases/0608-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1922465
+cites_cases: ["233 A.2d 891", "246 A.2d 668", "38 Pa. Commonwealth Ct. 473", "393 A.2d 1081", "398 A.2d 1103", "41 Pa. Commonwealth Ct. 275", "410 A.2d 420", "415 A.2d 957", "422 A.2d 1233", "427 Pa. 5", "431 Pa. 446", "49 Pa. Commonwealth Ct. 144", "52 Pa. Commonwealth Ct. 265", "55 Pa. Commonwealth Ct. 247"]
+---
+
+# Yorktowne Paper Mills v. Commonwealth, Workmen's Compensation Appeal Board
+
+## Majority (Judge Rogers,)
+
+Opinion bt
+Judge Rogers,
+In 1967 Charles H. Beard injured his back in the course of his employment as a laborer in the Yorktowne Paper Mills, Inc. During the eleven years following, the claimant underwent repeated surgical procedures to his back and with the exception of short periods when he attempted without success to return to work, received workmen’s compensation benefits for total or partial disability pursuant to an agreement and six supplemental agreements entered into with the employer.
+In 1978 the employer sought to suspend compensation alleging that the claimant was no longer totally disabled but could return to work and that there were positions available suited to his continuing physical limitations. Following two hearings on these issues, a referee held that the employer had not proved the availability of suitable work. The Workmen’s Compensation Appeal Board affirmed the referee’s order. This appeal followed.
+The general rule, first enunciated in Barrett v. Otis Elevator Co., 431 Pa. 446, 246 A.2d 668 (1968) and Petrone v. Moffat Coal Co., 427 Pa. 5, 233 A.2d 891 (1967) is that an employer seeking to modify a workmen’s compensation agreement and asserting that a claimant’s disability is no longer total has the burden to prove that such disability has been reduced and that work is available which is within the claimant’s capability. Stillman Automotive Center, Inc. v. Workmen’s Compensation Appeal Board, 55 Pa. Commonwealth Ct. 247, 248, 422 A.2d 1233, 1234 (1980).
+On the issue of available work, the employer elicited the testimony of Keith A. Daubert, a rehabilitation specialist and counsellor, that six specified employment positions suited to the claimant’s physical limitations were available in the York, Pennsylvania area near his residence. The positions were: car wash attendant, industrial security guard, janitorial service (two jobs), laborer with an automobile rustproofing concern, and apprentice cigar wrapper.
+The claimant’s treating physician, Dr. J. J. Danyo, was deposed by the employer and testified on direct examination that the claimant was capable of performing any of the six specified jobs. On cross-examination Dr. Danyon retreated from this unqualified conclusion and indicated that a more particularized analysis of the duties encompassed by several of the job descriptions might reveal their lack of suitability. For example, Dr. Danyon agreed with the claimant’s counsel that the car wash attendant’s position, involving repeatedly climbing into and out of automobiles including compact and subcompact models might have “too much bending and twisting associated with it.” The same reservation was expressed with respect to the automobile rustproofing position which also involved repeated bending.
+At a later hearing the claimant testified that he had attended interviews and had filed applications for three of the six positions but that the applications had been, in each case, rejected. In addition, his application for one of the janitorial positions was not accepted because the anticipated vacancy had not materialized. The claimant admitted that he did not apply for the remaining two positions; with the rustproofing concern and as a security guard.
+The only issue raised by the employer for our review is whether the referee’s finding number six can be sustained without a capricious disregard of the competent evidence of record. The disputed finding is as follows:
+(6) The Referee finds that the jobs presented as being available are not suited to claimant’s physical, educational and general background, and that as described by the Act, claimant remains temporarily disabled as a result of the injury of September 13,1967.
+An employer may satisfy its burden on the issue of available work'by showing general availability of suitable jobs in the relevant labor markét. Dreher v. Workmen’s Compensation Appeal Board, 38 Pa. Commonwealth Ct. 473, 393 A.2d 1081 (1978). However, where as in this case specific jobs are offered in an attempt to meet this burden a claimant can rebut such evidence by showing that the specific jobs are not in fact available because he cannot perform the work due to his disability, or he is not qualified in other respects for the employment, or he has applied for the positions .and has been rejected. St. Joseph Hospital v. Workmen’s Compensation Appeal Board, 52 Pa. Commonwealth Ct. 265, 415 A.2d 957 (1980); Halloran v. Workmen’s Compensation Appeal Board, 49 Pa. Commonwealth Ct. 144, 410 A.2d 420 (1980); Weathergard, Inc. v. Workmen’s Compensation Appeal Board, 41 Pa. Commonwealth Ct. 275, 398 A.2d 1103 (1979). Each of the four positions for which the claimant made application were in fact unavailable because he was rejected or the job was filled. Dr. Danyo’s testimony supports the referee’s conclusion, affirmed by the Board, that the rustproofing job entailed physical mobility beyond the claimant’s medical limitations. The remaining position, as a security guard, primarily involved the verification of documents authorizing access to an industrial plant. It was not a capricious disregard of the evidence for the referee to conclude that the claimant, who had received education only up to the fifth grade level and who could read little if at all, would be unable to perform these duties.
+Order affirmed; an appropriate judgment order will be entered.
+Order
+And Now, this 17th day of July, 1981, the order of the Workmen’s Compensation Appeal Board is affirmed and judgment is entered in favor of Charles H. Beard and against Yorktowne Paper Mills, Inc. and its insurance carrier due in the amount of $60.00 per week continuing in the future within the limitations of The Pennsylvania Workmen’s Compensation Act for so long as claimant’s disability shall continue.
