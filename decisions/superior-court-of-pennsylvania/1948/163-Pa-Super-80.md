@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 4"
+decided: "1948-07-23"
+citations: ["163 Pa. Super. 80"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, Ross, Arnold and Fine, JJ."]
+parties: ["Commonwealth v. Mercer, Appellant"]
+source_url: "https://static.case.law/pa-super/163/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 464266
+cites_cases: ["124 Pa. Superior Ct. 151", "142 Pa. Superior Ct. 239", "142 Pa. Superior Ct. 449", "145 Pa. Superior Ct. 359", "148 Pa. Superior Ct. 40", "15 A. 2d 738", "159 Pa. Superior Ct. 284", "16 A. 2d 723", "188 A. 416", "21 A. 2d 236", "24 A. 2d 712", "48 A. 2d 131"]
+---
+
+# Commonwealth v. Mercer
+
+## Majority (Dithrich, J.,)
+
+Opinion by
+Dithrich, J.,
+This is a proceeding under the Act of June 24,1939, P. L. 872, §733,18 PS §4733, instituted on the complaint of Jewell W. Mercer against her husband, Wilbur J. Mercer, to obtain support for herself and a four-year-old child born of the present marriage. Both of the principals had been married before. The wife has two children, a son and daughter, by a former marriage; the husband has one child, a daughter. All of the children lived in the Mercer home when not attending school and all were supported by the husband until January 22, 1948, when the wife withdrew from the common domicile. She testified that she was compelled to do so on account of her husband’s course of conduct toward her.
+The learned president judge of the court below ordered the defendant to pay the sum of $25 per week for the support of his wife and child, and in his opinion accompanying the order stated, in part: “We are of the opinion, taking into consideration the testimony, the court will not interfere in a verdict of the jury awarding a divorce to the complainant in this issue; that, as indicated by the findings of fact, there was such a course of conduct on the part of the husband that constituted indignities to the person of the wife so that she is entitled to support from her husband.”
+We have carefully reviewed the testimony and it is our independent view that the course of conduct on the part of the husband has been such as would justify the wife in withdrawing from the common domicile. But, in our opinion, the learned court below erred in entering an order for her support under the then existing circumstances.
+When Mrs. Mercer withdrew from the common domicile, she took with her all of the furniture, worth approximately $3,000, which she placed in storage, with the exception of a few articles that she used to furnish a trailer which she had purchased for $3,250, unbeknown to her husband. When asked .why she put the furniture in storage when it belonged to her husband, she answered “Because I wanted it.” Later when asked why she didn’t “leave the rest of the furniture for . . . [her] husband’s use,” she again answered.because “I wanted'it myself.” As,a consequence, the husband has been obliged to buy new furniture for an apartment which he has rented in Philadelphia, to which ■ city he' was transferred from York, Pennsylvania, where he was living at the time of the separation. ■
+The wife had previously appropriated to her own use approximately $5,000 of her husband’s money which had been placed in a bank in a joint savings-account, and at the same time took from her husband United States Defense Bonds of the face value of $5,000 and placed them in a safe deposit box in her own name. She subsequently cashed the bonds without the knowledge or -consent of her -husband and deposited the proceeds in a savings account in her own name. At the time of hearing there was still $2,200 of the amount on deposit to her credit.
+In Com. ex rel. Martocello v. Martocello, 148 Pa. Superior Ct. 40, 24 A. 2d 712, this Court said, speaking through Stadtfeld, J., page 46: “This court has frequently held that an order for support ‘is not to punish the respondent for his conduct, or misconduct, towards his wife and family, but is to secure such an allowance for their support as is reasonable having in view the property, income and earning capacity of the respondent and the condition in life of the family:’ Com. ex rel. Fort v. Fort, 124 Pa. Superior Ct. 151, 152, 188 A. 416.”
+And in Com. ex rel. Crandall v. Crandall, 145 Pa. Superior Ct. 359, 21 A. 2d 236, the Court in an opinion by Rhodes, J., now P. J., said, page 363: “In considering the sufficient ability of the husband to pay, not only the actual amount shown to have been received, but also the attendant circumstances, miist be considered. Com. ex rel. Liuzzi v. Liuzzi, 142 Pa. Superior Ct. 239, 241, 15 A. 2d 738; Com. ex rel. Stout v. Stout, 142 Pa. Superior Ct. 449, 451, 16 A. 2d 723.” (Emphasis added.)
+Upon consideration of the “attendant circumstances” in the instant case, we are forced to the conclusion that the learned court below abused its discretion in ordering the husband to support his wife after she had stripped him of practically everything he owned. The entry of the order should at least have been delayed until such time as the wife had exhausted the money and other valuable property of her husband which she had misappropriated. We feel that this is a case where the rule enunciated in 42 C. J. S., Husband and Wife, §612 f, is particularly applicable: “Apart from the various circumstances which may bar or terminate the wife’s right to separate maintenance, ... it has been said generally that the equities of a particular case may be such as to justify the court, in the exercise of its discretion, in refusing to allow the wife separate maintenance.” (Emphasis added.)
+While not at all controlling, the circumstance that she had a considerable sum of money which she had misappropriated from her husband should be considered by the Court. Com. ex rel. Rey v. Rey, 159 Pa. Superior Ct. 284, 48 A. 2d 131.
+In view of all the attendant circumstances, we feel that the present needs of the wife do not entitle her to an order providing for her separate support and maintenance. The order of the court below will be reversed without prejudice to the right of the wife to institute further proceedings at such time in the future as she may actually become dependent upon her husband for support beyond the means with which she has already been provided.
+The eighth and ninth assignments of error are sustained. The order is reversed and the record remitted for the purpose of having the court enter an appropriate order solely for the support of the child.
