@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 50"
+decided: "1945-07-15"
+citations: ["165 Pa. Super. 49"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., IIirt, Reno, Dithrich, Arnold and Fine, JJ. (Ross, J., absent)."]
+parties: ["Commonwealth ex rel. Kevitch v. McCue, Appellant."]
+source_url: "https://static.case.law/pa-super/165/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 467291
+cites_cases: ["146 Pa. Superior Ct. 20", "159 Pa. Superior Ct. 159", "159 Pa. Superior Ct. 230", "162 Pa. Superior Ct. 366", "164 Pa. Superior Ct. 64", "21 A. 2d 521", "48 A. 2d 133", "48 A. 2d 27", "57 A. 2d 610", "63 A. 2d 447", "7 Watts 302"]
+---
+
+# Commonwealth ex rel. Kevitch v. McCue
+
+## Majority (Hirt, J.,)
+
+Opinion by
+Hirt, J.,
+Twin children of relator and respondent, now about two and one-half years old, are the subjects of this habeas corpus proceeding. Notwithstanding they are natural children, the lower court awarded their custody to their father. We granted supersedeas and the children have been with their mother pending disposition of this appeal. The order will be reversed.
+When relator was discharged from the armed forces in October 1945 he resumed an intimate relationship with the respondent. After the birth of the children he set them up with their mother in a house, which he had bought for the purpose, on North Butler Street, in Philadelphia. He visited them frequently and each Aveek spent two or three nights Avith them there. After about one year he sold the house and in May 1948 took the respondent and his tAvo children to the home of his parents on North Ninth Street in Philadelphia. She lived there with the relator and his family for about seven months A\dien she severed relations Avith him and left the home f'olloAving a quarrel Avith his mother. She then bought a home on Hope Street in Philadelphia Avith the proceeds of personal property Avhich relator had given her, and in October 1948 took her children from the home of relator’s parents. Since then they have been living Avith her in her house. The relator has continued to pay for the support of his children there.
+Relator’s paternity is admitted and as father of these illegitimate children he has rights as to their custody “for purposes of nurture and education”, arising from his obligation to maintain them (Moritz v. Garnhart, 7 Watts 302) as against every one except their mother. Commonwealth ex rel. Human v. Hyman, 164 Pa. Superior Ct. 64, 63 A. 2d 447. A father of an illegitimate child is not legally related to it and the laAV recognizes the right of the mother to its custody. The general rule therefore has been that the right of a mother to the custody of an illegitimate child is superior to that of all other persons, including their father, for ordinarily the best interests of the child can be served by maternal care. Latney’s Appeal, 146 Pa. Superior Ct. 20, 21 A. 2d 521. And in this case relator had no valid claim to the custody of these children as against their mother, the respondent, except by shoAving that she is an unfit person to be entrusted with their care and in addition that their best interests Avill be served by aAvarding them to him. This he has not done.
+Respondent admittedly has had a sordid past. Prior to, but not since 1936, she had been a prostitute for a time, and also had been addicted to ;a’narcotic drug. On both counts she had come in conflict with the law. But except in her- alliance with relator which she latterly justified on an expectation of marriage she has effected a complete reformation. She has not taken a drug since 1943. She is fond of her children and their welfare is her ruling passion. They well may be the stabilizing influence that will make her rehabilitation permanent. • .
+In general the needs of a child of tender years are best served by its mother, and, unless compelling reasons appear to the contrary, such child should be committed to the care and custody of its mother. Com. ex rel. Swartzwelder v. Swartzwelder, 162 Pa. Superior Ct. 366, 57 A. 2d 610; Com. ex rel. Minnick v. Wilson, 159 Pa. Superior Ct. 230, 48 A. 2d 27. This principle has application even where there has been a serious lapse from moral standards by the mother, provided her past misconduct' will not adversely affect the best interests of the child. The classic authority to this .effect is Commonwealth v. Addicks and Wife, 5 Binney 520. We have applied the principle in proper cases. Cf. Com. ex rel. Bock v. Bock, 159 Pa. Superior Ct. 159, 48 A. 2d 133; Com. ex rel. Minnick v. Wilson, supra. Here as in the Addieks’ case, while the mother’s misconduct cannot be condoned, she is not at fault in the treatment of her children. The mother is in good health and though the house at the time of the hearing was sparsely furnished and lacked some physical comforts, the children had been well maintained by her. We have observed her in the hearings before this Court. Her affection for her children cannot be questioned. She asserts, and we believe, that with the help of her sister she will be able to continue to care for them properly. The relator has recognized his financial obligation to support them.
+It is our judgment that no valid reason appears at present for taking the children from their mother. If conditions materially change in the future, adversely affecting the children’s welfare, further action always may- be taken by the court below. Com ex rel. Swartzwelder v. Swartzwelder, supra.
+The order is reversed and the custody of the children is awarded to their mother, the respondent, subject to such conditions as the lower court in its reasonable discretion may impose.
