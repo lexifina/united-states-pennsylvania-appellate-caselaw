@@ -1,0 +1,36 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1455 C.D. 1986"
+decided: "1987-07-30"
+citations: ["108 Pa. Commw. 131", "529 A.2d 74"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail and Doyle, and Senior Judge Kalish, sitting as a panel of three."]
+parties: ["Ronald Thomas and Gloria Thomas, Appellants v. Joseph Pagano and Jennie Pagano, and Commonwealth of Pennsylvania, Department of Transportation, Appellees."]
+source_url: "https://static.case.law/pa-commw/108/cases/0131-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1362132
+cites_cases: ["498 A.2d 462", "92 Pa. Commonwealth Ct. 20"]
+---
+
+# Thomas v. Pagano
+
+## Majority (Senior Judge Kalish,)
+
+Opinion by
+Senior Judge Kalish,
+Appellants, Ronald Thomas and Gloria Thomas, appeal from that portion of an order of the Court of Common Pleas of Cambria County which granted partial summary judgment for the Department of Transportation (DOT). We reverse.
+Joseph Pagano was a real estate appraiser employed by DOT. He was operating his own automobile, titled to him and his wife Jennie, when he was involved in an accident in which appellants were injured. Pagano carried his own liability insurance in the amount of $100,000. Appellants brought an action against Jennie and Joseph Pagano. Subsequently, appellants amended their complaint to join DOT, averring that Pagano was acting within the scope of his employment with DOT, thus making DOT liable on the theory of respondeat superior.
+DOT filed a motion for partial summary judgment, requesting the trial court to dismiss the complaint because it failed to state a cause of action that fell within one of the exceptions to immunity set forth in section 8522 of the Judicial Code, 42 Pa. C. S. §8522. Alternatively, DOT requested that its liability exposure be limited to excess coverage in the event of a damage award exceeding Joseph Paganos $100,000 private insurance coverage. Jennie Pagano also filed a motion for summary judgment. The trial court granted Jennie Paganos motion for summary judgment and DOTs motion for partial summary judgment. Appellants appeal that portion of the trial courts order which granted DOTs motion for partial summary judgment.
+Appellants argue that the negligent operation of a motor vehicle by a Commonwealth employee in the scope of his employment falls within the exception to immunity set forth in section 8522(b)(1) of the Judicial Code, 42 Pa. C. S. §8522(b)(l), regardless of who owns the vehicle. DOT admits that Pagano was within the scope of his employment, but argues that because he was driving his own car, the exception to immunity is not applicable.
+Factually, there does not appear to be a dispute. Therefore, our scope of review, is limited to determining whether the trial court abused its discretion or committed an error of law. City of Philadelphia v. Nationwide Insurance Co., 92 Pa. Commonwealth Ct. 20, 498 A.2d 462 (1985).
+In its opinion, the trial court stated that “it is factually clear that plaintiffs have not pled a cause of action that falls within any waiver area where liability can be imposed on the Commonwealth,” and that only where a vehicle is owned, leased or loaned to the government is there an exception to immunity. In holding that appellants had not established a cause of action within the vehicle liability exception to immunity, the trial court relied on the report by the Joint State Government Commission on the recommendations of the Task Force on Sovereign Immunity, which suggested that liability be limited to situations where the Commonwealth owns, leases or loans a car.
+Appellants did state a cause of action that fells within the vehicle liability exception to immunity set forth in section 8522(b)(1) of the Judicial Code, 42 Pa. C. S. §8522(b)(l). This section waives immunity against Commonwealth parties for damages arising out of a negligent act in the operation of a motor vehicle in the possession or control of a Commonwealth party. A Commonwealth party is defined in section 8501 of the Judicial Code, 42 Pa. C. S. §8501, as a Commonwealth agency and any employee thereof acting within the scope of employment.
+Certainly, DOT and its employee, Pagano, are Commonwealth parties within the meaning of the Judicial Code, and it was admitted that Pagano was acting within the scope of his employment. While the Task Force may have suggested that liability be imposed only where the vehicle is owned, leased or loaned to the Commonwealth, there is nothing in the Judicial Code which so declares. On the contrary, the Judicial Code clearly imposes liability where the motor vehicle is operated by a Commonwealth party in possession or control of the vehicle. If the legislature intended to further immunize the Commonwealth in the operation of a vehicle, it could easily have said so.
+After it determined that appellants’ complaint failed to state a cause of action, the trial court went further and determined that only in the event that a trial damage award exceeds Paganos $100,000 private insurance coverage may DOT be held liable for the excess. Thus, the trial court held that the $250,000 limit on liability, found in section 8528(b) of the Judicial Code, 42 Pa. C. S. §8528(b), did not apply to appellants’ claim.
+Section 8528(b) of the Judicial Code, 42 Pa. C. S. §8528(b), provides that “[d]amages arising from the same cause of action or transaction or occurrence or series of causes of action or transactions or occurrences shall not exceed $250,000 in favor of any plaintiff or $1,000,000 in the aggregate.” In making the determination that section 8528(b) did not apply, the trial court reasoned that the intent of the Pennsylvania No-Fault Motor Vehicle Insurance Act (No-Fault Act), Act of July 19, 1974, P.L. 489, formerly 40 P.S. §§1009.101-1009-.01, repealed by the Motor Vehicle Financial Responsibility Law, 75 Pa. C. S. §§1701-1798, would be subverted if section 8528(b) of the Judicial Code, 42 Pa. C. S. §8528(b), were applicable, because adequate insurance coverage under the No-Fault Act exists under the Paganos’ $100,000 automobile insurance coverage. We disagree.
+In City of Philadelphia v. Nationwide Insurance Co., 92 Pa. Commonwealth Ct. 20, 498 A.2d 462 (1985), this court held that the limitation on liability in an action brought against a municipality which fell within one of the exceptions to immunity in the Political Subdivision Tort Claims Act, Act of November 26, 1978, P.L. 1399, formerly 53 P.S. §§5311.101-5311-.803, repealed by the Act of October 5, 1980, P.L. 693, was applicable to items covered by the No-Fault Act. Similarly, the limitation on liability found in section 8528(b) of the Judicial Code, 42 Pa. C. S. §8528(b), is applicable in the instant case, and is not limited by the provisions of the No-Fault Act.
+Accordingly, we reverse the trial courts decision granting DOTs motion for partial summary judgment.
+Order
+Now, July 30, 1987, the decision of the Court of Common Pleas of Cambria County, in No. 1984-3101, dated May 1, 1986, which granted the Department of Transportations motion for partial summary judgment, is reversed.
