@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 122"
+decided: "1930-07-10"
+citations: ["100 Pa. Super. 47"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Linn, Gawthrop, Cunningham and Baldrige, JJ."]
+parties: ["Sauter v. Grelle et al., Appellant."]
+source_url: "https://static.case.law/pa-super/100/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 691358
+cites_cases: ["162 Pa. 360", "191 Pa. 644", "201 Pa. 286", "21 Pa. 495", "31 Pa. Superior Ct. 47", "33 Pa. 232"]
+---
+
+# Sauter v. Grelle
+
+## Majority (Baldrige, J.,)
+
+Opinion by
+Baldrige, J.,
+This bill in equity prayed that a certain mortgage, judgment and deed be declared null and void for the reason that they were executed for the purpose of hindering, delaying and defrauding the plaintiff, a creditor of Theresa H. Grelle.
+Theresa H. Grelle and her father, Wolfgang Rank, one of the defendants, owned separate properties on 18th Street Extension in the South Side, Pittsburgh. Rank held a $1,900 mortgage against his daughter. In 1922, when there remained due $1,700 on this mortgage, the daughter sold her property and the mortgage was satisfied, but the money was not paid to the mortgagee as Theresa Grelle intended to build a house and desired to use the money for that purpose. Rank sold his house on August 3, 1922, and loaned to his daughter $3,300 additional so that she was indebted to him in the sum of $5,000. She gave him, as evidence of her indebtedness, a judgment note for $5,000, dated August 22, 1922. On March 1, 1923, in lieu thereof, she executed her bond and mortgage, which was duly acknowledged on September 13, 1923, and described therein a lot she had purchased on Hobart Street on which she built a house. A trust company held a first lien upon this property, which, on December 23, 1927, liquidated $6,263.04. The mortgage to her father was not recorded but remained in the hands of his real estate agent.
+Theresa Grelle was engaged in the tire repair business, and the plaintiff was in her employ. On November 2, 1927, in the course of his employment, he suffered an injury, and on January 16, 1928, was awarded compensation in the sum of $1,500.
+On December 23, 1927, the $5,000 mortgage was entered of record by Henning, the real estate agent, at the request of Rank. On January 9, 1928, a judgment was confessed by Theresa Grelle, in favor of Mary Huber, one of the defendants in this case, for the sum of $2,997. By deed, dated January 25, 1928, and recorded the same date, Theresa Grelle and her husband conveyed the Hobart Street property to her father, Wolfgang Rank. The testimony adduced upon the part of the defendants shows that the value of the property is $9,000.
+The court held that the recording of the mortgage of Wolfgang Rank was with a fraudulent intent and that the subsequent conveyance to him was null and void and postponed the mortgage and the Huber judgment to the lien of the plaintiff’s judgment.
+There was an averment also that Theresa H. Grelle conveyed her business to her son, Carl Grelle, one of the defendants, without consideration, to hinder, delay and defraud the plaintiff, but the court found that the business had practically ceased and was of no value and dismissed the bill as to Carl Grelle.
+There was no contention that there was lack of valuable consideration for the mortgage given by the daughter to her father. The chancellor found that the daughter owed her father the money evidenced by the mortgage and that he had no intention of foreclosing the mortgage because of her failure to pay interest; that the mortgage was not recorded so that the mortgagee would not be liable to the Commonwealth for the payment of the personal property tax thereon; and that it was entered of record only to make it a lien on his daughter’s real estate prior to the compensation awarded this plaintiff.
+We are unaware of any authority which makes the recording of a mortgage given for an adequate and valuable consideration a fraudulent and void act against another creditor, notwithstanding a relationship existed of father and daughter: Weldon’s Est., 31 Pa. Superior Ct. 47; Candee’s App., 191 Pa. 644. The father was in the same position as any other creditor with a valid claim and had the right to exercise the protection afforded him by the Recording Acts. The- indebtedness to him was a prior obligation to the plaintiff’s award and he, as a holder of a mortgage, had the privilege to place it of record whenever he saw fit so to do: Covanhovan v. Hart, 21 Pa. 495. Its priority only depended on the'date it was recorded: Act of April 27, 1927, P. L. 440. As there was an actual debt existing since 1923, a fraudulent intent may not be inferred by the obtaining of a prior lien, nor from tbe delay in recording the mortgage, nor in the father’s indulgence as to the payment of the interest. The Commonwealth has a remedy against the mortgagee for any taxes that may be due. It is true that the criterion of fraud is the intent, but a fraudulent intent cannot be inferred by the mere fact of obtaining a preference of an existing debt (Werner v. Zierfuss, 162 Pa. 360), as it is not a fraudulent act to secure or facilitate payment of a debt: Shibler v. Hartley, 201 Pa. 286; C. J. 27, p. 634, section 395. We think the court was in error in holding the appellant guilty of a fraudulent motive in doing an act which clearly was within his legal/rights.
+We agree with the learned court below that the voluntary conveyance of this property was not justified, under the circumstances as existed in this case, on the ground that an adequate consideration was paid, thus permitting' the grantor to determine the worth of her property, and, as a result, defeat creditors from collecting the amount due them. If a voluntary conveyance was made for the purpose of defrauding creditors, as was found by the chancellor on sufficient testimony, it is void as to them without regard to the value of the property: Garrison v. Monaghan, 33 Pa. 232.
+As we have found that the mortgage is valid, but the conveyance was fraudulent and the property must be reconveyed, the holder of the mortgage, Wolfgang Rank, is in the same position as though the conveyance had never been made and his mortgage was not merged when he accepted and recorded an invalid deed from Theresa Grelle.
+The first, third, fifth, seventh and ninth assignments of error are sustained and the remaining assignments are overruled. The court’s decree is to be modified accordingly. Costs of this appeal to be paid by the appellant.
