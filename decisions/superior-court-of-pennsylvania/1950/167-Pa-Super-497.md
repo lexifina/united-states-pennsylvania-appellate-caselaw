@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 244"
+decided: "1950-11-14"
+citations: ["167 Pa. Super. 497"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, Ross, Arnold and Gunther, JJ."]
+parties: ["Commonwealth v. O’Hara, Appellant."]
+source_url: "https://static.case.law/pa-super/167/cases/0497-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 470528
+cites_cases: ["155 Pa. Superior Ct. 309", "155 Pa. Superior Ct. 325", "159 Pa. Superior Ct. 45", "165 A. 521", "38 A. 2d 355", "38 A. 2d 722", "46 A. 2d 529"]
+---
+
+# Commonwealth v. O'Hara
+
+## Majority (Reno, J.,)
+
+Opinion by
+Reno, J.,
+O’Hara, White and Blum were jointly indicted and tried for (1) burglary, (2) larceny, and (3) receiving stolen goods. O’Hara and White were convicted on the first and second counts; Blum on the third; and they were sentenced accordingly. Only O’Hara appealed.
+Undoubtedly some persons burglarized the Uncle Sam Hotel in Philadelphia some time after midnight of Saturday, May 14, 1950. The thieves broke into the men’s room by breaking a window located about eight feet above the ground which was reached by placing a plank in a sloping position against the wall. An iron grate which protected the window was broken and removed. Having entered the men’s room in that manner, the burglars gained access to the bar room, and from the shelves took a number of bottles of whiskey, wine and brandy, and a quantity of beer, too much for one man to carry away at one time.
+A door leading from the taproom to the upstairs sleeping rooms stood open when the proprietor reached his premises the following day. He called the police and together they searched the sleeping rooms. The defendants were lodgers in the hotel, and they were found in Blum’s room, drinking the liquors missing from the bar room. A police officer testified: “White had a lot of brick dirt in his hair, where it came out of the grating; O’Hara’s hands were full of rust, where they held the [grate] bar.” A city detective testified that at the magistrate’s hearing “Blum stated that O’Hara and White brought the whiskey to his room.” The Commonwealth’s evidence, if believed, was sufficient to support the convictions.
+The defendants testified in their own behalf. White and O’Hara were represented by counsel who conducted the direct examination of their clients. Blum refused the services of counsel, and was examined by the trial judge. All denied the charges. O’Hara testified that he had spent the night at a club and when he returned to the hotel someone invited him to Blum’s room for a drink, and that the police arrived at about that time. He denied that there was rust on his hands, ascribing their condition to a paint job he had performed for the proprietor “a couple of days” previously. White denied that there was brick dust in his hair and accounted for the brick dust on his hands by the statement that he also had done some painting for the proprietor. He testified that he had gone to Blum’s room to invite Blum to have a drink with him, that he saw no liquor in Blum’s room, and that the police arrived soon after he entered Blum’s room. Blum testified: “They [the other defendants] brought it [the liquors] in, I didn’t.”
+Appellant complains of the failure of the trial judge to instruct the jury that Blum was an accomplice and that his testimony must be closely scrutinized and accepted with caution. Blum testified for himself; he was' not called by the prosecution; the Commonwealth did not guarantee his credibility; and it did not rely upon or need his testimony to secure the convictions. It is at least questionable, since he was not called as a witness by the Commonwealth, whether he was an accomplice-witness within the rule requiring cautionary instructions. Howbeit, appellant did not request such instructions and, since there was sufficient evidence to convict him without Blum’s testimony, the court was not required to caution the jury as to the weight and value of Blum’s testimony in the absence of a request. Com. v. Lucchese, 155 Pa. Superior Ct. 325, 38 A. 2d 722; Com. v. Manuszak, 155 Pa. Superior Ct. 309, 38 A. 2d 355; Com. v. Boyle, 108 Superior Ct. 598, 165 A. 521.
+Following established Philadelphia practice, the jury first deliberated in the jury box. They reported that they could not agree, and the trial judge permitted them to retire for further deliberation, with the statement: “Do you want any further instructions, otherwise you may retire. Use your common sense. Consider the evidence. Admittedly here are three men found in or near the room of one of them, in proximity to the goods shown to have been stolen. Retire and consider your verdict.” This statement must be read in connection with the charge which preceded it, to which no exception was or could have been taken. Even when read in isolation it does not support appellant’s contention that it amounted to an instruction that possession of stolen goods raises a legal presumption of guilt. The trial judge admonished the jury “Consider the evidence”, which could only mean all the evidence. His reference to defendants’ proximity to the stolen goods was only a judicious reminder of the inference which may be legitimately drawn from the fact of possession of goods shown to have been recently stolen. See Judge Hirt’s exposition of the inferences that can be drawn from possession in Com. v. Joyce, 159 Pa. Superior Ct. 45, 48, 46 A. 2d 529.
+In the court below appellant, asserting diminution of the record, alleged that the statement of the trial judge liad not been properly transcribed, and that lie actually said: “What, you can’t agree? I could decide this in thirty seconds. It was very clear. They were caught with the goods. What more do you want?” The court took testimony, and denied the petition; quite properly, we think; and on appeal we can consider only the record certified by the court below.
+Judgment and sentence affirmed.
