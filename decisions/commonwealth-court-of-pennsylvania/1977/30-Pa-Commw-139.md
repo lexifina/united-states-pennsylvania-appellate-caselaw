@@ -1,0 +1,47 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1362 C.D. 1976"
+decided: "1977-05-13"
+citations: ["30 Pa. Commw. 139"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Wilkinson, Jr., Mencer and Blatt, sitting as a panel of three."]
+parties: ["Paul D. Reardon, Jr., Petitioner v. Unemployment Compensation Board of Review of the Commonwealth of Pennsylvania, Respondent."]
+source_url: "https://static.case.law/pa-commw/30/cases/0139-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1881031
+cites_cases: ["13 Pa. Commonwealth Ct. 8", "14 Pa. Commonwealth Ct. 445", "14 Pa. Commonwealth Ct. 69", "171 A.2d 810", "18 Pa. Commonwealth Ct. 92", "195 Pa. Superior Ct. 256", "24 Pa. Commonwealth. Ct. 430", "25 Pa. Commonwealth Ct. 522", "291 A.2d 118", "317 A.2d 897", "321 A.2d 662", "322 A. 2d 807", "333 A.2d 831", "357 A.2d 228", "360 A.2d 842", "5 Pa. Commonwealth Ct. 491"]
+---
+
+# Reardon v. Unemployment Compensation Board of Review
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+We are required in this case once again to draw that very fine line between those who are ineligible for benefits under the Unemployment Compensation Law because they are primarily students who also work and those who are eligible for benefits because they are workers who also go to school. The instant claimant, Paul R. Reardon, Jr., asks ns to place him in the latter category.
+In March 1973, when he was 19 years old, claimant began working full time for General Electric in Reading. Within a few months he secured a position as bench hand, a position he retained for the next two years. During this time, claimant was also attending community college. In 1974, he completed his courses at the community college and entered Kutztown State College as a third-year student. He continued both his full-time employment and his education until November 1975 when he was laid off due to a lack of work. Claimant, at 22, was the unemployed head of a household of three. He applied for unemployment compensation.
+During the application process at the Bureau of Employment Security (Bureau), claimant indicated that he was available for full-time employment during any hours. When questioned as to his intentions should the hours of offered employment conflict with his class hours, he unequivocally asserted his willingness to change his class hours or to postpone his education, if necessary. Nevertheless, the Bureau determined that because claimant was going to school he was unavailable for work. He appealed. After a hearing at which testimony indicated that claimant was actively seeking employment and that he would drop his courses or do whatever was necessary to obtain employment, a referee likewise denied benefits. Concluding that claimant was not genuinely and realistically attached to the labor force and thus not available for work, the Unemployment Compensation Board of Review (Board) affirmed the denial. Claimant then appealed to this Court. ■
+Our review of the Board’s adjudication is confined to questions of law and, absent fraud, to a determination of whether the Board’s findings are supported by the evidence. Claim of Wright, 25 Pa. Commonwealth Ct. 522, 360 A.2d 842 (1976).
+The Board’s opinion sets forth the following findings of fact:
+1. For the purpose of this appeal, the claimant was last employed with 'Western Electric, Beading, Pa. as a cleaner at the rate of about $4.81 an hour. He was employed there for about 32 months. He was laid off on Nov. 14, 1975 due to a lack of work. His hours of work were from 10 p.m. to 7 a.m.
+2. On September 4, 1975 the claimant entered Kutztown State College.
+3. During the fall semester, the period at issue, the claimant attended classes three days a week from 8 a.m. to 2 p.m. and two days a week from 10 a.m. to 2 p.m.
+4. Claimant is presently attending college as a fulltime student pursuing a course in special education. He is in his junior year.
+5. The claimant is primarily a student and not a worker. His primary goal is to obtain a degree in special education.
+We conclude that the second and fifth findings cannot stand. Finding 2 is not supported by substantial evidence, supra note 2, and therefore must be ignored. Finding 5 is a conclusion of law and must likewise be disregarded. Claim of Wright, supra.
+Moreover, we hold that the Board committed an error of law when it concluded that claimant was not genuinely and realistically attached to the labor force. While we have in the past held that there is in the law a presumption that a full-time student is not available for work, Claim of Wright, supra, Woodley v. Unemployment Compensation Board of Review, 13 Pa. Commonwealth Ct. 8, 317 A.2d 897 (1974), we have stressed that the presumption may be rebutted. Un employment Compensation Board of Review v. Siene, 24 Pa. Commonwealth. Ct. 430, 357 A.2d 228. (1976). To rebut the presumption, a claimant must demonstrate that he does not fall into the category of an ordinary college student whose primary purpose is to obtain an education and who is available for work only conditionally or on a limited basis. Patronas v. Unemployment Compensation Board of Review, 5 Pa. Commonwealth Ct. 491, 291 A.2d 118 (1972); Wiley Unemployment Compensation Case, 195 Pa. Superior Ct. 256, 171 A.2d 810 (1961).
+Courts have in the past examined various factors in arriving at a determination of a claimant’s primary purpose. Employment history, and particularly the duration of full-time employment; economic requirements, especially those related to support obligations ; and good faith efforts to obtain unconditional, full-time employment have been considered. It has been declared that while unemployment compensation benefits were never intended to subsidize college students, a claimant with, a long employment record, who has a family requiring his support and who is required by necessity to leave school to continue employment if the two conflict, and whose bona fide effort to obtain any full-time employment available is beyond question, should not be denied benefits. Wiley, supra, 195 Pa. Superior Ct. at 259-60, 171 A.2d at 812-13 (Woodside, J., concurring); accord, Patronas, supra.
+In the instant case, claimant had been employed full time since he was 19. The income from this employment supported the claimant, his wife and child. Under these circumstances, the claimant’s declarations that he would rearrange his class schedule or, if necessary, postpone his education are understandable. Nor is the testimony that claimant was actively seeking employment on his own surprising. It is difficult to imagine what further proof of availability the claimant in this ease could offer. We concur with the Superior Court’s evaluation of a similar situation:
+His work record and his sincere efforts to obtain employment substantiate the fact that his chief responsibility is the support of his family. His conduct unquestionably meets the requirement of good faith. In the absence of proof that appellant refused suitable employment, he should not be denied benefits.
+Wiley, supra, 195 Pa. Superior Ct. at 259, 171 A.2d at 812.
+We must therefore conclude that on this record attendance. at college was not claimant’s primary purpose. . ,
+Accordingly, we will reverse the Board and grant benefits.
+Order
+And Now, this 13th day of May, 1977, the order 'of the Unemployment Compensation Board of Review in the above captioned matter, dated August 9, 1976, is hereby reversed, and the record is remanded to the Board for the purpose of determining the amount of benefits.
+Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended,, 43 P.S. §751 et sect- Section 401(d) of tbe Act, 43 P.S. §801 (d), provides that a claimant must be available for suitable work.
+The referee found that the claimant entered Kutztown in September 1975. However, this finding is not supported by substantial evidence. The records of the Bureau of Employment Security clearly show that claimant entered Kutztown in 1974. Testimony before the referee, when read as a whole, does not suggest otherwise ; rather, it establishes that the claimant returned to the school on September 4, 1975 and not that he originally entered Kutztown at that time.
+See Patronas, supra; Wiley, supra; cf. Claim of Wright, supra (claimant had previously been employed full time only during summer vacation).
+See Patronas, supra; Wiley, supra; of. Claim of Wright, supra (claimant was single and living with parents) ; Woodley, supra (lack of evidence of family requiring support noted).
+See Siene, supra; Patronas, supra; Wiley, supra; cf. Claim of Wright, supra (request for part-time employment) ; Popelas v. Unemployment Compensation Board of Review, 18 Pa. Commonwealth Ct. 92, 333 A.2d 831 (1975) (inability to reschedule classes which represented 48 hours of attendance weekly); Mohl v. Unemployment Compensation Board of Review, 14 Pa. Commonwealth Ct. 69, 321 A.2d 662 (1974) (lack of good faith in application interview with prospective employer); Graham v. Unemployment Compensation Board of Review, 14 Pa. Commonwealth Ct. 445, 322 A. 2d 807 (1974) (claimant neither looking nor available for full-time employment) ; Woodley, supra (lack of evidence that claimant would quit school rather than merely change classes noted, as was lack of evidence of efforts to obtain new employment).
