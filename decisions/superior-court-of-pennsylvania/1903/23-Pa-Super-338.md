@@ -1,0 +1,22 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 41"
+decided: "1903-10-05"
+citations: ["23 Pa. Super. 338"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, W. D. Porter, Morrison and Henderson, J J."]
+parties: ["McAyeal v. Tarentum Borough, Appellant."]
+source_url: "https://static.case.law/pa-super/23/cases/0338-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 847634
+---
+
+# McAyeal v. Tarentum Borough
+
+## Majority (Rice, P. J.,)
+
+Opinion by
+Rice, P. J.,
+The questions raised on this appeal are the same as those involved in Dunn v. Tarentum Boro., ante, p. 332. For the reasons given in the opinion filed in that case the judgment is affirmed.
