@@ -1,0 +1,47 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+decided: "1990-07-26"
+citations: ["134 Pa. Commw. 236", "578 A.2d 1002"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DOYLE and PALLADINO, JJ., and NARICK, Senior Judge."]
+parties: ["Raymond COPE, Appellant, v. ZONING HEARING BOARD OF SOUTH WHITEHALL TOWNSHIP and South Whitehall Township, Appellees."]
+source_url: "https://static.case.law/pa-commw/134/cases/0236-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1405064
+cites_cases: ["104 Pa.Commonwealth Ct. 223", "123 Pa. Commonwealth Ct. 111", "133 Pa.Commonwealth Ct. 664", "194 A.2d 610", "412 Pa. 332", "553 A.2d 492"]
+---
+
+# Cope v. Zoning Hearing Board
+
+## Majority (PALLADINO, Judge.)
+
+PALLADINO, Judge.
+Raymond Cope (Cope) appeals from an order of the Court of Common Pleas of Lehigh County (trial court) affirming in part a decision of the South Whitehall Township Zoning Hearing Board (Board) interpreting the South Whitehall Township Zoning Ordinance (Ordinance) and denying Cope’s requests for variances.
+Cope is the owner of a 1.19 acre tract of vacant land located in an area of South Whitehall Township zoned “Highway Commercial 1” (HC-1). Cope proposes to construct a commercial building containing five retail shops and one professional office. Before the Board, Cope requested an interpretation of the Ordinance with respect to the required setback of parking area, and a variance with respect to the setback of the parking area. Cope also requested a variance on certain buffer requirements and the placement of a proposed free-standing sign.
+The Board held that the Ordinance required the parking area setback be measured from the ultimate right-of-way line as found in the comprehensive plan, rather than the current existing right-of-way line. The Board denied the variance request for the parking setback. The Board granted in part the variance requests on the placement of the sign and buffering requirements, with conditions. Cope appealed to the trial court.
+The trial court, without hearing additional evidence, reversed the Board’s decision on the sign placement, because the written Board decision did not reflect the oral agreement of the parties reached at the Board meeting. The remainder of the appeal was denied. The present appeal followed.
+On appeal to this court, the following issues are raised: (1) whether the Board erred in concluding that the setback had to be measured from the ultimate street right-of-way; and (2) whether the Board erred in refusing to grant the requested parking setback variance.
+Our scope of review in a zoning appeal in which the trial court has not taken additional evidence is limited to a determination of whether the zoning hearing board has manifestly abused its discretion or committed an error of law. Andreucci v. Zoning Hearing Board of Lower Milford Township, 104 Pa.Commonwealth Ct. 223, 522 A.2d 107 (1987). A zoning hearing board abuses its discretion only if its findings are not supported by substantial evidence. Id.
+Section 12.38(b)(1) of the Ordinance provides as follows:
+The following setbacks are required for all parking areas not entirely contained in a garage or building:
+Size of Parking Area From Setback From Side & Rear Street Right-of-Way Setback From Line
+Less than 8,000 sq. ft.
+Greater than 8,000 sq. ft. 50 ft. 25 ft.
+The Ordinance also contains the following relevant definitions in section 12.47:
+SETBACKS — A setback denotes the minimum distance between a use, building or structure and a lot, boundary or right-of-way line. The name of the setback or other accompanying works shall identify the particular lot, boundary, or right-of-way line involved.
+STREET — A public right-of-way which is legally open or officially platted by the Township.
+Right-of-way — The legal street. A public way owned by a unit of government, acquired by purchase, gift, dedication or condemnation. The area between front lot lines which face each other or the area between street lines. Right-of-way Ultimate — The intended width of a street as established by the Township Comprehensive Plan or adopted Official Map.
+Right-of-way Line — See Street Line.
+STREET LINE — A street line is the right-of-way or established property line of a street as indicated by dedication or by deed of record.
+STREET RIGHT-OF-WAY — That portion of land dedicated to public use for street or utility purposes.
+Cope argues that given the wording of the Ordinance, the setback for the parking area is measured from the currently existing right-of-way of forty feet rather than the ultimate right-of-way of seventy feet. The Board disagreed, ruling that the intent of the Ordinance required the setback to be measured from the ultimate right-of-way.
+The Statutory Construction Act of 1972, 1 Pa. C.S. §§ 1501-1991, provides in relevant part that “[w]hen the words of a statute are clear and free from all ambiguity, the letter of it is not to be disregarded under the pretext of pursuing its spirit.” 1 Pa. C.S. § 1921(b). Furthermore, when interpreting an ambiguity in a zoning ordinance, courts should interpret the regulations so that they are least restrictive of land use. McDonald v. Zoning Board of Adjustment, 133 Pa.Commonwealth Ct. 664, 577 A.2d 240 (1990).
+Applying these principles to the ordinance in question, we conclude that the required setback is from the present, existing right-of-way, and not the right-of-way ultimate. Section 12.38(b)(1) of the Ordinance requires the setback to be from the “street right-of way line.” The Ordinance, under the definition of street, defines right-of-way line, by incorporating the definition of street line. A street line is the “established property line of a street as indicated by dedication or by deed of record ” (emphasis added). While the parties agree on the location of the ultimate right-of-way, the only document that shows the location or method of determining the location is the comprehensive plan. The comprehensive plan is neither a dedication of land nor a deed of record. It is merely a plan for future development. Until the land is formally dedicated or deeded to the municipality, the ultimate right-of-way is not an established property line. Accordingly, the Ordinance as it now reads requires that the setback be measured from the existing right-of-way.
+Turning now to the denial of variance issue, a variance can only be granted when the provisions of an ordinance inflict unnecessary hardship upon an applicant. Section 910.2 of the Pennsylvania Municipalities Planning Code (MPC), Act of July 31, 1968, P.L. 805, as amended, added by Section 89 of the Act of December 21, 1988, P.L. 1329, 53 P.S. § 10910.2. Five factors must be considered by the board in deciding whether to grant a variance: (1) that there are unique physical circumstances or conditions peculiar to the particular property and that the unnecessary hardship is due to such conditions; (2) that because of such physical circumstances, there is no possibility that the property can be developed in strict conformity with the ordinance, and that a variance is necessary to enable the reasonable use of the property; (3) that the unnecessary hardship has not been created by the appellant; (4) that the variance will not alter the essential character of the neighborhood or district in which the property is located, impair the appropriate use or development of adjacent property, or be detrimental to the public welfare; and (5) that any variance granted must be the minimum variance that will afford relief and be the least modification possible of'the regulation in issue. Id.
+Cope argued that even if the existing right-of-way was used to determine setback requirements, a five-foot variance was necessary to permit proper traffic flow and to allow the building to be seen from the road. However, the plan which Cope presented to the Board did not include the five-foot variance, and showed the six unit development to be in conformity with all of the requirements of the Ordinance, assuming the existing right-of-way was the basis for the setback measurements. Having concluded that the existing right-of-way is the basis for the setback requirements, no variance is necessary to develop the property within the confines of the Ordinance. A mere desire to make the project more noticeable and increase traffic flow is not the unnecessary hardship contemplated by the MPC for the grant of a variance. Accordingly, the Board did not err in denying the requested variance.
+ORDER
+AND NOW, July 26, 1990, the order of the Court of Common Pleas of Lehigh County in the above-captioned matter is reversed on the interpretation of the South Whitehall Township Zoning Ordinance and affirmed on the denial of the requested variances.
+. During the hearing before the Board, Cope and the Board agreed that the sign was to be placed three feet from the ultimate right-of-way. N.T. at 20. However, the written Board decision required the sign to be set back ten feet, rather than the agreed upon three feet.
+. The Statutory Construction Act is applicable to zoning ordinances. Donahue v. Zoning Board of Adjustment of Whitemarsh Township, 412 Pa. 332, 194 A.2d 610 (1963); Board of Supervisors of Richland Township v. Tohickon Creek Associates, 123 Pa. Commonwealth Ct. 111, 553 A.2d 492 (1989).
