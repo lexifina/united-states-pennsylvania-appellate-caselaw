@@ -1,0 +1,48 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+decided: "1990-03-15"
+citations: ["131 Pa. Commw. 658", "571 A.2d 554"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CRAIG and COLINS, JJ., and NARICK, Senior Judge."]
+parties: ["Frank FIORENTINO, Petitioner, v. WORKMEN’S COMPENSATION APPEAL BOARD (CONCRETE INDUSTRIES, INC. and Danladi Construction Company, Inc.), Respondents."]
+source_url: "https://static.case.law/pa-commw/131/cases/0658-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1399156
+cites_cases: ["107 Pa.Commonwealth Ct. 168", "2 Pa. Commonwealth Ct. 361", "277 A.2d 835", "450 A.2d 803", "512 Pa. 377", "517 A.2d 523", "69 Pa.Commonwealth Ct. 255"]
+---
+
+# Fiorentino v. Workmen's Compensation Appeal Board
+
+## Majority (NARICK, Senior Judge.)
+
+NARICK, Senior Judge.
+Frank Fiorentino (claimant) appeals from an order of the Workmen’s Compensation Appeal Board (Board) that reversed the portion of a referee’s decision which awarded attorney’s fees to claimant pursuant to Section 440 of The Pennsylvania Workmen’s Compensation Act (Act), Act of June 2, 1915, P.L. 736, as amended, 77 P.S. § 996. We reverse the Board solely on its denial of claimant’s attorney’s fees.
+The facts of this case are as follows. At 10:00 a.m., on August 7, 1985, claimant, an iron worker, was on a job at the Philadelphia Zoo. Claimant was assigned the duty of preparing the site for the pouring of concrete footers. This task included carrying 6,000 pounds of steel reinforcing rods a distance of 100 feet, placing the rods in pre-dug holes and tying them together. Claimant had two hours to perform this task before the concrete truck was scheduled to arrive at the site to pour the footers. After almost two hours of lifting, carrying and tying the rods, claimant stopped work due to severe chest pains. He resumed work for a while, but could not continue. Claimant went home at 5:00 p.m. Still in pain, his family rushed him to Methodist Hospital where he was admitted to the Intensive Care Unit. Claimant was examined by Nicholas DePace, M.D., who diagnosed myocardial infarction caused by increased occupational workload.
+On September 25, 1985, claimant filed a claim petition against Concrete Industries, Inc. (Concrete Industries). On December 10, 1985, the first hearing took place before the referee. On December 20, 1985, Concrete Industries joined Danladi Construction, Inc., (Danladi) as an additional defendant alleging Danladi was claimant’s actual employer. A second hearing was scheduled for March 25, 1986, but was continued because Concrete Industries’ witness did not appear. Danladi offered no evidence at that time.
+At the July 31, 1986 hearing, the deposition of Dr. DePace was introduced into evidence by claimant which confirmed his original diagnosis. Neither Concrete Industries nor Danladi introduced evidence.
+At the January 6, 1987 hearing, August Ehretd and John Russo testified as fact witnesses for Concrete Industries. Concrete Industries and Danladi also informed the referee that they were sharing the expense of a common medical expert, Dr. Helwig. On February 7, 1987, claimant was examined by Dr. Helwig.
+At the May 5, 1987 hearing, counsel for Concrete Industries stated that Dr. Helwig would testify as to the cause of claimant’s injury. Finally, on September 22, 1987, Concrete Industries and Danladi rested without ever presenting Dr. Helwig’s testimony.
+On December 16, 1987, the referee rendered a decision stating that claimant had suffered myocardial infarction and that his physical condition prevented him from returning to work. The referee determined that claimant was an employee of Danladi and not of Concrete Industries, because it was Danladi that retained the right to control claimant. The referee also assessed claimant’s counsel fees against Danladi.
+On January 4, 1988, Danladi filed its first appeal (first appeal) from the referee’s decision asserting there was no credible evidence to support the conclusion that claimant was an employee of Danladi.
+Subsequently, on March 22, 1988, Danladi filed a second appeal (second appeal), which stated:
+The issues raised here are in addition to those raised in the original appeal filed with the Worker’s Compensation Appeal Board on or about December 30, 1987. Herein, [Danladi] contends that the referee erred as a matter of law in determining that [it] unreasonably contested the claim petition.
+The Board affirmed the referee’s finding on the issue of Danladi being claimant’s employer asserting that it was based upon competent evidence. Then, the Board went on to state that:
+[Danladi’s] original Notice of Appeal only raised the issue of employment. [Danladi] subsequently raised the issue that the [r]eferee was in error in finding an unreasonable contest in this matter. Claimant argues that the issue is waived because it was not in [Danladi’s] original Notice of Appeal. The Board considers it raised as an appeal was taken and the issue was briefed and argued.
+(Emphasis added.)
+Claimant appeals the denial of attorney’s fees to this court, making two arguments: 1) that the second appeal was untimely filed, and therefore, the argument of the reasonable contest issue was waived; and 2) even if the reasonable contest issue had not been waived, the Board erred in reversing the referee because Danladi never introduced medical evidence contesting the issue of liability.
+Claimant first argues that the Board erred in its conclusion that Danladi properly raised the issue of reasonableness of contest. Claimant asserts that this argument was raised in the second appeal which was untimely filed. Section 423 of the Act, 77 P.S. § 853 states:
+Any party in interest may, within twenty days after notice of a referee’s award or disallowance of compensation shall have been served upon him, take an appeal to the Board on the ground: (1) that the award or disallowance of compensation is not in conformity with the terms of this act, or that the referee committed any other error of law; (2) that the findings of fact and award or disallowance of compensation was unwarranted by sufficient, competent evidence or was procured by fraud, coercion, or other improper conduct of any party in interest. The board may, upon cause shown, extend the time provided in this article for taking such appeal or for the filing of an answer or other pleading.
+(Emphasis added.)
+As set forth in Section 423 of the Act, a referee's findings of fact and conclusions of law are final unless an appeal is taken within twenty days after notice. Tankin, Inc. v. Williams, 2 Pa. Commonwealth Ct. 361, 277 A.2d 835 (1971). This twenty-day appeal period is jurisdictional. Fritz v. Workmen’s Compensation Appeal Board, (Kim Manufacturing Co., Inc.), 107 Pa.Commonwealth Ct. 168, 527 A.2d 636 (1987). Once the twenty-day period has expired, the referee’s decision becomes final and is beyond review by the Board, unless upon cause shown, the Board has granted an extension. Id. There is no evidence here that Danladi petitioned the Board for permission to file a nunc pro tunc appeal. The issue raised in the first appeal as to the identity of claimant’s employer is totally different than the issue of reasonableness of an employer’s contest. The mere filing of an appeal does not preserve issues which are not specifically raised. In Washington v. Workmen’s Compensation Appeal Board, (Harrisburg Hospital and Aetna Life and Casualty Company), 69 Pa.Commonwealth Ct. 255, 258, 450 A.2d 803, 805 (1982), this Court stated:
+To be read in conjunction with Section 423 of the Act is Pennsylvania Code Section 111.14(a), which in addressing the matter of appeals to the Board states that “appeals should state the specific exceptions to determinations by the referee and shall be sufficiently complete to frame the issue or issues on appeal.”
+(Emphasis deleted.)
+Thus, we find that the Board erred in reviewing the issue of reasonableness of contest because it was waived in that Danladi did not raise the issue until the second appeal was filed and this occurred outside of the twenty-day period set forth in Section 423 of the Act. It is, therefore, unnecessary for this Court to entertain claimant’s second argument.
+Accordingly, the order of the Workmen’s Compensation Appeal Board is reversed solely as to the denial of claimant’s attorney’s fees and the referee’s decision is hereby reinstated on that issue.
+ORDER
+AND NOW, this 15th day of March, 1990, the order of the Workmen’s Compensation Appeal Board in the above-captioned matter is hereby affirmed in part and reversed in part, in accordance with the foregoing opinion.
+. Section 440 states in pertinent part that:
+In any contested case where the insurer has contested liability in whole or in part, the employe or his dependent, as the case may be, in whose favor the matter at issue has been finally determined shall be awarded, in addition to the award for compensation, a reasonable sum for costs incurred for attorney’s fee, witnesses, necessary medical examination, and the value of unreimbursed lost time to attend the proceedings: Provided, That cost for attorney fees may be excluded when a reasonable basis for the contest has been established____
+(Emphasis added.)
+. Our scope of review is limited to a determination of whether constitutional rights were violated, an error of law was committed or whether necessary findings of fact are supported by substantial competent evidence. Section 704 of the Administrative Agency Law, 2 Pa.C.S. § 704; Estate of McGovern v. State Employees’ Retirement Board, 512 Pa. 377, 517 A.2d 523 (1986).
