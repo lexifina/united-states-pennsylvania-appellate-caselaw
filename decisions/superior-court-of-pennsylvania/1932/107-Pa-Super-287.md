@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 213"
+decided: "1932-12-16"
+citations: ["107 Pa. Super. 287"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Gawthrop, Cunningham, Baldrige, Stadtfeld and Parker, JJ."]
+parties: ["Sterling Mint Co., Inc., Appellant, v. Dellenbarger Machine Co."]
+source_url: "https://static.case.law/pa-super/107/cases/0287-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 704715
+cites_cases: ["119 Atl. 471", "128 Atl. 441", "179 Pa. 463", "275 Pa. 355", "282 Pa. 498", "33 Pa. 186", "36 Atl. 324"]
+---
+
+# Sterling Mint Co. v. Dellenbarger Machine Co.
+
+## Majority (Keller, J.,)
+
+Opinion by
+Keller, J.,
+The defendant, on October 21, 1931, proposed in writing to make, and supervise the erection of, an Automatic Combination Kneading, Rolling and Scoring Machine for the manufacture of chewing gum, for the plaintiff, for $7,984, payable as follows: First payment with contract, $500; second payment, on shipment, $500; third payment, twenty-four notes of $291 each, extending over two years, $6,984. “Delivery, as of immediate acceptance, so as to make installation during Christmas week.” The purpose in accepting settlement, in case of favorable conditions, “in the form of customary deferred payment sales contract, with notes spread over a period of twenty-four months of $291 each month,” was stated to be that the savings from the use of the machine might provide the means for the payment of the equipment. The proposal also contained the following clause to which it was provided the contract should be subject: “6. This contract comprising the entire agreement covering said equipment, having been concluded without requiring credit information, the right is reserved to cancel said contract and return any payment made thereon, in case, upon later information, the credit of the purchaser be found unsatisfactory.”
+The plaintiff promptly accepted the proposal and paid the first payment called for of $500. On November 5,1931 the defendant acknowledged receipt of this payment, declared that the contract was acceptable to it, that work would be started immediately and the machine delivered on plaintiff’s premises not later than December 28, 1931.
+On December 19,1931 defendant wrote plaintiff that the financial statement which the latter had furnished it on December 10th could not be verified from the examination made of plaintiff’s books and that it was obliged to drop all consideration of delivery of the machine under the deferred payment plan of settlement and would only make delivery upon cash settlement ; and expressed the hope that plaintiff would find it possible to arrange for carrying out the purchase promptly. The plaintiff refused to consent to this modification of the contract, demanded the return of the $500 paid by it, and, on the refusal of the defendant to repay the $500, brought this action.
+The plaintiff never agreed or contracted with the defendant to buy the machine for cash on delivery, but only on the deferred settlement plan. The contract between them could not be altered, as to its terms of payment, by the defendant alone, without the consent of the plaintiff to the change. The defendant cannot substitute a new and different contract of sale for that entered into by the plaintiff, and retain the plaintiff’s money either as part payment, or as damages for default, on a contract it never made. If, after making inquiry, the defendant was not satisfied that the financial condition of the plaintiff was sufficiently favorable to permit the manufacture, sale and delivery of the machine to it on the deferred settlement plan, the proposal and contract provided the way out, viz., the defendant could cancel the contract and return any payment made thereon. The contract, including the proposal, was prepared by the defendant. Its terms must, therefore, be construed, in case of doubt as to their meaning, most strongly against it: White v. Smith, 33 Pa. 186; Duncan v. Pittsburgh-Florida Fruit Growers Assn., 282 Pa. 498, 504, 128 Atl. 441; but in our opinion there is no reasonable doubt as to the meaning and construction.
+The defendant could not, by starting the manufacture of the machine before it had satisfied itself of the plaintiff’s favorable financial condition, visit any loss that it might sustain by reason of such premature action on the plaintiff, by attempting to change the sale from one on credit to one for cash. It was its duty to finish its inquiries as to plaintiff’s financial condition before it began the manufacture of the machine, or manufacture at its own risk if it saw fit to go ahead before such inquiries were finished. It began the manufacture of the equipment before completing its inquiries, and even before the plaintiff furnished any financial statement whatever. Hence it could not have been misled, to its injury, by the plaintiff’s financial statement: Ackman v. Jaster, 179 Pa. 463, 36 Atl. 324; Wilson v. Galena-Signal Oil Co., 275 Pa. 355,119 Atl. 471. It did not, at any time, rely on the statement, in beginning the manufacture of the machine, but only used it as a basis for checking up the information obtained.
+The affidavit of defense presented no legal ground for the defendant withholding a return to the plaintiff of the first payment of $500, on its refusal to carry out the terms of the proposal, as accepted by the plaintiff, thus, in effect, cancelling it.
+The assignments of error are sustained. The record is remitted to the court below with directions to enter judgment against the defendant for such sum as to right and justice may belong, unless other legal or equitable cause be shown to the court below why such judgment should not be so entered.
