@@ -1,0 +1,38 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeals, Nos. 350 and 351 C.D. 1972"
+decided: "1973-03-09"
+citations: ["8 Pa. Commw. 317"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crtimlish, Jr., Wilkinson, Jr., and Blatt, sitting as a panel of three."]
+parties: ["Cornell Uniforms, Inc. v. Abington Township, et al. (Two cases)."]
+source_url: "https://static.case.law/pa-commw/8/cases/0317-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1853033
+cites_cases: ["149 A. 2d 63", "395 Pa. 168"]
+---
+
+# Cornell Uniforms, Inc. v. Abington Township
+
+## Majority (Judge Wilkinson,)
+
+Opinion by
+Judge Wilkinson,
+This case arose when the Township building inspector decided that the appellant was not in violation of the Township Zoning Ordinance in the operation of its business. An adjoining landowner appealed this decision to the Zoning Hearing Board. The Board affirmed the decision of the building inspector, but imposed four restrictions on the operation of the business. Both sides appealed and the appeals were consolidated below by stipulation of the parties. The lower court entered the same order in each case affirming the Zoning Hearing Board. Appeals were filed in both cases to this Court and consolidated here. We must affirm the lower court.
+The appellant operates an establishment which launders and dry cleans uniforms of various types, as well as sells and rents them. This location has been used by a laundry and dry cleaning establishment since 1956 when the appellant’s predecessor obtained a special exception from the zoning order then in effect. The special exception contained the following condition: “The business must not be noxious or offensive by reason of odor, dust, smoke, gas, vibration, illumination or noise, or constitute a public hazard whether by fire, explosion, or otherwise, and should the proposed business become a public nuisance by reason of any of the above listed items, the Board of Adjustment (now Zoning Hearing Board) will cause the applicant and owner to appear for further hearing.” Appellant took over the operation of this business in 1961. In 1966, the Zoning Ordinance was amended and this area was designated F-l Commercial in which this business is not permitted. Thereafter, the business continued as a nonconforming use with the reservation contained in the original special exception.
+On August 31, 1970, appellant secured a building permit which permitted him to enlarge the building which then contained 3,933 square feet by adding an extension which contained 6,283 square feet and by providing parking for twenty-two cars and one truck. The issuance of this permit would appear on its face to have been in clear violation of the Zoning Ordinance which prohibits enlarging any building containing a nonconforming use by more than 25%. This permit permitted an extension of approximately 160%. Nevertheless, no appeal was filed from the granting of this permit. After the building was completed, the neighbors became acutely aware of the increase in activity and what, to them, appeared violations of the Zoning Ordinance in the operation of the business and complained to the building inspector, as well as to the Township Department of Public Safety. When they could secure no relief because of the building inspector’s decision that the operation of the business was not in violation of the Zoning Ordinance, one of the adjoining property owners appealed to the Zoning Hearing Board.
+At the hearing, no question was raised concerning the validity of the building permit nor did the Board consider it. There is, therefore, no merit in appellant’s position that this proceeding is an attempt to circumvent the appeal time limitation on the granting of the permit, which appeal time had long since expired.
+Appellant raises three questions. First, appellant asserts that the Board has no jurisdiction since no provision is made in the Code for this appeal. This argument must fall before the specific provisions of Section 1804 of the Zoning Ordinance of the Township of Abington, Ordinance No. 1189, paragraph 1, which reads: “1. Appeals to the Board may be taken by any person aggrieved or by any officer, department, board or bureau of the Township affected by any decision of the Building Inspector. Such appeal shall be taken within a reasonable time, as provided by the Rules of Procedure of the Board, by filing with the officer from whom the appeal is taken, and with the Board, a notice of appeal specifying the grounds thereof.” Section 909 of the Municipalities Planning Code, Act of July 31, 1968, P. L. 805, Art. IX, 53 P.S. §10909, provides in part: “The board shall hear and decide appeals where it is alleged by the appellant that the zoning officer has failed to follow prescribed procedures or has misinterpreted or misapplied any provision of a valid ordinance or map or any valid rule or regulation governing the action of the zoning officer.”
+The second argument advanced by appellant is that the Board does not have continuing authority to place restrictions on a variance or a nonconforming use. As clearly stated in the able opinion of the court below, the law is to the contrary. See Everson v. Zoning Board of Adjustment, 395 Pa. 168, 149 A. 2d 63 (1959); R. Ryan, Pennsylvania Zoning Law & Practice, §9.4.18.
+Finally, it is appellants position that the conditions imposed by the Board were “unreasonable, capricious, an abuse of discretion, and without substantial relationship to the public health, safety and welfare.” This position is totally without merit. The conditions imposed by the Board were:
+“(1) The business shall be operated five (5) days a week from 7 a.m. to 6 p.m.
+“(2) No more than five (5) trucks shall he on the site at any one time.
+“(3) The vents for the building shall be installed through the roof instead of out the back of the building.
+“(4) The lint bags must be changed regularly to effectively collect the lint, and the tumblers must be turned off when the bags are being changed to prevent any lint from escaping.”
+With regard to the first condition, the chief executive officer of appellant testified: “The hours of operation start at 7 o’clock in the morning until 6 at night, 5 days a week.” How can it be unreasonable to require appellant to not exceed doing what it now alleges it is doing? The neighbors had complained of activity for longer than this, especially much earlier in the morning.
+With regard to the second condition, the lower court, at the suggestion of the Board, modified this restriction to conform to appellant’s testimony that six trucks were used. The plan filed with the building permit indicated a parking space for only one truck. It would seem that on this record, the neighbors would have a stronger case that it was unreasonable to allow six trucks than appellant has that he is being unreasonably restricted.
+With regard to the third and fourth conditions, in view of the testimony offered by the neighbors, with regard to the nuisance these two situations caused, and in view of the minimal nature of the correction required, we consider these restrictions most reasonable.
+Appellant apparently has lost sight of the fact that his present use is clearly an expanded nonconforming use and that through what must generously be assumed to be an inadvertent error in granting the building permit, he is being permitted to operate a much greater volume than he could ever reasonably have expected. The decision of the lower court permits him to continue under these most minimal restrictions.
+The decision of the court below is affirmed.
