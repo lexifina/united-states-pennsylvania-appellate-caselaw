@@ -1,0 +1,46 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1899 Philadelphia 1990"
+decided: "1991-03-20"
+citations: ["403 Pa. Super. 93", "588 A.2d 47"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CIRILLO, TAMILIA and HESTER, JJ."]
+parties: ["Beth R. WELZ, Appellant, v. Leonard G. STUMP."]
+source_url: "https://static.case.law/pa-super/403/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 892751
+cites_cases: ["295 Pa.Super. 504", "317 Pa.Super. 497", "382 Pa.Super. 655", "384 Pa.Super. 579", "494 Pa. 584", "497 Pa. 551", "501 Pa. 1", "549 A.2d 1348", "559 A.2d 980"]
+---
+
+# Welz v. Stump
+
+## Majority (CIRILLO, Judge:)
+
+CIRILLO, Judge:
+This is an appeal from an order of the Court of Common Pleas of Berks County striking the judgment which had been entered against defendant/appellee Leonard G. Stump. We affirm.
+On July 16, 1984, the trial court entered a support order in this matter, ordering Stump to pay $239.00 per week for support of his three minor children, and to pay $30.00 per week toward arrears. Plaintiff/appellant Beth R. Welz appealed to this court, arguing that the trial court erred in denying her request for a lump sum payment on the arrears. This court affirmed the trial court’s denial of a lump sum payment. Stump v. Stump, 382 Pa.Super. 655, 549 A.2d 1348 (1988).
+On March 21, 1990, Welz obtained a judgment on the arrears pursuant to Pennsylvania Rule of Civil Procedure 1910.23. On May 29, 1990, pursuant to Stump’s petition to strike judgment, the court ordered the judgment stricken. This appeal followed. Welz raises one issue on appeal: Is the plaintiff in a support action entitled to a judgment against the defendant for arrears despite regular, partial payment on the arrears by the defendant?
+This court addressed this issue in O’Neill v. Gioffre, 384 Pa.Super. 579, 559 A.2d 588 (1989). There, the defendant/father was ordered to pay $120.00 per week in child support and $15.00 per week towards the arrears. Defendant began making payments in February, 1987. On September 19,1987, the Domestic Relations Office issued to the plaintiff a certificate of arrears in the amount of $8,118.55, which was subsequently reduced to judgment against the defendant pursuant to Pa.R.C.P. 1910.23. In November of 1987, the plaintiff attached the defendant’s property in order to collect the arrears. The defendant responded by filing a petition to strike or open the judgment. The trial court denied the petition, and defendant appealed. This court held that judgment could not be entered against the defendant for the total amount of child support arrears where the support order specifically provided that arrears were to be paid in weekly installments and defendant had continually complied with that order. Id., 384 Pa.Superior Ct. at 583, 559 A.2d at 589. The court stated:
+Because Rule 1910.23 permits judgments to be entered only where the defendant fails to comply with the order of support within the thirty day period, we conclude that it does not apply to situations in which the defendant is in compliance with the support order.
+Id., 384 Pa.Superior Ct. at 583, 559 A.2d at 590.
+In the instant case, the trial court determined that O’Neill was dispositive. We agree.
+The support order requires Stump to pay $120.00 each week for support, and $30.00 each week towards the arrearages. Welz does not argue that Stump has failed to make the weekly support payments or the payments towards arrearages; her primary contention on appeal is that the decision in O’Neill is inconsistent with the enactment of Act 1988-35, 23 Pa.C.S. § 4352(d), (Act 35). We find this argument unpersuasive.
+Section 4352(d) provides in part:
+(d) Arrears as judgments. — On and after the date it is due, each and every support obligation shall constitute a judgment against the obligor by operation of law, with the full force, effect and attributes of a judgment of court, including the ability to be enforced, and shall be entitled as a judgment to full faith and credit in this or any other state____
+23 Pa.C.S. § 4352(d) (emphasis added). Act 35 also added to Title 23 the following definition of the phrase “judgment by operation of law:”
+“Judgment by operation of law.” A judgment which exists without the need for any ministerial act and which arises out of the existence of facts readily verifiable from the domestic relations section’s records. The existence of a valid support order and nonpayment of the order, together, create the judgment.
+23 Pa.C.S. § 4302 (emphasis added). The language of the statute is clear. A judgment by operation of law arises only when both a valid support order and the nonpayment of that order exist simultaneously. Despite Welz’s argument that Act 35 was enacted to strengthen the court’s enforcement powers, we cannot disregard the clear and unambiguous language of the statute under the pretext of pursuing its spirit. 1 Pa.C.S. § 1921(b); In re Fox’s Estate, 494 Pa. 584, 431 A.2d 1008 (1981). Moreover, Welz’s argument focuses on only one segment of Act 35. When interpreting a statute, we must give full effect to each provision. 1 Pa.C.S. § 1921; Fireman’s Fund Ins. Co. v. Nationwide Mut. Ins. Co. 317 Pa.Super. 497, 464 A.2d 431 (1983).
+Here, as in O’Neill, the obligor complied with his weekly support obligation, which included support payments and payments toward arrearages. The argument that the legislature intended to create a method by which a plaintiff/obligee may obtain the obligor’s compliance with the support obligation as well as a lump sum judgment on arrearages is untenable. The General Assembly’s intent to reinforce the child support enforcement program so as to ensure the financial well-being of dependent children cannot be viewed in a vacuum. The General Assembly also had as an objective economic fairness to the obligor; the support obligation must bear a reasonable relationship to the obligor’s ability to pay. The trial court fulfilled these objectives by ordering a weekly payment of $30.00 toward accumulated arrears in addition to the weekly child support payment. We do not think that the legislature intended that an obligor be required to pay a lump sum arrearage while making weekly payments towards arrears and complying with the order of support. Such an interpretation is inconsistent with the rationale behind the trial court’s order requiring a payment on account of arrears, and could jeopardize the obligor’s ability to maintain the weekly support obligation. This could be devastating to both the obligor and the dependent children, creating a never-ending cycle of amassed arrearages. Such an interpretation is contrary to the general purpose and object of the statute. See Zimmerman v. O’Bannon, 497 Pa. 551, 442 A.2d 674 (1982); Busy Beaver Bldg. Centers, Inc. v. Teuche, 295 Pa.Super. 504, 442 A.2d 252 (1981).
+We find no manifest abuse of discretion or error of law. See Parliament Industries, Inc. v. William H. Vaughan & Co., Inc., 501 Pa. 1, 459 A.2d 720 (1983) (when reviewing an order granting a petition to strike a judgment, an appellate court will reverse only for a manifest abuse of discretion or error of law). Therefore, we affirm the trial court’s order striking judgment against Stump.
+Order affirmed.
+. Appellee Leonard G. Stump has not filed a brief in this case.
+. Pa.R.C.P. 1910.23 provides:
+Rule 1910.23 Judgment for Arrearages. Execution.
+(a) If the defendant is thirty days or more in arrears under the order of the court as appears from a current certificate of the domestic relations section, the prothonotary shall enter judgment on praecipe accompanied by the certificate in the amount shown in the certificate.
+(b) The prothonotary shall immediately give notice to the defendant and his attorney of record, if any, by ordinary mail of the entry of the judgment, together with a copy of the certificate filed under subdivision (a) of this rule.
+(c) Judgment shall be enforced as provided by Rules 3001 to 3011 and 3101 to 3149, inclusive, governing the transfer of judgments and the enforcement of judgments for the payment of money, and by attachment of wages, salar y and commissions as provided by Rule 1910.22.
+. We note that Welz has failed to comply with the trial court’s order directing her to file a concise statement of the matters complained of on appeal. See Pa.R.A.P. 1925(b). "A failure to comply with such direction may be considered by the appellate court as a waiver of all objections to the order, ruling or other matter complained of.” Id. Because the trial court has addressed the issue raised on appeal, we will not consider the appellant’s neglect a waiver.
+. As amended 1988, March 25, P.L. 296, No. 35, § 2, immediately effective. The relevant subsection, entitled "Arrears as judgments,” was orginally designated as subsection (c) of section 4352. It was designated subsection (d) of section 4352 by Act No. 1989-81 on December 20, 1989.
+. The March 25, 1988 amendment added the definition of “judgment by operation of law.” Notice to the defendant and an opportunity to act are prerequisites to entry of a judgment despite the "operation of law” language. Barnes v. Barnes, 126 Pa.Cmwlth. 330, 559 A.2d 980 (1989).
