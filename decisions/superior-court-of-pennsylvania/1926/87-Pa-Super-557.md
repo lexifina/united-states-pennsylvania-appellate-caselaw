@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 119"
+decided: "1926-02-26"
+citations: ["87 Pa. Super. 557"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Trexler, Keller, Linn and Gawthrop, JJ."]
+parties: ["Feld, Appellant, v. Shapiro et al."]
+source_url: "https://static.case.law/pa-super/87/cases/0557-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 571170
+cites_cases: ["166 Pa. 368", "215 Pa. 47", "219 Pa. 332", "252 Pa. 112", "264 Pa. 316", "267 Pa. 288", "271 Pa. 260", "274 Pa. 417", "275 Pa. 211", "279 Pa. 545", "280 Pa. 97", "55 Pa. 99"]
+---
+
+# Feld v. Shapiro
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+This is a suit brought for the recovery of money which was paid on account of an agreement for the purchase of certain property. There was a written agreement of sale which called for premises situated at 57th :and Litchfield Streets, Philadelphia, numbered 5661 Litchfield Street. It was a vacant lot, but there was to be erected upon the premises a house to be prepared according to plans lodged with the Market Street Title and Trust Company. The plaintiff’s statement alleges that he made due demands for the plans, but they were not forthcoming and that he therefore asked to have his $1,000 paid under the agreement returned, for the plaintiff believes that the property is not built according to plans lodged with the Market Street Title and Trust Company. These plans were not offered as evidence by the plaintiff. In his statement of claim there is no reference to the fact that the premises numbered 5661 Litchfield Street, situated at the Southeast Corner of 57th and Litchfield Streets, are not designated by the proper number, but on the trial the plaintiff bases his right to recovery on the indefiniteness of the written contract, stating that the Southeast Corner of 57th and Litchfield Sreets is 5660 Litchfield Street and not 5661 Litchfield Street. This the trial judge stated, was an after-thought. We may note that at the time the bargain was made the house had not been numbered, for there was no house there. The putting of the figures 5661 in the agreement was evidently a mistake. The plaintiff knew what he was buying, for according to the uncontradicted testimony of the case, he went and inspected the house. Upon his examination of the property he directed some minor repairs which were made. The time of the final settlement of the transaction was postponed at his request, and no mention made of any impediment to the consummation of the contract. The defendants properly executed the deed for the premises situated at the Southeast Corner of 57th and Litchfield Streets and the plaintiff refused to accept it. There was abundant evidence that this was the property bargained for. The court found in favor of the defendants and we think rightly so. The plaintiff contends that all the testimony in regard to the subsequent acts of the parties was inadmissible because it was an attempt to vary the terms of the written agreement. As stated .above, the description in the present agreement defines the property .at the Southeast Corner of 57th and Litchfield Streets. The subsequent acts of the parties themselves are evidence that they so understood it. We are not trying to vary the contents of the agreement, but are merely showing what the parties had in contemplation. In Gould v. Lee, 55 Pa. 99, — Chief Justice Woodward says, “Parol evidence is not admissible to. alter or contradict what is written, upon the very obvious principle that the writing is the best evidence of the intentions of the parties; but parol evidence has many times been received to explain and define the subject-matter of written agreements. Herein is no contradiction. ’ ’ In Shattuck v. Cunningham, 166 Pa. 368, — The property was described as being rectangular in shape, designated by numbers, but it proved not to be rectangular in shape. Evidence was allowed to show the exact description of the lot, notwithstanding the exact width and depth were set out in the agreement. In Ranney v. Byers, 219 Pa. 332, Judge Mestbezat, -who wrote the opinion, stated that there is no doubt that the parties knew when the instrument was executed and delivered, and now know what real estate it includes and where it is situated and goes on to say that the distinction between parol evidence when offered to locate the subject of the. writing and when offered for the purpose of naming or designating the subject matter of the contract is of vital importance. When the instrument names a definite subject it satisfies the Statute and parol evidence is admissible to identify or to locate it on the ground.
+There are numerous cases to the same effect — among the more recent are Cohen v. Jones, 274 Pa. 417; McDermott v. Reiter, 279 Pa. 545; Lawver v. Anderson, 275 Pa. 211, s. c. 77 Pa. Superior Court 208; Shaw v. Cornman, 271 Pa. 260.
+The assignments of error are overruled and the judgment is affirmed.
