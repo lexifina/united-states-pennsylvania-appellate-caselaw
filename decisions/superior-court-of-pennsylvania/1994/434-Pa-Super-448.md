@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2842"
+decided: "1994-05-16"
+citations: ["434 Pa. Super. 448", "644 A.2d 167"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before BECK, POPOVICH and HOFFMAN, JJ.", "POPOVICH, J., concurs in the result."]
+parties: ["COMMONWEALTH of Pennsylvania v. Harry J. SEDGWICK, Appellant."]
+source_url: "https://static.case.law/pa-super/434/cases/0448-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 943083
+cites_cases: ["530 Pa. 299"]
+---
+
+# Commonwealth v. Sedgwick
+
+## Majority (HOFFMAN, Judge:)
+
+HOFFMAN, Judge:
+This is an appeal from an order entered August 27, 1993 finding appellant, Harry J. Sedgwick, guilty of driving while his operating privilege was suspended. Appellant presents the following question for our review:
+1. Whether a police officer’s observation of a driver’s failure to wear a seat belt can serve as probable cause to carry out a lawful traffic stop wherein the officer, upon further investigation occasioned by that stop, issues the driver a citation for driving while under suspension?
+Appellant’s Brief at 4. For the reasons set forth below, we reverse.
+On July 28, 1991, at approximately 10:01 a.m., Officer William Shields was on duty in front of the Lenhardt Fire Company. Officer Shields’ car was stationed approximately six feet away from the passing cars. As appellant drove past Officer Shields, the officer noticed that appellant was not wearing his seat belt. Officer Shields stopped appellant and discovered that appellant’s license had been suspended for one year, on April 4, 1991, following conviction for driving under the influence. Appellant was cited for driving while his license had been suspended and issued a warning notice for failure to comply with the seat belt requirement.
+On December 22, 1992, appellant was found guilty of driving under suspension. Appellant filed a motion in arrest of judgment which was subsequently dismissed on August 6, 1993. Appellant was sentenced to 90 days in prison and received a fine of $1,000.00. This timely appeal followed.
+Appellant contends that violation of the seat belt law does not constitute probable cause for the charge of driving while under suspension. We agree.
+A police officer may stop a motor vehicle if he reasonably believes that a provision of the motor vehicle code is being or has been violated. See 75 Pa.C.S. § 6308; Commonwealth v. DeWitt, 530 Pa. 299, 608 A.2d 1030 (1992). Incident to this stop, an officer may check the vehicle’s registration, the driver’s license and obtain any information necessary to enforce provisions of the motor vehicle code. 75 Pa.C.S. § 6308.
+Under 75 Pa.C.S. § 4581, a driver’s failure to wear a seat belt is a clear violation of the motor vehicle code. 75 Pa.C.S. § 4581. It would therefore appear that an officer has the authority to stop a vehicle for violation of the seat belt law, and check the licensing status of the driver. However, a proceeding for violation of the seat belt law may only be brought after conviction on another section of the motor vehicle code. 75 Pa.C.S. § 4581(a)(2), (b) & (f). Further, evidence of violation of the seat belt law may only be admitted in a proceeding under that section. 75 Pa.C.S. § 4581(f). Therefore, in the instant case, the Commonwealth should have been precluded from introducing evidence of appellant’s failure to wear a seat belt, in the proceedings for appellant’s charge of driving while under suspension. Moreover, there was no evidence that the officer had probable cause to believe that any section of the motor vehicle code, other than 75 Pa.C.S. § 4581, was being or had been violated at the time he checked appellant’s driving status. 75 Pa.C.S. § 4581(f) effectively prevents the Commonwealth from articulating the circumstances giving rise to probable cause to effect a lawful traffic stop. Consequently, the trial court erred in finding that probable cause, for charging appellant for driving without a license, had been established. Accordingly, the judgment of the trial court is reversed.
+Reversed.
+POPOVICH, J., concurs in the result.
+. 75 Pa.C.S. § 1543.
+. The statute provides limited exceptions to the seat belt requirement which are inapplicable here.
