@@ -1,0 +1,65 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "2575 C.D. 1992"
+decided: "1994-02-09"
+citations: ["162 Pa. Commw. 90", "638 A.2d 370"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before COLINS and McGINLEY, JJ., and SILVESTRI, Senior Judge."]
+parties: ["COMMONWEALTH of Pennsylvania, Appellant, v. ONE 1984 CHRYSLER FIFTH AVENUE SEDAN, Corinne Reed."]
+source_url: "https://static.case.law/pa-commw/162/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1458133
+cites_cases: ["139 Pa.Commonwealth Ct. 68", "21 U.S.C. § 881", "371 Pa.Superior Ct. 390", "380 U.S. 693", "384 U.S. 436", "418 Pa.Superior Ct. 82", "716 F.Supp. 171"]
+---
+
+# Commonwealth v. One 1984 Chrysler Fifth Avenue Sedan
+
+## Majority (SILVESTRI, Senior Judge.)
+
+SILVESTRI, Senior Judge.
+The Commonwealth of Pennsylvania (Commonwealth) appeals from an opinion and order of the Court of Common Pleas of York County (trial court) which, pursuant to the provisions of 42 Pa.C.S. §§ 6801-6802, commonly known as the Controlled Substances Forfeiture Act (Forfeiture Act), denied the Commonwealth’s petition for forfeiture and ordered the return of a 1984 Chrysler 5th Avenue (Chrysler) vehicle to its title holder, Corinne Reed (Reed).
+The facts giving rise to this forfeiture proceeding are as follows. On October 8, 1991, Agents Thomas Lowe and Michael Burke, Bureau of Narcotic Invéstigation, Office of Attorney General (agents), in response to information provided by a confidential informant, conducted a trash pull from the residence of Phillip D. Monk (Monk). The agents were looking for and found indications of a marijuana growing and processing operation. On October 9, 1991, the agents executed a search warrant of Monk’s residence where they discovered growing marijuana plants, dried marijuana and marijuana seeds, and drug paraphernalia. The agents also found financial records including the title of the Chrysler in the name of Reed at the same address as Monk’s residence. While the agents were conducting the search, Monk arrived at the residence driving the Chrysler. In plain view on the front seat of the Chrysler was approximately twenty (20) grams of marijuana. Based on the results of their search and their observations of the Chrysler, the agents arrested and charged Monk with possession with intent to manufacture or deliver marijuana. The agents also seized the Chrysler.
+In an interview conducted on October 21, 1991, Monk told the agents that he had purchased the Chrysler four months earlier and that he had the vehicle titled in his girlfriend’s name because his driver’s license was suspended at that time. Monk also stated that on an unspecified number of occasions, he had used the Chrysler to deliver marijuana to friends in York City.
+On November 4, 1991, the Commonwealth filed a petition for forfeiture seeking the forfeiture of the Chrysler on the basis that it constituted a conveyance which was used or intended to be used to transport or in any manner to facilitate the transportation, sale, receipt, possession and concealment of a controlled substance in violation of The Controlled Substance, Drug, Device, and Cosmetic Act (Drug Act). The Commonwealth asserted that Monk was in possession of-the Chrysler at the time of seizure and that the vehicle was owned by both Monk and Reed. Based on the aforementioned averments, the Commonwealth served both Monk and Reed with the petition for forfeiture. Reed filed an answer on November 20,1991, in which she denied that the Chrysler was owned by Monk and further asserted that she was an “innocent owner.” Monk did not file an answer.
+While the forfeiture petition was pending, Monk filed a motion in his criminal proceeding to suppress all evidence seized pursuant to the execution of the search warrant and all statements made by him. By order dated February 24, 1992, Judge John C. Uhler granted Monk’s motion to suppress and the criminal charges against Monk were dismissed.
+After the criminal charges were dismissed, a hearing on the forfeiture petition was held before Judge Emanuel A. Cassimatis on May 20,1992. Monk appeared under subpoena by the Commonwealth and was granted immunity. Monk testified that he purchased the Chrysler as a gift for Reed; that he drove the vehicle; that tools found in the trunk of the Chrysler belonged to him; and that he was fixing the car. Monk further testified that he used the Chrysler to deliver marijuana to friends but that Reed was in no way involved nor did she have any knowledge of such activity. The trial court concluded that the Commonwealth failed to satisfy its burden of establishing that the Chrysler was subject to forfeiture pursuant to Section 6801(a)(4) of the Forfeiture Act and denied the Commonwealth’s petition for forfeiture and ordered the Chrysler returned to Reed. The Commonwealth filed this appeal.
+Since the Commonwealth did not produce any evidence other than the testimony of Monk at the forfeiture hearing, the only question before this Court is whether Monk’s testimony was sufficient to establish that the Chrysler was subject to forfeiture.
+Section 6801(a)(4) of the Forfeiture Act, 42 Pa.C.S. § 6801(a)(4), is the legislative enactment regarding forfeiture of vehicles and provides, in pertinent part, as follows:
+(a) Forfeitures generally. The following shall be subject to forfeiture to the Commonwealth and no property right shall exist in them:
+(4) All conveyances, including aircraft, vehicles or vessels, which are used or are intended for use to transport, or in any manner to facilitate the transportation, sale, receipt, possession or concealment of, property described in paragraph (1) or (2)----
+42 Pa.C.S. § 6801(a)(4).
+Paragraphs (1) and (2) of this section refer to property used in violation of the Drug Act, 35 P.S. § 780-101 et seq. However, Section 6801(a)(4)(iv) of the Forfeiture Act further provides that,
+(iv) no conveyance shall be forfeited under this section for violation of section 13(a)(31) of The Controlled Substance, Drug, Device and Cosmetic Act. (Footnote omitted.)
+42 Pa.C.S. § 6801(a)(4)(iv).
+Section 13(a)(31) of the Drug Act provides, in relevant part, as follows:
+(a) The following acts and the causing thereof within the Commonwealth are hereby prohibited:
+(31) Notwithstanding other subsections of this section, (i) the possession of a small amount of marijuana only for personal use, (ii) the possession of a small amount of marijuana with the intent to distribute it but not to sell it; or (iii) the distribution of a small amount of marijuana but not for sale.
+For purposes of this subsection, thirty (80) grams of marijuana or eight (8) grams of hashish shall be considered a small amount of marijuana.
+35 P.S. § 780-113(a)(31).
+In its opinion, the trial court set forth, in part, Monk’s testimony, as follows:
+Q: And how did you use the car? You were selling marijuana during that time period?
+A: I wasn’t really selling marijuana. I was splitting marijuana with friends.
+Q: Well, what were you using the car to do that involved the marijuana?
+A: I guess I might have taken some to friends once or twice or used it. It came down to me.
+R.R. 85.
+The trial court specifically noted that Monk’s testimony only proved that he was involved in the splitting of marijuana with friends. Thus, at best, Monk’s use of the Chrysler could be construed as a possible violation of Section 13(a)(31) of the Drug Act. However, as previously stated, pursuant to Section 6801(a)(4)(iv) of the Forfeiture Act, such a violation cannot serve as a basis for forféiture.
+The burden is on the Commonwealth to establish that the Chrysler was subject to forfeiture under Section 6801(a)(4) of the Forfeiture Act. The Commonwealth failed to produce any evidence that the Chrysler was used or intended to be used to transport or in any manner facilitate the transportation, sale, receipt, possession or concealment of property in violation of the Drug Act. Accordingly, we affirm the decision of the trial court.
+ORDER
+AND NOW, this 9th day of February, 1994, the order of the Court of Common Pleas of York County, dated November 9, 1992, is affirmed.
+. Pursuant to Section 6801(b) of the Forfeiture Act, property subject to forfeiture may be seized by the law enforcement authority upon process issued by any court of common pleas having jurisdiction over the property, 42 Pa.C.S. § 6801(b).
+. Monk was advised of his Miranda warnings and knowingly and voluntarily waived his right to remain silent. See Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966).
+. Monk stated that, at the time he purchased the Chrysler, Reed was his girlfriend and that they lived together at his residence. At the time of the forfeiture proceeding, Reed testified that she had moved out of Monk’s residence and that they were no longer dating.
+. Act of April 14, 1972, P.L. 233, as amended, 35 P.S. §§ 780-101— 780-144.
+. Section 6802(j) of the Forfeiture Act, regarding the unlawful use of property without the owner’s knowledge of consent, is commonly referred to as the “innocent owner” exception of the Forfeiture Act. See Commonwealth v. One 1985 Cadillac Seville, 371 Pa.Superior Ct. 390, 538 A.2d 71 (1988). Section 6802(j) provides that, at the time of the hearing if the Commonwealth produces evidence that the property in question was unlawfully used, possessed, or otherwise subject to forfeiture under Section 6801(a), the burden shall be upon the claimant to show:
+1) that the claimant is the owner of the property;
+2) that the claimant lawfully acquired the property;
+3) that the property was not unlawfully used or possessed by him; in the event, that it shall appear that the property was unlawfully used or possessed by a person other than the claimant, then the claimant shall show that the unlawful use or possession was without his knowledge or consent; such absence of knowledge or consent must be reasonable under the circumstances presented.
+Reed concedes that Monk used the Chrysler with her knowledge and consent; however, Reed asserts that she had no knowledge that the Chrysler was used in any way in the transportation of narcotics or contraband and further stated at the hearing that she had no idea there was any involvement with the Chrysler and drugs.
+. The Commonwealth may continue to seek forfeiture of the property regardless of whether a criminal conviction can be gained from the evidence. See Commonwealth v. Anthony, 418 Pa.Superior Ct. 82, 613 A.2d 581 (1992).
+. Upon the Commonwealth’s request, Monk was granted immunity from prosecution for statements he may make at the hearing relating to his involvement with drugs. See 42 Pa.C.S. § 5947(d).
+. The trial court, having determined that the Commonwealth failed to satisfy its burden, did not address Reed's contention that she was am “innocent owner.”
+. By order of this Court, dated April 22, 1993, Reed was precluded from filing a brief and the appeal was submitted on the brief of the Commonwealth only.
+. The Commonwealth concedes that it is well established that evidence suppressed for one hearing is suppressed for all. In One 1958 Plymouth Sedan v. Commonwealth of Pennsylvania, 380 U.S. 693, 85 S.Ct. 1246, 14 L.Ed.2d 170 (1965), the United States Supreme Court, in reversing the judgment of the Pennsylvania Supreme Court, held that the constitutional exclusionary rule, relating to evidence obtained in violation of the Fourth Amendment of the United States Constitution, as applied to the States by the Fourteenth Amendment, does apply to forfeiture proceedings. See United States of America v. 1988 BMW 750IL, Vehicle ID No. WBAGC831812765453, 716 F.Supp. 171 (E.D.Pa. 1989); see also Commonwealth v. One 1988 Suzuki Samurai, 139 Pa.Commonwealth Ct. 68, 589 A.2d 770 (1991) (because the Act is modeled after its federal counterpart, the Comprehensive Drug Abuse Prevention and Control Act of 1970, 21 U.S.C. § 881(a), federal decisions that construe the federal statute, albeit nonbinding authority, are compelling and persuasive in construing the Act).
+. Having concluded that the trial court did not err by determining that the Commonwealth failed to satisfy its burden of proof, we need not address whether Reed was an “innocent owner.”
