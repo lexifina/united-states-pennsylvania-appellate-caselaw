@@ -1,0 +1,61 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 5 T.D. 1983"
+decided: "1984-05-09"
+citations: ["82 Pa. Commw. 303"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Williams, Jr., Barry and Barbieri, sitting as a panel of three.", "Judge Williams concurs in the result only."]
+parties: ["Richard Medicus, t/a Karrosseris Coach Work, Appellant v. Upper Merion Township, Appellee."]
+source_url: "https://static.case.law/pa-commw/82/cases/0303-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1321495
+cites_cases: ["102 Ohio St. 460", "107 Pa. Superior Ct. 225", "116 A.L.R. 1250", "122 N.W. 2d 862", "132 N.E. 60", "148 A. 77", "162 A. 469", "223 Wis. 100", "298 Pa. 193", "3 Wyo. 223", "360 Mo. 777", "411 A.2d 567", "48 Pa. Commonwealth Ct. 600", "53 Wyo. 223", "81 Pa. Commonwealth Ct. 601"]
+---
+
+# Medicus v. Upper Merion Township
+
+## Majority (Judge Barky,)
+
+Opinion by
+Judge Barky,
+This appeal results from an order of the court of common pleas of Montgomery County, dated July 2, 1980, which granted a motion for judgment on the pleadings filed by the appellee, Upper Merion Township (Township), in a suit in trespass filed by the appellant, Richard Medicus, t/a Karrosseris Coach Work.
+Appellant conducted a business, within the geographical boundaries of the Township, in which he repaired, restored and sold exotic automobiles. According to the allegations of appellant’s complaint, the Township owns, maintains, controls, possesses and services certain culverts, adjacent to appellant’s business property, which handle the flow of surface water in the area. During and following rain storms on July 24, 1979, August 3; 1979 and September 5, 1979, appellant’s property was flooded. As a result thereof; appellant sustained financial losses purportedly in excess of $50,000.00.
+On September 27, 1979, appellant filed a suit in trespass alleging that the Township had been negligent in various respects relating to the culverts, thereby causing the flooding in question. The Township subsequently filed an answer and new matter, asserting that it was immune from liability under the Political Subdivision Tort Claims Act (Act), Act of November 26, 1978, P.L. 1399, 53 P.S. §5311.202 (b), repealed and reenacted by the Act of October 5, 1980, P.L. 693, 42 Pa. C. S. §8542 (b). The Township also asserted that the complaint had been filed after the applicable statute of limitations.
+The Township subsequently sought judgment on the pleadings based on either of the aforementioned affirmative defenses. Both parties filed briefs and following' argument, the Court of Common Pleas of Montgomery County, on July 2, 1980, granted judgment on the pleadings in favor of the Township. This appeal followed.
+In City of Philadelphia v. Hennessey, 48 Pa. Commonwealth Ct. 600, 411 A.2d 567 (1980), we stated, “judgment on the pleadings should be granted only when a case is free from doubt and a trial would be a fruitless exercise.” The trial court held that the Act immunized the Township from liability. Appellant, of course, argues that the trial court erred in granting the Township judgment on the pleadings.
+Section 201 of the Act, 53 P.S. §5311.201, provided:
+Except as otherwise provided in this Act, no political subdivision shall be liable for any damages on account of any injury to a person or property caused by any act or omission of the political subdivision or any employee thereof or any other person.
+Appellant argues that either Section 202(b)(3) or (5) is an exception to the general grant of immunity of Section 201. The trial court held that neither was applicable to the instant case. As we believe Section 202(b)(5) does apply, we must reverse the order of the trial court.
+Section 202(b)(5) of the Act, 53 P.S. §5311.202(b)-(5) provides that the political subdivision may be liable for:
+A dangerous condition of the facilities of steam, sewer, water, gas and electric systems, owned by the political subdivision and located within rights of way, except that the claimant to recover must establish that the dangerous condition created a reasonably foreseeable risk of the kind of injury which was incurred and that the political subdivision had actual notice or could reasonably be charged with notice under the circumstance of the dangerous condition at a sufficient time prior to the event to have taken measures to protect against the dangerous condition.
+The trial court held that a culvert or storm drain is part of neither a sewer or water system. We do not agree.
+In reaching its conclusion, the trial court relied upon Cheltenham and Abington Sewerage Company v. Public Service Commission, 107 Pa. Superior Ct. 225, 162 A. 469 (1932) and Borough of Wilkinsburg v. School District of Wilkinsburg, 298 Pa. 193, 148 A. 77 (1929), both of which distinguished between sanitary sewers and storm drains. A close scrutiny of those cases and the context in which they were decided reveals that neither is controlling here. Cheltenham involved an attempt by a sewage disposal company to increase its rates for sanitary service and to begin charging individual residents and municipalities for storm water drainage service. The Public Service Commission allowed an increase in the sanitary sewage service rates but refused to allow the imposition of charges for storm drain services because the company was unable to show either ownership or possession of the storm drains. The question of ownership of those storm drains turned on a conveyance by the developer of a subdivided tract of land to the sewage disposal company of the “Sewage Plant and System”. For a variety of reasons, a number of which were founded on old tenets of property law, the court concluded that the storm drains had been dedicated to public use prior to the conveyance in question, thereby preventing the conclusion that the sewage company owned the storm drains by virtue of the conveyance.
+In Wilkinsburg, the Borough was attempting to assess the School District for the cost of covering an open stream which carried off surface water. The School District, as a municipal subdivision, could be assessed for public improvements to its property only where express statutory authority existed to do so. The Borough claimed such authority was granted by the Act of May 16, 1923, P.L. 207, which permitted such assessments for “sewers and sewer connections”. The court recognized that the term sewer could be broad enough to cover storm drains, but held in that case that “sewers” meant sanitary sewers, stating:
+It must be kept in mind that the right to assess the school district rests on express statutory authority. The act of 1923 gives the right to enter land to construct culverts, drains, ditches and sewers, but it is only in the latter case that power is granted to assess benefits. There is good reason for this distinction, since, in the latter case, the borough will necessarily undergo expense in disposing of the waste matter poured therein.
+298 Pa. at 199, 148 A. at 80. The court also justified the distinction it reached on the principle that the statute allowing assessments for “sewers and sewer connections”, must, as a taxing statute, be strictly construed. For the reasons that follow, we believe both of these cases, because of the contexts in which they were decided, are inapposite.
+In the instant case, we are asked to construe the meaning of the term “sewer” system as used in the Act. In setting forth the rules for construing statutes, the Legislature has provided:
+(ib) All provisions of a statute of the classes hereafter enumerated shall be strictly construed :
+(1) Penal provisions.
+(2) Retroactive provisions.
+(3) Provisions imposing taxes.
+(4) Provisions conferring the power of eminent domain.
+(5) Provisions exempting persons and property from taxation.
+(6) Provisions exempting property from the power of eminent domain.
+(7) Provisions decreasing the jurisdiction of a court of record.
+(8) Provisions enacted finally prior to September 1, 1937 which are in derogation of the common law.
+(c) All other provisions of a statute shall be liberally construed to effect their objects and to promote justice. (Emphasis added.)
+1 Pa. C. S. §1928. As the Political Subdivision Tort Claims Act fits within none of the classes requiring strict construction, we must construe the term “sewer systems” in a liberal fashion to both effect the object of the Act and to promote justice.
+The Act sets forth those instances in which a municipal subdivision can be sued for its negligent conduct. In doing so, the Legislature provided that the municipal subdivision would be responsible for a dangerous condition in its sewer system. If the allegations of appellant’s complaint can be proved, he has undoubtedly suffered an injury because of the Township’s negligent construction and maintenance of the storm drains. To construe the Act in the manner done by the trial court would both frustrate the purpose of the Act and create a serious injustice by allowing appellant to go uncompensated.
+The Legislature has also provided, “Words . . . shall be construed . . . according to their common and approved usage.” 1 Pa. C. S. §1903(a). Webster’s Third New International Dictionary 2081 (1966) defines sewer as “an artifical usu. subterranean conduit to carry off waste matter (as surface water from rainfall ...).” In Kirkham, Michael & Associates v. City of Minot, 122 N.W. 2d 862, 863-864 (N.D. 1963) (emphasis added), the court stated:
+Historically, the word “sewers ’ ’ was used to denote “storm sewer” at an earlier period than it was used to denote “sanitary sewer” Anselmi vs. City of Rock Springs, 53 Wyo. 223, 80 P.2d 419, 422, 116 A.L.R. 1250.
+In modern usage, the word “sewer” has been held, under special circumstances, not to include storm sewers. Roebling vs. City of Cincinnati, 102 Ohio St. 460, 132 N.E. 60. At other times, it has been held to refer only to “a drainage or storm sewer” and not to include a sanitary sewer. Terminal R.R. Assn. of St. Louis vs. City of Brentwood, 360 Mo. 777, 230 S.W. 2d 768-770. However, it has been held that, in the absence of anything which would indicate a limitation on the meaning of the term, the word “sewer” will be construed to include both storm sewers and sanitary sewers. 80 C.J.S. Sewer p. 131; and Anselmi vs. City of Rock Springs, 3 Wyo. 223, 80 P.2d 419, 116 A.L.R. 1250; Trustees of University Co-op. Co. vs. City of Madison, 223 Wis. 100, 288, N.W. 742.
+We believe that the special circumstances present in both Cheltenham and Willdnsburg require us to disregard the distinctions drawn therein. We therefore hiold that, the term “sewer” systems as used in Section 202(b)(5) of the Act encompasses storm drains. The trial court’s ruling to the contrary, therefore, was erroneous. Accord City of Washington v. Johns, 81 Pa. Commonwealth Ct. 601, A.2d (1984).
+The trial court ruled in the alternative that even' if storm drains were included within the meaning of sewer systems, appellant had failed to plead an essential element of his cause of action, i.e., that the Township had actual notice or could reasonably be charged with notice of the dangerous condition. As appellant’s complaint alleges three separate incidents of flooding over a three month period, we believe it can be inferred that the municipality had notice of a dangerous condition, if these facts are proved. Furthermore, the question of whether the Township had notice is a question for the fact finder as the concept is used in Section 202(b)(5) of the Act, hence the Township can be liable for damages caused by the dangerous condition only after it has had an opportunity to correct that condition.
+For all of the foregoing reasons, the order of the trial court must be reversed.
+Order
+And Now, May 9, 1984, the order of the Court of Common Pleas of Montgomery County at No. 79— 18932, dated July 2, 1980, is reversed and the matter is remanded for further proceedings consistent with this opinion.
+Jurisdiction relinquished.
+Judge Williams concurs in the result only.
+This appeal was originally filed with the Superior Court which transferred the matter to this Court.
