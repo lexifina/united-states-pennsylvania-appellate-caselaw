@@ -1,0 +1,50 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "2717 C.D. 1981"
+decided: "1982-03-01"
+citations: ["65 Pa. Commw. 86"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["by Judge Craig."]
+parties: ["Burnham Coal Company, a Pennsylvania Corporation et al., Petitioners v. PBS Coals, Inc., a Pennsylvania Corporation et al., Respondents."]
+source_url: "https://static.case.law/pa-commw/65/cases/0086-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1930208
+cites_cases: ["10 Pa. Commonwealth Ct. 375", "165 A.2d 608", "17 Pa. Commonwealth Ct. 183", "207 A.2d 759", "22 Pa. Commonwealth Ct. 307", "304 A.2d 119", "308 A.2d 906", "331 A.2d 582", "348 A.2d 477", "39 Pa. Commonwealth Ct. 322", "395 A.2d 641", "402 Pa. 318", "417 A.2d 283", "417 Pa. 356", "451 Pa. 436", "53 Pa. Commonwealth Ct. 209"]
+---
+
+# Burnham Coal Co. v. PBS Coals, Inc.
+
+## Majority (Judge Craig,)
+
+Opinion by
+Judge Craig,
+Burnham, a holder of mining property leases, and its affiliated corporation, Twilight, have filed this declaratory judgment action against the Pennsylvania Department of Environmental Resources (DER) and a subleaseholder, PBS, based upon a contract between Burnham and PBS under which PBS agreed to (a) accept the mining leases as they are, (b) seek transfer of Burnham’s DER mining permits to it, (c) perform all of Burnham’s lease undertakings, (d) assume full responsibility for compliance with all laws, and (e) indemnify and hold PBS harmless as to compliance with laws and all other claims.
+As the specific relief sought, the petition asks for judicial declarations that:
+(1) Burnham has no liability for any violations of the Clean Streams Law being assessed by DER, and that
+(2) PBS is liable for any and all conditions on the lands covered by the mining permits.
+The issues raised by respondents’ preliminary objections are:
+1. As to DER’s Assessment of Liability against Burnham and DER’s withholding of permits from Twilight as well as from Burnham, must the petitioners first pursue their administrative remedy instead of this action against DER?
+2. As to a determination of the respective rights and obligations of Burnham and PBS under their contract, is DER an indispensable party, so as to give this court jurisdiction?
+The declaratory judgment nature of this action, along with the precise nature of the relief requested, supply the keys with which the issue must be analyzed.
+1. The DER Permit and Enforcement Proceedings
+Subject matter jurisdiction in this action, to the extent that it involves the relationship between Burnham and Twilight on the one hand and DER on the other hand, is governed by the declaratory judgment provisions of the Judiciary Code, 42 Pa. C. S. §§7531-7541. In 42 Pa. C. S. §7541, subsection (b) expresses the broad and liberal application now to be afforded to the declaratory judgment remedy, but subsection (c) states, as an exception, that declaratory judgment relief is not available with respect to any proceeding within the exclusive jurisdiction of a tribunal other than a court, or one involving an appeal from an order of a tribunal.
+As a consequence of conditions on the mining properties considered by DER to constitute violations of law, DER has imposed sanctions upon the permits and issued orders to Burnham and also to PBS, which Burnham and PBS have appealed to the Environmental Hearing Board. Clearly, all matters initiated by DER with respect to the status of the permits and compliance with the environmental requirements of state law are fully embraced by the administrative proceeding now in existence within the exclusive jurisdiction of the environmental Hearing Board. For that reason, to the extent that the present declaratory judgment action by Burnham seeks a judicial declaration that “Burnham has no liability for any violations of the Clean Streams Law being assessed against Burn-ham and PBS by DER,” the action clearly is placed outside the original declaratory judgment jurisdiction of this court by 42 Pa. C. S. §7541 (c).
+Similarly, in view of Twilight’s assertion that it has joined as a petitioner here because DER’s permit moratorium also blankets it as an affiliate of Burnham, Twilight’s obvious and exclusive remedy is by way of administrative appeal from that specific departmental action taken against it.
+The issues covered under the second heading, below, suggest that Burnham understandably would like to have PBS’ alleged duty to defend in its stead against DER resolved by judicial interpretation of the contract before the EHB proceeding goes further. However, even if the statutory enforcement matters were assumed by this court, that assumption would not stay the EHB proceeding which exists and is presumably ongoing.
+2. The Burnham/PBS Contract
+Judicial interpretation of the terms of the contractual relationship between Burnham and PBS can fall within the jurisdiction of this court under 42 Pa. C. S. §761 (a)(1), allowing original actions here against the Commonwealth government, only if DER is an indispensable party to the proceeding. Our approach to such a question was well stated in Piper Aircraft Corp. v. Insurance Co. of North America, 53 Pa. Commonwealth Ct. 209, 211-12, 417 A.2d 283, 285 (1980), where Judge Williams said:
+We have established the rule that for this Court to have exclusive original jurisdiction over a suit against the Commonwealth and another party, the Commonwealth must be an indispensable party to the action. Royal Indemnity Co. v. Department of Environmental Resources, 39 Pa. Commonwealth Ct. 322, 395 A.2d 641 (1978); Keitt v. Ross, 17 Pa. Commonwealth Ct. 183, 331 A.2d 582 (1975); Ross v. Keitt, 10 Pa. Commonwealth Ct. 375, 308 A.2d 906 (1973).
+By general definition, an indispensable party is one whose rights are so connected with the claims of the litigants that no relief can be granted without infringing upon those rights. Tigue v. Basalyga, 451 Pa. 436, 304 A.2d 119 (1973). However,- Section 7540(a) of the Declaratory Judgments Act, 42 Pa. C. S. §7540(a), gives us a more specialized conception of an indispensable party. That Section provides:
+‘When declaratory relief is sought, all persons shall be made parties who have or claim any interest which would be affected by the declaration ...’
+With particular regard to declaratory judgment proceedings, we have held that a Commonwealth agency whose interest will be affected by a declaration, sought by a plaintiff against another, is an indispensable party. Pleasant Township v. Erie Insurance Exchange, 22 Pa. Commonwealth Ct. 307, 348 A.2d 477 (1975).
+In Royal, which was an action brought by a surety for the resolution of possible conflicts between a DER order and a court order, we held that DER was not an indispensable party in the case between surety and principal; our holding there was based primarily on the view that DER could not be affected because the respective orders could not lawfully be construed as conflicting.
+At first glance, the Pleasant Township case appears to present a closer analogy. There an insured township joined DER in its proceeding against the insuror to determine insurance coverage as to environmental claims by the state against the township, and we retained jurisdiction because we felt that state agencies would be affected by the coverage ruling.
+However, we rested our conclusion on the Pennsylvania Supreme Court’s consistent holding that, where claims are asserted against an insured, the persons asserting the claims are indispensable parties in an action on the issue of coverage between the insured and the insurance carrier, citing Carlsson v. Pennsylvania General Insurance Co., 417 Pa. 356, 207 A.2d 759 (1965); and Keystone Insurance Co. v. Warehousing and Equipment Corp., 402 Pa. 318, 165 A.2d 608 (1960).
+In the present case, despite the similarity between the indemnity contract here and an insurance contract, there is a relevant and substantial distinction to be found in the nature of the end result being sought by the party asserting the claims. DER, in its enforcement efforts, is here not simply seeking money sums —specifically available as insurance proceeds —as was true with respect to the civil penalties and trespass judgment being sought by the state in Pleasant Township; in this case DER seeks the performance of specific orders by both parties to the indemnity agreement. Because DER is already proceeding against PBS as well as against Burnham, under statutory powers relating to the mining sites in which both Burnham and PBS have an interest, the present situation is very different from an insurance company coverage issue from which DER, without a declaratory judgment proceeding, would be shut out by reason of lack of privity to the insurance contract. In other words, DER does not need this declaratory judgment action to reach PBS.
+Moreover, Burnham and PBS do not need to have DER in the case in order to have their agreement construed. Also, in view of the controlling effect of the environmental statutes, no contract between Brunham and PBS and no judicial interpretation of that contract could force DER to accept PBS in place of Burnham with respect to its permitholder’s responsibility. On this point, Royal is the apt authority because, as in that case, no judicial order can cut off Burnham’s statutory responsibilities under the environmental laws.
+The parties and pleadings advise that PBS has itself filed a declaratory judgment action against Burnham in the Court of Common Pleas of Somerset County at No. 286, Civil Division 1981, seeking a construction of the contract. Although there is no need to resolve the pendency-of-prior-action issue here raised in view of that suit, its existence supplies a suitable forum for the resolution of all aspects of the Burnham/PBS contractual relationship.
+In conclusion, the preliminary objections are sustained and this action is dismissed.
+Order
+Now, March 1, 1982, the preliminary objections of both respondents are sustained, and this action is dismissed.
