@@ -1,0 +1,56 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1214 C.D. 1981"
+decided: "1983-06-10"
+citations: ["75 Pa. Commw. 61"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Craig, MacPhail and Barbieri, sitting .as a panel of three."]
+parties: ["Antrim Faith Baptist Church, Petitioner v. Commonwealth of Pennsylvania, Department of Labor and Industry and the Industrial Board, Respondents."]
+source_url: "https://static.case.law/pa-commw/75/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1310754
+cites_cases: ["117 N.E.2d 115", "130 A.2d 240", "183 Pa. Superior Ct. 219", "233 Ind. 83", "34 Pa. Code §37.255", "34 Pa. Code §37.61", "34 Pa. Code §37.81", "351 Pa. 247", "355 U.S. 40", "40 A.2d 381", "406 U.S. 205"]
+---
+
+# Antrim Faith Baptist Church v. Commonwealth
+
+## Majority (Judge Craig,)
+
+Opinion by
+Judge Craig,
+Antrim Faith Baptist ¡Church, located in Waynesboro, has appealed from an order of the Industrial Board granting to the church a conditional variance from regulations under ¡the Fire and Panic Act, so that ithe church may use the second floor of a building of ordinary construction for .the conduct of its Waynesboro Christian Academy, a school for the weekday education .of up ¡to 100 children, pre-school through twelfth grade. Although the church apparently would not reject the variance which allows it to make .the desired use, it does contend that the board’s conditioning of the variance upon the installation of fire safety features is a violation of ithe church’s constitutional right to free exercise of religion.
+The factual findings, which .the board made after conducting hearings, are not in dispute. In .summary, •the board found that:
+—The Abbott Building, tfwo blocks from the church, is a two-story building of Type V (ordinary) construction, formerly a public school building built in 1900 and remodeled' in 1961; it has wooden floors, a slate roof, two means of egress including a separate firetower, an enclosed furnace in ¡the basement, a fire alarm system, emergency lighting and fire extinguishers.
+—The church uses the first floor of the building for a daily program for ¡approximately seventy-five senior citizens, including the provision of lunch with the assistance of a small stove, but no kitchen.
+—The church\s proposed use of the second floor is for the education of children 8:30 a.m.-3:00 p.m. five days per week, conducting grades pre-school through twelfth, in four classrooms, with ¡a maximum of approximately 100 children.
+Under the regulations adopted pursuant to the Fire and Panic Act, specifically 34 Pa. Code §37.255, where an educational occupancy (Group B) is conducted 'in a building of ordinary construction, as distinguished from fire-resistive or fireproof construction, it cannot be conducted on .the second story of a two-story building. An assembly use, however, may be conducted upon a first or second floor.
+In the definitions, assembly (Group A) occupancies consist of use of a building for:
+[Ajssembly of persons for amusement, entertainment, education, instruction, worship, transportation, recreation, sports, military drilling, dining, or similar purposes.
+34 Pa. Code §37.61 (a). In contrast, 34 Pa. Code §37.81 (a) defines Group B occupancies as use for “education, instruction, or .recreation. ’ ’
+Hence, a preliminary question is whether the proposed academy involves an educational occupancy or, instead, involves an assembly occupancy for worship or otherwise. The hoard concluded, relying in part upon a history of consistent ¡administrative interpretation by the Department ¡of Labor and Industry, that the proposed school involves an educational occupancy, rather than an assembly occupancy. Indeed, in its formal statement of questions presented under the rules, the church has not contended that the proposed school occupancy constitutes an assembly use.
+We therefore must answer ,the initial question by concluding that ¡there can be no doubt that the proposed activity, as found by the board, consists of the education of children, throughout the school grades mandated by law, albeit explicitly and consistently from the viewpoint of the religious tenets of this church.
+The crux of the church’s position, however, is that, because the school .is an integral part of the church’s ministry, the fire safety laws must treat it as a church and not as a school, contending that the First Amendment prohibits the state from distinguishing between occupancy for religions worship and occupancy fox religions education.
+Although ¡the board made no finding on the point, we take it as undisputed fact that ,the school is integrally and inseparably part of the ministry of the church.
+The hoard’s order has not prohibited the proposed occupancy. It has granted a variance from the limitations of 34 Pa. Code §37.255, expressly allowing the occupancy as requested, hut subject to conditions to ensure fire safety in a non-fire resistive or fireproof building, specifically: (1) a smoke and heat detection system connected with the existing fire alarm system, (2) compliance with all other requirements of the regulations, including submission of architectural plans and proper latching devices on all doors, and (3) the conducting of monthly fire drills for the school children.
+The church has not established that the Act, the regulations or the conditions violate due process by way of being unreasonable police power regulations, nor has the .church questioned the hoard’s power to attach conditions ,to variances.
+Instead, the church steadfastly maintains that applying the school fire safety standards to its Academy simply violates the First Amendment right to free exercise of religion. The basic issue, therefore, is as follows:
+Where a church, as an integral part of its ministry, conducts an educational program embracing pre-school, grammar and high school in a non-fireproof building of ordinary construction, and safety regulations would permit both of its stories to be used for worship assembly but prohibit such a church-school occupancy of the building’s second story, does the grant of a variance allowing the school in that location, but 'Conditioned upon fire safety installations not requiring reconstruction of the building, constitute an invalid interf erence with ¡the First Amendment right to free exercise of religion?
+Even with the question so stated, -with due regard for the church’s concerns, it points toward a negative answer.
+In this Commonwealth, Jehovah’s Witnesses Appeal, 183 Pa. Superior Ct. 219, 130 A.2d 240 (1957), appeal dismissed, 355 U.S. 40 (1957), confirmed the point that freedom of worship does not mean that churches are exempt from reasonable police power regulations. Citing Kurman v. Philadelphia Zoning Board of Adjustment, 351 Pa. 247, 40 A.2d 381 (1945), which held that setback requirements could constitutionally be applied to a church use, the Superior Court upheld ¡the application ,of off-street parking requirements, and also a proximity limit in relation to other assembly buildings, to a church, adopting from the dissent in Board of Zoning Appeals of Decatur v. Decatur, Ind. Co. of Jehovah’s Witnesses, 233 Ind. 83, 99, 117 N.E.2d 115, 123 (1954), the following:
+It is quite evident [that the members of the appellee [church] could be killed just as dead going to and from church as going to and from a theater or a basketball game. It is a proper exercise of the police power .to protect appellee’s members from their own negligence as well as from the negligence of the traveling public.
+The church here has cited cases which equate a retreat house with a church, a synagogue with a church, a convent with a church, a church’s recreational complex with its religious establishment, and also cases holding that church schools are integrally part of their respective churches. We perceive no contest on those points.
+The church’s attempt to decharacterize the school use, by labeling it as “incidental” to the church, adds nothing except to confirm, as we have granted, that the school is organically part of the church’s function and existence. However, just as the state is entitled to prevent church buildings from being constructed too flimsily .over the heads of the worshipers, the state is entitled to see to it that fire^safety precautions are taken for the protection of a group which is primarily juvenile in its composition, whether that group meets in :a public school building or an equally combustible church building.
+The conditions in no way impinge upon the content of the church’s beliefs; we can certainly take it that there is no tenet of the church requiring that children be exposed to any danger of fire. The board has .only sought to provide measures, in substitution for fireproof construction, to provide substantially equal safety for the children.
+Both parities here have cited Wisconsin v. Yoder, 406 U.S. 205 (1972), which sequentially analyzes religious freedom cases by determining:
+(1) whether the activity in question is rooted in genuine religious belief;
+(2) whether the free exercise of religion is burdened by 'the public action; and
+(3) whether there exists a state interest sufficiently compelling to justify such a burden.
+We have already answered the first point affirmatively — this school is rooted in this church’s religious belief. However, the .second criterion is not met, in that the record .shows no way in which these fire safety-regulations warp the free exercise of this church’s religion. Installing smoke detectors and proper door latches land conducting fire drills- — -in other words, providing these children with the same precautions afforded to all other school children — in no way contravenes -religious expression or touches upon religious belief or -any act .of worship-.
+Without any burden upon the actual -exercise of religious expression, we do not reach the third point, requiring the showing of some compelling .state interest to justify such .a burden. Even if the financial cosit of these precautions he treated as the burden — albeit upon the -church’s hud-get rather than its conscience— the compelling state interest, protection of human life, is apparent. Nowhere in the record has the church shown that -smoke detectors -or door latches or fire drills are excessive. The counsel for the church argues -only that logic is lacking in making -some requirements more stringent for schools than for assembly places -or activities such as roller rinks, hut the -church has not successfully impugned the distinction -that the school category is the one which involves children primarily.
+The -church -has -also argued that the state has in other cases granted exemptions and variances for buildings of .ordinary eons-trncition -built before the regulations became effective. Yet that is precisely what has -been granted to the church here, a variance, subject to conditions.
+Our conclusion is to affirm the variance and the conditions attached to it.
+Order
+Now, June 10, 1983, ¡the order of ¡the Industrial Board, dated April 22,1981, is 'affirmed.
+Act of April 27, 1927, P.L. 465, §§1-15, as amended, 35 P.S. §§1221-1235.
