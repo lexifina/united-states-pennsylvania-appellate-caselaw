@@ -1,0 +1,37 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 252"
+decided: "1931-01-30"
+citations: ["101 Pa. Super. 370"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Linn, Gawthrop, Cunningham, Baldrige and Whitmore, JJ."]
+parties: ["Palmer et al. v. Dela. Co. Bldg. Assn., Appellant."]
+source_url: "https://static.case.law/pa-super/101/cases/0370-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 692945
+cites_cases: ["10 Watts 270", "104 Pa. 559", "15 W. N. C. 5", "190 Pa. 455", "199 Pa. 17", "225 Pa. 221", "226 Pa. 483", "227 Pa. 22", "236 Pa. 206", "25 Pa. Superior Ct. 176", "277 Pa. 184", "293 Pa. 161", "302 Pa. 254", "4 Watts 141", "46 Pa. Superior Ct. 103", "50 Pa. Superior Ct. 399", "55 Pa. Superior Ct. 444", "73 Pa. 59", "78 Pa. 334", "81* Pa. 19", "85 Pa. 84", "92 Pa. Superior Ct. 235", "92 Pa. Superior Ct. 425"]
+---
+
+# Palmer v. Dela. Co. Bldg. Ass'n
+
+## Majority (Keller, J.,)
+
+Opinion by
+Keller, J.,
+The appellant in its statement of questions involved lists a number of questions which are not rightly raised by this record.
+As amended in the court below, the legal plaintiff is the executrix of Andrew L. Palmer, deceased, who, in his lifetime, became a stockholder of the defendant company in two series of instalment stock. One of these series has matured and the amount payable thereunder is fixed and admitted. The withdrawal or cancellation value of the stock in the other series is also not disputed and the right to withdraw is not contested.
+The contest raised by the defendant is over matters which really do not concern it in this suit, but involve the distribution of the amount it admittedly owes to those entitled to the beneficial interest in the stock issued to Andrew L. Palmer. Whoever is entitled to the fund must receive it by and under the right of the original stockholder, Andrew L. Palmer, and hence an action brought in his name, or since his death, in that of his legal representative, carries with it the interests oE those claiming rights under or through him; and payment of any judgment recovered in the action will protect the defendant company from all claims against it growing solely out of alleged assignments of the stock and not founded on any negligent or unauthorized act or assumption of the defendant with respect to it.
+If opposing interests claim the fund .through or under the original stockholder by assignment from him they can be protected by appropriate proceedings in the action or by suit in equity, but that does not concern this appellant which admittedly owes on the stock the amount demanded: Stegmaier v. Keystone Coal Co., 225 Pa. 221, 231.
+We have discussed this principle in a number of recent decisions. See E. & S. Motor Transportation Co. v. World Fire & Marine Ins. Co., 92 Pa. Superior Ct. 235; Hoeveler-Stutz Co. v. Cleveland Motor Sales, 92 Pa. Superior Ct. 425, 428. “The suit being brought in the name of the legal plaintiff, his right alone is in question and it may be recovered upon or defended against, as the defendant is not permitted to dispute the form of the action as presented by his record. A person for whose use a suit is brought need not show a right in himself; all that is necessary is to show the legal plaintiff’s right to recover”: C. H. Hardy Auto Co. v. Posey, 50 Pa. Superior Ct. 399, 403. “The right to recover is founded on the claim of the legal plaintiff, and whether this right remains in him or has passed to the assignee is immaterial”: American Mfg. Co. v. S. Morgan Smith Co., 25 Pa. Superior Ct. 176, 183.
+In order, as far as possible, to avoid further litigation, we shall, without discussion, state our views on the questions submitted to us as based on the facts in this record, which, of course, will not be conclusive as to issues not before us, nor preclude those interested in the subject matter from showing a different state of facts if able to do so.
+1. The assignment by Andrew L. Palmer of his shares of stock in the defendant building and loan association to the Pennsylvania National Bank as collateral either for notes already discounted or about to be discounted in that bank, was supported by a valuable consideration, (First Nat. Bank v. Baer, 277 Pa. 184, 188; Morrison v. Whitfield, 46 Pa. Superior Ct. 103, 105), if in consequence of it any of his notes were discounted, or renewed, or carried beyond maturity, or their payment was extended or any forbearance with respect to them granted Palmer: The West Branch & Susquehanna Canal Company’s App., 81* Pa. 19, 33, 34. We are not dealing with the rights of the assignee as against any one claiming title superior to the assignor, Palmer, as in King v. Mellon Nat. Bank, 227 Pa. 22; Callendar v. Kelly, 190 Pa. 455; Crawford v. Dollar S. F. & T. Co., 236 Pa. 206.
+2. The assignments, though absolute on their face, were given as collateral security: Munn v. McDonald, 10 Watts 270, 273. This is seen from the fact that Palmer continued to make payment of the monthly dues, which he would not have done in the case of an absolute assignment to the bank.
+3. The assignment to the bank was completed and perfected as far as circumstances permitted: American Exchange Nat. Bank v. Federal Nat. Bank, 226 Pa. 483; Robert’s App., 85 Pa. 84. The written assignments were executed and delivered to the bank, and presented by it for the inspection of the defendant company’s officers and noted on its books: Bank of Commerce’s App., 73 Pa. 59. In practice the defendant association provides for no other method of collateral transfer. It does not issue certificates of stock or other evidences of stock ownership to its members or stockholders. The rules applicable to stock certificates of ordinary corporations are not controlling, for membership in a building and loan association involves some of the relations of a partnership. Brown v. Victor B. & L. Assn., 302 Pa. 254; Stone v. New Schiller B. & L. Assn., 293 Pa. 161. See Collins’ App., 15 W. N. C. 5; Wallace’s Est, 104 Pa. 559. It was not necessary that the pass books on which were entered the receipts for the monthly payments should be delivered to and retained by the bank. This would be impracticable if Palmer was to continue his monthly payments.
+4. On Palmer’s death, the assignee bank was entitled to the withdrawal value of the stock held by it as collateral, (Act of April 29, 1874, P. L. 73, 96, sec. 37, clause 2), provided it did not exceed his debt to it. It was not bound to sell the collateral: Hanna v. Holton, 78 Pa. 334; Lishy v. O’Brien, 4 Watts 141, 142; Delaware Co. Trust Co. v. Haser, 199 Pa. 17, 26; Stegmaier v. Keystone Coal Co., supra, p. 231.
+5. Its rights were not affected by the subsequent assignment of the stock by Mrs. Palmer as executrix to herself individually: Chambers v. Bradford B. & L. Assn., 55 Pa. Superior Ct. 444.
+6. The bank, as assignee, is not entitled to the benefit of the payments made by Mrs. Palmer after her husband’s death, in Ignorance of the assignments to the bank, on account of the monthly dues on said stock.
+7. We are not concerned in this case with the loss, if any, suffered by Mrs. Palmer by reason of the fail-
+nre of the defendant’s officers, on inquiry, to inform her of the prior assignment to the bank; or of her possible rights against the defendant arising therefrom.
+The assignments of error are overruled and the judgment is affirmed.
