@@ -1,0 +1,36 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1138 C.D. 1984"
+decided: "1985-08-09"
+citations: ["91 Pa. Commw. 59"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Doyle and Palladino,- and 'Senior Judge Kalish, -sitting as a panel of three."]
+parties: ["Howard Painter, Petitioner v. Workmen’s Compensation Appeal Board (Universal Cyclops), Respondents."]
+source_url: "https://static.case.law/pa-commw/91/cases/0059-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1337206
+cites_cases: ["119 A. 132", "275 Pa. 217", "298 A.2d 640", "398 A.2d 753", "41 Pa. Commonwealth Ct. 141", "453 A.2d 370", "468 Pa. 200", "7 Pa. Commonwealth Ct. 253", "70 Pa. Commonwealth Ct. 392"]
+---
+
+# Painter v. Workmen's Compensation Appeal Board
+
+## Majority (Judge Palladino,)
+
+Opinion by
+Judge Palladino,
+Howard Painter (Claimant) appeals from an order of the Workmen’s Compensation Appeal Board (Board) which affirmed, as modified, a referee’s decision awarding compensation to Claimant for a specific loss under Section 306(c) of The Pennsylvania Workmen’s Compensation Act (Act).
+On December 7, 1979, Claimant was injured in the course of his employment as a drill press operator with Universal Cyclops (Employer) when his left arm was crushed by a drill press. Pursuant to a notice of compensation payable, Claimant received compensation for total disability for this injury. The nature of the injury was listed as “crush injury, left forearm.” On October 15, 1980, Claimant filed a review petition seeking specific loss of us.e of his left arm for all practical intents and purposes. Based on the testimony of Claimant’s medical expert, the referee found that as of April 1, 1981, Claimant has suffered the permanent loss of use of his left forearm, wrist and hand for all practical intents and purposes and that this specific loss was caused by his December 7, 1979 injury. The referee further found that this specific loss is in addition to his total disability resulting from the “hand-shoulder syndrome” caused by the December 7, 1979 injury. Based on these findings, the referee awarded Claimant 370 weeks of compensation for the specific loss of use of his.left forearm. The referee refused to award the Employer a credit for temporary total disability benefits paid to Claimant prior to April 1, 1981 based on his conclusion that Claimant suffered “other injuries” to his left shoulder which have disabled him.
+On appeal, the Board affirmed the referee’s granting of Claimant’s review petition for the specific loss of his left forearm. However, the Board concluded that the Employer is entitled to a credit for compensation already paid to Claimant inasmuch as the injury was to the same member arising out of the same accident.
+Before this Court, Claimant contends that because his temporary total disability resulted from a separate and distinct injury to his left shoulder, the Board erred in awarding a credit to the Employer for benefits paid to him as a result of this disability.
+Thus, the sole issue for our determination is whether a claimant who suffered a “crush injury” to his left forearm for which he received temporary total disability benefits, may, in addition to these benefits, receive specific loss benefits under Section 306(c) of the Act for the loss of use of his forearm.
+Initially we note that our scope of review where, as here, the party with the burden of proof prevailed before the referee and the Board took no additional evidence, is to determine whether constitutional rights were violated, an error of law was committed, or a necessary finding of fact of the referee was unsupported by substantial evidence. Bethlehem Steel Corp. v. Workmen’s Compensation Appeal Board, 70 Pa. Commonwealth Ct. 392, 453 A.2d 370 (1982).
+The well-established rule is that an employee who sustains an injury which is compensable under Section 306(c) of the Act is not entitled to additional compensation even though he may be totally disabled by his permanent injury. Warren Car Co. v. Workmen’s Compensation Appeal Board, 41 Pa. Commonwealth Ct. 141, 398 A.2d 753 (1979); Carnovale v. Supreme Clothes, Inc., 7 Pa. Commonwealth Ct. 253, 298 A.2d 640 (1973). The exception to this general rule is that in addition to specific loss benefits under Section 306(c), total disability benefits may be granted under Section-306(a) of the Act, 77 P.S. §511, where “there is a destruction, derangement, or deficiency in the organs of' the other parts of the body.” Warren, 41 Pa. Commonwealth Ct. at 144, 398 A.2d at 754 (quoting Killian v. Heintz Division Kelsey Hayes, 468 Pa. 200, 207-208, 360 A.2d 620, 624 (1976)). Thus, additional compensation may be granted for an injury to another part of the body which is a direct result of the permanent injury but which causes a disability separate and distinct from that which normally follows the specific loss injury. Lente v. Luci, 275 Pa. 217, 119 A. 132 (1922).
+In the instant case, Claimant’s medical witness, Dr. Sherman, testified that as a result of the crush injury to his left forearm, Claimant suffered from tendonitis and disuse atrophy in his left shoulder causing both restricted motion and tenderness of the shoulder. Dr. Sherman testified that the condition of Claimant’s shoulder alone would have and did render him totally disabled for his job. as a drill press operator. The Employer’s medical witness, Dr. Beachler, who performed surgery on Claimant’s left forearm and was his treating physician, testified that as a result of the injury to his left forearm, Claimant suffered from “hand-shoulder syndrome” which caused a significant loss of motion in his left shoulder. Dr. Beachler also testified that the injury to Claimant’s left shoulder alone would have disabled him from performing his job.
+Thus there is substantial evidence to support the findings that Claimant was totally disabled as a result of disabling conditions which resulted from the original injury to his left forearm, but which extended to parts of the body other than the injured forearm. See Carnovale (claimant who' injured hand and was awarded specific loss benefits for the loss of that hand was, in addition, entitled to total disability benefits for injury to her wrist which was the result of a “shoulder-hand syndrome” caused by original hand injury).
+Because we conclude that there is substantial evidence to support the referee’s findings of fact, we must reverse the Board insofar as it awarded the Employer a credit for temporary total disability benefits paid to Claimant prior to April 1,1981. ' •
+"■ Accordingly, the Board’s order modifying the referee’s award is reversed and the referee’s award is reinstated. '
+Order
+And Now, August 9, 1985, that part of the order .of the Workmen’s Compensation Appeal Board, dated February 29, 1984, affirming the referee’s award is hereby affirmed. Insofar as the Board’s order awards Universal Cyclops a credit for temporary total disability .benefits paid to Claimant Howard Painter prior .to April 1, 1981,. we reverse the Board’s order and reinstate the referee’s award.
+Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §513.
