@@ -1,0 +1,19 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 778"
+decided: "1966-04-26"
+citations: ["207 Pa. Super. 784"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Reno Cafe, Incorporated Liquor License Case."]
+source_url: "https://static.case.law/pa-super/207/cases/0784-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 775179
+---
+
+# Reno Cafe, Inc. Liquor License Case
+
+## Majority
+
+Order affirmed.
