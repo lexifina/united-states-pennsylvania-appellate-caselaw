@@ -1,0 +1,39 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "46 Misc. Docket 1990"
+decided: "1990-06-27"
+citations: ["133 Pa. Commw. 587", "577 A.2d 229"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before McGINLEY and SMITH, JJ., and BARRY, Senior Judge.", "CRUMLISH, Jr., former President Judge, did not participate in the decision in this case."]
+parties: ["Mattie Morris FRISBY and Avery Lofton, Petitioners v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF PUBLIC WELFARE, Respondent."]
+source_url: "https://static.case.law/pa-commw/133/cases/0587-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1402945
+cites_cases: ["115 Pa.Commonwealth Ct. 542", "402 A.2d 1142", "43 Pa.Commonwealth Ct. 623", "476 U.S. 926", "797 F.2d 119"]
+---
+
+# Frisby v. Commonwealth
+
+## Majority (McGINLEY, Judge.)
+
+McGINLEY, Judge.
+The Department of Public Welfare (DPW) has asserted a preliminary objection, in the nature of a demurrer, to the petition for review filed by Mattie Morris Frisby and her son Avery Lofton (Petitioners) seeking injunctive relief. We grant the demurrer.
+In a proceeding separate but related to the present case, DPW, on October 15, 1987, refused to renew the personal care home license of Mattie Morris Frisby. Following an administrative hearing, DPW, by an adjudication dated May 5, 1989, denied Ms. Frisby’s appeal. Ms. Frisby then appealed to this Court, at No. 1070 C.D.1989, but failed to file a brief. Her appeal was therefore dismissed on January 11, 1990. Subsequently, DPW, by a letter dated January 29, 1990, ordered Ms. Frisby to close her home, known as the Morris Arms.
+On February 9, 1990, Petitioners initiated the present action by filing a complaint, deemed a petition for review, seeking to enjoin the closing of the home and to compel DPW to act on Mr. Lofton’s new application for a personal care home license authorizing him to operate the Morris Arms. DPW filed a preliminary objection in the nature of a demurrer and a counterclaim seeking to enjoin Petitioners’ unlawful operation of the personal care home.
+On February 28, 1990, Senior Judge Narick held a hearing on Petitioners’ request for the preliminary injunction. By an order dated March 1, 1990, Judge Narick refused to grant the injunction finding that Petitioners had not met the criteria set forth for the granting of such relief. Judge Narick made no ruling on DPW’s preliminary objection or counterclaim. The only issue currently before the Court is whether to grant DPW’s demurrer.
+We will not compel DPW to act upon Mr. Lofton’s application. In The Summit School, Inc. v. Department of Education, 43 Pa.Commonwealth Ct. 623, 402 A.2d 1142 (1979), the school filed a complaint in mandamus asking this Court to compel the Department of Education (Department) to act upon their application for approval of a special education program. We dismissed the complaint holding that the Public School Code did not require the Department to act upon the school’s application despite language directing an on-site inspection. Likewise, the Public Welfare Code contains no language which would require DPW to act on Mr. Lofton’s application despite language mandating an investigation prior to the issuance of a license.
+The Public Welfare Code provides, in relevant part, as follows:
+When, after investigation, the department is satisfied that the applicant or applicants for a license are responsible persons, that the place to be used as a facility is suitable for the purpose, is appropriately equipped and that the applicant or applicants and the place to be used as a facility meet all the requirements of this act and of the applicable statutes, ordinances and regulations, it shall issue a license and shall keep a record thereof and of the application.
+62 P.S. § 1007. Although this language requires DPW to issue a license when certain conditions are met, DPW must first conduct an investigation. There is, however, nothing in the Public Welfare Code which requires DPW to initiate an investigation.
+The Summit School case further indicates that the Department’s decision to withhold action is nonreviewable absent an abuse of discretion. At the hearing before Judge Narick, DPW provided sufficient justification for its inaction. Counsel for DPW explained that the agency first wanted to resolve the earlier litigation involving Ms. Frisby by closing the Morris Arms and relocating its residents. DPW’s concern is that, if it were to deny Mr. Lofton’s application before the home closed, it would enable Petitioners to operate the home without a license pending appeal. Petitioners are attempting to do indirectly what they failed to do directly. They admit in their complaint that building and fire code violations were not corrected in a timely fashion and that Mattie Morris Frisby and her son now seek a reevaluation of the Morris Arms in view of current conditions. DPW’s decision to withhold action is intended to effectuate the licensing requirements of the Public Welfare Code and is not an abuse of discretion.
+Moreover, DPW’s refusal to take action places Mr. Lofton in the same position as anyone else who applies for a new license. Mr. Lofton is trying to take advantage of the fact that his mother, for many years, operated a personal care home at the same address. However, he has no legal right to use this circumstance to his advantage. An applicant for a new license is not entitled to the same due process protections as an individual who is denied renewal of a preexisting license. See Lyng v. Payne, 476 U.S. 926, 106 S.Ct. 2333, 90 L.Ed.2d 921 (1986).
+Finally, as DPW notes, the Public Welfare Code does not expressly provide any time limit within which DPW must act on Mr. Lofton’s application. Although it may be implicit that DPW must act within a reasonable time, Petitioners have not alleged that a reasonable time has lapsed. Petitioners contend only that DPW has not acted. In any event, given the statutory requirement of an investigation and the problems presented by the earlier litigation, the six months which have elapsed since Mr. Lofton’s submission of his application on November 30, 1989 cannot be considered an unreasonable delay. See Ritter v. Cohen, 797 F.2d 119 (3d Cir.1986) (DPW’s twenty month delay for holding a hearing did not alone constitute a due process violation).
+Accordingly, we grant DPW’s demurrer and dismiss the petition for review.
+ORDER
+AND NOW, this 27th day of June, 1990, we hereby grant the preliminary objection filed by the Department of Public Welfare, in the nature of a demurrer, and dismiss the above-captioned petition for review.
+CRUMLISH, Jr., former President Judge, did not participate in the decision in this case.
+. Public School Code of 1949, Act of March 10, 1949, P.L. 30, as amended, 24 P.S. §§ 1-[ XXX-XX-XXXX ].
+. Public Welfare Code, Act of June 13, 1967, P.L. 31, as amended, 62 P.S. §§ 101 — 1411.
+. We note that Petitioners are seeking an equitable remedy despite the fact that they lack "clean hands.” Having lost her license to operate the Morris Arms due to numerous building and fire code violations, Mattie Morris Frisby now joins her son, as co-Petitioner, seeking to compel DPW to act on his new application for a license to operate a personal care home at the same address. "The ‘clean hands’ doctrine requires that the party seeking relief from the court have acted fairly and without fraud and deceit in the litigation at issue.” Fumo v. Redevelopment Authority, 115 Pa.Commonwealth Ct. 542, 550, 541 A.2d 817, 821 (1988). This doctrine thus precludes the granting of the equitable relief sought by Petitioners who are admittedly attempting to circumvent the requirements of the Public Welfare Code.
