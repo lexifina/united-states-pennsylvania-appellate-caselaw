@@ -1,0 +1,84 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 248 C.D. 1970"
+decided: "1972-10-17"
+citations: ["6 Pa. Commw. 392"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Mencer, Rogers and Blatt. President Judge Bowman did not participate."]
+parties: ["Pincus Brothers, Inc. v. Commonwealth."]
+source_url: "https://static.case.law/pa-commw/6/cases/0392-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1850576
+cites_cases: ["2 Pa. Commonwealth Ct. 270", "239 A. 2d 359", "273 A. 2d 750", "291 A. 2d 347", "429 Pa. 266", "5 Pa. Commonwealth Ct. 344"]
+---
+
+# Pincus Bros. v. Commonwealth
+
+## Majority (Judge Kramer,)
+
+Opinion by
+Judge Kramer,
+This is an appeal by Pincus Brothers, Inc. (Pincus), from a resettlement of Pincus’ corporate net income tax for the calendar year 1967 as determined by the Board of Finance & Revenue (Board). The Board’s determination came about as the result of a Petition for Review by Pincus of the resettlement as determined by the Department of Revenue.
+At the hearing held before this Court, a partial stipulation of facts was presented, received and filed, together with an agreement to trial without a jury. Said stipulation is accepted and utilized for purposes of this opinion. To fully comprehend our discussion, we set forth certain of the stipulated facts pertinent to this opinion, followed by additional findings of fact as developed in the record.
+Findings op Fact
+1. Pincus is a Pennsylvania corporation engaged in the business of manufacturing men’s clothing, with its principal office and plant in Philadelphia. Pincus duly filed its corporate net income tax report for the year ending 12-31-67. Said report showed, inter alia:
+Net Income to be allocated
+No. 1 $3,421,379 = .952479
+3,592,080
+No. 2 $3,722,882 = .933346
+3,989,819
+No. 3 $1,119,275 = .102504
+10,919,319
+1.988329
+$325,103.00
+Divided by three allocated net income Less: Additional depreciation
+Net Income Tax at 7 %
+.662776
+215,470.00
+32,557.00
+182,913.00
+$ 12,804.00
+2. By settlement mailed to Pincus on July 31,1968, the Department of Revenue and Department of Auditor General computed Pincus’ corporate net income tax for 1967, disallowing the additional depreciation deduction claimed by it and otherwise accepting the report as filed. The result of this computation was a tax of $15,082.93.
+3. After resettlement by the Department of Revenue, on Petition for Review, the Board of Finance and Revenue finally resettled Pincus’ tax return as follows:
+3,680,261
+3,807,962
+3,855,343
+3,989,819 x $345,513 less $32,557 — 50% additional depreciation
+8,588,717
+10,919,319
+Tax due $19,644.11
+4. The parties agree tliat the correct computation of the first fraction of the formula should be as resettled, i.e., 3,680,261, that the corporation is entitled
+3,807,962
+to the $32,557 additional depreciation deduction.
+The following findings of fact are derived from the record made at the hearing before this Court, all of which are applicable to the calendar year 1967:
+5. Pincus employed approximately 750 people at its plant and offices located in Philadelphia.
+6. Pincus leased approximately 1500 square feet of space in a building located in New York City, New York, where approximately 90% of all of the manufactured men’s suits are displayed by manufacturers in the United States. This leased space was used for showroom and office purposes.
+7. Pincus also leased storeroom facilities, known as Bill Blass, in New York City for the purpose of retail sales. This operation is not a problem in this case.
+8. Pincus employed approximately eight full-time employees in its New York City showroom-office facilities.
+9. David Pincus, Vice President and Sales Manager of Pincus, travelled, almost daily, from his office or home in Philadelphia to New York City, where he worked at the showroom-office facilities from between four to four and one-half days per week.
+10. Pincus paid wages amounting to $134,476.09 to the eight New York City employees, all of whose wages were reported to the State of New York for unemployment compensation. The wages of all other Pincus employees were reported to the Commonwealth of Pennsylvania for unemployment compensation. All of Pincus’ employees were paid from the Philadelphia office.
+11. Pincus employed fifteen salesmen-employees who were assigned territories delineated by state. All fifteen salesmen-employees were reported to the Commonwealth of Pennsylvania for unemployment compensation purposes. Neither Pincus nor David Pincus made any state income tax return to the State of New York.
+12. The salesmen-employees of Pincus made sales at the New York showroom-office of Pincus and also in their respective territories. Some of the orders, written by the salesmen-employees, were directed to the New York office of Pincus and some were sent directly to the Philadelphia office.
+13. All orders of salesmen-employees which were directed to Pincus’ New York office were given preliminary approval by David Pincus, and thereafter sent to the Philadelphia office of Pincus for final approval, credit check, fulfilling, billing and payment. In addition there were some house accounts, all facets of which transactions were carried out in the Philadelphia office.
+14. All the expenses for the New York showroom-office of Pincus were paid by Pincus. Pincus did not maintain any offices other than those mentioned, in Philadelphia and New York City.
+15. Under the stipulation both the numerator and denominator of the first fraction of the allocation formula pertaining to tangible property, as set forth in the resettlement, and approved by the Board are accepted and not at issue. The denominators of the second and third fractions of the formula pertaining to wages and gross receipts, respectively, were stipulated to and are accepted.
+Discussion
+The two-part question which has been presented to this Court is, (a) Whether the numerator of the second fraction of the formula should include the salaries and commissions of all the salesmen-employees and the salary of David Pincus, and (b) whether the numerator of the third fraction of the formula should include the gross receipts derived from all of the sales made by Pincus’ salesmen-employees?
+In determining this matter de novo before this Court, the burden of proving that such commissions and salaries, and gross receipts should be deducted from the respective numerators is placed upon the taxpayer in an appeal under Section 1104 of The Fiscal Code, Act of April 9, 1929, P. L. 343, as amended, 72 P.S. §1104. See Commonwealth v. Stretchnit, Inc., 2 Pa. Commonwealth Ct. 270, 273 A. 2d 750 (1971).
+The Corporate Net Income Tax Act, Act of May 16, 1935, P. L. 208, as amended, 72 P.S. §3420a et seq., provides in Section 3 (72 P.S. §3420c) : “Every corporation shall be subject to, and shall pay for the privilege of doing business in this Commonwealth, or having capital or property employed or used in this Commonwealth, ... a State excise tax at the rate of six [ (6%) ] per centum per annum upon each dollar of net income of such corporation. . . .” The taxing statute continues at 72 P.S. §3420b-2: “In case the entire business of any corporation, ... is not transacted within this Commonwealth, the tax imposed by this act shall be based upon such portion of the net income of such corporation for the fiscal or calendar year, ... as may be determined by allocations and apportionments made as follows____” The taxing statute then defines the three fractions used in allocating under the formula. With reference to wages and salaries, the statute states in clause 2, subsection (c)(2) (72 P.S. §3420b-2(c) (2)) : “Of one-third, such portion shall be attributed to business carried on within the Commonwealth, as shall be found by multiplying said one-third by a fraction, whose numerator is the expenditures of the corporation for wages, salaries, commissions and other compensation to its employes, and assignable to this Commonwealth as hereinafter provided, and whose denominator is the total expenditures of the corporation for wages, salaries, commissions, and other compensation to all its employes.” Subsection (c)(3) (72 P.S. §3420b-2(c) (3)) states: “Of the remaining third, such portion shall be attributed to business carried on within the Commonwealth, as shall be found by multiplying said third by a fraction, whose numerator is the amount of the taxpayer’s gross receipts from business assignable to this Commonwealth as hereinafter provided, and whose denominator is the amount of the taxpayer’s gross receipts from all its business. . . .” The taxing statute then continues with the. definition of which wages, salaries, commissions and gross receipts are intended to be included in the numerator:
+“The amount assignable to this Commonwealth of expenditures of the corporation for wages, salaries, commissions, or other compensation to its employes, shall be such expenditures for the taxable year as represent the wages, salaries, commissions, or other compensation of employes, not chiefly situated at, connected with, or sent out from, premises for the transaction of business maintained by the corporation outside the Commonwealth.
+“The amount of the corporation’s gross receipts from business assignable to this Commonwealth shall be, (1) the amount of its gross receipts for the taxable year except those negotiated or effected in behalf of the corporation by agents or agencies chiefly situated at, connected with, or sent out from, premises for the transaction of business maintained by the taxpayer outside of the Commonwealth. . . .”
+Pincus contends that because the salesmen-employees’ orders are for the most part transmitted through the New York office of Pincus, all of their commissions and salaries should come within the exemption stated in the taxing statute as quoted herein-before. Pincus also argues that because David Pincus spends most of his working hours in the New York office, his salary (of f60,000.00 per year (1967)) should likewise come within the exemption. Pincus’ argument fails, even though the nature of the business requires that Pincus maintain showroom facilities in New York City. Pincus does not recognize the salesmen-employees nor David Pincus as being subject to any of the New York State Income Tax Laws. All of their unemployment compensation benefits are derived under the laws of this Commonwealth through Pincus’ acknowledgement of the Commonwealth of Pennsylvania as its base of operation. It seems clear from the record that if it were not for the nature of the men’s clothing business, whereby almost all of the leading manufacturers display their goods to prospective purchasers in one building in the City of New York, the entire operation of Pincus would be maintained at Philadelphia. With the singular exception of the initial processing of orders at the showroom-office of Pincus in New York City, every other facet of the transaction involving the ordering, sales, manufacture, billing and payment is done in Philadelphia. David Pincus testified that the salesmen-employees call Mm in New York City to make inquiries about sales or orders. The reason they call Mm in New York is obvious; he is there four or four and one-half days per week. It is likewise obvious that if the salesmen-employees desire to obtain such information or clearance from David Pincus the one or one-half day he is in Philadelphia, they call him in Philadelphia. With the exception of the wages of the New York employees, who work at the New York showroom-office, all of the wages and salaries of the salesmen-employees should be included in the numerator of the second fraction of the formula, inasmuch as they are not employees chiefly situated at, connected with, nor are they sent out from the company’s New York office. David Pincus’ testimony clearly discloses that he is cMefly connected with and sent out from the Philadelphia office, even though he spends most of Ms working hours in New York.
+In view of our holding on salaries and commissions, it likewise follows that all of Pincus’ gross receipts attributable to its salesmen-employees located in the various states outside Pennsylvania (except New York direct sales noted below) should be included in the numerator of the third fraction of the formula. These gross receipts were not negotiated or effected in behalf of Pincus by their agents situated at or connected with New York, nor were these agents sent out from premises in New York for the transaction of business. The Board of Finance & Revenue has properly eliminated all gross receipts from sales made by salesmen in the New York office, which amounted to $2,330,602.00. This Court in the case of Blumenthal Bros. Choc. Co. v. Commonwealth, 5 Pa. Commonwealth Ct. 344, 291 A. 2d 347 (1972), stated: “In Commonwealth, Appellant, v. General Foods Corporation, 429 Pa. 266, 239 A. 2d 359 (1968), the Supreme Court makes the point that allocation inside or outside Pennsylvania must turn on a factual conclusion as to the ‘office connection’ of the agents who negotiated and effected the sales.” 5 Pa. Commonwealth Ct. at 349-350, 291 A. 2d at 349-350. In this case, we hold as a factual conclusion that the office connection of Pincus’ salesmen-employees, save those actually working in New York, was with the Philadelphia office, and therefore all of those gross receipts represented by their orders and sales should be included in the numerator of the third fraction of the formula.
+We recognize this to be a close question, and we have found no Pennsylvania case directly on point. It seems clear to us, from the record established in this case, that Pincus intended the New York showroom-office to be a necessary and integral part of its business of obtaining orders for the manufacture of men’s suits. However, in its accounting and tax approach, Pincus has assumed for unemployment compensation benefits and for other taxing purposes that Pennsylvania was the place of business for its entire sales operation. With the exception of the initial processing and transmitting the orders, every other facet of its operation is in Philadelphia. Therefore the resettlement as found by the Board of Finance & Revenue must be affirmed.
+Conclusions of Law
+1. This Court has jurisdiction under the Appellate Court Jurisdiction Act, Act of July 31, 1970, P. L. 673, 17 P.S. §211.403.
+2. Pincus Brothers, Inc. is subject to the payment of the Pennsylvania Corporate Net Income Tax Act, Act of May 16, 1935, P. L. 208, as amended, 72 P.S. §3420a et seq., for the year 1967.
+3. The salesmen-employees (not restricted solely to New York City) and David Pincus are not employees chiefly situated at, connected with, or sent out from the premises for the transaction of business maintained by Pincus outside the Commonwealth of Pennsylvania, and therefore all of their salaries and commissions should be included in the numerator of the second fraction of the allocation formula to determine the Pennsylvania corporate net income tax due for the year 1967.
+4. The gross receipts derived through the salesmen-employees of Pincus, whose orders are sent either through the New York showroom-office of Pincus, or directly to its Philadelphia office, are not gross receipts derived, negotiated or effected in behalf of Pincus by its agents chiefly situated at, connected with, or sent out from, premises for the transaction of business maintained by Pincus outside the Commonwealth of Pennsylvania, and therefore all such gross receipts should be included in the numerator of the third fraction of the allocation formula to determine the Pennsylvania corporate net income tax due for the year 1967.
+5. That the resettlement of the 1967 Pennsylvania corporate income tax of Pincus, as set forth in its determination from which this appeal was taken, properly discloses the corporate net income tax due from Pincus for the year 1967 in the amount of $19,644.11.
+Order
+And Now, this 17th day of October, 1972, judgment is hereby entered in favor of the Commonwealth of Pennsylvania and against Pincus Brothers, Inc., in the amount of $19,644.11, together with interest and costs which shall be paid accordingly unless exceptions are filed within thirty (30) days from the date hereof. The Prothonotary of the Commonwealth Court of Pennsylvania is hereby directed to serve a copy of this Order upon the parties by personal service or by U. S. registered mail service.
+Our computation of the above stipulated statistics indicates a tax due of $19,857.51; but we assume that for reasons unexplained the Commonwealth is willing to stipulate to the lower figures.
