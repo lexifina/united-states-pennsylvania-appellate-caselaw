@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 75"
+decided: "1927-03-03"
+citations: ["90 Pa. Super. 170"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, P. J., Henderson, Trexler, Keller, Linn and Cunningham, JJ."]
+parties: ["East Broad Top Railroad and Coal Company, Appellant, v. Commissioners of Huntingdon County."]
+source_url: "https://static.case.law/pa-super/90/cases/0170-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 671995
+cites_cases: ["183 Pa. 618", "222 Pa. 319", "255 Pa. 17", "283 Pa. 220", "30 Pa. 232", "51 Pa. Superior Ct. 158", "53 Pa. Superior Ct. 388", "56 Pa. Superior Ct. 307", "60 Pa. Superior Ct. 420", "83 Pa. Superior Ct. 535"]
+---
+
+# East Broad Top Railroad & Coal Co. v. Commissioners of Huntingdon County
+
+## Majority (Linn, J.,)
+
+Opinion by
+Linn, J.,
+Appellant claimed exemption from local taxation for what it calls its coal transfer plant, assessed by Mount Union Borough at $25,000 for 1925. On appeal, the county commissioners refused to change the assessment. On appeal from the action of the commissioners, the common pleas held that so much of the plant as was in fact the transfer plant was exempt, but that a portion of it, described in the record as a ‘ ‘ picking table,” was subject to local taxation, assessed it at $5,000 and ordered exemption for the transfer plant. This appeal is from that assessment.
+Appellant contends that the entire structure is exempt. The structures and their uses are thus described in appellant’s history of the case: “The new structure, extending about one hundred feet along the tracks by about one hundred and fifty feet across the tracks, was built of steel and concrete, is operated by electricity and is known as an apron conveyor transferring plant. The run-of-mine coal is dumped from the narrow guage cars into concrete pits on to an apron conveyor, by which it is conveyed to a plate and then passes to a loading boom where it is delivered into the standard guage cars. If any coal operator along the line of appellant’s railroad wishes a portion of his run-of-mine coal to be screened and picked over to remove slate and other impurities, such run-of-mine coal, when it reaches the plate, above referred to, is switched over certain screens and then passed to the picking tables and loading boom. The passing of the run-of-mine coal over said screens results in a coal of graded sizes for domestic use, free of slack. The picking out of the slate, etc., as the coal passes over the picking-tables was done by hand labor, and included mine run as well as screened coal.”
+Only one witness was called; he testified that screening and picking the slate are operations distinct from the transfer of the coal from narrow guage into standard guage cars; and that appellant “charged only for the labor that they [appellant] used in screening and preparing the coal.” Those two facts are important.
+Appellant was incorporated by the Act of April 16, 1856 (1857 P. L. 781) to construct and operate a railroad and also to mine and market coal. The fact that it was incorporated for two purposes when that was still possible, is apparently at the bottom of its contention here that as the structure enabled it to perform services authorized by its charter, its real property used for corporate purposes was exempt from local taxation. These services are screening the coal and picking the slate; the corporate power so to prepare the coal for market is not questioned, but that does not confer exemption. The right to tax exemption must be clear: Adams Exp. Co. v. Harrisburg, 60 Pa. Superior Ct. 420, 423. It is the service render.ed by a quasi public corporation that brings exemption. Mining companies pay local taxes on their land and mines (Lehigh Valley Coal Co. v. Luzerne Co., 255 Pa. 17) and on physically annexed equipment used in mining (Pittsburgh Terminal Coal Co., Appeals, 83 Pa. Superior Ct. 535); dwelling houses erected by a quasi public corporation for the accommodation of its workmen are locally taxable: Gas Co. v. Chester Co., 30 Pa. 232. The mere fact that appellant was incorporated to conduct a railroad business — a public service, — and also to mine coal, — a private service — no more exempts its mining property from local taxation than the taxability of its mine removes the exemption enjoyed by the railroad part of it as a quasi public company. The right to exemption inheres only in what is reasonably essential to the performance by a quasi public corporation of its public duties; a coal mining company is not in that class nor does the exercise of the corporate power to mine coal and prepare it for market constitute the performance of such public service merely because done by a company also enjoying the public franchise of operating a railroad; no franchise from the Commonwealth to carry on a mining business is needed.
+The machinery necessary to transfer from narrow guage to standard guage ears is of course part of the transportation plant used in the public service and was 'therefore properly exempted by the court below, but the incidental construction and operation in connection with the transfer machinery of the plant to screen coal and pick out the slate is not an act of transportation or of public service within the well known rule of exemption; see P. & L. E. R. R. v. Allegheny Co., 283 Pa. 220; W. N. Y. & P. R. R. v. Venango Co., 183 Pa. 618; Phillips Co. v. Butler Co., 51 Pa. Superior Ct. 158, 161; Savidge on Pennsylvania Corporations, 2nd Ed., Vol. 2, Sec. 1383 and notes.
+Judgment affirmed.
