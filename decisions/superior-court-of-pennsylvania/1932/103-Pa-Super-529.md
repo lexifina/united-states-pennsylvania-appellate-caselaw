@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 241"
+decided: "1932-01-28"
+citations: ["103 Pa. Super. 529"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Tkexler, P. J., Keller, Linn, Gawthrop, Cunningham and Baldrige, JJ."]
+parties: ["Baione v. Heavey, Appellant."]
+source_url: "https://static.case.law/pa-super/103/cases/0529-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 697251
+cites_cases: ["100 Pa. Superior Ct. 359", "203 N. Y. Supp. 421", "206 N. Y. App. Div. 6", "211 Ala. 525", "45 Pa. Superior Ct. 216", "6 Pa. 417", "66 Pa. Superior Ct. 583", "95 Okla. 294", "95 Pa. Superior Ct. 43"]
+---
+
+# Baione v. Heavey
+
+## Majority (Linn, J.,)
+
+Opinion by
+Linn, J.,
+Defendant appeals from judgment in trespass for negligently caring for plaintiff’s automobile. The case was tried by a judge without a jury.
+Defendant is lessee of a lot of ground at the northeast corner of 20th and Market Streets in Philadelphia, 158 feet on Market Street, 180 feet on 20th Street and 158 feet on Commerce Street; the eastern boundary is the brick wall of a building. On this lot, which is unfenced, defendant conducts the business of parking automobiles. On May 22, 1930, plaintiff drove his ear into one of the regular entrances to the lot at 9 P. M., and delivered it to one of defendant’s employees stationed there for the purpose of receiving cars. This employee collected from plaintiff a charge of $.35 and handed to plaintiff a receipt or ticket which was read into the record by a witness as follows: “Parking space, Northeast corner 20th and Market Streets, Philadelphia. Never closed. ‘D’ aisle, 18.05. May 22nd. Cash register No. 1916.” “And it says”: “Charges are for use of parking space only and management assumes no liability of any kind.” On the other side it says: “Other spaces, 1815 Market Street.”
+Defendant’s employee then took possession of the car and placed it in “ ‘D’ aisle,” along the brick wall on the east side of the lot. At about 11 o’clock, when plaintiff called for his car and surrendered the receipt to the defendant’s employee, the car could not be found; it had disappeared. About two weeks afterward it was found in Camden, N. J., in a damaged condition. Plaintiff took possession of it, had it repaired at a cost of $194.70, for which sum the learned court below found in his favor.
+Appellant’s argument takes a wide range; he contends that the relation of the parties was that of landlord and tenant and not bailor and bailee; that defendant is relieved from liability by the terms of the receipt; that there was no evidence of negligence in caring for the car; that if there was negligence, it was not the proximate cause of the damage.
+Before dealing with these contentions, we shall refer to other evidence in the record describing the relation of the parties in the circumstances. Plaintiff had parked his car with defendant “40 or 50 times” before, and was familiar with his method of doing business. When the car is delivered, he said, “they take your car and you leave the key there so they can move the ear where they want to.” Plaintiff said he did not read what was on the ticket, but we consider the case as though he had read it. Defendant had seven employees beside his manager at work, and he was also present on the evening in question. He handled as many as 600 cars a day and could accommodate 250 cars at once. He said his employees put away the cars when they were delivered at any one of the three entrances to the lot, and, on demand and surrender of the ticket they get the ear from wherever they had placed it. He was asked “Are these attendants, which you have, supposed to look after and take care of the cars as they come in and go out?” and replied “We take the attitude that we are there to give everything in us, to park the car and look after it, but we assume no responsibility. ’ ’ He said that while there were but three entrances at which cars were received, cars were not required to go out by any particular exit, but might cross the sidewalks anywhere along Market, Commerce or Twentieth Streets.
+Now, with that evidence, in addition to the ticket, to show the relation of the plaintiff and defendant in the transaction in question it is clear that it was not that of landlord and tenant (compare Bash v. Reading Cold Storage and Ice Company, 100 Pa. Superior Ct. 359, 362) but that defendant was the bailee of plaintiff’s car: Gordan et al. v. Gershman, 95 Pa. Superior Ct. 43; Kleckner v. Hotel Strand, 60 Ibid 617; Hare v. Mulligan, 77 Ibid 577; Vannatta v. Tolliver, 82 Ibid 546; Moss v. Jannetti Body Company, 101 Ibid 1; McKnight v. Snellenburg and Company, 80 Ibid 147; Underberg v. Stewart, 86 Ibid 106.
+The terms of defendant’s service stated on the check or ticket, in view of the other evidence on the subject, do not represent all the terms of the contract of, or relation between the parties, but if they did, defendant could not thereby obtain immunity from the consequences of the negligence of himself or his servants: Doyle v. Central Railroad Company of N. J., 45 Pa. Superior Ct. 216, 224.
+Nor have we any doubt that the evidence was sufficient to justify the trier of fact to find that defendant was negligent in the care of the car. When plaintiff presented the ticket, it was defendant’s duty to obtain the car from the place where his employee had put it, and, deliver it to plaintiff; he could not deliver it, nor could he explain what had become of it consistently with the performance of the duty assumed by him in the circumstances, (compare Logan v. Mathews, 6 Pa. 417; Duffy’s Garage v. Sweeley, 66 Pa. Superior Ct. 583, and other cases cited above).
+The remaining objection that defendant’s negligence was not the proximate cause of the damage is without force. The evidence does not show how the car was damaged. Plaintiff says he heard that the car had been used “for hold up purposes” and was in Camden, N. J.; that when he claimed it there, it “was not in running condition” and required the repairs made, though it was in good condition when delivered by him to defendant’s employee. The negligence was a substantial element in producing the damage for which recovery is sought, and has been frequently so held by this court: Vannatta v. Tolliver, supra; Underberg v. Stewart, supra; Gordan v. Gershman, supra.
+The judgment is affirmed.
