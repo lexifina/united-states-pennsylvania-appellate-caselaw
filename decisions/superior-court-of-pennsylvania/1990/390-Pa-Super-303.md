@@ -2,7 +2,7 @@
 court: "Superior Court of Pennsylvania"
 docket: "3245"
 decided: "1990-01-12"
-citations: ["390 Pa. Super. 303", "568 A.2d 665", "406 Pa. Super. 351", "594 A.2d 373"]
+citations: ["390 Pa. Super. 303", "568 A.2d 665"]
 reporter: "pa-super"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
