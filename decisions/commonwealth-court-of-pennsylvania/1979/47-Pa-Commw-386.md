@@ -1,0 +1,30 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2496 C.D. 1978"
+decided: "1979-11-21"
+citations: ["47 Pa. Commw. 386"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogers, DiSalle and Craig, sitting as a panel of three."]
+parties: ["Mary Matteo, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/47/cases/0386-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1903592
+cites_cases: ["188 A.2d 753", "32 Pa. Commonwealth Ct. 48", "353 Pa. 292", "377 A.2d 1062", "410 Pa. 229", "45 A.2d 8"]
+---
+
+# Matteo v. Commonwealth
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+Mary Matteo was discharged from her employment as a supermarket cashier for unauthorized absence from work. At the request of her union the employer reinstated her and then granted her a leave of absence. She failed to return to work on the date of expiration of the leave scheduled by the employer and the union. About a month after she was scheduled to return she learned that her employer had removed her from its roll of workers.
+Ms. Matteo applied for unemployment compensation. The Office of Employment Security declared her to be ineligible as a voluntary quit, and by notice dated October 21, 1977 so informed her. The notice included a statement that the last date for her to file an appeal from the determination was November 7, 1977.
+The local office of the Office of Employment Security at which Ms. Matteo applied for benefits received no appeal from its October 21, 1977 determination by Ms. Matteo until January 26,1978, when she appeared at the local office in person and submitted an appeal. Ms. Matteo declared on the occasion of the January 26, 1978 visit that she had mailed an appeal to the local office shortly after October 21, 1977 and before November 7, 1977. The Board of Review then provided Ms. Matteo with a hearing on the issue of the timeliness of her appeal. A referee conducted a hearing and took testimony on the issue of timeliness. Without then rendering a decision on this issue the referee conducted a second hearing at which the merits of Ms. Matteo’s claim were explored. The referee filed a decision in which she found that Ms. Matteo had filed a timely appeal but that she was nevertheless ineligible to receive compensation because she had failed to keep in touch with her employer during and after her leave of absence and had thus voluntarily abandoned her employment. Ms. Matteo appealed this decision to the Board of Review, which heard oral argument with Ms. Matteo present. The Board found that Ms. Matteo did not file an appeal from the Office of Employment Security’s determination until January 28,1978, and dismissed the appeal. The Board did not consider the merits.
+In her appeal to this court Ms. Matteo contends that the Board erred when it disregarded her testimony that she had mailed a timely appeal from the October 21, 1977 determination of the Office of Employment Security; that she had recorded a return address on her mailing; and that the mailing had not been returned to her. The Board of Review is-the fact finder in unemployment compensation cases; and its findings, when, as here, adverse to the party with the burden of proof, may be disturbed only if arrived at by an arbitrary or capricious disregard of the evidence. Hanin v. Unemployment Compensation Board of Review, 32 Pa. Commonwealth Ct. 48, 377 A.2d 1062 (1977). Our review of this record impels us to conclude that the Board’s unwillingness to accept Ms. Matteo’s testimony concerning the mailing of an appeal was neither arbitrary nor capricious. Her testimony was uncorroborated; no mailed appeal was ever received by the local office; and Ms. Matteo made no inquiry at the local office for almost three months after she assertedly mailed an appeal. Her visit to the local employment office followed closely a visit she made to an attorney at Community Legal Services who asked her if she had appealed. Moreover, at the referee’s hearing on the merits Ms. Matteo testified that the union representatives who in May 1977 negotiated the leave of absence with the employer never informed her of its expiration date; but the union people were not produced. The employer’s evidence was that the date agreed to between it and the union acting for Ms. Matteo for the termination of the leave was July 31, 1977. Ms. Matteo lived only six blocks from her former place of employment and never inquired there as to when she was expected back.
+Ms. Matteo’s counsel attempts to erect an argument founded on the principle that a letter properly mailed is presumed to have been received. The question here, however, was not whether the appeal was received but whether it was mailed. There is no presumption applicable to the latter determination. Paul v. Dwyer, 410 Pa. 229, 188 A.2d 753 (1963). The case of Verecchia v. DeSiato, 353 Pa. 292, 45 A.2d 8 (1946), is instructive. There the clerk for an insurance company testified that a cancellation notice was duly prepared, the envelope properly addressed, postage affixed, and the notice deposited in the United States mail. At the trial the court gave binding instructions in favor of the insurance company on the ground that nó dispute of fact existed for the decision of the jury. The Supreme Court affirmed the lower court’s grant of a new trial on the ground that although the insurance company’s evidence of mailing was strong, an issue of whether the notice had in fact been given remained, writing: “In other words, the credibility of the clerk’s testimony with reference to the notice and the mailing of it was for the jury.” 353 Pa. at 296, 45 A.2d at 10. In this case the credibility of Ms. Matteo’s testimony with reference to sending her appeal was for the Board of Beview.
+Order affirmed.
+Order
+And Now, this 21st day of November, 1979, the order of the Unemployment Compensation Board of Beview made September 19, 1978 is affirmed.
