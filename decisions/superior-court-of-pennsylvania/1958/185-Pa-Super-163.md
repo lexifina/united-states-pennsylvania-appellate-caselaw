@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 155"
+decided: "1958-01-21"
+citations: ["185 Pa. Super. 163"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Gunther, Wright, Woodside, Ervin, aud Watkins, JJ."]
+parties: ["Jones et vir, Appellants, v. Sanitary Market Company."]
+source_url: "https://static.case.law/pa-super/185/cases/0163-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 738589
+cites_cases: ["102 A. 2d 204", "130 A. 2d 212", "132 A. 178", "136 A. 2d 155", "137 Pa. Superior Ct. 41", "148 A. 40", "174 Pa. Superior Ct. 498", "183 Pa. Superior Ct. 148", "184 Pa. Superior Ct. 559", "285 Pa. 378", "298 Pa. 142", "356 Pa. 494", "52 A. 2d 177", "8 A. 2d 437"]
+---
+
+# Jones v. Sanitary Market Co.
+
+## Majority (Hirt, J.,)
+
+Opinion by
+Hirt, J.,
+In mid-afternoon of March 13, 1954, the plaintiff entered the defendant’s market house from the Green Avenue entrance in the City of Altoona. She had been buying meat and vegetables in this market for eight years and in general was familiar with it and the manner of its operation. She had proceeded about 8 or 10 feet from tlie entrance when according to her testimony she slipped and fell on to the cement aisle between the stands or stalls. The aisle was 5 to 7 feet in width. She testified that it was a banana skin that “threw” her and the “banana skin was about 3 inches long and about l/16th of an inch wide.” The plaintiff was helped to her feet by a woman in charge of a nearby produce stand and was later assisted to her home, nearby, by the manager of the market. Plaintiff testified that she ivas injured by her fall. At the close of the proofs, the court affirmed a point for binding instructions and directed a verdict for the defendant. This is the plaintiff’s appeal from the judgment for defendant entered thereon. The judgment will be affirmed.
+The plaintiff testified that although she watched where she was going she did not see the piece of banana peel on the floor of the aisle before she fell. And she attributes her fall to the banana peel, only for the reason “It was on the tip of [her] shoe” where she said she first observed it, after she had fallen. No other witness testified to seeing the piece of banana peel either before or after the plaintiff fell. And the only evidence as to its size came from the plaintiff herself as above noted and again on cross-examination, as follows: “Q. You said, I believe, it was how long? A. About 3 inches I judge. I would say about like that. (Indicating with hand gestures.) Q. And how wide? A. As close as I can say about l/16th of an inch. Q. Would you still say it was a banana skin or banana stem? A. It was a banana skin. Q. You are sure of that? A. Yes I am.”
+The mere fact that the plaintiff may have fallen in the aisle of defendant’s market does not in itself charge the defendant Avith negligence; res ipsa loquitur-does not apply. Markman v. Bell Stores Co., 285 Pa. 378, 132 A. 178. A plaintiff in a case such as this is required to show not only negligence on the part of the defendant but that the injuries complained of were the result of that negligence. Hillelson v. Renner, 183 Pa. Superior Ct. 148, 130 A. 2d 212. The familiar and well settled principles of law applicable to this class of cases are discussed by Judge Wright in Stais v. Sears-Roebuck and Co., 174 Pa. Superior Ct. 498, 102 A. 2d 204. In the present case the plaintiff attempts to charge the defendant with negligence from the presence of a mere shred of banana peel 3 inches long, l/16th of an inch wide. This small piece of banana peel in the aisle was not conspicuous; the plaintiff did not see it although she was giving attention to the aisle in front of her as she walked. Perhaps for the same reason the market manager whose duty it was to patrol the aisles, may also be excused from having failed to see it. However that may be we are of the opinion that the presence of this bit of vegetable matter in the aisle was too insignificant to charge the defendant with negligence under any circumstance. By analogy with the principles of our sidewalk negligence cases (Cf. German v. McKeesport City, 137 Pa. Superior Ct. 41, 8 A. 2d 437) we may take it to be the law that the aisles of a produce market need not be kept absolutely clean at all times; their maintenance in a reasonably safe condition is all that is required.
+But regardless of the validity of the above conclusion the plaintiff still has not met the burden on her of proving negligence. There is nothing whatsoever in her testimony when viewed in its most favorable light nor in the testimony of any other witness as to how long the offending substance had been in the aisle nor where it had come from; and there is no evidence in the case from which it may be inferred that the defendant had either actual or constructive notice'of the piece of banana peel in the aisle. It was necessary for the plaintiff to prove that the condition had existed at least long enough to charge defendant with constructive notice of it. Cf. Franz v. Peccalaio, 356 Pa. 494, 52 A. 2d 177; Gorman et ux. v. Brahm’s Sons, Inc., 298 Pa. 142, 148 A. 40. The present appeal has much in common with Davidson et ux. v. Upland Boro, 184 Pa. Superior Ct. 559, 136 A. 2d 155 and is ruled by the principles of law there reviewed. We need not repeat here what we there said.
+Judgment affirmed.
