@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 17"
+decided: "1949-07-15"
+citations: ["165 Pa. Super. 60"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Diti-irich, Arnold and Fine, JJ. (Ross, J., absent)."]
+parties: ["Sobotowich v. Sobotowich, Appellant."]
+source_url: "https://static.case.law/pa-super/165/cases/0060-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 467321
+cites_cases: ["145 Pa. Superior Ct. 460", "154 Pa. Superior Ct. 154", "155 Pa. Superior Ct. 102", "158 Pa. Superior Ct. 378", "164 Pa. Superior Ct. 108", "21 A. 2d 415", "35 A. 2d 551", "357 Pa. 125", "38 A. 2d 364", "45 A. 2d 231", "53 A. 2d 89", "63 A. 2d 691"]
+---
+
+# Sobotowich v. Sobotowich
+
+## Majority (Hirt, J.,)
+
+Opinion by
+Hirt, J.,
+The parties to this action were Russian born; they were married in Philadelphia in 1917 and lived there until the separation on December 9,1942. Both the master and the lower court found the respondent chargeable with desertion of her husband as of that date and a decree of divorce was entered on that ground. The issues are wholly of fact involving questions of credibility. From our consideration of the evidence we find ourselves in agreement with the master and the lower court. The decree will be affirmed.
+The parties had been employed in a small club in Philadelphia for about two years as janitor and cook. They lived on the premises. Their differences arose w lien one Kurmurko, president of the club, lost his wife. He then began to frequent the club daily where respondent prepared meals for him. There were signs that the friendliness between Kurmurko and respondent was developing into intimacy, endangering the marriage. Libellant determined to move from the club. He rented a suitable furnished apartment on West Girard Avenue in Philadelphia and requested respondent to leave the club and join him there. She refused, stating in effect that she was happily situated at the club and intended to remain there. Libellant left her in the club on December 9, 1942, and lived alone in the West Girard Avenue apartment until early in 1944. Meanwhile he requested her to join him on at least three other occasions and in each instance she refused indicating that she intended to remain in the club. In March 1945 at a hearing in domestic relations court the libellant again repeated his offer of reconciliation. And on the agreement of the respondent to return to him he rented another apartment on North Franklin Street in Philadelphia. When she inspected the apartment however she refused to join him there on the ground that the rooms were not fit to live in. In the summer of 1946 respondent left the club and went to live in Kurmurko’s house with the status there of housekeeper.
+It is the duty of the husband to provide a home according to his means and his choice is controlling if exercised in good faith, and it is encumbent upon a wife in such circumstances to abide by his selection and live with him. Fuller v. Fuller, 158 Pa. Superior Ct. 378, 45 A. 2d 231. Libellant is a tinsmith and the apartments which he rented were appropriate to his means. His proofs in our judgment also support the conclusion that his choice of a home away from the club on both occasions was made in good faith. And in our view respondent has not avoided the charge of desertion by proof that her refusal to follow her husband ivas upon justifiable cause. Cf. Pfeifer v. Pfeifer, 154 Pa. Superior Ct. 154, 35 A. 2d 551.
+In March 1944 libellant moved from the West Girard Avenue apartment and rented a room' in the rooming house of one Anna Sadowski, a widow, in Philadelphia. Respondent contends that the relationship between this woman and her husband had been adulterous and that he was the father of an illegitimate child born to her in April 1944. Of course there was no obligation on the respondent to return to her husband during the period of an adulterous relationship with another woman. Copeland v. Copeland, 155 Pa. Superior Ct. 102, 106, 38 A. 2d 364; Dash v. Dash, 357 Pa. 125, 130, 53 A. 2d 89. Cf. Commonwealth ex rel. Cartmell v. Cartmell, 164 Pa. Superior Ct. 108, 63 A. 2d 691. But in our view the respondent has not met the burden of proving justification for her continued separation from libellant on that ground. It is significant, on the question of respondent’s credibility, that while she testified that libellant had been intimate with the Sadowski woman, yet she never advanced that as a reason for her refusal to live with him. Respondent according to her testimony was willing to resume marital relations with her husband during the statutory period but only on the condition that he return to the club and live with her there. She was unwilling to live with him elsewhere.
+In this case the' testimony of libellant and his witnesses is denied by the respondent and her witnesses in almost every detail. Our acceptance of libellant’s proofs as true is supported by the master’s appraisal of this testimony. He said: “The Master was favorably impressed by the straight forward and sincere manner of the Libellant and his witnesses as they testified before him, and accordingly the Master believes their testimony to be truthful.” On the question of credibility, the report of a master who had the advantage of seeing and hearing the parties, while not controlling, is entitled to consideration and may not be lightly disregarded. Briggs v. Briggs, 145 Pa. Superior Ct. 460, 21 A. 2d 415.
+Decree affirmed.
