@@ -1,0 +1,48 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "2291 C.D. 1993"
+decided: "1994-08-23"
+citations: ["167 Pa. Commw. 100", "647 A.2d 963"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DOYLE and NEWMAN, JJ., and SILVESTRI, Senior Judge."]
+parties: ["ACME MARKETS, Petitioner, v. WORKMEN’S COMPENSATION APPEAL BOARD (GREDZINSKI), Respondent."]
+source_url: "https://static.case.law/pa-commw/167/cases/0100-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1466723
+cites_cases: ["126 Pa.Commonwealth Ct. 298", "155 Pa.Commonwealth Ct. 9", "301 A.2d 109", "466 A.2d 278", "526 Pa. 25", "536 Pa. 490", "537 Pa. 223", "640 A.2d 386", "642 A.2d 1083", "77 Pa.Commonwealth Ct. 469", "8 Pa.Commonwealth Ct. 99"]
+---
+
+# Acme Markets v. Workmen's Compensation Appeal Board
+
+## Majority (DOYLE, Judge.)
+
+DOYLE, Judge.
+Acme Markets, Inc. (Employer) appeals from an order of the Workmen’s Compensation Appeal Board which reversed a decision of the referee denying Edward Gredzinski’s (Claimant) petition to reinstate his benefits from partial disability to total disability.
+Claimant suffered a work-related injury to his wrist on April 10, 1980. He received total disability benefits pursuant to notices of compensation payable issued May 21, 1980, and November 9, 1982. On March 1, 1984, Claimant and Employer entered into a Supplemental Agreement whereby Claimant’s benefits were reduced to partial disability to reflect the decrease in his loss of earning power of $100 per week which he earned at a part-time light duty job at Risoli’s Market, a comer grocery owned by his wife. In October 1989, Claimant’s wife sold Risoli’s Market. Claimant petitioned for reinstatement of his total disability benefits as of November 1, 1989, because he lost his employment when the store was sold.
+Hearings were held by the referee, who made the following relevant findings of fact:
+5. Claimant testified, that for the last two or three years (testified July 28,1990) his hand really got worse and he could not do very much at all. He stated his wife has purchased the store as of October or November 1984 and he more or less was just keeping her company. He stated he did not receive any wages from 1987 to 1990, and in fact his wife sold the store October 31, 1989.
+6. In addition to claimant’s testimony, Ex. C-l joint federal income tax return was offered in support of claimant’s petition.
+8. This Referee finds claimant’s testimony not to be true and credible regarding:
+(a) ownership of the business (deli);
+(b) his activities in support of the business; and
+(c) physical limitations allegedly related to the April 10, 1980 work injury.
+Claimant did not offer any medical testimony.
+Employer offered the testimony of Mark Schaffer, a private investigator, and his investigative reports from surveillance of Claimant from April 1986 through June 1989, a videotape which accompanied Mr. Schaffer’s surveillance, and a deed for the property upon which Risoli’s Market is located. From this evidence the referee concluded that:
+12. The Referee finds, based on claimant’s activities and [the deed], with claimant not offering credible testimony or documentary evidence to the contrary, that he and his wife if not in law, were, in fact, co-owners of Risoli’s Food Market.
+13. The Referee finds that the sale of the said food market is the reason claimant’s partial disability status' no longer exists.
+15. The Referee finds that the claimant’s change in work status as of November 1, 1989 was entirely voluntary.
+Accordingly, the referee denied Claimant’s petition. On appeal, the Board held that the referee did not have substantial evidence to conclude that Claimant’s increased loss of earning power was Claimant’s fault and reversed the referee’s decision. Employer’s appeal is now before us.
+Employer argues that the Board erred in holding that Claimant’s loss of earning capacity was not voluntary and there was no substantial evidence on the record to establish personal management and endeavor on the part of Claimant in a self-owned business. Employer also argues that Claimant failed to produce medical evidence of a change in physical condition and, therefore, benefits should have been denied.
+We disagree with Employer and affirm the decision of the Board.
+The Supreme Court has recently reviewed a claimant’s burden of proof where a claimant who is receiving partial disability petitions for total disability benefits in Dillon v. Workmen’s Compensation Appeal Board (Greenwich Collieries), 536 Pa. 490, 640 A.2d 386 (1994). Analogizing this situation to a claimant seeking reinstatement after suspension as in Pieper v. Ametek-Thermox Instruments Division, 526 Pa. 25, 584 A.2d 301 (1990), the court reasoned that such a claimant need only prove that “through no fault of his own his earning power is once again adversely affected----” Dillon, 536 Pa. at 503, 640 A.2d at 393. It is not necessary for a claimant to also prove a change in his or her physical condition. Id. A claimant need only show that his injury continues; expert medical testimony is not necessary. Latta v. Workmen’s Compensation Appeal Board (Latrobe Die Casting Co.), 537 Pa. 223, 642 A.2d 1083 (1994).
+To resolve the issues in this case, we must determine whether Claimant’s increased loss of earning capacity was through no fault of his own. Dillon. We agree with the Board’s conclusion that Employer failed to establish that Claimant’s loss of employment was voluntary.
+The record is deficient of any evidence which proves that Claimant owned Risoli’s Market and that it was his decision to sell the market and move to Florida. First, the deed presented by Employer only proves that Claimant co-owned with his wife the premises upon which the business was located; it does not establish the ownership of the business itself. Second, the testimony of the private investigator only established that Claimant was involved in routine activities of the business such as making sandwiches, cutting deli meat, and running other types of errands typically performed by an employee of a food market. These activities do not indicate that Claimant had any management authority or control over the operation of Risoli’s Market, and, hence, that evidence cannot support the conclusion that Claimant alone sold the business and had no intention of returning to any type of work.
+Our cases have made clear that the type of evidence introduced by Employer in this case will not suffice to impact on a claimant’s eligibility for compensation benefits. For example, in Fruehauf Corp. v. Workmen’s Compensation Appeal Board (Michaels), 126 Pa.Commonwealth Ct. 298, 559 A.2d 609 (1989), the claimant assisted his wife and sons in running the family farm. The employer argued that his total disability benefits should be modified because the family realized income from the operation of the farm. We held that such profits derived from a business are not to be considered as earnings “unless they are almost entirely the direct result of personal management and endeavor” of the claimant. Id. at 300, 559 A.2d at 610. In Joy Technologies, Inc. v. Workmen’s Compensation Appeal Board (Heeter), 155 Pa.Commonwealth Ct. 9, 624 A.2d 710 (1993), and Connolly v. Campbell, 8 Pa.Commonwealth Ct. 99, 301 A.2d 109 (1973), the claimants even performed supervisory and bookkeeping functions, yet we held that they were assisting other family members in the running of the businesses and, therefore, the profits derived for the businesses were not part of the claimants’ earning power.
+Similarly, the most that can be concluded from the evidence in this case is that Claimant assisted his wife in the operation of Risoli’s. There was no evidence presented by Employer that it was Claimant’s sole decision to sell the business, or that he even had the capacity and authority to make such a decision without his wife’s approval. The facts here are analogous to the situation where a claimant loses employment because of an economic layoff, which we have held is an increase in loss of earning power through no fault of the claimant’s own. Busche v. Workmen’s Compensation Appeal Board, (Townsend & Bottum, Inc.), 77 Pa.Commonwealth Ct. 469, 466 A.2d 278 (1983). Hence, in this case, since Claimant was an employee and not a proprietor of Risoli’s, the sale of the business was not a voluntary act of Claimant which would preclude the modification of his disability benefits.
+Accordingly, the order of the Board is affirmed.
+ORDER
+NOW, August 23, 1994, the order of the Workmen’s Compensation Appeal Board in the above-captioned matter is hereby affirmed.
+. The supplemental agreement did not change the actual rate of Claimant's benefits because his calculated loss of earning for both total disability and partial disability exceeded the then applicable average weekly wage. Hence, the payments remained at $242 per week.
+. We note also that Claimant provided sufficient evidence that his injury continued. Latía. Claimant testified that he still had pain and discomfort in his wrist and arm and that he was still under a physician's care. Although the referee did not believe Claimant’s testimony concerning the extent of his pain and discomfort, he did not make a finding that Claimant was not still suffering from a work related injury. Employer did not offer any testimony to rebut the fact that Claimant is still injured, nor did it file a petition for termination, but only presented evidence describing the degree of Claimant's injury. Thus, Claimant’s work-related injury continues.
