@@ -1,0 +1,37 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 85"
+decided: "1974-06-21"
+citations: ["228 Pa. Super. 288"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Watkins, P. J., Jacobs, Hoffman, Cercone, Price, Van der Voort, and Spaeth, JJ."]
+parties: ["Gaito, Appellant, v. Matson."]
+source_url: "https://static.case.law/pa-super/228/cases/0288-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 811731
+cites_cases: ["222 Pa. Superior Ct. 500", "226 Pa. Superior Ct. 566", "228 A. 2d 732", "247 A. 2d 587", "295 A. 2d 132", "323 A. 2d 174", "425 Pa. 112", "432 Pa. 129"]
+---
+
+# Gaito v. Matson
+
+## Majority (Price, J.,)
+
+Opinion by
+Price, J.,
+The appellant on this appeal is presently residing at the State Correctional Institution at Pittsburgh and has been so incarcerated since sometime prior to 1960. On December 13, 1960 he initiated this action in trespass against appellee, a member of the bar of Allegheny County, alleging certain acts constituting malpractice in the handling of appellant’s criminal trial which resulted in conviction. The complaint was properly served on December 19, 1960 and appellee filed her answer on February 6, 1961. Although on February 27, 1961 appellant filed a pleading styled “Motion for Disposition”, his next positive move to trial did not come until May 1, 1972, 11 years and 3 months later, when he placed his case at issue on the trial docket. On May 2, 1973 the matter came before the Honorable Anne X. Alpern of the Court of Common Pleas of Allegheny County for pre-trial conference after proper prior notice to appellant; however, that conference was cancelled since neither appellant nor an attorney were present and there had been no pre-trial statement, nor had there been any compliance with the pre-trial procedures required by the Allegheny County local rules of court.
+On September 7, 1973 the case was called on the trial list for trial on September 10, 1973. Appellant and his counsel had prior notice of these dates. On September 11, 1973 the lower court entered Judgment of Non Pros, against appellant for the following reasons:
+“(1) Failure to prosecute the action with resulting prejudice to Defendant;
+“(2) Failure to file a Pre-Trial Statement and otherwise comply with the Buies of this Court; and
+“(3) Failure to appear by counsel or otherwise at the call of the list on September 7, 1973, and failure to appear by counsel or otherwise for trial as scheduled September 10, 1973.”
+On November 8, 1973 the lower court by McLean, J., denied the petition to open the judgment of non pros., and this appeal followed. The lower court did not abuse its discretion and was correct in granting the judgment of non pros. We will affirm the judgment.
+In affirming this judgment we are not unmindful of the difficulties presented in any situation such as the one herein and recognize that appellant should receive some latitude both because of his position and because he has insisted throughout in personally handling the instant litigation. We cannot allow, however, those considerations to completely frustrate the judicial system and the orderly processing of litigation. We note that the lower court, prior to May 1, 1972, offered aid to appellant in this matter through the supervision of Carl M. Janavitz, Esquire, a member of the Allegheny County Bar, who was then Habeas Corpus Supervisor for the lower court. The proffered aid was refused and appellant adamantly insisted upon his right to handle his own affairs. Having refused this proffered aid, appellant can not now complain. Appellant’s pro se brief filed in this appeal is a rambling document with very little helpful material, rather its real thrust is directed to his conviction in criminal court and his resulting incarceration. Stripped of all its mumbo jumbo, the only real issue presented to us is whether the lower court abused its discretion in granting the judgment of non pros.
+The pleadings do not reveal the date or dates which allegedly give rise to this cause of action; however, since it is obvious that the statute of limitations has long since run, they are not material to our decision.
+It is clear that a non pros, may be granted when it appears that a plaintiff has failed to prosecute his action within a reasonable time, there is no reasonable excuse for the delay, and the delay has been prejudicial to the defendant. Rizzo et ux. v. Pittsburgh Railways Company, et al., 226 Pa. Superior Ct. 566, 323 A. 2d 174 (1974); James Bros. Co. v. Union Banking & Trust Co., 432 Pa. 129, 247 A. 2d 587 (1968). Further, so long as the lower court does not manifestly abuse its discretion, such a decision will not be reversed on appeal. Gallagher v. Jewish Hospital Association, 425 Pa. 112, 228 A. 2d 732 (1967); Poluka v. Cole, 222 Pa. Superior Ct. 500, 295 A. 2d 132 (1972).
+Appellant had the obligation to prepare and prosecute this civil claim with reasonable diligence and to comply with all reasonable rules of the lower court. A delay of 13 years is not such reasonable diligence and further this appellant’s incarceration for that period, while an extenuating circumstance, is not a reasonable excuse for a delay of this length. And, as we have previously mentioned, it was appellant’s own choice to represent himself, rather than to accept the advice of a court employed attorney or to arrange for private counsel to assist him.
+The lower court has found that failure to prosecute has resulted in prejudice to the appellee. Appellee’s pleadings reveal that its principal witness, one “Duke” Long, is now deceased, and that other material witnesses are unavailable. Such a finding is entirely supported by this record.
+As was said in Gallagher v. Jewish Hospital Association, supra, at 115: “The statute of limitations fixes the time as two years from the happening of an accident to the bringing of suit. It imposes no hardship on those who institute suit to understand that they must bring this action within two years. It certainly does not impose a hardship on those bringing the suit to require them to bring it to trial within a reasonable time thereafter. If it is against public policy to permit trespass suits to be begun more than two years after the action arose, it is equally against public policy to permit trespass suits to be tried more than nine years after they were started, unless delay is satisfactorily explained .... As a matter of fairness one who brings another into court should prosecute the claim against him with reasonable diligence.”
+Under the facts presently before us, the court below has not abused its discretion.
+Judgment of non pros, affirmed.
+Indeed, appellant reaffirms this decision in his motion to open the judgment of non pros.: “7. The defendant’s Interjection of Attorney Carl M. Janavitz, Esquire, into the case for plaintiff, is fraudulent and, unknown to plaintiff, with the exception, that Mr. Janavitz, has acted as a door-stopper for the President Judge and Administrative Court Judge to deny plaintiff legal and necessary access into the Court of one pleading, not germane to this instant case. 8. Again, Attorney Janavitz, has No Standing to act, in any manner, in this instant case. Only the Court is vested with the authority to direct the plaintiff to file any pleading.”
