@@ -1,0 +1,51 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "00205"
+decided: "1988-04-26"
+citations: ["373 Pa. Super. 618", "542 A.2d 113"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CIRILLO, President Judge, and MONTEMURO and KELLY, JJ.", "KELLY, J., concurs."]
+parties: ["COMMONWEALTH of Pennsylvania v. Raymond M. MONROE, Appellant."]
+source_url: "https://static.case.law/pa-super/373/cases/0618-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 696009
+cites_cases: ["271 Pa.Super 228", "308 Pa.Super. 139", "356 Pa.Super. 64", "359 Pa.Super 461", "390 U.S. 377", "432 U.S. 98", "476 U.S. 79"]
+---
+
+# Commonwealth v. Monroe
+
+## Majority (CIRILLO, President Judge:)
+
+CIRILLO, President Judge:
+Raymond Monroe appeals from the judgment of sentence entered in the Court of Common Pleas of Philadelphia County following his conviction for aggravated assault, possession of an instrument of crime, and recklessly endangering the life of another person. Following denial of his post-verdict motions, Monroe was sentenced to three to ten years imprisonment for aggravated assault and to a consecutive term of imprisonment of one to five years for possession of an instrument of crime. This appeal followed.
+Monroe raises three issues of error by the trial court: 1) failing to suppress identification of Monroe by the victim, after the victim had participated in allegedly suggestive pretrial photograph selection procedures; 2) refusing to allow admission of evidence of another witness’s inability to pick out Monroe’s photograph; and 3) allowing the Commonwealth to use all its peremptory challenges against the first seven black venire persons, thus allegedly creating a racially biased jury.
+In a 1986 memorandum, a panel of this court affirmed the trial court judgment without considering the merits of the appeal. The court found that all three issues raised in the appeal were waived for lack of written post-trial motions, as no motions appeared in the record or docket entries. The Supreme Court of Pennsylvania granted allocatur and then remanded the case to the superior court for reconsideration on the merits.
+We have now reconsidered the appeal and find it to be without merit. We therefore affirm.
+This case arose from a June 25, 1979 knife attack on James Goosby in a Philadelphia movie theater. While using the men’s room there, Goosby was watched and closely followed by a man he subsequently identified as Monroe. At the exit of the men’s room, Goosby challenged and then struck Monroe. Monroe responded by taking out a knife and stabbing Goosby 37 times in the face, neck and body. The theater usher, Albert Crosby, came down nearby stairs, saw the fight, and went for help. Several minutes later, Crosby saw Monroe leave the theater.
+One month later the victim Goosby identified Monroe’s photo from among eight photographs shown him by the police. Monroe was arrested and charged. During the jury trial, both Goosby and Crosby identified Monroe as Goosby’s assailant. He was subsequently found guilty of all charges brought against him.
+The first issue raised is whether the trial court erred in allowing Goosby’s identification of Monroe. Monroe argues that Goosby’s in-court identification was so severely tainted by suggestive pre-trial police procedures that it should have been suppressed. Monroe bases this argument solely on the fact that, out of the eight photographs shown Goosby for identification of his assailant, Monroe was the only bald man.
+This court has consistently held that the existence of one possibly suggestive element in an identification procedure does not automatically require suppression of the identification evidence obtained through that procedure. Rather, only if the totality of circumstances shows that the identification procedure was “so impermissibly suggestive as to give rise to a very substantial likelihood of irreparable misidentification” will the evidence be suppressed. Commonwealth v. Griffin, 271 Pa.Super 228, 233, 412 A.2d 897, 900 (1979) (quoting Simmons v. United States, 390 U.S. 377, 384, 88 S.Ct. 967, 971, 19 L.Ed.2d 1247 (1968)).
+Factors relevant to determining the reliability of an in-court identification are:
+the opportunity of the witness to view the criminal at the time of the crime, the witness’s degree of attention, the accuracy of his prior description of the criminal, the level of certainty demonstrated at the confrontation and the time between the crime and the confrontation.
+Manson v. Brathwaite, 432 U.S. 98, 114, 97 S.Ct. 2243, 2253, 53 L.Ed.2d 140 (1977).
+Here, the victim saw his assailant in the theater and in a well-lit men’s room prior to the attack, and exchanged words with him.
+The stabbing was a frontal assault that enabled Goosby to observe the assailant at close range for several minutes. Goosby’s description of the assailant matched Monroe’s appearance. Moreover, Goosby was certain of his identification of Monroe throughout all court proceedings.
+In addition, the suggestiveness of Monroe’s being the lone bald man shown in the photographs is itself minimal. At a suppression hearing, the judge noted the similarities of the men depicted in the photograph array, including the fact that several men besides Monroe had very short hair.
+Given these circumstances, we reject the contention that Goosby’s selection of Monroe’s photograph was the result of a impermissibly suggestive police procedure. Monroe’s challenge to Goosby’s in-court identification must therefore fail.
+Monroe’s second contention is that the trial court erred in not allowing the defense to cross-examine a prosecution witness, Albert Crosby, regarding his failure to identify Monroe’s photograph in a pre-trial proceeding. Monroe argues that the jury should have been allowed to assess the importance of that failure to identify.
+The pre-trial proceeding referred to was one where, after Monroe’s counsel objected to Monroe being the only bald man shown, the top part of each photograph was “whited out.” Crosby was then shown the photographs and could not identify Monroe. The trial court subsequently ruled this procedure “deceptive” and concluded that introducing evidence of it into trial would lead to “irrelevant and unnecessary issues.” The trial court therefore prohibited introduction of the altered photographs or cross-examination of the witness on the subject.
+It is well-settled that the extent of cross-examination is within the discretion of the trial court, which will not be overruled except for clear abuse of discretion or error of law. In setting limits, the trial court may consider the extent that a jury would be confused by testimony. Commonwealth v. Hammond, 308 Pa.Super. 139, 147, 454 A.2d 60 (1982).
+There was clearly no such abuse of discretion or error here. The trial court’s ruling was very focused — it excluded a proceeding the court had determined to be misleading. In the full course of the trial, Monroe had ample opportunity to examine the witness Crosby regarding the basis and certainty of his in-court identification of Monroe.
+Lastly, Monroe argues that the Commonwealth exercised its peremptory challenges during jury selection in a racially discriminatory manner and thereby deprived Monroe of his right to a fair trial. In the recent case Batson v. Kentucky, 476 U.S. 79, 106 S.Ct. 1712, 90 L.Ed.2d 69 (1986), the supreme court dealt with the problem of showing discrimination in prosecutorial use of peremptory challenges. There, the court identified three elements that, together, allow a defendant to establish a prima facie case of purposeful discrimination: 1) defendant is a member of a cognizable racial group and the prosecutor has used peremptory challenges to remove venire persons of that race; 2) defendant may rely on the fact that the practice of challenges lends itself to discrimination; and 3) defendant must show that this fact and any other relevant circumstances raise an inference that the prosecution used peremptory challenges to exclude venire persons on account of their race. This court has previously decided to apply Batson retroactively to cases pending on direct appeal where the issue of the Commonwealth’s exercise of peremptory challenges has been correctly preserved. Commonwealth v. McCormick, 359 Pa.Super 461, 476, 519 A.2d 442, 450 (1986).
+Lacking any direct evidence of discrimination, Monroe relies on an inference of racial discrimination derived from the fact that the prosecutor peremptorily challenged the first seven black venire persons. Applying the Batson test outlined above, we find that the circumstances of the jury selection and case do not support such an inference.
+While it is correct that Monroe, being black, is a member of a cognizable racial group and that members of that group were removed, there are other relevant circumstances to consider. There is evidence that the venire pool was substantially black, making it not unreasonable that the Commonwealth’s challenges removed black venire persons. The racial makeup of the jury itself was not preserved for the record. Questioning of the prospective jurors by the prosecutor was consistent throughout the selection process. Finally, as both Monroe and the victim were black, no racially significant issues were likely to follow in the trial, eliminating any clear motivation for discrimination by the Commonwealth. Taken together, these circumstances militate against an inference of racial discrimination in the Commonwealth’s exercise of peremptory challenges.
+Judgment of sentence is affirmed.
+KELLY, J., concurs.
+
+## Concurrence (KELLY, Judge,)
+
+KELLY, Judge,
+concurring:
+I join in the majority opinion. I note that I find this case distinguishable from that presented in Commonwealth v. McKendrick, 356 Pa.Super. 64, 514 A.2d 144 (1987) (per Olszewski, J.; McEwen, J., joining; Kelly, J., dissenting), in that appellant has not alleged (and the record does not disclose) that the peremptory challenges were utilized in a manner and setting which reasonably gives rise to an inference that discriminatory animus, rather than legitimate (non-discriminatory) trial tactics, motivated the use of peremptory challenges.
