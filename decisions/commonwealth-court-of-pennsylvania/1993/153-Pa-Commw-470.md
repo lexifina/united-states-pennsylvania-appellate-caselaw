@@ -1,0 +1,41 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+decided: "1993-02-11"
+citations: ["153 Pa. Commw. 470", "621 A.2d 1146"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DOYLE, COLINS and KELLEY, JJ."]
+parties: ["LTV STEEL COMPANY and National Union Fire Insurance Company, c/o Crawford & Company, Petitioners, v. WORKMEN’S COMPENSATION APPEAL BOARD (VEREZ), Respondent."]
+source_url: "https://static.case.law/pa-commw/153/cases/0470-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1442317
+cites_cases: ["117 Pa.Commonwealth Ct. 251", "12 Pa.Commonwealth Ct. 118", "139 Pa.Commonwealth Ct. 326", "142 Pa.Commonwealth Ct. 612", "142 Pa.Commonwealth Ct. 83", "314 A.2d 519", "465 Pa. 249", "522 Pa. 598", "562 A.2d 322", "97 Pa.Commonwealth Ct. 399"]
+---
+
+# LTV Steel Co. v. Workmen's Compensation Appeal Board
+
+## Majority (KELLEY, Judge.)
+
+KELLEY, Judge.
+LTV Steel and National Union Fire Insurance (employer) appeal from an order of the Workmen’s Compensation Appeal Board (board) which affirmed a referee’s decision granting specific loss benefits to Julio Verez (claimant) for specific loss of hearing in both ears pursuant to section 306(c) of The Pennsylvania Workmen’s Compensation Act (Act). We affirm.
+Claimant worked for employer as an ironworker from 1948 until his last day of work on September 1, 1989. During the last seven to ten years that claimant worked, he noticed a decrease in his hearing ability. Claimant was examined by Dr. Michael C. Bell, M.D. on August 30, 1985. At that time, Dr. Bell concluded that claimant was experiencing bilateral sensorineural hearing loss which was work related. However, Dr. Bell was not of the opinion that the loss of hearing was complete in either ear at that time. R. at 57a.
+Claimant was examined by Joseph A. Pope, an audiologist, on December 18, 1989. After a follow-up examination by Dr. Bell on March 9, 1990, claimant was first diagnosed as suffering from a complete work-related hearing loss in both ears for all intents and purposes. Claimant filed his claim petition on April 2, 1990.
+At hearings before a referee, claimant testified and presented the deposition testimony of Dr. Bell. Employer presented reports and deposition testimony of Dr. Sidney N. Busis, M.D., who had examined claimant at employer’s request on May 11, 1990. Dr. Busis opined that while claimant had experienced hearing loss, he did not consider the loss to be complete for all practical intents and purposes.
+The referee specifically accepted the testimony of Dr. Bell over that of Dr. Busis and further found that claimant had provided timely notice of his claim. The board affirmed. Employer now argues that the referee’s findings are not supported by substantial evidence and that claimant failed to give timely notice of his injury pursuant to section 315 of the Act, 77 P.S. § 602.
+HEARING LOSS
+A claimant in a hearing loss case has the burden of showing a “complete loss of hearing for all practical intents and purposes.” Hill v. Workmen’s Compensation Appeal Board (Latrobe Steel Corp.), 117 Pa.Commonwealth Ct. 251, 543 A.2d 232 (1988), petition for allowance of appeal denied, 522 Pa. 598, 562 A.2d 322 (1989). The test involves a determination as to whether an individual is able to function in his or her usual social, work and familial settings. Armco, Inc. v. Workmen’s Compensation Appeal Board (Carrodus), 139 Pa.Commonwealth Ct. 326, 590 A.2d 827 (1991).
+The testimony of claimant’s expert, which was accepted as credible by the referee, clearly established that claimant’s hearing loss was causally connected to his work-related exposure to noise over a long period. Additionally, Dr. Bell’s testimony provides substantial evidence to support the referee’s finding that claimant had met his burden of showing a “complete loss for all practical intents and purposes.” Employer, however, argues that the test as utilized by our courts “simply cannot be justified” under the plain meaning of the Act.
+According to employer, the use of the term “complete” in section 306(c) of the Act compels the conclusion that compensation cannot be awarded where, as here, audiologic tests show that a claimant retains a significant portion of his ability to hear. As we understand it, employer advocates the use of an objective test rather than the current subjective one. Under an objective standard, claimants with the same degree of hearing loss would be guaranteed similar treatment under the Act. The sole point of contention would be the results of the objective test itself. Under the current test, a determination of whether or not a claimant receives compensation depends largely on the testimony of his expert and the referee’s credibility determination. Thus, a claimant with a relatively small loss, but with a convincing expert and sympathetic referee, may be awarded compensation while a claimant with a greater loss, as measured objectively, may be denied.
+Contrary to employer’s argument, however, the judiciary has not usurped the role of the legislature. In 1974, this court agreed with employer’s contention that the plain meaning of the term “complete” was a total or 100% loss. Hartlieb v. Workmen’s Compensation Appeal Board, 12 Pa.Commonwealth Ct. 118, 314 A.2d 519 (1974), rev’d, 465 Pa. 249, 348 A.2d 746 (1975). Our Supreme Court reversed, holding that the word “complete” was susceptible of more than one meaning. Workmen’s Compensation Appeal Board v. Hartlieb, 465 Pa. 249, 348 A.2d 746 (1975). Resorting to the rules of statutory construction, the Supreme Court concluded that the legislature did not intend “that a person ... stand beside the mouth of an erupting cannon and hear absolutely nothing in either ear before his hearing loss could be described as ‘complete.’ ” Id. at 255, 348 A.2d at 749.
+Rather than usurping a legislative role, the judiciary has performed its own proper duty of interpreting the law. What employer fails to note is that after nearly two decades, the legislature has not seen fit to amend section 306(b), which it could certainly do at any time. Therefore, we suggest that employer would be better served by addressing its grievances and policy arguments to the legislature rather than to this court. •
+NOTICE
+Employer also contends that because claimant first knew or should have known of his hearing loss in 1985, he did not give timely notice of his injury within three years as required pursuant to section 815 of the Act, 77 P.S. § 602. Employer argues that because claimant was aware in 1985 of the existence of some loss of hearing which was work-related, that awareness commenced the running of the three-year limitations period.
+We have held that the date which triggers the three-year limitations period is the date on which claimant has notice of a. work-related loss of hearing for all practical intents and purposes. Universal Cyclops v. Workmen’s Compensation Appeal Board (Cherry), 97 Pa.Commonwealth Ct. 399, 509 A.2d 956 (1986). Because of the cumulative nature of hearing loss, such a date has been held to constitute the date of the “injury” for the purpose of section 315. Berisford v. Workmen’s Compensation Appeal Board (Jessop Steel), 142 Pa.Commonwealth Ct. 83, 596 A.2d 1237 (1991).
+In this case, that date was found by the referee to be March 27, 1990. While it is true that Dr. Bell advised claimant of some work-related loss of hearing in 1985, there is no contention whatsoever that such loss would have been compensable. Rather, it is the date on which claimant became aware of a “complete” work-related loss that triggers the period.
+Accordingly, the order of the board is affirmed.
+ORDER
+NOW, this 11th day of February, 1993, the order of the Workmen’s Compensation Appeal Board, dated. June 4, 1992, at No. A91- 0713, is affirmed.
+. Act of June 2, 1915, P.L. 736, as amended, 77 P.S. § 513.
+. Deposition of Dr. Michael C. Bell at 5, Reproduced Record (R.) at 57a.
+. Our scope of review is limited to whether there has been a violation of constitutional rights, error of law, or whether necessary findings of fact are supported by substantial evidence. Southland Cable v. Workmen’s Compensation Appeal Board (Emmett), 142 Pa.Commonwealth Ct. 612, 598 A.2d 329 (1991).
