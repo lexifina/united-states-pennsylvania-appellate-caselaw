@@ -1,0 +1,20 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "156"
+decided: "1983-11-10"
+citations: ["321 Pa. Super. 579", "468 A.2d 832"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CERCONE, President Judge, WICKERSHAM and MONTEMURO, JJ."]
+parties: ["Commonwealth v. Smith, Appellant."]
+source_url: "https://static.case.law/pa-super/321/cases/0579-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 590240
+---
+
+# Commonwealth v. Smith
+
+## Majority
+
+Judgment of sentence affirmed.
