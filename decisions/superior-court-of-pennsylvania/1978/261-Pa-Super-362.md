@@ -1,0 +1,62 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2341"
+decided: "1978-12-22"
+citations: ["261 Pa. Super. 362", "396 A.2d 439"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before JACOBS, President Judge, and HOFFMAN, CEP. CONE, PRICE, VAN der VOORT, SPAETH and HESTER, JJ.", "An opinion per curiam in support of affirmance is filed in which JACOBS, President Judge, and CERCONE and SPAETH, JJ., join.", "PRICE, J., files an opinion in support of reversal in which VAN der VOORT and HESTER, JJ., join.", "HOFFMAN, J., did not participate in the consideration or decision of this case.", "JACOBS, President Judge, and CERCONE and SPAETH, JJ., join in this opinion.", "HOFFMAN, J., did not participate in the consideration or decision of this case.", "VAN der VOORT and HESTER, JJ, join in this opinion."]
+parties: ["COMMONWEALTH of Pennsylvania, Appellant, v. Harry W. DEAN."]
+source_url: "https://static.case.law/pa-super/261/cases/0362-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 110220
+cites_cases: ["225 Pa.Super. 242", "233 Pa.Super. 99", "234 Pa.Super. 12", "236 Pa.Super. 60", "310 A.2d 334", "334 A.2d 725", "335 A.2d 361", "338 U.S. 160", "345 A.2d 197", "362 U.S. 257", "376 U.S. 528", "378 U.S. 108", "379 U.S. 89", "380 U.S. 102", "386 U.S. 300", "393 U.S. 410", "430 F.2d 1051", "78 A.L.R.2d 233", "80 S.Ct. 725", "93 L.Ed. 1879"]
+---
+
+# Commonwealth v. Dean
+
+## Majority (PER CURIAM: PER CURIAM: PRICE, Judge.)
+
+PER CURIAM:
+The six Judges who decided this appeal being equally divided, the order is affirmed.
+An opinion per curiam in support of affirmance is filed in which JACOBS, President Judge, and CERCONE and SPAETH, JJ., join.
+PRICE, J., files an opinion in support of reversal in which VAN der VOORT and HESTER, JJ., join.
+HOFFMAN, J., did not participate in the consideration or decision of this case.
+OPINION IN SUPPORT OF AFFIRMANCE
+PER CURIAM:
+The Commonwealth is appealing from an order suppressing evidence seized pursuant to a search warrant. The suppression court found, and we agree, that there was no reliability proven for certain hearsay information, and therefore, this information could not serve as a basis for probable cause to issue the warrant.
+The affidavit for the search warrant revealed that on the basis of information supplied by a confidential informant, whose reliability was established, the state police wanted to search a farmhouse at 34 Fretz Road. The following is the pertinent language of the probable cause section excerpted from the affidavit:
+3. Said confidential reliable informant did advise this affiant that within the past week he had occasion to be at the above mentioned residnece [sic] and observe a subject known as David MCKEEVER enter the above residence and exit same carrying a bag which said informant observed to be marijuana a controlled substance. Subject MCKEEVER is a known seller of marijuana and has been arrested by the Penna. State Police in the past for delivery of a controlled substance.
+4. MCKEEVER also related to confidential reliable informant that subject living in residence was Harry DEAN and dealt large quantities of marijuana and that subject DEAN expected a large shipment to arrive in the near future.
+5. Based on the above mentioned probable cause this affiant believes the above mentioned residence contains marijuana and prays that a search warrant be issued for said premises.
+The officers thereafter, equipped with the warrant, entered the farmhouse, and seized twenty-two hundred and ninety seven (2297) grams of marijuana.
+There is no dispute that the reliability of the confidential informant was established. It is the reliability of the information given by McKeever that constitutes hearsay on hearsay, and therefore, its trustworthiness must be independently proven. Aguilar v. Texas, 378 U.S. 108, 84 S.Ct. 1509, 12 L.Ed.2d 723 (1964).
+The suppression court relies on Commonwealth v. Davis, 225 Pa.Super. 242, 310 A.2d 334 (1973), which also involved a tip from an informant based on information given by another individual. The hearsay on hearsay in the instant case is likewise substantially similar to that in Davis in that McKeever told the informant that appellant was expecting a large shipment of marijuana shortly. The only supporting circumstances offered by the affiant for this information is that McKeever was a known drug dealer, and had once been arrested for delivery of a controlled substance — no conviction is mentioned. Without more, this type of reliance is insufficient to form a basis for probable cause.
+The order of the lower court suppressing the evidence is affirmed.
+JACOBS, President Judge, and CERCONE and SPAETH, JJ., join in this opinion.
+HOFFMAN, J., did not participate in the consideration or decision of this case.
+OPINION IN SUPPORT OF REVERSAL
+PRICE, Judge.
+On April 26, 1977, Pennsylvania State Police Trooper, Everett Goff, a narcotics investigator, applied for a search warrant before District Justice J. Robert Hunsicker, Perkasie, Bucks County, Pennsylvania, on the basis of information supplied to him by a confidential source, who had, in the past, proven reliable by supplying information leading to four arrests. Trooper Goff sought to search a farmhouse at 34 Fretz Road, Hilltown Twp., Bucks County, Pennsylvania. Squire Hunsicker found that probable cause existed, and issued the warrant.
+The affidavit revealed that the informant had been told by one David McKeever that the farmhouse was occupied by appellant, claimed by McKeever to be a large dealer of marijuana, expecting a large shipment shortly. The informant had observed McKeever entering the farmhouse and later leaving, carrying what the informant believed to be marijuana. Trooper Goff swore to the District Justice that McKeever was a marijuana seller who had been previously arrested by the Pennsylvania State Police for delivery of a controlled substance.
+The probable cause section of the search warrant, in full, is here set forth:
+“1. This affiant is a member of the Penna. State Police presently involved in narcotics investig.
+2. Within the past week this affiant was contacted by a confidential reliable informant who has proven his reliability in the past to this affiant by providing information that has led to the arrest of 4 subjects for violation of the Controlled Substance Drug Device and Cosmetic Act, Act 64, 2 of which have resulted in convictions in the Court of Common Pleas, Bucks and Montgomery Co. and 2 which are presently pending court action.
+3. Said confidential reliable informant did advise this affiant that within the past week he had occasion to be at the above mentioned residence and observe a subject known as David MCEVER enter the above residence and exit same carrying a bag which said informant observed to be marijuana a controlled substance. Subject MCEVER is a known seller of marijuana and has been arrested by the Penna. State Police in the past for delivery of a controlled substance.
+4. MCEVER also related a confidential reliable informant that subject living in residence was Harry DEAN and dealt large quantities of marijuana and that subject DEAN expected a large shipment to arrive in the near future.
+5. Based on the above mentioned probable cause this affiant believes the above mentioned residence contains marijuana and prays that a search warrant be issued for said premises.”
+Supplied with the warrant, the trooper, other members of the State Police, and two Hilltown Twp. police officers entered the aforementioned dwelling and seized twenty two hundred and ninety seven (2297) grams of marijuana, a controlled substance.
+Pursuant to Pa.R.Crim.P. 323, a Motion to Suppress Evidence was filed on behalf of Dean. It challenged the issuance of the search warrant on the grounds that probable cause was lacking.
+On August 12, 1977, the court below granted the motion and suppressed the evidence.
+The instant appeal followed.
+In Aguilar v. Texas, 378 U.S. 108, 114-15, 84 S.Ct. 1509, 1514, 12 L.Ed.2d 723 (1964), directly controlling the instant appeal, it was stated:
+“Although an affidavit may be based on hearsay information and need not reflect the direct personal observations of the affiant, Jones v. United States, 362 U.S. 257, 80 S.Ct. 725, 4 L.Ed.2d 697, 78 A.L.R.2d 233, the magistrate must be informed of some of the underlying circumstances from which the informant concluded that the narcotics were where he claimed they were, and some of the underlying circumstances from which the officer concluded that the informant, whose identity need not be disclosed, see Rugendorf v. United States, 376 U.S. 528, 84 S.Ct. 825, 11 L.Ed.2d 887, was ‘credible’ or his information ‘reliable.’ ”
+We find that the probable cause section of the warrant here in question meets that test in all regards.
+In Aguilar v. Texas, supra, and Spinelli v. United States, 393 U.S. 410, 89 S.Ct. 584, 21 L.Ed.2d 637 (1969), the United States Supreme Court delineated the constitutional guidelines for issuing a search warrant when probable cause is based upon information supplied to the affiant by an informant. The affiant must provide sufficient information for the issuing authority to make two independent determinations: “First, the affidavit must set forth the underlying circumstances from which the informer concludes that the items to be seized are at the place to be searched. Second, the affidavit must set forth the underlying circumstances whereby- the affiant has concluded that the informer is credible and his information reliable.” Commonwealth v. Early, 236 Pa.Super. 60, 64, 345 A.2d 197, 200 (1975); Commonwealth v. Kline, 234 Pa.Super. 12, 335 A.2d 361 (1975); Commonwealth v. Devine, 233 Pa.Super. 99, 334 A.2d 725 (1975). Instantly, appellees contend that the affidavit did not contain sufficient underlying circumstances from which the issuing authority could conclude that there was probable cause to believe that marijuana was present in the farmhouse. We disagree.
+At the outset, it must be recognized that probable cause exists when the facts and circumstances set forth in the affidavit are sufficient to warrant a man of reasonable caution in the belief that the contraband to be seized was in the specified place. Brinegar v. United States, 338 U.S. 160, 69 S.Ct. 1302, 93 L.Ed. 1879 (1949); United States v. Lucraz, 430 F.2d 1051 (9th Cir. 1970). We must further be mindful
+“that only the probability, and not a prima facie showing, of criminal activity is the standard of probable cause, Beck v. Ohio, 379 U.S. 89, 96, 85 S.Ct. 223, 228, 13 L.Ed.2d 142, 147 (1964); that affidavits of probable cause are tested by much less rigorous standards than those governing the admissibility of evidence at trial, McCray v. Illinois, 386 U.S. 300, 311, 87 S.Ct. 1056, 1062, 18 L.Ed.2d 62, 70 (1967); that in judging probable cause issuing magistrates are not to be confined by niggardly limitations or by restrictions on the use of their common sense, United States v. Ventresca, 380 U.S. 102, 108, 85 S.Ct. 741, 745, 13 L.Ed.2d 684, 688 (1965); and that their determination of probable cause should be paid great deference by reviewing courts, Jones v. United States, 362 U.S. 257, 270-271, 80 S.Ct. 725, 4 L.Ed.2d 697, 707, 708, 78 A.L.R.2d 233 (1960).” Spinelli, supra, 393 U.S. at 419, 89 S.Ct. at 590.
+Further, the court below and those members of this court who support affirmance, in relying upon Commonwealth v. Davis, 225 Pa.Super. 242, 310 A.2d 334 (1973), misplace their trust. In Davis, the Commonwealth conceded under the facts there presented that the hearsay on hearsay did not substantiate probable cause. Davis merely notes that concession by a footnote, and does not support the broad statement that hearsay on hearsay cannot substantiate probable cause. Stated another way, there is not, and never has been, a blanket prohibition of hearsay on hearsay in search affidavits, and to so hold would impose a much too narrow view of the requirements of sufficiency for a warrant to issue. Such a holding would render ridiculous any application of reasonableness and common sense.
+We would reverse the suppression order of the court below and remand the case for trial.
+VAN der VOORT and HESTER, JJ, join in this opinion.
+. The hearsay on hearsay involved in Davis was the statement, “Alonzo’s stuff would soon hit the street.”
