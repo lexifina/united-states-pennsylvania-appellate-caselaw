@@ -1,0 +1,41 @@
+---
+court: "Superior Court of Pennsylvania"
+decided: "1997-03-05"
+citations: ["456 Pa. Super. 435", "690 A.2d 1189"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DEL SOLE, POPOVICH, and OLSZEWSKI, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania, Appellant, v. Maritza APONTE, Appellee."]
+source_url: "https://static.case.law/pa-super/456/cases/0435-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11982129
+cites_cases: ["20 Ariz.App. 331", "215 Kan. 81", "237 A.2d 418", "244 Pa.Super. 424", "305 S.W.2d 755", "449 F.2d 288", "512 Pa. 298", "518 Pa. 156"]
+---
+
+# Commonwealth v. Aponte
+
+## Majority (OLSZEWSKI, Judge:)
+
+OLSZEWSKI, Judge:
+The Commonwealth appeals the trial court’s order suppressing 120 clear packets of cocaine. We reverse.
+At the outset, we note that where the Commonwealth appeals the adverse decision of a suppression court, we must consider only the evidence of the defense witnesses and so much of the prosecution’s evidence as remains uncontradicted. Commonwealth v. Robinson, 518 Pa. 156, 541 A.2d 1387 (1988). If “the evidence supports the factual findings, we are bound by such findings; a reviewing court may only reverse if the legal conclusions drawn therefrom are in error.” Commonwealth v. Fahy, 512 Pa. 298, 309, 516 A.2d 689, 694-695 (1986).
+Our review of this matter reveals that the trial court’s following factual findings are supported by the record:
+1. On December 8, 1995, at approximately 2:25 p.m., Criminal Investigator Joseph Walsh of the Reading Bureau of Police applied for a warrant to search the first floor apartment at 106 North Tenth Street, City of Reading, Berks County, for heroin, cocaine, related paraphernalia, evidence of sales, and documents relating to occupancy and personal identification. Permission to search the bodies of [appellant] Maritza Aponte and a John Doe was also sought. The warrant states that the structure at 106 North Tenth Street is a two-and-a-half story apartment.
+2. District Justice Gloria Strock approved and signed the warrant.
+3. On December 8, 1995, at approximately 6:52 p.m., Criminal Investigator Michael Gombar of the Reading Bureau of Police arrived at 106 North Tenth Street to serve the warrant.
+4. Criminal Investigator Gombar observed a man leave through the front door of the first floor apartment. The man left the door open about one foot. Criminal Investigator Gombar could see about a quarter of the apartment’s living room. He did not see anyone in the room.
+5. Criminal Investigator Gombar knocked on the door and announced that he was a police officer with a search warrant. After making his announcement, Criminal Investigator Gombar immediately entered the apartment.
+6. Upon entering the room, Criminal Investigator Gombar saw Ms. Aponte and three small children sitting on a sofa.
+7. Criminal Investigator Gombar and several other officers conducted a search of the first floor apartment and Ms. Aponte’s person. Cocaine and other related items were found.
+8. While inside the first floor apartment, the police discovered that there was a basement in the building. A search of the basement uncovered additional evidence^ i.e., the 120 clear packets of cocaine.]
+9. There are steps leading to the basement which are located near the front door of the first floor apartment.
+10. At some point during the search, Officer Andrea An-drus of the Reading Bureau of Police took Ms. Aponte to the bathroom. Ms. Aponte offered to Officer Andrus that she had drugs in her bra.
+Opinion 7/30/96, at 1-2.
+Aponte filed pretrial motions seeking, in part, to suppress the drugs found in the basement. On May 21, 1996, the trial court ruled that the “search of the basement exceeded the scope of the search warrant” and suppressed the 120 packets of cocaine found in that location. The Commonwealth now asks us to review the trial court’s determination.
+Though cited by neither party nor the trial court, we find that the case of Commonwealth v. Eckert, 244 Pa.Super. 424, 368 A.2d 794 (1976), is most instructive on this matter. In Eckert, this Court stated that:
+No Pennsylvania authority has been found which defines “premises” in the context of the description of the place to be searched in either a search warrant or a written consent. Several other jurisdictions have discussed the meaning of the term “premises.” These courts have held that the meaning of “premises” in a search warrant is not confined to the building(s) specified in the description. The term premises also “includes all property necessarily a part of the property of the premises or so inseparable as to constitute a portion thereof.” Massey v. Commonwealth, 305 S.W.2d 755 (Ky.1957); State v. McClelland, 215 Kan. 81, 523 P.2d 357 (1974); State v. Caldwell, 20 Ariz.App. 331, 512 P.2d 863 (1973). Two additional jurisdictions employing this definition have found outbuildings and other property included as part of the premises. In United States v. Long, 449 F.2d 288 (8th Cir.1971), a building was specifically described in the warrant. The incriminating evidence was discovered in a trash barrel located behind the described building. The court found that the barrel was part of the “premises” and within the scope of the warrant. In State v. Brochu, 237 A.2d 418 (Me.1967), a detached garage was found to be part of the “premises” described in the warrant by the street number of the house and the name of the owner.
+244 Pa.Super. at 431, 368 A.2d at 797. After explaining the above, the Eckert Court found that a “shed located five to ten feet from the rear” of a trailer, for which premises the police had authority to search, was “part and parcel of the premises as that term has been defined above.” Id. at 431, 368 A.2d at 797-98. Accordingly, the Court held the search of the shed was authorized. Id.
+Instantly, there is no question that the Reading Police had authority to search the “premises” of “106 North 10th Street 1st Floor apt.” Search Warrant, 12/8/95. Thus, we must determine whether the first-floor apartment’s premises included the basement. The Commonwealth’s uncontradicted evidence reveals that the police discovered an open door from Aponte’s kitchen to the basement. N.T. 7/9/96 at 48. In fact, this door provided sole internal access from the apartment building to the basement. Id. While the trial court was correct in noting that there also existed an outside door to the basement, this outside door was locked and secured. Id. at 48-49. In light of this information, we find that the basement clearly constituted a portion of the first-floor apartment. Any other conclusion ignores reality. Had the room been upstairs, as in a back storage room or an enclosed porch, there would be no question that it was part and parcel of the premises. The mere fact that the room is subterranean does not change the fact that Aponte’s apartment had exclusive internal access to this location. Further, we note that the fact that Aponte felt comfortable enough to leave her basement door open clearly indicates that she, herself, considered the basement as part and parcel of her premises. See Eckert, supra.
+Having determined that the basement was included in the “premises” of “106 North 10th Street 1st Floor apt.,” we find that the police were clearly authorized to search this area. See id. Accordingly, we must conclude that the trial court erred in sup-pressing the evidence found in this location.
+Order reversed and case remanded. Jurisdiction relinquished.
