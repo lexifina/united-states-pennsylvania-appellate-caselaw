@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 76"
+decided: "1903-10-05"
+citations: ["23 Pa. Super. 282"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, Smith, W. D. Porter, Morrison and Henderson, JJ."]
+parties: ["McCoy’s Estate."]
+source_url: "https://static.case.law/pa-super/23/cases/0282-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 847705
+cites_cases: ["35 Legal Int. 70", "37 Pa. 31", "46 Pa. 392", "57 Pa. 352", "60 Pa. 492", "64 Pa. 207", "75 Pa. 102", "83 Pa. 377", "87 Pa. 248"]
+---
+
+# McCoy's Estate
+
+## Majority (W. D. Porter, J.,)
+
+Opinion by
+W. D. Porter, J.,
+The decedent, by his last will, devised and bequeathed his entire estate, real and personal, to his executors, in trust, for the purposes in the will stated. He directed his executors to pay certain pecuniary legacies, all of which have been paid. The will bequeathed to Peter McCoy, Jr., a son of testator, an annuity of $300, to be applied and paid out “for board and clothing for my son, Peter McCoy, Jr., during his natural life.” The will charged this annuity upon the entire residue of the estate, real and personal, and directed that the proceeds should remain invested in good and safe securities, during the life of the said Peter McCoy, Jr., and that the income therefrom should be reinvested in the same way. The estate in remainder was disposed of, and the termination of the trust provided for in the following clause of the will: “ After the death of my said son, Peter McCoy, Jr., I give and bequeath all the rest, residue and balance of my estate, real, personal, and mixed, to my three nieces, Mrs. Mclrnerney, of Bardoney, Ireland, Ann McCurdy and Alice Nugent, their heirs and assigns forever, to be divided equally between them, share and share alike.” The executors having resigned, the accountant was appointed administrator e. t. a. and filed this account, showing a balance in his hands, which was composed of the principal of the estate, no part being derived from income. The appellant represented to the court below that the real estate which passed under the provisions of the will and remained unsold was sufficient to secure the payment of the annuity to Peter McCoy, Jr., that the fund included in the present account was the proceeds of personal property, and demanded that the balance in the hands of the accountant be distributed to herself and the other devisees of the estate in remainder in the residue. The decedent had devised and bequeathed his whole estate in trust to secure the payment of a specific sum annually to his son, during the life of the latter. The direction for the accumulation of the income was void under the Act of April 18, 1853, sec. 9, but the provision requiring the investment of the principal was valid: Washington’s Estate, 75 Pa. 102. Peter McCoy, Jr., had never consented to the termination of the trust as to this fund, or any other part of the estate. The utmost that can be claimed on behalf of the appellant is that she might have applied to the orphans’ court to have a part of the estate, such as this fund, exonerated from the lien or charge of the annuity, under the provisions of the Act of February 23, 1853, P. L. 98; then all parties interested would have had notice of the purpose sought to be accomplished and an opportunity to be heard. The appellant has not seen fit to avail herself of the provisions of that statute. Even if we consider this as a proceeding for the exoneration under the statute of a part of the trust estate, the orphans’ court in making an order for such exoneration is vested with a discretion, which must be presumed to have been wisely exercised, until the contrary is made to cleariy appear. There does not seem to have been any satisfactory evidence as to the value of or net income derived from the real estate which was subject to the trust; the appellant does not print any evidence upon that subject. There is printed in her paper-book a petition, which seems to have been presented in an independent proceeding, and was certainly not evidence in this case, which states the value of said real estate to be about $24,000, but it states further that the buildings upon part of said land are in such a dilapidated condition as to be liable to collapse, fall into the public street and result in serious injury to property and destruction of life, “ and the compensation for such damages would seriously reduce, if not destroy, the corpus of the estate.” Should this petition be considered as evidence, we are not satisfied that the refusal of the court below to decree that the income from this real estate was adequate security for the payment of the annuity involved an abuse of discretion.
+The decree of the court below is affirmed and the appeal dismissed at costs of the appellant.
