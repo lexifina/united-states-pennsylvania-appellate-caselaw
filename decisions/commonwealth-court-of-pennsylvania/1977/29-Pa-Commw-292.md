@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1086 C.D. 1976"
+decided: "1977-03-17"
+citations: ["29 Pa. Commw. 292"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Kramer, Rogers and Blatt, sitting as a panel of three."]
+parties: ["Lloyd Smith, Appellant v. Unemployment Compensation Board of Review of the Commonwealth of Pennsylvania."]
+source_url: "https://static.case.law/pa-commw/29/cases/0292-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1879893
+cites_cases: ["163 Pa. Superior Ct. 436", "26 Pa. Commonwealth Ct. 278", "28 Pa. Commonwealth Ct. 641", "363 A.2d 852", "369 A.2d 1334", "62 A.2d 113"]
+---
+
+# Smith v. Unemployment Compensation Board of Review
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+Lloyd Smith (claimant) was employed as a machine operator by the Pillsbury Company (employer) for a period of approximately 5y2 years. On August 29, 1975, he appeared in Domestic Relations Court of the Court of Common Pleas of Lehigh County to report for his failure to make child support payments in the amount of $15.00 per week and explained that he refused to make the payments because he believed that he was being denied proper visitation rights to his child. The court found him in contempt and sentenced him to 90 days in jail, the sentence to begin that day. The claimant promptly notified his employer of his incarceration and requested a leave of absence from his employment for a period of 90 days, which was denied because it was against the employer’s policy to grant leaves for such legal problems. The employer, however, gave the claimant until September 8,1975 to straighten out his affairs and report to work. At the claimant’s insistence, the employer later extended this deadline, but finally, on September 16, 1975, the claimant was discharged.
+The claimant applied for benefits under the Unemployment Compensation Law (Law) on June 8, 1976, and the Bureau of Employment Security (Bureau) denied benefits, basing its denial on a finding of willful misconduct under Section 402(e) of the Law, 43 P.S. §802(e). The referee affirmed the denial of benefits on appeal, but modified the Bureau’s order so as to indicate that benefits were denied because the claimant was unemployed through his own fault for which reason Section 3 of the Law, 43 P.S. §752, prohibits benefits. The claimant appealed to the Unemployment Compensation Board of Review (Board) which, after holding a hearing, affirmed the referee. This appeal followed.
+Our scope of review in an unemployment compensation case is limited to questions of law and, absent fraud, to a determination of whether or not findings of fact are supported by substantial evidence, leaving questions of credibility to the referee and Board. Owen v. Unemployment Compensation Board of Review, 26 Pa. Commonwealth Ct. 278, 363 A.2d 852 (1976). The claimant argues here that the Board committed an error of law in concluding that the claimant had become unemployed through his own fault and that the Board’s findings of fact are not supported by substantial evidence.
+Section 3 of the Law, 43 P.S. §752, provides:
+Economic insecurity due to unemployment is a serious menace to the health, morals, and welfare of the people of the Commonwealth. Involuntary unemployment and its resulting burden of indigency falls with crushing force upon the unemployed worker, and ultimately upon the Commonwealth and its political subdivisions in the form of poor relief assistance. Security against unemployment and the spread of indigency can best be provided by the systematic setting aside of financial reserves to be used as compensation for loss of wages by employes during periods when they become unemployed through no fault of their own. The principle of the accumulation of financial reserves, the sharing of risks, and the payment of compensation with respect to unemployment meets the need of protection against the hazards of unemployment and indigency. The Legislature, therefore, declares that in its considered judgment the public good and the general welfare of the citizens of this Commonwealth require the exercise of the police powers of the Commonwealth in the enactment of this act for the compulsory setting aside of unemployment reserves to be used for the benefit of persons unemployed through no fault of their own. (Emphasis added.)
+This section has been held to have a substantive effect and application in addition to the specific grounds for ineligibility found in Section 402 of the Law. See Perdue v. Unemployment Compensation Board of Review, 28 Pa. Commonwealth Ct. 641, 369 A.2d 1334 (1977) and the cases cited therein. The issue here, therefore, is whether or not the claimant was unemployed through fault of his own, and the record is clear that the claimant was incarcerated, because of his own voluntary decision not to comply with a court order mandating his payment of child support. It is significant that the claimant did not allege insufficient funds as the reason for his noncompliance hut only his belief that his visitation rights to the child were being violated. When asked by the referee about his efforts to avoid being held in contempt for non-payment of support, the claimant replied:
+I tried to tell them, I went down to the probation office. I talked to the people down there, I was not getting the child when, through the court, I was supposed to get the child, that payment would not he made until I was given my end of the bargain, so to speak, of getting this child for this time I was supposed to. (Emphasis added.)
+Under these circumstances, we believe that the claimant is unemployed through his own fault. He initially had the ability to avoid incarceration altogether simply by paying the child support, a weekly amount equal to less than three hours of work at his hourly rate. After being incarcerated and notified by his employer that he had to return to work by a specified date or be discharged, he continued his refusal to pay the support and make up the arrears and so refused to take the necessary steps to effectuate his release. The result of his voluntary decision, first to accept imprisonment and then not to seek his release and return to bis job within the deadline set by his employer was made with full knowledge of its consequences and his discharge was the proximate result of this decision. See Michalsky Unemployment Compensation Case, 163 Pa. Superior Ct. 436, 62 A.2d 113 (1948). He was clearly unemployed through his own fault.
+Our careful review of the record establishes that all of the Board’s findings of fact were based on the claimant’s own testimony and are, therefore, supported by substantial evidence.
+The order of the Board denying benefits is affirmed.
+Order
+And Now, this 17th day of March, 1977, the order of the Unemployment Compensation Board of Review denying benefits to Lloyd Smith is hereby affirmed.
+Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §751 et seq.
