@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 91"
+decided: "1948-01-08"
+citations: ["162 Pa. Super. 167"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Dithrich, Ross, Arnold and Fine, JJ. (Reno, J., absent)."]
+parties: ["Diehl, Appellant, v. Council of Zion Evangelical Lutheran Church."]
+source_url: "https://static.case.law/pa-super/162/cases/0167-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 462927
+cites_cases: ["250 Pa. 336", "29 A. 2d 43", "32 A. 2d 400", "345 Pa. 428", "347 Pa. 307", "38 Pa. Superior Ct. 241", "88 Pa. Superior Ct. 177", "95 A. 530"]
+---
+
+# Diehl v. Council of Zion Evangelical Lutheran Church
+
+## Majority (Hirt, J.,)
+
+Opinion by
+Hirt, J.,
+In this proceeding for a declaratory judgment, plaintiff sought to have adjudicated the question of her right to pay off a mortgage against her land held by defendant, and to compel its satisfaction of record. The lower court decided the' question ¿gainst her and dismissed her petition. The order will be reversed.
+John Rung died in 1877 seized of a farm of 360 acres in Huntingdon County.' In his will' he provided for the sale of this land by his executors. Of the proceeds of sale he directed the following distribution to be made to the defendant: “The snm of Two Thousand Dollars I give and bequeath to the council of the Zion Evangelical Lutheran Church of Petersburg in trust for the said church, the said sum however is to remain and he secured hy a mortgage upon my farm when it is sold and the interest only at the rate of six per cent per annum to he paid to the said church council for the use of the said church as aforesaid ”
+The executors divided the farm, pursuant to authority given them by the testator, and sold about one-half of it to one John Frazier in January 1891, who as a part of the purchase price executed and delivered to the defendant his bond and mortgage “in the sum of one thousand dollars, conditioned for the payment of $60, on the 1st day of February 1892 and a like sum annually thereafter to said Council as interest on said sum of $1,000 from the first day of February 1891 under the terms of the will of John Bung, deceased . . .” As to the principal, the mortgage does not set forth any definite time for its payment, but by its terms the mortgagor undertook to pay to defendant the “sum of one thousand dollars, when thereunto legally required . . .” The same language appeared in the bond. The bond and the accompanying mortgage, by their terms, specifically, created an obligation to pay the principal sum of $1,000 though at an indeterminate time, in accordance with the will, and not interest thereon, merely. The language of the will indicates an intention to bequeath the principal of the mortgage as well as the interest. Even without a bequest of the principal, the gift of the income alone for an unlimited time, in itself, would have conferred an absolute vested interest in the fund itself. Emmerich Estate, 347 Pa. 307, 32 A. 2d 400.
+Plaintiff in 1946 bought about 165 acres of decedent’s farm, encumbered by the mortgage. In response to her request for leave to pay it off, the council of defendant church indicated that they would not accept the principal of the mortgage because they were not eonvineed that payment “could be legally accepted” under the will of John Bung. • The lower court held that the church could- not. be compelled to accept payment of the mortgage, principal and interest in full, and on that conclusion dismissed the petition.
+It is unimportant that neither decedent’s will nor the terms of the mortgage indicate a time for payment of the principal. The provision of the will, reflected in the terms of the mortgage, that the sum secured by it “shall remain” and “interest only” shall be paid is not a provision for a perpetual lien which cannot be discharged. Rhone, Trustee v. Keystone C. Co., 250 Pa. 336, 95 A. 530; Harrison v. Atlee, 38 Pa. Superior Ct. 241. The testator here gave a definite sum of money to the defendant church in the language of the will: “The sum of Two Thousand Dollars I give and bequeath to the council” of defendant church in trust for it. The mortgage refers to the bond which it secured as an obligation entered into in lieu'of $1,000 of the purchase price of the farm, and recites that it was given “for the better securing the payment of the same.” The defendant church is entitled to receive- $1,000 and the mortgaged land is answerable for the payment of that sum.
+The question in this case is controlled by a. firmly established line of cases which hold that when no time is fixed for the payment of a debt, the debt is payable on demand and conversely may be. paid off at any time, at the option of the debtor. The fact that here we are concerned with an obligation secured by a mortgage on real estate does not alter the principle. Cf. D’Orazio v. Masciantonio, 345 Pa. 428, 29 A. 2d 43. The rule is thus stated with approval in Rhone, Trustee v. Keystone C. Co., supra, 339. “ ‘Where a note or bond secured by mortgage, is given for. the payment of a specified sum of money, but no time is fixed for such payment, the law supplies the omitted .element and makes the debt due immediately.’ ”
+The rule as slightly modified in Wilker v. Jenkins 88 Pa. Superior Ct. 177 (Cf. 41 C.J., Mortgages, p. 396) is probably controlling in this class of cases. But we do not need to decide whether the obligation could have been paid or collected “immediately” on the principle of the Rhone cáse or only within a “reasonable time” from its date under the WilJcer case. Here, under any interpretation of the rule, defendant is obliged to accept payment of the obligation incurred more than 50 years ago, and plaintiff is entitled to have the mortgage satisfied of record when páid' in full.
+Accordingly, the order is reversed and a declaratory judgment to that effect is here entered.
