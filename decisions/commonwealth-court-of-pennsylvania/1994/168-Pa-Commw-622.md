@@ -1,0 +1,34 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "2716 C.D. 1993"
+decided: "1994-11-30"
+citations: ["168 Pa. Commw. 622", "651 A.2d 226"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before PELLEGRINI and FRIEDMAN, JJ., and NARICK, Senior Judge."]
+parties: ["PETERS CREEK SANITARY AUTHORITY, v. Thomas WELCH, Janice Welch and Mark Welch, Thomas Welch and Janice Welch, Appellants."]
+source_url: "https://static.case.law/pa-commw/168/cases/0622-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1468951
+cites_cases: ["118 Pa.Commonwealth Ct. 460", "129 Pa.Commonwealth Ct. 97", "130 Pa.Commonwealth Ct. 287", "160 Pa.Commonwealth Ct. 392", "332 Pa.Superior Ct. 373", "362 Pa.Superior Ct. 522", "397 Pa.Superior Ct. 430", "517 Pa. 488", "525 Pa. 637", "525 Pa. 638", "527 Pa. 633", "538 Pa. 400", "539 A.2d 340", "578 A.2d 931", "592 A.2d 1301", "635 A.2d 219", "648 A.2d 1172"]
+---
+
+# Peters Creek Sanitary Authority v. Welch
+
+## Majority (FRIEDMAN, Judge.)
+
+FRIEDMAN, Judge.
+On August 29, 1991, Peters Creek Sanitary Authority (Peters Creek) filed a Complaint with the prothonotary of Washington County against Thomas, Janice, and Mark Welch for unpaid sewage charges. A board of arbitrators heard the matter and found in favor of Peters Creek. On January 23, 1992, Janice Welch filed an appeal from that arbitration award and demanded a jury trial in the Washington County Court of Common Pleas (trial court). Throughout this time period, Janice Welch was not represented by an attorney.
+On March 12, 1993, the day of a scheduled pre-trial conference, Dana Murphy entered her appearance as counsel for Janice Welch. On the day prior to the trial, July 26, 1993, Attorney Murphy filed a formal Answer and New Matter on behalf of Janice Welch. At trial, Peters Creek made an oral motion to strike the Answer and New Matter as being untimely, which the trial court subsequently granted.
+Janice Welch now asks us to decide whether the trial court abused its discretion in striking her Answer and New Matter as being untimely.
+Both parties and the trial court rely on Superior Court cases, in particular Francisco v. Ford Motor Co., 397 Pa.Superior Ct. 430, 580 A.2d 374 (1990), appeal denied, 527 Pa. 633, 592 A.2d 1301 (1991), that govern a trial court’s discretion in deeming a filing as untimely. In Francisco, the trial court struck an answer and new matter filed three years and nine months after the filing of the complaint. On appeal, the Superior Court held that such an extended delay in filing an answer constituted “abject indifference” and the trial court’s refusal to ignore the blatant disregard to the time limits delineated in the Rules of Civil Procedure was wholly within the bounds of its discretion based on the principles enunciated in those rules and in Joyce v. Safeguard Mutual Insurance Co., 362 Pa.Superior Ct. 522, 524 A.2d 1362 (1987) (en banc), rev’d on other grounds, 517 Pa. 488, 539 A.2d 340 (1988) (per curiam). In Joyce, the court held that a party who files an untimely answer has a duty to show just cause for its delay, and once just cause has been shown, the opposing party must demonstrate prejudice resulting from the late pleading. See Urban v. Urban, 332 Pa.Superior Ct. 373, 481 A.2d 662 (1984).
+However, regarding whether a trial court should strike an untimely answer, our court has different requirements than the Superior Court. Our “[ejstablished procedure does not permit the opposing party to sit idly and then move to strike an untimely answer. Instead, that party must take affirmative action to secure a judgment by default.” Colonial School District v. Romano’s School Bus Service, 118 Pa.Commonwealth Ct. 460, 464, 545 A.2d 473, 475 (1988); see Davis v. Liquor Control Board, 130 Pa.Commonwealth Ct. 287, 568 A.2d 270 (1989) (en banc), appeal denied, 525 Pa. 637, 578 A.2d 931 (1990). Failure to take action to secure a judgment by default extends the time within which a defendant is permitted to file an answer. Colonial School District.
+Here, despite Welch’s failure to file a timely answer, Peters Creek never attempted to secure a default judgment against Welch. Therefore, based on Colonial School District, the trial court abused its discretion in striking Welch’s untimely Answer and New Matter. Accordingly, the trial court’s order is vacated, and this case is remanded to the trial court with direction to reinstate Janice Welch’s Answer and New Matter.
+ORDER
+AND NOW, this 30th day of November, 1994, the order of the Court of Common Pleas of Washington County, dated July 27, 1993, at No. 91-4798 Civil Division, is hereby vacated. This case is remanded to the trial court with direction to reinstate Janice Welch’s Answer and New Matter.
+Jurisdiction relinquished.
+. Although neither party questions our jurisdiction to hear this appeal, we are obligated to raise jurisdictional questions sua sponte. Department of Transportation v. Kmetz, 129 Pa.Commonwealth Ct. 97, 564 A.2d 1040 (1989), appeal denied, 525 Pa. 638, 578 A.2d 931 (1990).
+This court has jurisdiction to hear appeals from final orders, interlocutory appeals as of right, and interlocutory appeals by permission. Here, we do not have one of the seven specified interlocutory orders which is appealable as of right under 42 Pa.C.S. § 702(a) and Pa.R.A.P. 311. As for being an interlocutory appeal by permission, Janice Welch failed to file a Petition for Permission to Appeal as required by Pa. R.Á.P. 1311(b). As such, the order has not received our permission to be appealed and cannot be so considered. Barron v. City of Philadelphia, 160 Pa.Commonwealth Ct. 392, 635 A.2d 219 (1993); see Com monwealth v. Rosario, 538 Pa. 400, 648 A.2d 1172 (1994) (Montemuro, J., concurring).
+However, we may still review this order because the order is, in essence, a final order under the case law definition of final order. The complaint was filed on August 29, 1991 and, as such, is governed by Kmetz and not the new rule enunciated in Pa.R.A.P. 341(b). See Pa.R.A.P. 341 note. Under the case law analysis, an order is final if it precludes a party from further action in that court, or, put another way, an order is final if it puts a party “out-of-court.” In Kmetz, we held that appellate review is proper if one of the party’s defenses is put out-of-court. Here, by striking Janice Welch’s Answer and New Matter, the trial court has effectively put Janice Welch out-of-court because, as a matter of law, the averments made in Peters Creek’s complaint are thereby deemed admitted due to the failure to file an answer. Pa. R.C.P. Nos. 1029(b) and 1032. Thus, the order is a final order and does not need our permission to be reviewed. Kmetz.
+. The Superior Court once maintained this same standard. See Francisco.
