@@ -1,0 +1,32 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1261 C.D. 1973"
+decided: "1974-04-01"
+citations: ["13 Pa. Commw. 4"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Mencer, Rogers and Blatt."]
+parties: ["Project Area Committee of Project Pa. R-668(c) by Theodore Spencer, Trustee Ad Litem, and Lower Broadway Citizens’ Group by Joseph Golembieski, Trustee Ad Litem, Plaintiffs, v. William H. Wilcox, Secretary, Department of Community Affairs, and Redevelopment Authority of the City of Nanticoke, Defendants."]
+source_url: "https://static.case.law/pa-commw/13/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1859197
+cites_cases: ["216 A. 2d 769", "302 A. 2d 919", "42 U.S.C.A. §1441", "420 Pa. 295", "8 Pa. Commonwealth Ct. 309"]
+---
+
+# Project Area Committee v. Wilcox
+
+## Majority (Judge Wilkinson,)
+
+Opinion by
+Judge Wilkinson,
+Plaintiffs filed this complaint in equity in our original jurisdiction praying that the defendants, the Secretary of Community Affairs and the Redevelopment Authority of the City of Nanticoke, be temporarily enjoined from entering into a contract to implement the Lower Broadway Disaster Urban Renewal Area Project No. Pa. R-668(c), a total clearance flood control project based on a capital grant of $2,342,561.00 from the Department of Housing and Urban Development under Title 1 of the Housing Act of 1949, as amended, 42 U.S.C.A. §1441 et seq., and a grant in aid of $733,332.00 by the Department of Community Affairs of the Commonwealth.
+In addition, plaintiffs pray for a preliminary injunction against the defendant Secretary to restrain Mm from requiring the project to proceed on a total clearance basis or, in the alternative, to require the defendant Secretary to undertake a full and complete investigation of the facts relative to whether tMs project needs to be a partial or a total clearance project. Defendant Authority filed preliminary objections raising the question of equity’s jurisdiction due to an adequate remedy at law and this Court’s jurisdiction over defendant Authority.
+After a hearing and argument, the request for preliminary injunction was denied. This case is now before us for disposition of the preliminary objections. Inasmuch as we must sustain the preliminary objection that there is an adequate remedy at law, we need not reach the question of this Court’s jurisdiction over defendant Authority.
+The plaintiffs are citizens who are either property owners or tenants located witMn the boundaries of the proposed urban renewal project and would be displaced if, but only if, the properties they own or occupy as tenants are acquired as a result of the project. The plaintiffs recognize that the gravamen of their action is that defendant Authority will proceed with eminent domain actions to acquire the properties they own or occupy, for it is alleged in the complaint in paragraph C-5 that tMs project is a flood control project as mentioned in Section 602 of the Eminent Domain Code, Act of June 22, 1964, Special Sess., P. L. 84, as amended, 26 P.S. §1-602.
+It is the plaintiffs’ position that the defendant Secretary, by Ms allegedly arbitrary and capricious actions, allegedly taken in bad faith, did improperly exercise influence over the City Council of the City of Nanticoke and the defendant Redevelopment Authority of the City of Nanticoke in their decision that the project be a total clearance project when, in fact, such a total clearance project is unnecessary. Plaintiffs heretofore filed an equity action against the City of Nanticoke in the Court of Common Pleas of Luzerne County, Equity No. 39 of 1973. The Court of Common Pleas of Luzerne County, in Lower Broadway Citizens Group v. City of Nanticoke, 63 Luz. L. Reg. 172 (1973), quite properly determined that there was an adequate remedy at law. That court ruled specifically that the allegations of plaintiffs, both as to accuracy and legal sufficiency, can and must be determined under Section 406 of the Eminent Domain Code, 26 P.S. §1-406.
+“It is clear, however, that although the Court may not decide the wisdom of the Lower Broadway Project, (citations omitted) the Plaintiffs will, at the proper time, be able to raise the question of whether the project area is in fact blighted and whether the Redevelopment Authority has the power to condemn, Faranda Appeal, 420 Pa. 295 [216 A. 2d 769] (1966), and also whether there has been fraud, palpable bad faith, or arbitrary action on the part of the condemnor, (citations omitted).” Lower Broadway Citizens Group v. City of Nanticoke, supra, at 176. Inasmuch as the lower court is the very court in which any eminent domain proceedings on this project will be litigated before any property rights of plaintiffs, either as owners or tenants, can be taken, plaintiffs are hardly in a position to assert that they do not have an adequate remedy at law.
+In his brief and on oral argument, counsel for plaintiffs places great reliance on our decision in Haddington Leadership Organization, Inc. v. Sherman, 8 Pa. Commonwealth Ct. 309, 302 A. 2d 919 (1973), which was not reported until after the Luzerne County Common Pleas Court rendered its decision. Haddington is in no way contrary to the Luzerne County Common Pleas Court’s decision and is no precedent for plaintiffs’ position here. In Haddington, the plaintiffs sought injunctive relief to require the Development Authority to acquire possession. The property had been condemned, but tbe Authority had not initiated eviction proceedings against those in possession. Obviously, there is no provision of the Eminent Domain Code to cover such an action, nor was there any action remaining to be taken by the Authority under the Eminent Domain Code in Haddington by which such a matter could be raised. Equity, therefore, had jurisdiction. In the instant case, plaintiffs seek to prevent the taking as being illegal. Section 406 of the Eminent Domain Code provides specifically for the raising of such a preliminary objection once a declaration of taking is filed, as the Luzerne County Common Pleas Court properly noted.
+Accordingly, we enter the following
+Order
+Now, April 1, 1974, the preliminary objection raising the question of equity jurisdiction is sustained and the complaint dismissed.
