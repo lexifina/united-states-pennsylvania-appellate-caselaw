@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 98"
+decided: "1896-07-16"
+citations: ["2 Pa. Super. 340"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Willard, Wickham, Beaver, Reeder, Orladt and Smith, JJ."]
+parties: ["E. E. Murtland, Appellant, v. George Callihan."]
+source_url: "https://static.case.law/pa-super/2/cases/0340-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 270684
+---
+
+# Murtland v. Callihan
+
+## Majority (Wickham, J.,)
+
+Opinion by
+Wickham, J.,
+(after stating the facts as above) :
+As the plaintiff at the trial was unable to show any contract, express or implied, on the part of the defendant to compensate him, and'indeed, was compelled to admit that what he did in the defendant’s hehalf was in the face of the latter’s protest, the case unless aided by the statute hereafter to be considered was clearly governed by the decision in Thompson v. Newton, 7 Atlantic Reporter, 64, where it was held that one cotenant who pumps an oil well cannot’recover wages or compensation from another who has not employed him.
+But the plaintiff contends that he is entitled to recover under the act of May 6, 1891, P. L. 41, which provides as follows:
+“ Section 1. Be it enacted, etc., That from and after the passage of this act, any person or persons performing labor of any kind whatever, or furnishing materials for, upon or about any drilling, pumping or producing oil or gas well, shall have the right to bring suit in assumpsit against any joint owner, joint tenant or tenant in common holding an interest in and operating such drilling, pumping or producing oil or gas well, to recover from such joint owner, joint tenant or tenant in common the pro rata share due and owing by such joint owner, joint tenant or tenant in common for any labor done, or materials furnished in, upon or about such drilling, pumping or producing oil or gas well, and the interest of such joint owner, joint tenant or tenant in common shall be subject to levy and sale upon any execution issued to enforce collection of any claim under this act, after judgment obtained by due process of law.
+“ Section 2. Any joint owner, joint tenant or tenant in common paying the pro rata share of the necessary expenses of any drilling, producing or pumping oil or gas well for any other joint owner, joint tenant or tenant in common holding an interest in and operating such drilling, pumping or producing oil or gas well, shall have or possess all the rights of action, as provided in the first section of this act, to the same extent as is given hereby to the person or persons performing the said labor or furnishing such materials:
+“ Provided, That no joint owner, joint tenant or tenant in common shall be required by this act to pay any share of the expenses of operations commenced and carried on without his authority or consent.”
+It will be noticed that with the exception of what is contained in the proviso, the act is silent as to the need of any contract relation, direct or indirect, to sustain a claim for compensation for work or materials furnished in or about the drilling or pumping of a well. The construction placed on the proviso by the plaintiff, -if .adopted, would give any person,' stranger or co-owner, who could get and hold possession of an oil well which needed pumping the right to compel his cótenants or the real owner, as the case may be, to pay him wages -for operating it, or accept the sometimes ruinous alternative of shutting in the well, that is, forbidding “ operations ” altogether. Thus if A and B own an oil leasehold, with producing wells thereon, in common, and B who perhaps has only a one thirtieth interest or less, happens to be in actual possession, he may, regardless of the wishes and protests of A create a profitable place for himself by pumping the wells on the property. The only way wherein A could save himself from personal liability to one whom he had never employed and perhaps, for good reasons, would never think of hiring for any purpose, would be to practically destroy his property by having pumping discontinued entirely. Of course he might proceed to have a legal partition, or valuation and sale, and remain liable for the wages of his co-tenant until the proceedings terminated. Even a receiver could not be appointed in such a case, as it would be an interference with B’s rights. In the present case, accepting the plaintiff’s theory, if the defendant or some one or more of the other cotenants, by force or stealth, were to secure and hold possession of the wells, he or they could fasten a liability on the plaintiffs and the others out of possession for daily or weekly or monthly wages, just as they might see fit to claim. Whether or not a co-owner would receive wages or pay them, be employer or employee, would depend upon who was in the saddle.
+We are satisfied that the act is easily capable of a construction that will avoid such extraordinary results, and therefore need not discuss the question of its constitutionality, if the plaintiff’s interpretation were adopted. The word “ operations ” in the proviso is not to receive the limited meaning claimed for it by the plaintiff. It may mean an utter cessation of all work by everybody or it may, as in the present case, refer to the work or operating of some particular person. The defendant had an undoubted right to withdraw his consent to the plaintiff’s “ operations ” in his behalf and to offer to do his share of the work in person or by proxy. When he did this, the plaintiff had no further right to hold him to a personal liability and pursue him with a common law action. To recover under the statute, a contract, either express or implied, must be shown as the basis of the claim. The legislature never intended to create contracts between parties whose minds are not at least impliedly agreed, or to force one man, against his express dissent, to buy from ox hire another, even although he may in some way be benefited by the latter’s services or goods.
+The court below was clearly right in directing the jury to find for the defendant.
+The judgment is affirmed.
