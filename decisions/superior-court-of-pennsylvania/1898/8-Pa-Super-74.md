@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 3"
+decided: "1898-07-29"
+citations: ["8 Pa. Super. 74"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Wickham, Beaver,- Reeder, Orlady, Smith and Porter, JJ."]
+parties: ["Michael McCartney v. Westmoreland Coal Co., Appellant."]
+source_url: "https://static.case.law/pa-super/8/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 286918
+cites_cases: ["11 Pa. 533", "119 Pa. 139", "161 Pa. 5", "2 W. N. C. 649", "41 W. N. C. 267", "69 Pa. 374", "8 Pa. 51"]
+---
+
+# McCartney v. Westmoreland Coal Co.
+
+## Majority (Beaver, J.,)
+
+Opinion by
+Beaver, J.,
+Plaintiff, employed as a miner by defendant, brought his action before a justice of the peace to recover the sum of $19.47, alleged to be due him for work done for" the defendant. He obtained judgment and, upon an appeal of the defendant to the court of common pleas, filed his statement in which he alleged “that the defendant above named is indebted to the plaintiff above named in the sum of $19.47 with interest thereon from July 31,1896, being for work and labor done and performed for the defendant at his special instance and request in the month of July, A. D. 1896, per statements of defendant dated July 27, 1896; that the whole amount of said sum is due and owing by said defendant to plaintiff and that said defendant is not entitled to any credit thereon and the same remains due and unpaid with interest thereon. The statements or certificates of defendant company aré hereto attached and made part hereof.” Attached to said statement are certificates of defendant’s foreman, containing memoranda of amounts due for the first half and second half of the month of July, 1896. Under blank “quit or discharged” is written in each statement the word “ quits.”
+Upon a trial of the cause, the plaintiff offered in evidence his statement of claim and rested. The defendant then introduced testimony to show the existence of a- custom governing the pay-' ment of wages by defendant to its employees. It is stated in one of the points presented to the court below by the defendant “ that the defendant had a rule under which it employed the present plaintiff and such rule being a part of the contract, by which they had semimonthly pay days and at which time they paid their miners for the half month next preceding the day at which the pay was made and that at the time the miners quit work either voluntarily or by being discharged, certificates were given to them for their time and, in case of being discharged, they were permitted, under the rule of the company, to present these certificates to the office at Irwin where the paymaster was and there receive immediate payment for all amounts owing them; or, in case of a certificate where they quit, to receive their pay at the subsequent pay days as if under employment.”
+The memoranda attached to the plaintiff’s statement were given by the mine foreman for the purpose of conveying information to the proper officials of the company as to whether or not the bearer thereof had voluntarily quit the employment of the company or had been discharged therefrom, the information thus conveyed affecting the time of payment.
+The single question involved in the case is this: Was the plaintiff, by reason of his having attached the memoranda furnished by the mine foreman to his statement in which the word “ quits ” occurs estopped from alleging in answer to the defendant’s testimony that he had not voluntarily quit its employment but had been discharged ? The statement distinctly avers that the amount claimed was due and owing by the defendant to the plaintiff and this statement is to be regarded as relating to the inception of the suit. This is of itself a denial of the defense set up by the defendant, based upon the custom, testimony of which was introduced by it, as to the significance of the word “ quits.” The defendant was, therefore, bound to come to trial prepared not only to show the custom but that, under the custom, the plaintiff was not entitled to recover. That it so understood the statement is shown by the fact that it was prepared at the trial to give testimony as to both propositions. The plaintiff surely had the right in rebuttal to show that the defendant’s testimony in regard to the manner in which he left its employment was erroneous. There was no difference between the character of the claim set forth in the statement and the proof relating thereto. The kind and amount of work, the compensation therefor and the date at which it was done are clearly set forth in the statement and the proof agreed therewith— indeed the statement constituted the proof. If the word “ quits ” had any significance so far as the plaintiff is concerned and was inserted in the memoranda furnished him by the mine foreman for any other purpose than that which is alleged by the defendant, namely, for the purpose of conveying information to the proper officials of the company as to the proper date of payment of the wages therein set forth, the plaintiff’s statement is of itself a denial of its significance and effect and of this the defendant was bound to take notice.
+The case was fairly tried and the question as to whether or not the plaintiff was discharged by the mine foreman or voluntarily quit the employ of the defendant was left in a clear and satisfactory manner to the jury. They had a right to pass upon it under the pleadings and, having done so, we see no reason to disturb the judgment entered upon their verdict.
+Judgment affirmed.
