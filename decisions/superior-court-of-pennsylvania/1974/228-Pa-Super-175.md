@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 1644"
+decided: "1974-06-21"
+citations: ["228 Pa. Super. 175"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Watkins, P. J., Jacobs, Hoffman, Cercone, Price, Van der Voort, and Spaeth, JJ.", "Hoffman and Spaeth, JJ., concur in the result."]
+parties: ["Commonwealth v. Washington, Appellant."]
+source_url: "https://static.case.law/pa-super/228/cases/0175-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 811500
+cites_cases: ["154 A. 2d 322", "161 A. 2d 733", "182 A. 2d 261", "190 Pa. Superior Ct. 401", "198 Pa. Superior Ct. 595", "275 A. 2d 78", "275 A. 2d 81", "299 A. 2d 640", "307 Pa. 507", "442 Pa. 201", "442 Pa. 208", "450 Pa. 152"]
+---
+
+# Commonwealth v. Washington
+
+## Majority (Watkins, P. J.,)
+
+Opinion by
+Watkins, P. J.,
+This is an appeal from the judgment of sentence of the Court of Common Pleas, Trial Division, of Philadelphia, by the defendant-appellant, Lawrence Washington, a minor. The defendant was convicted before Judge Stout without a jury and was sentenced to ten to twenty years for aggravated robbery.
+This is another attempt to persuade this Court to interfere with the trial court’s sentencing prerogative. It has long been settled that the sentence is in the sole discretion of the trial judge unless it exceeds the statutorily prescribed limits or is such to be constitutionally impermissible. Commonwealth v. Lee, 450 Pa. 152, 299 A. 2d 640 (1973); Commonwealth v. Wrona, 442 Pa. 201, 275 A. 2d 78 (1971); Commonwealth v. Marks, 442 Pa. 208, 275 A. 2d 81 (1971); Commonwealth v. Bilinski, 190 Pa. Superior Ct. 401, 154 A. 2d 322 (1959).
+The appellant cited Bilinski, supra, but it is no help to him as this Court indicated that a sentence may be “manifestly excessive” as set forth in Commonwealth v. Garramone, 307 Pa. 507, 161 A. 2d 733 (1932), where it was held a trial judge abused his discretion in imposing a death penalty rather than a life imprisonment sentence. The Supreme Court in that case reasoned that the defendant had no criminal record, that his character was good and there was provocation so that he was entitled to the lighter of the two sentences. Most certainly this does not help the appellant in this case as otherwise the general rule was reiterated.
+The appellant in this case is a juvenile and relies on Commonwealth v. Pouls, 198 Pa. Superior Ct. 595, 182 A. 2d 261 (1962), to argue that the sentence was “manifestly excessive”. This case is clearly distinguishable from the instant case. Judge Woo»side, speaking for the majority of this Court, restated the general rule, but held the sentence of the juvenile was grossly excessive under the peculiar circumstances of the case. The offense was rape and at the time the juvenile was 17 years of age and his victim was a 19 year old girl. The majority felt that it should have been tried in juvenile court. However, the court below erroneously decided that because of a co-defendant being more than 19 years of age that it was mandatory to transfer to the Court of Quarter Sessions. After conviction, the minor was sentenced to 7% to 20 years. The boy had no prior record and had not even ever been in court before and had a list of witnesses to his prior record of good character. As Judge Woodside said in Commonwealth v. Pouls, supra, at page 603: “. . . The defendant was a juvenile when the offense was committed. There was evidence that he had a good reputation. He had never been in either juvenile court or criminal court prior to this offense. Without minimizing the serious nature of the appellant’s offense, we cannot overlook the fact that the criminal dockets are filled with records of rapes committed by more mature men, with criminal records, who, with more determined resistance by the victim, used much greater force. The defendant’s conduct was reprehensible, but he can hardly be classified as one of the most vicious rapists known to the law.”
+However, the instant juvenile was quite a different character. There is no question that the evidence in this case established the crime of aggravated robbery and amply supported the verdict. He was tried before a judge without a jury. The testimony disclosed that the victim was driving alone along Christian Street in Philadelphia when the defendant and a confederate forced their way into his car. They made him lie down on the back of the car threatening to shoot him if he did not obey and keep quiet. They took his money, a wrist watch, the registration card and keys to the car. After holding him prisoner and driving around for some time, they took the victim to an apartment where they kept him captive all night. He escaped in the morning and ran to a gas station and called the police. Two police officers accompanied him to the apartment where they found the two men. The appellant was wearing the victim’s wrist watch and his partner had the keys and registration card of the victim’s car.
+This was a vicious crime. The appellant could have been arrested for kidnapping. Appellant’s criminal history and the gravity of the crime committed in the instant case make the sentence imposed a just and reasonable one. The pre-sentence investigation disclosed the following as set forth in the opinion of the court below: “The Washington report indicated that during his 17 years of life he had been adjudged delinquent four times for possession of narcotics, violation of Uniform Firearms Act and ‘Unlawful Killing’. He had two open robbery cases growing out of arrests for aggravated assault and battery, burglary, robbery and rape. They were either discharged or no disposition is shown. He was a disciplinary problem in and chronic truant from school. He was a ninth grade student, a heroin addict, and the father of two illegitimate children, the whereabouts of whom were unknown. He did not work.”
+Judgment of sentence affirmed.
+Hoffman and Spaeth, JJ., concur in the result.
