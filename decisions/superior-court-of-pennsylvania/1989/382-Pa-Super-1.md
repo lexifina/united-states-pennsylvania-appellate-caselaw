@@ -1,0 +1,39 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "652"
+decided: "1989-02-28"
+citations: ["382 Pa. Super. 1", "554 A.2d 571"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before OLSZEWSKI, DEL SOLE and KELLY, JJ."]
+parties: ["Mary C. ANDURSKY, Appellee, v. Michael A. ANDURSKY, Appellant."]
+source_url: "https://static.case.law/pa-super/382/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 463043
+cites_cases: ["360 Pa.Super. 234", "378 Pa.Super. 474", "379 Pa.Super. 45"]
+---
+
+# Andursky v. Andursky
+
+## Majority (OLSZEWSKI, Judge:)
+
+OLSZEWSKI, Judge:
+This is an appeal from an order enforcing provisions of a property settlement agreement. Appellant raises three issues for our review. Because the trial court lacked jurisdiction to hear appellant’s petition for enforcement of court order, wé do not reach the merits of this appeal and vacate the trial court order.
+The parties were divorced by decree entered July 11, 1984. Incorporated in the divorce decree was the property settlement agreement that was executed on June 4, 1984. Paragraph one of the agreement provides:
+It is specifically understood and agreed by and between the parties hereto, and each of the said parties do hereby warrant and represent to the other, that the execution and delivery of this Agreement while a divorce action is presently pending is not predicated upon nor made subject to any agreement regarding the institution, prosecution, defense or for the non-prosecution or non-defense of any action for divorce....
+Paragraph 16 states, “This Agreement shall be incorporated in the Divorce Decree, but the Agreement shall not merge with said divorce.” The divorce decree of July 11,1984 also states that the agreement is incorporated by reference.
+On March 4, 1988, appellee filed a petition for enforcement of court order, requesting, inter alia, arrearages in the amount of $3,800.01, and attachment of appellant’s pension benefits to avoid further failure to pay. The basis of the petition was paragraph six of the agreement which reads:
+Wife agrees to waive all her rights to temporary or permanent alimony. However, it is expressly understood and agreed by and between the parties, that when the Husband receives pension benefits at the time of his retirement, he shall pay out of such pension benefits, the sum of $150.00 a month as alimony to his wife. Said payments shall be conditioned on the Wife remaining unmarried. If the Wife should remarry after the signing of this Agreement, she shall forfeit all rights to her Husband’s pension benefits.
+In August, 1985, appellant discontinued employment after his employer, Anchor Glass Container, informed him that he could no longer continue with the company due to his physical condition. The company allowed him to retire and receive his pension. Appellant received payments pursuant to an insurance policy until April, 1986 and, thereafter, received monthly company pension benefits in the amount of $631.89. Appellant never made payments pursuant to paragraph six of the agreement. By order of March 30, 1988, the trial court granted appellee’s relief by attaching appellee’s pension benefits. On the same date, the trial court entered judgment, and this timely appeal followed.
+Initially, we note that the failure of either party to raise the issue of lack of subject matter jurisdiction does not prevent this Court from raising the issue sua sponte. Pa.R.C.P. 1032(2); Bolus v. United Penn Bank, 360 Pa.Super. 234, 238-239, 520 A.2d 433, 435 (1987) (“... fact that none of parties below raised the issue of lack of subject matter jurisdiction presents no obstacle to our resolution of this case on that ground.”). Based on our decision in Sonder v. Sonder, 378 Pa.Super. 474, 496, 549 A.2d 155, 165 (1988) (en banc), we conclude that the trial court in the instant case did not have subject matter jurisdiction of this action.
+In Sonder, our Court recently held that an agreement that speaks of incorporation but rejects merger is not enforceable under the Divorce Code. That is, the remedies of attachment of the person and wage attachment are not permissible when the agreement rejects merger. Id.; Dechter v. Kaskey, 379 Pa.Super. 45, 49, 549 A.2d 588, 590 (1988). Such agreements, however, are governed by the law of contract, and are still enforceable in an action in assumpsit or in equity by specific performance although the remedies for enforcement of support orders are not available. Id., 379 Pa.Superior Ct. at 496, 549 A.2d at 165. In Sonder, appellant filed a petition for arrears and reduction based upon the provisions of a separation agreement incorporated in a divorce decree. The agreement stated in pertinent part:
+[A]nd it is further ordered and adjudged and decreed, pursuant to Pa.R.C.P. 1920.1 et seq. and Act 26-1980, 23 P.S. § 1, et seq., the Divorce Code that the terms, provisions, and conditions of certain property settlement agreement between the parties dated November 29, 1983, and attached to this decree and Order as exhibit A is hereby incorporated into this decree and Order by reference as fully as though the same were set forth at length. Said agreement shall not merge but shall survive this decree and Order.
+Id., 379 Pa.Superior Ct. at 486, 549 A.2d at 161. This Court concluded that the trial court had properly dismissed husband’s petition for lack of jurisdiction, since the unmerged separation agreement survived as a contract and did not become part of the court order. In reaching this conclusion, the Bonder Court noted that a support agreement and a support order are enforceable in distinct fashions and are governed by clearly distinguishable principles. Id., 879 Pa.Superior Ct. at 487, 549 A.2d at 162.
+Instantly, we find that the language of the Bonder agreement is similar to that in the agreement sub judice and, therefore, the agreement is a contract governed by principles of contract law. Because this agreement was not merged with the divorce decree, it is not a court order and the extraordinary powers flowing from a court order are not available.
+Appellee brought this matter before the trial court in the form of a Petition for Enforcement of Court Order, and as a remedy, the trial court garnished appellant’s pension benefits. Clearly, the court treated the agreement as a support order enforceable by the statutory remedy of attachment. See, Pa.R.C.P. 1910.22 (Attachment of Wages, Salary and Commissions). The wages, salaries and commissions of individuals, however, are exempt from garnishment except upon an action or proceeding for support or for board for four weeks or less. 42 Pa.C.S.A. § 8127. Consequently, because this agreement is not a support order and because the remedy of attachment is not available on a contract action apart from an action for board for four weeks or less, the attachment of appellant’s benefits is prohibited. In addition, if the agreement had been merged in the court order, which would have permitted the type of enforcement sought, the agreement could have been modified based upon the changed circumstances of the party. This was not considered by the trial court. We, therefore, vacate the trial court order and dismiss the action for lack of subject matter jurisdiction.
+Trial court order vacated and case dismissed. Jurisdiction relinquished.
+. Appellant contends that the trial court erred in:
+(1) interpreting the clause "at the time of his retirement" to include “forced, involuntary withdrawal from employment at age 5[2] due to disability” (Appellant’s brief at 10);
+(2) interpreting the term "pension benefits" to include a company pension only, and to exclude a social security pension; and
+(3) refusing to admit parole evidence of appellant’s understanding of paragraph six of the property agreement.
