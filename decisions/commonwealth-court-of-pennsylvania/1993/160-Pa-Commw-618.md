@@ -1,0 +1,33 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1487 C.D. 1993"
+decided: "1993-12-23"
+citations: ["160 Pa. Commw. 618", "635 A.2d 723"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before PALLADINO and FRIEDMAN, JJ., and NARICK, Senior Judge.", "FRIEDMAN, J., dissents."]
+parties: ["Ron MOSKOVITZ, Petitioner, v. UNEMPLOYMENT COMPENSATION BOARD OF REVIEW, Respondent."]
+source_url: "https://static.case.law/pa-commw/160/cases/0618-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1454630
+cites_cases: ["447 A.2d 1078", "67 Pa.Commonwealth Ct. 574"]
+---
+
+# Moskovitz v. Unemployment Compensation Board of Review
+
+## Majority (NARICK, Senior Judge.)
+
+NARICK, Senior Judge.
+Ron Moskovitz (Claimant) appeals from the order of the Unemployment Compensation Board of Review (UCBR) that affirmed the referee’s denial of benefits to Claimant. We affirm.
+Claimant worked as a sous chef for the Waynesboro Country Club (Employer). During the course of his employment, Claimant apparently became dissatisfied with certain actions of his supervisor towards him. Claimant did not discuss this dissatisfaction with the supervisor or any other management personnel. On November 18, 1992, Claimant submitted a letter notifying Employer of his intent to leave his employment. Claimant gave no reason for quitting, instead offering compliments to various individuals under whom he had worked. Claimant applied for benefits which the Bureau of Unemployment Compensation Benefits and Allowances denied. Claimant appealed.
+Before the referee, Claimant testified to various situations which he felt were abusive and “against his integrity.” Brief at 3. Claimant introduced no witnesses to corroborate his testimony. Employer introduced Claimant’s letter of resignation as well as testimony that Claimant never discussed any dissatisfaction with Employer. The referee denied benefits under Section 402(b) of the Unemployment Compensation Law (Law), Act of December 5, 1936, P.L. (1937) 2897, as amended, 43 P.S. § 802(b). The UCBR affirmed.
+Claimant has filed before this Court a pro se appeal that does not conform with the Pennsylvania Rules of Appellate Procedure. However, after reading Claimant’s brief, we believe it does allow us to meaningfully review his case. Claimant essentially challenges the UCBR’s holding that his voluntary termination was without cause of a necessitous and compelling nature.
+Our courts have consistently held that under Section 402(b) of the Law, the claimant has the burden of proof to show that he voluntarily quit his employment with cause of a necessitous and compelling nature. A compelling and necessitous reason for leaving employment results from circumstances which produce pressure to terminate employment that is both real and substantial, and which would compel a reasonable person under the circumstances to act in the same manner.
+Before the referee, Claimant testified that he left his employment because he was dissatisfied with certain actions taken by his supervisor. However, the evidence also indicated that Claimant, prior to leaving, did not inform his supervisor or any other management of his dissatisfaction. While an employee who is subject to unjust accusations or abusive conduct at the workplace has adequate justification to terminate employment and thus avoid disqualification, he must provide notice of the conduct to the employer. Forty v. Unemployment Compensation Board of Review, 67 Pa.Commonwealth Ct. 574, 447 A.2d 1078 (1982). Even if Claimant had been subject to abusive conduct, Claimant had a responsibility under the Law to notify Employer of the conduct before voluntarily quitting. Id. While Claimant offers reasons to the Court for his failure to notify Employer and produce witnesses, these reasons cannot permit this Court to circumvent well-established law. The evidence presented to the referee by Claimant does not support a conclusion that he terminated his employment for a necessitous and compelling reason.
+Accordingly, we affirm.
+ORDER
+AND NOW, this 23rd day of December, 1993, the order of the Unemployment Compensation Board of Review in the above-captioned matter is hereby affirmed.
+FRIEDMAN, J., dissents.
+. Section 402(b) of that Law provides that a claimant shall be ineligible for compensation for any week in which his employment is due to voluntarily leaving work without cause of a necessitous and compelling nature.
+. Our scope of review is limited to a determination of whether constitutional rights were violated, an error of law was committed or whether necessary findings of fact are supported by substantial competent evidence. 2 Pa.C.S. § 704.
