@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 49"
+decided: "1917-10-08"
+citations: ["68 Pa. Super. 499"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Oready, P. J., Porter, Henderson, Head, Kepiiart, Trexler and Williams, JJ."]
+parties: ["Bradshaw v. Saxton, Appellant."]
+source_url: "https://static.case.law/pa-super/68/cases/0499-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 630913
+cites_cases: ["1 Del. Rep. 25", "134 Pa. 566", "17 Dist. Rep. 889", "2 Dall. 190", "2 Grant 32", "21 Lanc. L. Rev. 332", "27 Pa. 294", "3 P. & W. 53", "32 W. N. C. 472", "6 W. N. C. 541", "6 Watts 265"]
+---
+
+# Bradshaw v. Saxton
+
+## Majority (Head, J.,)
+
+Opinion by
+Head, J.,
+The defendant, for a valuable consideration, made and delivered his promissory note to the plaintiff in the sum of |40. According to the terms of the instrument the note was payable “at 217 Bakewell Building, Pittsburgh, Pa.” The plaintiff did not present the note for payment at the place, named but after its maturity begun an action before a magistrate to recover the debt evidenced by it. The defendant was duly served with a summons. He declined to appear before the magistrate at the date fixed for the hearing. After proof of service and after hearing the testimony of the plaintiff, the magistrate rendered a judgment in favor of the plaintiff for the amount of his debt and costs $4.62. It is impossible for us to see how he could have done otherwise. His judgment was therefore correct in the light of the record and evidence presented to him. The defendant, not denying at any time the validity of the debt, took an appeal to the county court, and as a prerequisite, paid the $4.62 costs, which, is the whole matter in controversy in this litigation. The case was tried in the county court by consent of the parties before a judge without a jury and resulted in a judgment in favor of the plaintiff for the amount admittedly due to him, which judgment of course carried costs. There Avas an application for a reargument and the court again heard argument upon the-question of the liability for costs and again entered a general judgment in favor of the plaintiff. Thereupon the defendant caused to be issued out of the Court of Common Pleas a writ of certiorari to bring up the record for review by that court. It appears that court was convinced the defendant was not liable for costs and consequently entered a judgment for the plaintiff for $40.50 without costs. The plaintiff then takes this appeal.
+The question of Iuav involved turns on the failure of the plaintiff to present his note for payment at the place and -time indicated therein. Section seventy of our Negotiable Instrument Act declares “Presentment for payment is not necessary in order to charge the person primarily liable on the instrument, but if the instrument is by its terms payable at a special place and he is able and willing to pay it there at maturity, such ability and willingness are equivalent to a tender of payment on his part.” The defendant has contended all the way through this litigation that because the statute created a constructive tender by Mm, resulting from the failure of the holder of the note to' present it, there was nothing more he was required to do even when he was summoned to appear in a court having jurisdiction of the subject-matter and the parties. Now it will be observed that although the statute may put him in the same position as if he had made1 an actual tender of the money due which had been declined, the plaintiff had not yet had an opportunity to accept anything. The defendant was not in a position to rely even on the constructive tender until he had satisfied some tribunal by proof that he was actually able and willing to pay the note at the time and place where it should have been presented. When summoned before the magistrate, it was plainly his duty to attend and offer to confess a judgment for the amount of the note which he admitted to be due and then make such proof as would have justified the magistrate in entering a judgment for the plaintiff without costs. When he went into the county court, he neither offered any money nor any judgment, and the plaintiff has at all times been compelled to obtain an adverse judgment or take nothing.
+Under these circumstances we are of opinion both the magistrate and the county court were right in entering a judgment for the plaintiff with costs. As the writ from the Court of Common Pleas was a writ of certiorari, no appeal having been applied for, we think it was the duty of that court, upon an inspection of the record, to have affirmed the judgment of the county court. It was a mistake to reform it or modify it. For the reasons given we reverse the judgment of the Common Pleas in so far as to strike off the words “without costs” and we affirm the judgment of the county court ■ of Allegheny County. The appellee for costs,
