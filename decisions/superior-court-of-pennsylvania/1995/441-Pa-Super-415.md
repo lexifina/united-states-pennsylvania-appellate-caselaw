@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+decided: "1995-04-26"
+citations: ["441 Pa. Super. 415", "657 A.2d 992"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DEL SOLE, BECK and CERCONE, JJ."]
+parties: ["AIMEE’S TOUCH, INC. and Lynne Weiss, Jack Weiss and Shirley Weiss, H/W, Appellants, v. Mitchell A. KRAMER, Esquire and Mitchell A. Kramer & Associates, Appellees."]
+source_url: "https://static.case.law/pa-super/441/cases/0415-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 718041
+cites_cases: ["433 Pa.Super. 581", "529 Pa. 350", "641 A.2d 612"]
+---
+
+# Aimee's Touch, Inc. v. Kramer
+
+## Majority (DEL SOLE, Judge:)
+
+DEL SOLE, Judge:
+This appeal is presented before us following the denial of Appellants’ Petition To Open and/or Strike A Judgment Of Non Pros which was entered against them.
+Action was initially taken in February of 1989 when Appellants served a Praecipe to Issue Summons on Appellees. The trial court recounts that no action was then taken until June of 1992 when Appellant’s counsel was replaced by new counsel who entered an appearance. Counsel for Appellee thereafter entered an appearance in December of 1993, and because a complaint had not yet been filed, Appellees filed a Rule to File a Complaint. In January of 1994 Appellees filed a Motion for Judgment of Non Pros and withdrew their Rule to File a Complaint. The court granted Appellees’ motion and subsequently denied a petition to open and/or strike the judgment of non pros. This appeal followed.
+Appellants do not suggest on appeal that the trial court employed the wrong test when ruling on Appellees’ motion. Rather, they argue that they proceeded diligently in an effort to bring the case to trial but were thwarted by Appellees’ “duplicity.” Appellants maintain that after the entry of their new counsel in 1992 they took action including the forwarding of a completed Civil Case Information Form in July of 1992 and a Professional Malpractice Settlement Memo in December of 1992. Appellants’ assert that through misrepresentations of Appellees’ counsel Mr. Altman, they did not file a complaint in order to enable Appellees to familiarize themselves with the facts of the case and explore the possibility of settlement. They suggest that they agreed to refrain from filing the Complaint to “avoid embarrassment to the defendants over a sensitive matter such as a legal malpractice action.”
+The trial court was presented with the claims made by Appellants when considering the motion for the judgment of non pros and when considering Appellants’ request to open and/or strike that judgment. It was also Appellants position before the trial court that “the major reason for the delay was their inability to locate defendants.” The court did not accept this excuse as “credible” and did not conclude that the rationale offered by the Appellants justified the delay in this case. As Appellants recognize, a determination as to whether a judgment of non pros should be entered due to the failure of a plaintiff to prosecute, is a matter which rests within the sound discretion of a trial court. Blackburn v. Sharlock, 433 Pa.Super. 581, 641 A.2d 612 (1994). Absent a manifest abuse of that discretion, the court’s ruling will not be disturbed. Id. There is nothing to suggest that the court abused its discretion in this case.
+Appellants also appear to suggest that Appellees should be faulted for doing “absolutely nothing to call to the attention of Plaintiffs their alleged inactivity until January 11, 1994.” We remind Appellants, however, that it is not the defendant’s responsibility to keep watch over the case. A plaintiff has the ultimate responsibility to pursue its cause of action in a diligent manner. Penn Piping, Inc. v. Insurance Company of North America, 529 Pa. 350, 603 A.2d 1006 (1992).
+Finally, Appellants maintain that a necessary finding of prejudice cannot be made in this case. They argue that prejudice cannot be presumed, nor was it specifically shown on the record. Appellants submit that the time from February of 1989 until June of 1992, when they acquired new counsel, should not be considered because they did not know that their counsel was not pursuing the case. Appellants also assert that no actual prejudice was demonstrated since there was nothing to suggest that a witness or an item of evidence can no longer be produced.
+As the trial court noted, prejudice may be presumed where a plaintiff has failed to act in excess of two years. Penn Piping v. Insurance Company of North America. In this case, Appellants have offered no excuse regarding the initial delay from 1989 until June of 1992. Further, even after new counsel entered an appearance, a complaint was still never filed. The Appellees’ request for a Judgment of Non Pros did not occur until nearly another year and a half passed. When the court finally entered a Judgment of Non Pros in March of 1994, it acted well within its discretion.
+Order affirmed.
+. We call counsel's attention to the fact that the appropriate method to seek relief is found in Pa.R.C.P., Rule 3051, 42 Pa.C.S.A. and is captioned a Petition for Relief from Judgment of Non Pros. Because Appellants had requested the type of relief contemplated in the rule, we will disregard, in this instance, the misnaming of their petition.
