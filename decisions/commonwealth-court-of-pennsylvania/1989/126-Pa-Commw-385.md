@@ -1,0 +1,46 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "980 C.D. 1988"
+decided: "1989-06-07"
+citations: ["126 Pa. Commw. 385", "559 A.2d 1007"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CRUMLISH, Jr., President Judge, and COLINS, J., and BARBIERI, Senior Judge."]
+parties: ["1204 CORPORATION, Appellant, v. The JOINT ZONING HEARING BOARD, Board of Crafton, Rosslyn Farms and Thornburg Boroughs and Norman Roth, Appellees."]
+source_url: "https://static.case.law/pa-commw/126/cases/0385-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1389059
+cites_cases: ["113 Pa.Commonwealth Ct. 444", "425 A.2d 1163", "447 A.2d 1075", "454 A.2d 199", "56 Pa.Commonwealth Ct. 471", "67 Pa.Commonwealth Ct. 552", "70 Pa.Commonwealth Ct. 555"]
+---
+
+# 1204 Corp. v. Joint Zoning Hearing Board
+
+## Majority (CRUMLISH, Jr., President Judge.)
+
+OPINION
+CRUMLISH, Jr., President Judge.
+1204 Corporation appeals an Allegheny County Common Pleas Court order affirming the Crafton, Rosslyn Farms and Thornburg Boroughs’ Joint Hearing Board (Board) decision quashing its appeal as untimely. Section 915 of the Pennsylvania Municipalities Planning Code (Code). We affirm.
+1204 Corporation is a property and building owner within the Crafton-Ingram Shopping Center in Crafton Borough (Borough). At the inception of this controversy, Roth (intervenor), who operated a supermarket in one of 1204 Corporation’s buildings, filed a conditional use application to enlarge another building within the shopping center where he proposed to relocate his supermarket. At the regular meeting of the Joint Planning Commission of Crafton, Rosslyn Farms and Thornburg Boroughs (Planning Commission), Roth presented “Preliminary Site Plans for Application of ... Conditional Use Approval.” A public hearing was scheduled at which the Planning Commission recommended “approval of site plan as presented for proposed retail food store ...” and forwarded this recommendation to the Borough.
+The Borough Council voted that Roth’s application to extend the property be approved “subject to Section 1704.16 of the Zoning Ordinance” (requiring parking area traffic control devices). Although 1204 Corporation attended this public meeting and voiced concerns over the building’s expansion, it did not file an appeal. Instead, 1204 Corporation memorialized its objections in a letter and sent it to the Borough nine days thereafter. Seven months later, the Borough’s Building Inspector issued the required building and demolition permits for the store’s expansion whereupon 1204 Corporation immediately requested a hearing to challenge the zoning officer’s actions. Roth filed a motion to quash which the Board granted. On appeal, the common pleas court affirmed.
+1204 Corporation contends that the final appealable event was the zoning officer’s failure to deny the building and demolition permits and not the Borough’s approval of Roth’s conditional use application. 1204 Corporation argues that the zoning officer had the legal authority to withhold the permits because Roth’s application, although apparently approved, was in violation of the Ordinance.
+1204 Corporation appealed pursuant to Code Section 1007, 53 P.S. § 11007:
+Persons aggrieved by a use or development permitted on the land of another who desire to secure review or correction of a decision or order by the. governing body or of any officer or agency of the municipality which has permitted the same, on the grounds that such decision or order is not authorized by or is contrary to the provisions of an ordinance or map shall first submit their objections to the zoning hearing board under sections 909 and 915....
+Section 915, in turn, requires that an individual aggrieved by a borough council decision granting a conditional use application must first appeal to the zoning hearing board within thirty days. Schultz v. Zoning Hearing Board of West Wyoming Borough, 67 Pa.Commonwealth Ct. 552, 447 A.2d 1075 (1982). Thus, we must determine if 1204 Corporation’s appeal was properly quashed as an untimely appeal from the approval of a conditional use application.
+Our review of the record discloses that Roth applied for a conditional use approval. Not only does Roth’s February 12, 1985 letter to the Planning Commission specifically request conditional use approval but the Planning Commission’s minutes of its meeting, as well as its subsequent advertisements of the March 6, 1985 public hearing, refer to conditional use approval. 1204 Corporation asserts that it relied on the Planning Commission’s minutes and the Borough’s approval motion, wherein it was discussed that Roth’s application pertained to an extension of an existing building which made conditional use approval unnecessary. However, we have no problem concluding that the Borough approved a conditional use application, particularly in light of the ordinance’s requirement that expansions resulting in excess of 10,000 square feet of floor space be classified as conditional uses. Moreover, Section 915 of the Code requires that persons challenging development applications, “preliminary or final,” must do so within thirty days. 53 P.S. 10915. Thus, 1204 Corporation’s argument that Roth was seeking only site plan approval and not conditional use must fail.
+Our determination also disposes of 1204 Corporation’s contention that it need not have challenged the Borough Council’s approval until building permits were issued because a variance was necessary to cure Roth’s noncompliance. Here, although approval of Roth’s application was subject to § 1704.16, conditional uses are commonly approved subject to such requirements, see, e.g., Barner v. Board of Supervisors of South Middleton Township, 113 Pa.Commonwealth Ct. 444, 537 A.2d 922 (1988), and the record discloses that Roth intended to comply. Thus, because a variance was not required, we need not address 1204 Corporation’s claim that its right to appeal commenced when the zoning officer allegedly issued permits that failed to comply with the ordinance’s provisions requiring a variance.
+Similarly, we find no merit in 1204 Corporation’s argument that the zoning officer’s permit issuing powers are so pervasive that they confer authority to deny the permits where procedural irregularities have allegedly occurred. If 1204 Corporation desired to challenge the zoning officer’s decision because of literal noncompliance with the Ordinance’s change or use provisions, 53 P.S. § 10614, or its building code, it may have brought an appeal from the issuance of a permit. 53 P.S. § 10909. However, 1204 Corporation challenges the grant of approval for the expansion itself and bases its challenge to the building and demolition permits on procedural defects in the use approval process. The merits of these issues were ripe for review when the Borough approved the conditional use and cannot be collaterally attacked based on the zoning officer’s limited permit issuing authority. Mosside Associates v. Zoning Hearing Board of Monroeville, 70 Pa.Commonwealth Ct. 555, 454 A.2d 199 (1982). See also Toro Development Co. v. Department of Environmental Resources, 56 Pa.Commonwealth Ct. 471, 425 A.2d 1163 (1981). We conclude that 1204 Corporation’s appeal was permissibly quashed as untimely, and accordingly, we affirm.
+ORDER
+The Allegheny County Common Pleas Court order, No. S.A. 2206 of 1985 dated March 31, 1988, is affirmed.
+. Act of July 31, 1968, P.L. 805, as amended, 53 P.S. § 10915.
+. Buildings located in a Cl neighborhood shopping district proposing enlargements resulting in a gross floor area in excess of 10,000 square feet are classified as a “conditional use.” Crafton Borough Zoning Ordinance, Section 901.11(j).
+. Conditional use may be permitted after a public hearing, report and recommendation by the Planning Commission subject to the Crafton Borough’s approval. Borough Ordinance, Section 1901.
+. Minutes of the Planning Commission (Minutes), 2/27/85. Reproduced Record (R.R.), p. 213(a).
+. Minutes, 3/6/85, R.R., p. 216(a).
+. Minutes of the Crafton Borough Council, 3/19/85, R.R., p. 219(a).
+. The Board granted Roth’s motion pursuant to Code Section 915, 53 P.S. § 10915, which states, in relevant part:
+No person shall be allowed to file any proceeding with the board later than thirty days after any application for development, preliminary or final, has been approved by an appropriate municipal officer, agency or body if such proceeding is designed to secure reversal or to limit the approval in any manner unless such person alleges and proves that he had no notice, knowledge, or reason to believe that such approval had been given.
+. Code Section 909, 53 P.S. § 10909, provides:
+The board shall hear and decide appeals where it is alleged ... that the zoning officer has failed to follow prescribed procedures or has misinterpreted or misapplied any provision of a valid ordinance ... or regulation governing the action of the zoning officer.
+. Crafton Borough Zoning Ordinance, § 1902.2, requires that, when necessary, a variance must be obtained from the Zoning Hearing Board before the Borough can approve a conditional use exception.
+. Minutes 3/19/85, R.R., p. 226(a).
