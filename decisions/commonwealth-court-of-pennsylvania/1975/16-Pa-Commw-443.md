@@ -1,0 +1,31 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 74 C.D. 1974"
+decided: "1975-02-19"
+citations: ["16 Pa. Commw. 443"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Mencer and Blatt, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania, Department of Transportation, Bureau of Traffic Safety, Appellant, v. Peter Charles Marchetti, Appellee."]
+source_url: "https://static.case.law/pa-commw/16/cases/0443-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1863362
+cites_cases: ["11 Pa. Commonwealth Ct. 544", "12 Pa. Commonwealth Ct. 260", "12 Pa. Commonwealth Ct. 349", "2 Pa. Commonwealth Ct. 540", "279 A. 2d 77", "314 A. 2d 884", "315 A. 2d 333", "315 A. 2d 881"]
+---
+
+# Commonwealth, Department of Transportation v. Marchetti
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+The operator’s license of Peter Charles Marchetti (Marchetti) was suspended by the Secretary of Transportation (Secretary) when his record as kept by the Department of Transportation (Department) indicated that he had accumulated eleven points as a result of three separate violations of The Yehicle Code. He was duly notified that the suspension would take effect as of September 12, 1973, but, when he appealed to the Court of Common Pleas of Westmoreland County, the suspension was thereby superseded. At a hearing in that court before Judge Mihalich, the Commonwealth sought to prove that Marchetti had been convicted of a speeding violation on September 29, 1970 and offered in evidence the conviction report which had been completed by a magistrate and forwarded to the Department. It was the contention of the Commonwealth that three of the six points assessed by the Department for that violation still remained on Marchetti’s record in 1973 at which time, when added to the eight points subsequently assessed against him for later convictions, they brought the total of the points assessed against him to eleven which required the automatic suspension of his license. The lower court sustained Marchetti’s objection to the admission of the report and granted his appeal. The Commonwealth now appeals to this Court from that order.
+Our scope of review here is limited to determining whether or not the findings of the lower court are supported by competent evidence and to correct any erroneous conclusions of law, and the action of the court below will not be disturbed on appeal except for manifest abuse of discretion. Commonwealth v. McCartney, 2 Pa. Commonwealth Ct. 540, 279 A. 2d 77 (1971); Diamond v. Commonwealth, 12 Pa. Commonwealth Ct. 260, 315 A. 2d 881 (1974).
+The conviction report which the Commonwealth attempted to introduce in this case was completed on a form prepared pursuant to the requirements of Section 1209(a) of The Vehicle Code, 75 P.S. §1209(a). This Section provides that every magistrate in the Commonwealth shall keep a report of every case in which a person is charged with a violation of The Vehicle Code and that every magistrate shall make a monthly report to the Department as to the disposition of such cases. As to the form of such reports, Section 1209(a) states: “Abstracts required by this section shall be made upon forms prepared by the department, and shall include all necessary information as to the parties to the case, the nature of the offense, the date of hearing, the plea, the judgment, and the amount of the fine or forfeiture, and every such abstract shall be certified by the magistrate as a true abstract of the record of the court.”
+Rule 140 of the Pennsylvania Rules of Criminal Procedure at the time of the report provided: “The report of disposition of summary offenses required of issuing authorities by The Vehicle Code shall consist of a copy of the written instrument by which the prosecution was commenced or carried on, which copy shall set forth the certification of the issuing authority as to adjudication, sentence imposed, if any, and final disposition. Said report shall be made as required by law.” Marchetti argues that because the magistrate’s report here did not contain a copy of such a written instrument, it did not comply with, this rule and was properly excluded by the lower court. We must agree.
+In Commonwealth v. Vallozzi, 12 Pa. Commonwealth Ct. 349, 315 A. 2d 333 (1974) we recognized that Section 1209(a) and Rule 140 appeared to be contradictory and in that case we resolved the conflict by holding that Section 1209 (a) has been superseded by Rule 140. Indeed Rule 130 and the footnote to Rule 140 indicate that Section 1209 was suspended insofar as it was inconsistent with the Rules. Moreover, it is clear that records of conviction must be reported by the magistrates and courts of record to the proper department in proper form, and, if they are not in proper form, the Secretary has no authority to assess points. Epps v. Commonwealth, 11 Pa. Commonwealth Ct. 544, 314 A. 2d 884 (1974).
+The Commonwealth argues that Rule 140 applies only where the prosecution was initiated by citation and not, as here, where a criminal complaint has been used. This argument, however, is without merit. The rule requires that the report “shall consist of a copy of the written instrument by which the prosecution was commenced or carried on.” Clearly by its own terms, the rule is applicable regardless of whether the prosecution is commenced by citation or by complaint. Moreover, contrary to the assertions of the Commonwealth in its brief, the Yallozzi case also involved a prosecution which was begun by traffic complaint and summons and yet we there held that Rule 140 was applicable. Finally, we must point out that the conviction report which the lower court rejected does not on its face indicate whether the prosecution was commenced by citation or by complaint nor does this information appear elsewhere on the official record.
+For the foregoing reasons, therefore, we affirm the order of the lower court.
+Act of April 29, 1959, P. L. 58, Section 101 et seq., as amended, 75 P.S. §101 et seq.
+Rule 140 has been renumbered as Buie 69 and amended September 18, 1973, effective January 1, 1973.
