@@ -1,0 +1,54 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "01531"
+decided: "1996-03-29"
+citations: ["449 Pa. Super. 359", "673 A.2d 982"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DEL SOLE, HUDOCK and BROSKY, JJ."]
+parties: ["Lorraine ELIAS, Appellant, v. George SPENCER, Appellee."]
+source_url: "https://static.case.law/pa-super/449/cases/0359-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 734385
+cites_cases: ["349 Pa.Super. 524", "415 Pa.Super. 591", "434 Pa.Super. 288", "439 Pa.Super. 372", "440 Pa.Super. 280", "462 Pa. 36", "506 Pa. 404", "514 Pa. 648", "518 Pa. 137", "524 A.2d 494", "530 Pa. 176", "538 Pa. 441", "642 A.2d 1136", "648 A.2d 1192", "654 A.2d 563", "655 A.2d 563"]
+---
+
+# Elias v. Spencer
+
+## Majority (HUDOCK, Judge:)
+
+HUDOCK, Judge:
+In this appeal Lorraine Elias (Mother) claims that the trial court abused its discretion in deviating downward from the guideline amount in an action for child support. We reverse and remand for further proceedings.
+The facts may be summarized as follows: On April 11,1995, Mother filed a petition to modify a child support order issued against George Spencer (Father) in which she sought an increase in support. As of that date, Mother had been receiving $250 a month for the support of the child, Alycia. A support conference was scheduled for May 15, 1995. Because the parties were unable to reach an agreement, a hearing was held before a hearing officer pursuant to Pa.R.C.P. 1910.12, 42 Pa.C.S.A Thereafter, the hearing officer recommended that Father pay $450 per month for the support of Alycia and provide medical insurance for the child’s benefit through his employer. The hearing officer’s report also stated that there were no reasons which would warrant a deviation from the guideline recommendation. Father filed timely exceptions to the hearing officer’s report and recommendation. The trial court heard argument on these exceptions and issued an order and memorandum opinion on July 11, 1995 in which the amount of support was reduced to $375 per month. The trial court specifically stated that the downward deviation was warranted due to Father’s “new family and his personal expenses in general[.]” On appeal to this Court, Mother contends that these reasons are insufficient to support a downward deviation and further contends, therefore, that the trial court erred in doing so.
+Our standard of review is well-settled:
+The standard of appellate review of child support matters has not changed; a reviewing court must continue to apply an abuse of discretion standard. Costello v. LeNoir, 462 Pa. 36, 337 A.2d 866 (1975). A support order will not be disturbed on appeal unless the trial court failed to consider properly the requirements of the Rules of Civil Procedure Governing Actions for Support, Pa.R.C.P. 1910.1 et seq., or abused its discretion in applying these Rules. O’Callaghan v. O’Callaghan, 530 Pa. 176, 607 A.2d 735 (1992); Hovis v. Hovis, 518 Pa. 137, 541 A.2d 1378 (1988); Barletta v. Barletta, 506 Pa. 404, 485 A.2d 752 (1985); LaBuda v. LaBuda, 349 Pa.Super. 524, 503 A.2d 971 (1986), appeal denied, 514 Pa. 648, 524 A.2d 494 (1987).
+Ball v. Minnick, 538 Pa. 441, 448-49, 648 A.2d 1192, 1196 (1984).
+Mother argues that the trial court’s decision to deviate downward from the guideline amount is unsupported by the record because Father never testified that he or any member of his new family has unusual needs or fixed obligations, or medical expenses not covered by health insurance. Mother further argues that a multiple family calculation of the support obligations based upon the guidelines would garner less than fifty percent of Father’s net monthly income to fulfill his child support obligations. We agree.
+As this Court has recently stated:
+The rules make clear that the amount of support as determined from the support guidelines is presumed to be the appropriate amount of support and that any deviation must be based on Rule 1910.16-4.
+******
+The presumption is strong that the appropriate amount of support in each case is the amount as determined from the support guidelines. However, where the facts demonstrate the inappropriateness of such an award, the trier of fact may deviate therefrom. This flexibility is not, however, intended to provide the trier of fact with unfettered discretion to, in each case, deviate from the recommended amount of support. Deviation will be permitted only where special needs and/or circumstances are present such as to render an award in the amount of the guideline figure unjust or inappropriate.
+McCarty v. Smith, 440 Pa.Super. 280, 284, 655 A.2d 563, 565 (1995) (quoting Ball v. Minnick, 648 A.2d at 1195-96 (1994)).
+Rule 1910.16-4 of the Pennsylvania Rules of Civil Procedure provides a list of eight circumstances to which a court may refer when providing its reasons for deviating from the guideline amount:
+Rule 1910.16-4. Support Guidelines. Deviation
+(a) If the amount of support deviates from the amount of support determined by the guidelines, the trier of fact shall specify, in writing, the guideline amount of support, and the reasons for, and findings of fact justifying, the amount of the deviation.
+(b) In deciding whether to deviate from the amount of support determined by the guidelines, the trier of fact shall consider
+(1) unusual needs and unusual fixed obligations;
+(2) other support obligations of the parties;
+(3) other income in the household;
+(4) ages of the children;
+(5) assets of the parties;
+(6) medical expenses not covered by insurance;
+(7) standard of living of the parties and their children; and
+(8) other relevant and appropriate factors, including the best interests of the child or children.
+Pa.R.C.P., Rule 1910-16.4.
+As our Supreme Court further stated in Ball v. Minnick:
+As we said previously, deviations are governed by Rule 1910.16-4 in support proceedings involving parties whose incomes fall within the guideline figures. Subsection (b) of this Rule sets forth the only factors that a trier of fact may consider in determining whether to deviate. The trier of fact is required to consider all relevant factors and any one factor alone will not necessarily dictate that the amount of support should be other than the guideline figure. Rather, the trier of fact must carefully consider all the relevant factors and make a reasoned decision as to whether the consideration thereof suggests that there are special needs and/or circumstances which render deviation necessary. Furthermore, where the trier of fact does determine that the circumstances warrant a departure from the guideline amount, the justification for any such deviation must be explicitly set forth in writing, giving particular attention to those factors which this Court, in adopting the guidelines, has specifically deemed relevant. See Pa.R.C.P. 1910.16-4(a). General references to the effect that “all relevant factors have been considered” is wholly insufficient.
+Ball v. Minnick, 648 A.2d at 1196 (emphasis in original) (footnote omitted). See also McGinnis v. McGinnis, 439 Pa.Super. 372, 375-77, 654 A.2d 563, 565 (1995) (presumption that guideline figure is appropriate amount of support is rebutted only where the trier of fact makes written finding or specific finding on record that an award in the amount determined from the guidelines would be unjust or inappropriate); Young v. Muthersbaugh, 415 Pa.Super. 591, 596-98, 609 A.2d 1381, 1384 (1992) (a trial court should deviate from the guidelines only when the obligor can establish unique financial needs).
+Given the above comments, the trial court’s general statement in the present case that a downward modification is warranted “considering [Father’s] new family and personal expenses” provides an insufficient justification for an approximate twenty percent reduction in Father’s support obligation. See Connor v. Connor, 434 Pa.Super. 288, 293-94, 642 A.2d 1136, 1139 (1994) (trial court’s meager explanation did not justify twenty-seven percent reduction of defendant’s obligation); see also McCarty, 655 A.2d at 565 (trial court could not deviate from guideline amount based on current spouse’s net income without testimony or evidence regarding current spouse’s contributions toward joint expenses of wife’s new household).
+Moreover, our own review of the record reveals that there was no evidence presented which would establish any special obligations or circumstances justifying an award lower than the recommended guideline figure. While we recognize that Father appeared at the May 15, 1995, Master’s hearing without counsel, he provided little testimony which would support any deviation. Although he testified that he had filed for bankruptcy approximately eighteen months earlier, he provided no testimony as to the effect of this action on his financial needs and the trial court made no specific reference to this fact in its memorandum order modifying the Master’s recommendation. Father only asked the Master to take into consideration the fact that he has a new wife and son to support. While this fact is to be considered by the trial court, we concur with Mother’s assertion that, under Rule 1910.16-5(n), Awards of Child Support When There Are Multiple Families, Father’s total support obligations are less than fifty percent of his net income and would not, therefore, provide a reason for reducing Father’s support obligation for Alycia.
+Order reversed. The case is remanded for the imposition of an award in the amount of the appropriate guideline figure. Jurisdiction relinquished.
+. Father has not filed an appellate brief.
+. Given the incomes as found by the Master and undisputed on appeal, the guideline amount of support for Alycia is $462 per month. The Master recommended only $450 a month because that was the amount requested by Mother. A plain reading of our Supreme Court’s rationale in Ball v. Minnick, supra, however, leads us to conclude that, unless there is a reason or reasons justifying a deviation, the guideline figure must be awarded.
+. The trial court has not filed a 1925(a) opinion in this appeal.
