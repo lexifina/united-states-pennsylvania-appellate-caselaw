@@ -1,0 +1,34 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1022 C.D. 1974"
+decided: "1975-02-27"
+citations: ["16 Pa. Commw. 575"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Kramer, Rogers and Blatt, sitting as a panel of three."]
+parties: ["Pennsylvania State Harness Racing Commission, Appellee, v. Ronald S. Dancer, Appellant."]
+source_url: "https://static.case.law/pa-commw/16/cases/0575-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1863363
+cites_cases: ["332 U.S. 1"]
+---
+
+# Pennsylvania State Harness Racing Commission v. Dancer
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+During 1974, the appellant Ronald S. Dancer, a licensed trotting horse driver, was training and driving a five year old pacer named Scarpia at Liberty Bell Park. The horse, which had been driven by the appellant’s father Stanley Dancer during 1973, had displayed a tendency to break pacing stride and to lunge. It was, therefore, a dangerous horse. His trainers, including the appellant, decided to race Scarpia during the 1974 seasons without hobbles — that is, as a so-called free-legged pacer. Hobbles catch pacing horses in stride, promote pacing and discourage breaking or lunging.
+Scarpia’s first 1974 start at Liberty Bell Park was on February 16. As Dancer brought Scarpia to the gate, the horse broke, fell thirty lengths off the field, but recovered, circled the field and lost the race by only half a length. After the race Dancer called his father whom he described as the only person “who could get along with” Scarpia and was advised to keep the horse’s nose off the gate and to tell Liberty Bell’s starter that Scarpia was a bad gate horse and one which would have to be kept off the gate in order to keep him pacing. Ronald Dancer related this information to Robert Dale, Liberty Bell’s veteran Starter. Dale told Dancer that he would have to have his horse in position when the word “go” was given.
+At this point it is appropriate to record that Rule 16, Section l(k) (7) of the Rules of the Pennsylvania State Harness Racing Commission provides:
+“Penalties may be imposed against any driver by the Starter, with the approval of the Presiding Judge, for
+“Failing to come up into position.”
+Scarpia’s next start was February 22. Dancer described his actions on this occasion as follows: “On February 22nd I had the number 5 post position and I kept the horse off the gate ... I kept this horse off the gate in the same similar manner as I did on the March 23rd race and I got the horse away pacing. I did not take a position away from any other horse in that race, I merely kept my horse off the gate and kept him pacing, merely to protect [the] betting public’s interest.” After the race, which Scarpia won, Robert Dale told Dancer that his horse was too far off the gate and that a three day suspension would be imposed. Dancer explained his difficulties with Scarpia. Dale stated that he would not make exceptions but that Dancer might discuss the matter with Mr. David Witten, the Presiding Judge, whose approval was required for any suspension. There followed a number of discussions with Mr. Witten in which Dancer’s lawyer participated, during the course of which Dancer told the presiding judge “I am not going to guarantee him anything about keeping that horse off the gate, that I will not be any further than two or two and [a] half lengths off the gate. I will not guarantee it.” In the end, the suspension was not imposed.
+Scarpia, with Dancer in the sulky, started again on March 1, March 8 and March 16. As Dancer described his activities: “I handled my horse in the same successful pattern that I had in all previous race starts at Liberty Bell by keeping him off the gate.” The track was sloppy on March 8th and March 16th and, as the Commission found, the Starter extended leniency on these occasions for this reason.
+The crucial race occurred on March 23. It is undisputed that as the horses straightened out in the back stretch, the Starter, Dale, told Dancer to get his horse, which was then a length off the gate, to the gate, but as the gate moved up to maximum speed Dancer gradually lost ground until the time the Starter gave “go,” at which time he was two and a half lengths off the gate. After the race, the Starter suspended Dancer for three days and the Presiding Judge approved. The Pennsylvania Harness Racing Commission affirmed the action of the Starter and Presiding Judge. Dancer has appealed the Commission’s order.
+The appellant first argues that the Rule he was found to have violated is unconstitutionally vague. We disagree. The Rule requires drivers to come up into a starting position. As the concept is simple, so is the rule. It means simply that the participants in harness races must begin the contest at the starting place. Obviously, this kind of a horse race which does not admit of standing starts must leave something to the judgment of the Starter, and the Starter at the Commission’s hearing described in considerable detail the limits of deviations tolerated by his profession. Among these was his statement that a position two and one-half lengths off the gate could in no circumstances be adjudged to be “up into starting position.” In United States v. Petrillo, 332 U.S. 1 (1947) the Supreme Court upheld as against a charge of vagueness and uncertainty a criminal statute making it unlawful to coerce an employer to employ persons in excess of a number needed to perform actual services. The court held that persons of ordinary intelligence would be able to know from a reading of the statute when their actions ■ would force an employer to hire employes he did not need. Here a driver of ordinary intelligence would in our judgment be able to know when his horse was up into position at the start of a race: The Commission’s rule provides an adequate warning as to what falls under its ban and is sufficient for Starters. Racing Judges, Commissions and Judges of the Courts to administer. Indeed, Dancer, as his quoted testimony shows, was well aware that he was off the gate. The appellant’s arguments on the facts seem to suggest that because one threatened suspension had not been carried out and his violations were thereafter repeated, he acquired a license to drive Scarpia in violation of the Commission’s rule. They wholly ignore the obvious alternative of withdrawing the horse for further training.
+The Commission’s findings that the appellant violated its rule on March 23, 1974 are amply supported by the evidence and we therefore enter the following
+Order
+And Now, this 27th day of February, 1975, it is ordered that the instant appeal be and it hereby is dismissed.
