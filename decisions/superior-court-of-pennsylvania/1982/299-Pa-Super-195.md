@@ -1,0 +1,39 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "331"
+decided: "1982-05-07"
+citations: ["299 Pa. Super. 195", "445 A.2d 521"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CERCONE, President Judge, and McEWEN and HOFFMAN, JJ.", "HOFFMAN, J., files a dissenting opinion."]
+parties: ["Samuel BASSION v. Frances JANCZAK, Appellant."]
+source_url: "https://static.case.law/pa-super/299/cases/0195-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 189627
+cites_cases: ["260 Pa.Superior Ct. 23", "279 Pa.Superior Ct. 101", "279 Pa.Superior Ct. 130", "287 Pa.Superior Ct. 265", "287 Pa.Superior Ct. 319", "287 Pa.Superior Ct. 414", "288 Pa.Superior Ct. 522", "291 Pa.Superior Ct. 255", "428 A.2d 1041", "59 Pa.Commonwealth Ct. 123"]
+---
+
+# Bassion v. Janczak
+
+## Majority (McEWEN, Judge:)
+
+McEWEN, Judge:
+Appellant contends that the Common Pleas Court erred in dismissing her petition to open a default judgment for her purported failure to file a timely supporting brief in compliance with Montgomery County Rule of Civil Procedure 302(d).
+On April 23, 1979, a confession of judgment was entered on a judgment note in the amount of $20,000 against appellant and Thomas Janczak in favor of appellee. Appellant filed a petition to open judgment on August 7,1980 in which she averred inter alia, that her purported signature on the note was a forgery.
+The Common Pleas Court dismissed the petition of appellant to open judgment because of her apparent failure to file, pursuant to Montgomery County Rule of Civil Procedure 302(d), a supporting brief within thirty days of the date upon which the petition to open judgment was filed. This appeal followed.
+Appellant argues that she did comply with Rule 302(d) by filing a brief contemporaneously with the petition to open judgment and, thus, the court abused its discretion by dismissing her petition to open judgment. While the record does not reflect that appellant filed a brief with the petition, counsel for appellant stated during the presentation of oral argument that the required brief had been affixed to the petition and filed as part of the petition but that the brief was detached from the petition by the Prothonotary and returned to her office. Through inadvertence on the part of the secretarial staff of the office of counsel for appellant, the fact that the brief was misfiled with the Prothonotary and subsequently returned was not brought to her attention.
+There is an arguable basis for the decision of the hearing judge to dismiss the petition to open judgment since appellant failed to comply with Montgomery County Rule of Civil Procedure 302(d) by (1) failing to make a separate filing of a brief (2) in triplicate (3) with the Court Administrator. On the other hand, the record (1) reflects that the appellant proposes to offer the defense of forgery; (2) reflects that the brief was misfiled rather than not filed; and (3) does not reflect a contention by the appellee that the appellant failed to forward a copy of the brief to the appellee. Pennsylvania Rule of Civil Procedure 126 suggests that the rules be liberally construed so as to secure a just determination of every action.
+We believe that in this specific situation and under these narrow circumstances this objective is better achieved if the appellant is permitted to offer a defense. We are, therefore, compelled to vacate the order of the Common Pleas Court dismissing the petition to open judgment and remand the case for further proceedings consistent with this opinion. Jurisdiction of this case is relinquished.
+Order vacated and case remanded.
+HOFFMAN, J., files a dissenting opinion.
+. Pennsylvania Rule of Civil Procedure 126. Liberal Construction and Application of Rules. The rules shall be liberally construed to secure the just, speedy and inexpensive determination of every action or proceeding to which they are applicable. The court at every stage of any such action or proceeding may disregard any error or defect of procedure which does not affect the substantial rights of the parties. Adopted May 1, 1939, effective November 6, 1939; amended and effective April 18, 1975.
+
+## Dissent (HOFFMAN, Judge,)
+
+HOFFMAN, Judge,
+dissenting:
+I dissent. I would affirm the lower court’s order dismissing appellant’s complaint pursuant to Montgomery County Rule of Civil Procedure 302(d) because: (1) contrary to the majority’s conclusion, the record contains no evidence that the brief was ever filed anywhere; and (2) appellant’s only excuse avers nothing more than the mere inadvertence of counsel.
+Appellant’s brief and oral argument to this Court stated that the required brief was filed with the prothonotary’s office rather than the court administrator’s office as required. Mere allegations in a party’s written and oral arguments, however, do not place otherwise omitted facts on the record for appeal. “An appellate court may not consider facts or materials referred to in a party’s brief but not of record.” Guy v. Eberle, 279 Pa.Superior Ct. 101, 122, 420 A.2d 1050, 1062 (1980). Accord, Marine Bank v. Huhta, 279 Pa.Superior Ct. 130, 420 A.2d 1066 (1980); In the Interest of Carroll, 260 Pa.Superior Ct. 23, 393 A.2d 993 (1978). Accordingly, the alleged fact that the brief was misfiled is not properly before us, and the majority’s reliance upon appellant’s self-serving, non-record statements is manifestly improper.
+Astonishingly, even if we could consider the allegations in appellant’s brief, they do not assert a reasonable excuse for violation of the local rule, because they aver nothing more than the mere inadvertence of counsel. Although this Court has willingly afforded procedural and substantive relief to parties presenting a reasonable excuse for noncompliance with Montgomery County Rule of Civil Procedure 302(d), in all cases “the reason given for the noncompliance [must be] more than mere inadvertence of counsel.” Haney v. Sabia, 59 Pa.Commonwealth Ct. 123, 129, 428 A.2d 1041, 1044 (1981). See generally Horan v. R. S. Cook & Associates, Inc., 287 Pa.Superior Ct. 265, 430 A.2d 278 (1981). Appellant admits in her brief that her counsel’s office staff was notified promptly of the correct procedure for filing the required brief, and that her counsel’s office staff failed to follow those instructions. She thus avers nothing more than mere inadvertence of counsel as her only excuse. Consequently, the lower court did not abuse its discretion in dismissing her complaint, and I would thus affirm its order.
+Though rule 302(d) is silent as to the procedure to be followed after a sanction has been imposed, this Court has held that the lower court may vacate an order imposing a sanction if the noncomplying party, by timely petition, offers a reasonable excuse for its failure to file a timely brief. Hesselgesser v. Glen-Craft Contractors, Inc., 287 Pa.Superior Ct. 319, 325, 430 A.2d 305, 308 (1981). If the lower court abuses its discretion in deciding upon such a petition to vacate, this Court may reverse upon appeal, id., or it may remand if the record is inadequate to support meaningful appellate review, Seidel v. Great Factory Store, 291 Pa.Superior Ct. 255, 435 A.2d 896 (1981). Cf. Pa.R.Civ.P. 209. If the noncomplying party does not petition the lower court to vacate its order, but instead appeals directly to this Court, we may reverse if the “record before us clearly reveals a reasonable excuse for appellants’ failure to file their brief,” Shapiro v. Albright, 287 Pa.Superior Ct. 414, 421, 430 A.2d 672, 675 (1981), or may remand if the record is unclear, id., or may affirm if the record on appeal fails to set forth a reasonable excuse, Dunham v. Temple University, 288 Pa.Superior Ct. 522, 432 A.2d 993 (1981); Hesselgesser v. Glen-Craft Contractors, Inc., supra.
