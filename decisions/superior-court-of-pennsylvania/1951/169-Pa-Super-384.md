@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 4"
+decided: "1951-07-19"
+citations: ["169 Pa. Super. 384"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Ross, Arnold and Gunther, JJ. (Dithrich, J., absent)."]
+parties: ["Metzger v. Downtown Garage Corporation, Appellant."]
+source_url: "https://static.case.law/pa-super/169/cases/0384-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 473003
+cites_cases: ["140 A. 524", "162 A. 166", "162 Pa. Superior Ct. 271", "291 Pa. 588", "308 Pa. 117", "57 A. 2d 696"]
+---
+
+# Metzger v. Downtown Garage Corp.
+
+## Majority (Arnold, J.,)
+
+Opinion by
+Arnold, J.,
+Plaintiff sued in assumpsit to recover damages to his motor vehicle which he had placed in a parking lot owned and operated by defendant. He paid the required consideration and received the customary receipt. The person in charge of the parking lot was an employe and agent of the defendant, a corporation. This employe, acting beyond the scope of his authority and without the consent of the plaintiff, took the car from the parking lot and, while operating it in the city of Philadelphia, was involved in a collision whereby it was damaged. On stipulated facts the court below, without a jury, rendered judgment for the plaintiff, relying upon Jackson v. Fort Pitt Hotel, Inc., 162 Pa. Superior Ct. 271, 57 A. 2d 696, in which this Court said (page 273) : “If the defendant became a bailee for hire under a valid contract, it was bound to exercise all reasonable and ordinary care to prevent injury to the subject matter. A bailee cannot, by transferring this duty to a servant or agent, relieve itself from responsibility for its proper exercise. The bailee cannot receive money for the performance of a duty, and at the same time shift the responsibility to a servant, and thus be relieved from liability for the violation of the very duties attending the bailment:....”
+Appellant’s counsel ably argues, in effect, that the Jackson case was wrongly determined, and that a bailee should not be held liable where its servant goes beyond the scope of authority. For this latter proposition many Pennsylvania cases are cited, but they involve damages to persons with whom the defendant had no contract, typical of these being Wesolowski et al. v. John Hancock Mutual Life Ins. Co., 308 Pa. 117, 162 A. 166. In other words, the question in those cases was whether the defendant was liable for the negligence of his employe under the doctrine of respondeat superior, where usually there is no liability if the servant acted beyond the scope of his authority: Hartigan et al. v. Public Ledger, 291 Pa. 588, 140 A. 524.
+But the overwhelming weight of modern authority in the United States is that such doctrine does not apply to the contractual liability of the bailee to the bailor. Because the question was so earnestly pressed, we cite additional authorities. Williston on Contracts, Yol. Four, §1065A, page 2962: “Many courts hold that the fact that the loss or damage to the stored vehicle was caused by an unauthorized act of an employee does not relieve him from responsibility.” 6 Am. Jur., Bailments, §266: “However, the trend of the modern authorities is toward the rule that the doctrine of respondeat superior cannot be invoked to relieve any bailee of his liability, based on the contract of bailment, for breach of a duty to the bailor which he had undertaken to perform through the agent or servant; this is held to be true even though such employee was acting for his own purposes, without, authority or contrary, to instructions, and .notwithstanding the bailee’s own.freedom from negligence.in his selection and retention,., . Moreover, .it probably , does no violence... .. to regard the bailee as liable for an employee’s torts which violate some duty of the bailment, the performance of which was at the time intrusted to such employee, on the theory that such acts are within the general scope of his employment. In this connection it may be observed that there is authority for the view that a master who is a bailee. . . undertakes that his servants, as well as himself, shall exercise the proper degree of diligence and care with respect to the subject matter of the bailment, and he cannot discharge his duty and exonerate himself from liability for their failure to do so merely by instructing them to exercise such care.” (Italics supplied). In §267 the rule is stated that the bailee is liable for theft or misappropriation by his agent or employe on the ground that he cannot “escape responsibility for a violation of his own contractual obligation. . . merely because it occurs through the wrongful act, not of himself, but of another through whom he has elected to perform.” 57 C. J. S., Master and Servant, §570 e (1), page 314: “. . . the master is liable for acts of his servant which he has contracted against even though such acts are outside the scope of the servant’s employment.” See also Shearman and Redfield on Negligence, §158, page 372, and 8 C. J. S., Bailments, §27 a (2).
+The rule is so thoroughly established in all but a minority of jurisdictions that it would uselessly prolong this opinion to set forth the citations supporting the texts.
+In addition, the rule stated in the Jackson case is based soundly on justice. When a bailor delivers his car tó a bailee and pays the required consideration, and later seeks to regain his car,, the bailee should not be permitted to escape liability simply by the pious statement that he is sorry (but not liable) because his servant stole thé car. ..... ■ ■ ......
+Judgment affirmed.
