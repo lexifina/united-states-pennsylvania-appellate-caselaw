@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 270"
+decided: "1914-02-20"
+citations: ["56 Pa. Super. 195"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orladt, Head and Porter, JJ."]
+parties: ["Hollidaysburg Male & Female Seminary Company v. Gray, Appellant."]
+source_url: "https://static.case.law/pa-super/56/cases/0195-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 441955
+cites_cases: ["126 Pa. 582", "20 Pa. Superior Ct. 56", "209 Pa. 87", "23 Pa. Superior Ct. 125", "3 Sadler, 324", "32 Conn. 348", "32 Pa. 367", "38 Pa. 203", "4 Rawle, 123", "44 N. Y. 489", "7 Kulp, 286", "92 N. E. Rep. 705"]
+---
+
+# Hollidaysburg Male & Female Seminary Co. v. Gray
+
+## Majority (Rice, P. J.,)
+
+Opinion by
+Rice, P. J.,
+The plaintiff leased to the defendant the property “known as the Holidaysburg Male and Female Seminary Company property, for the term of three years commencing with the 18th day of July, 1906, and ending with the 18th day of July, 1909, with the privilege and option however, to the said party of the second part to continue this lease from year to year thereafter.” Then follows this clause: “The party, of the first part hereto, hereby reserves the right to sell the property, hereby leased, at any time after July 18, 1909, and in the event of such sale, a written notice thereof to be served upon the party of the second part between the 18th day of July of any year after July 18, 1909, and March 1st of the succeeding year and party of the second part shall vacate said premises on the 18th day of July following said 1st day of March.” The defendant remained in possession, after the expiration of the three years’ term, as she had the right to do, for another year, but did not vacate the premises at the end of the additional year (July 18, 1910), pursuant to the notices given on February 28 and April 18 preceding. Thereupon the plaintiff instituted possessory proceedings be'fore a justice of the peace under the act of 1863. The defendant appealed from the justice’s judgment, and, after verdict and judgment in the plaintiff’s favor in the common pleas, took the present appeal.
+The case turns on the construction of the above-quoted clauses of the lease. The defendant’s contention is, that, taken together, they mean that the lease was to be continued, at her option, until the property should be sold. It is argued that, if such was the agreement of the parties, it would not be void because of lack of mutuality or for any other cause, citing Effinger v. Lewis, 32 Pa. 367; Myers v. Kingston Coal Co., 126 Pa. 582. We do not disagree with this position, but we cannot bring our minds to the conclusion that such was the agreement. The agreement expressed in the first clause, which was complete in itself, was for a tenancy for three years, and thereafter a tenancy from year to year at the option of the defendant: Pickering v. O’Brien, 23 Pa. Superior Ct. 125. This option evidently was given so that the defendant could not be ejected at the end of the three years’ term; but successive options were not expressly given, nor is that to be implied from the words “to continue this lease from year to year thereafter:” Swigert v. Hartzell, 20 Pa. Superior Ct. 56. One of the legal incidents of a tenancy from year to year is a right in the landlord to terminate it at the end of any current year by giving three months’ previous notice. The landlord had that right in the present instance, unless the second clause requires a different conclusion. The reservation of the right to sell during the tenancy from year to year may have been unnecessary, but it furnishes no substantial ground for inferring an intention to give the defendant the right to continue the tenancy until the property should be sold. If that had been the intention of the parties it would have been easy and more natural to express it in that simple way. Nor is such intention to be inferred from the reservation of the right to sell taken in connection with the provision as to notice. All that can be inferred with certainty, from the clause taken as a whole, is that the parties, for their own purposes, deemed it important to require a longer notice to terminate the tenancy in the event of a sale than would be required if no sale was made. As counsel well say, the purpose may have been to afford the defendant sufficient time to endeavor to make terms with the purchaser for a continuance of the lease, if she so desired. But it is not worth while to speculate, for it is clear beyond doubt that the provision as to the longer notice was to apply only in the event of a sale. As no sale was made the statutory rule governed. It has been said that leases of doubtful duration must be construed favorably to the tenant; but as we view this lease the duration of the tenancy is not left in doubt. Therefore, there was no error in instructing the jury that the tenancy terminated on July 18, 1910.
+The judgment is affirmed.
