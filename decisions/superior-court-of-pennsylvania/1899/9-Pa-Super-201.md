@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 78"
+decided: "1899-01-18"
+citations: ["9 Pa. Super. 201"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Orlady, Smith,W. W. Porter and W. D. Porter, JJ."]
+parties: ["Geo. W. Zimmerman, Appellant, v. Christian H. and Mary M Snyder."]
+source_url: "https://static.case.law/pa-super/9/cases/0201-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 817238
+cites_cases: ["1 P. & W. 21", "1 W. & S. 57", "11 Pa. 280", "155 Pa. 260", "37 Pa. 387", "45 Pa. 235", "5 Dist. Rep. 29", "5 Wh. 94", "73 Pa. 427", "81 Pa. 439", "87 Pa. 387"]
+---
+
+# Zimmerman v. Snyder
+
+## Majority (Rice, P. J.,)
+
+Opinion by
+Rice, P. J.,
+There are dicta in some of the earlier cases to the effect, that a plaintiff may remit a portion of his claim, in order to bring it within the jurisdiction of a justice of the peace: Darrah v. Warnoch, 1 P. & W. 21; Cleaden v. Yeates, 5 Wh. 94. But later decisions hold, that as to the principal of the claim this cannot be done: Stroh v. Uhrich, 1 W. & S. 57; Collins v. Collins, 37 Pa. 387 ; Bower v. McCormick, 73 Pa. 427 ; Peters v. Schlosser, 81 Pa. 439. “A non claim of interest is very unlike a voluntary reduction of the principal. The one is the absence of the assertion of claim, and the other is the actual throwing away a portion of a fixed or settled claim or demand: ” Thompson, J., in Evans v. Hall, 45 Pa. 235. The sum demanded is the test of jurisdiction, and if that exceed the statutory limit, it seems, that the plaintiff cannot give jurisdiction by the allowance, as a credit, of an offset growing out of a separate and independent cross demand. See cases above cited, and especially Stroh v. Uhrich. The court below was of opinion that the plaintiff’s case was within this principle, and therefore entered a compulsory nonsuit. We think this was error. The case was this: The plaintiff, a retail merchant, boarded with the defendants and sold them goods. His book account extending over a period of two years showed on the debit side charges for goods sold and delivered, and on the credit side, credits from time to time for cash and goods received, and for boarding. He sued to recover $115.76, the balance due on this account. This was his demand as shown by the transcript, by his statement filed after the ease was appealed, and by his evidence given on the trial. All of these may be looked to, to get at the sum demanded, and to determine the question of jurisdiction : Collins v. Collins, supra.
+The credits referred to were not given for the purpose of reducing his claim below the statutory limit, but apparently were as much a part of the account as the debits. Leaving out the credits for boarding, upon the ground that this was furnished under a contract with C. H. Snyder alone, and still the balance due would be less than $300. This was not a case where the plaintiff resorted to the device of giving a fictitious credit, or of admitting a set-off in order to bring the case within the jurisdiction of a justice of the peace, but where direct payments and credits growing out of mutual dealings between the parties and properly applicable to the discharge and extinguishment pro tanto of the defendant’s indebtedness, brought the plaintiff’s true demand within the jurisdiction of a justice of the peace. Possibly if the defendants had been called on to put in their defense, they might have put the case in a different light; but as it appeared when the plaintiff was non-suited, the jurisdiction of the justice might have been sustained. In Hoffman v. Dawson, 11 Pa. 280, it was said: “ Where there have been mutual dealings or partial payments on account, and the balance is under the sum of $100, it has ever been the practice under the Act of March 20, 1810, 1 Sm. L. 161, to sue for the balance of the account before a magistrate. It is certainly not error to state the whole case on the justice’s docket.” In Collins v. Collins, supra, Mr. Justice Woodward said: “ True it is, that a plaintiff may sue before a justice for less than $100, although his claim originally exceeded that amount. Where there have been mutual dealings, or partial payments on account, and the balance is under $100, the jurisdiction has been often sustained. . . . The result of the authorities seems to be, that where the plaintiff’s claim, however large, has been reduced to, or below $100, by direct payments or by dealings that amount to, or are admitted to be actual payments, the justice has jurisdiction. But where the plaintiff’s claim has not been reduced by payments to the statutory standard, he cannot give the justice jurisdiction by remitting part and suing for the balance.” This statement of the law has been- recognized repeatedly, and notably in the recent case of McFarland v. O’Neil, 155 Pa. 260, which it seems to us was not so plain a case for the application of the principle to sustain the jurisdiction of the justice as the present.
+The judgment is reversed and a venire facias de novo awarded.
