@@ -1,0 +1,43 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 337 C.D. 1984"
+decided: "1985-07-16"
+citations: ["90 Pa. Commw. 399"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Craig and Doyle, and Senior Judge Kalish, sitting as a panel of three."]
+parties: ["Appleton Papers, Inc., Petitioner v. Commonwealth of Pennsylvania, Department of Labor and Industry, Respondent."]
+source_url: "https://static.case.law/pa-commw/90/cases/0399-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1336164
+cites_cases: ["38 Pa. Commonwealth Ct. 342", "393 A.2d 43", "421 A.2d 477", "426 U.S. 794", "461 U.S. 540", "481 Pa. 208", "54 Pa. Commonwealth Ct. 252", "70 Pa. D. & C. 271"]
+---
+
+# Appleton Papers, Inc. v. Commonwealth
+
+## Majority (Judge Doyle,)
+
+Opinion by
+Judge Doyle,
+Appleton Papers, Inc. (Petitioner) appeals from a determination of the Employer Accounts Review Board (Board) which affirmed the decision of the Office of Employment Security (OES) denying Petitioner’s 1982 contribution rate appeal.
+Prior to 1982, a former corporation having the name Appleton Papers, Inc. (Old Appleton) existed as a wholly owned subsidiary of Germaine Monteil Cosmetiques Corporation (GMCC). Both GMCC and Old Appleton were Pennsylvania employers, and had established separate employer contribution accounts with the OES. On January 2, 1982, the two corporations merged, with GMCC being the surviving corporation. After the merger, GMCC changed its name to Appleton Papers, Inc. (New Appleton). It is New Appleton which is the present petitioner. New Appleton’s contribution rate for the remainder of 1982 was determined pursuant to the provisions of Section 301 (d) (2) of the Unemployment Compensation Law (Act), 43 P.S. §781(d) (2), which states:
+A . . . successor-in-interest who, prior to the transfer, was an employer during the calendar year in which the transfer occurred, shall not have his rate of contribution adjusted under the provisions of this subsection for the remainder of such year. A successor-in-interest, who prior to the transfer, was not an employer during the calendar year in which the transfer occurred . . . shall be assigned the same rate of contribution as the preceding employer for the remainder of such year. . . .
+Since New Appleton had been an “employer” prior to; the transfer, its- contribution rate- was not adjusted for the remainder of 1982, and thus- did not reflect the lower- contribution rate which had been assigned to-its former-subsidiary, Old Appleton. New Appleton applied for a) rede-termination of its contribution rate,, requesting that its former subsidiary’s experience record and reserve account balance- be considered. The OHS denied the application, and the Board affirmed.
+In its present appeal, New Appleton challenges the constitutionality of Section 301(d) (2)- of the- Act on equal protection grounds. New Appleton attacks as arbitrary the- classification which allows- the contribution rate of a successor-in-interest to be determined on the oasis of whether or not the successor-in-interest. was an employer in Pennsylvania prior to the transfer.
+We begin our analysis by noting that a strong presumption exists- in favor- of the constitutionality of an act of the legislature- and the burden lies heavily upon one- challenging the ae-t to show that it clearly, palpably and plainly violated the Constitution. Picariello v. Commonwealth, 54 Pa. Commonwealth Ct. 252, 421 A.2d 477 (1980); Wallace v. Unemployment Compensation Board of Review, 38 Pa. Commonwealth Ct. 342, 393 A.2d 43 (1978). In the context of an economic benefits statute such asr an unemployment compensation act, where no- fundamental right is involved, a classification- established by the statute which is not inherently suspect will pass muster under the equal protection clause- if it bears some rational relationship to the legitimate purpose of -the legislation. Wallace, 38 Pa. Commonwealth Ct. at 347, 393 A.2d at 46. See Regan v. Taxation with Representation, 461 U.S. 540 (1983).
+The Department of Labor and Industry (Department) argues that Section 301(d)(2) is rationally related to the legislative goal of assuring that a successor-in-interest will be assigned only one tax rate for the entire transfer year. The Department suggests that the legislature’s intent that a single yearly rate apply to each employer is implicit in the: language of Section 301(e)(2) of the Act, 43 P.S. §781 (e) (2), which states that the'Department shall “notify each employer of his rate contribution for the calendar year.’’ (Emphasis added.)
+We must agree- with the Department that the classification in Section 301(d)(2) bears a rational relationship to this legitimate legislative goal. It is only where the successor-in-interest is an employer before the transfer that the potential for two applicable rates exists. If such a successor could, upon transfer, assume the contribution rate of its predecessor, then two different rates would apply during the calendar year — one rate before the transfer date, and one rate after the transfer date. Section 301 (d) (2)’ assures a single contribution rate- in such situations by requiring the successor-in-interest to continue its existing contribution rate for the remainder of the year.
+A successor-in-interest who is not an employer before the transfer, on the other hand, has no contribution rate applicable to it before tbe date of transfer. Thus, this successor can, upon transfer, properly assume the contribution rate of its predecessor without the possibility that two different rates could apply during the same calendar year.
+Since the two classes of successors-in-interest differ with respect to the existence of an applicable pretransfer rate of contribution, it is reasonable for the statute to treat them differently for purposes of assuring a single yearly rate of contribution during the transfer year.
+We are mindful of the disadvantage the present classification scheme presents to New Appleton. However, the mere fact that the legislature could have achieved its goal in some other fashion, or might have done so without adversely affecting those in New Appleton’s position, does not make the present classification unconstitutional. Hughes v. Alexandria Scrap Corp., 426 U.S. 794 (1976)
+For these reasons, we reject New Appleton’s claim of unconstitutionality, and affirm the order of the Board upholding New Appleton’s contribution rate for 1982.
+Order
+Now, July 16, 1985, the order of the Employer Accounts Review Board in the above referenced matter, dated January 6, 1984, is hereby affirmed.
+In addition to Old Ap-pleton, four other wholly-owned subsidiaries, Montage Laboratories, Inc., Tuvache, Ine., Superior Cosmetics, Inc., and Germaine Monteil International Corporation, also merged into the parent corporation, GMCC.
+Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended.
+New Appleton was- an “employer” because, when it was known as G3M©C, it employed-. three to ten persons in Pennsylvania. See Section, 4 of the Act, 43 P.S. §753.
+GMCC (New Appleton) had been assigned a 1982 rate of .0550, while its former subsidiary had been assigned a rate' of .0340.
+New Appleton cites both- the Equal Protection Clause of the Fourteenth Amendment, to the United States Constitution, and the Uniformity of Taxation Clause of the Pennsylvania Constitution, Article 8, Section 1. In the area of taxation, the Federal Equal Protection Clause and the Pennsylvania Uniform Taxation Clause are- analyzed and construed in the same manner. Commonwealth v. Molycorp, Inc., 481 Pa. 208, 392 A.2d 321 (1978).
+It should, be noted that once the transfer year is complete, the classification is no longer of any significance, and both classes of successors wiU thereafter have their rates determined according to the criteria set forth in Section 301.1 of the Act, added by Section 5 of the Act of July 10, 1980, P.L. 521, as amended, 43 P.S. §781.1.
+New Appleton also cites Cross Country Sportswear Corp. Appeal, 70 Pa. D. & C. 271 (1949) for the proposition that the Act’s treatment of successors-in-interest on the basis of whether or not they had previous employer experience in Pennsylvania is irrational. As New Appleton admits, however, Gross Country was decided not upon constitutional principles, but rather upon principles of statutory construction. Since the provisions of Section 301 of the Act have been substantially changed since the Gross Oountry decision, Gross Oountry has no direct application to the present ease.
