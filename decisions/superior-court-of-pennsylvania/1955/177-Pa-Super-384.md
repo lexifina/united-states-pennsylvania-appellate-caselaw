@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 164"
+decided: "1955-01-14"
+citations: ["177 Pa. Super. 384"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Ross, Wright, Woodside and Ervin, JJ. (Gunther, J., absent)."]
+parties: ["Hanson v. Hanson, Appellant."]
+source_url: "https://static.case.law/pa-super/177/cases/0384-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 724772
+cites_cases: ["11 Phila. 324", "150 Pa. Superior Ct. 363", "152 Pa. Superior Ct. 517", "160 Pa. Superior Ct. 562", "162 Pa. Superior Ct. 506", "163 Pa. Superior Ct. 570", "168 Pa. Superior Ct. 538", "28 A. 2d 357", "32 A. 2d 921", "4 A. 2d 614", "52 A. 2d 351", "58 A. 2d 372", "63 A. 2d 115", "78 Pa. Superior Ct. 443", "79 A. 2d 803", "80 Pa. Superior Ct. 573", "89 Pa. Superior Ct. 566"]
+---
+
+# Hanson v. Hanson
+
+## Majority (Wright, J.,)
+
+Opinion by
+Wright, J.,
+This is an appeal from an order awarding alimony pendente lite in an action for divorce a mensa et thoro. The wife instituted the divorce action on August 26, 1952, and therewith filed a petition for alimony pendente lite and counsel fees. The husband, as well as answering the divorce complaint, filed an answer to the petition, in which he denied that his wife had grounds for divorce, and averred that his income was less than had been alleged. Because of repeated continuances, a hearing did not take place until February 25, 1953. The Court’s order, dated August 5, 1953, directed the husband to pay alimony pendente lite at the rate of Sixty-five ($65.00) per month from September 9, 1952. Counsel fees were also awarded and are not here in dispute.
+Appellant states that tbe questions involved in this appeal are as follows: “1. Did the Court below, in entering an Order for alimony pendente lite and counsel fees in favor of wife-plaintiff in an action of divorce, abuse its discretion in refusing to consider evidence of said wife’s adultery in the reaching of its decision? 2. Where a petition for alimony and counsel fees was filed by a wife-plaintiff and was then not actively prosecuted by her for months thereafter, was it equitable and just, and not an abuse of discretion, under the circumstances of this case, for the Court below to order appellant to pay such alimony and counsel fees from the approximate date of the filing of the petition therefor?”
+Section 46 of the Act of May 2, 1929, P. L. 1237, as amended, 23 PS §46 provides: “In case of divorce from the bonds of matrimony or bed and board, the court may, upon petition, in proper cases, allow a wife reasonable alimony pendente lite and reasonable counsel fees and expenses (italics supplied)”. The making of such allowances is not mandatory: Tumini v. Tumini, 150 Pa. Superior Ct. 363, 28 A. 2d 357, and the matter is largely within the discretion of the trial court: Gangloff v. Gangloff, 163 Pa. Superior Ct. 570, 63 A. 2d 115. The purpose of alimony pendente lite is to enable the wife to maintain or defend the principal action: Rutherford v. Rutherford, 152 Pa. Superior Ct. 517, 32 A. 2d 921. Thus it differs somewhat in character from an order for support. See Dicken v. Dicken, 56 D. & C. 531. That a trial Judge may believe the suit will fail does not warrant refusal. Murray v. Murray, 80 Pa. Superior Ct. 573. The proceeding is collateral, and the merits of the principal action are not involved: Brady v. Brady, 168 Pa. Superior Ct. 538, 79 A. 2d 803. In that case, speaking through Judge Reno, we said: “Patently, if the court below had refused appellee’s petition it would have adjudicated in limine the validity of the divorce and also the merits of the substantive grounds for divorce alleged in the complaint. It would be a harsh rule which denied appellee the means of establishing her rights until she had first fully proved them”.
+So far as appellant’s first contention is concerned, passing the fact that his answer does not allege adultery, it does not appear that the trial Judge refused to consider any portion of the evidence. In his opinion he states: “We have carefully examined the law and given the case great consideration, and the defense of misconduct, denied as it is, is a question that will have to be produced in court. Said alleged misconduct would not defeat the right to alimony pendente lite”. Appellant relies principally upon a dictum which appears in Stock v. Stock, 11 Phila. 324. That case has been criticized, and we do not consider it controlling. In our view, it is not an abuse of discretion to make an award of alimony pendente lite despite testimony tending to support an allegation that the wife is guilty of adultery.
+In any event, the testimony produced was designed to show adultery by the wife in September, 1952. Since the complaint averred, in addition to cruel and barbarous treatment and indignities, malicious abandonment in December, 1950, it is apparent that the causes for divorce must have fully accrued prior to the alleged adultery. Therefore, even if proved, adultery would not be a defense to the divorce action: Clark v. Clark, 160 Pa. Superior Ct. 562, 52 A. 2d 351. And see Bock v. Bock, 162 Pa. Superior Ct. 506, 58 A. 2d 372. A fortiori, it should not be a defense in the collateral issue of alimony pendente lite sought to enable complainant to prosecute the action.
+Appellant’s second contention is that “in no event should any such order against appellant be made effective at any time prior to February 25, 1953”. In our opinion, there Avas no abuse of discretion in making the order effective as of September 9, 1952. Each brief contains a discussion of the delay in holding the hearing. Since neither of these diametrically opposed explanations is supported by the record, we accept Judge Marshall’s statement that “plaintiff and her counsel have been put to great trouble in getting this case finally heard”. In any event, the amount of the award is less than it might have been, so that appellant has not been materially prejudiced.
+The order of the loAver court is affirmed.
+No appeal lies from an order refusing to award alimony pendente lite, since such an order is wholly interlocutory: Murray v. Murray, 78 Pa. Superior Ct. 443. See also Boerio v. Boerio, 134 Pa. Superior ct. 501, 4 A. 2d 614.
+This was the date originally fixed for the hearing. An order for alimony pendente lite may not relate back beyond the date the petition was filed. Ray v. Ray, 89 Pa. Superior Ct. 566.
+See Freedman on Marriage and Divorce, Vol. II, Section 443.
+We do not here consider the effect of adultery upon permanent alimony under section 47 of The Divorce Law (23 PS §47).
