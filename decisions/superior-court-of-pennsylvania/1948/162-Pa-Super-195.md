@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 32"
+decided: "1948-01-08"
+citations: ["162 Pa. Super. 195"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Dithbich, Ross, Arnold and Fine, JJ. (Reno, J., absent)."]
+parties: ["Orosky et vir, Appellants, v. American Window Glass Company et al."]
+source_url: "https://static.case.law/pa-super/162/cases/0195-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 462796
+cites_cases: ["109 A. 914", "14 A. 2d 359", "140 Pa. Superior Ct. 538", "145 Pa. Superior Ct. 292", "21 A. 2d 127", "266 Pa. 216", "76 Pa. Superior Ct. 325"]
+---
+
+# Orosky v. American Window Glass Co.
+
+## Majority (Fine, J.,)
+
+Opinion by
+Fine, J.,
+Albert Orosky, a 15 year old boy, was killed instantly on March 3, 1945, as a result of an accident suffered by him in the course of his employment with American Window Glass Company. Margaret Orosky and Joseph Orosky, appellants, parents of the deceased minor, were awarded workmen’s compensation by a referee on the ground of partial dependency. The board concluded that appellants were not partially dependent upon the deceased’s earnings within the meaning of section 307(5) of the Workmen’s Compensation Law, as amended by the Act of 1939, P. L. 520, 77 P. S. section 561, and set aside the award. This appeal is from the judgment of the court below affirming the disallowance of compensation by the board.
+The sole issue is whether there is legally sufficient evidence to support the finding of the board that the employer produced competent evidence sufficient to rebut the presumption of dependency in favor of parents of a deceased minor.- The Act of 1939, P. L. 520, section 307(5), 77 P.-S. section 561, in effect on the date of death, reads in part: “If there be neither widow, widower nor children entitled to compensation,, then to the father or mother, if dependent .to any extent upon the employe at the .time of the accident . ,. . Provided, however, That in the case of a minor child who has been-contributing to his parents, the dependency of said, parents shall be presumed . . ,”
+, Appellants’ contention that: “There, is not one scintilla of evidence . . . offered by the defendant to rebut this presumption” is without merit.
+In support of this contention, appellants stressed the following evidence: Mrs. Margaret Orosky had been working at the Pitcairn Yards of the Pennsylvania Railroad Company for many years, thereby assisting in supporting and maintaining the family, which consisted of herself, her husband, and three minor children; that when she became pregnant in 1944 and stopped work, the deceased minor then quit school and sought, employment to enable him to assist in the purchase of household needs; that on November 15, 1944, .he obtained employment with the Aaron Furniture. Company, but left on December 3, 1944, and the $106.00 which he had then earned he turned over to his parents, receiving “about fifty cents a week” for his personal expenses; that for a short time thereafter, he worked for one Henry Sliwoski, a coal dealer, and while sb employed earned an estimated total of $60.00 or $75.00 all of which he turned over to his parents; and that on March 1, 1945, the deceased entered appellee’s employ and worked only three days when the accident occurred, resulting in his death. His earnings from his last employment amounted to $26.00.
+Mrs. Orosky also téstified that she and her husband, together with her parents, had purchased a farm where appellants presently reside, for the sum of $3,000.00; that she and her husband make mortgage payments thereon amounting to $54.00 per month; that her food bill was approximately $20.00 every two weeks; real estate taxes amounted to $79.00 per year. At the conclusion of her testimony, she was asked: “Q. Is there any other living expense that hasn’t been mentioned that you want to mention? A. I don’t think so.”
+Appellee called the pay-,master of the father’s employer who testified that his total earnings for the year 1944 were $3,113.42 or a monthly average,of $259.45, and that he earned $945.35 during the first four months of 1945, a monthly average of $236.34. The board found the total basic annual expense of the Orosky family was $1247.00. The board further found as a fact that “the father earned more than enough to pay all of his .surviving family’s living expenses” and concluded as a matter of law that “the presumption of partial dependency of the claimants upon their deceased son is untenable . . .” '
+The testimony of the pay-master regarding the actual earnings of the father is not challenged. His average earnings, when compared with appellants’ estimated regular expenditures, makes apparent the impossibility of a finding of dependency within the meaning of the statute. “The term dependency, in the statute, contemplates actual dependency and must affirmatively appear in the record as a fact”: Morris v. Yough Coal & Supply Co., 266 Pa. 216, 220, 109 A. 914. Determination of appellants’ family budget by a consideration • of income and outgo over a reasonable period of time prior to the date of death when considered with regard to circumstances, habits and methods of living during the lifetime of the deceased clearly establishes the fact of non-dependency. Smitti v. Roth Cadillac Co., 145 Pa. Superior Ct. 292, 21 A. 2d 127; Bucci v. Lincoln Coal Company, 140 Pa. Superior Ct. 538, 14 A. 2d 359. “The statute was designed to provide compensation; that is, the making good of the loss of support. Where such loss did not exist compensation does not accrue”: Corcoran v. Pennsylvania Coal Co., 76 Pa. Superior Ct. 325.
+Judgment affirmed.
+The Act of 1937, P. L. 1552, reads in part: “Provided, however, That in the ease of a minor child who has been contributing to his parents, the dependency of said parents shall be conclusively presumed . . .” (Italics added.) The Act of 1939, P. L. 520, amended the Act of 1937, P. L. 1552, by omitting therefrom the word “conclusively.” To the same effect is the amendatory Act of May 18, 1945, P. L. €71, section 1, 77 P. S. section 561. ■
