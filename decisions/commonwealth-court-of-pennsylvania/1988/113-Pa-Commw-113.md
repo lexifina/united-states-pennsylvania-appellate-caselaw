@@ -1,0 +1,48 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2045 C.D. 1986"
+decided: "1988-01-27"
+citations: ["113 Pa. Commw. 113", "536 A.2d 500"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail and Colins, and Senior Judge Kalish, sitting as a panel of three."]
+parties: ["Joseph Camaione, Sr., Appellant v. Borough of Latrobe, Appellee."]
+source_url: "https://static.case.law/pa-commw/113/cases/0113-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1369372
+cites_cases: ["100 Pa. Commonwealth Ct. 622", "35 Pa. Commonwealth Ct. 264", "385 A.2d 1040", "427 A.2d 712", "494 Pa. 461", "58 Pa. Commonwealth Ct. 142"]
+---
+
+# Camaione v. Borough of Latrobe
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+Joseph Camaione, Sr. (Appellant) has appealed from an order of the Court of Common Pleas of Westmoreland County (trial court) which dismissed his complaint in mandamus. For the reasons which follow, we reverse the trial courts order and remand to that court to direct the reinstatement of Appellants benefits until such time as it has been determined in an evidentiary hearing that Appellants temporary disability has ceased.
+Joint stipulations of fact filed in this case reveal that Appellant suffered a work-related injury on February 5, 1975, while employed as a police officer by the Borough of Latrobe (Borough). From the date of his injury to September 1, 1981, Appellant received both workmens compensation benefits and a salary supplement (Heart and Lung Benefits) pursuant to Section 1 of the Act of June 28, 1935 (Act), P.L. 477, as amended, 53 P.S. §637.
+Effective September 1, 1981, the Borough involuntarily retired Appellant for economic reasons and terminated payment of his Heart and Lung benefits and began monthly payments of Appellants retirement benefits. Appellant continued to receive his monthly workmens compensation benefits until January, 1983, when following a referees hearing, Appellants condition was determined to have changed from total to partial disability and his benefits were reduced to $63.00 per week. The referee also found that the partial disability would remain for 500 weeks and commuted his entitlement to a $25,000.00 lump sum which Appellant received on approximately February 22, 1983.
+Appellants complaint in mandamus was filed in the trial court on May 22, 1984, and was dismissed by that court on May 22, 1986. The instant appeal followed.
+Appellant first argues that the termination of his Heart and Lung benefits was not proper because he was not first given notice and a hearing on the matter.
+Our Supreme Court dealt with a similar issue in Callahan v. Pennsylvania State Police, 494 Pa. 461, 431 A.2d 946 (1981), which also involved a police officers claim that his Heart and Lung benefits had been improperly terminated. In Callahan, the state police medical officer and an official in the State Workmens Insurance Fund unilaterally determined that Mr. Callahans disability had changed from temporary to permanent and that he was therefore no longer entitled to Heart and Lung benefits and a letter to that effect was sent to Mr. Callahan.
+In that case our Supreme Court stated that “[ajdjudicatory action cannot be validly taken by any tribunal, . . . except upon a hearing wherein each party has opportunity to know of the claims of his opponent, to hear the evidence introduced against him, to cross-examine witnesses, to introduce evidence on his own behalf, and to make argument.” Id. at 465, 431 A.2d at 948.
+This Court, however, also dealt with a situation similar to that presented here in Hasinecz v. Pennsylvania State Police, 100 Pa. Commonwealth Ct. 622, 515 A.2d 351 (1986). In that case, Mr. Hasinecz (Claimant) became disabled in the course of his employment as a police officer and received Heart and Lung benefits until he voluntarily retired. Claimant then requested that his retirement be revoked and his Heart and Lung benefits be reinstated until his doctor released him for full-time duty with the police force. The request was denied following which Claimant requested a hearing to determine his right to receive Heart and Lung benefits during the period following his retirement. That request was also denied.
+On appeal to this Court, we determined that Claimant had no personal or property right entitling him to a hearing under the Administrative Agency Law* because pursuant to police policy, he had no right to reinstatement with the police force nor did he have a right to Heart and Lung benefits after his retirement since he was no longer a “member” of the police force and, accordingly, was not within the class of persons granted benefits under the Heart and Lung Act.
+In reconciling these two cases a critical distinction becomes apparent. In Hasinecz, claimant lost his right to Heart and Lung benefits by voluntarily retiring, while in Callahan, the claimants right to Heart and Lung benefits was lost through the unilateral determination of the State Workmens Insurance Fund that Mr. Callahans disability had changed from temporary to permanent. We believe the situation presented in the present case is similar to that presented in Callahan.
+In the present case Appellants right to Heart and Lung benefits was lost through the Boroughs act of involuntarily retiring him. Although Appellant was afforded his due process rights with respect to the involuntary retirement action, he was given no notice that that procedure would also dispose of his separate but dependent rights under the Heart and Lung Act. In cases such as that presented here, the potential for abuse by the Borough in involuntarily retiring employees in order to terminate their responsibility under the Heart and Lung Act appears clear.
+Accordingly, we hold that ones property rights under the Heart and Lung Act cannot be extinguished by an involuntary retirement action unless that action also contains notice to the retiree of the effect involuntary retirement will have on the retirees right to Heart and Lung benefits. Callahan.
+Since the notice provided Appellant in the present case with respect to his involuntary retirement did not also notify him of the effect involuntary retirement would have on his right to Heart and Lung benefits, those benefits cannot be terminated on the basis of his involuntary retirement.
+Further, we agree with Appellant that the proper relief in mandamus in this case is the reinstatement of his Heart and Lung benefits until such time that those benefits are terminated through a proper administrative adjudiction. See McKelvey v. Colonial School District, 35 Pa. Commonwealth Ct. 264, 385 A.2d 1040 (1978).
+In light of our foregoing determination, we find it unnecessary to address Appellants other arguments.
+Order
+The order of the Court of Common Pleas of Westmoreland County is reversed and this case is remanded to that court to direct the reinstatement of Appellants Heart and Lung benefits until such time as the Borough, after an evidentiary hearing, has proven that Appellants temporary disability has ceased.
+Jurisdiction relinquished.
+See Joint Stipulations of Fact, Reproduced Record at 18. Although the trial court also ordered an evidentiary hearing, we are informed by the briefs of counsel that no such hearing has been held.
+See Sections 101 and 504 of the Administrative Agency Law, 2 Pa. C. S. §§101 and 504.
+We have stated that adequate notice of administrative action is notice which is reasonably calculated under all the circumstances to apprise the parties of the pendency of the action and give them an opportunity to present their objections. Clark v. Department of Public Welfare, 58 Pa. Commonwealth Ct. 142, 427 A.2d 712 (1981).
+Clearly, the notice provided Appellant in the instant case was not adequate since it did not inform Appellant that the Borough intended to not only involuntarily retire him but to also terminate his Heart and Lung benefits based on his involuntary retirement.
+We emphasize that Heart and Lung benefits also cannot be terminated later in a separate adjudication on the basis that the retiree is no longer an “employee” where the initial involuntary retirement action did not notify the retiree that retirement would provide a basis for the termination of Heart and Lung benefits. In situations such as that presented here, it appears that in order to terminate Heart and Lung benefits, the Borough must conduct a hearing and prove that Appellants partial disability has ceased or become permanent.
+The Borough also argues that the instant action is barred because Appellant foiled to bring the action within 30 days (as required by Section 5571(b) of the Judicial Code, 42 Pa. C. S. §5571(b)) of the Boroughs involuntary retirement action and subsequent termination of his Heart and Lung benefits.
+Since we have determined that Appellants Heart and Lung benefits cannot be terminated based on his involuntary retirement in this case and since there has been no adjudication or final order with respect to Appellant’s Heart and Lung benefits, the 30-day limitation period for the filing of appeals does not apply.
+Appellant also argued that the workmen’s compensation referee’s determination that Appellant’s total disability had resolved to partial and would last for an additional 500 weeks did not provide a proper basis for the automatic termination of his Heart and Lung benefits and that his case was not untimely filed because there is no statute of limitations in the Act and a period of reasonableness under the circumstances applies.
