@@ -1,0 +1,23 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 49"
+decided: "1909-02-26"
+citations: ["38 Pa. Super. 525"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Porter, Henderson, Morrison, Orlady, Head and Beaver, JJ."]
+parties: ["Wyatt v. Szymanski, Appellant."]
+source_url: "https://static.case.law/pa-super/38/cases/0525-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 878823
+cites_cases: ["1 Mona. 174", "1 Pa. Superior Ct. 179", "106 Pa. 458", "107 Pa. 346", "11 Pa. Superior Ct. 590", "110 Pa. 117", "13 Pa. Superior Ct. 231", "13 Pa. Superior Ct. 518", "142 Pa. 308", "15 Pa. 358", "156 Pa. 253", "17 Pa. Superior Ct. 500", "199 Pa. 161", "2 Grant, 37", "2 W. N. C. 252", "2 Watts, 135", "20 Pa. 464", "200 Pa. 363", "21 W. N. C. 496", "25 Pa. Superior Ct. 547", "25 Pa. Superior Ct. 595", "27 Pa. 323", "27 Pa. Superior Ct. 506", "3 P. & W. 388", "3 Penny. 85", "35 Pa. Superior Ct. 249", "4 Kulp, 463", "43 Pa. 111", "5 Rawle, 119", "5 Watts, 482", "58 Pa. 137", "7 Kulp, 429"]
+---
+
+# Wyatt v. Szymanski
+
+## Majority (Per Curiam,)
+
+Per Curiam,
+The twenty-second section of the Act of March 20,1810, 5 Sm. L. 161, relating to writs of certiorari in cases originating before justices of the peace provides as follows: “And the judgment of the court of common pleas shall be final on all proceedings removed as aforesaid, by the said court, and no writ of error shall issue thereon.” It is claimed that this section does not apply to the present case, because the cause of action upon which the justice rendered judgment in the plaintiff’s favor was not within his jurisdiction; also that in determining whether the cause of action was within his jurisdiction we can look only at his transcript. This shows that the defendant was summoned to answer the plaintiff “in a plea of assumpsit arising from contract express or implied for a sum not exceeding $300,” and that on the hearing of the case the plaintiff claimed “the sum of $275 for breach of contract between plaintiff and defendant.” While this is an imperfect statement of a cause of action under the act of 1810, it does not show that the contract sued upon was one of which a justice of the peace could not take cognizance. But looking at the recital of the evidence given in support of the alleged cause of action, which is set forth in the transcript, it must be conceded that it is at least an arguable question whether the contract was not one excepted from the jurisdiction of justices of the peace by the clause in the first section of the act of 1810 which reads “except in cases of real contract, where the title to lands or tenements may come in question.” The defendant while excepting to the record of the justice upon this ground was evidently not content to rest his exception exclusively upon what the record showed, but proceeded to take depositions to be read upon the hearing of the exception. Ordinarily nothing can be considered by the court of common pleas upon certiorari to a justice of the peace but the record. There are, however, exceptions to this general rule, and one that has been very frequently recognized in practice is that want of jurisdiction of the cause of action may be shown by evidence outside the record. Therefore in the present case the court below had before it the record and the depositions which the defendant had taken; at least the defendant is not in position to deny the authority of the court to consider the depositions. But they did not become part of the record which was brought up on this appeal, and therefore the appellant was perfectly right in not printing them in his paper-book: Crumley v. Crescent Coal Co., 13 Pa. Superior Ct. 231. We have no knowledge of what they contain. It is not impossible that the very depositions which the defendant took showed that, notwithstanding the defective statement of the cause of action set forth in the transcript, it was not actually an action upon a real contract. It is apparent, therefore, that it is not necessary to decide the abstract question whether or not the judgment of the common pleas is final, and not reviewable on appeal, in a certiorari to a judgment of a justice of the peace upon a cause of action of which justices of the peace have no jurisdiction. As we are not in position, by reason of the fact that the depositions submitted to the court below are not before us, to declare that the contract sued upon was of the excepted class, we hold that the twenty-second section of the act of 1810 applies. See Crumley v. Crescent Coal Co., 13 Pa. Superior Ct. 231.
+The appeal is quashed.
