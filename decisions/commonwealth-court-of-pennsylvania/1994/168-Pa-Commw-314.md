@@ -1,0 +1,44 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "2840 C.D. 1993"
+decided: "1994-11-04"
+citations: ["168 Pa. Commw. 314", "650 A.2d 1117"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DOYLE and NEWMAN, JJ., LORD, Senior Judge."]
+parties: ["DEPARTMENT OF PUBLIC WELFARE, Petitioner, v. MAPLEWOOD MANOR CONVALESCENT CENTER, INC., Respondent."]
+source_url: "https://static.case.law/pa-commw/168/cases/0314-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1468980
+cites_cases: ["135 Pa.Commonwealth Ct. 373", "496 A.2d 887", "91 Pa.Commonwealth Ct. 64"]
+---
+
+# Department of Public Welfare v. Maplewood Manor Convalescent Center, Inc.
+
+## Majority (NEWMAN, Judge.)
+
+NEWMAN, Judge.
+The Department of Public Welfare (DPW) appeals an order of the Commonwealth of Pennsylvania, Board of Claims (Board). This order required DPW to pay fifty dollars for a legal filing fee to Maplewood Manor Convalescent Center (Maplewood) after DPW and Maplewood filed a Stipulation of Settlement with DPW’s Office of Hearings and Appeals (OHA) that included a provision that both parties would bear their own expenses.
+Maplewood is a nursing home provider enrolled in the Medical Assistance Program. Through this program, DPW reimburses Maplewood for expenses, the sole state agency that administrates the Medical Assistance Program.
+A dispute arose between Maplewood and DPW when Maple-wood sought reimbursement and payment from DPW for services it rendered through a Medical Assistance Program contract. On January 26, 1993, Maplewood filed an appeal before OHA, and on March 2, 1993, a complaint before the Board against DPW to recover this payment. However, on August 5, 1993, prior to a hearing before either the Board or OHA, Maplewood and DPW discussed their dispute and agreed to enter a Stipulation of Settlement. In pertinent part, this agreement stipulated that each party was to bear its own costs.
+One week later, OHA adopted the Stipulation and instructed DPW to carry out its terms. Pursuant to this private settlement, Maplewood sent a letter to the Board on August 13, 1993, withdrawing and discontinuing its claim against DPW.
+Despite Maplewood’s withdrawal, the Board issued an opinion and order in this matter dated October 29, 1993. The Board concluded that the Stipulation was reasonable and fair, and it ordered DPW to pay Maplewood’s fifty dollar legal filing fee. The Board’s ruling regarding this filing fee directly contradicts the terms of the Stipulation between Maplewood and DPW in which each party is to bear its own costs.
+On November 23, 1993, DPW filed a petition for review requesting this Court to reverse the Board’s order and to bar the Board from investigating or altering settlement agreements in the future.
+On appeal, DPW raises the following issues before this Court: (1) whether the Board had authority to investigate the reasonableness of the settlement between Maplewood and DPW; (2) whether the Board has authority to alter this settlement agreement; and (3). whether the Board infringed upon the right of OHA to adopt settlement agreements for appeals in the Medical Assistance program. We now turn to the resolution of these issues.
+Pennsylvania statute empowers the Board to arbitrate claims filed against the Commonwealth of Pennsylvania. Section 4 of Act of May 20, 1937, P.L. 728, No. 193, as amended, 72 P.S. §§ 4651-4. However, “[t]here is no mention [in the regulations] of any [Board] power to investigate claims when the parties in interest wish to settle and discontinue them.” Paul and Peter’s Check Cashing v. Department of Labor and Industry, State Workman’s Insurance Fund, 135 Pa.Commonwealth Ct. 373, 379, 582 A.2d 397, 400 (1990).
+Moreover, the Board has adopted the Pennsylvania Rules of Civil Procedure that do not provide general investigating power or require court approval for settlement agreements. See Pa.R.C.P. No. 229 (parties may settle and discontinue cases). Under Pa.R.C.P. Nos. 2039(a), 2206(a), 2064, and 2230(b), the power of parties to settle and discontinue cases is subject to court approval where the matter concerns a minor, an incompetent, or a class action. Thus, because these exceptions are not involved here, the Board has no power to investigate the settlement between DPW and Maplewood.
+The Board’s own regulations recognize this point. In reviewing the Board’s rules, this Court previously has concluded that “[n]othing in these rules subjects ordinary settlements to board investigation.” Paul and Peter’s Check Cashing, 135 Pa.Commonwealth Ct. at 380, 582 A.2d at 401. Based upon Pennsylvania statutory and case law, we conclude that the Board erred in investigating the reasonableness of the Stipulation between Maplewood and DPW.
+Next, we answer whether the Board had authority to change the Stipulation in this matter. Because there is no authorization to investigate this agreement, the Board does not have the authority to identify sections of the settlement that it wishes to alter. The pertinent regulations are found at 4 Pa.Code Sections 121.14-121.16. Nothing in these regulations authorizes the Board to vary agreements.
+Section 121.14 of the Board’s regulations states, in pertinent part, that:
+the terms of the settlement shall include an agreement to pay the costs in the case. Upon request the Board will promptly inform the litigants of the amount thereof and the agreement of settlement shall specifically impose the payment of the amount on one or more of the parties, as they may agree.
+4 Pa.Code § 121.14. (emphasis added)
+Section 121.15 of the Code requires that the parties who enter settlements notify the Board within ten days and file a statement describing the settlement. 4 Pa.Code § 121.15. Section 121.16 states that when “a proposed settlement is finally concluded,” the parties shall “so notify the board in writing and the board shall mark its records of the case accordingly.” 4 Pa.Code § 121.16. By regulation, the Board is to be informed of the contents and finality of settlement agreements, but it is not empowered to participate in the brokering or judgment of the specific terms of settlements.
+In this case, under the provision of the Stipulation that states “each party shall bear its own cost,” Maplewood agreed to pay its own filing fee. The Board committed error when it altered the Stipulation between Maplewood and DPW in the assignment of the filing fee to DPW. Maplewood and DPW were free to determine the assignment of costs themselves.
+Finally, we turn to the question of whether the Board failed to afford proper deference to the competence and expertise of OHA to adopt settlement agreements in appeals involving the Medical Assistance program.
+If the Board or OHA has jurisdiction over appeals and settlements in the Medical Assistance Program, it is not defined by statute. In Department of Public Welfare v. Shapiro, 91 Pa.Commonwealth Ct. 64, 496 A.2d 887 (1985), this Court held that OHA has exclusive jurisdiction in a Medical Assistance appeal in two instances: (1) where the issue is determining eligibility for benefits; and (2) where the issue is whether, and to what extent, a provider may have violated the terms of an agreement with DPW. Otherwise, the Board has jurisdiction over a Medical Assistance Program appeal. Id.
+In this matter, Maplewood’s complaint against DPW fits into neither of the exceptions of Shapiro. Accordingly, we find that the Board had jurisdiction over the subject matter of this dispute, although it did not have the power to alter the private settlement agreement reached by the parties.
+We, therefore, reverse the order of the Board of Claims.
+ORDER
+AND NOW, November 4, 1994, we reverse the order of the Board of Claims.
+. Our standard of review is limited to determining whether constitutional rights have been violated, whether an error of law has been committed and whether factual findings necessary to support the adjudication are supported by substantial evidence. Section 704 of the Administrative Agency Law, 2 Pa.C.S. § 704.
