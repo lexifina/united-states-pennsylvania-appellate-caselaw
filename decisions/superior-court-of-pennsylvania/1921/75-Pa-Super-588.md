@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 119"
+decided: "1921-03-05"
+citations: ["75 Pa. Super. 588"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Trexler and Linn, JJ.", "Keller, J., did not sit and took no part in this decision."]
+parties: ["Borough of Adamstown v. Hartman, Appellant."]
+source_url: "https://static.case.law/pa-super/75/cases/0588-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 647103
+cites_cases: ["119 Pa. 159", "120 Pa. 357", "166 Pa. 46", "255 Pa. 417", "26 Pa. Superior Ct. 167", "266 Pa. 52", "64 Pa. Superior Ct. 495", "67 Pa. Superior Ct. 239", "71 Pa. Superior Ct. 125", "71 Pa. Superior Ct. 508", "72 Pa. Superior Ct. 441"]
+---
+
+# Borough of Adamstown v. Hartman
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+The public road leading from Reading to Lancaster passes through Adamstown and within the borough is Main street. The borough after appropriate action constructed a pavement along the front of defendant’s property and filed a lien for the cost thereof.
+The defendant gives several reasons why he should not be compelled to pay for the pavement. He alleges his property does not abut on the street. Mary E. Eberly, administratrix, in July, 1912, gave a deed to one J. H. Lied, which called for Main street as one of the boundaries and provided that “no house shall be built nearer to said straight line along the south side of West Main street than ten feet, and also the grantee his heirs, and assigns, shall put down and keep in repair a brick pavement in front of said lot at the grade of the street.” Part of this lot was conveyed to Hartman, the defendant, and in the deed Main street again was a boundary. It appears that Main street at this place was crooked and Eberly who sold the lots provided for a straight frontage and thus left a triangular strip between the lots and the street. This triangular strip furnishes the basis of defendant’s claim that he does not abut on the street. Evidently in furtherance of the purpose of giving the lots a straight frontage on Main street, Mary E. Eberly, administratrix, on July 9,1912, gave a deed to the Borough of Adamstown for the triangular strip of ground. This deed was lost but on September 24, 1914, was supplied by another, and the borough on June 14, 1915, accepted the triangular strip as part of the street and by separate ordinance fixed the width of the pavement. Thus the land in front of the property of the defendant and up to the proper line was adopted as a borough street. The borough took physical possession and exercised dominion over it. Defendant’s land was thus brought into immediate contact with the opened street.
+Defendant claims that by the taking of this triangular piece he was damaged and that these damages not having been secured as provided by article XVI, section 8, of the Constitution, the action of the borough was illegal ; that it had no right to proceed until viewers were appointed and steps taken to pay the damages. It may be hard to see how the defendant who bought a property bounded by a street could claim damages for the mere opening of the street, but, passing this, the defendant was secured if any damages were sustained, in the power of the borough to levy taxes for property taken, or destroyed. “It has been repeatedly held that the power of taxation in a municipal corporation is sufficient security for property taken by such corporation. Hence it logically follows that it is sufficient for property injured. These authorities are too familiar to need citation.” Delaware Co.’s App., 119 Pa. 159. This present proceeding is not the proper place to adjust defendant’s damages. The street was actually opened, the borough exercised dominion over it, and it was for all purposes a public street: Phila. v. Hinkle, 64 Pa. Superior Ct. 495; Canton Boro. v. Williams, 67 Pa. Superior Ct. 239; Newville Borough v. Leckey, 71 Pa. Superior Ct. 125; Tabor Street (No. 1), 26 Pa. Superior Ct. 167; Scott v. Pittsburgh, 266 Pa. 52; Kniss v. Borough of Duquesne, 255 Pa. 417. The defendant had no title to any land within the street but as stated before the deed called for the street as a boundary. He could not question the borough’s title. It is sufficient to know that the borough took it as a street and used it as such.
+Defendant claims that this being a public road only partly in the borough, the borough had no power to lay a sidewalk and make the owner pay for it. It has been held in McKeesport Boro. v. Busch, 166 Pa. 46, and by our own court in Dormont Borough’s Petition, 72 Pa. Superior Ct. 441, that a township road within a borough may be recognized as a borough street and improved as such and the cost assessed upon the abutting property holders. See also McCall v. D., L. & W. R. R. Co. & Duryea Boro., 71 Pa. Superior Ct. 508.
+The ninth section of article VII, chapter 6, of the Borough Code, May 14,1915, P. L. 312, cited by defendant, refers to improvement of streets and provides that without petition of the property owner, two-thirds of the cost may be collected by assessment by the foot-front on the owners of real estate abutting on the improvement. Sidewalks, however, are a separate class under our laws. Under the police power the owner can be required to lay a sidewalk and if he fails to do so, when requested, legislation has been provided that the borough may do it for him, and make him pay for it: Chapter 6, article XI, Act of May 14, 1915, supra; Smith v. Kingston Boro., 120 Pa. 357; Canton Boro. v. Williams, supra.
+All the assignments of error are overruled and the judgment is affirmed.
+Keller, J., did not sit and took no part in this decision.
