@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 216"
+decided: "1919-03-12"
+citations: ["71 Pa. Super. 319"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Head, Trexler and Williams, JJ."]
+parties: ["Walsh, Appellant, v. B. L. P. Motor Co., Inc."]
+source_url: "https://static.case.law/pa-super/71/cases/0319-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 638040
+cites_cases: ["210 Pa. 334", "239 Pa. 524", "242 Pa. 1", "65 Pa. Superior Ct. 169", "65 Pa. Superior Ct. 176", "66 Pa. 375"]
+---
+
+# Walsh v. B. L. P. Motor Co.
+
+## Majority (Williams, J.,)
+
+Opinion by
+Williams, J.,
+Plaintiff sues in assumpsit for the value of an automobile. From the record the following facts appear, viz: Joseph A. Walsh, the owner of a 1915, 4-cylinder touring car, being desirous of obtaining another car, entered into a lease, dated June 7, 1917, with the defendant, B. L. P. Motor Co., by which there was delivered to him an automobile, of a certain model, valued at $1,320.10, which lease recited, inter alia, he had paid on the day of its date, $500 (now said to be the value of the 1915 4-cyl-inder touring car) as the first installment of rent and agreed to make further payment in installments of rent, from time to time until there was paid $1,320.10, at which sum the leased car was valued. The lease also provided that lessee should give his promissory notes for the various installments of rent and that if not paid at their respective due dates should bear interest at the legal rate.
+The lease also contained provisions that the leased car should not be underlet, nor the lease assigned, and the car should be kept insured against fire and theft. If there was default in the payment of any installment of rent all notes then unmatured should at option of lessor become due and payable. Upon such default lessee was required to deliver the car to the lessor in good condition as when leased, ordinary wear and tear excepted; the lessor upon default to have the right to terminate the lease and take possession of the car in which case all rental paid was to be retained by lessor as “liquidated damages for the breach of the conditions of the lease, for loss of value with respect to the car and for the rental value thereof.” Lessor also had the option to enforce payment of the notes and to take possession of the car. Then followed the clause: “In the event of the seizure of this car the B. L. P. Motor Co. (lessor) will refund a 1915 4-cyl. touring car in good running order.”
+The lessor defaulted in his payment of rentals and suit was brought, and judgment therefor was entered, November 26,1917, in C. P. No. 1, of Philadelphia County.
+The B. L. P. Motor Co., lessor, caused to be issued a writ of replevin, and December 14,1917, the car was delivered to it. Upon appeal from the judgment in that suit an opinion has this day been filed.
+The statement of claim, filed in this case, avers an agreement for the purchase of an automobile, which was, at the request of the B. L. P. Motor Co., put in the form of a lease; a copy thereof was attached; in accordance with the terms of the written agreement (i. e. lease) the car was seized in the replevin suit; after the seizure plaintiff demanded from the defendánt in accordance with the terms of the agreement a 1915 4-cylinder touring car in good running order, which defendant refused to deliver. The statement further averred that a 1915 4-cylinder car referred to in the agreement was worth $500, and claimed that sum with interest from the date of the refusal to deliver, to wit: December 14,1917.
+The affidavit of defense, inter alia, denied there was any agreement to purchase and averred the entire agreement between the parties was contained in the lease, and the value of the 1915 4-cylinder car was but $400 —and also averred as a set-off its judgment against the plaintiff for $888.34 obtained in C. P. No. 1, for want of an affidavit of defense November 26,1917, in a suit for the unpaid rental in accordance with the terms of the lease.
+The court below held the averment of the set-off of the judgment in C. P. No. 1, to be sufficient to prevent judgment and from the order we have this appeal.
+The learned court below in its opinion said: “The plaintiff Walsh now brings this action to recover the value of the 1915 touring car, and if it were not for the counterclaim we think he would be entitled to judgment for $400, the value admitted in the affidavit of defense. The counterclaim, however, sets up the unsatisfied judgment, and if the counterclaim is established it is a sufficient defense to the present action. The fact that a claim has been reduced to judgment is no reason why it should not be asserted as a set-off.” The right to set-off a judgment is undoubted: Knoller v. Everett Realty Co., 65 Pa. Superior Ct. 169, 176.
+Appellant contends however it is not equitable for the defendant to have judgment against him for the balance of the rent, possession of the leased car, and refuse to comply with that portion of the agreement providing for the return of the 1915, 4-cylinder touring car; but the lessee agreed in the lease that “lessor may at option, by collection, suit, or otherwise, enforce payment of said notes (rental installments) and no suits or legal proceedings with respect thereto shall, however, be deemed any waiver of said right of lessor to take possession on default or breach as aforesaid.” The remedies are plainly cumulative, and plaintiff is estopped by his agreement from questioning defendant’s right to exercise them.
+It appears that the judgment used as a set-off is for $888.34, of which $720 is for the rent as provided for by the lease. Inasmuch as Walsh had the use of the leased car for upwards of six months, it would seem but just that he should pay for such use, and, as the matter stands, he has paid $500 in a machine, and $50 in cash, or $550, and if, upon the trial of this cause he receives credit for the value of his machine (as he claims) $500, this would reduce the judgment for the rent from $720 to $220. Making his total payment, if the judgment be collected as follows: $220 balance on judgment, $500 in the machine, $50 cash, or a total of $770 for the use of the leased car for over six months.. This might be doing substantial justice but of this we express no opinion, as the case is yet to be tried.
+The assignments of error are overruled and the appeal is dismissed at the cost of appellant without prejudice, etc.
