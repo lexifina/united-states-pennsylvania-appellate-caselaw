@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 362"
+decided: "1930-12-12"
+citations: ["100 Pa. Super. 320"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexuer, P. J., Linn, G-awthrop, Cunningham, Bat.t>rige and Whitmore, JJ."]
+parties: ["Plant Flour Mills Company, Appellant, v. Barag."]
+source_url: "https://static.case.law/pa-super/100/cases/0320-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 691264
+cites_cases: ["271 Pa. 332", "297 Pa. 153", "96 Pa. Superior Ct. 293", "96 Pa. Superior Ct. 330", "96 Pa. Superior Ct. 86"]
+---
+
+# Plant Flour Mills Co. v. Barag
+
+## Majority (Keller, J.,)
+
+Opinion by
+Keller, J.,
+This is an action on a trade acceptance for $1,587.50, given for flour sold by plaintiff to defendant.
+Defendant, by way of defense to the whole of plaintiff’s claim, set up the breach of an alleged implied warranty of quality, to wit, that the defendant had ordered “good” flour, which, it was alleged, meant in the trade, flour containing eleven and one-half per cent of proteins and having a high gluten content, whereas, the affidavit of defense averred, the flour shipped “contained protein and gluten in a considerably less amount,” without stating, however, the quantity of proteins and gluten actually present. There was no averment in either the original or supplemental affidavit of defense that the flour received was damaged, injured, spoiled or had deteriorated so as to be unfit for use.
+The flour was received by defendant on December 19, 1929. He made no test of its quality until a few days before January 15, 1930, when it was discovered by making baking tests of the flour that it was unsuited for making bread; though the affidavits did not aver that the flour was ordered for bread making or that plaintiff had made any representation on the subject. Assuming, however, that the flour did not conform with the implied warranty as to proteins and gluten, two courses were open to the defendant. He might rescind the contract by notifying the seller within a reasonable time of his election to rescind and returning or offering to return the flour to the seller in substantially as good condition as it was in at the time the property was transferred to him (Sales Act of 1915, P. L. 543, Sec. 69 (d), p. 563); or keep the goods and give notice to the seller of the breach of warranty within a reasonable time after he knew or ought to know of such breach (Sales Act of 1915, supra, Sec. 49, p. 557), and set up against the seller the breach of warranty by way of recoupment in diminution or extinction of the price (Sales Act of 1915, supra, Sec. 69 (a), p. 563).
+The affidavits allege that complaint of the quality of the flour was made on or about January 15, 1930, but it is not averred that any election to rescind was made, nor that the flour was returned or any offer made to return it, in connection with such complaint. On the contrary the plain import of the supplemental affidavit of defense is that the defendant expected or hoped that the plaintiff would make an adjustment of the price; and having elected not to rescind, the defendant could not subsequently change his position. The affidavits are barren of any definite assertion that the defendant ever offered to return the flour. The most that the defendant would say on the subject was that after the plaintiff had made its own tests it refused to consider defendant’s complaints and advised him that it would not accept the return of the flour; which “was done by letter dated February 15, 1930,...... asking for payment of the shipment.” It is hard to conceive of a more disingenuous averment than this, if it is intended to imply, what it failed definitely to state, that the defendant had theretofore offered to return the flour.
+Having elected to keep the flour and set up the breach of warranty by way of recoupment in diminution of the price, it was incumbent on the defendant to make definite averment of the value of the flour at the time of delivery to the buyer, (Sales Act, Sec. 69 (7) ). As before pointed out the affidavits do not allege that the flour was damaged, injured, spoiled or had deteriorated so as to be unfit for use. The defendant could not keep and use or sell the flour or exercise dominion over it as owner and yet escape liability to pay anything for it because of the bare averment that it was unsalable. The breach complained of was not such as to render it unfit for any use and hence wholly unmerchantable. Unless coupled with an averment as to the disposition of the flour which established that the defendant had not used or exercised dominion over it to his profit or advantage, he cannot reap the benefit of a use of the flour and refuse to pay its value, whatever it might be. The affidavits contain no information as to what use or disposition defendant made of the flour, or of its value at the time of delivery.
+We are of opinion that the affidavits are insufficient to prevent judgment. We believe this ruling to be in accord with the decisions of the Supreme Court in Wright v. General Carbonic Co., 271 Pa. 332; Tinius Olsen Testing Machine Co. v. Wolf Co., 297 Pa. 153 and kindred cases; and of this court in Hausman & Buttler v. Dougherty, 96 Pa. Superior Ct. 86, 90; Descalzi v. North American Fruit Exchange, 96 Pa. Superior Ct. 293, 297; and Plympton Cabinet Co. v. Rosenberg, 96 Pa. Superior Ct. 330, 334.
+The assignment of error is sustained. The judgment is reversed and the record is remitted to the court below with directions to enter judgment against the defendant for such sum as to right and justice may belong unless other legal or equitable cause be shown to the court below why such judgment should not be so entered.
