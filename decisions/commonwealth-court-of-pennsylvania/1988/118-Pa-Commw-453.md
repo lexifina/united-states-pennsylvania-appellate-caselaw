@@ -1,0 +1,56 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeals Nos. 1496 C.D. 1987 and 1497 C.D. 1987"
+decided: "1988-08-10"
+citations: ["118 Pa. Commw. 453", "545 A.2d 476"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Craig and Colins, and Senior Judge Kalish, sitting as a panel of three."]
+parties: ["Warren Searles, Appellant v. The Zoning Hearing Board of The City of Easton, Appellee. Warren Searles, Appellant v. The Zoning Hearing Board of The City of Easton, Appellee."]
+source_url: "https://static.case.law/pa-commw/118/cases/0453-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1375516
+cites_cases: ["10 Pa. Commonwealth Ct. 473", "21 Pa. Commonwealth Ct. 93", "22 Pa. Commonwealth Ct. 50", "312 A.2d 124", "312 A.2d 126", "343 A.2d 381", "347 A.2d 740", "415 A.2d 946", "455 A.2d 754", "475 A.2d 1329", "477 A.2d 907", "501 Pa. 550", "52 Pa. Commonwealth Ct. 224", "71 Pa. Commonwealth Ct. 595", "82 Pa. Commonwealth Ct. 192", "83 Pa. Commonwealth Ct. 441"]
+---
+
+# Searles v. Zoning Hearing Board
+
+## Majority (Judge Craig,)
+
+Opinion by
+Judge Craig,
+Warren Searles, owner of two lots in Northampton County, appeals an order of the Court of Common Pleas of Northampton County that affirmed a decision of the Zoning Hearing Board of the City of Easton and denied Mr. Searles’ application for two variancés from dimensional requirements of the Easton City Zoning Code. We reverse.
+In this appeal from the common pleas courts affirmance of the decision of the zoning hearing board, the issue is whether the board had a legally sound reason for denying the variances needed to allow the two single-family dwellings, a permitted use, on the two undersized lots.
+In January 1985, Mr. Searles purchased two lots, one located on the west side, of Ann Street and the other on the south side of Lachenour Avenue, both in Easton, Pennsylvania. The lots, purchased at a tax sale, are located in an area zoned Residential Low Density.
+In September of 1986, Mr. Searles filed applications with the Zoning Administrator for the City of Easton to obtain permission to construct a single-family home on each of the lots. The zoning administrator denied both applications. On October 20, 1986, the board held hearings during which Mr. Searles sought lot width and parking variances for the Ann Street lot, and lot.width, lot area, and parking variances for the Lachenour Avenue lot.
+Section 1333.05 of the Easton City Zoning Code requires a minimum lot area of 6,400 square feet, a minimum lot width of 60 feet, and two ofF-street parking spaces.
+The Ann Street lot is fifty feet wide; there Mr. Searles proposes a one-car garage, integral with the dwelling. The Lachenour Avenue property is forty-five feet wide and contains a lot area of 5,890 square feet. Mr. Searles also proposes a one-car integral garage for the dwelling proposed to be placed on this lot.
+At the conclusion of the hearing, the board voted unanimously to deny the variances. In its decision, the board preceded each of its final determinations with a statement of the burden which, according to the board, Mr. Searles had foiled to meet (sentences emphasized below) and followed each of those enumerated burdens with a summary of the boards acceptance and rejection of evidence on the point:
+1. The variances will not be contrary to the public interest. The testimony presented by the protestants established that the granting of the variances will be detrimental to the public health, safety and welfare;
+2. The proposed variances will not alter the essential character of the neighborhood or district in which the property is located. The testimony presented by the protestants established that construction will alter the character of the neighborhood, for the following reason: will alter the low density character of the neighborhood, the construction is not consistent with the construction of the adjoining properties;
+3. Unnecessary hardship will result if the variances are not granted. The testimony, presented, by the applicant, failed to establish the hardship requirements set forth in the municipalities planning code. (Emphasis added.)
+Mr. Searles took two appeals to the Court of Common Pleas, which the court consolidated for consideration. The trial court affirmed the boards determinations.
+Because the trial court did not receive additional evidence, our scope of review is restricted to a determination of whether the board committed a manifest abuse of discretion or an error of law in not granting the variances. Abuse of discretion occurs only if the boards findings are not supported by substantial evidence. Valley View Civic Association v. Zoning Board of Adjustment, 501 Pa. 550, 462 A.2d 637 (1983).
+In order to obtain the variances, Mr. Searles must sustain the burden of proving (1) that the ordinance imposes unnecessary hardship on the property; (2) that the hardship stems from unique physical characteristics of the property; (3) that the variances would not adversely affect the health, safety or welfare of the general public; (4) that the hardship was not self-inflicted; and (5) that the variances sought are the minimum that will afford relief. Vacca v. Zoning Hearing Board of Dormont, 82 Pa. Commonwealth Ct. 192, 475 A.2d 1329 (1984); 53 P.S. §10912.
+Mr. Searles first contends that the board erred in concluding that the Easton Zoning Code did not impose an unnecessary hardship on the two building lots in question. A showing of unnecessary hardship requires that the physical characteristics of the property be such that the property cannot be used for any permitted purpose or for a permitted purpose only at prohibitive expense, or that the characteristics of the area are such that the property has no value or only a distress value for any purpose permitted by the zoning ordinance. Klanke v. Zoning Hearing Board, 83 Pa. Commonwealth Ct. 441, 477 A.2d 907 (1984).
+This case is controlled by our decision in Jacquelin v. Horsham Township, 10 Pa. Commonwealth Ct. 473, 312 A.2d 124 (1973). In that case we held that the refusal of the board to grant the requested variance, coupled with the effect of the ordinance, imposed an unnecessary hardship on the landowners because the boards decision precluded any residential or other productive use of the property. Our court reasoned that “[t]he police power, broadly construed, may not be employed to take private property for public use without just compensation,” Jacquelin at 477, 312 A.2d 126, and that a refusal of zoning authorities to permit a residentially zoned property to be used for any residential purpose constitutes an impermissible taking. See also Jones v. Zoning Hearing Board of North Catasauqua, 71 Pa. Commonwealth Ct. 595, 455 A.2d 754 (1983).
+With respect to the Laehenour Avenue lot, Mr. Searles testified:
+. Mr. Murray: And, could you explain, in terms of developing this with the builder and so forth, how it presents a hardship? .
+Mr. Searles: If I’m not able to receive my variance as I am presenting it,. basically nothing else can be done, because .it’s based on the limitations of the lot size.
+Mr. Murray: ■ And, the. plans that you have for the proposed construction cannot be changed in any way, as a practical matter, considering—
+Mr. Searles: Changing the plans wouldn’t change anything, as far as the lot configuration, of meeting those Codes.
+With respect to the Ann Street lot, Mr. Searles testified:
+Mr. Murray: In your opinion, would the denial of these variances present a great hardship to you, as far as your, use of the property?
+Mr. Searles: If I was denied one, the town would lose a ratable and I would be stuck with a useless piece of land.
+Mr. Murray: When you say. useless, considering the proposed plans that you have for construction, are you saying that as a practical matter that this is the only feasible type of construction?
+Mr. Searles: What I’m proposing is a house that fits within the side yard variance depth and percentage usage. Based, on what I have to work with, I’m presenting the best possible solution.
+Enforcement of the zoning code as it now stands would render both lots useless, thus resulting in unnecessary hardship.
+Furthermore, the record indicates that Mr. Searles unsuccessfully attempted to sell the building lots to the adjacent property owners for use as a garage, a permitted accessory use in an R-LD district. Nevertheless, even if willing buyers had come forward, Mr. Searles would not have been required to sell. On this point, Harper v. Ridley Township Zoning Hearing Board, 21 Pa. Commonwealth Ct. 93, 343 A.2d 381 (1975), controls. In that ease, our court held that a requested dimensional variance could not be denied to a property owner for refusing to sell his property to an adjacent property owner who would not require a variance, Without evidence that the landowner of the property had created the dimensional hardship.
+Secondly, Mr. Searles argues that the board committed an error of law in refusing to grant the variances because evidence established that the hardship to each lot was not self-inflicted. The zoning hearing board did not make express factual findings related to whether any hardship to the property was self-inflicted. However, the boards brief suggests that any existing hardship is a self-imposed one because Mr. Searles, as a speculator, purchased the two lots at a distress price, thereby assuming any risk. We disagree.
+In Marlowe v. Zoning Hearing Board of Haverford, 52 Pa. Commonwealth Ct. 224, 415 A.2d 946 (1980), our court held that a buyer of property subject to known zoning restrictions is not disqualified from receiving a variance on the basis that his hardship is self-inflicted without evidence that the purchaser paid an unduly high price for the property in anticipation of receiving a variance. Mr. Searles paid $625 for the Ann Street lot and $700 for the Lachénour Avenue lot, at a tax sale. The record is devoid of evidence that indicates Mr. Searles tendered a high price in expectation of receiving a variance.
+Finally, the record contains no substantial evidence to support the finding that a detriment to the public health, safety and welfare would result. The boards view that the- construction of two single-family homes would be detrimental to the neighborhood is based primarily on findings that the proposed dwellings would “alter the low density character of the neighborhood,” and that the proposed construction would “change the character of the neighborhood by making the house deep instead of wide.”
+Mr. Searles’ proposed plan calls for a two-story dwelling, measuring 42 feet long, by 27 feet wide. The Ann Street and Lachenour Avenue neighborhoods consist mainly of two-story single-family residences. The use of the lots to construct single family homes would be compatible with the character of the neighborhoods and would substantially conform to the existing homes in that area. Schaaf v. Zoning Hearing Board of Edinboro, 22 Pa. Commonwealth Ct. 50, 347 A.2d 740 (1975).
+Therefore, we. reverse the determination of the trial court.
+Order
+Now, August 10, 1988, the order of the Court of Common Pleas of Northampton County, dated June 3, 1987, is reversed.
