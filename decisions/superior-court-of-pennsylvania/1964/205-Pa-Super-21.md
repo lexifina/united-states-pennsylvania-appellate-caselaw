@@ -1,0 +1,40 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 150"
+decided: "1964-12-16"
+citations: ["205 Pa. Super. 21"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, Wright, Woodside, Wati-cins, Montgomery, and Flood, JJ. (Rhodes, P. J., absent)."]
+parties: ["Mountcastle v. Schumann et al., Appellants."]
+source_url: "https://static.case.law/pa-super/205/cases/0021-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 771493
+cites_cases: ["101 Pa. Superior Ct. 514", "105 Pa. 187", "117 Pa. Superior Ct. 559", "178 A. 528", "43 Pa. Superior Ct. 593", "98 Pa. Superior Ct. 545"]
+---
+
+# Mountcastle v. Schumann
+
+## Majority (Flood, J.,)
+
+Opinion by
+Flood, J.,
+The defendant constable, authorized by the defendant landlords to distrain upon the personal property of the plaintiffs for rent in arrears, went to the apartment house in which they occupied a second floor apartment. Mr. Mountcastle, the husband plaintiff, met the constable on the stairway. The constable handed him the notice of distraint but did not enter the premises, view the goods or take physical possession of them. The tenants filed a writ of replevin with bond against the constable and the landlords to recover the goods. At the trial the plaintiffs obtained a verdict and the defendants have appealed from the refusal of the court below to enter judgment n.o.v.
+The principal question before us is whether or not there was a sufficient seizure of the plaintiffs’ property to constitute a valid distraint.
+The constable testified that he knocked on the side door and “Mr. Mountcastle came down and he told me somebody was sick and he didn’t want them disturbed, but he said, I’m going to straighten out the matter with Mr. Schumann, just leave the paper with me.” The constable replied, “It is o.k. I won’t bother them”. He did not post the property but gave it to the husband. On cross-examination of the constable, the following transpired:
+“Q. Ho you know what the requirements of that act are for making the destraint? [sic]
+“A. If you are going to post the person to go in will make the complaint there for you, but if you are going there for rental you are not going into a full procedure on it, you are giving the guy time to straighten it out.
+“Q. As I understand it, you did not intend to make a full destraint at the Mounteastle’s at that time?
+“A. I did . . . My intention was to get them together to get it straightened out. If I wanted to proceed on the full thing I would have made an appraisal after 5 days which we didn’t do. They said they would get it straightened out and I said that is all right with us. We are in the middle trying to get both sides together.
+“Q. If you were going to make a regular landlord destraint you would have gone on the inside and made a full destraint?
+“A. That’s right.
+“Q. That means you would have been inside the apartment where they live so you could see what furniture was there?
+“A. I would be. He said he had somebody sick in there so I left it go.”
+Since the constable never entered the premises or saw the goods, there was no manual seizure of any kind. The constable listed a set of items “Beds, Dresser, Stove, ref., table, chairs, and all other goods found on the premises”. He said he did not seize these items and did not know whether they were in the property but that he listed them because everybody has these things.
+The court below held that this did not constitute a sufficient seizure to work a legally effective distraint. The appellant relies upon the statement of this court in Derbyshire Bros. v. McManamy, 101 Pa. Superior Ct. 514, 523 (1931), quoting the opinion in Furbush v. Chappell, 105 Pa. 187 (1884), to the following effect: “As a general rule, to render the distress complete, there must be a seizure of the property distrained upon; but a very slight act is sufficient to constitute a seizure in contemplation of law. It need not be an actual seizure of the particular goods. If the landlord gives notice of his claim for rent, and declares the goods which he names shall not be removed from the premises until the rent is paid, it is a sufficient seizure.” The circumstances in those cases, however, distinguish them from the situation before us. In the Furbush case, the landlord came to the premises and threatened to arrest the seller’s agents who were removing the goods. He therefore effectively took control of the goods. Under its facts, it cannot be considered authority for the proposition that a levy may be validly made by mere notice without taking possession, or effective control, of the goods. In the Derbyshwe case the landlord prevented a third party claimant from removing the goods from the premises. This was also the situation in Cramer v. Mott, L. R. 5 Q. B. 357 (1870), the leading case upon which the courts in the Furbush and Derbyshire cases relied.
+The Landlord and Tenant Act of April 6, 1951, P. L. 69, 68 PS §250.101 et seq., -which governs distress proceedings, does not prescribe how the distress shall be made. The matter is discussed in Stern’s Trickett on Landlord and Tenant, 3rd Edition, §194 (1950). The conclusion of the learned author, based upon the cases which are not altogether reconcilable, is that there must be an assumption of control over the goods. It is a little difficult to see how there can be a seizure when the landlord or his bailiff does not even enter the premises. Here the constable was in the apartment house in which the tenants lived, it is true, but he did not go into their apartment, or even see the goods levied upon. No one was trying to remove them, so that the constable did not assume control by preventing a removal as in the Derbyshire, Furbush and Cramer cases. We have found no case where a constable’s levy was held valid, when there was no entrance on the premises and the constable did not see the goods levied upon. The cases holding a levy invalid when the constable breaks into the premises or picks the lock to get in, are strong indications that he must enter in order to distrain. Ewald v. Fidelity Title & Trust Co., 43 Pa. Superior Ct. 593 (1910).
+Even though the landlord’s right of distress has long been favored by the law and a very slight act of seizure may be sufficient, as stated in the Furbush case, there is not a valid levy where there is no seizure at all, no entry upon the premises and no view of the goods, and no other act equivalent to taking control of the goods on the premises. Consequently the defendant landlord acquired no title to the goods by the constable’s sale based upon the asserted levy in this case, and the court below properly held that the jury verdict in favor of the plaintiffs’ right to replevy the goods should not be disturbed.
+The appellants further contend that the institution of an action of replevin constitutes a waiver of any procedural irregularity in the distress, citing Potts Dept. Store v. Lutz, 98 Pa. Superior Ct. 545 (1930), and Greenberg v. Goldman Stores Corp., 117 Pa. Superior Ct. 559, 178 A. 528 (1935). These cases are authority only for the proposition that where there has been a valid levy, irregularities in giving notice or other matters necessary to a valid constable’s sale are waived by the bringing of an action of replevin, since the replevy of the goods ends the distress and prevents the sale, the replevin bond now standing in place of the goods. The bringing of the action does not waive matters fundamental to the distraint itself, as distinguished from sale thereunder. The rule of the cited cases has no application in a case where no rent is due, or where, as here, there is no seizure of the goods.
+In view of what we have said above, the alleged errors in the charge complained of by the appellants, if they were actually errors, were harmless. If anything, the charge was more favorable to the appellant than the law required.
+Judgment affirmed.
