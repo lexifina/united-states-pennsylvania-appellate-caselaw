@@ -1,0 +1,31 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2473 C.D. 1982"
+decided: "1984-02-23"
+citations: ["80 Pa. Commw. 401"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Rogers, Barry and Barbieri, sitting as a panel of three."]
+parties: ["Milo Windrick, Appellant v. Commonwealth of Pennsylvania, Appellee."]
+source_url: "https://static.case.law/pa-commw/80/cases/0401-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1318448
+cites_cases: ["14 Pa. Commonwealth Ct. 435", "21 Pa. Commonwealth Ct. 287", "29 Pa. Commonwealth Ct. 415", "322 A.2d 420", "345 A.2d 306", "371 A.2d 526", "409 A.2d 1373", "410 A.2d 91", "48 Pa. Commonwealth Ct. 320", "48 Pa. Commonwealth Ct. 379", "485 Pa. 431"]
+---
+
+# Windrick v. Commonwealth
+
+## Majority (Judge Barry,)
+
+Opinion by
+Judge Barry,
+This is an appeal from an order of the Court of Common Pleas of Westmoreland County because that court determined that it was without jurisdiction to entertain a Petition to Appeal 'Suspension of Operating Privileges Nunc Pro Tunc filed by Milo Wind-rick (appellant) in the Court of Common Pleas of Westmoreland County on March 5, 1982. We affirm.
+The record reveals that on February 6,1982, appellant received from the Department of Transportation, Bureau of Traffic Safety Operations (appellee), an official notice of the suspension of his driver’s license dated, January 29,1982. When 'appellant filed his petition on March 5, 1982, more than thirty days had elapsed from the date of mailing contrary to Sections 5571(b) and 5572 of the Judicial Code, 42 Pa. C. S. §§5571 (b) — 5572, Avhioh provide that appeals from a government unit to a court must be commenced Avithin thirty days after entry of the order and that the date of mailing, if service is miade by mail, shall be deemed to be the date of entry of the order. Appellant attempts to persuade us that these provisions are unconstitutional, arguing that the appeal period should be measured from the time of receipt of the notice of suspension and not the time of mailing. He contends that by permitting the time of mailing rather than the time of receipt to control denies a prospective appellant his constitutional rights of due process and equal protection because the full thirty-day appeal period has begun to run before an appellant receives his notice. In support of his argument, appellant raises hypothetical situations such as delay in the mail of a suspension notice or even non-receipt of same. We note that while these situations might well occur, neither of them occurred in the instant case and, therefore, are not before us. Appellant also contends that persons living various distances from the point of mailing ¡would receive their notices at different times depending upon a capricious mail delivery schedule. He concludes that prospective appellants have different numbers of days in which they must prepare and file appeals, raising due process and equal protection problems.
+We do not find appellant’s argument persuasive because there is no clear, palpable and plain violation of the Constitution contained in these provisions. Thiemann v. Allen, 485 Pa. 431, 402 A.2d 1348 (1979). Even if the validity of legislation is fairly- debatable, the legislative judgment must be allowed to control. Guentter v. Borough of Landsdale, 21 Pa. Commonwealth Ct. 287, 345 A.2d 306 (1975). As we stated in Department of Transportation, Bureau of Traffic Safety v. Forte, 29 Pa. Commonwealth Ct. 415, 420, 371 A.2d 526, 528 (1977):
+Our reading .. . discloses no evidence of any legislative intent to mate the receipt of notice the event which triggers the running ¡of the time for appeal. Had the Legislature, which is not unfamiliar with the term “receipt” or its legal effect, intended receipt of notice to be the triggering event, it would have .so stated. Zimmer v. Susquehanna County Planning Commission, 14 Pa. Commonwealth Ct. 435, 322 A.2d 420 (1974).
+As the appellee correctly points out, all prospective ¡appellants are subject to the ¡same fortunes of delivery offered by the United States Postal Service, and most of the likely number of days it takes to deliver a letter by the United States Postal ¡Service are deemed to create an ¡appeal period which is ¡reasonable. "We point out ¡again .that the exceptional circumstance of complete failure to notify or failure to notify within the appeal period is not involved in this case. Thus appellant’s constitutional argument must fail.
+Appellant also raises the issue that the court of common pleas erred when it did not decide the question of jurisdiction for more than .six months after the petition for appeal had been filed. He attempts to persuade us that, by its failure to file .any responsive pleading such as preliminary objections or an answer ¡and new matter to the Petition to Appeal the Suspension of Operating Privileges Nunc Pro Tunc, appellee waived the jurisdictional issue. It is well settled that the issue of ¡subject matter jurisdiction may be raised at any time in the proceedings and does not require a responsive pleading. In Department of Transportation Bureau of Traffic Safety v. Bower, 48 Pa. Commonwealth Ct. 379, 380, 410 A.2d 91, 92 (1980), we •stated “ [ajlthough the issue ¡of timeliness was not raised by the parties, the timeliness of an appeal.goes to the subject matter jurisdiction of the court and may therefore be raised at any time., even on the appellate level, either by the parties or by the court on its own motion.” (Citations omitted.) We note that in Department of Transportation, Bureau of Traffic Safety v. Quatrini, 48 Pa. Commonwealth Ct. 320, 409 A.2d 1373 (1980), the issue of the lower court’s lack of subject matter jurisdiction was not raised in the trial court but that we nevertheless dismissed on our own motion an appeal of :the suspension of a motor vehicle operator’s license.
+Because appellant’s filing of the petition was not timely, the court of common pleas does not have the requisite .subject matter jurisdiction to entertain it. Order affirmed.
+Order
+And Now, February 23, 1984, the order of the ■Court of Common Pleas of Westmoreland County dated September 23,1982, is hereby affirmed.
