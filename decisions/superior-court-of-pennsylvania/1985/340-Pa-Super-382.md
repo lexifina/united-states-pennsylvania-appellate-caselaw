@@ -1,0 +1,38 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "785"
+decided: "1985-03-22"
+citations: ["340 Pa. Super. 382", "490 A.2d 472"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before ROWLEY, OLSZEWSKI and POPOVICH, JJ."]
+parties: ["William E. THOMPSON and Ruth Thompson, his wife, and Catherine J. Thompson, Appellants v. Seymour A. SIKOV and Sikov & Love, P.A."]
+source_url: "https://static.case.law/pa-super/340/cases/0382-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 629074
+cites_cases: ["189 A.2d 147", "244 Pa.Super. 377", "293 Pa.Super. 122", "336 Pa.Super. 467", "410 Pa. 192"]
+---
+
+# Thompson v. Sikov
+
+## Majority (POPOVICH, Judge:)
+
+POPOVICH, Judge:
+This is an appeal from an order of the trial court which granted a demurrer to the complaint filed by plaintiffs-appellants, William Thompson and his wife, Ruth Thompson, and their daughter, Catherine Thompson. We affirm.
+On July 20, 1977, William Thompson sustained permanent injuries when he received an electric shock from a power line when the crane boom owned by Anthony Crane Rental collided with the power line.
+William and his wife filed a trespass action against West Penn Power Company and Anthony Crane Rental, Inc. and, after a seven day trial, the jury entered verdicts of $500,000 for William Thompson and $150,000 for his wife. Following the discharge of the jury, appellants alleged that Attorney Sikov, counsel for the insurance carrier of the defendant, Anthony Crane Rental, Inc., approached the plaintiffs and shouted words to the effect that they would not see any of the money and that he was going to file an appeal to the verdict. Counsel then again shouted after he had collided deliberately with William Thompson that he was going to appeal the verdict. According to the appellants, William Thompson then telephoned his wife to inform her of the good news since she had not attended the trial. William also told his wife what Sikov had said. Thompson’s wife “became almost paralyzed so that she was unable to continue the conversation and she became nauseaus [sic].” Appellants’ Complaint Allegation at No. 34. Appellants then filed an action of intentional infliction of emotional distress.
+Accepting as true the factual averments set forth by the appellants, we conclude that the trial court properly granted the demurrer.
+Appellants argue that (1) the trial court erred in restricting its scope of review to its own determination of what constitutes outrage; (2) the trial court erred in determining that the conduct of the attorney was not sufficiently outrageous to raise a question for the jury to decide; (3) the trial court erred in restricting its analysis of outrageous conduct solely to comment d of the Restatement of Torts (Second), Section 46, rather than reading that comment in tandem with the other comments to the section and with the current case law; and (4) the wife of the injured victim is a proper plaintiff to this lawsuit. We must reject appellants’ contentions.
+The tort of intentional infliction of emotional distress is an actionable wrong for conduct which is “ ‘of an extreme outrageous type.’ ” Banyas v. Lower Bucks Hospital, 293 Pa.Super. 122, 126, 437 A.2d 1236, 1238 (1981) (quoting Jones v. Nissenbaum, Rudolph & Seidner, 244 Pa.Super. 377, 383, 368 A.2d 770, 773 (1976); Restatement (Second) of Torts § 46 (1965). Additionally, our own Supreme Court has said that “much of what is said with respect to the right of privacy is also applicable to the intentional infliction of emotional distress. Judicial recognition of a cause of action for the unwarranted invasion of one’s right of privacy is of comparatively recent vintage.” Forster v. Manchester, 410 Pa. 192, 195-196, 189 A.2d 147, 149 (1963). Recently, our own Court held that an out-of-court communication which was sent to opposing counsel was privileged absolutely and “immune from financial liability even if his statement is a knowing and malicious falsehood.” Post v. Mendel, 336 Pa.Super. 467, 476, 485 A.2d 1176, 1181 (1984). In this connection we said the following:
+... the general rule is that whatever is published by counsel in a legal proceeding, material, pertinent, or relevant to the matter in controversy is absolutely privileged and no action can be maintained on it, even though false and actuated by improper motives, or vituperative and exaggerated____
+* * * * * *
+... it is not absolutely essential, in order to obtain the benefits of the privilege, that the language be spoken in open court or contained in a pleading, brief, or affidavit; and the privilege has been held to extend to a latter written by counsel to an opposing party relating to discontinuance and release of the cause of action, even though such letter was written spontaneously, and not in response to any communication received. (Footnotes omitted)
+Id., 336 Pa.Superior Ct. at 474, 485 A.2d at 1180, (quoting 53 C.J.S., Libel and Slander, § 104(7) (“Communications by Counsel”). We also recognize that the rule of absolute immunity for libel is applicable when the matters which are the subject of inquiry are “relevant and pertinent to the matters to be inquired into by the court.” Id., 336 Pa.Superior Ct. at 475, 485 A.2d at 1181. All doubts should be resolved in such case in favor of relevancy and pertinency. Id. With respect to the tort of intentional infliction of emotional distress, the Restatement similarly states that “[t]he conduct, although it would otherwise be extreme and outrageous, may be privileged under the circumstances.” Restatement (Second) of Torts, supra, § 46, Comment g. (Emphasis added).
+When the above standard is applied to the instant case, we conclude that the attorney’s alleged remarks which were made in the courtroom were privileged. The alleged remarks concerned the fact that the attorney was going to file an appeal, which he is under our Pennsylvania Constitution legally entitled to do. See Const. art. V, § 9. Although the attorney’s alleged conduct may have been heartless, which we do not condone, the words used cannot form the basis of a cause of action of intentional infliction of emotional distress. The Restatement cites the following example:
+A and her children are destitute, ill, and unable to pay their rent. B, their landlord, calls on A and threatens to evict her if the rent is not paid. Although B’s conduct is heartless, he has done no more than the law permits him to do, and he is not liable to A for her emotional distress.
+Restatement (Second) of Torts, supra, § 46, Comment g, Illustration 14. Similarly, we conclude that the alleged threat which the attorney made also is not actionable. The following observation which we made in Post, supra, is applicable to the instant case:
+There has likely never been a practitioner [or individual] who has not experienced chagrin, distress and outrage at the hands of an adversary. Certain adversaries are particularly skilled at triggering such a reaction and even rely upon it as an instrument of the profession. However, it ill serves the profession generally, outraged counsel specifically, and his cause particularly, when retort is served in so reprehensible a fashion.
+We are, therefore, somewhat inclined to observe that while the communique of counsel is privileged, we do not condone and, in fact, view with disfavor the manner of his expression of his grievance.
+336 Pa.Superior Ct. Pa.Super. at 478 ftn. 1, 485 A.2d at 1182 ftn. 1.
+Accordingly, we affirm the order of the trial court which granted appellee’s demurrer.
