@@ -1,0 +1,54 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 811 C.D. 1987"
+decided: "1988-07-01"
+citations: ["117 Pa. Commw. 440", "543 A.2d 1258"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Crumlish, Jr., and Judges McGinley and Smith, sitting as a panel of three."]
+parties: ["Lawrence Jones, Father and Administrator of The Estate of Milton Jones, Deceased, Appellant v. Cheltenham Township, Appellee."]
+source_url: "https://static.case.law/pa-commw/117/cases/0440-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1373673
+cites_cases: ["100 Pa. Commonwealth Ct. 535", "107 Pa. Commonwealth Ct. 61", "112 Pa. Commonwealth Ct. 416", "262 Pa. Superior Ct. 473", "346 Pa. Superior Ct. 183", "511 Pa. 73", "517 Pa. 611", "517 Pa. 626", "536 A.2d 1334", "538 A.2d 879", "613 F. Supp. 469"]
+---
+
+# Jones v. Cheltenham Township
+
+## Majority (Judge Smith,)
+
+Opinion by
+Judge Smith,
+Appellant Lawrence Jones Appeals from a decision of the Montgomery County Court of Common Pleas which granted summary judgment in favor of Appellee, Cheltenham Township (Township). The trial court determined that the Township was immune from suit under the Recreation Use of Land and Water Act (Recreation Act). We affirm.
+Appellants action arose out of the death of his minor son which occurred on September 3, 1981 in the Richard Wall Park (Park) located in Cheltenham Township. Appellants decedent was swimming in the Tookany Creek (Creek) where he fell into a fifteen foot drop-off in the Creek and drowned. The Township owns and maintains the Park which is open to the public for recreational purposes. The Creek runs along one edge of the Park with the Township owning land on . both sides of the Creek. No admission fee is charged for entrance to park grounds or for use of its facilities.
+Appellant filed his negligence action against the Township on October 3, 1983, suit having been commenced by writ of summons, alleging that the Township failed to warn and to make the Park safe for decedents use. The Township in its amended answer and new matter asserted an immunity defense under the Recreation Act and moved for summary judgment. The trial court granted summary judgment after finding that the Township was immune from liability under the Recreation Act, specifically noting that the complaint failed to allege that the Township acted either willfully or maliciously at any time in relation to the decedent.
+In reviewing the trial courts granting of summary judgment, this Court is limited to determining whether or not the trial court committed an error of law or abused its discretion. Kuehner v. Parsons, 107 Pa. Commonwealth Ct. 61, 527 A.2d 627 (1987), appeal denied, 517 Pa. 626, 538 A.2d 879 (1988). For courts to enter summary judgment, the record must demonstrate that no genuine issue of material fact exists after review of the record in a light most favorable to the non-moving party. Johnson v. Baker, 346 Pa. Superior Ct. 183, 499 A.2d 372 (1985).
+Appellant argues that all of the elements of willfulness involving exceptions to immunity under the Recreation Act were properly pled in the complaint and that the trial courts grant of summary judgment constituted an error of law. In addition, Appellant contends that the trial court committed an error of law in not allowing Appellant to amend his complaint to add willful negligence. Lastly, Appellant challenges the Supreme Courts reasoning in Department of Environmental Resources v. Auresto, 511 Pa. 73, 511 A.2d 815 (1986), contending that the Recreation Act should not apply to governmental bodies. We will address each argument seriatim.
+The legislative purpose in enacting the Recreation Act was to encourage owners of land to make land and water areas available to the public for recreational purposes by limiting owners’ liability toward persons entering upon the land for such purposes. Section 4 of the Recreation Act, 68 P.S. §477-4, states in pertinent part as follows:
+Except as specifically recognized by or provided in section 6 of this act, an owner of land who either directly or indirectly invites or permits without charge any person to use such property for recreational purposes does not thereby:
+(1) Extend any assurance that the premises are safe for any purpose.
+(2) Confer upon such person the legal status of an invitee or licensee to whom a duty of care is owed.
+(3) Assume responsibility for or incur liability for any injury to persons or property caused by an act of omission of such persons.
+Section 6 of the Recreation Act, 68 P.S. §477-6, further states that:
+Nothing in this Act limits in any way liability which otherwise exists:
+(1) For wilful or malicious failure to guard or warn against a dangerous condition, use, structure, or activity.
+(2) For injury suffered in any case where the owner of land charges the person or persons who enter or go on the land for the recreational use thereof, except that in the case of land leased to the State or a subdivision thereof, any consideration received by the owner for such lease shall not be deemed a charge within the meaning of this section.
+The term willful is not defined in the Recreation Act, thereby leaving its precise definition to the courts. In Rosa v. United States, 613 F. Supp. 469, 476 (M.D. Pa. 1985), the Court found willful to mean an act done voluntarily or intentionally or knowingly, as distinguished from accidental. Nowhere in the complaint does Appellant aver that Appellee had actual knowledge of the condition complained of, nor does Appellant aver that Appellee deliberately, intentionally or knowingly failed to guard or warn against a dangerous condition, use or activity in the park. The trial court properly found that Appellant failed to plead necessary elements of willfulness.
+The trial court did not commit an error of law, or abuse of discretion, in denying Appellant leave to amend its complaint to add willful negligence. Appellants original complaint was an action in negligence. A new cause of action arises when a new theory or different kind of negligence than one originally raised is proposed. Junk v. East End Fire Dept., 262 Pa. Superior Ct. 473, 396 A.2d 1269 (1978). Appellants attempt to amend his action from negligence to willful negligence constitutes a new and different cause of action which was properly denied by the trial court. One of the primary reasons for disallowing amendments which create new causes of action, after the running of the statute of limitations, is to prevent prejudice to the adverse party. Id. at 491, 396 A.2d at 1278 citing Wilson v. Howard Johnson Restaurant, 421 Pa. at 461, 219 A.2d at 679. Appellants second argument must fall.
+Lastly, Appellant contends that the Supreme Courts reasoning in Auresto amounted to judicial legislation, vitiating the “real property” exception to the Sovereign Immunity Act, 42 Pa. C. S. §8522(b)(4) and the Governmental Immunity Act, 42 Pa. C. S. §8542(b)(3) and that the Recreation Act should not apply to government bodies. The Pennsylvania Supreme Court has determined that the term “owner of land” under the Recreation Act includes the Commonwealth and hence granted the Commonwealth immunity from tort actions on its lands used for recreational purposes without charge. Auresto; see also Kniaz v. Benton Borough, 112 Pa. Commonwealth Ct. 416, 535 A.2d 308 (1988) ; Farley v. Town ship of Upper Darby, 100 Pa. Commonwealth Ct. 535, 514 A.2d 1023 (1986), appeal denied, 517 Pa. 611, 536 A.2d 1334 (1987).
+Furthermore, the Supreme Court stated in Auresto, 511 Pa. at 78, 511 A.2d at 817:
+[W]hile the Commonwealth as an owner of land may not have been contemplated at the time the Recreation Act was passed, it is obvious that at the time the Sovereign Immunity Act was passed the Commonwealths exposure to suit was intended to be the same as a private citizen. Consequently, when the two Acts are read in pari materia the conclusion is inescapable that since a private citizen would have been protected from the present suit so must the Commonwealth.
+We conclude that the trial court committed no error of law in granting summary judgment to the Township. We therefore affirm the trial courts decision.
+Order
+And Now, this 1st day of July, 1988 the decision of the Montgomery County Court of Common Pleas granting summary judgment in favor of Cheltenham Township is hereby affirmed.
+Act of February 2, 1966, P.L. (1965) 1860, as amended, 68 P.S. §§477-1 — 477-8.
+The precise language used in the complaint, paragraph 13, was as follows:
+The death of plaintiffs decedent, Milton Jones, was caused directly by the negligence of the defendant, its officers, agents and employees in a) maintaining the premises of Richard Wall Park in an unsafe and dangerous condition; b) foiling to warn plaintiffs decedent, Milton Jones, and others of the dangerous conditions existing therein; c) permitting children to play in a stream clearly dangerous and unsafe for such purposes; d) foiling to use due care under the circumstances.
+The amended complaint which the trial court did not allow would amend paragraph 13 to add allegations of willful or malicious conduct by the Township.
+68 P.S.§477-1.
+The Township contends that Appellants failure to properly plead the tort of willful negligence by the Township should preclude Appellant from advancing arguments predicated upon averments alleging willful misconduct.
+The trial court permitted the Township to amend its answer to raise immunity under the Recreation Act. Appellants motion to amend his complaint occurred after the two-year statute of limitations applicable to Appellants claim.
+Auresto sustained injury when he drove his snowmobile on a frozen pond located on state grounds, and struck a snow covered tree stump. Auresto filed suit against the Commonwealth alleging that the Commonwealth had negligently maintained its pond. The Commonwealth filed preliminary objections by way of demurrer asserting immunity under the Recreation Act.
+Kniaz, while attending a volunteer fire company picnic in Benton Boroughs public park, was seated in a park pavilion on a bench attached to a picnic table. The bench suddenly overturned and Kniaz was thrown to the floor sustaining injuries. Kniaz filed a civil action for personal injuries against the Borough. The Court of Common Pleas granted summary judgment in favor of the Borough. This, Court affirmed but on different grounds and held that summary judgment was proper under the Recreation Act.
+Farley, a seven year old boy, was injured when he fell' from a sliding board at Naylors Run Park, a park owned and maintained by Upper Darby Township. Farley filed a trespass action against the Township in which the Common Pleas Court granted summary judgment under the Recreation Act. This Court affirmed.
