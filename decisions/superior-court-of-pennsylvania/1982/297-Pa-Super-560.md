@@ -1,0 +1,20 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1375"
+decided: "1982-01-05"
+citations: ["297 Pa. Super. 560", "441 A.2d 772"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before HESTER, CAVANAUGH and VAN der VOORT, JJ."]
+parties: ["Taylor, Appellant v. The Woods Schools."]
+source_url: "https://static.case.law/pa-super/297/cases/0560-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 184472
+---
+
+# Taylor v. Woods Schools
+
+## Majority
+
+Order affirmed.
