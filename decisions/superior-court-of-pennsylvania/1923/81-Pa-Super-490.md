@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 89"
+decided: "1923-07-12"
+citations: ["81 Pa. Super. 490"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, Henderson, Trexler, Keller, Linn and Gawthrop, JJ."]
+parties: ["Buxton, Appellant, v. Baltimore & Ohio Railroad Company."]
+source_url: "https://static.case.law/pa-super/81/cases/0490-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 655669
+cites_cases: ["131 Pa. 292", "176 Pa. 446", "179 Pa. 184", "220 Pa. 516", "234 Pa. 379", "245 Pa. 189", "52 Pa. Superior Ct. 568", "55 Pa. Superior Ct. 607"]
+---
+
+# Buxton v. Baltimore & Ohio Railroad
+
+## Majority (Gawthrop, J.,)
+
+Opinion by
+Gawthrop, J.,
+This is an appeal from an order of the Court of Common Pleas of Allegheny County refusing to allow an appeal from a judgment of the county court. The action was trespass to recover damages resulting from the collision of one of defendant’s trains with the plaintiff’s motor truck. After a verdict for the plaintiff, the county court entered judgment for the defendant non obstante veredicto.
+It appears by the testimony of the plaintiff that he had driven his truck, loaded with nails, into the freight yard of the defendant for the purpose of loading the nails in a box car standing on a siding. While driving along the cartway which was more than twenty-five feet wide and paved with block stone, with a side track to his right and to his left, the right front wheel of his truck slipped down on the track and right-of-way of the defendant. While he was trying to move the truck from the track, he noticed a box car coming around a sharp curve at a distance of about one hundred yards. He ran up the track in an effort to attract the attention of someone in charge of the train, which consisted of freight cars pushed by a locomotive. The train was running slowly. The plaintiff jumped on the step of the engine and grabbed the fireman by the leg and told him to stop the train because there was a truck on the track. Immediately the train started to slow down, but it struck the truck before it stopped.
+The single question presented is whether the defendant can be held liable for damages under these facts. The case is practically ruled by Taylor v. Phila. Rapid Transit Co., 55 Pa. Superior Ct. 607, affirmed by the Supreme Court: 245 Pa. 189. In the opinion of Judge Orlady, we find a situation portrayed which cannot be distinguished from the one presented by this record. An automobile stalled upon the private right-of-way and track of. the Philadelphia Rapid Transit Company, which occupied the center of a street, and the whole right-of-way was enclosed by a heavy curb for protecting the ballasted track. After the automobile stalled on the track, one of the passengers went back along the track of the defendant company to signal an approaching car, but failed to attract the attention of the motorman, and the car crashed into the automobile and wrecked it. It was held that the plaintiff, being on the tracks as a trespasser, by his own negligent act, it not being alleged that there was wanton or reckless operation of the car, nor any evidence of such conduct, could not recover when his negligence not only contributed to the result but was the sole cause of it. It is the settled law of this State that a railroad company has the right to the exclusive possession of its tracks, except at crossings; that the person .who enters upon the tracks at any other point than at such crossings is guilty of negligence per se and is a trespasser, and that the only duty imposed upon the company, except where the public have the right to cross, is to refrain from wantonly injuring the trespasser: Bailey v. Lehigh Valley R. R. Co., 220 Pa. 516; Gallagher v. B. & O. R. R. Co., 52 Pa. Superior Ct. 568. We are unable to see any facts in this case that would sustain a finding that the defendant’s employees, knowing that the plaintiff’s truck was on the track, wantonly and recklessly backed the train upon it. The fact that the train was backed without any person at the rear end to keep a lookout and to give warning of its approach was not negligence of which the plaintiff could complain: Gallagher v. B. & O. R. R. Co., supra. Under some circumstances as for example, at road crossings, this would be negligence: Fisher v. Monongahela Ry. C. Co., 131 Pa. 292; Cookson v. Pitts., etc., Ry. Co., 179 Pa. 184. The Pennsylvania cases cited by appellant are easily distinguishable from the case at bar. In Curtis v. De Coursey, 176 Pa. 446, the defendant was not a railroad company and the negligence complained of was the failure to keep a cartway in a reasonably safe condition for the passage of vehicles. The duty of the defendant was not different from that which a railroad company owes to passengers in the care of its platforms and stations. There was an implied undertaking by the defendant that the cartway should be reasonably safe. Boggess v. B. & O. R. R. Co., 234 Pa. 379, was a permissive crossing case. That the doctrine of such cases is not applicable under the facts of this case is well settled. None of the cases cited from other jurisdictions rule the question here involved.
+.The judgment is affirmed.
