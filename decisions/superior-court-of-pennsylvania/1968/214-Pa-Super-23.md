@@ -2,7 +2,7 @@
 court: "Superior Court of Pennsylvania"
 docket: "Appeal, No. 272"
 decided: "1968-12-12"
-citations: ["214 Pa. Super. 23", "213 Pa. Super. 788"]
+citations: ["214 Pa. Super. 23"]
 reporter: "pa-super"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Commonwealth v. Chapman, Appellant."]
 source_url: "https://static.case.law/pa-super/214/cases/0023-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 786841
-cites_cases: ["213 Pa. Superior Ct. 258", "214 Pa. Superior Ct. 23", "237 A. 2d 209", "246 A. 2d 371", "247 A. 2d 647", "378 U.S. 368", "381 U.S. 618", "384 U.S. 719", "386 U.S. 18", "388 U.S. 293", "391 U.S. 123", "392 U.S. 293", "428 Pa. 229", "431 Pa. 628"]
+cites_cases: ["213 Pa. Superior Ct. 258", "237 A. 2d 209", "246 A. 2d 371", "247 A. 2d 647", "378 U.S. 368", "381 U.S. 618", "384 U.S. 719", "386 U.S. 18", "388 U.S. 293", "391 U.S. 123", "392 U.S. 293", "428 Pa. 229", "431 Pa. 628"]
 ---
 
 # Commonwealth v. Chapman
