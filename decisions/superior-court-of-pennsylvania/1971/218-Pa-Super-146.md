@@ -1,0 +1,45 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 243"
+decided: "1971-03-23"
+citations: ["218 Pa. Super. 146"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. J., Watkins, Montgomery, Jacobs, Hoffman, Spaulding, and Cercone, JJ.", "Cercone, J., joins in this dissenting opinion."]
+parties: ["West Mifflin Borough, Appellant, v. O’Toole."]
+source_url: "https://static.case.law/pa-super/218/cases/0146-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 794951
+cites_cases: ["178 A. 683", "189 A. 2d 581", "192 Pa. Superior Ct. 461", "319 Pa. 17", "410 Pa. 341", "86 Pa. 80"]
+---
+
+# West Mifflin Borough v. O'Toole
+
+## Majority (Per Curiam,)
+
+Opinion
+Per Curiam,
+Order affirmed.
+
+## Dissent (Montgomery, J.:)
+
+Dissenting Opinion by
+Montgomery, J.:
+This case involves the vital question of when a municipality can be estopped from liening real property benefited by improvements made by it. I dissent from the action of the majority in affirming the lower court since, in my opinion, this is not a factual situation in which ah estoppel can be invoked.
+This is an action of Scire Facias sur Municipal Claim by the Borough of West Mifflin (Borough), the appellant, against Martin S. O’Toole and Norma J. O’Toole, his wife, owners or reputed owners, or whoever may be owners of Lot No. 76 in Livingston Manor Plan of Lots No. 12, which is located in West Mifflin Borough, Allegheny County. The claim is for the amount of $300, which was assessed against the O’Toole property for benefits derived from a sewage treatment plant built by the Borough. The assessment not having been paid, a lien therefor was filed against said property on January 23, ,1959, on which lien this proceeding is based. Hon. Joseph Weis, Judge (now Judge of the United States District Court for the Western District of Pennsylvania), who tried this case without a jury, concluded that the Borough was estopped from asserting its lien against the O’Tooles and entered judgment in their favor. Hence, the present appeal by the Borough.
+Most of the facts were stipulated. However, some testimony was taken in addition; but it adds little in the establishment of the facts. From the record thus made, the following facts would seem to be undisputed.
+On May 5, 1953, the Borough, by ordinance provided for the construction of a sewage treatment plant to service a district in which there were located twelve plans of lots laid out and developed by Baldwin Development, Inc. (Baldwin). The O’Toole property was in Plan No. 12.
+In order to obtain approval by the Borough of its Plan No. 12, on June 5, 1955, Baldwin agreed to pay all assessments for municipal improvements affecting said Plan made by the Borough; and its Plan No. 12 was approved on June 23, 1955, on this basis.
+Previously,, on April 23, 1955, the O’Tooles entered into a written agreement with Baldwin for the purchase of this property, title to which was to be free and clear of all liens and encumbrances, including pending municipal claims. The original agreement does not contain such a provision but the stipulation admits this to be true.
+On July 14, 1955, the transaction covered by this agreement was closed at the office of the Housing Mortgage Corporation, which had provided a loan to the O’Tooles to pay the purchase, price. However, in closing the transaction, Housing Mortgage Corporation did not provide for payment of the pending municipal assessment against the property being conveyed to the O’Tooles or. withhold from the money payable to Baldwin sufficient funds to pay same. Nor did Baldwin pay to the Borough the sum of |300, as it was required to do under the aforesaid agreement between them. Said agreement provided for assessments to be made, (A) By the Board of Viewers, or, (B) By an engineer’s assessment legally made by the Engineer of the Borough of West Mifflin, or, (C) Any other legal or lawful method of assessment, except sewer rental charges; and it contains no waiver of the right of lien for unpaid assessments.
+Housing Mortgage Corporation had made many loans on properties in the twelve plans laid out by Baldwin and had been instructed by the Borough’s Solicitor to withhold $400 to cover municipal claims when the mortgages were to veterans but not to do so in sales to nonveterans or sales under FJI.A. These arrangements had been carried out for sales in Plans 5 through 11; but it had not withheld any moneys for sales in Plan No. 12, although it knew that Plan No. 12 was covered by the aforesaid agreement between Baldwin and the Borough.
+The sole basis for the estoppel which the lower court imposed in this case is, as stated by it in the opinion of Judge Joseph Weis, Jr., “. . . that the Borough, by not directing Housing Mortgage Corporation to withhold the assessment at the time of closing of the transaction, and instead choosing to rely upon the financial stability of Baldwin, made it possible for the loss to occur. ... As between the plaintiff and defendants, ‘Where one of two innocent persons must suffer, the loss should be borne by him who put the wrongdoer in a position of trust and confidence and thus enabled him to perpetrate the wrong.’ Rykaczewski v. Kerry Homes, Inc., 192 Pa. Superior Ct. 461, 465.”
+It seems clear that the O’Tooles knew nothing of the arrangements between Baldwin and the Borough or of the instruction given to Housing Mortgage Corporation by the Borough Solicitor. It is equally clear that the Borough knew nothing of the terms of the transaction between Baldwin and the O’Tooles. Furthermore, there is nothing illegal, fraudulent or negligent in the action of the Borough in contracting with Baldwin to impose the additional personal responsibility oh it for payment of the assessments,, without waiving its right to. lien the several properties benefited by the improvement. On the other hand, the O’Tooles also relied on its- agreement with Baldwin to pay this assessment. Thus, each party had a separate promise from Baldwin to make the payment. The real cause of the situation giving rise to this action is that each party relied primarily on Baldwin’s promises to them respectively. However, it seems to me that the knowledge of Housing Mortgage Corporation, unconveyed to the O’Tooles, that the Borough expected payment from Baldwin, did not relieve the O’Tooles from seeing that Baldwin carried out its promise to them before paying to Baldwin the full purchase price. The lower court properly recognized this when it stated in its opinion, “It is common knowledge that assessments, judgments, or any other liens against properties are cleared at thé time of closing, particularly with a corporate mortgagee situation,' such as existed in this case.” Further, in my opinion, it was clear negligence on the part of Housing Mortgage Corporation not to see that the “pending assessment” and possible encumbrance was not satisfied or provided for before making payment in full to Baldwin. By making payment in full without taking that ordinary precaution, it placed its own mortgage in jeopardy. . The O’Tooles were negligent in not having representation to protect their interests rather than relying on Housing Mortgage Corporation, which was a third party and not their representative. In the light of such neglect, how can it be said that the Borough was more derelict in relying on its agreement with Baldwin than were the O’Tooles in relying on their agreement.
+It is only where one of two innocent persons suffering loss at the hands of a third party makes that loss possible by acts in the nature of fraud, deceit, or negligence that the law places on such person the burden of sustaining the loss. Lund v. Heinrich, 410 Pa. 341, 189 A. 2d 581 (1963).
+In some cases the act of the third person is referred to as tortious. Pennsylvania Railroad Company’s Appeal, 86 Pa. 80 (1878). In the present case it is merely a breach of contract by Baldwin. However, to justify invoking the rule, there must be some breach of duty, express or implied, owed by one of the two innocent parties to the other which proximately caused the loss. Egan v. United Gas Improvement Company, 319 Pa. 17, 178 A. 683 (1935).
+I find no such breach in this case. There is nothing present which indicates that the Borough breached any duty to the O’Tooles which could establish a basis for invoking the rule.
+Therefore, I respectfully dissent.
+Cercone, J., joins in this dissenting opinion.
+“Eleventh : That the said escrow payment, of $300.00 per dwelling unit will be made by the party of the first part as each dwelling unit is sold by the party of the first part, except as hereinafter provided.”
+See the Act of April 17, 1929, P. L. 527, §1, as amended, 53 P.S. §7251, which, “in addition to the remedies provided by law for the filing of liens for the collection of municipal claims . . provides for the collection of municipal claims by an action in assumpsit
