@@ -1,0 +1,52 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "878 C.D. 1989"
+decided: "1989-11-30"
+citations: ["130 Pa. Commw. 42", "566 A.2d 1264"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DOYLE and McGINLEY, JJ., and BARBIERI, Senior Judge."]
+parties: ["UGI CORPORATION, Petitioner, v. WORKMEN’S COMPENSATION APPEAL BOARD (WAGNER), Respondent."]
+source_url: "https://static.case.law/pa-commw/130/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1397445
+cites_cases: ["116 Pa.Commonwealth Ct. 172", "123 Pa.Commonwealth Ct. 541", "169 Pa.Super. 276", "305 A.2d 59", "32 Pa.Commonwealth Ct. 156", "32 Pa.Commonwealth Ct. 216", "377 A.2d 1300", "378 A.2d 1035", "426 A.2d 1282", "463 A.2d 1266", "517 Pa. 553", "76 Pa.Commonwealth Ct. 345", "82 A.2d 528", "9 Pa. Commonwealth Ct. 79"]
+---
+
+# UGI Corp. v. Workmen's Compensation Appeal Board
+
+## Majority (BARBIERI, Senior Judge.)
+
+BARBIERI, Senior Judge.
+Before this Court for review is an order of the Workmen’s Compensation Appeal Board (Board), affirming an award of a referee to David C. Wagner (Claimant) dismissing a petition of UGI Corporation (UGI), Employer, for termination of benefits being paid to Claimant for disability resulting from a service-connected injury on October 29, 1985. On Employer’s appeal, it also urges that the Board erred in failing to grant a rehearing requested in a letter to the referee after his decision had been rendered. We will affirm the Board.
+Employer’s principal contention is that a rehearing should have been granted by the Board, although no petition for rehearing had been filed with the referee or the Board. The only basis for Employer’s request for a rehearing is contained in its appeal of the referee’s action in dismissing its termination petition. This consists simply of a statement contained in the Employer’s appeal papers as follows:
+Furthermore, there has been after discovered evidence indicating that claimant’s difficulties are not the result of the purported back injury, but are rather due to multiple sclerosis, a disease which is unrelated to his employment. This came to the attention of the defendant only after the Referee’s Decision and Order was issued.
+A similar statement was contained in the appeal form filed by Employer “ALLEGING ERROR OF LAW.” N.T. 230a. Employer filed no petition, nor any medical document to support the bald and conclusory statements contained in its appeal forms. In fact, the above-quoted statement does not suggest in any way what may be the source for this statement on which the request for a rehearing is based. In fact, there is not even an averment of a designated medical basis for the request.
+The Board, in dismissing Employer’s appeal on the merits, also denied the defendant’s request to present additional evidence, stating:
+We deny the Defendant’s request to present after discovered evidence as the same may be presented in another Termination and/or Review Petition.
+While we do not pass upon the validity of the Board’s suggestion as to what petition forms the Employer may use to bring before the compensation authorities such after discovered evidence as may exist and be relevant, we certainly must agree that the lack of a petition is critical under the circumstances involved here; rather than the simple request to adduce certain evidence and without any support by affidavit or otherwise which would establish the relevance of the proposed evidence. We believe that Claimant was entitled to have properly supported averments and an opportunity to reply thereto.
+In any event, there can be no question that the Board had discretion under the circumstances in this case to refuse the unsupported request for a rehearing. Such refusal would not be an abuse of discretion by the Board. Monaci v. Workmen’s Compensation Appeal Board (Ward Trucking), 116 Pa.Commonwealth Ct. 172, 541 A.2d 60 (1988). In Monad, a termination petition was involved concerning a work injury on April 25, 1978, seeking termination as of October 31, 1981. The referee granted the termination and the Board affirmed. The Board refused a rehearing on the basis of a CAT scan conducted on claimant on July 14, 1984. Sustaining the Board’s denial of a rehearing, this Court stated:
+The grant or denial of a rehearing is left to the discretion of the board and this court will not disturb that decision absent a clear abuse of discretion. Douglas v. Workmen’s Compensation Appeal Board, 32 Pa.Commonwealth Ct. 156, 377 A.2d 1300 (1977).
+Our Supreme Court recently reaffirmed the broad discretion afforded to the board’s decision regarding the grant or denial of a rehearing. Cudo v. Hallstead Foundry Inc., 517 Pa. 553, 539 A.2d 792 (1988). In Cudo, the court stated that in considering whether or not to grant a rehearing, based on after-discovered evidence, the board is not bound to the ‘standards that are employed by the courts in determining whether to grant a new trial on the basis of after discovered evidence.’ Id. 517 Pa. at 557, 539 A.2d at 794. The court stated that it is within the board’s broad powers to grant a rehearing ‘when justice requires.’ Id. 517 Pa. at [557], 539 A.2d at 794.
+116 Pa.Commonwealth Ct. at 176-77, 541 A.2d at 63.
+Again, the lack of specificity in the instant case as to the alleged evidence sought to be adduced fully justifies the action of the Board. For example, if the alleged “after discovered evidence” should portray a condition that occurred after the referee’s decision, this Would hardly be of relevance concerning what should be ordered as of August 5, 1986, the date of the termination petition. Under such circumstances, where the averments are not supported or verified in any way by a petition or otherwise, there was simply not sufficient evidence before the Board to conclude otherwise than it did and, therefore, the Board’s decision, with the burden of proof on the Employer, is certainly not an abuse of discretion.
+Employer relies heavily upon the cases of Cudo v. Hallstead Foundry, Inc., 517 Pa. 553, 539 A.2d 792 (1988); Patterson v. Workmen’s Compensation Appeal Board (Manpower/Transpersonnel, Inc.), 123 Pa.Commonwealth Ct. 541, 554 A.2d 614 (1989); and Jones v. Workmen’s Compensation Appeal Board (First Pennsylvania Bank), 76 Pa.Commonwealth Ct. 345, 463 A.2d 1266 (1983).
+Examination of these cases indicates reliance thereon by Employer is misplaced. In Patterson, there was a complete and documented rehearing petition filed after the Board’s decision, clearly presenting under affidavit the results of a form of a scientifically reliable test, which, if accepted by the referee, would require reversal of his order granting the termination petition. Likewise, in Jones, although no formal petition was filed, the request for rehearing was supported by medical records. We there stated:
+[W]e believe that his request for a remand, supported by accompanying hospital records, constituted the equivalent of such a petition.
+76 Pa.Commonwealth Ct. at 347, 463 A.2d, at 1267. In ordering the requested rehearing, this Court’s basic reasoning is expressed in Jones as follows:
+Mindful that in termination petition cases, an employer must prove conclusively the termination of a claimant’s disability, Certainteed Corp. v. Workmen’s Compensation Appeal Board, 57 Pa.Commonwealth 646, 648, 426 A.2d 1282, 1282 (1981), we conclude that the board abused its discretion by ignoring Mrs. Jones’ request.
+76 Pa.Commonwealth Ct. at 347-48, 463 A.2d at 1268.
+It will be noted that in all of the cases where rehearings have been ordered by the Court contrary to the Board’s decision, there has been in each such case a failure to exercise liberality in favor of the interest of the claimant. As our Supreme Court stated in Cudo:
+The only statutory restriction upon the Board is that its discretion may be exercised ‘upon cause shown.’ 77 P.S. § 871. The appellate courts of this Commonwealth have ruled that the authority of the Board to grant a rehearing is to be liberally administered in the interest of the claimant. Conti v. Butler Consolidated Coal Co., 169 Pa.Super. 276, 82 A.2d 528 (1951).
+517 Pa. at 557 n. 2, 539 A.2d at 794 n. 2.
+Accordingly, we conclude that there was no abuse of the Board’s discretion in denying the rehearing in this case, since there was no legally cognizable cause shown by petition or otherwise on which the Board could have based an order granting the Employer’s request.
+With regards to the Employer’s appeal on the merits, challenging the referee’s findings and decision in denying Employer’s request for termination, our examination of the briefs and record convinces us that this portion of the Employer’s appeal is also without merit.
+Principally, Employer’s appeal is based upon an attack by it on the qualifications of Dr. Daniel Bontempo, a Doctor of Chiropractic Medicine, whose testimony was accepted over that of Employer’s medical witnesses. Our courts have long accepted, as competent, opinion testimony of Doctors of Chiropractic Medicine in the areas in which they are specialists, which certainly includes the back injury, or “bulging disc” in this case. See McKinney Mfg. Corp. v. Workmen’s Compensation Appeal Board (Straub), 9 Pa. Commonwealth Ct. 79, 305 A.2d 59 (1973). See also Butler v. Pacific Intermountain Express, 32 Pa.Commonwealth Ct. 216, 378 A.2d 1035 (1977).
+For the reasons stated, we conclude that there was no error in the Board’s refusal of a rehearing, nor the Board’s affirming of the referee’s dismissal of Employer’s termination petition. We will affirm.
+ORDER
+NOW, November 30, 1989, the order of the Workmen’s Compensation Appeal Board, dated April 5, 1989, as of No. A-96987, is hereby affirmed.
+. The referee’s Findings include the following:
+4. The Referee is not persuaded by the testimonies of Drs. Lynch and Tilly concerning their opinion that the Claimant is capable of returning to his employment as a petroleum and natural gas engineer trainee for the Defendant.
+5. The referee is persuaded by the testimony of Dr. Bontempo concerning his opinion that the Claimant suffers from a bulging disc as a result of the work related injury of October 29, 1985 and is presently not capable of performihg the duties required of a petroleum and natural gas engineer trainee for the Defendant.
+Findings of Fact Nos. 4-5.
