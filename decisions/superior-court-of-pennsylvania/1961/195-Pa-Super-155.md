@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 373"
+decided: "1961-05-10"
+citations: ["195 Pa. Super. 155"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, Wright, Woodside, Watkins, Montgomery, and Flood, JJ. (Rhodes, P. J., absent)."]
+parties: ["Shuman, Appellant, v. Shuman."]
+source_url: "https://static.case.law/pa-super/195/cases/0155-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 753556
+cites_cases: ["107 A. 2d 209", "124 Pa. Superior Ct. 544", "129 Pa. Superior Ct. 224", "142 A. 2d 169", "162 A. 2d 38", "170 A. 2d 597", "175 Pa. Superior Ct. 650", "186 Pa. Superior Ct. 472", "189 A. 529", "192 Pa. Superior Ct. 490", "195 A. 439", "195 Pa. Superior Ct. 145"]
+---
+
+# Shuman v. Shuman
+
+## Majority (Wright, J.,)
+
+Opinion by
+Wright, J.,
+We are here concerned with another phase of the same divorce proceeding as that involved in Shuman v. Shuman, 195 Pa. Superior Ct. 145, 170 A. 2d 597. The pertinent portions of our opinion in the companion case are incorporated herein by reference. The lower court directed that the plaintiff-husband pay a counsel fee for the wife’s attorney in total amount of $5,000.00. The plaintiff was credited with the sum of $600.00, representing payments already made, so that the order from which the instant appeal is taken called for payment of an additional counsel fee of $4,400.00.
+The Divorce Law expressly authorizes the award of counsel fees to the wife in a divorce proceeding. Section 46 of the statute (23 P.S. 46) provides as follows : “In case of divorce from the bonds of matrimony or bed and board, the court may, upon petition, in proper cases, allow a wife reasonable alimony pendente lite and reasonable counsel fees and expenses”. No standard is fixed for determination of the amount of counsel fee other than the requirement that it must be reasonable. Consideration must be given to the husband’s ability to pay, to the wife’s necessity, and to the extent of her separate estate. See Freedman, Law of Marriage and Divorce, Second Edition, Section 465.
+“How much shall be allowed as alimony and for counsel fees and expenses is a matter of judicial discretion and the validity of the order depends upon the proper exercise of that discretion . . . This court will not reverse an order of the court below ‘except for plain abuse of discretion’ . . . There are no fixed rules as to the amount to be allowed. It is not to be measured solely by the value of counsel’s services or by the wife’s necessities. ‘The husband’s ability to pay, the separate estate of the wife, the character, situation and surroundings of the parties are all to be considered in determining a fair and just amount which the husband should pay’ ... To deny a destitute wife the means to pay for process and professional aid is to deny her justice . . . and likewise to deny an innocent and injured husband a divorce unless he pay counsel fees beyond his ability to pay is to close the doors of the courts to many worthy suitors. The statute contemplates the payment of a reasonable counsel fee, limited by the necessities appearing from the evidence, such as will as nearly as possible promote the administration of fair and impartial justice by placing the parties on a par in defending their rights”: Brong v. Brong, 129 Pa. Superior Ct. 224, 195 A. 439. See also Albrecht v. Albrecht, 175 Pa. Superior Ct. 650, 107 A. 2d 209.
+In Campana v. Campana, 186 Pa. Superior Ct. 472, 142 A. 2d 169, Judge Hirt said: “Lawyers in general have accommodated themselves as to their fees in divorce cases to the financial ability of the party obliged to pay even to the point of being illy paid for the services rendered. This was recognized in Bowen v. Bowen, 124 Pa. Superior Ct. 544, 189 A. 529, where we said: ‘Counsel fees in divorce actions should bear some fair relation to the libellant’s estate and station in life; and special care should be taken that the allowance is not such as to encourage unnecessary prolongation of the hearings. The specific cases relied on by the appellant were concerned with libellants possessed of great means or in receipt of large incomes. They cannot be applied to one of the limited means and resources of this libellant. It is well recognized that in divorce cases brought by persons of small means large counsel fees cannot be paid, and attorneys who press or defend such actions understand this and made due alloAvance therefor. The necessities of the case require it and the profession generally recognizes it”.
+We must bear in mind that the aAvard of counsel fees in a divorce case is not intended to be in full reimbursement for expenditures which the wife may be required to make in the employment of counsel. It should merely be sufficient in amount to prevent that denial of justice which is the main concern of the courts. As recognized by the hearing judge, this wife has a potential equity of at least $8,000.00 in the two properties owned jointly by the parties. The record discloses that she made transfers, without consideration, to two of her children of savings and securities worth $2,900.00. Furthermore, the wife is a registered nurse and does not lack earning capacity. It is proper that she should be required to share payment of the fee of her own attorney. See Carle v. Carle, 192 Pa. Superior Ct. 490, 162 A. 2d 38.
+In brief, while we agree that counsel for the wife is an able and experienced member of the bar, and have no reason to doubt his estimate of the amount of time spent in professional services in the instant case, we are unanimously of the opinion that the award of counsel fee, as fixed by the court below, is excessive and must be substantially reduced. It is our view that the total award should be $2,000.00, of which, as herein-before noted, the sum of $600.00 has already been paid.
+Order reversed, and the record is remanded to the court below for the entry of an order in the amount of $1,400.00.
+Act of May 2, 1929, P. L. 1237, 23 P.S. 1 et seq.
