@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 132"
+decided: "1952-01-17"
+citations: ["170 Pa. Super. 526"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, Ross, Arnold and Gunther, JJ."]
+parties: ["Vogt, Appellant, v. Port Vue Borough."]
+source_url: "https://static.case.law/pa-super/170/cases/0526-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 474603
+cites_cases: ["1 A. 2d 775", "137 N. J. L. 740", "148 A. 308", "154 A. 799", "169 Pa. Superior Ct. 363", "178 A. 3", "298 Pa. 276", "303 Pa. 469", "318 Pa. 346", "332 Pa. 15", "349 Pa. 450", "358 Pa. 98", "37 A. 2d 714", "56 A. 2d 210", "61 A. 2d 245", "82 A. 2d 578"]
+---
+
+# Vogt v. Port Vue Borough
+
+## Majority (Gunther, J.,)
+
+Opinion by
+Gunther, J.,
+William O. Vogt and Charles A. Minnick, appellants, filed this hill in equity seeking to enjoin the Borough of Port Vue and Adolph Jacobyansky, individually and as burgess, appellees, from preventing appellants’ construction of a gasoline service station. Preliminary objections were filed by Jacobyansky averring, inter alia, that appellants had an adequate remedy at law by appeal pursuant to the provisions of the zoning ordinance. The court below concluded that the proper and exclusive remedy was by an appeal under the provisions of the zoning ordinance and The Borough Code of 1947, sustained the preliminary objections and dismissed the bill. This appeal followed;
+A summary of the facts as recited in the bill establishes that appellants were owners of a tract of land located in the Borough of Port Vue, Allegheny County, which tract was zoned commercial. On November 26, 1949, appellants filed an application for a building permit to erect a gasoline service station on this tract of land. The same day a building permit was issued by the Burgess and countersigned by the Borough Engineer. Upon securing this permit, appellants, on November 26, 1949, entered into contracts with build: ihg contractors for excavation work to.begin. On November 28, 1949, two days after the issuance. of the permit, appellants received a notice from Jacobyansky, Borough Manager, revoking the building permit on the ground that the permit was illegally issued; that the contemplated construction of a gasoline service station in a commercial zone was illegal until and unless Borough Council made a change in the zoning ordinance. This notice read in part: “Your contemplated construction is illegal unless Council makes a change in the Zoning Ordinance. Council is to meet Dec. 1, 1949 and you may appear at that time to make an appeal. You are hereby advised not to start construction until such a change is made. A. Jacobyansky, Jr., Borough Manager”. It is important to observe that when this notice was served on appellants no construction had yet been commenced and no appeal was taken to the Borough Council or to the Zoning Board of Adjustment; this bill was filed on November 3, 1950, almost one year later.
+Appellants contend that the Borough Manager, Jacobyansky, had no power to revoke this permit; that since appellants had entered into contracts for excavation in good faith and in reliance upon the permit issued, vested rights accrued to appellants which could not be infringed by the attempted revocation of the building permit. Finally, that in the circumstances alleged in the bill, equity by way of injunction was the proper procedure and not as the court below concluded by appeal to the zoning Board of Adjustment and then to the court of common pleas.
+A municipal permit issued illegally or in violation of the law, or under a mistake of fact, confers no vested right or privilege on the person to whom the permit has been issued and may be revoked' notwithstanding that he may have acted upon the permit; any expenditures made in reliance upon such permit are madé at his peril. Cf. Valicenti’s Appeal, 298 Pa. 276, 148 A. 308; Ventresca v. Exley, 358 Pa. 98, 56 A. 2d 210; Giordano v. DuMont, 137 N. J. L. 740, 61 A. 2d 245. See annotation 6 A. L. E. 2d 960-982.
+There is no merit to the contention that the Borough Manager had no power to issue an order revoking the building permit. In his action, the Borough Manager acted according to the spirit of §7(8) of Ordinance No. 42 of March 5, 1946, of the Borough of Port Vue. That ordinance created the office of a Borough Manager and defined his powers and duties among which §7(8) provides that: “The Borough Manager shall cooperate with the Borough Council at all times and in all matters that the best interests of the Borough and the General Public may be maintained”.
+There is no merit to appellants’ contention that the proper procedure was by bill in equity for an injunction. In the instant case the zoning ordinance and the Borough Code under which the original building permit was issued and subsequently revoked set forth the method of appeal to the Zoning Board of Adjustment and then to the court of common pleas. Young v. Board of Adjustment of Wilkinsburg Borough, 349 Pa. 450, 37 A. 2d 714; Colteryahn Sanitary Dairy v. Milk Control Commission, 332 Pa. 15, 1 A. 2d 775; White v. Old York Road Country Club, 318 Pa. 346, 178 A. 3; Taylor v. Moore, 303 Pa. 469, 154 A. 799. Where, as here, the law provides a statutory remedy or method of procedure, the directions of such statute or act must be strictly followed and under the Act of March 21, 1806, 4 Sm. L. 326, such remedy or procedure is exclusive. As was recently said in Commonwealth v. DeBaldo, 169 Pa. Superior Ct. 363, 368, 82 A. 2d 578; “ ‘All questions involved in zoning ordinances, whether they relate to confiscation of property or to the effect of any of the provisions of an ordinance, must be heard and considered under the remedy provided by the Zoning Acts of assembly’: Taylor v. Moore, 303 Pa. 469, 476, 154 A. 799”.
+Appellees, in tlieir brief, state that they “have no .. . objection to this court hearing this appeal. . . .”; any jurisdictional objections have, therefore, been waived by appellees. See Act of May 5, 1899, P. L. 248, §11, 17 PS §203.
+Judgment affirmed.
+Section 93 Gf -Act of July'10, 1947, P; U.-1021,-53 PS §15211.7 and 15211.8.
+At the time Jacobyansky issued the revocation notice, he wag Borough Manager. He subsequently - became Burgess on December 21, 1949.
