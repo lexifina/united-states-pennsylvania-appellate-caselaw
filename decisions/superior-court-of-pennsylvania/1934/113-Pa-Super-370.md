@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 83"
+decided: "1934-07-13"
+citations: ["113 Pa. Super. 370"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trext.ee, P. J., Keet.er, Cunningham, Bakdrige, Stadteeld, Parker and James, JJ."]
+parties: ["Commonwealth of Pennsylvania v. Lanzetti, Appellant."]
+source_url: "https://static.case.law/pa-super/113/cases/0370-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 974373
+cites_cases: ["98 Pa. Superior Ct. 432"]
+---
+
+# Commonwealth v. Lanzetti
+
+## Majority (Cunningham, J.,)
+
+Opinion by
+Cunningham, J.,
+Lucien Lanzetti, the appellant, was indicted, convicted and sentenced, along with William Lanzetti, Anna Pugliano alias Diamond, Charles Blundy alias Pugliano, Charles Mulisano alias DiBoceo, Silvio Michaelangelo, and Julian Matero, for setting up and conducting a lottery, commonly known as a “number game,” (Com. v. Banks, 98 Pa. Superior Ct. 432) in the City of Philadelphia.
+His single assignment of error is based upon the refusal of the trial judge to affirm a point submitted in his behalf and reading: “Under the evidence the defendant Lucien Lanzetti should be acquitted.” The disposition of this assignment requires some reference to the evidence.
+In the early part of 1933, the Police Department of Philadelphia, having reason to believe that the premises at No. 1403 South Broad Street were the headquarters of a group of persons engaged in managing a lottery, placed the house under surveillance for several weeks and ascertained that the above named defendants (with the exception of appellant) entered the building each afternoon at about the same hour. On the afternoon^ of June 16th of that year, shortly after William Lanzetti, DiRocco and appellant had gone in, a number of police officers, under command of the inspector of the district, raided the premises and arrested them in a parlor on the first floor. The other defendants were arrested as each entered the building at short intervals.
+The evidence fully sustained the following description by the learned trial judge, Finletter, P. J., in his charge, of the nature of the business conducted upon the premises: “It seems to be perfectly evident from all the evidence in this case that the police have rounded up a headquarters of this business. The house was littered with proof that the lottery business was going on within it. The persons who frequented it and who entered while the officers were lying in wait, after having first gotten in, came there with their lottery tickets, with the bets they had taken by scores, each one of them. In the box that was before you and which was found in the second story, were hundreds of other tickets, some labeled with that very day’s takings that the police were there, the 16th day of June. Under the carpets were other stray pieces of lottery accounting and tickets. Business seemed to have been extensive, because they did not trust themselves to the ordinary addition that could be made by hand and pencil, but they had as many as three adding machines, whoever it was that was carrying on this business in the house, and they were found up on the second story of the house, and the strong box was filled with tickets. So, I say, it is rather evident that somebody was carrying on this lottery business.”
+As to the charges made in the several counts in the indictment, the trial judge properly said: “I may say in general that any participation by any one of them in the carrying on of the lottery business is involved in that charge, that is to say, any activity, from the highest to the lowest, from the miserable little pick-up man who goes around the back alleys and picks up the bets there, to the writer and to the banker and finally to the man who takes all the money and makes all the profits, all of these things are charged in this bill of indictment, and anybody who takes any part in furthering that illegal and nefarious business would be properly charged in the form this indictment takes.”
+When the officers entered the house, appellant, his brother William and DiRocco were all in the room described as the “first floor parlor.” With respect to the presence of incriminating evidence in that room, the captain of the district testified: “Q. Is there anything further you did at that' house on that day in connection with these defendants? A. I went back on that particular afternoon and in the parlor everywhere you looked you found slips, under the rug and the furniture, and in the kitchen I found something. Q. What did you find? A. I found different little things underneath the rugs and under the furniture and I brought them in as evidence on the first floor parlor. Q. That is where you found the first three, the Lanzettis and DiRocco? A. Yes. These were under the rug and couch and different' places in there. Q. 1 Bearing numbers? A. Yes.” Upon cross-examination, the witness stated that.he had seen William Lanzetti enter the premises frequently but had not seen appellant going in except upon the day of the raid.
+None of the defendants took the stand, but it is earnestly contended on behalf of appellant that the trial judge should have directed an acquittal as to him because the evidence against him was insufficient to sustain a conviction.
+He invokes the general principle that when a bystander, whose presence is prima facie accidental, merely witnesses a crime, without in any way encouraging, aiding or abetting its commission, he may not be convicted of participation therein, unless it was his duty to interfere.
+The difficulty with appellant’s proposition is that the facts disclosed by the evidence prevent the application of the rule to his case. His presence was not accidental but intentional; there was abundant evidence in the room in which he was arrested that it had been, and was then being, used for a criminal purpose; he offered no explanation of his presence in that place at the high tide of business for that day.
+We adopt this excerpt from the opinion of the court below supporting its refusal of a new trial. “Moreover the place was not a public place where 'the defendant might lawfully be. It was in a house the whole of which was devoted to the lottery business and occupied solely by persons engaged in that business. Every occupant and visitor [admitted] to it, during the whole afternoon, was convicted by the jury of participation, at that house, in the lottery. No other business was carried on there which might account for defendant’s presence. If he did not go there because he was interested in the lottery what was his purpose, and what the reason for his presence?”
+In our opinion, the trial judge was fully justified in declining appellant’s point and submitting the evidence against him to the jury.
+Judgment affirmed.
