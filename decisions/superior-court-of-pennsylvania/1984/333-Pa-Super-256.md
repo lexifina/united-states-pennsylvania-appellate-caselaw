@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1523"
+decided: "1984-09-21"
+citations: ["333 Pa. Super. 256", "482 A.2d 271"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WICKERSHAM, MONTEMURO and WATKINS, JJ.", "MONTEMURO, J., concurs in the result."]
+parties: ["COMMONWEALTH of Pennsylvania v. Ronald Gilbert PARNELL, Nathan July Ragin and Gregory Barry Waldon, Appellants."]
+source_url: "https://static.case.law/pa-super/333/cases/0256-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 616507
+cites_cases: ["231 Pa.Superior Ct. 471", "258 Pa.Superior Ct. 251", "259 Pa.Superior Ct. 129", "331 A.2d 883", "469 Pa. 8", "502 Pa. 393"]
+---
+
+# Commonwealth v. Parnell
+
+## Majority (WATKINS, Judge:)
+
+WATKINS, Judge:
+On September 24, 1976, appellants were sentenced to probation and fined following their convictions for attempted theft and criminal conspiracy. In their post-trial motions, they assigned more than thirty points of error. These motions were denied by the lower court and an appeal followed. Several issues were presented on appeal, but this Court addressed itself only to the initial issue of whether the Commonwealth exhibited the due diligence required to warrant several extension of time for trial pursuant to Pa.R.Cr.P. 1100. We found that the appellants were not afforded a full and complete hearing on the Rule 1100 issue and remanded the case, for such a hearing. Commonwealth v. Waldon, 259 Pa.Superior Ct. 129, 393 A.2d 751 (1978).
+On May 27, 1980 following the hearing directed by our order, the court below found that the Commonwealth complied with Rule 1100 and exercised due diligence and the judgment of sentence was reaffirmed.
+An appeal was again taken and this Court affirmed on the opinion of the lower court. Commonwealth v. Waldon, (1982). Appellants then petitioned for reargument en banc on the basis of our Court’s failure to address the numerous issues presented in addition to those concerning Rule 1100 when we affirmed on the lower court’s opinion. The lower court opinion dealt only with the results of the hearing with respect to the Rule 1100 issue. Reconsideration was granted and we now address the additional issues presented.
+At the outset we reaffirm our position that the lower court correctly decided that the Commonwealth exercised due diligence in petitioning for an extension of time within which to commence trial under Rule 1100. The trial court cited Commonwealth v. Shelton, 469 Pa. 8, 364 A.2d 694 (1976) in support of the grant of the extension due to judicial backlog. That case is certainly still valid. Even more recently, the Supreme Court has reaffirmed the proposition that where a backlogged docket prevents a case from going to trial within 180 days an extension of several weeks is appropriate. See Commonwealth v. Crowley, 502 Pa. 393, 466 A.2d 1009 (1983). The facts involved here are similar and we are not persuaded that the lower court erred in its evaluation of the evidence presented at the hearing on the Rule 1100 extension.
+Similarly, we find appellants’ claim of prosecutorial misconduct in conjunction with the application for extension without merit. Appellants cite Commonwealth v. Long, 258 Pa.Superior Ct. 251, 392 A.2d 779 (1978) in support of their contention that the petition for extension should have been dismissed because of prosecutorial misconduct. Because the Long case involved a grant of an extension without a hearing, it is not applicable to the facts involved here. Appellants in the instant case had a hearing after remand and ample opportunity during that hearing to expose so-called prosecutorial misconduct. The lower court was not persuaded that anything of the sort occurred and after reviewing the record we agree.
+Appellants also contend that a mistrial was warranted by the admission of testimony that one of the defendants was a former police officer on a psychiatric leave. During the trial defense counsel asked one of the arresting officers whether he had any further information about defendant’s having a gun. The witness responded that he had learned defendant was a former police officer currently on psychiatric leave at the time of the incident. This answer was responsive because it revealed the information the arresting officer had at his disposal concerning the reasons why defendant might have a gun and where it had come from and the validity or legitimacy of his carrying it in view of the fact that he was on leave. The court’s decision regarding the declaration of a mistrial is discretionary and will not be reversed absent flagrant abuse. Commonwealth v. Marker, 231 Pa.Superior Ct. 471, 331 A.2d 883 (1974). In order to be prejudicial the remark must have deprived the defendant of a fair and impartial trial. Marker, supra. We agree with the lower court’s opinion that the remark did not reflect upon defendant’s guilt or innocence of the crimes charged and did not deprive him of a fair trial.
+We have carefully reviewed the record including testimony, the lower court’s opinion and the appellants’ briefs in this case and we find that appellants additional numerous arguments alleging abuse of discretion by the lower court are totally without merit. There are simply no indications on the record that these appellants were denied a fair and impartial trial by any of the court’s rulings on permissible inquiries by counsel or admissibility of certain evidence or by the court’s charge. In spite of our initial failure to consider several of the issues presented we do not feel compelled to elaborate with respect to every point of error alleged. The record convinces us that the appellants’ claims are ludicrous at best. The record further indicates that every effort was made to preserve the integrity of the judicial system in the best interests of these appellants.
+Judgment of sentence affirmed.
+MONTEMURO, J., concurs in the result.
