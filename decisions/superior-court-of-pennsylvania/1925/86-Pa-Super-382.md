@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 40"
+decided: "1925-12-14"
+citations: ["86 Pa. Super. 382"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, Henderson, Trexler, Keller, Linn and Gawthrop, J’J.", "Before Langham, P. J."]
+parties: ["Commonwealth v. Mazarella, Appellant."]
+source_url: "https://static.case.law/pa-super/86/cases/0382-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 569806
+cites_cases: ["169 Pa. 1", "193 Pa. 567", "197 Pa. St. 542", "229 Pa. 558", "245 Pa. 462", "255 Pa. 156", "26 Pa. Superior Ct. 615", "270 Pa. 77", "280 Pa. 36", "82 Pa. Superior Ct. 149", "84 Pa. 369"]
+---
+
+# Commonwealth v. Mazarella
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+The defendant was convicted of possessing and transporting intoxicating liquor. The assignments relate to the validity of the indictment; to the refusal of the court to admit evidence of a remark made by a by-stander when the sheriff was taking the defendant to jail; to the refusal of the court to withdraw a juror because of a remark made by the district attorney in his address to the jury; to the refusal of the court to direct ¡a verdict for the defendant because it was not proved that the thing seized was intoxicating liquor, or that it was intended to be used for beverage purposes. The objection made to the indictment is that it was not supported by a complaint. It appears from the record that the sheriff preferred a charge under oath before a magistrate against the defendant who was arrested and appeared at the time fixed for a hearing, but the prosecutor for some reason was not present at that time, whereupon defendant was discharged. The next day a second warrant was issued on the same complaint, on which the defendant was again arrested and on hearing was held to bail for his appearance at court. It is now contended thát on this state of facts the indictment should have been quashed for the reason that it lacked the support of a complaint before a magistrate. No authorities have been cited in support of the position taken and no sufficient reason suggested why the complaint lodged with the magistrate might not be the basis for the second warrant. There was no hearing on the first warrant, no evidence was offered and there is no pretense that a trial was had. Moreover, the defendant instead of questioning his arrest entered into his recognizance to appear in the Court of Quarter Sessions to answer the charge preferred. It is now too late to question the validity of the indictment: Commonwealth v. Brennan, 193 Pa. 567; Commonwealth v. Dingman, 26 Pa. Superior Ct. 615. The court very properly, therefore, overruled the motion to quash.
+The second assignment relates to a matter immaterial in the case and, therefore, the offer of evidence was correctly refused.
+The principal part of appellant’s argument is directed to the objectionable remark attributed to the district attorney, the language used being “as yet no American has ever gone upon the witness stand and defended himself on a charge of this kind this week. ’ ’ The significance of this excerpt could only be understood by reference to its context and that nowhere appears on the record. The language quoted is not on its face obviously prejudicial to the defendant and without more information than the assignment discloses we cannot say that the court was in error in refusing to withdraw a juror. The remark may have been made in reply to something said by counsel for the Commonwealth in his address to the jury and may not have been inappropriate, but if, as claimed, the remark was improper the court directed the jury to disregard any statement of that kind in their deliberations. Generally the withdrawal of a juror is a matter of discretion on the part of the trial judge and there is nothing in the remarks excepted to which should induce us to hold that the court was guilty of ■an abuse of discretion in refusing defendant’s motion to withdraw.
+It is not necessary that the complaint charge that the liquor was to be used for beverage purposes. The 13th section of the Act of March 27,1923, provides that when proof has been offered of the transportation or possession of intoxicating liquor that fact shall be prima facie evidence that it was manufactured, transported, possessed or exported for beverage purposes and the burden is on the defendant to assert and prove the contrary: Commonwealth v. Amato, 82 Pa. Superior Ct. 149.
+There was sufficient proof that the liquid found in the possession of the defendant was intoxicating liquor. It was described by two witnesses as whiskey and a part of it was exhibited to the jury for their examination. Their conclusion is supported, therefore, by sufficient evidence; whiskey is a well known intoxicant. The statement of the defendant to the sheriff appearing in the charge of the court, “Sheriff, you have got me now. I am ruined if you take my car. I will do anything if you let me loose” is in a measure corroborative of the evidence as to the character of the contents of the packages taken from the defendant. The objections to the conviction are not sufficient to warrant a reversal.
+The judgment is affirmed and the record remitted to the court below and it is ordered that the defendant appear in that court at such time as he may be there called and that he be by that court committed until he has complied with the sentence or any part of it which had not been performed at the time the appeal in this case was made a supersedeas.
