@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 12, 13 and 14"
+decided: "1914-07-15"
+citations: ["57 Pa. Super. 469"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Orlady, Head, Porter, Henderson, Kephart and Trexler, JJ."]
+parties: ["Lightner’s Appeal."]
+source_url: "https://static.case.law/pa-super/57/cases/0469-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 444681
+cites_cases: ["106 Pa. 635", "168 Pa. 422", "204 Pa. 479", "28 Pa. 23", "74 Pa. 69", "93 Pa. 165"]
+---
+
+# Lightner's Appeal
+
+## Majority (Orlady, J.,)
+
+Opinion by
+Orlady, J.,
+On February 23, 1910, Catherine E. Lightner executed a will by which she devised to Mabel G. Dewalt $800, to Helen E. Dewalt $800, and to Annie Cottingham $100, and provided, “All the rest and residue of my estate I give and bequeath unto the Home of the Friendless, in the city of Harrisburg. . . . Should said foregoing residuary bequest to said Home for the Friendless for any reason lapse or become void, then I give said residuary estate to said Mabel G. Dewalt, Helen E. Dewalt and Annie Cottingham, to be equally divided between them or the survivor or survivors of them share and share alike.”
+By a codicil, dated July 23, 1910, she provided, “First, I revoke the bequest of $800 to Mabel G. Dewalt in the second item' of my will, and bequeath to her in lieu thereof the sum of $350; I also revoke the bequest of $800 in the same second item of my will to Helen E. Dewalt, and now bequeath to said Helen E. Dewalt in lieu thereof the sum of $350,” and concluded her codicil with, “In all other respects I hereby ratify and affirm my said foregoing last will and testament.” She died August 3, 1910, and on the settlement of her estate, the executor submitted his account, showing a balance for distribution after payment of preferred claims and uncontested legacies, of the sum of $1,039.74.
+It is conceded that the Home for the Friendless is a charitable institution, and that the gift of the residuum to it is a charitable bequest within the meaning of sec. 11, of the Act of April 26, 1855, P. L. 328, which provides as follows: “That no estate, real or personal,' shall hereafter be bequeathed, devised, or conveyed to any body politic, or to any person in trust for religious or charitable uses, except the same be done by deed or will, attested by two credible, and at the same time, disinterested witnesses, at least one calendar month before the decease of the testator or alienor; and all dispositions of property contrary hereto, shall be void and go to the residuary legatee or devisee next of kin, or heirs, according to law.” By the report of the auditor it does not appear whether the fund for distribution was realized from real estate or personal property. The cash legacies provided for in the will amounted to $1,700. These were changed by the codicil by reducing the two bequests of $800 each to $350 each, so as to increase the residuary estate $900, and this amount was lessened by two bequests of $100 each, and leave $700, which is the subject of this controversy.
+The amount of the residuary estate as provided for in the will would amount to not more than $300, and by the changes made in the codicil it would be increased to more than $1,000. This change in the distribution of the estate of the testatrix was effected by the codicil, which was made ten days before her decease. This is not a case where the value, or character of the investment of the thing devised is changed after the date of the will, as in Manners v. Phila. Library Co., 93 Pa. 165; Carl’s App., 106 Pa. 635; Sloan’s App., 168 Pa. 422; Morrow’s Est., 204 Pa. 479. The intention of the testatrix is apparent in the codicil to make the Home of the Friendless a subject of her bounty to a greater extent than she had provided by her will. To remedy the mistake in judgment on her part, as to the value of her estate, or on account of increased interest in the charity, she reduced certain legacies in the will, created two new ones, and enlarged the one to the charity from this diverted fund. This being done within one calendar month before her decease, the increased amount must be treated as being devised by her at the time she created the fund to meet that increase, and as such was an intended “disposition of property” which is prohibited by the very words of the act of 1855. To hold otherwise, would open a door to avoid the salutary provisions of that act, and nullify the very purpose of its enactment. As stated by the auditor — The act can be made a nullity by any testatrix whenever a residuum is given by the original will to a charity, by simply revoking, by a codicil, all specific and general bequests, so as to give the whole estate to a charity notwithstanding the act. For all practical purposes, the codicil provided a new legacy, out of those that were revoked by the same instrument. The charity can only claim the increased amount by virtue of the codicil, which causes this substituted bequest to fall into the residuary estate, and is absolutely void as to such excess by the terms of the act of 1855, and the distribution must be made to the next of kin or heirs according to law: Price v. Maxwell, 28 Pa. 23. A gift to a charity made within one month of testatrix’ death is presumed to have been induced by undue influence and it is therefore void: Morrow’s Est., 204 Pa. 479.
+Three appeals have been taken to the same decree; they were argued together and the same judgment is entered in each for the reasons given above.
+The decree of the court below is reversed and a procedendo awarded.
