@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 158"
+decided: "1906-10-05"
+citations: ["31 Pa. Super. 422"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Porter, Henderson, Morrison, Orlady and Head, JJ."]
+parties: ["Ferguson’s Estate."]
+source_url: "https://static.case.law/pa-super/31/cases/0422-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 864490
+cites_cases: ["118 Pa. 94", "13 Pa. 501", "2 Pa. 69", "37 Pa. 23", "7 W. & S. 279", "72 Pa. 414", "8 Watts, 184", "87 Pa. 362", "9 Watts, 403"]
+---
+
+# Ferguson's Estate
+
+## Majority (Henderson, J.,)
+
+Opinion bt
+Henderson, J.,
+. The testator devised his farm to his son Daniel to be held in trust by his executors until his son arrived at' the age of twenty-one years. He further directed in his will as follows: — “In case my son, Daniel J. Ferguson, dies before he arrives at the age of twenty-one years, I hereby empower my executors, hereinafter named, to sell my real estate to the highest bidder, and to execute a deed to the purchaser as full and legally as I myself could do if living, and the proceeds of said sale is to be divided as follows, to-wit: ” etc. Daniel died before he arrived at the age of .twenty-one years, and the question is now presented whether the legacies bequeathed on that contingency, vested at the death of the testator.
+It is a rule of construction applicable to executory bequests that the interests of primary and secondary legatees vest' in a certain way at the same time. If, therefore, the substituted legatee die before the occurrence of the event which entitles him to receive the legacy, it becomes payable to his legal representative on the happening of the specified event. If a legacy be giv.en to A with the provision that if A should die before reaching the age of twenty-one years, or without issue, then to B, the representatives of B would take the legacy even if he died before A, should the latter die before arriving at twenty-one years of age, or without issue: 1 Roper on Legacies, 401.
+This rule was applied in Kelso v. Dickey, 7 W. & S. 279. In that case the bequest of the principal was to the legatee “ in case she live unmarried to the age of twenty-five years,” or, “ the whole amount to be paid to her on the birth of issue,” but in case of her death before the age of twenty-five years, or without issue born, the property bequeathed to be equally divided among other legatees named. The contingency on which the legatees over were to take, was held to be a contingency not attached to their capacity to take, but an event independent of them and not affecting their right to transmit to their representatives. It was accordingly decided that the interests were vested and that the personal representatives of the legatees were entitled to take. The same question arose in Hopkins v. Jones, 2 Pa. 69. There the bequest was to Susan, and “in case she shall die without lawful issue,” then |1,000 of the principal sum to R. J. The contingency expressed was held not to affect the transmissibility of the legacy. R. J. might never come into possession, but her “ right or possibility” vested so as to pass to her representatives on her death before the occurrence of the contingency. The rule in Kelso v. Dickey is there reaffirmed.
+The general rule is that a legacy will be held to be vested or contingent as the time shall be annexed to the gift, or only to the payment of it. In Chew’s Appeal, 37 Pa. 23, the doctrine was stated that generally a bequest after the death of a particular person to whom a precedent estate is given, does not indicate a condition that the subsequent legatee shall only take if he survive such person. Such a bequest does not postpone the vesting of the legacy, but designates the time when the legatee shall-come into possession of the gift. To the same effect is Chess’s Appeal, 87 Pa. 362, where it was held that a second bequest is not affected by attaching a contingency thereto, unless such contingency relate to the capacity of the second legatee to take. The ease was there stated of a legacy to A, and if he die before attaining the age of twenty-one years, then to B, which form of bequest was held to give to B a transmissible interest, although it is dependent upon a contingency. The interest is in abeyance during the life of the first legatee and liable to be defeated if that legatee live to the appointed time, birt it is nevertheless a present interest through which the substituted legatee may become entitled to the possession of the estate. The capacity of the second legatee to take is not affected by the contingency, and this is the test by which the bequest is to be interpreted.
+In Bassett v. Hawk, 118 Pa. 94, Chess’s Appeal and Kelso v. Dickey were cited with approval, and these cases we consider decisive of the question before us. The language of the decedent’s will is not distinguishable in legal effect from that considered in Chess’s Appeal. The law always inclines to treat the whole interest in property as vested rather than contingent, and in doubtful cases holds the interest to be vested; and in view of this rule and the apparent intention of the testator to dispose of his whole estate, if the authorities were not clear upon the subject, we should be disposed to hold that the interest of the subsequent legatee is vested.
+It follows, therefore, that the legacy of 1800 to William M. Ferguson should be distributed among his heirs. That portion of the purchase money retained to secure the dower interest of the widow, who refused to take under the will, will become applicable to the payment of legacies and any balance to the heirs at law of the testator.
+The decree is reversed and the record remitted to the court below to make distribution in accordance with the foregoing opinion.
