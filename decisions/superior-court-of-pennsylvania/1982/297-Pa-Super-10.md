@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2536"
+decided: "1982-03-19"
+citations: ["297 Pa. Super. 10", "442 A.2d 1187"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CERCONE, P. J., and SPAETH and CAVA-NAUGH, JJ."]
+parties: ["Rose Mary TURNER, v. Charles E. MATTHEWS, Appellant."]
+source_url: "https://static.case.law/pa-super/297/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 184686
+cites_cases: ["238 Pa.Super. 488", "248 Pa.Super. 458", "266 Pa.Super. 122", "274 Pa.Super. 411", "275 Pa.Super. 439", "276 Pa.Super. 51", "277 Pa.Super. 349", "278 Pa. Super. 30", "282 Pa.Super. 25", "318 A.2d 324", "362 A.2d 287", "456 Pa. 536", "491 Pa. 598"]
+---
+
+# Turner v. Matthews
+
+## Majority (PER CURIAM:)
+
+PER CURIAM:
+On May 24, 1976, an agreed order was entered whereby appellant, Charles E. Matthews, agreed to pay $10 per week for the support of his illegitimate son, Charles E. Turner. On April 6, 1977, appellee, Rose Mary Turner, the mother of said child, petitioned the lower court to increase the support and, on May 3,1977, the order was amended to provide for a payment of $22.50 per week for the support of Charles. Appellant, on May 9, 1980, filed a pro se petition to modify the May 3, 1977, order which alleged that he was unable to comply therewith because he was on public assistance and could not obtain employment. After a hearing on September 4, 1980, the lower court denied appellant’s petition and this appeal followed. For the following reasons, we vacate the order and remand for further proceedings.
+The scope of review in a support case is a narrow one. Absent a clear abuse of discretion, we will defer to the order of the lower court assuming that the court, in making its findings and conclusions, follows proper procedures and applies the relevant legal principles. Banks v. Banks, 275 Pa.Super. 439, 445, 418 A.2d 1370, 1373 (1980); Weiser v. Weiser, 238 Pa.Super. 488, 362 A.2d 287 (1976). Here, the records discloses that the lower court misapplied the law.
+In Conway v. Dana, 456 Pa. 536, 540, 318 A.2d 324, 326 (1976), the Pennsylvania Supreme Court made clear that the responsibilities of supporting a child inure not just to the father but rather to both parents:
+We can best provide for the support of minors by avoiding artificial division of the panoply of parental responsibilities and looking to the capacity of the parties involved. Support, as every other duty encompassed in the role of parenthood, is the equal responsibility of both mother and father. Both must be required to discharge the obligation in accordance with their capacity and ability-
+Accord, Ford v. Fitzgerald, 282 Pa.Super. 25, 422 A.2d 657 (1980); Berry v. Berry, 278 Pa. Super. 30, 419 A.2d 1340 (1980); Commonwealth ex rel. Cragle v. Cragle, 277 Pa.Super. 349, 419 A.2d 1179 (1980); Straub v. Tyahle, 274 Pa.Super. 411, 418 A.2d 472 (1980); Commonwealth ex rel. Mainzer v. Audi, 266 Pa.Super. 122, 403 A.2d 124 (1979); Commonwealth ex rel. Lyle v. Lyle, 248 Pa.Super. 458, 375 A.2d 187 (1977). Because the purpose of an order of support is the welfare of the children and not punishment of the parent, the award must be fair and not confiscatory. See Dugery v. Dugery, 276 Pa.Super. 51, 54, 419 A.2d 90, 91 (1980). The determination of what is fair must, of necessity, include an evaluation of the financial abilities of both parents to support the child. Conway v. Dana, supra.
+In the instant case, the lower court gave no consideration to the circumstances of appellee in determining the amount of support required from appellant. Appellant supplied the lone testimony at the September 4, 1980, hearing and both the opinion of the lower court and transcript of the hearing reveal that it is at best doubtful whether appellee even received notification of the hearing at all. Therefore, the record is barren of any evidence regarding appellee’s ability to contribute to the support of her son.
+Under these circumstances, we must vacate the court’s order refusing to reduce appellant’s support payments and remand for a full evidentiary hearing so that the court, in determining the appropriate support order, can consider appellee’s financial abilities along with those of appellant. See Commonwealth ex rel. Cragle v. Cragle, supra. Additionally, since a careful review of the record indicates an attitude of prejudgment on the part of the lower court, we direct that this matter be heard before another judge on remand.
+Case remanded for proceedings consistent with this opinion.
+. Appellant’s brief states that appellee was employed and earning $643.44 per month. We find no competent record evidence to support that assertion. At the hearing, appellant’s counsel states that, during a Domestic Relations Conference, appellee stated that her income was $643.44 per month. Counsel never indicated when that Conference occurred. In any event, since appellee never attended the September 4, 1980, hearing to confirm her earnings, the court could not determine how much, if any, of that amount could reasonably be allotted to child support. The lower court’s opinion accordingly failed to consider appellee’s alleged income of $643.44 per month in framing its support order.
+. On remand, the court may reconsider its decision denying appellant’s prayer for remission of arrearages accumulated since October 1979, when appellant allegedly began receiving public assistance. As noted in the opinion of the lower court, the record does not reflect that appellant ever filed a petition to remit arrearages. The court nonetheless addressed and rejected appellant’s apparent oral request to remit arrearages. This was error. The fact that the lower court erroneously considered appellant’s orally presented petition for arrearages will not suffice to preserve that issue for appellate review. Cf. Commonwealth v. Philpot, 491 Pa. 598, 421 A.2d 1046 (1980) (erroneous consideration of post-verdict claims presented only orally will not preserve those claims for appellate review). However, in light of our decision to remand to consider appellee’s financial situation, we will allow appellant an opportunity to renew his petition to remit arrearages.
