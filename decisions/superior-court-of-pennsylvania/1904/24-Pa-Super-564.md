@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 64"
+decided: "1904-03-14"
+citations: ["24 Pa. Super. 564"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, Smith, Porter, Morrison and Henderson, JJ."]
+parties: ["Rhine v. Philadelphia, Appellant."]
+source_url: "https://static.case.law/pa-super/24/cases/0564-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 849876
+cites_cases: ["11 Pa. Superior Ct. 112", "122 Pa. 601", "14 Pa. Superior Ct. 258", "149 Pa. 222", "150 Pa. 145", "196 Pa. 273", "200 Pa. 247", "202 Pa. 489"]
+---
+
+# Rhine v. Philadelphia
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+The plaintiff was injured by a fall down the side of a ravine in Fairmount Park. A walk of irregular width extended along the face of the ravine bank, and the plaintiff alleges that his injury was received because of the defective construction of the walk and the omission of the defendant to cause a guard rail to be erected along its exposed side.
+The accident occurred on Sunday evening, July 22, 1900. The plaintiff and three acquaintances, a boy and two girls, were coming down the side of the ravine from a place where they had been looking at the Penn monument. They descended along a path apparently made by persons coming down the face of the bank in that direction. As they descended the bank towards the place of the accident the boy was in the lead followed by Estelle Spitler, John Rhine the plaintiff, and Alvina Lukens in the order stated. The manner in which the accident occurred is thus stated by the plaintiff: “ After I got down on the walk she (Alvina Lukens) was right behind me, and her hair was caught in a twig of a tree— some tree — some limb of a tree bending over. Her hair got caught. . . . She then took her hand in order to extricate this limb. I moved towards her to help her, to aid her, to get the limb from the hair — to loosen it — and just at that she slipped and I moved towards her to aid her, and I grabbed her and got hold of her somehow — I don’t know — but we both went over the sewer both together. She kind of tripped or fell against me or something like that. I tried to aid her, but we both went over.”
+Alvina Lukens gives this account of the accident: “We came down a different path which was nearer the monument than the one we went up, and John Gust and my sister and Mr. Rhine had all gone before me, and I was the last one. I was still a short distance on the path from the walk and my hair caught in a tree, and I shook my head to free myself, and in doing so, in shaking my head my feet slipped and I kept slipping, and Mr. Rhine came forward to save me, and I kept pushing against him, slipping against him, and just as we got to the edge of the walk we slipped and we both went over. Mr. Rhine caught hold of me just as we fell.”
+On cross-examination the witness testified as follows: “ Q. What did Mr. Rhine do ? A. I shook my head to free my hair and then I slipped, and he came towards me as I slipped. Q. He came towards yon as you slipped and you went on down the incline ? A. Yes, sir. Q. How fast did you go down towards him ? A. Very slow. Q. But the impact, that is your coming in contact with him forced you and him down into the ravine? A. Yes, sir. Q. How far did he walk towards you when you began to slip ? A. He took a couple of steps. Q. He was up towards the end of the walk was he ? A. Yes, sir, he wasn’t directly in front of me. Q. He walked backward toward you, is that right? A. No, sir, he was standing facing the walk only a few feet above where the path met the walk. Q. He was above the path ? A. Yes, sir. Q. And when you began to slip he. walked back towards you? A. Yes, sir.”
+Estelle Spitler testified substantially to the same effect.
+At the place where the accident occurred the walk referred to was according to the plaintiff’s evidence two and one half or three feet wide, with a sewer on the outside of it. The vicinity was a rough and wild part of the park.
+If it were conceded that the defendant or the park-authorities are chargeable with the duty of erecting walls or guard rails along the side of walks located as was the walk in question, it is very clear from the evidence offered by the plaintiff that the absence of a guard rail was not the proximate cause of the plaintiff’s injury. So far as. appears from the testimony, the walk was of sufficient width for the ordinary use of pedestrians having occasion to pass that way. The only duty of the defendant, if any duty existed at all, was to anticipate such occurrences arising in the ordinary use of the path as are natural and probable and might therefore be foreseen by ordinary forecast. The plaintiff was injured not in the ordinary nse of the walk, but because the slipping or falling girl coming down the path pushed him off the walk and down the bank. The path down the bank evidently had a considerable grade, and it' is easy to understand how the ■ momentum of the girl’s body would produce the result which then occurred, but the construction of the walk in no way contributed to her slipping or falling, nor to the force of the impact by which the plaintiff was carried over the side of' the ravine. The same result would have occurred if there had been no walk there. No higher duty has been imposed upon public authorities than to provide ways suitable for ordinary travel conducted in the ordinary maimer. The accident complained of was not one of the ordinary • incidents of the use of the walk which ought to have been foreseen and guarded against. The proximate cause of the injury was wholly independent of the construction of the walk. The absence of a guard rail can in no sense be said to be a concurring cause: Herr v. City of Lebanon, 149 Pa. 222.
+The second assignment of error is therefore sustained, and this conclusion renders it unnecessary to consider the question raised by the first assignment of error. The judgment is reversed.
