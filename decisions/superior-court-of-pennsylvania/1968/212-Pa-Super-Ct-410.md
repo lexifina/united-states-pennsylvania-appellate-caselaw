@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 96"
+decided: "1968-06-13"
+citations: ["212 Pa. Super. Ct. 410"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. J., Watkins, Montgomery, Jacobs, Hoffman, Spaulding, and Hannum, JJ.", "Wright, P. J., and Watkins, J., would affirm the order of the court below on the opinion of President Judge Wissler,"]
+parties: ["Commonwealth v. Esher, Appellant."]
+source_url: "https://static.case.law/pa-super/212/cases/0410-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 783718
+cites_cases: ["213 A. 2d 613", "218 A. 2d 811", "304 U.S. 458", "372 U.S. 353", "419 Pa. 1", "421 Pa. 157"]
+---
+
+# Commonwealth v. Esher
+
+## Majority (Jacobs, J.,)
+
+Opinion by
+Jacobs, J.,
+On June 21, 1965 appellant was convicted by a jury of sodomy, and subsequently sentenced to a prison term of 2-10 years. No post-trial motions were filed and no appeal was taken by appellant. On April 27, 1967 appellant filed a petition under the Post Conviction Hearing Act alleging, inter alia, that he was denied his “constitutional right to representation by competent counsel caused by his failure to take an appeal.” A hearing was held on the petition, at which both the petitioner and his trial counsel testified. The lower court dismissed the petition after finding that appellant had intelligently waived his right to appeal.
+The evidence at the hearing discloses that appellant’s basic complaint is not that trial counsel was incompetent, but that the appellant was deprived of his constitutional right to the assistance of counsel on appeal as required by Douglas v. California, 372 U.S. 353, 9 L. ed. 2d 811, 83 S. Ct. 814 (1963), and Commonwealth ex rel. Stevens v. Myers, 419 Pa. 1, 213 A. 2d 613 (1965), because he was not adequately advised by his counsel of his right to appeal. The question before us is whether the evidence supports the finding of' the lower court that appellant “intentionally and intelligently relinquished his right to appeal.”
+It seems clear that trial counsel discussed the possibility of post-trial motions and appeal with the appellant. Counsel testified:
+“When the jury retired, Mr. Esher and I and his father, went out and sat on one of these benches out here in the hall, and I at that time advised him that I felt the jury was going to convict him but it wasn’t my — it was out of my hands; that he had a right to file motions for a new trial, and I thought at that time there were no trial errors but did he want me to file post-trial motions or did he want me to plead with the Court for a Barr-Walker sentence. As a matter of fact I discussed this with Mr. Bucher, who was the District Attorney at the time, although not the District Attorney that tried the case, about the possibility of securing for Mr. Esher a Barr-Walker sentence. I felt strongly at that time and I still feel strongly that a state correctional institution is not a proper place for a convicted sex offender. And when the jury came in Mr. Esher — I told Mr. Esher — both he and his father— the approximate cost to take an appeal. And it was their decision that I should plead with the Court per chance — if he was found guilty — for a Barr-Walker sentence.” (Emphasis added.) And later on cross-examination : “No question about it, he made a conscious choice between Barr-Walker or filing for a new trial. And again I am sure I told him at that time that, in my opinion, there were no errors in the record on which to base a good motion for a new trial. Q. But nevertheless he knew that he could have asked for a new trial? A. As versus the Barr-Walker, certainly so.” (Emphasis added.)
+Our concern is that counsel told Esher that motions for a new trial were an alternative to requesting a sentence under the Barr-Walker Act, Act of January 8, 1952, P. L. (1951) 1851, 19 P.S. §1166 et seq. Counsel’s testimony leaves little doubt that he presented Esher with mutually exclusive remedies: “No question about it, he made a conscious choice between Barr-Walker or filing for a new trial,” and “As versus the Barr-Walker, certainly so.” There is, of course, nothing in the Barr-Walker procedure and sentence which would prevent the filing of post-trial motions, the first step in perfecting and taking an appeal.
+This case is controlled by the rationale of Commonwealth ex rel. Cunningham v. Maroney, 421 Pa. 157, 218 A. 2d 811 (1966). In Cunningham, trial counsel told the defendant that no basis for an appeal was present without the discovery of new evidence. The court ruled that counsel’s advice “may well have created the impression that only such circumstances [i.e., discovery of new evidence] would support an appeal, rather than, as we assume was intended, would offer a significant chance for appellant to prevail. So long as a possibility of such misimpression exists, we are unable to conclude that appellant’s acquiescence constituted an ‘intentional relinquishment or abandonment of a known right.’ Johnson v. Zerbst, 304 U.S. 458, 464, 58 S. Ct. 1019, 1023 (1938).” 421 Pa. at 160, 218 A. 2d at 813. In the instant case counsel’s advice not only may have misguided appellant, it is difficult to conceive how appellant could have reached any conclusion other than that his request for a Barr-Walker sentence precluded pursuit of post-trial relief via appropriate motions and appeal. The “possibility of misimpression” is clearly shown in the hearing record and requires us to reverse the lower court.
+The order of the lower court is reversed and the record remanded with instructions that the lower court appoint counsel for the purpose of filing and arguing post-trial motions nunc pro tunc and, if necessary, prosecuting an appeal.
+Wright, P. J., and Watkins, J., would affirm the order of the court below on the opinion of President Judge Wissler,
+On June 21st the court postponed sentence for 60 days, to have a psychiatric examination of the defendant pursuant to the Barr-Walker Act, the Act of January 8, 1952, P. L. (1951) 1851, 19 P.S. §1166 et seq. The results of that investigation are not in the record; however the court sentenced defendant under The Penal Code rather than the Barr-Walker Act.
