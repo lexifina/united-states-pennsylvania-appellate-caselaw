@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 3 and 4"
+decided: "1945-03-02"
+citations: ["156 Pa. Super. 655"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Baldrige, Rhodes, Hirt, Reno and James, JJ."]
+parties: ["Dowman Estate."]
+source_url: "https://static.case.law/pa-super/156/cases/0655-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1058401
+cites_cases: ["10 A. 236", "118 Pa. 20", "12 A. 511", "128 Pa. Superior Ct. 302", "145 Pa. Superior Ct. 60", "152 Pa. Superior Ct. 551", "154 Pa. Superior Ct. 437", "194 A. 234", "194 A. 893", "20 A. 2d 827", "266 Pa. 485", "328 Pa. 273", "33 A. 2d 78", "36 A. 2d 193", "60 Pa. Superior Ct. 83"]
+---
+
+# Dowman Estate
+
+## Majority (Rhodes, J.,)
+
+Opinion by
+Rhodes, J.,
+Exceptions were filed to tbe adjudication of tbe auditing judge in tbe estate of Robert E. Dowman, deceased. They related to the allowance of a claim for board, room, and nursing presented by the sister-in-law of the decedent, allowance of the executor’s commission, and allowance of attorney fees.
+The court below dismissed the exceptions and confirmed the adjudication. Exceptants have appealed.
+Decedent died testate on January 18, 1943, leaving to survive him a brother, Chauncey H. Dowman, who was named as executor in the will, and two sisters. The latter filed exceptions to the above credits claimed in the first and final account of the executor, and are now the appellants.
+Decedent was a man well advanced in years, and in May, 1941, he developed cancer which necessitated an operation. On October 21, 1941, at decedent’s urgent request, he was removed to the home of his brother and sister-in-law, where he was provided with rooms, meals, and constant attention, both day and night, until his death. The nature of his affliction made the attention required most unpleasant. In addition to acting as nurse, decedent’s sister-in-law purchased the food and prepared and served all of his meals. She also did the extensive washing necessitated as a result of his condition. The sister-in-law’s claim for board and room for a period of about fourteen and a half months, at $36 per month, amounted to $524.90, and for nursing for a period of sixty-three weeks, at $25 per week, $1,575, or a total of $2,099.90. A credit of $375 was given for payments by decedent prior to his death, leaving a balance of $1,724.90, which was allowed as a claim against the estate.
+Appellants’ principal contention is that claimant did not produce proof of the quality and quantity required to support her claim. The claimant was a sister-in-law of decedent, but this relationship did not raise any such presumption as would tend to defeat her claim. Gibb’s Estate, 266 Pa. 485, 487, 10 A. 236; Evans’ Estate, 60 Pa. Superior Ct. 83. The evidence established that room and board were furnished, and that the nursing services were rendered. There was no specific contract, but the rendition of such services raised a presumption of a promise to pay, and the burden of proof was then cast on those contesting the claims to establish by evidence sufficient reason why claimant was not entitled to recover. Hartman et ux. v. Moloney, 128 Pa. Superior Ct. 302, 306, 194 A. 234; Evans’ Estate, supra; Ranninger’s Appeal, 118 Pa. 20, 12 A. 511. As the evidence showed that decedent had not paid for the services rendered, any presumption of periodic payments was rebutted. Snively Estate, 154 Pa. Superior Ct. 437, 439, 36 A. 2d 193. It is true that decedent paid during the period $375, but the payments were not made in such a manner as required the auditing judge to conclude that decedent was to receive his board, lodging, care, and nursing for the sum of $25 per month as appellants argue. In cases of this type the findings of fact of the auditing judge, who saw and heard the witnesses, confirmed by the court, are conclusive and binding as a verdict of a jury where there is evidence to support them. Leppold’s Estate, 145 Pa. Superior Ct. 60, 64, 20 A. 2d 827; Mooney’s Estate, 328 Pa. 273, 275, 194 A. 893. The attending physician and others described the services performed by claimant, and testified that such services performed by practical nurses was worth at least $25 per week. There was other competent testimony that the charge made was a reasonable one. The charge for board and room, which the auditing judge found were also furnished by claimant, was unquestionably reasonable and was the same amount which decedent had been paying for these items prior to the time he came to the home of his brother and sister-in-law. Decedent, during the time that claimant cared for him, was an exacting subject, and the care required from claimant was not only difficult, but a most unpleasant task. There is no complaint about the manner in which it was performed. The allowance of this claim was in conformity with the law and supported by the facts.
+The assignments of error which complain that the charges for executor’s commission and counsel fees were excessive are without merit. The assets of the estate amounted to $20,376.06, and consisted of various items of personal property. The executor’s commission of $1,011 is slightly less than 5% of the total value of the estate. The attorney fees in the amount of $505.50 are one-half of the amount of the executor’s commission. The charges of 5% and 2%%, respectively, are not out of proportion in the settlement of such an estate. Moreover, the allowance of a fiduciary’s commission, as well as counsel fees, is primarily within the discretion of the auditing judge, and his action ordinarily will not be disturbed except for clear error. Stafford Estate, 152 Pa. Superior Ct. 551, 553, 33 A. 2d 78. Nothing appears in the record which would give us any reason to disturb the adjudication in this respect.
+All of the assignments of error are overruled.
+The decree of the court below is affirmed, at appellants’ costs.
