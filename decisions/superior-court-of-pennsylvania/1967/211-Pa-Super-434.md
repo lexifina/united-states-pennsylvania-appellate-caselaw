@@ -1,0 +1,48 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 248"
+decided: "1967-12-15"
+citations: ["211 Pa. Super. 434"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, P. J., Watkins, Montgomery, Jacobs, Hoffman, and Spaulding, JJ. (Wright, J., absent).", "Montgomery and Jacobs, JJ., join in this dissent."]
+parties: ["Commonwealth v. Pinno, Appellant."]
+source_url: "https://static.case.law/pa-super/211/cases/0434-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 781522
+cites_cases: ["204 A. 2d 758", "367 U.S. 643", "378 U.S. 368", "384 U.S. 436", "389 U.S. 31", "416 Pa. 199"]
+---
+
+# Commonwealth v. Pinno
+
+## Majority (Per Curiam,)
+
+Opinion
+Per Curiam,
+The six judges who heard the argument of this appeal being equally divided in opinion, the judgment of sentence of the court below is affirmed.
+
+## Dissent (Hoffman, J.:)
+
+Dissenting Opinion by
+Hoffman, J.:
+Defendant was charged and convicted of burglary. During the prosecution of the trial, the defendant moved to suppress certain evidence taken from his automobile on the ground that the search and seizure was illegal. No prior motion, required by Rule 2001 (b) of the Rules of Criminal Procedure, had been filed to suppress this evidence. That Rule provides in part that: “An application for relief under this Rule shall be made not later than five days before the trial. . The Rule further provides, however, that: “An application may be made, ... at any time until the evidence is offered at the trial if opportunity therefor did not previously exist, ... or the interests of justice require it.” At trial, the lower court dismissed the jury to hold a hearing to determine whether defendant waived his right to suppress the evidence and whether the evidence should be suppressed.
+At the conclusion of the hearing, the court stated: “1. That there was an illegal search and seizure under the circumstances of this case. 2. There is an issue of fact as to whether the defendant in failing to file an application to suppress the evidence, more than five days prior to the commencement of trial, has waived his right to now make an application to suppress the evidence. . .”
+More specifically, the disputed issue of fact according to the lower court was whether the defendant knew his car had been searched more than five days prior to trial, and, therefore, was able to file such motion in a timely manner. The lower court, in its opinion, stated that: “Such being the case, the court then submitted an interrogatory to the jury as a part of their verdict indicating to the jury that if they found that the defendant knew more than five days prior to trial that Officer Wenke had searched the defendant’s car, then they could find that there was a waiver of the defendant’s right to suppress this evidence, and could consider the fruits of the search as a part of the evidence against the defendant.
+“The court further instructed the jury that if, however, they found that the defendant had no knowledge of the search of Officer Wenke until the time of trial, then such search was illegal and the jury should disregard the testimony of the search and should acquit the defendant, since the Commonwealth had obviously not made out a case.”
+The justification for submitting the waiver issue to the jury was predicated upon Rule 2001(h) (2), which provides in part that:
+“(h) When the court of a prosecution county receives an application for relief during trial, it shall consider the application out of the hearing of the jury in the first instance, receiving such evidence as may be necessary to a proper determination of the issue and shall:
+“(2) Direct that disputed issues of fact shall be submitted to the jury to hear evidence and determine the issues as in the case of disputed confessions in criminal eases. . . .”
+Defense counsel objected and took exception to the Court’s charge on the waiver of defendant’s constitutional rights and its submission to the jury for ultimate determination.
+I concur in the finding of the lower court that the search and seizure in this case was illegal. I cannot agree,, however, with the lower court’s interpretation and application of Rule 2001 of the Rules of Criminal Procedure which our Court affirms today.
+Rule 2001 sets forth the applicable procedures required to suppress evidence procured from an allegedly unconstitutional search and seizure. The purpose of requiring a motion to be filed five days prior to trial is “. . . to prevent the rule [for relief] from being used by a delaying defendant who wishes to escape trial or to secure a continuance. If the defendant has early knowledge of the seizure and has an opportunity to present an application and does not do so, he may logieally be presumed to have waived his rights. . . .” Comment to Rule 2001(b) of Rules of Criminal Procedure. The Rule also permits the trial judge to use his discretion in granting or denying a motion filed “. . . within the prohibited time if the justice of the occasion demands it.”
+The note following Rule 2001(h) which requires the trial court to consider a motion filed at trial out of the hearing of the jury, states that “[t]he procedure set forth here is analogous to that followed in disputed confession cases.” Accordingly, Rule 2001 mandates that the. important procedural safeguards set forth in Mapp v. Ohio, 367 U.S. 643 (1961), and Jackson v. Denno, 378 U.S. 368 (1964), must be imported to accord defendant due process of law.
+The Jackson case requires the judge to make an initial determination on the “voluntariness” of a confession based upon the test of “totality of circumstances.” The major issues at the hearing are whether the requirements of Miranda v. Arizona, 384 U.S. 436 (1966), have been complied with and whether the confession was a truly voluntary one. The trial judge must also determine if the defendant knowingly and intelligently waived any of his constitutional rights.
+An obvious reason for using a Jackson type hearing in search and seizure cases is to allow the judge to pass preliminarily on these questions without the jury’s knowledge. The judge must determine, just as in Jackson, whether there has been a waiver of constitutional rights. If he finds.no such waiver, he must determine whether the search was legal. If illegal, the evidence must be suppressed.
+Aside from the constitutional rule set forth above in Jackson analogized to search and seizures cases, the language of Rules 2001(b) and (h) requires the court to make the decision on waiver. Under Rule 2001(b) the court itself is permitted to entertain motions to suppress not filed within the prescribed period; the discretion inextricably tied to this rule of grace is in judicial hands and is in no way related to the jury’s fact-finding function. Furthermore, Rule 2001(h) provides for a preliminary determination by the trial court out of the hearing of the jury on such an application. Since such a hearing must coincide directly with Jackson, it is blatantly evident that the judge, and not the jury, must determine whether the defendant has waived any of his rights.
+In summary, only where the trial court has preliminarily determined that the defendant did not waive any constitutional rights and that the search was legal can it “. . . tell the jury that if certain facts existed the search was illegal and the jury must disregard the evidenee, while on the other hand if such facts did not exist then the search was legal and the jury could consider the evidence.” Comment to Hule 2001 (h). When as here, however, the court finds that search was illegal, it must make a preliminary determination on the question of waiver. It is only when the judge is satisfied that there was no such waiver, that he may allow the jury to consider the evidence. Consequently, the trial court erred in submitting the important judicial determination of waiver of defendant’s constitutional rights to the jury.
+I would therefore reverse and grant a new trial.
+Montgomery and Jacobs, JJ., join in this dissent.
+Tlie Supreme Court of Pennsylvania, Commonwealth ex rel. Gaito v. Maroney, 416 Pa. 199, 204 A. 2d 758 (1964), stated that Jackson v. Denno, supra, necessitated a change from long standing procedures in criminal trials, but nevertheless conformed to the standards enunciated by the United States Supreme Court. Pennsylvania now follows the “Massachusetts Rule” which the Jackson ease accepted. That rule provides that if the judge preliminarily finds no waiver of constitutional rights and that a confession has been voluntarily made, the jury may then pass on the issue of voluntariness and credibility and actually may make a finding adverse to that of the judge.
+“Jackson v. Denno means that the judge and the jury must each make an independent judgment of voluntariness of an admission, the judge for purposes of admissibility and the jury for evidentiary acceptability, credibility, and weight.” Concurring opinion of Fortas, J., in Pinto v. Pierce, 389 U.S. 31, 34 (1967).
+It should be noted that the trial court had no doubts as to the legality of the search. In other words, there were no items of disputed fact in his mind and he ruled the search illegal. In cases where the facts are obvious and no waiver, the court should summarily dispose of the application to suppress under Rule 2001 (h)(1). Only in cases where the judge had ruled that there was no waiver and the search was legal, can there be an issue submitted to the jury. See footnote 1.
