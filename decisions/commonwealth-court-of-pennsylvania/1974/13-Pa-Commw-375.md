@@ -1,0 +1,31 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1048 C.D. 1973"
+decided: "1974-06-06"
+citations: ["13 Pa. Commw. 375"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Wilkinson, Jr., Mencbr and Blatt, sitting as a panel of three."]
+parties: ["Universal Cyclops, Appellant, v. Workmen’s Compensation Appeal Board and Daniel Amorose, Appellees."]
+source_url: "https://static.case.law/pa-commw/13/cases/0375-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1859159
+cites_cases: ["12 Pa. Commonwealth Ct. 417", "308 A. 2d 640", "315 A. 2d 883", "9 Pa. Commonwealth Ct. 542"]
+---
+
+# Universal Cyclops v. Workmen's Compensation Appeal Board
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+Daniel Amorose (claimant) suffered a compensable accident on October 30, 1969, while in the course of his employment with Universal Cyclops (Cyclops). Under the terms of an agreement between the claimant and Cyclops entered into and approved by the workmen's compensation authorities, the claimant received compensation benefits until he returned to work on December 29, 1969. He signed a final receipt sometime thereafter, but, on December 8, 1971, he filed a petition to set aside the final receipt because his disability allegedly had recurred. A referee then found that the claimant’s disability still continued, set aside the final receipt and again awarded compensation. On appeal, the Workmen’s Compensation Appeal Board (Board), without hearing any additional evidence, affirmed the referee’s holding and Cyclops has now appealed to this Court.
+On appeals to this Court in workmen’s compensation cases, where the referee has found in favor of the party carrying the burden of proof (here, the claimant) and the Board has heard no additional evidence, our scope of review is limited to a determination of whether or not constitutional rights were violated, an error of law was committed or any necessary findings of fact, as found by the referee, were unsupported by substantial evidence. Leipziger v. Workmen’s Compensation Appeal Board and Guida, 12 Pa. Commonwealth Ct. 417, 315 A. 2d 883 (1974).
+In an action to set aside a final receipt pursuant to Section 434 of the Workmen’s Compensation Act, 77 P.S. §1001, the burden is upon the claimant to prove conclusively that all disability due to the accident has in fact not terminated. Here the claimant did present substantial competent evidence to carry that burden and to support the referee’s findings of fact to that effect. Such evidence includes the claimant’s testimony that, at least since February of 1971, he had recurring pain in his back and his legs and a numbness in his foot and that he had been unable to work since he was laid off from Ms job on May 7, 1971. It also includes testimony from the claimant’s medical witnesses indicating that he had a herniated disc which was removed in a laminectomy performed on October 15, 1971 and that the possibility still existed that he would require a lumbar fusion. One medical witness said that the claimant was totally disabled and that such disability was directly caused by the October 30, 1969 accident, while another agreed that the claimant was totally disabled, at least as far as any job requiring any lifting or stooping was concerned, although he was not sure if such disability was causally related to the prior accident.
+Cyclops argues that the referee and the Board capriciously disregarded its medical evidence to the effect that the claimant was at most 40% disabled. The test here, however, is one of substantial evidence and not one of capricious disregard, and it was the duty of the referee to determine which competent medical evidence to accept. He determined that issue in favor of the claimant’s medical witnesses. Hoy v. Fran Lingerie and Workmen’s Compensation Appeal Board, 9 Pa. Commonwealth Ct. 542, 308 A. 2d 640 (1973).
+Cyclops also argues that it had work available to which the claimant could have returned subsequent to his being laid off on May 7, 1971. Cyclops, however, introduced no evidence that any work available was work which the claimant could have performed, considering the medical evidence as to his physical condition.
+Lastly, Cyclops contends that, during one of the hearings, the referee refused to accept an offer of evidence which would allegedly have shown that Cyclops was entitled to be subrogated to any award granted to the claimant because it had paid the claimant supplemental unemployment compensation benefits for a period of time during which he had not been worMng. Unfortunately, however, there is nothing in the record to indicate that such an offer was ever made. Because there was nothing in the record on this subject, the Board properly refused to remand, but it did request Cyclops to file a new petition, if it so desired, which the claimant would have the opportunity to answer and which would set forth the position of Cyclops on the subject of subrogation. We do not believe that the Board abused its discretion. Although Cyclops may have been the victim of poor stenographical reporting of the hearings, the fact is that there is no mention in the record of the subrogation issue. The Board’s suggested method of dealing with the issue, therefore, appears to have been reasonable, especially in view of the fact that Cyclops’ subrogation rights under Section 319 of the Workmen’s Compensation Act, 77 P.S. §671, are far from clear.
+For the above reasons, therefore, we issue the folloAving
+Order
+Noav, June 6, 1974, the order of the Board is affirmed and judgment is entered in favor of Daniel Amorose and against Universal Cyclops and/or Pennsylvania Manufacturers Association Insurance Company, insurance carrier, and the final receipt is set aside, Compensation Agreement No. [ XXX-XX-XXXX ], dated November 25, 1969, is hereby reinstated and compensation at the rate of $60.00 per week shall be payable February 1, 1971 through April 25, 1971, suspended for the period April 26, 1971 through May 7, 1971, and again payable recommencing May 8, 1971 and continuing indefinitely thereafter until changed pursuant to the provisions of the Workmen’s Compensation Act, Avith legal interest on all deferred payments.
