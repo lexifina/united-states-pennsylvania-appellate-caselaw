@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 95"
+decided: "1896-05-11"
+citations: ["1 Pa. Super. 594"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Willard, Wickham, Beaver, Reeder, Orlady and Smith, JJ."]
+parties: ["Thomas Collins et Ux. v. D. C. Mechling et al., Appellants."]
+source_url: "https://static.case.law/pa-super/1/cases/0594-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 268471
+cites_cases: ["13 Pa. 33", "131 Pa. 356", "132 Pa. 167", "153 Pa. 465", "169 Pa. 463", "182 Pa. 167", "19 Pa. 243", "20 Pa. 448", "66 Pa. 429", "69 Pa. 374", "76 Pa. 411", "77 Pa. 286"]
+---
+
+# Collins v. Mechling
+
+## Majority (Wickham, J.,)
+
+Opinion by
+Wickham, J.,
+The last stipulation in the oil and gas lease, which has given rise to this controversy, reads as follows: “ If oil is found in paying quantities, party of first part is to be paid, in addition to the $75.00, now paid in hand, the further sum of $600, said money to be paid within thirty days from completion of well.”
+The meaning of the words, “ if oil is found in paying quantities,” on which the whole dispute between the parties to the suit hinges, is, we think, not ambiguous. The obvious intention was that if, for the period of thirty days after its completion, the well continued to produce oil in such quantities as to make it profitable to operate it during that period, the $600 should be demandable. Nothing is said, or intimated, as to the production within the thirty days, or at any other time, repaying the costs of drilling. There is a great difference between a paying well, i. e. a well producing oil in paying quantities, and one that “ pays for itself.” A mine may for yearproduce ore in paying quantities and be very profitable during that time, and yet through a later depreciation in the value of the mineral extracted from the ore, or from accident or failure to yield enough ore, it may never repay its first cost.
+At the trial the defendants made the following offer, viz: “ Counsel for defendant proposes to show by this witness, to be followed by others, that the well drilled upon the lease in question cost $6,500, to be followed by witnesses showing that a well producing oil in paying quantities has a known significance in the oil producing country, which is a well that will return to the lessees the expense necessarily incurred in the drilling and operating of the lease, and this to be followed by witnesses, who are familiar with the oil producing business,, testifying to the effect that a well in which oil is found in a pay streak not to exceed six or eight inches in thickness, commencing to produce oil at the rate of twenty barrels ah hour, .and declining within twelve hours to five barrels an hour, and ceasing to flow at all at the expiration of thirty-six hours, and that said well was then set to pumping, and within twenty-two or twenty-three days thereafter the production had declined from one hundred and fifty barrels to twenty-five barrels.;—that this is not a well that was producing or would produce oil in paying quantities.”
+Objected to as incompetent and irrelevant.
+By Mr. Chapman: “I would like to add to my offer that the price of oil at this time was sixty cents a barrel, and further that the production of this well rapidly declined, until April following its completion, when it ceased to produce oil at all.” [2] .
+This offer is open to several fatal objections. It fails to state what “ oil producing country ” or territory is meant. It might have referred to the McDonald field or any one of many others, in or outside of Pennsylvania. The phrase “ known significance ” is too indefinite. Known to whom and to how many ? The offer should have stated, that the usage was known to the plaintiffs, or at least that it was so notorious as to affect them with the knowledge of its existence. “ Before a mere usage of trade or a custom can become so firmly imbedded in the law as to govern the rights of parties, it must be so certain, uniform and notorious as probably to be known to and understood by the parties entering into the contract: ” Ambler v. Phillips, 182 Pa. 167. See also Weld v. Barker, 153 Pa. 465; Corcoran v. Chess, 131 Pa. 356; Cope v. Dodd, 13 Pa. 33. Again the offer instead of alleging a usage, existing at the time the contract was made, and therefore capable of becoming a part of it, refers to one in existence, at the time of the trial, four years and nine months later. It might have been born, as were many oil fields during that interval.
+The well was finished on January 9, 1892, and during the thirty days next thereafter yielded over one thousand six hundred and ninety-six barrels of oil, which at the then low price of sixty cents a barrel would realize nearly $1,018. No one had the hardihood to offer to testify that such a production was not largely profitable. Moreover, up to April 29, 1892, the well still produced oil, and it is not denied at a profit. On that day something occurred which caused it to cease- to yield. Whether this was the result of accident, careless management or exhaustion of the oil supply, the evidence .does not show, nor is it material here’.
+The offer to follow the proof of the alleged usage by the testimony of so-called experts that, in their opinion, to be based on the facts learned within the thirty days, the well would never produce sufficient oil to repay the cost of drilling as well as operating, was incompetent for the reason that it proposed to show something that experts could not by any possibility know. To be competent to give the offered opinions, the witnesses, in February, 1892, must have been able to foresee the aggregate quantity of oil that the well would yield, and the future prices thereof and cost of operating. Such knowledge could only come from the ability to foretell the future oil production of the whole world, the added and changing uses of petroleum and its products, and the demand for the same, the increase or lessening of the operating expenses of the well, the number of wells that would be drilled in the neighborhood, the eccentricities of the field and other things entering as factors into the problem. We think that the opinions of the experts, unless they were also soothsayers, would savor too much of conjecture.
+The court below was clearly right in rejecting all the offers set forth in the assignments of error.
+Judgment affirmed.
