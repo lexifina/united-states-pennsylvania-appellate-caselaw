@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "02097"
+decided: "1994-04-05"
+citations: ["433 Pa. Super. 44", "639 A.2d 1202"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before ROWLEY, President Judge, and WIEAND and BROSKY, JJ."]
+parties: ["Gail D. GIERINGER, Appellant, v. Wayne R. MOWERY."]
+source_url: "https://static.case.law/pa-super/433/cases/0044-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 941136
+cites_cases: ["426 Pa.Super. 14", "427 Pa.Super. 608", "532 Pa. 521"]
+---
+
+# Gieringer v. Mowery
+
+## Majority (BROSKY, Judge.)
+
+BROSKY, Judge.
+This is an appeal from an order dismissing appellant’s Petition for educational support of the parties’ daughter, Christi. Appellant raises one issue for our determination, whether the decision in Blue v. Blue, 532 Pa. 521, 616 A.2d 628 (1992), required the dismissal of appellant’s petition for educational support where the parties had stipulated to a settlement of property matters which included a provision that father would assist in the cost of higher education of the children to the extent he is able to do so. We reverse and remand.
+The parties were married in 1970 and were divorced in 1983. Just prior to the Master’s hearing the parties entered into a Stipulation and Agreement settling certain property issues. These stipulations were incorporated into the Master’s Report and Recommendation which was subsequently approved by the Court of Common Pleas. One provision of that Stipulation and Agreement provided “that husband will assist with the cost of higher education of the children born of the marriage to the extent that he is able to do so.” Prior to Christi’s graduation from high school, appellee was paying support in the amount of $236 per month. Upon Christi’s graduation appellee petitioned to terminate support. Appellant responded by petitioning for college expenses. A hearing was scheduled with a Domestic Relations Hearing Officer at which the DRHO did not make a determination but instead scheduled a second hearing. At this hearing, appellant alleges, the Hearing Officer stated that a recommendation of $175 per month would be entered, but when the recommendation was received it was for $100 per month. Appellant appealed and a hearing was scheduled before a Special Hearing Officer. At the next hearing, the petition was dismissed due to the filing of our Supreme Court’s decision in Blue v. Blue, supra. Appellant filed exceptions which were heard by the Court of Common Pleas which dismissed the Exceptions and the Petition. This appeal followed.
+In dismissing appellant’s Exceptions and Petition, the trial court opined that the Court of Common Pleas lacked jurisdiction of the petition for college expenses in light of the Supreme Court’s decision in Blue v. Blue, and further, that such support was no longer recognized. We disagree. In Blue v. Blue, our Supreme Court held that there was no statutory or common law obligation of a parent to assist in a child’s post-high school education. However, nothing in Blue suggests that an obligation arising from an Agreement or Stipulation would be unenforceable and it has long been recognized that a support obligation can arise from an Agreement of the parties. See, Reif v. Reif, 426 Pa.Super. 14, 626 A.2d 169 (1993). As such, appellee’s purported obligation to provide financial assistance to Christi’s education set forth in the stipulation contained in the Master’s Recommendation would seem unaffected by Blue. Additionally, our Legislature, in apparent amelioration of the Blue decision, created such an obligation in 23 Pa.C.S.A. § 4327. See also, Hecker v. O’Connell, 427 Pa.Super. 608, 629 A.2d 1036 (1993). Furthermore, the Legislature made that provision retroactive to November 12, 1992. As such, Christi’s entitlement to financial assistance for her college expenses from appellee emanates from two sources. The Stipulation incorporated in the Recommendation and Court Order, and from 23 Pa.C.S.A. § 4327.
+Appellee argues that the order in question properly dismissed the petition for college expenses because such petition was based upon a contractual right and was not properly in Family Division. However, this argument fails to acknowledge that the Stipulation and Agreement was incorporated into the Master’s Report and Recommendation and was later approved by the trial court in its order of March 31,1983. As such, the terms of the Agreement were a part of the Order of March 31, 1983, and the action for support was properly filed in Family Division.
+For the above reasons, we conclude that the Court of Common Pleas improperly dismissed appellant’s petition for college expenses. We remand for consideration of appellant’s Exceptions to the Master’s Recommendation.
+Order reversed, remanded for proceedings consistent with this opinion. Jurisdiction relinquished.
