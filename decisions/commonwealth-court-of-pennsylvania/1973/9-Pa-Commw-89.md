@@ -1,0 +1,38 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeals, Nos. 785 Tr. Dkt. 1970 and 786 Tr. Dkt. 1970"
+decided: "1973-05-18"
+citations: ["9 Pa. Commw. 89"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Menoer, Rogers and Blatt."]
+parties: ["Bortner v. Board of Finance and Revenue. Bortner Charter Bus Service, Inc. v. Board of Finance and Revenue."]
+source_url: "https://static.case.law/pa-commw/9/cases/0089-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1854146
+cites_cases: ["202 A. 2d 11", "233 A. 2d 256", "415 Pa. 113", "426 Pa. 541"]
+---
+
+# Bortner v. Board of Finance & Revenue
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+The appellant, Paul E. Bortner, during the calendar year 1966, was engaged in the business of transporting persons by bus. He owned 28 vehicles, seven of which were of the large cruiser type and the remaining 21 of which were standard yellow school buses. The so-called cruisers and to some extent the school buses were used in the rendering of services to the public under a Certificate of Public Convenience issued by the Pennsylvania Public Utility Commission which authorized Bortner to transport, as a common carrier, groups and parties from certain cities and boroughs in northwestern Pennsylvania to points and places in the Commonwealth and to transport, as a common carrier, persons on schedule over described routes in and near the city of Sharon, Mercer County. However, the predominant use of the 21 school buses was in the transportation of school children under contracts with public school districts and with another business enterprise furnishing the same service for parochial schools in the area. The amounts charged for these school services were not covered by any tariff filed by the appellant with the P.U.C.
+The Department of Revenue, Bureau of Taxes for Education, made an assessment of use taxes against Bortner for the year 1966 in the amount of Two Thousand Four Hundred Twenty Dollars and Forty-Four Cents ($2420.44), being five per cent (5%) of the price of school type buses purchased by appellant and five per cent (5%) of seventy-five per cent (75%) of the cost of repairs and maintenance of all buses owned by the appellant during the tax period. The Board of Finance and Revenue sustained the Bureau and this appeal followed.
+The Tax Act of 1963 for Education, Act of March 6, 1956, P. L. 1228 (1955), as reenacted and amended, 72 P.S. §3403-1 et seq., imposes a tax of five per cent (5%) upon the use and repair within the Commonwealth of tangible personal property. By Section 2(n) (4) (c) (iii) it is provided that the term “use” shall not include “[t]he producing, delivering, or rendering of a public utility service . . . .” 72 P.S. §3403-2(n) (4) (c) (iii). The appellant contends that he is within this exclusion.
+There have been two cases construing Section 2(n) (4) (c) (iii). The first, Commonwealth v. Equitable Gas Co., 415 Pa. 113, 202 A. 2d 11 (1864), established that the meaning to be given to the words of the section must be determined by reference to the Public Utility Law, Act of May 28,1937, P. L. 1053, as amended, 66 P.S. §1101 et seq., and held specifically that the use by Pennsylvania public utilities of gas and electric meters was excluded from tax as included in the delivery or rendering of public utility service. The second, Commonwealth v. Lafferty, 426 Pa. 541, 233 A. 2d 256 (1967), held that a contract carrier, not a public utility, rendering a service identical to that which would be rendered by a common carrier, a public utility, was not entitled to the exemption. In Lafferty, the Court wrote: “We feel then that the statutory exclusion in question was meant by the Legislature to apply only to Public Utility Code ‘public utilities’ when they render Public Utility Code ‘services.’ ” 426 Pa. at 547, 233 A. 2d at 259.
+The instant case is the reverse side of Lafferty. The appellant is a Public Utility Law public utility. The only question is whether in its school bus operations it is rendering a Public Utility Law service. We think not. The appellant is a public utility because it is a common carrier by motor vehicle as its certificate recites. The Public Utility Law defines a common carrier by motor vehicle as one “. . . who . . . undertakes the transportation of passengers or property ... by motor vehicle for compensation . . . but shall not include ... (b) transportation of school children . . . .” Section 2(6) of the Public Utility Law, 66 P.S. §1102(6). As the transporting of school children was stipulated to be the predominant use of the school buses, the appellant is not aided by the fact that his school buses were also used in rendering service under his certificate. Section 2(n) of the Tax Act of 1963 for Education provides that the predominant purpose shall determine whether the use is within the definition of the Act. 72 P.S. §3403-2 (n).
+Nor is the appellant’s reliance upon the Public Utility Law’s definition of “Service” well placed, not only because of the absence of the qualifying words “public utility” but also because it refers to services rendered by public utilities or contract carriers in the performance of their duties under this Act. Section 2(20) of The Public Utility Law, 66 P.S. §1102(20). The appellant is a public utility because it is a common carrier by motor vehicle and its duties under the Act do not include the transportation of school children.
+Order
+And Now, this 18th day of May, 1973, in the matter of the appeal of Paul E. Bortner, to No. 785 Transfer Docket 1970, the Chief Clerk is directed to enter judgment in favor of the Commonwealth in the amount of Twenty-Nine Hundred Thirteen Dollars and Five Cents ($2913.05) with interest on the amount of Twenty-Four Hundred Twenty Dollars and Forty-Four Cents ($2420.44) from August 31,1969; and in the matter of the appeal of Bortner Charter Bus Service, Inc., to No. 786 Transfer Docket 1970, the Chief Clerk is directed to enter judgment in favor of the Commonwealth on the amount of Sixty-One Hundred Fifty-Eight Dollars and Eighty-Eight Cents ($6158.88) with interest on Fifty-Four Hundred Sixteen Dollars and Ninety-One Cents ($5416.91) from August 31,1969.
+The parties stipulated to this fact and all others in the record, and further agreed that the companion appeal of Bortner Charter Bus Service, Inc., a successor to Paul E. Bortner, of an assessment for the period January 1, 1967 to June 30, 1968 will be governed by our decision here.
+The appellants kept no record of the repairs and maintenance expense by individual bus. The Bureau’s allocation of seventy-five per cent (75%) of the total of such expense to the school buses rests upon the fact that seventy-five per cent (75%) of aU of the appellants’ buses were of this type. It is not disputed on this appeal.
+
+## Concurrence (Judge Kramer:)
+
+Concurring Opinion by
+Judge Kramer:
+I concur in the majority opinion based upon the facts and the applicable law. However, I must add the observation that it malees little sense for the Commonwealth to levy a tax for education on school bus service for education purposes. It doesn’t take an expert statistician or economist to know that the result of this case, based as it is upon the statutory provisions, will increase the cost of education in this Commonwealth. Hopefully, the Legislature will cure what appears to be an oversight by corrective amendatory language.
