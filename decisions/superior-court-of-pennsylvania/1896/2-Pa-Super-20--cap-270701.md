@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 5"
+decided: "1896-05-28"
+citations: ["2 Pa. Super. 20"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Willard, Beaver, Reeder, Orlady and Smith, JJ."]
+parties: ["Road in Otto Township."]
+source_url: "https://static.case.law/pa-super/2/cases/0020-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 270701
+cites_cases: ["10 Pet. 471", "10 Wheat. 30", "109 Pa. 109", "109 Pa. 55", "129 Pa. 344", "15 Pet. 445", "161 Pa. 527", "164 Pa. 306", "72 Pa. 192", "99 Pa. 540"]
+---
+
+# Road in Otto Township
+
+## Majority (Willabd, J.,)
+
+Opinion by
+Willabd, J.,
+The only question raised by this record is whether the second proviso of the act of April 15, 1891, P. L. 17, is constitutional. The act is entitled, “ An act to provide for an appeal by county commissioners, cities or other municipalities, and all persons interested in the damages awarded for laying out, widening, grading, opening or changing the lines or grades of any public street, road or alley in this commonwealth, from the decree of the court of quarter sessions confirming the report of the viewers assessing such damages.” The first section provides for an appeal by county commissioners and others indicated in the title, from the report of damages assessed by view, review and rereview, appointed by courts of quarter sessions; then follows: “ provided the appeal be taken within thirty days after the final confirmation of the report of said jury; provided that notice be given to the commissioners of the proper county, or their clerk, of the time and place of holding such view.”
+On October 10, 1895, a petition was duly filed in the court below, praying for the appointment of viewers to lay out a road between certain terminal points therein designated. Viewers were appointed according to law and their report was duly filed, confirmed nisi, and the width of the road duly fixed by the court.
+To tins report the commissioners of McKean county filed the following exceptions: “ First, no notice of the time and place of the view was given to the county commissioners or their clerk, as required by the act of assembly of April 15, 1891, P. L. 17.” On April 8, 1896, the exception was sustained and the report of the viewers set aside by the court below. The error assigned here is to the action of the court in sustaining the exception and setting aside the report of viewers.
+While we appreciate the necessity of notice to the county commissioners in views and reviews of this nature, this desirable object (so forcibly urged by the appellee’s counsel in his paper-book and argument at bar) must be reached by appropriate legislation. It is our duty to sustain the statute if we can possibly do so without violating the letter and spirit of the constitution, but in construing statutes we are not to ignore the plain mandate of the organic law. Article 3 of section 3 of the constitution provides, “No bill, except general appropriation bills, shall be passed containing more than one subject, which shall be clearly expressed in its title.”
+In an opinion this day filed in Commonwealth v. Lloyd, 2 Super. Ct. 6, we held and cited numerous decisions of the Supreme Court sustaining our position that the title to an act need not be a perfect or full index to the entire subject of the bill and that fair notice of its contents was all that was required. We also held that the title must not be misleading, but must give fair notice of the subject contained in the bill itself. Applying these rules to the second proviso of the act under consideration in connection with the title, we cannot say they are not germane, but we do decide without hesitation that the title gives no notice or warning of the subject of the second proviso. The title clearly indicates legislation concerning appeals by county commissioners and others from the decree of the court of quarter sessions confirming the report of viewers assessing damages, and there is no indication whatever of any legislation on any matter or thing connected with the proceeding till the time of taking the appeal from the decree of the court. In reading this title no legislator, commissioner or other person interested could know or surmise that anything in the bill referred to any proceeding prior to the time of the appeal, or that any provisions were intended to be embraced in the bill relative to the appointment of viewers, their proceedings or report, or that they would be required to give notice to any one of the time and place of the view, except the notice required by the terms of the general law.
+Suppose the legislature should pass an act entitled “ An act relating to the issuing of executions in this commonwealth,” with a proviso added to some section of the act providing that the sheriff should serve the summons in the original action, upon which the execution is founded and issued, ten days before the return day, the subject of such a proviso would not be expressed or suggested in the title and the proviso would be void, but it would be equally as binding as the proviso in the act we are considering. The subject of this proviso is not only not clearly expressed in the title, it is not suggested.
+We are therefore of the opinion that the second proviso to the first section of the act of April 15, 1891, is null and void, for the reason that the subject of legislation therein contained is not so clearly expressed in the title of the act as to give any notice of the legislative purpose. It is so clearly contrary to the provisions of section 3 of article 3 of the constitution as to render it void. The specifications of error are sustained, the judgment reversed and a procedendo awarded.
