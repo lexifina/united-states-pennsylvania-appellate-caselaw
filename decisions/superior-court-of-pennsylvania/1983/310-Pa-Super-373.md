@@ -1,0 +1,37 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2286"
+decided: "1983-02-18"
+citations: ["310 Pa. Super. 373", "456 A.2d 659"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before HESTER, CIRILLO and JOHNSON, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Tyrone MURPHY, Appellant."]
+source_url: "https://static.case.law/pa-super/310/cases/0373-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 209806
+cites_cases: ["263 Pa.Super. 100", "270 A.2d 190", "440 Pa. 239", "462 Pa. 106", "475 Pa. 427", "488 Pa. 625"]
+---
+
+# Commonwealth v. Murphy
+
+## Majority (HESTER, Judge:)
+
+HESTER, Judge:
+Appellant’s sole contention on this direct appeal is that the Commonwealth failed to prove that he was sentenced to a “term of years” as required by 18 Pa.C.S.A. § 2703, Assault by Prisoner, and that his conviction thereunder must necessarily fall. We disagree and affirm the judgment of sentence.
+On March 3, 1980, appellant was sentenced to serve a term of imprisonment of not less than one (1) month nor more than twenty-three (23) months at Philadelphia County Prison on charges of unauthorized use of an automobile. While incarcerated, he attacked and injured two correctional officers with a piece of broken mirror. After a non-jury trial, appellant was adjudged guilty of two counts of Assault by Prisoner, two counts of Simple Assault, and two counts of Recklessly Endangering Another Person. Post-verdict motions were duly filed and denied; thereafter appellant was sentenced to concurrent terms of two (2) to four (4) years imprisonment on the assault by prisoner convictions and one (1) to two (2) years imprisonment on the simple assault convictions. Appellant received suspended sentence on the two counts of recklessly endangering another person. This appeal challenges only the assault by prisoner convictions.
+The statute under which appellant was convicted provides as follows:
+§ 2703. Assault by prisoner
+A person who has been found guilty and is awaiting sentence to imprisonment, or a person who has been sentenced to imprisonment for a term of years in any local or county detention facility, jail or prison or any State penal or correctional institution or other State penal or correctional facility, located in this Commpnwealth, is guilty of a felony of the second degree if he, while so confined or committed or while undergoing transportation to or from such' an institution or facility in or to which he was confined or committed intentionally or knowingly commits an assault upon another with a deadly weapon or instrument, or by any means or force likely to produce serious bodily injury.
+As amended 1974, Dec. 10, P.L. 810, No. 268, § 1.
+Appellant takes exception to the language “a person who has been sentenced to imprisonment for a term of years.” He contends that, at the time he committed the assault upon the correctional officers, he was not imprisoned for the requisite “term of years” as mandated by the statute. Appellant reasons that “term of years” connotes a sentence of at least two years in length, and since his maximum sentence was twenty-three months, his sentence does not constitute a “term of years.” Consequently, the lower court erred in finding appellant guilty of assault by prisoner.
+The legislative intent of § 2703 is to protect prison inmates and correctional officers from in-prison violence. This statute enhances the ability of law enforcement officers to control the incidence of assaults which occur in prison. If appellant’s proposition were accepted as true, no prisoner sentenced to a term of imprisonment of less than two (2) years could ever be found guilty of assault by prisoner. Such a result flies in the face of the legislative intent; it would clearly be anomalous to exclude those prisoners serving terms under two years when the statute itself covers those “who [have] been found guilty and [are] awaiting sentence.” It is illogical that the legislature would exempt from culpability under § 2703 the class of prisoners serving less than two year terms and yet apply the statute to those who have not yet been sentenced, particularly when many of the unsentenced prisoners may be future members of that class.
+According to the canons of statutory construction “[i]t is to be assumed that the legislature uses words in their standard, or accepted, sense.” Commonwealth v. Ashford, 263 Pa.Super. 100, 105, 397 A.2d 420, 422 (1979). See 1 Pa.C.S.A. § 1903. While there are no cases exactly on point which discuss appellant’s proposition, numerous cases have referred to “term of years” primarily to distinguish a term limited by calendar time from one that is unlimited or from one limited by the length of a person’s life. See Commonwealth v. Williams, 488 Pa. 625, 413 A.2d 658 (1980) (life sentences for murder versus term of years of unspecified length for assault and battery); Commonwealth v. Phillips, 475 Pa. 427, 380 A.2d 1210 (1977) (death penalty versus life imprisonment or term of years); Commonwealth v. Newsome, 462 Pa. 106, 337 A.2d 904 (1975) (sentence for a term of years of unspecified length versus life sentence); Commonwealth v. Ingram, 440 Pa. 239, 270 A.2d 190 (1970) (sentence for a term of years versus life sentence or death penalty).) As can be seen from the above cases, this Commonwealth has interpreted the ordinary usage of the statutory phrase “term of years” to distinguish periods measured by calendar units from periods measured by some other standard.
+The above interpretation is supported by the legislative enactment of 18 Pa.C.S.A. § 2704. This statute provides that a penalty comparable to that provided for murder of the second degree shall be imposed for any aggravated assault committed by any prisoner sentenced to death or life imprisonment. Thus, it is apparent that in promulgating two separate statutes with distinct penalties, the legislature intended to treat differently those who were incarcerated for specific time periods from those who were serving life sentences or were awaiting execution. There is not an iota of evidence that the legislature intended to omit from § 2703 those serving less than two-year sentences.
+Finally, the legislature itself has determined that, in interpreting statutory language, “[t]he singular shall include the plural, and the plural, the singular.” 1 Pa.C.S.A. § 1902. Consequently, “term of years” must include all sentences less than two years as well as greater than two years. Appellant’s conviction stands.
+Judgment of sentence affirmed.
+. § 2704. Assault by life prisoner
+Every person who has been sentenced to death or life imprisonment in any penal institution located in this Commonwealth and whose sentence has not been commuted, who commits an aggravated assault with a deadly weapon or instrument upon another, or by any means of force likely to produce serious bodily injury, is guilty of a crime, the penalty for which shall be the same as the penalty for murder of the second degree.
+As amended 1974, March 26, P.L. 213, No. 46 § 4, imd. effective.
+. The District Attorney of Philadelphia notes that, if appellant’s construction were accepted as true, it would result in excepting from the applicability of § 2703 all prisoners of the Philadelphia Prison System, none of whom serve sentences longer than two years. See 61 P.S. § 636.
