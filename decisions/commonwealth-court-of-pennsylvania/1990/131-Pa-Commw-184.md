@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+decided: "1990-02-07"
+citations: ["131 Pa. Commw. 184", "569 A.2d 1022"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CRAIG and BARRY, JJ., and BLATT, Senior Judge.", "CRAIG, J., dissents."]
+parties: ["Musette DUGGAN, Miles French, Deceased, Petitioner, v. WORKMEN’S COMPENSATION APPEAL BOARD (LITCHFIELD TOWNSHIP), Respondent."]
+source_url: "https://static.case.law/pa-commw/131/cases/0184-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1399108
+cites_cases: ["114 Pa.Commonwealth Ct. 405", "12 Pa.Commonwealth Ct. 602", "305 A.2d 757", "317 A.2d 341", "9 Pa.Commonwealth Ct. 176"]
+---
+
+# Duggan v. Workmen's Compensation Appeal Board
+
+## Majority (BARRY, Judge.)
+
+OPINION
+BARRY, Judge.
+This is a petition for review of an order of the Workmen’s Compensation Appeal Board (Board) affirming a referee’s decision which denied the fatal claim petition of Musette Duggan (Claimant). Claimant’s petition arose out of the work-related death of Miles B. French (Decedent), Claimant’s alleged common law husband, on August 14, 1986. We affirm.
+At the referee’s hearing, the parties stipulated that Decedent died in the course of his employment and that Decedent had an average weekly wage of $182.91 at the time of his death. The sole question before the referee was whether Claimant was the common law wife of Decedent. The referee heard testimony from fourteen witnesses on this issue and concluded that no marital relationship existed at the time of Decedent’s death. The referee’s decision was affirmed by the Board and this appeal followed.
+The first issue presented for our review is whether the referee committed an error of law in concluding that Claimant and Decedent were not legally married at the time of Decedent’s death. The second issue is whether the referee’s Findings of Fact are supported by substantial evidence.
+The existence of a common law marriage is a mixed question of law and fact which has as its central issue the determination of whether the parties to the alleged marriage had a mutual present intention to be husband and wife. David v. Bellevue Locust Garage, 12 Pa.Commonwealth Ct. 602, 317 A.2d 341 (1974). In the present case, the referee found that this mutual present intention was absent. The referee states in Finding of Fact number 18:
+The Referee finds, based upon all the evidence presented, that although the Decedent had a close relationship with the Claimant and that he provided some financial renumination [sic] and did things to improve her home, he did not intend to marry or make the Claimant his wife. Although the couple was very friendly, did many things together and had mutual respect for each other, the evidence does not show that the Decedent wished to marry and share either his bed or his property with the Claimant. Even though the Decedent may have referred to the Claimant on occasion as his ‘wife’, it would appear that that was done more for convenience rather than [to] explain their relationship. In conclusions [sic], the Referee is most persuaded by the fact that the couple kept all their property separate, their bank accounts separate and event heir [sic, should be even their] bedrooms separate.
+The crux of this appeal centers upon an alleged marriage ceremony occurring on March 24, 1976. Claimant testified that at the ceremony, which occurred in the kitchen of Claimant’s home and which was attended by Claimant’s mother and Chris Gerhart, now deceased, Claimant and Decedent took each other as husband and wife. Claimant contends that since the referee found that this ceremony occurred, it was an error of law to conclude that no common law marriage existed between Claimant and Decedent. If there was a marriage, it can be ended only by the entry of a divorce decree. Thus, the Claimant argues that since the referee found that the marriage ceremony occurred, the referee’s discussion of separate bedrooms, bank accounts and property is irrelevant. The major premise of Claimant’s argument, however, is based upon a misinterpretation of the referee’s Findings of Fact.
+A careful reading of the referee’s Findings of Fact demonstrates that the referee did not find that a marriage ceremony occurred. The pertinent “Findings of Fact” state:
+3. The Claimant first met the Decedent in 1969 and he moved in with her in 1971. According to the Claimant, after the couple resided together for approximately five years, they decided to enter into a common law marriage on March 24, 1976. Present at the ceremony were the Claimant’s mother, Doris Hoffman, and Chris Gerhart. At the ceremony, the Claimant said that she took Miles French to be her husband and he indicated that he took Musette to be his wife. Following the ceremony, there was a dinner an[d] thereafter the couple resided together until the death of Mr. French on August 14, 1986.
+7. Doris Hoffman, who was present at the time of the alleged ceremony in 1976, explained that she was invited to dinner at the couple’s home and words were spoken to the effect that T marry Miles and I marry Musettef’].
+Referee’s Findings of Fact Nos. 3 and 7, emphasis added.
+These “Findings of Fact” are nothing more than summaries of the respective witness’ testimony. By these “Findings of Fact”, the referee does not, as Claimant argues, find that the marriage ceremony occurred. Rather, we believe the opposite is true. Although the referee did not explicitly state that no marriage ceremony occurred between Claimant and Decedent, we are of the opinion that it is clear from the above-emphasized language that the referee did not believe that the marriage ceremony took place. Absent the crucial finding that the marriage ceremony occurred, Claimant’s argument that the Board and referee committed an error of law in failing to conclude that a legally valid marriage existed at the time of Decedent’s death has no merit.
+Moreover, there is substantial evidence of record to support the referee’s conclusion that Claimant and Decedent were not married. It is well-established that when no additional evidence is received by the Board, the referee is the ultimate fact finder, Universal Cyclops Steel Corp. v. Krawczynski, 9 Pa.Commonwealth Ct. 176, 305 A.2d 757 (1973), and that the referee may accept or reject any testimony in whole or in part. Miller v. Workmen’s Compensation Appeal Board (Pocono Hospital) 114 Pa.Commonwealth Ct. 405, 539 A.2d 18 (1988). After our own review of the conflicting evidence which was before the referee, we believe that it was within the referee’s fact finding power to reject the testimony of Claimant’s witnesses and conclude that no marriage ceremony occurred and that there is substantial evidence to support the finding that Decedent at no time had a present intention to enter into a marital relationship with Claimant. Accordingly, these findings will not be disturbed on appeal.
+For the foregoing reasons, we affirm the order of the Board affirming the referee’s decision which denied the fatal claim petition of Claimant.
+CRAIG, J., dissents.
+ORDER
+NOW, February 7, 1990, the order of the Workmen’s Compensation Appeal Board, dated June 9, 1989, at No. A-89-412, affirming the decision of the referee which denied the fatal claim petition of Claimant, Musette Duggan, is affirmed.
