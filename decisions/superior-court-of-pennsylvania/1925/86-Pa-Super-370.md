@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 306"
+decided: "1925-12-14"
+citations: ["86 Pa. Super. 370"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, Henderson, Tkexler, Keller, Linn and GUwthrop, JJ.", "Before Bonniwell, J."]
+parties: ["Molony v. Matthews, Appellant."]
+source_url: "https://static.case.law/pa-super/86/cases/0370-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 569937
+cites_cases: ["212 Pa. 344", "234 Pa. 162"]
+---
+
+# Molony v. Matthews
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+The action was on a promissory note. Judgment was entered in the court below for want of a sufficient affidavit of defense. The execution of the obligation was admitted. It was alleged, however, that the defendant’s signature was obtained in circumstances of duress and that the contract was, therefore, void. The question for consideration is whether the averments of the ¡affidavit of defense make it appear that the appellant was subjected to such coercion as relieved him from liability. The defendant had been a tenant of the plaintiff for a year at a rental of eighty dollars a month. The plaintiff gave him notice to vacate the premises according to the tenor of the lease. At that time defendant’s wife was sick, which fact was known to the plaintiff. Defendant went to the plaintiff and offered to pay the rent due for the last month under the lease and informed the plaintiff that he was moving out the next day with his- sick wife and family. Plaintiff then informed him that there was a balance due on the rent of $253.75. This the defendant refused to pay, whereupon the plaintiff said that unless the defendant signed a note for the amount claimed that he would “seize all his household effects the next morning.” Defendant having taken into consideration the condition of his wife and the effect of the levy on a landlord’s warrant, signed the note “coerced by the actions threatened and by the dangerous procedure on the part of the plaintiff. ” It is averred in the affidavit that the amount of the note included the last month’s rent which the defendant refused to pay until he was given a proper explanation or proof that he had not paid the two months rent in dispute. Pending the determination of that question the defendant made two payments of ten dollars each on account of the last month’s rent. It will be thus seen that the intimidation relied on was the expressed intention of the landlord to distrain for rent if the tenant proceeded to move from the premises without having paid or secured by his promissory note the amount of rent claimed to be due. It is not alleged that the sick wife could not be safely moved from the building; indeed, the contrary is implied in the statement that it was the intention of the tenant to go out the next day. The coercion suggested was, therefore, the declaration of the landlord’s intention to distrain for rent. It is true the affidavit contains an assertion that there was only due rent for one month but there is no averment as to the times or circumstances of any other payments; no receipt is exhibited nor asserted to exist, nor, so far as appears from the affidavit, was any objection made to the'validity of the note until suit was brought more than a year after the note was given. It is the declared law in this state that to avoid a contract alleged to have been procured by intimidation it must be made to appear that such intimidation existed either as the result of personal infirmity or from circumstances likely to coerce a person of ordinary firmness. The quality of firmness is assumed to exist in every person competent to contract unless it appears that by reason of old age or other sufficient cause he is weak or infirm. It is to be observed too in this connection that the duress which prevents free action and destroys the ability to refuse assent to a contract must be imminent, without present means of protection and such as would operate on the mind of a person of reasonable firmness. Ordinarily threats of arrest or prosecution do not constitute such legal duress as would avoid a contract: Moyer v. Dodson, 212 Pa. 344; Sulzner v. Cappeau-Lemley & Miller Co., 234 Pa. 162. Nothing appears in the affidavit indicating that the defendant is not a person possessing ordinary mental stability and firmness. There is nothing to show that his wife might not have been removed from the premises a day before the time when he intended to leave. The affidavit is defective, therefore, in the omission of the recital of such facts as would impeach the validity of the contract which is the subject of the action.
+The judgment is affirmed.
