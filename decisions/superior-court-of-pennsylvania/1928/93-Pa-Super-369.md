@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 217"
+decided: "1928-04-18"
+citations: ["93 Pa. Super. 369"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, Henderson, Trexler, Keller, Linn, Gawthrop and Cunningham, JJ."]
+parties: ["Rothweiler, Appellant, v. Philadelphia Rapid Transit Co."]
+source_url: "https://static.case.law/pa-super/93/cases/0369-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 678501
+cites_cases: ["132 Pa. 76", "141 Pa. 615", "15 Pa. Superior Ct. 350", "166 Pa. 63", "186 Pa. 193", "201 Pa. 247", "239 Pa. 120", "265 Pa. 565", "269 Pa. 51", "283 Pa. 573", "38 Pa. Superior Ct. 614", "87 Pa. Superior Ct. 46", "88 Pa. Superior Ct. 20", "90 Pa. Superior Ct. 155"]
+---
+
+# Rothweiler v. Philadelphia Rapid Transit Co.
+
+## Majority (Keller, J.,)
+
+Opinion by
+Keller, J.,
+On July 27, 1923, at about five o’clock in the afternoon plaintiff drove a truck northward on Ninth Street in the City of Philadelphia and parked it in front of his employer’s place of business, No. 131 North Ninth •Street. Defendant operates a single track trolley line on Ninth Street, the cars going north. Plaintiff was fully aware of this fact. The clear space between the overhang of the trolley car and the curb is about 8 feet ten inches. The truck was seven feet wide at its greatest width. Plaintiff reported to his employer that the rear left spring of the truck was broken and he, his employer and a helper came out to look at it. A small automobile was parked a few feet behind the truck leaving a space sufficient for a man to stand between the two cars. Plaintiff stood nearest the car track, his employer next and the helper nearest the curb. In order to show the break plaintiff squatted down on his haunches at a point slightly to the rear and to the left of the left wheel of the truck, in a position where, he said, he felt sure he was clear of the overhang of the trolley car. Before squatting down he looked to the south and saw no trolley car approaching. While in this position a trolley car came along which gave no warning or which plaintiff did not hear. Plaintiff had either miscalculated the space between him and the car rail, or in the interval his body had sagged nearer the track, for the trolley car hit him in the rear causing him injury' for which he sought to recover in this action. The court in banc set aside the verdict rendered in his favor and entered judgment for the defendant non obstante veredicto, from which plaintiff has appealed. In our opinion this action of the court was right.
+The plaintiff voluntarily put himself in a position of danger which resulted in his injury. It makes no 'difference whether this was caused by his miscalculating the space which would be taken up by the overhang of the trolley car or by unconsciously crouching lower and further than he intended. He knew of the very narrow space between the truck and the overhang of a trolley car, was bound to know that street cars were likely to pass, and if he miscalculated the space which he occupied he thereby contributed to his own injury. The ease differs from Roberts v. Freihofer Baking Co., 283 Pa. 573 and Reisinger v. McConnell, 265 Pa. 565, relied on by appellant, where motorists engaged in making temporary repairs to their cars were run down by other automobiles, in that in those cases the injured plaintiffs’ rights on the roadway where they were injured were equal to those of the defendants inflicting the injury; while here the defendant had a superior right to the portion of the street occupied by its cars, and the plaintiff was bound, while examining the truck, to put himself in a position which would be safe as respects passing trolley cars.: Dix v. Ry. Co., 15 Pa. Superior Ct. 350; Gilmartin v. Lackawanna Valley Tran. Co., 186 Pa. 193; Penman v. McKeesport Ry. Co., 201 Pa. 247; Falco v. Allegheny Valley St. Ry. Co., 269 Pa. 51; Warner v. Peoples St. Ry. Co., 141 Pa. 615.
+The case is not at all similar to cases where a team or truck is obliged to occupy the street car track in order to unload and is there sufficiently long to enable the trolley car to stop in time: Struse v. Phila. R. T. Co., 87 Pa. Superior Ct. 46; or where the street along the car track was being repaired and plaintiff was obliged to stop his car close to the rails, but was there long enough for the motorman to have seen him and stopped: Snyder v. Harrisburg Rys. Co., 88 Pa. Superior Ct. 20; or where a workman employed by the city to tear up the paving in the cartway was obliged to work close to the car track: Chew v. Phila. R. T. Co., 90 Pa. Superior Ct. 155. In Iaquinta v. Traction Co., 166 Pa. 63, the plaintiff was only thirteen years old and his contributory negligence was necessarily for the jury.
+This case is more nearly governed by the principles enunciated in Patton v. Phila. Traction Co., 132 Pa. 76 and Hause v. Lehigh Valley Transit Co., 38 Pa. Superior Ct. 614, where it was held that there could be no recovery where the plaintiff parked his dray or automobile too close to the street car track, under the mistaken impression that the space was enough to permit the cars to clear it.
+Considering the case in the light of the rule laid down in Cramer v. Aluminum Co., 239 Pa. 120, 125, that is, reviewing the plaintiff’s evidence — the defendant submitted none — in the light most favorable to him, and determining all doubt and drawing all inferences in his favor, we are unable to reach any other conclusion than that the plaintiff was guilty of contributory negligence as matter of law.
+The judgment is affirmed.
