@@ -1,0 +1,36 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 168"
+decided: "1913-02-27"
+citations: ["52 Pa. Super. 449"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady, Head and Porter, JJ."]
+parties: ["Taylor, Appellant, v. Adams Express Company."]
+source_url: "https://static.case.law/pa-super/52/cases/0449-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 432857
+cites_cases: ["100 N. Y. 491", "106 N. Y. 206", "128 Pa. 217", "142 Pa. 446", "148 Pa. 527", "158 U. S. 98", "183 U. S. 263", "202 Pa. 222", "203 Pa. 525", "204 U. S. 426", "223 U. S. 573", "226 U. S. 491", "230 Pa. 635", "28 Pa. Superior Ct. 207", "41 Pa. Superior Ct. 269", "50 Pa. Superior Ct. 238", "50 Pa. Superior Ct. 301", "54 Pa. 251", "70 N. J. Law, 808"]
+---
+
+# Taylor v. Adams Express Co.
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+A package of furs was delivered for the plaintiff to the defendant in Philadelphia to be transported to Jaeckel & Company in New York city. It was safely carried to that city but was lost from the defendant’s delivery wagon before it reached its destination. A valuation of $150 was put on the package by a maid at the house where the plaintiff lived. The value of the package was $800. The plaintiff contending that she is entitled to recover the full value of the property and the defendant denying liability beyond the value stated on the package have agreed on the case stated filed in order that a determination of the question raised may be arrived at. The plaintiff did not deliver the package in person to the express messenger. She had sent two requests by mail to the company to call for a package at 427 South Broad street. She waited for the defendant to send for the box until April 3, 1907, when she was obliged to leave the house. She told a maid employed there that there was a box in her room to go to Jaeckel & Company, New. York, and that she had waited several days for the express company, to call for it. On the day on which she left a driver of the defendant called for the box and the maid brought it down. She was. asked its value and told the driver it was $150; thereupon the driver wrote and signed a receipt for it. The maid then called Mrs. Moore, who kept the house, to the hall where she and the driver were standing and said to her, “Miss Taylor is out and she said there was a box to go to Jaeckel & Company in New York. What shall I do?” Mrs. Moore then took the receipt and paid the driver fifty-five cents, the charge demanded, which sum was subsequently repaid to her by the plaintiff. It appearing that the loss of the merchandise occurred in New York the contract''of shipment containing a stipulation limiting liability is to be construed in accordance with the law of that state. This was the doctrine declared in Hughes v. Penna. R. R. Co., 202 Pa. 222, where it was said: “If such a contract comes under construction in a state like Pennsylvania whose policy prohibits such exemption, and the injury has occurred in a state where the contract is valid, the stipulation will be enforced:” Forepaugh v. R. R. Co., 128 Pa. 217; Fairchild v. R. R. Co., 148 Pa. 527. Where the injury takes place within the limits of the state where the contract was made the limitation cannot be enforced in the case of negligent injury. Trexler v. B. & O. R. R. Co., 28 Pa. Superior Ct. 207; Zahloot v. Adams Express Co., 50 Pa. Superior Ct. 238, and Geyer v. U. S. Express Co., 50 Pa. Superior Ct. 301, follow the decision in Hughes v. R. R. Co. It is agreed that a provision in a contract for carriage like that contained in the first section of exhibit “A” of the case stated is valid in the state of New York and that it will relieve a carrier from liability beyond the value stated in the contract even for a negligent loss. If, therefore, the act of the keeper of the apartment house and her maid in sending the package by express was the act of the plaintiff the latter is bound by the limitation as to value. A very full and able argument is made by the appellant in support of the proposition that there was a lack of authority on the part of the housekeeper or her maid to fix a value and that therefore the plaintiff is not bound by the act of the maid in naming a value of $150. There would be much force in the argument if when the plaintiff learned what had been done she had disavowed that act and had notified the defendant to that effect. She not only did not do this but on the contrary a week after the shipment wrote to the defendant in Philadelphia the following letter:
+“427 South Broad Street,
+“Philadelphia,
+“April 10, 1907.
+“Adams Express Company,
+“Claim Department, 18th & Market Streets,
+“Philadelphia.
+“Gentlemen u
+“On Wednesday, April 3, 1907, about noon, I delivered to one of your expressmen collecting at above address and have his receipt for one package containing one seal skin coat, one seal skin muff, one mink fur capé, one mink fur muff and one sable fur stole, consigned to A. Jaeekel & Company, 384 Fifth Avenue, New York City, express-age prepaid. A. Jaeekel & Company notify me that they have not yet received the same. I cannot replace these furs for less than one thousand dollars. Kindly investigate and advise me at once.
+“Yours truly,
+“C. H. Taylok.”
+It will be observed that in this letter the plaintiff ratifies and adopts the act of the inmates of the house in shipping the package. Indeed, that conclusion seems inevitable from the fact that she told the maid as she was leaving the house that there was a box in her room to go to Jaeckel & Company, New York, and that she had waited several days for the express company to call for it. The only apparent explanation of that statement is that she wished the maid to deliver the box for her if the express messenger came for it. However that may be, in the letter above quoted she declared that she delivered to one of the defendant’s agents the lost package. This is an approval of what was done at the house in the matter of shipping the package, for she had before her at the time the letter was written the receipt given for it from which she learned the conditions under which it was sent. She wished to have the package shipped; the act of the housekeeper and the maid was in her behalf and she accepted the result of their action. Conceding that there was no express or implied authority to the maid to fix a valuation for the package, when the plaintiff accepted the receipt and made no objection to its terms she must be held to have ratified the act of the maid. And if the maid had failed to give any valuation for the property and had shipped it without valuation, the loss appearing to have occurred in the state of New York, the owner would have been affected by the clause relating to the valuation of goods on which no value was placed unless she notified the company that the person acting for her was without authority in the premises. We regard the plaintiff’s letter to the company as a ratification and an acceptance of the company’s receipt.
+It follows, therefore, that judgment was properly entered for the valuation of the property fixed at the time of shipment.
+The judgment is affirmed.
