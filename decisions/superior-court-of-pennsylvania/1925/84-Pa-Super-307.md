@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 233"
+decided: "1925-02-27"
+citations: ["84 Pa. Super. 307"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Trexler, Keller, Linn and Gawthrop, JJ."]
+parties: ["Mary Connor, Appellant, v. William H. McCandless."]
+source_url: "https://static.case.law/pa-super/84/cases/0307-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 662600
+cites_cases: ["281 Pa. 16", "281 Pa. 17", "47 Pa. Superior Ct. 90", "69 Pa. Superior Ct. 49"]
+---
+
+# Connor v. McCandless
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+The plaintiff in this action of trespass averred that a motor vehicle operated by the servants and employees of the defendant was so negligently and rapidly operated, that it struck and threw her to the pavement, while crossing Chestnut Street, inflicting upon her serious personal injuries. The defendant filed an affidavit of defense specifically denying that the vehicle had been operated, at the time of the accident, by his servants, agents or employees, and averring that the vehicle was owned and operated by the employee of one Kiediasch, a teamster, and that the defendant had no control over the operation of the vehicle. The court below, upon the conclusion of the submission of evidence by the plaintiff, entered a judgment of nonsuit, which it subsequently refused to take off, and the plaintiff appeals.
+The plaintiff called Kiediasch who testified that his business was that of teamster, including the hiring of teams and automobile trucks to other people; that he owned the truck in question at the time of the accident and that it was being operated by his chauffeur, Reginald Doyles; that he had hired the truck to the defendant at $50 a week; that under the terms of the agreement he was to furnish the man to operate the truck, as well as to supply all oil, gasoline, tires and other things necessary to keep the truck in shape;' that he paid and had the right to discharge the chauffeur; that he had directed the chauffeur to do whatever Mr. McCandless told him to do; and that the truck was kept at night in a stable which he, Kiediasch, had rented. Doyles had worked for Kiediasch for about two years, driving trucks, and continued to work for him after the accident. Doyles, the chauffeur, when called as a witness, testified that when he first started to drive the truck in connection with the business of the defendant he had been told by Kiediasch that McCandless had hired the truck and just to go down and take orders from him; that at the time of the accident he was taking the truck to the Reading terminal, having been directed by Mr. McCandless to go there and get some goods; that while using the truck in connection with the business of Mr. McCandless the latter told him where to go and what goods to get or deliver. This' witness testified that the defendant had never told him at what speed to go, nor did he ever tell him what streets to go on; that all he ever told him was “I want you to go to a certain place and get something and bring it back or take something and deliver it,” and that he (Doyles) had full control and direction of the truck. The testimony of these two witnesses, the substance of which is above stated, was all upon which the plaintiff relied to fix this defendant with responsibility for the negligence of Doyles, the driver of the truck.
+There was in this case no evidence whatever that this defendant had agreed to direct the manner in which the truck should be operated, nor that he had ever suggested -any. person to whom the operation of the truck should be entrusted, nor that he had attempted to interfere with the absolute control'of the operation of the truck by the driver or Kiediasch, the owner. Kiediasch could not control the work to be done, under the evidence, but he never for a moment parted with the control of his servant in the operation of management of the truck. The defendant determined where and when the truck was to go, the loads which it was to carry, but he had nothing to do with the mechanical operation of the truck. Under the terms of the hiring the bailor selected the person who was to operate the truck, paid him, and had the right to discharge him and select another to take his place. It must be kept in mind that the bailor of the truck was engaged in the business of hiring trucks and furnishing drivers to operate them as a part of the hiring. When an accident happens in the course of such hiring the bailee is not answerable for the negligence of the driver, unless he has in some manner assumed control or interfered with the manner in which the vehicle is operated: Wollaston v. Park, 47 Pa. Superior Ct. 90; Matlack v. Chalfant, 69 Pa. Superior Ct. 49; Thatcher v. Pierce, 281 Pa. 17. The evidence in this case failed to establish that the defendant controlled, had the right to control or attempted to control the manner in which the truck was operated at the time of-the accident, and the court did not err in refusing to take off the judgment of nonsuit.
+The judgment is affirmed.
