@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 110"
+decided: "1939-04-12"
+citations: ["135 Pa. Super. 214"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Bald-rige, Stadtfeld, Parker, Rhodes and Hirt, JJ."]
+parties: ["Commonwealth v. Reutschlin, Appellant."]
+source_url: "https://static.case.law/pa-super/135/cases/0214-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1017171
+cites_cases: ["106 Pa. Superior Ct. 388", "162 A. 344", "200 A. 67", "22 Pa. Superior Ct. 269", "331 Pa. 392"]
+---
+
+# Commonwealth v. Reutschlin
+
+## Majority (Keller, P. J.,)
+
+Opinion by
+Keller, P. J.,
+The defendant has appealed from a conviction of fornication and bastardy, and seeks a new trial. The main reason which he presents as ground for a new trial is that about four o’clock P. M. on the day the case was tried some one called the defendant’s attorney on the telephone, who said he had been a juror in the case, but refused to give his name, and who told defendant’s attorney that about ten or fifteen minutes after the jury had retired to consider their verdict, one of the officers of the court entered the jury room and inquired if they had arrived at a verdict; that about five minutes later the same officer entered the jury room again and made the same inquiry; that the jurors told him they had not agreed and he thereupon informed them “that they better hurry,” and that if they did not agree within ten minutes they would be locked up for the night, although it was then only 2:20 o’clock P. M.; and that they had had no lunch and no arrangements had been made for their lunch.
+The motion for a new trial was filed on December 5, 1938. On December 12, 1938 the district attorney filed an answer denying that the jury was coerced and demanding proof of the averments set up by the defendant in his motion for a new trial.
+The defendant took no depositions in support of his motion, but on December 22, 1938, when the rule for a new trial came up for argument, his attorney presented a petition to the court asking it to issue a citation to the members of the jury directing them to appear in court and testify concerning the conduct of the officer or officers who had them in charge during their deliberations. The court refused to issue the citation and defendant’s counsel took the petition away with him, and it was not filed or endorsed until February 2, 1939, when the following endorsement was made by a clerk of the court at the instance of defendant’s attorney: “Received by Cahagan 1810 Race Street on 2/2/39 from Attorney for Defense, Samuel P. Lavine, who took citation back to his office by error after same was refused in Room 676 on 12/22/38.” The court, following the argument, on December 22, 1938, refused the motion for new trial.
+If the tipstaff or court officer in charge of the jury acted as the anonymous person, who had the telephone conversation with defendant’s attorney, described, a new trial should have been granted. See Welshire v. Bruaw, 331 Pa. 392, 200 A. 67. On the other hand, court proceedings are not to be set aside on uncorroborated and unconfirmed telephonic communications from anonymous persons. It was not necessary to hale the entire jury into court on a citation and examine them in open court. Such a course is unusual, to say the least, if not unprecedented. Defendant had ample time to take the deposition of some juror, — any juror — , and if he or she had substantiated the anonymous telephone message, a new trial would doubtless have been ordered. If it occurred, it was known by all the jurors. But it was a matter which required proof. An affidavit by defendant’s attorney that some anonymous person had made certain charges in a telephone conversation is not sufficient to set aside a verdict founded on substantial evidence.'
+The court probably satisfied itself that there was no foundation of fact in the anonymous telephonic charge, before it discharged the rule. If the fact was, as stated by the officer in charge of the jury, in an affidavit presented to the district attorney, but called to the court’s attention by the attorney for appellant, that he rapped on the door and told the jury, from outside the room, that the court would remain in session for half an hour longer and that if they did not agree upon a verdict in half an hour, they should seal their verdict and bring it into court next morning, there was nothing to which defendant could take objection.
+As the defendant admitted being with the prosecu-trix at the time and place testified to by her, long enough to have intercourse with her, but denied that he was with her as long as she said he was, the question of an alibi did not enter into the case and no instructions on the subject by the court were required. “When an accused resorts to this defense [alibi] which is affirmative in its nature, the evidence must cover the time when the offense is shown to have been committed, so as to prechode the possibility of the prisoner’s presence at the time and place of the crime. ...... The facts, established by the evidence in support of this defense, must make it impossible that the defendant could have been present at the commission of the crime” (italics supplied). Com. v. Gutshall, 22 Pa. Superior Ct. 269, 271, 272 (Porter, J.); Com. v. Stewart, 106 Pa. Superior Ct. 388, 391, 392, 162 A. 344.
+The judgment is affirmed and the record is ordered remitted to the court below; and it is ordered that the defendant appear in the court below at such time as he may be there called and that he be by that court committed until he has complied with the sentence, or any part of it which had not been performed at the time the appeal in this case was made a supersedeas.
