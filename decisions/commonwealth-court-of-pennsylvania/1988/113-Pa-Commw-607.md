@@ -1,0 +1,38 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1774 C.D. 1986"
+decided: "1988-02-22"
+citations: ["113 Pa. Commw. 607", "538 A.2d 587"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Craig and Palladino, and Senior Judge NariCK, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania, Bureau of Workers’ Compensation, Petitioner v. Workmen’s Compensation Appeal Board (Liberty Mutual Insurance Company), Respondents."]
+source_url: "https://static.case.law/pa-commw/113/cases/0607-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1369289
+cites_cases: ["101 Pa. Commonwealth Ct. 552", "469 A.2d 705", "79 Pa. Commonwealth Ct. 290", "96 Pa. Commonwealth Ct. 566", "97 Pa. Commonwealth Ct. 520"]
+---
+
+# Commonwealth v. Workmen's Compensation Appeal Board
+
+## Majority (Senior Judge Narick,)
+
+Opinion by
+Senior Judge Narick,
+The Commonwealth of Pennsylvania, Bureau of Workers’ Compensation of the Department of Labor and Industry (Petitioner) is before this Court in its capacity as conservator and maintainer of the Workmens Compensation Supersedeas Fund (Fund) under Section 443 of The Pennsylvania Workmen’s Compensation Act (Act), Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §999, seeking review of an order of the Workmen’s Compensation Appeal Board (Board). That order affirmed a referee’s decision to allow reimbursement from the Fund to Liberty Mutual Insurance Company (Respondent) for overpayments of compensation made to Ethel Hamilton (Claimant).
+The pertinent facts may be briefly summarized as follows. Claimant sustained a work-related injury to her right elbow in 1971 and was paid workmen’s compensation benefits of $60.00 per week from December 17, 1971. On September 29, 1978, her employers insurer, Respondent, filed a modification petition, alleging that Claimant was able to perform light work which was available to her. At that time, Respondent requested a supersedeas, which was denied. The Referee granted the modification petition in a decision dated September 7, 1982, reducing Claimants weekly benefit from $60.00 to $40.85. That decision was not appealed. Respondent subsequently filed an application for reimbursement from the Fund for overpayments of $19.15 per week it made to Claimant from September 19, 1980, until September 7, 1982, and the referee granted reimbursement. Following a Board-ordered remand, the referee reaffirmed his decision, the Board affirmed and Petitioner took this appeal.
+The precise issue before us is whether the Petitioner, as conservator of the Fund, may challenge the validity of what it terms the “underlying case,” here, the referees decision granting the modification petition. Citing a lack of substantial evidence in support of the referees grant of that petition, Petitioner argues that Claimants benefits should not have been reduced, and, therefore, that Respondent is not eligible for reimbursement from the Fund.
+As sole authority for its position, Petitioner cites our recent cases of Department of Labor and Industry v. Workmen's Compensation Appeal Board (Commercial Union Insurance Co.), 97 Pa. Commonwealth Ct. 520, 510 A.2d 373 (1986) (Commercial Union) and Bureau of Workers’ Compensation v. Workmen’s Compensation Appeal Board (Insurance Company of North America), 101 Pa. Commonwealth Ct. 552, 516 A.2d 1318 (1986) (INA). It contends that these cases stand for the proposition that, as a matter of law, it may, as conservator of the Fund, challenge the facts of the underlying case when it believes that reimbursement has been erroneously granted. We do not read those cases so broadly. In both Commercial Union and INA, the parties to a workers’ compensation case ¡ concluded agreements to terminate the proceedings, which were adopted by a referee, and ultimately served as the basis for .his grant of reimbursement from the Fund. In neither instance did the facts of record comport with those upon which the parties had agreed, allowing both. insurers to receive reimbursements to which we determined they were not entitled. The reasoning of these opinions focused upon Section 443(a) of the Act, which provides that:
+If, in any case in which a supersedeas has been requested and denied under the provisions of section 413 or section 430, payments of compensation are made as a result thereof and upon the final outcome of the proceedings, it is determined that such compensation was not, in feet, payable, the insurer who has made such payments ' shall be reimbursed therefor. (Emphasis added.)
+Because the referees in those case's had not made a determination that compensation was not payable, we held that “at the very least the Department as conservator of the Fund is entitled as the basis for reimbursement to have an arms length or adversary type determination, rather than agreement with or without a referee’s approval on which the ■ Insurer bases its claim, that the ‘compensation was not, in fact, payable.’ ” Commercial Union, 97 Pa. Commonwealth Ct. at 529, 510 A.2d at 376-77 (footnote omitted), quoted with approval in INA, 101 Pa. Commonwealth Ct. at 559, 516 A.2d at 1322. Commercial Union and INA, are, thus, factually distinguishable and not applicable to the instant proceeding, wherein a referee, following an adversary proceeding, granted-a modification petition based upon the evidence presented to him,- including the Claimants own testimony and that of her- employers job specialist.
+As summarized in' IN A, the prerequisites to an insurers obtaining -reimbursement from the Fund are as follows:
+1. A supersedeas must have been requested;
+2. The request for supesedeas must have been denied;
+3. The request must have been made in a proceeding under Section 413 of the Act;
+4. Payments were continued because of the order denying the supersedeas; and '
+5. In the final outcome of the proceedings ‘it is determined that such compensation was not, ■ in fact, payable.’
+IN A, 101 Pa. Commonwealth Ct. at 555, 516 A.2d at 1320 (footnote omitted). Petitioner concedes that the first three requirements were met. Its only argument with respect to the fourth is that the referee’s determination that compensation was not payable was not based upon substantial evidence. However, this. Court has recognized in the past that “[u]nder the procedures set forth by the Act, the reimbursement application proceeding is collateral to the underlying . . . petition. Therefore, the Only issue properly before us is whether the referee and Board correctly cálculated the reimbursement due based on the referee’s unappealed order in the [prior] proceeding.” Department of Labor and Industry v. Workmen's Compensation Appeal Board (Bethlehem Mines Corporation), 79 Pa. Commonwealth Ct. 290, 469 A.2d 705 (1984). See also Bureau of Workers’ Compensation v. Workmen’s Compensation Appeal Board (Allstate), 96 Pa. Commonwealth Ct. 566, 508 A.2d 388 (1986). Although Commercial Union and INA were decided susequent to Bethlehem Mines and Allstate, we view the two former cases as merely carving out a narrow exception to the general rule expressed in the latter two. Because that exception does not apply here, we have no authority for allowing an attack upon the referees underlying grant of the modification petition.
+Accordingly, the statutory conditions for reimbursement from the Fund having been satisfied by. Respondent in this case, we will affirm the order of the Board.
+Order
+And Now, this 22nd day of February, 1988, the order of the Workmens Compensation Appeal Board in the above-captioned matter is hereby affirmed.
