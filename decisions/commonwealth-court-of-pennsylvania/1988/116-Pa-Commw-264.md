@@ -1,0 +1,41 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 1190 C.D. 1987"
+decided: "1988-05-20"
+citations: ["116 Pa. Commw. 264", "541 A.2d 1164"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Colins and Palladino, and Senior Judge Barbieri, sitting as a panel of three."]
+parties: ["Pennsylvania Industries for the Blind and Handicapped, Petitioner v. Department of General Services, Respondent."]
+source_url: "https://static.case.law/pa-commw/116/cases/0264-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1372423
+cites_cases: ["473 Pa. 56", "496 Pa. 1", "498 A.2d 61", "509 A.2d 877", "512 Pa. 377", "517 A.2d 523", "92 Pa. Commonwealth Ct. 154", "97 Pa. 78"]
+---
+
+# Pennsylvania Industries for the Blind & Handicapped v. Department of General Services
+
+## Majority (Judge Colins,)
+
+Opinion by
+Judge Colins,
+Pennsylvania Industries for the Blind and Handicapped (petitioner) appeals the order of the Secretary of General Services (Secretary) which confirmed the presiding officers proposed report finding that the Department of General Services (respondent) did not abuse its discretion in awarding service purchase contracts to the lowest bidder. For the reasons which follow, we agree.
+The facts are as follows: In February, 1986, petitioner informed the Pennsylvania Department of Transportation, Engineering Division (DOT) that it was interested in providing complete maintenance services for Rest Area Sites 17-18, 19-20, 21-22, and E beginning July 1, 1986. As petitioner was interested in a number of the Rest Area maintenance contracts, DOT asked its central office for guidelines.
+The DOT central office provided DOT with guidelines for establishing the fair market price, which was supplied by the respondent. The guidelines instructed DOT to solicit bids in the open market and to establish the low bid price as the fair market price. DOT solicited bids from contractors interested in providing maintenance services for the Rest Area Sites.
+DOT informed petitioner, by letter dated May 5, 1986, that the fair market price for each of the Rest Area Sites was established by the low bid prices meeting specifications. In a letter dated May 19, 1986, petitioner accepted the Rest Area maintenance contracts for Sites 17-18 and 19-20 at the established fair market prices (the low bid prices). Contracts for those sites were awarded to petitioner.
+In petitioners May 19, 1986, letter, petitioner also informed DOT that the respondent should review the fair market prices established by DOT for Sites 21-22 and E, and that the respondent should establish the fair market price in accordance with the law. The Bureau of Purchases for the respondent reviewed the prices established by DOT for Sites 21-22 and E and concluded that they represented the fair market prices. DOT subsequently requested a hearing before the respondent and a determination by the Secretary.
+In a proposed report, the presiding officer concluded that the respondent did not abuse its discretion in determining that the low bid price meeting specifications was established as the fair market price. The report also concluded that the low bid prices for the Rest Area Sites 21-22 and E were fair market prices for 1986-87. In an order dated May 4, 1987, the Secretary confirmed the presiding officers proposed report.
+Petitioner argues that: (1) it was an abuse of discretion for the Secretary to establish the low bid price as the fair market price; (2) the cost of the agency in performing the services in the prior year should have been considered by the respondent in establishing the fair market price for the current contract year; and (3) a contract which is subject to review to determine the fair market price should not be awarded until the final determination of the fair market price.
+Our scope of review is limited to a finding of whether an error of law was committed, constitutional rights were violated, or whether substantial evidence supports the findings of fact. Estate of McGovern v. State Employees Retirement Board, 512 Pa. 377, 517 A.2d 523 (1986).
+We note that the issue presented before us is moot. However, in cases in which there is a likelihood that the issue will reappear before this Court, we will exercise jurisdiction over the matter. Colonial Gardens Nursing Home v. Bachman, 473 Pa. 56, 373 A.2d 748 (1977).
+Section 2409.1 of The Administrative Code of 1929 (Code), Act of April 9, 1929, P.L. 177, as amended, 71 P.S. §639.1(b), states, in pertinent part: “The Secretary of General Services shall have the power, and it shall be his duty, to determine the lair market price on any product or service, the practice of which is not licensed under the laws of this Commonwealth, which handicapped persons can manufacture or perform. . . .”
+In adopting Section 2409.1(c) of the Code, the legislature intended to help the handicapped help themselves by requiring the Commonwealth to procure from them all services needed without competitive bidding, provided that they are willing and able to perform competently and at a price determined by the Commonwealth to be the fair market price. Pennsylvania Industries for the Blind & Handicapped v. Larson, 496 Pa. 1, 436 A.2d 122 (1981).
+Section 2409.1 of the Code provides the Secretary with broad discretion in determining the fair market prices for service contracts. The Secretary has determined that for services, where competitive bidding is used to identify the prevailing market prices, the low bid shall be established as the fair market price unless: (a) the low bid is not responsive; (b) the low bid is unreasonably low and is considered a “low-ball” bid; or (c) the low bidder is not a responsible bidder, pursuant to Section 2409.1 of the Code.
+It is within the Secretary’s discretion to make such a determination and we find that the Secretary has not abused his discretion in stating that the low bid shall be established as the fair market price in competitive bidding circumstances. Nowhere in this record is there any evidence which would suggest that there was anything other than the Secretary’s sound exercise of his discretion.
+An administrative agency has wide discretion when establishing rules, regulations and standards, and also in performance of its administrative duties and functions. Pennsylvania Game Commission v. Department of Environmental Resources, 97 Pa. 78, 509 A.2d 877 (1986). A reviewing court cannot overturn an agency’s exercise of its discretion absent proof of fraud, bad faith or a blatant abuse of discretion. Wengrzyn v. Cohen, 92 Pa. Commonwealth Ct. 154, 498 A.2d 61 (1985). The record does not contain any evidence of fraud, bad faith, or a blatant abuse of discretion.
+Petitioner also argues that the contract should not have been awarded until the final determination of the fair market price was made. DOT needed maintenance service for the Rest Areas beginning July 1, 1986. Petitioner was notified of the fair market prices for Sites 21-22 and E on June 2, 1986. It is unreasonable to expect that DOT should wait until after the Secretary’s review of the propriety of the fair market prices before it awarded the contracts. DOT would be forced to close the Rest Area Sites if the proper maintenance could not have been provided. Additionally, as noted by respondent in a footnote to its brief: “If the Secretary had reversed the decision of the Bureau of Purchases, an appropriate remedy could have been determined. The service purchase contracts did contain a termination for convenience clause upon thirty days’ notice to the contractor.” Therefore, we find that DOT properly awarded the contract when it did.
+Accordingly, respondent’s order is affirmed.
+Order
+And Now, this 20th day of May, 1988, the order of the Department of General Services in the above-captioned matter is hereby affirmed.
+The Rest Area maintenance contracts for 17-18, 19-20, and 21-22 were in effect in February, 1986, and expired on June 30, 1986. Petitioner held the contract for the maintenance of Rest Area Site E for 1985-86 but by letter dated February 26, 1986, it informed DOT that in order to continue to provide such service beyond June 30, 1986, a price increase was necessary.
