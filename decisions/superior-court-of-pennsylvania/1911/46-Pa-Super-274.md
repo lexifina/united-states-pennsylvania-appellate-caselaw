@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 74"
+decided: "1911-03-03"
+citations: ["46 Pa. Super. 274"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady, Head, Beaver and Porter, JJ."]
+parties: ["McLaughlin v. Blake, Appellant."]
+source_url: "https://static.case.law/pa-super/46/cases/0274-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 421320
+cites_cases: ["3 Pa. Superior Ct. 461"]
+---
+
+# McLaughlin v. Blake
+
+## Majority (Beavee, J.,)
+
+Opinion by
+Beavee, J.,
+That defendant executed and delivered to one, John A. McLaughlin, two certain promissory notes, one for $250 and the other for $300, dated on or about September 12, 1905, is not denied. That the said John A. McLaughlin indorsed the said notes and transferred them to the plaintiff is also undenied. That the plaintiff transferred them to one Kelly, as a loan, who had them discounted and used the proceeds, is also undenied. That the said Kelly renewed the said notes on several occasions as they matured, with the knowledge, consent or authority of the plaintiff, although apparently claimed by the defendant, is not in any way sustained, Kelly, who was called by the defendant, agreeing with the plaintiff that he did not act in any way for him but assented to the renewal of the notes simply to tide the matter over for the defendant, and that the renewals were not indorsed by the plaintiff. In this the plaintiff and Kelly, the defendant’s witness, entirely agree. There was, therefore, no testimony whatever which indicated that Kelly acted for or on behalf of, or by authority of, the plaintiff.
+There were a number of disputed facts. John A. McLaughlin testified distinctly that the notes were accommodation notes made by Blake, at his request, for his brother, the plaintiff, and were transferred to the plaintiff, with that distinct understanding, and that no consideration passed between the plaintiff and him for the said notes. On the other hand, the plaintiff testified that he took the notes from his brother, John A. McLaughlin, without any knowledge whatever that they were accommodation notes, and that he gave his brother credit upon an indebtedness of $1,800, for the amount of the notes. Blake’s testimony was very clear that he gave the notes as accommodation paper and delivered them to John A. McLaughlin. He follows them no further, however, and does not seem even, by his own testimony, to have ever had any negotiations of any kind with the plaintiff. He knew him by formal introduction and that was the extent of his acquaintance with him.
+Numerous offers of testimony were objected to and the objections sustained, but none are assigned for error. The general charge of the court is not alleged as erroneous. Three specifications of error relate to the manner in which the court answered certain points of the plaintiff and defendant. The first point of the plaintiff, which was affirmed, was this:
+“1. The jury must not consider any defense based on the alleged renewal notes, for the reason that there is no sufficient proof that George E. McLaughlin, the plaintiff, ever took or agreed to take, any renewal notes in payment of the original notes in suit; nor is there any sufficient proof that he ever authorized or empowered Mr. Kelly or anyone else, to take same for him.” This is in exact accordance with the testimony of the plaintiff and Kelly, who agreed, as already stated, and there was nothing whatever in the case which contradicted their testimony,'Kelly being the witness of the defendant. It is difficult, therefore, to see how the court could have done otherwise than affirm this point.
+The second specification is that, “The learned trial judge erred in affirming plaintiff’s first [? second] point,” the point and answer being as follows: “2. The law does not consider any renewal notes of the defendant as an absolute payment of his original notes, so as to entirely wipe out the original notes, unless there is proved a special agreement to that effect. This was affirmed and is based upon abundant authority.
+Our own case of Lauer v. Yetzer, 3 Pa. Superior Ct. 461, disposes of the question in this way, as appears by the syllabus: “Where a creditor accepts the note of a third person in payment of his debt, a novation takes place, but the mere acceptance of such note, however, does not constitute a novation, without some evidence that it was taken in satisfaction of the debt. The burden of proof is upon the party asserting the novation.” In this case, however, there was no evidence that the plaintiff himself accepted renewal notes. They were accepted, as the testimony of the defendant shows, by Kelly, to whom the original notes had been loaned, and who became, therefore, the last indorser thereon. He negotiated with the plaintiff for all renewals and used them, according to his own testimony, without the plaintiff’s knowledge, consent, authority or indorsement. It seems to us, therefore, that the point was clearly such as the court was bound to affirm.
+The third assignment relates to the answer of the trial judge to the defendant’s first point, point and answer being as follows: “1. If the jury believe that plaintiff indorsed the notes, or handed them without indorsement, to John F. Kelly, before maturity, and did not pay them himself at or after maturity, your verdict should be for defendant. The first point is refused.” If this was intended to imply that the plaintiff must himself personally pay the notes at or after maturity, it was not a good point, for the payment would have been good, if made by the plaintiff through any other person, and it was shown by the defendant’s own witness, Kelly, that he paid the notes for the plaintiff with the plaintiff’s money, which was, of course, a good payment by the plaintiff, and showed clearly, because it was not contradicted, that the plaintiff was the holder of the notes in suit for value.
+The contradiction in the testimony of the plaintiff and his brother as to the knowledge of the plaintiff that the notes were accommodation paper was disposed of by the jury, as was clearly their province.
+It is objected by the plaintiff that the defendant’s point, above stated, which was refused, was not excepted to, but it is so clearly and manifestly correct, in view of the evidence, that we so determine, without reference to the technical objection.
+The disposition made by the court of these several points is so manifestly correct, in view of the testimony to which we have referred, that it is not necessary to discuss them or to cite other authorities, many of which appear in the appellee’s paper-book.
+The assignments of error are all overruled.
+Judgment affirmed.
