@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 316"
+decided: "1916-10-09"
+citations: ["64 Pa. Super. 492"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rich, P. J., Orlady, Head, Porter, Henderson, Kephart and Trexler, JJ."]
+parties: ["Krebs Road."]
+source_url: "https://static.case.law/pa-super/64/cases/0492-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 457936
+cites_cases: ["12 Pa. Superior Ct. 279", "154 Pa. 547", "32 Pa. 285", "56 Pa. Superior Ct. 479", "97 Pa. 260"]
+---
+
+# Krebs Road
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+The proceedings in this case were in some respects unusual. Two petitions were presented to the court below, which for convenience were in that court designated, respectively, as No. 1 and No. 2. Petition No. 1 prayed for the vacation of a part of Krebs Road and that a new road be located to supply the place of the part so vacated, and that viewers be appointed to view and vacate the said part of the road and lay out a new road to supply the place thereof. Petition No. 2 prayed for the vacation of all of Krebs Road and that a new road be laid out to supply the place of the road so vacated and that viewers be appointed to view the road to be vacated and lay out a road to supply the place thereof. The court below was of opinion that the two petitions should be considered in connection with each other and appointed the same board of viewers in each of the cases. The viewers reported against the vacation of the part of the road and the laying out of a new road to supply the place of the same, as contemplated by petition No. 1 and they reported, also, in favor of the vacation of the entire road and located a new road to supply the place thereof, as contemplated by petition No. 2. It thus appears that there is no report of viewers recommending the location of any road to supply the place of the part of the road, the vacation of Avhich was contemplated in the proceedings under petition No. 1, and that there was a report of viewers recommending the vacation of the entire road and locating a new road to supply the place thereof, as contemplated by the proceedings under petition No. 2. The learned judge of the court below set aside the report of viewers in petition No. 2,. and dismissed that petition; this the court beloAV had authority to do, but the court went further and made an order that the part of the road as designated in petition No. 1 should be vacated and that the road to supply the place thereof, “as designated in the petition No. 1,” should be located and adopted. From that order we have this appeal.
+The appellees have moved to quash the appeal upon the ground that the appellants have not printed in their paper book the testimony taken in the court below. The appellants in a proceeding of this character are not required to print the evidence, which is no part of the record and would not be considered by this court upon an appeal, which is in effect only a writ of certiorari: Kensington Turnpike Co., 97 Pa. 260; Keller’s Private Road, 154 Pa. 547; Road in Manheim Township, 12 Pa. Superior Ct. 279. The motion to quash is overruled.
+This was not a proceeding under the provisions of the Act of May 5, 1911, P. L. 123, which statute might have authorized the supervisors of the Townships of Union and West Mahanoy, if they had complied with the conditions imposed by that statute, to change or alter the road in question. This proceeding was under the Act of June 13, 1836, P. L. 555, in which the method and practice of vacating and opening roads is clearly defined. The court was without authority to vacate or change the road, or any part of it, without the affirmative report of a board of viewers. It was not the intention of the legislature that in the case of a vacation it was within the authority of the court, at its discretion, to vacate or change any part of a road without a report of viewers supporting that particular action: Plainfield and Washington Township Road, 56 Pa. Superior Ct. 479. When the court set aside the report of viewers upon the petition No. 2 and dismissed that petition, that was the end of its authority to decree the vacation of any part of the road and that a new road should be laid out to supply the place of the part so vacated. The court has, without the affirmative action of a board of viewers vacated a part of a road and located a new road upon the line “designated in petition No. 1.” There was attached to and made part of petition No. 1 a draft showing the entire line of the proposed new road which the petitioners wished to have adopted. The viewers reported that the road ought not to be so located. This draft, showing the location of the entire line of the proposed new road ought not to have, been attached to the petition: McConnell’s Mill Road, 32 Pa. 285. The court below, however, undertook to locate a new road upon the lines indicated by that draft. The specifications of error are sustained.
+The order of the court below is reversed, except that part of it setting aside the report of viewers under No. 2 petition.
