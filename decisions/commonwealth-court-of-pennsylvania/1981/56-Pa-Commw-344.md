@@ -1,0 +1,41 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1831 C.D. 1979"
+decided: "1981-01-28"
+citations: ["56 Pa. Commw. 344"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Crumlish and Judges MacPhail and Williams, Jr., sitting as a panel of three."]
+parties: ["Gerard J. McHale, Petitioner v. Commonwealth of Pennsylvania, Workmen’s Compensation Appeal Board and Laurstan, Respondents."]
+source_url: "https://static.case.law/pa-commw/56/cases/0344-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8732317
+cites_cases: ["21 Pa. Commonwealth Ct. 390", "31 Pa. Commonwealth Ct. 341", "31 Pa. Commonwealth Ct. 599", "33 Pa. Commonwealth Ct. 190", "345 A.2d 780", "376 A.2d 277", "377 A.2d 1014", "38 Pa. Commonwealth Ct. 218", "381 A.2d 210", "392 A.2d 346", "401 A.2d 875", "408 A.2d 900", "43 Pa. Commonwealth Ct. 98", "47 Pa. Commonwealth Ct. 592"]
+---
+
+# McHale v. Commonwealth
+
+## Majority (Judge Williams, Jr.,)
+
+Opinion by
+Judge Williams, Jr.,
+In this appeal Gerard J. McHale (claimant) seeks reversal of an order of the Workmen’s Compensation Appeal Board denying him occupational disease benefits under The Pennsylvania Workmen’s Compensation Act (Act). The Board’s order affirmed a referee’s determination that the claimant had riot proved that his disability was caused by an “occupational disease” as defined in Section 108 of the Act.
+For about thirteen years prior to 1977 claimant McHale worked as a welder. From March 1974 to March 1977 he was employed by respondent Laurstan, Inc. as a welder and grinder of sheet metal. On March 15, 1977, he left work because of sickness and breathing difficulties. A few days later he consulted his physician; and about a week after that he was admitted to the hospital for diagnosis and treatment. The claimant’s condition at that time was diagnosed as asthmatic. In August 1977 he was again hospitalized, for obstructive pulmonary disease with bronchitis. According to the claimant his breathing difficulties began about one year after he started working for Laurstan, Inc.
+McHale filed a claim petition describing his disease as acute asthma aggravated by the conditions of his employment. The petition specifically cited the claimant’s inhalation of smoke, dust, metal particles and asbestos in the course of his work as a sheet metal welder and grinder.
+To establish his claim McHale presented the testimony of his physician, Doctor Gregory Salko. According to Doctor Salko the claimant had a lung problem that was aggravated by his working conditions. It was also Doctor Salko’s opinion that the claimant had been totally disabled by his condition from March 15, 1977, to June 20, 1977, and remained partially disabled thereafter.
+In rebuttal the employer offered the testimony of Doctor Sander Levinson, a specialist in pulmonary diseases and internal medicine. According to Doctor Levinson the claimant’s symptoms were related to recurrent bronchitis that is triggered by repeated respiratory infections and a history of multiple episodes of pneumonia, hypertension and sinus tachycardia. According to Doctor Levinson the claimant’s condition was also aggravated by a history of heavy cigarette smoking. In the opinion of Doctor Levinson, the claimant’s condition was not work related or occupational in nature.
+In a workmen’s compensation case the weight of testimony is exclusively for the referee to determine; and his decision to accept the testimony of one competent medical witness over that of another equally competent medicaL witness will not be disturbed on appeal. E.g., Modern Transfer v. Workmen’s Compensation Appeal Board, 47 Pa. Commonwealth Ct. 592, 408 A.2d 900 (1979). Such a decision of itself does not constitute a capricious disregard of evidence. E.g., Nye v. Workmen’s Compensation Appeal Board, 43 Pa. Commonwealth Ct. 98, 401 A.2d 875 (1979); Workmen’s Compensation Appeal Board v. International Furnace Corp., 21 Pa. Commonwealth Ct. 390, 345 A.2d 780 (1975).
+In the instant case the referee clearly signified in his findings that he accepted the employer’s medical evidence and resolved against the claimant the conflict in the medical testimony. That is, the referee, acting within his province, accepted the testimony of Doctor Levinson that the claimant’s condition was one of recurrent bronchitis not causally related to his work.
+The claimant urges that there is a critical inconsistency between part of the referee’s findings of fact and the conclusion denying benefits. Specifically, the claimant directs our attention to finding number 8, which was as follows:
+We find as a fact that while working for the defendant, the claimant was exposed to smoke and dust from the materials welded. The defendant’s shop in which the claimant worked was 15 feet wide, two city blocks long and 20 feet high. That [sic] the windows did not open and there was no ventilation in the winter,
+From that finding the claimant asserts that the referee acknowledged the claimant’s exposure to an “occupational disease hazard,” and further argues that the referee, therefore, should have found that this exposure was the cause of the claimant’s disability and awarded compensation.
+It is true the referee acknowledged that claimant McHale was exposed to an “occupational disease hazard” in the course of his employment with Laurstan, Inc. Indeed, the referee expressly so stated in finding number 15. However, the claimant’s argument from the finding of exposure either ignores or misconceives the significance of another finding made by the referee. In addition to finding that the claimant’s actual condition was not work related, the referee also found that the claimant had not proved his actual condition to be a compensable “occupational disease” Within the definition of that term under Section 108 of the Act.
+Not all diseases are “occupational diseases” within the definition of the Act. Gallo v. Workmens Com pensation Appeal Board, 31 Pa. Commonwealth Ct. 599, 377 A.2d 1014 (1977). Given the referees eviden-tially supported finding that the claimant’s disability was due to an underlying asthmatic condition aggravated by recurrent bronchitis, the disabling condition was not one of the “occupational diseases” specified in Section 108. And, to come within the “catch-all” definition of Section 108(n), a claimant must not only prove that his condition is one to which he is exposed by reason of his employment and is causally related to the industry or occupation; he must also prove that the incidence of the condition is substantially greater in that industry or occupation than in the general population. Roofner v. Workmens Compensation Appeal Board, 38 Pa. Commonwealth Ct. 218, 392 A.2d 346 (1978); Scranton Garment Co. v. Workmen’s Compensation Appeal Board, 33 Pa. Commonwealth Ct. 190, 381 A.2d 210 (1977); Fruehauf Corp. v. Workmen’s Compensation Appeal Board, 31 Pa. Commonwealth Ct. 341, 376 A.2d 277 (1977).
+To be entitled to an award under Section 108(n) of the Act a claimant must prove all the elements of that Section. Scranton Garment Co., supra. Claimant McHale failed to prove, as was his burden, that his bronchitic asthma was of substantially greater incidence in his occupation or industry than in the general population. Finding that such proof was lacking the referee correctly denied benefits. In that regard, the decision of this Court in the Roofner case is especially applicable. There, we held that even if the claimant had contracted bronchitis through exposure to dust in the course of his employment, that did not satisfy the Section 108(n) requirement of proving that the .incidence of chronic bronchitis was substantially greater in the claimant’s occupation or industry than in the general population.
+For the reasons set forth, we affirm the order of the Board.
+Order
+And Now, the » 28th day of January, 1981, the order of the Workmen’s Compensation Appeal Board at No. A-76186, dated August 2, 1979, denying compensation to petitioner Gerard J. McHale, is affirmed.
+Act of June 2, 1915, P.L. 736, §§ 101 et seq., as amended, 77 P.S. §§ 1 et seq.
+Added by Section 1 of the Act of October 17, 1972, P.L. 930, as amended, 77 P.S. §27.1.
+77 P.S. §27.1(n).
