@@ -1,0 +1,20 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "133"
+decided: "1982-09-17"
+citations: ["305 Pa. Super. 627", "450 A.2d 1067"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before BECK, WATKINS and HOFFMAN, JJ."]
+parties: ["Commonwealth v. Martin, Appellant."]
+source_url: "https://static.case.law/pa-super/305/cases/0627-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 200303
+---
+
+# Commonwealth v. Martin
+
+## Majority
+
+Order affirmed.
