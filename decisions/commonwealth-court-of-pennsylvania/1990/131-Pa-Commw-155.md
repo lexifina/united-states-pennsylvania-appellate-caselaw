@@ -1,0 +1,42 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+decided: "1990-02-05"
+citations: ["131 Pa. Commw. 155", "569 A.2d 1008"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DOYLE and McGINLEY, JJ., and BARBIERI, Senior Judge."]
+parties: ["Edgar Kerr LUCKEY, Jr., Appellant, v. COMMONWEALTH of Pennsylvania, Appellee."]
+source_url: "https://static.case.law/pa-commw/131/cases/0155-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1399157
+cites_cases: ["384 U.S. 436", "449 A.2d 862", "480 A.2d 388", "514 A.2d 954", "521 Pa. 242", "68 Pa.Commonwealth Ct. 541", "85 Pa. Commonwealth Ct. 38"]
+---
+
+# Luckey v. Commonwealth
+
+## Majority (DOYLE, Judge.)
+
+DOYLE, Judge.
+This is an appeal by Edgar Kerr Luckey (Licensee) from an order of the Court of Common Pleas of Beaver County which dismissed Licensee’s appeal from the Department of Transportation’s suspension of his license and affirmed Licensee’s suspension for a period of one year for refusal to submit to a breathalyzer test pursuant to Section 1547(b) of the Vehicle Code, 75 Pa.C.S. § 1547(b).
+The trial court found that on January 5, 1989 Licensee ran through a red light, passing a police officer stopped at the light. The officer pulled Licensee over and asked him for identification, which he did not have. The officer noticed Licensee’s slurred speech and asked him to perform some field sobriety tests, which he performed unsatisfactorily.
+The officer placed Licensee under arrest for driving under the influence, placed him in the back of the police car, requested that Licensee take a blood test and explained to him the consequences of refusing to do so. Licensee refused and the officer again made the request and explained the consequences and Licensee refused a second time.
+The officer then transported Licensee to the police station in order to contact someone to pick up Licensee. At this point in time, Licensee asked that his attorney be contacted and when the police officer was unsuccessful in reaching him, he requested that another attorney be contacted. Licensee was given his Miranda warnings after these calls were made. When the latter attorney arrived at the police station, he asked the arresting officer if it was too late for Licensee to take a blood alcohol test. The officer informed the attorney it was too late, then Licensee and his attorney left the station. Licensee’s license was then suspended for failing to submit to chemical testing.
+In cases involving the suspension of a license for refusal to submit to a breathalyzer test, the Commonwealth is required to prove four elements: (1) the licensee was placed under arrest for driving under the influence; (2) he was requested to submit to a chemical testing; (3) he was informed that refusal to submit to such testing would result in a suspension of his operating privileges; and (4) he refused. Department of Transportation, Bureau of Driver Incensing v. Iannitti, 100 Pa.Commonwealth Gt. 239, 514 A.2d 954 (1986).
+Once the Commonwealth has proven these elements the burden shifts to the licensee to prove by competent evidence that he was unable to make a knowing and conscious refusal. Schnitzer v. Commonwealth, 85 Pa. Commonwealth Ct. 38, 480 A.2d 388 (1984). Whether a licensee has satisfied this burden is a factual question to be determined by the trial court. Waigand v. Commonwealth, 68 Pa.Commonwealth Ct. 541, 449 A.2d 862 (1982). Questions of credibility and conflicts in evidence are for the trial court to resolve. Department of Transportation, Bureau of Traffic Safety v. O’Connell, 521 Pa. 242, 555 A.2d 873 (1989). Our scope of review is limited to determining whether the findings of fact of the trial court are supported by substantial evidence and whether the trial court committed an error of law or an abuse of discretion in reaching its decision. Id.
+In the present case, the issue before us is whether the refusal by Licensee was a knowing one. Licensee argues that the arresting officer was required to inform Licensee that he had no right to speak to his attorney before deciding whether to submit to the blood alcohol test. He cites as support for this contention the recent Supreme Court decision, O’Connell. In O’Connell, the licensee failed a field sobriety test, was arrested and immediately advised of his Miranda rights. Upon arrival at the police station he was given his Miranda rights again in written form. After being given his Miranda rights, he was asked to submit to a breathalyzer test, which he refused to do. The licensee argued that he was confused as to his rights because the request to take the breathalyzer test “came hot on the heels” of the Miranda warning. O’Connell, 521 Pa. at 250, 555 A.2d at 876. Specifically, O’Connell argued that when he exercised his right to speak with an attorney, the police officer’s immediate response was to request that he submit to a breathalyzer test and such action confused him.
+The Supreme Court granted the petition for allowance of appeal in O’Connell:
+to give guidance in the troublesome situation presented in cases such as this one, where a person is arrested for a crime, read Miranda rights, and is then, told to submit to a breathalyzer test, but is not told that his right to see an attorney does not extend to taking this test.
+Id., 521 Pa. at 247-48, 555 A.2d at 875 (emphasis added). In effectuating its goal to reduce the confusion surrounding the right to counsel before taking a breathalyzer test, the Court held:
+where an arrestee requests to speak to or call an attorney ... when requested to take a breathalyzer test ... in addition to telling an arrestee that his license will be suspended for one year if he refuses to take a breathalyzer test, the police [must] instruct the arrestee that such rights are inapplicable to the breathalyzer test and that the arrestee does not have the right to consult with an attorney or anyone else prior to taking the test.
+Id., 521 Pa. at 252, 555 A.2d at 878 (emphasis added). This holding presupposes that the order of events is that the Miranda warnings were given prior to the request to submit to testing and that there was confusion on the licensee’s part regarding his right to refuse to take the test until he has at least spoken to his attorney.
+The present case, however, is factually distinguishable from O’Connell. The order of events required to “activate” the O’Connell rule is not present here. Unlike O’Connell, here Licensee was arrested for driving under the influence; he was requested to submit to a breathalyzer test; he next refused to submit to the test; he then requested the police contact his attorney for him; and finally, he was read his Miranda rights. Accordingly, there was no possible way Licensee could have been confused over his right to confer with counsel before he refused the test.
+Although there is conflicting testimony as to when Licensee requested permission to call his attorney, the trial court accepted as credible the police officer’s testimony that both the request and the Miranda warning occurred subsequent to the request to submit to chemical testing. Upon a comprehensive review of the record, we conclude that there exists sufficient evidence in tbe record to support the trial court’s findings. The Commonwealth therefore satisfied its burden, and since Licensee did not request his attorney until after he refused to take the breathalyzer test, we perceive no error by the trial court in finding O’Connell to be distinguishable and, therefore, inapplicable.
+Accordingly, for reasons set forth herein, the order of the trial court is affirmed.
+ORDER
+NOW, February 5, 1990, the order of the Court of Common Pleas of Beaver County in the above-captioned matter is hereby affirmed.
+. 75 Pa.C.S. § 1547(b) reads in pertinent part:
+(b) Suspension for refusal.—
+(1) If any person placed under arrest for a violation of Section 3731 (relating to driving under influence of alcohol or controlled substance) is requested to submit to chemical testing and refuses to do so ... the department shall suspend the operating privilege of the person for a period of 12 months.
+(2) It shall be the duty of the police officer to inform the person that the person’s operating privilege will be suspended upon refusal to submit to chemical testing.
+. Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966).
