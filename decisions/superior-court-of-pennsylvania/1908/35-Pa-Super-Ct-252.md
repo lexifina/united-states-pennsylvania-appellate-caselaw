@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 43"
+decided: "1908-02-28"
+citations: ["35 Pa. Super. Ct. 252"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady, Head and Beaver, JJ."]
+parties: ["Srolovitz v. Margulis, Appellant."]
+source_url: "https://static.case.law/pa-super/35/cases/0252-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 872748
+cites_cases: ["67 Pa. 436", "80 Pa. 430"]
+---
+
+# Srolovitz v. Margulis
+
+## Majority (Head, J.,)
+
+Opinion by
+Head, J.,
+The agreement for the sale of real estate, entered into by the plaintiff and defendant, contained the following covenants on the part of the latter, viz.: that he would “sell and convey” the property described; that “the premises are to be conveyed clear of all incumbrances and easements;” and that “.the title is to be such as will be insured by any Title Insurance Company of Philadelphia.” Upon the strength of these undertakings the plaintiff agreed to pay $5,200 and actually did pay the hand money called for, $500. It is not denied in the affidavit of defense that he further expended the sum of $150 in the manner averred in the statement. The defendant having, as is alleged, made default, and having been, at the time fixed in the agreement, and for some time afterwards, unable to convey the property as agreed on, the plaintiff rescinded and brought this action to recover the moneys paid and expended as set fprth.
+We think it clear enough that, under his contract, the plaintiff had the right to. demand and receive a marketable title to the ground he bought. He was under no obligation to take a title which, even if it might be finally determined to be good, was in a condition to involve him in litigation to establish or secure it: Swayne v. Lyon, 67 Pa. 436; Kostenbader v. Spotts, 80 Pa. 430.
+Now it appears from the statement filed, and it is not denied by the affidavit of defense, that at the time the contract was signed, and when the date therein fixed for settlement arrived, the situation was this: The legal title of record was in Dorfman and Krewchensky. They had entered into an agreement for its sale to one Lewis Comer, who had paid a portion of the purchase money. Comer, in turn, had made a like executory agreement with Margulis, the defendant, who had also paid a portion of the purchase money. There were thus two outstanding vested equitable estates intervening between Srolovitz and the holders of the legal title. The title was incumbered by the liens of three mortgages, viz: one to Sara Rowlands, due in 1909, $2,000; one to Amos Shallcross, due also in 1909, $1,000; and a third, due in 1906, to The Phoenix Building and Loan Association, $3,600. The last-mentioned mortgage embraced some additional property, but was not apportioned. The aggregate of these mortgages greatly exceeded the entire purchase money. The plaintiff further averred that the premises covered by the agreement had become subject to a drainage easement in favor of the adjoining property, by a continuous adverse user of the same for more than twenty-one years, and that The Real Estate Title Insurance and Trust Company of Philadelphia, had refused to insure the title as a marketable title. Unless the defendant, in his affidavit, fairly raised issues of fact as to these material averments, he had no right to subject the plaintiff to the delay and expense of a trial by jury.
+It was not denied that the mortgages existed, of record, in the number and amounts stated, but the defendant averred, on information, that payments had been made on the one to the building association, sufficient to reduce it to $1,200. The defendant did not undertake to say that these alleged payments were evidenced by any written receipts in his possession or subject to his control, and the affidavit, in this respect, would leave the plaintiff in the position of being obliged to accept a title, subject to a record incumbrance of $3,600, and rely upon matter in pais, of the most vague and indefinite character, to defend himself against the greater part of that record debt. We know of no principle of law that would cast such a heavy and dangerous burthen upon one who had undertaken to buy only a marketable title.
+The affidavit further sets up that plaintiff had endeavored to effect an arrangement with some or all of the mortgagees to carry the loans. If so, this was a matter to which defendant was no party and in which he had no interest. If such an arrangement had been finally completed it would have been in relief of the defendant’s covenant. But the plaintiff was at liberty to change his mind and abandon his efforts in that direction; when he did so the defendant could not complain, as he was then left precisely where he had placed himself by his voluntary act.
+It is not denied that the title insurance company refused to insure the title, nor is it averred in the affidavit that the defendant ever took any active or effective steps .to carry out his agreement. It is not stated that he ever executed a deed to divest his own equitable estate, or that Comer, who owned a like estate, was at any time ready, to convey. The averment in the statement, that the owners of the legal title were not present on the day of settlement, nor were any deeds from them forthcoming, is not denied in the affidavit, nor is the absence of the parties or their conveyances satisfactorily explained.
+Indeed, it would seem from an examination of the whole record, as if the defendant, after receiving the hand money, became entirely indifferent to the consummation of the contract. Under these circumstances, we think the plaintiff was well within his rights in rescinding, and the obligation of the defendant to pay the moneys here sued for would follow. The learned court below was therefore right in making absolute the rule for judgment.
+Judgment affirmed.
