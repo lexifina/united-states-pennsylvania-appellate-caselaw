@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 310 and 338 to 342"
+decided: "1959-03-18"
+citations: ["189 Pa. Super. 59"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Gunther, Wright, Ervin, and Watkins, JJ. (Woodside, J., absent)."]
+parties: ["Commonwealth v. Griffin, Appellant."]
+source_url: "https://static.case.law/pa-super/189/cases/0059-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 745032
+cites_cases: ["112 A. 2d 379", "13 A. 2d 396", "132 A. 2d 867", "138 A. 2d 232", "143 A. 2d 652", "185 Pa. Superior Ct. 563", "2 P. & W. 273", "29 Pa. 113", "32 A. 2d 757", "339 Pa. 271", "347 Pa. 510", "380 Pa. 532", "389 Pa. 569", "393 Pa. 404", "48 Stat. 1103", "57 Pa. 209"]
+---
+
+# Commonwealth v. Griffin
+
+## Majority (Hirt J.,)
+
+Opinion by
+Hirt J.,
+The defendant was convicted of possession and sale of heroin, on 31 indictments, which had been consolidated for trial. Motions for a new trial and in arrest of judgment were denied and the defendant was sentenced, to consecutive terms of imprisonment in the Philadelphia County. Prison of from,,2% to 5 years, on 6 of the bills; sentence-was suspended'on the remaining 25 convictions. ’ In this single appeal with the tacit consent of the district attorney, the defendant has questioned the validity of, the 6 judgments of sentence.
+At the trial there was testimony of Commonwealth ■witnesses,’ who were users of' heroin,' that they had bought the drug front the defendant oh' the’ dates' laid in the indictments. And in further proof of the unlawful' transactions there whs admitted in evidence, ovér objection, tape recordings ’ of telephone' conversations between drug addicts and the defendant in which the purchase of heroin' from him was negotiated.' These recordings of conversations by mearis of wire-tapping were made on various dates prior to May 24, 1957, which was the first day of defendant’s trial in these cases.' When this evidence was received, and on the date when the defendant was convicted of the charges by the jury, there was no prohibition in the law of Pennsylvania against the admission of relevant evidence obtained by the interception of telephonic conversations in a criminal prosecution. And its admissibility was not affected in any way by the illegality of the means by which it was obtained. That was the rule of Commonwealth v. Chaitt, 380 Pa. 532, 112 A. 2d 379. More recently, to wit: on July 1, 1958, the Supreme Court in Commonwealth v. Voci, 393 Pa. 404, 143 A. 2d 652 (affirming our decision in 185 Pa. Superior Ct. 563, 138 A. 2d 232), in effect held that the provision in §605 of the Federal Communications Act of June 19, 1934, 48 Stat. 1103, that: “. . . no person , . . shall intercept any communication and divulge” its contents, does not relate to conversations intercepted by means of tape recording by state agents who testify in a prosecution of a state crime in a state court. Contrary to appellant’s contention, this testimony of Commonwealth witnesses, obtained by wire tapping, did not violate the Fifth Amendment of the Constitution of the United States, at the time of its admission under the then settled law of this State.
+By Act of Assembly approved the 16th day of July, 1957, 15 PS §2443, wire tapping was outlawed and it was then made unlawful for any person to “intercept a communication by telephone . . . without permission of the parties to such communication.” In §2 it was specifically provided: “This act shall take effect in thirty days.” The defendant was tried and convicted before the date of this enactment and its approval by the Governor, but was not sentenced until after its effective date. There is no merit in the appellant’s contention that the court was without authority to impose sentence after the statute forbidding the use of “wiretap” evidence, became effective.
+The invariable rule is that a statute operates prospectively unless the act specifically or otherwise, indicates a “clear and manifest intent of the legislature” to give it a retroactive effect. Creighan v. Pittsburgh, 389 Pa. 569, 132 A. 2d 867; Com. ex rel. Greenawalt v. Greenawalt, 347 Pa. 510, 32 A. 2d 757; Painter v. B. & O. R. R. Co., 339 Pa. 271, 13 A. 2d 396. in Taylor v. Mitchell, 57 Pa. 209, our Supreme Court, in referring to this established rule, said: “There is no canon of construction better settled than this, that a statute shall always be interpreted so as to operate prospectively and not retrospectively, unless the language is so clear as to preclude all question as to the intention of the legislature . . .” This rule of law was given statutory restatement in The Statutory Construction Act of May 28, 1937, P. L. 1019, Art. IV, §56, 46 PS §556, which provides: “No law shall be construed to be retroactive unless clearly and manifestly so intended by the Legislature.” (Emphasis ours). This language is general, and has application to both criminal and civil legislation.
+The evidence secured by wire tapping was relevant and was admissible when received in evidence during the trial of these cases and at the time in May 1957 when the defendant was convicted. An Act which fixes a future day as to its effective date stamps its prospective character upon its face. Dewart v. Purdy, 29 Pa. 113. Cf. Shultze v. Diehl, 2 P. & W. 273. The Act of July 16, 1957, supra, applies to proof of criminal acts and does not relate in any way to the sentence of a defendant, after conviction, on evidence competent at the time of trial.
+Judgments of sentence affirmed.
