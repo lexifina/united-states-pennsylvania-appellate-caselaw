@@ -1,0 +1,41 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1113 C.D. 1974"
+decided: "1975-03-26"
+citations: ["18 Pa. Commw. 160"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Kramer, Mencer, Rogers and Blatt. Judge Wilkinson, Jr. did not participate."]
+parties: ["Commonwealth of Pennsylvania, Department of Transportation, Appellant, v. Commonwealth of Pennsylvania, Pennsylvania Public Utility Commission, Appellee, and County of Allegheny, Intervening Appellee."]
+source_url: "https://static.case.law/pa-commw/18/cases/0160-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1865661
+cites_cases: ["12 Pa. Commonwealth Ct. 5", "124 A. 2d 685", "181 Pa. Superior Ct. 343", "2 Pa. Commonwealth Ct. 396", "278 A. 2d 188", "315 A. 2d 889"]
+---
+
+# Commonwealth v. Commonwealth
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+This is an appeal from an order of the Pennsylvania Public Utility Commission (Commission) allocating the costs of the repair and restoration of the bridge structure carrying State Highway Route 736 Extension over Thompson Run in the City of Duquesne, Allegheny County, and directing the Pennsylvania Department of Transportation (Department) to perform maintenance on the crossing and approaches thereto in the future.
+This case had its origin in March of 1970, at which time the Commission issued a telegram order directing that the bridge in question be closed to all vehicles weighing in excess of five tons, and that an investigation be made by the Department to determine the extent of repairs necessary to restore the bridge to current highway loading. On June 1, 1970, (after two field conferences had been held, the Department had been directed to and had prepared a detailed plan of necessary repairs, and the Commission had instituted an investigation into the use and safety of the bridge structure) the Commission issued an order directing the Department, at its initial cost and expense, to furnish all material and do all work necessary to effect full restoration and repair of the structure in accordance with the Department’s plan. The Commission directed further that all costs by any of the parties be subject to allocation by the Commission after a future hearing to be held following completion of the project.
+The Department completed all work on the project on April 8, 1971. Two hearings were then held on the allocation of costs, after which the Commission issued an order dated March 5, 1974, which directed inter alia:
+“1. That Department of Transportation, at its initial cost and expense, furnish all material and do all work necessary to effect repair and restoration of the bridge structure carrying State Highway Route 736 Extension over and above the tracks of Union Railroad Company, and over Thompson Run, in the city of Duquesne, Allegheny County, to permit current highway loading, in accordance with the plan approved in numbered Paragraph 2 of our order issued June 1, 1970 in this proceeding.
+“8. That County of Allegheny pay Department of Transportation, when and as certified by Pennsylvania Public Utility Commission, a sum or sums of money equal to 30 percent of the actual cost of material furnished and work performed by the department, in compliance with numbered Paragraph 1 of this order.
+“9. That City of Duquesne pay Department of Transportation, when and as certified by Pennsylvania Public Utility Commission, a sum or sums of money equal to 10 percent of the actual cost of material furnished and work performed by the department, in compliance with numbered Paragraph 1 of this order.
+“13. That upon completion of the repairs to the crossing structure and its opening to public use, Department of Transportation, at its sole cost and expense, furnish all material and do all work necessary thereafter to maintain the remainder of the crossing, including the substructure and superstructure of the bridge carrying State Highway Route 736 Extension above the tracks of the railroad company and over Thompson Run, and the highway approaches thereto.”
+On March 26, 1974, the Department filed a petition requesting a modification of paragraphs 8, 9 and 13 of the Commission’s order. This petition was denied on July 12, 1974, and the Department then appealed to this Court.
+Our scope of review in this type of case is governed by Section 1107 of the Public Utility Law. This section provides that we may not vacate or set aside the Commission’s order, either in whole or in part, except for error of law or lack of evidence to support the finding, determination or order of the Commission, or violation of Constitution rights. Moreover, as we stated in Erie Lackawanna Railway Company v. Pennsylvania Public Utility Commission, 2 Pa. Commonwealth Ct. 396, 399, 278 A. 2d 188, 190 (1971), “[W]e may not exercise our independent judgment on the record. ... If there is substantial evidence in support of the order of the Commission, we may not set it aside.” (Citations omitted.)
+The Department argues, inter alia, that there is insufficient evidence in the record to support paragraphs 1, 8, 9 and 13 of the Commission’s order. Our review of the Commission’s order, however, convinces us that it is impossible for us to determine the merits of this argument since the Commission has failed to make any findings in support of its specific directions in paragraphs 1, 8, 9 and 13. Nowhere in the Commission’s order are there any findings in support of the conclusions which it reaches in paragraphs 1, 8, 9 and 13 relative to who shall bear the costs of the repairs to the bridge structure and who shall maintain the structure in the future.
+Section 1005 of the Public Utility Law, 66 P.S. §1395, provides:
+“After the conclusion of the hearing, the commission shall make and file its findings and order with its opinion, if any. Its findings shall be in sufficient detail to enable the court, on appeal, to determine the controverted question presented by the proceeding, and whether proper weight was given to the evidence.”
+While it is true that there is a line of cases stating that this section does not require specific findings when these would not be helpful to the appellate court (See Pennsylvania Railroad Company v. Pennsylvania Public Utility Commission, 181 Pa. Superior Ct. 343, 124 A. 2d 685 (1956)), we conclude that specific findings in the present case would not only be helpful but are necessary for us to perform a meaningful review of the Commission’s order.
+This case is governed by our recent case of Morgan Drive Away, Inc. v. Pennsylvania Public Utility Commission, 12 Pa. Commonwealth Ct. 5, 315 A. 2d 889 (1974). Although Morgan was a motor carrier certificate case, its reasoning is equally applicable to the present case. As in Morgan, the Commission’s order consisted basically of only a summarization of the testimony of the witnesses and its conclusions. Likewise, as in Morgan, we must conclude that we are unable to determine the findings of fact upon which the Commission based its conclusions. Therefore, we find that the lack of detailed findings in support of the Commission’s conclusions in paragraphs 1, 8, 9 and 13 of its order makes it impossible for us to determine the question raised here by the Department.
+We, therefore, issue the following
+Order
+And Now, this 26th day of March, 1975, the order of the Pennsylvania Public Utility Commission is vacated and this matter is remanded to the Commission for the sole purpose of preparing, executing and entering a new order within sixty (60) days of the date hereof, setting forth the specific findings of fact upon which it based the conclusions in paragraphs 1, 8, 9 and 13 of its order dated March 5, 1974.
+. The other parties involved in this litigation are: Union Railroad Company, City of Duquesne, County of Allegheny, The Bell Telephone Company of Pennsylvania, Carnegie Natural Gas Company, Equitable Gas Company and Keystone Pipeline Company. Only the Department has appealed from the Commission’s final order.
+. Act of May 28, 1937, P.L. 1053, art. XI, as amended, 66 P.S. §1437.
