@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "03229"
+decided: "1986-05-23"
+citations: ["353 Pa. Super. 194", "509 A.2d 402"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before BROSKY, HESTER and ROBERTS, JJ."]
+parties: ["Dorothy A. MILLER v. Cecil R. MILLER, Appellant."]
+source_url: "https://static.case.law/pa-super/353/cases/0194-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 569813
+cites_cases: ["227 Pa.Super. 423", "323 A.2d 29", "329 Pa.Super. 434", "339 Pa.Super. 523", "339 Pa.Super. 92", "505 Pa. 462"]
+---
+
+# Miller v. Miller
+
+## Majority (HESTER, Judge:)
+
+HESTER, Judge:
+This is an appeal from an order of support entered on November 25, 1985. Appellant, father of a son who is the subject of this litigation, was ordered to pay $300 per month from June 14, 1984, for his son’s college education. Alleging several counts of error by the lower court, appellant now seeks relief. For the ensuing reasons, we reverse.
+Appellant is a veterinarian employed by Smith Kline. Appellee, his ex-wife, is employed by AMP Products. Their son, Scott, for whom appellee sought support, graduated from high school and became emancipated in June of 1984. At that point, appellant discontinued the support payments required by an earlier support order. Appellee thereafter filed a petition seeking support for Scott’s college education. The Court of Common Pleas of Chester County issued an order on September 13, 1985 dismissing the claim for support for Scott without prejudice. Oral argument was heard following a grant of reconsideration, and, on November 25, 1985, the order was entered which is before us today. That order provided in pertinent part “[f]rom June 14, 1984, [appellant] shall pay $300.00 per month for Scott’s education expenses.”
+Appellant initially challenges the order by contending that the trial court erred in its finding that appellant had net monthly earnings of $3,972.00. Second, he argues that the court erred in a) failing to consider Scott’s ability to contribute to his own education, and b) failing to require any contribution by appellee, thus holding appellant solely responsible for the cost of Scott’s education. Finally, appellant asserts that the court erred by not crediting appellant with direct payments of $160 per month made to Scott.
+In the first issue, appellant argues that the trial court failed to reduce his net monthly income by the amount of money paid to appellee as alimony. Pursuant to an agreement between the parties, signed on November 23, 1983, appellant was to pay appellee $1,000 per month for thirty-six months. Contrary to appellant’s contention, in the trial court’s findings of fact, it did reduce appellant’s monthly income by the $1,000 alimony payment in reaching a net figure. However, appellant further argues that the monthly figure employed by the court is in error. Since the trial court failed to recite the figures used in reaching its conclusion, we must require that on remand, a complete statement of the figures relied upon by the court be entered in the record.
+Appellant’s second argument also contains merit. Despite uncontradicted testimony that Scott earned $2,363.93 in 1984, the court failed to consider any contribution by the child to his education. It is well established that a parent who has sufficient assets and earning capability to furnish support without undue hardship for a child’s college education is charged with the duty to do so. Sutliff v. Sutliff 339 Pa.Super. 523, 489 A.2d 764 (1985). It is concomitantly true that the independent resources of a college-age child may be considered in determining the child’s need for support. Id., citing DeVergilius v. DeVergilius, 329 Pa.Super. 434, 478 A.2d 866 (1984). See also Commonwealth ex rel. Platt v. Platt, 227 Pa.Super. 423, 323 A.2d 29 (1974). That is not to say that a child must always contribute as much as possible to the payment of his or her educational expenses. Clearly, if a parent can meet the support needs of a college-age child with ease, a court is free to impose a complete obligation. In the case at bar, however, no mention was made of Scott’s potential contribution or how the court viewed that factor in light of his parents’ financial circumstances. This was error.
+Similarly, the court’s conclusory statement that to impose the sole obligation upon appellant created no undue hardship fails to clarify for this court whether appellee’s ability to contribute to her son’s education in view of her expenses was considered. In reviewing a decision to amend support, we must be presented with evidence that the court weighed the financial circumstances of both parents and evaluated their ability to contribute support in light of their individual expenses. A trial court is not permitted to disregard the reasonable living expenses of a parent in awarding support. Commonwealth ex rel. Loring v. Loring, 339 Pa.Super. 92, 488 A.2d 324 (1985). To do so constitutes an abuse of discretion. The record contains no evidence that the court considered appellant’s expenses or appellee’s ability to contribute. In the absence of those facts, we cannot conclude there was no abuse of discretion.
+Finally, the trial court failed to consider the contribution made by appellant directly to Scott as detailed at the hearing. It is clear that some portion of a total support obligation may be fulfilled by the provision of support directly to a child. Melzer v. Witsberger, 505 Pa. 462, 480 A.2d 991 (1984). Appellant must receive credit for payments made to Scott since June, 1984, except for those contributions which have previously been designated as gifts. To ignore this means of providing support to an emancipated child was likewise error.
+For the above reasons, we reverse the order of the court below, and remand for proceedings consistent with this opinion. Jurisdiction is relinquished.
+. Appellee informed this court by letter dated March 3, 1986 that she would not be filing a brief on this matter.
