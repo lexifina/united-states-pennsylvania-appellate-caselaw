@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 75"
+decided: "1949-07-15"
+citations: ["165 Pa. Super. 316"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, Arnold and Fine, JJ. (Ross, J., absent. )"]
+parties: ["Hartmann, Appellant, v. Commissioners of Abington Township et al."]
+source_url: "https://static.case.law/pa-super/165/cases/0316-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 467304
+---
+
+# Hartmann v. Commissioners
+
+## Majority (Arnold, J.,)
+
+Opinion by
+Arnold, J.,
+In this workmen’s compensation case the claimant was severely scalded while acting as a volunteer fireman for the defendant municipality, and suffered a total disability for some five weeks. He was in business for himself as a roofer and tinner, and was not “employed” by anyone nor did he receive “wages” from anyone. He, of course, received no wages from defendant for his services as a volunteer fireman. The question involved is how the workmen’s compensation should be measured.
+The difficulty arises from the rather inept way in which the amendment of 1941, P. L. 222, 77 PS §22a, is drawn. As far as material this amendment provides: “In addition to those persons included within the definition of the word ‘employe’ as defined in section one hundred and four of the act, [as amended and reenacted] . . . , there shall be included all members of volunteer fire companies ... of the various cities, boroughs, ... and townships, who shall be and are hereby declared to be ‘employes’ of such . . . [municipalities] for all the purposes of said act, and shall be entitled to receive compensation in case of injuries received while actually engaged as firemen or while going to or returning from any fire . . .” (Italics supplied).
+By this amendment a volunteer fireman was declared to be an employe of the municipality, although no wages or compensation are paid by the. municipality. Obviously, his workmen’s compensation cannot be measured by any wage derived from the municipality.
+It is plain that the Legislature intended that he should receive the compensation, but the amendment set up no measuring stick therefor. Section 309 of the Act provided that all “wages” earned under concurrent contracts with two or more employers shall be considered as if earned from the employer liable for compensation. This has been utilized where a claimant volunteer fireman earned wages from some other employer. This is fictitious, for a thing can only “concur” with another thing. Thus, there can be no “concurrent” wages where only one wage is earned, and nothing (the unpaid services of a volunteer fireman) is added.
+The Act must be construed so as to bring some kind of order out of the confusion thus created. We start with the declared intention of the Legislature that a volunteer fireman injured while fighting a fire should receive workmen’s compensation. That much is clear.
+Under the various provisions of the Workmen’s Compensation Act, certain persons injured in the course of their Avork do not receive compensation, e. g., the owner of one’s own business, the executive of a corporation, casual employes and the like. Certainly the Legislature showed, by its declaration in the 1941 amendment, that these Avere not to be excluded from compensation if injured while acting as volunteer firemen. They were to be compensated in part for their loss.
+Section 306(a), as amended, provides that where an injured employe receives “wages” of less than $10.00 per week he shall receive the full amount.of such wages as compensation, but in no event less than $5.00 per week. Thus the Legislature under that section measured the workmen’s compensation by wages and the five dollars minimum compensation was related only to those whose wages were less than $5.00 per week. That section cannot possibly provide the measure of this claimant’s workmen’s compensation, for he received no wages from the municipality nor any wages in private employment.
+The only way to give effect to the clear legislative intent is to so construe the Act that the workmen’s compensation of a volunteer fireman shall be the proper statutory proportion of the loss which he sustains in his private or personal work. If he is a wage earner the deprivation of his wage is his loss, and the Act provides a percentage of that loss as his compensation. If he is the owner of a business, his loss is not necessarily the amount which the business returns to him, for a portion of that return might be derived from capital. As to him the only available measure or yardstick of the amount of workmen’s compensation which he shall receive is the value of his work or services, — that is, what would have to be paid someone to perform his work. If this claimant and his employe served as volunteer firemen and both were injured while acting in such capacity, the construction given by the court below would relegate the employer to $5.00 per week and give the employe the maximum of $20.00 per week, — a result which could hardly have been intended by the Legislature.
+The board determined the amount of the instant claimant’s compensation on the basis of the claimant’s agreed “weekly earnings,” which were over $30.00 per week. This was technically wrong but probably did the defendant no harm, because it is quite evident that if the claimant had employed somebody to perform the work that he did, it would have cost him $30.00 per week. The court below therefore erred in reversing the board and fixing the compensation at $5.00 per week.
+The judgment is reversed and the record remanded to the court below with directions to remit the same to the Workmen’s Compensation Board, with instructions to determine, from evidence taken, what weekly wage the claimant would have to pay one to perform the same work which the claimant performed when engaged in his own business of tinner and roofer; and when such amount is fixed, to enter an award in accordance with this opinion.
+It might be significant that the opinion of the court below denying any but minimum compensation was filed November 10, 1948. At the session of the Legislature of 1949 it promptly provided that the test of the amount of compensation was the loss of earnings of a self employer, and that such self employer was not relegated merely to minimum compensation. This act, No. 117, was approved by the Governor on April 18, 1949.
