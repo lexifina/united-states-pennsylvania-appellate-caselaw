@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+decided: "1917-07-13"
+citations: ["68 Pa. Super. 224"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlad-y, P. J., Porter, Henderson, Head, Kephart, Trexler and Williams, JJ."]
+parties: ["Strang’s Estate."]
+source_url: "https://static.case.law/pa-super/68/cases/0224-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 630901
+cites_cases: ["110 Pa. 319", "156 Pa. 600"]
+---
+
+# Strang's Estate
+
+## Majority (Kepiiart, J.,)
+
+Opinion by
+Kepiiart, J.,
+This is an appeal from an adjudication in the estate of Ann Strang. It is not necessary to comment on the several complications that arose in the settlement of this estate and the estate of the husband, James Strang. The question presented by the argument narrows down to one of gift. It was shown by the accountant that prior to the death of his mother, Ann Strang, she had given him a check for $1,015.65. One-half was to be his own property and the other half was to be used to pay the debts and funeral expenses, and if any remained it was to be divided among the heirs. The reason for the gift was that this son was an epileptic, and both father and mother were solicitous for his future. There was no evidence that either of these persons was incompetent to make a gift, nor of any acts which raised a suspicion of fraud or undue influence. The capacity of the donor will be presumed, and the fairness of the transaction is shown by the fact that the father, mother and this son lived together, and the son contributed to the support of the parents. In the absence of evidence tending to show incompetence, incapacity, fraud or undue influence, the burden rests on the contestants of the gift. Gifts are prima facie good and it requires something more than a mere relation of parent and child to nullify them, or to impose on the donee the burden of showing that they are free from any taint of fraud or undue influence: Worrall’s App., 110 Pa. 319. It is natural for parents to assist their children, and if they do so by making gifts to them which are, under the circumstances, reasonable, no presumption of incapacity arises. In these cases the natural solicitude of the donor for a son suffering from this affliction is corroborative of the positive testimony that a gift was made: Yeakel v. McAtee, 156 Pa. 600-611. The fund in dispute arose from a loan, payable to father and mother jointly, the father believing he owned the money bequeathed one-half of it to accountant but died before the money had been paid. It was then the property of the testatrix by right of survivorship; but there is nothing to preclude the mother from regarding it as being partly the accountant’s property under the father’s will, and there is nothing to prevent the children from considering it as being the father’s money, half of which had been given to the accountant. The evidence concerning these matters was corroborative of the testimony showing that the check was in the nature of a gift. It was shown by statements from the bank’s books that the money was before her death actually taken from the mother’s account and deposited to the personal credit of this accountant. This certainly stamped the áffair as a completed transaction, and without other evidence, .would show a valid gift. To show that the transaction was not a gift but that the money was given to the accountant for the purpose of holding until after her death, and then to be distributed among the heirs, the testimony of Robert Strang, one of the brothers, was relied on; but in its most favorable aspect this testimony does not materially contradict appellant’s testimony. Robert does not undertake to say that he was to get any part of this money, nor attempt to explain any division that might be made among the heirs. The testimony of Mr. Stevenson, attorney for the parents for a number of years, details the conversations in relation to the check. It corroborates the appellant’s testimony. He was a competent witness. While the inventory Avas prima facie evidence, we do not consider it binding. It does not preclude this appellant from asserting this claim, and in view of all of the evidence submitted, it is clear that there was a mistake in preparing the inventory.
+We are satisfied that the court Avas in error in directing the account and to distribute the full amount received on the Hallam bond and mortgage. He should have been required to account for one-half of that amount. The item of interest, $33.44, was an error, and would have been corrected had attention been called to it. It can now be done. The commission of five per cent, on the entire sum should be restated.
+The decree is reversed and it is directed that the account be restated and distribution made in accordance with this opinion.
