@@ -1,0 +1,58 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 30 C.D. 1978"
+decided: "1979-08-14"
+citations: ["45 Pa. Commw. 80"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Wilkinson, Jr., Mencer, Rogers and MacPhail. Judges Blatt, DiSalle and Craig did not participate."]
+parties: ["City of Pittsburgh and Urban Redevelopment Authority of Pittsburgh, Petitioners v. Pennsylvania Public Utility Commission, Department of Transportation, Pittway Corporation and Duquesne Light Company, Respondents."]
+source_url: "https://static.case.law/pa-commw/45/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1900640
+cites_cases: ["14 A.2d 882", "140 Pa. Superior Ct. 569", "145 A.2d 172", "21 Pa. Commonwealth Ct. 106", "241 Pa. Superior Ct. 517", "296 A.2d 804", "343 A.2d 371", "393 Pa. 639", "449 Pa. 402"]
+---
+
+# City of Pittsburgh v. Pennsylvania Public Utility Commission
+
+## Majority (Judge Crumlish, Jr.,)
+
+Opinion by
+Judge Crumlish, Jr.,
+The City of Pittsburgh and Urban Envelopment Authority of Pittsburgh appeal from an order of the Pennsylvania Public Utility Commission which required the City to reimburse Duquesne Light Company and Pittsburgh Railways Company (PRC) for expenses incurred in relocation resulting from the construction of the Liberty-Crosstown Thoroughfare.
+In 1956 the City requested Commission approval to construct crossings where the proposed thoroughfare would cross street railway tracks of the PRC. Commission approval was granted on May 12, 1958, and PRC was ordered to relocate, as were all public utilities, which would interfere with construction. Hearings on the allocation of costs surrounding this redevelopment project were not completed until September 23, 1975. The Commission entered its final order on December 12, 1977, resulting in this appeal.
+City of Pittsburgh — Duquesne Light Company
+Pursuant to the Commission order of May 12,1958 and amendments thereto, Duquesne Light Company (Duquesne) was compelled to relocate its facilities in the construction area. Hearings on the allocation of costs for the relocation were completed September 23, 1975, and by final order tbe City was compelled to pay Duquesne 50% of tbe relocation costs. Tbe City requests reversal of tbis allocation and we reverse.
+Tbe City correctly argues tbat, prior to 1963, it was a well-settled policy of tbe law tbat non-transportation public utilities bear tbe expenses of relocating tbeir facilities when tbe relocation is brought about by governmental exercise of tbe police power sucb as in construction, relocation, alteration, protection or abolition of a highway-rail crossing. Delaware River Port Authority v. Pennsylvania Public Utility Commission, 393 Pa. 639, 145 A.2d 172 (1958).
+It is equally clear tbat on July 3, 1963, tbe legislature amended Section 411(a) of tbe Public Utility Law, thereby conferring specific authority to allocate sucb expenses.
+In its order dated December 12, 1977, tbe Commission stated:
+With respect to tbe 1963 amendment to Section 411 of tbe Public Utility Law, 66 P.S. §1181, whereby tbe legislature empowered tbe Commission to allocate relocation expenses incurred for non-carrier public utility facilities at or adjacent to a crossing site, tbis Commission need not be concerned with whether tbe actual relocation work commenced prior to tbe 1963 amendment. Tbe legislature clearly intended by tbe 1963 amendment to expand tbe scope of tbis Commission’s allocation power and imposed no restriction on tbis power by requiring tbe involved work to be initiated and completed after 1963. Accordingly, we hereby determine and conclude that this Commission has the power in this proceeding to allocate costs incurred for the alteration or relocation of fixed utility facilities located at or adjacent to the involved crossing.
+We would be applying the act retroactively were we to accept the Commission’s interpretation of the legislative grant of authority. That a retroactive application of the act was not intended is evidenced by the absence of language to that effect.
+Appellants counter that the Commission is merely applying the Act prospectively, in that the allocation of costs occurred after the amendment’s effective date. In the instant case, all events affecting substantive rights occurred prior to the amendment. The Commission had approved the project, the City commenced construction in reliance on the order at a time when they had no legal duty to incur non-transportation utility relocation expenses, the utility actually relocated and put its new facilities into service prior to the effective date of the amendment. The only event occurring post-amendment was the actual allocation of expenses by the Commission. Applying the statute to this factual situation would clearly be an unauthorized retroactive application.
+City of Pittsburgh — PRC
+I
+The Commission’s final order required the City to reimburse PRC $307,957.12, without prejudice to either party’s contractual rights, for relocation expenses incurred in removing and relocating track facilities pursuant to prior order. The City argues in effect that the Commission lacked jurisdiction to make this allocation and that, by so doing, it abrogated the pre-existing contractual rights of the parties. We disagree.
+Section 411(a) of the Public Utility Law provides in pertinent part:
+Such compensation, as well as the expense of such construction, relocation, alteration, protection, or abolition of any crossing, shall be borne and paid, as hereinafter provided, by the public utilities or municipal corporations concerned, or by the Commonwealth, in such proper proportions as the Commission may, after due notice and hearing, determine, unless such proportions are mutually agreed upon and paid by the interested parties. (Emphasis added.)
+“It has been held, therefore, that where the parties have (1) allocated the cost of such reconstruction between themselves by contract, and (2) have paid for the reconstruction in accordance with the terms of the contract, the PUC does not have the power to abrogate that contract by ordering one party to reimburse the other party in proportionate amounts contrary to those as provided in the contract. City of Philadelphia v. Pennsylvania Public Utility Commission, 449 Pa. 402, 296 A.2d 804 (1972).” Pennsylvania Public Utility Commission v. Southeastern Pennsylvania Transportation Authority, 21 Pa. Commonwealth Ct. 106, 109, 343 A.2d 371, 373 (1975). The record is devoid of evidence that either of the prerequisites which would bar Commission authority to allocate costs without prejudice is present.
+All expenditures made by PEC were from funds advanced by a third party and all parties, including PEC and the City, by agreement dated December 31, 1957, specifically agreed:
+(4) That the money being paid by Auditorium to Eailways pursuant to paragraph A(l) hereof will be applied by Eailways only to the payment of costs of relocation referred to in Paragraph D(5) hereof and that Auditorium will be reimbursed therefor by the party or parties ultimately determined to bear legal responsibility for such costs.
+The Commission order is clearly warranted and in line with Southeastern Pennsylvania Transportation Authority, supra.
+II
+The City next argues that even if the Commission could allocate costs without abrogating contracts, it could not assume jurisdiction over abandoned or unused crossings. This argument is premised on the contention that PEC’s president testified that some of the tracks or crossings which the City by ordinance ordered PEC to relocate were not in use at the time of the relocation. The City would unduly restrict the jurisdiction of the Commission.
+The Superior Court case of Jennings v. Pennsylvania Public Utility Commission, 140 Pa. Superior Ct. 569, 14 A.2d 882 (1940), relied upon by appellants, is not here applicable. In Jennings, supra, a railway company abandoned railway tracks after receiving permission to abandon by the state public utility authorities. The authority, some time later, ordered the railroad to remove its tracks but the Court reversed, reasoning that once the Commission gives permission to abandon and, when actually carried into effect, that it cannot rescind the permission to abandon. The instant facts do not concern abandoned rights of way since the Commission retains jurisdiction over a crossing until permission to abandon operation of the tracks is sought and granted by the Commission. The tracks involved were owned by an operating street railway company and their removal was a reasonable part of a single integrated project involving several crossings.
+City of Pittsburgh — PennDOT
+The City argues that the Commission erred by not ordering PennDOT to reimburse the City as per a prior agreement between the parties which reads:
+(B) The Commonwealth agrees
+2. That it will reimburse the City for any track relocation costs, solely attributable to the construction of the Wylie Avenue Bridge, which the City may be required to pay to the Pittsburgh Railways Company.
+Having previously discussed Commission authority to allocate costs without prejudice in the absence of mutual agreement as to the proportions of liability, we need merely point out that a pre-condition to the above quoted agreement is a determination of the costs solely attributable to the Wylie Avenue Bridge which the City has failed to show. The City may proceed with its contract claim in a proper forum as we find no error with the Commission’s order.
+Accordingly, we
+Order
+And Now, this 14th day of August, 1979, the order of the Pennsylvania Public Utility" Commission entered December 12, 1977, requiring the City of Pittsburgh to pay Duquesne Light Company a sum or sums of money equal to fifty (50%) percent of the cost the company incurred in relocating pursuant to Commission order is reversed. The order in all other respects is affirmed.
+The Commission approved the City’s planned crossings and ordered:
+That any relocation of, changes in, or removal of any adjacent structures, equipment, or other facilities of any public utility, other than Pittsburgh Railways Company, which may be required as incidental to the alteration, relocation or construction of the crossings herein ordered in A.83297 and C.16928, he made by said public utility in such a manner as will not interfere with the construction of the improvement.
+Act of May 28, 1937, P.L. 1053, as amended, 66 P.S. §1181. The former Public Utility Law has since been repealed by the Act of July 1, 1978, P.L. 598; a similar provision is now found in the Public Utility Code, 66 Pa. C.S. §2704.
+The Pennsylvania Supreme Court has stated it to be a fundamental rule of statutory construction that “statutes, other than those affecting procedural matters, must be construed prospectively except where the legislative intent that they shall act retroactively is so clear as to preclude all questions as to the intention of the legislature. . . . This principle has been promulgated as law by our legislature in 1 Pa. C.S. §1926. . . .” (Citations omitted.) Costa v. Lair, 241 Pa. Superior Ct. 517, 519, 363 A.2d 1313, 1314 (1976).
+The Commission’s order of December 12, 1977 included this finding which is supported by substantial evidence:
+32. The relocated facilities of Duquesne Light Company, in the vicinity of the entire improvement, were placed in service by June 22, 1961, according to the company witness.
