@@ -1,0 +1,39 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 124 C.D. 1982"
+decided: "1983-08-15"
+citations: ["76 Pa. Commw. 348"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Williams, Jr., Craig and MacPhail, sitting as a panel of three."]
+parties: ["Alice J. Lyman, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/76/cases/0348-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1311903
+cites_cases: ["407 A.2d 123", "408 A.2d 1178", "409 A.2d 1198", "425 A.2d 54", "426 A.2d 1245", "436 A.2d 1228", "442 A.2d 1232", "451 A.2d 1053", "47 Pa. Commonwealth Ct. 88", "48 Pa. Commonwealth Ct. 39", "48 Pa. Commonwealth Ct. 501", "56 Pa. Commonwealth Ct. 403", "57 Pa. Commonwealth Ct. 543", "62 Pa. Commonwealth Ct. 286", "65 Pa. Commonwealth Ct. 541", "69 Pa. Commonwealth Ct. 521"]
+---
+
+# Lyman v. Commonwealth, Unemployment Compensation Board of Review
+
+## Majority (Judge Craig,)
+
+Opinion by
+Judge Craig,
+Alice J. Lyman appeals from an order by the Unemployment Compensation Board of Review, which affirmed a referee’s decision denying benefits to the claimant under section 402.1 of the Unemployment Compensation Law, which bars an instructional employee in an educational institution from benefits for periods between successive academic years or terms “if such individual performs such services in the first of such academic years or terms and if there is a contract or a reasonable assurance that such individual will perform services in any such capacity for any educational institution in the second of such academic year s or terms. ” We affirm.
+Ms. Lyman was last employed by the school district of Philadelphia as a long-term substitute counselor on June 29, 1981, the last day of school before summer vacation. On May 14, 1981, Ms. Lyman had received a letter from .the school district informing her that she would be placed on the rolls as a per diem substitute teacher for the 1981-82 school year. The letter also stated :
+If you indicate that you are available for continued employment as a per diem substitute teacher, there is reasonable assurance that you will have the same opportunity to perform services for the School District of Philadelphia as in the previous year.
+Ms. Lyman testified that she completed the enclosed form indicating her availability.
+On June 29, 1981, Ms. Lyman received a second letter from the school district, confirming her new status as a per diem substitute, effective June 30, 1981, and directing her to report to her local district office in the fall.
+Ms. Lyman filed for unemployment compensation benefits for the weeks ending July 25 through August 22, 1981; the Office of Employment Security denied her claims on August 31, 1981. On October 14, 1981, the referee affirmed that decision, finding that Ms. Lyman “had no reason to believe that she would not be recalled and had reasonable assurance of returning to work.” The board adopted the referee’s decision in December of 1981.
+Ms. Lyman alleges that, because of a fiscal crisis in the Philadelphia public school system which led the board of education to adopt a budget calling for the elimination of 3,400 teaching positions and which led to a strike in September of 1981, the school district failed to provide her with classroom assignments in the fall. Thus, the claimant contends that as of October 14, .1981, the date of the referee’s decision, she no longer had a reasonable assurance of returning to work. Specifically, Ms. Lyman maintains that the referee and the board erred by failing to consider events in late summer and early fall which allegedly rendered her spring assurance of employment illusory.
+Ms. Lyman does not contend, however, that any events in the spring of 1981 — such as a prospect of widescale layoffs among full-time teachers — cast such doubt on the likelihood of future substitute teaching assignments that the school district’s offer in May constituted no real assurance of future employment. Cf. Louderback v. Unemployment Compensation Board of Review, 48 Pa. Commonwealth Ct. 501, 409 A.2d 1198 (1980) (lay-off of twenty-six regular full-time teachers at close of 1976-77 school year who would have priority over claimant for substitute teaching assignments is relevant, but not determinative, evidence of likelihood for continued employment) ; Bornstein v. Unemployment Compensation Board of Review, 69 Pa. Commonwealth Ct. 521, 451 A.2d 1053 (1982) (remand necessary to determine if, under per diem substitute rules, claimant had such low seniority that offer of work constituted no real assurance of future employment).
+Section 402.1 does not define the disqualifying concept of reasonable assurance of future work. Our court, however, has noted that “there must be some objective evidence of mutual commitment between the teacher and employer to recall the former” or evidence that “the teacher has a reasonable expectation of returning to employment in the next academic term.” Goralski v. Unemployment Compensation Board of Review, 48 Pa. Commonwealth Ct. 39, 41-42, 408 A.2d 1178, 1180 (1981). More than a “mere hope,” Langer v. Unemployment Compensation Board of Review, 47 Pa. Commonwealth Ct. 88, 407 A.2d 123 (1979), but less than a “guarantee,” Goralsld, reasonable assurance is a matter to be determined by the board based upon relevant facts. Neshaminy School District v. Unemployment Compensation Board of Review, 57 Pa. Commonwealth Ct. 543, 546, 426 A.2d 1245, 1247 (1981). In determining if reasonable assurance exists, we have considered a number of factors, including an offer to place the claimant on a substitute list and the acceptance of that offer. Id; Bitler v. Unemployment Compensation Board of Review, 56 Pa. Commonwealth Ct. 403, 425 A.2d 54 (1981).
+The school district offered to place Ms. Lyman on a substitute list, an offer which she accepted. Thus, the findings of the board are supported by substantial evidence. Goralski at 43, 408 A.2d at 1180. Moreover, as noted above, there is no evidence to suggest that in May of 1981, the school district’s assurance of continued employment was not in good faith; indeed, at the hearing, Ms. Lyman’s attorney acknowledged that the offer was made in good faith.
+Bather, with the benefit of hindsight, the claimant would have us evaluate the reasonableness of the school district’s assurance in light of events which occurred well after she received its May 1981 letter; this we cannot do.
+Accordingly, we affirm.
+Order
+Now, August 15, 1983, the order of the Unemployment Compensation Board of Review, No. B-201942, dated December 18,1981, is affirmed.
+As Judge Mencee observed in Haynes v. Unemployment Compensation Board of Review, 65 Pa. Commonwealth Ct. 541, 543, 442 A.2d 1232, 1233 (1982), the legislature passed section 402.1 to eliminate the payment of benefits to school employees during summer months and other regularly scheduled vacations, on the rationale that such employees are able to anticipate and prepare for these nonworking periods.
+For an account of this budgetary crisis and labor dispute, see President Judge Crumlish’s opinion in Philadelphia Federation of Teachers, Local No. 3 v. Thomas, 62 Pa. Commonwealth Ct. 286, 436 A.2d 1228 (1981).
+Ms. Lyman also contends that the Law entitles her to retroactive benefits because she presented herself for work at the beginning of the next academic year but was not permitted to resume work. Although Ms. Lyman, cites no authority to support her position, she may be referring to a portion of section 402.1(2) which the legislature repealed in 1977, entitling non-professional employees to such retroactive benefits.
