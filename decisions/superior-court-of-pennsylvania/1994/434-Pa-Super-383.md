@@ -1,0 +1,91 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "00350"
+decided: "1994-06-23"
+citations: ["434 Pa. Super. 383", "643 A.2d 694"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CAVANAUGH, WIEAND and SAYLOR, JJ.", "WIEAND, J., files a dissenting opinion."]
+parties: ["Ronald A. MILLER, Sr., Administrator of the Estate of Ronald A. Miller, Jr., Appellant, v. The BRASS RAIL TAVERN, INC., A Pennsylvania Corporation, and Thomas E. McMaster."]
+source_url: "https://static.case.law/pa-super/434/cases/0383-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 943105
+cites_cases: ["109 A. 218", "231 Pa.Super. 199", "265 Pa. 491", "280 Pa.Super. 278", "319 A.2d 914", "331 A.2d 892", "331 Pa.Super. 84", "338 So.2d 439", "338 So.2d 444", "338 So.2d 513", "339 Pa.Super. 403", "354 Pa.Super. 11", "360 Pa.Super. 366", "360 Pa.Super. 416", "367 Pa. 493", "367 Pa.Super. 600", "384 Pa.Super. 503", "399 Pa.Super. 9", "429 Pa.Super. 594", "457 Pa. 321", "472 Pa. 235", "480 A.2d 254", "516 Pa. 641", "519 Pa. 116", "520 Pa. 589", "527 Pa. 1", "527 Pa. 635", "533 A.2d 713", "551 A.2d 215", "592 A.2d 1302", "80 A.2d 734", "87 S.D. 196"]
+---
+
+# Miller v. Brass Rail Tavern, Inc.
+
+## Majority (CAVANAUGH, Judge:)
+
+CAVANAUGH, Judge:
+This appeal is from a judgment entered against appellant after a non-jury trial. Appellant represents the estate of his deceased son who died in a single car accident after an evening of drinking alcoholic beverages. Appellees are the corporate owner of a bar and its principal shareholder. The lower court found that appellant had not proven liability because he did not demonstrate a causal link between appellee’s negligence in serving the visibly intoxicated decedent and the occurrence of the accident.
+On appeal, appellant challenges the exclusion of the proffered testimony of the county coroner to establish the time of decedent’s death. No other evidence was offered to prove time of death. The lower court excluded the evidence for two reasons: (1) the coroner, Dean K. Wetzler, Jr., was not identified as an expert witness, merely as a fact witness, by appellant in pretrial discovery, and (2) appellant did not qualify Wetzler as an expert by establishing his competency to give an opinion on time of death.
+Whether a particular witness qualifies as an expert is a matter within the discretion of the trial court. Ruzzi v. Butler Petroleum Company, 527 Pa. 1, 10, 588 A.2d 1, 5 (1991). A decision on competency of an expert will not be reversed on appeal absent a clear abuse of discretion. Id. The witness must have a reasonable pretension to specialized knowledge on the subject under investigation. Id. If a witness possesses neither experience nor education in the subject matter under investigation, he should be found not qualified. Dierolf v. Slade, 399 Pa.Super. 9, 581 A.2d 649 (1990).
+Previous cases in which a coroner was allowed to testify concerning the time of a decedent’s death involved a coroner who was a physician. See, e.g., Commonwealth v. Lewis, 472 Pa. 235, 372 A.2d 399 (1977); Commonwealth v. Johnson, 265 Pa. 491, 109 A. 218 (1920). Appellant has cited none, nor are we aware of any, in which a lay coroner has been found qualified to render an opinion as to time of death.
+Nothing in the record indicated that Wetzler was a medical doctor or physician or that he had received any type of medical training. Appellant’s offer of proof concerning Wetzler’s qualifications to render expert testimony was as follows:
+Q. You’re a mortician, sir?
+A. I am a licensed funeral director in the Commonwealth, yes.
+Q. And you operate a funeral home in Mill Hall?
+A. I do.
+Q. And for how many years?
+A. Almost 22 years.
+Q. How many years have you been a licensed mortician?
+A. Twenty-seven.
+Q. You have an active practice or an active business in Mill Hall?
+A. Yes.
+Q. Are you also a Coroner of Clinton County?
+A. Yes, sir.
+Q. And for how many years have you been a Coroner?
+A. I am in my 15th year as Coroner.
+Q. Just tell us briefly what your duties are as Coroner.
+A. To investigate sudden and suspicious deaths, such as those which have occurred from homicide, suicide, motor vehicle fatalities, drownings, cave-ins, sudden infant deaths, and, obviously, natural deaths which have occurred suddenly without prior medical attendance.
+Q. And who notifies you in cases of these deaths where an investigation is necessary?
+A. Most frequently, Clinton County Communications Center. However, I have also received personal notifications directly from individuals to my office as well as direct notification by various hospitals.
+Q. And do you conduct your investigation in connection with the Pennsylvania State Police and other police departments?
+A. I do.
+Q. Do you furnish and fill out death certificates?
+A. I do.
+Q. Do you sign them?
+A. Yes.
+Q. Do you you sign them in your official capacity as Coroner?
+A. I do.
+Q. Do you make determination as to cause of death?
+A. I do.
+Q. And you fill that in on the Death Certificate?
+A. Yes.
+Q. And how long have you been doing that?
+A. Going on about fifteen, fourteen and a half years; in my fifteen years as Coroner.
+Q. And when you make that determination, you do it based on your findings from your investigation?
+A. That is correct.
+Q. And from your conferences with the various medical people involved?
+A. Correct.
+Q. Do you also make a determination as to the time of death?
+A. I do.
+Q. And how long have you been doing that?
+A. Fifteen years.
+Q. Sixteen years?
+A. Going on fifteen, yes.
+Q. And is that determination based upon your investigation and findings from your investigation?
+A. That is correct.
+Notes of Testimony, May 11, 1992 at 27-29.
+This testimony established that Wetzler was a licensed funeral director and elected county coroner. He testified that since becoming coroner fifteen years ago, he has determined the time of death in cases based upon investigations that include conversations -with medical personnel.
+We find that on the basis of the record before it, the lower court did not err in finding that Wetzler was not qualified to give an opinion on time of death. Appellant did not sustain his burden in showing that Wetzler’s education or experience was such that he had a responsible pretension to specialized knowledge in the area under investigation. Although he testified that he had determined time of death previously, he did not indicate the number of cases in which he had done so. He did not explain the methodology he used, his basis of knowledge, his investigative techniques, nor his background in this area of forensics. His credentials to render an opinion as to time of death were not established. The lower court did not err in excluding his testimony on this basis.
+Because we find the testimony was properly excluded on the ground of lack of competency, we do not reach the merits of the issue regarding the adequacy of appellant’s identification of Wetzler in pre-trial discovery.
+Judgment affirmed.
+WIEAND, J., files a dissenting opinion.
+. Based upon the provisions of the Dram Shop Act, 47 P.S. Sec. 4-493, 4-497.
+
+## Dissent (WIEAND, Judge,)
+
+WIEAND, Judge,
+dissenting:
+The issue in this appeal is whether one who has been a licensed mortician for 27 years and a county coroner for 15 years is competent to express an opinion regarding the time of death of an accident victim. The trial court disallowed such testimony, holding that only a physician can express an opinion as to the time of death. A majority of this court agrees. Because I would hold the trial court’s evidentiary ruling to be erroneous, I respectfully dissent.
+In Pennsylvania “[t]he standard of qualification [as an expert] is a liberal one: ‘If a witness has any reasonable pretension to specialized knowledge on the subject under investigation he may testify, and the weight to be given to his [testimony] is for the jury.’ ” Kuisis v. Baldwin-Lima-Hamilton Corp., 457 Pa. 321, 338, 319 A.2d 914, 924 (1974), quoting Moodie v. Westinghouse Elec. Corp., 367 Pa. 493, 501, 80 A.2d 734, 738-739 (1951). See also: Commonwealth v. Gonzalez, 519 Pa. 116, 128, 546 A.2d 26, 31 (1988); Lira v. Albert Einstein Med. Center, 384 Pa.Super. 503, 509, 559 A.2d 550, 552 (1989), allocatur denied, 527 Pa. 635, 592 A.2d 1302 (1990); McDaniel v. Merck, Sharp & Dohme, 367 Pa.Super. 600, 608, 533 A.2d 436, 440 (1986), allocatur denied, 520 Pa. 589, 551 A.2d 215 (1988); Gottfried v. American Can Co., 339 Pa.Super. 403, 411, 489 A.2d 222, 226 (1985); Packel & Poulin, Pennsylvania Evidence § 702.3. Although a witness must have some specialized knowledge of the subject about which he testifies, he need not have gained his knowledge from formal schooling. McDaniel v. Merck, Sharp & Dohme, supra at 608, 533 A.2d at 440; Commonwealth v. Ellis, 354 Pa.Super. 11, 19, 510 A.2d 1253, 1257 (1986); Gottfried v. American Can Co., supra at 403, 489 A.2d at 226; Packel & Poulin, Pennsylvania Evidence § 702.3. “‘An expert may be qualified in several different ways. An expert may acquire his knowledge through occupational, practical or other experimental training. He is not required to acquire his expertise through academic training.’ ” Commonwealth v. Bulling, 331 Pa.Super. 84, 106, 480 A.2d 254, 265 (1984) (emphasis omitted), quoting Commonwealth v. Daniels, 280 Pa.Super. 278, 287, 421 A.2d 721, 726 (1980). “[Expertise acquired by experience is expertise nonetheless.” Gottfried v. American Can Co., supra at 411, 489 A.2d at 226. See also: McDaniel v. Merck, Sharp & Dohme, supra at 608, 533 A.2d at 440.
+In Commonwealth v. Lewis, 472 Pa. 235, 372 A.2d 399 (1977) and Commonwealth v. Johnson, 265 Pa. 491, 109 A. 218 (1920), testimony regarding time of death was received from a coroner, but in both instances the coroners were also physicians. Although my research has disclosed no Pennsylvania decision in which a coroner, who was not also a physician, has testified to the time or cause of a decedent’s death, other jurisdictions have allowed such testimony. See: Hunter v. State, 338 So.2d 513, 514 (Ala.Cr.App.1976); Hoback v. State, 338 So.2d 439, 443 (Ala.Cr.App.1976), appeal denied, 338 So.2d 444 (Ala.1976); Engberg v. Ford Motor Co., 87 S.D. 196, 205 N.W.2d 104, 108 (1973).
+Moreover, in Simmons v. Mullen, 231 Pa.Super. 199, 331 A.2d 892 (1974), the Superior Court held that non-medical personnel, who are otherwise qualified to testify within a specialized area of medicine, are not to be excluded merely because they are not physicians. In that case a psychologist, who was not a medical practitioner, was permitted to give opinion testimony regarding organic brain disturbances. Similarly, in Commonwealth v. Bulling, supra, a police officer, who had no formal education in the field of chemistry or medicine, was held to be qualified as an expert in identifying drugs and other controlled substances because he had had several years of experience working in a laboratory and had performed numerous tests on controlled substances. In Commonwealth v. Gonzalez, supra, a police officer was permitted to give an opinion on the absorption rate of alcohol into the bloodstream, despite his lack of a medical background, where he had acquired knowledge on that subject from years of experience.
+In the instant case, I would hold that plaintiffs witness was qualified by experience to express an opinion as to the time of the decedent’s death. The witness’s duties as coroner had included investigations of numerous deaths and had required that he determine both the times and the causes of deaths for more than fifteen years. This practical experience, in my judgment, was sufficient to qualify him to render an opinion as to the time of death of plaintiffs decedent.
+I would also hold that it was an abuse of discretion to exclude the coroner’s testimony on grounds that the witness had not been identified as an expert witness in answers to interrogatories. The witness, in fact, had been identified as a fact witness in answers to other interrogatories, and defendants’ counsel was fully aware that plaintiff intended to call the coroner to testify to the circumstances surrounding the death of the decedent.
+A technical failure to comply with Pa.R.C.P. 4003.5 may be excused where there has been substantial compliance with the rule, where there has been no bad faith, and where there has been no prejudice to the defendant. Oelschlegel v. Mut. Real Estate Investment Trust, 429 Pa.Super. 594, 597-98, 633 A.2d 181, 183 (1993). See also: Dion v. Graduate Hosp. of the Univ. of Pa., 360 Pa.Super. 416, 428-429, 520 A.2d 876, 882-883 (1987). Where the witness is critical to the plaintiffs case and the defendant has not suffered prejudice, exclusion of an expert’s testimony for a technical failure to comply with a pretrial discovery rule, it has been held, constitutes an abuse of the trial court’s discretion. Linker v. Churnetski Transp., Inc., 360 Pa.Super. 366, 373-374, 520 A.2d 502, 505, allocatur denied, 516 Pa. 641, 533 A.2d 713 (1987).
+In the instant case, plaintiffs ability to prove a causal connection between his decedent’s death and the alleged negligence of defendants was impaired by his inability to establish the time of his decedent’s death. Defendants were aware that plaintiff intended to call the coroner as a witness to establish the circumstances of the decedent’s death; and, therefore, there was no danger of surprise or unfair prejudice by allowing the coroner to testify.
+Under all of these circumstances, therefore, I would hold that it was prejudicial error to disallow the coroner’s testimony. I would reverse and remand for a new trial.
