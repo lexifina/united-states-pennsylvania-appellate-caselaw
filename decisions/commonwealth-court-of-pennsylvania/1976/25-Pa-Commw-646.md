@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "309 C.D. 1976"
+decided: "1976-03-03"
+citations: ["25 Pa. Commw. 646"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["by Judge Blatt."]
+parties: ["In Re: Nomination Petition of Michael J. DeFino, of South Union Township, Fayette County, Pennsylvania."]
+source_url: "https://static.case.law/pa-commw/25/cases/0646-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1875279
+cites_cases: ["173 Pa. Superior Ct. 400", "257 A.2d 247", "435 Pa. 446", "98 A.2d 255"]
+---
+
+# In re Nomination Petition of DeFino
+
+## Majority (Judge Buatt,)
+
+Memorandum Opinion and Order by
+Judge Buatt,
+On February 24, 1976, Fred L. Lebder, a registered elector of the Democratic Party in the 22nd Congressional District of Pennsylvania, timely filed a petition to set aside the nomination petition of Michael J. De-Fino as a candidate for the office of Representative in Congress from the said District in the Democratic Primary election to be held on April 27, 1976. After notice to the candidate-respondent and the Secretary of the Commonwealth, a hearing was held on February 27, 1976 and the original nomination petition was presented for examination to the Court by the Secretary of the Commonwealth.
+The uncontested facts in this matter are: (1) that the nominating petition in question was comprised of four sheets of signatures purportedly those of qualified electors in the 22nd Congressional District, registered and enrolled as members of the Democratic Party; (2) that DeFino executed under oath the Affidavit of Circulator for all of the said sheets; and (3) that DeFino did not personally circulate two of the sheets of signatures.
+The sole issue presented is whether or not the two sheets of signatures, for which DeFino executed the Affidavits of Circulator, but for which he did not personally obtain the signatures, may be included in his nomination petition.
+Article IX, Section 909 of the Pennsylvania Election Code (Code), which relates to the affidavits of circulators of nomination petitions, provides, inter alia, that
+“[e]ach sheet shall have appended thereto the affidavit of the circulator of each sheet, setting forth— (a) that he or she is a qualified elector duly registered and enrolled as a member of the designated party of the State, or of the political district, as the case may be referred to in said petition . . . (b) his residence giving city, borough or township, with street and number, if any; (c) that the signers thereto signed with full knowledge of the contents of the petition; (d) that their respective residences are correctly stated therein; (e) that they all reside in the county named in the affidavit; (f) that each signed on the date set opposite his name; and (g) that, to the best of affiant’s knowledge and belief, the signers are qualified electors and duly registered and enrolled members of the designated party of the State, or of the political district, as the case may be. ’ ’
+It is established that, while it would be preferable for the individual who has actually circulated the petition to make the required affidavit, this is not specifically required by the Code, and it is sufficient if the affiant has knowledge of the facts set out in Section 909. In Re Frank, 173 Pa. Superior Ct. 400, 98 A.2d 255 (1953). We are also mindful of our Supreme Court’s holding in Martin Nomination Petition, 435 Pa. 446, 257 A.2d 247 (1969) that mere technical defects in a nomination petition should not defeat an individual’s right to seek public office where sworn testimony in open court overcomes the defect by reliably demonstrating that each of the requirements of the Code has been satisfied.
+In this case DeFino has testified that the signatures on the two sheets in question were obtained either by his mother or by his aunt on the dates indicated and at his request. He stated that these sheets were circulated within an area of Fayette County, Pennsylvania, encompassed by the 22nd Congressional District, where he had formerly resided and where he was well acquainted with most of the residents. He also testified that, because his mother and his aunt had worked on the election board, were knowledgeable with regard to the identity of the signers and their political party affiliations and had informed him as to the obtaining of the signatures, he was confident that he had sufficient knowledge of the validity of the various signatures and of the manner in which they were obtained to execute the circulator’s affidavits. His testimony was corroborated by four individual signers, each of whom stated that either DeFino’s mother or his aunt had obtained his or her signature on the nomination sheets in question. Each witness also testified that he or she had signed the petition with full knowledge of its contents and otherwise as required by the statute. DeFino’s aunt, Patricia Kelley,- testified that she had. personally obtained eight signatures on one sheet, while the others on that sheet had been obtained by DeFino’s mother, and that she had also obtained all of. the signatures on the other sheet in question. She said that, she had personally known all, of the signers concerned to be registered Democratic electors in the District and that she. saw them sign the petitions on the dates indicated. De-Fino stated that his mother’s illness prevented her testifying but that she would, if she were able, testify as his aunt had testified.
+We believe that the candidate here, who executed the circulator’s affidavits for two sheets of his nomination petition which he had not personally circulated, nevertheless had the requisite knowledge regarding the signers thereon to qualify as the maker of the said affidavits. We also believe that, his knowledge having come to him by reason of his own acquaintance in the District and his reliance on information furnished him by the actual circulators who were his mother and his aunt, such reliance was justified. It appears to us, therefore, that the requirements of Article IX, Section 909 of the Code have been satisfied and that the alleged defects in DeFino’s-nomination petition have been overcome.
+, We, therefore, issue the following
+Order
+And Now, this 3rd day of March, 1976, the petition of Fred L. Lebder to set aside the nomination petition of Michael J. DeFino is hereby dismissed. The Secretary of the Commonwealth is, directed to certify the name of Michael J. DeFino to the proper officials for inclusion on the ballot of the Democratic Party at the primary election on April 27, 1976, as a candidate for the office of Representative in Congress from the 22nd Congressional District of the Commonwealth of Pennsylvania.
+The Prothonotary is directed to notify forthwith the parties hereto and their counsel, of this order, and also to certify a copy thereof to the Secretary of the Commonwealth of Pennsylvania.
+Act of June 3, 1937, P.L. 1333, as amended, 25 Pa. O.S. §2869.
