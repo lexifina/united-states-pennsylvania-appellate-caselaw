@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 60"
+decided: "1946-07-19"
+citations: ["159 Pa. Super. 308"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Baldeige, P. J., Rhodes, Hiet, Reno, Ditheich, Ross and Aenold, JJ."]
+parties: ["Megliss v. Bartoletta et al., Appellants."]
+source_url: "https://static.case.law/pa-super/159/cases/0308-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1065792
+cites_cases: ["101 A. 100", "14 A. 2d 170", "140 Pa. Superior Ct. 170", "155 Pa. Superior Ct. 469", "181 A. 765", "25 A. 2d 718", "257 Pa. 48", "319 Pa. 499", "344 Pa. 460", "38 A. 2d 728"]
+---
+
+# Megliss v. Bartoletta
+
+## Majority (Baldeige, P. J.,)
+
+Opinion by
+Baldeige, P. J.,
+The plaintiff, a truck driver, brought this action against the defendants alleging a breach of an oral agreement of employment. He set forth in his statement of claim that sometime in the month of March 1938 “without any cause or good reason whatsoever” defendants refused to permit him to continue hauling for them; that there is due him an amount equal to the actual value of the truck, and that defendants, in violation of the terms of this oral agreement, refused his request to transfer title and possession of the truck or to pay him his accumulated earnings. Suit was brought to recover $2955 with interest from April 5, 1938.
+The defendants in their affidavit of defense denied that the plaintiff could legally demand the transfer of the title of the truck as its value was $1500 more than the credits to which he was entitled, and alleged that he refused to make any further payments and that sometime in March 1938 he “arbitrarily, without any cause, excuse or explanation,” after returning the equipment to their premises, failed to resume work and refused to carry out the terms of their agreement.
+The parties agreed at the trial to stipulated facts, which include the following. On or about January 19, 1936, the plaintiff, who prior to that date had been employed by the defendants as a truck driver, entered into an oral agreement with them to do long distance hauling in one of their trucks. His net earnings were to be applied toward payment on the truck, the title of which was to be assigned to him when he had a credit equal to its value. When plaintiff’s employment ended there was an accumulated credit in his favor on defendants’ books of $1755.76.
+Under the pleadings and theory upon which this case was tried there were two issues of fact raised which were submitted to the jury by the trial judge in the following language: “The first question involved is this: Was this plaintiff fired or did he voluntarily quit? You will have to decide that on the testimony as you heard it. If you decide that he voluntarily quit, that is the end of your deliberation because if he quit voluntarily and abandoned this contract, then he cannot recover in this lawsuit. On the other hand if you find that he was fired, then you go to the second question and the second question is, what was the value of that Federal Truck on the day the plaintiff was fired, if he was fired.” The jury was also told to determine what amount, if any, the plaintiff was entitled to recover. The jury found that the plaintiff was discharged and fixed the value of the truck on March 8, 1938, at $2400. A verdict was rendered in his favor in the sum of $1008 with interest, or a total of $1431.36.
+The sole complaint of the defendants is that as the plaintiff was seeking to recover upon the allegation that he was discharged without cause, it was fundamental error for the trial judge “to charge the jury that a verdict could be awarded plaintiff if it merely found he was discharged without distinguishing a termination of employment for cause from one without cause.”
+Admittedly, a discharge for cause was not pleaded by defendants. Their sole contention was that the plaintiff voluntarily quit his employment; they were therefore limited to that defense: Ochs v. Reynolds, 155 Pa. Superior Ct. 469, 472, 38 A. 2d 728. The appellants ask us to hold that the trial judge was guilty of a fundamental error in not introducing and submitting to the consideration of the jury a defense that was never pleaded. To this novel proposition we cannot concede. The defendants were obliged to state in their affidavit of defense all facts favorable to themselves and the trial judge had a right to assume that no other was relied upon by them: Maguire v. Preferred Realty Company, 257 Pa. 48, 52, 101 A. 100. If there was any fundamental error it was not committed by the trial judge. The defendants had ample opportunity to correct any inadequacy in the charge, as the judge at the conclusion asked: “Is there anything else, gentlemen?” There was no complaint that reference was not made to a discharge for cause, and only a general exception was taken to the charge. Where a judge asks counsel in substance if any further instructions are desired and counsel appears to be satisfied, even if a general exception is taken, one may not remain silent and afterward complain of matters, which, if erroneous, the court would have corrected: Title Guaranty Co. v. Barone, 319 Pa. 499, 504,181 A. 765; Pfordt v. Educators Beneficial Assoc., 140 Pa. Superior Ct. 170, 177, 14 A. 2d 170. Furthermore, and this is a vital matter, no objection was raised to any deficiency in the judge’s charge in a motion for a new trial, which should contain specific errors of law or fact alleged to have been made by the judge. Reasons now advanced, not having been assigned in the court below, are not now properly before us: Dugan et al. v. McGara’s Inc., 344 Pa. 460, 465, 25 A. 2d 718.
+The assignments of error are overruled and judgment affirmed.
