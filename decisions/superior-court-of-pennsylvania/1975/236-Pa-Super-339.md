@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 111"
+decided: "1975-09-22"
+citations: ["236 Pa. Super. 339"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Watkins, P. J., Jacobs, Hoffman, Cercone, Price, Van der Voort, and Spaeth, JJ."]
+parties: ["Commonwealth v. Rosenhoover, Appellant."]
+source_url: "https://static.case.law/pa-super/236/cases/0339-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6771798
+cites_cases: ["166 A.2d 73", "194 Pa. Superior Ct. 291", "229 Pa. Superior Ct. 314", "323 A.2d 128", "368 U. S. 969"]
+---
+
+# Commonwealth v. Rosenhoover
+
+## Majority (Van der Voort, J.,)
+
+Opinion by
+Van der Voort, J.,
+On October 17, 1971, Mr. Donald Johnson was killed in an automobile accident. The untimely death of Mr. Johnson gave rise to a situation in which an enterprising insurance agent, the appellant in the case before us, was able to enrich himself at the expense of the beneficiary of an insurance policy which Mr. Johnson carried on his own life.
+The beneficiary of the insurance policy was one Catherine B. Hazzard (known to the insurance company as Catherine B. Johnson), who had been living with the deceased for several years prior to his death. Unknown to Ms. Hazzard, the policy contained a clause which specified that the insurance company would pay quadruple indemnity in the event of the accidental death of the insured. Ms. Hazzard notified agent Robert Rosenhoover (appellant) of the death of Mr. Johnson, and was informed by appellant that the $3,500 policy paid double indemnity ($7,000) for accidental death. Trusting appellant, Ms. Hazzard turned over the insurance policy and waited for the insurance company to issue a check. On December 28, 1971, appellant called Ms. Hazzard to inform her that the check was ready. Shortly thereafter, appellant signed (or had his wife sign — appellant was “unable to remember” which) the name “Catherine B. Johnson” on the back of the check, signed his own name below, deposited $7,000 in the account of Catherine Haz-zard, and pocketed the balance of $6,977.08. (An amount was deducted by the insurance company for back premiums due). Approximately one year later, after appellant had terminated his employment with the insurance company, Ms. Hazzard discovered from her new agent that the policy in question had paid quadruple the face amount of the policy, and that appellant had defrauded her of $6,977.08. Appellant was charged with the crime of cheating by fraudulent pretenses, was convicted by. a j ury, and was sentenced, on September 26, 1974, to be imprisoned for a term of one to three years, to make restitution in the amount of $6,977.08, and to pay the costs of prosecution. Appeal was taken to this Court from the judgment of sentence.
+Appellant first argues that the lower court erred in denying his demurrer to the indictment and his motion to quash the indictment, since the indictment allegedly did not set forth allegations which would constitute the crime of cheating by fraudulent pretenses. The statute in effect in December, 1971, read as follows:
+“Whoever, by any false pretense . . . obtains from any other person any chattel, money, or valuable security, with intent to cheat and defraud any person of the same ... is guilty of a felony. . . .” Act of 1939, June 24, P.L. 872, §836;. 1943, May 21, P.L. 306, §1, 18 P.S. §4836.
+The indictment in the case before us reads:
+[0]n or about the 28th day of December, 1971, Robert Rosenhoover the Defendant above named in the County aforesaid and within the jurisdiction of this Court, did feloniously by false pretence [sic] obtain from the First Laurel Bank of Bradford, Pennsylvania, the sum of $6,977.08, lawful money, with intent to cheat and defraud Catherine Hazzard, also known as Catherine B. Johnson, of the same.
+Every indictment shall be sufficient in law which charges the crime substantially in the language of the statute prohibiting the crime. Act of 1860, March 31, P.L. 427, §11, 19 P.S. §261. An indictment shall be valid and sufficient if it contains a plain and concise statement of the essential elements of the offense. Pa. Rule of Criminal Procedure 213 (a) (5), formerly Rule 213 (b) (5). The indictment in the case before us set forth substantially in the language of the applicable statute the crime with which appellant was being charged; consequently, appellant was adequately informed of the nature of the charges against him.
+Appellant’s second argument is that the evidence presented by the Commonwealth is insufficient to sustain the jury’s verdict of guilty, specifically, in that there is no evidence that appellant received money from any party as a result of a misrepresentation. In order to establish the crime of cheating by false pretenses, the evidence must prove a misrepresentation of an existing fact, a reliance by the victim on this misrepresentation, the consequent obtaining of something of value, and an intent to defraud. Commonwealth v. Sitia, 194 Pa. Superior Ct. 291, 166 A.2d 73 (1960), allocatur denied, U. S. cert. denied 368 U. S. 969 (1962). Testimony of two bank employees and Ms. Hazzard, if believed, was sufficient to establish that appellant had represented to Ms. Hazzard that the amount payable by the insurance company under the terms of the policy was double the face amount of the policy, when in fact the amount payable was four times the policy’s face value. As a result of the information given to Ms. Hazzard concerning the value of the policy (a misrepresentation of an existing fact relied upon by Ms. Hazzard), appellant was able to obtain an amount of money ($6,977.08) which certainly did not belong to him. Since the statute reads, “Whoever . . . obtains from any other person . . . with intent to cheat and defraud any person . . .” (emphasis added), it is irrelevant whether the money was obtained from the bank or from Ms. Hazzard. Taking the evidence in the light most favorable to the Commonwealth, Commonwealth v. Porter, 229 Pa. Superior Ct. 314, 323 A.2d 128 (1974), we find that the evidence against appellant was sufficient to establish his guilt of the crime of cheating by fraudulent pretenses.
+Judgment affirmed.
