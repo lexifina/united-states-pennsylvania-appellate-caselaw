@@ -1,0 +1,68 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2876"
+decided: "1980-04-03"
+citations: ["277 Pa. Super. 47", "419 A.2d 653"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before SPAETH, HESTER and CAVANAUGH, JJ."]
+parties: ["Albert M. GOLDBERG v. Arthur G. CAPLAN, Individually and as Trustee of the Glentex Corporation Pension Plan Trust and G.C.A., Inc., Employees Pension Plan, and Bernadette Chapman, Trustee of the Glentex Corporation Pension Plan Trust and G.C.A., Inc., Employees Pension Plan, and Glentex Corporation and Glentex Corporation of America, Inc., Appellants."]
+source_url: "https://static.case.law/pa-super/277/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 144274
+cites_cases: ["276 Pa.Super. 220", "276 Pa.Super. 232", "29 U.S.C. § 1002", "29 U.S.C. § 1003", "29 U.S.C. § 1101", "29 U.S.C. § 1132", "29 U.S.C. § 1144", "29 U.S.C. §§ 1001", "445 F.Supp. 1177", "567 F.2d 546", "88 Stat. 832"]
+---
+
+# Goldberg v. Caplan
+
+## Majority (SPAETH, Judge:)
+
+SPAETH, Judge:
+This appeal arises from an order dismissing preliminary objections to a petition for the removal of the trustees of an employee pension plan.
+On March 9, 1977, appellee filed a complaint in equity seeking the recovery of benefits allegedly due him under two employee pension plans. The complaint made the following allegations. Appellee was a former officer, director, and shareholder of two corporations, Glentex Corporation and Glentex Corporation of America, Inc. As a result of disagreements with Arthur G. Caplan, who was also an officer, director, and shareholder of the two corporations, appellee agreed to surrender his interests in the corporations and to resign as officer and director. In return, Caplan agreed that appellee’s vested interest in the two pension plans established by the corporations was $75,000, and that appellee was to be paid this sum by May 1, 1975. Caplan and Bernadette Chapman are trustees of the two pension plans. Despite Caplan’s agreement, however, appellee had not been paid his $75,000 vested interest in the plans. The complaint requested the lower court:
+1) To order Caplan, Glentex Corporation, and Glentex Corporation of America, Inc., to notify and direct the trustees of the pension plans to take the necessary steps to accomplish the transfer to appellee of his $75,000 vested interest in the plans, with interest from May 1, 1975;
+2) To order Caplan and Chapman, as trustees of the pension plans, to take the necessary steps to accomplish the transfer to appellee of his vested interest in the plans:
+3) To enter judgments for appellee and against Caplan and Chapman, as individuals and trustees, and Glentex Corporation and Glentex Corporation of America, Inc., in the amount of $75,000, with interest from May 1, 1975, together with all costs and legal fees of the action; and
+4) To grant such other and further relief as may be just and proper.
+Responsive pleadings were filed, and discovery followed. On September 21, 1978, appellee filed a petition for the removal of Caplan and Chapman as trustees of the plans on the ground that their records “disclose that they have been guilty of personal gross negligence and personal intentional misconduct in the operation and management of the . Pension Trust Plans . . . . ” On September 28, the lower court issued a rule to show cause why the prayer in the petition should not be granted. On October 19, 1979, Ca-plan, Chapman, and two corporations filed preliminary objections to the petition, alleging that by virtue of the Employee Retirement Income Security Act, Act of Sept. 2,1974, P.L. 93-406, 88 Stat. 832, 29 U.S.C. §§ 1001, et seq. [hereafter ERISA], the lower court was without jurisdiction to entertain the petition. On November 14, 1978, the lower court dismissed the preliminary objections, directed that an answer to the petition be filed, and ordered that the petition and answer be consolidated with the original equity action for trial. From this order Caplan, Chapman, and the two corporations have filed this appeal.
+We have recognized elsewhere, see Lukus v. Westinghouse Electric Corp., 276 Pa.Super. 232, 419 A.2d 431 (1980); Shaw v. Westinghouse Electric Corp., 276 Pa.Super. 220, 419 A.2d 175 (1980), that Congress enacted ERISA to afford comprehensive federal protection of the interests of participants in employee benefit plans. There is no dispute that the pension plans involved here are “employee pension benefit plans” within 29 U.S.C. § 1002(2), and are subject to the provisions of ERISA. State regulation of the plans is therefore restricted by 29 U.S.C. § 1144, which provides:
+(a) Except as provided in subchapter (b) of this section, the provisions of this subchapter and subchapter III of this chapter shall supersede any and all State laws insofar as they may now or hereafter relate to any employee benefit plan .
+******
+(c) For purposes of this section:
+(1) The term “State law” includes all laws, decisions, rules, regulations, or other State action having the effect of law, of any State. .
+(2) The term “State” includes a State, and political subdivisions thereof, or any agency or instrumentality of either, which purports to regulate, directly or indirectly, the terms and conditions of employee benefit plans covered by this subchapter.
+This preemption must be given effect, for it constitutes an exercise by Congress of its powers under article VI, section 2, of the United States Constitution (the supremacy clause). See generally Lukus v. Westinghouse Electric Corp., supra; Shaw v. Westinghouse Electric Corp., supra.
+The lower court believed that section 1144 does not apply to this case because another provision in ERISA, section 1132(e)(1), provides:
+Except for actions under subsection (a)(1)(B) of this section, the district courts of the United States shall have exclusive jurisdiction of civil actions under this subchapter brought by the Secretary or by a participant, beneficiary, or fiduciary. State courts of competent jurisdiction and district courts of the United States shall have concurrent jurisdiction of actions under subsection (a)(1)(B) of this section.
+Subsection (a)(1)(B), to which this provision refers, provides:
+(a) A civil action may be brought—
+(1) by a participant or beneficiary—
+(B) to recover benefits due to him under the terms of his plan, to enforce his rights under the terms of the plan, or to clarify his rights to future benefits under the terms of the plan .
+The lower court pointed out that since appellee’s original action in equity was brought to recover benefits due him under the pension plans, it had jurisdiction to determine the action. Therefore, the court reasoned, it had ancillary jurisdiction to determine the petition for the removal of the trustees, since the petition was not a separate action but “rather an additional form of relief that [was] within the original equity matter.”
+This reasoning does not take account of the fact that Section 1132 clearly distinguishes between, on the one hand, an action brought by a participant in the pension plan “to recover benefits due to him under the terms of his plan,” and on the other hand, an action brought against trustees of the plan for the breach of their fiduciary duties. Section 1132(a)(2) provides that a civil action may be brought by a participant “for appropriate relief under section 1109 of this title.” Section 1109 provides:
+(a) Any person who is a fiduciary with respect to a plan who breaches any of the responsibilities, obligations, or duties imposed upon fiduciaries by this subchapter shall be personally liable to make good to such plan any losses to the plan resulting from each such breach, and to restore to such plan any profits of such fiduciary which have been made through use of assets of the plan by the fiduciary, and shall be subject to such other equitable or remedial relief as the court may deem appropriate, including removal of such fiduciary. A fiduciary may also be removed for a violation of section 1111 of this title.
+Section 1132(e)(1) only confers upon State courts jurisdiction to determine actions brought under subsection (a)(1)(B) — i. e., actions to recover benefits due under the terms of an employee benefit plan; it does not confer jurisdiction upon state courts to determine actions brought under subsection (a)(2) — i. e., actions against fiduciaries for the breach of their duties under ERISA. Exclusive jurisdiction over the latter actions lies in “the district court of the United States.” 29 U.S.C. § 1132(e)(1).
+Furthermore, section 1144 preempts entirely all state laws (including state equity actions) purporting to regulate trustees of a pension plan, for there can be no doubt that such laws (and actions) would “relate to” an employee benefit plan within the meaning of section 1144. ERISA comprehensively regulates the duties of trustees, see 29 U.S.C. § 1101 et seq. Were state laws (and actions) regulating trustees not preempted, trustees would be subject to the threat of conflicting and inconsistent regulation by state and federal authorities. It was this very threat that Congress endeavored to eliminate through the passage of section 1144. See Lukus v. Westinghouse Electric Corp., supra (collecting authority). Federal courts have held that claims against fiduciaries of an employee benefit plan for breaches of their fiduciary duties occurring after the general effective date of ERISA on January 1, 1975, may be prosecuted only in federal court under section 1132. Morrissey v. Curran, 567 F.2d 546, 549 (2d Cir. 1977); Wong v. Bacon, 445 F.Supp. 1177, 1185-86 (N.D.Cal.1977). We believe these decisions are correct.
+The order of the lower court is reversed.
+. The preliminary objections also challenged the lower court’s jurisdiction on the grounds that the petition for removal of the trustees raised issues “separate from, and beyond [the] scope of the Complaint in Equity,” and that appellee was “not a party in interest . and therefore was without standing to seek the removal of the trustees.” Because of our disposition of the objection that the lower court’s power to entertain the petition has been preempted by ERI-SA, we do not need to consider these objections.
+. This court has jurisdiction to hear this appeal under the Act of March 5, 1925, P.L. 23, § 1, 12 P.S. § 672, repealed by the Judiciary Act Repealer Act, Act of Apr. 28, 1978, P.L. 202, No. 53, 42 Pa.C.S.A. § 20002(a) [1069] (1979 Pamphlet) (eff. June 27, 1980). See also Lukus v. Westinghouse Electric Corp., 276 Pa.Super. 232, 419 A.2d 431 (1980); Shaw v. Westinghouse Electric Corp., 276 Pa.Super. 220, 419 A.2d 175 (1980).
+. 29 U.S.C. § 1002(2) provides:
+(2) The terms “employee benefit plan” and “pension plan” mean any plan, fund, or program which was heretofore or is hereafter established or maintained by an employer or by an employee organization, or by both, to the extent that by its express terms or as a result of surrounding circumstances such plan, fund, or program—
+(A) provides retirement income to employees, or
+(B) results in a deferral of income by employees for periods extending to the termination of covered employment or beyond, regardless of the method of calculating the contributions made to the plan, the method of calculating the benefits under the plan or the method of distributing benefits from the plan.
+29 U.S.C. § 1003 provides:
+(a) Except as provided in subsection (b) of this section and in sections 1051, 1081, and 1101 of this title, this subchapter shall apply to any employee benefit plan if it is established or maintained—
+(1) by any employer engaged in commerce or in any industry or activity affecting commerce; or
+(2) by any employee organization or organizations representing employees engaged in commerce or in any industry or activity affecting commerce; or
+(3) by both.
+(b) The provisions of this subchapter shall not apply to any employee benefit plan if—
+(1) such plan is a governmental plan (as defined in section 1002(32) of this title);
+(2) such plan is a church plan (as defined in section 1002(33) of this title) with respect to which no election has been made under section 410(d) of Title 26;
+(3) such plan is maintained solely for the purpose of complying with applicable workmen’s compensation laws or unemployment compensation or disability insurance laws;
+(4) such plan is maintained outside of the United States primarily for the benefit of persons substantially all of whom are nonresident aliens; or
+(5) such plan is an excess benefit plan (as defined in section 1002(36) of this title) and is unfunded.
+No one has argued that any of the exceptions in section 1003(a), (b) apply to this case.
+. There is no dispute that appellants as trustees of the pension plan were “fiduciaries” within section 1109. See 29 U.S.C. § 1002(21).
+. We note that in the original equity complaint appellee sues Caplan and Chapman as individuals and also the two corporations for the $75,000 that appellee claims under the pension plans as benefits. Appellants have not argued on this appeal that the lower court may not hold them personally liable for these benefits, and we express no opinion on the subject. We note, however, that section 1132(d)(2) of ERISA states:
+(2) Any money judgment under this subchapter against an employee benefit plan shall be enforceable only against the plan as an entity and shall not be enforceable against any other person unless liability against such person is established in his individual capacity under this subchapter.
