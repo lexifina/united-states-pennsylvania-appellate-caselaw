@@ -1,0 +1,36 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "01508"
+decided: "1988-04-21"
+citations: ["373 Pa. Super. 270", "541 A.2d 7"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before BROSKY, TAMILIA and KELLY, JJ.", "KELLY, J., concurs in the result."]
+parties: ["COMMONWEALTH of Pennsylvania v. John WILLIAMS, Appellant."]
+source_url: "https://static.case.law/pa-super/373/cases/0270-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 696008
+cites_cases: ["286 A.2d 638", "355 U.S. 184", "420 U.S. 332", "447 Pa. 163", "472 Pa. 602", "476 U.S. 140", "484 Pa. 130", "501 Pa. 589", "507 Pa. 344", "516 F.2d 1034"]
+---
+
+# Commonwealth v. Williams
+
+## Majority (BROSKY, Judge:)
+
+BROSKY, Judge:
+This is an interlocutory appeal from an order denying appellant’s motion to dismiss for violation of the double jeopardy clause. Appellant has previously been tried twice for a number of charges. Both trials ended in a mistrial after a finding that the jury had become hopelessly deadlocked during deliberation.
+Appellant asks us to determine if the double jeopardy clause prohibits the Commonwealth from trying him a third time after his first two trials resulted in hung juries. We are compelled to find that it does not, and affirm the order appealed from.
+It has been stated recently by our Supreme Court that the double jeopardy clause has been recognized as having three separate and distinct goals: the protection of the integrity of a final judgment, the prohibition against multiple prosecutions even where no final determination of guilt has been made, and the proscription against multiple punishment for the same offense. Commonwealth v. Zoller, 507 Pa. 344, 490 A.2d 394 (1985), rev’d 476 U.S. 140, 106 S.Ct. 1745, 90 L.Ed.2d 116 (1986). The present case would appear to involve the prohibition against multiple prosecutions even where there has been no final determination of guilt. Perhaps not coincidentally, this goal has been a prevalent one of the double jeopardy clause dating back to its origin in the common law of England. Our Supreme Court noted in Zoller, 490 A.2d at 397, [ijnterestingly, the concept of finality was never interpreted as precluding review of the entry of judgment in a criminal case by way of appeal. Rather, the focus was upon the second prosecution which was deemed offensive.
+In the course of the debates over the Bill of Rights, there was no suggestion that the Double Jeopardy Clause imposed any general ban on appeals by the prosecution____ Nor does the common-law background of the Clause suggest an implied prohibition against state appeals. Although in the late 18th century the King was permitted to sue out a writ of error in a criminal case____, the principles of autrefois acquit and autrefois convict imposed no apparent restrictions on this right. It was only when the defendant was indicted for a second time after either a conviction or an acquittal that he could seek the protection of the common-law pleas. The development of the Double Jeopardy Clause from its common-law origins thus suggests that it was directed at the threat of multiple prosecutions, not at Government appeals, at least where those appeals would not require a new trial, quoting United States v. Wilson, 420 U.S. 332, 342, 95 S.Ct. 1013, 1021, [43 L.Ed.2d 232] (1975).
+Zoller, 490 A.2d at 397.
+Further, along these lines, the Supreme Court noted that the “central design of the guarantee” was:
+... [to] protect an individual from being subjected to the hazard of trial and possible conviction more than once for an alleged offense____ The underlying idea, one that is deeply ingrained in at least the Anglo-American system of jurisprudence, is that the state with all its resources and power should not be allowed to make repeated attempts to convict an individual for an alleged offense, thereby subjecting him to embarrassment, expense and ordeal and compelling him to live in a continuing state of anxiety and insecurity, as well as enhancing the possibility that even though innocent, he may be found guilty.
+Zoller, 490 A.2d at 397, quoting Green v. United States, 355 U.S. 184, at 187-88, 78 S.Ct. 221, at 223, 2 L.Ed.2d 199 (1957).
+Reinforcing this proposition is Commonwealth v. Bolden, 472 Pa. 602, 373 A.2d 90 (1977), which detailed the various implications of the double jeopardy clause. In acknowledging that reprosecution after a mistrial could violate the clause, the Pennsylvania Supreme Court stated: “[prosecution after mistrial raises no risk of multiple punishment. Thus, this situation most clearly shows that the double jeopardy clause is a prohibition against multiple prosecution.” 373 A.2d at 101. Our Supreme Court also noted that “[t]he policies which underlie the prohibition are first, guilt should be established by proving the elements of a crime to the satisfaction of a single jury, not by capitalizing on the increased probability of conviction resulting from repeated prosecutions before many juries;” Commonwealth v. Mills, 447 Pa. 163, 286 A.2d 638 (1971).
+As indicated above, where there has been a declaration of a mistrial reprosecution may be barred by the double jeopardy clause. Commonwealth v. Bolden, supra. Although in some circumstances an individual may be retried following a mistrial, due to the clause’s policy of prohibiting multiple trials, retrial is “only grudgingly allowed,” United States v. Wilson, 420 U.S. at 343, 95 S.Ct. at 1022, and is limited to cases in which the defendant consented to the mistrial or the declaration of a mistrial was “manifestly necessary.” Bolden, supra. 373 A.2d at 101. One such case is where there is a discharge of the jury after they are found to be “hopelessly deadlocked.” Commonwealth v. Mehmeti, 501 Pa. 589, 462 A.2d 657 (1983). In instances of a deadlocked jury, the jury may be discharged without prejudice to the Commonwealth to try the accused again on the same charges. It is perhaps less certain whether the Commonwealth can continue to refile charges upon consecutive “hung juries.”
+Although we believe the principles of the double jeopardy clause are compromised when the Commonwealth is given a third opportunity to obtain a favorable jury verdict, after twice failing to persuade the jury of the accused’s guilt, apparently our Supreme Court does not.
+In Commonwealth v. Sullivan, 484 Pa. 130, 398 A.2d 978 (1979), our Supreme Court addressed a situation where an accused was convicted after two juries were previously unable to return a verdict. Although addressing the propriety of the trial court’s dismissal of the second jury, thus analyzing whether there was “manifest necessity” for declaration of mistrial, the Supreme Court gave no indication that the double jeopardy clause bars retrial after two hung juries. As such, we feel compelled to affirm the order appealed from.
+Order affirmed.
+KELLY, J., concurs in the result.
+. Compare, U.S. ex rel. Webb v. Court of Common Pleas of Philadelphia County, 516 F.2d 1034 (3d Cir.1975), where violation of double jeopardy clause was found when the second "hung jury” was dismissed without adequate assurance, through colloquy, that a jury verdict could not be obtained. As such, manifest necessity was found lacking.
