@@ -1,0 +1,51 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 2821 C.D. 1986"
+decided: "1988-02-25"
+citations: ["119 Pa. Commw. 236", "538 A.2d 130"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail and Colins, and Senior Judge Narick, sitting as a panel of three. Reconsideration granted. Held May 2, 1988, before Judges MacPhail and Colins, and Senior Judge Narick.", "Judge MacPhail dissents.", "Judge MacPhail dissents."]
+parties: ["Lower Allen Citizens Action Group, Inc., Petitioner v. Commonwealth of Pennsylvania, Department of Environmental Resources, Respondent."]
+source_url: "https://static.case.law/pa-commw/119/cases/0236-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1376722
+cites_cases: ["25 Pa. Code §21.2", "25 Pa. Code §21.36", "25 Pa. Code §21.52", "512 Pa. 377", "517 A.2d 523"]
+---
+
+# Lower Allen Citizens Action Group, Inc. v. Commonwealth
+
+## Majority (Judge Colins, Judge Colins,)
+
+Opinion by
+Judge Colins,
+Lower Allen Citizens Action Group, Inc. (petitioner) appeals a decision of the Pennsylvania Environmental Hearing Board (Board) which granted Hempt Bros., Inc. s (permittees) Motion to Dismiss for untimely filing of petitioners notice of appeal.
+The relevant facts are as follows:
+On December 14, 1984, permittee filed an application for amendment of its mine drainage permit. On February 10, 1985, petitioner sent to the Department of Environmental Resources (DER) objections to permittees application. A public hearing was held on September 17, 1985 by DER. On March 18, 1986, DER approved permittees application. On March 20, 1986, George Sterling, DER’s District Mining Manager, sent a letter to petitioners attorney stating that the permit was issued to permittee on March 18, 1986, and that any appeal of the action must be filed within thirty (30) days of the receipt of the letter. On April 5, 1986, a notice of approval appeared in the Pennsylvania Bulletin. On May 5, 1986, petitioner filed a Notice of Appeal with the Board. Permittee filed a Motion to Quash on May 27, 1986, alleging that petitioners appeal was not timely filed. On August 22, 1986, the Board dismissed the appeal for lack of jurisdiction due to petitioners untimely appeal. This appeal followed.
+Petitioner argues that it is not a “party” under the provisions of the Environmental Hearing Boards (EHB) Practice and Procedures. Therefore, petitioner maintains, it had thirty (30) days from the date of publication of DERs notification in the Pennsylvania Bulletin to appeal, pursuant to 25 Pa. Code §21.36, despite actual prior notice. Permittee, on the contrary, argues that petitioner is a “party,” and, as such, had thirty (30) days from the date of receipt of written notice, or within thirty (30) days to appeal after such notice had been published in the Pennsylvania Bulletin.
+For the reasons stated herein, we reverse the Boards decision.
+Initially, we note that our scope of review is limited to a determination of whether an error of law was committed, constitutional rights were violated, or whether necessary findings of fact are supported by substantial, competent evidence. Estate of McGovern v. State Employees’ Retirement Board, 512 Pa. 377, 517 A.2d 523 (1986).
+We must first resolve the issue of whether petitioner is a “party.” 25 Pa. Code §21.2 defines “party” as “a person with the right to institute or defend or otherwise appear and participate in proceedings before the Board. A party shall be an appellant, appellee, plaintiff, defendant or intervenor.” 25 Pa. Code §21.2 defines a “person” as “an individual, partnership, association, corporation, political subdivision, municipal authority or other entity.” Petitioner was not an intervenor, nor did petitioner file an appeal to the EHB to become a party. The filing of objections does not make the protestant a party to the proceeding. Therefore, we find appellant to be an “interested person” and not a “party.”
+Since petitioner, in the instant matter, was not a party, it stands that 25 Pa. Code §21.36 applies. As such, petitioner received notice of DER’s action upon publication of its actions in the. Pennsylvania Bulletin. Petitioner, therefore, had thirty (30) days from the date of the publication to file an appeal to the Board. Petitioner filed its appeal on May 5, 1986, thirty (30) days after the April 5, 1986 notice in the Pennsylvania Bulletin. Therefore, the appeal is timely.
+Accordingly, the decision of the Environmental Hearing Board which dismissed petitioners appeal is reversed and the case is remanded to the Board for a hearing and adjudication as provided by law.
+Order
+And Now, this 25th day of February, 1988, the decision of the Environmental Hearing Board in the above-captioned matter is reversed, and. the case is remanded to the Board in accordance with this decision.
+Jurisdiction relinquished.
+Judge MacPhail dissents.
+Opinion by
+Judge Colins,
+September 1, 1988:
+The Commonwealth of Pennsylvania, Department of Environmental Resources (Department) and Hempt Bros., Inc. (Hempt) have requested reconsideration of an Opinion and Order of this Court, dated February 25, 1988, which reversed a decision of the Environmental Hearing Board (Board) dismissing as untimely an appeal filed by the Lower Allen Citizens Group (petitioner) challenging the Departments issuance of a permit to Hempt. Concurrently, we remanded the matter to the Board so that a hearing might be conducted and an adjudication issued. By order dated May 2, 1988, we granted reconsideration to address arguments raised by the Department and Hempt suggesting that we ■ mischaracterized petitioner as a “person” rather than a “party” to the instant proceeding and thus subject to the more liberal appeal period applicable to persons. See 25 Pa. Code §21.36. Our characterization, of course, rendered petitioners appeal timely.
+We find it necessary to repeat the following facts, previously set forth in our prior decision. See Lower Allen Citizens Action Group, Inc. v. Department of Environmental Resources, 119 Pa. Commonwealth Ct. 236, 538 A.2d 130 (1988). Petitioner first became involved in the Departments processing of Hempts application for a mine drainage permit by filing objections thereto on February 10, 1985. On September 17, 1985, the Department conducted a public hearing on the application with counsel for petitioner and several members in attendance. The Department subsequently approved the application and, on March 20, 1986, a Department employee advised petitioners attorney by letter that the permit had been issued on March 18, 1986, and that any appeal of such action must be filed within thirty days of the receipt of the letter. Notice of the approval appeared in the Pennsylvania Bulletin on April 5, 1986, and on May 5, 1986, petitioner filed a Notice of Appeal with the Board. The Board quashed petitioners appeal as untimely and the instant appeal to this Court followed.
+The heart of this matter, as indicated in our initial decision, is the characterization of petitioner as either a “party” or “person” as so defined in 25 Pa. Code §21.2. That regulation defines “party” as a “person with the right to institute or defend or otherwise appear and participate in proceedings before the Board. A party shall be an appellant, appellee, plaintiff, defendant or intervenor.” The term “person” is therein defined as an “individual, partnership, association, corporation, political subdivision, municipal authority or other entity.”
+The difficulty arises, as' we now view it, when the definitional terms “party” and “person” come into play with the notice provision of 25 Pa. Code §21.36. That provision states that “ [publication of a notice of action or proposed action by the department or board in the Pennsylvania Bulletin shall constitute notice to or service upon persons, except a party, effective as of the date of publication” (Emphasis added.) We believe the definitions of “party” and “person” interact with the quoted notice provision in an untenable and inconsistent fashion. For example, if an interested person, in perusing the Pennsylvania Bulletin, becomes aware of an adverse departmental action and files an appeal with the Board, he becomes a “party” as defined in 25 Pa. Code §21.2 (a “party” is an “an appellant”). By that juncture, however, the appeal period applicable to parties may well have expired. See 25 Pa. Code §21.52. That is the scenario of the instant case.
+At issue here is a procedure by which interested taxpayers are afforded an opportunity to be heard in a governmental forum. Petitioner does not dispute that it received actual notice by mail of the Departments approval of Hempts application for an amendment to its permit and readily admits that it participated in the public hearing pertaining to same. Nevertheless, where, as here, the pertinent regulations are ambiguous, we choose to err on the side of assuring that opportunity.
+Accordingly, we affirm our initial determination that petitioner received notice of the Departments adverse action upon publication in the Pennsylvania Bulletin. As we previously indicated, petitioner had thirty days from that date within which to file an appeal to the Board and did so. Therefore, the appeal is timely.
+Accordingly, our initial order and decision in the instant matter is affirmed.
+Order
+And Now, this 1st day of September, 1988, following reconsideration, our prior Order of February 25, 1988 is confirmed; the decision of the Environmental Hearing Board in the above-captioned matter is reversed and the case is remanded to the Board for proceedings consistent with this opinion.
+Jurisdiction relinquished.
+Judge MacPhail dissents.
+No notice of this hearing was evidently mailed to petitioner or its counsel although they became aware of the hearing by newspaper advertisement.
+Following the definition of these terms in our initial decision, we indicated that “[pjetitioner was not an intervenor, nor did petitioner file an appeal to the [Board] to become a party.” Petitioner did indeed file an appeal tó the Board as we had stated in our factual recitation.
