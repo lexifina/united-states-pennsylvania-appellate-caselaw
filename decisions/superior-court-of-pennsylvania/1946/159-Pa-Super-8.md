@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 10"
+decided: "1946-04-10"
+citations: ["159 Pa. Super. 8"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Baldrige, P. J., Rhodes, Hirt, Reno, Dithrich, Ross and Arnold, JJ."]
+parties: ["Commonwealth, Appellant, ex rel. DeSmith v. DeSmith."]
+source_url: "https://static.case.law/pa-super/159/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1065913
+---
+
+# Commonwealth ex rel. DeSmith v. DeSmith
+
+## Majority (Reno, J.,)
+
+Opinion by
+Reno, J.,
+In non-support proceedings, which need not be copiously recounted, the husband’s arrears were calculated and entered as a judgment against him. At the instance of the district attorney, the husband’s real estate was sold upon execution, and, in the absence of bidders, was struck down to him for $125, the approximate amount of taxes due and costs. Before the sheriff’s deed had been acknowledged, the court below, upon the petition of the wife’s attorney, and without notice to the district attorney, ordered him to assign his bid and the judgment to the wife, and that the husband’s delinquent non-support account be credited with the full amount of the judgment although the appraised value of the property was less than the amount of the judgment. From the refusal of the district attorney’s petition to set aside that order, he appealed.
+The district attorney brought the case here to secure the authoritative direction of an appellate court, and contends that there is no authority for the order, that a similar order has never heretofore been made, and that it can be supported only by a judicial assumption of legislative power. He proposes that the property be sold upon an alias writ, and suggests that at such sale the wife or an outside bidder may purchase the property.
+IJninstructed and unrestrained by ruling cases, we are free to choose between alternatives. By adopting the district attorney’s contention we would indeed manifest disapproval of an unprecedented order, but also .postpone vesting of title or proceeds in the wife, and subject her to added expenses and costs. Sustaining the court’s order, immediately effectuates the intent of the law by speedily providing means of support for the wife.
+The Act of April 13, 1867, P. L. 78, as amended, under which these proceedings were maintained, provides in part: “The court may also issue the appropriate writ of execution against any property, real or personal, belonging to the defendant”. The clear intent of the act is not only to assure to the wife a share of her husband’s earnings and income, but to charge his property with her support. Having discovered that objective the pathway to decision is unobstructed. Once the objective has been disclosed, the law moves straight to its target, attacks frontally, and disdains flanking tactics and ambuscades. And we do not legislate when, having discovered the legislative intent, we effectuate it by appropriate, although innovating, judicial procedure. We are only, obeying the legislative mandate. Statutory Construction Act of May 28, 1937, P. L. 1019, §51, 46 PS §551.
+We lay to one side the district attorney’s argument that in initiating execution he was acting, and could act only, for the Commonwealth, and that the order of the court below in effect constitutes him the counsel for a private party. The judgment stood in the name of the Commonwealth, the district attorney had control over it, and the execution was authorized in his official capacity. But the judgment was procured at the relation of the wife, she was its sole beneficiary, and the district attorney, while acting for the Commonwealth, was also vindicating her right under a law which he was bound to enforce. The nature of the judgment authorized him to act for the Commonwealth and for her.
+The further objection is that if the execution had been carried to a finality, the sheriff would have conveyed the property to the district attorney as the representative of the Commonwealth which, he contends, cannot accept title in the absence of an enabling act of the General Assembly. We can readily understand that acceptance of the sheriff’s deed might have created an embarrassing situation. Happily, the sagacious district attorney prevented that complication, and now by assigning his bid, pursuant to the order of the court, he will further promote the real object of the execution without additional costs or delay.
+Finally, the district attorney argues that, as a result of the decision: “The wife will get a piece of real estate on which she must pay taxes, water rent and repairs. It is rather tying a millstone around her neck. It is not providing her with money to buy necessities.” Even if it were within our province to pass judgment, the facts do not support the theory. The husband has been absent, and his whereabouts have been unknown, for ten years. The wife resides in the dwelling-honse, and with her own funds liquidated a $1600 mortgage upon it. The property was appraised at $1700, assessed at $1200, and the only lienable charges against it are less than $125. These figures do not indicate that the wife will assume an unduly heavy burden.
+Responding to the district attorney’s desire for a clarifying opinion, we have, at the risk of producing an inordinately long opinion, examined all his objections.. But the answer is simple, and has been stated. The law always favors direct action when no technical obstacles stand in its way, and the learned court below found and applied an appropriate legal solution to the unusual circumstances of the case.
+Order affirmed.
+The Act of 1867, supra, was amended several times. It and the amendments were substantially reenacted by the Penal Oode of June 24, 1939, P. L. 872, §733, 18 PS §4733. The provision subjecting a husband’s property, including spendthrift trusts, to execution first appeared in the amending Act of April 15, 1913, P. L. 72. The provision limiting executions to “fifty x>er centum thereof”, contained in the Penal Code, was inserted into the Act of 1867 by the amending Act of June 15, 1917, P. L. 614. Obviously, the limitation applies only to executions against spendthrift or similar trusts.
