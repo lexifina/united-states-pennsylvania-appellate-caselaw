@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 311"
+decided: "1926-02-26"
+citations: ["87 Pa. Super. 210"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, P. J., Henderson, Trexler, Keller, Linn and Gawthrop, JJ."]
+parties: ["Borough of Marcus Hook, Appellant, v. Public Service Commission."]
+source_url: "https://static.case.law/pa-super/87/cases/0210-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 571216
+cites_cases: ["69 Pa. Super. Ct., 413", "71 Pa. Super. Ct., 355", "73 Pa. Super. Ct., 45", "74 Pa. Super. Ct. 265", "75 Pa. Super. Ct. 540", "83 Pa. Super. Ct. 502", "84 Pa. Super. Ct. 58"]
+---
+
+# Borough of Marcus Hook v. Public Service Commission
+
+## Majority (Linn, J.,)
+
+Opinion by
+Linn, J.,
+The Borough of Marcus Hook, Delaware County, appeals from an order of the commission abolishing the grade crossing of Market Street with the main line tracks of the Pennsylvania Railroad extending from Philadelphia southward. The railroad tracks separate the borough from the adjoining township of Lower Chichester; Market Street, therefore, is a street in the borough and also in the township. The cost of the improvement, according to the plans adopted by the commission, is ordered to be paid as follows: by Delaware County 174%, hy the borough of Marcus Hook 5%, by the township of Lower Chichester 24%, by the Pennsylvania Railroad Company 75%, and it is estimated to be $350,062 (which includes land damages). The order also provides that if the actual cost exceed that estimate, the excess shall be paid by the railroad company. No fault is found with the regularity of the proceedings.
+The single complaint is stated as follows in appellant’s brief: “The only question involved in the case is whether or not the Public Service Commission has so erred in the exercise of the discretion vested in it, that the matter should be referred back to it for further hearing.” The point of the complaint is that a different plan, which the borough would have preferred, described in the evidence and costing about twice as much as that adopted, was not selected.
+The power exercised by the commission is conferred in section 12, art. Y, of the Public Service Company Law (1913 P. L. 1374,1408). For the review of a complaint that the discretion of the commission was not wisely exercised in dealing with this grade crossing, the power of the court is limited. The legislature has vested the commission with “exclusive power to abolish such crossings and to prescribe the terms and conditions of the abolition, and to adopt the plans to accomplish the change.” And the statute provides that the order appealed from ‘ ‘ shall be prima facie evidence of the reasonableness thereof, and the burden of proving the contrary shall be upon the appellant......” What, then, does appellant urge? It presents a mere difference of opinion, as the quotation from the brief shows, concerning the wisdom of the decision by the commission of an administrative question. As to such questions we must adhere to the rule stated in Harmony Elec. Co. v. Pub. Ser. Com., 71 Pa. Super. Ct., 355, 360: “We have repeatedly said that this court is not a second administrative body and we have no authority to substitute our judgment for that of the commission in the decision of such questions. We would not be warranted in reversing the determination of the commission save in a case which involved a manifest and flagrant abuse of discretion”; we have always followed that rule: Kane & Elk R. R. Co. v. Pub. Ser. Com., 69 Pa. Super. Ct., 413; Henderson Coal Co. v. Pub. Ser. Com., 73 Pa. Super. Ct., 45, 52; Erie v. Pub. Ser. Com., 74 Pa. Super. Ct. 265; Johnstown v. R. R. Co., 75 Pa. Super. Ct. 540; Ligonier V. R. R. Co. v. Pub. Ser. Com., 83 Pa. Super. Ct. 502; Collins v. Pub. Ser. Com., 84 Pa. Super. Ct. 58, 63.
+Traffic conditions at this much used crossing were the subject of elaborate consideration over a period of years by the commission assisted by the participation of all parties who could be interested, both public and private. The record would seem to indicate that the results of exhaustive study of the physical problems involved were presented to and maturely considered by the commission. It is agreed that the existing situation is so dangerous as to require radical change. There is ample evidence to support the order of the commission; and it is likewise true that the advocates of the rejected plans offered evidence to win approval of what they urged. But neither the county nor the township has appealed; neither intervened in this appeal. The only objection comes from the borough.
+The street is ordered to be constructed across the tracks overhead, on a line slightly west of the present western boundary of the street, this overhead section diverging from the present level of Market Street at such distances from the railroad as were necessary to get appropriate grades; so much of Market Street only as is crossed by the tracks is ordered to be closed. Counsel for the borough condemns as dangerous the beginning of the approach to the overhead, because of a slight curve in the approach as it leaves the present street level. If we assume that this curve (radius 1250 feet) may in case of crowded travel, contribute an element of hazard to travel generally, it is not of such character in all the circumstances of the case, as to justify this court in substituting its judgment for that of the commission; the statute does not authorize us to do that.
+Accordingly, the order of the commission is affirmed.
