@@ -1,0 +1,36 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "3236"
+decided: "1986-11-03"
+citations: ["358 Pa. Super. 203", "516 A.2d 1254"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CIRILLO, President Judge, and CAVANAUGH and TAMILIA, JJ."]
+parties: ["PETRUZZI’S IGA, INC. and Paul J. Petruzzi, Appellants, v. Joseph PAVLICK."]
+source_url: "https://static.case.law/pa-super/358/cases/0203-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 660233
+cites_cases: ["304 A.2d 143", "350 Pa.Super. 223", "451 Pa. 354", "505 Pa. 90"]
+---
+
+# Petruzzi's IGA, Inc. v. Pavlick
+
+## Majority (TAMILIA, Judge:)
+
+TAMILIA, Judge:
+Plaintiffs/appellants, Petruzzi’s IGA, Inc. and Paul J. Petruzzi, appeal from the Order of the lower court granting defendant/appellee’s petition to open a default judgment.
+On March 7, 1985, appellants filed a complaint against appellee seeking damages which were allegedly incurred as a result of the destruction of appellants’ rental property by appellee’s negligence. On April 3, 1985, the local court granted appellee thirty days after appellant’s response to discovery before it was required to answer the complaint. Appellee obtained a court Order on July 8, 1985 ordering appellants’ attorney to turn over requested material by July 19, 1985. Following receipt of these documents, appellee deposed appellants on August 7, 1985.
+Subsequently, the attorneys agreed between themselves that appellee’s answer would be due October 4, 1985. However, appellee did not receive a transcription of the deposition of appellants from the reporting service until October 2, 1985. Appellee then asked appellants for another twenty-day extension in which to prepare his answer. Appellee requested, by letter, that appellants respond to the request as promptly as possible so that in the event appellants denied the request, appellee could petition the court for an extension. Appellants denied the request by phoning appellee’s office on Friday afternoon, October 4, 1985, and leaving a message with appellee’s secretary.
+On Monday, October 7, 1985, at 9:00 a.m., appellants requested, and the prothonotary granted, a default judgment based on appellee’s failure to answer. Notice by the prothonotary of the default judgment was filed at 9:02 a.m. No prior notice of the pending default was given to appellee as none was required under Pa.R.C.P. 237.1(a) because the default occurred after the specified time in a written agreement of extension. Eight minutes after the default judgment was filed, the lower court granted appellee an additional fifteen days to answer the complaint.
+On October 8, 1985, appellee filed a petition to strike or open judgment. The lower court granted appellee’s motion to open the judgment, concluding the three requirements of Schultz v. Erie Insurance Exchange, 505 Pa. 90, 93, 477 A.2d 471, 472 (1984), had been met and, therefore, determined it was entitled to exercise its equitable discretion in deciding whether to open the judgment.
+Our scope of review in a case such as this is very narrow. An appellate court will reverse the lower court only where there is a clear, manifest abuse of discretion or an error of law. Pappas v. Stefan, 451 Pa. 354, 304 A.2d 143 (1973).
+Appellants contend the issue of opening the judgment was not properly before the court. We find no abuse where the trial judge employs equitable discretion as to the facts of a case and the allegations of the petition, to reach a conclusion. This is particularly so when notice was given on a Friday afternoon that a request to extend time to file an answer was refused, and default judgment requested was at 9:00 a.m. the following Monday morning. Further, the very title of the petition put the issue before the court.
+Appellants next contend that the lower court’s conclusion is erroneous because appellant did not present a meritorious defense to the action as required by Schultz, supra. Appellee asserts that the showing of a meritorious defense is not necessary in a trespass action if the equities are otherwise clear. At the time of appellee’s petition to open judgment (10-8-85), the question, whether or not a meritorious defense needs to be alleged to open a default judgment, was in a state of flux. An amendment to the Rules of Civil Procedure had, in effect, abolished any procedural differences between actions in assumpsit and trespass. See Pa.R.C.P. 1001, effective July 1, 1984 and Wolfskill v. Egan, 350 Pa.Super. 223, 504 A.2d 326 (1986). The rule change, however, was not determined by the courts to require that a meritorious defense be alleged in trespass actions until our Court did so on January 31, 1986 with its filing of Wolfskill, supra.
+By reason of Pa.R.C.P. 1001, the court, in Wolfs-kill, said:
+We therefore hold that consistent with the uniformity in pleading sought by the amendments to the Rules of Civil Procedure, the requisite elements of a petition to open a default judgment must be the same regardless of whether the substantive claim lies in contract or tort.
+Id., 350 Pa.Superior Ct. at 226, 504 A.2d at 328. Wolfskill is similar to the case at bar in that no meritorious defense was presented because it was assumed none was required. The Wolfskill Court reversed and remanded to give the appellee an opportunity to include a meritorious defense in his petition. In this case, appellee filed his petition to open on October 8, 1985, the day after the default judgment was entered, and explained that a delay in receiving a transcript of a deposition had resulted in his inability to form an answer to the complaint. Our independent and careful review of that petition leads us to conclude appellee did not demonstrate a legal defense could be shown even though the trial court, in his Opinion, indicated the three requirements of Schultz had been met (Slip Op. at 4). Accordingly, as in Wolfskill, we find it necessary to remand the instant case to afford appellee the opportunity to amend his petition to include such a defense. We wish to make clear this case is being remanded for an opportunity for amendment solely because of the uncertain state of the law at the time the petition was filed. Accordingly, we hold that such petitions filed in trespass actions prior to July 1, 1984 need not have included a meritorious defense, while such petitions filed after the filing date of Wolfskill, that is January 31, 1986, must allege a meritorious defense. Those petitions, like this one, falling between the two dates, should be closely reviewed and dealt with on a case by case basis.
+The Order of the trial court is vacated and the case is remanded for proceedings consistent with this Opinion.
+Jurisdiction relinquished.
+. Although the judge’s Order is dated October 6, 1985 (a Sunday), it is apparent and uncontradicted by the parties that the date was actually October 7, 1985, as was time-date stamped by the prothonotary.
+. The Supreme Court, in Schultz, found the following three requirements necessary to open a judgment: (1) the petition has been promptly filed; (2) a meritorious defense can be shown; and (3) the failure to appear can be excused. Schultz, 505 Pa. at 93, 477 A.2d at 472.
