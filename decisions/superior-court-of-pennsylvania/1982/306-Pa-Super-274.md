@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "3175"
+decided: "1982-11-05"
+citations: ["306 Pa. Super. 274", "452 A.2d 550"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CIRILLO, MONTEMURO and HOFFMAN, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Dennis Lee SHEFFIELD, Appellant."]
+source_url: "https://static.case.law/pa-super/306/cases/0274-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 201737
+cites_cases: ["235 A.2d 349", "258 Pa.Superior Ct. 40", "280 Pa.Superior Ct. 470", "290 Pa.Superior Ct. 209", "300 Pa.Superior Ct. 539", "427 Pa. 599", "468 Pa. 323"]
+---
+
+# Commonwealth v. Sheffield
+
+## Majority (HOFFMAN, Judge:)
+
+HOFFMAN, Judge:
+Appellant contends that his guilty plea counsel was ineffective. The present record, however, is insufficient to permit a determination of the merits of appellant’s contentions and therefore, we must remand the matter for an evidentiary hearing.
+On September 14, 1981, appellant entered counselled guilty pleas to rape, kidnapping, involuntary deviate sexual intercourse, statutory rape, aggravated assault, recklessly endangering another person, unlawful restraint, false imprisonment and terroristic threats arising out of a three-and-one-half hour assault upon a thirteen-year-old girl. At sentencing, appellant offered no testimony and was sentenced to consecutive terms of ten-to-twenty years on the rape charge, five-to-twenty years on the involuntary deviate sexual intercourse charge, two-to-ten years on the kidnapping charge, and one-to-two years on the recklessly endangering charge, as well as concurrent one-to-two year terms on the remaining charges. Appellant filed a pro se appeal to this Court, and new counsel was appointed.
+In reviewing appellant’s challenge to the effectiveness of his counsel, “our inquiry ceases and counsel’s assistance is deemed constitutionally effective once we are able to conclude that the particular course chosen by counsel had some reasonable basis designed to effectuate his client’s interests.” Commonwealth ex rel. Washington v. Maroney, 427 Pa. 599, 604, 235 A.2d 349, 352 (1967). “The initial factor we must consider is whether there is any arguable merit in the positions appellant now asserts, for it is axiomatic that counsel will not be deemed ineffective for failing to assert a baseless claim.” Commonwealth v. Boyd, 300 Pa.Superior Ct. 539, 543, 446 A.2d 1290, 1292 (1982). Appellant contends that counsel was ineffective in: (1) failing to file pre-trial motions; (2) advising him to plead guilty to all charges without any plea bargain; (3) allowing him to be sentenced on all of the offenses despite the obvious merger of sentences for several offenses; (4) failing to offer any mitigating evidence at the sentencing hearing; (5) allowing him to plead guilty despite being a patient at Farview State Mental Hospital and on medication; and (6) failing to take an appeal. We note first that this matter must be remanded for resentencing. “[I]n merger of sentence cases, we focus not only on the similarity of the elements of the crimes but also, and primarily, on the facts . .. for the question is whether those facts show that in practical effect the defendant committed a single act, in which case there will be a merger and only a single sentence may be imposed.” Commonwealth v. Crocker, 280 Pa.Superior Ct. 470, 475, 421 A.2d 818, 820 (1980). We note that under the particular facts of this case, as outlined by the Commonwealth at the guilty plea proceeding, statutory rape merges into rape, see Commonwealth v. Walker, 468 Pa. 323, 362 A.2d 227 (1976), recklessly endangering another person merges into aggravated assault, see Commonwealth v. Williams, 290 Pa.Superior Ct. 209, 434 A.2d 717 (1981), and false imprisonment and unlawful restraint merge into kidnapping, see Common wealth v. Belgrave, 258 Pa.Superior Ct. 40, 391 A.2d 662 (1978). Involuntary deviate sexual intercourse and terroristic threats do not merge with any of the other charges. Because the lower court erred in sentencing appellant to separate terms of imprisonment on the merged offenses, we must remand the matter for resentencing. With regard to ineffective assistance contentions, although several of appellant’s contentions may have arguable merit, the present record is insufficient for us to determine whether counsel had a reasonable basis for the course pursued. Accordingly, we must remand the matter for an evidentiary hearing on appellant’s ineffectiveness claims. If, following the hearing, the court determines that appellant was denied effective assistance of counsel, it shall enter an order granting appropriate relief. If, however, the court finds that appellant did receive effective representation, it shall then resentence him consistent with the directives of this opinion. Either party aggrieved by the court’s decision may take a new appeal to this Court, as provided by law.
+Judgment of sentence vacated and case remanded for proceedings consistent with this opinion.
