@@ -1,0 +1,21 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 1576"
+decided: "1977-05-04"
+citations: ["247 Pa. Super. 605", "373 A.2d 1135"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["VAN der VOORT, J., dissents."]
+parties: ["Commonwealth v. Robinson, Appellant."]
+source_url: "https://static.case.law/pa-super/247/cases/0605-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 831231
+---
+
+# Commonwealth v. Robinson
+
+## Majority
+
+Judgment of sentence affirmed.
+VAN der VOORT, J., dissents.
