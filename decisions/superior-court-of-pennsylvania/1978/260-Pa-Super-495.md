@@ -1,0 +1,22 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 599"
+decided: "1978-11-29"
+citations: ["260 Pa. Super. 495", "394 A.2d 1035"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CERCONE, WIEAND and HOFFMAN, JJ."]
+parties: ["Lora Lee DUFRESNE v. Paul W. DUFRESNE, Appellant."]
+source_url: "https://static.case.law/pa-super/260/cases/0495-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 108732
+---
+
+# Dufresne v. Dufresne
+
+## Majority (PER CURIAM:)
+
+OPINION
+PER CURIAM:
+Decree affirmed. Having made an independent study of the entire record, we are of the opinion that the court below properly granted a decree in divorce in this case.
