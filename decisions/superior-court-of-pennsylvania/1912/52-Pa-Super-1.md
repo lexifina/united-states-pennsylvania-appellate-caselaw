@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1; Appeal, No. 80"
+decided: "1912-10-14"
+citations: ["52 Pa. Super. 1"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Kice, P. J., Henderson, Morrison, Orlady, Head and Porter, JJ."]
+parties: ["Clark v. Freeport Clays, Products and Minerals Company, Appellant"]
+source_url: "https://static.case.law/pa-super/52/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 432809
+cites_cases: ["10 Pa. Superior Ct. 117", "102 Pa. 269", "122 Pa. 579", "142 Pa. 446", "161 Pa. 157", "181 Pa. 327", "185 Pa. 586", "203 Pa. 6", "226 Pa. 292", "227 Pa. 235"]
+---
+
+# Clark v. Freeport Clays, Products & Minerals Co.
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+The evidence presented at the trial makes it clear that Jennings DeWitt who was the vice president and general manager had the unrestrained control of the affairs of the corporation. There was no president; there had been but one meeting of directors; there were neither articles of association nor by-laws, and we do not find any evidence that Runkell, the secretary, and Rustler, the treasurer, were stockholders. According to the evidence presented all the outstanding stock of the company of the par value of $100,000 was issued to DeWitt, who gave therefor $2,500 in cash and his obligations for $97,500, and apparently it was on this basis of $2,500 cash that the company was doing business. Its visible assets consisted of a piece of land the price of which did not exceed $3,000 and on which there was a mortgage of $1,500. The evidence is not clear whether a payment of $1,500 was made on the property on which the $1,500 mortgage was placed or whether this mortgage was for the whole consideration. DeWitt managed all the business, including the negotiations with which the plaintiff was connected through the contract on which suit was brought. The court was not in error therefore in affirming the plaintiff’s first point. The evidence warrants the assumption of the facts stated in the point, and the answer is in harmony with the doctrine of Chestnut Street Trust & Sav. Fund Co. v. Record Pub. Co., 227 Pa. 235, in which it was held that where the stockholders and directors turn over to an officer the full and absolute management of all corporation affairs and permit him to exercise unrestrained control for a long course of time without instruction from, or reference to, any other authority, prima facie the officers so intrusted may be taken to have power to do any act which the directors could authorize or ratify. The same principle is stated in First Nat. Bank v. Colonial Hotel Co., 226 Pa. 292. To the same effect is 2 Cook on Corporations, sec. 19. The case before us is more favorable to the plaintiff on the facts in this respect than those cited, for there is a lack of evidence of any attempt on the part of the directors or other officers of the company to manage or control. As DeWitt had control of the stock it is easy to see how he controlled the corporation. It was properly characterized as a “one man” corporation by the learned trial judge. It was in financial straits and needed money. The plaintiff on the strength of the contracts made with the defendants induced an acquaintance to furnish it. The stock turned over as a part consideration for the plaintiff’s services had no market value at the time, and the commissions to be thereafter received may have been the chief consideration for the services rendered. The defendants had the legal capacity to agree to pay the price which was named in the contract. The consideration might be little or much as the enterprise succeeded or failed, and the plaintiff took his chances. We are not warranted in saying that the contract is void because it may have proved to be more valuable than would have been the case under other circumstances. We do not find in the testimony such evidence as would have authorized the court to hold that the plaintiff was a broker in the transaction out of which the action arises, and that he could not recover on the contract because he had not paid a license as broker. Occasional transactions by an attorney on behalf of a client in the investment of money are incidental to his principal business and are not regarded as constituting him a broker under the act of May 7, 1907, P. L. 175. It does not appear that he held himself out as one engaged in a brokerage business or that the negotiations of loans constituted his business. At any rate the question was one for the jury and not for the court. We are not convinced that the learned judge committed error in submitting the case to the jury on the charge and answers to the points presented in the assignment of error. The issue was not complicated and was clearly stated to the jury.
+We therefore affirm the judgment.
