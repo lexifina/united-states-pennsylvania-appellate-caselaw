@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 44"
+decided: "1936-01-31"
+citations: ["121 Pa. Super. 42"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Baldrige, Stadteeld, Parker, James and Rhodes, JJ."]
+parties: ["Shapiro, Appellant, v. Rudley et al."]
+source_url: "https://static.case.law/pa-super/121/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 988329
+cites_cases: ["103 Pa. Superior Ct. 463", "135 A. 223", "139 A. 615", "148 Pa. 503", "157 A. 11", "231 Pa. 68", "24 A. 73", "287 Pa. 505", "291 Pa. 85", "34 Pa. Superior Ct. 339", "79 A. 924"]
+---
+
+# Shapiro v. Rudley
+
+## Majority (Baldrige, J.,)
+
+Opinion by
+Baldrige, J.,
+The plaintiff, Mary Shapiro, entered judgment against the defendants, issued an attachment sur judgment, and summoned the Pennsylvania Company for Insurance on Lives and Granting Annuities as garnishee. After an entry of the.plea of nulla bona, a trial was had, resulting in a verdict by the court for the garnishee. The plaintiff appealed.
+Fanny Rudley, one of the defendants, owned a property in Philadelphia, which was operated as a garage by her sons, the two other defendants herein. It was encumbered by a first mortgage of $40,000 held by the Pennsylvania Company, and by a second mortgage held by a third party. Mrs. Rudley became delinquent in the payment of her taxes, interest on the mortgages, and installments of principal due on the second mortgage.
+Daniel O’Connell, Esq., attorney for the Rudleys, Mr. Livingston, representing the Pennsylvania Company, and a representative of the holder of the second mortgage held a meeting in the early fall of 1932, for the purpose of devising a plan whereby the owner of the real estate might make installment payments to the first mortgagee on account of mortgage interest past due and unpaid taxes assessed against the property. According to the testimony of Mr. O’Connell, the only witness called, the Rudleys suggested that they pay $600 a month to the Pennsylvania Company, as agent, which' it was to apply as it saw fit. These payments were to be subject to the condition that neither of the mortgagees would foreclose within one year. If there was a foreclosure, the amount of the payments was to be returned. These terms were not accepted. Negotiations were continued from October 6th to December 17,1932, by correspondence between Mr. O’Connell and Mr. Livingston. Mr. Livingston, in acknowledging a receipt of $500 from Mr. O’Connell, wrote Mm, October 8, 1932: “In view of the fact that our clients have requested we obtain $600 a month we cannot at this particular moment make final acceptance of your proposition.” Mr. O’Connell sent a letter, November 22, 1932, to Mr. Livingston, enclosing a check for $400, to be applied on account of the first mortgage interest, wherein he stated that this was all the money the Rudleys could pay. In acknowledgment of this payment, Mr. Livingston, in a letter, dated November 28, 1932, stated: “With no desire to appear critical, we are a trifle disappointed in the payment. However, wé will take the matter up with the other parties concerned and advise you. We note that if a satisfactory agreement is not made, the $900 which we have on deposit is to be returned to you.”
+It is apparent that no definite agreement had been reached at that time and that the monthly installments, originally suggested, had not been paid. The next letter, dated December 14th, from Mr. O’Connell, contained a check for $400, to be applied on account of the first mortgage interest and taxes, in which the writer stated: “It is understood that this sum, viz. $400 together with the $900 heretofore paid on account, shall be returned to me as attorney for Fannie Rudley in the event of foreclosure proceedings by you.” (Italics supplied). This letter was acknowledged, December 17th, by Mr. Livingston, wherein he said: “We thank you kindly for your letter of December 14th accompanied with $400 check in the above matter which we accept in accordance with the conditions in your letter.”
+The Pennsylvania Company complied with the terms imposed, by not foreclosing its mortgage, but the second mortgagee did foreclose within a year. The plaintiff, a creditor of the Rudleys, claimed that by foreclosure the conditions of the contract were breached, and the fund of $1800 paid to the Pennsylvania Company belonged to the Rudleys and was bound by her attachment.
+We do not question the well-established rule invoked by the appellant that, where part of an agreement is in parol and part in writing, the whole of the contract is in parol: Dougherty v. Briggs, 231 Pa. 68, 79 A. 924; Knapp Bros. Mfg. Co. v. Robinson Elec. Co., 103 Pa. Superior Ct. 463, 157 A. 11. In that event, it would have been the duty of the court to have, submitted the oral testimony of Mr. O’Connell to the jury. But in the case at bar, that principle has no relevancy. The oral provisions proposed during the negotiations were never either impliedly or expressly accepted. The contract ultimately consisted of the last definite proposal in writing, certain in its meaning, which was unqualifiedly accepted in writing. Those writings composed the entire and completed contract: Vitro Mfg. Co. v. Chemical Co., 291 Pa. 85, 139 A. 615. They set forth the final result of the dealings, and therein all former negotiations were merged and extinguished. The alleged oral agreement, as testified to by Mr. O’Connell, being in flat contradiction of the written contract, was properly held inadmissible: Wodock v. Robinson, 148 Pa. 503, 24 A. 73; Murphey v. Greybill, 34 Pa. Superior Ct. 339.
+The appellant, here, as in Abbott et ux. v. Automobile Finance Co., 287 Pa. 505, 135 A. 223, urges that there was no merger. The court, in that case, held that whether or not the prior agreements were merged in a subsequent agreement was a question of law for the court.
+We find no reason to differ with Judge Parry’s conclusion that all the oral negotiations were merged in the written agreement or with his action in directing a verdict for the garnishee.
+Judgment is affirmed.
