@@ -1,0 +1,44 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1170"
+decided: "1982-07-23"
+citations: ["302 Pa. Super. 248", "448 A.2d 620"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WIEAND, McEWEN and POPOVICH, JJ.", "McEWEN and POPOVICH, JJ., concur in the result."]
+parties: ["Myron KLEIN, Philip Klein, and Myron Klein, Administrator of the Estate of Shirley M. Klein, Deceased, Appellants, v. Mark RAYSINGER and 600 Corporation t/a Neptune Inn, C/O Laura Fagan, Michael Gilligan, Mr. and Mrs. William T. Gilligan and Michael Klein."]
+source_url: "https://static.case.law/pa-super/302/cases/0248-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 194369
+cites_cases: ["145 Cal.Rptr. 534", "155 A.2d 343", "198 A.2d 532", "198 A.2d 550", "21 Cal.3d 144", "266 Pa.Super. 401", "281 Pa.Super. 135", "290 Pa.Super. 281", "293 Pa.Super. 122", "294 Pa.Super. 265", "296 Pa.Super. 37", "298 Pa.Super. 246", "310 A.2d 75", "368 Pa. 416", "397 Pa. 316", "413 Pa. 555", "413 Pa. 626", "454 Pa. 237", "460 F.Supp. 80", "482 Pa. 202", "486 Pa. 146", "577 P.2d 669", "84 A.2d 307"]
+---
+
+# Klein v. Raysinger
+
+## Majority (WIEAND, Judge:)
+
+WIEAND, Judge:
+Myron, Philip, and Shirley Klein were passengers in a vehicle that was struck in the rear by a vehicle operated by an intoxicated Mark Raysinger. An action was instituted to recover damages for injuries sustained by the Kleins. Included as defendants were Michael Gilligan and Mr. and Mrs. William Gilligan, all of whom were charged with negligence in serving one or more alcholic beverages to Raysinger in their home at a time when Raysinger was visibly intoxicated. They were also charged with negligence in permitting Raysinger to drive his own vehicle while he was visibly intoxicated. The Gilligans filed preliminary objections in the nature of a demurrer to the Kleins’ complaint, and when the trial court sustained those preliminary objections the Kleins appealed. .
+The standard for reviewing an order of the lower court sustaining preliminary objections in the nature of a demurrer is set forth in Sinn v. Burd, 486 Pa. 146, 149-150, 404 A.2d 672, 673-674 (1979): “It is axiomatic in the law of pleading that preliminary objections in the nature of a demurrer admit as true all well and clearly pleaded material, factual averments and all inferences fairly deducible therefrom. Yania v. Bigan, 397 Pa. 316, 155 A.2d 343 (1959); Byers v. Ward, 368 Pa. 416, 84 A.2d 307 (1951). Conclusions of law and unjustified inferences are not admitted by the pleading. Lerman v. Rudolph, 413 Pa. 555, 198 A.2d 532 (1964). Starting from this point of reference the complaint must be examined to determine whether it sets forth a cause of action which, if proved, would entitle the party to the relief sought. If such is the case, the demurrer may not be sustained. On the other hand, where the complaint fails to set forth a cause of action, a preliminary objection in the nature of a demurrer is properly sustained.” Accord: Harley Davidson Motor Co., Inc. v. Hartman, 296 Pa.Super. 37, 41, 442 A.2d 284, 285-286 (1982); Rose v. Wissinger, 294 Pa.Super. 265, 270, 439 A.2d 1193, 1196 (1982); Banyas v. Lower Bucks Hospital, 293 Pa.Super. 122, 124, 437 A.2d 1236, 1237 (1981); Chapman v. City of Philadelphia, 290 Pa.Super. 281, 283, 434 A.2d 753, 754 (1981).
+Appellants contend that appellees became civilly liable by the application of common law principles of negligence when they served alcholic beverages to a visibly intoxicated social guest. However, the complaint is defective in that it fails to allege that when Michael Gilligan served intoxicants to Raysinger he knew or had reason to know that Raysinger would operate a motor vehicle while intoxicated. Nevertheless, this is an inadequate reason to dismiss the complaint. If the possibility of stating a cause of action exists, appellants must be given an opportunity to file an amended complaint. See Otto v. American Mutual Insurance Company, 482 Pa. 202, 393 A.2d 450 (1978); Harkins v. Zamichieli, 266 Pa.Super. 401, 405 A.2d 495 (1979).
+In Manning v. Andy, 454 Pa. 237, 310 A.2d 75 (1973), the Supreme Court refused to extend civil liability to a social host for the conduct of an intoxicated guest. It said: “Only licensed persons engaged in the sale of intoxicants have been held to be civilly liable to injured parties. Jardine v. Upper Darby Lodge No. 1973, 413 Pa. 626, 198 A.2d 550 (1964). Appellant asks us to impose civil liability on nonlicensed persons like appellees, who furnish intoxicants for no remuneration. We decline to do so. While appellant’s proposal may have merit, we feel that a decision of this monumental nature is best left to the legislature.” Id., 454 Pa. at 239, 310 A.2d at 76. (Emphasis in original).
+This holding was followed recently by a panel of this Court in affirming a summary judgment entered in favor of the social hosts in a companion suit filed by Michael Klein, the driver of the vehicle struck by Raysinger. See Klein v. Raysinger, 298 Pa.Super. 246, 444 A.2d 753 (1982). See also Couts v. Ghion, 281 Pa.Super. 135, 421 A.2d 1184 (1980).
+Another decision which is instructive, although not binding, is the decision of the United States District Court for The District of Columbia in Cartwright v. Hyatt Corporation, 460 F.Supp. 80 (D.C.D.C.1978). There, on similar facts, the Court observed:
+Plaintiff’s argument that this Court should find or create a common law duty, as the California Supreme Court attempted to do in Coulter v. Superior Court of San Mateo County, 21 Cal.3d 144, 145 Cal.Rptr. 534, 577 P.2d 669 (1978), is not persuasive .... Valid policy considerations exist on both sides of this issue, and the Court is not prepared to adopt for the District of Columbia a rule not judicially imposed by any other court in any other jurisdiction. If such a rule is to become a part of District of Columbia law, the decision should appropriately be made by the legislature—as it has been wherever the rule has been adopted.
+Id. at 81-82 (Footnotes omitted).
+It is clear that Pennsylvania law does not presently recognize a cause of action against a non-licensed, social host who furnishes alcoholic beverages to an intoxicated guest. In view of the carnage on public highways caused by drivers under the influence of alcohol, it may be, as appellants contend, that the time has come to impose such liability. Until such a change is effected by the legislature or by the Supreme Court, however, we are required to follow and apply existing law. When existing law is applied, it is clear that appellants have no cause of action against appellees.
+Affirmed.
+McEWEN and POPOVICH, JJ., concur in the result.
+. Paragraph 36 of appellants’ complaint alleged:
+36. The negligence of the Defendant, Michael Gilligan consisted in the following:
+(a) Negligently and carelessly serving alcoholic and intoxicating beverages to Defendant, Raysinger, who was visibly intoxicated;
+(b) Failing to recognize the danger of allowing the Defendant, Raysinger, to drive a motor vehicle on the highway after serving him alcoholic and intoxicating beverages;
+(c) Negligence at law.
+Paragraph 39 of appellants’ complaint alleged:
+39. The negligence of the Defendant, Mr. and Mrs. William T. Gilligan, husband and wife through their agent, servant and/or employee consisted in the following:
+(a) Negligently and carelessly serving alcoholic and intoxicating beverages to Defendant, Raysinger, who was visibly intoxicated;
+(b) Failing to recognize the danger of allowing the Defendant, Raysinger to drive a motor vehicle on the higher [sic] after being served alcoholic and intoxicating beverages;
+(c) Negligence at law.
+. The decision in Coulter v. Superior Court of San Mateo County represented an attempt by a court to create a cause of action against a social host for the conduct of a guest. It was expressly overruled by the California legislature in less than five months.
+. It is unnecessary to discuss at length appellants’ averments that appellees were negligent in allowing Raysinger to drive his own vehicle while intoxicated. The law does not recognize a cause of action against one who fails to prevent another from committing a crime. Indeed, a social host is not privileged to use force against or impose confinement upon another for the purpose of preventing the violation of a statute or the commission of a misdemeanor, Restatement of Torts 2d § 141, and may become liable to the other if force is applied or confinement imposed. Restatement of* Torts 2d § 144. We perceive no valid social or legal reason for creating a general duty upon a social host which requires that he or she guarantee the lawfulness of a guest’s future conduct.
