@@ -1,0 +1,46 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2181"
+decided: "1982-10-08"
+citations: ["305 Pa. Super. 310", "451 A.2d 546"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before SPAETH, ROWLEY and CIRILLO, JJ.", "SPAETH, J., concurs in the result."]
+parties: ["COMMONWEALTH of Pennsylvania, Appellant, v. Harold William JOHNSON."]
+source_url: "https://static.case.law/pa-super/305/cases/0310-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 200368
+cites_cases: ["242 Pa.Super. 218", "250 Pa.Super. 66", "256 Pa.Super. 456", "258 Pa.Super. 251", "260 Pa.Super. 130", "260 Pa.Super. 62", "274 Pa.Super. 23", "284 Pa.Super. 125", "284 Pa.Superior Ct. 132", "288 Pa.Super. 119", "493 Pa. 402", "494 Pa. 440"]
+---
+
+# Commonwealth v. Johnson
+
+## Majority (CIRILLO, Judge.)
+
+CIRILLO, Judge.
+This is an appeal from an order of the lower court granting appellee’s petition to dismiss, with prejudice, criminal charges against him, discharging him from custody, and denying the Commonwealth’s petition for an extension of time in which to commence trial, both filed pursuant to Pa.R.Crim.P. 1100. For reasons stated herein, we reverse the orders of the lower court, reinstate the informations, and remand the case for trial within 120 days.
+On December 23, 1979, a fire occurred behind a bakery in West Chester, Pennsylvania. Appellee, who was suspected of having set this fire, was arrested in New Jersey on January 7, 1980 and charged with arson in connection with another fire that was set on December 31, 1979 in Atlantic City, New Jersey. After the Chester County authorities were notified of appellee’s arrest, they contacted the First Assistant Prosecutor of Atlantic County who informed them that extradition would not be permitted until the conclusion of the proceedings against appellee in New Jersey. On February 7, 1980, after completion of their investigation, Chester County authorities filed a complaint charging appellee with arson and related crimes in connection with the West Chester fire.
+Appellee pleaded guilty to the New Jersey charges on March 3, 1980 and a presentence investigation and report was ordered. He was sentenced on April 25, 1980, thus concluding the New Jersey prosecution.
+Appellee was returned to Chester County on May 5, 1980, and, on June 6, 1980, entered a plea of not guilty to the charges filed in connection with the West Chester fire. Trial was scheduled for August 18, 1980. On July 31, 1980, the Commonwealth filed a timely application to extend time for commencement of trial pursuant to Pa.R.Crim.P. 1100(c). Appellee filed a petition to dismiss pursuant to Pa.R.Crim.P. 1100(f) on August 13, 1980. On September 10, 1980, after a hearing, the Commonwealth’s petition was denied and appellee’s was granted.
+The Commonwealth contends that the lower court erred in finding that it failed to prove, by a preponderance of the evidence, that it acted with due diligence to secure appellee’s presence for trial. Commonwealth v. Polsky, 493 Pa. 402, 406, 426 A.2d 610, 612 (1981); Commonwealth v. Kovacs, 250 Pa.Super. 66, 71, 378 A.2d 455, 457 (1977). We agree.
+A trial must commence within 180 days of the date upon which a written complaint, charging a defendant with a crime, has been filed. Pa.R.Crim.P. 1100(a)(2). Any period of delay resulting from the unavailability of the defendant is excluded. Pa.R.Crim.P. 1100(d)(1). The period is also subject to an extension upon a showing by the Commonwealth that trial could not be commenced within the prescribed time. Pa.R.Crim.P. 1100(c); Commonwealth v. Roman, 494 Pa. 440, 444, 431 A.2d 936, 938 (1981); Commonwealth v. Williams, 284 Pa.Super. 125, 131, 425 A.2d 451, 454 (1981). A defendant’s incarceration in another jurisdiction may provide a valid reason for granting an extension provided that the Commonwealth sustains its burden of proving that it exercised due diligence in attempting to secure the defendant’s presence at trial. Commonwealth v. Emmett, 274 Pa.Super. 23, 28, 417 A.2d 1232, 1235 (1979); Commonwealth v. Clark, 256 Pa.Super. 456, 390 A.2d 192, 194-95 (1978); Commonwealth v. McCafferty, 242 Pa.Super. 218, 363 A.2d 1239, 1240 (1976). It is important to note that the Commonwealth is not required to show that it acted with perfect vigilance and punctilious care. It is only necessary that it prove that reasonable efforts were made to procure a defendant’s attendance at trial. Polsky, 426 A.2d at 613, Emmett, 417 A.2d at 1235.
+The evidence presented in the instant case clearly shows that the Commonwealth sustained its burden of proving that it acted with due diligence. Its immediate inquiry into the feasibility of extradition proceedings, its justified reliance on the Assistant Prosecutor’s statement that it would be notified as soon as the prosecution was concluded, and appellee’s prompt return to Chester County following the disposition of the New Jersey charges is sufficient to prove, by a preponderance of the evidence, that the Commonwealth acted with due diligence to secure appellee’s presence at trial. Roman, 431 A.2d at 938; Williams, 425 A.2d at 455; Commonwealth v. Warman, 260 Pa.Super. 130, 393 A.2d 1046, 1049 (1978).
+The lower court’s finding, that the Commonwealth’s failure to institute proceedings under the Uniform Criminal Extradition Act was evidence of a lack of due diligence on its part, was incorrect. This action would clearly have been futile in light of the New Jersey authorities’ steadfast refusal to release appellee prior to the conclusion of the criminal proceedings against him in New Jersey. Williams, 284 Pa.Superior Ct. 132, 425 A.2d at 455. In addition, the Commonwealth should not have been penalized for failing to secure appellee’s presence through the Interstate Agreement on Detainers Act. This act could not be employed to gain custody of appellee because it only provides for the extradition of defendants who are serving sentences in other jurisdictions, and not those who are merely incarcerated while awaiting the disposition of criminal charges against them. Commonwealth v. Heath, 288 Pa.Super. 119, 128, 431 A.2d 317, 321 (1981), compare, Commonwealth v. Long, 258 Pa.Super. 251, 392 A.2d 779, 783 (1980).
+Therefore, the lower court erred in granting appellee’s petition to dismiss and in denying the Commonwealth’s petition to extend. Compare, Commonwealth v. Bass, 260 Pa.Super. 62, 393 A.2d 1012, 1014-15 (1978).
+The order of the lower court is reversed, the informations are reinstated and the case is remanded for trial.
+SPAETH, J., concurs in the result.
+. Appellee’s petition to dismiss was filed pursuant to Pa.R.Crim.P. 1100(f) which provides:
+(f) At any time before trial, the defendant or his attorney may apply to the court for an order dismissing the charges with prejudice on the ground that this Rule has been violated. A copy of such application shall be served upon the attorney for the Commonwealth, who shall also have the right to be heard thereon. Any order granting such application shall dismiss the charges with prejudice and discharge the defendant.
+Appellant’s petition for an extension of time in which to commence trial was filed pursuant to Pa.R.Crim.P. 1100(c) which provides:
+(c) At any time prior to the expiration of the period for commencement of trial, the attorney for the Commonwealth may apply to the court for an order extending the time for commencement of trial. A copy of such application shall be served upon the defendant through his attorney, if any, and the defendant shall also have the right to be heard thereon. Such application shall be granted only if trial cannot be commenced within the prescribed period despite due diligence by the Commonwealth. Any order granting such application shall specify the date or period within which trial shall be commenced.
+. Specifically, appellee was charged with Arson, Act of December 6, 1972, P.L. 1482, No. 334, § 1, 18 Pa.C.S.A. §§ 3301(a), (b)(1) and (2); Causing or risking catastrophe, Id. §§ 3302(a) and (b); and Criminal Mischief, Id. §§ 3304(a)(1) and (2).
+. On April 18, 1980, the First Assistant Prosecutor of Atlantic County sent a letter to Chester County authorities confirming his earlier statement that extradition would not be allowed until the conclusion of the proceedings in New Jersey.
+. Pa.R.Crim.P. 1100(d) provides:
+(d) In determining the period for commencement of trial, there shall be excluded therefrom:
+(1) the period of time between the filing of the written complaint and the defendant’s arrest; provided that the defendant could not be apprehended because his whereabouts were unknown and could not be determined by due diligence.
+(2) any period of time for which the defendant expressly waives Rule 1100;
+(i) the unavailability of his attorney;
+(ii) any continuance granted at the request of the defendant or his attorney.
+. Act of July 9, 1976, P.L. 586, No. 142, § 2, 42 Pa.C.S.A. § 9121 et seq. Under this act, a state is not obligated to allow extradition of a defendant when it has been requested to do so. Id. §§ 9126(a) and (b), 9140. See also, N.J.S.A. § 2A: 160-27, which makes the same provision.
+. See, Act of July 9, 1976, P.L. 586, No. 142, § 2, 42 Pa.C.S.A. § 9101, Art. III(a).
