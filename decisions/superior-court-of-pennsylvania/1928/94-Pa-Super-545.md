@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 152"
+decided: "1928-11-21"
+citations: ["94 Pa. Super. 545"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, P. J., Henderson, Trexler, Keller, Linn and Cunningham, JJ."]
+parties: ["Commonwealth ex rel. Reynolds, Appellant, v. Reynolds."]
+source_url: "https://static.case.law/pa-super/94/cases/0545-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 679962
+cites_cases: ["16 Pa. 256", "197 Pa. 11", "6 Pa. 86", "81 Pa. Superior Ct. 191", "89 Pa. Superior Ct. 216", "91 Pa. Superior Ct. 533"]
+---
+
+# Reynolds v. Reynolds
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+On October 27, 1921, Ella M. Reynolds, the appellant, presented a petition to the Municipal Court setting forth that her husband had wilfully deserted her, and praying for an order of maintenance. The parties having appeared in court, and consideration having been given to the subject, an order was entered on November 1, 1921, requiring the respondent to pay to his wife $7 per week, and to give security for compliance with the order. On July 12, 1924, suggestion was made to the court that the respondent was in arrears in the sum of $38 under the order, whereupon an attachment was issued, and on July 16, 1924, the amount in arrears was paid. On September 3, 1926, a second suggestion was presented to the court reciting that the respondent was in arrears in. the sum of $123 under the said order, whereupon an attachment was issued against him. On October 20, 1927, the respondent presented a petition to the court praying for the vacation of the order of November 1, 1921 and the remittance of arrearages. This petition came up for hearing before Hon. James E. Gorman on November 16, 1927, at which time after hearing, the petition was dismissed. On December 5, 1927, the relator presented a petition for an attachment by reason of the respondent’s default in compliance with the prior order of the court. This application came on for hearing on December 13, 1927, at which time the respondent was present with his counsel and the relator without counsel. Evidence was presented by the respondent to the effect that he had offered to the relator a room at 722 Green Street, Philadelphia, which “it would appear she refused to accept.” The court then vacated the original order of support of November 1, 1921. The foregoing recital of facts appears in the record in part and in part from a “stipulation between counsel for appellee and appellant.” The order of Judge Gorman of November 16, 1927, refusing to vacate the order of November 1, 1921, was responsive to the respondent’s petition and was a final disposal of the issue then pending. The only question presented by the record for consideration on December 13, 1927, was the remission of arrearages under the original order and the dismissal of the attachment. The relator had raised no other question and there was no pending proceeding putting the appellant on notice that she would be required on that day to show cause why the original order should not be revoked. She was not represented by counsel and it does not appear that she was prepared by the presence of witnesses to contest the propriety of such order. No appeal was taken from the order of Judge Gorman of November 16, 1927, and that closed the controversy as to the respondent’s liability until that question should again be brought before the court on cause shown to be heard after notice to the appellant of the pend-ency of such proceeding, and with opportunity to her to be heard by counsel and testimony. The burden was on the respondent to show that the facts which induced the court to make the original order had ceased to exist, and this was not done in any hearing regularly had after proper notice to the relator. What the changed circumstances were which may have moved the court to enter the order complained of do not appear except inferentially from the fact that testimony seems to have been given by the respondent that he had secured a room for the relator. The fact of desertion is not overcome, the ability to support is not controverted, and the appellant was deprived of a day in court duly appointed where the respondent’s petition for exoneration could be disposed of on its merits. We are of the opinion therefore that the court erred in vacating the order of November 1, 1921, and discharging the respondent. If changed conditions call for judicial action, the subject should be presented to the court by appropriate petition to be heard on due notice to the relator with an opportunity to her to be represented by counsel.
+The first assignment is therefore sustained. The order of December 13, 1927, is reversed and the order of November 1, 1921, is reinstated. Cost to be paid by the appellee.
+Note — This opinion was written by Judge Henderson and adopted by the court as its judgment before his death though filed thereafter.
