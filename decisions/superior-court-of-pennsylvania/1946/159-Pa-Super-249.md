@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 80"
+decided: "1946-07-19"
+citations: ["159 Pa. Super. 249"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Baldrige, P. J,, Rhodes, Hirt, Reno, Dithrich, Ross and Arnold, JJ.", "Judges Rhodes and Arnold would reverse the judgment and reinstate the motion for a new trial."]
+parties: ["Blough, Appellant, v. Modern Woodmen of America."]
+source_url: "https://static.case.law/pa-super/159/cases/0249-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1065875
+cites_cases: ["112 A. 476", "166 A. 768", "186 A. 133", "191 Pa. 484", "21 A. 2d 81", "22 A. 2d 691", "269 Pa. 213", "311 Pa. 221", "322 Pa. 547", "334 Pa. 167", "336 Pa. 62", "340 Pa. 503", "342 Pa. 404", "343 Pa. 365", "351 Pa. 554", "41 A. 2d 542", "43 A. 374", "89 Pa. Superior Ct. 109"]
+---
+
+# Blough v. Modern Woodmen of America
+
+## Majority (Dithrich, J.,)
+
+Opinion by
+Dithrich, J.,
+In his application for a policy of insurance, plaintiff’s husband admittedly made false answers to certain questions material to the risk. To questions “9a. Has any application by you for any insurance ever been rejected, postponed, refused, rated up, or withdrawn?” and “10a. Have you within the last five years, consulted or been treated by any physician or physicians or other person in regard to personal ailment?”, the insured answered “No.”
+At the trial, it affirmatively appeared from competent and uncontradicted documentary evidence that the insured had previously made application to another life insurance company for a policy of insurance and had been rejected for the reason that he was found not to be an insurable risk. It also affirmatively appeared from the testimony of Dr. A. M. Benslioff that he had treated the insured within a period of five years prior to the date of said application several times for rheumatism, bronchitis, and acid stomach and that during the course of his treatment he discovered that the insured had an “organic heart condition” but that he did not treat him for this condition or discuss it with him.
+The case was submitted to the jury which found for plaintiff and from the entry of judgment for the defendant n.o.v., plaintiff appeals.
+The learned judge of the court below based his action solely on the false answer to the question as to other insurance, holding that the evidence as to the medical history, while uncontradicted, being the oral testimony of a physician called as a witness by defendant, was, under the authority of Evans v. Penn Mutual Life Insurance Co., 322 Pa. 547, 186 A. 133, properly submitted to the jury. But it having been conclusively proven by uneontradicted documentary evidence that the answer to question 9h. was false, the entry of judgment for the defendant n.o.v. was entirely proper.
+The application, a copy of which was attached to the policy, was, by the express terms of the policy, made a part thereof. Following the questions and answers by the insured appears the following declaration: “I, hereby declare that all the foregoing statements and answers are complete and true, and I agree that all the foregoing statements and answers, together with this declaration, shall constitute the application and become a part of the contract of insurance hereby applied for. I further agree that the certificate herein applied for shall be accepted by me subject to the privileges and provisions therein contained.” Plaintiff bases her appeal solely on the ground that defendant failed to prove that the insured knew the answer to the question was false or that he otherwise acted in bad faith. It is true that it does not appear that the insured was notified that his application with the other insurance company had been rejected, but bad faith may be inferred from his failure to reveal to defendant that he had made such application, notwithstanding he had not been told of its rejection: Stawartz v. Western Life Indemnity Co., 89 Pa. Superior Ct. 109; Moncur v. Western Life Indemnity Co., 269 Pa. 213, 112 A. 476; Applebaum v. Empire State Life Assurance Society, 311 Pa. 221, 166 A. 768. He knew that the policy for which he had applied had not been issued nor the application withdrawn, and therefore he must have known that it had either been rejected, postponed, or refused. Had this information been furnished it would have enabled the insurer to protect itself by making further investigation. This being a non-medical plan of insurance under which the insured was not required to submit to a medical examination, the insurer must be regarded as having relied largely upon the answers of the insured to the questions referred to in determining whether or not a policy of insurance Avould be issued to him. Cf. American Union Life Insurance Co. v. Judge, 191 Pa. 484, 485, 43 A. 374.
+The prior rejection Avas material to the risk (Applebaum v. Empire State Life Assurance Society, supra) and a false answer in respect thereof permits the insurer to avoid the policy. Prevete v. Metropolitan Life Insurance Co., 343 Pa. 365, 368, 22 A. 2d 691; Derr et al. v. Mutual Life Insurance Co. of N. Y., 351 Pa. 554, 559, 41 A. 2d 542.
+“The rule governing cases of this sort was set forth in Evans v. Penn Mutual Life Ins. Co., 322 Pa. 547 (and reiterated in Indovina v. Metropolitan Life Ins. Co., 334 Pa. 167, Bailey v. Pacific Mutual Life Ins. Co., 336 Pa. 62, and Reeder v. Metropolitan Life Ins. Co., 340 Pa. 503), at p. 555: ‘Where it affirmatively appears, from sufficient documentary evidence, that the policy was issued in reliance on false and fraudulent statements, made by or on behalf of the insured, as where false answers are shown to have been given by the insured under such circumstances that he must have been aware of their falsity, the court may direct a verdict or enter judgment for the insurer:’ ” Freedman v. Mutual Life Insurance Co. of N. Y., 342 Pa. 404, 408, 409, 21 A. 2d 81; Derr et al. v. Mutual Life Insurance Co., supra, p. 559.
+The judgment is affirmed.
+Judges Rhodes and Arnold would reverse the judgment and reinstate the motion for a new trial.
