@@ -1,0 +1,53 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeals, Nos. 1934 C.D. 1981 and 1955 C.D. 1981"
+decided: "1983-08-03"
+citations: ["76 Pa. Commw. 150"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Crumlish, Jr. and Judges Eogers, Blatt, Williams, Jr. and MacPhail."]
+parties: ["International Union, United Plant Guard Workers of America, Petitioner v. Commonwealth of Pennsylvania, Pennsylvania Labor Relations Board, Respondent. University of Pittsburgh et al., Intervenors; University of Pittsburgh, Petitioner v. Commonwealth of Pennsylvania, Pennsylvania Labor Relations Board, Respondent. International Union, United Plant Guard Workers of America et al., Intervenors."]
+source_url: "https://static.case.law/pa-commw/76/cases/0150-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1311912
+cites_cases: ["22 Pa. Commonwealth Ct. 267", "285 A.2d 909", "292 A.2d 395", "348 A.2d 502", "4 Pa. Commonwealth Ct. 392", "448 Pa. 424"]
+---
+
+# International Union, United Plant Guard Workers of America v. Commonwealth, Pennsylvania Labor Relations Board
+
+## Majority (President Judge Ceumlish, Jr.,)
+
+Opinion by
+President Judge Ceumlish, Jr.,
+The Union Plant Guard Workers of America (U.P.G.W.A.) and the University of Pittsburgh appeal a Pennsylvania Labor Relations Board order certifying the Fraternal Order of Police (F.O.P.) as the exclusive bargaining representative of the University of Pittsburgh Campus Police Department. We reverse and remand.
+In November 1979, the F.O.P. filed a representation petition with the Board under Act ill to become the bargaining agent of the Campus Police. U.P.G. W.A. intervened, contending that it was the certified exclusive representative under Aot 195. The Board, concluding that the University was an employer under Act 111 and that the employees were policemen as defined by that Act, certified the F.O.P.
+Bargaining rights under Act 195 and Act 111 are mutually exclusive. Fraternal Order of Police v. Shapp, 22 Pa. Commonwealth Ct. 267, 348 A.2d 502 (1975). Initially, it is clear that the Campus Police fall within the parameters of Act 195. The University of Pittsburgh is defined in the University of Pittsburgh — 'Commonwealth Act as an “instrumentality of the Commonwealth.” Under the definition of “Public Employer” in Act 195, there is included any “other instrumentality” of the Commonwealth.
+Act 111 employers are excepted out of the Act 195 definition by 43 P.S. §1101.301(2), which states in part:
+(2) “Public employe” or “employe” means any individual employed by-a public employer but shall not include . . . those employes covered under the act of June 24, 1968 (Act No. 111).... (Emphasis added.)
+This exception limits the question to whether the University is an employer under Act 111.
+An employer under Act 111 must be a political subdivision of the Commonwealth ox the Commonwealth. The University of Pittsburgh is clearly not a political subdivision. As stated, the University of Pittsburgh is defined as an instrumentality of the state. We now determine whether “'Commonwealth” includes an instrumentality thereof for purposes of Act 111.
+In Mooney v. Temple University Board of Trustees, 4 Pa. Commonwealth Ct. 392, 285 A.2d 909 (1972), aff’d, 448 Pa. 424, 292 A.2d 395 (1972), this Court ruled that Temple University was not a state agency. The Temple University— Commonwealth Act, Act of November 30, 1965, P.L. 843, 24 P.S. §2510(1-12), set up the same guidelines for Temple University as the University of Pittsburgh — Commonwealth Act set up fox the University of Pittsburgh.
+The entire management, control and conduct of the instructional, administrative, and financial affairs of the university is hereby vested in the board of trustees. The board may exercise all the powers and franchises of the university and make by-laws for their own government, as well as for the university.
+24 P,S. §2519-205.
+Also,
+The Charter of University of Pittsburgh shall be amended by changing the name of University of Pittsburgh . . . hereinafter referred to as “the University” and, as such, shall continue as a corporation for the same purposes as, and with all rights and privileges heretofore granted to, University of Pittsburgh. . . .
+24 P.-S. §2510-203.
+Citing these same provisions in the Temple University — Commonwealth Act, we stated, in Mooney, that “ [t]he Temple University — Commonwealth Act has nut changed Temple’s basic status as a privately governed university.” Id. at 395, 285 A.2d at 911. We find this rationale applicable here. Thus, we conclude that the Pennsylvania Labor Relations Board erred as a matter of law when it determined that the University of Pittsburgh, as an instrumentality of the Commonwealth, is considered the “Commonwealth” for the purposes of Act 111. Therefore, the F.O.P. is not the proper bargaining agent for the University of Pittsburgh Campus Police.'
+Reversed and remanded.
+Order
+The Pennsylvania Labor Relations Board final order in Case No. PF-R-169-W dated July 7, 1981, is reversed and remanded to the Board for proper union certification proceedings for the University of Pittsburgh Campus Police under the applicable sections of the Public Employes Relations Act, Act of July 23, 1970, P.L. 563, as amended, 43 P.S. §§1101.101— 1101.2301.
+Aot of June 24, 1968, P.L. 237, as amended, 43 P.S. §217.1 (hereinafter Act 111) :
+Policemen and firemen employed by a political subdivision of the Commonwealth or by the Commonwealth shall, through labor organizations or other representatives designated by fifty percent or more of such policemen or firemen, have the right to bargain, collectively with their public employers concerning the terms and conditions of their employment, including compensation, hours, working conditions, retirement, pensions and other benefits, and shall have the right to an adjustment or settlement of their grievances or disputes in accordance with the terms of this act.
+Public Employe Relations Act, Act of July 23, 1970, P.L. 563, as amended, 43 P.S. §1101.301(1) (2) :
+§1101.301 Definitions As used in this act:
+(1) “Public employer” means the Commonwealth of Pennsylvania, its political subdivisions including school districts and any officer, board, commission, agency, authority, or other instrumentality thereof and any nonprofit organization or institution and any charitable, religious, scientific, literary, recreational, health, education or welfare institution receiving grants or appropriations from local, State or Federal governments but shall not include employers covered or presently subject to coverage under the Act of June 1, 1937, (P.L. 1168), as amended, known as •the “Pennsylvania Labor Relations Aot,” the act of July 5, 1935, Public Law 198, 74tb Congress, as amended, known as the “National Labor Relations Aot.”
+(2) “Public employe” or “employe” means any individual employed by a public employer but shall not include elected officials, appointees of the Governor with the advice and consent of the Senate as required by law, management level employes, confidential employes, cleargymen or other persons in a religious profession, employes or personnel at church offices or facilities when utilized primarily for religious purposes and those employes covered under the act of June 24, 1968 (Aot No. Ill), entitled “An aot specifically authorizing collective bargaining between policemen and firemen and their public employers; providing for arbitration in order to settle disputes, and requiring compliance with collective bargaining agreements and findings of arbitrators.” (Footnotes omitted.)
+The Board stated In its ffinai order:
+We continue to believe, for the reasons set forth in our prior order in this case as well as in our decision in Temple, that the University is an employer within the meaning of PLRA and Act 111. Like Temple University, the University is a Gommonweaith-ehiantered university which receives a substantial amount of its funding from the Commonwealth. The receipt of such funding subjects the University ■to an annual accounting process by which the Auditor General’s office may choose to approve or disallow various expenditures made during the fiscal/academic year in question. Further, the University’s Board of Trustees is comprised of 36 voting members, 12 of which are appointed by the Commonwealth. These Commonwealth Trustees are directly involved in approving the appointment of such University Officers as Chancellor, Senior Vice Chancellors and Vice Chancellors. These factors render our Temple University decision applicable to and controlling in the instant case.
+The Board determined in its final order that:
+The Exceptants next challenge our determination that these employes are “policemen” within the meaning of Act 111. Although we addressed this issue previously in our Decision and Order and Order Directing Submission of Eligibility List, 12 PPER at 10, we believe that a brief restatement of the factors which were considered in reaching our determination will demonstrate the correctness of that decision. The record discloses the following facts: (1) the University Campus Police are vested with full law enforcement authority; (2) since 1976 all newly hired patrolmen have completed a formal police training program at one of three police academies; (3) patrolmen spend the overwhelming majority of their time investigating crimes and patrolling; (4) patrolmen are uniformed and armed — arms training and qualification is mandatory with failure to qualify resulting in suspension from duty; (5) patrolmen ■make independent investigations without the assistance of outside agencies; (6) patrolmen make arrests, give Miranda warnings, prepare criminal incident reports, procure search warrants aud act as .the prosecuting officer in criminal proceedings; (7) patrolmen, drive police equipped vehicles ; (8) patrolmen have reported a substantial number ■of offenses resulting in arrests for numerous summary of-fences [sic], misdemeanors and felonies. Based upon this evidence, we must conclude that GPO’s are clearly “policemen” within the meaning of Act 111. See, Pennsylvania State University (University Police), 11 PPBR 11063 (1980) ; Bucks County (Part Rangers), 9 PPER 9100 (1978).
+24 P.S. §2510-201.
+24 P.S. §2510-202(6).
+43 P.S. §1101.301(1).
+“ ‘Political subdivision.’ Any county, city, borough, incorporated town, township, school district, vocational school district and county institution district.” 1 Pa. O.S.A. §1991.
