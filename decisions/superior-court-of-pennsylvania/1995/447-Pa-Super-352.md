@@ -1,0 +1,44 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "63"
+decided: "1995-12-29"
+citations: ["447 Pa. Super. 352", "669 A.2d 385"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before POPOVICH, JAMIESON and HOFFMAN, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania, Appellee, v. Lori Jane FACER, Appellant."]
+source_url: "https://static.case.law/pa-super/447/cases/0352-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 730213
+cites_cases: ["341 Pa.Super. 305", "350 Pa.Super. 239", "372 Pa.Super. 550", "375 Pa.Super. 341"]
+---
+
+# Commonwealth v. Facer
+
+## Majority (JAMIESON, Judge:)
+
+JAMIESON, Judge:
+Appellant, Lori Jane Facer, appeals from the judgment of sentence entered December 22,1994, by the Court of Common Pleas of Centre County (Brown, Jr., P.J., presiding). The judgment of sentence was entered in response to a contempt proceeding initiated by the Commonwealth. The basis of the Commonwealth’s petition was the failure of appellant to make restitution to a crime victim.
+On this appeal appellant contends: 1) the trial court lacked jurisdiction to enter an order requiring her to make restitution after she had been discharged from her probation; 2) the trial court erred in finding her in indirect criminal contempt; and 3) the Commonwealth failed to prove a willful failure on behalf of appellant to make restitution.
+This case began on February 20, 1990, when appellant was charged with forgery, theft by deception and receiving stolen property. Appellant had been employed as a bookkeeper at Ishler’s Plumbing, Heating and Electric. During the period of July, 1987, and December, 1988, appellant embezzled money by writing checks to herself, forging Mr. Kenneth Ishler’s signature, and altering duplicate checks to make them appear as if they were authorized payments. On February 28, 1990, a preliminary hearing was held and appellant was held over for trial on all charges.
+On July 16, 1990, appellant entered a guilty plea to forgery, theft by deception, and receiving stolen property. Appellant was thereupon placed on probation for twelve months and ordered, inter alia, to make restitution in an amount to be determined by the Centre County Probation Office. The July 16, 1990, Order provided that all costs and restitution be paid pursuant to a payment plan in accordance with a contract established by the Centre County Probation Department and approved by the Court.
+On or about February 1, 1991, the Commonwealth filed a petition to establish restitution. Appellant filed an answer and new matter and on May 20, 1991, a hearing was scheduled. An authorization to release confidential information was provided to appellant by Mr. Ishler. This authorization allowed appellant access to records located at Mid-State Bank and ■ at Johnson Brothers Accounting Service. Appellant’s counsel attempted to inspect the cancelled checks, check stubs and duplicates. Some of these items were missing and could not be provided to appellant.
+On June 5, 1991, the trial court entered an order discharging appellant from probation stating that all probation conditions had been fulfilled. The trial court order was based upon the recommendation for early termination of appellant’s probation submitted by the probation office and filed with the trial court order on June 5, 1991. This order was entered despite the fact that no restitution amount had ever been fixed or paid.
+In February, 1992, the Commonwealth contacted appellant’s counsel requesting resolution of the restitution matter. In January, 1993, the Commonwealth requested the trial court to schedule an “in chambers” conference to discuss the restitution matter.
+On March 23, 1993, a restitution hearing was held. The court set the amount of restitution at $2,688.95. Appellant refused to sign a payment contract or to make any payment toward the amount of restitution. On June 2,1994, the Centre County Probations Office contacted appellant to set up a payment plan. Appellant refused to agree to any such plan.
+On or about June 21, 1994, the Commonwealth filed a petition to find appellant in indirect criminal contempt. On July 22, 1994, a hearing was held on the Commonwealth’s petition. On August 30, 1994, the trial court entered an order which found appellant in indirect criminal contempt. A sanctions hearing was held on October 11, 1994. As a result thereof, on December 22, 1994, appellant was sentenced to a thirty day term of incarceration which could be purged upon payment of $2,688.95. This latter order was stayed by order of the trial court pending this timely appeal.
+Appellant is now challenging the December 22, 1994, order and by extension the March 23, 1993, court order establishing the amount of restitution; the August 30, 1994, court order finding appellant in indirect criminal contempt. Essentially, appellant argues that the trial court, once it discharged appellant from probation on June 5, 1991, and once thirty days passed after the entry of that order, lacked the jurisdiction to enter any other order. We agree.
+Appellant’s argument is grounded in Section 5505 of the Judicial Code. That section provides:
+Except as otherwise provided or prescribed by law, a court upon notice to the parties may modify or rescind any order within 30 days after its entry, notwithstanding the prior termination of any term of court, if no appeal from such order has been taken or allowed.
+42 Pa.C.S. § 5505. This statute states unequivocally that once a judgment has been entered in an adverse proceeding, that judgment becomes final if no appeal is taken therefrom within thirty days. The judgment can not normally be modified, vacated or rescinded. Similarly, it may not be opened. This doctrine of finality of judgments serves a very specific function: to establish a point at which litigants, counsel and courts can regard contested lawsuits as being at an end. Anderson v. Anderson, 375 Pa.Super. 341, 346-47, 544 A.2d 501, 504 (1988) quoting Simpson v. Allstate Insurance Company, 350 Pa.Super. 239, 504 A.2d 335 (1986) (en banc).
+In Commonwealth v. Sheppard, 372 Pa.Super. 550, 539 A.2d 1333 (1988), the defendant had been arrested and held for trial on charges arising from automobile theft. The trial court entered an order granting defendant’s motion to discharge. The Commonwealth failed to take an appeal. Thirty-one days later, however, the Commonwealth filed a petition to vacate the discharge order. The trial court granted the petition and the defendant’s case was listed for trial. On appeal, this Court reversed, holding that after thirty days the trial court lacked jurisdiction to vacate its order to discharge and that even if the motion to discharge was based upon misinformation, it did not rise to the level of fraud required for a court to retain jurisdiction after thirty days have passed. See 42 Pa.C.S. § 5505. See also Commonwealth v. Fiore, 341 Pa.Super. 305, 313, 491 A.2d 276, 280-81 (1985) (Court erred in vacating judgment of sentence more than thirty days after its entry where there was no proof that sentence was procured by perpetration of fraud upon court).
+In the case at bar, the Commonwealth did not petition the trial court to reconsider its discharge order of June 5, 1991: nor did the Commonwealth take an appeal from the June 5, 1991, order. This had the effect discharging appellant from the jurisdiction of the criminal justice system. Once accomplished she was not amenable to the jurisdiction of the Court unless she committed an act which brought her back within the Court’s reach. There has been no allegation of fraud or any other circumstance which would be considered so grave or compelling as to constitute extraordinary cause justifying court’s intervention beyond the thirty day period as mandated by 42 Pa.C.S. § 5505. Accordingly, the case had reached its point of finality and any action taken thereafter by the trial
+court was null and void.
+Accordingly, the judgment of sentence is vacated.
+. 18 Pa.C.S. § 4101.
+. 18 Pa.C.S. § 3922.
+. 18 Pa.C.S. § 3925.
+. The Honorable Charles C. Brown, Jr., the presiding judge, apparently believed that the trial court lacked jurisdiction to continue in this case:
+My own order of June 3rd, 1991, I think throws that into a cocked hat and that is there’s no authority for this court to be holding a restitution hearing now. Forget what I said, forget what anybody said. The point of it is no one, in spite of what Mr. Kistler has said, no one, including myself, apparently before this very moment has really said what in the world are we doing? There is no authority to hold a restitution hearing.
+N.T. Hearing Transcript, March 23, 1993, p. 21.
