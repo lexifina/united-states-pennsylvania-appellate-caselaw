@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 43"
+decided: "1911-03-03"
+citations: ["45 Pa. Super. 422"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady, Head, Beaver and Porter, JJ."]
+parties: ["Snow v. Western New York & Pennsylvania Traction Company, Appellant."]
+source_url: "https://static.case.law/pa-super/45/cases/0422-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 419318
+cites_cases: ["14 Pa. Superior Ct. 87", "153 Pa. 218", "176 Pa. 376", "19 Pa. Superior Ct. 444", "201 Pa. 378", "226 Pa. 316", "227 Pa. 393", "27 Pa. Superior Ct. 222", "9 Pa. Superior Ct. 65"]
+---
+
+# Snow v. Western New York & Pennsylvania Traction Co.
+
+## Majority (Head, J.,)
+
+Opinion by
+Head, J.,
+The collision in which the plaintiff was injured occurred, near midnight of a dark night, on a bridge which carried one of the streets of East Bradford across a stream. The bridge was only sixteen feet wide, less than one-half the width of the street at either end of it. The length of the bridge was about sixty-seven feet. For several hundred feet from either end of the bridge the street was sufficiently straight that in the daytime a moving street car could be seen over that entire distance. Owing to the narrowness of the bridge and the fact that the car track was laid in the middle of it, an ordinary vehicle could not pass a car on the bridge.
+These physical conditions would of course have a tendency to cause some congestion of traffic at that point. The franchise of the defendant company did not confer upon it any right to the exclusive use of the street. That its right to move its cars on the portion of the street covered by its tracks was superior to the right of other vehicles to occupy that portion of the street cannot be denied. But where from physical causes, like those described, some interruption of traffic and delay were likely to occur at that point, the defendant company would be obliged to bear its share of that burden, and, under certain conditions, afford the opportunity to other traffic to go safely across the bridge. From these considerations it would seem to follow that it was the duty of the motorman driving the street car to approach that point at moderate sp’eed and with his car under control. On the other hand, it would be the duty of the plaintiff, driving his vehicle, to approach with like caution and with fair regard to the conceded superior right of the defendant on its own tracks.
+The plaintiff was driving a large carriage containing about a half a dozen persons. He testifies that he had driven over this bridge before cars were operated over it, but not since the track had been laid until the night of the accident. He declares that he was looking straight ahead of him, with his eyes on his team and the street in front; that he observed no car before he entered on the bridge, but that as soon as he got his team straightened out on the bridge a car flashed into view ahead of him, and before it could be stopped ran him down. The evidence shows that the car was lighted in the usual way, and there was testimony from which a jury could fairly find that it was going at a high rate of speed.
+It is a matter of common observation and experience that an ordinary person may be greatly mistaken as to the distance between him and a car moving directly towards him. This difficulty is greatly increased in the nighttime when many objects are buried in shadow and prevent accurate measurement or comparison.
+It could not be said as matter of law that even in the daytime the driver of a vehicle could not safely enter upon the bridge in question because a street car was visible somewhere in the distance. To so hold might result in practically excluding all traffic but the cars from that street. Everything would depend on the proximity of the car and the rate of speed at which it was traveling. As we have already said, the difficulty of reaching a correct conclusion as to these matters is increased by darkness. Moreover, there is evidence from which the jury could find that when the plaintiff was about to enter on the bridge, keeping his own side of the road, his view was somewhat interfered with at least by the uprights or supports along that side of the bridge. There is also evidence that at the north end of the bridge, in the direction from which the car was coming, a large street electric light hung just over the middle of the street. Whilst of course this would make clearly visible approaching objects, within the circle reached by that light, it is not so clear that the eyes of every traveler would be affected in the same way as to objects beyond that circle. If the string of lights along the street, as it stretched ahead of the plaintiff, were of the same character and located relatively as the one at the end of the bridge, it is not easy to say that a man of ordinary prudence and care, in such an inspection of the street ahead as the proper care of his team would enable him to make, might not mistake the headlight of an approaching car for one of the street lights. It is not for us to say that these are the correct inferences to be drawn from the facts in evidence, but it would be the province of a jury to determine whether they are or not.
+These considerations convince us that the case was in the class of Jones Bros. v. Greensburg, etc. Street Ry. Co., 9 Pa. Superior Ct. 65, and the cases there cited, and as a consequence the learned trial judge was right in submitting the case to the jury.
+There is no complaint of the manner in which the case was submitted, nor of any ruling of the court in matters of evidence. The sole contention of the appellant is that the learned trial judge should have declared as matter of law that the plaintiff was guilty of contributory negligence and therefore directed a verdict for the defendant. As we are unable to sustain this contention, the assignments of error must be dismissed.
+Judgment affirmed.
