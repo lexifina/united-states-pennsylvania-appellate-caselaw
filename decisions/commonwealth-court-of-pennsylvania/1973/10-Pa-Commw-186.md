@@ -1,0 +1,32 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 153 C.D. 1973"
+decided: "1973-08-30"
+citations: ["10 Pa. Commw. 186"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Kramer and Blatt, sitting as a panel of three."]
+parties: ["Jessop Steel Company, Appellant, v. Workmen’s Compensation Appeal Board and Okey Miller, Appellees."]
+source_url: "https://static.case.law/pa-commw/10/cases/0186-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1855575
+cites_cases: ["233 A. 2d 891", "246 A. 2d 668", "298 A. 2d 273", "300 A. 2d 837", "300 A. 2d 916", "305 A. 2d 757", "427 Pa. 5", "431 Pa. 446", "7 Pa. Commonwealth Ct. 425", "8 Pa. Commonwealth Ct. 107", "8 Pa. Commonwealth Ct. 45", "9 Pa. Commonwealth Ct. 176"]
+---
+
+# Jessop Steel Co. v. Workmen's Compensation Appeal Board
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+On May 22, 1968, Okey Miller (claimant) suffered a compensable injury when he injured his back while at work for the Jessop Steel Company (employer). The claimant and the employer entered into a compensation agreement, which was in effect until September 9,1968, when the claimant returned to work. On October 13, 1968, the disability recurred and the parties entered into a supplemental agreement, with the claimant once more returning to work on March 31, 1969. The claimant again left work later that year for a lung operation, from which operation he fully recovered and it is not pertinent to the disability here claimed. On March 17, 1971, the parties entered into a further supplemental agreement, which provided: “Claimant resumed regular work 4-27-70, with an undetermined partial disability not reflected in the loss of wage. Compensation benefits are hereby suspended from 4-27-70, until there is a change in the status of this case.” The claimant last worked for the employer on October 22, 1970, and was retired on a total disability pension on June 1, 1971.
+On July 1,1971, the claimant filed a petition for review of the supplemental agreement, pursuant to Section 413 of The Pennsylvania Workmen’s Compensation Act, Act of June 2, 1915, P. L. 736, 77 P.S. §771, alleging that his disability had recurred rendering him totally disabled. Following a hearing, the referee found that the claimant was totally disabled as a result of his injuries on May 22, 1968 and was thus entitled to compensation. Without taking any additional evidence, the Workmen’s Compensation Appeal Board (Board) affirmed this ruling on January 25, 1973. We must also affirm.
+Our scope of review in workmen’s compensation cases is limited to a determination of whether or not constitutional rights were violated, an error of law was committed, or any necessary finding of fact was unsupported by substantial evidence. Arnold Coal & Supply Co., Inc. v. Markle, 8 Pa. Commonwealth Ct. 107, 300 A. 2d 916 (1973); Bayuk Cigar Company v. Hawn, 8 Pa. Commonwealth Ct. 45, 300 A. 2d 837 (1973). And where, as here, the Board has taken no additional evidence, we must rely on the facts as found by the referee if they are supported by sufficient competent evidence. Universal Cyclops Steel Corporation v. Krawczynski, 9 Pa. Commonwealth Ct. 176, 305 A. 2d 757 (1973).
+The sole issue here presented by the employer was whether or not it had offered sufficient evidence of work available to the claimant so as to make a finding of total disability improper. The referee and the Board both found that sufficient evidence of available work was not so presented, and we must agree.
+The law in this area was set out by our Supreme Court in Barrett v. Otis Elevator Company, 431 Pa. 446, 246 A. 2d 668 (1968), and Petrone v. Moffat Coal Company, 427 Pa. 5, 233 A. 2d 891 (1967). As was stated in Barrett, supra: “[O]nce the claimant has discharged his burden of proving that, because of his injury, he is unable to do the work he was engaged in when injured, the employer has the burden of proving that other work is available to the claimant which he is capable of obtaining.” 431 Pa. at 458, 246 A. 2d at 674. Of course, “the employer need only show the availability of work, not the existence of an actual offer of employment.” (Emphasis in original.) Chamberlain Corporation v. Pastellak, 7 Pa. Commonwealth Ct. 425, 429, 298 A. 2d 273, 275 (1973).
+The claimant’s witness testified here, and it is not disputed by the employer, that the claimant is incapable of returning to his old job at the steel mill. He further stated, however, that the claimant’s overall disability was approximately 50%, for he could probably do a non-laboring job. Specifically, he believed the claimant could do sweeping work as a janitor. The employer thereafter presented the testimony of Alvin Carter, Jr., a personnel assistant for the employer, who testified that, at the time the claimant retired from the place of employment, there were sweeping or light duty jobs available at the plant for which he would have been eligible. Carter further testified, however, that, once the claimant had retired, these light duty jobs were no longer available to him. The employer presented no other evidence on the availability of Avork.
+We must agree Avith the Board that the evidence here presented by the employer was insufficient to defeat the claimant’s right to compensation for total disability. There is no doubt that the claimant presented sufficient competent evidence to shoAV that he is permanently and totally disabled from performing his usual work in a steel mill, and, in response, the employer merely presented evidence of the availability of work at a certain time in the past, admitting that such work was no longer available to the claimant. There was no evidence offered of work available to the claimant at the time he filed his petition for review, or at any time thereafter.
+For the above reasons, therefore, we affirm the Board and we issue the folloAving:
+Order
+Noav, August 30, 1973, it is hereby ordered that judgment be entered in favor of Okey Miller and against Jessop Steel Company for compensation for total disability at the rate of $80.00 per Aveek, commencing December 22, 1970, and continuing for an indefinite period into the future until such time as the disability of the claimant ceases or changes in character and extent, all Avithin the terms and limits of the Pennsylvania Workmen’s Compensation Act, including legal interest on deferred installments.
