@@ -1,0 +1,40 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2842 C.D. 1980"
+decided: "1982-03-05"
+citations: ["65 Pa. Commw. 183"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Crumlish, Jr. and Judges Rogers and Blatt, sitting as a panel of three.", "Judge Palladino did not participate in the decision in this case."]
+parties: ["F. Donald Raneri, Appellant v. Leo DePolo and the County of Westmoreland, Appellees."]
+source_url: "https://static.case.law/pa-commw/65/cases/0183-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1930184
+cites_cases: ["10 Pa. 369", "167 A.2d 472", "200 A.2d 416", "224 Pa. Superior Ct. 233", "229 Pa. Superior Ct. 333", "251 Pa. Superior Ct. 184", "273 A.2d 899", "282 A.2d 335", "290 A.2d 85", "302 A.2d 370", "322 A.2d 353", "324 A.2d 498", "380 F. Supp. 1314", "402 Pa. 297", "406 A.2d 811", "414 Pa. 304", "441 Pa. 432", "445 Pa. 217", "447 Pa. 423", "45 Pa. Commonwealth Ct. 23", "457 Pa. 220", "481 Pa. 540"]
+---
+
+# Raneri v. DePolo
+
+## Majority (President Judge Crumlish, Jr.,)
+
+Opinion by
+President Judge Crumlish, Jr.,
+F. Donald Raneri appeals a Westmoreland County Common Pleas Court order sustaining Leo DePolo’s and Westmoreland County’s (collectively “defendants”) preliminary objections. We affirm.
+Raneri, a former County detective, alleges that DePolo, the chief, conspiring with the County through certain elected officials, maliciously published defamatory statements about him, resulting in his discharge. The trial court sustained the preliminary objections in the nature of a demurrer on the grounds that Raneri’s complaint failed to demonstrate that DePolo had acted maliciously and that the unnamed elected officials had conspired in their capacity as agents of the County.
+A demurrer, which tests a complaint’s legal sufficiency, is an assertion that the pleading does not set forth a cause of action upon which relief can be granted, Balsbaugh v. Rowland, 447 Pa. 423, 426, 290 A.2d 85, 87 (1972), and admits every well-pleaded material fact plus all reasonable inferences therefrom. International Union of Operating Engineers v. Linesville Construction Co., 457 Pa. 220, 322 A.2d 353 (1974). Raneri is not required here to prove his cause of action; the only issue now before us is whether or not the allegations, if proved, are sufficient to entitle the plaintiff to relief. Id.
+Generally, a defamation action must allege: 1) the defamatory character of the communication; 2) publication; 3) that the communication refers to the plaintiff; 4) the third party’s understanding of the communication’s defamatory character; and 5) injury. Fram v. Yellow Cab Co. of Pittsburgh, 380 F. Supp. 1314, 1326 (W.D. Pa. 1974) (applying Pennsylvania law). Raneri’s first count fails to allege with particularity the identity of the persons to whom the statements were made. See Gross v. United Engineers and Constructors, Inc., 224 Pa. Superior Ct. 233, 235, 302 A.2d 370, 371 (1973). It is axiomatic that, since the plaintiff’s reputation that is protected is the esteem in which others hold him, see Corabi v. Curtis Publishing Co., 441 Pa. 432, 273 A.2d 899 (1971), publication to an identified third person is an essential element of actionable defamation. Raneri’s first count merely avers that the alleged defamatory material was published “to third persons,” hence, it is defective.
+The second count alleges that DePolo interfered with Raneri’s business relationship with the County. One who, without privilege to do so, causes a third person to discontinue a business relationship with another is liable for the harm caused thereby. See Glazer v. Chandler, 414 Pa. 304, 307, 200 A.2d 416, 418 (1964). To incur this tortious liability, the defendant must act to cause this specific type of harm to the plaintiff, such act must be unprivileged, and harm must actually result. Birl v. Philadelphia Electric Co., 402 Pa. 297, 301, 167 A.2d 472, 474 (1960). Since Raneri fails to aver that DePolo’s alleged actions were unprivileged, the second count is defective. .
+The third count alleges that DePolo conspired with various unnamed elected county officials to deprive Raneri of his reputation and advantageous business relationship. A civil conspiracy is a combination of two or more persons to do an unlawful act or to do a lawful act by unlawful means or for an unlawful purpose. Landau v. Western Pennsylvania National Bank, 445 Pa. 217, 224, 282 A.2d 335, 339 (1971). Since Raneri has failed to sufficiently allege in his first two counts any unlawful act or unlawful means, this count is likewise defective.
+Raneri’s complaint also fails since it neither alleges direct evidence of a combination and its required intent nor avers facts that, if proved, would support an inference of the combination and its required intent. See Baker v. Rangos, 229 Pa. Superior Ct. 333, 351, 324 A.2d 498, 506 (1974). The complaint merely avers facts relating to DePolo’s alleged unilateral actions, hence, it is factúally insufficient to show liability.
+We must sustain the demurrer. We must also deny Raneri’s request for leave to amend his complaint. The record discloses that Raneri failed to seek leave from the court below at any time during this protracted litigation. Since this issue was not raised below, it will not be considered on appeal. Accord, Di Santi v. Russ Financial Co., 251 Pa. Superior Ct. 184, 380 A.2d 439 (1977).
+Affirmed.
+Order
+Westmoreland County Common Pleas Court order, No. 1404 of 1976, dated October 15, 1980, is affirmed.
+Judge Palladino did not participate in the decision in this case.
+This case is here for the second time. Originally, the lower court sustained defendants’ preliminary objections on the basis that both DePolo, as a “high public official,” and the County, as DePolo’s employer, were absolutely immune from suit. On January 18, 1979, we vacated the order and remanded for consideration in light of the then-recent Pennsylvania Supreme Court decision, DuBree v. Commonwealth, 481 Pa. 540, 393 A.2d 293 (1978), which affected the law regarding official immunity. On remand, the lower court held that, even under DuBree, Raneri’s complaint failed to set forth a cause of action.
+We believe that jurisdiction of this appeal lies properly in the Superior Court since the case does not fall within the terms of the Judicial Code, 42 Pa. C.S. §762 (which defines our jurisdiction of appeals from common pleas courts). The failure, however, of the parties to object perfects our jurisdiction and we, therefore, have the discretion, under 42 Pa. C.S. §704(a) and Pa. R.A.P. 741(a), to decide this appeal on its merits. See Muntan v. City of Monongahela, 45 Pa. Commonwealth Ct. 23, 25-26 n. 1, 406 A.2d 811, 813 n. 1 (1979). We maintain this suit in the interest of judicial economy.
+Raneri’s complaint maintains three counts. Count I sounds in defamation against DePolo. Count II charges that DePolo interfered with Raneri’s advantageous business relationship with the County. Count III alleges that DePolo conspired with various elected County officials to commit these torts.
+Act of August 21, 1953, P.L. 1291, 12 P.S. §1584a, repealed by the Act of April 28, 1978, P.L. 202. The substantive law of defamation is now found in 42 Pa. C.S. §§8341-8345.
+We recognize that in an early case, Haldeman v. Martin, 10 Pa. 369 (1849), the Pennsylvania Supreme Court held that, in an action for conspiracy to defame, it was not necessary to set out the conspiracy with the same exactness as one would allege an action for defamation. The Court, however, acknowledged that, although the act to be done, i.e., the goal of the conspiracy, may be stated in general terms, it must be stated with “convenient certainty.” Id. at 372. Raneri has not alleged the acts done, i.e., the defamation and business relationship interference, with “convenient certainty.”
+Pa. R.C.P. No. 1019(a) requires a statement of facts essential to show the liability which is sought to be imposed.
