@@ -1,0 +1,56 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1085 C.D. 1993"
+decided: "1994-05-17"
+citations: ["164 Pa. Commw. 129", "642 A.2d 561"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CRAIG, President Judge, and KELLEY, J., DELLA PORTA, Senior Judge."]
+parties: ["COMMISSIONERS OF CHESTER COUNTY, Petitioner, v. WORKMEN’S COMPENSATION APPEAL BOARD (AKEHURST), Respondent."]
+source_url: "https://static.case.law/pa-commw/164/cases/0129-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1461201
+cites_cases: ["142 Pa.Commonwealth Ct. 612", "516 Pa. 240"]
+---
+
+# Commissioners v. Workmen's Compensation Appeal Board
+
+## Majority (KELLEY, Judge.)
+
+KELLEY, Judge.
+The Commissioners of Chester County (employer) appeal from an order of the Workmen’s Compensation Appeal Board which reversed the referee’s decision granting employer’s petition to suspend Donna Akehurst’s (claimant) worker’s compensation disability benefits and ordered continuing partial disability benefits.
+The issue under consideration is whether employer must have, in order to support a petition for suspension, given a referral to claimant that the part-time job at which claimant stopped working had become available on a full-time basis.
+Claimant was employed by employer’s nursing home as a nurse’s assistant. On July 18, 1986, she sustained a work-related injury to her upper back, chest, neck and left arm when a bedfast patient grabbed claimant’s left arm and pulled her over the bed rail and into the bed. Claimant returned to work on July 28, 1986 and, pursuant to a notice of compensation payable and a final receipt, claimant received total disability benefits under The Pennsylvania Workmen’s Compensation Act (Act) for July 26 and 27, 1986. Claimant worked until October 12, 1986 when back pain and arm numbness caused her to stop working. Claimant received total disability benefits under the Act which were reinstated effective October 12, 1986.
+Claimant returned to work for employer in a light-duty position on May 9, 1988 and continued working until June 4, 1988, Claimant received partial disability benefits under the Act while she was working. On June 5, 1988, total disability benefits were reinstated through February 16, 1989.
+On February 17, 1989, claimant again returned to work for the employer in a light-duty position while receiving partial disability benefits until this position was phased out by employer on June 16, 1989. On June 17, 1989, claimant resumed receiving total disability benefits.
+In August of 1989, claimant returned to work for employer in a light-duty, part-time position as a photocopier operator, but quit after one or two days. Claimant returned to work for employer in that same position on September 17, 1989, and received partial disability benefits while she was working. Claimant stopped working at that part-time position on October 10, 1989, alleging that she was unable to physically continue the job.
+Claimant’s benefits were not resumed by employer after she stopped working on October 10, 1989, despite the fact that employer did not file a petition to modify, suspend or terminate benefits until February 10, 1990.
+Claimant filed a petition for reinstatement on December 12, 1989, and the first hearing was held on February 14,1990. At that hearing, the referee reinstated total disability benefits, effective for the period October 11, 1989 through February 13, 1990, since the employer had failed to file a petition for modification, suspension or termination.
+On December 1, 1989, the part-time photocopier position at which claimant stopped working on October 10, 1989 became available as a full-time position. Claimant was not given a referral nor was she notified of the job’s availability as a full-time position.
+On February 10, 1990, employer filed a petition for modification, alleging that claimant’s benefits should be modified from total to partial effective for the period October 11, 1989 through February 13, 1990. Employer subsequently requested, and the referee approved, that employer’s petition for modification be amended to include a petition for suspension of benefits effective December 1, 1989, which was the date upon which the part-time position at which claimant stopped working became ¿vailable full-time.
+In his decision of October 8, 1991, the referee found testimony presented by employer’s witness, the assistant manager of personnel, describing the physical requirements of the photocopier position to be more credible than the description presented by claimant in her testimony, and found as a fact that the photocopier position was sufficiently sedentary that claimant could have continued performing that position on a part-time basis as of October 11, 1989, and on a full-time basis as of December 1, 1989.
+The referee found testimony presented by employer’s physician to be more credible than that offered by claimant’s physician, and relying on the former found, as a fact, that the requirements of the photocopier position were within claimant’s capabilities and were not precluded by an residual impairment from her work injury.
+The referee concluded as a matter of law that employer met its burden of proof that it made a job available to claimant as of October 11, 1989 (part-time) and as of December 1, 1989 (full-time), which was within claimant’s medical and physical restrictions and which claimant could have performed, but did not due to a problem unrelated to her work-related disability.
+The referee granted employer’s modification petition effective October 11, 1989 and granted employer’s suspension petition effective December 1, 1989.
+Claimant timely appealed the referee’s decision to the board which reversed, by order dated April 6, 1993, that part of the referee’s decision granting employer’s petition for suspension of claimant’s benefits. The board determined that the referee decided to grant employer’s petition for suspension despite the fact that there existed no evidence to support a conclusion that employer made a full-time job available to claimant as of December 1, 1989. As a result, the board ordered that the referee’s decision be amended to provide claimant with continuing partial disability benefits. This appeal followed.
+This court’s scope of review is to determine if constitutional rights have been violated, an error of law has been made, or necessary findings of fact are not supported by substantial evidence. Southland Cable v. Workmen’s Compensation Appeal Board (Emmett), 142 Pa.Commonwealth Ct. 612, 598 A.2d 329 (1991).
+In determining that employer had not made the full-time position available to claimant, the board relied on Kachinski v. Workmen’s Compensation Appeal Board (Vepco Construction Co.), 516 Pa. 240, 532 A.2d 374 (1987), for establishing the burden of proof an employer must meet to prove that a job has been made available to a claimant. That standard follows in its entirety:
+1. The employer who seeks to modify a claimant’s benefits on the basis that he has recovered some or all of his ability must first produce medical evidence of a change in condition.
+2. The employer must then produce evidence of a referral (or referrals) to a then open job (or jobs), which fits in the occupational category for which the claimant has been given medical clearance, e.g., light work, sedentary work, etc.
+3. The claimant must then demonstrate that he has in good faith followed through on the job referral(s).
+4. If the referral fails to result in a job then claimant’s benefits should continue.
+Kachinski requires that once appropriate medical evidence is presented, the employer must produce evidence of a referral to a then open job which fits in the occupational category for which the claimant has been given medical clearance. Id. In other words, a claimant must be given notice of each position’s availability separately.
+Employer contends that in the present case requiring notice that a part-time job which a claimant refused to perform has become available full time is an unwarranted burden on an employer. We disagree.
+The fact that the position at which claimant stopped working changed from a part-time to full-time position does not mean that the' part-time and full-time positions can be considered the same job for the purpose of satisfying the referral requirement under Kachinski. Employer seeks to base its petition for suspension of benefits not on the part-time position which claimant stopped performing, but on the full-time position which was never referred to claimant, which is indicative of the fact that the two are separate positions, each requiring its own referral under Kachinski.
+It is clear that in failing to refer the full-time position to claimant, employer likewise failed to notify claimant of the full-time position’s availability and, as such, has failed to meet its burden to support the granting of a petition for suspension under Kachinski. Accordingly, the board was correct in its determination that employer never offered the full-time position to claimant.
+Accordingly, the order of the board is affirmed.
+ORDER
+NOW, this 17th day of May, 1994, the order of the Workmen’s Compensation Appeal Board, dated April 6,1993, at No. A91-2267, is hereby affirmed.
+. Issued on August 8, 1986.
+. Signed by claimant on August 19, 1986.
+. Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §§ 1 — 1031.
+. The referee found as a fact that employer violated section 413(b) of the Act because it had no reasonable basis for unilaterally stopping claimant’s benefits after claimant stopped working on October 10, 1989, since employer had not filed a petition to modify or terminate benefits at that time. The referee further found as a fact that it was the filing of claimant's reinstatement petition on December 12, 1989 which caused employer to reinstate full benefits. Based on the foregoing, the referee found claimant to be entitled to penalties and attorney’s fees to be paid for by employer. There is no dispute regarding this issue in this appeal. (Finding of Fact No. 10.)
+. Finding of Fact No. 14.
+. Finding of Fact No. 18.
+. Conclusion of Law No. 4.
