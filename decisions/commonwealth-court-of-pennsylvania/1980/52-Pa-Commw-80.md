@@ -1,0 +1,39 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1184 C.D. 1979"
+decided: "1980-06-06"
+citations: ["52 Pa. Commw. 80"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Wilkinson, Jb,., Menoeb and MacPhail, sitting as a panel of three."]
+parties: ["Carmine J. Parise and Louis C. Parise, t/a Carmine J. Parise and Louis C. Parise Funeral Home, Petitioners v. Commonwealth of Pennsylvania, State Board of Funeral Directors, Respondent."]
+source_url: "https://static.case.law/pa-commw/52/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1910744
+cites_cases: ["123 U.S. 623", "200 A.2d 408", "23 Pa. Commonwealth Ct. 496", "313 A.2d 156", "318 U.S. 73", "318 U.S. 800", "324 Pa. 371", "353 A.2d 471", "393 U.S. 268", "401 U.S. 402", "41 Pa. D. & C. 2d 502", "414 Pa. 367", "455 Pa. 52", "49 Pa. Code §13.1", "49 Pa. Code §13.171", "49 Pa. Code §13.213", "49 U.S.C.A. §310"]
+---
+
+# Parise v. Commonwealth
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+Carmine J. Parise and Louis C. Parise, trading as Carmine J. Parise and Louis C. Parise Funeral Home (Parise) appeal from an order of the State Board of Funeral Directors (Board), which denied PariseJs application for approval of a new preparation room. We affirm.
+Parise owns a funeral establishment (which includes a preparation room) located at 89 Fairview Street in Carbondaie. The preparation room for which approval was sought is located at 7 Forty-First Street, which is directly across the street from the funeral establishment. The street is a public thoroughfare. The Board, after a hearing, denied approval on the basis of 49 Pa. Code §13.1, which defines premises as follows: “The property on which the funeral home is located which shall consist of a tract of land not intersected by any public highway or thoroughfare.” This appeal followed.
+Parise first argues that the Board erred in retrospectively applying this regulation, which was adopted on November 12, 1977, to its application, which was filed prior to that date. We disagree. In Ziffrin, Inc. v. United States, 318 U.S. 73, reh. denied, 318 U.S. 800 (1943), a petitioner applied for a permit to engage in contract carrier operations on February 4, 1936. The Interstate Commerce Commission, in denying the permit on May 29,1941, relied upon an amendment to the motor carrier provisions of the Interstate Commerce Act, which amendment was enacted after the date of the application. Mr. Justice Reed, speaking for a unanimous Court, upheld the action of the Commission :
+We are convinced that the Commission was required-to act under the law as it existed when its order of May 29, 1941, was entered. . . . [A] change of law pending an administrative hearing must be followed in relation to permits for future acts. Otherwise the administrative body would issue orders contrary to the existing legislation. Id. at 78.
+See also Citizens to Preserve Overton Park, Inc. v. Volpe, 401 U.S. 402 (1971); Thorpe v. Housing Authority of Durham, 393 U.S. 268 (1969); 51 Am. Jur. 2d Licenses and Permits §46, at 52 (1970). If it was not error for an administrative agency to apply a statute amended after the date of an application for a permit, a fortiori, it was not error for the Board to apply the regulation to Parise’s application.
+Moreover, it is undisputed that this 1977 regulation merely codified a long-standing interpretation by the Board of the Funeral Director Law, Act of January 14, 1952, P.L. (1951) 1898, as amended, 63 P.S. §479.1 et seq., which was in effect prior to Parise’s initial application for approval. Since this rule is an interpretative rather than a legislative rule, Uniontown Area School District v. Pennsylvania Human Relations Commission, 455 Pa. 52, 313 A.2d 156 (1973), and since “the meaning of the statute has been there from the time of its original enactment, then no problem of a retroactive interpretative rule can arise, for . . . that is what the statute has always meant.” 1 K. Davis, Administrative Law Treatise §509, at 347 (1958).
+Parise argues, however, that application of the 1977 regulation would result in an unconstitutional taking of his property without compensation, in violation of his due process rights. Again, we disagree. The constitutionally ordained right of property is subject to the police power of the state to regulate or prohibit an owner’s use of his property, Cleaver v. Board of Adjustment, 414 Pa. 367, 200 A.2d 408 (1964), and a proper exercise of the police power does not constitute a taking, regardless of any economic impact upon the property of the persons affected thereby. Commonwealth v. Barnes & Tucker Co., 23 Pa. Commonwealth Ct. 496, 353 A.2d 471 (1976). Details of regulation are
+‘not subject to judicial rejection, unless so palpably unreasonable as to suggest that their “real object is not to protect the community, or to promote the general well-being, but, under the guise of police regulation, to deprive the owner of Ms . . . property, without due process of law” [Citing Mugler v. Kansas, 123 U.S. 623 (1887)]’
+Grime v. Department of Public Instruction, 324 Pa. 371, 384, 188 A.337, 342 (1936).
+We do not believe that the regulation in question is palpably unreasonable. The Board is properly concerned about alleviating the trauma and disconcertment that will result if the public is continually subjected to the sight of human remains being transported across a public street on a stretcher. Moreover, the regulation will reduce the liklihood of traffic congestion and avoid potential accidents involving dead bodies. We conclude, therefore, that this regulation embodies a reasonable relationship to the public health, welfare, safety, or morals of the community and will sustain the regulation. See Grime v. Department of Public Instruction, supra; State Board of Funeral Directors v. Bennett, 41 Pa. D. & C. 2d 502 (C.P. Dauph. 1966).
+Finally, Parise argues that the regulations do not prohibit a second preparation room that is separated from the funeral establishment. It is true that the regulations allow more than one preparation room. 49 Pa. Code §13.171. The regulation in question, however, plainly defines premises as property “not intersected by any public highway or thoroughfare.” 49 Pa. Code §13.1. Thus, no matter how many preparation rooms are built, none can be separated from the funeral establishment by a public highway or thoroughfare. Adoption of Parise’s interpretation would effectively embalm the regulation and permit Parise to circumvent its purpose;
+Accordingly, we enter the following
+Order
+And Now, this 6th day of June, 1980, the order of the State Board of Funeral Directors, dated May 17, 1979, denying approval of a new preparation room to Carmine J. Parise and Louis C. Parise, trading as Carmine J. Parise and Louis C. Parise Funeral Home, is hereby affirmed.
+Although, it appears that Parise reapplied for approval sometime after October 1976, it is unclear whether this was a formal reapplication or merely an amendment to his original application of February 4, 1975. The Board toot no formal action on the February 4, 1975 application, and the date of the reapplication or amendment does not appear in the record. Since the Board does not argue that the reapplication was made subsequent to the November 12, 1977 regulation, however, the exact date is unimportant for purposes of determining Parise’s rights.
+49 U.S.C.A. §310.
+Although the body itself would be covered by a sheet pursuant to 49 Pa. Code §13.213, nevertheless there would be no doubt as to the contents of the stretcher. We do not believe that the sheet covering would reduce the impact of the sight upon the public.
