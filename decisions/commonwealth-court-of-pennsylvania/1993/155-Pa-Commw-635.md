@@ -1,0 +1,56 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "2113 C.D. 1992"
+decided: "1993-05-21"
+citations: ["155 Pa. Commw. 635", "625 A.2d 1305"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CRAIG, President Judge, DOYLE (P.) and COLINS, JJ.", "This matter was argued before a panel consisting of Judge Doyle, Judge Colins and Senior Judge Wright. Due to the illness of Senior Judge Wright this case was submitted on briefs to President Judge Craig for his consideration as a member of the panel."]
+parties: ["WALLINGFORD SWARTHMORE SCHOOL DISTRICT v. Sarkis KUYUMJIAN, Jr., Appellant."]
+source_url: "https://static.case.law/pa-commw/155/cases/0635-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1445809
+cites_cases: ["141 Pa.Commonwealth Ct. 111", "364 Pa. 591", "73 A.2d 670"]
+---
+
+# Wallingford Swarthmore School District v. Kuyumjian
+
+## Majority (DOYLE, Judge.)
+
+DOYLE, Judge.
+This appeal involves a straightforward single issue, well phrased in the Appellant’s Statement of the Questions presented: Is a school district barred from instituting an action in assumpsit to collect unpaid school taxes once it has returned the duplicate tax bills to the County Tax Claim Bureau as unpaid?
+Sarkis Kuyumjian, Jr. appeals from the order of Court of Common Pleas of Delaware County, which held that the Wallingford Swarthmore School District (District) is not so barred and is permitted to maintain an in personam action against Kuyumjian to collect delinquent taxes.
+This case began on November 15, 1992, when the District filed a suit in assumpsit against Kuyumjian for unpaid real estate taxes in the amount of $46,076.00 on his residence in Nether Providence Township, Delaware County for the years 1984 to 1990, pursuant to the Local Tax Collection Law (Collection Law). Kuyumjian stipulated both to owing the taxes and to the amount of taxes due. The Collection Law includes “school districts of the second, third and fourth class” in the definition of a “taxing district,” Section 2 of the Collection Law, 72 P.S. § 5511.2, and further provides that:
+In addition to all other remedies provided by this act, each taxing district shall have power to collect unpaid taxes from the persons owing such taxes by suit in assumpsit or other appropriate remedy.... The right of each such taxing district to collect unpaid taxes under the provisions of this subsection shall not be affected by the fact that such taxes have been entered as liens in the office of the prothonotary, or the fact that the property against which they were levied has been returned to the county commissioners for taxes for prior years.
+Section 21(b) of the Collection Law, 72 P.S. § 5511.21(b).
+Prior to the suit being filed, the District had returned to the Delaware County Tax Claim Bureau (Bureau), a list of properties, including Kuyumjian’s property, where the taxes remained unpaid pursuant to the Real Estate Tax Sale Law (Tax Sale Law). Section 204(b) of the Tax Sale Law provides, in relevant part:
+(b)(1) All taxes for which returns have been made to the bureau shall be payable only to the bureau and shall not be payable to or be accepted by any taxing district or tax collector.
+(2) In the event that any such taxes are received or accepted by any taxing district contrary to the provisions of this section, the taxing district shall be liable to the bureau for, and the bureau shall deduct from any distribution to which the taxing district is entitled under [72 P.S. § 5860.-205], all charges, fees, costs, commission and interest to which the bureau would otherwise have been entitled under the act if payment had been made directly to the bureau.
+72 P.S. § 5860.204(b).
+A trial was held on April 22, 1992, at which Kuyumjian argued that the District had no jurisdiction to maintain its suit because: (1) the District had already returned the taxes to the Bureau, which was the only entity with authority to collect those taxes, (2) the Tax Sale Law and the Collection Law provide two inconsistent remedies, giving rise to the doctrine of election of remedies, and 3) the 1986 Amendment to the Tax Sale Law repealed by implication Section 5511.21(b) of the Collection Law.
+In his opinion of July 31, 1992, the trial judge disagreed with all of Kuyumjian’s contentions and found that the District was entitled to an in personam judgment against Kuyumjian in the amount of $46,000.76. This appeal followed the denial of post-trial relief.
+On appeal Kuyumjian renews his arguments placed before the trial court. He contends that the trial court, relying upon dicta in Apollo-Ridge School District v. Tax Claim Bureau, 141 Pa.Commonwealth Ct. 111, 595 A.2d 217 (1991), erred in holding that the 1986 amendment to the Tax Sale Law did not supersede Section 5511.21(b) of the Collection Law.
+In Apollo-Ridge, the Apollo-Ridge School District, sought a declaratory judgment that the county tax claim bureau was not entitled to commissions and costs in connection with taxes which were paid directly to the school district, although the tax duplicates for those same taxes had been returned to the tax claim bureau. This Court held that there was no conflict between the Collection Law and the Tax Sale Law with regard to the commissions and costs to which the bureau was entitled. Id. We went on to note the following:
+That Subsection 21(b) [of the Local Tax Collection Law] authorizes a taxing district to recover unpaid taxes after a return is made to a Bureau has been the long standing law of this Commonwealth. Tremont Township School District v. Western Anthracite Coal Co., 364 Pa. 591, 73 A.2d 670 (1950). Because the resolution of a taxing district’s authority to recover unpaid taxes after a return is made is not necessary for disposition of this matter, we do not decide that issue here.
+Apollo-Ridge, 141 Pa.Commonwealth Ct. at 116, 595 A.2d at 220. Thus, the question that was raised, but unanswered, in Apollo-Ridge is now squarely before us for resolution.
+The trial court opined that the Tremont Township School District opinion, cited in Apollo-Ridge, was still good law, and thus held for the District.
+Tremont was a 1950 decision of our Supreme Court which considered the question of whether the Real Estate Tax Sale Law as originally adopted on July 7,1947, without the present provisions of Section 204(b) which were added in 1986, derogated in any way from the authority of a school district to proceed in personam against the property owner’s liability for delinquent taxes by an action in assumpsit under Section 503 of the then-existing school code and the Collection Law adopted previously in 1945. The Supreme Court held that such authority had not been “minimized or impaired in any way by the Act of 1947.” Tremont Township School District, 364 Pa. at 596, 73 A.2d at 674.
+Having resolved that both the District and the Tax Claim Bureau had the inherent authority to collect the taxes prior to the 1986 amendment to the Tax Sale Law, we must now decide whether that 1986 amendment, that is, Section 204(b) of the Tax Sale Law, is reconcilable with Section 21(b) of the Collection Law. Section 1921 of the Statutory Construction Act of 1972, 1 Pa.C.S. § 1921, provides that, “[e]very statute shall be construed, if possible, to give effect to all of its provisions.” With that to guide us, we note that:
+(a) Whenever a statute purports to be a revision of all statutes upon a particular subject, or sets up a general or exclusive system covering the entire subject matter of a former statute and is intended as a substitute for such former statute, such statute shall be construed to supply and therefore to repeal all former statutes upon the same subject.
+(b) Whenever a general statute purports to establish a uniform and mandatory system covering a class of subjects, such statute shall be construed to supply and therefore to repeal pre-existing local or special statutes on the same class of subjects.
+(c) In all other cases a later statute shall not be construed to supply or repeal an earlier statute unless the two statutes are irreconcilable.
+1 Pa.C.S. § 1921. The Supreme Court has already held that the Tax Sale Law does not fall within the first two categories. Tremont. We then need only determine whether the amendment is irreconcilable with Section 21(b) of the Collection Law, because all of Kuyumjian’s arguments depend upon that conclusion that they are irreconcilable.
+Although Section 204(b)(1) appears to forbid collection by taxing districts, Section 204(b)(1) must be read in conjunction with Section 204(b)(2) which provides that:
+[I]n the event that any such taxes are received or accepted by any taxing district contrary to the provisions of this section, the taxing district shall be liable to the bureau for ... all charges, fees, costs, commissions and interest to which the bureau would otherwise have been entitled under the act if payment had been made directly to the bureau.
+72 P.S. § 5860.204(b)(2). Section 204(b)(2) modifies the effect of Section 204(b)(1) and provides for the continuation of the alternative remedy. To interpret Section 204(b) as eliminating the remedy would relegate (b)(2) to mere surplusage in violation of the Pennsylvania Statutory Construction Act of 1972.
+How can subsection (b)(1) totally and absolutely prohibit what subsection (b)(2) acknowledges will occur by statutory grace? Subsection 204(b)(2) clearly contemplates that payment may be made to the taxing district. This subsection serves to assure the tax claim bureau that it will receive its costs and commissions from money collected by the taxing districts directly through suits in assumpsit, a method that only the districts are authorized to use. The legislature has never abrogated the Collection Law. Clearly such suits remain with the taxing districts as an alternative remedy; and, if payment is made to the tax claim bureau, reimbursements for its costs and commissions are assured even when the alternative remedy is utilized by a district. Our conclusion is bolstered by Section 1932 of Pennsylvania’s Statutory Construction Act of 1972, 1 Pa.C.S. § 1932, which direct us to interpret statutes in pari materia.
+Based on the foregoing discussion, we affirm the order of the trial court.
+ORDER
+NOW, May 21, 1993, the order of the Court of Common Pleas of Delaware County in the above-captioned matter is hereby affirmed.
+This matter was argued before a panel consisting of Judge Doyle, Judge Colins and Senior Judge Wright. Due to the illness of Senior Judge Wright this case was submitted on briefs to President Judge Craig for his consideration as a member of the panel.
+. Act of May 25, 1945, P.L. 1050, as amended, 72 P.S. §§ 5511.1-42.
+. The Act of July 7, 1947, P.L. 1368, as amended, 72 P.S. §§ 5860.101-5860.803. Section 306 of the Tax Sale Law, 72 P.S. § 5860.306, requires the taxing district to make such a report.
+. Subsection (b) of Section 204 was added by Section 3 of the Act of July 3, 1986, P.L. 351.
+. See note 3 supra.
+. Act of May 18, 1911, P.L. 309, formerly, 24 P.S. § 384, repealed by Section 2701 of the Public School Code of 1949, Act of March 10, 1949, P.L. 30, as amended, 24 P.S. § 27-2701.
