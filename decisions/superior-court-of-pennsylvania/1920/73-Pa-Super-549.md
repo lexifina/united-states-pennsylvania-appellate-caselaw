@@ -1,0 +1,20 @@
+---
+court: "Superior Court of Pennsylvania"
+decided: "1920-02-28"
+citations: ["73 Pa. Super. 549"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Automobile Finance Co. v. O’Brien, Appellant."]
+source_url: "https://static.case.law/pa-super/73/cases/0549-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 643345
+---
+
+# Automobile Finance Co. v. O'Brien
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+For the reasons set forth in opinion, this day filed in No. 48, October Term, 1919, the judgment is affirmed.
