@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 305"
+decided: "1957-11-12"
+citations: ["184 Pa. Super. 571"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hibt, Gunther, Weight, Woodside, Eevin, and Watkins, JJ."]
+parties: ["Hollenbach, Appellant, v. North Wales Foundry Company, Inc."]
+source_url: "https://static.case.law/pa-super/184/cases/0571-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 736825
+cites_cases: ["111 A. 2d 178", "115 A- 2d 871", "126 A. 2d 491", "126 A. 2d 799", "128 A. 2d 173", "132 A. 2d 762", "164 Pa. Superior Ct. 610", "165 Pa. Superior Ct. 460", "177 Pa. Superior Ct. 87", "179 Pa. Superior Ct. 365", "182 Pa. Superior Ct. 274", "182 Pa. Superior Ct. 280", "182 Pa. Superior Ct. 467", "183 Pa. Superior Ct. 450", "67 A. 2d 605", "69 A. 2d 192"]
+---
+
+# Hollenbach v. North Wales Foundry Co.
+
+## Majority (Wbigi-it, J.,)
+
+Opinion by
+Wbigi-it, J.,
+On February 2,1953, Jacob Hollenbach filed a claim petition under The Pennsylvania Occupational Disease Act, alleging total disability as the result of silicosis. His claim was disallowed by the Referee, the Board, and the court below. This appeal followed.
+Hollenbach had been employed as a molder by the North Wales Foundry Company for twenty-four years. At the time of the Referee’s hearing in June, 1953, he was 67 years of age. On October 10, 1952, he quit work, complaining that he felt tired, had shortness of breath, suffered a loss of appetite and was troubled by coughing. He consulted a physician and subsequently was admitted to the Philadelphia Osteopathic Hospital where an exploratory operation was performed. It was discovered that he was suffering from an inoperable carcinoma of the lower right lung, and that he also had silicosis. The basis of the decision by the compensation authorities was that the carcinoma was actually the responsible disability factor, and that ITollenbach failed to ■ satisfactorily demonstrate a causal connection between his disability and the silicosis.
+It is the contention of present counsel on this appeal that there was a compensable total disability to which the silicosis was “a contributing cause, in that: (a) An independently disabling carcinoma of the lung was not removed because the remaining silicotic lung would not have been able to support life, and (b) In the absence of silicosis, the carcinoma could have been removed”.
+In Irvin v. Plymouth Meeting Rubber Division Linear, 182 Pa. Superior Ct. 280, 126 A. 2d 491, we said: “Since the decisions of the Board were against the parties having the burden of proof, the question before us is whether the Board’s findings of fact are consistent with each other and with its conclusions of law and order, and can be sustained without a capricious disregard of the evidence”. In an occupational disease case, findings of fact by the Workmen’s Compensation Board are conclusive and cannot be disturbed on appeal if supported by competent and substantial evidence in the record: Rohner v. Fox Products, 164 Pa. Superior Ct. 610, 67 A. 2d 605. It is within the province of the compensation authorities to evaluate the testimony: Susman v. Kaufmann's Department Store, 182 Pa. Superior Ct. 467, 128 A. 2d 173. The credibility of witnesses and the weight of conflicting evidence on factual issues is for them, Rozaushi v. Glen Alden Coal Co., 165 Pa. Superior Ct. 460, 69 A. 2d 192, and it is their prerogative to give testimony such consideration as it may deserve and to accept or reject it in whole or in part: Dandy v. Century House and Window Gleaning Co., 179 Pa. Superior Ct. 365, 115 A- 2d 871.
+Reviewing the testimony in the light of these principles, we do not find a capricious disregard of competent evidence. Claimant’s medical witness, Dr. Flack, testified that the carcinoma was inoperable because of the pre-existing damage due to silicosis. He also expressed the opinion that, given a healthy lung and normal vital air capacity, the tumor could have been removed. It is therefore contended that, irrespective of whether, silicosis or carcinoma was the cause of disability, the silicosis must be regarded as a contributing factor. In answer to this argument the Board said: “This contention is purely speculative and conjectural. At best it is predicated upon the opinion of claimant’s single medical witness, which the Referee saw fit to reject in the light of more persuasive medical opinion to the contrary”. On behalf of the employer, Dr. Leopold testified that the carcinoma and the silicosis were entirely unrelated conditions, and that the silicosis was not the cause of disability. Dr. Gellman, the impartial expert, testified that “his chronic pulmonary condition, namely, silicosis, in no way prevented him from following a gainful occupation in the foundry ... It is therefore my opinion that this man’s silicosis was not the cause of his permanent and total disability but that the pulmonary malignancy is the disabling condition”.
+It was claimant’s burden to prove all of the ele ments necessary to support an award: Giallonardo v. St Joseph’s College, 177 Pa. Superior Ct. 87, 111 A. 2d 178. While the question whether or not there is sufficient evidence to support a particular finding of fact is one of law, and may be reviewed on appeal, DiSimone v. Beam, 182 Pa. Superior Ct. 274, 126 A. 2d 799, the testimony in the instant case, so far as the controlling issne is concerned, was in direct conflict and, as previously noted, we are hound by the finding of the compensation authorities. See Witters v. Harrisburg Steel Corp., 183 Pa. Superior Ct. 450, 132 A. 2d 762.
+It is also argued that the record should be remanded for the purpose of taking further testimony. It appears that Hollenbach died on April 28, 1956, and that a claim by his widow is presently pending. Counsel desires to adduce the death certificate and the findings of an autopsy. By our order of October 2, 1956, refusing to remit the record, we have already decided this question adversely to appellant’s contention.
+Judgment affirmed.
+Act of June 21, 1939, P. L. 566, 11 P.S. 1201 et seq.
+The amendment of January 2, 1952, P. L. 1811, eliminated the requirement that disability be caused solely by silicosis, as distinguished from a contributory or accelerating cause. The statute now provides (77 P.S. 1401) : “Compensation shall be payable . . . for total disability or death caused by silicosis . . .”
