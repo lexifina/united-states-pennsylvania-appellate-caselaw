@@ -1,0 +1,45 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 1380"
+decided: "1975-06-24"
+citations: ["234 Pa. Super. 486"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Watkins, P. J., Jacobs, Cercone, Price, Van der Voort, and Spaeth, JJ. (Hoffman, J., absent)."]
+parties: ["Leach, Appellant, v. Philadelphia Saving Fund Society et al."]
+source_url: "https://static.case.law/pa-super/234/cases/0486-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6772296
+cites_cases: ["18 Cath.U.L. Rev. 361", "196 A.2d 850", "213 A.2d 277", "225 Pa. Superior Ct. 286", "280 Pa. Superior Ct. 199", "302 A.2d 452", "306 A.2d 881", "326 A.2d 449", "413 Pa. 365", "419 Pa. 52", "453 Pa. 124", "Cal. Civ. Pro. Code §337.1", "Fla. Stat. Ann. §95.11", "Mich. Comp. Laws Ann. §600.5839", "Ohio Rev. Code Ann. §2305.131", "Tenn. Code Ann. §§28-314", "Wash. Rev. Code Ann. §§4.16.300"]
+---
+
+# Leach v. Philadelphia Saving Fund Society
+
+## Majority (Jacobs, J.,)
+
+Opinion by
+Jacobs, J.,
+This is an'appeal by plaintiff Omega Leach from a summary judgment entered in favor of appellee, Philadelphia Saving Fund Society.
+The instant litigation arose from an incident which occurred on April 26, 1967, when the appellant was under the employ of Leonard Shaffer Associates, then engaged under contract in the remodeling of premises located at 1812-14 Chestnut Street in Philadelphia. While the appellant was working on the premises, a plaster and wire ceiling which had been installed some 26 years earlier suddenly fell, causing severe injuries to the appellant. The appellant instituted suit against Haverstick-Borth-wick Co., which had designed and installed the ceiling in 1941; the appellee, Philadelphia Saving Fund Society [hereinafter P.S.F.S.], which was the record owner of the premises between 1936 and 1946 and which had engaged Haverstick-Borthwick to install the ceiling; Mc-Intire, Magee & Brown, the owner of the premises between 1946- and 1950; and against Bausch & Lomb, Inc., the record title holder of the premises from 1950 through the date of the accident. A.L.K. Corporation, the lessee in possession of the premises on the date of the accident, and Leonard Shaffer Associates, the employer of the appellant, were joined as additional defendants.
+The case is before us in a limited posture. The ap-pellee, P.S.F.S., filed a motion for summary judgment contending that as a matter of law under the Act of December 22, 1965, no cause of action against it existed. The motion was granted and this appeal followed.
+The statute upon which the appellee relies, which is similar to legislation recently enacted in over 30 jurisdictions, is designed to limit the time during which an action may be brought against persons responsible for deficiencies in improvements to real property. It states that
+“[n]o action ... to recover damages:
+(1) [f]or any deficiency in the design, planning, supervision or observation of construction or construction of an improvement to real property, [or] ...
+(3) [f]or injury to the person . . . arising out of any such deficiency .. .
+shall be brought against any person lawfully performing or furnishing the design, planning, supervision or observation of construction, or construction of such improvement more than twelve years after completion of such an improvement.”
+The appellant attacks the Act as unconstitutional under the Pennsylvania and United States Constitutions and also asserts that the Act, even if constitutional, does not protect the appellee, P.S.F.S., which stands in the position of a mere landowner. We shall address ourselves initially to the appellant’s latter contention.
+The primary rule of statutory construction is to ascertain and effectuate the intent of the legislature as expressed in the statute. Pa. Human Relations Comm’n v. Alto-Reste Park Cemetery Ass’n, 453 Pa. 124, 306 A.2d 881 (1973). In the instant statute the legislature included as the class of persons protected by the statute those persons “lawfully performing or furnishing the design, planning, supervision or observation of construction, or construction” of improvements to real property. The statute is not limited to persons performing professional or licensed services, and a court cannot supply such an omission to statutory language. Commonwealth v. Rieck Inv. Corp., 419 Pa. 52, 213 A.2d 277 (1965). Neither is the protected class identified by profession or occupation. The Pennsylvania statute identifies its class not by the status'or occupation of its members but rather by the contribution or acts done in relation to the improvement to the real property. Thus the statute immunizes from liability after 12 years “any” person lawfully performing or furnishing such activities. The word “any” is generally used in the sense of “all” or “every” and its meaning is most comprehensive. Belefski Estate, 413 Pa. 365, 196 A.2d 850 (1964).
+The appellant herein would have us conclude that landowners as a group are not within the contemplation of the statute and thus cannot avail themselves of its protections. Arguing the converse, P.S.F.S. would have us conclude that landowners as a class are included and may always avail themselves of the statutory protection. Both arguments are too broad in their scope. It is true that under Section 4 of the Act the owner of the improvement “at the time any deficiency in such an improvement constitutes the proximate cause of the injury” cannot take advantage of the statute. However, under any other circumstances a landowner who performs any of the enumerated activities is included in the protection of the statute. Where he is not an owner within the contemplation of Section 4, his status, be it architect, brick-mason, landscaper or landowner is immaterial. The only relevant test, as shown by a careful reading of the statute, is whether the individual in fact lawfully furnished or performed any of the listed activities.
+A review of the record in this case reveals nothing about the nature of the activities, if any, performed by P.S.F.S. in relation to the ceiling installed by Haverstick-Borthwick. The complaint alleges that P.S.F.S. failed to make reasonable inspections, failed to make necessary repairs, failed to give appropriate warnings and permitted a dangerous condition of which it knew or should have known to exist. No effort is made by the appellant to bring P.S.F.S. within-the purview of Section 4 of the Act. The answer denies each allegation. Nowhere in the record is there any factual information relevant to the actual conduct or activity of P.S.F.S.; yet because the statute is drafted in terms of activity performed or furnished rather than the status of the defendant such information is essential before P.S.F.S. may avail itself of the protections of the statute.
+Summary judgment may be entered only in the clearest of cases where there is not the slightest doubt as to the absence of an issue of material fact. Granthum v. Textile Machine Works, 280 Pa. Superior Ct. 199, 326 A.2d 449 (1974). The burden is upon the moving party, in this case P.S.F.S., to prove that no genuine issue of material fact existed. Prince v. Pavoni, 225 Pa. Superior Ct. 286, 302 A.2d 452 (1973). In the instant case no proof was offered which would permit the lower court to find that P.S.F.S. fell within the protections of the statute. The existence of that issue of material fact renders the summary judgment procedure premature and inappropriate. Granthum v. Textile Machine Works, supra.
+P.S.F.S. having failed to bring itself within the class of persons protected by the statute in question, we need not consider the arguments directed towards the constitutionality of the statute.
+Judgment reversed.
+Van der Voort, J., dissents.
+Hoffman, J., did not participate in the consideration or decision of this case.
+. Pa.R.C.P. 1035.
+. Act of December 22, 1965, P.L. 1183, §1, et seq.; 12 P.S. §65.1 et seq. (Supp. 1974-75).
+. Act of December 22, 1965, P.L. 1183, §1; 12 P.S. §65.1 (Supp. 1974-75).
+. Some states restrict coverage to architects, and professional engineers: Fla. Stat. Ann. §95.11(10) (Supp. 1975-76); Mich. Comp. Laws Ann. §600.5839 (Supp. 1974) ; Ohio Rev. Code Ann. §2305.131 (1975); others expressly include other occupations such as surveyors: Ark. Stat. Ann. §37-241 (Supp. 1973); Cal. Civ. Pro. Code §337.1(a)(1) (West Supp. 1975); Tenn. Code Ann. §§28-314 to 318 (Supp. 1974); Wash. Rev. Code Ann. §§4.16.300-.320 (Supp. 1974) ; or repairmen: Ark. Stat. Ann. §37-237 (Supp. 1973).
+. The Pennsylvania statute is typical of the majority of statutes. These are collected as of 1969 in Comment, Limitation of Action Statutes for Architects and Builders — Blueprints for Non-action, 18 Cath.U.L. Rev. 361 (1969).
+. The parties do not dispute that the Act excludes the owner of the improvement or any person in actual possession or control “at the time any deficiency in such an improvement constitutes the proximate cause of the injury.” See §65.4 of the Act.
