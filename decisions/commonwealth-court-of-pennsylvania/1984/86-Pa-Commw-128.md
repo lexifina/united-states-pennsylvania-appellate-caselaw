@@ -1,0 +1,34 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 325 C.D. 1982"
+decided: "1984-11-21"
+citations: ["86 Pa. Commw. 128"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges Rogers, Doyle and Colins, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania, Pennsylvania Liquor Control Board, Petitioner v. Darryl L. Smith, Respondent."]
+source_url: "https://static.case.law/pa-commw/86/cases/0128-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1326721
+cites_cases: ["289 A.2d 519", "301 A.2d 427", "428 A.2d 274", "471 A.2d 1302", "5 Pa. Commonwealth Ct. 169", "58 Pa. Commonwealth Ct. 494", "8 Pa. Commonwealth Ct. 6", "80 Pa. Commonwealth Ct. 486"]
+---
+
+# Commonwealth v. Smith
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+The Pennsylvania Liquor Control Board appeals from an order of the State Civil Service Commission overturning the Board’s suspension of Darryl L. Smith from his work for five days.
+Smith’s civil service position was that of Clerk I, regular status and his work was as a sales clerk in a state store. At the close of business on January 28, 1982, the store manager discovered that Smith’s cash supply exceeded the register receipts by $27.00. When the manager checked the paper receipts for the retail discount sales, he found a receipt for a discount sale indicating a purchase of seven bottles at a discounted price of $43.00.
+At the Commission’s hearing, the following undisputed facts appeared. State liquor stores allow retail discounts to customers who buy in larger numbers of bottles of one item, such as a case. The established procedure for discount sales is first, that a manager or assistant manager must verify on a discount sale receipt the prices and quantity of items sold; second, that the sales clerk must enter the receipt into, and record the sale on, the cash register. In this case, the assistant manager of the liquor store, by initialling, verified the discount sale receipt made out by Smith. Although Smith collected the $43.00 from the customer and pnt it in the register, he did not enter the sale into, and record it on, the cash register. Concurrent with the discount purchase, Smith’s same customer bought from him two bottles of liquor at a nondiscount rate. Smith rang up the prices of the nondiscount merchandise but did not collect the money owing, $16.00. At some later time, the customer involved in the sale in question returned to the store, acknowledged that he had failed to pay for the two nondiscount items and paid the $16.00 owed.
+The Liquor Control Board considers the failure to record, or ring up, a sale on the cash register a serious violation of counter procedures and imposes a five-day suspension for this infraction, just as it did in this case.
+At the hearing conducted by the Civil Service Commission, the store manager testified that an assistant manager had. verified the facts concerning the discount sale by initialling the receipt. Smith conceded that he had simply failed to record, or ring up, the discount sale, on the cash register. There was no direct evidence presented that the assistant manager who verified the discount saw Smith fail to ring up the discount sale and there was no evidence from which the fact that he saw this failure, might be reasonably inferred. Indeed, Smith testified that during the transaction the customer conversed with the assistant manager about the price of the merchandise and that the assistant manager offered the customer assistance in carrying his purchases from the store.
+The Commission, in reversing the Liquor Control Board’s suspension action, wrote: “The Commission finds that appellant’s unintentional error, which was witnessed personally by his manager, did not merit a suspension for five days”; and “we do not believe that an error of this sort, where witnessed and verified by the manager, is a serious violation of counter procedure”; and “If the manager is not held accountable and the employee cannot rely on him to give notice of errors, then the requirement that he verify the discount transactions, becomes meaningless ’ ’; and “It is illogical to suggest that when both a manager and his subordinate are careless that the subordinate should be liable.” The Commission has clearly misapprehended the evidence. It is true that the assistant manager (not the manager) verified the sales slip by initialing it; but there is, as we have said, no evidence that the assistant manager witnessed Smith’s failure to ring up the sale and nothing which would support an inference that he did. The Commission’s findings that the assistant manager witnessed Smith’s failure to ring up the sale and failed to “give notice” or “was careless” being without any support in the record, constituted capricious and arbitrary disregard of the record evidence.
+The Commission also misapprehended the law. It overturned the Liquor Control Board’s order on the additional considerations that Smith’s work was not shown to have been “unsatisfactory in the past or that his mistake was intentional or ‘self-serving.’ ” Putting the best light on these observations, we assume that the Commission means, not that the appointing authority was required to prove that Smith had a poor work record and violated the counter procedure intentionally and for gain, but as indicating that the penalty was too severe. Just as the Civil Service Commission, having found that a charge has been proved, has no authority to overturn an appointing authority’s action dismissing an employee and to order him suspended for a time. (Baron v. Civil Service Commission, 8 Pa. Commonwealth Ct. 6, 301 A.2d 427 (1973); Warner v. Civil Service Commission, 5 Pa. Commonwealth Ct. 169, 289 A.2d 519 (1972)), it has no authority to overturn a suspension and decree absolution. Omelchenko v. Housing Authority of the County of Lebanon, 58 Pa. Commonwealth Ct. 494, 428 A.2d 274 (1981).
+Order reversed.
+Order
+And Now, this 21st day of November, 1984, the order of the State Civil Service Commission in the above-captioned matter is reversed.
+The Liquor Control Board of course had the burden of showing good cause; hence, on this appeal from a decision adverse to the Board, we must, to reverse, find capricious and arbitrary disregard of the evidence.
+The appointing authority in a Civil Service case has no burden to prove that the employee who has been disciplined for failure to follow an important work rule has done so intentionally or with prurient motive unless it has charged the employee with having such intention or motive. Warren State Hospital v. Yaegle, 80 Pa. Commonwealth Ct. 486, 471 A.2d 1302 (1984). The importance of ringing up sales of merchandise in state liquor stores where most purchases are for cash needs no emphasis.
