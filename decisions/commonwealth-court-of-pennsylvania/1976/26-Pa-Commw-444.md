@@ -1,0 +1,34 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1749 C.D. 1975"
+decided: "1976-09-22"
+citations: ["26 Pa. Commw. 444"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before, President Judge Bowman and Judges Crumlish, Jr., and Blatt, sitting as a panel of three."]
+parties: ["Robin Shearer, Appellant v. Unemployment Compensation Board of Review of the Commonwealth of Pennsylvania, Appellee."]
+source_url: "https://static.case.law/pa-commw/26/cases/0444-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1876236
+cites_cases: ["10 Pa. Commonwealth Ct. 199", "18 Pa. Commonwealth Ct. 151", "19 Pa. Commonwealth Ct. 391", "21 Pa. Commonwealth Ct. 341", "22 Pa. Commonwealth Ct. 225", "22 Pa. Commonwealth Ct. 429", "24 Pa. Commonwealth Ct. 514", "309 A.2d 181", "333 A.2d 815", "338 A.2d 702", "345 A.2d 785", "348 A.2d 497", "349 A.2d 531", "357 A.2d 268"]
+---
+
+# Shearer v. Unemployment Compensation Board of Review
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+Robin Shearer (claimant) has appealed from a decision of the Unemployment Compensation Board of Review (Board), dated October 22, 1975, which adopted and affirmed the referee’s denial of unemployment compensation benefits pursuant to Section 402(b) (1) of the Unemployment Compensation Law (Act), 43 P.S. §802(b) (1). This section provides that “[a]n employe shall be ineligible for compensation for any week ... [i]n which his unemployment is due to voluntarily leaving work without cause of a necessitous and compelling nature....”
+The claimant had been employed by W. R. Grace & Company for approximately fifteen months until January 16, 1975 on the 11 o’clock p.m. to 8 o’clock a.m. shift when she voluntarily left her employment. The question presented here is whether or not she did so for cause of a necessitous and compelling nature. It was the claimant’s burden to prove that her voluntary termination was for a cause, of a necessitous and compelling nature, Unemployment Compensation Board of Review v. Perry, 22 Pa. Commonwealth Ct. 429, 349 A.2d 531 (1975), and where as here, the decision of the Board is adverse to the party with the burden of proof, our scope of review is limited, absent fraud or errors of law, to a determination of whether or not the Board’s findings are consistent with each other and with the Board’s conclusions of law and whether or not the decision can be sustained without a capricious disregard of competent evidence. Unemployment Compensation Board of Review v. Patsy, 21 Pa. Commonwealth Ct. 341, 345 A.2d 785 (1975).
+The claimant testified that she had suffered an attack of nervous exhaustion while at work, on or about December 24, 1974, because of harassment and abuse from her co-workers. She said that she had complained early in January 1975 about this situation to her supervisor and had asked for a change of shift. When offered a shift change, however, she declined to accept it. She also alleged that, although another employe had attempted to push her into a piece of machinery and she reported this incident to a superior, no attempt had been made to investigate the matter. She admitted, however, on cross-examination, that she did not pursue her complaint. She testified that when she left her employment on January 16, 1975 as a result of her nervous condition she did not again seek a change in shift. The employer’s representative in charge of personnel testified that the claimant had been a good employe, bnt that she had voluntarily left her employment because of her nerves without requesting a shift change and without providing to the company any medical substantiation of her condition. The only medical evidence in the record was a doctor’s certification (requested, and on a form provided, by the Bureau) stating that the claimant was suffering from attacks of nervous exhaustion, but that in regard to her ability to accept employment, she did not suffer from any physical limitations and whether or not she was able to accept employment would depend upon the working conditions.
+We have held that
+“unemployment compensation is not sickness insurance and was not intended to compensate those who quit work because of illness. And mere dissatisfaction with one’s wages or working assignment does not constitute cause, of a necessitous and compelling nature for terminating employment. In some instances, however, physical disability may constitute a necessitous and compelling reason for leaving one’s employment and would not render the employe ineligible for unemployment compensation. And possible aggravation of a nervous condition can be a necessitous and compelling cause for terminating work.” Kernisky v. Unemployment Compensation Board of Review, 10 Pa. Commonwealth Ct. 199, 201-202, 309 A.2d 181, 183 (1973). (Citations omitted.)
+A claimant such as this one here must, however, establish by medical testimony that she was suffering from a physical infirmity that would justify leaving her employment, Taylor v. Unemployment Compensation Board of Review, 19 Pa. Commonwealth Ct. 391, 338 A.2d 702 (1975), and the doctor’s statement here does not establish that fact at all. The claimant, therefore, has failed to carry her burden of proof. Moreover, employees “are required to make a reasonable effort to preserve their employment by requesting work compatible with their condition,” Nedd v. Unemployment Compensation Board of Review, 24 Pa. Commonwealth Ct. 514, 516, 357 A.2d 268, 269 (1976), and the referee found here that the claimant had made no attempt to maintain her employment relationship, noting particularly that she did not request a change of shift.
+The findings of fact and conclusions of law are consistent with each other and supported in the record by substantial evidence. We, therefore, issue the following
+Order
+And Now, this 22nd day of September, 1976, the decision of the Unemployment Compensation Board of Review is affirmed and the, appeal of Robin Shearer is dismissed.
+The Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §751 et seq.
+The referee’s decision (adopted by the Board) makes no specific mention of this alleged incident, although the referee did find that the claimant was having problems with her co-workers. We have held that the fact-finding authority (the referee here) may weigh the credibility of evidence and, in the absence of fraud, reject testimony even though uncontradicted. Unemployment Compensation Board of Review v. Hart, 22 Pa. Commonwealth Ct. 225, 348 A.2d 497 (1975).
+Evidence is substantial when a reasonable man, acting reasonably, could base a conclusion thereon. O’Keefe v. Unemployment Compensation Board of Review, 18 Pa. Commonwealth Ct. 151, 333 A.2d 815 (1975).
