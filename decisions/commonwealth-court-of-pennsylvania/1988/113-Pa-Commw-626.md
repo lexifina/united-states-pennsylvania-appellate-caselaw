@@ -1,0 +1,32 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2563 C.D. 1986"
+decided: "1988-02-23"
+citations: ["113 Pa. Commw. 626", "537 A.2d 974"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Craig and Palladino, and Senior Judge Narick, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania, Pennsylvania Liquor Control Board, Appellant v. Liberty Fire Company of Schuylkill Haven, Pennsylvania, Appellee."]
+source_url: "https://static.case.law/pa-commw/113/cases/0626-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1369352
+cites_cases: ["188 A.2d 819", "200 Pa. Superior Ct. 210", "216 Pa. Superior Ct. 55", "258 A.2d 874", "27 Pa. Commonwealth Ct. 13", "365 A.2d 683", "434 A.2d 1314", "438 A.2d 662", "480 Pa. 322", "501 A.2d 362", "61 Pa. Commonwealth Ct. 628", "63 Pa. Commonwealth Ct. 313", "93 Pa. Commonwealth Ct. 477"]
+---
+
+# Commonwealth v. Liberty Fire Co.
+
+## Majority (Senior Judge Narick,)
+
+Opinion by
+Senior Judge Narick,
+The Pennsylvania Liquor Control Board (PLCB) has appealed from an order of the Court of Common Pleas of Schuylkill County reversing the PLCBs imposition of a $400 fine upon the Liberty Fire Company of Schuylkill Haven (Appellee) for possessing, maintaining or permitting gambling or lotteries on licensed premises.
+The relevant facts are not in dispute. A PLCB agent entered Appellees establishment and discovered the following: On the bar was a cigar box containing $52.50 along with betting slips bearing names, amounts of money, and a series of 3-digit numbers. Behind the bar were three books of raffle tickets offering prizes in exchange for donations to three different fire companies, including the Appellee. The trial court accepted Appellees explanation, through the testimony of one of its trustees, that it collected the betting slips, on official Pennsylvania Lottery forms, as an accommodation to its members who were unable to play the Pennsylvania Lottery during the hours its official agents were open for business. Once a day, the bartender would take the numbers and money to one of the official agents to place bets for Appellees members. Thus, the court concluded that Appellee was not involved in an illegal gambling operation. With respect to the raffle tickets, the court held that while there was “little doubt that these constitute gambling paraphernalia and are therefore made illegal by the Crimes Code of Pennsylvania,” there was no evidence to establish that the maintenance of these slips in the establishment was sanctioned or authorized by Appellee. Appellees trustee testified that he had even ejected the person who brought in the tickets on prior occasions. For these reasons, the trial court reversed the fine. We reverse.
+Our scope of review in a de novo appeal of this nature is limited to a determination of whether there is evidence to support the PLCBs order and whether or not the trial court committed an error of law or abused its discretion. Pennsylvania Liquor Control Board v. United Veterans Association of Blair County, 93 Pa. Commonwealth Ct. 477, 501 A.2d 362 (1985).
+It is well settled that Section 471 of the Liquor Code (Code), Act of April 12, 1951, PL. 90, as amended, 47 PS. §4-471, authorizes the PLCB to cite a licensee for any violation of the Code, any law of the Commonwealth, or upon any other sufficient cause shown. V.J.R. Bar Corporation v. Liquor Control Board, 480 Pa. 322, 390 A.2d 163 (1978). In V.J.R. Bar, our Supreme Court discussed at length the breadth of power that section confers upon the PLCB. It noted that the “sufficient cause” language of the section is not limited to violations of law, citing In Re: Quaker City Development Company, 27 Pa. Commonwealth Ct. 13, 365 A.2d 683 (1976) and Petty Liquor License Case, 216 Pa. Superior Ct. 55, 258 A.2d 874 (1969), and went on to list various types of conduct for which our courts have upheld the imposition of penalties. See V.J.R. Bar at 324-5, 390 A.2d at 164.
+Here, the trial court determined, with respect to the lottery ticket forms, that Appellee was merely acting as an agent in placing legal bets for its members. However, because Section 9 of the State Lottery Law (Law), Act of August 26, 1971, P.L. 351 as amended, 72 P.S. §3761-9 makes it illegal for an unauthorized person to sell lottery tickets, and because we find no provision in that Law authorizing a person or entity to serve as agent in collecting bets for delivery to an authorized sales agent, we believe it was an abuse of discretion and an error of law for the trial court to reverse the penalty on those grounds.
+It has long been held that the PLCB may impose sanctions for gambling on licensed premises. Fulton Post Inc. Liquor License Case, 63 Pa. Commonwealth Ct. 313, 438 A.2d 662 (1981); Shiloh American Legion Liquor License Case, 61 Pa. Commonwealth Ct. 628, 434 A.2d 1314 (1981). With respect to the raffle tickets, the trial court recognized, and we agree, that they constituted gambling paraphernalia. In Fulton Post, this Court held bingo and numeral tip seal tickets to be gambling devices, per se, “since they are purely games of chance, where the element of skill is inconsequential and they have no lawful use.” Id. at 317, 438 A.2d at 664 (citation omitted). The same can be said of the raffle tickets here at issue. Sections 5512 and 5513 of the Crimes Code, 18 Pa. C. S. §§5512 and 5513 prohibit, respectively, unlawful lotteries and the maintenance of gambling devices. The trial court found, however, that there was no evidence to prove Appellee had authorized the sale of tickets on its premises. Authorization or knowledge of the licensee is not necessary to support a violation. Bayer Liquor License Case, 200 Pa. Superior Ct. 210, 188 A.2d 819 (1963), and the trial courts conclusion to the contrary was error.
+Accordingly, the order appealed from is reversed and the penalty reinstated.
+Order
+And Now, this 23rd day of February, 1988, the order of the Court of Common Pleas of Schuylkill County in the above-captioned matter is reversed and the penalty imposed by the Pennsylvania Liquor Control Board is reinstated.
+That section has been repealed by Section 9 of the Act of July 21, 1983, P.L. 63 (relating generally to taxation) insofar as it is inconsistent with said Act.
