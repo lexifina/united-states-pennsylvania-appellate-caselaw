@@ -1,0 +1,42 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "896 C.D. 1971"
+decided: "1972-02-02"
+citations: ["4 Pa. Commw. 429"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Kramer, Mencer, Rogers and Blatt. Judge Wilkinson, Jr., disqualified himself."]
+parties: ["Valley Forge Racing Association, Inc. v. Horse Racing Commission and Continental Thoroughbred Racing Association, Inc., Intervenor."]
+source_url: "https://static.case.law/pa-commw/4/cases/0429-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1847813
+cites_cases: ["173 A. 2d 97", "198 A. 2d 316", "211 A. 2d 503", "227 A. 2d 906", "250 A. 2d 172", "263 A. 2d 385", "370 Pa. 326", "405 Pa. 1", "414 Pa. 70", "418 Pa. 417", "425 Pa. 535", "433 Pa. 432", "437 Pa. 399", "87 A. 2d 177"]
+---
+
+# Valley Forge Racing Ass'n v. Horse Racing Commission
+
+## Majority (Judge Crumlish, Jr.,)
+
+Opinion by
+Judge Crumlish, Jr.,
+This case involves a complaint in mandamus filed by plaintiff, Valley Forge Racing Association, seeking enforcement of conditions attached to the issuance of a racing license by the defendant Commission to intervening defendant, Continental Thoroughbred Racing Association, in 1968. Alternatively, plaintiff seeks revocation of Continental’s license.
+Defendant and intervenor have filed preliminary objections to this complaint raising the issues of whether mandamus is proper in this situation, and whether plaintiff has standing to institute this action. It is our view that the preliminary objections must be sustained.
+Proceeding in what we. consider to be the proper order, we first determine the question of whether plaintiff, initially a disappointed race-license seeker, has standing to institute the present action.
+As annunciated in Keystone Raceway Corp. v. State Harness Racing Commission, 405 Pa. 1, 7, 173 A. 2d 97, 100 (1961), the requirements that must be met before a party is shown to have standing are that the parties “. . . must have a direct interest in the subject matter of the particular litigation .... And not only must the party desiring to appeal have a direct interest in the particular question litigated, but his interest must be immediate and pecuniary, and not a remote consequence of the judgment. The interest must also be substantial.”
+Using this standard, the Pennsylvania Supreme Court determined that a disappointed license seeker had standing to contest the grant of a racing license to another applicant in Man O’War Racing Association, Inc. v. State Horse Racing Commission, 433 Pa. 432, 250 A. 2d 172 (1969). We are of the opinion that the same considerations which prompted the holding in that case apply in the instant situation.
+The plaintiff here has a direct and substantial interest in the outcome of this litigation. A favorable ruling could have led to reconsideration of plaintiff’s application for a license, while inaction by the Commission would have the effect of continuing the automatic exclusion of Valley Forge from consideration for a license. In the present case, the quota of licenses has been filled, precluding Valley Forge from consideration at this time. The Court, in Keystone, supra, found lack of standing because Keystone was not automatically excluded from consideration for a license in that there were other licenses available. Keystone, unlike Valley Forge, did not have a direct interest in the continued licensing of a particular competitor.
+Furthermore, if the plaintiff, an unsuccessful prior applicant and potential future applicant, is denied standing, no one may institute an action seeking to have the conditions imposed by the Commission enforced. See Man O’War, supra at 443.
+The next issue to be determined is whether mandamus properly lies in this instance. We are of the opinion that it does not.
+There is no disagreement with the principle that mandamus is an extraordinary remedy which lies to compel the performance of a ministerial act or mandatory duty where there is a clear legal right in the plaintiff and a corresponding duty in the defendant. Boslover A.A.B. Association v. Philadelphia Redevelopment Authority, 425 Pa. 535, 227 A. 2d 906 (1967), Francis v. Corleto, 418 Pa. 417, 211 A. 2d 503 (1965), Travis v. Teter, 370 Pa. 326, 87 A. 2d 177 (1952). Mandamus is not to be invoked to enforce a doubtful right and may not be used if there is other appropriate remedy such as an appeal from a judgment. Unger v. Hampton, 437 Pa. 399, 263 A. 2d 385 (1970); Boslover, supra; Graybill & Boshong, Inc. v. Board of Finance and Revenue, 414 Pa. 70, 198 A. 2d 316 (1964).
+The Act of December 11, 1967, P. L. 707, 15 P.S. §2651-75 establishes the State Horse Racing Commission and delineates the Commission’s powers and procedures. Generally, it authorizes the Commission to grant, suspend or revoke racing licenses, adopt rules and regulations to effect the purposes of the act, and supervise the conduct of racing. The power to grant, suspend or revoke licenses is couched in discretionary terms.
+Under this statutory authority, the Commission granted a conditional license to the intervening defendant, Continental, in 1968.
+Plaintiff, conceding that initial issuance of the license was discretionary, contends that the Commission must now enforce the original conditions or revoke Continental’s license. The basis of this contention is that the Commission, having issued the license and imposed conditions, is now without discretion in the matter of enforcing the conditions. Plaintiff’s argument is not that this Court should control the exercise of the Commission’s discretion but that this Court should compel the exercise of that discretion in this matter. We are of the view that plaintiff’s argument is ill founded.
+Considering the facts in this situation, it is certainly reasonable to conclude that the Commission did exercise discretion when it renewed Continental’s license after the initial issuance. It cannot be assumed that the Commission was unmindful of or disregarded the conditions previously imposed. The conclusion is warranted that the Commission did consider the formerly imposed conditions and also Continental’s conduct under the license issued. The Commission still considered it proper to renew the license.
+Section 19 of the Act (15 P.S. §2669) provides: “The State Horse Racing Commission may revoke or suspend a license ... (2) If it shall determine that the corporation . . . fail[s] to conduct racing at its track . . . in accordance with the terms and conditions of such license . . . .” (Emphasis added). Thus, it is within the discretion of the Commission to revoke or suspend a license even when initially imposed conditions are not strictly complied with. The fact that the Commission renewed Continental’s license after the first issuance persuades us that the Commission had made a determination as to the merits of revocation in light of the noncompliance with the conditions by Continental.
+We are not ruling out all means of redress available to Valley Forge. If Valley Forge disagrees with renewal of the license even though strict compliance has not been shown, it may attack the Commission’s decision as an abuse of discretion and that decision is clearly subject to review. See Man O’War, supra. But that issue is not before us.
+The allegation might be made that the Commission should at the least be forced to make a record in which it is shown that compliance or noncompliance with the conditions imposed had been considered upon the application for renewal of a license. We do not think that the Act or the legislative intent mandates that result.
+Section 20 of the Act (15 P.S. 2670) requires reasons and findings when a license is refused or revoked. If the Legislature intended this procedure to apply upon a grant or renewal of a license, the Act would have so specified. Furthermore, we must assume that the Commission, in reaching the decision, acted competently and considered all relevant information. The burden of showing the contrary is upon the party attacking the Commission’s decision.
+For the reasons set out, we issue the following:
+Order
+And Now, this 2nd day of February, 1972, Preliminary Objections filed by the defendants are sustained, and the plaintiff’s Complaint is hereby dismissed.
