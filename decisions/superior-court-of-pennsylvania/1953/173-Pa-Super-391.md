@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 14"
+decided: "1953-07-14"
+citations: ["173 Pa. Super. 391"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Ross, Gunther and Wright, JJ. (Dithrich, J., absent). : ;"]
+parties: ["Smith, Appellant, v. Farver."]
+source_url: "https://static.case.law/pa-super/173/cases/0391-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1067220
+cites_cases: ["159 Pa. Superior Ct. 305", "165 A. 1", "23 A. 2d 445", "310 Pa. 238", "343 Pa. 642", "353 Pa. 316", "357 Pa. 39", "360 Pa. 349", "362 Pa. 286", "367 Pa. 646", "371 Pa. 580", "45 A. 2d 50", "48 A. 2d 50", "52 A. 2d 900", "62 A. 2d 6", "66 A. 2d 275", "81 A. 2d 903", "82 Pa. Superior Ct. 184", "85 Pa. Superior Ct. 454", "92 A. 2d 171"]
+---
+
+# Smith v. Farver
+
+## Majority (Hirt, J.,)
+
+Opinion by
+Hirt, J.,
+Defendant’s truck, while driven by him eastwardly across North Street Bridge in Wilkes-Barre, came in contact with the superstructure of the south side of the bridge. The force of the impact threw a wooden board from defendant’s truck through the windshield of a motor vehicle driven by plaintiff as it was proceeding westwardly on the other side of the cartway on the bridge. The sight of plaintiff’s left eye was all but completely destroyed by the shattered glass. At the close of plaintiff’s case, in this trespass action brought by him to recover his damages, the trial judge entered a compulsory non-suit. This appeal is from an order of the court refusing to take it off. The order must be reversed.
+Plaintiff was driving at a moderate rate of speed wholly on his right side of the cartway. It is conceded that he was not chargeable with contributory negligence in any respect.
+The court in effect found from the evidence that defendant drove his truck into the steel superstructure of the bridge to avoid striking another vehicle improperly driven as it passed defendant’s truck. From the finding the court concluded that, in so doing, the defendant acted in an emergency not of his making and accordingly was not chargeable with negligence imposing liability for damages resulting from plaintiff’s injury. The evidence in its entirety in this record, as to how the defendant’s truck happened to come in contact with the side of the bridge, is the following testimony of defendant himself, when called by plaintiff as on cross-examination: “Q. Would you tell the Court and jury when you first saw the Newcomb Brothers truck operated by Mr. Smith? ... A. Why, just after when the car pulled out to take my place in traffic there between the two trucks that was there and this Newcomb Brothers truck was the next one, because I struck the bridge— . . . . Q. About how far from you in feet was the Newcomb Brothers truck when you first saw it? A. It was. just a little ways because my body struck the bridge and struck right across there. Q. Was it ten feet away, twenty feet away, thirty feet away? A. I would say around twenty foot maybe.”
+Of course, under the general rule, plaintiff having called the defendant for cross-examination, was bound by his testimony since there was no contradiction, but only to the-extent that his testimony, insofar as it was uncontradicted also by the circumstances, absolved the defendant from the consequences of his act. Matthews v. Derencin et al., 360 Pa. 349, 62 A. 2d 6. In passing on the motion to remove the compulsory non-suit, the lower court was bound to consider the evidence in the light most favorable to the plaintiff and he was entitled also to the benefit of every reasonable inference deducible therefrom which was favorable to him. Szukics v. Ruch, 367 Pa. 646, 81 A. 2d 903. A non-suit may be entered only in a clear case; all doubts must be resolved in favor of a submission of the factual issues to a jury. Kallman v. Triangle Hotel Co., 357 Pa. 39, 52 A. 2d 900. And only the clearest of proofs of a sudden emergency will take the case from the jury and absolve a defendant from liability. Casey v. Siciliano, 310 Pa. 238, 165 A. 1; Kemner v. Steckel, 85 Pa. Superior Ct. 454, 458.
+The proof in this case that plaintiff was injured by a part of defendant’s truck, projected onto the defendant’s wrong side of the road, made out a prima facie case charging him with negligence which was the proximate cause of the injury. Cf. Haas v. Kasnot, 371 Pa. 580, 92 A. 2d 171; Fisher v. Hill, 362 Pa. 286, 66 A. 2d 275; Miles, Admr. v. Myers, 353 Pa. 316, 45 A. 2d 50; Glover, Admr. v. Struble, 159 Pa. Superior Ct. 305, 48 A. 2d 50. The above quoted evidence does not exculpate him. Defendant’s equivocal testimony as to the circumstances under which his truck came in contact with the bridge — which was not even responsive to the questions asked — is a recitation of no more than a sequence of events equally consistent with negligence on his part as with an act responsive to a sudden emergency. The lower court however accepted his statement, quoted above, as proof that a car “traveling in the opposite direction” cut into defendant’s lane of traffic causing him to turn to his right to avoid a collision with that car. In so doing the court erred in giving the defendant the benefit of the most favorable inferences from the testimony instead of the plaintiff who was entitled to it.
+Moreover, there was testimony that the defendant, shortly after the occurrence, told a police officer that “it was all his fault”. This statement was admissible as a declaration against interest on the question of defendant’s negligence. Salvitti v. Throppe, 343 Pa. 642, 23 A. 2d 445; Liebster v. Lucas, 82 Pa. Superior Ct. 184. Again, giving the defendant the benefit of- tbe most favorable inferences, tbe court construed tbe statement, in connection witli other testimony, as an admission that “it was bis truck which caused the damage” and no more.
+The testimony, in both of the above instances, presented issues for the jury and the refusal to remove the non-suit therefore was error.
+Order reversed and a new trial awarded.
