@@ -1,0 +1,32 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 214 C.D. 1972"
+decided: "1972-11-13"
+citations: ["6 Pa. Commw. 498"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Kramer, Mencer and Rogers, sitting as a panel of three."]
+parties: ["Cotter v. State Civil Service Commission."]
+source_url: "https://static.case.law/pa-commw/6/cases/0498-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1850621
+cites_cases: ["159 Pa. Superior Ct. 113", "172 Pa. Superior Ct. 448", "203 A. 2d 401", "204 Pa. Superior Ct. 78", "277 A. 2d 325", "355 Pa. 515", "443 Pa. 253", "46 A. 2d 579", "50 A. 2d 334", "94 A. 2d 61"]
+---
+
+# Cotter v. State Civil Service Commission
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+William O’D. Cotter, the appellant in this appeal, was an employee of the Commonwealth of Pennsylvania for approximately fifteen years prior to his dismissal on November 9, 1971. He was a regular status employee and held the position of Management Analyst III with the Pennsylvania Department of Transportation.
+On September 27, 1971, a criminal complaint was filed by a member of the Pennsylvania State Police, accusing appellant of being an accessory after the fact in the sale of a stolen motor vehicle with a defaced serial number. As a result of the attendant publicity following appellant’s arrest on this complaint, the appellant was dismissed by letter as of November 9, 1971. On November 15,1971, appellant appealed his dismissal to the State Civil Service Commission (Commission) which scheduled a hearing on the appeal for December 15, 1971.
+Appellant requested a continuance of the hearing because of the pending criminal charges which formed the basis for his dismissal and for the more significant reason that his asserted privilege against self-incrimination, under the Fifth Amendment to the United States Constitution, and under Article I, Section 9, of the Pennsylvania Constitution, in the criminal proceeding, would compel him to refuse to testify at the hearing before the Commission, with the consequence that his defense to his dismissal would not be of record and available for the Commission’s consideration or for judicial review. Appellant reasoned that, if he testified before the Commission, he would be subject to cross-examination under rules of evidence less stringent than those in a criminal court and that he might well be considered to have waived his privilege against self-incrimination.
+The power to grant or refuse a continuance is an inherent power of a court and ordinarily is discretionary. The exercise of such discretion is usually not reviewable, except upon a clear showing of an abuse of discretion. The same general rules apply where the application for a continuance is addressed to an administrative agency. State Board of Medical Education and Licensure v. Williams, 172 Pa. Superior Ct. 448, 94 A. 2d 61 (1953).
+In determining whether or not there has been an abuse of discretion in granting or refusing a continuance, the chief consideration is whether the grant or denial was in furtherance of justice. Here we cannot see how the Department of Transportation would have been prejudiced by the granting of the continuance requested, while its refusal may have prejudiced the appellant. We are not holding that the Commission was bound to continue its hearing until the criminal charges filed against appellant had been finally disposed of by the criminal courts. We merely hold that, under the circumstances here, the Commission should have granted at least one continuance, since to do otherwise forced the appellant to choose unnecessarily to refrain from testifying in his own defense, and this resulted in an undeveloped and incomplete record. A continuance for a reasonable time would have eliminated this dilemma, since the criminal charges against the appellant were withdrawn upon motion of the District Attorney.
+In Commonwealth v. Camm, 443 Pa. 253, 277 A. 2d 325, it was held that any witness in a judicial proceeding has the right to refuse to answer certain questions on grounds that to do so might tend to incriminate him. While a defendant cannot be compelled to testify, if he does take the stand he waives his privilege and is subject to cross-examination eliciting incriminating answers. Commonwealth v. Kohne, 204 Pa. Superior Ct. 78, 203 A. 2d 401 (1964). If a defendant takes the stand without objection, he waives objection to the introduction of his testimony in a later prosecution against him, and the Commonwealth may also produce evidence given by the defendant as a witness in an earlier judicial proceeding, even though he has testified under oath and direction of subpoena. Commonwealth v. Cavanaugh, 159 Pa. Superior Ct. 113, 46 A. 2d 579 (1946).
+Consequently, appellant, in deciding whether or not to testily at the hearing before the Commission, had to weigh the risks of so doing against the risks of not doing so in the face of his privilege of self-incrimination asserted in the pending criminal proceedings and the possibility of waiving such privilege by his defense testimony before the Commission. Commonwealth v. Cavanaugh, supra. The likelihood of prejudice to appellant on December 15, 1971, just one month after his dismissal and upon his initial request for continuance, when weighed against a lack of prejudice to the Department of Transportation, clearly suggests that the Commission abused its discretion in refusing the continuance at that time. A continuance is proper when a refusal of a continuance would be prejudicial to the rights of one of the parties. Bierstein v. Whitman, 355 Pa. 515, 50 A. 2d 334 (1947).
+A further hearing will enable the development of a record that will represent the contentions of both parties to this litigation and will afford the Commission the best opportunity of exercising its independent judgment and, if necessary, this Court a record conducive to judicial review.
+The order of the State Civil Service Commission, dated February 4, 1972, dismissing the appeal of William O’D. Cotter and sustaining his removal by the Department of Transportation from his position as Management Analyst III, is hereby reversed, and the matter is remanded to the State Civil Service Commission for hearing and disposition not inconsistent with this opinion.
+Reversed and remanded.
