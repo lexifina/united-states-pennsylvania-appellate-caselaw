@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 12"
+decided: "1909-10-11"
+citations: ["41 Pa. Super. 39"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Porter, Henderson, Morrison, Head and Beaver, JJ."]
+parties: ["Miller v. Kullesowicz, Appellant."]
+source_url: "https://static.case.law/pa-super/41/cases/0039-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 884147
+cites_cases: ["143 Pa. 182", "19 Pa. 273", "199 Pa. 623", "58 Pa. 474", "78 Pa. 423", "95 Pa. 403"]
+---
+
+# Miller v. Kullesowicz
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+The plaintiff brought this action of assumpsit to recover for work done by him in the erection of a house upon a lot of ground owned by this defendant, who is a married woman. The action was originally brought against Frances Kullesowicz, this defendant, Frank Kullesowicz, her husband, and John F. Boyle. The original statement filed averred that this defendant and her husband Frank Kullesowicz were the owners of the lot of land qn which the building was erected and that this plaintiff did the plastering and other work upon the building at the special instance and request of said parties, and that the money to pay this plaintiff had been placed in the hands of said Boyle. At the first trial of the case in the court below the plaintiff moved to amend by striking out Frank Kullesowicz and John F. Boyle as .defendants, and thereupon, upon motion of the defendants, a juror was withdrawn and the cause continued. The plaintiff, on September 25, 1907, made a formal motion in writing to strike out the names of Frank Kullesowicz and John F. Boyle as defendants, and the court made a formal order allowing said amendment, thus leaving the action stand against •Frances Kullesowicz, as sole defendant. With the record in this condition the cause went to trial on February 18, 1908, upon the plea of non assumpsit. The plaintiff produced evidence which tended to establish and was sufficient to sustain a finding that he had declined to do the work upon the credit of the general contractor for the building, that he went to the building and there met this appellant and her husband and informed them of his refusal to do the work on the credit of the contractor; that Frank Kullesowicz, in the presence of his wife, the appellant, said to him, “ The money is ready as soon as it is done, Mr. Miller, you plaster the house; ” that the wife, this appellant, nodded her head and said, “ yes ”; that the husband, in the presence of appellant, told him that the money was in the hands of Boyle to pay all the bills. That upon the faith of this the plaintiff did the work and that this appellant, the wife, was frequently present while it was being done and expressed her approval of it. The defendant contradicted this testimony, but the jury found in favor of the plaintiff. The appellant contends that the evidence, if believed, established a joint contract upon the ■ part of this appellant and her husband and that a verdict against the wife alone cannot be sustained.
+The contention of the appellant is not well founded. The parol contract upon which the plaintiff relied was made when both appellant and her husband were present, both joined in the conversation out of which the contract arose, the wife acquiesced in what the husband said and subsequently directed and approved the work done under the contract, but the property was that of the wife alone and the work was done for the improvement of her estate; under such circumstances the law will presume that the husband was acting as his wife's agent and. will imply a contract on her part to pay for the work: Bankard v. Shaw, 199 Pa. 623; Einstein v. Jamison, 95 Pa. 403; Bevan v. Thackara, 143 Pa. 182. When in the making of a parol contract both husband and wife join in the negotiation and the work contemplated by and done under the contract involves exclusively the improvement of the estate of the wife, the presumption is that the contract is made on behalf of the wife, and, in the absence of an express stipulation that she shall be liable only jointly with her husband, an action may be maintained against her alone. The judgment must be sustained, also upon another ground. The pleadings gave this appellant full notice of the character of the contract upon which the plaintiff was asserting her liability; notwithstanding this notice she went to trial upon the general issue, without interposing a plea in abatement. “There is no rule of pleading better defined in the elementary books, or better supported by authority, than that if a person be omitted as defendant who ought to be joined in an action founded on a joint contract, whether on a specialty or not, the objection can be taken advantage of only by a plea in abatement:” Bellas v. Fagely, 19 Pa. 273; Chorpenning v. Royce, 58 Pa. 474; Collins v. Smith, 78 Pa. 423.
+The judgment is affirmed.
