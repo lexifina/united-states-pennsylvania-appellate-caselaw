@@ -1,0 +1,21 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 633 to 639"
+decided: "1970-02-05"
+citations: ["216 Pa. Super. 781"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Wright, P. J., and Watkins, J., dissent."]
+parties: ["Commonwealth, Appellant, v. Boyd."]
+source_url: "https://static.case.law/pa-super/216/cases/0781-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 790368
+---
+
+# Commonwealth v. Boyd
+
+## Majority
+
+Order affirmed.
+Wright, P. J., and Watkins, J., dissent.
