@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "505"
+decided: "1997-02-11"
+citations: ["455 Pa. Super. 499", "688 A.2d 1206"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before BECK, TAMILIA and OLSZEWSKI, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. William Patrick GHEEN, Appellant."]
+source_url: "https://static.case.law/pa-super/455/cases/0499-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 947326
+cites_cases: ["434 Pa.Super. 309", "447 Pa.Super. 502", "643 A.2d 109", "669 A.2d 1008"]
+---
+
+# Commonwealth v. Gheen
+
+## Majority (BECK, Judge:)
+
+BECK, Judge:
+The issue is whether, in sentencing appellant after his probation was revoked, the trial court erred in resentencing him to consecutive terms of imprisonment where the original sentence provided for concurrent terms of probation. The plea bargain underlying the original sentence did not contain an agreement as to the sentence. We find the trial court did not err and affirm the denial of appellant’s PCRA motion.
+Relying on Commonwealth v. Anderson, 434 Pa.Super. 309, 643 A.2d 109 (1994), the appellant asserts that on resentencing the trial court was limited by the original sentence and therefore the trial court erred by imposing consecutive terms instead of concurrent terms.
+In this ease, a plea agreement was presented to the court with respect to three cases arising from charges of bad checks and thefts. Under the plea agreement, appellant plead guilty to some charges, nolo contendere to others, and the rest were dismissed. The plea bargain contained no agreement as to sentencing. During the presentation of the plea agreement to the court, the District Attorney stated to the court that “there is no agreement between the Defendant and the Commonwealth with respect to the sentence that could be imposed at this point.” In questioning appellant to determine whether the plea agreement was entered knowingly and voluntarily, the court informed appellant he could be sentenced to maximum time, 36 years in prison and a fine of $65,000.
+The court did not impose the maximum. Instead the court sentenced appellant to an aggregate sentence of five years probation. On two counts, he was sentenced to five years of probation, each to run concurrently. On eight other counts he was sentenced to two years probation on each count, to run concurrently with each other and to run concurrently with the five years of probation.
+Six months after sentencing, appellant was arrested and convicted of a series of burglaries and thefts. His probation was revoked and he was resentenced to three to nine years imprisonment. He argues the court impermissibly included consecutive sentences in his aggregate sentence.
+The scope of review in an appeal following a sentence imposed after probation revocation is limited to the validity of the revocation proceedings and the legality of the judgment of sentence. Commonwealth v. Smith, 447 Pa.Super. 502, 669 A.2d 1008 (1996).
+Appellant erroneously relies on the rationale in Anderson, supra. In Anderson, this court held that, based on an agreement in the plea bargain that appellant would be given concurrent sentences, the court was limited on resentencing to imposing concurrent sentences. The Anderson court based its decision on the continuing validity of the sentencing provision in the plea bargain.
+The Anderson court stressed that in the negotiated plea bargain, the defendant plead guilty in exchange for the court’s imposition of concurrent sentences. 434 Pa.Super. at 316, 643 A.2d at 113. The Anderson court reasoned that when the trial court initially sentenced the defendant to concurrent sentences the trial court accepted and enforced the plea bargain, and in resentencing the court was bound by the agreement. Id. at 318, 643 A.2d at 114.
+Plea agreements are recognized as an effective and necessary tool in the operation of the criminal justice system. Anderson makes clear that the integrity of the system requires the court to be bound by the provisions of those agreements. Anderson goes no further. In the instant case, in the absence of agreement, the court was not limited to sentencing appellant to concurrent sentences and had the power to resentence appellant in accordance with the sentencing alternatives available at the time of the original sentence. Id. at 317, 643 A.2d at 113.
+Order affirmed.
