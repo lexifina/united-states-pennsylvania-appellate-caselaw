@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 130"
+decided: "1914-02-20"
+citations: ["55 Pa. Super. 636"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady, Head and Porter, JJ."]
+parties: ["Spittall v. Allee, Appellant."]
+source_url: "https://static.case.law/pa-super/55/cases/0636-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 439480
+cites_cases: ["102 Pa. 549", "105 Pa. 25", "172 Pa. 44", "208 Pa. 478", "227 Pa. 607", "228 Pa. 70", "238 Pa. 9", "239 Pa. 590", "38 Pa. 294", "52 Pa. Superior Ct. 329", "59 Pa. 59", "65 Pa. 9"]
+---
+
+# Spittall v. Allee
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+The appellant undertook to defend against the promissory note on which the action was brought on the allegation of a partial failure of consideration, and in support of this defense offered in evidence the plaintiff’s receipt dated December 26, 1911, wherein he acknowledged that he had received $50.00 in cash and the defendant’s promissory note for $1,200 payable in six months from date, in full payment and for surrender and transfer of 140,000 shares of capital stock of the Lenape Gold & Copper Mining Company. The shares as shown by this paper were represented by two certificates No. 8 and No. 9 for 110,000 and 30,000 shares respectively. It was recited in the receipt that certificate No. 9 was assigned by separate power of attorney January 15, 1909, by William B. Spittall to E. K. Woods and by said Woods assigned in blank by separate power of attorney March 9, 1909, the plaintiff and defendant being named as attorneys with full power to transfer the 30,000 shares. The defendant alleged that he never received the 30,000 shares and that the plaintiff deceitfully claimed to be the owner thereof at the time he gave his note, whereas in fact they belonged to the said Woods. The plaintiff was permitted to explain the circumstances of the giving of the receipt and to show by his own evidence that the paper was handed to him by the defendant to be signed without previous instructions as to its form; that the transaction between him and the defendant was in fact the assignment to the latter of a half interest which the plaintiff held in a mortgage on the property of the company which issued the shares referred to in the receipt; that the consideration for the note therefore was not the shares of stock which as the plaintiff alleged had no value but the mortgage on the property, the satisfaction of which would give value to the shares. He further alleged that certificate No. 9 for the 30,000 shares of stock was in the possession of the defendant at the time of this transaction; that he (the plaintiff) had never seen it; that the plaintiff told the defendant that he was not the owner of the 30,000 shares of stock and that the defendant well knew that fact. The principal part of the appellant’s argument is devoted to the proposition that the court erred in permitting. the defendant to testify in regard to the consideration for the note, and numerous authorities are cited to the effect that a written agreement cannot be modified or set aside except for fraud, accident or mistake and only then when the evidence is precise, clear and indubitable. Of the correctness of the principle stated there can be no question, but we think it is not applicable to the facts before us. The paper given by the plaintiff was an acknowledgment by him of the receipt of the note. It also contained a recital of the number of shares of stock turned over and the source from which they were derived. It is not a contract inter partes. A receipt is open to contradiction, explanation or correction: Russell v. Presbyterian Church, 65 Pa. 9. The rule as to the contradiction or modification of written agreements fyy parol evidence is not applicable to a receipt signed by one of the parties: Jessop v. Ivory, 172 Pa. 44; Wolf v. Philadelphia, 105 Pa. 25; Batdorf v. Albert, 59 Pa. 59; Shoemaker v. Stiles, 102 Pa. 549. With the plaintiff’s testimony in, the matter in controversy became one of fact for the determination of the jury on the inquiry whether the defendant executed the note on the representation of the plaintiff and the understanding that the latter owned the 30,000 shares of stock which stood in the name of Woods. This question was answered in favor of the plaintiff, and if his testimony is to be credited the verdict is sustained by competent evidence. The result shows that the jury found that the 30,000 shares of stock were not part of the consideration for the note, and that fact having been established the whole defense to the plaintiff’s action falls.
+The judgment is affirmed.
