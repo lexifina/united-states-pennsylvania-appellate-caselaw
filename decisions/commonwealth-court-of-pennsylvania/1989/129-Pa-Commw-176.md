@@ -1,0 +1,36 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "780 C.D. 1989"
+decided: "1989-10-18"
+citations: ["129 Pa. Commw. 176", "564 A.2d 1340"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CRUMLISH, Jr., President Judge, PALLADINO, J. (P.), and SMITH, J."]
+parties: ["James B. MARKBY, Petitioner, v. COMMONWEALTH of Pennsylvania, UNEMPLOYMENT COMPENSATION BOARD OF REVIEW, Respondent."]
+source_url: "https://static.case.law/pa-commw/129/cases/0176-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1395459
+cites_cases: ["105 Pa. Commonwealth Ct. 238", "110 Pa. Commonwealth Ct. 93", "122 Pa. Commonwealth Ct. 642", "21 Pa. Commonwealth Ct. 61", "342 A.2d 781", "427 A.2d 746", "427 A.2d 767", "442 A.2d 1245", "58 Pa. Commonwealth Ct. 225", "58 Pa. Commonwealth Ct. 336", "65 Pa. Commonwealth Ct. 569"]
+---
+
+# Markby v. Commonwealth
+
+## Majority (PALLADINO, Judge.)
+
+PALLADINO, Judge.
+James B. Markby (Claimant) appeals from an order of the Unemployment Compensation Board of Review (Board) affirming the referee’s denial of benefits under Section 402(a) of the Unemployment Compensation Law (Law). We affirm.
+Claimant was last employed by USX Corporation (USX) as a motor inspector. On June 11, 1988, Claimant was laid off when USX sold the plant to Allegheny Ludlow. The Office of Employment Security (OES) determined Claimant to be eligible for benefits. On October 12, 1988, Terry Kinney (Mr. Kinney), an OES job service supervisor, telephoned Claimant concerning a job opening with Allegheny Ludlow as a motor inspector. During this call, Claimant indicated that he believed Allegheny Ludlow would not be interested in him.
+OES found that Claimant’s remark was a refusal of a referral to employment and therefore, Claimant was disqualified from receiving further benefits. Claimant appealed to a referee who, following a hearing, affirmed the OES decision. On appeal, the Board held that Claimant had not refused an offer of suitable the Board held that Claimant had not refused an offer of suitable work but had discouraged an offer of employment which also disqualified him from receiving benefits under Section 402(a) of the Law.
+The following issues are before us: 1) whether the Board’s finding that Claimant discouraged a referral to employment is supported by substantial evidence; and 2) whether Claimant is entitled, by law, to be warned that his response to a job referral will be deemed a refusal or discouragement and disqualify him from receiving benefits.
+Initially, we note that the Board found that Claimant had discouraged an offer of employment. Claimant, by counsel in his brief, refers to the Board’s finding as discouraging. a job referral. Neither discouraging a job referral nor discouraging an offer of employment are found in language of Section 402(a) of the Law. Our court has interpreted 402(a) to require that claimants demonstrate good faith through conduct consistent with a genuine desire to work and be self-supporting. Unemployment Compensation Board of Review v. Pinger, 21 Pa. Commonwealth Ct. 61, 342 A.2d 781 (1975). Discouraging a job referral or discouraging an offer of employment is conduct inimical to good faith. As such, a finding of either results in disqualification from benefits under the Law. See Ormiston v. Unemployment Compensation Board of Review, 58 Pa. Commonwealth Ct. 225, 427 A.2d 746 (1981) (claimant disqualified for discouraging a job referral) and Carter v. Unemployment Compensation Board of Review, 65 Pa. Commonwealth Ct. 569, 442 A.2d 1245 (1982) (claimant disqualified for discouraging/an offer of employment). A reviewing court may affirm an order which is correct for any reason, although an incorrect reason for the order may have been given by the issuing tribunal. See Schneider v. Unemployment Compensation Board of Review, 105 Pa. Commonwealth Ct. 238, 523 A.2d 1202 (1987). Because a finding of either discouraging a job referral or discouraging an offer of employment disqualifies a claimant, and both parties term the Board’s finding as discouraging a referral, we will so characterize it.
+Claimant first argues that the Board’s finding that he discouraged a job referral is not supported by substantial evidence because he did not receive instructions on how to apply for the job. We disagree.
+Substantial evidence has been defined as such relevant evidence as a reasonable mind might accept as adequate to support the conclusion reached. Civil Service Commission of West Mifflin v. Vargo, 122 Pa. Commonwealth Ct. 642, 553 A.2d 102 (1989).
+A thorough review of the evidence shows that a finding that Claimant had discouraged a job referral is supported by substantial evidence. The record reveals that the place of employment, the type of job, and the employer’s method of hiring were explained to Claimant. However, Claimant indicated to the OES job service supervisor that Allegheny Ludlow would not be interested in him. His argument to this Court that since he was not given further instructions, he did not discourage a job referral is without merit.
+On the issue of whether Claimant is entitled to be warned, after he discourages a job referral, that this will disqualify him from further benefits, Claimant does not cite to us, nor have we found, any statutory or case law requiring such a warning. The Board’s finding of fact No. 3 states as follows: “On February 5, 1988, the claimant certified that he read and understood the UCP-1 informational pamphlet. The claimant was aware that if he refused an offer of suitable work he could be denied Unemployment Compensation benefits.” Claimant admitted that he knew, from reading the unemployment compensation handbook, that a refusal would result in disqualification. N.T. at 4. Where a claimant admits to receiving and understanding an unemployment compensation pamphlet, he can not be held to be uninformed as to the consequences of refusing a job referral. Melhorn v. Unemployment Compensation Board of Review, 58 Pa. Commonwealth Ct. 336, 427 A.2d 767 (1981). To suggest that in this circumstance, a claimant is entitled to an additional warning of the consequences of his conduct, injects a requirement totally inconsistent with current law.
+Accordingly, the decision of the Board is affirmed.
+ORDER
+AND NOW, October 18, 1989, the order of the Unemployment Compensation Board of Review is affirmed.
+. Act of December 5, 1936, Second Ex.Sess., P.L. (1937) 2897, as amended, 43 P.S. § 802(a). Section 402(a) of the Unemployment Compensation Law states in relevant part as follows:
+An employe shall be ineligible for compensation for any week— (a) In which his unemployment is due to failure, without good cause, either to apply for suitable work at such time and in such manner as the department may prescribe, or to accept suitable work when offered to him by the employment office or by any employer____
+. Our scope of review is limited to a determination of whether an error of law was committed, whether the necessary findings are supported by substantial evidence, or whether constitutional rights were violated. Centre Area Transportation Authority v. Unemployment Compensation Board of Review, 110 Pa. Commonwealth Ct. 93, 531 A.2d 1172 (1987).
