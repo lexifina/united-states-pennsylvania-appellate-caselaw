@@ -1,0 +1,54 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 1338"
+decided: "1975-12-01"
+citations: ["237 Pa. Super. 394"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Watkins, P. J., Jacobs, Hoffman, Cercone, Price, Van der Voort, and Spaeth, JJ."]
+parties: ["Commonwealth v. Grassmyer, Appellant."]
+source_url: "https://static.case.law/pa-super/237/cases/0394-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6771733
+cites_cases: ["160 A.2d 448", "166 Pa. Superior Ct. 625", "210 Pa. Superior Ct. 482", "225 Pa. Superior Ct. 208", "233 A.2d 921", "290 A.2d 114", "301 A.2d 837", "310 A.2d 406", "399 Pa. 563", "447 Pa. 322", "451 Pa. 250", "61 Pa. Superior Ct. 423", "74 A.2d 795"]
+---
+
+# Commonwealth v. Grassmyer
+
+## Majority (Price, J.,)
+
+Opinion by
+Price, J.,
+On this appeal, the appellant, Samuel Thomas Grass-myer, contends that his demurrer to the Commonwealth’s evidence on the charge of rape should have been sustained and that the verdict of the jury was contrary to the evidence. Grassmyer was convicted of statutory rape, indecent assault, aggravated assault, and endangering the welfare of children. Appellant does not question the validity of his sentence.
+'To determine whether appellant’s demurrer to the evidence should have been sustained, we must review the record in a light most favorable to the Commonwealth. Commonwealth v. Deyell, 399 Pa. 563, 160 A.2d 448 (1960). We must then decide whether, on the basis of the evidence of record and the inferences reasonably drawn therefrom, the evidence would support a verdict of guilty. Commonwealth v. Green, 210 Pa. Superior Ct. 482, 233 A.2d 921 (1967). So viewed, the facts are as follows:
+On December 17, 1973, Mrs. Edna Crumm left her five-year-old daughter, Carol, and her baby, Billie Jo, asleep in her house. Both girls were in good physical condition at the time. The girls were left in the care of appellant, with whom Mrs. Crumm lived, while the mother did some Christmas shopping. Mrs. Crumm testified that she left the house at about 3 p.m., and returned around 5 p.m.
+Upon her return, Mrs. Crumm found blood stains on the living room couch and floor. Appellant told her that the blood stains were the result of a fall down the stairs sustained by the five-year-old. Appellant also told Mrs. Crumm that Carol was now asleep. Upon her request, Mr. Grassmyer carried Carol from her bedroom into the living room. Mrs. Crumm observed that the child’s slacks were blood-stained, and removed them. Once the slacks were off, she noticed that Carol was still bleeding from the area near her vagina, that her slacks and underpants were torn and damp with blood, and that there were no other visible bruises.
+Mrs. Crumm wanted to take Carol to the emergency-room of the Altoona General Hospital. At first, appellant tried to prevent her from taking the child to the hospital, but soon agreed to stay at home and watch the baby while Mrs. Crumm had Carol examined by a doctor. At the hospital, the examining physician determined that Carol had sustained a serious vaginal injury and called a specialist for consultation. The specialist felt it necessary to operate to repair muscle damage in the vaginal and rectal areas. He testified, as a result of his examination and operation, that in his opinion and to a medical certainty, the injury could not have been caused by a fall, but “only sustained by a direct, intentional, concerted effort at penetration with some type of instrument.” (NT 163) He later stated that a blunt object inserted into the vagina was the most likely cause of the injury.
+The investigating officer testified that appellant made two contradictory statements concerning the victim’s injury. First, Mr. Grassmyer said that Carol was injured in a fall. Later, appellant stated that in an attempt to frighten Carol, who was asking him questions about when her mother would return from shopping, he lunged at the child with a broom handle, missed the step on which she was seated, and accidentally struck the girl in the vagina, tearing her clothes, and causing the injury.
+Chemical analysis of the only broom handle found in the residence disclosed no blood or clothing particles attached. However, the laboratory technician who performed the analysis stated that in view of the highly polished surface of the handle, such substances could be removed quite easily.
+This evidence, appellant contends, is not sufficient to submit the issue of whether he committed statutory rape to the jury. We regretfully must agree.
+Statutory rape is defined as: . sexual intercourse with another person not his spouse who is less than 16 years of age.” 18 Pa.C.S. §3122. Two elements must be shown to prove the corpus delicti of statutory rape: a victim under the age of sixteen, and penetration. Commonwealth v. Rhoads, 225 Pa. Superior Ct. 208, 310 A.2d 406 (1973). That the victim in this case is five years old is undisputed. The question is whether there was penetration and if so, with what object.
+Penetration may be established by circumstantial evidence. Commonwealth v. Bowes, 166 Pa. Superior Ct. 625, 74 A.2d 795 (1950); Commonwealth v. Exler, 61 Pa. Superior Ct. 423 (1915). The evidence in the instant case proved that the victim’s vagina was so severely injured that surgery was required. Expert testimony for the Commonwealth established that the injury could only have occurred as the result of the entry of some object into the vagina. The only dispute concerns the nature of that object.
+The specialist who examined the victim shortly after the incident testified that something larger and longer than the vagina had been deliberately forced into it, thus causing the injury. He stated that the injury could not have been the result of a fall, as appellant first asserted, but that the penetration could have been accomplished by a round, blunt instrument. The doctor further testified that the wound was bleeding profusely and that he found no semen or other matter in the wound. He also stated that the instrument could have been a finger or a penis.
+In the instant case, the Commonwealth’s evidence was not sufficient to prove that appellant had sexual intercourse with the victim. Consequently, the evidence cannot support a guilty verdict of statutory rape beyond a reasonable doubt.
+The lower court based its belief that the circumstantial evidence in the case at bar was sufficient to prove penetration on the reasoning of Commonwealth v. Paquette, 451 Pa. 250, 301 A.2d 837 (1973).. That case is inapposite to the instant one, however. Paquette permits the inference that injuries inflicted upon a child left in the sole custody of an adult were inflicted by the adult, where the evidence negates accidental or self-inflicted trauma. Paquette does not deal with proof of the manner in which an injury was inflicted.
+In the case before us there is no evidence that appellant sexually molested the victim, nor is there evidence of what object caused the injury. Because specific proof of penetration is required as an element of statutory rape, we cannot sustain the conviction of that offense. The conviction of statutory rape is reversed and the sentence imposed thereon is vacated.
+However, our inquiry does not end at this point. Appellant was also found guilty of indecent assault, which is the subject matter of 18 Pa.C.S. §3126:
+“A person who had indecent contact with another not his spouse, or causes such other to have indecent contact with him is guilty of indecent assault, a misdemeanor of the second degree, if:
+(1) he knows that the contact is offensive to the other person;
+(2) he knows that the other person suffers from a mental disease or defect which renders him or her incapable of appraising the nature of his or her conduct:
+(3) he knows that the other person is unaware that an indecent contact is being committed;
+(4) he has substantially impaired the other person's power to appraise or control his or her conduct, by administering or employing without the knowledge of the other drugs, intoxicants or other means for the purpose of preventing resistance; or
+(5) the other person is in custody of law or detained in a hospital or other institution and the actor has supervisory or disciplinary authority over him.”
+The element of sexual intercourse is not necessary, by the terms of the statute, to sustain a conviction of indecent assault.
+In this case, appellant admitted causing the injury to the child with a broom handle. It was the jury’s province to believe or disbelieve all or any part of appellant’s admission. Commonwealth v. Zapata, 447 Pa. 322, 290 A.2d 114 (1972). Thus, the jury could and did believe that appellant caused the injury, that the method employed was offensive to the victim, or that because of her age, the victim was unable to realize the nature of the conduct. The evidence supports the verdict of guilty of indecent assault.
+We must comment upon one point mentioned in the lower court’s opinion. The opinion states: “It bears mentioning at this point that Carol Marie Crumm, the victim, was questioned in chambers. At that time, she blurted out that defendant had sexually assaulted her (NT 45). However, the child did not demonstrate that she understood the significance of an oath, and, therefore, was not permitted to testify.”
+What occurred during the in camera proceeding to determine the child’s competency to testify is not a proper basis upon which to sustain a conviction. This is particularly true where, as here, the child is found to be incompetent. The child was not subjected to cross-examination, nor was she under oath. The lower court’s attempt to use this statement highlights the difficulty of finding competent evidence of record to sustain the conviction of statutory rape. In addition, any reference to this statement, in view of the court’s ruling of the victim’s competency, was grossly improper.
+The court below, when sentencing appellant, merged the indecent assault conviction into that of statutory rape. Therefore, we will remand for resentencing on the indecent assault conviction.
+The denial of the motion in arrest of judgment of statutory rape is reversed and the appellant discharged as to that count. The judgments of sentence of aggravated assault and endangering the welfare of children are affirmed. The case is remanded for resentencing for indecent assault.
+Jacobs and Hoffman, JJ., dissent.
+. Act of Dec. 6, 1972, P.L. 1482, No. 334, §1 (18 Pa.C.S. §3122).
+Act of Dec. 6, 1972, P.L. 1482, No. 334, §1 (18 Pa.C.S. §3126). This conviction was deemed to be merged into the conviction of statutory rape.
+. Act of Dec. 6, 1972, P.L. 1482, No. 334, §1 (18 Pa.C.S. §2702).
+. Act of Dec. 6, 1972, P.L. 1482, No. 334, §1 (18 Pa.C.S. §4304).
