@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 333"
+decided: "1925-12-14"
+citations: ["87 Pa. Super. 110"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, Henderson, Trexler, Keller, Linn and Gawthrop, JJ."]
+parties: ["Commonwealth v. Carl, Appellant."]
+source_url: "https://static.case.law/pa-super/87/cases/0110-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 571100
+cites_cases: ["13 Pa. Superior Ct. 347", "46 Pa. Superior Ct. 172", "62 Pa. 45", "81* Pa. 243", "91 Pa. 202"]
+---
+
+# Commonwealth v. Carl
+
+## Majority (Gawthrop, J.,)
+
+Opinion by
+Gawthrop, J.,
+Appellant was convicted on the first count of an indictment which in due form charged that he “did keep .up and maintain a public or common nuisance, to wit: a vicious, ferocious and dangerous dog, to the annoyance, terror and fear of the neighborhood, passersby and the public.” The verdict of the jury was entered as follows: “We find the defendant guilty in manner and form as indicted. But cannot agree that the dog was vicious and ferocious, and recommend leniency.” The six assignments of error present two main contentions: (1) that it was error to impose sentence on the verdict because it ivas unintelligible, inconsistent and void; (2) that there were errors in the admission and rejection of evidence.
+1. We agree with the learned trial judge that the verdict shows with sufficient clearness that defendant was found guilty in manner and form as indicted, and that the statement that the jury could not agree that the dog was vicious, and the recommendation of leniency, were mere surplusage and no part of the verdict. Surplusage and immaterial findings by the jury may be rejected in construing verdicts: Com. v, Huston, 46 Pa. Superior Ct. 172; Bickham v. Smith, 62 Pa. 45; Pittsburgh v. McKnight, 91 Pa. 202 ; Leineweaver v. Stoever, 17 S. & B. 297. The indictment charged that the maintenance of the dog was a common nuisance in that it was vicious, ferocious and dangero.us. It was not necessary for the jury to find that the dog was either vicious or ferocious, if they found him so dangerous that his maintenance by defendant was a public nuisance. A dog which is neither vicious nor ferocious but amiable in disposition may, because of the roughness of his antics in public places, be a common nuisance. From our examination of the testimony, we are convinced that that is the condition which the jury found to have existed in the case in hand.
+2. The second assignment of error complains of the rejection of evidence offered by defendant to prove the general conduct of the dog in public. The evidence was relevant and material. The learned judge of the court below cited and relied upon Mann v. Weiand, 81* Pa. 243, as sustaining the exclusion of the offers. That was a civil action for damages resulting from defendant’s negligent keeping of a ferocious dog. In such a case the gist of the action is the scienter, that is, the knowledge of the animal’s vicious propensities. It was held in the Mann case that notice to the owners of one attack by the dog is sufficient to establish the scienter and that when established it was not admissible for the owner to prove the good behavior of the dog at other times or its general good conduct to defeat the action. The reason for so holding was that an owner of .a dog, after he has such notice, is bound to secure it at all events, and for failure so to do is liable to persons afterwards injured. But in ,a prosecution for maintaining a public nuisance by keeping a dangerous or vicious dog the question is merely whether the actions of the dog amount to a public nuisance. If so, there may be a conviction. The owner’s knowledge of the dog’s propensities is not essential to establish guilt. Clearly defendant had a right to meet the Commonwealth’s evidence tending to establish that the dog’s conduct amounted to a public nuisance with evidence to prove that it did not. This could be done by calling witnesses to describe what the actions of the dog were when they observed it. Its conduct at all times was relevant and competent upon the issue. The exclusion of the offers to prove it amounts to reversible error.
+There is no merit in the complaint based upon the refusal of the trial judge to permit the dog to be offered in evidence as an exhibit. The introduction of the dog in evidence would throw no light on the question whether it was vicious, ferocious or dangerous. The complaint lacks merit for another reason. The opinion of the court below states that while the Commonwealth was introducing evidence defendant brought the dog into court and fondled and petted it in the presence of the jury.
+Evidence that a witness was kept awake at night by the barking of the dog was admitted over defendant’s objection, ¡and it is urged that the evidence was not relevant or material as to the offense as charged in the indictment. We agree that the evidence did not tend to prove that the dog was either vicious, ferocious or dangerous and should have been excluded.
+There is no merit in the complaint that defendant was not permitted to prove his reputation as a law abiding citizen. He admitted that he kept the dog. The only matter of fact in dispute was whether the dog was a nuisance. The good character of defendant had no bearing on that question. Neither guilty knowledge nor criminal intent were involved. Com. v. Kolb, 13 Pa. Superior Ct. 347, rules this point against appellant. There the defendant was indicted for selling oleomargarine. The sale was admitted and the only question of fact was whether or not the article sold was or was not oleomargarine. This court said: “The good character of the defendants had no possible bearing on this point, nor could it create a doubt respecting the conceded fact of sale.”
+The second, fourth and sixth assignments of error are sustained. The others are overruled.
+The judgment is reversed and a new trial is awarded.
