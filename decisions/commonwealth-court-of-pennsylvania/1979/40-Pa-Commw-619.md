@@ -1,0 +1,41 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1251 C.D. 1977"
+decided: "1979-02-27"
+citations: ["40 Pa. Commw. 619"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Mencer, Rogers and Craig, sitting as a panel of three."]
+parties: ["In the Interest of: Anthony Severa, a Minor. Commonwealth of Pennsylvania, Department of Public Welfare, Appellant."]
+source_url: "https://static.case.law/pa-commw/40/cases/0619-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1893664
+---
+
+# In the Interest of Severa
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+The Department of Public Welfare (DPW) appeals an order of the Court of Common Pleas of Philadelphia County directing DPW to reimburse Hahnemann HospitaPs Children’s Inpatient Psychiatric Unit at St. Luke’s Hospital (Hahnemann) for the cost of the support, care, and treatment of Anthony Severa, a minor, from December 19, 1975 to April 9, 1976. We reverse and remand.
+On December 9,1975, Anthony’s mother, Betty Ann Severa, filed a petition, pursuant to Section 6 of the Juvenile Act, formerly 11 P.S. §50-302, in the Juvenile Branch of the Family Court Division of the Court of Common Pleas of Philadelphia County, alleging that Anthony was a deprived child as defined in Section 2(4) of the Juvenile Act, formerly 11 P.S. §50-102 (4). In the petition, she sought an involuntary commitment of Anthony to a state mental facility, pursuant to Section 406 of the Mental Health and Mental Retardation Act of 1966 (MH/MR Act).
+After a hearing, the court, on December 19, 1975, ordered DPW to determine an appropriate facility for treating Anthony. In the meantime, Anthony was committed by the court to Hall-Mercer Community Mental Health and Mental Retardation Center of Pennsylvania Hospital (Hall-Mercer) to be evaluated for placement by specialists from Temple University’s Woodhaven Center (Woodhaven) and Eastern State School and Hospital (Eastern). Because of availability problems, however, Hall-Mercer requested Hahnemann to accept Anthony for the period of the court-ordered evaluation.
+Despite extensive hearings, it was not until April 6, 1976 that an appropriate plan of treatment for Anthony was finally agreed upon by all parties. By the terms of the agreement, Anthony was to be committed to Eastern under Section 406 of the MH/MR Act, for a period not in excess of 180 days. After that, under a stipulation that Anthony was a deprived child within the meaning of Section 2(4) of the Juvenile Act, Anthony was to receive additional care at the county level. Subsequent to this agreement, the court filed its order, dated May 24, 1977, assessing liability on DPW for the cost of the evaluation period. This appeal followed.
+DPW contends that the court erred in finding Anthony was committed to Hahnemann under the terms of the Juvenile Act and therefore erred in assessing liability under that Act. It argues, citing Section 29 of the Juvenile Act, formerly 11 P.S. §50-326, that the Hahnemann commitment was pursuant to Section 406 of the MH/MR Act and that the provisions of the MH/MR Act, including those regarding financial liability, are controlling despite any initial proceedings under the Juvenile Act. Section 29 of the Juvenile Act reads as follows:
+Section 29. Disposition of Mentally 111 or Mentally Retarded Child. — If, at a dispositional hearing of a child found to be a delinquent or at any hearing, the evidence indicates that the child may he subject to commitment or detention under the provisions of the act of October 20,1966 (P.L. 96), known as the ‘Mental Health and Mental Retardation Act of 1966, ’ the court shall proceed under the provisions of said act.
+In the alternative, DPW argues that, if the Juvenile Act does apply, the court erred in assessing 100 percent liability on DPW instead of 50 percent liability as mandated by Section 36 of the Juvenile Act, formerly 11 P.S. §50-333. Section 36 reads in pertinent part, as follows:
+Section 36. Costs and Expenses for Care of Child. — (a) The following expenses shall be paid one-half by the Department of Public Welfare and one-half by the county, upon certification thereof .by the court:
+(1) The cost of medical and other examinations and treatment of a child ordered by the court. (Emphasis added.)
+After carefully reviewing the record, we find that the court properly found that the commitment of Anthony by the court on December 19, 1975 was pursuant to its authority under the Juvenile Act to continue hearings “for a reasonable period to receive reports and other evidence bearing on the disposition or the need for treatment, supervision or rehabilitation” of a child. Section 23(e) of the Juvenile Act, formerly 11 P.S. §50-320. It was when this evidence indicated to the court that a MH/MR Act commitment might be an appropriate disposition that Section 29 of the Juvenile Act required the court to follow the procedures of the MH/MR Act. In light of the confusion over Anthony’s diagnosis, we are satisfied that, until April 6, 1976, when the parties agreed to a treatment plan, the court could not conclude that the evidence indicated that a MH/MR Act commitment might be the appropriate disposition within the meaning of Section 29 of the Juvenile Act. Thereafter the court proceeded under the MH/MR Act by approving the filing of a standard Section 406 commitment petition.
+We conclude that, since Anthony was committed by the court to Hahnemann under the Juvenile Act, liability for the expense of his stay is to be determined under Section 36 of the Juvenile Act. Although the court assessed 100 percent liability on DPW under this section, the clear language of Section 36 indicates that DPW is only liable for 50 percent of the costs. Therefore, we must reverse and remand the case to the Court of Common Pleas of Philadelphia County to modify its order against DPW to reflect only 50 percent of the liability for the cost of the care and services provided by Hahnemann to Anthony and to enter an order against the County of Philadelphia for the remaining 50 percent of said costs.
+Order reversed and case remanded.
+Order
+And Now, this 27th day of February, 1979, the order of the Juvenile Branch of the Family Court Division of the Court of Common Pleas of Philadelphia County, dated May 24, 1977, is reversed and the case remanded. Said court is ordered to modify its order against the Pennsylvania Department of Public Welfare to reflect only 50 percent of the liability for the cost of the care and services provided by Hahnemann Hospital’s Children’s Inpatient Psychiatric Unit at St. Luke’s Hospital to Anthony Severa from December 19, 1975 to April 9, 1976. In addition, said court is directed to enter an order against the County of Philadelphia for the remaining 50 percent of the said costs.
+Act of December 6, 1972, P.L. 1464, as amended, repealed by Section 2(a) [1460] of the Judiciary Act Repealer Act (JARA), Act of April 28, 1978, P.L. 202. A similar provision is now found in the Juvenile Act, 42 Pa. C.S. §6321 (a).
+Repealed by Section 2(a) [1460] of JARA. A similar provision is now found in the Juvenile Act, 42 Pa. C.S. §6302. At the time this action commenced, Section 2(4) defined “deprived child.” Prior to the repeal and reenactment of Section 2(4), this designation was changed to “dependent child” and the definition expanded by Section 1 of the Act of August 3, 1977, P.L. 155.
+Act of October 20, 1966, Special Sess., No. 3, P.L. 96, as amended, 50 P.S. §4406, repealed, except as it relates to mental retardation or to persons who are mentally retarded, by Section 502 of the Mental Health Procedures Act, Act of July 9, 1976, P.L. 817, 50 P.S. §7502.
+Repealed by Section 2(a) [1460] of JARA. A similar provision is now found in the Juvenile Act, 42 Pa. O.S. §6356.
+Repealed by Section 5, Act of July 9, 1976, P.L. 846. A similar provision is now found in the Public Welfare Code, Act of June 13, 1967, P.L. 31, as amended, 62 P.S. §704.1.
+Repealed by Section 2(a) [1460] of JARA. A similar provision is now found in the Juvenile Act, 42 Pa. O.S. §6341.
