@@ -1,0 +1,45 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1397 C.D. 1975"
+decided: "1976-05-06"
+citations: ["24 Pa. Commw. 601"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Wilkinson, Jr., Mencer, Rogers and Blatt. Judge Kramer did not participate.", "Held: Reversed. Petition for reargument filed and denied."]
+parties: ["Commonwealth of Pennsylvania, Appellant v. Stephen E. Pendleton and Jeanette B. Pendleton, Appellees."]
+source_url: "https://static.case.law/pa-commw/24/cases/0601-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1873431
+cites_cases: ["114 A.2d 126", "116 A. 666", "123 A. 287", "127 A. 431", "129 A. 565", "152 Pa. 264", "154 A.2d 290", "187 A.2d 769", "190 Pa. Superior Ct. 454", "204 Pa. 211", "25 A. 789", "273 Pa. 148", "278 Pa. 318", "282 Pa. 96", "283 Pa. 476", "361 Pa. 239", "382 Pa. 56", "409 Pa. 557", "46 Pa. 537", "53 A. 771", "64 A.2d 796"]
+---
+
+# Commonwealth v. Pendleton
+
+## Majority (Judge Crumlish, Jr.,)
+
+Opinion by
+Judge Crumlish, Jr.,
+The Commonwealth of Pennsylvania (Commonwealth) appeals an order of the Court of Common Pleas of Bradford County denying specific performance of two option land sale contracts entered into with Stephen and Jeanette Pendleton (Pendletons), Appellees herein. For reasons hereinafter stated, we reverse.
+On June 25, 1963, the Pendletons entered into the first of two written option agreements with the Pennsylvania Game Commission for the sale of a 24.3-acre tract of land to be purchased at $20.00 per acre made binding by a $1.00 cash deposit. On October 14, 1963, the Commonwealth accepted the land purchase option in writing.
+It was eventually discovered that the deed conveying the premises lacked the signature of one of the grantors in its acknowledgment. Notice of this defect in the title was given to the Pendletons on or about September 4, 1964, and sometime thereafter, the Pendletons notified the Commonwealth that they would secure the signature of the grantor and thus remove the impairment. Prior to the defect being cured, the parties entered into a second written option agreement on November 29, 1968, for the sale of a 667-acre tract of land to be purchased at $67.00 per acre. The Commonwealth paid a cash deposit of $1.00 to bind the agreement and on January 17, 1969, accepted same by sending written notification to the Pendletons. On February 19, 1969, the Commonwealth engaged a local attorney to abstract the titles. A survey of both tracts was commenced on March 18,1969.
+In May of 1969, the parties modified the first land-purchase agreement, whereby the Commonwealth agreed to pay an increased price of $67.00 per acre for the 24.3-acre tract, and also agreed that final settlement of this, and the second contract concerning the 667-acre tract, would be made contemporaneously after the title was cleared and the abstract and survey were completed.
+The defect in title affecting the two tracts of land was finally cured on May 20, 1969, by the deed of the grantor, who relinquished all interest in the land. On June 9, 1969, the survey was completed, but no abstract had been undertaken. The Commonwealth then terminated the local attorney-abstractor’s employment and ordered one of its own agents to pursue the task, which was accomplished in one month’s time in February of 1970.
+During the extended period of delay prior to settlement, the values of the property doubled, and the Pendletons gave notice of their intention to withdraw from the contract. The Commonwealth rejected the offered withdrawal and informed the Pendletons of its intention to enforce the contracts.
+On April 20, 1970, the Commonwealth tendered the agreed $67.00 per acre for both the 24.3-acre and 667-acre tracts, which was rejected by the Pendletons, resulting in the action for specific performance below from which the Commonwealth presently appeals.
+The Commonwealth frames three issues for our determination.
+1. Did the court below err in denying specific performance because the property value had doubled?
+2. Did the court below err in denying specific performance for the reason that an unreasonable amount of time had elapsed between acceptance of the option agreement as modified, and the time of tender of the purchase price ?
+3. Did the court below err in finding changed circumstances at the time of. closing so that specific performance would be inequitable?
+In Oreovecz v. Merics, 382 Pa. 56, 60, 114 A.2d 126, 128 (1955), our Supreme Court stated:
+“ ‘Inadequacy of consideration is not ground for refusing to decree specific performance of a contract to convey real estate, unless there is evidence of fraud or unfairness in the transaction sufficient to make it inequitable to compel performance. . . . “Inadequacy of price, improvidence, surprise, and mere hardship, none of these, nor all combined, furnish an adequate reason for a judicial rescission of a contract. For such action something more is demanded, such as fraud, mistake or illegality.’’ ’ ” (Emphasis added.)
+See Welsh v. Ford, 282 Pa. 96, 127 A. 431 (1925).
+The concept of inadequacy of consideration as the basis for denying a decree for specific performance of a land sale contract was further delineated in Payne v. Clark, 409 Pa. 557, 561-62, 187 A.2d 769, 771 (1963).
+“Inequity or hardship may be a valid defense in an action for specific performance, and such decree refused if in the exercise of a sound discretion it is determined that, under the facts, specific performance would be contrary to equity and justice: Barr v. Deiter, 190 Pa. Superior Ct. 454, 154 A.2d 290 (1959) and Merritz v. Circelli, 361 Pa. 239, 64 A.2d 796 (1949). However, inequity or hardship is not a valid defense if the hardship is due to the defendant’s own acts or to events clearly foreseeable: Kramer v. Dinsmore, 152 Pa. 264, 25 A. 789 (1893). Moreover, mere inadequacy of price, unless grossly disproportionate, will not defeat specific performance. Borie v. Satterthwaite, supra; Welsh v. Ford, 282 Pa. 96, 127 A. 431 (1925); Orr’s Estate, 283 Pa. 476, 129 A. 565 (1925); Oreovecz v. Merics, 382 Pa. 56, 114 A.2d 126 (1955).” (Emphasis added.)
+Therefore, an initial question before us is whether the instant factual posture gives rise to findings of fraud, mistake, illegality or gross disproportionality of tendered consideration. The court below, in substantiating its refusal to grant specific performance, bottomed its decision of the changed circumstance of the land value doubling from time of agreement to settlement, and thus, seemingly relied on the gross disproportionality standard enunciated in Payne.
+However, in considering the changed circumstances of increased land value, we must look to reasons for, and the circumstances under which the delay came about.
+In Levy’s Estate, 273 Pa. 148, 151, 116 A. 666, 667 (1922), our Supreme Court stated:
+“The rule may be laid down as general, applying to either the vendor or the vendee, that where there has been a change of circumstances or relations which renders the execution of the contract a hardship to the defendant, and this change grows out of or is accompanied by an unexcused delay on the part of the plaintiff, the change and the delay together will constitute a sufficient ground for denying specific performance. ...” (Emphasis added.)
+First, if there was delay attributable to the Commonwealth, it was excusable delay. Our review reveals that the delay was primarily caused by the neglect of the local abstractor (hired by the Commonwealth) and the failure of the Pendletons to cure the defective acknowledgment in the deed. As to the delay in curing the defective deed, the Pendletons became aware of the defect on September 4, 1964, and the impediment to title was not removed until May 20, 1969. In April of 1970, the Commonwealth, after having completed the abstract of title, tendered the agreed compensation. So, from September, 1964, to May, 1969, grantors were aware of the defect in title and did not cure it, for whatever reason. The delay from May, 1969, was inconsequential when considering the four and one-half years during which grantors neglected to convey good title. The Commonwealth cannot in these circumstances be said to have caused an inexcusable delay in the consummation of the transaction.
+This being so, it follows that attendant increases in land value during the delay, not of its own design or making, should not thwart the prayer of specific performance by the Commonwealth. The order of the court below is reversed and specific performance is hereby decreed.
+. The court below did not cite Payne or related cases but relied on case law giving general definition of changed circumstance. See Stewart’s Estate, 278 Pa. 318, 123 A. 287 (1924); Levy’s Estate, 273 Pa. 148, 116 A. 666 (1922) ; Russell v. Stewart, 204 Pa. 211, 53 A. 771 (1902); DuBois v. Baum, 46 Pa. 537 (1864).
