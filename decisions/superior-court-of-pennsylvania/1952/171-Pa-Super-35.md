@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 27"
+decided: "1952-07-17"
+citations: ["171 Pa. Super. 35"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hikt, Reno, Dithrich, Ross, Arnold and Gunther, JJ."]
+parties: ["Lepore, Appellant, v. Italian Victory B. & L. Association."]
+source_url: "https://static.case.law/pa-super/171/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 475673
+cites_cases: ["158 Pa. Superior Ct. 323", "159 Pa. 585", "168 Pa. Superior Ct. 242", "169 Pa. Superior Ct. 420", "170 Pa. Superior Ct. 348", "28 A. 491", "362 Pa. 310", "44 A. 2d 767", "66 A. 2d 762", "77 A. 2d 675", "82 A. 2d 525", "85 A. 2d 623"]
+---
+
+# Lepore v. Italian Victory B. & L. Ass'n
+
+## Majority (Boss, J.,)
+
+Opinion by
+Boss, J.,
+In this action of assumpsit, the plaintiffs have appealed from an order of the court below dismissing their motion for judgment, on the pleadings, consisting of a complaint and answer.
+In their complaint, the plaintiffs aver that on May 7, 1931, they executed a mortgage on certain premises in Philadelphia to the defendant “in consideration of the defendant lending to them the sum of $1,000”, that on the same day the defendant recorded the mortgage but “never paid to the plaintiffs” the $1,000; that defendant has refused to satisfy the mortgage although requested to do so on March 14, 1951 and on subsequent occasions. The plaintiffs asked for judgment for $1,000, the amount of the mortgage, and for a decree “that the mortgage be marked satisfied of record”. The answer avers that “a diligent examination of its records” failed “to disclose” that the plaintiffs had executed a mortgage to it; it admitted that the mortgage was recorded but denied that the defendant recorded it, admitted that it had refused to satisfy the mortgage because it has ho record of it and “never had nor has at present the mortgage papers which are required by the Recorder of Deeds in order to satisfy the same of record”;. and finally that the ■ defendant “offered' to join in any amicable action ... to satisfy said mortgage” and is “still ready and willing to join with the plaintiffs” in such “amicable action”.
+The plaintiffs’ claim for money judgment was based upon sections 9 and 10 of the Act of May 28, 1715, 1 Sm. L. 94, 21 PS secs. 681 and 682, which provide respectively: “Any mortgagee of any real or personal estates in this province, having received full satisfaction and payment of all such sum and sums of money as are really due to him by such mortgage, shall, at the request of the mortgagor, enter satisfaction upon the margin of the record of such mortgage recorded in the said officer, which shall forever thereafter discharge, defeat and release the same; and shall likewise bar all actions brought, or to be brought thereupon.” and “If such mortgagee, by himself or his attorney, shall not, within three months after request and tender made for his reasonable charges, repair to the said office, and there make such acknowledgment as aforesaid, he, she or they, neglecting so to do, shall for every such offense forfeit and pay, unto the party or parties aggrieved, any sum not exceeding the mortgage money, to be recovered in any court of record within this province, by bill, plaint or information.”
+The learned court below held that the pleadings do not disclose facts which would entitle the plaintiffs to damages as provided in the Act of 1715, and with this conclusion we agree. “. . . the penalty fixed by the Act of 1715 was intended to accomplish two purposes : Damages as compensation to the aggrieved party, and a penalty with the object of punishing the offender:” Specktor v. Specktor, 158 Pa. Superior Ct. 323, 329, 44 A. 2d 767. In Crawford v. Simon, 159 Pa. 585, 28 A. 491, at page 589, the Supreme Court stated: “The whole testimony in the case proves that the .defendant’s refusal to surrender the bond and mortgage and to enter satisfaction was wantóñ, malícions, obstinate and entirely unreasonable and unjustifiable in any point of view. It was for the punishment of just such conduct as this that the penalties of the act of 1715 were imposed. . . .” Where judgment is sought on the pleadings the averments of the answer must be taken as admitted. Cary v. Lower Merion School District, 362 Pa. 310, 66 A. 2d 762. The effect of that rule here is to establish for present consideration the fact that defendant did not satisfy the mortgage for the reason that it was unable to. do so. Certainly, it cannot be said as a matter of law that the defendant’s refusal to satisfy the mortgage was “wanton, malicious, obstinate and entirely unreasonable and unjustifiable in any point of view”, and the Act cannot be extended to punish a defendant-mortgagee whose conduct is not culpable.
+In refusing the motion for judgment on the plead: ings the learned court below granted to the plaintiffs “leave to proceed under Pa. R. C. P. No. 1063 et seq.”. In such proceeding no question of defendant’s ability to satisfy the mortgage of record could arise for Rule 1066(b) provides: “Upon granting relief to the plaintiff, the court ... (3) shall order the defendant, the prothonotary, or the recorder of deeds to file, record, cancel, surrender or satisfy of record, as the case may be, any plan, document, obligation or deed determined to be valid, invalid, satisfied or discharged, and to execute and deliver any document, obligation or deed necessary to make the decree effective; . .'.” (Italics.supplied. )
+To sustain a judgment on, the pleadings they must present a case clear and free from doubt and every doubt must be resolved against the entry, of such- judgment. Rohm & Haas Co. v. Lessner, 168 Pa. Superior Ct. 242, 77 A. 2d 675; Pinkerton v. Solis, 169 Pa. Superior Ct. 420, 82 A. 2d 525; Murray v. Yoe, 170 Pa. Superior Ct. 348, 85 A. 2d 623.
+We agree with the learned court below that the pleadings in this case would not warrant the entry of a summary judgment.
+Order affirmed.
