@@ -1,0 +1,30 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 998 C.D. 1979"
+decided: "1980-10-30"
+citations: ["54 Pa. Commw. 419"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Mencer, Rogers and Widdiams, Jr., sitting as a panel of three."]
+parties: ["Nancy A. Bogucki, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/54/cases/0419-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1914181
+cites_cases: ["38 Pa. Commonwealth Ct. 161", "392 A.2d 337", "397 A.2d 869", "40 Pa. Commonwealth Ct. 518", "408 A.2d 1198", "48 Pa. Commonwealth Ct. 121"]
+---
+
+# Bogucki v. Commonwealth
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+Nancy A. Bogucki has appealed from an order of the Unemployment Compensation Board of Review (Board) denying her unemployment compensation benefits on the ground that she was not “able to work and available for suitable work.” Section 401(d) of the Unemployment Compensation Law, Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §801 (d) (Law).
+Ms. Bogucki was last employed as a cook by Sweet Williams Restaurant in Greensburg, Pennsylvania. Her last day of work was January 13, 1979. At that time, she informed her employer that, due to pregnancy, she could no longer perform her duties as a cook. Ms. Bogucki requested lighter work from her employer and, upon being told that no lighter work was available, she accepted a leave of absence running from January 15, 1979 to July 30, 1979. Ms. Bogucki thereafter applied for unemployment benefits which were denied by the Bureau (now Office) of Employment Security. Ms. Bogucki appealed this determination and a referee’s hearing was held, at which only Ms. Bogucki appeared and testified. The referee affirmed the Bureau’s determination, concluding that Ms. Bogucki was ineligible for benefits not only under Section 401(d) of the Law but also under Section 402(b)(1) of the Law, 43 P.S. §802 (b)(1) which provides that a person is ineligible for unemployment compensation benefits for any week in which unemployment is due to voluntarily leaving work without cause of a necessitous and compelling nature. Ms. Bogucki appealed the referee’s decision to the Board. The Board, without taking additional evidence, held that Section 402(b)(1) of the Law did not apply in this case. However, the Board also held that Ms. Bogucki was ineligible for unemployment compensation benefits under Section 401(d) because, by voluntarily accepting a leave of absence, she was not “able to work and available for suitable work.”
+Ms. Bogucki contends that the Board erred in determining that she was not able to work and available for work solely because she accepted a leave of absence due to pregnancy. We agree. The Board found as fact that Ms. Bogucki “is not able and available for suitable work during the period at issue.” The Board’s discussion in its opinion makes it clear that this finding of unavailability was based upon Ms. Bogucki’s acceptance of a leave of absence due to pregnancy. However, in circumstances substantially identical to those of the case, we have held that the pregnant woman’s acceptance of a leave of absence is not voluntary and that she cannot for this reason alone be held to be ineligible under Section 401(d) of the Law. Hamelers v. Unemployment Compensation Board of Review, 48 Pa. Commonwealth Ct. 121, 408 A.2d 1198 (1979); Defeo v. Unemployment Compensation Board of Review, 38 Pa. Commonwealth Ct. 161, 392 A.2d 337 (1978). Accordingly, we will reverse the Board’s order.
+There remains the need to determine whether or not Ms. Bogucki was able to work and available for suitable work. It is not required, however, that we remand this case for a factual determination of Ms. BogucM’s initial availability. Defeo v. Unemployment Compensation Board of Review, supra. Ms. BogucM’s testimony and her doctor’s certification, neither of •which is controverted, show she was able to do light work and was available for any such work when she applied for unemployment compensation in January 1979 and at the time of the referee’s hearing in February 1979. Having met the requirement of Section 401(d) of the Law, Ms. BogucM was eligibile until April 15, 1979, after which time, according to the doctor’s certification, Ms. BogucM would no longer be able to work,
+Order
+And Now, this 30th day of October, 1980, the order of the Unemployment Compensation Board of Review is reversed.
+The Board, relying upon Molnar v. Unemployment Compensation Board of Review, 40 Pa. Commonwealth Ct. 518, 397 A.2d 869 (1979), argued that Mg. Bogueki, as a pregnant woman, cannot rely upon the rebuttable presumption that one who registers for work with the Office of Employment Security meets the requirements of Section 401(d) of the Law, i.e., is able and available to do suitable work. However, in MoVnar, the presumption was rebutted by the severe and enduring limitations placed upon the claimant’s employability by allergies to dust, smoke, fumes and particulate matter and by Molnar’s intention to accept only temporary employment. We cannot say as a rule of law that pregnancy has as drastic an effect upon a woman’s employability as the conditions present in Molnar. Indeed, many expectant mothers work far into their pregnancy. Nor can we say that all pregnant women will accept only temporary employment. Thus, the determination of whether or not the presumption is rebutted must be made on a case by case basis.
+In the instant case, it is not necessary to invoke the presumption because Ms. Bogucki’s testimony and her doctor’s certification show that she was available for work. Even if the presumption were to be used, there is no evidence in the record, other than the fact of pregnancy, which would tend to rebut the presumption.
