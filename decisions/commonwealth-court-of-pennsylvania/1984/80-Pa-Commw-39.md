@@ -1,0 +1,39 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 113 C.D. 1983"
+decided: "1984-01-27"
+citations: ["80 Pa. Commw. 39"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogers, MacPhail and Barry, sitting as a panel of three."]
+parties: ["Peter P. Petresky, Petitioner v. Commonwealth of Pennsylvania, Department of Labor and Industry, Respondent."]
+source_url: "https://static.case.law/pa-commw/80/cases/0039-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1318463
+cites_cases: ["399 A.2d 1197", "402 A.2d 1140", "408 A.2d 206", "413 A.2d 11", "42 Pa. Commonwealth Ct. 60", "43 Pa. Commonwealth Ct. 631", "47 Pa. Commonwealth Ct. 399", "50 Pa. Commonwealth Ct. 349"]
+---
+
+# Petresky v. Commonwealth
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+Peter P. Petresky (Petitioner) appeals from the order of the State Civil Service Commission (Commission) dated December 21, 1982, dismissing his appeal from his demotion in lieu of removal, and sustaining the actions of the Department of Labor and Industry (Department).
+The record shows that Petitioner was employed by the Department as an Administrative Officer III and Chief of the Buildings Division, Bureau of Occupational and Industrial Safety. The Commission found that Petitioner was responsible for implementing the Department’s role under the Building Energy Conservation Act (Act 222). Between July 1981, the effective date of Act 222, and March 1982, twenty buildings which were subject to the requirements of Act 222 were issued Certificates of Occupancy, although the buildings did not meet the requirements. The Certificates of Occupancy were issued through the Buildings Division.
+After the Department discovered that the certificates had been improperly issued, Petitioner was required to attend a due process meeting on April 7, 1982. At that meeting Petitioner was offered, and refused, a chance to be demoted to a position as a Building Plans Examiner. After subsequent meetings with various Department personnel, Petitioner requested, and was granted, a demotion to a position as a Building Plans Examiner I in lieu of removal. Petitioner’s salary was decreased; however, it remained above the normal salary for a Plans Examiner I.
+The Commission also found that Petitioner’s supervisory skills were weak, and that “ [a]s the administrator primarily responsible for implementation of Act 222, [Petitioner] failed to properly inform subordinate employes of their duties in the implementation process.” The Commission predicated its finding in regard to Petitioner’s supervisory skills upon his 1980 and 1981 performance ratings and the testimony of Albert Droves, director of the Bureau of Occupational and Industrial Safety, to whom Petitioner reported directly in his employment. Mr. Groves also testified that Petitioner was responsible for the administration of Act 222. This is substantial evidence to support the Commission’s findings. In any event, the specific problem was the issuance of certificates of occupancy to twenty buildings which were not in compliance with Act 222. The record shows that this did occur, and that Petitioner was the person responsible for the correct administration of Act 222. It was not necessary that the Department show independently that Petitioner’s supervisory skills were weak; the problems with the administration of Act 222 were sufficient basis for the Department’s actions in the instant case.
+Petitioner avers that the Commission erred in refusing to enforce a subpoena duces tecum and in refusing to open the record on his motion following the administrative hearing. The Department provided Petitioner with a copy of his personnel file. At the hearing, counsel for the Department stated that Petitioner had in his possession the documentation which he subpoenaed. Our reading of Petitioner’s letter of June 18, 1982, to the Department’s counsel informs us that, other than memoranda given to Petitioner, of which he should certainly have knowledge, Petitioner merely made a blanket request for any documentation which might exist in the matter sub judice.
+In view of the Department’s statements at the hearing regarding the subpoena, we must conclude that any documents which existed were made available to Petitioner. We have also reviewed the documents which Petitioner sought to have added to the record following the hearing, and we cannot disagree with the Commission’s refusal to open the record because the documents would be irrelevant to the Commission’s findings with respect to the violations of Act 222.
+Petitioner additionally alleges a violation of his due process rights in the manner in which the Commission conducted the hearing. Perhaps the most serious allegation is that the Commission refused to permit Petitioner to testify fully regarding his duties as an employee of the Department. We find that the record shows that Petitioner was permitted to testify regarding his duties, but that an objection to his reading of his job description was sustained. The document was entered into evidence; therefore, a verbatim reading was superfluous and was properly curtailed.
+We find no merit in Petitioner’s argument that his voluntary demotion was technically defective. There is no question that the evidence in the record would indicate anything other than that the personnel action was properly authorized.
+Finally, we find, no denial of Petitioner’s due process rights in the events leading up to his acceptance of the demotion. He met on more than one occasion with his supervisor and other Department personnel. The letter of April 16, 1982, from the Deputy Secretary of the Department to Petitioner, discloses the specific problem which generated the personnel action was centered upon Petitioner’s administration of Act 222. This satisfied the requirements of due process under the circumstances. See Lopez v. Retreat State Hospital, 43 Pa. Commonwealth Ct. 631, 402 A.2d 1140 (1979).
+For the foregoing reasons, the order of the Commission is affirmed.
+Order
+The order of the State Civil Service Commission in Appeal No. 3967 dated December 21,1982, is hereby affirmed.
+Act of December 15, 1980, P.D. 1203, as amended, 35 P.S. §§1201.101 — 7201.602.
+This Count will not weigh the evidence, non substitute its own judgment. Resolution of evidentiary conflicts is the function of the Commission., whidh judges issues of credibility. Varndell v. Dept. of Public Welfare, 50 Pa. Commonwealth Ct. 349, 413 A.2d 11 (1980).
+We agree with the Commission that the burden lay with the Department to prove that just cause supported the removal, which was Petitioner’s only alternative if he refused the proffered demotion. See Pavia v. Commonwealth of Permsylvania, Department of Transportation, 47 Pa. Commonwealth Ct. 399, 408 A.2d 206 (1979). “Just cause for dismissal within the meaning of Section 807(a) of the [Civil Service Act, Act of August 5, 1941, P.D. 752, as amended,] 71 P.S. §741.807(a) ha® been defined by this Count to include the failure of a Civil service employee to properly execute his duties . . . ,” DeMarinis v. Hazleton Housing Auth., 42 Pa. Commonwealth Ct. 60, 399 A.2d 1197 (1979) ; therefore, the Department has met its burden.
+Petitioner’s counsel stated at the hearing that the letter was incorporated by reference into the subpoena, and that the letter enumerated the items sought by Petitioner.
+In addition, the April 7, 1982 letter to Petitioner, from the Director of Personnel of the Department, advised Petitioner of a due process hearing and of his right to 'bring a representative to the meeting. We do not find the Department to have acted in denial of Petitioner’s due process rights through these proceedings.
