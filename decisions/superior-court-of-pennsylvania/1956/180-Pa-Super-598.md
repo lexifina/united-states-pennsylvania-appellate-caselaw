@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 26 and 28"
+decided: "1956-01-17"
+citations: ["180 Pa. Super. 598"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Ross, Gunther, Wright, Woodside, and Ervin, JJ.", "Gunther, Weight and Woodside, JJ. concur in the result."]
+parties: ["Dulles v. Dulles et al., Appellants."]
+source_url: "https://static.case.law/pa-super/180/cases/0598-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 730691
+cites_cases: ["106 A. 248", "12 A. 2d 558", "125 Pa. Superior Ct. 347", "189 A. 498", "263 Pa. 238", "338 Pa. 452", "361 Pa. 214", "64 A. 2d 792"]
+---
+
+# Dulles v. Dulles
+
+## Majority (Ervin, J.,)
+
+Opinion by
+Ervin, J.,
+In this action, commenced by writ of foreign attachment in the Municipal Court of Philadelphia by the mother and natural guardian of two minor sons against the father and the garnishees, an order of support was sought for the two sons.
+Preliminary objections were filed raising, inter alia, the failure to aver in the complaint that the defendant father was a nonresident of Pennsylvania. Thereafter the plaintiff filed a formal request for leave to amend the complaint by amending paragraph 3 by inserting a specific averment that the defendant is not a resident of Pennsylvania. In the opinion, filed after the taking of testimony on the preliminary objections, the court stated: “The Court believes that this amendment should be permitted.”
+We are of the opinion that this amendment was not allowable and that the failure to aver nonresidence in the original complaint was a fatal jurisdictional defect which obliges us to reverse the action of the lower court in which it dismissed the preliminary objections.
+The Act of 1836, P. L. 568, §44, as amended, 12 PS §2891, and Pa. R. C. P. 1252 both provide that foreign attachment will lie only against a nonresident of Pennsylvania. The only averment in the complaint with reference to .the whereabouts of the defendant is set forth in paragraph 3 thereof as follows: “Defendant is Leib Harrison Dulles, whose address is Blonay s/Vevey, Switzerland.” A statement setting forth the address of a defendant in a foreign attachment proceeding does not amount to an averment that the defendant is a nonresident of Pennsylvania.
+In Kohl v. Lyons, 125 Pa. Superior Ct. 347, 351, 189 A. 498, Judge Rhodes, now President Judge, said: “The affidavit of cause of action in the instant case fails to show that necessary jurisdictional fact. The affidavit states that defendant ‘resides at Hillcrest Place, North Caldwell, New Jersey.’ It does not aver that defendant is a nonresident of Pennsylvania, and therefore a necessary requisite for the issuing of the writ is absent. Residence in this state is not inconsistent with the averment that defendant ‘resides at Hillcrest Place, North Caldwell, New Jersey.’ ”
+In Magel v. Springs, 338 Pa. 452, 453, 12 A. 2d 558, Mr. Justice Linn said: “The averment in the affidavit of cause of action on which the writ issued states that the defendant ‘is at the present time, to the best of plaintiff’s knowledge, residing at Myrtle Beach, in the State of South Carolina, her address being P. O. Box No. 127, Myrtle Beach, South Carolina, and has no place of business, office or agent within the Stale of Pennsylvania where or upon whom process may be served.’ All of that may be true and yet the defendant may be a resident of Pennsylvania, temporarily out of the state; defendant may not have a ‘place of business, office or agent’ and still not be a nonresident. The averment is insufficient. ...”
+In Levie v. Levie, 361 Pa. 214, 219, 64 A. 2d 792, the Court said: “This Court said in G. B. Hurt, Inc., v. Fuller Canneries Company, 263 Pa. 238, 106 A. 248, at p. 241: “It is a well-settled rule in Pennsylvania that as to matters of substance there can be no amendment, but in merely formal matters amendments to affidavits showing cause of action have been repeatedly allowed.’ The averment as to nonresidence is more than a formal matter in a foreign attachment proceeding. The very existence of the right depends on the nonresidence of the defendant. It is this factor, coupled with the presence of property in the State, which gives rise to jurisdiction. ‘Nonresidence of the defendant in this state is one of the “statutory props” upon which the process of foreign attachment rests’: Kohl v. Lyons et al., supra, p. 351.”
+Counsel for appellee argues that the amendment of nonresidence was allowable by the lower court under the new Rules of Civil Procedure and he specifically cited Rule 1033, which reads as follows: “A party, either by filed consent of the adverse party or by leave of court, may at any time change the form of action, correct the name of a party or amend his pleading. The amended pleading may aver transactions or occurrences which have happened before or after the filing of the original pleading, even though they give rise to a new cause of action or defense. An amendment may be made to conform the pleading to the evidence offered or admitted.” He also calls to our attention Rule 126, which requires liberal construction to secure the just, speedy and inexpensive determination of every action or proceeding to which the rules are applicable. The Act of 1937, P. L. 1982, as amended March 30,1939, P. L. 14, 17 PS §61, which authorized our Supreme Court to prescribe rules, directs that Court to lay down rules which “shall be consistent with the Constitution of this Commonwealth and shall neither abridge, enlarge nor modify the substantive rights of any litigant. . . .” In Pa. R. C. P. 1461 the Supreme Court provided that the Acts of Assembly relating to foreign attachment which are suspended by the rules are suspended only “insofar as they apply to the practice and procedure in foreign attachment. . . .” Neither the legislature nor the Supreme Court intended to change substantive matters. Only matters of practice and procedure could be changed by the rules.
+Prom the above decisions it is clear that both of our appellate courts have considered the averment of nonresidence in Pennsylvania as a “substantive matter” and as something more than “practice and procedure.” It is, therefore, our opinion that the new Supreme Court rules have not changed the law as it existed theretofore and the averment of nonresidence in Pennsylvania must be made in the complaint as originally filed in order to give the court jurisdiction to issue the writ of foreign attachment.
+Because of the above disposition of this appeal, it will be unnecessary for us to consider the other interesting questions argued.
+The order of the lower court is reversed, with costs upon the appellant.
+Gunther, Weight and Woodside, JJ. concur in the result.
