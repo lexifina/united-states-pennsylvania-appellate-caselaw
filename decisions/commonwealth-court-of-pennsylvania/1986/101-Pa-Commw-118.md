@@ -1,0 +1,29 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2900 C.D. 1984"
+decided: "1986-09-29"
+citations: ["101 Pa. Commw. 118", "515 A.2d 995"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail and Palladino, and Senior Judge Barbieri, sitting as a panel of three."]
+parties: ["Leaseway Systems, Inc., and Transport Insurance Company, Petitioners v. Workmen's Compensation Appeal Board (Becerra), Respondents."]
+source_url: "https://static.case.law/pa-commw/101/cases/0118-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1354252
+cites_cases: ["100 Pa. Commonwealth Ct. 393", "414 A.2d 161", "418 A.2d 796", "430 A.2d 1212", "506 Pa. 592", "51 Pa. Commonwealth Ct. 214", "53 Pa. Commonwealth Ct. 520", "60 Pa. Commonwealth Ct. 133"]
+---
+
+# Leaseway Systems, Inc. v. Workmen's Compensation Appeal Board
+
+## Majority (Senior Judge Barbieri,)
+
+Opinion by
+Senior Judge Barbieri,
+Before this Court for the second time is this workmens compensation case commenced by Claim Petition filed January 10, 1974, on behalf of Joseph Becerra, Claimant, alleging a work-related injury suffered on November 1, 1972, in the course of Claimants employment by Leaseway Systems, Inc., Employer. This appeal to us, like the previous one, brings before us a procedural question which has operated to postpone, rather than bring about, a decision on the merits of Claimants case. Without detailing past ramifications and litigation steps, we note that our prior remand, Leaseway Systems, Inc. v. Workmen's Compensation Appeal Board (Becerra), 53 Pa. Commonwealth Ct. 520, 418 A.2d 796 (1980), directed that proceedings be held on the original claim petition since the agreement for compensation was illegal under Section 407 of The Pennsylvania Workmens Compensation Act (Act). Disability was initially conceded up to a certain date, January 1, 1974, as of which date Claimants “continuing disability” was “left open.” Before us now is the issue of whether or not the Board has properly denied the employer’s and insurer’s petition for a fourth medical examination by a physician examining for them. The instant petition is filed under Section 314 of the Act, 77 P.S. §651.
+Petitioners contention here is that under the authority of our decision in Bi-Lo Shop-N-Bag v. Workmen's Compensation Appeal Board (Hesson), 60 Pa. Commonwealth Ct. 133, 430 A.2d 1212 (1981), it was error for the Board to render its decision without first holding a hearing or referring the matter to a referee for a hearing, without making or having made a record, without making findings of fact or conclusions of law and without rendering an opinion, on the basis, it is argued, that such an extensive panoply of litigation must be required in each case to provide a record capable of appellate review. Claimant contends, however, that the refusal of the Board in this case is a matter for the sound discretion of the Board, not reviewable by us, and that there can be no abuse of discretion because the medical witness designated to make a fourth examination has already made three prior examinations on dates closer to the time of alleged injury; that on each of the three prior times this medical witness has found Claimant capable of returning to his former employment; and, if that decision was made on three separate occasions when disability would be more likely to exist than at this point, several years later, it is a futile and unnecessary imposition to require a further examination of the Claimant. It is urged that Bi-Lo is readily distinguishable. Unfortunately, we must decline to address the principal issues, since in our judgment the instant appeal from the Boards denial of the request for a fourth examination is an interlocutory order and the appeal therefrom to us must be quashed. Murhon v. Workmen's Compensation Appeal Board (Berylco), 51 Pa. Commonwealth Ct. 214, 414 A.2d 161 (1980). Furthermore, on this very issue, whether an appeal will lie to us from denial of a further examination under Section 314, we find no distinguishing characteristics and, therefore, find controlling, the case of H.K. Porter Co., Inc. v. Workmen's Compensation Appeal Board (O’Connor), 100 Pa. Commonwealth Ct. 393, 514 A.2d 996 (1986).
+Order
+Now, September 29, 1986, the appeal of Leaseway Systems, Inc., from a remand order of the Workmens Compensation Appeal Board, No. P.E. 4305, dated September 7, 1984, is hereby quashed.
+Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §731.
+We ruled on the prior appeal that the Pennsylvania Workmens Compensation Appeal Board (Board) erred in treating the agreement as null and void as to the termination date, but valid to establish liability up to that date, January 1, 1974, since, in our view, the entire agreement was null and void. We note that our ruling in this regard has been approved by our Supreme Court in Rollins Outdoor Advertising v. Workmen's Compensation Appeal Board (Maas), 506 Pa. 592, 487 A.2d 794 (1985).
+In Roadway Express, Inc. v. Workmen's Compensation Appeal Board (Burke), slip opinion (No. 127 C.D. 1985, filed September 11, 1986), filed virtually concurrently with H. K. Porter and relying thereon, the Boards order approved the grant by a referee of a request for a physical examination, but specifically denied the additional request by the employer to have the claimant undergo invasive testing “by myelogram or any nerve test that required the invasion of the claimants body in any manner by the breaking of skin or the placing of tubes in body orifices.” In this connection, we wish to note that we do not reach and express no opinion here, nor have we in H. K. Porter or in Roadway Express, as to what may be our determination should the Board order such invasive testing.
