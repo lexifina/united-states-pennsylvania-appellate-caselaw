@@ -1,0 +1,49 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 380 C.D. 1981"
+decided: "1982-01-26"
+citations: ["64 Pa. Commw. 246"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Mencer, Williams, Jr. and Palladino, sitting as a panel of three.", "This decision was reached prior to the expiration of the term of office of Judge Palladino."]
+parties: ["National Development Corporation, Appellant v. Planning Commission of the Township of Harrison, Appellee."]
+source_url: "https://static.case.law/pa-commw/64/cases/0246-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1928386
+cites_cases: ["21 Pa. Commonwealth Ct. 591", "24 Pa. Commonwealth Ct. 434", "314 A.2d 270", "347 A.2d 753", "357 A.2d 260", "412 A.2d 202", "455 Pa. 163", "476 Pa. 203", "50 Pa. Commonwealth Ct. 77"]
+---
+
+# National Development Corp. v. Planning Commission
+
+## Majority (Judge Williams, Jr.,)
+
+Opinion by
+Judge Williams, Jr.,
+This is an appeal by appellant National Development Corporation (NADCO) from an order of the Court of Common Pleas of Allegheny County. The court’s order dismissed NADCO’s appeal, filed pursuant to the Pennsylvania Municipalities Planning Code (MPC), from a decision of the Harrison Township Planning Commission (appellee).
+On November 13, 1979 NADCO submitted to the Planning Commission an application for preliminary approval of a proposed subdivision and land development plan. The Planning Commission rendered a decision rejecting the application on March 17,1980, and NADCO was notified of this decision by letter of the same date.
+. On March. 27, 1980 NAD 00 instituted an action in mandamus in the Court of Common Pleas of . Allegheny County. In its complaint, appellant alleged that the. Planning Commission had failed to act upon its application within the time period prescribed by Section 508 of the MPC, and that therefore, its application was deemed approved thereunder. Appellant accordingly requested the court below to declare its application preliminarily approved as a matter of law, or, in the alternative, to direct the Planning Commission to grant such preliminary approval.
+In addition to the action in mandamus, NADCO filed, in the court below, on May 1, 1980, a statutory zoning appeal from the Planning Commission’s decision under Section 1006 of the MPC. As in tbe mandamus action, appellant sought recognition and enforcement of the deemed approval of its application.
+Subsequent to the initiation of the mandamus action and the filing of its statutory appeal, NADCO filed a motion for peremptory judgment in mandamus. Following oral argument and upon consideration of the briefs of counsel, the lower court granted NADCO’s petition and directed appellee to approve NADCO’s application by order dated July 22, 1980. Thereafter, appellee filed a petition to open the peremptory judgment entered in NADCO’s favor. As of this date, appellee’s petition has not been acted upon by the court below. On January 16, 1981, without notice or hearing, the court sua sponte entered an order dismissing appellant’s zoning appeal. In its order, the' court stated, as grounds for the dismissal, that its disposition of the mandamus action rendered moot NADCO’s statutory appeal. NADCO has appealed to this court from the aforesaid order.
+- Preliminarily, we observe that the lower court incorrectly dismissed NADCO’s statutory appeal as moot. While it is well established that a legal question can, after suit has been commenced, become moot as a result of changes in the facts of the case or in the law, such changes must finally and conclusively dispose of the controversy. See, In re Gross, 476 Pa. 203, 382 A.2d 116 (1978). Here, the issue involved in both the mandamus action and the statutory appeal is whether NADCO is entitled to preliminary approval of its application as a matter of law. The lower court’s disposition of this question in appellant’s mandamus action, however, is not final and conclusive: appellee’s petition to open the peremptory judgment entered in that matter has not yet been acted upon by that court. Accordingly, NADCO’s statutory appeal did not become moot as a result of the lower court’s decision in the mandamus action.
+The record before us, however, presents the question of whether NADCO’s zoning appeal was timely filed, and consequently, whether the court below had subject matter, jurisdiction over that appeal. Under Section 5571 of the Judicial Code, an appeal from an order of a government unit to a court must be commenced within thirty (30) days after the entry of the order from which the appeal is taken. Section 5572 of the Judicial Code provides that the date of mailing of an order of a government unit shall be deemed the date of entry of the order.
+As aforesaid, the instant record indicates that the Planning Commission rendered its decision rejecting appellant’s application on March 17, 1980, and notified NADCO of this decision in a letter bearing the same date. Appellant’s statutory appeal from that decision was filed on May 1, 1980. The record is devoid, however, of any indication of the date on which the létter to NADCO was mailed. We are thus unable to determine whether NADCO’s appeal under the MPC was timely filed. Accordingly, we are compelled to remand the case to the lower court for such a determination. In the event the court below determines that the statutory appeal was timely, the court should then decide the merits of that appeal.
+Order
+And Now, the 26th day of January, 1982, the above-captioned case is hereby remanded to the Court of Common Pleas of Allegheny County.
+This decision was reached prior to the expiration of the term of office of Judge Palladino.
+Act of July 31, 1968, P.L. 805, as amended, 53 P.S. §§10101 et seq.
+53 P.S. §10508. .This section provides, in, pertinent part:
+All applications. for approval of a plat . . . whether preliminary or final, shall be acted upon by the governing body or the planning agency within such time limits as may be fixed in the subdivision and land development ordinance but, the governing body or the planning agency shall render its decision and communicate it to the applicant not later than ninety days following the date of the regular meeting. of the governing body or the planning agency (.whichever first reviews the application,) next following the date the application is filed, provided that should the said next regular meeting occur more than thirty days following the filing of the application, the said ninety-day period shall be measured from the thirtieth day following the day the application has been filed.
+. (1) The decision of the governing body or the planning agency shall be in writing and shall be communicated to the applicant personally or mailed to him at his last known address not later than fifteen days following the decision;
+. (2.) When .the application is not approved in terms as filed the decision shall specify the defects found in the application and describe the requirements which have not been met and shall, in each case, cite to the provisions of the statute or ordinance relied upon;
+' (3) Failure of the governing body or agency to render a decision and communicate it to the applicant within the time and in the manner required herein shall be deemed an approval of the application in terms as presented unless the applicant has agreed in writing to an extension of time or change in the prescribed manner of presentation of communication of the decision, in which case, failure to meet the extended time or-change in manner of presentation of communication shall have like effect. . . .
+Under our ease law, mandamus is an appropriate method for obtaining recognition of deemed approval. Bobiak v. Richland Township Planning Comm’n, 50 Pa. Commonwealth Ct. 77, 412 A.2d 202 (1980).
+53 P.S. §11006. This section provides in pertinent part:
+(1) A landowner who desires to file a zoning application or to secure review or correction of a decision or order of the governing body or of any officer or agency of the municipality which prohibits or restricts the use or development of land in which he has an. interest on the grounds that such decision or order is not authorized by or is contrary to the provisions of an ordinance or map shall proceed as follows :
+(a) From a decision of the governing body or planning agency under a subdivision or land development ordinance the landowner may appeal directly to court or to' the zoning hearing board under section 913.1 in cases where that section is applicable. If the municipality provides a procedure, formal or informal, for the submission of preliminary or tentative plans an adverse decision thereon shall, at the landowner’s election, be treated as final and appealable.
+Where, in an action in mandamus, peremptory judgment is granted under the authority of Pa. R.C.P. No. 1098, the defendant must proceed by petition for opening judgment before appealing. The grant of peremptory judgment itself is not appealable. Mertz v. Lakatos, 21 Pa. Commonwealth Ct. 591, 347 A.2d 753 (1975).
+The question of the timeliness of an appeal is a matter of jurisdiction. City of Philadelphia v. Goldstein, 24 Pa. Commonwealth Ct. 434, 357 A.2d 260 (1976).
+Neither the parties nor the lower court addressed this issue. An objection to a lack of subject matter jurisdiction, however, can never be waived, and may be raised at any stage in the proceedings by the parties or by the court on its own motion. Commonwealth v. Little, 455 Pa. 163, 314 A.2d 270 (1974).
+Act of July 9, 1976, P.L. 586, No. 142, §2, as amended, 42 Pa. C. S. §5571. ■ ' '
+42 Pa. C. S. §5572.
+Under Section 102 of the Judicial Code, 42 Pa. C. S. §102, an “order” is defined to include judgment, decision, decree, sentence and adjudication.
