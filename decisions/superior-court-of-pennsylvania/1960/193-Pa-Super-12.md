@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 27"
+decided: "1960-09-16"
+citations: ["193 Pa. Super. 12"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Gunther, Wright, Woodside, Erkin, and Montgomery, JJ. (Watkins, J., absent)."]
+parties: ["Hill, Appellant, v. Springfield Township Commissioners."]
+source_url: "https://static.case.law/pa-super/193/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 750430
+cites_cases: ["146 A. 2d 87", "152 Pa. Superior Ct. 503", "167 Pa. Superior Ct. 205", "170 Pa. Superior Ct. 16", "188 Pa. Superior Ct. 212", "33 A. 2d 287", "74 A. 2d 775", "84 A. 2d 388"]
+---
+
+# Hill v. Springfield Township Commissioners
+
+## Majority (Rhodes, P. J.,)
+
+Opinion by
+Rhodes, P. J.,
+This is a workmen’s compensation case arising out of the death of claimant’s husband. Claimant alleged that her husband’s death from cerebral hemorrhage was the result of an accidental injury in the course of his employment as highway maintenance foreman for the Springfield Township Commissioners, Delaware. County. The referee awarded claimant compensation; the board reversed the referee, and found that deceased suffered no accident in the course of his employment. The Court of Common Pleas of Delaware County affirmed the board. Claimant has appealed.
+... The facts are not controverted. Appellant’s principal argument is that the uncontradicted facts as a matter of law established the occurrence of an accident. Deceased, John S; Hill, had been' employed by defendant, Springfield Township Commissioners, for more than twenty years as a highway maintenance foreman, subject to call at any time. On Sunday, October 10, 1954, about 1:30 p.m., while deceased was having dinner at his home he was called to the telephone. After taking the message deceased hurried upstairs, changed his clothes and came down, obtained a shovel and pick, and with another employe, John Tuzza, drove off in deceased’s automobile. It appears from the record that the message which brought deceased to the scene was to the effect that a man walking his dog in a field came upon some loose dirt that made him suspicious that a body had been recently buried there. The purpose of the township officials was to investigate this suspicion. The suspicion proved to be wholly unfounded when the excavation was reopened. Deceased did not participate in the digging at the place where it was intimated a body was buried; nor did he participate in refilling the excavation. Two hours later deceased was returned home having suffered a cerebral hemorrhage. He was put to bed, remained in a coma, and was later removed to a hospital where he died on October 12,1954. Claimant’s doctor stated that the cerebral hemorrhage was set in motion by reason of the receipt of the telephone call together with the activity while at the scene which set up an ultimate reaction increasing the blood pressure resulting in the fatality. The testimony indicated that deceased had suffered with high blood pressure for five years prior to his death.
+The board substituted three findings of fact for those of the referee, and concluded that no accident was suffered by deceased in tbe course of his employment by the defendant. The burden was on claimant to prove to the satisfaction of the board as a final fact finder that deceased’s death was caused by or resulted from an accident and not from natural causes. Revilak v. Coca Cola Company of Pennsylvania, 152 Pa. Superior Ct. 503, 504, 33 A. 2d 287.
+Moreover, where the findings of the compensation authorities are adverse to claimant, the only question on appeal is whether the findings of fact can be sustained without a capricious disregard of the testimony and are consistent with each other and with the conclusions of law and the final order. Karasciewicz v. Crown Can Company, 188 Pa. Superior Ct. 212, 219, 146 A. 2d 87.
+Claimant argues on this appeal that the board erred in its interpretation of the law as to what constitutes an accident by improperly applying the law to the facts in the case, and by capriciously disregarding the competent evidence in making its determination that there was no accident. We find no merit in any of these contentions. The testimony indicates that deceased, who had been treated for high blood pressure for five years prior to Ms death, was a road supervisor subject to call at any time. He was called on October 10, 1954, and proceeded to the scene of the excavation. While there he continued in his supervisory capacity and took no part in the excavating or refilling of the excavation. There was nothing abnormal or extraordinary in the performance of his work as a highway maintenance foreman.
+The board was correct in concluding that, after deceased received the telephone call, Ms activity including that of going up and down the stairs before he left Ms home, did not shoAV such unusual activity and was not such an unexpected and fortuitous- occurrence as to constitute an accident within-the meaning, of the Act.
+•The question of whether the record contains medical evidence sufficient to establish a causal connection between' the alleged accident and the death did not arise: In any event, the opinion of Dr. Victor A. Di-: gilio called by claimant was based in part at least on facts which were not supported by evidence in the record. An opinion of a medical expert:on assumed facts not. in evidence is. not proof of an accidental injury. Cope v. Philadelphia, Toilet Laundry & Supply Company, 167 Pa. Superior Ct. 205, 208, 74 A. 2d 775; Shatto v. Bardinet Exports, Inc., 170 Pa. Superior Ct. 16, 19, 84 A. 2d 388.
+Judgment of the court below is affirmed.
+«Third: We find as a fact that on October 10, 1954, while at dinner, the decedent received a telephone call to proceed immediately to a certain area in the defendant township, whereupon the decedent hurried upstairs to change his clothes, obtained a shovel and pick, and with another employe, proceeded to the location in decedent’s automobile.
+“Fourth: We find as a fact that the decedent did not participate in digging at the spot, where it was intimated a body was buried, nor did he participate in re-filling the hole. By the time the decedent was returned home, he suffered a cerebral hemorrhage, which caused his death on October 12, 1954.
+“Fifth: We find as a fact that said cerebral hemorrhage, resulting in death, was not due to an accident suffered in the course of his employment by the defendant.”
