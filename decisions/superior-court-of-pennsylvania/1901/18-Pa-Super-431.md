@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 20"
+decided: "1901-12-02"
+citations: ["18 Pa. Super. 431"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, Smith, W. W. Porter and W. D. Porter, JJ."]
+parties: ["Commonwealth v. Devine, Appellant."]
+source_url: "https://static.case.law/pa-super/18/cases/0431-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 837367
+---
+
+# Commonwealth v. Devine
+
+## Majority (Beaver, J.,)
+
+Opinion by
+Beaver, J.,
+Four defendants were jointly indicted for larceny and receiving stolen goods; three only were arrested and tried. They were convicted and their appeal here rests mainly upon the alleged insufficiency of the evidence to sustain a verdict of guilty. As to Annie Devine, one of the defendants, this complaint is not well founded. She was recognized as having been in the store of the prosecutors at or about the time of the alleged larceny and a receipt for an express package was found in a traveling bag in her room in a hotel in Cleveland at the time of her arrest. The package for which the receipt was given, on being returned from El Paso, Texas, the place to which it had been sent, was found to contain the alleged stolen goods. These facts, taken in connection with the movements of the defendants and their companions in Pittsburg and Allegheny, constituted a connected chain of circumstantial evidence which warranted the submission of the question of her guilt to the jury, and the manner in which this was done, so far as the charge relates to her alone, was not objectionable.
+So far as the other defendants, who were convicted, are concerned, however, the main links in this chain of circumstantial evidence are entirely wanting. They were not shown to have been in Allegheny at or about the time of the alleged larceny. They were not connected by the testimony in any way with the shipping of the express package nor was any knowledge of the possession of the receipt of the express company for the same by the defendant brought home to them or either of them in any way. It is true that the defendants, with one or more companions, were together in Pittsburg before the alleged larceny and afterwards in Cleveland, stopping at the same hotels, but this fact, although under all the circumstances as detailed by the several witnesses, somewhat suspicious, was not of itself sufficient to warrant the submission of the question of their guilt to the jury. The experienced trial judge evidently had serious doubt as to the sufficiency of the evidence to warrant a conviction of these defendants; and, if there had been sufficient evidence to leave his own mind in doubt, he would not have been justified in making the doubt work an acquittal by withholding the evidence from the consideration of the jury and thus making his own doubt the equivalent of “ a reasonable doubt ” on the part of the jury; but there was not enough evidence in this case to make the question of its submission to the jury doubtful. There was nothing in the case which connected these two defendants with the crime charged in the indictment and the jury should have been so instructed. In this view of the case the second and fourth specifications of error must be sustained.
+The illustration complained of in the third specification of error is not in itself erroneous. It did not apply to the present case, however, because the evidence of the common purpose to commit crime was lacking.
+The entire charge is assigned for error and, therefore, we comment upon that portion of it which relates to “ the reasonable doubt ” which must work an acquittal, although if there were nothing else in the case we would not feel bound to do so, because not specifically assigned for error. It is undoubtedly true that in many cases the rule as to “ a reasonable doubt ” is strained and overdone, but it is a time honored safeguard upon which a-11 defendants have the right to rely. It is well understood in the administration of our criminal law and should be neither stiffened nor relaxed in its interpretation. We think the remarles of the trial judge tended to belittle the rule itself by characterizing it as “ a great bugbear ” and also added, in his definition of what a reasonable doubt is, an element not justified by the well understood interpretation, when he says: “ It must be a doubt so solemn and substantial .as to produce to the jury a code of reasoning so clear as to preclude the possibility of a doubt as to the verdict to be given.” This is very different from Chief Justice Shaw’s definition subsequently quoted: “ It is that state of the case which, after the entire comparison and consideration of all the evidence, leaves the minds of the jurors in that condition that they cannot say they feel an abiding conviction to a moral certainty of the charge.” We cannot say what effect this may have had upon the minds of the jury, but the tendency of it undoubtedly was adverse to the defendants’ rights under the rule which makes a reasonable doubt work an acquittal.
+The judgment is, therefore, reversed, and a new venire awarded.
