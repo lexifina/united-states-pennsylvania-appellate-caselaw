@@ -1,0 +1,48 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "3232"
+decided: "1983-09-09"
+citations: ["318 Pa. Super. 500", "465 A.2d 665"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CAVANAUGH, ROWLEY and HOFFMAN, JJ.", "ROWLEY, J., concurs in result."]
+parties: ["Rita Theresa Barone SOHMER, Appellant, v. Robert SOHMER."]
+source_url: "https://static.case.law/pa-super/318/cases/0500-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 91142
+cites_cases: ["150 A.2d 370", "189 Pa.Super. 403", "243 Pa.Super. 462", "317 U.S. 287", "329 A.2d 483", "334 U.S. 343", "334 U.S. 541", "354 U.S. 416", "393 A.2d 57", "395 A.2d 317", "434 U.S. 822", "458 Pa. 147", "460 Pa. 537", "54 L.Ed.2d 79", "92 L.Ed. 1429", "92 L.Ed. 1561", "98 S.Ct. 67"]
+---
+
+# Sohmer v. Sohmer
+
+## Majority (CAVANAUGH, Judge:)
+
+CAVANAUGH, Judge:
+This appeal involves a claim for alimony under the Divorce Code, Act of April 2, 1980, P.L. 63, 23 P.S. § 101, et seq. (hereinafter, “Divorce Code”). The relevant facts are as follows.
+Mrs. Sohmer and her husband were married in 1951, lived their marital lives and currently own property in Montgomery County, Pennsylvania. Mrs. Sohmer, who continues to reside in Pennsylvania, filed a complaint in divorce in Montgomery County in April of 1980. Thereafter, in July of 1980, Mr. Sohmer filed a complaint in divorce in Fairfax County, Virginia, where he had established a separate residence. Notwithstanding the pendency of her Pennsylvania divorce action, Mrs. Sohmer appeared through counsel in the Virginia action, and in October of 1980 the Virginia court granted Mr. Sohmer a divorce a.v.m., leaving open, however, the question of alimony.
+In June of 1981, ancillary to her Pennsylvania divorce action, Mrs. Sohmer petitioned the Montgomery County Court for alimony, to which Mr. Sohmer filed preliminary objections challenging subject matter jurisdiction. The lower court granted the preliminary objections, and ordered dismissal of the petition, from which order Mrs. Sohmer now appeals.
+We are called upon to decide whether a defendant who appears in a foreign divorce proceeding, resulting in a divorce a.v.m. but reserving the question of alimony, may thereafter seek alimony in Pennsylvania. We conclude that such a defendant may not, and affirm.
+With respect to the marital status of the parties in this case, the Virginia decree must be given full faith and credit. Williams v. North Carolina, 317 U.S. 287, 63 S.Ct. 207, 87 L.Ed. 279 (1942); Commonwealth v. Lorusso, 189 Pa.Super. 403, 150 A.2d 370 (1959). This is particularly so since the appellant appeared in the Virginia proceeding. Sherrer v. Sherrer, 334 U.S. 343, 68 S.Ct. 1087, 92 L.Ed. 1429 (1948); Whitmer v. Whitmer, 243 Pa.Super. 462, 365 A.2d 1316 (1976), cert. denied, 434 U.S. 822, 98 S.Ct. 67, 54 L.Ed.2d 79 (1977). However, even though a foreign divorce decree, such as this, is accorded full faith and credit with respect to the marital status of the parties, it is not necessarily dispositive of the economic aspects of the divorce. Accordingly, it has been held that where a foreign decree of divorce has failed to address the economic questions, the divorce is “divisible,” leaving those questions open for determination in other jurisdictions. Estin v. Estin, 334 U.S. 541, 68 S.Ct. 1213, 92 L.Ed. 1561 (1948); Vanderbilt v. Vanderbilt, 354 U.S. 416, 77 S.Ct. 1360, 1 L.Ed.2d 1456 (1957).
+Stambaugh v. Stambaugh, 458 Pa. 147, 329 A.2d 483 (1974), involved a divorce where the husband had established a Florida residence and, during the pendency of his wife’s Pennsylvania divorce action, had obtained an ex parte Florida divorce. Our Supreme Court held that full faith and credit was to be accorded the Florida decree vis-a-vis the marital status of the parties, but the question of alimony following a divorce a.v.m. could still be raised in Pennsylvania.
+In Stambaugh, however, the court went on to say that:
+[t]he Pennsylvania divorce law does not provide for alimony following any divorce from the bond of matrimony, except in cases of insanity. The Divorce Law, Act of May 2, 1929, P.L. 1237, § 45 as amended 23 P.S. § 45. If any changes are to be made in Pennsylvania’s divorce law, such change must be made by the legislature.
+Stambaugh v. Stambaugh, supra, 458 Pa. at 157-158, 329 A.2d at 489 (emphasis in original).
+Since Stambaugh, the legislature has made substantial changes in the divorce laws as they relate, among other things, to alimony. Therefore, we must examine the relevant statutory changes to determine whether this court, unlike the Stambaugh court, now has the power to make such an award. We are aware that the Virginia decree recognized the right of other jurisdictions to adjudicate spousal support but, of course, this decree cannot confer jurisdiction on Pennsylvania which does not otherwise exist.
+The appellant identifies three separate sections of the Divorce Code relating to alimony, in support of her position. The first is Section 401, which reads in relevant part as follows:
+§ 401. Decree of court.
+(b) Any decree granting a divorce shall include after a full hearing, where these matters are raised in the complaint, the answer or other petition, an order or orders determining and disposing of existing property rights and interests between the parties, ... alimony and any related matters...
+The object of statutory construction is to determine the intent of the legislature. 1 Pa.C.S. § 1921(a). In ascertaining this intent, a statute is presumed to be capable of execution and must be construed accordingly. 1 Pa.C.S. § 1922(1). Since it would clearly be beyond the practical ability of a Pennsylvania court to amend a foreign decree so as to “include” an order determining alimony therein, we must construe this section to apply only to domestic decrees.
+The second section relied upon by appellant is Section 301 of the Divorce Code, which reads as follows:
+§ 301. Jurisdiction.
+(a) The courts of this Commonwealth shall have original jurisdiction in cases of divorce and where they have jurisdiction, shall determine in conjunction with any decree granting a divorce ...
+(1) ... the order of any alimony ... authorized by law.
+A broad reading of this section, in abstraction from the Divorce Code would appear to allow appellant’s claim of alimony, since it requires that our courts determine and order alimony in conjunction with “any” decree granting a divorce. However, individual provisions in a comprehensive legislative scheme, such as the Divorce Code, should not be read abstractly, but rather with a view to their place in the entire structure. Appeal of Yerger, 460 Pa. 537, 333 A.2d 902 (1975). Consequently, we now turn to Section 505 of the Divorce Code, which reads as follows:
+§ 505. Alimony where a foreign ex parte divorce or annulment
+Whenever a person who was a resident of this Commonwealth at the time such person was a defendant or respondent in a foreign ex parte action for annulment or divorce petitions a court of this Commonwealth for alimony and establishes the need therefor, such court, if it has jurisdiction over the person or property of the other party, may order that such alimony be paid in the same manner and under the same conditions and limitations which pertain when alimony is sought as provided in this chapter. In the event that the other party from whom such alimony is sought cannot be located within this Commonwealth, the court may attach such of the tangible or intangible property of said party as is within the jurisdiction of the court in the manner provided by the Rules of Civil Procedure, except that no exemption shall apply. Such property shall thereupon be subject to the payment of alimony in the same manner as provided by law in actions for nonsupport.
+This section is a specific authorization for our courts to order alimony where there has been a foreign divorce, but it limits itself to cases involving ex parte actions. To read Section 301 of the Divorce Code as authority to order alimony in conjunction with any divorce decree, including, as appellant urges, any foreign decree, would be to render § 505 mere surplusage. We are required to construe statutes so as to give effect to the entire statute. 1 Pa.C.S. § 1922(2). We conclude, therefore, that Section 301 should be read in a limited way, so as to give Section 505 effect as a specific authority to award domestic alimony in conjunction with foreign ex parte divorces. Further, since no other provisions are found which might allow domestic alimony in this case, the possibility must be considered excluded under the principle expressio unius est exclusio alterius. Young v. Workmen’s Compensation Appeal Board, 39 Pa. Cmwlth. 265, 395 A.2d 317 (1978). See also, Duda v. Commonwealth Bd. of Pharmacy, 38 Pa.Cmwlth. 378, 393 A.2d 57 (1978).
+We, therefore, hold that although the doctrine of “divisible divorce,” as set forth in Stambaugh v. Stambaugh, supra, was codified in Section 505 of the Divorce Code, it is limited to cases of foreign, ex parte divorces and does not apply where, as here, the defendant has appeared in the foreign proceeding.
+The order of the lower court is affirmed.
+ROWLEY, J., concurs in result.
+. The Virginia decree reads, in pertinent part: "This Order shall not affect the power of this or any other Court to award spousal support or adjudicate the property rights of the parties in this or any other jurisdiction.”
+. We note that under the language of the Virginia decree, supra note 1, appellant may seek alimony there.
