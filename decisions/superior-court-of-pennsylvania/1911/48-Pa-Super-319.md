@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 80"
+decided: "1911-11-20"
+citations: ["48 Pa. Super. 319"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady, Head and Porter, JJ."]
+parties: ["Commonwealth v. Beard, Appellant."]
+source_url: "https://static.case.law/pa-super/48/cases/0319-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8862448
+cites_cases: ["1 Pa. Superior Ct. 542", "101 Pa. 560", "113 Ga. 862", "12 Pa. Superior Ct. 497", "133 Pa. 585", "134 Wis. 307", "15 Pa. Superior Ct. 73", "150 Pa. 44", "160 Pa. 590", "167 Pa. 153", "170 U. S. 343", "18 N. Y. 128", "181 Pa. 172", "191 Pa. 644", "194 Pa. 635", "195 U. S. 65", "201 Pa. 32", "212 Pa. 372", "212 U. S. 516", "218 Pa. 255", "22 Pa. Superior Ct. 224", "22 Tex. App. 117", "226 Pa. 514", "23 Pa. 355", "34 Wis. 217", "39 Minn. 69", "4 Binn. 314", "4 Pa. Superior Ct. 443", "40 Pa. Superior Ct. 416", "40 Pa. Superior Ct. 485", "41 Mo. 470", "42 Pa. Superior Ct. 156", "42 Pa. Superior Ct. 337", "46 Conn. 349", "51 la. 578", "54 Pa. 209", "63 Wis. 285", "66 Mass. 80", "69 Kan. 792", "78 Pa. 122", "79 la. 75", "85 Pa. 482", "86 Ga. 266", "88 Pa. 189"]
+---
+
+# Commonwealth v. Beard
+
+## Majority (Rice, P. J.,)
+
+Opinion by
+Rice, P. J.,
+This appellant, who was the city engineer, Charles F. Smith, his assistant, and Albert H. Hawman and Penrose Hawman, a firm of contractors, were jointly indicted for an executed conspiracy to defraud the city of Reading. Of these, all but Smith were jointly tried, and at the conclusion of the evidence they requested the court to charge that there could be no conviction in the case unless the jury should find from the evidence that there was an actual and intentional scheme to defraud the city, in which the engineers, or one of them, and the contractors, or one of them, co-operated. The same idea was conveyed in their next point, and the refusal of these two points is made the subject of the sixth and seventh assignments of error-The affirmance of these points would have amounted to an instruction that though the two engineers conspired to defraud the city, and did defraud the city, yet there could be no conviction of Beard, the engineer on trial, unless the contractors, or one of them, conspired with them. It is elementary law that one cannot be convicted of conspiracy unless he has been indicted for conspiracy with named persons or with persons to the jury unknown. But the indictment in the present case was so framed as to sustain a conviction of any one of the defendants on trial if the evidence warranted a finding of criminal conspiracy between him and the defendant not on trial. Neither the form of the indictment nor the nature of the conspiracy charged, nor the relation of the parties to the public improvement referred to, would have warranted the court in charging that it was essential to a conviction that at least one of the engineers and one of the contractors conspired. The true rule applicable to the case was thus stated by the learned trial judge in his charge: “I have indicated that the design must, in order to constitute a conspiracy, have been entertained in common and acted upon by two or more of the defendants. There are here indicted four defendants. Of these, three are on trial. It takes two at least to form a conspiracy. The jury cannot convict the absent defendant as one of the two; but it may, if the evidence so satisfy it, convict one of the defendants on trial of conspiracy with the absent one, while acquitting the other two.” The affirmance of the two points under consideration would have been in conflict with these instructions (which are not assigned for error), and would have been erroneous in principle. Therefore, these assignments are overruled.
+The questions raised by the remaining assignments of error are very elaborately and thoroughly considered and discussed in the opinion of the learned trial judge overruling the motion for new trial. We do not underestimate the importance of any of them, and particularly do we appreciate the importance of that raised by the ninth assignment. But in our judgment, reached after due consideration of the evidence, the able and exhaustive arguments of counsel, and the authorities cited by them, they are correctly and adequately answered by the learned judge. Having arrived at this conclusion, it seems to us that no useful purpose would be subserved by amplifying or reiterating in another form the reasoning'of his opinion.
+All of the assignments of error are overruled. The judgment is affirmed, and the record is remitted to the court of quarter sessions of Berks county with direction that the judgment be fully carried into effect, and to that end it is ordered that the defendant, Elmer H. Beard, forthwith appear in that court, and that he be by that court committed to serve and comply with such part of his sentence as had not been performed at the time this appeal was made a supersedeas.
