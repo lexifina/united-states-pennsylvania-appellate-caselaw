@@ -1,0 +1,86 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "927"
+decided: "1982-05-14"
+citations: ["299 Pa. Super. 400", "445 A.2d 815"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before SPAETH, JOHNSON and HOFFMAN, JJ."]
+parties: ["Robert C. ALOI v. Mary Jo ALOI, Appellant."]
+source_url: "https://static.case.law/pa-super/299/cases/0400-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 189732
+cites_cases: ["169 A.2d 562", "194 Pa.Super.Ct. 646", "210 Pa.Super.Ct. 54", "224 Pa.Super.Ct. 525", "232 A.2d 201", "290 Pa.Super.Ct. 125", "307 A.2d 382"]
+---
+
+# Aloi v. Aloi
+
+## Majority (JOHNSON, Judge:)
+
+JOHNSON, Judge:
+This appeal is taken from a Decree in Divorce entered August 28, 1981. The sole issue raised by Appellant is whether the lower court abused its discretion in denying her Petition to Re-Open Master’s Hearing. We find no abuse of discretion and, therefore, affirm the decree granted.
+Robert C. Aloi (Appellee) filed his Complaint in Divorce in November, 1978. A Master was appointed on March 16, 1979, who thereupon scheduled a hearing on the Complaint for June 19, 1979. At the request of counsel of record for Mary Jo Aloi (Appellant), the hearing was continued. On June 12, 1979, the Master sent a letter to counsel of record for both parties, informing them that the Master’s Hearing was rescheduled for July 3, 1979, at 9:30 a.m.
+A Petition for Continuance was prepared on behalf of Appellant and was signed and acknowledged by Appellant’s counsel of record on June 15, 1979. However, the Petition was not presented before the Administrative Judge of the Family Division of the lower court until the morning of July 2, 1979, the day before the rescheduled hearing. The Petition, which had not been acknowledged by Appellant, but by her counsel of record, averred that Appellant was “without sufficient funds to properly prepare for a defense” and that a separate petition for counsel fees and expenses was scheduled to be heard before another Family Division judge on July 16, 1979.
+The Petition for Continuance was presented to the Administrative Judge by an attorney other than the counsel of record who had signed and sworn to the truth of the averments contained therein. Appellant was not present at the time the Petition was presented, and substitute counsel neither presented nor offered any testimony to support the averments contained in the Petition. After argument by opposing counsel and due consideration by the court, the Petition for Continuance was refused.
+The Master’s Hearing was thereafter held the next day, as originally scheduled by letter of June 12, 1979. Neither Appellant nor Appellant’s counsel of record appeared for, or attended, the hearing. The Notes of Testimony reveal the following, regarding the manner in which the Master’s Hearing was begun and continued:
+THE MASTER: This is the time set for trial of the contested divorce action of Robert C. Aloi versus Mary Jo Aloi at 1015 January, 1979.
+It is now 10:05 a. m., and Mr. Urbanik, nor his clients, have showed for this hearing, appeared for this hearing. At 9:40 a. m. I called Mr. Urbanik’s office, and a person purporting to be his secretary informed me that he would not be in today and that an attorney by the name of Richard Brandt would be taking his place, would be here in his stead. I asked her when we might expect Richard Brandt, and she said that his office had informed her that he had left for the Courthouse 10 minutes earlier.
+Some 25 minutes having elapsed since that phone call, I don’t think it’s advisable to wait any longer to proceed with this hearing.
+It should be noted that we attempted to schedule this prior date of June 19th, but Mr. Urbanik wanted it continued, and it was then, on July—on June 12th, I’m sorry, I sent a letter to Mr. Urbanik and Mr. Raphael advising them that the hearing date would be July 3rd.
+In reference to that, Mr. Urbanik filed a petition to have this matter continued, and a hearing was conducted before the Honorable John Brosky, Judge, Administrative Judge of the Family Division, and, on the 2nd of July, 1979, the application for continuance was refused.
+Do you want to swear the witnesses?
+MR. RAPHAEL: If the Master please, at the hearing yesterday, with reference to the continuance, in which Judge Brosky refused Mr. Urbanik’s request for a continuance, the counsel who spoke on behalf of Mr. Urbanik requested that we furnish him with answers to the interrogatories which had been served to us on June 28th, 1979.
+I think the record also ought to note that on several occasions I had to write to Mr. Urbanik asking him to please answer the interrogatories that I served on him, and I only received them, I think—on June 28th did I receive the answers to the interrogatories, considerably late, and only after I told him that I would object to any witnesses testifying if he didn’t tell me who his witnesses were going to be.
+But yesterday I advised them that I would respond to their interrogatories, and I did so by having a messenger from our office personally deliver them to Mr. Urbanik’s office, which was probably within six or seven days from the date that I received the request for interrogatories. So, they do—they—I lived up to my commitment to the Court of yesterday.
+THE MASTER: Yes, and the Master also received a copy.
+MR. RAPHAEL: Thank you. Do you want to swear all the witnesses?
+(The oath was duly administered to six witnesses.)
+MR. RAPHAEL: If the Master please, I presume I will proceed just as if it were a contested divorce action, and go into all the details. I see no other alternative.
+THE MASTER: Perhaps you are right. You should.
+ROBERT C. ALOI,
+the Plaintiff herein, called as a witness in his own behalf, having been duly sworn, testified as follows: .. .
+N.T. July 3, 1979, pp. 3-6. [emphasis added].
+(Mr. Finkel enters the courtroom.)
+MR. RAPHAEL: Do you want to make your statement now?
+MR. FINKEL: Yes. Okay.
+Sidney R. Finkel.
+I received a telephone call from Edward Urbanik, who I understand represents Mrs. Aloi, and he informed me that he was not in his office today, that he objected to the hearing taking place at this time and this date, that he has requested on at least one occasion that—he indicated to me—that it be continued, that he has presented a petition to Superior Court to stay this hearing. However, it has not been acted upon.
+And I am here to enter his and my objection to the continuance of this hearing. I do not intend to participate.
+THE MASTER: All right. Perhaps you should be made aware—this is already on the record, but for your sake I will repeat it—that we were here and ready to go at 9:30. At 20 minutes of 10 I called Mr. Urbanik’s office. I talked to a woman who purported to be his secretary. She informed me that he would not be in, that he was staying at home today. And I asked her what he intended to do about this hearing. She then informed me that an attorney by the name of Richard Brandt was coming over—this is for your sake—
+MR. FINKEL: Okay, I understand.
+THE MASTER: —you probably had no knowledge of this—that he had left his office some 10 minutes earlier to be here.
+We waited until five after 10 to proceed with this hearing.
+MR. FINKEL: At that point you started the hearing?
+THE MASTER: At that point we started the hearing.
+MR. FINKEL: Okay. I assume you are cognizant of the fact a petition has been presented to the Superior Court.
+THE MASTER: No, I was not. I was not even aware he had filed a motion for continuance which was heard yesterday, because Mr. Urbanik never gave me a copy.
+MR. RAPHAEL: Mr. Lalama, I would also like the record to note that it is now 11 a. m., which is the time of Mr. Finkel’s arrival.
+MR. FINKEL: Okay.
+MR. RAPHAEL: And that I likewise have received no notice that an appeal had been filed with the Superior Court, although it was alluded to yesterday when Judge Brosky refused to grant the continuance.
+MR. FINKEL: All right. I guess we have all made our appearances and statements of record.
+Mrs. Aloi isn’t here, is she ?
+THE MASTER: No, not to my knowledge.
+MR. FINKEL: All right, thank you.
+N.T. July 3, 1979,- pp. 42-45. [emphasis added].
+Sometime subsequent to the signing of the order refusing the continuance in the lower court, and either on July 2, or July 3,1979, a Petition for Review which requested a stay of the Master’s Hearing was presented to this Court, although the .lower court’s order had not been docketed. The request for a stay was denied by this Court on July 3,1979. Appellant thereafter filed a Petition for Review with the Supreme Court requesting that a continuance be granted and that the testimony taken by the Master on July 3, 1979, be stricken. This latter petition was denied on August 7, 1979.
+On October 12,1979, the Master’s Report was filed recommending that a Decree be entered divorcing Appellee and Appellant from the bonds of matrimony. Twelve days later Appellants’ counsel of record filed exceptions of a boilerplate variety. Appellant took no exception to the Master’s denial of the objection to the continuance of the testimony at the Master’s Hearing entered on the record at that hearing by Appellant’s substitute counsel.
+At some point, Appellant also presented a Petition to Re-Open Master’s Hearing. It is not clear from the record just when or how this petition was presented; the original record includes a thermofax copy of the Petition to Re-Open, unsigned and without affidavit attached, which was filed and docketed as of June 2, 1980.
+On January 31, 1980, the lower court, sitting en banc, dismissed the exceptions to the Master’s Report and denied the Petition to Re-Open. An appeal from that order was taken to this court on February 12, 1980. Two days later, the lower court entered a decree in divorce. The appeal was quashed, as from an interlocutory orders and the divorce decree of February 12,1980, was vacated, as entered without jurisdiction. Aloi v. Aloi, 290 Pa.Super.Ct. 125, 434 A.2d 161 (1981). Following remand of the case to the lower court, a second decree in divorce was entered on August 28, 1981. On September 10,1981, Appellant filed her Notice of Appeal from the divorce decree in the lower court. The lower court then filed a brief opinion, on October 1, 1981, dated September 18, 1981, adopting its earlier opinion of the court en banc, dated January 30, 1980, as the opinion of the court for purposes of this appeal.
+Appellee contends that the wife-appellant is precluded from raising on appeal the question of the denial of her motion for continuance since that ground was not set forth in her exceptions to the Master’s Report. In this case, however, it is clear that the lower court received oral arguments and briefs on the only issue presented to us on this appeal. Moreover, the lower court expressly denied Appellant’s Petition to Re-Open Master’s Hearing in its order dismissing exceptions dated January 31, 1980. We will therefore treat the issue as properly preserved on this appeal.
+Appellant concedes that the denial of the Petition to Re-Open was in the sound discretion of the lower court en banc, and merely challenges the exercise of that discretion as being abusive. We note that the original petition for continuance was withheld for seventeen days following execution, and then presented to the lower court one day prior to trial. Although the Petition alleged Appellant was without sufficient funds to prepare properly for a defense, she failed to place on the record either why such funds were needed or the amount.
+We note further that, with knowledge that the request for a continuance had been refused, counsel of record for Appellant neither appeared before the Master at the scheduled hearing time nor made effective arrangements for replacement counsel. We are not inclined to accept Appellant’s characterization of the Master’s Hearing as having been held ex parte, where both sides had ample notice and the Master received word from the law office of Appellant’s counsel of record that an attorney was, in fact, aware of the pending hearing and was then on his way to the scheduled site.
+Appellant had no justification in relying upon the presentation and pendency of a Petition for Review in the Superior Court and the Supreme Court to support nonattendance at the Master’s Hearing. First, the order of the lower court denying the continuance was neither a determination by a government unit subject to judicial review under Chapter 15 of the Rules of Appellate Procedure, nor was it an application for release in criminal matters as governed by Pa.R.A.P. 1762. Thus, a Petition for Review was not a proper mode for seeking review. Second, since the request for stay had been denied, Appellant must have known she proceeded at her peril until such time as she would receive relief, if any, by a reviewing court.
+Since the order denying the stay was clearly interlocutory, Appellant was limited to proceeding under Chapter 13 of the Rules of Appellate Procedure to petition for permission to appeal. The filing of a petition for permission to appeal, however, shall not stay the proceedings before the lower court unless the lower court or the appellate court or a judge thereof shall so order. Pa.R.A.P. 1313.
+Although inconsistent with Appellant’s framing of the statement of question involved—which is limited to the review of the discretion of the lower court—she argues in her brief that she justifiably relied upon the rule set forth in Section 1701(a) of the Rules of Appellate Procedure providing as follows:
+Rule 1701. Effect of Appeal Generally
+(a) General rule. Except as otherwise prescribed by these rules, after an appeal is taken or a petition for allowance of appeal is filed in a matter or review of a quasijudicial order is sought, the lower court or other government unit may no longer proceed further in the matter.
+In this case, however, no appeal was taken, nor could it have been taken without permission. As set forth above, no review of a quasijudicial order, as contemplated by Chapter 15, Pa.R.A.P., was sought, nor could it have been. We therefore find Section 1701(a) inapposite on this appeal.
+We conclude, therefore, that the filing of a Petition for Review cannot be utilized to circumvent the established procedure for seeking review of an interlocutory trial court order, and the Master in this case was not deprived of jurisdiction to accept testimony on July 3, 1979.
+We further conclude that Appellant had no justification for attempting to rely upon the presentation of an improper pleading to an appellate court as basis for nonattendance at a properly scheduled Master’s Hearing, held only after due notice.
+Finally, Appellant cites Deussing v. Deussing, 224 Pa.Super.Ct. 525, 307 A.2d 382 (1973), and Masciulli v. Masciulli, 194 Pa.Super.Ct. 646, 169 A.2d 562 (1961), for the proposition that full disclosure of the facts requires the courts to be most solicitous in opening divorce decrees. As Appellant acknowledges in her brief, in neither of these cases did the party seeking to re-open the hearing have actual notice of the hearing date. We find the cases to be not controlling on the facts presented here. Appellant also cites Terriberry v. Terriberry, 210 Pa.Super.Ct. 54, 232 A.2d 201 (1967), for the proposition that a master is obligated to compile a complete record, reflective of both sides of the controversy before the master. In that case, however, this Court found that the testimony, which covered less than three typewritten pages, fell far short of establishing grounds for divorce. In the instant case, Appellant’s counsel conceded in the oral argument before the lower court en banc that the instant record as it existed established grounds for divorce.
+We return, then, to the question of the propriety of the lower court’s denial of the Petition to Re-Open the Master’s Hearing. The lower court had before it the notes of testimony from the hearings on the Petition for Continuance held July 2,1979, and the Master’s Hearing held July 3,1979, together with the relevant pleadings, and the Master’s Report filed October 12, 1979. Following our review of all of these documents, as well as the Opinion of the lower court en banc dated January 31, 1980, and after consideration of the briefs filed and the oral arguments presented on behalf of both parties, we are unable to conclude that the lower court abused its discretion in denying Appellant’s request to re-open the record for the purpose of permitting her belatedly to present her testimony.
+The decree in divorce is affirmed.
+. For reasons not clear from the record, the Order refusing the continuance was entered July 2, 1979, yet the Petition upon which the original order was entered was not filed of record in the lower court until July 17, 1979.
+. See Footnote 1.
+. Although Appellant, in her Brief, states that “[t]he instant appeal is from the Order of September 18, 1981,” we note that the Amended Notice of Appeal docketed in our court on March 2, 1982, correctly states that the appeal is from the divorce decree entered August 28, 1981.
