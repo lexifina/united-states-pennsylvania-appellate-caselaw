@@ -1,0 +1,42 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 549"
+decided: "1970-11-18"
+citations: ["217 Pa. Super. 371"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. J., Watkins, Montgomery, Jacobs, Hoffman, Spaulding, and Cercone, JJ.", "Cercone, J., joins in this concurring opinion."]
+parties: ["Continental Bank and Trust Company v. American Bank and Trust Company of Pennsylvania, Appellant."]
+source_url: "https://static.case.law/pa-super/217/cases/0371-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 792609
+cites_cases: ["107 Pa. 305", "21 Utah 2d 400", "303 F. Supp. 401"]
+---
+
+# Continental Bank & Trust Co. v. American Bank & Trust Co.
+
+## Majority (Per Curiam,)
+
+Opinion
+Per Curiam,
+Order and judgment affirmed.
+
+## Concurrence (Hoffman, J.:)
+
+Concurring Opinion by
+Hoffman, J.:
+In or about December 1964, Liberty Associates (Liberty), a depositor of appellee Continental Bank and Trust Company (Continental) entered into a written contract with Weather Regulator Corp. (Weather) and its principal, Sidney Kleiman (Kleiman) for the installation of certain air-conditioning equipment at a building owned by Liberty. Because Weather’s credit rating was insufficient, the supplier of the air-conditioners, Pierce Phelps, would not sell the units on a regular credit basis. It was therefore agreed that Liberty would pay Pierce Phelps directly for any air-conditioners purchased pursuant to the contract.
+In order to discharge its liability to Weather and Kleiman for work completed on the contract, and at the same time to pay Pierce Phelps for air-conditioners purchased, whenever Weather purchased equipment, it would present Pierce Phelps’ invoice to Liberty, which would then draw a check on its account in Continental payable jointly to Weather and Pierce Phelps. The check would thereafter be sent to Weather for its indorsement. Weather would forward the item to Pierce Phelps, which would deposit the check, deduct the price of the air-conditioners and remit any balance to Weather.
+This arrangement worked satisfactorily for a few months. Then in April of 1965, Kleiman presented a spurious invoice, which purportedly represented a number of air-conditioners purchased from Pierce Phelps. This invoice was paid by Liberty and its check for $3,-532.69 was presented for collection to appellant collecting bank (Peoples). The check was indorsed by Weather and it was also indorsed by Kleiman. However, the check did not contain the indorsement of Pierce Phelps, as was required.
+Peoples placed its indorsement on the back of the check and forwarded it to Continental for collection. Continental accepted and paid the check in good faith. It then charged Liberty’s account for the same amount. Thereafter Liberty discovered that certain air-conditioning units were missing. An audit uncovered the fact that the April 1965 invoice was fraudulent.
+On demand, Continental credited Liberty’s account with the amount of the check. As soon as it was informed of the missing indorsement, Continental made demand on Peoples. This was approximately sixteen months after the check had been deposited. Payment was refused by Peoples and the instant action resulted. The court below granted Continental’s motion for summary judgment. This appeal followed.
+Peoples contends that Liberty would have suffered a loss in any event and that, since its actions did not affect the result, Peoples should not be liable on the instrument. To support this contention, Peoples argues that, had the check been forwarded to the supplier, the item would have been properly indorsed and all of the proceeds would have been paid to Weather. It is maintained that Section 1-106 of the Uniform Commercial Code (Code), Act of April 6, 1953, P. L. 3, §1-106, as amended, 12A P.S. §1-106 (Supp. 1970), provides for such a result. That section of the Code states that “the remedies provided by” the Code shall be administered “to the end that the aggrieved party may be put in as good a position as if the other party had fully performed.”
+Peoples’ argument assumes that Continental’s liability to its customer would have remained the same regardless of whether the item had been properly indorsed. This certainly is not the case. Section 4-401(1) of the Code provides that a bank may charge against its customer’s account only items that are “properly payable”. Without the supplier’s indorsement the item was not “properly payable”. Cf. Pacific Metals Co. v. Tracy-Collins Bank & Trust Co., 21 Utah 2d 400, 446 P. 2d 303 (1968). Thus Continental had no right to charge its customer’s account, and was liable to its customer for the amount of the item. Continental Bank and Trust Co. v. Philadelphia Nat’l Bank, 92 Montg. Cty. L. Rep. 35, 38 (1969). See, Pacific Metals Co. v. Tracy-Collins Bank & Trust Co., supra. However, if both indorsements had been obtained, the item would have been “properly payable” when it was presented to Continental. In that case, Continental could have charged its customer’s account without incurring liability. Peoples’ failure to require the additional indorsement thus resulted in Continental’s liability to its depositor. There can be no doubt that Continental suffered an actual loss.
+In deciding ‘which, of the parties must bear this loss, the court below correctly held that Section 4-207 of the Code is controlling. That section provides in pertinent part that “[ejach . . . collecting bank who obtains payment or acceptance of an item and each prior . . . collecting bank warrants to the payor bank or other payor who in good faith pays or accepts the item that (a) he has a good title to the item or is authorized to obtain payment or acceptance on behalf of one who has a good title.” Thus the Code puts the ultimate burden on the first bank honoring the instrument to make certain that the item is properly indorsed.
+“The reason for imposing the §4-207 warranty as a matter of law is to speed up the collection and transfer of checks and to take the burden off each bank to meticulously check the endorsements of each item transferred. Following that logic, the first bank taking in the item for collection is primarily responsible for checking the endorsements to make sure that they are proper. Each bank then warrants to each subsequent bank in the collection chain that the endorsements are good. . . .” Federal Dep. Ins. Corp. v. Marine Nat’l Bank of Jacksonville, 303 F. Supp. 401, 403 (M.D. Fla. 1969).
+In determining whether the Section 4-207 warranties were breached in the instant case, one must consider that the law of Pennsylvania has for almost a century held that the indorsement of one of two co-payees is not sufficient to pass good title. Foster v. Collner, 107 Pa. 305, 312 (1885). Further, Section 3-116 of the Code provides that “[a]n instrument payable to the order of two or more persons ... (b) if not in the alternative is payable to all of them and may be negotiated, discharged or enforced only by all of them.” (emphasis added) Since it neither had good title nor was authorized to obtain payment on behalf of the supplier, Peoples breached its Section 4-207 warranty by presenting Continental with an improperly indorsed check.
+Peoples also maintains that, even if it breached its warranties to Continental, the claim is barred because of Liberty’s delay in demanding repayment because of the missing indorsement. However, Section 4-406(4) of the Code gives a customer three years to report any unauthorized indorsement and Section 4-207 (4) provides that a claim for breach of warranty must be made within a “reasonable time after the person claiming learns of the breach.” I do not find it necessary to reach the question of which of these two standards applies, because under either standard Continental’s claim is not barred through passage of time.
+Thus I agree with the majority that the decision of the lower court should be affirmed.
+Cercone, J., joins in this concurring opinion.
+Though a one year time period is prescribed within which a drawer must discover any forgery of his own signature or “any alteration on the face or back of the item”, indorsements are specifically placed in a different category. Thus, the three year limitation is applicable if any part of §4-406(4) applies to the instant case.
