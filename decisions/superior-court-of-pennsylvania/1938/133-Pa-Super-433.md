@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 33"
+decided: "1938-12-20"
+citations: ["133 Pa. Super. 433"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Stadtfeld, Parker and Bhodes, JJ."]
+parties: ["Rundle, Appellant, v. Meyers."]
+source_url: "https://static.case.law/pa-super/133/cases/0433-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1013098
+cites_cases: ["21 Pa. 331"]
+---
+
+# Rundle v. Meyers
+
+## Majority (Keller, P. J.,)
+
+Opinion by
+Keller, P. J.,
+Appeal to the common pleas from a judgment entered by an alderman in an action arising from contract.
+In her statement of claim, filed in the court of common pleas, the plaintiff sought to recover from the defendant $114, alleged to be due her for wages earned by her unemancipated minor child, Lois Eedline, who had been hired by the defendant, under an oral contract with the plaintiff, to perform domestic services in his household.
+In Ms affidavit of defense, tlie defendant admitted that he had hired the plaintiff’s said daughter to perform domestic services in his household and had agreed to pay for such services wages at $3.00 per week and board and lodging, for a part of the time, and $4.00 per week and board and lodging, for the balance of the time; but averred that the said Lois Redline was an emancipated child and that he had paid her, the said Lois Redline, all the wages due her.
+At the trial the plaintiff gave evidence of the oral contract between her and the defendant, under which Lois Redline went to work for the defendant. The defendant produced no evidence in support of his averment that the girl had been emancipated. The defense presented by him at the trial was that he had paid her wages to a guardian appointed for the minor by the Orphans’ Court of Northampton County.
+The jury found a verdict for the plaintiff for $120.84, but judgment was subsequently entered by the court for the defendant, non obstante veredicto, on the ground that the appointment of the guardian by the orphans’ court could not be attacked in the common pleas and justified the payment of the child’s wages to the guardian, and consequently, prevented a recovery by the plaintiff. The judgment, in our opinion, must be reversed.
+The record of the appointment of the guardian is not printed, but the opinion of the court below contains sufficient facts to enable us to give the matter proper consideration.
+The moving spirit in the appointment of the guardian seems to have been a Miss Riddle, the county probation officer. She was of opinion that the girl, who was 19 years of age at the time of the trial, was old enough to have her own wages. There was no objection or complaint to the girl’s employment by the defendant, her surroundings, duties, hours of work or pay. Miss Biddle simply did not agree with the existing law of the Commonwealth, which gave the earnings of this minor child, as long as she was not emancipated, to her mother; and, like many another social worker, tried to substitute for the law as it is what she conceived the law ought to be.
+The petition for appointment of a guardian apparently asked for a guardian of the minor’s estate rather than of her person. It was the regular form used for the former. But in the blank following the printed words, in which was to be inserted the estate of which the minor was possessed, appears the following: “None; the purpose of this appointment is that she shall have some one to look after her welfare until she becomes 21 years of age, collect her wages, and provide for her maintenance and expenses.” Upon this petition, without notice to the mother, Miss Biddle was appointed guardian. She gave no bond. While the mother should have had notice of the proceeding, (Senseman’s Appeal, 21 Pa. 331), and an approved bond should have been filed by the guardian before any funds of the ward were turned over to her guardian, we do not base our action on those grounds. The appointment of the guardian by the orphans’ court until revoked by it, may be regarded as valid, but it related only to the estate of the ward. It had no efficacy to take property belonging to one person and transfer it to another; to give to an unemancipated child money belonging to its parent. If the girl had been emancipated, the wages earned by her service would, after such appointment, be payable to her guardian; but if not emancipated, they were the property of her mother. The appointment of the guardian would not affect the mother’s right to the receipt and ownership of the girl’s wages unless the girl had been emancipated. Otherwise, while the appointment may have been valid, it operated on no property or estate, for the girl, if not emancipated, had no property or estate affected by it.
+Hence to make the payment to the guardian effectual as a bar to a recovery of the girl’s wages by her mother, to whom, otherwise, they would belong, it was essential to prove that the girl had, in fact, been emancipated at the time of the appointment of the guardian and the payment of the wages. In this respect the proof wholly failed.
+The plaintiff’s legal right to the possession and ownership of her daughter’s wages was, therefore, not affected by the appointment of a guardian of her estate, for the daughter’s wages, in the absence of such emancipation, were the property of the mother and not of the daughter, and the mother’s right to them could not be destroyed by a payment to the guardian not authorized by her.
+In the circumstances here present the plaintiff did not have to apply to the orphans’ court to vacate its appointment of the guardian before she brought suit for the wages due her, for her action did not involve any estate belonging to her daughter, but only her own property. The matter may be made somewhat clearer by a supposititious case. If a testator should leave a legacy of $1000 to Lois Redline, his executor would be justified in paying it to her guardian, after the guardian had filed a sufficient bond with approved security; but if the testator left a legacy to this plaintiff, Mrs. Bundle, the mere fact that her daughter’s guardian might claim it for her ward, would not justify the executor in paying it to her, nor relieve him from paying the money to the legatee, who was entitled to it; and the fact that the orphans’ court may have appointed a guardian to collect and receive the money, would not affect the plaintiff’s right to recover it. The appointment of the guardian is effective only as to money and property belonging to the ward.
+The assignment of error is sustained. The judgment is reversed and is now entered for the plaintiff on the verdict.
