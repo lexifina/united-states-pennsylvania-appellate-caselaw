@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 201"
+decided: "1968-06-13"
+citations: ["212 Pa. Super. Ct. 379"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, P. J., Watkins, Montgomery, Jacobs, Hoppman, and Spaulding, JJ. (Wright, J., absent)."]
+parties: ["Caldwell, Appellant, v. Keystone Insurance Company."]
+source_url: "https://static.case.law/pa-super/212/cases/0379-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 783370
+cites_cases: ["101 A. 2d 747", "118 A. 2d 236", "118 Pa. 138", "12 A. 442", "148 A. 35", "180 Pa. Superior Ct, 50", "210 A. 2d 882", "223 A. 2d 8", "29 A. 2d 489", "298 Pa. 53", "346 Pa. 236", "376 Pa. 99", "418 Pa. 262", "422 Pa. 500"]
+---
+
+# Caldwell v. Keystone Insurance
+
+## Majority (Jacobs, J.,)
+
+Opinion by
+Jacobs, J.,
+In this case, the plaintiff was insured under a standard Family Automobile Policy issued by the defendant. On June 26, 1964, plaintiff’s automobile was damaged by a third parly. Plaintiff promptly notified the defendant of the loss and had the automobile, a 1960 Corvair, repaired at a cost of $710.00. He then filed a claim with the defendant for $610.00 under the policy provision for collision loss minus $100.00 deductible. The defendant, being of the opinion that the cost of repair exceeded the value of the automobile, offered to pay plaintiff the amount of his claim provided that plaintiff surrender title to the repaired automobile.
+Plaintiff’s attorney then notified the defendant that if it did not settle on his terms he would sue the third party tortfeasor and requested the defendant to let him know if it desired him to represent the insurer in a lawsuit against the third party tortfeasor. Defendant did not reply to the offer of representation but did offer to pay $610.00 less a salvage bid of $610.00 from the tortfeasor.
+Plaintiff thereupon sued the third party tortfeasor and was awarded a verdict of $710.00. He brings the instant suit to recover the sum of $244.00, which is that part of the attorney’s fee incurred in collecting the $610.00 from the tortfeasor.
+Plaintiff argues that he created a common fund for the benefit of both plaintiff and defendant and that it is equitable that defendant pay its proportionate cost of procuring that fund. In support of that theory he cites Furia v. Philadelphia, 180 Pa. Superior Ct, 50, 118 A. 2d 236 (1955), a case where a common fund was created through the efforts of the insured’s attorney. That case is an exception to the general rule that counsel fees are not recoverable absent a statute or agreement, neither of which is present here. See Greek Catholic Union v. Russin, 346 Pa. 236, 29 A. 2d 489 (1943) ; Corace v. Balint, 418 Pa. 262, 210 A. 2d 882 (1965).
+In Furia the City of Philadelphia had paid $263.00 in wages to an injured policeman during his convalescence. The attorney retained by the injured policeman to sue the third party tortfeasor advised the City of his representation and was informed by the City of its subrogation claim. The attorney then informed the City that he would protect its claim subject to his usual attorney’s fee. An $850.00 settlement was effectuated, out of which the City demanded the $263.00 it had paid. This Court permitted the amount paid to the city to be reduced by a proportionate part of the counsel fee incurred in recovering the $850.00. We reasoned that: “ ‘One jointly interested with others in a common fund and who in good faith maintains the necessary litigation to save it from waste and destruction and secure its proper application, is entitled, in equity, to reimbursement of his costs . . ., either out of the fund itself, or by proportional contribution from those who receive the benefits of the litigation.’ ” Furia v. Philadelphia, supra, at 55.
+What distinguishes Furia from the present case is that here no payment was made to the insured by the insurer, no common fund was created, and no subrogation claim or notice came from the insurer to the insured’s attorney. A right of subrogation does not accrue until the insurer has paid the claim under the policy. Roberts v. Fireman’s Insurance Company, 376 Pa. 99, 101 A. 2d 747 (1954) ; Brownsville Second National Bank v. London & Landcashire Ins. Co., 298 Pa. 53, 148 A. 35 (1929); Forest Oil Company Appeals, 118 Pa. 138, 12 A. 442 (1888); 6 Appleman, Insurance Law and Practice §4051. Having made no payment to the insured, the insurer could hardly be heard to say that it has any interest or rights in the fund the insured elected to secure for himself. Unable to bring this case within the “common fund” exception with its subrogation doctrine relied on in Fivria, we must reject plaintiff-appellant’s argument.
+Nor do the policy provisions aid the plaintiff. Condition 5 of the policy provides: “The Insured shall not, except at his own cost, voluntarily make any payment, assume any obligation or incur any expense other than for such immediate medical and surgical relief to others as shall be imperative at the time of accident.” Condition 10 of the policy provides that if the parties cannot agree as to the amount of loss, either can demand an appraisal of the loss. In that event the procedure to be followed is that each would select a competent appraiser. If the two appraisers failed to agree, they would select a third “competent and disinterested umpire.” Agreement by any two upon the cash value of the loss would determine the amount of the loss. Although not mandatory, this procedure was available as a means of reaching an agreement without the aid of counsel or a lawsuit. Since the appellant chose to' pursue another remedy, he must bear whatever legal expenses he incurred in that proceeding.
+Judgment affirmed.
+The policy provides: “The limit of the Company’s liability for loss shall not exceed the actual cash value of the property . . . nor what it would then cost to repair or replace the property or such part thereof with other of like kind and quality. . .”.
+Condition 13 of the policy provides: “In the event of any payment nnder this policy, the Company shall be subrogated to all the Insured’s rights of recovery therefor against any person or organization. ...”
+The present case must be distinguished from those cases involving an insurer’s failure to exercise good faith in settling a claim within the policy limits under a liability provision in the policy. See Gray v. Nationwide Mutual Insurance Company, 422 Pa. 500, 223 A. 2d 8 (1966). No allegation or proof of bad faith was presented in this case.
