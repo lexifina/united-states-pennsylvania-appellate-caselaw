@@ -1,0 +1,32 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 457 C.D. 1981"
+decided: "1983-04-27"
+citations: ["73 Pa. Commw. 607"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to President Judge Crumlish, Jr. and Judges Williams, Jr. and Barbieri, sitting as a panel of three."]
+parties: ["Robert James Lewis, Appellant v. Commonwealth of Pennsylvania, Appellee."]
+source_url: "https://static.case.law/pa-commw/73/cases/0607-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1939925
+cites_cases: ["212 Pa. Superior Ct. 359", "24 Pa. Commonwealth Ct. 26", "243 A.2d 464", "284 A.2d 524", "3 Pa. Commonwealth Ct. 580", "31 Pa. Commonwealth Ct. 620", "34 Pa. Commonwealth Ct. 310", "354 A.2d 266", "377 A.2d 1027", "384 A.2d 269", "401 A.2d 1", "405 A.2d 588", "42 Pa. Commonwealth Ct. 392", "45 Pa. Commonwealth Ct. 151"]
+---
+
+# Lewis v. Commonwealth
+
+## Majority (Judge Barbiebi,)
+
+Opinion by
+Judge Barbiebi,
+Robert J. Lewis (Appellant) appeals here from an order of the Court of Common Pleas of Allegheny County sustaining a suspension of his operator’s license. We affirm.
+On July 17, 1976, Appellant was issued a citation for failing to come to a complete stop at a stop sign. Appellant subsequently failed to respond to this citation, and upon receiving notice of this failure to respond, the Pennsylvania Department of Transportation, Bureau of Traffic Safety (Bureau) suspended Appellant’s license pursuant to the mandate of Section 1533 of the Vehicle Code, 75 Pa. C. S. §1533, which reads in pertinent part as follows:
+The department shall suspend the operating privilege of any person who has failed to respond to a citation to appear before a court of competent jurisdiction . . . for violation of this title . . . upon being clearly notified in accordance with general rules. . . . The suspension shall be for an indefinite period until such person shall respond and pay any fines and penalties imposed.
+Subsequent to the receipt of his July 17, 1976 traffic citation, Appellant received four more citations for traffic offenses occurring in Pennsylvania and Florida. When Appellant also failed to respond to any of these citations, the Bureau, upon receiving notice of each failure to respond, imposed an additional concurrent suspension bringing Appellant’s total of suspensions to five. On or about May 24, 1980, Appellant finally responded to each of the five outstanding citations by pleading guilty and paying the fines for each offense. Upon receiving notice of Appellant’s responses, the Bureau terminated the suspensions imposed pursuant to Section 1533 of the Vehicle Code, and added five points to Appellant’s record pursuant to the mandate of Section 1545 of the Vehicle Code, 75 Pa. C. S. §1545. The Bureau then received notification of Appellant’s conviction on three of the above guilty pleas for traffic offenses occurring on July 17, 1976, July 25, 1976 and January 18, 1980. Since these convictions added eight points to Appellant’s record, bringing his total to thirteen, the Bureau resuspended Appellant’s license as required under Section 1539 of the Vehicle Code, 75 Pa. C. S. §1539. This suspension was subsequently affirmed in an appeal to the court of common pleas, and the present appeal followed.
+Before this Court, Appellant initially alleges that the Bureau is barred from suspending his license by the provisions of Section 5553(a) of the Judicial Code, 42 Pa. C. S. §5553(e), which provides in pertinent part that ‘ ‘ [n] o proceedings shall be held or action taken pursuant to a summary offense under Title 75 subsequent to two years after the commission of the offense. ’ ’ We disagree.
+Section 5553 of the Judicial Code, being a part of Subchapter C of that code, is only applicable to criminal proceedings, and thus, is not applicable to license suspension proceedings which, as we have repeatedly held, are civil in nature. Department of Transportation, Bureau of Traffic Safety v. Grobes, 45 Pa. Commonwealth Ct. 151, 405 A.2d 588 (1979); Department of Transportation, Bureau of Traffic Safety v. Lea, 34 Pa. Commonwealth Ct. 310, 384 A.2d 269 (1978); Department of Transportation, Bureau of Traffic Safety v. Brown, 31 Pa. Commonwealth Ct. 620, 377 A.2d 1027 (1977). Nor can Appellant attempt here to collaterally attack his conviction by alleging that it should have been barred by the statute of limitations found in Section 5553 of the Judicial Code. As we stated in Lea, “[a]s we view it, an appeal from suspension or revocation of an operator’s license being civil in nature, a reviewing court may not consider any claimed procedural defects or errors in the criminal proceeding which formed the basis for the suspension or revocation.” Id. at 313, 384 A.2d at 271. See also Grobes; Martz v. Department of Transportation, Bureau of Traffic Safety, 24 Pa. Commonwealth Ct. 26, 354 A.2d 266 (1976); Virnelson Motor Vehicle Operator License Case, 212 Pa. Superior Ct. 359, 243 A.2d 464 (1968).
+Finally, Appellant, citing Department of Transportation, Bureau of Traffic Safety v. Passerella, 42 Pa. Commonwealth Ct. 392, 401 A.2d 1 (1979) and Department of Transportation, Bureau of Traffic Safety v. Hosek, 3 Pa. Commonwealth Ct. 580, 284 A.2d 524 (1971), alleges that he was “prejudiced” by the long delay between the date of his offense and the date of his suspension, and argues that his license should therefore not be suspended. We fail to see the relevance of either Passerella or Hosek to the instant case, however, since both involved the interpretation of statutory language found in the old Vehicle Code, but not present in the current Vehicle Code, which required the Bureau, upon receipt of notice of conviction, to suspend or revoke an operator’s license “forthwith.” In the present case the Bureau promptly suspended Appellant’s license upon receipt of notice of his convictions, and we fail to see how Appellant can allege that he was “prejudiced” by the long delay between the date of his offenses and the ultimate suspension of his license since that delay was caused by his own failure to respond to the traffic citations he received. Accordingly we will affirm.
+Order
+Now, April 27,1983 the order of the Court of Common Pleas of Allegheny County docketed at No. SA985 of 1980, and dated February 3, 1981, is affirmed.
+Act of April 29, 1959, P.L. 58, as amended, formerly 75 P.S. §§101-2521, repealed by the Act of June 17, 1976, P.L. 162.
