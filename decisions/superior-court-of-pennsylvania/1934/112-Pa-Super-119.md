@@ -1,0 +1,39 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 326"
+decided: "1934-02-01"
+citations: ["112 Pa. Super. 119"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, Cunningham, Baldrige, Stadtfeld, Parker and James, JJ.", "Stadtfeld, J., dissents,"]
+parties: ["Commonwealth of Pennsylvania v. Wilmsen, Jr."]
+source_url: "https://static.case.law/pa-super/112/cases/0119-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 972588
+cites_cases: ["95 Pa. Superior Ct. 557", "97 Pa. Superior Ct. 303"]
+---
+
+# Commonwealth v. Wilmsen
+
+## Majority (Cunningham, J.,)
+
+Opinion by
+Cunningham, J.,
+Appellant, Catherine McConnell, the former wife of Bernhard Wilmsen, Jr., and the mother of their two minor children, Bernhard Wilmsen, III, now twenty years of age,, and Eloise Wilmsen, eighteen, has appealed from an order of the court below, entered May 29, 1933, vacating, as of July 1, 1933, its previous order of November 22, 1926, by which defendant was directed to pay appellant $350 per month for the separate maintenance and support of his children.
+Material circumstances incident to the making of the original order and leading up to its vacation may be thus summarized: In 1926 the parents were divorced and each has remarried. Under date of November 2, 1926, Bernhard Wilmsen, Sr., defendant’s father, addressed a letter to William C. McConnell, appellant’s father, in which, after referring to differences which had arisen with respect to the maintenance of their grand-children, he expressed a desire to have the matter adjusted out of court and suggested that they endeavor to agree upon a satisfactory arrangement.
+A few days later Wilmsen, Sr., again wrote, stating that the “earning capacity” of his son was entirely the writer’s personal affair, but he would see to it that defendant earned sufficient “to pay $300 per month from date of acceptance” by McConnell of the offer.
+The negotiations terminated in the making, “by agreement of counsel,” of the order of November 22, 1926, and Wilmsen, Sr., became surety for his son on a bond in the sum of $2,500, conditioned for compliance therewith.
+In October, 1931, defendant petitioned for a reduction in the amount of the order, averring that while his “salary at the time of the making of the order was $25,000 a year” it had been reduced to $15,000, by reason of business conditions. After rule, answer and depositions, the petition was withdrawn. In his answers to interrogatories, Wilmsen, Sr., stated his son had been in his “employ” since the date of the order at an annual salary of $25,000, which had been reduced to $15,000 as of October 1, 1931, not only because the former amount was excessive, but also by reason of a falling off in the earnings of their manufacturing business. On October 25, 1932, the defendant wrote McConnell stating that his salary would be reduced to $7,500 on January 1, 1933, and offering to pay $150 per month beginning on that date.
+It was averred in the petition to vacate that defendant became ill in 1932 and since November 14th of that year had been a patient in a hospital under treatment for paresis. Other averments were to the effect that appellant, as one of the two distributees of the estate of her mother, and as a devisee under the will of a Mrs. Kulp, had inherited a substantial amount; and that each of the children was entitled, under that will, to. the interest upon five thousand dollars’ worth of Roaring Creek Water Company bonds during their respective minorities.
+An examination of the testimony and exhibits produced at the hearing discloses that the children have been living, since the separation of their parents, with their mother and grandfather McConnell, who have made lavish expenditures for their maintenance and education in addition to the payments received from defendant under the order.
+During the period from September, 1929, to February, 1933, the total expenditures for the boy (who is in delicate health) have been at a rate in excess of $5,000 annually, and for the girl approximately $7,000 per year.
+Appellant’s income from her share of the estate of her mother is less than $2,500 annually; the annual income from five thousand dollars ’ worth of the water company bonds is $262.50; and the value of the residuary, estate of'Mrs. Kulp is doubtful. Concededly, the joint annual independent income of appellant and the children is approximately $2,800.
+With respect to the financial situation of the defendant, his father testified that when defendant was in good health he had charge of a department in the factory, was a good workman, and earned his salary of $25,000 per annum. An excerpt from the father’s direct testimony reads: “Q. What, if any, money has your son really earned in the last two' years? A. He didn’t earn anything, but I paid him fifteen thousand dollars up to this year and this year I paid him ten thousand dollars ....... Q. In other words, you paid him, you put him onj the payroll for this amount of money? A. Yes, sir, ten thousand dollars a year. Q. I will ask you as a matter of fact, does he really earn the¡ money that you pay him or do you donate it to him? A. He doesn’t earn anything and I have paid that to him, that amount of money simply because he was my son, he was a very valuable man when he was able to attend to business ...... Q. (Cross examination) And you are now giving it to him as a gratuity? A. Now you are asking me something that I won’t answer, he is my son, I cannot take him out of my business. Q. And you give it to him now because he is/ your son, is that correct? A. Yes, sir, that is correct. Q. And before that you gave it to him because he earned it? A. Yes, sir....... Q. And this year you are paying him ten thousand dollars? A. Yes, sir, you know business is not as good as it was in 1926. Q. And you say you paid that? A. I would keep on paying that even if he didn’t work, he has to he taken care of. Q. You testified that yon kept him on the payroll heeanse the doctors told you it was necessary to do that, on account of his health? A. I could not tell him that I would take him off, it would not have done any good.”
+The witness also testified that out of the salary of $10,000 he was paying defendant’s medical and hospital expenses, the rent of his apartment, and giving defendant’s present wife $45 per week for her support.
+We have, therefore, upon- the face of this record a father suffering with a serious and progressive disease, but with a present annual income of $10,000 and a legal obligation to contribute, in accordance with his financial ability, toward the maintenance and education of his children: Com. ex rel. Smith v. Gilmore, 95 Pa. Superior Ct. 557; and 97 Pa. Superior Ct. 303.
+In our opinion, the court below was not warranted, under all the evidence, in vacating the order.
+On the other hand, it is obvious that it should be modified materially. If appellant and her father see fit, in the maintenance and education of the children, to make apparently extravagant expenditures out of their own estates, that is their affair, but such expenditures furnish no index of the proper extent of defendant’s legal obligation.
+Having regard to all the circumstances, we think the' order of November 22,1926, (which was complied with up to January 1, 1933, and continued by the court below to July 1, 1933), should be reduced from $350 to $100 per month. If, and when, a change from existing conditions may so warrant, an appropriate application may be made to the court below.
+The order of vacation, dated May 29, 1933, is reversed; the record is remitted to the end that an order may be entered by the court below in accordance with this opinion; defendant to pay the costs of this appeal
+Stadtfeld, J., dissents,
