@@ -1,0 +1,41 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+decided: "1990-08-14"
+citations: ["134 Pa. Commw. 410", "579 A.2d 447"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CRAIG, President Judge, PALLADINO, J„, and SXLVESTRI, Senior Judge."]
+parties: ["Louis J. COSTANZA et al., Petitioners, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF ENVIRONMENTAL RESOURCES, Respondent."]
+source_url: "https://static.case.law/pa-commw/134/cases/0410-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1405026
+cites_cases: ["123 Pa.Commonwealth Ct. 498", "505 Pa. 198"]
+---
+
+# Costanza v. Commonwealth, Department of Environmental Resources
+
+## Majority (PALLADINO, Judge.)
+
+PALLADINO, Judge.
+Louis J. Costanza d.b.a. Elephant Septic Tank Services, George Hapchuk d.b.a. Hapchuk Sanitation Co., and Jack B. Myers d.b.a. J.B. Myers Enterprise and Shipman Services, Inc. (Shipman) (collectively, Petitioners) filed a petition for declaratory and injunctive relief from the implementation of regulations by the Department of Environmental Resources (DER). DER filed preliminary objections two of which raise the issue of this court’s jurisdiction and one in the nature of a demurrer.
+The Environmental Quality Board (Board) published in the Pennsylvania Bulletin proposed regulations involving the issuance of permits for the agricultural utilization of sewage. The proposed regulations which are the subject matter of this litigation authorized DER at its discretion to impose more stringent requirements for the issuance of permits. After receiving and responding to comments, the Board published final regulations mandating the imposition of these requirements. Thereafter, DER mailed letters to current permittees, including Petitioners, stating that the new regulations would be implemented for permit renewals and permit modifications.
+Petitioners filed a petition in this court’s original jurisdiction praying for declaratory and injunctive relief alleging that the regulations were not properly promulgated, exceed statutory authority, and are arbitrary and capricious. DER filed preliminary objections which are currently before this court for review. The preliminary objections raise three issues: (1) whether this court must refuse to exercise jurisdiction because Petitioners have failed to exhaust their administrative remedies; (2) whether the issues raised are ripe for review; and (3) whether Petitioners have stated a cause of action.
+When reviewing preliminary objections, we consider as true all well-pleaded facts which are material and relevant. Grand Central Sanitary Landfill, Inc. v. Department of Environmental Resources, 123 Pa.Commonwealth Ct. 498, 554 A.2d 182 (1989). Preliminary objections shall be sustained only when they are clear and free from doubt. Id.
+DER asserts that Petitioners can file an action with the Environmental Hearing Board (EHB) to assert that the amendments were improperly promulgated, exceed statutory authority, or are arbitrary and capricious. DER contends that such an action is an adequate alternative administrative remedy which Petitioners should be required to exhaust.
+Petitioners contend that they are seeking review of the regulations within the exception to the exhaustion of administrative remedies requirement of Arsenal Coal Company v. Department of Environmental Resources, 505 Pa. 198, 477 A.2d 1333 (1984). In Arsenal, the supreme court held that “[wjhere the effect of the challenged regulations upon the industry regulated is direct and immediate, the hardship thus presented suffices to establish the justiciability of the challenge in advance of enforcement.” Id., 505 Pa. at 209, 477 A.2d at 1339.
+This court discussed the Arsenal exception from the requirement that petitioners exhaust administrative remedies in Grand Central. Reviewing DER’s preliminary objections, this court noted that while Grand Central generally alleged that the contested regulations affect the entire industry, the absence of “any allegation by Grand Central that it is currently in violation of the regulations, or is immediately threatened by specific circumstances, the direct and immediate harm contemplated by our Supreme Court in Arsenal is nonexistent.” Grand Central, 123 Pa.Commonwealth Ct. at 502, 554 A.2d at 184. (Footnote omitted.) No violation or immediate threat was present in part because, unlike in Arsenal, the regulations in Grand Central were not self-executing. While the petitioners in Arsenal were immediately subject to the strictures of the regulations, prior to DER action on their applications, the petitioners in Grand Central were only subject to the regulations after DER acted upon their applications.
+In the present matter, Petitioners generally allege that their businesses are immediately harmed by the amendments. However, according to Petitioners’ allegations they are currently operating under permits issued under the prior regulations. Petitioners also allege that they have filed applications for new permits which are pending for DER consideration. Petitioners argue that these applications constitute an immediate harm because DER will reject them because they do not comply with the new regulations. However, because DER has not yet acted upon the applications, the allegation is speculative and cannot constitute an immediate harm. As in Grand Central, Petitioners’ business operations have not been immediately subject to the stricture of the regulations upon their promulgation, but will only be affected by the regulations when their applications are acted upon by DER. We conclude that the alleged harm is not immediate.
+Without immediate harm, the Arsenal exception to the exhaustion of administrative review requirement does not apply. Consequently Petitioners must seek administrative review of the regulations after DER has acted upon their applications pursuant to Section 4 of the Environmental Hearing Board Act, and we must decline to exercise jurisdiction over this matter.
+Accordingly, we sustain DER’s preliminary objection raising the issue of Petitioners’ failure to exhaust available administrative remedies.
+ORDER
+AND NOW, August 14,1990, the preliminary objection of the Department of Environmental Resources raising the issue of exhaustion of administrative remedies in the above-captioned matter is sustained, and the petition is dismissed.
+. The amendments were promulgated to bring the regulations into compliance with the Solid Waste Management Act (SWAMA), the Act of July 7, 1980, P.L. 380, as amended, 35 P.S. §§ 6018.101 — 6018.1003.
+. Agricultural utilization is ‘‘[t]he land application of sewage sludge for its plant nutrient value or as a soil conditioner as part of an agricultural operation.” 25 Pa.Code § 271.1. Sewage sludge is "[t]he coarse screenings, grit and dewatered or air-dried sludges, septic and holding tank pumpings and other residues from municipal and residential sewage collection and treatment systems.” Id.
+. The relevant requirements involve bonding, insurance, landowner consent forms for DER to enter utilized lands, and the procedure to modify permits.
+. In paragraph 46 of Petitioners’ petition they allege:
+All Petitioners have suffered and will continue to suffer the curtailment or cessation of normal business operations based on requirements imposed in excess of lawful and reasonable requirements by [DER] ... which include the wholesale surrender or abandonment of sites formerly beneficially operated without harm____ Together with other requirements, it has created a disposal crisis of epidemic proportions.
+. Petitioners’ petition at paragraph 8. It is also alleged in paragraph 8 that Petitioner Shipman submitted an application for a permit which was in compliance with the new regulations. At oral argument Petitioners’ counsel stated that Shipman received the permit. Consequently, Shipman has no pending dispute.
+. Petitioners’ petition at paragraphs 9 and 15.
+. Act of July 13, 1988, P.L. 530, 35 P.S. § 7514.
+. Because we have sustained DER’s preliminary objection as to the exhaustion of administrative remedies, we need not address the remaining preliminary objections.
