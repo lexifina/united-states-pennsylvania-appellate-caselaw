@@ -1,0 +1,53 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2620 C.D. 1985"
+decided: "1986-12-12"
+citations: ["102 Pa. Commw. 463", "518 A.2d 892"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Barry ánd Palladino, and Senior Judge Kalish, sitting as a panel of three."]
+parties: ["William H. Werner, Petitioner v. Workmen's Compensation Appeal Board (Bernardi Brothers, Inc. and Magnetics Perfection Electric, Inc.), Respondents."]
+source_url: "https://static.case.law/pa-commw/102/cases/0463-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1355491
+cites_cases: ["13 Pa. Commonwealth Ct. 386", "319 A.2d 434", "442 A.2d 1223", "447 A.2d 683", "456 A.2d 1117", "473 A.2d 260", "479 A.2d 631", "487 Pa. 313", "512 Pa. 377", "517 A.2d 523", "65 Pa. Commonwealth Ct. 461", "67 Pa. Commonwealth Ct. 393", "72 Pa. Commonwealth Ct. 270", "81 Pa. Commonwealth Ct. 270", "83 Pa. Commonwealth Ct. 451"]
+---
+
+# Werner v. Workmen's Compensation Appeal Board
+
+## Majority (Judge Palladino,)
+
+Opinion by
+Judge Palladino,
+Petitioner, William H. Werner, appeals from an order of the Workmen's Compensation Appeal Board (Board) affirming the dismissal of his claim petition for compensation under Section 108(n) The Pennsylvania Workmen's Compensation Act (Act). We affirm.
+From October, 1976 until March 12, 1982 Petitioner worked as a production leadman for a business which manufactured small gear reducers. In February or March of 1980 a foaming operation was added to the manufacturing process. The foaming operation utilized a chemical mixture containing polymericisocyanates. The operation took place in a large room in which the entire manufacturing process was located. Vapors were produced during the foaming process. Petitioner filed a claim for compensation on August 14, 1982, alleging he developed bronchial asthma as a result of breathing in chemicals at his work place.
+The referee found that Petitioner had been diagnosed as having emphysema related to cigarette smoking. He further found that Petitioner had been a one-half to one pack per day smoker for many years until quitting in December 1980. Additionally, the referee found that Petitioner had been diagnosed as being allergic to cat and dog dander, chickens, house dust, trees, grasses, ragweed and that Petitioner raised chickens at his home, had a dog and lived in an environment where he was exposed to various trees and grasses. See Referees Findings of Fact, Nos. 17, 18, 19 and 21. Although Petitioners doctor testified that in his opinion the fumes from the foaming operations were the cause of Petitioners bronchial asthma, the referee found that Petitioners condition was not work related.
+The referee concluded that Petitioner had failed to prove the required elements of Section 108(n) of the Act, and on August 19, 1983, dismissed Petitioners claim. Petitioner appealed to the Board on September 12, 1983, claiming that the referee had capriciously disregarded competent evidence. On October 18, 1984, prior to a decision by the Board, Petitioner filed a motion with the Board to amend his claim to include a claim under 301(c) of the Act and a petition for remand to the referee. On August 30, 1985, the Board affirmed the referees dismissal of Petitioners claim because the referee found his condition was not work related. The Board did not rule on his motion to amend. A petition for review was filed with this Court.
+Petitioner asserts that: (1) his doctors testimony was capriciously disregarded and therefore the Board erred in not considering whether his claim was compensable under Section 301(c) as well as under Section 108(n) of the Act; (2) the findings of fact are not supported by substantial evidence; and (3) there was a violation of Section 504 of the Administrative Agency Law.
+A petitioner has the burden of establishing that he is entitled to compensation under the Act. Halaski v. Hilton Hotel, 487 Pa. 313, 409 A.2d 367 (1979). Essential to meeting this burden is proof that the condition which prevents a petitioner from working, whether it is an injury, a disease, or aggravation of a pre-existing condition, be work related. When the causal connection between the condition and the job is not obvious, the petitioner must establish it by unequivocal medical testimony. See Haney v. Workmen’s Compensation Appeal Board, 65 Pa. Commonwealth Ct. 461, 442 A.2d 1223 (1982).
+Petitioner first contends that the referee capriciously disregarded his doctors testimony that Petitioners condition resulted from his work environment because it was the only medical testimony offered. However, our Supreme Court has recently held that the scope of review of an administrative agency decision, regardless of which party prevails, is limited by Section 704 of the Administrative Agency Law, 2 Pa. C.S. §704, to determining whether constitutional rights have been violated, an error of law committed, or whether there is substantial evidence in the record to support the findings of fact. Estate of McGovern v. State Employees’ Retirement Board, 512 Pa. 377, 517 A.2d 523 (1986).
+As to whether necessary findings are supported by substantial evidence, we note that the referee may reject or accept the testimony of any witness, even that of a medical witness, in whole or in part. Casuccio v. Workmen’s Compensation Appeal Board, 72 Pa. Commonwealth Ct. 270, 456 A.2d 1117 (1983). The credibility of witnesses and the weight to be accorded their tes timony is the province of the referee. Williams v. San Giorgio Macaroni, Inc., 13 Pa. Commonwealth Ct. 386, 319 A.2d 434 (1974), and even uncontradicted expert medical testimony may be disregarded Haney v. Workmen’s Compensation Appeal Board, 65 Pa. Commonwealth Ct. 461, 442 A.2d 1223 (1982).
+Our review of the record satisfies us that the doctors testimony was less than positive, based on possibilities and, therefore, equivocal. The referees rejection of the doctors opinion as to the cause of Petitioners condition was not an error of law.
+When the referee properly rejects the testimony of a petitioners witness, he may deny compensation even if the employer has offered no evidence. Butler v. Workmen’s Compensation Appeal Board, 67 Pa. Commonwealth Ct. 393, 447 A.2d 683 (1982). We conclude that there is substantial evidence to support the finding that Petitioners condition was not work related.
+Petitioner relies on Pawlosky v. Workmen’s Compensation Appeal Board, 81 Pa. Commonwealth Ct. 270, 473 A.2d 260 (1984) and Hayden v. Workmen’s Compensation Appeal Board, 83 Pa. Commonwealth Ct. 451, 479 A.2d 631 (1984) to support his contention that the Board erred in not considering his claim under Section 301(c) of the Act. His reliance is misplaced. In these two cases the referee found the petitioners had suffered a work related injury. Here the referee found that Petitioners condition was not work related. If there is no work related injury, there can be no compensation under the Act.
+We affirm.
+Order
+And Now, December 12, 1986, the order of the Workmens Compensation Appeal Board, No. A-86791, dated August 30, 1985, is affirmed.
+Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §27(n).
+Section 108(n) was added by Section 1 of the Act of October 17, 1972, P.L. 930. This Section defines as an occupational disease for which benefits are available:
+All other diseases (1) to which the claimant is exposed by reason of his employment, and (2) which are causally related to the industry or occupation, and (3) the incidence of which is substantially greater in that industry or occupation than in the general population. . . .
+77 P.S. §27.1(n).
+77 P.S. §411.
+Since we hold that the referee did not err in concluding there was no work related injury, the Boards feilure to rule on this motion is harmless error.
+2 Pa. C.S. §504 (1986).
+Petitioner asserts that the Board violated Section 504 of the Administrative Agency Law because (1) the referee did not conclude Petitioners disease was not work related and (2) that the evidence in the record does not support such a conclusion. Since we find that the referee did find that Petitioners condition was not work related this contention is moot.
+
+## Dissent (Senior Judge Kalish:)
+
+Dissenting Opinion by
+Senior Judge Kalish:
+I respectfully dissent.
+In addition to challenging the referees findings, Petitioner argues that the Board erred in foiling to consider his claim under Section 301(c) of The Pennsylvania Workmens Compensation Act (Act), Act of June 2, 1915, P.L. 736, as amended, 77 PS. §411, as well as under Section 108(n) of the Act, 77 P.S. §27.1, relying on Pawlosky v. Workmen’s Compensation Appeal Board, 81 Pa. Commonwealth Ct. 270, 473 A.2d 260 (1984), and Hayden v. Workmen’s Compensation Appeal Board, 83 Pa. Commonwealth Ct. 451, 479 A.2d 631 (1984). The majority distinguishes this case from Pawlosky and Hayden on the grounds that in both of those cases the referee found that the claimants had suffered a work related injury. The majority states that in this case the referee found that Petitioners condition was not work related. Thus, the majority concludes that if there is no work related injury, there can be no compensation under the Act.
+I believe the referees findings are insufficient to justify the legal conclusion that Petitioner is ineligible for compensation under Section 301(c) of the Act. The referee found that Petitioner had been diagnosed as having emphysema, related to cigarette smoking, and that Petitioner had been diagnosed as being allergic to cat and dog dander, chickens, house dust, trees, grasses and ragweed. The referee dismissed the claim because Petitioner foiled to establish that the incidence of his ailment was substantially greater in his occupation than in the general population, as required by Section 108(n) of the Act.
+The referees finding that Petitioners condition was not work related, which the majority relies on, referred to the emphysema and allergies. However, the referees findings are silent as to the crucial question of whether Petitioner suffered an aggravation of a pre-existing disease. In Pawbsky the referee did find that the claimant had suffered a work related aggravation of a pre-existing disease, and in Hayden the referee did find that the claimant had a work related illness. However, here there are no findings as to whether Petitioners bronchial asthma constituted a work related aggravation of a pre-existing disease. Accordingly, I would remand this matter for a determination of whether the conditions of the workplace aggravated Petitioners pre-existing ailments.
