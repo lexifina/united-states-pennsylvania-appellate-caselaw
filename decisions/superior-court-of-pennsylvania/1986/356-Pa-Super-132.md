@@ -1,0 +1,39 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "00460"
+decided: "1986-08-25"
+citations: ["356 Pa. Super. 132", "514 A.2d 179"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before MONTEMURO, POPOVICH and HOFFMAN, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania, Appellant, v. Joseph M. LAGANA, Appellee."]
+source_url: "https://static.case.law/pa-super/356/cases/0132-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 655393
+cites_cases: ["291 Pa.Super. 271", "311 Pa.Super. 264", "313 Pa.Super. 1", "319 Pa.Super. 42", "321 Pa.Super. 323", "340 Pa.Super. 136", "353 Pa.Super. 355", "392 U.S. 1", "435 A.2d 1217", "481 Pa. 292", "486 A.2d 382", "506 Pa. 551", "510 Pa. 477"]
+---
+
+# Commonwealth v. Lagana
+
+## Majority (MONTEMURO, Judge:)
+
+MONTEMURO, Judge:
+This Commonwealth appeal is before us on remand from the Supreme Court of Pennsylvania, Commonwealth v. Lagana, 510 Pa. 477, 509 A.2d 863 (1986).
+On the basis of information broadcast over police radio, appellee was arrested on May 11, 1981, and charged with burglary and various firearms offenses. The arrest on the gun charges resulted from a Terry stop during which appellee was frisked and a gun discovered; the later burglary charges stemmed from appellee’s proximity at the time of the arrest to two carrying cases which contained what was determined to be proceeds of a burglary committed on May 10. The weapons and burglary charges were not consolidated, and were made the subjects of two separate suppression motions.
+On August 28, 1981, the motion to suppress evidence connected to the burglary charge was heard and granted by the Honorable Nelson A. Diaz. No Commonwealth appeal followed. Instead the burglary charge was nolle prossed.
+At the suppression hearing on the firearms charge, the Honorable Eugene H. Clarke, Jr., ruled that by operation of collateral estoppel he was compelled to suppress the subject evidence, the gun, on the basis of Judge Diaz’s findings of fact and conclusions of law. The Commonwealth appealed and this court affirmed. (Per Spaeth, P.J., with Popovich, J. concurring in the result.) The danger represented by a theoretically incorrect result was determined, on balance, to be outweighed by various policy considerations if collateral estoppel was not applied. Specifically, we held that the latent evils of trying defendants with illegally obtained evidence, harassment of accuseds by the Commonwealth, piecemeal prosecutions, and the subversion of a defendant’s reliance on a favorable prior outcome, were more likely to be realized where there were inconsistent (pre-trial) rulings on separate prosecutions arising from a single arrest.
+The supreme court disagreed, finding that while “having judges of equal jurisdiction, sitting on the same bench, overruling each other on the same record,” Lagaña, 510 Pa. at 483, 509 A.2d at 866, was to be avoided, of paramount importance was the necessity to neutralize “the potential negative impact of perpetuating an erroneous ruling.” Id. “The solution for this dilemma is to have the ruling of the first suppression hearing incorporated into the record of the second hearing, and to allow review of the first decision on appeal as if it had been entered anew.” Id.
+When the supreme court’s explanations are examined, the corrective nature of this procedure becomes apparent.
+The first ruling was not appealed because although the validity of the Terry stop was at issue, the Commonwealth believed the court’s decision to have been independently supportable, i.e., affirmance could have been based on the illegality of the warrantless search performed at the police station on the carrying cases. The collateral estoppel ruling was appealed, however, because the only available grounds for invalidating seizure of the gun was the Terry issue. “Thus, the Superior Court would have been required to affirm or reverse the suppression ruling by passing on the correctness of that single issue. We see nothing wrong with permitting review in this type of situation.” Lagana, 510 Pa. at 484, 509 A.2d at 866.
+Our mandate, therefore, is to determine whether the decision to suppress evidence of the burglary was properly taken. We first note that,
+If police have reasonable suspicion that criminal activity is afoot, they may make a temporary, investigatory stop even though they lack probable cause to make an arrest. Commonwealth v. O’Neal, 321 Pa.Super. 323, 325, 468 A.2d 500, 502 (1983). If the police reasonably believe their safety is in jeopardy, a limited search for weapons is justified. Terry v. Ohio, 392 U.S. 1, 88 S.Ct. 1868, 20 L.Ed.2d 889 (1968). If incriminating evidence establishing probable cause for arrest is discovered after the temporary stop, a lawful arrest may then be made. Commonwealth v. Webster, 291 Pa.Super. 271, 276-277, 435 A.2d 1217, 1219-1220 (1981).
+Commonwealth v. Capers, 340 Pa.Super. 136, 141, 489 A.2d 879, 881 (1985).
+The trial court held that in fact appellee had, without probable cause, and therefore illegally, been arrested rather than subjected to a stop and frisk procedure.
+The arresting officer testified that he arrived on the scene in response to a radio bulletin, spotted and approached appellee, frisked him, finding a gun in the process, and placed him under arrest. (N.T. August 28, 1981, at 7). In the officer’s own estimation, appellee was not, from the initial point of the encounter free to go. (N.T. August 28, 1981, at 15). However, “Whether an arrest has occurred depends upon the impression conveyed to the person detained, not upon the officer’s subjective intentions.” Commonwealth v. McManus, 353 Pa.Super. 355, 359, 509 A.2d 1314, 1316 (1986). There must also have been “an act indicating intention to take appellant into custody.” Commonwealth v. Hook, 313 Pa.Super. 1, 4-5, 459 A.2d 379, 381 (1983). Prior to discovery of the gun, no such act was involved here. We therefore find, contrary to the trial court’s conclusion, that appellee was not under arrest until the weapon was found. We further find that the Terry stop to which he was subjected was itself invalid. Because the source for the radio broadcast motivating the stop was never substantiated, because the description it contained was lacking in specifics, and because there was no information linking the individual described with any crime, the quantum of reasonable suspicion necessary even for a temporary stop was absent. Commonwealth v. Anderson, 481 Pa. 292, 392 A.2d 1298 (1978); Commonwealth v. Lapia, 311 Pa.Super. 264, 457 A.2d 877 (1983), rev’d, on other grounds Commonwealth v. Dugger, 506 Pa. 551, 486 A.2d 382 (1985); contra Commonwealth v. Whelton, 319 Pa.Super. 42, 465 A.2d 1043 (1983).
+That being so, seizure of the gun was therefore illegal as was the weapons violation arrest. Burglary charges were lodged only as the result of the suspicion aroused while appellee was in (illegal) custody; his inability to identify the carrying cases and their contents, impounded by the police, provoked the investigation which in turn led to his second arrest. The taint of the initial improper act was thus perpetuated, undermining the legitimacy of all that followed. The evidence of both crimes was therefore properly suppressed.
+Order affirmed.
+. Terry v. Ohio, 392 U.S. 1, 88 S.Ct. 1868, 20 L.Ed.2d 889 (1968).
+. The items seized were binoculars, cameras, costume jewelry, including several watches, and a coin collection.
+. The information broadcast was that a white male, aged 20-25, wearing a yellow raincoat and carrying a gun was present in the vicinity of 9th & Wharton Streets in Philadelphia.
+. The officer testified that it was raining at the time of the stop and that there were 20 to 30 people in the immediate area.
