@@ -1,0 +1,45 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 2649 C.D. 1987"
+decided: "1988-12-27"
+citations: ["122 Pa. Commw. 351", "551 A.2d 1167"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Doyle and McGinley, and Senior Judge Kalish, sitting as a panel of three.", "Judge MacPhail did not participate in the decision in this case."]
+parties: ["Kurt Caruso, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/122/cases/0351-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1381071
+cites_cases: ["10 Pa. Commonwealth Ct. 90", "103 Pa. Commonwealth Ct. 116", "117 Pa. Commonwealth Ct. 181", "169 A.2d 334", "195 Pa. Superior Ct. 159", "24 Pa. Commonwealth Ct. 54", "309 A.2d 165", "32 Pa. Commonwealth Ct. 6", "353 A.2d 915", "36 Pa. Commonwealth Ct. 599", "377 A.2d 1045", "388 A.2d 785", "471 A.2d 912", "475 A.2d 1355", "512 Pa. 377", "517 A.2d 523", "80 Pa. Commonwealth Ct. 388", "82 Pa. Commonwealth Ct. 575"]
+---
+
+# Caruso v. Commonwealth
+
+## Majority (Judge McGinley,)
+
+Opinion by
+Judge McGinley,
+Kurt Caruso (Claimant) appeals an order of the Unemployment Compensation Board of Review (Board) denying benefits due to willful misconduct under the provisions of Section 402(e) of the Unemployment Compensation Law (Law). We affirm.
+Claimant was last employed by the Hammermill Paper Company (Employer) from April 16, 1976, at a final rate of $11.31 per hour and his last day of work was May 27, 1987. At or about 4:00 a.m. on May 27, 1987, Claimant, while intoxicated, appeared at the residence of a supervisor. The supervisor was working out of state at a plant that was embroiled in a labor dispute. The Board found that Claimant harassed and terrorized the supervisors wife and small child. Also present at the home was the wife’s brother-in-law, who was a fellow employee of Claimant. Claimant inquired in threatening tones of the brother-in-law whether he had become a “company man” instead of a “union man.” Claimant was arrested near the home and charged with harassment, public drunkenness and disorderly conduct. Claimant was suspended on May 28, 1987, pending an investigation of the incident by Employer. The suspension was converted to a discharge effective June 4, 1987. Claimant ultimately pleaded guilty to charges of public drunkenness and disorderly conduct in connection with this incident. The charge of harassment was dismissed. (Notes of Testimony, July 9, 1987, (N.T.) at 20.)
+The Office, of Employment Security (OES) denied Claimants application for benefits and he took a timely appeal. Following a hearing, the Referee reversed the decision and awarded benefits, determining that Claimant was not ineligible pursuant to Section 402(e) of the Law, because Claimant had not harassed the supervisors family, and because the incident was not connected with Claimants work. At the hearing the Referee obtained permission of the parties to determine Claimants eligibility under Section 3 of the Law, 43 P.S. §752, in anticipation that a Section 3 determination could become necessary, but he made no ruling under Section 3.
+The Employer appealed to the Board, arguing that Claimant was ineligible pursuant to Section 402(e) of the Law. The Employer failed to preserve the issue of Claimants ineligibility under Section 3. The Board reversed the decision of the Referee, finding that Claimants actions constituted willful misconduct because he hád harassed the supervisors family, and finding that Claimants actions were work-related because they were related to a “brewing labor dispute.”
+Claimant argues that his actions did not constitute willful misconduct. We are limited to affirming the
+Boards decision unless there was an error of law, a party’s constitutional rights were violated, or if the necessary findings of fact are not supported by substantial evidence. Estate of McGovern v. State Employees’ Retirement Board, 512 Pa. 377, 517 A.2d 523 (1986). Whether or not an employee’s conduct constitutes willful misconduct is a question of law subject to our review. Geslao v. Unemployment Compensation Board of Review, 103 Pa. Commonwealth Ct. 116, 519 A.2d 1096 (1987).
+For behavior to constitute wilful misconduct, it must evidence (1) the wanton and wilful disregard of the employer’s interest, (2) the deliberate violation of rules, (3) the disregard of standards of behavior which an employer can rightfully expect from his employe, or (4) negligence which manifests culpability, wrongful intent, evil design, or intentional and substantial disregard for the employer’s interests or the employee’s duties and obligations.
+Kentucky Fried Chicken of Altoona, Inc. v. Unemployment Compensation Board of Review, 10 Pa. Commonwealth Ct. 90, 97, 309 A.2d 165, 168-169 (1973).
+Claimant pleaded guilty to charges of public drunkenness and disorderly conduct in connection with this incident (N.T. at 20). It has long been the law that a criminal act connected with one’s work is in itself sufficient to constitute willful misconduct, even without any company rule forbidding it. Berger v. Unemployment Compensation Board of Review, 80 Pa. Commonwealth Ct. 388, 471 A.2d 912 (1984). Claimant’s actions unquestionably constitued a disregard of standards of behavior which an employer rightfully expected of its employees and as such constituted willful misconduct.
+The only real question is whether Claimants conduct was “work-connected.” This Court stated in Gallagher v. Unemployment Compensation Board of Review, 36 Pa. Commonwealth Ct. 599, 602, n.3, 388 A.2d 785, 787, n.3 (1978), “there is no requirement that an employees misconduct occur on the employers premises and/or while on duty.” There was ample evidence to support the Boards conclusion that Claimants action arose as a result of a brewing labor dispute. At 3:00 a.m. the supervisors wife and children had been awakened by the sound of an object thrown through the screen and glass front doors of their home. Claimant himself admitted that he went to the supervisors house at 4:00 a.m., knowing that the supervisor was out of state; that he knew that there had been trouble at the supervisors residence; and that he told the brother-in-law that if he was a “company man” a similar incident could occur at his house. Consequently, Claimants conduct was sufficiently connected with his work so as to make him ineligible for benefits pursuant to Section 402(e) of the Law. The decision of the Board is affirmed.
+Order
+And Now, this 27th day of December, 1988, the decision of the Unemployment Compensation Board of Review in the above-captioned matter is affirmed.
+Judge MacPhail did not participate in the decision in this case.
+Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §802(e).
+This Court has approved the denial of benefits pursuant to Section 3 in non-work-related situations in which the claimants conduct was contrary to acceptable standards of behavior, and in which the conduct directly reflects upon the claimants ability to perform his assigned duties. See Unemployment Compensation Board of Review v. Derk, 24 Pa. Commonwealth Ct. 54, 353 A.2d 915 (1976).
+See Merida v. Unemployment Compensation Board of Review, 117 Pa. Commonwealth Ct. 181, 543 A.2d 593 (1988).
+Decision of the Board, Findings of Fact, Nos. 2-4.
+In his statement of the question, the conduct which Claimant ascribes to himself and which he suggests did not constitute willful misconduct is not the exact same conduct which the Board attributed to him. Nonetheless, because Claimant does not challenge the Boards findings as being unsupported by substantial evidence, we must only determine whether Claimants actions, as found by the Board, constituted willful misconduct.
+We cited therein the cases of Nevel v. Unemployment Compensation Board of Review, 32 Pa. Commonwealth Ct. 6, 377 A.2d 1045 (1977), and Cadden Unemployment Compensation Case, 195 Pa. Superior Ct. 159, 169 A.2d 334 (1961). In Cadden the employee drove his employers car home contrary to his employers policy. In Nevel, the claimant, an employee of the Pennsylvania Liquor Control Board, violated a law which his employer had the duty to administer and enforce.
+N.T. at 10.
+N.T. at 18.
+Having determined that Claimants conduct was “work-connected,” we thus distinguish this matter from Dunbar v. Unemployment Compensation Board of Review, 82 Pa. Commonwealth Ct. 575, 475 A.2d 1355 (1984), in which we held that “a worker is not ineligible for unemployment compensation unless his discharge is for willful misconduct connected with his work.” Claimant’s conduct in this case clearly is more closely related to his work than was the claimant’s conduct in Dunbar.
+Although the issue was waived (See n.3, supra), Claimant may also have been ineligible for benefits pursuant to Section 3 of the Law.
