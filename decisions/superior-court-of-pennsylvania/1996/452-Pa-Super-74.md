@@ -1,0 +1,36 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "3770"
+decided: "1996-07-19"
+citations: ["452 Pa. Super. 74", "681 A.2d 192"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CAVANAUGH, SAYLOR and HESTER, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. James F. POWERS, Appellant."]
+source_url: "https://static.case.law/pa-super/452/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 769266
+cites_cases: ["404 Pa.Super. 335"]
+---
+
+# Commonwealth v. Powers
+
+## Majority (SAYLOR, Judge:)
+
+SAYLOR, Judge:
+This is an appeal from a judgment of sentence entered in the Court of Common Pleas of Delaware County after Appellant, James Powers, was found guilty of the summary offenses of failing to obey a traffic control signal and driving while his operator’s license was under suspension. We affirm.
+On October 28, 1992, Appellant was operating a motor vehicle when he was stopped by Officer Keith Prorock for disregarding a red traffic light at the intersection of Lancaster and Aberdeen Avenues in Radnor, Pennsylvania. When Officer Prorock asked Appellant to produce a driver’s license, Appellant told the officer that he did not have a license because his driving privileges had been suspended. At this point, Officer Prorock radioed the dispatcher at the police station to check the status of Appellant’s license. After checking the PennDOT computer, the dispatcher told Officer Prorock that he had received verification that Appellant’s license was suspended, non-DUI related. Officer Prorock thereafter issued Appellant citations for driving while his license was under suspension and for disregarding a red traffic light. When Officer Prorock returned to the police station he ordered a copy of Appellant’s driving record from PennDOT which subsequently confirmed that Appellant’s license had been suspended, non-DUI related.
+On February 24, 1993, Appellant was found guilty by a district justice of driving under suspension, 75 Pa.C.S.A. § 1543(a) and failing to obey a traffic control signal, 75 Pa.C.S.A. § 3112(a)(3). Appellant appealed the magistrate’s decision, and on December 15, 1993, following a trial de novo, the trial court found Appellant guilty of both charges. Appel: lant filed a post-trial motion for new trial and/or acquittal. Following a hearing, the trial court denied both motions. Appellant then filed a notice of appeal with the Superior Court. Since Appellant had not yet been sentenced, the Superior Court quashed the appeal without prejudice. On October 2, 1995, Appellant was sentenced to pay a fine of $225 plus costs. This appeal followed.
+Appellant raises a single issue on appeal:
+Did the trial court err in denying the defendant’s motion to dismiss the charge of driving while under suspension (section 1543(a))-, and finding him guilty of said offense where the police officer failed to comply with the mandatory provisions of section 1543(d) of the Pennsylvania Motor Vehicle Code requiring a police officer to obtain a certified driver’s record before filing a citation under section 1543?
+Section 1543 of the Motor Vehicle Code provides in pertinent part as follows:
+Driving while operating privilege is suspended or revoked
+(a) Offense defined — Except as provided in subsection (b), any person who drives a motor vehicle on any highway or trafficway of this Commonwealth after the commencement of a suspension, revocation or cancellation of the operating privilege and before the operating privilege has been restored is guilty of a summary offense and shall, upon conviction, be sentenced to pay a fine of $200.
+(b) Certain offenses—
+(1) Any person who drives a motor vehicle on any highway or trafficway of this Commonwealth at a time when their operating privilege is suspended or revoked as a condition of acceptance of Accelerated Rehabilitative Disposition for a violation of section 3731(relating to driving under influence of alcohol or controlled substance) ... shall, upon conviction, be guilty of a summary offense and shall be sentenced to pay a fine of $1,000 and to undergo imprisonment for a period of not less than 90 days.
+(d) Citation of appropriate subsection-Prior to filing a citation for a violation of this section with the issuing authority named in the citation, the police officer shall verify the basis for the suspension with the department. Upon receiving the verification, the officer shall cite the appropriate subsection of this section on the citation.
+Prior to 1982, section 1543 did not differentiate as between the basis for the suspension. In 1982, section 1543 was amended to add subsection (b) which specifically dealt with DUI-related suspensions and imposed a more severe penalty for such suspensions. Subsequently, in 1987, subsection (d) was added to require police officers to verify the basis for the suspension. The purpose of this requirement was to ensure that a violator is properly charged since driving during suspension for DUI is now a discrete offense.
+In this case, before issuing the citation, the officer verified the fact and classification of Appellant’s license suspension by contacting the dispatcher at the police station via radio. It is true, as Appellant indicates, that the officer did not receive official verification from the Department of Transportation in the form of a certified driving record prior to filing the citation. Appellant argues that this was a fatal defect requiring dismissal of the charge, citing Commonwealth v. Heckman, 404 Pa.Super. 335, 590 A.2d 1261 (1991). We disagree.
+Heckman held that a defendant’s certified driving record is the verification required under subsection (d) in order to prove the suspension. Thus under a strict reading of the statute the officer should have awaited receipt of the official verification of Appellant’s license status from PennDOT before filing the citation; however, there was no prejudice to Appellant as a result of the officer’s failure to do so. There was no question that Appellant’s license was suspended at the time the citation was issued. When stopped, Appellant told the officer that his license had been suspended. Prior to issuing the citation, the officer confirmed the suspension by radio, including the fact that the suspension was non-DUI related. The officer then charged Appellant with the appropriate violation, subsection (a) of section 1543. Most importantly, the officer subsequently procured a copy of Appellant’s certified driving record from PennDOT which verified the status of Appellant’s license.
+Since the trial court did not err in refusing to dismiss the charge of driving during suspension, the judgment of sentence is affirmed.
