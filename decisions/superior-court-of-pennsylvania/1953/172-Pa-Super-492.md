@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 109"
+decided: "1953-01-20"
+citations: ["172 Pa. Super. 492"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hikt, Reno, Ditheich, Ross and Guntheb, JJ. (Abnold, J., absent)."]
+parties: ["G. I. Motors, Inc., Appellant, v. Broadway Motors, Inc."]
+source_url: "https://static.case.law/pa-super/172/cases/0492-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 477235
+cites_cases: ["161 Pa. Superior Ct. 265", "167 Pa. Superior Ct. 159", "184 A. 81", "230 Pa. 392", "321 Pa. 212", "54 A. 2d 61", "74 A. 2d 535"]
+---
+
+# G. I. Motors, Inc. v. Broadway Motors, Inc.
+
+## Majority (Ditheich, J.,)
+
+Opinion by
+Ditheich, J.,
+This action in replevin to recover a used automobile or the value thereof was tried in the Court of Common Pleas of Philadelphia County before a judge without a jury. The docket entries show that on January 30, 1952, the court found the value of the automobile to be $875 and found for the defendant and against the plaintiff in that amount with interest from March 30, 1950. Judgment on the findings was entered February 5, 1952. Plaintiff took no exceptions to the findings or the entry of judgment and did not file its appeal in. this Court until March 25,, 1952.
+The Act of April 22, 1874, P. L. 109, amended by the Act of July 10, 1935, P. L. 640, 12 PS §689, which allows thirty days for the filing of exceptions to the decision of the trial court, was specifically repealed, insofar as it relates to trials by court without a jury in the Common Pleas of Philadelphia County, by section 2 of the Act of June 25, 1937, P. L. 2090, 12 PS §695. Section 1 of the Act of 1937 provides in part: “If both parties . . . have filed agreements that the case may be tried by a judge without a jury, it shall be so tried under such rules of procedure as the said several courts of common pleas shall prescribe.” Rule *270 of the Court of Common Pleas of Philadelphia County — “Trial of Nonjury Cases” — provides in part as follows: “(b) The adjudication of the trial judge may consist only of his decision of the case ... (d) All objections to the adjudication . . . shall be deemed to be waived, except such as are covered by exceptions filed by any party within four days after the adjudication becomes effective, and no motion for a new trial, for judgment non obstante veredicto, in arrest of judgment, or to remove a nonsuit, will be entertained, (e) ... If exceptions are filed within such period, the court en banc shall hear argument thereon, and affirm or dismiss each exception, and shall either order a new trial or enter such final judgment as it deems lawful and proper.”
+In this case there was no- motion for a new trial or for judgment n.o.v.; consequently, there was no court en banc. President Judge L. Stauffer Oliver, the learned trial judge, has not been served with notice under our Rule 43 to file an opinion and he informs us that he does not intend to do so since, under his interpretation of Rule *270, plaintiff has no right of appeal.
+Meitner v. Scarborough, 321 Pa. 212, 184 A. 81, is authority for the principle that assignments of error on appeal from judgment entered in a non jury trial must be based on exceptions to the findings of fact and conclusions of law, and cannot be considered unless supported by proper exceptions. The Court said (p. 214) : “It is not from the findings of fact and conclusions of law originally filed by the judge that an appeal must be taken . . . The preliminary finding of the judge is neither a verdict nor a judgment. It cannot be reviewed on appeal. The act [Rule *270] provides that exceptions shall be taken to the findings and conclusions and it is from the court’s decision upon these exceptions that an appeal must rest: McDermott v. Blank, 230 Pa. 392.” (Emphasis added.)
+But even if plaintiff had proceeded as required by Rule *270, we would be constrained to rule that its appeal was without merit, since defendant was the innocent purchaser for value of a used automobile, title to which had been passed by plaintiff to a third person in the State of New York, which does not have a system of titling automobiles similar to that in Pennsylvania (First National Bank of Jamestown v. Sheldon, 161 Pa. Superior Ct. 265 (allocatur refused ibid, xxv), 54 A. 2d 61), with knowledge that he was purchasing the car with the intention of reselling it. Rice Street Motors v. Smith, 167 Pa. Superior Ct. 159 (allocatur refused ibid, xxvi), 74 A. 2d 535.
+Appellant contends that it did not sell the automobile to the third person but merely consigned it to him for the purpose of enabling him to show it and another car, consigned at the same time, to a prospective buyer; and that, while it parted with possession of the automobile, it retained title with the understanding that if the third party could not sell either or both of the automobiles he would return them to appellant. In our opinion, however, the most that can be said in support of appellant’s position is that the title which the purchaser acquired was voidable, but not void. Section 24 of The Sales Act of May 19, 1915, P. L. 543, 69 PS §202, provides: “Where the seller of goods has a voidable title thereto, but his title has not been avoided at the time of the sale, the buyer acquires a good title to the goods, provided he buys them in good faith, for value, and without notice of the seller’s defect of title.” The used car dealer who sold the car to the Pennsylvania dealer had acquired at most a voidable title thereto, and since it had not been voided at the time of the sale, appellee, being an innocent purchaser for value without notice of any defect in the title, acquired a good title to the automobile.
+Judgment affirmed.
