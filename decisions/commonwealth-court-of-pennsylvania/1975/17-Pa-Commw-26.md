@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1005 C.D. 1973"
+decided: "1975-01-14"
+citations: ["17 Pa. Commw. 26"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Kramer, Wilkinson, Jr. and Rogers, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania, Department of Transportation, Bureau of Traffic Safety, Appellant, v. Lewis E. Wagner, Appellee."]
+source_url: "https://static.case.law/pa-commw/17/cases/0026-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1864632
+cites_cases: ["166 A.2d 654", "218 Pa. Superior Ct. 309", "280 A. 2d 820", "284 A. 2d 524", "3 Pa. Commonwealth Ct. 580", "402 Pa. 123"]
+---
+
+# Commonwealth v. Wagner
+
+## Majority (Judge Wilkinson,)
+
+Opinion By
+Judge Wilkinson,
+By letter dated September 19,1972, the appellee, Lewis E. Wagner, received notice from the Director of the Bureau of Traffic Safety that he had been assessed a “6 point penalty” as a result of a speeding conviction on April 17, 1972, and that he was required to attend an eight-hour course at a Driver Improvement School. Disclaiming all knowledge of this “conviction,” appellant refused to attend the school and filed an appeal with the Court of Common Pleas of Mifflin County where he resides.
+At a hearing before President Judge R. Lee Ziegler, appellee produced evidence that at the time of the alleged violation (which occurred in Porter Township, Hunting-don County), he was student-teaching classes at Castanea High School near Lock Haven, some 54 miles away. The Court, based on substantial evidence, found, and the Commonwealth no longer contests, that appellee was not in fact the driver who was arrested for speeding on April 10, 1972, and had not pled quilty to that charge on April 17, 1972. The court also determined that “[appellee] had no knowledge of said summary proceedings until he received notice of [the] assignment of points.” In sustaining the appeal, the lower court held that appellee had established by a preponderance of the evidence that he was not convicted of said summary offense and that the Commonwealth had not met its resulting burden of proof to reconcile the inconsistencies in its case. The Commonwealth then took this appeal.
+The Commonwealth now contends that the lower court was without jurisdiction over the subject matter. The Commonwealth relies heavily on Wilson Motor Vehicle Operator License Case, 218 Pa. Superior Ct. 309, 280 A. 2d 820 (1971), for the proposition that no right of appeal (to the Common Pleas Court) exists from a mere assignment of points and notice to attend driver improvement school. Wilson, supra, holds that the right of appeal from an order of the Secretary must be provided for in the Vehicle Code, and that Section 620 of the Vehicle Code of April 29, 1959, P. L. 58, as amended, 75 P. S. §620, provides for appeal only in cases of a suspension or denial of a license. Thus, the court concluded, there is “no right of appeal from an imposition of points.” 218 Pa. Superior Ct. at 311, 280 A. 2d at 821.
+Appellee argues that his appeal was authorized by Article 5, Section 9, of the Pennsylvania Constitution as implemented by Section 47 of the Administrative Agency Law, Act of December 2, 1968, P. L. 1135 amending the Act of June 4, 1945, P. L. 1388, 71 P.S. §1710.47 (Supp. 1974-1975), and as construed in Department of Transportation v. Hosek, 3 Pa. Commonwealth Ct. 580, 284 A. 2d 524 (1971). The essence of this argument is that the action of the Secretary here, imposing points and ordering school attendance, is discretionary or adjudicatory as opposed to mandatory or ministerial and such action will form the basis of an appeal to a Common Pleas Court based on its residual jurisdiction. See Section 12 of the Act of June 16,1836, P. L. 784, as amended, 17 P. S. §251.
+We cannot completely agree with either position. There is no merit to appellee’s position that the Secretary’s action is discretionary or adjudicatory. Subsection 619.1(f), the section under which the Secretary’s action was taken in this case, reads as follows:
+“(f) When any person’s record for the first time shows as many as six (6) points, the secretary shall require such person to undergo a special examination as provided for in section 608 (g) of this act, or require such person to attend an approved driver improvement school, or require such person to attend a clinic, or any combination of the foregoing and shall so notify the person in writing. . . .” (Emphasis supplied.) 75 P. S. §619.1 (f)
+It is clear this section is mandatory. The fact that there is a limited discretion between two mandated options does not make the Secretary’s action an adjudication. His actions under this section are purely ministerial in nature.
+Department of Transportation v. Hosek, supra, cited by appellee for the proposition that a right of appeal exists here is easily distinguishable in that Hosek dealt with a revocation of a license, clearly an administrative adjudication not present in the instant case.
+The Commonwealth, on the other hand, relies on Wilson, supra, the reasoning of which is not totally on point with this case but its result is controlling. In Wilson, the underlying rationale for not allowing an appeal from the assessment of points was that the licensee in that case should have appealed his conviction directly to the Common Pleas Court. In this case, we obviously have no conviction. However, the court in Wilson was correct, as applied to the facts of the instant case, when it said that “In order for a person to have a right of appeal from an order of the secretary, The Vehicle Code must provide for such an appeal.” 218 Pa. Superior Ct. at 311, 280 A. 2d at 821. As stated above, there is no such right of appeal provided for in the Vehicle Code from an assessment of points or order to attend driver improvement school. See Section 620 of the Vehicle Code of April 29, 1959, P. L. 58, as amended, 75 P. S. §620. Thus, this appeal must be quashed.
+When appellee was notified of the order of the Secretary, assessing six points and directing attendance at an eight-hour course at a Driver Improvement School, he could have ignored the notice, or he could have expressly refused to attend. In either event, his operating privileges would have been suspended. From that suspension, he could have appealed and put in issue the question of the improper assessment of points. He did not avail himself of this remedy. Indeed, this remedy might still be available to him if the Secretary does not expunge the assessment of points in this instance, based on the facts developed at the improper de novo hearing below.
+Accordingly, we enter the following
+Order
+Now, January 14, 1975, the order of the court below is reversed and the appeal of Lewis E. Wagner from the imposition of a six-point penalty and a directive to attend Driver Improvement School is hereby quashed.
+. Although not a part of this record, appellee attaches to his brief a copy of a letter he wrote the Department asserting his lack of knowledge and innocence of the conviction.
+. We should note that no motion to quash appears on the record below. However, questions of subject matter jurisdiction may be raised for the first time on appeal. See Trout v. Lukey, 402 Pa. 123, 166 A.2d 654 (1961).
