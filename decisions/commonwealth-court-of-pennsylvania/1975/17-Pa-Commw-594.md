@@ -1,0 +1,40 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 732 C.D. 1974"
+decided: "1975-03-10"
+citations: ["17 Pa. Commw. 594"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Mencer, Rogers and Blatt."]
+parties: ["United States Steel Corporation, Appellant, v. Commonwealth of Pennsylvania, Department of Environmental Resources, Appellee."]
+source_url: "https://static.case.law/pa-commw/17/cases/0594-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1864608
+cites_cases: ["103 A. 539", "116 Pa. 138", "121 Pa. 424", "127 S.E. 247", "137 Va. 34", "148 N.W. 887", "152 Pa. 286", "176 Pa. 282", "25 A. 597", "260 Pa. 140", "293 Pa. 39"]
+---
+
+# United States Steel Corp. v. Commonwealth
+
+## Majority (Judge Wilkinson,)
+
+Opinion by
+Judge Wilkinson,
+This is an appeal from an order of the Environmental Hearing Board which affirmed an order of the Department of Environmental Resources directing appellant to prepare a plan and timetable to abate a subsurface fire. The Department’s order from which the appeal was taken was issued without a hearing pursuant to the provisions of Section 1917-A of The Administrative Code of 1929, Act of April 9, 1929, P.L. 177, as amended, 71 P.S. §510-17 (Supp. 1974-1975). On appeal, the Environmental Hearing Board held a hearing.
+New things are clear in this record which was no fault of the very competent Hearing Examiner or of the very able counsel for both parties. The issue in a real sense is who will be under a duty to expend the time, effort, and money to determine what the facts are. It is not without significance that the Department’s order merely orders appellant to prepare a plan and timetable to abate the subsurface fire. That order, by implication, recognizes that at this time it is not known from the record who will be responsible for putting out the fire or whether it should be permitted to “burn itself out.” Appellee has not pointed out to us nor has our research revealed any authority for the Department of Environmental Resources or the Environmental Hearing Board to order a party who has not been shown to be responsible for the abatement of a nuisance to prepare a plan for its abatement that will be used by one responsible in the hope that the preparation of the plan will reveal who is responsible.
+Specifically, this record supports a finding that there is a subsurface fire. It is stipulated that it was not started by the appellant. It was started by a fire in a dump in a cut of a strip mine. The strip mine was not owned nor had it ever been operated by appellant. In the appellee’s testimony, there are contradictions as to in which stripping, done by different individuals at different times, the fire started.
+Finding of Fact No. 5 states:
+“5. U.S. Steel did not start or cause the fire. It was probably started when trash and debris, dumped on one of the old airholes, caught or was set on fire and fell, while burning, into the mine cavity.”
+One searches this record in vain to find one word of evidence or even speculation that this is how the fire started. This finding is completely inconsistent with Finding of Fact No. 4 which probably finds, supported by competent evidence, that this fire started “along the outcrop and was burning back into the hillside to a depth of about 15 feet of overburden.”
+The record could support a finding that if the fire is burning in merchantable subsurface coal, it is the coal of appellant, although appellant argues to the contrary. More significantly, the record will not support a finding that there is any merchantable coal at the point where the fire is, much less that the fire is in that coal. Finding of Fact No. 1 states:
+“1. The fire in question is burning in coal, and may also be burning in superadjacent carbonaceous shale.” This finding could be supported if it found that the fire was in superadjacent carbonaceous shale and may also be burning in coal. Indeed, in the first two paragraphs of the discussion in the adjudication, the Hearing Examiner points out that the surface fire is burning in just such shale alone. However, he opines that coal must have been left in the mine (albeit there is no testimony on the mining methods used in 1905, 69 years before when the mining ended) and since coal is more flammable than shale, and shale is burning, it must follow that coal is burning.
+On this very critical point, the Hearing Examiner states:
+“While it may be true, as argued, that U. S. Steel does not own the carbonaceous shale overlying the coal seam, and might not be responsible for a fire burning solely in that, we do not see that responsibility for a fire burning in the culm bank can be shifted to the owner of the surface2 when U. S. Steel— or a corporation now a part of U. S. Steel — put it there.” (The footnote relates to the fact that it is unknown who started the fire.)
+There is no evidence that the surface fire started in culm banks produced in consequence of mining by appellant’s predecessors, if that has any relevance. The evidence is that it started in stripping done by other than appellant or its predecessors, long after deep mining ended.
+Absent proof that the fire is burning in coal, the decision of the Environmental Hearing Board must be reversed. Therefore, there is no necessity to discuss at length the question of the ownership of any incidental coal at the site of the fire. However, it is certainly appropriate to point out that all the testimony was offered by appellee, and it all is to the effect that the last mining in this area by appellant’s predecessors was done 69 years ago. The law is well established in Pennsylvania that one who owns all the coal beneath the surface owns only the right to remove it and once the mineable or merchantable coal is removed, all of the estate is consumed or reverts to the owner of the surface.
+“. . . While the owner of the coal may have an estate in fee therein, it is at the same time an estate that is peculiar in its nature. Much of the confusion of thought upon this subject arises from a misapprehension of the character of this estate. We must regard it from a business, as well as a legal, standpoint. The grantee of the coal owns the coal but nothing else, save the right of access to it and the right to take it away. Practically considered, the grant of the coal is the grant of a right to remove it. This right is sometimes limited in point of time; in others it is without limit. In either event it is the grant of an estate determinable upon the removal of the coal.” (Emphasis added.) Chartiers Block Coal Co. v. Mellon, 152 Pa. 286, 296, 25 A. 597, 598-99 (1893).
+“. . . Of course, defendant’s right in plaintiff’s farm will terminate as soon as the mineable coal therein has been removed; and the right in the upper vein will cease when all of such coal has been taken therefrom.” (Emphasis added.) Westerman v. Pennsylvania Salt Manufacturing Company, 260 Pa. 140, 145, 103 A. 539, 540-41 (1918).
+“If all the coal in the acreage of No. 3 mine has become exhausted, the right to further drainage ceased, and the plaintiff was entitled to [discontinue providing drainage]. This is true if there remains only-coal which is not merchantable (Muhlenberg v. Henning, 116 Pa. 138; McCahan v. Wharton, 121 Pa. 424; Boyer v. Fulmer, 176 Pa. 282), by which is meant such as cannot be secured which is fit for market and sale: Ellis v. Cricket Coal Co. (Iowa), 148 N.W. 887; Big Vein Pochahontas Co. v. Browning, 137 Va. 34; 127 S.E. 247.” (Emphasis added.) Commercial Coal Mining Co. v. Big Ben Coal Mining Co., 293 Pa. 39, 42, 141, A. 732, 733 (1928).
+Accordingly, we enter the following
+ORDER
+Now, March 10, 1975, that part of the order of the Environmental Hearing Board, dated May 3, 1974, which affirms the order of the Department of Environmental Resources, dated November 28, 1973, and orders United States Steel Corporation to take certain affirmative action, is reversed.
