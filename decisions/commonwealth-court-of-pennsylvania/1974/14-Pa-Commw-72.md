@@ -2,7 +2,7 @@
 court: "Commonwealth Court of Pennsylvania"
 docket: "207 C.D. 1973"
 decided: "1974-06-19"
-citations: ["14 Pa. Commw. 72", "14 Pa. Commw. 140"]
+citations: ["14 Pa. Commw. 72"]
 reporter: "pa-commw"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Commonwealth of Pennsylvania, Acting by Attorney General Israel Packe
 source_url: "https://static.case.law/pa-commw/14/cases/0072-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1860628
-cites_cases: ["10 Pa. Commonwealth Ct. 133", "10 Pa. Commonwealth Ct. 138", "10 Pa. Commonwealth Ct. 596", "120 N.J. Super. 216", "1973 York 5", "302 U.S. 112", "309 A. 2d 184", "309 A. 2d 197", "314 A. 2d 333", "4 Pa. Commonwealth Ct. 1", "5 Pa. Commonwealth Ct. 479", "Ariz. Rev. Stat. Ann. §44-5003", "Fla. Stat. Ann. §849.091", "Iowa Code Ann. §713.24", "Kan. Stat. Ann. §50-603", "Ky. Rev. Stat. Ann. §436.360", "Nev. Rev. Stat. §598.100", "Ohio Rev. Code Ann. §1345.02", "Tenn. Code Ann. §89-2017", "Va. Code Ann. §59.1-67.1", "W. Va. Code Ann. §47-15-1"]
+cites_cases: ["10 Pa. Commonwealth Ct. 133", "10 Pa. Commonwealth Ct. 138", "10 Pa. Commonwealth Ct. 596", "120 N.J. Super. 216", "302 U.S. 112", "309 A. 2d 184", "309 A. 2d 197", "314 A. 2d 333", "4 Pa. Commonwealth Ct. 1", "5 Pa. Commonwealth Ct. 479", "Ariz. Rev. Stat. Ann. §44-5003", "Fla. Stat. Ann. §849.091", "Iowa Code Ann. §713.24", "Kan. Stat. Ann. §50-603", "Ky. Rev. Stat. Ann. §436.360", "Nev. Rev. Stat. §598.100", "Ohio Rev. Code Ann. §1345.02", "Tenn. Code Ann. §89-2017", "Va. Code Ann. §59.1-67.1", "W. Va. Code Ann. §47-15-1"]
 ---
 
 # Commonwealth v. Tolleson
