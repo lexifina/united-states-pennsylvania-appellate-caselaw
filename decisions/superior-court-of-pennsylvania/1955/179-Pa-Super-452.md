@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 94"
+decided: "1955-07-21"
+citations: ["179 Pa. Super. 452"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Ross, Gunthee, Weight, Woodside, and Ervin, JJ."]
+parties: ["Cantwell v. Cantwell, Appellant."]
+source_url: "https://static.case.law/pa-super/179/cases/0452-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 727581
+cites_cases: ["156 Pa. Superior Ct. 342", "172 Pa. Superior Ct. 5", "172 Pa. Superior Ct. 600", "40 A. 2d 144", "92 A. 2d 236", "94 A. 2d 124"]
+---
+
+# Cantwell v. Cantwell
+
+## Majority (Gunther, J.,)
+
+Opinion by
+Gunther, J.,
+In this divorce proceeding the master recommended a decree be granted on the grounds of desertion and indignities. Defendant-wife filed exceptions which were sustained by the court below as to indignities but dismissed as to desertion. Accordingly the court below entered a decree granting a divorce to the husband-plaintiff and the wife has appealed.
+The parties were married in 1929 and enjoyed a happy life together until about 1951. They, had one child, a son, who was about 21 at the time, and who became a bone of contention between the parties. Plaintiff’s contention is that they began to look for a home to buy; that he could afford only a low priced house, but that defendant and the son wanted a more expensive one; that arguments arose as a result, in which the son always sided with defendant; that he ivanted the son to leave the house and the two of them Avere not on speaking terms for some Aveeks prior to April 7, 1952; and that on April 7, 1952, after an argument plaintiff left and has never returned. The court beloAV found that this Avas a consensual separation, which Avas turned into desertion by the wife Avhen she later refused plaintiff’s bona fide offers to resume cohabitation on the condition that the son no longer live Avith them. Defendant now contends that the plaintiff Avas guilty of a desertion on April 7, 1952, and that his offer of reconciliation was not bona fide and was coupled with an unreasonable condition.
+It is the duty of this court to make an independent examination of the record, giving the fullest consideration to the findings of the master as to credibility. Oliver v. Oliver, 172 Pa. Superior Ct. 600, 94 A. 2d 124. The record clearly supports the conclusion of the court below that the separation was initially consensual. Defendant admitted that her husband and son were not on speaking terms and it is clear that the son’s presence in the house caused this plaintiff to leave and that his leaving was acceptable to defendant. Defendant also admits plaintiff’s offers of reconciliation, including an offer in open court during a support hearing, and that she refused. Her reason for refusal was that plaintiff was allegedly living with another woman. The testimony does not support the charges against plaintiff in respect to this other woman, who appeared at the hearing and impressed the master most favorably. The most we can infer is that plaintiff at that time was occasionally visiting this woman, but the relationship appears to have been platonic. We believe his offers of reconciliation were bona fide and that the real difference between the parties was the question whether the son should leave the house or remain.
+The basic issue in this case, therefore, is whether plaintiff was justified in attaching to his offers of reconciliation the condition that the son no longer live with them. It is well settled that reasonable conditions may be attached to an offer of reconciliation. Clark v. Clark, 172 Pa. Superior Ct. 5, 92 A. 2d 236. Defendant contends that the condition here is unreasonable because it was not bona fide, being merely a ruse to enable plaintiff to escape his marital obligations. However, the findings of the master and the court below, with which we basically agree, indicate that friction between father and son was the primary cause of the disagreement. Under such circumstances we believe that it is reasonable to offer reconciliation conditioned on the son living elsewhere. The son is an adult with sufficient earning power to sustain himself, and it is likely that he could marry and move away in any event. It is always difficult for a mother to separate from her child at any age, but under the circumstances and background of this case, we believe that the condition was a reasonable one. It follows that defendant by her refusals became guilty of desertion.
+Defendant also raises the defense of a variance between the allegata and the probata. The complaint alleged desertion on April 7, 1952, while, as indicated above, the proof showed a desertion subsequent thereto. If the complaint had been the only pleading filed by plaintiff, such variance would ordinarily be fatal. Davis v. Davis, 156 Pa. Superior Ct. 342, 40 A. 2d 144. However, plaintiff filed a bill of particulars setting forth in detail the facts later proved in evidence. Under the Pennsylvania Rules of Civil Procedure and the Procedural Rules Act of June 21, 1937, P. L. 1982, sec. 1, as amended, a bill of particulars constitutes a pleading. Albany v. Albany, 70 D. & C. 401. The purpose of the rule on variance is to insure that defendant is put on notice as to the allegations he must defend against. That purpose was served in this case as plaintiff’s second pleading, a bill of particulars, gave adequate notice for a defense and was followed by conforming evidence.
+Decree affirmed.
