@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 36"
+decided: "1953-07-14"
+citations: ["173 Pa. Super. 609"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Reno, Ross and Wright, JJ. (Hirt, Dithrich and Gunther, JJ., absent)."]
+parties: ["Perin, Appellant, v. Gochnauer."]
+source_url: "https://static.case.law/pa-super/173/cases/0609-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1067238
+cites_cases: ["13 Pa. Superior Ct. 361", "131 Pa. Superior Ct. 367", "147 Pa. Superior Ct. 400", "200 A. 118", "24 A. 2d 19", "57 Pa. 168", "72 Pa. Superior Ct. 513"]
+---
+
+# Perin v. Gochnauer
+
+## Majority (Reno, J.,)
+
+Opinion by
+Reno, J.,
+Plaintiff-appellant sued defendant-appellee in trespass before a justice of the peace on a cause of action arising out of an automobile collision, and recovered a judgment for $280.22. Defendant appealed to the court below and, upon plaintiff’s motion, the appeal was quashed. Defendant’s timely motion for an appeal nunc pro tunc was allowed, and from that order plaintiff appealed to this Court.
+A party appealing from the judgment of a justice of the peace may choose between two methods: (1) He may pay the costs and enter bail absolute in double the probable amount of costs accrued and likely to accrue, with one or more sureties, conditioned for the payment of all costs accrued or that may be legally recovered against appellant; or (2) enter good and sufficient bail absolute for the payment of debt, interest and costs that have accrued or will accrue upon the affirmance of the judgment, in which case appellant is not required to pay any costs' before taking the appeal. Acts of March 20, 1845, P. L. 188, 42 P.S. §921, and May 29, 1907, P. L. 306, 42 P.S. §928; Lentz v. Kittanning Real Estate Co., 72 Pa. Superior Ct. 513.
+In the instant case, an attempt was made' to follow the first method. Sufficient bail, with a qualified surety, was entered to pay the costs accrued or likely to accrue but not all the costs were paid. The costs amounted to $9.20, and only $2.75, the costs of the appeal transcript, were paid to the justice. For that reason, the court below, properly quashed the appeal. New Castle Metal Products Co. v. Campbell, 131 Pa. Superior Ct. 367, 200 A. 118; Carbaugh v. Sanders, 13 Pa. Superior Ct. 361.
+However, the court below found, and its finding is amply supported by the evidence, that the defective appeal was due to the fault of the justice of the peace, and upon that ground allowed an appeal nunc pro tunc. The judgment was rendered on November 2,1951, and during the following week an adjuster for defendant’s insurance company notified the justice that defendant would appeal. On November 19,1951, the bond was entered and on the following day the adjuster paid $2.75 for the transcript to the justice, which is the only sum demanded by the justice. The justice advised him that the transcript was not then completed and that it would be mailed. The adjuster did not receive the transcript until November 23, 1951, the last day for perfecting the appeal, and on the transcript appeared the statement that the costs amounted to $9.20.
+The adjuster was a layman, not acquainted with the legal requirements for taking an appeal. Had he been informed that the law required the payment of the accrued costs, he Avould undoubtedly have complied with it. He did pay the sum demanded by the justice for the transcript, and was prevented from paying any further sum by the failure of the justice to furnish the transcript before the last day for perfecting the appeal. While a justice is not an appellant’s legal advisor and is not obliged to instruct him concerning the proper method of taking an appeal, he is, nevertheless, under the Act of 1907, supra, “entitled to demand and receive from the appellant the costs in the case, before making and delivery of the transcripts for said appeal.” He is not only entitled to demand the costs; it is his duty to demand them. In Carbaugh v. Sanders, supra, p. 362, this Court held, construing the identical provision in the Act of June 24, 1885, P. L. 159, §1, which the amending Act of 1907, supra, re-enacted: “The manifest purpose of this statute was to secure prompt payment of the costs, not only of the justice, but of the constable and party; it is therefore not to be supposed that the legislature intended to leave compliance with its provisions optional with the justice. . . It was his duty to demand the costs and the defendant’s duty to pay them upon being informed as to the amount.” (Emphasis added.)
+The allowance of an appeal nunc pro tunc is remitted, in the first instance, to the sound discretion of the court below. But more than mere hardship must be shown to justify the exercise of that discretion, and in Higgins v. The Educators, 147 Pa. Superior Ct. 400, 403, 24 A. 2d 19, this Court held: “There must be fraud or its equivalent to permit an appeal nunc pro tunc.” That is to say, there must be proof of fraud or of facts which by their impact upon the appellant subject him to the equivalent and voiding consequences of fraud. So here, while the omission of the justice to demand his costs was not fraudulent, nevertheless, by voiding defendant’s appeal, the omission imposed upon him all the consequences of fraud. The omission, whether intentional or not, misled the adjuster .to defendant’s harm and the court below, in the exercise of an un-abused discretion, relieved him of - the justice’s fault. As Mr. Justice Agnew said in Koenig v. Bauer, 57 Pa. 168, 171: “The right of appeal and of trial by jury is' too precious to be frustrated by tbe ignorance, incompetency or malice of inferior magistrates and officers.”
+Order affirmed; costs to abide the event.
