@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 53"
+decided: "1915-07-21"
+citations: ["61 Pa. Super. 244"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Orlady, Head, Porter, Henderson, Kephart and Trexler, JJ."]
+parties: ["Toglatti v. Carrick Borough, Appellant."]
+source_url: "https://static.case.law/pa-super/61/cases/0244-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 453611
+---
+
+# Toglatti v. Carrick Borough
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+This is an appeal from the order of the Court of Common Pleas of Allegheny County refusing to allow an appeal from the judgment of the county court entered upon the verdict of a jury. A petition to the Court of Common Pleas for the allowance of an appeal set forth the reasons why a retrial of the issues of fact was necessary to prevent an injustice, as it was required to do by the Act of May 23,1913, P. L. 310. The reasons set forth were the same which had been urged in support of the motion for a new trial in the county court. Those reasons were so satisfactorily disposed of by the opinion of President Judge Way of the county court, in overruling the motion for a new trial, which will appear in the report of this case, as to render it unnecessary that we should discuss at length the questions attempted to be raised.
+The statement of claim filed by the plaintiff did not attempt to fix with mathematical precision the exact point upon the boardwalk at which the plaintiff sustained her injury. The statement averred “that along the north side of Park Lane in said borough, between the Brownsville Road and Southern Park there is a sidewalk, namely, a boardwalk for the use of pedestrians. That on October 12, 1913, at about nine a. m., the plaintiff was walking along the said boardwalk, towards the Brownsville Road, and using due diligence and when near the same she fell.” It further averred that the fall was caused through the negligence of the defendant by the defective and dangerous condition of the said boardwalk, namely, that the boards were rotted, loose and laid one upon another and were otherwise improperly laid, which condition had existed for a long time prior to the accident, which the defendant through its officers and agents knew or should have known, and that as a result of the fall the arm of the plaintiff was broken and she was otherwise injured. This statement thus drawn in general terms would have been supported by any evidence showing that the plaintiff had been injured by a fall caused by a defect in this sidewalk at any point near the Brownsville road, towards which she was walking. If the defendant had desired a more definite statement as to the precise locality of the^ accident it ought to have asked for a more specific statement or a bill of particulars. The testimony of Simon Lejeune, á witness produced by the defendant, to the effect that he found a defect in this boardwalk about twenty feet from a point opposite the eastern end of a certain bowling alley was material under the issue as framed, and evidence which had positively fixed that defect as the cause of the accident and that the borough was negligent with regard thereto • would have sufficiently sustained the statement of plaintiff’s cause of action. The plaintiff did not attempt in her testimony at the trial to fix the precise point in the boardwalk at which the accident occurred, she only said that she had passed the bowling alley. Counsel for defendant in the cross-examination of the plaintiff presented to her certain photographs and she attempted to indicate upon one of those photographs the place at which the accident occurred, but the testimony indicates that this witness found the photograph of the street confusing, and experienced difficulty in locating upon the picture the point corresponding to the place upon the ground where the accident occurred. It is certainly not improper for a jury to examine the testimony of a number of witnesses.who may seem to be in conflict as to certain details of their testimony and ascertain whether such conflict can be reconciled. The testimony of this plaintiff and that of the witness Simon Lejeune, who was produced by the defendant, was of such a character that it was for the jury to say, in the light of the testimony, whether these witnesses were not really talking about the same defect in the sidewalk, and whether the plaintiff might not have made a mistake when she attempted to indicate on the photograph the point which corresponded to the location of the accident upon the ground. We find no error in the record of the trial in the county court on the refusal of the Court of Common Pleas to allow an appeal from the judgment.
+The judgment is affirmed.
