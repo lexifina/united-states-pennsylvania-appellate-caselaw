@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+decided: "1995-04-28"
+citations: ["441 Pa. Super. 547", "657 A.2d 1302"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WIEAND, OLSZEWSKI and HOFFMAN, JJ."]
+parties: ["Virgie BLAKNEY, Appellant, v. Derrick GAY, Kristol Green, Aim-Rac, Inc., d/b/a Budget Rent-A-Car and Pennsylvania Responsibility Assigned Claims Plan, Appellees."]
+source_url: "https://static.case.law/pa-super/441/cases/0547-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 717862
+cites_cases: ["536 Pa. 583", "640 A.2d 1234"]
+---
+
+# Blakney v. Gay
+
+## Majority (WIEAND, Judge:)
+
+WIEAND, Judge:
+The issue of first impression in this appeal is whether any provisions of the Pennsylvania Motor Vehicle Financial Responsibility Law (MVFRL) preclude a corporate lessor of vehicles from waiving uninsured motorist coverage under 75 Pa.C.S. § 1731. After careful review, we conclude that such coverage may be waived by a car rental company. Therefore, we affirm the order of the trial court which dismissed an action against the car rental company to recover uninsured motorist benefits.
+While walking through an intersection in the City of Chester on November 25, 1990, Virgie Blakney was struck by a vehicle operated by Derrick Gay. Gay was operating the vehicle with the permission of Kristol Green, who had leased the vehicle from Aim-Rac, Inc., t/a Budget Rent-A-Car. Although Green had given him permission to drive the car, Gay was not an “authorized driver” within the terms of the rental agreement. Therefore, the vehicle was deemed uninsured. Blakney then made a claim for uninsured motorist benefits against Aim-Rac’s carrier, but this claim was denied because uninsured motorist coverage had been rejected by the owner-lessor. Blakney then filed an action against Green and Aim-Rac, which the court dismissed on motion for summary judgment. On appeal to this Court, Blakney does not question the summary judgment entered in favor of Green, but argues that Aim-Rac is liable for uninsured motorist benefits coverage because it wrongfully rejected such coverage. We reject this argument and affirm the order of the trial court.
+The provisions of 75 Pa.C.S. § 1731(b) specifically provide that a named insured may reject uninsured motorist coverage by signing an appropriate rejection. In this case, the parties are agreed that Aim-Rac rejected uninsured motorist coverage. Moreover, Green waived the purchase of additional coverage when she took possession of the leased vehicle.
+Appellant argues that a “named insured” is defined by 75 Pa.C.S. § 1705(f) as an “individual identified by name as an insured in a policy of private passenger motor vehicle insurance.” Therefore, she argues, a corporate rental car company is not a “named insured” who can reject such coverage under 75 Pa.C.S. § 1731. The fallacy in this argument becomes apparent immediately upon an examination of 75 Pa.C.S. § 1705. This section provides for the election of certain tort options, and the definitions contained in subsection (f) are specifically intended to apply solely to the provisions of 75 Pa.C.S. § 1705. These definitions have no application to other sections of MVFRL. Especially, they have no application to the provisions of 75 Pa.C.S. § 1731, which permit a named insured to reject uninsured motorist coverage. An “insured” is defined at 75 Pa.C.S. § 1702, inter alia, as “[a]n individual identified by name as an insured in a policy of motor vehicle liability insurance.”
+There is no statutory requirement that uninsured motorist benefits be provided by a liability carrier for third persons who may be injured by an insured vehicle. Third persons are protected by the liability feature of a vehicle’s insurance policy, and not by uninsured motorist benefits. In this case, the appellant was a third person, a stranger to the policy. She was not an insured, a relative of an insured, or an occupant of an insured vehicle. MVFRL contains no requirement that the insurer provide uninsured motorist benefits for all third persons who may be injured by an insured vehicle.
+Appellant’s arguments suggest that the trial court’s decision departs from the principle of “maximum feasible restoration” embodied in the now defunct No-Fault Act. Such a departure, however, has been dictated by the legislature. Thus, in Paylor v. Hartford Ins. Co., 536 Pa. 583, 640 A.2d 1234 (1994), the Supreme Court said:
+The repeal of the No-Fault Act and the enactment of the MVFRL reflected a legislative concern for the spiralling consumer cost of automobile insurance and the resultant increase in the number of uninsured motorists driving on public highways. The legislative concern for the increasing cost of insurance is the public policy that is to be advanced by statutory interpretation of the MVFRL. This reflects the General Assembly’s departure from the principle of “maximum feasible restoration” embodied in the now defunct No-Fault Act.
+Id. at 587, 640 A.2d at 1235.
+In this case, appellant not only has attempted to convert uninsured motorist coverage into liability coverage, but she has attempted to create uninsured motorist coverage where none existed. The trial court properly held that the rental company was not liable to appellant because it had rejected uninsured motorist coverage.
+Affirmed.
+. The carrier did pay first party benefits in the amount of five thousand ($5,000.00) dollars, which was the limit of its liability.
+. Claims against Gay and the Pennsylvania Responsibility Assigned Claims Plan were disposed of separately and are not involved in the instant appeal.
