@@ -1,0 +1,22 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 87"
+decided: "1968-06-13"
+citations: ["212 Pa. Super. Ct. 757"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth v. Jennings, Appellant."]
+source_url: "https://static.case.law/pa-super/212/cases/0757-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 783560
+cites_cases: ["232 A. 2d 623", "233 A. 2d 183", "426 Pa. 226", "426 Pa. 419"]
+---
+
+# Commonwealth v. Jennings
+
+## Majority (Pee Cueiam :)
+
+Opinion
+Pee Cueiam :
+In accordance with the opinions of the Supreme Court in Commonwealth v. Hoffman, 426 Pa. 226, 232 A. 2d 623 (1967), and Commonwealth v. Mitchell, 426 Pa. 419, 233 A. 2d 183 (1967), the record is remanded to the lower court with instructions to appoint counsel to represent appellant in a post-conviction proceeding at which his eligibility for an evidentiary hearing and/or other relief may be determined.
