@@ -1,0 +1,36 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 242"
+decided: "1968-12-12"
+citations: ["213 Pa. Super. 438"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Weight, P. J., Watkins, Montgomeey, Jacobs, Hoeeman, Spaulding, and Hannum, JJ."]
+parties: ["Local Union 249 v. W. J. Dillner Transfer Company, Appellant."]
+source_url: "https://static.case.law/pa-super/213/cases/0438-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 785333
+cites_cases: ["122 A. 2d 688", "166 A. 2d 18", "166 A. 2d 663", "206 A. 2d 18", "208 A. 2d 839", "335 Pa. 105", "369 Pa. 308", "385 Pa. 283", "402 Pa. 60", "402 Pa. 61", "416 Pa. 277", "417 Pa. 450", "6 A. 2d 571", "85 A. 2d 106"]
+---
+
+# Local Union 249 v. W. J. Dillner Transfer Co.
+
+## Majority (Hoeeman, J.,)
+
+Opinion by
+Hoeeman, J.,
+This is an appeal from the dismissal by the County Court of Allegheny County of preliminary objections to plaintiff’s complaint.
+The General Teamster, Chauffeurs and Helpers Local Union 249 (hereinafter referred to as' Union) on behalf of “all warehousemen and stevedores in the employ” of W. J. Dillner Company (hereinafter referred to as Company) filed in the County Court of Allegheny County an action in assumpsit against the Company. The complaint alleged that the Company, in breach of its collective bargaining agreement with the union, “failed to pay the appropriate contract hourly rate, minimum guaranty and overtime pay since March 1, 1961 to the present time.”
+The Company filed preliminary objections including an allegation that the lower court does not have subject matter jurisdiction. The objections were dismissed. This appeal followed.
+The Company on appeal maintains that the County Court of Allegheny County does not have subject matter jurisdiction because this action properly lies in equity over which the County Court has no jurisdiction. Act of May 5, 1911, P. L. 198, §6, 17 P.S. §626, as amended. Kemnitzer v. Kemnitzer, 335 Pa. 105, 6 A. 2d 571 (1939). In support of its position, the Company alleges that this case presents (1) a spurious class action which may only be brought in equity and (2) is in the nature of an equitable accounting.
+We need not reach the merits of this argument, however, because the order of the County Court was interlocutory and may not be appealed prior to a final determination of the ease by . that court.
+The Act of March 5, 1925, P. L. 23, §1, 12 P.S. §672, provides that a preliminary determination by a court of its jurisdiction over the defendant or of the cause of action for which suit is brought is appealable to this Court, “as in cases of final judgments.” But this right of appeal “is not intended to cover questions of jurisdiction which go to the form of the action alone as between law and equity. . . .” Act of March 5, 1925, P. L. 23, §4, 12 P.S. §675.
+In Witney v. Lebanon City, 369 Pa. 308, 85 A. 2d 106 (1952), plaintiff brought an assumpsit action in the Common Pleas Court of Lebanon County. The complaint alleged that plaintiff had completed construction work for defendant after a two year delay and that he had not been paid in full. Defendant filed preliminary objections on the basis that the contract provided for settlement by arbitration and that the arbitrator’s decision could only be attacked by a proceeding in equity. The lower court dismissed the preliminary objections and appeal was brought before the Supreme Court.
+The court held that dismissal of defendant’s preliminary objections was interlocutory. “It is clear, this being a suit in assumpsit on a contract, that the court had jurisdiction of the subject matter. Even if it should ultimately be decided that plaintiff’s action cannot be maintained because the final estimate of the engineer was, under the terms of the contract, to be conclusive, the question of jurisdiction would not be affected thereby . . . [E]ven though a plaintiff have no standing to bring his action, even though his complaint be demurrable, even though he fail to establish its allegations, even though the court should finally conclude that the relief he seeks should not be granted, not any or all of these circumstances would enter into, much less determine, the question whether the court had jurisdiction of the litigation. . . . [T]he test of jurisdiction was the competency of the court to determine controversies of the general class to which the case presented for its consideration belonged, — whether the court had power to enter upon the inquiry, not whether it might ultimately decide that it was unable to grant the relief sought in the particular case; that the Act of 1925 was not intended to furnish a short cut to a determination of the issues of law or fact raised by the pleadings and that it was not concerned with matters going to the right of the plaintiff to recover on his cause of action but only with his right to have his cause of action heard and determined. . . .
+■ “Defendant contends that if the decision of the engineer (who served as arbitrator according to defendant’s allegations) is to be attacked by plaintiff it must be by a proceeding in equity and not by action at law, but such a contention, even if valid, has no place in the determination of the question of jurisdiction. ... In the instant case the court has jurisdiction over the class of actions of which the present suit is one, even though as to this one it may ultimately be decided that plaintiff is not entitled thereunder to the relief which it seeks.”
+This principle is similarly illustrated in Korona v. Bensalem, 385 Pa. 283, 122 A. 2d 688 (1956), wherein it was held that a plaintiff may not appeal an equity court’s certification of an action to the law side. More recent cases also uphold this principle. Ridge Radio Corp. v. Glosser, 417 Pa. 450, 208 A. 2d 839 (1965); McFarland v. Weiland Packing Co., Inc., 416 Pa. 277, 206 A. 2d 18 (1965); White v. Young, 402 Pa. 61, 166 A. 2d 663 (1960); Nachod v. Nachod, 402 Pa. 60, 166 A. 2d 18 (1960).
+It is irrelevant, therefore, that it may be subsequently determined that this action should have been brought in equity. The fact is that the “class of action” involved in this case is assumpsit since it arises out of the alleged breach of a collective bargaining contract. Accordingly, as the Supreme Court indicated in Witney, the lower court, exercising its prima facie law jurisdiction, may “enter upon (this) inquiry” even though if may “ultimately decide that it was unable to grant the relief sought in the particular case.” As Witney states, the test is whether the court has jurisdiction over the general class of action, not whether it might give relief. Since the Coun'ty Court of Allegheny County clearly has jurisdiction of the general class of action in this case, there is n'o basis, at this time, upon which we might reverse its decision to consider the matter.
+The dismissal of the Company’s preliminary objections must be considered to be interlocutory.
+Appeal quashed.
+This action is brought pursuant to the National Labor Management Relations Act of 1947, as amended, Section 301, 29 U.S.C. Sec. 185 which gives state courts concurrent jurisdiction with federal courts in collective bargaining contract actions.
