@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 158"
+decided: "1907-03-05"
+citations: ["33 Pa. Super. 218"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Porter, Henderson, Morrison, Orlady and Head JJ."]
+parties: ["Heisley v. Economy Tool Manufacturing Company, Appellant."]
+source_url: "https://static.case.law/pa-super/33/cases/0218-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 868630
+cites_cases: ["1 Phila. 567", "155 Pa. 208", "2 Yeates, 347", "22 Pa. Superior Ct. 582", "22 Pa. Superior Ct. 603", "30 Pa. Superior Ct. 463", "6 Pa. Superior Ct. 50", "77 Pa. 383", "79 Pa. 290"]
+---
+
+# Heisley v. Economy Tool Manufacturing Co.
+
+## Majority (Morrison, J.,)
+
+Opinion by
+Morrison, J.,
+The action is replevin for the recovery of the possession of a planing machine of the value of $200, and a lathe of the value of $200. The writ was duly executed and the appellant entered a property bond and retained the machines. After declaration filed and an affidavit of defense on the part of the appellant, the court below on motion and argument granted judgment in favor of the plaintiff for want of a sufficient affidavit of defense. The assignments of error raise the question of the sufficiency of the declaration and of the affidavit of defense. We think the plaintiff’s declaration is a concise statement of his cause of action, and that it calls for a sufficient affidavit of defense. The declaration avers that on July 10, 1902, George Woolerton was the owner and possessor of the planing machine, and on that day he delivered it to the Economy Tool Manufacturing Company under a written contract of bailment, for a definite term, and to be returned to him at the end of the term, on the failure of the bailee to comply with the terms of the bailment; that on March 6, 1906, the bailor duly assigned the written lease or bailment to the plaintiff, and copies of said lease and assignment are annexed and made part of the declaration. That on June 28, 1902, J. W. Cregar was the owner and possessor of the lathe, and on that date it was by writing leased and bailed to said Economy company, and on March 6,*1906, the bailor assigned said lease to the plaintiff, copies of said lease and assignment being annexed and made part of the declaration. The declaration further avers default in payment of a part of the rent reserved in each lease; that the full terms of said leases have long since expired, and that the said Economy Tool Manufacturing Company has been adjudicated a bankrupt. That in violation of the terms and provisions of said leases the said machines were disposed of and. delivered wrongfully to the appellant; that demand had been made on the appellant for the surrender of said machines which demand was refused, and that plaintiff had sustained damages in the sum of $200 on each of said machines by the unlawful detaining of the same by the appellant.
+The affidavit of defense does not deny the ownership of the machines by the respective bailors, as stated in the declaration; does not deny the execution and delivery of the- leases and the machines thereunder, as stated in the declaration; does not aver the payment of the rentals reserved in said leases, and does not set up any sufficient title or right of possession in the machines as against the bailor and his assignee. The declaration complies with the requirements of the act of assembly: Act of April 19, 1901, P. L. 88. The leases under which the assignors of the plaintiff parted with the machines were bailments, and not conditional sales: Painter v. Snyder, 22 Pa. Superior Ct. 603.
+Under the Act of April 19, 1901, P. L. 88, it is not necessary for the plaintiff in replevin to anticipate in his statement of claim the defense which may be set up and traverse it. All that the plaintiff is required to do is to set forth clearly and fully his title with an averment of wrongful dispossession: Drumgoole, Appellant, v. Lyle, 30 Pa. Superior Ct. 463. The defendant or party intervening shall, within fifteen days after the filing of the declaration, file an affidavit of defense setting up the facts, denying the plaintiff’s title and showing his own title: Drumgoole v. Lyle, 30 Pa. Superior Ct. 463.
+The present affidavit of defense contains no averment that defendant or anyone else purchased the machines from anybody having title thereto; no averment that any amount was paid on account of the rentals reserved in the leases. If defendant was 'a bona fide purchaser for value and. had no notice of the bailment, it would not be sufficient, without more, to deprive plaintiff of the ownership and possession of the machines. No title is acquired by one who purchases in good faith from a mere bailee: Crist v. Kleber et al., 79 Pa. 290; Painter v. Snyder, 22 Pa. Superior Ct. 603; Nat. Cash Register Co. v. Cochran, 22 Pa. Superior Ct. 582; Miller Piano Co. v. Parker, 155 Pa. 208; Lamb v. Leader, 6 Pa. Superior Ct. 50.
+The affidavit of defense sets up nothing to estop the bailor or his assignee, the plaintiff, from recovering the property. In Pennsylvania there is no market overt, and a purchaser cannot get title to personal property by buying and paying for it to a person who has no title : Lecky v. McDermott, Administrator, 8 S. & R. 500. The affidavit of defense is wholly insufficient to meet the plaintiff’s averments of title and right of possession, and, therefore, the learned court did not err in making the rule for judgment for want of a sufficient affidavit of defense absolute.
+The assignments of error are dismissed and the judgment is affirmed.
