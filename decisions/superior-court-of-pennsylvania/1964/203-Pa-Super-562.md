@@ -1,0 +1,36 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 173"
+decided: "1964-06-11"
+citations: ["203 Pa. Super. 562"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, Wright, Woodside, Watkins, Montgomery, and Flood, JJ. (Rhodes, P. J., absent)."]
+parties: ["Bell, Appellant, v. Dornan."]
+source_url: "https://static.case.law/pa-super/203/cases/0562-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 767851
+cites_cases: ["132 A. 801", "138 A. 2d 85", "165 Pa. Superior Ct. 308", "195 A. 2d 156", "195 A. 2d 919", "202 Pa. Superior Ct. 238", "202 Pa. Superior Ct. 80", "244 Pa. 513", "286 Pa. 37", "391 Pa. 272", "67 A. 2d 823", "90 A. 922", "94 Pa. Superior Ct. 345"]
+---
+
+# Bell v. Dornan
+
+## Majority (Montgomery, J.,)
+
+Opinion by
+Montgomery, J.,
+This appeal is from an order opening a judgment entered by confession upon a judgment note dated March 5, 1954, payable in three years to the order of William Bell, Jr., and signed as follows:
+Menna M. Good
+(Corporate Chet B. Earle Inc. (Seal)
+Seal) James G. Dornan (Seal)
+On the date of the note appellant’s decedent was a vice-president and treasurer of Chet B. Earle, Inc., and actively interested in the operation and management of the used car business of the corporation. James G. Dornan was the secretary and Menna M. Good was another of its vice-presidents.
+William Bell, Jr., died on March 6, 1960; and on April 26, 1963, his executrix caused judgment to be confessed on the note against James G. Dornan, appellee, alone and individually. In his petition to open the judgment appellee alleged that the loan was made by Bell to the corporation, that his signature and that of Menna M. Good were affixed in their representative capacity as secretary and vice-president of the corporation, that their titles following their signatures were omitted by inadvertence, and that Bell was fully aware of the fact that the sole obligation was that of the corporation. These allegations were denied by the executrix-appellant. The deposition of the appellee was thereafter taken; and the order opening the judgment followed.
+Preliminarily we are asked to decide whether the lower court erred in considering the deposition of the defendant in arriving at its decision to open the judgment. Since the payee of the note, William Bell, Jr., was deceased at the time that it was entered as a judgment, Mr. Doman, as surviving party to the transaction or as a person with an interest adverse to the deceased, was incompetent to testify to matters occurring before the other party’s death under the Act of May 23,1887, P. L. 158, §5(e), 28 P.S. §322. Commonwealth Trust Company v. Szabo, 391 Pa. 272, 138 A. 2d 85 (1957). We see no reason to distinguish the present case because of the fact that this is a deposition offered in support of a petition to open a judgment and not testimony offered during the trial of a case. In our recent decision, Perlis v. Kuhns, 202 Pa. Superior Ct. 80, 195 A. 2d 156 (1963), in a situation which was the opposite of the present one, we held- that the taking of a party’s testimony by interrogatories under the rules of discovery had the effect of rendering such witness competent as though he had been interrogated on the witness stand in the trial of the case. We think that by analogy the same reasoning should be applied in the present case. Also see Seidel v. Welzel, 94 Pa. Superior Ct. 345 (1928).
+Aside from the petition, the allegations of which are denied, and the inadmissible deposition of Mr. Dornan, the only other evidence before the court was defendant’s Exhibit No. 1, which is a copy of a resolution adopted by the directors of Chet B. Earle, Inc., at a meeting held on November 18, 1954, authorizing a bank account in the Bridgeport National Bank and authorizing the bank to honor withdrawals on the signatures of someone whose name was illegible on the copy of the resolution; and defendant’s Exhibit No. 2, which was a similar resolution adopted on July 20, 1953, nominating the same bank as the company’s depository and giving it authority to honor withdrawals by “Chet B. Earle (Pres.), or Menno Good (Y. Pres.), or James G. Dornan (Seey.-Treas.).” These exhibits add nothing material to our considerations. They are merely indications of the fact that the named individuals were officers and directors of the Chet B. Earle Company, with authority to withdraw funds from the designated depository. Therefore, we must look solely to the note in order to determine if it was properly entered as a judgment against Dornan individually.
+Under the Uniform Commercial Code of April 6, 1953, P. L. 3, §3-403, 12A P.S. §3-403, it is provided: “(2) An authorized representative who signs his own name to an instrument is also personally obligated unless the instrument names the person represented and shows that the signature is made in a representative capacity. The name of an organization preceded or followed by the name and office of an authorized individual is a signature made in a representative capacity.” (Emphasis supplied)
+Mr. Dornan’s signature follows the name of the organization but does not show his office. In fact, opposite his name is the word “(Seal)” as printed on the form of note used, which is in addition to the formal corporate seal imprint which was placed on the note, presumably by the proper custodian. Therefore, we are constrained to hold that under the provision of the code previously set forth he is personally obligated on the instrument. The presence of the corporate seal does not alter our view. The note might very well have been an obligation of the corporation as well as of the appellee.
+Pittsburgh National Bank v. Kemilworth Restaurant Company, Inc., 202 Pa. Superior Ct. 238, 195 A. 2d 919 (1963), is readily distinguishable. First, the lower court had admissible depositions and undenied allegations of the petition on which to base its order. Pa. B. C. P. 209 was followed. In the present case there were neither depositions nor admitted facts. Second, there were allegations of mutual accident and mistake in that case, whereas in the present case the only allegation was that by inadvertence the office was omitted and there was no allegation of accident or mistake or that the inadvertence was mutual. In fact, in the Pittsburgh National Bank case both parties to the judgment contended that a mistake had been made in the execution of the instrument.
+Although a proceeding to open a judgment is equitable in nature and the exercise of its discretion by a lower court in opening a judgment will not be interfered with unless there is a misapplication of the law or an abuse of discretion otherwise, Brown & Bigelow, Inc. v. Borish, 165 Pa. Superior Ct. 308, 67 A. 2d 823 (1949), the action of the court must rest upon competent evidence of a material nature. Ferguson v. O’Hara, 286 Pa. 37, 132 A. 801 (1926); Donnelly v. Donnelly, 244 Pa. 513, 90 A. 922 (1914).
+In the absence of any material evidence and in the light of the aforesaid section of the Uniform Commercial Code, we must conclude that the lower court abused its discretion when it opened this judgment.
+Order reversed and judgment reinstated.
