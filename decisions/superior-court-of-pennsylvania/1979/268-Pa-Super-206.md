@@ -1,0 +1,49 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "73"
+decided: "1979-07-26"
+citations: ["268 Pa. Super. 206", "407 A.2d 1318"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before VAN der VOORT, WATKINS and LIPEZ, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Otis Ray BROWN, Appellant."]
+source_url: "https://static.case.law/pa-super/268/cases/0206-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 127054
+cites_cases: ["111 Ga.App. 588", "142 S.E.2d 409", "156 Ind.App. 145", "173 A.2d 886", "191 Tenn. 626", "212 Pa.Super. 504", "231 A.2d 265", "233 A.2d 154", "234 Pa.Super. 230", "235 S.W.2d 801", "243 A.2d 483", "27 A.D.2d 234", "277 Md. 314", "278 N.Y.S.2d 67", "295 N.E.2d 635", "3 Storey 583", "338 A.2d 683", "353 A.2d 256", "47 A.L.R.2d 570", "53 Del. 583", "551 P.2d 935"]
+---
+
+# Commonwealth v. Brown
+
+## Majority (LIPEZ, Judge:)
+
+LIPEZ, Judge:
+Appellant was found guilty, by a jury, of violating section 3731 of the Vehicle Code, which provides, in relevant part, that “[a] person shall not drive any vehicle while . under the influence of alcohol . . . .” He alleges, on this appeal, that the trial court erred in instructing the jury on the elements of the offense. We agree, and therefore vacate the judgment of sentence and remand the cause for a new trial.
+The Commonwealth’s evidence was in the form of testimony by witnesses who had observed appellant and his vehicle during the time in question. One witness testified that, after seeing appellant’s car go past him on the highway, he had lost sight of it briefly, but had then come upon it as it slowed down and stopped. The witness identified appellant as the person he had seen in the car after it had stopped. This witness and others (including the arresting state police officer) stated that, when they approached appellant’s vehicle, appellant was in the driver’s seat with his hands on the steering wheel. The car’s engine was running, the headlights and windshield wipers were on, and the car was in gear. Appellant smelled strongly of alcohol, had a bottle between his legs, and had difficulty speaking and in getting out of his car. The state police officer testified that, while he was telling appellant to get out of the car, it suddenly moved forward approximately one and one-half feet. The officer stated that he then reached inside the car, took it out of gear, and shut off the engine.
+The court below charged the jury that, “[t]o be found guilty of this offense of driving under the influence, it is not necessary that the vehicle itself must be in motion. It is sufficient that the operator is in actual physical control of the movements of either the machinery of the motor vehicle or the movements of the vehicle itself.” Although there is no Pennsylvania case interpreting the Legislature’s use of the word “drive” in the Vehicle Code, the weight of authority in other jurisdictions clearly supports the conclusion that such a charge is incorrect.
+We note first that the Pennsylvania Vehicle Code of 1959 proscribed operating a vehicle under the influence of alcohol, and that the Vehicle Code of 1976 has substituted the word “drive” for “operate.” We must presume that the Legislature acted intentionally in making such a change. See 1 Pa.C.S.A. § 1921.
+In 1943, the State of Maryland amended its motor vehicle statutes in a similar manner replacing “operate or drive or attempt to operate or drive” with “drive or attempt to drive.” See Md.Code 1957, Art. 66I/2, § ll-902(b). In Thomas v. State, 277 Md. 314, 353 A.2d 256 (1976), the Court of Appeals of Maryland reversed a conviction under this statute, stating that “the term ‘operate’ is generally regarded as being broader than the term ‘drive[,]’ ” and holding that the evidence was insufficient to find appellant guilty of driving while under the influence of alcohol because the prosecution had offered no proof that the appellant had had his vehicle in motion during the period of time in question. 353 A.2d at 262-63.
+After a similar change in Delaware’s motor vehicle laws, the Supreme Court of that state held:
+The words “operating” and “driving” are not synonymous; they have well-recognized statutory distinctions. Of the two terms, the latter is generally accorded a more strict and limited meaning. The term “driving” is generally used to mean, in this connection, steering and controlling a vehicle while in motion; the term “operating,” on the other hand, is generally given a broader meaning to include starting the engine or manipulating the mechanical or electrical devices of a standing vehicle. [Citation omitted.] The two words have been thus distinguished in Delaware. See State v. Pritchett, 3 Storey 583, 53 Del. 583, 173 A.2d 886 (1961).
+Applying these definitions, the term “driving” is encompassed within the term “operating,” but the reverse is not necessarily so. One may not drive a vehicle without operating it; but one may operate the engine or devices of a vehicle without driving it. Otherwise stated: While all driving is necessarily operation of a motor vehicle, not all operation is necessarily driving.
+We conclude that the Legislature intended thus to limit the Statute when ... it substituted the term “driving” for the term “operatingf.]”
+McDuell v. State, 231 A.2d 265, 267 (Del.1967). See State v. Joswick, 233 A.2d 154 (Del.1967) (charge of operating a motor vehicle while under the influence of intoxicating liquor did not charge a violation of a statute which prohibits driving a motor vehicle while under the influence of intoxicating liquor).
+The Indiana case of Poling v. State, 156 Ind.App. 145, 295 N.E.2d 635 (1st Dist.1973), is on all fours with Thomas and McDuell. In reversing appellant’s conviction, the Court of Appeals held:
+Indiana imposes a criminal sanction for “driving” a vehicle while under the influence of liquor. Our statute does not contain the word “operating,” as do the statutes of some of the other states.
+Since these two key words have been interpreted in several jurisdictions and since Indiana’s statute was recently revised, we must presume the Legislature used the word “drive” intentionally.
+In those jurisdictions where the word “drive” is used, it has been interpreted as requiring the vehicle to be in motion, not merely standing still with the engine running. “Operate,” on the other hand, has been defined more broadly to include merely controlling the vehicle.
+In view of the above, we must conclude that the Indiana statute prohibits a defendant from “driving” a vehicle in the common meaning of the word, i. e., to cause the vehicle to be in motion. See Black’s Law Dictionary (4th Ed. revised 1968).
+Id. at 637.
+A great many other jurisdictions (including those whose statutes contain the word “operate” whether or not in conjunction or dysjunction with the word “drive”) are in accord on the principle, basic to the interpretation of all such statutes, that the word “drive” connotes a vehicle set in motion by its driver, and that the definition of the word “operate” includes and is markedly broader than that of “drive.” See e. g., Jacobson v. State, 551 P.2d 935, 937 (Alaska 1976); Bradam v. State, 191 Tenn. 626, 235 S.W.2d 801, 802 (1950), rehearing denied; Prudhomme v. Hults, 27 A.D.2d 234, 278 N.Y.S.2d 67, 69 (3d Dep’t 1967); Williams v. State, 111 Ga.App. 588, 590, 142 S.E.2d 409, 411 (1965). See also 7 AmJur.2d § 256; Annot., 47 A.L.R.2d 570 § 3 at 573-75. In light of the overwhelming weight of authority on this issue, most of which antedates the passage of section 3731, we presume that our Legislature acted intentionally and with regard to such authority when it enacted the Vehicle Code of 1976.
+In the instant case, therefore, the trial court’s instruction to the jury that the vehicle need not be in motion was error. In order to prove that a defendant charged with a violation of section 3731 “drove” a motor vehicle, evidence must be adduced showing that the vehicle was (at the time in question), in fact, in motion. The jury in this case, under the instructions actually given by the trial court, were not afforded the opportunity to examine the evidence according to the law.
+Judgment of sentence vacated and cause remanded for new trial.
+. 75 Pa.C.S. § 3731.
+. 75 P.S. § 1037 (repealed). Section 1037 provided, in relevant part, that “[i]t shall be unlawful for any person to operate a motor vehicle . while under the influence of intoxicating liquor . . . .”
+Cases under the now-repealed section 1037 had dealt with the term “operate” as follows:
+While it is not necessary that the vehicle itself be in motion, it is required that “the operator be in actual physical control of the movements of either [sic] the machinery of the motor vehicle or of the management of the movement of the vehicle itself.”
+Commonwealth v. Kriner, 234 Pa.Super. 230, 234, 338 A.2d 683, 685-86 (1975); Commonwealth v. Kallus, 212 Pa.Super. 504, 507-08, 243 A.2d 483, 485 (1968).
+. See 75 Pa.C.S. § 3731(a).
+. N.B. In 1969, the Maryland statute was once again amended to add the phrase “or be in actual physical control of any vehicle.” The prosecution in Thomas argued on appeal that the evidence was sufficient to show that Thomas had been in actual physical control of his car. In giving short shrift to the State’s argument, the Maryland Court of Appeals illustrated further, from a different perspective, the extremely narrow meaning accorded the term “drive:”
+“Accordingly, when the General Assembly added the words ‘in actual physical control of any vehicle’ to the statute it must have intended a meaning different from driving or attempting to drive. The argument of the State here that Thomas was in actual physical control of the vehicle is without merit for a very simple reason, namely, he was never so charged.”
+353 A.2d at 258.
