@@ -1,0 +1,94 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1450 C.D. 1993"
+decided: "1994-09-20"
+citations: ["167 Pa. Commw. 533", "648 A.2d 1261"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before SMITH and KELLEY, JJ., and LORD, Senior Judge."]
+parties: ["SELINGSGROVE AREA SCHOOL DISTRICT, Appellant, v. SNYDER COUNTY, Snyder County Board of Assessment Appeals, and Hugh Brooks."]
+source_url: "https://static.case.law/pa-commw/167/cases/0533-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1466693
+cites_cases: ["154 Pa.Commonwealth Ct. 266", "26 Pa.Commonwealth Ct. 580", "29 L.Ed.2d 745", "364 A.2d 982", "421 U.S. 349", "518 Pa. 150"]
+---
+
+# Selingsgrove Area School District v. Snyder County
+
+## Majority (KELLEY, Judge.)
+
+KELLEY, Judge.
+Selinsgrove Area School District (Selinsgrove) appeals the May 21, 1993 order of the Court of Common Pleas of Snyder County (trial court) that affirmed the decision of the Snyder County Board of Assessment Appeals (board) granting Hugh Ballard Brooks’ (Brooks) request for reclassification under the General County Assessment Law (Law). We reverse.
+Brooks was ordained a Southern Baptist minister in 1953 and received a Bachelor of Divinity degree from the Southern Baptist Theological Seminary in 1957. He served as a pastor from 1957 through 1973 in various baptist congregations. In 1973, Brooks left the pastorate, began work on a doctoral degree in higher education, and taught recreation and parks, leadership, community organization and group dynamics at the Pennsylvania State University. (Reproduced Record (R.) at 122a.)
+In 1976, Brooks founded the non-profit Delaware corporation Re-Creation, a traveling musical entertainment group not affiliated with any religious organization. When Re-Creation was formed, Brooks adopted the Christian symbol of the ithuse fish to represent the group in all of its advertising. (R. at 115a.) Re-Creation operates on a budget of about $250,-000. 00.per year, part of which is funded by several sources: the BVL fund (an extension of the Bowler’s Victory Legion); the Elks National Service Committee; various churches; and individual contributors. (R. at 136a.)
+Brooks is the president and chairman of Re-Creation’s board of directors which meets one time every year for one day. Brooks receives a salary for directly handling ReCreation’s daily operations, which include traveling with the group, writing and choreographing its performances, sewing costumes, repairing vehicles, and raising funds to support the group. At the request of the Veterans Administration (VA), Re-Creation took over the responsibilities of the USO in 1981 and began devoting most of its performance time to the VA medical centers throughout the United States. (R. at 110a.) Currently, Re-Creation puts on paid performances at 160 VA medical centers per year, free performances at 75 to 80 churches per year, and paid and free performances for other groups and organizations by invitation. (R. at 115a.)
+Re-Creation performs only secular programs for the VA since it is not permitted by the VA to perform religious programs. When giving a paid performance somewhere other than the VA, Re-Creation performs Christian programming only if it is permitted to by its host. When hosted by a church or giving a free performance elsewhere, Re-Creation performs Christian programming.
+Pursuant to the Law, the chief assessor classified Brooks’ occupation as “manager — not covered otherwise” in 1981. Based on that classification, Selinsgrove has levied an occupation tax upon Brooks since 1981. At some time between 1986 and 1991, the classification “clergyman”, which is undefined under the Law, was officially exempted from occupational tax in Snyder County. (R. at 77a.) On October 24, 1991, Brooks requested that the chief assessor reclassify him from “manager — not covered otherwise” to “clergyman” for the year 1992 and thereafter. On October 28, 1991, the chief assessor granted Brooks’ request and reclassified him under the Law as a “clergyman”.
+Selinsgrove appealed Brooks’ reclassification by the chief assessor to the board. At a hearing held on October 1, 1992, the board heard Brooks’ testimony and affirmed the chief assessor’s decision to reclassify Brooks from “manager — not covered otherwise” to “clergyman” under the Law.
+Pursuant to section 704(a) of the Law, 72 P.S. § 5453.704(a), Selinsgrove appealed the board’s decision to the trial court. The trial court conducted a de novo hearing at which Brooks was the sole witness.
+After this hearing, the trial court concluded Re-Creation’s secular activities to be infused with Brooks’ religious mission and held that Brooks could not have an occupational tax assessed on him based on the classification “manager — not covered otherwise”. In making its decision, the trial court relied on Stajkowski v. Carbon County Board, 518 Pa. 150, 541 A.2d 1384 (1988) and Baylor v. Centre County, 154 Pa.Commonwealth Ct. 266, 623 A.2d 882 (1993).
+In Stajkowski, our Supreme Court held that the Free Exercise Clause of the First Amendment of the United States Constitution exempted Stajkowski from occupational tax since he was a clergyman. Stajkowski was a Roman Catholic priest who served as the pastor of a Catholic Church which required him to perform ecclesiastical duties which encompassed religious (carrying out the ministry of Christianity and Catholicism) and secular (managing the real estate and business affairs of the parish) aspects.
+In Baylor, this court held that an occupation tax levied upon a Baptist minister engaged in religious education violated the reverend’s First Amendment rights. Baylor was an ordained minister directly involved with the Baptist church who worked primarily to promote the Christian Baptist religion through education. Baylor was asked by five Baptist congregations to help establish a Christian Academy to teach the children of those congregations. Baylor served as the administrator of the Christian Academy during the time he requested exemption from occupational, tax. Id. at 266, 623 A.2d at 882.
+Relying on Meek v. Pittenger, 421 U.S. 349, 95 S.Ct. 1753, 44 L.Ed.2d 217 (1975), the Baylor court concluded that the secular aspects of Baylor’s position as administrator of a Christian Academy were so “infused with the religious mission” of the school that he was entitled to exemption from occupation tax in accordance with the Free Exercise Clause of the First Amendment. Id. 154 Pa.Cmwlth. at 274, 623 A.2d at 886.
+The trial court entered an order affirming the board’s reclassification of Brooks from “manager — not covered otherwise” to “clergyman” and Brooks was exempted from occupational assessment tax. It is from that order that Selinsgrove has appealed to this court.
+Selinsgrove presents two questions to this court on appeal: (1) whether the trial court committed an error of law or abused its discretion in basing its decision on the Stajkowski and Baylor cases; and (2) whether the trial court committed an error of law or abused its discretion in failing to hold that an occupation tax on Brooks as a “manager — not covered otherwise” is not a tax on the occupation “clergyman” since Brooks’ occupation is not that of a clergyman and in no event does an occupational tax violate Brooks’ rights under the Free Exercise Clause of the First Amendment of the United States Constitution.
+The question of entitlement to a tax exemption is a mixed one of law and fact and, absent any abuse of discretion or lack of supporting evidence, the decision of the trial court is binding on this court. Lutheran Social Services v. Adams County Board for Assessment and Revision of Taxes, Tax Exemption Case, 26 Pa.Commonwealth Ct. 580, 364 A.2d 982 (1976).
+Before this court, Selinsgrove argues that Brooks is not a clergyman since he is not affiliated with any church and no longer performs any pastoral functions. Selinsgrove contends that Brooks’ actual position is as a manager of a non-profit Delaware corporation primarily engaged in the secular entertainment business. Selinsgrove also argues that Brooks’ secular activities with Re-Creation are not infused with the Christian doctrine and that under the Law he should not be exempt from occupational tax.
+In response, the board contends that Brooks has an unorthodox approach to his ministry and that Re-Creation’s primary purpose is to spread the Christian doctrine even though the group supports itself in part by producing secular entertainment programs for the VA medical centers.
+The occupation assessment tax was levied by Selinsgrove on Brooks until 1991 pursuant to 72 P.S. § 5453.201(b) which provides:
+Subjects of taxation enumerated
+The following subjects and property shall as hereinafter provided be valued and assessed and subject to taxation for all county, borough, town, township, school, (except in cities), poor and county institution district purposes, at the annual rate,
+(b) All salaries and emoluments of office, all offices and posts of profit, professions, trades and occupations, and all persons over the age of eighteen years who do not follow any occupation or calling, as well as unnaturalized foreignbom persons who shall have resided within this Commonwealth for one whole year as citizens of this Commonwealth.
+Brooks described Ms involvement with Re-Creation and its activities on direct examination before the trial court:
+A Since 1976 the work of Re-Creation has been the mimstry____ In 1981 the mimstry made a turn toward an absolute kind of work in the veterans’ hospitals ... throughout the Urnted States.
+Q [L]et me ask you some questions to get specific on the Re-Creation program in the Veterans’ Medical Centers. Is the musical program presented religious present or a secular program?
+A Music presented life [sic] m the VA Medical Centers is secular music, family music.
+Q Okay. Other than that specific concert or performance, what other work or what other things do the people in Re-Creation do in that ... medical center in the course of the day they’re there?
+A They arrive normally four hours before show time, all uMoad their equipment, change to performance clothing and then visit all the wards in the rooms in the medical center where there are patients who will be unable to come to the show because of some kind of disability they cannot overcome. Then they help push wheelchairs and litters to the performance; they perform for the men; and in every show they sing in the audience, touching and loving. And they help move the patients back to the rooms and then pack up their equipment and move onto [sic] another VA.
+Q [I]s there any material that is presented to or left with the audience of a religious nature?
+A Yes sir. Re-Creation does two Mnds of programming. One is the family music program, wMch is designed to allow us to have a mimstry where we would not be invited as a religious group; the other is the religious program. And that program is a Christian Mimstry in the truest sense of the word, not a church mimstry, but a Christian Mimstry and we do a videotape and an audiotape of each program. Both of those tapes are left at the VA Medical Center.
+We raise the money each year to pay for the costs of those tapes and they are left at the VA Medical Center. Both tapes are played over the medical center in-house television sets for the purpose of the patients’ use —
+Q Other than performances at the VA Hospitals, where else does Re-Creation perform? And can you quantify how much of those performances are religious music performances?
+A Most of the work of Re-Creation is in VA Medical Centers. The group performs two times every Sunday when we are in the area and where there are churches where we have contacts. We probably present the gospel in 75 to 80 churches every year and in each of those performances I speak as a minister. And the performance itself is of the gospel in every song we use. We write most of the songs our group sings and all of those are gospel music.
+Q Are there charges made to the organizations or the churches for those performances?
+A No, sir. Freewill offering only.
+Q Do you perform for service clubs and organizations from time to time?
+A Yes, we do.
+Q Are those organizations charged for the performance?
+A On some occasions they are, on others they’re not.
+Q Are those religious performances religious or strictly secular performances?
+A It depends on what the organization requests.
+Q Does Re-Creation produce any recordings of its music?
+A Yes, sir. Full audio and full videotapes every year.
+Q Is this of which type of music?
+A Both.
+Q Both?
+A The secular and the sacred.
+Q Is that a source of income?
+A Yes, sir. We have people who every year buy both the secular and sacred videotapes for our VA Medical Centers and for the purpose of therapy, Christian Ministry.
+(R. at 109a-17a.)
+On cross-examination, Brooks further testified:
+A We don’t use the secular program as a subterfuge to try to carry the Christian message where it would not be allowed---- We are very sensitive to the needs of the people who are around us and we were never told by Jesus that we had to intrude upon their privacy. We were only today told by Jesus to administer them.
+Q [Y]ou testified that you don’t administer the sacraments and you fulfill no pastoral functions, is that correct?
+A That is correct, sir____
+(R. at 127a, 136a.)
+Based on Brooks’ testimony, we cannot agree with the trial court’s holding based on Stajkowski that Brooks is a “clergyman” within the meaning of the Law since Brooks’ professional responsibilities are not comparable with those traditionally held by clergymen. We note that Brooks primarily performs secular duties in handling Re-Creation’s daily operations, is not affiliated with any church, no longer performs any pastoral functions and preaches “for freewill offering only” when Re-Creation is able to give a religious performance between its secular performances for the VA medical centers. (R. at 109a-17a.) This evidence indicates that Brooks does not perform his secular activities as an adjunct to promoting the Christian doctrine. Rather, this evidence indicates that Brooks promotes the Christian doctrine as an adjunct to performing his secular duties for Re-Creation.
+Nor can we agree "with the trial court’s conclusion based on Baylor that Brooks’ secular duties and activities with Re-Creation are infused with the Christian doctrine. Brooks’ own testimony establishes that Re-Creation’s secular activities do not reflect the Christian beliefs held by Brooks or Re-Creation’s members and are not used as a way for Brooks or Re-Creation to promote the Christian doctrine. We note that Brooks stated on cross-examination that when Re-Creation is being paid for a performance, Re-Creation performs “what the organization requests” and does not use its secular programming to promote its Christian beliefs, since Re-Creation doesn’t use its secular programming “as a subterfuge to try to carry the Christian message where it would not be allowed.” (R. at 116a, 127a.)
+Brooks’ testimony establishes that his secular activity is distinct from and is not infused or intertwined with a religious doctrine. In light of the relevant caselaw interpreting the Free Exercise Clause of the First Amendment, there is no evidence which indicates that an occupational assessment tax taxes Brooks on his religious belief and the practice of that religious belief.
+Therefore, this court holds that Selinsgrove’s levy of an occupation tax upon Brooks is not a violation of Brooks’ First Amendment rights.
+Accordingly, the order of the trial court is reversed.
+ORDER
+NOW, this 20th day of September, 1994, the order of the Court of Common Pleas of Snyder County, dated May 21, 1993, at No. 345-1992, is reversed.
+. This reclassification exempted Brooks from occupation assessment tax levied by Selinsgrove.
+. Act of May 21, 1943, P.L. 571, as amended, 72 P.S. § 5453.201.
+. Brooks’ salary is $24,000.00 per year. (R. at 129a.)
+. Re-Creation produces audio and visual recordings of its secular and religious performances which are gifted by Re-Creation and available for purchase. Re-Creation is permitted by the VA to leave free audio and visual tapes of both its religious and secular performances for patients’ use.
+. The record is not clear on this matter.
+. The record reflects that on October 24, 1991, Brooks also requested from the chief assessor a refund for the occupational tax paid by him for the tax year 1991-1992. Brooks’ occupational tax for that year was $588.00. (R. at 48a.) It is unclear from the record whether this request was granted. Neither party has addressed this issue on appeal to the trial court or to this court.
+. For reasons unclear from the record, Selinsgrove filed two appeals with the trial court. Appeal No. 257-1992 was filed on July 20, 1991, and Appeal No. 345-1992 was filed on October 22, 1994. The trial court treated Appeal No. 257-1992 as abandoned, and proceeded with Appeal No. 345-1992. Neither party objected.
+. The Meek court stated:
+The very purpose of many of those schools is to provide an integrated secular and religious education; the teaching process is, to a large extent, devoted to the inculcation of religious values and belief. See Lemon v. Kurtzman, 403 U.S. [602], at 616-617, 91 S.Ct. [2105], at 2113 [29 L.Ed.2d 745 (1971)]____ '[T]he secular education those schools provide goes hand in hand with the religious mission that is the only reason for the schools’ existence. Within the institution, the two Eire inextricably intertwined.' Id.., at 657, 91 S.Ct., at 2133 (opinion of Brennan, J.).
+Meek, 421 U.S. at 366, 95 S.Ct. at 1763-64.
+. The trial court noted in its opinion that Brooks’ reclassification was made without proper notice to Selinsgrove but did not address the issue of notice in its opinion. Selinsgrove has not raised this issue on appeal to this court.
+. Before the trial court, Brooks described Re-Creation’s secular programming as including any combination of country music, show music, pop music and patriotic music. (R. at 135a-36a).
