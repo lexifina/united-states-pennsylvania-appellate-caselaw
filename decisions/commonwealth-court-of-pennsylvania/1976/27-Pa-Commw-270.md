@@ -1,0 +1,48 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 43 C.D. 1976"
+decided: "1976-12-01"
+citations: ["27 Pa. Commw. 270"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Mencer and Blatt, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania, Department of Environmental Resources v. Locust Point Quarries, Inc. Commonwealth of Pennsylvania, Department of Environmental Resources, Appellant."]
+source_url: "https://static.case.law/pa-commw/27/cases/0270-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1877211
+cites_cases: ["119 A.2d 613", "145 A.2d 178", "16 Pa. Commonwealth Ct. 181", "16 Pa. Commonwealth Ct. 405", "17 Pa. Commonwealth Ct. 183", "17 Pa. Commonwealth Ct. 317", "180 Pa. Superior Ct. 159", "2 Pa. Commonwealth Ct. 441", "25 Pa. Code §121.1", "25 Pa. Code §123.1", "25 Pa. Code §123.13", "279 A.2d 388", "306 A.2d 308", "321 A.2d 917", "328 A.2d 552", "329 A.2d 874", "331 A.2d 582", "332 A.2d 568", "394 Pa. 1", "452 Pa. 77", "456 Pa. 495"]
+---
+
+# Commonwealth v. Locust Point Quarries, Inc.
+
+## Majority (President Judge Bowman,)
+
+Opinion by
+President Judge Bowman,
+Appellee, Locust Point Quarries, Inc., operates a limestone quarrying plant in Silver Spring Township, Cumberland County. On February 4, 1975, the Department of Environmental Resources (DER) executed a criminal complaint charging appellee with four counts of violating Chapter 123, Section 123.1 of the Rules and Regulations of the DER (Regulations), 25 Pa. Code §123.1, contrary to Section 8 of the Air Pollution Control Act (Act), Act of January 8,1960, P.L. (1959) 2119, as amended, 35 P.S. §4008. Specifically, the complaint alleged that on August 21, 26 and 28, and on September 10, 1974, appellee did “cause, suffer or permit the emission into the outdoor atmosphere of a fugitive air contaminant (said contaminant being limestone dust) from the . . . operations located at its plant. ...”
+Pursuant to Section 9 of the Act, 35 P.S. §4009, summary proceedings were held before a district justice. Appellee demurred to the Commonwealth’s evidence and was found guilty on all counts. A fine of $2,000.00 was imposed. An appeal was taken to the Court of Common Pleas of Cumberland County where a de novo hearing was held and the conviction reversed. It is from this decision that DER appeals.
+The Commonwealth’s ease at the de novo hearing, where again appellee demurred, consisted of testimony from two ‘ ‘ environmental protection specialists ’ and three photographs purporting to illustrate the allegedly illegal fugitive emissions. The record shows that on the four dates in question fugitive emissions of limestone dust were observed emanating from various points along the process. However, no measurements were taken of these emissions as to the amount of particulate matter involved, the distance it traveled, or over how long a period of time it was produced.
+Judge Weidneb of the court below, in his decision to reverse the summary conviction, found that fugitive emissions had indeed been present as alleged, but reasoned that proof of a violation of Section 123.1 of the Regulations could not support a criminal conviction without a concurrent showing of “air pollution” as defined in Section 3(5) of the Act, 35 P.S. §4003(5). We affirm the decision of the court below, but shall not impose upon DER the burden of proving “air pollution” in every prosecution brought under Section 123.1. See Commonwealth v. Harmar Coal Co., 452 Pa. 77, 306 A.2d 308 (1973).
+To dispose of this appeal it is necessary to examine the language of the Act and those regulations promulgated pursuant to Section 5 thereof, 35 P.S. §4005.
+Section 123.1 of the Regulations provides, in pertinent part:
+(a) No person shall cause, suffer, or permit the emission into the outdoor atmosphere of any fugitive air contaminant from any source. . . .
+“Air contaminant” is defined in Section 3(4) of the Act, 35 P.S. §4003(4), as “[s]moke, dust, fumes, gas, odor, mist, vapor, pollen, or any combination thereof.” “Fugitive air contaminant” is then defined in Section 121.1 of the Regulations as “[a]ny air contaminant emitted into the outdoor atmosphere in any manner other than through a flue. ’ ’
+It is uncontested that the emissions with which we are concerned were of the fugitive variety, and DER urges us to accept Section 123.1 of the Regulations as a total prohibition of such emissions. Despite the seemingly clear language of Section 123.1 quoted above, we are unable to accept this contention.
+Section 8 of the Act makes it a criminal offense to violate either a rule or regulation promulgated by the Environmental Quality Board pursuant to Section 5 of the Act. Chapter 123 of the Regulations, when used as the basis of a criminal prosecution, is thus in the nature of a penal statute to be strictly construed against the Commonwealth. Commonwealth v. Duncan, 456 Pa. 495, 321 A.2d 917 (1974).
+We look, therefore, to Section 123.13 of the Regulations, 25 Pa. Code §123.13, which sets forth the maximum permissible emission rates for various processes, including “ [c]rushers, grinders, or screens,” and emphasize that the Commonwealth has offered no evidence to support the conclusion that such standards were exceeded.
+The Commonwealth argues that Section 123.13 of the Regulations has no application to fugitive emissions; that fugitive emissions are governed solely by the total prohibition of Section 123.1 of the Regula tions; and that fugitive emissions cannot even be measured. In view of the criminal nature of these proceedings, we are unable to accept these contentions as it cannot be said with the necessary degree of certainty that Section 123.13 excludes from its scope fugitive emissions.
+First, while Section 123.13 of the Regulations falls under the broad title of “Particulate Matter Emissions” as opposed to Section 123.1, which falls under the title “Fugitive Emissions,” we can find no basis upon which to limit Section 123.13 to emissions other than fugitive emissions. “Particulate matter,” as defined in Section 121.1, is not distinguishable from fugitive emissions as defined in the same section. Nor does the language of Section 123.13 exclude from its scope fugitive emissions.
+Secondly, in The Crary Home v. DeFrees, 16 Pa. Commonwealth Ct. 181, 185, 329 A.2d 874, 876 (1974), a civil proceeding, we stated that:
+A statute (or ordinance) should, when possible, be construed to give effect to all of its provisions, Bethel Township Veterans Home Association Liquor License Case, 180 Pa. Superior Ct. 159, 165, 119 A.2d 613, 616 (1956), and a particular section of a piece of legislation should (absent legislative direction to the contrary) be construed as an integral part of the whole, and not as a separate portion with an independent meaning. Commonwealth of Pennsylvania Water and Power Resources Board v. Green Spring Company, 394 Pa. 1, 6, 145 A.2d 178, 181 (1958) . . . See Statutory Construction Act of 1972, 1 Pa. S. §1922(2).
+See also Keitt v. Ross, 17 Pa. Commonwealth Ct. 183, 331 A.2d 582 (1975). We see no reason why this rule of interpretation should not apply to a criminal proceeding under duly authorized regulations which have the force of law. Newport Homes, Inc. v. Kassab, 17 Pa. Commonwealth Ct. 317, 332 A.2d 568 (1975); Herdelin v. Greenberg, 16 Pa. Commonwealth Ct. 405, 328 A.2d 552 (1974).
+We hold, therefore, that Sections 123.1 and 123.13 of the Regulations are equally applicable to this case and must be read together, so that to prove a criminal violation of Section 123.1, as modified by Section 123.13, scientific evidence must be introduced proving beyond a reasonable doubt that the offensive fugitive emissions exceeded the permissible maximum set forth in Section 123.13.
+The evidence offered by the Commonwealth is clearly inadequate to support a criminal conviction in view of what was said by this Court in Bortz Coal Co. v. Commonwealth, 2 Pa. Commonwealth Ct. 441, 458, 279 A.2d 388, 398 (1971), to the effect that visual observations of emissions will not suffice to support an abatement order where “recognized scientific tests are available.” If, ás DER contends, no such tests exist for fugitive emissions, amendments to the Regulations will have to be made before a conviction such as this will be allowed to stand.
+For the aforementioned reasons, the decision of the court below is affirmed.
+Order
+Now, December 1, 1976, the decision of the court below is affirmed.
+Only one testified before the district Justice.
+Process is used here as it is defined in Section 121.1 of the Regulations, 25 Pa. Code §121.1:
+“Any method, reaction, or operation in which materials are handled or whereby materials undergo physical change (i.e., the size, shape, appearance, temperature, state or other physical property of the material is altered) or chemical change (i.e., a substance or substances with different chemical composition or properties are formed or created). A process includes all of the equipment and facilities necessary for the completion of the transformation of the materials to produce a physical or chemical change. There may be several processes in series or in parallel necessary to the manufacture of a product.”
+“Any material, except uncombined water, which is or has been airborne and exists as a solid or liquid at 70° F. and 14.7 pounds per square inch absolute pressure.”
+This rulé is certainly no less applicable to criminal proceedings.
