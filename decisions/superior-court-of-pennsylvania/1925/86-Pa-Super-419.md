@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 45"
+decided: "1925-11-13"
+citations: ["86 Pa. Super. 419"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, Henderson, Trexler, Keller, Linn and G-awthrop, JJ.", "Before Lloyd, J."]
+parties: ["Powel, Appellant, v. Kahler."]
+source_url: "https://static.case.law/pa-super/86/cases/0419-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 570072
+cites_cases: ["11 Pa. Superior Ct. 15", "112 Pa. 272", "125 Pa. 310", "129 Pa. 94", "155 Pa. 67", "166 Pa. 217", "167 Pa. 429", "171 Pa. 644", "180 Pa. 448", "198 Pa. 283", "203 Pa. 334", "277 Pa. 81", "279 Pa. 317", "35 Pa. Superior Ct. 84", "39 Pa. Superior Ct. 160", "53 Pa. 204", "76 Pa. Superior Ct. 315", "98 Pa. 13"]
+---
+
+# Powel v. Kahler
+
+## Majority (Keller, J.,)
+
+Opinion by
+Keller, J.,
+The plaintiff, Powel, brought his action of replevin in Northumberland County to recover possession of a motor truck leased by him to the defendant, Kahler. Hoover intervened as a party defendant, claiming title under Kahler by virtue of a constable’s sale against the latter. Plaintiff appeals from the refusal of the court below to enter judgment in his favor for want of a sufficient affidavit of defense, under the provisions of the Act of April 19, 1901, P'. L. 88.
+From the pleadings in the case it appears that the motor truck in question was delivered by the plaintiff to Kahler under ¡a bailment lease. The contract was clearly one of bailment. It leased and demised the truck in suit, and one other, to Kahler for the term of twelve months, at a rental of $1,600, payable in instalments as therein provided, and contained an express stipulation that the lessee would surrender the same to the lessor at the expiration of the lease, in as good condition as when he took the same, natural wear excepted; it provided that upon such surrender if the rent had been fully paid, the lessee could purchase the trucks for $1,650, and apply the rent paid on account of the purchase price; the lessee further covenanted that he would not sublet or dispose of the trucks or remove them from the limits of Delaware County, without the consent of the lessor endorsed in writing. There were other provisions which need not be referred to; none of them affected the character of the contract as a bailment.
+The intervening defendant, Hoover, in his affidavit of defense, set up his purchase of the truck ¡at a constable’s sale on an execution against Kahler; but, of course, he obtained no title if Kahler had none to sell. To overcome this objection he set up the legal conclusion, “That all the money due for alleged rent or for the payment of said truck [had] been paid or settled for with the plaintiff by Clement D. Kahler, the alleged bailee, by the giving of the note [for $1,400] and the acceptance of the same by the plaintiff”; but he nowhere averred, as he was bound to do, to make the averment effective, that Kahler had given and the plaintiff had accepted the note in payment of the purchase price of the truck. The giving and acceptance of a note for deferred payments would not convert the bailment into a conditional sale: Lippincott v. Holden, 11 Pa. Superior Ct. 15; Lippincott v. Scott, 198 Pa. 283; and a note given by a debtor to Ms creditor does not operate as ¡a payment of a pre-existing indebtedness, in the absence of an agreement that it shall so operate: North Penn Iron Co. v. N. J. Bridge Co., 35 Pa. Superior Ct. 84; Leas v. Hafer, 39 Pa. Superior Ct. 160; McCartney v. Kipp, 171 Pa. 644; Berlin Iron Bridge Co. v. Bonta, 180 Pa. 448. Nor did the affidavit contain an averment that the note had been paid by Kahler or any one on his behalf. If discounted by the plaintiff at a bank it would have to be paid before it could be lifted; but if unpaid by Kahler, the plaintiff would be obliged to pay it as endorser. The affiant was careful to avoid any averment of payment of the note by Kahler or for his account.
+The plaintiff averred that the truck had been removed from Delaware County contrary to the terms of the lease and that when, on default of Kahler in the payment of rental, he sought to repossess himself thereof under the provisions of the lease, he was refused possession by Kahler who had allowed the truck to get out of his possession. The affidavit of defense did not controvert these averments or set up any facts which would estop the plaintiff from asserting his right to the ownership of the truck as against Kahler or any one claiming under Mm.
+The facts in this case bear no likeness to those in Willys-Overland, Inc. v. Stry, 76 Pa. Superior Ct. 315, relied upon by appellee. There the defendant set up a purchase in good faith, for value, without notice of the plaintiff’s claim, from a person of good repute and in possession under a claim of title not shown to have been derived from the plaintiff. Here the defendant’s title is admittedly derived from KaHer, who obtained possession of the truck from the plaintiff under a bailment lease, on which he made default. If the facts averred in the pleadings had been admitted in evidence on ¡a trial, the court would have been obliged to direct a verdict for the plaintiff. That rules this appeal in his favor.
+The order of the court below is reversed, and the record is remitted with directions' to enter judgment for the plaintiff against the intervening defendant for want of a sufficient affidavit of defense, unless other legal or equitable cause be shown to the court below why such judgment should not be so entered.
