@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 54"
+decided: "1905-07-13"
+citations: ["28 Pa. Super. 239"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, Smith, Porter, Morrison and Henderson, JJ."]
+parties: ["Delaware, Lackawanna & Western Railroad Company, Appellant, v. Metzgar."]
+source_url: "https://static.case.law/pa-super/28/cases/0239-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 858922
+cites_cases: ["183 Pa. 618", "22 Pa. Superior Ct. 156", "5 Pa. Superior Ct. 304"]
+---
+
+# Delaware, Lackawanna & Western Railroad v. Metzgar
+
+## Majority (Orlady, J.,)
+
+Opinion by
+Orlady, J.,
+The Delaware, Lackawanna & Western Railroad Company, whose railroad extends through the northeastern section of this state, is the owner of two tracts of land in Monroe county, containing in the aggregate 100 acres, covered with water and used by the company for the purpose of harvesting the ice formed thereon in the winter time and then storing it in houses located on the premises, from which houses it is conveyed in cars to points on its main line where the ice is used by the company for refrigerator cars and also for use in passenger coaches for the comfort of its passengers.
+The ice houses constitute an extensive plant, with engines, machinery, planes and necessary appliances, and have a storage capacity of about 12,000 tons. The property was assessed for local taxation by the county authorities as owned by the plaintiff company, at a valuation of $6,000 from which an appeal was regularly taken by the plaintiff, so that the matter came on in due form for hearing before the court below, where the appeal from the board of revision was dismissed and the assessment confirmed. At the hearing it was agreed that the fair assessment or valuation of the property, which the railroad company seek to have exempted from local taxation, is $4,500 for the two ice houses, including the machinery and appliances, and $1,000 for the ice pond and land. The company pays the local taxes upon the land, and in this action seeks to be exempted from the payment of taxes on the storage houses and machinery.
+It must be conceded that the use of ice in cars containing perishable freight is an improvement over the old methods, and is of substantial advantage to the railroad company in securing the transportation in good condition of a character of freight which would not be offered to it if such facilities were not furnished. The evidence • shows that all the ice required for such purposes could be purchased by the company as a trade commodity at points along the line of its route. The ice is placed in the cars under the direction of a proper officer of the company, who determines the propriety of such action, and the charges therefor, that are imposed by the company, follow the car to its point of destination, where the charge for iceing a car is paid by the shipper in addition to the freight'charge for that particular car.
+Assuming, as contended for by the appellant, that ice is the great preservative of perishable freight, and that if such freight is to be preserved in transit, ice must be used for that purpose, it does not follow that a company chartered for the transportation of freight, is warranted in going into the business of manufacturing ice, either by adopting the natural ice formed on its lands and storing it in houses, or by the erection of an artificial ice manufactory, and may then claim exemption from liability to local taxation upon this collateral enterprise. Arguments of like relevancy could be urged with equal force in the case of restaurants along its line for the convenience of passengers; storage barns for hay and grain to be fed to stock in transit; or factories for- making crates and boxes in which to transport more conveniently certain kinds of freight. The whole system is a matter of convenience and profitable management of the freight department, rather than an indispensable method of transportation. The testimony of the superintendent of car service established beyond question that the ownership of the ice ponds and the maintenance of ice houses are matters of convenience at least, if not of independent profit to the company. The ice ponds and ice houses may be indispensable in the sense that it is necessary to use ice on perishable freight, in order that the company will secure its proportion of freight from the general public and conduct the business of the corporation at a profit, but these ponds and houses are not indispensable as the sole source of supply of ice nor in the sense that they are necessary to the operation of the railroad as such.
+“ The business a corporation may lawfully do must be confined by its charter A railroad company is given great privileges and franchises to enable it to build and operate a line of railroad for the public convenience and its own private profit. It must devote itself to the business for which the state has created and clothed it with its powers and privileges. If it steps over its boundary local taxation is among the penalties which it incurs, and which it ought to be ready to submit to without protest:” Western New York, &c. Railroad Company v. Venango Co., 183 Pa. 618.
+The authorities reviewed in Western New York, &c., Railroad Company v. Venango County, 5 Pa. Superior Ct. 304; People’s Railway Company v. Taylor, 22 Pa. Superior Ct. 156; and Western New York, &c., Railroad Company v. Venango County, 183 Pa. 618, furnish ample authority for the decree as made by the court below, which is affirmed.
