@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 164"
+decided: "1974-06-21"
+citations: ["228 Pa. Super. 304"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Watkins, P. J., Jacobs, Hoffman, Cercone, Price, Van der Voort, and Spaeth, JJ."]
+parties: ["Commonwealth v. Doctor, Appellant."]
+source_url: "https://static.case.law/pa-super/228/cases/0304-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 811258
+cites_cases: ["224 A. 2d 188", "224 Pa. Superior Ct. 398", "239 A. 2d 296", "307 A. 2d 51", "423 Pa. 177", "429 Pa. 24"]
+---
+
+# Commonwealth v. Doctor
+
+## Majority (Hoffman, J.,)
+
+Opinion by
+Hoffman, J.,
+This is an appeal from a judgment of sentence on the charge of aggravated assault and battery.
+Appellant was charged at C.A. No. 62, March Term, 1973, with assaulting one Alan Barrett at Gatsby’s Restaurant, New Castle Road, Butler County. He was arraigned on June 23, 1972 and freed upon posting a One Dollar Bond. On August 28, 1972, appellant was given a preliminary hearing on this charge, as well as on a charge of assault and battery in another incident at the same restaurant allegedly occurring on August 4, 1972, at C.A. No. 223, September Term, 1972. On January 12, 1973, appellant stood trial on the latter charge and was found guilty by a jury. Appellant was never informed either at the preliminary hearing or by subsequent notification that he had been held over for the grand jury on the aggravated assault and battery charge (C.A. No. 62). After being indicted by the grand jury in absentia on March 7, 1973, appellant was mailed by certified letter dated March 14, 1973, a notice to appear in court to schedule a date for trial. The letter was returned “Moved, left no address”. Despite this return, a jury was impanelled and the appellant was tried in absentia on said charge and found guilty thereof, on April 16, 1973. Appellant was ostensibly “represented” at his trial by the Butler County Public Defender’s Office. A bench warrant was thereafter issued and appellant was arrested on or about December 20,1973. On December 27,1973, tlie appellant was sentenced by tbe Court to pay tbe cost of prosecution, make restitution and to undergo imprisonment for not less than one and one-balf years nor more than three years to run consecutively to tbe sentence imposed on tbe prior assault and battery conviction. This appeal followed.
+It is apparent from tbe record that appellant was neither informed that bis case was being presented to a grand jury on tbe charge of aggravated assault and battery nor that a trial date bad been set on tbe charge against him. Appellant was, therefore, not given tbe opportunity either to challenge tbe array of tbe grand jury or to prove that one or more of tbe grand jurors should be disqualified for cause. This right was enunciated in Commonwealth v. Dessus, 423 Pa. 177, 224 A. 2d 188 (1966), and embodied in Pa. R. Crim. P. 203. As the Pennsylvania Supreme Court said in Commonwealth v. Collemacine, 429 Pa. 24, 27, 239 A. 2d 296 (1968), in affirming the order of Judge Spaeth (then a Judge of the Common Pleas Court of Philadelphia County) quashing a bill of indictment on the charge of murder: “It is clear that under Rule 203, failure to notify the accused when his case is being presented to a later grand jury emasculates the right of challenge____ In the instant case, the lack of notice to the accused... precludes the exercise of those rights of challenge.” The Bill of Indictment returned by the Grand Jury in the case herein must be quashed for failure to give notice to the appellant of presentment.
+Furthermore, it has long been the law that a defendant is guaranteed the right to be present at trial by both the United States and Pennsylvania Constitutions. While there is some authority for affirming a conviction where the appellant had been present at the start of trial but later absented himself at some point in the proceeding, and while this right to be present may be waived, we have held that “[t]hese circumstances do not attach to a case where the defendant does not appear on the date scheduled for trial. While the appellant’s absence delayed the administration of justice, the appellant would not have received a second chance at acquittal if the trial had been postponed until his apprehension. If the waiver rule were extended to include actions taken by an accused prior to trial, fugitives who are unaware of the charges against them could be tried in absentia. This could prevent the system from reaching a just and fair verdict.” Commonwealth v. Felton, 224 Pa. Superior Ct. 398, 403, 307 A. 2d 51 (1973) (see cases cited therein).
+The judgment of sentence is reversed, the conviction vacated, the indictment is hereby quashed, and appellant ordered discharged.
+Pa. R. Crim. P. 203 reads, as follows:
+“Rule 203. Objections to Grand Jury and Grand Jurors.
+“(a) A defendant who has been held for court or the attorney for the Commonwealth may challenge the array of the grand jury or an individual grand juror. A challenge to the array may be made only on the ground that the grand jury was not selected, drawn or summoned substantially in accordance with law. An individual grand juror may be challenged for cause. All challenges must be made before the grand jurors are sworn, unless reasonable opportunity did not exist prior thereto; in any event a challenge must be made before the bill of indictment is submitted to the grand jury as provided in subdivision (e) hereof.
+“(b) All challenges shall be in writing and shall specify the grounds therefor. The parties shall not have a right to examine grand jurors on voir dire. If a challenge to the array is sustained, the grand jury shall be discharged; if a challenge to an individual grand juror is sustained, the court shall make an appropriate order which may include standing the challenged juror aside for a particular case or discharging him from further service. Where necessary, the court may replace a juror who has been stood aside or discharged.
+“(c) A bill of indictment Shall not be submitted to a grand jury for action until 10 days after a defendant is held for court unless he consents to an earlier submission and the Commonwealth agrees thereto, or the court, for cause, permits an earlier submission.” Adopted .Tune 30, 1964. Eff. Jan. 1, 1965. Amended May 12, 1967. Eff. June 1, 1967.
