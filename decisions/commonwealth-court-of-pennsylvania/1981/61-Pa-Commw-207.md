@@ -1,0 +1,38 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2073 C.D. 1979"
+decided: "1981-08-10"
+citations: ["61 Pa. Commw. 207"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Crttmltsh and Judges Mencer, Blatt, Craig and MacPhail."]
+parties: ["In Re: Appeal From Decision of the Pennsylvania Labor Relations Board. In the Matter of the Employees of the Port Authority of Allegheny County. Amalgamated Transit Union, Division 85, Appellant."]
+source_url: "https://static.case.law/pa-commw/61/cases/0207-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1924037
+cites_cases: ["138 N.L.R.B. 923", "327 F.2d 784", "343 U.S. 395", "372 F.2d 691", "377 U.S. 1003", "415 A.2d 1267", "425 A.2d 1182", "51 L.R.R.M. 1155", "52 Pa. Commonwealth Ct. 426", "56 Pa. Commonwealth Ct. 555"]
+---
+
+# In re Appeal from Decision of Pennsylvania Labor Relations Board
+
+## Majority (Judge Mencee,)
+
+Opinion by
+Judge Mencee,
+This is an appeal hy the Amalgamated Transit Union (Union) from an order of the Court of Common Pleas of Allegheny County which affirmed a decision of the Pennsylvania Labor Relations Board (Board) dismissing the Union’s unfair labor practice charges.
+In 1973, the Port Authority of Allegheny County (Authority) and the Union began negotiations for a new collective bargaining agreement. In the course of these negotiations, a dispute arose concerning the Authority’s proposal for a progressive discipline system. The strike that then ensued was later settled when counsel for the Union drafted Section 105 of the collective bargaining agreement recognizing the right of the Authority to discipline employees. This section states as follows:
+DISCIPLINE
+The Authority has the right to discipline employees covered by this agreement for sufficient cause under the theory of progressive discipline. Discipline, as used here, includes the making of written record entries as well as suspension or discharge.
+In November 1974, the Authority submitted a proposed disciplinary code to the Union with a request for comments. The Union responded that the Authority lacked the power under the collective bargaining agreement to implement a disciplinary code containing substantially the same provisions as those rejected by the Union during negotiations. When the Authority persisted in enacting the code, the Union filed a grievance and requested arbitration. The arbitrator found in favor of the Authority, ruling that the disciplinary code was a “mere implementation of Section 105.”
+Although it did not appeal the arbitration award, the Union, did file an unfair labor practice charge with the Board, alleging that the Authority had violated, inter alia, Section 1201(a) (5) of the Public Employe Relations Act (Act), which prohibits a public employer from refusing to bargain in good faith with the employee representative. The Board ruled that, since the Union and the Authority had negotiated a contract covering the subject of employee discipline, the Authority’s duty to bargain in good faith had been discharged. The lower court affirmed the Board’s decision, and this appeal followed. We affirm.
+The Union argues that the Board erred by deferring to an arbitration award which did not decide the statutory issues raised by the unfair labor practice charges. Specifically, the Union contends that the Board cannot defer to the arbitration award, since the arbitrator confined his decision to contract interpretation, without considering whether the Authority violated the Act by a refusal to bargain.
+We must, at the outset, disagree with the Union’s characterization of the Board’s decision as a “deferral” to the arbitration award. We note that the Board did not “decline to exercise its authority” over an alleged unfair labor practice by abdicating its statutory responsibility to the arbitrator. See International Harvester Co., 138 N.L.R.B. 923, 51 L.R.R.M. 1155 (1962), aff’d 327 F.2d 784 (7th Cir.), cert. denied, 377 U.S. 1003 (1964) (the National Labor Relations Board may properly refuse to process an unfair labor practice charge where to do so will serve the fundamental aims of tbe National Labor Relations Act). Rather, the Board held a hearing and made detailed findings of fact in its nisi decision and order. While this nisi decision did express the Board’s deferral policy in dicta, the final order makes it clear that the Board specifically adjudicated the unfair labor practice charge by determining that the negotiated contractual provision authorized the Authority’s implementation of a disciplinary code. The Board merely declined to relitigate the contract interpretation issues raised before the arbitrator, and it is only in this narrow sense that the Board “deferred” to the award. Therefore, we are satisfied that the Board independently resolved the unfair labor practice charge through its factfinding process without simply adopting the arbitrator’s award.
+We also find no error in the Board’s determination that the Authority discharged its statutory duty to bargain in good faith. The extent of union and management participation in disciplinary matters is clearly a condition of employment to be settled by bargaining. Nevertheless, the Union can agree that disciplinary standards shall be the sole province of management and thereby waive its bargaining rights in this matter during the contract term. See National Labor Relations Board v. American National Insurance Co., 343 U.S. 395 (1952); National Labor Relations Board v. Honolulu Star-Bulletin, Inc., 372 F.2d 691 (9th Cir. 1967). Accordingly, once the Board found that a validly negotiated contract provision reserved disciplinary matters to management, it could properly conclude that the Authority had discharged its statutory duty to bargain.
+Order affirmed.
+Order
+And Now, this 10th day of August, 1981, the order of the Court of Common Pleas of Allegheny County, dated September 7, 1979, dismissing the petition of Amalgamated Transit Union, Division 85, to set aside and/or modify a final order of the Pennsylvania Labor Relations Board and affirming the final order of the Pennsylvania Labor Relations Board, dated May 23, 1977, is hereby affirmed.
+Act of July 23, 1970, PA. 563, as amended, 43 P.S. §1101.1201 (a)(5).
+We have held that federal decisions under the National Labor Relations Act may be looked to for guidance in interpreting similar provisions of Pennsylvania labor legislation. E. g., Burse v. Pa. Labor Relations Bd., 56 Pa. Commonwealth Ct. 555, 425 A.2d 1182 (1981).
+The Board has apparently adopted a deferral policy which mirrors that of the National Labor Relations Board (NLRB) ; i.e., the Board will defer to an arbitration award that adjudicates the substance of an unfair labor charge if the award is not repugnant to the Act and if achieved through fair and regular proceedings. We will express no opinion at this juncture whether the Public Employe Relations Act gives the state board the same power to defer to an arbitration award as that given to the NLRB under federal labor laws.
+In an appeal from a decision of the Board concerning an unfair labor practice, our scope of review is limited to a determination of whether (1) the Board’s findings are supported by substantial and legally credible evidence and (2) the conclusions deduced from that evidence are reasonable and not capricious, arbitrary, or illegal. E.g., Giovinazzo v. Pa. Labor Relations Bd., 52 Pa. Commonwealth Ct. 426, 415 A.2d 1267 (1980).
