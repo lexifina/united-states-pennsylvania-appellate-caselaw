@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2522 C.D. 1977"
+decided: "1978-10-30"
+citations: ["38 Pa. Commw. 322"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Wilkinson, Jr., DiSalle and MacPhail, sitting as a panel of three."]
+parties: ["Nicholas Mattero, Appellant v. Township of Upper Chichester Zoning Hearing Board, Appellee."]
+source_url: "https://static.case.law/pa-commw/38/cases/0322-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1890991
+cites_cases: ["16 Pa. Commonwealth Ct. 124", "183 A.2d 539", "343 A.2d 92", "408 Pa. 306"]
+---
+
+# Mattero v. Township of Upper Chichester Zoning Hearing Board
+
+## Majority (Judge Wilkinson, Jr.,)
+
+Opinion by
+Judge Wilkinson, Jr.,
+This is an appeal from an order of the Court of Common Pleas of Delaware County dismissing the appeal of Nicholas Mattero (appellant herein) from the denial of a special exception or variance by the Upper Chichester Township Zoning Hearing Board (Board). We affirm.
+Appellant is the owner of a lot in the township situate in an R-2 residential district under the township zoning ordinance upon which is located a dwelling and a detached garage. The structure which is the focus of this appeal is the garage, constructed by appellant’s father-in-law and predecessor in title of the lot approximately 40 years ago. When appellant purchased this property in 1969 the garage had been used as an auto repair shop consistent with the zoning ordinance then in effect which classified the property in an industrial district. However, since the enactment of the current zoning ordinance in 1973, the repair garage, which is and has been continuously used by appellant to repair trucks in his general contracting business, has been a non-conforming use. Appellant has requested the Board grant a special exception or variance so that he can expand the garage from 36 feet by 25 feet and 18 feet in height to dimensions of 63 feet by 35 feet and 20 feet in height. Hearings were held on this request on May 6, 1976, June 3,1976 and July 7,1976.
+At the May 6 hearing appellant testified that the increase in the area of the garage was needed' to permit him to do repair work indoors rather than in open space adjacent to the existing garage and that he was presently unable to repair trucks using electrical equipment in inclement weather. He further testified that it was necessary to increase the height of the garage in order to accommodate larger trucks now used in his business. However, at the July 7 hearing appellant testified that the “only reason” he wanted to expand the garage was that he was not certain he would be able to retain a leasehold at another location in the township from which he also operated his contracting business.
+The Board, in an opinion dated August 19, 1976, denied the application for a special exception pursuant to Section 703.B of the township zoning ordinance on the grounds the proposed structure would be five feet higher than the 15 foot maximum allowable for detached garages in an R-2 district and that the construction would adversely affect the public health and safety.
+Appellant contends that the Board abused its discretion in refusing to grant a special exception in order to expand his garage as a non-conforming use. As we understand the thrust of appellant’s brief he argues that since the appellant has established a valid non-conforming use he is entitled as of right to expand an existing business so long as the expansion is a reasonable result of natural growth.
+While sometimes loosely stated in this fashion, this is an overly broad statement of the law of zoning in Pennsylvania with regard to the expansion of nonconforming uses. The law, and that with which Section 703.B of the township zoning ordinance is in accord, is that new structures to accommodate an expanding non-conforming use may be erected on land previously devoted to non-conforming uses, but this right is subject to applicable zoning building regulations and the interests of the public health, safety, and welfare. Thayer v. Lower Milford Township, 16 Pa. Commonwealth Ct. 124, 343 A.2d 92 (1974). Even according the fullest weight to the fact that appellant had established his use of the garage as a commercial enterprise several years before the enactment of the present zoning ordinance, the record is clear that in addition to almost doubling the area of the garage, the height of the garage would be five feet higher than that permitted under the ordinances for detached garages in that district. As was stated by our. Supreme Court in Hanna v. Board of Adjustment, 408 Pa. 306, 312, 183 A.2d 539, 543 (1962), “Even though zoning ordinances permit the continuance of nonconforming uses, it is the policy of the law to closely restrict such nonconforming uses and to strictly construe provisions in zoning ordinances which provide for continuance of nonconforming uses.” Given this policy of the law, we cannot conclude the Board abused the discretion granted to it under the zoning ordinance. However sensible it may appear to us to allow appellant to build an addition on the garage and enclose his repair work, it is not within the province of this Court to substitute its .judgment for that of a zoning hearing board.
+Appellant raises an ancillary question of whether the common pleas court based its affirmance on a misapprehension or misapplication of fact. While it is true that the court may have overstated the case in concluding that appellant had made no attempt to comply with the zoning ordinance, our scope of review where, as here, the court below takes no additional evidence, is whether the Board committed an abuse of discretion or erroneously applied the law.
+Accordingly, we will enter the following
+Order
+And Now, October 30, 1978, the order of the Court of Common Pleas of Delaware County, dated November 29, 1977, at No. 76-12583, is hereby affirmed.
+While this statement is significant, we accept able counsel for appellant’s statement at oral argument that the appellant used the word “only” very loosely. A reading of all his testimony justifies counsel’s argument that he meant “one of the primary reasons.” We must note, however, that he did not testify that another reason, primary or otherwise, was the natural growth of new business.
+Section 703.B of the ordinance provides in pertinent part: [A]ny lawful nonconforming building or any building of which a lawful nonconforming use is made may be extended upon the lot occupied by such building and held in single and separate ownership on the effective date of this Ordinance when authorized as a Special Exception by the Zoning Hearing Board, PROVIDED that any structural alteration, extension or addition shall conform to all height, area, width, yard and coverage regulations for the district in which it is located. (Emphasis added.)
+Appellant has made no challenge to the validity of this section.
