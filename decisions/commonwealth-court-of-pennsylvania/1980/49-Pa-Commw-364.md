@@ -1,0 +1,78 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2480 C.D. 1978"
+decided: "1980-02-20"
+citations: ["49 Pa. Commw. 364"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Mencer, DiSalle, Craig and MacPhail. President Judge Bowman and Judges Wilkinson, Jr., Rogers and Blatt did not participate.", "This decision was reached prior to the death of President Judge Bowman.", "Judge DiSalle did not participate in the decision in this case."]
+parties: ["Rocco A. Burello, Petitioner v. Commonwealth of Pennsylvania, State Employes’ Retirement System, Respondent."]
+source_url: "https://static.case.law/pa-commw/49/cases/0364-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1906497
+cites_cases: ["102 A.2d 662", "106 A.2d 233", "113 A.2d 230", "113 A.2d 452", "113 N.J.L. 230", "134 A.2d 231", "141 A.2d 197", "173 A. 923", "174 A. 400", "18 U.S.C. §1951", "199 A. 130", "230 A.2d, 458", "247 Md. 182", "263 A.2d 385", "285 N.Y. 247", "287 A.2d 442", "316 Pa. 161", "328 U.S. 303", "33 N.E.2d 692", "330 Pa. 402", "338 F. Supp. 1141", "374 Pa. 165", "378 Pa. 300", "381 Pa. 366", "381 Pa. 492", "390 Pa. 75", "392 Pa. 421", "4 Pa. Commonwealth Ct. 288", "437 Pa. 399", "71 U.S. 277", "97 A.2d 231"]
+---
+
+# Burello v. Commonwealth, State Employes' Retirement System
+
+## Majority (Judge Craig,)
+
+Opinion by
+Judge Craig,
+The question in this case is whether a statute violates constitutional prohibitions against impairment of obligation of contract or bills of attainder where it provides retroactively that pension benefits being received by a retired Commonwealth employee shall be forfeited if the employee is convicted or pleads no defense to a crime related to public office or public employment.
+This question has been raised by petition for review on behalf of petitioner (now deceased) from an action of the State Employes’ Retirement Board (board) discontinuing the pension benefits which petitioner had been receiving in retirement.
+The wholly documentary record certified to us by the board reveals that petitioner, as a retired Commonwealth employee, had qualified for, and was receiving, state pension benefits when, on July 12, 1978, he pleaded nolo contendere in the United States District Court for the Western District of Pennsylvania to four counts of federal extortion charges under 18 U.S.C. §1951 and received a penalty of fine and probation.
+On July 8, 1978 the Public Employee Pension Forfeiture Act (Act) was enacted and became effective, providing in pertinent part as follows:
+Section 3. Disqualification and forfeiture of benefits.
+(a) Notwithstanding any other provision of law, no public official or public employee nor any beneficiary designated by such public official or public employee shall be entitled to receive any retirement or other benefit or payment of any kind except a return of the contribution paid into any pension fund without interest, if such public official or public employee is convicted or pleads guilty or no defense to any crime related to public office or public employment.
+(b) . . . Such conviction or plea shall be deemed to be a breach of a public officer’s or public employee’s contract with his employer.
+(c) Each time a public officer or public employee is elected, appointed, promoted, or otherwise changes a job classification, there is a termination and renewal of the contract for purposes of this act.
+Section 7. Retroactively [sic]
+The provisions of this act shall be retroactive to December 1,1972.
+Section 8. Effective date.
+This act shall take effect immediately.
+The act was approved July 8,1978.
+On September 6, 1978 the board, by letter, informed petitioner that it had been provided with a certified copy of the action taken in the United States District Court for the Western District of Pennsylvania and that:
+Accordingly, pursuant to Act No. 140, effective July 8, 1978, known as the Public Employee Pension Forfeiture Act, upon advice of Counsel, the Board is discontinuing pension benefit payments to you, effective immediately.
+This proceeding attacks that action and the law on which it is based.
+Before we reach the merits, we have the Commonwealth’s claim that the petition should be dismissed because it seeks review of ministerial action rather than an adjudication and therefore involves a matter not suitable for an appeal but which should be presented to us in the form of an original jurisdiction action in mandamus.
+The Commonwealth cites Fricchione v. Department of Education, 4 Pa. Commonwealth Ct. 288, 287 A.2d 442 (1972), but that case involved a proceeding to seek issuance of a teaching certificate pursuant to the terms of an uncontested statute, so that we held mandamus to be appropriate, while the present proceeding does not seek to enforce public agency action in accordance with statute but instead attacks the validity of a law, for which mandamus is never appropriate. Unger v. Hampton Township, 437 Pa. 399, 263 A.2d 385 (1970).
+The Commonwealth also argues that an original proceeding is necessary here to create a record of facts against which the administrative action can be judged, but that view is notably inconsistent with the Commonwealth’s own view that the Act calls only for agency action which is so automatic as to be ministerial. See 42 Pa. C.S. §708(b), providing against dismissal on such a theory. Moreover, the board has certified a sufficient record to us.
+Certainly, within the terms of 2 Pa. C.S. §101, the order of the board here was an adjudication in that it was a “final order ... by an agency affecting personal or property rights . . . duties, liabilities or obligations” of the parties, so that an appeal is available under 2 Pa. C.S. §702. The Commonwealth does not claim that there is any further administrative remedy which petitioner has not exhausted.
+The Commonwealth also argues that an appeal is not appropriate because 2 Pa. C.S. §504 provides that no agency adjudication shall be valid unless the party ‘ ‘ shall have been afforded reasonable notice of a hearing and an opportunity to be heard.” However, because petitioner was plainly willing to forego the hearing opportunity which the Commonwealth heretofore has failed to provide, it ill behooves the Commonwealth now to insist upon it.
+We therefore decline to dismiss the appeal.
+We turn to the constitutional merits. In support of the constitutional attack under Pennsylvania Constitution art. 1, §17 and Unitéd States Constitution art. 1, §9, cl. 3, both forbidding laws impairing the obligation of contracts and the latter also forbidding bills of attainder, petitioner cites Harvey v. Allegheny County Retirement Board, 392 Pa. 421, 141 A.2d 197 (1958) in which the Pennsylvania Supreme Court, as to the rights of a public employee in a retirement system, stated:
+An employe who has complied with all conditions necessary to receive a retirement allowanee cannot be affected adversely by subsequent legislation which changes the terms of the retirement contract.
+392 Pa. at 431, 141 A.2d at 203.
+The court also pointed out that an employee who has not attained eligibility to receive a retirement allowance is subject to subsequent legislation changing the terms of the retirement contract only if the change reasonably enhances the actuarial soundness of the retirement fund, a qualification not applicable here because it is undisputed that petitioner had attained eligibility to receive a retirement allowance.
+In Retirement Board of Allegheny County v. McGovern, 316 Pa. 161, 174 A. 400 (1934), the Pennsylvania Supreme Court held that, when the conditions of retirement eligibility have been satisfied, retirement pay has ripened into a full contractual obligation and become a vested right. McBride v. Allegheny Retirement Board, 330 Pa. 402, 199 A. 130 (1938) also held that such a vested right cannot be disturbed by subsequent legislation.
+Baker v. Retirement Board of Allegheny County, 374 Pa. 165, 97 A.2d 231 (1953) held that where actuarial soundness was not involved, even a pension fund member not yet eligible for retirement was in a position such that:
+The legislature could not thereafter constitutionally alter the provisions of his already existing contract of membership. His rights in the fund could only be changed by mutual consent.
+374 Pa. at 169, 97 A.2d at 233. See also Wright v. Allegheny County Retirement Board, 390 Pa. 75, 134 A.2d 231 (1957); Jameson v. Pittsburgh, 381 Pa. 366, 113 A.2d 452 (1955); Mauch v. Allegheny County Retirement Board, 381 Pa. 492, 113 A.2d 230 (1955); and Hickey v. Pittsburgh Pension Board, 378 Pa. 300, 106 A.2d 233 (1954).
+Recognizing the rule thus reiterated, the Commonwealth contends that the avoidance of crime related to public employment is an implicit provision of the employment contract of any public servant, and thus that the retroactive act represents only a confirmation of that implicit contractual condition, citing Ballurio v. Castellini, 29 N.J. Superior Ct. 383, 102 A.2d 662 (1954), substantially to that effect. However, in that case and also in Plunkett v. Board of Pension Commissioners of Hoboken, 113 N.J.L. 230, 173 A. 923 (1934) and Eberle v. LaGuardia, 285 N.Y. 247, 33 N.E.2d 692 (1941), cited by the Commonwealth for the same proposition, we find that neither the New Jersey court nor the New York court considered any constitutional questions because none were raised; all three cases were confined to issues of statutory construction. Moreover, those New Jersey opinions identified New Jersey as a jurisdiction which considers a public pension to be a “bounty” rather than a vested right, therefore not adhering to the Pennsylvania premise that pension eligibility involves a contractual entitlement.
+In our view, the statute in question does effect an unconstitutional impairment of the obligation of contract, at least in this worst-case situation, where, after the employee’s eligibility has accrued and his drawing of retirement benefits has commenced, a law thereafter adopted purports to cut off the pension entitlement because of a criminal conviction or plea which also came about after the accrual of the pension entitlement and benefits.
+Moreover, even if every public employment contract be deemed to include an implicit term that the performance of the public service shall be free from the taint of related crime during its performance, so that conviction of such a crime could disqualify the employee with respect to the accrual of employment benefits thereafter — a variation which we do not decide here — the retroactive purport of this act is such that we must find the act to be constitutionally infirm as an ex post facto law in itself, namely one which renders an act punishable in a manner in which it was not punishable when committed. Hiss v. Hampton, 338 F. Supp. 1141, 1148 (D.D.C. 1972). The Hiss case involved a federal statute very similar to the act here, oné which sought retroactively to cut off the pension benefits for which Alger Hiss had earlier qualified, on the basis of a conviction of an offense (perjury) related to the endangering of the national security of the nation. The particular vice of the federal statute was that, as here, it was enacted after the conclusion of the performance of the public service which it sought to purify. Hence it is clear that its purpose was not purification — that is, regulation —but punishment. The federal court correctly stated:
+Retroactive punishment of former employees for their past misdoings has no reasonable bearing upon the regulation of the conduct of those presently employed.
+Hiss, supra, 338 F. Supp. at 1148.
+However greatly we might feel outrage that a government official would use public employment for criminal purposes, we cannot uphold a punishment devised after the fact. Satisfaction of that outrage is not worth the loss we would suffer as a community by weakening the wise constitutional safeguards against laws which impose sanctions by hindsight.
+We need not consider further whether the act constitutes a bill of attainder or bill of pains and penalties under the doctrines of Cummings v. Missouri, 71 U.S. 277 (1867) or United States v. Lovett, 328 U.S. 303 (1946).
+We will reverse the order of the State Employes’ Retirement Board and remand with a direction that the discontinued pension benefits be reinstated from the time of their discontinuance, with such effect as the pension laws confer.
+Order
+And Now, this 20th day of February, 1980, the order of the State Employes ’ Retirement Board dated September 6, 1978 is hereby reversed and this matter is remanded with a direction that all pension benefits • thereby discontinued be restored as of, and after, September 6, 1978. with such effect as the pension laws confer.
+This decision was reached prior to the death of President Judge Bowman.
+Judge DiSalle did not participate in the decision in this case.
+Act of July 8, 1978, P.L. 752, 43 P.S. §1311 et seq.
+
+## Dissent (Judge MacPhail:)
+
+Dissenting Opinion by
+Judge MacPhail:
+I respectfully dissent.
+Petitioner pleaded nolo contendere to four counts of extortion on July 12, 1978, four days after the effective date of the Public Employee Pension Forfeiture Act (Act), Act of July 8, 1978, P.L. 752, 43 P.S. §1311 et seq. I am of the opinion that the forfeiture provisions of the Act are triggered not by the misconduct of the employee, but by the date of his plea or conviction. Therefore, I believe the issue is not whether the Act is unconstitutional as it is applied retroactively, but rather whether it is unconstitutional as it is applied prospectively.
+I am persuaded that implied in every contract of public employment is an obligation to perform one’s job without using it for the commission of crimes. None of the decisions of onr Pennsylvania Supreme Court cited in the majority opinion deal with this specific problem. The cases cited in the majority opinion from other jurisdictions do deal with this specific problem and reach a result contrary to that of the majority in the instant case.
+In Hiss v. Hampton, 338 F. Supp. 1141 (D.D.C. 1972), also cited by the majority, the Court held a somewhat similar federal statute to be an ex post facto law and inapplicable to Hiss because it was punitive and not regulatory. Perhaps more important to the court’s decision in the Hiss case was its reference to the fact that the statute at issue before that court was promulgated more to bar Hiss from receiving a pension than to regulate government service as a whole. Such is not true in the instant case. At the time of Hiss ’ trial and conviction, there was no statute prohibiting him from collecting his pension. In the instant ease, Burello knew, or should have known, before he entered his plea what the consequences could be for his pension rights. In such circumstances, I do not believe that the ex post facto law prohibition of our Constitution is applicable.
+Finally, I am not certain if the majority has decided that the entire statute is unconstitutional or whether it has decided only that the application of the statute to this “worst-case” situation is unconstitutional.
+In any event, I would hold that the Act may be applied prospectively and since I believe that is what was done in the instant case, I would affirm the order of the State Employes ’ Retirement Board.
+In addition, I would add the following case: Baltimore County Board of Trustees v. Comes, 247 Md. 182, 230 A.2d, 458 (1967).
+The Government Organization and Employees Act, 5 U.S.O. §8313.
