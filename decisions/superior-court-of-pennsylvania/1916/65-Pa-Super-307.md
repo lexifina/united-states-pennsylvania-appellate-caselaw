@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 4"
+decided: "1916-12-18"
+citations: ["65 Pa. Super. 307"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Kephart, Trexler and Williams, JJ."]
+parties: ["Lycoming Fair Assn., Appellant, v. Lycoming County."]
+source_url: "https://static.case.law/pa-super/65/cases/0307-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 625347
+cites_cases: ["11 Pa. Superior Ct. 175", "161 Pa. 522", "162 Pa. 443", "182 Pa. 581", "230 Pa. 407", "5 Pa. Superior Ct. 159", "53 Pa. Superior Ct. 293", "53 Pa. Superior Ct. 300"]
+---
+
+# Lycoming Fair Ass'n v. Lycoming County
+
+## Majority (Williams, J.,)
+
+Opinion by
+Williams, J.,
+The only question involved in this appeal is the constitutionality of the Act of June 18, 1915, P. L. 1035, entitled “An act for the encouragement of agriculture and the holding of agricultural exhibitions; providing State aid for certain agricultural associations, and regulating the payment thereof.”
+Section 6 of the act provides as follows: “Payments to incorporated agricultural associations, under .the provisions of this act, shall be made by the county commissioners, on or before the fifteenth day of December of the year in which the exhibition is held, and upon the filing with the auditor general of the Commonwealth, on or before December fifteenth of each year hereafter, of the certificate of the county treasurer of the respective counties, showing the amount of money paid agreeably to this act, and to whom the auditor general shall issue his warrant for the amount so paid, directing the state treasurer, out of moneys not otherwise appropriated, to pay into the treasury of the counties that have paid said sum the amount so paid.” Section 7 appropriates $100,000 for the purposes of the act, which, when approved by the governor, was reduced to $50,000 on account of .a deficiency in the State revenue.
+It is argued, and the court below held, that inasmuch as the title says, “providing State aid for certain agricultural associations, and regulating the payment thereof,” and Section 6, cited above, directs that the payments shall be made by the county commissioners, therefore, the act is unconstitutional because the title is not only not descriptive of the purposes of the act, but is actually misleading.
+It is true that, by the Acts of June 13,1907, P. L. 702; April 13,1911, P. L. 58; June 5,1913, P. L. 420, and June 12, 1913, P. L. 486, there was previous legislation upon the subject which provided that the county commissioners should make the payments. These acts were, however, repealed by the act under discussion, and its title is “providing State aid,” etc., which does not disclose any intention to repeal the previous legislation on the subject, is not descriptive of the purpose of the act and is misleading in that the county commissioners are directed by Section 6 to make the payments.
+All acts of the legislature are presumptively constitutional and should be sustained, as the will and judgment of the representatives of the people, .unless they contravene some provision of the Constitution; and courts are not to be astute in finding ways to destroy the will of the people, but should rather carry it into effect, if it be possible to do so. Section 3, Article III, of the Constitution, declares: “No bill, except general appropriation bills, shall be passed containing more than one subject, which shall be clearly expressed in its title.” It has been held, under this provision of the Constitution, that the title alone should disclose the purpose of the legislature: Davey v. Ruffell, 162 Pa. 443; and be so clear that it gives notice of the legislative intent and purpose to those specially interested therein: Mt. Joy v. Lancaster, Etc., Turnpike Co., 182 Pa. 581; and “if the title is defective in that it contains more than one subject or only one subject which is not clearly expressed, the law which results from the passage of the bill contravenes the constitution and is void”: Provident Life & Trust Co. v. Hammond, 230 Pa. 407, 414; and all our cases are clear and emphatic that' the title, whether full or meager, must not be misleading: Philadelphia v. Market Co., 161 Pa. 522, 527.
+In each of the previous acts, i. e., 1907, 1911, and the two in 1913, the title was clear, in that it was “An act to authorize county commissioners.......to pay.......; and providing for the repayment to the county by the State of the sum so paid.” By these acts, a system of awards was to be made to the county fair associations coming within the terms of the original Act of 1907 and its supplementary and amendatory acts; but the act in question has for its title “the encouragement of agriculture and the holding of agricultural exhibitions; providing State aid for certain agricultural associations, and regulating the payment thereof.” The reader of such a title, being familiar with the previous legislation on the subject might well conclude that the legislature, in its wisdom, had decided to adopt a new plan, and no longer have the payments made in the first instance by the county commissioners, with the right of recoupment from the State funds; but that it intended, in the future, to adopt a system by which the premiums or aid to such useful associations was to be paid direct to them from the State funds. Thus the title not only does not clearly cover the provisions of the sixth section of this act, but does mislead.
+Whilst not controlling, because the county must pay whether there is an appropriation or not: Brink v. Marsh, 53 Pa. Superior Ct. 293; Isenberg v. Black, 53 Pa. Superior Ct. 300; the practical effect of the reduction of the appropriation, made in approving the act, is to impose a burden upon the counties not only not intended by the legislature, but also certainly not expressed in the title. Moreover, by this act, the burden imposed upon the counties was made twice as large as that under prior legislation.
+We agree with the learned court below that inasmuch as the title to this act is not clear, and is misleading, it is unconstitutional and cannot be sustained.
+The judgment is affirmed.
