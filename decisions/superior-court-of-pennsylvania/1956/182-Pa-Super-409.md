@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 173"
+decided: "1956-12-28"
+citations: ["182 Pa. Super. 409"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P.J., Hirt, Gunther, Wright, Woodside, Ervin, and Carr, JJ."]
+parties: ["Crawford v. Rochester Borough, Appellant."]
+source_url: "https://static.case.law/pa-super/182/cases/0409-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 734097
+cites_cases: ["121 A. 2d 128", "384 Pa. 390"]
+---
+
+# Crawford v. Rochester Borough
+
+## Majority (Wright, J.,)
+
+Opinion by
+Wright, J.,
+Rose Crawford and her husband instituted suit in trespass' against the Borough of Rochester to'' recover damages for injuries suffered by the wife in á fall.' The ■ jury, returned, a verdict for the plaintiffs. Defend-' ant’s motion for judgment n.o.v. was overruled, and judgment was entered on. the. verdict.. This appeal fol-. lowed. The factual situation and the question involved appear in the following excerpt from a stipulation of the parties under our Rule 41:
+“Plaintiff, Rose Crawford, sustained physical injuries as a result of a fall which occurred when she tripped on a hole in the surface of Brighton Avenue, a State Highway in the Borough of Rochester, Beaver County, Pennsylvania. The hole was located upon a portion of said highway between yellow lines painted by the Borough to indicate a pedestrian crossing. The yellow lines lead from the easterly side to the westerly side of Brighton Avenue at an intersection with another street. The hole was from three inches to four inches deep, six to seven inches wide and about eight inches in length . . .
+“The jury’s verdict establishes the fact that there was no contributory negligence on the part of the plaintiffs. It also establishes the fact of negligence on the part of the defendant in permitting the hole to remain in the pavement if as a matter of law, the defendant, Borough, had any duty to repair. The sole question involved in this appeal is, — ‘Where a Borough Street is also a State Highway and the Borough designates a crosswalk for pedestrians at an intersection, is it the legal duty of the Borough to see that the space designated as a crosswalk is kept in a safe condition for pedestrian traffic’ ”.
+The State Highway Law was recently interpreted by our Supreme Court in Stevens v. Reading Street Railway Co., 384 Pa. 390, 121 A. 2d 128. The real issue before us is whether or not the instant appeal is controlled by the Stevens ease. There, as plaintiff alighted from a bus, she stepped into a hole in the surface of North Fifth Street, a State highway, in the City of Reading. While the comparison is not of particular importance, we note that the hole in the Stevens case was “seventeen inches long, a foot wide and about six inches deep”. The language of Mr. Justice Chidsey in discussing the liability of the City in that case is highly significant. After considering the relevant sections of The State Highway Law he said: “The effect of these provisions was to place the control and responsibility for repair and maintenance of North Fifth Street, the scene of the accident, upon the Commonwealth. Since the Commonwealth, by statute, has relieved the City of the obligation to repair the hole, the City cannot be guilty of negligence since there must be a duty and a breach of that duty to produce a right of action”. Addressing himself to the suggestion that the hole constituted a nuisance and that the City of Reading was obligated to abate this nuisance either by repairing it or by notifying the Commonwealth of its existence, Mr. Justice Chidsey said: “It is a sufficient answer that our cases hold that no liability can be imposed on the City unless there is legislation compelling repair and maintenance”.
+It was also argued in the Stevens case that, since a city is obligated to “regulate traffic” and “police” a state highway within its boundaries, the city has a concurrent duty with the state to repair. To this argument Mr. Justice Chidsey replied as follows: “The answer to this is that the word ‘police’ is used in the statute in its ordinary and well defined meaning of maintaining law and order, and does not refer to repair and maintenance which are expressly placed upon the Commonwealth”. In conclusion he said: “It is our opinion that the Legislature has placed the sole obligation to repair the street in question upon the Commonwealth thereby relieving the City of responsibility”.
+The case at bar differs from the Stevens case- only in the circumstance that the hole was in a crosswalk. It is conceded that the borough would not be liable if plaintiff had fallen anywhere in the cartway of Brighton Avenue other than in the crosswalk. Appellees take the position, however, that the designation by the borough of the crosswalk was a direction and invitation to the public “which in turn requires the municipality to see that the space between said yellow lines is kept in a reasonably safe condition for pedestrian traffic”.
+It is our view to the contrary that the designation of a crosswalk by a borough rises no higher than a traffic regulation or police action indicating the place for pedestrians to cross the highway as a matter of safety from vehicular traffic. A crosswalk is defined in Section 2 of The Vehicle Code as follows: “That portion of a highway ordinarily included within the prolongation of curb and property lines at intersections, or any portion of a highway clearly indicated for pedestrian crossing by lines or other markings on the surface”. Section 1013 (75 PS 572) expressly provides that a motorist “shall yield the right of way to a pedestrian crossing such highway within a crosswalk”. By marking a crosswalk the borough does not assume jurisdiction over any portion of the highway, nor does it have a legal right to do so. The designation of a crosswalk does not operate to impose upon the borough the duty of repair and maintenance which is expressly placed upon the Commonwealth by statute. As pointed out in the Stevens case, liability cannot be imposed upon the borough in the absence of legislation compelling repair and maintenance.
+Judgment reversed and here entered for appellant.
+Act of June 1, 1945, P. L. 1242, 36 PS 670-101 et seg.
+Act of May 1, 1929, P. L. 905, Section 2, 75 PS 2.
