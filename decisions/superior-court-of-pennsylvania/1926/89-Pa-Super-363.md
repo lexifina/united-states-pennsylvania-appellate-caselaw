@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 29"
+decided: "1926-12-10"
+citations: ["89 Pa. Super. 363"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Portee, P. J., Henderson, Trexler, Keller, Linn, Gawthrop and Cunningham, JJ."]
+parties: ["Commonwealth v. Clover, Appellant."]
+source_url: "https://static.case.law/pa-super/89/cases/0363-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 671353
+cites_cases: ["266 Pa. 236"]
+---
+
+# Commonwealth v. Clover
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+The defendant was convicted on an indictment charging him with the possession and transportation of intoxicating liquor. It appeared from the evidence that he left Pittsburgh about four o ’clock in the afternoon, his destination being West Clarion in Clarion County. He carried with him a suit case which contained as he alleged clothing and other personal property. The train stopped at Butler for a time during which he and the conductor of the train went to a restaurant to obtain a lunch, the suit case having been left in the rear of the car. When the train arrived at West Clarion, the defendant went to the rear of the car and picked up a suit case which he carried from the car, and immediately thereafter was arrested by a member of the state police force on a charge of possessing and transporting liquor. There was no dispute that the suit case when opened by the officer was found to contain nine pint bottles of intoxicating liquor. The defense was that the suit case which he took from the car was taken by mistake, that it was not the defendant’s suit case, that he knew nothing about the liquor found therein, that his own suit cast* contained no liquor when he left Pittsburgh and that none was put there by him, nor by his permission, direction nor with his knowledge, while on the train between Pittsburgh and his destination.
+The principal assignment in the case relates to a part of the charge in which the court, speaking of the .alleged exchange of suit cases, said to the jury: “If, after yon have considered the testimony fully and carefully, you have any reasonable doubt, as explained to you, as to whether or not these suit cases were switched, as the term is, on the defendant here, that is, if you believe beyond a reasonable doubt that he left his suit case there and someone came in and substituted another, and took his, and left another in place of it, if you believe that beyond a reasonable doubt, then, it is your duty to give him the benefit of the doubt and acquit him.” But, if on the other hand, after you hear 'all the testimony you do not believe that there was this switch made on him, and that this was R. I. Clover’s suit case that came to Clarion Junction with him and belonged to him, with all the evidence pertaining to the contents.......then, I say to you, it is your duty to bring him in guilty.”
+The learned judge then read and answered defendant’s first point as follows:
+“1. We ask the court to instruct the jury that they must find the defendant guilty beyond a reasonable doubt.
+Answered: With the charge I have just given you in relation to that, this point is affirmed.”
+Two other points were presented and answered with respect to which no objection is made.
+At the conclusion of the charge the court inquired whether there was any further instruction desired; Whereupon the Commonwealth’s counsel suggested to the court that his instruction to the jury might not be exactly accurate; that he did not object on the part of the Commonwealth, but that possibly it might not be fair to the defendant. The part referred to was then repeated by the stenographer from his notes, whereupon the court said: “I will say to the jury that if you believe beyond .a reasonable doubt that there was a switch made of the suit cases in Butler, it is your duty to give the defendant the benefit of the doubt and acquit him. ’ ’
+As the whole defense was based on the alleged mistake in picking up the suit case when alighting from the train, it will be seen that the instruction of the court above quoted placed on the defendant the burden of satisfying the jury beyond reasonable doubt that his statement was true. It was not necessary, however, that the defendant should satisfy the jury beyond such doubt of any fact in the case. The Commonwealth is required to prove the guilt of the defendant beyond reasonable doubt, but the defendant is entitled to an acquittal if the evidence introduced in his behalf creates a reasonable doubt in the minds of the jurors as to his guilt, or if from all of the evidence in the case such reasonable doubt arises. The jury may not have believed beyond a reasonable doubt that the defendant’s story was true, but it may have had the effect on their minds to create doubt as to the propriety of finding a verdict of guilty. It is true the court, in answer to a point of the defendant, said to the jury that, if they had a reasonable doubt as to whether or not the defendant had knowledge of the contents of the suit case taken from him by the officer at Clarion Junction, it was their duty to acquit; but immediately after that instruction came the suggestion from the Commonwealth’s counsel with respect to the correctness of the charge and the repetition by the court of the previous instruction that, if the jury believed beyond a reasonable doubt that there was a switch made of the suit cases at Butler, it was their duty to give the defendant the benefit of the doubt and acquit him. The impression given the jury by the charge probably was that the defendant must satisfy the jury beyond all reasonable doubt that his story was true and this, as has been stated, was a greater degree of proof than the law requires. The case is not different in principle from Commonwealth v. Nunamaker, 84 Superior Ct. 97. See also Commonwealth v. Wilson, 266 Pa. 236. If the evidence offered by the defendant had the effect to create a reasonable doubt in the minds of the jurors, the defendant is entitled to instructions to the effect that he should be acquitted.
+The court was in error in the instructions set forth in the first assignment, and the judgment must therefore be reversed, with a new venire.
