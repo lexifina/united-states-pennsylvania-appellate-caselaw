@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 224"
+decided: "1918-03-02"
+citations: ["69 Pa. Super. 32"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Henderson, Head, Kephart, Trexler and Williams, JJ."]
+parties: ["Commonwealth, Appellant, v. Atlantic Refining Co."]
+source_url: "https://static.case.law/pa-super/69/cases/0032-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 632488
+cites_cases: ["144 Pa. 545", "150 Pa. 64", "159 Pa. 583", "173 Pa. 531", "196 Pa. 614", "20 Pa. Superior Ct. 210", "29 Pa. Superior Ct. 294", "29 Pa. Superior Ct. 409", "38 Pa. Superior Ct. 121", "62 Pa. Superior Ct. 451"]
+---
+
+# Commonwealth v. Atlantic Refining Co.
+
+## Majority (Williams, J.,)
+
+Opinion by
+Williams, J.,
+This was an appeal from the decision of the Board of Mercantile Appraisers of Philadelphia County imposing a mercantile license tax upon a wholesale and retail business amounting to $524,108.57, of an establishment maintained by appellee at 245 N. Thirtieth street.
+Appellee is engaged in the manufacture of petroleum products. The factory is located at 3144 Passyunk avenue. A distributing warehouse and store is maintained at 245 N. Thirtieth street, with a pump on the street, and another on the wharf, to supply gasoline. The place is listed in the telephone directory as a station of appellee; a clerk is in charge who keeps a record of the products which are distributed; and it is advertised by signs as a sales station of the company. The method of distribution was by motor trucks and horse drawn vehicles. The motor trucks started from the factory in the morning with tanks filled with oil. When this was disposed of they stopped at the station, were refilled, and distribution was made from the station during the rest of the day. The horse drawn tank wagons distributed entirely from the station. The oil was transported by barges on the Schuylkill from the factory to the station. The company employed salesmen to solicit orders which were turned into the factory, and thence telephoned to the nearest station for delivery. In addition, orders were taken at the station, and sales made from the wagons and trucks. All deliveries of oil from the station are credited thereto. A large part of. the sales are upon credit which must be arranged at the factory.
+The question involved is whether the appellee is liable to be taxed under the Act of May 2, 1899, P. L. 184, for its products distributed through its station. Section 1, of the act, provides: “That * each retail vendor of * goods, wares and merchandise shall pay an annual mercantile license tax of two dollars, and all persons so engaged shall pay one mill additional on each dollar of the whole volume, gross, of business transacted annually. Each wholesale vendor * of goods, wares and merchandise shall pay an annual mercantile license tax of three dollars, and all persons so engaged shall pay one-half mill additional on each dollar of the whole volume, gross, of business transacted annually.” A proviso of the Act of April 22, 1846, P. L. 489, exempted from the operation of the then existing mercantile license act, manufacturers who kept a store or warehouse at their own shop for the purpose of vending their own manufactures; and the Act of February 27, 1868, P. L. 43, declared the meaning of this proviso to be “that a manufacturer or mechanic, not having a store or warehouse apart from his manufactory or workshop, for the purpose of vending goods * * shall not be classified or required to pay the annual tax and license as is now required in relation to foreign dealers.”
+In the absence of exemption the appellee would be liable for the tax under the Act of 1899. To warrant exemption it must show that the business upon which it makes the claim falls within the proviso' of the Act of 1846, as modified by the Act of 1868. The tax is levied upon a mode of doing business, and not upon the person or property : Com. v. Thomas Potter, Sons & Co., 159 Pa. 583; Knisely v. Cotterel, 196 Pa. 614. A corporation is liable to the tax if it maintains a store or warehouse apart from the factory for the purpose of selling or vending goods: Com. v. Bailey, Banks & Biddle Co., 20 Pa. Superior Ct. 210. The place of business must be permanent: Com. v. American Tobacco Co., 173 Pa. 531.
+The station is a permanent place, separate and apart from the factory, for the sale, either at wholesale or retail, of the company’s products and those manufactured by others; no goods are manufactured there; all the products kept there are for sale; all the business upon which the appraisers seek to levy a tax resulted from goods distributed from the station, which receives credit for every unit taken from it.
+Taxation laws are presumably uniform. The Constitution requires it. To exempt one manufacturer because he or it has a different system of keeping books from another would operate to destroy this uniformity. The goods sold from the trucks and wagons are not exempt as peddlers’ sales: Com. v. Abbotts Alderney Dairies, 62 Pa. Superior Ct. 451. The goods delivered or handled through the station do not become the subject of barter and sale until they arrive there, and, for the purposes of the Act of 1899, the sale is accomplished from or at the place where they are so made available.
+Appellee, arguing it is much more convenient to have centrally located stations, saving long trips to the factory by motor trucks, thus expediting the business of distributing oil, contends that the station can be used for the sale of goods actually accomplished thereat, upon which a tax would be payable; and at the same time may be used as a storage place or warehouse for products to be sold outside the station, to be withdrawn upon requisition from the factory, upon which no tax would be payable. We know of no case, applicable to the facts of this, making such distinction.
+The judgment is reversed and the record remitted with direction that, in accordance with tlie second clause of the stipulation, the court below enter judgment for the Commonwealth.
+Note. — Three other memorandum opinions in cases involving the same parties and the same question were filed on the same date.
