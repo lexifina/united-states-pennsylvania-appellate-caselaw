@@ -1,0 +1,33 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1628 C.D. 1976"
+decided: "1977-12-13"
+citations: ["32 Pa. Commw. 637"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to President Judge Bowman and Judges Mencer and Blatt, sitting as a panel of three."]
+parties: ["United States Steel Corporation, Petitioner v. Commonwealth of Pennsylvania, Workmen’s Compensation Appeal Board and Thomas P. Elkins, Respondents."]
+source_url: "https://static.case.law/pa-commw/32/cases/0637-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1883557
+cites_cases: ["12 Pa. Commonwealth Ct. 530", "138 A.2d 251", "18 Pa. Commonwealth Ct. 35", "185 Pa. Superior Ct. 540", "203 A.2d 578", "204 Pa. Superior Ct. 87", "317 A.2d 315", "333 A.2d 836"]
+---
+
+# United States Steel Corp. v. Commonwealth
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+The United States Steel Corporation (employer) appeals here from an order of the Workmen’s Compensation Appeal Board (Board) which affirmed a referee’s decision awarding compensation to Thomas Elkins (claimant) for the loss of the use of his left foot.
+In 1968, an accident in the course of the claimant’s employment necessitated the amputation of all five toes and portions of the metatarsal bones of his left foot. On December 6, 1968, pursuant to The Pennsylvania Workmen’s Compensation Act (Act), the claimant filed a petition for benefits alleging that he suffered the industrial loss of the foot. He subsequently withdrew this petition, however, and entered into an agreement with his employer for compensation for the specific loss of all five toes.. After benefits under this agreement had ceased, the claimant filed a petition for review alleging that he was entitled to additional specific losses, and, after several hearings, the referee found that “the claimant suffered the industrial loss of his left foot” and awarded additional benefits. The Board on appeal affirmed the award but modified the payment schedule to credit amounts paid by the employer under the prior agreement. On appeal to this Court, we reversed the Board, holding that the referee and the Board had applied the wrong standard in determining the loss of use, and directed the Board on remand to determine if the claimant had lost the use of his foot for all practical intents and purposes. See United States Steel Corp. v. Workmen’s Compensation Appeal Board, 18 Pa. Commonwealth Ct. 35, 333 A.2d 836 (1975). On remand, the referee found that the claimant had lost the use of his left foot for all practical intents and purposes and additional benefits were again awarded. The Board affirmed the referee’s decision and the employer has appealed to this Court.
+Section 427 of the Act, 77 P.S. §876.1, provides that this Court’s scope of review in workmen’s compensation appeals is that defined in Section 44 of the Administrative Agency Law, 71 P.S. §1710.44. Section 44 limits our scope of review here to a determination of whether or not an error of law was committed, constitutional rights were violated, or whether or not findings of fact are unsupported by substantial evidence. The sole issue raised by 'the employer here is whether or not the referee’s finding of loss is supported by adequate competent evidence.
+Section 306(c) (24) of the Act, 77 P.S. §513, provides that “ [p]ermanent loss of the use of a . . . foot . . .- shall be considered as the equivalent of the loss of such . . . foot. ...” However, a finding of loss of use under Section 306(c) is not a finding that the injured member has absolutely no use, Curran v. Walter E. Knipe & Sons, Inc., 185 Pa. Superior Ct. 540, 547, 138 A.2d 251, 255 (1958), and we held in Lebanon Steel Foundry v. Workmen’s Compensation Appeal Board, 12 Pa. Commonwealth Ct. 530, 533, 317 A.2d 315, 316 (1974) that Section 306(c) should be so construed that every reasonable intendment of its express language should be upheld in behalf of the employee.
+The evidence presented by 'the claimant before the referee consisted of his own testimony and that of his physician. This physician, a specialist in rehabilitative medicine,-unequivocally stated that the substantial loss of the toes and foot indicated to him that the claimant had suffered the loss of the foot for all practical intents and purposes. In listing the limitations which the injury placed on the claimant, his physician said that the claimant had lost the most important functional part of his foot and that he could not climb, run, make quick and dexterous movements of his foot or stand for very long without a prosthesis. On this record, we believe that the referee’s findings that the claimant had lost the use of his foot for all practical intents' and purposes is clearly supported- by competent evidence.
+The employer argues, relying on Verna v. Stabler, 204 Pa. Superior Ct. 87, 203 A.2d 578 (1964), that the evidence in the record which indicates that the claimant was now employed as an assistant to a punch press operator undermines the competency of his physician’s testimony, because that job requires standing and walking. It is true that the Superior Court held in Stabler, supra, that a physician’s testimony of loss of use of a foot was of little value in the face of uncontradicted testimony that the claimant was later successfully employed in a job which required the constant use of the injured member. We believe, however, that the present case is distinguishable from Stabler in light of the uncontradicted testimony of the claimant’s physician that a prosthesis device in the claimant’s shoe permits him to walk and stand and that without it he could not work. We believe, therefore, that the fact that the injured member may now have some limited use but only in combination with a prosthesis device does not adversely affect the competency of the physician’s testimony.
+The order of the Board is affirmed.
+Order
+And, Now, this 13th day of December, 1977, the order of the Workmen’s Compensation Appeal Board is affirmed and it is ordered that judgment be entered in favor of Thomas Elkins and against United States Steel Corporation in the amount of $60.00 per week for a period of 150 weeks, at which time compensation shall terminate. It is further ordered that compensation previously paid to the claimant by the defendant under a prior agreement for a period of 104 weeks at the rate of $60.00 per week be credited to the amount of compensation owed by the defendant to the claimant pursuant to this order.
+Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §1 et seq.
+Act of June 4, 1945, P.L. 1388, as amended, 71 P.S. §1710.1 et seq.
