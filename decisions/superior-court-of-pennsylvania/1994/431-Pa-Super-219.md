@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "01155"
+decided: "1994-01-13"
+citations: ["431 Pa. Super. 219", "636 A.2d 208"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DEL SOLE, TAMILIA and HESTER, JJ.", "DEL SOLE, J., concurs in the result."]
+parties: ["Roger RITCHEY, Appellant, v. David M. PATT."]
+source_url: "https://static.case.law/pa-super/431/cases/0219-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 937913
+cites_cases: ["353 Pa.Super. 362", "356 Pa.Super. 213", "399 Pa.Super. 206", "418 Pa.Super. 111"]
+---
+
+# Ritchey v. Patt
+
+## Majority (TAMILIA, Judge.)
+
+TAMILIA, Judge.
+Appellant/plaintiff, Roger Ritchey, appeals from the June 21, 1993 court Order granting judgment on the pleadings in favor of appellee/defendant, David M. Patt.
+Appellant commenced the underlying civil action as the result of personal injuries received during the course of his employment for Entre Computer Company, which leased property from appellee/landlord. The lease called for exterior repairs to be performed by the landlord. On or about August 31, 1989, appellant, while exiting the premises through a service door, slipped on the edge of a concrete slab which was part of the walkway. Appellant alleges the slab was too narrow and unstable causing him to fall, suffering various injuries including a fractured right ankle and damage to his shoulder. Appellant also claims damages for mental stress, pain and suffering, lost wages and medical expenses.
+Appellant filed a praecipe for writ of summons on or about November 13, 1991. In the corresponding complaint, filed February 27, 1992, appellant pled a cause of action for personal injuries based upon negligence and a breach of an implied warranty of habitability and workmanship pursuant to the property lease. The trial court granted appellee’s motion for judgment on the pleadings pursuant to 42 Pa.C.S. § 5424, which provides, in pertinent part, a two-year statute of limitations for actions to recover damages for injuries to the person.
+On appeal to this Court, appellant alleges the trial court erred in dismissing the complaint since his claim for damages is actually based upon a breach of the implied warranty which accompanied the commercial lease contract to which appellant was a third-party beneficiary. He further claims the relevant statute for this type of action is 42 Pa.C.S. § 5525 which requires commencement of actions within four years.
+This Court’s standard of review governing the propriety of a judgment on the pleadings is that:
+we must accept as true all well pleaded statements of fact of the party against whom the motion is granted and consider against him only those facts that he specifically admits. We will affirm the grant of such a motion only when the moving party’s right to succeed is certain and the case is so free from doubt that the trial would clearly be a fruitless exercise.
+Kester v. Erie Insurance Co., 399 Pa.Super. 206, 582 A.2d 17 (1990), citing Jones v. Travelers Insurance Company, 356 Pa.Super. 213, 514 A.2d 576 (1986).
+In Pennsylvania, an action to recover damages for personal injuries is governed by a two-year statute of limitation. 42 Pa.C.S. § 5524(2); Aivazoglou v. Drever Furnaces, 418 Pa.Super. 111, 613 A.2d 595 (1992).
+Appellant attempts to circumvent this statute by claiming an action in contract. Specifically, appellant alleges he was a third-party beneficiary of the lease contract in effect between his employer and appellee. As such, appellant is entitled to assert a claim for breach of implied warranties of habitability and reasonable workmanship under the lease. Further, in his analysis, appellant alleges his claim under the commercial property lease is analogous to personal injury claims under Article 2 of the Uniform Commercial Code (UCC) in which the four-year statute of limitation (42 Pa.C.S. § 5525) has been prescribed.
+We find appellant’s argument to be without merit. This Court has stated that in Pennsylvania the nature of the relief requested, rather than the form of the pleading, determines which statute of limitations controls a particular action. Spack v. Apostolidis, 353 Pa.Super. 362, 510 A.2d 352 (1986) (fin banc). The two-year statute of limitations contains general language and does not distinguish personal injuries resulting from negligence or contract breaches. Rather, it addresses every suit to recover damages for injury wrongfully due to a person. Id.
+Appellant’s complaint alleges a third-party beneficiary claim against appellee for injuries received on the leased premises. In his complaint, he seeks damages for injuries to his ankle and shoulder as well as pain and suffering, mental distress, loss of enjoyment of life and lost wages. We do not regard these requested damages as true contract damages such as cost of remedying defects in performance or cost of completing the bargained for exchange. Moreover, Article 2 of the UCC applies to the sale of goods and services. The cases cited by appellant deal with breaches of warranty pursuant to the sales and leases of goods. We find these cases in no way analogous to a third-party beneficiary claim for personal injuries under a commercial real estate lease. Accordingly, appellant’s action is barred by the two-year statute of limitations.
+Order affirmed.
+DEL SOLE, J., concurs in the result.
