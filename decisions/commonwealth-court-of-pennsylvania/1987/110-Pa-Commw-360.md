@@ -1,0 +1,49 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 278 C.D. 1986"
+decided: "1987-10-21"
+citations: ["110 Pa. Commw. 360", "532 A.2d 530"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail and Doyle, and Senior Judge Blatt, sitting as a panel of three."]
+parties: ["Pennsylvania Drycleaners and Launderers Association and Dale I. Kaplan Inc., t/a Capen Careful Cleaners, Petitioners v. Commonwealth of Pennsylvania Industrial Board, Respondent."]
+source_url: "https://static.case.law/pa-commw/110/cases/0360-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1364508
+cites_cases: ["34 Pa. Code §3.62", "476 Pa. 302", "483 A.2d 1025", "85 Pa. Commonwealth Ct. 604"]
+---
+
+# Pennsylvania Drycleaners & Launderers Ass'n v. Commonwealth of Pennsylvania Industrial Board
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+This is an appeal by the Pennsylvania Dry Cleaners and Launderers Association and Dale I. Kaplan Inc., t/a Capen Careful Cleaners (petitioners) from an order of the Industrial Board (Board) which, inter alia, declared that Sections 5(b) and 8(d) of the Dry Cleaning and Dyeing Law, Act of May 14, 1949, P. L. 1342, as amended, 35 P.S. §§1269.5(b), 1269.8(d) (Law) were unreasonable as applied to One Hour Martinizing dry cleaning (Martinizing) and its franchisee, Mr. Tae Ho Cho (Mr. Cho).
+The Board made the following relevant findings. Martinizing is located in a one-story building composed of non-combustible materials and is a Class IV dry cleaning and dyeing plant. It utilizes a closed dry cleaning system and there are relatively low levels of perchlorethylene vapors present in the plant. Based upon these findings, the Board determined that a requirement that Martinizing and Mr. Cho comply with Sections 5(b) and 8(d) of the Law was unreasonable and hence it excused such compliance.
+Section 5(b) provides:
+No room used for dry cleaning or dyeing shall be used for any other purpose or occupancy than spotting, spunging, brushing, reclaiming of solvents and the housing of drying cabinets and tumblers.
+Section 8(d) provides:
+All walls of dry cleaning, dyeing, tumbler or drying rooms shall be of brick laid in cement mortar, or of reinforced concrete, or of stone laid in cement mortar, or covered with other noncombustible material approved by the department [of Labor and Industry].
+The petitioners make two arguments to this Court. First, they maintain that the Board has no power to, in effect, grant a “variance” from the statutory provisions of the Law by deeming compliance with them to be unreasonable. Second, they argue that, even if the Board had such authority, the facts in this case do not warrant a determination that compliance would be unreasonable.
+In considering the first issue, we begin by examining the powers of the Board pursuant to Section 14 of the Law, 35 P.S. §1269.14, which Section reads as follows:
+Any person, copartnership, association or corporation aggrieved by any order of the department made in carrying out the provisions of this act or by the departments refusal of any application for approval under section twelve of this act may, at any time within thirty days after receipt of notice of such order or refusal, appeal to the Industrial Board by filing with such board a verified petition setting out specifically and in full detail the order or refusal upon which a hearing is desired and the reasons why such order or refusal is deemed to be unreasonable or invalid.
+The Industrial Board shall make an adjudication with respect to any such petition, in accordance with the procedure prescribed in the Administrative Agency Law . . . and any such adjudication made by the board shall be subject to judicial review in the manner prescribed by said Administrative Agency Law.
+This statute is the authority upon which the Board relied in issuing its adjudication and order. While the Board admitted that it could not grant a “variance,” it reasoned that, because it can deem departmental actions to be invalid or unnecessary, it can review such actions both to determine whether or not they are illegal (i.e. invalid) and also to determine whether or not they are unreasonable, the latter question necessarily involving discretion. The Board, citing Section 1921(a) of the Statutory Construction Act of 1972, 1 Pa. C. S. §1921(a), further maintains that, if its authority were limited only to determining the validity of departmental actions, the word “unreasonable,” appearing in Section 14, would be mere surplusage. We do not agree and believe such interpretation to be overly technical.
+Nowhere in the Law is the Board clearly authorized to excuse compliance with a mandatory statutory provision. Where the Legislature has wished to give a board or commission broad discretion, it has demonstrated its ability to do so in clear terms. See e.g. Sections 1 and 3 of the Act of April 27, 1927, P.L. 465, as amended, 35 P.S. §§1221, 1223 (colloquially known as the Fire and Panic Act). Rather than granting the Board here broad authority, the Law contains statutes filled with detailed mandatory requirements, and no clear language authorizes the Board to excuse compliance with those provisions. In fact, Section 3 of the Law, 35 P.S. §1269.3, suggests the opposite when it states:
+No person, partnership, association or corporation shall erect, construct, maintain or operate any dry cleaning and dyeing plant except in accordance with the provisions of this Act.
+Moreover, the Boards argument that the Department of Labor and Industry has been granted broad administrative adjudicatory authority in Section 3.1 of what is colloquially known as the Physically Handicapped Act and in Section 307 of the Building Energy Conservation Act actually undercuts its argument by demonstrating that the Legislature knows how to convey specifically the power to grant variances or their equivalents when it wishes to do so.
+Our State Supreme Court has clearly held that the power and authority to be exercised by an administrative body must be conferred by clear legislative language and that a doubtful power does not exist. Pennsylvania Human Relations Commission v. St. Joe Minerals Corp., 476 Pa. 302, 382 A.2d 731 (1978). We must hold, therefore, that the Board has not been given a specific grant of authority to excuse compliance with the mandatory requirements of the Law, and that its attempts to do so cannot be upheld.
+The Board further argues that its grant of authority to waive mandatory conditions can be viewed as implied. Again, we disagree. While it is true, as the Board contends, that an agency should be viewed as having the powers necessary for it to achieve tasks specifically assigned to it and the implied incidental powers to facilitate completion of those tasks, see Pennsylvania Builders Association v. Pennsylvania Public Utility Commission, 85 Pa. Commonwealth Ct. 604, 483 A.2d 1025 (1984), there is no indication that the Legislature wished the Board to have the power to excuse compliance with the mandatory provisions of the Law. We must, therefore, decline to find that the Board has the implied power that it here seeks to exercise..
+Because of our determination that the Board lacked the authority to excuse compliance in this case, we need not consider the question of whether or not the Board s findings were supported by substantial evidence or whether or not the Boards resolution of this case was justified under the circumstances.
+Based upon the foregoing opinion, the order of the Board is reversed.
+Order
+And Now, this 21st day of October, 1987, the order of the Industrial Board in. the above-captioned matter is reversed insofar as it excused compliance by Martinizing and Mr. Cho from Sections 5(b) and 8(d) of the Law.
+A Class IV Dry Cleaning and Dyeing establishment is one wherein the solvent used is a “commercially non-aqueous liquid solvent which is volatile but does not contain flash point ingredients” and which does not fell within any other solvent class. Section 2 of the Law, 35 P.S. §1269.2.
+A closed dry cleaning system is one in which “the solvent is cleaned through a filtration system. Solvent vapors are reclaimed to the dry cleaning unit by a vapor-absorber unit. Vapors which cannot be reclaimed are vented to the outside atmosphere.” Boards Brief p. 18.
+Perchlorethylene is a non-flammable and non-explosive solvent used by Martinizing in its dry cleaning. Exposure to this chemical at high temperatures can cause thermal decomposition which could conceivably result in the formation of toxic and corrosive gases. Boards Adjudication p. 13.
+The Board did require Martinizing and Mr. Cho to comply with other statutory requirements and that portion of the order is not appealed. Further, the Board excused compliance with a regulation that there be two means of ingress and egress from the boiler room, see 34 Pa. Code §3.62, and additionally granted Martinizing approval for the use of the Martin Product Code 446, Dry-to-Dry Professional Dry Cleaner. These portions of the order were also not appealed.
+We take a moment here to note that pursuant to Section 14 of the Law, 35 P.S. §1269.14, the Board should be reviewing determinations of the Department of Labor and Industry. Procedurally, the instant matter is unusual. Apparently, Martinizing constructed its building without checking the State Law and then sought relief from the provisions it had not complied with via a petition to the Board. The Board heard the petition although there had been no departmental action taken first. We express no opinion as to this procedure inasmuch as the matter is not really pressed on appeal.
+Act of September 1, 1965, P.L. 459, as amended, 71 P.S. §1455.3a.
+Act of December 15, 1980, P. L. 1203, as amended, 35 P. S. §7201.307.
