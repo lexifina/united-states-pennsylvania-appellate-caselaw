@@ -1,0 +1,40 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "123 C.D. 1974"
+decided: "1977-07-21"
+citations: ["31 Pa. Commw. 212"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Mencer, Rogers and Blatt."]
+parties: ["Pennsylvania Turnpike Commission, Plaintiff v. Atlantic Richfield Company, Defendant."]
+source_url: "https://static.case.law/pa-commw/31/cases/0212-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1881769
+cites_cases: ["12 A.2d 108", "139 A.2d 552", "191 A.2d 386", "21 A.2d 23", "253 A.2d 252", "29 Pa. Commonwealth Ct. 232", "29 Pa. Commonwealth Ct. 457", "3 Pa. 151", "301 A.2d 849", "305 A.2d 877", "335 Pa. 273", "337 Pa. 390", "34 A.2d 493", "342 Pa. 351", "348 Pa. 129", "370 A.2d 401", "371 A.2d 571", "377 F.2d 776", "392 Pa. 26", "392 U.S. 481", "411 Pa. 121", "434 Pa. 305", "453 Pa. 584", "454 Pa. 179", "462 Pa. 474", "6 A.2d 884", "71 Pa. 208"]
+---
+
+# Pennsylvania Turnpike Commission v. Atlantic Richfield Co.
+
+## Majority (President Judge Bowman,)
+
+Opinion by
+President Judge Bowman,
+In 1953 and 1956, the Pennsylvania Turnpike Commission (Commission) and Atlantic Richfield Company (ARCO) executed two leases allowing ARCO to operate service stations along extensions of the Pennsylvania Turnpike. Rent was to accrue and be payable monthly and was to be based upon specified percentages of goods and services sold- — the percentages varying with the nature of the product.
+. Since the execution of these leases, the Commission has regularly audited the accounts of ARCO and, though disputes have arisen in the past regarding AR-CO’s computation of rent due, no formal action was taken by the Commission until January 29, 1974, when it initiated, by a complaint in assumpsit, this proceeding averring improper computation of rents by AR-CO. The Commission seeks from ARCO an accounting from the inception of the rental period and damages for alleged underpayments.
+ARCO has moved for summary judgment, raising the defenses of laches and the running of the applicable six year statute of limitations. Act of March 27,1713, 1 Sm.L. 76, 12 P.S. §31. Summary judgment may be granted upon timely motion of any party when,
+there is no genuine issue as to any material fact and . . . the moving party is entitled to a judgment as a matter of law. A summary judgment, interlocutory in character, may be rendered on the issues of liability alone although there is a genuine issue as to the amount of damages.
+Pa. R.C.P. No. 1035(b).
+Such is the case in these proceedings.
+In support of its motion, ARCO contends that the Commission, since being stripped of sovereign immunity in Specter v. Commonwealth, 462 Pa. 474, 341 A. 2d 481 (1975), is subject to the running of the statute of limitations and that, in any event, laches is available as a defense to an action by the Commission. Stahl v. First Pennsylvania Banking & Trust Co., 411 Pa. 121, 191 A.2d 386 (1963). ARCO demands that the complaint be dismissed in its entirety.
+The Commission responds that notwithstanding Specter, it is immune to the running of the statute of limitations as it is asserting a “public right” in order to recover public monies. See generally Philadelphia v. Homes Electric Protective Co. of Philadelphia, 335 Pa. 273, 6 A.2d 884 (1939). The Commission also argues that laches, being an equitable defense, is not available in an action at law sounding in assumpsit, citing Bauer v. P. A. Cutri Co. of Bradford, Inc., 434 Pa. 305, 253 A.2d 252 (1969), and that, in any event, ARCO has suffered no prejudice. Finally, the Commission argues that even if it is subject to the statute of limitations, its claims may be asserted for underpayments during the six years prior to the filing of suit. With 'this last contention, we agree.
+The essence of laches is estoppel, Stahl, supra, arising out of inexcusable delay in the bringing of suit which prejudices the defendant’s rights to such an extent that it would be an injustice to permit suit to be brought. Silver v. Korr, 392 Pa. 26, 139 A.2d 552 (1958). That law and equity have concurrent jurisdiction over actions for accounting, Ebbert v. Plymouth Oil Co., 348 Pa. 129, 34 A.2d 493 (1943), does not alter the fact that this action was brought in assumpsit, an action at law, and it is settled beyond reasonable dispute that the equitable defense of laches cannot be invoked to deprive a party of his rights at law. Bauer, supra; General State Authority v. Kline, 29 Pa. Commonwealth Ct. 232, 370 A.2d 401 (1977). Therefore, to the extent that ARCO’s motion for summary judgment raises the defense of laches, it is dismissed.
+The Commonwealth, as the sovereign, is not subject to the statutes of limitations, unless specifically named in the statute, because the maxim nullum tempus occurrit regí has been adopted into our law as a matter of public policy. Frey’s Estate, 342 Pa. 351, 21 A.2d 23 (1941); McKeehan v. Commonwealth, 3 Pa. 151 (1846). However, when our Supreme Court held in Specter, supra, that the Commission was distinct as an entity separate and apart from the Commonwealth to such an extent that it could not “share the attributes of sovereignty which inhere in the state,” 462 Pa. at 493, 341 A.2d at 491 (emphasis added), we believe it implicitly also removed from the Commission that attribute of sovereignty which shielded it from the running of time. The rationale and policy underlying Specter, supra, are equally applicable here — particularly as the concept of nullum tempus occurrit regi is not of constitutional dimensions as is sovereign immunity. Frey’s Estate, supra; Wright v. Commonwealth, 29 Pa. Commonwealth Ct. 457, 371 A.2d 571 (1977); see also Biello v. Pennsylvania Liquor Control Board, 454 Pa. 179, 301 A.2d 849 (1973); Ayala v. Philadelphia Board of Public Education, 453 Pa. 584, 305 A.2d 877 (1973).
+Turning to the effect of the statute of limitations on the Commission’s claim:
+[W] here the repeated and measurable invasion of a plaintiff’s rights occurs both outside the statutory period and also within it, the fact that some of the injury and damage occurred outside the statutory period does not affect the plaintiff’s right to recover for the separate invasion of its rights which occurred within the period. Indeed, any other rule would be an affront to reason. . . . The policy of the statute of limitations is maintained by allowing recovery for measurable injury within the period and barring recovery for injury beyond it.
+Hanover Shoe, Inc. v. United Shoe Machinery Corp., 377 F.2d 776, 795 (3d Cir. 1967), aff’d in part, rev’d in part on other grounds, 392 U.S. 481 (1968); Van Sciver v. Van Sciver, 337 Pa. 390, 12 A.2d 108 (1940); Standard Pennsylvania Procedure, Yol. 2 §§99-100 (1956).
+A statute of limitations does not begin to run until the accrual of a cause of action. The Commission could have no cause of action until each allegedly improperly computed payment was made and, as to each such payment, a separate and distinct cause of action would accrue. Bush v. Stowell, 71 Pa. 208 (1872); A. L. Corbin, Corbin on Contracts, §§948-951 (1951). Therefore, summary judgment against the Commission shall be granted only as to those causes of action predating the initiation of this action by more than six years.
+Order
+Now, July 21, 1977, defendant’s motion for summary judgment is denied in part and granted in part. To the extent that plaintiff’s complaint seeks an accounting and recovery of damages under the two leases pleaded for a period of time predating by more than six years the date of the initiation of this suit, defendant’s motion for summary judgment is granted. As to the period of time which is within six years of the date of the initiation of this suit, defendant’s motion for summary judgment is denied.
+The Complaint is framed in two counts, one for each lease.
+“Time does not run against the king.” Black’s Law Dictionary 1217 (Rev. 4th ed. 1968).
