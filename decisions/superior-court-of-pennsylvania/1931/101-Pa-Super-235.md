@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 11"
+decided: "1931-03-13"
+citations: ["101 Pa. Super. 235"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Kellee, Linn, Gawthrop, Cunningham, Baldrige and Drew, JJ."]
+parties: ["Andrisin, Appellant, v. Temple Coal Company."]
+source_url: "https://static.case.law/pa-super/101/cases/0235-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 692883
+cites_cases: ["270 Pa. 12", "277 Pa. 70", "279 Pa. 184", "290 Pa. 480", "297 Pa. 230", "297 Pa. 508", "98 Pa. Superior Ct. 28"]
+---
+
+# Andrisin v. Temple Coal Co.
+
+## Majority (Gawthrop, J.,)
+
+Opinion by
+Gawthrop, J.,
+Mary Andrisin claimed compensation for the death of her husband, John Andrisin. The facts in the case are not in dispute. John Andrisin was employed by the defendant to do outside work at its Sterrick Creek Colliery at Jessup, Lackawanna County. The colliery lies on the north side of Hill Street, which is an improved street running east and west. The railway tracks of the Erie Railroad Company cross Hill Street and run northwardly through the defendant’s premises and along the west side of the breaker. The distance between the west side of the breaker and the nearest rail of the railroad tracks is about twenty feet. The space between the railroad tracks and the breaker is part of a road which is used by wagons, motor trucks and persons in going from the colliery property to Hill Street. This road runs parallel with and close to the railroad tracks. The home of the deceased was on Hill Street at a point west of the railroad crossing, so that it was necessary for him to cross the railroad in going to and from his work. On September 8, 1928, he had finished his work for the day, placed his tools in a shanty a short distance north of the breaker, started for his home and walked along the wagon road leading to Hill Street until he reached a point near the center of the breaker. At that point he undertook to make a short cut to his home by leaving the road and crossing the railroad tracks and was struck and fatally injured by a box car which was being shifted by the Erie Railroad Company. The conclusions of law of the referee were that the decedent was not in the course of his employment for defendant, or furthering the interest or business of his employer, or on its premises, at the time he was injured, and that, therefore, he was not entitled to compensation. The appeals by the claimant to the board and to the court below were dismissed and this appeal followed.
+Counsel for appellant concede in their brief that the deceased was not engaged in the furtherance of the business or affairs of his employer when he was injured, and state that “the only question in the case is whether the particular area on which the tracks in question are located is ‘premises’ within the meaning of the law.” The word “premises” as used in the act, has a narrower meaning than the word “property.” It does not include property outside of that connected with the actual place where the employer carries on the business in which the employee is engaged: Morucci v. Susquehanna Col. Co., 297 Pa. 508, 513, and cases there cited. It includes only so much of the master’s property as is necessary for the conduct of the business: Black v. Herman, 297 Pa. 230. It may embrace a public street maintained by him: Meucci v. Gallatin Coal Co., 279 Pa. 184; or a private road leading to its workings, used by it for business purposes, and provided for the use of its workmen in going to and from their work: Tolan v. Phila. & Reading C. & I. Co., 270 Pa. 12. In Shoffler v. Lehigh Valley Coal Co., 290 Pa. 480, our Supreme Court said: “The premises must be such as are occupied by or under the control of the master, or be the place where the master’s work is usually carried on; but the employer’s premises for the particular employee must ordinarily be the place where his duties are usually carried on.” We think that the underlying facts found by the referee and accepted by the board compel the conclusion of law that the place where the accident happened was not part of the premises of the employer within the meaning of that term as used in the act. Whether the evidence brings the claim within the statutory definition of premises is a question of law: Johnson v. Baldwin Locomotive Works, 98 Pa. Superior Ct. 28. The operation of the railroad was not under the control of the defendant;.no part of its business was being conducted on that portion of its property. When the deceased employee left the wagon road and stepped upon the track operated and controlled by the Erie Railroad Company, he not only left the premises occupied or controlled by his employer, but was in a place where his presence was not required by the nature of his employment. See Rotolo v. Punxsutawney Furnace Co., 277 Pa. 70. It follows that the widow’s claim for compensation was properly refused.
+The judgment of the court below is affirmed.
