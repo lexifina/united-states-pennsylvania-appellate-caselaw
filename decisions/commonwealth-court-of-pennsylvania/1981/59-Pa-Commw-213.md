@@ -1,0 +1,46 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1584 C.D. 1980"
+decided: "1981-05-08"
+citations: ["59 Pa. Commw. 213"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Crumlish and Judges Craig and Williams, Jr., sitting as a panel of three.", "Judge Wilkinson, Jr., did not participate in the decision in this case."]
+parties: ["Reginald Gaskins, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/59/cases/0213-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1920775
+cites_cases: ["12 Pa. Commonwealth Ct. 176", "22 Pa. Commonwealth Ct. 225", "24 Pa. Commonwealth Ct. 143", "25 Pa. Commonwealth Ct. 34", "305 A.2d 728", "316 A.2d 110", "348 A.2d 497", "353 A.2d 920", "358 A.2d 145", "396 A.2d 480", "40 Pa. Commonwealth Ct. 1", "415 A.2d 1263", "52 Pa. Commonwealth Ct. 356", "9 Pa. Commonwealth Ct. 149"]
+---
+
+# Gaskins v. Commonwealth, Unemployment Compensation Board of Review
+
+## Majority (Judge Williams, Jr.,)
+
+Opinion by
+Judge Williams, Jr.,
+Claimant appeals to this Court to reverse a decision and order of the Unemployment Compensation Board of Review (Board), which affirmed the determination of the referee that claimant’s appeal from the decision of the Bureau of Employment Security (Bureau) was untimely filed. We find no error in the decision of the Board.
+Claimant worked for Jefferson Hospital as an elevator operator group leader until his dismissal on December 13, 1979, for willful misconduct. His unemployment compensation claim was denied by the Bureau, which sent Mm proper notice of his failure to qualify.' According to Bureau records, the decision was made, and notice thereof was sent on February 29, 1980.
+The hearing before the referee was confined solely to the issue of whether the notice was received so that the appeal could be filed in a timely manner. Claimant testified that he did not receive the notice until March 19,1980, when it was handed to Mm at Ms home by a stranger, who said that it had been delivered to the wrong address, even though it was correctly addressed. Claimant further testified that he went to the address where the notice was allegedly delivered, but the occupants knew nothing of the letter or the young man who had delivered it to claimant.
+The next day, according to his testimony, claimant went to his local unemployment office, and filed his appeal from the Bureau determination, stating thereon that the reason for the late filing was delivery to the wrong address. The referee heard his testimony, but dismissed the claim, reasoning that, since the provisions of the Act concerning timely appeal are mandatory, she had no jurisdiction to allow the appeal.
+Claimant then appealed to the Board, giving as his reason therefor that the decision of the referee was “harsh and unjust.” The Board affirmed the referee’s decision, making no additional findings.
+Upon, appeal to this Court, claimant raised two issues : (1) whether the presumption of timely delivery of an administrative notice is sufficient basis to deny an untimely appeal, and (2) whether the determination of ineligibility by the Bureau violated claimant’s constitutional rights to due process by failing to allow him a prior evidentiary hearing.
+This Court has previously held that
+‘[a]n aggrieved party may not appeal after the time prescribed, unless he can prove that he was deprived of his right of appeal by fraud or its equivalent, i.e., wrongful or negligent conduct of the administrative authorities.’ (Citations omitted.)
+Kitchell v. Unemployment Compensation Board of Review, 9 Pa. Commonwealth Ct. 149, 151, 305 A.2d 728, 729 (1973), Accord, Strawley v. Unemployment Compensation Board of Review, 25 Pa. Commonwealth Ct. 34, 358 A.2d 145 (1976). In such a case, it is not incumbent upon either the appellee or the administrative officials to present any affirmative evidence, other than that of mailing, at the hearing. Rather, it is the claimant who must prove the allegations upon which he has based his case. Cf. Unemployment Compensation Board of Review v. Hart, 22 Pa. Commonwealth Ct. 225, 348 A.2d 497 (1975).
+If there is evidence in the record that the determination of the Bureau was mailed to the claimant’s last known address, and that the notice was not returned to the Bureau by the postal officials as undeLiverable, then there is a presumption of the regularity of administrative acts of public officials which the referee may invoke in reaching a determination that the claimant did have proper notice. Effort Foundry v. Unemployment Compensation Board of Review, 52 Pa. Commonwealth Ct. 356, 415 A.2d 1263 (1980). Furthermore, the credibility of the claimant’s testi-
+mony on the subject, and the weight to be given the evidence presented are matters to be decided by the Board, Unemployment Compensation Board of Review v. DiVictoria, 24 Pa. Commonwealth Ct. 143, 353 A.2d 920 (1976), which need not accept even the uncontroverted testimony of the claimant if it could conclude that his testimony was not credible. Hart, supra.
+In the instant case, the referee found and the Board affirmed that the notice was mailed on the 29th of February, was not returned by the postal authorities, and contained the information necessary to put claimant on notice concerning a timely appeal. Our scope of review.
+in the absence of fraud, is confined to questions of law and a determination of whether the findings of the Unemployment Compensation Board of Review are supported by the evidence, leaving to the Board questions of credibility and weight of the evidence and giving to the prevailing party the benefit of any favorable inferences which can be reasonably and logically drawn therefrom.
+Horace W. Longacre, Inc. v. Unemployment Compensation Board of Review, 12 Pa. Commonwealth Ct. 176, 178, 316 A.2d 110, 111 (1974). An examination of the record indicates that the findings are supported by the record. Since these findings do support a conclusion that the appeal was untimely, we affirm the decision of the Board.
+We now direct our attention to claimant’s other arguments. The first, that he had no chance to introduce evidence of the extenuating circumstances of the late appeal, is belied by several pages of his own testimony directed to that issue at the hearing.
+The second is that the burden of affirmatively proving delivery of the notice “should be on the party asserting it” when the claimant is a non-resident of the state, since mail service across state lines is more uncertain and inaccurate than mail service within the state. This averment is not supported by any evidence in the record. We note here that the Bureau is not asserting delivery; evidence of mailing vests the Bureau with the presumption of delivery which claimant must attempt to rebut. The court further reiterates that questions of credibility are within the purview of the Board, which may give credence to the testimony of claimant that delivery was untimely.
+Turning to claimant’s final arguments, we reproduce in full note 1 from Katz v. Unemployment Compensation Board of Review, 40 Pa. Commonwealth Ct. 1, 3, 396 A.2d 480, 481 (1979):
+Claimant makes several other arguments dealing generally with alleged violations of federal constitutional and statutory law. Nothing in the record indicates, and Claimant does not suggest, that these issues were raised below or dealt with by the various administrative review bodies. The applicable scope of review provision of the Administrative Agency Law, 2 Pa. C. S. §703(a), makes it abundantly clear that a party may not raise before the Court any question, other than the validity of the respective statute, not raised before the agency (notwithstanding the fact that the agency is not competent to resolve such question) unless allowed by the Court upon due cause shown. This statutory pronouncement sets forth the well established rule that the appealing party generally must preserve below those questions which it seeks to have the Court review. The record being entirely devoid of any mention of tbe questions Claimant now seeks to address, and in the absence of any showing why the Court should nevertheless resolve them, we will not consider Claimant’s additional arguments.
+Amended Order
+And Now, this 21st day of May, 1981, the decision and order of the Unemployment Compensation Board of Review, Decision No. B-184736, is hereby affirmed.
+This Order is filed to correct an error in the caption of Order dated and filed May 8, 1981.
+Judge Wilkinson, Jr., did not participate in the decision in this case.
+The pertinent part of Section 501(e) of the Unemployment Compensation Law, Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §821 (e), requires that an appeal from a decision of the Bureau must be filed within 15 days after the notice of the determination was mailed to the party’s last known post office address.
+What claimant asks the court to do here is beyond our scope of review, in that it would involve legislative action to require that the Board give affirmative proof of service.
