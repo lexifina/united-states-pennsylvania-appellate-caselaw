@@ -1,0 +1,40 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 3504 C.D. 1986"
+decided: "1988-03-08"
+citations: ["114 Pa. Commw. 287", "538 A.2d 976"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges MacPhail; Barry, and Senior Judge Barbieri, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania, Department of Transportation, Bureau of Driver Licensing, Appellant v. Dawn D. Gretz, Appellee."]
+source_url: "https://static.case.law/pa-commw/114/cases/0287-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1370739
+cites_cases: ["97 Pa. Commonwealth Ct. 169", "97 Pa. Commonwealth Ct. 391"]
+---
+
+# Commonwealth v. Gretz
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+The Department of Transporation, Bureau of Driver Licensing (DOT), has appealed from an . order of the Court of Common Pleas of Bucks County which reduced the twelve (12) month suspension of Dawn Gretz’s (Appellee) driving privilege imposed pursuant to Section 1532(b)(3) of the Vehicle Code (Code), as amended, 75 Pa. C. S. § 1532(b)(3), to six (6) months by giving Appellee credit for time served under the Accelerated Rehabilitative Disposition Program (ARD). We reverse.
+Appellee was arrested and convicted in Chester County of .operating a motor vehicle under the influence of alcohol or a controlled substance on May 2, 1984, pursuant to Section 3731 of the Code, as amended, 75 Pa. C. S. §3731. She was then accepted into the ARD program in that county and her driving privilege was suspended for six (6) months by the trial judge, pursuant to Section 3731(e)(6)(ii) of the Code, as amended, 75 Pa. C. S. §3731(e)(6)(ii).
+On January 17, 1985, Appellee was again arrested for driving under the influence of alcohol or a controlled substance in violation of the conditions of her ARD and of the Code. She was convicted and removed from the ARD program, and consequently, had her driving privilege suspended by DOT for twelve (12) months pursuant to Section 1532(b)(3) of the Code. The trial judge in Bucks County denied Appellees petition for appeal from the order of DOTs suspension of her driving privilege, but gave Appellee credit for the six (6) months served under the ARD program, thus reducing DOTs twelve-month suspension of Appellees driving privilege to six (6) morlths:
+First, we must consider whether DOT waived the issue of the trial courts authority to grant credit for time served when Appellees driving privilege was suspended. In her brief, Appellee alleged that DOT waived this issue because the issue was raised for the first time on appeal. This, of course, is a statutory appeal where the provisions of Pa. R.C.P. No. 227.1 (post trial motions) are inapplicable. We have held that in statutory appeals “[a]n issue” is a disputed point or question on which parties to an action desire the court to decide, that the “Order” is the decision of the court on the “issue,” that when one “objects” to the decision of a court, one appeals the decision and that there is no requirement that a party object tb the trial courts order before appealing from it. Pennsylvania Liquor Control Board v. Willow Grove Veterans Home Association, Inc., 97 Pa. Commonwealth Ct. 391, 509 A.2d 958 (1986). In this case, DOT is -appealing the “decision” of the Court of Common Pleas of Bucks County. •• •
+On December 10, 1986, the trial judge ordered DOT to file with the Court of' Common Pleas of Bucks County a concise statement of the matters complained of on appeal. DOT was also ordered to file a statement of authority setting forth its right to appeal this matter, pursuant to Pa. R. A.P. 1925(b).
+On December 26,■ 1986, DOT filed with the Prothonotary its statement of matters complained of which specifically addressed the issue of the trial courts authority to grant credit for time- served by individuals who had their driving privilege suspended by DOT and cited this Courts opinion in Department of Transportation, Bureau of Traffic Safety v. Yarbinitz, 97 Pa. Commonwealth Ct. 169, 508 A.2d 641 (1986).
+' On January 14, 1987,"after DOT filed its statement, the trial court issued its opinion'setting forth its reasons for reducing Appellees suspension. In light of the above facts, the triál court should have had a copy of DOTs statement of matters complained of on appeal, and should have had.the opportunity to address DOTs argument as to the courts authority in light of Yarbinitz, prior to the- filiiig of its- opinion, yet failed to do so. It is, therefore, the opinion of this Court that DOT did not waive the issue at the triál court level, and we hold that the issue is preserved for appeal before this Court.
+The second issue in this-case requires a determination of whether the trial, judge has the discretion to give credit for . time served where! Appellees driving privilege previously hás been suspended by DOT. In Yarbinitz, we held that the trial court did not have the power to grant credit for. time served where an individual has had his/her driving privilege suspended by DOT. '
+In Yarbinitz, the appellee was convicted under Section 3733 of the Code (Fleeing or Attempting to Elude Police Officer) and had his license suspended by DOT for six (6) months. At the time he entered his plea of guilty, however, he turned in his license to the District Justice. After being suspended, he successfully argued to the trial court that he should be given credit for the period of time (more than six months) that he was without his license. The trial court sustained his appeal, thus giving him credit for the time that he was without his license. •
+On appeal we ruled:
+[F]or purposes of a license suspension appeal, a trial court lacks the authority to compute and give credit for any time that DOT may have, been in possession of an operators license. The function of the trial court in an appeal from a license suspension is to determine the validity, of the suspension. . . . Once the identity of the party whose license is suspended is established and the grounds for the suspension are found to be proper, the trial courts inquiry is ended. . . . Therefore, a suspension cannot be invalidated if it was properly imposed, even if it has already been served.
+Yarbinitz at 171, 508 A.2d at 642 (emphasis added) (citation omitted).
+Although the facts of Yarbinitz are not similar to the facts of the instant case, the general rule of law adhered to in Yarbinitz is applicable to the issue in this case. Therefore, once having found that DOTs reasons for suspending Appellees driving privilege were valid, the trial court thereafter lacked the authority to give credit for time served and to reduce the period of the suspension.
+Even if the trial court had the requisite authority to give credit to Appellee in this case, we are not persuaded that the provisions of Section 3731 of the Code would provide a proper basis for doing so. The principle upon which ARD operates is that if the participant behaves, upon successful completion of the program, that person is spared the punishment provided by law for those not accepted into the program. Once a participant violates the program, however, that person returns to “square one” for resentencing and, in this case, is subject to the civil penalty DOT is required by law to impose.
+There is no provision in Section 3731 that double penalties may not be imposed and, in feet, there is language in Section 3731(g) that double penalties may be imposed for failure to consent to a chemical test and for conviction for driving under the influence.
+We, accordingly, will reverse the order of the Court of Common Pleas of Bucks County and reinstate DOTs twelve (12) month suspension of Appellees driving privilege.
+Order
+The order of the Court of Common Pleas of Bucks County is hereby reversed and the Department of Transportations twelve (12) month suspension of the driving privilege of Dawn Gretz is reinstated.
