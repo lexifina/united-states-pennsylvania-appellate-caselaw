@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 24"
+decided: "1905-03-14"
+citations: ["27 Pa. Super. 602"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlad y, Smith,.Porter, Morrison and Henderson, JJ."]
+parties: ["Kitler v. People’s Street Railway Company of Nanticoke and Newport, Appellant."]
+source_url: "https://static.case.law/pa-super/27/cases/0602-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 856493
+cites_cases: ["126 Pa. 160", "128 Pa. 42", "13 Pa. Superior Ct. 354", "135 Pa. 346", "14 Pa. Superior Ct. 145", "146 Pa. 618", "147 Pa. 440", "151 Pa. 562", "155 Pa. 156", "169 Pa. 1", "173 Pa. 488", "18 Pa. Superior Ct. 211", "180 Pa. 114", "181 Pa. 391", "184 Pa. 19", "193 Pa. 598", "196 Pa. 595", "196 Pa. 610", "199 Pa. 498", "2 Kulp, 236", "201 Pa. 558", "202 Pa. 530", "22 Pa. Superior Ct. 10", "5 Pa. Superior Ct. 404"]
+---
+
+# Kitler v. People's Street Railway Co.
+
+## Majority (Smith, J.,)
+
+Opinion by
+Smith, J.,
+To alight from a moving car is negligence per se, unless the act is warranted by exceptional circumstances, none of which appear in the case before us. This rule is so firmly settled by repeated decisions that reference to authorities in its support is unnecessary. On an allegation of this form of negligence, the only question presented is with respect to the fact of its existence. •
+Whatever might be our view of the present case, were we charged with the duty of deciding on the credibility of witnesses and the weight of evidence when the testimony is conflicting, the principle is well established that- this is the province of the jury.' Wh.en there is testimony which, if believed, will support the action on the one hand, or the defense on the other, it is for the jury to determine its effect. “ It does not follow that because the evidence on one side may be overwhelming, in the opinion of the trial judge, that the case can be withdrawn from the jury. If there is a conflict of evidence, it must go to the jury, unless the evidence on one side amounts but to a scintilla: ” Holland v. Kindregan, 155 Pa. 156. When the plaintiff’s testimony in chief is such as to make a case for the jury, though without corroboration, and contradicted by the defendant’s witnesses, and even by one of his own, it must, unless on cross-examination facts are admitted fatal to his claim, be submitted to the jury; since they may believe his testimony rather than that of his witnesses who contradict him. And if portions of the testimony of any witness appear inconsistent, confused or contradictory, it is for the jury to settle the doubt arising from its character in this respect: R. R. Co. v. Alvord, 128 Pa. 42; Kohler v. R. R. Co., 135 Pa. 346; Todd v. Railway Co., 201 Pa. 558; Butler v. R. R. Co., 126 Pa. 160. Even when part of the evidence for the defense is a written statement by the plaintiff admitting his negligence, or a release of damages, the caséis for the jury: Foster v. Traction Co., 199 Pa. 498; Julius v. Traction Co., 184 Pa. 19. It is only when the plaintiff’s testimony may he judicially pronounced unworthy of credit, as in cases of which Hauser v. R. R. Co., 147 Pa. 440, is a type, or is so- far overborne by that of his own witnesses that the court could not permit a verdict, in his favor to stand, that a nonsuit may be entered or a verdict for the defendant directed: Holden v. R. R. Co., 169 Pa. 1,. But this should be clear, beyond question; if there is a doubt, the case is for the jury: Kohler, v. R. R. Co., 135 Pa. 346; Elston v. R. R. Co., 196 Pa. 595; Welsh v. Traction Co., 202 Pa. 530.
+The case in. hand is obviously one of the class of which Thompson v. Traction Co., 180 Pa. 114, and Maher v. Traction Co., 181 Pa. 391, are recent examples, and the language of the Supreme Court in those cases is directly applicable here: “ If the evidence relied on by the plaintiff was believed by the jury, they were clearly warranted in finding against the defendant. On the other hand, if they believed the evidence of defendant’s witnesses, they would have been justified in finding for-the defendant. In brief, the case depended on controverted questions of fact which the jury alone could legally determine.” In the case before us, the court properly submitted these questions to the jury, with instructions that left the appellant no reason to complain. The portions of the charge embraced in the specifications are so obviously free from error as to require little discussion. The plaintiff must recover upon preponderating evidence in his favor, and if this is so evenly balanced, as to weight, that this preponderance is not manifest, he has failed. The statement of this principle, in the affirmance of the defendant’s first point, was clear and unmistakable. The instruction that “ The plaintiff cannot recover if he left the car while it was in motion, and was injured in consequence ; and it is for you to determine, upon the evidence, whether he did or not,” was a concise statement of the law applying to the case, and of the province of the jury.
+Judgment affirmed.
