@@ -1,0 +1,46 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "461 Miscellaneous Docket No. 2"
+decided: "1983-05-17"
+citations: ["74 Pa. Commw. 335"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Rogers, Craig and MaoPhail, sitting as a panel of three."]
+parties: ["James K. Lewis, Petitioner v. Commonwealth of Pennsylvania, Pennsylvania Board of Probation and Parole, Respondent."]
+source_url: "https://static.case.law/pa-commw/74/cases/0335-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1309192
+cites_cases: ["243 Pa. Superior Ct. 268", "263 Pa. Superior Ct. 477", "365 A.2d 157", "37 Pa. Code §75.1", "37 Pa. Code §75.2", "37 Pa. Code §75.3", "37 Pa. Code §75.4", "38 Pa. Commonwealth Ct. 199", "392 A.2d 343"]
+---
+
+# Lewis v. Commonwealth
+
+## Majority (Judge Craig,)
+
+Opinion by
+Judge Craig,
+James K. Lewis appeals from two orders of the Pennsylvania Board of Probation and Parole which resulted in his recommitment as a technical and convicted parole violator. We affirm.
+On June 30,1971, the Lehigh County Court of Common Pleas had sentenced Mr. Lewis to prison for five to ten years for possessing and trafficking in narcotic drugs. The record does not indicate when the board first paroled Mr. Lewis; the board chairman’s certificate reveals only that Mr. Lewis had been recommitted once as a technical parole violator and that he was re-paroled on May 8,1979 under an approved plan.
+On June 5, 1980, 'the Commonwealth charged Mr. Lewis with simple assault for allegedly shoving a young woman into a wall. Entering a plea of nolo contendere, Mr. Lewis was sentenced to the summary offense of harassment on September 30, 1980, and paid a $300 fine. Following an October 10, 1980 hearing, the board recommitted Mr. Lewis to prison for violating condition 10 of his parole, ordering him to serve tihe ten montlis and twenty-four days of ibis nnexpired term.
+In response to Mr. Lewis’ ‘‘ Applioation for Administrative Review and Reconsideration,” tbe board beld a second bearing on October 21,1980. On November 24, 1980, tbe board reaffirmed Mr. Lewis’ recommitment for a technical parole violation, recommitted him as a convicted parole violator, and extended bis maximum sentence for parole violation to February 5,1984.
+As Mr. Lewis observes, tbe particular nature of a recommitment — whether as a technical or convicted parole violator — is /significant because a convicted parole violator, if recommitted, doeis not receive credit for the time he served at liberty on parole; he forfeits his “street time.” Compare Gaito v. Pennsylvania Board of Probation and Parole, 38 Pa. Commonwealth Ct. 199, 203, 392 A.2d 343, 345 (1978) with Commonwealth v. Greenlee, 263 Pa. Superior Ct. 477, 483, 398 A.2d 676, 679 (1979) (revocation for technical violation requires that credit be given for .street time passed in good standing). See also ¡section 21.1 of the'Act of August 6,1941, P.L. 861, added by section 5 of the Act of August 24, 1951, P.L. 1401, as amended, 61 P.S. §331.21a (Parole Act).
+Mr. Lewis contends that the hoard lacked statutory authority to recommit him as a “convicted parole violator, ’ ’ arguing that conviction for .a summary offense does not amount to conviction for a crime under 61 P.S. L331.21a(a), which provides, in pertinent part:
+Any parqlee under the jurisdiction of ¡the Pennsylvania Board of Parole . . . who, during ¡the period of parole . . . commits any crime punishable by imprisonment... to which he pleads . . . nolo contendere at any time thereafter in a court of record, may, at the discretion of the board, be recommitted, as a parole violator. If this re-commitment is ,so ordered ... he .shall be given no credit for time at liberty on parole. (Emphasis added.)
+Specifically, Mr. Lewis contends ¡that, because the legislature did not list “¡summary .offenses” under the classes of crime generally enumerated in sections 106 (a) and (b) of the Pennsylvania Crimes Code, 18 Pa. C. S. §§101-7507, but defined them separately in section 106(c), we should construe section 106(c) as an exception ¡to the general crimes classification provisions, and deduce from that construction that the legislature did not intend for summary offenses to be considered crimes. See 1 Pa. C. S. §1933. We disagree.
+Under .the Crimes Code, “ [a]n offense . . . for which a .sentence of death or of imprisonment is authorized constitutes a crime.” 18 Pa. C. S. §106(a) (emphasis added). “An offense . . . constitutes a summary offense if ... a person convicted thereof may be sentenced to a term of imprisonment, ¡the maximum of which is not more than ninety days.” 18 Pa. C. S. §106(c) (2) (emphasis added). As our ¡Superior Court observed in Interest of Golden:
+[I]t clearly appears that imprisonment is authorized for a summary .offense and the commission of a .summary offense constitutes a crime under our Crimes Code.
+243 Pa. Superior Ct. 268, 271, 365 A.2d 157, 158 (1976), petition for allowance of appeal denied (1977).
+Mr. Lewis also contends ¡that the ¡board was arbitrary and capricious because .the common pleas court merely imposed a $300 fine for harassment while, for the same offense, the hoard not only forfeited his street time, but also recommitted him to prison for over ten months, allegedly deviating, without justification, from the one-to-six-month presumptive range of incarceration mandated under 37 Pa. Code §75.2 for parole violators convicted of harassment.
+The board’s actions here were not arbitrary and capricious even though they are more severe than the $300 criminal sanction imposed by the common pleas court; the board acted well within its statutory authority. 61 P.S. §331.21a.
+Moreover, ¡the board did not impose over ten months of recommitment time because of Mr. Lewis’ new 'conviction; it ordered him to serve 'the remainder of his unexpired term for violating special condition 10 of his parole. Thus, the presumptive range of one-to-.six-months for a conviction of harassment is inapplicable here.
+Moreover, there are no presumptive ranges to be f ollowed when a parolee violates a special condition of parole; the regulations provide ranges .only for the violation of general conditions, 37 Pa. Code §75.4, and require that special condition violations ‘ ‘be dealt with at least as severely as the least serious of the general conditions____” 37 Pa. Code §75.3 (f).
+Recommitment time for the least serious violation of a general condition is three to six months, but that period is stated as a minimum. 37 Pa. Code §75.4. Thus, .the board did not violate its own regulations in imposing .the ten-month-plus .recommitment time.
+Accordingly, we affirm.
+Order
+Now, May 17,1983, the orders of the Pennsylvania Board of Probation and Parole rendered on October 9,1980 and November 24,1980 are affirmed.
+In its November 24 and October 9 decisions, the board did not define condition 10. In a letter to Mr. Lewis dated October 1, 1980, however, the board described a violation of condition 10 as the failure to “refrain- from overt behavior which threatens or presents a clear and present danger to yourself and others.” Presumably, condition 10 is a special condition of parole because, although it resembles condition (5) (iii) (refrain from any assaultive behavior), it is not identified as one of the five general conditions of parole enumerated in 37 Pa. -Code §63.4.
+The November 24 decision, reproduced below, reveals that the board computed Mr. Lewis’ recommitment time on the basis of his technical violations only.
+Reaffirm recommitment as a technical parole violator to serve unexpired -term, — .10 months, 24 days and now recommit as a convicted parole violator .to serve 0 months, or a total of 10 months, 24 days, and review in April 1981. Evidence relied on: Violation Report Addendum dated 10/6/80. Conviction in a court of record for the offense of Harrassment [sic] has a presumptive range of 1 to 6 months. Reasons : Aggravating: New criminal conviction established. Aggressive vehavior [sic]. Mitigating: The present offense relates to an incident which resulted in your recommitment as to technical parole violation to serve y/our unexpired term. The present offense was reduced to a summary level. You have received considerable community support due to your assistance in a current juvenile rehabilitation program. . . . Maximum for parole violation: 2-5-84.
+Although its decision is cryptic, the board apparently used tbe mitigating factors above to impose zero months for Mr. Lewis’ conviction instead of tbe one to six months recommended. See 37 Pa. Code §75.1 (c) (board may deviate from presumptive range for criminal convictions if written justification provided).
+As a reviewing court, we should not be forced to decipher a parole board recommitment decision. The board should follow a logical format, recording for each parole violation: (1) the parole condition number violated, (2) the definition of that condition, (3) the nature of the parolee’s offense, (4) any applicable presumptive range, (5) any mitigating or aggravating circumstances considered by the board for increasing or decreasing recommitment time, and (6) the recommitment time actually imposed for violation of that condition.
