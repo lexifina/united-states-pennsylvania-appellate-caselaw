@@ -1,0 +1,53 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1236"
+decided: "1982-07-16"
+citations: ["302 Pa. Super. 66", "448 A.2d 97"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before BECK, WATKINS and HOFFMAN, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. W. P., Appellant."]
+source_url: "https://static.case.law/pa-super/302/cases/0066-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 194304
+cites_cases: ["278 Pa.Super.Ct. 39", "279 Pa.Super.Ct. 254", "280 Pa.Super.Ct. 155", "280 Pa.Super.Ct. 205", "282 Pa. Super.Ct. 369", "290 Pa.Super.Ct. 33", "432 U.S. 98", "445 U.S. 463", "494 Pa. 537"]
+---
+
+# Commonwealth v. W. P.
+
+## Majority (BECK, Judge:)
+
+BECK, Judge:
+Appellant appeals an order of the Family Division of the Court of Common Pleas of Philadelphia County which adjudged him delinquent on charges of aggravated assault and conspiracy. We affirm.
+At approximately nine o’clock on the evening of October 20, 1977, the complainant and a companion were walking toward the intersection of two streets when they were addressed by a black teenager. Someone unseen by the complainant shouted, “Get them white boys,” whereupon the black teenager placed himself in the path of the complainant and his companion. Then a group of approximately twenty other black male teenagers approached from a location behind the complainant, encircled the complainant and his companion, and together with the first black youth, began hitting and kicking the complainant and his companion. After an estimated ten to fifteen minutes the complainant and his companion escaped from their attackers and hailed a passing motorist who drove them to a nearby hospital.
+At the hospital the complainant was soon joined by a police officer who ascertained that the complainant and his companion had been attacked at a particular street intersection by a group of light-skinned and dark-skinned black youths. Accompanied by a fellow policeman, the officer proceeded to the scene of the attack and found Appellant, Appellant’s brother, and another black man, all three of whom the officers transported to the hospital for a show-up. According to the complainant’s trial testimony, at the hospital show-up the complainant identified all three persons as participants in the attack.
+Appellant was arrested and charged with aggravated and simple assault, possession of an instrument of crime, possession of an offensive weapon, and conspiracy. Through his counsel, Appellant filed demurrers and a motion to suppress the out-of-court hospital identification. Following a hearing, the trial court sustained Appellant’s motion to suppress the hospital identification and Appellant’s demurrers to the charges of simple assault, possession of an instrument of crime, and possession of an offensive weapon.
+After a trial on the merits, Appellant was adjudged delinquent on the remaining charges of aggravated assault and conspiracy. Subsequently, Appellant’s post-verdict motions were denied, and Appellant was placed on probation conditioned upon his attending Day Treatment Center. This is a direct appeal from the judgment of sentence.
+The sole issue on appeal is whether the complainant’s in-court identification of Appellant at the suppression hearing was properly admitted into evidence as arising from a source independent of the unlawful hospital show-up identification.
+In suppression cases the Commonwealth has the burden of establishing by clear and convincing evidence that, “considering the totality of the circumstances, the in-court identification had an independent origin sufficiently distinguishable from the illegal encounter so as to be purged of the primary taint.” Commonwealth v. Thomas, 278 Pa.Super.Ct. 39, 44, 419 A.2d 1344, 1347 (1980); Commonwealth v. Smith, 290 Pa.Super.Ct. 33, 434 A.2d 115 (1981). Where the Commonwealth has prevailed below, this Court’s scope of review consists of determining
+whether the record supports the suppression court’s factual findings and the legitimacy of the inferences and legal conclusions drawn from those findings. In making this determination, we consider only the evidence of the prosecution’s witnesses and so much of the evidence for the defense as, fairly read in the context of the record as a whole, remains uncontradicted.
+Commonwealth v. Hunt, 280 Pa.Super.Ct. 205, 207-08, 421 A.2d 684, 685 (1980); Commonwealth v. Haggerty, 282 Pa. Super.Ct. 369, 422 A.2d 1336 (1980).
+The three components of an in-court identification were analyzed in United States v. Crews, 445 U.S. 463, 471, 100 S.Ct. 1244, 1249, 63 L.Ed.2d 537 (1980) (quoted approvingly in Commonwealth v. Miller, 279 Pa.Super.Ct. 254, 261-63, 420 A.2d 1129, 1132-33 (1980), allocatur denied, Oct. 30, 1980).
+A victim’s in-court identification of the accused has three distinct elements. First, the victim is present ... to testify as to what transpired between [the victim] and the offender, and to identify the defendant as the culprit. Second, the victim possesses knowledge of and the ability to reconstruct the prior criminal occurrence and to identify the defendant from . . . observations of him at the time of the crime. And third, the defendant is also physically present in the courtroom, so that the victim can observe him and compare his appearance to that of the offender.
+I.
+In the instant case the complainant’s identity was known to the police before the unlawful hospital show-up and Appellant’s ensuing arrest. Thus,
+the . . . victim’s presence in the courtroom . . . was surely not the product of any police misconduct .... [T]his is not a case in which the witness’ identity was discovered or [the witness’] cooperation secured only as a result of an unlawful . . . arrest of the accused. Here the victim’s identity was known . . . before there was any official misconduct, and [the victim’s] presence in court is thus not traceable to any Fourth Amendment violation.
+United States v. Crews, 445 U.S. at 471-72, 100 S.Ct. at 1249-1250 (footnote deleted).
+II.
+“[T]he suggestiveness of a courtroom identification is only one factor to be considered in determining the reliability of the identification.” Commonwealth v. Floyd, 494 Pa. 537, 542-43, 431 A.2d 984, 987 (1981). A victim’s in-court identification of an accused is admissible into evidence if there are sufficient guarantees that the identification resulted from the victim’s memory of the actual attack by the assailant, rather than the victim’s memory of seeing the accused at an illegal show-up, lineup, etc.
+The factors to be considered in determining whether the in-court identification testimony was purged of any primary illegality are: (1) the prior opportunity [of the victim] to observe the criminal act; (2) any discrepancy between any pre-confrontation description and [the accused’s] actual appearance; (3) any identification of anyone other than [the accused]; (4) any failure to identify [the accused]; (5) the lapse of time between the criminal act and the confrontation; (6) [the victim’s] degree of attention; and (7) the degree of certainty in identifying [the accused].
+Commonwealth v. Townsend, 280 Pa.Super.Ct. 155, 159, 421 A.2d 452, 454 (1980); Manson v. Brathwaite, 432 U.S. 98, 97 S.Ct. 2243, 53 L.Ed.2d 140 (1977).
+At the suppression hearing the arresting officer testified that when he met the complainant in the hospital after the attack, the complainant described his assailants as “approximately fifteen to twenty years of age,” “some light-skinned [black] males and some dark-skinned males.” The officer also stated that at the hospital show-up conducted twenty to twenty-five minutes after the attack, the complainant “definitely identified” as his assailants two of the three men in the show-up but “wasn’t sure of” Appellant. However, the complainant asserted at the hearing that during the hospital show-up he had positively identified all three men as participants in the crime.
+The complainant further testified that because the attack lasted for a period of ten to fifteen minutes, he had ample opportunity to observe his assailants. The complainant explained that although the attack began at approximately 9:00 p. m., his assailants were plainly visible because the scene of the attack was illuminated by street lights and the weather was clear. On cross-examination the complainant was asked, “[I]f they brought all twenty of the [assailants] into the hospital room, could you identify all twenty of them?” The complainant replied, “Sure .... I got a good look at them.”
+Based upon [the victim’s] observations at the time of the [crime], the victim constructed a mental image of [the] assailant. [In court the victim] retrieved the mnemonic representation, compared it to the figure of the defendant, and positively identified him .... No part of this process was affected by [the] illegal arrest.
+. . . [T]he victim’s capacity to identify [the] assailant in court neither resulted from nor was biased by the unlawful police conduct committed . . . after [the victim] had developed that capacity.
+United States v. Crews, 445 U.S. at 472-73, 100 S.Ct. at 1250 (footnotes deleted).
+III.
+Finally, Appellant
+cannot claim immunity from prosecution simply because his appearance in court was precipitated by an unlawful arrest .... [Appellant] is not himself a suppressible ‘fruit [of the poisonous tree],’ and the illegality of his detention cannot deprive the Government of the opportunity to prove his guilt through the introduction of evidence wholly untainted by the police misconduct.
+Id. at 474, 100 S.Ct. at 1251 (citations omitted) (footnote deleted).
+Accordingly, we affirm the trial court’s holding that under the totality of the circumstances in this case, “the influences for a misidentification were [not] so great as to render [the complainant’s] in-court identification offensive to the fairness mandated by due process.” Commonwealth v. Floyd, 494 Pa. at 543, 431 A.2d at 987.
+. The second victim, the complainant’s companion, was unconscious when the police arrived at the hospital and thus was unable to give a statement.
+. At trial the complainant asserted that he was able to identify Appellant, as well as two other men, during the hospital show-up. However, the arresting police officer testified at trial that the complainant did not positively identify Appellant at the show-up although he did “definitely identify” two other men.
+. The suppression hearing and trial were both held on November 30, 1977, with the suppression hearing marking the commencement of the trial.
