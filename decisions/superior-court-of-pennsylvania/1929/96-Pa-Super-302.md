@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 162"
+decided: "1929-07-02"
+citations: ["96 Pa. Super. 302"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, Keller, G-awthrop, Cunningham and Baldrige, JJ."]
+parties: ["Pittsburgh Transportation Co., Appellant, v. Pennsylvania Railroad Co."]
+source_url: "https://static.case.law/pa-super/96/cases/0302-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 683912
+---
+
+# Pittsburgh Transportation Co. v. Pennsylvania Railroad
+
+## Majority (Keller, J.,)
+
+Opinion by
+Keller, J.,
+Plaintiff’s taxicab became stalled on defendant’s railroad at Gregg’s Station, and was struck and demolished by defendant’s engine pulling a train of passenger ears. The accident occurred on a dark foggy night about one-thirty o’clock A. M., while plaintiff’s driver was traveling with a passenger from Brushton to Gregg. At Gregg’s Station the road crosses three tracks of the defendant company all of which are planked between the rails for a width of about fifteen feet. As one approaches the station from the north the first track is a siding; the second, the west bound track, and the third, the east bound track. The space between the siding and the west bound track is considerably larger than that between the west and east bound tracks, and corresponds in breadth to the station platform for west bound passengers nearby. The road at this point is confined between timbers or ties and is as wide as the planking between the tracks, fifteen feet. Between the west and east bound tracks the road is not timbered at the sides but is of broken stone, level with the rails, and at the east end does, not extend as far as the planks or timbers, the road there being about thirteen feet wide instead of fifteen, and starting to curve to the right. The entire crossing is forty-eight and one-half feet long from north rail to south rail. It curves to the right, going south, and is admittedly a country crossing; there is no town there.
+Plaintiff’s theory, as expressed on the oral argument, was that as its driver was proceeding over the crossing the cab ran into a hole or depression in the space between the west and east bound tracks, caused by the stone not extending as far as the planks between the rails, and the driver could not get it out before the west bound train came along and hit it. The difficulty with this theory is that the evidence of plaintiff’s driver does not bear it out. He said that as he was going over the crossing it seemed that “the bach end of the cab slid down into this [west bound] track. On the second track it slid down in. And when I jumped out of the ear, my front end was slid in too.” And again, “I just felt my rear end sort of slide into the track, felt like something-holding me.” It appears from his testimony that the rear end of the cáb first slid off the planks between the rails of the west bound track and that after this had occurred the front slid into the ballast between the west and east bound tracks; that the driver had gotten so far to the left of the traveled roadway that his left rear wheel went off the left end of the planking between the rails of the west bound track onto the ballast in the track beyond. It is not claimed that the roadway at that point was too narrow or was negligently constructed or maintained. While we are not satisfied that the defendant was guilty of any negligence in maintaining a crossing only thirteen feet wide in the space between the west and east bound tracks, that does not seem to have been the cause of plaintiff’s troubles. Its driver first went off the crossing where it was fifteen feet wide. The accident was not due to the narrower width of the space between the west and east bound tracks.
+But in addition, we think it clear that the driver’s getting off the beaten road was due, in part at least, to his own contributory negligence. The night was very dark and foggy. His cab did not have any headlights on the front — as required by the Act of April 27, 1925, P. L. 254, p. 273; only the two sidelights, customarily used by taxicabs in cities, placed near to the wind shield. He admitted that these did hot throw a beam on the roadway in front of the cab sufficient to light his way. To do this he used a spotlight. But under the law (Act of 1925, supra, p. 275), which in the absence of proof to the contrary he will be presumed to have observed, the rays from his spotlight did not extend to the left of the center of the highway; and apparently did not show him how near to the left side of the crossing he was traveling.
+With a road crossing wide enough to be safe for usual and ordinary travel, plaintiff’s driver went so far to the left of the middle of the roadway as to cause the rear of his cab to slide off the plank crossing onto the ballast between the rails of the west bound track. This was due either to his not looking where he was going, or to his inability to see the road on his left; and if the latter, it is a reasonable conclusion that this was caused or contributed to by his failure to have headlights as required by law. In either event he was guilty of negligence contributing to the accident.
+On both grounds, want of proof of negligence of the defendant causing the accident and contributory negligence of plaintiff’s driver, defendant was entitled to judgment non obstante veredicto.
+The judgment is affirmed.
