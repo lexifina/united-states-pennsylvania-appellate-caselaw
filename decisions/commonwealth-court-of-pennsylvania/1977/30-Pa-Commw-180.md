@@ -1,0 +1,48 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1150 C.D. 1976"
+decided: "1977-05-19"
+citations: ["30 Pa. Commw. 180"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Mencer, Bogers and Blatt."]
+parties: ["In the Matter of John T. Ryan, Appellant. Commonwealth of Pennsylvania, Department of Environmental Resources."]
+source_url: "https://static.case.law/pa-commw/30/cases/0180-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1881067
+cites_cases: ["60 Pa. 367"]
+---
+
+# In re Ryan
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+The sole issue in this case is whether the Pennsylvania Department of Environmental Resources (DER) has the power to order John T. Ryan to enter land he previously leased, in order to correct conditions he created during the lease. We hold that DER is so empowered.
+The facts in this case are not in dispute. From 1964 until January 1975, Ryan leased property in South Union Township, Westmoreland County. The purpose of the lease was to allow Ryan to operate a sanitary landfill on the site. Unfortunately,, the best that can be said about this operation is that it was less than sanitary. Not only did Ryan neglect to obtain the authorization required for such operation, but he consistently failed to conform his operation to solid waste disposal regulations. Inspections by DER from October 1971 through January 1975 revealed egregious violations of numerous rules and regulations dealing with water pollution, health hazards, and land protection. Apparently, the waste, material was seldom covered, much to the delight of a large rodent and fly population which infested the site. In addition, leachate, a liquid waste generated from the contact of either groundwater or precipitation with refuse containing certain soluble material generated from the organic wastes, oozed from the landfill.
+In January 1975, Ryan’s lease terminated, and he ceased operating the landfill. Thereafter, inspections by DER revealed that the condition of the site had not improved. The landfill remained partially uncovered and largely unvegetated. Moreover, some of the leachate which continued to seep from the landfill was entering the groundwater.
+On July 16, 1975, the DER issued the order which is in issue here. It directed Ryan, inter alia, to implement a rodent- and vector-control program at the site, to reshape the existing uncovered slope, to compact, cover, and revegetate the landfill, and to construct and manage a surface-water diversion system. Ryan appealed from this order on the basis of a fact previously unknown to DER: that Ryan was not the owner of the property in question. Ryan also averred that while he had leased the tract, his lease had terminated and he had been prevented from entering the property. DER subsequently entered into a consent order with the owner of the property, who agreed to allow Ryan to enter the land to comply with the Solid Waste Management Act and The Clean Streams Law.
+The Environmental Hearing Board (Board), which entertained Ryan’s appeal, rejected Ryan’s contentions that DER was without power to issue its order because he was neither an owner nor an occupier of the land. The Board upheld DER’s power under both the Solid Waste Management Act and The Adminis■trative Code of 1929 (Administrative Code), noting particularly the consent order to which the landowner had agreed.
+Ryan appealed the Board’s order to this Court. He contends that the Board erred in concluding DER was empowered to order Ryan to correct conditions at the landfill site. Asserting that the Solid Waste Management Act contemplates orders directed only to present landowners or land occupiers, Ryan contends that the DER is without power under that act because he does not presently own or occupy the property. Apparently, he also suggests that DER is without power to issue the order under the Administrative Code because the landfill is not an unsanitary condition or other nuisance. Because we find authority under the Administrative Code, we need not deal with Ryan’s first assertion.
+Section 1917-A of the Administrative Code provides :
+The Department of Environmental Resources shall have the power and its duty shall be:
+(1) To protect the people of this Commonwealth from unsanitary conditions and other nuisances, including any condition which is declared to be a nuisance by any law administered by the department;
+(2) To cause examination to be made of nuisances, or questions affecting the security of life and health, in any locality, and, for that purpose, without fee or hindrance, to enter, examine and survey all grounds, vehicles, apartments, buildings, and places, within the Commonwealth, and all persons, authorized by the department to enter, examine and survey such grounds, vehicles, apartments, buildings and places, shall have the powers and authority conferred by law upon constables;
+(3) To order such nuisances including those detrimental to the public health to be abated and removed;
+(4) If the owner or occupant of any premises, whereon any such nuisance fails to comply with any order of the department for the abatement or removal thereof, to enter upon the premises, to which such order relates, and abate or remove such nuisance;
+(5) For the purpose of collecting or recovering the expense of the abatement or removal of a nuisance, to file a claim, or maintain an action, in such manner as may now or hereafter be provided by law, against the owner or occupant of the premises upon or from which such nuisance shall have been abated or removed by the department;
+(6) In making examinations as authorized by this section, the Department of Environmental Resources shall cooperate with the Department of Health, for the purpose of avoiding any duplication of inspection ór overlapping of functions. (Emphasis added.)
+Thus DER has express, unconditional authority to protect the health of the citizens of this Commonwealth by ordering the abatement of nuisances. Within this context, the term, “nuisance” includes unsanitary conditions and conditions declared to be a nuisance by any law administered by DER.
+We conclude that tbe landfill is a nuisance within the meaning of Section 1917-A. Primarily, the uncontested facts found by the Board convince us that water pollution resulting from the discharge of leachate, is an unsanitary condition detrimental to the public health. Moreover, such, pollution is declared to be a nuisance by a law administered by DER. Section 14 of The Clean Streams Law, 35 P.S. §691.401, declares the discharge of any unpermitted polluting substance into the waters of the Commonwealth to be a nuisance. We agree with the Board that the leachate is a polluting substance, and we conclude that its discharge into the groundwater is a nuisance within the declaration of The Clean Streams Law. Therefore, DER has the power and the duty to order abatement under the Administrative Code.
+Ryan has riot suggested that DER lacks the power to issue an abatement order against him under the Administrative Code because he is not a present landowner or occupier of the property. Indeed, such a suggestion would fail. Our Supreme Court has held that where there is statutory authority to order abatement of a- nuisance, the fact that the nuisance is on the land of a stranger is no reason for not abating it. Delaware Division Canal Co. v. Commonwealth, 60 Pa. 367, 374 (1869). Thus where the defendant operated its canal in such a manner as to create stagnant,' miasmic pools on land it neither owned nor. occupied, a court was nevertheless empowered .to. order abatement by the defendant. The Court noted that “ [t]he owner of the soil where the nuisance is must not be allowed to control the public right to have it abated; and what the law corinnands to be done for the benefit of the public an individual may not resist.” Id. This principle applies a fortiori to the present case where the owner of the land has consented to Ryan’s entry for abatement purposes. Under these circumstances Ryan could not be heard to complain that he had no rights to enter upon the land in question.
+Accordingly, we make the following
+Order.
+Now, this 19th day of May, 1977, the order of the Environmental Hearing Board, under date of May 28, 1976, sustaining the order of the Department of Environmental Resources directing John T. Ryan to take certain procedures to properly close the landfill that he operated, is affirmed, and the appeal of John T. Ryan to this Court from the order of the Environmental Hearing Board is dismissed.
+See Section 7 of the Pennsylvania Solid Waste Management Act (Solid Waste Management Act), Act of July 31, 1968, P.L. 788, as amended, 35 P.S. §6007.
+Act of June 22, 1937, P.L. 1987, as amended, 35 P.S. §691.1 et seq.
+Act of April 9,. 1929, P.L. 177, as amended, 71 P.S. §51 et seq.
+71 P.S. §510-17, added by the Act of December 3, 1970, P.L. 834, §20.
+We note with considerable interest that, while the circumstances under which DER may itself abate a nuisance and recover the costs thereof are expressly limited to situations where the owner or occupier of land fails to comply with abatement orders, DER’s power and duty to order others to abate a nuisance is not so limited.
+Ryan suggests that because DER’s order was not issued pursuant to The Olean Streams- Law it may not utilize the ■ nuisance declaration of Section 14. . This argument overlooks the. clear language of the Administrative Code which incorporates all.laws administered by DER, including The Olean Streams, Law. ¡
