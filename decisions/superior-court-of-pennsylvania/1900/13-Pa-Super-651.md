@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 52"
+decided: "1900-05-24"
+citations: ["13 Pa. Super. 651"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlad y, W. W. Porter and W. D. Porter, JJ."]
+parties: ["Green v. Boyd."]
+source_url: "https://static.case.law/pa-super/13/cases/0651-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 825591
+cites_cases: ["133 Pa. 202", "146 Pa. 485", "161 Pa. 508", "189 Pa. 472", "3 Pa. Superior Ct. 419"]
+---
+
+# Green v. Boyd
+
+## Majority (W. D. Porter, J.,)
+
+Opinion by
+W. D. Porter, J.,
+Judgment was entered against the defendant in default of an appearance on June 13, 1899, the first day upon which judgment could have been entered for that cause. The defendant, on June 17, 1899, presented his petition and affidavit, praying the court to open the judgment. The court granted a rule on the plaintiffs to show cause why the judgment should not be opened, which rule was subsequently madabsolute. From that order the plaintiffs appealed.
+The defendant, in his petition and affidavit upon which the rule to show cause was founded, stated that he had immediately upon the delivery of the summons to him delivered it to his attorney, Rody P. Marshall, which fact was certified to by Mr. Marshall, who took upon himself the responsibility for the delay in entering the appearance. There seems to be no doubt that the defendant did take this step to have an appearance entered, but the contention of the appellant is that the judgment ought not to have been opened because the affidavit of defense to the merits of the action was insufficient. The plaintiffs’ statement set forth that on April 4, 1896, they had leased to one Mrs. John A. Boyd, not the wife of defendant, a soda water fountain and apparatus. That on October 12,1896, after $145 of the rent had been paid, the defendant entered into a written agreement by which he became surety for the payment of the rent and the other covenants of the lease, one of which was that the soda water fountain and apparatus should be returned to the lessors after the expiration of the lease. That the lease expired on April 15, 1898; that there was at that time unpaid rental in the amount of $180, and that the fountain and apparatus had not been returned to plaintiffs, in accordance with the terms of the lease. The claim was set up for $180 rental and $842, the value of the fountain and apparatus not returned. As a defense to the claim for rent, the defendant in his affidavit, swore that at the time he entered into the contract of suretyship the plaintiffs had removed the soda water fountain and part of the appliances connected therewith from the premises of the said lessee, and that these appliances were never returned. As to the claim for the value of the fountain and apparatus connected therewith, the affidavit of defense set forth that the plaintiffs had replevined the said property, and the said soda water fountain and apparatus connected therewith were then in the possession of the plaintiffs. In reply to this affidavit of defense the plaintiffs filed an answer, under oath, in which they answered defendant’s allegation of a defense as to the rent in these words : “ Plaintiffs admit that John Boyd entered into a certain agreement, a copy of which is attached to the statement of claim, but they deny that they ever removed the said soda^ water fountain and apparatus from the premises of said Mrs. John A. Boyd after they were delivered to her under and by virtue of her said lease; a part of the appliances only having been removed, with her knowledge and consent.” They did not deny that a part of the leased property had remained in their possession from the time the defendant entered into his contract of suretyship; they did not set forth what part of the appliances they retained. If the plaintiffs and their lessee changed the terms of the original contract, without the consent of the surety, and the property remained in the possession of the lessor, the surety cannot be held for the rent. This is not a case of oath against oath, it is a positive assertion of a fact by the defendant, and a failure to explicitly deny or satisfactorily explain it by the answer of the plaintiffs. The answer of plaintiffs admits that the entire property is now in their possession, and it does not set forth that they were in any manner damaged by the failure of the lessee to return it in accordance with the literal terms of the lease. This being the case, if the court below had permitted the judgment to stand, the defendant would have been required to pay rent for the property of which the plaintiffs retained possession, during the term of the lease for which he was liable; and he would have been compelled to pay the value of the property, the possession of which and the title to which remained in the plaintiffs.
+This was an appeal to the equitable powers of the court to open the judgment and let the defendant into a defense, and there is nothing which would warrant us in holding that the court below, in opening the judgment, abused the discretion with which it was invested.
+Judgment affirmed.
