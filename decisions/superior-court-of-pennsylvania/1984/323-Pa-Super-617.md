@@ -1,0 +1,20 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "975"
+decided: "1984-01-27"
+citations: ["323 Pa. Super. 617", "470 A.2d 1041"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before BROSKY, McEWEN and BECK, JJ."]
+parties: ["Commonwealth v. Hollingsworth, Appellant."]
+source_url: "https://static.case.law/pa-super/323/cases/0617-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 594313
+---
+
+# Commonwealth v. Hollingsworth
+
+## Majority
+
+The judgment of sentence of the learned Erie County Common Pleas Court Judge Lindley R. McClelland is affirmed.
