@@ -1,0 +1,38 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1387 C.D. 1983"
+decided: "1984-04-12"
+citations: ["81 Pa. Commw. 508"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail, Doyle and Blatt, sitting as a panel of three."]
+parties: ["John F. Craven, Petitioner v. Commonwealth of Pennsylvania, Department of Transportation, Respondent."]
+source_url: "https://static.case.law/pa-commw/81/cases/0508-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1319888
+cites_cases: ["17 Pa. Commonwealth Ct. 199", "27 Pa. Commonwealth Ct. 171", "301 A.2d 427", "331 A.2d 601", "365 A.2d 910", "39 Pa. Commonwealth Ct. 194", "395 A.2d 304", "426 A.2d 762", "436 A.2d 1072", "452 A.2d 1127", "57 Pa. Commonwealth Ct. 503", "62 Pa. Commonwealth Ct. 388", "70 Pa. Commonwealth Ct. 255", "8 Pa. Commonwealth Ct. 6"]
+---
+
+# Craven v. Commonwealth, Department of Transportation
+
+## Majority (Judge Doyle,)
+
+Opinion by
+Judge Doyle,
+This is an appeal of John F. Craven of an order of the State Civil Service Commission (Commission) which sustained his appeal of his dismissal and ordered his reinstatement but denied him back pay.
+Craven was hired in October, 1979 by the Department of Transportation (Department) as a Highway Equipment Manager III in the Allegheny County District. The position entailed, among other duties, supervisory and administrative responsibility for preventive maintenance on Department equipment.
+In August, 1981, an audit of Craven’s records for preventive maintenance disclosed deficiencies, and an administrative control mechanism was put in place to assist Craven in the performance of his duties. In January, 1982, Craven received a performance evaluation which rated Mm unsatisfactory in eight of tMrityfive categories. In April, 1982, a second evaluation also showed eight unsatisfactory ratings.
+By letter dated May 4,1982, Craven was dismissed from his position. He filed a timely appeal with the Commission and a hearing was held on November 5, 1982. On April 29,1983, the Commission rendered the adjudication appealed here, reinstating Craven to his position but denying back pay.
+Before this Court, Craven argues that the demal of back pay resulted from application of an erroneous standard of law by the Commission and is not supported by substantial competent evidence of record. In addition, Craven argues that the severity of the penalty denying eleven months back pay amounts to an abuse of discretion.
+In its decision, the Commission stated: “We do not, however, find appellant to be completely without fault.” Craven argmes that this phrase evidences application of a “faultlessness” standard contrary to our case law. We have held that a denial of back pay is in error if the employee’s fault is negligible or not job-related. See Elias v. Department of Public Welfare, 70 Pa. Commonwealth Ct. 255, 452 A.2d 1127 (1982) (Elias II); Losieniecki v. Pennsylvania Board of Probation and Parole, 39 Pa. Commonwealth Ct. 194, 395 A.2d 304 (1978).
+Initially, we note that the language in the Commission’s decision that Craven was “not completely without fault” does not, in and of itself and of neces•sity, indicate the application of an erroneous standard ■of law. The Commission has used the phraseology “not without fault” or “not completely without fault” with some consistency, and we have found no error in its use. See, e.g. Bell v. Bureau of Vocational Rehabilitation, Department of Labor, 62 Pa. Commonwealth Ct. 388, 436 A.2d 1072 (1981); Losieniecki. We consider “not completely without fault” to be a phrase of art which must be read together with the Commission’s findings and discussion regarding fault, and understood in light of the law developed by this and other Courts establishing the level of job-related culpability necessary to support a denial of back pay. The Commission’s use of the phrase reflects no prima facie misapplication or error of law and we will not reverse on this ground.
+We will overturn the Commission’s denial of back pay only if the Commission’s finding of job-related fault is unsupported by substantial evidence or if its conclusion is capricious in light of the evidence. LosieniecM. Unfortunately, we are unable to adequately review the Commission’s action in this regard because its decision contains no findings on which the denial of back pay was based. We have repeatedly refused to substitute our review of the evidence for that of the Commission and have consistently remanded oases in which the Commission’s adjudication does not indicate on what evidence it relied in denying back pay. See Bell; Elias v. Department of Public Welfare, 57 Pa. Commonwealth Ct. 503, 426 A.2d 762 (1981) (Elias I); Wasilak v. Pennsylvania Liquor Control Board, 27 Pa. Commonwealth Ct. 171, 365 A.2d 910 (1976).
+The Commission’s adjudication in the case sub judice states only, in discussion:
+Appellant was made aware by tbe appointing authority on several occasions of the need for improvement especially in Preventive Maintenance and meeting deadlines. As these areas continued to be a factor affecting appellant’s level of performance, we agree that appellant should have directed more time and energy into these matters. Therefore, we decline to award back pay.
+These terse remarks are totally outside of any context developed in the Commission’s findings of fact. In those findings and the discussion which followed, the Commission excused Craven’s poor performance, concluding that the Department knew that Craven’s assigned region was too large and dispersed to effectively carry out his duties, that circumstances beyond Craven’s control were responsible for his failure to meet deadlines, that the Department’s expectations for Craven’s performance were unreasonable in light of the resources available to him, that there had, in fact, been significant improvement in Craven’s performance since his appointment, and that the degree of improvement sought by the Department during Craven’s tenure was excessive. Nothing in the Commission’s adjudication beyond the language quoted above indicates on what facts the Commission based its denial of back pay. We must therefore remand for findings of fact and conclusions of law on this issue. Elias I; Wasilak.
+We note in addition that in Losieniecki we opined that denial of back pay for a period of seven months was at “the severe extreme of the ¡scale. ’’ 39 Pa. Commonwealth Ct. at 199, 395 A.2d at 306. See also Elias II, 70 Pa. Commonwealth Ct. at 261, n.1, 452 A.2d at 1130, n.1 (1982). Because we are constrained not to substitute judicial discretion for the administrative discretion of the Commission, Losiewiecki, we cannot say that denial of back pay for an eleven month period is per se an abuse of the Commission’s discretion. But the severity of the penalty imposed in this case points up all the more the need for adequate findings and conclusions on this issue, so that this Court may conduct a proper review.
+Order
+Now, April 12, 1984, the decision and order of the ¡Civil Service Commission in the above referenced matter, dated April 29, 1983, is hereby vacated insofar as it declined to award back pay and the matter is remanded to the Commission for further disposition consistent with this opinion. Jurisdiction is relinquished.
+Judge MaoPiiail dissents.
+It is well settled that a denial of back pay is a penalty. Bell; Eash v. State Civil Service Commission, 17 Pa. Commonwealth Ct. 199, 331 A.2d 601 (1975); Baron v. Civil Service Commission, 8 Pa. Commonwealth Ct. 6, 301 A.2d 427 (1973).
