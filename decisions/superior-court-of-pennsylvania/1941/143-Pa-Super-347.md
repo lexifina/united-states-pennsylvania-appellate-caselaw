@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 14"
+decided: "1941-01-30"
+citations: ["143 Pa. Super. 347"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Bald-eige, Stadtfeld, Paeker, Rhodes and Hirt, JJ."]
+parties: ["Commonwealth v. Henderson, Appellant."]
+source_url: "https://static.case.law/pa-super/143/cases/0347-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1031734
+cites_cases: ["105 Pa. Superior Ct. 194", "115 Pa. Superior Ct. 84", "118 Pa. Superior Ct. 293", "160 A. 158", "175 A. 294", "179 A. 868", "89 Pa. Superior Ct. 216", "93 Pa. Superior Ct. 307", "95 Pa. Superior Ct. 510"]
+---
+
+# Commonwealth v. Henderson
+
+## Majority (Stadtfeld, J.,)
+
+Opinion by
+Stadtfeld, J.,
+This is a proceeding for support under the provisions of the Act of April 13, 1867, P. L. 78 and its supplements (18 PS §1251 et seq.).
+The warrant was issued July 1,1939, on oath of Ruth Henderson, charging her husband, Norman Henderson, with desertion and non-support. The transcript of the justice of the peace shows that according to the testimony of Ruth Henderson, the parties were married in 1914 and lived and raised a family together until 1939. They owned a house situated in Honesdale, by entireties, but which was subject to a mortgage. The husband fell behind in the payments and to prevent foreclosure, the parties, on January 25, 1939, sold the property and divided the proceeds, each receiving one-half amounting to $1123.70. The purchaser was to take possession on March 1st following.
+The parties lived together until February 6, 1939, when the relatrix left the common domicil because the defendant was running around with other women. She testified at the hearing in the Court of Quarter Sessions that she had put up with all she could and had to get out; that she lived thereafter in Carbondale, where her husband had been employed for many years. She further testified that she afterwards “about two months ago” asked her husband to make a home for her. “I told him he better ‘wise up’ and conie back home. I asked him if he would be willing to give me something toward support and he said he didn’t have to; said he didn’t have to support me. Q. Did you tell him you would be willing to go back and make a home? A. Sure I would be willing to go back and make a home.” She testified that before the separation, her husband had been running around with different women and in particular with a Mrs. Ralph Langandorfer. She saw him with this woman on three occasions before she left him.
+She testified that after the home was sold, he didn’t make any provision to rent another place until just before she was going to move. She then testified, “He said, ‘There is a place over here on Main Street we will look after’ and I said ‘You don’t need to bother looking for a place the way things are going here I will never stay here in Honesdale’ and I didn’t. Q. And after that you asked him to make a home for you and he said he would not? A. Uhuh.......I said ‘Any place but Honesdale, I will go.’......Q. Why did you tell him that? A. The way he was running around. Q. With whom? A. Mrs. Langandorfer.”
+Two other witnesses, a married daughter of the parties and the daughter’s husband testified that on numerous occasions in 1938, the defendant was seen with other women and on at least one occasion he was observed in a parked car at night with his arms around the Langandorfer woman. They saw him several times with her in beer gardens and dancing places.
+At the hearing before the justice of the peace and in the Court of Quarter Sessions, the defendant was present but did not testify, so that the testimony of Mrs. Henderson and her witnesses stands uncontra-dieted.
+It appeared from Mrs. Henderson’s testimony that while the parties lived together, the defendant paid her $40 per month toward running the home; that he is working now for the Delaware and Hudson Corporation, as a car repairman; and that he has worked during the last five or six years, about three or four days a week. The defendant did not see fit to enlighten the court as to his actual earnings. The court below fixed the sum of $40 per month as just and reasonable under the circumstances.
+The contention of appellant is that by reason of his wife’s leaving him, be is not required to support her. It is well established, however, that the only “reasonable cause” justifying a husband in refusing to support his wife is conduct on her part which would be a valid ground for a decree in divorce: Com. ex rel. Herman v. Herman, 95 Pa. Superior Ct. 510; Com. ex rel. v. Goldstein, 105 Pa. Superior Ct. 194, 160 A. 158. Upon consideration of the testimony as a whole, we think the relatrix was not without legal justification in leaving her husband at Honesdale. Her refusal to live at Honesdale, coupled with her agreement to live anywhere else with her husband, was not unreasonable, when based upon an effort to get her husband away from the woman who was largely the cause of the trouble. Irrespective of whether the wife was justified in leaving her husband under the circumstances, it is uncontradieted that she offered to return to him and make a home. The offer to return was made several months prior to the hearing in the Quarter Session Court. The trial judge who saw and heard the witnesses was the best judge of the sincerity and bona fides of the offer, particularly when the defendant did not see fit to testify on his own behalf. Appellant’s rejection of his wife’s offer to return, made in good faith, removes any justification for refusal to support her.
+In considering the “sufficient ability” of the husband referred to in the Act of April 13, 1867, P. L. 78, not only the actual amount earned should be counted, but all the attendant circumstances must be considered: Commonwealth v. Knobloch, 89 Pa. Superior Ct. 216; Commonwealth ex rel. v. Wattenscheidt, 115 Pa. Superior Ct. 84, 175 A. 294; Commonwealth v. Ehrhart, 118 Pa. Superior Ct. 293, 179 A. 868. The amount which the appellant should be required to pay as support for his wife is very largely in the discretion of the trial court, and, unless there is a clear abuse of discretion, its judgment will not be disturbed by the appellate court: Commonwealth v. Gilleland, 93 Pa. Superior Ct. 307; Commonwealth v. Ehrhart, supra.
+The court below erred in making the order in the instant case retroactive as of January 1,1940. The order should be made effective only from the date thereof and must, therefore, be modified accordingly: Commonwealth v. Ehrhart, supra.
+As modified, the order of the court below is affirmed. Costs to be paid by appellant.
+This act has been substantially reenacted by The Penal Code of June 24,1939, P. L. 872, §733 (18 PS §4733), effective September 1, 1939.
