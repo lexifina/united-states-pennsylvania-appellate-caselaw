@@ -1,0 +1,36 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1831 C.D. 1976"
+decided: "1977-12-16"
+citations: ["33 Pa. Commw. 50"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Ménceb and Blatt, sitting as a panel of three."]
+parties: ["Westinghouse Electric Corporation, Petitioner v. Commonwealth of Pennsylvania, Workmen’s Compensation Appeal Board and Charles L. Bennett, Respondents."]
+source_url: "https://static.case.law/pa-commw/33/cases/0050-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1884635
+cites_cases: ["12 Pa. Commonwealth Ct. 12", "12 Pa. Commonwealth Ct. 530", "18 Pa. Commonwealth Ct. 352", "305 A.2d 757", "315 A.2d 656", "317 A.2d 315", "336 A.2d 440", "9 Pa. Commonwealth Ct. 176"]
+---
+
+# Westinghouse Electric Corp. v. Commonwealth
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+The Westinghouse Electric Corporation (employer) appeals here from an order of the Workmen’s Compensation Appeal Board (Board) which reversed a referee’s decision and awarded compensation to Charles L. Bennett (claimant) for the loss of the use of his left hand., .
+The claimant’s hand was injured in an accident in the .course of his employment in 1970,. and the. injury necessitated the partial amputation of his left thumb and the complete amputation of his left index and middle fingers. He filed a claim petition pursuant to The Pennsylvania Workmen’s Compensation Act (Act), and the parties entered into a stipulated agreement at the referee’s hearing, which provided that the claimant was to receive compensation for a period of 20 weeks for total disability and 95 weeks for the specific loss of half of his left thumb and the complete" loss of his left index and middle fingers. Borne time after compensation under that agreement had ceased, the claimant filed a reinstatement petition alleging the specific loss of his left hand. After several hearings, at which the claimant testified and both parties presented medical testimony, the referee found that the claimant had not lost the use of his left hand and dismissed the petition. Upon appeál, the Board reversed the referee’s decision and granted the reinstatement petition. In so doing, the Board vacated the referee’s finding concerning the claimant’s hand and indicated that after viewing the hand, it was substituting its own finding that the claimant had lost the use of his left hand for all practical intents' and purposes. This appeal followed.
+Section 423 of the Act, 77 P.S. §854, provides in pertinent part:
+In any such appeal the board may disregard the findings of fact of the referee if not supported by competent evidence and if it deem proper may hear other evidence, and may substitute for the findings of the referee such findings of fact as the evidence taken before the-referee and the board, as hereinbefore provided, may in the judgment of the board, require, and may make such disallowance or' award of compensation or other order as the facts so founded by it may require.
+We construed this section in Forbes Pavilion Nursing Home, Inc. v. Workmen’s Compensation Appeal Board, 18 Pa. Commonwealth Ct. 352, 356, 336 A.2d 440, 444 (1975), and held that, where the referee’s findings are supported by competent evidence, the Board cannot take additional evidence and substitute its own findings of fact for those of the referee. In Universal Cyclops Steel Corp. v. Krawczynski, 9 Pa. Commonwealth Ct. 176, 182, 305 A.2d 757, 761 (1973), we held that the Board cannot make new findings of fact contrary to those found by the referee unless it chooses to hear evidence. In Lebanon Steel Foundry v. Workmen’s Compensation Appeal Board, 12 Pa. Commonwealth Ct. 530, 533, 317 A.2d 315, 316 (1974), we'held that the Board did receive tangible and concrete evidence by virtue of its personal view of á claimant’s injured finger and therefore had the power and authority to make its own finding based.upon the record before it and its view of the injured finger. In the case at hand, the referee’s finding was apparently-vacated by the Board because it believed that the finding was not supported by competent evidence. The employer argues here only that the finding substituted by the Board is a mere conclusion which is unsupported by substantial evidence. - ' .
+Section 427 of the Act, 77 P.S. §876.1, provides that this'Court’s scope of review in workmen’s compensation appeals is that defined in Section 44 of the Administrative Agency Law, 71 P.S. §1710.44. Section 44 limits onr scope of review here to a determination of whether or not an error of law was committed, constitutional rights were violated, or whether or not findings of fact are unsupported by substantial evidence.
+The Board made this finding of fact: “ [t]he claimant has lost the use of his left hand for all practical' intents and purposes,” and we note initially that the issue of whether or not a workmen’s compensation claimant has suffered the loss of the use of a hand is a question of fact rather than a question of law. Wall v. Workmen’s Compensation Appeal Board, 12 Pa. Commonwealth Ct. 12, 17, 315 A.2d 656, 658 (1974). We believe, moreover, that a careful review of the record in this case will support the Board’s finding.
+The evidence presented by the claimant before the referee consisted of his own testimony and that of an examining physician, with the claimant testifying that his hand had become increasingly sensitive and that the resulting pain further limited his use of the hand, while the claimant’s physician unequivocally stated that the condition of the claimant’s hand had worsened since the original injury. The physician also testified that it was his professional opinion that the claimant had lost the use of his left hand for all practical intents and purposes.' The presence of this evidence in the record, along with the Board’s finding which in these circumstances the Board had the power and authority to make, Lebanon Steel Foundry, supra, convinces u's that the Board did not err in reinstating the claimant’s compensation agreement.
+The order of the Board is affirmed.
+Judge Menoer concurs in decision only.
+Order
+And Now, .this 16th day of December, 1977; the order of the Workmen’s Compensation Appeal Board dated September 21, 1976 reinstating compensation agreement number [ XXX-XX-XXXX ] is hereby affirmed and it is ordered that judgment be entered in favor, of Charles L. Bennett and against the Westinghouse. Electric Corporation in the sum of $60.00 per week for a period of three hundred and thirty-five weeks. It is further ordered that compensation previously paid to the claimant by the defendant under a prior agreement' for the loss of % of the claimant’s left .thumb and all of the claimant’s left middle fingers be credited, to- the amount of compensation owed by the defendant to the claimant pursuant to this order. Interest at the rate of ten percent (10%) per annum is to be paid on .all deferred payments of compensation.
+Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §1 et seq.
+Act of June 4, 1945, P.L. 1388, as amended, 71 P.S. §1710.1 et seq.
