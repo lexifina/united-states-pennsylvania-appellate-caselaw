@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 352"
+decided: "1917-03-09"
+citations: ["65 Pa. Super. 607"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlad y, P. J., Porter, Henderson, Head, Kephart, Trexler and Williams, JJ."]
+parties: ["White v. White, Appellant."]
+source_url: "https://static.case.law/pa-super/65/cases/0607-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 625345
+cites_cases: ["252 Pa. 490"]
+---
+
+# White v. White
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+The liability of the appellant on his obligation dated November 23, 1904, to pay to the plaintiff four dollars per week, was established in White v. White, 252 Pa. 490. The judgment there obtained included the amount due to April 6,1910. The present action was brought to collect the amount due from the latter date to December 27, 1915. A rule for judgment for want of a sufficient affidavit of defense was made absolute, from which action this appeal was taken. The matter pleaded as a discharge from further liability is that one of the two children on whose account the payment was to be made became fourteen years of age on April 6, 1907, and was thereafter able to support herself; that she was married on September 28,1911, and was supported continuously by her husband from that time until the date of her death, December 19,1913; that the second child became fourteen years of age on November 23, 1914, and was able to support herself. The objection to this defense is that it introduces into the contract a condition not assented to by the parties thereto. The obligation is in writing and plainly states the undertaking of the defendant. It was an agreement to become responsible for the payment of four dollars per week to the plaintiff in accordance with another agreement entered into between the plaintiff and her husband, Charles F. White. The plaintiff had brought a prosecution against her husband for desertion and as an inducement to her to withdraw the prosecution, and as a consideration therefor, the husband agreed to pay her four dollars weekly, the said sum to be used for the support of their two children. It was to secure compliance by Charles F. White with this undertaking that the defendant bound himself to pay weekly the sum agreed on. It will be noticed that this payment was to be made not to the children but to their mother who, we may infer, undertook to provide for them except as to the sum to be paid by her husband or the defendant. Nothing in the contract leads us to the conclusion that there was or was intended to be an apportionment of this sum between the two children. One of them was several years older than the other and presumably would require a larger amount for her maintenance and it is hardly to be believed that the husband understood that the two girls could be maintained during their minority at a cost of four dollars a week. Whatever other support they had must come from some other source and none other is shown to have existed than the mother. She was to have care and control of the children under the agreement and was to provide for them according to her discretion and their necessities, and this she proposed to do so far as her husband was concerned for the sum of four dollars per week. ' If by reason of sickness or other circumstances the cost of maintenance had been greatly increased she had no recourse to the defendant for a larger amount. She must bear that burden without assistance and the increasing cost of support as the years passed produced, no increase of the amount which the defendant promised to pay. The husband received all the advantage intended in his discharge from arrest and release from further liability for the support of these children and there is nothing in the language of the contract which supports the theory of a divisible fund or of an apportionment between the children. There is no suggestion in the affidavit that four dollars is an unreasonable amount for the support of the surviving daughter, and the father who is the principal in the contract is making no defense on that or other grounds. We see no basis for a claim on his part that he should be released from his contract for the reason suggested and if he is still bound his surety is bound likewise. It may be as stated in the affidavit that the surviving daughter was able to support herself after she became fourteen years of age in 1914, but she was not bound to support herself. The father had agreed not to interfere with his wife’s control and influence over their children and she was at liberty to send her daughter to school if she saw fit rather than to put her out to service. As we view the case the affidavit does not set forth a legal defense.
+The judgment is affirmed.
