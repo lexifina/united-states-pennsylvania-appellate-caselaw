@@ -1,0 +1,41 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2050 C.D. 1981"
+decided: "1982-09-10"
+citations: ["69 Pa. Commw. 1"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Blatt, Williams, Jr. and Doyle, sitting as a panel of three."]
+parties: ["Board of Commissioners of Lower Merion Township, Appellant v. Robert Haslett and Adele M. Haslett, his wife, Appellees."]
+source_url: "https://static.case.law/pa-commw/69/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8730972
+cites_cases: ["23 Pa. Commonwealth Ct. 282", "32 Pa. Commonwealth Ct. 394", "351 A.2d 702", "379 A.2d 1060", "416 A.2d 583", "441 A.2d 487", "487 Pa. 249", "52 Pa. Commonwealth Ct. 367", "64 Pa. Commonwealth Ct. 578"]
+---
+
+# Board of Commissioners v. Haslett
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+The Board of Commissioners of Lower Merion Township (Township) appeals an order of the Court of Common Pleas of Montgomery County which determined that Robert and Adele M. Haslett (appellees) had been improperly denied subdivision approval because the Township’s decision failed to cite any “statute” or “ordinance” not complied with, as required by Section 508(2) of the Pennsylvania Municipalities Planning Code.
+On June 16, 1950, Charles Mcllvain, the owner of a 6.5 acre parcel of land, entered into a subdivision agreement with the Township pursuant to which he was to divide his land into three lots, comprising 1.008, 1.005 and 4.5 acres respectively, and to construct a road through the tract before any portion would be sold or built upon. Subsequently, he desired to increase the area of the 1.005 acre lot to 2.465 acres and to decrease the area of the 4.5 acre lot to 3.091 acres, and a second subdivision agreement was entered into on August 6, 1952 between him, two separate prospective purchasers of these lots, and the Township. This 1952 agreement provided for the cancellation and revocation of the 1950 agreement thereby relieving Mcllvain from the obligation to construct a road through the tract, and it also provided that only one single-family dwelling would be erected on each of the two lots remaining. On October 2, 1952, Mcllvain conveyed the 2.465 and 3.091 acre lots to the two purchasers who were parties to the 1952 subdivision agreement. On November 29, 1957, these purchasers joined in conveying both lots to the ap-pellees’ predecessor in title, Edward D. Meanor, who then executed a declaration of trust in which he recited that the appellees had an undivided one-half interest in the lots. On April 22, 1968, the appellees and the widow of Mr. Meanor, conveyed to the ap-pellees the 2.465 acre lot which, due to the inclusion of a twenty-foot wide strip of land that was omitted in the prior deed, was described as consisting of 2.758 acres. This 2.758 acre lot is the subject of the instant matter.
+On August 14, 1980, the appellees filed a subdivision plan with the Township proposing to subdivide their property into two parcels, one containing 1.504 acres and the other containing 1.254 acres, both of which would comply with the zoning ordinance minimum lot size requirement. The Township, however, denied approval stating that the 1952 subdivision agreement precluded further subdivision and was enforceable under the Township’s zoning power because it was a “regulation” within the meaning of Chapter 135, Section 135-3 of the Township code, which provides as follows:
+Interpretation and application of provisions.
+In the interpretation and application of the provisions of this chapter, said provisions shall be deemed to be the minimum requirements necessary for the promotion and protection of the public health, safety and welfare. Where the provisions of this chapter and all standards and specifications implementing it impose greater restrictions upon subdivision or land development than those of any other chapter of this Code or any regulation, the provisions of this chapter and its standards and specifications shall be controlling. Where the provisions of any statute, other chapter of this Code or regulation impose greater restrictions upon subdivision or land development than this chapter, the provisions of such statute, other chapter of this Code or regulation shall be controlling. (Emphasis added.)
+The appellees appealed this determination to the trial court which held that the proposed subdivision plan was improperly denied because the 1952 subdivision agreement was not a Township “regulation” and therefore the Township had failed to cite any statute or ordinance which was not complied with as required by Section 508(2) of the MFC which provides as follows:
+When the [subdivision] application is not approved in terms as filed the decision shall specify the d^ects found in the application and ¿ascribe the requirements which have not been met and shall, in each case, cite to the provisions of the statute or ordinance relied upon....
+The instant appeal followed.
+In zoning cases where, as here, the trial court has taken no additional evidence, our scope of review is limited to a determination of whether or not the governing body abused its discretion or committed an error of law. Appeal of Molnar, 64 Pa. Commonwealth Ct. 578, 441 A.2d 487 (1982).
+Before us, the Township first argues that the 1952 subdivision agreement constitutes a legally valid independent basis for the denial of the appellees’ proposed subdivision, which would obviate the need for reference to any statute or ordinance. We believe, as did the trial court, that this argument is totally without merit in that Section 508(2) of the MPC clearly sets forth that a subdivision plan may be denied only for a violation of any applicable statute or ordinance and that the provision not complied with must be cited. See Sclufer v. Plymouth Township, 32 Pa. Commonwealth Ct. 394, 379 A.2d 1060 (1977); Swinehart v. Upper Pottsgrove Township, 23 Pa. Commonwealth Ct. 282, 351 A.2d 702 (1976).
+The Township next argues that the 1952 subdivision agreement constituted a “regulation” within the meaning of Section 135-5 of the Township Code and therefore an ordinance had been cited as required by Section 508(2) of the MPC. The term “regulation” is not defined in the Township Code and, although the 1952 agreement may have been recorded in the Office of Recorder of Deeds, we find no evidence in the record that it was ever published in a manner regulations usually are, or that it was ever formally adopted, mentioned or specifically incorporated into the existing ordinance. In addition, although the 1952 agreement agrees to a certain manner of division of the property concerned herein, we do not believe it to be a “regulation” which has been defined as “an act of regulating” or “a rule or order ... issued by an executive authority of a government.” Webster’s Third New International Dictionary 1913 (1966).
+We believe, therefore, that the 1952 agreement more closely resembles a covenant or contract rather than a regulation, when the term regulation is given its everyday or common meaning. We will, therefore, affirm the order of the trial court.
+Order
+And Now, this 10th day of September, 1982, the order of the Court of Common Pleas of Montgomery County in the above-captioned matter is hereby affirmed.
+(MPC), Act of July 31, 1968, P.L. 805, as amended, 53 P.S. §10508(2).
+The record does not explain how or why, in the second or 1952 subdivision, the combined acreage of the lots increased by .051 acres (i.e., from 1.005 and 4.5 = 5.505 to 2.465 and 3.091 = 5.556).
+This document is entitled “Land Subdivision Agreement.”
+We note the following quotation from the appellees’ brief: “If the Board so desired, it could attempt' to enforce its interpretation of the [1952] Agreement in a separate legal action. Similarly, any third parties who believed they may have rights under the 1952 Land Subdivision Agreement could attempt to enforce them.”
+Fedor v. Borough of Dormont, 487 Pa. 249, 409 A.2d 334 (1979) (Statutory Construction Act of 1972 applicable to municipal ordinances); Greenwood Township v. Kefo, Inc., 52 Pa. Commonwealth Ct. 367, 416 A.2d 583 (1980).
