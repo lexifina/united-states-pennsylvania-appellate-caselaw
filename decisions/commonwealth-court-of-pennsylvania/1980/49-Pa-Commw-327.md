@@ -1,0 +1,39 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 510 C.D. 1979"
+decided: "1980-02-14"
+citations: ["49 Pa. Commw. 327"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Rogers and MacPhail, sitting as a panel of three.", "Judge DiSalle did not participate in the decision in this case."]
+parties: ["Charles J. Kosobucki, Petitioner v. Commonwealth of Pennsylvania, Workmen’s Compensation Appeal Board and Erie Coca-Cola Bottling Company, Respondents."]
+source_url: "https://static.case.law/pa-commw/49/cases/0327-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1906538
+cites_cases: ["34 Pa. Commonwealth Ct. 274", "383 A.2d 566", "396 A.2d 922", "40 Pa. Commonwealth Ct. 204", "481 Pa. 256", "483 Pa. 421"]
+---
+
+# Kosobucki v. Commonwealth
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+This is an appeal from an order of the Workmen’s Compensation Appeal Board (Board) which reversed the referee and denied Charles Kosobucki (Claimant) benefits. The Board held that in the absence of an obvious causal connection between Claimant’s hernia injury and the incident which occurred in the course of his employment, unequivocal medical testimony was necessary before Claimant could prevail. The Board found that the Claimant’s evidence failed to meet this standard and that the referee erred in finding that it did.
+Claimant is employed as an assistant bottler by the Erie Coca-Cola Bottling Company (Employer). Prior to November, 1975, he had been employed by another bottling company as a plant foreman. In the course of his former employment in the fall of 1974, Claimant fell into an excavation site and suffered a small right inguinal hernia, as diagnosed on April 21, 1975 by his physician Dr. Bajorek. At the time of diagnosis, Dr. Bajorek advised Claimant to have surgery if the discomfort continued and to be re-examined in the next three to six months.
+Claimant continued working with slight and occasional discomfort, but did not have surgery and was-not medically re-examined. In November of 1975, he commenced working for Employer. Sometime in March of 1976, on a date Claimant could not specify in his testimony, Claimant, while in the course of his employment, stepped down a steel ladder, misjudged the last step, and overstretched his stride. He experienced a sharp pain in the groin area such as he had not felt before. However, Claimant gave no immediate notice of an injury to Employer. He continued working until he saw his doctor on June 18, 1976 at which time a large right inguinal hernia was discovered. On that same date Claimant prepared an accident report for Employer, and on June 28, 1976, he entered the hospital for mandatory surgery. From June 25, 1976 through September 6, 1976, Claimant was totally disabled from performing the duties of his employment by reason of his surgery and recovery therefrom.
+In his deposition, the Claimant’s physician said he could not recall that Claimant told him what happened that occasioned Claimant’s visit in June of 1976. The physician “just assumed” that Claimant’s condition was related to his original injury. On the question of his medical opinion regarding the cause of Claimant’s condition in June of 1976, the physician gave several responses:
+Well, he originally sustained an injury back in the fall of ’74 which could have been the cause of the enlargement when I saw him in June of 1976. A severe injury could have caused an enlargement of the hernia.
+It is probably possible that he sustained a severe injury that caused extensive pressure to his original injury related back to the fall of 1974, which could have enlarged his hernia. But, I did not examine him for a period of time, that I could say for sure. I did not examine him until 6/18/76 and I cannot make any certain statement that an injury caused this enlargement. It is probably possible that severe pressure in this area could force that to erupt.
+Although finding as a fact that Claimant’s physician testified that he had no way of knowing or stating for certain what caused the Claimant’s condition in 1976, the referee concluded that the combined testimony of the Claimant and the physician was sufficient to establish that Claimant’s injury occurred in March of 1976. *
+The requirement of unequivocal medical testimony remains the standard for recovery of workmen’s compensation benefits, in the absence of an obvious causal connection between a work incident and an employee’s injury. Morgan v. Giant Markets, Inc., 483 Pa. 421, 397 A.2d 415 (1979). This Court has held that where there is no obvious causal connection between an injury and the alleged cause, mere conjecture may not be substituted for unequivocal evidence in support of causation. McPhillips v. School District of Philadelphia, 40 Pa. Commonwealth Ct. 204, 396 A.2d 922 (1979). Medical testimony which is less than positive or' is based on possibilities does not constitute legally competent evidence in support of showing the causal link between an injury and a person’s employment. Royesky v. Workmen’s Compensation Appeal Board, 34 Pa. Commonwealth Ct. 274, 383 A.2d 566 (1978).
+The Pennsylvania Supreme Court in Hamil v. Bashline, 481 Pa. 256, 392 A.2d 1280 (1978) does not eliminate or dilute the standard of unequivocal medical testimony in workmen’s compensation cases, as Claimant so contends. The Eamil case held that in a negligence action brought under Section 323(a) of the Restatement (Second) of Torts (1965) relating to the performance of an undertaking to render services, a lesser degree of certitude is normally required of plaintiff’s evidence on causation. The Court was very careful to preserve the “reasonable degree of medical certainty” rule in all other cases involving the issue of causation. Hamil, supra, 481 Pa. at 273, 392 A.2d at 1288.
+Obviously, the case before us does not fall within that class of exceptions contemplated in the Eamil case. Therefore, we must apply the normal standard of unequivocal medical testimony.
+Clearly, the medical testimony presented by Claimant here does not meet the test of being unequivocal. The doctor testified that he “could not say for sure” what the cause of the injury was and that he could not make any “certain statement” that an injury caused the enlargement. This is not unequivocal medical testimony. McPhillips v. School District of Philadelphia, supra.
+Nor was there an obvious causal connection between the work incident and Claimant’s injury. Claimant continued working for three months following the incident, during which time he failed to notify Employer or anyone else of the incident. Claimant delayed for several months seeking the advice of his physician because he felt that the amount of pain was insufficient to demand medical attention. For the referee to find as he did that there was an obvious causal connection between the work incident in March of 1976 and the injury his physician examined for the first time in June of 1976 was an obvious and capricious disregard of facts clearly before him. The Board was correct in concluding that Claimant’s proof of an obvious causal connection between the work incident and the injury was patently inadequate.
+As we have said before where an obvious causal connection is lacking, there must be unequivocal medical testimony. Since that is likewise lacking, the Claimant has failed to meet his burden of proof.
+Order affirmed.
+Order
+And Now, this 14th day of February, 1980, the order of the Workmen’s Compensation Appeal Board, dated February 8, 1979, reversing the decision of the referee and denying benefits to the Claimant Charles J. Kosobucki is affirmed.
+Judge DiSalle did not participate in the decision in this case.
