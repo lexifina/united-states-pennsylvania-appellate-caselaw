@@ -1,0 +1,38 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 299"
+decided: "1934-02-01"
+citations: ["111 Pa. Super. 584"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, Cunningham, Baldrige, Stadteeld, Parker and James, IJ."]
+parties: ["Swartz v. John Hancock Mutual Life Insurance Company, Appellant."]
+source_url: "https://static.case.law/pa-super/111/cases/0584-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 971071
+cites_cases: ["222 Pa. 419", "72 Pa. Superior Ct. 168"]
+---
+
+# Swartz v. John Hancock Mutual Life Insurance
+
+## Majority (Stadteeld, J.,)
+
+Opinion by
+Stadteeld, J.,
+This is an appeal by defendant from a judgment entered against it for want of a sufficient affidavit of defense. John Swartz, plaintiff, brought suit against The John Hancock Mutual Life Insurance Company, defendant, to recover the total amount of premiums paid by plaintiff on four “industrial” policies of life insurance. There were five policies issued by defendant to plaintiff, providing for weekly payment of premiums. Plaintiff paid defendant a total of $55.30 in premiums over a period of several months. Each of said policies contained, inter alia, the following conditions: “Alterations, erasures and waivers. No modifications, change or alteration hereof or endorsement thereon will be valid unless signed by the president, a vice-president, the secretary or an assistant secretary, and no other person is authorized on behalf of the company to make, alter or discharge this contract or to waive forfeiture. Agents are not authorized to waive any of the terms or conditions of this policy or to extend the time for payment of premiums or other moneys due to the company, or to bind the company by making any promise not contained in this policy.
+#**#**••
+“Policy when void. This policy shall be void:...... (2) or if any industrial or weekly premium policy previously issued by this company on the life of the insured shall be in force on the date hereof or running as extended insurance, unless this policy bears an endorsement signed by the secretary authorizing its continuance in addition to such previously issued insurance. The company shall not be presumed or held to know of the issue of or any prior policy or to know of any prior rejection.”
+Plaintiff claimed that four of said policies, issued after the first one, were not endorsed as required by the provisions of said policies and were ¡therefore under the express terms thereof void, and by reason thereof there was no consideration for the money paid by plaintiff on account of said policies.
+Defendant filed an affidavit of defense admitting the existence of other insurance and the absence of consent in the form prescribed, but averred that it had waived compliance with said provision in continuing to receive premiums after it had received knowledge through its officers and agents of other insurance; that by reason of said waiver the said policies were binding contracts of insurance and, therefore, good consideration for the premiums paid.
+Plaintiff filed a rule for judgment for want of a sufficient affidavit of defense which rule was made absolute in an opinion by Cbane, J. Prom that judgment this appeal was taken.
+Appellant contends that the clause in question was for the benefit of the insurer alone; that the same could be and in fact was waived by the insurer; that consequently the insured was not entitled to recover back the premiums paid under said policies, and that judgment should not have been entered for plaintiff, claiming that it had alleged a complete defense although not pleaded with particularity.
+The clause in question declared the policy void if an industrial or weekly premium policy previously issued by the company shall be in force on the date thereof, unless endorsed as provided thereunder; and further that the company shall not be presumed or held to know of the issue of any other policy. Under the language of the policy it was absolutely void, not merely voidable, in case of a violation of the condition. Plaintiff was entitled to a valid and binding contract of insurance and was.> not bound to assume the burden of proof of a waiver in case of a suit on the policy. It would have been a simple matter for the company, at the time plaintiff demanded a return of the premiums, to have endorsed on the policies its consent to such additional insurance in the manner provided if it intended to waive the condition. It further qualified the proof of such waiver by the provision that “the company shall not be presumed or held to know of the issue of any prior policy. ”
+As stated in Corpus Juris, Yol. 32, See. 407, p. 1234: “If no binding contract of insurance is effected and the policy if issued is void ab initio so that no risk attaches and the company is subjected to no liability and there is therefore no consideration for the payment of premiums, insured may as a rule recover back the premiums paid by him.”
+Also, Ibid. p. 1235: “The fact that the company might be estopped from denying its liability in the case of a loss, does not affect the right to demand the return of the premiums paid.” v
+The cases cited by appellant are readily distinguishable from the instant ease. In Healy v. Stuyvesant Insurance Co., 72 Pa. Superior Ct. 168, the condition in that policy was: “If at the time a loss occurs there be any other insurance, direct or indirect, covering the property described herein which would attach if this insurance had not been effective, and if such other insurance has been effected without the special consent of this company endorsed hereon, then, in that event, this insurance shall be null and void.” (Italics supplied.) This court, in discussing the provision referred to, in an opinion by our late Brother Pouter, said: “The company is entitled to notice of such material change in relation of the amount insured to the value of the property, and an opportunity to accept and approve the contract in its new condition, or to terminate and cancel the insurance in the method provided in the policy.”
+In the instant case, the policies, under their terms, were void at the time the same were issued.
+In Bush v. Hartford Fire Insurance Co., 222 Pa. 419, cited in support of the proposition that an insurance company may waive a compliance with any condition of a policy to be performed and observed by the insured, except when the insured by the act loses his insurable interest. That case involved the sufficiency of proofs of loss furnished after a fire had occurred, and the court held that silence on the part of the insurer for any considerable time after the receipt of such proofs of loss will be taken to be a waiver of the necessity for any further proofs of loss.
+Quoting from the opinion of the lower court: “It will be observed by analyzing the affidavit of defense that the defendant does not allege who, on its behalf, waived the above quoted terms of the policy. The policy expressly stipulates that no alteration thereof shall be valid unless signed by the president, vice-president, secretary or assistant secretary. The affidavit of defense further fails to allege when defendant acquired knowledge of the existence of previously issued policies, and when and in what manner it waived the said provision contained in each policy.”
+We believe that plaintiff was entitled to judgment on the pleadings and the lower court did not err in so ordering.
+The assignments of error are overruled and judgment affirmed.
