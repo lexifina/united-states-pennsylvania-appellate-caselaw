@@ -1,0 +1,36 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 541 C.D. 1977"
+decided: "1979-02-23"
+citations: ["40 Pa. Commw. 560"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., DiSalle and MacPhail, sitting as a panel of three."]
+parties: ["Gilbert Strauss, Appellant v. Civil Service Commission of Philadelphia, Appellee."]
+source_url: "https://static.case.law/pa-commw/40/cases/0560-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1893644
+cites_cases: ["1 Pa. Commonwealth Ct. 543", "187 A.2d 581", "275 A.2d 716", "351 Pa. Code §10-110", "351 Pa. Code §7.7-303", "37 Pa. Commonwealth Ct. 77", "389 A.2d 703", "409 Pa. 571"]
+---
+
+# Strauss v. Civil Service Commission
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+Effective December 23, 1973, the Philadelphia Fire Department (Department) dismissed Gilbert Strauss from his position as a city fireman for the following reasons: (1) being at home during his regularly scheduled tour of duty on May 11, 16, 22 and 29 of 1973 in violation of specification 4:01 of the Department Discipline Directive (Directive); (2) abruptly departing from a departmental inquiry into his activities before that inquiry was completed in violation of Section 10-110 of the Philadelphia Home Rule Charter (Charter), 351 Pa. Code §10-110; (3) disregarding a direct order from the Deputy Fire Commissioner to remain until the completion of the departmental inquiry in violation of specification 4:07 of the Directive; (4) being arrested and held for court; and (5) engaging in an unauthorized remunerative occupation, namely, the extensive buying and selling of art objects for substantial profit in violation of specification 5:19 of the Directive, while on regularly scheduled tours of duty and while off duty in a paid status due to an injury.
+Strauss appealed his dismissal to the Philadelphia Civil Service Commission (Commission), which denied his appeal, concluding that Strauss’s refusal to comply with Section 10-110 of the Charter, his departure from the investigative hearing in spite of an order to remain, his violation of the type of physical activity one can perform while on no-duty status and his active pursuit of outside business transactions for substantial profit without departmental knowledge or approval as required, constituted just cause for dismissal.
+Strauss then appealed to the Philadelphia County Court of Common Pleas, Civil Division, which, on July 13, 1977, denied his appeal.
+Our scope of review is limited by Section 8(b) of the Local Agency Law, Act of December 2, 1968, P.L. 1133, formerly 53 P.S. §11308(b). We must affirm the adjudication below unless (1) constitutional rights have been violated (2) there was non-compliance with provisions of the Local Agency Law in the proceeding before the Commission (3) an error of law has been committed or (4) the findings of the Commission are not supported by substantial evidence. DiCiacco v. Civil Service Commission of City of Philadelphia, 37 Pa. Commonwealth Ct. 77, 389 A.2d 703 (1978).
+Section 7.7-303 of the Charter, 351 Pa. Code §7.7-303, provides that a civil service employee of the City of Philadelphia shall be dismissed only for just cause. “Just cause” was thoroughly discussed and defined in O’Gorman Appeal, 409 Pa. 571, 187 A.2d 581 (1963). Quoting from that opinion, this Court held in Staton v. Civil Service Commission of the City of Philadelphia, 1 Pa. Commonwealth Ct. 543, 547, 275 A.2d 716, 717-18 (1971):
+‘All that the law requires is that the cause be concerned solely with the inefficiency, adequacy or misconduct of the employe. A wide latitude must be left to the superior officer — in fact a discretion conditioned only on its exercise in good faith and not a screen for some reason not based upon the fitness of the employe to fill the position. ’
+In the appeal now before us, Strauss argues that his constitutional rights were violated because he was dismissed when he invoked his constitutional right to remain silent during the departmental inquiry and that there was insufficient substantial evidence to support the findings and conclusions of the Commission.
+Suffice it to say that we find substantial evidence in the record to sustain the Commission’s finding that Strauss used duty time for Ms personal business and that he left the departmental inquiry in spite of the order of a superior officer to remain at the hearing. Additionally, we find substantial evidence in the record to support the Commission’s finding that Strauss did engage in a remunerative occupation while on “no-duty” status.
+Specification 5:19 of the Department Discipline Directive prohibits firemen from being engaged in an unauthorized remunerative occupation. The word “occupation” is not defined by the Directive. Strauss testified that while he was on non-duty status he sold 75 to 80 paintings for $104,000.00 over a four month period and earned at least $16,000.00 over a six month period. He said he drove from his home to other parts of the city pursuing these transactions but that this conduct is not an occupation but rather a hobby. "While it is true that “occupation” is not defined in the Directive, we are satisfied that given its normal and usual definition, there is sufficient substantial evidence for the Commission to conclude that Strauss’s activities violated the Directive.
+Subsequent to the Commission’s hearing in 1975 and 1976 and the filing of the lower court’s opinion in 1977, this Court held Section 10-110 of the Charter to be constitutionally defective insofar as it attempts to coerce a waiver of immunity from a civil service employee. DiCiacco v. Civil Service Commission of City of Philadelphia, supra. As we have noted, the Commission specifically found that Strauss’s failure to comply with Section 10-110 of the Charter was one of the grounds which warranted his dismissal. The lower court affirmed the Commission’s findings and after some extensive discussion of the constitutional issue concluded that Strauss’s constitutional rights were not violated. In view of this Court’s subsequent determination that Section 10-110 is unconstitutional in relevant part, we must remand this ease for a determination by the Commission of whether or not its remaining findings, which we here affirm, would justify the employee’s dismissal.
+Order
+And Now, this 23rd day of February, 1979, the order of the Court of Common Pleas of Philadelphia County, Civil Division, dated July 13, 1977, entered to No. 1842 June Term, 1976, is vacated, and the case is remanded to that Court for referral by that Court to the Civil Service Commission for a determination of whether that Commission’s findings of fact, exclusive of its finding of a violation of Section 10-110 of the Philadelphia Home Rule Charter, warrant the dismissal of Gilbert Strauss.
+Strauss was seriously injured wliile fighting a fire in South Philadelphia on June 12, 1973, and never returned to active duty thereafter.
+Repealed by Section 2(a) of the Judiciary Act Repealer Act, Act of April 28, 1978, P.L. 202, 42 P.S. §20002(a) [1429], A similar provision is now found in the Local Agency Law, 2 Pa. O.S. §754(b).
