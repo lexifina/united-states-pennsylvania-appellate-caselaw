@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 159"
+decided: "1962-12-12"
+citations: ["200 Pa. Super. 44"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Ervin, Wright, Watkins, Montgomery, and Flood, JJ. (Woodside, J., absent)."]
+parties: ["Scott, Appellant, v. Curtis."]
+source_url: "https://static.case.law/pa-super/200/cases/0044-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 762906
+cites_cases: ["125 Pa. Superior Ct. 568", "131 Pa. 466", "159 A. 2d 477", "160 A. 2d 437", "166 A. 2d 496", "19 A. 78", "190 A. 206", "210 Pa. 609", "309 Pa. 450", "331 Pa. 429", "366 Pa. 543", "398 Pa. 447", "399 Pa. 332", "402 Pa. 109", "60 A. 264", "79 A. 2d 232"]
+---
+
+# Scott v. Curtis
+
+## Majority (Montgomery, J.,)
+
+Opinion by
+Montgomery, J.,
+This is an action of trespass for personal injuries in which the appellant has recovered a verdict of $3,-500. The facts concerning the automobile accident upon which this action is predicated are not in dispute and are to the effect that on June 21, 1958, the automobile of the appellee crossed the road into the lane of the appellant traveling in the opposite direction, forced the appellant’s automobile to the berm of the road, and struck it there with great violence. In this accident, appellant sustained serious and painful injuries including displacement of teeth, two fractures of the lower jaw and deformity of the mandible.
+Special damages, aside from vehicle damage and lost earnings, totaled $679. The vehicle damage was $660. The testimony as to lost earnings was to the effect that two and one-half months before the injury, plaintiff was laid off or furloughed from a common labor pool, while earning $2.09 an hour over a forty hour week. At the date of the accident he was drawing unemployment compensation. Appellant was recalled to work on December 17, 1958, at which time he returned, performing all the duties of his employment.
+Admittedly, no testimony was produced as to other job opportunities being offered him during his disability. After the closing arguments of counsel, plaintiff (appellant) presented a written request to the judge to charge on punitive or exemplary damages which was refused. No exception to this refusal is presented in this appeal. The court charged that the plaintiff would be entitled to recover for lost wages, if, as a result of the accident, he actually lost any wages. At the conclusion of the charge to the jury, the trial judge addressed inquiries to both counsel asking if either of them had any further matter to bring to his attention. Both replied in the negative. Counsel for the plaintiff (appellant) did not take a special exception to any portion of the lower court’s charge, nor did he take a general exception to the charge.
+Subsequent to the jury’s verdict, the appellant filed a motion for a new trial, which he supplemented with an additional reason after the testimony had been transcribed. This assignment of error is related to that portion of the trial judge’s charge to the jury concerning the elements of damage. The court en banc refused the motion for a new trial and this appeal followed.
+The appellant contends that the portion of the trial judge’s charge to the jury concerning damages constituted fundamental error in that it did not cover “earning capacity”, and virtually directed the jury to consider only wages actually lost. We find no merit in this contention. The charge of the trial judge accurately summarizes the testimony produced by the plaintiff at the time of the trial. There is no complaint of any impairment of earning power other than he was totally incapacitated for six months following the accident. At the time of the trial and for almost three years prior thereto, the appellant had been fully restored to his employment. The trial judge did not limit the appellant’s recovery to wages which he might have lost from his former employment from which he had been temporarily laid off. Under the charge the jury was to consider “whether or not he [the appellant] actually lost any earnings by being unable to work during the period of his disability”, regardless of whether or not there was any work available. The existence of any such loss and the amount of such loss were properly left for the determination of the jury.
+The law applicable to the present situation was recently restated by Mr. Justice Bell, now Chief Justice, in Segriff v. Johnston, 402 Pa. 109, 113, 166 A. 2d 496, 499.
+“As Chief Justice Jones said: ‘a party may not sit by silent, take his chances on a verdict, and, if it is adverse, then complain of matter which, if error, could have been eradicated during the trial if brought to the court’s attention properly and timely. Keefer v. Byers [398 Pa. 447, 159 A. 2d 477]; Commonwealth v. Razmus, 210 Pa. 609, 611, 60 A. 264. Bell v. Yellow Cab Co., 399 Pa. 332, 338-39, 160 A. 2d 437. ‘A proper administration of justice requires that new trials be not granted on errors which counsel had ample opportunity to correct. It is only when errors are basic and fundamental and cannot be corrected at the trial that this Court will consider them under a general exception: Medvidovich v. Schultz, 309 Pa. 450; Whitton v. H. A. Gable Co., 331 Pa. 429.’ McDonald v. Ferrebee, 366 Pa. 543, 547, 79 A. 2d 232.”
+Under the evidence in this case the failure of the court to advise the jury of the distinction between a loss occurring by impairment of earning power and the loss of wages due to complete incapacity is not so basic or fundamental as to require a new trial, particularly in the light of the substantial verdict rendered by the jury. Furthermore, there is no exception, even a general one, to support the motion for a new trial.
+Although we are not concerned here with punitive or exemplary damages, the court below was also correct in its refusal to charge on such damages at the request of the appellant. The general rule is that only compensatory damages can be recovered in negligence cases and juries are not at liberty to go farther and find exemplary damages, unless the injury was done wantonly and willfully, or was the result of reckless indifference to the rights of others. J. T. Keil v. Chartiers v. Gas Co., 131 Pa. 466, 19 A. 78; Fahrer v. Blumenthal, 125 Pa. Superior Ct. 568, 190 A. 206. There was no such evidence in this case.
+Order refusing a new trial and judgment on the verdict affirmed.
