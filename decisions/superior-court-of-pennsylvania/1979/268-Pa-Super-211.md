@@ -1,0 +1,43 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "225"
+decided: "1979-07-27"
+citations: ["268 Pa. Super. 211", "407 A.2d 1320"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before JACOBS, President Judge, and HOFFMAN, CER-CONE, PRICE, VAN der VOORT, SPAETH and HESTER, JJ.", "PRICE, J., concurs in the result.", "HESTER, J., files a dissenting statement.", "JACOBS, former President Judge, did not participate in the consideration or decision in this case."]
+parties: ["COMMONWEALTH of Pennsylvania v. Richard FERRARO, Appellant."]
+source_url: "https://static.case.law/pa-super/268/cases/0211-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 127070
+cites_cases: ["248 Pa. Super. 242", "248 Pa.Super. 184", "249 Pa.Super. 433", "256 Pa.Super. 456", "472 Pa. 553", "475 Pa. 399"]
+---
+
+# Commonwealth v. Ferraro
+
+## Majority (CERCONE, President Judge:)
+
+CERCONE, President Judge:
+This appeal arises from Richard Ferraro’s conviction for forgery, theft by unlawful taking or disposition, theft by receiving stolen property, theft by deception, possession, operation or sale of a vehicle with defaced serial numbers, and possession of a certificate of title of a stolen vehicle. The charges stemmed from the theft and resale of nine Volkswagen automobiles and forgeries of signatures on documents relating to those and eight additional cars. In his brief, appellant claims numerous [joints of error. However, because of our disposition of appellant’s Rule 1100 argument, we do not reach his remaining contentions.
+On January 1, January 9, January 27 and February 19, 1975 warrants were issued in Philadelphia for appellant’s arrest. Pursuant to these warrants, appellant was arrested on February 19, 1975 in Gloucester, New Jersey. Appellant was arraigned in New Jersey on February 19, 1975 and bail was set at $20,000.00. A second hearing was held in New Jersey on February 20, 1975 at which time bail was reduced to $5,000.00. Two representatives for the Commonwealth of Pennsylvania, Detective Frank Stewart and Assistant District Attorney Janice Cohen, attended the hearing on February 20. Appellant remained in New Jersey and on March 11, 1975 appellant was indicted in absentia in Pennsylvania. The Commonwealth of Pennsylvania initiated extradition proceedings against appellant on March 14, 1975 and on April 11, 1975. Governor’s Warrants and extradition papers were sent to the Honorable Brendan Byrne, Governor of New Jersey. On May 5, 1975, appellant surrendered himself to the Philadelphia police. On or about October 9, 1975, appellant filed a motion to dismiss based upon Rule 1100, which motion was denied at a hearing before Judge Lisa Richette. Appellant’s motion to suppress evidence was heard by Judge Anderson on October 14 through 16, 1975. Said motion was granted in part and denied in part. Appellant’s trial commenced on October 20, 1975.
+Rule 1100(a) requires that an accused be tried within one hundred and eighty days after the commencement of criminal proceedings against an accused. Commonwealth v. Mitchell, 472 Pa. 553, 372 A.2d 826 (1977). Subparagraph (d)(1) of this Rule allows for an exception to the general provisions of 1100(a). The provisions of 1100(d)(1) state that any delay at any stage of the proceedings which is caused by the unavailability of the defendant or his attorney shall be excluded from the tabulation of the one hundred and eighty day period. The comments to the Rule expand on this point and specifically provide that unavailability for the purpose of subparagraph (d)(1) includes any time during which the accused has “contested extradition, or when a responding jurisdiction delayed or refused to grant extraditions [sic].” Accordingly, it has been held that the Commonwealth has the burden of proving the unavailability of the accused or his counsel and must do so by a preponderance of the evidence. Commonwealth v. Wade, 475 Pa. 399, 380 A.2d 782 (1977); Commonwealth v. Mitchell, 472 Pa. 553, 372 A.2d 826 (1977).
+Appellant focuses his argument upon the burden of proof question. Appellant avers that he never contested extradition. It is appellant’s contention that the Commonwealth of Pennsylvania, in the person of Detective Frank Stewart and Attorney Janice Cohen, simply told appellant on February 20, 1975 that he would be notified when he had to appear for trial in Pennsylvania. Appellant says that at all times Pennsylvania authorities could reach him at his home in New Jersey and that certain detectives from Pennsylvania did phone him at his New Jersey home. Appellant claims that notice was never sent to him, so he did not return to Pennsylvania until May 5, 1975 after he had become aware that extradition proceedings had been commenced against him. The Commonwealth, on the other hand, claims that when appellant was arrested by New Jersey authorities on February 19, 1975 he refused to waive extradition, and again steadfastly refused to waive extradition at his preliminary hearing on February 20, 1975. This refusal necessitated the commencement of extradition proceedings.
+As was previously indicated, a hearing on the Rule 1100 issue was held before Judge Richette on October 9, 1975. At this hearing no witnesses testified. The Commonwealth informed the court that Attorney Janice Cohen was no longer with the District Attorney’s office and was “unavailable” as a witness, although the Commonwealth offered to bring Detective Stewart into the courtroom to testify regarding the New Jersey hearing. Appellant’s counsel similarly indicated that the New Jersey attorney who represented appellant at the February 20 hearing might be called. However, neither witness was called because the court deemed this unnecessary. Instead, the court held that the Commonwealth sustained its burden of proof by merely introducing a copy of the letter which accompanied the Commonwealth’s application for a Governor’s Warrant and a copy of the letter sent to the Honorable Brendan Byrne, Governor of New Jersey, requesting appellant’s extradition. Judge Richette then referred to her own experience with the extradition process, noting that it is a troublesome procedure, and concluded that the Commonwealth would not have initiated this process if appellant were not contesting extradition. This was error. All that the two cover letters showed was that the Commonwealth had indeed initiated extradition proceedings against appellant; this fact was never in dispute. Standing alone, these letters are not enough to prove by a preponderance that appellant contested extradition.
+Nevertheless, we do not now discharge appellant since we find that this issue was not properly adjudicated by the court below. It appears from the record that both appellant and the Commonwealth would have called witnesses had the court so required. Because the court ruled without receiving testimony, we have no facts upon which to base a decision. This is not a case where the parties, particularly the Commonwealth, had no evidence to offer. If this were simply an instance where the Commonwealth offered the court no evidence on the Rule 1100 issue, then we would appropriately hold that the Commonwealth did not sustain its burden of proof. However, in the instant case, the court’s ruling precluded the production of probative evidence. Therefore, it is appropriate that we order a new hearing on the Rule 1100 issue. We have in the past ordered new hearings on Rule 1100 issues where the evidence and record before us were so incomplete that we could not meaningfully review the issue. Commonwealth v. Clark, 256 Pa.Super. 456, 390 A.2d 192 (1978); Commonwealth v. Krall, 249 Pa.Super. 433, 378 A.2d 373 (1977); Commonwealth v. Tome, 248 Pa. Super. 242, 375 A.2d 78 (1977); Commonwealth v. Clark, 248 Pa.Super. 184, 374 A.2d 1380 (1977). In light of the facts in the instant case, we conclude that a complete hearing on the Rule 1100 issue must be held.
+Accordingly, we order that the case be remanded to the court below for a complete hearing on the Rule 1100 question.
+PRICE, J., concurs in the result.
+HESTER, J., files a dissenting statement.
+JACOBS, former President Judge, did not participate in the consideration or decision in this case.
+. Crimes Code, 18 Pa. C.S. § 4101 (1973).
+. Id. at § 3921.
+. Id. at § 3925.
+. Id. at § 3922.
+. Vehicle Code, 75 Pa. C.S. § 7103 (1977).
+. 75 Pa. C.S. § 7122 (1977).
+
+## Dissent (HESTER, Judge,)
+
+HESTER, Judge,
+dissenting:
+I dissent. I would affirm the conviction and the judgment of sentence.
