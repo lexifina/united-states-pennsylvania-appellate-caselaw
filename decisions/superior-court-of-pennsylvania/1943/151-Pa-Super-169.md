@@ -1,0 +1,36 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, No. 312, 313 and 314"
+decided: "1943-01-28"
+citations: ["151 Pa. Super. 169"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Balbrige, Rhodes, Hirt and Kenworthey, JJ."]
+parties: ["Commonwealth v. Becker, Appellant."]
+source_url: "https://static.case.law/pa-super/151/cases/0169-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1047390
+cites_cases: ["167 A. 344", "167 Pa. 225", "31 A. 572", "312 Pa. 140", "79 Pa. Superior Ct. 153", "84 Pa. Superior Ct. 319", "86 Pa. Superior Ct. 434"]
+---
+
+# Commonwealth v. Becker
+
+## Majority (Kenworthey, J.,)
+
+Opinion by
+Kenworthey, J.,
+Appellant was tried under five indictments charging that he obtained money under false pretences from five separate individuals. The trial judge directed a verdict of not guilty on bills Nos. 984 and 991. Appellant was found guilty as to bills Nos. 987, 988 and 990.
+Appellant is undoubtedly a confirmed criminal; after the verdict was rendered, the Commonwealth introduced for the .benefit of the court in imposing sentence evidence of a long criminal history. He was in the roofing business and his mode of operation was, through rather extensive advertising, to procure customers with Avhom he usually entered into a written contract on a printed form, under which he agreed for a specific sum of money to install “one complete slag roof, including new flashing around the entire house, new copper eaves box and guaranteed for a period of fifteen years against leakage.” In two of the three cases in which he was convicted, he also orally agreed to install insulation.
+The indictments were laid under the Penal Code, Act of June 24,1939, P. L. 872, §836, 18 PS §488b. The indictments, all three of which Avere identical except for the name of the victim and the amount, charged that appellant had falsely represented that he had installed a new roof on the house of the victim, for which he was therefore entitled to he paid the agreed contract price, whereas he well knew he had not; and that on the basis of the representation he was paid.
+The assignments of error challenged the sufficiency of the evidence to sustain the convictions and several portions of the court’s charge.
+'The elements of the crime of false pretense are so comprehensively and clearly discussed in Com. v. Johnson, 312 Pa. 140, 167 A. 344, that it is not necessary to repeat them here. The burden is on the Commonwealth to prove “the specific pretense charged in the indictment” (Com. v. Davidow, 86 Pa. Superior Ct. 434), and a “false pretense, to be within the statute, must be the assertion of an existing fact, not a promise to perform some act in the future.” (Italics supplied) Com. v. Mauk, 79 Pa. Superior Ct. 153, 157.
+The conviction on bill No. 9S7 — Ryan—must be reversed. In that case, prosecutrix testified she entered into a written contract for a new roof for the sum of $50, and, in addition, appellant was to repair the chimney and spout for $16, and insulate the roof for an additional $50, making a total of $116. But she paid him immediately upon the execution of the contract before he commenced work. Thus, it is apparent that the money was not obtained under the false pretense of the existing fact charged in the indictment — that a new roof had been installed.
+Conviction on bill No. 990 — Serfi—must also be reversed. In that case, there was no written contract; the prosecutor testified there was a verbal agreement “for insulating a roof which he charged me $75 for.” The money was paid on the implied representation that the work had been done when there was ample evidence that it had not, but the difficulty here is that appellant was not charged with falsely representing that he had insulated the roof, but that he had installed a new roof. In its brief, the Commonwealth says: “If the allegata and probata must agree word for word, the defendant was wrongfully convicted. He can be reindicted, however.” The allegata and probata need not “agree word for word.” Com. v. Karpowski, 167 Pa. 225, 31 A. 572. But, in our opinion, the variance was substantial and under the authority of prior decisions the evidence will not support the conviction. Com. v. Davidow, supra.
+The conviction on bill No. 988 — Jones—will be affirmed. In that case, there was a written contract to install a new roof, in the form above referred to, for the sum of $50, and an oral agreement to insulate it for an additional $75, making a total of $125. Appellant and Ms men commenced work on the roof on the morning of September 2,1941, and tbe prosecutrix paid appellant about five o’clock tbe same day on bis implied representation (see Com. v. Dougherty, 84 Pa. Superior Ct. 319) that tbe job bad been completed. There was ample evidence it bad not — that appellant bad neither installed a new roof nor, beyond tbe merest pretext, installed any insulation.
+When tbe charge of tbe court is viewed as a whole, it was adequate and in our opinion fairly presented the issues of law and fact.
+Since no point for binding instructions was submitted, tbe judgments of sentence on indictments Nos. 987 and 990 are reversed with a venire facias de novo. The judgment of sentence on indictment No.. 988 is affirmed.
+“COUNTY OF PHILADELPHIA ss:
+THE GRAND INQUEST 'of the Commonwealth of Pennsylvania, inquiring for the County of Philadelphia, upon their respective oaths and affirmations, do present, That George Becker, Senior, late of the said county, yeoman, on the second day of September, in the year of our Lord one thousand nine hundred and forty-one, at the County aforesaid, and within the jurisdiction of this Court, unlawfully and feloniously did then and there falsely pretend and represent to one Anna Ryan that he the said George Becker, Senior, had completed the installation of a new roof on the building and premises situate and numbered Thirteen hundred and nine north Sixty-first street, in the City of Philadelphia, and that he the said George Becker, Senior, was then and there entitled to receive the sum of one hundred and sixteen dollars, from the said Anna Ryan in payment; whereas, in truth and in fact, as he the said George Becker, Senior, then and there well knew, -he the said George Becker, Senior, had not installed a new roof on said premises; and whereas, in truth and in fact, he was not then entitled to the payment of said sum of one hundred and sixteen dollars, from the said Anna Ryan, in payment therefor; and the said George Becker, Senior, then and there well knew the said pretence and pretences, to be false, by color and means of which said false pretence and pretences, he did then and there unlawfully and feloniously obtain from the said Anna Ryan, the sum of one hundred and sixteen dollars, in lawful money of the United States, of the value of one hundred and sixteen dollars; being then and there the property of the said Anna Ryan with intent to cheat and defraud the said Anna Ryan: contrary to the form of the Act of the General Assembly in such case made and provided, and against the peace and dignity of the Commonwealth of Pennsylvania.
+John H. Maurer,
+District Attorney.”
