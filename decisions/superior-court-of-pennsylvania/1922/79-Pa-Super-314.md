@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 119"
+decided: "1922-07-13"
+citations: ["79 Pa. Super. 314"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Trbxler, Keller, Linn and Gawthrop, JJ."]
+parties: ["Patton’s Estate."]
+source_url: "https://static.case.law/pa-super/79/cases/0314-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 651709
+cites_cases: ["13 Pa. Superior Ct. 289", "180 Pa. 139", "190 Pa. 79", "205 Pa. 504", "207 Pa. 550", "227 Pa. 454", "242 Pa. 330", "269 Pa. 505", "30 Pa. Superior Ct. 582", "45 Pa. 398", "60 Pa. 261"]
+---
+
+# Patton's Estate
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+The decedent in her last will provided that all her real estate should be held in trust and the rents paid half yearly to the Rochester branch of the Woman’s Christian Temperance Union. There was also provision as to the free nse of a hall in one of the properties, said association to have the preference and after it the Methodist Protestant Church of Rochester, then any temperance or moral reform organization. In the event of the Rochester branch ceasing to exist the money was to go half and half to the Pennsylvania W. C. T. U. and the Methodist Protestant Church of Rochester. The executor had the right, if he deemed best to sell the real estate. After these provisions follows the clause which is the subject of this controversy.
+“Upon the happening of that event (the sale of the property) I give, devise and bequeath the proceeds of said sale as follows:
+“In the event that the Rochester Branch of the Woman’s Christian Temperance Union shall then be in existence, it shall receive the one-third of the proceeds of said sale.
+“In the event that the Rochester Methodist Protestant Congregation shall have erected a church at that time it is to receive the one-third proceeds of said sale; and the Pennsylvania Woman’s Christian Temperance Union shall receive the remaining one-third.
+“In the event that the Rochester branch of the W. C. T. U. shall not then exist and the Methodist Protestants shall not have erected a church, I give and bequeath all of said money to the Penna. Woman’s Christian Temperance Union.”
+The Rochester Methodist Protestant congregation failed to erect a church and thus lost its share of the money realized in the sale of the real estate. To whom does this one-third go? To the Pennsylvania W. C. T. U. or to the heirs of the decedent under the intestate laws? The auditor appointed by the court below selected the first alternative and award the one-third to the Pennsylvania W. C. T. U. which thus gets two-thirds of the residuary estate. The same view was taken by the court. The case presents some difficulties hut we are constrained to affirm the judgment. We are asked to declare intestacy as to the third which the Rochester church failed to get by reason of the nonerection of a house of worship. In other words, in order that the third legatee should get any portion of the estate given to the Rochester congregation or to the Rochester W. C. T. IT. the appellants contend that both conditions have to be fulfilled, the Church must fail to erect a house of worship and the Rochester W. C. T- IT. must cease to exist.
+We can gather from the section above quoted that the testatrix had some doubt upon two subjects; the permanence of the Rochester branch of the W. C. T. IT. and the erection of a church by the Rochester Methodist Protestant congregation. As to the remaining beneficiary the Pennsylvania W. C. T. IT. she had no doubt and unconditionally gave the one-third to it. In her mind, whatever uncertainty there might be as to the first two objects of her bounty the third was sure and should the others fail that one would remain and could take what failed to pass to either of the others. Under this clause the Pennsylvania W. C. T. U. took whatever residue there was. She thus disposed of her entire estate. We do not think it reasonable that the organization which was to receive all the money in the event that both bequests failed should receive nothing when one failed. The whole includes the part. The evident intention of the testator should govern. We are in'nearly every case involving the consideration of a will, met with rules which are invoked in support of one or the other side of the argument, but all rules are subject to the one that the ascertainment of the will of the testator should be of first consideration: Dalrymple Est., 13 Pa. Superior Ct. 289; King v. Savage Brick Co., 30 Pa. Superior Ct. 582, and cases there cited. There being no substitution inter se as to the first donees, it is evident the third donee was to be the residuary legatee of the first two. The lapsed interest of the Rochester congregation therefor goes to it under this residuary clause. It is not reasonable that the testator considered the possibility of this contingency arising and that she did not intend to cover the event of one of the donees complying with the conditions implied by the will and the other failing. Thus in Kennedy’s Est., 190 Pa. 79, the phrase “if neither of my sons have children, the principal will come back to C’s children.” One of the sons had a child and in that case as in this, it was contended that according to the strict meaning of the words, one son having a child did not fulfil the provision of the will as it required that neither of them should have children. Nevertheless it was held, that as to the one who was childless the bequest over prevailed, that the condition applied to each share. Every intendment is to be made against holding a person to die intestate who sits down to dispose of the residue of his property. Intestacy is never favored and a construction should not be adopted which leads to such a result if it can be avoided by a reasonable interpretation of the will. No authority need be cited in support of this well-known doctrine.
+The decree of the orphans’ court is affirmed. Appellant for costs.
