@@ -1,0 +1,45 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1230 C.D. 1977"
+decided: "1978-07-27"
+citations: ["37 Pa. Commw. 33"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Mencer, Rogers and DiSalle, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania ex rel. Pennsylvania Securities Commission, Appellant v. Allamanda Investment Company et al., Appellees."]
+source_url: "https://static.case.law/pa-commw/37/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1890248
+cites_cases: ["208 U.S. 360", "367 Pa. 102", "79 A.2d 401"]
+---
+
+# Commonwealth ex rel. Pennsylvania Securities Commission v. Allamanda Investment Co.
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+The Pennsylvania Securities Commission (Commission) began an investigation of Royal Poinciana Investment Company (Royal Poinciana), Allamanda Investment Company (Allamanda), and Rudy W. Ozimec, after receiving complaints from various investors in Royal Poinciana and Allamanda. The Commission’s investigation revealed that Rudy W. Ozimec was the promoter, general partner, and salesman of Royal Poinciana and Allamanda. Ozimec, through various representations which the Commission found to be misleading or fhlse, solicited investments in the amount of $124,415 in Royal Poinciana from seventeen persons and in the amount of $162,000 in Allamanda from twelve persons. The investments were in the form of limited partnerships which are defined as securities in Section 102(t) of the Pennsylvania Securities Act of 1972 (Act), 70 P.S. §1-102(t). The limited, partnership interests were not registered as securities as required by Section 201 of the Act, 70 P.S. §1-201.
+The goal and purpose of Royal Poinciana and Allamanda,. as represented by Ozimec, was the ownership and development of land in Florida. After many unkept promises by Ozimec, some investors filed criminal complaints in Westmoreland County charging Ozimec with theft of funds, but he could not be found in Pennsylvania. Thereupon, the Commission filed a complaint in equity, pursuant to Section 509 (a) of the Act, 70 P.S. §1-509(a), seeking equitable relief for the investors and the appointment of a receiver. On November 30, 1976, the Court of Common Pleas of Allegheny County entered an order appointing George Shorall, Esquire, as receiver for Royal Poinciana and Allamanda.
+The receiver proceeded to collect the assets of Royal Poinciana and Allamanda and deternlined that the total assets consisted of land in Florida and $1199 in cash. The receiver decided that it would be desirable for him to travel to Florida and inspect the property of the receiverships.
+The receiver filed for a rule to show cause why the Commonwealth of Pennsylvania, Pennsylvania Securities Commission, should not advance sufficient funds to the receiver to cover his travel expenses to Florida and to pay the receiver for the costs he had advanced and for his services. On May 18, 1977, the Court of Common Pleas of. Allegheny County ordered the Commission to pay George Shorall, receiver, the sum of $1,000 for reimbursement of his expenses and the sum of $5,000 in partial payment for his services, with both sums to be credited to and returned to the Commission from any sums realized from the assets of the debtor. The Commission attempted to file exceptions to this order, but it was refused permission to file exceptions by an order dated June 3, 1977. This appeal followed and we reverse.
+The courts are without authority to direct payments of demands upon the Commonwealth of Pennsylvania, Pennsylvania Securities Commission, except when empowered so to do by appropriate legislation. No authority has been found and none cited by the receiver or court below, warranting the order made by the court, and we are therefore compelled to conclude that the order in question here was made without authority and is void.
+In Atlantic Trust Co. v. Chapman, 208 U.S. 360, 364, 370, 375 (1908), we find the following pertinent pronouncement :
+The principal question in this case — now before us upon writ of certiorari for the review of a final order of the eircnit court of appeals for the ninth circuit — is stated by counsel to be this: Is a complainant who has, in good faith, prosecuted a suit upon a good cause of action, and upon whose application the court has properly appointed a receiver, and who obtains a decree fully establishing his rights, nevertheless personally responsible for a deficiency caused by the failure of the property which is the subject of the suit to bring enough to cover the allowances made by the court to the receiver and his counsel, and the expenses which the receiver, without special request of the complainant in any instance, had incurred?
+... No such liability could arise from the simple fact that it was on plaintiff’s motion that a receiver was appointed to take charge of the property pending the litigation. . . .
+... We do not think that the mere insufficiency of the property or fund to meet the expenses of a receivership entitled the receiver to hold the plaintiff in the suit personally liable, if all that could be said was that he instituted the suit and moved for the appointment of the receiver to take charge of the property and maintain and operate it pending the suit. A receiver, as soon as he is appointed and qualifies, comes, as we have said, under the sole direction of the court. The contracts he makes or the engagements into which he enters, from time to time, under the order of the court, are, in a substantial sense, the contracts and engagements of the court. The liabilities which he incurs are liabilities chargeable upon the property under the control and in the possession of the court, and not liabilities of the parties. They have no authority over him and cannot control his acts.
+In earlier days it was deemed an expected and proud service of the bar to accept assignments from the court even where it was evident from the outset that such assignments would be without compensation. Commonwealth v. Thompson, 367 Pa. 102, 79 A.2d 401 (1951). Here, a small fund in the receivership account has not been utilized and there exists the reasonable prospect that the land in Florida, which the receiver wishes to personally inspect, will be sold and thus produce a fund available to the receiver for his expenses and compensation.
+Therefore, we conclude that, since the receiver can point to no Act of Assembly or other authority giving the Court power to allow such payments, none can be made.
+Order reversed.
+Order
+Now, this 27th day of July, 1978, the order of the Court of Common Pleas of Allegheny County, under date of May 18, 1977, ordering the Commonwealth of Pennsylvania ex rel. Pennsylvania Securities Commission to pay George Shorall, receiver, the sum of $1,000 for reimbursement of his expenses and the sum of $5,000 in partial payment for his services is hereby reversed.
+Act of December 5, 1972, P.L. 1280, 70 P.S. §1-101 et seq.
+Reaching the same conclusion is 2 R. Clark, Law of Receivers §641(i) (1959) :
+(i) Payment of receiver’s fees and costs when insufficient or no funds. It is the usual practice to charge the funds or estate in the receiver’s hands with all costs and expenses, including compensation of receiver, but how can this be done in cases where no funds or estate exist? Where there is no fund out of which the expenses can be paid, or the fund is not sufficient, the usual rule is that the party at whose instance the receiver was appointed should be required to provide the means of payment when and if some special circumstances can be shown making such an order equitable and just. However, it has been held that the mere insufficiency of the property or funds to meet the expenses of a receivership does not entitle the receiver to hold the plaintiff in the suit personally liable, if all that could be said is that he instituted the suit and moved for the appointment of the receiver to take charge of the property and maintain and operate it pending the suit. If the plaintiff was exercising his strict rights when he brought suit and asked for the appointment of a receiver and the receiver properly obeyed the orders of court in incurring the receivership expenses, then the plaintiff is not liable.
+The special circumstances which may make it equitable that the plaintiff pay the receiver’s fee when there are not sufficient funds in the court’s possession, have been stated as follows:
+(1) Agreement to pay the compensation of the receiver if one is appointed;
+(2) Condition laid down by the appointing court that no appointment will be made except that plaintiff will pay receiver’s fee;
+(3) Appointment made without authority, irregularly or illegally made;
+(4) Appointment made when there was no right to maintain action;
+(5) Cases in which party procuring the appointment had no interest or claim upon the property. (Footnotes omitted.)
