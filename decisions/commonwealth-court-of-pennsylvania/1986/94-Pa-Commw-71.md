@@ -1,0 +1,43 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 62 C.D. 1985"
+decided: "1986-01-07"
+citations: ["94 Pa. Commw. 71"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPttatt, and Doyle, and Senior Judge Barbieri, sitting •as a panel .of three."]
+parties: ["Sheldon R. Rovin, D.D.S., Petitioner v. Pennsylvania Public Utility Commission, Respondent."]
+source_url: "https://static.case.law/pa-commw/94/cases/0071-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1343444
+cites_cases: ["485 A.2d 519", "86 Pa. Commonwealth Ct. 393"]
+---
+
+# Rovin v. Pennsylvania Public Utility Commission
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+Sheldon B. Bovin, D.D.S. (Petitioner) seeks review of an order of the Pennsylvania Public Utility Commission (PUC) dismissing his complaint that the Philadelphia Suburban Water Company (PSWO) failed to provide him with adequate, safe and reasonable water service in violation of Section 1501 of the Public Utility Code (Code), 66 Pa. C. S. §1501. We affirm.
+Section 1501 of the Code provides in full:
+Every public utility .shall furnish and maintain ■adequate, efficient, .safe, and reasonable service and facilities, and shall make all .such repairs, changes, alterations, substitutions, extensions, and improvements in or to ,such service ¡and facilities as shall be necessary or proper for the accommodation, convenience, and safety of its patrons, employees, and the public. Such service- also -shall be reasonably continuous and without unreasonable interruptions or delay. Such service and facilities, shall be in conformity with the regulations-and orders of the commission.
+Subject to the provisions of this part and the' regulations hr -orders of the commission, every public utility may have- reasonable -rules -and. regulations governing -the conditions under which it -shall be required to render service. Any public utility' service -being furnished or rendered by -a municipal corporation beyond its corporate -limits shall be. subject to regulation and control by the commission as to -service and -extensions, with the same -force -and in like manner as if such -service were rendered by a public utility. The commission -shall have sole and exclusive jurisdiction -to promulgate- rules and regulations for the allocation of natural or artificial gas supply by a public utility.
+Petitioner states in his brief that the question involved in this -appeal is: -
+Does -the PUiC have authority to decide a complaint wherein a water company customer alleges that the practices of the company r-egarding fluoridation of the water it supplies its customers are not ‘-adequate, . . . safe and reasonable’ as required by [Section 1501 of the Code] ?
+Petitioner also states that the PUC answered- that question in the negative. He asks .this -Court to -reverse the PUC order and remand the case to the PUC for a decision “on the merits”.
+Petitioner is a dentist residing in PiSWO’s service area. Petitioner filed a complaint with the PUC alleging that some of PiSWO’s cnstomers receive fluoridated water while others do not. Petitioner claims that the service provided by PSWC is unsafe, inadequate and unreasonable in that (1) those customers not receiving fluoridated water are denied the benefits of fluoridated water and (2) those customers who are receiving fluoridated water might be harmed if their pediatricians prescribe a fluoride supplement.
+Following a hearing, an Administrative Law Judge (ALJ) recommended that Petitioner’s complaint be dismissed on the basis that the Code is devoid of any specific language authorizing the PUC to require utilities to fluoridate their water supply. The PUC adopted the ALJ’s recommendation, noting that the fluoridation issue properly would lay before the Department of Environmental Resources (DER). A timely appeal to this Court followed.
+Petitioner’s primary argument on appeal is that the PUC misconceived the nature of his complaint. Petitioner avers that the PUC dismissed his complaint on the basis that the issue raised was whether PUC could direct PSWC to fluoridate its water. Petitioner alleges that the issue really presented in his complaint was whether an unreasonable and potentially unsafe situation exists, in violation of Section 1501 of the Code, when PSWC provides only some of its customers with fluoridated water.
+It appears that PlSWC obtains most ,of its water from sources owned and operated by PSWC. That water is not fluoridated. Approximately 7% of the water supply comes from the Bucks County Water and Sewer Authority and the Chester Municipal Authority. Water from those sources is fluoridated. Petitioner contends that PSWC’s customers will not know whether the water they are using is fluoridated 'and that there is a possibility that a dentist’s recommendation of a fluoride application to a patient whose water is fluoridated could cause fluorosis because the total amount of fluoride might then exceed permissible levels. This, Petitioner 'says, renders the water unsafe.
+At the direction of the ALJ, PSWC did offer testimony indicating that its water was safe' and 'that laboratory services were available and used to make that determination. Petitioner did not prove or offer to prove that the fluoride levels in any of PSWC water distributed to its customers exceeded safe limits. The ALJ did refer to the Petitioner’s precise argument on this point in his recommendation to the PUC 'and concluded .that since Petitioner failed to offer any evidence that 'any PSWC customer had been afflicted with fluorosis because of the fluoride levels in the water and since ¡the company did offer testimony that the water was safe, there was nothing in the record that would warrant PUiC intervention. We agree.
+Petitioner frames the issue as whether in providing water containing varying levels of fluoride to some of its customers, PSWC is violating its statutory obligations as above set forth. We believe the correct issue is whether PSWC furnished adequate, efficient, safe and reasonable water service to its customers. See Barone v. Pennsylvania Public Utility Commission, 86 Pa. Commonwealth Ct. 393, 485 A.2d 519 (1984). It is apparent that Petitioner herein is not complaining about the quality of service but rather is complaining about the quality of the water.
+Water quality in Pennsylvania is statutorily regulated by the provisions of the Pennsylvania Safe Drinking Water Act, Act of May 1, 1984, P.L. 206, 35 P.S. §§721.1—721.17 and the Federal Safe Drinking Water. Act, 42 TT.S.C. §§300(f)—300(j)-10. Enforcement .of those statutes is specifically vested, in DEE and the Federal Environmental Protection Agency..
+It is provided in Section '318 of the Code, 66 Pa. C. S. §318 that .the PUC “may certify to the DEE any question of fact regarding the purity of water supplied to. the .public by ¡any public utility over which it has jurisdiction, when any ¡such question arises in any controversy or other proceeding before it. . . . ” Petitioner concedes in his brief to this Court that “[h]e did not present the PUC with a claim .that .the composion of PSWC’s drinking water violated any DEE-administered statute or DEE-promulgated regulation. Similarly, [Petitioner’s] complaint raised no issue regarding the ‘purity’ of PSWC’s water supply.” Petitioner’s Brief at 14. Accordingly, there was no need for the PUC to certify any question of fact regarding the fluoridation issue to DEE.
+Petitioner did not otherwise complain about the quality of service PSWlC provides. In our opinion, therefore, he did not sustain his burden of proving a violation of Section 1501 of the ¡Code, and the PUC properly dismissed his complaint.
+Order
+The order of the Pennsylvania Public Utility Commission, Docket No. E-842592, dated December 10, 1984, is affirmed.
+Pursuant to Pa. R.A.P. 1952(b), Petitioner and the PUC entered into a stipulation agreeing that neither the record nor a certified list of its contents would be filed with the court.
+We must note, however, that Petitioner stated in his complaint filed with the PUC:
+The proposed rate increase by the Philadelphia Suburban Water Company does not assure that the water provided will be ‘safe and adequate’ as required by statute. If the increase is approved, then assurance should be given that the water will be ‘safe and adequate’ which by definition means adding the proper substances to it. I should Mice assurance that the proper substances for the complete health of the people drinking the water will, in fact, be added. (Emphasis added.)
