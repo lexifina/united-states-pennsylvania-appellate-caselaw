@@ -1,0 +1,39 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1320 C.D. 1978"
+decided: "1979-04-24"
+citations: ["42 Pa. Commw. 221"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Wilkinson, Jr., Mencer and Rogers, sitting as a panel of three."]
+parties: ["In Re: Delaware Valley Transportation Co., t/d/b/a Pocono Mountain Trails, Petitioner v. Pennsylvania Public Utility Commission, Respondent. Irving A. Karpe, t/a Yellow Cab Company, Intervenor."]
+source_url: "https://static.case.law/pa-commw/42/cases/0221-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1896415
+cites_cases: ["107 A.2d 159", "175 Pa. Superior Ct. 461", "32 Pa. Commonwealth Ct. 175", "349 U.S. 903", "378 A.2d 1020"]
+---
+
+# Delaware Valley Transportation Co. v. Pennsylvania Public Utility Commission
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+This is the appeal of the. Delaware Valley Transportation Company from an order of the Pennsylvania Public Utility Commission.
+The appellant is the holder of a certificate of public convenience which authorizes it to operate a limousine service on call or demand in and about Carbon, Monroe and Pike Counties. The certificate requires that the service be rendered in “luxury type vehicles” having a seating capacity not exceeding seven passengers. On April 20, 1977, Irving A. Karpe, trading as Yellow Cab Company, filed a complaint with the Public Utility Commission, alleging that the appellant had violated its certificate by using standard vehicles, by filing a tariff containing taxi service rates and by soliciting business and advertising as a taxi service. An administrative law judge conducted a hearing and issued an initial decision which the Commission sustained, ordering the appellant to file a proper tariff in conformance with its authority, to cease and desist from using standard four-door sedans, from advertising in the Yellow Pages under the heading of taxicabs, from informing disembarking passengers that Karpe’s taxicab service no longer exists and from telling customers that the appellant’s rates are lower than Karpe’s.
+Our scope of review of orders of the Public Utility Commission is limited. Section 1107 of the Public Utility Law, Act of May 28, 1937, P.L. 1053, as amended, 66 P.S. §1437, provides in part:
+The order of the Commission shall not be va- . cated or set aside, either in whole or in part, ex- • cept for error of law or lack of evidence to sup-, port the finding, determination, or order of the Commission, or violation of constitutional rights.
+Courts have held that:
+The Commission, as an administrative agency, is peculiarly fitted to interpret its own orders, especially where the question raised concerns the extent and limit of transportation rights granted a carrier under a certificate issued by the Commission. In recognition of this principle a court will not set aside a construction placed upon its own orders by an administrative agency unless the result is clearly erroneous, arbitrary, and unsupported by evidence.
+W. J. Dillner Transfer Co. v. Public Utility Commission, 175 Pa. Superior Ct. 461, 467, 107 A.2d 159, 162 (1954), appeal dismissed, 349 U.S. 903 (1955); see also Purolator Security, Inc. v. Public Utility Commission, 32 Pa. Commonwealth Ct. 175, 378 A.2d 1020 (1975).
+The appellant first says that the Commission erred in concluding that not all of the appellant’s automobiles were “luxury type vehicles” as required by its certificate of public convenience. In determining what was meant by “luxury type vehicles ’ ’ the Commission quite properly looked to the type of service that was contemplated at the time of the appellant’s application for a certificate. See Purolator Security, Inc. v. Public Utility Commission, supra.
+At the 1973 hearing concerning the appellant’s application, the appellant’s president testified that he was primarily interested in operating luxury type Lincolns and Cadillacs, not standard five or six passenger automobiles. He presented as an example of the vehicle to be used the Cadillac Fleetwood 75 limousine, designed to carry seven to nine passengers, equipped with air conditioning and a divider separating the driver from the passenger compartment. It is undisputed that two of the appellant’s vehicles, a Chevrolet Caprice and a Buick LeSabre, do not comply with the requirements contemplated at the 1973 hearing. The Commission’s order to cease and desist from using standard four-door sedans is plainly supported by the evidence.
+The appellant next says that the Commission erred in ordering it to cease and desist from advertising in the Yellow Pages of the telephone directory under the heading of Taxicabs. The appellant is not authorized to operate a taxicab service. Section 202 of the Public Utility Law, 66 P.S. §1122, requires that an application be filed with and approved by the Commission before a public utility may offer a service which is different from that which is authorized by a certificate of public convenience. The appellant has obtained no such approval. The advertisement of a “luxury car service” under the heading of Taxicabs constituted the offer of a service which the appellant is not authorized to perform. The Commission properly restrained such conduct.
+The appellant also says that the Commission erred in finding that the appellant’s tariff did not conform with its certified authority. The Commission found that the appellant’s tariff, which provides for flat fares within and between zones, provides a taxi service rather than a limousine service. Again, it was proper for the Commission to look to the original application to determine what rate structure was contemplated when the appellant got its authority to operate a limousine service.
+At the 1973 hearing on the appellant’s application, its president testified that its rates would be based on mileage or hours of use, whichever amount were higher. He testified further that the rates would be charged on a “per vehicle” rather than a “per passenger” basis and that a minimum rate would apply to each trip. Further, it was represented that the vehicles would be dispatched from one of two equipment points and that the appellant would charge for “deadhead mileage,” that is, the mileage between the equipment points and the passenger pickup point. These features, the president testified, were what distinguished a limousine service from a taxi service.
+The rate structure provided in the appellant’s present tariff bears little resemblance to that proposed at the time of application. The rates are determined by zones rather than mileage or hours of use and are charged on a “per passenger” rather than “per vehicle ’ ’ basis. There is no uniform minimum charge and “deadhead mileage” is measured from “cab stands” rather than equipment points. The appellant’s president conceded at the hearing on Karpe’s complaint that the rate structure contained in the tariff is similar to the rate structure of a taxi service. The Commission’s finding and its order in this respect are clearly proper.
+Finally, the appellant says, and counsel for the Commission cedes, that there is no evidence in the record to support the Commission’s order that the appellant cease and desist from informing passengers that the Yellow Cab Company no longer exists and that the appellant charges less than Yellow Cab. We therefore vacate subparagraphs 3(c) and 3(d) of the Commission’s order dealing with these subjects.
+The order of the Commission as modified by vacating sub-paragraphs 3(c) and 3(d) thereof is affirmed.
+Order
+And Now, this 24th day of April, 1979, subparagraphs 3(c) and 3(d) of the order of the Pennsylvania Public Utility Commission are hereby vacated; the order so modified is affirmed.
