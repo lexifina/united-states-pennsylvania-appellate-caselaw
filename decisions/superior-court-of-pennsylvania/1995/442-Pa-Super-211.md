@@ -1,0 +1,48 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "03742"
+decided: "1995-05-31"
+citations: ["442 Pa. Super. 211", "658 A.2d 1375"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before TAMILIA, HOFFMAN and CERCONE, JJ.", "TAMILIA, J., files a dissenting statement."]
+parties: ["NATIONAL CHECK, v. FIRST FIDELITY BANK Appeal of David RIGGS, Appellant."]
+source_url: "https://static.case.law/pa-super/442/cases/0211-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 719786
+cites_cases: ["107 A.2d 854", "378 Pa. 648", "411 Pa.Super. 347", "419 Pa.Super. 155", "420 Pa.Super. 576", "430 Pa.Super. 631", "505 Pa. 294", "535 Pa. 619", "629 A.2d 1380", "635 A.2d 653", "746 F.2d 200"]
+---
+
+# National Check v. First Fidelity Bank
+
+## Majority (CERCONE, Judge:)
+
+CERCONE, Judge:
+This is an appeal from the order of court sustaining preliminary objections filed on behalf of appellee First Fidelity and dismissing appellant’s complaint. After careful review of that complaint, we reverse.
+The Honorable Russell M. Nigro filed an opinion aptly summarizing many of the relevant facts:
+Plaintiff [appellant] brought this action against First Fidelity Bank, N.A. (“First Fidelity”), seeking damages on account of First Fidelity’s alleged delay in processing a six-year old $600.00 check. Plaintiff is a sole-proprietorship collection agency that came into possession of the check, which was originally presented and returned for insufficient funds in 1988.
+On January 3, 1994, [appellant] deposited the check (dated March 7, 1988) into an account with Maryland National Bank (the “depository bank”). The depository bank, in turn, presented the check to First Fidelity on January 4, 1994. First Fidelity initiated the return of the check to the depository bank on January 6, 1994 because the check was stale.
+Plaintiff contends that the check was returned after the “midnight deadline” and that it was returned in an “unexpeditious” manner. As a result of the alleged delay in returning the check, and not because the check was dishonored, plaintiff claims to have suffered damages resulting in his becoming “virtually impoverished, his reputation destroyed.”
+Trial Court Opinion, 10/31/94 at 1-2. In the prayer for relief, appellant National Check requested that appellee bank be held responsible for the face value of the check, consequential damages and other appropriate relief.
+After finding that appellant had not complied with Pennsylvania Rule of Civil Procedure 424, the lower court set aside service. The court also concluded that appellant’s allegations were “beyond belief and [did] not state a cause of action for that reason.” Trial Court Opinion, 10/31/94 at 4. Consequently, it sustained First Fidelity’s preliminary objections in the nature of a demurrer and dismissed the complaint -without prejudice. Appellant files the instant timely appeal from the lower court’s order sustaining appellee’s preliminary objections. In essence, appellant challenges the grant of a demurrer, arguing that the complaint “states a claim upon which relief can be granted under section 4-302 of the Uniform Commercial Code.... [and] under 12 C.F.R. section 229.10.”
+When considering a trial court’s order granting preliminary objections in the nature of a demurrer, an appellate court must accept as true all well pleaded facts contained in the complaint as well as any inferences reasonably deducible from those facts. Chew-Bittel Associates, Inc. v. Crusader Savings Bank, 430 Pa.Super. 631, 635, 635 A.2d 653, 654 (1993). Preliminary objections may be sustained only when it appears with certainty that the law permits no recovery under the facts averred. Id. Any doubt in that determination should be resolved by overruling the objections. Cianfrani v. Commonwealth, State Employees’ Retirement Board, 505 Pa. 294, 479 A.2d 468 (1984).
+Neither the trial court nor the bank dispute the delayed return of appellant’s check. Rather, the trial court contests the damages appellant claims to have incurred as a result of that delayed return: “It is impossible for plaintiff to have suffered the alleged harm by the fact that First National returned the check late.” Trial Court Opinion, 10/31/94 at 4. By dismissing the action on that basis, the lower court evidences its misconception of a drawee bank’s potential liability under section 4302 of the Commercial Code.
+A payor bank must pay, return or dishonor a check before midnight on the day following presentment to or receipt by the bank:
+(a) General rule. — If an item is presented to and received by a payor bank the bank is accountable for the amount of:
+(1) a demand item, other than a documentary draft, whether properly payable or not, if the bank, in any case in which it is not also the depositary bank, retains the item beyond midnight of the banking day of receipt without settling for it or, whether or not it is also the depositary bank, does not pay or return the item or send notice of dishonor until after its midnight deadline; or
+(2) any other properly payable item unless, within the time allowed for acceptance or payment of that item, the bank either accepts or pays the item or returns it and accompanying documents.
+13 Pa.C.S.A. § 4302. Consequently, a payor bank that fails to return or pay a check before the midnight deadline may be held accountable by the payee of that check for its face amount, plus any actual damages incurred. Chew-Bittel, 430 Pa.Super. at 637, 635 A.2d at 655. See also Chrysler Credit Corp. v. First National Bank and Trust Co. of Washington, 746 F.2d 200, 201 (3rd Cir.1984) (applying Pennsylvania law and holding that payor bank’s failure to pay, return or dishon- or a check before midnight on the day following presentment rendered the bank accountable). This court recently set forth the rationale for imposing such liability on a payor bank:
+A holder of a check, not having heard from the bank within a reasonable time, must be permitted to assume that the check has been paid. Allowing a bank to retain a check for an indefinite period without incurring liability would hamper normal commercial practices, for a payee would never be certain that the funds represented by the check were available for use. As one court has observed, “failure [of a bank] to meet the midnight deadline authorizes the person presenting the check to assume that it has been honored and will be paid. Banking practices require the prompt settlement of such items because of the chain of credit dependent thereon.”
+Chew-Bittel, 430 Pa.Super. at 638, 635 A.2d at 656 (citations omitted).
+Here, as stated, appellant avers that the bank returned the check beyond the midnight deadline. Assuming, as our standard of review demands, this is an accurate statement of the facts, we conclude that appellant has stated a viable cause of action against the drawee bank. As such, the trial court erred in sustaining preliminary objections in the nature of a demurrer.
+Reversed and remanded for further proceedings. Jurisdiction is relinquished.
+TAMILIA, J., files a dissenting statement.
+. In this appeal, National Check does not challenge the order setting aside service of its complaint.
+. An order which sustains preliminary objections and dismisses a complaint is both final and immediately appealable. See Harcourt v. General Accident Insurance Co., 419 Pa.Super. 155, 158 n. 1, 615 A.2d 71, 73 n. 1 (1992); Bash v. Bell Telephone Co., 411 Pa.Super. 347, 601 A.2d 825 (1992). Compare Sullivan v. Philadelphia, 378 Pa. 648, 107 A.2d 854 (1954) and Deeter v. Dull Corp. Inc., 420 Pa.Super. 576, 580 n. 3, 617 A.2d 336, 338 n. 3 (1992), appeal denied, 535 Pa. 619, 629 A.2d 1380 (1992) (noting that an order sustaining preliminary objections without dismissal or contemporaneously granting the plaintiff leave to amend the complaint is interlocutory).
+
+## Dissent (TAMILIA, Judge,)
+
+TAMILIA, Judge,
+dissenting:
+I respectfully dissent. I believe the trial court properly disposed of the issues in the case. On its face, the complaint is incredulous and appellant seeks to gain from a mere technical application of banking law, which standing alone could not result in the damages claimed. In any event, I believe the appeal is interlocutory and should be quashed.
