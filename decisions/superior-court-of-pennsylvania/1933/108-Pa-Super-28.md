@@ -1,0 +1,45 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 308"
+decided: "1933-01-25"
+citations: ["108 Pa. Super. 28"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Gawthrop, Cunningham, Baldrige, Stadtfeld and Parker, JJ."]
+parties: ["Keiper v. United Zion Home, Appellant."]
+source_url: "https://static.case.law/pa-super/108/cases/0028-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 706436
+cites_cases: ["103 Atl. 953", "112 Atl. 632", "112 Atl. 85", "117 Atl. 67", "185 Pa. 41", "237 Pa. 115", "260 Pa. 488", "268 Pa. 507", "269 Pa. 428", "273 Pa. 359", "274 Pa. 272", "39 Atl. 818", "72 Pa. Superior Ct. 156", "79 Pa. Superior Ct. 189", "83 Pa. Superior Ct. 429", "85 Atl. 76"]
+---
+
+# Keiper v. United Zion Home
+
+## Majority (Keller, J.,)
+
+Opinion by
+Keller, J.,
+On October 1, 1925, the defendant, United Zion Home, gave B. F. Keiper, also known as Frank Keiper, the following paper:
+“Oct. 1, 1925.
+“Whereas Frank Keiper of the United Zion’s Home of Lititz, Pa., has this day paid the sum of two thousand dollars to the' United Zion Home of Lititz, Pa.
+“Now therefore ‘The United Zion Home’ agrees to pay to the said Frank Keiper the sum of fifty dollars every first day of April, and also every first day of October, during the natural lifetime of the said Frank Keiper.
+“And also in the event should the said Frank Keiper become in need any time for money for his maintenance, the United Zion Home agrees to pay him so much as they deem necessary from time to time for such maintenance, but no more than the original amount paid in, but what is paid shall be pro-rata deducted from the yearly payment.
+Attest: United Zion Home
+H. G. Light J. H. Bicksler, Pres. (SEAL)
+M. H. Risser, Treas. (SEAL)”
+When this paper was given, Keiper had been a guest or inmate of the Home for about twenty years, paying regularly and periodically for his board.
+■The $2,000 mentioned in the agreement was a balance then remaining of $2,500, which had been paid by him to the Home as follows, April 6, 1922, $1,000; April 11, 1923, $1,400; October 3, 1923, $100. On October 1, 1925 he asked for and received $500 of this money and was given the paper recited above. Keiper continued to live at the Home, paying his board, until some time shortly prior to April 1927, when he removed therefrom, and shortly thereafter asked the officers of the Home, specifically the Secretary and Manager, for the principal of the $2,000, but did not receive it. The semi-annual payments, however, were continued, as called for in the writing, the payment due April 1,1928 having been made on March 21, 1928 to Ephrata National Bank, which appears to have been appointed guardian of Keiper in weak-minded proceedings instituted for his protection, as “Trustee of B. F. Keiper”. This check, which was in the form of a voucher, contained on it the following writing: “March 21, 1928. To 6 mos. Interest on principal of $2,000, Due April 1, 1928, $50.
+Approved by the President: J. H. Bicksler, President.
+I hereby certify that the above account is correct:
+H. G-. Light, Secretary.
+Begistered and approved for Payment:
+M. H. Bisser, Treasurer. ’ ’
+On the back the voucher had the following note:
+“Charge to Amount
+Interest $50.00
+Total $50.00”
+Keiper died on May 1, 1931 and this action was brought by his executors to recover the $2,000 with interest from April 1, 1931. The court gave binding instructions for the plaintiffs and refused binding instructions for the defendant, which offered no evidence.
+The appellant contends that the paper evidencing the receipt of the money contains no reservation of property or title to it in B. F. Keiper. This would he important if the paper contained any words of gift or grant concerning the money in favor of the Home, or any claim of title to or property in it by the Home; but' it does not. It is not contended that Keiper owed the Home any money which was to be paid or satisfied out' of the $2,000 paid it by him. The money was his, not the Home’s. The paper contained no reference to any gift or donation to the Home by Keiper; the evidence falls far short of that required to- sustain a gift: Smith’s Est., 237 Pa. 115, 85 Atl. 76; McConville v. Ingham, 268 Pa. 507, 112 Atl. 85; Yeager’s Est., 273 Pa. 359, 362, 117 Atl. 67; Flanagan v. Nash, 185 Pa. 41, 39 Atl. 818. It cannot be construed, from its terms, as an annuity contract, under which Keiper parted with the title and property in the money paid by him, in consideration of the semi-annual payments made to him by the Home during his life; for it contains no words evidencing an intention on Keiper’s part to transfer the property in the fund to the Home; and the conduct of the parties negatived any such construction, for whence demanded $500 back out of the $2,500 which the Home had received from him, it was paid, a course wholly inconsistent with an annuity contract. Appellant’s counsel claims that the paper does not call for ‘interest’ payments, but the voucher check given by the defendant for a semi-annual payment shows that it was so regarded by all the officers of the Home.
+The evidence in the case shows nothing beyond the receipt by the Home from Keiper, who was an inmate or guest, paying full board, of money belonging to him for which the Home was to pay him, semi-annually, a sum equivalent to 5% per annum; with the provision that as and when the principal sum was repaid to him from time to time, the semi-annual payments should be correspondingly reduced. In the absence of any words showing or tending to show or asserting, a gift of the principal from Keiper to the Home, it was not necessary to make any disposition in the paper of the principal after his death. It was Keiper’s money and would at his death belong to his estate.
+Counsel for appellant raises the technical objection that no evidence was introduced at the trial that B. F. Keiper was dead and that the plaintiffs were the executors of his will, to whom letters testamentary had been duly issued. The facts were averred in the plaintiff’s statement and were not sufficiently denied in the affidavit of defense either under the Practice Act of 1915 (P. L. 483) or its amendment of June 12, 1931, P. L. 557. The defendant could have verified the truth of the plaintiffs’ averment by inquiry at the office of the Register of Wills of Lancaster County. The fact may then be regarded as admitted under the Practice Act and the Rules of Court of Lancaster County. (Rule XXIV, see. 19). Appellant contends, however, under the authority of Buehler v. U. S. Fashion Piale Co., 269 Pa. 428, 112 Atl. 632, that the fact, although admitted, was not put in evidence in any of the three ways referred to therein. This would be so, if there were any disputed facts for the consideration of the jury, but where the court passes upon the questions involved as matter of law, and directs a verdict for one of the parties, a formal averment in the pleadings, which is admitted or insufficiently denied, and is before the court at the time and considered by it will be taken as an admitted fact in passing on the correctness of the court’s action in directing a verdict. There is no doubt of B. F. Keiper’s death. Counsel for appellant in a question to one of the plaintiffs referred to him as “the decedent”. The grant of letters testamentary to the plaintiffs by the Register of Wills was not seriously denied and is not now questioned. To reverse the judgment and put the parties to the expense of a new trial in order that a formal offer of proof might he made of a matter which was, in effect, admitted by the pleadings and which the court took into consideration in its. charge directing a verdict, would be carrying forms and technicalities to an extreme which we deem unwarranted. As no question of fact was involved, but solely one of law, the matter may be treated as in a trial by a court without a jury, or in equity, where matters admitted by the pleadings are considered as proved. The Buehler case was concerned with the trial of a case before a jury (p. 433), not with the disposition of a matter of law by a judge. As was well said by the Supreme Court in Jackson v. Myers, 260 Pa. 488, 491, 103 Atl. 953, “A trial is to determine material questions of fact; here there were none. It would be vain to empanel a jury in a case after it had been determined as matter of law that plaintiff could not recover. In our former opinion some reference is made to the matters of fact set out in the affidavit of defense, but the decision rests upon the construction of the contract. In view of that decision the court below was undoubtedly right in treating the case as one of law. The only question is as to practice......A judgment right in substance will not be reversed on a technical error at the instance of a party who could gain nothing thereby.” The assignments of error are overruled and the judgment is affirmed..
