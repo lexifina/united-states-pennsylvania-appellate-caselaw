@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 23"
+decided: "1902-12-13"
+citations: ["21 Pa. Super. 504"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlad y, W. W. Porter and W. D. Porter, JJ."]
+parties: ["Eastern Forge Company v. Baizley, Appellant."]
+source_url: "https://static.case.law/pa-super/21/cases/0504-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 844222
+cites_cases: ["173 Pa. 444", "198 Pa. 416"]
+---
+
+# Eastern Forge Co. v. Baizley
+
+## Majority (Orlady, J.,)
+
+Opinion by
+Orlady, J.,
+On May 18,1901, the defendants gave to the plaintiff’s agent an order for about 80,000 pounds of refined iron that was to be hammered into sizes according to detailed markings; which order concluded as follows : “ Please deliver as soon as possible about 40,000 pounds, including items two and three, and follow with remainder in about two weeks.” On May 18, the order was received and entered^ by the plaintiff company. Pursuant to the correspondence, about 40,000 pounds of forged iron, billets and bars, were delivered, and this action is brought to recover therefor.
+The defense to the action is that all of .the material ordered was required by the defendants for the making of knees for a ship, then in process of construction, which they were under a contract to deliver within a specified time. The plaintiffs had been repeatedly urged to make prompt delivery of the remainder of the iron, all of which they had repeatedly promised to do, but they had entirely failed therein, and after waiting until August 1, without receiving further deliveries, the defendants were obliged to go into the open market and purchase other unforged iron, which, on account of the special quality, could be secured only at a higher price, thus making an extra expense. The items of expense and damage to the defendants, as alleged in the affidavit of defense, aggregated the sum of $1,261, which they claim as a set-off to the whole of the plaintiffs’ demand, and aver that upon trial they will ask for a certificate for the difference between that amount and the amount claimed by the plaintiffs, to wit: $574.97. There being no objection to the quality or price of the merchandise furnished, the only point at issue is whether the defendants may offset their claim for damages by reason of the plaintiffs’ failure to deliver the whole amount of merchandise. The defendants admit that the iron for which the suit is brought was received and used, and admit also their liability to account therefor, but urge that by reason of the failure of the plaintiffs to perform their contract, payment can be made through their claim for a set-off. It is manifestly apparent from the plaintiffs’ claim that time and quantity were important to the defendants, who had purchased this iron for a particular purpose, and there is a sufficient allegation by the defendants as to the damages resulting from the plaintiffs’ breach of their contract. After having been repeatedly urged by the defendants to deliver the remainder of the iron the default was of the plaintiffs’ own making, and resulted in the defendants being obliged to go into the open market to supply that which under the contract the plaintiffs were bound to deliver. The proportionate extent of the failure to deliver was not sufficiently small in this case to urge that the contract was substantially performed. The doctrine as to substantial performance is an equitable one, and can never be invoked by one who wilfully departs from the terms of his contract, and when suit is brought' to recover for the partial performance of a contract, and a breach is complained of which is capable of being compensated in damages, recovery may be had of a contract price, subject to the right of the defendants to set off the damages resulting from the breach. It is for the jury to find whether the contract has been substantially performed: 3 P. & L. Digest of Decisions, 4287. The cause of action which the defendants wish to set off arises from the same transaction as that on which the plaintiffs found their action, and the matter may be decided by a jury trying the case. The transaction, as disclosed by the affidavit, sets out a state of facts which, if proven on the trial, would, at least, entitle the defendants to have it submitted to the jury. While the defendants accepted and used the iron, they did so on the faith of the contract, which provided that large shipments of the same kind would soon follow, to be used in this particular business. If found to be as alleged that, after the repeated demands to hurry the shipments, the plaintiffs delay until August 1, put the defendants to the necessity of purchasing at the market price, the affidavit suggests a good ground of defense to the plaintiffs’ claim as a set off, it being a plain and clear statement of a cause of action, and the loss, if proven to be as alleged, would be a set-off against the plaintiffs’ claim in one action.
+We think the defendants were entitled to have the jury pass upon the question.
+The judgment is reversed and a procedendo awarded.
