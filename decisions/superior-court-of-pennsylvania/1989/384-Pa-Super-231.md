@@ -1,0 +1,46 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "521"
+decided: "1989-05-04"
+citations: ["384 Pa. Super. 231", "558 A.2d 97"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WIEAND, POPOVICH and HESTER, JJ.", "WIEAND, J., files a concurring and dissenting statement."]
+parties: ["COMMONWEALTH of Pennsylvania, Appellee, v. Christopher L. WEAVER, Appellant."]
+source_url: "https://static.case.law/pa-super/384/cases/0231-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 466342
+cites_cases: ["316 Pa.Super. 397", "333 Pa.Super. 617", "345 Pa.Super. 341", "382 Pa.Super. 559", "514 Pa. 411", "539 A.2d 7"]
+---
+
+# Commonwealth v. Weaver
+
+## Majority (POPOVICH, Judge:)
+
+POPOVICH, Judge:
+This is an appeal from the judgment of sentence entered by the York County Court of Common Pleas following the appellant’s conviction on the charge of Driving Under the Influence of Alcohol. 75 Pa.C.S.A. § 3731(a)(4) (“amount of alcohol by weight in the blood of the person is 0.10% or greater.”). On appeal, the appellant, citing Com., Dept. of Transp. v. McFarren, 514 Pa. 411, 525 A.2d 1185 (1987), alleges that the lower court erred by not suppressing the results of his blood test which was performed after he had already submitted to a pre-arrest breath test. He also contends that the lower court erroneously instructed the jury concerning the validity of the blood alcohol test. Finding no merit in either contention, we affirm.
+Following a one car accident, the appellant, who was operating the vehicle, was interviewed by the investigating officer. Smelling alcohol on the appellant’s breath, the officer advised the appellant that he suspected the appellant might be under the influence of alcohol and asked the appellant to undergo a field sobriety test. The test included a heel-to-toe walk test and a touch-your-nose test. The appellant did not perform the test satisfactorily, and the officer asked the appellant to take a pre-arrest breath test. The appellant agreed. The on-the-scene test resulted in a .19% blood alcohol content. The officer thereafter arrested the appellant for driving under the influence of alcohol. The appellant was placed under arrest and taken to Hanover General Hospital where he consented to a blood alcohol test. The blood test resulted in a .18% blood alcohol content. This blood test result was admitted into evidence at the appellant’s trial while no mention of the pre-arrest breath test was made.
+The appellant relies on McFarren, supra, in an attempt to have the result of his blood test suppressed. In McFarren, supra, our Supreme Court stated:
+In order to justify a second intrusion [i.e. blood alcohol test], the police offer must establish circumstances which support the reasonableness of a second search. To hold otherwise would subject an individual to “unreasonable searches and seizures” in violation of Art. 1, § 8 of our Constitution____ However, requiring a blood test after completing a breathalyzer solely to enhance the evidence and guarantee a conviction is not “reasonable” under Art. 1, § 8 of our Constitution.
+McFarren, 525 A.2d at 1188.
+However, we find that McFarren, supra, is inapposite presently. The appellant was not subjected to two separate blood alcohol tests pursuant to 75 Pa.C.S.A. § 1547(a). Rather, the appellant first submitted to a pre-arrest breath test as expressly authorized in 75 Pa.C.S.A. § 1547(k) which states:
+A police officer, having reasonable suspicion to believe a person is driving or in actual physical control of the movement of a motor vehicle while under the influence of alcohol, may require that person prior to arrest to submit to a preliminary breath test on a devise approved by the Department of Health for this purpose. The sole purpose of this preliminary breath test is to assist the officer in determining whether of not the person should be placed under arrest. The preliminary breath test shall be in addition to any other requirements of this title. No person has any right to expect or demand a preliminary breath test. Refusal to submit to the test shall not be considered for purposes of subsections (b) and (e).
+As the Commonwealth Court stated in Wall v. Commonwealth, 114 Pa.Cmwlth. 397, 400-401, 539 A.2d 7, 9 (1988), “[W]e conclude that a preliminary breath test in the field, performed on an instrument which detects the presence of alcohol, is not one of the chemical tests of breath, blood or urine deemed to be consented to by section 1547(a).” The pre-arrest breath test is simply another form of field sobriety test used by police officers when deciding whether a driving while intoxicated arrest should be made. Since the appellant was not subjected to two chemical tests of his blood as defined in 75 Pa.C.S.A. § 1547(a), we find that McFarren, supra, does not apply and the lower court correctly allowed the results of the appellant’s blood test to be admitted into evidence. Moreover, we further question the dubious applicability of McFarren, supra for two reasons. One, McFarren, supra, addresses the law only as it applies in the civil context of license suspension. And two, McFarren, supra, does not address the situation where the driver consents to more than one test.
+Turning now to the appellant’s second allegation of trial court error, we focus our attention upon the trial court’s instruction to the jury. The appellant alleges the court erroneously directed the jury that they must accept the blood test results and, by so instructing, usurped the jury’s fact finding function. That portion of the instruction alleged to be erroneous reads:
+Now, there is no question that the Commonwealth should bring in each and every person who ever touched the test. If that test is otherwise valid in your opinion by virtue of the proceedings which have been followed, then it is a valid conclusion. (T.T., p. 63).
+Immediately following the jury instruction, defense counsel approached the bench and specifically objected to this portion of the jury charge. (T.T., p. 66-67) Thereafter, the court supplemented its instruction as follows:
+Now, I think we’ve covered the field as to the alternatives here, and I’ve indicated that you should return your verdicts, and this is at the request of both Counsel, as to both charges. They may be the same or they may be different. You have the authority to make your decision as to the way in which those verdicts are returned, just as you have the authority to accept or reject any testimony or any evidence that has been given to you.
+As is indicated, you are the finders of facts in these cases, and therefore, the question of the blood alcohol returned, the question of the amount thereof, the question of driving under the influence to the extent that the party’s under the influence and therefore an unsafe driver, all these matters are questions for you to give attention to.
+So, with that, we then will ask you to retire and determine the results of your decisions in these cases. Thank you. (T.T., p. 68)
+Following this supplemental instruction, defense counsel took no exception to the instruction and, therefore, has waived his objection to the charge. Pa.R.Crim.P. Rule 1119(b); Commonwealth v. Ignatavich, 333 Pa.Super. 617, 623-624, 482 A.2d 1044, 1047 (1984). By not objecting after the court’s supplemental instruction, the appellant, in effect, indicated he was satisfied that the supplemental instruction cured any defect in the main body of the instruction. Moreover, the appellant’s contention is patently without merit. When reviewing an allegation of erroneous instruction, we read the jury charge as a whole. It is the general effect of the charge that controls. Ignatavich, 482 A.2d at 1047; Commonwealth v. Stanton, 316 Pa.Super. 397, 400-401, 463 A.2d 19, 21 (1983). Our review of the instruction as a whole reveals that the instruction accurately reflected the law and properly guided the jury in its deliberation, and, thus, a new trial is not warranted. Commonwealth v. Person, 345 Pa.Super. 341, 344-346, 498 A.2d 432, 434 (1985).
+Having found that both of the appellant’s allegations of error are without merit, we affirm his judgment of sentence.
+Judgment of sentence affirmed.
+WIEAND, J., files a concurring and dissenting statement.
+. In Commonwealth v. Bull, 382 Pa.Super. 559, 555 A.2d 1341 (1989), this Court, addressing an issue identical to that presented herein, reached the same result as we do presently.
+
+## Concurring in part and dissenting in part (WIEAND, Judge,)
+
+WIEAND, Judge,
+concurring and dissenting:
+I concur in the result. Although I disagree with the majority’s holding that an erroneous jury instruction which has been called to the trial court’s attention is waived by a subsequent failure to object to an inadequate or imperfect attempt by the court to correct the error, I perceive in this case no erroneous instruction which requires the granting of a new trial. Moreover, I agree fully with the majority’s determination that appellant’s blood test was properly received in evidence. Therefore, I agree that the judgment of sentence must be affirmed.
