@@ -1,0 +1,68 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1066 C.D. 1986"
+decided: "1987-05-04"
+citations: ["105 Pa. Commw. 580", "525 A.2d 33"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Crumlish, Jr., Judge Palladino, and Senior Judge Narick, sitting as a panel of three."]
+parties: ["May Department Stores d/b/a Kaufmann's, Petitioner v. Workmen's Compensation Appeal Board (Smith), Respondents."]
+source_url: "https://static.case.law/pa-commw/105/cases/0580-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1358352
+cites_cases: ["31 Pa. Commonwealth Ct. 341", "376 A.2d 277", "39 Pa. Commonwealth Ct. 189", "394 A.2d 1324", "405 A.2d 594", "415 A.2d 1021", "420 A.2d 795", "45 Pa. Commonwealth Ct. 250", "483 A.2d 1066", "508 Pa. 360", "512 Pa. 377", "517 A.2d 523", "52 Pa. Commonwealth Ct. 487", "54 Pa. Commonwealth Ct. 230", "86 Pa. Commonwealth Ct. 95"]
+---
+
+# May Department Stores v. Workmen's Compensation Appeal Board
+
+## Majority (Senior Judge Narick,)
+
+Opinion by
+Senior Judge Narick,
+The May Department Stores, d/b/a Kaufmann’s (Petitioner), has appealed from an order of the Workmen’s Compensation Appeal Board (Board), which affirmed the referees award of fetal claim benefits to Respondent, Eleanor K. Smith, the widow of former Kaufmann’s employee, John T. Smith, pursuant to Section 108(n) of The Pennsylvania Workmen’s Compensation Act (Act), Act of June 2, 1915, P.L. 736, as amended, added by Section 1 of the Act of October 17, 1972, P.L. 930, 77 PS. §27.1(n). For the reasons which follow, we reverse.
+The pertinent facts as found by the referee may be briefly summarized as follows. Respondent’s decedent, John T. Smith, was employed by Petitioner as a stationary engineer. On July 9, 1982, he reported and was admitted to Suburban General Hospital, complaining of a cough and fever. In his deposition, Smith’s internist, Dr. Houssani, testified that he initiated treatment for acute respiratory distress, pneumonia in the right upper lobe, Legionnaire’s Disease, and cardiomyopathy. Dr. Houssani also stated that Smith’s work was the cause of the Legionnaire’s Disease, and that that disease was a substantial contributing factor to his death on August 31, 1982, three days after he was released from the hospital.
+In its appeal, Petitioner has raised three closely-related issues: 1) whether there was substantial evidence to support the referees finding that Respondents decedent contracted Legionnaires Disease at work, 2) whether there was substantial evidence to support the referees finding that Legionnaires Disease is an occupational disease within the meaning of the Act, and 3) whether Respondent proved by unequivocal medical testimony that decedent suffered from an occupational disease which was a substantial contributing factor among the secondary causes which brought about his death. Because, as explained below, we answer the first two questions in the negative, we need not reach the third.
+It is well-settled that where, as here, the party with the burden of proof prevailed below, our scope of review is limited to a determination of whether constitutional rights were violated, an error of law was committed, or necessary findings of fact were supported by substantial evidence. Section 704 of the Administrative Agency Law, 2 Pa. C. S. §704; Estate of McGovern v. State Employees’ Retirement Board, 512 Pa. 377, 517 A.2d 523 (1986).
+In making his findings, the referee considered the depositions of three doctors: Dr. Houssani on behalf of Respondent, and Drs. Gaudio and Pasculle on behalf of Petitioner. He relied on the testimony of Dr. Houssani, whose deposition he found to be “credible”, in reaching the conclusion that decedents Legionnaires Disease was caused by his employment, and that the incidence of the disease was substantially greater in decedents occupation than in the general population.
+It has long been recognized in workmens compensation cases that “where there is no obvious causal copnection linking an injury to the workplace, the connection must be established by unequivocal medical testimony.” Lewis v. Commonwealth, 508 Pa. 360, 498 A.2d 800 (1985). “Medical evidence which is less than positive or which is based upon possibilities may not constitute legally competent evidence for the purpose of establishing the causal relationship.” Id. at 366, 498 A.2d at 802. Further, the question of whether medical testimony is equivocal or not is a question of law, and is to be determined by reviewing the entire testimony of the medical witness. Id. Such testimony is to be “taken as a whole and a final decision ‘should not rest upon a few words taken out of the context of the entire testimony.’ Wilkes-Barre, City v. Workmen’s Compensation Appeal Board, 54 Pa. Commonwealth Ct. 230, 234, 420 A.2d 795, 798 (1980).” Id. at 366, 498 A.2d at 803.
+A review of Dr. Houssani’s testimony reveals that he had been the decedent’s physician since 1979, treating him on several occasions. Decedent had a heart condition and, to the best of the doctor’s recollection, had been hospitalized twice for it within the past year. On direct examination, Dr. Houssani testified that when he first saw decedent in the hospital on July 10, 1982, decedent complained of chest pains, and said he developed a cough and fever while working. The doctor described decedent’s work as follows: “[H]e works in this department store I think and he works as an engineer, and he has to take care of the air-conditioning material and works in an atmosphere where he is cleaning the ducts; that kind of work.” On cross-examination, the doctor reiterated his testimony that decedent told him his cough was due to his work, but later recanted that statement after he was presented with the “Attending Physician’s Statement” that he had filled out in connection with decedent’s claim for weekly indemnity benefits. He had checked “no” on the form in response to the question “did the sickness or injury arise out of patients employment?” He explained that the exact nature of the illness had not been determined as of July 19, 1982, the date on the form, because Legionnaires Disease had not yet been confirmed.
+Dr. Houssani did testify that decedents disease was work-related. However, he did not volunteer to give details as to the basis for his opinion, and did not elaborate upon his cursory answers, as revealed by the following excerpts from his deposition:
+(on direct examination):
+Q Taking into account the history he gave you upon his admission, together with your treatment of him over the years, with a reasonable degree of medical certainty, what do you feel the cause of the Legionnaires Disease was?
+A. Knowing how Legionnaires Disease affects people, I would say the place at work and his profession was the cause of Legionnaires Disease.
+Q How so?
+A Pardon?
+Q What part of his exposure to what, Doctor?
+A Sorry, you will have to explain that.
+Q What part of his work or what description of his work led you to that conclusion?
+A Working with the ducts and the air-conditioning plant; that kind of work, yes.
+(on re-direct):
+Q The incidence of Legionnaire Disease is substantially greater in Mr. Smiths occupation as a stationary engineer than in the general population as a whole? . . .
+(objection by petitioners counsel as to qualifications)
+Q Your answer is yes?
+A Yes.
+(on re-cross):
+Q Why do you conclude, Doctor Houssani, that Mr. Smiths occupation made him more susceptible to the Legionnaire Disease than others in the general population?
+A Because that is the way things are.
+Q The way things are, in what sense?
+A People who work in that kind of a set up do seem to have more incidents of Legionnaire Disease than the normal population.
+Q What kind of set up?
+A People that work in damp places, refrigeration, people that work for ducts, people that work for stationary engineers; they seem to have more incidences.
+Q You mean contact with air-conditioning units or dampness can what, transfer Legionnaire Disease?
+A That is the assumption, yes.
+Q Do you know how much Mr. Smith was exposed to those kinds of items, outside of his job, air-conditioning and dampness?
+A No.
+Q Have you ever talked to him about that?
+A No.
+Q Did he ever tell you about that?
+A No.
+It is apparent from this testimony that Dr. Houssani was equivocal at best when pressed to elaborate upon his assertions. He twice repeated that people who work in damp environments “seem to” be more susceptible than the normal population to Legionnaires Disease, and stated that it was “assumfed]” that contact with air-conditioning units or dampness could transfer the disease. He admitted, however, that he had no information concerning decedents contact with these sources outside his workplace.
+We are unable to conclude, as a matter of law, that the above-quoted testimony is unequivocal. It is the only testimony of record that could support the proposition that decedent contracted Legionnaires Disease at work. Therefore, the referees conclusion was not supported by substantial evidence, and it was error for the Board to affirm that decision.
+The second issue mentioned above, whether there was substantial evidence to support the finding that decedents disease was an occupational one, is governed by statute. The pertinent section, 77 P:S. §27.1(n) sets forth three requirements in order to have a disease which is not specifically named as an occupational disease classified as such: “All other diseases (1) to which the claimant is exposed by reason of his employment, and (2) which are causally related to the industry or occupation, and (3) the incidence of which is substantially greater in that industry or occupation than in the general population. . . .” (Emphasis added.) The purpose of this subsection “is to bring into the fold of coverage each new occupational disease as medical science verifies it and establishes it as such, without the need for special legislative recognition. . . .” Fruehauf Corp. v. Workmen's Compensation Appeal Board (Cornell), 31 Pa. Commonwealth Ct. 341, 376 A.2d 277 (1977).
+The cases under the statute generally cover two different situations. The first concerns cases of diseases which are uncommon in the general population absent an exposure to a harmful agent identified at claimants place of employment. See, e.g., Spartan Abrasive Co., Inc. v. Workmen's Compensation Appeal Board (Phillips), 45 Pa. Commonwealth Ct. 250, 405 A.2d 594 (1979) (Shavers Disease resulting from claimants exposure to aluminum oxide dust); Berry v. Workmen's Compensation Appeal Board (General Tire & Rubber Co.), 86 Pa. Commonwealth Ct. 95, 483 A.2d 1066 (1984) (granulomatous liver disease arising from exposure to chemicals in rubber industry): This situation is not applicable to the instant matter, as Legionnaires Disease is, as admitted by Respondents physician, present in the general population.
+The second situation involves cases where, although a disease itself is not uncommon, its cause in the párticular claimant can be isolated to work-related conditions or substances. See, e.g., Polansky Bakery v. Workmen's Compensation Appeal Board (Wisniewski), 39 Pa. Commonwealth Ct. 189, 394 A.2d 1324 (1978) (pulmonary insufficiency caused by claimants long-term exposure to flour dust). In a case similar to the one at bar, Cook v. Workmen's Compensation Appeal Board (United States Steel Corp.), 52 Pa. Commonwealth Ct. 487, 415 A.2d 1021 (1980), claimant contracted contact dermatitis due to exposure to nickel. Because this Court found that the disease was not an uncommon one, and that the only evidence linking the disease to the workplace was claimants physicians statement that the incidence of the disease is greater in those exposed to nickel, claimant was denied benefits. An analogous situation is now before us.
+The only evidence from which the referee could infer that Legionnaires Disease was “peculiar to the [decedents] occupation,” Cook at 490, 415 A.2d at 1022, were Dr. Houssanis above-quoted statements that “there seem to be more incidences” in decedents occupation, and that it was “the assumption” that Legionnaires could be transferred through contact with damp places, etc. The admission that he was unaware of whether decedent ever came in contact with such places outside of the job, coupled with the feet that Dr. Houssani utterly failed to expound upon his theories, leads us to the inevitable conclusion that he was unable to establish, with any degree of certainty, the necessary causal link between the disease and the workplace. His conclusory affirmations in response to carefully worded questions by Respondents counsel cannot operate to save his later equivocal answers, when he was asked to supply support for his position. Thus, because Dr. Houssanis testimony was the only evidence of a possible connection between decedents work and his disease, and because that testimony failed to sufficiently link the two, the first two requirements of Section 108(n) were not met.
+The three requirements under Section 108(n) are cumulative. The referees determination that Respondent met her burden of proving all three elements was not, as discussed above, based on substantial evidence of record. The Board erred in affirming that decision; therefore, it must be reversed.
+Order
+And Now, this 4th day of May, 1987, the order of the Workmens Compensation Appeal Board, No. A-89582, dated March 18, 1986, affirming the referees award of fatal claim benefits in the above-captioned matter is reversed.
