@@ -1,0 +1,43 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "01782 and 01783, Philadelphia 1983"
+decided: "1985-01-25"
+citations: ["338 Pa. Super. 504", "488 A.2d 5"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CIRILLO, OLSZEWSKI and MONTGOMERY, JJ."]
+parties: ["James J. MATTHEWS, Jr. and Isabelle R. Matthews, Administrators of the Estate of James Thomas Matthews, Deceased v. John KONIECZNY and J-B Beverage Distributors, Inc. and Paul and Gloria Berkowitz Appeal of: John KONIECZNY."]
+source_url: "https://static.case.law/pa-super/338/cases/0504-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 625187
+cites_cases: ["269 Pa.Super. 364", "290 Pa.Super. 168", "296 Pa.Super. 492", "318 Pa.Super. 225", "338 Pa.Super. 328"]
+---
+
+# Matthews v. Konieczny
+
+## Majority (CIRILLO, Judge:)
+
+CIRILLO, Judge:
+Appellant, John Konieczny, appeals from the trial court’s order granting appellees’, J-B Beverage Distributors, Inc. and Paul and Gloria Berkowitz, motions for summary judgment. We affirm.
+On December 8, 1979, Matthew Capriotti, a minor, purchased a case of beer from J-B Beverage Distributors, Inc. (J-B), of which Paul and Gloria Berkowitz were owners and employees. At Capriotti’s deposition, he testified that he alone purchased the beer, and that he had taken no medication, narcotics, or intoxicants prior to the purchase. James Matthews, another minor, waited in the car outside J-B while Capriotti obtained the beer.
+Following the purchase, Matthews and Capriotti picked up appellant and proceeded to drive around while all consumed the beer. At appellant’s deposition, he testified that he drank approximately five or six beers before he began to drive the automobile. Five or ten minutes after he started driving, the automobile struck a tree. Matthews was fatally injured as a result of the collision.
+The administrators of the estate of James Matthews initiated an action against appellant, J-B and the Berkow-itzes. It was alleged, inter alia, that: (1) appellant’s negligence in driving the automobile was the cause of the injuries resulting in Matthews’s death; and (2) J-B and the Berkowitzes negligently failed to determine the age of the purchaser of the beer, violated a statute of the Commonwealth of Pennsylvania, and failed to exercise due care under the circumstances.
+In his answer and new matter, Konieczny filed cross-claims against J-B and the Berkowitzes. No additional facts were alleged; however, those portions of plaintiff’s complaint which pertained to J-B and the Berkowitzes were incorporated by reference into the cross-claims. Thereafter, J-B and the Berkowitzes moved for summary judgment against the plaintiff and against appellant on his cross-claims. All motions were granted by the trial court. Appellant appeals the granting of summary judgment in favor of J-B and the Berkowitzes.
+At issue in this appeal is the application of Section 4-497 of the Liquor Code, 47 P.S. § 4-497, which provides:
+No licensee shall be liable to third persons on account of damages inflicted upon them off of the licensed premises by customers of the licensee unless the customer who inflicts the damages was sold, furnished or given liquor or malt or brewed beverages by the said licensee or his agent, servant or employe when the said customer was visibly intoxicated. (Emphasis added)
+We were first confronted with the effect of Section 4-497 in Simon v. Shirley, 269 Pa.Super. 364, 409 A.2d 1365 (1979). In Simon, a minor, who was not visibly intoxicated, was served alcoholic beverages in violation of 47 P.S. § 4-493(l). Shortly thereafter, the minor was involved in an automobile accident, which fatally injured the driver of another car. This Court, speaking through then President Judge Cercone, held that, “Section 4-497 makes apparent the General Assembly has chosen to condition a licensee’s civil liability to third persons who are injured off the premises by a customer of the licensee upon a showing that the customer was visibly intoxicated when served.” Id., 269 Pa.Superior Ct. at 367, 409 A.2d at 1366 (footnote omitted). We affirmed the trial court’s decision to grant summary judgment in favor of the tavern owner, and rejected appellant’s argument that Section 4-493(1) rendered a licensee liable to injured third persons for serving a minor.
+More recently we have addressed the applicability of Section 4-497 to facts virtually identical to those of the case at bar. In Mancuso v. Friel’s Beverage, Inc., 338 Pa.Super. 328, 487 A.2d 990 (1985), a minor purchased beer from the defendant, Friel’s Beverage. Subsequently, two six packs of the beer were consumed by another minor who was then involved in an automobile accident. We held that under the facts presented, and “without a showing that the purchaser was visibly intoxicated at the time of the sale, no liability can be attributed to the licensee.” At 338 Pa.Superior Ct. 328, 487 A.2d 990. Cf. Speicher v. Reda, 290 Pa.Super. 168, 173, 434 A.2d 183, 186 (1981) (discussing Section 4-497’s “required showing of visible intoxication in order to find a licensee liable for serving a person who injures a third person.”).
+Pa.R.Civ.P. 1035 provides that a motion for summary judgment shall be granted:
+... if pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law.
+See Day v. Volkswagenwerk Aktiengesellschaft, 318 Pa.Super. 225, 464 A.2d 1313 (1983); Vend-A-Matic, Inc. v. Frankford Trust Co., 296 Pa.Super. 492, 442 A.2d 1158 (1982). We find that the trial court properly granted summary judgment pursuant to Rule 1035.
+At the time summary judgment was granted, the pleadings and depositions on file clearly showed that Matthew Capriotti was the only individual to purchase beer from J-B. Moreover, Capriotti testified that prior to buying the beer, he had taken no medication, narcotics, or intoxicants. The uncontradicted conclusion to be drawn from the above is that Capriotti was not visibly intoxicated at the time he purchased the beer from J-B. Therefore, as we made clear in Simon and Mancuso, without a showing of visible intoxication, the requirement of Section 4-497 has not been satisfied.
+Appellant attempts to escape the effect of Section 4-497 by claiming he was a “co-purchaser” of the beer because he shared the cost with Capriotti and Matthews. According to this argument, there would be no injury to a third person as defined in Section 4-497, since all were co-purchasers. Further, appellant asserts that he may have had a beer earlier in the afternoon of the accident, and that this presents a question for the jury as to the issue of whether, as a co-purchaser, he was visibly intoxicated at the time the beer was bought from J-B.
+Both of appellant’s arguments seem to ignore the fact that Capriotti was the only minor to enter J-B’s place of business. The statute only speaks of customers who were sold alcoholic beverages and who were visibly intoxicated. As the trial court stated in its opinion, “In light of the fact that the employees who sold Capriotti the beer never saw Konieczny, the absurdity of this argument is evident.” Slip op. at 5. To find otherwise would disregard the clear intent of the statute.
+Appellant has also appealed the granting of summary judgment in favor of the Berkowitzes. He argues that they may not claim the statutory immunity granted by Section 4-497 because the Berkowitzes are not licensees as required by the statute. However, the General Assembly has chosen to condition a licensee’s civil liability. See Simon, supra. To grant immunity to the licensee, while holding the owner or employee liable, would clearly subvert the intent the General Assembly expressed in enacting Section 4-497.
+For the foregoing reasons, we affirm the order of the trial court granting appellees’ motions for summary judgment.
+Order affirmed.
+. See infra note 2.
+. § 4-493. Unlawful acts relative to liquor, malt and brewed beverages and licensees
+It shall be unlawful—
+(1) For any licensee of the board, or any employe, servant or agent of such licensee or of the board, or any other person, to sell, furnish or give any liquor or malt or brewed beverages, or to permit any liquor or malt or brewed beverages to be sold, furnished or given, to any person visibly intoxicated, or to any insane person, or to any minor, or to habitual drunkards, or persons of known intemperate habits.
