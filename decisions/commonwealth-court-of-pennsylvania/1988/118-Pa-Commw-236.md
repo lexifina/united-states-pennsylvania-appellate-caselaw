@@ -1,0 +1,42 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 3612 C.D. 1986"
+decided: "1988-07-28"
+citations: ["118 Pa. Commw. 236", "549 A.2d 609"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Craig and Palladino, and Senior Judge Barbieri, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania, Department of Transportation, Bureau of Traffic Safety, Appellant v. Robert W. Loughin, Appellee."]
+source_url: "https://static.case.law/pa-commw/118/cases/0236-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1375498
+cites_cases: ["114 Pa. Commonwealth Ct. 326", "284 A.2d 524", "3 Pa. Commonwealth Ct. 580", "406 A.2d 248", "410 A.2d 95", "430 A.2d 387", "453 A.2d 730", "46 Pa. Commonwealth Ct. 64", "48 Pa. Commonwealth Ct. 429", "59 Pa. Commonwealth Ct. 519", "70 Pa. Commonwealth Ct. 604"]
+---
+
+# Commonwealth v. Loughin
+
+## Majority (Judge Palladino,)
+
+Opinion by
+Judge Palladino,
+This is an appeal from an order of the Court of Common Pleas of Montgomery County (trial court) sustaining Robert W. Loughins (Appellee) appeal from an order of the Department of Transportation, Bureau of Driver Licensing (DOT) revoking his motor vehicle operators privileges for five years. We reverse and reinstate the five-year suspension.''
+On December 8, 1984, Appellee was charged with driving while his operating privileges were suspended. On May 14, 1986 Appellee was convicted of the charge. By a letter dated June 16, 1986, DOT advised Appellee that he was eligible on July 7, 1986, to apply for restoration of his privileges from the suspension under which he was when the December 8, 1984 charge was brought. During this suspension period, Appellee was employed as an. in-shop restaurant equipment repairman. His driving privileges were restored on July 12, 1986. Upon restoration of his driving privileges, Appellee was promoted to field serviceman. DOT, on August 5, 1986, revoked his operating privileges for a period of five years pursuant to section 1542 of the Vehicle Code, 75 Pa. C. S. §1542, because the May 14, 1986 conviction was his third within five years. Appellee appealed DOT’s action to the trial court and a hearing was held October 27, 1986.
+The trial court reversed DOT’s revocation and gave the following reasons: (1) the three-month delay between conviction and revocation of. privileges; and (2) prejudice caused by Appellees reliance on the intervening restoration letter and the subsequent restoration. On appeal to this, court, DOT argues, that the trial court , erred in finding substantial evidence of prejudice to Appellee.
+An action by DOT upon an operators privileges may be vacated when administrative delay between a conviction and revocation causes the'operator to change his circumstances to his detriment because of his reasonable belief that his privileges will not be impaired. Department of Transportation, Bureau of Driver Licensing v. Lyons, 70 Pa. Commonwealth Ct. 604, 453 A.2d 730 (1982). Assuming that the delay is chargeable, to DOT and is unreasonable, the burden is still on the Appellee to bring forth evidence of actual prejudice to himself from reliance on DOTs failure, to act. Horner v. Department of Transportation, 59 Pa. Commonwealth Ct. 519, 430 A.2d 387 (1981).
+DOT contends that any prejudice suffered by Appellee is insufficient to reverse the suspension it.imppsed. In response to Appellees claim of prejudice arising from a possible search for other employment had he known his driving privileges were about to be again’ revoked, DOT points out that there was ho testimony concerning the availability of other jobs. DOT contends that the period of prejudice, if any,-from Juñe 16, 1986 to August. 5, 1986 is de minimis. Therefore, DOT claims, the trial court erred in finding prejudice under these conditions.
+The trial court found that Appellee was prejudiced by remaining for . two months in a job that offered no advancement upon his expectation that he would be returned to his former job of field serviceman upon the restoration of his driving privileges. This finding is not supported by the record. At no time does Appellee present any evidence that alternative employment was available or that such employment would have been more financially advantageous than his current position. See Department of Transportation, Bureau of Traffic Safety v. Kirk, 48 Pa. Commonwealth Ct. 429, 410 A.2d 95 (1980). Further, the time Appellee spent on the in-shop job caused by Appellees reliance on DOTs letter is less than two months. Without showing that Appellee lost some opportunity during this period, the prejudice suffered is speculative in nature and cannot support a finding of actual prejudice.
+Having found that the trial court was in error in finding prejudice, we need not and will not address the question of delay between conviction and revocation.
+Accordingly, we reverse and reinstate DOTs suspension.
+Order
+And Now, July- 28, 1988, the order of the Court of Common Pleas of Montgomery County in the above captioned matter is reversed and suspension by the Department of Transportation, Bureau of Traffic Safety, is reinstated.
+Section 1543 of the Vehicle Code, as amended, 75 Pa. C. S. §1543.
+Section 1542 of the Vehicle Code, in pertinent part, provides:
+(a) The department shall revoke the operating privilege of any person found to be a habitual offender pursuant to the provisions of this section. A ‘habitual offender shall be any person whose driving record, as maintained in the department, shows that such person has accumulated the requisite number of convictions for the separate and distinct offenses described and enumerated in subsection (b). . . .
+(b) Offenses enumerated.—Three convictions arising from separate acts of any one or more of the following offenses committed either singularly or in combination by any person shall result in such person being designated a habitual offender:
+(1) Any offense set forth in section 1532 (relating to revocation or suspension of operating privileges). . . .
+Appellee does not contest his two prior convictions.
+Commonwealth v. Loughin (No. 86-13327, filed February 9, 1987).
+Our scope of review in a license suspension case is limited to a determination of whether findings of feet are supported by competent evidence, errors of law have bé.en committed or the common pleas court’s decision demonstrates a manifest abuse of discretion. Lewis v. Commonwealth, 114 Pa. Commonwealth Ct. 326, 538 A.2d 655 (1988).
+Appellee, relies upon Department of Transportation, Bureau of Traffic Safety v. Rutkowski, 46 Pa. Commonwealth Ct. 64, 406 A.2d 248 (1979), where a motorist remained in a job requiring a drivers license because a long administrative delay between a conviction and suspension caused him to believe his license would not be suspended. The trial court held that remaining in a job that required driving to get to work when he. could have obtained work within walking distance was sufficient prejudice. We ruled that, even though the motorist offered no evidence in addition to his testimony, we were unable to say that the trial court acted unreasonably or abused its discretion in finding prejudice. However, Rutkowski is distinguishable because there, the motorist testified himself that alternative job opportunities within walking distance were available. Here, there, was no testimony concerning alternative job opportunities.
+Similarly, in Department of Transportation v. Hosek, 3 Pa. Commonwealth Ct. 580, 284 A.2d 524 (1971), a motorists license was suspendéd for one year. As the year ended, DOT advised the motorist that his license could be restored if certain procedures were followed. He followed those procedures and obtained a new license and, as a result, left his employer to take a new job as a truck driver with a different company. During the suspension period, he was convicted of another offense but DOT took no action until four months following the reinstatement when it suspended the motorist’s license again. This court held that prejudice existed because the motorist took all steps necessary to have his license reinstated and because he changed jobs. Here, Appellee did not change employment but merely contends that he would have had he not been notified that his driving privileges were to be restored.
