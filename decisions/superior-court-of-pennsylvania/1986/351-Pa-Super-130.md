@@ -1,0 +1,39 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "01107"
+decided: "1986-02-10"
+citations: ["351 Pa. Super. 130", "505 A.2d 300"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CAVANAUGH, BROSKY and WATKINS, JJ."]
+parties: ["David E. BROWN and Millie L. Brown, Appellants, v. Patrick M. CAIN."]
+source_url: "https://static.case.law/pa-super/351/cases/0130-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 649757
+cites_cases: ["160 Pa.Super. 298", "295 F.Supp. 943", "312 U.S. 126", "408 U.S. 471", "424 U.S. 319", "50 A.2d 548"]
+---
+
+# Brown v. Cain
+
+## Majority (BROSKY, Judge:)
+
+BROSKY, Judge:
+This appeal is from an order of the Court of Common Pleas of Beaver County, awarding custody of two children to their natural father and visitation rights to the maternal grandparents. Appellants, maternal grandparents, contend that they were denied a fair hearing at the pre-trial custody conference, violating their due process rights. We hold that due process rights did not attach at that point and, accordingly, affirm.
+Appellants maintain that their due process rights were violated at the pre-trial conference with the Child Custody Conference Officer in that they were denied an opportunity to orally present their case. (Written forms had already been submitted to the Conference Officer.)
+The primary function of the Child Custody Conference Officer in Beaver County under Local Rule 1920.32 is to attempt to achieve an amicable resolution of child custody or visitation disputes — obviating the need to resort to a contested proceeding. .
+When a claim is filed with the Prothonotary, a copy is sent to the Child Custody Conference Officer, who arranges a pretrial conference at which the claim and response are reviewed. The officer, in addition to questioning the parties regarding the dispute, attempts to find a solution which will be acceptable to all parties involved. If an agreement does not result, the officer submits a report to the court in which he presents the positions of all parties together with his own recommendation.
+After reviewing this report, the trial court issues a proposed order. Critically, this proposed order is not effective immediately. The parties are given five days prior to the effective date of the proposed order to file exceptions. If such exceptions are timely filed, the proposed order never goes into effect and a court hearing on the matter is scheduled. Only following a full hearing on the dispute may the trial court issue a binding custody and visitation order. In the case sub judice, these procedures were followed.
+The first prerequisite for a violation of due process is that the proceeding was one in which due process was due. Instantly, that determination turns on the result of the pre-trial conference in child custody cases. If the result is adjudicative, due process rights would attach and their denial would constitute grounds to vacate the order of the trial court. If, on the other hand, the pre-trial proceeding does not result in a binding order, due process would not attach. Traditional due process analysis leads to this conclusion.
+Due process attaches only when a protected liberty or property interest may be affected. Morrissey v. Brewer, 408 U.S. 471, 481, 92 S.Ct. 2593, 2600, 33 L.Ed.2d 484 (1972). If the proceeding cannot result in an order, it cannot affect any interest — protected or otherwise.
+One method of dealing with the issue before us would be to characterize the conference as informational and conciliatory, rather than adversarial; and thus not subject to due process guarantees. This approach has been taken, in part at least, by one federal court. In King v. Georgia Power Co., 295 F.Supp. 943 (N.D.Ga.1968) the District Court rejected a claim that the failure to grant a hearing constituted a denial of due process on the grounds that the proceedings were “not adversarial in nature and are in no way binding.”
+As a conceptual tool, we find this first element — “not adversarial in nature” — awkward to the task. When can adversaries be truly said to shed their combatant roles? Whether the thrust of the proceeding is to encourage compromise and gather information is, we think, quite beside the point if that proceeding can result in a disposition of the dispute. We rely, therefore, on the second element in King: "... are in no way binding.” That is the divide which separates those proceedings which require due process and those which do not.
+This conclusion is supported by a decision of this Court. “The demands of due process do not require a hearing at the initial stage or at any particular point or at more than one point in an administrative proceeding so long as the requisite hearing is held before the final order becomes effective.” Womelsdorf Consolidated Water Co. v. Pennsylvania Public Utility Commission, 160 Pa.Super. 298, 304, 50 A.2d 548, 552 (1947) quoting Opp Cotton Mills v. Administrator of Wage and Hour Division, 312 U.S. 126, 152-153, 61 S.Ct. 524, 536, 85 L.Ed. 624, 640 (1941).
+In this case no final order was issued prior to a full hearing by the court. The filing of exceptions prevented any effective order being entered based on the proceedings which did not comport with due process. Consequently, we find that there was no violation of due process.
+Order affirmed.
+. Appellants also contend that the practice of assigning the same judge to preside over pre-trial procedures through the conclusion of a custody suit is prejudicial; and that they sustained their burden of proof that it would be in the childrens’ best interest to be placed in their custody. While we find all three issues to be without merit, one of them merits published treatment.
+. They further contend that the Conference Officer told them what he thought would constitute a sound agreement, and that he emphasized that his recommendations were almost invariably followed in any order subsequently issued by the court — a prediction which was fulfilled in the instant case. The inference is that the trial court merely "rubber stamps” the Conference Officer’s recommendation. If that were alleged and factually established, it would constitute another, independent, reason for due process to attach to the conference; but appellants do not develop this argument, so even the limited action of remanding for an evidentiary hearing on the matter is not indicated.
+. Our analysis of whether or not due process attaches to the Officer’s Conference is predicated upon this procedural point. The conference cannot result, even indirectly, in a currently effective order, if a party files exceptions. If, however, on the basis of the conference, and without a hearing, the procedures allowed the trial court to issue an order which was effective immediately, due process would attach. This would be so even if that order, once effective, was then subject to exceptions and consequently, a hearing.
+. The holding of this opinion does not apply to the issuance of a temporary order by the trial court. In areas like child custody it will frequently be necessary for some order to issue immediately, prior to a full hearing. Of course, such an order must be as temporary as possible and will usually merely maintain the status quo absent an emergency situation.
+. The same point is reached if one goes past the Morrissey test to Mathews v. Eldridge, 424 U.S. 319, 335, 96 S.Ct. 893, 903, 47 L.Ed.2d 18 (1976) which laid down a test to determine what degree of process was due after it was determined that a protected interest was affected. The first of Matthews’ three factors is a consideration of "the private interest which will be affected by the official action ...” If there is no "official action” no degree of due process will be required.
+. These are, indeed, its purposes.
