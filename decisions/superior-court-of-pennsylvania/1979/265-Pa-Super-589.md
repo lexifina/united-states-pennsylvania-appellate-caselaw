@@ -1,0 +1,42 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1852"
+decided: "1979-04-27"
+citations: ["265 Pa. Super. 589", "402 A.2d 702"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before JACOBS, President Judge, and HOFFMAN, CER-CONE, PRICE, VAN der VOORT, SPAETH and HESTER, JJ.", "HESTER, J., notes dissent.", "SPAETH, J., files a dissenting statement.", "JACOBS, former President Judge, and HOFFMAN, J., did not participate in the consideration of or decision of this case."]
+parties: ["COMMONWEALTH of Pennsylvania v. Earl MORRIS, Jr., Appellant."]
+source_url: "https://static.case.law/pa-super/265/cases/0589-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 122153
+cites_cases: ["235 A.2d 349", "248 Pa.Super. 8", "252 Pa.Super. 54", "301 A.2d 819", "378 U.S. 108", "427 Pa. 599", "450 Pa. 624", "460 Pa. 105", "477 Pa. 80"]
+---
+
+# Commonwealth v. Morris
+
+## Majority (VAN der VOORT, Judge:)
+
+VAN der VOORT, Judge:
+On April 26, 1976, police officers in Abington Township obtained a warrant to search a car usually driven by appellant Earl Morris, Jr., and also premises occupied by appellant and his parents. The police had previously received information that appellant had used a BB gun to break several windows in a school, and the purpose of the search was to find that BB gun. The search of the house disclosed pipe bombs and other prohibited offensive weapons. Appellant was arrested and was charged with possession of prohibited offensive weapons and with conspiracy. Appellant’s case was called for trial on October 15, 1976, at which time appellant’s counsel filed a motion to quash arrest and suppress evidence. The motion was denied by the lower court (according to the lower court’s opinion) because it was not filed at least ten days prior to trial, as required by Pa.Rule of Criminal Procedure 323(b). Appellant was tried before a judge sitting without a jury, was convicted of possessing prohibited offensive weapons, and was sentenced on May 16, 1977 to serve a term of one to five years imprisonment. The case is before us on direct appeal.
+Appellant argues that his trial counsel was ineffective in failing to file a timely motion to suppress evidence (the weapons), since the evidence was obtained during a search which was conducted pursuant to an invalid search warrant. Appellant argues that the warrant is invalid because the underlying affidavit does not set forth any information which would indicate that the item to be seized (the BB gun) belonged to appellant or was being kept by appellant in the trunk of the car or in the house. The affidavit for the search of the house states:
+“On March 28, 1976 Earl Eugene Morris, Jr. was arrested by mb for Indecent Exposure and for Corrupting the Morals of Robert Harvey, age ten years. On March 29, 1976, Robert Harvey was interviewed by Det. Panichello, Abington Police, and Robert Harvey told Det. Panichello that he had been with Earl Morris, Jr. when Earl Morris, Jr. had shot BBs through several windows of the McKinnley (sic) School with an aotomatic (sic) BB gun. Det. Panichello and I believe Robert Harvey because he also told Det. Panichello of several other incidents of a criminal nature that were committed by Earl Morris, Jr. in the presence of other juveniles. When interviewed, those juveniles confirmed the information supplied by Robert Harvey. I know that Earl Morris, Jr. lives at the address specified above, and I believe that he probably keeps the BB gun described by Robert Harvey and specified in this affidavit at that address. That BB gun is needed as evidence in the prosecution of Earl Morris, Jr. for the Crime of Criminal Mischief at the McKinley School that was reported on March 14, 1976.”
+The affidavit for the search of the car is virtually identical except that it specifies: “and I believe that he keeps that BB gun in that car.”
+When an affidavit supporting a search warrant is based upon hearsay information supplied by an informant, the issuing magistrate must be informed of some of the underlying circumstances relied on by the informant in concluding that the contraband or other evidence is in the place specified. Aguilar v. Texas, 378 U.S. 108, 114, 84 S.Ct. 1509, 12 L.Ed.2d 723 (1964). When the affidavit is not necessarily based on information supplied by an informant, the magistrate must be informed of some of the underlying circumstances relied on by the affiant in concluding that the evidence is in the place specified. Commonwealth v. Simmons, 450 Pa. 624, 629, 301 A.2d 819 (1973). There is absolutely nothing in the affidavits in the case before us which would indicate how an informant or the affiant knew that the BB gun would be found in the house or car specified. The affiant’s mere assertion that the item is being kept in a certain place is simply not sufficient to support the warrants. We find that the search warrants executed by the Abington police were invalid.
+Counsel’s assistance will be deemed constitutionally effective if we are able to conclude that the particular course chosen by counsel had some reasonable basis designed to effectuate the client’s interests. Commonwealth ex rel. Washington v. Maroney, 427 Pa. 599, 604, 235 A.2d 349 (1967). In the case before us, although the search warrants executed by the Abington police were invalid, there is some evidence to indicate that appellant’s father may have consented to the search that led to the discovery of the weapons in the home. If appellant’s father did in fact consent to the search of his own home, a timely motion to suppress on the ground of an invalid search warrant would not have been successful, and counsel’s failure to file a suppression motion would not have constituted ineffective assistance of counsel.
+“[W]hen it cannot be determined from the record whether counsel acted pursuant to ... a reasoned course, the proper remedy is to remand the record for an evidentiary hearing on the issue.” Commonwealth v. Morin, 477 Pa. 80, 84, 383 A.2d 832, 833 (1978). See Commonwealth v. Twiggs, 460 Pa. 105, 331 A.2d 440 (1975). Accordingly, we remand this case to the lower court for an evidentiary hearing for findings of fact and a determination of whether appellant’s trial counsel was ineffective for failing to file a timely suppression motion. In determining whether appellant’s counsel should have filed such a motion, the lower court must consider the following:
+1) Whether appellant’s father consented to the search of the house (including appellant’s room) and/or car, and whether the father owned the house and car and could legally have consented;
+2) Whether appellant consented to the search of the house and/or car;
+3) Whether appellant has standing to raise the issue of the search of the house, including appellant’s own room, and of the car. If the lower court determines that some or all of the evidence would have been suppressed had appellant’s counsel filed a timely suppression motion and that counsel was therefore ineffective for failing to file such a motion, then the lower court shall grant a new trial. Should the lower court determine that a suppression motion would have been ineffectual, then the court shall issue an order so stating. Either party may appeal from the order of the lower court.
+HESTER, J., notes dissent.
+SPAETH, J., files a dissenting statement.
+JACOBS, former President Judge, and HOFFMAN, J., did not participate in the consideration of or decision of this case.
+. Since appellant is represented on appeal by counsel other than counsel who represented him at the trial level, and since the grounds for the appeal appear of record, the issue of ineffective assistance of counsel is properly raised for the first time on direct appeal. Commonwealth v. Burch, 248 Pa.Super. 8, 13, 374 A.2d 1291 (1977).
+. Appellant’s only other argument on appeal is that our court should reverse its position that the Commonwealth need not, in order to obtain a conviction under 18 Pa.C.S. § 908, prove that the accused intended to employ the prohibited offensive weapon in a criminal manner. See Commonwealth v. Walton, 252 Pa.Super. 54, 380 A.2d 1278 (1977). We are not inclined to reverse our position on this issue.
+
+## Dissent (SPAETH, Judge,)
+
+SPAETH, Judge,
+dissenting:
+I should simply reverse, for it seems clear to me, without a remand, that counsel was ineffective.
