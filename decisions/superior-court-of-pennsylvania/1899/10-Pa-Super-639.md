@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+decided: "1899-07-28"
+citations: ["10 Pa. Super. 639"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, Smith, W. W. Porter, W. D. Porter and Beeber, JJ."]
+parties: ["George Snyder, Appellant, v. John B. Stehman, Caleb E. Urey and Robert M. Urey."]
+source_url: "https://static.case.law/pa-super/10/cases/0639-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 819453
+cites_cases: ["103 Pa. 517", "109 Pa. 515", "128 Pa. 254", "15 Pa. 507", "164 Pa. 224", "21 Pa. 359", "31 Pa. 426", "35 Pa. 432", "45 Pa. 376", "5 W. & S. 157", "51 Pa. 102", "55 Pa. 172", "61 Pa. 185", "85 Pa. 255"]
+---
+
+# Snyder v. Stehman
+
+## Majority (Oblady, J.,)
+
+Opinion by
+Oblady, J.,
+By virtue of a writ of fieri facias, which was issued against Samuel Urey, a lot of corn was levied upon as it stood in shock in the field where it was grown on the farm of Stehman and Garber, which had been occupied by Samuel Urey as tenant for more than thirty years. Two sons of Samuel Urey, the defendants in this action, lived in the same house with their father and claimed to own the corn as tenants of Stehman and Garber. A rule in interpleading proceedings, which were instituted by the sheriff, was served on them and they failed to appear and maintain their claim to the property, whereupon a venditioni exponas was issued and the sheriff sold an undivided one half interest in the corn, — which in the mean time had been husked and put in cribs — as the property of Samuel Urey to George Snyder. Caleb and Robert Urey, the sons, refused to permit Snyder to remove the one half of the corn, and this action of replevin was instituted to recover it.
+The sheriff, under the writ of replevin, delivered the one half of the corn to Snyder, which, until that time, had not been divided between the landlord and tenant. Whatever interest Samuel Urey had in the corn passed to Snyder, who bought and paid for it and succeeded to all of the rights of Samuel Urey. The delivery was as complete as it is possible to make of an undivided interest of personal property in order to enable the purchaser to obtain dominion over it. There is no controversy between the landlord and the tenant, as the former received the full share to which he was entitled. The amount of corn in the crib was well known and the share of the landlord was easily ascertained. It was at the proper place for division and the tenant was the proper person to separate the landlord’s share from his own, but he could not defeat the purchaser’s right to possession of it by refusing to make the division: Bruns v. Cooper, 31 Pa. 426. If Samuel Urey were the owner of the interest purchased by Snyder, his right to divide the corn passed by the sale to Snyder, so that his share could be clearly and precisely identified: Henderson v. Lauck, 21 Pa. 359. The sons claimed that under a family agreement between them and their father, which was made about three years before the sheriff’s sale, they purchased the personal property on the farm and became the tenants in his stead and upon the same terms as he had held the premises. One of the brothers informed the landlord of this arrangement and it was assented to, though the terms are not given. The plaintiff contended that the whole transaction was fraudulent, there being no consideration for it or any change of possession following it. The sons claimed title through the father and if it was founded upon a fraud in fact or a fraud in law the purchaser at the sheriff’s sale had a superior title to them and was entitled to the possession of the property: Harlin v. Harlin, 15 Pa. 507; Wilkinson v. Stewart, 85 Pa. 255; Long v. Seavers, 103 Pa. 517.
+This case is quite different from Reinheimer v. Hemingway, 35 Pa. 432, where the execution was levied upon a partner’s interest in a firm, and not upon any specific chattel. By his purchase he became a tenant only in common with the other partners so far as to entitle him to an account. The extent of his interest was to be measured by the result of that account. If in furtherance of the alleged fraudulent sale the sons commingled corn of their own with that which in fact was owned by the father they cannot profit by their own fraud; besides it was shown that all of the corn was not sold. The validity of the sale of the personal property and the transfer of the lease were the important questions, and these should be decided by a jury. In the investigation of that question every circumstance in the condition and relation of the parties, and every act and declaration of the person charged with fraud may be given in evidence, if in the judicial mind it bears such a relation as is, calculated to persuade the jury that the allegation of fraud is or is not well founded: Glessner v. Patterson, 164 Pa. 224.
+The plaintiff accepted the burden placed on him by the law, to show that the title of the sons was not good, and that as the purchaser of the interest of Samuel Urey he was entitled to the exclusive possession of the one half of the corn grown on that farm. The plaintiff’s first and third points should have been affirmed.
+The judgment is reversed and a venire facias de novo awarded.
