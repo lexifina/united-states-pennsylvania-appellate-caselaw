@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 142"
+decided: "1913-10-13"
+citations: ["55 Pa. Super. 11"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady, Head and Porter, JJ."]
+parties: ["Donoghue v. O'Kane, Appellant."]
+source_url: "https://static.case.law/pa-super/55/cases/0011-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 439641
+cites_cases: ["12 Pa. Superior Ct. 290", "13 Pa. Superior Ct. 303", "130 Pa. 344", "139 Pa. 96", "148 Pa. 199", "164 Pa. 491", "165 Pa. 617", "2 Whart. 261", "21 Pa. Superior Ct. 200", "214 Pa. 30", "23 Pa. Superior Ct. 34", "239 Pa. 300", "29 Pa. Superior Ct. 550", "30 Pa. Superior Ct. 534", "45 Pa. Superior Ct. 372"]
+---
+
+# Donoghue v. O'Kane
+
+## Majority (Orlady, J.,)
+
+Opinion by
+Orlady, J.,
+It is conceded that the only question involved in this appeal is whether a supplemental affidavit of defense should have been considered by the court before entering a judgment in the plaintiff’s favor.
+On September 11, 1912, a rule was regularly entered to show cause why judgment should not be entered against the defendant for $412.46 with interest. After a hearing, the court in an opinion filed November 12, held, “The plaintiff therefore is not entitled to judgment for the amount for which he took this rule, but it appears that he would be entitled to judgment for the plumbers’ supplies, amounting to $195.28, and the 30% thereon, if his rule had been so taken. The rule as it stands must therefore be discharged.” On the same day, the plaintiff obtained a rule for judgment for the items indicated, which was duly served and placed on the argument fist for hearing on November 13, when, “The court refused to permit the defendant to file a supplemental affidavit of defense, and made the rule for judgment for want of a sufficient affidavit of defense absolute; with leave to proceed for the balance” to which the defendant excepted and a bill was sealed. The record returned with our writ includes the “supplemental affidavit of defense” which is in the usual form, and indorsed with names of the parties, number and term, in “Docket D., and filed, November 12, 1912.”
+From this the record, it clearly appears that the supplemental affidavit of defense was filed in this office of the prothonotary and duly docketed with the other papers in the case the day before the call on the rule, but, assuming that counsel for defendant went further than it was necessary for him to do, and orally asked permission of the court to file it, when the rule was called for hearing, the error in refusing to consider the affidavit is clear under our authorities, and is controlled by Bordentown Banking Co. v. Restein, 214 Pa. 30, in which case it is said: “In the present case, upon the calling of the rule and before judgment was entered, the defendant’s counsel presented an affidavit of defense and asked leave to file it. Leave was refused and judgment entered. This was error — no leave was necessary, as the defendant could have filed the affidavit of right at any time before judgment. This was established in regard to a supplemental affidavit as long ago as 1836, in West v. Simmons, 2 Whart. 261, and has been uniformly followed in practice ever since, ” and in reversing the judgment for that reason the court held further, “Whether the affidavit considered as filed in time is sufficient is a question not now before us, but which the court below may deal with when it comes regularly before them.” This is followed in Von Schirack v. Vance, 239 Pa. 300.
+A supplemental affidavit of defense is to be construed with the original and may be filed at any time before the rule is called for argument: Penrose v. Caldwell, 29 Pa. Superior Ct. 550; Woodoleum F. Co. v. Kayser, 45 Pa. Superior Ct. 372. Rule 12, of the Allegheny County Rules, provides as follows: “When the plaintiff considers an affidavit insufficient, he may enter a rule of course on defendant to show cause why judgment should not be entered for want of a sufficient affidavit of defense, and at the same time he shall specify wherein the affidavit is insufficient; and at any time before the rule is regularly called for argument, but not after, unless for special cause shown, the defendant may file a supplemental affidavit of defense, of which he shall notify the plaintiff’s attorney,” etc.
+The only change in the practice effected by this rule was to fix the time of filing the supplemental affidavit “before the rule is regularly called for argument,” instead of “at any time before judgment.” The affidavit in this case having been filed the day previous to the call it was not necessary to ask for leave to file it. The original affidavit had been disposed of and the new one was filed to meet the issue as presented by the court in its order of November 2, 1912, and is fuller and more specific than the original and not irreconcilable with the facts expressly averred'in the earlier one.
+It has been frequently held that all doubts as to the proper construction of a rule of court must be resolved in favor of the one adopted by the court below, because it is primarily best qualified to construe its own rules, Livingston v. Kerbaugh, 30 Pa. Superior Ct. 534, and the appellate courts will not interfere with the construction put upon rules regulating the practice in the trial courts except for palpable abuse, or to correct manifest and material error. In the case before us, there is no ambiguity as to. the provisions of the rule involved, and for some reason not apparent of record it was disregarded. This was not a construction of the rule, but a refusal to consider it.
+The judgment is reversed and a procedendo awarded.
