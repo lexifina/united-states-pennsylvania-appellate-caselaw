@@ -1,0 +1,41 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+decided: "1993-03-02"
+citations: ["153 Pa. Commw. 647", "621 A.2d 1236"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CRAIG, President Judge, McGINLEY, J., and LORD, Senior Judge."]
+parties: ["Richard WASIOLEK, Appellant, v. CITY OF PHILADELPHIA and Orville W. Jones, Personnel Director and Edward G. Rendell, District Attorney."]
+source_url: "https://static.case.law/pa-commw/153/cases/0647-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1442328
+cites_cases: ["106 Pa. Commonwealth Ct. 173", "146 Pa.Commonwealth Ct. 582", "148 Pa.Commonwealth Ct. 329", "315 Pa.Superior Ct. 147", "383 Pa.Superior Ct. 580", "411 A.2d 1311", "420 Pa.Superior Ct. 507", "50 Pa.Commonwealth Ct. 69", "525 Pa. 623", "578 A.2d 411", "95 Pa.Commonwealth Ct. 76"]
+---
+
+# Wasiolek v. City of Philadelphia
+
+## Majority (LORD, Senior Judge.)
+
+LORD, Senior Judge.
+The equity action involved in this appeal by Richard .Wasiolek has an unfortunate history which is outlined at length in a prior opinion of this Court. Wasiolek v. City of Philadelphia 146 Pa.Commonwealth Ct. 582, 606 A.2d 642 (1992).
+In summary, our previous opinion indicates that the events originally precipitating this action occurred in 1981, when Wasiolek was laid off from a job with the City; that, as a result, he started an equity action in 1984, almost nine years ago; and that Wasiolek was awarded two non-jury verdicts for money damages.
+After this Court’s March 27, 1992 opinion which remanded the matter for another hearing, it was assigned for trial in June 1992. The trial judge, after taking considerable testimony, sua sponte issued an order over, the protests of Wasiolek, remanding the case to the Civil Service Commission. Wasiolek has appealed that order.
+Although remand orders are generally interlocutory and not subject to appeal, we have concluded that, given the peculiar history and circumstances of this case, the trial court’s order remanding to the Civil Service Commission is reviewable. That remand was solely for the purpose of considering “the effect, if any of the fact that plaintiffs name was not timely placed on the lay-off list----” However, Wasiolek also included a claim set forth in paragraph ten of the complaint as follows:
+The City of Philadelphia and Orville W. Jones, Personnel Director, have also promulgated additional Civil Service Regulations designed to exclude the plaintiff from re-entering the service of the City of Philadelphia and which are in direct contravention of specific existing regulations which establish the method and order of recalling laid off employees into active service with the City of Philadelphia, (emphasis added).
+The obviously limited order of the trial judge did not refer the complaint made in the paragraph quoted above to the commission, and Wasiolek was thereby deprived of a forum in which to present this claim. In a similar case, this court held that a remand to the Pennsylvania Labor Relations Board was appealable. See Beaver Valley Intermediate Unit v. Commonwealth 50 Pa.Commonwealth Ct. 69, 411 A.2d 1311 (1980) See also Philadelphia Commission on Human Relations v. Gold, 95 Pa.Commonwealth Ct. 76, 503 A.2d 1120 (1986), where this court held that an interlocutory remand to that Commission was appealable.
+We therefore turn to the validity of the trial judge’s order which sua sponte remanded this case to the Civil Service Commission. The record is clear that, in 1984, on preliminary objections, Judge DiBona was presented with the same issue, because at that time the City contended that Wasiolek’s claim must have been presented to the Civil Service Commission. Judge DiBona overruled the preliminary objections and thus decided the issue against the City.
+We have no doubt that the trial judge was bound by Judge DiBona’s ruling: This Court recently had occasion to examine the circumstances under which a trial judge can overrule an interlocutory order of another judge.
+In Sanchez v. Philadelphia Housing Authority, 148 Pa.Commonwealth Ct. 329, 334, 611 A.2d 346, 348 (1992), we said:
+In Pennsylvania,, the general rule is that a trial judge may not overrule an interlocutory order of another judge of the same court in a case involving an issue previously litigated. This policy, distinguishable from the doctrine of the “law of the case”, requires that there must be some finality to pretrial applications or motions to promote judicial economy and efficiency. In Buck v. Coldway Food Express, Inc., 383 Pa.Superior Ct. 580, 557 A.2d 404, appeal denied, 525 Pa. 623, 578 A.2d 411 (1989), the court indicated that unless new evidence is presented to the second trial judge, the original judge’s decision must be followed. See also Reifinger v. Holiday Inns, Inc., 315 Pa.Superior Ct. 147, 461 A.2d 839 (1983) and Farber v. Engle, 106 Pa. Commonwealth Ct. 173, 525 A.2d 864 (1987).
+The rule was most recently reiterated by the Superior Court in Turner v. Kohl, 420 Pa.Superior Ct. 507, 617 A.2d 20 (1992).
+This case is a vivid example of the cogency of this rule, for here the trial judge proceeded sua sponte in 1992 to overrule a 1984 decision by Judge DiBona and to order a case be presented to the Commission after eight years had intervened, two verdicts had been given and an appeal had been taken to this Court. Adherence to the general rule stated above would in this instance certainly have promoted “judicial economy and efficiency,” while the order in question forces Wasiolek to present his case to a new forum after all this delay. We therefore hold that the trial judge was in error in entering the remand order.
+In view of our.disposition of this case, it is unnecessary to examine in detail Wasiolek’s other arguments or the City’s argument that Wasiolek waived the question raised in this appeal. Suffice it to say that several unusual procedures occurred in the trial court and that Wasiolek took the necessary exceptions to preserve his contention that the sua sponte remand to the Civil Service Commission was in error because Judge DiBona had ruled on the question.
+One other matter is worthy of attention. During the discussion concerning the effect of Judge DiBona’s order, the trial judge, before hearing argument on either the merits of the case or the claimed amount of Wasiolek’s damages, expressed an opinion about what the court’s award would be. Under such circumstances, the trial of the case unfortunately should be sent to yet another judge for what we hope is a speedy and final disposition, free from error.
+ORDER
+AND NOW, this 2nd day of March, 1993, the order of the Philadelphia Court of Common Pleas, at No. 3218 May Term, 1984, dated June 26, 1992, is hereby vacated and the matter is remanded to the common pleas court to be immediately assigned to another trial judge to conduct a hearing forthwith.
+Jurisdiction relinquished.
+. The first verdict of $33,500.36 was set aside because the trial judge made his finding after he was suspended from judicial duties by a Supreme Court order. The second verdict of $11,324.00 was vacated by this Court on appeal by Wasiolek from the denial of a motion for new trial/judgment n.o.v. because the trial judge in that case did not take testimony again, but relied upon the record in the previous trial.
+. Notes of Testimony, June 24, 1992, pp. 267-269.
+. In Gold, 95 Pa.Commonwealth Ct. at 79, n. 1, 503 A.2d at 1121, n. 1, this Court pointed out that it would have been wise for the appellant to have taken an appeal by permission pursuant to Rules of Appellate Procedure 1311-1323, and we repeat the same comment here. Such rules allow interlocutory appeals when such allowance would “materially advance the ultimate determination of the matter.’’ Pa.R.A.P. 1312(a). We trust that our decision to allow this appeal accomplishes that worthwhile goal.
+. Although Judge DiBona decided this issue in ruling on preliminary objections, the record here reveals that there was no evidence of changed circumstances and no new evidence otherwise presented at a trial that would warrant overruling the prior order.
