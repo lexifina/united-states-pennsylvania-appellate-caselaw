@@ -1,0 +1,23 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 104"
+decided: "1920-07-14"
+citations: ["75 Pa. Super. 66"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, Henderson, Head, Trexler, Keller and Linn, JJ.", "Henderson, J., dissents."]
+parties: ["City of Meadville, Appellant, v. The Public Service Commission."]
+source_url: "https://static.case.law/pa-super/75/cases/0066-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 647054
+---
+
+# City of Meadville v. Public Service Commission
+
+## Majority (Linn, J.,)
+
+Opinion by
+Linn, J.,
+For the reasons stated in Vernon Township v. Public Service Commission, No. 103, April Term, 1920, ante p. 54, the order of the Public Service Commission in this case is affirmed, costs to be paid by appellant.
+Henderson, J., dissents.
