@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 204"
+decided: "1911-11-13"
+citations: ["48 Pa. Super. 313"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady, Head, Beaver and Porter, JJ."]
+parties: ["Emerson v. Standard Protective Society of Pennsylvania, Appellant."]
+source_url: "https://static.case.law/pa-super/48/cases/0313-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8862347
+cites_cases: ["120 Mass. 550", "13 Pa. Superior Ct. 187", "154 Pa. 455", "155 Pa. 38", "173 Pa. 15", "174 Pa. 114", "183 Pa. 563", "19 Pa. Superior Ct. 586", "199 Pa. 161", "2 W. N. C. 472", "204 Pa. 453", "21 Pa. 466", "3 Rawle, 172", "36 N. Y. Supp. 265", "44 Pa. Superior Ct. 518", "47 Pa. Superior Ct. 618", "72 Pa. 456", "8 W. & S. 365", "90 Pa. 311"]
+---
+
+# Emerson v. Standard Protective Society
+
+## Majority (Pee Cukiam,)
+
+Pee Cukiam,
+The defendant was incorporated by a decree of the . court of common pleas of Berks county under the act regulating the organization and incorporation of secret beneficial societies, orders or associations, approved April 6, 1893. P. L. 10. In the application for incorporation it was stated that the “principal office” of the corporation was to be located in Reading, Berks County, but in the caption of the benefit certificate issued to the plaintiff it was stated that its “business office” was in New York city, while according to the testimony of its president, it had no office in Reading, but its “main office” or “executive office” was in Phoenixville, Chester county. It had a local lodge in McKean county, of which the plaintiff became a member. It also had a collector in that county to whom she regularly paid her monthly dues. But it seems that it had no office in that county. She brought suit for sick benefits before a justice of the peace in McKean county, and obtained judgment. The defendant appealed to the court of common pleas, its counsel entered their appearance and pleaded non assumpsit, and the case went to trial on its merits. At the conclusion of the evidence the defendant moved to dismiss the case upon the ground that it could be sued only in the county where was located its principal office or chief place of business. Granting that the objection would have been well taken if made at the outset (a point not decided), the motion was properly overruled, because the objection belonged to that class of objections to jurisdiction which a defendant can waive, and this defendant must be deemed to have waived it by appealing, appearing to the action, pleading the general issue and going to trial on the merits: Com. v. Barnett, 199 Pa. 161; Putney v. Collins, 3d Gr. 72; Fennell v. Guffey, 155 Pa. 38; Smith v. Peoples, etc., Ins. Co., 173 Pa. 15; Nagle v. Nagle, 3d Gr. 155; Newbold’s Appeal, 2 W. N. C. 472; Magee v. Penna. Sch. V. R. R. Co., 13 Pa. Superior Ct. 187; English v. English, 19 Pa. Superior Ct. 586; Gibson v. Hawarth, 47 Pa. Superior Ct. 618. None of the cases cited in the appellant’s brief is opposed to this conclusion. In all of them the objection was raised in limine — in Hawn v. Penna. Canal Co., 154 Pa. 455; Bailey v. Williamsport & North Branch R. R. Co., 174 Pa. 114, and Frick, etc. v. Maryland, etc., Tel. Co., 44 Pa. Superior Ct. 518, by motion to set aside the service of process; and in Com. v. Wickersham, 90 Pa. 311, and Whitemarsh Twp. v. Phila., etc., R. R. Co., 8 W. & S. 365, by answer to the petition for mandamus.
+The constitution and by-laws of the association are not in evidence, and there is nothing expressed in the benefit certificate to bar recovery of benefits for illness incident to a surgical operation such as the plaintiff underwent. It is argued, however, that public policy excludes from the contract indemnity for illness resulting from the member’s immoral act, and that it was to be presumed from the nature of the physical condition, which made the surgical operation necessary, that it resulted from her immoral act. But it was not impossible that that condition arose without any criminality or even immorality on her part, and we do not assent to the proposition that the company could ask the court to presume as matter of law that it did not. The burden of proving that the act was criminal on her part rested on the defendant, and not on the plaintiff. She had a right to stand on the contract as written, and if the defendant sought to avoid the contract upon the grounds of public policy, it was incumbent on it to show satisfactorily, and not by mere surmise, the facts which brought the case within the rule of public policy which it contended for.
+Having determined that the assignments of error cannot be sustained, it is unnecessary to discuss the reasons assigned by the appellee in support of its motion to quash the appeal. .
+All the assignments of error are overruled, and the judgment is affirmed.
