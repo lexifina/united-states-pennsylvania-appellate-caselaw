@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 1383"
+decided: "1976-03-29"
+citations: ["239 Pa. Super. 35"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Watkins, P.J., Jacobs, Hoffman, Cercone, Price, Van der Voort, and Spaeth, JJ."]
+parties: ["Gordon-Stuart Ltd. et al., Appellants, v. Allen Shops, Inc. et al."]
+source_url: "https://static.case.law/pa-super/239/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6769784
+cites_cases: ["109 Pa. Superior Ct. 167", "167 A. 425"]
+---
+
+# Gordon-Stuart Ltd. v. Allen Shops, Inc.
+
+## Majority (Cercone, J.,)
+
+Opinion by
+Cercone, J.,
+This is an appeal from an order of the court below granting defendant Frantz’s motion to strike the plaintiffs’ complaint. The events giving rise to the lower court’s decision are as follows.
+On June 24, 1973, the plaintiffs (appellants herein) filed a complaint in trespass and asshmpsit naming Frantz, among others, as a defendant. Plaintiffs’ cause of action was based upon an allegedly defective sprinkler system that malfunctioned in plaintiffs’ shop. Defendant Frantz responded by filing preliminary objections seeking a more specific complaint. The lower court sustained the preliminary objections on March 25, 1974, and ordered plaintiffs to file a more specific complaint within twenty days. For reasons not apparent in the record, plaintiffs failed to comply with the order; and on October 4, 1974, Frantz caused a judgment of non pros, to be entered against the plaintiffs.
+Thereafter, plaintiffs refrained from taking any action to have the non pros, removed. However, on December 24, 1974, plaintiffs commenced a second action which is apparently identical to the original suit that was non prossed. Frantz countered by filing preliminary objections which included a motion for a more specific complaint, and a motion to strike the complaint. The motion to strike was based upon the previous judgment of non pros. Plaintiffs then amended their complaint and filed an answer in opposition to the motion to strike. Plaintiffs’ answer averred that the prior non pros, did not bar the instant action because they had offered to pay the defendant the costs incurred in the prior action. On April 23, 1975, the court below granted defendant Frantz’s motion to strike and dismissed the complaint as to him alone. From this order the instant appeal followed.
+The only question we need consider is: Whether the lower court erred in dismissing the instant complaint on the basis of a judgment of non pros, entered in a prior identical action, where the statute of limitations has not yet expired and plaintiffs have tendered the costs incurred by the defendant in the first action. In Bucci v. Detroit Fire & Marine Ins. Co., 109 Pa. Superior Ct. 167, 167 A. 425 (1933), we addressed this exact issue and concluded that it was error to dismiss the complaint. We perceive no reason, at this time, for not continuing to adhere to the rationale of Bucci.
+In Bucci, the plaintiff issued a summons in assumpsit but failed to file a statement of his.claim within the time prescribed by a local rule of court. Accordingly, the prothonotary entered a judgment of non pros, against the plaintiff. Plaintiff then paid the costs of the first action and proceeded to institute a second action identical to the first. Upon petition by the defendant, the lower court directed that the second action be stricken from the record in light of the judgment of non pros, in the first action. On appeal we analyzed the term “non pros.” and concluded that:
+“[T]he legal effect of the non pros could not prevent the entry of a suit for the same cause of action within the statute of limitations.”
+Bucci, supra at 174. [emphasis added.] Likewise, in 5 Standard Pennsylvania Practice, 115-116, it is pertinently stated that: “A judgment of non pros is a judgment by default for laches which puts the plaintiff out of court and ends his right to amend the pleadings. Such judgment of non pros does not, however, bar the plaintiff from commencing another action, and after a judgment of non pros for delay in prosecution, the plaintiff is entitled upon payment of costs to commence another action for the same cause, assuming, of course, that his claim is not barred by the statute of limitations.”
+Instantly, it is 'not disputed that the applicable statute of limitations has not expired, nor is it denied that plaintiffs have tendered the costs of the first action. Nonetheless, the lower court was of the opinion that Bucci v. Detroit Fire & Marine Ins. Co., supra, was distinguishable from the case at bar because there the non pros, was occasioned by plaintiffs failure to file a timely statement of claim, whereas in the case at bar, the non pros, was entered because plaintiffs did not comply with an order of court directing them to file an amended complaint. In our judgment, however, no viable distinction-exists. Our opinion in Bucci was predicated on the fact that a judgment of non pros, is simply a dismissal for want of diligent prosecution and is not a judgment on the merits. In either instance, that is, where the plaintiff is non prossed for neglecting to file a seasonable complaint, or failing to file an amended pleading, the judgment for the defendant is not on the merits and does not preclude the plaintiff from commencing another suit on the same cause of action, provided that the statute of limitations has not expired and the plaintiff has made payment for the costs of the former suit. As stated in 5 Standard Pennsylvania Practice, 129-130: “Where the plaintiff fails to file a more specific initial pleading, upon the application of the defendant therefor, a judgment of non pros may be entered against him. Such a judgment ends the suit and is reviewable upon error, but it does not bar another suit.'” [Footnotes omitted; emphasis added.]
+Finally, we believe that the defendant’s apprehension with being subjected to protracted litigation as a result of our decision today is ill-founded. First of all, this subsequent action by the plaintiff is obviously in-conflict with his desire to obtain an expeditious disposition of his cause of action. Most importantly, the practice of requiring the plaintiff to pay the costs of the prior action should prevent vexatious litigation.
+Accordingly, the order of the lower court is reversed and the record remanded with directions to reinstate plaintiffs’ complaint against defendant Frantz.
+. Frantz is only one of several defendants against whom plaintiffs filed suit. However, none of the other defendants joined in Frantz’s motion to strike and thus the complaint was only dismissed as to Frantz.
+. Cf., Rule 41 (b) of the Federal Rules of Civil Procedure.
