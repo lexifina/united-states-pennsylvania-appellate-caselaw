@@ -1,0 +1,41 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeals, Nos. 1244 C.D. 1983 and 1245 C.D. 1983"
+decided: "1985-05-22"
+citations: ["89 Pa. Commw. 404"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Craig and Palladino and Senior Judge Barbieri, sitting as a panel of three.", "Judge Williams, Je. did not participate in the decision in this case."]
+parties: ["John Kearney, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent. Patrick Kearney, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/89/cases/0404-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1330175
+cites_cases: ["156 A.2d 576", "166 A.2d 871", "19 Pa. Commonwealth Ct. 550", "191 Pa. Superior Ct. 434", "25 Pa. Commonwealth Ct. 494", "339 A.2d 864", "35 Pa. Commonwealth Ct. 32", "360 A.2d 248", "384 A.2d 1025", "402 Pa. 202", "404 A.2d 1389", "45 Pa. Commonwealth Ct. 221", "499 Pa. 299"]
+---
+
+# Kearney v. Commonwealth, Unemployment Compensation Board of Review
+
+## Majority (Judge Palladino,)
+
+Opinion by
+Judge Palladino,
+Claimants appeal from orders of the Unemployment Compensation Board of Review (Board), affirming referee’s decisions denying benefits under section 402(d) of the Unemployment Compensation Law. We affirm.
+Although the above-captioned cases have not been consolidated, they arise from the same factual circumstances and were heard and decided together by the Board. We shall, therefore, treat both cases together in this opinion.
+Claimants are members of the Iron Workers Union, Local 818 (Local 818) who were employed by Adams Steel Erection (Employer) under a permit arrangement with the Iron Workers Union, Local 3 (Local 3). The collective bargaining agreement between the Employer and Local 3 expired Monday, May 31, 1982. On Friday, May 28, 1982 in preparation for the impending strike, the Employer collected all tools and announced that there would be no work unless there was no strike, or until the strike was over. Local 3 called a strike beginning at midnight on May 31, 1982 which ended on or about July 24, 1982. Claimants did not work from May 29, through July 24, 1982. The referee found that Claimants were not members of the striking Local 3, but that they worked for the Employer under a permit issued by Local 3, they performed the same work, received the same pay and fringe benefits and were protected by the same collective bargaining agreement as members of Local 3. The referee concluded that Claimants were ineligible for benefits because they participated in or were directly interested in the labor dispute and they belonged to a grade or class of workers of which, there were members who were participating in the work stoppage.
+Claimants contend that the referee’s decision, as affirmed by the Board, is in error because as to them the work stoppage was a lockout, not a strike, because they were willing to continue work under the pre-existing terms and conditions of employment even though they concede that Local 3 initiated the work stoppage. Claimants have misconstrued the law.
+Whether a work stoppage is a strike or a lockout depends upon the position of the bargaining representative, not the willingness of each individual employee to continue working. See, e.g., General Electric Company v. Unemployment Compensation Board of Review, 35 Pa. Commonwealth Ct. 32, 384 A.2d 1025 (1978); Bethlehem Steel Company v. Unemployment Compensation Board of Review, 191 Pa. Superior Ct. 434, 156 A.2d 576 (1959) aff’d 402 Pa. 202, 166 A.2d 871 (1961). This Court has interpreted the phrase “stoppage of work which exists because of a labor dispute” as used in section 402(d) to mean “any cessation of work by an employe due to a labor dispute, irrespective of whether or not continuing work is available.” Unemployment Compensation Board of Review v. Tickle, 19 Pa. Commonwealth Ct. 550, 560, 339 A.2d 864, 869 (1975). Thus, if an employer ceases operations because some of the employees are striking, this Court has held that all of the employees are unemployed due to a labor dispute and are ineligible for benefits unless they prove that they meet all three of the conditions set forth in the proviso to section 402 (d). See, e.g., General Electric Company; Tickle.
+The three conditions of the proviso are that the claimant (1) did not participate or was not directly interested in the labor dispute, (2) is not a member of an organization which participated or was directly interested in the labor dispute, and (3) did not belong to a grade or class of workers, which were employed prior to the beginning of the work stoppage at the premises where the work stoppage occurs, any of whom participated or were directly interested in the labor dispute.
+In the instant case the referee concluded, the Board affirmed, and we agree that while Claimants were not members of an organization which participated in the labor dispute they were directly interested in the dispute and they did belong to a grade or class of workers who were participating in the labor dispute. An employee is directly interested in a labor dispute if the wages and fringe benefits negotiated by the striking union cover all employees including the non-member claimants. Balsamo v. Unemployment Compensation Board of Review, 45 Pa. Commonwealth Ct. 221, 404 A.2d 1389 (1979). The referee found, and the findings are supported by the record, that Claimants received the same pay and benefits and were protected by the agreement between Local 3 and the Employer. They were, therefore, directly interested in the labor dispute.
+In order to determine whether Claimants belong to the same grade or class of workers as those participating in the dispute we must look to the totality of the circumstances surrounding their employment. Renne v. Unemployment Compensation Board of Review, 499 Pa. 299, 453 A.2d 318 (1982). Factors of employment including salary, benefits, working conditions, hours, job security, rank, and skills must be considered. Id. Again, the referee found, and the findings are supported by the record, that Claimants did the same work and received the same pay, benefits and protections as the ironworkers who were members of Local 3. Claimants did, therefore, belong to the same grade or class of workers as the Local 3 members who participated in the labor dispute.
+Because Claimants have failed to meet the three conditions to the proviso of section 402(d) the referee correctly concluded that they are ineligible for unemployment compensation benefits. The orders of the Board are, therefore, affirmed.
+Order in 1244 C.D. 1983
+And Now, May 22, 1985, the order of the Unemployment Compensation Board of Review, No. B-217109, is affirmed.
+Order in 1245 C.D. 1983
+And Now, May 22, 1985, the order of the Unemployment Compensation Board of Review, No. B-217108, is affirmed.
+Judge Williams, Je. did not participate in the decision in this case.
+Act of December 5, 1986, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §802(d).
+Section 402(d) reads as follows:
+An employee shall be ineligible for compensation for any week-
+id) In which his unemployment is due to a stoppage of work, which exists because of a labor dispute (other than a lock-out) at the factory, establishment or other premises at which he is or was last employed: Provided, That this subsection shall not apply if it is shown that (1) he is not participating in, or directly interested in, the labor dispute which caused the stoppage of work, and (2) he is not a member of an organization which is participating in, or directly interested in, the labor dispute which caused the stoppage of work, and (3) he does not belong to a grade or class of workers of which, immediately before the commencement of the stoppage, there were members employed at the premises at which the stoppage occurs, any of whom are participating in, or directly interested in, the dispute.
+See Unemployment Compensation Board of Review v. Fox Grocery Company, 25 Pa. Commonwealth Ct. 494, 360 A.2d 248 (1976) (“organization” for purposes of section 402(d) means the union local).
