@@ -1,0 +1,46 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1348 C.D. 1981"
+decided: "1983-04-25"
+citations: ["73 Pa. Commw. 558"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Blatt, Williams, Jr. and Craig, sitting as a panel of three."]
+parties: ["Allied Services for the Handicapped, Inc., Appellant v. Zoning and Hearing Board of the City of Scranton, Appellee."]
+source_url: "https://static.case.law/pa-commw/73/cases/0558-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1939825
+cites_cases: ["410 A.2d 909", "437 A.2d 1338", "448 A.2d 108", "48 Pa. Commonwealth Ct. 523", "63 Pa. Commonwealth Ct. 400", "68 Pa. Commonwealth Ct. 57"]
+---
+
+# Allied Services for the Handicapped, Inc. v. Zoning & Hearing Board
+
+## Majority (Judge Williams, Jr.,)
+
+Opinion by
+Judge Williams, Jr.,
+This zoning case comes before us on appeal from an order of the Court of Common Pleas of Lackawanna County. The court’s order affirmed a decision of the Zoning and Hearing Board of the City of Scranton (appellee) denying appellant Allied Services for the Handicapped, Inc. (“Allied Services”) a permit to construct a group home.
+In August of 1980, Allied Services became the owner of a parcel of land located within an R-1A zoning district, wherein single family detached dwellings are a permitted use. Subsequent to the purchase of the property, appellant filed an application for a building and zoning permit to construct a group home for five (5) unrelated individuals who had undergone treatment for various forms of emotional disturbance. The Zoning Officer of the City of Scranton rejected the application, concluding that appellant’s proposed use of the subject property did not qualify as a permitted use as a single family residence. In addition, the Zoning Officer determined that Allied Services’ application was, in effect, a request for a special exception to use the premises as a mental health facility, and thus a matter for consideration by the City’s Zoning and Hearing Board (Board).
+Allied Services filed a timely appeal to the Board from the Zoning Officer’s denial of its application. Following a hearing, the Board rendered a decision dismissing the appeal, and denying what it characterized as appellant’s “petition for a ‘Special Use’,” or request for a special exception. The Court of Common Pleas of Lackawanna County, without taking additional evidence, affirmed the Board’s decision by order dated May 22,1981.
+On appeal to this Court, appellant maintains that the residents of the proposed dwelling constitute a “family” as defined by the Zoning Ordinance of the City of Scranton, and that, therefore, its group home qualifies as a permitted use as a single family dwelling. In the alternative, Allied Services contends that, even if the proposed group home is not a permitted use, it is nonetheless entitled to the requested building and zoning permit by special exception.
+Where, as here, the court below has taken no additional evidence, our scope of review is directed toward the decision of the Board, and is limited to a determination of whether the Board abused its discretion or committed an error of law, and whether each necessary finding of fact is supported by substantial evidence. Appeal of McGinnis, 68 Pa. Commonwealth Ct. 57, 448 A.2d 108 (1982). In light of the inadequacy of the record before us, we are unable to exercise such review.
+Pursuant to Section 908(9) of the Pennsylvania Municipalities Planning Code (Code), the Board was required, in denying appellant’s application, to render a written decision “accompanied by findings of fact and conclusions based thereon together with the reasons therefore.” In other words, the Code mandates that the Board issue an opinion, as distinguished from its order or decision disposing of the matter, setting forth the essential findings of fact, conclusions of law, and sufficient rationale to demonstrate that its action was reasoned and not arbitrary.
+The entire text of the Board’s decision in the instant matter is as follows:
+This Board is in receipt of a written legal opinion from the Law Department of the City of Scranton which is attached hereto and made part of these proceedings. The subject legal' opinion determined that the' petition of the Allied Services for the Handicapped to establish a group home at 2320 Durkin Ave., Scranton,. Pa. was in effect a petition for a“ Special Use”.
+This Board, acting on the aforementioned written legal opinion and also on the recommendations of the City Planning Commission, and subsequent to the required public hearings, does hereby determine as follows:
+The petition of the Allied Services for the Handicapped relative to 2320 Durkin Ave., Scranton, Pa. is hereby denied.
+Clearly, this decision does not constitute an opinion in compliance with the requirements of Section 908(9) of the Code. In essence, it is merely a statement adopting the conclusion that appellant’s application is, in effect, a request for a special exception, and a statement that the request for a special exception is denied. The decision is unaccompanied by findings of fact, conclusions of law, and rationale in support of the denial.
+In addition, we note that the Board neglected to make a determination, and to accompany such determination with an opinion, on the issue of whether the proposed group home qualifies as a permitted use as a single family residence. More particularly, the Board failed to address the question of whether the occupants of the dwelling would constitute a “family’’ within the meaning of Section 2.120 of the Zoning Ordinance of the City of Scranton, which defines the term as follows:
+Either an individual, or two (2) or more persons related by blood or marriage or adoption, or a group of not more than five (5) persons, excluding servants, living together as a house-. hold in a dwelling unit. (Emphasis added.) '
+Furthermore, while the Board’s decision incorporates by reference a legal memorandum issued by the Office of the City Solicitor, the substance of the referenced document, as stated in the Board’s decision, is essentially a determination that appellant’s application was, in effect, a “petition for a 'Special Use.’ ” This memorandum is devoid of any findings of fact, conclusions of law, and reasoning which would constitute an opinion, incorporated by reference, in support of the denial of a special exception.
+We are further precluded from review of this case by the neglect of the trial court to remedy the factual deficiencies of the record before us: pursuant to Section 1010 of the Code, the trial court had the authority to either remand the matter to the Board for the entry of findings of fact, or to fill the factual void itself in affirming the Board’s decision. See Board of Commissioners of Ross Township v. Harsch, 63 Pa. Commonwealth Ct. 400, 437 A.2d 1338 (1981).
+In short, there is no indication on the record before us of the legal and factual bases for the Board’s decision. To facilitate meaningful appellate review, there must be findings and conclusions, with respect to the issue of whether appellant’s group home qualifies as a permitted use as a single family residence, concerning whether the proposed residents would be “living together as a household,” thereby constituting a “family” as defined by the City’s Zoning Ordinance. Factors such as whether the occupants would make decisions collectively, or under a single head or manager; the length of stay of the individuals; whether they would conduct their lives independently; and whether they would buy, cook, and eat their meals together, should be considered in this connection. On the question of whether appellant is entitled to a special exception, there must be findings and conclusions, inter alia, concerning whether the use intended is one permitted by the Zoning Ordinance as a special exception; whether all other objective requirements of the Ordinance for a special exception have been or will be met; and whether the proposed use would be against the best interests and welfare of the • community. See Bray v. Zoning Board of Adjustment, 48 Pa. Commonwealth Ct. 523, 410 A.2d 909 (1980).
+Accordingly, we hereby remand the case to the court below to proceed further in a manner consistent with this opinion.
+Order
+And Now, the 25th day of April, 1983, the Order of the Court of Common Pleas of Lackawanna County dated May 22,1981, is vacated, and the case is hereby remanded to that court for further action or proceedings consistent with this opinion.
+Jurisdiction relinquished.
+It is the Board’s function, rather than the Zoning Officer’s, to hear and decide applications for special exceptions. Section 913 of the Pennsylvania Municipalities Planning Code (Code), Act of July 31, 1968, P.L. 805, as amended, 53 P.S. §10913. In addition, the Board has jurisdiction over appeals from the Zoning Officer’s decision. Section 909 of the Code, 53 P.S. §10909.
+53 P.S. §10908(9).
+53 P.S. §11010.
+it is undisputed that the proposed dwelling would be occupied by no more than five (5) persons, excluding servants, who would be unrelated by blood, marriage, or adoption.
