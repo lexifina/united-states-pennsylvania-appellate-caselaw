@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 128"
+decided: "1942-02-28"
+citations: ["148 Pa. Super. 127"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Stadtfeld, Rhodes, Hirt and Kenworthey, JJ."]
+parties: ["Commonwealth v. Palmer, Appellant."]
+source_url: "https://static.case.law/pa-super/148/cases/0127-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1040688
+cites_cases: ["19 A. 2d 71", "341 Pa. 187"]
+---
+
+# Commonwealth v. Palmer
+
+## Majority (Stadtfeld, J.,)
+
+Opinion by
+Stadtfeld, J.,
+The defendant was indicted npon the charges (1) of unlawfully keeping alcoholic beverages on the premises for the purpose of sale; and (2) of unlawfully possessing alcoholic beverages in a container which had not been sealed with the official seal of the Pennsylvania Liquor Control Board as required by law.
+• On November '22, 1940, armed with a search and seizure warrant, agents of the Liquor Control Board, accompanied by a representative of the II. S. Treasury Department, searched premises 618 ¡Christian Street, a private dwelling in the city of Philadelphia. There was found in the cellar floor a one gallon jug of white untaxed liquor, and in a trap under the stairs leading from the cellar to the first floor was found a one 5 gallon can, three 1 gallon jugs, and one 1 quart bottle, all filled with untaxed liquor, bearing neither stamps nor seals. A chemical analysis disclosed that the contents of the 5 gallon can was a raw distillate containing 88.50% of alcohol by volume. An analysis of the contents of one of the 1 gallon jugs disclosed it to be a beverage of the cordial type or anisette, containing 57% of alcohol by volume.
+At the time of the search and seizure the only persons in this house were the defendant and her aged mother. When questioned by the officers, defendant refused to reveal her husband’s whereabouts and stated to the arresting officers that, the “liquor was hers,” and that there was “no need to bring her husband into it.” The stairway leading from the first floor to the cellar or basement was carpeted and one >of the lower treads was loose which when pushed aside and raised, disclosed this pit or trap dug in the basement to a depth of from eighteen inches to two feet.
+At the trial the defendant admitted that she had said to the officers, “it was my liquor.” She then proceeded to explain that the liquor had been brought on the premises by various guests as presents for the wedding of the defendant’s brother, which allegedly had taken place three weeks prior to the arrest. This brother was not in court and was not called to testify, although he was a resident of the County of Philadelphia at the time of the trial.
+The jury convicted the defendant of the charge set forth in the second count of the bill of indictment. There was no testimony in support of the first count and the court so instructed the jury.. The case was submitted to the jury in a very comprehensive charge. The jury returned a verdict of guilty.
+Twenty-six assignments of error have been filed on behalf of appellant.' No purpose would be served by considering or answering them seriatim. As stated by Mr. Justice Steen in Commonwealth v. Giacobbe, 341 Pa. 187, 19 A. 2d 71: “A multiplicity of assignments of error is usually an indication of weakness.” The essence of the argument on appellant’s behalf is the alleged prejudicial attitude of the trial judge.
+According to the testimony of John P. McEleise, an enforcement officer with the Pennsylvania Liquor Control Board, the defendant at the time of the arrest stated: “I had the liquor.” When questioned relative to her husband, she said they lived there with her mother, but that he did not have anything to do with the liquor. J. Y. McCool, an enforcement officer of the Pennsylvania Liquor Control Board testified that “When we first found the liquor, Susie Palmer (the defendant) said the liquor was hers. Wé asked where her husband was and she said we did not need to bring him into it, that he was not there. We tried to find her husband but were unable to do so and we placed Susie Palmer under arrest.” In testifying on her own behalf defendant stated, “I said it was my liquor.” Sabatino Ficcadente, father of the appellant, called as a witness on her behalf, testified that he used the alcohol for rubbing purposes, and that the contents of certain bottles that were found there were presents for the wedding.
+After discussing the nature of the offense charged, and stating the burden on the Commonwealth to establish the same beyond a reasonable doubt in order to convict, and giving the effect of character testimony, the court, in charging the jury, stated: “In the last analysis you have to pass judgment on the issue in the case. The issue in this case is — did the defendant, whether by herself exclusively or with other people, if she participated at all in the matter — did she have possession in her home of the intoxicating liquors testified to in the case, without the State seals! and without the license tax paid for them. Did she or did she not?
+“In considering that you will consider the testimony of the three enforcement officers — two State and one Federal; consider her statement of the situation and her father’s and the testimony of the witnesses who testified to her reputation as being a law abiding citizen. From it all together you will make your finding. If after considering all these elements you are satisfied beyond a reasonable doubt that the defendant had possession of the liquor charged, you will say guilty. If you are not so satisfied then you will say she is not guilty.”
+The charge of the court must be considered as a whole. Under the testimony of the defendant herself that she had said the liquor was hers, and the further testimony that the containers were not sealed and that no tax had been paid, and the manner in which the liquor was concealed under the steps, we do not think that anything contained in the charge could have prejudiced the jury against the defendant under the admitted facts. No other verdict could have been rendered.
+The assignments of error are overruled and; judgment affirmed. It is further ordered that the defendant appear in the court below at such time as she may be there called and that she be by that court committed until she has complied with the sentence or any part of it which had not been performed at the time the appeal in this' case was made a supersedeas.
