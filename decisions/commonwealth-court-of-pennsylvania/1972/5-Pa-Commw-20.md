@@ -1,0 +1,42 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 814 C.D. 1971"
+decided: "1972-02-29"
+citations: ["5 Pa. Commw. 20"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Kramer and Mencer, sitting as a panel of three."]
+parties: ["Poisson v. State Harness Racing Commission."]
+source_url: "https://static.case.law/pa-commw/5/cases/0020-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1849320
+cites_cases: ["1 Pa. Commonwealth Ct. 151", "166 A. 2d 96", "187 A. 2d 655", "194 Pa. Superior Ct. 278", "209 Pa. Superior Ct. 37", "224 A. 2d 811", "274 A. 2d 261", "409 Pa. 526"]
+---
+
+# Poisson v. State Harness Racing Commission
+
+## Majority (Judge Crumlish, Jr.,)
+
+Opinion by
+Judge Crumlish, Jr.,
+Clement B. Poisson, appellant, appeals an adjudication and order of the State Harness Racing Commission dated August 27, 1971, which suspended his license as an owner, trainer and driver for one year. This adjudication and order was entered after hearing held on August 24, 1971. Appellant was present and. was represented by counsel.
+The Commission found that appellant had violated Rule 18, §5(b) and Rule 20, §9(b) of the Rules and Regulations of the Pennsylvania State Harness Racing Commission by driving his rig intending not to win an Exacta race on May 28, 1971. The Commission found further that appellant had violated Rule 20, §9(b) in that he had either placed a bet on the Exacta or had caused a bet to be placed on another horse competing with him.
+The Commission’s findings were based on the testimony of two officials of the State Harness Racing Commission who investigated the particular race in question and on the testimony of other people who were present during conversations. in which appellant participated. They testified that Poisson admitted that he had not raced to win in that particular race. The record also shows Poisson had alluded to the payoff price on the Exacta race.
+Appellant contends that this is insufficient evidence upon which to support a finding that he violated the rules. Appellant further contends that the Commission cannot impose a penalty greater than that imposed by the local Judges, since even if a violation is shown, it is an abuse of discretion to impose a penalty of this severity.
+We are of the opinion that it was not an arbitrary and unreasonable determination by the Commission in finding violations of the rules. We do believe, however, that the penalty should be modified.
+The disposition of this appeal is governed by the Administrative Agency Law, Act of June 4, 1945, P. L. 1388, §44, 71 P.S. §1710.44. The scope of review of this Court in actions under that act is limited to a determination of whether the adjudication of the agency was an abuse of discretion or not in accordance with the law. See Blairsville Nat. Bank v. Myers, 409 Pa. 526, 187 A. 2d 655 (1963); Pennsylvania Human Relations Commission v. Chester School District, 209 Pa. Superior Ct. 37, 224 A. 2d 811 (1966).
+As stated by Judge Mencer in Commonwealth v. Webb, 1 Pa. Commonwealth Ct. 151, 156, 274 A. 2d 261 (1971), “[t]his Court [must] affirm the adjudication . . . unless it was not in accordance with law or was an arbitrary, capricious or unreasonable determination due to the absence of substantial evidence to support the findings.”
+Rule 18, Section 5(b) of the Rules and Regulations of the Pennsylvania State Harness Racing Commission provides: “In the event a drive is unsatisfactory due to lack of effort or carelessness, and the Judges believe that there is no fraud, gross carelessness, or a deliberate inconsistent drive they may impose a penalty similarly under this sub-section.”
+Rule 20, Section 9(b) provides: “The Commission may impose the penalties prescribed by law if it finds that the experience, character or general fitness of any person is such that his or their participation in harness racing or related activities would be inconsistent with the public interest, convenience or necessity or with the best interest of racing generally.”
+The Commission has determined that the admissions to officials by appellant that he had not raced to win and the testimony of those who heard appellant make these remarks were sufficient to support a finding that appellant had in fact violated these two sections. We here hold that it was not unreasonable to conclude that appellant had violated these sections.
+This finding was in and of itself a sufficient basis for the imposition of a penalty. But the Commission, however, found yet another violation of Rule 20, Section 9(b) because of testimony heard that the appellant had in some way received some or all of the Exacta winning money. Based on this testimony, the Commission made a conclusion of law that appellant “. . . either placed a bet on the Big E (Exacta) or caused a bet to be placed on a horse other than his own in a race in which he competed . . . .” We think that the testimony in the record does not support such an absolute conclusion.
+The witnesses who testified to the conversation in which appellant alluded to the money also said that there was a very good possibility that these statements were in jest. Poisson, upon interrogation, specifically denied ever having received any of the Exacta payoff and also asserted that he had been joking at the time.
+We recognize the importance of the function of the Commission, especially in an area where public confidence is so necessary to the success of the operations. The sport, because of its very nature, offers an extraordinary opportunity for private individuals to manipulate its operation to their own advantage. In view of the paramount need for the prevention of this potentiality, it is important that the Commission maintain its vigilance and to proceed vigorously against those who despoil this special trust. But consistent with our system of jurisprudence, the heavy hand must be guided and controlled at all times by adequate supportive evidence.
+The rule is that the substantial evidence required to support the findings of an administrative agency must be such relevant evidence which a reasonable mind might accept as adequate to support a conclusion. There must be more required than a mere scintilla of evidence or suspicion of existence of a fact it seeks to establish. Erie Resistor Corp. v. Unemployment Compensation Board of Review, 194 Pa. Superior Ct. 278, 166 A. 2d 96 (1961). An absolute conclusion of law that appellant had bet on the race or had caused a wager to be made is not warranted by the evidence herein presented.
+Appellant argues that the Commission may not impose additional penalties over those imposed by the local (racing) judges. This is lame and must fall. Moreover, this argument was not raised before the agency notwithstanding Section 42 of The Administrative Agency Law, 71 P.S. §1710.42 provides that a “. . . party may not raise upon appeal any other question not raised before the agency . . . .” Furthermore, the Act of December 22, 1959, P. L. 1978, §§9, 10, 15 P.S. §§2609, 2610, gives the Commission the power to suspend and revoke licenses and impose penalties independent of any action taken by the local judge or judges.
+Although the conclusion is amply supported that appellant committed a violation of the rules, we are of the view that the penalty imposed should be modified since it was in part based on the advanced but unproven contention that appellant had received the winnings on the Exacta.
+Section 44 of the Administrative Agency Law, 71 P.S. §1710.44 provides that on appeal, “If the adjudication is not affirmed, the court may set aside or modify it in whole or in part . . . .” Suspension for one year from racing in this jurisdiction is, as we see it, based in part on the erroneous conclusion of law. It is so strong that in addition to its effect on Ms operation here it prevents him from operating in other jurisdictions. We believe the suspension period should be reduced to five months. Accordingly, we issue the following
+Order
+And Now, this 29th day of February, 1972, the adjudication and order of the State Harness Racing Commission is hereby modified and it is ordered that the period of suspension of the license of Clement P. Poisson be reduced from one year to a period of five months.
+The local judge had imposed a ten day suspension for lack of effort in the race in question.
