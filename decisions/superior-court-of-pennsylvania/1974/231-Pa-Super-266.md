@@ -1,0 +1,40 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 660"
+decided: "1974-12-11"
+citations: ["231 Pa. Super. 266"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Watkins, P. J., Jacobs, Hoffman, Cercone, Price, Van der Voort, and Spaeth, JJ."]
+parties: ["Commonwealth v. Jenkins, Appellant."]
+source_url: "https://static.case.law/pa-super/231/cases/0266-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 816722
+cites_cases: ["143 Pa. Superior Ct. 203", "17 A. 2d 698", "222 A. 2d 902", "237 A. 2d 192", "276 F. 2d 914", "301 A. 2d 856", "305 P. 2d 1", "318 A. 2d 327", "358 U.S. 646", "405 U.S. 927", "423 Pa. 8", "428 Pa. 281", "450 F. 2d 1057", "451 Pa. 81", "456 Pa. 365", "47 Cal. 2d 566"]
+---
+
+# Commonwealth v. Jenkins
+
+## Majority (Hoffman, J.,)
+
+Opinion by
+Hoffman, J.,
+Appellant contends that there was insufficient evidence to sustain his conviction under The Controlled Substance, Drug, Device and Cosmetic Act.
+C. Patrick Murray, a narcotics agent, testified that, while standing on a street corner, he observed Ernest Welch, an informant who worked with the Williamsport Police and was accompanying Murray that day, conversing with someone in appellant’s car. The informant left appellant’s car and went to talk to Agent Murray. Agent Murray asked the informant to make a deal for fifteen bags of narcotics at ten dollars a bag. The informant returned to appellant’s car and again engaged in conversation.
+Later, Agent Murray and the informant went to Kelly’s Bar on Fourth Street. The informant went over to talk to appellant, who was sitting at a table with a person identified as Mark Monastro. The informant returned to Agent Murray, who gave him $120. The informant then entered the men’s room, followed by Monastro. A few minutes later the informant returned to Agent Murray and handed him a packet which contained ten bags of hydromorphinol.
+The Commonwealth contended at trial that appellant had given the bags to Monastro, who gave them to the informant, who handed them to Agent Murray. Agent Murray was the only one of the four parties to testify in court to the transfer of the bags. The informant was not called as a witness by either attorney, apparently because he could not be located at the time of the trial. Monastro and appellant testified that they had been in the bar, but denied that they had participated in the drug transaction.
+Agent Murray did not testify that he saw appellant transfer the hydromorphinol to Monastro. Nor did he see Monastro deliver the drugs to the informant. He did not actually see the drugs until the informant handed them to him.
+On returning to the police station, Agent Murray discovered that he had been shortchanged and had received only ten bags, rather than the twelve which he had expected for $120. Agent Murray left the police station and located appellant at the Twenty-One Bar. Agent Murray testified that he told appellant that he was two bags short of the twelve that he had paid for. Agent Murray further testified that the appellant replied, “I don’t see how that can be.” Agent Murray stated that appellant added “I owe the man two bags,” and promised to have them on Monday.
+Agent Murray visited appellant at his house on the following Thursday in an attempt to receive the two bags. Agent Murray testified that appellant stated that “I don’t keep anything in my crib,” and “You got to cop for me on the corner.” Appellant never gave Agent Murray the missing two bags.
+Appellant was convicted by a jury of possession of a controlled substance with intent to deliver, and delivery of a controlled substance. He was sentenced to two to five years’ imprisonment. This appeal was talien from the denial of appellant’s post-trial motions.
+Appellant makes two arguments in our Court. He claims that the evidence introduced by the Commonwealth was insufficient to convict him. Appellant also contends that the ten bags of hydromorphinol were improperly introduced into evidence.
+In order to prove possession,' the Commonwealth must establish that appellant had both the power of control over the bags, and the intent to exercise that control. Commonwealth v. Townsend, 428 Pa. 281, 237 A. 2d 192 (1968). Mere presence at the scene of the crime is not sufficient. Commonwealth v. Garrett, 423 Pa. 8, 222 A. 2d 902 (1966). Nevertheless, the finding of possession may be based on “a consideration of the totality of the circumstances. . . .” Commonwealth v. Fortune, 456 Pa. 365, 369, 318 A. 2d 327 (1974). Although Murray’s testimony as to what occurred in Kelly’s Bar may have been insufficient to establish appellant’s possession or sale of the hydromorphinol, that deficiency was cured by appellant’s admissions, testified to by Murray, that he had participated in the Kelly’s Bar transaction and had been the principal behind the sale of the bags to Murray. It was within the province of the jury to believe these admissions and disbelieve appellant’s account of the same conversations.
+Appellant also contends that the lower court erred in admitting into evidence the ten bags of hydromorphinol without calling as a witness every person who may have handled the bags after they left appellant’s hands to testify to the chain of custody.
+The admission of demonstrative evidence is a matter committed to the discretion of the trial court. Commonwealth v. Ford, 451 Pa. 81, 301 A. 2d 856 (1973). The Commonwealth need not discount every hypothetical possibility of tampering with the evidence, but need only trace the chain of custody “insofar as this was possible. . . .” Commonwealth v. Greenberg, 143 Pa. Superior Ct. 203, 215, 17 A. 2d 698 (1941). “There is no rule requiring the prosecution to produce as witnesses all persons who were in a position to come into contact with the article sought to be introduced in evidence.” Gallego v. United States, 276 F. 2d 914, 917 (9th Cir. 1960). Physical evidence may be properly admitted despite gaps in testimony regarding custody. United States v. De Larosa, 450 F. 2d 1057 (3d Cir. 1971), cert. denied, 405 U.S. 927, 957. Moreover, it appears that the period of tracing of custody begins only when the evidence is “found at the scene of the crime,” People v. Riser, 47 Cal. 2d 566, 577, 305 P. 2d 1, 8 (1956), cert. denied, 358 U.S. 646, not necessarily when it leaves the defendant’s hands. See also Commonwealth v. Greenberg, supra, and United States v. De Larosa, supra. The question of what may have happened to the bags at the scene of the crime goes to the sufficiency of the evidence, not to the chain of custody question.
+Murray testified that he took possession of the ten bags at the scene of the crime. At the police station, Murray turned the bags over to Walter Williams of the Pennsylvania Bureau of Drug Control, who tested the contents. Williams testified that he gave the bags, in a sealed container, to another agent, David Dows. Mary Williard, a chemist, testified that she received the bags, still in the same sealed container, from Dows. Dr. Williard testified that she returned the container to Williams, who brought it into the courtroom and testified that it was the same container which he had originally sent to Dr. Williard. Thus, it appears that the Commonwealth has satisfactorily traced a chain of custody starting at the scene of the crime and ending in the courtroom.
+Judgment of sentence affirmed.
+Act of April 14, 1972, P. L. 233, No. 64, §1 et seq., as amended, 35 P.S. §780-101 et seq.
+Hydromorphinol, an opium derivative, is a Schedule I controlled substance and a narcotic. The Controlled Substance, Drug, Device and Cosmetic Act, supra, §2, §4(1) (ii), 35 P.S. §780-102, §780-104(1) (ii).
+The Controlled Substance, Drug, Device and Cosmetic Act, supra, §13(a) (30), (f)(1), 35 P.S. §780-113(a) (30), (f)(1).
+See Commonwealth v. Ford, supra, 451 Pa. at 84, 301 A. 2d at 857: “Tlie fact that the knife could not be positively identified affects the weight of such evidence, but not its admissibility.”
