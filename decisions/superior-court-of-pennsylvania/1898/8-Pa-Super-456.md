@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 110"
+decided: "1898-10-10"
+citations: ["8 Pa. Super. 456"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Wick-ham;, Beaver, Reeder, Orlady, Smith and Porter, JJ."]
+parties: ["W. L. Peart, Administrator of R. H. Reedy, Appellant, v. Daniel J. Reedy."]
+source_url: "https://static.case.law/pa-super/8/cases/0456-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 286961
+cites_cases: ["128 Pa. 183", "137 Pa. 385", "148 Pa. 541", "33 Pa. 268", "41 Pa. 97", "43 Pa. 207", "5 W. & S. 486", "7 Pa. 100", "78 Pa. 100", "97 Pa. 361"]
+---
+
+# Peart v. Reedy
+
+## Majority (Beaver, J.,)
+
+Opinion by
+Beaver, J.,
+The children of Daniel Reedy made amicable partition of the real estate of their father among themselves. In pursuance thereof, the defendant gave mortgages to his brother and sisters to secure the amount of the difference in value between the portions of said real estate taken by himself and them respectively. The present action is a scire facias upon one of those mortgages. It is alleged that, after the mortgages were given and on the day upon which they were acknowledged, a family meeting was held, in which it was agreed that the defendant should be allowed out of the estate of his father $800 for services rendered by him to his father after he reached his majority, of which said sum his brother and sisters should each pay the sum of $200, making with Ms own share the entire amount. The mortgage upon wMch this scire facias was issued was admittedly paid, except $200, so that, if the alleged family arrangement were actually made and the agreement were bmding upon the mortgagee, there could be no recovery.
+Was such an agreement made? This was the controlling fact in the case and was found by the jury in favor of the defendant. If it was, it was a family agreement — not an agreement between the defendant and his brother. As was observed by Mr. Cliief Justice Thompson in Shartel’s Appeal, 64. Pa. 25: “All compromises and settlements by families are maintained not only as beneficial to themselves but the law seeks to sustain them as conducing to peace and harmony where it ought most especially to exist.” The testimony as to the family agreement was clear and the acts of the sisters of the defendant, as shown by their receipts upon the mortgages given by the defendant to them, were corroborative of the oral testimonj- upon the subject. In the case above cited, the acts of the other heirs M failmg to make complaints in regard to the distribution are spoken of as strengthening the presumption that the said distribution was fairly and honestly made. The acts of the other heirs in carrying out the agreement alleged to have been made for the compensation of the defendant for the services rendered to his father, after he attained his majority, were, we think upon the same principle, competent testimony as to the fact of such an agreement having been made. They would, of course, have been irrelevant, if the alleged agreement had been an independent one made between the defendant and the brother whose administrator sued out the scire facias upon the mortgage. They were offered as part of the res gestee and, the real question being the family agreement, we think they were properly admitted as such.
+The alleged agreement was made about the time the administrator had settled the estate of the father. Whether or not he had funds in his hands out of which the claim of the defendant could have been paid does not appear, but undoubtedly the real estate in the hands of the heirs would have been ultimately liable for the claim of the defendant, whether there were funds in the hands of the administrator out of which it could have been paid or not. There was, therefore, a good and* valuable consideration for the agreement. If the agreement were actually made, as the jury has found, it was equivalent to a payment upon the mortgage and the failure of the mortgagee to credit it did not in any sense invalidate the agreement. An acknowledgment of payment upon a mortgage in parol is, of course, landing upon the person making the acknowledgment and is not, in any sense, equivalent to a release of a mortgage, by which we understand the release of the lien of a mortgage is meant. The statute of limitations did not apply, inasmuch as it was not an agreement to pay but an acknowledgment of payment on account of the mortgage.
+This disposes of all of the assignments of error, except the seventh, as to which it may be said that the charge of the court is not open to serious objection for failure to call the attention of the jury to the evidence of the plaintiff in rebuttal. This testimony did not in any way seriously deny the agreement under which the defendant claimed the payment of $200. It all related to the failure of the defendant to claim the credit, after the death of his brother and at the first interview with the administrator in regard to the balance due. It was before the jury for their consideration and the effect of it was not in any sense minimized by the court. The jury may have believed, as they could reasonably have done, that the defendant’s explanation of his failure to claim the credit at the first effort at settlement was probable and that his conduct was not inconsistent in any way with the alleged agreement.
+All things considered, we think the case was fairly submitted to the jury and' that their finding should not be disturbed.
+Judgment affirmed.
