@@ -1,0 +1,20 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "592"
+decided: "1980-08-01"
+citations: ["288 Pa. Super. 584", "428 A.2d 672"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before BROSKY, WICKERSHAM and ROBERTS, JJ."]
+parties: ["In the Interest of DeBooth, Appellant."]
+source_url: "https://static.case.law/pa-super/288/cases/0584-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 165943
+---
+
+# In re DeBooth
+
+## Majority
+
+Adjudication and disposition affirmed.
