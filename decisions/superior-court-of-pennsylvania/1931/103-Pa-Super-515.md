@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 317"
+decided: "1931-11-20"
+citations: ["103 Pa. Super. 515"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Tkexler, P. J., Keller, Lmisr, Gawthrop, Cunningham and Baldrige, JJ."]
+parties: ["Green v. Hiestand Bros. et al., Appellant."]
+source_url: "https://static.case.law/pa-super/103/cases/0515-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 697212
+cites_cases: ["271 Pa. 265", "273 Pa. 85", "289 Pa. 401", "76 Pa. Superior Ct. 335"]
+---
+
+# Green v. Hiestand Bros.
+
+## Majority (Cunningham, J.,)
+
+Opinion by
+Cunningham, J.,
+Between seven and eight o’clock on the evening of July 9,1930, the body of John E. Green was found beside his automobile in a garage rented by him in the rear of No. 236 S. 54th Street, Philadelphia. The hood over the engine was raised, tools were scattered around and Green was wearing overalls when his death, admittedly caused by accidentally inhaling carbon monoxide gas, occurred. For twenty-five years he had been employed as a salesman by Hiestand Brothers, dealers in bakers’ and confectioners’ supplies ; the scope of his employment was to travel weekly over a route in Philadelphia and New Jersey, visiting a dozen or more bakers or confectioners each day, making sales and collections for his employers. His dependent widow, Flora E. Green, claimed compensation ; the compensation authorities found certain facts, hereinafter referred to, and from them drew the inferences (a) that her husband was obliged to use his automobile in calling on his customers and (b) that at the time of the accident he was repairing the car in order to complete his employment for that day and was therefore then in the course of his employment and actually engaged in the furtherance of the business or affairs of his employers, although off their premises. The compensation provided by the act was accordingly awarded; the employers and their insurance carrier appealed to the common pleas, alleging that the compensation authorities should have concluded from the evidence that Green had finished his employment for that day and was engaged about his own affairs when stricken; that tribunal dismissed the appeal and entered judgment on the award; hence this appeal by the employers and their insurance carrier from that judgment.
+There was competent evidence to support these findings of fact. Other salesmen for Hiestand Brothers, as well as Green, had routes so extended as to require some means of transportation; each of them had his own car and was given an allowance of $10. per week for expenses, including the operation of a car, and received his substantial compensation in the form of commissions on sales. Decedent’s wife was away from home during July, 1930, and he boarded at the home of a neighbor, William J. Broadbeck, who saw him preparing for business as usual at 8:30 on the morning of Wednesday, July 9th. At ten o’clock he called on Vincent Malanik, a baker, living in Oakview, who testified that Green “was jolly and happy like always” but said his “car was not working right......and he would have to get new spark plugs.” About two o’clock he called on a baker at 23rd and McKean Streets and at three was seen going into his garage. One of his customers during the past five years was the Noel Bakery at 1524 N. Second Street. Green sold them all their supplies and called on them each Wednesday bétween three and five to collect. He had called as usual the preceding Wednesday and was expected on the 9th to collect for an order given him by telephone on the 7th. With respect to decedent’s duties in concluding each day’s work E. E. Hiestand testified: “Q. Did he [Green] have any time when he had to report to you? A. He invariably reported at anywhere from 4 to 5:30.......Q. It was part of his duty and he was required by you to come in the office at the end of every business day? A. Yes. Q. When he had finished? A. Yes, with the exception on Saturday once in a while he did not need to come in.” This witness stated further that when Green neither came in nor telephoned that day he waited until six o’clock and then phoned the Noel Bakery as he knew Green intended to call there that afternoon. Upon learning he had not been there he went with his son to the Broadbeck home and found they were waiting for Green to come for his supper; the son went to Green’s garage and found his body.
+We think the only legitimate inferences to be drawn from these facts are that the decedent’s employment for July 9,1930, had not been terminated at the time of his accidental death and that the accident happened while he was repairing an instrumentality (necessary to the proper rendition of the services required of him) preparatory to going to the Noel Bakery to make a collection for his employers. The compensation authorities were therefore warranted in making an award to the claimant upon the ground that her husband was at the time of the accident actually engaged in the furtherance of the then uncompleted business or affairs of his employers and the court below committed no error in dismissing the appeal from that award.
+Judgment affirmed.
