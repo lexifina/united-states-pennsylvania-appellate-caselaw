@@ -1,0 +1,60 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 74 T.D. 1984"
+decided: "1985-10-11"
+citations: ["92 Pa. Commw. 205"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail and Colins, and Senior Judge Kalish, sitting as a panel of three."]
+parties: ["Carolyn Hayes, in her own right and as Administratrix of the Estate of Glenn Hayes, Deceased, and Glenn Hayes, Jr., a minor, by Carolyn Hayes, his mother and natural guardian v. Philadelphia Electric Company, Commonwealth of Pennsylvania, County of Montgomery and Borough of Norristown. Philadelphia Electric Company, Appellant."]
+source_url: "https://static.case.law/pa-commw/92/cases/0205-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1340859
+cites_cases: ["103 A.2d 759", "163 A.2d 297", "174 Pa. 84", "252 Pa. Superior Ct. 422", "309 Pa. 130", "335 Pa. Superior Ct. 599", "337 Pa. Superior Ct. 204", "337 Pa. Superior Ct. 274", "34 A. 456", "356 Pa. 554", "376 Pa. 489", "394 F. Supp. 595", "492 A.2d 1204", "52 A.2d 215", "576 F. Supp. 6", "720 F.2d 662", "89 Pa. Commonwealth Ct. 596"]
+---
+
+# Hayes v. Philadelphia Electric Co.
+
+## Majority (Judge Colins,)
+
+Opinion by
+Judge Colins,
+Philadelphia Electric Company (PECO) appeals an order of the Montgomery County Court of Common Pleas granting a Motion for Summary Judgment foi* the County of Montgomery and the Borough of Norristown and denying the motion for the Commonwealth of Pennsylvania.
+Glenn Hayes, Sr. (deceased), was fishing on a dam on the Schuylkill River located between Norristown and Bridgeport when he slipped and fell into the river and drowned. Carolyn Hayes, administratrix of the estate of the deceased, brought an action against PECO, the Commonwealth of Pennsylvania, the County of Montgomery and the Borough of Norristown.
+PECO is alleging that summary judgment should not have been granted to the Borough of Norristown because it was negligent in the care, custody or control of real property in its possession. The property in question is a driveway leading to the Schuylkill River that was to be constructed on PECO property for the purpose of providing a route of access to the River for fire fighting purposes. PECO claims that an agreement, in the form of a letter dated November 21, 1941, between Norristown and PECO created an easement, and that the deceased crossed the driveway that is under Norristown’s control to reach the dam. The pertinent part of the letter reads as follows :
+Gentlemen:
+In keeping with your request we hereby give you permission at your own risk and expense to construct a driveway across our property on the north side of Swede Street at a convenient location to be agreed upon between our former power plant building and the Schuylkill Eiver, for the purpose of providing a route of access to the river for fire fighting equipment for the purpose of withdrawing water from the river,
+provided that the driveway shall be laid out and constructed without cost to this Company, and that you will save harmless and indemnify this Company from and against any and all claims ■for any damages of whatsoever kind or nature arising in any manner or under any circumstances through the exercise of the permission hereby given. Provided, further, that this permission may be revoked at any time by our Company sending you five days written notice to that effect.
+PECO contends that since the letter created an easement, Norristown falls under one of the exceptions to tort immunity conferred upon local governments by the Act of October 5, 1980, 42 Pa. C. S. §§854l-85'64. These exceptions can be found at 42 Pa. C. S. §8542(b), and the relevant exception for our purposes provides in part:
+(b) Acts which may impose liability.—
+The following acts by a local agency or any of its employees may result in the imposition of liability on a local agency:
+(3) Beal Property. — The care, custody or control of real property in the possession of the local agency, except that the local agency shall not be liable for damages on account of any injury sustained by a person intentionally trespassing on real property in the possession of the local agency. . . .
+We disagree with PECO’s allegations and affirm the Montgomery County Court of Common Pleas.
+The deceased was alleged to have fallen from the dam into the Eiver. PECO admits ownership of the dam. Norristown does not control or own the dam, the property in question, or the Eiver. Therefore, the trial court was proper in granting summary judgment as to Norristown since there was no genuine issue of fact as to the care, custody or control of the property where the injury allegedly occurred. Accordingly, Norristown does not fall under the exception found at 42 Pa. C. S. §8542(b)(3), and instead immunity is conferred pursuant to 42 Pa. C. S. §8541.
+Assuming arguendo that the letter created an easement and the property abutting the dam was under the care, custody or control of Norristown, summary judgment would still be appropriate since the deceased would have trespassed across the driveway to reach the dam. Once again, Norristown would not be liable under the exception to immunity found at 42 Pa. C. S. §8542(b) (3). As stated in Kearns v. Rollins Outdoor Advertising, Inc., 89 Pa. Commonwealth Ct. 596, 600, 492 A.2d 1204, 1206 (1985).
+Indeed, case law supports our conclusion that one who has suffered injuries as the result of encountering a hazardous artificial condition on another’s land cannot recover damages from the owner of the land over which he passed to reach the land on which the dangerous condition existed. Malischewski v. Pa. R.R. Co., 356 Pa. 554, 52 A.2d 215 (1947); Magner v. Baptist Church, 174 Pa. 84, 34 A. 456 (1896); Heller v. Consolidated Rail Corporation, 576 F. Supp. 6 (E.D. Pa. 1982), aff’d, 720 F.2d 662 (3d Cir. 1983); Cousins v. Yaeger, 394 F. Supp. 595 (E.D. Pa. 1975).
+, It, is clear from the pleadings that the administra- ' trix is alleging that the dam was unsafe, not the driveway leading to the dam; therefore, for the reasons set forth above, the order of the Montgomery County Court of Common Pleas is affirmed.
+Order
+And Now, October 11, 1985, the order of the Court of Common Pleas of Montgomery County in the above-captioned matter, dated April 15, 1983, is hereby affirmed.
+There is no evidence in the record that would indicate that a driveway leading to the dam was constructed. PECO maintains that the deceased traversed the driveway; however, no evidence was presented to show that the deceased used the driveway to reach the dam.
+A copy of this letter was first presented to the Court of Common Pleas on March 30, 1983, the date of argument for the
+Motion for Summary Judgment. The letter was not attached to the pleadings. On April 15, 1983, the Court of Common Pleas granted summary judgment as to the Borough of Norristown and Montgomery County and PECO appealed. On July 11, 1983, the Court of Common Pleas issued an opinion affirming the granting of summary judgment.
+42 Pa. C. S. §8541, reads as follows:
+Except as otherwise provided in this subchapter, no local agency shall be liable for any damages on account of any injury fo a person or property caused by any act of the local agency or an employee thereof or any other person.
+The Commonwealth of Pennsylvania holds title to the Schuylkill River. Philadelphia v. Philadelphia Suburban Water Co., 309 Pa. 130, 163 A.2d 297 (1932).
+Since PECO, the owner and possessor of the property, gave Norristown permission to use it as a driveway, and since the agreement was revocable at will by PECO, the letter did not convey an . interest in real property, but created a mere license. See Puleo v. Bearoff, 376 Pa. 489, 103 A.2d 759 (1954).
+
+## Dissent (Senior Judge Kalish:)
+
+Dissenting Opinion by
+Senior Judge Kalish:
+I respectfully dissent. The complaint alleges that decedent was fishing from a dam located on the Schuylkill River. He fell into the river and drowned. The complaint alleges that Philadelphia Electric Company (PECO), the Borough of Norristown (Borough), Montgomery County (County), and the State of Pennsylvania (State) controlled, operated and supervised the dam and surrounding land area; that they had a duty to exercise such care that no one was injured; and that all knew of the dangerous condition which created a foreseeable risk of harm.
+The Borough, County and State sought summary judgment, which was granted as to the Borough and the County. PECO appeals the granting of summary judgment as to the Borough.
+A motion for summary judgment may be granted only if there is no issue as to any material fact and the moving party is entitled to judgment as a matter of law. Mariscotti v. Tinari, 335 Pa. Superior Ct. 599, 485 A.2d 56 (1984); Carollo v. Forty-Eight Insulation, Inc., 252 Pa. Superior Ct. 422, 381 A.2d 990 (1977). Pa. R.C.P. No. 1035(a).
+The court must examine the record in the light most favorable to the nonmoving party and resolve all doubts against the moving party. Mariscotti. Summary disposition is permitted only in the clearest of cases. Huffman v. Aetna Life & Casualty Co., 337 Pa. Superior Ct. 274, 486 A.2d 1330 (1984); Richland Mall Corp. v. Kasco Construction Co., 337 Pa. Superior Ct. 204, 486 A.2d 978 (1984).
+One of the issues involved in this case is whether the Borough is immune from liability either under the Schuylkill Scenic River Act, Act of November 26,1978, P.L. 1415, 32 P.S. §§820.31-820.38 or the Recreation TJse of Land and Water Act, Act of February 2, 1966, P.L. (1965) 1860, 68 P.S. §§477-1-477-8. To some extent this involves a factual determination. In this connection the plaintiffs have requested the defendant ■Borough to produce all documents relating to the dam but have not yet received any map or document that would indicate whether the access route is covered under the Schuylkill Scenic River Act.
+While it is clear from the record that PECO owned the dam and the surrounding area, PECO did enter into an agreement granting the Borough permission to construct a road over its land in order to reach the river for firefighting purposes. In return the Borough promised to indemnify PECO for any claims arising out of the exercise of this permission. The record shows that a fence was constructed across this access road but that at the time of the accident it was rolled back, and there is some indication that the decedent may have used this road to gain access to the dam. Whether this road is deemed to be an easement or a license, the Borough did have a possessory interest, and by contract assumed liability for all claims arising out of the use of the road.
+. An exception to governmental immunity is found in section 8542(b)(8) of the Political Subdivision Torts Claim Act, 42 Pa. C. S. §8542 (b)(3), which • states that a local agency may be liable for activities involving “care, custody or control of real estate in possession of the local agency.” On the date of the accident, the Borough was in possession of this road and the route of access to the river. In this connee- . tion, by affidavit, the plaintiffs aver that discovery is still pending to ascertain such material facts bearding on the issue of liability as inspections, warning • signs,. repairs, construction and maintenance of the fence. Furthermore, even if the Borough originally was under no obligation to make repairs, yet undertook to do so, and did so negligently, there may be liability under the Restatement (Second) of Torts §323 (1964). The Borough would fall under the exception to immunity found in 42 Pa. C. S. §8542(b) (3).
+Buie 1035(e) provides, “Should it appear from the affidavits of a party opposing the motion that he cannot for reasons stated, present by affidavit facts essential to justify his opposition, the court may refuse the application for judgment. ...” Pa. B.C.P. No. 1035(e).
+Thus, numerous issues of fact remain unresolved concerning the liability of the Borough and for that reason I would oppose summary judgment as to it.
