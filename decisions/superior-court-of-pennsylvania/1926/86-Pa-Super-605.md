@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 51"
+decided: "1926-02-26"
+citations: ["86 Pa. Super. 605"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before P'ortee, Henderson, Trexler, Keller, Linn ■and G-awthrop, JJ.", "Before Brown, J., without a jury."]
+parties: ["Hirsch v. Singer, Appellant."]
+source_url: "https://static.case.law/pa-super/86/cases/0605-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 569933
+cites_cases: ["127 Fed. 917"]
+---
+
+# Hirsch v. Singer
+
+## Majority (Kelleb, J.,)
+
+Opinion by
+Kelleb, J.,
+The action was in assumpsit. The plaintiff claimed for money lent the defendant. From the evidence on the trial it appeared that the plaintiff, a life insurance agent, had secured defendant’s application for a policy of life insurance. When the policy was ready for delivery defendant did not have the money handy to pay the first premium and asked the plaintiff to advance it for him until the following month when he would pay it back. The plaintiff thereupon delivered the policy to defendant and paid the premium to the insurance company, thus putting the insurance contract into effect. The defendant subsequently refused to repay the sum so -advanced, and suit was brought for the amount and interest.
+Two grounds of defense were set up on the trial: (1) That there was a variance between the allegations and proof; the claim being for money lent, whereas the proof was for money laid out and expended; (2) that the transaction was illegal because in violation of sections 635 and 636 of the Act of May 17, 1921, P. L. 789, which prohibit the giving or accepting of rebates and other inducements for insurance, not specified in the policy.
+(1) As to the first ground, Mr. Chitty in his work on Pleading s-aid: “Money lent to the defendant himself on his own credit, may be recovered under the common count for money lent, though delivered to another person at his request” (Vol. 1, p. 360-, 16th Am. Ed.). In Stephenson v. Hardy, 3 Wils. 388 the plaintiff declared for money lent by him to defendant’s wife in Ms absence and at Ms special instance and request. The proof was that defendant being about to set out on a voyage desired the plaintiff to lend his [defendant’s] wife money if she should have occasion for it in his absence, and plaintiff did accordingly lend a certain sum. Commenting on the defense that there could be no recovery under the count for money lent, Lord Chief Justice de G-rey said: ‘ ‘ This is a very poor shift of the defendant to delay the payment of a just debt.......It is admitted if the word advanced had been inserted in the count instead of the word lent, it would have been good. I think [in this case] the word lent is the same as the word advanced.” This language seems appropriate to the present case. The effect of the transaction between the parties was equivalent to a loan of the money to the defendant and a payment of the premium by him to the plaintiff. To effect the result it was not necessary that the money be actually paid by the plaintiff to defendant and then handed back by the latter to the former.
+(2) Nor, in our opinion, is there any merit in defendant’s second position. The transaction, as we view it, did not constitute a violation of the Act of 1921. The plaintiff neither offered nor gave the defendant any rebate or part of his commission or special advantage or inducement not specified in the policy in order to obtain his application or effect the contract of insurance. Section 635 expressly provides, “Nothing in this section shall be construed to prevent the taking of a bona fide obligation, with legal interest, in payment of any premium.” This does not require a construction that the bona fide advancement of the premium, on like terms, without taking a note or other loritten obligation, is illegal, provided there is no rebate of any part of the premium or commission or any other advantage or inducement not specified in the policy promised or given the insured in connection therewith. There was in this ease no agreement that the loan or advancement of the money should be without interest or other special consideration moving to the defendant. In applying the Act much must depend on the circumstances of the case, and in this instance there was nothing shown that would cast suspicion on the good faith of the parties at the time or lead to the conclusion that any violation, direct or indirect, of the Act of 1921 was intended or practiced. The case chiefly relied upon by the appellant (Equitable Life Assurance Society v. Wetherill, 127 Fed. 917) is easily distinguishable. There the agent agreed to pay the first premium on a policy of life insurance ■and did so, and subsequently sought by an action brought in the name of the company to recover the same. As it was proven that the company had received the premium and hence had no valid demand against the insured, a non-suit was properly entered; but Judge Gray said: “The payment made by Eeilly & Sherman [the agents], of the first premium, while it might, perhaps, lay the ground for an indebitatus assumpsit in their own name against Wetherill, [the insured], could not authorize the suit by the Equitable Society itself for an indebtedness that never existed. ’ ’
+The assignments of error are overruled and the judgment is affirmed.
