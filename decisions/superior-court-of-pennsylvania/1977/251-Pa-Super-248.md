@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "334"
+decided: "1977-12-02"
+citations: ["251 Pa. Super. 248", "380 A.2d 471"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WATKINS, President Judge, and JACOBS, HOFFMAN, CERCONE, PRICE, VAN der VOORT and SPAETH, JJ.", "PRICE, J., concurs in the result.", "WATKINS, President Judge, and JACOBS and VAN der VOORT, JJ., dissent."]
+parties: ["COMMONWEALTH of Pennsylvania v. Earl Louis HARRIS, Appellant."]
+source_url: "https://static.case.law/pa-super/251/cases/0248-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 837950
+cites_cases: ["209 Pa.Super. 70", "223 A.2d 885", "232 Pa.Super. 57", "234 Pa.Super. 31", "234 Pa.Super. 498", "235 Pa.Super. 566", "242 Pa.Super. 379", "247 A.2d 226", "250 Pa.Super. 49", "251 Pa.Super. 428", "300 A.2d 78", "331 A.2d 836", "336 A.2d 616", "340 A.2d 483", "344 A.2d 636", "378 A.2d 445", "408 U.S. 471", "411 U.S. 778", "432 Pa. 627", "450 Pa. 310"]
+---
+
+# Commonwealth v. Harris
+
+## Majority (SPAETH, Judge:)
+
+SPAETH, Judge:
+This is an appeal from the revocation of probation. Appellant contends that the revocation hearing violated due process because he was not given written notice of his alleged probation violations as required by Gagnon v. Scarpelli, 411 U.S. 778, 93 S.Ct. 1756, 36 L.Ed.2d 656 (1973), Morrissey v. Brewer, 408 U.S. 471, 92 S.Ct. 2593, 33 L.Ed.2d 484 (1972), and Commonwealth v. Davis, 234 Pa.Super. 31, 336 A.2d 616 (1975).
+On February 8, 1973, appellant pleaded guilty to aggravated robbery and received a sentence of eight years probation with the requirement that he participate in a drug rehabilitation program. Appellant entered the program but after awhile he ran away. On January 30, 1975, he was arrested on charges of simple assault, aggravated assault, and weapons offenses. On March 18, 1975, a probation revocation hearing was held. At appellant’s request, the hearing was continued pending disposition of the new charges. Appellant was convicted of the new charges, and on September 29, 1975, the continued probation revocation hearing was held and probation was revoked.
+This court has held that one requirement of due process is that the probationer be given written notice of the alleged probation violations before his revocation (Gagnon II) hearing. Commonwealth v. Davis, supra. Here, so far as the record discloses, appellant was not given such written notice, either before the first hearing on March 18, 1975, or before the continued hearing on September 29, 1975. In Commonwealth v. Stratton, 235 Pa.Super. 566, 344 A.2d 636 (1975), (JACOBS, J., filed a dissenting opinion in which WATKINS, P. J., joined), the appellant was granted a new probation revocation hearing because there was “no evidence in the record to show that the appellant received written notice.” Id. 235 Pa.Super. at 569, 344 A.2d at 638. This court has also insisted upon written notice in Commonwealth v. Henderson, 234 Pa.Super. 498, 340 A.2d 483 (1975), and Commonwealth v. Alexander, 232 Pa.Super. 57, 331 A.2d 836 (1974).
+This requirement of written notice is a simple, straightforward requirement, which the Commonwealth readily can meet, and must meet. While no one wants the law to be over-technical, experience has shown that sometimes the administration of justice is made not more difficult but easier, and fairer, by insisting that something be done in writing.
+Perhaps the best example is the experience of the courts in trying to decide whether a warrant was issued on probable cause. It used to be that a court would consider not only the written affidavit in support of the warrant but testimony that the issuing authority had been told something not contained in the affidavit. Commonwealth v. Crawley, 209 Pa.Super. 70, 223 A.2d 885 (1966), aff’d per curiam 432 Pa. 627, 247 A.2d 226 (1968). This rule proved unworkable, and was abandoned. Commonwealth v. Milliken, 450 Pa. 310, 300 A.2d 78 (1973); Pa.R.Crim.P. 2003(a) and (b). The reasons were explained by Mr. Justice POMEROY in his dissenting opinion, 450 Pa. at 320, 300 A.2d at 85:
+The record in the present case illustrates the hazards inherent in relying on the memories of those present at the time a warrant is issued. . . . [Ajppellant’s suppression hearing was held more than four months after the challenged search. At the hearing . . . “Detective Barbush was initially unable to recall giving any oral testimony whatsoever. The magistrate, while acknowledging the existence of the sworn oral testimony, admitted that his memory was dimmed . . . ” .
+During a four month period a policeman normally makes numerous search warrant requests to a magistrate who must, in every case, make an independent review of the sworn facts ... To expect officer and magistrate to recall with accuracy at some later time what transpired on each such occasion is to place an impossible burden on the individual officials and an onerous burden on the efficient administration of justice.
+These observations are equally pertinent here. The Commonwealth argues that oral notice to appellant served the same function as written notice. Let us assume for the sake of argument that here it did. The point is that in other cases, which will present other facts, uncertainty will arise, with the result that the accuracy of our determination will be questionable. There will be disputes about what was said, who said it, when and where it was said, whether the probationer heard it — the very sort of disputes that used to arise in the warrant cases. It is entirely unnecessary that this should be so. The Commonwealth need only abide by our rule that the record must contain written notice of the hearing. Commonwealth v. Ballard, 250 Pa.Super. 49, 378 A.2d 445 (1976). See Commonwealth v. Quinlan, 251 Pa.Super. 428, 380 A.2d 854 (dissenting opinion HOFFMAN, J. filed).
+The judgment of sentence is reversed with instructions to conduct another probation hearing, after written notice to appellant of the alleged probation violations.
+PRICE, J., concurs in the result.
+WATKINS, President Judge, and JACOBS and VAN der VOORT, JJ., dissent.
+. In Commonwealth v. Ball, 242 Pa.Super. 379, 363 A.2d 1322, the appellant did not receive written notice before his second probation revocation hearing, which had been granted by this court because at the first hearing “the lower court had not specifically found good cause for not allowing appellant to confront an adverse witness.” This court held, however, that written notice was not necessary because “prior to appellant’s first Gagnon II hearing he received [written] notice that he had violated the terms of his probation.” 242 Pa.Super. at 383, 363 A.2d at 1324 (emphasis added).
+. Mr. Justice POMEROY’S dissent was limited to the majority’s refusal to apply the rule retrospectively.
