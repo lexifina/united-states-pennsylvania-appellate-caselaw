@@ -1,0 +1,20 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 516"
+decided: "1978-11-17"
+citations: ["261 Pa. Super. 629", "396 A.2d 835"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before VAN der VOORT, SPAETH and LIPEZ, JJ."]
+parties: ["Keto et ux. v. Cunningham, Appellant, et al."]
+source_url: "https://static.case.law/pa-super/261/cases/0629-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 110459
+---
+
+# Keto v. Cunningham
+
+## Majority
+
+Order affirmed.
