@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 22 and 23"
+decided: "1943-12-31"
+citations: ["154 Pa. Super. 40"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Baldrigb, Stadtfeld, Bhodes, Hirt and Kenworthey, JJ. (Reno, J., absent)."]
+parties: ["Kaplan et al. v. Brooks, Appellant."]
+source_url: "https://static.case.law/pa-super/154/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1053842
+cites_cases: ["143 Pa. Superior Ct. 507", "149 Pa. Superior Ct. 285", "18 A. 2d 472", "27 A. 2d 750"]
+---
+
+# Kaplan v. Brooks
+
+## Majority (Stadtfeld, J.: Pee Ctjbiam,)
+
+Opinion by
+Stadtfeld, J.:
+This is an action of trespass brought by Alexander Kaplan, a minor, by his guardian and father, Isadore Kaplan, and by the parent plaintiffs in their own right to recover damages for personal injuries sustained by the minor plaintiff and for consequential damages arising out of a collision. No affidavit of defense was filed by the defendant. The case was tried before a jury, which returned a verdict in favor of the minor plaintiff in the sum of $500 and in favor of the parent plaintiffs in the sum of $45. From the refusal of defendant’s motion for judgment non obstante veredicto, this appeal was taken.
+On a clear, sunny afternoon, about 4:30 p. M., on May 13,1941, the minor plaintiff, 14 years of age, was cycling southeastwardly on Upland Way, which runs in a northwesterly and southeasterly direction in Philadelphia. He reached a point where 56th Street enters Upland Way from the north, 56th Street running in a general northerly and southerly direction. He testified that he was about two feet from the south curb of Upland Way, and about two feet from the west curbline of 56th Street. He testified further that upon reaching this point at the intersection, he looked in all directions for oncoming traffic, but .saw only the car of the defendant, which was traveling northwesterly on Upland Way, about 300 to 400 feet from the 56th Street intersection. Defendant’s position then was just southeast of Montgomery Avenue, which enters Upland Way from the east at a point about 300 feet southeast of the '56th Street and Upland Way intersection. The minor plaintiff, seeing only the car of the defendant approaching the intersection from a distance of 300 to 400 feet, left his position at the south curb and turned left to the north, intending to make a U-turn for the purpose of reaching the tire pump of the gasoline station at the northwest corner, the pump being located west of the west house line. When he reached a point just 8 feet short of the north curb, he was struck by the car of the defendant. The plaintiff testified not only that he looked in all directions upon reaching the intersection, but that he continued to look as he crossed from the south to the north curb, that about midway between the two curbs, he saw that the car of the defendant was a little east of 56th Street, or about 50 feet from him, that he kept looking as he approached the north curb, that at a point 8 feet south of the north curb, he saw that the car was upon him, and before he could do anything, he was struck.
+A surveyor employed by the Bureau of Engineering and Surveys of the City of Philadelphia testified that the width of the Upland Way cartway, curb to curb at 56th Street, is 52 feet, that the cartway of 56th Street at the intersection is 40 feet in width, and that the distance from the northwest corner of 56th Street and Upland Way to the northeast corner of Montgomery Avenue along the curbline is about 300 feet.
+A witness for the plaintiff corroborated his testimony as to the position of the plaintiff and the defendant when the former was midway between curbs while making his crossing, and as to the locus of the collision.
+Defendant testified he was driving his car west on Upland Way, and, as he approached the east side of 56th Street, he noticed that plaintiff “had already started” to make the U-turn. He placed the point at which plaintiff started to turn 50 feet west of the west curb line of 56th Street or, by calculation, at a distance of 100 feet in front of him. He was, at the time, travelling at a speed of 25 miles per hour and it may be inferred from his testimony that, on the assumption plaintiff would not continue across his path, he did not attempt to stop until it was too late for him to avoid the collision.
+The negligence of the defendant is conceded and the only question before the court is the contributory negligence of the plaintiff. It is the opinion of this court that the contributory negligence of the plaintiff, if any, is not so clearly established that it would justify a ruling against the plaintiff as a matter of law. On- the basis of the evidence adduced in behalf of the plaintiff, and bearing in mind the rule that on appeal from the refusal of defendant’s motion.for judgment n.o.v. we must accept as true the plaintiff’s version of the collision and give him the benefit of every inference favorable to his cause, the question of the contributory negligence of the plaintiff was properly left to the jury.
+When plaintiff arrived at the intersection, he fulfilled his duty of looking carefully in all directions before attempting any crossing. Whether he himself was negligent in beginning his crossing when he saw the defendant’s car approaching the intersection from a distance of 300 to 400 feet was a jury question; See Lochhead v. Nierenberg, 143 Pa. Superior Ct. 507, 18 A. 2d 472, where the plaintiff, who attempted to cross an intersection in her car after looking to the left and right and seeing only defendant’s truck approaching from a distance of 150 feet and believing she had ample time to cross safely, but was struck by the truck after nearly completing the crossing, was held not guilty of contributory negligence as a matter of. law. See also Jones v. Karis, 149 Pa. Superior Ct. 285, 27 A. 2d 750, where a crossing was attempted when the car of the defendant was ninety to one hundred feet away from the intersection.
+December 31, 1943:
+Similarly, then, the question of plaintiff’s contributory negligence, when he had completed half the crossing and when he noticed that the car of the defendant was nearly to the intersection and only fifty feet away but continued to cross to the place where he was struck, was a jury question and not a matter for the court to decide.
+The assignments of error are overruled and judgments affirmed.
+Pee Ctjbiam,
+The foregoing opinion was prepared by Judge Stadtfeld and was adopted by the court, but had not been filed at the time of his sudden death on December 12, 1943. It is now filed as the opinion of the court.
