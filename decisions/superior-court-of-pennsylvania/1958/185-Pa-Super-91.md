@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 212 and 213"
+decided: "1958-01-21"
+citations: ["185 Pa. Super. 91"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hist, Gunther, Wright, Woodside, Ervin, and Watkins, JJ."]
+parties: ["Commonwealth v. Gazal, Appellant."]
+source_url: "https://static.case.law/pa-super/185/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 738532
+cites_cases: ["101 A. 2d 140", "133 A. 2d 561", "137 F. Supp. 816", "151 Pa. Superior Ct. 135", "174 Pa. Superior Ct. 621", "184 Pa. Superior Ct. 125", "26 U.S.C.A. §3285", "30 A. 2d 168", "353 Pa. 619", "46 A. 2d 263", "99 Pa. Superior Ct. 269"]
+---
+
+# Commonwealth v. Gazal
+
+## Majority (Woodside, J.,)
+
+Opinion by
+Woodside, J.,
+This is an appeal by the defendant, William T. Gazal, from the judgments of sentence of the Court of Quarter Sessions of Allegheny County. Defendant was tried before a jury on two charges of operating a lottery and particularly of having in his possession with intent to sell or barter lottery or numbers tickets. He was convicted on both indictments. Motions' for a new trial and in arrest of the judgments were dismissed by the court below.
+The evidence showed that defendant had been arrested on two occasions, once with 111 and the other time with 89 currently dated yellow “number slips” of the type collected by “pick-up men”.
+At the trial of the case the Commonwealth was unable to produce the number slips which the evidence showed had been taken from the defendant at the time of his arrest.' Over defendant’s objection, testimony was produced to establish the general operation, of the county detective bureau as to evidence confiscated from arrested persons, the chain of custody of the particular numbers slips here involved, and a diligent search for the slips. The arresting officers then testified that the slips taken from the defendant were yellow slips of paper of the type received by “pick-up men” in the operation of a “numbers game.”
+Defendant contends that since possession of the numbers slips is an essential element in the proof required for a conviction, secondary evidence of such slips should be inadmissible. In substance, his argument is that the best evidence rule “should be applied to exclude secondary evidence of the existence of a writing, document, or record the possession or existence of which determines the commission of a crime.” We can find no authority for this proposition. On the contrary, the best evidence rule has been held applicable only in cases where a party has introduced secondary evidence to prove the terms or contents of a writing and the rule’s application has been limited to this situation. Cupples, Jr. v. Yearick, 99 Pa. Superior Ct. 269 (1930); Commonwealth v. Pollack, 174 Pa. Superior Ct. 621, 101 A. 2d 140 (1953).
+In the case before us the jury was not concerned with the terms or contents of the number -slips, but only with whether the papers were number slips. Professor Wigmore has the following to say concerning the rule for documentary originals: “Thus the rule applies only to the terms of the document, and not to any other facts about the document. In other words, the rule applies to exclude testimony designed to establish the terms of the document, and requires the document’s production instead, but does not apply to exclude testimony which concerns the document without aiming to establish its terms. . . IV Wigmore on Evidence, §1242.
+In a similar case, cited by the court below, United States v. Calamaro, 137 F. Supp. 816, 818 (1956) the defendant was convicted of failing to pay the $50 special gambler’s tax imposed by the Internal Revenue Code, 26 U.S.C.A. §3285 et seq. In that case all of the numbers slips taken from the defendant were unavailable at the trial in the United States District Court for the Eastern District of Pennsylvania because they had been confiscated by the district attorney of Philadelphia. Judge Grim in his opinion there said: “Defendant contends that the slips were the best evidence against him and that because of their absence in the trial of this case he cannot properly be convicted. I disagree with this contention. The government was required to prove only that the slips had existed, that they were numbers slips, and that the defendant had been carrying them. The government had no burden and made no attempt to prove the specific contents of the slips. Consequently, the best evidence rule has no application to the problem presented by the failure to produce the numbers slips in the present case.”
+Furthermore, the rule requires merely that the best evidence available be produced. It does not prohibit entirely the introduction of secondary evidence, but is based upon the proposition “that the best evidence the nature of the case will admit of shall always be required, if possible to be had; but, if not possible, then the best evidence that can be had shall be allowed.” Blackstone’s Commentaries, Book III, p. 368, Koch Election Case, 353 Pa. 619, 46 A. 2d 263 (1946). In the trial of the case before us the Commonwealth produced ample testimony to show that the numbers slips taken from the defendant were unavailable to the prosecution. Were the best evidence rule here applicable, its requirements have been clearly met.
+That the testimony here offered was sufficient to sustain a conviction is clear. See Com. v. Mattera, 151 Pa. Superior Ct. 135, 30 A. 2d 168 (1943).
+Defendant also contends that the deficiencies and contradictions in the Commonwealth’s evidence warranted granting defendant’s motion in arrest of judgment. Any contradiction in the Commonwealth’s testimony casts doubt only upon the question of what had happened to the numbers slips. The Commonwealth’s witnesses were all agreed that the slips had existed, that they were numbers slips, and that they had been taken from the defendant. The mere fact that a witness may be testifying falsely in one respect does not require the jury to disregard his testimony in all respects. Com. v. Parente, 184 Pa. Superior Ct. 125, 133 A. 2d 561 (1957).
+Judgments of sentence affirmed, and it is ordered that appellant appear in the court below at such time as he may be there called, and that he be by that court committed until he has complied with his sentences or any parts thereof which had not been performed at the time the order of supersedeas was entered.
