@@ -1,0 +1,23 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 114"
+decided: "1908-02-28"
+citations: ["35 Pa. Super. Ct. 320"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson; Morrison, Orlady, Head and Beaver, JJ."]
+parties: ["Tyson v. Baizley, Appellant."]
+source_url: "https://static.case.law/pa-super/35/cases/0320-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 872655
+cites_cases: ["128 Mass. 131", "132 Mass. 443", "153 Pa. 438", "176 Pa. 181", "205 Pa. 624", "22 Pa. 261", "37 L. R. A. 830", "40 Iowa, 84", "49 N. J.' L. 685", "51 L. R. A. 298", "58 Am. St. R. 877", "67 Wis. 512"]
+---
+
+# Tyson v. Baizley
+
+## Majority (Orlady J.,)
+
+Opinion by
+Orlady J.,
+The defendant’s wife had been ill and under the care of the family physician for about six months, without any apparent improvement in her condition. The husband was informed of a doubt in the physician’s mind as to the exact character of the disease, and of his desire to have a consultation with a specialist in order to make a proper diagnosis. The plaintiff was selected with the knowledge and consent of the defendant and of his wife, who submitted hérself to a thorough examination by the two physicians. The treatment which had been applied and the diagnosis which had been announced by the family physician was approved and confirmed by the consultant. After a demand had been made for the fee charged by the plaintiff; and payment thereof had been refused by the defendant, this action' was brought to recover it, and the defense interposed being, that the employment of the plaintiff was only to satisfy the mind of the family physician as to the exact nature of the malady of the wife, and that the diagnosis reached was erroneous;-that the charge for such a consultation should have been included in the bill of the family physician, who had been paid in full. It is not necessary to cite individual authorities in support of the proposition, that a principal is to be bound by the acts of his accredited agent which are reasonably incident to the full performance of the contract of service. The defendant impliedly directed the family physician to act in such a way, and to adopt such a course of treatment as in his judgment would be most likely to effect the ultimate recovery of the patient’s health; and the selection of a consultant with the knowledge of the patient and the husband, was clearly within the scope of- the authority given to the physician. To this knowledge was added the defendant’s consent in regard to the employment of the plaintiff, and conceding that the services were not rendered at his. special instance, and request at the time of performance, nevertheless the defendant as well as his wife and the two physicians believed the services to be for the benefit and advantage of the patient, so that under the admitted facts, a promise to pay therefor was implied as an inference of law. The implied contract of the physician is not to cure, but to. treat with care and reasonable diligence and skill. To hold the physician answerable for not exercising more than ordinary professional skill is imposing upon him a heavier burden than the law has yet put upon a professional man’s shoulders. He is not an insurer of his patient’s health, nor of a recovery from an abnormal condition: Richards v. Willard, 176 Pa. 181; English v. Free, 205 Pa. 624. Nor is he to be considered as warranting a cure unless under a special contract for such purpose: Whitesell v. Hill, 37 L. R. A. 830; Ebner v. Mackey, 51 L. R. A. 298. In Garrey v. Stadler, 67 Wis. 512 (58 Am. St. R. 877), it was held, under facts similar to the ones before us, that the plaintiff is entitled to recover from the defendant, although the family physician had agreed to pay the cost of the consultation, but without the knowledge of the consultant. Where a party, knowingly and without objection, permits another to render service for him, the law implies a promise to pay what the service is reasonably worth. It is not material that the plaintiff’s bill was not in-eluded with that of the family physician. Its amount could have been ascertained when payment of that bill was made, and the liability for it determined before the service was rendered, but having accepted it without objection, it is now too late to say “ it is excessive, and not the usual charge made by physicians generally for like services,” without stating in what it is excessive, or what the alleged usual charge is claimed to be. The defense set out is not a good one under the decisions, and the judgment is affirmed.
