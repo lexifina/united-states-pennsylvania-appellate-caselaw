@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 1128 C.D. 1988"
+decided: "1988-11-18"
+citations: ["121 Pa. Commw. 210", "550 A.2d 599"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Colins and McGinley, and Senior Judge Kalish, sitting as a panel of three."]
+parties: ["Housing Authority of The City of Pittsburgh, Appellant v. George A. Metz and Ralph J. Santarcangelo, Appellees."]
+source_url: "https://static.case.law/pa-commw/121/cases/0210-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1379690
+---
+
+# Housing Authority v. Metz
+
+## Majority (Judge Colins,)
+
+Opinion by
+Judge Colins,
+Appellant, the Housing Authority of the City of Pittsburgh, the owner of St. Clair Village, a housing project, advertised for single bids for modernization of the project on January 13, 1988. Appellees, the owners of two plumbing businesses, filed an equity action in the Court of Common Pleas of Allegheny County on February 4, 1988, claiming that appellant was in violation of Section 1 of the Act of May 1, 1913, P.L. 155, as amended, 53 P.S. §1003 (referred to herein as the Separations Act), which requires separate bidding and separate contracts for the construction or alteration of any public building involving plumbing, heating, ventilating, and electrical work.
+Appellees alleged that they are suffering irreparable harm because they are deprived of the opportunity to bid on the individual plumbing aspect of the project. Appellant claims that it is not subject to the Separations Act, and that the advertisement for bids was in accordance with Section 1551(b) of the Housing Authorities Law (Law), and in compliance with the directive from the U.S. Department of Housing and Urban Development (HUD) that the invitation for bids provides for all renovation work, including general plumbing, heating, and electrical work to be performed under a single contract between the Housing Authority and the successful low bidder.
+Appellant petitioned the U.S. District Court for the Western District of Pennsylvania to remove the subject action to federal court. Appellees filed a response to the petition for removal, objecting on the basis of lack of federal jurisdiction. After hearing on the motion, United States District Judge Donald E. Zeigler remanded this matter to the trial court on February 17, 1988. The matter was submitted on the pleadings, stipulations, and removal record to the Chancellor, who issued a decree nisi and final decree on April 7, 1988, declaring that the Separations Act does apply to appellant. Appellant filed an appeal to this Court on May 5, 1988, and thereafter, filed with the trial court, a Petition for Supersedeas and Exemption from Security pending the outcome of appellate review by this Court. A hearing on the petition was held wherein a representative of HUD testified that the Department preferred a single contractor and that it would withhold the sums allocated for the questioned contract pending an appellate determination as to the applicability of the Separations Act or the grant of supersedeas. On May 27, 1988 an order was entered staying the enforcement of the final decree pending the outcome of all appeals related thereto.
+Appellant appeals the Chancellors decision that the Separations Act applies to appellant and argues that the Law places public housing authorities beyond the parameters of the Separations Act. The appellant states that the Chancellor failed to consider properly the Law in its entirety and failed to consider the legislative history and purpose of the Law, and that this Court should defer to the decision of the Housing Authority to comply with federal policies and directives, rather than the Separations Act in order to “secure the financial aid or cooperation of the federal government in the undertaking, construction, maintenance, or operation of a housing project by such authority.”
+The substance of appellants claim is that the Pennsylvania Housing Authorities are unique from other authorities that are regulated by the Separations Act and that the legislature did not intend agencies governed by Title 35, to be subject to the Separations Act. Appellant also claims that because the Law mandates that authorities comply with conditions of federal grants, this mandate overrides the Separations Act. Because the Law states that the authority is authorized to do any and all things necessary or desirable to secure the financial aid or cooperation of the federal government, appellant believes that this clause takes the matter out of the intended ambit of the Separations Act.
+Appellant seems to suggest that it can comply with the Separations Act or it can comply with federal policies and directives, but that these actions are mutually exclusive. However, appellant then cites the HUD handbook, 741.1 REV-1 which states that:
+Main construction work shall be performed under a single construction contract unless otherwise approved by the Area Office. If the PH A proposes to obtain separate bids for portions of the work, the request for area office approval shall be accompanied by evidence that the proposed method is required by state law or that it is in the best interest of the development of the project. (Emphasis added.)
+Appellees, on the other hand, argue that absent an express statutory exclusion, the Separations Act requires the Housing Authority to award separate contracts for the plumbing, heating, ventilating, and electrical work for the construction project, as an agency of the Commonwealth and the owner of a public building. Appellees believe that because there exists no federal regulation or statute expressly preempting the Separations Act, there is no basis for this Court to deny the applicability of such Act to the Housing Authority. We agree.
+The Separations Act, in part, provides:
+Hereafter in the preparation of specifications for the erection, construction, and alteration of any public building, when the entire cost of such work shall exceed Four Thousand Dollars, it shall be the duty of the architect engineer, or other person preparing such specifications, to prepare separate specifications for the plumbing, heating, ventilating, and electrical work; and it shall be the duty of the person or persons authorized to enter into contracts for the erection, construction or alteration of such public buildings to receive separate bids upon each of the said branches of work, and to award the contract for the same to the lowest responsible bidder for each of said branches.
+53 P.S. §1003.
+We find no exclusion provided to the Housing Authority in the statute. A reading of the HUD handbook does not bolster its argument that the Separations Act does not apply. In fact, the handbook itself states that the process should not violate state legislation. There are no exclusions listed which would be applicable to this matter and appellant has not raised any valid basis for this Court to find that the statute does not apply.
+Therefore, we affirm the decision of the Court of Common Pleas of Allegheny County finding that appellant must comply with the Separations Act.
+Order
+And Now, this 18th day of November, 1988, the order of the Court of Common Pleas of Allegheny County in the above-captioned matter is hereby affirmed.
+Act of May 28, 1937, P.L. 955, as amended, 35 P.S. §1551(b).
