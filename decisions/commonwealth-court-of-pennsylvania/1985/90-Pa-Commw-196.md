@@ -1,0 +1,42 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 832 C.D. 1984"
+decided: "1985-06-19"
+citations: ["90 Pa. Commw. 196"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges MacPhail and Colins and Senior Judge Blatt, sitting as a panel of three."]
+parties: ["Matlack, Inc., Petitioner v. Workmen’s Compensation Appeal Board (Zwald), Respondents."]
+source_url: "https://static.case.law/pa-commw/90/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1336182
+cites_cases: ["426 A.2d 749", "458 A.2d 1050", "463 A.2d 1221", "465 A.2d 132", "475 A.2d 1345", "477 A.2d 9", "487 Pa. 313", "57 Pa. Commonwealth Ct. 430", "73 Pa. Commonwealth Ct. 618", "76 Pa. Commonwealth Ct. 234", "77 Pa. Commonwealth Ct. 202", "82 Pa. Commonwealth Ct. 444", "82 Pa. Commonwealth Ct. 590"]
+---
+
+# Matlack, Inc. v. Workmen's Compensation Appeal Board
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+Matlack, Inc. (Petitioner) appeals here the order of the Workmen’s Compensation Appeal Board (Board) which affirmed a referee’s decision dismissing Petitioner’s modification petition.
+On July 30, 1976, Ralph Zwald (Claimant) was involved in a work-related accident in which he suffered a head injury. Claimant received compensation pursuant to a notice of compensation payable. Claimant returned to work on December 6, 1976, and signed a final receipt on December 21, 1976.
+On December 30, 1976, Claimant underwent treatment for a pre-existing hernia condition. On March 4,1977, Claimant filed a petition for review which was amended to a Petition to Set Aside a Final Receipt. On January 14, 1978, Claimant was involved in a non-work related accident. On March 14, 1979, a referee set aside the final receipt, having found that at the time Claimant signed the final receipt, Claimant was still disabled on the basis of an eye condition which had been aggravated by the July 30, 1976 accident. On appeal, the Board affirmed the referee’s decision. Petitioner did not appeal from the Board’s decision.
+Petitioner filed a modification petition on September 21, 1979, alleging that work was available for Claimant to perform. Hearings were held in which Petitioner presented the testimony of various vocational experts who testified that employment was available to Claimant, taking into account Claimant’s physical limitations caused by the eye injury. Claimant and his medical witness, Dr. Owen Black, presented testimony to the effect that Claimant also suffered from vertigo, a condition rendering Claimant totally disabled for any employment. Dr. Black, deposed, testified that Claimant had sustained post-traumatic damage to the inner ear as a result of the July 30, 1976 compensable injury. The referee specifically found the testimony presented by Claimant and Dr. Black more credible than the testimony presented by Petitioner, and dismissed Petitioner’s modification petition. The Board affirmed and this appeal followed.
+To be eligible for workmen’s compensation benefits, a claimant must prove that his injury arose in the course of his employment and was related thereto. Halaski v. Hilton Hotel, 487 Pa. 313, 409 A.2d 367 (1979). Petitioner maintains that Claimant’s inner ear injury resulted from the non work-related accident. We have previously held that injuries unrelated to a claimant’s job are compensable if they are the proximate or the natural and probable result of a prior work-related injury. GTE Sylvania v. Workmen’s Compensation Appeal Board (Lydon), 73 Pa. Commonwealth Ct. 618, 458 A.2d 1050 (1983):
+When there is an intervening non-work injury, claimant must then prove that his resultant disability was so immediately and directly connected with the prior work-related injury- that it would naturally and probably result therefrom ; that is to say, that the first accident was the proximate predisposing cause of the resultant disability.
+GTE Sylvania, 73 Pa. Commonwealth Ct. at 620, 458 A.2d at 1051. See also Kondzielski v. Workmen’s Compensation Appeal Board (Northwestern Rural Electric Co-Op), 76 Pa. Commonwealth Ct. 234, 463 A.2d 1221 (1983) (distinction between work-related aggravation of pre-existing condition and conditions arising after work-related injury).
+"Petitioner contends that Claimant did not meet his harden and that Claimant’s disability is the direct result of the intervening non-work injury. Dr. Black diagnosed Claimant as having post-traumatic damage to his ear as well as a benign paroxysmal nystagmus and vertigo' from which Claimant experienced frequent dizziness and nausea. Dr. Black’s notes revealed that the first symptoms of vertigo appeared after the January, 1978 accident. However, Dr. Black unequivocally stated that nystagmus and vertigo result from trauma to the head. It was Dr. Black’s opinion that assuming Claimant did not suffer a head trauma in the second accident, the head trauma from the July, 1976 accident caused the inner ear problem even though the symptoms — dizziness and nausea— did not ■ manifest themselves until after the second accident.
+Claimant introduced emergency room records and the hospital report on the January 14, 1978 accident, which clearly indicate that Claimant did not suffer head trauma in this accident. The referee found that Claimant suffered a trauma to his head in the accident of July 30, 1976, but did not suffer a trauma to his head in the accident of January 14, 1978. We are satisfied- that there is substantial evidence of record from which the referee could and did find that it was the July, 1976 accident which caused Claimant’s subsequent total disability.
+Petitioner asserts that there are inconsistencies in Dr. Black’s testimony which render all of the testimony equivocal and therefore incompetent. Philadelphia College of Osteopathic Medicine v. Workmen’s Compensation Appeal Board, 77 Pa. Commonwealth Ct. 202, 465 A.2d 132 (1983). We disagree. The referee, in a workmen’s compensation case, has broad discretionary powers, and may accept or reject the testimony of any witness, in whole or in part, even where a witness’s testimony is internally inconsistent. Dick’s Delicatessen v. Workmen’s Compensation Appeal Board (DeVirgilio), 82 Pa. Commonwealth Ct. 444, 475 A.2d 1345 (1984).
+Petitioner also contends that the referee relied on Dr. Black’s answers to hypothetical questions which were not based on facts of record and were not warranted by the evidence. However, “a hypothetical question need not encompass the assertions of both the proposing and opposing parties; rather, a party may state specifically the particular facts he believes find support in the evidence and ask the opinion of the expert on such facts, assuming them to be true.” SEPTA, 82 Pa. Commonwealth Ct. at 595, 477 A.2d at 12. Our careful review of the record reveals no error in the hypothetical questions asked of Dr. Black.
+We conclude that there is substantial evidence of record from which the referee could find that Claimant was totally disabled. “If one is totally disabled, then work availability offered by Employer to prove that Claimant has not ¡been deprived of his ability to obtain remunerative employment, is irrelevant.” GTE Sylvania, 73 Pa. Commonwealth Ct. at 623, 458 A.2d at 1053.
+The record supports the referee’s finding that Claimant’s total disability is related to the original compensable injury. We will therefore affirm. See Crouse v. Workmen’s Compensation Appeal Board, 57 Pa. Commonwealth Ct. 430, 426 A.2d 749 (1981).
+Order
+The order of the Workmen’s Compensation Appeal Board, dated August 4, 1982 at No. A-81163, is affirmed.
+The party who prevails below is entitled to the benefit of the most favorable inferences drawn from the evidence. SEPTA v. Workmen’s Compensation Appeal Board (Saxon), 82 Pa. Commonwealth Ct. 590, 477 A.2d 9 (1984).
+Dr. Black was asked:
+Q: Assuming bis problems that he came to you about started after his first accident and that he suffered no head trauma or injury after the second accident, within a reasonable degree of medical certainty, what would you feel the cause of the problem you have been treating him for was?
+A: Well, the findings are classical for and are most commonly caused by head problem and also abnormal eye movements I described in a man his age.
+(Deposition of Dr. Black at pp. 13-14).
