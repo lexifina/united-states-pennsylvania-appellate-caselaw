@@ -1,0 +1,19 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 881"
+decided: "1977-07-21"
+citations: ["249 Pa. Super. 565", "377 A.2d 182"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth v. Murray, Appellant."]
+source_url: "https://static.case.law/pa-super/249/cases/0565-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 834561
+---
+
+# Commonwealth v. Murray
+
+## Majority
+
+Judgment of sentence affirmed.
