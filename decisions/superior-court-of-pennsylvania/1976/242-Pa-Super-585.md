@@ -1,0 +1,19 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 148"
+decided: "1976-07-15"
+citations: ["242 Pa. Super. 585", "359 A.2d 889"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["COMMONWEALTH v. FRYE, Appellant."]
+source_url: "https://static.case.law/pa-super/242/cases/0585-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 821585
+---
+
+# Commonwealth v. Frye
+
+## Majority
+
+Order affirmed.
