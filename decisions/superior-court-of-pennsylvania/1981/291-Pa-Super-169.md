@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "767"
+decided: "1981-10-02"
+citations: ["291 Pa. Super. 169", "435 A.2d 622"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before PRICE, DiSALLE and MONTEMURO, JJ.", "PRICE, J., did not participate in the consideration or decision of this case."]
+parties: ["COMMONWEALTH of Pennsylvania v. Elanor RICHIE, Appellant."]
+source_url: "https://static.case.law/pa-super/291/cases/0169-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 171482
+cites_cases: ["250 Pa.Super. 402", "256 Pa.Super. 344", "260 A.2d 751", "260 Pa.Super. 261", "277 Pa.Super. 606", "290 A.2d 111", "292 A.2d 331", "31 A.2d 95", "311 F.2d 277", "346 Pa. 504", "372 U.S. 935", "436 Pa. 459", "447 Pa. 206", "448 Pa. 62", "476 Pa. 557", "83 S.Ct. 881", "9 L.Ed.2d 766"]
+---
+
+# Commonwealth v. Richie
+
+## Majority (DiSALLE, Judge:)
+
+DiSALLE, Judge:
+Appellant, Elanor Richie, contends that the evidence presented at her non-jury trial is insufficient to establish her guilt beyond a reasonable doubt and is therefore insufficient to sustain her convictions of theft and criminal conspiracy.
+Viewing the evidence in the light most favorable to the Commonwealth, and giving the Commonwealth the benefit of all reasonable inferences therefrom, Commonwealth v. Simpson, 436 Pa. 459, 260 A.2d 751 (1970), the facts are as follows:
+Appellant and her boyfriend, co-defendant, David Turk, were employed as cashiers at a self-service gas station/mini-mart (hereinafter station) in North Versailles, Pennsylvania. The station operated in three eight hour shifts, with only one employee, or the manager, as the cashier on each shift. The station also operated on a cash only basis, the cashier being solely responsible for that shift’s cash. At the beginning of each shift, the cashier made an abbreviated inventory, calculating approximately how much cash the previous shift should have collected and counting the amount the shift did collect. At the beginning of each shift, the cashier was provided with $100; when an additional $50 to $100 had been collected, it was placed in a “drop” envelope; the “drop” envelope was marked with the name of the cashier, the date, and the amount of money in the envelope; it was then dropped into a safe. Only the manager and the station’s corporate office had keys to the safe.
+Beginning with the third shift (from 11 P.M. to 7 A.M.) on Friday, January 12, 1979, until the first shift (7 A.M. to 3 P.M.) Sunday, January 14, 1979, the shifts were worked successively by David Turk, the manager, appellant, Commonwealth witness Lisa Stark, and the manager. During Turk’s shift the manager had seen appellant behind the counter with Turk, which was a violation of station rules. And when Lisa Stark commenced her shift, Turk was behind the counter with appellant. Further, Lisa Stark’s inventory showed that appellant’s shift was short of cash. Ms. Stark reported this to the manager immediately. When the manager commenced the next shift she inventoried appellant’s and Turk’s shifts and found them to be short $233 and $140, respectively. The manager also discovered that the money in appellant’s and Turk’s “drop” envelopes were $699 and $80 short, respectively, of the total amounts marked thereon. The manager informed the police of the theft that day. Earlier that morning, without any termination notice, appellant and Turk had left for North Carolina, where they were subsequently arrested. At trial, appellant merely denied having stolen the money.
+Appellant contends that the evidence is insufficient to convict her because the manager had equal access to the shift and “drop” money and could have committed the thefts. We perceive this argument as a matter of credibility: the manager’s testimony, which was confirmed in part by Lisa Stark, versus appellant’s denial. Under these circumstances, we decline to usurp the lower court’s determination of credibility. Commonwealth v. Darush, 256 Pa.Super. 344, 389 A.2d 1156 (1978).
+Appellant also contends that because the corporation keeps a set of keys to the safe, someone other than the manager or the appellant or David Turk could have stolen the money in the “drop” envelopes. “The law [, however,] imposes upon the Commonwealth [only] the burden of proving the defendant guilty beyond a reasonable doubt, not beyond all doubt.” Commonwealth v. Nole, 448 Pa. 62, 65, 292 A.2d 331, 332 (1972). “[T]he burden of proof upon the Commonwealth has never been construed to require it to eliminate every conceivable hypothesis of innocence . . . Nole . .. [, supra]; Commonwealth v. Libonati, 346 Pa. 504, 31 A.2d 95 (1943).” Commonwealth v. Williams, 476 Pa. 557, 564, 383 A.2d 503, 507 (1978). “[And, t]he reasonable doubt which will prevent conviction must be the fact finder’s doubt[,] . . . not that of an appellate court. United States v. Stirone, 311 F.2d 277 (3d Cir. 1962), cert. denied, 372 U.S. 935, 83 S.Ct. 881, 9 L.Ed.2d 766 (1963).” Commonwealth v. Williams, 447 Pa. 206, 208, 290 A.2d 111, 112 (1972). We cannot view appellant’s contention in a vacuum; viewing all of the evidence, it was established that appellant and David Turk were together, behind the station’s cashier’s counter during each other’s respective shifts (the shifts immediately prior to the discovered thefts), that Turk’s and appellant’s “drop” envelopes and shift totals were short of the cash they should have contained or collected, (the manager’s testimony regarding these shortages was corroborated in part by Lisa Stark’s testimony), and that when the thefts were discovered, Turk and appellant had left unannounced for North Carolina. We believe this evidence was sufficient for the trial court to find, beyond a reasonable doubt, that appellant is guilty of conspiracy and theft. Cf. contra, In re Wood, 277 Pa.Super. 606, 419 A.2d 1316 (1980); Commonwealth v. Roach, 260 Pa.Super. 261, 393 A.2d 1253 (1978); Commonwealth v. Bailey, 250 Pa.Super. 402, 378 A.2d 998 (1977).
+Judgment of sentence affirmed.
+PRICE, J., did not participate in the consideration or decision of this case.
+. 18 Pa.C.S.A. § 3921(a).
+. 18 Pa.C.S.A. § 903(a)(1) (Supp. 1981-82).
+. The testimony at trial describing the inventory procedure was disjointed and convoluted. Although this may not be the procedure that was required to be employed, we believe it was the procedure that was employed.
