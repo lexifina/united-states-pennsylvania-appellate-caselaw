@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 190"
+decided: "1973-03-27"
+citations: ["223 Pa. Super. 501"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. J., Watkins, Jacobs, Hoffman, Spaulding, Cercone, and Packel, JJ."]
+parties: ["Commonwealth v. Eazer, Appellant."]
+source_url: "https://static.case.law/pa-super/223/cases/0501-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 803170
+cites_cases: ["114 N.E. 2d 389", "150 A. 44", "181 A. 2d 710", "198 Pa. Superior Ct. 449", "215 Pa. Superior Ct. 325", "221 Pa. Superior Ct. 345", "223 Pa. Superior Ct. 489", "223 Pa. Superior Ct. 513", "246 A. 2d 898", "257 A. 2d 277", "28 Conn. Sup. 19", "281 A. 2d 897", "293 A. 2d 67", "302 A. 2d 352", "302 A. 2d 357", "378 U.S. 108", "393 U.S. 410", "415 Ill. 434", "444 Pa. 110", "8 N.J. Misc. 271"]
+---
+
+# Commonwealth v. Eazer
+
+## Majority (Hoffman, J.,)
+
+Opinion by
+Hoffman, J.,
+Appellant was tried before a jury and found guilty of being concerned in the operation of a lottery. In this appeal, he raises three contentions: First, that the information presented to the issuing magistrate did not amount to probable cause for the issuance of a search warrant; second, that even if the information was sufficient, it was too remote in time to support the issuance of a warrant approximately two months later; and, third, that the evidence presented by the Commonwealth was insufficient to sustain a verdict of guilty.
+An undercover police officer entered appellant’s confectionary newsstand on January 27,1972 and observed and overheard an individual named Patti passing numbers bets over the phone to a person addressed as Joe. The officer then asked if he could place a bet. Patti took the bet and relayed it to a person again referred to as Joe. Patti and the officer then had a brief conversation during which Patti told the officer that the person referred to as Joe was the owner of the newsstand. The officer was then invited by Patti to place his bets there regularly at approximately the same hour because each day’s bets were called into Joe at his home at that time. Surveillance conducted subsequent to these events indicated appellant’s presence at his home at call-in tima
+This information was then presented to a magistrate who, on March 29, 1971, issued a warrant for a search of appellant’s home.
+Probable cause for the issuance of the warrant is supported by the officer’s observation, at appellant’s place of business, of Patti relaying bets, and the officer’s own experience of placing a bet with him — bets which were then relayed to Joe. In casual conversation thereafter, Patti identified Joe as the appellant. Appellant contends that, because the magistrate was not presented with evidence of Patti’s reliability, the search warrant cannot be sustained because it fails to meet the reliability of informant requirement of Aguilar v. Texas, 378 U.S. 108 (1964).
+Aguilar, however, is inapposite to the facts of this case. The purpose of the Aguilar requirements is to prevent the issuance of warrants based merely upon the hearsay conclusions of informants in regard to criminal activity. In the instant case, Patti’s statement that Joe was receiving bets was substantially bolstered by the officer’s direct observations of criminal activity, by the fact that the officer overheard two bets relayed to Joe, and by the officer’s knowledge that appellant was the owner of the business at which the illegal activity was taking place. On the basis of this information plus the results of surveillance corroborating appellant’s activity at call-in time, there was adequate information from which the magistrate could conclude that probable cause existed for a search of appellant’s home.
+Having concluded that the information supplied provided probable cause for the issuance of the warrant, the next question is whether the information was so stale as of the date of the issuance of the warrant that probable cause no longer existed. The information constituting probable cause came into possession of the police on January 27, 1972, but was not presented to the magistrate until March 29, 1972. Nothing observed in the interim indicated a continuance of the activity initially observed.
+In Commonwealth v. Bove, 221 Pa. Superior Ct. 345, 293 A. 2d 67 (1972) we held that a delay of 33 days between the observation of a person in possession of drugs and the issuance of a warrant made the information so stale that on the date of the issuance of the warrant probable cause no longer existed. Unlike possession of contraband cases [see, e.g., Commonwealth v. Shaw, 444 Pa. 110, 281 A. 2d 897 (1971); Commonwealth v. Bove, supra; Commonwealth v. Suppa, 223 Pa. Superior Ct. 513, 302 A. 2d 357 (1973)], the nature of the criminal activity involved herein is one of an ongoing daily enterprise, an operational offense of continuing nature. When added to the invitation extended by Patti to play his bets there daily, there were adequate reasons to believe that the offense continued until the time of the issuance of the warrant. See: State v. Taylor, 28 Conn. Sup. 19, 246 A. 2d 898 (1968); People v. Dolgin, 415 Ill. 434, 114 N.E. 2d 389 (1953); State v. Best, 8 N.J. Misc. 271, 150 A. 44 (1930).
+Finally, appellant contends that the evidence of six intercepted phone calls plus the several sheets of rice paper seized was not sufficient to sustain the verdict. While we agree that there is a certain danger of counterfeiting involved, that danger is significantly lessened when, as in the instant case, a number of phone calls from identifiably different callers are intercepted by the police, and introduced into evidence in addition to gambling paraphernalia. See Commonwealth v. Bufalini, 223 Pa. Superior Ct. 489, 302 A. 2d 352 (1973). When considered in the light most favorable to the Commonwealth, the evidence was sufficient to sustain the verdict. Commonwealth v. Piperata, 215 Pa. Superior Ct. 325, 257 A. 2d 277 (1969); Commonwealth v. Tselepis, 198 Pa. Superior Ct. 449, 181 A. 2d 710 (1962).
+The judgment of sentence is, therefore, affirmed.
+Having previously arrested appellant on numbers charges, the officer knew that he (Joseph Eazer) was the owner of the newsstand.
+The surveillance conducted subsequent to January 27 served to corroborate Patti’s report of the operational aspects of their numbers operation. It did not, however, in itself indicate criminal activity because Joe’s travels were outwardly innocent. Cf. Spinelli v. United States, 393 U.S. 410, 89 S. Ct. 584 (1969).
+In Suppa, the offense initially observed was the possession of numbers slips. This was contemporaneous with the arrest of appellant accompanied by the seizure of numbers paraphernalia. In itself, this indicated the discontinuance of the criminal activity.
