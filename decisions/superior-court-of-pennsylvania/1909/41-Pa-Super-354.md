@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1; Appeal, No. 89"
+decided: "1909-12-20"
+citations: ["41 Pa. Super. 354"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Porter, Henderson, Morrison, Orlady and Beaver, JJ.", "Morrison and Porter, JJ., dissent."]
+parties: ["Rementer v. Philadelphia, Appellant"]
+source_url: "https://static.case.law/pa-super/41/cases/0354-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 884105
+cites_cases: ["137 Pa. 42", "202 Pa. 626", "221 Pa. 294", "26 Pa. Superior Ct. 517"]
+---
+
+# Rementer v. Philadelphia
+
+## Majority (Beaver, J.,)
+
+Opinion by
+Beaver, J.,
+In the court below, two verdicts and. two judgments thereon were entered in the same suit, one in behalf of the husband of the wife who was injured, as claimed, by the negligence of the defendant, and the other in behalf of the wife. An appeal was taken from each of these judgments, but they were argued together.
+The plaintiffs claimed damages for an injury occasioned by a defect or break in the cover of a sewer inlet. The court refused the defendant’s point that “Under all the evidence in the case, the verdict must be for the defendant,” and also refused judgment non obstante veredicto upon motion, after the jury had returned verdicts for the plaintiffs. The court’s refusal of the defendant’s request for binding instructions, and the denial of the motion for judgment non obstante veredicto constitute the only assignments of error.
+The point was based upon the contributory negligence, as a matter of law, of the plaintiff’s wife. The court left the question, under plain and clear instructions, to the jury. These instructions were very simple and were so full and clear that the jury could not have been misled in regard to them. The testimony was somewhat conflicting and was of such a character that we think the court was entirely justified in submitting the question to the jury for their finding. The negligence of the defendant is not to be presumed in the trial of a case such as this, no more is the plaintiff to presume negligence on the part of the defendant, when using the streets of the city. It is true that she was to observe ordinary care in the use of the street, but such care does not prevent her from using the customary appliances for the care of a child. It is not alleged, as we un-' derstand it, that there was anything unusual in the form, fashion or make-up of the baby carriage in which her child was conveyed. When she reached the curb, the carriage with her infant in it was successfully lifted upon the sidewalk, and she, in attempting to follow, stepped into the opening, said by the plaintiffs’ witnesses to be ten inches across, and was injured. The defendant claims that the use of the baby carriage, having a canopy which protected the child from the sun, was such an obstruction the use of which constituted in itself contributory negligence. We do not think so. We think the trial judge fairly covered the attitude incumbent upon the plaintiff, when he said:
+“A man must exercise the care that a person off ordinary prudence would under like circumstances. And when you come to a woman pushing a baby coach, that is the test that you must measure her by. She must remember that she is not walking without anything in front of her. In other words, she must remember that she is pushing a baby coach, that to an extent obscures her view. A woman has a perfect right to use the streets in running a baby coach, and it would be ridiculous to say that persons must look underneath the baby coach or keep their eyes down all the time when they are pushing a baby coach. You must apply your common sense to that proposition and say how would a person of ordinary prudence push a baby coach? They ought to keep an eye in front of them, taking in their scope of vision a certain distance in front of them and a certain distance each side, keeping their eye on it as they go along. That is what they ought to do. They ought to make a closer inspection than the man or woman who does not have a baby coach in front of them, because a baby coach does obscure your view. Taking that, did this woman do that? If she did not, then she is guilty of contributory negligence. As I understand her, that is what she says she did do.”
+In Strader v. Monroe, 202 Pa. 626, the plaintiff was injured in crossing a bridge upon a bicycle behind her son, whose person and bicycle prevented her from seeing a misplaced plank against which her bicycle struck, causing her to fall over the side of the bridge. The situation and testimony were somewhat as they are here and, in the opinion disposing of the case, Mr. Justice Dean says: “As to her alleged contributory negligence, there was some evidence to sustain the charge, but it was not of that undisputed character, as appellant argues, to warrant the court in withdrawing it from the jury.”
+The cases upon which the appellant relies, Robb v. Connellsville Borough, 137 Pa. 42; Easton v. Philadelphia, 26 Pa. Superior Ct. 517, and Lerner v. City of Philadelphia, 221 Pa. 294, do not seem to us to be strictly in point, because of the fact that they all relate to conditions which were not present here. They do not have in them the presence of the baby coach or anything similar thereto. In the case last mentioned, Mr. Justice Stewart says: “When the accident occurs in broad daylight, in consequence of an open and exposed defect in the sidewalk, the burden rests upon the party complaining to show conditions outside of himself which prevented him seeing the defect, or which would excuse his failure to observe it. If such conditions exist, there is excuse for walking by faith. When they do not exist, the law charges the party with failure to do what was required of him.”
+As already intimated, the plaintiff had the right to presume, in crossing the street, that it was in good condition, or, as Mr. Justice Stewart expresses it, having her baby coach in front of her, she could walk by faith, at least to the extent that faith must necessarily, by reason of the presence of her baby ‘ carriage, have taken, to some extent, the place of sight.
+As we read the evidence, under all the authorities as we understand them, the case was for the jury. As to the manner in which it was submitted, there is not, as there could not well be, any exception.
+Judgment affirmed.
+Morrison and Porter, JJ., dissent.
