@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 43"
+decided: "1905-01-17"
+citations: ["27 Pa. Super. 171"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, Smith, Porter, Morrison and Henderson, JJ."]
+parties: ["Bill Posting Sign Company v. Jermon, Appellant."]
+source_url: "https://static.case.law/pa-super/27/cases/0171-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 856519
+cites_cases: ["105 Pa. 537", "154 Pa. 591", "161 Pa. 241", "172 Pa. 252", "183 Pa. 145", "37 Pa. 233", "4 Pa. Superior Ct. 415", "6 Whart. 274"]
+---
+
+# Bill Posting Sign Co. v. Jermon
+
+## Majority (Smith, J.,)
+
+Opinion by
+Smith, J.,
+In both a declaration and an affidavit of defense, facts must be stated which, if proved as set forth, are sufficient to sustain the action in the one case, or the defense in the other. This is too well settled to require any reference to authorities.
+If the determination of the case in hand depended on the sufficiency of the affidavit, the defense could not be sustained.. Its allegation that the plaintiff agreed to “ post certain bills,” advertising the defendant’s shows, “ prior to the production of any particular show,” and subsequent to its commencement, fails to set forth the quantum of service involved in the contract, — the number of bills to be posted, the localities where they were to be placed, or the number of shows to be advertised; its allegation of the plaintiff’s breach of contract describes neither the nature or extent of the breach, nor the resulting damage to the defendant, beyond a vague reference to “the injury to his business in not having his performances properly advertised, and in being forced to expend moneys in; advertising in the newspapers,” with" no statement of the. amount expended; and its allegation that the defendant “ has-suffered damage exceeding the amount claimed,” resting only; on the circumstances thus set forth, is without' the degree of certainty essential to a defense. Its statement as to what the-defendant “ is informed and verily believes ” need not be considered, since' it omits the indispensable feature of his expectation of being able to prove it.
+- But while the affidavit is fatally defective, the declaration is no less so. It sets forth a sum as “ justly due and owing by the defendant to the, plaintiff, as per copy of plaintiff’s books of original entry, hereto attached,” and that “plaintiff doth aver that the various work and materials furnished by the plaintiff to the defendant were at his special instance and request, upon the dates, in the quantities, and at the prices as set forth.in said copy.” Here is-a general averment of work- and materials furnished, with a reference to a copy of plaintiff’s books attached for .description and particulars. But this copy-describes nothing'substantial. It-is a collection of dates and-other figures, largely unintelligible, and giving the defendant no information of what he is charged with having received from the plaintiff, or what he is required to meet. The declaration and copy together are very far from forming a concise statement of the plaintiff’s demand, as required by the procedure act of 1887.
+The authorities cited to show that the defendant, if he chooses to meet a defective declaration with an affidavit instead of a demurrer, must rest on the defense therein set forth, do not sustain the contention on this point. In Waverly Bank v. Furman, 4 Pa. Superior Ct. 415, while the declaration was defective, the defendant not only filed an affidavit of defense but pleaded and went to trial on the merits. This was a waiver of any defect in the declaration. In Newbold v. Pennock, 154 Pa. 591, the defect in the declaration was pronounced “not inherently fatal.” The action was- by the indorsee against the maker of a promissory note, and the declaration contained no averment that the note had been indorsed to the plaintiff before maturity. Since an indorsement after maturity transfers the title, and gives the indorsee the same right to recover as on an indorsement before maturity, subject only to any defense the maker might have made against the payee, the omission in that case does not appear material; and the defendant failed by reason of the insufficiency of the defense set up in the affidavit.
+At common law, the defendant was not required to plead to a defective declaration. The procedure act has not changed the principles of pleading; and under that act the defendant is not required either to plead or reply by affidavit to an insufficient declaration. “ To entitle the plaintiff to judgment for want of an affidavit of defense, or of a sufficient affidavit of defense, the statement of his demand, under the Act of May 25, 1887, P. L. 271, must be self-sustaining; that is to say, it must set forth in clear and concise terms a good cause of action, by which is meant such statements of fact as, if not controverted, would entitle him to a verdict for the amount of his claim. . . . All the essential ingredients of a complete cause of action must affirmatively appear in the statement and exhibits which are made part thereof. ... It follows that the plaintiff’s statement in the case is fatally defective ; and without reference to any of the averments of the affidavit of defense it is not in a position to demand judgment:” Bank v. Ellis, 161 Pa. 241. This conclusion is equally applicable to the case now before us.
+Judgment reversed and procedendo awarded.
