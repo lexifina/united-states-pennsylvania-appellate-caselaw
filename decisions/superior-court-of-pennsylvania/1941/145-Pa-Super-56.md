@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 61"
+decided: "1941-07-01"
+citations: ["145 Pa. Super. 56"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cun•ningham, Baldrige, Rhodes, Hirt and Kenworthey, JJ."]
+parties: ["Walters v. Kaufmann Department Stores, Inc., Appellant."]
+source_url: "https://static.case.law/pa-super/145/cases/0056-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1035207
+cites_cases: ["144 A. 97", "153 A. 424", "157 A. 788", "294 Pa. 230", "302 Pa. 287", "305 Pa. 378", "334 Pa. 233", "5 A. 2d 559"]
+---
+
+# Walters v. Kaufmann Department Stores, Inc.
+
+## Majority (Baldrige, J.,)
+
+Baldrige, J.,
+Opinion by
+This appeal is from a judgment obtained in an action of trespass brought by the plaintiff to recover damages for injuries caused by the alleged negligence of the defendant. The sole question before us is stated by the appellant as follows: “Was the plaintiff as a matter of law, at the time of the accident for which suit was brought, an employee, either common law or statutory, of the defendant?”
+The case had been previously tried and a verdict for the defendant was directed on the ground that the plaintiff was its employee at the time of the accident and therefore her sole remedy was under the Workmen’s Compensation Act of June 2,1915, P. L. 736. The court in banc concluded that the plaintiff’s testimony developed facts sufficient for a jury to determine whether she was an employee of the defendant and accordingly granted a motion for a new trial. The Supreme Court on an appeal (Walters v. Kaufmann Department Stores, Inc., 334 Pa. 233, 5 A. 2d 559) affirmed the lower court’s action. Mr. Justice Drew, the writer of the opinion, ré-viewed the essential facts involved, which are substantially the same as adduced at the second trial. Our reference thereto will be briefer, therefore, than otherwise might be advisable.
+Mrs. Walters, a demonstrator of long experience, met representatives of the Carrollton Steel Company of Carrollton, Ohio, in New York. They proposed that she come to Pittsburgh to demonstrate their stainless steel kitchen products at Kaufmann’s store for a period of two weeks. She accepted the offer and assumed her duties. In the course thereof she met with an accident in the store. She never spoke to the defendant in regard to employment or wages. Mr. J. Irwin Flynn, the representative of defendant in charge of the seventh floor where the demonstration was held, admitted that the Carrollton Steel Company fixed her compensation, which was paid her out of money forwarded by the Steel Company to the defendant for that purpose. This fact alone is not decisive of the issues before us, but it is an indication that it was the Steel Company, rather than the defendant, who retained control over Mrs. Walters: Persing v. Citizens Traction Company, 294 Pa. 230, 144 A. 97; Lang et al. v. Hanlon et al., 305 Pa. 378, 157 A. 788.
+The defendant gave her no instructions as to when she was to work, made no demand of her that she make any report to it in connection with the demonstration, nor did it attempt to exercise generally any control or supervision over her activities. All that was required of her was a compliance with the rules and regulations in connection with an orderly conduct of its business, that she submit herself to a physical examination, and the furnishing of certain information given in a so-called application for employment blank, to which reference is hereafter made.
+The only evidence that was offered by the defendant at the second trial, not adduced previously, was the testimony of Mr. Fred F. Pfefferkorn, the treasurer of the Carrollton Steel Products Company, and the introduction of a copy of the application for employment blank. Pfefferkorn stated that the plaintiff was not employed by his company and that it had not exercised any control over her. He did not deny, however, that he was present in New York at the time the alleged contract was entered into or that the company paid her wages.
+Some of the information contained in the application for employment blank, such as the plaintiff’s name, address, date of birth, etc., was in Mrs. "Walters’ handwriting, but it was not signed by her. It set forth that she was a demonstrator for two weeks for the Carroll-ton Metal Company products, but it makes no mention of salary or of her position with the defendant company.
+This additional evidence was simply cumulative. It in no way affected the ease made out by the plaintiff and was not of such a character that warranted the court’s withdrawal of the conflicting factual issues from the consideration of the jury.
+The appellant vigorously asserts that the plaintiff comes within the definition of a statutory employee under section 203, Article II, of the Workmen’s Compensation Act of June 2, 1915, P. L. 736, as amended, 77 PS §52. We think the contention is entirely without merit in view of the jury’s finding. In McDonald v. Levinson Steel Company, 302 Pa. 287, 153 A. 424, the Supreme Court held that because work is done on one’s own property in the course of his regular business does not of itself bring a workman within our compensation laws. There must be a relationship of master and servant. Former Chief Justice Kephart there said p. 294: “To create the relation of statutory employer under section 203 of the act, all of the following elements essential to a statutory employer’s liability must be present: (1) An employer who is under contract with an owner or one in the position of an owner. (2) Premises. occupied by or under the control of such employer. (3) A subcontract made by such employer. (4) Part of the employer’s regular business entrusted to such subcontractor. (5) An employee of such subcontractor.” It is very apparent that the facts as found by the jury did not bring the plaintiff within this provision of the statute.
+The learned court below in a full and fair charge, to which, a general exception only was taken, carefully submitted to the jury all the questions involved, which included instructions that the jury should decide whether the plaintiff was an employee of the Steel Company or Kaufmanns. In view of the ruling of the Supreme Court that the plaintiff’s testimony at the former trial, practically the same as here, was sufficient for submission to a jury, the learned trial judge below would have committed error if he had held as a matter of law that the plaintiff was not entitled to recover.
+Judgment is affirmed.'
+Judge Stadtfeld took no part in the consideration of this case.
