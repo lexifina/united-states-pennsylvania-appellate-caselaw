@@ -1,0 +1,57 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "446 C.D. 1991"
+decided: "1991-11-21"
+citations: ["143 Pa. Commw. 523", "600 A.2d 234"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DOYLE and McGINLEY, JJ., and BARBIERI, Senior Judge."]
+parties: ["ESTATE OF Gene A. STETTLER, Deceased, Appellant, v. DEPARTMENT OF REVENUE, Appellee."]
+source_url: "https://static.case.law/pa-commw/143/cases/0523-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1423163
+cites_cases: ["360 F.Supp. 116"]
+---
+
+# Estate of Stettler v. Department of Revenue
+
+## Majority (McGINLEY, Judge.)
+
+McGINLEY, Judge.
+This is an appeal by the Estate of Gene A. Stettler (Estate) from an order of the Court of Common Pleas of York County (Orphans’ Court) dismissing the appeal of the Estate and sustaining the Department of Revenue’s (Department) assessment of tax and interest against the Estate pursuant to the Inheritance and Estate Tax Act (Act).
+The Estate and the Department stipulated to the following facts. On March 12, 1987, Gene A. Stettler (husband) died and was survived by his wife Sarah S. Stettler (wife). No grant of letters testamentary or letters of administration were granted by the Register of Wills of York County. At the time of husband’s death, he had an employee stock option plan (ESOP) issued to him by his former employer, Dentsply International, Inc. The wife was the transferee of the ESOP. On February 21,1989, the Department requested the Estate to file a Pennsylvania Inheritance Tax return. On the return the value of the ESOP at the time of husband’s death was listed at $97,314.27. The Estate claimed an exemption from the inheritance tax under the Employment benefits provision, Section 1711(r) of the Act, 72 Pa.C.S. § 1711(r).
+On July 11, 1989, the Department notified the Estate of an inheritance tax assessment of $5,838.63 and interest of $1,034.45 for a total of $6,873.31. Notice of Inheritance Tax Appraisement, Allowance or Disallowance of Deductions, and Assessment of Tax, July 11, 1989, Reproduced Record (R.R.) at 4a. The Estate appealed and the matter was submitted on briefs to the Orphans’ Court. On February 12, 1991, the Orphans’ Court denied the appeal.
+On appeal to this Court the Estate argues that because the ESOP qualifies for the unlimited marital deduction and is not subject to federal estate tax, the ESOP is also exempt from the Pennsylvania inheritance tax.
+This issue was raised before the Orphans’ Court and ably disposed of in the comprehensive opinion of the Honorable John T. Miller which found that the ESOP is not exempt. As a result we shall affirm on the basis of that opinion. Estate of Gene A. Stettler, No. 67-87-1252 Orphans’ Court Division, opinion filed February 12, 1991.
+ORDER
+AND NOW, this 21st day of November, 1991, the order of the Court of Common Pleas of York County is affirmed upon the opinion of the Honorable John T. Miller in Estate of Gene A. Stettler, No. 67-87-1252, Orphans’ Court Division, opinion filed February 12, 1991, which shall be reported in full herewith.
+APPENDIX
+IN THE COURT OF COMMON PLEAS OF YORK COUNTY, PENNSYLVANIA ORPHANS’ COURT DIVISION
+Estate of
+Gene A. Stettler,
+Deceased
+No. 67-87-1252
+APPEARANCES:
+Smith, Anderson, Baker, Long & Rausch, Esqs., By W. William Anderson, Esq., For the Appellant
+Vicky Ann Trimmer, Esq. Assistant Counsel
+Department of Revenue Commonwealth of Pennsylvania For Appellee
+OPINION
+This matter is before the Court on appeal by the Estate of Gene A. Stettler from a Notice of Inheritance Tax Appraisement and Assessment of Tax issued by the Pennsylvania Department of Revenue. The general issue is whether the decedent’s interest in an Employee Stock Option Plan (ESOP) issued by decedent’s former employer is properly includable in the taxable estate, or whether it is exempt under the Pennsylvania Inheritance and Estate Act, 72 Pa.C.S.A. § 1711(r). We hold that the ESOP is not exempt from such taxation.
+The stipulated facts are that the decedent, Gene A. Stettler, died on March 12, 1987, survived by his wife, Sarah S. Stettler. Sarah S. Stettler, the decedent’s wife, died on December 24, 1987. Sarah S. Stettler was a transferee upon the decedent’s death of an Employee Stock Option Plan (ESOP) issued by the decedent’s former employer, Dentsply International, Inc. On February 21, 1989, at the request of the Pennsylvania Department of Revenue, the Co-executors for the Estate of Sarah S. Stettler, transferee of the decedent’s ESOP, filed a Pennsylvania Inheritance Tax Return on behalf of the Estate of Gene A. Stettler. The ESOP was valued at $97,314.27. However, an exemption was claimed under the employee benefits provision of the Inheritance and Estate Tax Act of 1982. On July 11, 1989, the Department of Revenue issued a Notice of Inheritance Tax Appraisement and Assessment of Tax assessing the inheritance tax due as $5,838.36 and the interest as $1,034.45, a total of $6,873.31.
+The Executors of the Estate of Sarah S. Stettler filed an appeal on August 1, 1989. On the same date a citation was awarded directing the Commonwealth to show cause why the appeal should not be sustained. The Department filed its response to the petition for appeal.
+The precise issue question raised by both parties is whether the decedent’s Employee Stock Option Plan (ESOP) is exempt from the Pennsylvania Inheritance Tax under the employment benefit provisions, 72 Pa.C.S.A. § 1711(r), if the plan qualifies for the marital deduction under the Federal Estate Tax by virtue of its passing to the surviving spouse. That section provides:
+Employee benefits. — Payments under pension, stock bonds profit sharing and other retirement plans including, but not limited to, H.R. 10 plans, individual retirement accounts, individual retirement annuities and individual retirement bonds to distributees designated by decedent or designated in accordance with the terms of the plan, are exempt from inheritance tax to the extent that decedent before his death did not otherwise have the right to possess (including proprietary rights at termination of employment), enjoy, assign or anticipate the payment made. In addition to this exemption, whether or not the decedent possessed any of these rights, the payments are exempt from inheritance tax to the same extent that they are exempt from Federal Estate tax under the provisions of the Internal Revenue Code of 195b, as amended, any supplement to the code, or any similar provision in effect from time to time for Federal estate tax purposes, except that a payment which would otherwise be exempt for Federal estate tax purposes if it had not been made in a lump-sum or other nonexempt form of payment shall be exempt from inheritance tax even though paid in a lump-sum or other form of payment. The proceeds of life insurance otherwise exempt under subsection (d) shall not be subject to inheritance tax because they are paid under a pension, stock bonus, profit-sharing, H.R. 10 or other retirement plan, (emphasis added)
+72 Pa.C.S.A. § 1711(r).
+Both parties agree that the decedent was the owner of the ESOP at the time of his death, and that its full value was includable in his gross estate for Federal Estate Tax purposes. A Federal Estate Tax Return was not filed, however, because of the unlimited marital deduction provision of § 2056(a), 26 U.S.C.A. which provides inter alia:
+For purposes of the tax imposed by Section 2001, the value of the taxable estate shall, except as limited by subsection (b) [not here relevant], be determined by deducting from the gross estate an amount equal to the value of any interest in property which passes or has passed from the decedent to his surviving spouse, but only to the extent such interest is included in determining the value of his gross estate.
+The question, then, is whether the value of the ESOP is a “deduction” under the Internal Revenue Code (and therefore taxable in the decedent’s Pennsylvania taxable estate), or whether it is exempt from Federal Estate Tax and therefore exempt from Pennsylvania inheritance taxation. We are satisfied that the terms “deduction” and “exemption” define concepts that are separate and distinct. A deduction for the purposes of estate taxation refers to the amount subtracted from the gross estate to arrive at the net estate for tax purposes, the net estate being the part of the estate remaining after payment of charges against the entire estate. Black’s Law Dictionary (Revised 5th Edition 1979) at 372. On the other hand, an exemption may be defined as a relieving of certain classes of property from liability to taxation. Black’s Law Dictionary, supra, at 513. Exempt property is therefore excluded from taxation and need not be identified since disclosure provides no additional information. On the other hand, something which is deductible must be disclosed so that, if appropriate, it can be subtracted from the balance of the gross estate in order to arrive at a figure which represents the net estate. Exempt property, therefore, is not included in the decedent’s gross estate, for exemptions are excluded from the valuation of the gross estate. Deductions, on the other hand, are subtracted from the value of the gross estate, which gross estate valuation necessarily includes the property subsequently deducted in order to arrive at the valuation of the net estate.
+The marital deduction was written into the Internal Revenue Code as an attempt to equalize estate and gift tax liability between community property states and common law states. Its practical effect is to defer taxation on some part of the decedent’s estate passing to the surviving spouse until the death of the spouse. Pennsylvania National Bank and Trust Co. v. United States, 360 F.Supp. 116 (M.D.Pa.1973). It is clear that the value of the ESOP must be included in the gross estate of the decedent for Federal Estate Tax purposes. Its value was not taxable in the estate only by virtue of the marital deduction provisions of the Internal Revenue Code as set forth above. Were it not for those marital deduction provisions, the value of the ESOP in the decedent’s estate would be fully taxable. Therefore, the value of the ESOP, rather than being exempt from federal estate taxation, is merely one of the items deducted from the gross estate in order to calculate the net estate. It does not represent a class of property that is exempt from taxation, but only a value which is deductible from the total gross estate for the purposes of fixing the amount upon which the Federal Estate Tax will attach.
+Since we have determined that the ESOP is not exempt from Federal Estate Tax under the provisions of the Internal Revenue Code, it follows that it is not exempt from Pennsylvania Inheritance Tax under § 1711(r) of the Pennsylvania Inheritance and Estate Tax Act. Accordingly, we enter the following Order.
+BY THE COURT,
+/s/John T. Miller /s/ John T. Miller Judge
+Dated: February 12, 1991
+ORDER
+AND NOW, TO WIT: This 12th day of February, 1991, the Appeal of the Executors is dismissed, and the assessment of Inheritance Tax and interest by the Department of Revenue is sustained.
+. 72 Pa.C.S. §§ 1701-1754.
+. On December 24, 1987, the wife died and letters testamentary on her estate were granted by the Register of Wills of York County.
