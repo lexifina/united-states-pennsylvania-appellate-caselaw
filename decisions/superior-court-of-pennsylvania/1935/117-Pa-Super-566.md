@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 44"
+decided: "1935-04-22"
+citations: ["117 Pa. Super. 566"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Stadteeld, Parker, James and Rhodes, JJ."]
+parties: ["Thomas v. Scranton Lackawanna Trust Company, Appellant."]
+source_url: "https://static.case.law/pa-super/117/cases/0566-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 981565
+cites_cases: ["102 Pa. Superior Ct. 66", "138 A. 849", "156 A. 596", "174 A. 397", "290 Pa. 331", "316 Pa. 148", "92 Pa. Superior Ct. 124"]
+---
+
+# Thomas v. Scranton Lackawanna Trust Co.
+
+## Majority (Rhodes, J.,)
+
+Opinion by
+Rhodes, J.,
+This is an appeal by the Scranton Lackawanna Trust Company, guardian of the estate of David H. Thomas, from an order of the Court of Common Pleas of Lackawanna County, entering a judgment for the plaintiff: in the amount of three hundred twenty-five dollars ($325), and directing the defendant guardian to continue to pay the support order of the court of quarter sessions until further order of that court. The case was submitted to the court below. on an agreed statement of facts of which the following are the most important:
+The Scranton Lackawanna Trust Company was appointed guardian of the estate of David H. Thomas by the court of common pleas on April 8, 1924, on the ground that David H. Thomas was a feeble minded person whose estate was likely to be dissipated. Up until January 1, 1934, Thomas was engaged in the automobile trucking business. On November 26, 1930, David H. Thomas and Evelyn Baker were married. On September 22, 1932, the Court of Quarter Sessions of Lackawanna County directed David H. Thomas to pay to Evelyn Thomas as his wife, for her support and maintenance, the sum of $40 per month. The amount which accrued under this order to July 15, 1934 was $880, of which David H. Thomas personally paid $555, leaving a balance unpaid of $325.
+David H. Thomas, by the Scranton Lackawanna Trust Company, instituted an action in divorce against his wife, Evelyn Thomas, alleging that at the time of their marriage he was a non compos mentis person and a ward of the court, and that, therefore, the marriage was obtained through fraud on the part of Evelyn Thomas. The court, after a full hearing on the merits, dismissed the libel at the cost of the libellant on January 27, 1933. Thereafter, David H. Thomas, by his guardian and next friend Mary Thomas, filed his bill in equity in the Court of Common Pleas of Lackawanna County to annul the marriage contract entered into with Evelyn Thomas, his wife, alleging as a ground of annulment that he was a non compos mentis person and a ward of the court at the time of the marriage. This bill in equity was dismissed by the Court of Common Pleas of Lackawanna County by agreement of counsel for the parties.
+The Scranton Lackawanna Trust Company as guardian of the estate of David H. Thomas, was not notified of the marriage, nor was it notified of the order of the Court of Quarter Sessions of Lackawanna County directing the payment of $40 per month for support of the wife, Evelyn Thomas, until the institution of the proceedings involved in this appeal.
+This proceeding began when Evelyn Thomas, on October 27, 1933, filed a petition upon which a rule was granted on the Scranton Lackawanna Trust Company, guardian of the estate of David H. Thomas, to show cause why the trust company as guardian should not pay to the petitioner the amount of arrearage under the order of the court of quarter sessions for support. The Scranton Lackawanna Trust Company as guardian of the estate of David H. Thomas filed its answer, and on July 25, 1934, the court below on the agreed statement of facts, entered judgment for Evelyn Thomas in the amount of $325, and directed the defendant guardian to continue to pay the order of the court of quarter sessions until further order of the said court. The Scranton Lackawanna Trust Company, guardian of the estate of David H. Thomas, appealed.
+The appellant contends that the marriage of David H. Thomas and Evelyn Thomas is invalid, and that the question of its validity can be raised in these proceedings to enforce payment of the arrearage under the support order. It should be noted that the question of the validity of the marriage was not raised in the non-support case in the court of quarter sessions below. This very same question was, however, the basis of the divorce action brought by David H. Thomas through the Scranton Lackawanna Trust Company, guardian of the estate of David H. Thomas, against his wife, Evelyn Thomas. After a full hearing on its merits, the libel was dismissed. There was no appeal from that decree, therefore the marriage between the parties remained in full force and effect. The lower court very properly ruled that it was precluded in this present proceeding from any consideration of whether or not this marriage was valid, because the question had already been adjudicated in the divorce proceeding by a court of competent jurisdiction. The question which appellant now raises is res adjudicata. It was said in Commonwealth v. McEvans, 92 Pa. Superior Ct. 124, 128 that “When a fact has once been determined in the course of a judicial proceeding and a final judgment rendered in accordance therewith, it cannot, so long as it remains unreversed, be again litigated between the same parties.”
+This proceeding is between the same parties and involves the same question of fact as in the divorce action. The matter has therefore been adjudicated and it is the policy of the law that it should not be retried: Brobston v. Darby Borough, 290 Pa. 331, 138 A. 849; Balis Bros. v. Latta, 102 Pa. Superior Ct. 66, 156 A. 596; Wallace’s Estate, 316 Pa. 148, 174 A. 397.
+The assignments of error are overruled, and the judgment and order of the court below are affirmed.
