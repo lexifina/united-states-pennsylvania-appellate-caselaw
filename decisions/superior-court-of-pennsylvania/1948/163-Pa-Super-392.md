@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 162"
+decided: "1948-11-09"
+citations: ["163 Pa. Super. 392"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, Ross, Arnold and Fine, JJ."]
+parties: ["Sones v. Thompson Furniture Company, Appellant."]
+source_url: "https://static.case.law/pa-super/163/cases/0392-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 464209
+cites_cases: ["124 Pa. Superior Ct. 328", "135 A. 652", "135 Pa. Superior Ct. 550", "138 A. 855", "159 Pa. Superior Ct. 214", "188 A. 395", "288 Pa. 104", "290 Pa. 341", "48 A. 2d 116", "5 A. 2d 815", "87 Pa. Superior Ct. 440"]
+---
+
+# Sones v. Thompson Furniture Co.
+
+## Majority (Rhodes, P. J.,)
+
+Opinion by
+Rhodes, P. J.,
+In this workmen’s compensation case, William D. Thompson and Earmon Thompson, trading and doing business as the Thompson Furniture Company, have appealed from the judgment of the court below sustaining an award of compensation to claimant for the loss of use of three fingers of the right hand. Claimant was accidentally injured on November 21, 1946, while he was operating a power driven circular saw upon the premises of appellants. Appellants were engaged in manufacturing furniture, and claimant’s injury occurred while making the forms. On this appeal, appellants present two contentions: (1). That no contract of employment existed between claimant and appellants at the time the accident occurred, and (2) that if such contract did exist the character of the employment was merely casual.
+We agree with the conclusion of the Workmen’s Compensation Board and the court below that claimant was an employee of appellants, and that he was injured in the regular course of appellants’ business. In James v. Shapiro et al., 135 Pa. Superior Ct. 550, at page 556, 5 A. 2d 815, at page 818, we said: “A prerequisite to recovery of compensation by claimant was a showing that deceased was an employee (Carville v. A. F. Bornot & Co., 288 Pa. 104, 135 A. 652), and bore to the one sought to be charged the relation of master and servant (Sgattone v. Mulholland & Gotwals, Inc., et al., 290 Pa. 341, 138 A. 855). The relation of employer and employee, as contemplated by the Workmen’s Compensation Act of 1915, supra, arises only where there is a contract of hiring, express or implied (Lehman v. Commissioners of Northumberland County, 87 Pa. Superior Ct. 440); and the burden of proving that deceased was an employee of Shapiro was upon claimant (Logue v. Gallagher et al., 124 Pa. Superior Ct. 328, 332, 188 A. 395).” In the present case the referee found that on November 18, 1946, the claimant began his employment with appellants in their plant at Bellefonte, Pennsylvania, as a carpenter and sawyer; and that appellants had engaged claimant to work in their plant, and, although there was no actual rate of pay agreed upon, at the time of his accident claimant was engaged in the duties assigned to him by his employer, and the work was being performed on the working premises of the employer. The board adopted the findings of the referee, and in addition thereto found that on November 19,1946, claimant was advised that the rate of pay would be eighty cents per hour. All these findings are supported by the evidence. William D. Thompson, one of the appellants, testified: “Q. . . . what would you say his [claimant’s] status was there in your shop? A. Oh, he was to try out and see how he could make it, the week all right, that’s to do our work, the kind that we had. Q. Did you expect him to work for nothing during that time? A. No, we don’t expect anybody to work for nothing. Q. You contemplated paying him, it was just a question of how much? A. It was a question of how much. . . . Q. And is it true that you ever stated that his job was open for him when he recovered far enough to work? A. That is true.” Claimant testified without contradiction that on the second day after he commenced work one of the appellants told him that they were going to pay the whole shop eighty cents per hour.
+It thus appears that claimant commenced work for appellants on November 18, 1946, under a contract of employment in which the single factor of rate of compensation was left open for future determination. However, on November 19, 1946, a rate of eighty cents per hour was fixed, with the result that on November 21, 1946, when the accident occurred, there existed between the parties a contract of employment which was complete in all respects. The conclusion that claimant was an employee of appellants under the Workmen’s Compensation Act at the time of his injury was warranted and proper.
+The second contention of appellants is entirely without merit. It would not be sufficient for appellants to establish that claimant’s employment was casual. They would be obliged to go further and show that the employment was not in the regular course of their business. They did neither. Workmen’s Compensation Act of June 2, 1915, P. L. 736, § 104, as further reenacted and amended by the Act of June 21, 1939, P. L. 520, § 1, 77 PS § 22; DeMay v. Pine Township School District et al., 159 Pa. Superior Ct. 214, 48 A. 2d 116. Appellants’ position in this respect is in direct conflict with the facts and with their own testimony.
+Judgment is affirmed.
