@@ -1,0 +1,39 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1172"
+decided: "1980-09-05"
+citations: ["281 Pa. Super. 110", "421 A.2d 1172"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before SPAETH, BROSKY and VAN der VOORT, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania, v. Donald CUTTS, Appellant."]
+source_url: "https://static.case.law/pa-super/281/cases/0110-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 152740
+cites_cases: ["200 A. 632", "231 Pa.Super. 300", "263 Pa.Super. 206", "264 A.2d 712", "265 Pa.Super. 225", "271 Pa.Super. 145", "331 Pa. 145", "332 A.2d 464", "438 Pa. 37", "463 Pa. 529", "474 Pa. 548", "55 A.L.R.3d 620", "98 Pa.Super. 340"]
+---
+
+# Commonwealth v. Cutts
+
+## Majority (SPAETH, Judge:)
+
+SPAETH, Judge:
+This is an appeal from a judgment of sentence for aggravated assault and recklessly endangering another person. Appellant argues that the evidence was insufficient to sustain the convictions.
+In Commonwealth v. Herman, 271 Pa.Super. 145, 412 A.2d 617, we stated:
+In testing the sufficiency of the Commonwealth’s evidence, we proceed in several steps. First, we accept as true all the evidence upon which the finder of fact could properly have reached its verdict. Next we give the Commonwealth the benefit of all reasonable inferences arising from that evidence. And finally, we ask whether the evidence, and the inferences arising from it, are sufficient in law to prove beyond a reasonable doubt that the defendant is guilty of the crime or crimes of which he has been convicted. This inquiry is bounded by two poles. On the one hand, the Commonwealth does not have to establish guilt to a mathematical certainty and may in a proper case rely wholly on circumstantial evidence. On the other hand, guilt must be proved; mere conjecture or surmise is not sufficient. See Commonwealth v. Madison, 263 Pa.Super. 206, 397 A.2d 818 (1978); Commonwealth v. Morgan, 265 Pa.Super. 225, 401 A.2d 1182 (1979).
+Read in the light of these principles, the Commonwealth’s evidence may be summarized as follows.
+Ethel Bagby, a barmaid at an establishment in Philadelphia, was at work on September 2, 1978, when appellant entered and asked her to telephone the police. Bagby informed appellant that the bar did not have a phone and resumed waiting on patrons. A few minutes later six or seven people entered the bar looking for appellant. N.T. 14 (December 8, 1978). Some of them were armed with cue sticks and bats, which they began swinging at appellant, who moved behind the bar with Bagby to avoid them. N.T. 9, 27a (December 8, 1978). Bagby observed a “girl with a stick” reaching over the bar trying to hit appellant, at which point she tried to move past appellant and the girl. N.T. 10 (December 8, 1978). Bagby saw appellant’s right hand go up, and come down on her arm with a “shiny instrument” in it. N.T. 10 (December 8, 1978). She felt a “sting” in her arm, and when she looked down, saw her “whole arm . . . laying wide open.” N.T. 11 (December 8, 1978). Bagby’s son happened upon the scene and took her to the hospital where she received several large stitches in her arm. N.T. 11, 13 (December 8, 1978). She suffered a damaged nerve in her arm and had several scars after the stitches were removed. N.T. 12 (December 8, 1978). Bagby and her son had left the altercation whilé it was still in progress; she did not observe any injury to appellant before she left nor did she see any of the attackers move behind the bar and attack him there. N.T. 13, 38 (December 8, 1978). Appellant did ultimately suffer a fractured and lacerated hand. N.T. 25, 27 (December 8, 1978).
+Appellant argues that the evidence raised the question of whether he was acting in self-defense when he injured Bagby, and that the Commonwealth failed to meet its burden of proving beyond a reasonable doubt that he was not doing so. Commonwealth v. Eberle, 474 Pa. 548, 379 A.2d 90 (1977); Commonwealth v. Cropper, 463 Pa. 529, 345 A.2d 645 (1975). Appellant acknowledges that there are no Pennsylvania cases that require the Commonwealth to meet this burden where a defendant accidentally assaults a third party, rather than the alleged attacker, but he argues that we should so hold here.
+Initially, we agree with appellant that the Commonwealth had the burden of proving that he was not acting in self-defense when he injured Bagby. Several states have recognized that a defendant may be said to have acted in self-defense when he accidentally injures a third party while defending himself against an alleged attacker, and may be absolved of liability as long as he did not act negligently toward the third party. See 55 A.L.R.3d 620, 623 (1974) (collecting cases). In addition, Pennsylvania recognizes the analogous defense of “homicide by misadventure.” In Commonwealth v. Flax, 331 Pa. 145, 156-157, 200 A. 632, 637-38 (1938), the Supreme Court stated:
+“Three elements enter into the defense of excusable homicide by misadventure: [1] The act resulting in death must be a lawful one; [2] It must be done with reasonable and due regard for the lives and persons of others; and [3] the killing must be accidental and not intentional, or without unlawful intent or without evil design or intention on the part of the slayer.”
+(Quoting 30 C.J., page 87, sec. 269.)
+See Commonwealth v. Beach, 438 Pa. 37, 264 A.2d 712 (1970).
+Here, the Commonwealth met its burden of showing that appellant was not acting in self-defense when he assaulted Bagby. Section 505 of the Crimes Code provides in pertinent part:
+(a) Use of force justifiable for protection of the person. —The use of force upon or toward another person is justifiable when the actor believes that such force is immediately necessary for the purpose of protecting himself against the use of unlawful force by such other person on the present occasion.
+[(b)](2) The use of deadly force is not justifiable under this section unless the actor believes that such force is necessary to protect himself against death, [or] serious bodily injury.
+In Commonwealth v. Jones, 231 Pa.Super. 300, 304, 332 A.2d 464, 465-6, (1974), this court stated that when an “actor is confronted by non-deadly force, . . . the actor’s retaliation must not be excessive.” In that case, we held that the defendant had used excessive force to defend himself where a number of youths kicked and pushed him and he stabbed one of them with a knife. We stated that the “[w]ielding” of a knife “amounts to the use of deadly force,” which was unjustified under the circumstances. 231 Pa.Super. at 305-306, 332 A.2d at 466-467. We came to a similar conclusion in Commonwealth v. Sacco, 98 Pa.Super. 340 (1929), where we held that the defendant’s use of a small pen knife to inflict a serious wound on the victim was excessive in light of the fact that the victim had only hit the defendant with his fist. Here, appellant’s use of a “shiny instrument” to inflict serious injury on Bagby’s arm was excessive given that appellant was only immediately threatened by one girl who was poking a stick at him. Neither the girl nor any of the other attackers had touched appellant before he stabbed Bagby, nor does it appear that at that point they could have caused serious injury to him since he had retreated behind the bar. How appellant was ultimately injured is not clear, but in any case, his later injury did not justify his earlier use of excessive force against Bagby. Moreover, irrespective of appellant’s need to assert force against the attackers, he acted negligently toward Bagby by wielding his “shiny instrument” when he must have been aware that she was trying to escape.
+Affirmed.
+. 18 Pa. C.S.A. § 2702 (Purdon’s 1973).
+. 18 Pa. C.S.A. § 2705 (Purdon’s 1973).
+. 18 Pa.C.S.A. § 505 (Purdon’s 1973).
