@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 168"
+decided: "1897-01-18"
+citations: ["3 Pa. Super. 419"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Wheard, Wickham, Beaver, Reeder, Orlady and Smith, JJ."]
+parties: ["John Pfaff, Appellant, v. Charles Leh Thomas."]
+source_url: "https://static.case.law/pa-super/3/cases/0419-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 274345
+cites_cases: ["124 Pa. 337", "145 Pa. 8", "146 Pa. 485", "153 Pa. 3", "158 Pa. 117", "159 Pa. 446", "160 Pa. 473", "161 Pa. 508", "168 Pa. 117", "87 Pa. 326"]
+---
+
+# Pfaff v. Thomas
+
+## Majority (Smith, J.,)
+
+Opinion by
+Smith, J.,
+This is an appeal by the plaintiff from an order making absolute a rule to open a judgment entered on a single bill with warrant of attorney, upon the allegation of partial want of consideration, and of duress in its execution. In view of the testimony of the defendant and that of his father-in-law, together with the plaintiff’s admission that at the time the instrument was executed he told the defendant that if the money demanded was not paid he would have him arrested, we are not prepared to say that the court below erred in the exercise of its discretion: Stockwell v. Webster, 160 Pa. 473.
+Prior to the act of May 20,1891, no appeal would lie to an order of the court opening a judgment because such an order was interlocutory: Building & Loan Ass’n v. Hoagland, 87 Pa. 326. Under the provisions of this act, however, appeals may be taken from such orders and are to be heard “ in like manner as appeals from final decrees to the Supreme Court.” But neither the act of May 20, 1891, nor that of April 4, 1877 takes away the discretion vested in the common pleas, in regard to the opening of judgments. Those acts give the right of appeal to any party aggrieved by the decision of the court, on proceedings to open, vacate or strike off judgments entered “by amicable confession, upon warrant of attorney or otherwise; ” thus making reviewable that which was formerly a matter of absolute discretion in the court below. Upon appeal under either act the appellate court is not called upon to review the whole case in extenso; its function is to examine and determine whether the discretion of the common pleas has been properly exercised. These applications are addressed to the equity powers of the court, and the judge who hears them sits as a chancellor and disposes of them in accordance with the principles of equity: Kelber v. Plow Co., 146 Pa. 485 ; Jenkintown Nat. Bank v. Fulmor, 124 Pa. 337. The decision of the chancellor must, of course, rest upon competent evidence, and if not so founded it will be set aside by the appellate court: Woods v. Irwin, 28 W. N. 187. With this qualification, however, where the court below passes upon the credibility of the witnesses and the weight of the evidence, and bases its decision upon the whole case presented, the conclusion thus arrived at will not be disturbed unless it is clearly shown that a mistake-in law or in fact has been committed.
+The growing frequency of this class of appeals, and the duty of the appellate courts to review the proceedings in the same manner as if they were regular proceedings in equity, suggest that we again call attention to the defective and unsatisfactory manner in which these cases are presented for review. In the case of Fisher v. King, 153 Pa. 3, a rule to open the judgment was granted on the defendant’s affidavit, and without answer, the parties proceeded to take testimony, after which the cause was submitted and disposed of by the court without further pleadings. The decree of the court in that case was, “rule discharged.” The only difference between the proceedings in that case and the proceedings in the one before us is that here the decree is “ rule absolute.” Speaking of the necessity of a more orderly practice, the Supreme Court, in Fisher v. King, through Mr. Justice Dean, said: “ The records of the court import verity; any attempt to impeach or set aside a judgment for matters outside the record should be permitted only after a plain issue has been made up by petition verified by affidavit, with answer responsive thereto; then the testimony taken should be limited to the issue. In such proceedings the judge of the common pleas is called upon to exercise equity powers ; he passes on the evidence and the law, and although a jury may intervene, the efi'd is the same, the final decree of a court of equity. Being decrees wholly equitable, the reasons for them become important. The entries, ‘rule absolute,’ or ‘rule discharged,’ are, doubtless, in the mind of the court, the dictates of a sound discretion; still, in reviewing that discretion, we 'cannot always take for granted what does not appear, or is not a reasonable inference from what does appear. . . . Therefore the findings of fact and the inferences therefrom are just as essential to a fair review,” in these cases, “ as those of a master in chancery,” in regular equity proceedings.
+As this case goes back for trial on the issues raised by the affidavit upon which the rule to open is based, we refrain from any discussion of the matters disclosed by the depositions.
+The appeal is dismissed at the costs of the appellant, but without prejudice, etc.
