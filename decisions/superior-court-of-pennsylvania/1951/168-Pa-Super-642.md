@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 202"
+decided: "1951-07-19"
+citations: ["168 Pa. Super. 642"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Ross, Arnold and Gunther, JJ.. (Dithrich, J.,. absent). ."]
+parties: ["Siderio Unemployment Compensation Case."]
+source_url: "https://static.case.law/pa-super/168/cases/0642-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 471956
+cites_cases: ["160 Pa. Superior Ct. 65", "164 Pa. Superior Ct. 435", "165 Pa. Superior Ct. 153", "49 A. 2d 872", "65 A. 2d 426", "67 A. 2d 639"]
+---
+
+# Siderio Unemployment Compensation Case
+
+## Majority (Hirt, J.,)
+
+Opinion by
+Hirt, J.,
+.. Claimant, the. .appellant, here, had been. employed by .the Sun Shipbuilding and. Dry . Dock .Company for ten.months prior, to_his discharge on October 3, .1949. After the termination, of .that employment he. worked but one day for another employer and then filed the present claim for unemployment compensation. The Board properly found him ineligible under the circumstances.
+As to the reasons for claimant’s severance from his employment with the Sun Company, his base year employer, the Board made the following findings: “3. The Sun Shipbuilding & Dry Dock Company issues pink slips to its employees for infractions of company rules, the first two of which serve as warnings, and the third resulting in dismissal. At the time claimant was hired, he was furnished with a book containing the rules and regulations of this company. These pink slips are given only after investigation, discussion, and an opportunity has been afforded to the employee to disprove the violation of the company rule with which he is charged.’ 4. Claimant received three, pink slips for infraction of rules and regulations of the Sun Shipbuilding & Dry Dock Company, which he accepted without objection. They were for loafing on the job, and for lateness in reporting for work. The third slip was issued to him for lateness and as a result he was discharged by this employer on October 3, 1949.”
+The testimony, and it' is undisputed, is that claimant received his first pink slip in February 1949 charging that he had been loafing on the job. A second pink slip was given him in the Spring of 1949 when in violation of the company rules he had been continually late in reporting for work over a period of two weeks. He received his third slip in October 1949 for infraction of the same rule when for two or three weeks he again had been late in reporting for work. He did not protest the grounds of any of these complaints and he was discharged in accordance with established regulations of. the company óf which he had notice. The above findings of fact are supported by substantial competent "evidence and "are binding'Upon us. Hall v. Unem ployment Comp. Bd. of Rev., 160 Pa. Superior Ct. 65, 49 A. 2d 872. The question of a capricious disregard of other competent evidence under the rule of Tronieri Unempl. Compensation Case, 164 Pa. Superior Ct. 435, 65 A. 2d 426, is not involved.
+There was no good reason for claimant’s failure to comply with the company rules; his conduct therefore was willful. We have specifically held “that repeated absences from work without good cause, and particularly in the face of warnings by the employer, constitute willful misconduct connected with the work”: Devlin Unemploy. Compensation Case, 165 Pa. Superior Ct. 153, 67 A. 2d 639. The principle applies, as well, to habitual tardiness in reporting for work. Accordingly on separation from his employment with the Sun Company on October 3, 1949, claimant was disqualified from unemployment compensation benefits under §402(e) of the Act of'December 5, 1936, Second Ex. Sess. P. l; (1937) 2897, . as amended, 43 PS §802:
+But conceding this, the claimant in this appeal contends that his disqualification under §402 (e) was purged by his subsequent work for one day in an allegedly covered employment. As to that work the Board found: “5. After his separation from the Sun Shipbuilding & Dry Dock Company, the claimant accepted a temporary job of one day’s duration with H. Daroff & Sons, during which period he was afforded an opportunity of demonstrating his ability to do the job properly. 6. At the end of the one day period the claimant was not hired, since he did not measure up to the standards required by the employer”. The testimony of the foreman of the Daroff Company is that when claimant applied for work he told him “I do not know your capacity. I am only going to keep you one day. If you work, you will be in the position. If not, I will let you go”. There is other testimony to the same effect and we are bound by the above findings.
+. This case does not involve a construction of Article 1, §4(2) of the Act, 43 PS §753, excluding from covered employment “casual labor not in course of employer’s trade or business”. Claimant is barred by the fact that Tie never was employed by H. Daroff & Sons. In working for one day claimant only submitted to an aptitude test of his ability to do the work and he disqualified himself from the contemplated employment by his failure to measure up to Daroff’s standard of perform-, anee. Under the evidence as reflected in the findings of the Board, claimant was merely “afforded an opportunity of demonstrating his ability to do the job properly” and never was hired because of his failure in that respect. The fact that he may have been paid wages for the one day, when he attempted to qualify for the position, has no. bearing on the question of his right to benefits. He was not employed within the meaning of the Unemployment Compensation Act and he was still barred from benefits because of his prior discharge by the Sun Company, the intervening appel-lee, for willful misconduct, under §402 (e).
+Order affirmed.
