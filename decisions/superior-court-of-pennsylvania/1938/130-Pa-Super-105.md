@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 49"
+decided: "1938-01-27"
+citations: ["130 Pa. Super. 105"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Stadteeld, Parker, James and Rhodes, JJ."]
+parties: ["Trucksess v. Atlas Automobile Finance Corporation, Appellant."]
+source_url: "https://static.case.law/pa-super/130/cases/0105-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1006093
+cites_cases: ["119 Pa. Superior Ct. 364", "165 A. 841", "181 A. 327", "310 Pa. 546"]
+---
+
+# Trucksess v. Atlas Automobile Finance Corp.
+
+## Majority (Stadteeld, J.,)
+
+Opinion by
+Stadteeld, J.,
+This was an action in trespass for malicious prosecution arising out of tbe issuance of a warrant of arrest by defendant charging plaintiff with tbe fraudulent conversion and larceny by bailee of defendant’s automobile. Defendant bad leased this automobile to one Frascb, who failed to pay rentals under bis contract and failed to return the car to defendant. Early in March, 1931, defendant learned that this car had been in a collision and was at plaintiff’s repair shop, where it had been placed six or eight weeks earlier by a friend of Frasch. Plaintiff demanded that defendant pay $30 for storage but agreed to waive storage charges if defendant would permit plaintiff to repair the car. Defendant agreed to pay plaintiff $110 for certain specified repairs and replacements. Upon receipt of notice that the car was repaired, defendant called at plaintiff’s shop and complained that the work was not done in accordance with the written order. The plaintiff refused to do any further work on the car. Defendant offered plaintiff $90, which plaintiff refused to accept. Defendant then issued a writ of replevin out of Court of Common Pleas No. 4 of Philadelphia County, after filing a bond in the sum of $800. When the Sheriff served the writ of replevin on plaintiff at his shop and demanded the car, the car was not there and plaintiff refused to inform the Sheriff where the car was, and said he would not release it unless he were paid for the storage and repairs. The Sheriff returned the writ eloigned as to the car and served plaintiff with a copy of the writ. Thereafter, a warrant was issued and served on plaintiff who was held under bail for court and was subsequently acquitted.
+The present action was tried before a judge and a jury and a verdict for $1,000 was rendered in favor of the plaintiff. Motions for judgment n. o. v. and for a new trial were filed by defendant and overruled in an opinion by Millas, J., and judgment entered on the verdict. This appeal followed.
+The assignments of error relate to the refusal of binding instructions, the overruling of motion for judgment non obstante veredicto, to certain portions of the charge to the jury, and to the refusal of a new trial.
+In reviewing refusal of binding instructions and overruling motion for judgment non obstante veredicto, evidence and reasonable inferences deducible therefrom must be considered in the light most favorable to plaintiff: Stadale v. John J. Felin & Co., 119 Pa. Superior Ct. 364, 181 A. 327; Crago v. Sickman, 310 Pa. 546, 165 A. 841.
+William Trucksess, plaintiff in this action, testified in relation to what occurred at the time of the service of the writ of replevin as follows: “A. The deputy sheriff came in and asked if this was Trucksess’s Auto Repair. I told him yes. He said William Trucksess’? I said ‘Yes’. He said, Well, we have a writ of replevin for an automobile for the Atlas Auto Finance Corporation’, he said, ‘we want it’. I said, ‘I have the car on storage there and I have a repair bill of $110 and storage on it’. He said, Well, we want it’. I said, ‘They can have it when they pay the storage and repair bill, I have a written order here for it’. And I showed it to him. Q. You showed who the written order? A. The deputy sheriff. When I showed him the order he said, Well, we got to have the car there’. I said, ‘That is the only way I can turn it over to you, when they pay my bill’. So, they went on out and I guess it was three or four weeks after that, on a Saturday afternoon, we had just —Saturday morning, we had just started three automobiles out to overhaul and then a constable come up there with a warrant for me.......Q. You did not have the car there at that time, did you? A. No. I had the car stored. Q. You did not say where the car was? A. No, I said I would — Q. You told him you would not tell him where the car was, didn’t you? A. I told him as soon as they paid the bill they could have the car.”
+When the sheriff served the writ of replevin on Trucksess and demanded the car for the purposes of the writ, it was Trucksess’ duty to deliver it to the sheriff, or, at least, inform the latter of the place to which he had removed it, so that the sheriff could take it into his possession. Payment of Trucksess’ reasonable bill for repairs was secured by the replevin bond, and it was his legal duty to deliver the car, to which he had no shadow of title, to the sheriff. He refused to deliver the car or tell the sheriff where he had put it. This amounted to a conversion. His arbitrary and defiant attitude was further shown by his subsequent sale of the car, without notice to the owner, in order to pay himself for a bill for storage, which resulted solely from his wrongful refusal to deliver the car to the sheriff. See also Act of May 20, 1913 P. L. 246, making it a misdemeanor for the keeper, owner, proprietor or any person in charge of any storage or warehouse, etc., to conceal from any constable or sheriff, entrusted with the execution of any writ, the whereabouts of goods and chattels in their possession, belonging to another.
+We feel that the plaintiff’s own testimony showed probable cause for the prosecution and binding instructions should have been given in favor of defendant.
+Judgment reversed and now entered for the defendant.
