@@ -1,0 +1,36 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 168"
+decided: "1905-07-13"
+citations: ["28 Pa. Super. 413"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, Smith, Poeter, Morrison and Henderson, JJ."]
+parties: ["Bank of Barnwell v. Sixth National Bank, Appellant."]
+source_url: "https://static.case.law/pa-super/28/cases/0413-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 858904
+cites_cases: ["101 U. S. 181", "108 Ia. 333", "111 Mass. 163", "128 N. C. 72", "137 Ill. 634", "16 N. Y. 125", "167 Pa. 513", "178 Mo. 153", "25 N. Y. 143", "4 N. Y. 497", "72 Pa. 456", "87 Pa. 525", "92 Pa. 57"]
+---
+
+# Bank of Barnwell v. Sixth National Bank
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+The questions raised upon this recordare ruled by the decision of the Supreme Court in the case of The National Bank of Brunswick, Georgia, v. Sixth National Bank of Philadelphia, not yet reported. The plaintiff in that case, as in this, sought to hold the defendant for the amount of drafts drawn, by Brown & Company, on J. F. Eilenberg, the defendant bank not being a party, as maker, indorser, or payee, to the bills. The letter of the cashier of the defendant bank, upon which the plaintiff’s claim in each case was founded, was in the following words : “ Gentlemen: — We will accept drafts drawn on J. F. Eilenberg by Brown & Co., for watermelons and cantaloupes, melons not to exceed $100 per car, and cantaloupes not to exceed $500 per car, bills of lading attached, until further notice.
+“ Respectfully,
+“ Daniel Baird,
+“ Cashier.”
+The plaintiff upon the faith of this letter discounted a number of drafts which were paid, but the evidence did not disclose whether’ they were paid by the bank or by Eilenberg. The plaintiff then discounted the drafts upon which the suit was brought, and upon the same day, but after the drafts had been, negotiated, received a telegram from the cashier of the defendant bank, which was in the same words as that which passed between the defendant and the plaintiffs in this case, viz.: “ We revoke order to pay draft on Eilenberg by Brown & Co., per ours of 6/17th.
+“ Sixth Natl. Bank of Philadelphia,
+“ Daniel Baied, Cashier.”
+The plaintiff bank, in the present case, sent to Philadelphia, for collection, the drafts which had been negotiated before the receipt of this-telegram, and they were not paid, and upon receiving notice of such nonpayment sent to the defendant bank the following telegram : “ Brown’s drafts on Eilenberg were cashed on your guarantee. Do you intend to pay them or not. "Wire answer quick.
+“ The Bank of Barnwell.”
+The defendant bank disclaimed any responsibility for the drafts, and the plaintiff brought this action. The learned judge of the court below, upon this presentation of the evidence, gave binding instructions to the jury to find for the plaintiff. There was no evidence that the defendant bank had received any consideration for the undertaking upon which it is sought to hold it liable. Referring to the communication of the cashier in which the transaction had its inception, Mr. Justice Mestrezat, who spoke for the Supreme Court, in The National Bank of Brunswick v. Sixth National Bank of Philadelphia, said : “ The initiatory letter came from the defendant bank on June 17, 1902, and shows that the drafts were to be drawn by Brown & Co., on Eilenberg for melons purchased by the drawee of the drawers. The name of the payee is not mentioned, nor does the evidence disclose who the payee was to be or what negotiations took place between the parties prior to the date of the letter. It is drafts of this character that the defendant agreed to ‘accept.’ Had the drafts been drawn on the defendant bank and had it agreed to pay them, its liability would be unquestioned. The defendant, however, was not to be the drawee in the drafts, and hence by the use of the word ‘ accept ’ the defendant could not have been regarded by the parties as assuming the liability of an ordinary acceptor of a draft or bill of exchange. This leaves the undertaking of the defendant bank, as disclosed by the letter, uncertain and unintelligible, requiring explanation de hors the paper.” In another part of the opinion we find this language : “ In determining whether the transaction between the plaintiff and the defendant was a guarantee or a purchase of the drafts in suit, recourse must be had not only to the two communications which passed between the parties, but also to the acts of the parties and the circumstances surrounding the transaction.”
+The letter of the cashier was certainly not clear, and it was perhaps unbusinesslike for the bank to send it or the plaintiff to act upon it without explanation; if they mutually understood it, however, that understanding constituted the contract. The plaintiffs do not seem to have made any inquiry of the defendant as to the meaning of this letter, nor does it appear that they even acknowledged it. Without any further communication having passed between the parties, the plaintiff bank, on July 1, discounted two drafts on Eilenberg drawn by Brown & Company, these drafts were sent to Philadelphia and, on July 2, the cashier of the defendant bank wrote to the plaintiff bank as follows : “ The two drafts on J. F. Eilenberg, $100 and $700 respectively have been paid and placed to your credit in the National Park Bank, New York.” This letter indicates that the understanding of the defendant bank was, that the drafts were to be paid by Eilenberg, and when so paid the proceeds were to be remitted to the National Park Bank, New York. It certainly does not indicate that the defendant bank considered it a purchase of' the drafts, so that they would become liable for the purchase money as soon as they received the paper. The only evidence which directly bears upon the construction which the plaintiff bank put upon the transaction is found in the telegram which they sent to the defendant bank, when notified that the drafts had not been paid : “ Brown’s drafts on Eilenberg were cashed on your guarantee. Do you intend to pay them or not. Wire answer quick. The Bank of Barnwell.”
+This is a specific and direct statement of the understanding of the plaintiff as to the nature of the contract relation between the parties. The plaintiff was relying upon a contract of guarantee, an undertaking of .the defendant to pay the drafts in case they could not be collected from the drawee ; and not an agreement by the defendant to buy the drafts and pay the purchase price.
+We find in this case nothing which would warrant us in distinguishing it from The National Bank of Brunswick v. Sixth National Bank; and must hold that the undertaking of the defendant bank was that of a guarantor and not a purchaser of the drafts. It having been decided, in the case referred to, that a national bank has no power or authority to become a mere accommodation indorser or guarantor of the payment of a debt of another, without benefit to the bank, we must conclude that the point submitted by the defendant, requesting binding instructions, ought to have been affirmed.
+The judgment is .reversed.
