@@ -1,0 +1,40 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 79"
+decided: "1898-07-29"
+citations: ["7 Pa. Super. 581"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Bice, P. J., Wickham, Beaver, Reeder, Orlady, Smith and Porter, JJ."]
+parties: ["Samuel Hazlett v. Elizabeth Bragdon, Appellant."]
+source_url: "https://static.case.law/pa-super/7/cases/0581-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 285483
+cites_cases: ["1 Am. L. C. 480", "1 Am. L. C. 496", "1 Pet. 578", "1 Pick. 413", "24 Pa. 148", "24 Pa. 222", "27 Pa. 249", "3 Wh. 116", "30 Pa. 139", "5 Pa. 178", "87 Pa. 379", "9 Pet. 33", "9 Wheat. 598"]
+---
+
+# Hazlett v. Bragdon
+
+## Majority (Orlady, J.,)
+
+Opinión by
+Orlady, J.,
+Suit was brought by the plaintiff on a promissory note, as follows:
+“ $600. Pittsburg, Pa., October 29,1895.
+“ Three months after date I promise to pay to the order of Mrs. Elizabeth Bragdon six hundred and dollars, at
+without defalcation for value received.
+“ (Signed) E. H. Bragdon.
+“ Indorsed: Elizabeth Bragdon, Alex W. Hart.”
+Before maturity this note was delivered by Alex W. Hart to the plaintiff for a valuable consideration.
+The plaintiff was a banker residing in Washington, Penna., personally acquainted with Alex W. Hart and knew that he was employed by T. H. Bragdon whose place of business was at 609 and 610 Hamilton Building, Pittsburg, Penna. He did not know Elizabeth Bragdon but discounted the note by reason of her indorsement and on the faith of a certificate from an attorney at law resident in Pittsburg, Penna., “ that Mrs. Bragdon was the owner in fee simple of real estate, free of liens, in Avalon borough, Allegheny county, Penna., assessed at a valuation of $11,000 and worth probably twice as much, and that this lot was only one of the many pieces or lots of realty owned by Mrs. Brag-don.” Mr. Hazlett did not make inquiry as to her residence at the time he discounted the note, but sent the note to the Monongahela National Bank of Pittsburg, Penna., for collection, and at its maturity on February 8,1896, it was delivered for demand and protest to a notary who, about 4 p. m. went to the place of business of the maker in the Hamilton Building to make demand for payment, and found the office unoccupied, closed and locked. The notary inquired of an elevator boy employed in the building as to the whereabouts of F. H. Bragdon and 'in regard to the residence of the defendant, but did not receive any information on either subject. Pie then prepared three notices of nonpayment of the note, reciting in each: “ Demand for payment having been first duly made by me at office of F. H. Bragdon, 93 Fifth avenue, and found office closed,” one of which he directed to Samuel Plazlett, banker, Washington, Penna., one to Alex W. Plart and the other to Mrs. Elizabeth Bragdon, and enclosed the three notices in one envelope and so mailed them to the plaintiff at Washington, Penna., by whom they were received on February 4, 1896.
+The plaintiff the same day inclosed in an envelope the notices to Alex W. Hart and the defendant and so mailed them to Alex W. Hart at his address in the Hamilton Building, Pittsburg. F. H. Bragdon’s effects in the Hamilton Building-office were seized under a landlord’s warrant on January 28, 1896, and the office was locked by the landlord’s officer, so that Plart did not have access to the office. On February 4, Hart left Pittsburg to go to New Castle on a business mission, and remained there until the following Saturday, P'ebruary 8, when he returned to Pittsburg. He had not given any direction in regard to having his mail forwarded to him at New Castle, and on Sunday, February 9, he received from the janitor of the office building some letters, including the one from Mr. Hazlett which contained the notices of protest of the Bragdon note, and on the following Monday, February 10, he mailed the notice of protest intended for Mrs. Bragdon to her address, McKee’s Rocks post office, where it was received by her by due course of mail. These facts are not disputed and on the trial the learned judge instructed the jury as follows : “We do say to you that if you find from the testimony that the notices of protest were sent to Mr. Hazlett and forwarded by Mr. Hazlett to Mr. Hart, and also mailed by Mr. Hart to Mrs. Bragdon in the manner and at the times testified to by them, they each did all the law required of them under the circumstances; that is, both Mr. Hazlett and Mr. Hart exercised due diligence; that the notice to Mrs. Bragdon was forwarded to her within a reasonable time, and your verdict should be for the plaintiff.”
+Under the admitted facts Hazlett did not use due diligence in giving the notice 'to the indorser on the faith of whose indorsement he discounted the note.
+He did not make inquiry as to her residence either of Hart to whom he paid the money or of the attorney on whose certificate he made the loan. At the time of protest he was advised by the notary that the office in which Hart was employed was closed, and in the face of this information he mailed the Mrs. Bragdon notice to Hart at the closed office without further inquiry. He must have known that it would be delayed in transmission to Mrs. Bragdon.
+The holder is charged only with due diligence in presenting or attempting to present the bill. It is not so much a demand that is required as due diligence to make a demand. Demand is excused if the maker, when the note falls due cannot be found (Stewart v. Eden, 2 Caines’s R. 126) ; if he has absconded, if his home or office is closed (Shed v. Brett, 1 Pick. 413); if he has left the state (McGruder v. Bank, 9 Wheat. 598; Pierce v. Struthers, 27 Pa. 249).
+When a notary is employed, it is the duty of the holder to inform him of the indorser’s place of residence, and to use due diligence in discovering such residence: Haly v. Brown, 5 Pa. 178; Smith v. Fisher, 24 Pa. 222.
+Ignorance of the indorser’s residence may excuse the want of due notice, but the party must show that he has used reasonable diligence to find it: Wood’s Byles on Bills and Notes, B02.
+Due diligence consists in making inquiry of such accessible persons as are most probably informed on the subject: Chitty on Bills, 452; 2 Daniel on Negot. Instr. sec. 1115.
+Each indorser is entitled to have explicit notice of the default of the maker and that such indorser is looked to for payment. The consequences of not giving sufficient notice, are to fall on the one who is negligent.
+In this case as in Smith v. Fisher, 24 Pa. 222, whether or not due diligence was used is the question upon which the case turns, is purely a question of law as there is no dispute about the facts. It is the duty of a holder to give the notary information as to the residence of the drawer and indorser; and if such is unknown to the holder he must inquire of those whose names are upon the note or bill, as to the residence which he does not know. The holder is the one most likely of all persons to know the place of residence of those to whom he looks for payment, and due diligence requires that he should give the information to his agent, whom he employs to make demand from the maker and to give notice to the indorser; or if he neglects to do so, that the agent should inquire of him where the parties reside. In the absence of all evidence, we cannot presume that the inquiry would be fruitless.
+The plaintiff did not make any inquiry of the easily accessible sources at his hand as to the residence of the indorser whose name moved him to discount the note, and he further made . Alex W. Hart his agent for the purpose of transmitting to Mrs. Bragdon the notice of nonpayment of the note so as to make her liable as an indorser, and took his chances in directing the letter containing the notice to her to an office he knew was closed. This was not due diligence and the judgment is reversed, the costs to be paid by the appellee.
