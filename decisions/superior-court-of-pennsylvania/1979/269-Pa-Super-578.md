@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "265 Special Transfer Docket"
+decided: "1979-09-21"
+citations: ["269 Pa. Super. 578", "410 A.2d 852"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before MONTGOMERY, O’BRIEN and HONEYMAN, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Kenneth Dale ARNDT, Appellant."]
+source_url: "https://static.case.law/pa-super/269/cases/0578-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 129683
+cites_cases: ["235 Pa.Super. 357", "237 Pa.Super. 336", "243 Pa.Super. 55", "245 Pa.Super. 402", "258 Pa.Super. 214", "265 Pa.Super. 35", "271 A.2d 481", "326 A.2d 338", "341 A.2d 511", "352 A.2d 140", "402 A.2d 500", "440 Pa. 590", "457 Pa. 646", "485 Pa. 215", "485 Pa. 313"]
+---
+
+# Commonwealth v. Arndt
+
+## Majority (MONTGOMERY, Judge:)
+
+MONTGOMERY, Judge:
+On January 19, 1977, appellant pled guilty to an information charging him with the murder of Mary Schinzing, a 43 year old physically handicapped woman, in her apartment in Lancaster County, Pennsylvania. Following a hearing before a three-judge panel, appellant was adjudged guilty of first degree murder, and was thereafter sentenced to life imprisonment. Post verdict motions were properly filed and denied below.
+Appellant alleges that the lower court erred in not suppressing his confession which he contends was the product of subtle coercion and not voluntary; and also that his guilty plea was not knowingly and voluntarily entered because appellant did not understand that he could receive the death penalty after pleading guilty generally.
+However, before any decision, on the merits, as to whether appellant’s guilty plea was voluntary and knowing, we must first determine if this issue is properly before this court on appeal. Appellant pled guilty on January 19, 1977, and this was subsequent to this court’s decision in Commonwealth v. Roberts, 237 Pa.Super. 336, 352 A.2d 140 (1975). Roberts mandated that a defendant must file a petition in the lower court requesting to withdraw his guilty plea before a direct appeal to this court challenging the validity of that plea could be entertained. Under a strict interpretation of Roberts, absent the filing of a withdrawal petition, any voluntariness issue would be automatically waived. However, the later decisions in Commonwealth v. McCusker, 245 Pa.Super. 402, 369 A.2d 465 (1976) (dissenting opinion by Spaeth, J.; rev’d 485 Pa. 313, 402 A.2d 500 (1977) and Commonwealth v. Johnson, 258 Pa.Super. 214, 392 A.2d 760 (1978), have since tempered this automatic waiver rule by holding that prior to a finding of waiver, this court must determine, from the record, whether appellant was fully informed by the trial court of his right to file a petition to withdraw his plea, and the consequences of his failure to do so. If the record is devoid of such instructions, an invalid waiver would be conclusively presumed, and the proper procedure would be to remand for the filing of a petition to withdraw nunc pro tunc. The purpose of this remedy was to afford the trial court the first opportunity to rule on the underlying waiver issue.
+The foregoing digression is necessary because in the instant case, the appellant failed to file a petition to withdraw his plea as required by Roberts; however, a review of the record reveals that he was not informed of the requirement to do so by the court below. As in McCusker and Johnson, we will, therefore, not find a conclusive waiver of his challenge to the validity of his guilty plea. However, we will also not remand for the filing of a petition to withdraw nunc pro tunc in that a mechanical application of Johnson to this case would produce a remand that would be a mere procedural exercise.
+Appellant did, in fact, file comprehensive post verdict motions which alleged numerous grounds as a basis for challenging the validity of his plea. These same issues are presented to us on appeal. There was a full hearing below before the court en banc, and the lower court opinion discusses and resolves each issue. In this instance, this court has the benefit of the lower court’s views on the issues presented on direct appeal, and also a full record on which to base a decision on merits; therefore to still require the remanding for the filing of the withdrawal petition would be a futile waste of judicial energy.
+Appellant first alleges that his confession should have been suppressed in that it was involuntary as the product of subtle coercion. However, when appellant pled guilty, he waived his right to challenge anything but the legality of his sentence, and the voluntariness of his plea. Commonwealth v. Greer, 457 Pa. 646, 326 A.2d 338 (1974). Therefore, it was incumbent on appellant to establish that the alleged illegal confession induced his guilty plea. See Commonwealth v. Lane, 265 Pa.Super. 35, 401 A.2d 787 (1979), and Commonwealth v. Marsh, 440 Pa. 590, 271 A.2d 481 (1970). Any other challenge to the voluntariness of the confession has been waived. Upon examination of the record, it is incontrovertibly clear that the appellant has failed to prove any nexus between his confession and his plea. In point of fact, the apparent reason for his decision to plead guilty was in order to avoid the death penalty which may have resulted from a finding of guilt following a jury trial.
+Appellant also argues that his plea was invalid in that the colloquy below failed to inform appellant that he could have received the death penalty after pleading guilty to murder generally. This argument is entirely specious. The District Attorney informed defense counsel that it would not seek the death penalty if appellant pled guilty, and appellant was so informed prior to his plea. While this agreement did not amount to a formal plea bargain, it was legitimately relied on by appellant, and thereafter adopted by the court. We can discern no prejudice to appellant occasioned by the colloquy not specifying that he might have received the death penalty.
+Based on the foregoing, the judgment of sentence is affirmed.
+. This procedure has since been enunciated by Pa.R.Crim.P.: Rule 321; effective September 1, 1977.
+. Also see Commonwealth v. Brandon, 485 Pa. 215, 401 A.2d 735 (1979).
+. For a similar rationale involving the remanding for resentencing see Commonwealth v. Grant, 235 Pa.Super. 357, 341 A.2d 511 (1975) and Commonwealth v. Brunner, 243 Pa.Super. 55, 364 A.2d 446 (1976).
