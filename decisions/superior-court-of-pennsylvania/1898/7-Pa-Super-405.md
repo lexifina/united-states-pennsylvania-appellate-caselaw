@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 93"
+decided: "1898-05-09"
+citations: ["7 Pa. Super. 405"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Wickham,. Beaver, Reeder, Orlady, Smith and Porter, JJ."]
+parties: ["Commonwealth v. John Wallace, Appellant, and John M. Graham."]
+source_url: "https://static.case.law/pa-super/7/cases/0405-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 285543
+cites_cases: ["1 Pa. Superior Ct, 476", "131 Pa. 55", "144 U. S. 310", "2 Gr. 66", "38 Cal. 467", "48 Pa. 53", "59 Mich. 529", "99 Pa. 570"]
+---
+
+# Commonwealth v. Wallace
+
+## Majority (Reeder, J.,)
+
+Opiniost by
+Reeder, J.,
+John Wallace was a street commissioner of the borough of Millvale, and John M. Graham, a contractor employed by the borough. By the direction of the borough council, they erected a steel fire alarm tower upon what was claimed to be a public street. Because of this construction they were indicted in the court of quarter sessions of Allegheny county for erecting and maintaining a public nuisance, and upon the trial a verdict of not guilty was rendered. Upon motion of the district attorney a new trial was granted. Upon the second trial the defendants pled autrefois acquit, and offered the record of the former trial, to which plea the commonwealth demurred. The court overruled the plea and directed the parties to proceed to trial upon the former plea of not guilty. A verdict of guilty was rendered. Although the record states that the court overruled the plea of autrefois acquit, we presume what is meant by that is that he sustained the demurrer. Otherwise it would be unintelligible.
+The main question raised by the assignments of error and the only one necessary for our consideration is: Did the court below err in overruling the plea of autrefois acquit. There can be no doubt that in this state under the common law there can be no appeal to an appellate court where the verdict was one of not guilty. Pías any such right been conferred by statute ? By the act of May 19,1874, it is provided, that in cases of nuisance, forcible entry and detainer or forcible detainer exceptions may be taken by the commonwealth, and writs of error and certiorari issued by the Supreme Court. This act relates to but one subject in the title or the body of the statute: that of review by the Supreme Court in certain cases upon an appeal by the commonwealth. It must be conceded that unless we can find somewhere expressed in the letter of that act the purpose to grant to the trial judge the right to award a new trial in the criminal proceedings therein enumerated upon the motion of the commonwealth after a verdict of acquittal, that right does not exist at all. With the question as to what the legislature should have enacted we have nothing to do; we are only concerned with that which they did enact. Let us consider whether the power to grant a new trial exists in a criminal case after an acquittal by verdict independently of the act of 1874, and then whether such power is embraced within its terms. The great weight of authority in the United States is against the exercise of any such power unless conferred by statute. See opinion of Justice Gbey in United States v. Sanges, 144 U. S. 310. The English authorities are far from showing the existence of any such power: Rex v. Cohen et al., 2 E. C. L. 197, and the cases cited in the foot notes are authorities against its existence. The.statement attributed to Lord Kenyon in Rex v. Mawbey, 6 T. R. 619 that “ there is no authority to show we cannot grant a new trial ” is wholly negative and does not imply that there is authority for the exercise of such power. In Rex v. Brice, 18 E. C. L. 196, all the judges concurred in refusing a new trial after acquittal; Chief Justice Abbott adding “ no new trial can be granted after a defendant has been acquitted unless on the ground of a misdirection of a judge.” No authority was cited for excepting tins ground and after extended search, we have been unable to find any that clearly establishes it. In Rex v. Wandsworth, 18 E. C. L. 636, which involved the question whether a highway was a public or private one, Lord Ellenbobottgh said: “ The rule is, you cannot have a rule for a new trial where the verdict has been given for the defendant.” His further statement as to giving the effect of a new trial by a rule in another shape can be understood only as a reference to a trial upon a new indictment for a subsequent obstruction of the highway; otherwise it is unintelligible.
+But whatever the English courts may have held, the practice in Pennsylvania from the origin of the commonwealth has been based upon the view that a verdict of acquittal in a criminal case is the final determination of the case; and no case can be found in which a new trial has been granted at the instance of the commonwealth. If a new trial may now be granted because of a misdirection by a judge, the power to grant it is conferred by the act of 1874, and by that act vested solely in the appellate court. Whether this should be the law is not for us but the legislature to determine. We have however a clear conviction as to that which the legislature did enact. It being-admitted that the judgment of conviction on the second trial was on the same indictment as that upon which the defendants were acquitted at the first trial, the judgment is reversed and the defendant discharged.
+
+## Dissent (Rice, P. J.,)
+
+Rice, P. J.,
+dissenting :
+I am unable to concur in the conclusions that the court of quarter sessions may not for any cause grant a new trial after there has been a verdict of acquittal on an indictment for nuisance or forcible entry or forcible detainer. Where error of law has been committed which would be sufficient to require .the appellate court to reverse the judgment and to award a new trial, I see no good reason for holding, and know of no Pennsylvania case that requires us to hold, that the local court has not the inherent power to correct the error without compelling- the expense and the delay of an appeal.
