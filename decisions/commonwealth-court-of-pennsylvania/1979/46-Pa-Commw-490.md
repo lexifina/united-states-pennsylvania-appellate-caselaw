@@ -1,0 +1,42 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 344 C.D. 1978"
+decided: "1979-10-16"
+citations: ["46 Pa. Commw. 490"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Wilkinson, Jr., Mencer and Rogers, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania v. Liquor (As per attached “Exhibit A”) Seized in: Route 15, Adams County. In Poss: Dorothy Straley. Commonwealth of Pennsylvania, Pennsylvania Liquor Control Board, Appellant."]
+source_url: "https://static.case.law/pa-commw/46/cases/0490-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1902194
+cites_cases: ["18 A.2d 868", "19 Pa. Commonwealth Ct. 402", "196 A.2d 664", "250 Pa. Superior Ct. 544", "339 A.2d 628", "341 Pa. 153", "396 A.2d 654", "413 Pa. 316", "468 Pa. 618"]
+---
+
+# Commonwealth v. Liquor
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+The Pennsylvania Liquor Control Board (Board) filed a petition to forfeit two cases of liquor pursuant to Sections 601-603 of the Liquor Code, Act of April 12, 1951, P.L. 90, as amended, 47 P.S. §§6-601 to 603. The liquor was purchased in Maryland and transported into Pennsylvania in violation of Section 491 (2) of the Liquor Code, 47 P.S. §4-491(2). It was seized in Pennsylvania by a Board enforcement officer who had observed these acts. Following a hearing on the Board’s petition, the Court of Common Pleas of Adams County ordered the liquor to be returned to the owner upon payment of Pennsylvania taxes or, upon failure to pay the taxes, to be forfeited. The Board’s appeal to this Court followed.
+The Board argues that the court below had no discretion to order the return of the liquor to the owner in light of (1) its uncontradicted competent evidence which established that the liquor was unlawfully possessed under Section 491(2) of the Liquor Code and (2) the Pennsylvania Superior Court’s decision in Commonwealth v. Bianco DiVerona Wine, 250 Pa. Superior Ct. 544, 378 A.2d 1282 (1977), wherein it was held that the lower court had no discretion to order liquor returned to an owner in a forfeiture proceeding where it was found that said liquor had been unlawfully possessed under Section 491(2) of the Liquor Code.
+It appears the court below allowed the return of the liquor, at least in part, because Section 491(2) of the Liquor Code had been declared unconstitutional by the Court of Common Pleas of Adams County and therefore Section 491(2) was unenforceable and liquor possessed in violation of Section 491(2) could no longer be deemed unlawfully possessed.
+It is generally true that a statute declared unconstitutional is as inoperative as if it had never existed. See G. H. McShane Co. v. Travelers Indemnity Co.,
+Pa. Superior Ct. , , 396 A.2d 654, 657 (1978). It is also true, however, that the constitutionally offensive provision will be severed from valid provisions if. there is a legislative intent to sever and if the statute is capable of being severed in fact. Saulsbury v. Bethlehem Steel Co., 413 Pa. 316, 196 A.2d 664 (1964); School District of Philadelphia v. W. T. Grant Corp., 19 Pa. Commonwealth Ct. 402, 339 A.2d 628 (1975).
+To determine whether the statute is capable of being severed, the valid provisions must not be so inseparably connected with and dependent upon the invalid provisions that it seems the legislature would not have enacted the valid provisions without the invalid, and the valid provisions must be capable of meaningful application without the excised provision. 1 Pa. C.S. §1925; Saulsbury v. Bethlehem Steel Co., supra.
+The legislative intent, as found specifically in Section 104(b) of the Liquor Code, 47 P.S. §l-104(b), and generally in 1 Pa. C.S. §1925, clearly is to sever unconstitutional provisions of the Liquor Code.
+The portion of Section 491(2) which was found unconstitutional was that which provided that the person possessing liquor had the burden of proving that the liquor was lawfully acquired. The prohibition of possession and transportation of liquor, except as provided for in the remainder of Section 491(2), however, is distinct and is not dependent upon a burden-of-proof provision which establishes, in essence, a presumption of guilt. The activity proscribed in Section 491(2) remains proscribed regardless of who has the burden of proof, and Section 491(2) is entirely without a statutory assignment of the burden of proof. The Oornmomvealth has the power and capability of proving that a person has engaged in prohibited activity in liquor and does not need to rely on a burden-of-proof provision which establishes a presumption of guilt.
+Therefore, the burden-of-proof provision in Section 491(2), found to be unconstitutional, is severable, and the remainder of Section 491(2) is valid and enforceable for purposes of the forfeiture proceeding under Sections 601-603 of the Liquor Code. Thus, if the Commonwealth proved that the liquor in question was possessed in violation of Section 491(2), i.e., unlawfully, the court below erred in ordering its return to the owner. Commonwealth v. Bianco DiVerona Wine, supra.
+The court below made no findings of fact on whether the liquor was possessed in violation of Section 491(2). Ordinarily, we would remand for such findings. In this case, however, the record, beyond doubt, convincingly demonstrates unlawful possession. The owner admitted that the liquor was bought in Maryland and-was imported into Pennsylvania, whereupon it was seized. This corroborates completely the Commonwealth’s evidence. In addition, the owner made no claim that any of the exceptions in Section 491(2) were applicable. Given these facts, the only finding which could possibly be made by the lower court is that Section 491(2) was violated and that the liquor was therefore unlawfully possessed. See Commonwealth v. Bianco DiVerona Wine, supra. Therefore, the liquor must be forfeited in accordance with Section 603(a) of the Liquor Code.
+Order reversed and case remanded.
+Order
+And Now, this 16th day of October, 1979, the order of the Court of Common Pleas of Adams County, dated February 10, 1978, is reversed, and the case is remanded to said court for the entry of an order providing for the disposition of the liquor described in Commonwealth’s petition, in accordance with the provisions of Section 603(a) of the Liquor Code, 47 P.S. §6-603(a).
+Section 491 of the Liquor Code, 47 P.S. §4-491, provides in pertinent part:
+It shall be unlawful—
+(2) Possession or Transportation of Liquor or Alcohol. For any person, except a manufacturer or the board or holder of a sacramental wine license or of an importer’s license, to possess or transport any liquor or alcohol within this Commonwealth which was not lawfully acquired prior to January first, one thousand nine hundred and thirty-four, or has not been purchased from a Pennsylvania Liquor Store or a licensed limited winery in Pennsylvania, except miniatures totalling less than one gallon purchased by a collector of the same in another state or foreign country, or in accordance with the board’s regulations. The burden shall be upon the person possessing or transporting such liquor or alcohol to prove that it was so acquired.
+Commonwealth v. Wasley, 18 Adams 145 (1976).
+The opinion of the lower court indicates that its decision reflects the Commonwealth’s failure to submit a brief or to appear for scheduled argument concerning the application of the decision in Commonwealth v. Wasley, supra.
+We note that the fact an unconstitutional provision is found within an otherwise valid paragraph does not prevent its being severed. See Rieck-McJunkin Dairy Co. v. Milk Control Commission, 341 Pa. 153, 162-63, 18 A.2d 868, 872 (1941).
+Section 491(2) provides that “[t]he burden shall be upon the person possessing or transporting such liquor or alcohol to prove that it was so acquired,” i.e., lawfully, in accordance with the other provisions of Section 491(2). This burden-of-proof provision was found to establish a statutory presumption that a defendant was in illegal possession and to shift the burden to the defendant to disprove the presumption. As such, it was determined that Section 491(2) created an impermissible criminal statutory presumption and was unconstitutional, relying on Commonwealth v. Slaybaugh, 468 Pa. 618, 364 A.2d 687 (1976).
