@@ -1,0 +1,40 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "841"
+decided: "1992-03-23"
+citations: ["413 Pa. Super. 416", "605 A.2d 427"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before MONTEMURO, HUDOCK and CERCONE, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Thomas D. BLAKE, Appellant."]
+source_url: "https://static.case.law/pa-super/413/cases/0416-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 907994
+cites_cases: ["100 A.L.R.3d 287", "236 Pa.Super. 92", "344 A.2d 566", "350 Pa.Super. 160", "365 Pa.Super. 10", "365 Pa.Super. 556"]
+---
+
+# Commonwealth v. Blake
+
+## Majority (MONTEMURO, Judge:)
+
+MONTEMURO, Judge:
+This is an appeal from a judgment of sentence entered following appellant’s guilty plea on charges of Burglary, Criminal Trespass, Simple Assault, and Possessing Instruments of Crime. The trial court imposed a sentence of seven (7) to fifteen (15) years incarceration solely on the burglary count. Appellant asserts the following two issues on appeal: (1) whether the trial court erred in applying the Deadly Weapon Enhancement provision of the sentencing guidelines, and (2) whether the trial court erred in calculating the appropriate sentence.
+On July 15, 1990 at 2:45 a.m., Carol Bruno saw the shadow of the appellant, Thomas D. Blake, entering her bedroom. Appellant punched Mrs. Bruno in the eye as she attempted to awaken her husband. Mr. and Mrs. Bruno chased the appellant, and a fight ensued in the Bruno’s son’s bedroom. In the course of subduing the appellant, Mrs. Bruno was stabbed in the thigh by an open pocket knife that was in appellant’s pocket. Appellant had previously used the knife to cut through a screen door in order to enter the Bruno home. There is no evidence of record that appellant wielded the knife as a weapon, nor is there any description of this knife.
+Appellant’s first issue raised on appeal is that the trial court erred in finding that appellant’s use of the knife during the commission of the burglary mandated the application of the deadly weapons enhancement. Appellant asserts that since the knife was only used as a tool to gain access to the victim’s home, the deadly weapon enhancement is inapplicable. The Commonwealth counters that mere possession of a weapon is sufficient to apply the enhancement.
+The deadly weapons enhancement provides in pertinent part:
+(a) When the court determines that the defendant or an accomplice possessed a deadly weapon, as defined in 18 Pa. C.S.A. § 2301 (relating to definition), during the commission of the current conviction offense; at least 12 months and up to 24 months confinement shall be added to the guideline sentence which would otherwise have been imposed.
+42 Pa.C.S.A. § 9721, 204 Pa.Code § 303.4(a).
+Since it is undisputed that appellant possessed the knife during commission of the offense, the only issue is whether the pocket knife used in the present case is properly defined as a deadly weapon.
+The term deadly weapon for the purposes of the enhancer ment is defined as:
+Any firearm, whether loaded or unloaded, or any device designed as a weapon and capable of producing death or serious bodily injury, or any other device or instrumentality which, in the manner in which it is used or intended to be used, is calculated or likely to produce death or serious bodily injury.
+18 Pa.C.S.A. § 2301.
+Our first inquiry is to determine whether the pocket knife was designed as a weapon. If the pocket knife is designed as a weapon, then the mere possession of the knife during the crime is sufficient to apply the deadly weapon enhancement. The word designed is defined as “contrived or taken to be employed for a particular purpose.” Blacks Law Dictionary 533 (4th ed. 1968). Since there is no evidence of record that the pocket knife was extraordinary in any way, we find that there is insufficient evidence to find that it was designed as a weapon. 1 Pa.C.S.A. § 1921(b) (“When the words of a statute are clear and free from ambiguity, the letter of it is not to be disregarded under the pretext of pursuing its spirit”). To hold otherwise would mandate the application of the weapon enhancement for the commission of any crime while the perpetrator was in possession of nearly any instrument capable of producing serious bodily injury. This result permits an unreasonable interpretation of the phrase, designed as a weapon. Commonwealth v. Gatto, 236 Pa.Super. 92, 344 A.2d 566 (1975) (all statutory law must be given a reasonable interpretation).
+Thus, to qualify as a deadly weapon under § 2301, a pocket knife must be a “device or instrumentality which, in the manner which it is used or intended to be used, is calculated or likely to produce death or serious bodily injury.” 18 Pa.C.S.A. § 2301. While there is no requirement that the victim actually be in immediate danger of serious injury, the device or instrumentality must be used in a manner that could cause serious bodily injury. See eg. Commonwealth v. Chapman, 365 Pa.Super. 10, 528 A.2d 990 (1987) (straight razor placed at face of victim supported application of deadly weapon enhancement). In the present case, appellant did not use the pocket knife in a manner that could cause death or serious bodily injury. Therefore the deadly weapon enhancement is inapplicable.
+Commonwealth counters that under § 9721 possession of a device capable of producing death or serious bodily injury during the commission of a crime is sufficient to apply the deadly weapon enhancement. In support of this contention the Commonwealth notes that this Court has stated that a “requisite intent to use the weapon in the commission of the convicted crime must be apparent from the evidence. The weapon, to be deadly, must be used or intended to be used while the defendant committed the particular crime.” Commonwealth v. McKeithan, 350 Pa.Super. 160, 504 A.2d 294, 301 (1986). The Commonwealth concludes that since appellant used the pocket knife to gain access to the Bruno home, then the knife qualifies as deadly weapon.
+However, the McKeithan court did not address the issue presented in the instant case. In McKeithan, the court applied the deadly weapon enhancement where the only evidence that the defendant possessed a weapon was that the victim suffered a severe cut on his neck after a fight with the defendant. The weapon was not seen or found. This court held that the nature of the resulting injury was sufficient evidence to find that the device that caused the injury was used in a manner calculated or likely to produce death or serious bodily injury. McKeithan does not support the Commonwealth position that the manner of use is irrelevant. Therefore, under the present facts, the trial court erred in finding that the pocket knife was a deadly weapon.
+Accordingly, we remand for resentencing for the trial court to properly apply the sentencing guidelines without the weapon enhancement. Commonwealth v. McMullen, 365 Pa.Super. 556, 530 A.2d 450 (1987).
+Judgment of sentence vacated. Remand for resentencing. Jurisdiction relinquished.
+. We do not hold that a pocket knife can never be considered to be designed as a weapon under all circumstances. However, in the present case, the prosecution does not provide a description of the size and shape of the knife or blade to enable the court to make a determination. See Annot. 100 A.L.R.3d 287 (discussing whether a pocket knife is a deadly weapon).
+. The unfortunate fact that Mrs. Bruno was injured as a result of subduing the appellant does not alter the fact that the Commonwealth failed to produce any evidence that the knife was ever taken out of appellant’s pocket and used as weapon.
+. We do note that mere possession is sufficient for any firearm whether loaded or unloaded, or any device designed as a weapon and capable of producing death or serious bodily injury. However, since the pocket knife in the present case was not designed as a weapon, the manner of use is critical to the determination of whether the knife meets the definition of a deadly weapon.
