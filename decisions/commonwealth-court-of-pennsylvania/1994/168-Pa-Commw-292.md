@@ -1,0 +1,51 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "812 C.D. 1994"
+decided: "1994-11-04"
+citations: ["168 Pa. Commw. 292", "650 A.2d 1106"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before PELLEGRINI and FRIEDMAN, JJ., and RODGERS, Senior Judge."]
+parties: ["TAPCO, INC., Petitioner, v. UNEMPLOYMENT COMPENSATION BOARD OF REVIEW, Respondent."]
+source_url: "https://static.case.law/pa-commw/168/cases/0292-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1468974
+cites_cases: ["164 Pa.Commonwealth Ct. 282", "405 A.2d 1034", "45 Pa.Commonwealth Ct. 539", "509 Pa. 267", "642 A.2d 629"]
+---
+
+# Tapco, Inc. v. Unemployment Compensation Board of Review
+
+## Majority (FRIEDMAN, Judge.)
+
+FRIEDMAN, Judge.
+Tapco, Inc. (Employer) appeals from an order of the Unemployment Compensation Board of Review (Board) which granted benefits to Peter P. Rudyk (Claimant). We affirm.
+Claimant sought unemployment compensation benefits, claiming that Employer had fired him. Employer, on the other hand, contended that Claimant had quit to take care of his children while his wife was in another city for job training and that full-time work was available for Claimant. The Indiana Job Center (job center), crediting Employer, denied benefits. Claimant appealed. Following a telephone hearing during which both parties testified, the referee issued a decision denying benefits to Claimant. The referee’s decision, notifying Claimant that he had fifteen days after mailing in which to appeal, identified the decision mailing date as October 14, 1993. (R.R. at 45a.) Claimant appealed to the Board on October 29, 1993. (R.R. at 53a.) The Board remanded to the referee for additional testimony so that the Board would have complete information regarding all matters at issue for its consideration. Following the second hearing, the Board resolved conflicts in the testimony and issues of credibility in favor of Claimant and concluded that Claimant, who had requested a regular work schedule so that he could hire babysitters while his wife was out of town, had not quit his job with Employer but was discharged by Employer. (Board’s Findings of Fact, Nos. 6-12.) The Board concluded that Claimant was entitled to benefits.
+Employer appeals, contending that: (1) Claimant’s appeal from the referee’s decision was untimely filed, and (2) the Board’s decision is not supported by the evidence.
+Employer contends that Claimant’s appeal from the October 14, 1993 referee’s decision was filed on the sixteenth day after the referee’s decision and was, therefore, filed one day late. We disagree. Employer miscalculates the appeal period, ignoring section 3 of the Statutory Construction Act of 1972, 1 Pa.C.S. § 1908 concerning computation of time, which provides:
+When any period of time is referred to in any statute, such period in all cases, except as otherwise provided in section 1909 of this title (relating to publication for successive weeks) and section 1910 of this title (relating to computation of months) shall be so computed as to exclude the first and include the last day of such period. Whenever the last day of any such period shall fall on Saturday or Sunday, or on any day made a legal holiday by the laws of this Commonwealth or of the United States, such day shall be omitted from the computation.
+Pursuant to this statute, October 29, 1993, the day on which Claimant filed his appeal, is within 15 days after the date of the referee’s decision. Therefore, Claimant’s appeal was timely and was properly entertained by the Board.
+As to the merits, Employer contends that Claimant was not fired but, rather, was not available for suitable work while his wife was out of town for her training and challenges the Board’s findings to the contrary. Specifically, Employer challenges Finding of Fact, No. 8 and also appears to challenge Findings of Fact, Nos. 12 and 13. Finding of Fact, No. 8 states:
+8. Claimant could have worked either daytime hours or night hours so long as there was a regular schedule to count on since baby sitters had been lined up for either daytime or night time.
+Findings of Fact, Nos. 12 and 13 state:
+12. On or about August 4, 1993, when the time was approaching for claimant’s wife to begin her training, claimant again approached the employer for an answer to his request about hours and was told that the employer would have to let him go.
+13. The claimant did not voluntarily quit his job but was only awaiting a response to his request for a reduction in hours with a regular shift at the time he was let go.
+In making these findings of fact, the Board credited Claimant’s testimony, pertinent portions of which follow:
+C Well, what happened was that my wife got a job, and I approached Stan about this and told him that the babysitting. ... that was no problem for either one of us finding babysitting, you know, for our children.
+C ____and when I approached Stan about it, he was like,. well, we’ll work through it, don’t worry about it---- And he just kept telling everything is going to be okay---Well, I approached him a week before this was going to take place that my wife was going to be gone ... and he said the same thing, that everything is okay---- I came in on Wednesday, I believe it was a Wednesday, and he said, well, we’re — you know, I asked him about, and he said, well, we’re no longer needing — his exact words were we’re going to have to let you go, and that was it....
+R Well, you said you had restrictions because of childcare. Well, tell me when you could have worked or when you couldn’t have worked.
+C Regular daylight hours would’ve been nice, like, 8:00 to 4:30. Something that was steady____
+(R.R. at 32a, 33a.)
+R ... if the employer would have said to you you can work 8:00-4:30 every day with no overtime, would there have been arrangements if you had child care?
+C Yes.
+R And what were those arrangements?
+C I had a baby sitter — two baby sitters. One was to come to my home, and one was for regular hours. I had to take him to her home. If I was going to work some kind of hours like at night, shift or something, I had one girl set up, and if I was going to end up working daylight hours, I had another girl set up.
+(R.R. at 69a.)
+The Board’s findings are conclusive on review if they . are supported by substantial evidence, which is such evidence as a reasonable mind might find adequate to support a conclusion. Peak v. Unemployment Compensation Board of Re view, 509 Pa. 267, 501 A.2d 1383 (1985). Pursuant to this standard, we must determine whether substantial evidence in the record, taken as a whole, supports the findings of the Board. Id. As the ultimate factfinder, the Board determines the credibility of witnesses and the weight to be assigned to the evidence. Miller v. Unemployment Compensation Board of Review, 45 Pa.Commonwealth Ct. 539, 405 A.2d 1034 (1979). Here, the Board expressly resolved conflicts in the testimony and issues of credibility in favor of Claimant. Because this is the Board’s function, on review, we must afford the party prevailing before the Board the benefit of all logical and reasonable inferences which can be drawn from the evidence. Id. The fact that Employer may have produced witnesses who gave a different version of the events, or that Employer might view the testimony differently than the Board, is not grounds for reversal if substantial evidence supports the Board’s findings.
+Our review of the record as a whole, particularly the testimony quoted herein, convinces us that substantial evidence supports the Board’s findings and that the Board’s conclusions are consistent with those findings.
+Accordingly, we affirm.
+ORDER
+AND NOW, this 4th day of November, 1994, the order of the Unemployment Compensation Board of Review dated March 1, 1994, is affirmed.
+. Our scope of review is limited to determining whether constitutional rights have been violated, an error of law has been committed or whether findings of fact are supported by substantial evidence. Frigm v. Unemployment Compensation Board of Review, 164 Pa.Commonwealth Ct. 282, 642 A.2d 629 (1994).
+. Section 502 of the Unemployment Compensation Law, Act of December 5, 1936, Second Ex.Sess., P.L. (1937) 2897, as amended, 43 P.S. § 822, which governs the appeal period, provides:
+Where an appeal from the determination or revised determination, as the case may be, of the department is taken, a referee shall, after affording the parties and the department reasonable opportunity for a fair hearing, affirm, modify, or reverse such findings of fact and the determination or revised determination, as the case may be, of the department as to him shall appear just and proper. The parties and the department shall be duly notified of the referee’s decision, and the reasons therefor, which shall be deemed the final decision of the board, unless an appeal is filed therefrom, within fifteen days after the date of such decision the board acts on its own motion, to review the decision of the referee. A memorandum of testimony of any hearing before any referee shall be made and be preserved for a period of ninety days following expiration of the period for filing an appeal from the final decision rendered in the case.
