@@ -1,0 +1,45 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "228 C.D. 1988"
+decided: "1988-08-19"
+citations: ["119 Pa. Commw. 15", "546 A.2d 723"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Craig, MacPhail, Doyle, Barry, Colins, McGinley and Smith.", "President Judge Crumlish, Jr. did not participate in the decision in this case."]
+parties: ["Bernard Gelman and Holt Cargo Systems, Inc., Petitioners v. Philadelphia Port Corporation and City of Philadelphia, Respondents."]
+source_url: "https://static.case.law/pa-commw/119/cases/0015-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1376626
+cites_cases: ["17 Pa. Commonwealth Ct. 382", "18 Pa. Commonwealth Ct. 306", "285 A.2d 909", "292 A.2d 395", "333 A.2d 190", "335 A.2d 830", "4 Pa. Commonwealth Ct. 392", "448 Pa. 424", "466 Pa. 493"]
+---
+
+# Gelman v. Philadelphia Port Corp.
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+Bernard Gelman and Holt Cargo Systems, Inc. (Petitioners) have filed a petition for review in our original jurisdiction seeking equitable relief against Philadelphia Port Corporation (PPC) and the City of Philadelphia (City) for certain alleged violations of duty owed to Petitioners. PPC and City have filed preliminary objections, inter alia, questioning this Courts jurisdiction to hear the issue.
+Inasmuch as the parties have stipulated that if we lack jurisdiction with respect to the action against PPC, we necessarily lack jurisdiction as to the action against City, we will dispose of the matter on the narrow issue of whether PPC is an agency of the Commonwealth.
+Petitioners seek to invoke our original jurisdiction under the provisions of Section 761(a) of the Judicial Code, 42 Pa. C. S. §761(a), which provides that we have jurisdiction of civil actions against the Commonwealth government. Section 102 of the Judicial Code, 42 Pa. C. S. §102 defines “Commonwealth government” in pertinent part as including “the departments, boards, commissions, authorities and officers and agencies of the Commonwealth, but the term does not include any political subdivision, municipal- or other local authority, or any officer or agency of any such political division or local authority.”
+In their amended petition for review, Petitioners characterize PPC as “a quasi-public, agency which is a Pennsylvania non-profit corporation.” Attached to the petition for review as exhibits are copies of the articles of incorporation and the bylaws of PPC.
+Although admitting, as they must, that this Court has no original jurisdiction in suits against non-profit corporations, Petitioners contend that their suit is against PPC as a quasi-public agency of the Commonwealth and City. They further contend that if PPC is a private, non-profit corporation, then the Commonwealth and City have unconstitutionally delegated their respective authority to PPC.
+We first note that the only basis upon which we may exercise jurisdiction in this case is if we determine that PPC is a Commonwealth agency. If it is a City agency, we have no jurisdiction. Whether the Commonwealth and City have acted in violation of the Constitution is not before us, since the Commonwealth is not a party to this suit and original actions against the City are within the exclusive jurisdiction of the court of common pleas.
+PPC relies upon prior decisions of this Court and our Supreme Court to support its objection to our jurisdiction; Petitioners seek to distinguish those cases.
+PPC was formed to promote water-borne commerce of the Port of Philadelphia; to acquire, maintain and modernize the Ports existing facilities; and, to develop and implement a comprehensive program for the Port, thereby stimulating industrial development, expanding employment opportunities, and increasing tax revenues to the Commonwealth and the City. The Articles of Incorporation provide that when the Governor, the May- or, and Council of the City, the President of the Philadelphia Chamber of Commerce and the Delaware River Port Authority shall determine that the Authority is prepared to assume the functions of PPC, the corporation shall be dissolved and its assets transferred to the City.
+In its bylaws, PPC provides for thirty-three directors— nine of whom are officers of the City, nine appointed by the President of the Greater Philadelphia Chamber of Commerce, two appointed by the Governor, the Chairman and Vice-Chairman of the Delaware River Port Authority, and eleven “public” directors by the Board of PPC and two are representatives of the Delaware River Port Authority.
+Perhaps the most helpful case in determining what we must consider in resolving the issue of whether PPC is a Commonwealth agency is Mooney v. Temple University Board of Trustees, 448 Pa. 424, 292 A.2d 395 (1972). In that case, which affirmed a decision of this Court, an action was brought against Temple University under the so-called Right to Know Act, Act of June 21, 1957, P.L. 390, as amended, 65 P.S. §§66.1-66.4. That Act provided, inter alia, that every public record of a state agency shall be open for examination by any citizen of Pennsylvania. The Supreme Court noted that notwithstanding the facts that the university received state appropriations, the university maintained and operated its program in part in buildings and on land owned by the Commonwealth, the university was statutorily created as an “instrumentality of the Commonwealth” and twelve of the thirty-six trustees were appointed by the Commonwealth, the university, nevertheless, was not a state agency under the Act.
+In Burton v. Temple University Law School, 18 Pa. Commonwealth Ct. 306, 335 A.2d 830 (1975), this Court, relying upon Mooney, held that a mandamus action against the university could not be brought in this Court because the university was not a State agency.
+It requires only a cursory comparison of the corporate characteristics of PPC with those of Temple University, described in Mooney, to conclude that if Temple University with all of its ties to the Commonwealth is not a State agency, PPC certainly is not. Even the unusual requirement in the PPC articles of incorporation for dissolution of PPC under certain conditions provides that the City, in the event of dissolution, shall receive the assets of PPC. We conclude that the Commonwealths interest in PPC is insufficient to bring it within the statutory definition of Commonwealth agency.
+There is yet another reason why we reach this conclusion. In T & R Painting Co. v. Philadelphia Housing Authority, 466 Pa. 493, 353 A.2d 800 (1976), Justice (later Chief Justice) Roberts in affirming this Courts decision that the Philadelphia Housing Authority was not a State agency and could not be sued in this Court, wrote:
+The Commonwealth Court is intended to provide a judicial forum for the uniform and consistent resolution of questions of statewide impact. For example, the Department of Environmental Resources must have a clear idea what its powers and duties' are and would bo severely handicapped if those powers and duties varied from county to county until an appellate court could rule on the issués involved. Conversely, there is no particular need for such ’uniform statewide resolution of issues involving’the powers and duties of local: authorities which operate within a single :‘county, city or other municipálity of the State. 1 ’’ ■' •
+466 Pa. at 498, 353 A.2d at 802. Justice Roberts cited with approval this Courts conclusion in Levine v. Redevelopment Authority of the City of New Castle, 17 Pa. Commonwealth Ct. 382, 333 A.2d 190 (1975), that it would-be absurd and unreasonable to require those who would sue agencies involved with matters of strictly local concern to bring their actions in this Court rather than in the Ideal court of common pleas.
+It is our opinion that PPC clearly is solely involved with the Port of Philadelphia. It has no statewide duty or authority. Whatever it has done or failed to do should be determined by the local court of common pleas.
+In summary, we hold that PPC is not a Commonwealth agency for purposes of our jurisdiction as defined by the Judicial Code. We, accordingly, have no jurisdiction to decide the action brought by Petitioners against PPC and City.
+Order
+The preliminary objections of the Philadelphia Port Corporation and the City of Philadelphia raising the issue of jurisdiction are sustained. The preliminary injunction issued by this Court on February 22, 1988 is dissolved. The matter is hereby transferred to the Court of Common Pleas of Philadelphia County.
+President Judge Crumlish, Jr. did not participate in the decision in this case.
+This Court does have appellate jurisdiction in all actions or proceedings involving the corporate affairs of non-profit corporations. See Section 762(a)(5)(ii) of the Judicial Code, 42 Pa. C. S. §762(a)(5)(ii).
+Reported at 4 Pa. Commonwealth Ct. 392, 285 A.2d 909 (1972).
+No. 395 C.D. 1974 (filed February 11, 1975).
