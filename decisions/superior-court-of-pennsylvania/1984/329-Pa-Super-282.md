@@ -1,0 +1,50 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2226"
+decided: "1984-06-22"
+citations: ["329 Pa. Super. 282", "478 A.2d 469"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WICKERSHAM, MONTEMURO and MONTGOMERY, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Eden Richard MOYER, Appellant."]
+source_url: "https://static.case.law/pa-super/329/cases/0282-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 609049
+cites_cases: ["272 Pa.Super. 546", "476 Pa. 83", "483 Pa. 183", "497 Pa. 643"]
+---
+
+# Commonwealth v. Moyer
+
+## Majority (WICKERSHAM, Judge:)
+
+WICKERSHAM, Judge:
+On May 21, 1979, appellant was certified for trial as an adult by the lower court, after hearing. Subsequently, appellant entered a guilty plea to the charges of third degree murder and robbery. Appellant thereafter appealed to the Pennsylvania Supreme Court, raising the issue of error in refusing to transfer his case to Juvenile Court. The Pennsylvania Supreme Court affirmed the sentence of the lower court. Commonwealth v. Moyer, 497 Pa. 643, 444 A.2d 101 (1982). In its opinion the court noted that:
+On January 29, 1979, appellant, then seventeen years of age, was arrested and charged in connection with the January 16, 1979 robbery-murder of John Kenvin, who was robbed and beaten to death with a blunt instrument. On April 12, 1979, appellant filed a motion to transfer the case from the Criminal Division of the Court of Common Pleas of Luzerne County to Juvenile Court, pursuant to Section 6322 of the Juvenile Act, 42 Pa.C.S. § 6322. The trial court denied the motion to transfer on May 21, 1979, following a counselled evidentiary hearing. The following day, appellant pleaded guilty to charges of murder of the third degree and robbery. On June 27, 1979, appellant was sentenced to concurrent terms of ten to twenty years imprisonment on each conviction.
+Id., 497 Pa. at 645, 444 A.2d at 102 (footnote omitted).
+On August 8, 1979, the appellant filed a Post-Conviction Hearing Act Petition , alleging ineffective assistance of counsel and an unlawfully induced guilty plea. On October 4, 1979, the lower court entered an order remanding the petition for the purpose of having the appellant set forth which of the alleged facts he knew before and after his guilty plea. The appellant never pursued the PCHA petition of August 8, 1979.
+Subsequently, in February of 1982, through his present counsel, appellant filed a second PCHA petition alleging ineffective assistance of counsel, an unlawfully induced guilty plea, lack of factual basis for the guilty plea and after-discovered evidence. In paragraph seven of his second petition, appellant denied having taken a direct appeal from his conviction and denied previous proceedings under the Post Conviction Hearing Act. On July 7, 1982, the Court dismissed the PCHA petition stating in the Order:
+(1) In Para. 7(A) the Petitioner answered “NO”. In fact, an appeal was taken on his behalf filed to No. 294 January Term 1978 in the Supreme Court of Pennsylvania. The sentence was affirmed April 23, 1982.
+(2) More importantly, the Petitioner answered Para. 7(B) “NO”. This is not true. This Court, on October 4, 1979, following a Post Conviction Hearing Petition of the Petitioner, ordered the Petitioner to file a more specific petition. He subsequently abandoned it. In that Petition, although he marked substantially the same blocks on Page 2 of the Petition, he did not advance the same reasons therefor.
+Thereafter, this appeal was timely filed.
+On May 22, 1979, Eden Richard Moyer, appellant, appeared before the Honorable Bernard C. Brominski, President Judge in the Court of Common Pleas of Luzerne County, represented by John J. Thomas, Esquire, Assistant Public Defender and Jonathan Blum, Esquire, Assistant Public Defender. At that time a full colloquy was taken in conjunction with a plea of guilty that appellant entered, namely a plea of guilty to third degree murder and a plea of guilty to robbery. On June 27, 1979, appellant again appeared before President Judge Brominski, again represented by John J. Thomas, Esquire and Jonathan Blum, Esquire, Assistant Public Defenders and he was sentenced to penitentiary terms of a minimum of ten years and a maximum of twenty years on each charge, to run concurrently. On June 29, 1979, Attorneys Thomas and Blum filed a notice of appeal to the Supreme Court of Pennsylvania, which appeal was submitted October 20, 1981 and decided April 23, 1982.
+Thereafter, on May 14, 1982, E. Richard Moyer filed an affidavit requesting that Attorneys Blum and Thomas withdraw as counsel. Attorney John A. Bednarz, Jr., Esquire, entered an appearance on behalf of appellant Moyer and on June 2, 1982, by court order, the withdrawal of counsel by John J. Thomas, Esquire and Jonathan Blum, Esquire, was permitted of record.
+Thereafter, the present petition under and pursuant to the Post Conviction Hearing Act was filed naming Mr. Bednarz as counsel, which petition alleged, inter alia, that trial counsel were ineffective. Specifically, the petition alleged:
+1. The confession given and my plea of guilty were unlawfully induced by the following wrongful acts of my counsel: (i) Counsel, Jonathan Blum, refused to discuss possible defenses with me, refused to contact both eyewitnesses and character witnesses, wrongfully advised me to give a confession when I wasn’t sure as to what happened, refused to file and pursue any pretrial motions, especially, but not limited to a Motion to Suppress my confession, refused to bring inaccuracies in my confession transcription to the court’s attention, refused to and was unprepared to try my case, (ii) My counsel unlawfully coerced my confession and thereafter my guilty plea because he was unprepared and unwilling to try my case and was not acting in a manner calculated to advance my interests and only to rid himself of responsibility of my case.
+2. My co-defendant, ROBERT MARTINEZ, has declared in a statement, which is annexed hereto, that he alone murdered the victim, that I had no prior knowledge that the crime was to be committed, that I had no agreement with Martinez to commit the crime at any time, that I had absolutely nothing to do with the commission of the crime and received none of the proceeds of the crime, nor did I aid Martinez to escape capture and/or prosecution.
+3. There was no factual basis for my plea of guilty in that the testimony indicated a claim of strangulation of the victim by me, however, the medical testimony of County Coroner George Hudock, did not show any evidence of strangulation, bruises, contusions or injury to the neck area.
+On July 7, 1982, President Judge Brominski dismissed the present petition without a hearing for the stated reason that the petitioner had improperly responded to question number seven set forth hereinabove. Mr. Bednarz then filed the instant appeal and he argues in his brief:
+While it is agreed that the right to an evidentiary hearing is not absolute, unless the Court is certain of the total lack of merit of an issue raised in a Petition for Post-Conviction hearing, a hearing should be held on the issue. Commonwealth vs. Rhodes, 272 Pa.Super. 546, 416 A.2d 1031 (1979).
+Futhermore, [sic] if a Petitioner seeking Post-Conviction relief alleges facts “which if proven whould [sic] entitle the Petitioner to relief,” an evidentiary hearing is required. 19 P.S. Section 1180-9; Commonwealth vs. Sherard, 483 Pa. 183, 394 A.2d 971 (1978).
+Since it is alleged that trial counsel was ineffective and Petitioner is represented for the first time by counsel other than his trial counsel, the issue of trial counsel’s ineffectiveness may be raised at this time. Commonwealth vs. Triplett, 476 Pa. 83, 381 A.2d 877 (1977).
+Brief for Appellant at 10.
+We agree. An evidentiary hearing is required on petitioner’s assertion of ineffectiveness, which assertions are raised for the first time by counsel other than trial counsel.
+On the state of the record, we cannot determine what occurred between defense counsel and appellant prior to the entry of the plea of guilty. Clearly a hearing on the issues raised in appellant’s petition is required and a determination by the court of matters such as credibility and whether or not trial counsel were indeed ineffective. Accordingly, the order of the Court of Common Pleas of Luzerne County is vacated and the record remanded for further proceedings consistent with this opinion. Jurisdiction is relinquished.
+. 42 Pa.C.S.A., §§ 9541-9551, Act of May 13, 1982, P.L. 417, No. 122, § 2.
+. Appellant raises the following issues on appeal:
+I. Whether Petitioner, who alleged inter alia, ineffective trial counsel, is entitled to an evidentiary hearing prior to a dismissal of his Post-Conviction Hearing Act Petition.
+II. Whether Petitioner waived his right to challenge the Voluntariness of his guilty plea, the effectiveness of his counsel and to present after-discovered evidence.
+III. Whether Petitioner is entitled to an evidentiary hearing on the merits of his allegations that there is after-discovered, evidence which was unavailable at trial, which is exculpatory and which would have affected the outcome of the trial if introduced.
+IV. Whether there was a factual basis for Petitioner’s guilty plea.
+Brief for Appellant at 3.
+. We do not consider it of sufficient significance to warrant a contrary result that petitioner’s second petition did not make reference to his direct appeal nor to a prior proceeding under the Post Conviction Hearing Act although clearly the answer to questions seven a and seven b were inaccurate. We note also in answer to paragraph nine appellant flatly states that “No direct appeal taken.” It is conceivable that appellant was unaware of the existence of the direct appeal. This matter, to the extent deemed relevant, may be pursued at the hearing which will be held in the court below.
