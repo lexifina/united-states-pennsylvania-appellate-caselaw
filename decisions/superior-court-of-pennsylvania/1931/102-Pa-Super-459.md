@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 26"
+decided: "1931-07-08"
+citations: ["102 Pa. Super. 459"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Gawthrop, Cunningham, Baldrige and Drew, JJ."]
+parties: ["Tredway, Appellant, v. Ingram."]
+source_url: "https://static.case.law/pa-super/102/cases/0459-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 695490
+cites_cases: ["100 U. S. 195", "238 Pa. 550", "262 Pa. 76", "264 Pa. 406", "312 Ill. 245", "81 Pa. 256", "94 Pa. Superior Ct. 240"]
+---
+
+# Tredway v. Ingram
+
+## Majority (Drew, J.,)
+
+Opinion by
+Drew, J.,
+This is the second suit between the same parties upon the same statement of facts. The first was an action in Assumpsit wherein this plaintiff and appellant, Cornea D, Tredway, sought to recover from defendant what she expended in protecting a mortgage she owned from divestiture at sheriff’s sale. In that case judgment was entered by the lower court upon the pleadings for the defendant. An appeal was taken to this court and is reported in 94 Pa. Superior Ct. 240. We affirmed the judgment of the lower court. Then this action in Trespass was brought by the same plaintiff against the same defendant for the same cause of action.
+Martin P. Fischer was the owner of a number of lots on Woodhaven Drive, Mt. Lebanon Township, Allegheny County, and he engaged the Central Homes Company, as general contractor, to build four houses. The plaintiff and appellant, Cornea D. Tredway, placed a $10,000 mortgage upon one of these houses and before doing so, demanded a Release of Liens, which was furnished by said Central Homes Company. The Superintendent of that Company, J. C. Umstead, attached his affidavit to the Release of Liens, in which he certified that said Release had been executed by all the contractors and sub-contractors who furnished labor or materials on the building.
+The defendant and appellee, Thomas J. Ingram, trading as Kerr & Ingram, signéd that Release of Liens at the place usually signed by the sub-contractors furnishing “Rough Lumber,” “Milled Work” and “Stairbuilding.” The signature of the defendant was obtained by mistake, and in this way: The defendant had the contract for furnishing lumber to be used in the construction of three of the said four houses built for Fischer. He did not know that there was a fourth house being constructed by the same general contractor for Fischer on the same street. No lot numbers were specified in his order. After the defendant had furnished the material for the three houses, Umstead, acting for Central Homes Company, presented two Releases of Liens to him, and told defendant they were for two houses on Woodhaven Drive, for which he had furnished lumber, and defendant executed the Releases under that impression'and belief. He did not receive any consideration for the Releases. One of the Releases covered one of the three houses for which he had furnished material, and the other Eelease covered the fourth house 'for which he had not furnished material. The lumber contract for that house had been awarded to two companies, the Carnegie Lumber Company and the West Liberty Lumber Company. Subsequent to the closing of the mortgage these companies '■ each filed a lien against the premises, and the plaintiff was obliged to purchase the same, in order to protect her mortgage, at a cost of $2,084.55. This sum constitutes the damage which plaintiff seeks to recover in this action.
+When the first suit between these parties upon these facts was before us (94 Pa. Superior. Ct. 240) we affirmed, in a Per Curiam opinion, the lower court' o'n the opinion filed by President Judge Evans, of the Common Pleas Court of Allegheny County, in which it was said that there was no contractual relation between the plaintiff and defendant, and that Ingram, by signing the Eelease of Liens, did not certify to plaintiff that other dealers in lumber may not have furnished material.
+In this case, in the opinion of the lower court, filed by Judge Swearingen, appears the following:
+“The defendant did not certify anything to the plaintiff and he did not guarantee anything, except that he had no claim against the realty of which she was the mortgagee. And he never has asserted any such claim.
+‘ ‘ This action in Trespass is founded upon negligence; it is so averred in the Statement of Claim. Negligence is the omission of some duty which one party owes to another, thereby causing an injury. We are unable to perceive what duty this defendant owed to this plaintiff. He certified nothing, he guaranteed- no thing; and especially he did not assert to her that some other party had not furnished labor and materials for the construction of the house on Fischer’s'lot. .A mistake was made, but there was no evidence that the mistake was committed wilfully, negligently or corruptly.”
+We can add little to what these learned judges have said regarding the facts and law of this case. Their judgments are conclusive for the reasons given. We might say, however, that in this case there is no allegation or intimation of fraud. The defendant, even though he acted negligently, did not wilfully sign false statements, and he was not guilty of any fraud. The question of liability for negligence ca'nnot arise at all until it is established that the man who has been negligent owed some duty to the person who seeks to make him liable for his negligence. What duty can there be when there is no relation between the parties by contract, by statute, or at common law? (See Houseman v. Girard Mutual Building & Loan Assn., 81 Pa. 256; Schiffer v. Sauer Company et al., 238 Pa. 550; Cohen v. Tradesmen’s National Bank, 262 Pa. 76; Landell v. Lybrand, 264 Pa. 406; Savings Bank v. Ward, 100 U. S. 195; National Iron & Steel Co. v. Hunt, 312 Ill. 245.) '
+No duty of any kind has been shown to exist in the present case between plaintiff and defendant. There was no contractual obligation whatsoever. There is no statute in any way dealing with the subject. Defendant did not know plaintiff, knew nothing of plaintiff’s mortgage and had no relationship whatsoever with her. Defendant owed no duty to plaintiff, and in such case, under the principle set forth above, plaintiff cannot recover for the negligent act of defendant.
+The lower court was not in error in directing a verdict for defendant, in refusing to enter judgment non obstante veredicto, and in entering judgment on the verdict.
+Judgment affirmed.
