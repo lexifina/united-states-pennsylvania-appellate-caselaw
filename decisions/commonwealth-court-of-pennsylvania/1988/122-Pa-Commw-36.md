@@ -1,0 +1,44 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeals Nos. 1526, 1527, 1528 C.D. 1987"
+decided: "1988-12-13"
+citations: ["122 Pa. Commw. 36", "551 A.2d 386"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Barry and Smith, and Senior Judge Narick, sitting as a panel of three.", "Judge MacPhail did not participate in the decision in this case."]
+parties: ["Pennsylvania Power Company, Petitioner v. Workmen's Compensation Appeal Board (Kelly), Respondents. Pennsylvania Power Company, Petitioner v. Workmen's Compensation Appeal Board (Quigley), Respondents. Pennsylvania Power Company, Petitioner v. Workmen's Compensation Appeal Board (Roberts), Respondents."]
+source_url: "https://static.case.law/pa-commw/122/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1381082
+cites_cases: ["465 A.2d 81", "77 Pa. Commonwealth Ct. 67"]
+---
+
+# Pennsylvania Power Co. v. Workmen's Compensation Appeal Board
+
+## Majority (Senior Judge Narick,)
+
+Opinion by
+Senior Judge Narick,
+Before us are three appeals by Pennsylvania Power Company (Penn Power) from decisions of the Workmens Compensation Appeal Board (Board) whereby the referees awards of partial disability benefits were affirmed with respect to three employees: George B. Roberts (Roberts), Robert Kelly (Kelly) and Paul Quigley (Quigley).
+George B. Roberts
+While in the course of his employment, Roberts sus-' tained injuries to his lower back. Pursuant to a supplemental agreement, Roberts was paid compensation from April 30, 1985 through May 5, 1985 and from May 9, 1985 through July 7, 1985 at the rate of $336.00 per week, based upon an average weekly wage of $677.69. On or about February 5, 1986, Roberts filed a petition for reinstatement of benefits alleging he was entitled to partial disability for the period July 15, 1985 through January 20, 1986 because Penn Power, for rehabilitative purposes, prohibited him from accepting overtime. Roberts contended that as a result he suffered a substantial loss, in earning power. The referee found that overtime work was available during this “rehabilitative period” but because Roberts was not permitted to work overtime he suffered a loss of earning power—his average weekly wage being $511.58. The referee awarded partial disability compensation and the Board affirmed.
+Robert Kelly
+While in the course of his employment, Kelly sustained injuries to his left knee. Pursuant to various supplemental agreements, Kelly received compensation intermittently from August 1, 1983 through October 21, 1984 at the rate of $260.00 per week based upon an average weekly wage of $649.31. On February 3, 1986, Kelly filed a petition to reinstate compensation alleging that he was entitled to partial disability from October 22, 1984 until February 6, 1985 because Penn Power, for rehabilitative purposes, prohibited him from accepting overtime. Kelly contended that as a result he sustained a substantial loss in earning power. The referee found that overtime work was available during this “rehabilitative period” but because Kelly was not permitted to work overtime, he suffered a substantial loss of earning power—his average weekly wage being $542.09. The referee awarded partial disability compensation and the Board affirmed.
+Paul Quigley
+While in the course of his employment, Quigley sustained injuries as a result of an electrical shock. Pursuant to a supplemental agreement, Quigley was paid compensation from July 8, 1980 until September 1, 1980 at a rate of $242.00 per week, based upon an average weekly wage of $485.68. On or about February 3, 1986, Quigley filed a petition for reinstatement of benefits alleging he was entitled to partial disability compensation for the period February 8, 1980 through April 1, 1980 because Penn Power, for rehabilitative purposes, prohibited him from accepting overtime. Quigley contended that as a result he suffered a substantial loss in earning power. The referee found that overtime work was available to Quigley during this “rehabilitative period” but because Quigley was not permitted to work overtime, he suffered a loss of earning power—his average weekly wage being $316.67. The referee awarded partial disability compensation and the Board affirmed.
+Issues
+On appeal, Penn Power contends that Section 306(b) of The Pennsylvania Workmens Compensation Act (Act), Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §512 has not been applied as written with respect to the three cases herein. More specifically, Penn Power is requesting that this Court reconsider its holding in Duquesne Light Co. v. Workmen's Compensation Appeal Board (Klein), 77 Pa. Commonwealth Ct. 67, 465 A.2d 81 (1983). Penn Power also argues that the Quigley petition was untimely filed.
+Analysis
+First, we will address Penn Powers contentions regarding our holding in Duquesne Light. In Duquesne Light, this Court held that an employee who has a history of working overtime is entitled to partial disability compensation, when after a return to work he is denied overtime as a precaution against further injury.
+Section 306(b) of the Act provides, in part, that: “[I]n no instance shall an employe receiving compensation under this section receive more in compensation and wages combined than a fellow employe in employment similar to that in which the injured employe was engaged at the time of the injury” (Emphasis added.)
+As to the Claimants herein, the total of compensation and wages they each have received exceeds the total compensation received by some of their fellow employees engaged in similar employment. Penn Power contends that pursuant to Section 306(b) of the Act, Claimants’ wages and compensation for their alleged disabilities cannot exceed the wages of any co-worker for the same period and because such is the case here, benefits should be denied. This exact argument was presented by the employer in Duquesne Light and rejected. We decline to accept Penn Power’s contentions herein for the same reasons we stated in Duquesne Light:
+This interpretation does not serve the remedial nature of the Act, which was designed to offset the losses of injured workers. Section 306(b) is intended to assure that the system-of-loss measurement remains calibrated; that changing conditions do not transform compensation into unjust enrichment. We hold that the average wage of the claimants fellow employees should be used for purposes of comparison with the claimants wages and compensation under this section.
+Duquesne Light at 69, 465 A.2d at 82. Accordingly, we conclude that the Claimants do qualify for partial disability compensation benefits.
+However, we must address the additional question of timeliness raised by Penn Power regarding the Quigley petition for reinstatement of benefits. Although this issue was raised by Penn Power before both the referee and the Board, it was not addressed by either. It is required pursuant to Section 413 of the Act,. 77 P.S. §772 that a petition for reinstatement of benefits be filed “within three years after the date of the most recent payment of compensation made prior to the filing of such petition . . .”. Our reading of the record herein reveals that Quigley last received compensation on September 1, 1980 but did not file his petition for reinstatement of benefits until six years later. Clearly, his petition for reinstatement is untimely.
+Accordingly, the decisions and orders of the Board at No. A-91681 with respect to George A. Roberts, and No. A-91643 with respect to Robert Kelly are hereby affirmed; and the decision and order of the Board at No. A-91679 with respect to Paul Quigley is hereby reversed.
+Order
+And Now, this 13th day of December, 1988, the orders of the Workmen's Compensation Appeal Board at No. A-91681 with respect to George Roberts, and No. A-91643 with respect to Robert Kelly are hereby affirmed; and the decision and order of the Board at No. A-91679 with respect to Paul Quigley is hereby reversed.
+Judge MacPhail did not participate in the decision in this case.
+Roberts, Kelly and Quigley will at times throughout this opinion be referred to collectively as Claimants.
+Our review of the record also reveals that the supplemental agreement between Quigley and Penn Power was not signed until February 4, 1981 and that Quigleys petition for reinstatement was requesting partial disability for the period February 8, 1980 through April 1, 1980. Thus, it was possible for Quigley to file a review petition (for which there is no time limitation) alleging that the supplemental agreement was in error because it failed to compute partial disability benefits. Unfortunately, a lair reading of the petition as it now stands cannot be considered as a review petition alleging error in computation of benefits. Therefore, we cannot consider it as such.
