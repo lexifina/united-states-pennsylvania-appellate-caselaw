@@ -1,0 +1,41 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2897 C.D. 1981"
+decided: "1983-01-18"
+citations: ["71 Pa. Commw. 252"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogers, Blatt and Craig, sitting as a panel of three."]
+parties: ["Compass Coal Company, Inc., Petitioner v. Commonwealth of Pennsylvania, Pennsylvania Game Commission, Respondent."]
+source_url: "https://static.case.law/pa-commw/71/cases/0252-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1936996
+cites_cases: ["170 A.2d 97", "266 A.2d 259", "374 Pa. 262", "403 Pa. 383", "437 A.2d 512", "439 Pa. 43", "63 Pa. Commonwealth Ct. 10", "97 A.2d 825"]
+---
+
+# Compass Coal Co. v. Commonwealth, Pennsylvania Game Commission
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+Petitioner, Compass Coal Company, Inc. (Compass), has filed a Petition for Review of an order of the Pennsylvania Board of Property (Board) declaring Compass, the assignee of the lessee of minerals reserved to the grantor in a deed conveying land was without right to strip mine the premises without the ‘consent of the grantee of the land, the Pennsylvania Game Commission.
+By deed dated February 13, 1934, the Trustees of the Baker Run Reserve conveyed to the Commonwealth of Pennsylvania, for the use of the Pennsylvania Game Commission, a tract of land containing 4,717 acres more or less in Clearfield County. The deed contained the following reservation:
+Excepting and reserving however, unto the Grantors herein, their successors and assigns, all coal, oil, gas, clays and other minerals, in, upon, or under said lands, together with the right to go upon said lands to prospect for, drill and otherwise explore for said minerals, oil, gas and clays; also with full right to operate any oil and gas wells that may be hereafter placed on said lands, and with full rights of mining, drilling and carrying on any mining or drilling operations, with the right to erect and maintain such pipe lines, railways, over, or under said lands, to transport coal, gas and oil that may be found on said lands, as well as transportation of coal, oil or gas through or over said lands, produced on other lands; with the right to erect such other structures, as may be required and are necessary for the proper and complete operation of such coal, oil and gas mines or wells; including the right to erect pump houses, breakers, tipples, refineries, storage tanks, and other buildings appurtenant or necessary to the mining, and operation and carrying on of coal, oil and gas development and production, as well as for clays and other minerals in, upon, or under said land.
+In 1937 the mineral rights thus reserved were conveyed to A. H. Reitz. In 1965, Reitz leased the right to mine the coal to P & N Coal Company, Inc., which assigned the lease to Compass in 1980.
+Compass has not contested the Board’s Findings of Fact, among which were the following:
+11. Today, the coal could not be economically deep mined....
+13. The strip mining method of coal removal was known in 1934.
+14. In 1934, deep mined coal would be more feasible to sell because it was higher quality coal than strip coal.
+15. Both, strip mining and deep mining have occurred on properties adjoining the state game lands.
+16. There has been no deep mining or strip mining on the land.
+Compass contends that the Board of Property erred in interpreting the reservation as not reserving to the grantor of the deed, to whose interest Compass has succeeded, the right to .take the coal by strip mining.
+A repetition of all of the familiar principles of law applicable in this class of case, of which the members are numerous, is not needed here. See, Stewart v. Chernicky, 439 Pa. 43, 266 A.2d 259 (1970); Wilkes-Barre Township School District v. Corgan, 403 Pa. 383, 170 A.2d 97 (1961); Rochez Bros. Inc. v. Duricka, 374 Pa. 262, 97 A.2d 825 (1953). It may be profitable, however, to mention a few such rules which have particular application in this case. A doubtful reservation of coal and the right to mine coal contained in a deed will be construed most strongly against the grantor, Compass’s predecessor, and in favor of the grantee of land, the Game Commission. Wilkes-Barre School District v. Corgan, 403 Pa. at 383, 170 A.2d at 99. It is the intention of the parties at the time of the transaction that governs. Stewart v. Chernicky, 439 Pa. at 49, 266 A.2d at 263. If the reservation is doubtful, then all of the attending circumstances existing at the time of its creation should be considered to aid in determining the apparent object of the parties. Id. at 49, 266 A.2d at 263. The burden of showing some positive evidence that the parties to the deed agreed to authorize strip mining rests on the party asserting the right to engage in that practice. Id. at 50, 266 A.2d at 263; GRC Coal Company v. Commonwealth, Game Commission, 63 Pa. Commonwealth Ct. 10, 437 A.2d 512 (1981). And finally, the mere authorization to mine, without more, does not encompass the right to strip mine. Stewart v. Chernicky, 439 Pa. at 52, 266 A.2d at 264.
+The reservation in this ease does not mention either deep or strip mining as the. allowed method of obtaining the coal; its authorization is merely to mine. With respect to the method of mining, the reservation is doubtful. Applying the principles just recited, the reservation must be construed most strongly against Compass; since the authorization is only to 'mine without more, it does not confer on Compass the right to strip mine; the burden was on ¡Compass to show positive evidence that ¡strip mining was agreed to; and Compass was bound to show that it was the intention of the parties to allow strip mining when the reservation was created by circumstances existing at that time. Compass failed to carry these burdens. The uncontested findings establish that at the time the reservation was created, although both methods of extracting coal were known and practiced, deep mined coal could be more feasibly sold than the strip mined product. The findings, rather than describing positive evidence of an agreement for strip mining, suggest that the parties intended that the method to be used in extracting the coal was by deep mining.
+Compass nevertheless contends that, since the grantor of the land conveyed to the Game Commission reserved “all coal” and since strip mining was a known practice when the property was conveyed, the parties -must have meant to reserve to the grantor all coal that could be got by means of either deep or strip mining. The same circumstances were present, and the same argument was made by the coal owners in Rochez Bros. Inc. v. Duricka, 374 Pa. 262, 97 A.2d 825 (1953). The circumstances were there rejected as insufficient to support the coal owner’s burden to show that the parties intended to “permit [the coal owner] to come upon [the] land and turn it into a battleground with strip mining.” Id. at 266, 97 A.2d at 826.
+Compass’s contention that since the coal cannot now be economically deep mined the parties would intend that method to be allowed, runs afoul of the principle that it is the intention of the parties at the time of the creation of the reservation which is to be devined not what present conditions would suggest. In this case the facts contemporaneous with the deed suggest that deep mining was the method -intended to be allowed.
+The Commonwealth paid four dollars an acre for the land, a total price in excess of $18,000. Compass argues that the price paid was, as Compass characterizes it, small because the parties to the deed contemplated that the extraction of the reserved coal might be accomplished by means, including strip mining, which would greatly injure the surface estate. This thesis is not only too thin a thread upon which to hang the desired inference, it is attenuated to the point of invisibility by the fact that in 1937 one of Compass’s predecessors paid only $1,000 for the coal rights.
+Order affirmed.
+Order
+And Now, this 18th day of January, 1983, the order of the Board of Property, dated November 2, 1981, is affirmed.
