@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "02553"
+decided: "1991-06-21"
+citations: ["405 Pa. Super. 586", "592 A.2d 1368"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before MONTEMURO, BECK and TAMILIA, JJ."]
+parties: ["PATRICK Mc GUIGAN ROOFING COMPANY, INC., Appellant, v. Leonard D. KALLMAN t/a LKM Associates, a General Partnership."]
+source_url: "https://static.case.law/pa-super/405/cases/0586-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 896693
+cites_cases: ["283 Pa.Super. 344", "293 Pa.Super. 1", "364 Pa.Super. 460", "382 Pa.Super. 146", "484 Pa. 464"]
+---
+
+# Patrick Mc Guigan Roofing Co. v. Kallman
+
+## Majority (MONTEMURO, Judge:)
+
+MONTEMURO, Judge:
+This is an appeal from an order sustaining appellees’ preliminary objections and striking off appellant’s mechanic’s lien claim.
+Appellant is a subcontractor hired by appellees LKM Associates to install a roofing system on a building at 3200 South Lawrence Street, Philadelphia. The property is owned by Bert Lewis, Edward Kallman and Ralph Marta to whom the fictitious name LKM Associates is registered. Messrs. Lewis, Kallman and Marta also own LKM Food, Inc., which in turn owns and operates a food distribution warehouse under the name C.W. Dunnet & Co. In November of 1988, Dunnet contracted with MBR Associates, a building firm, to construct a refrigerated warehouse at the Lawrence Street address. In December, Dunnet assigned its contract to LKM, which in February of 1989 executed a waiver of liens with MBR. Appellant began the roofing job in October under agreement with MBR. However, no payment was ever made for. the work, for which approximately $30,500 is due and owing. In February of 1990, appellant filed a mechanics lien against appellees for the outstanding balance. In successful preliminary objections appellees contended that the property was exempt from lien due to the waiver. This appeal followed.
+In the first of its two claims on appeal, appellant argues that issues of fact sufficient to require a determination by trial was necessary based on a misfiling of the lien waiver, of which, as a result of the filing error, appellant never properly received notice.
+A preliminary objection in the nature of a demurrer is an assertion that a pleading fails to set forth a cause of action upon which relief can be granted ... The preliminary objection should be overruled if the allegations of the complaint state a cause of action under any theory of law ... When reviewing the lower court’s sustaining of a preliminary objection in the nature of a demurrer, all facts set forth in the challenged complaint must be accepted as true as well as all inferences reasonably deducible from these facts ... A case should be dismissed on preliminary objections only where the dismissal is clearly warranted and free from doubt.
+Vintage Homes, Inc. v. Levin, 382 Pa.Super. 146, 154, 554 A.2d 989 (1989) (citations omitted).
+The party asserting waiver of a mechanic’s lien must clearly prove its existence. Sullivan Construction Co. v. Historical Arch Street Development Associates, 364 Pa.Super. 460, 528 A.2d 248 (1987). Herein there is no dispute as to the existence of the waiver, only as to its effectiveness. Specifically, appellant insists that because there was confusion as to the exact address of the property against which the lien was filed, the trial court improperly granted the preliminary objections.
+The confusion, if in fact it exists, stems from the fact that the Location Index pages in the filing office contain listings relevant to a waiver of liens at 666 Packer Avenue rather than 3200 Lawrence St. As appellee correctly points out, however, both of the addresses are part of the same parcel of land described by the deed, and repeated in the waiver, and to which the waiver refers. As our Supreme Court has held in Trustees of C.I. Mortgage Group v. Staff of Huntington, 484 Pa. 464, 399 A.2d 386 (1979), the document barring liens must merely contain sufficient information to provide notice to the subcontractor that the building involved is in fact the one for which he supplied material and/or labor. The legal description in a deed is of such clarity.
+Moreover, and more critically, 49 P.S. § 1402, provides that a waiver of liens be “indexed in the name of the contractor as defendant and the owner as plaintiff and also in the name of the contractor as plaintiff and the owner as defendant.” As appellant correctly points out, the responsibility to assure that the indexing is properly done devolves upon property owners, Lisk Plumbing & Heating Co., Inc. v. Schons, 283 Pa.Super. 344, 423 A.2d 1288 (1981), and any failure in this regard invalidates a waiver. Site Improvement, Inc. v. Central & Western Chester County Industrial Development Authority, 293 Pa.Super. 1, 437 A.2d 960 (1981). However, as cross-indexing by name of owner and contractor was done, the requirements of the statute were complied with; no indexing by location is necessary as the site is to be made specific in the waiver document itself. Accordingly, any putative error or confusion in this listing is immaterial, and appellant was accorded constructive notice of the existence of the waiver.
+As his second issue, appellant merely reiterates the first, and in addition asserts, without providing support for his assertions, that the waiver itself was defective in various respects and that it was obtained in bad faith and for the purpose of perpetrating a fraud upon subcontractors and materialmen. The indexing issue has already been addressed and found unpersuasive, and as to appellant’s other claims, there is nothing in the record to support them. Moreover, appellant has violated the specificity of pleading requirements set by Pa.R.C.P. 1019(b), regarding fraud. We therefore find the trial court to have been correct in granting appellees’ preliminary objections, and in striking appellant’s lien claim.
+Having said so much, we would also add that although the result herein is dictated by the provisions of the Mechanics’ Lien Law, 49 P.C. §§ 1101-1902, is it not similarly compelled by equity. The net effect of the Law is to allow a contractor unilaterally to dispense with the rights (particularly) of unsophisticated subcontractors to be paid for their labor. We believe that situations such as the one presented above make a clear case for legislative review and reformation of the statute, to ensure a far greater measure of fairness than now obtains.
+Order affirmed.
+. The Lawrence Street building forms one quarter of the square known as 666 Packer.
