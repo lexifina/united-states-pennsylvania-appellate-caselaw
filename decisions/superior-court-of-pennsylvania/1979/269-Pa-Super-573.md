@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "216 Special Transfer Docket"
+decided: "1979-09-21"
+citations: ["269 Pa. Super. 573", "410 A.2d 849"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before MONTGOMERY, O’BRIEN and HONEYMAN, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Sandy ALSTON, Appellant."]
+source_url: "https://static.case.law/pa-super/269/cases/0573-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 129611
+cites_cases: ["228 Pa.Super. 49", "236 A.2d 802", "272 A.2d 178", "312 A.2d 406", "314 A.2d 304", "319 A.2d 167", "323 A.2d 25", "428 Pa. 279", "441 Pa. 183", "454 Pa. 506", "455 Pa. 93", "457 P. 225", "461 Pa. 664"]
+---
+
+# Commonwealth v. Alston
+
+## Majority (MONTGOMERY, Judge:)
+
+MONTGOMERY, Judge:
+On March 23, 1977, appellant was convicted, by a jury, of Third Degree Murder. Post verdict motions were filed and denied. Appellant was initially sentenced to ten to twenty years imprisonment; however, this was subsequently reduced to six to fourteen years, following the filing of a petition for reconsideration of sentence.
+The facts incident to this appeal are as follows:
+On August 19, 1976, Eyell Copeland, the victim, and appellant went shopping. They returned to their Chester, Pennsylvania home, owned by appellant’s sister, later that afternoon. At approximately 9:30 p. m. appellant decided to drive to North Carolina in his sister’s car. Copeland told appellant that he could not do this since he did not have his sister’s permission to so use the car. To prevent appellant from taking the car, Copeland removed the starter coil. This prompted appellant to run inside the house and grab a butcher knife. Moments later he returned and stabbed Copeland in the chest. Shortly thereafter, Copeland was taken to a hospital by Chester police officers. An emergency operation proved unsuccessful and Copeland was pronounced dead. The police officers returned to the scene of the stabbing and found appellant with the knife in his hand. He was immediately taken into custody. After having been read his rights, appellant gave a statement to police in which he admitted the stabbing. This statement was the subject of a suppression hearing wherein it was ruled admissible.
+On appeal, appellant questions the sufficiency of the evidence, and the use, by the Commonwealth, of appellant’s alleged written statement for impeachment purposes. In his “Statement of Questions”, a third issue is presented involving a possible Pa.R.Crim.P.: Rule 1100 violation, however, this issue is not briefed, and therefore, we will not consider it.
+It is axiomatic that the test for sufficiency of the evidence is “whether, accepting as true all the evidence, together with all reasonable inferences therefrom upon which the jury could properly have based its verdict, such evidence and inferences are sufficient in law to prove guilty beyond a reasonable doubt.” Commonwealth v. Carbonetta, 455 Pa. 93, 95, 314 A.2d 304, 305 (1974). Furthermore, the evidence must be viewed in the light most favorable to the verdict winner, the Commonwealth herein. Commonwealth v. Rife, 454 Pa. 506, 312 A.2d 406 (1973).
+Appellant initially alleges that the evidence is insufficient because the Commonwealth failed to prove an essential element of the crime, specifically, causation. Appellant argues that because the question presented to the Medical Examiner at trial was couched in the language “can you give an opinion with reasonable medical certainty as to cause of death”, this made the response by the Doctor that “The cause of death was a stab wound of the thorax, or chest” not sufficient evidence to prove cause of death beyond a reasonable doubt. This argument is entirely specious. It was incumbent upon the Commonwealth to prove that the victim’s death was caused by a criminal agency. The medical examiner’s statement that a stab wound was the legal cause of death, coupled with the testimony of other witnesses that appellant, in fact, caused the stab wound, was clearly sufficient evidence from which the jury could determine causation beyond a reasonable doubt. Appellant cites Commonwealth v. Embry, 441 Pa. 183, 272 A.2d 178 (1971), and Commonwealth v. Radford, 428 Pa. 279, 236 A.2d 802 (1968) as authority for his position; however, these cases are not on point as they represent situations where the medical examiners in each case testified that the defendant’s conduct probably caused the victim’s death but they could not say beyond a reasonable doubt since there were other health factors present.
+Appellant further alleges that the evidence is insufficient in that his own testimony of self defense was enough to rebut the Commonwealth’s case, and therefore, the jury verdict was against the weight of the evidence. However, it is within the province of the trier of fact to pass upon the credibility of witnesses and the weight to be accorded the evidence produced. Commonwealth v. Alston, 461 Pa. 664, 337 A.2d 597 (1975). Upon our own examination of the record, we do not find the evidence of self defense so overwhelming as to disturb the jury’s finding on this issue.
+Appellant next argues that the trial court erred in permitting the jury to consider testimony concerning his written statement when this statement was never offered into evidence by the Commonwealth. However, upon examination of the trial record, no objection was made by defense counsel to the use of this statement by the district attorney during cross examination. Therefore, the specific objection now presented involving admissibility is waived. Furthermore, inadmissible evidence, admitted without objection, may be deemed admissible if this evidence is relevant and material to a fact in issue. See Commonwealth v. Ehley, 457 P. 225, 319 A.2d 167 (1974), and Commonwealth v. Moore, 228 Pa.Super. 49, 323 A.2d 25 (1974).
+Based on the foregoing, judgment of sentence is affirmed.
+. In Commonwealth v. Embry, the decedent, who had a long history of heart disease, died of a heart attack following a robbery; and in Commonwealth v. Radford, the victim, after being severely beaten, died some weeks later in the hospital of mesenteric vein thrombosis.
