@@ -1,0 +1,35 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 263 and 264"
+decided: "1949-01-14"
+citations: ["163 Pa. Super. 602"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hist, Reno, Ditheich, Ross, Aenold and Fine, JJ."]
+parties: ["York & Foster, Inc., Tax Assessment Case."]
+source_url: "https://static.case.law/pa-super/163/cases/0602-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 464287
+cites_cases: ["153 Pa. Superior Ct. 358", "157 Pa. Superior Ct. 262", "33 A. 2d 773", "357 Pa. 138", "43 A. 2d 557", "53 A. 2d 425"]
+---
+
+# York & Foster, Inc., Tax Assessment Case
+
+## Majority (Ditheich, J.,)
+
+Opinion by
+Ditheich, J.,
+By agreement of counsel and order of court these two appeals from county assessments of appellant’s property in Union City in Erie County, Pennsylvania, for the purpose of taxation have been consolidated. They were tried together, on the same evidence before the same court and but a single record was made in the court below. The first appeal is from the assessment for 1947 and the second from the assessment for 1948. The learned judge of the court below dismissed the first appeal and reduced the assessment on the second.
+The appeal from the assessment for 1947 is based on the admitted fact that appellant vas not served vith statutory notice of an increase in the assessment of its property from $40,000, fixed by this Court in 1945 on an appeal from the assessment for the year 1942 (York & Foster, Inc., Tax Assessment Case, 157 Pa. Superior Ct. 262, 43 A. 2d 557), to $61,045. The resulting increased tax having been paid in 1947 vithout protest, the learned court belov correctly held that notice of the increase vas thereby vaived.
+Section 701 of The Fourth to Eighth Class County Assessment Lav of May 21, 1943, P. L. 571, 72 PS § 5453.701,, provides that any' increase in assessment shall be made not later than September 1, and that notice thereof shall “thereupon” be mailed or delivered to the property ovner and that said notice shall state that any person so aggrieved by such change of assessment may appeal to the board, by filing vith the board on or béfore October 1, a statement in vriting of such intention to appeal. Section 704 provides that an appeal may be taken from the board to the Court of Common Pleas vithin sixty days after final action by the board. Section 704 further provides that the appellant may pay the amount of the increased tax under protest in vriting.
+In this case the tax vas paid July 31, 1947, without protest and the present appeal vas not filed until May 21,1948, almost ten months after notice of the increase, alleging “no notice of the increase vas given petitioner after the action of the Board of Revision; that as a result, the increase vas not discovered until preparation for the 1947 appeal.” Assuming that notice in vriting as required by the Act vas not given, appellant had actual notice of tlie increase when it paid the entire tax based on such increase.
+On November 24, 1947, the board increased the assessment- to $78,370 for the taxable year 1948. On appeal this assessment was reduced by the court to $61,045, the same as the assessment for the year 1947. Appellant contends that the increase was entirely invalid for the reason that it was not made prior to September 1, and that no notice of the increase was received until after October 1.
+In Baldwin Appeal, 153 Pa. Superior Ct. 358, 33 A. 2d 773, where the question was whether a provision in The General County Assessment Law of May 22, 1933, P. L. 853, 72 PS § 5020, fixing the time for the completion and return of assessments in certain counties was mandatory, we held in a comprehensive opinion by Rhodes, J., now P. J., at pages 361, 364:
+“Whether a particular statute is directory or mandatory does not depend upon its form, but upon the intention of the legislature, which is to be ascertained from a consideration of the entire act, its nature, its object, and the consequences that would result from construing it one way or the other. . . .
+“We are not unmindful that statutes regulating the assessment or levy of taxes must be given a mandatory construction, if their purpose is to protect the taxpayer; but if the statute is simply intended to establish a uniform system of procedure and to promote dispatch, and if non-compliance does not injure the taxpayer, the statute is to be construed as directory.”
+The County Assessment Law in question, which superseded the Act of 1933, supra, insofar as it applied to counties of the fourth to eighth class, inclusive, clearly manifests an intention by the legislature to establish á uniform system of procedure, and appellant has-utterly failed to show that it was injured in any way by reason of the revision in its assessment for the taxable year 1948 having been made later than the date set forth in the Act.
+Since the tax based on an assessed valuation of $61,045 for the year 1947 was paid without protest and no appeal taken until after notice of a further increase for 1948, long after the time provided for appeals had passed, we would perhaps be justified in holding that appellant had admitted its property was correctly valued for that year, and since the court has reduced the assessment to the same figure for the year 1948, the appeal could be dismissed on that ground alone. But there is ample evidence to sustain the increase aside from any admission on the part of the owner.
+At first blush an increase in assessment from $40,000 in 1946 to $61,045 in 1947 would appear to be unjust and unreasonable, but when the property was purchased in October, 1939, for $25,000 it had been on the market for a number of years and that was the best price the former owner, a wealthy man, was able to get for it. Since then the property has been improved, the physical condition of the entire plant has been bettered, and it is now a modern chair manufacturing plant comprising eleven buildings with a floor area of 157,303 square feet. It is the largest of four chair factories in Union City. Chair manufacturing is its chief industry. While appellant’s assessment was increased for the'year 1948, the assessments of the other chair factories were permitted to remain as they were for the year 1947. However, the learned president judge of the court below has adequately taken care of that situation by finding “no justification for increasing appellant’s property and leaving unchanged all comparable assessments in the same district,” and by reducing it to the 1947 figure. At that figure it is fair, just, and equitable. For the year 1947 the assessments of the other factories were raised on a basis comparable to that of appellant’s.
+The court in rejecting evidence, of the value of property not similar to that of appellant’s was following the most recent decision of the Supreme Court on comparable values. Carnegie et al., Trustees, v. Pittsburgh Board of Property Assessment, Appeals and Review, 357 Pa. 138, 53 A. 2d 425.
+Appeals dismissed.
