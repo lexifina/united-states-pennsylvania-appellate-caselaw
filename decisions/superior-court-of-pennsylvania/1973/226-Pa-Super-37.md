@@ -1,0 +1,35 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 1766"
+decided: "1973-11-16"
+citations: ["226 Pa. Super. 37"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. J., Watkins, Jacobs, Hoffman, Cercone, and Spaeth, JJ. (Spaulding, J., absent).", "Weight, P. J., and Watkins, J., would affirm on the opinion of the court below."]
+parties: ["Commonwealth v. Rankin, Appellant."]
+source_url: "https://static.case.law/pa-super/226/cases/0037-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 807791
+cites_cases: ["135 Pa. 221", "151 A. 2d 441", "158 A. 2d 716", "191 A. 2d 844", "201 Pa. Superior Ct. 360", "350 Pa. 375", "39 A. 2d 372", "396 Pa. 222", "60 N.J. Super. 211"]
+---
+
+# Commonwealth v. Rankin
+
+## Majority (Hoffman, J.,)
+
+Opinion by
+Hoffman, J.,
+Appellant was tried before the Honorable Robert Haberstroh and a jury on charges of fornication and bastardy. After the jury returned guilty verdicts, he was sentenced to pay the costs of prosecution, lying-in expenses, and support for a child in the amount of twelve dollars weekly. Appellant contends that the trial court erred in limiting the purposes for which the jury could consider certain evidence introduced by the appellant.
+The prosecutrix testified that she and appellant engaged in sexual intercourse on November 26, 1969. Prior to that date, her last menstrual period was in October. She testified that pregnancy was diagnosed in December and that between her last menstrual period and the diagnosis of pregnancy, she had neither dated nor engaged in sexual intercourse with any other male.
+Appellant presented an alibi for the night of November 26. He also attempted to disprove paternity through two witnesses whose testimony is the subject of this appeal.
+The first witness testified that she was in an automobile with several friends on a secluded road on October 31, 1969. As they approached a parked car identified as belonging to the prosecutrix, she recognized the prosecutrix and saw her and a male rise from a prone position in the back seat of the car. She was unable to get a complete view of the two individuals, but stated that they were undressed at least from the waist up, and attempted to cover the side window of the car with their clothing.
+A second witness testified that in November of 1969, she went to a remote cabin with her boyfriend. The prosecutrix was there with another male. When the witness arrived, the prosecutrix and the other man went into the unlit bedroom of the cabin where they remained for over an hour.
+When the Commonwealth objected to this testimony, defense counsel stated that it was being introduced for two purposes: to impeach the prosecutrix’s testimony that she did not date other men during the period of conception; and, to create an inference that she engaged in sexual intercourse with men other than appellant during that time. The trial judge allowed the testimony for the first purpose only, and specifically charged the jury that it could consider the evidence only for weighing the prosecutrix’s credibility, and could not infer from the testimony that the prosecutrix and the men involved had engaged in sexual intercourse.
+In a fornication and bastardy prosecution, “[a] defendant cannot be convicted of bastardy if the child’s mother had intercourse with more than one man during the period within which the child could have been conceived.” Commonwealth v. Harbaugh, 201 Pa. Superior Ct. 360, 363, 191 A. 2d 844 (1963). Although the trial judge was of the opinion that proof of sexual relations between the prosecutrix and other males could be established by circumstantial evidence, and would thus present a jury question on the issue of paternity, the court held, that such circumstantial evidence must meet the same standards required of the Commonwealth in proving guilt. In rejecting the evidence for the purpose of disproving paternity, the trial judge stated: “it did not necessarily prove beyond a moral certainty that a consummated act of intercourse had taken place between the prosecutrix and any person other than the [appellant] . . . nor was the testimony . . . such as to be incompatible with a complete innocence from or lack of a completed act of intercourse between the prosecutrix and some other male.” (emphasis added). We believe that the court erred in imposing this standard.
+In a bastardy prosecution, the Commonwealth must prove an act of intercourse between the prosecutrix and the defendant, and the conception of a child as a result of that act. As in all criminal cases, the Commonwealth has the burden of proving these elements of the offense beyond a reasonable doubt. This burden continues throughout the trial and never shifts to the defendant to prove his innocence beyond a reasonable doubt or to a “moral certainty.” Commonwealth v. Bonomo, 396 Pa. 222, 151 A. 2d 441 (1959).
+As paternity is an essential element of the offense, evidence tending to prove that the prosecutrix and a man other than the defendant engaged in sexual intercourse at or about the time of conception is relevant to the issue of paternity and should be admitted. I. v. D., 60 N.J. Super. 211, 158 A. 2d 716 (1960); 10 C.J.S., Bastards §85 (b); 10 Am. Jur. 2d, Bastards, §116. As direct evidence of sexual intercourse is, by its very nature, difficult to obtain, evidence of a prosecutrix’s intimate association with other men which strongly suggests her having engaged in sexual intercourse with them should be admitted on the issue of paternity. 1 Wigmore, Evidence (3d ed. 1940), §133.
+In Commonwealth v. Mosier, 135 Pa. 221 (1890) it was held that a carnal connection in an adultery prosecution could be inferred from the fact that a man and woman were observed undressed while occupying the same bedroom. If such circumstantial evidence is sufficient to sustain the Commonwealth’s burden of proving intercourse beyond a reasonable doubt in an adultery prosecution, a jury should be permitted in a bastardy prosecution to infer from the same type of evidence that a prosecutrix did engage in sexual intercourse with other males. By limiting the purpose for which the evidence could be introduced, the trial judge deprived the jury of the prerogative of inferring that the prosecutrix had engaged in sexual intercourse with other men so as to create a reasonable doubt on the issue of the paternity of the child.
+The judgment on the separate offense of fornication is unaffected by the error and is affirmed. The judgment of sentence on the bastardy charge is reversed and a new trial granted.
+Weight, P. J., and Watkins, J., would affirm on the opinion of the court below.
+As the terms “beyond a reasonable doubt” and “a moral certainty” are synonymous, Commonwealth v. Holt, 350 Pa. 375, 387, 39 A. 2d 372 (1944), it is apparent that the trial judge would require appellant to prove that the prosecutrix engaged in intercourse with other men beyond a reasonable doubt.
