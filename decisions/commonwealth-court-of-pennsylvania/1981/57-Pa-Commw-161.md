@@ -1,0 +1,40 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 855 C.D. 1980"
+decided: "1981-02-27"
+citations: ["57 Pa. Commw. 161"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Wilkinson, Jr., Blatt and Williams, Jr., sitting as a panel of three."]
+parties: ["Tillman Gill and Virginia Gill, Petitioners v. Commonwealth of Pennsylvania, Workmen’s Compensation Appeal Board and Terry Norton, Respondents."]
+source_url: "https://static.case.law/pa-commw/57/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1917464
+cites_cases: ["106 A.2d 457", "16 A.2d 43", "176 Pa. Superior Ct. 17", "29 Pa. Commonwealth Ct. 613", "300 A.2d 304", "339 Pa. 549", "372 A.2d 63", "7 Pa. Commonwealth Ct. 323"]
+---
+
+# Gill v. Commonwealth
+
+## Majority (Judge Wilkinson, Jr.,)
+
+Opinion by
+Judge Wilkinson, Jr.,
+This is an appeal by Tillman and Virginia Gill (petitioners) from an order of the Workmen’s Compensation Appeal Board (Board) which affirmed a referee’s award of compensation to Terry Norton (claimant).
+Petitioners, during the period of time in question here, ran a laundromat in Philadelphia. Prior to December of 1976 they were in the process of purchasing the building next door to the laundromat in order to eventually move the laundromat into that facility. Petitioners engaged claimant and several other boys to do such cleaning. Claimant worked on a full-time basis; eight hours per day, five days per week. Claimant was seventeen years old at the time and was ‘‘ skipping” school to do this work. He was engaged at an hourly rate but actually was paid $100.00 in cash at the end of each week. It is not clear in the record, but claimant had been working at least one month prior to his accident. On December 13, 1976 while performing his duties inside the building, claimant was asked to remove a large box of broken glass. While picking up this box, claimant slipped in a puddle of water causing his face to come in contact with the glass. The result was that the glass cut his right eye and claimant lost his sight in that eye.
+Claimant filed a specific loss claim petition for permanent loss of sight in his right eye. After a hearing on March 7, 1979 where claimant and petitioner Tillman Gill testified, the referee found in favor of the claimant on August 1, 1979. On March 20, 1980, without taking new evidence, the Board filed an opinion affirming the referee’s award and dismissing petitioners’ appeal. We also affirm.
+The sole issue in this case is whether claimant is excluded from the purview of The Pennsylvania Workmen’s Compensation Act (Act), Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §1 et seq., by operation of Section 104 of the Act, 77 P.S. §22 which excludes from the Act’s coverage “persons whose employment is casual in character and not in the regular course of the business of the employer. ’ ’ Since it is now undisputed that claimant’s employment was not in the regular course of petitioners’ business, the only question for us is whether his employment was casual in character.
+Petitioners argue that: (1) the referee’s findings of fact were not supported by substantial evidence and (2) it was an error of law to conclude that claimant was not a casual employee. Claimant had the burden of proving an employee-employer relationship existed at the time of the injury. Barr v. B & B Camper Sales, 7 Pa. Commonwealth Ct. 323, 300 A.2d 304 (1973).
+Petitioners attack the referee’s findings of fact as unsupported by the evidence. Our examination of the record reveals conflicting competent evidence as to several of the findings. Since it is for the referee to weigh the evidence, resolve conflicts in testimony, and determine the credibility of witnesses in these hearings, Workmen’s Compensation Appeal Board v. Phillips, 29 Pa. Commonwealth Ct. 613, 372 A.2d 63 (1977), the referee’s findings in those areas of conflict will stand. We do agree with petitioners that one finding of fact does not appear to be supported by any record evidence. However, we conclude that the legal conclusion reached as to the non-casual nature of the employment can be sustained without this finding. The Board did not rely on that particular fact in deciding to affirm the referee’s decision. Therefore, because only necessary findings of fact are within our scope of review and because this finding of fact was not necessary to support the referee’s adjudication, we reject petitioners’ first argument. See Section 704 of the Administrative Agency Law, 2 Pa. C. S. §704.
+Petitioners secondly argue that the Board erred in concluding as a matter of law that claimant was not performing casual employment. Based on the principles laid out in Cochrane v. William Penn Hotel, 339 Pa. 549, 16 A.2d 43 (1940) claimant’s employment cannot be characterized as casual. Cochrane stated that:
+As to what constitutes an employment casual in character, it is obvious that the term ‘casual’ is not capable of scientific definition. Involved in it are the ideas of fortuitous happening and irregularity of occurrence; it denotes what is occasional, incidental, temporary, haphazard, unplanned. Applying it as practically as possible to the subject of employment, it may be said in general that if a person is employed only occasionally, at comparatively long and irregular intervals, for limited and temporary purposes, the hiring in each instance being a matter of special engagement, such employment is casual in character. . . . Even if there be but a single or special job involved, this does not conclusively stamp the employment as casual. If the work is not of an emergency or incidental nature but represents a planned project, and the tenure of the service necessary to complete it and for which the employment is to continue is of fairly long duration, the employment is not casual. . . .
+Id. at 552, 16 A.2d at 44-45.
+Here petitioners had a planned project of buying a building, fixing it up, and moving their laundromat business into it. Claimant’s special job consisted of clearing out and cleaning up the inside of this building. The cleaning part of the project lasted a fairly long time — at least a month and a half. There were no emergency, haphazard or unplanned actions involved here.
+Accordingly, we enter the following
+Order
+And Now, February 27, 1981, the order of the Workmen’s Compensation Appeal Board, docketed to No. A-77689, dated March 20, 1980 is affirmed. It is ordered that judgment be entered in favor of claimant Terry Norton and against employers Tillman and Virginia Gill. The employers are directed to pay the claimant $93.50 per week for the ten week healing period beginning December 13,1976 and thereafter $93.50 per week for specific loss benefits for a period of two hundred seventy-five weeks, together with legal interest on deferred payments.
+Employers are also held legally liable for the payment of the Wills Eye Hospital bill for services rendered to claimant in the amount of $2,284.30 and shall pay that bill in the event that the Bins Cross Plan, which paid said bill, charges back said payment to the hospital, and the Wills Eye Hospital makes a claim against the claimant for payment of said bill.
+William K. Adams, Esq., attorney for the claimant, is hereby granted counsel fees in the amount of 20% of the entire award, payable solely out of claimant’s share.
+The claimant is entitled to compensation unless the employment is proved to be doth casual and not in the regular course of petitioners’ business. Barnett v. Bowser, 176 Pa. Superior Ct. 17, 106 A.2d 457 (1954).
+The finding read as follows:
+5. Claimant also established by competent evidence that at the time of his engagement by the Defendants, he was assured by Defendant, Tillman Gill, that he would work full time until the rebuilding of 2611 W. York Street was completed and that then the claimant would continue his employment in helping to run the laundromat at the York Street location.
