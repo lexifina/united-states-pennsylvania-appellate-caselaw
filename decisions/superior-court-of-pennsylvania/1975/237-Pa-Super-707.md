@@ -1,0 +1,20 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 1430"
+decided: "1975-12-22"
+citations: ["237 Pa. Super. 707"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Brominski, J."]
+parties: ["Commonwealth v. Erhart, Appellant."]
+source_url: "https://static.case.law/pa-super/237/cases/0707-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6772994
+---
+
+# Commonwealth v. Erhart
+
+## Majority
+
+Judgment of sentence affirmed.
