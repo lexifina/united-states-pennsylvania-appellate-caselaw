@@ -1,0 +1,43 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "2263 C.D. 1993"
+decided: "1994-06-23"
+citations: ["165 Pa. Commw. 331", "645 A.2d 359"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before PELLEGRINI and FRIEDMAN, JJ., LORD, Senior Judge."]
+parties: ["TOWNSHIP OF SPRINGFIELD OF PENNSYLVANIA, v. S. Penn THOMAS and Mary Ann MacDonald, Appellants."]
+source_url: "https://static.case.law/pa-commw/165/cases/0331-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1463102
+cites_cases: ["11 Pa. 537", "170 Pa. 380", "32 A 1044", "356 Pa. 500", "467 A.2d 1229", "52 A.2d 581", "78 Pa.Commonwealth Ct. 562", "87 Pa. 85"]
+---
+
+# Township of Springfield v. Thomas
+
+## Majority (FRIEDMAN, Judge.)
+
+FRIEDMAN, Judge.
+S. Penn Thomas (Owner) appeals from an order of the Court of Common Pleas of Montgomery County which entered judgment on a writ of scire facias in favor of the Township of Springfield (Township) on a municipal sewer lien. We reverse.
+S. Penn Thomas and Mary Ann MacDonald, husband and wife, own residential property in Springfield Township on which they failed to pay their 1990 sewer assessment. The Owner objects to the addition of legal fees and litigation fees and costs to the amount of the lien.
+The Township had contracted with a law firm, Portnoff Law Associates, to collect delinquent bills on a flat fee basis: $125.00 for the initial collection attempts, including verifying ownership information, setting up a file, preparation and mailing of a demand letter, and bookkeeping for any payments received; $125.00 for preparation and filing a lien and notifying the property owner that the lien has been filed; and $125.00 for the filing of the writ of scire facias. Because the Owner did not respond to initial contacts by paying the amount due, the collection fee rose to the full $375.00 in addition to the original amount due and the penalties, court costs, etc. After Owner filed an affidavit of defense to the writ of scire facias, the attorney began billing on an hourly basis. These fees and expenses related to litigation amounted to an additional $2,158.94.
+The sole issue in this case is whether the lien on Owner’s property includes the amount of the attorney’s fees charged for collection services (the flat fees) and litigation of this matter (the hourly fees). The trial court ruled that section 3 of the Act of May 16, 1923, P.L. 207, as amended, 53 P.S. § 7106 (Municipal Claims Act or Act), was designed to permit the municipality to recover its collection costs involved in compelling payment of overdue municipal bills, and that the flat fees for the attorney’s collection efforts as well as hourly fees for litigation may be recovered pursuant to the Municipal Claims Act. We disagree and reverse.
+Both parties agree that attorney’s fees may become part of the lien only if specifically authorized by statute or if there is an agreement between the parties or some other established exception which permits such imposition of attorney’s fees. Each party argues that section 3 of the Municipal Claims Act, 53 P.S. § 7106, supports its position that attorney’s fees either are (Township) or are not (Owner) authorized by the Act. Section 3 provides in pertinent part:
+(a) All municipal claims which may hereafter be lawfully imposed or assessed on any property in this Commonwealth ... shall be and they are hereby declared to be a lien on said property, together with all charges, expenses, and fees added thereto for failure to pay promptly; ----
+53 P.S. § 7106.
+We have carefully reviewed the cases cited and the arguments propounded by the parties and the trial court and have found no cases there or in our own research specifically on point. We begin our analysis with a statement from a 1895 case, decided only 28 years before section 3’s enactment. In Commonwealth ex rel. Friedman v. Meyer, 170 Pa. 380, 32 A 1044 (1895), our Supreme Court stated:
+Over and over again, we have decided there can be no recovery for counsel fees from the adverse party to a cause, in the absence of express statutory allowance of the same. ... The act does not say that in addition he shall have counsel fees, therefore the courts cannot say so. The words, costs and fees, are used by the legislature often in the same sense; costs are taxable for sheriff and other officers under the legislative title of “Fee Bill.” Nothing is awarded counsel under such taxation, except the small attorney docket fee of three dollars. Wherever it was intended counsel fees should be allowed, the statute expressly says so____ Alexander v. Herr, 11 Pa. 537, and Winton’s Appeal, 87 Pa. 85, fully discuss this question, and we need add nothing further.
+Id. at 384, 32 A. at 1045.
+We have found nothing to indicate that the rule has changed since the Supreme Court wrote those words in 1895. In fact, where the legislature intends counsel fees to be available, it has specifically so provided, as it did in section 20 of the Municipal Claims Act. That section provides, in pertinent part:
+If plaintiff recovers a verdict, upon trial, in excess of amount admitted by the defendant in his affidavit of defense or pleadings, he shall be entitled to attorney’s fee for collection, equal to 5 per centum of such excess, but not exceeding $50.00.
+53 P.S. § 7187.
+Reading sections 3 and 20 of the Act together indicates that the legislature distinguished between an “attorney’s fee for collection” referred to in section 20 and the “charges, expenses, and fees for failure to pay promptly” referred to in section 3. Section 20 is consistent with the legislature’s practice of specifically providing for imposition of attorney’s fees when it intends that they be collectable.
+Although we acknowledge and sympathize with the plight of municipalities which are attempting to collect small delinquent accounts, and we recognize that payment of the costs of collection by the municipality ultimately penalizes the taxpayers who timely pay their bill, we cannot usurp the province of the legislature which is the proper place to resolve the public interest aspects of this problem.
+Accordingly, we reverse.
+ORDER
+AND NOW, this 23rd day of June, 1994, the order of the Court of Common Pleas of Montgomery County, dated August 24, 1993, is reversed.
+. Scire facias is a “judicial writ, founded upon some matter of record, such as a judgment or recognizance and requiring the person against whom it is brought to show cause why the party bringing it should not have advantage of such record.” The Latin term is used to designate both the writ and the whole proceeding. Black’s Law Dictionary 1208 (5th ed. 1979).
+. The original amount due of $91.81 was increased by penalties of $9.18, court costs of $19.00, sheriffs costs of $40.00 and, in addition, legal fees of $375.00 for collection and litigation expenses of $2,158.94.
+. The trial court dismissed the limitation of this section as unreasonable. However, the legislature has not amended this section since 1923 when $50.00 was worth considerably more than it is today. Although 5% of a small amount would not cover the collection fees, the maximum permitted appears to have been a reasonable amount by 1920's standards. In fact, if the statute were written today to permit an attorney’s fee comparable to a $50.00 attorney’s fee in 1923, the statutory allowance would be approximately $420.00. (Calculation based upon: The Value of a Dollar 1860-1989 2 (Scott Derks ed., 1994), and inflation rates for 1990-1993 as compiled by Carnegie Library of Pittsburgh from telephone tapes, Bureau of Labor Statistics, U.S. Department of Commerce, Consumer Price Index, 1990-1993.)
+. For instance, in another municipal collection case, Coudriet v. Township of Benzinger, 78 Pa.Commonwealth Ct. 562, 467 A.2d 1229 (1983), we permitted collection of a 5% penalty as “attorneys commissions” pursuant to section 1137 of the Second Class Township Code, Act of May 1, 1933, P.L. 103, as amended, 53 P.S. § 66137. See also Homestead Borough v. Defense Plant Corp., 356 Pa. 500, 52 A.2d 581 (1947) (5% attorneys commission permitted pursuant to the General Borough Act of May 4, 1927, P.L. 519, as amended, 53 P.S. § 13398).
