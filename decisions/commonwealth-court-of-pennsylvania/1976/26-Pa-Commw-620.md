@@ -1,0 +1,33 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 376 C.D. 1976"
+decided: "1976-10-21"
+citations: ["26 Pa. Commw. 620"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Mencer and Blatt, sitting as a panel of three."]
+parties: ["In Re: Appeal of Workmen’s Compensation Rate Classification of Longwood Villa Nursing and Convalescent Home. Commonwealth of Pennsylvania Insurance Department. Longwood Villa Nursing and Convalescent Home, Appellant."]
+source_url: "https://static.case.law/pa-commw/26/cases/0620-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1876274
+cites_cases: ["191 A.2d 835", "199 A.2d 266", "22 Pa. Commonwealth Ct. 119", "25 Pa. Commonwealth Ct. 3", "272 A.2d 478", "329 A.2d 250", "347 A.2d 770", "357 Pa. 329", "358 A.2d 745", "411 Pa. 263", "414 Pa. 95", "441 Pa. 293", "458 Pa. 479", "54 A.2d 277"]
+---
+
+# In re Appeal of Workmen's Compensation Rate Classification of Longwood Villa Nursing & Convalescent Home
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+Longwood Villa Nursing and Convalescent Home (Longwood) has appealed' from the Insurance Commissioner’s order dismissing its appeal from a workmen’s compensation rate reclassification by the Pennsylvania Compensation Eating Bureau (Bureau).
+In a letter dated March 6, 1975, the Bureau informed Longwood of its decision to change Long-wood’s classification from Code 961 (hospitals) to Code 974 (orphanages and homes for the aged). A result of this reclassification is that Longwood’s premium for workmen’s compensation insurance increased approximately threefold. The Insurance Commissioner dismissed Longwood’s appeal for want of jurisdiction to .entertain it because of our holding in Commonwealth of Pennsylvania, Insurance Department v. Colonial Gardens Nursing Home, 22 Pa. Commonwealth Ct. 119, 347 A.2d 770 (1975). In Colonial we held that the Insurance Commissioner has no jurisdiction to review the Bureau’s assignment of an individual employer to any particular risk classification.
+Longwood does not challenge the applicability of that ruling to this ease but urges us to reconsider our decision made in Colonial. Although we have had the benefit of an excellent brief and thorough argument by counsel for Longwood and have carefully reviewed our reasoning expressed in Colonial, we are not persuaded to alter the holding made therein.
+Our reexamination of Section 654 of The Insurance Company Law of 1921, Act of May 17, 1921, P.L. 682, as amended, 40 P.S. §814, leads us again to conclude that it was intended only to regulate, the formulation of a system of classifications and premium rates which reflects the different casualty experiences of different types of employers. As we concluded in Colonial, there is no requirement that the Commissioner approve the assignment of an individual employer to any particular risk classification nor that the Commissioner review such an assignment, once it is made.
+Longwood raises here the additional issue that the Bureau is a nongovernmental group consisting of representatives of various insurance companies and that its functions and operations violate the Constitution of the Commonwealth of Pennsylvania and the Constitution of the United States of America. It is asserted that support for this contention is to be found in Hetherington v. McHale, 458 Pa. 479, 329 A.2d 250 (1974), and Olin Mathieson Chemical Corp. v. White Cross Stores, Inc., 414 Pa. 95, 199 A.2d 266 (1964). We find Longwood’s -reliance on these decisions to be misfounded. In Hetherington, the committee, comprised in part of nongovernmental appointees, was responsible for the disbursement of public funds. In the instant case, the nongovernmental group has no such power but is only to formulate a system of risk classifications and corresponding premium rates which shall not take effect without the consent or approval of the Insurance Commissioner. In Olin Mathieson, the sole issue was the nondelegability to private persons of the price regulatory power of the General Assembly, and we view that case to be inapposite here. A classification vesting in private persons the power to participate in administrative actions need not be constitutionally defective where the administrative function, as here, has been properly delegated. See State Board of Chiropractic Examiners v. Life Fellowship of Pennsylvania, 441 Pa. 293, 272 A.2d 478 (1971).
+We remain mindful that an act of the General Assembly will not be declared unconstitutional unless it clearly, palpably and plainly violates the Constitution. Daly v. Hemphill, 411 Pa. 263, 191 A.2d 835 (1963). Although the legislature cannot delegate the power to make a law, it may impose upon others the duty to carry out the declared legislative policy in accordance with the provisions of the act. Belovsky v. Redevelopment Authority of Philadelphia, 357 Pa. 329, 54 A.2d 277 (1947).
+Concerning Longwood’s constitutional due process challenges to Section 654 of The Insurance Company Law of 1921, our recent decision in Commonwealth of Pennsylvania, Insurance Department v. Pennsylvania Coal Mining Association, 25 Pa. Commonwealth Ct. 3, 358 A.2d 745 (1976), is dispositive. We held there that one’s right to intervene in the original rate proceedings, coupled with a right to obtain a review of any rate before the Insurance Commissioner in the first instance and, if still aggrieved, a further review in this Court, protected at all stages of the administrative process a person’s constitutional due process right to be heard. Likewise, the right to judicial review of administrative action as prescribed by Article V, Section 9 of our Constitution is fully protected by the, review provisions of Section 654 referred to herein.
+Therefore, since we determine that the Insurance Commissioner has no jurisdiction to review the Bureau’s assignment of an individual employer to a particular risk classification and that no constitutional rights applicable to Longwood have been denied here, we must dismiss the appeal.
+Order
+And Now, this 21st day of October, 1976, the order of the Insurance Commissioner under date of February 4,1976, pertaining to Longwood Villa Nursing and Convalescent Home, is hereby affirmed.
+It must be kept in mind that risk classification assignments are authorized differently than premium rate schedules which must be submitted by the Bureau to the Insurance Commissioner for approval. Longwood does not here challenge the applicable rate structure but only its risk reclassification from Code 961 to Code 974.
