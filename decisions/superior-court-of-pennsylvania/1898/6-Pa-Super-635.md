@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 151"
+decided: "1898-02-19"
+citations: ["6 Pa. Super. 635"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Wickham, Beaver, Reeder, Orlady, Smith and Porter, JJ."]
+parties: ["Joseph Louchheim v. James and Charles A. Maguire, Appellants."]
+source_url: "https://static.case.law/pa-super/6/cases/0635-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 281997
+cites_cases: ["126 Pa. 390", "154 Pa. 591", "161 Pa. 241", "172 Pa. 252", "4 Pa. Superior Ct. 415", "4 W. & S. 445", "7 Kulp, 260"]
+---
+
+# Louchheim v. Maguire
+
+## Majority (Beaver, J.,)
+
+Opinion by
+Beaver, J.,
+“ To entitle a plaintiff to judgment for want of an affidavit of defense or for want of a sufficient affidavit of defense, the statement of his demand, under the act of May 25, 1887, must be self-sustaining, that is to say, it must set forth in clear and concise terms a good cause of action, by which is meant such averments of fact as, if not controverted, would entitle him to a verdict for the amount of his claim: ” Bank v. Ellis, 161 Pa. 241.
+The averments in the plaintiff’s statement that “ The said J. H. Louehheim & Co. then and there indorsed and delivered the said promissory note to the plaintiff, by means whereof the defendants then and there became liable to pay to the plaintiff the sum of money in the said promissory note specified ” and the averment by the plaintiff “ that he is the present holder of said note, and that neither the whole nor any part thereof has been paid ” do not distinctly set up an indorsement and delivery before maturity for a valuable consideration and without notice. The statement did not necessarily require an affidavit of defense but the defendant, having chosen to answer it by an affidavit of defense, waived the incompleteness of the statement, and must rest upon his affidavit: Newbold v. Pennock, 154 Pa. 591; Bank v. Furman, 4 Pa. Superior Ct. 415. The defendants distinctly aver in their affidavit that they are informed, believe and expect to be able to prove that the plaintiff is not a bona fide holder of said promissory note for value before maturity, but that he has taken the same since maturity for the purpose of collection, and in the interest of the said J. H. Louchheim & Co., and for the purpose of avoiding the defense which defendants have thereto. This averment fully meets the requirements of Newbold v. Pennock, supra, and puts the plaintiff upon proof of bona fide holding.
+We have, therefore, but a single question remaining, namely, is the affidavit of defense good as between the makers and payees in the note upon which the suit is founded ? The note is alleged in the affidavit of defense to have been given in part payment for work done under a contract in writing between the makers and payees for “ all material, labor and tools required for the laying and putting down of the cement pavements, yards and alley-ways, curbs and coping, in the erection of one hundred and fifty-six houses now in the course of erection on Poplar and Wyalusing streets, between 38th and 39th streets, in the 24th ward, city of Philadelphia,” and the laying of “ the vitrified brick on the two streets above mentioned, to wit, on Poplar and Wyalusing streets, between 38th and 39th streets, according to the specifications contained in exhibit ‘A,’ and under the supervision and inspection of the highway bureau of the city of Philadelphia.” The said agreement contains the following clause: “ And the party of the second part hereby guarantees all work done and all materials furnished by the said party of the second part, under and by virtue of this agreement, for a period of five years from the completion of said work, against all defects, whether in work, labor or materials, and said party of the second part agrees, on notice in writing from said party of the first part or a duly authorized agent of the same, to repair said work and keep it in good order and condition for said period of five years, reasonable wear and tear excepted.”
+The affidavit of defense avers that the work was not done in accordance with the agreement. It specifies the places where, and the character of the defects alleged. It sets forth that “ The defect in said coping and curbing is shown by the curb being broken and split, the top coat of the same having cracked, so as to leave the concrete bare. This is caused by the foundations not being properly put in by the said J. H. Louchheim & Co. and an insufficient quantity of cement being used in making the concrete. The cinders making the foundations were not properly rammed, and the concrete was not made with sufficient cemenf to form a solid mass necessary to make a good pavement; by means of said defects the pavements rise in certain places, making it dangerous for pedestrians to pass over them.” There is also an averment that defendants were notified of these defects and requested to repair them at once, to which notice they paid no attention.
+The allegation is further made that “ by reason of the failure of the said J. H. Louchhein & Co. to complete said work, in accordance with the contract and agreement, defendants have been compelled to pay out and will be in the future compelled to pay out a large sum of money to repair the same, and place it in proper order and condition, a much larger sum of money than that for which this suit is brought.”
+These allegations are fundamental. They go to the foundation of the right of the contractors to recover, as fully to all intents and purposes as in Lane v. Penn Glass Sand Co., 172 Pa. 252. We think they fairly raised a question for the consideration of a jury; and that the affidavit should have been held sufficient.
+Judgment reversed and a procedendo awarded.
