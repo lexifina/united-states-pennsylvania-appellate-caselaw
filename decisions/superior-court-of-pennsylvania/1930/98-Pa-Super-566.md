@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 102"
+decided: "1930-04-18"
+citations: ["98 Pa. Super. 566"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Linn, Gawthrop, Cunningham, Baldrige and Grape, JJ."]
+parties: ["Com. of Pa. v. Free, Appellant."]
+source_url: "https://static.case.law/pa-super/98/cases/0566-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 687935
+cites_cases: ["95 Pa. Superior Ct. 568"]
+---
+
+# Com. v. Free
+
+## Majority (Trexler, P. J.,)
+
+Opinion by
+Trexler, P. J.,
+The defendant was convicted of fornication and bastardy.
+The first assignment is to the overruling of the objection of the defendant to the admission of the following question and answer, “How long did you attend school, Miss Miller?” “I went to the eighth grade in the Dewey School.” We think the objection is trivial. It is true that the education of the prosecutor in no way proved or disproved the guilt or innocence of the defendant. However, the progress she made in her studies would be some aid to the jury in weighing her testimony. Anyone knows that an educated man or woman is ordinarily bound to a stricter accuracy in expression than one who has but a limited knowledge of language or has had but a meager education. The appellee has called our attention to one of our own cases, Com. v. Severa, 95 Pa. Superior Ct. 568, in which Brother Keleee comments upon the fact that the girl who testified was of low mentality, uneducated and had little schooling and it was evident that she was easily confused under the cross-examination of defendant’s counsel. There are questions asked in the preliminary examination of a witness as to age and business and other personal matters which have no direct bearing upon the question trying, but which serve the same purpose as the evidence afforded by his appearance and manner. Even if this question were open to objection, the matter would not be material and we would not reverse solely upon it.
+The other objection of the defendant is to the refusal of the court to grant a new trial for the reason alleged; namely, that the statement of the prosecutrix was uncorroborated and that she had made admissions which she afterwards changed and therefore was not worthy of belief. We are all of the opinion that the matters involved in this exception were for the jury. The girl testified that the occurrence which was the origin of her misfortune occurred on the night of May 20, 1928. When she fixed that date, she said that she counted back nine months from the date' of the birth of the child. This date fell on Sunday and was evidently but an approximate date, because the method she employed was by no means accurate. She then testified that she had never- been with the defendant on a Saturday or Sunday. Before the justice, she insisted the date was April 8th, but this was explained by her statement, upon cross-examination, that there were two occasions on which the defendant had connection with her. There is no doubt about it that she was mixed up as to the dates and her testimony was not entirely consistent. She was also not reliable as to the place where the intercourse occurred, but she explained why she had formerly stated that it did not occur at the firehouse, because her father had asked her not to involve the fire company in it. These contradictions were adverted to by the judge in a very fair charge.
+The question of the credibility of the witness was for the jury. They had the opportunity of observing the demeanor of the witness on the stand and to reconcile, if they saw fit, the inconsistencies of her testimony. She persisted in the charge that defendant was the father of her child. She testified that she never had any intercourse with anyone else and that defendant had intercourse with her in an automobile. Moreover, the jury may have been impressed more by his lack of positive denial, than by the inconsistencies in her testimony. The question, “have you ever picked her up at night time, at any time?” He answered, “Not to my knowledge. No.” Question, “Well you would know it, of course, if you did? Answer, “Well, I don’t think there was. No.” These qualified answers would no doubt make a bad impression upon the jury. He admitted that he had taken her out in his automobile, but that he had not “picked her up over six times.” He was uncertain as to this. In answer to the attempt of the Commonwealth’s attorney to fix him to the precise answer, “Well, I don’t know, she might have been in there once or twice, or she may not have been in there at all.” No exception was taken to the charge, nor was the offer of the court to the attorneys at the conclusion of the charge to present any suggestions accepted by either side. There was sufficient evidence in the case, if believed, to convict the defendant. He asserted his innocence, but the jury had the right to come to the contrary conclusion.
+The judgment is affirmed, and the record remitted to the court below and it is ordered that the defendant appear in the court below at such time as he may be there called and that he be by that court committed until he has complied with the sentence or any part of it which had not been performed at the time the appeal in this case was made a supersedeas.
