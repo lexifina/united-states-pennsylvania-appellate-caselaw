@@ -1,0 +1,36 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 107"
+decided: "1956-12-28"
+citations: ["183 Pa. Super. 87"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P.J., Gunther, Wright, Woodside, Ervin, and Carr, JJ. (Hirt, J., absent)."]
+parties: ["Sfakianakis v. Sfakianakis, Appellant."]
+source_url: "https://static.case.law/pa-super/183/cases/0087-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 735310
+cites_cases: ["114 A. 2d 86", "115 A. 2d 801", "161 Pa. Superior Ct. 482", "162 Pa. Superior Ct. 266", "178 Pa. Superior Ct. 629", "179 Pa. Superior Ct. 452", "55 A. 2d 434", "57 A. 2d 577"]
+---
+
+# Sfakianakis v. Sfakianakis
+
+## Majority (Care, J.,)
+
+Opinion by
+Care, J.,
+A complaint in divorce was filed by the husband on July 16, 1954 in which he charged that his wife had deserted him on July 3, 1952. The master recommended that the divorce be granted and the wife filed exceptions to the master’s report. She appeals from the order of the court below dismissing the exceptions and entering a final decree.
+Following the death of his first wife in 1951, the appellee, about sixty-six years of age, wrote to his nephew in Greece asking his nephew to find him a suitable wife. The nephew complied and a brief correspondence between the appellant and appellee resulted in her coming to Nassau, the Bahamas, on February 12, 1952 for the purpose of marrying him. He met her in Nassau and, having waited the prescribed number of days, they were married on February 25, 1952. On the same day he left Nassau to return to his home and his job as a painter-foreman in Chester County, Pennsylvania, leaving his wife in Nassau because of the immigration problems. She came to his home near Pottstown in Chester County on April 28, 1952. There is some doubt about her exact age although she stated that she was born September 24,1911 on the Island of Crete.
+It appears from the testimony that this marriage was doomed to fail from the very beginning. He complained of her slovenly housekeeping and of her unwillingness to learn the proper use of American plumbing and housekeeping appliances. She clogged the drain with coffee grounds and washed the clothes in the kitchen sink. Her cooking didn’t please him and she failed to have his lunch ready when he came home at noon. Numerous petty annoyances of this nature caused frequent quarrels and on at least one occasion in the heat of an argument he told her he would buy her ticket and give her $200.00 if she wanted to go hack to Greece. One of his witnesses testified that the appellant was dissatisfied because she had expected to have servants and to entertain but instead was expected to be a housekeeper. A neighbor stated that some time in June the appellant said she wasn’t going to take down the draperies and clean them because she wasn’t going to stay.
+Appellant’s departure shortly before noon on Sunday, June 29, 1952 followed a quarrel precipitated by the fact that the drain in the kitchen was clogged with coffee grounds and appellee found it necessary to call a plumber. She left the house screaming and crying. A member of the local police force was called and he found her in the yard crying and very excited. The officer took her to the home of a Greek family nearby and the following day returned with her to the house where she picked up her clothing while the appellee was at work.
+According to appellant’s testimony, she was crying and upset when she left the home on June 29, 1952 because her husband told her to get out and she didn’t know where to go.
+Appellant remained in Pottstown, staying with families of Greek descent, for about one year and then moved to New York where she is employed in a candy factory.
+Sometime between June 29 and July 4, 1952 the appellant had her husband arrested for desertion and non-support. He testified that at the hearing before the justice of the peace he asked her to return but that she refused. One of the witnesses also stated that he heard the appellee offer to take her back.
+To warrant the granting of a decree in divorce on the grounds of desertion the plaintiff must establish by clear and satisfactory evidence that the defendant willfully and maliciously abandoned the common habitation without just cause for a period of two years. The departure of the defendant without sufficient legal cause and without the consent of the plaintiff is presumed to be wilful and malicious. Ogram v. Ogram, 162 Pa. Superior Ct. 266, 57 A. 2d 577. The evidence necessary to justify a defendant’s desertion must be sufficient to support a decree on the grounds of cruel and barbarous treatment or indignities to the person. Smith v. Smith, 161 Pa. Superior Ct. 482, 55 A. 2d 434.
+The appellant contends that the appellee consented to her departure and that she had just cause for leaving.
+When a question of fact is raised, the credibility of the witnesses becomes an important issue. While it is our duty to examine the evidence de novo and we are not concluded by the master’s findings, his judgment upon the question of credibility is entitled to the fullest consideration. A careful examination of the record leads us to the conclusion that the master properly found that the appellee and his witnesses were worthy of belief and that the appellant was not.
+The husband denies that he consented to her leaving, although he admits that during the heat of one of their numerous arguments he offered to pay her way back to Greece. He also stated that after she left he asked her to return and that she refused. One of his witnesses said that he had heard the offer of reconciliation which was refused. This testimony certainly does not warrant a finding that the appellee consented to her leaving.
+We are not satisfied that her departure was legally justified. She herself testfied that he never struck her or abused her physically, and in our opinion the conduct of which she complains did not constitute a plain manifestation of settled hate and estrangement making her condition intolerable and life burdensome. Irritating acts of nagging, petty quarrels and lack of affection do not constitute indignities.
+The appellant also contends that there is a fatal variance between the allegations of the complaint and the evidence. The complaint alleges that the desertion occurred on July 3, 1952. The evidence discloses that the wife left the home on June 29, 1952 and that sometime between that date and July 4, 1952 the appellee asked his wife to come back but that she refused to do so. This Court has often said that the purpose of the rule on variance is to insure that the defendant is not taken by surprise at the trial by being called on to defend against matters of which he had no notice in the pleadings, or against a different cause of action. Substantial conformity between pleading and proof is all that is required. Cantwell v. Cantwell, 179 Pa. Superior Ct. 452, 115 A. 2d 801; Stewart v. Scharff, 178 Pa. Superior Ct. 629, 114 A. 2d 86. Certainly the appellant cannot contend that she was taken by surprise and required to defend against matters of which she had no notice.
+Decree affirmed.
