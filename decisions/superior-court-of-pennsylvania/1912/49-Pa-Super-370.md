@@ -1,0 +1,20 @@
+---
+court: "Superior Court of Pennsylvania"
+decided: "1912-03-01"
+citations: ["49 Pa. Super. 370"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth v. Sweeney, Appellant."]
+source_url: "https://static.case.law/pa-super/49/cases/0370-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 425680
+---
+
+# Commonwealth v. Sweeney
+
+## Majority (Oklady, J.,)
+
+Opinion by
+Oklady, J.,
+For the reasons given in the opinion filed in Com. v. Thomas J. Duffy, ante, p. 346, the judgment in this case . is reversed and a new trial awarded.
