@@ -1,0 +1,35 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "00358 HBG 82"
+decided: "1984-09-07"
+citations: ["332 Pa. Super. 406", "481 A.2d 679"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WICKERSHAM, OLSZEWSKI and HOFFMAN, JJ."]
+parties: ["Clair BORTNER, Administrator, v. CNA INSURANCE CO. a/k/a Valley Forge Insurance Co., Appellant."]
+source_url: "https://static.case.law/pa-super/332/cases/0406-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 614809
+cites_cases: ["320 Pa. Superior Ct. 322", "327 Pa. Superior Ct. 28", "437 A.2d 472", "500 Pa. 167", "503 Pa. 536", "503 Pa. 540", "532 F.Supp. 766", "62 Pa. Commonwealth Ct. 522"]
+---
+
+# Bortner v. CNA Insurance
+
+## Majority (HOFFMAN, Judge:)
+
+HOFFMAN, Judge:
+Appellant challenges the lower court’s order finding that (1) appellee’s action for post-mortem work loss benefits was timely filed and (2) “stacking” of No-fault insurance benefits is permitted. We agree with appellant that stacking is prohibited in the No-fault context; however, based upon the record before us, we are unable to determine the timeliness of appellee’s action. Accordingly, we reverse in part and remand in part.
+On May 21, 1977, appellee’s decedent died as a result of injuries sustained in an automobile accident on that same date. Appellee, decedent’s father and administrator of decedent’s estate, filed suit against appellant, CNA Insurance Co., on May 16, 1978, seeking to recover survivor’s benefits under the No-fault Motor Vehicle Insurance Act (No-fault Act). The lower court found in favor of appellant. Thereafter, on February 10, 1981, appellee filed the instant suit, seeking post-mortem work loss benefits on behalf of decedent’s estate. In its preliminary objections, appellant claimed that appellee’s action was barred by the No-fault statute of limitations, 40 P.S. § 1009.106(c). On October 14, 1981, the lower court ruled that the action was timely. Appellee then filed a motion for summary judgment alleging his right to “stack” the coverage of his four vehicles insured by the policy at issue. The lower court granted appellee’s motion, prompting this appeal.
+Appellant first contends that appellee’s action was barred by the No-fault statute of limitations. 40 P.S. § 1009.106(c)(1) establishes the appropriate time limitation for actions seeking benefits intended to compensate either the insured or his estate. See Sachritz v. Pennsylvania National Mutual Casualty Insurance Co., 500 Pa. 167, 455 A.2d 101 (1982). Section 106(c)(1) provides, in pertinent part:
+If no-fault benefits have not been paid for loss arising otherwise than from death, an action therefor may be commenced not later than two years after the victim suffers the loss and either knowing or in the exercise of reasonable diligence should have known, that the loss was caused by the accident, or not later than four years after the accident, whichever is earlier.
+Therefore, in order to determine when the time limitation has run, we must consider when the “loss” has been sustained. In discussing post-mortem work loss benefits in Kamperis v. Nationwide Insurance Co., 503 Pa. 536, 469 A.2d 1382 (1983), our Supreme Court stated:
+The plain meaning of the [No-fault] Act is clear: work loss is economic detriment resulting from inability to work and earn a living, e.g., loss of a paycheck____ We hold the statute of limitations contemplates commencement of the period for bringing the action on the date the victim would next have expected to receive compensation for work he would have performed had the motor vehicle accident not occurred.
+Id., 503 Pa. 540, 469 A.2d at 1384. Noting that a victim sustains economic detriment each time he or she suffers a “loss”, the Court concluded that:
+[W]here as here no-fault benefits have not been paid for loss arising otherwise than from death, and the work loss was known to have been caused by the accident, an action to recover work loss benefits under the Act may be commenced (a) within two years from any time the victim suffers work loss as a result of the accident ... (b) within two years after the victim’s accrued work loss equals the amount recoverable under the Act for work loss, ... and (c) not later than four years after the accident.
+Id. See States v. Insurance Co. of North America, 327 Pa. Superior Ct. 28, 474 A.2d 1156 (1984) (en banc). In Kamperis, the Court remanded for the trial court’s determination of when decedent would have received his next paycheck or would have sustained the maximum $15,000 work loss. Similarly, in the instant case, the record is devoid of any basis upon which to determine when decedent would have sustained the maximum work loss. Such a determination is necessary because appellee filed the instant action a few months before the maximum four-year period had run. If decedent’s work loss had accrued up to the maximum $15,000 more than two years prior to the February 10, 1981 filing date, the current action would be considered untimely. Accordingly, we must remand for a determination consistent with the Kamperis dictates. Cf. States v. Insurance Company of North America, supra, 327 Pa.Superior Ct. at 33, 474 A.2d at 1158-59 (record sufficient to determine time of accural of maximum recoverable loss).
+The resolution of appellant’s second contention, that the lower court erred in allowing appellee to “stack” No-fault benefits, is directly controlled by Antanovich v. Allstate Insurance Co., 320 Pa. Superior Ct. 322, 467 A.2d 345 (1983). In Antanovich, our Court clearly held that “basic loss benefits may not be stacked.” Id., 320 Pa.Superior Ct. at 324, 467 A.2d at 346. Accordingly, we must reverse the lower court’s order allowing appellee to “stack” No-fault benefits.
+Reversed in part and remanded in part for a determination consistent with this opinion.
+Jurisdiction relinquished.
+. Appellee contends that, because appellant failed to raise the statute of limitations defense in "new matter”, the issue is not preserved for our review. In the context of this case, we disagree. Appellant raised the defense in both its Preliminary Objections and in the instant appeal. The lower court addressed the issue in October, 1981; hence, appellee cannot claim surprise. In addition, we draw an analogy to Swartz v. Masloff, 62 Pa. Commonwealth Ct. 522, 437 A.2d 472 (1981), wherein the Commonwealth Court determined that where the plaintiffs failed to file preliminary objections challenging the defendants’ preliminary objection raising an immunity defense, the plaintiffs had waived their right to contest the manner in which the defendant raised its defense.
+. In response to his argument that, because "stacking” is permitted in the uninsured motorist context it should be permitted in the No-fault context, we direct appellee to Antanovich v. Allstate Insurance Co., 320 Pa. Superior Ct. 322, 339, 467 A.2d 345, 354-55 (1983), quoting Kirsch v. Nationwide Insurance Co., 532 F.Supp. 766, 768 (W.D.Pa.1982).
