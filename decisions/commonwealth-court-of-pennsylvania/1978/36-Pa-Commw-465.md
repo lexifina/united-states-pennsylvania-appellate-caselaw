@@ -1,0 +1,34 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1040 C.D. 1977"
+decided: "1978-07-10"
+citations: ["36 Pa. Commw. 465"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Wilkinson, Jr., Mencer and Rogers, sitting as a panel of three."]
+parties: ["Joseph R. Stortz, Claimant v. No. 1 Contracting Corporation and Commonwealth of Pennsylvania and Commonwealth of Pennsylvania, Workmen’s Compensation Appeal Board. Commonwealth of Pennsylvania, Petitioner."]
+source_url: "https://static.case.law/pa-commw/36/cases/0465-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1888463
+cites_cases: ["19 Pa. Commonwealth Ct. 502", "22 Pa. Commonwealth Ct. 543", "23 Pa. Commonwealth Ct. 177", "305 A.2d 757", "339 A.2d 183", "350 A.2d 212", "351 A.2d 326", "464 Pa. 276", "9 Pa. Commonwealth Ct. 176"]
+---
+
+# Stortz v. No. 1 Contracting Corp.
+
+## Majority (Judge Wilkinson, Jr.,)
+
+Opinion by
+Judge Wilkinson, Jr.,
+The Department of Labor and Industry, Commonwealth of Pennsylvania (Department) appeals a final order by the Workmen’s Compensation Appeal Board (Board) which redetermined the apportionment of payments and the date of disability in a referee’s award of compensation for occnpational disease under The Pennsylvania Workmen’s Compensation Act (Act).. Because the findings are inadequate for purposes of appellate review, we must remand this case for further findings.
+On June 4, 1974 the claimant filed a petition for compensation under the Act alleging total disability due to anthraeo-silicosis. After hearings, the referee awarded compensation finding (1) the claimant had become permanently and totally disabled due to anthraco-silieosis on June 4,1974 and (2) that the claimant had given notice of this disability to his employer by means of the petition filed on June 4, 1974. The referee’s order apportioned liability at 25 per cent against the Commonwealth and 75 per cent against the employer. On appeal by the employer, the Board in its opinion found a “mistake when dictating or typing the award” had been made both in determining the date of disability and in apportioning liability. The Board then issued an amended order reversing the apportionment as against the employer and Commonwealth and directing payments to be made from the date of disability it set, i.e., November 6, 1973, the date established by the claimant’s physician.
+None of the parties to this appeal challenge the Board’s order with respect to the change in the apportionment of liability. There is dispute, however, as to the corollary determination of the date of disability and the effect of this redetermination upon the time limitations to perfect a claim under Section 311 of the Act, 77 P.S. §631.
+The Department first argues that by redetermining the date of disability the Board made a new finding of fact in contravention of the rule in Universal Cyclops Steel Corp. v. Krawczynski, 9 Pa. Commonwealth Ct. 176, 305 A.2d 757 (1973).
+Under the rule in Universal Cyclops, supra, the Board may not alter the findings of fact made by workmen’s compensation referees absent an error of law, new evidence or a finding that the referee’s factual determinations were not based upon competent evidence. Although not explicitly stated by the Board, it seems clear to this Court that the Board’s determination that the June 4, 1974 disability date was a clerical error essentially amounted to a finding that the referee’s finding of the date of disability was not supported by competent evidence. The record amply supports the Board on this issue since no other date of disability was advanced by any of the parties other than the November 6, 1973 date testified to by the claimant’s treating physician. Moreover, this was also the date that the claimant actually stopped working. On the other hand, the record is devoid of any evidence which would even arguably tend to establish that the date of disability coincided with the filing of the claim petition. Had there been conflicting evidence regarding the date of disability, the Board’s amended order would have constituted a new finding of fact and would have exceeded the Board’s scope of review. Universal Cyclops, supra. However, the Board does not exceed its scope of review under this rule where, as here, it acts to correct a clerical error and makes a finding based upon undisputed facts in the record. See Workmen’s Compensation Appeal Board v. American Mutual Liability Insurance Co., 19 Pa. Commonwealth Ct. 502, 339 A.2d 183 (1975).
+Assuming the Board’s determination of the disability date was proper, the Department and the employer then both contend that compensation should have been denied because when the substituted November 6, 1973 date of disability is juxtaposed with the referee’s finding that notice was given to the employer on June 4, 1974 these findings establish that the claimant failed to give notice to his employer within 120 days as required by Section 311 of the Act, 77 P.S. §631. Such an assertion, however, presupposes that the November 6, 1973 date was also the date the claimant knew or should have known of his disability and the date from which the 120-day limitation properly begins to run. See Workmen’s Compensation Appeal Board v. Paris Neckwear Co., 22 Pa. Commonwealth Ct. 543, 350 A.2d 212 (1976). This Court is without the authority to make assumptions or presuppositions of matters of fact which are essential to make conclusions of law in a workmen’s compensation case. Page’s Department Store v. Velardi, 464 Pa. 276, 346 A.2d 556 (1975). Since a finding of fact as to the date claimant knew or should have known of his disability is essential to a determination of the applicability of Section 311 of the Act, the findings are presently inadequate for the purpose of appellate review and this case must be remanded to the fact-finder so that appropriate findings may be supplied. Workmen’s Compensation Appeal Board v. Gutman, 23 Pa. Commonwealth Ct. 177, 351 A.2d 326 (1976).
+Accordingly, we will enter the following
+Order
+And Now, July 10, 1978, the order of the Workmen’s Compensation Appeal Board at No. A-72202, dated April 21, 1977, is hereby vacated and the record remanded to the Board for farther proceedings consistent with this opinion.
+Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §1 et seq.
+This apportionment was made pursuant to Section 305.1 of the Act, 77 P.S. §411.1.
+Similarly, because tbe question of timely notice to the employer became an arguable issue only after tbe Board had redetermined the date of disability, we find this question was properly raised by the Department in Paragraph 5(c) of its Petition for Review to this Court.
