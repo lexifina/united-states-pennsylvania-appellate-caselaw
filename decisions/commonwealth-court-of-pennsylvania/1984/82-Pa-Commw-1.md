@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "3167 C.D. 1981"
+decided: "1984-04-23"
+citations: ["82 Pa. Commw. 1"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail, Doyle and Blatt, sitting as a panel of three."]
+parties: ["Foremost Insurance Company, Petitioner v. Insurance Department of the Commonwealth of Pennsylvania and the Pennsylvania Automobile Insurance Plan, Respondents."]
+source_url: "https://static.case.law/pa-commw/82/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1321412
+cites_cases: ["24 Pa. Commonwealth Ct. 270", "355 A.2d 597", "412 A.2d 669", "492 Pa. 68", "499 Pa. 39", "50 Pa. Commonwealth Ct. 194"]
+---
+
+# Foremost Insurance v. Insurance Department
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+Foremost Insurance Company (Petitioner) brings this action in our original jurisdiction, see Section 761(a)(1) of the Judicial Code, 42 Pa. C. S. §761 (a)(1), seeking our interpretation of Section 105 of the Pennsylvania No-Fault Motor Vehicle Act (No-Fault Act). Specifically, Petitioner alleges that the Pennsylvania Automobile Insurance Plan (Plan) established pursuant to Section 105 has improperly included mobile homes and snowmobile premiums collected by Petitioner within the total premium upon which Petitioner’s allocation of risks under the Plan is based.
+This matter is presently before us for a decision on the Preliminary Objections of the Insurance Department of Pennsylvania (Respondent) in the nature of a demurrer or, in the alternative, raising a question of jurisdiction. Respondent alleges, inter alia, that this Court does not have jurisdiction in the instant case because of Petitioner’s failure to exhaust its administrative remedies. We will sustain Respondent’s Preliminary Objections on this basis; therefore, we will not address the other issues raised.
+Petitioner participates in the Plan, which is administered by the Insurance Commissioner (Commissioner) pursuant to Section 105 of the No-Fault Act. The Plan distributes to participating insurers, policy applications from individuals who have been unable to purchase insurance from the voluntary market. Section 105 requires apportionment of these risks in an equitable manner. Petitioner insures both snowmobiles and mobile homes, and premiums received from these policies are included in the annual report to the Plan. Consequently, Petitioner’s share of assigned risks has been partly based upon premiums from mobile home and snowmobile policies.
+Petitioner states that on August 28, 1981, it formally requested that the Governing Committee of the Plan determine that inclusion of snowmobile and mobile home premiums was contrary to law, amend the rules of the Plan to exclude those premiums, credit Petitioner for past assignments based on those premiums and cease any future assignments based upon snowmobile and mobile home premiums. Petitioner further asserts that the Governing Committee' of the Plan ruled on October 20,1981, that “voluntary written premium of vehicle types which are not as-' signable under the Plan should not be included in a development of assignment quotes.” Nevertheless, Petitioner alleges that it continued to receive assigned risks based upon snowmobile and mobile home premiums. Petitioner has not appealed to the Commissioner, but asks this Court to enforce the October 20, 1981 decision of the Governing Committee of the Plan.
+Petitioner bases its assertion, that its petition to our original jurisdiction is proper, upon the holding in Rockwood Insurance Co. v. Pennsylvania Automobile Insurance Plan, 50 Pa. Commonwealth Ct. 194, 412 A.2d 669 (1980). This reliance is misplaced. The narrow issue in Rochwood was whether the Pennsylvania Insurance Department was an indispensible party to the action. Deciding that the Department was an indispensible party, we stated that pursuant to Section 761(a)(1) of the Judicial Code this Court had exclusive jurisdiction over the suit. This was, however, merely a reiteration of the rule found in Section 761(a)(1) regarding proceedings against the Commonwealth. There is nothing in Rochwood to indicate that the issue of exhaustion of administrative remedies was before the Court.
+Respondent cites Section 7541(c)(2) of the Declaratory Judgments Act, 42 Pa. C. S. §7541(c)(2), as barring the present action, because the proceeding is “within the exclusive jurisdiction of a tribunal other than a court.” We agree. We are persuaded that it is not appropriate for this Court to enter into consideration of the merits of Petitioner’s request for a declaratory judgment at this time. See also Shenango Valley Osteopathic Hospital v. Department of Health, 499 Pa. 39, 451 A.2d 434 (1982).
+The Plan is subject to the supervision of the Commissioner. See Section 105 of the No-Fault Act. Approval by the Commissioner is required under both the No-Fault Act and Section 15 of the Act of June II, 1947, P.L. 538, as amended, 40 P.S. §1195 (Rate Act). Section 17(a) of the Rate Act, 40 P.S. §1197 (a), states in pertinent part that:
+Any insurer, . . . aggrieved by any action of the Commissioner, except disapproval of a filing or a part thereof as provided for in section five hereof, or by any rule or regulation adopted and promulgated by the Commissioner shall have the right to file a complaint with the Commissioner and to have a hearing thereon before the Commissioner.
+This Court has previously held that in a complaint regarding a filing of a rate, Section 17(a) is applicable only before the rate becomes effective. Pennsylvania Insurance Department v. Adrid, 24 Pa. Commonwealth Ct. 270, 355 A.2d 597 (1976). The present complaint does not involve the filing of a rate; therefore, Section 17(a) is applicable even though the Plan is already in effect. In addition, the Insurance Department argues that there is an administrative process for a hearing on this matter. See Canonsburg General Hospital v. Department of Health, 492 Pa. 68, 422 A.2d 141 (1980). A party challenging administrative decision making is precluded from obtaining judicial review without first exhausting administrative remedies. Id.
+The Preliminary Objection of Respondent is sustained on the basis of Petitioner’s failure to exhaust its administrative remedies.
+Order
+The Preliminary Objection of the Insurance Department of the Commonwealth of Pennsylvania is hereby sustained on the failure of Foremost Insurance Company to exhaust its administrative remedies. The Petition for Review is dismissed.
+Act of July 19, 1974, P.L. 489, 40 P.S. §1009.105, repealed by Section 8 of the Act of February 12, 1984, P.L. 26 (effective July 1, 1984). Similar provisions will be found in Sections 1741-1744 of the Vehicle Code, Act of June 17, 1975, P.L. 162, as amended, added by Section 3 of the Act of February 12, 1984, P.L. 26, 75 Pa. C. S. §§1741-1744 (effective July 1, 1984). We note that Petitioner seeks credit for past risk assignments as well as a determination of future obligations. For .this reason, and because the Vehicle Code will provide for an assigned risk plan subsequent to July 1, 1984, the issues suT) judiee do not become moot.
+We will continue to refer to Section 105 of the No-Fault Act to facilitate our discussion.
+Petitioner states that an. April, 1983, amendment to the Plan deleted the snowmobile premium.
