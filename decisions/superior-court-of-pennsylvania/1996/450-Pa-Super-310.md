@@ -1,0 +1,66 @@
+---
+court: "Superior Court of Pennsylvania"
+decided: "1996-04-22"
+citations: ["450 Pa. Super. 310", "675 A.2d 1282"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CAVANAUGH, JOHNSON and CERCONE, JJ.", "JOHNSON, J. files a concurring statement."]
+parties: ["COMMONWEALTH of Pennsylvania, v. Kenneth McGINNIS, Appellant."]
+source_url: "https://static.case.law/pa-super/450/cases/0310-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 736352
+cites_cases: ["249 Pa.Super. 185", "339 Pa.Super. 373", "345 Pa.Super. 350", "390 Pa.Super. 558", "399 Pa.Super. 250", "435 Pa.Super. 304", "444 Pa.Super. 601", "497 Pa. 643", "519 Pa. 88", "522 Pa. 379", "525 Pa. 643", "540 Pa. 630", "542 Pa. 568", "581 A.2d 570", "645 A.2d 872", "658 A.2d 794", "664 A.2d 597", "669 A.2d 315"]
+---
+
+# Commonwealth v. McGinnis
+
+## Majority (CERCONE, Judge:)
+
+CERCONE, Judge:
+This is an appeal from the judgment of sentence for robbery, recklessly endangering another person, simple assault, theft, burglary, and related charges. We affirm.
+In December, 1992, the Commonwealth filed a petition alleging appellant, a juvenile (age 17), had committed various criminal offenses and requesting certification of those offenses to adult criminal court. On January 6, 1993, the District Attorney’s office withdrew the petition to transfer. Subsequently, the Westmoreland County Juvenile Probation office filed a transfer petition. After a hearing, the lower court, on January 25, 1993, ordered that the charges, with one exception, be transferred to the criminal division of the lower court.
+In the criminal division, a jury trial was held on November 9, 1993 (appellant was convicted of robbery, retail theft, recklessly endangering another person, simple assault, carrying firearms without a license, criminal conspiracy, theft, and receiving stolen property — 2 counts). Appellant did not file post-verdict motions. A second trial was held January 10-14, 1994. Appellant was convicted of theft — 2 counts, receiving stolen property — two counts, burglary — 2 counts, and criminal conspiracy. Appellant was sentenced to a five to ten year term of incarceration on the robbery charge, concurrent sentences of eleven and one-half to twenty-three months for carrying firearms without a license, criminal conspiracy, receiving stolen property, and theft. On the burglary conviction, appellant was sentenced to one to two years, consecutive to the robbery sentence, a concurrent sentence of one to two years on a second burglary conviction, and a concurrent term of eleven and one-half to twenty-three years for criminal conspiracy. Appellant did not file an appeal of the judgment of sentence.
+In October, 1994, appellant filed a petition for post-conviction relief on the basis that he was denied his right of allocution at sentencing. The lower court granted the petition and conducted a re-sentencing hearing. At the re-sentencing hearing, the lower court re-instated the previous sentence. Appellant then filed the instant timely appeal in which he raises the following issues:
+1. Whether the juvenile court erred in allowing the Westmoreland Juvenile Probation Office to initiate proceedings to adult criminal court when the district attorney’s office withdrew their petition for certification?
+2. Whether the juvenile court erred in certifying appellant to be tried as an adult for the alleged offenses?
+Brief for Appellant at 3.
+We will first address the Commonwealth’s contention that the appeal should be dismissed. The Commonwealth has filed a motion to dismiss the appeal on the basis of appellant’s failure to file post-verdict motions after either trial, and his failure to file a direct appeal from the first judgment of sentence. We find no merit to this argument. The issue of certification of a juvenile to stand trial as an adult is jurisdictional and cannot be waived. Commonwealth v. Johnson, 542 Pa. 568, 669 A.2d 315 (1995); Commonwealth v. Sanders, 339 Pa.Super. 373, 489 A.2d 207 (1985).
+Appellant first contends that the juvenile court erred in allowing the Westmoreland County juvenile probation office to initiate transfer proceedings after the district attorney’s office withdrew their petition. He contends that such an action was inconsistent with the role of a probation officer under the Juvenile Act. 42 Pa.C.S.A. §§ 6301-6365. We find no merit to this contention.
+A petition for an adjudication of dependency or delinquency may be filed by “any person.” Id. § 6334. After a petition alleging delinquency based on criminal conduct has been filed, the court may then determine whether to transfer the matter to criminal court. Id. § 6355(a). A probation officer has certain designated roles under the Juvenile Act. Those roles include, inter alia, receiving and examining “complaints and charges of delinquency or dependency of a child for the purpose of considering the commencement of proceedings under this chapter.” Id. § 6304(a). Excluded from a probation officer’s duties are “[i]ncompatible roles, such as the power of arrest, conducting the accusatory proceeding in juvenile court, [and] representing the child in court.” Id. § 6304 (Official Comment).
+It is clear under sections 6344 and 6304 that a probation officer may initiate proceedings under the Juvenile Act relating to the delinquency of a particular child. The probation officer may not conduct the accusatory proceeding in juvenile court or represent the child in court; however, the initiation of proceedings by the filing of a petition does not fall within these categories of incompatible activities. Here, the record reveals that the probation officer did not conduct the proceedings or represent appellant in court. It also reveals that the juvenile probation office determined after evaluating appellant in light of the charges at issue in this case, that appellant was not amenable to treatment in the juvenile system. Therefore, the office made the decision to initiate certification proceedings. N.T. 1/13/93 at 21-27. We find no error in the juvenile court’s decision to allow the juvenile probation office to initiate the proceedings in this matter.
+Next, appellant contends that the juvenile court erred in certifying him to be tried as an adult. Before an appellate court will set aside a decision to transfer, the appellant must show a gross abuse of the broad discretion afforded the hearing judge. Commonwealth v. Bey, 249 Pa.Super. 185, 375 A.2d 1304 (1977). An abuse of discretion “is not merely an error of judgment, but the misapplication or overriding of the law or the exercise of a manifestly unreasonable judgment based upon partiality, prejudice or ill will.” Id. at 191, 375 A.2d at 1308. In order to comply with the Juvenile Act, a certification court must make a statement “sufficient to demonstrate that the question of certification has received the careful consideration of the juvenile court.” Commonwealth v. Sanders, 339 Pa.Super. 373, 383, 489 A.2d 207, 212 (1985). Such statement must set forth the basis for the certification order “with sufficient specificity to permit meaningful appellate review.” Id. (citations omitted).
+Where a petition has been filed alleging delinquency on the basis of criminal conduct, the case may be transferred to criminal court for prosecution “if all of the following exist:”
+(1) The child was 14 or more years of age at the time of the alleged conduct.
+(2) A hearing on whether the transfer should be made is held in conformity with this chapter.
+(3) Notice in writing of the time, place, and purpose of the hearing is given to the child and his parents, guardian, or other custodian at least three days before the hearing.
+(4) The court finds:
+(i) that there is a prima facie case that the child committed the delinquent act alleged;
+(ii) that the delinquent act would be considered a felony if committed by an adult; and
+(in) that there are reasonable grounds to believe all of the following:
+(A) That the child is not amenable to treatment, supervision or rehabilitation as a juvenile through available facilities, even though there may not have been a prior adjudication of delinquency. In determining this the court shall consider the following factors:
+Age.
+Mental capacity.
+Maturity.
+The degree of criminal sophistication exhibited by the child.
+Previous records, if any.
+The nature and extent of any prior delinquent history, including the success or failure of any previous attempts by the Juvenile Court to rehabilitate the child.
+Whether the child can be rehabilitated prior to the expiration of the Juvenile Court jurisdiction.
+Probation or institutional reports, if any.
+The nature and circumstances of the acts for which the transfer is sought.
+Any other relevant factors.
+(B) That the child is not committable to an institution for the mentally retarded or mentally ill.
+(C) That the interests of the community require that the child be placed under legal restraint or discipline or that the offense is one which would carry a sentence of more than three years if committed by an adult.
+42 Pa.C.S.A. § 6355(a). The burden falls on the Commonwealth to establish that the statutory prerequisites for transfer to adult criminal court have been met. Commonwealth v. Rush, 522 Pa. 379, 562 A.2d 285 (1989).
+A juvenile court will be deemed to have properly considered and weighed the relevant information supplied for its consideration. Commonwealth v. McDonald, 399 Pa.Super. 250, 262, 582 A.2d 328, 333 (1990), citing Commonwealth v. Devers, 519 Pa. 88, 546 A.2d 12 (1988). “[A]n appellate court may not require detailed or intricate explanations of the rationale for certification when a detailed juvenile file and arguments of counsel have been presented for consideration.” McDonald, 399 Pa.Super. at 262, 582 A.2d at 333-34. In such a case, the appellate courtjs focus of review is limited to whether the record as a whole reveals an abuse of discretion. Id. at 265, 582 A.2d at 335.
+Appellant cites various instances of alleged error on the part of the trial court in determining that certification was proper. Brief for Appellant, at 12-14. We have reviewed those allegations, as well as the record of the proceedings in the lower court. The record shows that the lower court considered all of the relevant factors under 42 Pa.C.S.A. § 6355(a). It also supports the findings made by the court in its January 25, 1993 certification order. We conclude, based on our review, that the lower court did not abuse its discretion in certifying appellant to be tried in the adult criminal division of the court.
+Judgment of sentence affirmed; motion to dismiss for failure to preserve issues denied.
+JOHNSON, J. files a concurring statement.
+. The sixteen separate counts of which appellant was convicted were the result of two separate criminal incidents. Two separate trials were held.
+. Subparagraph (v) of the robbery charge at juvenile complaint No. 92-010764-1285.
+
+## Concurrence (JOHNSON, Judge,)
+
+JOHNSON, Judge,
+concurring:
+While I agree that the judgment of sentence should be affirmed, I write separately to express my discomfort with the Majority’s assertion, without discussion, that “[t]he issue of certification of a juvenile to stand trial as an adult is jurisdictional and cannot be waived.” Majority op. at 314. This principle has been applied in various contexts in this Commonwealth. For example, courts have held that entry of a guilty plea in criminal court does not preclude the defendant from challenging the trial court’s refusal to transfer the matter to juvenile court on direct appeal. See Commonwealth v. Moyer, 497 Pa. 643, 444 A.2d 101 (1982); Commonwealth v. Austin, 444 Pa.Super. 601, 664 A.2d 597 (1995); Commonwealth v. Leatherbury, 390 Pa.Super. 558, 568 A.2d 1313, appeal denied, 525 Pa. 643, 581 A.2d 570 (1990); Commonwealth v. Zoller, 345 Pa.Super. 350, 498 A.2d 436 (1985). In addition, it has been determined that failure to raise the propriety of the certification or transfer proceedings in post-verdict motions does not result in waiver of the issue on direct appeal. Commonwealth v. Reed, 435 Pa.Super. 304, 645 A.2d 872 (1994) (en banc), appeal denied, 540 Pa. 630, 658 A.2d 794 (1995) ; Commonwealth v. Sanders, 339 Pa.Super. 373, 489 A.2d 207 (1985). However, the present case is factually distinguishable from the above cases. Here, the juvenile was tried and convicted in two separate proceedings. No post-trial motions were filed following either proceeding. Subsequently, the juvenile was sentenced, and no direct appeal was filed. The juvenile later filed a Post Conviction Relief Act petition, in which he raised only one issue; namely, that he had been denied his right of allocution at sentencing. His petition was granted, and he was resentenced. He has now filed a direct appeal, which challenges for the first time the certification procedures that took place prior to trial. My research has failed to disclose any case that has similar facts to those at bar. Accordingly, I am reluctant to conclude, without analysis and discussion, that the issue of certification has not been waived given the particular procedural posture of this appeal.
