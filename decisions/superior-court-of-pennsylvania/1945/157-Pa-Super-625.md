@@ -1,0 +1,35 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 180"
+decided: "1945-07-19"
+citations: ["157 Pa. Super. 625"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Baldrige^ P. J., Rhodes, Hiet, Reno, Dithricii, Ross and Arnold, JJ."]
+parties: ["Wright, Appellant, v. Sterling Land Company, Inc."]
+source_url: "https://static.case.law/pa-super/157/cases/0625-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1061436
+cites_cases: ["160 A. 595", "217 Pa. 252", "243 Pa. 206", "307 Pa. 31", "348 Pa. 245", "35 A. 2d 295", "63 Pa. 18", "66 A. 553", "89 A. 1131", "89 Pa. Superior Ct. 234"]
+---
+
+# Wright v. Sterling Land Co.
+
+## Majority (Ross, J.,)
+
+Opinion by
+Ross, J.,
+Louise Wright was a tenant of the defendant, Sterling Land Company under a lease agreement which provided for occupancy by the plaintiff of apartment space in the King Edward Apartments and storage space for the plaintiff’s automobile. The “Rules and Regulations”, stated to be part of the lease, provide inter alia, in paragraph 9 as follows: “The management will endeavor to protect the property of patrons, but will not be responsible for loss or damage to cars or their contents from any cause whatsoever. Owner’s cars are not covered by our insurance.” Paragraphs 10 and 11 provide that: “Cars will not be permitted to be taken from the garage except by owners or upon their written instructions” . . . and “Employees are not permitted to drive cars except in and about the garage for owner’s convenience only.”
+On the evening of September 22, 1942, the car was put in the garage by- the plaintiff, and delivered to defendant’s attendant. The following morning it was missing and has not since been found. Plaintiff brought suit in assumpsit against defendant for the value of the car and its contents.
+At the trial of the case, upon motion of counsel for the defendant, a compulsory non-suit was granted. Subsequently counsel for plaintiff filed a motion to take off the non-suit. The lower court en banc refused to take off the non-suit, and this appeal was taken.
+The question before this Court is whether, as respects the storage of plaintiff’s car, the relationship of landlord and tenant existed between plaintiff and defendant or whether the status of bailor and bailee was the real one.
+It is the opinion of this Court that the status of landlord and tenant existed between the parties. The plaintiff, in accordance with the terms of the lease, had the right to garage space and she paid rent for this space. Apparently no other consideration was paid by the plaintiff and the defendant owed no duty except under the lease agreement. Here is not a case of a public garage where the garage man is a bailee for hire, who may not protect himself by contract for a violation of the duties and responsibilities placed upon him by the bailment.
+A bailment may be defined as a delivery of personalty for some particular purpose, or on mere deposit, upon a contract, express or implied, that after the purpose has been fulfilled it shall be re-delivered to the person who delivered it, or otherwise dealt with according to his directions, or kept until he reclaims it, as the case may be. 8 C.J.S. 222.
+In the case of Trunick v. Smith, 63 Pa. 18-23, a bailment has been described as follows: “Blaekstone in his Commentaries, Volume 2, 451, defines a bailment to be a delivery of goods in trust upon a contract, expressed or implied, that the trust shall be faithfully executed on the part of the bailee. This definition is adopted by Mr. Story, Bailments S. 3, with the addition that it must be for some special object or purpose. Chancellor Kent in his Commentaries, Volume 2, section 40, gives the definition of Blaekstone with the addition: ‘and the goods restored by the bailee, as soon as the purpose of the bailment shall be answered.’ ” Bailment ordinarily implies the delivery of some article of personal nature for some purpose on contract that after the purpose has been fulfilled it shall be returned to the bailor. Without delivery over there can be no bailment; the contract is to return the thing delivered when the purpose has been served: McBride v. McNally, 243 Pa. 206, 89 A. 1131.
+In the case at bar we do not believe that a bailment was created. The attendant, for the convenience of the plaintiff, took the car and put it in the leased space. The provisions of the lease gave the plaintiff the right to park her car in the garage, and it would appear that the lease was the only agreement entered into for the parking of the car in the garage and the parking was done for her convenience.
+It is provided in the lease between plaintiff and defendant that: “The lessor shall not be liable for any injury or damage from any cause whatever to the Tenant, any member of the Tenant’s family, any guest or visitor of the Tenant or to any other person or to any property at any time within said rented apartment, or the halls, stairways of the apartment building generally, or walks or grounds adjacent thereto, or the garage thereof, it being contemplated by the parties hereto that not only the rented apartment but all portions of the apartment building and adjacent property thereto and the garage are so far as liability only is concerned, a portion of the rented premises.”
+This Court in Lerner v. Heicklen, 89 Pa. Superior Ct. 234, held that a covenant in a lease relieving the landlord from all “loss of property however occurring” is sufficient to release the lessor from all liability for loss caused by his negligence or that of Ms servants.
+As between private individuals in their personal affairs, one may be indemnified against the results of Ms own or his servants’ negligence, if the intention so to do is clearly expressed in the contract. Perry v. Payne, 217 Pa. 252, 66 A. 553. The covenant in such lease against negligence of the lessor does not contravene any policy of the law inasmuch as it is a contract between persons conducting a strictly private business and relates entirely to their personal and private affairs and so cannot be opposed to public policy. Cannon v. Bresch, 307 Pa. 31, 160 A. 595; Siegel Company v. Philadelphia Record Company, 348 Pa. 245, 35 A. 2d 295.
+It is our opinion that the provision, supra, in the lease in the case at bar respecting the landlord’s liability for negligence applies to the garage as well as to the apartment, and that the same is plainly expressed. The. provision in the lease which releases the landlord states that the parties contemplate not only the rented apartment but all portions of the apartment building and the adjacent property thereto and the garage. All that the law insists on in the case of the tenant’s waiver of his landlord’s responsibility for losses resulting from his negligence is that it shall be plainly expressed. With that requirement the covenant of this lease fully complies. Cannon v. Bresch, supra.
+Judgment is affirmed.
