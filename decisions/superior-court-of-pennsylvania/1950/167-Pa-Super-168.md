@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 38"
+decided: "1950-07-20"
+citations: ["167 Pa. Super. 168"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, Ross and Arnold, JJ."]
+parties: ["Commonwealth ex rel. Bolen v. Bolen, Appellant."]
+source_url: "https://static.case.law/pa-super/167/cases/0168-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 470557
+cites_cases: ["12 W. N. C. 309", "127 Pa. Superior Ct. 567", "145 Pa. 363", "193 A. 860", "22 A. 653", "31 A. 2d 526", "334 Pa. 356", "347 Pa. 66", "5 A. 2d 910"]
+---
+
+# Commonwealth ex rel. Bolen v. Bolen
+
+## Majority (Dithrich, J.,)
+
+Opinion by
+Dithrich, J.,
+This case is before us on appeal from the dismissal of a petition to quash a writ of attachment execution issued at the instance of relatrix. She is a resident of Ohio and her husband, Charles Bolen, appellant, is a resident of Pennsylvania. They separated in 1941 and since the separation relatrix has resided continuously in Cleveland, Ohio. In 1946 she obtained a support order against her husband in the County Court of Allegheny County, Pennsylvania. He fell behind in his payments under the order and on June 27, 1949, relatrix obtained a rule on him to show cause why he should not be attached. The matter was so proceeded with that judgment was finally entered against him in the sum of 11020.45.
+A praecipe for attachment execution on the judgment was filed September 9, 1949, and the Peoples First National Bank & Trust Company and The Bell Telephone Company of Pennsylvania were summoned as garnishees. Both garnishees filed answers admitting sums of money in their hands owing to the defendant. He, however, obtained a rule to show cause why the attachment execution served on his employer, The Bell Telephone Company of Pennsylvania, should not be quashed on the ground that relatrix, not being a resident of Pennsylvania, could not legally attach all of her husband’s wages in the hands of his Pennsylvania employer. He takes the position that since, under the law of Ohio, where relatrix resides, she could attach only a percentage of her husband’s wages, she should not be permitted to come into Pennsylvania and attach all of his wages. This for the reason that the decisions of the courts of this State permitting such attachment have been due to the concern of the Commonwealth that a deserted and needy wife should be prevented from becoming a public charge, and the circumstance that failure of a husband to support his wife is a criminal offense in this Commonwealth.
+True, the Supreme Court in Commonwealth ex rel. Deutsch v. Deutsch, 347 Pa. 66, 31 A. 2d 526, where the question was whether a wife who had obtained a support order upon her husband could attach his wages, said (page 69) : “Tlie neglect to maintain a wife and children is a criminal offense under our laws, and the Commonwealth is vitally interested not only in the moral and social factors involved but also in preventing deserted wives from becoming public charges. It is fair to presume that the legislature had all these considerations [there were others, including the personal privilege of the laborer and the convenience of the employer] in mind in enacting the sweeping provisions of the Acts of 1913 and 1921.”
+But in Stewart's Estate, 334 Pa. 356, 5 A. 2d 910, where it was specifically contended that the Act of 1921 did not apply to nonresident wives, the Supreme Court, speaking through the present Chief Justice, said (page 366) : “We cannot agree that the Act of 1921 was intended by the legislature to relate only to claims of resident wives . . And in Stewart v. Stewart, 127 Pa. Superior Ct. 567, 193 A. 860, this Court, at page 582, approved the following from the opinion of Cordon, P. J., of the Court of Common Pleas No. 2 of Philadelphia, in Lippincott v. Lippincott, 28 D. & C. 28, 32: “ ‘A wife’s right to support exists wherever she may reside, and decisions, some of which protect the fundamental rights of wives, while others, by denying them, assist husbands in refusing or neglecting to perform their correlative fundamental duties, cannot be reconciled either in reason or good morals upon any such irrelevant basis as that of residence.’ ”
+Collom’s Appeal, 12 W. N. C. 309, and Sweeny v. Hunter, 145 Pa. 363, 22 A. 653, upon which appellant chiefly bases his very able argument on the public policy of this Commonwealth in respect of attachment of wages of residents of the Commonwealth, involved certain provisions of the exemption laws of the Commonwealth. In Collom’s Appeal the Supreme Court, in deciding that a nonresident of the Commonwealth is not entitled to claim the benefit of the Exemption Act of April 9,1849, said (page 310): “Each State has its own exemption laws for the benefit of its own citizens. If non-residents are permitted to participate in the benefit thus provided they may claim it in every State in which they happen to own property. This would likely work great injury to creditors by withdrawing from their grasp money or property which should, in justice, be applied to the payment of their claims.” In Sweeny v. Hunter the Supreme Court upheld the provisions of the Act of May 23,1887, P. L. 164,12 PS §2175, prohibiting a citizen of this State from assigning a claim against a resident of this State, for the purpose of having the same collected by attachment in the courts of another state with the intent to deprive the debtor of his right of exemption.
+We agree with the conclusion of the learned court below that, in the absence of any statutory provision restricting the right of attachment to a resident of this State, “we may not deny such remedy to a non-resident wife simply on the basis of her non-residence.”
+Order affirmed.
+Act of April 15, 1913, P. L. 72, 18 PS §1252, empowering a Court of Quarter Sessions making an order for support to enforce it by issuing a writ of attachment execution; re-enacted in The Penal Code of 1939, P. L. 872, §733, 18 PS §4733.
+Act of May 10, 1921, P. L. 434, 48 PS §136, extending the authority to “any court of competent jurisdiction.”
