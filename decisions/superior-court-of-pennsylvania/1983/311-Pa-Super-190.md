@@ -1,0 +1,41 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1878"
+decided: "1983-03-11"
+citations: ["311 Pa. Super. 190", "457 A.2d 559"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before SPAETH, BROSKY and BECK, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Jose ORTIZ, Appellant."]
+source_url: "https://static.case.law/pa-super/311/cases/0190-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 211763
+cites_cases: ["166 Pa.Super. 625", "297 Pa.Super. 498", "319 A.2d 669", "456 Pa. 394", "487 Pa. 169", "74 A.2d 795"]
+---
+
+# Commonwealth v. Ortiz
+
+## Majority (BECK, Judge:)
+
+BECK, Judge:
+Appellant, Jose Ortiz, was convicted by a jury of rape, simple assault, indecent assault and corrupting the morals of a minor. The trial court granted appellant’s post-verdict motion in arrest of judgment as to the charge of corrupting the morals of a minor because that charge was not in the original complaint and that complaint was improperly corrected to include it. Appellant was sentenced to a period of seven and one-half to fifteen years imprisonment for rape and a consecutive term of three years probation for indecent assault. That sentence was subsequently vacated because the rape and indecent assault offenses were found to merge. Sentence for the simple assault conviction was suspended.
+Appellant alleges in this appeal that the lower court erred in its charge on “sexual intercourse” pursuant to 18 Pa.C. S.A. § 3101. “Sexual intercourse” is an element of the rape offense, 18 Pa.C.S.A. § 3121, which states in relevant part:
+§ 3121. Rape
+A person commits a felony of the first degree when he engages in sexual intercourse with another person not his spouse:
+(1) by forcible compulsion;
+(2) by threat of forcible compulsion that would prevent resistance by a person of reasonable resolution[.j
+And “sexual intercourse” is defined in Section 3101 in the following manner:
+In addition to its ordinary meaning, includes intercourse per os or per anus, with some penetration however slight; emission is not required.
+(Emphasis added.)
+The trial court charged the jury on rape in the following manner:
+Under the statute as passed by the Legislature, a person commits the crime of rape when he engages in sexual intercourse with another person, not his spouse, by forcible compulsion or by threat of forcible compulsion that would prevent resistance by a person of reasonable resolution. That is the theory. So in order to find the defendant guilty of rape, you must find that the defendant engaged in sexual intercourse with Lisa Moody; and we say sexual intercourse includes intercourse with some penetration, however slight. The penetration must be to the vaginal area of a female or her genital area. The penetration may be slight, however slight. Emission is not required to complete the crime of rape. So we say the vaginal area means any area of that part of the female’s body, there must be penetration, however slight. You must also find that Jose Ortiz is not the spouse of Lisa Moody, or Lisa Moody is not the spouse of Jose Ortiz; and that the intercourse was complete or accomplished through forcible compulsion or by threat or forcible compulsion that would prevent resistance by a person of reasonable resolution, in this case, prevent resistance by Lisa Moody. If, after considering all of the evidence, you find that the Commonwealth has established beyond a reasonable doubt all of the elements which I have stated, you should find the defendant guilty of rape. On the other hand, if after hearing all of the evidence, you find the Commonwealth has not established beyond a reasonable doubt all of the elements of which I have stated, you should find the defendant not guilty of rape.
+N.T. 1/23/81 at 105-106.
+Appellant contends that “[t]he definition of rape given to the jury includes foreplay and other conduct that falls short of actual penetration of the vagina.” Appellant’s brief at 8. It is quite clear, however, that the definition of “sexual intercourse” found at Section 3101 does not specify “penetration of the vagina,” but instead specifies “some penetration however slight.” The lower court correctly cited Commonwealth v. Bowes, 166 Pa.Super. 625, 74 A.2d 795 (1950) which is the only Pennsylvania appellate case specifically delineating what penetration means in this context. That case stated that entrance in the labia is sufficient: “To constitute the crime of rape there must be penetration, however slight. (Res in re, but entrance in the labia is sufficient: 44 Am.Jur., Rape, § 3).” Id., 166 Pa.Superior at 628, 74 A.2d at 796 (emphasis in original). We therefore will not hold that a finding of penetration of the vagina is necessary for the jury to find “penetration however slight” under Section 3101, and since penetration of the vagina, in essence the farther reaches of the female genitalia, is not necessary to find penetration under Section 3101, the trial judge certainly did not err in declining to so charge.
+Appellant also contends that the court’s reinstruction on the crime of rape was incorrect.
+The court stated:
+As we told you earlier, in order to commit the crime of rape, there must be some penetration by the defendant of his penis into the female sex organ. I also told you that however slight that penetration may be is sufficient to constitute the act. What the law means by that is it need not be full entrance into the female’s sex organ by the male with his sex organ. So we say however slight, which means the smallest penetration within the female sex organ. Once the person, the defendant, the male breaks that area, the outside, once he makes the slightest penetration within, it is sufficient to constitute the crime of rape. So it is not necessary to have a full penetration to the entire vagina; just some penetration with the male sex organ into the female sex organ.
+N.T. 1/23/81 at 136-137. Once again, the instruction accurately tracked the language of Section 3101.
+Appellant claims finally that the court erred in denying his request to reinstruct the jury on the presumption of innocence and the burden of proof after the judge reinstructed them on the elements of rape. This claim was waived as counsel failed to preserve it in his post-verdict' motions. E.g., Commonwealth v. Seeley, 297 Pa.Super. 498, 444 A.2d 142 (1982). Assuming arguendo, however, that it was preserved, we find no error by the trial court. Appellant does not claim that the original jury instructions did not adequately cover those two points. The Pennsylvania Supreme Court in Commonwealth v. Watson, 487 Pa. 169, 173-174, 409 A.2d 19, 21 (1979) resolved this issue adversely to appellant’s claim in the instant matter:
+The record is clear that the general charge to the jury adequately covered the presumption of innocence, and the Commonwealth’s burden of proof. In Commonwealth v. McNeal, 456 Pa. 394 at 401, 319 A.2d 669 at 674 (1974) we said: “[I]n evaluating the correctness of instructions to a jury, the charge must be read and considered in its entirety.” Certainly, there is no need, nor is it desirable, to fully reinstruct a jury each time a specific inquiry is made. In review, we look at all of the instructions given to the jury, taken as a whole, in determining the propriety of the charge. Here, reading and considering the charge in its entirety, we are satisfied that there was no error. Judgment of sentence affirmed.
+The sophistic quality of appellant’s argument is underscored in the Commonwealth’s brief which notes that appellant does not challenge on appeal the sufficiency of the evidence supporting penetration. Indeed, such a claim in the instant appeal would be an onerous one to advance as the prosecutrix clearly testified that she saw appellant place his penis inside her genitalia and that it hurt her when he did so. N.T. 1/20/81 at 33-34, 72, 97. Additionally, a microbiologist from the City of Philadelphia Crime Lab testified that pursuant to a microscopic examination he could conclude that sperm had been present in the prosecutrix’s vagina when she was examined and treated after the attack. N.T. 1/21/81 at 19-20.
