@@ -1,0 +1,33 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 988 C.D. 1986"
+decided: "1987-11-18"
+citations: ["111 Pa. Commw. 136", "533 A.2d 519"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges MacPhail and Palladino, and Senior Judge Narick, sitting as a panel of three."]
+parties: ["Allan Mark Craze, Appellant v. Commonwealth of Pennsylvania, Department of Transportation, Appellee."]
+source_url: "https://static.case.law/pa-commw/111/cases/0136-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1366474
+cites_cases: ["107 Pa. Commonwealth Ct. 1", "107 Pa. Commonwealth Ct. 20", "26 Pa. Commonwealth Ct. 201", "363 A.2d 870", "514 Pa. 411"]
+---
+
+# Craze v. Commonwealth, Department of Transportation
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+Appellant Allan Mark Craze appeals the order of the Court of Common Pleas of Berks County dismissing his appeal of the suspension of his motor vehicle operating privileges by the Department of Transportation pursuant to Section 1547(b) of the Vehicle Code, 75 Pa. C. S. §1547(b) (refusal to submit to chemical testing). We affirm the decision of the trial court.
+On the evening of November 24, 1983, Appellant was involved in an automobile accident. Officer David Pottiger of the Mohnton Police Department observed that Appellant behaved in a disorderly manner by throwing his wallet in the street, swearing, and kicking his car. Officer Pottiger also observed that Appellants eyes were bloodshot and pupils dilated, and that he could smell alcohol on Appellants breath. Appellant told Officer Pottiger that he had had one beer and that he was the driver of his vehicle.
+Appellant successfully completed a field sobriety test by walking heel-to-toe on a straight line. Officer Pottiger testified that Appellant passed this test “with difficulty” and that Appellants legs were “wobbly.” Notes of Testimony at 9-10, Reproduced Record at 13a-14a. Appellant was arrested for driving under the influence pursuant to Section 3731 of the Vehicle Code, 75 Pa. C. S. §3731, and was asked to submit to a breathalyzer test. Appellant initially agreed to the test. Soon after arrival at the Cumru Township Police Department, however, it was learned that the breathalyzer instrument was not functioning properly. Officer Pottiger then requested that Appellant submit to a breathalyzer test at another location. After consultation with his former guardian, Appellant refused. Appellant had been warned upon both requests for testing that a refusal would result in the suspension of his drivers license.
+The first issue Appellant raises on appeal to this Court is whether motor vehicle operating privileges may properly be suspended when Appellant assented to the first request for chemical testing and subsequently refused the second request for testing which was to be completed at an unknown time and place. Appellant contends that the second request was excessive and an abuse of Officer Pottigers discretion. We disagree.
+Our Supreme Court has held that a second test for alcohol level is not proper if the request is made solely to enhance the accuracy of the first test. Commonwealth of Pennsylvania, Department of Transportation v. McFarren, 514 Pa. 411, 525 A.2d 1185 (1987). That is not the situation in the instant case. Appellant had not been tested at all prior to his refusal, due to the malfunction of the breathalyzer machine in the station where he was initially taken following the automobile accident. Removal to another location was necessary in order to obtain test results.
+Appellant contends that his refusal to accompany the officer to another location for the breathalyzer test was due to his physical and emotional condition following the accident and being cold and wet from the rain. There was no evidence presented, however, to show that Appellant had any injury or illness requiring immediate attention warranting a claim of inability to travel to another location. Some minor inconvenience may have resulted, but this can hardly be characterized as excessive or as an abuse of discretion. This was not a situation where the driver was asked to submit to more than one test. Appellant was merely apprised of the situation and asked to cooperate so that a chemical test could be performed, as he is required to do under Section 1547(a) of the Vehicle Code, 75 Pa. C. S. § 1547(a). Therefore, Officer Pottigers request was perfectly reasonable and Appellant was required to comply.
+Appellant also suggests that Officer Pottiger acted improperly by not offering to perform a blood or urine test when it was discovered that they would not be able to perform the breathalyzer test at that location. There is, however, no such requirement. This Court has repeatedly held that the licensee must unequivocally consent to take the test requested by the officer. Wenger v. Commonwealth, 107 Pa. Commonwealth Ct. 20, 527 A.2d 1071 (1987). See also Department of Transportation, Bureau of Driver Licensing v. Curran, 107 Pa. Commonwealth Ct. 1, 526 A.2d 1265 (1987). Appellant was warned that his license would be suspended if he refused to take the test at a new location. Pie chose to refuse and must now suffer those consequences. We note additionally that these alternate tests would also almost assuredly have had to be performed at another location.
+Appellant also raises the issue of reasonable grounds. Appellant contends that because he passed the field sobriety test, Officer Pottiger did not have reasonable grounds to request the chemical test for alcohol level. “Reasonable grounds” exist when, “viewing the facts and circumstances as they appeared at the time, a reasonable person in the position of the police officer could have concluded that the motorist was operating the vehicle and under the influence of intoxicating liquor.” Department of Transportation, Bureau of Traffic Safety v. Dreisbach, 26 Pa. Commonwealth Ct. 201, 204-205, 363 A.2d 870, 872 (1976). Considering Appellants behavior at the scene of the accident as a whole, the record clearly supports the decision of the trial court that Officer Pottiger did have reasonable grounds to order the breathalyzer test despite the fact that Appellant was able to pass the field sobriety test.
+For the reasons stated above, we affirm the decision of the Court of Common Pleas of Berks County and reinstate the suspension of Appellants motor vehicle operating privileges.
+Order
+The order of the Court of Common Pleas of Berks County in the above-captioned proceeding is hereby affirmed, and the suspension of Allan Mark Crazes operating privileges is reinstated.
