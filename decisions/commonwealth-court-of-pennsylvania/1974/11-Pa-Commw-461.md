@@ -1,0 +1,40 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1083 C.D. 1972"
+decided: "1974-01-16"
+citations: ["11 Pa. Commw. 461"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Kramer, Wilkinson, Jr., Mencer, Rogers and Blatt. Judge Crumlish, Jr. did not participate."]
+parties: ["Jack Rees, Appellant, v. Zoning Hearing Board of Indiana Township and George Roncevich, Jr., Property Owner, Appellees."]
+source_url: "https://static.case.law/pa-commw/11/cases/0461-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1857011
+cites_cases: ["152 A. 2d 456", "291 A. 2d 541", "300 A. 2d 810", "301 A. 2d 423", "303 A. 2d 234", "303 A. 2d 239", "303 A. 2d 855", "396 Pa. 283", "5 Pa. Commonwealth Ct. 535", "8 Pa. Commonwealth Ct. 11", "8 Pa. Commonwealth Ct. 29", "8 Pa. Commonwealth Ct. 436", "8 Pa. Commonwealth Ct. 448", "8 Pa. Commonwealth Ct. 584"]
+---
+
+# Rees v. Zoning Hearing Board of Indiana Township
+
+## Majority (Judge Mencer,)
+
+Opinion bt
+Judge Mencer,
+This is an appeal by Jack Rees (Rees) from an order of the Court of Common Pleas of Allegheny County affirming a decision of the Indiana Township Zoning Hearing Board (Board) granting the application of George Roncevich, Jr. (Roncevich) for a variance.
+On September 9, 1968, Roncevich, as the equitable owner under an agreement of sale of a certain lot on Saxonburg Boulevard in Indiana Township, applied to the township zoning officer for a permit to construct a garage for the storage of road equipment which he uses in his excavating and trucking business. His application was rejected because the property was zoned “R-l” and his proposed use was not permitted in such a zone by the township zoning ordinance.
+Roncevich appealed to the Board, requesting a variance from the zoning ordinance. His appeal was rejected and he then appealed to the lower court. The lower court remanded the case to the Board because it had not made a record. The Board reheard the case and granted Roncevich’s request for a variance subject to certain conditions. The lower court then affirmed the decision of the Board.
+At this point, Rees, the owner of a nursing home next to Roncevich’s property, as intervenor, appealed to this Court. We remanded the case to the Board since it had failed to formulate findings of fact and conclusions of law. The Board then complied with our order and again granted the variance and the case went before the lower court for the second time. The lower court, after taking additional testimony, affirmed the decision of the Board, Bees’s appeal to this Court then followed.
+We must first note our scope of review. In zoning cases in which the lower court heard additional testimony, our review is limited to a determination of whether the court below committed an error of law or abused its discretion. McKay v. Board of Adjustment, 8 Pa. Commonwealth Ct. 29, 300 A. 2d 810 (1973).
+Section 912 of the Pennsylvania Municipalities Planning Code, Act of July 31, 1968, P. L. 805, 53 P.S. §10912, has adopted as its criteria for the granting of a variance the requirements mandated by Pennsylvania case law. Myriad are the cases which hold that an applicant for a variance must prove that there exists unnecessary hardship unique or peculiar to his property and that the variance is not contrary to the public health, safety or general welfare. In addition, the courts have held that a variance should only be granted in exceptional circumstances and the burden of proving its need is a heavy one. The Boulevard Land Corporation v. Zoning Board of Adjustment, 8 Pa. Commonwealth Ct. 584, 303 A. 2d 234 (1973).
+Rees argues, inter alia, that Roncevich did not sustain his burden of showing unnecessary hardship. We agree and therefore reverse the lower court’s order granting a variance.
+Section 912 of the Code is consistent with prior law in finding unnecessary hardship only when there is no possibility that the property can be developed in strict conformity with the provisions of the zoning ordinance and the grant of a variance is therefore necessary to enable the reasonable use of the property. See Marple Gardens v. Zoning Board of Adjustment, 8 Pa. Commonwealth Ct. 436, 303 A. 2d 239 (1973).
+Roncevich, therefore, could satisfy his burden of proving unnecessary hardship only by a showing that his property could not be used in a reasonable manner as a residence. As noted in Philadelphia v. Earl Scheib Realty Corp., 8 Pa. Commonwealth Ct. 11, 17, 301 A. 2d 423, 426 (1973), and quoted with approval in Borough of Ingram v. Sinicrope, 8 Pa. Commonwealth Ct. 448, 450, 303 A. 2d 855, 857 (1973), this can be accomplished “(1) by a showing that the physical characteristics of the property were such that it could not in any case be used for the permitted purpose or that the physical characteristics were such that it could only be arranged for such purpose at prohibitive expense [citations omitted]; or (2) by proving that the characteristics of the area were such that the lot has either no value or only a distress value for any purpose permitted by the zoning ordinance [citations omitted].” Roncevich simply failed to show either of these conditions.
+The only evidence offered by Roncevich consisted of his own testimony and that of Mrs. J. Robert Jahn, former owner of the lot in question. Roncevich stated that the front of the lot on Saxonburg Boulevard was higher than the road surface and sloped steeply away from the road and he would have to grade the lot in order to build his garage. He also testified that there was a gas pumping station to the left of the lot and Ree’s nursing home to the right.
+Mrs. Jahn testified that she bought the lot in 1942 and had attempted, unsuccessfully, to sell it for the past seven years. She stated that she had retained three real estate brokers for this purpose and had asked $3000 for the lot.
+We conclude that this evidence was insufficient to show that the property could not be used for residential purposes.
+The testimony that the lot was sloped does not show that a residence could not be built there. Grading can always be done, and Roncevich stated that the lot would have to be graded in order for him to construct the garage. Also, when he was asked by Chairman Rowland whether he intended to build a home on the lot, Roncevich stated: “At the present, no, but I am going to have the facility in case I decide to in time.” This admission shows that Roncevich himself thought the lot could be used as a residence.
+The evidence of Mrs. Jahn’s unsuccessful attempts to sell the property is also insufficient. It is true that an active, prolonged, and specific testing of the marketability of a lot can be used to show that it cannot be sold or used for the purpose zoned. See Mobil Oil Corporation v. Zoning Board of Adjustment, 5 Pa. Commonwealth Ct. 535, 291 A. 2d 541 (1972). This type of evidence, given by a disinterested real estate broker, was accepted by the Supreme Court in Ferry v. Kownacki, 396 Pa. 283, 152 A. 2d 456 (1959).
+In the present case we have only the statement of Mrs. Jahn that she was unable to sell the property. We conclude that this is not sufficient evidence of an active, prolonged, and specific testing of marketability and is, therefore, insufficient to prove unnecessary hardship.
+A reading of the lower court’s opinion indicates that the court assumed the very point which we have found that Roncevich failed to prove. The Court states, “The property has no useful purpose as a residential property,” citing page 45a of the record. However, this page contains the opening statement of Roncevich’s attorney, which is certainly not sufficient to prove this point.
+Order reversed.
+Our inability to foresee the extent and nature of the additional testimony, coupled with the requirement of the Board to formulate findings of fact and conclusions of law, made our prior remand necessary.
