@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 91"
+decided: "1962-06-12"
+citations: ["198 Pa. Super. 144"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Ervin, Wright, Woodside, Watkins, Montgomery, and Flood, JJ."]
+parties: ["Commonwealth v. Jainnini, Appellant."]
+source_url: "https://static.case.law/pa-super/198/cases/0144-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 758611
+cites_cases: ["110 A. 2d 776", "115 A. 2d 816", "124 Pa. Superior Ct. 277", "130 Pa. Superior Ct. 536", "156 Pa. Superior Ct. 648", "166 A. 2d 109", "168 Pa. Superior Ct. 69", "177 Pa. Superior Ct. 170", "178 Pa. Superior Ct. 581", "188 A. 425", "194 Pa. Superior Ct. 253", "198 A. 812", "41 A. 2d 341", "76 A. 2d 657"]
+---
+
+# Commonwealth v. Jainnini
+
+## Majority (Wright, J.,)
+
+Opinion by
+Wright, J.,
+This is a fornication and bastardy case. We are concerned with an appeal by the defendant from an order of the County Court of Philadelphia dismissing his petition to vacate the order of child support, and to remit arrearages.
+The record discloses that, on May 22, 1947, Alfred Jainnini, then aged twenty-two years, pleaded guilty to an indictment charging fornication and bastardy. After a hearing before the late Judge Linton, at which the prosecutrix testified that the child was born on March 16, 1947, an order was entered in the amount of |30.00 per month for the child’s support. On July 5, 1960, appellant presented a petition to vacate this order, and to remit arrearages, on the ground that the prosecutrix, was a married woman at the time of conception, and no proof of non-access was offered at the hearing on appellant’s plea. The answer to this petition admitted that the prosecutrix was the wife of one Braun at the time of conception, but averred that proof of Braun’s non-access was not necessary under the circumstances. At the hearing on June 28, 1960, before Judge Beloff, it was stated that Braun was overseas at the time of conception. It appears from appellant’s brief that the prosecutrix and Braun were subsequently divorced, and that the prosecutrix later remarried one Weaver. At the request of appellant’s counsel, the hearing judge reserved decision. On November 4, 1960, appellant presented a supplemental petition alleging that the indictment did not contain an averment that .the prosecutrix ivas an unmarried woman. Following the filing of an answer to this supplemental petition, and the submission of briefs, the order was entered, December 8, 1961, from which this appeal was taken.
+We have concluded that the case was correctly decided by the court below. In his able opinion, Judge Beloff outlines four propositions with which we are in full accord. (1) Appellant does not seek to vacate, change, or withdraw the plea of guilty which he voluntarily entered in open court. He does not even deny the paternity of the child. (2) The fact that the prosecutrix was a married woman does not appear on the face of the record, which is limited to the indictment, the plea and issue, and the verdict. See Commonwealth v. Hopkins, 156 Pa. Superior Ct. 648, 41 A. 2d 341. (3) It is well settled that objections to formal defects in an indictment must be made before the jury is sworn, and are waived by the entry of a plea: Commonwealth v. Foust, 194 Pa. Superior Ct. 253, 166 A. 2d 109. (4) More than thirteen years intervened between the date of the order and the presentation of the petition to vacate, and appellant is clearly chargeable with unreasonable delay.
+In his extensive brief, counsel for appellant raises two questions. He contends that the court below “may not validly recognize as a bastard the child of a married woman without evidence of non-access of her husband during the period of possible conception”. The obvious answer is that appellant’s plea of guilty made proof of non-access unnecessary. A plea of guilty is just as effectual for a conviction as a verdict of guilty: Commonwealth ex rel. Paige v. Smith, 130 Pa. Superior Ct. 536, 198 A. 812. We are not here concerned with the quality and quantity of proof which would have been required had appellant pleaded not guilty.
+Counsel for appellant also contends that the court below did not have jurisdiction “to impose an order of child support oñ a defendant who has pleaded guilty to an indictment charging him merely with the commission of fornication with a married woman and begetting a child of her body”. The result of this argument, if sustained, would be that no man could possibly be convicted of fornication and bastardy with a married woman. It is our view to the contrary that the fathering of a child of a married woman is within the purview of Section 506 of The Penal Code. Act of June 24, 1939, P. L. 872, 18 P. S. 4506. A review of the legislative history discloses that the statutory language has remained virtually unchanged since the Act of 1705. I Smith’s Laws 27, Section III. The words “charged by an unmarried woman”, which appellant emphasizes, Avere not intended to preclude charges by married women. This judicial interpretation has remained constant from the old and leading case of Commonwealth v. Shepherd, 6 Binney 283, down through Commonwealth v. DiMatteo, 124 Pa. Superior Ct. 277, 188 A. 425, to our most recent cases. See Commonwealth v. Becker, 168 Pa. Superior Ct. 69, 76 A. 2d 657; Commonwealth v. Cicerchia, 177 Pa. Superior Ct. 170, 110 A. 2d 776; Commonwealth v. McMillen, 178 Pa. Superior Ct. 581, 115 A. 2d 816.
+Order affirmed.
