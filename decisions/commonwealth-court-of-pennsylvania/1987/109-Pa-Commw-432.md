@@ -1,0 +1,49 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 834 C.D. 1986"
+decided: "1987-09-18"
+citations: ["109 Pa. Commw. 432", "531 A.2d 536"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Barry and Palladino, and Senior Judge Kalish, sitting as a panel of three."]
+parties: ["James Yocabet, Petitioner v. Commonwealth of Pennsylvania, State Ethics Commission, Respondent."]
+source_url: "https://static.case.law/pa-commw/109/cases/0432-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1363549
+cites_cases: ["105 Pa. Commonwealth Ct. 356", "406 A.2d 280", "444 A.2d 761", "470 A.2d 659", "480 A.2d 382", "66 Pa. Commonwealth Ct. 1", "77 Pa. Commonwealth Ct. 529", "79 Pa. Commonwealth Ct. 491", "85 Pa. Commonwealth Ct. 23"]
+---
+
+# Yocabet v. Commonwealth
+
+## Majority (Judge Palladino,)
+
+Opinion by
+Judge Palladino,
+, James Yocabet (Petitioner) appeals from an order of the State Ethics Commission (Commission), which found him in violation of Section 3(a) of the State Ethics Act (Ethics Act) and required him to remit the compensation he received as secretary/treasurer of Luzerne Township for the. years 1980 and 1981. We affirm.
+Petitioner was appointed to fill the remainder of the term of a vacated Luzerne Township, supervisor position in 1978. Subsequently, he . ran for the office and was elected. During his tenure as a supervisor, Petitioner also held the position of township roadmaster and secretary/treasurer.
+The Commission informed Petitioner in July, 1983 that it had received a complaint that he had used his office as supervisor to realize personal financial gain by being appointed or voting for his own appointment as secretary/treasurer of the township. The Commission also informed Petitioner that it would conduct an investigation of this allegation. On September 17, 1984, the Commission issued a preliminary order in which it concluded Petitioner had violated section 3(a) of the Ethics Act. ■
+Section 3(a) of the . Ethics Act provides:
+No public official or public employee shall use his public office or any confidential information received through his holding public office to obtain financial gain other than compensation provided by law for himself a member of his immediate family, or a business with which he is associated. (Emphasis added.)
+The Second Class Township Code (Code) permits township supervisors to appoint themselves to the township offices of roadmaster, secretary and treasurer. However, in that situation, the Code requires the townships auditors to set the compensation for these offices. The Commission based its preliminary determination that Petitioner was in violation of Section 3(a) of the Ethics Act on its findings that: (1) Petitioner had voted to appoint himself township secretary/treasurer in the years 1979 to 1983; (2) he had received a salary for this position of $6000 in 1978 and $6600 in 1979 through 1984; and (3) the township auditors had not established compensation for the secretary/treasurer position in 1980 and 1981 as required by law (section 531 of the Code, 53 PS. §65531).
+Petitioner challenged the order and a hearing was held before a panel of three commissioners. On March 3, 1986 the Commission issued its final order. The Commission concluded that Petitioner had received personal gain from his office as township supervisor in violation of section 3(a) of the Ethics Act because (1) he participated in appointing himself as township secretary/treasurer in 1980 and 1981 and (2) he received compensation for this office which was not fixed by the township auditors as required by law. The order required him to remit this compensation.
+Petitioner filed a petition for review with this court, contending that: (1) the record does not contain substantial evidence to support the Commissions finding that township auditors did not fix his salary as secretary/ treasurer for the years 1980 and 1981; and (2) since he did not intentionally realize personal gain, he could not be in violation of section 3(a) of the Ethics Act. Alternatively, Petitioner contends the Ethics Act denies him due process of law in violation of the constitutions of the United States and Pennsylvania. Our scope of review is limited to determining whether necessary factual findings are supported by substantial evidence, an error of law has been committed, or constitutional rights have been violated. Phillips v. State Ethics Commission, 79 Pa. Commonwealth Ct. 491, 470 A.2d 659 (1984).
+Petitioner admits that he voted to appoint himself secretary/treasurer of Luzerne Township in 1980 and 1981 and received compensation for the position in those years. Petitioner contends that the evidence shows that the auditors did approve his salary as township secretary/treasurer in 1980 and 1981, and therefore, the Commissions finding the auditors did not set his salary in those years as required by law is not supported by substantial evidence. Petitioner argues that the testimony of his witnesses shows that the practice of the Luzerne Township auditors prior to 1983 was not to affirmatively set out compensation for township supervisors unless there was a change in the. compensation.
+“The weighing of evidence and the evaluation of witness credibility are proper functions of the Commission. It is not the function of a reviewing court to judge the weight of evidence and the credibility of witnesses on appeal from an administrative agency.” Murphy v. Department of Public Welfare, 85 Pa. Commonwealth Ct. 23, 30, 480 A.2d 382, 387 (1984). The existence of conflicting evidence does not mean the evidence relied on is not substantial. Id. This,court, in determining whether substantial evidence exists to support a, necessary finding, must evaluate the relevant evidence' relied on to see if a reasonable person would consider it adequate to support the finding. Hammer v. Workmen's Compensation Appeal Board (Gannondale), 105 Pa. Commonwealth Ct. 356, 524 A.2d 550 (1987).
+The Commission relied on the testimony of Thelma Cox, one of the three township auditors for the years of 1980 and 1981. Cox testified that the auditors discussed compensation for the secretary/treasurer position and decided not to set a salary for that position. The other two auditors for 1980 and 1981 were Kenneth Taylor and Anne Orbash. Taylor died prior to this investigation. Because of ill health, Orbash testified by deposition. While she stated that she personally félt Petitioner should be paid as secretary/treasurer and assumed he had been, Orbash indicated she did not remember any discussion concerning compensation for that office. Additionally, the auditors informed the supervisors by letter of their compensation for the years 1978 to 1984, except for that of the secretary/treasurer in 1980 and 1981, even though in some years the compensation for other items did not change. This constitutes substantial evidence to support the Commissions finding that the auditors did not set a salary for .the township secretary/ treasurer in 1980 and 1981.
+Petitioner next argues that since it was not his intention to use his office to obtain financial gain, he could not be in violation of section 3(a) of the Ethics Act. This argument does not withstand analysis.
+Section 1 of the Ethics Act states that “the people have a right to be assured that the financial interests of holders of . . . public office present neither a conflict nor the appearance of a conflict with the public trust.” Section 7 of the Ethics Act instructs the Commission to investigate situations where there is a reasonable belief that financial conflict may exist, and if conflict is found, to require the offender to remove himself from the conflict without gain. This court in Kestler Appeal, 66 Pa. Commonwealth Ct. 1, 444 A.2d 761 (1982), held that county officials were entitled only to compensation expressly authorized by statute and were not entitled to keep additional compensation, even if received in good faith and without fraudulent intent. Furthermore, in McCutcheon v. State Ethics Commission, 77 Pa. Commonwealth Ct. 529, 406 A.2d 280 (1983), this court affirmed a Commission order requiring two township supervisors to disgorge monies received from a pension they had voted themselves, which was not approved by the township auditors, even though the supervisors had acted pursuant to advice that doing so was “legal”. Accordingly, the Commission did not err in determining Petitioner violated section 3(a), even if he did not intend to.
+Lastly, Petitioner contends' the Ethics Act is unconstitutional because it deprives him of his due process rights under the United States and Pennsylvania Constitutions by allowing the imposition of criminal liability without criminal intent. We find no merit in this argument. The Ethics Act does contain the possibility of criminal sanctions, see Section 9, and the Commission may refer the matter for criminal prosecution. Petitioner, however, was not subject to a criminal proceeding, and the requirement that he disgorge the compensation he improperly received is not a criminal sanction.
+Order
+And Now, September 18, 1987, the order of the State Ethics Commission is affirmed.
+Act of October 4, 1978, P.L. 883, 65P.S. §403(a).
+Petitioner received $6600 in each year. He was ordered to remit a check in that amount, made payable to Luzerne Township, to the Commission.
+Each of the three township supervisors was also a roadmaster.
+Act of July 1, 1947, P.L. 1481, as amended, 53 P.S. §§65101-66981.
+Roadmaster—See §§514 & 515 of the Code, 53 PS. §§65514 and 65515.
+Secretary—§540 of the Code, 53 PS. §65540.
+Treasurer—See §§530 and 531 of the Code, 53 PS. §§65530 and 65531.
+Sections 515 and 531 of the Code, 53 PS. §§65515, 65531.
+65 P.S. §401.
+65 P.S. §407.
+65 P.S. §409.
