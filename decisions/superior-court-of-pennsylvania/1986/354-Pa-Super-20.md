@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2639"
+decided: "1986-06-26"
+citations: ["354 Pa. Super. 20", "510 A.2d 1257"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before McEWEN, OLSZEWSKI and KELLY, JJ.", "KELLY, J., concurs in the result."]
+parties: ["Mary Ann MILLER, Appellee, v. ROYAL INSURANCE CO., Appellant."]
+source_url: "https://static.case.law/pa-super/354/cases/0020-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 571341
+cites_cases: ["189 S.E.2d 832", "213 Va. 72", "22 S.D.L.Rev. 349", "305 Md. 435", "331 So.2d 260", "335 N.W.2d 733", "337 So.2d 397", "339 So.2d 1123", "345 N.W.2d 788", "401 So.2d 1033", "458 A.2d 106", "487 F.Supp. 831", "504 Pa. 328", "573 P.2d 367", "581 S.W.2d 555", "585 F.Supp. 408", "597 S.W.2d 656", "734 F.2d 616", "89 Wash.2d 501", "92 N.J. 550"]
+---
+
+# Miller v. Royal Insurance
+
+## Majority (OLSZEWSKI, Judge:)
+
+OLSZEWSKI, Judge:
+Appellant, Royal Insurance Company (“Royal”), challenges the lower court’s judgment upon its order denying appellant’s petition to modify the award of arbitrators. That court found that no error of law was committed by the arbitrators in stacking uninsured motorist coverages under a commercial fleet policy. We disagree and reverse the order of the court below.
+This case arose from a motor vehicle collision involving appellee, Mary Ann Miller, and an uninsured motorist. Mrs. Miller was driving a vehicle owned by Wes II Air Freight (“Wes II”) and assigned to her husband, Joseph Miller, as Wes II’s corporate secretary. The car was covered by an insurance policy issued by Royal to Wes II. Pursuant to Arbitration Act of 1927, the uninsured motorist claim was arbitrated before an arbitration panel who found in favor of the claimant and against Royal in the amount of $70,000. To reach the award of $70,000, the arbitrators stacked coverage for three vehicles insured under this fleet policy. The extent of uninsured motorist coverage per vehicle insured under the policy was $25,000.
+Our Supreme Court recently “reserve(d) for another day the questions of whether a ‘class one’ insured may stack coverages under a fleet policy, and whether the owner and/or officers of a corporation are ‘class one’ insureds under a policy issued in the name of a corporation.” Utica Mutual Insurance Co. v. Contrisciane, 504 Pa. 328, 338 n. 4, 473 A.2d 1005, 1010-1011 n. 4 (1984). That other day has arrived in the form of the case sub judice.
+The court below determined that appellee is a class one insured. We agree, however, this classification becomes irrelevant in light of our determination that coverages under a fleet policy may not be stacked.
+The Court of Appeals of Maryland has noted that “(t)here is a decided split of authority around the country on intrapolicy stacking.” Howell v. Harleysville Mutual Insurance Co., 305 Md. 435, 439, 505 A.2d 109, 111 (1986). The Howell court went on to say that, in spite of the split of opinion in the area of consumer policies, “in dealing with the question of whether a claimant-employee should be permitted to stack the coverages provided under a commercial fleet policy insuring several vehicles for which separate premiums were paid, the courts are virtually unanimous (in refusing to allow stacking).” Id.
+One of the most common reasons for denying stacking of fleet policies is that such policies potentially cover a multitude of vehicles. It is argued “that to allow stacking would be to make premium costs prohibitively expensive and would not be within the reasonable expectations of the insurer and the employer-policyholder ....” Yeager v. Auto-Owners Insurance Co., 335 N.W.2d 733, 739 (Minn. 1983). See Linderer v. Royal Globe Insurance Co., 597 S.W.2d 656 (Mo.Ct.App.1980) (employee denied stacking of underinsured motorist coverage for a fleet of 1,420 vehicles); Lambert v. Liberty Mutual Insurance Co., 331 So.2d 260 (Ala.1976). We are aware that the circumstances of this case prevent these fears from being a reality. Wes II is a closely held corporation with only four shareholders, one of whom is Joseph Miller, appellee’s husband. Mr. Miller is also a member of Wes II’s board of directors and an executive officer of the corporation. Appellee seeks to stack coverage for three vehicles in a total fleet of ten. Factually, this case appears to more closely resemble that facing the Supreme Court of Minnesota in Yeager, 335 N.W.2d at 733. The Yeager court decided that when it was not faced with a “large commercial policy ... arguments about prohibitive costs and reasonable expectations ... (had) no force....” Id. at 739. We do not agree. If the insured-employer, Wes II, wanted additional protection against uninsured motorists, it was free to contract for that protection with its insurer, Royal. It declined to do so. We will not rewrite the insurance contract to permit stacking in this instance.
+The order of the court below is reversed. Judgment is vacated. Jurisdiction is relinquished.
+KELLY, J., concurs in the result.
+. See Note, Intra-Policy Stacking of Uninsured Motorist and Medical Payments Coverages: To Be Or Not To Be, 22 S.D.L.Rev. 349, 351 n. 10 (1977). In fact, that note indicates that as of the time it was written of twenty-three states dealing with the question of intra-policy stacking thirteen had refused to allow such stacking.
+Howell v. Harleysville Mutual Insurance Co., 305 Md. 435, 439, 505 A.2d 109, 111 (1986).
+. Cases not permitting stacking include: Fuqua v. Travelers Ins. Co., 734 F.2d 616 (11th Cir.1984); Guarantee Ins. Co. v. Anderson, 585 F.Supp. 408 (E.D.Pa.1984); Burke v. Aid Ins. Co., 487 F.Supp. 831 (D.Kan.1980); Lambert v. Liberty Mutual Insurance Company, 331 So.2d 260 (Ala.1976); Marks v. Travelers Indem. Co., 339 So.2d 1123 (Fla.Dist.Ct.App.1976); Travelers Ins. Co. v. PAC, 337 So.2d 397 (Fla.Dist.Ct.App.1976); Ohio Cas. Ins. Co. v. Stanfield, 581 S.W.2d 555 (Ky.1979); Burns v. Fernandez, 401 So.2d 1033 (La.Ct.App.1981); Linderer v. Royal Globe Ins. Co., 597 S.W.2d 656 (Mo.Ct.App.1980); Utica Mut. Ins. Co. v. Contrisciane, 504 Pa. 328, 473 A.2d 1005 (1984); Cunningham v. Ins. Co. of N. America, 213 Va. 72, 189 S.E.2d 832 (1972). To the contrary are Boroos v. Roseau Agency, Inc., 345 N.W.2d 788 (Minn.App.1984); Lundy v. Aetna Cas. & Sur. Co., 92 N.J. 550, 458 A.2d 106 (1983); and American States Ins. v. Milton, 89 Wash.2d 501, 573 P.2d 367 (1978). Anderson, 585 F.Supp. 408, noted at 413, n. 3, that the New Jersey Legislature amended its uninsured motorist statute to reverse the result in Lundy for accidents occurring after January 1, 1984.
+Id.
