@@ -1,0 +1,57 @@
+---
+court: "Superior Court of Pennsylvania"
+decided: "1996-07-01"
+citations: ["451 Pa. Super. 318", "679 A.2d 814"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before POPOVICH, EAKIN and HESTER, JJ."]
+parties: ["Dolores Jean GRIEVE, Appellee v. David Michael MANKEY, Appellant."]
+source_url: "https://static.case.law/pa-super/451/cases/0318-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 767066
+cites_cases: ["116 N.H. 446", "362 A.2d 204", "370 Pa.Super. 333", "374 Pa.Super. 228", "396 Pa.Super. 166", "507 Pa. 40", "513 Pa. 61", "534 Pa. 393", "93 A.L.R.3d 705"]
+---
+
+# Grieve v. Mankey
+
+## Majority (POPOVICH, Judge:)
+
+POPOVICH, Judge:
+The appellant, David Michael Mankey, appeals the order of the Court of Common Pleas of Allegheny County (per Mulligan, J.) awarding a fifty percent interest in his Public School Employees Retirement System (PSERS) pension to the appellee, Dolores Jean Grieve. We affirm.
+The record is clear that the parties, after a marriage of twenty-three years, were divorced in 1985. Thereafter, in a bi-furcated proceeding, marital property was distributed pursuant to an order providing for the equitable distribution of the PSERS pension in Paragraph 3, which read:
+The parties have agreed to equally divide [sic ] any rights of David Michael Mankey in the pension program of the School District of the City of Pittsburgh. To that end, the parties will sign whatever documents may be required to provide for the equal division of this pension. This Court will sign whatever Order is necessary to implement this provision. The division of the pension shall be from the date of its inception until June 30, 1986.
+However, at the time the December 15, 1986, order was issued, PSERS would not accept a Qualified Domestic Relations Order (QDRO). Nonetheless, the parties consented to the 1986 pension order. On April 29, 1994, the Legislature promulgated Act 29 authorizing PSERS to accept QDROs involving a participant’s benefits. This prompted the appellee to file a petition seeking court issuance of a QDRO regarding the appellant’s pension in PSERS. Following a hearing, the court entered an order directing PSERS to honor the appellee’s rights in the appellant’s pension as set forth in the 1986 order, i.e., the appellee is to receive one-half of the appellant’s accrued retirement benefits, payable as of June 30, 1986. This appeal ensued.
+On appeal, the appellant questions “whether Act 29 is being impermissibly applied retroactively to June 30,1986, being the effective valuation date ... or ... is merely a procedural mechanism [t]o enfore[e] the terms of the parties’ Agreement.” Appellant’s Brief at 5. More specifically, it is the appellant’s contention that, since Act 29 applies to the property settlement agreement “entered on or after its effective date” (April 29, 1994), the court’s retroactive application of Act 29 creates a substantive right (appellee’s right to one-half of appellant’s pension) which did not exist on June 30, 1986, under 24 Pa.C.S.A. § 8533 (State pension exempt from any process whatsoever). We disagree and look to Graham v. Graham, 396 Pa.Super. 166, 578 A.2d 459 (1990), for direction.
+In Graham, the husband contested the court’s award of 40.17% of his Pennsylvania State Employees Retirement Plan pension to his wife, as part of her share of the equitable distribution of marital property, on grounds that “provisions in the act [24 Pa.C.S.A. § 8533] governing retirement for school employees preclude attachment.” We disagreed and wrote:
+... husband contends that the legislature’s intent was clear in its all-inclusive statement in 24 Pa.C.S. § 8533 that the pensions are “exempt from levy and sale, garnishment, attachment or any other process whatsoever.”
+We find husband’s argument to be without merit. First, the Divorce Code subsequently was amended on February 12, 1988, after enactment of 24 Pa.C.S. § 8533. 23 P.S. § 401 was inserted, including subsection (k), governing remedies for failure to comply with an order of equitable distribution. It provides in pertinent part:
+(k) If, at any time, a party has failed to comply with an order of equitable distribution, as provided for in this section ... after hearing, the court may, in addition to any other remedy available under the act, in order to effect compliance with its order:
+1) enter judgment;
+2) authorize the taking and seizure of the goods and chattels and collection of the rents and profits of the real and personal tangible and intangible property of the party;
+3) award interest on unpaid installments;
+4) order and direct the transfer or sale of any property required in order to comply with the court’s order;
+5) require security to insure future payments in compliance with the court’s order[.]
+We conclude that this is a clear subsequent expression of intent by the legislature directly contrary to the position and interpretation advocated by husband. Even though it addresses enforcement rather than entry of orders for equitable distribution, 23 P.S. § 401 contemplates attachment of pensions.
+Second, we determine that the resolution of the issue raised by husband is indeed dictated by the supreme court’s holding in Young v. Young, [507 Pa. 40, 488 A.2d 264 (1985) ]. The supreme court set forth two reasons why it did not perceive the legislature as intending to exclude state or municipal pensions from equitable distribution. The court stated:
+[First], “Retirement funds ... are created for the protection not only of the employee, but for the protection of his family as well. Hence, the provisions exempting assignments and attachments contained therein are to relieve the person exempted from the pressure of claims that are hostile to his and to his dependents’ essential needs”, citing Fowler v. Fowler, 116 N.H. 446, 362 A.2d 204, 205, 93 A.L.R.3d 705 (1976).
+[Second], we note that a family loses its ability to spend a portion of its income when that income is deferred and placed in a pension. It would be terribly unfair to read an exemption statute, which was created to protect a pension for the benefit of a retired employee’s family, in such a way that the exemption would bar children or a former spouse from receiving support from the very fund created for their benefit, and would once again deny them the benefits of the income they sacrificed to a pension years before.
+Id., 507 Pa. at 47-50, 488 A.2d at 267-269 (emphasis added).
+We conclude that both the supreme court’s reasons apply to the instant ease. Finally, we note that the supreme court’s reversal of Young specifically concerned whether a court could attach a pension in an order of equitable distribution. Consequently, we conclude that the supreme court has spoken directly on this issue raised by husband when it reversed this court in Young and that we are bound to follow that precedent and reasoning in this instant appeal. Accord Ciliberti v. Ciliberti, 374 Pa.Super. 228, 542 A.2d 580 (1988); Vaughn v. Vaughn, 370 Pa.Super. 333, 536 A.2d 431 (1988).
+396 Pa.Super. at 168-70, 171, 578 A.2d at 460, 461 (Emphasis in original; footnote omitted).
+In accordance with the precepts espoused in Graham, we hold that the Legislature expressed its intention with the enactment of 23 P.S. § 401(k) to allow “attachment of pensions” to satisfy an order of equitable distribution. Therefore, carrying the logic of Young v. Young, 507 Pa. 40, 488 A.2d 264 (1985), and Graham one step farther (i.e., from attachment of a pension to enforcement of a consent order distributing a pension upon pay status), we find that the December 15, 1986, order assigning the appellee rights to the appellant’s pension was valid. The reason for so holding is that the order created an interest (50% share) subjéct to division with the appellant’s acceptance of payment in the future. Therefore, issuance of the QDRO by the court merely implemented (and did not create retroactive) substantive rights relinquished by the appellant to pay 50% of his pension as part of the property settlement agreement of 1986. Stated otherwise, the court’s order directing a QDRO does not affect either party’s substantive rights. Rather, a procedural mechanism (via Act 29) is being implemented to effectuate entitlement to that which the parties had consented to in 1986.
+Order affirmed.
+. 24 Pa.C.S.A. § 8533 provided:
+(a) General rule — Except as provided in subsection (b), the right of a person to a member’s annuity, a State annuity, or retirement allowance, to the return of contributions, any benefit or right accrued or accruing to any person under the provision of this part, and the moneys in the fund are hereby exempt from levy and sale, garnishment, attachment, or any other process whatsoever, and shall be assignable.
+. 24 Pa.C.S.A. § 8533.1.
+. The appealed order of court dated September 8, 1995, reads:
+AND NOW, this 8th day of September, 1995, after hearing on Plaintiff's Petition to enforce settlement agreement, it is hereby ORDERED that Plaintiff's Petition is granted.
+Plaintiff shall prepare a Domestic Relations Order which provides for the following, inter alia:
+a. The portion of the retirement benefits to be assigned to wife shall be one half of the member's accrued benefit payable as of June 30, 1986;
+b. Wife shall be named beneficiary of any death benefits payable by PSERS to the extent of her equitable distribution portion;
+c. If husband elects special option 4, then wife shall receive joint survivor annuity to the extent of her equitable distribution portion. However, husband shall not be required to elect special option 4.
+Plaintiff shall, upon notice to Defendant, present the Domestic Relations Order to the undersigned in motions court.
+. The appellant's argument appears to be one in which the inability of the appellee to invade the PSERS fund in 1986 to collect (immediately) on the December 15, 1986, court order awarding her a 50% share of ■ the appellant’s pension (because of the exempt status of PSERS to attachments, levy, etc.) gave her nothing under the court’s order. As a result, postulates the appellant, enforcement of the December 15th order now by means of Act 29 would be giving retroactive effect to a nullity. See Watrel v. Commonwealth, 513 Pa. 61, 518 A.2d 1158 (1986). We do not agree.
+First, the parties agreed initially in 1986 that the appellee would be entitled to a share (an interest) in property, albeit access was not immediate and would have to await the appellant’s choice of payment schedules. Nonetheless, a right (equitable in nature) had been created in the pension on behalf of the appellee permitting the contempt powers to be used by the court if the appellant’s receipt of pension payments were withheld from the appellee. See 1980 Divorce Code, as amended. See also Graham, supra.
+Second, Act 29 merely provides the appellee the means (procedure) by which to access property (substantive) rights that had accrued as of June 30, 1986.
+. The second issue raised by the appellant is equally meritless. We find that the court’s order of distribution is consistent with Berrington v. Berrington, 534 Pa. 393, 633 A.2d 589 (1993) in that it provides the appellee with 50% of the appellant's accrued retirement benefits, payable as of June 30, 1986. There is no evidence that the appellee is receiving monies acquired subsequent to separation, which Berrington prohibits and has not been contravened here.
