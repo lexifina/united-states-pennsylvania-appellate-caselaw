@@ -1,0 +1,48 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 3220 C.D. 1985"
+decided: "1988-01-29"
+citations: ["113 Pa. Commw. 198", "537 A.2d 375"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Craig, and Senior Judges Barbieri and Kálish, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania, Department of Transportation, Bureau of Driver Licensing, Appellant v. Michael J. Viglione, Jr., Appellee."]
+source_url: "https://static.case.law/pa-commw/113/cases/0198-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1369333
+cites_cases: ["112 Pa. Commonwealth Ct. 303", "112 Pa. Commonwealth Ct. 510", "411 A.2d 571", "413 A.2d 1171", "450 A.2d 235", "484 A.2d 837", "49 Pa. Commonwealth Ct. 407", "50 Pa. Commonwealth Ct. 608", "514 Pa. 411", "67 Pa. Code §77.24", "68 Pa. Commonwealth Ct. 605", "86 Pa. Commonwealth Ct. 215"]
+---
+
+# Commonwealth v. Viglione
+
+## Majority (Judge Craig,)
+
+Opinion by
+Judge Craig,
+The Department of Transportation appeals an order of the Court of Common Pleas of Elk County reversing a one-year suspension of Michael C. Viglione, Jr.s operating privileges for refusing to submit to a breathalyzer test, pursuant to section 1547(b)(2) of the Vehicle Code, 75 Pa. C. S. § 1547(b)(2).
+Viglione appealed the suspension to the court of common pleas, which held that the record did not clearly establish that the arresting officer had warned Viglione that he was required to submit to two breathalyzer tests, and that refusal to do so would result in a twelve-month suspension of his license.
+The record discloses that, on June 14, 1985, State Trooper William Brown observed a vehicle, driven by Viglione, cross the center line of the road on at least two occasions. When Brown stopped the car and interviewed Viglione, the officer noted that Viglione had the scent of alcohol on his breath, that his gait was staggered, and that he was belligerent and uncooperative. The officer arrested Viglione for driving under the influence and transported him to police barracks, where he asked Viglione to submit to a breathalyzer test. Viglione complied. When the officer asked Viglione to submit to a second breathalyzer test, Viglione refused. The officer informed him that failure to take the second test would result in a twelve-month suspension of his operating privileges. Viglione responded belligerently, stating that he did not have to and was not going to take the test. Viglione blew into the tube twice more,' but did not supply a sufficient sample for the machine to operate.
+The trial judge concluded that DOT had failed to establish that Viglione was properly warned of the consequences of refusing to submit to the second breathalyzer test. The judge noted that, under the applicable regulation, 67 Pa. Code §77.24, an officer is required to perform at least two breath tests. Observing that refusal to take the second required test constitutes a refusal under section 1547, the trial judge ruled that the officer had the duty to advise Viglione that he was required to submit to two breath tests, and that refusal to do so would result in a twelve-month license suspension. Finding that the record did not clearly establish that the officer warned. Viglione that he was required to take two tests, the trial court, reversed the license suspension.
+Section 1547(a) provides, in pertinent part:
+(a) General Rule.—Any person who drives, operates or is in actual physical control of the movement of a motor vehicle in this Commonwealth shall be deemed to have given consent to one or more chemical tests of breath, blood or urine for the purpose of determining the alcoholic content of blood or the presence of a controlled substance if a police officer has reasonable grounds to believe the person to have been driving, operating or in actual physical control of the movement of a motor vehicle:
+(1) while under the influence of alcohol or a controlled substance or both. . . .
+Section 1547(b)(2) states: “[I]t shall be the duty of the police officer to inform the person that the persons operating privileges will be suspended upon refusal to submit to chemical testing.” As noted by the trial court, current regulations require police officers to administer, at a minimum, two consecutive actual breath tests and one simulator test, the lower of the two actual test results being the one used for prosecution.
+On appeal, DOT challenges the trial courts holding that police officers must warn licensees, before any test is administered, that they must submit to two breathalyzer examinations or face suspension of their driving privileges.
+Our scope of review of a decision by a trial court in a license suspension case is limited to determining whether the findings of that court are supported by competent evidence, whether erroneous conclusions of law have been made, or whether the decision of the trial court demonstrates a manifest abuse of discretion. Oden v. Commonwealth, 86 Pa. Commonwealth Ct. 215, 484 A.2d 837 (1985).
+In Department of Transportation, Bureau of Traffic Safety v. Sinwell, 68 Pa. Commonwealth Ct. 605, 606-07, 450 A.2d 235, 236 (1982), we noted:
+It is well settled that to establish a prima facie case in support of a Section 1547(b) suspension the Commonwealth must prove the following: (1) that the defendant was placed under arrest upon the charge of driving while intoxicated, and the arresting officer had reasonable grounds to believe the defendant was driving while intoxicated; (2) that he was requested to submit to a breathalyzer test; and (3) he refused to do so. Herring v. Commonwealth, 50 Pa. Commonwealth Ct. 608, 611-12, 413 A.2d 1171, 1173-74 (1980); Department of Transportation, Bureau of Traffic Safety v. Hanes, 49 Pa. Commonwealth Ct. 407, 411 A.2d 571 (1980). Where the issue is raised, the Commonwealth must also establish that it fulfilled its duty under Section 1547(b)(2) of the Code, 75 Pa. C. S. § 1547(b)(2), of warning a driver ‘that [his or her] operating privileges will be suspended or revoked upon refusal to submit to a chemical test.’
+In this case, the record clearly establishes the first three elements identified in Sinwell. On the fourth element, the trial court found that, before Viglione refused to take the second test, Trooper Brown warned him that a second test was required and that a refusal would result in a twelve-month suspension. However, the trial court felt that DOT had not established that the officer had advised Viglione that he was required to take two tests, and that the warning was therefore insufficient under section 1547.
+Our review of the applicable statutes and regulations reveal no requirement that an officer warn a licensee, before testing begins, that two breath tests are required by department regulations. Section 1547(b)(2) requires only that an officer warn that operating privileges “will be suspended upon refusal to submit to chemical testing.”
+Further, the record demonstrates that Viglione readily consented when requested to perform the first breath test. Only after he was advised that a second test was necessary, and that refusal to perform that test would result in a twelve-month license suspension, did Viglione refuse to cooperate. Yet, at the time he refused, the officer had specifically informed Viglione of his obligation to take the test and of the consequences of refusing to do so. There is no meaningful distinction between a warning that two breath tests are required before any test is administered, :as the trial court mandated, and the officers clear warning that a second test was required following the administration of the first test.
+The trial court erred as a matter of law in requiring that the officer was required to warn Viglione, at the outset of the testing procedure, that he must submit to two breath tests or face a license suspension. Trooper Browns warning complied with the requirements of section 1547(b)(2). Accordingly, the decision of the trial court is reversed.
+Order
+Now, January 29, 1988, the decision of the Court of Common Pleas of Elk County, dated October 30, 1985, is reversed.
+In the recent decision of Department of Transportation, Bureau of Traffic Safety v. McFarren, 514 Pa. 411, 525 A.2d 1185, 1188 (1987), the Supreme Court held that, if more than one chemical test is requested, “the police officer must offer sufficient evidence to establish the reasonableness’ of such a request.” However, because 67 Pa. Code §77.24 was promulgated after the events in McFarren, the Supreme Court explicitly excluded consideration of the effect of that regulation in that case. Id. at 415 n. 1, 525 A.2d at 1187 n. 1. '
+Under McFarren, a police officer has unfettered discretion to elect the type of chemical test administered to the licensee: urine, blood, or breath. This court has recently held that, when a police officer requests a licensee to submit to a breath test, the officer must administer the test twice, in accordance with 67 Pa. Code §77.24, Department of Transportation, Bureau of Traffic Safety v. Penich, 112 Pa. Commonwealth Ct. 303, 535 A.2d 296 (1988); and that requests for a second breath test, pursuant to DOT regulation, are per se reasonable under McFarren, Department of Transportation, Bureau of Traffic Safety v. Bush, 112 Pa. Commonwealth Ct. 510, 535 A.2d 754 (1988).
+
+## Concurrence (Senior Judge Kalish:)
+
+Concurring Opinion by
+Senior Judge Kalish:
+I join in this result since the record is clear that the only breathalyzer test administered here, as in the Bush case, was the one under section . 1547(b) of the Vehicle Code for suspension purposes.
