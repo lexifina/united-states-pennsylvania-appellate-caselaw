@@ -1,0 +1,35 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 1582"
+decided: "1973-12-11"
+citations: ["226 Pa. Super. 425"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Weight, P. J., Watkins, Jacobs, Hoffman, Spaulding, Ceiicone, and Spaeth, JJ.", "Weight, P. J., would affirm the judgment below."]
+parties: ["Commonwealth v. Dickerson, Appellant."]
+source_url: "https://static.case.law/pa-super/226/cases/0425-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 807639
+cites_cases: ["217 Pa. Superior Ct. 218", "269 A.2d 352", "290 A.2d 417", "307 A.2d 238", "309 A.2d 784", "388 U.S. 218", "395 U.S. 928", "406 U.S. 682", "408 F.2d 1280", "422 F.2d 1198", "447 Pa. 389", "453 Pa. 547", "454 Pa. 79"]
+---
+
+# Commonwealth v. Dickerson
+
+## Majority (Jacobs, J.,)
+
+Opinion by
+Jacobs, J.,
+The principal issue presented by this appeal is whether the confession given by appellant should have been suppressed because it resulted from an unnecessary delay in taking him before a magistrate. The lower court refused to suppress the confession. We are compelled to reverse.
+At approximately 1:15 a.m. on February 25, 1972, appellant was arrested by police, without a warrant, for the assault and robbery of a woman. He was immediately taken to the scene of the crime where he was identified by several witnesses. Appellant was then transported to the police station. At 3:00 a.m., he was advised of his constitutional rights. He remained silent and was placed in a cell. Twelve hours later, at 3:00 p.m., appellant was questioned and he denied any knowledge of the crime. The questioning stopped at 3:30 p.m. Earlier, appellant had indicated that he desired an attorney to be present at a forthcoming lineup. At 5:50 p.m., an attorney from the Defender Association arrived at the police station and assisted in arranging the lineup, which was held shortly thereafter. After the lineup, the attorney left, but before leaving he presented the police with a printed statement signed by the appellant which requested that the appellant no longer be questioned by them. However, at 6:50 p.m., the police again questioned the appellant after advising him of his constitutional rights. At about 7:15 p.m., the appellant admitted that he had attacked the victim and other women. A formal statement was completed and signed by 10:50 p.m. At 11:00 p.m., appellant was taken before a magistrate for preliminary arraignment.
+Two suppression hearings were held prior to trial. In one, the lower court ruled that the confession given by appellant was admissible at trial. In the other, the lower court ruled that an identification of the appellant at the scene of the crime was also admissible. The appellant was tried, convicted, and sentenced.
+The appellant advances several arguments for excluding his confession from evidence. We find merit in one of them and will not discuss the others. Since the appellant will be given a new trial, we will also discuss the admissibility of the identification testimony.
+At the first suppression hearing, the lower court found the above recited facts. It thus appears that 18 hours elapsed from the time of appellant’s arrest to the time when he admitted guilt. It was more than 21 hours until he signed a formal statement. Only after that was appellant taken to a magistrate.
+Rule 118 of the Pennsylvania Rules of Criminal Procedure directs that “[w]hen a defendant has been arrested without a warrant, he shall be taken without unnecessary delay before the proper issuing authority where a complaint shall be filed against him.” The Pennsylvania Supreme Court, in Commonwealth v. Futch, 447 Pa. 389, 394, 290 A.2d 417, 419 (1972), has construed Rule 118 as requiring that “all evidence obtained during ‘unnecessary delay’ except that which . . . has no reasonable relationship to the delay whatsoever” must be excluded. In Futch, a 14-hour delay between a defendant’s arrest and his presentment to a magistrate was held to be “unnecessary delay.”
+In the present case, where appellant was not taken before a magistrate for more than 21 hours, during which time he made a confession, it is clear that his confession was the product of the delay and should have been suppressed. The Commonwealth had identification of appellant by three eyewitnesses to the crime which gave adequate cause to arrest and it was not necessary to delay in order to get a confession. The court below refused to apply Futch because it concluded in its opinion that “Futch should be applied prospectively only to cases where the operative facts occurred after April 20, 1972 the date of the Futch decision.” In the present case, the confession was obtained on February 25, 1972, more than a month before the date of the Futch decision. Recently, however, in Commonwealth v. Dutton, 453 Pa. 547, 307 A.2d 238 (1973), and Commonwealth v. Wayman, 454 Pa. 79, 309 A.2d 784 (1973), the Pennsylvania Supreme Court has applied Futch to arrests occurring prior to April 20, 1972. In both cases the evidence attributable to the delay was suppressed. Therefore, we must reluctantly reverse and grant a new trial to the appellant, in which the confession given on February 25, 1972, will be excluded from the evidence.
+In a second suppression hearing, the appellant challenged an on-the-scene identification of him made within 20 minutes of the crime by a Mrs. Batey. We find no merit in his argument that the identification was improper. United States v. Wade, 388 U.S. 218 (1967), does not require counsel to be present at this prompt on-the-scene confrontation. United States v. Sanchez, 422 F.2d 1198 (2d Cir. 1970); Russell v. United States, 408 F.2d 1280 (D.C. Cir.), cert. denied, 395 U.S. 928 (1969); see also Kirby v. Illinois, 406 U.S. 682 (1972); Commonwealth v. Hall, 217 Pa. Superior Ct. 218, 269 A.2d 352 (1970). Furthermore, we do not find the confrontation to have been unduly suggestive. Even though the appellant at the time was handcuffed and in a police wagon, Mrs. Batey, who had had substantial opportunity to observe appellant under a street light during the commission of the crime, testified that she had been unable to identify two other suspects who had been brought back to the scene of the crime minutes earlier by police in a similar fashion. However, when the appellant was brought back by police, he was spontaneously identified as the attacker by this witness and two others before the police said anything. Therefore, we find that it was proper for the lower court to refuse to suppress the on-the-scene identification.
+The judgment of sentence is vacated and appellant is granted a new trial.
+Weight, P. J., would affirm the judgment below.
+There appears to have been no administrative reason for the delay.
+In Dutton, appellant was arrested in 1969 and in Wayman, appellant was arrested in 1967.
+At the trial, defendant was identified in court by the other two eyewitnesses as well as Mrs. Batey.
