@@ -1,0 +1,43 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 88 T.D. 1986"
+decided: "1988-06-06"
+citations: ["116 Pa. Commw. 557", "542 A.2d 213"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Doyle and Barry, and Senior Judge Kalish, sitting as a panel of three."]
+parties: ["Glenn G. DeTurk, Appellant v. South Lebanon Township and South Lebanon Township Authority and D & C Spinosa Co., Appellees."]
+source_url: "https://static.case.law/pa-commw/116/cases/0557-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1372424
+cites_cases: ["103 Pa. Commonwealth Ct. 274", "455 A.2d 256", "474 A.2d 1199", "507 A.2d 323", "510 Pa. 158", "71 Pa. Commonwealth Ct. 372", "81 Pa. Commonwealth Ct. 601"]
+---
+
+# DeTurk v. South Lebanon Township
+
+## Majority (Judge Barry,)
+
+Opinion by
+Judge Barry,
+Glenn G. DeTurk (DeTurk) appeals an order of the Court of Common Pleas of Lebanon County which granted the motion of South Lebanon Township (Township) and South Lebanon Township Authority (Authority) for summary judgment. We reverse.
+The Township and the Authority constructed a waste water ' collection, system on Plum Alley, adjacent to DeTurks property. The Township and the Authority hired a contractor to initiate construction of the water collection system. The contractor dug trenches, placed waterlines in the trenches and refilled them. The Townships responsibility was to construct a swale and to complete the sub base construction. After the Township had performed this function, the contractor returned to the alley and placed a layer of asphalt on the alley surface. A few days after the project was completed, the area experienced a heavy rainstorm. The heavy rainfall caused extensive surface water run off to DeTurks garage. DeTurk attempted to remove plywood sheets from the garage. In the process, DeTurk slipped and fell.
+DeTurk filed a complaint against the Authority and the Township which alleged that his injuries were the direct result of negligent construction by the Township and the Authority. The Township filed an answer to this complaint; the Authority did not. Both the Township and the Authority filed a motion for summary judgment on the basis that they were immune from liability for the matters alleged in the complaint. DeTurk also filed for summary judgment against the Authority alleging that the Authority had waived the defense of immunity by not answering in a timely fashion. The trial court granted the motion of the Township and the Authority and denied DeTurks motion.
+In granting the motion for summary judgment the trial court stated that the Township and the Authority were immune from suit under Section 8541 of the Political Subdivision Tort Claims Act (Act), 42 Pa. C. S. §8541. The trial court opined that the actions of the Township and the Authority may fall into the exception involving the dangerous condition of sewers, 42 Pa. C. S. §8542(b)(5), but, that merely, falling into this exception was not a guarantee of relief. The trial court stated that to be entitled to recovery under Section 8542(b)(5) of the Act the:
+plaintiff [must] demonstrate (1) that the complained of dangerous condition created a reasonably foreseeable risk of the kind of injury he sustained, and (2) that Defendants have either actual notice or could reasonably be charged with notice under the circumstance of the complained of condition sufficiently in advance of Plaintiffs accident to take corrective action.
+Opinion of the trial court, September 9, 1986, p. 11. It stated that DeTurks injuries were a foreseeable result of the actions of the Authority and the Township and could be compensable. However, the trial court concluded:
+we are unable to find evidence from which a trier of fact could conclude that the second requirement had been met, or, that Defendant had actual or constructive notice of a dangerous condition in sufficient time to take corrective measures.
+Opinion of the trial court, p. 12. DeTurk appealed this decision.
+He alleges that the trial court erred as a matter of law by granting the motion of the Township and the Authority for summary judgment. He argues that the record raises a question of fact concerning whether the Authority and the Township had notice of the dangerous condition that led to his injuries and that notice is an issue solely for the trier of fact.
+A motion for summary judgment can only be granted if:
+.... [t]he pleading, depositions, answers to interrogatories and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law.
+Pa. R.C.P. 1035(b).
+The trial court must determine whether a genuine dispute as to a material fact exists after an examination of the record in a light most favorable to the non-moving party. Cestari v. School District of Cheltenham Township, 103 Pa. Commonwealth Ct. 274, 520 A.2d 110 (1987). Entry of summary judgment may be granted only in cases where the right is clear and free from doubt. Consumer Party of Pennsylvania v. Commonwealth, 510 Pa. 158, 175, 507 A.2d 323, 331 (1986). The burden of demonstrating that no genuine issue of material fact exists and that one is entitled to judgment as a matter of law, is on the moving party, and the record must be examined in the light most favorable to the non-moving party. Miller v. Leljedal, 71 Pa. Commonwealth Ct. 372, 375, 455 A.2d 256, 257 (1983). We therefore must determine if the Authority and the Township have met their burden of establishing that they are entitled to summary judgment ás a matter of law.
+Section 8541 of the Act provides that no local agency shall be liable for any damages on account of any injury to a person or property caused by the act of the local agency or an employee thereof or any other person. 42 Pa. C. S. §8541. Section 8542 of the Act provides eight exceptions to this grant of immunity. One of these eight exceptions provides that a local agency may be liable for damages for:
+a dangerous condition of the facilities of steam, sewer, water, gas or electric systems owned by the local agency and located within rights-of-way, except that the claimant to recover must establish that the dangerous condition created a reasonably foreseeable risk of the kind of injury which was incurred and that the local agency had actual notice or could reasonably be charged with notice under the circumstance of the dangerous condition at a sufficient time prior to the event to have taken measures to protect against the dangerous condition.
+42 Pa. C. S. §8542(b)(5).
+We agree with the trial court that the construction of the swale by the Township and the Authority places them in the exception from immunity under Section 8542(b)(5). See City of Washington v. Johns, 81 Pa. Commonwealth Ct. 601, 474 A.2d 1199 (1984). However, we disagree with the trial court on the question whether there are any facts that would establish that the Township and the Authority had notice that the sewer system was in a dangerous condition.
+First, the construction of the water system and the swale by the Township and the Authority was for the very purpose of alleviating a known water drainage problem to DeTurks neighbor. Second, the road surface was raised four inches from its previous height. This could be considered, by a trier of fact, as a significant alteration which would be constructive notice of a dangerous condition. It is important to note that the road surface prior to the time the Authority and the Township began repairs was lower than DeTurks property; after the construction the surface was higher. Third, there is evidence that the Township and the Authority specifically attempted to install a water surface system in an attempt to alleviate the residents known problems with run off water. Fourth, the record contains evidence that the contractor damaged the swale during road paving. It is our opinion that the Township and the Authority as parties responsible for the construction of the swale would, or at least should, have been aware of the damage caused by the work. Therefore, since there are factual questions unresolved, summary judgment is not proper in this instance. We therefore reverse the decision of the trial court.
+Order
+Now, June 6, 1988, the order of .the Court of Common Pleas of Lebanon County entered at No. 618 of 1984 and No. 1037 of 1984, dated September 9, 1986, is hereby reversed.
+As we have decided this matter on other grounds we need not address DeTurks other arguments.
