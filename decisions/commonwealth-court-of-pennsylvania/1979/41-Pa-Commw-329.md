@@ -1,0 +1,34 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "915 C.D. 1978"
+decided: "1979-03-20"
+citations: ["41 Pa. Commw. 329"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Wilkinson, Jr., Rogers, Blatt, DiSalle and Craig. Judges Mencer and MacPhail did not participate."]
+parties: ["Jean M. King, Petitioner v. Commonwealth of Pennsylvania and James B. Wilson, Secretary of Transportation et al., Respondents."]
+source_url: "https://static.case.law/pa-commw/41/cases/0329-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1895262
+cites_cases: ["15 Pa. Commonwealth Ct. 328", "266 A. 2d 78", "30 Pa. Commonwealth Ct. 425", "325 A.2d 924", "373 A.2d 1361", "42 U.S.C. §1983", "438 Pa. 506"]
+---
+
+# King v. Commonwealth
+
+## Majority (Judge Wilkinson, Jr.,)
+
+Opinion by
+Judge Wilkinson, Jr.,
+Plaintiff Jean M. King leases residential property from the Commonwealth, Pennsylvania Department of Transportation (Department), under a month-to-month lease in an area designated for future highway construction. On December 13, 1977 the Department notified plaintiff that her existing lease was being can-celled and that she was thereby being offered a new lease with an increased rental prorating payments in lieu of taxes required by Section 2002(c) and (d) of The Administrative Code of 1929, Act of April 9, 1929, P.L. 177, as amended, added by the Act of March 13, 1974, P.L. 194, as amended, 71 P.S. §512(c) and (d) (Act) pursuant to an agreement between the Department and local political subdivisions who are the designated beneficiaries of the payments under the Act.
+Plaintiff thereupon filed a class action complaint in equity in this Court which alleges substantially as follows: (1) that the Act violates the uniformity clause of Article 8, Section 1 of the Pennsylvania Constitution in creating a de facto tax on a leasehold interest; (2) that the Act creates an arbitrary classification of Commonwealth tenants who are subject to payments in lieu of taxes in violation of the due process and equal protection clauses of the fourteenth amendment of the United States Constitution; and (3) that enforcement of the Act violates the federal Civil Eights Act, the Federal Aid Highways Act, the Act itself and The General County Assessment Law. To this complaint, the defendant Secretary of Transportation (hereafter the Secretary) filed preliminary objections in the nature of a demurrer for failure to state a cause of action for which relief can be granted and defendant Eadnor Township School District filed a counterclaim seeking judgments for payments due under the Act to which the plaintiff has filed preliminary objections also in the nature of a demurrer. We have determined the complaint must be dismissed.
+It is our view that the plaintiff’s complaint fails to state a cause of action within equity’s jurisdiction. In order to confer equity jurisdiction in a challenge to a statute, the plaintiff must allege the existence of a substantial question of constitutionality and the absence of an adequate remedy at law. Rochester & Pittsburgh Coal Co. v. Indiana County Board of Assessment and Revision of Taxes, 438 Pa. 506, 266 A. 2d 78 (1970); Vance v. Kassab, 15 Pa. Commonwealth Ct. 328, 325 A.2d 924 (1974).
+It is clear that plaintiff’s constitutional attacks and the Civil Eights Act allegation which is premised upon a constitutional violation must fall in light of this Court’s decision in Radnor Township School District v. Betty, 30 Pa. Commonwealth Ct. 425, 373 A.2d 1361 (1977) wherein this Court expressly rejected each of the constitutional violations alleged here in sustaining judgments against several members of the class plaintiff purports to represent. Plaintiff’s argument that the issue that lessees subject to the Act are treated differently than other Commonwealth lessees was not considered by the Court in Betty, supra, is without merit. Betty clearly held that Commonwealth lessees who rent real property held for highway construction purposes may properly be treated as a class separate from all other lessees without offending the Pennsylvania or United States Constitutions.
+Plaintiff’s remaining allegations, to the extent they purport to state a claim in equity, are without merit. The federal regulations enacted pursuant to the Federal Highways Act which are allegedly violated by the Act merely provide for accounting procedures where payments in lieu of taxes are funnelled through a state agency and do not even obliquely refer to the source of such payments, the manner of their calculation or the means by which they are collected. See 23 C.F.R. 710.304:(d). The allegation that the Act does not give the Secretary the authority to collect payments required by the Act is plainly negatived by Section 512 (d) of the Act which authorizes the Secretary to promulgate regulations “as he deems necessary.” Moreover, to the extent that the factual averments in plaintiff’s complaint relate to the properness of the calculation of these payments, plaintiff has an adequate remedy at law. Plaintiff’s remaining allegation that neither the Secretary nor the political subdivisions have authority under The General County Assessment LaAV to collect payments in lieu of taxes, if it is cognizable at all, merely states the obvious. It is' the Act and not The General County Assessment Law that requires payment in lieu of taxes and confers upon the Secretary the power to enforce its provisions.
+A final matter to be disposed of are the preliminary objections to the counterclaim. In view of the foregoing we conclude that 'the counterclaim of the defendant, Radnor Township School District, is not properly in this Court and we will therefore enter the appropriate order pursuant to 42 Pa. C.S. §5103(a).
+Accordingly, we will enter the following
+Order
+And Now, March 20, 1979, the preliminary objections of James B. Wilson, Secretary of Transportation, are hereby sustained and the complaint of plaintiff Jean M. King is hereby dismissed. With respect to the counterclaim of defendant Radnor Township School District this Court raises sua sponte the question of its jurisdiction to entertain the counterclaim and concludes that jurisdiction lies in the Court of Common Pleas of Delaware County. The above counterclaim is transferred to the Court of Common Pleas of Delaware County pursuant to 42 Pa. C.S. §5103(a). The Chief Clerk shall certify to the Prothonotary of said court a photocopy of the docket entries of the above counterclaim and transmit to him a record thereof.
+42 U.S.C. §1983.
+23 TJ.S.C. §101 et seq., as amended.
+Act of May 22, 1933, P.L. 853, as amended, 72 P.S. §5020-101 et seq.
