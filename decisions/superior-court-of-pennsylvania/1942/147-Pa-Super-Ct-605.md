@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 183"
+decided: "1942-02-28"
+citations: ["147 Pa. Super. Ct. 605"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Stadtfeld, Rhodes, Hirt and Kenworthey, JJ."]
+parties: ["Typhoon Air Conditioning Co., Inc., Appellant, v. Fried et al."]
+source_url: "https://static.case.law/pa-super/147/cases/0605-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1038994
+cites_cases: ["15 Pa. 151", "235 Pa. 443", "3 Watts 331", "334 Pa. 368", "5 A. (2d) 544", "55 Pa. Superior Ct. 440", "84 A. 427"]
+---
+
+# Typhoon Air Conditioning Co. v. Fried
+
+## Majority (Kenworthey, J.,)
+
+Opinion by
+Kenworthey, J.,
+Plaintiff brought this action in assumpsit to recover $1,759.88 (with interest from February 3, 1938, which, at the time of the trial, brought the claim to $2,072.26), being the balance due under a contract, under the terms of which plaintiff agreed to install an air conditioning system in defendants’ theatre. The contract price was $8,200, of which defendants paid, in installments, $6,440.12, leaving the aforesaid balance. Defendants contended and offered evidence to show that the system did not operate as guaranteed, that it was defective and that it would have cost $1,431 to perfect it. The verdict was for defendants. Plaintiff has appealed from the refusal of its motion for a new trial.
+Plaintiff contended it fully performed but, if not, it substantially performed its part of the contract and that it was, therefore, entitled to at least a verdict for the difference between the balance due and what the jury should determine was the cost of perfecting the system, under the equitable doctrine of substantial performance. Defendants, recognizing the validity of the doctrine in general, contended plaintiff was not entitled to the benefit of it here because its failure to complete performance was wilful. There was ample evidence from which the jury could find plaintiff’s failure to complete the job was wilful. The theatre was opened June 25, 1937 and the system did not work properly from the beginning. The first written complaint was made July 3, 1937 and at the trial counsel for plaintiff admitted that “continual complaints” were made thereafter. The evidence indicated that plaintiff knew exactly what was required to perfect the system and, though some of the minor complaints were adjusted, it made no effort to remedy others, particularly the automatic controls. We think this feature of the case was properly left to the jury. The issues of fact whether the system was defective, whether the performance was nevertheless substantial, and what it would cost to perfect the system were all fairly submitted to the jury. But plaintiff complains that the court erred in charging the jury that, if they found the failure to complete the performance was wilful, their verdict should be for defendants.
+The equitable doctrine of substantial performance has been recognized in our cases since Liggett v. Smith, 3 Watts 331. The early history is briefly outlined in the opinion of Mr. Justice Elkin in Pressy v. McCornack, 235 Pa. 443, 446, 84 A. 427. One of the best statements of the rule appears in Danville Bridge Co. v. Pomroy, 15 Pa. 151. It is equally well settled that to entitle a plaintiff to the benefit of the rule, it must be shown that his failure to completely perform was not wilful or tainted with bad faith. Smyers v. Zmitrovitch, 55 Pa. Superior Ct. 440; Insley v. State Mutual Life Assurance Co., 334 Pa. 368, 5 A. (2d) 544. Also, see Restatement, Contracts (1932), Section 275, and 3 Williston, Contracts (1936), Sections 841 to 843 inclusive, where there is a general discussion of the rule and its limitations. Thus, here, a finding by the jury that plaintiff had substantially performed would have entitled it to a verdict for the balance due, less an allowance for the cost of completing the performance, if the jury had not also found its failure was wilful. Under the limitation of the rule, its wilfulness prevents recovery. Professor Williston sounds a warning that, “It is pretty severe doctrine that any conscious deviation from the contract, of however slight importance, is fatal to recovery upon it......” Perhaps it should not be applied where the failure to perform is slight and the balance due under the contract disproportionately large. Suffice it to say we shall meet that problem when it arises.
+After carefully reviewing the evidence and the charge of the court as a whole, we are of the opinion the record contains no reversible error. The assignments of error are overruled and the judgment is affirmed.
+The court said: “Now, members of the jury, if you find that there was a wilful neglect and failure, a deliberate failure, to live up to the contract, then you should come in and render a verdict for the defendant, or, in other words, say ‘We find for the defendant. The defendants do not owe the plaintiffs anything.’ ”
+Mr. Justice Bell, speaking for the court, said: “......where a party, acting honestly, and intending to fulfil his contract, performs it substantially, but fails in some comparatively unimportant particulars, the other party will not be permitted to enjoy the fruits of such imperfect performance, without paying a fair compensation according to the contract, receiving a credit for any loss or inconvenience suffered...... Of course, the indulgence is not to be so stretched as to cover fraud, gross negligence, or obstinate and wilful refusal to fulfil the whole engagement, or even a voluntary and causeless abandonment of it.”
+In a footnote to Section 842, page 2364.
+If at the time suit was commenced defendants had paid only $1,000 instead of $6,440.12, by the strict application of the rule, defendants would acquire the completed system for $2,431 — the $1,000 paid plaintiff plus $1,431 to be paid someone else to complete the work.
