@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 285"
+decided: "1926-03-12"
+citations: ["87 Pa. Super. 270"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, Henderson, Trexler, Keller, Linn and Gawthrop, JJ."]
+parties: ["Swartz et al., Appellants, v. Biben et al."]
+source_url: "https://static.case.law/pa-super/87/cases/0270-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 571197
+cites_cases: ["140 Pa. 632", "148 Pa. 345", "149 Pa. 345", "27 Pa. Superior Ct. 626", "36 Pa. 445", "43 Pa. 373", "72 Pa. Superior Ct. 457"]
+---
+
+# Swartz v. Biben
+
+## Majority (Gawthrop, J.,)
+
+Opinion by
+Gawthrop, J.,
+In this suit in assumpsit the record shows the following: Defendants filed an affidavit of defense on September 25, 1924. The next day plaintiffs filed a rule for judgment for wiant of a sufficient affidavit of defense. On October 14, 1924, the rule was discharged and defendants were directed to file ia supplemental and more specific affidavit of defense within fifteen days, or judgment. On October 30, 1924, a supplemental affidavit of defense was filed. On January 19, 1925, plaintiffs filed a rule for judgment for want of a sufficient supplemental affidavit of defense. On March 16, 1925, this rule was made absolute and judgment was entered for plaintiffs for $725.10'. On March 19, 1925, defendants filed a petition to have the decision reviewed by the appellate division of the court below. On May 28, 1925, the action of the motion judge was approved by the so-called appellate division. On June 3,1925, a certiorari from this court in an appeal by defendants at No. 229, October Term 1925, was filed in the court below. The appeal bond was filed June 4, 1925. On July 12, 1925, the court below revoked its order made May 28,1925, discharged the rule for judgment and ordered the case on the trial list. Plaintiffs brought this appeal and assign for error the order of July 12, 1925. The reason stated by the court below in support of its action was that the rule on which the judgment was entered was not filed until two months and nineteen days after the filing of the supplemental affidavit of defense, whereas, Rule 14, section E, of the court below provides that rules for judgment for want of a sufficient affidavit of defense shall be filed within five days after service. Appellants seek to escape the effect of this rule of the court below by contending that said rule has been more honored in its breach than in its observance, that it has not been customary to enforce it and that therefore it was an abuse of discretion for the court below to enforce the rule in this ease As there is no evidence in the record tending to support the statement of counsel for appellants that Rule 14, section E,, was not enforced, we are of one mind that the reason urged for reversing the order has no merit.
+But in our view there is controlling reason why the order cannot stand. When the order of July 12, 1925, was made defendants had appealed to this court and a certiorari had been lodged in the court below. The effect of that writ was to stay further proceedings in the case in that court until the disposition of défendants’ appeal. A bond has been filed and the appeal was a supersedeas: Ewing v. Thompson, 43 Pa. 373, 376; Roaring Brook Tp. Road, 140 Pa. 632; Com v. Kistler, 149 Pa. 345, 348; First National Bank v. Fair, 72 Pa. Superior Ct. 457, 460; Cox’s Administrator v. Henry, 36 Pa. 445, 446. The practice, sometimes indulged in by lower courts, of modifying (except in matters of form) or reversing orders from which an appeal has been taken, and is pending, is disapproved. Therefore, we are constrained to sustain the assignment of error and reverse the order appealed from.
+The records of this court show that the appeal which defendants took on June 3, 1925, from the judgment entered against them was discontinued by them after the court below struck off the judgment from which they had appealed. The result of our reversal in the present case is that plaintiffs have a judgment against defendants from which the latter no longer have the right to appeal, the time for taking a new appeal having expired. But we observe that the judgment is in a suit in assumpsit by two partners against their co-partners for their share of profits alleged to have been made from various real estate deals, and for an accounting. It is well settled that a settlement of partnership accounts cannot be brought about in an action of assumpsit, unless the partnership was for a single transaction, or all partnership matters have been settled and ia balance determined to be due: Elmer v. Hall, 148 Pa. 345; Burton v. Trainer, 27 Pa. Superior Ct. 626. A bill in equity is the proper remedy: Barton v. Trainer, supra. Assumpsit did not lie in the suit which plaintiffs brought and the judgment against defendants cannot stand. Therefore, while we sustain plaintiffs assignment of error, Ave remit the record to the court below with directions to strike off the judgment against defendants, Avithout prejudice to the right of plaintiffs to proceed in equity.
+The order is reversed.
