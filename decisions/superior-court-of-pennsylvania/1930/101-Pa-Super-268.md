@@ -1,0 +1,41 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 113"
+decided: "1930-12-12"
+citations: ["101 Pa. Super. 268"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Linn, Gawthrop, Cunningham, Baldrige and Whitmore, JJ."]
+parties: ["Miller v. Rosen, Appellant."]
+source_url: "https://static.case.law/pa-super/101/cases/0268-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 692874
+cites_cases: ["206 Pa. 591"]
+---
+
+# Miller v. Rosen
+
+## Majority (Whitmore, J.,)
+
+Opinion by
+Whitmore, J.,
+The plaintiff brought an action in trespass against the defendant, appellant, to recover damages for personal injuries. The jury returned a verdict in favor of the plaintiff and this appeal is from the refusal of the court below to enter judgment n. o. v. in favor of the defendant.
+It appears from the record that the defendant conducted a meat store at 814 Penn Street in the City of Reading. A cellarway led from the sidewalk to the basement of defendant’s store, and when not in use was covered by hvo iron doors of equal width and. length which opened outwardly from the center and which, when closed, were even with and formed a part of the sidewalk in front of the defendant’s show window. The doors extended from about a foot in front of defendant’s show window lengthwise out into the sidewalk about five or six feet.
+At about 5:30 P. M. on December 13, 1927 plaintiff was walking westwardly on Penn Street on the south sidewalk and when he arrived in front of defendant’s store, stopped and stepped on the east cellar door to look into the defendant’s show window. Both cellar doors were closed at the time. He remained there for about one minute, approximately two feet from the show window, and during that time one of the defendant’s employees opened the other cellar door, upon which plaintiff was not standing. The plaintiff testified that no warning was given to him and that when he turned to go away he did not look toward the pavement but took one step and fell into the opening The employee of the defendant who opened the cellar door testified that he gave warning to the plaintiff to look out, or words to that effect, but this the plaintiff denied and, therefore, it became a question of fact for the jury to pass upon.
+It is the contention of the appellant that the plaintiff was guilty of contributory negligence as a matter of law by failing to observe the open cellarway before taking the one step that caused him to fall into the open cellarway.
+The cases cited in appellant’s brief are not analagous to the case at bar. In those cases the accidents occurred in broad daylight- and the defects in the sidewalk or pavement were of such character that had the injured party observed ordinary precaution the accident could have been avoided. Here we have a case where the plaintiff was attracted to the show window, stopped for less than a minute, and during that time an employee of the defendant opened one of the cellar doors within a few inches of plaintiff’s feet, thereby creating a dangerous condition on the instant, and where none existed at the time the plaintiff stepped in front of the show window, and as properly stated by the learned court below, the plaintiff had a right to assume that the defendant would not do anything without reasonable warning to him that would place him in peril, much less open a hole at his very feet. The plaintiff had a perfect right to be where he was at the time, at defendant’s implied invitation.
+In many cases of accidents to pedestrians the courts have refused to decide contributory negligence as a matter of law but have held- that, under the circumstances of the particular case, it was for the jury to determine whether a reasonably careful person, having regard to all the things that properly occupy the attention of the pedestrian, should have seen the opening or obstruction. If this opening had existed at the time the plaintiff stepped in front of the show window it would present an entirely different case for consideration on the question of contributory negligence.
+In Ford v. Philadelphia, 45 Pa. Superior Court p. 404, this court held:
+“The reasonable care which the law exacts of all persons in whatever they do, involving the risk of injury, requires travelers on the footway of public streets to look where they are going, but this does not necessarily imply that the pedestrian must keep his eyes constantly and at every moment upon the pavement. If there is a conflict of testimony or, for any cause, there is a reasonable doubt as to the facts, or as to the inferences to be drawn from the facts established by the evidence, the contributory negligence of the pedestrian is a question for the jury.”
+In Gorman v. Philadelphia, 82 Pa. Superior Court, 136-139, this court held:
+“The exercise of care according to the- circumstances does not require that a person walking along the sidewalk of a city should keep his vision glued to the sidewalk immediately in front of his toes; he must look where he is going and the duty is upon him to exercise reasonable care to avoid collision with others whose right to use the sidewalk is equal to his own. The fact that the claimant was not looking at that part of the sidewalk upon which she proposed to set down her feet as she took each step, was not sufficient to convict her of contributory negligence.
+We are in accord with the appellee’s contention that the plaintiff, without fault on his part, was exposed to an unusual and unforseen danger.
+The appellee cites Bashford v. Rosenbaum Hardware Company, 90 S. E. (Virginia) 625, in which the facts are similar to those of the case at bar, where it was held:
+The plaintiff could not be declared guilty of contributory negligence as a matter of law because of the absence of reason to expect danger. In that case the plaintiff approached defendant’s store in the daytime, saw the closed cellar doors and paused several feet from them to look in the show window. While plaintiff’s face was toward the window a boy came from the store, opened the doors and hung the guard chain between them. Plaintiff stepped backward to get a better view of the window, tripped against the guard chain and fell into the cellar hole. The court said:
+“The fact that plaintiff had been there before and knew of these doors in the sidewalk, is of no importance in the case for the obvious reason .that there is a manifest distinction between knowledge of a defect or obstruction in a street or sidewalk which is at all times dangerous and knowledge of an opening to a cellar which, when closed, is perfectly safe. There is no dispute in this case that there was absolutely no danger to the. plaintiff as long as the doors over the cellar remained closed, and it was only when one of the doors was negligently opened behind him without notice, that the place became dangerous.......These windows are supposedly to attract the attention of the passer-by, and the plaintiff was only doing what men of ordinary care continually do .......and when, in taking a step backward into a hole in the sidewalk, which had negligently been opened behind him and left exposed, without notice or warning to him, such conduct does not, as a matter of law, constitute negligence. ’ ’.
+In Frazier v. McLiesh, 99 Pa. Superior Court p. 168, this court held:
+“The jury had a right to conclude that the plaintiff could rely upon the assumption that the sidewalk upon which she was proceeding was in such condition that it might be safely traversed without any danger of falling into an open and unprotected hole.”
+In the case before us the plaintiff had the same right to conclude that the cellar doors, upon one of which he was standing, would not he opened without .proper notice and warning to him.
+It is only in clear eases where the facts and the inferences to be drawn from them are free from doubt that the court is warranted in saying that there was contributory negligence. See Iseminger v. York Haven W. & P. Co., 206 Pa. 591.
+We find no error on the part of the learned court below and the assignment of error is, therefore, dismissed and the judgment affirmed at the cost of the appellant
