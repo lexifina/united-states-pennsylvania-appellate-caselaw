@@ -1,0 +1,36 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 545 C.D. 1973"
+decided: "1973-11-23"
+citations: ["11 Pa. Commw. 81"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Mencer, Rogers and Blatt."]
+parties: ["Pocono Downs, Inc., Appellant, v. Board for the Assessment and Revision of Taxes for Luzerne County, Appellee."]
+source_url: "https://static.case.law/pa-commw/11/cases/0081-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1857035
+cites_cases: ["180 A. 2d 900", "213 A. 2d 268", "294 A. 2d 226", "354 Pa. 317", "361 Pa. 231", "407 Pa. 567", "419 Pa. 31", "47 A. 2d 227", "6 Pa. Commonwealth Ct. 187", "64 A. 2d 769"]
+---
+
+# Pocono Downs, Inc. v. Board for the Assessment & Revision of Taxes
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+Pocono Downs, Inc., a horse racing establishment, appealed to the Court of Common Pleas of Luzerne County from the assessment of its realty for local tax purposes for the triennium beginning with 1969. Prior to 1969, the property was assessed at $1,555,670. An increase of the assessment to $2,087,060 for the ensuing triennium occasioned the appeal. After hearing, the court below fixed the assessment at $1,838,667, being 35% of market value found by the court to be $5,253,-333.
+At the trial below the taxpayer’s expert real estate appraiser gave as his opinion of the market value the figure $3,600,000, which he reached by capitalizing at 15% the yearly net operating income of the horse racing establishment, which income he believed should reasonably be considered to be $538,000 per year.
+The Board of Assessment and Revision of Taxes relied upon the testimony of its Director, also an expert, who gave as his final opinion of fair market value the figure $5,947,162, thus supporting the new assessment. His estimate of value was reached by capitalizing net operating income, using, however, $676,358 as income and 12.9% as the rate. He added to this figure his value, based upon sales of comparable properties, of appellant’s land, and deducted an amount for physical deterioration, finally arriving at $5,947,162.
+The court below in fixing its value also capitalized net income, using however for net income $550,000, which it capitalized at 12%. It also added land value to reach its market value of $5,253,333. Its assessment of $1,838,667 represented a reduction in the taxpayer’s assessment of more than $200,000.
+Where an assessment is appealed to the common pleas court, it is the court’s duty to “direct the application of the ratio . . . [generally used in the taxing district] ... to the value of the property which is the subject matter of the appeal.” Act of June 28, 1931, P. L. 1379 §9, as amended, 72 P.S. §5350. We have held, on the authority of our Supreme Court, that the proceedings before the court below are de novo and that it is the court’s duty on the basis of competent, credible and relevant evidence to determine the market value of the property. Our review of the court’s determination is therefore very limited. Thus we stated in Pittsburgh Miracle Mile Town and Country Shopping Center, Inc. Tax Appeals, 6 Pa. Commonwealth Ct. 187, 196, 294 A. 2d 226, 231 (1972) “The dimensions of our review in this kind of case are small. The findings of the court of common pleas must be given great force and may not be set aside by us unless clear error appears.”
+The appellant’s first contention is that the court erred in dismissing its motion to strike the Board’s expert’s valuation testimony as having been based materially upon reproduction costs less depreciation. It is not supported in the record. The witness in question testified in direct examination to the deliberations which lead to Ms opinion of market value, none of which included reproduction costs. On cross-examination he conceded that he knew of the cost of the improvements and that he “correlated” this information with his opinion of value, arrived at otherwise, to ensure that he had not advanced a figure in excess of an amount for which the plant could be reproduced. TMs was not improper. Chestnut Street Tax Assessment Case, 361 Pa. 231, 64 A. 2d 769 (1949).
+The appellant next objects to the court’s use of 12% in capitalizing the taxpayers net income. There is competent and credible evidence in the record for the application of a 12% capitalization figure. The appellant’s expert testified that a 10 to 12 percent capitalization figure is used to value properties under favorable and strongly secured leases. The only justification given for the use by the appellant’s expert of the high rate of 15% was the alleged insecurity of the appellant’s racing license. The court below properly observed that there was little prospect of the Commonwealth’s reversing its allowance of horse racing and that the license in fact afforded security against competition.
+The appellant’s remaining arguments are somewhat difficult to follow. It takes exception to the court’s use of $550,000 as net operating income because tlie court described it as a “projected average per annum net income” figure. The actual average net operating income for the years 1969 through 1971 was $606,700. We interpret the court’s description of the $550,000 figure as indicating its belief that it is a fair figure to use although less than the average because the net income for the years in question was on a downward trend. It seems to us that the appellant was helped, not harmed, by this.
+The appellant’s final argument is that the court should have deducted from its final figure for fair market value an amount representing physical deterioration of the improvements. The court below simply capitalized at a 12% rate, supported in the record, a net operating income figure substantially less than appellant’s average net income and added to this result a figure for land value based on market information. The appellant seems to argue that the court should have made a further deduction for deterioration because the county’s expert did so in order to bring his final valuation in line with the Board’s. Justification of the court’s failure to follow this example is found in the fact that neither did the appellant’s expert.
+In conclusion, we repeat and adopt the entirely appropriate language of Justice Patterson in Chestnut Street Tax Assessment Case, supra, 361 Pa. at 234, 64 A. 2d at 770: “In tax assessment cases, the findings of the court below determining the value of the property will not be disturbed on appeal unless clear error is made to appear. Felin v. Philadelphia, 354 Pa. 317, 319, 47 A. 2d 227 (1946). Upon a review of the entire i’ecord we are not convinced that the court below committed such error.”
+Order affirmed.
+This being tbe ratio of assessment to market value employed in Luzerne County.
+It is recognized that the assessment of $2,087,060 is slightly in excess of 35% of $5,947,162. This is accounted for by the addition in 1970 of a building assessed for $5,560.
+Held improper in Buhl Foundation v. Board of Assessment, 407 Pa. 567, 180 A. 2d 900 (1962) ; Pennsylvania Northern Lights Shoppers City Appeal, 419 Pa. 31, 213 A. 2d 268 (1965).
