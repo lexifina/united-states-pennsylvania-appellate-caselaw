@@ -1,0 +1,44 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "708 and 943"
+decided: "1988-01-06"
+citations: ["369 Pa. Super. 467", "535 A.2d 645"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CIRILLO, President Judge, and WIEAND and OLSZEWSKI, JJ.", "Dissenting statement by WIEAND, J."]
+parties: ["COMMONWEALTH of Pennsylvania, Appellant, v. Earl B. WILKINS, Appellee. COMMONWEALTH of Pennsylvania, Appellee, v. Earl B. WILKINS, Appellant."]
+source_url: "https://static.case.law/pa-super/369/cases/0467-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 686332
+cites_cases: ["346 Pa.Super. 599", "368 Pa.Super. 255", "513 Pa. 508", "516 Pa. 21", "516 Pa. 365", "531 A.2d 1111", "532 A.2d 775"]
+---
+
+# Commonwealth v. Wilkins
+
+## Majority (OLSZEWSKI, Judge:)
+
+OLSZEWSKI, Judge:
+These are appeals from the judgment of sentence entered after the trial court found appellant-Wilkins guilty of aggravated assault and possession of an instrument of crime. Appellant-Commonwealth presents one issue for our review: whether the trial court abused its discretion by imposing a standard-range sentence under the sentencing guidelines. In his cross-appeal, appellant-Wilkins presents two issues for our review: (1) whether the sentencing guidelines were adopted in violation of the bicameral consideration and gubernatorial presentment provisions of the Pennsylvania Constitution and the separation of powers doctrine; and (2) whether the deadly weapon enhancement provision of the sentencing guidelines is unconstitutional. For the reason stated below, we must vacate Wilkins’s sentence and remand for resentencing.
+Following a bench trial, the trial court found Wilkins guilty of aggravated assault and possession of an instrument of crime. Post-verdict motions were filed and denied. Wilkins was then sentenced to 28 to 56 months’ imprisonment. The Commonwealth and Wilkins each filed a petition to reconsider sentence. Both petitions were denied and both parties subsequently appealed to the trial court, which dismissed the appeals. The Commonwealth and Wilkins both filed timely appeals to this Court which have been consolidated.
+With respect to Wilkins’s appeal, Wilkins first contends that the sentencing guidelines were adopted in violation of the bicameral consideration and gubernatorial presentment provisions of the Pennsylvania Constitution and the separation of powers doctrine. Wilkins, however, has failed to preserve this issue for our review. Wilkins waived this issue by failing to raise it in the trial court at sentencing or in his petition to reconsider sentence. See Commonwealth v. Sessoms, 516 Pa. 365, 532 A.2d 775 (1987).
+Wilkins’s next contention is that the deadly weapon enhancement provision of the sentencing guidelines is unconstitutional. An examination of the record reveals that this issue was raised in the trial court and, consequently, is properly before us for review. See N.T. 12/22/86 at 56. In light of our Supreme Court’s recent invalidation of the sentencing guidelines in Sessoms, supra, we are constrained to find that the trial court acted improperly when it gave appellant an enhanced sentence pursuant to the deadly weapon enhancement provision of the sentencing guidelines. See Commonwealth v. Taylor, 516 Pa. 21, 531 A.2d 1111 (1987) (in view of recent invalidation of sentencing guidelines, trial court properly refused to apply the deadly weapon enhancement provision of the sentencing guidelines).
+Accordingly, the judgment of sentence is vacated and the matter is remanded for resentencing. Jurisdiction is relinquished.
+Dissenting statement by WIEAND, J.
+. 42 Pa.C.S.A. § 9721, 204 Pa.Code § 303.1, et seq.
+. 204 Pa.Code § 303.4.
+. Appellant’s sentence on the aggravated assault conviction was enhanced under § 303.4 of the sentencing guidelines. 204 Pa.Code § 303.4 (deadly weapon enhancement). Section 303.4 provides that when a defendant possesses a deadly weapon, the court must add at least 12 months, and up to 24 months, confinement to the guideline sentence range which would otherwise have been applicable. Appellant was not sentenced on the possession of an instrument of crime charge by virtue of the merger doctrine.
+. Specifically, appellant, relying on this Court’s decision in Commonwealth v. Taylor, 346 Pa.Super. 599, 500 A.2d 110 (1985) (en banc), argues that the deadly weapon enhancement provision of the sentencing guidelines is both unconstitutionally vague and overbroad. We recognize, however, that a panel of this Court has recently stated that Sessoms, supra, applies only to challenges to the constitutionality of the procedure by which the sentencing guidelines were adopted. See Commonwealth v. Wallace, 368 Pa.Super. 255, 533 A.2d 1051 (1987). The panel explained in Wallace that:
+The focus in Sessoms was upon the constitutionality of the mechanism by which the Sentencing Guidelines were adopted. The Supreme Court held that the process was flawed insofar as it failed to comply with the requirements delineated in Art. Ill section 9 of the Pennsylvania Constitution, dealing with "bicameral consideration and presentment for gubernatorial approval.” Sessoms, supra, 516 Pa. at 371-372, 532 A.2d at 778. Appellant herein has not challenged this .aspect of the Guidelines and has limited his argument to the areas of vagueness and overbreadth.
+Wallace, supra, 368 Pa.Superior Ct. at 262, n. 3, 533 A.2d at 1054, n. 3. The panel, consequently, concluded that Sessoms did not apply to the Wallace case.
+Our review of this Court's decision in Taylor, supra, however, fails to disclose where appellant in that case raised the issue of the constitutionality of the deadly weapon enhancement provision on the basis of lack of "bicameral consideration” or "presentment for gubernatorial approval”. Nonetheless, on appeal to the Pennsylvania Supreme Court, this Court’s decision in Taylor was affirmed on the basis of Sessoms. Our Supreme Court upheld the trial court’s refusal to apply the deadly weapon enhancement provision in light of the fact that the sentencing guidelines were recently held invalid in Sessoms. Similarly, we find that Sessoms also applies to the instant case. While we find the panel’s reasoning in Wallace to be persuasive, we are required to follow our Supreme Court’s order in Taylor.
+. We must determine, however, whether Wilkins has properly presented this claim in accordance with our Supreme Court’s recent decision in Commonwealth v. Tuladziecki, 513 Pa. 508, 522 A.2d 17 (1987). In Tuladziecki, the Court mandated that a party appealing the discretionary aspects of a sentence comply with the requirement of Pa.R.A.P. 2119(f) that an appellant's brief set forth a "concise statement of the reasons relied upon for allowance of appeal.”
+Instantly, Wilkins’s brief fails to comply with the requirement of Pa.R.A.P. 2119(f) as it does not contain a separate section stating "the reasons relied upon for allowance of appeal with respect to the discretionary aspects of [appellant's] sentence.’’ Because appellee has failed to object, however, to this procedural violation, the defect in appellant’s brief is waived. Consequently, we will, in an exercise of our discretion, determine whether there is a substantial issue presented which requires review of the sentence imposed. As previously noted, Wilkins contends that the deadly weapon enhancement provision of the sentencing guidelines is unconstitutional. We deem this attack on the validity of that provision of the guidelines to be of substantial importance and, therefore, we will allow this appeal.
+We further note that it is arguable that Tuladziecki does not apply if one presumes that appellant’s constitutional attack on a provision of the sentencing guidelines implicates the legality, rather than a discretionary aspect of the sentence imposed. We do not believe, however, that Wilkins’s claim of constitutionality raises the "legality” of his sentence. In our opinion, a constitutional challenge to the sentencing guidelines does not render an otherwise legal sentence illegal or unconstitutional. Importantly, even if the guidelines were removed from the court’s consideration, the court would still have legal authority to sentence within the statutory limits. For these reasons, we find that Wilkins’s issue is subject to the requirements set forth in Tuladziecki.
+. In light of our disposition of Wilkins’s appeal (No. 943 Philadelphia 1987), we find it unnecessary to address the merits of the Commonwealth’s contentions in the appeal at No. 708 Philadelphia 1987.
+
+## Dissent (WIEAND, Judge,)
+
+WIEAND, Judge,
+dissenting:
+I respectfully dissent. I find no abuse of the sentencing court’s discretion and, therefore, would affirm the judgment of sentence.
