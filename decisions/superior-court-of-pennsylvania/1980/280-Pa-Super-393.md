@@ -1,0 +1,45 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "764"
+decided: "1980-08-15"
+citations: ["280 Pa. Super. 393", "421 A.2d 779"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WICKERSHAM, BROSKY and EAGEN, JJ"]
+parties: ["COMMONWEALTH of Pennsylvania v. William D. YOUNG, Appellant."]
+source_url: "https://static.case.law/pa-super/280/cases/0393-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 151325
+cites_cases: ["155 A.2d 825", "397 Pa. 575", "462 Pa. 409", "465 Pa. 482", "472 Pa. 259", "477 Pa. 156", "479 Pa. 629", "483 Pa. 266"]
+---
+
+# Commonwealth v. Young
+
+## Majority (PER CURIAM:)
+
+PER CURIAM:
+William D. Young, appellant, was tried non-jury in the Court of Common Pleas of Montgomery County and convicted of retail theft third or subsequent offense and criminal conspiracy. After the verdict was rendered, the court advised Young of his rights regarding post-verdict motions. None were filed. At sentencing, defense counsel, who was privately retained, stated to the court that Young could no longer afford counsel; that Young had been unable to pay to have the record transcribed and, as a result, no post-verdict motions had been filed; and, that counsel wished to present oral motions to protect Young’s appellate rights or, alternatively, wished a continuance so Young could obtain court-appointed counsel. The court ruled the post-verdict motions were untimely and proceeded to impose a judgment of sentence of two to five years imprisonment. The court suspended the sentence on the other conviction. The court then advised Young of his appellate rights. The public defender undertook representation of Young and filed this appeal on his behalf.
+Young argues that trial counsel was ineffective in not filing post-verdict motions challenging the sufficiency of the evidence to support the verdict. The trial court has filed an opinion in which it reasoned that, since Young was advised of his right to file post-verdict motions and of his right to free counsel if he could not afford counsel to file the motions and since Young made no request for counsel and filed no motions, he had waived his right to do so.
+Since Young is represented on appeal for the first time by counsel other than trial counsel who is claimed to have been ineffective, the ineffectiveness issue is properly presented. Commonwealth v. LaSane, 479 Pa. 629, 389 A.2d 48 (1978).
+As noted before, Young argues that counsel was ineffective for not preserving for review the claim that the evidence was insufficient to support the verdict. We must first determine if the claim has arguable merit. Commonwealth v. Hubbard, 472 Pa. 259, 372 A.2d 687 (1977).
+In connection with the conviction for retail theft third or subsequent offense, Young argues the evidence was insufficient because the Commonwealth failed to establish a prior conviction. Proof of a prior conviction is not an element of the crime, and no proof of it was required at trial. 18 Pa.C.S.A. § 3929; Commonwealth v. Dickinson, 1758 October 1978, Superior Court (Per Curiam, Memorandum Opinion), allocatur denied May 5, 1980, citing Commonwealth v. Koczwara, 397 Pa. 575, 155 A.2d 825 (1959).
+In connection with the convictions for conspiracy and retail theft, Young argues the evidence did not connect him to the conspiracy and, hence, did not establish his guilt of either crime.
+The test for evaluating the sufficiency of the evidence is whether, viewing the entire record in the light most favorable to the Commonwealth, a finder of fact could reasonably have found all elements of the crime charged had been proven beyond a reasonable doubt. Commonwealth v. Dolfi, 483 Pa. 266, 396 A.2d 635 (1979); Commonwealth v. Roux, 465 Pa. 482, 350 A.2d 867 (1976). So viewed the evidence establishes the following:
+On June 10,1978, at approximately noon, Joseph Martinez, a security guard at the Gimbel’s store in Cheltenham, observed Young, with a group of five persons, remove clothes from one rack and place them on another closer to the door. Martinez completed work at about five o’clock that day, but, before leaving the store and as a result of his observation, he advised Simon Klein, a guard under Martinez’s supervision, to be on the lookout for the group of people whom he described.
+At 7:20, Klein observed four persons come into the store together. They matched the description that Klein had been given. The four split into two groups. One group composed of two of Young’s co-defendants, namely Davis and Bradley, went to one department while Young was observed in an adjoining department. The departments were separated by a partition. Davis and Bradley took approximately $1400 worth of dresses from a rack and were observed by Klein as they did so. They then went around the partition, passing two registers, where they dropped the dresses and met Young. The three then proceeded to walk out of the store, but, in doing so, they passed Klein who was using a telephone to request assistance. As they went by Klein, Davis cursed at Klein and he responded by asking: “What did you say?” The three proceeded on but then Bradley and Young turned around and came back to Klein. As Young watched from a short distance, Bradley menacingly went up to Klein and asked: “What did you say to my friend?” Klein responded: “I did not say anything. I asked him what he said to me.” Bradley hit the telephone knocking off the connection and stood by Klein for about a minute. The three then left.
+Outside the three were observed together looking over the parking lot apparently to locate a vehicle.
+Specifically, Young claims this evidence did not establish a shared criminal intent or unlawful agreement essential to establishing a conspiracy.
+“An unlawful agreement or an agreement to do a lawful act in an unlawful manner is an essential element of a conspiracy, and the agreement among co-conspirators is the nexus which makes each member criminally responsible for acts of the others in furtherance of the conspiracy.”
+Commonwealth v. Dolfi, supra 483 Pa. at 271, 396 A.2d at 637. This essential element may be established by wholly circumstantial evidence, such as the relations, conduct, or circumstances of the parties or overt acts on the part of co-conspirators. Commonwealth v. Roux, supra.
+Clearly, the evidence instantly allows an inference beyond a reasonable doubt that Young was a party of an unlawful agreement. First, Young’s overall conduct showed he was part of a group. Second, his act of moving dresses early in the day constitutes an overt act designed to further the unlawful plan. Finally, his returning with Bradley to confront Klein eliminates any doubt that his other acts and conduct create only suspicion and conjecture. His conduct clearly shows he was part of the group and joined in the agreement.
+Young’s overt act of moving dresses distinguishes this case from Commonwealth v. Menginie, 477 Pa. 156, 383 A.2d 870 (1978), where our Supreme Court found no acts or conduct by Menginie to link him to a conspiracy to kill or inflict serious bodily injury.
+Since the evidence was clearly sufficient to support the verdict, trial counsel cannot be deemed ineffective for failing to raise the sufficiency in post-verdict motions.
+Accordingly, the judgment of sentence is affirmed.
+. Young also argues we should remand for post-verdict motions to be filed because trial counsel’s representations at sentencing show the only reason motions were not filed was the lack of funds and, hence an effective waiver did not occur. But Young fails to explain his failure to request court-appointed counsel before the time period in which to file post-verdict motions expired, and he does not claim he did not understand the court’s advice that free counsel cquld be appointed.
+Furthermore, while Young claims that he was in effect without counsel during the period and that, hence, no effective waiver could have occurred, the existence of a record showing he was advised of his right to free counsel differentiates this situation from those instances where, because of the absence of counsel, it was ruled a waiver did not occur. See, e. g. Commonwealth v. Fiero, 462 Pa. 409, 341 A.2d 448 (1975); Post Conviction Hearing Act, Act of January 25, 1966, P.L. (1965) 1580, § 4, 19 P.S. § 1180^ (Supp. 1979-80).
+In any event, since we will examine the sufficiency claim to determine if it has arguable merit in order to determine if counsel was ineffective and since allowing that issue to be waived is the sole basis for counsel’s alleged ineffectiveness, no prejudice will result.
+.' The prior conviction was stipulated to after the verdict but before sentencing. Moreover, the court in announcing its verdict graded the offense as a misdemeanor of the first degree because of the value of goods involved. 18 Pa.C.S.A. § 3929(b)(4).
+. Certain members of the group, who were all males, were impersonating females.
+. Klein lost track of the fourth person.
+. See 18 Pa.C.S.A. §§ 903(a) and 306(d).
