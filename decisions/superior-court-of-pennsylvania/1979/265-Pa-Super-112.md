@@ -1,0 +1,69 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2465"
+decided: "1979-04-12"
+citations: ["265 Pa. Super. 112", "401 A.2d 826"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before JACOBS, President Judge, and HOFFMAN, CER-CONE, PRICE, VAN der VOORT, SPAETH and HESTER, JJ.", "JACOBS, former President Judge, and HOFFMAN, J., did not participate in the consideration or decision in this case."]
+parties: ["COMMONWEALTH of Pennsylvania v. Leroy HADDEN, Appellant."]
+source_url: "https://static.case.law/pa-super/265/cases/0112-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 122090
+cites_cases: ["283 A.2d 285", "290 A.2d 417", "291 A.2d 103", "311 A.2d 620", "319 A.2d 419", "332 A.2d 809", "371 U.S. 471", "384 U.S. 436", "445 Pa. 435", "447 Pa. 389", "447 Pa. 457", "454 Pa. 337", "455 Pa. 569", "460 Pa. 247", "471 Pa. 256", "471 Pa. 278", "471 Pa. 34", "472 Pa. 95"]
+---
+
+# Commonwealth v. Hadden
+
+## Majority (SPAETH, Judge:)
+
+SPAETH, Judge:
+This is an appeal from judgments of sentence on convictions of four counts of burglary and two counts of conspiracy. The Crimes Code, Act of Dec. 6, 1972, P.L. 1482, No. 334, § 1, 18 Pa.C.S.A. §§ 3502 and 903, respectively.
+-1-
+Appellant first argues that an incriminating statement was taken from him in violation of Pa.R.Crim.P. 130, which relates to speedy preliminary hearings.
+Appellant was initially arrested at 6:45 p. m. on January 18, 1977, not for the four burglaries at issue here, but for a different one. At some time before his arraignment, which was at 10:10 a. m. on January 19, he made an incriminating statement relative to that different burglary. When appellant failed to make the $5,000 bail set at his preliminary arraignment, he was returned to police custody. Almost immediately, at 10:30, the police began questioning appellant about his possible involvement in various other burglaries. Appellant began to incriminate himself shortly thereafter. At 1:00 p. m. he signed a formal statement, and at 5:00 p. m. he was arraigned for the four burglaries at issue here.
+Under Commonwealth v. Williams, 455 Pa. 569, 319 A.2d 419 (1974), a statement given before the preliminary arraignment must be suppressed if the preliminary arraignment was unnecessarily delayed, the statement is prejudicial, and the giving of the statement was reasonably related to the delay. Appellant argues that in defining the amount of delay here we must start from the time of his initial arrest at 6:45 p. m. on the 18th, and must therefore suppress his second statement, which incriminated him in the four burglaries, as the product of undue delay.
+A similar issue confronted the Supreme Court in Commonwealth v. Wiggins, 472 Pa. 95, 371 A.2d 207 (1977). In that case the facts were as follows. The defendant was arrested at 5:45 a. m. on November 21 on a charge of rape. By 8:00 a. m. he had made an oral confession, not only of the rape in question but also of other rapes. For the next six and one-half hours the police continued to gather evidence against the defendant, transporting him to the neighborhood where the rapes had occurred and taking a formal statement from him. During this time the police began to suspect that the defendant had been involved in a murder, and, almost 11 hours after his arrest, told him he would be transported to homicide headquarters. At that point the defendant made an incriminating statement regarding the murder. Later, at 12:30 a. m. on November 22, he made another incriminating statement regarding the murder. He was not arraigned on any of the charges until after 3:30 a. m. On appeal from his conviction of murder, the defendant argued that his preliminary arraignment on the rape charges had been unnecessarily delayed, and that if he had been promptly arraigned, he would not have been in police custody later and would not have made the statements that incriminated him in the murder; therefore, he reasoned, those statements should have been suppressed. Three justices, in an opinion by Mr. Justice POMEROY, which assumed an unlawful delay, said that
+this is not a case where the police intentionally prolonged custodial inquiry into one crime in order to gain evidence against the defendant in another; rather this is a case where the police in the course of interrogation of one crime chanced upon evidence connecting the defendant to a totally different crime. Under these circumstances, the deterrent purpose of Futeh would not be served by excluding Wiggins’ statements .
+472 Pa. at 108, 371 A.2d at 213.
+The other three justices, in an opinion by Mr. Justice ROBERTS, adopting a “but-for” test, said that the delay was unlawful, and that the murder statements should have been suppressed as fruits of the delay:
+If the evidencfe obtained bears a relationship to the unnecessary delay, the deterrent purposes [of the Futch rule] are served. The question should be whether the evidence is related to the unnecessary delay, not whether the reason for the delay was to obtain the particular evidence produced.
+. Only through the exploitation of information gained during improper pre-arraignment delay did the police obtain an oral admission from appellant concerning another crime.
+Id, 472 Pa. at 112, 113, 371 A.2d at 215.
+Given the Supreme Court’s division, the precedential effect of Wiggins is unclear. However, we hold that under the facts of this case, the admission of appellant’s statement did not violate the concern expressed either by Mr. Justice POMEROY or by Mr. Justice ROBERTS. There is no evidence that the police, while questioning appellant about the first burglary, began to suspect him of involvement in the four burglaries at issue here. Thus, the police did not “intentionally prolong [ ] custodial inquiry into one crime in order to gain evidence against the defendant in another,” which is the conduct condemned by Mr. Justice POMEROY. Further, the police conduct here did not violate the “but-for” test of Mr. Justice ROBERTS. When appellant made the statements at issue here, the unlawful delay of arraignment on the first burglary charge had ended. Appellant had been arraigned, and, having been unable to make bail, was being held on that charge; his situation would have been identical if there had been no pre-arraignment delay at all. Absent any indication that the subsequent questioning was based on “information gained during improper pre-arraignment delay,” his statements do not represent “exploitation” of such an illegality. Thus the deterrent purpose of Futch would not be served by suppressing appellant’s statement.
+-2-
+Appellant next argues that his statement about the four burglaries should have been suppressed because he was not properly warned of his rights under Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966).
+Before interrogation on the evening of the 18th, appellant was advised of his Miranda rights, and he does not now dispute the validity of his waiver at that point. During arraignment for the first burglary, appellant was again advised of his Miranda rights, and he signed a printed form, which is in the record, indicating that he understood them. Immediately after arraignment, when the police began to question appellant about the unsolved burglaries, a detective asked appellant if he had been advised of his rights and remembered them. Appellant said yes. Later, before taking appellant’s written statement, the detective determined that appellant had completed the 11th grade and could read English, and then had him read a written statement of his rights.
+Appellant argues that before taking his written statement, the detective was obliged to advise him of his Miranda rights; the advice given at his arraignment for the first burglary, he notes, pertained to another charge; and in his view, it was not enough for the detective simply to ask him to read a written statement of his rights rather than having the rights recited aloud to appellant. No doubt the detective might have recited appellant’s rights. However, appellant’s arraignment for the first burglary had just concluded, and during that arraignment appellant had been advised of his rights, in addition to having been advised of them before interrogation the night before. There is no requirement that Miranda rights be read aloud to one who can read them himself. The essential requirement is that the person in custody be informed of his rights in such a manner as to assure that he understands them. We believe that requirement was met here.
+-3-
+Finally, appellant argues that the lower court erred when at trial it did not permit cross-examination aimed at showing that the police had learned the identity of a key Commonwealth witness from appellant’s first statement, that is, from the statement that was later suppressed. Appellant argues that if he had been able to show that the suppressed statement was the source of the information about the witness, the witness’s testimony would be suppressible as the fruit of an illegality. Wong Sun v. United States, 371 U.S. 471, 83 S.Ct. 407, 9 L.Ed.2d 441 (1963). Then, to salvage the testimony, the Commonwealth would have had the burden of showing the absence of a causal nexus between the illegality and the statement. Commonwealth v. Barnett, 471 Pa. 34, 369 A.2d 1180 (1977), Commonwealth v. Wright, 460 Pa. 247, 332 A.2d 809 (1975).
+This argument is without merit, for it is apparent on the face of the record that the Commonwealth did not learn the witness’s identity from appellant’s first statement. In appellant’s second statement — the one we have here held admissible — appellant said:
+Q. You also admitted to a burglary where you and another black man were in the yellow VW and were seen by a neighbor. Will you tell me about this burglary?
+A. Yes. I was with a man who I will not identify . . .
+(Emphasis supplied)
+Appellant would not have said this if he had identified his companion in his first statement. Appellant refers to the following testimony to support his allegation that his first statement put the police on the witness’s trial:
+Q. [By appellant’s counsel] Now, Mr. Tyree [the witness], when you gave the statement on the 25th, that was right after the police told you that my particular client had implicated you, is that correct?
+A. I admitted this burglary on my own.
+Q. Answer the question, sir?
+A. I answered the question the best way I could.
+Q. That’s not responsive to my question at all.
+A. I gave a statement in reference to this burglary on my own.
+N.T. May 26, 1977, No. 377.2, 377.3 at 78.
+It may be seen, however, that this only shows a question by counsel to the effect that the statement had identified appellant’s companion; a question by counsel is not testimony; the witness himself did not acknowledge the accuracy of what counsel said. Furthermore, the very next question, by appellant’s counsel, shatters appellant’s argument:
+Q. Now, answer my question. My question is, when you gave this statement it was immediately after the Lower Merion Township Police misled you into believing that my client had implicated you in certain burglaries, isn’t that correct?
+Id., at 78-79 (emphasis supplied).
+Since there was no causal connection between appellant’s first statement and the testimony of the witness, the lower court’s refusal to let appellant try to show such a connection was not reversible error. See, Commonwealth v. Marabel, 445 Pa. 435, 283 A.2d 285 (1971).
+Affirmed.
+JACOBS, former President Judge, and HOFFMAN, J., did not participate in the consideration or decision in this case.
+. The lower court later suppressed this statement as taken in violation of Commonwealth v. Futch, 447 Pa. 389, 290 A.2d 417 (1972). At the time, the statement was taken, Commonwealth v. Davenport, 471 Pa. 278, 370 A.2d 301 (1977), had not yet been decided; therefore, its six-hour limit on custody without arraignment is not involved here.
+. Former Chief Justice JONES did not participate.
+. It appears that when the police began to question appellant after his arraignment on the first burglary, their questions were not at the outset directed to specific burglaries but were rather based on an unsolved crimes list. Appellant testified:
+A. He [Detective Hunsicker] brought this — they got this thing with burglaries on it, he brought these into me. He said, well, you give us a statement of some more burglaries you did; he said, I’ll make sure you get your medicine.
+Q. [By appellant’s counsel] Did you know what what they were? How big were the sheets of paper?
+A. It was on this plaque, you know, they had unsolved burglaries on this plaque. And, you know, he told me to look at them and I looked at them.
+So, I said, yea. It was a lot of them, you know, I said I’ll cop out to all of them, just give me, you know, my medicine.
+N.T. Suppression Hearing at 47 — 48.
+. Appellant also argues that his statement was not voluntary. The suppression hearing judge believed the Commonwealth’s witnesses that appellant showed no signs of the effect of a few hours’ delay in receiving his methadone dose; that he was not promised medical treatment and a blanket if he gave a statement; and that there were no open windows in appellant’s cell. Since there is support for these findings in the record, we shall not disturb the lower court’s ruling. See Commonwealth v. Cornish, 471 Pa. 256, 370 A.2d 291 (1977); Commonwealth v. Moore, 454 Pa. 337, 311 A.2d 620 (1972); Commonwealth v. Smith, 447 Pa. 457, 291 A.2d 103 (1972).
+. See note 1, supra.
+. The police had independent knowledge that two men were involved in the burglary. Thus it cannot be argued that appellant’s statement might have triggered the search for the second man.
