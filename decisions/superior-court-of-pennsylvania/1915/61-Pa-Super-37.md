@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 270"
+decided: "1915-10-11"
+citations: ["61 Pa. Super. 37"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Orlady, Head, Kephart and Trexler, JJ."]
+parties: ["Luella Coal & Coke Company v. Gano, Appellant."]
+source_url: "https://static.case.law/pa-super/61/cases/0037-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 453562
+cites_cases: ["123 Pa. 576", "137 Pa. 1", "141 Pa. 184", "147 Pa. 607", "169 Pa. 167", "18 Pa. Superior Ct. 186", "203 Pa. 144", "216 Pa. 292", "237 Pa. 77", "24 Pa. Superior Ct. 339", "33 Pa. Superior Ct. 87", "44 Pa. Superior Ct. 114", "48 Pa. Superior Ct. 171", "50 Pa. Superior Ct. 72", "56 Pa. Superior Ct. 97", "7 Pa. Superior Ct. 568", "91 Pa. 92"]
+---
+
+# Luella Coal & Coke Co. v. Gano
+
+## Majority (Kephart, J.,)
+
+Opinion by
+Kephart, J.,
+This was an action brought to recover the price of slack coal sold to the defendant. The affidavit of defense averred that the coal was of “inferior quality and character containing a large amount of foreign matter,” such as “rubbish, rock, slate,” etc. When the coal reached its destination, Cleveland, it was rejected by the defendant, and the plaintiff was thereupon notified. To prevent demurrage and reduce the plaintiff’s loss, defendant paid the freight and demurrage and sold the coal to a company in Lorain, Ohio, “for the best price obtainable,” being twenty cents per net ton less than the price agreed to be paid to the plaintiff. It was necessary to pay a switching charge of $71.53, and the demurrage above referred to of $59, which, with the loss per ton, and $25.31 in addition, settled the account in full. The court below held the affidavit insufficient. Had the defendant stood upon its rejection of the coal, it would have been clearly within its legal right. It did not buy the coal sent and would not have been compelled to have received it or become liable in any manner therefor. Even if it was liable for the freight charges, this was no lien on the coal. This is true of the charge for demurrage. Defendant could not become subrogated to the rights of the railroad company as a lien creditor in this respect. The defendant took the coal and exhibited acts of ownership of it. Its subsequent disposition of it was at its own risk. It is admitted that when the coal was accepted defendant knew it was of inferior quality. When a vendee of a certain kind or class of goods has an opportunity to inspect them before acceptance, and after such inspection, knowing their inferior quality, takes the goods and disposes of them, he will be liable for the contract price: Noble v. Erwin, 50 Pa. Superior Ct. 72; Armstrong v. Descalzi, 48 Pa. Superior Ct. 171; Estes v. Kauffman, 44 Pa. Superior Ct. 114. Under this latter case the claim for freight was held improper and is authority for so holding the claim for demurrage.
+The. opinion of the lower court does'not consider the averment in the affidavit of defense with respect to the receipt of the check for $25.31, which the plaintiff still retains. We have nothing on the record to show that it was returned or that some agreement had been made concerning it between the parties or their counsel. The plaintiff claims there was, but the defendant argued, both orally and in its printed brief, that the receipt and retention of the check would prevent summary judgment. Under the rules taken by appellee this would, in our opinion, be sufficient to prevent, such judgment. Plaintiff cannot keep the check and sue for the full amount of the claim. It should act in a manner consistent with the tender of the check, and if tendered in full it should have been returned. The affidavit does not contain a positive statement that the check was given and accepted as being in full payment of a disputed account, though the appellant claims it was so intended. The averment “being the entire amount due” is a legal conclusion. It would be necessary to enlarge the affidavit of defense to give it the meaning contended for by the appellant. “Where money (a check) is sent by a debtor to a creditor to apply on a disputed claim, with notice that it is to be in full settlement of a larger demand, the debtor will be discharged if the creditor receive the money: Washington Gas Co. v. Johnson, 123 Pa. 576; Ziegler v. McFarland, 147 Pa. 607; Christman v. Martin, 7 Pa. Superior Ct. 568”; Bernstein v. Hirsch, 33 Pa. Superior Ct. 87. The defendant had the right to stipulate the conditions on which the check was sent and it would be a good tender unless objections were made at the time it was presented on the ground of it being a check. The affidavit is not clear enough on this point. The averment is, however, sufficient to prevent a summary judgment for the full amount of the claim or for any amount as asked for in the rule taken by the appellee.
+The judgment is reversed and a procedendo awarded.
