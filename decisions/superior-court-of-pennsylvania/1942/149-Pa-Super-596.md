@@ -1,0 +1,37 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 112"
+decided: "1942-07-23"
+citations: ["149 Pa. Super. 596"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Stadfeld, Hirt and Kenworthey, JJ."]
+parties: ["Wheeler, Admrx., v. National Nayle Grip Company, Appellant."]
+source_url: "https://static.case.law/pa-super/149/cases/0596-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1043217
+cites_cases: ["113 Pa. Superior Ct. 388", "126 Pa. Superior Ct. 229", "126 Pa. Superior Ct. 488", "174 A. 9", "190 A. 550", "191 A. 222"]
+---
+
+# Wheeler v. National Nayle Grip Co.
+
+## Majority (Kenworthey, J.,)
+
+Opinion by
+Kenworthey, J.,
+On October 10, 1931, claimant sustained a com-pensable accident. After receiving compensation under an open agreement for some time, a supplemental agreement was entered into providing for payments under Sec. 306(c) (Act of June 2, 1915, P. L. 736, art. III, as amended, April 13, 1927, P. L. 186, sec. 1) for the loss of a leg. Before the expiration of this agreement, claimant filed a petition for modification under the first paragraph of Sec. 413 (Act of June 2, 1915, P. L. 730) art. IV, as amended, April 13, 1927, P. E. 186, sec. 6), on the ground it had been executed under a mistake of fact; He offered evidence that, at the time it was executed, he was totally disabled by a disease or condition, separate and apart from the injury to the leg, which was unknown to him and the employer. The principal issue of fact was whether the condition was caused by the accident:
+The referee concluded claimant was suffering from multiple sclerosis in no way connected with the accident. On appeal, the former board, which went out of office July 1, 1939, reversed the referee, found that “The claimant’s disability is due to the accident,” and made an award.
+On August 25,1939, the employer filed a petition with the present board for “re-argument,” alleging that the findings and conclusions of the former board were void because not made until August 4, 1939, and therefore, after that body’s jurisdiction had ended.
+On September 28, 1939, the present board refused the petition for re-argument.
+On November 2, 1939, without any further petition, 'the present board reversed itself and made an order granting a re-argument.
+On June 21, 1940, the present board filed an opinion in which it, in effect, although not expressly, found that the findings and conclusions of the former board were void, ignored them and made an order affirming the dis-allowance of the referee.
+On appeal, the court of common pleas reversed and entered judgment on the award of the former board.
+The judgment will be affirmed.
+The record reveals that the opinion of the former board bears two dates — “June 27, 1939,” written by hand, and beneath it “August 4, 1939,” stamped., There was no evidence that the opinion was not filed until August 4, 1939; the presumption is it was filed in time. We adopt the following paragraph from the opinion of the court below: “As the official record stands before us, it shows that the opinion was filed on June 27, 1939 and that it was sent out to the parties concerned on August 4, 1939. The only evidence to the contrary are certain allegations by A. A. Rorig, Resident Claims Agent for the insurance carrier for the defendant, without any competent legal evidence in support of the same. To all these allegations, claimant filed denial and in turn offerfed] to show that the opinion in fact was signed and filed before the expiration of the terms of office of the former members of the Board. So the first question must be answered that the Board as constituted before July 1, 1939, did not attempt to function after the expiration of the terms of their office, and that their opinion under date of June 27, 1939 was legal and proper.”
+The testimony of the numerous experts was conflicting. In our opinion, it was sufficient to sustain a finding of fact either way. The experts called by the employer were of the opinion that claimant was suffering from an organic disease of the central nervous system known as multiple sclerosis or disseminated sclerosis not of traumatic origin. Experts called by the claimant were not entirely in agreement as to whether the disease was multiple sclerosis or traumatic neurosis. But, irrespective of the exact nature of it, they were clearly of the opinion that the accident was its cause. Dr. Weibel testified: “Q. Would you want to make a positive statement Doctor, that this man’s present condition is directly traceable, is either directly or indirectly traceable to the injury to his knee and operations following that? A. I would say that it is.” Dr. Darling testified: “Q. Do you feel that the neurosis that Mr. Wheeler had at the timé of your examination is due to the accidental injury which he received on or about October 10, 1931 and the subsequent operations necessitated by that injury? A. That series of events with their attendant physical distress and his mental attitude towards them seem to me definite causative factors.” Dr. Summerville, called by the referee, testified : “......in view of the fact that as we do not have any definite and positive etiology of disseminated sclerosis and this man had developed a disseminated sclerosis following the accident, the only logical conclusion to arrive at is that the accident and the subsequent shock to his nervous system by the number of anesthetics and so on which were necessary for this patient to have, that the accident is the greatest factor, if not the entire factor, of this condition.” It is not our function to weigh the conflicting opinions of these experts; that was exclusively for the board. Puzio v. Susquehanna Collieries Co., 126 Pa. Superior Ct. 488, 191 A. 222.
+The next question is whether the present board, after refusing the petition for re-argument on September 28, 1939, from which action no appeal was taken, had the power to reverse itself and grant a re-argument on its own motion after thé time for taking an appeal had expired. Clearly it had not. (Compare Estate of Core, 113 Pa. Superior Ct. 388, 174 A. 9). And if the order of November 2, 1939 were to be construed as an order for rehearing under Sec. 426 (Act of June 2, 1915, P. L. 736, art. IV, as amended, 77 PS 871) the board was without power to grant it on its own motion because the section limits its power to granting a rehearing “upon petition of any party.”
+The final contention is that the-lower court had no power to enter judgment on the award, but should have returned the record for further hearing. But we have frequently held that where the only questions involved are questions of law and a determination of them finally disposes of the case, it is not necessary to return the record, but it is the court’s duty to enter judgment. McGrath v. Herzog et al., 126 Pa. Superior Ct. 229, 233, 190 A. 550.
+The judgment is affirmed.
+His administratrix was substituted as party claimant after his death which occurred while the appeal was pending in the common pleas.
+Claimant’s petition was originally dismissed by Referee Walker and the dismissal was affirmed by the board for the same reason. Thereafter, upon claimant’s petition for rehearing, the case was remanded to Referee Beshlin, who likewise dismissed the petition.
