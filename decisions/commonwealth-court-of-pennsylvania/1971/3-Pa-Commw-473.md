@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 136 C. D. 1970"
+decided: "1971-12-03"
+citations: ["3 Pa. Commw. 473"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman, and Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Mencer and Rogers."]
+parties: ["Department of Transportation v. P. U. C. et al."]
+source_url: "https://static.case.law/pa-commw/3/cases/0473-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1846625
+cites_cases: ["25 A. 2d 566", "344 Pa. 473"]
+---
+
+# Department of Transportation v. P. U. C.
+
+## Majority (Judge Wilkinson,)
+
+Opinion by
+Judge Wilkinson,
+This is an appeal from an Order of the Public Utility Commission (Commission) issued October 5, 1970. The proceedings before the Commission were initiated by the City of Harrisburg (City) by the filing of a complaint which averred, inter alia, that the 17th Street bridge over the tracks of the Lebanon Valley branch of the Reading Company had deteriorated to such a point that public safety required its replacement. The cost of replacing the bridge was estimated to be $368,-000, and the City asked that the cost of such replacement be allocated among the Pennsylvania Department of Transportation (PennDOT), the County of Dauphin, the Reading Company, and the City. The bridge had been constructed in 1909 by the City and the Reading-Company. It extends over two main tracks and one siding track. The bridge is a two-lane structure for traffic with pedestrian walkways on each side. It is in close proximity to Interstate 83, a major interstate artery passing through the City, constructed in 1961, with exit and entrance ramps at the southern end of the bridge. By March 26, 1969, the bridge had deteriorated to the point that it was temporarily closed to traffic.
+In response to the City’s complaint, a hearing was held by the Commission on September 2, 1969. Following this hearing, the Commission entered an order requiring that the City repair the bridge as soon as possible so that it would safely support traffic not exceeding four tons, that the City submit plans and cost estimates for rebuilding the bridge, and that a hearing be held thereafter to approve the plans and allocate the cost. On June 22, 1970, a hearing was held to consider the plans submitted by the City and testimony was submitted concerned primarily with the need for a new bridge, the type of structure, and the allocation of the estimated cost of construction in the amount of $368,-000.
+On October 5, 1970, the Commission ordered the bridge rebuilt and costs were allocated among the parties. The County of Dauphin was ordered to pay $70,-000 of the total cost, the Reading Company $30,000, and PennDOT $150,000. The City was ordered to pay all remaining costs for reconstruction of the bridge. It is from this order that PennDOT appeals.
+There are two issues raised by PennDOT in this appeal: first, whether the Commission may legally allocate any of the cost of a highway-rail improvement against PennDOT where the bridge and highway passing over it are not, and never have been, a part of the State Highway system; second, whether the Commission in the instant appeal abused its discretion in allocating $150,000 of the highway-rail crossing improvement cost to the Commonwealth.
+Taking the issues in the order presented, we agree with the Commission and the appellees that the Commission has the jurisdiction and power to allocate costs to PennDOT. The Commission’s authority to act in this case is found in Sections 409 and 411 of the Public Utility Code, Act of May 28, 1937, P. L. 1053, Art. IY, as amended, 66 P.S. §§1179 and 1181. Section 409(c) gives the Commission exclusive power to order any highway-rail crossing relocated, altered, or abolished and, in addition, order such work to be performed in whole or in part by any public utility or municipal corporation or by the Commonwealth. There is no limitation in this section restricting the Commission’s jurisdiction over the Commonwealth to those highway-rail crossings that involve only highways that are part of the State Highway system. This section gives the Commission jurisdiction over the Commonwealth to impose costs under Section 411 regardless of the designation of the highway involved, i.e., State highway, county road, or township road.
+PennDOT argues that the Act of May 6, 1970, P. L. , No. 120, 71 P.S. §511 et seq., creating the Department of Transportation, limits its ability to dispense money for the highway-rail crossing involved. This position is without merit. Neither Section 12 nor Section 21 of the Act of May 6, 1970, supra, which are the only sections concerned with the disbursement of funds, prohibits the use of PennDOT’s funds for the highway-rail crossing in the present case. Section 21(c) states: “Effective July 1, 1970, the act of May 1, 1929, (P. L. 1046) entitled ‘An act appropriating the moneys in the Motor License Fund’, is repealed in order that the General Assembly shall have the power and the duty to make appropriations from the Motor License Fund within the limitations established by Article VIII, section 11 of the Pennsylvania Constitution and section 2001.2 of this act.” Section 12 states:
+“. . . Section 2001.2. Prohibition of Diversion of Funds. — Dispersement of funds from the Motor License Fund shall be limited as follows:
+It is the sense of the Legislature that, although the Department of Transportation includes within its purview not only the former Department of Highways but also other boards, bureaus, commissions and instrumentalities as well, Article VIII, section 11 of the Constitution of Pennsylvania 1968 must be unequivocally adhered to.
+Thus, all proceeds therein enumerated are to be used solely and exclusively for the purposes and to the extent provided therein.” Article VIII, Section 11 of the 1968 Constitution of Pennsylvania provides that all proceeds derived from taxes and fees involving motor vehicles shall be used solely for “public highways and bridges.”
+In reviewing the cited portions of the Act of May 6, 1970 and the Constitution, it is clear that the funds administered by PennDOT are not restricted from use with respect to the highway-rail crossing involved, but rather may not be used for private highways or bridges which situation is not before us in this appeal.
+PennDOT also argues that Sections 409 and 411 cannot apply to it because it does not “own” the highway involved in the crossing. This argument is also without merit because the effect of Section 409 is not limited to “owners”. Assuming, arguendo, that it was so limited, PennDOT would still come under Section 409 because the highways of the Commonwealth, except those privately owned, are the property of the State. Shapera v. Allegheny County, 344 Pa. 473, 475, 25 A. 2d 566, 567 (1941).
+With regard to PennDOT’s second contention, we have reviewed the record and find no abuse of discretion on the part of the Commission in allocating costs.
+Order affirmed.
