@@ -1,0 +1,35 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 68"
+decided: "1949-07-15"
+citations: ["165 Pa. Super. 244"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, Arnold and Fine, JJ. (Ross, J., absent. )"]
+parties: ["Nesbert, Appellant, v. Nesbert."]
+source_url: "https://static.case.law/pa-super/165/cases/0244-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 467328
+cites_cases: ["109 Pa. Superior Ct. 45", "128 Pa. Superior Ct. 423", "144 Pa. Superior Ct. 372", "158 Pa. Superior Ct. 384", "159 Pa. Superior Ct. 637", "161 Pa. Superior Ct. 119", "165 A. 769", "19 A. 2d 480", "194 A. 229", "352 Pa. 173", "42 A. 2d 609", "45 A. 2d 389", "49 A. 2d 875", "53 A. 2d 833"]
+---
+
+# Nesbert v. Nesbert
+
+## Majority (Dithrich, J.,)
+
+Opinion by
+Dithrich, J.,
+Libellant has appealed from a decree dismissing her libel in divorce a mensa et thoro. The libel charged constructive desertion, cruel and barbarous treatment, and indignities to the person, but at the trial reliance was placed almost entirely on indignities.
+It is well settled that the proof required must be as clearly established in an action a mensa et thoro as in an action for absolute divorce. Jones v. Jones, 144 Pa. Superior Ct. 372, 19 A. 2d 480; Arnold v. Arnold, 128 Pa. Superior Ct. 423, 194 A. 229. It is equally well settled that where such a charge is made, the law contemplates a course of conduct or continued treatment manifesting settled hate and estrangement. “. . . altercations, . . . incompatability of temper, or manifestation of temporary irritation, are too petty and trifling to justify the granting of a divorce”: Knox v. Knox, 109 Pa. Superior Ct. 45, 48, 165 A. 769.
+The parties were married in 1929 when libellant was 17 and respondent 31. Within the year a daughter was born. She is presently with her mother. For about two years following their marriage they resided with libellant’s parents, upon the insistence of libellant. In 1931 they went housekeeping in an apartment in a three-story building — purchased prior to the marriage by respondent, his brother, and a third party — on Carson Street, South Side, Pittsburgh. The first floor was rented as office space to two physicians; the Nesberts lived in a four-room apartment on the second floor and respondent used the third floor as a studio. He is a portrait painter and a muralist and at the times complained of was an art instructor at the Art Institute of Pittsburgh. The building was heavily mortgaged and although all of the rents were applied to the reduction of the mortgage the building could not be made self-sustaining; consequently, the mortgage was foreclosed in 1941.
+Although libellant instituted this proceeding by filing her libel February 14,1936, she continued to occupy the apartment with her husband until March 17,1938, when she returned to the home of her parents, taking the child with her. She first charged in the libel that respondent had “Maliciously turned [her] . . . out of doors,” but after living with him for more than two years following the filing of her libel, she testified, when the case came on for trial, more than nine years later, to wit, September 4,1947, that she was forced to leave, him because he had made life miserable for her and refused to support her.
+She testified that respondent had a net income of more than $400 a month, but the owner of the Art Institute of Pittsburgh, called by her as a witness, testified that during the depression years respondent’s earnings at the Institute, based on an hourly rate, did not exceed $15 a week. Concerning certain murals which the respondent was commissioned to paint in the Allegheny County Court House, libellant testified that he received a very large sum of money for this work. But the testimony of the respondent, and it was supported by figures from the office of the county controller, showed that the gross commission for painting the murals, which took about four years, was $7,000 and that after deducting expenses the commission netted about $3,000. We agree with the learned trial judge that “in a depression the income of an art teacher, portrait painter, and.muralist would be probably one of the first to suffer.”
+Judge Kennedy, in the course of his opinion, said: “It is not strictly the obligation of the Hearing Judge to attempt to establish a reason why the Libellant, . . . was unwilling to cooperate with the Bespondent during the difficult depression years of their early married life. It might be conjectured that she had a close parental complex and desired to spend considerable of her time with them and her brothers and sisters. It may be that she was not interested in her husband’s profession as an artist and its concomitants, namely, music, drama, etc. She may have found in the circumstances that life with the Bespondent was incompatible, but she has not proven she was subjected to any indignities that would make the normal wife’s life burdensome and intolerable.” Our independent review of the evidence has brought us to the same conclusion.
+Judge Kennedy commented on the significant fact that: “Libellant’s sole corroborating witness is . . . her sister, Regina Palmer, now aged 31. This witness testified that on occasions between 1931 and 1938 she visited the apartment and observed that her sister was nervous and that the Respondent seemed to take no interest in her. Bearing in mind that this witness was in her middle teen age and probably still attending school, and that further her testimony was not given until practically ten years after the separation, it can be given only slight weight.
+“It might be well to mention at this time that while the evidence on behalf of the Libellant shows that there was lack of harmony between her husband and her parents, and further that they, or at least her mother visited the apartment on numerous occasions, . . . neither of her parents was called as a supporting witness.” On the other hand an aunt and two cousins of libellant testified for the respondent.
+In Tanner v. Tanner, 159 Pa. Superior Ct. 637, 49 A. 2d 875, in affirming a decree dismissing a libel, we said, speaking through Baldrige, P. J., at page 639:
+“If we could accept as verity the version given by the wife of their matrimonial life and her troubles, we could readily dispose of this appeal, but after a study of the testimony we, like the lower court, have the distinct impression that she, in her zeal to impress us with her misfortunes, has magnified her husband’s shortcomings and given us a distorted account of the actual facts.
+“. . . The burden was on this libellant to establish by clear and satisfactory evidence that she was entitled to have the marriage contract annulled [citing cases], and this she has failed to do.”
+See, also, McKrell v. McKrell, 352 Pa. 173, 42 A. 2d 609; Othmer v. Othmer, 158 Pa. Superior Ct. 384, 45 A. 2d 389; Porter v. Porter, 161 Pa. Superior Ct. 119, 53 A. 2d 833.
+Decree affirmed.
