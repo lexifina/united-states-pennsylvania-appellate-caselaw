@@ -1,0 +1,54 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 233 C.D. 1988"
+decided: "1989-03-02"
+citations: ["124 Pa. Commw. 17", "555 A.2d 275"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges BARRY and Smith, and Senior Judge NARICK, sitting as a panel of three."]
+parties: ["Furnco Construction Corporation and Travelers Insurance Company, Petitioners v. Workmen's Compensation Appeal Board (Dorogy), Respondents."]
+source_url: "https://static.case.law/pa-commw/124/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1385187
+cites_cases: ["419 A.2d 225", "423 A.2d 817", "497 Pa. 115", "512 Pa. 377", "517 A.2d 523", "53 Pa. Commonwealth Ct. 617", "55 Pa. Commonwealth Ct. 618"]
+---
+
+# Furnco Construction Corp. v. Workmen's Compensation Appeal Board
+
+## Majority (Senior Judge Narick,)
+
+Opinion by
+Senior Judge Narick,
+Furnco Construction Company (Employer) appeals an order of the Workmen’s Compensation Appeal Board (Board) which affirmed a referee’s decision that William E. Dorogy (Claimant) was totally disabled due to asbestosis and silicosis contracted during the course of his employment. We affirm.
+Claimant was first employed as a salaried foreman by Employer in 1962. The contract for hire was made in Monessen, Pennsylvania. Employer’s home office is in New York, and it has no Pennsylvania office. Claimant’s job as foreman, and later, as a supervisor, required that he travel from job to job in and outside of Pennsylvania. Claimant never worked out of Employer’s New York office, but received all assignments at his Pennsylvania residence.
+Claimant’s managerial position required him to work with industrial bricklayers who lined blast furnaces and open hearths. He was constantly subjected to the hazards of silica and asbestos. Claimant worked for Employer for seventeen years, but, due to cardiac problems, resigned on April 27, 1979.
+On February 23, 1984, Michael E. Wald, M.D., examined Claimant and advised him that he was totally disabled due to asbestosis and silicosis. Claimant timely notified Employer and filed for benefits.
+At the referee’s hearing, Claimant introduced the testimony of Dr. Wald, which indicated that Claimant’s pulmonary disease was totally disabling. Claimant also testified as to the specifics of his employment.
+Employer presented the testimony of C. Vaughn Strimlan, M.D. Dr. Strimlan related Claimant’s significant history of exposure. Dr. Strimlan described the restrictive pulmonary changes and that the X-ray findings were consistent with silicosis and/or asbestosis, but he did not believe Claimant was totally disabled from the pulmonary diseases. Employer also introduced Claimant’s work assignments in Pennsylvania in 1977-1979.
+The referee carefully considered the evidence, both medical and lay, and found, in accordance with Dr. Wald, that the Claimant was totally disabled due to his work exposures.
+The Employer appealed to the Board, which affirmed the referee’s granting of benefits and this appeal followed.
+Our scope of review is limited to determining whether or not there has been an error of law or a violation of constitutional rights and whether or not the necessary findings of fact are supported by substantial evidence. Section 704 of the Administrative Agency Law, 2 Pa. C. S. 704; Estate of McGovern v. State Employees’ Retirement Board, 512 Pa. 377, 517 A.2d 523 (1986).
+Employer’s argument focuses on Claimant’s burden of proving all the necessary elements to support an award of benefits under the Act. Stegner v. Canterbury Coal Co. et al., 53 Pa. Commonwealth Ct. 617, 419 A.2d 225 (1980).
+Employer argues that Claimant has the burden to meet both the jurisdictional requirements under Section 305.2 of the Act, 77 P.S. §411.2 and the minimum exposure requirements of Section 301(d), 77 P.S. §412.
+As to the jurisdictional requirements of Section 305.2, the referee found that Claimant entered into a contract with Employer in Monessen, Pennsylvania, where he was placed on a salary (Findings of fact—Seventh). The referee also found that Claimant received all his assignments from Employer at Claimant’s home (Findings of fact—Tenth).
+Section 305.2(a)(3) provides in pertinent part that:
+[i]f an employe, while working outside the territorial limits of this State, suffers an injury on account of which he, or in the event of his death, his dependents, would have been entitled to the benefits provided by this act had such injury occurred within this State, such employe, or in the event of his death resulting from such that at the time of such injury, his dependents, shall be entitled to the benefits provided by this act, provided that at the time of such injury:
+(3) He is working under a contract of hire made in this State in employment principally localized in another state whose workmen’s compensation law is not applicable to his employer ....
+The referee found since the contract for hire was made in Pennsylvania, for assignments in and outside of the Commonwealth, Claimant was subject to coverage under the Act (Findings of fact—Eleventh). The referee correctly applied Section 305.2 to the facts because Claimant was working under a contract of hire made in Pennsylvania but his employment was not located in any particular state.
+The second part of Employer s argument is that the referee erred as a matter of law in concluding that since Claimant satisfied the jurisdictional requirements of Section 305.2(a), he was not required to satisfy the minimum exposure requirements of Section 301(d).
+Section 301(d) requires:
+[compensation for silicosis, anthracosilicosis, coal worker’s pneumoconiosis or asbestosis, shall be paid only when it is shown that the employe has had an aggregate employment of at least two years in the Commonwealth of Pennsylvania, during a period of ten years next preceding the date of disability, in an occupation having a silica, coal or asbestos hazard.
+The referee found that all of Claimant’s jobs, whether in or outside the Commonwealth were subject to the Act.
+The referee also concluded that Employer failed to prove that Claimant’s employment was less than two years during the ten year period preceding the date of disability.
+Employer’s argument that Claimant, by satisfying the jurisdictional requirements of Section 305.2, did not automatically entitle him. to compensation under Section 301(d) is not without merit. However, by satisfying the jurisdictional element of Section 305.2, Claimant has transformed his extraterritorial employment into employment in Pennsylvania. After satisfying the extraterritorial jurisdictional requirements of the Act, to require a Claimant to also prove physical presence on a Pennsylvania job site is an impossible burden. Employer’s argument not only defeats the rationale behind the extraterritorial provisions, but also undermines the remedial purposes for the Act. “In construing the Act, we are mindful that being remedial in nature and intended to benefit the Pennsylvania worker, the Act must be construed liberally to effectuate its humanitarian objectives.” Krawchuk v. Philadelphia Electric Co., 497 Pa. 115, 439 A.2d 627 (1981).
+Referee’s interpretation of the statutes at bar is compelled by the rules of statutory construction. First, every statute must be construed, if possible, to give effect to all its provisions. 1 Pa. C. S. § 1921(a). 'When statutes such as Section 305.2 and Section 301(d) relate to the same person or class of persons, they are in pari materia and shall be construed together, if possible, as one statute. 1 Pa. C. S. §1932. To accept Employer’s interpretation of Section 301(d), requiring physical presence in Pennsylvania, would emasculate the purpose of Section 305.2 of permitting compensation for extraterritorial employment. We can find no indication that the legislature intended Section 301(d) to operate independently.
+The fact that Claimant’s employment is jurisdiction-ally encompassed by the Act, does not relieve him of the burden of proving aggregate employment of at least two years during the ten year period preceding disability. Claimant introduced evidence that he was employed from 1962-1979 in his occupation for Employer in a hazardous asbestos/silicosis environment. The referee’s determination that Claimant’s employment in the hazardous environment aggregates at least two years during the ten year period preceding disability is supported by substantial evidence. Employer’s argument which alleges that the referee attempted to improperly shift the burden is without merit. See note 2, above.
+The Employer-prepared document listing Claimant’s employment locations from 1977-1979 did not rebut Claimant’s employment history from 1962-1979 which exposed him to a hazardous environment.
+It is well-settled that it is the referee’s function, not this Court’s, to make determinations of the weight and credibility of the evidence presented. City of Williamsport v. Workmen's Compensation Appeal Board, 55 Pa. Commonwealth Ct. 618, 423 A.2d 817 (1980). We believe the referee’s findings are supported by substantial evidence that Claimant satisfied the exposure requirement of Section 301(d).
+Accordingly, we affirm the Board’s order sustaining the referee’s granting of benefits to Claimant.
+Order
+And NOW, this 2nd day of March, 1989, the order of the Workmen’s Compensation Appeal Board in the above-captioned case is hereby affirmed.
+Initially, Claimant filed a petition seeking benefits pursuant to Section 301(i) of The Pennsylvania Occupational Disease Act, Act of June 21, 1939, P.L. 566, as amended, 77 P.S. 1401(i). Thereafter he filed a claim under Section 108 of The Pennsylvania Workmen’s Compensation Act (Act), Act of June 21, 1915, P.L. 736, as amended, 77 P.S. 27.1. These claims were consolidated. The claim under The Occupational Disease Act was dismissed by the referee because he found that Claimant was entitled to compensation under The Pennsylvania Workmen’s Compensation Act.
+Although this conclusion was listed among the referee’s findings of fact, it is actually a conclusion of law made by the referee which we are approving.
+Employer argues that the referee impermissibly shifted the burden from Claimant to Employer to prove the jurisdictional requirement imposed by Section 301(d). We agree with the Board’s interpretation of the referee’s findings of fact and hold that the referee’s misstatement, that the “Defendant attempted to prove ... ,” was harmless. As the Board recognized in its decision, the referee meant to demonstrate the Employer failed to rebut “the jurisdictional element which the Claimant had established through testimony and the [r]eferee found to be fact.” (Decision of the Board at pp. 4-5)
