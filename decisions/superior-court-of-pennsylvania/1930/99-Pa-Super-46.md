@@ -1,0 +1,38 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 24"
+decided: "1930-04-18"
+citations: ["99 Pa. Super. 46"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trender, P. J., Keller, Linn, Gawthrop, Cunningham, Baldrige and Graff, JJ."]
+parties: ["Di Santo, Appellant, v. Alper et ux."]
+source_url: "https://static.case.law/pa-super/99/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 688866
+cites_cases: ["110 Pa. 387", "160 Pa. 451", "187 Pa. 227", "206 Pa. 335", "31 Pa. 131", "4 Watts 357", "43 Pa. Superior Ct. 367", "59 Pa. Superior Ct. 508", "7 Watts 38", "94 Pa. 466"]
+---
+
+# Di Santo v. Alper
+
+## Majority (Baldrige, J.,)
+
+Opinion by
+Baldrige, J.,
+This action in assumpsit was brought by the plaintiff to recover from the defendants the sum of $100 which the plaintiff claimed to be due him under an oral contract, by which the defendants agreed to pay him that amount in consideration that he furnish $2,000 of the $4,000 bail required by Eli Alper, who was then in jail. The defendants acknowledged that they promised to pay the plaintiff $100 but claimed that he was to secure the entire amount of the $4,000 bail and that $40 was paid by them to him on account thereof, but that he never furnished the bail. The defendants, therefore, asked a verdict in their favor for the sum of $40.
+The case came on for trial and questions of fact involved were submitted to the jury. Court adjourned while the jury was deliberating. The next morning the jury presented a sealed verdict in favor of the defendants, without mentioning any sum, whereupon, the following colloquy took place between the court and the jury:
+“The Court: .Ladies and gentlemen of the jury: You say you find a verdict for the defendants. You have nothing to do with the costs. Have you taken into consideration whether the plaintiff ought to repay the $40, which it was testified was paid to him? Have you taken that into consideration?
+“Jurors: Yes.
+“The Court: What did you decide about it? You recall we said that if you find a verdict for the defendant then you are to consider whether you believe that the plaintiff received the $40, and if you believe that he did, if you find for the defendants, then you may conclude that he had no right to keep it and your verdict should be for the defendants for $40. Have you taken that into consideration, or did you overlook that?
+“Jurors: Yes.
+“The Court: You do not say anything about it in your verdict. Suppose you just retire and correct your verdict, if that is what you wish to do, so as to find, if you believe that to be true, that the defendants are entitled to recover back this $40. In other words, you find for the defendants in the sum of $40.
+“The Jurors: Yes, sir.
+“The Court: Of course, if you do not believe that the plaintiff ever received the $40, then you would not find for the defendants in the sum. of $40; but if you believe he did get this $40, and you find he was not entitled to keep it, then your verdict should be for the defendants for $40, because they have filed an affidavit of defense claiming a set-off of $40. Have we made ourselves clear?
+“Jurors: Yes, sir.”
+The jury withdrew and later returned with a verdict for defendant in the sum of $40. Motion for a new trial was filed by the plaintiff, which was refused by the lower court, and this appeal followed.
+The assignments of error are to the foregoing statements of the court and to the refusal of the court to grant a new trial. The testimony was not printed but the charge of the court indicates that the issues were clearly explained by the trial judge. One essential fact to be determined was whether the plaintiff owed the defendants the $40. The verdict tendered was not a sufficiently explicit response to that issue to leave no doubt of their intention. Under such circumstances, it was not only the right, but the duty of the court, in a proper way, to clarify the uncertainty in order that the issues be definitely determined to prevent further expense and inconvenience. A trial judge should avoid any attempt to coerce or to instruct the jury as to the substance of their verdict. But he may give advice to the jury at any time before the verdict is received so that they may give findings that are clear and responsible to the issues involved. That was all that was done in the present case. The trial judge cautioned the jury that “we do not say what you shall do......We do not want you to understand that this is a directed verdict; that is what we want to make clear.”' As Mr. Justice Trunkey, in case of Leibig v. Steiner, 94 Pa. 466, said: “Exceptional cases arise where it is the duty of the judge to express his opinion of the facts and guide the minds of the jury to a correct view of the evidence; and, therefore, it has been settled that when he does so without misleading or controlling them in the disposition of the facts, there is no ground for reversing. Often the court below is better able than the court of review to judge of the propriety or necessity of commenting on the evidence or the character of witnesses.” See also Jackson v. Hillerson, 59 Pa. Superior Ct. 508; Fitzpatrick v. Union Traction Co., 206 Pa. 335; Trial by Jury, Von Moschzisker,, Section 326.
+It has been long and well recognized that such a supervision, as was exercised, is within the power of the court. In the case of Reitenbaugh v. Ludwick, 31 Pa. 131, the jury sealed its verdict, and separated, and on coming into court, it was found not to be in form, and, before receiving and recording it, the court sent them back for correction. The Supreme Court held that that was an approved and universal practice; that the sealed paper was, in fact, not a verdict until it was recorded and until the verdict became part of the record it was within the discretion of the trial judge to send the jury back and consider or clarify or correct mistakes so that it would be in proper form. This case followed McConnell v. Linton, 4 Watts 357; Wolfran v. Eyster, 7 Watts 38; Walters v. Junkins, 16 S. & R. 414. See also Scott v. Scott, 110 Pa. 387; Commonwealth v. Breyessee, 160 Pa. 451; Kramer v. Kister, 187 Pa. 227.
+In the case of Columbia Glass Co. v. Atlantic Glass Co., 43 Pa. Superior Ct. 367, the case was submitted to the jury late in the afternoon, as here, with instructions that if a conclusion was reached they should seal their verdict and bring it in the following morning. The next morning the jury appeared with a sealed verdict which was in the following form: “December 16, 1908, we find in favor of the plaintiff for ...... dollars.” The trial judge declined to receive the verdict in that form and instructed the jury to return and if they found for the plaintiff, to fix the amount of the damages. The jury retired and afterwards brought in a verdict in due form for a specific amount. This court held that it was entirely within the discretion of the court to send the jury back to put their verdict in the proper form. “This discretion is an incident to the mode and manner of the trial and must be left to the courts, and, unless in a flagrant exercise of it, is not reviewable.”
+"We are of the opinion that the judge did not infringe upon the duties of the jury as they were left to decide freely for themselves what their verdict should be. We find nothing in the record in this case that warrants a disturbance of the verdict of the jury. There is no merit in the assignment for failure to grant a new trial.
+Judgment is affirmed.
