@@ -1,0 +1,67 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1416 C.D. 1993"
+decided: "1994-06-17"
+citations: ["165 Pa. Commw. 137", "644 A.2d 267"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DOYLE and FRIEDMAN, JJ., and DELLA PORTA, Senior Judge."]
+parties: ["BOARD OF DIRECTORS OF the PALMYRA AREA SCHOOL DISTRICT, Appellant, v. PALMYRA AREA EDUCATION ASSOCIATION and John Woods, Trustee ad litem for the Association."]
+source_url: "https://static.case.law/pa-commw/165/cases/0137-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1463103
+cites_cases: ["105 Pa.Commonwealth Ct. 599", "11 Pa.Commonwealth Ct. 232", "149 Pa. Commonwealth Ct. 356", "164 A.2d 663", "312 A.2d 605", "401 Pa. 365"]
+---
+
+# Board of Directors of Palmyra Area School District v. Palmyra Area Education Ass'n
+
+## Majority (FRIEDMAN, Judge.)
+
+FRIEDMAN, Judge.
+The Board of Directors of the Palmyra Area School District (Board) appeals from an order of the Court of Common Pleas of Lebanon County sustaining preliminary objections of the Palmyra Area Education Association (Association) and dismissing a Complaint for Permanent Injunction (Complaint) for lack of jurisdiction, failure to exhaust a statutory remedy, and failure to exhaust a non-statutory remedy. We vacate and remand.
+In November of 1992, the Community Liaison Committee (Committee) of the Association mailed a newsletter entitled “Towards Excellence” to the homes of students in the Palmyra Area School District (District). The Board contacted the Association by letter requesting that it identify the mailing list used to send out “Towards Excellence.” The Board further requested that if the Committee used a confidential school list, the Association turn it over to the District Superintendent and refrain from using it further.
+In December of 1992, the Committee mailed a second issue of “Towards Excellence” to the homes of school children in the District. The Board again contacted the Association by letter requesting information about the mailing list. The letter further advised that if the Board did not receive a response to its questions it would seek an injunction against the Association to prevent the misuse of confidential student records.
+The Association then contacted the Board by letter informing the Board that the mailing list had been compiled from various sources, including teacher homeroom lists, and that the Association produced the newsletter in conjunction with collective bargaining efforts that were proceeding at that time.
+The Board filed a Petition for Preliminary Injunction (Petition) and the present Complaint, alleging that the Association used teacher homeroom lists in violation of District policy and state law. The Association filed an Answer to the Petition denying all material allegations and a hearing was held before the trial court on the Petition which was subsequently denied.
+The Association then filed preliminary objections to the Complaint, asserting (1) lack of jurisdiction, (2) lack of standing, (3) failure to exhaust a statutory remedy (unfair labor practice proceeding before the Pennsylvania Labor Relations Board (PLRB)), and (4) failure to exhaust a non-statutory remedy (arbitration under the parties’ collective bargaining agreement). The Association also demurred to the Complaint, alleging that the homeroom lists are in the domain of the Right to Know Act, and asserted the equitable defense of lack of clean hands.
+In response the Board filed its own preliminary objections and oral argument was held before the trial court. The trial court dismissed the Board’s Complaint for lack' of jurisdiction and failure to exhaust statutory and non-statutory remedies reasoning that the Board’s action stemmed from a labor dispute with the Association and should be resolved as an unfair labor practice before the PLRB or as a grievance before an arbitrator.
+On appeal the Board argues that the trial court erred in dismissing its Complaint for lack of jurisdiction because the Association’s misuse of confidential student records is a violation of District policy and state law and is neither an unfair labor practice nor a grievance covered by the parties’ collective bargaining agreement.
+Initially, we note that preliminary objections will be sustained only if clear and free from doubt. In reviewing preliminary objections the court must consider facts that are well-pleaded, material and relevant as true. Globe Disposal Co., Inc. v. Commonwealth, Dep’t of Environmental Resources, 105 Pa.Commonwealth Ct. 599, 525 A.2d 437 (1987).
+Our analysis, therefore, begins with an examination of the well-pleaded material facts as set forth in the Board’s Complaint. The Board asserts that the Pennsylvania Code (Code) requires that every school district adopt a plan for the maintenance of pupil records that conforms with published state guidelines and the minimum requirements of the federal Family Educational Rights and Privacy Act. (R.R. at 9a.) State guidelines provide that a school may release student addresses without prior consent only to other school officials, including teachers, who sign a written form indicating specifically the “legitimate educational interest” they have in seeking the information. (R.R. at 9a-10a.) The District has in fact adopted a policy consistent with these guidelines. (R.R. at 10a-lla.) >
+The Board further avers in its Complaint that the District did not release student addresses to the Association but that members of the Association} took the information without signing a written form and without indicating a “legitimate educational interest” in seeking the data. (R.R. at lla-12a.) Moreover, the Board maintains that the Association did not have a “legitimate educational interest” in the information but that the student addresses were used in connection with the collective bargaining process. (R.R. at 11a.)
+Our Supreme Court has stated that the general equity jurisdiction of a court of common pleas embraces the power to prevent or restrain the commission or continuance of acts contrary to law and prejudicial to the interests of the community or the rights of individuals. Zeigenfuse v. Boltz, 401 Pa. 365, 164 A.2d 663 (1960). However, courts of equity lack jurisdiction where there is an adequate and complete remedy at law, especially where that remedy is set forth in a statute relating to the subject matter. Rankin v. Chester-Upland School District, 11 Pa.Commonwealth Ct. 232, 312 A.2d 605 (1973). The Legislature has stated the principle in these terms:
+(a) General rule. — Except where exclusive original jurisdiction of an action or proceeding is by statute ... vested in another court of this Commonwealth, the courts of common pleas shall have unlimited jurisdiction of all actions and proceedings....
+42 Pa.C.S. § 931(a).
+Accepting all of the Board’s well-pleaded material facts as true we conclude that the trial court erred in concluding that (1) the Board has an adequate and complete remedy at law and (2) the Association’s use of information contained in confidential pupil records is not an act contrary to law and prejudicial to the interests of the community and the rights of individuals and, thus, should not have dismissed the Board’s Complaint for lack of jurisdiction.
+We reject the trial court’s reasoning that the Board has an adequate and complete remedy under Section 1301 of the Pennsylvania Employe Relations Act (PERA). In order for PERA to apply here, we would have to determine that the Association’s violation of family privacy rights protected by both state and federal law constituted a refusal to bargain collectively in good faith. We fail to see the connection. The provisions of PERA are not related to the subject matter of the Board’s Complaint.
+We also have difficulty with the trial court’s suggestion that the Board has an adequate and complete remedy in the grievance procedure defined by the parties’ collective bargaining agreement. The trial court would have the Board file a grievance against the individual teachers who misappropriated confidential student data for a non-educational use. However, the Board could not possibly proceed in this manner because it does not know the identity of the teachers involved; in fact, the Board is seeking to determine which Association members did violate its policy and state law. (R.R. at 38a.) Certainly, the grievance procedure does not provide an adequate remedy for the Board.
+Because the trial court committed an error of law in sustaining the Association’s preliminary objections and dismissing the Board’s complaint for lack of jurisdiction, we vacate and remand to the trial court for consideration of the remaining issues presented by the Association in its preliminary objections.
+ORDER
+AND NOW, this 17th day of June, 1994, the order of the Court of Common Pleas of Lebanon County, dated May 18, 1993, is vacated and this case is remanded to the trial court for consideration of the remaining issues presented by the Association in its preliminary objections.
+Jurisdiction relinquished.
+. Act of June 21, 1957, P.L. 390 as amended, 65 P.S. §§ 66.1-66.4.
+. The trial court indicated that it was sustaining three of the Association’s four preliminary objections. We note that all three address the question of jurisdiction which is a proper preliminary objection under Pa.R.C.P. No. 1028(a).
+. Our scope of review where a trial court sustains a preliminary objection and dismisses a complaint is limited to determining whether the trial court committed an error of law or abused its discretion. Smith & McMaster, P.C. v. Newtown Borough, 149 Pa. Commonwealth Ct. 356, 613 A.2d 129 (1992).
+. The following sections of the Code are relevant here. Section 12.31(a) states in pertinent part:
+(a) The governing board of every school district ... shall adopt a plan for the collection, maintenance and dissemination of pupil records and submit the same to the Department for approval.
+22 Pa.Code § 12.31(a). Section 12.32 further provides in pertinent part:
+(a) The plan for pupil records shall conform to § 12.33 (relating to guidelines)....
+(b) The plan shall establish policies on pupil records consistent with the minimum requirements of the Family Educational Rights and Privacy Act of 1974 (20 U.S.C.A. § 1232g) and in 34 CFR Part 99 (relating to privacy rights of parent and students.)
+22 Pa.Code § 12.32. Section 12.33 of the Code then states:
+(a) The full text of the Guidelines for the Collection, Maintenance and Dissemination of Pupil Records appears at 4 Pa.B. 1092 (June 1, 1974).
+(b) Portions of Guidelines for the Collection, Maintenance and Dissemination of Pupil Records are attached hereto as Exhibit A and made a part of this chapter.
+22 Pa.Code § 12.33. We note that educational institutions that violate the Family Educational Rights and Privacy Act may lose federal funding. See 20 U.S.C.A. § 1232g.
+. Names and addresses of parents or guardians are classified as Category “A” Data. (See Section 2.1 of the guidelines as incorporated into § 12.33 of the Code.) With respect to Category “A” Data, the guidelines state:
+4.1. The school may, without consent of parents or students, release a student’s permanent record file, including [Category "A” Data] ... to:
+4.1.1. Other school officials, including teachers, within the district who have a legitimate educational interest. All school personnel desiring access to pupil records, however, should be required to sign a written form ... which would be kept permanently on file, indicating specifically the "legitimate educational interest” that they have in seeking this information.
+22 Pa.Code 12.33.
+. Article V of the District’s “Policy for Collection, Maintenance and Dissemination of Student Records” states in pertinent part:
+A student's educational record may be released without the consent of parents or guardians or student to the following persons ...: A. Authorized school personnel having a legitimate educational interest, on the condition that such person shall sign a written form indicating specifically the legitimate educational interest in such information.
+(R.R. at 23a.)
+. Section 931(a) of the Judicial Code, as amended, 42 Pa.C.S. § 931(a).
+. Section 1301 of PERA, Act of July 23, 1970, P.L. 563, as amended, 43 P.S. § 1101.1301, states in pertinent part:
+The [Pennsylvania Labor Relations Board] is empowered ... to prevent any person from engaging in any unfair practice listed in Article XII of this act. This power shall be exclusive and shall not be affected by any other means of adjustment or prevention that have been or may be established by agreement, law, or otherwise.
+Article XII prohibits employee organizations, their agents, or representatives or public employees from:
+(3) Refusing to bargain collectively in good faith with a public employer, if they have been designated in accordance with the provisions of this act as the exclusive representative of employes in an appropriate unit.
+Section 1201(b)(3) of PERA, 43 P.S. § 1101.1201(b)(3).
