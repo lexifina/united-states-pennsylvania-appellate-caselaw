@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Miscellaneous Docket No. 27"
+decided: "1914-07-15"
+citations: ["58 Pa. Super. 270"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth ex rel. Elliott v. Francies."]
+source_url: "https://static.case.law/pa-super/58/cases/0270-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 446209
+cites_cases: ["11 Pa. Superior Ct. 164", "151 U. S. 242", "26 Pa. Superior Ct. 569", "29 Pa. Superior Ct. 282", "53 Pa. Superior Ct. 554", "8 Pa. 223"]
+---
+
+# Commonwealth ex rel. Elliott v. Francies
+
+## Majority (Rice, P. J.,)
+
+Opinion by
+Rice, P. J.,
+It appears by the relator’s petition and the record sent up pursuant to the writ of certiorari issued with this writ of habeas corpus/ that the relator was duly arrested and brought before a justice of the peace upon a charge of obtaining money by false pretenses; that, after hearing, he was committed to the county jail, in default of bail for his appearance at the next term of court; that, upon the justice’s transcript of the proceedings being returned to court, an indictment in the usual form, duly charging the offense, was drawn and signed by the district attorney; that, by writing indorsed by the judge on the indictment, the relator pleaded guilty as indicted; and that he was sentenced to pay a fine of $25.00 and the costs of prosecution, to restore the property taken, and to undergo imprisonment in the Western Penitentiary, by separate or solitary confinement at labor, for a minimum period of nine months and a maximum period of three years.
+1. It is contended that the Act of April 15, 1907, P. L. 62, entitled, “An Act providing that in certain cases defendants may enter pleas of guilty and be sentenced forthwith, without a bill of indictment being presented to the grand jury,” is in violation of sec. 10, art. 1 of the constitution, which provides that no person shall for an indictable offense be proceeded against criminally by information, and that the lack of an indictment by the grand jury made the entire proceeding in the court of quarter sessions coram non judice and void. This contention was raised and considered in Com. ex rel. Wheeler and Com. ex rel. Johnson v. Francies, in which we herewith file opinions, and for the reasons therein briefly indicated is overruled.
+2. By sec. Ill of the Crimes Act of 1860, under which the indictment was drawn, the offense of false pretenses there defined is declared to be a misdemeanor, and the extreme penalty is a fine of $500, and imprisonment not exceeding three years. This means simple imprisonment, and in such case the legal place of confinement is the county jail. Hence, the sentence was illegal, not only as to the character of the imprisonment, but as to the place of confinement: Com. v. Fetterman, 26 Pa. Superior Ct. 569; Clellans v. Com., 8 Pa. 223; Com. v. Barge, 11 Pa. Superior Ct. 164; Com. v. Lewis (No. 1), 29 Pa. Superior Ct. 282.
+- , It is clear that the relator is entitled to be relieved from the illegal imprisonment and to the aid of a writ of habeas corpus for that purpose: In re Bonner, 151 U. S. 242; Halderman’s Case, 53 Pa. Superior Ct. 554. The only question is, whether he should be absolutely discharged or such order should be made as will give the court below opportunity to pronounce a -legal sen-, tence, as was done in Halderman’s Case. Ordinarily the latter course should be pursued, as was demonstrated by our Brother Henderson in that case. But the case before us is peculiar. When the final order on this writ of habeas corpus is made the relator will have suffered imprisonment, by separate or solitary confinement at labor, in the penitentiary for more than two years, which is a year and a quarter more than the minimum term of imprisonment imposed, and more than two-thirds of the maximum term of the imprisonment permissible under the statute, and is, moreover, a more severe punishment than simple imprisonment in the county jail. In Clellans v. Com., supra, the Supreme Court not only reversed the judgment for illegality of sentence, but also discharged the prisoners, saying, “As the prisoners have been confined in the Eastern Penitentiary about three-fourths of a year, we deem this as severe a punishment as if they had been confined in the county jail, where they legitimately should have been sent, for two years.” In Com. v. Fetterman, supra, the defendant had been confined in the penitentiary about eleven months on a sentence of a year and a half, for false pretenses. It was held by this court, that, by the test indicated in Clellans v. Com. this was more than equivalent in .severity to imprisonment in the county jail for two years, and accordingly the defendant was discharged. It is not to be understood that these two cases establish a strict arithmetical rule which binds the discretion of the court whenever the question arises whether the person unlawfully imprisoned shall be absolutely or only conditionally discharged. But the precedents are founded on just and humane principles, which are as plainly, if not more plainly, applicable here. ■
+The relator is discharged.
