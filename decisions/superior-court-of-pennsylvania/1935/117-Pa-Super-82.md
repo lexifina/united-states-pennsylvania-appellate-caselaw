@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 410"
+decided: "1935-03-01"
+citations: ["117 Pa. Super. 82"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Cunningham, Baldrige, Stadteeld, Parker and James, JJ."]
+parties: ["Moore’s Estate."]
+source_url: "https://static.case.law/pa-super/117/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 981605
+cites_cases: ["151 Pa. 345", "162 A. 168", "24 A. 1082", "308 Pa. 230", "81 Pa. Superior Ct. 347"]
+---
+
+# Moore's Estate
+
+## Majority (Keller, J.,)
+
+Orinion by
+Keller, J.,
+Amanda R. Moore died, testate, on July 10, 1930, leaving three children, John H. Moore, Nellie M. Dickson and Helen M. Welham, whom she appointed her executors. Letters testamentary were issued to the three children, and it is admitted that they all accepted and took under her will.
+This controversy arises out of the following bequest: “2. I give and bequeath the solitaire in my platinum ring to my son, John H. Moore for and during the term of his natural life, and after his decease unto my two daughters Nellie M. Dickson and Helen M. Welham. Upon the death of my said two daughters, I direct that the said solitaire be sold and the proceeds arising from the sale thereof be divided among all my grandchildren then living, share and share alike. I bequeath the platinum ring in which the said solitaire is set unto my daughter, Helen M. Welham, absolutely.” The rest of her jewelry and personal belongings she bequeathed to her two daughters.
+The diamond solitaire was taken from the ring by Mrs. Welham and handed over to John H. Moore, pursuant, as she thought, to the directions of the testatrix. He proposed that it should be inventoried and appraised at $25. His sisters were not satisfied with this figure and finally had it inventoried and appraised by appraisers selected by them, who valued it at $300. They filed an account in which John H. Moore did not join, in which the diamond solitaire was included at the appraised value of $300. He filed exceptions to the account, of which the one relevant to this proceeding is as follows: “b. Said inventory includes as an asset of the estate a certain solitaire which never was owned by the said Decedent and which now is and for a period beginning long before the Decedent died has been the property of the said John H. Moore.” When the account and the exceptions filed to it came up for adjudication, exceptant’s counsel admitted that this exception, of itself, was of no effect, because the ex-ceptant having taken under the will, the solitaire, even if it had belonged to him would pass under the provisions of the will, and be held by him subject to its terms. See Hickman’s Est., 308 Pa. 230, 162 A. 168; Zimmerman v. Lebo, 151 Pa. 345, 24 A. 1082; Forsythe’s Est., 81 Pa. Superior Ct. 347. The exceptant, then, attempted to change his ground, by asserting in addition to his ownership of the ring, that the decedent had, when she made her will, on August 18, 1927, two solitaires, and that the other one, which she had since disposed of, was the diamond which she bequeathed to him; apparently overlooking that, in that event, the bequest of the solitaire to him was adeemed, and the solitaire in question, if it belonged to the testatrix, passed to her two daughters, under the clause in which she bequeathed to them “all of the rest of [her] jewelry and personal belongings.”
+The court below refused to allow proof of this offer on the ground that it was a departure from his exception, equivalent to a variance in an action at law. We think it was justified in so ruling. An exceptant who has specified the grounds of his objection should not be permitted to shift to a different and inconsistent position. But in any event the ruling did the ex-ceptant no harm, for the rejected offer of proof would not have benefited the exceptant, as we have just pointed out, but rather would have harmed him, unless he accompanied it by proof that this solitaire was owned by himself and not by his mother. EEs evidence of such ownership in himself was wholly insufficient to support a finding in his favor.
+The evidence was restricted to the testimony of his aunt, his father’s sister, that when he became twenty-one years old his father bought this diamond for him, but that on his mother’s objecting that it was too large for him, the father kept it himself and had it made into a stud announcing, however, that it was for the son, and the latter’s son after his death. There was not a word of evidence that the father ever gave the diamond to the exceptant. Buying a diamond with the intention of giving it to one’s son or daughter does not amount to a gift until it is given, and there is no proof that this was ever done. There never was a delivery to the son. General declarations that it was to be his son’s are futile. As the court below said,. “The man cannot will the stone by word of mouth,” that is, of course, without proof of a nuncupative will, which was not attempted.
+Nor did the exceptant help his case by introducing in evidence the will and inventory and appraisement of his father, Elisha Moore; rather the contrary. The diamond was not mentioned in either will or inventory. If this evidence proved anything it was that Elisha Moore did not own the solitaire when he died, which would support the right of possession and claim of ownership of the testatrix, his wife. It would be consistent with a gift of the diamond to her in his lifetime.
+The adjudication awarded the solitaire to John H. Moore, to be held by him for and during the term of his natural life. He to give security for the same as required by the Fiduciaries Act (June 7, 1917, P. L. 447) in the sum of $600; if security be not entered the solitaire to be returned to the other two executors, subject to the further disposition of the court. We find no error in it.
+The assignments of error are overruled and the decree is affirmed at the costs of the appellant.
