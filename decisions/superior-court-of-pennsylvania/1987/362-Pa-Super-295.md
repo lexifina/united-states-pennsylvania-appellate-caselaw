@@ -1,0 +1,40 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "410"
+decided: "1987-04-16"
+citations: ["362 Pa. Super. 295", "524 A.2d 514"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WIEAND, OLSZEWSKI and TAMILIA, JJ."]
+parties: ["In the Interest of S.N.W. D.O.B. 1-24-71. Appeal of J.M.W.-C."]
+source_url: "https://static.case.law/pa-super/362/cases/0295-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 671228
+cites_cases: ["249 Pa.Super. 149", "333 Pa.Super. 67", "351 Pa.Super. 342"]
+---
+
+# In the Interest of S.N.W.
+
+## Majority (WIEAND, Judge:)
+
+WIEAND, Judge:
+In these dependency proceedings brought pursuant to the Juvenile Act, the trial court denied a mother’s request for the appointment of counsel and required the hearing to proceed without determining whether the mother was indigent and without continuing the hearing to permit her to obtain counsel. After the child had been determined to be dependent and custody had been awarded to the Centre County Children and Youth Services (C.Y.S.), the mother appealed. She contends that the trial court erred when it required her to proceed without counsel. We agree. Therefore, we reverse and remand for further proceedings.
+On May 2, 1986, C.Y.S. petitioned the trial court under the Juvenile Act to hold that S.N.W., a juvenile, was dependent. The child had been born to J.M.W-C. on January 24,1971 and, according to the averments of the petition, had been sexually abused by J.M.W-C. and her husband, the child’s stepfather. A hearing on the petition was set for May 5, 1986. On that day, J.M.W-C. appeared without counsel. At the conclusion of the hearing, the court directed that a dispositional hearing be held within ten days and continued custody of S.N.W. in C.Y.S.
+J.M.W-C. thereafter filed with the Court Administrator a petition to proceed in forma pauperis, which the Court Administrator denied on May 9, 1986. On May 12, 1986, J.M.W-C. filed with the court a motion for the appointment of counsel. Prior to the start of the dispositional hearing on May 13, the trial court questioned J.M.W-C. regarding her financial resources and learned that she was unemployed and using money borrowed from her parents to pay living expenses. Her husband, who was on bail to answer charges of child abuse, was about to begin a new job. J.M.W-C. also said that she had been unable to find legal counsel and that she had been advised by Keystone Legal Services to file a petition requesting the court to appoint counsel for her. The trial court, without making any findings regarding indigency, denied appellant’s request for counsel and required that the hearing proceed. Appellant was present during the hearing but did not participate therein. The court heard evidence that the child had been sexually abused and was without parental care. Based thereon, the court found that the child was dependent and directed that custody remain with C.Y.S.
+Section 6337 of the Juvenile Act provides, in pertinent part, as follows:
+Except as otherwise provided under this chapter a party is entitled to representation by legal counsel at all stages of any proceedings under this chapter and if he is without financial resources or otherwise unable to employ counsel, to have the court provide counsel for him. If a party appears without counsel the court shall ascertain whether he knows of his right thereto and to be provided with counsel by the court if applicable. The court may continue the proceedings to enable a party to obtain counsel.
+42 Pa.C.S. § 6337 (emphasis added). This statute makes it eminently clear that appellant was entitled to be represented by counsel at the hearing and to have counsel appointed if she were indigent. The trial court in this case declined to follow the statutory requirement because it believed that the ten day hearing requirement imposed by Section 6335 was mandatory and compelled an immediate hearing. In order to comply with this mandate, the court determined, it could not appoint counsel for the child's mother or continue the hearing so that she could obtain counsel.
+This interpretation of the statute by the court was erroneous. It was in direct violation of 42 Pa.C.S. § 6337 which established the right to counsel and authorized a court to continue the proceedings to enable a party to obtain counsel. The ten day hearing requirement was not intended by the legislature as a means for depriving a parent of the right to be represented by counsel. The purpose of the ten day hearing requirement was to prevent the continued detention of a child without a hearing to determine whether the allegations in the petition were true. See: In re Kerr, 333 Pa.Super. 67, 71, 481 A.2d 1225, 1227 (1984); In re DelSignore, 249 Pa.Super. 149, 158, 375 A.2d 803, 807 (1977).
+It is not the tardiness of the hearing, as such, which is the target of the statute. Rather, it is the prolonged prehearing confinement. Remedies for violations must thus be aimed at ending the confinement, not at other aspects of the case.
+The statute itself confirms this view. It specifically provides that the consequence of a hearing not being held is that the juvenile will be released. The statute does not go on to provide for the court’s loss of jurisdiction should the child not be released. Nor does it logically follow that the court must lose jurisdiction for such a violation— for other means of immediate redress exist which can act to fulfill the purpose of the statutory provision.
+First, the juvenile held beyond the ten day period without a hearing can petition the Court of Common Pleas for his immediate release.
+In re Kerr, supra 333 Pa.Super. at 71, 481 A.2d at 1227 (footnote omitted).
+Although there can be no doubt that pre-hearing delays are to be avoided, we conclude that the ten day hearing requirement was not intended to override the right of a child’s parent to be represented by counsel in dependency proceedings. Cf. In re Anita H., 351 Pa.Super. 342, 505 A.2d 1014 (1986) (where C.Y.S. had filed petition alleging that children were dependent based upon mother’s failure and inability to care for them properly and where natural father of each child appeared at hearing in effort to obtain custody of children, proper course was to continue hearing so that home studies could be done to determine whether children could be placed with their respective fathers).
+The trial court in the instant case erred when it failed to determine whether the appellant-mother was indigent. Upon remand, the court may, if it deems it necessary, receive additional testimony to assist it in making such a determination. If it is determined that J.M.W-C. is indigent, counsel should be appointed to represent her. If it is determined that she is not indigent, she must be given a reasonable opportunity to employ counsel herself. In either event, a new hearing is necessary.
+Reversed and remanded for further proceedings consistent with the foregoing opinion.
+. 42 Pa.C.S. § 6301 et seq.
+. The requirement of 42 Pa.C.S. § 6335(a) is as follows:
+(a) General rule. — After the petition has been filed the court shall fix a time for hearing thereon, which, if the child is in detention or shelter care shall not be later than ten days after the filing of the petition. If the hearing is not held within such time, the child shall be immediately released from detention or shelter care.
+. In this case, in fact, S.N.W.'s counsel had expressed a willingness to have S.N.W. remain in the custody of C.Y.S. and would not likely have sought the child’s release in the event the hearing had been continued in order that the appellant-mother might obtain counsel.
+. Appellant has also argued that her right to counsel is guaranteed by federal and state constitutions. Because we conclude that appellant’s right to counsel has been provided by the Juvenile Act in Pennsylvania, we do not decide the constitutional issues which appellant has argued.
