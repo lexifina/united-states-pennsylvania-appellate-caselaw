@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 47 C.D. 1979"
+decided: "1981-03-31"
+citations: ["58 Pa. Commw. 142"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogers, Craig and Palladino, sitting as a panel of three."]
+parties: ["Linquest Clark, Petitioner v. Commonwealth of Pennsylvania, Department of Public Welfare, Respondent."]
+source_url: "https://static.case.law/pa-commw/58/cases/0142-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1919462
+cites_cases: ["32 Pa. Commonwealth Ct. 195", "339 U.S. 306", "378 A.2d 1028", "416 A.2d 633", "53 Pa. Commonwealth Ct. 20", "55 Pa. Code §183.23", "55 Pa. Code §275.3", "585 F.2d 783"]
+---
+
+# Clark v. Commonwealth, Department of Public Welfare
+
+## Majority (Judge Palladino,)
+
+Opinion by
+Judge Palladino,
+This is an appeal from an Adjudication and Order of the Department of Public Welfare (DPW), dated December 6, 1978, which dismissed the appeal of Lin-quest Clark (appellant) for failure to exercise his right to appeal within the 30-day time limit as prescribed by Section 275.3(b)(1) of the Public Assistance Eligibility Manual (PAEM), 55 Pa. Code §275.3(b)(l). We affirm.
+The Philadelphia County Board of Assistance (CBA) received the appellant’s application for medical assistance benefits (MA) on November 30, 1977. Shortly thereafter, the CBA contacted appellant and arranged an interview which was held on December 20, 1977. In accordance with the eligibility guidelines for MA, the interviewer informed appellant that proof of income in the form of a verification statement was needed to complete the application for benefits. On January 24, 1978, the CBA attempted to notify appellant that his application had been rejected because of his failure to provide an income verification statement. It is undisputed that the rejection notice was sent to the home of appellant’s sister at 1818 E. Airdrick Street, Philadelphia, Pennsylvania, rather than to appellant’s home address as listed on the application for benefits. The CBA maintains that it had been informed that the appellant was staying at the home of his sister prior to entering the hospital on January 10, 1978, and that he no longer resided at the address listed on the application for benefits. The appellant was released from the hospital on February 28, J.978, but made no attempt to contact the CBA concerning his application for benefits until sometime in May, 1978. Upon contacting the CBA, appellant was then informed that the initial decision to deny benefits was correct and that it must stand. On September 22, 1978, appellant appealed this decision to the Hearing and Appeals Unit of DPW, which dismissed the appeal as untimely under Section 275.3(b)(1) of the PAEM. This appeal followed.
+Appellant’s first contention on appeal is that the rejection notice, which was mailed to his sister’s residence on January 24, 1978, was deficient in that it was not reasonably designed to give him adequate and timely notice of DPW’s action, and as a result he was denied due process of law. In addition, appellant argues that a deficient notification is tantamount to a failure to send any notice whatsoever and that the six-month appeal period provided by Section 275.3(b)(3) of the PAEM, 55 Pa. Code §275.3(b)(3) is therefore applicable. It is appellant’s belief that his appeal would have been timely had the six-month period been applied.
+The hearing examiner below found that the appellant actually received the notice of rejection in March, 1978, shortly after his release from the hospital. This crucial finding of fact was based on appellant’s testimony in which he not only admitted receiving the notice in March, 1978, but also stated that he brought the notice with him to the CBA in May, 1978. Despite actual receipt of the notice in March, 1978, appellant did not perfect his appeal to the Hearing and Appeals Unit of DPW until September 22, 1978.
+Assuming, arguendo, that the original rejection notice was deficient, any inadequacies were cured by appellant’s actual receipt of the notice in March, 1978. North Alabama Express, Inc. v. United States, 585 F.2d 783 (5th Cir. 1978). “Failure to provide adequate notice is a jurisdictional defect that invalidates administrative action until the defect is cured.” Id. at 786. We are , completely in accord with the above rationale.
+Thus, at best, appellant would have had 30 days from actual receipt of the rejection notice in March, 1978 to appeal the unfavorable result to the Hearing and Appeals Unit. See Buck v. Department of Public Welfare, 32 Pa. Commonwealth Ct. 195, 378 A.2d 1028 (1977). As noted above, appellant did not initiate the appeal until September 22, 1978.
+Appellant’s second argument is also unpersuasive. Section 275.3(b)(3) of the PAEM provides for a six-month appeal period where the CBA fails to send any written notice of its administrative action. Clearly, the six-month period is inapplicable here because written notice was sent and the appellant admits receipt of that notice. Furthermore, we believe that the notice of January 24, 1978, was sufficient to satisfy the requirements of procedural due process. Adequate notice of administrative action is notice which is “reasonably calculated, under all the circumstances, to apprise interested parties of the pendency of the action and afford them an opportunity to present their objections.” Mullane v. Central Hanover Bank and Trust Co., 339 U.S. 306, 314 (1950). We are convinced that notice sent to * one’s last known place of residence is reasonably calculated to give that individual actual notice of the administrative action. This is particularly true here since the CBA had no way of knowing that appellant’s sister would not convey the notice to appellant until after he was released from the hospital on February 28, 1978. Finally, appellant has not shown any prejudice caused by the CBA. To the contrary, any harm here was self-inflicted because of the appellant’s unwarranted delay in filing the appeal below.
+We, find our reasoning in Crail v. Department of Public Welfare, 53 Pa. Commonwealth Ct. 20, 416 A.2d 633 (1980) to be particularly applicable here. There we stated: “While we may sympathize with Petitioner’s plight, we cannot place responsibility for his failure to exercise his right on appeal on CBA where no action of theirs caused him to sleep on his rights for ten months.” Id. at 25, 416 A.2d at 636.
+Order
+And Now, March 31, 1981, the order of the Hearing Examiner, dated December 6, 1978, is affirmed.
+This decision was reached prior to the expiration of the term of office of Judge Wilkinson, Jr.
+Although the hearing examiner’s finding of fact No. 6 lists the date of the interview as December 26, 1977, it is clear from the testimony of both parties that the interview actually took place on December 20, 1977.
+Section 183.23(a) of the PAEM, 55 Pa. Code §183.23(a) provides as follows:
+Income verification. Verification will be required for earned income from employment or self-employment and for nonearned income of each member of the family unit at each determination of financial eligibility. Verification consists of pay envelopes or statements, or statement of employer or other documentary proof of the business income of the individual.
+The address listed on appellant’s original application for benefits was 2882 Walnut Hill Road, Philadelphia, Pennsylvania.
