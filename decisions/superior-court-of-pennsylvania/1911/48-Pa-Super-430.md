@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 284"
+decided: "1911-12-11"
+citations: ["48 Pa. Super. 430"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady, Head, Beaver and Porter, JJ."]
+parties: ["Lansdowne Borough to use v. Hartel, Appellant."]
+source_url: "https://static.case.law/pa-super/48/cases/0430-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8863766
+cites_cases: ["1 Grant, 190", "10 Pa. 186", "34 Pa. Superior Ct. 395", "6 Pa. Superior Ct. 29", "63 Pa. 203", "75 Pa. 384", "90 Pa. 148", "92 Pa. 146"]
+---
+
+# Lansdowne Borough v. Hartel
+
+## Majority (Pee Curiam,)
+
+Pee Curiam,
+After the scire facias was issued the court, on defendant’s petition, granted a rule to show cause why the municipal claim should not be struck off, and after argument discharged the rule, at the same time (September 20, 1910) allowing defendant twenty days within which to file an affidavit of defense. Instead of doing so, the defendant filed a demurrer raising the same objections against the claim that were alleged as the basis for the rule to strike off the claim and were disposed of in the opinion and order discharging that rule. While the demurrer was pending, the plaintiff caused judgment to be entered for want of an affidavit of defense. Upon subsequent application of the defendant a rule was granted to show cause why this judgment should not be struck off. After argument of this rule and the demurrer, the court vacated and set aside the judgment as improvidently entered and overruled the demurrer. In connection with this order the court said: “This leaves the plaintiff at liberty to enter judgment for want of an affidavit of defense under the order of court of September 20, 1910.” Two days later the plaintiff entered judgment for want of an affidavit of defense. Thereupon, the defendant took this appeal and has assigned for error, first, discharging the rule to strike off the lien; second, overruling the defendant’s demurrer; third, allowing judgment to be entered for want of an affidavit of defense.
+We discover no irregularity in these proceedings of which the defendant can justly complain. She was afforded two opportunities, and availed herself of them, to attack the sufficiency of the claim, first, by motion to strike off, and second, by demurrer. Both of these having been overruled, she was not entitled, as matter of right, to have the time for filing an affidavit of defense further extended; nor does it appear that she made any application to have it extended or desired to defend the claim on the merits. When the original judgment was struck off, the case was in the same situation as when it was entered, and when the demurrer was overruled, nothing stood in the way of judgment if the claim was sufficient.
+The particular clause of sec. 11 of the Act of June 4, 1901, P. L. 364, which it is contended was not complied with, is that which requires the claim to set forth (a) the date on which the work was completed in front of the particular property against which the claim is filed; (b) or the date of the completion of the improvement, where the assessment is made after completion; (c) or the date of confirmation by the court, where confirmation is required. This clause must be read in connection with clause of sec. 10 which provides that the claim must be filed (a) within six months from the time the work was done in front of the particular property where the charge against the property is assessed or made at the time the work was authorized; (b) within six months after the completion of the improvement, where assessment is made by the municipality upon all the properties after the completion of the improvement; (c) and within six months after confirmation by the court, where confirmation is required. The clause of sec. 10 which we have designated as (a), and the clause of sec. 11 which we have designated in the same way, evidently relate to the same subject-matter and are the clauses applicable to the class of claims to which the claim in question belongs — that is, to claims for work “done” in front of the particular property. This is very satisfactorily shown in the opinion of the learned judge discharging the rule to strike off the lien. Adopting these premises, which we think unassailable, the learned judge, upon a view of the averments of the claim, and of the bill and statement made part of them, reached the conclusion that though the word “completion” does not appear, yet the claim does set forth with certainty to a common intent that the work was done and completed on the dates specified. After full consideration of the argument of appellant’s counsel in favor of a stricter view, we concur with the learned judge below in his conclusion and do not deem it necessary for us to add anything further to what he has said.
+The assignments of error are overruled, and the judgment is affirmed.
