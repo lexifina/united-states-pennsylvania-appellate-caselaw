@@ -1,0 +1,36 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "51 C.D. 1991"
+decided: "1992-11-25"
+citations: ["151 Pa. Commw. 587", "618 A.2d 1054"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CRAIG, President Judge, and DOYLE, COLINS, McGINLEY, SMITH, PELLEGRINI and FRIEDMAN, JJ."]
+parties: ["Robert W. PLAVI and Christine M. Plavi, Parents and Natural Guardians on Behalf of Robert Wayne Plavi, a Minor and Robert W. Plavi, and Christine Plavi, His Wife, in Their Own Right, Appellants, v. NEMACOLIN VOLUNTEER FIRE COMPANY, a non-profit corporation, Appellee."]
+source_url: "https://static.case.law/pa-commw/151/cases/0587-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1438697
+cites_cases: ["117 Pa.Commonwealth Ct. 207", "163 A. 523", "270 Pa.Superior Ct. 102", "309 Pa. 236", "531 Pa. 500"]
+---
+
+# Plavi v. Nemacolin Volunteer Fire Co.
+
+## Majority (COLINS, Judge.)
+
+COLINS, Judge.
+Robert W. Plavi and Christine M. Plavi (appellants) appeal the November 26,1990 order of the Court of Common Pleas of Greene County (Common Pleas), which granted the Nemacolin Volunteer Fire Company’s (Company) motion for summary judgment.
+Appellants appeal as parents and natural guardians of Robert Wayne Plavi (Plavi), a minor, and in their own right. Plavi was sexually assaulted by Michael Yandura (Yandura) in the firehouse, on three occasions in August, 1987. Appellants allege that the Company was negligent, because it permitted male minors to be alone with Yandura at the firehouse when the Company knew or should have known of Yandura’s reputation and propensity to molest male minors. After discovery, the Company moved for summary judgment, alleging that it was entitled to governmental immunity pursuant to what is commonly known as the Political Subdivision Tort Claims Act, 42 Pa.C.S. §§ 8541-8542. Common Pleas agreed and granted the motion for summary judgment on November 26, 1990.
+Appellants appealed to this Court, arguing that a volunteer fire company is entitled to immunity only when it is engaged in the performance of firefighting duties or functions. We agreed that Common Pleas incorrectly determined that the Company was entitled to governmental immunity, but we affirmed its grant of summary judgment, because we determined that appellants had failed to state a claim upon which relief could be granted. We stated that appellants based their claim upon the theory of respondeat superior which provides that an employer is liable for the acts of its employee when those acts are committed during the course of and within the scope of that employee’s employment. Fitzgerald v. McCutcheon, 270 Pa.Superior Ct. 102, 410 A.2d 1270 (1979).
+Conduct of an employee is within the scope of employment if it is of a kind and nature that the employee is employed to perform; it occurs substantially within the authorized time and space limits; it is actuated, at least in part, by a purpose to serve the employer; and if force is intentionally used by the employee against another, it is not unexpected by the employer.
+Natt v. Labar, 117 Pa.Commonwealth Ct. 207, 213-14, 543 A.2d 223, 225 (1988).
+Where, however, the employee commits an act encompassing the use of force which is excessive and so dangerous as to be totally without responsibility or reason, the employer is not responsible as a matter of law. If an assault is committed for personal reasons or in an outrageous manner, it is not actuated by an intent of performing the business of the employer and is not done within the scope of employment.
+Fitzgerald, 270 Pa.Superior Ct. at 106, 410 A.2d at 1272. We concluded that
+the facts clearly indicate that Yandura was not acting within the scope of his employment when he committed the assaults. Yandura was not at the fire house for any official fire fighting functions when he committed the assaults on Plavi. He was there purely for his advocational [sic] and recreational purposes and was not following any Company directives. Evidence indicates that there were no fires to fight when Yandura attacked Plavi, and the assaults occurred when the firehouse was empty.
+Our review of the record revealed testimony of rumors that Yandura was a child molester, but we found no evidence that he had a criminal record or that there were prior reported acts of child molestation. We, therefore, determined that the Company could not have foreseen that Yandura would assault Plavi. We determined, however, “that Yandura’s conduct was so outrageous, so criminal, and so incapable of anticipation by his employer that it must be held, as a matter of law, to have exceeded the scope of his employment.” Plavi I, slip op. 9. Accordingly, we held that appellants failed to state a claim upon which relief could be granted, because they had not pleaded facts to support a theory of respondeat superior.
+Appellants applied for reargument, arguing that this Court misapprehended the legal basis of their claim. According to appellants, their claim was based on the Company’s negligence in allowing Yandura to be alone with male minors in the firehouse. Additionally, appellants argued that this Court overlooked allegations in their amended complaint that the Company knew or should have known that Yandura had tried to molest three male minors at events sponsored by the Company. They argued finally, that deposition testimony of members of the Company could not serve as a basis for granting the motion for summary judgment pursuant to Nanty-Glo Borough v. American Surety Company, 309 Pa. 236, 163 A. 523 (1932). On May 1, 1992, this Court granted appellant’s application for reargument and scheduled that argument for October 21, 1992, before the Court sitting en banc. That order was amended on May 4, 1992, to withdraw the previous opinion in this matter, Plavi I.
+After this matter was listed for reargument, but shortly before that argument, on September 16, 1992, the Pennsylvania Supreme Court held that a volunteer fire company is entitled to governmental immunity pursuant to 42 Pa. C.S. § 8541 regardless of whether it is engaged in firefighting activities. Guinn v. Alburtis Fire Company, 531 Pa. 500, 614 A.2d 218 (1992). In that case, our Supreme Court stated that the language of 42 Pa.C.S. § 8541 “is clear and unambiguous. Section 8541 provides that a local agency is entitled to governmental immunity; it does not provide that a local agency is entitled to governmental immunity only when acting within the scope of its duties.” Guinn, 531 Pa. at 503, 614 A.2d at 220.
+The issues raised by appellants at reargument have been mooted by Guinn. We are required by Guinn to affirm Common Pleas’ grant of summary judgment, because a volunteer fire company is entitled, absolutely, to governmental immunity pursuant to 42 Pa.C.S. § 8541 and Guinn. Accordingly, the November 16, 1990 order of the Court of Common Pleas of Greene County is affirmed.
+ORDER
+AND NOW, this 25th day of November, 1992, the order of the Court of Common Pleas of Greene County in the above-captioned matter is affirmed.
+1. Plavi v. Nemacolin Volunteer Fire Company (No. 51 C.D.1991, filed March 12, 1992), slip op. 8-9 (Plavi I).
