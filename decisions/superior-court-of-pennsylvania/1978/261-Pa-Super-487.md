@@ -1,0 +1,21 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 1571"
+decided: "1978-11-03"
+citations: ["261 Pa. Super. 487", "395 A.2d 1015"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WATKINS, former P. J., and HOFFMAN, J., did not participate in the consideration or decision of this case."]
+parties: ["Commonwealth v. Conklin, Appellant."]
+source_url: "https://static.case.law/pa-super/261/cases/0487-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 109981
+---
+
+# Commonwealth v. Conklin
+
+## Majority
+
+Judgment of sentence affirmed.
+WATKINS, former P. J., and HOFFMAN, J., did not participate in the consideration or decision of this case.
