@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 325"
+decided: "1939-12-19"
+citations: ["138 Pa. Super. 139"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Stadteeld, Parker, Rhodes and Hirt, JJ."]
+parties: ["Chell v. Harry Brodsky Decorating Co., Inc., Appellant, et al."]
+source_url: "https://static.case.law/pa-super/138/cases/0139-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1022225
+cites_cases: ["129 Pa, Superior Ct. 297", "195 A. 429"]
+---
+
+# Chell v. Harry Brodsky Decorating Co.
+
+## Majority (Baldkige, J.,)
+
+Opinion by
+Baldkige, J.,
+The claimant in this workmen’s compensation ease sustained an accidental injury in the course of his employment.
+The only question before us is whether on September 24, 1937, the date of the injury, the defendant-employer, appellant herein, was covered by insurance under a policy, issued by the State Workmen’s Insurance Fund, hereinafter called the Insurance Fund.
+, The referee found that the defendant-employer was not covered by any insurance and entered an award against it alone. The board, on appeal, held that a policy issued by the Insurance Fund was in force on the date of the accident, and entered an award against the defendant and the Insurance Fund. On appeal, the court of common pleas reversed the decision of the board, holding that no insurance was in effect on the date of the accident.
+A policy was issued by the Insurance Fund on August 14, 1935, covering the defendant company. It was for a period of one year, in accordance with section 5 of the Act of June 2, 1915, P. L. 762, and its amendment (77 PS §241). On August 21st, the defendant paid the premium as of the 14th of August, 1935. At the expiration of the one year, the policy was continued in force for an additional year, the premium having been paid on August 17, 1936. Under the terms of the policy the insurance expired on August 14,. 1937, as the defendant-employer failed to pay any part of the renewal premium in advance and he was in arrears also for adjusted premiums due for the years 1935 and 1936.
+In the early part of August, 1937, Harry Brodsky, president of the defendant company, visited the Philadelphia office of the Insurance Fund and paid $50 on account of the past due adjusted premium of $151.79, and made a promise to pay before the end of September, 1937, all or most of the balance due, plus the new premium of $122. There was testimony, under objection, that a letter was written on August 6, 1937, by the Insurance Fund from its Harrisburg office to the defendant, acknowledging receipt of the $50. It set forth that $101.79 was due on old premiums, which, together with $122 necessary to renew the policy as of August 14, 1937, made a total indebtedness of $223.79. The letter further gave notice that the policy was coming up for renewal on August 14th, and, unless a remittance was received on or before that date, the policy would lapse. The original of that letter was not produced, but it may fairly be assumed from other evidence that it was received. Disregarding this letter, however, the defendant-employer, as appears by its letter of September 25th, was entirely aware of the amount of the indebtedness, and of its neglect, without justifiable reason, to pay same when it was due. No further correspondence was had, nor was additional payment made until September 25th when a check in the sum of $148.79 was sent by the defendant to the Insurance Fund, with directions to apply $26.79 on account of the old balance of $101.79 and $122 in full payment of the premium on a renewal policy.
+On the date of that payment, which was the day after the accident, the attorney for the defendant company called on the head of the Philadelphia office of the Insurance Fund and asked him whether the defendant’s policy was cancelled. He received the reply: “The card is still here,” and, when a further inquiry was made if that meant the policy was still in force, he siaid: “Yes, if the card isn’t here, it would mean that Harrisburg had cancelled it and we would have been notified and the card would then have been taken outand that it would be all right to send the check on for the balance due on the old premium.
+The presence of the card in the records of the Philadelphia office, in accordance with a bookkeeping practice when a policy is not cancelled, was not of itself sufficient to renew the contract which by its express provisions had expired at the end of the term. Nor are we of the opinion that the delay for a brief period of time in payment of premiums on two previous occasions when no balance was due on premiums for former years, as was the case here, justifies the conclusion that there was such a waiver of the provisions of the policy as to estop the Insurance Fund from insisting on the enforcement of its terms.
+Poles v. State Mutual Beneficial Society, 129 Pa, Superior Ct. 297, 195 A. 429, relied upon by the board, is not applicable to the case in hand, as, there, the question was one of forfeiture or cancellation of existing industrial life insurance policies which did not require a new policy or a renewal receipt to be issued from year to year, as here.
+On August 14, 1937, the term of this policy ended automatically. No insurance was then in force. It was necessary, if the insurance was to be continued, for the. Insurance Fund to issue either a new policy or a certificate of renewal. It did neither. We are, therefore, of . the conclusion that the payment made , on September 25th, without notice that one of the employer’s workmen had met with an accident the day before, did not renew the expired policy as of August 14th. Obviously, that was not the intention of the insurer, as the policy which was sent to the defendant-employer stated on its face that it was effective as of September 28, 1937. We are of the opinion that the mere acceptance of the defendant’s check did not require the Insurance Fund to antedate its policy to make the coverage relate back to an earlier date; and that there was no legally competent evidence to justify the finding of the board that the policy “was in fact renewed and was in full force and effect on the date of the accident.”
+Judgment entered against the defendant-employer by the learned court below is affirmed.
