@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 166"
+decided: "1952-01-17"
+citations: ["170 Pa. Super. 307"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, Ross, Arnold and Gunther, JJ."]
+parties: ["Barlett v. Beverly School Land Company, Appellant."]
+source_url: "https://static.case.law/pa-super/170/cases/0307-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 474762
+cites_cases: ["163 Pa. Superior Ct. 507", "60 Pa. Superior Ct. 503", "63 A. 2d 480", "87 Pa. 370"]
+---
+
+# Barlett v. Beverly School Land Co.
+
+## Majority (Dithrich, J.,)
+
+Opinion by
+Dithrich, J.,
+Defendant Land Company has appealed from a decree for specific performance of a contract for the sale of a lot situated in Mt. Lebanon Township, being one of the lots in the defendant Company’s plan of lots called the Beverly School Plan.
+On or about June. 25, 1929, defendant entered into a written agreement to sell and convey to plaintiff the aforesaid lot for a total consideration of $2250. There was paid on account of the purchase price $225 on the execution of the agreement and the balance was made ■payable in installments of $45 each upon the first day of each month beginning May 1, 1930, with interest on the deferred payments at the rate of six per cent per annum.
+Pursuant to the agreement, plaintiff made payments on account of the purchase price in the principal amount of $1275, together with interest on the deferred payments to December 20, 1936, or a total of $1500, leaving an unpaid balance of $525. Defendant accepted the payments as timely.
+On August 5, 1947, defendant requested in writing that payment of the balance of the purchase price be made not later than August 20, 1947, stating the amount due to be $525, with interest thereon from December 20, 1936, to August 20, 1947, or a total of $860.96. The statement contained a notation that “Municipal Claims and taxes to date will amount to approximately $1200.00.”
+As of the latter date there was a lien of record against the property for grading, paving and curbing by Mt. Lebanon Township pursuant to an ordinance enacted June 3, 1929. Á contract for the work was let -on July 15, 1929. The lien was entered on August 20, 1930, and has since been revived from time to time. The latest revival was in the amount of $844.15, including interest and lien costs. On the extended date for payment of the balance due on the purchase price, to wit, August 20, 1947, plaintiff made a tender in cash of the balance due, viz., $860.96, less $844.15,- the amount of the municipal lien, and requested delivery of a deed for. the property. Upon refusal of defendant to deliver a deed plaintiff filed his bill for specific performance. The decree will be affirmed. .
+Under the agreement of sale, appellant was bound .to convey the. lot “free from all encumbrances.”. It seeks to, justify its refusal to.make.delivery of.the deed on the ground that the municipal claim did not become an encumbrance and lien until after the date of the agreement of sale. But the lower court en banc' properly held that “[T]he vendor in an agreement of sale embracing a covenant to convey free of encumbrances is obliged to deliver a deed for land that is free of liens for taxes or municipal improvements at the time when the deed is delivered,” citing in support of its position Shaffer v. Greer, 87 Pa. 370, as to municipal improvements, and Taylor v. Allen, 60 Pa. Superior Ct. 503, as to taxes. Appellant argues that neither case is in point. It agrees that “In both cases title rested upon delivery of deed,” but seeks to distinguish them upon the ground that there “was no evidence of a prior written sales agreement.”
+Section 9 of the Tax and Municipal Lien Act of May 16, 1923, P. L. 207, as amended, 53 PS §2029, provides in part that “In case the real estate benefited by the improvement is sold before the municipal claim is filed, the date of completion in said certificate [of the officer supervising the improvement] shall determine the liability for the payment of the claim as between buyer and seller, unless otherwise agreed upon . . ” (Italics supplied.) Since the parties ]iave “otherwise agreed,” as we shall presently point out, a determination as to whether the word “sold,” as used in the Act, applies to an agreement to sell or solely to a transaction consummated upon delivery of a deed is not necessary to a decision of the question involved in this appeal.
+H. R. Haines, who was a director of the defendant Company and an officer and director of Stevenson, Williams Company, exclusive agents for the defendant Land Company at the time the agreement was entered into, and who anted for appellant in entering into the agreement with appellee, testified that a standard printed form of agreement was used, from which the words “all assessments for municipal improvements” had been deleted, so that the paragraph material here appears as follows: “The Land Company agrees to pay all township and county taxes assessed upon the said land for the year 1930, but aH assessments #©¥ municipal improvements and all taxes assessed upon any buildings erected upon said land are to be paid by the Purchaser.”
+The witness further testified that the same thing was done “in practically every sale that we had. . . . To show that we would pay, as the Land Company would be responsible for the assessments made . . . [for] street improvements.” Sidewalks were to be paid for by the purchaser.
+As aptly stated by the learned chancellor: “[T]he conduct of the parties in this regard may not of itself show an intention that defendant should pay the municipal claim, but it clearly shows that they intended that plaintiff should have no contractual obligation to pay it.” Whether appellant was relying on appellee’s statutory obligation to pay it, as provided by the Act of 1923, supra, as it contends, or whether defendant intended to pay it, presented an ambiguity, and for that reason oral testimony was admitted to establish the intention of the parties. We agree with the learned court below that it was clearly admissible and that “it clearly establishes by uncontradicted and very credible testimony that the parties agreed that the vendor should pay the lien for the street improvement.” Extrinsic evidence as to.the true intent of the parties may be considered to resolve an ambiguity .in a written contract. Philadelphia v. N. Snellenburg & Co., Inc., 163 Pa. Superior Ct. 507, 63 A. 2d 480.
+-The decree is-affirmed at appellant’s costs.-
