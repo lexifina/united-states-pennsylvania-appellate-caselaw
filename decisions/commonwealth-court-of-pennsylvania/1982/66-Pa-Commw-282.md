@@ -1,0 +1,48 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 62 C.D. 1981"
+decided: "1982-04-26"
+citations: ["66 Pa. Commw. 282"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Orttmuish, Jr. and Judges Bratt and MacPhair, sitting as a panel of three.", "Judge Mencer did not participate in the decision in this case."]
+parties: ["Gary and Doris Burleson, Petitioners v. Pennsylvania Public Utility Commission, Respondent. West Penn Power Company, Intervenor."]
+source_url: "https://static.case.law/pa-commw/66/cases/0282-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1931487
+cites_cases: ["34 Pa. Commonwealth Ct. 516", "37 Pa. Commonwealth Ct. 195", "383 A.2d 997", "390 A.2d 849", "404 A.2d 1376", "45 Pa. Commonwealth Ct. 164"]
+---
+
+# Burleson v. Pennsylvania Public Utility Commission
+
+## Majority (J udge MacPhail,)
+
+Opinion by
+J udge MacPhail,
+Gary and Doris Burleson (Petitioners) have appealed to this Court from a decision of the Pennsylvania Public Utility Commission (PUC) dismissing Petitioners’ complaint that West Penn Power Co. (West Penn) had overcharged for electric service rendered between January, 1978 to June, 1979.
+The evidence presented at the hearing was, in general, uneontradieted. Petitioners live in a mobile home located in Smitlifield. Petitioners first moved into the home in August of 1976. Petitioners testified that since January of 1978 until June of 1979 they experienced problems with various electrical appliances. During this period of time electrical usage was 18% to 50% greater than was used afterwards. There was no evidence of any change in Petitioners’ pattern of usage, such as a change in family size or an increased effort at conservation; in fact, Petitioners testified that an air conditioner and swimming pool pump were added after June of 1979.
+Petitioners also presented the testimony of an expert witness, Dr. Charles Claar. After examining Petitioners’ usage patterns, Dr. Claar opined that the usage during the period of time in question was abnormally higher than the expected usage for this size family. When questioned as to the possible causes for this difference in recorded usage, Dr. Claar stated:
+Looking at all the alternatives or possibilities, the most likely possibility is that the bad cable [] which was, in all probability, a ground fault, there could have been a leakage of current to ground through the faulty cable, which could cause the meter to register additional KWH [kilowatthours] and, subsequently, the fault could have cleared itself, which would explain why they are not as high now as they were previously.
+On redirect examination, however, Dr. Claar ascribed a very low possibility to a ground fault being the cause of the increased meter reading. Furthermore, Dr. Claar testified that it would have been “rather easy” for someone to tap into Petitioners’ side of the meter and steal electricity from them, although no evidence of tampering was presented at the hearing.
+In rebuttal, West Penn presented various exhibits and expert testimony. Copies of voltmeter tests were presented, showing that on two separate periods of time in June of 1979 and once in February of 1980, the voltage coming to the meter was checked and found to be in compliance with PUC regulations. In response to interrogatories, West Penn presented information that no alterations affecting Petitioners’ electric service had been performed after May of 1978. Evidence was also presented to show that the recording capabilities of a watthour meter would not be affected by voltage fluctuation. Further documentary evidence showed no similar problems were experienced by Petitioners ’ neighbors.
+Upon this evidence, Administrative Law Judge (ALJ) Clements determined that, although Petitioners did establish a preliminary case for overcharge in showing an unusually large consumption of electricity which the household was unlikely to have used, West Penn met its burden of going forward with the evidence through evidence of meter accuracy, absence of similar problems by neighbors and the possibilities of theft or ground fault mentioned by Petitioners’ expert. The ALJ therefore ordered dismissal of the complaint and the PUC adopted the ALJ’s opinion.
+In making this decision, the ALJ relied upon the burden of proof analysis set down by the PUC in Waldron v. Philadelphia Electric Co., (Commission Docket No. C-7100047). This Waldron rule provides that a party complaining of an overcharge due to excessively high usage would establish a prima facie case, in meeting their burden of proof under Section 332(a) of the Public Utility Code, 66 Pa. C. S. §332(a), when they show 1) the disputed usage was abnormally higher when compared to other time periods, and 2) the pattern of usage had not changed. The burden of going forward would then shift to the utility, which would have to provide co-equal evidence to rebut a complainant’s prima facie case of overcharge. In this regard, the PUC determined that it would not consider a meter accuracy test, in and of itself, sufficient to rebut a prima facie case.
+Both Petitioners and West Penn have taken issue with the use of this Waldron rule in this case. Petitioners have argued that West Penn did not meet its burden of rebuttal in this case. West Penn argues that the entire Waldron rule is erroneous because the rule improperly shifts a burden to the utility. West Penn’s position is that once a meter is tested and found at that time to be accurate, then the utility is entitled to a dismissal of the complaint. In this regard, West Penn cites Philadelphia Suburban Water Co. v. Feinstein, 34 Pa. Commonwealth Ct. 516, 383 A.2d 997 (1978).
+Our scope of review here is limited to a determination of whether constitutional rights were violated (a charge not present in the instant case), an error of law was committed by the PUC or findings of fact were unsupported by substantial evidence. United States Steel Corp. v. Pennsylvania Public Utility Commission, 37 Pa. Commonwealth Ct. 195, 390 A.2d 849 (1978).
+We will first address the arguments of the parties regarding the uWaldron rule.” It is this Court’s position that this rule is no more than an evidentiary rule adopted by the PUC to determine in proceedings before it which party shall prevail. The rule is not binding upon this Court in any way. We have determined judicially that in cases of this nature, those who complain that they have been over-charged have the burden of proof. Feinstein, supra. The role of the PUC is to determine whether or not that burden has been sustained and our role is to determine whether the decision rendered by the PUC on that matter is supported by substantial evidence in the record. We hold, therefore, that we need not and will not determine whether the Waldron rule is erroneous or has been misapplied to the facts of this case by the PUC.
+Having concluded that there is no issue of law in this case, we turn now to a determination of whether there is substantial evidence in the record to support the decision of the PUC, which adopted the findings and conclusions of the ALJ. Among those findings are the following:
+6. There are suggestions on the record but no persuasive evidence from either party demonstrating with certainty the cause of the unusually high bills or the problems with electric appliances.
+10. The only significant alteration in the facilities serving the complainants was a transformer change made by the utility in June of 1978.
+11. Complainants’ neighbors served from the same facilities did not have similar problems.
+13. There is no evidence on the record sufficient to find an act or omission of the utility was responsible for complainants ’ service problems or their unusually high electric bills.
+From our review of the evidence which we summarized at the outset of this opinion, we conclude that the findings of the ALJ are based upon substantial evidence and that the conclusion he reached is compatible with what a reasonable person acting reasonably might accept as adequate to support a conclusion. Monongahela Connecting Railroad Co. v. Pennsylvania Public Utility Commission, 45 Pa. Commonwealth Ct. 164, 404 A.2d 1376 (1979).
+Order affirmed.
+Order
+It is ordered that the order of the Pennsylvania Public Utility Commission, dated December 11, 1980 Commission No. P-08822411, is hereby affirmed and the Petitioners’ application for costs of reproducing the record is denied.
+Judge Mencer did not participate in the decision in this case.
+The record indicates that the total amount of alleged overcharge was $190.00.
+For example, lights would dim, their television reception worsened, cooking took twice as long as normal and heating elements in the hot water had to be replaced several times.
+The cable referred to is a 180 foot cable extending from the meter to the Petitioners’ residence. The cable lay in an open ditch and is not in a conduit. No proof was presented by either party to show that the cable was or was not faulty.
+The work on that date was in response to an inquiry concerning voltage fluctuation.
+In the record of this case is a prior order of this Court by Judge Rogers dated May 19, 1981 which directed the Petitioners to brief the merits of their application for costs of reproducing the record and to submit that brief in or as a supplement to their brief on the merits of this case. Since the matter was not briefed, we assume that the issue was abandoned and will order that that application be denied.
