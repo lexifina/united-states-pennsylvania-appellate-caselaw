@@ -1,0 +1,34 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2088 C.D. 1981"
+decided: "1983-05-31"
+citations: ["74 Pa. Commw. 535"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogers, Craig and MacPhail, sitting as a panel of three. Re-argued April 7, 1983, before Judges Blatt, Craig and Doyle, sitting as a panel of three."]
+parties: ["Rodney L. Judd et al. v. Zoning Hearing Board of Middletown Township et al. Township of Middletown, Appellant."]
+source_url: "https://static.case.law/pa-commw/74/cases/0535-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1308861
+cites_cases: ["141 A.2d 851", "15 Pa. Commonwealth Ct. 569", "190 A.2d 712", "207 A.2d 890", "30 Pa. Commonwealth Ct. 481", "328 A.2d 528", "374 A.2d 98", "393 Pa. 62", "411 Pa. 33", "417 Pa. 397"]
+---
+
+# Judd v. Zoning Hearing Board
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+The Township of Middletown (Township) appeals here an order of the Court of Common Pleas of Delaware County which reversed a decision of the Township Zoning Hearing Board (Board). The Board decision had denied an application for a sign permit filed by the appellee, but the Court ordered the application granted.
+The relevant facts, as iound by the Board, are as follows. The tract of land at issue here is known as 6-8 North Pennell Road. The only building on the land had been converted from two semi-detached dwellings into a single office building by the applicant’s predecessor in .title, who had also placed one free-standing sign on the property identifying the office building. The land has been zoned as a Special Use District, which is designed to permit attractive research development facilities, corporate offices, and other compatible industrial uses. There are setback and sideyard requirements which the present use does not meet, but, inasmuch as it pre-dated the Township’s ordinance, this use is non-conforming. The applicant, however, sought to add another free-standing sign, and it was this permission which was denied by the zoning officer, with that denial affirmed by the Board, then reversed by the trial court, which interpreted the ordinance so as to permit installation of the sign as requested.
+It is well-settled that, where the trial court does not ■take additional evidence, our scope of review is to determine whether or not the Board abused its discretion or committed an error of law. Riddle Paddock, Inc. v. Zoning Hearing Board, Middletown Township, 30 Pa. Commonwealth Ct. 481, 374 A.2d 98 (1977).
+Section 318D of the ordinance provides:
+D. Shopping Center and Special Use District. In B-l and B-2 Shopping Center and Special Use Districts signs may be erected and maintained only when in compliance with the provisions of this sub-section and any and all other ordinances and regulations of the Township of Middletown relating to the erection, alteration or maintenance of signs and similar devices.
+1. One sign identifying or advertising the shopping center or specially used development as an entity shall be permitted on each street frontage, except for a corner property in which case only one sign shall be permitted. The area on one side of any such sign shall not exceed one hundred (100) square feet for an office building development or a single use in a Special Use District, or two hundred (200) square feet for a shopping center. Design and location of any such sign shall be subject to approval by the Planning Commission at the time of plan review. Such signs may be illuminated provided such illumination shall be so arranged and of such character so as not to be a nuisance to residential areas or a hazard to street or highway traffic.
+2. One sign for each street frontage advertising each business within the Shopping Center or Special Use District will be permitted, provided such sign does not exceed twenty five (25) square feet in area. In the case of an unusual or exceptionally large building- or use, - the Zoning Hearing Board may authorise as a special exception an increase■ in the area of such sign up to a'maximum of fifteen (15) percent• of the wall area, including windows and doors, facing any one street frontage. Such signs shall be attached to the building involved and may be illuminated within the restrictions of Sub-section D.l above. (Emphasis added.)
+The Board construed this section of the ordinance as permitting one free-standing sign identifying the Special Use Development (Section Dl) and one wall sign to advertise the business (Section D2). And, inasmuch as the applicant here sought to install an additional fre‘e-standing sign to advertise .the‘business, the Board believed and we agree that such a sign is not permitted by the ordinance. The applicant, on the other hand, has at all times challenged the constitutionality of this section, alleging that it is vague' and unduly restrictive.
+It is well-established'that signs have long been considered proper subjects of regulation for the zoning authorities. See Wildman Arms, Inc. of Swarthmore v. Zoning Hearing Board, 15 Pa. Commonwealth Ct. 569, 328 A.2d 528 (1974). And, such regulation is within the municipality’s police power and must not be arbitrary or discriminatory and must bear a reasonable relationship to the safety, morals and welfare of the community. Norate Corporation, Inc. v. Zoning Board of Adjustment, 417 Pa. 397, 207 A.2d 890 (1965). The burden of proving unconstitutionality lies, of course, with the one challenging the ordinance. Anstine v. Zoning Board of Adjustment, 411 Pa. 33, 190 A.2d 712 (1963). The ordinance is presumed constitutional, and the applicant must prove that it is clearly, palpably and plainly unconstitutional. Bilbar Construction Co. v. Easttown Township Board of Adjustment, 393 Pa. 62, 141 A.2d 851 (1958). The Township has argued here that the ordinance is reasonably related to the public health, safety and welfare in that it fosters public safety (e.g. preventing the distraction of passing motorists) and maintains the aesthetics of the area, both of which are clearly permissible objectives. Wildman Arms, Inc. The applicant, however, has not offered evidence to show clearly, palpably, and plainly that the ordinance is unconstitutionally restrictive. Bilbar Construction Co. We note, moreover, that the Township does not totally prohibit signs, but only regulates their use.
+We will, therefore, reverse the order of the trial court and reinstate the Board’s order refusing the application for a sign permit.
+Order
+And Now, this 31st day of May, 1983, the order of the Court of Common Pleas of Delaware County in the above-captioned matter is hereby reversed and the order of the Zoning Hearing Board is hereby reinstated.
