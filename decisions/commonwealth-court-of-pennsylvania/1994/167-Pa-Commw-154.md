@@ -1,0 +1,34 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "219 C.D. 1994"
+decided: "1994-08-26"
+citations: ["167 Pa. Commw. 154", "647 A.2d 660"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DOYLE and KELLEY, JJ., and NARICK, Senior Judge."]
+parties: ["Jacqueline M. STROH-TILLMAN, Petitioner, v. UNEMPLOYMENT COMPENSATION BOARD OF REVIEW, Respondent."]
+source_url: "https://static.case.law/pa-commw/167/cases/0154-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1466692
+cites_cases: ["101 Pa.Commonwealth Ct. 274", "105 Pa.Commonwealth Ct. 183", "160 Pa.Commonwealth Ct. 307", "434 A.2d 919", "515 Pa. 591", "527 A.2d 549", "62 Pa.Commonwealth Ct. 70"]
+---
+
+# Stroh-Tillman v. Unemployment Compensation Board of Review
+
+## Majority (DOYLE, Judge.)
+
+DOYLE, Judge.
+Jacqueline M. Stroh-Tillman (Claimant) appeals an order of the Unemployment Compensation Board of Review (Board) which affirmed a referee’s decision to deny her benefits under Section 402(b) of the Unemployment Compensation Law (Law), Act of December 5, 1936, Second Ex.Sess., P.L. (1937) 2897, as amended, 43 P.S. § 802(b), for voluntarily quitting her employment.
+Claimant was employed by City Avenue Hospital (Employer) as a Hysto Technologist and manager of a two-person department. In March of 1993 Claimant was demoted by Employer as the result of a grievance filed by a subordinate employee who Claimant felt was not performing her job in an efficient manner. Because of this Claimant became dissatisfied with her working conditions but knew that Employer was about to be purchased by another entity and she assumed that her working conditions would improve after the new owner took control of Employer.
+, After the purchase, however, in Claimant’s estimation, working conditions with Employer did not improve, and, on May 28, 1993, she tendered her resignation effective June 11, 1993. Shortly thereafter, Employer’s chief of pathology asked her to reconsider, which she did, and on June 7, 1993, Claimant told her manager that she was rescinding her resignation and was, further, requesting a thirty-day leave of absence and the removal of the subordinate employee. On June 10, 1993, she met with Employer and, again, stated that her conditions for reinstatement were a leave of absence and removal of the subordinate. Claimant left work on June 11, 1993, and was notified by Employer on June 18, 1993, that Employer would not agree to her conditions and, thus, accepted her resignation.
+Claimant applied to the Delaware Valley Job Center which determined that she voluntarily terminated her employment and denied her benefits. She appealed that decision to the referee who affirmed the decision. She then appealed to the Board, which affirmed the referee. The Board concluded that, while Claimant attempted to rescind her resignation, she attached conditions to that decision which were unacceptable to Employer; hence, she did not make every effort to maintain her employment relationship. This appeal followed.
+On appeal, Claimant contends that the Board erred in finding that she voluntarily terminated her employment because she revoked her resignation.
+Under Section 402(b) of the Law, an employee is ineligible for unemployment compensation benefits, when his or her unemployment “is due to voluntarily leaving work without a cause of a necessitous and compelling nature.... ” The burden of proof is on the employee to demonstrate that his or her employment was terminated for a necessitous and compelling reason. Accu-Weather, Inc. v. Unemployment Compensation Board of Review, 160 Pa.Commonwealth Ct. 307, 634 A.2d 818 (1993). In order to sustain that burden, a claimant “must establish that he acted with ordinary common sense in quitting his job, that he made a reasonable effort to preserve his employment, and that he had no other real choice than to leave his employment.” Malloy v. Unemployment Compensation Board of Review, 105 Pa.Commonwealth Ct. 183, 187, 523 A.2d 834, 836 (1987). The pressure to terminate employment must be real and substantial, such that a reasonable person under the circumstances would act in the same manner. Id.
+Generally, an employee may revoke a resignation and avoid a voluntary termination of employment if the employer has not taken any steps to replace the employee. Zimmerman v. Unemployment Compensation Board of Review, 101 Pa.Commonwealth Ct. 274, 516 A.2d 102 (1986), petition for allowance of appeal denied, 515 Pa. 591, 527 A.2d 549 (1987); Tretter v. Unemployment Compensation Board of Review, 62 Pa.Commonwealth Ct. 70, 434 A.2d 919 (1981). Since nothing in the record indicates that Employer ever took steps to replace Claimant, the real issue is whether Claimant actually revoked her resignation in the first instance.
+Claimant argues that she attempted to revoke her resignation but Employer rejected that attempt; she asserts that, since Employer took no steps to replace her, she is, therefore, entitled to benefits under Zimmerman and Tretter. On the other hand, the Board argues that Claimant did not effectively revoke her resignation because she attached conditions to her decision.
+We agree with the Board, and hold that a Claimant’s revocation of a resignation must be unconditional in such circumstances.
+Here, Claimant did not revoke her resignation, but attached conditions to the revocation (a leave of absence and the removal of the subordinate worker) in an attempt to negotiate better working conditions for herself; in effect, conditions precedent, which Employer had to agree to before she would rescind her resignation and return to her position. Since Employer refused to accept Claimant’s conditions, her decision to revoke her resignation never became effective.
+We, therefore, hold that the Board correctly determined that Claimant voluntarily terminated her employment and was, thus, ineligible for benefits under Section 402(b) of the Law.
+ORDER
+NOW, August 26, 1994, the order of the Unemployment Compensation Board of Review in the above-captioned matter is hereby affirmed.
