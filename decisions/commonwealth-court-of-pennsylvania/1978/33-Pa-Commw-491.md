@@ -1,0 +1,33 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1530 C.D. 1976"
+decided: "1978-02-03"
+citations: ["33 Pa. Commw. 491"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Cbumlísh, Jb. and Blatt, sitting as a panel of two."]
+parties: ["William Roebuck, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/33/cases/0491-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1884706
+cites_cases: ["18 Pa. Commonwealth Ct. 151", "18 Pa. Commonwealth Ct. 378", "23 Pa. Commonwealth Ct. 66", "29 Pa. Commonwealth Ct. 245", "333 A.2d 815", "336 A.2d 654", "350 A.2d 220", "370 A.2d 432"]
+---
+
+# Roebuck v. Commonwealth
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+William Roebuck (claimant) appeals here from an order of tbe Unemployment Compensation Board of Review (Board) which affirmed a referee’s decision denying bim unemployment compensation.
+The claimant had been employed as a shuttle car operator by the Island Creek Coal Co. (employer) for a period of fifteen months. He had a history of absenteeism and had been previously suspended three times as a result thereof, but, pursuant to the employer’s policy, he was reinstated each time when he produced records indicating that his absences had been caused by illness. On February 4, 1976 he had again been absent from work for a period of six working days without reporting off, and his employer on that date discharged him by letter for failure to report to work.
+The Bureau of Employment Security (Bureau) denied the claimant’s application for unemployment compensation, determining that he had been discharged for wilful misconduct and was consequently ineligible for benefits pursuant to Section 402(e) of the Unemployment Compensation Law (Act), 43 P.S. §802(e). Upon appeal, the referee affirmed the Bureau’s denial of compensation but modified the determination to indicate that benefits were being denied under Section 402(b)(1) of the Act, 43 P.S. §802(b)(l), which denies benefits where a claimant has voluntarily left work without cause of a necessitous and compelling nature. Upon further appeal, the Board affirmed the referee’s denial of benefits but modified the determination so as to indicate that benefits were denied because of wilful misconduct. This appeal followed.
+Section 510 of the Act, 43 P.S. §830, provides that this Court’s scope of review in unemployment compensation appeals is confined to questions of law and, absent fraud, to a determination of whether or not the findings of fact are supported by the evidence. The claimant argues here that: (1) the Board’s findings are not supported by substantial evidence, and (2) he was not in violation of Ms employer’s absenteeism policy at the time of Ms discharge so that the employer failed to meet his burden of establishing that the claimant was guilty of wilful misconduct.
+The question of whether or not an employe’s action which led to his dismissal rises to the level of wilful misconduct is one of law and is, therefore, subject to our review. O’Keefe v. Unemployment Compensation Board of Review, 18 Pa. Commonwealth Ct. 151, 154, 333 A.2d 815, 817 (1975).
+The claimant urges first that the referee’s finding that he did not report off properly for work during his last period of absence is not supported by substantial evidence. He testified at the hearing before the referee that he had called the employer to report his absence as was required by the employer’s policy. The employer’s representative testified, however, that the employer had no contact with the claimant during this period. This conflict in the testimony clearly presented an issue of credibility to the referee who resolved it in favor of the employer’s representative, and we must let the finding stand. We have many times recognized that it is the referee’s duty to resolve conflicts in the evidence and that a referee’s finding is not unsupported by substantial evidence simply because conflicting evidence exists in the record wMch the referee chose not to believe. See, e.g., Simpson v. Unemployment Compensation Board of Review, 29 Pa. Commonwealth Ct. 245, 248, 370 A.2d 432, 435 (1977).
+The claimant also argues that he was not in violation of his employer’s absenteeism policy at the time of his discharge and that the employer therefore, f ailed to meet his burden of establishing that the claimant was guilty of wilful misconduct. Although absenteeism by itself generally does not constitute wilful misconduct, Unemployment Compensation Board of Review v. Blouse, 23 Pa. Commonwealth Ct. 66, 68, 350 A.2d 220, 222 (1976), the failure to report an absence in the proper manner under the employer’s rules, particularly after receiving a warning to comply with those rules, does constitute wilful misconduct justifying discharge and precluding recovery of benefits. Ralston v. Unemployment Compensation Board of Review, 18 Pa. Commonwealth Ct. 378, 380, 336 A.2d 654, 655 (1975). Here, the employer’s representative testified that it was the employer’s policy to suspend employes from the payroll who had failed to report off properly and whose absence had lasted more than eight days, but that the employe would be reinstated if and when he presented evidence of an acceptable reason for such absence. The claimant had failed to report off, but had been absent for only six working days when he was discharged, and his argument appears to be that no finding of wilful misconduct could be made for less than an eight-day absence. The record indicates, however, that the employer had suspended him on three prior occasions when he had violated the employer’s absenteeism policy, and that he admitted awareness of the employer’s rules and that he had been previously warned of the possible consequences of violating them. In this context, we believe that the claimant’s repeated failure to report off when absent as required constituted a disregard of the standards of behavior which the employer had the right to expect of him, regardless of the length of his absence, and that what he did, therefore, amounted to wilful misconduct.
+The order of the Board is affirmed.
+Order
+And Now, this 3rd day of February, 1978, the order of the Unemployment Compensation Board of Review dated July 21, 1976 and docketed at B-132720 is hereby affirmed.
+Act of December 5, 1936, Second Ex. Sess., P.D. (1937) 2897, as amended, 43 P.S. §751 et seq.
