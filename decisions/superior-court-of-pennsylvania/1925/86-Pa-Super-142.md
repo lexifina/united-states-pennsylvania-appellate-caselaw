@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 18"
+decided: "1925-07-09"
+citations: ["86 Pa. Super. 142"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, Henderson, Trexler, Keller, Linn and Gawthrop, JJ.", "Before Edwards, P. J. •"]
+parties: ["Templeton, Appellant, v. Templeton."]
+source_url: "https://static.case.law/pa-super/86/cases/0142-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 569572
+cites_cases: ["83 Pa. Superior Ct. 554"]
+---
+
+# Templeton v. Templeton
+
+## Majority (Portee, J.,)
+
+Opinion by
+Portee, J.,
+The appellant instituted this proceeding for divorce, alleging that the respondent had been guilty of wilful and malicious desertion, persisted in for the period of two years and upwards. The proceedings were ex parte; the respondent was not served with process, or represented at the hearing. In the testimony taken in support of his action libellant had testified that he had lived at No. 1704 Linden Street, Scranton, for two years, and his testimony was such as to warrant a finding that he did not know where the respondent then lived. The court, upon consideration of the ex parte testimony, on April 16, 1923, entered a decree of divorce from the bonds of matrimony.
+Oln August 24, 1923, the respondent presented a petition, averring, under oath, that the libellant, in October, 1918, without any just or reasonable cause, refused to admit the respondent, his wife, to his home and also refused to live with or support her and had consistently refused to live with the respondent or admit her to his home since that date, although frequently requested by her to so admit her. It further averred that she had instituted proceedings in the County of Luzerne in March, 1919, charging the libellant with desertion and non support, and that the Court of Quarter Sessions of Luzerne County, on March 15, 1919, after a hearing, had sentenced libellant to pay to the respondent the sum of $12 per month for support, which sum the libellant had regularly paid until April, 1923, when payments ceased. It further averred that the residence of respondent had, from October, 1918, until the present time been at No. 157 Prospect Street, 'Wilkes-Barre, which fact was well known to this appellant, and that the appellant had regularly every month, until April, 1923, mailed to her attorney at Wilkes-Barre a check payable to the order of the respondent, for the sum of $12, in accordance with the sentence of the Court of Quarter Sessions of Luzerne County. It further averred that this appellant had continuously resided in Luzerne County since 1890; that he was the owner of a house, in Hanover Township, Luzerne County, where he made his home during several years last past, and that he had not removed the furniture from said house or performed any other act which indicated to the people of the neighborhood that he had changed Ms residence to Scranton; that the appellant was not a resident of Scranton at the time of the execution of the libel in divorce and that the allegation of Ms libel, as to his residence, was a pure fiction, and only made for and with the purpose of imposing upon the court, for the purpose of obtaining a divorce. The petition prayed that the decree of divorce be absolutely annulled and vacated, for the fraud of the libellant. The court on presentation of the petition granted a rule on the libellant to show cause why the decree of divorce should not be rescinded and annulled. 'This rule, together with a copy of the petition, was duly served upon the libellant, on October 17, 1923. The libellant filed no answer to the rule and has not made any attempt to deny the facts alleged in the petition. The rules of the court below provide that on hearing of a rule to show cause, duly served, all the facts contained in the petition not denied in the answer shall be taken as confessed. The court filed an opinion and entered the following decree: “Now, December 29, 1923, the decree of divorce granted appellant on April 16, 1923, is annulled and made void.” The libellant appeals from this final decree.
+The courts have power to set aside a decree of divorce obtained by fraud and imposition, and it is their duty to do so when the fraud and imposition are clearly established: Fleming v. Fleming, 83 Pa. Superior Ct. 554. This respondent had no knowledge of the proceeding until after the decree of divorce was entered, and when it came to her knowledge promptly moved to have the decree vacated. The facts averred in the petition, which the appellant, although duly served with notice, has not seen fit to deny, must under the rules of the court below be taken as admitted. The decree was secured by false swearing and suppression of the truth. In Fleming v. Fleming, supra, we said, speaking through our Brother Keller: “This applies, in my opinion, to libellant’s testimony that he had no knowledge as to the respondent’s whereabouts......no less than to his evidence as to the grounds of divorce.” The court below rightly held that the decree must be revoked.
+The decree of the court below, annulling and setting aside the decree of divorce previously entered, is affirmed, and the appeal dismissed at cost of the appellant.
