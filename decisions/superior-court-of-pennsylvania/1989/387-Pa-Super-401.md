@@ -1,0 +1,38 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "03173"
+decided: "1989-09-21"
+citations: ["387 Pa. Super. 401", "564 A.2d 239"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WIEAND, BECK and MONTGOMERY, JJ."]
+parties: ["In re Jaime Lynn RICHIE, a Minor, by Her Parent and Natural Guardian, Lisa Richie BOEHM, Petition for Change of Name. Appeal of Stanley KOPERTOWSKI."]
+source_url: "https://static.case.law/pa-super/387/cases/0401-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 471238
+cites_cases: ["260 Pa.Super. 371", "365 Pa.Super. 98"]
+---
+
+# In re Richie
+
+## Majority (BECK, Judge:)
+
+BECK, Judge:
+Appellant, Stanley Kopertowski, the natural father of Jaime Lynn Richie, appeals an order granting the petition of Jaime Lynn’s mother to change the child’s surname.
+Jaime Lynn Richie was born out of wedlock to Stanley Kopertowski and Lisa Richie. The child has always shared her mother’s surname, and has resided with her mother since birth. Appellant contributes to the support of the child and both he and the child’s paternal grandmother have maintained a continuous relationship with Jaime Lynn.
+In June of 1986, Lisa Richie married Kevin Boehm, assumed the surname of Boehm, and filed a petition to change the child’s surname to Boehm. In the petition, Lisa Boehm noted that the child would soon be enrolled at a parochial grade school and that she believed it to be in the child’s best interest to share the new surname of her mother. The petition also noted the fact that the child had at no time assumed the surname of her natural father. The trial court found that the name change would be in the best interest of the child and the petition was granted. This appeal followed.
+Appellant asserts that the trial court erred in granting the name change petition: (1) in the absence of any supporting testimony or evidence; (2) where it placed the burden of proof upon appellant; and (3) where it disregarded appellant’s legitimate objections to the name change, particularly, that it would interfere with his relationship with the child.
+Initially, we note that in granting or refusing a name change petition after due hearing and notice, the court has wide discretion. Matter of Montenegro, 365 Pa.Super. 98, 100, 528 A.2d 1381, 1383 (1987). Our scope of review is limited to the question of whether the evidence is sufficient to support the decision reached by the court. Id.
+Appellant contends that the trial court erred in making its decision based upon argument by counsel where appellant had no opportunity to present his testimony and where the court disregarded appellant’s objections to the name change. In support of his position, appellant cites to the notes following 54 Pa.C.S.A. § 101 (Purdon supp. 1989):
+(a) Any person desiring to change his or her name shall file a Petition in the court of common pleas in the county in which he or she shall reside, setting forth such desire and intention and the reason therefor, together with the residence of petitioner, and his or her residence or residences for and during five years prior thereto.
+(b) At the hearing of said petition, any person having lawful objection to the change of name may appear and be heard.
+Appellant omits the next sentence of the note which provides:
+If the court be satisfied after said hearing that there is no lawful objection to the granting of the prayer of said petition, a decree may be entered by said court changing the name as prayed for ...
+Contrary to appellant’s view, we find no error in the procedure followed by the trial court. A hearing was held, and appellant’s attorney was permitted to present appellant’s argument. We find equally unpersuasive appellant’s assertion that the child’s mother failed to satisfy the burden of showing why a name change was in the child’s best interest.
+Much of the caselaw cited by appellant involves facts quite different from those in the instant case. For example, appellant cites Petition of Alexander, 260 Pa.Super. 371, 394 A.2d 597 (1978), in which an ex-convict’s petition for name change was initially denied because of the Commonwealth’s assertion that this would pose a danger to the public. A panel of this Court reversed finding no evidence of record to support the denial. Appellant claims that like the Commonwealth in Alexander, Jaime Lynn’s mother offers no more than a “bald assertion” that the change of name would be in the child’s best interest. In this case, however, we are not dealing with an adult name change but with a petition to change the name of a child. Our balancing test therefore must be at all times focussed upon that child’s interests. As has been recognized, “the child’s best interests unquestionably must control in a proceeding to change a minor child’s surname.” Montenegro, supra, 365 Pa.Super. at 101, 528 A.2d at 1382.
+It seems clear to us from the face of the petition alone that the child’s mother offered sufficient support for her position that a name change would be in the child’s best interest. It seems only logical that a child will grow up feeling more part of a family unit when she shares the name of the parent with whom she resides, in this ease, her mother. Appellant appears to completely disregard the impact which denial of this petition might have on the child. He boldly asserts that the mother’s reasons for seeking the name change “have less to do with making Jaime Lynn’s life easier than they do with making [mother’s] life more respectable since Jaime Lynn would then be known to the world by her stepfather’s name and presumed to be his child. This result is not in the child’s best interest since it would be detrimental to her relationship with appellant.” We disagree.
+It is easy to understand why a father would object to the name change of a child who shares his surname. A name change in that case could arguably have some effect upon the parent-child relationship, at least to the extent that the child would no longer be held out to the world as the issue of his or her father. In the instant case, the child has had her mother’s name from birth. With her present surname of Richie, Jaime Lynn is no more or less “known to the world” as appellant’s child then she would be with any other surname. To insist that the child retain her current surname under these circumstances would provide no real benefit to appellant, but may well work to the detriment of the child whose mother has assumed a new name.
+Appellant claims that the name change would be detrimental to his relationship with Jaime Lynn as it would lead to the presumption that she is the natural child of Kevin Boehm. However, we perceive this argument as one aimed more at the best interest of appellant than that of the child. The child’s mother made clear that the child knows appellant as her natural father. Whether the child retains the name of Richie or assumes the name of Boehm seems of little consequence vis-a-vis the father-child relationship. What is of consequence is how the child will be identified to the outside world, a particularly important factor as Jaime Lynn enters school. Certainly, in this age of ever-shifting family dynamics, there are many children who do not share the surname of a natural parent. However, where a child has the opportunity to share the name of the family with whom she lives, we see no reason to thrust upon the child the burden of explaining why she does not share that name.
+For the foregoing reasons, we agree with the conclusion of the trial judge that it would clearly be in the child’s best interest to share the surname of her mother.
+Affirmed.
