@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 815"
+decided: "1966-03-24"
+citations: ["207 Pa. Super. 329"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, I\\ J., Wright, Watkins, Montgomery, Jacobs, and Hope-man, JJ. (Flood, J., absent).", "Ervin, P. J., and Hoffman, J., would affirm on the opinion of the court below."]
+parties: ["McGowan v. Upper Darby Pet Supply et al., Appellants."]
+source_url: "https://static.case.law/pa-super/207/cases/0329-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 775218
+cites_cases: ["115 A. 2d 853", "154 A. 2d 298", "178 Pa. Superior Ct. 537", "181 A. 2d 726", "188 A. 2d 770", "189 A. 2d 189", "190 Pa. Superior Ct. 319", "198 Pa. Superior Ct. 247", "200 Pa. Superior Ct. 277", "200 Pa. Superior Ct. 390", "203 A. 2d 393", "204 Pa. Superior Ct. 94", "205 Pa. Superior Ct. 66", "206 Pa. Superior Ct. 450", "208 A. 2d 40", "214 A. 2d 270"]
+---
+
+# McGowan v. Upper Darby Pet Supply
+
+## Majority (Wright, J.,)
+
+Opinion by
+Wright, J.,
+This is a workmen’s compensation case. The Referee made an award for five months total disability and for partial disability thereafter. The Board sustained the employer’s appeal and dismissed the claim petition. The Court of Common Pleas of Delaware County upheld claimant’s exceptions and remanded the record to the Board “for further proceedings in accordance with the findings and law contained in this opinion”. The employer and its insurance carrier have appealed to this court.
+John McGowan was employed by Upper Darby Tet Supply as a meat cutter, truck driver, and general handyman. His claim petition alleged that he suffered a heart attack on April 7, 1964, while in the course of his employment. An answer was filed denying that an accidental injury had occurred. The Referee found that claimant had sustained an accident “in that he had unusual and heavy exertion when he had to lift a heavy weight of 100 to 125 pounds off the floor by himself”. The Board held that claimant had failed to prove the happening of an accident. Although the lower court conceded that it did not have authority to adopt the Referee’s findings, the effect of its order was to direct the Board to do so. This order was not interlocutory: Messikomer v. Baldwin Locomotive Works, 178 Pa. Superior Ct. 537, 115 A. 2d 853.
+Claimant’s version of the incident in his claim petition does not mention any unusual lifting, nor was there any reference thereto in the hospital records, the report prepared by claimant’s physician, Dr. Gerald Chalal, the history given by claimant to the employer’s physician, Dr. Daniel W. Lewis, the narration of the incident by claimant to his employer; Frank M. Green, or in claimant’s, own signed statement executed on April 22, 1964. Indeed,, the statement just mentioned expressly sets forth that claimant’s arm.pains occurred while he was “doing my regular work . . . nothing unusual happened, just my regular work”. The Referee’s finding was based solely on claimant’s testimony at the hearing that the slabs of horse meat which it was his duty to unload.-from the truck, and later to cut, were- ordinarily hung on hooks but would sometimes fall to the floor,. that on the morning in question he had picked up a slab of meat weighing over 100 pounds and put it back on the hook, and that he had never before picked up a heavy slab of meat from the floor without assistance. On the other hand, Green testified that claimant had picked up a heavy slab of meat from the floor “lots of times”.
+It was claimant’s burden to prove.all of the elements, necessary to support an award: Chernetsky v. William Penn Stripping Co., 200 Pa. Superior Ct. 277, 188 A. 2d 770. The- Board is the final arbiter of the facts: Ferlazzo v. Harbison-Walker Refractories Co., 200 Pa. Superior Ct. 390, 189 A. 2d 189. Since the Board found against the claimant, the evidence on appeal must be viewed in the light most favorable to the employer: Lind w. Argo Lamp Co., 198 Pa. Superior Ct. 247, 181 A. 2d 726. The- question before us is not whether the evidence- >vould support a finding in favor of the claimant, but whether there has been a capricious disregard of competent evidence in the failure to so find: McFarlane v. Mellon-Stuart Co., 205 Pa. Superior Ct. 66, 208 A. 2d 40.
+The doing of an occasional act involving sustained muscular effort may be part of the usual duties of a workman and, though the work is hard, if it is of the same kiud and quantity and done in the same manner as it has been performed in the past, disability resultr ing from the exertion does not constitute an accident: Bonaduce v. Transcontinental Gas Pipe Line Corp., 190 Pa. Superior Ct. 319, 154 A. 2d 298. Accepting claimant’s testimony in the instant case that he lifted a heavy slab of meat from the floor, we fully agree with the Board that “the lifting incident described by the claimant did not constitute an unusual or a materially different exertion than what was normally required of the claimant in the course of his employment”. Cf. Pudlosky v. Follmer Trucking Co., 206 Pa. Superior Ct. 450, 214 A. 2d 270. The unusual pathological result doctrine, suggested in claimant’s brief, has never been applied in heart cases.
+. In brief, not only do we fail to perceive any capricious disregard of competent evidence, but also it is our view that the Board arrived at the only conclusion which it could properly have reached on this record. The decision of the Board should not have been disturbed. Cf. Krasznay v. Milton Ross Metals Co., 204 Pa. Superior Ct. 94, 203 A. 2d 393.
+Order reversed, and record remitted to the court below for entry of judgment in favor of appellants.
+Ervin, P. J., and Hoffman, J., would affirm on the opinion of the court below.
+“I was cutting horse meat, at the pet supply at 9:15 A.M., when I first started with pains in my left arm. I start my usual deliveries at 10:00 A.M. and as the morning progressed the pains became worse. While serving a customer at 134 Lansdowne Court, the pains (h)it my chest. The customer in turn contacted a doctor who sent me to the Delaware County Hospital. My family doctor transferred me to the Hahnemann Hospital. The nature of the injury was a heart attack”.
