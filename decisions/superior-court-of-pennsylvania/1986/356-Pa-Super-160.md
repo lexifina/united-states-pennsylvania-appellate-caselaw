@@ -1,0 +1,39 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "00116"
+decided: "1986-08-27"
+citations: ["356 Pa. Super. 160", "514 A.2d 194"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CIRILLO, President Judge, and WICKERSHAM and KELLY, JJ."]
+parties: ["William EDNEY v. SOUTHEASTERN PENNSYLVANIA TRANSPORTATION AUTHORITY and John Collington. Appeal of SOUTHEASTERN PENNSYLVANIA TRANSPORTATION AUTHORITY."]
+source_url: "https://static.case.law/pa-super/356/cases/0160-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 655385
+cites_cases: ["329 Pa.Super. 437", "334 Pa.Super. 34", "342 Pa.Super. 577", "350 Pa.Super. 239", "495 A.2d 1384"]
+---
+
+# Edney v. Southeastern Pennsylvania Transportation Authority
+
+## Majority (CIRILLO, President Judge:)
+
+CIRILLO, President Judge:
+This is an appeal from an order entered in the Court of Common Pleas of Philadelphia County denying appellant’s petition to vacate a previous sanction order by which judgment was entered on behalf of appellee. On appeal, appellant contends that, (1) the sanctions imposed by the trial court were overly harsh in that they effectively precluded appellant from entering any defense; and (2) the trial court abused its discretion in entering this type of sanction. We find that the order of December 6, 1985 is not appealable; therefore, we quash the present appeal.
+Appellee, William Edney, initiated a major, non-jury trial against appellant, Southeastern Pennsylvania Transportation Authority (SEPTA) and co-defendant, John Collington, driver of an automobile involved in an accident with a trolley owned and operated by SEPTA. Appellee was a passenger on the trolley at the time of the accident. On July 11,1984, appellee forwarded to SEPTA a set of written interrogatories and a request for production of documents.
+SEPTA failed to return the answers or respond to the request for the production of documents, and appellee filed a motion with the Court of Common Pleas of Philadelphia County to compel compliance with the discovery order. A copy of the motion was mailed to SEPTA at this time. SEPTA neither complied with, nor objected to this motion.
+On November 14, 1984, the Honorable Ethan Allen Doty ordered SEPTA to file full and complete answers to appellee’s interrogatories, and produce the requested documents within twenty days, or suffer appropriate sanctions. Seven months passed with no response from SEPTA. Appellee then filed a motion asking that further sanctions be imposed by the court against SEPTA. A copy of this motion was mailed to SEPTA which again failed to respond. On August 7, 1985, Judge Doty ordered judgment entered on behalf of appellee as sanction against SEPTA for failure to comply with the original court order of November 14, 1984. Judgment was entered on the issue of liability only, with damages to be assessed at arbitration.
+SEPTA filed its answers to interrogatories on August 23, 1985. Three days later SEPTA filed additional answers to interrogatories, as well as a crossclaim against co-defendant, John Collington under Pa.R.C.P. 2252(d), and a petition to vacate the order of Judge Doty dated August 7, 1985.
+On December 6,1985, the Honorable Alfred J. DiBona Jr. issued an order denying the petition of SEPTA to vacate the order of August 7, 1985, and on February 5, 1986, Judge DiBona issued his opinion affirming his previous order.
+The present case falls squarely within this Court’s recent decisions in Simpson v. Allstate Insurance, 350 Pa.Super. 239, 504 A.2d 335 (1986); Livolsi v. Crosby, 334 Pa.Super. 34, 495 A.2d 1384 (1985); Miller Oral Surgery, Inc. v. Dinello, 342 Pa.Super. 577, 493 A.2d 741 (1985). These cases hold that a judgment entered as a sanction for failure to comply with a discovery order is not subject to a petition to open. Rather, a default judgment of this nature is open only to a motion for reconsideration, which motion the trial court must grant, if at all, within thirty days of the judgment. Denial of such a motion is not appealable.
+In Miller, we first cited Sims v. Feingold, 329 Pa.Super. 437, 478 A.2d 868 (1984) to establish that an order entering a default judgment as a discovery sanction is interlocutory and not appealable until after damages have been determined.
+Appellants cannot obtain appellate review of the trial court’s sanction order under the guise of a petition to open the default judgment entered on the issue of liability. The judgment entered solely on the issue of liability did not terminate the litigation. Therefore, it was interlocutory and unappealable; it will not be rendered final and appealable because the trial court subsequently denied a petition to open it.
+Miller Oral Surgery, Inc. v. Dinello, supra, 342 Pa.Superior Ct. at 581, 493 A.2d at 743. We then examined the nature of a default judgment entered by the trial court pursuant to Pa.R.C.P. 4019(c)(3).
+A sanction order entering judgment pursuant to Pa.R. C.P. 4019(c)(3) is not subject to a petition to open. There is no authority in the rules for such a petition, and orderly practice suggests that there should be none____ A party may request a court to reconsider a sanction order entering judgment, of course, but neither reconsideration nor refusal to reconsider will transform an interlocutory order into one that is final and appealable.
+Id., 342 Pa.Superior Ct. at 581, 493 A.2d at 743. After reaching this determination, we considered the possible application of Pa.R.A.P. 311(a)(1) which lists those interlocutory orders appealable as of right:
+This rule [Pa.R.App.P. 311(a)(1) ] does not aid appellants in the instant case. As we have observed the trial court’s sanction order entering judgment on the issue of liability in this case was not properly the subject of a petition to open. Appellants’ petition, therefore, must be treated as a petition to the trial court to reconsider its prior order____ The trial court’s refusal to reconsider its prior order, however, is not appealable.
+Id., 342 Pa.Superior Ct. at 581, 493 A.2d at 743-44.
+Our rationale in Miller is particularly applicable to the present case. Here, as in Miller, the trial court entered judgment in favor of appellee as a sanction for appellant’s failure to comply with discovery orders. This appeal then purportedly arose from the denial of appellant’s petition to vacate the sanction judgment. However, as stated in Miller, supra, denial of a petition for reconsideration is not appealable. This appeal therefore is not properly taken and must be quashed on that basis.
+The issues submitted for our consideration also provide a different basis for this appeal. Should we instead focus our review on the subject of this appeal as stated in the issues raised by SEPTA, we must shift our review to the sanction order of August 7, 1985, entering default judgment in favor of appellee. That judgment, entered pursuant to Pa.R.C.P. 4019(c)(3), determining liability only, constituted a default judgment, interlocutory in nature. A default judgment of this nature is not appealable until judgment has also been entered on the issue of damages. Miller, supra.
+Thus, whether this appeal presents for our consideration, either the denial of appellant’s petition for reconsideration, or the validity of the sanction order entering default judgment, we find that the appeal at present is improper and therefore must be quashed. “By quashing the present appeal and refusing to review the propriety of the trial court’s sanction order at this time, we limit to one the number of appeals which can be spawned by the same action.” Miller Oral Surgery, Inc. v. Dinello, supra, 342 Pa.Superior Ct. at 582, 493 A.2d at 744.
+Accordingly, the present appeal is quashed.
