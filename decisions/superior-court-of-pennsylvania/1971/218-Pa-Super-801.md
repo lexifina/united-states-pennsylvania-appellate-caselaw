@@ -1,0 +1,19 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 377"
+decided: "1971-03-23"
+citations: ["218 Pa. Super. 801"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth v. Goodman, Appellant."]
+source_url: "https://static.case.law/pa-super/218/cases/0801-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 794801
+---
+
+# Commonwealth v. Goodman
+
+## Majority
+
+Order affirmed.
