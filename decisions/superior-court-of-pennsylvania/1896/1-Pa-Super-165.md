@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 37"
+decided: "1896-01-20"
+citations: ["1 Pa. Super. 165"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Willard, Beaver, Reeder, Wickham, McCarthy and Orlady, JJ."]
+parties: ["E. S. Hand, Appellee, v. William Russel, Appellant."]
+source_url: "https://static.case.law/pa-super/1/cases/0165-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 268637
+cites_cases: ["100 Pa. 159", "108 Pa. 69", "112 Pa. 203", "114 Pa. 35", "126 Pa. 390", "142 Pa. 271", "148 Pa. 503", "21 W. N. C. 265", "29 Pa. 92", "41 Leg. Int. 134", "57 Pa. 410", "67 Pa. 459", "85 Pa. 369"]
+---
+
+# Hand v. Russel
+
+## Majority (Beaver, J.,)
+
+Opinion by
+Beaver, J.,
+The plaintiff’s action in this case was founded upon three several contracts for advertisements to be inserted in books descriptive and illustrative of the Pennsylvania Company’s ' building and of the Penn. Mutual Life Insurance Company’s building in the city of Philadelphia. For these advertisements the defendant agreed to pay a sum aggregating $765. In addition to the advertisement the defendant was to receive twenty copies of the book describing and illustrating the Pennsylvania Company’s building and ten copies of the book descriptive and illustrative of the Penn. Mutual Life Insurance Company’s building. The amount of these several contracts, as was stipulated therein, was to be paid in trade. Each of the contracts contains this clause: “ It is agreed that the whole agreement between the parties is contained in this contract.” Upon the back of each, in order to make the terms more specific and preservative of defendant’s rights, he made these indorsements: “ The within named amount is only available as a credit and is to be deducted from my price for work other than I have estimated on or contracted for prior to the date hereof. In the event of the contract for the said work not being awarded me, I am to be absolutely acquitted of any charge for the advertising herein provided.” An opportunity to do work not contracted for before the date of these agreements and for an amount greater than the entire amount stipulated to be paid by them was offered to the defendant, which he accepted, but subsequently refused to perform, for reasons not very definitely explained by him in his affidavit of defense. Upon his failure to do the work, a suit was brought for the amount of the aggregate of the several contracts. The statement was full and specific. The defendant filed two several affidavits of defense in which he alleged great importunity on the part of the plaintiff in securing the contracts and a contemporaneous oral agreement, made at their signing, which he alleged was the inducement to his signing them, that he was not to pay the amount therein stipulated, “ unless said advertisements should bring deponent sufficient work to net him in profits as much or more than their respective amounts.” He also alleged an agreement as to quality and as to the distribution of the books and averred that the books were not up to the standard nor was the distribution made as agreed upon. Upon the hearing upon a rule to show cause why judgment should not be entered for want of'a sufficient affidavit of defense, the court below made the rule absolute and entered judgment for the plaintiff for the full amount of his claim, with interest. From this judgment the defendant appeals to this court and alleged as erroneous the entering of the judgment for want of a sufficient affidavit of defense, for the reasons:
+1st. That there was a contemporaneous oral agreement made at the time of the signing of the contract notes which must be considered a part of the written agreement, as it was this oral agreement which induced defendant to sign the notes, which fact only a jury can determine.
+2d. That the affidavit of defense alleges that the books were not up to the standard and that they were never distributed, which fact only a jury can determine.
+8d. That the supplemental affidavit of defense avers that the plaintiff falsely and fraudulently verbally represented to the defendant that he would not collect said contract notes, unless the advertisement inured to defendant’s benefit, which fact only a jury can determine.
+The alleged oral agreement, even if defendant were able to bring his proof up to the measure required by the late authorities in Pennsylvania, is so indefinite that it ought not to be allowed to prevail against the express terms of the written contracts which provide that the whole agreement between the parties is therein contained.
+Within what time was it stipulated that said advertisements should bring defendant sufficient work to net him in profits as much or more than the respective amounts of the contracts ? There is no time fixed in the affidavit and it would be unreasonable to require the plaintiff to wait an indefinite time before that question could be determined. The affidavit in this respect lacks the clearness and precision which is required to establish a contemporaneous oral agreement which induced the execution of a written contract to vary, change or reform the instrument. See Thomas et al., v. Loose et al., 114 Pa. 35. This disposes of the first and third specifications of error.
+As to the second, it is sufficient to say that nothing whatever is said in the written agreement as to the quality of the books nor is it alleged in the affidavit that any representations were made -to the defendant as to quality nor that any agreement was made as to distribution. The defendant is alleged to have received twenty of the books descriptive of the Pennsylvania Company’s building- and ten boobs descriptive of the Penn. Mutual Life Insurance Company’s building, and this he does not deny.
+We are of opinion that the affidavits of defense taken together were insufficient and that the judgment was properly entered for the plaintiff by the court below. The judgment is therefore affirmed.
