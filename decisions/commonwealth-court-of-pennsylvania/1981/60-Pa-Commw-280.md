@@ -1,0 +1,48 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1904 C.D. 1979"
+decided: "1981-07-01"
+citations: ["60 Pa. Commw. 280"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Crttmlish and Judges Rogers and Williams, Jr., sitting as a panel of three."]
+parties: ["John W. Heffelfinger, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent. United States Postal Service, Intervening Party Respondent."]
+source_url: "https://static.case.law/pa-commw/60/cases/0280-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1922522
+cites_cases: ["153 A.2d 477", "397 Pa. 134", "402 A.2d 1154", "422 A.2d 240", "427 A.2d 1289", "44 Pa. Commonwealth Ct. 53", "54 Pa. Commonwealth Ct. 583", "58 Pa. Commonwealth Ct. 504"]
+---
+
+# Heffelfinger v. Commonwealth, Unemployment Compensation Board of Review
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+John W. Heffelfinger was discharged from his employment as a United States Postal Service window clerk for reasons the Unemployment Compensation Board of Review decided constituted wilfull misconduct which, by Section 402(e) of the Unemployment Compensation Law, rendered him ineligible for benefits. He has appealed.
+The claimant’s duties consisted of selling stamps, envelopes, postcards, and money orders, collection of post office box rental payments and COD’s and setting postage meters. He was required, at the end of each day’s business, to summarize the day’s transactions on an accounting form provided by the employer and denominated as Postal Service Form No. 1412-A. In 1978 two audits disclosed a shortage of just under $1,000 in the cash and retail items for which the claimant was accountable. The same audits showed that on seventeen specified days during the previous year the 1412-A forms submitted by the claimant contained inaccuracies involving primarily an understatement of amounts received on account of postage stamp sales. The claimant was discharged for falsifying postal service records.
+Two hearings were held by the unemployment compensation referee. The employer did not enter an appearance at the first hearing at which the claimant and his union representative testified that window clerks were compelled by the nature and volume of certain types of transactions occasionally to dispense with the required accounting niceties, that this practice was condoned by postal service management, and that this practice might explain the discrepancies in the forms submitted by the claimant. On the basis of this evidence the referee found that the employer had failed to meet its burden to show wilfull misconduct on the part of the claimant.
+The employer appealed and requested the Board to order the taking of additional evidence arguing that it had not received timely notice of the first hearing. The Board ordered a second hearing at which the employer elicited the testimony of one William Crouse, a sixteen year veteran postal inspector, who had performed the audits at issue. Mr. Crouse testified that on the seventeen dates specified in the Notice of Charges the amounts reported by the claimant as received on account of postage stamp sales were less than the amounts actually received for such sales. This conclusion was buttressed by the written statements of customers contacted by postal authorities as part of the audit investigation stating that particular payments were made by check to the claimant for postage stamps. These same payments had been recorded by the claimant as received on account of sales of items other than postage stamps. The possible implications of this practice are revealed by the claimant’s testimony at the first hearing:
+Q: Could you explain to the referee the procedure which you had been instructed to fill this form out?
+A: I was instructed to fill out, to account for the COD’s through a receipt; money orders through a receipt; box rents through a receipt ; totalling up the left side of the 1412A at the end of the day and plugging in a figure used for the postage sales.
+A: Well, at the end of the day, you total all your cheeks and all your receipts and then you count your cash and add it with your checks and come up with the difference, the checks and the cash with the receipts and whatever is left over, you put your stamps in.
+Therefore, although misappropriation of the employer’s funds has not been charged, it is clear that if receipts on account of postage stamp sales were understated and if checks received for such sales were attributed to other accounting categories (e.g. post office box rental payment), then a facially unobjectionable Form 1412-A could be completed leaving cash receipts unaccounted for. Thus, Mr. Crouse testified that although the total amount of cash and checks indicated by the claimant on the Form 1412-A as having been received on the days in question coincided with the amount ultimately deposited in the bank,
+I found out there were instances where he . . . sold money orders, which are sold for cash and the money that he deposited in the bank the cash money was way smaller than the amount of money orders sold, which I’ve never seen before, highly irregular....
+Finally, Mr. Crouse testified:
+We question [the claimant] about . . . the fact that there were instances where he received checks, apparently received checks for stamps, which were in excess of the amount of stamp sales which he reported. He gave us no explanation . . . Inspector LaSalvia put the question to him, ‘you falsified your account.’
+Q: Were you there when he did this?
+A: Yes.
+Q: Okay.
+A: He said, ‘Well, if that’s the way you put it, I guess I did.... ’
+On this record the Board reversed the referee and found that the’claimant had been discharged for disqualifying willful misconduct.
+The claimant argues that the case against him is entirely circumstantial, that Mr. Crouse’s testimony is not worthy of belief, and that the Board should have accepted the contention of the claimant and his union representative that even if the accounting procedures used by the claimant were in technical violation of postal service regulations such violations were ubiquitous among window clerks and were condoned by the supervisory personnel.
+Of course circumstantial evidence, if substantial, is sufficient to support a finding of wilfull misconduct. Resnick v. Unemployment Compensation Board of Review, 58 Pa. Commonwealth Ct. 504, 427 A.2d 1289 (1981). The testimony of Mr. Crouse provides abundant support for the disputed findings and it is not for this Court to assess the credibility of Mr. Crouse or to weigh the probative value of his testimony. The claimant’s argument that the record would have supported a finding that management condoned his procedures and that innocent accounting “shortcuts” produced the apparent discrepancies on the submitted forms is also unavailing. Our recent statement in Resnick, supra, is equally applicable here:
+Clearly the administration of the . . . funds was feckless and the supervision of the claimant’s performance of [Ms] duties was woefully inadequate and [other conclusions are possible on this record]. However, the drawing of inferences is for the compensation authorities, Tuono v. Unemployment Compensation Board of Review, 54 Pa. Commonwealth Ct. 583, 422 A.2d 240 (1980), and we cannot fault the factfinders here for deciding that the circumstantial evidence adverse to the claimant so preponderated on the side of [his] culpability ‘as to outweigh . . . any other evidence and reasonable inferences’ that might be drawn. Smith v. Bell Telephone of Pennsylvania, [397 Pa. 134, 139, 153 A.2d 477, 480 (1949)]. This record was wholly adequate to this end.
+Order affirmed.
+Order
+And Now, this 1st day of July, 1981, the order of the Unemployment Compensation Board of Review is affirmed.
+Act of December 5, 1936, Snd. Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §802(e).
+The claimant was also charged with eleven violations of a postal service regulation proscribing the cashing of personal checks. The Board found that the claimant had committed these violations. The regulation, the precise terms of which are not included in the record, evidently permits a window clerk to cash certain enumerated species of checks (e.g. those drawn on. the United States Treasury) but not to cash “personal checks.” The claimant admits that he repeatedly cashed payroll checks for his wife and daughters. Since it is clear that the claimant’s conduct amounted to wilfull misconduct even without consideration of the check cashing incidents, we do not decide whether these incidents were violations of the postal service regulations.
+Mr. Crouse’s recounting of these statements was not objected to by the claimant’s counsel.
+In his attack on the testimony of Mr. Crouse, the claimant relies exclusively on the transcript of the cross-examination of Mr. Crouse before a labor arbitrator in a related grievance proceeding. The arbitrator’s decision and the notes of testimoy of the hearings before him have been included in the reproduced record in the appeal before this Court. However, they are not part of the record certified to this Court by the Board and our past decisions make clear that evidence probative on the issue of “just cause” decided by an arbitrator is generally irrelevant to the issue of wilfull misconduct as defined in the Unemployment Compensation Law. Welsh v. Unemployment Compensation Board of Review, 44 Pa. Commonwealth Ct. 53, 402 A.2d 1154 (1979).
