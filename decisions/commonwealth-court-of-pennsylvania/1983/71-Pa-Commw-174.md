@@ -1,0 +1,31 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2059 C.D. 1981"
+decided: "1983-01-13"
+citations: ["71 Pa. Commw. 174"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogers, Blatt and Craig, sitting as a .panel of three."]
+parties: ["Georgia M. Hemer, Widow of Kenneth R. Hemer, Sr., Deceased v. Workmen’s Compensation Appeal Board (George Phillis and J. Miller Express, Inc.), Respondents."]
+source_url: "https://static.case.law/pa-commw/71/cases/0174-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1936842
+cites_cases: ["152 Pa. Superior Ct. 398", "33 A.2d 658", "416 A.2d 619", "423 A.2d 1125", "423 A.2d 1135", "52 Pa. Commonwealth Ct. 641", "56 Pa. Commonwealth Ct. 1", "56 Pa. Commonwealth Ct. 20"]
+---
+
+# Hemer v. Workmen's Compensation Appeal Board
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+Georgia M. Hemer (claimant) appeals from an order of the Workmen’s Compensation Appeal Board (Board) which affirmed the referee’s dismissal of her claim petition under Section 301(a) of The Pennsylvania Workmen’s Compensation Act (Act), Act of June 2,1915, P.L. 736, as amended, 77 P.S. §431, based upon her deceased husband’s allegedly intoxicated condition at the time of his fatal accident.
+On October 21, 1978 the decedent left Beaver County with a load of freight destined for delivery in Illinois. After delivering this freight, he was instructed by his employer to pick up an outbound load of freight in Burns Harbor, Indiana and, after doing that, he was observed by an oil tanker transport driver to be weaving his truck back and forth across the center line of the road then sweriving sharply into a ditch. The tanker driver testified that, after the accident, he observed a number of beer cans strewn about the truck cab of the wrecked vehicle which the decedent had driven. An autopsy subsequently revealed that the decedent had died as a result of a basal skull fracture with cerebral lacerations and a blood analysis revealed an alcohol or ethanol level of .24 in his blood.
+The claimant contends that the employer was barred from introducing evidence of the decedent’s intoxication by reason of its failure to file a timely answer to the claim petition. She relies on Yellow Freight System Inc. v. Workmen’s Compensation Appeal Board, 56 Pa. Commonwealth Ct. 1, 423 A.2d 1125 (1981) wherein we held that an employer filing a belated answer, including an affirmative defense of intoxication, was barred from introducing evidence of an employee’s intoxication at the time of the accident. Unlike the case at bar, however, the claimant in Yellow Freight had properly objected to the untimely filing of the answer. Here, this issue was neither raised before the referee nor before the Board, and, of course, issues not raised before the governmental unit or Commonwealth agency will not be considered for the first time by this Court unless due cause is shown. Aston Hill Manufacturing Co. v. Workmen’s Compensation Appeal Board, 56 Pa. Commonwealth Ct. 20, 423 A.2d 1135 (1981). In the instant case, no such cause was shown.
+The claimant also contends that the employer has not presented competent evidence to establish intoxication and has therefore failed to meet its burden of proof. Section 301(a) of the Act, 77 P.S. §431 provides, of course, in pertinent part:
+[N]o compensation shall be paid when the injury or death is intentionally self-inflicted, or is caused by the employee’s violation of law, but the burden of proof of such fact shall be upon the employer.
+And where, as here, the party with the burden of proof prevails below, review by this Court is to determine whether or not constitutional rights were violated, an error of law was committed, or findings of fact were unsupported by substantial evidence. United States Steel Corp. v. Workmen’s Compensation Appeal Board, 52 Pa. Commonwealth Ct. 641, 416 A.2d 619 (1980). Here the referee had ample competent evidence in the record to support his finding that the decedent’s intoxication caused his death. He heard the testimony of an eyewitness to the accident and had an opportunity to examine the results of the autopsy which revealed an extremely high alcohol or ethanol level of .24 in the decedent’s blood.
+If the decedent’s action of driving a vehicle while intoxicated was a violation of law, of course, then the claimant is clearly not entitled to compensation. See Section 301 of the Act, 17 P.S. §431. And it is generally understood that “violation of law” means the commission of a felony or misdemeanor. Hopwood v. Pittsburgh, 152 Pa. Superior Ct. 398, 33 A.2d 658 (1943). The situs of this decedent’s death was the State of Indiana and we have examined the applicable provisions of Indiana law, which not being repugnant to the law of Pennsylvania is therefore entitled to full faith and credit here. And the applicable provisions of the Indiana law are found in Section 9-4-1-54 of the Motor Vehicle Code of the State of Indiana (47-2001). Section (d)(1) provides that “a person who operates a vehicle while: (A) intoxicated or (B) unlawfully under the influence of a controlled substance, commits a class A misdemeanor.” Section (4) (A) of the same statute provides that “evidence that there was ten-hundredths percent (.10%), or more, by weight of alcohol in his blood constitutes prima facie evidence that he was intoxicated.” The statute also provides for the punishment of violators by imprisonment or fine or both. Applying Indiana law to the ease at hand, and keeping in mind that the decedent’s act of driving while intoxicated was therefore a misdemeanor, we believe that there is substantial evidence to support the finding that the decedent’s death was caused by his violation of the law. And, inasmuch as the Act specifically prohibits compensation to be paid where the employee’s activity causing death is a violation of law, we must affirm the order of the Board in denying the fatal claim petition.
+Order
+And Now, this 13th day of January, 1983, the order of the Workmen’s Compensation Appeal Board in the above-captioned matter is hereby affirmed.
