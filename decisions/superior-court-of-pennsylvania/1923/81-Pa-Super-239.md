@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, Nos. 127 and 196"
+decided: "1923-07-12"
+citations: ["81 Pa. Super. 239"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, Henderson, Trexler, Keller, Linn and Gawthrop, JJ."]
+parties: ["Schultz v. Rudman, Appellant."]
+source_url: "https://static.case.law/pa-super/81/cases/0239-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 655646
+cites_cases: ["210 Pa. 88", "250 Pa. 192", "267 Pa. 53", "268 Pa. 441", "273 Pa. 309", "77 Pa. Superior Ct. 63"]
+---
+
+# Schultz v. Rudman
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+The judgments from which we have these appeals were entered upon warrants of attorney contained in promissory notes. The court below discharged rules to open the judgments and the defendant appeals. The questions presented in the appeals are identical, the cases were argued together, and may properly be disposed of by a single opinion.
+The affidavits of the defendant, in the respective judgments, upon which the rules to open the judgments were entered, admitted the execution of the notes, but averred that they had been given as collateral to secure the plaintiff against loss from his liability, as principal, upon certain notes, upon which the defendant appeared as surety, which had been given tó a beneficial association of which the plaintiff was a member, for a loan of money by the association, the plaintiff having obtained the loans at the request of the defendant, to whom the proceeds were immediately paid over. The affidavits averred that the defendant had fully paid and discharged the obligations to the beneficial association, that those had been returned to him; that no liability had arisen for the notes upon which these judgments had been entered for the reason that the obligation to which they were collateral had been discharged, and prayed that the judgments be opened and he let in to a defense. These averments were supported by the depositions of the appellant. The plaintiff, on the other hand, by sworn answer to the rule and in his deposition, asserted that the notes represented real debts, for money loaned by him to the defendant, and had not been given to secure him against loss upon the notes given to the beneficial association for the loans of money the proceeds of which had been received by the defendant. The vital question of fact upon which the case turned, under the depositions, was whether the notes had been given as mere collateral security, or represented distinct transactions. The depositions clearly established that the plaintiff had obtained for the defendant at least five different loans of money upon his own note, with the defendant as surety and that the proceeds of those loans had been immediately turned over to the defendant. Those loans were payable in weekly installments which the defendant had regularly paid to the association, but when the loans were paid the association delivered the notes to the plaintiff, who subsequently gave them to the defendant. The only witnesses who testified as to the circumstances under which the notes involved in these judgments were given by the defendant to the plaintiff were the parties themselves. The defendant contends that his version of the transactions was corroborated by the depositions of three witnesses who testified that they heard the defendant request the plaintiff to give to him two notes which had been paid and that the plaintiff had said he did not have the notes with him but would subsequently deliver them to the defendant. We have carefully considered the testimony and are not convinced that the depositions of the other witnesses really corroborated the testimony of the defendant. Those depositions did not pretend to identify the notes, and there is no question, under the evidence, that the notes given by the parties to the beneficial association were from time to time, as they matured and were paid, received by the plaintiff and by him subsequently, at various times, delivered to the defendant. The case thus came before the court, so far as the real question in the case was concerned, practically upon oath against oath and the written instrument. The presumption is that the note was given for an actually existing indebtedness: Rowland v. Clark, 250 Pa. 192. A mere conflict of evidence is not enough to require the court to open the judgment. The court is vested with discretion in such a case and may send the' matter to a jury but is not bound to do so, and in general will not do so, unless the evidence is such that the jury ought, and probably would, find in favor of the defendant: Crusan v. Hutchison, 210 Pa. 88. We find no warrant for holding that the court was guilty of an abuse of discretion and the assignments of error are overruled.
+The order of the court below is affirmed and the appeals dismissed at cost of the appellant.
