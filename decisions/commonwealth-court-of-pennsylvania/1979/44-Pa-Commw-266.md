@@ -1,0 +1,34 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1823 C.D. 1977"
+decided: "1979-07-16"
+citations: ["44 Pa. Commw. 266"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Bogers, Blatt and MacPhail, sitting as'a panel of three."]
+parties: ["Earl Realty, Inc., t/d/b/a Dutch Wonderland and National Wax Museum of Lancaster County Heritage, Appellants v. Conestoga Valley School District, Appellee."]
+source_url: "https://static.case.law/pa-commw/44/cases/0266-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1898972
+cites_cases: ["169 A.2d 527", "255 A.2d 556", "293 A.2d 639", "298 A.2d 677", "369 Pa. 308", "403 Pa. 300", "435 Pa. 128", "6 Pa. Commonwealth Ct. 164", "7 Pa. Commonwealth Ct. 141", "85 A.2d 106"]
+---
+
+# Earl Realty, Inc. v. Conestoga Valley School District
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+On or about April 21, 1975, Conestoga Valley School District (Conestoga) adopted an amusement tax resolution under the provisions of The Local Tax Enabling Act (LTEA), Act of December 31,1965, P.L. 1257, as amended, 53 P.S. §6901 et seq. At all material times since the effective date of that'resolution, Earl Realty, Inc., Appellant,- has allegedly operated tourist attractions within the geographical boundaries of the school district which Conestoga contends are amusements subject to the tax imposed by the resolution enacted in 1975. Appellant claims to be exempt from that tax by virtue of a regulation adopted by Conestoga authorizing certain exemptions under certain conditions. Appellant contends that Conestoga has- never responded to its application for exemption.
+On May 5, 1976, Conestoga filed a complaint in assumpsit against Appellant for the amount of tax alleged to be due since July 1,1975. Appellant filed preliminary objections consisting of a petition raising the question of jurisdiction, a motion to strike and a demurrer. The Court of Common Pleas of Lancaster County overruled the preliminary objections. Appellant appeals from that order.
+Conestoga has filed a motion to quash the appeal, contending that the order of the Court of Common Pleas is interlocutory. The general rule, of course, is that an order disposing of preliminary objections is normally interlocutory and not appealable unless a legitimate question of jurisdiction is involved pursuant to Section 1 of the Act of March 5,1925, P.L. 23, as amended, 12 P.S. §672. Northvue Water Co., Inc. v. Municipal Water & Sewer Authority of Center Township, 7 Pa. Commonwealth Ct. 141, 298 A.2d 677 (1972). Our initial inquiry then, is whether Appellant has raised a legitimate question of jurisdiction which would permit us to address the merits of this appeal. Facially, there is no question that a jurisdictional question was raised by Appellant’s preliminary objection. In its objection, Appellant avers that since Conestoga promulgated a regulation regarding the exemption Appellant seeks, Conestoga must proceed under the provisions of the Local Agency Law (LAL), Act of December 2, 1968, P.L. 1133, formerly 53 P.S. §11301 et seq. to an adjudication of Appellant’s application for an exemption, thus rendering the instant suit in assumpsit invalid. Conestoga argues that Section 21 of the LTEA, 53 P.S. §6921, specifically authorizes it as a taxing district to collect unpaid taxes by suit in assumpsit. Conestoga further contends that since the statutory authority for its suit is so plainly set forth, there can he no legitimate jurisdictional question in the case now before us.
+In Sucevic v. Johnson, 435 Pa. 128, 255 A.2d 556 (1969), plaintiff sued in trespass for personal injuries. One of the defendants was a general contractor who filed preliminary objections challenging the jurisdiction of the Court of Common Pleas on the ground that the provisions of the Workmen’s Compensation Act applied exclusively. Our Supreme Court in a per curiam opinion held that the order of the lower court overruling the preliminary objection was interlocutory and nonappealable. The same result was reached by that Court in Repyneck v. Tarantino, 403 Pa. 300, 169 A.2d 527 (1961).
+In Northvue Water Co., Inc., supra, this Court held that where a municipal authority contended in its preliminary objections that the provisions of the Municipal Authorities Act applied to the facts then before the Court in an equity action, a jurisdictional question had been raised and the lower court’s order dismissing the Defendant’s preliminary objection was appealable. However, the real issue in that case was whether an exclusive statutory remedy existed since the action by the Plaintiff was in mandamus.
+In Allegheny Contracting Industries, Inc. v. Flaherty, 6 Pa. Commonwealth Ct. 164, 170, 293 A.2d 639, 642 (1972), Judge Keamer quoted from Witney v. Lebanon City, 369 Pa. 308, 85 A.2d 106 (1952) concerning the guideline to be followed in dealing with preliminary objections questioning the jurisdiction of the lower court. In Witney, it was held that the test of jurisdiction was the competency of the court to determine controversies of the general class to which the ease presented for its consideration belonged, that is, whether the court had power to enter upon the inquiry.
+Following that guideline as we are bound to do, we must conclude that no legitimate jurisdictional question has been raised in the present case because the statute clearly permits a suit in the court of common pleas to collect unpaid taxes. Accordingly, we hold that the order of the Lancaster County Court of Common Pleas entered August 22,1977 is interlocutory and not appealable. The motion to quash will be granted.
+While it is not necessary for us to do so in light of our disposition of the motion to quash, nevertheless we affirm the order of the Lancaster County Court of Common Pleas which overruled Appellant’s preliminary objections. Specifically, we hold that Appellant’s petition to dismiss for lack of jurisdiction must be denied. Section 21 of the LTEA confers jurisdiction upon the trial court to dispose of the issues raised by the complaint. Likewise we agree with the trial court that Appellant’s demurrer and motion to strike are without merit.
+Order
+And Now, this 16th day of July, 1979, the motion of the Conestoga Valley School District to quash the appeal of Earl Realty, Inc. from the order of the Court of Common Pleas of Lancaster County dated August 22,1977, is granted and the appeal is dismissed.
+Repealed by Section 2(a) of the Judiciary Act Repealer Act, Act of April 28, 1978, P.L. 202, 42 P.S. §20002(a) [1069] (JARA).
+Repealed by Section 2(a) of JARA, 42 P.S. §20002(a) [1429], We note that Pa. R.A.P. 311 entitled “Interlocutory Appeals as of Right” was amended at 8 Pa. B. 3636 et seq. effective April 23, 1979,
