@@ -1,0 +1,46 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 3374 C.D. 1983"
+decided: "1985-02-12"
+citations: ["87 Pa. Commw. 497"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Williams, Jr., Barry and Colins, sitting as a panel of three.", "This decision was reached prior to the resignation of Judge Williams, Jr."]
+parties: ["Woodland Road Association, Petitioner v. Pennsylvania Public Utility Commission, Respondent."]
+source_url: "https://static.case.law/pa-commw/87/cases/0497-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1327811
+cites_cases: ["406 A.2d 591", "417 A.2d 819", "42 U.S.C. §8301", "46 Pa. Commonwealth Ct. 419", "52 Pa. Code §59.62", "52 Pa. Code §69.21", "52 Pa. Code §69.22", "53 Pa. Commonwealth Ct. 186"]
+---
+
+# Woodland Road Ass'n v. Pennsylvania Public Utility Commission
+
+## Majority (Judge Barry,)
+
+Opinion by
+Judge Barry,
+This appeal results from an order of the Pennsylvania Public Utility Commission (Commission) which reversed an initial decision of an Administrative Law Judge (ALJ) and denied petitioner Woodland Road Association’s request for an exemption from the Commission’s ban on outdoor gas lighting.
+Because of the natural gas shortage in the 1970’s, Congress passed the Power Plant and Industrial Fuel Use Act of 1978, 42 U.S.C. §8301, which banned the use of natural gas for outside lighting. For various reasons, however, termination of such lighting was not required until January 1, 1982. By that time, Congress amended the 1978 Act to exclude residential outdoor gas lighting from the federal ban. Accordingly, the Commission adopted the following regulation: “No jurisdictional gas utility shall supply natural gas for use in outdoor lighting except to residential customers. ...” 52 Pa. Code §59.62 (h) (emphasis added).
+The Commission adopted the following relevant findings of fact of the ALJ:
+1. Woodland Road Association is a private driveway in the 14th Ward of the City of Pittsburgh, Allegheny County, Pennsylvania.
+2. Woodland Road has been maintained by the residents owning property along Woodland Road, which has included the installation and maintenance of outdoor natural gas lighting.
+3. Woodland Road Association is a voluntary unincorporated association.
+4. There are 20 outdoor gas lights which are subject of this proceeding, which are situated at various points along the road.
+5. Gas service to the outdoor gas lights is provided by Equitable Gas Company, which sends its bills to the Woodland Road Managers, who in turn, pay those bills from funds collected among the residents along Woodland Road.
+6. Chatham College is located on Woodland Road. Chatham College owns Gregg House (home of the College president), Berry Hall, Laughlin Hall, Rea Hall, Beatty Hall and Fiches Hall, which are all dormitories, and the Mellon Center, which is used by the College for administrative purposes. Gateway is also owned by Chatham, which contains apartment units. All other structures are private residences.
+(Opinion of Commission, 5-27-83, page 3.)
+Following public hearings, the ALJ granted the Association’s request for an exemption from the Commission’s outdoor gas lighting ban. The Commission, however, reversed and denied the exemption. This appeal followed.
+When reviewing an order of the Commission, we are limited to determining whether a party’s constitutional rights have been violated, whether an error of law has been committed or whether the necessary factual findings are supported by substantial evidence. Pennsylvania Electric Co. v. Pennsylvania Public Utility Commission, 53 Pa. Commonwealth Ct. 186, 417 A.2d 819 (1980). The Association claims the Commission committed an error of law in ruling it was not a ‘ ‘ residential customer ’ ’.
+We must note initially that the applicable regulations give no definition of “residential customer”. The Association contends that all of its members, except for Chatham College, are the owners of private residences and it, therefore, is a residential customer. The Commission presented testimony which showed the Commission bases its decision on these matters on the classification' used by the utility providing service. As Equitable Gas Co. billed the Association as a commercial customer, the Commission believes that is conclusive on the questions of the Association’s status. Further, the Commission claims that Housing Authority of the City of Pittsburgh v. Pennsylvania Public Utility Commission, 46 Pa. Commonwealth Ct. 419, 406 A.2d 591 (1979), compels the conclusion that the Association is not a “residential customer.” We believe, however, that the Association is a residential customer for the reasons that follow.
+Basing such a decision solely on a utility’s billing classification cannot, in our view, be proper. In effect, the Commission would be delegating its authority to answer certain legal questions to a public utility, thereby allowing the company sought to be regulated to assume the role of regulator. While a utility’s billing classification may have some relevance in the matter, it is by no means conclusive.
+In Housing Authority, the Commission adopted regulations establishing priorities which would govern in the event limited natural gas supplies required rationing. The priorities ranged from Priority 1, “Residential and firm critical commercial essential human needs,” 52 Pa. Code §69.21(a) (1), to Priority 6, “Firm large noncritical commercial and industrial requirements for boiler fuel use,” 52 Pa. Code §69.21 (a)(6). The Housing Authority owned three low income high rise apartments which the Commission classified as Priority 6. The Housing Authority argued that the high rise apartments were essentially residential rather than commercial or industrial. As we stated:
+At first blush, it would appear that high rise apartments are residential rather than commercial or industrial in character. However, the priorities set forth in 52 Pa. Code §69.21 are carefully defined in words of art in 52 Pa. Code §69.22. Moreover, the classification of priorities for allocation of available gas must be carefully distinguished from the classification of buildings according to their use. Thus, in Priority 1, the term “critical uses” is defined as “Gas usage where natural gas, propane, or other gaseous fuel is the only feasible form of energy due to its combustion characteristics....” 52 Pa. Code §69.22. It is Equitable’s contention that the Authority could convert to oil or some other alternate fuel. The PÜC agrees with Equitable’s position and so do we. The record contains substantial evidence ■that conversion of the boilers serving the apartments is physically feasible. Accordingly, we •hold that the subject buildings could not be classified as Priority 1.
+The Authority argues that if it does not belong in Priority 1, neither does it belong in Priority 6 since “commercial use” is defined in 52 Pa. Code §69.22 as, ‘ [g] as usage by customers engaged primarily in the sale of goods or services including, but not limited to, consumption by office buildings, institutions, and governmental agencies. Commercial use shall not include use of gas for manufacturing or electric power generation. ’ ’ The ALJ and PUC agreed with Equitable’s argument that “commercial” as used in the description of users to be included in Priority 6 includes the Authority because the Authority is the customer of Equitable and the Authority, in turn, furnishes natural gas to the tenants. Equitable also argues that since the high rise apartments are clearly excluded from Priority 1 and they are certainly not industrial, by a process of elimination they have to be commercial. For either or both reasons, we are satisfied that the classification of the high rise apartments in Priority 6 was proper.
+Housing Authority, 46 Pa. Commonwealth Ct. at 422-23, 406 A.2d at 593. While the Commission argues that the case requires the conclusion that the Association is not a “residential customer,” we do not read Housing Authority as requiring such a result.
+First, what was the proper priority in Housing Authority was based partially on the ability to convert to other forms of heating fuel, a factor not applicable to our present controversy. More importantly, there are simply no commercial aspects present in the Association’s purchase of natural gas as were present in Housing Authority. While Chatham College is a commercial entity, it is only one of thirty-four members of the Association. We believe that however viewed, the Association is a residential customer and therefore entitled to the exemption.
+Order
+Now, February 12, 1985, the May 27, 1983 order of the Pennsylvania Public Utility Commission, at No. P-810305, is reversed.
+This decision was reached prior to the resignation of Judge Williams, Jr.
+At oral argument, we were informed that Equitable Gas now bills tbe Association as a residential customer.
+It must be remembered that we are only dealing with Chatham College’s purchase of natural gas, as a member of the Association, for the outdoor lights and not the College’s purchase of gas for all other uses.
