@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+decided: "1899-05-18"
+citations: ["10 Pa. Super. 352"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, W. W. Porter, W. D. Porter and Berber, JJ."]
+parties: ["Estate of Paul Ritter, deceased. Appeal of Catharine Neff."]
+source_url: "https://static.case.law/pa-super/10/cases/0352-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 819426
+cites_cases: ["1 Mona. 402", "124 Pa. 193", "14 Hun, 301", "15 Atl. Rep. 773", "15 Pa. 212", "23 W. N. C. 261", "32 Mass. 133", "4 Watts, 21"]
+---
+
+# In re Ritter
+
+## Majority (Beaver, J.,)
+
+Opinion by
+Beaver, J.,
+It will serve no useful purpose to recount the facts fully stated in the opinion of the president judge of the court below. They were found by an auditor and concurred in by the court; but it is said that they were based upon the testimony of a witness whose testimony was not competent and should have been excluded. The appellant argues the admissibility of the testimony of this witness as though an effort were being made to reform or vary the terms of the will and that, therefore, the testimony of two witnesses or what would be at least equivalent thereto is necessary, but this is not the case. There is no effort to reform the will or to vary its terms in any way. The sole question is one of the intention of the testator in giving the judgment note. If the testator had died, without executing the note upon which judgment was entered in favor of the appellant, there is no question as to what the result, so far as appellant’s interests are concerned, would have been. She would have taken under the last will, the provisions of the first will being annulled by the later one. Did the testator, by recounting in the note the provision which had been made for the appellant in his first will, intend thereby to continue the provision made for the appellant in both of his wills, or did he merely intend to assure to the appellant the amount of the legacy named in his first will? We are of the opinion that, from an examination of the papers themselves, the latter statement expressed the intention of the testator; but whatever differences of opinion there may be as to the intention, of the testator, viewed from the papers themselves, there can be little question in regard to it, when the testimony of Stoler, the justice of the peace who prepared the judgment note, and Middour, to whom the plaintiff frequently communicated his intentions, is considered. The appellant and her husband became uneasy, fearing that the testator might in some way have done something to deprive them of the legacy specified in the first will, and proposed to leave his employ. Possibly they may have suspected or become satisfied of the existence of the last will. The suggestion as to a mode of providing for the payment of the amount of the legacy mentioned in the first will came from the justice of the peace who prepared the judgment note upon which judgment was entered and which was paid to the appellant by the executor, before, the distribution of the estate; but it is to be borne in mind that the appellant and her husband were insisting upon some provision which would secure it to her. After the execution of this judgment note, the testator frequently expressed himself to the witness Middour, stating that Tennia (meaning the appellant) would get $1,000 now in place of the $500. By making his second will, the testator simply changed his mind as to the amount which should be paid after his death to the appellant, and the execution of the judgment note was equivalent to another change of mind and to an agreement with her that, under no circumstances, should she receive less from his estate than $1,000, but the very terms of it show that it was not intended to secure to her the amount therein mentioned in addition to the testamentary provision for her.
+There was abundant testimony, entirely competent, upon which to base the auditor’s findings of fact, the distribution made by him was undoubtedly in accordance with the testator’s intentions and they must govern. The execution and delivery of the judgment note was equivalent to an ademption of the legacy and, when it was paid, the appellant’s interest in the testator’s estate was extinguished, except as to the interest thereon from the time of his death, which was allowed by the auditor.
+The distribution made by the auditor, as confirmed by the court, was based upon the intention of the testator ascertained properly, upon competent testimony, and the decree of the court, overruling the exceptions to his report, was entirely proper, for the reasons stated in the opinion accompanying the decree. Decree affirmed and appeal dismissed.
