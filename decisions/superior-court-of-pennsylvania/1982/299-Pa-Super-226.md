@@ -1,0 +1,48 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "575"
+decided: "1982-05-07"
+citations: ["299 Pa. Super. 226", "445 A.2d 537"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before SPAETH, POPOVICH and MONTGOMERY, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Wilbur WILLIAMS, Appellant."]
+source_url: "https://static.case.law/pa-super/299/cases/0226-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 189601
+cites_cases: ["269 Pa.Super. 419", "280 Pa.Super. 127", "290 Pa.Super. 309", "481 Pa. 349"]
+---
+
+# Commonwealth v. Williams
+
+## Majority (POPOVICH, Judge:)
+
+POPOVICH, Judge:
+This is a direct appeal from the judgment of sentence imposed after appellant, Wilbur Williams, was convicted by a jury of burglary and theft. Appellant’s sole contention on appeal is that his right to a speedy trial under Pa.R.Crim.P. 1100 was violated. We disagree and affirm the judgment of sentence.
+The facts pertinent to our consideration of the instant appeal are as follows:
+On August 25,1979, a criminal complaint was filed against appellant in Delaware County charging him with burglary and related offenses. The Commonwealth therefore had 180 days from the filing of the complaint, or until February 21, 1980, to bring appellant to trial. Since appellant was not tried until July 21, 1980, 331 days after the complaint was filed, the time beyond the prescribed period either must be excluded from the 180 day computation, Pa.R.Crim.P. 1100(d), or justified by an order granting an extension pursuant to the terms of the rule, Pa.R.Crim.P. 1100(c). Commonwealth v. Snyder, 280 Pa.Super. 127, 130, 421 A.2d 438, 439 (1980).
+On the date the criminal complaint was filed, August 25, 1979, appellant was arrested, bail was posted, and appellant was notified to appear in court on September 4, 1979, for a preliminary hearing. Appellant then failed to appear at the hearing and a bench warrant was issued. Appellant’s bail was forfeited and a forfeiture notice was sent to the address given by appellant when bail was posted. The notice was returned marked “attempted not known.” On February 5, 1980, the Commonwealth mailed notification of appellant’s listing for trial to the same address and this notice was returned marked “moved.” Appellant then failed to appear on February 12, 1980, the date he was scheduled for trial.
+On January 17, 1980, more than four months after the scheduled preliminary hearing in Delaware County, appellant was arrested in Philadelphia County on unrelated charges and placed in the Philadelphia Detention Center.
+Unaware of appellant’s incarceration in Philadelphia County, the Delaware County District Attorney’s Office filed a petition to extend the period for commencement of trial, asserting appellant’s failure to appear for trial as the basis of its request. Notice of the extension petition was mailed to appellant’s given address and also to the Public Defender’s Office. On March 19, 1980, at the conclusion of an ex parte hearing, the court below granted the Commonwealth’s application and entered an order extending the commencement of trial “for a period of 120 days after the receipt by the Office of the District Attorney of Delaware County of notice that the defendant is lodged in a Pennsylvania institution.”
+The Commonwealth then received notice of appellant’s incarceration in Philadelphia County on March 31, 1980, and the outstanding bench warrant was changed to a detainer. On April 29,1980, appellant was transferred from the Philadelphia Detention Center to Delaware County. Following the denial of two petitions to dismiss under Pa.R.Crim.P. 1100(f), appellant’s trial commenced on July 21, 1980.
+Appellant now contends that his right to a speedy trial under Pa.R.Crim.P. 1100 was violated. More specifically, appellant argues that because the Commonwealth failed to exercise the requisite due diligence under Pa.R.Crim.P. 1100(c) prior to applying for its extension, the Commonwealth must be charged with having constructive notice of appellant’s incarceration in Philadelphia County as of March 19, 1980, the date the extension order was granted. Hence, appellant argues, the Commonwealth’s 120 day extension ran four days prior to the commencement of his jury trial and thereby entitles him to a discharge. This contention is ludicrous.
+To begin with, it is well-settled that a criminal defendant who accepts the status of bail during the pendency of court proceedings assumes the responsibility of full compliance with the conditions of bail:
+When a person is admitted to bail, the conditions of the bail bond shall be that such person will:
+(a) Appear before the issuing authority or court at all times required until full and final disposition of the case;
+(c) give written notice to the issuing authority, the clerk of courts, the district attorney, and court bail agency or other designated court bail officer, of any change of address within forty-eight (48) hours of the date of such change. . . .
+Pa.R.Crim.P. 4013
+Accordingly, our Supreme Court has stated that a criminal defendant on bail who willfully absents himself from a proceeding of which he had notice is precluded from relying on the concept of due diligence afforded by the speedy trial guarantee.
+[A] defendant on bail who fails to appear at a court proceeding, of which he has been properly notified, is unavailable from the time of that proceeding until he is subsequently apprehended or until he voluntarily surrenders himself. In such a case the Commonwealth is entitled to an exclusion of this period under [Pa.R.Crim.P. 1100(d)(1) ] without the requirement of a showing of its efforts to apprehend the defendant during the period of his absence. Commonwealth v. Cohen, 481 Pa. 349, 356, 392 A.2d 1327, 1331 (1978).
+Instantly, appellant willfully failed to appear at his preliminary hearing despite notice that it was scheduled for September 4, 1980, and thereby violated the conditions of Pa.R.Crim.P. 4013(a). Moreover, appellant failed to notify the Commonwealth of his change of address upon his incarceration in Philadelphia County as required by Pa.R.Crim.P. 4013(c). See Commonwealth v. Henry, 290 Pa.Super. 309, 310-11, 434 A.2d 767, 768 (1981). Hence, we now will not permit appellant to benefit from his own wrongdoing by charging the Commonwealth with constructive notice of his whereabouts as of March 19, 1980, because of its alleged failure to exercise due diligence prior to applying for the 120 day extension granted on that date. Rather, for purposes of speedy trial analysis, we find that appellant was unavailable from the date he voluntarily absented himself from his preliminary hearing until his return to Delaware County. Any finding to the contrary “would permit a defendant who intentionally absented himself from a scheduled court hearing to have the charges against him dismissed if the Commonwealth’s efforts to locate him did not measure up to a court’s standard of due diligence. Such a result [obviously would be] absurd.” Commonwealth v. Cohen, 481 Pa. at 355, 392 A.2d at 1331.
+The Commonwealth, therefore, is entitled to exclude under Pa.R.Crim.P. 1100(d)(1) the period from September 4, 1979, until April 29,1980, a total of 239 days. See Commonwealth v. Henry, supra. It follows then, that appellant was brought to trial 92 days after the complaint was filed against him and, therefore, the Commonwealth is in compliance with Pa.R.Crim.P. 1100.
+Judgment of sentence affirmed.
+. Pa.R.Crim.P. 1100(a)(2) mandates that: “Trial in a court case in which a written complaint is filed against the defendant after June 30, 1974 shall commence no later than one hundred eighty (180) days from the date on which the complaint is filed.” For purposes of this appeal, we cite the applicable provisions of Pa.R.Crim.P. 1100 as they appeared prior to the Rule’s amendment on October 22, 1981.
+. Pa.R.Crim.P. 1100(d) provides:
+In determining the period for commencement of trial, there shall be excluded therefrom such period of delay at any stage of the proceedings as results from:
+(1) the unavailability of the defendant or his attorney;
+(2) any continuance in excess of thirty (30) days granted at the request of the defendant or his attorney, provided that only the period beyond the thirtieth (30th) day shall be so excluded;
+. Section c, Pa.R.Crim.P. 1100 states:
+At any time prior to the expiration of the period for commencement of trial, the attorney for the Commonwealth may apply to the court for an order extending the time for commencement of trial. A copy of such application shall be served upon the defendant through his attorney, if any, and the defendant shall also have the right to be heard thereon. Such application shall be granted only if trial cannot be commenced within the prescribed period despite due diligence by the Commonwealth. Any order granting such application shall specify the date or period within which trial shall be commenced.
+. This petition was filed pursuant to Pa.R.Crim.P. 1100(c). See note 3 supra.
+. The Commonwealth correctly contends that appellant’s failure to file a written answer to its petition to extend and his failure to appear at the evidentiary hearing on the petition constitutes a waiver of his right to contest the extension. See Commonwealth v. Stickle, 269 Pa.Super. 419, 422, 410 A.2d 327, 328 (1979). Instantly, however, appellant does not challenge the validity of the extension; rather, he contends that the Commonwealth’s 120 day extension ran four days prior to the commencement of his trial.
