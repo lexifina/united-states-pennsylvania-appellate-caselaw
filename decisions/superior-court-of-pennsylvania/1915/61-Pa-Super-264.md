@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 47"
+decided: "1915-07-21"
+citations: ["61 Pa. Super. 264"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Orlady, Head, Porter, Henderson, Kephart and Trexler, JJ."]
+parties: ["Commonwealth v. Bilotta, Appellant."]
+source_url: "https://static.case.law/pa-super/61/cases/0264-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 453537
+cites_cases: ["198 Pa. 270", "199 Pa. 534", "219 U. S. 104", "219 U. S. 128", "248 Pa. 11", "4 Pa. Superior Ct. 362", "58 Pa. 226"]
+---
+
+# Commonwealth v. Bilotta
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+The defendant was indicted for and convicted of violations of the Act of June 19, 1911, P. L. 1060, entitled, “An Act to provide for licensing and regulating private banking in the Commonwealth of Pennsylvania; and providing penalties for the violation thereof.” The defendant appeals from that conviction.
+The appellant’s statement of the questions involved is as follows: “(1) Is the Act of June 19, 1911, P. L. 1060, unconstitutional by reason .of unlawful classification of and discrimination among persons, firms, partnerships and unincorporated associations engaged in business as private bankers?” and “(2) Is the Act of June 19, 1911, P. L. 1060, unconstitutional because the title of the act is defective and insufficient?”
+The learned counsel for the appellant has, in his brief, earnestly contended that the statute should be stricken down upon the ground that the classification which it makes of the persons, firms, partnerships and unincorporated associations engaged in the business of private banking violates the provisions of Section 7, Article III, of the Constitution of Pennsylvania relating to local or special legislation. This question has, since the trial of this case in the court below, been definitely determined contrary to the contention of the appellant, by the Supreme Court in the case of Com. v. Grossman, 248 Pa. 11. The opinion of Mr. Justice Mestrezat, in that case, fully covers every point here presented, in so far as the first question involved is concerned, and we can no longer consider that question an open one. To the authorities referred to by Mr. Justice Mestrezat in said opinion may be added Noble State Bank v. Haskell, 219 U. S. 104, and Engel v. O’Malley, 219 U. S. 128. The first' question presented by the appellant must be accepted as determined adversely to his contention.
+The second question, in which the statute is challenged because of an alleged defect in the title, is without merit. The first section of the act provides that it shall be unlawful for any individual, partnership, or unincorporated association to engage, directly or indirectly, in the business of receiving deposits of money for safe keeping or for the purpose of transmission to another, or for any other purpose without having first obtained from a board, consisting of the State treasurer, the secretary of the Commonwealth, and the commissioner of banking, a license to engage in such business. The first count of the indictment alleged a violation of these provisions of the first section of the statute. The contention of the appellant is that the title of the act gave no notice that the statute contained any prohibition of engaging in the business of receiving deposits, or that a license would be required for engaging in such business. The title gave express notice that the act provided for the licensing and regulating of private banking; and provided penalties for the violation thereof. The Constitution does not require that the title of a statute shall be a complete index to all the details of its contents. If a statute seeks to accomplish one general purpose by one general means, it will be deemed to contain but one subject, though the details or specific means are multiplied to any extent, provided they are in fact subordinate to and germane to the general aim. Everything which the nature of the subject of a title reasonably suggests, as necessary or appropriate for the accomplishment of its express purpose, is sufficiently indicted by such title: Com. v. Green, 58 Pa. 226; Com. v. Charity Hospital, 198 Pa. 270; Com. v. Moir, 199 Pa. 534; Com. v. Jones, 4 Pa. Superior Ct. 362. The business of receiving deposits is so manifestly germane to and so universally associated with the business of banking, that a general statute which in its title declares a purpose to provide for the licensing and regulating of private banking, naturally suggests to the mind that the statute will make provision for the protection of those who deposit money in such banks. The receiving of deposits is a part of the business of such banks. The provisions of this statute which relate to the conditions upon which private bankers may be permitted to receive deposits are germane to the general subject of regulating the business of private banking, expressed in the title of the statute. The specifications of error are dismissed.
+The judgment is affirmed, and it is ordered that the defendant appear in the court below at such time as he may be there called, and that he be by that court committed until he has complied with that part of the sentence which had not been performed at the time this appeal was made a supersedeas.
