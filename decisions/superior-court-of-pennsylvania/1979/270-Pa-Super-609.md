@@ -1,0 +1,20 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 1240"
+decided: "1979-06-13"
+citations: ["270 Pa. Super. 609", "417 A.2d 775"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CERCONE, P. J., WIEAND and HOFFMAN, JJ."]
+parties: ["Thuer v. Luan, an Individual t/a/d/b/a Crafton Sunshine Center, Appellant."]
+source_url: "https://static.case.law/pa-super/270/cases/0609-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 131133
+---
+
+# Thuer v. Luan
+
+## Majority
+
+Order affirmed.
