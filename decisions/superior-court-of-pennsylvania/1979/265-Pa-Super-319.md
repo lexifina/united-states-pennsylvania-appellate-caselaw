@@ -1,0 +1,46 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "142"
+decided: "1979-04-17"
+citations: ["265 Pa. Super. 319", "401 A.2d 1230"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before JACOBS, President Judge, and HOFFMAN, CER-CONE, PRICE, VAN der VOORT, SPAETH and HESTER, JJ.", "VAN der VOORT, J., dissents.", "HESTER, J., files a dissenting statement.", "JACOBS, former President Judge, and HOFFMAN, J., did not participate in the consideration or decision of this case."]
+parties: ["COMMONWEALTH of Pennsylvania v. Glen D. BERRY, Appellant."]
+source_url: "https://static.case.law/pa-super/265/cases/0319-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 122133
+cites_cases: ["195 A.2d 817", "202 Pa.Super. 360", "225 Pa.Super. 208", "240 Pa.Super. 190", "240 Pa.Super. 477", "248 A.2d 197", "276 A.2d 830", "310 A.2d 406", "361 A.2d 846", "362 A.2d 1041", "371 U.S. 471", "432 Pa. 466", "442 Pa. 343"]
+---
+
+# Commonwealth v. Berry
+
+## Majority (PRICE, Judge:)
+
+PRICE, Judge:
+On February 3, 1976, appellant was found guilty of theft by unlawful taking following a non-jury trial. Post-trial motions for a new trial and in arrest of judgment were denied. Appellant’s sole assertion on appeal is that the court below erred in refusing to suppress physical evidence uncovered by a parole officer and admitted at trial. We are constrained to agree with appellant, and therefore reverse the court below and order a new trial.
+The pertinent facts are the following. On August 18, 1975, Parole Officer Connie Briggs of the Pennsylvania Board of Probation and Parole received a telephone call at approximately 10:00 p. m., from one Frank Bagshaw, Jr., an employee of Automotive Warehouse, Inc. Mr. Bagshaw revealed that he knew the location of a garage containing items stolen by appellant from Automotive Warehouse. At that time, appellant was under supervision by the Board of Probation and Parole, specifically under Agent Ray Dadigan’s supervision, not that of Agent Briggs. Nevertheless, because Agent Briggs was unable to locate Dadigan, he arranged to meet Mr. Bagshaw and, with backup support from two Harrisburg policemen, proceeded to investigate Bagshaw’s story.
+Appellant leased two of five adjoining garages owned by Michael Johnson, who unlocked the garage door and admitted Briggs and party. Inside, a two and one-half hour inspection ensued, during which $7,600 worth of stolen automotive parts was uncovered. Detective Martin Lesko of the Harrisburg Police Department was called to the scene. On the basis of information received from Messrs. Briggs and Bagshaw, a nighttime search warrant was secured. The goods were subsequently identified as those stolen from Automotive Warehouse, and provided the basis for appellant’s arrest and ultimate conviction.
+The issue before us is the legality of the initial search. Unless that intrusion is found to pass constitutional muster, the seizure based on the subsequently obtained warrant must also fail. Based exclusively on information derived from the initial search, the warrant would have produced only poisonous fruit. Wong Sun v. United States, 371 U.S. 471, 83 S.Ct. 407, 9 L.Ed.2d 441 (1963).
+In Commonwealth v. Brown, 240 Pa.Super. 190, 361 A.2d 846 (1976), this court was faced with an issue of first impression in this Commonwealth, /. e., the province of a parole officer, in performing his normal duties, to search a parolee’s premises sans warrant. In that case, a manufacturing company reported the theft of a television set, stereo receiver, speakers and tapes. Later, a counselor at a community treatment center told the appellant’s parole officer that the appellant had the stolen goods in his home. During his next visit to the parolee’s home, the agent saw a television set and stereo system. After receiving a detailed description of the goods from the company, the agent informed the company that he believed the appellant had committed the burglary, and the company decided to press charges. The parole agent requested that two police officers accompany him to the appellant’s home. The group was admitted to the apartment by a woman; the stolen goods were immediately identified by the manufacturing company; and the appellant was arrested.
+The Brown majority reversed the lower court and ordered suppression because, even though it determined that a person’s fourth amendment rights are diminished when one is on parole, it found that the agent had gone beyond his role as a parole agent. The court declared that:
+“The basis for holding that a parolee has diminished Fourth Amendment rights is the necessity for an agent to have free access to supervise the parolee. . . . We, therefore, agree that when performing his normal duties, a parole agent is not required to obtain a search warrant. . [However] once the rationale that justifies inf ormal treatment of parolees [i. e., free access to facilitate supervision of the parolee] ceases, the parolee’s Fourth Amendment rights must be given full consideration.” Id., 240 Pa. Super, at 197-98, 361 A.2d at 849-50.
+The majority indicated that the parole officer had adequate information after his initial visit and that he should have acquired a warrant. However, by calling in police and involving a witness who wanted to press charges, the agent had “switched hats” and “the administrative justification that generally permitted him to avoid acquisition of a warrant was no longer applicable.” Id., 240 Pa.Super. at 198, 361 A.2d at 850.
+The facts instantly differ dramatically from those in Brown, and we find that the fruits of the search here should have been suppressed.
+There was no “routine” element to Agent Briggs’s investigation. First and foremost, he was not even the agent assigned to appellant’s supervision, but had, apparently, merely spoken to Agent Dadigan once in regard to appellant. This visit was not undertaken by Agent Briggs at appellant’s residence in an effort to visit with the parolee or monitor his activities. Rather, this agent, having made no attempt to locate appellant, went to the lessor of the secured garage to gain admittance. Although the Commonwealth urges us to view the police in this case as “passive actors,” there was testimony that the group “combed” through the garage contents for two to two and one-half hours, until the early hours of the following morning, prior to obtaining a search warrant.
+Society’s interest in protection and rehabilitation, which is sufficient to permit a diminishment of a parolee’s fourth amendment protection, is not so broad in scope as to permit total disregard for the panoply of a parolee’s fourth amendment rights. Exceptions to the requirement that searches are to be conducted with a warrant are to be drawn narrowly. Commonwealth v. Cooper, 240 Pa.Super. 477, 362 A.2d 1041 (1976). Certainly, the exception which this court countenanced in Commonwealth v. Brown, supra, must be circumscribed by the rationale which wrought it. The search in the instant case was conducted in blatant disregard for appellant’s privacy rights and cannot be justified under our decision in Brown
+Judgment of sentence is vacated and a new trial ordered.
+VAN der VOORT, J., dissents.
+HESTER, J., files a dissenting statement.
+JACOBS, former President Judge, and HOFFMAN, J., did not participate in the consideration or decision of this case.
+. 18 Pa.C.S. § 3921.
+. This author dissented in Brown. I agreed with the legal position of the majority, that a parolee’s fourth amendment rights are diminished by his condition, but I did not find that the parole agent in that fact situation had acted beyond his extended authority. After his first routine visit, the agent was not certain that the stereo and television were the stolen items; not until the later visit when the goods were identified by the owner did he have sufficient probable cause to arrest. The lower court had made a specific finding that the police accompanied the agent to the parolee’s home merely to assure that no affray would ensue; they were passive actors who, according to the record, had not taken an active role in the subsequent intrusion.
+. The Commonwealth’s alternative argument, that the lessor gave valid consent for the search of the garage leased by appellant, is equally devoid of merit. We of course recognize that a joint possessor can give valid consent. Commonwealth v. Kontos, 442 Pa. 343, 276 A.2d 830 (1971); Commonwealth ex rel. Cabey v. Rundle, 432 Pa. 466, 248 A.2d 197 (1968); Commonwealth v. Rhoads, 225 Pa.Super. 208, 310 A.2d 406 (1973); Commonwealth v. McKenna, 202 Pa.Super. 360, 195 A.2d 817 (1963). However, to hold that the lessor’s oral retention of the right to enter and inspect leased premises gives him the authority to consent to an official search of the premises, would render almost every lessee stripped of all privacy rights. A lessor’s inspection right is narrow in scope, and certainly does not provide “joint control,” the necessary basis for valid consent by a joint possessor.
+
+## Dissent (HESTER, Judge,)
+
+Statement by
+HESTER, Judge,
+dissenting:
+I dissent. I would affirm the judgment of sentence of the court below.
