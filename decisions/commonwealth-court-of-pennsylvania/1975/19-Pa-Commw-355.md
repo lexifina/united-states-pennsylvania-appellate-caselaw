@@ -1,0 +1,31 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 952 C.D. 1974"
+decided: "1975-05-29"
+citations: ["19 Pa. Commw. 355"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Rogers and Blatt. Judge Mencer did not participate."]
+parties: ["Harry D. Kratz v. Skippack Township and The Board of Supervisors of Skippack Township. Skippack Township and The Board of Supervisors of Skippack Township, Appellants."]
+source_url: "https://static.case.law/pa-commw/19/cases/0355-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1867600
+cites_cases: ["13 Pa. Commonwealth Ct. 519", "19 Pa. Commonwealth Ct. 346", "215 A.2d 597", "263 A.2d 395", "319 A. 2d 197", "339 A.2d 624", "419 Pa. 504", "437 Pa. 237"]
+---
+
+# Kratz v. Skippack Township
+
+## Majority (Judge Kramer,)
+
+Opinion by
+Judge Kramer,
+This is an appeal by Skippack Township (Township) from an order of the Court of Common Pleas of Montgomery County dated June 13, 1974, which sustained an appeal of Harry D. Kratz (Kratz )>, and directed the Township to issue building permits subject to certain conditions. The order also dismissed a petition to remand filed by the Township.
+Kratz was the owner of 35 acres of land located in an “R-2 Residential” district of the Township. On July 2, 1973, Kratz submitted an application to the governing body of the Township challenging the constitutionality of the zoning ordinance on the ground that it did not contain any provisions for multiple-family dwelling uses. The application contained a proposed curative amendment and site plans proposing the construction of 280 townhouse units, two stories in height, with no more than eight dwelling units in a row, to be constructed over a five-year period.
+On the date of the Kratz application the zoning ordinance provided for only two residential districts, R-l, which permitted only detached single-family dwellings on lots of at least 60,000 square feet, and R-2, which permitted only detached single-family dwellings on lots of at least 30,000 square feet. There were no other provisions for residential use anywhere in the Township.
+In compliance with the request of the Kratz application, a hearing was set for September 13,1973, and duly advertised. .At the hearing Kratz presented testimony and evidence in support of his application, and the Township presented no formal evidence. It is pertinent to note at this point that on the day before the hearing the Montgomery County Planning Commission sent a letter to the Township in reaction to the Kratz application which recommended that amendments be made to the Township’s zoning ordinance. It is likewise pertinent to note that on September 5, 1973, the Township’s Planning Commission issued a resolution, as a result of the Kratz application, setting forth a general agreement with the Kratz proposed curative amendment, but noting specific modifications for the consideration of the governing body.
+When the governing body of the Township failed to render a decision on the application within the 30-day period required by sections 1004(3) and (4) of the MPC, 53 P.S. §11004(3) and (4), Kratz filed an appeal with the court below on November 8, 1973. The court below received no additional testimony or evidence, and after argument on June 19, 1974, it filed a memorandum opinion and order from which the Township has taken this appeal. The lower court found that the zoning ordinance made no provision for multiple-family residential use, and, relying upon the decisions of our Supreme Court in Girsh Appeal, 437 Pa. 237, 263 A.2d 395 (1970) and National Land and Investment Company v. Easttown Township Board of Adjustment, 419 Pa. 504, 215 A.2d 597 (1965), concluded that the zoning ordinance of the Township was exclusionary, inherently discriminatory and, therefore, unconstitutional. As a result the court sustained Kratz’s appeal and directed the building inspector of the Township to issue building permits to Kratz “to construct multi-family dwellings upon the appellant’s filing appropriate building plans, drawings, and specifications, in compliance with the Township Building Code”.
+While this matter was pending before the court below, the Township filed a petition to remand based upon allegations that since the filing of the appeal the elected officials of the governing body had changed and that the Township was in the process of amending its zoning ordinance so as to provide for multi-family residential use. The court below in its final order dismissed the petition to remand.
+There is no need for us to present a full discussion on the merits of the dismissal of the remand petition, the lower court’s ruling on Kratz’s allegation of exclusionary zoning, or the order of the court below. The facts of this case are indistinguishable from those of Gorski v. Township of Skippack, 19 Pa. Commonwealth Ct. 346, 339 A.2d 624 (1975), the opinion for which is filed simultaneously with this opinion. Our discussion in Gorski is fully dispositive of the issues in this case and, therefore, the order of the Court of Common Pleas is, in all respects, affirmed.
+. Both parties agree that the Kratz application was filed pursuant to sections 609.1 and 1004 of the Pennsylvania Municipalities Planning Code (MPC), Act of July 31, 1968, P.L. 805, as amended, 53 P.S. §§10609.1 and 11004.
+. As happens all too often in zoning cases, the parties, the municipalities, and lower courts use imprecise terminology which sometimes leads to confusion. In this case all parties concerned used the term “multi-family dwellings” to describe the proposed townhouses. The ordinance, here in question, does not mention that term. The lower court obviously used the term to mean “townhouses,” and this imprecision does not affect the result. We note, however, that in Camp Hill Development Co., v. Zoning Board of Adjustment, Borough of Dauphin, 13 Pa. Commonwealth Ct. 519, 523, 319 A. 2d 197, 199 (1974), we described townhouses as “single family dwellings having more than one wall in common with other” single family dwellings.
