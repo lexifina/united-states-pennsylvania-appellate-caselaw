@@ -1,0 +1,49 @@
+---
+court: "Superior Court of Pennsylvania"
+decided: "1995-04-26"
+citations: ["441 Pa. Super. 419", "657 A.2d 994"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DEL SOLE, FORD, ELLIOTT and BROSKY, JJ.", "BROSKY, J., files a concurring opinion."]
+parties: ["LINCOLN WAREHOUSES, INC., Appellant, v. James E. CROMPTON and Gertrude H. Crompton, Appellees."]
+source_url: "https://static.case.law/pa-super/441/cases/0419-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 717837
+cites_cases: ["275 Pa.Super. 518", "416 Pa.Super. 602", "533 Pa. 605", "618 A.2d 397"]
+---
+
+# Lincoln Warehouses, Inc. v. Crompton
+
+## Majority (DEL SOLE, Judge:)
+
+DEL SOLE, Judge:
+The issue presented is whether the provisions of the Mobile Home Park Rights Act (MHPRA), 1976 Nov. 24 P.L. 1176 No. 261, apply to a mobile home park owner who seeks possession of a leased space following expiration of a lease term, or whether that owner may follow the procedures contained in The Landlord and Tenant Act of 1951 as amended, 68 P.S. § 250.101 et seq.
+Appellant is the owner of a mobile-home park, known as Denny Estates. Appellees are owners of a mobile home who leased lot # 20 in the Appellant’s park. The term of the lease was for three years and nine months, and the lease expired on April 30, 1993. By written notice to quit, dated January 25, 1993, Appellant advised Appellees that their existing lease would “not be extended or renewed under any circumstances” and would be terminated on May 1, 1993. On May 3, 1993, Appellant brought an action to obtain possession before a District Justice. A judgment was entered in favor of Appellees, and Appellant appealed to the Allegheny County Court of Common Pleas. A Board of Arbitrators entered an award in favor of Appellees. Appellant again appealed for a de novo nonjury trial. The parties agreed to submit the case on stipulated facts, and the court decided the matter in favor of Appellees.
+Appellant argues that when a park tenant’s term has expired, a mobile home park owner is entitled to recover possession of the leased premises. Appellant reasons that the requirements of the MHPRA apply only during the term of the lease and after its expiration the provisions of the Landlord and Tenant Act govern with respect to recovery of possession. We agree and reverse.
+We begin our analysis by reviewing cases previously decided by this court. We note that the cases draw a distinction between ejectment and eviction. We discussed ejectment in Childs Instant Homes, Inc. v. Miller, 416 Pa.Super. 602, 611 A.2d 1208 (1992) appeal denied, 533 Pa. 605, 618 A.2d 397, in which we upheld a park owner’s right to obtain possession of the leased premises following expiration of the lease. We specifically rejected the arguments of the tenants that the MHPRA established an exclusive scheme for landlords to recover possession. Rather, we determined that the Act does not apply following the expiration of the lease.
+The trial court in this case cited to Childs but held that it required a park owner at the expiration of a lease term to proffer a new lease that complies with the act. The trial court determined that only after such an offer has been rejected and the mobile home owner refuses to leave, is the park owner permitted to begin proceedings pursuant to the Landlord and Tenant Act to recover possession. The trial court erred in concluding that a new lease must be proffered. While a new lease was offered in Childs, the making of such an offer is not a requirement of the Act. The Act is silent as to what occurs with a tenant whose lease has expired.
+The Mobile Home Park Rights Act, 1976, Nov. 24 P.L. 1176, No. 261 § 1; 68 P.S. § 398.1 et seq. specifies the circumstances under which a mobile home park resident may be evicted. Section 398.3(a) states:
+A mobile home resident shall only be evicted for any of the following reasons:
+(1) Nonpayment of rent.
+(2) A second or subsequent violation of the rules of the mobile home park occurring within a six-month period.
+(3) If there is a change in use of the park land or parts thereof.
+(4) Termination of mobile home park.
+In addition, under section (b) which sets forth the procedure for evicting a mobile home resident, the owner is required to notify the resident of the particular breach or violation of the lease. Our reading of the statute leads us to conclude that the Act applies only when a lease is in effect. Childs reaffirms our ruling that the provisions in the MHPRA apply only to evictions under a leasehold. A landlord has a right to eject a tenant once the lease has expired.
+The trial court in this case also relied on Malvern Courts, Inc. v. Stephens, 275 Pa.Super. 518, 419 A.2d 21 (1980). Malvern, however, concerned an eviction, not an ejectment. In Malvern, an eviction was sought during the term of the lease for one of the reasons enumerated under the MHPRA. The eviction was disallowed because the notice requirements of the MHPRA were not met. The protection referred to in Malvern applies only during the lease term and offers more protection to mobile-home park tenants than that offered by the Landlord Tenant Act. Malvern adds nothing to the argument about whether the MHPRA applies after the lease term has expired. The court in Malvern spent considerable time in discussing the intention of the legislature in promulgating the Act. While we agree that the legislation was designed to provide protection to mobile home owners in order to prevent arbitrary evictions at substantial expense to park residents, we note that this only pertains to situations arising during the lease term.
+Appellees’ lease, in the instant case, had expired. Appellant was not evicting the resident, which would require the protection provided by the Act, but was ejecting the resident because a lease no longer existed. Therefore, the Landlord’s rights of possession in the instant case was covered by the Landlord Tenant Act, and Appellant, Landlord, is entitled to recover possession of said premises. Because there was no lease, Appellant in this present action is not bound by the MHPRA, and the verdict entered in favor of Appellees is not proper and must be reversed.
+Order reversed and judgment entered in favor of Appellant. Jurisdiction relinquished.
+BROSKY, J., files a concurring opinion.
+
+## Concurrence (BROSKY, Judge,)
+
+BROSKY, Judge,
+concurring:
+I agree with the majority that our decision in Childs Instant Homes, Inc. v. Miller, 416 Pa.Super. 602, 611 A.2d 1208 (1992), distinguished actions for evictions and actions for ejectment. Thus, on the basis of that precedent our decision is supportable and a logical extension of that decision and, for that reason, I concur with the majority’s decision. However, I am not entirely certain that our legislature had such a distinction in mind when drafting the act in question. Appellees, in their brief, quote Representative Manderino in legislative session as follows:
+The entire purpose of not allowing eviction at the expiration of any lease period is based on the fact that residents of these parks don’t have much facility in moving that mobile home, which may be their life investment, to another mobile home park. In many communities, zoning ordinances prohibit the moving of that mobile home to an individual lot. This is the guts of the bill.
+From Pa. Legislative Journal, House, 2078 et seq. July 15, 1979. Further, the Mobile Home Park Rights Act, 68 Pa.C.S.A. § 398.1, requires the following notice to be provided all lessees of mobile home parks:
+The rules set forth below govern the terms of your lease or occupancy agreement with this mobile home park. The law requires all of these rules to be fair and reasonable.
+You may continue to stay in this park as long as you pay your rent and other reasonable fees, service charges and assessments hereinafter set forth and abide by the rules of the park....
+68 Pa.C.S.A. § 398.4. The act then lists all the reasons upon which a tenant can be evicted and sets forth guidelines for such an eviction. Two of the reasons stated for allowing evictions is if there is a change in use of the park land or parts thereof or if the park is terminated.
+The quote from Representative Manderino coupled with the provisions of the Act, which allows a tenant to stay in a park as long as they pay the rent and abide by the rules, in my opinion, supports a strong argument that the legislature meant to allow a tenant to stay in a mobile home park indefinitely as long as the tenant paid the rent and assessments and abided by the rules and as long as the park was in the business of being a mobile home park. If this indeed was their intent, I trust that in the wake of our decision today they will take appropriate steps to amend the act to clearly enunciate that intent.
+. Read in this fashion the act would represent a careful balancing of the interests of the two relevant parties. By providing grounds for evicting a tenant which include violation of rules, nonpayment of rent and the ending of the park’s existence as a mobile home park the interests of the owner(s) of a mobile home park are protected. They will not be forced to live with a troublemaking or nonpaying tenant nor can they be forced to stay in business simply because there are tenants who need a place to live. On the other hand, a tenant would be assured a place to live and be protected from capricious expulsion from the park as long as he or she lived by the rules and payed the rent and would not be exposed with the problem addressed by Representative Manderino above.
