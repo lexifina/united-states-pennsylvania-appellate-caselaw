@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 50"
+decided: "1906-10-05"
+citations: ["31 Pa. Super. 635"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Porter, Henderson, Morrison, Orlady, Head and Beaver, JJ."]
+parties: ["Nyhart, Appellant, v. Taylor Borough."]
+source_url: "https://static.case.law/pa-super/31/cases/0635-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 864283
+cites_cases: ["101 Pa. 293", "103 Pa. 121", "103 Pa. 358", "12 Pa. Superior Ct. 224", "144 Pa. 638", "149 Pa. 317", "16 Pa. Superior Ct. 103", "172 Pa. 467", "178 Pa. 325", "194 Pa. 199", "2 Penny. 245", "20 Pa. Superior Ct. 590", "25 Pa. Superior Ct. 357", "7 Pa. Superior Ct. 397", "84 Pa. 487", "96 Pa. 331"]
+---
+
+# Nyhart v. Taylor Borough
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+The appellant has been the owner of a lot situate at the corner of Main and Taylor streets, in the Borough of Taylor, since 1883. He presented a petition, on January 28,1904, averring that the borough authorities had changed the grade of Taylor street, without his consent, and thereby caused damage to the property, and praying for the appointment of viewers to estimate and determine the amount of damage which he had sustained by reason of said change of grade. Viewers were appointed and the borough appealed from their award. The plaintiff, upon the trial of the. appeal, proved that the grade of Main street in front of his property had been changed under the authority of a borough ordinance dated May 4,1895, and that the grading of Main street had been actually done upon the ground in 1895. This grading of Main street left the appellant’s property below grade, and the evidence which he produced at the trial was principally directed to showing that his property had been damaged by the grading of Main street. The right of the plaintiff to recover damages for the injury to his property resulting as the natural and necessary consequence of the grading of Main street arose as soon as the work was commenced upon that street in front of his property. The plaintiff admitted at the trial that he knew, at the time the proceeding was pending, in 1895, that there had been a proceeding before viewers to assess the damages and benefits arising from the grading of Main street, that his neighbors had then presented their claims and some of them had recovered damages, but that he presented no claim. The plaintiff was bound to present to those viewers any claim which he had for damages because of injuries resulting as a natural and necessary consequence of the grading of Main street. Even if there never had been a proceeding to assess the damages and benefits arising from the change of grade of Main street, the claim of the plaintiff in the present action for any damages for injuries occasioned by that change was barred by the statute of limitations; the work was done in 1895 and he did not present his petition for the appointment of viewers until January 28, 1904 : Butler Street, 25 Pa. Superior Ct. 357. The plaintiff had not in his petition for the appointment of viewers in the present case invoked the jurisdiction of the court to inquire as to whether his property had been injured or benefited by the grading of Main street. The court below, for these reasons, very properly refused to permit a recovery for damages arising from the grading of Main street.
+The plaintiff failed to produce evidence tending to establish that the borough had ever authorized or made any change in the grade of Taylor street, except directly at the intersection with Main street, which was a necessary incident to the grading of Main street, and was done in 1895. That grading was a part of the improvement of Main street, and should have been considered by the viewers who passed upon that improvement: Lewis v. Borough of Homestead, 194 Pa. 199. The only injury to plaintiff’s property shown by the evidence to have resulted from any grading upon Taylor street was by that evidence clearly established to have resulted from, the dumping of earth upon the street by a private individual who was excavating a cellar on the opposite side of the street. That earth was thrown upon the street at a low point where the water had previously flowed, and caused the water for a time to flow upon plaintiff’s lot. There was no evidence that the borough had ever authorized this placing of earth upon the street, nor was there any evidence that the unauthorized act had been subsequently ratified or adopted by the borough. The appellant might, upon the evidence which he produced in the court below, have been entitled to recover damages from the private individual who interfered with the natural flow of the water, but he failed to establish a right to recover against the borough. There was no error in the refusal of the learned judge of the court below to take off the nonsuit.
+This judgment is affirmed.
