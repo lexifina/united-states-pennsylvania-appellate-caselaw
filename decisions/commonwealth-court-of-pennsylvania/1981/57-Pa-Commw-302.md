@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2390 C.D. 1979"
+decided: "1981-03-04"
+citations: ["57 Pa. Commw. 302"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Wilkinson, Jr., MacPhail and Williams, Jr., sitting as a panel of three."]
+parties: ["Elaine S. Ruckstuhl, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/57/cases/0302-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1917493
+cites_cases: ["35 Pa. Commonwealth Ct. 52", "37 Pa. Commonwealth Ct. 15", "37 Pa. Commonwealth Ct. 250", "38 Pa. Commonwealth Ct. 569", "384 A.2d 1039", "389 A.2d 243", "390 A.2d 317", "393 A.2d 1312", "409 A.2d 126", "415 A.2d 425", "475 Pa. 547", "48 Pa. Commonwealth Ct. 138", "51 Pa. Commonwealth Ct. 191"]
+---
+
+# Ruckstuhl v. Commonwealth, Unemployment Compensation Board of Review
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+This is an appeal hy Elaine S. Ruckstuhl (Claimant) from a decision of the Unemployment Compensation Board of Review (Board), which affirmed the referee’s denial of benefits pursuant to Section 402 (b)(1) of the Unemployment Compensation Law (Law), Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §802(b)(l), on the ground that Claimant had voluntarily terminated her employment without cause of a necessitous and compelling nature. We agree.
+Claimant was last employed by Chilton Company (Employer) as a part-time market research telephone interviewer for a period of eight months ending on June 1, 1979. Claimant was allergic to nicotine and encountered breathing difficulties when exposed to excessive cigarette smoke. Claimant did work in an area where she was exposed to cigarette smoke. Claimant voluntarily terminated employment because, she contends, the smoke caused her to become ill and thus her leave of work was for cause of a necessitous and compelling nature.
+Although it is now generally accepted that cigarette smoke may be harmful to smokers and nonsmokers alike, we cannot presume for unemployment compensation purposes that anyone exposed to cigarette smoke in one’s work environment is so physically harmed that a voluntary termination of employment will be automatically justified and unemployment benefits granted. Thus, we must treat this case as any other that involves a voluntary termination for health reasons.
+In voluntary termination cases, the burden is upon the employee to prove that he had necessitous and compelling reason for leaving his employment. Rinehart v. Unemployment Compensation Board of Review, 37 Pa. Commonwealth Ct. 15, 389 A.2d 243 (1978). To carry this burden, the employee who voluntarily terminates employment for compelling health reasons must meet the three requirements established by our Supreme Court in Deiss v. Unemployment Compensation Board of Review, 475 Pa. 547, 381 A.2d 132 (1977). Such a claimant must: “(1) offer competent testimony that at the time of her termination adequate health reasons existed to justify termination; (2) inform the employer of the health problem; and (3) specifically request the employer to transfer her to a more suitable position.” (Emphasis added.) McQuiston v. Unemployment Compensation Board of Review, 37 Pa. Commonwealth Ct. 250, 253, 390 A.2d 317, 318 (1978). The Claimant’s failure to meet any one of those three conditions will bar her claim for unemployment compensation benefits.
+Where the party with the burden of proof does not prevail before the Board, our scope of review is limited to determining whether the findings of fact are consistent with each other and with the conclusions of law and whether they can be sustained without a capricious disregard of competent evidence. Lake v. Unemployment Compensation Board of Review, 48 Pa. Commonwealth Ct. 138, 409 A.2d 126 (1979).
+Here, the Board found, inter alia, that Claimant failed to show that adequate health reasons existed to justify termination. Claimant is not required to prove that she was advised by her physician to quit, Pastorius v. Unemployment Compensation Board of Review, 35 Pa. Commonwealth Ct. 52, 384 A.2d 1039 (1978). However, Claimant must adduce some medical evidence to support her allegations. Rinehart, su pra. The sole piece of medical evidence presented by Claimant below is a doctor’s certificate dated more than a month after Claimant terminated employment. On the certificate is -written:
+The above [Elaine Ruckstuhl] has tobacco and nicotine allergy and is unable to work in such environment.
+The fact that the certificate was obtained after Claimant’s termination does not render it incompetent. Deiss, supra. The certificate must, however, relate to the Claimant’s state of health at the time of her termination. It will be noted that the certificate quoted in its entirety above does not clarify what is meant by “such environment” nor does it sufficiently explain the effect of Claimant’s work environment on her allergy. More importantly, there is nothing in the statement which relates to Claimant’s condition at the time of termination. These deficiencies render the certificate wholly inadequate as medical evidence to support Claimant’s burden of proof. See Bigley v. Unemployment Compensation Board of Review, 38 Pa. Commonwealth Ct. 569, 393 A.2d 1312 (1978). It is the Board’s function, not ours, to weigh the evidence. Boyer v. Unemployment Compensation Board of Review, 51 Pa. Commonwealth Ct. 191, 415 A.2d 425 (1980).
+Although Claimant testified that she complained to the Employer that she could not work where she was subject to cigarette smoke and that she had presented an “allergy report” to the Employer, the Employer’s representative denied that any such communication had been made and that any such report had been delivered to the Employer. The Board resolved the conflicting testimony in favor of the Employer; it did not disregard it.
+Because Claimant failed the Deiss test by failing to meet the first requirement, we need not discuss whether she fulfilled the other two requirements. Neither should we address Claimant’s argument that violation of the Employer’s duty to provide a safe and healthy workplace environment is justification for voluntary termination of employment, for this issue was not raised by Claimant below. “A party who proceeded before a Commonwealth agency . . . may not raise upon appeal any other question not raised before the agency. ...” Administrative Agency Law, 2 Pa. C. S. §7()3(a).
+After a careful review of the record, we find that the Board did not disregard competent evidence in making its findings and conclusions. We hereby affirm the Board’s decision to deny Claimant benefits.
+Order
+And Now, this 4th day of March, 1981, the order of the Unemployment Compensation Board of Review No. B-177245, dated October 31,1979, denying benefits to Elaine S. Ruckstuhl is affirmed.
