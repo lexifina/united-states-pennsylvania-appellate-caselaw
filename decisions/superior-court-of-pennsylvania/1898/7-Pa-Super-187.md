@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 23"
+decided: "1898-04-18"
+citations: ["7 Pa. Super. 187"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Wickham, Beaver, Oready, Smith and Porter, JJ."]
+parties: ["Alfred Baxter, Appellant, v. Henry Hurlburt."]
+source_url: "https://static.case.law/pa-super/7/cases/0187-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 285441
+cites_cases: ["1 Kulp, 67", "131 Pa. 53", "134 Pa. 53", "182 P. 607", "182 Pa. 613", "71 Pa. 234"]
+---
+
+# Baxter v. Hurlburt
+
+## Majority (Rice, P. J.,)
+
+OPEsrioir by
+Rice, P. J.,
+The Act of February 23, 1870, P. L. 219, authorizing the reference of civil actions in the counties of Tioga and Potter is a literal transcript of the Act of April 6, 1869, P. L. 725, authorizing the reference of such actions in the county of Bradford. The latter act came before the Supreme Court for construction, in the case of Wall v. Knapp, 131 Pa. 53, and it was there held that it is error for a referee to file his report and have judgment entered thereon, without first notifying the parties or their counsel that it is ready for filing. As it did not appear, by the record or otherwise, that such notice was given, by adjournment to a day certain or in any other manner, the judgment was reversed and the cause remanded for further proceeding before the referee. It is plain, therefore, that notice is not to be presumed, and that the same order must be made hr the present case, unless it can be distinguished from the case cited.
+The only possible ground for basing a distinction is that by a supplement (January 20, 1870, P. L. 85) to the Bradford county act it was provided, that the prothonotary shall enter judgment upon the report of the referee upon the filing of the same, and either party may file his exceptions to the report within ten days thereafter, but not after that time. But the ruling was not based on this distinguishing' feature of the Bradford county act but upon a construction of the act as it stood before amendment, as the following liberal quotation from the ppinion of the Chief Justice will show. After recit ing the provisions of the act of 1869, and pointing out the duty of the referee to see that the course of the trial, from its inception to the filing of Ms report in the prothonotary’s office and entry of judgment thereon, conforms as nearly as may be “ to trial by tbe court before a jury,” he says : “ This is clearly not done when the referee, immediately on completion of lbs report, files the same and causes judgment to be entered thereon without such notice, by adjournment to a day certain or otherwise, as will afford the parties an opportunity for inspection of the report, filing exceptions and applying for the correction of errors either in the findings of fact or conclusions of law. As in the case of a trial by jury, the unsuccessful party has a right to apply to the court for the correction of alleged errors, etc., by motion in arrest of judgment, or for a new trial, so either party before a referee has a right to examine the report, and be heard on an application for similar relief. Indeed, it is even more necessary in a reference, under the act in question, than in a case tried by jury in court. The findings of fact by the referee constitute the case upon which final judgment must be entered, and hence it is all important that they should be not only accurate, but also full and complete. They take the place of a special verdict of a jury, with tins important difference, that the referee has full power and authority to modify or correct his findings of fact, if on further examination he deems it necessary.” After referring to the practice before auditors and under the general referee act of 1889, in both of which cases as well as in references under the Luzerne county act, notice is given before the filing of the report, he proceeds: “We are of opinion that, upon a proper construction of the act of 1869, the learned referee erred in not notifying the defendants that his report was ready for filing, etc. If it were even doubtful, as was said by Justice Shakswood in Thornton v. Insurance Co., 71 Pa. 234, ‘it is our duty to mould the course of proceedings under the special acts providing for the reference of civil cases, so as most nearly to conform to the common law, and to be regulated by principles and rules most common to all.’ ” Thus, it is seen that notice must precede the filing of the report in order to afford the parties an opportunity to except to it and to apply to the referee for the correction of errors in his findings and conclusions, before the entry of judgment. There is all the greater reason why the parties should be afforded such opportunity where the statute is silent as to their right to file exceptions after judgment.
+We conclude that the case of Wall v. Knapp, supra, rules all the questions argued before us, and that the course of proceeding there prescribed should be followed in references under the act under consideration.
+Judgment reversed and cause remanded for further proceedings before the referee in accordance with the foregoing opinion.
