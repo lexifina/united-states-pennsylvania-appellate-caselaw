@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2111"
+decided: "1979-11-09"
+citations: ["271 Pa. Super. 494", "414 A.2d 362"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before PRICE, GATES and DOWLING, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. James MOORE, Appellant."]
+source_url: "https://static.case.law/pa-super/271/cases/0494-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 133072
+cites_cases: ["185 A. 203", "219 Pa.Super. 444", "248 A.2d 289", "251 Pa.Super. 318", "258 Pa.Super. 312", "259 Pa.Super. 527", "260 Pa.Super. 571", "281 A.2d 703", "317 A.2d 205", "317 A.2d 258", "322 Pa. 200", "432 Pa. 386", "455 Pa. 525", "456 Pa. 102"]
+---
+
+# Commonwealth v. Moore
+
+## Majority (DOWLING, Judge:)
+
+DOWLING, Judge:
+Having been tried before judge and jury, appellant was convicted of aggravated assault, robbery and possession of an instrument of crime. Following denial of post-conviction applications, this appeal was brought alleging several grounds for relief.
+Initially, it is asserted that the prosecutor improperly expressed his personal opinion as to appellant’s guilt during summation and thereby intruded upon the jury’s exclusive function of assessing credibility. While prosecutorial expressions of personal belief have been repeatedly condemned by this court as being unprofessional, not every intemperate remark will require a new trial. Commonwealth v. Green, 251 Pa.Super. 318, 380 A.2d 798 (1977). Rather, the complained of comments must be evaluated in context, remaining cognizant that the prosecuting attorney is entitled to argue that the evidence proves the defendant guilty as charged. Commonwealth v. Lipscomb, 455 Pa. 525, 528, 317 A.2d 205, 207 (1974); Commonwealth v. Capalla, 322 Pa. 200, 206, 185 A. 203, 206 (1936).
+The record of the proceedings below discloses that only after summarizing the evidence and presenting his arguments based on that evidence did the prosecutor submit his own conviction that the evidence proved appellant’s guilt beyond a reasonable doubt. The prosecutor refrained from attempting to stigmatize the appellant by means of an inflammatory characterization, and continually reminded the jury of its duty to evaluate the testimony fairly and impartially. Since the prosecutor’s misstatements fell considerably short of prejudicing the jury against the appellant by forming a fixed bias and hostility preclusive of a true verdict in their collective minds, we decline to disturb the order entered below. Commonwealth v. Simon, 432 Pa. 386, 394, 248 A.2d 289, 292 (1968).
+In conjunction with this claim, appellant challenges certain arguments advanced by the Commonwealth as being unsupported by the facts in evidence or legitimate inferences therefrom, and therefore erroneously admitted. See, Commonwealth v. Long, 258 Pa.Super. 312, 392 A.2d 810, 811 (1978) (citing cases). Appellant specifically objects to the prosecutor’s statement that the evidence indicated that the appellant had concealed his revolver after attempting to rob the complainant. The record reveals that the subject weapon went undiscovered by the police despite a thorough search of the area. The existence of the gun at the scene of the crime, established by the complainant’s testimony, was corroborated by the physical evidence of bullet fragments found in the complainant’s boot. Further, the appellant made an abortive attempt to disguise his identity by exchanging clothing with another male moments before his apprehension. In light of the above, we agree with the lower court that the appellant’s concealment of the revolver was a legitimate inference from the facts in evidence.
+Appellant next contends that his trial counsel was ineffective in failing to object to the lower court’s jury instruction defining reasonable doubt. The trial judge defined reasonable doubt as “that kind of doubt that would cause a reasonable man . . . to be restrained from acting”, which is one of two formulations expressly endorsed by the Supreme Court. Commonwealth v. Young, 456 Pa. 102, 317 A.2d 258 (1974). However, appellant argues that the trial judge’s subsequent statement that “reasonable doubt is not a hesitation” provided the jury with a pro-Commonwealth standard, at loggerheads with the court’s decision in Young, supra, sanctioning the use of either the “restraint” or “hesitation” phraseology. In support, appellant cites our finding in Commonwealth v. Barksdale, 219 Pa.Super. 444, 281 A.2d 703 (1971) that hesitations require a smaller quantum of doubt than does restraint. The Supreme Court’s adoption of alternative definitions necessarily contemplated at least a tacit rejection of one standard in favor of the other, at the risk of otherwise unduly confusing the recipients of the charge. We are unable to find error where that rejection becomes explicit, as here, provided the instruction given is consistent with the versions approved in Young, supra. Being so satisfied, appellant’s claim is dismissed. See, Commonwealth v. Middleton, 260 Pa.Super. 571, 394 A.2d 1293 (1978).
+Finally, appellant asserts that the sentence imposed was excessive and without an adequate underlying statement of reasons. This issue has been waived by the appellant’s failure to have filed a petition for reconsideration of the sentence in the court below. In the interest of preventing a future appeal alleging ineffective counsel assistance of trial counsel, we hasten to add that appellant has not produced any evidence tending to show that the lower court did not consider and apply the guidelines set forth in the Sentencing Code, notwithstanding the absence of specific reference to them in the record. See, Commonwealth v. Wareham, 259 Pa.Super. 527, 393 A.2d 951 (1978).
+Judgment of sentence affirmed.
+. Act of 1972, Dec. 6, P.L. 1482, No. 334, 18 Pa.C.S.A. §§ 1321-1326.
