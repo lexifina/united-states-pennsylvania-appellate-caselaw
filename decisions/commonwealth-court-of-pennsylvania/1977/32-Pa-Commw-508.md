@@ -1,0 +1,33 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1867 C.D. 1976"
+decided: "1977-11-23"
+citations: ["32 Pa. Commw. 508"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to President Judge Bowman and Judges Mencer and Blatt, sitting as a panel of three."]
+parties: ["Ann Marie Hudack, Petitioner v. Commonwealth of Pennsylvania, Workmen’s Compensation Appeal Board, Livingston Club and Royal Globe Insurance Company, Respondents."]
+source_url: "https://static.case.law/pa-commw/32/cases/0508-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1883531
+cites_cases: ["19 Pa. Commonwealth Ct. 90", "21 Pa. Commonwealth Ct. 559", "22 Pa. Commonwealth Ct. 577", "26 Pa. Commonwealth Ct. 593", "29 Pa. Commonwealth Ct. 365", "298 A.2d 632", "338 A.2d 744", "346 A.2d 829", "349 A.2d 773", "364 A.2d 1387", "370 A.2d 1254", "7 Pa. Commonwealth Ct. 216"]
+---
+
+# Hudack v. Commonwealth
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+Ann Marie Hudack (claimant) appeals from a decision of the Workmen’s Compensation Appeal Board (Board) affirming a referee’s denial of compensation for a heart attack allegedly suffered by the claimant while at work on September 25, 1974. We affirm.
+Claimant was employed as a waitress by the Idvingston Club. For two weeks prior to September 25,1974, claimant had been experiencing chest pains which were subsequently diagnosed as manifestations of a preexisting progressive heart disease known as myocardial ischemia. On the day in question, while claimant was ascending a flight of stairs in the course of her employment, she experienced a severe pain in her chest which required her to sit down on the steps for about five minutes. Claimant worked the rest of the day as scheduled and consulted her family physician the next day. On October 4, 1974, claimant was examined by a cardiologist, Dr. Theodore Donmoyer, who concluded that she had suffered a myocardial infarction (heart attack) at some time during the preceding two weeks.
+Heart attacks are compensable injuries under Section 301(e) of The Pennsylvania Workmen’s Compensation Act (Act), Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §411(1), if they (1) arise in the course of employment and (2) are related thereto. Workmen’s Compensation Appeal Board v. Auto Express, Inc., 21 Pa. Commonwealth Ct. 559, 346 A.2d 829 (1975). The second element has been interpreted to mean that a claimant must show a causal connection between his work and his heart attack. Workmen’s Compensation Appeal Board v. Jeddo Highland Coal Co., 19 Pa. Commonwealth Ct. 90, 94, 338 A.2d 744, 747 (1975). Where this causal connection is not obvious, it must be established by unequivocal medical testimony. Heffer v. GAF Corp., 29 Pa. Commonwealth Ct. 365, 370 A.2d 1254 (1977).
+In this case, the referee found, and the Board agreed, that the claimant failed to establish that her heart attack was causally connected to her employment. Claimant contends that the referee and the Board capriciously disregarded the testimony of claimant’s cardiologist, Dr. Donmoyer, in reaching this conclusion. However, the only testimony concerning causation is so ambiguous and uncertain in nature that we cannot conclude that the referee erred in deciding that the claimant had not established the necessary causal connection.
+When asked whether, in his opinion, the claimant’s exertion at work was a cause of the myocardial infarction, Dr. Donmoyer’s reply was not entirely responsive to the question: “Well at any rate, ascending the stairs is a typical form of effort to cause pain in coronary disease and indeed with her, caused that pain.” (Emphasis added.) As to whether or not the “pain” experienced by the claimant at work was the actual heart attack or simply a manifestation of the preexisting myocardial ischemia, Dr. Donmoyer testified that it was “impossible” to determine when the heart attack occurred. In view of the uncertain nature of the pain experienced by the claimant on the date in question, the above testimony is not equivalent to testimony that the claimant’s exertion at work caused the heart attack. Indeed, in view of the rule which requires that causation be established by unequivocal medical testimony, it is doubtful whether Dr. Donmoyer’s testimony would have been sufficient to sustain a finding that the causal connection existed. Compare Heffer v. GAF Corp., supra, with Workmen’s Compensation Appeal Board v. Bowen, 26 Pa. Commonwealth Ct. 593, 364 A.2d 1387 (1976). In any event, since Dr. Donmoyer’s own testimony created substantial uncertainty as to whether the heart attack was caused by the claimant’s duties, it is clear that his testimony was not capriciously disregarded by the referee.
+Since the referee was entitled to conclude that claimant had failed to establish the causal connection between her work and her injury, his decision was properly affirmed by the Board, and we therefore enter the following
+Order
+And Now, this 23rd day of November, 1977, the order of the Workmen’s Compensation Appeal Board, dated October 7, 1976, affirming the referee’s order of March 29, 1976, denying workmen’s compensation benefits to Ann Marie .Hudack, is hereby affirmed.
+The burden of proof is on the claimant to show that he has suffered a compensable injury. See Hinkle v. H. J. Heinz Co., 7 Pa. Commonwealth Ct. 216, 298 A.2d 632 (1972). Where, as here, the decision below is against the party with the burden of proof, our scope of review is limited to determining whether the findings of fact are consistent with each other and with the conclusions of law and whether they can be sustained without a capricious disregard of competent evidence. Workmen’s Compensation Appeal Board v. Morton, 22 Pa. Commonwealth Ct. 577, 349 A.2d 773 (1976).
+Dr. Donmoyer was asked the same question at another point, at which time he replied that the claimant “experienced pain during the course of her work and this I think was a manifestation of her disease." This reply clearly does not address the issue of causation.
+Dr. Donmoyer did at one point say that September 25, 1974 was “probably” the day of the heart attack, since that was the occasion of the most severe episode of pain as reported try the claimant. However, the doctor also testified that heart attacks can occur with little or no noticeable pain and that the claimant tended to confuse gas pains and heart pains. Evidence such as this makes the referee’s conclusion that the substantial uncertainty created by the other portions of the docor’s testimony had not been sufficiently dispelled understandable.
