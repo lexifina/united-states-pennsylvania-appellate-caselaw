@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 276"
+decided: "1934-07-13"
+citations: ["113 Pa. Super. 472"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Baldrige, Stadtfeld, Parker and James, JJ."]
+parties: ["In the Matter of Grant Edmundson. First Nat’l Bank of McKeesport, Pa., Appellant."]
+source_url: "https://static.case.law/pa-super/113/cases/0472-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 974459
+cites_cases: ["109 Pa. Superior Ct. 495", "167 A. 502"]
+---
+
+# In re of Edmundson
+
+## Majority (Stadtfeld, J.,)
+
+Opinion by
+Stadtfeld, J.,
+This is an appeal by First National Bank of Mc-Keesport, Pa., from the decree of the Common Pleas Court of Westmoreland County, appointing a guardian for the estate of Grant Edmundson, a weak-minded person, under the Act of May 28, 1907, P. L. 292, as amended by the Act of April 1, 1925, P. L. 101.
+The petition for appointment of a guardian was filed on October 30, 1933 by the Irwin Savings and Trust Company of Irwin, Pennsylvania. It averred, inter alia, that Grant Edmundson is a citizen of Pennsylvania and is and has been a resident for many years past of Rillton, North Huntingdon Township, Westmoreland County, Pennsylvania; that petitioner is a debtor of said Grant Edmundson, he having a savings account with petitioner; that he has become feeble-minded and unable to take care of his property; that he has no relatives or next of kin residing within the jurisdiction of the court and prayed for the appointment of a guardian for his estate.
+The court ordered 10 days’ written notice to Grant Edmundson and set November 9, 1933 as the date for hearing. The notice was duly served on Grant Edmundson, and hearing had on the date fixed. After hearing of testimony, the court found that the said Grant Edmundson is not able to take care of his property, owing to weakness of mind and that it is necessary that a guardian be appointed for his estate, and on the same day appointed the Barclay-Westmoreland Trust Company as guardian. Exceptions were filed on behalf of, inter alia, First National Bank of McKeesport, the present appellant, excepting to the findings of fact, conclusion of law and the decree, and to the jurisdiction of the court.
+The sole question presented by appellant is whether the petitioner met the jurisdictional requirements of the Act of May 28, 1907, as amended by the Act of April 1, 1925, supra, which requires that the petition for such an appointment be presented “to the court of common pleas of the county in which such person resides.”
+Appellant contends that the evidence of residence in Westmoreland County was insufficient to support the decree. An examination of the record shows conclusively that the court was justified in making the decree. The evidence showed that Grant Edmundson was feeble-minded from the time of his birth; that on September 12, 1931, and for many years prior to said date, he had his permanent dwelling place and abode in Rillton, North Huntingdon Township, Westmoreland County, Pennsylvania. There was offered in evidence the record In the Matter of Grant Edmundson, an alleged weak-minded person, reported in 109 Pa. Superior Ct. 495, 167 A. 502, being the same person involved in the present proceeding. The present appellant is the former guardian appointed by the Court of Common Pleas of Allegheny County, Pennsylvania. That ease was a petition to revoke the appointment of a guardian by the latter court. The lower court discharged the petition. This court, on appeal, reversed the Court of Common Pleas of Allegheny County and remitted the record “to the court below with directions to hear witnesses and decide from the evidence the ‘residence’ of Grant Edmund-son at the time the original proceedings in this case were instituted; and if found to he in Westmoreland County, to revoke the appointment of guardian.” We there held, in an opinion by our Brother Keller: “If one is insane or feeble-minded as to he unable to take care of his property, and to require the protection of a guardian to do so, he is also incapable of changing his settlement of residence within the contemplation of the Act of 1907 (19 C. J. 417, 418) by a transient or temporary visit elsewhere.” That case, after reversal, came on to he heard before Egan, J., of the Court of Common Pleas of Allegheny County who, after taking of testimony, made a finding of fact that “on September 12, 1931, and for many years prior to said date, Grant Edmundson resided, had his established place of abode and his permanent dwelling place in Rillton, North Huntingdon Township, Westmoreland County, Pennsylvania. ’ ’ He also found as a conclusion of law that the Court of Common Pleas of Allegheny County had no jurisdiction to decree Grant Edmundson weak-minded and appoint a guardian, for his estate, and that the appointment of the First National Bank of McKeesport as guardian should be revoked. That court on October 4, 1933, made an order revoking the appointment. No appeal was taken from that order. The findings of fact and conclusions of law in that proceeding are conclusive on the appellant in the present proceeding. We find no error in the entry of the decree appointing a guardian by the Court of Common Pleas of Westmoreland County and the decree should be affirmed.
+. A motion to quash the appeal was entered by appellee, assigning several reasons in support thereof. In view of the fact that we have considered the case on its merits, and decided the same in favor of appellee, there is no necessity of discussing this motion and the same is therefore dismissed.
+The assignment of error is overruled and the decree of the lower court affirmed.
