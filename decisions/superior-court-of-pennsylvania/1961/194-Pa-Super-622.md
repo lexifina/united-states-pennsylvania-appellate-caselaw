@@ -1,0 +1,35 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 440"
+decided: "1961-04-13"
+citations: ["194 Pa. Super. 622"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Ervin, Wright, Woodside, Watkins, Montgomery, and Flood, JJ."]
+parties: ["Snyder Unemployment Compensation Case."]
+source_url: "https://static.case.law/pa-super/194/cases/0622-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 751427
+cites_cases: ["115 A. 2d 791", "119 A. 2d 639", "132 A. 2d 727", "149 A. 2d 139", "149 A. 2d 143", "169 Pa. Superior Ct. 124", "178 Pa. Superior Ct. 348", "180 Pa. Superior Ct. 529", "184 Pa. Superior Ct. 138", "188 Pa. Superior Ct. 496", "188 Pa. Superior Ct. 525", "82 A. 2d 74"]
+---
+
+# Snyder Unemployment Compensation Case
+
+## Majority (Ervin, J.,)
+
+Opinion by
+Ervin, J.,
+This is an appeal by Judith Snyder from the decision of the Unemployment Compensation Board of Review affirming the referee and the bureau in disallowing benefits to her.
+The appellant was last employed as a secretary by Robert I. Goldy, an attorney, in Philadelphia, Pennsylvania. For her services she was paid $70.00 a week, which salary she had been receiving for seven and one-half months. She was a fully qualified secretary, a graduate of Temple University, and had been receiving salary increases in each of the three jobs she held subsequent to graduation. Her employer informed her that he had lost an important client and thus could not afford a full-time secretary. He offered her two days’ work a week at a salary of $14.00 per day or $28.00 gross pay per week on a permanent basis. This salary would net appellant $23.94 per week after deducting Federal withholding tax of $2.80, social security of $.84 and city wage tax of $.42. If she were unemployed through no fault of her own, she would have received unemployment compensation of $35.00 per week.
+Section 402(b) of the Unemployment Compensation Law, 43 PS §802(b), provides: “An employe shall be ineligible for compensation for any week—
+“(a) . ..
+“(b) (d) In which his unemployment is due to voluntarily leaving work without cause of a necessitous and compelling nature, . . . and that in determining whether or not an employe has left his work voluntarily without cause of. a necessitous and compelling nature, the department shall give consideration to the same factors, insofar as they are applicable, provided, with respect to the determination of suitable work under Section four (t). . . .”
+The only question to be determined in this appeal is whether, under thé uncontroverted testimony, the claimant did have a compelling and necessitous reason for leaving her employment.
+• Section 4(t) of the Act, 43 PS §753(t), provides as follows: “. . . The department shall also consider among other factors the length of time he has been unemployed and the reasons therefor, the prospect of obtaining local work in his customary occupation, his previous earnings, the prevailing condition of the labor market generally and particularly in his usual trade or occupation, prevailing wage rates in his usual trade or occupation, . . . However, notwithstanding any other provisions of this subsection no work shall be deemed suitable in which ... (2) the remuneration, hours or other conditions of the work offered are substantially less favorable to the employe than those prevailing for similar work in the locality . . . .”
+Many cases have applied the test as to whether the wage differential was substantial and permanent. In Kinter Unemployment Compensation Case, 180 Pa. Superior Ct. 529, 119 A. 2d 639, we said: “. . . though it involved some cut in hourly wage, it was not a substantial one and at the most was a temporary thing.” See also Harne Unemployment Compensation Case, 188 Pa. Superior Ct. 525, 149 A. 2d 139; Pusa Unemployment Compensation Case, 178 Pa. Superior Ct. 348, 115 A. 2d 791. In the Pusa case, at page 351, we said: “We have held that a claimant who is unemployed may be justified in refusing referred work at a rate of pay materially lower than the wages he last received, the reason being to afford him a reasonable opportunity to seek work at -a rate of pay more commensurate with Ms demonstrated earning capacity.”
+In Nygren Unemployment Compensation Case, 184 Pa. Superior Ct. 138, 132 A. 2d 727, at page 142, we said: “The claimant was -receiving $33 per week unemployment compensation. She was offered employment which would have paid her $25.80 gross per week for 43 hours work. It does not seem- reasonable that one should receive less for. working than, being unemployed. ... It is our opinion that full time employment which pays less than the compensation benefits being paid to the one proffered the employment, does not necessarily make such employment unsuitable, but that it is a matter which should not be ignored, but should be considered along with other matters in determining whether the proffered work is suitable.”
+In Hoban Unemployment Compensation Case, 188 Pa. Superior Ct. 496, 149 A. 2d 143, we said, at page 497: “There is a distinction in the law between cases Avhere an unemployed claimant, receiving benefits, refused work and cases where the claimant was gainfully employed and voluntarily left his job. Pusa Unemployment Compensation Case, 178 Pa. Superior Ct. 348, 115 A. 2d 791 (1955). In the former cases we have.held that such claimants may be. justified- in-refusing a job referral at materially lower wages on the theory that the claimant have a reasonable opportunity to seek work in line with his demonstrated earning capacity. Misinkaitis Unemployment Compensation Case, 169 Pa. Superior Ct. 124, 82 A. 2d 74 (1951). This reasoning dpes hot. apply .where, .the claimant is gainfully employed and could have continued working until he found a. better , paying job. Pusa Unemployment Compensation Case, supra.”
+We rather clearly indicated that if the net wages of claimant had been less than the benefits which, would have been received under the Unemployment Compensation Act, the board’s decision might have been affirmed.
+The reduction in salary in the present case was substantial, it being a cut from $70.00 a week to $28.00 a week gross ($23.94 net). The change in status was also of a permanent nature. We feel that the record in this case should be remanded to the board so that the board may make an award of partial unemployment compensation, taking into consideration the unemployment compensation of $35.00 per week, if the appellant had no employment, and the sum of $23.94, being the net amount appellant would receive had she accepted the partial employment offered to her by her employer. This will enable the appellant, from the two sources, to receive a net sum of $35.00 per week for two days’ work and will also permit her to use the remainder of the week (three and one-half days) to seek new full time employment, with a salary commensurate to her ability.
+Record remanded to the board for further proceedings consistent herewith.
