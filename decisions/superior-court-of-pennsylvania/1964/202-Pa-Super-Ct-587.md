@@ -1,0 +1,37 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 218"
+decided: "1964-03-17"
+citations: ["202 Pa. Super. Ct. 587"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Ervin, Wright, Woodside, Watkins, Montgomery, and Flood, JJ."]
+parties: ["Stites v. Rex Bar et al., Appellants."]
+source_url: "https://static.case.law/pa-super/202/cases/0587-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 766826
+cites_cases: ["157 Pa. Superior Ct. 392", "165 Pa. Superior Ct. 370", "166 Pa. Superior Ct. 85", "188 Pa. Superior Ct. 606", "193 Pa. Superior Ct. 512", "193 Pa. Superior Ct. 65", "198 Pa. Superior Ct. 247", "198 Pa. Superior Ct. 389", "198 Pa. Superior Ct. 652"]
+---
+
+# Stites v. Bar
+
+## Majority (Watkins, J.,)
+
+Opinion by
+Watkins, J.,
+■ This is an appeal from the judgment of the Court of Common Pleas No. 4 of Philadelphia County in which the court below entered judgment on a decision of the Workmen’s Compensation Board, awarding compensation to Mrs. Mary Stites, .widow of Francis Xavier Stites, .the decedent claimant. The court below states the history and the issue as follows:
+“The decedent was employed as a bartender by the defendant. On February 24, 1953, he lacerated his fourth and fifth fingers, of his right hand while working. . His cut fingers did not heal and they became infected. He was admitted to the Hahnemann Hospital, Philadelphia, on March 11, 1953. At the hospital, it was determined that the decedent was suffering from a pre-existing vascular deformity of his right arm, an aneurysm, and various surgical procedures were attempted to correct this condition. Surgery was also performed to attempt to eliminate the infection of his fingers.
+“During the surgical intervention of his arm on March 31, 1953, the subclavian and inominate arteries of decedent’s right arm were damaged. This damage caused decedent to suffer hemiplegia to his left side and thrombosis involvement to his right carotid artery, right' subclavian vein and artery, and the right middle cerebral artery. The damage reaction also resulted in a massive infarction- of the right cerebral hemisphere, pulmonary congestion and finally death on April 3, 1953. The décedent never regained consciousness following this final operation. At the time of his death, he was 27 years of age.
+“The sole issue presented by this appeal is whether the Board’s finding in favor of the claimant is based upon competent medical evidence that the accident suffered by the decedent is causally connected with his death which occurred on the thirty-eighth day after his fingers were lacerated.”
+There is testimony in the record from the wife-appellee who married the decedent on February 20, 1952 and from his father, that the decedent’s health was “very good” prior to the date of the accident.
+The court below carefully summarized the evidence and the law in an excellent opinion, portions of which we hereby adopt.
+“The- physicians from the Hahnemann Hospital who testified on behalf of the defendant stated that the decedent’s death following surgery to his arm was not connected to the accident involving his fingers. They stated that the surgery was performed to attempt to eliminate the pre-existing aneurysm in his arm as a result of which his life was in danger. Of course, the attempt to correct this danger resulted in the demise of the decedent when inadvertent arterial damage occurred during surgery as a result of which a chain of reaction events and incidents led to his death.
+“The claimant’s medical witness and an impartial medical witness, who was appointed by the Board, testified that the accident and the death were causally related. They testified that the lacerated and infected fingers which failed to heal had aggravated the preexisting vascular deformity of his arm in that the injured members placed an additional burden upon the defective circulatory system of his arm and that the surgical intervention to attempt to correct the aneurysm was necessary in order to attempt to cure the unhealed and infected fingers of his right hand. They stated that the unhealed wounds of the accident precipitated the unsuccessful surgery.
+“The principles which govern appeals to the courts in workmen’s compensation cases have been clearly stated by the Superior Court. It is our duty to construe the evidence in the light most favorable to the party prevailing before the Board and all reasonable inferences must be drawn in support of the Board’s decision. Also, it is for the referee and the Board to determine the weight of the evidence. Birosak v. Shawnee Inn et al., 198 Pa. Superior Ct. 652, 660 (1962); Lawrence v. Belmont Fuel Co., 193 Pa. Superior Ct. 65, 68 (1960); Kline v. Kiehl, 157 Pa. Superior Ct. 392, 396 (1945).
+“It has been established that the courts are not required to attempt to reconcile conflicting medical testimony, or to review as a matter of law the credibility of medical witnesses. Lind v. Argo Lamp Co. et al., 198 Pa. Superior Ct. 247, 250 (1962); Houlihan v. Joseph J. Scheiter & Co., 166 Pa. Superior Ct. 85, 88 (1950). In cases where the medical testimony is conflicting, the credibility of the medical witnesses and the issues created by their testimony are for the compensation authorities. Lind v. Argo Lamp Co., supra, 198 Pa. Superior Ct. at 250-251; Palady v. Reliance Steel Products Co., 165 Pa. Superior Ct. 370, 371 (1949).
+“If the findings of the Board are supported by sufficient competent evidence, and the law has been properly applied, the judgment of the Board is binding on the reviewing court. Allen v. Patterson-Emerson-Comstock, Inc., 186 Superior Ct. 498, 501 (1958); Moore v. MacArthur Pile Corp., 193 Pa. Superior Ct. 512, 515 (1960). The Board has wide latitude in weighing the evidence and it is not even required to accept uncontradicted testimony as true. Dindino v. Weekly Review Publishing Co., 188 Pa. Superior Ct. 606, 610 (1959).
+“Defendant’s contention that its medical witnesses’ testimony should not have been disregarded and that the decision should be consistent with that testimony is an argument which strikes primarily at the issues of the weight and credibility of the evidence. As stated, those issues are left to the Board’s determination which is controlling in an appeal unless there has been a capricious disregard of competent evidence by the Board. Finch v. Jones & Laughlin Steel Corp., 198 Pa. Superior Ct. 389, 393, 395 (1962).
+“Our review of this entire record, including a careful reading of all of the medical testimony, causes this court to conclude that the findings and decision of the Board in this case are based upon adequate and competent evidence and that the Board did not capriciously disregard the defendant’s medical testimony.”
+It is further contended by the appellant that the claimant is not entitled to interest on the award, on the ground that the claimant permitted this claim to “lie dormant for years”. There is nothing in this record that supports this contention. The chronological history of the proceedings in this case clearly indicate that there is no merit in this claim. It is true that there were extended delays, largely caused by change in referees, but this clearly was not the responsibility of the claimant. It is the claimant who had to wait for over ten years, after prolonged litigation, to receive compensation benefits.
+Judgment affirmed.
