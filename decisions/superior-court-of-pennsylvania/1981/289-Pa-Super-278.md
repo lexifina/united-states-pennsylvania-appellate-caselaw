@@ -1,0 +1,124 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2262"
+decided: "1981-07-31"
+citations: ["289 Pa. Super. 278", "433 A.2d 65"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CERCONE, President Judge, and PRICE, SPAETH, HESTER, CAVANAUGH, WICKERSHAM and BROSKY, JJ.", "SPAETH, J., files a dissenting opinion."]
+parties: ["COMMONWEALTH of Pennsylvania, v. Ellison FORTUNE, Appellant."]
+source_url: "https://static.case.law/pa-super/289/cases/0278-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 167714
+cites_cases: ["198 A. 99", "239 Pa.Super. 603", "252 Pa.Super. 103", "254 A.2d 923", "255 Pa.Super. 147", "255 Pa.Super. 587", "256 Pa.Super. 434", "257 Pa.Super. 30", "263 Pa.Super. 556", "263 Pa.Super. 558", "264 Pa.Super. 535", "268 Pa.Super. 278", "312 A.2d 597", "312 A.2d 600", "330 Pa. 4", "360 A.2d 728", "367 U.S. 643", "409 U.S. 188", "434 Pa. 532", "454 Pa. 368", "460 Pa. 31", "472 Pa. 259", "477 Pa. 80", "483 Pa. 195", "488 Pa. 141", "886 A.2d 551"]
+---
+
+# Commonwealth v. Fortune
+
+## Majority (HESTER, Judge:)
+
+HESTER, Judge:
+This is an appeal from the judgment of sentence of the Court of Common Pleas of Philadelphia County. Following a non-jury trial, appellant was found guilty of rape and simple assault. Concurrent sentences totaling four to ten years were imposed.
+This is the second time this matter has been before this Court. The first appeal, Commonwealth v. Fortune, 257 Pa.Super. 30, 390 A.2d 230 (1978) was remanded when appellate counsel requested leave to withdraw, asserting that she could find no issues on which appellant might reasonably anticipate appellate relief. Judge Spaeth, in a brief opinion, stated, “Appellant waived his right to a jury trial. However, the waiver colloquy did not meet the requirements of Commonwealth v. Williams, 454 Pa. 368, 312 A.2d 597 (1973), in that the lower court failed to inform appellant that the jury would be composed of his peers, chosen from the members of his community.” Trial counsel and appellate counsel were both members of the Defender’s Association. The matter was remanded for the appointment of new, non-defender counsel “who may (if appellant wishes it) raise the jury-waiver and ineffectiveness issues in a new brief filed at this term number.”
+Then President Judge Jacobs, and Judge Van der Voort dissented. Former President Judge Watkins, not then being a member of the Court, did not participate. Judge Price concurred and dissented in the following statement:
+“I concurred in the result in Commonwealth v. Liska, 252 Pa.Super. 103, 380 A.2d 1303 (1977) because I did not agree with the language now cited by the majority as precedent in this situation for spelling out in advance, and in effect approving the merits of an argument not yet advanced to this court. I am strongly opposed to this practice. Therefore, like the majority, I would deny the petition to withdraw. However, I would not remand for the appointment of new counsel. I would simply deny the petition to withdraw and indicate that our review reveals an arguably meritorious issue requiring an advocate’s brief on the merits within thirty days or risk sanctions.”
+It would appear that the court was equally divided on the question of remand for the appointment of new counsel.
+The matter was remanded and new counsel was appointed. The appeal was argued before this Court en banc and is ripe for resolution.
+Appellant now asserts that he did not knowingly and voluntarily waive his right to a trial by jury due to the fact that in its colloquy, the court failed to explain that the jury would be chosen from members of the community—from appellant’s peers.
+This issue was not asserted in post-verdict motions, therefore, it is waived. Commonwealth v. Blair, 460 Pa. 31, 331 A.2d 213 (1975).
+Appellant, here represented by counsel other than his guilty plea counsel, argues that his guilty plea counsel was ineffective for waiving the issue. See, Commonwealth v. Morin, 477 Pa. 80, 383 A.2d 832 (1978); Commonwealth v. Knight, 256 Pa.Super. 434, 389 A.2d 1201 (1978).
+Rule 1101 of the Pennsylvania Rules of Criminal Procedure provides, in part:
+In all cases the defendant may waive a jury trial with the consent of his attorney, if any, and approval by a judge of the court in which the case is pending, and elect to be tried by a judge without a jury. The judge shall ascertain from the defendant whether this is a knowing and intelligent waiver, and such colloquy shall appear on the record. The waiver shall be in writing, made a part of the record ....
+The jury waiver colloquy in this case was as follows:
+Q. Mr. Fortune, how old are you?
+A. 43.
+Q. And do you read and write and understand the English language?
+A. Fairly well.
+Q. Do you understand the nature of the charges against you today?
+A. Some.
+Q. You understand you are charged with rape, forcible rape of the young girl? Do you understand that?
+A. Yes.
+Q. You understand that you have a right to a trial by jury on those charges?
+A. Yes.
+Q. And that you would help with your attorney as well as the District Attorney select 12 people that would sit as that jury and all 12 of those people must be convinced beyond a reasonable doubt that you are guilty, before you could be found guilty. Do you understand that?
+A. Yes, sir.
+Q. Do you understand if one person of that 12 did not feel you were proven guilty beyond a reasonable doubt, you could not be found guilty by that jury? Do you understand that?
+A. Yes, sir.
+Q. You also have a right to waive a trial by jury and have his Honor hear the case without a jury and his Honor must be satisfied that you are guilty beyond a reasonable doubt. How is it you wish to be tried, with a Judge with the jury, or with the Judge without a jury?
+A. Without a jury.
+Q. By the Judge without a jury?
+A. Yes.
+Q. Has anybody threatened you or forced you or promised you anything to get you to give up your right to a jury trial?
+A. No, sir.
+Q. Are you under the influence of any alcohol or narcotic drug at this time?
+A. No, sir.
+(Record, pages 3-4).
+The Supreme Court in Commonwealth v. Williams, 454 Pa. 368, 312 A.2d 597, directed that the trial court establish, on the record, that waiver of the right to trial by jury was knowingly and intelligently made; that the record should further indicate that the individual was aware of the essential ingredients of a jury trial. The court stated at 312 A.2d 600:
+These essential ingredients, basic to the concept of a jury trial, are the requirements that the jury be chosen from members of the community (a jury of one’s peers), that the verdict be unanimous, and that the accused be allowed to participate in the selection of the jury panel. In Commonwealth v. Fugmann, 330 Pa. 4, 198 A. 99 (1938) these rights were held to be necessary and an integral part of the Pennsylvania Constitutional provision requiring that the “trial by jury shall be as heretofore, and the right thereof remain inviolate,” Pa.Const. Art. 1, § 6 P.S.
+In Commonwealth v. Morin, 477 Pa. 80, 383 A.2d 832, the Supreme Court further stated:
+The colloquy must indicate, at a minimum, that the defendant knew the essential protections inherent in a jury trial as well as the consequences attendant upon a relinquishment of those safeguards. Among the “essential ingredients of a jury trial,” an understanding of which the accused must possess before a knowing and intelligent jury trial waiver can be made, are the requirements that the jury be composed of one’s peers chosen from members of the accused’s community, that the accused has the right to participate in the selection of the jury and that every member of that jury must be convinced, beyond a reasonable doubt, of the accused’s guilt. Commonwealth v. Williams, 454 Pa. 368, 373, 312 A.2d 597, 600 (1973).
+The issue before us has been considered by the Supreme Court and this Court on several occasions.
+In Williams (supra) the trial court, rather than informing the defendant of his right to a trial by a jury chosen from members of the community, merely referred to “twelve people who determine your guilt or innocence.”
+In Morin (supra) the colloquy was conducted by defense counsel and contained none of the essential ingredients. The accused was merely advised that he had the right to be tried by a jury. The Supreme Court reversed.
+In Commonwealth v. Greene, 483 Pa. 195, 394 A.2d 978 (1978) the accused was never advised during the colloquy that the jury verdict had to be unanimous for a conviction to result. The Supreme Court reversed in a 4-3 decision.
+In Commonwealth v. Guenzer, 255 Pa.Super. 587, 389 A.2d 133 (1978) the appellant argued that the trial court, during the colloquy, used the word “peers” alone, omitting “chosen from members of the community.” This Court, sitting en banc, affirmed the conviction stating at p. 135 of 389 A.2d:
+Appellant’s specific complaint is that he did not know a jury was to be chosen from members of the community; however, during the colloquy, he answered the following question in the affirmative:
+“Do you understand that you have an absolute right to be tried by a jury of 12 of your peers, and in order for them to find you guilty, all 12 of them must unanimously agree that you are guilty of each and every charge and each and every element of each charge beyond a reasonable doubt; do you understand that? ”
+The Court concluded:
+While the better practice may be to elaborate on the meaning of the word “peers,” we do not consider a failure to do so to constitute ineffectiveness of counsel.
+In Commonwealth v. Tami, 264 Pa.Super. 535, 400 A.2d 214 (1979) a case arising out of Warren County where the practice is to select all juries for the coming term on the same day, the accused were informed, on that day, of “their rights to a jury of twelve and that the jurors must all agree upon guilt or the defendant would be found not guilty.” This Court ruled that a review of the record demonstrated that: “____it is clear that appellants were not specifically given this information in the colloquy directed to them personally when the waiver was accepted.” This Court reversed and granted a new trial.
+It should be noted that in Williams (supra) the Supreme Court expressly refused to adopt a prophylactic rule which would invalidate a purported waiver of a jury trial simply because it was not supported by an adequate colloquy. They there recognized that evidence dehors the record could be used to establish the validity of the waiver stating at page 599 of 312 A.2d:
+“The appellant argues that we should make a per se prophylactic rule reversing convictions for failure to comply with Rule 1101, despite the fact that a subsequent full and fair hearing proved the waiver of the constitutional right was knowing and intelligent. When we make rules for criminal proceedings we do so in order to protect the rights of the individual and therefore we expect strict compliance with those rules. However, a prophylactic exclusionary rule is applied only in extreme cases where all other attempts to secure compliance have proven unsuccessful. See generally Mapp v. Ohio, 367 U.S. 643, 651-652, 81 S.Ct. 1684, [1689-1690] 6 L.Ed.2d 1081 (1961). In this area there has been no showing of widespread flagrant disregard to justify formulation of such a rule at this time.
+“Furthermore, where there is a subsequent proceeding in which the waiver is proven to be knowing and intelligent on the record such a prophylactic rule seems unnecessary since the purposes of the rule to ensure the constitutionality of the waiver and our ability to review it, are satisfied. See Commonwealth v. Godfrey, 434 Pa. 532, 538, 254 A.2d 923 (1969) (Roberts, J., concurring).” Commonwealth v. Williams, 454 Pa. 368, 372, 312 A.2d 597, 599 (1973).
+In considering this section of the Williams opinion our Court stated, in Commonwealth v. Harmes, 255 Pa.Super. 147, 151-52, 386 A.2d 551 at 553 (1978):
+Appellant argues that his waiver of jury trial was not knowing and intelligent because the lower court did not hold an on-the-record colloquy in conformance with Pa.R. Crim.P. 1101. However, in Commonwealth v. Williams, 454 Pa. 368, 312 A.2d 597 (1973), the Supreme Court declined to make a per se prophylactic rule reversing convictions for failure to comply with Rule 1101, and held instead that there could be adequate substitutes for the colloquy. In Williams the substitute was a subsequent PCHA hearing at which the defendant testified that he knew what a jury was and that he could have a jury trial if he wanted one. On the particular facts of Williams the Court found the subsequent hearing inadequate because it did not indicate that the defendant knew the essential ingredients of a jury trial.
+In Commonwealth v. Bouie, 263 Pa.Super. 556, 398 A.2d 716 (1979), the accused argued that he was not properly advised of his right to a jury trial because no one used the word “peers” while advising him of his right. This Court, sitting en banc, in an opinion by now President Judge Cercone described appellant’s argument as being “patently frivolous”. We there held:
+The record indicates that the colloquy preceding appellant’s jury trial waiver consumed five full pages of the trial transcript. The colloquy, which was conducted by both defense counsel and the trial judge, covers, inter alia, all of the “essential ingredients” listed in Williams. Though it is true that neither counsel nor the trial judge used the word “peers”, this concept was conveyed to appellant via simpler, everyday terms. On this point, the judge said to appellant, “You understand that if you chose to be tried by a jury which consists of twelve people chosen from a larger group, you would have a right to assist your attorney in selecting those twelve people. Do you understand that?”
+To this appellant replied, “Yes.” Similarly, defense counsel put this question to appellant, “Do you understand it is your right to have all the facts in this case, your guilt or innocence of this offense, to be heard by a jury of twelve people who are pulled from a panel which has been empaneled?” Appellant replied in the affirmative.
+Nothing in the Williams decision indicates that the precise language used in Williams must be read to the accused as long as the “essential ingredients” of a jury trial are explained to an accused. In fact, the word “peers”, while not a particularly unusual word, is not typically used in everyday language and it may be that the trial court wanted to be certain that appellant understood this concept, particularly in view of the fact that appellant did not complete high school. Therefore, we find that the lower court’s failure to use the word “peers” in advising appellant of his right to a jury trial does not constitute error and so trial counsel was not ineffective for failing to raise this patently frivolous issue. Commonwealth v. Hubbard, 472 Pa. 259, 372 A.2d 687 (1977).
+(emphasis added).
+In Commonwealth v. Friedman, 268 Pa.Super. 278, 407 A.2d 1355 (1979) the accused argued that he was not informed, during the colloquy that he had a right to a trial jury chosen from members of his community. The germane portion of the colloquy complained of was:
+“By Mr. McBrien [Defense Counsel]:
+“Q. Kevin, you are still under oath from yesterday. Do you understand that you have the right to have a panel of jurors brought into this room to participate with me in the selection of the 12 jurors that would sit in deliberation of this case? Do you understand you have that right?
+“A. Yes.
+“Q. Do you understand that by electing to be tried by Judge Vogel sitting without a jury that you are waiving that right?
+“A. Yes.”
+A three member panel of this Court, in an opinion by Hoffman, J., reversed and remanded for a new trial, holding:
+In the instant case, the Commonwealth argues that the mere phrase “panel of jurors”, as used in the waiver colloquy conducted by appellant’s attorney, informed appellant of his right to a jury chosen from members of his community, i. e., his peers. This argument is patently without merit. Neither the on-the-record colloquy nor the written waiver form signed by appellant sets forth the requirement. Compare, Commonwealth v. Harmes, 255 Pa.Super. 147, 886 A.2d 551 (1978). Accordingly, we must reverse and remand for new trial.
+In a footnote Judge Hoffman commented:
+Not only did defense counsel omit any mention of the requirement that a jury be selected from members of appellant’s community, see text infra, but also his question may be read to mean, nonsensically, that the panel of jurors, not appellant, would participate with counsel in the selection of 12 jurors.
+It is interesting to here observe that the panel opinion in Friedman was filed July 27, 1979, four months following the Bouie en bane opinion dated March 2, 1979. Bouie held that the language—“You understand that if you chose to be tried by a jury which consists of twelve people chosen from a larger group” — and___“Do you understand it is your right to have all the facts in the case, your guilt or innocence of this offense, to be heard by a jury of twelve people who are pulled from a panel which has been empaneled,” was sufficient to meet the “essential ingredients” requirement of Williams. The panel in Friedman held that the language — “Do you understand that you have the right to have a panel of jurors brought into the room to participate with me in the selection of 12 jurors that would sit in deliberation of this case?”, was not sufficient to meet the “essential ingredients” requirement.
+In Commonwealth v. Harris, 488 Pa. 141, 411 A.2d 494 (1979, reargument denied March 5, 1980) our Supreme Court considered the adequateness of a very brief colloquy. The germane portion of that colloquy was as follows:
+“Q. You would have the right to be tried by the judge sitting alone or by a judge sitting with a jury of twelve people. Do you understand that, sir?
+A. Yes.
+Q. If you should choose to be tried by a jury, then you would be permitted to participate, along with your attorney, in the selection of the jurors who would sit on this jury panel. Do you understand that, sir?
+A. Yes.”
+Harris had been convicted in a non-jury trial of robbery. This Court, sitting en banc, affirmed, Commonwealth v. Harris, 239 Pa.Super. 603, 360 A.2d 728 (1976). The Supreme Court affirmed by an equally divided court. The opinion in Support of Affirmance stated:
+“The trial court’s colloquy was adequate. Therefore, there can be no ineffective assistance of counsel.” — The opinion in Support of Reversal stated, in part:
+“There is nothing___in the record to indicate that appellant was told that his right to a jury trial would give him the right to a jury selected from his peers in his community. Thus, the record is undisputed that an “essential ingredient” of a proper colloquy preceding an informed waiver of a jury trial was missing.” —
+The conviction of Harris was affirmed. Reargument was denied March 5, 1980.
+Having been affirmed by an equally divided court, Harris is of no precedential value. See Neil v. Biggers, 409 U.S. 188, 93 S.Ct. 375, 34 L.Ed.2d 401 (1972). The Neil court further stated:
+If the Justices of the United States Supreme Court are equally divided, there cannot be a reversal of the judgment below, for no order can be made; the judgment of the court below therefore stands in full force; it is settled practice in such a case to enter a judgment of affirmance; but this is only the most convenient mode of expressing the fact that the case is finally disposed of in conformity with the action of the court below, and that that court can proceed to enforce its judgment.
+and
+The legal effect of an affirmance by an equally divided court is the same as the dismissal of an appeal or of a writ of error.
+The conviction of Harris stands.
+The foregoing review persuades us that the en banc decisions of this Court in Bouie and Guenzer set forth the appropriate application of the Williams guidelines. As President Judge Cercone stated in Bouie, “Nothing in the Williams decision indicates that the precise language used in Williams must be read to the accused as long as the 'essential ingredients’ of a jury trial are explained to the accused.”
+In addition, in Williams, our Supreme Court declined to make a per se prophylactic rule reversing convictions for failure to comply with Rule 1101.
+Therefore, in the case at bar, we find that the lower court’s failure to use the word “peers” or “chosen from the members of the community” in advising appellant of his right to a jury trial does not constitute error. Trial counsel was not ineffective for failing to raise this issue. The essential ingredients of a jury trial were explained to the appellant. The record establishes that appellant’s waiver of the right to trial by jury was knowingly and intelligently made.
+The panel decision in Friedman, supra, be and the same is herewith expressly disapproved insofar as it conflicts with the within opinion.
+Judgment of Sentence Affirmed.
+SPAETH, J., files a dissenting opinion.
+
+## Dissent (SPAETH, Judge,)
+
+SPAETH, Judge,
+dissenting:
+In Commonwealth v. Williams, 454 Pa. 368, 312 A.2d 597 (1973), the Supreme Court held that a new trial must be granted because
+[n]owhere on the record is there any indication that [the defendant] knew the essential ingredients of a jury trial which are necessary to understand the significance of the right he was waiving. These essential ingredients, basic to the concept of a jury trial, are the requirement that the jury be chosen from members of the community (a jury of one’s peers), that the verdict be unanimous, and that the accused be allowed to participate in the selection of the jury panel.
+Id., 454 Pa. at 373, 312 A.2d at 600.
+Accord: Commonwealth v. Morin, 477 Pa. 80, 383 A.2d 832 (1978). Here, appellant was not told that “the jury [would] be chosen from members of the community.”
+In nevertheless refusing to grant a new trial, the majority relies heavily on Commonwealth v. Bouie, 263 Pa.Super. 556, 398 A.2d 716 (1979), and Commonwealth v. Guenzer, 255 Pa.Super. 587, 389 A.2d 133 (1978). However, in Guenzer the defendant was told that the jury would be “12 of your peers,” 255 Pa.Super. at 592, 389 A.2d at 135, which was certainly close to the language used by the court in Williams, and in Bouie he was told that it would be “twelve people chosen from a larger group,” 263 Pa.Super. 558, 398 A.2d at 717, which while not so close to the language used by the Court in Williams, was held close enough. Here, nothing in the colloquy, no matter how loosely read, may be said to meet the requirement of Williams that the defendant be told that “the jury [would] be chosen from members of the community; ” nor does the majority point to anything.
+Today’s decision is the first in which we have refused to follow Williams. In Commonwealth v. Tami, 264 Pa.Super. 535, 400 A.2d 214 (1979), we reversed and remanded for new trial because two of the requirements of Williams were not met: the defendants were not told either that they would be allowed to participate in the selection of the jury, or that the jury would be chosen from members of the community. In Commonwealth v. Friedman, 268 Pa.Super. 278, 407 A.2d 1355 (1979), the defendant was asked, “Do you understand that you have the right to have a panel of jurors brought into this room to participate with me in the selection of the 12 jurors that would sit in deliberation of this case?” Citing Williams and Guenzer, we reversed and remanded for new trial.
+I do not understand the majority’s citation of Commonwealth v. Harris, 488 Pa. 141, 411 A.2d 494 (1979). There the defendant was told that he would be allowed to participate in the selection of “a jury of twelve people.” Id., 488 Pa. at 146, 411 A.2d at 496. Three members of the Court, LARSEN, J., joined by EAGEN, C.J., and FLAHERTY, J., held that this was enough. Three other members of the Court, ROBERTS, J., joined by O’BRIEN, J., and NIX, J., held that it was not enough because “nothing ... in the record . . . indicate[s] that appellant was told that his right to a jury trial would give him the right to a jury selected from his peers in his community.” Id., 488 Pa. at 146, 411 A.2d at 496. Harris is indistinguishable from the present case. Nevertheless, the majority by its decision today adopts the view of a minority of the Court in Harris. One is obliged to ask why the majority feels free to ignore the view of the other Justices. The majority says that Harris is of no precedential value because the Court was evenly divided. Granted. That means, however, that Williams is undisturbed, and therefore binds us.
+The judgment of sentence should be reversed and the case remanded for new trial.
