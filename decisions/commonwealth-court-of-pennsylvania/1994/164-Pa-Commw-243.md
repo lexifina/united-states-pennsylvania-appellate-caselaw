@@ -1,0 +1,53 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "2383 C.D. 1993"
+decided: "1994-05-23"
+citations: ["164 Pa. Commw. 243", "642 A.2d 612"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CRAIG, President Judge, NEWMAN, J., and DELLA PORTA, Senior Judge."]
+parties: ["KAOLIN MUSHROOM FARMS, INC., Petitioner, v. PENNSYLVANIA LABOR RELATIONS BOARD, Respondent."]
+source_url: "https://static.case.law/pa-commw/164/cases/0243-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1461174
+cites_cases: ["441 A.2d 470", "64 Pa.Commonwealth Ct. 525"]
+---
+
+# Kaolin Mushroom Farms, Inc. v. Pennsylvania Labor Relations Board
+
+## Majority (NEWMAN, Judge.)
+
+NEWMAN, Judge.
+Kaolin Mushroom Farms, Inc. (Kaolin) petitions for review of a final order of the Pennsylvania Labor Relations Board (PLRB) which affirmed the decision of the Secretary of the PLRB (Secretary) dismissing an amended charge of unfair labor .practices filed by Kaolin. For the reasons which follow, we affirm.
+I. FACTS
+On April 6,1993, Kaolin filed an unfair labor practice charge against Comité de Apoyo a Los Trabajadores Agrícolas (CATA). In the charge Kaolin alleged, inter ’alia, that CATA, by its officers and agents, including Ventura Gutierrez, engaged in acts of trespass, violence, threats, intimidation and destruction of private property in violation of the Pennsylvania Labor Relations Act (Act). Kaolin further alleged that these acts were performed in connection with a labor strike which began on April 1, 1993, and were designed to compel the employees of Kaolin to select CATA as their representative for collective bargaining. Based upon this unfair labor practice charge, the PLRB issued a complaint against CATA on April 16,1993. This complaint is currently pending before the PLRB.
+On July 27, 1993, Kaolin filed an amended charge with the PLRB seeking to add the Retail, Wholesale, Department Store Workers’ Union, Local 1034 (RWDSU), the Union of Kaolin Workers and Ventura Gutierrez as additional respondents to the unfair labor practice charge initially filed against CATA on April 6, 1993. The allegations in the amended charge were closely related to the allegations in the original charge. Specifically, in the amended charge Kaolin alleged, inter alia, that CATA and the Union of Kaolin Workers through common officers and agents, including Ventura Gutierrez, engaged jointly in organizing, participating and maintaining a strike against Kaolin for the purpose of forcing Kaolin to recognize the Union of Kaolin Workers. Kaolin further alleged that CATA and the Union of Kaolin Workers were alter egos of each other and allies in interest for the purpose of organizing a union and forcing Kaolin to recognize a union.
+By letter dated July 30, 1993, the Secretary dismissed Kaolin’s amended charge. The Secretary concluded that under the circumstances presented, the addition of the new parties as respondents, set forth a new cause of action against those parties. She further concluded that because the acts complained of occurred on or about April 1, 1993 and the amended charge was filed on July 27, 1993, the amended charge was untimely filed under Section 9(e) of the Act, 43 P.S. § 211.9(e).
+On August 19, 1993, Kaolin filed exceptions to the Secretary’s decision dismissing the amended charges. On September 7, 1993, the PLRB issued a final order affirming the decision of the Secretary. Kaolin petitions this court for review of the PLRB’s order.
+II. ISSUE
+The sole issue presented on appeal is whether the PLRB abused its discretion in dismissing the amended charge of unfair labor practices filed by Kaolin on July 27, 1993. When reviewing the discretionary acts of an agency, this court will overturn the agency’s action only where the agency acts in bad faith, fraudulently or capriciously, or has committed an abuse of power. Commonwealth of Pennsylvania v. Pennsylvania Labor Relations Board, 64 Pa.Commonwealth Ct. 525, 441 A.2d 470 (1982).
+III. ANALYSIS
+Kaolin asserts that the PLRB abused its discretion in not allowing it to amend the charge to include parties that were allies in interest, successors in interest, agents, alter egos and/or part of a single enterprise with CATA, the party named in the original unfair labor practices charge. In support of its position, Kaolin contends that neither the Act nor any regulations promulgated pursuant to the Act, prohibit a party from amending an unfair labor practice charge to include related parties who were involved in the incidents underlying the original and timely filed charge of unfair labor practices.
+Because the PLRB does not make factual findings at the complaint stage of the administrative process, we must examine this case under two distinct factual scenarios. First, we must determine whether the Board abused its discretion in dismissing the amended charge assuming that CATA, Ventura Gutierrez, and the Union of Kaolin Workers are allies in interest and/or alter egos. And second, we must determine whether the Board abused its discretion in dismissing the amended charge assuming that CATA, Ventura Gutierrez, and the Union of Kaolin Workers are separate entities.
+A. Alter Egos and/or Allies in Interest
+In its initial charge, Kaolin named only CATA as a respondent. However, the charge was filed under Section 6(2) of the Act which also protects Kaolin’s right to proceed against any officer or officers of CATA, or any agent or agents of CATA, or anyone acting in the interest of CATA, or an employe or employees acting in concert. In its amended charge, Kaolin asserted that Ventura Gutierrez and the Union of Kaolin Workers are alter egos of CATA and/or allies in interest with CATA for the purpose of organizing a union. Assuming arguendo that these entities are alter egos and/or allies in interest, Kaolin has the right to proceed against these entities through the original charge currently pending before the PLRB. Therefore, there was no need for Kaolin to file the amended charge on July 27, 1993. Accordingly, we conclude that under this factual scenario, the Board did not abuse its discretion in dismissing the amended complaint.
+B. Separate Entities
+If, however, Ventura Gutierrez and the Union of Kaolin Workers are not alter egos and/or allies in interest of CATA, they are separate entities against which Kaolin has stated a new cause of action. Section 9(e) of the Act which establishes the limitations period for the filing of unfair labor practices provides in pertinent part as follows:
+No petition or charge shall be entertained which relates to acts which occurred or statements which were made more than six weeks prior to the filing of the petition or charge.
+43 P.S. § 211.9(e).
+Section 8 of the Act further provides that:
+Whenever it is charged that any person has engaged in or is engaging in any such unfair labor practice, the board, or any member or designated agent thereof, shall have authority to issue and cause to be served upon such person a complaint, stating the charges in that respect---- Any such complaint may be amended by the board, member or agent conducting the hearing at any time prior to the issuance of an order based thereon.
+43 P.S. § 211.8(b).
+In addition, the regulations promulgated by the Board provide that:
+In the discretion of the Board, upon due notice to the parties, a complaint may be amended, in such manner as the Board may deem proper, at any time before the issuance of a final decision and order if no new came of action is added after the statute of limitations has run.
+34 Pa.Code § 93.14(b) (emphasis added).
+A review of the facts which form the basis of Kaolin’s amended charge indicate that the cause of action against Gutierrez and the Union of Kaolin Workers was untimely filed. For example, an affidavit filed by Kaolin indicates that beginning with the April 1, 1993 strike, Ventura Gutierrez directly told the president of Kaolin that the employees would stop the strike if Kaolin would recognize the Union of Kaolin Workers as the bargaining representative. Thus, Kaolin was aware of the activities of Gutierrez and the Union of Kaolin Workers as early as April 1, 1993 but did not file the amended charge naming those entities as respondents until July 27, 1993. Accordingly, because the acts and statements at issue occurred more than six weeks prior to the filing of the amended charge, it was untimely filed under Section 9(e) of the Act. Therefore, we conclude that under this factual scenario, the Board did not abuse its discretion in dismissing the amended complaint.
+III. CONCLUSION
+In conclusion, if Gutierrez and the Union of Kaolin Workers are alter egos of CATA, Kaolin may proceed against those entities through the initial timely filed charge which is currently pending before the PLRB. However, if Gutierrez and the Union of Kaolin Workers are unrelated to CATA, Kaolin’s amended charge created a new cause of action against previously unnamed respondents after the statute of limitations had expired. In either case, we conclude that the Board did not abuse its discretion in dismissing the amended charge.
+Accordingly, the order of the PLRB is affirmed.
+ORDER
+AND NOW, May 23, 1994, the order of the Pennsylvania Labor Relations Board in the above-captioned matter is affirmed.
+. Act of June 1, 1937, P.L. 1168, No. 294, as amended, 43 P.S. §§ 211.1-211.13.
+. The PLRB has filed a motion to quash Kaolin’s reply brief for failure to comply with the rules of appellate procedure. Our review of the reply brief reveals that it substantially complies with the applicable rules. Accordingly, the PLRB’s motion to quash is denied.
+. Section 6(2) of the Act specifically provides that “[i]t shall be an unfair labor practice for a labor organization, or any officer or officers of a labor organization, or any agent or agents of a labor organization, or any one acting in the interest of a labor organization, or for an employe or for employes acting in concert — ” 43 P.S. § 211.6(2).
