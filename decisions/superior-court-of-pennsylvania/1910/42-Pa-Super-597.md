@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 24"
+decided: "1910-04-28"
+citations: ["42 Pa. Super. 597"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady, Head, Beaver and Porter, JJ."]
+parties: ["Commonwealth v. Griffin, Appellant."]
+source_url: "https://static.case.law/pa-super/42/cases/0597-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 412517
+cites_cases: ["13 Pa. Superior Ct. 14", "133 Pa. 293", "16 Pa. Superior Ct. 561", "28 Pa. Superior Ct. 379", "34 Pa. Superior Ct. 286", "35 Pa. Superior Ct. 454", "35 Pa. Superior Ct. 77", "44 Pa. 386", "6 Pa. Superior Ct. 405", "6 Pa. Superior Ct. 92", "72 Pa. 60", "85 Pa. 139", "86 Pa. 54", "87 Pa. 299", "94 Pa. 290", "99 Pa. 388"]
+---
+
+# Commonwealth v. Griffin
+
+## Majority (Orlady, J.,)
+
+Opinion by
+Orlady, J.,
+Edward Griffin and John Russ were jointly indicted for breaking into and entering a building with intent to commit a felony therein and also for larceny of goods in the building. At the time of the trial, Griffin pleaded guilty and he was used by the commonwealth as a witness to secure the conviction of Russ, this appellant. Griflin had committed a number of burglaries in Scranton and Wilkes-Barre, and it was alleged by the commonwealth that Russ was. identified with these undertakings — if not directly participating in them, at least with having knowledge of them and profiting by a division of the spoils.
+The first four assignments of error complain of the admission of the testimony of Griffin, which was received, as stated by the court: “We have permitted to be introduced into this case, testimony of other offenses alleged to be committed; they were not admitted for the purpose of proving the offense or offenses in this case which are burglary and larceny, but for the purpose of establishing identity; of showing that the act charged was intentional and willful, and not accidental; of proving motive; of showing guilty knowledge and purpose and to rebut any inference of mistake.”
+The offenses to which reference was made by Griffin, in his examination, were similar in kind and purpose to the one laid in this indictment; they occurred practically in the same place, within a short and defined period of time, and were evidently committed by the same person, and indicated a common purpose between the confessed thief and this defendant and also that this defendant gave his sanction to the crimes and-shared in the spoils of at least two of them, by acting as the depository of the goods stolen by Griffin. To make one criminal act evidence of another, some connection must exist between them: that connection must be traced in the general design, purpose or plans of the defendant, or may be shown by such circumstances of identification as necessarily tend to establish that the person who committed one, must have been guilty of the other. The collateral or extraneous offense must form a link in the chain of circumstances, or proofs relied upon for a conviction; as an isolated or disconnected fact is of no consequence; the defendant cannot be convicted of the offense charged simply because he is guilty of another offense .... yet, under some circumstances, evidence of another offense by the defendant may be given. Thus it may be to establish identity; to show the act charged was intentional and willful, not accidental; to prove motive; to show guilty knowledge and purpose, to rebut any inference of mistake; .... to show him to be one of an organization banded together to commit crimes of the kind charged, and to connect the other offense with the one charged, as part of the same transaction. This in substance is the language of Hester v. Com., 85 Pa. 139; Brandt v. Com., 94 Pa. 290; Com. v. Bradley, 16 Pa. Superior Ct. 561; Com. v. Levinson, 34 Pa. Superior Ct. 286; Com. v. Campolla, 28 Pa. Superior Ct. 379; Goersen v. Com., 99 Pa. 388; Com. v. House, 6 Pa. Superior Ct. 92.
+The fifth assignment raises the only other question entitled to consideration. . In the charge to the jury, the learned trial judge said: Of course, all persons have at some time been persons of good character, and many defendants in courts of justice, up to the time of the commission of the offense of which they are convicted, had a good character, and you will take this into consideration when you come to determine upon the weight and applicability of the testimony as to the good character of the defendant. In the light of the general charge, we do not feel that this language was misleading. The defendant denied his guilt, and called a number of reputable citizens to testify as to his good character, and conceding all that is urged by the defendant’s counsel against this statement by the trial judge, we do not feel that it is any more objectionable than the charge of the court in Com. v. King, 35 Pa. Superior Ct. 454, which was held to be not erroneous. Similar or equivalent language was used in Com. v. Brubaker, 13 Pa. Superior Ct. 14; Com. v. Belserawitz, 35 Pa. Superior Ct. 77, but in this as in those cases, we feel that taking it as a whole, the facts were fairly submitted to the jury in such a manner as to give them a proper understanding as to what effect they should give to the testimony adduced by the defendant in support of his previous good reputation.
+The assignments of error are overruled and the judgment is affirmed.
