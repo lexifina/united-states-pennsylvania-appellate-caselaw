@@ -1,0 +1,21 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 231"
+decided: "1973-01-04"
+citations: ["223 Pa. Super. 754"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth v. Lucas, Appellant."]
+source_url: "https://static.case.law/pa-super/223/cases/0754-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 803150
+---
+
+# Commonwealth v. Lucas
+
+## Majority (Per Curiam :)
+
+Opinion
+Per Curiam :
+The order of the court below is reversed and the record remanded for a hearing on the issues raised by the original or an amended post-conviction petition.
