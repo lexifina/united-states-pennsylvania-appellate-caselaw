@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 49"
+decided: "1900-01-17"
+citations: ["12 Pa. Super. 333"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, Smith, W. W. Porter, W. D. Porter and Beeber, JJ.", "Opinion by W. W. Porter, J."]
+parties: ["Commonwealth Mutual Fire Insurance Company, to the use of William Stevens, Receiver, Appellant, v. Henry W. Sharpless and Townsend Sharpless, Copartners, trading as Sharpless Brothers."]
+source_url: "https://static.case.law/pa-super/12/cases/0333-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 823334
+cites_cases: ["131 U. S. 319", "135 U. S. 533", "139 Pa. 605", "159 Pa. 1", "162 U. S. 329", "165 U. S. 578", "191 Pa. 582", "38 Atl. Rep. 840", "50 N. E. Rep. 516", "51 N. E. Rep. 19", "6 Pa. Superior Ct. 288", "66 N. W. Rep. 1095"]
+---
+
+# Commonwealth Mutual Fire Insurance ex rel. Stevens v. Sharpless
+
+## Majority (William W. Pouter, J.,)
+
+Opinion by
+William W. Pouter, J.,
+This Court held in Ins. Co. v. Storage Co., 6 Pa. Superior Ct. 288, a policy of fire insurance issued and delivered in Massachusetts upon property in Pennsylvania, to be a Massachusetts contract, governed by the laws of that state and free from taint of illegality, by reason of the existence of the penal and prohibitory legislation of Pennsylvania. We based our conclusion in part upon the case of Allgeyer v. Louisiana, 165 U. S. 578, and in part upon Commonwealth v. Biddle, 139 Pa. 605. In the case of Swing v. Munson, 191 Pa. 582 (decided since Ins. Co. v. Storage Co., supra), the Supreme Court of Pennsylvania has held differently. Assuming the contract in that case to have heen made in the state of Ohio and lawful there, the Supreme Court held that it was a contract “ in direct violation of the laws of this state; it was the indemnification of a citizen of Pennsylvania against loss by fire on property wholly within Pennsylvania ; without regard to where the contract was made, the subject of it was property within this state; it was the attempt of a foreign insurance company to do business in this state in violation of the laws of this state.”
+If the case at bar presented simply the question, whether the contract of insurance was one prohibited by the state legislation, the case of Swing v. Munson, supra, would be a definite decision of it against the appellant.
+Further than this however, the affidavit of defense in this ■case asserts in detail that the premium was paid to a local agent; that the policy was delivered in Pennsylvania by the said agent; that the contract for insurance was made in Pennsylvania; that the foreign insurance company acted in Pennsylvania through its agent; that the insurance company was not authorized to do business in Pennsylvania; that no consideration passed for the policy outside of the state of Pennsylvania; and that the goods insured were in the city of Philadelphia. In the face of this affidavit and the case of Swing v. Munson, supra, it would be idle to discuss the right to the entry of judgment, if the case were a suit brought in Pennsylvania for assessment made under the policy by the company.
+It is urged, however, that the suit is not upon the policy but is based upon a decree of the court of Massachusetts finding the defendants liable for certain assessments and that the decree cannot now be attacked. The statement of claim shows that the decree was based upon an assessment ordered by the court of Massachusetts against the several policy, holders, and that after the assessment was computed, it was ascertained that $170.75 as due by the defendants. The statement recites the transaction which resulted in the issuance of the policies and the proceedings upon which the decree was based. It does not appear that the defendants were served with legal process in those proceedings. It is now said that the defendants are liable under that decree and may not be heard to set up the defense contained in their affidavit.
+Even should it be conceded that the court of Massachusetts had the right to settle the matter of the general assessment, we are not prepared to admit that, in the absence of the defendants and without service of process upon them, the court of Massachusetts could enter a decree which would prevent the defendants from setting up a defense in Pennsylvania which goes not to the amount and propriety of the general assessment, but to the validity of the contract of insurance itself. A contention that the decree is binding upon the absent defendants, because the court of Massachusetts had power, by virtue of the terms of the contract of insurance, to enter the decree and to make the assessment, involves a concession of the validity of the contract, in order to uphold the jurisdiction. But the contract, by the statements in the affidavit, is invalid, inasmuch as the property insured was within the state and the foreign insurance company was not qualified to do business within the state. It will be observed that in Swing v. Munson, supra, the contract itself was held to be unenforceable, and emphasis is laid upon the fact that the public interests were involved. It is there said: “ In enforcing a policy in the interest of the whole public, the law takes but little note of the conduct of the immediate parties to the contract; the rule is, that the courts, having in view public interests, will not lend their aid to the enforcement of an unlawful contract.”
+We proceed no further in the discussion, inasmuch as the case must go back for trial. Being of the opinion that no error was committed by the court below, the order is affirmed.
