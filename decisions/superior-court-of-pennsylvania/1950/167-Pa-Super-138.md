@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 65, 66 and 67"
+decided: "1950-07-20"
+citations: ["167 Pa. Super. 138"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, Ross and Arnold, JJ."]
+parties: ["Commonwealth, Appellant, v. Grosso et al."]
+source_url: "https://static.case.law/pa-super/167/cases/0138-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 470533
+cites_cases: ["350 Pa. 567", "39 A. 2d 838"]
+---
+
+# Commonwealth v. Grosso
+
+## Majority (by Arnold, J.,)
+
+Opinion
+by Arnold, J.,
+These cases were argued together and will be disposed. of in one opinion. Hoffman, one of the defendants, was the lessee of a three-story building at 709 Penn Avenue, Pittsburgh, at a rental of $570 monthly. Under the name “Hoffman Fur Company” he conducted a store on the ground floor which had a height equivalent to two stories. At the rear of this there was a balcony used by the Fur Company. Above this story the floor was divided into rooms for offices or other purposes. A third story, apparently used for storage, was above this. On the second floor part of the rooms were leased to the Marlane Bridal Shop, where ten or more persons were employed and in which sewing machines were operated. Adjacent to them was a washroom used by both men and women. Adjacent to the washroom an office was leased by Hoffman to the “Casaba Sales Company.” In July, 1948, the police raided Casaba’s room and found a large-scale numbers operation or headquarters, with adding machines and a quantity of number slips. One Al Roberts, apparently in charge, and two women were arrested. Roberts admitted to the police officers his ownership and responsibility, pleaded guilty and was sentenced.
+In the instant trial the Commonwealth sought to involve Hoffman with the gambling operations conducted by Casaba. He was the lessee of the whole building and sublet the room to Casaba some three months before the raid. The Commonwealth’s theory was that he knew or ought to have known that the room was used for gambling purposes. The Commonwealth also advanced the theory that Sam Grosso-and Tony Grosso were concerned in the management of the lottery, and that they had set it up and had numbers tickets in their possession with intent to sell.
+At the close of the Commonwealth’s case the court sustained each defendant’s demurrer to the evidence and it appealed in each case.
+We agree with the court below that the evidence Ml short of establishing the Commonwealth’s case. It called-but one witness, Fannie McCracken, to link any of the three defendants with the gambling operation. Her testimony was, in the words of the court below, “largely hearsay [and] suspicions . . .”
+The witness, whose testimonial qualities were frail, testified that she worked on the balcony at the rear of the Fur Company’s store, and that Casaba occupied a room on the second floor; that she noticed the two Gfrossos come into the Fur Company store, and that shortly after the Grosses went up the staircase to the second floor. She testified that she heard their footsteps, heard them unlock the door, which was also fastened by a padlock, and heard the door lock click shut. This testimony was plainly insufficient to sustain an indictment that each of the Grossos “did ... set up, open, make and draw a certain lottery,” or were “concerned ... in the managing [and] conducting” of the same; or had in their “possession with intent to sell and barter a certain lottery and numbers ticket, and share and part thereof.”
+As to Hoffman’s connection with the numbers operation her only testimony is: “Q. Mrs. McCracken, did Hoffman ever have any occasion to go to that room? A. I believe he did.” Upon this being stricken from the record she answered: “Yes, he did go to that room. . . . One day the freight door [in the rear of the building] opened. There was nobody there but Mr. Hoffman on the first floor. He opened the freight door and went to the elevator, shut the door, and it went up to the second floor. He went over there to that room [Casaba’s] and he unlocked it and pulled the door shut. . . .” But she further testified that she did not see any of this, and that her statement that he entered the gambling room was based upon her assertion that she “knew it was his footsteps. I know his footsteps from other peoples.” (Italics supplied.) She admitted that she couldn’t possibly see that Hoffman was in the elevator, or left the elevator at the second floor, or opened the door in the gambling establishment. She made no attempt to explain how she could recognize his footsteps, nor differentiate his footsteps from those of anyone else. There was no testimony of any peculiarity in his footsteps, such as lameness or anything of that kind. Mrs. Mc-Cracken admitted that both men and women used the washroom on the second floor. She stated that working with her on the balcony was one Esther Charters, who had told the witness about Hoffman visiting the room. This, of course, was hearsay. But the Commonwealth called Esther Charters as its witness and elicited no such testimony from her.
+The only other evidence against Hoffman was that he received one payment of $150 on the rent. Whether this was a monthly or annual sum there was no testimony. There was no evidence that this rent was so large as to be suspicious, and the Commonwealth failed to show what rent the Marlane Bridal Shop paid. The fact that Hoffman paid $570 per month for the whole building cannot support a finding of a disproportionate amount of rent received from the Casaba Sales Company until at least the monthly rental paid by it was shown.
+Thus the testimony in the case fell far short of establishing the guilt of the three accused beyond a reasonable doubt, which is the criterion on demurrer: Commonwealth v. De Petro, 350 Pa. 567, 573, 39 A. 2d 838. We agree with the court below that the testimony .was so weak and inconclusive that as a matter of law not even a probability of fact can be drawn therefrom.
+The respective judgments are affirmed.
+She had been an employe of his for a year and a half and left following various arguments with him concerning vacation pay. She testified: “Q. You don’t like Mr. Hoffman, do you? A. That is up to Mr. Hoffman. Q. You don’t like him, do you? A. There is a lot of people I like. Q. You don’t like Mr. Hoffman? A. I don’t hate the man.”
