@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 3097 C.D. 1983"
+decided: "1985-05-24"
+citations: ["89 Pa. Commw. 522"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail, Barry and Palladino, sitting as a panel of three.", "Judge Williams, Je., did not participate in the decision in this case.", "Judge MacPhail dissents."]
+parties: ["Frankford Hospital, Petitioner v. Commonwealth of Pennsylvania, Department of Public Welfare, Respondent."]
+source_url: "https://static.case.law/pa-commw/89/cases/0522-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1330223
+cites_cases: ["325 U.S. 410", "413 A.2d 757", "431 U.S. 864", "492 Pa. 77", "51 Pa. Commonwealth Ct. 1"]
+---
+
+# Frankford Hospital v. Commonwealth, Department of Public Welfare
+
+## Majority (Judge Barry,)
+
+Opinion by
+Judge Barry,
+This appeal results from an order of the Department of Public Welfare (DPW), which refused reimbursement to Frankford Hospital (petitioner) for services which petitioner provided to three medical assistance patients. Each of the three patients were admitted to the hospital for emergency surgical procedures. Because of various reasons, none of these patients were admitted into the Short Procedure Unit, which would have been the appropriate unit of the hospital to receive these admissions. The patients were admitted as inpatients and each of them was discharged from the hospital less than twenty-four hours after their admission.
+Petitioner then sought payment from DPW for the services provided to these medical assistance patients. DPW denied payment, relying on a number of its regulations. This appeal followed.
+Our scope of review on appeal from a determination of an administrative agency is limited to determining whether the adjudication is supported by substantial evidence, whether the petitioner’s constitutional rights have been violated and whether an error of law has been committed. Montgomery County Child Welfare Services v. Hull, 51 Pa. Commonwealth Ct. 1, 413 A.2d 757 (1980), 2 Pa. C. S. §704. In this case, petitioner argues that DPW committed an error of lav in applying the following applicable statutes and regulations. Section 443.1 of the Public Welfare Code, Act of June 13, 1967, P.L. 31, as amended, 62 P.S. §443.1 (Supp. 1984-85) (emphasis added), provides, “The following medical assistance payments shall be made in behalf of eligible persons whose institutional care is prescribed by physicians: (1) The reasonable cost of inpatient hospital care . . . for a bed patient on a continuous twenty-four hour basis in a multi-bed accommodation of a hospital....” Furthermore, Section 9421.1 of the Medical Assistance Manual defines inpatient hospital care “as room, board and professional services furnished to a patient on a continuous twenty-four hour a day basis. ...” (Emphasis added.) DPW’s denial of payment to petitioner for the three patients in question is based on the fact that, while the services provided were medically necessary, the patients did not remain in the hospital for at least twenty-four hours, and therefore petitioner is not entitled to reimbursement for inpatient hospital care. Petitioner asserts that this interpretation is plainly erroneous and inconsistent with the purposes of the Medical Assistance program. We agree and accordingly must reverse.
+In Department of Public Welfare v. Forbes Health System, 492 Pa. 77, 81, 422 A.2d 480, 482, the court stated:
+In reviewing an administrative agency’s interpretation of its own regulations, courts are governed by a two step analysis. First, “[i]n construing administrative regulations, ‘the ultimate criterion is the administrative interpretation, which becomes of controlling weight unless it is plainly erroneous or inconsistent with the regulations.’ ” United States v. Larionoff, 431 U.S. 864, 872, 97 S.Ct. 2150, 2155, 53 L.Ed. 2d 48 (1977), quoting Bowles v. Seminole Rock Co., 325 U.S. 410, 414, 65 S.Ct. 1215, 1217, 89 L.Ed. 1700 (1945). Second, the regulations “must be consistent with the statute under which they are promulgated.”
+Id. at 873, 97 S.Ct. at 2156.
+Petitioner essentially makes two interrelated arguments. First, it argues that the phrase “continuous twenty-four hour a day basis” need not be construed to mean that the patient remains in the hospital for at least twenty-four hours. Bather, petitioner asserts that the care provided, i.e. inpatient care, must be of the type that is provided on a continuous twenty-four hour a day basis, regardless of the length of time the patient actually receives the inpatient care. Secondly, petitioner points ont that the purpose of the medical assistance program is to provide adequate medical care to needy individuals in an efficient and economic manner. 42 U.S.C. §1396a(13). Petitioner asserts that interpreting the regulation as DPW has will encourage provider hospitals to keep patients in the hospital longer than necessary simply so they can be reimbursed for services provided. We agree with petitioner’s assertions.
+We must remember that in this case, there is no question concerning the necessity of the medical services provided. Further, all of the patients required a period of hospitalization following their emergency surgical procedures. The unit of the hospital designated for such patients, however, was unavailable at the time, so each of the patients was placed in inpatient care as such care was medically necessary for a period of time. Under such circumstances, the hospital could not very well discharge the patients simply because the Short Procedure Unit was unavailable. After a period of time, when the patients were able to be discharged, petitioner did so, thereby freeing beds for other patients who may have been in more urgent need of those beds. While the three patients in question were inpatients, they received the same care as any of the other inpatients in the hospital. We believe petitioner is entitled to reimbursement for the services provided, and DPW’s interpretation of the regulation in question was both plainly erroneous and inconsistent with the federal and state legislation establishing the medical assistance program.
+DPW argues that if petitioner is entitled to reimbursement for services provided for less than twenty-four hours, the amount of reimbursement should be prorated on an hourly basis. We can find no authority for doing such, and we believe that if such action is necessary, it is up to either the legislature, or DPW, through promulgation of regulations, to allow such proration of reimbursements in situations similar to the present one.
+Order
+Now, May 24, 1985, the orders of the Department of Public Welfare Office of Hearings and Appeals at Case Nos. 09-0128512, 51-1420105 and 51-1588808, dated October 4, 1983 denying payment to Frankford Hospital are reversed.
+Judge Williams, Je., did not participate in the decision in this case.
+Judge MacPhail dissents.
