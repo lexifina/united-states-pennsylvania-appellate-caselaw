@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 115"
+decided: "1943-12-31"
+citations: ["154 Pa. Super. 36"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Baldrige, Stadtfeld, Rhodes, Hirt, Kenworthey and Reno, JJ."]
+parties: ["Greenberg v. McCusker et al., Appellant."]
+source_url: "https://static.case.law/pa-super/154/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1053765
+cites_cases: ["109 A. 280", "153 Pa. Superior Ct. 449", "265 Pa. 565", "29 A. 2d 504", "34 A. 2d 269", "346 Pa. 49"]
+---
+
+# Greenberg v. McCusker
+
+## Majority (Stadtfeld, J.: Per Curiam,)
+
+Opinion by
+Stadtfeld, J.:
+This case involves an action of trespass for personal injuries sustained, by tbe plaintiff, appellee herein, when defendant’s truck ran over his foot while he was standing upon the cartway. The case was tried before Ttjmolillo, J., without a jury, in the Municipal Court of Philadelphia. The court found in favor of the plaintiff in the sum of |500.
+The scene of the accident lay in Philadelphia on Mervine Street, which runs in a northerly and southerly direction, just south of Diamond Street. The plaintiff’s car was parked on the east side of Mervine Street. Opposite his car and against the west curb of Mervine Street, another car was parked, thus leaving only the center lane of the cartway open to north and south-bound traffic. Immediately prior to the accident concerned in this litigation, the plaintiff had been involved in a collision with another car with some damage resulting to his door on the side of his car facing the cartway. He was standing in the cartway facing the car and the damaged door discussing the collision with the driver of the other car involved in the collision. His back was to the street and against the traffic on his, the east, side of the cartway. He testified that he stood there for approximately five minutes without observing possible oncoming traffic. The defendant’s loaded coal truck came north on Mervine Street while the conversation was in progress. It stopped or slowed nearly to a stop within 15 or 20 feet of the plaintiff, its driver shouting to the two men in the cartway to get out of the street. The truck then moved forward at five to ten miles per hour. The truck safely passed one of the two men, but the right rear wheel ran over the heel of plaintiff’s foot after the front of the truck had safely passed him. Plaintiff did not see or hear the truck until the front of the truck was even with him at which time he moved closer to his own ear, as far as he could.
+Plaintiff testified that the width of the cartway was 40 feet approximately, and on cross-examination he stated that it was 25 feet, and that the lane open to traffic, between the two parked cars, was 15 to 20 feet. Although the court below found the width of the cart-way to be 40 feet, the important fact substantiated by considerable testimony was that there was sufficient unobstructed cartway available for the passage of the truck, with a safety margin of three feet on either side.
+Defendant filed no affidavit of defense and admitted that its truck was operated by its agent on its business. Defendant’s point for binding instructions and motion for judgment non obstante veredicto were refused.
+There is no need to discuss the existence of negligence on the part of the appellant on the basis of the facts submitted to the court below, for if there was such negligence, the evidence offered by the plaintiff below, in the opinion of this court, shows on the face of it such contributory negligence as will bar the plaintiff from recovery for his injuries and consequential damages.
+Any person who stands on a portion of the public highway, where motor vehicles must travel, for a period of several minutes, and who fails to exercise a degree of caution and watchfulness commensurate with the peril of his position, is guilty of contributory negligence as a matter of law should he be struck by a negligent driver. Here the plaintiff stood in the only free lane on a public highway discussing damages to his automobile and not once for a period of several minutes did he glance up or down the highway to ascertain whether any traffic was coming in his direction. The truck of the appellant approached the scene, stopped or nearly stopped several feet away, and proceeded only after a shout of warning by its driver, and yet plaintiff was only aware of its presence after a portion of the truck had passed or was abreast of him. Inattentiveness to the movement of traffic has been held to be contributory negligence in a long line of cases where á person subject to the duty of using ordinary care for his own safety steps or drives out onto a highway without looking as to the condition of traffic lawfully using the highway. The conduct of the plaintiff under the facts of this case is even more reprehensible, his dereliction of duty having extended over a period of several minutes.
+In Reisinger v. McConnell, 265 Pa. 565, 109 A. 280, relied upon by the plaintiff and the court below, the injured plaintiff was not upon the cartway at the side of his automobile, but in the rear of it out of the direct line of travel. He had been there but a half a minute mounting a tire on the spare tire holder on the rear of his car and he had been watchful to see whether vehicles were approaching in either direction. His failure to continue to look was properly excused by the nature of his work.
+In the case at bar, plaintiff was doing no work requiring his presence and studied preoccupation, but at best surveying the damages, which occupation, in as much as he was no expert in such a task, required no peculiar attention at the risk of personal injury. Therefore, the rule that a person working on a highway must be judged by a more liberal standard than an ordinary pedestrian who has no care other than his own safety, as set forth in Copertino v. Chrobak, 346 Pa. 49, 29 A. 2d 504, cannot be applied to the plaintiff at bar. No work of the plaintiff required his presence on the cart-way. Although the facts of the two cases are not similar, what was said by Kellek, P. J., in a recent opinion in Tait v. Phila. Transportation Co., 153 Pa. Superior Ct. 449, 34 A. 2d 269, is applicable here as a general rule. “If he unnecessarily placed his body in a position of danger and thus contributed to the accident which caused the injury, he was guilty of contributory negligence and cannot recover from the defendant.”
+December 31, 1943:
+Judgment reversed.
+Per Curiam,
+The foregoing opinion was prepared by Judge Stadtfeld and was adopted by the court, but had not been filed at the time of his sudden death on December 12, 1943. It is now filed as the opinion of the court.
