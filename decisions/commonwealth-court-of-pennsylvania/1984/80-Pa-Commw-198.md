@@ -1,0 +1,39 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 178 Misc. Docket No. 3"
+decided: "1984-02-08"
+citations: ["80 Pa. Commw. 198"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Submitted on briefs to Judges Rogers, Craig and MacPhail, sitting as a panel of three."]
+parties: ["Joseph Zazo, Petitioner v. Commonwealth of Pennsylvania, Pennsylvania Board of Probation and Parole, Respondent."]
+source_url: "https://static.case.law/pa-commw/80/cases/0198-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1318496
+cites_cases: ["37 Pa. Code §75.1", "37 Pa. Code §75.2", "458 A.2d 645", "460 A.2d 1121", "466 Pa. 453", "470 A.2d 1088", "488 Pa. 397", "73 Pa. Commonwealth Ct. 432", "79 Pa. Commonwealth Ct. 558"]
+---
+
+# Zazo v. Commonwealth
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+Joseph Zazo (petitioner) seeks review of an order of the Pennsylvania Board of Probation and Parole (board) refusing his request for administrative relief from a board action revoking his parole and recommitting him for thirty-three months as a convicted parole violator.
+The petitioner was convicted of burglary and sentenced to a term of six months to four years by the Court of Common Pleas of Berks County. While on parole for this conviction, the petitioner was arrested and convicted of burglary in the Court of Common Pleas of Montgomery County. On April 29, 1981, the petitioner was afforded a full board revocation hearing at the State Correctional Institution at Grater-ford, at which he was represented by counsel. On May 11, 1981, the board ordered the petitioner recommitted as a convicted parole violator to serve thirty-three months back time for the Montgomery County conviction. The board thereafter denied the petitioner ’s request for administrative relief.
+Our review is limited to determining whether the adjudication of the board is supported by substantial evidence, is in accordance with law and is observant of the petitioner’s constitutional rights. Section 704 of the Administrative Agency Law, 2 Pa. C. S. §704; Washington v. Pennsylvania Board of Probation and Parole, 73 Pa. Commonwealth Ct. 432, 458 A.2d 645 (1983). The petitioner advances three points of alleged error which, he maintains, warrant a remand to the board.
+The petitioner first asserts that the board abused a sound discretion by capriciously disregarding substantial mitigating evidence presented at the revocation hearing. At the hearing, the petitioner testified that his criminal activity was a direct result of his addiction to narcotics, that he had never been afforded treatment or therapy for this condition and that he desired that the board place him in a long-term in-patient drug treatment program.
+The petitioner says that the board’s failure to mention this evidence proves a capricious disregard of it. We disagree. The board has a wide discretion with respect to matters of credibility and the weight to be given evidence. Section 21.1(a) of the Act of August 6, 1941 (Act), P.L. 861, as amended, 61 P.S. §331.21a(a). The board is not required to discuss and specifically evaluate every contention of the parties. The petitioner committed burglary while released on parole. It was no abuse of discretion to revoke his parole despite his confession of drug addiction.
+The petitioner next contends that he is entitled to credit on the original sentence for the time he spent in confinement following the lodging of the hoard’s warrant and until his recommitment, although he did not post hail on the new charges. He asserts that because the sentencing judge for his new conviction did not specify that his new sentence was to be served consecutive to his original sentence, it must be deemed to run concurrently, by virtue of Pa. E. Crim. P. 1406 (a) which provides:
+(a) Whenever more than one sentence is imposed at the same time on a defendant who is incarcerated for another offense, such sentences shall be deemed to run concurrently unless the judge states otherwise.
+He relies on Commonwealth v. Dorian, Pa. Superior Ct. , 460 A.2d 1121 (1983), in which the Superior Court concluded that a trial judge 'may impose a sentence on a parole violator for a crime committed while on parole to run concurrently with the time remaining on the original sentence.
+The Supreme Court, however, reversed the holding of the Superior Court in Dorian. Commonwealth v. Dorian, Pa. , A.2d (Nos. 189 and 193 Western District Allocatur Docket, filed December 27, 1983); see also Rivera v. Pennsylvania Board of Probation and Parole, 79 Pa. Commonwealth Ct. 558, 470 A.2d 1088 (1984).' Hence the law remains that a parole violator convicted and sentenced to prison for another offense must serve his or her back time and the new sentence in consecutive order and that the sentencing judge has no authority to order that the back time and the new sentence should run concurrently. Section 21.1(a) of the Act; Commonwealth v. Zuber, 466 Pa. 453, 353 A.2d 441 (1976).
+Gaito v. Pennsylvania Board of Probation and Parole, 488 Pa. 397, 412 A.2d 568 (1980) is controlling on this issue. It was there held that the time a parolee who has met the bail requirements for a new offense spends in custody solely because of a detainer lodged by the board shall be credited against the original sentence; but that the time spent in custody because the parolee is unable to satisfy bail requirements on the new charges shall be credited to his new sentence. The petitioner here did not post bail on the new charges and he is not entitled to have the time spent in custody credited against his original sentence.
+The petitioner finally asserts that the board violated his right to due process by using the presumptive recommitment range for a robbery conviction where the petitioner’s only proven subsequent conviction was for burglary. 37 Pa, Code §75.2. We agree.
+At the revocation hearing, the only conviction which was before the board when it made its decision to recommit the petitioner as a convicted parole violater was the Montgomery County conviction for burglary. While there were other convictions alleged, including a robbery conviction in Berks County, no competent evidence to support them was presented and the board expressly agreed to consider only the conviction for the Montgomery County burglary.
+The board’s recommitment order of May 11, 1981, however, while recording that it concerns only the Montgomery County conviction, also notes that the board applied the presumptive range for robbery, twenty-four to forty months, to determine the amount of back time the petitioner should serve. This significantly exceeds the presumptive range for burglary, which is fifteen to twenty-four months. 37 Pa. Code §75.2. It is apparent from the face of this order that the hoard applied the wrong presumptive range.
+'The hoard may, of course, deviate from the presumptive range, provided written justification is given. 37 Pa. Code §75.1 (c). No justification is here provided by the board for the deviation.
+Accordingly, we remand the record to the board for a correction of the order of commitment so as to reflect that the conviction for which the petitioner has been recommitted was for burglary, not robbery, and for either an amendment of the sentence to a length consistent with the presumptive range for burglary, or, in the alternative, for a written justification for the deviation from the presumptive range for burglary. Jurisdiction relinquished.
+Order
+And Now, this 8th day of February, 1984, the record is remanded to the Pennsylvania Board of Probation and Parole for correction, amendment or amplification of its order of May 11, 1981, consistent with the opinion herein. Jurisdiction is relinquished.
