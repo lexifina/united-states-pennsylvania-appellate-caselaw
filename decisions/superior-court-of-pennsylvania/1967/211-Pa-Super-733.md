@@ -1,0 +1,21 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 610"
+decided: "1967-11-21"
+citations: ["211 Pa. Super. 733"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Montgomery and Hoffman, JJ., would reverse and remand for a rehearing."]
+parties: ["Commonwealth v. Wiggins, Appellant."]
+source_url: "https://static.case.law/pa-super/211/cases/0733-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 781494
+---
+
+# Commonwealth v. Wiggins
+
+## Majority
+
+Order affirmed.
+Montgomery and Hoffman, JJ., would reverse and remand for a rehearing.
