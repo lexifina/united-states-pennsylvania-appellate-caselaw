@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 1765"
+decided: "1974-04-03"
+citations: ["228 Pa. Super. 8"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. J., Watkins, Jacobs, Hoffman, Cercone, and Spaeth, JJ. (Spaulding, J., absent)."]
+parties: ["Donahey, Appellant, v. Mattox."]
+source_url: "https://static.case.law/pa-super/228/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 810967
+cites_cases: ["223 Pa. Superior Ct. 558", "255 A.2d 577", "264 A.2d 620", "276 A.2d 513", "302 A.2d 454", "38 Pa. D. & C. 2d 458", "435 Pa. 232", "437 Pa. 556", "442 Pa. 283", "53 Pa. D. & C. 2d 402", "58 Pa. D. & C. 2d 185"]
+---
+
+# Donahey v. Mattox
+
+## Majority (Jacobs, J.,)
+
+Opinion by
+Jacobs, J.,
+This appeal presents the issue of whether the filing of a praecipe by a plaintiff who unintentionally fails to pay the sheriff’s fee, without which the sheriff would not serve the writ of summons on the defendant, is a commencement of an action which tolls the statute of limitations. We find no deliberate attempt on the part of the plaintiffs to prevent service and, therefore, hold that the action was commenced by the filing of the prae-cipe which tolled the statute of limitations for another 2-year period.
+On July 1, 1970, an accident occurred in which the minor plaintiff was injured. To commence an action tlie secretary for plaintiffs’ counsel filed a praecipe for a writ of summons in trespass on June 22, 1972. She properly filed the praecipe, but failed to pay the sheriff’s fee. Since the sheriff did not receive his fee, he did not serve the writ of summons on defendant After learning that the defendant had not been served, plaintiffs reissued the writ on January 3, 1973, and service of the writ was made upon the defendant. In the new matter of her answer to plaintiffs’ complaint, defendant averred that the statute of limitations had run because the filing of the praecipe without payment of the sheriff’s fee for service was not sufficient to toll the statute of limitations. Plaintiffs replied that the sheriff’s fee was not paid “because the secretary of plaintiffs’ counsel who did the filing did not know that she had to pay the Sheriff an additional fee.” Defendant then moved for judgment on the pleadings which was granted by the court below and the complaint was dismissed.
+Generally, the filing of a praecipe, irrespective of whether the prothonotary issues the writ or the sheriff serves it, commences an action under Pa. E.C.P. 1007. Ehrhardt v. Costello, 437 Pa. 556, 264 A.2d 620 (1970). And this is sufficient to toll the statute of limitations for another statutory period in which the writ may be reissued and served on the defendant. Id. In the present case, a praecipe was filed by plaintiffs within the 2-year statutory period. Although no service of the writ was then made on defendant, the writ was reissued well within the added 2-year period and served on the defendant.
+The defendant, however, contends that the action was not properly commenced within the 2-year statutory period by plaintiffs’ filing of the praecipe because the plaintiffs prevented service of the writ by failing to pay the sheriff’s fee. In Bittler v. Rocco Bono Equipment Rentals, 38 Pa. D. & C. 2d 458, 461 (1966), quoting from McCrystal v. Berczel, 8 Mercer 75 (1965), it was said that “when the plaintiff [s] went further and notified the Prothonotary to hold the praecipe, in effect they nullified their action in filing it. In other words, while purporting to commence an action, they expressly prevented the commencement of it by simultaneously stopping and thereby nullifying the effect of their praecipe.” The Pennsylvania Supreme Court agreed with this conclusion in Peterson v. Philadelphia Suburban Transportation Co., 435 Pa. 232, 255 A.2d 577 (1969). Thus, the argument follows that if the effect of a praecipe, service of the writ, is nullified by an act of the plaintiff, then the statute of limitations is not tolled by the filing of the praecipe. See McCrystal v. Berczel, supra; Brant v. Gill, 7 Mercer 76 (Pa. C. P. 1965). The lower court agreed with this conclusion and held that the plaintiffs had not effectively commenced their action within the statutory period by filing a praecipe without the payment of the sheriffs fee.
+The facts in this case are clearly distinguishable from those in Bittler and Peterson. In Bittler, the plaintiff's attorney filed a praecipe, but also requested the prothonotary to mark it “hold” so the writ would not be issued. In Peterson, the plaintiff’s attorney filed the praecipe, but also ordered the sheriff to “hold” the writ and the writ was not served. In the instant case, if the facts well-pled by plaintiffs are accepted as admitted, as they must be when judgment on the pleadings is requested by the defendant, Eckborg v. Hyde-Murphy Co., 442 Pa. 283, 276 A.2d 513 (1971), it then appears that the secretary of the plaintiffs’ counsel who filed the praecipe did not pay the sheriff’s fee for service because she did not know that it was necessary to pay the sheriff an additional fee. These facts do not demonstrate the deliberate attempt by a plaintiff to prevent service of the writ as found in Bittler and Peterson. See Wiener v. Gemunden, 58 Pa. D. & C. 2d 185 (1972), appeal quashed, 223 Pa. Superior Ct. 558, 302 A.2d 454 (1973); See also Kovalcik v. G. C. Murphy Co., 53 Pa. D. & C. 2d 402 (1971). Rather, they demonstrate an inadvertent omission on the part of the plaintiffs.
+Since there was no deliberate act by the plaintiffs to negate the effect of the filing of the praecipe, we hold that the instant action was properly commenced within the statutory period.
+Judgment reversed and the complaint reinstated.
