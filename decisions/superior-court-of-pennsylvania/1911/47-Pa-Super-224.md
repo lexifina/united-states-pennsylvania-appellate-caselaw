@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 10"
+decided: "1911-07-13"
+citations: ["47 Pa. Super. 224"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady, Head, Beaver and Porter, JJ."]
+parties: ["Knell’s Estate."]
+source_url: "https://static.case.law/pa-super/47/cases/0224-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 423056
+cites_cases: ["10 W. N. C. 249", "114 Pa. 29", "2 Pa. 157", "87 Pa. 163"]
+---
+
+# Knell's Estate
+
+## Majority (Rice, P. J.,)
+
+Opinion by
+Rice, P. J.,
+This is an appeal by certain of the residuary legatees under the will of Joseph Knell, from the decree of the orphans’ court dismissing their appeal from the refusal of the register of wills to revoke letters of administration d. b. n. c. t. a., granted to Hugh W. Ramsay. The history of the proceedings is fully and accurately set forth in the opinion of the learned president judge of the orphans’ court, and need not be restated at length. But there are certain facts that we deem it important to emphasize. The letters were granted on June 9, 1909, and the petition to revoke was not presented until March 16, 1910; in the meantime the appellee had proceeded with the administration of the estate, without objection, so far as appears, on the part of anyone. Although it is alleged, in the petition, that the letters were granted without notice to the petitioners, it is not alleged that they presented the petition promptly when knowledge came to them of the death of Elizabeth M. Knell, the executrix, and the appointment of the appellee. The petitioning legatees are nonresidents of the state, and the letters were issued to the appellee upon the nomination of the resident legatee who would have been entitled to them. The assets of the estate are very small. It does not appear that the appellee has not administered them properly. To dismiss him and appoint another in his place would add to the cost and expenses of administration, without advantage to the estate, and it is not necessary to do so in order to protect the interests of the petitioning legatees. In view of all the circumstances, the appellee should not be disturbed in his administration, unless some inflexible rule of law requires it. While sec. 22 of the Act of March 15, 1832, P. L. 135, provides that in all cases of administration with a will annexed, where there is a general residue of the estate bequeathed, the right to administer shall belong to those having the right to such residue, yet sec. 27 of the Act of March 29, 1832, P. L. 190, provides that when any executor or administrator shall have removed from the state the letters may be vacated by the orphans’ court, on application of any person interested in the estate. Consequently it has been held— and this is stating the effect of the decisions very conservatively — that the register is not bound to issue letters to a nonresident. But it has also been declared that he is not at liberty to disregard -“the clearly expressed wishes” of the parties preferred by law and entitled to the estate, whether they be residents of this commonwealth or be beyond its borders, and grant letters to a total stranger. And it was said, in the same connection, that if the parties who are entitled to the estate are not in position to administer it themselves, then the trusts should be committed to their nominee: Jones’s Appeal, 10 W. N. C. 249. But in this case the appointment was not made contrary to the clearly expressed wishes of the nonresident legatees. They did not appear to express their wishes until nearly a year after the letters had been granted to the appellee; and the only legatee who did appear, and who alone had a right to demand that letters be issued to a legatee, requested his appointment. As was said in Frick’s Appeal, 114 Pa. 29, cases may arise where letters have been granted to fit .persons, without assent of nonresident parties in interest, which should be revoked upon their application. But the decision and the reasoning of the opinion in the same case clearly imply that this is not an inflexible rule. See also: Sarkie’s Appeal, 2 Pa. 157; Sharpe’s Appeal, 87 Pa. 163. The appointment of the appellee was not unlawful, nor, in view of the circumstances, was it improvident. In concluding the opinion of the court in Sarkie’s Appeal, 2 Pa. 157, Justice Sergeant said: “There is nothing in the case, under these circumstances, which, we think, would authorize us to disturb what has been done, and create unnecessarily new embarrassment, delay, or litigation.” We think the same may be said, with equal propriety, in the present case.
+The decree is affirmed and the appeal dismissed at the costs of the appellants.
