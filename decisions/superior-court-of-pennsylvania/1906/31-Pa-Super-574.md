@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 112"
+decided: "1906-10-05"
+citations: ["31 Pa. Super. 574"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Porter, Henderson, Morrison, Orlady, Head and Beaver, JJ."]
+parties: ["Commonwealth v. Fell."]
+source_url: "https://static.case.law/pa-super/31/cases/0574-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 864355
+cites_cases: ["16 Pa. Superior Ct. 171", "2 Grant, 66", "7 Watts, 485"]
+---
+
+# Commonwealth v. Fell
+
+## Majority (Beaver, J.,)
+
+Opinion by
+Beaver, J.,
+The Standard Fire Insurance Company, of Trenton, N. J., appeals from the sentence of the court of quarter sessions, in and by which it was sentenced to pay the costs of a prosecution against the defendant, upon a charge of “burning dwelling house to defraud insurance company,” in accordance with the verdict of a jury, which was: “Not guilty, and the Standard Fire Insurance Company of Trenton, N. J., to pay the costs, represented by James F. D. Wilson as prosecutor.”
+The sixty-second section of the Criminal Procedure Act of March 31, 1860, P. L. 427, provides:
+“ In all prosecutions, cases of felony excepted, if the bill of indictment shall be returned ignoramus, the grand jury returning the same shall decide and certify on such bill whether the county or the prosecutor shall pay the costs of prosecution; and in all cases of acquittals by the petit jury on indictments for the offenses aforesaid, the jury trying the same shall determine by their verdict, whether the county, or the prosecutor, or the defendant, shall pay the costs, or whether, the same shall be apportioned between the prosecutor and the defendant, and in what proportions; and the jury, grand or petit, so determining, in case they direct the prosecutor to pay the costs or any portion thereof, shall name him in their return or verdict; and whenever the jury shall determine as aforesaid, that the prosecutor or defendant shall pay the costs, the court in which the said determination shall be made shall forthwith pass sentence -to that effect, and order him to be committed to the jail of the comity until the costs are paid, unless' he give security to pay the same within ten days.”
+It is claimed by the appellant .that, inasmuch as it is not named as prosecutor in the verdict of the jurjq it was unlawful for the court to impose the sentence above referred to.
+After sentence, Irvin W. Rogers, secretary of the Standard Fire Insurance Company of New Jersey, presented a petition to the court to annul' and vacate the sentence of court, imposing the costs upon said insurance company, as in the petition recited, which petition was supported by an affidavit made by the said secretary. A motion, based upon this petition, was presented to the court, which was disposed of in an opinion fully covering the question involved. This opinion practically covers the entire question and needs neither explanation nor addition.
+The indictment names James F. D. Wilson among the witnesses as prosecutor. It is .claimed by the appellant that he is named in the verdict as the prosecutor and that, therefore, the sentence directing the appellant to pay the costs is not supported by the verdict.. It is admitted in the appellant’s argument that, if the verdict had taken this form, “Not guilty, and the prosecutor, the Standard Fire Insurance Co., to pay the costs, represented by adjuster James F. D. Wilson,” it would have supported the sentence. Does not the verdict practically mean that? Suppose it had read, Not guilty, and the Standard Fire Insurance Co. of Trenton, N. J., to pay costs, as prosecutor, represented by James F. D. Wilson; it would mean the same thing. Placing a comma after Wilson and making the part of the verdict “represented by James F. D. Wilson” as parenthetical, does it not mean precisely that ? As is set forth by the court, no motion to set aside the verdict, or in arrest of judgment, was made within the required time. The verdict appears to have been rendered in the absence of the court and was, therefore, recorded just as it was returned by the jury, without any effort to ascertain exactly what the intent of the jury was. We are quite in harmony with the opinion of the court, however, that, whether we view the part of the verdict relating to Wilson, as the representative of the compamy, as parenthetical, or whether we take the verdict just as it stands, “We are not persuaded that it (the verdict) is insufficient in the form rendered to support a. judgment.”
+A corporation, which is an artificial person, necessarily acts by and through natural persons. The corporation, as such, cannot make an information. • It cannot, as such, appear as a witness. This is shown by the petition which it presented to vacate and annul the sentence. That petition was made and supported by the affidavit of its secretary, and yet no one will say that it was not the petition of the corporation; so in the matter of the indictment for the destruction of his property by fire, in order to secure the insurance represented in the policy of the appellant. Wilson, who is named as the prosecutor upon the indictment, as clearly appears by the charge of the court, which is not assigned for error, was the adjuster and agent of the company. He represented the company for its benefit. A conviction of the defendant would have been a practical defense against the payment of the policy. The interests of the corporation were involved,, if not directly, at least indirectly. It was, therefore, very natural that the jury should depart, as they had a right to do, from the indorsement upon the indictment which named Wilson as the prosecutor, and name, as the real prosecutor, the appellant, the Standard Fire Insurance Company of Trenton, N. J.
+Judgment affirmed and record remitted, in order that the sentence may be carried into effect.
