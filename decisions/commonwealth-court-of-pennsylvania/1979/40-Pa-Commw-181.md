@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1590 C.D. 1977"
+decided: "1979-01-26"
+citations: ["40 Pa. Commw. 181"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before, Judges Crumlish, Jr., Blatt and Craig, sitting as a panel of three."]
+parties: ["Mobilfone of Northeastern Pennsylvania, Inc., a Pennsylvania Corporation, Petitioner v. Pennsylvania Public Utility Commission, Respondent. Charles B. Shafer, Intervenor."]
+source_url: "https://static.case.law/pa-commw/40/cases/0181-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1893605
+cites_cases: ["154 A.2d 505", "18 Pa. Commonwealth Ct. 373", "19 Pa. Commonwealth Ct. 1", "210 A. 2d 281", "25 Pa. Commonwealth Ct. 412", "335 A.2d 890", "337 A.2d 922", "359 A.2d 848", "397 Pa. 246", "418 Pa. 286"]
+---
+
+# Mobilfone of Northeastern Pennsylvania, Inc. v. Pennsylvania Public Utility Commission
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+Mobilfone of Northeastern Pennsylvania, Ine. (petitioner), has appealed to this Court from an order of the Pennsylvania Public Utility Commission (PUC) granting the application of Charles B. Shafer (applicant) for a certificate of public cenvenience.
+On February 8,1974, Shafer filed an application to furnish to the public one-way mobile radio-telephone service in portions of Lackawanna and Luzerne Counties. Protests were filed by the petitioner and Portacom Electronics Corporation (Portacom), but the Portacom protest was subsequently dropped. Hearings were held, at which it was established that the applicant had been furnishing one-way mobile radiotelephone (i.e., paging) service to the public in the area concerned since 1960 and that he had 54 customers at the time of application. There had been no complaints about his service by either competitors or customers, and several of his customers testified as to their complete satisfaction. In its order granting the application, the PUC acknowledged that the applicant had been operating unlawfully without a certificate. It also noted, however, that the applicant’s lawyer had been advised by the PUC in 1957 that a certificate was not necessary to furnish one-way paging service. In addition, the PUC observed that it did not assume jurisdiction over general mobile radio-telephone service until 1964, and specifically over one-way paging service in 1974. It reasoned, therefore, as follows :
+[I]n view of the fact that applicant was expressly advised by the Commission that he did not need a certificate, and in view of the fact that the regulatory status of radio common carriers was uncertain during the 1960’s and 1970’s, we find that applicant’s violation was entirely nondeliberate, and that he had no reason to know or suspect that certificate was required. Accordingly, Charles B. Shaffer’s [sic] prior service supports the award of a certificate of public convenience.
+Under the Public Utility Code, 66 Pa. C.S. §1103, the PUC may grant a certificate of public convenience only if “granting of such certificate is necessary or proper for the service, accommodation, convenience, or safety of the public,” and the applicant bears the burden of demonstrating (1) a public need for the proposed service, (2) the inadequacy of existing service, and (3) the financial and technical capacity to meet the need in a satisfactory fashion. In Re: Applications of L. P. Transportation, Inc. and H. R. Ritter Truching Co., 25 Pa. Commonwealth Ct. 412, 359 A.2d 848 (1976). The petitioner argues here that there is not substantial evidence from which the PUC could conclude that the applicant has met this burden. We do not agree.
+We believe that the evidence was sufficient to establish both the public need and the inadequacy of existing certificated service. The applicant testified that he had been in the subject business in the same area for more than 15 years and had between 50 and 60 customers. His competitor, the petitioner, had only 7 in the same service area. Moreover, several of his customers testified as to their satisfaction with his services. One witness testified that, prior to subscribing to the applicant’s service, he had investigated other services and had made an appointment with petitioner’s owner Ted Erhardt, but Erhardt had not kept the promised appointment. Obviously, there was a public need which the applicant was filling, and which the existing certificated service was not filling.
+The petitioner argues, nevertheless, that the PUC could not properly consider the previous years of uncertificated service as competent evidence of public need. As we explained, however, in Dutchland Tours, Inc. v. Pennsylvania Public Utility Commission, 19 Pa. Commonwealth Ct. 1, 337 A.2d 922 (1975), the determinative question is whether or not the unauthorized service was operated in good faith, and here the PUC expressly found that it was. This finding is supported by the applicant’s testimony that the PUC had earlier advised his lawyer that a certificate was not necessary and that he did not later learn that one-way radio operations were being regulated until so advised by the PUC. Furthermore, the record supports the finding that the regulatory status of one-way radio was unclear during the period in question and that the applicant promptly complied by filing an application for certification when he was informed by the PUC of the need therefor.
+As to the applicant’s capacity to meet the public need, the PUC found that he had been operating since 1960 without a complaint from his customers, and there was evidence that he intended to invest further in Ms business and to expand and improve his mode of operation. This and other technical and financial statements and records were before the PUC, and we believe, therefore, that there was sufficient evidence in this regard to support the order.
+Accordingly, the order is affirmed.
+Order
+And Now, this 26th day of January, 1979, the order of the Pennsylvania Public Utility Commission in the above-captioned matter is hereby affirmed.
+Formerly Section 203 of the Public Utility Law, Act of May 28, 1937, P.L. 1053.
+Our review of a PUO order is limited to whether or not there is a violation of constitutional rights, an error of law, a violation of agency procedure or a lack of evidence to support the findings. 2 Pa. O.S. §704.
+Tbe eases on which the petitioner relies in arguing lack of good faith are clearly distinguishable. In Bunting Bristol Transfer, Inc. v. Pennsylvania Public Utility Commission, 418 Pa. 286, 210 A. 2d 281 (1965) and D. P. Bast, Inc. v. Pennsylvania Public Utility Commission, 397 Pa. 246, 154 A.2d 505 (1959), the applicants were already certificated and had been warned in one case and convicted in the other for violating their certificate restrictions. In Manganell v. Pennsylvania Public Utility Commission, 18 Pa. Commonwealth Ct. 373, 335 A.2d 890 (1975), the PUC did not even make a finding of good faith as required under Bunting Bristol, supra.
