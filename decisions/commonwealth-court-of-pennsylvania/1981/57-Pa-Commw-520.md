@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 34 C.D. 1980"
+decided: "1981-03-17"
+citations: ["57 Pa. Commw. 520"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Wilkinson, Jr., MacPhail and Williams, Jr., sitting as a panel of three."]
+parties: ["Evelyn E. Husted, Appellant v. Board of Directors of Wellsboro Area School District, Appellee."]
+source_url: "https://static.case.law/pa-commw/57/cases/0520-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1917554
+cites_cases: ["219 A.2d 306", "247 A.2d 455", "269 A.2d 645", "29 Pa. Commonwealth Ct. 415", "371 A.2d 526", "414 A.2d 742", "421 Pa. 233", "432 Pa. 61", "440 Pa. 492", "472 Pa. 331", "51 Pa. Commonwealth Ct. 408"]
+---
+
+# Husted v. Board of Directors of Wellsboro Area School District
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+This is an appeal by Evelyn E. Husted (Appellant) from the order of the Court of Common Pleas of Tioga County, which sustained one of the preliminary objections filed by the Board of Directors of Wellsboro Area School District (School Board), and which dismissed Appellant’s complaint in equity but granted her leave to file a complaint on the law side within twenty days of the order.
+From the allegations set forth in Appellant’s complaint, it appears that for more than ten years Appellant had contracted with the School Board for the transportation of school pupils without ever being required to submit a bid prior to renewal of her yearly contracts. On June 26,1979, the School Board decided that in the future, at least two school bus routes per year were to be bid, subject to the conditions that the bidding contractors’ buses be 1973 models or newer with seventy-two passenger capacity. At the same meeting, the School Board identified four school bus routes to be bid for the 1979-80 school year. Two of those were so identified as Appellant’s routes. Appellant contended that when she received the bid notice on July 24, 1979, her buses did not qualify under the new requirements and she was unable financially to obtain such buses by the bid deadline of August TO, 1979.
+Appellant averred that the School Board had acted arbitrarily, capriciously and in disregard of her constitutional rights in requiring her to bid on the school bus routes for which she had long contracted without bidding, in singling her out for this treatment, and also in specifying the year and size of buses required. Secondly, Appellant asserted that the School Board rendered an “adjudication” when it elected to require newer and larger buses and when it decided that Appellant must bid on the two routes she had serviced in the past. Appellant claimed she was a party to that proceeding before the School Board — a local agency, but Avas offered no hearing or opportunity to be heard. Appellant therefore contended that the adjudication reached by the School Board was in violation of the Local Agency Law, and thus was invalid as to Appellant. Appellant claimed she was entitled to reinstatement in respect to “her” bns routes until afforded a proper hearing.
+In her prayer for relief Appellant asked the court below to 1) enjoin the School Board from permitting the bidding and contracting out of her routes, 2) order the School Board to treat her on an equal basis with the other school bus contractors, 3) order the School Board to award her a 1979-80 school year contract for the transportation of school pupils for her regular bus routes, and 4) award her damages.
+We cannot address the merits of this case unless we determine that the order of the Court of Common Pleas from which Appellant appealed is a final order and not an interlocutory order; for no appeal lies to this Court from an interlocutory order, unless expressly made so by statute. Griesinger v. Workmen’s Compensation Appeal Board, 51 Pa. Commonwealth Ct. 408, 414 A.2d 742 (1980). Although neither party questioned our jurisdiction to review the lower court’s opinion and order, on our own motion we may raise the issue of our subject matter jurisdiction of this appeal. Department of Transportation, Bureau of Traffic Safety v. Forte, 29 Pa. Commonwealth Ct. 415, 371 A.2d 526 (1977).
+Several general rules have been laid down by our courts regarding interlocutory orders. Normally, an order disposing of preliminary objections is interlocutory and not appealable.
+Our Supreme Court has stated that an order certifying a case from equity to law is generally unappealable because it is interlocutory. Goldman v. McShain, 432 Pa. 61, 247 A.2d 455 (1968). In the case at hand, the lower court’s order did indeed certify the case to the law side by allowing Appellant to file a proper action at law within twenty days.
+There is an exception to this general rule: where an order certifying a case from equity to law in effect puts a party “out of court,” it is not interlocutory, but is a final appealable order. McCahill v. Roberts, 421 Pa. 233, 219 A.2d 306 (1966). In other words, “ [a]n order is not interlocutory if it precludes a party from presenting the merits of his claim to the lower court.” Marino Estate, 440 Pa. 492, 494, 269 A.2d 645, 646 (1970).
+To determine whether an order is final, the Supreme Court has cautioned, we must look beyond the technical effect of the adjudication to its practical ramifications. T. C. R. Realty, Inc. v. Cox, 472 Pa. 331, 372 A.2d 721 (1977). Looking at the practical effects of the appealed order here, we hold that the lower court’s order was not final for it did not effectively deprive Appellant of her day in court. Rather, the order allowed Appellant to plead over, giving her another opportunity for full litigation of her claim. In an action at law, Appellant could seek damages, as she did in her equity action, and could request a hearing by the School Board on the matter of bidding requirements. The certification in this case still leaves open the possibility that the Appellant might eventually be made whole.
+Because we hold the lower court’s order to be interlocutory, and there being no statute expressly directing appeals to us from this type of interlocutory order, we are without jurisdiction to rule on the merits of the appeal. To allow the appeal would be to undermine the established policy which seeks to eliminate piecemeal determinations and protracted litigation. Marino Estate, supra.
+Accordingly, we will quash the instant appeal.
+Order
+And Now, this 17th day of March, 1981, the appeal of Evelyn E. Husted from the order of the Court of Common Pleas of Tioga County, dated December 6, 1979, is hereby quashed.
+In preliminary objection number six, the School Board asserted that Appellant did not have an equitable remedy, but rather did have a complete non-statutory remedy at law in the nature of an assumpsit action for alleged breach of contract. The School Board also asserted that Appellant had an adequate remedy for an alleged failure to provide a hearing under the Local Agency Law in an action in mandamus.
+Petitioners incorrectly cited the Act of December 2, 1968, P.L. 1133, as amended, 53 P.S. §11301 et seq., which was repealed. The Act under which Appellant should have proceeded is the Local Agency Law, 2 Pa. C.S.A. §§551-555, 751-754, which became effective June 27, 1978. Appellant’s error does not affect the outcome of this case, for the new law is substantially a re-enactment of the Act of December 2, 1968.
