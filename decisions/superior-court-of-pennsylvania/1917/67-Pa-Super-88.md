@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 351"
+decided: "1917-07-13"
+citations: ["67 Pa. Super. 88"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Kephart, Trenler and Williams, JJ."]
+parties: ["Rawlings, Appellant, v. Erwin Motor & Machine Co."]
+source_url: "https://static.case.law/pa-super/67/cases/0088-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 629221
+cites_cases: ["232 Pa. 327"]
+---
+
+# Rawlings v. Erwin Motor & Machine Co.
+
+## Majority (Head, J.,)
+
+Opinion by
+Head, J.,
+In this action the plaintiff sought to recover damages resulting from a collision of an auto truck of the defendant company with her own car which she was driving in person. At the conclusion of the trial the court below submitted to the jury the usual questions of the negligence of the defendant and the alleged contributory negligence of the plaintiff. As to the manner of submission there is no complaint. The jury rendered a moderate verdict in favor of the plaintiff and thus established that she was without fault and that the truck of the defendant had been negligently operated. Afterwards the learned court below entered a judgment for the defendant n. O', v. without filing any opinion.
+As we find no warrant at all in the evidence for any declaration by the court that defendant was free from negligence, we must assume the judgment entered rested on the conclusion the plaintiff had established by her own evidence that she had contributed by her own lack of care to the injury of which she complained.
+We are unable to find support in her evidence for the judgment entered against her. Of course in considering the correctness of such a judgment, her testimony, with all reasonable inferences in her favor that a jury might draw, must be accepted by the court. The accident occurred about noon. She was driving her own small car going south on Eighteenth street in Philadelphia. Her intention was to turn eastward on Diamond street. As she approached that street she blew the horn several times and actually stopped her car. In thus coming entirely to a standstill, she more than measured up to the standard of care required in such cases. Her conduct would have satisfied the demands of the law even in the case of a grade crossing of a steam railroad. She stopped at about the house line of Diamond street. She looked both ways. Her view to the west was entirely unobstructed because of an open lot at the corner and she was satisfied nothing was coming from that direction. Her view to the eastward was not so clear and she consequently kept looking chiefly in that direction. Hearing no answering horn, and being unable to observe anything coming from the east, she started to move across the street in order to reach that portion of it where she might with propriety turn eastward. Just as she started to cross Diamond street she saw the defendant’s driver approaching with a truck at a rapid rate of speed. The truck was equipped with only a small motorcycle horn and an emergency handbrake. She had succeeded in crossing to the southerly side of Diamond street when she again stopped her car and it was struck by the truck. She testified she had been driving her own car every day for two years. It was her judgment the truck was traveling at the rate of more than thirty miles an hour. She further testifies that when looking eastward along Diamond stx’eet she was first able to observe the approaching truck; that according to her best judgment there was no course for her to. pursue except to try to get out of its way and she did so, as far as it was possible. When asked why she did not stand still when she first saw the truck, her answer was, that had she done so, she would not have been there to tell the jury about it because, at the rate it was coming, it would then have struck her car in the center.
+But it is not necessary to go further into the details of the evidence. Enough has been said to convince us the leaxuxed trial judge fell ixxto error in holding, as a matter of law, that plaintiff had been guilty of contributory negligence. It is- clear that she approached the cross street with more than ordinary care, having blown the horn of her car and brought it to a stop. In Bush v. Philadelphia & Reading R. R. Co., 232 Pa. 327, Mr. Justice Stewart said: “Whether he stopped a sufficient length of time to inform himself of conditions, and whether he advanced with due caution from that point, were questions to be determined not by hard and fast rules of positive duty applicable in all cases, but by the jury upon a consideration of all the circumstances in the case,......but stopping is opposed to the idea of negligence, and unless, notwithstanding the stop the whole evidence shows negligence so clear that no other inference can properly be drawn from it, the court cannot draw that inference as a conclusion of law, but must send the case to the jury.” There is also strong evidence in the plaintiff’s testimony that, without fault on her own part, she found herself in a perilous position where a swift and correct judgment as to what she should do is often extremely difficult to reach.
+Upon the whole case we are of opinion the judgment for the defendant was erroneously entered.
+The judgment is reversed and the record remitted to the court below with direction to enter judgment in favor of the plaintiff on the verdict, the costs of this appeal to be paid by the appellee.
