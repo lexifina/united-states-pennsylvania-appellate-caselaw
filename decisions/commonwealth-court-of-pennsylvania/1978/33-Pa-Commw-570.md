@@ -1,0 +1,34 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1206 C.D. 1976"
+decided: "1978-02-10"
+citations: ["33 Pa. Commw. 570"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Kramer and Rogers, sitting as a panel of three. Reargued December 7, 1977, before President Judge Bowman and Judges Crumlish, Jr., Wilkinson, Jr., Rogers, Blatt and DiSalle."]
+parties: ["Frederick Fiegenberg, Petitioner v. Commonwealth of Pennsylvania, Department of Labor and Industry, Respondent."]
+source_url: "https://static.case.law/pa-commw/33/cases/0570-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1884667
+cites_cases: ["16 Pa. Commonwealth Ct. 467", "2 Pa. Commonwealth Ct. 462", "22 Pa. Commonwealth Ct. 582", "27 Pa. Commonwealth Ct. 171", "279 A.2d 368", "28 Pa. Commonwealth Ct. 318", "301 A.2d 427", "332 A.2d 879", "350 A.2d 878", "365 A.2d 910", "368 A.2d 846", "8 Pa. Commonwealth Ct. 6"]
+---
+
+# Fiegenberg v. Commonwealth
+
+## Majority (President Judge Bowman,)
+
+Opinion by
+President Judge Bowman,
+This is a petition for review filed by Frederick Fiegenberg (Fiegenberg) to an order of the State Civil Service Commission (Commission), dated April 30, 1976. The order reinstated Fiegenberg without back pay to his position of workmen’s compensation referee. The petition asks this Court to review only the Commission’s refusal to award back pay. We will affirm the Commission’s order.
+The facts are undisputed. Fiegenberg, an attorney, was convicted on April 23, 1965, in Philadelphia Federal Court of attempting to influence, intimidate, and impede the testimony of a witness. He was sentenced to one week probation. Immediately following his conviction, disbarment proceedings were initiated. The Court of Common Pleas of Philadelphia, however, refused to impose any disciplinary action. The court concluded that Fiegenberg had already received sufficient punishment and that his prior exemplary conduct demonstrated that protection of the public was unnecessary.
+In 1972, Fiegenberg filed a Civil Service application for the position of workmen’s compensation referee. In answering the questions on the application, Fiegenberg failed to respond to the questions pertaining to whether he had ever been convicted of a criminal offense. Although these omissions were deliberate, they were motivated by a desire to fully explain the circumstances of his conviction. The Commission, however, never requested an explanation as to why he failed to respond to the questions and appointed him to the position of workmen’s compensation referee on the basis of the incomplete application.
+Fiegenberg served in the capacity of workmen’s compensation referee until August 27, 1975. On that date he received notice that he was suspended from his position pending an investigation concerning an alleged failure to reveal a criminal conviction at the time he filled out his Civil Service application. The Secretary of Labor and Industry subsequently informed Fiegenberg on September 9, 1975, tbat he bad no recourse but to remove bim from bis position in light of tbe fact tbat be did not disclose tbat in 1965 he had been convicted of a criminal offense.
+Fiegenberg appealed to tbe Commission tbe Secretary’s decision to remove bim. A bearing on tbe matter was scheduled for November 6, 1975. Before tbe bearing date arrived, however, a perjury charge stemming from tbe same incident was brought. Upon notification of this charge, Fiegenberg’s counsel requested and received a continuance of tbe removal bearing. On February 17, 1976, tbe perjury charge was dismissed, and Fiegenberg requested tbat tbe bearing before tbe Commission be rescheduled.
+Tbe bearing concerning Fiegenberg’s removal was conducted on March 30, 1976. Tbe Commission concluded tbat be bad been improperly removed and reinstated bim as a referee. Tbe Commission, however, refused to order back pay to Fiegenberg, stating only tbat “the greatest delay was at tbe request of counsel for appellant. . . .”
+Tbe sole issue before this Court is whether the denial of back pay by tbe Commission was an abuse of discretion. As stated in Baron v. Civil Service Commission, 8 Pa. Commonwealth Ct. 6, 301 A.2d 427 (1973), tbe Commission enjoys a wide discretion in granting reinstatement without back pay. See also Wasilak v. Pennsylvania Liquor Control Board, 27 Pa. Commonwealth Ct. 171, 365 A.2d 910 (1976). It is essential, however, tbat tbe decision be based upon criteria which are job-related and which touch in some rational and logical manner upon a person’s competency and ability. Included are actions which would hamper or frustrate the execution of one’s duties. Department of Justice v. Grant, 22 Pa. Commonwealth Ct. 582, 350 A.2d 878 (1976); Corder v. Civil Service Commission, 2 Pa. Commonwealth Ct. 462, 467, 279 A.2d 368, 371 (1971). In addition, the Commission may reinstate a person without back pay where it believes the facts warrant such action, even though it concludes those same facts do not justify a suspension or removal. Harp v. Pennsylvania Liquor Control Board, 28 Pa. Commonwealth Ct. 318, 368 A.2d 846 (1977).
+Keeping such guidelines in mind, the facts do not show that the Commission abused its discretion by ordering Fiegenberg to be reinstated without back pay. Fiegenberg, as a workmen’s compensation referee, was in a position of responsibility and trust. To function competently in such a situation, it is necessary for one’s integrity to be beyond reproach. The record reveals that the period of Fiegenberg’s suspension was the result of an investigation by the State Senate. He was dismissed from' his position by the Secretary of Labor and Industry. He was charged with perjury. It is not disputed that all of these consequences were the direct result of a deliberate omission by Fiegenberg on his Civil Service application. Certainly these facts can be found to warrant the penalty of the loss of back pay, even though they do not warrant a suspension or removal. The Commission’s failure to explain in great detail the reasoning behind its decision to deny back pay in no way prevents our conclusion that the decision is supported by the record. See O’Peil v. State Civil Service Commission, 16 Pa. Commonwealth Ct. 467, 332 A.2d 879 (1975) (allocatur denied).
+• We conclude that the Commission did not abuse its discretion and affirm.
+Order
+Now, February 10, 1978, the order of the State Civil Service Commission dated April 30, 1976, reinstating Frederick Fiegenberg without back pay, is hereby affirmed.
+Under Section 951(a) of tide Civil Service Act, Act of August 5, 1941, P.L. 752, as amended, added by Section 27 of tbe Act of August 27, 1963, P.L. 1257, 71 P.S. §741.951(a), it is within the discretion of the Commission whether back pay is properly awarded with reinstatement.
