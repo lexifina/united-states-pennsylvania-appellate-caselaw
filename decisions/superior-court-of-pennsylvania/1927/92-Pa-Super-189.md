@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 82"
+decided: "1927-12-15"
+citations: ["92 Pa. Super. 189"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, P. J., Henderson, Tkexler, Keller, Linn, Gawthrop and Cunningham, JJ."]
+parties: ["Lowry Rodgers Co. v. Philadelphia Rapid Transit Co., Appellant."]
+source_url: "https://static.case.law/pa-super/92/cases/0189-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 676148
+cites_cases: ["248 Pa. 160", "252 Pa. 354", "261 Pa. 422", "283 Pa. 180", "290 Pa. 289", "53 Pa. Superior Ct. 174", "65 Pa. Superior Ct. 284"]
+---
+
+# Lowry Rodgers Co. v. Philadelphia Rapid Transit Co.
+
+## Majority (Keller, J.,)
+
+Opinion by
+Keller, J.,
+Action in trespass for property damage to plaintiff’s motor truck, which was run into by appellant’s trolley car.
+Appellant’s chief contention is that it was entitled to binding instructions because of the contributory negligence of plaintiff’s driver. On careful reading of the evidence we are of opinion that the negligence of the defendant and the contributory negligence of the plaintiff were questions for the jury and not for the court.
+Columbia Avenue, Philadelphia, make's a dead-end intersection with Prankford Avenue. Defendant operates a southbound trolley line on Prankford Avenue.
+Plaintiff’s employe was driving a five-ton Pierce-Arrow motor truck’ eastward on Columbia Avenue, approaching Frankford Avenue. When he came to the house line of Frankford Avenue, which is about 27 feet from the car track, he reduced his speed to four or five miles an hour, looked to the north and saw a trolley car approaching from that direction and about 190 feet away. When he came to the first car track, the trolley car was then about 125 feet away, and not coming rapidly, for it had traveled only 65 feet to his 27 feet. Thinking there was ample time to clear the track with his 22-foot truck', he went ahead, beginning to steer the front of his truck for a north turn when he .passed the tracks, and was struck by the trolley ear in the rear when two-thirds of the truck had cleared the tracks. The trolley car ran about 30 to 40 feet after hitting the truck.
+The facts in this case are almost identical with those in McLoughlin v. Phila. R. T. Co., 65 Pa. Superior Ct. 284, in which we held the case was for the jury. "What we said there is peculiarly applicable in the present case — the difference in the facts being shown by brackets.
+“Was the plaintiff right in his statement that when he started from the house line on Juniper Street [Frankford Avenue], the defendant’s car was...... 165 [190] feet distant? Was his judgment that of a reasonably prudent man when he determined, just as he reached the track, that the car, having only traveled about 65 feet whilst he moved from the house line to the track, was still 100 [125] feet distant, and there was time to cross in safety? The verdict has answered these questions in his favor. There was, therefore, no such clear and convincing evidence of his negligence as would have warranted the trial judge in refusing to submit the case to the' jury.”
+The distinction between these case's and those relied upon by the appellant, (Evans v. Pittsburgh Rys. Co., 283 Pa. 180, and Hicks v. Phila. R. T. Co., 53 Pa. Superior Ct. 174), is, that when the driver in each of those cases looked and saw the trolley car approaching, it was coming at such a rapid rate of speed that a reasonably prudent man should have known that it was likely that, traveling at the same rate, it would hit his automobile before he cleared the track, whereas here and in the McLoughlin case such an event was not likely if the trolley car continued at the same speed, and was apparently caused by the rapid acceleration of the trolley ear after the driver of the automobile had entered on the track. See Wagner v. Phila. R. T. Co., 252 Pa. 354, 359; Shields v. Phila. R. T. Co., 261 Pa. 422, 425; Kilpatrick v. Phila. R. T. Co., 290 Pa. 289, 292, 293.
+The remaining assignments of error relate to alleged errors calling for a new trial. The first specification relating to the motion for the withdrawal of a juror, is not properly assigned. The remark of the witness on which the motion was based should have been included in the assignment, so as to malee it self-explanatory. We have considered it, however, and do not think it required the withdrawal of a juror. The remark was inadvertent, was not in answer to any question of plaintiff’s counsel, and did not identify the defendant with any of the accidents which he said had happened at this intersection. It was not ground for the withdrawal of a juror unless it was reasonably probable that it had prejudiced the defendant. The situation was wholly different from that in Kane v. Phila. R. T. Co., 248 Pa. 160. There the lower court permitted a witness to be cross-examined as to other accidents which had happened to the defendant’s trolley car and its conductor, one of which resulted in the death of a man, and these irrelevant matters, so brought in, had clearly prejudiced the defendant company. We agree with the court below that “there was nothing inherently prejudicial in the statement of this witness. ’ ’
+The complaint as to the charge of the court is not well founded. The jury could have had no misapprehension as to their duty in case they found that both the motorman and the driver of the truck were negligent, in view of the plain injunctions of the court: “If it [the accident] happened by the combined negligence of the truck driver and the motorman, give the defendant a verdict;” and “The plaintiff is entitled [to recover] only if in the first instance you are satisfied that the exclusive responsibility of this accident was due to the negligence of the defendant.”
+Appellant’s complaint as to the insufficiency of the evidence of plaintiff’s damage is not well taken. The plaintiff proved the cost of the necessary repairs by á competent witness. That was the measure of damages unless it exceeded the value of the truck. The plaintiff was not obliged to prove both. If the defendant thought the value of the truck was less than the repair bill, it could have elicited that fact by cross-examining plaintiff’s witnesses or by producing evidence on the point. At the trial the defendant was apparently satisfied that a repair bill of $730 did not exceed the value of a Pierce-Arrow five-ton truck in good condition. Its present contention is evidently an after-thought.
+The assignments of error are all overruled and the judgment is affirmed.
