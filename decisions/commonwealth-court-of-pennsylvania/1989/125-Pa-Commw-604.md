@@ -1,0 +1,52 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 1692 C.D. 1988"
+decided: "1989-05-05"
+citations: ["125 Pa. Commw. 604", "558 A.2d 592"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Craig and COLINS (E), and Senior Judge Barbieri, sitting as a panel of three."]
+parties: ["In Re: Incorporation of The Borough of Glen Mills. Glen Mills Schools, Appellant."]
+source_url: "https://static.case.law/pa-commw/125/cases/0604-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1387227
+cites_cases: ["20 Pa. Commonwealth Ct. 77", "340 A.2d 642", "488 A.2d 374", "87 Pa. Commonwealth Ct. 599"]
+---
+
+# In re Incorporation of Glen Mills
+
+## Majority (Judge Craig,)
+
+Opinion by
+Judge Craig,
+The Glen Mills School appeals a decision of Judge Howard E Reed, Jr., of the Court of Common Pleas of Delaware County, that denied the schools Petition for Incorporation as a borough, out of Thornbury Township, which is here as appellee. We affirm.
+As provided in the Borough Code, Act of February 1, (1965) 1656, as amended, §202, 53 PS. §45202, freeholders may apply for the incorporation of their property as a borough. Glen Mills School is the sole freeholder involved in this borough incorporation petition, and the only one who signed it. The Code requires the common pleas court to appoint an advisory committee to make findings of fact and conclusions regarding the desirability of incorporation. The Glen Mills advisory committee held three hearings, made findings of fact, and ultimately recommended that the court of common pleas should deny the petition.
+Glen Mills operates as a school for the education and rehabilitation of court-committed boys. The school is a non-profit corporation, governed by a board of managers, which owns the 779 acres which the school seeks to have designated as a borough. The school provides for its own drinking water and trash removal, and also has an on-site sewage disposal system. Although Glen Mills maintains an informal security force, the school must rely on the Pennsylvania State Police and volunteer fire companies for protection. Additionally, aside from the state roads which pass through Glen Mills’ property, the school maintains its own roads, and provides for snow removal in winter.
+Glen Mills proposes that the school’s employees and their families, who live in school-owned dwellings, will be the borough’s citizens. The school suggests that, once incorporated, the borough can operate, and provide services that the school presently does not make available, through the one-percent wage tax the school’s employees now pay to the township. That tax, however, generates only about $25,000 a year.
+The school argues that the trial court improperly considered factors not listed in the Borough Code’s provisions relating to applications for incorporation. Subsections 202(c) and (d) of the Code state:
+(c) Such committee shall ... advise the court in relation to the establishment of the proposed borough. In particular, the committee shall render expert advice and findings of fact relating to the desirability of such an incorporation, including, but not limited to, advice as to:
+(1) the proposed borough’s ability to obtain or provide adequate and reasonable community support services ... ;
+(2) the existing and potential commercial, residential and industrial development of the proposed borough; and
+(3) the financial or tax effect on the proposed borough and existing governmental unit or units.
+(d) The court, if it shall find, after hearing and advice of the committee, that the conditions prescribed by this section have been complied with, shall certify the question to the board of elections of the county for a referendum vote of the residents of the proposed borough.
+53 PS. §45202(c), (d) (emphasis added).
+The school suggests, as a matter of statutory interpretation, that the trial court should consider only factors (1)—(3) of subsection (c) and that, once the court is satisfied that the proposed borough can comply with those factors, the court must certify the question of borough incorporation to the board of elections for a referendum vote. We disagree with that interpretation.
+Subsection (c) specifically says that the advisory committee’s consideration of the desirability of the proposed borough shall include, but not be limited to, the three factors listed in that subsection. Thus, an advisory committee properly may consider other factors, and the trial court which reviews the committee’s findings and conclusions may evaluate the petition on the basis of those other considerations which the Code does not specify. See Borough of Bridgewater Petition, 87 Pa. Commonwealth Ct. 599, 488 A.2d 374(1985).
+Judge REED correctly considered a factor not specifically described in §45202(c) (l)-(3)—the geographic integrity of the proposed borough—in reaching his decision. This concept is reflected in the existing case law that recognizes as a pertinent factor in examining incorporation petitions whether the proposed borough will constitute “a harmonious whole”. Bear Creek Township v. Penn Lake Park Borough, 20 Pa. Commonwealth Ct. 77, 84, 340 A.2d 642, 645 (1975).
+As the township points out, Glen Mills Borough, by excluding from the proposed borough certain properties which the school does not own, would create three isolated islands of Thornbury Township area surrounded by territory of the borough or of another township. One of the properties is an unused parcel of land next to railroad tracks which run through the township and the proposed borough. Another isolated area is the federal post office that the township residents use. The third island is the unused township field house which is surrounded on three sides by the proposed borough and by Concord Township on the fourth side.
+Although the school argues that isolating those portions from the rest of Thornbury Township would not affect those areas or the township, we do not believe the Borough Code prevents the trial court from considering that aspect of the incorporation petition.
+Regardless of the fact that township residents would still have access to, and use of, these properties, we believe the present and future use of those areas, however insignificant, and their location within township jurisdiction, remain matters of concern for the township. Conceivably, Glen Mills could sell its land or change its zoning. Such changes could adversely affect the township. The township has a rational justification to maintain a linkage with all land within its jurisdiction.
+Furthermore, the creation of the borough, as approved, would isolate a sizeable segment of land in the southeastern region of the township which is zoned residential. The record includes testimony and a map which show that this residential area would not be contiguous to any portion of the township except for a narrow connection at the northeastern neck of this area.
+Although the school claims that the residents in that area would experience only psychological isolation because of geographical separation from the rest of the township, we believe the concerns discussed above are also applicable regarding this area.
+For example, if the proposed borough ever changed the land uses northwest of those township residents’ property, the value or utility of that property may be affected. The owners, whose collective properties would be surrounded on all sides by municipalities other than Thornbury Township, formerly protected by the township’s comprehensive zoning scheme, would have no voice in determining the treatment of the substantial area (the proposed borough) lying between them and the rest of the township.
+In our opinion, preventing the creation of swisscheese configurations within municipalities, which might interfere with the surrounding municipality’s functions, is a valid concern of the judicial administration of the borough incorporation law. We note that the facts involved in this case are not similar to borough incorporation petitions that only carve out an enclave in an existing township. In this case, the creation of the borough would unjustifiably leave isolated portions of the existing township within the borough limits and isolate substantial portions of Thornbury in which township residents live. We do not believe the Borough Code contemplates such a result.
+The trial court did not err by considering the geographical impact that borough incorporation would have on the township’s territorial integrity. Judge REED noted that all the residents of the proposed borough are employees of Glen Mills. Accordingly, this court approves and adopts Judge REED/s opinion stating:
+The concept here presented strikes at the very root and concept of government, most certainly democratic government as we understand it in America, which always rests upon the union of a group of freeholders into a self governing unit, wherein divergent groups and people through the vote express their majority will and voice.
+Here we have one land owner who now says I want to separate and govern myself.
+If this were allowed, how far would it go: colleges, universities, sundry institutions, corporations, larger land owners, perhaps smaller too, would break-olf at will from Townships and into multi-separate boroughs. Each borough going its own way to create a mix of perhaps harmonious, perhaps antagonistic, but incongruous zoning or development patterns, and as well conflicting and often inconsistent services. The potential for. exclusion, exploitation and overreaching becomes real and ever present.
+Suppose Glen Mills School sold its property and moved, one whole Borough would then be bought, and available for unbridled and unrestricted control except as the Borough Code might provide.
+In the end we have not come so far in our evolving history to now go backward toward creating what would ultimately become feudal-like estates. This is certainly not the acceptable or reasonable basis and approach to local government.
+We hold that Judge Reed properly exercised his discretion under section 202 in denying Glen Mills’ Petition to Incorporate. Affirmed.
+Order
+Now, May 5, 1989, the order of the Court of Common Pleas of Delaware County, dated June 15, 1988, at No. [ A-XX XXX-XXXX ] Mise. Docket H377 of 1986, is affirmed.
