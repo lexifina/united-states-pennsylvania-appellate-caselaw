@@ -1,0 +1,40 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 573 C.D. 1987"
+decided: "1988-08-03"
+citations: ["118 Pa. Commw. 339", "544 A.2d 1137"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail and Doyle, and Senior Judge Narick, sitting as a panel of three."]
+parties: ["Robert Polomski, Appellant v. The Borough of Mount Carmel, Appellee."]
+source_url: "https://static.case.law/pa-commw/118/cases/0339-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1375512
+cites_cases: ["401 A.2d 385", "42 Pa. Commonwealth Ct. 260", "477 A.2d 572", "503 A.2d 1031", "82 Pa. Commonwealth Ct. 580", "94 Pa. Commonwealth Ct. 361"]
+---
+
+# Polomski v. Borough of Mount Carmel
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+Robert Polomski appeals here from an order of the Court of Common Pleas of Northumberland County which affirmed an adjudication of the Borough of Mount Carmel Police Civil Service Commission (Commission) upholding the removal of Polomski as an officer of the Mount Carmel Borough (Borough) Police Department. We affirm.
+Polomski, a 17-year veteran of the Borough Police Department, was honorably discharged but involuntarily terminated by the Borough pursuant to the provisions of Section 1190(1) of The Borough Code (Code), Act of February 1, 1966, P.L. (1965) 1656, as amended, 53 P. S. §46190(1), which provides that a policeman may be removed from service for “[pjhysical or mental disability affecting his ability to continue in service. . .
+Apparently there is no dispute concerning the underlying facts. On January 7, 1984, Polomski, without advance warning, suffered a grand mal seizure for which he was hospitalized. Although he completely recovered from that attack, his physician prescribed the drug Dilantin which Polomski was to take daily, and recommended that Polomski have a regular sleeping and eating schedule. Polomski takes the medication before retiring at night. One of the side effects of the medication is that it induces sleep and drowsiness.
+Evidently the Borough officials were not fully aware of Polomskis illness and its effects until a hearing was held in Harrisburg before the Pennsylvania Human Relations Commission in May of 1986 on a matter unrelated to the case now before us. At that hearing, Polomski testified regarding his illness and his medication. Thereafter the Borough officials immediately conducted an investigation of the matter and concluded that Polomski should be removed because of physical disability.
+Polomski has not suffered a recurrence of the seizure. He has performed his duty as a police officer without incident since returning to service. He continues to take Dilantin and he has seen Dr. Carlson, a neurologist at Geisinger Medical Center, approximately every six months since the seizure occurred.
+Dr. Carlson testified that in his opinion Polomski can fulfill his duties at work provided that he keeps a regular schedule and takes his medication regularly. It was the doctors opinion that Polomskis chances of having another seizure, as long as he is on medication and gets his regular rest, are “very, very low.” The physician further opined that although Dilantin would not cure the seizures, as long as Polomski took it and did not go without meals or sleep, the drug would likely prevent another seizure. Both Dr. Carlson and Polomski agreed that he should continue to' take the medication as long as he was working to assure that another seizure would not occur.
+One factor that precipitated the Boroughs action to remove Polomski was its requirement that Polomski do shift work on a rotating basis. His physician testified that a change of work schedules “once a month” would not interfere with his recommendation of regular uninterrupted rest for his patient. Polomskis schedule with the Borough required more frequent shift changes. When Polomski asked to be put on a regular schedule without shift changes, the Borough refused on the ground that it would be unfair to the other officers on the force who would then be required to work even more shift work.
+After a hearing, the Commission concluded that Polomskis ability to perform as a police officer was seriously affected by the possible onset of another seizure resulting from a change in his sleep patterns or his lack of sleep. The Commission found that this circumstance supported the Boroughs action in removing him as a police officer.
+At the hearing before the trial court, no additional testimonial evidence was received, but documentary evidence, most of which was referred to at the Commission hearing, was received. Polomski and the Borough seemed to agree that inasmuch as the trial court did accept additional evidence, our scope of review is to determine whether that court abused its discretion or committed an error of law. Fuller v. Borough of Waynesburg, 94 Pa. Commonwealth Ct. 361, 503 A.2d 1031 (1986).
+Under Section 754(b) of the Local Agency Law, 2 Pa. C. S. §754(b), the trial court must affirm the decision of the Commission unless it finds that there has been a violation of constitutional rights, an error of law, noncompliance with the Local Agency Law, or if any factual finding made by the Commission necessary to its decision is not supported by substantial evidence. Schmidt v. Borough of Baldwin, 82 Pa. Commonwealth Ct. 580, 477 A.2d 572 (1984).
+•In his appeal to this Court, Polomski asserts only that there was insufficient substantial evidence to sustain his removal as a police officer. We will examine the evidence to determine whether the trial court abused its discretion when it found that the evidence was sufficient to justify Polomski s removal.
+It is incumbent upon the Borough, of course, to prove that it had sufficient justification to remove Polomski, and, where the basis for removal is physical disability, the Borough must prove permanent disability. Crawford v. Borough of Lewisburg, 42 Pa. Commonwealth Ct. 260, 401 A.2d 385 (1979).
+It is apparent to us that the Borough here had to carefully balance two competing interests—on the one hand, there was an officer with a good record for seventeen years but under restrictions to take medication and keep on a regular schedule, and, on the' other hand, there was the Boroughs statutory duty to provide for the public safety of the Boroughs citizens.
+As we have noted, the record discloses that as long as Polomski takes his medicine and is on a regular schedule, his chances of suffering another seizure are minimal. His physician indicated that this could be a lifetime situation for Polomski. The Borough has no way of assuring that Polomski now and in the future will continue to live within those restrictions. It is apparent that they cannot assure a regular work schedule. Moreover, Polomskis duties as a policeman obviously require him to be alert at all times while on duty and to be available in the case of an emergency. Irregular hours are part of the job of being a police officer. Should an emergency arise while Polomski is in a deep sleep induced by Dilantin, no one, not even Polomski, could predict with any degree of accuracy what his reaction and capability would be.
+While we sympathize with Polomski, as did the trial judge, we are unable to agree with him that substantial evidence is lacking to support his removal from service. Finding no reason, therefore, to support Polomski s charge that the trial judge abused his discretion when he ascertained that there was sufficient substantial evidence produced to warrant Polomski s removal, we must affirm.
+Order
+The order of the Northumberland County Court of Common Pleas in the above-captioned matter is affirmed.
+In the record is a copy of an application for group life insurance dated June 2, 1985 whereon Polomski indicated that he had been treated for epilepsy and that he was taking Dilantin. Polomski says he gave the application to someone in the Borough office. The Borough denied knowledge of the contents of the application.
