@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 44"
+decided: "1909-07-14"
+citations: ["40 Pa. Super. 405"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Porter, Henderson, Morrison, Orlady, Head and Beaver, JJ."]
+parties: ["Cameron v. Russell, Appellant."]
+source_url: "https://static.case.law/pa-super/40/cases/0405-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 882299
+cites_cases: ["185 Pa. 602", "202 Pa. 231"]
+---
+
+# Cameron v. Russell
+
+## Majority (Morrison, J.,)
+
+Opinion by
+Morrison, J.,
+This was an action in trespass to recover damages caused by an alleged assault and battery by defendant on the plaintiff. On the trial of the case before the jury a verdict was rendered in favor of the plaintiff for $300 on September 18, 1907. On September 21, 1907, the defendant moved for a new trial, and on argument of this motion, a new trial was refused. On December 5, 1907, judgment was entered on the verdict and defendant took an appeal to the Superior Court which was subsequently abandoned. On April 11, 1908, the defendant presented a petition averring in substance that on the trial of the case the plaintiff and his step-daughter, called as a witness in his behalf, testified falsely to a matter which they knew to be false at the time and which was material to the issue, and which was not in defendant’s power, at the time of trial, to contradict, and that he did not learn of said testimony being false until a considerable length of time after the case had been tried. The false testimony was that plaintiff had been attended for the injuries claimed to have been inflicted on him by defendant, on the night the trouble occurred, December 24, 1903, by a Dr. Burlingame of McKeesport. The stepdaughter testified that the physician attended plaintiff several times. The defendant, by his petition and affidavits in support thereof, and by the widow of Dr. Burlingame, and by O. M. Hunter, the undertaker who buried him, showed that Dr. Burlingame died on November 21, 1903, more than a month before the alleged assault and battery occurred. A rule having been granted by the court on plaintiff to show cause why the verdict and judgment should not be set aside and a new trial granted, he filed an answer in which he set forth that he was mistaken in the name of the physician who attended him on the night the trouble occurred; that it was a Dr. Charles Black, instead of Dr. Burlingame. The court below, however, with these facts before it, refused defendant’s motion for a new trial on account of his laches.
+We thus have verdict rendered on September 18, 1907, motion for a new trial on the twenty-first of the same month and this motion argued November 4, 1907, and a new trial refused, and an appeal promptly taken to the Superior Court which was abandoned. The case then rested about seven months from the date of the verdict and four months from the entry of judgment, when the present petition was presented on April 11, 1908. No reasonable excuse is given for defendant’s failure to ascertain the alleged falsity of the testimony for about seven months after the trial. The testimony was that Dr. Burlingame was of McKeesport and it appears that there was only one doctor of that name practicing in McKeesport at that time. It would have required but a very slight effort on the part of the defendant or his counsel to have ascertained in one day’s time whether Dr. Burlingame was dead or alive on December 24, 1903. But it seems to have taken the defendant about seven months to ascertain that fact, or if he ascertained it before, he did not think it worth while to promptly inform the court of the alleged false and fraudulent testimony put before the jury by the plaintiff at the trial.
+The learned counsel for appellant cite and rely on two cases in support of their motion. The first is Fisher v. Railway Co., 185 Pa. 602. That case recognizes the power of the court to set aside a judgment and verdict for exceptional reasons after expiration of the term at which the judgment was entered. But such power by the court ought to be exercised with prudence and the reason should appear of record. The other case is Gazzam v. Reading, 202 Pa. 231. In that case the Supreme Court said: “A court of equity will never move, to merely save a party from the consequences of his own laches or negligence. The equity of the complainant must be free from doubt. The result, a judgment reached by litigation, should, unless clearly unjust, be an end of strife. Every suitor in a dispute involving life, liberty, property or reputation is entitled by right to one trial, but not to two; and if he gets more than one, it is of grace, not because of a fundamental right.” The cases make it clear that where a court sets aside a verdict and judgment and grants a new trial, it is in the exercise of equitable power although it may be applied in a case tried on the law side of the court.
+It has been often decided, both by the Supreme Court and by this court, that a court below will not be reversed for the refusal to set aside even a verdict and grant a new trial, except for manifest error, or an abuse of discretion.
+In the present case, in view of the long lapse of time after the trial and judgment, before the petition was presented to the court, we cannot say that the court erred in holding that the defendant was not entitled to the relief prayed for on account of his own laches.
+The judgment is affirmed and the appeal is dismissed at the costs of the appellant.
