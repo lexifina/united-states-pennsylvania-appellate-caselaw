@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 221"
+decided: "1934-07-13"
+citations: ["113 Pa. Super. 551"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Tkexler, P. J., Keller, Stadteeld, Parkeri and James, JJ."]
+parties: ["Chulick v. Logan Coal Co., Appellant."]
+source_url: "https://static.case.law/pa-super/113/cases/0551-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 974375
+cites_cases: ["103 Pa. Superior Ct. 316", "106 Pa. Superior Ct. 288", "110 Pa. Superior Ct. 156", "113 Pa. Superior Ct. 540", "122 A. 238", "139 A. 192", "146 A. 543", "158 A. 192", "161 A. 903", "167 A. 416", "278 Pa. 84", "290 Pa. 480", "297 Pa. 172", "310 Pa. 480"]
+---
+
+# Chulick v. Logan Coal Co.
+
+## Majority (Parker, J.,)
+
+Opinion by
+Parker, J.,
+In this claim for compensation, John Chulick was injured while riding on a motor in the defendant’s mine. The referee found for the claimant and on appeal to the workmen’s compensation board the petition was returned to the referee for the purpose of permitting an amendment and the taking of additional testimony. Thereafter the referee made findings of fact and awarded compensation. On appeal the action of the referee was affirmed by the board and that of the board by the court of common pleas. The .single question in the case is whether the claimant took himself out of the course of his employment by riding upon a motor.
+The findings of fact by the referee, material to a decision on the matters involved in this appeal, were as follows: “That claimant’s injuries occurred when he was caught between top of motor and roof. There were four or five other men on the motor together with the motorman at the time the accident occurred; the claimant had not boarded the motor with the other employes, but was walking down the gangway to his place of work, having a bucket in one hand and his powder can in the other, when the motorman stopped and invited the claimant to board the motor. The motorman assisted the claimant to get on the motor when he took from claimant his powder can and placed it on the seat. The claimant at the time the injury occurred was in reality sitting on the box with the motorman. The testimony disclosed that although the miners were warned not to ride on the motors nevertheless on idle days one of the foremen himself permitted the men to ride into the mine on the motor. The evidence further disclosed that on the day of the accident the foreman saw a number of men riding on the motor and after telling them not to so ride, and the men not getting off the motor, he instructed the motorman to proceed slowly so that nobody would get hurt.”
+As is suggested by the arguments of both parties, we are called upon to determine whether this case is controlled by the case of Morell v. B. & S. C. & C. Co., 103 Pa. Superior Ct. 316, 158 A. 192, or that of Beshenick v. Pgh. Terminal Coal Corp., 110 Pa. Superior Ct. 156, 167 A. 416. In an opinion handed down this day (Lewis v. Pittsburgh Terminal Coal Company, 113 Pa. Superior Ct. 540), we have had.occasion to discuss at some length the principles involved and will therefore not unnecessarily repeat what we have there said. A majority of the court are of the opinion that this case is ruled by the Besheniek case. Following the case of Gima v. Hudson Coal Co., 106 Pa. Superior Ct. 288, 161 A. 903, we there definitely held that a laborer who' was riding on a motor contrary to orders of the company violated Pule 5, article XXV, of the Bituminous Mining Law and consequently could not recover compensation, recognizing, however, the Morell case as an exception because there the employe when injured was riding upon a motor by direction of a superintendent or mine foreman.
+The claimant in this case, as the referee found, rode upon the motor at the invitation of the motorman. There is not any suggestion by the claimant, nor is there anything in the law to warrant a conclusion or an inference that a motorman has any authority to suspend the rules of the mine as a representative of the owner, or to direct the movements or control the actions of a laborer who is entering a mine, except that the law positively forbids such action as is here relied upon under a penalty to be imposed on such motorman. The case is clearly distinguished from the Morell case and from the Lewis case by the fact that there the employee boarded and occupied the motor by authority of a superintendent or mine foreman, officials representing the company. The motorman is not such an official. In addition, in the Lewis case the injured person was performing a special line of service on an idle day when the mine was not generally working.
+The compensation authorities, in arriving at their conclusion, relied very largely on a statement of a foreman the morning of the accident. The uncontradicted testimony disclosed that the foreman positively forbade certain men, not including claimant, to ride upon the motor on the morning in question; that later he saw the men on the motor as it passed him and told them to get off but, as they did not obey and the motor was proceeding, warned the motorman to drive carefully. This came very far from giving approval to those men to ride upon the motor, and certainly it was not either an express or implied consent to the action of Chulick, the claimant in this case.
+Our conclusions in the Beshenick case, supra, and in this case are in accord with the decisions of the Supreme Court in Walcofski v. Lehigh Val. Coal Co., 278 Pa. 84, 122 A. 238; Shoffler v. Lehigh Val. Coal Co., 290 Pa. 480, 139 A. 192; and Dickey v. Pgh. & L. E. R. Co., 297 Pa. 172, 146 A. 543.
+The judgment is reversed and it is directed that judgment be entered for the defendant.
