@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal Nos. 162 and 164"
+decided: "1930-04-18"
+citations: ["98 Pa. Super. 595"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Linn, Gawthrop, Cunningham, Baldrxge and Graff, JJ."]
+parties: ["Commonwealth of Pennsylvania, Appellant, v. Ahlgrim."]
+source_url: "https://static.case.law/pa-super/98/cases/0595-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 687976
+cites_cases: ["114 Pa. 405", "156 Pa. 400", "291 Pa. 341", "48 Pa. 53", "52 Pa. Superior Ct. 230", "62 Pa. Superior Ct. 468", "9 Pa. Superior Ct. 215", "92 Pa. Superior Ct. 159", "94 Pa. Superior Ct. 10"]
+---
+
+# Commonwealth v. Ahlgrim
+
+## Majority (Baldrige, J.,)
+
+Opinion by
+Baldrige, J.,
+The City of Erie, a municipal corporation of the third class, created a board of health, which, on November 14, 1928, and February 14, 1929, adopted certain regulations, providing, inter alia, for the payment of fees for the inspection of grocery stores. The defendant refused to pay the fees, was arrested, tried before an alderman of the City of Erie for violation of the rules and regulations of the board of health, found guilty, and sentenced to pay a fine of fifty dollars. He thereupon appealed to the court of quarter sessions. After hearing before the court, the defendant was adjudged “not guilty” and the costs were directed to be paid by the City of Erie.
+Appeals were taken by the Commonwealth of Pennsylvania and the City of Erie. The defendant asked that the appeal of the Commonwealth be quashed as no appeal lies from a definitive judgment of “not guilty” entered by the court of quarter sessions.
+Under the law, the Commonwealth is not clothed with the right of appeal, except where an indictment is quashed, or a judgment arrested after a verdict, or in cases of forcible entry and detainer and nuisance: Commonwealth v. Wallace, 114 Pa. 405; Commonwealth v. Steimling, 156 Pa. 400; Commonwealth v. Coble, 9 Pa. Superior Ct. 215; Commonwealth v. Preston, 92 Pa. Superior Ct. 159; Commonwealth v. Benson, 94 Pa. Superior Ct. 10.
+This case does not come under any of those exceptions. It is difficult to determine what kind of an action this is. Its primary object was apparently to enforce the payment of a penalty for violation of the board of health’s rules and regulations, and if so, it comes under the Act of 1889, P. L. 277 (308), which provides that the rules and regulations of a board of health “shall have the force of ordinances of the city, and all penalties for the violation thereof, as well as expenses necessarily incurred for carrying the same into effect, shall be recoverable for the use of the city, in the same manner as penalties for the violation of city ordinances, subject as to the like limitations as to the amount thereof.”
+It is claimed, however, by the appellee that this prosecution was brought in the name of the Commonwealth, not to enforce a penalty, but for a misdemeanor, under Clause 8 of Section 46 of the Act of May, 1874, P. L. 230, which provides that whoever violates any of its provisions or “any order of the said board of health, made under the authority of the same, or of any law or ordinance therein referred to,” shall be guilty of a misdemeanor and shall be subject to a fine or imprisonment, or both, and, further, “any person, corporation or body which may have done or omitted any act or thing which is in this act, or any law or ordinance therein referred to, declared to be or to subject the party guilty thereof to punishment for a misdemeanor, shall, in addition thereto, be subject to a pecuniary liability in the nature of a fine in an amount not to exceed one hundred dollars, as any court of record or any justice of the peace may decide.”
+It is conceded, however, that the “alderman treated the case as one of summary conviction, ’ ’ not as a misdemeanor ; that there was no preliminary hearing and the defendant discharged or bound over for court, as required in a prosecution for a misdmeanor: Sadler on Criminal Procedure, Section 104. Nor was there any trial had by a court, consisting of a judge and jury, as is required in a criminal case: Commonwealth v. Hall, 291 Pa. 341.
+The case came before the court of quarter sessions after a petition for appeal had been filed, the appeal allowed, and a hearing had de novo, as in a summary conviction. The testimony submitted was confined exclusively to the offense of the violation of the regulation of the board of health. No breach of a statute was alleged or proven, and the Act of 1874, supra, therefore, was not involved. Counsel for appellant in his brief conceded that the court was “right in reversing judgment, ’ ’ but contended it was wrong in discharging the defendant; that the record should have been sent back to the alderman for a preliminary hearing. There was no duty imposed upon the court to make such an order; that was a matter for its discretion. In view of the defective record in this case, the court’s action in adjudging the defendant “not guilty” is not open to criticism and it is not subject to an appeal.
+We are of the opinion, however, that the court fell into error in placing the costs on the City of Erie, which was not a party to the suit. This prosecution was brought by an officer of the law, the chief sanitary inspector, acting in good faith and, apparently, for the public good, and, therefore, the costs should not have been placed upon him: Commonwealth v. Shaffer, 52 Pa. Superior Ct. 230; Commonwealth v. Dickinson, 62 Pa. Superior Ct. 468. If the prosecution had been entirely unfounded, or if it had been maliciously conducted, the costs might have been placed upon the prosecutor, but the record does not indicate any foundation for such a conclusion. Under the circumstances, the county, and not the City of Erie, should pay the record costs.
+The appeal of the Commonwealth of Pennsylvania, to No. 162, April Term, 1930, is quashed. The order made in the appeal of the City of Erie, to No. 164, April Term, 1930, is reversed and the county is directed to pay the record costs.
