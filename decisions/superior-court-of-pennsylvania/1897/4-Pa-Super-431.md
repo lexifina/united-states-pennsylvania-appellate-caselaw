@@ -1,0 +1,41 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 9"
+decided: "1897-04-12"
+citations: ["4 Pa. Super. 431"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Willard, Wick-ham, Beaver, Reeder, Orlady and Smith, JJ."]
+parties: ["D. W. Harley, Appellant, v. Maurice Leonard and J. B. M. Todd, Executor of Elizabeth Leonard, deceased."]
+source_url: "https://static.case.law/pa-super/4/cases/0431-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 276482
+cites_cases: ["1 Leg. Gaz. Rep. 218", "11 Mo. App. 351", "126 Pa. 341", "131 Pa. 241", "132 Pa. 496", "135 Pa. 522", "144 Pa. 215", "152 Pa. 224", "165 Pa. 526", "23 Mass. 89", "25 Pa. 326", "45 Mass. 478", "54 Pa. 180", "59 Pa. 13", "6 W. & S. 346", "6 W. & S. 85", "6 W. & S. 87", "96 Pa. 180"]
+---
+
+# Harley v. Leonard
+
+## Majority (Orlady, J.,)
+
+Opinion by
+Orlady, J.,
+Elizabeth Leonard was married to Samuel Leonard February 12, 1839, and they lived together as man and wife until December, 1875, when the husband deserted his wife and went to Tennessee with another woman, Avith whom he is still living in that state.
+On May 1, 1875, Elizabeth Leonard in the court of common pleas of Juniata county, Pennsylvania, secured a decree in diArorce a mensa et thoro against Samuel Leonard. In this action she was aAArarded the sum of $240 alimony annually. After futile attempts to enforce the decree and secure payments under it, the differences between the parties were amicably adjusted in 1888 by the defaulting husband conveying certain real estate to her and releasing his interest therein as tenant by the curtesy, and she executed and delivered to him a “ release of all claims for alimony, past, present and to accrue, all claims for future maintenance, and all claims for dower which she might have in all real estate which he then had or might afterwards acquire.”
+On March 10, 1885, Elizabeth Leonard was on her petition declared a feme sole trader under the act of February 23,1718, and of May 4, 1855.
+Maurice Leonard, one of the defendants, was indebted to the plaintiff in the sum of $500, to secure Avhich, he gave him a judgment note with one James Smith as surety. The surety failing in business, a demand for payment or other security was made by D. W. Harley of Maurice Leonard, who with Elizabeth Leonard on March 31, 1889, gave to the plaintiff a joint judgment note for the same amount payable one day after date, on which a judgment was entered to No. 110, April term, 1889, and revived against both on March 29, 1894, for the sum of $650.
+Elizabeth Leonard died December 24,1894, and J. B. M. Todd, her executor, presented his petition to the court of common pleas, setting forth the above facts, and prayed for a rule to shoAv cause why the judgment should not be opened as to Elizabeth Leonard.
+A rule was granted and after hearing was made absolute.
+It is admitted by the appellant, that when Elizabeth Leonard signed the note her husband was living in Tennessee, and that she was surety for her son, but he contends, that the total, final and absolute desertion of the wife by the husband; his con-tinned living in Tennessee with another woman as his wife; the divorce making her a feme sole trader on her own petition; the release to the husband from all claims for alimony past, present and to accrue ; “ relieved her of all and every disability of marriage and that she was legally bound to the plaintiff.”
+The piecemeal legislation on the subject of married woman’s rights was finally by the Act of June 3, 1887, P. L. 332 so enlarged that the rule was changed. Formerly her capacity to contract was exceptional and her disability general,- now the disability is exceptional and her capacity general: Patrick & Co. v. Smith, 165 Pa. 526; so general is her power to contract now, that her inability is the exception rather than the rule; Latrobe, etc., v. Fritz, 152 Pa. 224; but in the most liberal of all legislation on the subject of her rights and liabilities there were restrictions and limitations.
+In the married persons’ property act of June 3, 1887, which was in force when this contract was made, her authority was limited by the proviso to the second section: “ That nothing in this or the preceding section shall enable a married woman to become accommodation indorser, guarantor, or surety for another,” and while this act was expressly repealed by the Act of June 8, 1893, P. L. 344, which enlarged her capacity to acquire and dispose of property, .to sue and to be sued, etc., the prohibition was as emphatic in the second section, “ but she may not become accommodation indorser, maker, guarantor, or surety for another.” It was the expressed intent of both acts to enlarge the powers of married women to contract, and this court has sought to give full effect to this intent in interpreting. While this primary intent is not to be restricted by interpretation, plain restrictions are not to be enlarged by the same means. This act declared the married woman might bind herself by many contracts which heretofore she could not legally make, yet it expressly continued her disability “to become an accommodation indorser, guarantor, or surety for another: ” Patrick & Co. v. Smith, 165 Pa. 526.
+The essential facts in this case are admitted; when the note was signed her husband was living, and her relation to the note, the maker, and the consideration was that of surety for her son.
+In no act of assembly or decided case can there be found any authority for holding her liable under these admissions. Nor can a divorce a mensa et thoro granted the wife with alimony be so construed or applied as to make her anything else than a married woman in her contracts. Her settlement with an absconding husband, of her claim for money under the divorce proceeding by accepting land in lieu of money, or in one payment instead of through years cannot be held to be anything else than a businesslike adjustment of a claim of doubtful value.
+She was still the wife of Samuel Leonard. A divorce a mensa et thoro does not destroy the relation of marriage, but merely suspends some of the obligations arising out of that relation: Clark v. Clark, 6 W. & S. 85.
+Under the decree the wife would be entitled to dower and the husband to curtesy; neither right being destroyed by divorce a mensa et thoro: Thorndell v. Morrison, 25 Pa. 326. The exchanged releases were necessary to discharge and bar dower and curtesy: Nye’s Appeal, 126 Pa. 341. It did not affect her right to administer on his estate as his widow: Fyock’s Estate, 135 Pa. 522. Whether he resided in Pennsylvania or Tennessee was not material, as it was his wilful desertion without regard to his subsequent residence which entitled her to the decree.
+Nor does it change the result that she was a feme sole trader. There is no necessity for a decree that a wife is to be held a feme sole trader in order to entitle her to the privileges conferred by the act of May 4, 1855: Black v. Tricker, 59 Pa. 13; Orrell v. Van Gorder, 96 Pa. 180; Bank v. Denig, 131 Pa. 241.
+Her rights result from the fact of her husband’s desertion or neglect to provide for her and not from the certificate.
+The desertion by the husband, however long continued or wherever his residence, did not annul the marriage relation, and ’ the decree of the court authorizing the deserted' wife to act as a feme sole trader did not confer any contractual right on her to bind her separate estate as surety for another.
+The judgment was voidable and the application to set it aside .is made in her name: Koechline v. Henkel, 144 Pa. 215.
+In this case as in Real Estate Co. v. Roop, 132 Pa. 496,, “ It is conceded that this judgment was given by a married woman. It was not pretended that it was done in the management of, or for the benefit of her separate estate, or in the prosecution of any business in which she was engaged, or for necessaries; ” in which case it was held that the judgment was confessed without authority and void as to the married woman, and was stricken from the record.
+The assignments of error are not sustained and the judgment is affirmed.
