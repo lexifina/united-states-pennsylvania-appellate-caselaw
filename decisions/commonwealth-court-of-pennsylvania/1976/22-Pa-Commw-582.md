@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 433 C.D. 1975"
+decided: "1976-01-09"
+citations: ["22 Pa. Commw. 582"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Kramer and Mencer, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania, Department of Justice, Bureau of Corrections v. Arnold J. Grant, Appellant."]
+source_url: "https://static.case.law/pa-commw/22/cases/0582-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1871682
+cites_cases: ["156 A. 2d 821", "17 Pa. Commonwealth Ct. 344", "18 Pa. Commonwealth Ct. 49", "2 Pa. Commonwealth Ct. 462", "279 A. 2d 368", "281 A. 2d 170", "289 A. 2d 767", "3 Pa. Commonwealth Ct. 230", "318 A. 2d 390", "327 A. 2d 70", "331 A. 2d 590", "398 Pa. 35", "457 Pa. 470", "5 Pa. Commonwealth Ct. 139"]
+---
+
+# Commonwealth v. Grant
+
+## Majority (Judge Mencee,)
+
+Opinion by
+Judge Mencee,
+Arnold J. Grant (appellant) was an employee of the Bureau of Corrections (Bureau) at the State Correctional Institution at Pittsburgh. He was a regular-status employee who held the position of Corrections Officer I on a probationary basis. The events leading to this appeal began on April 18, 1974, when appellant’s supervisors were informed that he had been arrested on a charge of violating the Uniform Firearms Act. The following day he was suspended for 5% days pending an investigation of his conduct. The reason given for his suspension was “misconduct while off duty which may bring the service of the Commonwealth into disrepute.”
+Appellant was found not guilty of the criminal charge on April 26, 1974, apparently because the Commonwealth failed to appear at the hearing. On April 30, 1974, a hearing on appellant’s suspension was held at the prison before Bureau personnel, at which appellant’s attorney advised him not to testify or answer questions. Appellant was suspended as of that date for an additional 29% days pending the outcome of a further investigation. Less than one week later, on May 5, 1975, appellant was stopped while in his car with three other men because the car fit the description of a car used in the robbery of a bar on the previous day. The officers who searched the car found a handgun stolen in that robbery under the seat occupied by one of the men. After receipt by his superiors of the report of this arrest, appellant was dismissed from the service on May 16, 1974 for the same reason for which he had been suspended earlier.
+An appeal to the Civil Service Commission (Commission) followed, and hearings were held on June 6, July 10, and December 11, 1974. At the July 10 hearing, Detective Regis Burke testified to the facts surrounding the second arrest, as well as to the fact that appellant had been implicated in the robbery by one of the other men arrested with him, Mr. Jeffrey Bell. Appellant testified at the final hearing on December 11 that he had not known Mr. Bell previously and was only giving him a ride home on the date the men were arrested. On February 28, 1975, appellant’s motion in arrest of judgment was granted, relative to the charges arising from the arrest of May 5, 1975; nevertheless, on March 3, 1975, the Commission dismissed appellant’s appeal of his suspension and dismissal. He now appeals to this Court, alleging that the adjudication of the Commission was not supported by substantial evidence to establish that appellant had engaged in such misconduct as to warrant suspension and dismissal. We do not agree.
+Our scope of review in this case is defined in Section 44 of the Administrative Agency Law which states in relevant part:
+“The court to which the appeal is taken shall hear the appeal without a jury on the record certified by the agency. After hearing the court shall affirm the adjudication unless it shall find that the same is in violation of the constitutional rights of the appellant, or is not in accordance with law, ... or that any finding of fact made by the agency and necessary to support its adjudication is not supported by substantial evidence.”
+Further, we must affirm the adjudication of the Commission if a reasonable mind might make the same deter-ruination as the Commission based on the same evidence. Williams v. Civil Service Commission, 457 Pa. 470, 327 A. 2d 70 (1974). The court, on review, will not weigh but only examine the evidence. Gibbs v. Civil Service Commission, 3 Pa. Commonwealth Ct. 230, 281 A. 2d 170 (1971). A thorough review of the record in accordance with these principles convinces us that the findings of the Board were supported by substantial evidence.
+Although not clearly articulated, we note in appellant’s brief a related question of whether his activities could be considered “just cause” for his dismissal under Section 807 of the Civil Service Act. The constituents of “just cause” are ably summarized by Judge Kramer in Corder v. Civil Service Commission, 2 Pa. Commonwealth Ct. 462, 467, 279 A. 2d 368, 371 (1971) :
+“In defining ‘just cause’ we are aided by a provision of the Civil Service Act, supra, at 71 P.S. §741. 905(a) and by the case law of our courts. The Civil Service Act states: ‘No officer or employe of the Commonwealth shall discriminate against any person in recruitment, examination, appointment, training, promotion, retention or any other personnel action with respect to the classified service because of political or religious opinions or affiliations because of labor union affiliations or because of race, national origin or other nonmerit factors.’ We are able to discern that the legislative intent relating to one’s relationship with the classified service turns upon a merit concept. This means that any ‘personnel action’ carried out by the Commonwealth is to be scrutinized in the light of such merit criteria, as has the party failed to properly execute his duties, or has he done an act which hampers or frustrates the execution of same. The criteria must be job-related and in some rational and logical manner touch upon competency and ability.” (Emphasis in original.)
+The appellant in the case at bar was employed to guard prisoners in a state correctional facility; this is a highly sensitive position which requires those who would hold it to avoid even the appearance of impropriety. See Cotter v. State Civil Service Commission, 18 Pa. Commonwealth Ct. 49, 318 A. 2d 390 (1974). For appellant to be dismissed, it was not necessary for him to be convicted of the crimes with which he was charged. As we stated in Hughes v. State Civil Service Commission, 17 Pa. Commonwealth Ct. 344, 347, 331 A. 2d 590, 592 (1975) :
+“Obviously, the public employer was not required to justify its suspension or removal of the appellant by proof beyond a reasonable doubt that the appellant had committed crimes .... See Zeber Appeal, 398 Pa. 35, 43, 156 A. 2d 821, 825 (1959); Kramer v. City of Bethlehem, 5 Pa. Commonwealth Ct. 139, 144, 289 A. 2d 767, 769 (1972).”
+We find that the Commission did not err in concluding that appellant was suspended for just cause. Accordingly, we enter our
+Order
+Now, this 9th day of January, 1976, the appeal is dismissed, and the order of the Commission sustaining the suspension and removal of the appellant is affirmed.
+. Act of June 4, 1945, P. L. 1388, as amended, 71 P.S. §1710.44.
+. Act of August 5, 1941, P. L. 752, as amended, 71 P.S. §741.807.
