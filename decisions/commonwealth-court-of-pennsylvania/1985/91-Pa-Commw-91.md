@@ -1,0 +1,41 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 298 C.D. 1983"
+decided: "1985-08-13"
+citations: ["91 Pa. Commw. 91"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogers, MacPhail and Pabladino, sitting as a panel of three."]
+parties: ["Robert Lewis, Sr., Deceased, Laura Lewis, Widow, Petitioner v. Workmen’s Compensation Appeal Board (Bristol Pike Bowling), Respondents."]
+source_url: "https://static.case.law/pa-commw/91/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1337225
+cites_cases: ["26 Pa. Commonwealth Ct. 593", "364 A.2d 1387", "399 A.2d 465", "41 Pa. Commonwealth Ct. 460", "411 A.2d 294", "465 A.2d 132", "478 A.2d 497", "49 Pa. Commonwealth Ct. 435", "77 Pa. Commonwealth Ct. 202", "83 Pa. Commonwealth Ct. 490"]
+---
+
+# Lewis v. Workmen's Compensation Appeal Board
+
+## Majority (Judge Palladino,)
+
+Opinion by
+Judge Palladino,
+Laura Lewis (Claimant) appeals from a decision of the Workmen’s Compensation Appeal Board (Board) reversing the Referee’s decision to award death benefits to the Claimant for the death of her husband, Robert Lewis (Decedent). We reverse.
+Decedent was employed by Bristol Pike Bowling Lanes (Employer) as a maintenance man. The Decedent’s duties included .the daily cleaning and buffing of all 36 bowling lanes, the unloading of cartons, the maintenance of the automatic pin setting machines and the drilling of bowling balls. On the morning of October 25, 1976, after having completed the cleaning and buffing of the lanes, the Decedent took a break and went to a room where his activities were not observed. Later, the Decedent complained of chest pain and he left work to visit his family physician, Dr. Anthony Rock, who was treating the Decedent for high blood pressure. Subsequently, the Decedent returned to work. Following the Decedent’s lunch break, his activities were again unobserved until 4:00 p.m. when he exited a room behind the lanes and collapsed as he walked across the lanes. The Decedent was pronounced dead on arrival at a hospital. The Decedent’s death certificate states the cause of death as circulatory failure due to myocardial infarction due to hypertensive vascular disease.
+At the hearing before the Referee, Claimant presented the testimony of Dr. Rock, which established a causal connection between the Decedent’s death and his work activity. Based on the evidence presented, the Referee concluded that because there existed a causal connection between the Decedent’s injury and death and his employment, Claimant is entitled to compensation under the provisions of The Pennsylvania Workmen’s Compensation Act (Act). On appeal, the Board reversed the Referee’s decision finding that Dr. Rock’s testimony was equivocal, internally confusing and inconsistent.
+The sole issue in this case is whether the medical testimony presented by the Claimant was unequivocal in establishing a causal connection between the Decedent’s work activity and his subsequent death. Unequivocal medical evidence is required to establish a causal connection between the injury and the alleged cause of that injury where there is no clear connection. George v. Workmen’s Compensation Appeal Board, 49 Pa. Commonwealth Ct. 435, 411 A.2d 294 (1980). It is the Claimant’s burden to prove that she is entitled to benefits. Penn Pad Co. v. Workmen’s Compensation Appeal Board, 83 Pa. Commonwealth Ct. 490, 478 A.2d 497 (1984). Where the party with the burden of proof has prevailed before the referee, and the Board takes no additional evidence, this Court’s scope of review is limited to a determination as to whether any constitutional rights were violated or an error of law was committed or whether there was substantial evidence to support the findings of fact. Id.
+Medical testimony is unequivocal when it establishes that, in the professional opinion of the medical ■expert, the Claimant’s work experience was not a possible cause of the Claimant’s condition, but was in fact the cause of Claimant’s condition. Philadelphia College of Osteopathic Medicine v. Workmen’s Compensation Appeal Board, (Lucas), 77 Pa. Commonwealth Ct. 202, 465 A.2d 132 (1983). The Court in Philadelphia College stated that the medical expert’s testimony need not be without “uncertainty, reservation, doubt or lack of information with respect to medical and scientific details; so long as the witness does not recant the opinion or belief first expressed.” Id. at 206-207, 465 A.2d at 135. Here, Dr. Book was presented with a hypothetical question based on facts of record concerning the activities of the Decedent on the date of his death. Based on this hypothetical situation, the 'doctor testified as to his opinion concerning the causal relationship between the Decedent’s work activity and his death:
+THE WITNESS: Mr. Lewis was obviously suffering from coronary artery disease, hypertensive cardiovascular disease. Based on the history that he gave me that day and the incidents that followed, it’s my belief that Mr. Lewis was in the midst of an acute myocardial infarction. He returned to work and the demands placed on his heart and circulatory system from his work that day contributed to his demise later .that day.
+The Doctor then explained the medical basis for his opinion:
+Q. All right. Will you continue? We talked about the coronary artery disease.
+A. Yes. Coronary arteries supply blood to the heart muscle and these were obviously, in Mr. Lewis’ case, occluded, depriving the heart muscle of oxygen and the further exertion by file patient puts increased demands upon the heart muscle.
+A point comes where the heart can no longer function with these increased demands and with an acute infarction occurring, so the circulatory system collapses.
+Q. And what is your opinion with regard to whether this was the circumstance existing in Mr. Lewis’ case!
+A. Yes, I believe that is what happened to Mr. Lewis.
+The referee clearly was persuaded by the testimony of Dr. Bock. Throughout his testimony, Dr. Bock expressed his belief that the Decedent’s death was causally related to his work activity.
+The Board based its conclusion that Dr. Bock’s testimony was equivocal on his uncertainty as to whether the Decedent ivas suffering a myocardial infarction on the morning of his death. The Boiard found this to be inconsistent with Dr. Bock’s subsequent statement that the Decedent was in fact in the midst of a heart attack. In addition, the Board noted that Dr. Bock testified that he had no specific knowledge of the activities performed by the- Decedent on the date of his death.
+We disagree with the Board’s conclusion. Dr. Bock’s opinion regarding the causal connection between the Decedent’s employment and his death was in response to a hypothetical question based on facts of record concerning the Decedent’s work activities on the date of his death. Moreover, as noted previously, while medical testimony must be unequivocal, it need not be stated with unqualified certainty. Workmen’s Compensation Appeal Board v. Bowen, 26 Pa. Commonwealth Ct. 593, 364 A.2d 1387 (1976). See Latrobe Steel Co. v. Workmen’s Compensation Appeal Board, 41 Pa. Commonwealth Ct. 460, 399 A.2d 465 (1979) (medical expert’s testimony with equivocal respect to “mechanism” of ¡death, yet, unequivocal with respect to the cause of death). Here-, the subsequent events of October 25, 1976 confirmed Dr. Rock’s earlier suspicion that the Decedent may have been in the midst of a myocardial infarction, and his initial uncertainty does not render his testimony equivocal. Because we find Dr. Rock’s testimony o>n the causal relationship between the Decedent’s work and his death to be unequivocal, we must therefore conclude that there is substantial evidence on the record to uphold the referee ’s award.
+Accordingly, we reverse the decision of the Board, and reinstate the decision of the Referee awarding death benefits to the Claimant.
+Order
+And Now,- August 13, 1985, the decision of the Workmen’s Compensation Appeal Board at No. A-8Í43Í is reversed and the decision of the referee awarding death -benefits to the Claimant is hereby reinstated.
+Act of June 2, Í915, P.L. 736. as amended, 77 P.S. §§1-1601.1.
