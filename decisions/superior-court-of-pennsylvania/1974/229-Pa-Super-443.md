@@ -1,0 +1,40 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 48"
+decided: "1974-06-21"
+citations: ["229 Pa. Super. 443"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Watkins, P. J., Jacobs, Hoffman, Cercone, Price, Yan der Yoort, and Spaeth, JJ."]
+parties: ["Commonwealth v. Terry, Appellant."]
+source_url: "https://static.case.law/pa-super/229/cases/0443-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 813254
+cites_cases: ["106 A. 2d 869", "131 A. 2d 150", "165 A. 2d 97", "171 Pa. Superior Ct. 557", "172 Pa. Superior Ct. 281", "175 Pa. Superior Ct. 446", "183 Pa. Superior Ct. 310", "193 Pa. Superior Ct. 344", "207 Pa. Superior Ct. 374", "217 A. 2d 838", "222 Pa. Superior Ct. 254", "222 Pa. Superior Ct. 26", "293 A. 2d 614", "295 A. 2d 114", "355 U.S. 899", "40 Northumberland L.J. 117", "5 Pa. Commonwealth Ct. 8", "91 A. 2d 382", "93 A. 2d 873"]
+---
+
+# Commonwealth v. Terry
+
+## Majority (Price, J.,)
+
+Opinion by
+Price, J.,
+The issue presented to us for resolution is whether Appellant’s sentence for a crime committed while on parole was properly computed as running consecutively to the “back time” on his original sentence. We hold that the sentence was properly computed.
+The facts are as follows: On May 6, 1971, Raymond Terry, Appellant, was convicted of the charge of carrying a concealed deadly weapon and later sentenced to a term of from 1 to 11% months in Philadelphia County Prison.
+On June 12, 1971, Appellant was convicted of burglary and sentenced to a term of from 3 to 23 months in the same prison to run concurrently with the above sentence. Appellant was paroled on both sentences on September 26, 1971.
+Appellant was arrested on December 11, 1971, and charged with burglary. He was held in lieu of bail until March 8, 1972, when detainers were lodged against him for violations of parole on both of his sentences. He was tried on the new burglary charge on April 3, 1972, and sentenced to a term of from 11 to 23 months in Philadelphia County Prison, the term to run from December 12, 1971.
+On April 10, 1972, parole was formally revoked on the initial burglary sentence and appellant was ordered to serve the balance of his sentence (which was approximately 20 months). Two days later, parole was revoked on the sentence for carrying a concealed deadly weapon.
+Appellant filed a PCHA petition on April 23, 1973, alleging an error in the computation of his sentence and demanding relief by recomputation. His petition was denied on October 2, 1973, and Appellant filed this appeal.
+The substance of Appellant’s argument is that the “back time” to be served on the two sentences from which he had been paroled began to run from the date of his parole, and that portions of the “back time” were to run concurrently with the sentence imposed for the third crime committed while on parole. If Appellant’s argument were adopted he would have served all his time and would now be illegally imprisoned. However, his suggested procedure is not a correct application of the laws of this Commonwealth.
+Appellant stated his belief that as a recommitted parole violator he would receive “good time” credit for the time he was free on parole; that is, Appellant would have a balance of 9 days on the C.C.D.W. sentence and 20 months on the burglary sentence if he were given credit from September 26, 1971, when he was paroled until April 12 and April 10, 1972, when his paroles were revoked.
+The legislature has indicated its intention to have parole violators serve out their original sentences and the new ones without credit for time spent on parole. See the Act of June 19, 1911, P. L. 1055, §10; June 3, 1915, P. L. 788, §1; June 22, 1931, P. L. 862, §1; 61 P.S. 305, which provides: “If any convict released on parole, as provided for in this act, shall, during the period of his or her parole, or while delinquent on said parole, commit any crime punishable by imprisonment fov which he or she is at any time thereafter convicted in any court of record and ... if sentenced to the penitentiary from which said convict was released on parole, then the service of the remainder of the said term originally imposed shall precede the commencement of the term imposed for said crime.” (Emphasis added.) And see the Act of August 6, 1941, P. L. 861, §21.1, added August 24, 1951, P. L. 1401, §5, as amended June 28, 1957, P. L. 429, §1, 61 P.S. 331.21a(a), which provides: “If his [parolee’s] recommitment is so ordered, he shall be reentered to serve the remainder of the term which said parolee would have been compelled to serve had he not been paroled, and he shall be given no credit for the time at liberty on parole.” (Emphasis added.)
+This court has previously considered similar arguments as that made by Appellant and has held that the sentence received for a crime committed in violation of parole and that from which the parole was granted must be served consecutively. See Commonwealth v. Draper, 222 Pa. Superior Ct. 26, 29, 293 A. 2d 614 (1972), in which we stated, “When a parolee is convicted and sentenced to imprisonment for a crime committed while on parole, the new sentence and the remainder of the old sentence must be served consecutively, and the sentencing judge has no authority to order that the sentences be concurrent.” See Henderson v. Board of Probation and Parole, 5 Pa. Commonwealth Ct. 8 (1972) ; Commonwealth ex rel. Godfrey v. Banmiller, 193 Pa. Superior Ct. 344, 165 A. 2d 97 (1960).
+This court has also ruled that the purpose of providing a date on which the sentence for the crime committed while on parole becomes effective is “to compensate for the time spent in confinement from the date of arrest in conformity with Section 1 of the Act of May 28, 1937, P. L. 1036, 19 P.S. 894; (citations omitted).” Commonwealth ex rel. Thomas v. Maroney, 175 Pa. Superior Ct. 446, 448, 106 A. 2d 869 (1954); Commonwealth ex rel. Kunkle v. Cloudy, 171 Pa. Superior Ct. 557, 91 A. 2d 382, 384 (1952). The designation of the effective date of the sentence does not mean that the new sentence is to be served concurrently with the unexpired portion of the original sentence. Commonwealth ex rel. Geisler v. Cloudy, 172 Pa. Superior Ct. 281, 93 A. 2d 873 (1953). “The law is clear that no part of the old and new sentences can be served concurrently.” Commonwealth v. Tyson, 40 Northumberland L.J. 117, 121 (1967). It is mandatory that the sentences run consecutively and, as said above, a sentencing judge has no authority to order the sentence for the parole violation and the original sentence to be served concurrently. Commonwealth v. Draper, supra, at page 29; Commonwealth ex rel. Dion v. Martin, 183 Pa. Superior Ct. 310, 131 A. 2d 150, cert, denied, 355 U.S. 899 (1957).
+The cases cited by Appellant, i.e., Commonwealth v. Pristas, 222 Pa. Superior Ct. 254, 295 A. 2d 114 (1972) and Litselman Appeal, 207 Pa. Superior Ct. 374, 217 A. 2d 838 (1966), are inapposite to the instant case. Both cases involved a defendant who was incarcerated for an earlier offense at the time of the subsequent sentence. The case now on appeal does not contain those facts.
+We therefore agree with the Commonwealth’s position that the defendant’s sentences follow this sequence :
+(1) the sentence on the charge which was the parole violation began to run on December 12, 1971, and ran until March 8, 1972, with the balance held in abeyance until the back time was served;
+(2) on March 8, 1972, Appellant’s back time on the original concurrent sentences began to run;
+(3) on or about November 8, 1973, all back time was discharged and the balance of Appellant’s subsequent sentence resumed. This balance amounts to 8 months, 4 days minimum to 20 months, 4 days maximum;
+(4) Appellant will not be eligible for parole at least until the minimum sentence expires on July 12, 1974, and Appellant has not yet served all his maximum time on this sentence.
+The order of the court below is affirmed.
