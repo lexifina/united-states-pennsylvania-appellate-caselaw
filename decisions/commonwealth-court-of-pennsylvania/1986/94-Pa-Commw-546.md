@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2395 C.D. 1984"
+decided: "1986-01-31"
+citations: ["94 Pa. Commw. 546"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges MacPhail and Colins, and Senior Judge Blatt, sitting as a panel of three."]
+parties: ["Thomas G. Roche, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/94/cases/0546-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1343455
+cites_cases: ["190 A.2d 579", "200 Pa. Superior Ct. 548", "425 A.2d 1188", "427 A.2d 744", "474 A.2d 1220", "491 A.2d 293", "497 A.2d 289", "57 Pa. Commonwealth Ct. 92", "58 Pa. Commonwealth Ct. 246", "82 Pa. Commonwealth Ct. 337", "88 Pa. Commonwealth Ct. 566", "91 Pa. Commonwealth Ct. 459"]
+---
+
+# Roche v. Commonwealth, Unemployment Compensation Board of Review
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+Thomas G. Roche (Claimant)' appeals from an order of the Unemployment 'Compensation Board of Review (Board) which affirmed a referee’s order denying benefits and ordering a fault recoupment under Section 804(a) of the Unemployment Compensation Law (Law). We affirm the Board.
+• The refereé found that Claimant was ineligible for the benefits he received for each compensable week ending June 5, 1982 through December 18, 1982 and January 15, 1983 through February 19, 1983. Claimant received a total of $6,930.00 in benefits during those weeks.. The referee found that Claimant was not entitled to these benefits because on May 28, 1982, he became involved with Consulting Sales Analysts, Inc. and that Claimant’s involvement■ with the company was'such that he was “sélf-employed” and ineligible for benefits under Section 402(h) of the Law.
+Normally, the employer has the harden of proving that Claimant was self-employed. See DeBolt Transfer, Inc. v. Unemployment Compensation Board of Review, 58 Pa. Commonwealth Ct. 246, 427 A.2d 744 (1981). In the case at bar, it was the Office of Employment Security (OES), acting on an anonymous tip, which was asserting Claimant’s self-employment. In such a case, the OES carries the burden of proof. "Where, as in this case, the party with the burden of proof has prevailed before the Board, this Court’s scope of review is to determine whether an error of law has been committed or whether necessary findings of fact are unsupported by substantial evidence. Watson v. Unemployment Compensation Board of Review, 88 Pa. Commonwealth Ct. 566, 491 A.2d 293 (1985). Conclusions as to Claimant’s self-employment present a question of law subject to review by this Court. Centorame v. Unemployment Compensation Board of Review, 82 Pa. Commonwealth Ct. 337, 474 A.2d 1220 (1984). As such, this Court may examine the record to determine if the evidence presented supports the conclusion that Claimant was self-employed.
+It is undisputed that Consulting Sales Analysts was not incorporated until December 10,1982 and that claimant became 50% stockholder on December 30, 1982. Claimant also served as president of the corporation. Claimant does not appeal the determination that he was self-employed for the period between January 15, 1983 and February 19, 1983. He avers, however, that his activities involving Consulting Sales Analysts between June 5, 1982 through December 18, 1982 do not constitute self-employment.
+Claimant admits that on May 28, 1982, a checking account in his name and that of John T. Borthwiek entitled “Consulting Sales Analysts” was created with the statements being sent to Claimant’s house. Money was paid out of this account to Claimant’s wife for services rendered and to Claimant for the purchase of personal property by Consulting Sales Analysts and to reimburse him for expenses incurred in running errands for Consulting Sales Analysts. Claimant’s name, along with that of Borthwiek, appeared on a lease entered into on October 1,1982 for space for the business. Claimant evidently received no income from the business until February.
+Whether or not a business is incorporated is not determinative of whether activity in such business can be considered self-employment. See Salis v. Unemployment Compensation Board of Review, 200 Pa. Superior Ct. 548, 190 A.2d 579 (1963). Likewise, a finding that a claimant received an income or has a proprietory interest in a business is not necessary in reaching the conclusion that such claimant is self-employed. Watson. A claimant is considered to have embarked on “self-employment” when he performs a positive act of establishing an independent business enterprise. Kirk v. Unemployment Compensation Board of Review, 57 Pa. Commonwealth Ct. 92, 425 A.2d 1188 (1981).
+In the case sub judice, Claimant’s actions of starting a checking account, running errands and signing a lease were all positive acts of establishing an independent business enterprise. This pattern of activity was commenced prior to June 5,1982. While these acts in themselves may not have been sufficient to render Claimant self-employed, these acts must be considered in light of the fact that Consulting Sales Analysts was eventually incorporated with Claimant as president.
+The referee specifically found not credible Claimant’s testimony that his involvement with the company was minimal and did not commence until after the last date he received benefits. The referee instead chose to believe OES documents in the record which indicated Claimant had an active role in Consulting Sales Analysts from May 28, 1982. The referee was justified in making this credibility determination. See Swope v. Unemployment Compensation Board of Review, 91 Pa. Commonwealth Ct. 459, 497 A.2d 289 (1985). The referee ’s findings were adopted by the Board.
+We conclude that the determination by the referee, affirmed by the Board, that Claimant was self-employed from May 28, 1982, must be affirmed. Accordingly, benefits for compensable weeks ending June 5, 1982 through December 18, 1982 and compensable weeks ending January 15, 1983 through February 19, 1983 must be denied and the overpayment in the amount of $6,930.00 must be recouped.
+Order
+The order of the Unemployment Compensation Board of Review, No. B-232573, is hereby affirmed.
+Act of December 5, 1936, Second Ex. Sess., P.D. (1937) 2897, as amended, 43 P.S. §874(a).
+43 P.S. §802(b).
+This Court lias never decided which party has the burden of proof where the OES is attempting to prove self-employment. The Dauphin County Court of Common Pleas, in a case from its Commonwealth Docket, did consider an analogous situation. In Commonwealth v. Marie Gas & Oil Company, 55 Dauph. Co. 105, 52 D. & C. 385 (1944), the issue, on appeal from an assessment against an alleged employer under the law was whether or not certain individuals operating Marie's gasoline station were employees of the company. The Court held that the burden rests upon the Commonwealth to prove the existence of the relationship of employer and employee.
+The referee alternatively found that Claimant had not made a valid application for benefits under Section 401(c) of the Law, 43 P.S. §801 (c). Neither this conclusion nor the determination that Claimant was subject to a fault recoupment of $6,930.00 were addressed in Claimant’s brief before this Court. As such, any dispute Claimant may have as to these conclusions must be considered waived. Pa. R.A.P. 2116(a).
