@@ -1,0 +1,40 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 3818 C.D. 1984"
+decided: "1988-05-04"
+citations: ["115 Pa. Commw. 630", "540 A.2d 1000"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Craig and Palladino, and Senior Judge Barbieri, sitting as a panel of three."]
+parties: ["Paul R. Mazzoni, Esquire and Arthur J. Rinaldi, Esquire, In the Matter of Ralph Luciani, Petitioners v. Workmen's Compensation Appeal Board (The United States Fidelity & Guaranty Company), Respondents."]
+source_url: "https://static.case.law/pa-commw/115/cases/0630-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1371539
+---
+
+# Mazzoni v. Workmen's Compensation Appeal Board
+
+## Majority (Judge Craig,)
+
+Opinion by
+Judge Craig,
+Paul Mazzoni and Arthur J. Rinaldi, attorneys, petition for review of a decision of the Workmens Compensation Appeal Board (board) which ruled, in the particular circumstances of this case, that “the defendants insurance carrier is not required to pay 20% counsel fees to the claimants attorney for any period of time prior to the referees decision.”
+The petitioner attorneys apparently are not seeking an order compelling the carrier to withhold and pay to them more than 20% of future compensation owed to the claimant. However, for the purpose of recouping counsel fees during the period from their entry into the case until the time of the award, the petitioner attorneys seek an order requiring the carrier to pay their counsel fees for the pre-award period in addition to the full compensation already paid by the employer to the claimant throughout that period. The petitioner attorneys offer no authority for such an order; they rely merely on a concept which they label as “over-riding inequities.”
+Because there is no dispute as to the referees decision that there was a reasonable basis for a contest and that no penalties or counsel fees should be imposed upon the defendant or the insurance carrier, the issue of first impression before us is limited solely to whether the insurance carrier is responsible to the cláimants attorneys for retroactive payment of counsel fees arising before the referees decision, but during which time the claimant received full compensation from the carrier.
+The referee found that the claimant suffered a work-related injury on November 2, 1977. The employer filed a notice of compensation payable on November 30, 1977 with the Bureau of Workers Compensation (bureau) providing for benefits to be paid to the claimant beginning November 3, 1977, at the rate of $199 per week, based upon the specific loss of the claimants left leg. The insurance carriers payments to the claimant in the full amount began on November 3, 1977, and have continued to the present.
+On May 10, 1979, these petitioners entered the case as claimants counsel and filed a claim petition with the bureau alleging that “other disabling injuries” incurred on November 2, 1977. The defendant filed an answer to the claim, admitting that the specific loss of the claimants left leg was a work-related injury being fully compensated, but denying that the claimant suffered other injuries. The matter proceeded to hearing before a referee, who considered the May claim petition as a petition for review.
+On January 19, 1982, the referee issued a decision directing “the defendant and/or his insurance carrier” to pay the claimant compensation for total disability at the rate of $199 per week beginning November 3, 1977, continuing indefinitely thereafter within the limitations of The Pennsylvania Workmens Compensation Act (Act). Furthermore, following such completion of payments for total disability, the defendant and/or insurance carrier must pay the claimant compensation.for the specific loss of the left leg at the rate of $199 per week for a period of 410 weeks. The referees order significantly states that “[t]he defendant and/or insurance carrier is entitled to credit for all compensation payments made to claimant to date.” The referee approved counsel fees in the amount of 20% with .such fees “to be deducted (by the defendant and/or insurance carrier) from the compensation due and owing the claimant, and the balance to be paid directly to the claimant.”
+On February 4, 1982, the defendant appealed the referees decision and filed a petition for supersedeas. On April 8, 1982, the board denied the petition for supersedeas as to 80% of the claimants compensation, but granted it as to attorneys fees, costs and medical expenses. In an opinion dated November 4, 1982, the board dismissed the defendants appeal and affirmed the referees decision.
+On October 10, 1983, the petitioner attorneys filed their petition with the board requesting counsel fees from May 10, 1979 until April 13, 1982. On December 13, 1984, the board dismissed the petition for counsel fees. On December 28, 1984, the petitioner attorneys filed this petition for review.
+Attorneys Mazzoni and Rinaldi contend that the insurance carrier, as opposed to the claimant, is responsible for payment of counsel fees from May 10, 1979 through April 13, 1982. As stated in the counsel fee agreement between the claimant and his attorneys, and approved by the referee, the fees are to be a 20% share of the entire award. However, the petitioner attorneys argue that the insurance carrier should pay their 20% share in addition to the compensation previously and properly paid to the claimant.
+Initially, section 440 of Act, 77 RS. §996, provides that “cost for attorneys fees may be excluded when a reasonable basis for the contest has been established.” Because the referee determined that “there was a reasonable basis for a contest,” no additional counsel fees may be imposed against the insurance carrier.
+Furthermore, the referee correctly declared that the insurance carrier was “entitled to credit for all compensation payments made to claimant to date.” To declare the carrier responsible for counsel fees arising during the period of time when the claimant received full compensation but the referee had not yet rendered a decision would ignore the order of the referee that credit be given. Petitioner attorneys have cited no authority to do so.
+Finally, the referees decision directs that the 20% counsel fee be “deducted from the compensation due and owing claimant, and the balance to be paid directly to the claimant.” (Emphasis added.) The order makes no reference to a retroactive payment between the carrier and the attorneys, and, moreover, it makes no reference as to method of payment for fees earned before the referees decision of January 19, 1982.
+Although the petitioner attorneys contend that the defendant insurance carriers payment of counsel fees from May 10, 1979 to April 13, 1982, would not represent an overpayment of the benefits according to the referees order, we are not persuaded by their logic. The petitioner attorneys argue that counsel fees could be deducted from the claimants specific loss benefits which is a determinable amount. However, the referees decision requires the carrier to pay $199 per week and no more. Again, with no dispute as to whether a reasonable basis for contest exists, there are no grounds to justify payment of more than $199 per week by the carrier.
+We recognize that the petitioner attorneys are entitled to the counsel fees they have earned for procuring additional benefits for the claimant. However, the counsel fee agreement between the attorneys and the claimant governs the matter of payment for services rendered when the carrier pays full benefits to the claimant while awaiting the decision of the referee.
+Accordingly, we affirm the decision of the board.
+Order
+Now, May 4, 1988, the order of the Workmens Compensation Appeal Board, dated December 13, 1984, No. C.F. 2466, A-83010, is affirmed.
+Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §§1-1603.
+See section 440 of the Act, 77 P.S. 996.
