@@ -1,0 +1,40 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 83 C.D. 1979"
+decided: "1980-11-24"
+citations: ["54 Pa. Commw. 187"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President JudgeCRUMlish and Judges Wilkinson, Jr., Mencer, Bogers, Blatt, Craig and Williams, Jr. Judge MacPhail did not participate.", "Judge Williams, Jr., concurs in the result only."]
+parties: ["Western Pennsylvania Water Company, Petitioner v. Pennsylvania Public Utility Commission, Respondent."]
+source_url: "https://static.case.law/pa-commw/54/cases/0187-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1914242
+cites_cases: ["17 Pa. Commonwealth Ct. 333", "331 A.2d 572", "400 A.2d 672", "408 A.2d 917", "409 A.2d 446", "42 Pa. Commonwealth Ct. 242", "47 Pa. Commonwealth Ct. 512", "47 Pa. Commonwealth Ct. 614"]
+---
+
+# Western Pennsylvania Water Co. v. Pennsylvania Public Utility Commission
+
+## Majority (President Judge Crumlish,)
+
+Opinion by
+President Judge Crumlish,
+Western Pennsylvania Water Company (Western) in its petition seeks review of a final order by the Pennsylvania Public Utility Commission (Commission) disallowing $16,911 of operating expenses claimed for the Butler District (Butler), one of the company’s operating districts. We affirm.
+On June 30, 1977, Western filed a tariff supplement with the Commission providing for an 11.52% increase in Butler’s annual operating revenues, or a total increase of $249,861 over the $2,169,180 fully-adjusted base for the test year ending March 31, 1977. On September 14,1977, the operation of the tariff supplement was suspended for six months pending investigation into the fairness, reasonableness and lawfulness of the proposed rates.
+After extensive evidentiary hearings before the Administrative Law Judge, the Commission entered its final order disallowing approximately 67% of a requested increase in annual revenues for Butler water service. The adjudication sets fair value and fair rate of return at $10,000,000 and 8% respectively, providing an $800,000 income available for return. Upon adding operating revenue deductions of $1,452,-650 to the return determination, the Commission directed Butler to file tariff revisions providing annual operating revenues of $2,252,650, an increase of $83,-470 over existing revenues but $166,391 less than proposed and $171,443 lower than the Administrative Law Judge’s recommendation.
+Western’s attack specifically challenges the Commission ’s exclusion from operating expenses of a portion of Butler’s federal income tax deduction.
+One of the generally accepted rate-making principles is that utilities are permitted to set rates which will recover those operating expenses reasonably necessary to provide service to customers, while earning a fair rate of return on the investment in plant used and useful in providing adequate utility service. City of Pittsburgh v. Pennsylvania Public Utility Commission, 42 Pa. Commonwealth Ct. 242, 247, 400 A.2d 672, 674 (1979). Of course, this cost of service includes a reasonable allowance for federal income taxes. See The Peoples Natural Gas Co. v. Pennsylvania Public Utility Commission, 47 Pa. Commonwealth Ct. 512, 409 A.2d 446 (1979). However, this Court has held that the Commission may properly exclude a portion of a utility’s tax expense where there is evidence that the utility has not been afforded its fair share of benefits from filing a consolidated tax return with a parent corporation, Bell Telephone Co. v. Pennsylvania Public Utility Commission, 47 Pa. Commonwealth Ct. 614, 619-622, 408 A.2d 917, 921-922 (1979), or when tax payments are actually made to provide a financial advantage to the parent company, Bell Telephone Co. v. Pennsylvania Public Utility Commission, 17 Pa. Commonwealth Ct. 333, 340, 331 A.2d 572, 575 (1975).
+Western’s Butler District computed its federal income tax for the test year to be $286,225. Since Butler determines its claimed taxes as if it were a separate taxpayer, the 48% statutory federal income tax rate was applied to anticipated taxable income under present and proposed rates. However, Butler, along with 49 other affiliated interests, participated in the filing of a consolidated tax return with American and paid their taxes directly to the parent company. American then recalculated taxes on the basis of the consolidated group using its losses to lower the actual tax liability, but did not distribute the difference among the subsidiaries.
+The Commission concluded that, as a consequence of the consolidated tax filing, American collected more in taxes from its positive tax subsidiaries, of which Butler is one, than it paid to the federal government. For the purpose of setting rates, the Commission recalculated Western’s federal income tax expense, deducting Butler’s fair share of benefits flowing from its participation in the consolidated tax return.
+We cannot condone a plea which would allow a parent company to collect a “phantom tax.” In reality, it is never paid to the government, but retained by the company as profit and passed on to the rate payer by way of subsidiary-claimed non-existent tax expense. On review, we conclude that the Commission’s disallowance of Butler’s claimed tax expense, in the form of $16,911 share, is both proper and supported by competent evidence.
+Western further argues that we must reverse the Commission’s federal income tax computation because “sound regulatory principles” require that rates be established on an individual utility basis. However, the question raised by Western here extends beyond a policy decision to the very principles of rate making.
+The Commission determined that “where the fundamental principles of regulation adhere to the setting of utility rates on an individual entity basis, these principles must be tempered to prevent inequities; the inclusion of income tax expenses which were never incurred in respondent’s cost of service is one such situation.” The decision to balance economic theory with the equities of a particular case surely bears a reasonable relationship to the Commission’s regulatory duty to establish just and reasonable rates. In so doing, our Courts seek not “to confine the ambit of regulatory discretion to an absolute or mathematical formulation but rather to confer upon the regulatory body the power to make and apply policy concerning the appropriate balance between prices charged to utility customers and returns on capital to utility investors consonant with constitutional protections applicable to both.” Pennsylvania Gas & Water Co. v. Pennsylvania Public Utility Commission, Pa. , A.2d (No. 35 May Term 1978, filed February 1,1980). Under these circumstances, we can find no reason to order the Commission to establish utility rates or corresponding components on an individual entity basis.
+Affirmed.
+Order
+The Opinion and Order dated October 1, 1980, in the above captioned matter is hereby withdrawn, and the Pennsylvania Public Utility Commission order, adopted September 7, 1978, and entered December 11, 1978, is hereby affirmed.
+Judge Williams, Jr., concurs in the result only.
+Formed under the laws of Pennsylvania on June 2, 1972 and presently a subsidiary of the American Water Works Company, Inc., a Delaware incorporal ed public utility holding company, Western is comprised of 16 operating districts, all formerly independent or individual operating utilities.
+Formerly the Butler Water Company, Western’s Butler District provides water service to approximately 10,880 customers in the City of Butler, the Borough of East Butler, and portions of Butler, Center, Oakland, and Summit Townships, all located in Butler County.
+Western duly withdrew its challenges on the Commission’s determination of fair value and fair rate of return.
+This Opinion necessarily effectuates a withdrawal of this Court’s October 1, 1980 Opinion and Order.
