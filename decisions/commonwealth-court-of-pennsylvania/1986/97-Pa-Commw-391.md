@@ -1,0 +1,56 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2785 C.D. 1984"
+decided: "1986-05-21"
+citations: ["97 Pa. Commw. 391", "509 A.2d 958"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to President Judge Crumlish, Jr, Judge Colins, and Senior Judge Blatt, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania, Pennsylvania Liquor Control Board, Appellant v. Willow Grove Veterans Home Association, Inc., Appellee."]
+source_url: "https://static.case.law/pa-commw/97/cases/0391-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1346911
+cites_cases: ["344 Pa. Superior Ct. 465", "400 A.2d 1337", "42 Pa. Commonwealth Ct. 292", "447 A.2d 325", "471 A.2d 180", "484 A.2d 206", "501 Pa. 234", "67 Pa. Commonwealth Ct. 304", "80 Pa. Commonwealth Ct. 292", "86 Pa. Commonwealth Ct. 168"]
+---
+
+# Commonwealth v. Willow Grove Veterans Home Ass'n
+
+## Majority (Judge Colins,)
+
+Opinion by
+Judge Colins,
+The Pennsylvania Liquor Control Board (Board) here appeals from an order of the Court of Common Pleas of Montgomery County which modified the penalty imposed upon Willow Grove Veterans Home Association, Inc. by the Board. The order was announced in open court after a trial de novo, and the Board did not object to the terms of the order, nor did it file any post-trial motions for relief.
+The issues before this Court are (1) whether the Pennsylvania Rules of Civil Procedure apply in this case such that post-trial motions for relief are a prerequisite to an appeal, and (2) if not, whether the Boards failure to object to the order in open court constitutes a waiver of the issue on appeal, and (3) if not, whether the trial court may modify the penalty imposed by the Board without significantly and materially altering the findings of fact of the Board. We will address these issues seriatim.
+Pa. R. C. P. No. 227.1 concerning post-trial relief was adopted effective January 1, 1984, and amended effective July 1, 1985. As of September 20, 1984, when the instant case was appealed to this Court, the rule stated:
+(a) After trial and upon the written Motion for Post-Trial Relief filed by any party, the court may
+(1) order a new trial as to all or any of the issues; or
+(2) direct the entry of judgment in favor of any party; or
+(3) remove a nonsuit; or
+(4) affirm, modify or change the decision or decree nisi; or
+(5) enter any other appropriate order.
+(b) Post-trial relief may not be granted unless the grounds therefor,
+(1) if then available, were raised in pre-trial proceedings or by motion, objection, point for charge, request for findings of feet or conclusions of law, offer of proof or other appropriate method at trial; and
+(2) are specified in the motion. The motion shall state how the grounds were asserted in pretrial proceedings or at trial. Grounds not specified are deemed waived unless leave is granted upon cause shown to specify additional grounds.
+(c) Post-trial motions shall be filed within ten days after
+(1) verdict, discharge of the jury because of inability to agree, or nonsuit in the case of a jury trial; or
+(2) notice of the filing of the decision or adjudication in the case of a trial without jury or equity trial.
+If a party has filed a timely post-trial motion, any other party may file a post-trial motion within ten days after the filing of the first post-trial motion.
+It is vital that the practitioner of law know when this rule is applicable. If it is not applicable, and the practitioner files a motion for post-trial relief, the practitioner risks an untimely appeal, because such improper motion will be treated as a petition for reconsideration, which does not stay the appeal period. Pederson v. South Williamsport Area School District, 80 Pa. Commonwealth Ct. 292, 295, 471 A.2d 180, 182 (1984). If the rule is applicable, and the practitioner fails to file a motion for post-trial relief, the failure to so do precludes consideration of the merits, constitutes a waiver of the appellants objections, and requires affirmance of the lower court order upon appeal. Szakmeister v. Szakmeister, 344 Pa. Superior Ct. 465, 496 A.2d 1199 (1985); Therefore, it is imperative that the careful practitioner know when he is required to file for post-trial relief.
+In considering whether Pa. R.C.P. No. 227.1 is applicable to the instant appeal, we must preliminarily examine when it or its predecessors have been found inapplicable. In Appeal of Sgro, 67 Pa. Commonwealth Ct. 304, 308, 447 A.2d 325, 327 (1982), we stated:
+The taxpayers seem to argue that appeals would not be cognizable . . . because the board filed no exceptions to those orders under Pa. R.C.P. No. 1038(d), but the taxpayers have given us no indication as to why that rule should be applied here; Pa. R.C.P. No. 1038(d) is part of the assumpsit rules and relates to statutory appeals only when applied by statute or local rule of court, [citation omitted].
+Prior to the adoption of Pa. R.C.P. No. 227.1 each chapter at law or in equity had a separate rule governing post-trial relief. Pa. R.C.P. No. 1038(d) was rescinded effective January 1, 1984, and replaced by Pa. R.C.P. No. 227.1. Furthermore, in all chapters at law or in equity there is a rule requiring that proceedings under such chapter shall be in accordance with the rules relating to a civil action, except as otherwise provided in such chapter. See Pa. R.C.P. No. 1061; Pa. R.C.P. No. 1071; Pa. R.C.P. No. 1091; Pa. R.C.P. No. 1111; Pa. R.C.P. No. 1141(b); Pa. R.C.P. No. 1161(b). A “civil action” is defined by Pa. R.C.P. No. 1001:
+(b)(1) All claims heretofore asserted in assumpsit or trespass shall be asserted in one form of action to be known as ‘civil action.’
+(2) Other forms of action which incorporate these rules by reference shall be known as ‘civil action—[type of action].’
+Certain rules are applicable to all such civil actions. Pa. R.C.P No. 250 specifically provides: “[t]he rules of this chapter shall apply to all civil actions and proceedings at law and in equity.” Pa. R.C.P. No. 227.1 was, therefore, a rule aimed at achieving conformity among all civil actions as regards post-trial relief. Therefore, it is clear that Pa. R.C.P. No. 227.1 has the same practical effect as Pa. R.C.P. No. 1038(d) formerly did, excepting that its scope is broader, encompassing all civil actions. Since Pa. R.C.P. No. 1038(d) was not applicable to statutory appeals, neither is Pa. R.C.P. No. 227.1. Pa. R.C.P. No. 227.1 applies only to civil actions as defined and governed, by the Pennsylvania Rules of Civil Procedure. It relates to statutory appeals only when applied by statute or local rule. The Board was not required to request post-trial relief, unless required to so do by statute or local rule.
+An examination of the Liquor Code, Act of April 12, 1951, P.L. 90, as amended, 47 P.S. §§4-471 and 4-464, reveals only that the Court of Common Pleas is required to “sustain, reject, alter or modify the findings, conclusions and penalties of the board, based on the findings of feet and conclusions of law as found by the court.” 47 P.S. §4-471. There is nowhere any requirement that post-trial relief be requested.
+This brings us to an examination of the local rules of Montgomery County. Local rules are specifically authorized by Pa. R.C.P. No. 239, as long as they are not inconsistent with “any general rule of the Supreme Court or any Act of Assembly.” Pa. R.C.P. No. 239(b); See Brogan v. Holmes Electric Protective Company of Philadelphia, 501 Pa. 234, 460 A.2d 1093 (1983). The rule in this case is Montgomery County Rule of Civil Procedure No. 252, which, at the time the instant action arose, provided, in pertinent part: “[a]ll post-trial motions in actions at law, exceptions to decisions in non-jury civil trials, and exceptions to equity adjudications shall be filed in writing with the Prothonotary within (10) days after verdict, non-suit, decision, or adjudication.” We must now decide whether this rule applies to statutory appeals.
+The Montgomery County local rules adopt the same definitions as those of the Pennsylvania Rules of Civil Procedure. See Montgomery County Rule of Civil Procedure No. 76(a). The wording of Montgomery County Rule of Civil Procedure No. 252 uses language similar enough to Pa. R.C.P. No. 250 that we find that “actions at law” as used in the Montgomery County Rules of Civil Procedure was meant to mean “civil actions” as defined by the Pennsylvania Rules of Civil Procedure. Therefore, the local rules also do not require the filing of post-trial motions. Of course, certain local rules do apply to statutory appeals, See Hess v. Montgomery County Board of Assessment Appeals, 42 Pa. Commonwealth Ct. 292, 400 A.2d 1337 (1979); however, this particular one does not.
+We must thus reach the second issue of whether the Boards failure to object to the trial courts order precludes the Board from challenging the order on appeal. There can be no doubt that issues not raised in the lower court are waived and cannot be raised for the first time on appeal. Pa. R.A.P. No. 302(a).
+The Board asserts an order is not an “issue.” We must agree with the Board. An “issue” is a disputed point or question on which parties to an action desire the court to decide. The “order” is the decision of the court on the “issue.” When one “objects” to the decision of a court, one appeals the decision.
+In the instant case, counsel for the Board specifically stated: “Your Honor, I don’t have any objection to that,” after the order was announced in open court. While this language certainly has the appearance of waiver, by the logic of the trial court, had the Boards counsel said nothing he also would have waived the issue. Practically this would force practitioners to object to every decision or order of a trial court, so that if they decide, upon a review of the case, to appeal, they will be found to have preserved the issue. Such would be cumbersome and an exercise in futility. Since we hold that there is no requirement that a party object to an order before appealing such order, statements made by counsel following the announcement of the order in open court are immaterial, and will be disregarded.
+This brings us to the merits of the Boards appeal. Simply stated, the issue is whether a trial court can modify penalties imposed by the Board when it adopts, the Boards Findings of Fact as its own after conducting a de novo hearing. We have previously answered this question. A trial court may not change a penalty of the Board unless it has made significantly and materially different findings from the Board. Pennsylvania Liquor Control Board v. Pollock, 86 Pa. Commonwealth Ct. 168, 484 A.2d 206 (1984). Here, there was no significant material change to the Boards findings of fact; therefore, the lower court was precluded from modifying the penalty.
+Accordingly, we reverse.
+Order
+And Now, May 21, 1986, the order of the Court of Common Pleas of Montgomery County, No. 353 July 1984 Mise., dated September 11, 1984, is reversed and the order of the Pennsylvania Liquor Control Board is reinstated.
+Jurisdiction relinquished.
