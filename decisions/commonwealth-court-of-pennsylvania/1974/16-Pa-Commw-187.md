@@ -1,0 +1,32 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 417 C.D. 1974"
+decided: "1974-12-17"
+citations: ["16 Pa. Commw. 187"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Kramer, Wilkinson, Jr. and Rogers, sitting as a panel of three."]
+parties: ["Theodore Brewer, Appellant, v. Workmen’s Compensation Appeal Board, Hughes-Foulkrod and American Mutual Liability Insurance Company, Insurance Carrier, Appellees."]
+source_url: "https://static.case.law/pa-commw/16/cases/0187-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1863305
+cites_cases: ["13 Pa. Commonwealth Ct. 1", "13 Pa. Commonwealth Ct. 187", "233 A. 2d 891", "246 A. 2d 668", "301 A. 2d 125", "305 A. 2d 741", "317 A. 2d 337", "318 A. 2d 767", "427 Pa. 5", "431 Pa. 446", "7 Pa. Commonwealth Ct. 659", "9 Pa. Commonwealth Ct. 253"]
+---
+
+# Brewer v. Workmen's Compensation Appeal Board
+
+## Majority (Judge Wilkinson,)
+
+Opinion by
+Judge Wilkinson,
+This case has a long and somewhat complicated history which, for the purposes of this opinion, needs not he set forth in its entirety. Claimant-appellant injured his right ankle in 1962 while in the employ of appellee. A claim petition was filed and after a hearing, the referee made the following finding on December 2, 1963: “6. We find as a fact that as a result of the accidental injury to his right lower leg, the claimant suffered a severe sprain resulting in chronic causalgia, traumatic arthritis of his right ankle, peripheral vascular disease of his right lower extremity and neuritis which resulted in his becoming totally disabled on May 7,1962, continuing to April 7, 1963, inclusive. Beginning April 8, 1963 the claimant’s disability changed from total to a twenty-five percent (25 %) partial disability and loss of earning power, continuing to July 11, 1963, inclusive. Beginning July 12,1963, his disability changed to a fifteen percent (15%) partial disability and loss of earning power, continuing to November 14, 1963, the date of hearing, and indefinitely thereafter.” This decision was not appealed.
+On January 29, 1966, appellant reinjured his right ankle and on March 16, 1967, filed a petition to modify the previous award on the grounds that the 1962 injury caused or contributed to the 1966 injury, alleging that the 1966 injury totally disabled him. Hearings were held and testimony was taken from the appellant, his orthopedic surgeon, and the appellee’s orthopedic surgeon. On April 22, 1968, the referee awarded total disability from January 29, 1966, to April 19, 1966, and 15% disability and loss of earning power thereafter. Then followed a series of appeals which eventually resulted in additional testimony being taken from the same three witnesses before a referee in 1973, a hearing before the Workmen’s Compensation Appeal Board on December 12, 1973, and an opinion of the Board on March 14, 1974, affirming the April 22, 1968 referee’s award. Appellant then filed this appeal.
+The main issue here is whether the Board erred in not finding total disability after the 1966 injury. Appellant claims that since appellee offered no evidence that work of the type appellant was able to perform was available, a finding of total disability is required in accordance with the holdings in Petrone v. Moffat Coal Company, 427 Pa. 5, 233 A. 2d 891 (1967), and Barrett v. Otis Elevator Company, 431 Pa. 446, 246 A. 2d 668 (1968).
+This Court has had occasion to examine issues similar to that involved here in Schrader & Seyfried, Inc. v. Cerny, 7 Pa. Commonwealth Ct. 659, 301 A. 2d 125 (1973), and Pardee v. Erie City Iron Works, 9 Pa. Commonwealth Ct. 253, 305 A. 2d 741 (1973). In those cases, we held that neither Petrone, supra, nor Barrett, supra, places upon the employer-appellee the burden of showing the availability of work where the claimant has not proved a change in his condition of disability previously determined. In this case, the Board found that claimant was 15% disabled on and after April 20, 1966, which is the same percentage disability as before the 1966 injury. The issue thus becomes whether claimant-appellant has carried his burden of showing a change from his previously determined 15% disability after April 20,1966.
+Where the claimant has the burden of proof, and the compensation authorities have found against him, our scope of review is to determine whether there has been a capricious disregard of competent evidence. Barrett, supra. Capricious disregard of competent evidence is a wilful and deliberate disregard of competent testimony and relevant evidence which one of ordinary intelligence could not possibly have avoided in reaching the result. Isherwood v. Township of Penn Hills, 13 Pa. Commonwealth Ct. 187, 318 A. 2d 767 (1974). Although we agree that competent evidence, having been admitted, may not have been accepted when it conflicted with other competent evidence, this does not constitute capricious disregard. Furthermore, we find that the facts found by the referee are supported by sufficient competent evidence.
+The medical testimony taken prior to the 1968 award was conflicting. Appellee’s doctor was of the opinion that claimant was completely healed from his 1966 injury and was merely a malingerer. Claimant’s doctor said claimant was 15% disabled and qualified only to do light work. Claimant relies heavily on his doctor’s assertion that the 1966 injury caused a new condition, synovitis of the ankle joint. However, on cross-examination, appellant’s orthopedic surgeon admitted that he didn’t know whether synovitis was present prior to the 1966 injury. The testimony taken from the same doctors in 1973 was essentially unchanged. When substantial competent evidence supports the facts found, a decision based thereon cannot be reversed although other evidence would also have supported a contrary result. Fitzpatrick v. Philadelphia Electric Company, 13 Pa. Commonwealth Ct. 1, 317 A. 2d 337 (1974).
+Appellant has failed to prove any change in his disability and loss of earning power of 15% after April 20, 1966, and, therefore, appellee was under no duty to show that work was available. Par-dee, supra.
+Accordingly, we enter the following
+Oedee
+Now, December 17,1974, the order of the Workmen’s Compensation Appeal Board, dated March 14, 1974, is affirmed.
