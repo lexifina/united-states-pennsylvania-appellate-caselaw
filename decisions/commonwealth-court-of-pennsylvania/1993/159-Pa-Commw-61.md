@@ -1,0 +1,43 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "534 C.D. 1993"
+decided: "1993-10-13"
+citations: ["159 Pa. Commw. 61", "632 A.2d 638"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before PALLADINO and PELLEGRINI, JJ., and NARICK, Senior Judge."]
+parties: ["Donald J. JOLL, Petitioner, v. STATE EMPLOYES’ RETIREMENT BOARD, Respondent."]
+source_url: "https://static.case.law/pa-commw/159/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1452543
+cites_cases: ["117 Pa.Commonwealth Ct. 564", "148 Pa.Commonwealth Ct. 417", "156 Pa.Commonwealth Ct. 83", "512 Pa. 377", "517 A.2d 523", "525 Pa. 40", "99 Pa.Commonwealth Ct. 69"]
+---
+
+# Joll v. State Employes' Retirement Board
+
+## Majority (PELLEGRINI, Judge.)
+
+PELLEGRINI, Judge.
+Donald J. Joll (Joll) appeals the order of the State Employes’ Retirement Board (Board) dismissing his challenge to the State Employes’ Retirement System (SERS) calculation of the final average salary used in determining his pension benefits.
+Joll became a member of SERS in 1955 when he joined the Pennsylvania State Police. On February 7, 1988, when Joll held the rank of sergeant, arbitration between the Commonwealth and the Conference of State Police Lodges (FOP) pursuant to Act 111 resulted in an award which included an increase of $2,000 in rank differential pay for sergeants payable on July 1,1988. The increase in rank differential was not paid because the Commonwealth appealed the entire arbitration award to this Court. On June 18, 1988, we vacated the rank differential portion of the award in Commonwealth v. Conference of State Police Lodges, 117 Pa.Commonwealth Ct. 564, 546 A.2d 697 (1988). The FOP then appealed this Court’s decision to the Pennsylvania Supreme Court.
+Before the Supreme Court took any action on the allocatur petition tiled in that matter, Joll retired from the State Police. In December, 1988, the Commonwealth informed Joll that it intended to voluntarily pay the increased rank differential sometime in early 1989 notwithstanding that this Court had ruled in its favor. Because his pension was calculated based on his length of service and his “final average salary” within the last four quarters, Joll then contacted SERS requesting that the amount of the rank differential pay be included in the calculation of his final average salary for retirement allowance purposes. On January 27, 1989, Joll received both the rank differential payment of $1,838.44, as well as the SERS decision refusing his request to have his final average salary recomputed to reflect that payment.
+Joll filed an appeal of SERS’ refusal to the Board to include the late payment of increased rank differential in the calculation of his pension benefits. The appeal was referred to a hearing officer to take evidence and make recommendations. While the hearing officer recommended that his pension be recalculated based on the increased rank differential, the Board refused to implement the hearing officer’s recommendation because it was not “actually received” prior to his retirement and sustained the SERS calculation. This appeal followed.
+Joll contends that the Board erred by not crediting the wage differential payment to his last quarter compensation. He argues that under the collective bargaining award, the rank differential was to be paid by July 1, 1988, and, as such, was compensation for that quarter within the meaning of Section 5102 of the State Employees’ Retirement Code (SERC), 71 Pa.C.S. § 5102. We agree.
+Consistently, we have held that for purposes of pension calculation, compensation received is inexorably tied to when it was due to be paid, not when it was paid. In Abramski v. Public School Employees’ Retirement System, 99 Pa.Commonwealth Ct. 69, 512 A.2d 106 (1986), we recognized that under similar language in the School Retirement Code, compensation is to be calculated as received in the period in which it was due to be paid. In doing so, we concluded that back-pay awarded as a result of reinstatement arbitration should be constructively credited to when it would have been earned and paid if the employee had not been improperly dismissed and not in the period the lump-sum back-pay award was actually received. In citing the potentially unfair and inconsistent results which could follow without applying such constructive receipt, the Court pointed to the example of monies being delayed by litigation which is not resolved until after the member retires. Id. at 71, 512 A.2d at 108; see also Czekanski v. Ford City Borough, 148 Pa.Commonwealth Ct. 417, 611 A.2d 791 (1992).
+The Board contends that the constructive receipt principle we adopted in Abramski is inapplicable to cases coming under the SERC because of differences in the SERC’s language and that used in the School Retirement Code under which Abram-ski was decided. The Board notes that under the School Retirement Code, compensation is defined as remuneration “received” as a state employee, while the SERC defines it as remuneration “actually received” as a state employee. However, we examined this distinction in Miller v. State Employes’ Retirement System, 156 Pa.Commonwealth Ct. 83, 626 A.2d 679 (1993), and found it to be a distinction without a difference. In Miller, a SERS member was furloughed for the period between 1980 and 1983. Grievance arbitration resulted in a back-pay award of $36,000, which was actually paid in the second quarter of 1984. Miller argued that the award should have been considered second quarter-1984 compensation because it was “actually received” at that time, even though back service credit was allocated over the years of furlough. Opposite to the position it is taking here, the Board argued that the constructive receipt principle of Abramski was equally applicable in cases under the SERC because compensation and service credit are tied together. Again, we held that compensation is “received” when it should have been paid and not when it was paid.
+The $2,000 awarded Joll through arbitration was payable as of July 1, 1988. This increase was payable to Joll by virtue of his state employment while he was still so employed as a state police officer and was compensation within the definition found in Section 5102 of the SERC. It would have been included in his final average salary but for the Commonwealth’s refusal to implement the arbitration award containing the increased rank differential when due. The delay in implementation of the award does not alter its character as compensation for the last quarter of Joll’s employment, and, as such, it should have properly been included in the calculation of his final average salary.
+We conclude that the Board erred in failing to constructively credit the amount of the rank differential received by. Joll to his last quarter earnings and, therefore, improperly calculated his final average salary under the SERC. Accordingly, we reverse.
+ORDER
+AND NOW this 13th day of October, 1993, the order of the State Employes’ Retirement Board dated February 3, 1993, is reversed.
+. The Collective Bargaining for Policemen and Firemen Act, Act of June 24, 1968, P.L. 237, No. 111, as amended, 43 P.S. § 217.1 et seq.
+. The Supreme Court subsequently reversed and reinstated the arbitration award in Commonwealth v. Conference of State Police Lodges, 525 Pa. 40, 575 A.2d 94 (1990).
+. 71 Pa.C.S. § 5102 defines “final average salary” as:
+The highest average compensation received as a member during any three nonoverlapping periods of four consecutive calendar quarters during which the member was a State employee... .
+Final average salary is then multiplied by class of service and years of credited service to determine an appropriate pension annuity. See 71 Pa.C.S. § 5702.
+. Our scope of review is limited to determining whether the Board’s findings of fact are supported with substantial evidence, whether the Board committed an error of law, or whether the constitutional rights of the parties were violated. McGovern v. State Employees’ Retirement Board, 512 Pa. 377, 517 A.2d 523 (1986).
+. Section 5102 defines "compensation” as:
+Pickup contributions plus remuneration actually received as a State employee excluding refunds for expenses, contingency and accountable expense allowances, and excluding any severance payments or payments for unused vacation or sick leave.
+71 Pa.C.S. § 5102.
+. 24 Pa.C.S. §§ 8302(a), 8102.
+. The inconsistency is obvious here because a sergeant retiring three months later would have had the increased rank differential included as compensation received when his pension was calculated.
