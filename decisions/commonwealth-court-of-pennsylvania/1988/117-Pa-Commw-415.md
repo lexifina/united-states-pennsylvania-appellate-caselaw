@@ -1,0 +1,53 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 2043 C.D. 1987"
+decided: "1988-06-30"
+citations: ["117 Pa. Commw. 415", "543 A.2d 627"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Craig and Palladino, and Senior Judge Barbieri, sitting as a panel of three."]
+parties: ["Suzanne M. LaFramboise, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/117/cases/0415-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1373758
+cites_cases: ["102 Pa. Commonwealth Ct. 355", "166 A.2d 529", "239 Pa. Superior Ct. 244", "31 Pa. Commonwealth Ct. 198", "361 A.2d 439", "375 A.2d 879", "402 Pa. 130", "518 A.2d 606"]
+---
+
+# LaFramboise v. Commonwealth, Unemployment Compensation Board of Review
+
+## Majority (Senior Judge Barbieri,)
+
+Opinion by
+Senior Judge Barbieri,
+Suzanne M. LaFramboise (Claimant) appeals an order of the Unemployment Compensation Board of Review (Board) denying her benefits on the grounds that she was discharged for willful misconduct.
+Claimant, a licensed practical nurse (L.PN.) was employed as a charge nurse with Beverly Enterprises (Employer). Employer owns Meyersdale Manor, a health care facility for the elderly. On October 7, 1987, Claimant was assigned to the third floor at Meyersdale Manor for the 11:00 p.m. to 7:00 a.m. shift. Claimant was responsible for monitoring the condition of various residents, including Edna Fullem. During her shift, Claimant charted the fact that Edna Fullem complained of extreme stabbing pain on her right side and shortness of breath. Claimant further charted two instances of the resident coughing up a small amount of bright red mucus.
+Claimant admitted she was aware of the Employers policy that any change in a patients condition is to be reported to either the doctor or the registered nurse on duty. If in doubt as to whether a patient was experiencing a change in condition, Claimant was to report or contact the registered nurse on duty. The Employers policy concerning reporting changes in a patients condition was outlined in Claimants job description in the Employers Personnel Policies and Procedures.
+Claimant conferred with two other L.P.N.s on October 7, 1986, concerning Edna Fullem s condition but did not attempt to contact the doctor or the registered nurse on call. The L.P.N. charge nurse, who came on duty the following shift, reported the same symptoms to the registered nurse who immediately called the physician. The patient was sent to the hospital, that day for tests.
+Claimant had received a written warning on March 11, 1986, for unsafe work habits when she failed to notify a doctor of a change in his patient. The written warning which Claimant received stated that whenever a patient experienced a change in condition, the physician must be notified. Claimant was discharged as a result of the prior warning and her failure to notify the patients physician or the registered nurse on call of the change in Edna Fullems condition on October 7, 1986.
+Claimant contends that her conduct on October 7, 1986, does not amount to willful misconduct as a matter of law and that several of the Boards findings are not supported by substantial evidence. Pursuant to Section 704 of the Administrative Agency Law, 2 Pa. C. S. §704, our scope of review is limited to a determination of whether constitutional rights have been violated, an error of law has been committed, or any necessary findings of feet are not supported by substantial evidence. Pacini v. Unemployment Compensation Board of Review, 102 Pa. Commonwealth Ct. 355, 518 A.2d 606 (1986).
+Claimant contends the following findings of feet are not supported by substantial evidence:
+4. During her shift on October 7, 1986, the claimant charted a significant change in a resident.
+5. The claimant did not follow the employers rules and regulations by notifying the residents doctor or the R.N. [registered nurse] in charge of resident [sic] change.
+9. The claimant originally received the Personnel Policies on June 28, 1985 and she received the new policies on March 12, 1986.
+14. The claimant has failed to establish good cause for her non-compliance with such rules and regulations.
+Claimant maintains that the Boards finding of fact number 4 is based upon inadmissible hearsay. The Administrator of Meyersdale Manor and one of the Employers registered nurses testified in part as to what occurred on October 7, 1986, from the nurses’ notes which Claimant prepared. These notes amount to statements by a party which are exceptions to the hearsay rule and are therefore admissible. Adams v. Mackleer, 239 Pa. Superior Ct. 244; 361 A.2d 439 (1976), citing Beardsley v. Weaver, 402 Pa. 130, 166 A.2d 529 (1961). Furthermore, Claimant’s own testimony echoed the observations she had made in the nurses’ notes. She herself testified that on October 7, 1986, Edna Fullem, complained of severe stabbing pain on the right side, that she had trouble catching her breath, and that she twice coughed up bloody red mucus. Claimant testified that this patient had experienced some pain on her right side and shortness of breath in the past but admitted that the severe stabbing pain and the bloody mucus were new symptoms.
+The L.PN. charge nurse who came on duty following Claimant on October 7, 1986, testified that Edna Fullem continued to exhibit the same symptoms which Claimant had charted. This witness testified further that these symptoms constituted a change in condition which she reported to the registered nurse on duty. Therefore, we hold there is substantial record evidence supporting the Boards finding of fact number 4.
+There is also substantial evidence to support the Boards finding of fact number 5. Claimant herself admitted that the Employers policy was that an L.P.N. charge nurse must report a change in a patients condition to the doctor and if in doubt, the registered nurse must be contacted.
+Claimant argues further that there is no substantial evidence to support the Boards finding of fact number 9. The Employers personnel policies and a new employee check list were admitted into the record at the initial hearing before the referee. Claimant signed the personnel policies indicating that she had read them on March 12, 1986. Earlier, on June 28, 1985, Claimant had signed the check list indicating that, among other things, she had read the initial set of personnel policies.
+Lastly, Claimant contends that her actions on October 7, 1986, in failing to report a change in Edna Fullems condition to either her doctor or a registered nurse, do not amount to willful misconduct as a matter of law. Along with this argument we will address Claimants contention that the Board lacked substantial evidence to support its finding that she lacked good cause for her actions. In support of these arguments, Claimant maintains that in her judgment, Edna Fullems symptoms on October 7, 1986, did not constitute a change in her condition which warranted a telephone call to either the doctor or the registered nurse on call. Claimant therefore contends that her failure to call the doctor or registered nurse on October 7, 1986, was a judgment call and does not amount to willful misconduct.
+Claimant admits that pursuant to the Employers policy she was to notify the patients doctor of any change in a patients condition. When in doubt as to whether the doctor should be notified, Claimant clearly knew she was to contact the registered nurse on call. There was testimony before the Board that an L.PN. charge nurse is to observe the patient but is not permitted to make assessments of a patients conditon. Such assessments must be made by a registered nurse.
+On October 7, 1986, Claimant charted symptoms exhibited by Edna Fullem. Claimant admitted that the patient had not experienced some of these symptoms before. However, Claimant failed to report these changes to the patients doctor. Rather than contacting the registered nurse on call and expressing her uncertainty as to the patients condition, Claimant asked two other L.PN.s their opinion as to whether the doctor should be contacted.
+Claimants failure to notify Edna Fullems doctor or to contact the registered nurse on call was not simply a judgment call but a violation of the Employers rule of which she was clearly aware. The L.P.N. charge nurse who came on duty after Claimant did report Edna Fullems symptoms to the registered nurse and the patient was hospitalized that day.
+Claimants actions on October 7, 1986, were in direct violation of the Employers rule of which she was aware. Further, the Boards determination that she lacked good cause for her actions is supported by the record.
+Accordingly, the order of the Board denying benefits is affirmed.
+Order
+And Now, this 30th day of June, 1988, the order of the Unemployment Compensation Board of Review dated June 19, 1987, at Decision No. B-259143, is affirmed.
+Section 402(e) of the Unemployment Compensation Law (Law) Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §802(e).
+Notes of testimony from continuation on January 21, 1987, of initial referees hearing (N.T.) at 27; Notes of Testimony from April 24, 1987 Board remand hearing (N.T. 11) at 8.
+Claimant applied for benefits which were denied by the Office of Employment Security (OES). On appeal, the referee affirmed the OES’ denial. Claimant appealed, and after a remand hearing, the Board affirmed the decision of the referee.
+N.T. II at 5.
+N.T. II at 19-20.
+N.T. II at 6-8.
+N.T. 11 at 20.
+Claimant cites Frick v. Unemployment Compensation Board of Review, 31 Pa. Commonwealth Ct. 198, 375 A.2d 879 (1977), in support of her contention that her actions on October 7, 1986, amounted to a judgment call and therefore were not willful misconduct. In that case, we found no willful misconduct where a registered nurse had noted patient complications on the patients chart but had not reported her observations to the doctor or her supervisors. Frick is distinguishable from the case at hand as there the employers representative testified that under the claimants job description, she was not required to notify her supervisor or the doctor every time she observed that a patient was suffering complications. Here, Claimants job description required that she notify the patients doctor or a registered nurse of any change in a patients condition and she had even been warned for foiling to do so in the past.
