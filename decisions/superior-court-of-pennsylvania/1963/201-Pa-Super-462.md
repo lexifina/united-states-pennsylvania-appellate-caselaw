@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 107"
+decided: "1963-09-12"
+citations: ["201 Pa. Super. 462"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Bhodes, P. J., Ervin, Wright, Woodside, Watkins, Montgomery, and Flood, JJ.", "Weight and Flood, JJ., would affirm on the opinion of Judge Reimel for the court below,"]
+parties: ["Goldfine, Appellant, v. Goldfine."]
+source_url: "https://static.case.law/pa-super/201/cases/0462-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 764292
+cites_cases: ["151 A. 2d 786", "173 A. 2d 800", "181 A. 2d 734", "188 A. 2d 859", "190 Pa. Superior Ct. 78", "196 Pa. Superior Ct. 202", "198 Pa. Superior Ct. 73", "200 Pa. Superior Ct. 251"]
+---
+
+# Goldfine v. Goldfine
+
+## Majority (Montgomery, J;,)
+
+Opinion by
+Montgomery, J;,
+This is an appeal by plaintiff-husband from an order dismissing his complaint for a divorce a.v.m. The testimony was heard and passed on by a master who recommended the divorce on the grounds of indignities. Exceptions filed by the defendant-wife (appellee) were sustained and the divorce was refused by the court. The action by the lower court was based solely on the proposition that the facts as contended by the husband did not constitute a course of conduct as' to meet the requirements of the rule concerning divorce on the grounds of indignities. Judge Reimel did not undertake to pass on the credibility of witnesses or find facts. Consequently we may find, guidance only from the master’s report in the determination of the facts of this case. In resolving such appeals we must review the record and arrive at an independent conclusion as to where the truth lies and whether a legal cause for divorce exists. Bencoster v. Benscoter, 200 Pa. Superior Ct. 251, 188 A. 2d 859. Where the testimony of the parties is conflicting however, the master’s appraisal, especially where his report presents a searching analysis and has been approved by the court below, is to be given the fullest consideration as regards the credibility of witnesses whom he has seen and heard. Bello v. Bello, 198 Pa. Superior Ct. 73, 181 A. 2d 734. Although the lower court has not expressly approved the findings of the master in this case, neither has it disapproved them. Consequently, we think the rule is applicable and we will apply it.
+In reviewing the record in the required manner we have no difficulty in arriving at the conclusion that the facts as found by the master were proper to support his recommendation. Following the first hearing at which the wife did not appear or present testimony (having notified the master through her counsel, Judge Winnet, that she did not intend to defend the action) the master found (inter alia) that the parties had been married in 1929; that at the time of the hearing he was 60 years of age and a practicing physician, she being 53 and a housewife; that beginning three years after the marriage the wife became argumentative, critical and disturbing, annoying him, his family and his patients; that she appeared regularly before his patients in a disheveled condition to impress them that she was doing maid service and she would annoy his patients by slamming doors and windows and by discussing medical and ethical problems with them; that she accused him of having sexual relations with other women and-of being the father of an illegitimate child; that she berated him publicly in other matters; and that this course of conduct resulted in a nervous breakdown suffered by him in 1959.
+Based on these findings the master recommended that a divorce be granted to the husband. Thereafter Judge Winnet withdrew his appearance for the wife, and Joseph Skale, Esq., entered his appearance and notified the master of the wife’s desire to be heard. The case was thereupon opened and further testimony taken. At subsequent hearings the wife was privileged to cross-examine the husband who had already been heard, and was allowed to produce her own evidence. Many hearings followed and about 450 pages of printed testimony were taken. Following these hearings the master confirmed the facts already found and found additional facts establishing that the wife on many occasions was guilty of conduct intended to disturb, harass, embarrass, berate, and offend her husband. Such actions clearly were sufficient to meet the requirements of the definition of indignities in the law...of divorce, viz., vulgarity, unmerited reproach, habitual contumely, studied neglect, intentional incivility, manifest disdain, abusive language, malignant ridicule, and other manifestations of settled hate and estrangement. Baio v. Baio, 196 Pa. Superior Ct. 202, 173 A. 2d 800; Trueg v. Trueg, 190 Pa. Superior Ct. 78, 151 A. 2d 786.
+We are also in agreement with the master that the evidence demonstrated that this was a course of conduct on the wife’s part and not merely isolated incidents. It started shortly after the marriage and continued until 1960. The record gives no indication that the wife’s conduct was occasional or sporadic. The evidence of the witnesses accepted as credible is to the contrary. We are satisfied that the rule requiring a continuity of such conduct in such cases has been met and satisfied.
+Order reversed and decree entered awarding a divorce a.v.m. to appellant-plaintiff, Joseph Goldfine, from the appellee-defendant, Esther Goldfine, on. the grounds of indignities to the person.
+Weight and Flood, JJ., would affirm on the opinion of Judge Reimel for the court below,
