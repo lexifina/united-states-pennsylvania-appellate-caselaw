@@ -1,0 +1,38 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "823"
+decided: "1976-09-27"
+citations: ["242 Pa. Super. 271", "363 A.2d 1265"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ronald D. TRAWICK and Donna L. Trawick, husband and wife v. NATIONWIDE MUTUAL INSURANCE COMPANY, Appellant."]
+source_url: "https://static.case.law/pa-super/242/cases/0271-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 821645
+cites_cases: ["122 Pa.Super. 342", "137 Pa. 98", "152 Pa.Super. 203", "186 A. 269", "20 A. 396", "215 Pa. 410", "226 Pa.Super. 381", "227 Pa.Super. 50", "31 A.2d 570", "313 A.2d 750", "323 A.2d 107", "463 Pa. 237", "64 A. 559"]
+---
+
+# Trawick v. Nationwide Mutual Insurance
+
+## Majority (PER CURIAM:)
+
+PER CURIAM:
+The sole issue presented by this appeal is whether the lower court erred in refusing appellant’s motion for judgment notwithstanding the verdict.
+Our scope of review in assessing a lower court’s ruling on a motion for judgment n. o. v. was comprehensively summarized by Judge HOFFMAN in his opinion for the court in Eldridge v. Melcher, 226 Pa.Super. 381, 386, 313 A.2d 750, 753 (1973) (citations have been omitted) :
+A judgment n. o. v. is the directing of a verdict in favor of the losing party, despite a verdict to the contrary. It may only be entered in a clear case where the evidence is insufficient to sustain a verdict against him. Judgment n. o. v. is inappropriate if the evidence on a material point presented an issue of fact for decision by the jury. This method of attacking the verdict may never be utilized so as to invade the province of the jury, especially where that determination is based partly on questions of conflicting testimony and credibility of witnesses. Where such questions were determined by the trier of fact, and if there is reasonable support for the verdict which was rendered, a judgment n. o. v. will not be granted, as the weight of the evidence is a jury matter and may only be raised by a motion for a new trial if the verdict is contrary to the weight of the evidence. As to whether there is reasonable support in the evidence for the verdict, it should be noted that the evidence may be found sufficient, though it be meager or uncorroborated. (Emphasis added)
+Applying this standard of review to this case, we affirm.
+Appellees brought this action in assumpsit to recover $643.15 under the collision coverage provisions of their insurance policy with appellant. It was the theory of ap-pellees’ case that they had made timely payment of their insurance premiums prior to the automobile accident in which appellee wife was involved on September 11, 1974, and which gave rise to appellees’ claim, or, alternatively, that appellant had waived timely payment by its course of conduct with appellees during prior years.
+In support of appellees’ position that their premium payment was timely and their insurance coverage consequently effective on the date of the accident, appellee wife testified that she had paid the $75.00 premium by check dated September 6, 1974, and numbered as check 72, and that she had mailed the payment on the same day so that it would arrive at appellant’s regional office on September 7, 1974, the payment deadline. A beautician, she explained that she and a friend wished to go to a beauty convention in Erie on September 7, and that she did not wish to make the trip from her home in Warren to Erie by car without insurance coverage.
+Appellees also produced at trial a series of cancelled checks and their check register. It was apparent from this documentary evidence, and from appellee wife’s direct testimony, that check number 72, dated September 6, 1974, in payment of the insurance premium, had been numbered and recorded out of sequence. Specifically, it was shown that check number 72 appeared in the check register immediately following checks number 70 and 71, both dated September 10, and immediately prior to check number 73 dated September 14. In anticipation of appellant’s cross-examination, appellee wife testified that she had had insufficient funds in appellee’s checking account when she drew check number 72 on September 6, and had not recorded the check until she had covered the amount of the check with a deposit on September 10. She explained the discrepancy in the sequential numbering of the checks as an oversight on her part, and testified that she often numbered her checks mistakenly if she is hurried or otherwise preoccupied.
+Appellant attempted to counter the testimony presented by appellees by the testimony of its accounting supervisor that appellees’ check was deposited by appellant on September 16 and therefore could not have been received any earlier than September 13. There was other testimony in the record, however, that it takes appellant ten days to process premium checks (so that appellees’ check of September 6 might have been punctual.)
+The foregoing recital demonstrates a manifest conflict in the evidence that had to be resolved by the jury. On appeal, we “will not review the determination of questions of fact made upon disputed evidence,” 6A Standard Pennsylvania Practice 209 (1960), and, applying the proper standard of review, Eldridge v. Melcher, supra, we find no error in the denial of appellant’s motion for judgment n. o. v. As stated by Chief Justice Mitchell in Dalmas v. Kemble, 215 Pa. 410, 413, 64 A. 559, 560 (1906), “if it should appear that there was conflict of evidence on a material fact, or any reason why there could not have been a binding direction, then there can be no judgment against the verdict now. As already said, there is no intent in the act [12 P.S. § 681 (Supp.1976)] to disturb the settled line of distinction between the provinces of the court and the jury.”
+Since the jury could properly have found that appellees had made timely payment of their insurance premium, we need not consider the alternative theory of appellees’ case.
+Order affirmed.
+. Appellant also asserts that the lower court should have granted appellant’s request for a directed verdict. Since the record shows that appellant did not make such a request, we will not address this contention. Readdy v. Borough of Shamokin, 137 Pa. 98, 20 A. 396 (1890).
+Appellant also presented a motion for new trial to the lower court alleging that the verdict was contrary to the evidence, against the weight of the evidence, and contrary to law. In this appeal, appellant does not challenge the lower court’s denial of this motion.
+. The policy’s expiration date was August 22, 1974, but payment could be made within a sixteen-day grace period following the expiration date without loss of continuous coverage.
+. It was appellant’s position that the check had been backdated after the occurrence of the accident to make it appear that the premium had been paid on time.
+. The testimony showed that, in fact, such a deposit had been ‘ made. (Record at 30a).
+. This evidence was supplied by appellee husband’s testimony concerning statements made to him by one of appellant’s insurance. agents and by an underwriter employed by appellant (Record at 35a, 37a). No objection was made to the admission of this testimony. Compare Campbell v. G. C. Murphy Co., 122 Pa.Super. 342, 347-48, 186 A. 269, 271 (1936) and Sebastianelli v. C. Simpson Co., 152 Pa.Super. 203, 207, 31 A.2d 570, 571 (1943) with F.R. Evidence 801(d)(2)(C) & (D).
+. We may affirm the order of the lower court where it is correct on any legal ground or theory disclosed by the record. Lambert v. Pittsburgh Bridge & Iron Works, 227 Pa.Super. 50, 56, 323 A.2d 107, 110, aff’d, 463 Pa. 237, 344 A.2d 810 (1975).
