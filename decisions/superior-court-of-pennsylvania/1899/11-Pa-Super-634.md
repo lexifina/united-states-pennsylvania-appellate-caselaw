@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 161"
+decided: "1899-11-20"
+citations: ["11 Pa. Super. 634"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, Smith, W. W. Porter, W. D. Porter and Beeber, JJ."]
+parties: ["Hooper, Seving & Company v. Bromley Brothers Carpet Company, Appellant."]
+source_url: "https://static.case.law/pa-super/11/cases/0634-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 820917
+cites_cases: ["1 Pa. Superior Ct. 458", "12 N. Y. 40", "130 Pa. 536", "149 Pa. 274", "166 Pa. 9", "169 Pa. 463", "2 W. & S. 216", "46 Pa. 179", "49 N. H. 376", "62 Pa. 148", "63 Mo. 563", "73 Pa. 387", "8 Watts, 239"]
+---
+
+# Hooper, Seving & Co. v. Bromley Bros. Carpet Co.
+
+## Majority (Beaver, J.,)
+
+Opinion by
+Beaver, J.,
+There is practically no difference between the plaintiff and defendant as to the verbal contract, the breach of which constitutes the basis of this action. It was for twenty-five bales of a specified sort of cotton yarn, well known to the trade, to be delivered at the rate of five bales per week. After the delivery of ten bales, the order was countermanded and the defendant refused to receive the rexnainder. The verdict of the jury establishes the fact that the defendant company had no sufficient grounds for such a refusal and it may be also taken as settled by the verdict of the jury that the breach of the contract occurred when the defendant company finally refused, about October 1, to fulfil the terms of the contract.
+The errors assigned relate to the answer of the court below to the points of the plaintiffs and defendant respectively. The sale by the plaintiffs to the defendant was not executed, that is, there was no delivery, and the contract being for the delivery of an ordinary article of commerce, was an executory contract. In the case of an executory contract for the sale of goods not specified, the rule undoubtedly is that the measure of damages for a refusal to receive the goods is the difference between the price agreed upon and the market value on the day appointed for delivery : Unexcelled Fire-Works Co. v. Polites, 130 Pa. 536; Corser v. Hale et al., 149 Pa. 274; Keeler Co. v. Schott, 1 Pa. Superior Ct. 458. How is this difference in price to be ascertained ? In 3 P. & L. Dig. of Dee. 4597, the following rule is laid down: “ Upon the failure of a vendee to receive and pay for goods, the vendor may re-sell and, if the sale is bona fide and proper, he may recover the difference between the price obtained and the •contract price. 2255-2256. But the price thus obtained is not conclusive where a more equitable method of ascertaining the value of the goods can be found. 2257-2259.” The plaintiffs sold the goods which the defendant -company refused to accept at public auction. Their own testimony shows that the yarn was so sold at an unusual place and not in the usual way. But in any event the defendant was entitled to the benefit of any evidence which tended to show the market value at the time fixed for delivery. The rule laid down by the court, therefore, in answer to the plaintiffs’ point, was not strictly correct. It was said in Guillon et al. v. Earnshaw, 169 Pa. 463, which was an action for the recovery of damages for the failure of a contract on the part of the defendants to accept iron ore agreed to be shipped by the plaintiffs, “ the measure of damages was the actual loss and they lost the difference between what defendant had contracted to pay for the ore and the market price at Cartagena, when they discovered definitely he would not receive it. They had a right to sell it at Cartagena not for any price but for the market price, to German or any other buyers. In making the sale they were bound to exercise reasonable and intelligent judgment in ascertaining the market price at that point.” If- the answer to the point of the plaintiffs had been sufficiently guarded, there would have been little to complain of, but it is not correct to say, as a hard and fast rule, that “ The proper way to determine the market price of yarn is to have it sold at public sale and what it realizes, after proper advertising and notice at public sale, is the market price.” See also Andrews v. Hoover, 8 Watts, 239; McCombs v. McKennan, 2 W. & S. 216. The court very properly refused the defendants’ point for the reason that it assumed facts which were in dispute. It would seem as if the defendant company should have had the benefit of the resale of the two bales of yarn delivered to them by the plaintiff which they refused to accept and which were sold immediately at a price little below what the defendant company had agreed to pay. For the reasons stated, the first and third assignments of error are sustained. Judgment reversed and a new venire awarded.
