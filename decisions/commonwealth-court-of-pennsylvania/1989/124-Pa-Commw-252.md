@@ -1,0 +1,42 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeals Nos. 66 T.D. 1988 and 67 T.D. 1988"
+decided: "1989-03-17"
+citations: ["124 Pa. Commw. 252", "555 A.2d 972"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges CRAIG and PALLADINO, and Senior Judge NARICK, sitting as a panel of three."]
+parties: ["Paul L. Miller and Bettie J. Miller, Appellants v. Clay Township, Appellee."]
+source_url: "https://static.case.law/pa-commw/124/cases/0252-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1385172
+cites_cases: ["15 Pa. Commonwealth Ct. 621", "289 Pa. Superior Ct. 39", "328 A.2d 866", "358 Pa. Superior Ct. 53", "363 Pa. Superior Ct. 534", "379 Pa. Superior Ct. 454", "517 Pa. 607", "536 A.2d 1331"]
+---
+
+# Miller v. Clay Township
+
+## Majority (Senior Judge Narick,)
+
+Opinion by
+Senior Judge Narick,
+This case comes to as on appeal by Paul L. Miller and Bettie T Miller (hereinaft - collectively referred to as Appellants) from a decision and order of the Court of Common Pleas of Butler County granting the petition to enforce settlement filed by Clay Township (Township). For the reasons set forth herein, we reverse and remand.
+The sole issue presented for our review herein is whether the trial court’s granting of the Township’s petition to enforce settlement was proper.
+Before addressing this issue, the following factual background is necessary for an understanding of this case. Appellants are the owners of certain property located in the Township. Bordering along the eastern boundary line of their property is a Township roadway commonly known as Cupec Road. Because they believed the Township had constructed Cupec Road in a manner which improperly encroached and entered onto their property, Appellants filed a petition m • appointment of viewers and a complaint in equity naming the Township as respondent and defendant respectively. A pre-trial conference was held on these matters. At the pre-trial conference, both parties made offers to settle the matter but no agreement to settle was reached. However, a subsequent letter dated September 17, 1987 from Appellants’ counsel indicated that Appellants were willing to accept the Township’s pre-trial conference offer to settle. This letter addressed to Attorneys Charles Flach and Ned Trbovich, attorneys for the Township, relevantly provided:
+Gentlemen:
+I called Attorney Flach and left a message that Mr. and Mrs. Miller would agree to settle the case based upon the last remaining offer made at the recent pre-trial conference. Mr. and Mrs. Miller are hopeful of establishing the roadway surface so that all Parties will clearly understand their rights, obligations and duties.
+I understand that the Township will pay the Millers $1300.00; that the parties will agree upon the placement of the roadway of Cupec Road with the help of an engineer, either Mr. McGarvey or someone else to be hired by the Township if necessary; letters will be sent to all residents of Cupec Road specifically stating that the Township is responsible for road maintenance, snow removal, and cutting grass and that Township residents should not engage in this activity; and lastly, that these agreed upon matters be achieved within a reasonable time, perhaps by October 31, 1987.
+It would be important to have the road surface properly placed in an agreed upon matter and any necessary work done before the winter sets in.
+In consideration of the above settlement, both this lawsuit and the condemnation proceeding filed involving the same matter will be settled. ... I would believe that a short agreement signed by the parties and adopted by the court as a court order implementing the pre-trial conference be adopted.
+I have taken the liberty of sending a copy of this letter to Judge O’BRIEN who conducted the pretrial on this matter so that he may be aware that this case has been settled and that he will most probably receive a consent order for signature in the near future.
+1 look forward to hearing from you regarding the final documentation regarding settlement of these cases. ... (Emphasis added.)
+On October 27, 1987, the court of common pleas issued an order continuing the matter for the purposes of settlement. A second order was also issued by the court on October 27, 1987. This order outlined the proposed settlement terms of the parties and indicated the matter would be stricken from the trial list. However, as to the placement of markers on Cupec Road, the order stated: “If the Plaintiffs [Appellants] are dissatisfied with where the markers are placed, then this case will be placed on the next available trial term for trial”. The order went on to say that: “If the markers are placed in a manner satisfactory to the Plaintiffs [Appellants], then they shall in writing notify the attorney for the Defendant [Township] ...”.
+The record further reveals that in a letter dated December 9, 1987 to the Township, Appellants’ counsel advised the Township that the placement of the road markers was not satisfactory. In a letter dated December 17, 1987 from Appellants’ counsel to the Township, Appellants’ counsel advised the Township that they were placing the matter back on the trial list. Shortly thereafter, the Township filed a petition to enforce settlement. After a hearing on the matter, the court of common pleas granted the Township’s petition to enforce settlement. This appeal followed.
+Judicial policy favors the settlement of lawsuits and in the absence of fraud and mistake the courts will enforce an agreement to settle a legal dispute. Greentree Cinemas, Inc. v. Hakim, 289 Pa. Superior Ct. 39, 432 A.2d 1039 (1981). Also see Manzitti v. Amsler, 379 Pa. Superior Ct. 454, 550 A.2d 537 (1988) and School District of Philadelphia v. Framlau Corp., 15 Pa. Commonwealth Ct. 621, 328 A.2d 866 (1974). Principles' of contract law govern the enforceability of settlement agreements. See Century Inn, Inc. v. Century Inn Realty, Inc., 358 Pa. Superior Ct. 53, 516 A.2d 765 (1986); Framlau Corp. If all the material terms of the bargain are agreed upon, the agreement of settlement will be enforced. Century Inn, Inc. An agreement will be considered sufficiently definite and enforceable if the parties intended to make a contract and there is a reasonably certain basis upon which the court can grant a proper remedy. Greene v. Oliver Realty, Inc., 363 Pa. Superior Ct. 534, 526 A.2d 1192 (1987) appeal denied, 517 Pa. 607, 536 A.2d 1331 (1987). However, ambiguities and undetermined matters which render a settlement agreement impossible to understand and enforce require that the agreement be set aside and the matter remanded for a trial on the merits. Greentree.
+Appellants’ position is that no final settlement agreement occurred because there is no agreement as to the placement of Cupec Road. The Township counter-argues that Appellants only voiced concern as to the road markings after final settlement had been reached.
+We must agree with Appellants’ position herein that no final settlement had been reached. There is no evidence in the record that Appellants had agreed to any final placement of the roadway and this was the essence of the dispute between the parties. The letter of September 17, 1987 indicated that the placement of the roadway would be agreed upon by the parties at a future date. The October 27, 1987 order indicated that if the Appellants were dissatisfied with the placement of the roadway they could place the matter back on the trial list. This order further required Appellants if they were satisfied with the roadway to notify the Township in writing. There is no evidence of record that Appellants ever agreed to the placement of the roadway. Clearly, there is no enforceable agreement of settlement because a material term of the agreement—placement of the roadway—was not agreed upon.
+For this reason, the trial court must be reversed and the matter remanded to the court for a hearing on the merits.
+Order
+And NOW, this 17th day of March, 1989, the order of the Court of Common Pleas of Butler County in the above-captioned matter is hereby reversed and the matter is remanded to the court of common pleas for a hearing on the merits.
+Jurisdiction relinquished.
+Appellants filed a motion to consolidate the appeals before the Commonwealth Court and the motion was granted.
