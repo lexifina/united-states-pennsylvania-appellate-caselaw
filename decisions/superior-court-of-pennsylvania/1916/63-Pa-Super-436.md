@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 279"
+decided: "1916-07-18"
+citations: ["63 Pa. Super. 436"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Bice, P. J., Orlady, Head, Porter, Henderson, Kepi-iart and Trexler, JJ."]
+parties: ["Philadelphia, to use, v. DeArmond, Appellant."]
+source_url: "https://static.case.law/pa-super/63/cases/0436-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 456942
+cites_cases: ["113 Pa. 349", "147 Pa. 532", "159 Pa. 515", "159 Pa. 517", "18 Pa. Superior Ct. 398", "19 Pa. Superior Ct. 396", "204 Pa. 110", "226 Pa. 475", "232 Pa. 371", "245 Pa. 101", "30 Pa. 63", "40 Pa. Superior Ct. 609", "45 Pa. 488", "92 Pa. 78", "99 N. Y. App. Div. 94"]
+---
+
+# Philadelphia v. DeArmond
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+The opinion of President Judge Audenried of the court below, which will appear in the report of this case renders an extended discussion of the questions presented unnecessary. The appellant states the questions involved to be two; (1) Is it lawful for a plaintiff to sue a defendant in two courts at the same time and upon the same claim or cause of action? (2) Does the Act of April 4th, 1907, P. L. 40, as amended by the Act of March 25, 1909, P. L. 78, violate the provisions of Article III, Section 7, of the Constitution, forbidding the passage of any local or special laws providing or changing methods for the collection of debts?
+The first question is supposed to be based on the fact that the municipal claim for an assessment for a street improvement in front of the property of the defendant had been filed in the Court of Common Pleas before this action of assumpsit for the collection of the claim was instituted. The court below properly held that the filing of the claim was not an election to proceed for its recovery by an action in rem against the property, to enforce the lien which was an incident of the claim. The filing of the claim was not an action for its recovery, the defendant was not required to answer or do anything concerning it, it did not invoke the jurisdiction of the court to enter any judgment or decree. There is no question that the assessment had been regularly made and that the claim was filed in the Court of Common Pleas within the time required by existing legislation. The claim was a lien upon the property before it was filed in the Common Pleas and it continued to be a lien after it was filed, the filing merely preserved the status quo. The defendant was still free to challenge the validity of the claim in any action for its recovery, whether in rem or assumpsit which the municipality, might institute. The distinction between the lien of a municipal claim upon property assessed and the procedure for its recovery is clearly illustrated by the decision of the Supreme Court in McKeesport Borough v. Fidler, 147 Pa. 532. The Act of June 4, 1901, Section 10, as amended by the Act of May 1,1907, provides that claims for taxes and other municipal claims shall be filed within certain specified periods after the assessment thereof, and “If a claim be not filed within the time aforesaid, or if it.be not prosecuted in the manner and in the time aforesaid it shall be wholly lost.” It is to be observed that the words of the statute are not that the claim shall cease to be a lien, but that it shall be “wholly lost.” It, therefore, follows that if the claim is not filed within the period fixed by that statute the municipality cannot recover in any form of action. The filing is necessary to avoid a lapse of the claim.
+The contention of the appellant, as to the second question alleged to be involved: “Do the Acts of 1907, P. L. 40 and 1909, P. L. 78, violate the provisions of Article III, Section 7, of the Constitution, forbidding the passage of any local or special laws providing or changing methods for the collection of debts, “is not well founded. The decisions cited by the appellant in support of his contention relate to contracts or transactions between private individuals, and the collection of private debts, such questions as arose under the Mechanics’ Lien Law of June 4, 1901, P. L. 431. Assessments for benefits arising from municipal improvements are an exercise of the sovereign power of taxation. No private individual can, under our system of government, be invested with this power. It is entirely competent for the legislature to provide one system of procedure for the collection of taxes, necessary to the support of the government, and an entirely different system of procedure for the collection by individuals of private debts due them, the remedies which are necessary for the orderly administration of the government may be manifestly unsafe and inappropriate to be entrusted to the whim of private individuals. It is within the legislative power of the Commonwealth to grant to municipalities a remedy for the collection of taxes against property by a personal action against the owner: Barnesboro Borough v. Speice, 40 Pa. Superior Ct. 609, and cases there cited; Franklin v. Hancock, 18 Pa. Superior Ct. 398 and 204 Pa. 110.
+The judgment is affirmed.
