@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2955 C.D. 1983"
+decided: "1985-01-24"
+citations: ["87 Pa. Commw. 176"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to President Judge Crumlish, Jr., Judge Colins and Senior Judge Blatt, sitting as a panel of three."]
+parties: ["Patricia J. Green, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/87/cases/0176-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1327736
+cites_cases: ["24 Pa. Commonwealth Ct. 54", "353 A.2d 915", "404 A.2d 434", "428 A.2d 288", "44 Pa. Commonwealth Ct. 312", "462 A.2d 345", "58 Pa. Commonwealth Ct. 531", "75 Pa. Commonwealth Ct. 449"]
+---
+
+# Green v. Commonwealth
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+Patricia J. Green (claimant) appeals here from an order of the Unemployment Compensation Board of Review (Board) which affirmed a referee’s decision denying benefits pursuant to Section 3 of the Unemployment Compensation Law (Law), Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, 43 P.S. $752. (A claimant is ineligible for benefits where she is unemployed through her own “fault.”)
+The claimant, a licensed practical nnrse, was employed by Polk Center, a Commonwealth institution for the mentally retarded operated by the Department of Public Welfare (employer), for a period of fifteen months ending in March 1983. During part of that time, from November 1981 until August 1982, she received welfare benefits from the Department of Public Assistance, but did not report to that Department her income from employment at the Polk Center. After learning that the claimant had been charged with making false statements to obtain public assistance, the Department of Public Welfare investigated the charges and subsequently dismissed her.
+Her application for unemployment compensation benefits was denied by the Office of Employment Security under Section 402(e) of the Law, 43 P.S. §802(e) (willful misconduct). The referee, however, determined on appeal that the employer’s reason for dismissing the claimant was not work related and, therefore, denied benefits pursuant to Section 3 of the Law, which provides that a claimant is ineligible for benefits where her unemployment is due to her own fault. The Board affirmed the referee’s decision and the present appeal ensued.
+The claimant raises two legal issues: (1) that the Board erred as a matter of law when it concluded that she was unemployed through her own fault; and (2) that the offending conduct was too remote in time from her dismissal to constitute a basis for a subsequent denial of unemployment compensation benefits. And, of course, our scope of review includes all questions of law. Section 704 of the Administrative Agency Law, 2 Pa. C. S. §704.
+Although the claimant admits that she received welfare payments illegally, she argues that her actions were not sufficiently related to her job at Polk Center so as to warrant the denial of unemployment compensation benefits. Relying on Drumm v. Unemployment Compensation Board of Review, 75 Pa. Commonwealth Ct. 449, 462 A.2d 345 (1983), she contends that the Board erred here in that the charge had no direct effect on her ability to perform her job, it did not result in adverse publicity for the employer who was never identified by the media coverage, it did not lead to disruption in the work place and, moreover, her position as a practical nurse at Polk Center did not require her to deal directly with the public.
+In Dmmm, we reversed a Board decision which held that a machine operator at Anchor Hocking Corp., who had been arrested on morals charges, was ineligible for unemployment compensation benefits pursuant to Section 3 of the Law. We concluded that the record in that case failed to reflect a sufficient nexus between the conduct attributed to the claimant and his ability to perform his job. We reiterated our position as earlier stated in Unemployment Compensation Board of Review v. Derk, 24 Pa. Commonwealth Ct. 54, 57, 353 A.2d 915, 917 (1976) that
+[i]n order to deny compensation under Section 3 of the Act [Law], more is needed than mere evidence of an arrest for a crime. The employer must present some evidence showing conduct of the claimant leading to the criminal arrest which is inconsistent with acceptable standards of behavior and which directly reflects upon his ability to perform his assigned duties. (Emphasis in original.)
+The claimant in Drmmn never admitted to the charges brought against him nor was the employer there able to offer any evidence to establish that the claimant’s alleged behavior was incompatible with his duties as a machine operator.
+Here, however, we believe that the claimant admitted to defrauding her employer when she testified at the hearing before the referee that she had continued to receive welfare payments after beginning her job at Polk Center and that she had not reported her new income to the Department of Public Assistance, even though she was aware of her obligation to do so. We have previously held that an admission of fraudulent activity perpetrated against the employer establishes both an unacceptable standard of behavior and directly reflects upon a claimant’s ability to handle her duties, inasmuch as an employee owes her employer both loyalty and honesty. See Wilson v. Unemployment Compensation Board of Review, 58 Pa. Commonwealth Ct. 531, 428 A.2d 288 (1981). We believe, therefore, that Drumm is not controlling.
+The claimant also argues that the offending conduct here — i.e. the illegal acceptance of welfare payments — was too remote in time from her dismissal to constitute a basis for their denying unemployment compensation benefits. See Tundel v. Unemployment Compensation Board of Review, 44 Pa. Commonwealth Ct. 312, 404 A.2d 434 (1979). While it is true that the claimant here had not received any welfare payments since August 1982 when she was discharged in March 1983, the record reveals that as soon as the employer learned of her fraudulent acceptance of welfare payments, it investigated the report and suspended the claimant. We believe that the employer here acted swiftly and efficiently once it knew of the offending behavior and, of course, the employer can not be expected to act prior to the time at which it learned or should have-learned of the employee’s wrongful act.
+Accordingly, we will affirm the order of the Board.
+Order
+And Now, this 24th day of January, 1985, the order of the Unemployment Compensation Board of Review in the above-captioned matter is hereby affirmed.
+The parties agreed at the hearing before the referee to proceed under Section 3 of the Law rather than pursuant to Section 402(e) of the Law.
+The record reveals that the claimant later pled guilty to the charges. We note, however, that in our review of this case we are only concerned with whether or not the charge constitutes a basis for denying benefits under Section 3 of the Law since the employer suspended and later dismissed the claimant on the basis of the charge alone. See Tundel v. Unemployment Compensation Board, of Review, 44 Pa. Commonwealth Ct. 312, 404 A.2d 434 (1979) (the Board may not rely on reasons for discharge that were not considered by the employer).
