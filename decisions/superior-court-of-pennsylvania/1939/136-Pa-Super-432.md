@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 58"
+decided: "1939-07-13"
+citations: ["136 Pa. Super. 432"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Stadtfeld, Parker, Rhodes and Hirt, JJ."]
+parties: ["Patterson, Appellant, v. Pittsburgh Railways Company."]
+source_url: "https://static.case.law/pa-super/136/cases/0432-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1018244
+cites_cases: ["123 Pa. Superior Ct. 298", "127 Pa. Superior Ct. 171", "175 A. 394", "185 A. 283", "187 A. 69", "193 A. 315", "317 Pa. 13", "322 Pa. 125"]
+---
+
+# Patterson v. Pittsburgh Railways Co.
+
+## Majority (Baldeige, J.,)
+
+Opinion by
+Baldeige, J.,
+The only complaint before us in this appeal in a trespass case is to the inadequacy of a |500 verdict.
+The plaintiff was injured on the 13th of June, 1932, at the corner of Third Avenue and Wood Street, Pittsburgh. The negligence alleged is that the defendant’s motorman prematurely started his car as plaintiff was about to board it, causing him to be thrown to the ground. Plaintiff was uncorroborated in his version of the happening of the accident. On the other hand, several witnesses, in addition to the motorman, including a passenger on the car and persons on the street in the immediate vicinity, testified that plaintiff left the sidewalk and ran into the left side of the car after it had started across the intersection. Immediately following the accident, plaintiff was taken to the hospital where he remained six days, returning for treatment twice a week for a “month or two.” He resumed his work as a reporter on a newspaper “sometime between a month and six weeks” thereafter.
+Plaintiff offered medical testimony that he sustained a lacerated scalp wound, injured skull, other bruises, and contusions, as a result of which he is now suffering from nervousness, high blood pressure, gastro intestinal trouble, etc.
+Dr. Robinson, the attending physician at the hospital, called by the plaintiff, stated that plaintiff sustained a scalp wound and contusions on the right side of his body, and the only symptom of a concussion of the brain, which was alleged, was a headache of which plaintiff complained the first few days he was in the hospital.
+Hr. McMeans, called by the defendant, who examined plaintiff three years after the accident, testified that he had made a good recovery and that he discovered no evidence of any disturbance within his skull; that he had known plaintiff for a number of years and that he had never been a healthy man.
+This case was previously tried and reached the Supreme Court (see 322 Pa. 125, 128, 185 A. 283). Mr. Justice Stern, the writer of the opinion, in referring to plaintiff’s complaints, said that they “were vague and that the causal relation of the accident to the high blood pressure from which plaintiff is now suffering, and which was said to account for most of his other symptoms, rested upon testimony which, to say the least, was extremely tenuous.” This comment is no less applicable to the testimony in the second trial. The jury very well could have concluded that the contusions and the cut in plaintiff’s head promptly healed and that there was no serious injury as the result of the accident. Plaintiff returned to work shortly after he was injured and continued to perform his duties for about three years before he was discharged. In the meantime, his salary was reduced from $67.50 to $45 a week. His superior testified that he saw no change in plaintiff’s ability as a workman after the accident, that complaints had been made prior thereto of his neglect of duties, and as he was one of the less efficient members on the newspaper staff, when the time came to curtail expenses, he was dismissed.
+Although this mishap occurred in June, 1932, plaintiff did not consult a doctor after he ceased attending the hospital until February 1933. It could be reasonably concluded that his injuries were confined to contusions, a flesh wound on the head, and possibly a slight concussion, and that his present symptoms are not attributable thereto. It was not until June 12, 1934, two years after the accident, that this suit was brought. While the court’s opinion and the briefs state that the doctor bills and expenses which plaintiff incurred amounted to $446, the testimony showed that Dr. Walters’ bill was $330 and Dr. Robinson’s, $34, or a total of $364. No other expenses were proven.
+In view of the ample evidence that plaintiff’s physical condition at the time of the trial did not result from his injuries, we cannot say that the court’s action in refusing a new trial was arbitrary or capricious. The granting or refusing of a new trial because of the inadequacy of the verdict is a matter peculiarly within the discretion of the trial court and the appellate court will not reverse the action of the court below unless the verdict is so unreasonable as to establish a clear case of injustice: Saxman v. United States Fire Insurance Co., 317 Pa. 13, 14, 175 A. 394; First Natl. Bank v. Monarch Fire Insurance Co., 123 Pa. Superior Ct. 298, 308, 187 A. 69. In Zamojc v. Fisher, 127 Pa. Superior Ct. 171, 172, 193 A. 315, a verdict of $300 in a trespass case was alleged to be inadequate. We there stated: “The amount of the verdict was not enough to reimburse the plaintiff for his time lost from work because of the accident, according to his testimony, and for his medical and hospital expenses, without any allowance for pain and suffering. But the jury might well have found that the doctor’s bill was padded, and it was for them to decide whether the injury he received required his absence from work for eighteen weeks.” So, here, we cannot say that the jury was not justified in concluding that the amount of this verdict compensated plaintiff for all injuries traceable to the accident.
+The case was fairly tried and submitted to the jury in an impartial charge, in which clear instructions were given that plaintiff was entitled to be compensated for all his expenses, pain, and suffering, and for the loss of any earning power and inability to earn wages caused by the injuries he sustained. No specific exception was taken thereto, except to a statement regarding the duty of the plaintiff to call the attention of the motorman that he was about to board the street car, which has no bearing on the question before us.
+Our conclusion is, therefore, that the learned court below, who saw and heard the witnesses, was not guilty of a clear abuse of discretion in refusing a new trial.
+Judgment affirmed.
