@@ -1,0 +1,70 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeals, Nos. 1376 and 1470 C.D. 1976"
+decided: "1977-06-03"
+citations: ["30 Pa. Commw. 403"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Menoer, Rogers and Blatt."]
+parties: ["Association of Pennsylvania State College and University Faculties, Petitioner v. Commonwealth of Pennsylvania, Pennsylvania Labor Relations Board, Respondent. Commonwealth of Pennsylvania, Petitioner v. Association of Pennsylvania State College and University Faculties, Respondent."]
+source_url: "https://static.case.law/pa-commw/30/cases/0403-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1881039
+cites_cases: ["12 Pa. Commonwealth Ct. 323", "196 A. 43", "231 A.2d 160", "316 A.2d 114", "328 Pa. 385", "354 A.2d 559", "354 A.2d 576", "426 Pa. 53", "464 Pa. 92"]
+---
+
+# Association of Pennsylvania State College & University Faculties v. Commonwealth, Pennsylvania Labor Relations Board
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+The Association of Pennsylvania State College and University Faculties (APSCUF) and the Commonwealth of Pennsylvania (Commonwealth) have brought separate appeals from an order of the Pennsylvania Labor Relations Board (Board) which dismissed APSCUF’s charge that the Commonwealth had committed an unfair labor practice. These appeals were consolidated for argument and will be considered together in this opinion.
+APSCUF initiated a complaint with the Secretary of Education on February 12, 1975, alleging violations of several articles of the APSCUF—Commonwealth Collective Bargaining Agreement (Agreement) including Article XXXIV which provides as follows:
+Article XXXIV. Legislative Action
+A. In the event that any provision of this Agreement requires legislative action to become effective, including, but not limited to, amendment of existing statutes, the adoption of new legislation or the granting of appropriations, that provision shall become effective only if such legislative action is taken. The parties, however, mutually agree to make such recommendations to the Legislature which may he necessary to give force and effect to the provisions of this Agreement.
+B. The Commonwealth, with the cooperation of APSCUF, will cause to be introduced and will lend its full support to the necessary proposed legislation.
+C. In the event the legislation is not passed with respect to a specific subject matter, the parties hereto shall have the right to renegotiate regarding the subject matter contained in the appropriate article in a manner permitted by law. (Emphasis added.)
+The specific allegation here was that the Commonwealth failed to request sufficient funds from the Legislature to “give force and effect” to the Agreement, and APSCUF requested that the matter be submitted for binding arbitration according to the Agreement’s Article V grievance procedure. An arbitrator was selected, but, when the arbitration hearing was convened on June 24, 1975, the Commonwealth contended that the issue was not arbitrable and refused to participate. APSCUF then filed a charge of unfair labor practice with the Board.
+The Board issued a Nisi Decision and Order on January 23, 1976, concluding that the Commonwealth had committed an unfair practice in violation of Sections 1201(a)’(l) and (a)(5) of the Public Employe Relations Act (Act), 43 P.S. §1101.1201(a) (1) and (a)(5). After a hearing on the Commonwealth’s exceptions to this Nisi Order, the Board issued a Final Order on July 15, 1976 which rescinded the previous decision and dismissed APSCUF’s complaint, concluding that “the issue of the adequacy of a budget proposal made by the Governor is not a proper subject of arbitration because the judgment as to what budget proposals must be made to comply with the state’s legal obligations is vested exclusively in the office of Governor and is not delegable.” APSCUF has petitioned for review of this final order on the ground that the Board incorrectly decided the issue of arbitrability and committed an error of law in so doing.
+Ill an appeal from a determination of the Board concerning the commission of an unfair labor practice, review by this Court is limited to a determination of whether or not the findings of the Board are supported by substantial and legally credible evidence and whether or not the conclusions deduced therefrom are reasonable and not capricious, arbitrary or illegal. Canon-McMillan School Board v. Pennsylvania Labor Relations Board, 12 Pa. Commonwealth Ct. 323, 316 A.2d 114 (1974). Unfortunately, the Board has made our review in this case extremely difficult by its failure to make specific findings of fact and conclusions of law as required by Section 1303 of the Act. Nevertheless, our review of the discussion portion of the final order here indicates that the Board failed to address the issue which we believe to be crucial to a decision on the unfair practice charge in this case.
+Two subsections of Section 1201 of the Act are the basis for the charges by APSCUF:
+(a) Public employers, their agents or representatives are prohibited from:
+(1) Interfering, restraining or coercing employes in the exercise of the rights guaranteed in Article IY of this act.
+(5) Refusing to bargain collectively in good faith with an employe representative which is the exclusive representative of employes in an appropriate unit, including but not limited to the discussing of grievances with the exclusive representative. (Emphasis added.)
+By the clear language of the Act, therefore, the Commonwealth committed an unfair labor practice if it refused to discuss a grievance. Furthermore, Section 903 of the Act makes the arbitration of grievances mandatory and provides that the final step of the grievance procedure must be binding arbitration:
+Arbitration of disputes or grievances arising out of the interpretation of the provisions of a collective bargaining agreement is mandatory. The procedure to be adopted is a proper subject of bargaining with the proviso that the final step shall provide for a binding decision by an arbitrator or a tri-partite board of arbitrators as the parties may agree. (Emphasis added.)
+Because the manner in which grievances are to be discussed has been incorporated into the Agreement here (with arbitration as the final step) and because this final step is mandated by the Act itself, we believe that a failure to submit a grievance to binding arbitration is a failure to discuss the grievance for purposes of Section 1201(a) (5) of the Act.
+The Board, therefore, erred not only when it failed to consider whether or not APSCUF’s complaint was, in fact, a ‘ ‘ grievance,’ ’ but also erred when it concluded that the issue was not arbitrable because one of the possible remedies which an arbitrator might fashion could infringe upon the decision-making authority of the Governor. In light of the Act’s unequivocal language that arbitration is mandatory, and if the complaint which APSCUF attempted to have arbitrated was a “grievance,” it is clear to us that the Board must then conclude, without considering other factors, that the matter at hand was properly the subject of arbitration.
+We are compelled, therefore, to reverse the Board’s final order and to remand the case for the necessary finding and disposition consistent with this opinion.
+Order
+And Now, this 3rd day of June, 1977, the order of the Pennsylvania Labor Relations Board is hereby reversed and the record is remanded to the Board for disposition consistent with this opinion.
+APSCUF could liave elected to bring an action for specific performance to compel the Commonwealth to honor the grievance provision of their collective bargaining agreement. Whether or not APSCUF’s complaint was a grievance and, therefore, arbitrable could then have been determined by the appropriate equity court. See Milberry v. Board of Education, Pa. , 354 A.2d 559 (1976). Alternatively, the Commonwealth could have sought to enjoin the arbitration of the issue here, thereby obtaining an immediate judicial determination of the arbitrability of APSCUF’s complaint. See Lincoln University v. Lincoln University Chapter, Ass’n of University Professors, Pa. , 354 A.2d 576 (1976); Board of Education v. Philadelphia Teachers Local 3, 464 Pa. 92, 346 A.2d 35 (1975).
+Act of July 23, 1970, P.L. 563, as amended, 43 P.S. §1101.101 et seq.
+The Commonwealth brought a cross-petition for review contending that the Board lacks jurisdiction to comped a public employer to submit an issue to arbitration. In view of our disposition of APSCUF’s appeal, we need not reaeli this issue.
+48 P.S. §1101.1303, which provides in pertinent part:
+If, upon all the testimony, the board shall be of the opinion that the person or persons named in the complaint has not engaged in or is not engaging in any such unfair practice, then the board shall make its findings of fact and shall issue an order dismissing the complaint. A copy of such findings of fact, conclusions of law, and order shall be mailed to all parties to the proceedings.
+43 P.S. §1101.903.
+We will not consider here the merits of the Board's argument that an arbitrator could not order the Governor to submit a higher budget request to the Legislature. This argument would be appropriate only after an arbitrator had issued any such order, and the court then having jurisdiction to review the arbitrator’s award could determine whether or not he had exceeded his authority or had infringed upon the authority of the Governor.
+
+## Concurrence (President Judge Bowman :)
+
+Concurring Opinion by
+President Judge Bowman :
+As the majority opinion notes, the adjudication of the PLRB in this case makes our review extremely difficult, which difficulty, in my view, is partially attributable to the imprecise language of the unfair labor practice charge filed by APSCUF considered in conjunction with the relief it seeks of binding arbitration.
+I agree that the dispute must be remanded to the PLRB for further proceedings, but in doing so, I expressly disagree with the conclusion of the majority “that a failure to submit a grievance to binding arbitration is a failure to discuss the grievance for purposes of Section 1201(a)(5) of the Act.”
+The failure of a public employer to discuss grievances with the exclusive representative of its public employees or a unit thereof is clearly an unfair labor practice under Section 1201(a) (5) of the Act. It does not follow, however, that failure of a public employer to submit a grievance to binding arbitration constitutes a failure to discuss tbe grievance. Nor can I agree in the abstract, as the majority seems to infer, that grievances within the meaning of Section 1201 (a) (5) of the Act are necessarily coextensive in meaning with “disputes or grievances arising out of the interpretation of the provisions of a collective bargaining agreement” as contained in Section 903 of the Act, the ultimate resolution of which is that of binding arbitration. This difficult question, not heretofore judicially resolved, need not be answered at this time.
+
+## Dissent (Judge Mencer :)
+
+Dissenting Opinion by
+Judge Mencer :
+I respectfully dissent. The majority holds that the Commonwealth, which had entered into a collective bargaining agreement (agreement), committed an unfair practice in violation of Section 1201(a)(5) of the Public Employe Relations Act (Act), 43 P.S. §1101. 1201(a)(5), when the Commonwealth refused to participate in binding arbitration, relative to a claim by the Association of Pennsylvania State College and University Faculties (APSCUF) that the Commonwealth had failed to comply with the provisions of Article XXXIV of the agreement. How could this be so when Section 1201(a)(5) of the Act specifically and exclusively deals with the subject of “refusing to bargain collectively in good faith?” Here the Commonwealth entered into an agreement with APSCUF and once that happened Section 1201(a)(5) is no longer applicable to the parties.
+What we have in this case is a dispute or grievance arising out of the interpretation of the provisions of a collective bargaining agreement. Arbitration of such a dispute or grievance is expressly made mandatory by Section 903 of the Act. However, enforcement of that provision is by the parties’ seeking specific performance of their contract in the courts and not by the filing of an unfair labor practice with the Pennsylvania Labor Relations Board. The questions, whether a party to a collective bargaining agreement must arbitrate and what issues he must arbitrate, must be determined by a court on the basis of the contract entered into by the parties. Schoellhammer’s Hatboro Manor, Inc. v. Local Joint Executive Board, 426 Pa. 53, 231 A.2d 160 (1967); Goldstein v. International Ladies’ Garment Workers’ Union, 328 Pa. 385, 196 A. 43 (1938). Three recent cases involving public employes support the contention that a court is the appropriate forum for determining the arbitrability of an issue: Lincoln University v. Lincoln University Chapter, Ass’n of University Professors, 467 Pa. 112, 354 A.2d 576 (1976); Milberry v. Board of Education, 467 Pa. 79, 354 A.2d 559 (1976); and Board of Education v. Philadelphia Teachers Local 3, 464 Pa. 92, 346 A.2d 35 (1975).
+I believe the Pennsylvania Labor Relations Board made the right ruling, albeit for the wrong reasons, and, therefore, I would affirm the Board’s order.
+Act of July 23, 1970, P.L. 563, as amended, 43 P.S. §1101.101 et seq.
+Section 1201 reads, in pertinent part:
+(a) Public employers, tbeir agents or representatives are prohibited from:
+(5) Refusing to bargain collectively in good faith with an employe representative which is the exclusive representative of employes in an appropriate unit, including but not limited to the discussing' of grievances with the exclusive representative.
+43 P.S. §1101.903.
