@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 220"
+decided: "1933-01-25"
+citations: ["108 Pa. Super. 144"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Tkexler, P. J., Keller, Gawthrop, Cunningham, Baldrige and Parker, J J."]
+parties: ["Vogt, Appellant, v. Brady."]
+source_url: "https://static.case.law/pa-super/108/cases/0144-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 706433
+cites_cases: ["101 Pa. Superior Ct. 361", "103 Pa. Superior Ct. 395", "90 Pa. Superior Ct. 252", "94 Pa. Superior Ct. 145"]
+---
+
+# Vogt v. Brady
+
+## Majority (Parker, J.,)
+
+Opinion by
+Parker, J.,
+On September 15, 1930, W. J. Vogt, as “Agent for Owners”, entered into a written agreement to sell to James J. Brady, the defendant, certain premises in Delaware County for the consideration of $13,500, of. which $500 was paid to the agent at the time, and the balance was to be paid in forty days by assuming certain encumbrances and paying a further sum in money at that time. The agreement contained the following clause: “It is understood that this sale is made subject to the written' approval of the owner, which must be obtained within two days,” and provided that time was of the essence of the agreement. It'did not disclose the owner, but the record title was in the plaintiff, Helen M. Yogt, wife, of the agent. The defendant orally on October 6th and by writing dated October 7th gave notice that he was not bound by the agreement as there had not been a written approval by the owner, and demanded return of the deposit.
+Helen M. Yogt, as owner not disclosed by the agree-" ment, brought this action in assumpsit to recover the cash balance alleged to be due to her. An affidavit of defense having been filed, on motion of plaintiff the municipal court of Philadelphia entered judgment against the defendant for want of a sufficient affidavit of defense. An appeal having been taken to this court (103 Pa. Superior Ct. 395), the judgment of the lower court was reversed on the ground that the matter was not so plain as to warrant a summary judgment. The case was then tried before a judge without a. jury, a judgment entered for the defendant, and an appeal again taken to this court.
+The present appeal involves the clause providing for the written approval of the owner and complains of the failure of the court below to find that the agreement of September 15, 1930, was approved in writing by the plaintiff, and of the failure to enter judgment n. o. v. for plaintiff. The agreement specifically provided, as we have pointed out, that it was made “subject to the written approval of the owner, which must be obtained within Two days.” It follows that, if such approval was not given, the owner could refuse to convey and the buyer could refuse to purchase: Chalick v. Weintraub, 90 Pa. Superior Ct. 252, 254. In the Chalick case, there was a clause of the same kind as we are here considering, and the facts were quite similar. In the instant case, the trial court refused the plaintiff’s request for a finding of fact that there was a written approval of the agreement by the owner within two days, and the same judge in writing the opinion of the court on the motion for judgment, n. o. v. said: “The defendant never had any notice that the contract had been approved by the owner, the plaintiff, nor was it in fact ever approved.” Independent of these findings, it is a well settled principle of law that the trial court having found for the defendant on a disputed question of fact involving the veracity of witnesses, we must assume the truth of defendant’s evidence and every inference fairly dedueible therefrom : Lincoln v. Christian, 94 Pa. Superior Ct. 145; Viscount v. Aetna Insurance Co., 101 Pa. Superior Ct. 361.
+We have examined the testimony for the purpose of ascertaining whether there is sufficient evidence to support the conclusions of the lower court and are satisfied that there is. In the statement of claim, the plaintiff for the purpose of showing a prima facie claim alleged that the agreement was accepted in writing by the owner by reason of the fact that the agent delivered the check for $500 given on the execution of the agreement to his wife “who endorsed the same and upon the next day deposited it in her own personal bank account.” No reference-was made in the statement of claim to any other written approval. On trial, it was admitted both by the agent and his wife, the plaintiff, that she did not endorse' the check or make the deposit but, on the contrary, that her husband did both. In addition, at the trial there was offered, and on objection excluded, an informal written approval by the plaintiff of the agreement which it was claimed the agent received and placed in his safe deposit box on September 16, 1930. Under the testimony of defendant, which the trial court apparently believed, the agent Vogt concealed from the defendant the fact that his wife was the owner of the premises, but led defendant to believe that a well known firm of contractors were the owners and .that they could not be reached to obtain their approval. In the agreement, Vogt described himself as “Agent for Owners”, not owner. These and other items of testimony were sufficient to warrant the trial court in resolving the question of credibility in favor of the defendant as against the plaintiff’s witnesses who were interested parties.
+We are all of the opinion that the plaintiff was not entitled to recover.
+The judgment of the lower court is affirmed.
