@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 55"
+decided: "1953-01-20"
+citations: ["173 Pa. Super. 94"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, Ross and Gunther, JJ. (Arnold, J., absent)."]
+parties: ["Brown v. McConnell, Appellant."]
+source_url: "https://static.case.law/pa-super/173/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1067198
+cites_cases: ["146 Pa. Superior Ct. 425", "148 A. 909", "171 Pa. Superior Ct. 372", "20 Pa. 331", "22 A. 2d 305", "299 Pa. 25", "349 Pa. 194", "36 A. 2d 802"]
+---
+
+# Brown v. McConnell
+
+## Majority (Gunther, J.,)
+
+Opinion by
+Gunther, J.,
+Appellees filed their bill in equity seeking to restrain appellants from interfering with the free and uninterrupted use of a 20 foot roadway on land of appellants. The court below granted the relief prayed for, concluding that appellees had acquired an easement by prescription.
+The evidence established that appellants own a tract of land which is bounded on the south by land of appellees, on the west by a 20 foot alley, and on the east by Acre Avenue. Over the northerly portion of appellant’s land running from the 20 foot alley to Acre Avenue is located the 20 foot disputed way. Appellants attempted to build a garage on a portion of this roadway, but appellees tore down part of the stone construction and filled in a portion of the excavations. They then filed the present bill seeking to restrain appellants from interfering with this strip of land, averring inter alia the existence of an easement by prescription. The defense interposed by way of answer ivas that, at most, a permissive way existed. After hearing, the court below found as facts that there existed an easement by prescription over the disputed way in question which way had been used notoriously, adversely and continuously for passage on foot or by vehicle for more than 21 years.
+The court below properly applied the principle of law enunciated by Chief Justice Black in Garrett v. Jackson, 20 Pa. 331, 335, as follows: “But where one uses an easement whenever he sees fit, without asking leave, and without objection, it is adverse, and an uninterrupted adverse enjoyment for twenty-one years is a title which cannot be afterwards disputed. Such enjoyment, without evidence’to explain how it began, is presumed to have been in pursuance of a full and unqualified grant. ' The owner of the land has the burden of proving that the nse of the easement was under some license, indulgence, or special contract inconsistent with a claim of right by the other party.” See also Wedge v. Schrock, 146 Pa. Superior Ct. 425, 22 A. 2d 305; Mather-Klock, Inc. v. Plymire, 349 Pa. 194, 36 A. 2d 802. There is ample testimony to support the findings and conclusions of the court below. Richard Patten called by appellees testified that he had used the alley as a public road for thirty-one years; Mrs. Sylvia McCommon testified that she had used the way “ever since she was a kid” or approximately thirty years. David McCollough testified that he had used it himself for at least twenty-six years. Robert Cochran testified that he had helped on several occasions to repair the road by hauling stone, blocks and ashes and had used it as a public road for twenty-three years. Other witnesses called by appellees were to the same effect, namely that the 20 foot disputed way was used by the public indiscriminately as a means of ingress and egress by adverse, open, notorious and hostile user.
+Appellants contend that the use of the disputed way was permissive. Examination of the testimony of the witnesses called by appellants discloses that it falls short of establishing a permissive user. On the contrary, some of appellants’ witnesses corroborated appellees’ witnesses establishing that an easement by prescription existed for more than twenty-one years. Since there is ample credible evidence to support the findings of fact of the court below, the conclusion that an easement by prescription had existed logically followed.
+Appellants’ final complaint is that the court below erred in the exclusion of certain testimony. Appellants called R. H. Pringle who testified in regard to a conversation had with Louis Patten. Mr. Patten had purchased the property in question on May 19, 1920 and it was sold by the sheriff on February 28, 1936. Mr. Pringle testified to a conversation held with Mr. Patten in 1932 as follows: “Q. About what year was that? A. About that time the milkman was coming up and I had three or four bottles of milk and he asked Lou, he said, ‘Lou is this a private lot?’ and Lou said, ‘Your damn right it is. . . . You are welcome to come up here.’ ” The court below sustained an objection to this testimony on the ground that it was manifestly a self-serving declaration. Declarations of a prior owner against his interest made while holding legal title to the property are admissible in evidence against him and against those claiming under him. Yentis v. Mills, 299 Pa. 25, 148 A. 909. This rule has no application in the instant case for an appraisal of the testimony now under scrutiny indicates that it was manifestly a self-serving declaration and not against Mr. Patten’s interest. Since the purpose of the testimony was to prove the truth of the fact asserted, it was hearsay and the court below did not err in exluding it. Cf. Donegal Twp. School District v. Crosby, 171 Pa. Superior Ct. 372, at 375.
+Decree affirmed.
