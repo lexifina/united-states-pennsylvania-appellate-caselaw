@@ -1,0 +1,49 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "817 C.D. 1994"
+decided: "1994-09-28"
+citations: ["167 Pa. Commw. 650", "648 A.2d 1318"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DOYLE and KELLEY, JJ., and NARICK, Senior Judge."]
+parties: ["DUQUESNE LIGHT COMPANY, Petitioner, v. UNEMPLOYMENT COMPENSATION BOARD OF REVIEW, Respondent."]
+source_url: "https://static.case.law/pa-commw/167/cases/0650-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1466706
+cites_cases: ["10 Pa.Commonwealth Ct. 90", "120 Pa.Commonwealth Ct. 80", "122 Pa.Commonwealth Ct. 351", "145 Pa.Commonwealth Ct. 5", "18 Pa.Commonwealth Ct. 151", "309 A.2d 165", "333 A.2d 815", "405 A.2d 1034", "439 A.2d 1331", "45 Pa.Commonwealth Ct. 539", "64 Pa.Commonwealth Ct. 293"]
+---
+
+# Duquesne Light Co. v. Unemployment Compensation Board of Review
+
+## Majority (NARICK, Senior Judge.)
+
+NARICK, Senior Judge.
+Duquesne Light Company (Duquesne Light) appeals from the order of the Unemployment Compensation Board of Review (UCBR) that reversed the referee’s denial of compensation benefits to Margaret M. Wilson (Claimant) and granted benefits. We affirm.
+Duquesne Light last employed Claimant as a billing and sales analyst in the major accounts department. Claimant was responsible for customer billing of Duquesne Light’s largest industrial, commercial and government accounts. In addition to her employment with Duquesne Light, Claimant owned an independent business known as “Yankee Cat.” Yankee Cat had a small commercial account with Duquesne Light.
+On June 5, 1993, Claimant instigated a service request to have Yankee Cat’s service terminated at one location and reinstated in another. While initiating this service request, Claimant had a supervisor, Connie Hill, help with the request. Ms. Hill was aware that the account was for Claimant’s own business. On July 6, 1993, Duquesne Light’s Manager of Human Resources suspended Claimant for initiating the service request on her personal account. Following several internal hearings, Duquesne Light discharged Claimant.
+The referee denied Claimant’s request for unemployment compensation benefits but on appeal the UCBR reversed, holding that Claimant’s conduct did not rise to the level of willful misconduct as defined by Section 402(e) of the Pennsylvania Unemployment Compensation Law (Law), Act of December 5, 1936, Second Ex.Sess., P.L. (1937) 2897, as amended, 43 P.S. § 802(e).
+On appeal to this Court, Duquesne Light argues that the UCBR erred as a matter of law in holding that Claimant’s behavior did not constitute willful misconduct.
+The term “willful misconduct” is not defined by statute. We have determined that for behavior to rise to a level of willful misconduct, the employee’s behavior must demonstrate:
+1) the wanton and willful disregard of the employer’s interest, 2) the deliberate violation of rules, 3) the disregard of standards of behavior which an employer can rightfully expect from his employee, or 4) negligence which manifests culpability, wrongful intent, evil design, or intentional and substantial disregard for the employer’s interests or the employee’s duties and obligations.
+Kentucky Fried Chicken of Altoona, Inc. v. Unemployment Compensation Board of Review, 10 Pa.Commonwealth Ct. 90, 97, 309 A.2d 165, 168-169 (1973).
+A deliberate violation of an employer’s rule or policy ordinarily constitutes willful misconduct. The employer bears the burden of establishing a claimant’s ineligibility for compensation on the basis of willful misconduct. Jamison v. Unemployment Compensation Board of Review, 145 Pa.Commonwealth Ct. 5, 602 A.2d 420 (1992). The employer must show the existence of the rule, or policy and the fact of its violation. Partsch v. Unemployment Compensation Board of Review, 64 Pa.Commonwealth Ct. 293, 439 A.2d 1331 (1982).
+Duquesne Light focuses its argument on the fact that Claimant knew that she could not do “work” on her account. However, Claimant testified that she knew she could not do financial “work” on her personal account, something she differentiates from the supervised transfer request. While Duquesne Light did introduce a page of its basic user’s skills seminar for DISCuS, which stated that for security purposes “employee account updates restricted (can’t update your own or spouses account)” (72a), Claimant testified that she was not aware or notified of a rule that would not permit her to initiate a change of service location for a commercial business she owned. The UCBR credited Claimant’s testimony over that of Duquesne Light’s witnesses.
+Although there may be record evidence to the contrary, findings of fact if supported by substantial evidence are conclusive on appeal. Ryan v. Unemployment Compensation Board of Review, 120 Pa.Commonwealth Ct. 80, 547 A.2d 1283 (1988). Where there is a conflict in testimony, credibility determinations and the resolution of evidentiary conflicts are •within the UCBR’s discretion and are not subject to reevaluation on judicial review. Miller v. Unemployment Compensation Board of Review, 45 Pa.Commonwealth Ct. 539, 405 A.2d 1034 (1979). Because substantial evidence does support the UCBR’s findings in the form of Claimant’s testimony, it is beyond our scope of review to review these credibility determinations.
+Duquesne Light’s argument also focuses on Findings of Fact 12 and 13, which state:
+12. On June 5, 1993, while initiating the service request, claimant had the supervisor, Connie Hill, help claimant with the request as Ms. Hill was aware that the account was for claimant’s own business.
+13. When claimant made the request, claimant bypassed the credit check box as she had' always done, had been trained to do, while under Ms. Hill’s supervision.
+The UCBR held that because a Duquesne Light supervisor assisted Claimant thereby condoning her conduct, Claimant was not guilty of willful misconduct.
+Duquesne Light asserts that Ms. Hill was not Claimant’s direct supervisor and thus, could not have condoned her conduct. However, Claimant testified that she believed that she used a proper procedure, i.e., having Ms. Hill assist her in the request; testimony again, which the UCBR credited. In O’Keefe v. Unemployment Compensation Board of Review, 18 Pa.Commonwealth Ct. 151, 333 A.2d 815 (1975), we held that where a supervisor was aware of the conduct in question, which violated a work rule, and said nothing, that the conduct was not a willful disregard of the employer’s interest, a deliberate violation of employer’s rules or negligence which manifested a wrongful intent or evil design. Regardless of the fact that Ms. Hill may not have been Claimant’s direct supervisor, she represented Duquesne Light in a supervisory position which Claimant believed was sufficient in conducting the transfer of her business account.
+Accordingly, we affirm.
+ORDER
+AND NOW, this 28th day of September, 1994, the order of the Unemployment Compensation Board of Review in the above-captioned matter is hereby affirmed.
+. Claimant worked for Duquesne Light for over twenty-eight years.
+. Section 402(e) of the Law provides:
+An employe shall be ineligible for compensation for any week—
+sfc % sfc s}; sfs
+(e) in which unemployment is due to his discharge or temporary suspension from work for willful misconduct connected with his work.
+. Our scope of review is limited to a determination of whether constitutional rights were violated, an error of law was committed or whether necessary findings of fact are supported by substantial competent evidence. 2 Pa.C.S. § 704.
+. Although not presented in the statement of questions involved, Duquesne Light argues in its brief that certain findings of fact are not supported by substantial evidence. Pa.R.A.P. 2116 provides in pertinent part that, "no point will be considered which is not set forth in the statement of questions involved or suggested thereby." (Emphasis added.) However, Duquesne Light does formulate subsections (a) and (b) to their "error of law” argument that infers a challenge to the findings of fact which would support a holding of willful misconduct. In this case, we will consider whether substantial evidence does support the necessary findings made by the UCBR.
+. Whether an employee's conduct constitutes willful misconduct is a question of law subject to our review. Caruso v. Unemployment Compensation Board of Review, 122 Pa.Commonwealth Ct. 351, 551 A.2d 1167 (1988).
+. Claimant attended the DISCuS seminar in 1992.
