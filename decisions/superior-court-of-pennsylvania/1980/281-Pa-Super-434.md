@@ -1,0 +1,86 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "844"
+decided: "1980-10-10"
+citations: ["281 Pa. Super. 434", "422 A.2d 547"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before SPAETH, CAVANAUGH and O’KICKI, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Carl Charles CRAGLE, Appellant."]
+source_url: "https://static.case.law/pa-super/281/cases/0434-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 152726
+cites_cases: ["114 A. 500", "148 A. 311", "153 Pa.Super. 524", "159 A.2d 223", "163 A.2d 90", "191 Pa.Super. 581", "2 Yeates 334", "222 S.E.2d 222", "225 A.2d 236", "244 A.2d 723", "247 Pa.Super. 231", "252 A.2d 661", "252 Ark. 953", "264 Pa.Super. 281", "266 S.C. 468", "271 Pa. 271", "289 N.C. 372", "298 Pa. 319", "301 A.2d 635", "307 A.2d 255", "309 A.2d 591", "31 Pa. 65", "334 Pa. 321", "34 A.2d 321", "364 U.S. 912", "366 N.E.2d 273", "373 A.2d 1188", "397 N.Y.S.2d 613", "400 Pa. 626", "403 F.Supp. 70", "42 N.Y.2d 170", "423 Pa. 589", "429 U.S. 809", "430 Pa. 627", "434 Pa. 167", "44 Pa. 452", "451 Pa. 259", "452 Pa. 554", "453 Pa. 461", "460 Pa. 31", "475 Pa. 120", "475 Pa. 564", "475 Pa. 604", "5 A.2d 804", "5 L.Ed.2d 226", "50 L.Ed.2d 69", "538 F.2d 318", "81 S.Ct. 275", "97 Pa.Super. 202", "97 S.Ct. 46"]
+---
+
+# Commonwealth v. Cragle
+
+## Majority (SPAETH, Judge:)
+
+SPAETH, Judge:
+This is an appeal from judgment of sentence for receiving stolen property. Generally stated, the issue is whether evidence of prior criminal activity not resulting in conviction is admissible to impeach a witness. Appellant argues that the trial judge erred 1) in refusing to permit cross-examination intended to show that the witness had engaged in prior criminal activity for which he had not been convicted, and 2) in refusing to permit another witness to testify to such prior criminal activity.
+1
+During cross-examination of Commonwealth witness John Kline, defense counsel asked:
+Q: Now Mr. Kline, before we get into the facts of this case Pm going to ask you, it is not true that you have been convicted of the charge of receiving stolen property in 1974?
+A: Yes.
+Q: And did you serve the punishment that was given you as a result of that charge?
+A: Yes, I did.
+(R.R. 15a-16a)
+Counsel then asked:
+Q: Mr. Kline, it has been specified that you were convicted once of receiving stolen goods?
+A: That’s right.
+Q: Well you-did you receive stolen goods on other occasions?
+MR. KLEMOW [Assistant District Attorney]: Objection.
+THE COURT: Sustained.
+Q: Have you made a practice in your business of handling stolen goods?
+MR. KLEMOW: Objection.
+THE COURT: Sustained.
+MR. KLEMOW: I also object to any further questions on this line as being improper.
+THE COURT: Sustained and I’ll direct Counsel to pursue another line of inquiry unless he has some authority for it.
+MR. CRISMAN [defense counsel] I’m sorry, I didn’t hear-
+THE COURT: I will direct that you proceed to another line of inquiry unless you have some authority to warrant those questions.
+Q: Did you-I don’t want to go against the Court’s ruling but I want to ask the question. Did you have any dealings with Malcolm Pleviak under which he took tires and was convicted on your-
+MR. KLEMOW: Your Honor, I object vehemently to that question. Now I think the man’s been clearly instructed not to ask questions like that.
+THE COURT: Sustained.
+(R.R. 23a-25a)
+It is clear that this cross-examination was intended to impeach the witness by showing that on “other occasions” the witness had engaged in criminal activity-receiving stolen goods-for which he had not been convicted. Counsel never asked the witness whether he had been convicted for his activity on any of the “other occasions,” instead, counsel asked about the witness’s “practice ... of handling stolen goods;” and later, as will be discussed, counsel called another witness in an attempt to prove that “practice.”
+Pennsylvania case law has long held that a witness may not be impeached by evidence of criminal activity for which the witness has not been convicted, Stout v. Rassel, 2 Yeates 334 (Pa.1798) and see Commonwealth v. Jackson, 475 Pa. 604, 381 A.2d 438 (1977); Commonwealth v. Taylor, 475 Pa. 564, 381 A.2d 418 (1977); Commonwealth v. Reese, 475 Pa. 120, 379 A.2d 1312 (1977); Commonwealth v. Katchmer, 453 Pa. 461, 309 A.2d 591 (1973); Commonwealth v. Ross, 434 Pa. 167, 252 A.2d 661 (1969); Commonwealth v. Peterman, 430 Pa. 627, 244 A.2d 723 (1968); Commonwealth ex rel. Sprangle v. Maroney, 423 Pa. 589, 225 A.2d 236 (1967); Commonwealth v. Jones, 334 Pa. 321, 5 A.2d 804 (1939); Commonwealth v. Ice, 21 Beaver 24, (O. & T. 1959); Marshall v. Carr, 271 Pa. 271, 114 A. 500 (1921); Hoffman v. Kemerer, 44 Pa. 452 (1863); Elliott v. Boyles, 31 Pa. 65 (1857); Commonwealth v. Joines, 264 Pa.Super. 281, 399 A.2d 776 (1979); Commonwealth v. Ornato, 191 Pa.Super. 581, 159 A.2d 223, aff’d. 400 Pa. 626, 163 A.2d 90 cert. denied, 364 U.S. 912, 81 S.Ct. 275, 5 L.Ed.2d 226 (1960); Commonwealth v. Mueller, 153 Pa.Super. 524, 34 A.2d 321 (1943); Commonwealth v. Cauffiel, 97 Pa.Super. 202, appeal denied, 298 Pa. 319,148 A. 311 (1929); Commonwealth v. Strickland Transp. Corp., 30 Pa.Cmwlth. 463, 373 A.2d 1188 (1977). Thus in Commonwealth v. Ross, 434 Pa. 167, 170, 252 A.2d 661, 662 (1969), the Supreme Court stated:
+The fact that a witness who has testified in a criminal prosecution has been convicted of a felony or of a misdemeanor in the nature of crimen falsi may be brought out as bearing on his credibility. Commonwealth v. Jones, 334 Pa. 321, 5 A.2d 804 (1939). As a general rule, however, there must be a conviction of the felony or misdemeanor before such evidence is relevant, because there is a vast difference between a conviction and a mere accusation. An inquiry as to a mere arrest or indictment is not permitted because an arrest or indictment does not establish guilt, and the reception of such evidence would merely constitute the reception of somebody’s hearsay assertion of the witness’ guilt. 3 Wigmore, Evidence § 980(a) (3d ed. 1940).
+Id.
+And in Commonwealth v. Taylor, supra 475 Pa. at 568 n. 4, 381 A.2d at 419 n. 4, the Court stated:
+We have also held that a witness may not be impeached by questions concerning criminal activity not resulting in arrest. Marshall v. Carr, 271 Pa. 271, 114 A. 500 (1921); Hoffman v. Kemerer, 44 Pa. 452 (1863); Elliott v. Boyles, 31 Pa. 65 (1857).
+Downey v. Weston, 451 Pa. 259, 301 A.2d 635 (1973), is not to the contrary. There, a doctor called as an expert witness for the defendant in a personal injury case had spoken to a lawyer for the co-defendant on the eve of trial, and had disclosed to the lawyer a medical file compiled during the plaintiff’s consultation in the doctor’s office. The plaintiff’s counsel undertook to show on cross-examination of the doctor that this disclosure had been a violation of the Hippocratic Oath and the Principles of Medical Ethics of the American Medical Association. Upon objection, the trial judge barred this line of cross-examination, and upon appeal, the Supreme Court upheld the judge’s ruling. In the course of its opinion, the Court stated:
+It is true that evidence of some misconduct or some past events throwing light on human character is admissible on cross-examination but this is restricted to evidence which bears directly on the witness’ “character for truth.” 3A Wigmore, Evidence § 922 at 726 (Chadbourn rev. 1970) 451 Pa. at 264, 301 A.2d at 639 (emphasis in original).
+The Court then concluded that “the connection between an alleged breach of a canon of medical ethics and the credibility of the physician on the witness stand is tenuous at most.” Id.
+There would be no justification for interpreting the Court’s reference in Downey to “evidence of some misconduct or some past events” as meaning that such evidence “is admissible on cross-examination” on the sole condition that it “bear[] directly on the witness’ ‘character for truth’,” without reference to whether the “misconduct” or “past events” resulted in a conviction. In the first place, the Court’s statement is, if not dictum, at least close to dictum, for its holding was that the attempted cross-examination was improper, which is consistent with the rule that the past misconduct must have resulted in a conviction. In the second place, to interpret the Court’s statement as permitting impeachment would be equivalent to saying that the Court intended to overrule sub silentio the settled line of authority that we have referred to above. Quite apart from the principle that a sub silentio overruling will rarely be found to have been intended, Peeke v. Penn Central Transp. Co., Inc., 403 F.Supp. 70, aff’d. Celotex Corp. v. Whiting Corp., 538 F.2d 318 (3 Civ., D.C. 1975); Green Ridge Bank v. Edwards, 247 Pa.Super. 231, 372 A.2d 23 (1977), it is plain that none was intended in Downey. For as noted above, in Commonwealth v. Taylor, supra, decided four years after Downey, the Court reaffirmed the rule that “a witness may not be impeached by questions concerning criminal activity not resulting in arrest,” 475 Pa. at 568 n. 4, 381 A.2d at 419 n. 4 (citations omitted). Finally, the Court’s citation to Wigmore belies any intention to permit impeachment by evidence of past misconduct not resulting in conviction, for Wigmore may not be cited as authority that would permit such impeachment; to the contrary, he states:
+In some courts attention is given to distinguish a conviction of misconduct from a mere accusation of misconduct. Where this is done, it follows that a mere arrest or indictment will not be allowed to be inquired after; since the fact of arrest or indictment is quite consistent with innocence, and since the reception of such evidence is merely the reception of somebody’s hearsay assertion as to the witness’ guilt. To admit this would involve a violation both of the hearsay rule and of rule forbidding extrinsic testimony of misconduct.
+3A, Wigmore on Evidence (Chadbourn rev. 1970) § 980(a), p. 835 (emphasis in original).
+Wigmore thus recognizes that the rule in Pennsylvania is not the rule in every jurisdiction, and he sets forth the differing rules.
+Accordingly, the trial judge did not err in sustaining the objection to defense counsel’s attempt to cross-examine the witness Kline regarding whether he had received stolen goods “on other occasions” not resulting in any criminal conviction.
+2
+In defense, counsel called Malcolm Pleviak to testify. When the assistant district attorney requested an offer of proof, the following issued:
+MR. CRISMAN: If Your Honor please, we propose to show by the witness, Malcolm Pleviak, that he was at Mr. Kline’s place of business and has been for the last couple of years on a several times weekly basis, and that Mr. Kline has admitted to him that one-half of everything he buys approximately is stolen merchandise and that Mr. Kline has, even as late as Monday or Tuesday of this week, received copper that was stolen.
+MR. CRISMAN: I'm sorry. And we’re producing this evidence to attack the credibility of Mr. Kline on whom the Commonwealth’s case entirely depends.
+MR. KLEMOW: Your Honor, we would object to that as not being relevant.
+THE COURT: Do you have any authority you want to offer me for that?
+MR. CRISMAN: I don’t have any at my fingertips, but I always considered that any witness’s credibility can be attacked, that’s the purpose of-
+THE COURT: It certainly can be attacked by convictions, but the mere fact that he’s committed crimes in the past that he hasn’t been arrested for or prosecuted for-
+MR. CRISMAN: It goes to his credibility.
+THE COURT: We’re going to ask that they assume that he was guilty of crimes and I don’t think they’re allowed to do that.
+MR. CRISMAN: I have a witness to testify that he made this statement to him.
+THE COURT: Objection sustained.
+(R.R. 46a—47a)
+Appellant’s argument that this ruling was error is without merit. It would make no sense to say that prior misconduct may not be shown by cross-examination where no conviction resulted but may be shown by extrinsic evidence. Even in jurisdictions that do not require a conviction, extrinsic evidence is not allowed:
+In jurisdictions which permit character-impeachment by proof of misconduct for which no conviction has been had, an important curb is the accepted rule that proof is limited to what can be brought out on cross-examination. Thus, if the witness stands his ground and denies the alleged misconduct, the examiner must “take his answer,” not that he may not further cross-examine to extract an admission, but in the sense that he may not call other witnesses to prove the discrediting acts.
+McCormick on Evidence § 42 (Cleary ed. 1972), p. 84 (Footnotes, citations omitted).
+Affirmed.
+. 18 Pa.C.S. § 3925.
+. Appellant has also argued that he should have been discharged because there was a defect in the criminal complaint and warrant, but as appellant has failed to preserve the issue by including it in post-trial motions, we shall not consider it. Commonwealth v. Blair, 460 Pa. 31, 331 A.2d 213 (1975).
+. This statement of the general rule is now too broad; even where there has been a conviction, proof of it may not be permitted. , See e. g., Commonwealth v. Bighum, 452 Pa. 554, 307 A.2d 255 (1973) (a trial court may, within its discretion, admit evidence of prior convictions of a defendant who testifies on his own behalf, where the prior conviction is critically important to Commonwealth’s case, and where the court considers the age and nature of crime, age and circumstances of defendant).
+. According to Wigmore § 987 (1979 Supp.), pp. 14-19, several jurisdictions allow evidence of a witness’s prior misconduct not resulting in conviction for purposes of impeachment. For example in Arkansas, a prosecutor may ask a defendant charged with indecent exposure “if he has been convicted of other acts [of indecent exposure] or if he committed other [such acts]” for purposes of impeachment. Inklebarger v. State, 252 Ark. 953, 955, 481 S.W.2d 750, 752 (1972). In New York a prosecutor may cross examine a defendant witness on prior acts of assault and automobile theft where “the instant inquiries went to the witness’ disposition or willingness to place self-interest ahead of principle and integrity.” People v. Greer, 42 N.Y.2d 170, 176, 366 N.E.2d 273, 277, 397 N.Y.S.2d 613, 617 (1977). in North Carolina, “although a defendant may not be asked if he has been accused, arrested, or indicted for a particular crime, he may be asked if he in fact committed a crime.” State v. Alford, 289 N.C. 372, 222 S.E.2d 222, 229, vacated on other grounds, 429 U.S. 809, 97 S.Ct. 46, 50 L.Ed.2d 69 (1976). Similarly broad in scope is South Carolina’s rule, which would allow a witness to be cross-examined “about any of his past transactions tending to affect his credibility.” State v. Allen, 266 S.C. 468, 224 S.E.2d 881, (1976), and the law in Washington, where a defendant may be cross-examined as to specific acts of misconduct even unrelated to the crime charged if he puts his good behavior into issue by testifying about it.
+Other jurisdictions are listed in Wigmore as having enacted rules of evidence similar to the Federal Rule on this issue, which provides:
+Specific instances of the conduct of a witness, for the purpose of attacking or supporting his credibility, other than conviction of crime as provided in rule 609, may not be proved by extrinsic evidence. They may, however, in the discretion of the court, if probative of truthfulness or untruthfulness, be inquired into on cross-examination of the witness 1) concerning his character for truthfulness or untruthfulness, or 2) concerning the character for truthfulness of another witness as to which character the witness being cross-examined has testified.
+Federal Rule of Evidence 608(b) (emphasis added).
+These jurisdictions include Maine (Maine R.Ev. 608(b)); Nevada (Nev.Rev.Stat. 50.085(3)); New Mexico, (N.M.R.Ev. 608(b)); Utah, (Utah R.Ev. 22); and Wisconsin, (Wis.R.Ev. 906.08(2)).
+The remaining majority of jurisdictions, although they may not have statutes similar to F.R.E. 608(b), also grant the trial court varying degrees of discretion in admitting or excluding evidence of prior unconvicted misconduct, depending on the nature of the particular bad acts. See McCormick on Evidence (Cleary ed. 1972) § 42, pp. 82-83, dividing the jurisdictions as follows: 1) “the majority of courts limit cross-examination concerning acts of misconduct as an attack upon character to acts which have some relation to the credibility of the witness,” 2) “[s]ome courts permit an attack upon character by fairly wide-open cross-examination upon acts of misconduct which show bad moral character and can have only attenuated relation to credibility,” and 3) “a substantial number of courts prohibit altogether cross-examination as to acts of misconduct for impeachment purposes [when there has been no criminal conviction].” (Citations omitted) McCormick observes that the third rule “is probably the fairest and most expedient practice.” Among the states he cites as adhering to this rule is Pennsylvania, Id. at 83, n. 33.
