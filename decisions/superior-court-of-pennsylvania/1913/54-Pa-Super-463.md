@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 213"
+decided: "1913-07-16"
+citations: ["54 Pa. Super. 463"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady, Head and Porter, JJ."]
+parties: ["H. S. Blatt Hardware Company v. McCarthy, Appellant."]
+source_url: "https://static.case.law/pa-super/54/cases/0463-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 437669
+cites_cases: ["101 Pa. 547", "12 Pa. 170", "16 Pa. 380", "174 Pa. 443", "26 Pa. Superior Ct. 318"]
+---
+
+# H. S. Blatt Hardware Co. v. McCarthy
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+The defendant M. D. McCarthy by his written obligation under seal, dated November 13, 1911, promised to pay to the order of the plaintiff company the sum of $600, three months after the date thereof, and embodied in said obligation was a warrant of attorney to confess judgment against him (McCarthy) for the said sum; with costs and attorney’s commissions, with the usual waivers. There was subsequently written upon the back of said instrument the following:
+“Elwood City, Pa., 11-28, 1911, for value received I do hereby assign the within note to First National Bank and guarantee the payment of amount thereof at maturity or at any time thereafter, waiving protest and notice of protest, and hereby authorize any attorney to appear for and confess judgment against me for said sum with interest and costs of suit, and release of all errors and waiver of inquisition, stay of execution and all exemption laws.” This indorsement was signed by the defendant, D. J. Mulcahy. The plaintiff, on May 3,1912, caused this note, signed by McCarthy, and the indorsement thereon signed by Mulcahy, to be filed in the court below and judgment to be entered against the defendants jointly by confession, upon the authority alleged to be conferred by the warrants of attorney signed by them severally. The defendant Mulcahy presented his petition to the court below praying that the judgment be stricken off as to him upon the ground, inter alia, that the obligations upon which the judgment was founded and the several warrants of attorney therein contained did not authorize the confession of a judgment against the defendants jointly. The court below granted a rule to show cause why the judgment should not be stricken off as to Mulcahy, the plaintiff filed an answer to the petition, and the court below, after a hearing, discharged the rule. Mulcahy appeals from that order and assigns for error the refusal of the court to strike off the judgment as to him.
+The petition filed by Mulcahy and the answer of the plaintiff raise a number of questions which we do not consider material to the determination of the question here involved. It' is not important whether the obligation which Mulcahy gave to the bank constituted him a surety for or a guarantor of the payment of the debt of McCarthy. It is not necessary, for the purposes of this appeal, to determine whether, upon the facts disclosed by the petition and answer, Mulcahy assumed any obligation to this plaintiff or to any person other than the bank. Let it, for the purposes of this case, be assumed that Mulcahy became an indorser of the note, or surety for the payment of the same by McCarthy, which is certainly the utmost limit of liability which could be asserted against him. The controlling fact is that the debt remains the individual obligation of McCarthy, he is the party primarily liable. The obligation of Mulcahy is collateral to that of the principal debtor, his liability is secondary, dependent upon the failure of McCarthy to pay at maturity of the note. The liability of the defendants arose out of the same debt, but they were not liable for that debt in the same degree, and the liability of each arose out of his own several undertaking. The principal covenant in the note given by McCarthy, as well as in the indorsement of that note signed by Mulcahy, was to pay a specific sum of money, and the warrant of attorney in each of these several written undertakings was but an incident of the contract, of each of the parties. Had neither of these written instruments contained a warrant of attorney, it surely never would have been suggested that a joint action could have been maintained against the defendants upon their several and distinct promises to pay. The written instruments did not constitute them jointly liable for the debt. The terms of the warrants of attorney, contained in these several instruments, did not change the relation in which the respective parties stood to the debt, nor to each other. Each of the defendants had authorized the entry of a judgment against himself, severally, to secure the liability which he had himself assumed. This joint judgment was not sustained by the several warrants of attorney upon which it was attempted to be founded, and the motion of the appellant should have prevailed: Eddy v. Smiley, 26 Pa. Superior Ct. 318.
+The order of the court below is reversed, the rule is reinstated, the judgment against D. J. Mulcahy is stricken off and it is ordered that the plaintiff pay the costs.
