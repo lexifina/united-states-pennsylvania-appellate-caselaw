@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 186"
+decided: "1927-07-08"
+citations: ["91 Pa. Super. 33"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Henderson, Trexler, Keller, Linn, Gawthrop and Cunningham, JJ."]
+parties: ["Lekovicz, Appellant, v. Gobbie."]
+source_url: "https://static.case.law/pa-super/91/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 674184
+cites_cases: ["87 Pa. Superior Ct. 19"]
+---
+
+# Lekovicz v. Gobbie
+
+## Majority (Keller, J.,)
+
+Opinion bt
+Keller, J.,
+This was an action of assumpsit upon an oral contract relating to the completion of a building operation. It was not a contract for the sale of goods or choses in action, within the purview of the Sales Act of 1915, P. L. 543, and its amendment of April 27, 1925, P. L. 310, but for the construction of a building, to which the furnishing of materials was merely incidental to the main purpose. Hence the provisions of Section 4 of the ¡Sales Act did not apply: York Heating Co. v. Flannery, 87 Pa. Superior Ct. 19, 24.
+The action of the court below in setting aside the unintelligible award of arbitrators, made prior to the jury trial, did not put an end to the action, as suggested by the appellee, but only to the arbitration. The effect was the same as when the court is obliged to set aside the verdict of a jury; it does not end the suit.
+The only remaining matter to be considered is whether the contract sued upon was without consideration and on that account unenf orceable. This will require a statement of the facts leading up to the making of the contract.
+The defendant and his three sons, partners trading as Jos. H. Gobbie & (Sons, entered into a written contract with the plaintiff to build him a house according to plans and specifications annexed thereto, including the furnishing of all materials and the supplying of all necessary labor, and complete the same by June 1, 1923, for the sum of five thousand dollars, of which certain sums were to be paid from time to time as the work progressed, and the balance secured by mortgage. On or about April 16, 1923, when the excavation was completed and the cellar-block wall had been nearly laid, and the plaintiff had paid $1,500 on account of the contract price, one of the sons-who had had active charge of the building operation, — 'and who, singularly enough, seems to have been the architect and arbiter under the contract — , left town and withdrew from the partnership, and all work on the operation stopped. Under the contract between the .parties, the plaintiff might have entered upon the premises for the purpose of completing the work and employed other persons to finish the work and provide the materials therefor, in which event the contractors would have been liable to the plaintiff for any amount paid by him in completing the work in excess of the balance due under the contract. Instead of doing so, however, he was induced by the defendant to refrain from employing other persons to complete the work by the defendant’s own promise and agreement to complete the work himself within a reasonable time or pay back to the plaintiff the money which he had paid on account of the contract; and the defendant failing to do any further work on the building for at least nine months after the stopping of the work, during which time the cellar foundation blocks fell in, the plaintiff sold the lot and sued defendant for a return of the money paid under the contract.
+In view of these facts, we think there was a sufficient consideration for defendant’s promise. The provision in the written contract authorizing the plaintiff to complete the work on failure of the contractors to perform their contract did not prevent the parties interested, or some of them, from entering into a new contract with different stipulations and obligations in the event of a failure to complete the work; and the non-enforcement by the plaintiff of his rights under the old contract Avas sufficient consideration for entering into the neAV one. The evidence shows that the defendant was the only member of the partnership who had any financial responsibility. His membership in the firm made him personally responsible for its debts, so that his individual assumption of the obligation to complete the contract was not the incurring of a wholly new liability, but only a change of form. At the time work Avas stopped the plaintiff seems to have paid the contractors more than the Avork actually done was really worth, and it may well be that the cost of completing the building pursuant to the plans and specifications would have coat more than $5,000, in which event it was to the defendant’s pecuniary advantage to be released from his liability as a member of the firm to complete the work, by the payment back to the plaintiff of the $1,500 advanced under the contract. In any event, the new contract related to a subject matter in which both parties were pecuniarily interested, and for the fulfillment of which the defendant was individually responsible. His personal assumption of that responsibility, in a slightly different form, relieved him, as a member of the firm and individually, of liability under certain provisions of the original contract, and was in substitution of the plaintiff’s right to enforce those provisions, and these, together, furnished sufficient consideration for the new agreement.
+As the verdict was in favor of the plaintiff any disputed questions of fact are, of course, resolved in his favor.
+The tenth assignment of error is sustained, the judgment is reversed and the record is remitted to the court below with directions to enter judgment for the plaintiff on the verdict.
