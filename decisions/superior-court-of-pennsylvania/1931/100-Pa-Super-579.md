@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 103"
+decided: "1931-01-30"
+citations: ["100 Pa. Super. 579"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Tkexler, P. J., Keller,, Linn, Gawthrop, Cunningham, Baldrige and Whitmore, JJ."]
+parties: ["Reading Co. v. E. J. Keller Co., Inc., Appellant."]
+source_url: "https://static.case.law/pa-super/100/cases/0579-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 691325
+cites_cases: ["272 Pa. 528", "291 Pa. 472", "295 Pa. 140", "296 Pa. 40"]
+---
+
+# Reading Co. v. E. J. Keller Co.
+
+## Majority (Linn, J.,)
+
+Opinion by
+Linn, J.,
+This appeal is from judgment for want of a sufficient affidavit of defense. The suit is in assumpsit to recover charges accruing to a carrier in interstate commerce pursuant to tariffs on file with the Interstate Commerce Commission containing the following, quoted from the statement of claim:
+“Freight received from foreign ports will be held by the Beading Company at owner’s risk free of charge, when in transit via Beading Company to points ......for a period not exceeding 15 days, if piece or package freight; and for a period not exceeding 5 days, if bulk freight......time to be computed from the first 7 A. M. following the day the vessel completes discharging its cargo, and storage charges, if any, will cease when shipping instructions are furnished carrier. After the expiration of the free time, storage will be assessed as follows: For the first 10 days, or fraction thereof; lj4 cents per 100 lbs. For each succeeding 10 days or fraction thereof K cent per 100 lbs.” By supplements, effective at the times of the shipments in question, reductions were made which were applied to the property here involved.
+The statement of claim averred that on September 12, 1924 defendant received from the steamship Dania at pier 27, North, Philadelphia, a quantity of baled rags, of which, bales, 467, after being held by plaintiff pursuant to the quoted tariff, were shipped over its line during October and November, 1924, June, 1925, April and May, 1927; copies of the uniform bills of lading showing details of said shipments were attached to the statement of claim; there was also a tabulation giving details, such as the initial and number of each car loaded, the number of bales and their weight in each shipment, the dates from and to which storage under the tariff was due, the name of the consignee and destination, separate amounts chargeable, and the total amounting to $993.18. Prompt and expeditious transportation and delivery were also averred.
+The affidavit of defense, which was filed in 1928, admitted all of those allegations, but averred “that 287 bales [not among the 467 involved in this suit] were not delivered to the defendant nor to any person on its behalf. Defendant avers upon information and belief, that the said bales were stolen from the custody of the plaintiff.” There is no averment that defendant ever demanded delivery of said bales or any of them. The affidavit avers under the heading ‘new matter,” “as additional defense” the statute of limitations as to two of the car-loads, and payment as to a third car-load, for which plaintiff claimed. It also contains the general allegation that “287 bales...... unloaded from the steamship ......were never delivered to defendant or anyone in its behalf. The value of said bales exceeded $993.18 with interest, to wit, they were of the value of $4,411.47. The said bales were lost to the defendant by the negligence of the plaintiff and by its failure to protect them against theft. ’ ’
+The judgment was entered, we understand, for the total amount claimed for storage, less the amount barred by the statute and the amount said to have been paid. We note that no rule calling on plaintiff to file a reply to the averments of new matter was indorsed on the affidavit.
+The appellant makes two contentions: (1) that the statement of claim is insufficient to support a judgment; and (2) that “the affidavit of defense sets up an adequate set-off, to wit, the claim for the damages to the goods lost.”
+1. We have no doubt that the statement of claim, described above, is sufficient; the point requires no discussion.
+2. As appellant now contends that it pleaded set-off or counter-claim, we refer to the Practice Act of 1915, P. L. 483, Sec. 15, requiring that when a defendant relies on set-off or counter-claim, he must serve a copy of his affidavit on plaintiff with notice requiring plaintiff to file a reply; that “the set-off or counter-claim shall be regarded as the defendant’s statement of claim and the plaintiff’s reply as an affidavit of defense thereto”: section 15. We refer to this as conclusive, that when the affidavit of defense was prepared and filed, the pleader apparently did not intend to aver a set-off or counter-claim, for, if that had been intended, he would doubtless have stated it as set-off or counter-claim, and would also have complied with the statute requiring defendant to give notice to plaintiff with a rule to reply. This conclusion that such pleading was not intended, is also supported by the consideration, that, as the Practice Act requires that the averment, of set-off “shall be regarded as defendant’s statement of claim,” and as it is well settled that a set-off “must be pleaded with as much certainty as a plaintiff’s statement of claim” (Michelin Tire Co. v. Schulz, 295 Pa. 140, 145) if an averment of set-off had been intended, it would have been made with due regard to those requirements. Then, too, doubtful pleading must be taken against the pleader: O’Malley v. O’Malley, 272 Pa. 528, 531. The general averment—alleged nnder new matter—that plaintiff lost other bales which it valued at $4,411.47 is not a statement of claim. We. may add, it being-obvious in the circumstances that defendant was not filing a statement of claim against the plaintiff, the plaintiff was not required to proceed for amplification of the pleading under the rule considered in Riling v. Idell, 291 Pa. 472, 475.
+The evident purpose of the averment of new matter was to set up the statute of limitations, and payment of part of the sum claimed, and as to both, the averment was effective, and unless put in issue (see R. R. Co. v. Electric Co., 296 Pa. 40, 47) may mature into an admission.
+Judgment affirmed.
