@@ -1,0 +1,38 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 20"
+decided: "1914-07-15"
+citations: ["58 Pa. Super. 220"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Qrlady, Head, Porter, Henderson, Kephart and Trexler, JJ."]
+parties: ["Zeiler, Appellant, v. Zeiler."]
+source_url: "https://static.case.law/pa-super/58/cases/0220-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 446188
+cites_cases: ["18 Mich. 420", "36 Fla. 385", "44 Ill. App. 135", "49 Pa. 249", "51 Pa. Superior Ct. 603", "63 N. J. Eq. 677", "80 Minn. 373"]
+---
+
+# Zeiler v. Zeiler
+
+## Majority (Carnahan, J., Henderson, J.,)
+
+Carnahan, J.,
+filed the following opinion:
+The parties were married on November 27, 1907, and lived together and cohabited until August 9, 1910. The wife then withdrew and has refused to live with her husband continuously and at any time since.
+On September 17, 1910, the wife filed in the court of common pleas No. 1 of Allegheny county a libel in divorce, alleging that her husband had been guilty of cruel and barbarous treatment endangering her fife, and of indignities such as to render her condition intolerable and life burdensome, and thereby forced her to withdraw from his house and family. The husband filed an answer and, upon his demand, a trial by jury was awarded. The case was terminated January 13, 1913, by a verdict in favor of the husband.
+On February 28, 1913, the husband filed this libel, alleging willful and malicious desertion, continuously since August 9, 1910. The wife answers and also testifies that she withdrew in good faith, for the purpose of instituting her proceeding aforesaid, and that she did not willfully and maliciously desert. The matters involved in the wife’s libel, are considered as determined in that proceeding.
+Testimony has been taken and the case rests upon the above-stated facts.
+We are of opinion that the libel has been filed prematurely, and that during the period covered by the litigation instituted by the wife, there was no willful and malicious desertion. There is no replication to her answer, and she says that she acted in good faith. She could not with propriety have lived with her husband, during the pendency of her litigation.
+R. 8. Martin, with him Jere Carney, for appellant, cited:
+Kelly v. Kelly, 51 Pa. Superior Ct. 603.
+Walter Griffith Powell, for appellee.
+July 15, 1914;
+In reaching this conclusion, we are not to be understood as holding that the question of willful and malicious desertion, notwithstanding the circumstance of the filing of a libel in divorce by the wife, is not one of fact to be determined in this proceeding. But, in view of the pleadings, we feel constrained to refuse the decree as prayed for; and we are, further, of the opinion, apart from the question of pleading, that the libellant has not sustained his charge of willful and malicious desertion.
+And now, to wit, May 15, 1913, a decree of divorce, as prayed for, is refused and the libel is dismissed.
+Error assigned was the decree of the court.
+Opinion by
+Henderson, J.,
+To support an action for desertion it is necessary that the complainant establish the fact that there was a willful and malicious desertion, and absence of the respondent from the habitation of the complainant without a reasonable cause for and during the space of two years. This is the requirement of the statute, and the inquiry in all such cases is whether the absence of the respondent from the habitation of the complainant was willful and malicious. Separation alone is not desertion. There may be excuse or justification for such absence. Desertion is an actual abandonment of matrimonial cohabitation with an intent to desert, willfully and maliciously persisted in without cause for two years: Ingersoll v. Ingersoll, 49 Pa. 249. The intention to desert must accompany the fact of separation. The unexplained absence of a husband or wife from the home of the other persisted in for the space of two years may raise a presumption of willfulness and malice, but the presumption is not conclusive and the circumstances may negative such presumption. The act of 1815 gives a right of divorce to a wife when her husband by cruel and barbarous treatment endangers her life or offers such indignities to her person as to render her condition intolerable and life burdensome and thereby forces her to withdraw from his house and family. Separation from the husband by the wife is one of the facts included in the proceeding for divorce for indignities to the person. Such separation is, of course, not desertion where the complaint is well founded. Should a different conclusion be drawn where the complainant fails to make out a case of cruelty and indignities bo the person but where she acted in good faith but failed to produce such weight of evidence or to establish such a state of facts as the law recognizes as necessary to justify a divorce? If in the honest belief that she had a cause of action she instituted such a proceeding there would be lacking the element of intent to desert and this intent should not be inferred- because of her failure in the former proceedings to secure a decree. The application on the ground of indignities to the person implies the absence of the complainant from the habitation of her husband and it cannot be logically held that such absence is evidence of an intent to desert unless it is shown to be justifiable by a successful prosecution of the divorce proceeding against the husband. The maintenance of the family relation is inconsistent and in many cases incompatible with the pendency of' the action for divorce, and if the rule is established that the wife incurs the risk of a counter-application for a divorce for desertion when in good faith she separates from her husband and begins an action for divorce for cruelty and indignities to the person she is placed at a great disadvantage and might be deterred from asserting her right at all. She could not be expected to know just what facts and what weight of evidence are necessary, and she must therefore rely on the advice of counsel. Under such circumstances no presumption of bad faith should be attributed to the complainant even if her action was not sustained. A “reasonable cause” in the language of the statute is found in the prosecution of the divorce proceeding. The question does not appear to have been .decided in this state but has been considered in other jurisdictions, and the cases concur in the conclusion that the tune of voluntary separation of either party during the pendency of a divorce suit is not to be included in computing the statutory period necessary to support a divorce for desertion brought after the dismissal of the former complaint for the reason that such separation is justifiable: Palmer v. Palmer, 36 Fla. 385; Porritt v. Porritt, 18 Mich. 420; Hurning v. Hurning, 80 Minn. 373; Weigel v. Weigel, 63 N. J. Eq. 677; Haltenhof v. Haltenhof, 44 Ill. App. 135. Of the same purport is 1 Bishop on Marriage and Divorce, sec. 1757. As the appellant’s case was instituted about five weeks after the libel of his wife was dismissed the desertion charged covers a part of the time during which the proceeding against him for divorce was pending and was begun less than six months after his wife’s case was dismissed. As there was evidence of good faith on the part of the appellee and no evidence of bad faith in the prosecution of her case against her husband and the court has so found, the conclusion of the learned trial judge was well reached.
+The decree is affirmed at the cost of the appellant.
