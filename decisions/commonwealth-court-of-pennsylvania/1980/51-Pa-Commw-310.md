@@ -1,0 +1,36 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 657 C.D. 1979"
+decided: "1980-04-21"
+citations: ["51 Pa. Commw. 310"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Crumlish and Judges Rogers and Craig, sitting as a panel of three."]
+parties: ["John Lastoka, Petitioner v. Commonwealth of Pennsylvania, Workmen’s Compensation Appeal Board and Wheeling-Pittsburgh Steel Corporation, Respondents."]
+source_url: "https://static.case.law/pa-commw/51/cases/0310-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1909557
+cites_cases: ["399 A.2d 790", "40 Pa. Commonwealth Ct. 120", "413 A.2d 432", "50 Pa. Commonwealth Ct. 336"]
+---
+
+# Lastoka v. Commonwealth
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+John Lastoka has appealed from a decision of the Workmen’s Compensation Appeal Board, amending a referee’s award of benefits so as to suspend the employer’s obligation for interest on due and unpaid compensation until the date of the award.
+Mr. Lastoka was employed by Wheeling-Pittsburgh Steel Corporation in various capacities for approximately thirty-two years. On April 5, 1976, he filed a claim petition for workmen’s compensation benefits alleging that he had suffered a total loss of hearing in his left ear as a result of exposure to high noise levels in his employment. A referee conducted a hearing and on September 15, 1978, awarded compensation at the rate of $187.00 per week beginning April 2, 1976 for a period of sixty weeks with “interest at the rate of ten (10%) percent per annum in accordance with Section 406.1 of [The Pennsylvania Workmen’s Compensation Act]” which provides in pertinent part:
+The employer and insurer shall promptly investigate each injury reported or known to the employer and shall proceed promptly to commence the payment of compensation due either pursuant to an agreement upon the compensation payable or a notice of compensation payable as provided in Section 407 [77 P.S. §731], on forms prescribed by the department and furnished by the insurer. The first installment of compensation shall be paid not later than the twenty-first day after the employer has notice or knowledge of the employe’s disability. Interest shall accrue on all due and unpaid compensation at the rate of ten per centum per annum.
+Wheeling-Pittsburgh appealed only that portion of the referee’s decision awarding interest, arguing that Section 406.1 requires that interest be awarded from the date of the referee’s decision rather than from the date of disability. The Appeal Board agreed with Wheeling-Pittsburgh and amended the referee’s award to provide interest “effective September 15, 1978.” This appeal by Mr. Lastoka followed. We reverse.
+The sole question presented is: When does compensation become due and unpaid for the purpose of the accrual of interest on due and unpaid compensation under Section 406.1? Section 406.1 clearly provides that the first installment of compensation is due not later than twenty-one days after the employer has notice or knowledge of the disability. The parties agree that Wheeling-Pittsburgh had knowledge of Mr. Lastoka ’s disability on April 6, 1976, when it filed an answer to the claim petition. Compensation was therefore due no later than April 27,1976 and we will amend the ward to provide that date as the time when interest became payable.
+This result is consistent with our decision in Klingler v. Workmen’s Compensation Appeal Board, 50 Pa. Commonwealth Ct. 336, 413 A.2d 432 (1980), where we held that interest payments are designed to put a claimant in the same position as if no contest had been made and are, therefore, part of the compensation due. Similarly, in Mathies Coal Co. v. Workmen’s Compensation Appeal Board, 40 Pa. Commonwealth Ct. 120, 129, 399 A.2d 790, 794 (1979), Judge MacPhail wrote:
+The imposition of interest by the Legislature is not because of fault on the part of the employers, but rather because of delay in payment. Obviously, during the proceedings, the Coal Companies had the use of the funds which were ultimately due the Claimants. By the same token, the Claimants have been deprived of the use of their benefits during the period they were withheld. For this reason they are entitled to additional compensation in the form of interest.
+Wheeling-Pittsburgh’s contention that the Legislature did not intend interest to be due on unpaid compensation where the employer has made a reasonable contest is without merit. As the above cited cases make clear, interest is a compensation and is not a penalty based on some fault on the part of the employer. Penalties against the employer for unreasonable or excessive delays in paying compensation are specifically set out elsewhere in the Act. See Section 435(d) (i) of the Act, added by the Act of February 8, 1972, P.L. 25, 77 P.S. §991(d) (i). Surely, if the Legislature had intended that interest would not accrue in cases of reasonable contest, it would have especially so provided, as it did in the case of attorney’s fees. See Section 440 of the Act, added by the Act of February 8,1972, P.L. 25,77 P.S. §996.
+Order
+And Now, this 21st day of April, 1980, the order of the Workmen’s Compensation Appeal Board amending the decision of the referee is reversed and judgment is entered in favor of John Lastoka and against Wheeling-Pittsburgh Steel Corporation. Wheeling-Pittsburgh Steel Corporation is directed to pay John Lastoka compensation at the rate of $187.00 per week for a period of sixty weeks commencing April 2, 1976 with interest at the rate of ten percent per annum for all installments due and unpaid after April 27, 1978. Wheeling-Pittsburgh Steel Corporation is further directed to pay Dr. Ralph Caparosa $110.00 and to deduct $1683.00 from compensation due and pay this amount to Edwin Beachler, claimant’s attorney.
+Amended Order
+And Now, this 24th day of April, 1980, it is ordered that our order dated April 21,1980 which provided for interest at the rate of ten percent (10%) per annum on all installments of compensation due and unpaid after April 27,1978, shall be and is hereby amended to provide that interest at the rate of ten percent (10%) per a.rnmm on all installments due and unpaid after April 27,1976, so that our said order shall be and read in its entirety as follows:
+The order of the Workmen’s Compensation Appeal Board amending the decision of the referee is reversed and judgment is entered in favor of John Lastoka and against Wheeling-Pittsburgh Steel Corporation. Wheeling-Pittsburgh Steel Corporation is directed to pay John Lastoka compensation at the rate of $187.00 per week for a period of sixty weeks commencing April 2, 1976 with interest at the rate of ten percent (10%) per annum for all installments dne and unpaid after April 27, 1976. Wheeling-Pittsburgh Steel Corporation is further directed to pay Dr. Ralph Caparosa $110.00 and to deduct $1683.00 from compensation due and pay this amount to Edwin Beachler, claimant’s attorney.
+Act of June 2, 1915, P.L. 736, as amended, added by the Act of February 8,1972, P.L. 25, 77 P.S. §717.1.
