@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 109"
+decided: "1947-03-04"
+citations: ["160 Pa. Super. 384"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Baldrige, P. J., Rhodes, Reno, Ross and Arnold, JJ. (Hirt and Dithrich, JJ., absent)."]
+parties: ["Preuhs, Appellant, v. DiBello."]
+source_url: "https://static.case.law/pa-super/160/cases/0384-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 458871
+cites_cases: ["126 A. 791", "160 Pa. Superior Ct. 349", "281 Pa. 320"]
+---
+
+# Preuhs v. DiBello
+
+## Majority (Arnold, J.,)
+
+Opinion by
+Arnold, J.,
+Appellant, Preuhs, executed a written contract for the building of a dwelling house for DiBello. The latter did not pay therefor and appellant entered a mechanic’s lien.
+DiBello moved to strike off the lien, averring a covenant of the written contract: “The contractor [Preuhs] . . ., covenants . . . that no mechanics’ claims or liens shall be filed or maintained . . . against the said buildings and . . . lots . . . for . . .any work done or materials furnished by him, [Preuhs] . . . under this contract.” Under this the lien would of necessity have to be stricken off. To relieve himself therefrom the plaintiff filed an answer averring that “at the time the written contract was executed, there was an oral agreement [between the parties] ... to pay to . . . Preuhs the amount due . . . out of [fire] insurance money alleged by . . . DiBello to be payable ... to her, . . .”; and that the “oral agreement . . . was omitted from the written contract ... by reason of the fraud of . . . DiBello”, in that “DiBello . . . [knew] . . . that she had no control over the payment of the . . . insurance money.”
+After a denying replication the court made an order for a jury trial to determine disputed facts, and at the close of the testimony directed a verdict for DiBello, the defendant; refused a new trial to the plaintiff and struck off the lien. The plaintiff appealed.
+The plaintiff did not stand on his pleading that DiBello knew that she could not control the payment of the insurance money. There was no evidence that DiBello knew she could not control it. On the contrary, all of the evidence showed that she believed that she could. The written contract stipulated “that . . . DiBello will not pay the amount due by her [contract price] until she receive a check from the Home Owners Loan Corporation.” H. O. L. C. refused to pay the fire insurance money to DiBello and instead applied it to its mortgage in spite of DiBello’s efforts to obtain the fund.
+The appellant then offered evidence that there was an antecedent parol contract to permit him to file a lien if DiBello did not get the insurance money. The modern parol evidence rule in Pennsylvania is stated in Gianni v. Russell & Co., Inc., 281 Pa. 320, 126 A. 791, holding that a written contract cannot be reformed or added to by parol evidence of an antecedent or contemporaneous promise, except on an allegation that through fraud, accident or mistake the written agreement failed to express the true understanding. Such a situation was neither pleaded nor proved. There was here no pleading nor proof of a parol misrepresentation which induced the execution of the written contract (see careful review of Judge Reno in Suraci v. Ball, 160 Pa. Superior Ct. 349).
+Proof of the alleged oral agreement could not be received. In Gianni v. Russell & Co., Inc., 281 Pa. 320, 126 A. 791, the plaintiff was a tenant of the defendant under a written lease to use the premises only for the sale of fruit, candy, soda water, etc., and not to sell tobacco in any form. The plaintiff there sued for the breach of an antecedent parol contract that the landlord would not permit other parts of the building to be used for the sale of soft drinks, alleging that this agreement was made in consideration of the plaintiff agreeing not to sell tobacco. It was held, (a) “Where parties, without any fraud or mistake, have deliberately put their engagements in writing, the law declares the writing to be not only the best, but the only, evidence of their agreement”; (b) “All preliminary negotiations, . . . are merged in and superseded by the subsequent written contract . . . and unless fraud, accident or mistake be averred, the writing constitutes the agreement between the parties, and its terms cannot be added to nor subtracted from by parol evidence”; (1) “If they [a writing and an alleged oral agreement] relate to the same subject-matter and are so interrelated that both would be executed at the same time, and in the same contract, the scope of the subsidiary agreement must be taken to be covered by the writing. This question must be determined by the court.” The Gianni case has been so frequently cited and followed that further citations are useless. Since the written agreement here contained a distinct covenant that plaintiff would not file a mechanic’s lien, and the oral agreement relates to the same subject-matter, and is interrelated with it, the written agreement controls.
+The alleged parol promise in the present case is more in contradiction of the written instrument than in the Gianni case. The right to file a lien is only of importance, and the lien can only be filed, in the event of nonpayment. Therefore where in the written agreement the contractor covenants not to file a mechanic’s lien, he cannot thereafter allege that he was to file a mechanic’s lien if not paid. Plaintiff is not helped by the allegation that he was to be permitted to file a lien if he was not paid out of a particular fund, i. e., the insurance money, for the written contract is explicit that he cannot file a lien at all.
+Since the written contract had no omission occurring by fraud, accident or mistake, and was not executed by reason of a false representation, the enforcement of the written contract could not be a fraudulent use thereof.
+We also agree with the court below that the evidence of the plaintiff was not of the quality necessary in this type of proceeding, being neither clear, nor precise, nor indubitable. The careful opinion of the court below by Cummings, J., amply vindicates the judgment, which is hereby affirmed.
