@@ -1,0 +1,39 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "248 Misc. Dkt. 1990"
+decided: "1990-11-30"
+citations: ["136 Pa. Commw. 393", "583 A.2d 56"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before COLINS and BYER, JJ., and NARICK, Senior Judge."]
+parties: ["James MARINARI, John Marinari, Albert J. Marinari and New Hanover Corporation, Petitioners, v. PENNSYLVANIA DEPARTMENT OF ENVIRONMENTAL RESOURCES, Respondent."]
+source_url: "https://static.case.law/pa-commw/136/cases/0393-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1408284
+cites_cases: ["123 Pa. Commonwealth Ct. 498", "125 Pa.Commonwealth Ct. 441", "129 Pa.Commonwealth Ct. 569", "512 Pa. 217", "514 Pa. 430"]
+---
+
+# Marinari v. Pennsylvania Department of Environmental Resources
+
+## Majority (NARICK, Senior Judge.)
+
+NARICK, Senior Judge.
+The Department of Environmental Resources (DER) filed preliminary objections on August 20, 1990 to a petition for review in the nature of a complaint in assumpsit, equity, mandamus and for declaratory judgment (petition), filed by James Marinari, John Marinari, Albert J. Marinari and New Hanover Corporation (Petitioners) on July 20, 1990. We sustain the preliminary objections.
+The facts as alleged in the petition can be summarized as follows. After four years of litigation with municipal authorities to obtain a zoning permit for a landfill use, Petitioners began the process of obtaining permits from DER in November of 1984. However, between November 1984 and November 1987, Petitioners’ applications and revised applications were delayed by DER’s review process, public comments, requests for additional information and substantial input from DER’s Harrisburg office.
+Notwithstanding the fact that DER representatives in October and November of 1987 orally confirmed that Petitioners’ applications met and exceeded all requirements, DER refused to take a final action on the applications. As a result, Petitioners filed an action at No. 178 C.D.1988 with this Court, seeking relief in mandamus, equity and declaratory judgment, and the parties subsequently entered into a settlement agreement on March 1,1988. As per that agreement, DER agreed to issue a solid waste permit to Petitioners in exchange for the latter’s acceptance of numerous conditions.
+Accordingly, DER processed the pending permit application and granted the permit subject to various conditions. However, DER failed to act in regards to Petitioners’ permit modification application. As a result, Petitioners filed another action in this Court at No. 159 M.D.1989 in order to compel DER to take any final action on the application for permit modification, and DER finally denied that application on May 7, 1990.
+Shortly after denying the above application, DER also denied an encroachment permit necessary to complete the permitting scheme. Petitioners appealed both the denial of the application for repermitting and the encroachment permit to the Environmental Hearing Board (EHB).
+Contending in its preliminary objections that Petitioners’ action should be dismissed, DER asserts that (1) Petitioners have an adequate and available administrative remedy and thus this Court has no jurisdiction over the claims contained in the petition; (2) the petition fails to state a claim for breach of the March 1,1988 agreement between the parties; (3) the petition fails to state a claim in mandamus; (4) the petition fails to allege facts which would support an award of damages; (5) Petitioners’ request for review and relief from denial of the encroachment permit constitutes misjoinder of a cause of action; and (6) this Court should dismiss the petition for failure to verify it as per Pa. R.A.P. 1513(e).
+When considering DER’s preliminary objections, we must accept as true all factual averments in the petition. O’Hara Sanitation v. Department of Environmental Resources, 125 Pa.Commonwealth Ct. 441, 557 A.2d 453 (1989). Also, when examining the legal sufficiency of the preliminary objections, we are bound to accept as true all reasonable inferences which may be deduced from the well-pleaded facts. Id.
+As to its first preliminary objection, DER contends that Petitioners’ remedy lies in their appeals to the EHB and that we consequently have no jurisdiction here. While it is true that we are permitted to assume jurisdiction in cases where the administrative process is incapable of providing the relief sought, such is not the case here.
+In contrast to the situation existing when we assumed jurisdiction in Marinari v. Department of Environmental Resources, 129 Pa.Commonwealth Ct. 569, 566 A.2d 385 (1989), DER has taken appealable actions here in the form of denials. Therefore, Petitioners must rely on their appeals of those final actions to the EHB and we need not assume jurisdiction here. Grand Central Sanitary Landfill v. Department of Environmental Resources, 123 Pa. Commonwealth Ct. 498, 554 A.2d 182 (1989).
+DER’s second preliminary objection is that the petition fails to state a claim for breach of the March 1, 1988 agreement. Petitioners allege that DER breached the agreement by denying the permit modification and by behaving in such a way as to deprive Petitioners of the value of the March 1, 1988 solid waste permit. However, even when we accept as true all factual averments in the petition, there are no provisions in the integrated agreement which promise Petitioners a specific outcome or course of conduct on the part of DER. Therefore, we agree that there is no basis in the petition for an alleged breach of the agreement.
+DER’s third preliminary objection is that the petition fails to state a claim in mandamus. Our Supreme Court “has consistently held that mandamus is an extraordinary writ which will only lie to compel official performance of a ministerial act or mandatory duty where there is a clear legal right in the plaintiff, a corresponding duty in the defendant, and want of any other appropriate and adequate remedy.” Pennsylvania Dental Association v. Commonwealth of Pennsylvania Insurance Department, 512 Pa. 217, 227, 516 A.2d 647, 652 (1986) (citations omitted).
+Petitioners argue that mandamus is appropriate here because the agreement provides both a clear legal right to Petitioners and a corresponding duty in DER. However, the Pennsylvania Dental Association court also held that “while a court may direct that discretion be exercised, it may not specify how that discretion is to be exercised nor require the performance of a particular discretionary act.” Id. (emphasis in original) (citation omitted). We agree with DER that even after painstakingly reviewing the agreement, there is no provision directing DER to exercise its discretion in favor of either party to the agreement. Therefore, we must also sustain DER’s third preliminary objection.
+We need not address the fourth preliminary objection since the possibility of any claim for damages is negated by our finding that there is no breach of the agreement. Likewise, we need not address the fifth preliminary objection since Petitioners have appealed the denial of the encroachment permit to the EHB and we have found that they have failed to exhaust their administrative remedies.
+DER lastly contends that we should dismiss the petition for Petitioners’ failure to verify it as per Pa. R.A.P. 1513(e). However, we need not address this since we sustain the preliminary objections on the aforementioned grounds.
+For these reasons, we sustain DER’s preliminary objections and thus dismiss the petition.
+ORDER
+AND NOW, this 30th day of November, 1990, the Department of Environmental Resources’ preliminary objections are sustained and we hereby dismiss the petition.
+. Ohio Casualty Group of Insurance Companies v. Argonaut Insurance Co., 514 Pa. 430, 525 A.2d 1195 (1987).
