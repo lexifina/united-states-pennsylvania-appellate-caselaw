@@ -1,0 +1,23 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 256"
+decided: "1913-02-27"
+citations: ["52 Pa. Super. 255"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady and Porter, JJ."]
+parties: ["Hernig v. Johnson, Appellant."]
+source_url: "https://static.case.law/pa-super/52/cases/0255-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 432813
+---
+
+# Hernig v. Johnson
+
+## Majority (Rice, P. J.,)
+
+Opinion by
+Rice, P. J.,
+This was an action of assumpsit on a promissory note for $600, given by the defendant to the plaintiff. The defense was want of consideration. The immediate transaction which' terminated in the giving of the note was as follows: A check for $600, drawn by the Maryland Lumber Company to the order of the defendant, was indorsed by the latter and delivered to the plaintiff. In exchange, the plaintiff made and delivered his check for the same amount, payable to the order of the defendant, who deposited it in bank. This check was paid in due course, and the proceeds were credited to the defendant’s account in bank. But the check of the Maryland Lumber Company was not paid and came back to the plaintiff protested. Thereupon the plaintiff demanded payment of the defendant, and the latter gave the note in suit for the amount. These facts are undisputed; indeed, they are practically, admitted by the defendant, as the following excerpt from his testimony shows: “Q. On March 24th you got a check from Hernig for $600, which you deposited? A. Yes. Q. On March 27th you got a check from Hernig for $600, which you deposited? A. For this Maryland Lumber Company check—those checks. Q. You deposited them both? A. Yes, sir. Q. Then you had $1,200 in your bank which you got from Mr. Hernig? A. I drew out the first $600 the. day it was deposited. Then it only left $600 in bank. Q. That was not Hernig’s fault, was it? A. I am not blaming Hernig. Q. But you had $1,200 of Hernig’s money? A. I had $600 each time. Q. That means $1,200? A. Yes. Q. And you owed Hernig then the $1,200, from March 29th until April 29th, when you gave him $600 and a note dated May 1st for $600, which is now in suit. Is that so? A. Yes, that is correct.” It is thus seen that the consideration for the note in suit was not the mere discharge of the defendant’s liability as indorser of the check of the lumber company, but the money he had actually received from the plaintiff on the latter’s check. ' Hence, the defendant’s first two points were irrelevant and no error was committed in declining them. The third point was also properly refused. The mere fact, standing alone, that the plaintiff knew that the defendant intended to pay the proceeds of the check to Carr, would constitute no defense' to the- note' the defendant gave for the debt. Upon this feature of the case the learned trial judge instructed the jury as follows: “If you believe that this remarkable deal went through with some secret understanding between Hernig and Carr that Johnson was to be made the scapegoat, and that Johnson received no consideration for this note in suit, then your verdict should be for the defendant. If, on the other hand, you believe that Johnson did receive consideration for the note, then no matter whether he gave every penny of it to some one else, he is liable to the plaintiff for the full amount, with interest, and in that event your verdict would be for the plaintiff.” These instructions were preceded by a fair and adequate statement of the respective contentions of the parties, and were followed by an unqualified affirmance of the defendant’s fourth and fifth points. The effect of the general charge, considered as a whole, was to submit to the determination of the jury the controlling question of fact, whether, because of a secret relation between the plaintiff and Carr, the plaintiff well understood that he was in reality giving his check to the defendant for 1600, for Carr’s sole benefit, as contended by the defendant, or the plaintiff had no arrangement, secret or otherwise, with Carr, by which Carr was to get the money, but, on the contrary, the transaction was just what it appeared to be on its face, as contended by the plaintiff. The general instructions, taken in connection with the affirmance of the defendant’s fourth and fifth points, presented the case to the jury quite as favorably to the defendant as the evidence warranted.
+The assignments of error are overruled and the judgment is affirmed.
