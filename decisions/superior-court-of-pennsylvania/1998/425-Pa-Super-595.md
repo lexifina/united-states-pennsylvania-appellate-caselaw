@@ -1,0 +1,44 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1372"
+decided: "1998-05-28"
+citations: ["425 Pa. Super. 595", "625 A.2d 1256"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before TAMILIA, POPOVICH and CERCONE, JJ."]
+parties: ["Irene H. BYKOWSKI and Chester A. Bykowski, Husband and Wife, v. CHESED, CO., the Boardwalk Group Limited, A New Jersey Limited Partnership, Allstate Management Corp. and Herbert Barness, Jack Katz, Isadore Katz and Marvin Katz, All Individually and as Co-Partners Trading as Valley Park Apartments the Boardwalk Group Limited, A New Jersey Limited Partnership, Allstate Management Corp. and Herbert Barness, Jack Katz, Isadore Katz and Marvin Katz, all Individually and as Co-Partners Trading as Valley Park Apartments, Appeal of Peter J. KAROLY, Esquire and Irene H. Bykowski and Chester A. Bykowski, Husband and Wife."]
+source_url: "https://static.case.law/pa-super/425/cases/0595-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 927779
+cites_cases: ["261 Pa.Super. 641", "277 Pa.Super. 70", "305 Pa.Super. 86", "396 A.2d 842", "410 Pa.Super. 621", "415 Pa.Super. 617"]
+---
+
+# Bykowski v. Chesed, Co.
+
+## Majority (TAMILIA, Judge:)
+
+TAMILIA, Judge:
+Irene H. and Chester A. Bykowski, as well as their counsel, Peter J. Karoly, appeal from the Order filed March 12, 1992, which granted appellees’ motion for judgment on the pleadings and dismissed them from the proceedings and .the Order filed March 16, 1992, which directed appellants to pay attorneys’ fees in the amount of $2,000.
+Appellees Herbert Barness, Jack Katz, Isadore Katz and Marvin Katz, individually and trading as Valley Park Apartments (Valley Park), were sued by the Bykowskis, who averred they sustained injuries as a result of an alleged slip and fall on real estate owned by Chesed Company (Chesed). Appellants claimed appellees owned the improvements on the Chesed property. Valley Park filed an answer denying the allegations that they were the owners of the improvements in question. In fact, another defendant, the Boardwalk Group Limited (Boardwalk), in its pleadings, admitted ownership of the improvements in question. On that basis, on July 5, 1991, Valley Park filed a motion for judgment on the pleadings. The trial court scheduled argument on all outstanding motions for March 12, 1992. When the Bykowskis’ counsel, Mr. Karoly, did not appear, the trial court permitted appellees’ removal from the case for the following reasons:
+Counsel for the defendants appeared for purposes of arguing his motion. Counsel for the plaintiff (appellant herein) was absent. Not surprisingly, counsel now lays blame for his absence on the court’s supposed failing to provide him with notice of the argument. While we are confident that he was notified of scheduled argument, we do not need to make a factual finding in this regard. Mr. Karoly had ample opportunity, from July 5, 1991, to March 12, 1992, to file a response to defendants’ motion, and failed to do so. Had he done so, his absence at the argument would not have prejudiced him or his client, as it is the court’s custom to consider the matter submitted on brief in the absence of counsel.
+Just the same, the court heard argument on the merits. The defendants, who had not held title since 1973 to land or improvements where plaintiffs’ slip and fall allegedly occurred in October, 1988, sought removal from the case.
+We concluded that the motion was supportable based on the argument of counsel.
+(Slip Op.,- McGinley, J., 11/17/92, pp. 1-2.)
+Appellants argue the trial court erred in making a factual determination that the Valley Park defendants were not the owners of the improvements since, in considering a motion for judgment on the pleadings, a trial court must accept the non-moving party’s pleadings as true and not consider the existence of facts not apparent on the face of the motion.
+Standard Pennsylvania Practice 2d § 31:18 outlines the proper method for reaching a decision on a motion for judgment on the pleadings.
+The motion for judgment on the pleadings is in effect a demurrer and, in considering the motion, the court should be guided by the same principles as would be applicable if it were disposing of a preliminary objection in the nature of a demurrer. All averments of fact properly pleaded in the adverse party’s pleadings must be taken as true, or as admitted, unless their falsity is apparent from the record. This rule also encompasses every reasonable inference that the court can draw from the facts as set out in the pleadings. Averments of fact which are material and relevant are accepted as true even though denied. Under Rule 1034, when a party moves for judgment on the pleadings, he admits, for the purposes of the motion, not only the truth of the allegations of his adversary, but also the untruth of his own allegations which have been denied by his adversary.
+Standard Pa. Practice 2d, § 31:18 (footnotes omitted; emphasis added). “Judgment on the pleadings may only be granted where no material facts are in dispute and the case is free from doubt so that a trial would clearly be a fruitless exercise.” Toner v. Nationwide Insurance Co., 415 Pa.Super. 617, 620, 610 A.2d 53, 55 (1992).
+After a careful review of the pleadings and facts of record, we find the court correctly determined that the real estate upon which the alleged injury occurred was owned by Chesed and the improvements were owned by Boardwalk. It is apparent from the record that appellants’ assertion that appellees were the owners of the property in question is false. We agree with the court appellees are entitled to judgment as a matter of law since there is no factual dispute which requires determination by a jury.
+Next, appellants contend the court erred in its award of counsel fees to Valley Park in the amount of $2,000. “ ‘The reasonableness of an award of attorney’s fees, of course, is a matter which rests within the sound discretion of the trial judge and will be altered by an appellate court only when there is a clear abuse of discretion.’ ” Wrenfield Homeowners Association v. DeYoung, 410 Pa.Super. 621, 630, 600 A.2d 960, 964 (1991), quoting Shearer v. Moore, 277 Pa.Super. 70, 78, 419 A.2d 665, 669 (1980) (citations omitted). The trial court found authority for its award of counsel fees under 42 Pa.C.S. § 2503(9) since appellants’ conduct was vexatious during the pendency of the action. The court reasoned as follows:
+As to the order for Mr. Karoly to pay counsel fees, the combination of circumstances are such that cry out for the imposition of counsel fees.
+1. He improperly sued people having no connection with the incident that is the basis for suit.
+2. He failed to agree to the removal of those parties when the error was repeatedly brought to his attention.
+3. He failed to respond to the motion for judgment on the pleadings, thereby forcing the defendant to appear and argue his motion to extract defendants from a lawsuit they shouldn’t have been in in the first place.
+This course of conduct is clearly vexatious and falls within the intent of 42 Pa.C.S. § 2503(9).
+(Slip Op. at 2-3.)
+After reviewing the record, we agree with the court’s reasoning and find it did not abuse its discretion in awarding counsel fees to Valley Park. On seven different occasions, appellees wrote to appellants requesting their dismissal from the case. Appellants never responded to any of these requests. Conduct is considered vexatious if it is instituted without sufficient grounds and serves only to cause annoyance. In re Estate of Roos, 305 Pa.Super. 86, 451 A.2d 255 (1982). Clearly, in continuing to ignore the fact appellees did not own the relevant property, appellants’ conduct in not responding and in continuing the suit and this appeal against appellees was vexatious.
+Orders affirmed.
+. Appellants argue the trial court was not allowed to consider information contained in the Lehigh County Recorder of Deeds Office when deciding a motion for judgment on the pleadings. Since this motion is the equivalent to a demurrer, in considering it, the court should be guided by the same principles applicable to disposing of a preliminary objection in the nature of a demurrer. As such, the court has the right to take judicial notice of public documents. See Reese v. Moshannon Coal Co., 8 Pa.D. & C.3rd 743 (1977), aff’d per curiam, 261 Pa.Super. 641, 396 A.2d 842 (1978).
+. Section 2503, Right of participants to receive counsel fees, states: The following participants shall be entitled to a reasonable counsel fee ...:
+(9) Any participant who is awarded counsel fees because the conduct of another party in commencing the matter or otherwise was arbitrary, vexatious or in bad faith.
