@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 310"
+decided: "1921-04-18"
+citations: ["76 Pa. Super. 221"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Trexler, Keller and Linn, JJ."]
+parties: ["Cusano, Appellant, v. Mecaskie."]
+source_url: "https://static.case.law/pa-super/76/cases/0221-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8862001
+---
+
+# Cusano v. Mecaskie
+
+## Majority (Head, J.,)
+
+Opinion by
+Head, J.,
+Tbe plaintiff filed a bill praying for a decree of specific performance of an executory contract for tbe sale of real estate, entered into between bim and tbe defendants. Tbe agreement was in writing, dated 27tb of May, 1918. Therein tbe present defendants, tbe owners of a piece of real estate in tbe City of Philadelphia, covenanted and agreed to convey tbe same clear of all encumbrances for a price therein named. It contained a provision for tbe payment of $50 band money “which deposit shall be forfeited to tbe said party of tbe first part [tbe vendor] as liquidating damages in case of tbe default by tbe said party of tbe second part, etc.” It further provided that settlement was to be made “within ninety days from tbe date hereof, said time to be tbe essence of this agreement, unless extended by mutual consent in writing endorsed hereon.” It was known to tbe plaintiff as well as to tbe defendants that at tbe time tbe agreement was made, tbe property was subject to a ground rent yielding tbe sum of $42 annually. It was also known to both that such rent was a redeemable one and it was in tbe contemplation of tbe parties that its redemption could be brought about under ordinary circumstances.
+Tbe learned judge below, upon sufficient evidence, found that it was practically impossible for tbe vendor to bring about this redemption of tbe ground rent because be finds as follows: “Respondents were ready and willing at all times during tbe life of said agreement, expiring August 27, 1918, to execute and deliver their deed of conveyance in accordance with its terms, but upon communicating with tbe Fidelity Trust Company of Philadelphia, agents for tbe collection of tbe said ground rent, for tbe purpose of obtaining a deed of extinguishment thereof, they were then informed that tbe owners of said ground rent were scattered, some residing in Europe, whose whereabouts were unknown, and are still unknown after a search, of over two years, and that to procure such an exting-uishment was an impossibility, etc.” He further found there was no meeting of the parties on the date fixed for the settlement, and that the present plaintiff, the vendee in the agreement, at no time before the expiration date named in the agreement had ever indicated to the vendor his willingness to accept a deed subject to the ground rent, nor had he tendered for execution a deed made in accordance with the terms of the agreement, and the balance of the purchase money named therein. Being of opinion that under such circumstances, the plaintiff was in no position to demand a decree for specific performance, in that he had failed to make a tender of performance by himself, the learned chancellor dismissed the bill. We are of opinion he was right in so doing, not only for the reason he assigned, but for another that is, and ought to be, a matter of grave consideration in such cases. It has often been said a decree of specific performance is of grace and not of right. This of course does not mean that the granting or refusal of such a decree is to be predicated upon the mere whim of a chancellor, or as the result of some arbitrary conclusion reached by him. On the contrary his decree should follow the exercise of a sound judicial discretion under the facts of the particular case. It was not necessary for the present plaintiff to come into a court of equity to recover back any money he had paid, nor to recover such damages resulting from the loss of his bargain as might be awarded in a proper case by the judgment of a court of law. A court of equity, however, moves along somewhat different lines. Its decrees, when made, bind not merely property but become obligatory upon persons and may be enforced by remedies dealing with individuals. Now were a decree of specific performance of this contract to be made under existing conditions, how would the court below seek to enforce its performance? With the best will in the world, the defendants are unable to perform the contract tbej made and equitable decrees are not to be obtained for tbe purpose of coercing individuals to do impossible things.
+We are therefore of opinion the learned court below was right in dismissing the bill, and his decree should not be interfered with. Decree affirmed; the costs to be paid bj appellant.
