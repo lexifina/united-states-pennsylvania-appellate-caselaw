@@ -1,0 +1,71 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1751 C.D. 1993"
+decided: "1994-10-06"
+citations: ["168 Pa. Commw. 26", "648 A.2d 1353"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before McGINLEY and KELLEY, JJ., and SILVESTRI, Senior Judge."]
+parties: ["JARRETT’S LOUNGE, LTD., Appellant, v. BOARD OF LICENSE AND INSPECTION REVIEW OF THE CITY OF PHILADELPHIA."]
+source_url: "https://static.case.law/pa-commw/168/cases/0026-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1469013
+cites_cases: ["144 Pa.Commonwealth Ct. 410", "443 A.2d 1206", "502 Pa. 545", "532 Pa. 304", "615 A.2d 1298", "66 Pa.Commonwealth Ct. 238"]
+---
+
+# Jarrett's Lounge, Ltd. v. Board of License & Inspection Review
+
+## Majority (KELLEY, Judge.)
+
+KELLEY, Judge.
+Jarrett’s Lounge, Ltd. (Jarrett’s) appeals from an order of the Court of Common Pleas of Philadelphia County (trial court) which affirmed a decision by the City of Philadelphia Board of License and Inspection Review (board) denying Jarrett’s application for renewal of a dance hall license.
+I. FACTS AND PROCEDURAL HISTORY
+Jarrett’s is a restaurant/lounge located in the City of Philadelphia. Jarrett’s filed an application for renewal of its dance hall license. On August 22, 1992, the City of Philadelphia Department of Licenses and Inspections (department) disapproved Jarrett’s application for the renewal of a dance hall license after a police investigation and report. The renewal was rejected based on objections raised by the police department and the community.
+On or about September 5, 1992, Jarrett’s appealed the department’s rejection of its renewal to the board. At a public hearing held before the board on November 10, 1992, certain members of the police department testified that they had made several arrests outside of Jarrett’s for narcotics activity and had received numerous complaints from residents regarding constant activity outside the property. These complaints ranged from gunshot calls to vandalism and illegal parking.
+The board affirmed the department’s decision to deny renewal of Jarrett’s dance hall license.
+On November 16, 1992, Jarrett’s appealed the board’s decision to the trial court. On March 4, 1993, the trial court granted Jarrett’s petition for supersedeas, which permitted Jarrett’s patrons to dance pending resolution of the appeal. The trial court granted Jarrett’s petition due to the board’s failure to timely certify the record to the trial court pursuant to an order dated November 24, 1992.
+On June 24, 1993, the trial court heard arguments on Jarrett’s appeal following which the trial court denied the appeal. Thereafter, the trial court denied Jarrett’s request for stay pending appeal to this court.
+Jarrett’s then filed an application for stay with this court. By order dated October 13, 1993, this court denied Jarrett’s application for stay of the trial court’s order pending appeal for failure to establish that it will suffer irreparable injury if the stay is denied and that the public interest will not be adversely affected.
+On or about February 14, 1994, Jarrett’s filed with this court an application for an expedited hearing which was also denied in light of the fact that the record had not yet been received in this matter from the trial court.
+On April 7, 1994, Jarrett’s filed a motion for a briefing schedule and argument without Pa.R.A.P. 1925(b) opinion and stay pending hearing. By order dated April 27, 1994, this court ordered that Jarrett’s motion for stay pending hearing shall be treated as a motion for stay pending appeal and directed the chief clerk of this court to list the motion for stay for argument along with the merits of this appeal. This court further ordered Jarrett to file a brief on the motion for stay and a brief on the merits.
+Jarrett’s timely filed its brief on the merits in this matter but failed to file a brief addressing the motion for stay pending appeal. Accordingly, this court denies Jarrett’s motion for stay pending appeal for failure to file a brief in support thereof.
+II. MERITS
+Initially, we note that our scope of review in this matter is limited to determining whether constitutional rights were violated, an error of law was committed, or whether necessary findings of fact are not supported by substantial evidence. Administrative Agency Law, 2 Pa.C.S. § 704.
+On appeal, Jarrett’s presents the following five issues for our review:
+1. Whether the trial court erred in finding that the Dance Hall Act is constitutional;
+2. Whether the trial court erred in finding that the board’s denial of a dance hall license did not violate Jarrett’s due process rights under the United States and Pennsylvania Constitutions;
+3. Whether the trial court erred in finding that Jarrett’s was required to obtain a dance hall license under the Dance Hall Act;
+4. Whether the trial court erred in finding that the findings of fact as determined by the board accurately reflected evidence and testimony given at the time of the hearing; and
+5. Whether the trial court erred in finding that the conclusions of law as stated by the board were properly formulated.
+In support of the first two issues set forth above, Jarrett’s argues that the denial of a dance hall license violated its due process rights because the Dance Hall Act is void for vagueness. However, we find that Jarrett’s has waived this constitutional argument by failing to notify the Attorney General pursuant to Pa.R.C.P. No. 235 and Pa.R.A.P. 521. See Kepple v. Fairman Drilling Co., 532 Pa. 304, 615 A.2d 1298 (1992).
+These rules require that a party drawing into question the constitutionality of any statute wherein the Commonwealth is not a party must give notice in writing to the Attorney General, thereby enabling the Attorney General to be heard on the question of the constitutionality of the statute involved without formal intervention. The record in this case is devoid of any indication that Jarrett’s complied with either Rule 235 or Rule 521.
+Next, Jarrett’s argues that the trial court erred in finding that Jarrett’s was required to obtain a dance hall license under the Dance Hall Act. Jarrett’s points out that the Dance Hall Act was enacted in 1919 and contends that it is obvious that the Dance Hall Act was intended to regulate an event such as a special or public dance as opposed to regulating all dancing.
+As correctly noted by Jarrett’s, this court or any other appellate court in Pennsylvania, has not decided the specific issue of whether the Dance Hall Act regulates only special public dances or public balls or whether the act regulates all dancing thereby requiring all establishments, such as Jarrett’s who have a dance floor, to obtain a dance hall license.
+We note that where a statute is unclear and its words are not explicit, then and only then may a court embark upon the task of ascertaining the intent of the legislature by reviewing the necessity of the act, object to be obtained, circumstances under which it was enacted and mischief to be remedied, and other considerations guiding judicial review of statutes in an attempt to identify the legislative intent. See Statutory Construction Act of 1972, 1 Pa.C.S. § 1921; Philadelphia Suburban Corp. v. Commonwealth, 144 Pa.Commonwealth Ct. 410, 601 A.2d 893 (1992). This court is not free to disregard the plain, clear meaning of a statute in guise of pursuing its spirit. Id. In construing a statute, this court must determine the legislative intent from the totality of the statute and render an interpretation and construction which gives effect to all of its provisions, if possible. School District of Pittsburgh v. City of Pittsburgh, 66 Pa.Commonwealth Ct. 238, 443 A.2d 1206 (1982).
+The following sections of the Dance Hall Act are pertinent in resolving the issue of whether Jarrett’s is required to obtain a dance hall license. Section 2 of the Dance Hall Act, definition of terms, defines the term “public dance” or “public ball” to include:
+[A]ny dance or ball conducted in connection with instruction in dancing for hire, and any dance or ball to which admission may be had by the payment of a fee or by the purchase, possession, or presentation of a ticket or token, or in connection with which a charge is made for caring for clothing or other property, and any dance or ball to which the public generally may gain admission with or without the payment of a fee.
+58 P.S. § 4732.
+The terms “dance hall” or “ball room” are defined in section 2 to include:
+[A]ny room, place, or space, in which a public dance or public ball, as herein defined, shall be held, and any room, hall, or academy, in which classes in dancing are held and instruction in dancing is given for hire.
+Id.
+Section 3, permit for public dances; fee, of the Dance Hall Act provides as follows:
+. From and after the first day of June one thousand nine hundred and nineteen, no person, persons, society, club, or corporation shall hold a public dance or public ball within the limits of any city of the first, ... class, within this Commonwealth, without having first obtained a permit therefor from the mayor thereof: Provided, however, Such permit shall not be required for dances held and conducted by regularly established instructors in dancing in connection with such instruction.
+The fee for such permit, which shall be paid at the time of the issuing thereof, shall be one dollar for eách public dance or ball.
+53 P.S. § 4733.
+Section 4, license for dance halls; application; fee; posting of license, of the Dance Hall Act, provides, in part, that:
+[I]t shall be unlawful to hold or conduct any public dance or public ball, or to hold or conduct classes in dancing, or to give instructions in dancing for hire, in any hall, ball room, or academy, within the limits of any city of the first, ... class, within this Commonwealth, unless the dance hall or ball room or academy, in which the same may be held, shall have been duly licensed for such purpose.
+53 P.S. § 4734.
+It is not clear from section 2 of the Dance Hall Act that the definition of the terms public dance or public ball is intended to include exclusively only events such as special public dances or public balls. While it is true that the definition of dance hall or ball room found in section 2 includes the word “space”, it is not clear from the definition of the terms dance hall or ball room whether dance floors found in establishments such as Jarrett’s are intended to be included within the meaning of those terms.
+This court believes that the meaning of the Dance Hall Act does become clear when section 2 is read along with sections 3 and 4 of the act. Section 3 specifically requires that a permit shall be obtained by anyone holding a public dance or public ball and the fee for such a permit shall be one dollar for each public dance or ball. This language certainly indicates that the term public dance or ball means a specific event and not all dancing such as is found in Jarrett’s. Furthermore, section 4 indicates that a public dance or public ball for which a permit is required by section 3 is prohibited in any hall or ball room unless the proprietor of the dance hall or ball room shall have obtained a license.
+Reading sections 2, 3, and 4 together reveals that a person may not hold a public dance or public ball unless he first obtains a permit for each such public dance or public ball and holds it in a hall or ball room duly licensed for such purpose. This clearly indicates that the provisions of the Dance Hall Act govern only public dances or public balls held on an event basis and do not govern the type of dance floor or dancing found in Jarrett’s lounge.
+Jarrett’s is primarily a restaurant/bar which serves alcoholic beverages to its customers. The record in this case reveals that Jarrett’s is not an establishment in the business of holding public dances or public balls for persons who have obtained a permit to do so in accordance with the Dance Hall Act. Dancing at Jarrett’s is incidental to its main business of being a place where patrons can drink alcoholic beverages and purchase food.
+This interpretation of the Dance Hall Act is consistent with the requirements of the Statutory Construction Act. The Dance Hall Act was enacted in 1919 at a time when public dances or public balls were more common than today. In fact, the Dance Hall Act contains a section making it unlawful to permit any person to attend or take part in any public dance who has not reached the age of sixteen years. See 53 P.S. § 4740.
+It is apparent that the legislative purpose was to regulate public dances or public balls to which minors attended in order to protect their safety and welfare. This is evidenced by sections 6, 7, 8, and 9 of the Dance Hall Act which require that each dance hall or ball room licensed for public dances shall be a safe and proper place; that a license shall be revoked for disorderly or immoral conduct on the premises; that all public dance halls shall be kept in a clean, healthful and sanitary condition; and that all public dance halls are subject to inspection by the police who shall have the power to close a dance hall where a public dance is given for, among other things, indecent acts. See 53 P.S. §§ 4736-4739.
+Accordingly, for the reasons set forth above, this court holds that Jarrett’s is not required to obtain a dance hall license in order to provide a space for dancing in its establishment. The order of the trial court is reversed.
+ORDER
+NOW, this 6th day of October, 1994, the order of the Court of Common Pleas of Philadelphia County, dated June 24, 1993, at No. 2078 November Term, 1992, is hereby reversed.
+It is further ordered that the motion for stay pending appeal filed by Jarrett’s Lounge, Ltd. in this matter is hereby denied.
+. See Pennsylvania Public Utility Commission v. Process Gas Consumers Group, 502 Pa. 545, 467 A.2d 805 (1983).
+2. Act of May 19, 1919, P.L.. 193, as amended, 53 P.S. §§ 4731-4742.
+. Because we reverse the trial court on this issue, we find it unnecessary to decide the remaining two questions raised by Jarrett’s.
