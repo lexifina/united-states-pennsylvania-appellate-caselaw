@@ -1,0 +1,50 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 616 C.D. 1976"
+decided: "1979-04-26"
+citations: ["42 Pa. Commw. 277"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Cbumlish, Jb., Blatt and DiSalle, sitting as a panel of three. Reargued December 5, 1978, before President Judge Bowman and Judges Cbumlish, Jb., Menoeb, Rogebs, Blatt, DiSalle and Cbaig. Judges Wilkinson, Jb. and MacPhail did not participate.", "Judge Craig joins in this dissent."]
+parties: ["Pamela M. Scholtz et al., Appellants v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Appellee."]
+source_url: "https://static.case.law/pa-commw/42/cases/0277-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1896553
+cites_cases: ["16 Pa. Commonwealth Ct. 485", "26 U.S.C. §3304", "29 Pa. Commonwealth Ct. 264", "29 Pa. Commonwealth Ct. 79", "332 A.2d 853", "34 Pa. Commonwealth Ct. 128", "34 Pa. Commonwealth Ct. 536", "35 Pa. Commonwealth Ct. 575", "368 A.2d 1367", "370 A.2d 815", "382 A.2d 1287", "383 A.2d 1303", "387 A.2d 669", "39 Pa. Commonwealth Ct. 146", "394 A.2d 1320", "400 A.2d 685", "42 Pa. Commonwealth Ct. 234", "90 Stat. 2760"]
+---
+
+# Scholtz v. Commonwealth
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+This is a consolidated appeal from four decisions of the Unemployment Compensation Board of Review (Board) affirming the referee’s denial of benefits to Pamela Scholtz, Ellen C. Bancroft, Patricia Jean Pickersgill and Janice D. Knnning (claimants) pursuant to Section 401(d) of the Unemployment Compensation Law (Act).
+The claimants, all temporary professional teachers, were hired by the Pittsburgh Board of Public Education in January 1974. It appears from the record that they taught at the Conroy Special Education Center until the summer recess of 1974 and returned to their jobs in September of 1974 for the 1974-75 school year. That school year ended on June 13,1975, and the claimants then filed applications for unemployment benefits. They applied to the Bureau of Employment Security (Bureau) for Special Unemployment Assistance (SUA) benefits pursuant to Title II of the Emergency Jobs and Unemployment Assistance Act of 1974, 26 U.S.C. §3304 Note (Emergency Act). The Bureau denied their applications because it found, contrary to the requirements for SUA benefits, that they were not available for work within the meaning of Section 401(d) of the Unemployment Compensation Law. On appeal to the referee, the cases were consolidated, and after a hearing, the referee issued four separate decisions upholding the Bureau’s decisions. The Board affirmed the referee and this appeal followed.
+Section 203(b) of the Emergency Act provides in pertinent part, that individuals in an instructional capacity are ineligible to receive benefits between two successive years if:
+(1) such individual performed services in any such capacity for any educational institution or agency in the first of such academic years or terms; and
+(2) such individual has a contract to perform services in any such capacity for any educational institution or agency for the later of such academic years or terms.
+26 U.S.C. §3304 Note.
+The contract referred to in the statute need not be a formal written contract, but can consist of an implied agreement or mutual commitment between the teacher and the employer. Ortiz v. Unemployment Compensation Board of Review, 42 Pa. Commonwealth Ct. 234, 400 A.2d 685 (1979). In the instant case the referee made the following finding of fact with respect to each of the claimants:
+In accordance with past practice and policy, a mutual commitment existed between the claimant and the Board of Education whereby the claimant would return to her former position unless notified otherwise.
+The Board accepted this finding and it is therefore binding on this Court if it is supported by substantial evidence. Rodites v. Unemployment Compensation Board of Review, 34 Pa. Commonwealth Ct. 128, 382 A.2d 1287 (1978).
+The record indicates that the claimants had not re' ceived notice that their services had been terminated, they had not notified the Board of Education that they would not return, and as a matter of fact they all did return in September of 1975. Furthermore, in her application for benefits claimant Pickersgill indicated that she intended to return to work if “not layed-off” [sic].
+In a closely analogous case, Hyduchak v. Unemployment Compensation Board of Review, 35 Pa. Commonwealth Ct. 575, 387 A.2d 669 (1978), we held that non-tenured public school teachers were ineligible for unemployment benefits during the summer months because they had an implied agreement with the school authorities to return to their positions in the fall. In that ease, as here, the claimants did not have a written contract, were non-tenured and were not officially notified until late in the summer that they were to return to their teaching positions. The referee nevertheless found that they had a reasonable expectation of employment after the summer recess. We believe that the facts of the present case are so similar to those present in Hyduchak, supra, that our decision in that case compels us to affirm the Board’s decision here.
+We also believe that sufficient evidence existed in the record to justify the Board’s conclusion that the claimants were not available for work within the meaning of Section 401(d) of the Act. We have previously held that school employees are generally not eligible for unemployment benefits during the summer months because they are not then available for suitable work without limitation and thus are not actually and permanently attached to the labor force. Davis v. Unemployment Compensation Board of Review, 39 Pa. Commonwealth Ct. 146, 394 A.2d 1320 (1978); Miller v. Unemployment Compensation Board of Re view, 34 Pa. Commonwealth Ct. 536, 383 A.2d 1303 (1978); Chickey v. Unemployment Compensation Board of Review, 16 Pa. Commonwealth Ct. 485, 332 A.2d 853 (1975). The fact that the claimant Pickers-gill indicated that she would have accepted full-time work during the summer and therefore not return to school in September is not dispositive of the issue because the referee apparently believed that all the claimants expected and intended to return to their school positions. The issue of availability is one of fact, Calvano v. Unemployment Compensation Board of Review, 29 Pa. Commonwealth Ct. 79, 368 A.2d 1367 (1977), with the burden of proving availability on the claimant. Because we believe that the Board here did not capriciously disregard competent evidence in making the finding of non-availability, we must sustain it. Koba v. Unemployment Compensation Board of Review, 29 Pa. Commonwealth Ct. 264, 370 A.2d 815 (1977).
+Accordingly, we affirm the denial of benefits.
+Order.
+And Now, this 26th day of April, 1979, the orders of the Unemployment Compensation Board of Review, denying benefits to Pamela M. Scholtz, Ellen C. Bancroft, Patricia Jean Pickersgill, and Janice D. Running are affirmed.
+Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §801(d).
+Significantly, the law has since been amended to provide that benefits will not be payable “if there is a contract or reasonable assurance that any such individual will perform services in any such capacity for any educational institution in the period of such academic years or terms.” Section 203(b) of that Act, added by the Act of October 20, 1976, Pub. L. No. 94-566, 90 Stat. 2760, 26 U.S.C. §3304(a) (6) (A) (i) (emphasis added).
+Ms. Pickersgill’s claim was designated as the “lead case” at the hearing before the referee, and therefore, only her application for benefits was made part of the record.
+
+## Dissent (Judge DiSalle :)
+
+Dissenting Opinion by
+Judge DiSalle :
+I respectfully dissent. I disagree with the majority’s conclusion that claimants had a reasonable expectation of being employed the following school year and thus were not available for work within the meaning of the Act.
+In Chickey v. Unemployment Compensation Board of Review, cited by the majority, Judge Kramer wrote that “ [i]f the employees in this case had made an application for unemployment compensation whereby they had indicated that they were available for suitable work without any limitation, then there is little doubt they would have been entitled to benefits.” 16 Pa. Commonwealth Ct. at 494, 332 A.2d at 857. In both her application for assistance and her testimony before the Board, claimant Pickersgill, the group’s spokesperson, stated that her availability for work was unlimited and unrestricted and that had she received an offer for a permanent job she would have accepted it.
+While this case may be factually similar to Hyduchak v. Unemployment Compensation Board of Review, supra, I think it can be distinguished. In Hyduchak, we looked closely at statements made by the claimants at the hearing and decided that each believed he had an implied agreement to return in the fall. This expectation in the mind of each claimant justified the board in finding a mutual commitment. But the record here does not support such a finding. When the school term ended in June of 1975, claimants were given no indication whatsoever that they would have jobs waiting for them in September. In fact, from June 13 to the beginning of the September term, they received no communication one way or the other from the Board of Education. Having failed to find a permanent job that summer, claimant Pickersgill testified that when she returned to school in September, she did so on her own, with merely the hope that she would get her old job back. Adding to that her statement that had she been offered a permanent job in July or August, she would most certainly have accepted it, it becomes clear that claimants here did not have the same expectation to return to work as did the claimants in Hyduchak.
+I would reverse the denial of benefits.
+Judge Craig joins in this dissent.
