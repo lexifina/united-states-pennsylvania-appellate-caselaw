@@ -1,0 +1,45 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2012 C.D. 1976"
+decided: "1978-03-09"
+citations: ["34 Pa. Commw. 207"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges Crumlish, Jr., Mencer and Biatt, sitting as a panel of three."]
+parties: ["Arthur S. Kuhn et al. v. Hanover General Hospital and Hanover Borough Zoning Hearing Board. Hanover General Hospital, Appellant."]
+source_url: "https://static.case.law/pa-commw/34/cases/0207-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1887097
+cites_cases: ["16 Pa. Commonwealth Ct. 67", "27 Pa. Commonwealth Ct. 32", "30 Pa. Commonwealth Ct. 330", "329 A.2d 316", "365 A.2d 670", "373 A.2d 1158"]
+---
+
+# Kuhn v. Hanover General Hospital
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+The Hanover General Hospital (Hospital) and the Hanover Zoning Hearing Board (Board) appeal here from an order of the Court of Common Pleas of York County which reversed a decision of the Board and denied a special exception to the Hospital to construct an off-site parking lot.
+The Hospital had applied to the Board for a special exception to allow the construction of a public parking lot, primarily for hospital employes, to be located on the corner of Stock and Charles Streets in the Borough of Hanover, an area zoned residential R-l. After several public hearings at which substantial neighborhood opposition was expressed, the Board granted the necessary permit for the construction. A group of neighbors (protestants) appealed the Board’s decision to the court of common pleas, and after supplementing the record with additional testimony, the lower court held that the hospital had not met its burden to come within the requirements of the applicable zoning ordinance and reversed the Board’s decision. The Hospital has now appealed.
+In a zoning case where the court below took additional evidence, review by this Court is limited to a determination of whether or not the lower court abused its discretion or committed an error of law. Miorelli v. Zoning Hearing Board of Hazleton, 30 Pa. Commonwealth Ct. 330, 332, 373 A.2d 1158, 1159 (1977).
+The off-site parking lot which the Hospital proposes to build is designed to provide space for 28 cars. The Hospital currently has an on-site parking capacity of 85 cars and is constructing additional on-site lots to provide another 29 spaces. It has approximately 390 employes and a 245 bed capacity. Even with the off-site lot here proposed, the Hospital does not have sufficient parking to satisfy the Borough ordinance concerning off-street parking requirements, Section 140-105 of which provides in pertinent part:
+In order to meet requirements for vehicleparhing space, where such space is not available on the lot occupied by a building, the Zoning Hearing Board may, after receipt of a favorable report from the Borough Planning Commission on the proposal, and after public notice and hearing, grant a permit for the establishment of a parking lot in a residential district, provided that the parking lot is within five hundred (500) feet of the building in question. (Emphasis added.)
+The lower court interpreted the above emphasized portion of the ordinance as establishing a threshold requirement that the Hospital had to demonstrate that additional parking space was not available on the property where the Hospital is located before parking-on any off-site lot may be permitted. The court applied this interpretation to evidence presented by the protestants that the Hospital had open space available on its own property which could be used to provide 77 additional parking spaces and concluded that the Hospital therefore did not come within the requirements of the ordinance. The Hospital maintains that this interpretation is erroneous.
+The Hospital urges that the portion of the ordinance reading “[i]n order to meet requirements for vehicle-parking space, where such space is not available on the lot occupied by a building” should be interpreted to mean that an applicant is entitled to obtain a permit for an off-site lot whenever there is insufficient space on its property to provide the requisite number of parking spaces to satisfy the off-street parking requirements of the Borough ordinances. It observes that, even if all of the space suggested by the protestants as available here were' arranged for parking, there would still not be enough to satisfy requirements. We believe that the lower court’s interpretation reflects more accurately both the common usage of the words and the legislative intention behind the ordinance.
+Undefined terms used in a zoning ordinance must be given their plain, ordinary, usually understood meaning. V.S.H. Realty v. Zoning Hearing Board of Sharon Hill, 27 Pa. Commonwealth Ct. 32, 35, 365 A.2d 670, 672 (1976). We believe that it is consistent with common usage to interpret the portion of the ordinance in issue as placing an initial burden on an applicant to demonstrate first that space which could be used for parking is not available on the property of the applicant where its building is located. We believe, therefore, that the lower court’s interpretation was correct.
+This conclusion is supported by an examination of the balance of the same ordinance, which consists of detailed limitations on the design of an off-site parking lot so as to reduce its impact on the residential uses of the surrounding area. It is appropriate when interpreting a zoning ordinance to construe any given word or phrase with due regard to the context, and to harmonize, if possible, the language under construction with all other parts of the ordinance. Warminster Township v. Kessler, 16 Pa. Commonwealth Ct. 67, 71, 329 A.2d 316, 318 (1971). We believe that the wording of the ordinance here evidences a legislative intent that the use of residentially zoned property for public parking lots be strictly controlled, and the construction we adopt here, that an applicant look to his own property before seeking off-site parking, is consistent with this intention.
+The Hospital also argues that the lower court erred in not giving appropriate weight to the testimony of the Hospital administrator concerning the suggested utilization of space on the Hospital’s property. The administrator had several criticisms of the parking site plan entered into evidence by the protestants, which provided for an additional 77 parking spaces on the Hospital property, and he claimed that approximately 10 to 15 of these spaces conld not be constructed because they would block access for service vehicles to the Hospital buildings. We believe that the lower court correctly observed that, even with such deductions, the protestants’ site plan still indicated that a substantial number of additional spaces could be constructed. Moreover, we believe that the lower court correctly characterized the administrator’s testimony as to the Hospital’s future plans for expansion as too speculative to block present use of this property for needed parking.
+The order of the lower court is affirmed.
+Order.
+And Now, this 9th day of March, 1978, the order of the Court of Common Pleas of York County, dated October 25, 1976, and docketed at 76-S-188, is hereby affirmed.
+The ordinance in question reads:
+SECTION 140-105. PERMITS FOR PUBLIC PARKING LOTS OR COMMUNITY GARAGES. In order to meet requirements for vehicle-parking space, where such space is not available on the lot occupied by a building, the Zoning Hearing Board may, after receipt of a favorable report from the Borough' Planning Commission on the proposal, and after public notice and hearing, grant a permit for the establishment of a parking lot in a residential district, provided that the parking lot is within five hundred (500) feet of the building in question.
+A. There shall be no sales, dead storage, repair work dismantling or servicing of any kind on said parking lot.
+B. Entrances and exits shall be approved as to location by tbe Borough Planning Commission.
+C. No parking shall be permitted nearer than one (1) foot from the front or side lot line.
+jf>. Except for approved entrances and exits, the Borough Planning Commission may require the erection of a wall not to exceed five (5) feet in height, to conform to the required front yard line and along boundary lines of the parking lot for the protection of adjoining residentially zoned or used property.
+E. The lot shall be surfaced with a dustproof or hard surface meeting the standard specifications of the Borough.
+E. No advertising signs shall be erected upon such lot, except not more than one (1) sign on each street side to indicate the operator and purpose of the lot. Such sign shall not exceed twenty (20) square feet in area.
+G. Lighting facilities, if provided, shall be so arranged as to be reflected away from residentially zoned or used property.
+H. If at any time after the issuance of the required permits any of the provisions in this section are not complied with, the permits shall be revoked.
