@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 64"
+decided: "1961-09-12"
+citations: ["196 Pa. Super. 216"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, Wright, Woodside, Watkins, Montgomery, and Flood, JJ. (Rhodes, P. J., absent)."]
+parties: ["Voytek, Appellant, v. Schugard."]
+source_url: "https://static.case.law/pa-super/196/cases/0216-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 754791
+cites_cases: ["106 A. 2d 427", "156 Pa. Superior Ct. 128", "200 A. 4", "331 Pa. 401", "378 Pa. 275", "39 A. 2d 740", "81* Pa. 487"]
+---
+
+# Voytek v. Schugard
+
+## Majority (Montgomery, J.,)
+
+Opinion by
+Montgomery, J.,
+Appellees, Irvin Schugard and Hazleton Aircraft Sales, Inc., were lessees of Green Acres Airport, in Packer Township, Carbon County, Pennsylvania, under a lease agreement dated August 18, 1955.
+On or about January 5, 1957 the appellant, Walter J. Voytek, sold an airplane (not one of those claimed by Hazleton) to appellee, Irvin Schugard, for the sum of $1,750, of which $400 was paid in cash, and a note given for the balance of $1,350, signed by Irvin Schugard and payable to Walter J. Voytek. Schugard made two payments on this note, and then having failed to pay the balance the appellant caused judgment to be entered on same for that balance.
+A writ of fieri facias was issued on the judgment and the sheriff of Carbon County levied on the following property which was at the airport: twin motor Cessna airplane, single motor Cessna airplane, Piper Cub airplane, Lincoln two-door coupe, and miscellaneous tools and equipment. Prior to the sheriff’s sale Hazleton Aircraft Sales, Inc., by Claude H. Otter, president of said corporation, claimed the following items: the single motor Cessna, the Piper Cub, the Lincoln coupe, and the tools and equipment.
+The sheriff caused a rule for interpleader to issue and testimony was taken on such rule by the court on December 19, 1957 and March 18,1958. Thereafter the rule was made absolute and an issue framed to try the title to the claimed property. Whereupon claimantappellee filed an affidavit of title to which appellant filed an answer.
+Following the filing of the appellant’s answer claimant-appellee petitioned the court for a rule for judgment for want of a sufficient affidavit of defense, setting forth that the answer admitted that Irvin Schugard was not the owner of the items levied upon at the time levy was made. The court made absolute the rule and entered judgment in claimant’s favor, from which judgment this appeal is taken.
+The primary purpose of sheriff’s interpleader under the Act of 1931, June 22, P. L. 883, §1, 12 P.S. 2358, is to protect the sheriff when making execution and to determine title or ownership in the goods to be executed upon and was never intended for determination of issues which were foreign to the question of title. Atlantic Finance Corporation v. Kester, 156 Pa. Superior Ct. 128, 39 A. 2d 740.
+Hazleton Aircraft Sales, Inc., in its statement of title, states that Irvin Schugard was not, at the time of the levy, the owner of the claimed property and did not thereafter acquire title thereto. It further sets forth that the said chattels were the property of Hazleton Aircraft Sales, Inc., and that the claimant did not derive its title to and right of possession of said property by, or through, Irvin Schugard. The appellant, in answer to these allegations, admitted that Schugard was not the owner of these chattels at the time of levy, but alleged that said chattels constituted part of the business capital of a joint adventure entered into between Hazleton Aircraft and Irvin Schugard, and as such was held in trust for the benefit of the creditors of the joint adventure and that he, the appellant, was one of the said business creditors.
+The allegation that the appellant is a business creditor is not sufficiently established by the record. Appellant sold the airplane to Schugard as an individual, and received a cash payment and a note from him as an individual. After default in payments on the note, judgment was confessed against Schugard as an individual and execution was directed against him personally.
+Appellant’s contention that as a joint adventurer the property, held in the name of Hazleton Aircraft Sales, Inc., is included as assets from which Schugard’s creditors can receive satisfaction is not tenable. In joint adventures the property of each party may remain Ms own or become jointly owned property as the agreement between the parties may provide. West v. Peoples First National Bank & Trust Company, 378 Pa. 275, 106 A. 2d 427; Robinson v. Goldberg, 331 Pa. 401, 200 A. 4; 20 P.L.E. Joint Adventures §2. Therefore a mere allegation, as in the present case, that the chattels were used in a joint adventure does not lead to the conclusion that each party thereto has a joint interest therein. The same is true in relation to the allegation that Schugard is a creditor of the joint adventure and all parties to it. The agreement may provide that each member bear the cost of his own operations. Parshall v. Conklin, 81* Pa. 487; but even when the agreement does contain such a provision the parties thereto are not responsible for the expenses of the others, unless they are incurred for a legitimate purpose contemplated by the joint adventure agreement. 20 P.L.E. Joint Adventures §2; 48 C. J. S. Joint Ad ventures §14b; and cases cited, supra.
+The answer in the present case is noticeably lacMng in such allegations. All that appears is that Schugard was the debtor of Voytek, that Hazleton held the legal title to the chattels under levy, and that Schugard and Hazleton were engaged in the joint adventure of leasing an airport. The other statement is a conclusion: viz., that solely because,of the joint adventure the debt of Schugard was a debt of same, making the chattels of Hazleton, as well as of Schugard, liable for this claim. Such conclusions are not justified under the law or the facts alleged in this case. Voytek must first establish a claim against the joint adventure and the other individual members before he can levy upon its assets or those of the individual adventurers; and since he has not done this, the claim to the goods filed by Hazleton must be sustained.
+Regardless of whether appellant may have a cause of action against Hazleton Aircraft Sales, Inc., such a claim is not the proper subject matter for interpleader actions. The issue to be tried herein is whether or not the right of property was in the claimant at the time the goods were levied on by the sheriff. Since title has been admitted to be in the claimant and not in the judgment defendant Schugard, there is lacking a sufficient affidavit of defense and the claimant is entitled to judgment.
+Decree affirmed.
