@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 1"
+decided: "1916-07-18"
+citations: ["64 Pa. Super. 1"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before O'rlady, P. J., Henderson, Kephart, Trexler and Williams, JJ."]
+parties: ["Aubrey v. Curtze, Appellant."]
+source_url: "https://static.case.law/pa-super/64/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 457905
+cites_cases: ["125 U. S. 309", "16 Pa. Superior Ct. 511", "191 Pa. 218", "199 Pa. 590", "222 Pa. 472", "26 Pa. 223", "27 Pa. 333", "74 Pa. 439", "8 Watts 403", "88 Pa. 246", "98 Pa. 366", "99 Pa. 382"]
+---
+
+# Aubrey v. Curtze
+
+## Majority (Williams, J.,)
+
+Opinion by
+Williams, J.,
+George Rilling, being the owner of a large tract of land in Millcreek Township, Erie County, Pennsylvania, made a will, dated August 6,1866, by which he devised to his daughter, Elizabeth Deckenhur, fifty acres of land from the eastern half of the farm and an additional seven acres from the land remaining on the east side of French Road, to be cut off by á line parallel to the north tract line, at the requisite distance..'
+Although Mrs. Deckenhur had been living in a house built by her on this seven acres during her father’s lifetime, it was agreed by the parties at the trial that title was in the testator, George Rilling, at the time of his decease, November 16, 1887; the defendant below abandoning any claim to title by adverse possession under the statute of limitations. Both plaintiff and defendant claim title under the will of George Rilling, each of them relying upon their respective construction of the will. The question is, therefore: What did the testator mean to giye to his daughter when he said: “Item......and I also give Elizabeth an additional plot of seven acres of land from the north end of the land remaining on the east side of the French Road. Said seven acres to be cut off by a line parallel to the north tract line at the requisite distance.” It will be noted that the devise was coupled with a condition that the devisee should hold his estate harmless on certain suretyship obligations undertaken by the testator. This would strengthen the contention of the appellant that the testator intended his daughter to take seven farmable acres.
+It is a cardinal rule of construction of wills that the intent of the testator is to be gathered from the four corners of the instrument. The intent which is to be carried out is not a mere conventional intent inferred from his use of any set phrase or form of words, but his actual personal intent as indicated by his whole will: Tyson’s Est., 191 Pa. 218; Fox’s App., 99 Pa. 382; therefore the cases cited by the appellee involving the technical use of the words “street” or “road” as used in deeds and agreements of sale do not apply to the question raised in this case.
+It is evident from the will that the testator intended to give Mrs. Deckenhur fifty-seven acres of farm land; his son George fifty-four acres, and to the children of his son, Henry, the remainder of the tract out of which the seven acres was taken, which, in his opinion, amounted to about thirty-seven acres. It appears from the evidence that if the appellee’s contention is sustained . Henry’s children will be entitled to over thirty-nine acres instead of thirty-seven under their devise, and the daughter, Elizabeth, to about fifty-five instead of fifty-seven acres of usable land under her devise. It will' be noted that the testator did not use the words “north tract line” to indicate the north boundary of the seven acres, but used the expression “north end” in referring thereto. He also expressly says that the land shall be on the “east side” of French Road. The only use made of the words “north tract line” is to establish the proper course for the southern boundary of the seven acres.
+In addition it clearly appears from the testimony of Keller, that the testator permitted his daughter to occupy the seven acres in, his lifetime, build a home thereon and to build a barn on the fifty-acre'tract which he devised to her in the same item of the will, and further, that he expressly pointed out the south line of the seven acres which is contended for by the appellant, as the correct south line. This testimony, disregarded by the court below, was not only competent, but clearly indicates what the testator meant to give to Mrs. Deckenhur. Where it is uncertain what land is included in a devise, oral-evidence is admissible to identify the subject-matter of the devise: Myers v. Myers, 16 Pa. Superior Ct. 511; Updegraff v. McCormick, 199 Pa. 590. In addition the testimony shows that during the lifetime of the testator, Mrs. Deckenhur farmed the land to the south boundary pointed out by the testator as the limit of the seven-acre tract, and continued to do so after his death. The great disproportion between the seven acres devised and the five‘acres to which the devisee would be entitled if the contention of the appellee that the land must be measured from the center of each road, is sustained, would work a manifest injustice and would not accord with what the testator indicated by his will and by acts during his lifetime. It is clear, therefore, that he intended Mrs. Deckenhur should have seven acres of land exclusive of the bed of the road. This construction of the will accords with our sense of justice as the proper one.
+The 12th, 13th and 14th assignments of error are sustained; the judgment is reversed, the record remitted, and the court below directed to enter judgment for the defendant in accordance with the views expressed in this opinion.
