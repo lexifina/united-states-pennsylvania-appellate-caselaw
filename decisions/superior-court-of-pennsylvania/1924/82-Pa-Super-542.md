@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 282"
+decided: "1924-02-29"
+citations: ["82 Pa. Super. 542"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Trexler, Keller, Linn and Gawthrop, JJ."]
+parties: ["Bratspis v. Kaplan, Appellant."]
+source_url: "https://static.case.law/pa-super/82/cases/0542-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 657364
+cites_cases: ["10 Watts 431", "127 Pa. 284", "146 Pa. 628", "170 Pa. 568", "213 Pa. 400", "213 Pa. 401", "249 Pa. 314", "271 Pa. 560", "275 Pa. 34", "278 Pa. 75", "3 Pa. Superior Ct. 522"]
+---
+
+# Bratspis v. Kaplan
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+The plaintiff sues for the price of a certain tailoring stock which he sold and delivered to the defendant. the defendant admits the purchase, but states that the sale of the stock was part of a transaction wherein the defendant for the sum of $15,000 purchased the real estate of the plaintiff with the good will and fixtures of the tailoring establishment conducted thereat by the plaintiff. (the price of the stock was separately fixed; but not included in the $15,000), that at the time be made the sale the vendor misrepresented the condition and extent of the business, stating that be was receiving orders for at least 15 suits of clothes per week and that defendant could make a good living out of the cleaning, repairing, and pressing business; that these representations were the inducing cause for deponent to enter into the transaction; that the plaintiff was guilty of deception upon and misrepresentation to the defendant, and that the good will of said business was worthless and if it had been such as plaintiff represented, it would have been worth $2,500 and that instead of his owing the plaintiff, the plaintiff is indebted to him in the amount of $2,500 less the amount of $426.26 claimed for in plaintiff’s statement of claim. The court regarded the affidavit of defense insufficient and entered judgment for the plaintiff holding that under the Practice Act a counterclaim in trespass may not be set off in an action of assumpsit, citing Roth v. Reiter, 213 Pa. 401.
+The Practice Act of May 14,1915, P. L. 483, section 14, provides that “In actions of assumpsit a defendant may set off, or set up by way of counterclaim against the claim of the plaintiff, any right or claim for which an action of assumpsit would lie” and in commenting upon this section, the Supreme Court in Rohrbach v. Travelers Indemnity Company, 278 Pa. 75, states: “We agree with appellant, that where ffioney has been obtained by fraud, the injured party may waive the tort and' recover the same in assumpsit for money had and received: Dana v. Kemble et al., 17 Pickering 545; Gray v. Griffith, 10 Watts 431; and see Hindmarch v. Hoffman, 127 Pa. 284; Pryor v. Morgan, 170 Pa. 568; Dido v. Strobel, 3 Pa. Superior Ct. 522. That being so, such a claim under the express language of the statute, can be interposed as a set-off in an action of assumpsit. Prior to this act, the rule was otherwise: Kelly v. Miller, 249 Pa. 314; Roth v. Reiter, 213 Pa. 400; [cited above] Groetzinger v. Latimer, 146 Pa. 628.”
+The right of the defendant to waive the tort and to put in his counterclaim is settled. However, when he waives the tort, he can no longer claim damages for the fraud, but he changes his ground of action, and seeks to recover on a contract, express or implied. The change from the action of trespass to assumpsit is not a mere fiction, but. the position of the litigant changes, and the rules appli-' cable to the later form of action apply, 1 C. J. 1040. He takes the attitude that the opposite party has money belonging to the claimant which the unlawful holder is under an implied contract to pay back to him. Unfortunately for the defendant in the present case when he abandons the tort there is nothing left for him. The consideration for the sale of the real estate and the fixtures and business was a lump sum of $15,000. The sale of the stock was under a separate contract. There was no separate price fixed for the good will. The defendant cannot say that any certain sum was paid for that, and that he is entitled to recover such sum by reason of the failure of the consideration. There was no warranty as to value upon which he might base a claim in assumpsit. His recovery is entirely founded on the deceit practiced upon him. His position must be, not that plaintiff promised him certain things, but that he induced him by misrepresentation as to value, to take the property. His damages for the tort are the difference between what the property actually was worth and what it would have been worth had it been as represented: Rock v. Cauffiel, 271 Pa. 560; Long v. McAllister, 275 Pa. 34. Had the defendant paid a fixed price for the good will, if the contract was severable, he could repudiate that part and recover the money so paid by him, but under the facts as presented, his only-remedy is a suit for damages for deceit, and such damages are not recoverable in an action of assumpsit.
+Judgment is affirmed.
