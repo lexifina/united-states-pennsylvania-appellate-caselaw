@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 405 C.D. 1976"
+decided: "1977-03-15"
+citations: ["29 Pa. Commw. 272"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Kramer, Wilkinson, Jr. and Rogers, sitting as a panel of three."]
+parties: ["Joseph J. O’Brien, Appellant v. Unemployment Compensation Board of Review of the Commonwealth of Pennsylvania."]
+source_url: "https://static.case.law/pa-commw/29/cases/0272-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1879819
+cites_cases: ["10 Pa. Commonwealth Ct. 356", "12 Pa. Commonwealth Ct. 82", "146 Pa. Superior Ct. 237", "185 A.2d 549", "22 A.2d 57", "27 Pa. Commonwealth Ct. 1", "310 A.2d 705", "314 A.2d 596", "365 A.2d 459", "409 Pa. 117"]
+---
+
+# O'Brien v. Unemployment Compensation Board of Review
+
+## Majority (Judge Kramer,)
+
+Opinion by
+Judge Kramer,
+This is an appeal by Joseph J. 0 ’Brien (appellant) of an order of the Unemployment Compensation Board of Review (Board), dated February 4, 1976, which affirmed, without opinion, a referee’s determination that the appellant had become self-employed and was ineligible for continued benefits under Section 402(h) of the Unemployment Compensation Law (Act).
+In October of 1975, while receiving unemployment benefits resulting from a qualifying separation from a previous employer, the claimant began working on a commission basis as a part-time “enrollment representative” (salesman) for Commercial Trades Institute, Chicago, Illinois, soliciting enrollments in the educational courses offered by Commercial Trades. The claimant testified that he was under contract to Commercial Trades; that he was remunerated purely on a commission basis; that he was working part-time while on the three-month probationary training period; and that he received no reimbursement for his expenses.
+On the basis of this testimony, the referee found as a fact that the claimant was under contract with Commercial Trades and worked strictly on a commission basis. Under the heading “Reasoning,” the referee stated, “Inasmuch as claimant is under contract and works on a commission basis, he must be considered self-employed and therefore disqualified from receiving benefits. ”
+We cannot affirm the determination of the compensation authorities, because we conclude that the referee’s findings of fact are inadequate to support the legal conclusion that appellant was self-employed.
+The Legislature has not defined “self-employment,” hut the decisional law has resolved the issue by excluding from benefit status those persons whose work circumstances do not fall within the statutory definition of “employment,” e.g., Unemployment Compensation Board of Review v. Kessler, 27 Pa. Commonwealth Ct. 1, 365 A.2d 459 (1976); Laswick v. Unemployment Compensation Board of Review, 10 Pa. Commonwealth Ct. 356, 310 A.2d 705 (1973).
+The Act defines an employe as one who is performing services for an employer in employment. Section 4(i), 43 P.S. §753(i). “Employment” is defined to mean “all personal service performed for remuneration by an individual under any contract of hire.-. . .” Section 4(1) (1), 43 P.S. §753(1)(1). (Emphasis added.) The Act further refines the definition-of employment in Section 4(1) (2) (B), 43 P.S. §753(1) (2)(B), which provides pertinently:
+Services performed by an individual for wages shall be deemed to be employment subject to this act, unless and until it is shown to the satisfaction of the department that — (a) such individual has been and will continue to be free from control or direction over the performance of such services both under his contract of service and in fact; and (b) as to such services such individual is customarily engaged in an independently established trade, occupation, profession or business.
+It is clear from the language of Section 4(1) (1) that the mere existence of a contract between appellant and Commercial Trades does not serve to classify appellant as “self-employed.” Furthermore, the cases dealing with traveling salesmen have repeatedly held remuneration on a straight commission basis to be wholly consistent with the status of “employe” within the coverage of the Act. Kessler, supra; Marr v. Unemployment Compensation Board of Review, 12 Pa. Commonwealth Ct. 82, 314 A.2d 596 (1974); Laswick, supra; Leinbach v. Unemployment Compensation Board of Review, 146 Pa. Superior Ct. 237, 22 A.2d 57 (1941). As this Court noted in Kessler, the language of Section 4(1) (2) (B) makes it clear that a commission-salesman claimant can be classified as self-employed when it is established that: (1) he is not subject to the control of his employer; and (2) he is “customarily engaged in an independent trade.” Kessler, supra, at 5, 365 A.2d at 461. The referee in the present case failed to make any findings as to these two criteria and, moreover, our review of the record discloses a dearth of evidence upon which such findings could be based. Therefore, we must remand this case to the Board for the taking of additional testimony and for the making of the appropriate findings of fact.
+Order
+And Now, this 15th day of March, 1977, the record in the above-captioned matter is remanded to the Unemployment Compensation Board of Beview for further proceedings consistent with this opinion.
+Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §802(h), which provides, in part, as follows:
+An employee shall be ineligible for compensation for any week — .
+(h) In which he is engaged in self-employment.
+We note at this point our rejection of the Board’s argument that the referee’s conclusion is adequately supported by statements by the appellant in his initial interview with the Bureau of Employment Security and in his petition for appeal describing his job as “self-employment.” The appellant appeared before the Bureau and the referee without assistance of counsel. It is clear from the overall record, as well as from appellant’s own testimony, that he had had little or no idea of the legal definition of “self-employment” or of its importance to the resolution of his claim. As will be shown in the text, traveling salesmen present very close cases on the issue of “self-employment,” and appellant’s rather off-hand description of his work has little or no evidentiary value. A determination of “self-employment” is a conclusion of law to he drawn from a specific factual matrix.
+To aid the Board’s consideration of this ease on remand, we note that the following have been recognized as key indicia of employer control in eases involving commission salesmen: (1) a definitive assignment of territory; (2) a mandatory number of interviews to be made within a prescribed time period; (3) mandatory attendance at sales meetings; and (4) mandatory filing of periodic progress reports. Kessler at 5, 365 A.2d at 461. Determination of whether a commission-salesman claimant “is customarily engaged in an independent trade” has turned on whether the claimant has a proprietary interest in a business which he can operate freely from the control of any other individual; that is, whether he is dependent upon another for the continuation of his employment. Kessler at 5 and 6, 365 A.2d at 461-62. Bureau of Employment Security v. Hecker & Co., 409 Pa. 117, 122-23, 185 A.2d 549, 552 (1962).
