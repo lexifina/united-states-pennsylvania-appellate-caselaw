@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 176"
+decided: "1967-09-15"
+citations: ["210 Pa. Super. 507"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, P. J., Wright, Watkins, Montgomery, Jacobs, Hoeeman, and Spaulding, JJ."]
+parties: ["Belvedere Literary Club Liquor License Case."]
+source_url: "https://static.case.law/pa-super/210/cases/0507-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 780259
+cites_cases: ["115 A. 2d 881", "130 A. 2d 150", "163 Pa. Superior Ct. 398", "165 A. 2d 94", "169 Pa. Superior Ct. 593", "178 Pa. Superior Ct. 213", "193 Pa. Superior Ct. 384", "207 Pa. Superior Ct. 237", "217 A. 2d 859", "388 Pa. 160", "61 Lack. Jur. 45", "62 A. 2d 102", "84 A. 2d 265"]
+---
+
+# Belvedere Literary Club Liquor License Case
+
+## Majority (Spaulding, J.,)
+
+Opinion by
+Spaulding, J.,
+This is an appeal by tbe Pennsylvania Liquor Control Board from an order of the court below modifying tbe board’s revocation of a liquor license issued to tbe Belvedere Literary Club of Jeannette.
+On July 26, 1965 tbe board issued a citation against the licensee, charging it with sixteen violations of tbe Pennsylvania Liquor Code and regulations of tbe board. On October 21, 1965, tbe day set for tbe bearing, tbe licensee’s secretary-treasurer executed and filed a waiver admitting all of the charges and authorizing tbe board to enter a final order without a bearing. Tbe following day, tbe waiver was authorized by a resolution of tbe licensee which was also filed with tbe board. On December 14, 1965 tbe board found tbe licensee guilty of eleven violations and revoked its license. Notwithstanding its earlier admission and waiver of bearing, tbe licensee appealed to tbe court below.
+At the bearing de novo, the board moved for dismissal on tbe ground that licensee, having admitted tbe charges and authorized entry of a final order, bad waived its right to appeal. This motion was detried by the court. The waiver was admitted into evidence without objection or denial by the licensee. After hearing testimony by both sides, the court dismissed six of the eleven violations found by the board and reduced the penalty to a suspension of ninety days.
+Two questions are presented: (1) whether the licensee, by filing a waiver, relinquished its right to appeal the board’s decision; (2) whether the lower court abused its discretion by modifying the findings and penalty.
+Section 471 of the Pennsylvania Liquor Code, Act of 1951, April 12, P. L. 90, 47 P.S. §4-471, as amended, provides: “In the event the person whose license was suspended or revoked by the board shall feel aggrieved by the action of the board, he shall have the right to appeal ... in the same manner as herein provided for appeals from refusals to grant licenses. Upon appeal, the court so appealed to shall, in the exercise of its discretion, sustain, reject, alter or modify the findings, conclusions and penalties of the board, based on the findings of fact and conclusions of law as found by the court.” (Emphasis added.)
+In other cases where licensees filed similar waivers with the board, a hearing de novo was granted on appeal. See Gay Nineties, Inc. Liquor License Case, 193 Pa. Superior Ct. 384, 165 A. 2d 94 (1960); Janiro Liquor License Case, 163 Pa. Superior Ct. 398, 62 A. 2d 102 (1948). The waiver before us contains no language expressly relinquishing the right of appeal. An agreement not to appeal "should be very clear in its terms, and leave no doubt of the intention of the party to cut himself off from the right of appeal." 4 Am. Jur. 2d, Appeal and Error § 236, at 733 (1962). In light of the statutory language granting the right to a trial de novo on both issues of fact and conclusions of law, this waiver did not foreclose the right of appeal.
+However, the licensee's admission of the violations charged constituted substantive evidence at the hearing de novo and should have been so considered. ". . . [I]n the case of a party to the proceeding, a prior statement by him inconsistent with his claim or testimony at trial . . . is . . . admissible as an admission against interest and, as such, constitutes substantive proof of the truth of the matter therein contained." Gougher v. Hansler, 388 Pa. 160, 166, 130 A. 2d 150 (1957). The law is clear that the court below may not change or modify a penalty imposed by the board unless it finds a different set of facts and these different findings must concern issues which are material. Maple Liquor License Case, 207 Pa. Superior Ct. 237, 217 A. 2d 859 (1966); Italian Citizens National Association of America Liquor License Case, 178 Pa. Superior Ct. 213, 115 A. 2d 881 (1955). The court below may not capriciously disregard competent evidence of violations nor may it reduce the penalty imposed by the board because it is considered too severe. Maple Liquor License Case, supra at 239; Homestead Social and Beneficial Society Appeal, 169 Pa. Superior Ct. 593, 84 A. 2d 265 (1951).
+In the instant case, the trial court apparently gave no weight to the licensee’s written admission of all eleven charges and concluded that the penalty imposed was “too severe.” In so doing, the court improperly substituted its discretion for that of the board.
+We reiterate the opinion expressed in Appeal of Halprin, 61 Lack. Jur. 45, 47, 48 (1959), involving a similar waiver: "To accept any such repudiation of a prior deliberately executed waiver and admission of a set of facts would open the way to serious fraud, would unduly handicap the Liquor Control Board in the conduct of its functions of policing the trade, and would place unending burdens on the Courts. . . ."
+Judgment reversed and order of the board reinstated.
+“We do hereby acknowledge receipt of Citation No. 1219, 1965, and do waive the hearing fixed therein, subject to the approval of the Board. All the charges averred in the said citation are admitted and you are authorized without hearing to enter a final order or decree. [Signed] Ronald J. Baker, Secretary Treasurer, Belvidere [sic] Literary Club of Jeannette, October 21, 1965.”
+The court dismissed the charges of: (1) failing to adhere to its constitution and bylaws; (2) failing to hold regular meetings; (3) failing to conduct business through regularly elected officers; (4) failing to keep complete and truthful records; (5) failing to maintain records on the premises; and (6) deliberately falsifying its records. The court sustained the charges of: (1) selling alcoholic beverages to nonmembers; (2) selling alcoholic beverages after legal closing hours; (3) admitting members without written application, investigation, and ballot; (4) failing to charge and collect dues; and (5) falsifying its application for the club liquor license.
