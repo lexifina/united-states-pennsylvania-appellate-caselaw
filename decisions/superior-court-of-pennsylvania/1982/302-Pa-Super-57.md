@@ -1,0 +1,72 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "598 and 845"
+decided: "1982-07-16"
+citations: ["302 Pa. Super. 57", "448 A.2d 92"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CERCONE, President Judge, and BROSKY and HOFFMAN, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. John DOBSON, Appellant."]
+source_url: "https://static.case.law/pa-super/302/cases/0057-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 194298
+cites_cases: ["240 Pa.Super. 291", "248 Pa.Super. 387", "284 A.2d 786", "288 Pa.Super. 319", "294 Pa.Super. 249", "294 Pa.Super. 67", "326 A.2d 272", "362 A.2d 1060", "373 U.S. 83", "427 U.S. 97", "446 Pa. 83", "458 Pa. 418", "479 Pa. 500", "483 Pa. 382", "492 Pa. 558", "493 Pa. 103", "494 Pa. 196", "495 Pa. 568", "574 F.2d 730"]
+---
+
+# Commonwealth v. Dobson
+
+## Majority (BROSKY, Judge:)
+
+BROSKY, Judge:
+On December 12, 1979, appellant, John Harold Dobson, was convicted by a jury of burglary and simple assault. Post-verdict motions were filed and subsequently dismissed. Dobson was sentenced to serve a term of imprisonment of two to four years for burglary and one to two years for simple assault. The sentences were to be served concurrently. Dobson then filed a petition to modify his sentence which was granted. Dobson was credited for time he had already served. This appeal followed.
+Dobson complains that: (1) he should receive a new trial because he was wrongfully deprived of favorable tangble exculpatory evidence, (2) that there was insufficient evidence to convict him of simple assault, (3) that a new trial should be ordered because of the existence of after-discovered exculpatory evidence. We are not persuaded that any of the complained errors require a reversal of the decision of the trial court.
+On September 1, 1979, Dobson was arrested and charged with the crimes of burglary and aggravated assault. Those charges arose out of a criminal incident at the McKees Market, a General Store, in Fallen Timber, Cambria County. Early that morning, at about 1 a. m., Robert McKee was awakened when he heard sounds in his store. Mr. McKee frequently slept in a backroom at the store though he and his family resided elsewhere. Mr. McKee ventured from his room into the store area, carrying a pistol with him. Mr. McKee then saw several persons in his store one of whom, Dobson, was approaching him. Apparently, Mr. McKee told Dobson not to come any closer to him and when Dobson failed to stop moving, McKee shot him. Mr. McKee testified that Dobson had a screwdriver in his hand as he approached him. Dobson claims he never had a screwdriver in his hands as he approached Mr. McKee and that what Mr. McKee probably thought was a screwdriver was merely the reflection off Dobson’s watchband. It is clear from the record that there was poor lighting in the store at the time of the encounter.
+After the preliminary hearing and arraignment, Dobson’s counsel filed a request pursuant to Pennsylvania Rule of Criminal Procedure 305 for production and or disclosure of favorable tangible evidence. The Commonwealth returned the request indicating it had no such evidence. The record indicates that the Commonwealth possessed Dobson’s watch throughout the trial and did not at any time produce it for use by Dobson.
+Rule 305(A) provides for informal pre-trial discovery in criminal proceedings. Dobson’s counsel requested that the Commonwealth produce all tangible exculpatory evidence pursuant to 305(B)(1)(a), which indicates that it is mandatory that the Commonwealth present to the defendant any “evidence favorable to the accused which is material either to guilt or to punishment, . . . ”; and 305(B)(1)(f), which requires the Commonwealth to produce for the defendant “any tangible objects ... or other tangible evidence; ...” provided that evidence is material to the defendant’s case.
+We note that the initial request made by Dobson’s counsel under Rule 305 was a general one seeking all exculpatory evidence. In Commonwealth v. Rose, 483 Pa. 382, 396-397, 396 A.2d 1221, 1228 (1979), our Supreme Court said:
+Agurs, dealt with a third situation—where a general request for “Brady materials” is made. After stating that such a general request puts the prosecutor on no better notice than had no request been made at all, the Court went on to state: “If there is a duty to respond to a general request ..., it must arise from the obvious exculpatory character of certain evidence in the hands of the prosecutor.” Agurs, supra [427 U.S.] at 107, 96 S.Ct. at 2399. Thus, where no request is made or where only a general request is made, the Commonwealth has the burden of providing the defense with evidence which is material. This burden arises because of the obviously exculpatory nature of the evidence. See United States ex rel. Marzeno v. Gengler, 574 F.2d 730 (3d Cir. 1978). However, “[t]he mere possibility that an item of undisclosed information might have helped the defense or might have affected the outcome of the trial, does not establish ‘materiality’ in the constitutional sense.” Agurs, supra, 427 U.S. at 110-1, 96 S.Ct. at 2400.
+In cases where a general request or no request is made,
+“[t]he proper standard or materiality must reflect our overriding concern with the justice of the finding of guilt. Such a finding is permissible only if supported by evidence establishing guilt beyond a reasonable doubt. It necessarily follows that if the omitted evidence creates a reasonable doubt that did not otherwise exist, constitutional error has been committed. This means that the omission must be evaluated in the context of the entire record.
+“If there is no reasonable doubt about guilt whether or not the additional evidence is considered, there is no justification for a new trial. On the other hand, if the verdict is already of questionable validity, additional evidence of relatively minor importance might be sufficient to create a reasonable doubt.” [Footnotes omitted.] [Emphasis added.] Agurs, supra at 113-4, 96 S.Ct. at 2401-2.
+See also: Commonwealth v. Bridge, 495 Pa. 568, 435 A.2d 151 (1981). It is significant that no specific request was made for the production of the watch at any time, not even after defense testimony was entered concerning the possibility that the watch may have been mistaken for a screwdriver.
+We are not persuaded that the watch ever became evidence which was sufficiently material as to require the Commonwealth to produce it at trial. First, the record indicates that Dobson did in fact have a •screwdriver in his possession at the time of the criminal incident. Second, while Mr. McKee was unable to state whether he saw Dobson place the screwdriver in his back pocket after the shooting took place, which is where the screwdriver was found by police, we believe the trial court would have been correct in finding that Dobson did in fact so place the screwdriver. We believe this is a much more reasonable inference than that which Dobson proposed, that Mr. McKee confused a watch for a screwdriver. In any event, the defense was able to argue that such a misapprehension of objects was possible through its testimony. We are unable to hold, under these circumstances, that the watch constituted material evidence. Hence, the Commonwealth was not under an obligation to produce it pursuant to Rule 305.
+Next, Dobson remonstrates that there was insufficient evidence to convict him of simple assault. Our scope of review in appeals challenging the sufficiency of the evidence is well established. In Commonwealth v. Parker, 494 Pa. 196, 198, 431 A.2d 216, 217 (1981) our Supreme Court said:
+To evaluate the sufficiency of evidence, we must view the evidence in the light most favorable to the Commonwealth as verdict winner, accept as true all the evidence and reasonable inferences upon which, if believed, the jury could properly have based its verdict, and determine whether such evidence and inferences are sufficient in law to prove guilt beyond a reasonable doubt. Commonwealth v. Coccioletti, 493 Pa. 103, 425 A.2d 387 (1981).
+The relevant portion of 18 Pa.C.S.A. § 2701 defines simple assault as:
+(a) Offense defined.—A person is guilty of assault if he:
+(1) attempts to cause or intentionally, knowingly or recklessly causes bodily injury to another;
+At trial, Dobson and his codefendant, Gary White, testified that the screwdriver was in Dobson’s back pocket during the entire time Dobson was inside the store. Dobson’s other codefendant stated that he saw nothing in Dobson’s hands just before the shooting. Dobson, as we have said earlier, stated that he surmised that what McKee saw was his silver wristwatch. Mr. McKee testified in the following manner:
+Q. Did you find him?
+A. I did.
+Q. What was he doing at that time?
+A. He was going clear to the extreme back end of the store.
+Q. Did you say anything to him?
+A. I ordered him back over with the other two.
+Q. And what did he do?
+A. He came back to the divider and kept on coming. Q. Coming where?
+A. Towards me.
+Q. What did you do at that time?
+A. He was carrying a screwdriver in his right hand, down along the side of his leg.
+When Dobson was approximately 10 feet away from Mr. McKee, Mr. McKee shot him. Mr. McKee stated:
+Q. Okay. Now, you shot him. When you shot him, did you see anything fall out of his hand?
+A. No.
+Q. You saw nothing fall out of his hand. Did you see him stick anything into his back pocket?
+A. No, but turned from the right side, went back, and went through the aisle.
+Q. But you shot him and you saw nothing fall out of his hands, and you didn’t see him stick anything into his pocket?
+A. No.
+Mr. McKee stated during cross-examination:
+Q. Could it have been something else in his hand? A. It could have been a gun.
+Q. It- could have been anything, right? How about a wristwatch. Could it have been a wristwatch?
+A. No way.
+While it is clear that Mr. McKee was very upset at the time of the incident and admitted to being shaken, he consistently testified that he was threatened by Dobson. His testimony was never impeached during defense counsel’s interrogation in which counsel attempted to have Mr. McKee state that it could have been a wristwatch which he saw. Accordingly, the dispute in the testimony was substantially qne of credibility. We will not disturb the factfinder determination as to credibility on appeal. Such a determination is solely within the province of the trier of fact. Commonwealth v. Pettus, 492 Pa. 558, 424 A.2d 1332 (1981); Commonwealth v. Edney, 294 Pa.Super. 67, 439 A.2d 752 (1982).
+Accordingly, we find the evidence was sufficient to convict Dobson of simple assault. We are satisfied that the jury’s verdict of simple assault was consistent with and complied with the law. Cf: Commonwealth v. Love, 248 Pa.Super. 387, 375 A.2d 151 (1977).
+Dobson’s final contention is that a new trial on the simple assault charge should be ordered because the existence of after-discovered exculpatory evidence. In Commonwealth v. Borelli, 288 Pa.Super. 319, 322, 431 A.2d 1067, 1069 (1981) we said:
+After-discovered evidence is a basis for a new trial if it “(1) has been discovered after the trial and could not have been obtained at or prior to the conclusion of the trial by the exercise of reasonable diligence; (2) is not merely corroborative or cumulative; (3) will not be used solely for impeaching credibility of a witness; and (4) is of such a nature and character that a different verdict will likely result if a new trial is granted.” Commonwealth v. Valderrama, 479 Pa. 500, 505, 388 A.2d 1042, 1045 (1978); Commonwealth v. Mosteller, 446 Pa. 83, 88, 284 A.2d 786, 788 (1971).
+We hold that a new trial is not required. The existence of the watch would not impeach the testimony of Mr. McKee. There is nothing so inconsistent with the fact that Dobson was wearing a watch with a metal watchband on his right wrist and carrying a screwdriver in his right hand that a different verdict is likely. We believe that the introduction of the watch is very unlikely to result in a different verdict.
+Accordingly, having determined that the trial court acted properly, we affirm the judgment of sentence of the court below.
+. Dobson poses an additional issue contending that the jury’s verdict of simple assault was inconsistent and contrary to the law. We will address this issue in our discussion of the sufficiency of the evidence claim.
+. Dobson asserts several issues which are not properly before the court. He complains that the trial court erred in refusing to sustain his demurrer to the Commonwealth’s case insofar as it involved the aggravated assault charge. Dobson claims also that the trial court erred in refusing to sustain his motion for a verdict of not guilty of aggravated assault. Dobson was not convicted of aggravated assault. Therefore, these issues are moot. We will not review a moot issue on appeal. See generally: Janet D. v. Carros, 240 Pa.Super. 291, 362 A.2d 1060 (1976).
+Dobson contends further that prejudicial remarks made by the prosecution made it impossible for him to receive a fair trial. These alleged statements were made during the Commonwealth’s closing remarks to the jury. We need not reach the merits of this issue because, as Dobson states in his brief: “Appellant’s counsel did not object to such statement, by the Commonwealth’s attorney, ...” (Appellant’s brief page 30.) Commonwealth v. Clair, 458 Pa. 418, 326 A.2d 272 (1974). We note, also, that had trial counsel properly objected, we would consider the issue waived because of the absence a record of closing arguments and therefore the absence of any reference to that record. Commonwealth v. Dozier, 294 Pa.Super. 249, 255 n.2, 439 A.2d 1185, 1189 n.2 (1982).
+. Rule 305 is the procedural rule enacted in response to Brady v. Maryland, 373 U.S. 83, 83 S.Ct. 1194, 10 L.Ed.2d 215 (1963), and its progeny, in particular, United States v. Agurs, 427 U.S. 97, 96 S.Ct. 2392, 49 L.Ed.2d 342 (1976).
+. Title 18 Pa.C.S.A. § 2701(a)(3) states that a person is guilty of simple assault if he “attempts by physical menace to put another in fear of imminent serious bodily injury.” The lower court did not charge the jury on this subsection. Therefore, we must limit our review to determine whether there was sufficient evidence to prove that Dobson was guilty beyond a reasonable doubt pursuant to 18 Pa.C.S.A. § 2701(a)(1).
