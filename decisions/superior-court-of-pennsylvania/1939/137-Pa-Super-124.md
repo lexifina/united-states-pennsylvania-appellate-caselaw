@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 42"
+decided: "1939-09-27"
+citations: ["137 Pa. Super. 124"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cun-NINGHAM, BALDRIGE, StADTFELD, PARKER, RHODES and Hirt, JJ."]
+parties: ["Youngwood Building and Loan Association v. Henry et al., Appellants."]
+source_url: "https://static.case.law/pa-super/137/cases/0124-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1021079
+cites_cases: ["10 Pa. 56", "106 Pa. 37", "128 Pa. Superior Ct. 429", "131 Pa. Superior Ct. 349", "131 Pa. Superior Ct. 370", "132 Pa. 134", "134 A. 385", "144 A. 72", "164 A. 597", "19 A. 31", "194 A. 338", "200 A. 250", "200 A. 274", "216 Pa. 237", "287 Pa. 21", "294 Pa. 295", "30 Pa. 99", "309 Pa. 590", "65 A. 619", "78 Pa. 407", "90 Pa. 196", "92 Pa. 428", "94 Pa. 48", "97 Pa. 543"]
+---
+
+# Youngwood Building & Loan Ass'n v. Henry
+
+## Majority (Rhodes, J.,)
+
+Opinion by
+Rhodes, J.,
+This is an appeal from a judgment n. o. y. in favor of plaintiff on a scire facias sur mortgage. On September 21, 1928, Cora A. McGinnis and Johnston S. McGinnis, her husband, gave a mortgage to plaintiff appellee, Youngwood Building and Loan Association. Subsequently both Mr. and Mrs. McGinnis died. On March 14, 1935, appellee issued a scire facias on the mortgage because it was in default. Appellants are the heirs of Mrs. McGinnis, and the administratrices of her estate. Appellants plead “non-assumpsit,” “non-debit,” and that no money was due and owing by them to appellee. The case was tried, and resulted in a verdict for appellants. A point for binding instructions for appellee having been declined by the court, appellee filed a motion for judgment n. o. v. This was granted; judgment was entered against appellants; this appeal by them followed.
+We think that the action of the court below was proper. The most that we can say of the evidence is that it would probably warrant such inferences as that Mrs. McGinnis was eccentric, that at times she suffered physical disability, and that she was somewhat feeble mentally at the time of the execution of the mortgage. There was no medical testimony as to Mrs. McGinnis’ mental or physical condition at the time the mortgage was executed. However, lay witnesses testified that she was physically infirm. Appellants also attempted to show by such witnesses that her mind was unsound. But there is no evidence in the record which proves that appellee had any knowledge of her mental incapacity, or even that there was lack of comprehension by Mrs. McGinnis of the nature of the transaction; none which makes it appear that there was any fraud or unfair dealing between the parties. People are not obliged to be filled with a suspicion of the sanity of others with whom they deal. Sanity being the normal condition, an allegation of mental unsoundness casts the burden of proof upon those who assert it. First National Bank of Easton v. Wirebach’s Executor, 106 Pa. 37, 46. And where, as here, the contract was executed additional proofs are required to escape liability.
+It was not shown that appellee knew of Mrs. Mc-Ginnis’ alleged unsoundness of mind at the time it was made, or that there was fraud or imposition in the transaction, or that there was a lack of full consideration. In the absence thereof her alleged lack of capacity would not be sufficient of itself to void the instrument in question. The record discloses not the slightest evidence of knowledge, imposition or want of consideration ; there is affirmative evidence to the contrary.
+In Gorgas v. Saxman, 216 Pa. 237, 65 A. 619, the mortgagor averred as a defense to a scire facias snr mortgage that he had failed to pay the installments and interest thereon because he had received notice that the mortgagee was of unsound mind and not competent to transact business. At that time there had been no judicial determination that the mortgagee was a lunatic or weakminded person, although subsequently proceedings were instituted under the Act of June 25, 1895, P. L. 300, in which the mortgagee was found to be of weak mind, and a guardian was appointed. The court below made absolute plaintiff’s rule for judgment for want of a sufficient affidavit of defense, and in affirming that judgment the Supreme Court said, speaking through Mr. Justice Elkin (216 Pa. p. 239) : “So far as the record shows, no legal reason appears why the mortgagor would not have been justified in making payment to the mortgagee, and if such payment had been made, and the record properly receipted it would have been held to be a good acquittance.”
+In its opinion the court below seems to have excluded from consideration certain evidence which it deemed to have been admitted erroneously by the trial judge. In considering a motion for judgment n. o. v. the evidence in the record must be considered as it existed at the close of the trial; the court cannot eliminate evidence which may have been improperly admitted, or insert offers of evidence which should have been admitted but were excluded. Huffman, et al. v. Simmons et al., 131 Pa. Superior Ct. 370, 374, 200 A. 274; Moore v. W. J. Gilmore Drug Co., 131 Pa. Superior Ct. 349, 351, 200 A. 250. However, after so considering the record we think the judgment correct; therefore, it matters not that we do not fully agree with the reasoning that led up to it. Tomko v. Feldman, 128 Pa. Superior Ct. 429, 434, 435, 194 A. 338.
+Certain procedural questions have been raised by the parties, but in view of our conclusion it becomes unnecessary to discuss them.
+Judgment is affirmed.
+Beals v. See, 10 Pa. 56; Nace v. Boyer et al., 30 Pa. 99, 110; Lancaster County National Bank v. Moore, 78 Pa. 407, 412; Moore v. Hershey, 90 Pa. 196, 200, 201; Kneedler’s Appeal, 92 Pa. 428; Crawford v. Scovell, 94 Pa. 48, 51; Wirebach’s Executor v. First National Bank of Easton, 97 Pa. 543, 549; Black’s Appeal, 132 Pa. 134, 135, 19 A. 31; Pfeil’s Estate, 287 Pa. 21, 23, 134 A. 385; Bubins v. Hamnett et al., 294 Pa. 295, 299, 144 A. 72; Mulholland et al. v. Sterling Motor Truck Co., 309 Pa. 590, 592, 164 A. 597.
+See Act of May 28, 1907, P. L. 292, as amended 50 PS §941 et seq.
