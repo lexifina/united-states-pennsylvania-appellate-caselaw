@@ -1,0 +1,66 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1639"
+decided: "1978-07-12"
+citations: ["258 Pa. Super. 83", "391 A.2d 1086"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WATKINS, President Judge and JACOBS, HOFFMAN, CERCONE, PRICE, VAN der VOORT and SPAETH, JJ.", "CERCONE, J., concurs in the result.", "SPAETH, J., files a dissenting opinion, in which HOFFMAN, J., joins.", "WATKINS, former President Judge, did not participate in the consideration or decision of this case.", "HOFFMAN, J., joins in this opinion."]
+parties: ["COMMONWEALTH of Pennsylvania v. Bruce ROBERTS, Appellant."]
+source_url: "https://static.case.law/pa-super/258/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 104429
+cites_cases: ["225 Pa.Super. 401", "233 A.2d 284", "236 Pa.Super. 184", "293 A.2d 33", "312 A.2d 434", "333 U.S. 10", "345 A.2d 267", "353 U.S. 53", "355 U.S. 53", "427 Pa. 53", "448 Pa. 258", "471 Pa. 457", "92 L.Ed. 436"]
+---
+
+# Commonwealth v. Roberts
+
+## Majority (PER CURIAM:)
+
+PER CURIAM:
+This is an appeal from a conviction for the unlawful sale of heroin.
+Appellant posits that he is entitled to a new trial because the court below improperly denied his Pre-trial Motion requesting disclosure of the name and address of a police informant who allegedly was the only neutral witness to the drug sale in question, where Appellant’s defense was that of “mistaken identity.”
+We find Appellant’s contention to be without merit and, therefore, affirm the judgment of sentence of the lower court.
+The facts are as follows:
+On April 8, 1976, at approximately 10:45 P.M., Officer Michael Troutner and a confidential police informant proceeded in a car to the northwest corner of Franklin and Oxford Streets in the city of Philadelphia. Immediately upon parking the car, the informant got out, proceeded to the front of the vehicle, opened the hood, disconnected the headlights, and before the defendant arrived, “walked to the other side of the street and stood there until the transaction was completed and returned a short while afterwards.” (Disclosure hearing T. at 30-31). As revealed by direct and cross-examination, the informant was approximately thirty (30) feet across the street from Officer Troutner and the Appellant during the time of the drug transaction (Disclosure hearing T. at 32 and 60).
+In addition, at the hearing on Appellant’s Motion for Disclosure, Officer Thomas Volkmar testified that he was the backup for Officer Troutner on April 8,1976, and in that capacity, with the use of binoculars (Disclosure hearing T. at 88) had observed the informant leave the vehicle and walk across to the southwest corner of Oxford Street where the informant was observed throughout the period during which the drug transaction occurred (Disclosure hearing T. at 86-87).
+Officer Volkmar further testified that he recognized the Appellant from a prior arrest (Disclosure hearing T. at 89), that he in fact did arrest Appellant, Bruce Roberts, a few minutes after the drug transaction took place, as a result of information received from Officer Troutner, that he viewed the drug transaction through his binoculars, and that the man he arrested, Bruce Roberts, was the same man he observed during the drug transaction.
+Based upon the aforementioned, Judge King concluded as a matter of law:
+1. THAT the person with the officer (the informant) did not have an opportunity to see or hear what allegedly took place between the officer and the defendant.
+2. THAT the person could not supply any information concerning the alleged encounter between the officer and the defendant which would aid in the preparation of the defense’s case.
+3. THAT revealing of the identity of the person who went to the location with the officers, under the facts found, has no basis in law. (Exhibit “B”).
+A review of the record convinces us that it was not error as a matter of law to deny defendant’s Motion for Disclosure.
+The accused has the burden of producing evidence in support of his Motion for Disclosure; an allegation that an informant’s testimony might be helpful, will not suffice. (See Commonwealth v. Pritchett, 225 Pa.Super. 401, 312 A.2d 434 (1973); Commonwealth v. Garvin, 448 Pa. 258, 293 A.2d 33 (1922), and Commonwealth v. Williams, 236 Pa.Super. 184, 345 A.2d 267 (1975).
+The general standard applicable here is found in Roviaro v. United States, 353 U.S. 53, 77 S.Ct. 623, 1 L.Ed.2d 639 (1957), wherein the Supreme Court of the United States held:
+“We believe that no fixed rule with respect to disclosure is justifiable. The problem is one that calls for balancing the public interest in protecting the flow of information against the individual’s right to prepare his defense. Whether a proper balance renders nondisclosure erroneous must depend on the particular circumstances of each case, taking into consideration the crime charge, the possible defenses, the possible significance of the informan[t’s] testimony, and other relevant factors.”
+The Roviaro “case by case” mandate has been applied in Pennsylvania in cases relied upon by Appellant, specifically, Commonwealth v. Carter, 427 Pa. 53, 233 A.2d 284 (1967); Commonwealth v. Pritchett, supra; and Commonwealth v. Walak, 471 Pa. 457, 370 A.2d 695 (1977).
+At first blush, Carter appears dispositive and would dictate that judgment be reversed and a new trial granted. As in the instant case, the defense in Carter consisted solely of Appellant’s claim of misidentification, i. e., that he was not the one who had sold contraband to the prosecuting officer. However, a close examination of certain factors reveals several critical distinctions between Carter and the ease at bar.
+First, the policeman in Carter testified that he was introduced to Carter by the informant and that Carter made the sale to the informant in his (the policeman’s) presence; and second, in Carter, the identification of Appellant by both police witnesses was based solely on the single drug transaction there involved; while in the instant case, the backup officer, Thomas Volkmar, testified that he had previously arrested the Appellant and accordingly could more easily identify him.
+Pritchett must also be distinguished from the instant case in that in Pritchett, the defense was “entrapment”, and the informant (if not an eyewitness) was at least an active participant in the events leading up to the illegal transaction” (Pritchett, supra, 225 Pa.Super. at 409, 312 A.2d at 438). Accordingly, the lower court deemed disclosure both “relevant and helpful”. That ruling was affirmed on appeal.
+Finally, in Walak, the Court found that the paid police informant was an eyewitness to the crimes charged and under those circumstances, the defense was entitled to be furnished with his whereabouts, the defense previously having been furnished with his name.
+In the instant case, based upon a defense of mistaken identity, Appellant failed to carry his burden of producing “relevant and helpful” evidence which would justify disclosure of the name and address of the police informant. Nowhere in the record is there testimony which indicates that the police informant had personally observed, and therefore could identify, the individual who allegedly sold contraband to Officer Troutner. On the contrary, the record is manifestly clear that the police informant, during the nighttime transaction, was across the street at least 30 feet away.
+We see nothing in the present record which requires us to substitute our decision for that of the lower court.
+Judgment of sentence affirmed.
+CERCONE, J., concurs in the result.
+SPAETH, J., files a dissenting opinion, in which HOFFMAN, J., joins.
+WATKINS, former President Judge, did not participate in the consideration or decision of this case.
+. After the denial of said Motion, the Appellant’s right of appeal was properly preserved by being raised in a timely filed Post Trial Motion.
+
+## Dissent (SPAETH, Judge,)
+
+SPAETH, Judge,
+dissenting:
+I confess my inability to distinguish this case from Commonwealth v. Carter, 427 Pa. 53, 233 A.2d 284 (1967), and Commonwealth v. Pritchett, 225 Pa.Super. 401, 312 A.2d 434 (1973). To be sure, there are factual differences, but not, I submit, any of legal consequence.
+The essential fact in Carter was that the informer “was the only material witness to the alleged narcotics transaction besides the police and the accused himself.” 427 Pa. at 58, 233 A.2d at 286. The same may — must—be said here.
+The majority says that “the policeman in Carter testified that he was introduced to Carter by the informant and that Carter made the sale to the informant in his (the policeman’s) presence . . . .” Majority Opinion at 1088 (emphasis in original). I do not see that it makes a difference whether the informer introduces the defendant to the undercover agent, or whether someone else does. As to the sale being made in the presence of the agent: that occurred here here, too. The sale was to the agent. The informer set it up, and watched it happen. Specifically: The informer drove the agent to the corner of Franklin and Oxford Streets, and parked. Then the informer got out of the car, lifted the hood, and turned off the lights: obviously, a signal. Then the informer crossed the street and waited, some thirty feet away. After appellant had sold the heroin to the agent, the informer returned to the car, and drove the agent away. Thus, in terms of materiality the informer here was every bit as material a witness as was the informer in Carter.
+The majority also says that in Carter the identification of the defendant “by both police witnesses was based solely on the single drug transaction there involved; while in the instant case, the backup officer . . . testified that he had previously arrested the [ajppellant and accordingly could more easily identify him.” Majority Opinion at 1088. However, the prosecutor may not in advance preclude a defendant from learning the identity of an informer simply by pyramiding the number of police witnesses. The very purpose of the rule that the identity of an informer who is a material eye witness must be disclosed is to prevent just such conduct. Thus in Carter the Supreme Court said:
+Elemental to our concept of fairness, as well as that embodied in the federal constitution, is the awareness that the testimonial perspective of police officers is conditioned by the “often competitive enterprise of ferreting out crime.” Johnson v. United States, 333 U.S. 10, 14, 68 S.Ct. 367, 369, 92 L.Ed. 436 (1948).
+427 Pa. at 61, 233 A.2d at 288.
+In this regard it is also important to cite Roviaro v. United States, 355 U.S. 53, 77 S.Ct. 623,1 L.Ed.2d 639 (1957), which is the seminal case on the subject of when an informer’s identity must be disclosed. There, “the Government relied on the testimony of two federal narcotics agents, Durham and Fields, and two Chicago police officers, Bryson and Sims, each of whom knew petitioner by sight.” 353 U.S. at 56, 77 S.Ct. at 625 (emphasis added). The Court nevertheless held that the informer’s identity should have been disclosed, because “Doe [the informer] had helped to set up the criminal occurrence and had played a prominent part in it.” 353 U.S. at 64, 77 S.Ct. at 629.
+The majority says that “Pritchett must also be distinguished from the instant case in that in Pritchett, the defense was ‘entrapment’, and the informant (if not an eyewitness) was at least an active participant in the events leading up to the illegal transaction . . ..” Majority Opinion at 1088. I do not find Pritchett distinguishable on these grounds. Certainly here the informer was “an active participant”; as discussed above, he set up the sale, watched it happen, and drove the agent away. Whether the defense is entrapment or mistaken identity is not significant; in Carter the defense was mistaken identity. In any case, it would seem that it should be harder for a defendant to compel disclosure of the informer’s identity when the defense is entrapment, because in such a case at least there is no doubt that the defendant did make the sale. The reason the cases make nothing turn upon whether the defense is entrapment or mistaken identity is that in either sort of case the informer’s participation may make him a material witness; it is materiality that counts.
+Finally, the majority quotes and relies upon the lower court’s findings of fact. Majority Opinion at 1087. These findings simply represent the lower court’s opinion that the informer would not be able to say anything material if his identity were disclosed, and if defense counsel were therefore able to interview him. It was not the function of the court to express such an opinion. As said in Roviaro:
+The desirability of calling John Doe as a witness, or at least interviewing him in preparation for trial, was a matter for the accused rather than the Government to decide.
+353 U.S. at 64, 77 S.Ct. at 629.
+The judgment of sentence should be vacated and the case remanded for new trial, with instructions to the lower court to require the prosecutor to disclose the identity of the informer.
+HOFFMAN, J., joins in this opinion.
