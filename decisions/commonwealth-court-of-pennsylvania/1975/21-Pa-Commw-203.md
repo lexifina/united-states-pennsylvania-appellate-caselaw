@@ -1,0 +1,31 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1150 C.D. 1974"
+decided: "1975-09-09"
+citations: ["21 Pa. Commw. 203"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Mencer, Rogers and Blatt."]
+parties: ["Marion Young v. Armstrong School District, Richard Stottlemyer, Superintendent, Appellant."]
+source_url: "https://static.case.law/pa-commw/21/cases/0203-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1869998
+cites_cases: ["18 Pa. Commonwealth Ct. 599", "284 A.2d 334", "3 Pa. Commonwealth Ct. 574", "309 A.2d 75", "336 A.2d 920", "5 U. S. C. §552", "9 Pa. Commonwealth Ct. 609"]
+---
+
+# Young v. Armstrong School District
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+In this action we are asked whether or not a list of names and addresses of kindergarten children in the Armstrong School District are public records and subject to disclosure under the “Right to Know Act,” Act of June 21, 1957, P. L. 390, as amended, 65 P. S. §66.1 et seq. The court below found that they were subject to disclosure and we affirm.
+The background can be summarized as follows. The Armstrong School District has heretofore operated the kindergarten program with pupils attending school for one-half of each regular school day. Roughly, half of the kindergarten student body attended morning sessions and half the afternoon sessions. In preparing its budget for the 1974-75 school year, the Armstrong School District so arranged its proposed spending as to elimiate split-day kindergarten sessions and to substitute therefor a plan whereby kindergarten pupils would attend full-day sessions when in school. This would mean that such pupils would go to school only on certain days or in certain weeks or in certain months but would attend full-day sessions at those times.
+This proposed change in the traditional kindergarten program has aroused the concern of some citizens including Marion Young, the complainant. These citizens and particularly the complainant have expressed their concern to the Superintendent of the Armstrong School District and to members of the School Board. In addition, the complainant has asked the Superintendent and/ or the School Board to provide her with a list of the kindergarten pupils enrolled for the next school term which commenced in August or September of 1974. She stated her purpose in obtaining such a list would be to contact and mobilize the parents of kindergarten enrollees in opposition to this proposed change in kindergarten operations. The Superintendent and/or School Board, however, have refused to supply the list or to make it available for copying.
+Is the list of kindergarten pupils enrolled in the Armstrong School District a “public record” as defined in the “Right to Know Act” or is it protected from disclosure as an exception from the Act?
+Section 2 of the Right to Know Act, 65 P. S. §66.2 provides that “[ejvery public record of an agency shall, at reasonable times, be open for examination and inspection by any citizen of the Commonwealth of Pennsylvania.” The Act defines “public record” as:
+“ [a] ny account, voucher, or contract dealing with the receipt or disbursement of funds by an agency or its acquisition, use or disposal of services or of supplies, materials, equipment or other property and any minute, order or decision by an agency fixing the personal or property rights, privileges, immunities, duties or obligations of any person or group of persons: Provided, That... it shall not include any record, document, material, exhibit, pleading, report, memorandum or other paper . . . which would operate to the prejudice or impairment of a person’s reputation or personal security. . . .” (Emphasis added.)
+The appellant argues first that the address list is not any minute, order, or decision fixing personal property rights, privileges, immunities, duties or obligations of any person or group. Although, as the appellant argues, the list itself constitutes only a compilation of facts submitted by parents and does not constitute a determination by the appellant, it is, as President Judge House has said, the sort of record which would provide a basis for determining the location of the school to which the child will attend, the room to which the child will be assigned, the particular sessions to which the child will be assigned, and the transportation which the child will need. It constitutes, therefore, a record which we believe does fall within the definition of public records under the Act. See Friedman v. Fumo, 9 Pa. Commonwealth Ct. 609, 309 A.2d 75 (1973); McMullan v. Secretary of Welfare, 3 Pa. Commonwealth Ct. 574, 284 A.2d 334 (1971).
+The appellant next argues that the lists are excepted from disclosure because they could operate to prejudice or impair the personal security of students or their parents through their use by unscrupulous solicitors and others. The appellant views the security of these individuals as their right to privacy. The Right to Know Act, however, contains no clause or provision to protect against the invasion of an individual’s privacy as does the Federal Freedom of Information Act, 5 U. S. C. §552, and for us to equate a concept of privacy with the concept of “personal security” would usurp the legislative prerogative of the General Assembly. We must assume that the legislature would have used clear and appropriate language had it intended such a result. The concept of personal security, we believe, involves protection from personal harm rather than protection from an invasion of privacy. To hold otherwise would render the Act nugatory. Moreover, we have held that for records to fall within the personal security exception they must be intrinsically harmful and not merely capable of being used for harmful purposes. Moak v. Philadelphia Newspapers, Inc. 18 Pa. Commonwealth Ct. 599, 336 A.2d 920 (1975). These lists are certainly not intrinsically harmful, but are public records subject to disclosure under the Right to Know Act.
+The decision of the lower court is, therefore, affirmed.
