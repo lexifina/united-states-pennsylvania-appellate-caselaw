@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 85"
+decided: "1939-04-12"
+citations: ["135 Pa. Super. 260"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Stadtpeld, Parker, Rhodes and Hirt, JJ."]
+parties: ["Silvano v. Metropolitan Life Insurance Company, Appellant."]
+source_url: "https://static.case.law/pa-super/135/cases/0260-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1017129
+cites_cases: ["113 A. 667", "146 Pa. 397", "153 A. 117", "177 A. 43", "178 A. 499", "183 A. 763", "228 Pa. 205", "23 A. 229", "270 Pa. 443", "3 A. 2d 331", "302 Pa. 34", "317 Pa. 405", "318 Pa. 382", "321 Pa. 241", "333 Pa. 21", "4 Pa. Superior Ct. 86", "77 A. 443", "79 Pa. 391"]
+---
+
+# Silvano v. Metropolitan Life Insurance
+
+## Majority (Baldrige, J.,)
+
+Opinion by
+Baldrige, J.,
+The appellee brought suit under a group insurance policy covering agents of the defendant company. The insured was entitled thereunder to disability benefits while “wholly and continuously disabled, as a result of bodily injury or disease, so as to be prevented thereby from engaging in any occupation or performing any work for wage or profit.”
+The plaintiff’s statement averred that on January 29, 1937, while in active service, he suffered an illness which totally and continuously disabled him for a period of fifty-two weeks. The defendant admitted plaintiff was temporarily disabled from January 29, 1937, until April 25, 1937, and paid benefits covering that period, but denied that he was prevented from engaging in any occupation or performing any work for wage or profit after April 25, 1937.
+Plaintiff sought to recover disability payments alleged to be due for the remainder of the fifty-two-week period, and obtained a judgment.
+The appellant’s chief complaint is directed to instructions given the jury. The trial judge in his general charge correctly told the jury that under the provisions of the policy plaintiff could not recover unless he was unable “to perform any of the duties of any occupation which the insured might be ordinarily capable of performing.”
+Plaintiff submitted the following point for charge: “2. The Plaintiff’s inability to do the greater portion, the substantial part of his work or duty is sufficient to enable him to recover under the policy.” That incorrectly stated the law applicable to the case and was in conflict with instructions in the charge, and should have been refused. The court, however, affirmed the point and then added: “As we have said to you, the reasonable interpretation of the words of the contract is that total disability to engage in any occupation or work for profit or wage, means, unable to perform any of the duties of any occupation which the insured might be ordinarily capable of performing.” These two statements of the law are irreconcilable. One is right, the other admittedly is wrong. What was the jury to follow? The construction to be placed on the language in the policy was vitally important. It is very essential that instructions in the general charge and answer to points submitted should be harmonious, clear, and definite.
+This case is similar in its facts to Cooper v. Metropolitan Life Ins. Co., 317 Pa. 405, 407, 177 A. 43, where the jury was told that “Totally and wholly disabled, as used in the policies, meant not ‘absolute helplessness, but rather the inability of the insured to do the greater portion or substantial part of his work or duty.’ The court, in holding those instructions erroneous, said (p. 408): “A reasonable interpretation of the words of the policy is, that the total disability to engage in any occupation or work for compensation or profit which is insured against, means inability to perform any of the duties of any occupation which the insured might be ordinarily capable of performing.”
+We are all of the opinion that the error in the affirmance of the point, to which we have called attention, was not corrected by the trial judge’s reference to his general charge. It is true that in passing upon the charge of the court the general effect thereof controls. A single misstatement or mere inadequacy is not generally regarded so serious as to require the granting of a new trial. That is necessary only when the charge, taken in its entirety, misguides the jury: Com. v. Glenn, 321 Pa. 241, 183 A. 763; Giannone v. Reale, 333 Pa. 21, 3 A. 2d 331. But an erroneous or misleading instruction on the law involved cannot be overlooked or counted as harmless error, notwithstanding the granting of new trials is not desirable: Raskus v. Allegheny Valley Street Railway, 302 Pa. 34, 153 A. 117; Walters v. W. & S. Life Ins. Co., 318 Pa. 382, 178 A. 499. The two conflicting statements of the learned trial judge, concerning a pivotal matter, must have been confusing to the jury, leaving them to surmise which instruction was correct, and constituted a basic error. It has been frequently held that where part of a charge as to material questions of law is contradictory, the judgment must be reversed. “But when the answer to a point is palpably wrong, it cannot be aided by the general charge”: Rice v. Olin, 79 Pa. 391, 397. In Davidson v. Traction Co., 4 Pa. Superior Ct. 86, 93, where judgment was reversed because the trial judge qualifiedly affirmed the plaintiff’s first point for charge, the court said: “This was manifestly erroneous and inconsistent with other portions of the charge and the answers to other points......We are sure that the learned judge did not intend to convey that impression, but we are not sure that the jury did not receive and act upon it. ......An obscure answer to a point may be aided in this manner, but not one that is palpably wrong: [citing cases.]” See, also, Gearing v. Lacher, 146 Pa. 397, 400, 23 A. 229; Otto Gas Engine Works v. Pepper, 228 Pa. 205, 211, 77 A. 443; Irwin Gas Coal Co. v. Logan Coal Co., 270 Pa. 443, 447, 113 A. 667.
+Judgment of the court below is reversed, and a new trial ordered.
