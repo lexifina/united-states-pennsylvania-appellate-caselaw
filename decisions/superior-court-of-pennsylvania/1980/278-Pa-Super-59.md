@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "500"
+decided: "1980-06-06"
+citations: ["278 Pa. Super. 59", "419 A.2d 1355"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CERCONE, President Judge, and WATKINS and LIPEZ, JJ."]
+parties: ["George BASKERVILLE v. PHILADELPHIA NEWSPAPERS, INC., Appellant."]
+source_url: "https://static.case.law/pa-super/278/cases/0059-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 146609
+cites_cases: ["242 Pa.Super. 451", "262 Pa.Super. 369", "266 Pa.Super. 129", "269 Pa.Super. 392", "285 A.2d 128", "304 A.2d 143", "446 Pa. 137", "451 Pa. 354"]
+---
+
+# Baskerville v. Philadelphia Newspapers, Inc.
+
+## Majority (CERCONE, President Judge:)
+
+CERCONE, President Judge:
+This is an appeal from the order of the court below declining to open a default judgment entered against the defendant-appellant in a trespass action. Finding no abuse of discretion, we affirm.
+The record reveals that in September of 1976 an accident occurred between an automobile operated by plaintiff-appellee and a truck being driven by appellant’s agent. On January 19, 1978, a copy of the complaint, properly endorsed with notice to plead, was served on appellant. According to the petition to open, that same day appellant forwarded the complaint to its insurance carrier. Unfortunately, appellant’s insurer neither entered an appearance nor filed an answer and, therefore, on August 7, 1978, appellee entered a default judgment. On December 18, 1978, appellant filed a petition to open the judgment. On February 1, 1979, the petition to open was denied and this appeal followed.
+It is axiomatic that a petition to open a default judgment is an appeal to the lower court’s equitable powers, and its decision will not be disturbed unless it clearly acted in abuse of its discretion. Pappas v. Stefan, 451 Pa. 354, 304 A.2d 143 (1973); Balk v. Ford Motor Co., 446 Pa. 137, 285 A.2d 128 (1971). It is equally well settled that “[i]n a trespass action, a petition to open should be granted only if the petition has been promptly filed, and the failure to appear or file a timely answer can be reasonably explained or excused.” Brooks v. Surman Dental Lab, Inc., 262 Pa.Super. 369, 371-373, 396 A.2d 799, 800-01 (1979). Instantly, because appellant has failed to reasonably explain or excuse its default, we conclude that the court below did not abuse its discretion in refusing to open the judgment.
+Appellant’s petition to open was accompanied by an affidavit in support of its allegation of reasonable excuse. In essence, appellant attempts to explain its failure to timely defend on the grounds that it promptly forwarded the complaint to its insurance carrier, but due to several inadvertent, administrative mistakes on the carrier’s part a seasonable answer was not filed. Appellee’s answer, in pertinent part, denied these allegations. In addition, attached to the answer as an exhibit was a letter from appellee’s counsel to appellant dated March 17,1978. In this letter, counsel informed appellant that it would be permissible for appellee to take a default judgment since almost two months had passed from service of the complaint and no answer had yet been filed. Counsel, however, expressed reluctance at taking such a measure and requested appellant to contact an attorney so that the case could be litigated. Lastly, and most significantly, counsel warned appellant that if he did not hear from them within the next ten days he would have to take a default judgment. Needless to say, appellant never responded to this letter.
+Only recently this court has had occasion to review and summarize cases pertaining to what will and will not constitute an acceptable explanation for failing to answer a complaint. See Tronzo v. Equitable Gas Co., 269 Pa.Super. 392, 410 A.2d 313 (1979); Shainline v. Alberti Builders, Inc., 266 Pa.Super. 129, 403 A.2d 577 (1979); Brooks v. Surman Dental Lab, Inc., supra. Generally speaking, a delay solely attributable to an oversight or mistake on the insurance carrier’s part will excuse a default where the insured has no reason to believe his interests are not being protected. The case at bar does not fall within this category. As previously noted, on March 17, 1978, almost two months after service, appellant was advised by appellee that no answer had been filed on appellant’s behalf. Appellant was further advised that although appellee did not wish to take a default judgment he would be compelled to do so unless appellant contacted him within the next days. Notwithstanding this clear notice that its interests were in jeopardy, appellant neglected to respond in any manner.
+In Bethlehem Ap. Co., Inc. v. H.N. Crowder, Jr., Co., 242 Pa.Super. 451, 364 A.2d 358 (1976), we addressed a situation which closely parallels the present one. There, as in the instant case, the insured attempted to explain its failure to answer by asserting that it believed it was being properly represented by its insurance carrier. We, however, rejected this contention on the basis that the insured’s failure to inquire of the insurer as to the status or posture of the case in light of certain events which should have reasonably alerted it to a possible problem, precluded it from asserting a justifiable belief that its interests were being protected. Here, as in Crowder, supra, the record supports the conclusion that appellant cannot assert a justifiable belief that its interests were being protected by its insurance carrier. Accordingly, the court below did not abuse its discretion in finding that appellant failed to reasonably explain or excuse the default.
+Order affirmed.
+In view of this conclusion, we need not decide whether the petition to open was promptly filed.
