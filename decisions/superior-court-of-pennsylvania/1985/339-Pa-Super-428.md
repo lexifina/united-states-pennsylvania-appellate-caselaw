@@ -1,0 +1,40 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "330"
+decided: "1985-03-01"
+citations: ["339 Pa. Super. 428", "489 A.2d 235"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before SPAETH, President Judge, and OLSZEWSKI and CERCONE, JJ.", "SPAETH, President Judge, concurs in the result."]
+parties: ["COMMONWEALTH of Pennsylvania v. George Michael PEMBERTH, Appellant."]
+source_url: "https://static.case.law/pa-super/339/cases/0428-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 627045
+cites_cases: ["159 A.2d 687", "21 A.2d 920", "222 Pa.Super. 329", "227 Pa.Super. 279", "239 Pa.Super. 187", "256 Pa.Super. 344", "287 Pa.Super. 120", "295 A.2d 87", "317 Pa.Super. 135", "324 A.2d 480", "343 Pa. 102", "361 A.2d 746", "364 U.S. 886", "398 Pa. 546", "5 L.Ed.2d 107", "81 S.Ct. 177"]
+---
+
+# Commonwealth v. Pemberth
+
+## Majority (OLSZEWSKI, Judge:)
+
+OLSZEWSKI, Judge:
+Appellant challenges his conviction under 18 Pa.C.S. Sec. 3928, Unauthorized Use of a Motor Vehicle.
+We are asked to decide whether a defendant charged only with theft by unlawful taking or disposition, 18 Pa.C.S. Sec. 3921, and receiving stolen property, 18 Pa.C.S. Sec. 3925, can be validly convicted for unauthorized use of a motor vehicle, 18 Pa.C.S. Sec. 3928.
+It is well-settled that upon indictment for a particular crime, a defendant may be convicted of a lesser offense included within that crime. Commonwealth v. Soudani, 398 Pa. 546, 159 A.2d 687, cert. denied 364 U.S. 886, 81 S.Ct. 177, 5 L.Ed.2d 107 (1960). The test for whether a given offense is lesser than and included in another asks whether the greater offense “necessarily involves” the lesser. Commonwealth ex rel. Moszczynski v. Ashe, 343 Pa. 102, 21 A.2d 920 (1941).
+The proper subsidiary test for determining whether one offense necessarily involves another, is whether all of the essential elements of the lesser offense are included in the greater. Stated another way, if the essential elements of crime A are also elements of crime B, and if crime A is less culpatory than crime B, then crime A is a lesser-included offense of crime B.
+Commonwealth v. Ackerman, 239 Pa.Super. 187, 192, 361 A.2d 746, 748 (1976) (citations omitted).
+Applying this analysis to the case at bar, we conclude that neither 18 Pa.C.S. Sec. 3921 nor 18 Pa.C.S. Sec. 3925 necessarily involve the conduct proscribed by 18 Pa.C.S. Sec. 3928, Unauthorized Use of a Motor Vehicle.
+Section 3928 defines the offense of unauthorized use: “A person is guilty of a misdemeanor of the second degree if he operates the automobile without consent of the owner.” 18 Pa.C.S. Sec. 3928(a) Receiving stolen property is defined by Section 3925:
+A person is guilty of theft if he intentionally receives, retains, or disposes of movable property of another knowing that it has been stolen, or believing that it has probably been stolen, unless the property is received, retained, or disposed with intent to restore it to the owner.
+18 Pa.C.S. Sec. 3925(a).
+This Court in Commonwealth v. Robinson, 317 Pa.Super. 135, 463 A.2d 1121 (1983), distinguished the two as necessarily involving different mental elements. We find an additional distinction. Conviction under Sec. 3928 requires proof of use, more than the showing of possession necessary to sustain a conviction under Sec. 3925. Therefore, the conviction for unauthorized use cannot follow as a “lesser-included” to the charge of receiving stolen property.
+With respect to the offense of theft by unlawful taking, Section 3921 provides: “A person is guilty of theft if he unlawfully takes, or exercises unlawful control over, movable property of another with intent to deprive him thereof.” 18 Pa.C.S. Sec. 3921(a). Appellant contends that the conduct proscribed by Sec. 3921 does not necessarily involve the activity penalized under Sec. 3928. In short, he argues that a person can steal a car without operating it. This Court in Commonwealth v. Nace, 222 Pa.Super. 329, 295 A.2d 87 (1972), admitted that there could be situations in which the allegations made in the indictment, while sufficient for conviction of larceny, would not sustain a conviction for “joy-riding.” A person could push a car, tow the car or receive possession of a previously stolen car, and then exercise control over that car. Because the crime of theft by unlawful taking does not necessarily involve all the essential elements of unauthorized use, we conclude that Sec. 3928 is not a lesser-included offense to Sec. 3921.
+Our decision today calls into question the continuing validity of Commonwealth v. Nace, 222 Pa.Super. 329, 295 A.2d 87 (1972). The Court there stated that the operation of a motor vehicle without the knowledge or consent of the owner was a lesser-included offense to larceny of a motor vehicle. Although the statement was dicta, it has been widely cited as law. For that reason we explain why Nace does not control our decision here.
+Nace deals with the old “joy-riding” statute, 75 P.S. Sec. 624(5), which made it a crime to “use” as well as to operate another’s motor vehicle without his or her consent. At the time Nace was decided, larceny by motor vehicle was a common law crime. Both the “joy-riding” statute and the common law larceny have been replaced under the Crimes Code by Sec. 3928 and Sec. 3921, respectively. Definition of the offenses under current law is stricter than it was under the antecedent law. As stated above, an actor could conceivably “exercise control” over a vehicle without actually operating it. The distinction is more than metaphysical. Penal statutes by law are to be strictly construed in favor of the defendant. Commonwealth v. Darush, 256 Pa.Super. 344, 389 A.2d 1156 (1978). If a doubt exists, it must be turned to defendant’s advantage.
+The Court in Nace admitted, even after finding “joy-riding” a lesser-included offense, that there could be instances where allowing the fact-finder to convict on the lesser-in-eluded offense could prejudice counsel in presentation of a defense. It noted that if counsel were unaware of the possibility of conviction for the lesser-included offense, a violation of due process could result.
+At the heart of the issue is notice, a means of assuring the defendant an opportunity to put forth an adequate defense to the charge. Commonwealth v. Gouse, 287 Pa.Super. 120, 429 A.2d 1129 (1981); see Commonwealth v. Stots, 227 Pa.Super. 279, 281 n. 3, 324 A.2d 480, 481 n. 3 (1974) (“whether conviction for a less serious or less culpable offense may lie on an indictment for another more serious or more culpable defense is principally a question of whether the indictment will fairly put the defendant on notice of the charges against him so that he may prepare an adequate defense.”) This end has frequently been achieved in one of two ways: either the Commonwealth will give an accused express notice by charging him with the less culpable offense or it will give him implicit notice through the information where the proven, but uncharged crime is a lesser-included offense of the charged, but unproven, offense. Commonwealth v. Gouse, 287 Pa.Super. at 126, 429 A.2d at 1132.
+In the instant case, appellant was not explicitly charged with unauthorized operation. Rather, the charge was given to the jury, at Commonwealth’s request, after appellant had testified. Nor was appellant impliedly put on notice. Unauthorized operation is a separate offense, distinct from the crimes of theft by taking or receiving stolen goods. Commonwealth had the power to charge appellant with the offense of unauthorized operation. It chose not to do so. We are left with no alternative but to discharge the appellant.
+The conviction is reversed and the appellant is discharged. Jurisdiction relinquished.
+SPAETH, President Judge, concurs in the result.
+. The actual holding in Nace was that the PCHA court had acted improperly in dismissing, without hearing, appellant’s petition.
