@@ -1,0 +1,21 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 694"
+decided: "1974-02-07"
+citations: ["228 Pa. Super. 854"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Spaulding, J., absent."]
+parties: ["Ward, Appellant, v. Philadelphia Electric Company."]
+source_url: "https://static.case.law/pa-super/228/cases/0854-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 811283
+---
+
+# Ward v. Philadelphia Electric Co.
+
+## Majority
+
+Order affirmed.
+Spaulding, J., absent.
