@@ -1,0 +1,39 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 238 C.D. 1980"
+decided: "1981-09-02"
+citations: ["61 Pa. Commw. 500"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogers, Williams, Jr., and Palladino, sitting as a panel of three.", "Judge Parradino concurs in the result only."]
+parties: ["Crucible Steel Corporation, Petitioners v. Commonwealth of Pennsylvania, Workmen’s Compensation Appeal Board and William F. Lockhart, Respondents."]
+source_url: "https://static.case.law/pa-commw/61/cases/0500-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1923979
+cites_cases: ["37 Pa. Commonwealth Ct. 412", "38 Pa. Commonwealth Ct. 218", "391 A.2d 14", "392 A.2d 346", "403 A.2d 1372", "44 Pa. Commonwealth Ct. 493", "492 Pa. 372"]
+---
+
+# Crucible Steel Corp. v. Commonwealth
+
+## Majority (Judge Williams, Jr.,)
+
+Opinion by
+Judge Williams, Jr.,
+This is an appeal by Crucible Steel Corporation (appellant) from an Order of the Workmen’s Compensation Appeal Board affirming a referee’s decision granting claimant William F. Lockhart total disability benefits due to an occupational disease, under Section 108(n) of The Pennsylvania Workmen’s Compensation Act.
+William F. Lockhart worked for Crucible Steel from 1945 to 1947, and again from 1951 until June, 1976. During Lockhart’s employment with Crucible Steel, he worked primarily as a repairman and rigger; however from 1975 until the termination of his employment, he worked as a crane inspector. Between 1966 and 1976, claimant, through his work, was exposed to various dusts including silica.
+Prior to March, 1976, claimant underwent treatment for respiratory problems by his family physician, Dr. Bookwalter. Following that, cliamant was hospitalized on several occasions for acute bronchitis and acute asthma; acute bronchitis and pulmonary emphysema, and marked pulmonary emphysema. Claimant ceased working on June 22, 1976 on the advice of Dr. Bookwalter. In October, 1977, claimant was again examined for breathing difficulties, this time by Dr. J. D. Silverman.
+Subsequent to claimant’s terminating his employment, he filed a Claim Petition against his employer, Crucible Steel, alleging that he was suffering from pneumoconiosis incurred as a result of his exposure to dust while working in the steel mill for Crucible. A referee’s hearing was held on that petition and the referee entered an order dismissing the petition. The referee found that although it was obvious that the claimant was totally disabled due to respiratory diseases, Claimant’s medical witness was neither asked nor volunteered an opinion as to whether or not the incidence of respiratory disease suffered by claimant was substantially greater in his particular industry or occupation than in the general population. Thus, the referee found that claimant failed to meet the burden of proving an occupational disease under the Section 108 (n) of the Act. Claimant then appealed the .referee’s order to the Workmen’s Compensation Appeal Board and the Board remanded the case to the referee to give claimant an opportunity to complete his case. At the remand hearing, a second deposition of Dr. Silverman was offered into evidence. In the second deposition, Dr. Silverman testified that the incidence of the respiratory diseases suffered by the claimant is substantially greater in the industry in which claimant was employed than in the general population. Following that hearing, the referee entered an order awarding claimant benefits at the rate of $187.00 per week, beginning on October 28, 1977 and continuing indefinitely into the future. Crucible Steel then filed an appeal to the Board, which affirmed the referee’s decision and dismissed that appeal. Crucible’s further appeal to this Court followed.
+Appellant raises two issues in this appeal, the first of which concerns the propriety of the Board’s remand order. With respect to that issue, appellant contends that the remand was improper because the referee’s findings were supported by competent evidence and adequate findings were made on all crucial issues. Thus, appellant argues, the Board overstepped its bounds in remanding the referee’s initial decision. We do not agree. Section 419 of The Pennsylvania Workmen’s Compensation Act provides in pertinent part:
+The [B]oard may remand any case involving any question of fact arising under any appeal to a referee to hear evidence and report to the [B]oard the testimony taken before him or such testimony and findings of fact thereon as the [B]oard may order.
+That section has been held to vest virtually plenary remand power where it is determined that further findings are required to establish the entitlement to an award, Borovich v. Colt Industries, 492 Pa. 372, 424 A.2d 1237 (1981), rev’g, Colt Industries v. Borovich, 44 Pa. Commonwealth Ct. 493, 403 A.2d 1372 (1979).
+This Court has previously held that in order for a claimant to recover under Section 108 (n) of the Act, one of the elements that must he proved is that the claimant’s condition has a substantially greater incidence in his industry than in the general population. Roofner v. Workmen’s Compensation Appeal Board, 38 Pa. Commonwealth Ct. 218, 392 A.2d 346 (1978). In the instant case, there was no testimony whatsoever offered at the first referee’s hearing concerning the incidence of claimant’s respiratory diseases in his particular occupation as compared to the occurrence of those diseases in the general population. Therefore, under Section 419 of the Act and the Borovich case, the Board’s initial decision to remand this case to the referee in order to hear evidence on that issue was proper.
+Appellant’s next assertion is that claimant did not present sufficient, competent medical testimony to support the referee’s decision. Appellant contends that claimant’s medical testimony demonstrates that there exists a multiplicity of causes for claimant’s disability, including his excessive cigarette smoking. Appellant cites the case of Consolidation Coal Co. v. Workmen’s Compensation Appeal Board, 37 Pa. Commonwealth Ct. 412, 391 A.2d 14 (1978), as requiring, for the award of benefits, the presence of medical evidence establishing that a claimant’s death or disability resulted from an occupational disease; medical evidence that a disease is a mere contributing factor to the claimant’s death or disability is not sufficient to sustain an award of benefits.
+We agree that Consolidation Coal sets forth the required standard of proof for the instant case. However, that standard was satisfied. Our review of the record indicates that claimant has introduced the required medical testimony necessary to sustain an award of benefits. In both of his depositions, claimant’s medical witness, Dr. Silverman, stated that claimant was totally disabled due to pneumoconiosis, bronchitis, and emphysema, and that those conditions occurred as a result of claimant’s total and cumulative exposures while working in the steel mills. The doctor went on to state that claimant would have been totally and permanently disabled if he had not smoked.
+"We opine that the aforementioned medical testimony satisfies the test previously set forth by this Court for establishing the causal connection between claimant’s disability and his occupational disease. Thus, claimant was entitled to benefits under the Act.
+For the above stated reasons, we affirm the decision of the Board awarding claimant benefits.
+Order,
+And Now, the 2nd day of September, 1981, the order of the Workmen’s Compensation Appeal Board at Decision No. A-77488 is affirmed.
+Judge Parradino concurs in the result only.
+Act of June 2, 1915, P.L. 736, as amended, added by Section 1(n) of the Act of October 17, 1972, P.L. 930, 77 P.S. §27.1 (n).
+77 P.S. §852.
