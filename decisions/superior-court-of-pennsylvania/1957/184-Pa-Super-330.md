@@ -1,0 +1,38 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 30"
+decided: "1957-08-27"
+citations: ["184 Pa. Super. 330"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Bhodes, P. J., Hirt, Gunther, Wright, Woodside, Ervin, and Watkins, JJ."]
+parties: ["Furst et al., Appellants, v. Pennsylvania Public Utility Commission."]
+source_url: "https://static.case.law/pa-super/184/cases/0330-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 736641
+cites_cases: ["125 A. 2d 624", "182 Pa. Superior Ct. 54"]
+---
+
+# Furst v. Pennsylvania Public Utility Commission
+
+## Majority (Ervin, J.,)
+
+Opinion by
+Ervin, J.,
+This is an appeal by a protestant motor carrier from an order of the Public Utility Commission dated January 21, 1952, granting to Powell Betts and Willis I. Betts, copartners, trading and doing business as Betts Transfer, “the right to operate motor vehicles as a common carrier as follows: To transport, as a Class D carrier, property (excluding household furniture, articles of special value, heavy machinery, or property requiring special equipment to handle, commodities in bulk in tank trucks, and property for the American Stores Company) from the City of Johnstown, Cambria County to points within thirty (30) miles of the limits of said city.” Betts Transfer has been a certificated carrier since 1933, authorized to operate as a Class D carrier within five miles of the limits of the City of Johnstown, Cambria County, Pennsylvania, and as a Class B carrier within three miles of the limits of said city. Alfred J. Furst, one of the protestant motor carriers, took this appeal and our Court permitted R. E. Fritz, Motor Freight Express and Replogle Transport Co. to intervene as appellants.
+The only questions raised by appellants are (1) is there a lack of substantial evidence to support the findings of the commission, and (2) did the commission abuse its administrative discretion.
+In order to obtain the additional authority sought, the burden of proof was upon the applicant to establish (1) the need for additional service and (2) inadequacy of existing service. Pa. R.R. Co. v. Pa. P.U.C., 182 Pa. Superior Ct. 54, 60, 125 A. 2d 624. The commission made the following finding: “After full consideration of the record in this proceeding, we find that existing motor carrier transportation service in the area affected by this application is not of a type or character which satisfies the public need and convenience and that the proposed service would tend to correct or substantially improve that condition; . . .” In addition to the two Betts brothers, 11 shipper witnesses testified for the applicant. The testimony of the shipper witnesses clearly demonstrates the need for the type of service which the applicant proposes to render and also clearly demonstrates that this type of service has not been adequately furnished by the existing certificate holders. The applicant’s witnesses expressed confidence in the ability of the applicant to render the type of service which they desired.
+A witness appearing for Pennsylvania Telephone Company stated that his company required same-day pick-up and further required special equipment for the shipment of pole line equipment. The shipper’s requirements in this respect indicated a necessity for a type of service which was not being rendered by then-certificated carriers. Shipper further testified that applicant’s proposed single shipment service would facilitate the office work of the shipper in that such service would obviate the necessity of tagging its shipments to distinguish such property from property of other shippers.
+A witness for Edward Livingston and Sons testified to a necessity for the services of a carrier who could transport all required shipper property to a job site in one load so that highly paid help would not be idled by the delays which partial shipments to a job site would occasion.
+A witness for M. Glosser and Sons testified to his company’s need for shipment of structural steel materials and he stated that although other carriers could not handle such material, applicant had the equipment to ship such material and has, in fact, handled such shipments for this shipper in the past over its then-certificated areas.
+A witness for Swan Hardware testified to the need which his company had for service rendered with open vans which other carriers did not have available. This witness further cited a need for fast service such as was to be provided by applicant.
+A witness for National Radiator Company gave testimony respecting the need of his company for speedy pick-up and delivery at off-route points. The witness for T. J. Horner Company testified as to similar needs and as to his company’s requirement for delivery to on-the-site jobs. This witness also testified to a requirement for regular and fast service.
+Witness for Johnstown Distributing Company offered further testimony on the inability of his company to get off-route or on-job delivery. He further stated that presently certificated carriers could not or would not supply the special handling which was needed.
+A witness for Swift and Company offered testimony respecting the need of his company for immediate delivery and for immediate pickup, as distinguished from scheduled delivery which is available. The perishable quality of his company’s commodities made it imperative that the company be rendered service on a more regular basis than every other day pick-up.
+A witness appearing for Dick’s Automobile Supply Company offered testimony respecting his company’s need for delivery to off-route locations and this witness also stated an anticipated advantage which would accrue to his company in the event that it would be able to make all of its shipments through one carrier.
+A witness for Walters Tire Service stated necessity for immediate on-job delivery.
+A witness for Somerset Door and Column Company stated a requirement for call and delivery service and for on-job and off-route deliveries.
+The protestants presented the testimony of five witnesses. In most cases the protestants were carriers who either had no authority to render off-route or on-the-job service and did not seek such service. Alfred J. Furst was the only protestant Avho had authority to render off-route and on-the-job service Avithin a 25-mile radius of the City of Johnstown. He admitted that he had not done any soliciting for new business among the witnesses for some time and that he had never solicited business from the Pennsylvania Telephone Corporation nor from M. J. Glosser & Son and that he had never delivered any building supplies for anyone. He also testified that he had a misunderstanding with the National Badiator Company. If carrier service Avas available to shippers in much of the territory Avhich the applicant sought to serve, the testimony indicates that such sendee Avas restricted almost exclusively to on-route service. Shippers whose needs are in the area of off-route service or on-the-job service should not be restricted to a service which does not meet their needs. This record reveals that the off-route and on-the-job type of service is not being adequately met in the territory involved in this application.
+We are of the opinion that there was substantial evidence to support the findings of the commission and therefore there was no abuse of administrative discretion in its approval of this application.
+The order of the commission is affirmed at the cost of the appellant.
