@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1170"
+decided: "1985-12-27"
+citations: ["348 Pa. Super. 365", "502 A.2d 251"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before MONTEMURO, ROBERTS, BLOOM, JJ."]
+parties: ["CENTERRE BANK OF KANSAS CITY, N.A., Credit Lyonnais, European-American Bank & Trust Co., Mellon Bank, N.A., Mercantile National Bank at Dallas, and Security Pacific National Bank v. ARTHUR YOUNG & COMPANY, Appellant."]
+source_url: "https://static.case.law/pa-super/348/cases/0365-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 645205
+cites_cases: ["228 Pa.Super. 319", "240 Pa.Super. 527", "246 A.2d 384", "294 Pa.Super. 596", "323 A.2d 850", "338 Pa.Super. 577", "359 A.2d 465", "431 Pa. 407"]
+---
+
+# Centerre Bank of Kansas City v. Arthur Young & Co.
+
+## Majority (BLOOM, Senior Judge:)
+
+BLOOM, Senior Judge:
+This is an appeal from an order denying preliminary objections based upon forum non conveniens.
+Plaintiffs, five American banks and one French bank, instituted a suit in trespass against Arthur Young & Co. (“Arthur Young”), a nationally recognized CPA firm, and alleged that Arthur Young was negligent in the performance of certain audits of International Systems and Controls Corporations (“ISC”) and that plaintiffs suffered damage by relying on said audits in deciding to make certain loans to ISC. Arthur Young filed preliminary objections raising the doctrine of forum non conveniens, a demurrer based on lack of privity between itself and the plaintiffs, failure to join an indispensable party, and absence of damages to the plaintiffs. On August 24, 1984, the trial court denied the petition to transfer, dismissed the demurrer, and granted appellant twenty days to file an answer.
+On August 31, 1984, Arthur Young petitioned the trial court to amend its order pursuant to Pa.R.A.P. 311(b)(2), 312 and 1311 to state that the preliminary objections founded upon forum non conveniens and upon lack of privity were legal issues as to which there is a substantial ground for difference of opinion and an immediate appeal may materially advance the ultimate termination of this matter, and that the preliminary objections founded upon forum non conveniens present substantial issues of jurisdiction. On September 12, 1984, while the petition to amend was pending, Arthur Young filed the present appeal from that part of the trial court’s order denying Arthur Young’s preliminary objections based on forum non conveniens. The appeal states Arthur Young’s position that the trial court’s order was final and appealable pursuant to Pa.R.A.P. 341 and sets forth two substantive arguments in support of transferring the case.
+Thereafter, appellee banks filed a Motion to Quash the appeal on the basis that the trial court’s order sustaining venue was an interlocutory order which was not appealable as of right. Appellant then filed an Answer to the Motion to Quash. On March 19, 1985, the Motion to Quash was denied without prejudice to argue the issue before the panel. In the interim, on December 20, 1984, the trial court denied Arthur Young’s Motion to Amend the Order of August 24, 1984. Also in the interim, on January 17, 1985 appellant filed a petition for review in connection with the trial court’s denial of appellant’s Motion to Amend the order to certify the lack of privity issue for appeal. This motion remains unresolved.
+In light of this case’s procedural history, we cannot consider the merits of the arguments in favor of transferring this case until we address the appealability of the order in question. Appellant cites several cases for the proposition that an appeal from an order denying preliminary objections based on forum non conveniens is a final, appeal-able order. Caplan v. Keystone Weaving Mills, Inc., 431 Pa. 407, 410, 246 A.2d 384, 386 (1968); Daugherty v. Island Tugs, 240 Pa.Super. 527, 529, 359 A.2d 465, 466 (1976); Norman v. Norfolk & Western Railyard Co., 228 Pa.Super. 319, 322 n. 3, 323 A.2d 850, 851 n. 3 (1974). These cases, however, pre-date Pa.R.A.P. 311. See Lyons v. Bechtel Corp., 294 Pa.Super. 596, 598 n. 2, 440 A.2d 625, 626, n. 2 (1982), noting that the appealability of orders dismissing a litigant’s preliminary objections predicated upon forum non conveniens is now governed by Rule 311.
+Rule 311(c) provides that an appeal may be taken as of right from an order “changing venue, transferring the matter to another court of coordinate jurisdiction, or declining to proceed in the matter on the basis of forum non conveniens or analogous principles.” Since the trial court in this case did not “decline to proceed in the matter on the basis of forum non conveniens/’ Rule 311(c) is inapplicable. See United Erectors v. Pratt & Lambert Corp., 338 Pa.Super. 577, 488 A.2d 43 (1985) (Unambigous language of Rule 311(c) and comments thereto make plain that it applies only to lower court orders which do not sustain venue).
+Moreover, Rule 311(b) which permits amappeal as of right from orders sustaining venue or personal or in rem jurisdiction is silent regarding the issue of forum non conve-niens. Contrasted with the specific mention of the doctrine of forum non conveniens in Rule 311(c), such omission appears to be deliberate. Absent the inclusion of forum non conveniens as a basis for an appeal as of right, the appealability of the instant order pursuant to Rule 311(b) is not clear. However, even if Rule 311(b) were construed as encompassing the doctrine of forum non conveniens, the fact remains that neither of the requirements of election or certification set forth in subsection (1) and (2) of Rule 311(b) have been met. See United Erectors v. Pratt & Lambert Corp., supra, (Where neither requirements of Pa.R.A.P. 311(c) is met, order denying appellant’s preliminary objections challenging jurisdiction is not appealable). Accordingly, we are obliged to quash this appeal as it is interlocutory.
+Appeal quashed.
+The petition for review is denied.
