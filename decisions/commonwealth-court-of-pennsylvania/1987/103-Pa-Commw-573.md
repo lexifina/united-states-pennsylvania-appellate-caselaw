@@ -1,0 +1,36 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 298 C. D. 1986"
+decided: "1987-02-10"
+citations: ["103 Pa. Commw. 573", "520 A.2d 966"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail and Palladino, and Senior Judge Barbieri, sitting as a panel of three."]
+parties: ["In Re: Ordinance Number 85-2 of The Borough of Frackville, Schuylkill County, Pennsylvania. Borough of Ashland, Appellant."]
+source_url: "https://static.case.law/pa-commw/103/cases/0573-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8732560
+cites_cases: ["100 Pa. Commonwealth Ct. 163", "271 A.2d 241", "409 A.2d 118", "441 Pa. 105", "48 Pa. Commonwealth Ct. 27", "506 Pa. 636", "507 A.2d 323", "510 Pa. 158", "99 Pa. Commonwealth Ct. 239"]
+---
+
+# In re Ordinance Number 85-2 of Frackville
+
+## Majority (Opinion by Judge MacPhail,)
+
+Opinion by Judge MacPhail,
+The Borough of Ashland (Ashland) appeals from an order of the Court of Common Pleas of Schuylkill County which sustained the preliminary objections of the Borough of Frackville (Frackville) to a complaint filed by Ashland. We affirm.
+Ashland commenced its action under the authority of Section 1010 of The Borough Code, Act of February 1, 1966, P.L. (1965) 1656, as amended, 53 P.S. §46010, which provides that “[c]omplaint as to the legality of any ordinance or resolution may be made to the court.” Ash-land’s complaint avers a series of defects in the enactment of Ordinance No. 85-2 on February 1, 1985 by Frackville. The ordinance authorizes and directs the condemnation of lands above and adjacent to lands owned and used by Ashland as a watershed and reservoir. Under the ordinance, the condemned lands would then be used for constructing a sewage treatment plant.
+The Court of Common Pleas granted Frackvilles preliminary objection in the nature of a demurrer on the ground that Ashland lacked standing to sue.
+Our scope of review of a challenge to the sustaining of a preliminary objection in the nature of a demurrer is limited. All material facts set forth in the complaint as well as all inferences reasonably deducible therefrom are admitted. Judge v. Allentown and Sacred Heart Hospital Center, 506 Pa. 636, 487 A.2d 817 (1985). The question we are presented with is whether, on the facts averred, the law says with certainty that no recovery is possible. Id. Where a doubt exists as to whether a demurrer should be sustained, this doubt should be resolved in favor of overruling it. Id.
+We begin our analysis by noting that the ordinance attacked here is very narrow indeed. It merely provides for the condemnation by Frackville of the land in question. While it is true that the ordinance states that the land will be used for the construction of a sewage treatment plant, the ordinance does not provide for that construction. It is clear that Ashland is really objecting to the possibility of the future use of the land, not its acquisition.
+Section 303 of the Eminent Domain Code, Act of June 22, 1964, P.L. 84, as amended, 26 P.S. §1-303, states that “[i]t is intended by this act to provide a complete and exclusive procedure and law to govern all condemnations of property for public purposes and the assessment of damages therefor. ...” It is clear that condemnation proceedings concern themselves only with the acquisition of land by condemnors and how much should be paid to condemnees.
+Ashland objects to the ordinance because it is fearful that a sewage treatment plant constructed on the land proposed to be condemned would damage its water supply. If the construction of a sewage treatment plant commences or if the operation thereof causes damage to Ashland, that municipality may then seek such relief from the courts as the law permits. All that we hold at this time is that the passage by Frackville of the ordinance authorizing eminent domain proceedings does not yet give rise to a cause of action by Ashland.
+In order to have standing, a party’s interest in the matter litigated must be substantial, direct and immediate. Consumer Party of Pennsylvania v. Commonwealth, 510 Pa. 158, 507 A.2d 323 (1986). Those who reside in the Borough of Frackville may have standing to attack the validity of the ordinance in that residents would have a direct interest in seeing that their tax dollars are not spent pursuant to an improperly-enacted condemnation ordinance. See id. The owners of the land to be condemned also would have a direct interest, although they may be permitted to object only by preliminary objections to the condemnation action. See Vartan v. Reed, 100 Pa. Commonwealth Ct. 163, 514 A.2d 646 (1986).
+As for Ashland, the only interest which it could protect by objecting to the ordinance providing for the condemnation would be that some of its residents could see their state tax dollars, which may be granted to Frackville for the project, spent pursuant to an allegedly improperly-passed ordinance. However, there must be some discernible adverse effect to some interest of a municipality other than the abstract interest of all of its citizens in preventing allegedly unlawful government expenditures in order for the municipality to have standing to sue. Township of Upper Moreland v. Department of Transportation, 48 Pa. Commonwealth Ct. 27, 409 A.2d 118 (1979).
+As for the environmental concerns addressed by Ashland, it appears that the concerns received a full airing at proceedings before the Environmental Hearing Board concerning the proposed sewer plant construction and in Ashland’s appeal to this Court of the Environmental Hearing Board’s final decision. See Butler Township Board of Supervisors v. Department of Environmental Resources, 99 Pa. Commonwealth Ct. 239, 513 A.2d 508 (1986). Further, as we have noted, if any damage actually does occur if and when the plant is built, Ashland would certainly have standing to sue in the nature of trespass or under the Eminent Domain Code, depending upon the cause of the damage suffered. Ashland does not have standing at this time, however, to attack the validity of an ordinance which merely empowers Frackville to condemn land.
+The order of the Common Pleas Court is affirmed.
+Order
+The order of the Court of Common Pleas of Schuylkill County which sustained the Borough of Frackvilles preliminary objections in the nature of a demurrer to the Complaint filed by the Borough of Ashland is affirmed.
+The trial court also denied as moot Ashland’s “Preliminary objections in the nature of a motion to quash the appeal.”
+Ashland argues in this appeal that the trial court erred when it did not give Ashland an opportunity to amend its pleading. The general rule is that a litigant should be afforded the opportunity to amend a pleading to remedy a defect which can be corrected in such a manner as will permit the litigant to proceed with its action. Where, however, it is apparent that the litigant cannot remedy the defect regardless of how the pleading is amended, the trial court is not required to enter a futile order. Behrend v. Yellow Cab Co., 441 Pa. 105, 271 A.2d 241 (1970). It is our opinion that the circumstances of this case bring it within the holding in Behrend.
