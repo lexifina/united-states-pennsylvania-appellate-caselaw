@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 99"
+decided: "1943-12-09"
+citations: ["153 Pa. Super. 578"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Baldrige, Stadtfeld, Hirt, Kenworthey and Reno, JJ. (Rhodes, J., absent)"]
+parties: ["Donnelly, Appellant, v. Donnelly."]
+source_url: "https://static.case.law/pa-super/153/cases/0578-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1050892
+cites_cases: ["100 Pa. Superior Ct. 536", "116 Pa. Superior Ct. 385", "151 Pa. Superior Ct. 175", "176 A. 792", "30 A. 2d 248"]
+---
+
+# Donnelly v. Donnelly
+
+## Majority (Baldrige, J.,)
+
+Opinion by
+Baldrige, J.,
+This is an appeal by the libellant, the husband, in a divorce action. The master appointed by the court recommended that a divorce be granted to libellant on the ground of desertion. The court below sustained exceptions to the master’s report, refused a divorce and dismissed the libel. Libellant appealed.
+The parties were married April 23, 1938, in Westmoreland County. No children were born to this union, but the respondent is the mother of a minor son by a former husband. After the marriage ceremony the couple went to Pittsburgh where they spent the night, returning the next day to New Kensington, where they both had been living. This marriage from almost the beginning gave little promise of being an ideal union.
+According to libellant’s testimony they went to his home, an apartment containing five rooms, a sun porch, and two bathrooms, occupied by his mother, aunt, and himself. He intended to divide the apartment so that he and his wife would have their own rooms entirely separate from his mother and aunt. He testified that this plan did not meet the wife’s approval, an argument arose, and she refused to stay. She then went to her parents’ home where she lived prior to her marriage, and he remained in his apartment. The respondent admitted that she went to her husband’s apartment for a few minutes, but denied any disagreement at that time and said at first that neither the mother nor aunt was in the apartment, thus contradicting the testimony given by the libellant, his mother and aunt. Later, on cross examination, she said she left the apartment occupied by the husband and returned to her own home 'because his mother would not permit her to stay; that she was not requested, nor did she refuse, to remain.
+Libellant testified that for the first six months of their married life he lived at his own home and that he met his wife in the evenings after each had finished work; that he stayed during this period with her parents only during weekends; that he wanted to provide a home for her hut she refused to live any place but with her parents. He finally went to live at her home, but her parents failed to treat him with any consideration and he left there on April 27,1939, after her father had ordered him out of the house.
+The respondent denies the libellant’s testimony to which we have referred and stated that he had failed to provide for her at her parents’ home or elsewhere. It seems that about a year after the husband left her home a reconciliation was had and marital relations resumed on April 12, 1940. According to libellant’s testimony his wife then agreed to live with him and he rented a two room apartment in New Kensington, where they remained together until May 1, when she voluntarily left. She claims that during this period the libellant failed to provide for her and that she was furnished food by a girl friend, who was not named or called as a witness to corroborate that testimony.
+The husband stated that he had given his wife $8 or $9 a week during that time to provide food, but that she had furnished only four meals for him during the three weeks. That there was food in the house was testified to by Patrick McKague, an attorney, and Gean Duffy. On April 26, 1940, while the parties were living together, the respondent obtained a bench warrant on the ground that her husband had failed to comply with the terms of a support order which had been obtained five months previously. On May 1, he was summoned to the office of his wife’s attorney and she there stated that she would not live with him, and he was induced under threat of having the bench warrant served, to agree to pay flO a week. Patrick McKague, who was present at this meeting, corroborated the libellant that the wife said she would no longer live with him. The attorney, at whose office the parties met, did not contradict that testimony.
+The respondent denies that a bench warrant was issued or that she knew anything about it. The libellant’s testimony relating to that matter is corroborated by the records which show that a bench warrant was issued upon a petition signed by the wife. Estella Sowers testified that some time in 1941 she had a conversation with the respondent, who stated she did not want to live with her husband as “she was getting along better the way she was.” Respondent denied having any conversation with this witness and testified that she left the libellant because he had ordered her to go.
+We are of the opinion, as the master was, who saw and heard the parties, an advantage the court below did not have, that much credence cannot be placed on the respondent’s testimony. She made conflicting statements and was corroborated by other witneses in comparatively few minor matters; her statements concerning important matters were contradictory. Libellant’s testimony was corroborated by disinterested witnesses. The evidence convinces us that the wife left the matrimonial domicile without her husband’s consent. The burden was, therefore, upon her to prove that his conduct warranted her action; that it was of such a character as would authorize the dissolution of the marriage bond: Strobel v. Strobel,. 100 Pa. Superior Ct. 536; Lyons v. Lyons, 116 Pa. Superior Ct. 385, 176 A. 792; La Spina v. La Spina, 151 Pa. Superior Ct. 175, 30 A. 2d 248. She has failed to successfully sustain this burden.
+A careful review of all the testimony leads us to the conclusion that the libellant has shown a wilful and malicious desertion by the respondent for a period of over two years, and is entitled to have the marital ties severed.
+The decree of the court below refusing a divorce is reversed and a divorce is directed to be granted on the ground of desertion.
