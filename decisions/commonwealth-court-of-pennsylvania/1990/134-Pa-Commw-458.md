@@ -1,0 +1,38 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+decided: "1990-08-17"
+citations: ["134 Pa. Commw. 458", "579 A.2d 450"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before PALLADINO and McGINLEY, JJ., and BARBIERI, Senior Judge."]
+parties: ["COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Appellant, v. Roger Alan HENDRICKS, Appellee."]
+source_url: "https://static.case.law/pa-commw/134/cases/0458-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1405025
+cites_cases: ["120 Pa.Commonwealth Ct. 145", "130 Pa.Commonwealth Ct. 14", "476 A.2d 479", "82 Pa.Commonwealth Ct. 344"]
+---
+
+# Commonwealth, Department of Transportation, Bureau of Driver Licensing v. Hendricks
+
+## Majority (McGINLEY, Judge.)
+
+McGINLEY, Judge.
+The Department of Transportation, Bureau of Driver Licensing (DOT) appeals from an order of the Court of Common Pleas of Washington County (trial court) which sustained Roger Alan Hendricks’ (Licensee) appeal from a three month suspension of his operating privileges for failure to maintain financial responsibility pursuant to Section 1785 of the Vehicle Code (Code), 75 Pa.C.S. § 1785.
+The facts are not in dispute. On March 26, 1989, Officer Wayne Myers (Myers) responded to a call informing him that a motor vehicle accident had occurred and that the operator of the vehicle could be found at Washington Hospital. Upon interviewing Licensee at the hospital, Myers discovered that Licensee sustained minor abrasions on his arms and legs as a result of being thrown over the handlebars of his motorcycle following a front tire blow-out. Licensee informed Myers that he was uninsured. Licensee was treated for his abrasions and was released the same night. Thereafter, Myers notified DOT of Licensee’s failure to maintain financial responsibility. On May 30, 1989, DOT notified Licensee that his license was being suspended for three months pursuant to Section 1785 of the Code, 75 Pa.C.S. § 1785. Licensee appealed from the suspension and a hearing de novo was held on October 30, 1989. The trial court determined that because the injuries sustained by Licensee were de minimis under Section 3746(a) of the Code, the suspension as outlined in Section 1785 of the Code could not be imposed. The trial court sustained Licensee’s appeal. DOT appeals from the order of the trial court.
+DOT contends that the trial court erred as a matter of law in determining that the incident at issue was not an accident which is required to be reported to the police pursuant to Section 3746 of the Code, 75 Pa.C.S. § 3746. DOT maintains that the injuries sustained by Licensee satisfy the “injury” requirement set forth in Section 8746 thereby supporting a suspension under Section 1785. We agree.
+In a license suspension case, our scope of review is limited to a determination of whether necessary findings are supported by substantial evidence, whether errors of law have been committed or whether the decision exhibits a manifest abuse of discretion. Department of Transportation v. Williams, 120 Pa.Commonwealth Ct. 145, 547 A.2d 1301 (1988). Section 1785 of the Code provides as follows: If the department determines that the owner of a motor vehicle involved in an accident requiring notice to a police department pursuant to § 3746 (relating to immediate notice of accident to police department) did not maintain financial responsibility on the motor vehicle at the time of the accident, the department shall suspend the operating privilege of the owner, where applicable, and the department shall revoke the registration of the vehicle.
+75 Pa.C.S. § 1785.
+In order to have a valid suspension under Section 1785 for failure to maintain financial responsibility, DOT must determine that an uninsured motor vehicle was involved in an accident which resulted in either (1) injury or death, or (2) damage to the vehicle which necessitated towing pursuant to Section 3746. Department of Transportation v. Reuben, 130 Pa.Commonwealth Ct. 14, 566 A.2d 929 (1989). In Reuben, we reversed the trial court and reinstated the suspension of a licensee’s operating and registration privileges where the trial court had erroneously concluded that the occupant of the other vehicle involved in a two car accident did not satisfy the injury requirement of Section 3746 because he had received only minor neck and back pain. In Reuben, we stated:
+In its opinion, the trial court found that Mr. Bognato ‘complained at the scene of neck and back pain.’ Slip. op. at 2. The trial court interpreted the injury requirement of Section 3746, however, to require a more severe injury. This interpretation of Section 3746 was incorrect. There is nothing in Section 3746 which requires that an injury be ‘serious’ or that an individual undergo medical treatment. We believe that the pain experienced by Mr. Bognato and reported to Celia is included within the meaning of an injury for purposes of Section 3746.
+Id., 130 Pa.Commonwealth Ct. at 16, 566 A.2d at 931
+Section 3746 requires that the driver of a vehicle involved in an accident shall immediately notify the police if the accident involves injury to any person. In the present case, the uncontradicted evidence established that Licensee was operating an uninsured motor vehicle when he sustained multiple abrasions on his arms and legs following a single vehicle accident. Here, because the operator sought hospital treatment for the abrasions of his arms and legs, the “injury” requirement of Section 3746 has been satisfied and notice to a police department of the accident was required. Thus, a license suspension under Section 1785 for failure to maintain financial responsibility is warranted.
+Accordingly, we reverse the trial court and reinstate the three month suspension of Licensee’s operating privileges pursuant to Section 1785.
+ORDER
+AND NOW, this 17th day of August, 1990, the order of the Court of Common Pleas of Washington County, dated November 16, 1989, at Civil Division No. 89-2843, is reversed and the three month suspension of Roger Alan Hendricks’ operating privileges is reinstated.
+. DOT's regulations mandate a three month suspension for violations of Section 1785 of the Code pursuant to 67 Pa.Code § 219.7.
+. The trial court stated the following:
+The court finds § 1785 inapplicable to the facts as outlined, since the incident does not fall within the purview of the meaning of ‘accident’ as defined in § 3746(a). Primarily, this is because of the proximity of the appellant’s home, the nature of his injuries being very minor, the length and nature of his hospital visit, and that he returned home with the motorcycle under his own power. Therefore, the ‘injury’ sustained by appellant is di minimus [sic] under the act (75 Pa.C.S.A. § 3746(a)) and, accordingly, the suspension as outlined in 75 Pa.C.S.A. § 1785 does not apply.
+Trial Court’s Opinion, dated November 16, 1989, at 2-3.
+. Section 312 of the Crimes Code, 18 Pa.C.S. § 312 (dismissals of criminal prosecutions for de minimis infractions) does not apply to license suspensions under Section 1785 of the Vehicle Code, 75 Pa.C.S. § 1785, which are civil proceedings not governed by the provisions of the Crimes Code. See Mitchell v. Pennsylvania Liquor Control Board, 82 Pa.Commonwealth Ct. 344, 476 A.2d 479 (1984).
+. We note that it would be unwise to distinguish Reuben on the grounds that here we are dealing with a single vehicle accident, while in Reuben we were dealing with a two vehicle accident.
