@@ -1,0 +1,76 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 3046 C.D. 1985"
+decided: "1986-04-07"
+citations: ["96 Pa. Commw. 294", "507 A.2d 893"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail, and Colins, and Senior Judge Blatt, sitting as a panel of three."]
+parties: ["Avis Rent A Car System, Inc., Petitioner v. Commonwealth of Pennsylvania, Department of State, State Board of Vehicle Manufacturers, Dealers and Salespersons, Respondent."]
+source_url: "https://static.case.law/pa-commw/96/cases/0294-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1346124
+cites_cases: ["482 A.2d 1162", "488 A.2d 369", "494 Pa. 461", "503 Pa. 423", "504 Pa. 367", "85 Pa. Commonwealth Ct. 414", "87 Pa. Commonwealth Ct. 626"]
+---
+
+# Avis Rent A Car System, Inc. v. Commonwealth, Department of State, State Board of Vehicle Manufacturers, Dealers & Salespersons
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+Avis Rent A Car System, Inc. (Avis) has filed a petition for review in both our original and appellate jurisdiction seeking, inter alia, a writ of mandamus to require the State Board of Vehicle Manufacturers, Dealers and Salespersons (Board) to refrain from prohibiting current and future “off premise sales”. The Board has filed preliminary objections to the petition filed in our original jurisdiction and a motion to dismiss the action filed in our appellate jurisdiction.
+In considering preliminary objections, we must accept as true all of the factual averments of the petition. Investigation Upon Commission Motion Into The Installment Sale Purchase Program of Metro Transportation Co., 87 Pa. Commonwealth Ct. 626, 488 A.2d 369 (1985).
+Avis is a licensed vehicle dealer maintaining various established places of business in Pennsylvania. In connection with its car rental business, Avis regularly sells some of its rental fleet to the general public as used vehicles. Avis sells these vehicles both at its established places of business and at selected off-premise locations.
+Avis alleges that the Board did not require preauthorization of off-premise sales until August 26, 1985. On that date, the Board notified Avis by letter that numerous complaints had been filed with the Board alleging that Avis had conducted off-premise vehicle sales without authorization. The letter further stated that it is the Boards position that Section 23 of the Act (regulating vehicle shows and exhibitions) requires Avis to obtain Board authorization prior to holding an off-premise sale. Thereafter, Avis complied with the letter and sought Board authorization for two off-premise sales, one to be held in Feasterville and the other in Potts-town. The Board authorized the Feasterville location but denied approval for the Pottstown location, having determined that Pottstown is not within Avis’ “normal marketing area”.
+Avis then filed the instant action, arguing that (1) the Act does not apply to off-premise sales; (2) Avis has a clear right to conduct off-premise sales, with a corresponding duty in the Board to refrain from interfering in such sales; (3) assuming the Act does apply to off-premise sales, once the requirements of Section 23 of the Act are met the Board does not have discretion to disapprove the off-premise sale; and (4) the membership of the Board is biased against persons who regularly conduct off-premise sales denying Avis due process of law. Avis further contends that the Board has no jurisdiction in this matter, or, in the alternative, that the Board exceeded its jurisdiction.
+As stated, presently before the Court for adjudication are the Boards preliminary objections raising a question of jurisdiction. The Board maintains that we do not have original jurisdiction over Avis’ cause of action because we would have appellate jurisdiction over a final order of the Board. The Board avers that the feet that Avis is requesting mandamus and declaratory relief does not vest original jurisdiction in this Court.
+Our original jurisdiction is set forth in Section 761(a) of the Judicial Code, 42 Pa. C. S. §761(a):
+(a) General Rule. — The Commonwealth Court shall have original jurisdiction of all civil actions or proceedings:
+(1) Against the Commonwealth government, including any officer thereof, acting in his official capacity, except;
+(1) actions or proceedings in the nature of applications for a writ of habeas corpus or postconviction relief not ancillary to, proceedings within the appellate jurisdiction of the court;
+(ii) eminent domain proceedings;
+(iii) actions or proceedings conducted pursuant to Chapter 85 (relating to matters affecting government units);
+(iv) actions or proceedings conducted pursuant to the act of May 20, 1937 (P.L. 728, No. 193), referred to as the Board of Claims Act; and
+(v) actions or proceedings in the nature of trespass as to which the Commonwealth government formerly enjoyed sovereign or other immunity and actions or proceedings in the nature of assumpsit relating to such actions or proceedings in the nature of trespass.
+(2) By the Commonwealth government, including any officer thereof, acting in his official capacity, except eminent domain proceedings.
+(3) Arising under Article V of the act of May 17, 1921 (P.L. 789, No. 285), known as “The Insurance Department Act of 1921.”
+(4) Original jurisdiction of which is vested in the Commonwealth Court by any statute hereafter enacted.
+In Pennsylvania Department of Aging v. Lindberg, 503 Pa. 423, 429, 469 A.2d 1012, 1015-1016 (1983), our Supreme Court held that:
+[T]hose matters our legislature has placed in Commonwealth Courts appellate jurisdiction under Section 763 are excluded from its original jurisdiction under Section 761(a)(1). In short, the Commonwealth Courts original jurisdiction of actions against the Commonwealth is limited to those not within its Section 763 appellate jurisdiction over appeals from Commonwealth agencies, whether directly under Section 763 (a)(1) or (2), indirectly under Section 762 (a)(3) or (4) or otherwise within its appellate jurisdiction.
+The issue, then, is whether we have or would have appellate jurisdiction over the instant action. We believe that we would pursuant to 2 Pa. C. S. §704. Avis is seeking review of a Board determination that it cannot hold an off-premise sale. Accordingly, we will sustain the Boards preliminary objection raising the issue of original jurisdiction.
+The fact that Avis has requested relief in the nature of mandamus does not vest original jurisdiction in this Court. As our Supreme Court pointed out in Lindberg:
+The prerogative writs of mandamus and prohibition, specifically mentioned in Section 761(c), are functionally in the nature of appeals to Commonwealth Court, despite their description in 42 Pa. C. S. §761(c) as in that courts ‘original jurisdiction and that subsections location within the section governing original jurisdiction. This is consistent with our holding that Commonwealth Courts textually all inclusive original jurisdiction does not include matters within its appellate jurisdiction. Moreover, such writs, when used in aid of appellate jurisdiction and ‘ancillary’ to it are available only to appellate courts, which may grant them only in clear cases where it is largely unnecessary to take evidence on disputed factual issues in order to determine the propriety of their use.
+503 Pa. at 433, 469 A.2d at 1018.
+We are of the opinion that Avis has not presented a “clear case” requiring the issuance of a writ of mandamus. Mandamus being an extraordinary remedy, Avis must establish that it has a clear legal right, that the Board has a corresponding legal duty, and that there is no other adequate or appropriate remedy at law. Madden v. Jeffes, 85 Pa. Commonwealth Ct. 414, 482 A.2d 1162 (1984). In our view, Avis has not established a clear legal right to conduct ofF-premise vehicle sales. Under Section 4 of the Act, 63 P.S. §818.4, the Board has the duty and authority to regulate all vehicle sales; obviously, ofF-premise sales must be included under the Boards jurisdiction. Likewise, the Board is under no duty to approve Avis’ ofF-premise sale applications.
+Avis argues that this Court has original jurisdiction over the matter inasmuch as an appeal to the Board does not constitute an adequate or appropriate remedy at law. We disagree. The Board is fully capable of assessing the Act’s application to the facts at hand.
+Alternatively, Avis argues that this Court has appellate jurisdiction over a final order of the Board, and the August 26, 1985 letter constitutes an adjudication for purposes of appeal. It is the Board’s position, however, that the letter does not represent a final order from which an appeal may be taken. We must agree with the Board that we are unable to reach the merits of Avis’ claim because of the lack of a proper adjudication by the Board. Section 504 of the Administative Agency Law, 2 Pa. C. S. §504 states:
+No adjudication of a Commonwealth agency shall be valid as to any party unless he shall have been afforded reasonable notice of a hearing and an opportunity to be heard. All testimony shall be stenographically recorded and a full and complete record shall be kept of the proceedings.
+No hearing was held by the Board in the instant case. Although the Boards letter was an adjudication —because it denied Avis’ application — it was not a valid adjudication. Callahan v. Pennsylvania State Police, 494 Pa. 461, 431 A.2d 946 (1981). Since we do not have a record which would enable this Court to review the Board’s action, we will therefore remand this matter to the Board for proceedings consistent with this opinion.
+Order
+The preliminary objection of the State Board of Vehicle Manufacturers, Dealers and Salespersons as it pertains to our original jurisdiction is sustained, and this matter is remanded to that Board for proceedings consistent with this opinion.
+Jurisdiction relinquished.
+“Off-premise sale” is defined in Section 2 of the Board of Vehicles Act (Act), Act of December 22, 1983, P.L. 306, as amended, 63 P.S. §818.2 as “[a] sale for a fixed and limited period of time held in the normal marketing area of the participating dealer or dealers, which is conducted for the purpose of exhibiting and selling vehicles at a geographical location not normally used as a dealership.”
+This Court by order dated November 19, 1985 granted Avis’ application for a supersedeas permitting Avis to conduct the off-premise sale scheduled in Pottstown for November 23, 1985. A subsequent application for a supersedeas for the same purpose was denied on February 27, 1986.
+“Dealer” is defined at 63 P.S. §818.2 to include “[a] person engaged in and devoting a substantial portion of time to the business of buying, selling or exchanging used vehicles ... on commission, compensation or other consideration. . . .”
+Avis lists the following two locations: 6615 Norwitch Drive, Philadelphia and 6337 Roosevelt Boulevard, Philadelphia.
+Avis holds off-premise sales in locations better suited to the sale of large numbers of vehicles. Avis states that it has conducted off-premise sales in Philadelphia, Warminster, Fairless Hills, Thorndale, Media, Chester, Pottstown and Scranton.
+Section 23 of the Act, 63 P.S. §818.23 states:
+§818.23. Vehicle shows and exhibitions
+(a) Participation. — Any licensed dealer or manufacturer may participate in any approved public vehicle show or exhibition which has been submitted by the show promoter and has been approved by the board.
+(b) Conditions for approval. — Approval of a show or exhibition by the board shall require the show promoter to meet the following requirements:
+(1) Submit a request for a show at least 60 days in advance of the show date with: name, address and telephone number of the show promoter, name and location of the show, types of vehicles to be displayed at the show, show dates and hours of operation.
+(2) Submit a list of the maximum number of participating dealers and manufacturers and an approximate number of vehicles to be displayed. This shall not be construed to prohibit one dealer or manufacturer from promoting and participating in their own show with no other exhibitors.
+(3) Submit the name, address and license number of each participating dealer and manufacturer known to be exhibiting in the show or exhibit at least 14 days prior to the date of the show opening.
+(4) Submit a certified check or an equivalent bond, payable to the Commonwealth of Pennsylvania, equal to the number of participating dealers, at a rate per dealer or manufacturer to be determined by regulation. Said check or bond shall be forfeited to the Commonwealth, by the promoter, for noncompliance with this section.
+(5) Sign a statement that the show promoter agrees to allow the board to review the list of exhibitors and warrants the board that all Commonwealth exhibitors are properly licensed. If the board determines a dealer or manufacturer is not licensed, it shall note an exception to the list and the promoter shall exclude the dealer or manufacturer from the show.
+(6) Submit within 14 days after show completion, a final list of the actual dealers and manufacturers participating in the show. The board shall then request a second certified check equivalent to the number of out-of-state dealers and manufacturers at the rate per out-of-state dealer or manufacturer to be determined by regulation.
+(7) Upon satisfaction that all obligations of the show promoter, pursuant to the section, have been completed, the original check or bond shall be returned to the promoter.
+(c) Limitations on fees. — No other fees shall be charged licensed vehicle dealers and manufacturers for participating in vehicle shows or exhibits by the board.
+(d) Shows or exhibits on Sundays.—
+(1) Vehicle shows or exhibits shall be permitted to be open on Sundays.
+(2) Normal vehicle business practices shall be allowed on Sunday except that no final sales contract may be consummated on a Sunday. (Emphasis added.)
+Avis alleges that the Board has confused “normal marketing area” with “relevant market area.” “Relevant market area” is defined as “[t]he area within a radius of 20 miles around an existing dealer or the area of responsibility defined in the franchise, whichever is greater.” 63 P.S. §818.2. “Normal marketing area” is not defined in the Act. Avis argues that Pottstown is within Avis’ normal marketing area.
+In this proceeding, we are only called upon to determine jurisdiction, not whether Section 23 of the Act applies to Avis’ off-premise sales.
+Avis also argues that this Court must accept original jurisdiction to address Avis’ constitutional claim. We do have jurisdiction to determine whether such a constitutional claim is substantial, Young J. Lee, Inc. v. Department of Revenue, 504 Pa. 367, 374, 474 A.2d 266, 269 (1983). Avis’ constitutional claim is that the Act is void for vagueness because the phrase “off-premise sale” is defined but never used in the Act. It is apparent that Avis is not so much questioning the constitutionality of the Act as it is the Board’s interpretation of the Act.
