@@ -1,0 +1,44 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2412"
+decided: "1978-12-29"
+citations: ["262 Pa. Super. 253", "396 A.2d 741"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before JACOBS, President Judge, and HOFFMAN, CER-CONE, PRICE, VAN der VOORT, SPAETH and HESTER, JJ.", "HESTER, J., files a dissenting statement.", "HOFFMAN, J., did not participate in the consideration or decision of this case."]
+parties: ["COMMONWEALTH of Pennsylvania v. Anthony YOUNG, a/k/a Robert Jones, Appellant."]
+source_url: "https://static.case.law/pa-super/262/cases/0253-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 112512
+cites_cases: ["218 Pa.Super. 188", "238 Pa.Super. 124", "244 Pa.Super. 113", "248 Pa.Super. 552", "250 Pa.Super. 116", "252 Pa.Super. 357", "255 Pa.Super. 556", "279 A.2d 768", "352 A.2d 521", "408 U.S. 471", "429 U.S. 78"]
+---
+
+# Commonwealth v. Young
+
+## Majority (SPAETH, Judge:)
+
+SPAETH, Judge:
+Appellant contends that his probation violation hearing was not held as speedily as possible, as required by Pa.R. Crim.P., Rule 1409.
+On December 7, 1971, appellant pleaded guilty to charges of aggravated robbery, carrying a concealed deadly weapon, and conspiracy. He was sentenced to five years probation effective as of June 24, 1970. On November 7, 1974, appellant was charged with robbery, conspiracy, firearms violations, and simple assault. On July 9,1975, he was convicted, and on November 12, 1975, he was sentenced to five to twenty years on the robbery charge, one to two years for conspiracy, and three years probation on the other charges. A violation of probation hearing was scheduled for March 26, 1976, but the hearing was postponed until June 10, 1976. On that date a full hearing was held and appellant was found in violation of his 1971 probation. Probation was revoked, and appellant was sentenced to one to five years imprisonment.
+The issue before us, therefore, is the effect to be given the eleven month delay between appellant’s conviction and his probation revocation hearing. As a preliminary matter we note that appellant does not claim that this delay violated due process. See Morrissey v. Brewer, 408 U.S. 471, 92 S.Ct. 2593, 33 L.Ed.2d 484 (1972). Such a claim would fail because at the time of his probation revocation hearing appellant was already serving the sentence imposed for his July 9, 1975, convictions. In Moody v. Daggett, 429 U.S. 78, 97 S.Ct. 274, 50 L.Ed.2d 236 (1976), the Supreme Court of the United States held that there is no due process violation if the parole hearing is postponed until after the parolee has completed the sentence for the conviction that constituted the parole violation. Appellant’s claim rather is based on Rule 1409 of the Pennsylvania Rules of Criminal Procedure, which provides:
+Whenever a defendant has been placed on probation or parole, the judge shall not revoke such probation or parole as allowed by law unless there has been a hearing held as speedily as possible at which the defendant is present and represented by counsel and there has been a finding of record that the defendant violated a condition of probation or parole.
+(Emphasis added.)
+This court has stated that the period referred to in Rule 1409 “is nothing. more than a restatement of the doctrine developed by our courts that a revocation hearing must be held with reasonable promptness after probation officials know or reasonably should have known of the violation.” Commonwealth v. Waters, 252 Pa.Super. 357, 360, 381 A.2d 957, 958 (1977), quoting, Commonwealth v. Lipton, 238 Pa.Super. 124, 135-36, 352 A.2d 521, 526 (1975) (dissenting opinion by HOFFMAN, J.); see also Commonwealth v. Holmes, 248 Pa.Super. 552, 375 A.2d 379 (1977); Commonwealth v. Parker, 244 Pa.Super. 113, 366 A.2d 941 (1976). If the “violation consists of the commission of another crime during the original period of probation or parole, it is sufficient that the court which imposed the probation should act promptly after the conviction.” Commonwealth v. Waters, supra, 248 Pa.Super. at 557, 374 A.2d at 381, quoting Commonwealth v. Holmes, supra, 248 Pa.Super. at 556, 375 A.2d at 381.
+The requirement of reasonable promptness is not a prophylactic rule, violation of which is determined solely by the length of time between the conviction and the hearing. Commonwealth v. Waters, supra; Commonwealth v. Parker, supra. Instead, the question is whether the delay was reasonable under the circumstances of the specific case. See Commonwealth v. Rios, 255 Pa.Super. 556, 389 A.2d 117 (1978); Commonwealth v. Waters, supra; Commonwealth v. Holmes, supra; Commonwealth v. Parker, supra; Commonwealth v. Lipton, supra. In evaluating the reasonableness of the delay - we focus upon three factors: the length of the delay; the reasons for the delay; and the prejudice to the defendant resulting from the delay. Commonwealth v. Rios, supra; Commonwealth v. Waters, supra; Commonwealth v. Jones, 250 Pa.Super. 116, 118, 378 A.2d 481, 482-83 (1977).
+Applying this tripartite test to the facts of the present case, we are constrained to agree with appellant’s argument that the probation revocation hearing was not held with the reasonable promptness required by Rule 1409.
+With respect to the length of the delay: Considering that we have found the reasonable promptness requirement violated by a delay of five months, there is no doubt that the eleven month delay here cannot be dismissed as minimal. See Commonwealth v. White, 218 Pa.Super. 188, 279 A.2d 768 (1971) (five months).
+With respect to the reasons for the delay: The record, as the Commonwealth admits in its brief, is silent; no explanation is offered for the delay. This absence of explanation must be weighed in appellant’s favor. See Commonwealth v. Rios, supra.
+Finally, with respect to prejudice to appellant: It is clear that appellant was prejudiced by the delay, notwithstanding the fact that he was already in prison serving the sentences imposed for his 1975 convictions. Appellant’s term of probation ended in June, 1975, yet his probation violation hearing was not held until June, 1976, a year later. The fact that the hearing did not take place until after the expiration of the probationary period demonstrates that appellant was prejudiced by the delay. See Commonwealth v. Holmes, supra; Commonwealth v. White, supra. In fact the situation presented is strikingly similar to that presented in Commonwealth v. Holmes, supra, which is substantially indistinguishable from the present case. In Holmes, the delay was twenty months, the Commonwealth offered no excuse for the delay, and the hearing took place after the parole period had expired. In reversing, Judge PRICE, speaking for a unanimous Court, said:
+The fact remains that the original parole period expired prior to the date of appellant’s conviction. Our cases have indicated that a certain amount of prejudice necessarily follows from the mere fact of the expiration of the parole period. Clearly, the prejudice in the instant case was minimal. When we consider this prejudice, together with the extraordinary length of the delay and the utter lack of diligence or explanation by the county probation officials, we find that appellant was denied his right to a speedy hearing.
+Commonwealth v. Holmes, supra, 248 Pa.Super. at 560, 375 A.2d at 382.
+The order of the lower court revoking probation is reversed and the judgment of sentence is vacated.
+HESTER, J., files a dissenting statement.
+HOFFMAN, J., did not participate in the consideration or decision of this case.
+. The Commonwealth asserts in its brief that the delay was eight and one half months, not eleven months. Apparently the Commonwealth is measuring the delay from the date of conviction to the date originally set for the hearing, March 26, 1976. The pertinent consideration, however, is when the hearing is actually held, not when it is scheduled to be held. In any event, an eight and one half month delay cannot be considered minimal.
+
+## Dissent (HESTER, Judge,)
+
+HESTER, Judge,
+dissenting:
+I dissent. Appellant was convicted of robbery, conspiracy, firearms violations and simple assault for conduct during his period of probation. For this he was sentenced to six (6) to twenty (20) years. The fact that he violated his probation is admitted. The United States Supreme Court has held there is no due process violation if the parole hearing is postponed until after the parolee has completed the sentence for the conviction that constituted the parole violation. Moody v. Daggett, 429 U.S. 78, 97 S.Ct. 274, 50 L.Ed.2d 236 (1976). In view of all of the circumstances in this case, I am of the opinion that the provisions of Pa.Rule of Criminal Procedure No. 1409 have not been violated. I would affirm the action of the court below.
