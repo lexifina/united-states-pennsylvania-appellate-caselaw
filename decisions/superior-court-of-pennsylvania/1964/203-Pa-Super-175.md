@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 127"
+decided: "1964-04-14"
+citations: ["203 Pa. Super. 175"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, Wright, Woodside, Watkins, Montgomery, and Flood, JJ. (Rhodes, P. J., absent)."]
+parties: ["Biello v. Bryant et al., Appellants."]
+source_url: "https://static.case.law/pa-super/203/cases/0175-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 767933
+cites_cases: ["17 Pa. D. & C. 2d 26", "19 Pa. D. & C. 2d 258", "29 Pa. D. & C. 2d 693", "31 Pa. D. & C. 2d 138", "5 Pa. D. & C. 2d 472"]
+---
+
+# Biello v. Bryant
+
+## Majority (Weight, J.,)
+
+Opinion by
+Weight, J.,
+We are here concerned with an appeal from an order of the County Court of Philadelphia in a trespass action sustaining preliminary objections to a complaint against an additional defendant. It will be necessary to detail the factual and procedural situation.
+On May 14, 1958, at the intersection of 58th and Pine Streets in the City of Philadelphia, there was a collision between a motor vehicle owned by Herbert Owens and operated by James W. Bryant, and a motor vehicle owned and operated by Julius Biello in which Anna, Lillian, and Dolores Biello and Sophia Felice were passengers. On March 9, 1960, a trespass action was instituted by the occupants of the Biello vehicle against Bryant and Owens. On December 23, 1960, the case was placed on the jury list. On January 8, 1963, the defendants filed an answer containing new matter purporting to join Julius Biello as additional defendant. On February 28, 1963, preliminary objections were filed to the new matter on the ground that the attempted joinder was untimely under the provisions of Pa. B. C. P. No. 2253. On April 15, 1963, these preliminary objections were sustained.
+The instant appeal arises out of the following circumstance. The original complaint averred in paragraph two that the motor vehicle operated by Bryant collided with the automobile of Julius Biello. On July 9, 1963, by stipulation apparently prepared by counsel for defendants, paragraph two was amended by the insertion after the words “Julius Biello” of the words “which automobile was proceeding westwardly on Pine Street”. On September 6, 1963, the defendants filed -a complaint against Julius Biello as additional defendant. On September 26, 1963, preliminary objections were filed to this complaint and, on December 16, 1963, these preliminary objections were sustained.' This appeal followed.
+Appellants take the position that Pa. R. O. P. No. 2253 permits the joinder of an additional defendant within sixty days after any amendment of the complaint, however accomplished and regardless of its materiality. Our lower courts have generally felt obliged to adopt this literal interpretation of the rule, but not without some reluctance. In Stauffer v. Sutton, 17 Pa. D. & C. 2d 26, President Judge Henninger said: “Our sympathies are entirely with the proposition presented by additional defendant . . . Unfortunately, we are compelled to permit the joinder”. In similar vein is the comment of Judge Kelley in Carlson v. Hickey, 29 Pa. D. & C. 2d 693: “We are unfortunately compelled to permit the joinder”. We respectfully suggest that this matter might well be reconsidered by the Procedural Rules Committee.
+Howbeit, it is our view that the case at bar does not call for a literal interpretation of the rule. It presents a different procedural situation. The distinguishing feature is that a previous effort by appellants to join the additional defendant had been refused by the court order of April 15, 1963. To now permit a belated joinder by means of a stipulation amending the complaint in an inconsequential and immaterial particular would bring about a circumvention of the court’s prior order refusing the joinder. A markedly similar situation arose in Heisey v. Horne, 9 Cumberland L. J. 88, wherein President Judge Shughart aptly stated: “To hold that the filing of the amended complaint in this case opens the way for the defendants to bring in additional defendants whose joinder was refused by an order of court filed almost three years ago, would cause slavish adherence to the letter of one rule to do violence to the spirit and purpose of all of the Rules of Civil Procedure. Such a result cannot be reached”.
+In brief, we are of the opinion that this matter was properly determined by the court below. We adopt the following excerpt from the opinion of Judge Burch filed in compliance with our Rule 46: “We believe that counsel for the defendant is attempting to circumvent the order of the court refusing to permit the joinder of Julius Biello, as an additional defendant, because of inexcusable delay. The addition to paragraph 2 of the complaint of the words setting forth the direction in which the plaintiff’s vehicle was travelling does not in any way affect the substance of the plaintiff’s cause of action. There was no amended complaint filed. A stipulation merely changing the wording of a complaint does not constitute an amended complaint. It should be noted that no attempt was made by the defendants to join the additional defendant for a period of four years and eight months after the accident and two years and ten months after service of the complaint. For the foregoing reasons the preliminary objections of the additional defendant, Julius Biello, were sustained”.
+Order affirmed.
+“Neither praecipe for a writ to join an additional defendant nor a complaint if the joinder is commenced by a complaint, shall be filed by the original defendant or an additional defendant later than sixty (60) days after the service upon the original defendant of the initial pleading of the plaintiff or any amendment thereof unless such filing is allowed by the court upon cause shown”.
+Brown v. Huber, 35 Delaware County Reports 485; Beatty v. Wilkinsburg, 104 Pittsburgh L. J. 163; Konopka v. Pittsburgh Coke & Chemical Co., 5 Pa. D. & C. 2d 472; Stauffer v. Sutton, 17 Pa. D. & C. 2d 26; Haverstein v. Robinson, 19 Pa. D. & C. 2d 258; Koppel v. Engel, 52 Luzerne L. R. 130; Carlson v. Hickey, 29 Pa. D. & C. 2d 693; Agatone v. D’Antonio, 31 Pa. D. & C. 2d 138.
