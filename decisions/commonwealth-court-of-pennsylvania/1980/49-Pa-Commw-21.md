@@ -1,0 +1,41 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2674 C.D. 1978"
+decided: "1980-01-23"
+citations: ["49 Pa. Commw. 21"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogers, DiSalle and Craig, sitting as a panel of three.", "This decision was reached prior to the expiration of the term of office of Judge DiSalle."]
+parties: ["Jean Eichman, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/49/cases/0021-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1906424
+cites_cases: ["11 Pa. Commonwealth Ct. 587", "16 Pa. Commonwealth Ct. 155", "17 Pa. Commonwealth Ct. 39", "18 Pa. Commonwealth Ct. 286", "27 Pa. Commonwealth Ct. 522", "29 Pa. Commonwealth Ct. 154", "296 A.2d 288", "305 A.2d 782", "31 Pa. Commonwealth Ct. 13", "314 A.2d 893", "32 Pa. Commonwealth Ct. 256", "329 A.2d 523", "33 Pa. Commonwealth Ct. 588", "330 A.2d 544", "335 A.2d 843", "35 Pa. Commonwealth Ct. 647", "367 A.2d 366", "370 A.2d 382", "374 A.2d 1017", "378 A.2d 1040", "382 A.2d 505", "387 A.2d 510", "6 Pa. Commonwealth Ct. 489", "9 Pa. Commonwealth Ct. 188"]
+---
+
+# Eichman v. Commonwealth, Unemployment Compensation Board of Review
+
+## Majority (Judge Craig,)
+
+Opinion by
+Judge Craig,
+Claimant Jean Eichman appeals from a decision of the Unemployment Compensation Board of Review denying benefits to her under Section 402(a) of the Unemployment Compensation Law, (Law) Act of December 5,1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §802(a), for having refused suitable work.
+Claimant had worked as an assembler for the Nicholson File Company for 3Y2 years before her valid separation on April 15, 1977, when Nicholson ceased operation. Her average gross pay had been approximately $246.00 per week. Upon application,, she received a total of $127.00 per week in unemployment compensation and dependent’s allowance.
+On April 25, 1978, claimant was referred to the Web Silver Company to investigate a position as a polisher at the rate of $2.75 per hour, or $110.00 gross per 40-hour week. After an interview with the prospective employer, she declined the offer because she calculated that union dues, taxes and other deductions would leave a net pay of only $60-$70 per week.
+Section 402(a) of the Law, 43 P.S. §802(a), makes compensation unavailable to an employee when his unemployment is due “to failure, without good cause . . . to accept suitable work when offered to him.” Suitable work is defined in Section 4(t) of the Act, 43 P.S. §753(t), as being:
+[A] 11 work which the employe is capable of performing. In determining whether or not any work is suitable for an individual, the department shall consider . . . his physical fitness, prior training and experience, and the distance of the available work from his residence. The department shall also consider among other factors, the length of time he has been unemployed and the reasons therefor, the prospect of obtaining local work in his customary occupation, his previous earnings, the prevailing condition of the labor market . . . [and] prevailing wage rates in his usual trade or occupation. ... '
+Here, the precise issue is: May a claimant, after being unemployed for a year, receive unemployment compensation benefits if a job offer is rejected as unsuitable solely because it pays less than the claimant's unemployment benefit rate ?
+We must answer in the negative. The wage offered to claimant here after a year of unemployment amounted to a 55% reduction in gross weekly wages below what she had previously earned; in Unemployment Compensation Board of Review v. Kozinsky, 18 Pa. Commonwealth Ct. 286, 335 A.2d 843 (1975), we found work to be suitable, after only 10 months of unemployment, even though, there would be a 63% decrease in wages.
+Even substantial disparity between a claimant’s previous wages and the remuneration of the-proffered position does not of itself render work unsuitable. The suitability definition does not require, parity of past and prospective earnings, but only that previous earnings be considered as one of many factors; further, the significance of a given differential diminishes as the period of unemployment lengthens. Donnelly v. Unemployment Compensation Board of Review, 17 Pa. Commonwealth Ct. 39, 330 A.2d 544 (1975).
+Although this court has recognized a possible inequity in compelling a claimant to accept wages lower than the benefit rate for which he is otherwise eligible, see Edwards v. Unemployment Compensation Board of Review, 35 Pa. Commonwealth Ct. 647, 387 A.2d 510 (1978), that recognition was in the context of a voluntary quit under Section 402(b) of the Law, 43 P.S. §802 (b). In that situation, we found that an employee, by showing a substantial and abrupt diminution in pay, could establish necessitous and compelling cause to quit. With unemployment compensation allowable in that circumstance, the claimant had a reasonable period in which to seek work commensurate with his capacity. Here, where claimant has been unemployed for more than a full year, she has been afforded that opportunity, and Edwards is distinguishable from this job-rejection case.
+Claimant additionally argues that the finding that the offered wage was the prevailing wage for similar work in the locality is unsupported in the record.
+In unemployment cases, the claimant has the burden of proving his entitlement to benefits. James v. Unemployment Compensation Board of Review, 6 Pa. Commonwealth Ct. 489, 296 A.2d 288 (1972). In the face of evidence that a claimant has rejected a referred job offer, tbe burden of establishing unsuitability so as to avoid disqualification under Section 402(a) remains on the claimant. Hammerstone v. Unemployment Compensation Board of Review, 32 Pa. Commonwealth Ct. 256, 259, 378 A.2d 1040, 1042 (1977); Veneski v. Unemployment Compensation Board of Review, 29 Pa. Commonwealth Ct. 154, at 156, 370 A.2d 382, 384 (1977); Kanouse v. Unemployment Compensation Board of Review, 9 Pa. Commonwealth Ct. 188, 192, 305 A.2d 782, 784 (1973). The unemployment authorities therefore did not have the burden of presenting specific evidence that the offer was that prevailing for similar work. Claimant must bear the onus of having failed to bring forward evidence that the offer was “substantially less favorable” than the prevailing conditions for similar work.
+Where the decision below was against the party having the burden, our scope is limited to determining the consistency of the findings and conclusions, and whether they can be sustained without a capricious disregard of competent evidence. Barni v. Unemployment Compensation Board of Review, 33 Pa. Commonwealth Ct. 588, 382 A.2d 505 (1978). We cannot upon this record hold that the challenged finding evinces snch disregard.
+Accordingly, we affirm.
+Order
+And Now, this 23rd day of January, 1980, the October 20,1978 order of the Unemployed Compensation Board of Review is affirmed.
+This decision was reached prior to the expiration of the term of office of Judge DiSalle.
+This is consistent with the established burden of applicants who would claim necessitous and compelling cause for a voluntary quit under Section 402(b)(1), 43 P.S. §802(b)(l), which section expressly directs that in assessing such cause, consideration be given to the same factors enumerated with respect to a determination of suitable work under Section 4(t), 43 P.S. §753(t). See Correa v. Unemployment Compensation Board of Review, 31 Pa. Commonwealth Ct. 13, 374 A.2d 1017 (1977) ; Walker v. Unemployment Compensation Board of Review, 27 Pa. Commonwealth Ct. 522, 367 A.2d 366 (1976).
+43 P.S. §753 (t).
+Capricious disregard is a willful and deliberate disregard of competent testimony and relevant evidence which one of ordinary intelligence could not possibly have avoided in reaching .the result. Walsh v. Unemployment Compensation Board of Review, 16 Pa. Commonwealth Ct. 155, 329 A.2d 523 (1974); Aluminum Co. of America v Theis, 11 Pa. Commonwealth Ct. 587, 314 A.2d 893 (1974).
