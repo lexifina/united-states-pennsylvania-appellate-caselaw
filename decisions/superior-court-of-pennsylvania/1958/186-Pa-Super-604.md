@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 49"
+decided: "1958-06-11"
+citations: ["186 Pa. Super. 604"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Gunther, Wright, Woodside, Ervin, and Watkins, JJ."]
+parties: ["Oliver, Appellant, v. Westinghouse Electric Corporation."]
+source_url: "https://static.case.law/pa-super/186/cases/0604-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 740595
+cites_cases: ["100 A. 2d 140", "124 A. 2d 623", "135 A. 2d 760", "138 A. 2d 251", "142 A. 2d 484", "170 Pa. Superior Ct. 608", "174 Pa. Superior Ct. 152", "181 Pa. Superior Ct. 542", "184 Pa. Superior Ct. 420", "185 Pa. Superior Ct. 540", "186 Pa. Superior Ct. 326", "88 A. 2d 801"]
+---
+
+# Oliver v. Westinghouse Electric Corp.
+
+## Majority (Wright, J.,)
+
+Opinion by
+Wright, J.,
+Norman Oliver, claimant in this workmen’s compensation case, was injured on June 18, 1955, in the course of his employment with Westinghouse Electric Corporation, when a steel chip penetrated his right eye. The Referee found as a fact that claimant had lost the use of his right eye for all practical intents and purposes, and made an award for the loss of the eye under Section 306(c) of the Workmen’s Compensation Law. Upon the employer’s appeal to the Board, the findings of fact, conclusions of law and award of the Referee were affirmed. An appeal was then taken by the employer to the Court of Common Pleas of Mercer County, which tribunal reversed the Board and directed the entry of judgment in favor of the employer. Claimant has appealed.
+It is well settled that (1) the Workmen's Compensation Law is a remedial statute and is to receive a liberal construction; (2) findings of fact by the compensation authorities, if supported by the evidence, are binding upon the courts; and (3) on appeal from an award the evidence must be viewed in the light most favorable to the claimant: Spry v. Polt, 186 Pa. Superior Ct. 326, 142 A. 2d 484. Judicial review in the instant case must be confined to ascertaining whether the findings of fact of the compensation authorities are supported by the evidence: Spina v. Gahagan Construction Corp., 184 Pa. Superior Ct. 420, 135 A. 2d 760.
+Section 306 (c) of the statute provides, inter alia, that “permanent loss of the use” of an eye “shall be considered as the equivalent of the loss” of such eye. By settled judicial construction this language means that the permanent loss of use of the eye "for all practical intents and purposes" amounts to the loss of the eye: Stachowski v. Incorporated Real Estate Investors, 174 Pa. Superior Ct. 152, 100 A. 2d 140. And see Curran v. Knipe & Sons, 185 Pa. Superior Ct. 540, 138 A. 2d 251. In our most recent eye case, McClemens v. Penn Auto Parts, 181 Pa. Superior Ct. 542, 124 A. 2d 623, we reviewed the earlier authorities and stated the correct test to be whether the use of the injured eye, without correcting lens, contributes "materially" to claimant's vision in conjunction with the use of the normal eye.
+In the case at bar, the only witnesses were the claimant and Dr. Ransford J. Riddle, a specialist in ophthalmology, to whom claimant had been referred by the company doctor. The employer called no witnesses. Claimant testified that “everything is hazy ... I have no sense of balance or depth and, with the good eye closed, I cannot distinguish objects”.
+Dr. Riddle testified as follows: The steel chip had penetrated the cornea and had become “imbedded” in the lens. Immediate surgery was performed which consisted “of making a small incision into the eye, placing a magnet in position and recovering this piece of steel”, and also washing out an eye lash “carried through on this piece of steel and in the anterior chamber of the eye; it was right on the iris, in other words”. Subsequently a cataract formed and was removed. Claimant does not have “practical use of this eye—for all practical intents and purposes”. Without a correcting lens, claimant has only 2/400 or “minimal” vision. Even with a correcting lens, claimant would be unable to work using only the injured eye. “Without a lens he has lost the industrial vision in his injured eye, yes, and that’s what we are speaking cf. perhaps we should qualify that and say useful vision, industrial vision, or work vision”.
+Appellee emphasizes portions of Dr. Riddle’s testimony to the effect that the injured eye, without correcting lens, “contributes to his side vision in warning him of anything coming in from the side”, that “it helps his uninjured eye to have the feeling of vision”, and that claimant would be “worse off” with the injured eye removed. The learned President Judge below took the position that these portions of the testimony required a reversal of the Board under the decision in Diaz v. Jones and Laughlin Steel Corp., 170 Pa. Superior Ct. 608, 88 A. 2d 801. We are not in accord with this conclusion.
+Our review of the record clearly indicates that the testimony, considered in its entirety, supports the finding of the compensation authorities that the use of the injured right eye, without correcting lens, does not contribute materially to claimant’s vision in conjunction with the use of the normal eye. From a minimal standpoint, claimant’s vision may be better with the injured eye in place, but it is not “materially” better. In the words of the Board: “The preponderance of the evidence in this case is clear that the use of the injured right eye does not contribute materially to claimant’s vision in conjunction with the use of his normal left eye . . . The weight of the evidence is contrary to the defendant’s assertion that the claimant can see better, in general, with the injured eye in connection with the good eye than by using the good eye alone. From a careful analysis of the testimony, this Board is of the opinion that the claimant has lost such vision in his right eye and receives so little aid from the eye that he has suffered a permanent loss of same for all practical intents and purposes”.
+The judgment of the court below is vacated, and the record is remanded for the entry of judgment based upon the award of compensation made by the Board.
+Act of 1915, P. L. 736, Section 306(c), 77 P.S. 513.
