@@ -1,0 +1,50 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1469 C.D. 1985"
+decided: "1987-04-22"
+citations: ["105 Pa. Commw. 377", "524 A.2d 1033"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Colins and Palladino, and Senior Judge Kalish, sitting as a panel of three."]
+parties: ["Patricia Davis, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/105/cases/0377-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1358361
+cites_cases: ["158 Pa. Superior Ct. 548", "234 A.2d 846", "356 Pa. 69", "427 Pa. 429", "438 A.2d 1058", "449 A.2d 110", "45 A.2d 898", "474 Pa. 351", "497 A.2d 680", "499 Pa. 367", "51 A.2d 684", "512 Pa. Commonwealth Ct. 377", "517 A.2d 523", "64 Pa. Commonwealth Ct. 44", "68 Pa. Commonwealth Ct. 366", "91 Pa. Commonwealth Ct. 428"]
+---
+
+# Davis v. Commonwealth
+
+## Majority (Judge Palladino,)
+
+Opinion by
+Judge Palladino,
+Patricia Davis (Petitioner) appeals from an order of the Unemployment Compensation Board of Review (Board) which affirmed a referee’s decision denying benefits to Petitioner for a voluntary quit without cause of a necessary and compelling nature.
+Petitioner was employed by Pennsylvania Manufacturers’ Association Insurance Co. (Employer) as a customer representative. She terminated her employment on September 28, 1984 alleging harassment and retaliation for a discrimination lawsuit she had filed in December of 1982 against the Employer.
+The referee made a finding that Petitioner had received three probations preceding her termination, the first probation for six months for unacceptable attendance, the second for 60 days for unsatisfactory production, and the third for six months for unacceptable attendance. She quit five days after the imposition of the last probation.
+Our scope of review for appeals from Board orders is limited to a determination of whether constitutional rights were violated, errors of law were committed, or whether the findings of fact are supported by substantial evidence. Section 704 of the Administrative Agency Law, 2 Pa. C. S. §704; Estate of McGovern v. State Employees' Retirement Board, 512 Pa. Commonwealth Ct. 377, 517 A.2d 523 (1986).
+In a voluntary quit case, the claimant has the burden of proving that the termination was based on a necessitous and compelling reason in order to receive unemployment compensation benefits. Steffy v. Unemployment Compensation Board of Review, 499 Pa. 367, 453 A.2d 591 (1982). A claimant who willingly resigns from her position must demonstrate that she had no real choice but to leave her employment. Stiffler v. Unemployment Compensation Board of Review, 64 Pa. Commonwealth Ct. 44, 438 A.2d 1058 (1982).
+In the case at bar, the referee found, and Petitioner does not dispute, that the Employer imposed three probationary periods during the final year of her employment. Petitioner alleges that this amounted to retaliatory harassment in response to a discrimination suit that she had filed against the Employer two years earlier.
+While we agree with Petitioners contention that unjustified retaliatory harassment may constitute reason of a necessitous and compelling nature, it is also well established that neither a disagreement with an employers policies, nor dissatisfaction with working conditions centering around differences with the employer, is a compelling cause for the voluntary cessation of employment. Sofis v. Unemployment Compensation Board of Review, 68 Pa. Commonwealth Ct. 366, 449 A.2d 110 (1982).
+The referee found that the first and third periods of probation were assessed for Petitioners unacceptable attendance and that the second probation was imposed for unsatisfactory production. At the hearing, the Employer testified that Petitioner had been late 18 times during a 12 month period before December of 1983 and that as a result, she received a six month probation with strict attendance requirements. The Employer also testified that on July 9, 1984, Petitioners immediate supervisor conducted an evaluation and determined that she was not meeting established Employer standards in relation to her production. The Performance Evaluation, issued on June 25, 1984, stated that Petitioner had been producing almost 33% less than the required standard for written file production, and that Petitioners coworkers were producing above that standard. As a result, she was placed on 60-day probation subject to Employer performance standards and required to attend a course of instruction in writing fundamentals. Finally, the referee accepted Employers testimony that Petitioner in 1984 was late on July 20, August 22 and September 7 and that, consequently, she was placed on a second six-month probation for unacceptable attendance. Credibility determinations are for the fact-finder and not for the reviewing court. Lozaro v. Unemployment Compensation Board of Review, 91 Pa. Commonwealth Ct. 428, 497 A.2d 680 (1985).
+An examination of the record reveals that there is substantial evidence to support the referees findings that Petitioners probationary periods were imposed for unacceptable levels of attendance and performance and were not retaliatory.
+Accordingly, the order of the Board is affirmed.
+Order
+And Now, April 22, 1987, the order of the Unemployment Compensation Board of Review in the above-captioned matter is affirmed.
+This case was reassigned to the author on February 24, 1987.
+Section 402(b) of the Unemployment Compensation Law, Act of December 5, 1936, Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §802(b) denies unemployment compensation benefits to an individual if his unemployment is due to voluntarily leaving work without cause of a necessitous and compelling nature.
+
+## Dissent (Senior Judge Kalish:)
+
+Dissenting Opinion by
+Senior Judge Kalish:
+I respectfully dissent.
+While findings of fact supported by competent evidence are conclusive on appeal, Taylor v. Unemployment Compensation Board of Review, 474 Pa. 351, 378 A.2d 829 (1977), such rule does not apply in favor of deductions or inferences made from such facts. These are always reviewable on appeal. Brooks v. Conston, 356 Pa. 69, 51 A.2d 684 (1947). Conclusions are no more than the Boards reasoning from the facts. The appellate court can competently draw appropriate inferences and conclusions from the evidence, regardless of the action of the trial judge or Board. Kemp v. Majestic Amusement Co., 427 Pa. 429, 234 A.2d 846 (1967). The appellate courts duty is to examine the testimony in the light most favorable to. the party in whose favor the Board has found, giving that party the benefit of all inferences that can logically and reasonably be drawn from the testimony to see if substantial evidence exists for the Boards conclusions. Taylor.
+In a voluntary quit case, the claimant has the burden of proving that the termination was based on a necessitous and compelling reason, in order to receive unemployment compensation benefits. Steffy v. Unemployment Compensation Board of Review, 499 Pa. 367, 453 A.2d 591 (1982). A finding of a necessitous and compelling reason is based on real objective circumstances. Substantial reasons and adequate excuses that will bear the test of reason and are done in good faith, and for such a cause as would motivate a qualified worker to give up his job, will support such a finding. Bliley Electric Co. v. Unemployment Compensation Board of Review, 158 Pa. Superior Ct. 548, 45 A.2d 898 (1946).
+Retaliation because an employee has filed a discrimination charge is unlawful under the Civil Rights Act of 1964, 42 U.S.C. §2000e-3(a) (1964). Furthermore, discrimination constitutes a necessitous and compelling reason for leaving work, when the circumstances are such as would be intolerable and would motivate a qualified employee to quit his or her job, considering also the outward pressures. Taylor.
+Based on the record, the conclusions made by the Board are neither reasonable nor logical inferences. What the “other alternatives” were that petitioner could have considered were not mentioned by the Board nor explained. For two years prior to the filing of her discrimination complaint against the employer, petitioner was not placed on probation. Thereafter, with rapidity, she was placed on probation three consecutive times for unacceptable lateness and unacceptable production under conditions which subjected her to controls different from employees of the same level. These changes were supported by records of the employer which were fuzzy at best and certainly not of a substantial nature. The record of absences or latenesses was proven primarily by the supervisors testimony, which was based to a great extent on hearsay. There were no punch clocks or sign-in sheets admitted into evidence. Petitioner testified that she was told that she had “stepped on a couple of guys big toes. . . .” Certified Record at 13. She felt that she was compelled to resign because of the complaints that she had filed.
+The determining factor is not whether the conduct of the employer was of a personal nature directed toward petitioner. Rather, the issue is whether that conduct, in light of all the surrounding circumstances, would motivate the average employee to quit his or her position. Timing of the disciplinary action certainly is a circumstance to be considered.
+[I]f a worker leaves his employment when he is compelled to do so by necessitous circumstances or because of legal or family obligations, his leaving is voluntary with good cause, and under the act he is entitled to benefits. . . . [Such] circumstances . . . transform whatds ostensibly voluntary unemployment into involuntary unemployment.
+Taylor, 474 Pa. at 359, 378 A.2d at 833.
+Applying the above principles to the testimony in this case, I am convinced that petitioner has met her burden of proof.
