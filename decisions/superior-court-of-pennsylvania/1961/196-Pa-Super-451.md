@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 252"
+decided: "1961-11-16"
+citations: ["196 Pa. Super. 451"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, Wright, Woodside, Watkins, Montgomery, and Flood, JJ. (Rhodes, P. J., absent).", "Before Kallick, J., without a jury."]
+parties: ["Heisman, Appellant, v. Seiss."]
+source_url: "https://static.case.law/pa-super/196/cases/0451-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 754803
+---
+
+# Heisman v. Seiss
+
+## Majority (Flood, J.,)
+
+Opinion by
+Flood, J.,
+This is an appeal from the dismissal of plaintiff’s motions for a new trial or judgment n.o.v. following an action in assumpsit for breach of a contract under which defendant granted the plaintiff an exclusive right to place a cigarette vending machine upon defendant’s premises for a five year period.
+The only question raised by the appellant as shown by his statement of the question involved is whether upon breach of the contract by the appellee, the appellant was entitled to damages for the unexpired term as set forth in the contract.
+However, we do not reach that question, in our view of the case, since we agree with the court below that there was no breach of the contract by the defendant for the reasons set forth by Judge Kallick in his opinion as follows:
+“The plaintiff, engaged in the vending machine business, placed a cigarette vending machine in the defendant’s place of business at 728 Chestnut Street, Philadelphia, under a written contract dated. May 11, 1956. By the terms of the said contract, ‘the defendant granted to the plaintiff the exclusive right to sell cigarettes from his premises for a period of five years from a cigarette vending machine. The defendant was to receive as a consideration a certain percentage, two cents per pack, for every package sold from his premises.’
+“The machine was installed and remained on the defendant’s premises until October 12, 1957. About a week prior to the latter date, the defendant sold his business and notified the plaintiff of this fact, at the same time suggesting to the plaintiff either to make a new deal with the purchaser of the defendant’s business or, failing in that, to get his machine off the premises. The plaintiff had to remove his machine. The suit is for the estimated profit calculated on the basis of $4.80 per week for tlie unexpired term of the contract of 182 weeks, or $873.60.
+“It is apparently conceded by both sides that Paragraph 7 of the said contract is the crux of this case. The paragraph reads: ‘If the business of the location owner shall be suspended for a period of thirty days, or if the location owner vacates the premises herein-before mentioned to a change of location from one building to another, then the operator may terminate this agreement and remove the equipment, from the premises. If the location owner resumes such business prior to the expiration date of this agreement, the operator may again install the equipment in the premises, and upon such installation this agreement shall then be effective until the termination date.’
+“The plaintiff explains the question at issue to be as follows: ‘When he (defendant) sold this business did this automatically terminate this contract by reason of Paragraph 7, or was there a breach of contract on the part of the defendant for not prevailing, for instance, on the other party to take over this contract or make some restitution to the plaintiff for failing to live up to his contract, to wit, keeping the machine on the premises for a period of five years.
+“The defendant argues that the said contract was suspended when he sold his business; that only when he resumed another such business would he be obliged to install the plaintiff’s cigarette vending machine in accordance with the terms and provisions of the said contract; and, that he has not to date resumed any such business whereby he could install and pursue the use of the plaintiff’s vending machine.
+“We are in accord with the position taken by the defendant. The term of the contract was five years, but the lease under which the defendant had occupancy of the premises, was for a period of but three years. Was it in the contemplation of the contracting parties that notwithstanding the possible inability of the defendant to extend the term of the lease beyond the stipulated three years, the defendant would, nevertheless be responsible for the balance of two years under the five year contract? What was in contemplation in the event the defendant’s business failed or terminated, burned down or, as the case here, sold to a third party unwilling to assume the obligations of the contract between the plaintiff and the defendant?
+“Interpreting paragraph 7, as well as the entire contract, and viewing the practical business situation as we must to accord with our common sense, we cannot escape the conclusion that the parties had in contemplation the running of this agreement only (1) as long as the defendant maintained the business in the same premises, or (2) if he transferred his business to another location, in which event the plaintiff had the option to terminate or continue the contract, or (3) if the defendant’s business were suspended or terminated and later on resumed by him, in which case, the plaintiff at his option could enforce the contract for the balance of the term of said contract.
+“We cannot conceive that the defendant had the intention to make the sale of.the business, should the exigency arise as it did here, dependent upon the prospective buyer’s assumption of the contract with the plaintiff concerning the cigarette vending machine. It would be the case of the tail wagging the dog. We believe that the contract was predicated upon the defendant’s continuing to operate his business for the term period of the contract at this or at any other location. There is no testimony that the defendant now operates a business at any location. Should this be the case, the plaintiff could then enforce the terms and conditions of the aforesaid contract. There is no provision in the contract which requires the defendant to stay and do business under any and all circumstances. The continuance and the defendant’s performance of the conditions of the contract must be predicated upon the defendant’s being in and operating a business. He is not now in business and until he is, the plaintiff cannot enforce the contract against the defendant.”
+Appellant’s brief concerns itself exclusively with the question of damages. Since we agree with the court below that there was no breach, the question of the measure of damages is not before us, and we do not pass upon the points raised by the appellant with regard to it.
+Judgment affirmed.
