@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 614"
+decided: "1974-09-23"
+citations: ["230 Pa. Super. 463"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Watkins, P. J., Jacobs, Hoffman, Cercone, Pbice, Yan der Voort, and Spaeth, JJ."]
+parties: ["Commonwealth v. Fontana, Appellant."]
+source_url: "https://static.case.law/pa-super/230/cases/0463-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 814711
+cites_cases: ["236 A. 2d 802", "284 A. 2d 504", "288 A. 2d 805", "292 A. 2d 345", "309 A. 2d 408", "428 Pa. 279", "445 Pa. 616", "447 Pa. 141", "448 Pa. 224", "453 Pa. 467"]
+---
+
+# Commonwealth v. Fontana
+
+## Majority (Hoffman, J.,)
+
+Opinion by
+Hoffman, J.,
+Appellant contends that the evidence presented at trial was insufficient to sustain his conviction for burglary.
+On August 15, 1972, appellant was arrested and charged with burglary of Franklin Stackhouse’s home located in a rural area in Berks County. The Stack-house residence is situated on a wooded tract and is set back one hundred feet from the road. There is a cinder block wall approximately twelve feet from the rear of the house. The home is equipped with a burglar alarm system which is set to sound for approximately one minute upon an intrusion into the center hallway of the home. Mr. Stackhouse was away on vacation from July 26, 1972, until August 19,1972. Before he left, he locked all the doors and windows and notified the local and state police that the house would be vacant. Edgar Muth, the Chief of Police of Pike Township, had checked the dwelling on the morning of August 15 and found it to be in order.
+At approximately 5:00 p.m. on August 15, 1972, Charles Eckert, III, Stackhouse’s next-door neighbor, was driving home from work. Eckert was a part-time patrolman as well as a bank employee. He testified that he heard the burglar alarm and noticed a man running along the contour of the rear wall. He further stated that the man reversed direction, glanced back, and ran off into the woods. Eckert testified that he observed the individual’s height and clothing and was able to see his face. At this time, the witness’s father, Charles Eckert, Jr., was coming out of his home. The two went to the rear of the Stackhouse residence and observed that a window on the kitchen door had been broken. They then returned to their residence and waited for the police. When Chief Muth arrived, he and Charles Eckert, Jr., inspected the Stackhouse dwelling. Chief Muth testified that dresser drawers were open and several items were lying on the sofa. Charles Eckert, III, proceeded to search for the alleged burglar. Approximately fifteen minutes later, appellant was discovered in a wooded area of the Eckert tract.
+It is axiomatic that the Commonwealth must prove every essential element of a crime beyond a reasonable doubt, Commonwealth v. Radford, 428 Pa. 279, 236 A. 2d 802 (1968), and that conviction must be based on more than mere suspicion or conjecture. Commonwealth v. Bailey, 448 Pa. 224, 292 A. 2d 345 (1972). It is equally true, however, that the Commonwealth may sustain its burden by means of wholly circumstantial evidence. Commonwealth v. Sullivan, 445 Pa. 616, 284 A. 2d 504 (1971).
+Since appellant was charged with burglary it was incumbent upon the Commonwealth to prove beyond a reasonable doubt that he had entered the Stackhouse residence with the intent to commit a felony therein. The record reveals no direct evidence actually placing appellant inside the dwelling, but it was permissible for the trier of fact to draw that inference based on the evidence presented by the Commonwealth: A part-time patrolman heard his neighbor’s burglar alarm and spotted an individual attempting to flee from the vicinity; within fifteen or twenty minutes, the appellant was apprehended in close proximity to the scene and was positively identified by an eyewitness.
+Two decisions of our Supreme Court are illustrative of the extent of permissible conclusions which a judge or jury may reasonably draw. In Commonwealth v. Stanley, 453 Pa. 467, 309 A. 2d 408 (1973), a police officer observed appellant emerge from a doorway and proceed to a construction site where he bent over and placed something in a sand pile. The officer arrested the appellant, returned to the store and noticed that the screen covering the window had been pried open. The officer then went back to the sand pile and uncovered a screwdriver. The Supreme Court held the evidence insufficient to sustain appellant’s conviction for attempted burglary. The Court in Stanley distinguished the decision in Commonwealth v. Cimaszewski, 447 Pa. 141, 288 A. 2d 805 (1972), where the evidence was held sufficient to convict for attempted burglary. In Gimaszewski, two officers responded to a report of a “burglary in progress.” They heard noises coming from within the building and noticed that the front door had been loosened and a window jimmied. Two men were seen fleeing from the rear of the building. One was apprehended immediately and identified as the appellant’s brother. The appellant was arrested soon after on the roof of a nearby shed. Thus, in Gimaszewski, there was evidence of both presence at the scene and a burglary in progress. In the present case, an eyewitness observed an individual fleeing from the scene, whom he later identified as the appellant, at the same moment that he heard the burglar alarm. Unlike Stanley, therefore, there is a direct link between appellant and the commission of the crime. Thus, under the circumstances of this case, it was permissible for the jury to infer that appellant had actually entered the building and had triggered the alarm.
+Judgment of sentence affirmed.
+1<; is not clear from tlie record exactly wlio had contacted ¡he police.
+The act in question occurred prior to June 6, 1973 and is thus governed by the Act of 1939, June 24, P. L. 872, §901, Appendix Former Title 18 P.S. §4901 which provides in relevant part: “Whoever, at any time, wilfully and maliciously, enters any building, with intent to commit any felony therein, is guilty of burglary, a felony . . . .”
