@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1496"
+decided: "1982-02-19"
+citations: ["295 Pa. Super. 419", "441 A.2d 1302"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before HESTER, POPOVICH and DiSALLE, JJ.", "DiSALLE, J., did not participate in the consideration or review of this case."]
+parties: ["Carl A. VENO and Carl T. Davies, Appellants, v. Charles M. MEREDITH, III, Ella C. Meredith and the Free Press."]
+source_url: "https://static.case.law/pa-super/295/cases/0419-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 180063
+cites_cases: ["244 Pa.Super. 467", "246 A.2d 353", "269 A.2d 645", "285 Pa.Super. 241", "291 Pa.Super. 528", "293 Pa.Super. 300", "337 U.S. 541", "431 Pa. 459", "440 Pa. 492", "465 Pa. 225", "472 Pa. 331", "483 Pa. 68", "93 L.Ed. 1528"]
+---
+
+# Veno v. Meredith
+
+## Majority (POPOVICH, Judge:)
+
+POPOVICH, Judge:
+Appellants appeal from an order sustaining appellees’ preliminary objections in the nature of a demurrer to the third causes of action in a two count Complaint in Assumpsit and Trespass. The first two causes of action were in assumpsit and alleged that the appellees illegally terminated the contract of employment entered into with the appellants. The third causes of action were in trespass and claimed that appellees, in printing a retraction in their newspaper regarding an article about a public figure—the writing of which was attributed to the appellants, intentionally ran false, malicious and defamatory libels concerning the appellants. We quash.
+Although neither party has specifically questioned the jurisdiction of this Court to resolve the present controversy, it is axiomatic that neither silence nor agreement of the parties will confer jurisdiction where it otherwise would not exist. T.C.R. Realty, Inc. v. Cox, 472 Pa. 331, 372 A.2d 721 (1977). The mere assertion of the appellants in their brief that jurisdiction is conferred on the Superior Court over this matter by reason of the Act of July 9, 1976, P.L. 586, No. 142, § 2; 42 Pa.C.S.A. § 701 et seq. (Pamphlet, 1980) is not dispositive of the question. Accordingly, we reach the appealability of the trial court’s order sua sponte. Turner v. May Corp., 285 Pa.Super. 241, 427 A.2d 203 (1981); MacKanick v. Rubin, 244 Pa.Super. 467, 368 A.2d 815 (1976).
+The appellate court’s jurisdiction is defined by statute, i.e., 42 Pa.C.S.A. § 742 (Purdon’s 1981), which grants this Court “exclusive appellate jurisdiction of all appeals from final orders of the courts of common pleas . . . . ” (Emphasis added) In deciding what constitutes a “final order,” the courts of this Commonwealth have adhered to the approach of Cohen v. Beneficial Industrial Loan Corp., 337 U.S. 541, 69 S.Ct. 1221, 93 L.Ed. 1528 (1949), in that we look to “a practical rather than technical construction” of an order. In Pugar v. Greco, 483 Pa. 68, 394 A.2d 542 (1978), our own Supreme Court set forth those factors which need to be considered, in light of Cohen's pronouncement, in deciding the finality question; viz.:
+“In Cohen, the Supreme Court of the United States carved out an exception to the final judgment rule for situations where postponement of appeal until after final judgment might result in irreparable loss of the right asserted. Under Cohen, an order is considered final and appealable if (1) it is separable from and collateral to the main cause of action; (2) the right involved is too important to be denied review; and (3) the question presented is such that if review is postponed until final judgment in the case, the claimed right will be irreparably lost. Id. at 546, 69 S.Ct. at 1226, 93 L.Ed. at 1536.
+We applied Cohen in Bell v. Beneficial Consumer Discount Company, 465 Pa. 225, 228, 348 A.2d 734, 735 (1975), where we said: ‘Whether an order is final and appealable cannot necessarily be ascertained from the face of a decree alone, nor simply from the technical effect of the adjudication. The finality of an order is a judicial conclusion which can be reached only after an examination of its ramifications.’ We have also said that if the practical consequence of the order by the trial court is effectively to put an appellant ‘out of court’ the order will be treated as final. Ventura v. Skylark Motel, Inc., 431 Pa. 459, 463, 246 A.2d 353, 355 (1968). Similarly, an order is ‘final’ if it precludes a party from presenting the merits of his claim to the lower court. Marino Estate, 440 Pa. 492, 494, 269 A.2d 645, 646 (1970).”
+Id., 483 Pa. at 73, 394 A.2d at 545.
+Application of the criteria of Cohen to the instant case evidences its interlocutory nature. The order of the lower court regarding the issue of defamation is, indeed, collateral to the basic question of breach of contract, and it does not involve a right too important to be denied review. More importantly, the order does not adversely affect a claimed right which will be irreparably lost if review is postponed. Although appellants must in the first instance proceed to litigate the contract question below, they are not foreclosed from attacking the validity of the order as it pertains to their libel claim in post-trial motions, see, e.g., Pa.R.Civ.P. 227.1, 1038 and 1048, and, if the ruling issued is adverse to appellants, the matter will then be ripe for appeal. Further, the issue is neither waived nor mooted by the inability of appellants to appeal at this stage.
+Consequently, consistent with our holdings that an order dismissing some but not all of the counts of a multi-count complaint is interlocutory and is not appealable since appellant is not out of court, see Johnson v. National Life and Accident Insurance Co., 293 Pa.Super. 300, 438 A.2d 1004 (1981); Esh v. Awglis, 291 Pa.Super. 528, 436 A.2d 242 (1981), and our “ ‘policy of precluding “piecemeal determinations and the consequent protraction of litigation”,’ ” Esh v. Awglis, supra, 291 Pa.Super, at 528, 436 A.2d at 242, we find that the order appealed from is interlocutory. Pugar v. Greco, supra.
+Accordingly, the appeal from the order of the court of common pleas is quashed.
+DiSALLE, J., did not participate in the consideration or review of this case.
