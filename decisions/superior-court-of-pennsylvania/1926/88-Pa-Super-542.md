@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 136"
+decided: "1926-07-08"
+citations: ["88 Pa. Super. 542"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, P. J., Henderson, Trexler, Keller, Linn, Gawthrop and Cunningham, jj."]
+parties: ["Greer, Trustee in Bankruptcy, v. Butler County National Bank, Appellant."]
+source_url: "https://static.case.law/pa-super/88/cases/0542-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 667371
+cites_cases: ["138 Fed. 951", "156 Fed. 289", "191 Fed. 441", "192 Fed. 55", "258 Fed. Rep. 772", "265 Pa. 576", "275 Pa. 255", "72 Pa. 13"]
+---
+
+# Greer v. Butler County National Bank
+
+## Majority (Gawthrop, J.,)
+
+Opinion by
+Gawthrop, J.,
+This is an action of assumpsit brought by a trusteé in bankruptcy to compel the defendant to pay over to him the sum of $1,500 which, it is alleged, it received from the bankrupts under circumstances which made the taking thereof a voidable preference under the Bankruptcy Act, as amended in 1910, Sec. 60-B. The verdict was for the plaintiff and the defendant appeals from judgment, entered thereon.
+There was evidence sufficient to warrant a finding by the jury of the following facts: A. F. Burkhard and Clarence V. Blair, trading as A. F. Burkhard Motor Company, were engaged in the automobile business and kept an account with the defendant. They were adjudicated bankrupts on January 28, 1925. In December, 1924, when they were insolvent, and the defendant had reasonable ground to believe that they were insolvent, they asked the defendant, to which they were indebted, to increase their loans in an amount in excess of $3,000. The vice-president of the bank promised to lend them $2,500 if they would obtain a satisfactory surety on the note. A note with a surety satisfactory to the bank was presented to it on January 2,1925. The vice-president took possession of the note and told Burkhard that the loan committee had decided that the bank would not discount it unless the Motor Company agreed to pay $1,500 of its existing indebtedness from the proceeds thereof. At that time Burkhard refused to agree to do so. A day or two later, January 8,1925, he agreed to pay the $1,500 to the bank if it would discount the note. Whereupon, the note was discounted and the Motor Company was credited with the proceeds thereof. At the same time Burkhard drew a check on the Motor Company’s account to the order of the bank for $1,500. $1,450 of the proceeds of the check was applied to the payment of two overdue notes and $50 was applied to a note not then due. When the bank accepted the check it had reasonable ground to believe that the using thereof would effect a preference' and that a preference was intended. If it is permitted to retain the $1,500, it will receive a greater percentage of its claim than other creditors of the same class.
+The four statutory elements of a voidable preference are: first, that the debtor was insolvent at the time of the transfer in favor of the creditor; second, that the transfer was made within four months of bankruptcy; third, that the defendant had reasonable cause to believe that the enforcement, of such transfer of property would effect a preference; and fourth, that the effect was that the defendant would obtain a greater percentage of its debt than any other creditor of the bankrupt of the same class: Remington on Bankruptcy (Third Ed.) Vol. IV, Sec. 1807; Painter v. Napoleon Twp., 156 Fed. 289. The appellant does not question the sufficiency of the evidence to establish any of these elements, except the last. Its sole contention is that the court below should have declared and that we should declare, as a matter of law, that under the facts stated it did not receive an advantage over other creditors of the same class, because the transaction of January 8th did not decrease the estate of the bankrupts. It urges that when it discounted the note for $2,500 and applied $1,500 of the proceeds thereof to the liquidation of existing notes, it was merely increasing an existing indebtedness in the sum of $1,000; that this $1,000 went into the assets of the Motor Company and increased them to that extent; and that, therefore, it secured no preference over other creditors.- This argument is as un-sound as it is specious. It is very clear that the bank did not regard the transaction as an increasing of the indebtedness of the Motor Company in the sense that it expected the Motor Company to make payment thereof. It refused to increase the indebtedness of the Motor Company unless it offered a note with a satisfactory surety. Its manifest purpose was to secure a payment on account of the indebtedness of the Motor Company. It got a note which would be collected from the surety and the payment of $1,500 from the insolvent debtor. Certain it is that if it is permitted to retain that money and receives from the trustee in bankruptcy its dividend on the balance of its claim, it will receive a greater percentage than other creditors of the same class. This the statute does not permit. The facts establish a clear right on the part of the plaintiff to recover and no error was committed in refusing to set aside the verdict.
+The judgment is affirmed.
