@@ -1,0 +1,86 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1593 C.D. 1993"
+decided: "1994-02-25"
+citations: ["162 Pa. Commw. 241", "638 A.2d 444"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DOYLE and FRIEDMAN, JJ., and RODGERS, Senior Judge."]
+parties: ["Leonard T. ZITO, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF DRIVER LICENSING, Appellant."]
+source_url: "https://static.case.law/pa-commw/162/cases/0241-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1458174
+cites_cases: ["142 Pa.Commonwealth Ct. 627", "147 Pa.Commonwealth Ct. 82", "152 Pa.Commonwealth Ct. 57", "155 Pa Commonwealth Ct. 24", "155 Pa.Commonwealth Ct. 36", "156 Pa.Commonwealth Ct. 219", "158 Pa.Commonwealth Ct. 340", "384 U.S. 436", "521 Pa. 242", "530 Pa. 327", "530 Pa. 661", "531 Pa. 657", "533 Pa. 456", "609 A.2d 169", "613 A.2d 561", "626 A.2d 92"]
+---
+
+# Zito v. Commonwealth
+
+## Majority (RODGERS, Senior Judge.)
+
+RODGERS, Senior Judge.
+Department of Transportation (department) appeals from an order of the Court of Common Pleas of Northampton County (trial court) sustaining the appeal of Leonard T. Zito from a one-year suspension of his operating privileges pursuant to Section 1547(b) of the Vehicle Code (Code), 75 Pa.C.S. § 1547(b).
+On November 15, 1992, Officer Craig DeFranco of the Plainfield Township Police observed a pickup truck operated by Zito traveling 58 miles-per-hour in a 45 mile-per-hour zone. After pulling the truck over, the officer detected an odor of alcohol coming from the driver’s cab and noticed an empty beer can on the floor in the back portion of the cab. Admitting to having consumed one beer, and refusing to take a field sobriety test, Zito was placed under arrest and transported to the Bangor D.U.I. Center.
+At the testing center, Zito was first given an opportunity to place a call to arrange for transportation after his processing. His first call to his parents was unsuccessful and he then attempted to contact his cousin. Prevented by the officers from calling his cousin because his cousin was an attorney, the processing, which was videotaped, was begun. Zito was advised that if he refused to take a blood test, his operating privileges would be suspended for one year. Deputy Todd Miller then read the Northampton County Central Processing Implied Consent Form (form) to Zito, which in pertinent part states:
+Any warnings previously given to you concerning your right to remain silent and your right to consult with an attorney do not apply to the taking of this chemical testing, and do not give you the right to refuse this test. You have no legal right to consult with an attorney, physician, or anyone else, nor have anyone present for the purpose of this testing.
+(29a.)
+Zito subsequently refused to take the test. By official notice dated December 1, 1992, his license was suspended pursuant to Section 1547 of the Code for a failure to submit to chemical testing. Zito appealed to the trial court which reversed the department's suspension, finding that the police were required to give an O’Connell explanation, and that the above statement recited to Zito lacked required language advising him that his test refusal may be used against him in a later criminal proceeding.
+On appeal to this Court, the department argues that O’Connell explanations no longer require language advising those subject to chemical testing to be informed that test refusals may be introduced against them in subsequent criminal proceedings. We agree, and realize that since Department of Transportation, Bureau of Driver Licensing v. Elko, 155 Pa Commonwealth Ct. 24, 624 A.2d 717 (1993), this language, previously interpreted as a requirement, will no longer render an O’Connell explanation infirm if omitted. As we have explained in a more recent case:
+We note that Elko and Kaczorowski also stand for the proposition that the inclusion of the statement required in Sorg — that the licensee’s refusal to submit to testing may be introduced in evidence in a subsequent criminal proceeding — while advisable, is not essential to a knowledgeable decision on whether to submit to a chemical test.
+Department of Transportation, Bureau of Driver Licensing v. Jennings, 156 Pa.Commonwealth Ct. 219, 227, n. 5, 627 A.2d 211, 214, n. 5 (1993).
+While the trial court’s reasoning may have been erroneous, we agree with its result because we find the implied consent form read to Zito is otherwise flawed in content. This Court may affirm the judgment of a trial court when the result is correct, even though the reasons given are erroneous, when the correct basis for the decision is clear from the record. City of Philadelphia v. Penrose Management Co., 142 Pa.Commonwealth Ct. 627, 598 A.2d 105 (1991), petition for allowance of appeal denied, 530 Pa. 661, 609 A.2d 169 (1992).
+Here, we find that the form read to Zito completely omits a basic requirement of Sorg, that the right to counsel is a constitutional right, which apples only to criminal proceedings, and that chemical testing is not a criminal proceeding but a civil one. The form at issue here only states that previous rights, if given, are inapplicable, and motorists have no legal right to consult an attorney or anyone else before testing. The nature of the language used on this form hardly accomplishes the knowing and conscious awareness of one’s rights which O’Connell and subsequent case law sought to provide those subject to chemical testing; especially, for anyone refused counsel or confused as to his right to counsel, as the trial judge believed Zito was.
+We are aware that the exact wording of a warning may vary from Sorg, and that the use of the term “civil proceeding” may be omitted from the formal text of a warning when contrasting one’s constitutional criminal rights with those applicable to chemical testing. Elko. But that same information must at least be impliedly communicated through the use of other language. Hertzer v. Department of Transportation, Bureau of Driver Licensing, 158 Pa.Commonwealth Ct. 340, 631 A.2d 818 (1993); Elko. Furthermore, no explanation is provided on this form to inform motorists that their constitutional rights in criminal proceedings do not apply. A review of other implied consent warnings recently found sufficient by this Court reveals that all, in one way or another, contain this type of critical information in their text.
+Recognizing the potential infirmity of the implied consent warnings given in this case, the department next argues that the warnings given need not include O’Connell explanations because Zito’s attempt to request a lawyer was merely a request for a ride from a cousin who happened to be a lawyer. The department cites Zito’s testimony which seems to indicate that his goal in calling his cousin was to secure a ride and not to obtain legal advice. If this was the case, we would agree that an O’Connell explanation would probably not be necessary.
+Although conflicting evidence exists as to the reasons behind his initial call, the record indicates that after he was prevented from calling his cousin, Zito became confused as to his rights, and, during the videotaped processing, requested an attorney. Deputy Todd Miller, the officer who gave the implied consent warning to Zito, was present at the hearing and testified as follows:
+Q. But the first contact he made was unsuccessful, and then he said he was interested in contacting his cousin, Leonard Zito, the attorney?
+A. I don’t recall who he tried to contact, to tell you the truth.
+Q. You don’t remember that conversation though?
+A. No.
+Q. Where he indicated specifically he wanted to call Attorney Zito to provide transportation and also because he was an attorney and relative of his?
+A. I don’t recall. I may have because of his relationship with Attorney Zito.
+Q. But you don’t recall that one way or the other?
+A. No, no.
+Q. At one point, he was interested in speaking to an attorney, given everything we just saw in the videotape?
+A. That’s correct.
+(20a-21a.)
+Where an arrestee requests to speak or call an attorney, irrespective of whether the police have provided Miranda warnings to the arrestee, an O’Connell explanation is required. Department of Transportation, Bureau of Driver Licensing v. McCann, 533 Pa. 456, 626 A.2d 92 (1993). Here, the trial court determined that Zito had requested an attorney. Viewing the testimony presented above in the light most favorable to Zito, who prevailed before the trial court, we find that substantial evidence supports the trial court’s decision that Zito had requested an attorney, Danforth, Malizio, and that O’Connell was therefore applicable.
+Accordingly, the order of the trial court is affirmed.
+ORDER
+NOW, February 25, 1994, the order of the Court of Common Pleas of Northampton County in the above-captioned matter, is hereby affirmed.
+. Section 1547(b) of the Code provides for the suspension of a driver’s license for a period of one year upon a refusal to submit to chemical testing to determine blood alcohol content.
+. Section 1547(a) of the Code, commonly known as the implied consent law, provides that anyone operating a motor vehicle is considered to have consented to blood alcohol content testing where a law enforcement officer has reasonable grounds to believe that the operator is under the influence of alcohol or a controlled substance.
+. Department of Transportation, Bureau of Traffic Safety v. O’Connell, 521 Pa. 242, 555 A.2d 873 (1989).
+. The trial court relied extensively on this court’s holding in Department of Transportation, Bureau of Driver Licensing v. Sorg, 147 Pa.Commonwealth Ct. 82, 606 A.2d 1270, petition for allowance of appeal denied, 531 Pa. 657, 613 A.2d 561 (1992). In Sorg, we stated that when the circumstances exist in which O’Connell explanations are required, the motorist should be told the following:
+1. That the right to counsel is a constitutional right and applies only to criminal proceedings, not to civil proceedings.
+2. That the request to submit to chemical testing is not a criminal proceeding, that it is a civil proceeding, but the licensee's refusal to submit to the testing may be introduced into evidence in a subsequent criminal proceeding.
+3. That the licensee does not have a right to contact an attorney or anyone else before taking the test nor does he have the right to remain silent as to the testing procedures; that is, licensee must affirmatively agree to submit to the chemical testing.
+Sorg, 147 Pa.Commonwealth Ct. at 91, 606 A.2d at 1275.
+In analyzing the statements read to Zito with the above language, the trial court added:
+In light of the Commonwealth Court’s explicit holding in Sorg, and mindful of our Supreme Court’s rebuke of lower courts for applying the O’Connell rule too conservatively, see Commonwealth v. Danforth, 530 Pa. 327, 331, 608 A.2d 1044, 1046 (1992), we are compelled to find that appellant’s refusal to submit to blood testing in this matter was not knowing and conscious.
+(32a.)
+. In reviewing a driver’s license suspension case, our scope of review is limited to determining whether the trial court committed an error of law or an abuse of discretion and whether its findings of fact are supported by substantial evidence. Commonwealth v. Danforth, 530 Pa. 327, 608 A.2d 1044 (1992). In addition to our limited scope of review, we are required to view the evidence in light most favorable to the party that prevailed before the trial court. Department of Transportation, Bureau of Driver Licensing v. Malizio, 152 Pa.Commonwealth Ct. 57, 618 A.2d 1091 (1992).
+6. Kaczorowski v. Department of Transportation, Bureau of Driver Licensing, 155 Pa.Commonwealth Ct. 36, 624 A.2d 723 (1993).
+. In Elko, the officer read from a form which included the following language:
+Your constitutional rights as a defendant in a criminal case do not apply to the taking of a chemical test, and therefore you do not have a right to consult with an attorney or anyone else prior to taking the chemical test or to have an attorney or anyone else present while you take the chemical test. Nor do you have a right to remain silent when asked to take a chemical test.
+Id. 155 Pa.Cmwlth at 28-29, 624 A.2d at 719.
+In Kaczorowski, the officer stated:
+I must also inform you that your constitutional rights as a defendant in a criminal case do not apply to the taking of a chemical test and that therefore, you do not have the right to consult with an attorney, or anyone else, prior to taking the chemical test or to have an attorney, or anyone else present while you take the chemical test, nor do you have the right to remain silent when asked to take a chemical test.
+Id. 155 Pa.Cmwlth. at 38, 624 A.2d at 724.
+. It was not improper for the officers to deny Zito a call to his attorney-cousin; an arrestee is not entitled to legal counsel prior to testing. ■ However, the department now maintains that Zito was only seeking a ride and was not requesting an attorney. The department’s current position conflicts with the officers’ actions, which were admittedly premised on their awareness that Zito's cousin is an attorney.
+. The department presents the following excerpt of testimony to demonstrate that Zito was not trying to contact an attorney, but only trying to secure a ride.
+A. At first I tried to call my parents.
+Q. Were you able to get through to them?
+A. No, they had the ringer turned off.
+Q. What'd you do next?
+A. Then proceeded to call Lenny Zito.
+Q. Attorney Zito?
+A. Yes.
+Q. Did you have a discussion with the officer that testified about the fact that you had an attorney in your family, and you were interested in contacting him?
+A. Yeah. He said I couldn’t call him, even for a ride.
+Q. Did you make it clear to him that it was an attorney you were asking to contact?
+A. Yes and no. I told him that that’s who I wanted to call, and he said I couldn’t because he was an attorney.
+(24a.)
+. The videotape of the processing of Zito was admitted into evidence and played during the hearing before the trial court. It was not transcribed for appeal.
+. Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966).
+. Although the trial court made no specific findings in this regard, it opined that O’Connell applies where an individual arrested for driving under the influence asks to speak to an attorney before blood testing. By its subsequent application of O’Connell and Sorg, it follows or can be inferred that the trial court did find that Zito had requested an attorney.
