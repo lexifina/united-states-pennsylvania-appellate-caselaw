@@ -1,0 +1,49 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeals, Nos. 2252 C.D. 1979 and 581 C.D. 1980"
+decided: "1981-01-29"
+citations: ["56 Pa. Commw. 379"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Blatt, Craig and MacPhail, sitting as a panel of three."]
+parties: ["George Hawkey, Petitioner v. Commonwealth of Pennsylvania, Workmen’s Compensation Appeal Board and Shenango, Inc., Respondents. (Two appeals)"]
+source_url: "https://static.case.law/pa-commw/56/cases/0379-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8732452
+cites_cases: ["127 F. Supp. 446", "203 A.2d 339", "204 Pa. Superior Ct. 166", "32 Pa. Commonwealth Ct. 156", "377 A.2d 1300", "397 A.2d 876", "40 Pa. Commonwealth Ct. 538"]
+---
+
+# Hawkey v. Commonwealth
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+This is a consolidated appeal from two orders, issued by the Workmen’s Compensation Appeal Board (Board) which dismissed two petitions for a rehearing filed by George Hawkey (Petitioner) following the denial by a referee and the Board of his petition to set aside a final receipt. We reverse and remand.
+Petitioner filed a petition to review (later amended to a petition to set aside a final receipt) with the Department of Labor and Industry on August 19, 1976. Based on evidence adduced at two hearings the petition was dismissed by a referee. The referee’s decision was affirmed by the Board on April 16, 1979. In early May, 1979 Petitioner allegedly discovered new evidence and filed a petition for a rehearing with the Board pursuant to Section 426 of The Pennsylvania Workmen’s Compensation Act (Act). At the same time, Petitioner filed a petition for review with this Court which similarly alleged that new evidence had been discovered and requested a remand to the Board for a rehearing. The latter petition was dismissed on June 6, 1979 by the late President Judge Bowman on a motion by Shenango, Inc. (Respondent) to quash the appeal for failure to present an objection to the order of the Board which Petitioner sought to appeal. The Board granted the former petition for a rehearing on August 9, 1979 but rescinded that order on October 16, 1979 finding that this Court’s action on Petitioner’s appeal was final and precluded further review by the Board. Petitioner then filed a second petition for a rehearing which was also dismissed by the Board, this time on February 14, 1980. Petitioner has appealed here from the two Board orders. The matter has been submitted on briefs.
+The sole issue presented for our consideration is whether or not this Court’s order of June 6, 1979, dismissing the petition for review filed by Petitioner, constitutes a “final action” and, therefore, operates as a bar to a rehearing by the Board.
+The grant or denial of a rehearing is within the discretion of the Board. Douglas v. Workmen’s Compensation Appeal Board, 32 Pa. Commonwealth Ct. 156, 377 A.2d 1300 (1977). Thus, in general, the Board’s decision with respect to a petition for a rehearing will not be disturbed on appeal absent an abuse of that discretion. Our decision in the instant case, however, rests not upon a finding of abuse of discretion, but rather upon our finding that the Board committed an error of law. Conclusions of law are, of course, subject to our review. 2 Pa. C. S. §704.
+Section 426 of the Act, before its recent amendment, provided, in pertinent part:
+The board, upon petition of any party and upon cause shown, at any time before the Commonwealth Court, to which an appeal has been taken ... shall have taken final action thereon, may grant a rehearing of any petition upon which the board ... has sustained or reversed any action of a referee.... (Emphasis added.)
+The Respondent argues that the dismissal by this Court of Petitioner’s appeal to this Court constituted a “final action” on that appeal. It then follows, according to the Respondent, that the Board should not have granted the initial petition for reconsideration because of the language in Section 426 and that the Board’s action in rescinding its order granting the petition was proper. Since the only ground alleged by Petitioner in his second petition for rehearing was the Board’s allegedly erroneous rescission of its prior order, Respondent argues that that petition was likewise properly denied. From those premises Respondent would have us conclude that both appeals now before us must be denied.
+While there is much merit in the logic of Respondent’s argument, it is hinged entirely on the assumption that Section 426 applies to the circumstances of this case. An analysis of what happened to this case, when it was before this Court in 1979, leads us to conclude that the provisions of Section 426 did not apply and that the Board erred as a matter of law when it invoked those provisions in making its rulings on the petitions for rehearing filed by Petitioner.
+President Judge Bowman’s memorandum and order disposing of Petitioner’s “appeal” on June 6, 1979 (No. 1000 C.D. 1979) clearly indicates that the petition for review then before the Court was not an appeal at all. The petition cited no objection to the Board’s order allegedly under review as required by Pa. R.A.P. 1513(a) and its prayer for relief was a remand to the Board because of newly discovered evidence claimed to be in Petitioner’s possession. The Respondent properly moved to quash that appeal and this Court properly sustained that motion.
+In our opinion, however, the provisions of Section 426 were not intended to apply to circumstances where the merits of an appeal timely filed were never reached by this Court nor were they intended to apply where an “appeal” is dismissed because it does not qualify as an appeal under the rules of appellate procedure. In the interpretation and construction of statutes it is our duty to ascertain and effectuate the intention of the General Assembly and to presume that the General Assembly does not intend a result that is absurd, impossible of execution or unreasonable. 1 Pa. C. S. §§ 1921 and 1922. To hold that this Court’s order dismissing Petitioner’s “appeal” in 1979 was a final action as contemplated by Section 426 would be unreasonable and would result in manifest injustice to the Petitioner.
+It is obvious that when it received the first petition for reconsideration, the Board was convinced that there was merit to it or they would not have granted it. The sole basis for the Board’s rescission order was the application of Section 426 of the Act. The sole basis for the Board’s denial of the Petitioner’s second petition for reconsideration was the application of Section 426 of the Act. The sole defense by the Respondent to the instant appeals is the application of Section 426 of the Act. It is plain to see that the Board’s discretionary action in granting the initial petition for reconsideration has never been before us. If we deny the instant appeals, we have effectively denied Petitioner the opportunity to present evidence the Board believed to be essential to a just disposition of the Petitioner’s claim. This we are reluctant to do.
+Respondent’s reliance on Balin v. Workmen’s Compensation Appeal Board, 40 Pa. Commonwealth Ct. 538, 397 A.2d 876 (1979) and Thomas v. James J. Skelly, Inc., 204 Pa. Superior Ct. 166, 203 A.2d 339 (1964) is inapposite. In both cases the Board’s order was under attack. In the instant case, the Board’s order was never challenged in the appeal. As we have noted, the 1979 petition for review simply did not constitute an appeal.
+Accordingly, we will grant Petitioner’s appeal from the Board’s rescission order, No. 2252 C.D. 1979. That action will render moot the appeal filed to No. 581 C.D. 1980.
+Order
+And Now, this 29th day of January, 1981 the order of the Workmen’s Compensation Appeal Board, entered October 16, 1979, rescinding its prior order of August 9, 1979, is reversed and the case is remanded for further proceedings consistent with this opinion. The appeal filed to No. 581 C.D. 1980 is dismissed.
+Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §871. Section 426 allows, subject to the limitation discussed infra, the grant of a rehearing by the Board within eighteen months after an order of the Board is issued.
+Section 426 was amended, effective June 27, 1980, by Section 2(a) of the Judiciary Act Repealer Act, Act of April 28, 1978, P.L. 202, 42 P.S. §20002(a)[995].
+A court may take judicial notice of its own records. 14 P.L.E. Evidence §12 (1959) and Diacon-Zadeh v. Devlet Denizyollari, 127 F. Supp. 446 (E.D. Pa. 1954).
+
+## Dissent (Judge Blatt:)
+
+Dissenting Opinion by
+Judge Blatt:
+I must respectfully dissent.
+Judge Bowman characterized the petition for review before him to be one “in the nature of an appeal from an order of the Workmen’s Compensation Appeal Board ...” and I believe that his dismissal of that appeal constituted a final action relative to the decision of the Board.
+Judge Bowman’s decision was on its face and in actuality a dismissal of a petition for review for failure to perfect an appeal to this Court and that was and is required whether for failure to file within the mandatory time period as in Balin v. Workmen’s Compensation Appeal Board, 40 Pa. Commonwealth Ct. 538, 397 A.2d 876 (1979) and Thomas v. James, J. Skelly, Inc., 204 Pa. Superior Ct. 166, 203 A.2d 339 (1964), or for failure to raise objections to the Board’s determination, required by Pa. R.A.P. 1513(a), which was the concern here.
+Admittedly, this technical approach may seem harsh to the petitioner but it is not the function of this Court to grant ad hoc relief to a petitioner whose counsel mistakenly pursues appellate action before he exhausts his administrative remedies by seeking a rehearing before the Board.
