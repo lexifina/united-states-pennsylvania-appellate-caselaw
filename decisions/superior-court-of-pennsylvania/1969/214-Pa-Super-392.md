@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 1075"
+decided: "1969-06-13"
+citations: ["214 Pa. Super. 392"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. J., Watkins, Montgomery, Jacobs, Hoffman, Spaulding, and Cercone, JJ."]
+parties: ["Commonwealth, Appellant, v. DeMichel."]
+source_url: "https://static.case.law/pa-super/214/cases/0392-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 786603
+cites_cases: ["119 A. 2d 492", "215 A. 2d 904", "223 A. 2d 726", "236 A. 2d 772", "383 Pa. 532", "420 Pa. 61", "423 Pa. 351", "428 Pa. 131"]
+---
+
+# Commonwealth v. DeMichel
+
+## Majority (Spaulding, J.,)
+
+Opinion by
+Spaulding, J.,
+This is an appeal by the Commonwealth from the granting of a motion in arrest of judgment following the conviction of appellee Adam DeMichel for establishing and maintaining an illegal lottery.
+The appellee was arrested on January 14, 1967, after a search of his home revealed he was in possession of a substantial quantity of lottery paraphernalia, Prior to trial, appellee presented, a motion to suppress the evidence seized during the search on the grounds that the search warrant was defective and that police forcibly executed the warrant without announcement of their authority and purpose. After hearing, the motion was denied by Common Pleas Court Judge Charles L. Guerin.
+At trial before Judge Herbert S. Levin, also of Common Pleas Court, the seized evidence was admitted over objection and appellee was adjudged guilty by the court. Subsequently, appellee renewed his attack on the legality of the execution of the warrant in a motion in arrest of judgment, which was granted by Judge Levin.
+Two questions are presented in this appeal: first, whether a trial judge has the authority to consider a post-trial motion alleging that evidence admitted at trial was illegally seized when another judge has held the search lawful after a pretrial suppression hearing under Rule of Criminal Procedure 2001; and, second, whether the search of appellee’s residence pursuant to a search warrant was unlawful because of the failure of the police to announce their authority and purpose and afford the occupants a reasonable time to open the door.
+The first question, that of the authority of the trial judge to consider the motion in arrest of judgment, rests upon whether an order dismissing a petition to suppress evidence under Rule 2001 is a final order conclusive in all further proceedings at the trial level. We hold that it is, and it was error for the trial court to grant the motion in arrest of judgment.
+Rule 2001 provides a comprehensive method for the pretrial litigation of the legality of searches and seizures and is the counterpart of Rules 323 and 324, which deal with the suppression of unconstitutionally obtained confessions. The basic purpose of the Rule is to dispose of questions relating to admissibility of allegedly illegally seized evidence before trial and thereby avoid resultant delay and confusion if these issues are not raised until trial. This purpose is entirely vitiated if a defendant who has unsuccessfully sought to suppress evidence in pretrial proceedings is permitted to renew his efforts at trial.
+In Commonwealth v. Washington, 428 Pa. 131, 236 A. 2d 772 (1968), the Supreme Court held that a trial judge may not reverse a judge of equal jurisdiction who has denied suppression after a pretrial hearing under Rule 324. Appellant seeks to distinguish Washington on the ground that Rule 324, unlike Rule 2001, specifically provides that the pretrial determination “shall be final and defendant may not again raise the issue.” This variance from the language of Rule 2001 does not provide a basis for distinction. Rule 324 was adopted two years after Rule 2001. As the two rules were not adopted contemporaneously, we cannot infer that as Rule 2001 does not include the specific language of Rule 324 “defendant may not again raise the issue” the Supreme Court did not intend for pretrial determinations under Rule 2001 to be conclusive at trial. On the contrary, the Supreme Court in Washington heavily stressed the provision in Rule 324 that pretrial determinations “shall be final.” Similar language is found in Rule 2001(e), which provides: “At the time of hearing, the court shall: ... (3) make fi nal disposition of the application.” (Emphasis supplied.) Rules 324 and 2001 have the identical objective of expediting trial proceedings through pretrial disposition of evidentiary questions. As this objective would be wholly frustrated if relitigation is permitted we have no difficulty in finding that a “final disposition” under Rule 2001, as under Rule 324, is a conclusive litigation binding in all further proceedings at the trial level. Accordingly, it was error for the court below to entertain the motion in arrest of judgment on the ground of the use of illegally seized evidence.
+We need not reach the merits of the contention that the forcible execution of the search warrant was unlawful. The holding of Commonwealth v. Washington, supra, that a defendant is entitled to appellate review of a pretrial ruling under Rule 324 on appeal from judgment of sentence is equally applicable to pretrial denial of suppression under Rule 2001. However, as appellee’s motion in arrest of judgment was granted, no sentence has been pronounced on the illegal act for which appellee was convicted. A defendant in a criminal proceeding may appeal only from the judgment of sentence. Commonwealth v. Wright, 383 Pa. 532, 119 A. 2d 492 (1956); Commonwealth v. Pollick, 420 Pa. 61, 215 A. 2d 904 (1966) ; Commonwealth v. Haushalter, 423 Pa. 351, 223 A. 2d 726 (1966). As no judgment of sentence has been entered in this case, review of. the dismissal of the pretrial petition to suppress would at this time be premature.
+The order of the court below is reversed and the case remanded for sentencing.
+Rule 2001 was superseded by an amendment to Rule 323, effective February 3, 1969, which consolidated and made uniform the Rules relating to pretrial suppression of any evidence alleged to have been obtained in violation of a defendant’s constitutional rights. The amendment specifically provides: “(j) If the court determines that the evidence is admissible, such determination shall be final, conclusive and binding at trial, except upon a showing of evidence which was theretofore unavailable . . . .”
