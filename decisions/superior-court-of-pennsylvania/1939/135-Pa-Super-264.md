@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 19"
+decided: "1939-04-12"
+citations: ["135 Pa. Super. 264"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldeige, Stadt-eeld, Parked, and Rhodes, JJ."]
+parties: ["Third National Bank and Trust Company of Scranton, Appellant, v. Tonkin et ux."]
+source_url: "https://static.case.law/pa-super/135/cases/0264-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1017132
+cites_cases: ["106 Pa. Superior Ct. 65", "154 A. 365", "161 A. 637", "202 Pa. 153", "300 Pa. 540", "303 Pa. 223", "51 A. 760", "72 Pa. Superior Ct. 115"]
+---
+
+# Third National Bank & Trust Co. v. Tonkin
+
+## Majority (Stadtfeld, J.,)
+
+Opinion by
+Stadtfeld, J.,
+This is an appeal from an order of the Court of Common Pleas of Lackawanna County making absolute a rule to open judgment entered on a note signed by Luther Tonkin and Irene Lance Tonkin, his wife.
+The defendant, Mrs. Tonkin, filed a petition to open judgment on December 15, 1937. Pursuant to stipulation on behalf of the parties, depositions were taken in support of, as well as in opposition to, the petition. The testimony, being substantially without conflict, presents the following facts: Luther Tonkin and Irene Lance Tonkin were married October 2, 1935. Before their marriage, the husband held title to a dwelling and chicken farm located on Shady Lane Road, Chinchilla, Pa., and the wife held title to a home and repair garage located in another part of the same township. In February, 1936, Mr. Tonkin applied for a loan at the Third National Bank and Trust Company of Scranton, Pa., plaintiff, in order to make improvements and additions on his chicken farm. In the course of the conversation relative to the loan between Mr. Tonkin and John Geiner, representing the bank, it appeared to Mr. Geiner that the loan could not be granted on the security of the one property alone located at Shady Lane Road. Mr. Tonkin was asked whether his wife owned any property and whether she would sign the note. He then agreed, at the suggestion of the bank, to have the title to the Shady Lane Road property transferred in the name of himself and his wife. The application for the loan was signed by both husband and wife. On February 10, 1936, the loan was consummated and the note was signed by both Luther Tonkin and Irene Lance Tonkin. On the same day, the proceeds of the loan were disbursed as follows: $950 was credited to a checking account in the name of Luther Tonkin or Irene Tonkin; $400 was credited to a savings account in the name of Luther Tonkin or Irene Tonkin; and the balance of $93.50 was paid in cash. All funds were drawn upon by checks of Luther Tonkin and used almost entirely for improvements on the Shady Lane property, for building one new poultry house, enlarging another, buying new stock, feed and equipment. On the day after the loan was made, February 11, 1936, Mr. Tonkin’s individual property was conveyed to himself and his wife by deed recorded the same day. Judgment was entered by confession on the same day.
+The Act of June 8, 1893, P. L. 344, Sec. 2 (48 PS §32), provides that a married woman “may not become accommodation endorser, maker, guarantor or surety for another.” Appellant contends, however, that the defendant, Irene Lance Tonkin, was a comaker or principal under the original obligation, rather than an accommodation endorser, guarantor or surety within the provisions of the act.
+The appellate courts of this Commonwealth have, nevertheless, repeatedly held that in determining whether the liability of a married woman on a written instrument or obligation is that of an accommodation endorser, maker, guarantor or surety, the lower court should look through all disguises and subterfuges, and should open a judgment where the testimony in the case shows a manifest intention to avoid the provisions of the above quoted statute: Goldsleger v. Velella, 106 Pa. Superior Ct. 65, 71, 72, 161 A. 637, 639. It is
+sufficient to refer to the additional cases of Pine Brook Bank v. Kearney, 303 Pa. 223, 154 A. 365 and Kemper v. Richardson, 72 Pa. Superior Ct. 115. And where a preponderance of evidence adduced from the testimony convinces the court that a jury should and probably would find in her favor, it is within the rightful exercise of its discretion to make a rule absolute to open a judgment entered by confession: Kaier Go. v. O’Brien, 202 Pa. 153, 51 A. 760. This court will not reverse except for a clear abuse of discretion.
+As stated in Pine Brook Bank v. Kearney, supra, p. 226: “The facts found by the court below, ...... in disposing of the pending rule, are controlling upon us in the absence of abuse of discretion: National Finance Corp. v. Bergdoll, 300 Pa. 540. We are not, however, called upon to pass final judgment upon the merits of the obligation, but have to do only with the court’s order making absolute the opening of the judgment.”
+It appears from the uncontradicted facts supported by the testimony that at the time the note was made, the husband was sole owner of the property to be benefited; that it was subsequently conveyed to both as tenants by entireties, so as to make her individual property liable for her husband’s debt; that the plaintiff-bank well knew the status of the title of the properties sought to be taken as security at the time of negotiations for the loan; that it was aware of the purpose of the loan and the property to be benefited; that it concurred in the transfer of that property’s title from the husband to himself and his wife; and that it actively participated in that transfer as well as in the execution of a contract of liability on the part of a married woman in direct opposition to an express statutory enactment, though under transparent devices to evade it. Under the facts and circumstances as exhibited by this record, we find nothing in the action of the court below tending to indicate an abuse of discretion.
+Order affirmed.
