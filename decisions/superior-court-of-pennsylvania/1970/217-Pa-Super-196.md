@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 618"
+decided: "1970-09-18"
+citations: ["217 Pa. Super. 196"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. J., Watkins, Montgomery, Jacobs, Hoffman, Spaulding, and Cercone, JJ."]
+parties: ["Sudders et al. v. United National Insurance Company, Appellant."]
+source_url: "https://static.case.law/pa-super/217/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 792580
+cites_cases: ["166 Pa. Superior Ct. 91", "192 A. 2d 253", "201 Pa. Superior Ct. 403", "236 A. 2d 758", "260 A. 2d 769", "428 Pa. 179", "436 Pa. 370", "70 A. 2d 681"]
+---
+
+# Sudders v. United National Insurance
+
+## Majority (Hoffman, J.,)
+
+Opinion by
+Hoffman, J.,
+This is an appeal from the order of the lower court confirming an arbitration award arising under the uninsured motorist provision of an automobile liability policy.
+On November 16,1966, the plaintiffs herein were involved in an automobile accident with one John Madden, who, at the time of the accident, was operating his own motor vehicle. As a result of a prior suspension, however, Madden had been granted only a restricted license, after Guardian Mutual Insurance Company [Guardian] had issued to Madden a limited operator’s liability policy in accordance with the Motor Vehicle Safety Responsibility Provisions of The Vehicle Code, Act of April 29, 1959, P. L. 58, §1401 et seq., 75 P.S. §1401 et seq. That policy had provided that Madden would be covered only while driving an automobile not owned by him.
+Shortly after the accident, plaintiff communicated with the Hayes Adjustment Bureau to ascertain whether Guardian insured Madden for the damages resulting from the accident. On July 5, 1967, plaintiff received a letter from Guardian disclaiming coverage. On July 28, 1967, plaintiff received a letter from the Insurance Department of the Commonwealth of Pennsylvania confirming that Madden had not been insured for the above accident.
+On December 13, 1967, plaintiff filed a formal demand for arbitration under plaintiff Sudders’ uninsured motorist policy, issued by United National Insurance Company [United]. In January, 1968, plaintiff Sudders was referred by United to Guardian’s counsel, who stated in a letter to plaintiff that “Guardian does insure Madden.” [Emphasis added.]
+United then filed a complaint in equity, seeking to enjoin plaintiff from proceeding in arbitration under the uninsured motorist policy against United since the issue of Madden’s insurance was a sham, which should not be submitted to arbitration. Plaintiff objected preliminarily to this complaint. The complaint was dismissed by the lower court which stated: “We believe that the record before us reveals that arbitration was sought at the time when plaintiffs clearly had reason to believe that Madden was uninsured. Since that time, counsel for Madden’s insurance company has indicated that Madden is covered. Under these curious and contradictory facts, we believe that a legitimate issue is raised concerning Madden’s insurance and under the recent decisions of the Supreme Court of Pennsylvania, we believe that the proper tribunal for deciding such an issue is the arbitration panel. National Grange Mutual Insurance Co. v. Kuhn, 428 Pa. 179 [, 236 A. 2d 758] (1968).’’
+At the arbitration hearing, the policy was presented. Its provisions noted that Madden was covered only when using a motor vehicle not owned by him. Guardian’s counsel then testified that he had originally advised Guardian that there was no coverage for Madden in view of the exclusion referred to previously. Later, however, when plaintiff had indicated his intention to file under the uninsured motorist coverage, Guardian’s counsel became convinced that, in view of the Safety Responsibility Provisions of The Vehicle Code, the exclusion under Guardian’s policy was unlawful as against public policy. After hearing and reviewing all of the testimony, and reviewing briefs, the arbitrator found for plaintiffs and against United.
+On appeal, United contends that the arbitrator should have recognized that public policy did not favor the exclusion contained in the actual written policy, and, that the statement by Guardian’s counsel that plaintiff was in fact covered under Guardian’s policy should have resulted in a decision that Madden was not an uninsured motorist. Plaintiffs argued, on the other hand, that Madden’s policy did contain the exclusion and that Guardian could not now act to extend coverage not contained originally in the policy. They further argue that the company’s argument that this exclusion was against public policy is not necessarily supported in light of our statements in Kyle v. McCarron, 201 Pa. Superior Ct. 403, 192 A. 2d 253 (1963), indicating that such policies were contemplated by the legislature.
+We agree with the statement of the lower court that “although we would be inclined to deny the petition to confirm the arbitration award, we feel that under the laws as most recently set forth in Great American Insurance Company v. American Arbitration Association, 436 Pa. 370, 260 A. 2d 769 (1970), we have no alternative but to grant such petition and enter judgment on the award.”
+As both this Court and the Supreme Court have noted on numerous occasions, arbitrator’s awards can only be reversed if there is clear, indubitable evidence of fraud, misconduct or corruption or some irregularity. As to questions of law and fact, however, he is the final judge and his award is not subject to disturbance of mistake of either. The policy was restated in Westinghouse Air Brake Company Appeal, 166 Pa. Superior Ct. 91, 70 A. 2d 681 (1950), that “a contrary holding would mean that arbitration proceedings, instead of being a quick and easy mode of obtaining justice, would be merely an unnecessary step in the course of litigation, causing delay and expense, but settling nothing finally.” Id., at 97, 70 A. 2d at 684. Here the arbitrator apparently found that the exclusion in Madden’s policy, which on its face denies coverage to Madden for this particular accident, rendered Madden an uninsured motorist, notwithstanding Guardian Mutual’s willingness at a later date to withdraw its disclaimer and to assume responsibility. This was a question for determination by the arbitrator which we are without power to reverse.
+The order of the lower court is affirmed.
