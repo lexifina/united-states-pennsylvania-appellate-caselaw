@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 11"
+decided: "1917-03-16"
+citations: ["66 Pa. Super. 507"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Kephart, Trexler and Williams, JJ."]
+parties: ["Newburger, Appellant, v. Central Trust & Savings Company."]
+source_url: "https://static.case.law/pa-super/66/cases/0507-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 628172
+---
+
+# Newburger v. Central Trust & Savings Co.
+
+## Majority (Kephart, J.,)
+
+Opinion by
+Kephart, J.,
+This is an interpleader issue, founded on a claim of property made by S. Newburger, the appellant. The judgment upon which the execution issued, was against Jacob Newburger and D. Newburger, trading as the London Raincoat and Clothing Company. The levy under the fi. fa. issued thereon covered all the goods at 911-13 Passyunk ávenue, the place of business of the London Raincoat and Clothing Company. Appellant claims that he is the sole and exclusive owner of* all the goods levied on.
+The appellee does not present in proper form any motion to dismiss the assignments of error as being in violation of the rules of this court. The case will therefore be considered on its merits.
+To sustain the appellant’s claim, a lease of the premises to appellant was offered in evidence, and as stated, covered the time- when the levy took place. This lease should have been admitted. It was prima facie evidence at least that the appellant was the occupant of the premises. and was some evidence to‘sustain the plaintiff’s claim. The bills showing sale and delivery of goods to Samuel Newburger should have been admitted. The court subsequently admitted the bills that could be identified as covering the goods levied on.' All these bills should have been admitted. They would show, from the offer, a continuous course of. conduct consistent with business. They would be some evidence of title. The same may be said of the offer of the burglary insurance, the mercantile license for the year, and the insurance covering the property. All of this evidence had a tendency to establish title. It was at least for the consideration of the jury. We therefore sustain the fifth, sixth, eighth, ninth, tenth and eleventh assignments of error.
+We have read the statement of claim upon which this action was first instituted, and we find nothing therein' prejudicial to the claimant’s pase. The appellant was not a witness at the trial, and depended on Jacob Newburger to establish his claim of property. The 'witness testified that the claimant was the owner of the goods levied on by the sheriff. When the action was originally instituted under this statement of claim, there was an averment describing the defendants in that action as Jacob New-burger and D. Newburger, trading as the London Raincoat and Clothing Company. The fourth paragraph averred that these defendants made their promissory note, there set forth in full, upon which that action was founded. In the affidavit of defense filed to that action, Jacob Newburger, under oath, admitted these paragraphs to be true. There was a direct charge in this statement that these two defendants traded as this company, and an admission in the affidavit of defense that they did so trade. One of these defendants now comes into' court and denies that he traded as this company, and testifies that the claimant was the sole owner of the business. It would be a travesty on justice to say that a man could not be confronted by a deliberate misstatement under oath for the purpose of affecting his credibility as a witness. The assignments in relation hereto are dismissed.
+While the rules of the Municipal Court may not properly have been considered as evidence, and the court might have, in its charge to the jury, clearly expressed to them what the rules of this court intended to cover, and as being applicable to the case, we do not consider that the appellant was in any Avay harmed by the admission of this evidence. The court’s charge fairly presented the. facts in the case, and Ave do not feel that too much prominence was given to the appellee’s evidence or the questions submitted. As the case presented itself, the effect of Jacob Newburger’s testimony as to the ownership of the goods, was clearly for the jury. We do not consider the bills offered in evidence, and those rejected, as well as the other evidence offered and rejected, and the testimony of Jacob Newburger, sufficient to establish such title in the appellant that would take the case from the jury’s consideration. All of this written evidence still required the testimony of Jacob Newburger to complete appellant’s title, as there was still some question about the delivery of the goods, unless the invoices show on their face delivery at the premises. Further, claimant’s title and his possession must be shown at the time of levy, and in this connection, evidence showing the entire transaction to be a subterfuge must be considered. Jacob Newburger’s testimony was subject to a serious attack. The jury should pass on these questions, and the authorities cited by the learned counsel for the appellant do not apply.
+All the assignments of error not herein specifically dealt with are dismissed. The judgment is reversed and a venire facias de novo is awarded.
