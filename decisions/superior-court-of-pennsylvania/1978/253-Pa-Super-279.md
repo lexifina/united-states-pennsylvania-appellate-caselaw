@@ -1,0 +1,51 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1353"
+decided: "1978-04-13"
+citations: ["253 Pa. Super. 279", "384 A.2d 1343"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WATKINS, President Judge, and JACOBS, HOFFMAN, CERCONE, PRICE, VAN der VOORT and SPAETH, JJ.", "HOFFMAN, J., dissents and would discharge.", "PRICE, J., dissents and would affirm both counts.", "WATKINS, former President Judge, did not participate in the consideration or decision of this case."]
+parties: ["COMMONWEALTH of Pennsylvania v. Charles SMITH, Appellant."]
+source_url: "https://static.case.law/pa-super/253/cases/0279-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 95104
+cites_cases: ["223 Pa. Super. 60", "236 Pa.Super. 107", "236 Pa.Super. 92", "238 Pa.Super. 177", "246 Pa.Super. 488", "296 A.2d 883", "344 A.2d 566", "345 A.2d 253", "353 A.2d 39", "466 Pa. 474", "62 Del.Co. 380"]
+---
+
+# Commonwealth v. Smith
+
+## Majority (CERCONE, Judge:)
+
+CERCONE, Judge:
+This appeal arises from appellant’s conviction of possession of an instrument of a crime with the intent to employ it criminally, and possession of a prohibited offensive weapon. Crimes Code, 18 Pa. C.S. §§ 907(a) and 908 (1973).
+On May 25, 1975, at approximately 10:45 P.M., an off-duty Philadelphia policeman, Officer Edward Bracey, took his friend, Ms. Patricia Evans, home to her apartment. As they were leaving the car, Bracey and Evans were forced into her apartment at gunpoint by two men. Armed with revolvers, the gunmen ordered Officer Bracey and Ms. Evans to lie face down. During the course of the robbery, one of the guns discharged. Immediately, one of the robbers exclaimed, “I shot myself!” and both fled. Appellant was later apprehended and identified at a hospital while being treated for a gunshot wound of his foot.
+Appellant voluntarily waived his right to a jury trial, and the Honorable Merna Marshall found him guilty of robbery, possession of an instrument of a crime with the intent to employ it criminally, and possession of a prohibited weapon. Appellant filed post-verdict motions which were denied. Challenging only the latter two convictions, appellant raises two issues on appeal: first, whether, in light of subsection 907(b) of the Crimes Code, his conviction under subsection 907(a) is valid; and second, whether a revolver-type handgun is an “offensive weapon” under § 908 of the Crimes Code.
+I.
+Section 907 of the Crimes Code reads, in part, as follows: “§ 907. Possessing instruments of crime.
+(a) Criminal instruments generally. — A person commits a misdemeanor of the first degree if he possesses an instrument of crime with intent to employ it criminally.
+(b) Possession of weapon. — A person commits a misdemeanor of the first degree if he possesses a firearm or other weapon concealed upon his person with intent to employ it criminally.
+(c) Definitions. — As used in this section the following words and phrases shall have the meanings given to them in this subsection:
+‘Instrument of crime.’
+(1) anything specially made or specially adopted for criminal use; or
+(2) anything commonly used for criminal purposes and possessed by the actor under circumstances not manifestly appropriate for lawful uses it may have.”
+In this case, appellant was indicted and convicted under § 907(a). Contending a handgun is not an “instrument of crime” as stated in § 907(a) but, rather, that it is a firearm under § 907(b), appellant urges that the sections of the statute are mutually exclusive, so that if appellant’s conduct constituted a crime under § 907(b) appellant could not be convicted under § 907(a).
+The resolution of this issue revolves around two cases. First, in Commonwealth v. McNear, 238 Pa.Super. 177, 353 A.2d 39 (1975), this court directly addressed the question whether a firearm is an “instrument of crime” under § 907(a). There, appellant possessed a loaded pistol ready to be fired. The court said such a weapon is “clearly an instrument of crime. . . . There is no language in the Crimes Code excluding a loaded firearm or weapon from being an instrument of crime.” 238 Pa.Super. at 179, 353 A.2d at 40. The court justified its result by following the directive of the Statutory Construction Act of 1970, 1 Pa. C.S. § 1903 (Appendix 1973), that instructs the court to “construe the language of legislative enactments according to their common and approved usage.” 238 Pa.Super. at 179, 353 A.2d at 39. Thus the Superior Court affirmed appellant’s conviction under § 907(a). A dissent by three of the Superior Court judges, including the author of this opinion, distinguished sections 907(a) and 907(b) of the Crimes Code in virtually the same fashion as appellant argues in the instant case. However, the Supreme Court of Pennsylvania later addressed the issue of whether a pocketknife is an “instrument of crime” under § 907(a) in Commonwealth v. Allen, 466 Pa. 474, 353 A.2d 452 (1976). In Allen, appellant armed himself with a pocketknife during an argument. The court cited § 907(a) and § 907(c) in holding that a knife was an instrument of crime. The . knife was used in a direct attack on another person which shows it was used “under circumstances not manifestly appropriate for lawful purposes,” a knife of course being a device “commonly used for criminal purposes.” § 907(c)(2). See American Law Institute, Model Penal Code, § 5.06, Comment (Tent. Draft 13, 1961). Hence the Supreme Court affirmed appellant’s conviction under § 907(a).
+In reading McNear and Allen together, we find that McNear dealt with a firearm, while Allen concerned a knife used as a weapon in the crime in question. In both cases, the firearm and weapon were found to be “instruments of crime” under § 907(a) of the Crimes Code, despite the fact that both are specifically identifiable under § 907(b). Since a firearm and a weapon are given the same treatment in § 907(b), it follows that the Supreme Court in Allen confirmed, in effect, the position of the majority of this court in McNear. Therefore, appellant’s conviction under § 907(a) for the possession of an “instrument of crime” was unquestionably appropriate.
+II.
+Appellant’s second contention concerns the scope of § 908 of the Crimes Code. This section reads, in part, as follows:
+“§ 908 Prohibited Offensive Weapons
+(a) Offense defined. — A person commits a misdemeanor of the first degree if, except as authorized by law, he makes, repairs, sells, or otherwise deals in, uses, or possesses any offensive weapon.
+(c) Definition. — As used in this section ‘offensive weapon’ means any bomb, grenade, machine gun, sawed-off shot gun, firearm specially made or specially adapted for concealment or silent discharge, any black jack, sandbag, metal knuckles, dagger, knife, razor or cutting instrument, the blade of which is exposed in an automatic way by switch, push-button, spring mechanism, or otherwise, or other implement for the infliction of serious bodily injury which serves no common lawful purpose.”
+In the instant case, appellant possessed a revolver-type handgun, which is not one of the weapons enumerated in § 908(c). In order for the possession of a handgun to be punishable, it must be included in the catch all phrase of § 908(c) and be “an implement for the infliction of serious bodily injury which serves no common lawful purpose.” In interpreting this part of § 908(c) this court has said it must be given a “reasonable, common sense interpretation.” Commonwealth v. Gatto, 236 Pa.Super. 92, 97, 344 A.2d 566, 568 (1975), allocatur refused, 236 Pa.Super. XXV (1975). The Superior Court has specifically said that § 908 was meant to
+“prohibit the free circulation of a specific class of weapons which have no peaceful purpose and have no conceivable use except for purposes which our society has found to be criminal.” Commonwealth v. McHarris, 246 Pa.Super. 488, 371 A.2d 941, 943 (1977), citing Commonwealth v. Ponds, 236 Pa.Super. 107, 111, 345 A.2d 253, 255 (1975).
+Thus, if a weapon has a common lawful purpose, the possession of it in itself does not violate § 908.
+In Commonwealth v. McHarris, supra, this court addressed this question. There, appellant possessed a .38 caliber revolver. The court held that a revolver is not a weapon which “serves no common lawful purpose,” and appellant could not be convicted of violating § 908 of the Crimes Code. In explanation, the court cited the joint comment to §§ 5.06 and 5.07 of the Model Penal Code at p. 68 which states a revolver has lawful purposes:
+“Other weapons, like sporting rifles, shotguns, and revolvers . . have peaceful as well as lethal potentialities. Not only must we take account of the desires of sportsmen, farmers, and dealers in hunting equipment, we must also recognize that revolvers and knives are frequently carried for defensive purposes.”
+This language was reiterated approvingly in Commonwealth v. McNear, 238 Pa.Super. 177, 353 A.2d 39 (1975). See also Commonwealth v. Pauze, 70 D.&C.2d 368, 62 Del.Co. 380 (1975) (possession of .22 caliber pistol does not violate § 908 of the Crimes Code. From the prior holdings of this court we conclude that a revolver can serve a common lawful purpose, so that appellant’s possession of a revolver-type handgun cannot be punishable as a violation of § 908 of the Crimes Code. Hence, the conviction of appellant under this count is reversed.
+Because of the possibility that sentencing court may have considered appellant’s invalid conviction for possession of an offensive weapon in determining sentence for possession of an instrument of crime, appellant’s sentence for the latter offense must be vacated and the case remanded for resentencing thereon. Commonwealth v. Lockhart, 223 Pa. Super. 60, 296 A.2d 883 (1972).
+For the foregoing reasons appellant’s judgment of sentence for possession of a prohibited offensive weapon is reversed. The judgment of sentence for possession of an instrument of crime is vacated and the case is remanded for resentencing.
+HOFFMAN, J., dissents and would discharge.
+PRICE, J., dissents and would affirm both counts.
+WATKINS, former President Judge, did not participate in the consideration or decision of this case.
