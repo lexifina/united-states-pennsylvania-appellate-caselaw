@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2040 C.D. 1979"
+decided: "1981-03-03"
+citations: ["57 Pa. Commw. 250"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Mencer, Rogers and Bratt, sitting as a panel of three."]
+parties: ["Fashion Prints, Petitioner v. Commonwealth of Pennsylvania, Workmen’s Compensation Appeal Board and James Radler, Respondents."]
+source_url: "https://static.case.law/pa-commw/57/cases/0250-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1917567
+cites_cases: ["233 A.2d 891", "28 Pa. Commonwealth Ct. 618", "305 A.2d 757", "33 Pa. Commonwealth Ct. 273", "36 Pa. Commonwealth Ct. 352", "369 A.2d 503", "37 Pa. Commonwealth Ct. 122", "381 A.2d 508", "387 A.2d 1339", "388 A.2d 1166", "427 Pa. 5", "9 Pa. Commonwealth Ct. 176"]
+---
+
+# Fashion Prints v. Commonwealth
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+Fashion Prints (employer) has appealed from an order of the Workmen’s Compensation Appeal Board (Board) reversing a decision of the referee which terminated the payment of total disability benefits to James Radler (respondent). We reverse the Board.
+The respondent was employed as a silk-screen printer in a textile factory. He was awarded total disability benefits as the result of an injury, sustained in a fall at work on September 9, 1976. On March 21, 1977, the employer filed a termination petition which alleged that the respondent had fully recovered from his injury and was no longer disabled. The respondent and the employer each produced one medical expert to testify on the question of disability. The employer’s expert, Dr. White, testified that the respondent had fully recovered from his injury and could return to work at his regular job. The respondent’s expert, Dr. Sussman, testified that the respondent had not fully recovered from his injury and was incapable of returning to his regular job because of the heavy lifting it required. The referee believed Dr. White.
+In addition to examining the respondent, Dr. White had personally visited the place of employment to learn about the physical requirements of the respondent’s job. The respondent objected to Dr. White’s medical conclusions and opinions, asserting that they were based upon hearsay. The referee overruled the objection and ordered the termination of benefits.
+The Board ruled that the referee should have sustained the hearsay objection. It therefore reversed, without taking additional testimony, concluding that the hearsay problem rendered all of Dr. White’s testimony incompetent, so that the record was devoid of competent evidence that disability had ceased, and that the employer had not satisfied its burden of proof because it did not present evidence that suitable work was available. This appeal followed.
+The testimony of Dr. White contained two distinct elements. First, he testified that he had examined the respondent and found no trace of injury to his back. From this he determined that the respondent had fully recovered from his injury and was no longer disabled. Second, Dr. White testified that he had visited the place of employment and observed employees perform the duties of the respondent’s job and concluded that the respondent would have no difficulty in performing the same tasks. The Board found that this knowledge of the respondent’s job duties, having been gained by out-of-court observation, was based upon hearsay which irreparably tainted Dr. White’s testimony. We are not convinced that the Board was correct, but we need not rule on the issue. Even if the referee should have excluded that portion of Dr. White’s testimony which dealt with the requirements of the respondent’s job, the remainder of Dr. White’s testimony, if credible, adequately supported the conclusion that the respondent was no longer disabled. See Romanski v. Workmen’s Compensation Appeal Board, 33 Pa. Commonwealth Ct. 273, 381 A.2d 508 (1978) (doctor’s unequivocal opinion that disability has ceased will support decision to terminate benefits even though other conclusions are possible).
+It is well settled that the referee is the ultimate factfinder where the Board takes no additional testimony, Universal Cyclops Steel Corp. v. Krawczynski, 9 Pa. Commonwealth Ct. 176, 305 A.2d 757 (1973), and the Board may not substitute its judgment on the credibility of witnesses for that of the referee, Steele v. Workmen’s Compensation Appeal Board, 36 Pa. Commonwealth Ct. 352, 387 A.2d 1339 (1978). In this case, the referee decided that Dr. White’s testimony was credible. Therefore, the referee’s finding that the respondent had recovered from his injury was supported by substantial evidence.
+The Board also contends that an employer cannot sustain its burden of proof in a termination action unless it shows that suitable work is available to the claimant. The Board supports this contention by citing our decision in Workmen’s Compensation Appeal Board v. Pennsylvania School Boards Association, 28 Pa. Commonwealth Ct. 618, 369 A.2d 503 (1979), in which we said, “When the employer is the moving party he has the burden of showing that the disability has ended or has been reduced and that (1) work is available to the claimant and (2) claimant is capable of doing such work.” Id. at 620, 369 A.2d at 505. We believe that the Board has misconstrued our holding in that case.
+Workmen’s Compensation Appeal Board v. Pennsylvania School Boards Association was one of a series of cases in which an employer proved that a claimant’s disability had been lessened but not removed. As a result, the claimant was able to engage in limited types of employment specifically suited to his physical and emotional condition. The burden has been placed on the employer to show that such specialized employment is available to the claimant because its general availability cannot be presumed. Petrone v. Moffat Coal Co., 427 Pa. 5, 233 A.2d 891 (1967).
+In another line of cases, typified by Walther v. Workmen’s Compensation Appeal Board, 37 Pa. Commonwealth Ct. 122, 388 A.2d 1166 (1978), an employer proved that a claimant’s disability had been removed altogether. In these cases, we have not required proof that suitable work was available to the claimant because it can be presumed that employment is generally available to able-bodied persons. The policy considerations underlying the rationale of Petrone v. Moffat Coal Co., supra, are not present in this type of case.
+Because the present case falls within the latter category, it was unnecessary for the employer to prove that suitable work was available to the respondent. The Board clearly erred in reversing the referee’s decision on this basis.
+Therefore, we will enter the following
+Order
+And Now, this 3rd day of March, 1981, the order of the Workmen’s Compensation Appeal Board, dated September 27, 1979, which overturned the decision of the referee to terminate benefits to James Radler is hereby reversed.
