@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 117"
+decided: "1902-12-13"
+citations: ["21 Pa. Super. 561"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady and W. D. Porter, JJ."]
+parties: ["Owen v. Rothermel, Appellant."]
+source_url: "https://static.case.law/pa-super/21/cases/0561-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 844342
+cites_cases: ["1 Phila. 89", "100 Pa. 169", "105 Pa. 294", "110 Pa. 70", "114 Pa. 1", "189 Pa. 138", "2 W. & S. 411", "21 Pa. 274", "4 W. & S. 657", "44 Pa. 269", "5 Rawle, 91", "6 Binn. 1", "65 Pa. 321"]
+---
+
+# Owen v. Rothermel
+
+## Majority (Beaver, J.,)
+
+Opinion by
+Beaver, J.,
+The plaintiffs’ claim is founded upon a written order, of which a copy follows: “Philadelphia, December 6th, 1893. Mr. William G. Rothermel, 1028 Arch St., Philadelphia. Dear Sir: Please pay to the order of Owen & Salter the sum of Three hundred and twenty-five (1325.00) Dollars, which is the amount of our contract between ourself and yourself as counter-surety for the Citizens’ Trust Company for work at Glenolden, Pa. This amount to be paid upon completion of the work and payment by the owner, as per contract. Yours respectfully, Miller & Ruoff,” which order was accepted by the defendant. Plaintiff’s claimed that, under and in pursuance of the order, they had furnished to the defendant goods and merchandise amounting to the sum of $99.38.
+The attempt was made to prove the delivery of the goods by a bill clerk who was asked to refresh his recollection from what was called a bill book, consisting of letter press copies of bills sent the defendant for goods delivered to him. It was clear from the testimony of the witness that he had no knowledge of the sale and delivery of the goods, that he had made out bills from memoranda furnished to him by those who had made the sale and delivery. He was asked to refresh his recollection as to the transaction from the bill book aforesaid. The book was not claimed to be one of original entries and was not offered in evidence. The plaintiff had no personal knowledge of the sale and delivery outside the bills which he made out and then Only by refreshing his recollection from the billhook. The practical effect of this testimony was to get the bills themselves in evidenee through the thin, guise of filtering their contents through' the witness. The witness was not competent to prove the sale and delivery of the goods. The bills made out by him were not competent evidence of the sale and delivery. How then, could his recollection, refreshed by a reference to the bill book, be competent? The case is somewhat similar to First Nat. Bank of Du Bois City v. First Nat. Bank of Williamsport, 114 Pa. 1, in which Mr. Justice Clark says: “ The suit is not brought upon the book charges, nor were the books relied upon as books of original entry or referred to as such. Indeed the books themselves were not offered in evidence at all, either at the taking of the deposition or at the trial. The best proof of which the case appears to have been susceptible was the evidence of the bank officers themselves. The books were but secondary evidence of the facts alleged; but, whilst it was competent for the witnesses named to explain the course of their business, to state that entries in the regular course of business were made of this transaction at the time and, by reference- to the books, to refresh their recollection, it was not competent we think in this oblique way to introduce the entries themselves.” The first specification of error is, therefore, sustained.
+One of the members of the firm of Miller & Ruoff, the drawers of the order, had given his opinion as to the construction to be placed upon the order itself. Whether it was competent for him to do this or not is not now the question under discussion. After his examination a letter signed by the firm, written confessedly by the other partner, was offered in evidence, for the purpose of contradicting the witness. The offer was objected to and the objection overruled. . The opinion of the witness was his individual opinion. A letter of the firm, written by the other partner, was not competent to contradict this testimony. Although signed by the firm, it was simply the opinion of the other partner and was in no sense a contradiction of Miller’s testimony, although differing from it. We do not think it was competent for the purpose for which it was offered.
+The instrument, upon which suit was brought, was in writing. We regard its terms as plain and unambiguous. They are capable of judicial construction. The paper should have been construed by the court as a matter of law. It requires no citation of authorities to establish this principle. We do not mean by this to be understood as agreeing to the appellant’s contention of the construction of the paper. There is nothing said in the order about the delivery of the goods. “ For work at Glenolden, Pa.,” evidently qualifies the contract between the drawers and the acceptor, and not the mode or manner of payment which was limited only by the time of “ completion of the work and payment by the owner. ” Beyond this it is not necessary for us to express an opinion, inasmuch as the manner in which the contract is to be construed is not properly before us.
+For the reasons stated, the assignments of error are all sustained. Judgment reversed and a new venire awarded.
