@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 141"
+decided: "1969-09-11"
+citations: ["215 Pa. Super. 1"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Weight, P. J., Watkins, Montgomery, Jacobs, Hoffman, Spaulding, and Cercone, JJ."]
+parties: ["Delpark Athletic Club Liquor License Case."]
+source_url: "https://static.case.law/pa-super/215/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 788435
+cites_cases: ["171 A. 2d 828", "195 Pa. Superior Ct. 643", "252 A. 2d 568", "433 Pa. 458"]
+---
+
+# Delpark Athletic Club Liquor License Case
+
+## Majority (Wright, P. J.,)
+
+Opinion by
+Wright, P. J.,
+Delpark Athletic Club is the holder of club liquor license No. C-2829 issued by the Pennsylvania Liquor Control Board. The instant appeal involves three citations issued by the Board directing the licensee to show cause why its license should not be revoked by reason of certain violations alleged therein. Citation No. 498 of 1967 was issued April 4, 1967. Citation No. 556 of 1967 was issued April 18, 1967. Citation No. 923 of 1967 was issued June 20, 1967. Hearings on these citations were conducted before one of the Board’s bearing examiners. On October 3, 1967, tbe Board issued an order on Citation No. 498 revoking tbe license upon eight findings of fact set forth in the footnote. On tbe same date tbe Board issued an order on Citation No. 556 revoking tbe license upon the following finding of fact: “1. The licensed organization, by its servants, agents or employes sold liquor and/or malt or brewed beverages on the licensed premises to nonmembers, on February 23 and March 16, 1967”. On November 14, 1967, the Board issued an order on Citation No. 923 revoking the license upon the following finding of fact: “1. The licensee, by its servants, agents or employes sold liquor and/or malt or brewed beverages on the licensed premises to nonmembers, on March 5, 1967”. The licensee appealed to the Court of Quarter Sessions of Philadelphia County, which tribunal filed one opinion, November 8, 1968, reversing the Board’s orders and imposing a penalty of twenty day suspension on each citation. The Board has appealed to this court.
+After taking testimony de novo, the hearing judge found with respect to Citation No. 498 that only three of the Board’s eight findings of fact were supported by the evidence, thus making in effect different findings of fact. The imposition of a less severe penalty as to this citation was therefore warranted. Legion Home Association of Monessen Appeal, 195 Pa. Superior Ct. 643, 171 A. 2d 828. With respect to Citations Nos. 556 and 923, the hearing judge found that the Board’s findings of fact were supported by the evidence. Indeed, the record discloses that the violations upon which the Board predicated these two citations were admitted by the licensee. Without making different findings of fact on Citations Nos. 556 and 923, the hearing judge reasoned that the three citations should be treated as one proceeding and that a change in the Board’s findings on one citation authorized him to reverse the Board’s orders on all three citations. This was clearly error.
+The case at bar is ruled by the decision of our Supreme Court in Noonday Club of Delaware County, Inc: Liquor License Case, 433 Pa. 458, 252 A. 2d 568, wherein it was held improper to treat two separate citations as one proceeding. In the words of Mr. Justice Cohen : “Each citation issued by the Board constitutes separate and distinct violations, and if the lower court fails to make any material changes in the findings by the Board with respect to one citation, the Board’s penalty of revocation must stand”. It follows that the lower court should have considered each citation as a separate and distinct basis for action by the Board. Changed findings of fact as to Citation No. 498 did not warrant reversal of the Board’s orders as to Citations Nos. 556 and 923. Since the court below made no change in the findings of the Board with respect to the last two citations, it lacked authority to disturb the Board’s orders of revocation.
+The order of the court below is reversed, and tbe Board’s orders of revocation reinstated in Citations Nos. 556 and 923 of 1967.
+“1. The licensed organization was not operated for the mutual benefit of the entire membership. 2. The licensed organization, by its servants, agents or employees failed to adhere to the provisions of the constitution and by-laws. 3. The licensed organization, by its servants, agents or employes failed to conduct club business through officers regularly elected. 4. The licensed organization, by its servants, agents or employes failed to hold regular meetings. 5. The licensed organization, by its servants, agents or employes failed and neglected to maintain records in conformity with regulations prescribed by the Pennsylvania Liquor Control Board. 6. The licensed organization, by its servants, agents or employes deliberately falsified the records of its licensed organization. 7. The licensed organization, by its servants, agents or employes failed and neglected to keep, for a period of at least two years, complete and truthful records covering the operation of its licensed organization. 8. The licensed organization, by its servants, agents or employes failed within thirty (30) days after any change was made in its officers, to report such change in writing to the Board”.
