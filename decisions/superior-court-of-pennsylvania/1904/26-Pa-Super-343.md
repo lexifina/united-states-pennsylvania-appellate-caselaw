@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 111"
+decided: "1904-07-28"
+citations: ["26 Pa. Super. 343"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, Porter, Morrison and Henderson, JJ."]
+parties: ["Schellsburg v. Western Union Telegraph Company, Appellant."]
+source_url: "https://static.case.law/pa-super/26/cases/0343-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 853876
+cites_cases: ["16 Pa. Superior Ct. 344", "190 U. S. 160", "192 U. S. 64", "202 Pa. 583", "25 Pa. Superior Ct. 306", "25 Pa. Superior Ct. 406"]
+---
+
+# Schellsburg v. Western Union Telegraph Co.
+
+## Majority (Rice, P. J.,)
+
+Opinion by
+Rice, P. J.,
+The elements which enter into such a charge as that for the recovery of which this action was brought, are the necessary or probable expense incident to the issuing of the license arid the probable expense of such inspection, regulation and police surveillance as the municipal authorities may lawfully give to the erection and maintenance of the poles and wires: Taylor Borough v. Postal Telegraph, etc., Co., 16 Pa. Superior Ct. 344; 202 Pa. 583. Although this case was reversed by the Supreme Court of the United States (192 U. S. 64, 24 Sup. Ct. Rep. 208) it was not upon this point. On the contrary the court expressly reaffirmed the rule as stated by Mr. Justice Brewer in Atlantic & Pacific Telegraph Co. v. Philadelphia, 190 U. S. 160 (23 Sup. Ct. Rep. 817) in the following language: “ When it is authorized -only in support of police supervision, the expense of such supervision determines the amount of the charge; and, if it were possible to prove in advance the exact cost, that would be the limit of the tax. In the nature of things, that, however, is ordinarily impossible; and so the municipality is at liberty to make the charge large enough to cover any reasonably anticipated expenses. It is authorized to fix such charge in advance, and need not wait until the end of the period for which the license is granted. It may not act arbitrarily or unreasonably, but the risk may rightfully be cast- upon the licensee, and the charge cannot be avoided because it subsequently appears that it was somewhat in excess of the actual expense of the supervision, nor can the licensee then recover the difference between the amount of the license and such cost.” Applying this rule to the case in hand, the court was right in rejecting as immaterial and irrelevant the defendant’s offers to prove the actual cost or value of its property in the borough; the space occupied by each of its poles, “ this to show that this property is unreasonably taxed;” the value of abutting properties and the rate at which they were taxed; the cost of reconstructing the line through the borough; the ordinary depreciation of such a line, and the present value of the line; the license fees imposed by other cities and boroughs; the capital stock, bonded indebtedness, net earnings, and the number of poles and miles of wire in the entire system of the company. (See Borough of Kittanning v. Western Union Telegraph Co., post, p. 346, in which we herewith file an opinion.) But the same cannot be said of the defendant’s offers to prove that its line was constructed of the best materials and in the best manner, and was carefully maintained in the best physical condition; that it was located in a sparsely settled community and in such manner as not to endanger or impede public travel; that it was frequently inspected, ,at least once a month, by its expert employees, and immediately repaired, if any deterioration was found therein; the cost of such inspection, not as a conclusive test of the reasonableness of the charge imposed by the borough, but as evidence bearing upon that question; and that the borough made no inspection of the poles and wires, and neither paid out any money nor incurred any expense for that purpose. The foregoing, stated in a general way, was what the defendant offered to prove. Under the authority of the two cases last cited, both of which, it is due to the learned trial .judge to say, were decided after this case was tried, the evidence should have been admitted; and, unless the testimony taken as a whole was such as to compel a decision one way or the other, should have been submitted to the jury with appropriate instructions as to the law applicable to the facts found by them from the conflicting evidence. In Lower Merion v. Postal Telegraph, etc., Co., 25 Pa. Superior Ct. 306, and Norwood v. Western Union Telegraph Co., 25 Pa. Superior Ct. 406, we have discussed at considerable length many of the questions raised by the assignments of error in the present case; it is therefore unnecessary to go over the ground again.
+Judgment reversed and venire facias de novo awarded.
