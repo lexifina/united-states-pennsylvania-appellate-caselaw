@@ -1,0 +1,35 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 115"
+decided: "1933-10-02"
+citations: ["110 Pa. Super. 362"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Cunningham, Baldrige, Stadtfeld, Parker and James, JJ."]
+parties: ["Com. of Pa. ex rel., Snyderman v. Snyderman, Appellant."]
+source_url: "https://static.case.law/pa-super/110/cases/0362-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 969777
+cites_cases: ["90 Pa. Superior Ct. 68"]
+---
+
+# Com. of Pa. ex rel. Snyderman v. Snyderman
+
+## Majority (Stadtfeld, J.,)
+
+Opinion by
+Stadtfeld, J.,
+■ Anna Snyderman, relatrix, filed a ¡petition in the municipal court of Philadelphia County, averring that she is the wife of the defendant, and that the latter had, without reasonable cause, separated himself from relatrix and their child, about four years of age, and neglected to support them and asked for an order'of support.
+A hearing was had on October 21, 1932, before Bonniwell, J., who filed an opinion on January 11, 1933, and entered an order on defendant, directing him to. pay $15 per week for the support of wife and child. From that order this appeal is taken by defendant.
+From the testimony, it appears that the parties were married July 2, 1927. Though they continued to live under the same roof until June 1, 1932, they actually separated on January 1, 1932, at which time they .were living at No. 5652 Berks Street, which property was purchased by the defendant, he paying therefor the sum of $7,500, taking title in the names of himself . and wife. He also, claimed to have expended at least $5,000 of his own money in furnishing the house, though this is denied by relatrix who claimed that the house was furnished with her own money to the extent of $3,200. The house has six rooms and an enclosed porch.
+Defendant is a dentist by profession, having graduated in 1924. Until January 1, 1932, he followed his profession at 1408 South Street. Prior to his marriage, he went to work at the same place in 1926 . in a dental establishment which he claims was owned by his wife, but conducted by her under the name of one of her brothers. She claims she was not the owner of the business, but merely employed there as a bookkeeper. After the marriage, in 1927, defendant became the owner of the business and conducted the same until January 1, 1932. His lease for these premises expired on December 31, .1931, and he was unable to obtain a renewal of the same. These premises. were on November 17, 1931, rented to Dr. Benjamin Kane, a brother of relatrix,- who thereafter conducted the dental business thereon. The negotiations for the lease were conducted by one Michael H. Lipper, a real estate man. who represented Dr. Kane and who also, at the same time, entered into an agreement for the purchase of the property.
+Defendant was unable to obtain a lease of any place in closer proximity to his former place than 1420 South Street, where he followed his profession for three months when, .as he claims, on account of the competition of the business conducted at 1408 South Street, he moved to 15th and South Streets, at which place, as also at 22nd Street and Ridge Avenue, he was following his profession at the time of the hearing.
+Relatrix’s testimony did not disclose any cause for the separation, nor for the alleged desertion. Defendant claimed that in the summer of 1931, when he returned from his vacation, on Labor Day, he found that his wife had moved away and had rented the house and furnishings at No. 5652 Berks Street, theretofore occupied by Mm and Ms family, do some third party; and that h© couldn’t go into the house.
+Relatrix admitted that she had rented; the house, furnished t© one Edward Johnson at $400 a!year, and had received $200 in advance. She claimed that her husband had told her in May of that year that he was making $150 a week from his profession. ■ There was no other testimony on behalf of relatrix as to the earnings of defendant. Defendant testified that when he told Ms wife that he was making $150 a week he referred to his earnings when located at his- former location at No. 1408 South Street. He claimed that his net earnings from the two places now conducted by him do not exceed $25 per week.
+There is notMng in the evidence which would absolve the defendant from his duty to support his wife and child. The sole question inlhis case is the reasonableness of . the order; made by the lower court. The principles governing in cases of .this character are fully discussed in Com. ex rel., v. Milne, 90 Pa. Superior Ct. 68, in an opinion by our; Bro.ther Judge Keller, holding that a wife, under, the circumstances, present in this case, is;not entitled to more than one-third of the income from the property and labor of her husband, and the authorities are so fully reviewed that further comment is unnecessary, . The only distinction is that in tMs case we haye. a wife and one child.
+The. evidence on either side is not yery illuminating or .helpful to the court. It is. quite .natural that defendant’s income would be materially reduced by his enforced removal from his old location, as also that the same business is being conducted at his former location by his wife’s brother. After a careful review of the testimony, and considering the fact that the relatrix is in receipt of the rents of the residence at No. 5652 Berks Street, which was purchased and paid for by defendant, we believe that the order of the lower court, directing the payment of $15 per week, is excessive and should be modified by reducing the same to $11 per week.
+The order of the court below is modified and it is now ordered that the respondent pay to his wife, Anna Snyderman, for the support of herself and child, the sum of eleven dollars per week, from June 1, 1932, (the date of last payment under the order of the court below) and give bond or enter into a recognizance, with security to be approved by the municipal court of Philadelphia County, or a judge thereof, in the sum of five hundred ($500) dollars, for the faithful performance of this order, and pay the costs, in the court below, and on this appeal, and stand committed until the order is complied with.
+AMENDMENT TO' ORDER .
+And Now, to wit: October 5, 1933, the order of this court filed with the opinion on October 2nd, is amended to read as follows:
+The order of the court below is modified and it is now ordered that the respondent pay to his wife, Anna Snyderman, for the support of herself and child, the sum of eleven dollars per week from January 11,1933, and give bond or enter into a recognizance, with security to be approved by the municipal Court bf Philadelphia County, or a judge thereof, in the sum of five hundred dollars ($500), for the faithful performance of this order, and pay the costs in the court below, and on this appeal, and stand committed until the order is complied with.
