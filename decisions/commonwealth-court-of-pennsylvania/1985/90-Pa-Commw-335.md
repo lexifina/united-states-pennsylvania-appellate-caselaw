@@ -1,0 +1,51 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeals, Nos. 165 C.D. 1984 and 166 C.D. 1984"
+decided: "1985-07-09"
+citations: ["90 Pa. Commw. 335"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Craig and Colins, ¡and ¡Senior Judge Kalish, sitting as. ,a panel of three."]
+parties: ["Janet Rosen, Appellant v. Montgomery County Intermediate Unit No. 23, Appellee. Phoebe Baxter, Appellant v. Montgomery County Intermediate Unit No. 23, Appellee."]
+source_url: "https://static.case.law/pa-commw/90/cases/0335-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1336217
+cites_cases: ["15 Pa. Commonwealth Ct. 214", "28 Pa. Commonwealth Ct. 170", "325 A.2d 490", "367 A.2d 1130", "408 A.2d 888", "426 A.2d 186", "442 A.2d 1223", "47 Pa. Commonwealth Ct. 390", "57 Pa. Commonwealth Ct. 42", "65 Pa. Commonwealth Ct. 461"]
+---
+
+# Rosen v. Montgomery County Intermediate Unit No. 23
+
+## Majority (Judge Craig,)
+
+Opinion by
+Judge Craig,
+In these two consolidated cases, Janet Rosen and Phoebe Baxter appeal the orders of the Court of Common Pleas of Montgomery County which dismissed their petitions for review ¡of adjudications by the Montgomery County Intermediate Unit Board of School Directors upholding the suspensions of Rosen ■and Baxter from their tenured teaching positions in the gifted program at Montgomery County Intermediate Unit No. 23 (I.U.).
+We must determine whether either the board or the common pleas court correctly concluded, albeit for different reasons, that the suspensions were valid under the Public School Code of 1949.
+Because of changes in government funding procedures for intermediate units, the board determined that it would be more effective economically to turn back some of the programs conducted at the I.U. to the individual participating school districts. Consequently, the board adopted a resolution transferring the gifted program, among others, back to the individual school districts, and .suspending some professional employees, including Rosen and Baxter, who challenged the validity of their suspensions at hearings before the board.
+The suspension of a tenured professional public school employee is valid only if it conforms with the requirements of section 1124 of the Code, which provides :
+Any board of school directors may suspend the necessary number of professional .employes, for any of the causes hereinafter enumerated:
+(1) Substantial decrease in public enrollment in tbe school district;
+(2) Curtailment or alteration of the educational program on recommendation of the superintendent, concurred in by the board of school directors, approved by the Department of Public Instruction, as a result of substantial decline in class or course enrollments or to conform with standards of organization or educational activities required by law or recommended by the Department of Public Instruction;
+(3) Consolidation of schools . . . . ;
+(4) When new school districts are established as the result of reorganization of school districts ..... (Emphasis added.) .
+See, e.g., Fatscher v. Board of School Directors, 28 Pa. Commonwealth Ct. 170, 367 A.2d 1130 (1977).
+Clearly, only the causes under (1) and (2), above, can be involved here; there has been no consolidation to invoke (3) nor reorganization to make (4) applicable.
+■The board found that funding problems prompted the transfer of the gifted program back to the school districts, resulting in a decline in enrollment at the I.U. ■ The board therefore upheld the suspensions of Rosen and Baxter “due to a decline in enrollment” which is the permissible basis for suspension under section 1124(1) of the Code, 24 P.S. §11-1124(1).
+On appeal from that decision, however, the common pleas court instead held that the suspensions were proper under section 1124(2) of the Code, 24 P.S. §11-1124(2). The court concluded that the board had obtained the necessary approvals specified in that section, and that the transfer of the gifted program was done “to conform with standards of organization or educational activities required by law. ...” . Having found an alternative ground for validating the suspensions, the common pleas court did not consider the correctness of the board’s finding of declining enrollment and conclusion that Rosen and Baxter’s suspensions were valid under section 1124(1) of the Code, 24 P.S. §11-1124(1).
+The common pleas court concluded that this case is indistinguishable from Cadonic v. Northern Area Special Purpose Schools, 57 Pa. Commonwealth Ct. 42, 426 A.2d 186 (1981), where a decrease in federal funding for a guidance counsellor program at a joint vocational-technical unit necessitated the elimination of the centralized program in favor of individual programs by participating school districts. In Cadonic, this court concluded that the elimination of the guidance counsellor program did not result from a decline in enrollment under section 1124(1) of the Code, 24 P.S. §11-1124(1), but that the program was eliminated “to conform with the standards of organization and educational activities required by law” under section 1124(2) of the Code, 24 P.S. §11-1124(2). Relying on Sporie v. Eastern Westmoreland Area Vocational-Technical School, 47 Pa. Commonwealth Ct. 390, 408 A.2d 888 (1979), we held that, by virtue of section 1106 of the Code, 24 P.S. §11-1106, which authorizes the school board to hire only necessary teachers, the elimination of the guidance program and suspension of the counsellors was “required by law.”
+Cadonic is distinguishable, however, in one important respect. There the board did obtain all the approvals necessary for a valid suspension under seetion 1124(2), including approval' from the Department of Education (formerly the Department of Public Instruction).
+Contrary to the view expressed by the common pleas court as to departmental approval, our review of the record does not disclose any evidence that the Department of Education approved the “alteration of the educational program,” i.e., the transfer of the gifted program. Record evidence includes correspondence between the department and the board, documenting that the department advised the board that suspensions pursuant to section 1124(1) of the Code, 24 P.S. §11-1124(1), for declining enrollment do not require departmental approval. The letter’s content, insofar as it expresses the departmental action, reads:
+Section 1124(1) of the Public School Code of 1949, as amended, gives local boards the authority to suspend professional staff without department approval. This authority is granted to local boards based on a substantial decline in districtwide enrollments. In reviewing your letter, it appears the Montgomery County Intermediate Unit action is predicated on a substantial decline in districtwide enrollment.
+That letter does not establish that the Department of Education approved the program “alteration” or “[e]urtailment” as required by section 1124(2) of the Code, 24 P.S. §11-1124(2), nor that the department recommended it.
+Although we conclude, contrary to the common pleas court, that the board did not meet the requirements of section 1124(2) of the Code, 24 P.S. §11-1124(2), that subsection, and not section 1124(1), upon which the board relied, is the only appropriate basis for a valid suspension in this case. In Cadonic, this court consistently held, in a factually similar setting, that a suspension stemming from the eHmination of an educational program due to a change in funding procedures was not a result of declining enrollment. In cases like this one, school boards may not avoid the requirement of section 1124(2) for approval from the Department of Education by characterizing a •suspension as necessitated by decHning enrollment when it was actually precipitated by an economically motivated curriculum reorganization. The analysis illustrated by Cadonic does not permit acceptance of the board’s attempt to place this case under section 1124(1) by contending that there was an I.U. enrollment decHne as a consequence of the willingness of the school districts to take back the programs.
+Hence, section 1124(1) of the Code, 24 P.,S. §H-1124(1) was not an appropriate basis for the suspensions of Rosen and Baxter, and, in view of the absence of the required departmental approval, section 1124 (2) also provided no warrant for those suspensions.
+Accordingly, we reverse.
+•Obdeb. in 165 C.D. 1984
+The order of the Court of Common Pleas of Montgomery County, at Civil Action-Law, No. 82-11012, is reversed and remanded, for reinstatement of appellant to the position previously held, and for computation and payment to appellant of back pay and benefits accruing from the date of suspension, less the amount of appellant’s earnings from other sources during that period.
+Obdeb in 166 C.D. 1984
+The order of the Court of Common Pleas of Montgomery County, at Civil Action-Law, No. 82-11241, is reversed and remanded, for reinstatement of appellant to the position previously held, and for computatiou and payment to appellant of back pay and benefits accruing from tbe date of suspension, less the amount of appellant’s earnings from other sources during that period.
+Where, as here, the common pleas court has taken no additional evidence, our scope of review is limited to a determination of whether the local agency abused its discretion, committed an error of law, or violated the employee’s constitutional rights, and whether the local agency’s findings of fact are supported by substantial evidence. Acitelli v. Westmont Hilltop School District, 15 Pa. Commonwealth Ct. 214, 325 A.2d 490 (1974).
+The Act of March 10, 1949, P.L. 30, as amended, 24 P.S. §§1-101 through 27-2702.
+Under section 1372(3) of the Code, 24 P.S. §13-1372(3), the individual school districts are primarily responsible for providing special education programs.
+Where an administrative agency assigns an erroneous reason to a correct decision, but tbe record reflects tbe correct basis for that decision, a court should affirm the agency’s decision. Haney v. Workmen’s Compensation Appeal Board, 65 Pa. Commonwealth Ct. 461, 442 A.2d 1223 (1982).
