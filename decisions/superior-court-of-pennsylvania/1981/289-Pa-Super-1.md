@@ -1,0 +1,59 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2636"
+decided: "1981-07-17"
+citations: ["289 Pa. Super. 1", "432 A.2d 1020"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before SPAETH, HESTER and CAVANAUGH, JJ.", "SPAETH, J., files a concurring opinion.", "CAVANAUGH, J., concurs in the result."]
+parties: ["COMMONWEALTH of Pennsylvania, v. Joseph F. WEISS, Appellant."]
+source_url: "https://static.case.law/pa-super/289/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 167572
+cites_cases: ["235 A.2d 349", "241 Pa.Super. 109", "262 Pa.Super. 14", "263 Pa.Super. 220", "264 Pa.Super. 515", "271 A.2d 481", "271 Pa.Super. 572", "309 A.2d 720", "312 A.2d 597", "316 A.2d 77", "321 A.2d 608", "394 A.2d 497", "394 A.2d 501", "397 U.S. 759", "427 Pa. 599", "433 A.2d 1", "434 A.2d 103", "440 Pa. 590", "454 Pa. 368", "454 Pa. 95", "455 Pa. 198", "456 Pa. 377", "460 Pa. 324", "467 Pa. 464", "471 Pa. 50", "477 Pa. 266", "482 Pa. 608", "482 Pa. 626", "483 Pa. 377", "483 Pa. 53", "484 Pa. 163", "486 Pa. 474", "491 Pa. 586", "494 Pa. 592"]
+---
+
+# Commonwealth v. Weiss
+
+## Majority
+
+HESTER, Judge:
+On October 11, 1977, appellant Joseph F. Weiss appeared in the Court of Common Pleas, Berks County, and tendered pleas of guilty to three counts of burglary. Pursuant to the negotiated bargain, he was sentenced to three concurrent prison terms of four to ten years each, to begin at the expiration of a term appellant was then serving. No petition to withdraw the plea was filed, but on January 29, 1979, the instant petition under the Post Conviction Hearing Act was filed challenging the plea and alleging ineffective assistance of counsel. Following an evidentiary hearing on July 24, 1979, at which appellant acted as his own counsel, relief was denied. This appeal followed.
+Ordinarily a party on appeal who seeks to challenge a guilty plea must first have filed a motion to withdraw the plea in the court where it was entered. Commonwealth v. Dowling, 482 Pa. 608, 394 A.2d 488 (1978); Commonwealth v. Lee, 460 Pa. 324, 333 A.2d 749 (1975); Pa.R.Crim.P. 319-321. However, where as here, an appellant attacks a plea of guilty on the basis that trial counsel’s ineffectiveness contributed to the plea and where appellant was represented post-trial by the same counsel, we have permitted appellate review of the claim on the merits. Commonwealth v. Unger, 494 Pa. 592, 432 A.2d 146, (1980); Commonwealth v. Ford, 491 Pa. 586, 421 A.2d 1040, (1980); Commonwealth v. Ford, 484 Pa. 163, 398 A.2d 995 (1979); Commonwealth v. Ray, 483 Pa. 377, 396 A.2d 1218 (1979); Commonwealth v. Jones, 477 Pa. 266, 383 A.2d 926 (1978); Commonwealth v. Mabie, 467 Pa. 464, 359 A.2d 369 (1976); Commonwealth v. Miller, 495 Pa. -, 433 A.2d 1 (1981).
+Appellant’s attack upon his plea focuses on several alleged inadequacies in the plea colloquy and counsel’s ineffectiveness in failing to correct those shortcomings. Of course, the lower court must engage in a colloquy on the record to ascertain whether a proffered plea of guilty is intelligent and voluntary. Commonwealth v. Chumley, 482 Pa. 626, 394 A.2d 497 (1978); Commonwealth v. Willis, 471 Pa. 50, 369 A.2d 1189 (1977). Inquiry into six separate areas is required and failure to inquire into the defendant’s understanding of these subjects generally requires reversal. Chumley, supra, 482 Pa. at 634, 394 A.2d 501.
+Appellant first contends that an adequate factual basis for his plea was not established. However, the record shows that the court first summarized the averments of the three burglaries at issue, including time and place, and asked appellant if he admitted guilt in the incidents, to which he replied, “yes”. Colloquy, p. 3. In Commonwealth v. Ingram, 455 Pa. 198, 316 A.2d 77 (1974), the Court held the accused’s admission of guilt in the crime as summarized by the judge provided a sufficient factual basis for the court to accept the plea. Thus, the colloquy instantly was not deficient in this respect.
+Next, appellant urges he was not told the nature of the charges to which he was pleading guilty. However, the court informed appellant:
+Burglary is not necessarily a crime of taking. Burglary is established whether there has been a taking or not. The essence of burglary in ordinary language, Mr. Weiss, is the unlawful entry into a property and at the time there is an intention to commit an illegal act inside. The crime is complete with the entry and the intention, whether or not the activity inside is successful or not.
+Do you understand what I have said?
+THE DEFENDANT: Yes, Your Honor,
+id., p. 2.
+The court then outlined some of the defenses which appellant may assert against such charges. Thus, the record reflects that “the elements of the crimes charged were outlined in understandable terms.” Ingram, supra. That appellant was not advised of all possible defenses does not render the plea invalid. Commonwealth v. Stokes, 264 Pa.Super. 515, 400 A.2d 204 (1979).
+Next, appellant contends he was not properly apprised of his right to a jury trial. During the colloquy, the only statements of the court relating to this issue were: “You are giving up, if I accept your plea, the right to trial by jury, which is a constitutional right you enjoy.” id., p. 3. In Commonwealth v. Williams, 454 Pa. 368, 312 A.2d 597 (1973), the Supreme Court delineated the essential ingredients of a jury trial which are necessary to understand the significance of that right:
+“ ‘These essential ingredients, basic to the concept of a jury trial, are the requirements that the jury be chosen from members of the community (a jury of one’s peers), that the verdict be unanimous, and that the accused be allowed to participate in the selection of the jury panel.” Williams, 454 Pa. at 373, 312 A.2d at 600.
+If these factors are not explained to the accused, the court cannot assume that the waiver of a jury trial was knowingly and intelligently made. Commonwealth v. Ward, 483 Pa. 53, 394 A.2d 535 (1978); Commonwealth v. Dello Buono, 271 Pa.Super. 572, 414 A.2d 631 (1979); Commonwealth v. Coxson, 262 Pa.Super. 14, 396 A.2d 460 (1978). Here, it is clear that the colloquy was deficient under Williams standards and that the waiver of a jury trial was not valid.
+Lastly, appellant avers that the court did not accurately explain the possible range of fines for the three burglaries. The record does indeed reflect that appellant was only told he could possibly be fined $25,000, when in fact the maximum fine for three first degree burglaries could be $75,000. Thus, we agree with appellant that the colloquy was in error as to this area.
+The presence of these two deficiencies in the colloquy—invalid waiver of a jury trial and inaccurate statement of range of fines—does not alone require reversal for we must next determine if counsel was ineffective in failing to bring these defects to the court’s attention. It is, of course, well settled that counsel will not be deemed ineffective if the course of action chosen had some reasonable basis designed to effectuate his client’s interest. Commonwealth ex rel. Washington v. Maroney, 427 Pa. 599, 235 A.2d 349 (1967). Here, it is clear that counsel believed appellant was receiving a very favorable bargain in return for his plea. At the PCHA hearing, counsel testified, “I felt from a legal standpoint you [appellant] had a very strong case against you. Additionally, you openly admitted that you were involved in the museum burglary ... So from a legal perspective I felt that there would be a very strong possibility that you would be found guilty because of your confessions, because of evidence which you surrendered to the police ... I had advised you and cautioned you that I believe that the plea bargain may be the best way for you to proceed in the case . . . [The] felonies would be handled in concurrent sentences and .. . you would be serving no more time for the two additional felonies than you would already be serving for the museum burglary. So I felt that I had accomplished my goal of giving you able assistance and giving you opportunity for . . . rehabilitation rather than a long, projected period of incarceration . . . [Y]ou were facing 40 to 60 years in these matters.” pp. 37-8. We do not hesitate in finding that counsel’s strategy in not objecting to the colloquy was very reasonable. Had an objection been registered, the plea may have been invalidated and appellant could have faced much stiffer sentencing at trial. Since there was a reasonable basis for counsel’s decision, we do not find his stewardship lacking.
+Finally, appellant avers that his guilty plea was motivated by an involuntary confession he gave to the police on December 22, 1976. In Commonwealth v. Maute, 263 Pa.Super. 220, 225, 397 A.2d 826, 828 (1979), we said:
+In order to attack his guilty plea on the grounds it was based on an unlawfully obtained confession, appellant must prove all of the following: (1) the confession was in fact unlawfully obtained; (2) the confession was the prime motivation of the guilty plea; and (3) the guilty plea was entered on the incompetent advice of counsel. Commonwealth v. Williams, 456 Pa. 377, 321 A.2d 608 (1974); Commonwealth v. Butler, 454 Pa. 95, 309 A.2d 720 (1973); Commonwealth v. Marsh, 440 Pa. 590, 271 A.2d 481 (1970); Commonwealth v. Reiland, 241 Pa.Super. 109, 359 A.2d 811 (1976); cf. McMann v. Richardson, 397 U.S. 759, 90 S.Ct. 1441, 25 L.Ed.2d 763 (1970).
+In the instant case, it is clear that the confession was not the “prime motivation” for the plea. During the PCHA hearing, counsel testified:
+I know I asked you [appellant] at that point [i. e., the day the plea was entered] why have you changed your mind, why have you decided to take a plea bargain, and you said because you were involved in it, you were guilty of it and you felt this was the best way to handle it.
+Hearing 7/24/79, p. 38.
+Appellant offered no testimony in rebuttal of this assertion. Hence, the record fully supports the conclusion that appellant’s prime motivation to plead guilty was that he was guilty, and not because he had given an allegedly involuntary confession. Since the second requirement of Maute, supra, is not satisfied, we need not decide whether the remaining two have been met.
+Order affirmed.
+SPAETH, J., files a concurring opinion.
+CAVANAUGH, J., concurs in the result.
+. Act of January 25, 1966, P.L. (1965) 1580, No. 554 (19 P.S. § 1180-1 et seq.); repealed effective 6/27/81, 42 Pa. C.S.A. § 20002 [1397]; see Act No. 1980-77.
+. (1) Does the defendant understand the nature of the charges to which he is pleading guilty?
+(2) Is there a factual basis for the plea?
+(3) Does the defendant understand that he has the right to trial by jury?
+(4) Does the defendant understand that he is presumed innocent until he is found guilty?
+(5) Is the defendant aware of the permissible range of sentences and/or fines for the offenses charged?
+(6) Is the defendant aware that the judge is not bound by the terms of any plea agreement tendered unless the judge accepts such agreement?
+Comment to Pa.R.Crim.P. 319.
+
+## Concurrence (SPAETH, Judge,)
+
+SPAETH, Judge,
+concurring:
+I join the majority opinion, because, as appears from the opinion, the record shows that appellant’s counsel negotiated a favorable plea bargain, and appellant understood the bargain and was satisfied to accept it rather than go to trial. In these circumstances counsel’s failure to challenge the defective colloquy had a reasonable basis designed to effectuate appellant’s interests. Accordingly, counsel was not ineffective. Commonwealth v. Newell, 486 Pa. 474, 406 A.2d 733 (1979); Commonwealth v. Simpson, 290 Pa.Super. -, 434 A.2d 103 (1981).
