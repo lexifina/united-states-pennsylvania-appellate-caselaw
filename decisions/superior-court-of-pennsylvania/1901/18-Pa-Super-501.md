@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 18"
+decided: "1901-12-16"
+citations: ["18 Pa. Super. 501"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beavee, Orlady, W. W. Poster and W. D. Portee, JJ."]
+parties: ["Cumberland County, Appellant, v. Vale."]
+source_url: "https://static.case.law/pa-super/18/cases/0501-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 837360
+cites_cases: ["11 La. Ann. 244", "11 Pa. 201", "114 Pa. 470", "130 Pa. 546", "133 Pa. 189", "133 Pa. 521", "133 Pa. 598", "134 Pa. 144", "135 Pa. 102", "145 Ill. 451", "151 Pa. 549", "156 Pa. 362", "166 Pa. 507", "18 Pa. 189", "181 Pa. 197", "184 Pa. 594", "194 Pa. 318", "24 L. R. A. 787", "26 W. N. C. 120", "28 L. R. A. 517", "3 W. N. C. 62", "31 Pa. 175", "31 Pa. 182", "35 Pa. 236", "36 L. R. A. 777", "37 Pa. 503", "4 Kulp, 37", "41 Pa. 269", "46 N. J. L. 62", "47 Pa. 329", "47 Pa. 331", "53 Pa. 206", "53 Pa. 209", "6 Wh. 25", "61 Pa. 302", "63 Minn. 330", "7 Kulp, 470", "99 Pa. 337"]
+---
+
+# Cumberland County v. Vale
+
+## Majority (William W. Porter,)
+
+Opinion by
+William W. Porter,
+This action was taken by the councils of the borough of Car-lisle, on June 24, 1889: “ Moved that permission be given to the residents owning property along Mulberry Alley from the Church to the Spring to dig up the alley for the purpose of laying pipes for drainage. Carried.” At a meeting of the borough councils held September 18, 1900, this resolution was unanimously passed: “ Resolved, that in view of the petition presented to Council by the citizens of the First Ward and the report of a committee from the Board of- Health, that the commissioners of Cumberland County, and all parties or persons using the drain pipe on Mulberry Alley discharging into the spring, be notified to discontinue the use of the same within thirty days of date of notice of same, or pipe will be removed.”
+The bill filed in this case is to enjoin the borough from executing the notice recited in the last resolution. The court below has rightly refused to continue the preliminary injunction and has dismissed the bill. When the first action above quoted, was taken by borough councils the commissioners of the county jail and the owners of two or three properties on Mulberry alley, were unable or unwilling to properly dispose of the sewage. The result was that the sewage overflowed the highways and ran upon private property. The condition was perilous to health. Thereupon, the permission was given to lay drain pipes on Mulberry alley. The work was done at the cost of the parties benefited. The drain pipe as laid conducted the sewage from the county jail and other properties into a spring or run called Letort spring. It appears that the drain debouched hato the spring for nearly ten years and that the secretions became of such character and amount that the stream was alleged to have become polluted and the public health imperiled. Councils undertook, by the second action above quoted, to withdraw the permission before given and to compel the private property owners and the county commissioners to make provision for sewage in some manner other than through the drain into Letort spring.
+The contention of the appellants is that the first action of councils constituted a contract between the borough and the parties who constructed the drain. Little need be said on this point. The action taken was not by ordinance. It fulfilled none of the legal requirements of such legislation. It was not even a resolution. It was simply a motion; uncontractual in purpose and simply permissive in terms. Nothing was expressed to show that the permission was other than temporary. Furthermore, there is nothing in the motion which gives permission to do anything but to lay drain pipes on Mulberry alley. The motion does not by express terms permit the discharge of sewage into Letort spring. The resolution of September 30, 1900, notified the parties to discontinue the use of the drain pipe discharging into the spring. While this place of discharge for the drain may have been in contemplation, yet it was not expressly permitted by the motion of June 24,1889. The present withdrawal of the permission may thus be said to be based upon a use of the drain not comprehended by the expressed terms of the original permission. Aside from this, the drain now fouling Letort spring is laid in the public highway. We are unable to find any facts disclosed in the case, or any principle of law presented, which estops the borough councils from recalling the permission to occupy the public highway. It is within the power and it is a part of the duty of councils to prevent such use of the public highways as results in injury to public health. Further than this, a municipality may not even by contract circumscribe its power to perform the duty of preserving the health of the community, and may even defeat the title of its own grantee when necessary to the performance of such duty: Western Saving Fund Society v. Phila., 31 Pa. 182. We have examined the voluminous testimony presented in this case, and find nothing therein to lead us to convict the court below of error in the finding of facts.
+The decree is therefore affirmed.
