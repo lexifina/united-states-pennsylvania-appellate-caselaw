@@ -1,0 +1,48 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1488 C.D. 1975"
+decided: "1976-07-16"
+citations: ["25 Pa. Commw. 522"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Wilkinson, Jr., Mencer and Blatt, sitting as a panel of three.", "Judge Rogers did not participate in the decision in this case."]
+parties: ["In Re: Claim of James Wright. Unemployment Compensation Board of Review of the Commonwealth of Pennsylvania. James Wright, Appellant."]
+source_url: "https://static.case.law/pa-commw/25/cases/0522-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1875286
+cites_cases: ["10 Pa. Commonwealth Ct. 275", "111 A.2d 174", "13 Pa. Commonwealth Ct. 8", "14 Pa. Commonwealth Ct. 445", "159 A.2d 37", "167 Pa. Superior Ct. 501", "17 Pa. Commonwealth. Ct. 281", "177 Pa. Superior Ct. 294", "18 Pa. Commonwealth Ct. 92", "191 Pa. Superior Ct. 646", "20 Pa. Commonwealth Ct. 162", "22 Pa. Commonwealth Ct. 225", "24 Pa. Commonwealth Ct. 474", "291 A.2d 118", "310 A.2d 707", "317 A.2d 897", "322 A.2d 807", "330 A.2d 886", "333 A.2d 831", "341 A.2d 221", "348 A.2d 497", "349 A.2d 787", "357 A.2d 230", "5 Pa. Commonwealth Ct. 491", "76 A.2d 493"]
+---
+
+# In re Claim of Wright
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+James Wright (claimant) appeals to this Court from an adjudication of the Unemployment Compensation Board of Review. (Board) denying to him unemployment compensation benefits because of its determination that he was in violation of the availability-for-work provisions found in Section 401(d) of the Unemployment Compensation Law, Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §801 (d).
+As applied to claimant, Section 401(d) prohibits him from so restricting his future availability for potential work as to render himself not realistically attached to the labor market. “Section 401(d) seeks to insure that claimants are realistically attached to the labor force; i.e., they are able to do some type of work, and there is reasonable opportunity for securing such work in the vicinity in which they live. Shay Unemployment Compensation Case, 177 Pa. Superior Ct. 294, 111 A.2d 174 (1955).” Unemployment Compensation Board of Review v. Matthys, 24 Pa. Commonwealth Ct. 474, 478, 357 A.2d 230, 232 (1976).
+With the foregoing legal principles in mind, we turn to the Board’s opinion where it set forth the following findings:
+“1. Claimant was last employed as a Delivery Clerk by the Reedman Corporation at a final rate of $4.10 an hour and his last day of work was December 3,1974.
+“2. During the period at issue, the claimant was employed by the Reedman Corporation on a part-time basis and filed partial claims.
+“3. When the claimant filed his application for employment with the Reedman Corporation on August 19,1974, he stated on the application that he was ‘returning to school — need part-time job.’
+“4. During the period at issue, the claimant was a Business Administration and pre-law student at Temple University with classes from 10 a.m. to 1 p.m., Monday, Wednesday and Friday.
+“5. The claimant is single, 20 years old and living with his parents.
+“6. Although the claimant is not considered a full-time student, he is taking ten credit hours, or only two less than the required twelve for full-time students.
+“7. The claimant has never worked full time while attending school, except during the summer months.
+“8. The claimant is primarily a student and not a worker.”
+Our review of the Board’s adjudication is confined to questions of law and, absent fraud, to a determination of whether the Board’s findings are supported by the evidence. Unemployment Compensation Board of Review v. Devlin, 20 Pa. Commonwealth Ct. 162, 341 A.2d 221 (1975). Additionally, we note that the party prevailing below — here, the employer — is to be given the benefit of any inferences which can reasonably be drawn from the evidence. Unemployment Compensation Board of Review v. Shrump, 22, Pa. Commonwealth Ct. 570, 349 A.2d 787 (1975).
+Initially, claimant objects to the Board’s eighth finding as being a conclusion of law and therefore not an acceptable, finding of fact. We must agree. The primary legal issue to be determined in a Section 401 (d) student adjudication is the legal determination of student status. While it is true that availability is largely a factual question to be determined by the Board, see Gulbin Unemployment Compensation Case, 191 Pa. Superior Ct. 646, 159 A.2d 37 (1960), the statement in “finding” 8 wholly determines the legal issue here and is not a real factual finding. Findings of fact are constructed of conclusions concerning the weight and credibility given the testimony and other evidence. Such is not the characteristic of No. 8. It therefore shall be ignored. See Lee v. McMinn Industries, Inc., 167 Pa. Superior Ct. 501, 76 A.2d 493 (1950).
+The remaining seven findings of fact are amply supported by evidence in the record. Generally, claimant’s objections to these findings are premised on the Board’s failure to accept his testimony during the hearing as opposed to his prior admissions at the Bureau level. This, of course, concerns a question of credibility and we may not invade the Board’s province in this regard. In fact, we have held that the Board is empowered to reject even the uncontradicted evidence of a claimant if it could conclude that his testimony was not credible or worthy of belief. See Unemployment Compensation Board of Review v. Hart, 22 Pa. Commonwealth Ct. 225, 348 A.2d 497 (1975); Edelman v. Unemployment Compensation Board of Review, 10 Pa. Commonwealth Ct. 275, 310 A.2d 707 (1973). Here the Board has properly exercised its function as the factfinder. Our sole remaining duty then is to examine these findings to determine-.whether the Board drew a correct legal conclusion in. denying benefits.
+.' .We have in the past held that there is in the law a rebuttable presumption that a full-time student is not available for work within the strictures of Section 401(d). See Woodley v. Unemployment Compensation Board of Review, 13 Pa. Commonwealth Ct. 8, 317 A.2d 897 (1974). The findings here reveal that claimant has failed to rebut that presumption.
+The facts here are remarkably similar to those found in Popelas v. Unemployment Compensation Board of Review, supra note 2. In Pópelas, Judge Wilkinson specifically noted claimant’s testimony that “[t]his is the thing [job] that was getting me through college.” 18 Pa. Commonwealth Ct. at 94, 333 A.2d at 831. Quite similar evidence appears in this record.. It is obvious here that- claimant was attempting to subsidize Ms college career through part-time and occasional full-time employment. Although there is testimony in the record concerning claimant’s willingness to abandon college, at least temporarily, if necessary, for full-time employment, we can find no error in the Board’s conclusion that claimant’s profession was that of a student. The fact that claimant took two credit hours less than a normal full-time student certainly cannot per se exclude him from the Woodley presumption.
+As we have often noted, “[w]e can only conclude that the purpose of unemployment compensation benefits is to relieve the economic hardships of sudden unemployment and provide temporary assistance in meeting, in part, the economic burdens which continue as ever-present companions of .unemployment. The Legislature never intended to partially subsidize the expenses of education by making available the funds created under the Unemployment Compensation Law. Gulbin Unemployment Compensation Case, 191 Pa. Superior Ct. 646, 159 A.2d 37 (1960).” Graham v. Unemployment Compensation Board of Review, 14 Pa. Commonwealth Ct. 445, 448, 322 A.2d 807, 808 (1974). While this is a close case on the record, we are compelled by law to restrict our review to the supported factual findings of the Board. The facts as found by the Board distinguish this case from Patronas v. Unemployment Compensation Board of Review, 5 Pa. Commonwealth Ct. 491, 291 A.2d 118 (1972), and associated cases.
+We therefore issue the following
+Order
+And Now, this 16th day of July, 1976, the order of the Unemployment Compensation Board of Review denying the claim of James Wright for unemployment compensation benefits is hereby affirmed.
+Judge Rogers did not participate in the decision in this case.
+Section 401(d) provides, in part:
+“Compensation shall be payable to any employe who is or becomes unemployed, and who—
+“(d) Is able to work and available for suitable work . . . ,”
+Olaimant’s reliance on Myers v. Unemployment Compensation Board of Review, 17 Pa. Commonwealth. Ct. 281, 330 A.2d 886 (1975), and Shay Unemployment Compensation Case, 177 Pa. Superior Ct. 294, 111 A.2d 174 (1955), is misplaced. In Popelas v. Unemployment Compensation Board of. Review, 18 Pa. Commonwealth Ct. 92, 333 A.2d 831 (1975), we distinguished the application of the Unemployment Compensation Law between a claimant who is a worker and a claimant who is primarily a student. We believe this principle is clearly applicable' to distinguish the current facts from those in Myers and Shay. After carefully reexamining the reasoning in Popelas, we see no reason to modify that holding.
+In answer to the question “What is your regular occupation?” found on the Bureau’s “Identification Questionnaire,” claimant wrote in the word “Student.” In his reapplication for employment at Reedman, claimant stated as his reason for applying, “Returning to school — need part-time job.”
