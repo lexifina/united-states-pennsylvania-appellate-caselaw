@@ -1,0 +1,40 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1285"
+decided: "1989-03-31"
+citations: ["383 Pa. Super. 239", "556 A.2d 886"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before OLSZEWSKI, BECK and JOHNSON, JJ."]
+parties: ["Paul DAMICO, Appellant, v. ROYAL INSURANCE COMPANY, Appellee."]
+source_url: "https://static.case.law/pa-super/383/cases/0239-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 464401
+cites_cases: ["224 N.J.Super. 552", "230 N.J.Super. 111", "345 A.2d 709", "377 Pa.Super. 341", "464 Pa. 17", "464 Pa. 377", "472 Pa. 331", "483 Pa. 68", "494 Pa. 476", "540 A.2d 1344", "552 A.2d 1023"]
+---
+
+# Damico v. Royal Insurance
+
+## Majority (BECK, Judge:)
+
+BECK, Judge:
+The issues before this court involve whether a dismissal without prejudice for failure to join an indispensable party is an appealable order and whether that party was in fact indispensable. We conclude that the trial court’s decision that it lacked jurisdiction because of the failure to join an indispensable party was an appealable order and that the trial judge correctly concluded that the party not joined was indispensable. Therefore, we affirm.
+The cause of action in this case stems from an automobile accident. Appellant sought recovery from Royal Insurance Company, the only defendant named in this case. After a motion to dismiss by Royal Insurance, the trial court ruled that under the applicable law, the New Jersey Automobile Full Insurance Underwriting. Association (JUA) was an indispensable party to the action. The court ordered that the claim be dismissed without prejudice.
+We first address the question of appealability. An appeal lies only from a final order unless otherwise provided by statute. Pugar v. Grego, 483 Pa. 68, 394 A.2d 542 (1978). See also Pa.R.A.P. 341; 42 Pa.Cons.Stat.Ann. § 742 (Purdon 1981). An order is considered final for purposes of appeal when it ends the litigation or disposes of the entire case. Fox v. Gabler, 377 Pa.Super. 341, 547 A.2d 399, 462 (1988) (citing, T.C.R. Realty, Inc. v. Cox, 472 Pa. 331, 337, 372 A.2d 721, 724 (1977)).
+In the present action, the lower court dismissed the action without prejudice because the appellant failed to join an indispensable party. “[Wjhenever it appears by suggestion of the parties or otherwise that there has been a failure to join an indispensable party, the court shall dismiss the action.” Pa.R.C.P. 1032(2). Rule 1632(2) reflects the fact that in the absence of an indispensable party, the court lacks jurisdiction over the matters before it that affect the rights of that missing party. Columbia Gas Transmission v. Diamond Fuel Co., 464 Pa. 377, 346 A.2d 788 (1975). Thus, the trial judge necessarily dismissed the present action without reaching the merits of appellant’s claims since any order of the court on the merits would have been null and void for want of jurisdiction. Id; see also Pocono Pines Corp. v. Pennsylvania Game Commission, 464 Pa. 17, 345 A.2d 709 (1975). Therefore, the order of the trial court dismissing the case for lack of jurisdiction due to failure to join an indispensable party is a final and appeal-able order as it puts the parties out of court in the case without reaching the merits of the action. The fact that the dismissal was without prejudice thereby permitting the plaintiff to reassert the action in another lawsuit does not affect the finality of the order.
+We next address the issue of whether the JUA is an indispensible party. “[A]n indispensable party is one whose rights are so directly connected with and affected by litigation that he must be a party of record to protect such rights....” Columbia Gas Transmission Corp. v. Diamond Fuel Co., supra, 464 Pa. at 379, 346 A.2d at 789. A determination of indispensability may include the following considerations:
+1. Do absent parties have a right or interest related to the claim?
+2. If so, what is the nature of that right or interest?
+3. Is that right or interest essential to the merits of the issue?
+4. Can justice be afforded without violating the due process rights of absent parties?
+Mechanicsburg Area School District v. Kline, 494 Pa. 476, 481, 431 A.2d 953, 956 (1981).
+For the following reasons we conclude that the JUA is an indispensable party. In 1984, New Jersey enacted the New Jersey Automobile Full Insurance Act to provide automobile insurance to those citizens unable to secure insurance from private carriers. See Fisher v. New Jersey Automobile Full Insurance Underwriting Association, 224 N.J.Super. 552, 555, 540 A.2d 1344, 1346 (1988) (citing N.J.Stat.Ann. § 17:30E-2 (West 1985)). To carry out this purpose the act created the JUA. All insurers offering automobile insurance in New Jersey are required to participate in the JUA. N.J.Stat.Ann. § 17:30E-4 (West 1985). Under N.J.Stat.Ann. § 17:30E-6(a) (West 1985), the board
+of the JUA was to establish procedures and methods for insurance carriers to issue policies on behalf of the JUA. The board established “minimum requirements for the selection and performance of servicing carriers....” Id. Pursuant to the plan, the insurance carriers themselves are not liable for payment of losses. “[A] judgment against the association [does] not create any direct liability against the servicing carrier ... or the individual participating members of the association....” N.J.Stat.Ann. § 17:30E-7b (West 1985). Further, as has been recently stated by the New Jersey Superior Court:
+Under 17:30E-7e the servicing carrier has no liability for claims under Association [JUA] policies. That section of the Act provides servicing carriers, as agents of the Association, shall have no individual liability for claims or policies written by the Association. Accordingly, only the Association is subject to judgments arising from claims on Association policies issued by a servicing carrier.
+Bidnick v. Hanover Insurance Co., 230 N.J.Super. 111, 114 n. 1, 552 A.2d 1023, 1024 n. 1. (1989).
+In the present case, appellant brings an action solely against Royal Insurance Company. Royal Insurance Company is the parent of The Newark Insurance Company. The Newark Insurance Company, acting as a servicing carrier of the JUA, had issued a policy of insurance to appellant. Under the applicable law Royal Insurance Company, the named defendant, is not liable for any loss that the appellant may have suffered. Royal Insurance is one of the servicing carriers in the JUA scheme and as such is an agent of the JUA. Thus, any recovery in this case would be from JUA and not Royal Insurance. It is the rights and interests of the JUA that are at the heart of the defense of this case and not those of the only named defendant, Royal Insurance. Therefore, we hold that the JUA is an indispensable party.
+We affirm the order of the trial court dismissing without prejudice this case for failure to join an indispensable party.
+Order affirmed.
+. The trial court stated that appellant’s claim was dismissed without prejudice. It is obvious that the court intended this phrase to mean that the case was not dismissed on the merits but only for a failure of jurisdiction. Thus, its decision would not be res judicata on the merits of appellant’s claim.
+The court’s rationale for its order dismissing the action without prejudice was its conclusion that the JUA was an indispensable party. The order was final because it terminated the present action brought against Royal Insurance and was intended to bind appellant and preclude him from bringing another action solely against Royal Insurance Company. It is the appeal from this final order that we address. See Columbia Gas Transmission Corp. v. Diamond Fuel Co., supra, 464 Pa. at 379, 346 A.2d at 789-790 ("The decree of the court below is vacated and the complaint is dismissed without prejudice to the right of appellee to institute a new action wherein all necessary and indispensable parties are made parties to the action.”).
