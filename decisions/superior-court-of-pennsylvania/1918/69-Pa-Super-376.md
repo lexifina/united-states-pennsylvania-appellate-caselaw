@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 308"
+decided: "1918-03-02"
+citations: ["69 Pa. Super. 376"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Kephart, Trexler and Williams, JJ."]
+parties: ["Smith’s Estate."]
+source_url: "https://static.case.law/pa-super/69/cases/0376-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 632394
+cites_cases: ["1 Sadler 307", "105 Pa. 469", "109 Pa. 583", "143 Pa. 293", "144 Pa. 613", "145 Pa. 1", "18 Pa. Superior Ct. 388", "18 Pa. Superior Ct. 90", "183 Pa. 66", "200 Pa. 426", "213 Pa. 28", "216 Pa. 243", "216 Pa. 270", "221 Pa. 415", "26 Pa. Superior Ct. 139", "29 W. N. C. 365", "41 Pa. Superior Ct. 8", "6 Sadler 231", "61 Pa. 283", "86 Pa. 529"]
+---
+
+# Smith's Estate
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+The decision of the learned trial judge was in harmony with Hope’s App., 1 Sadler 307; Sanderson v. Scranton, 105 Pa. 469; Fairchild v. Fairchild, 6 Sadler 231; Delaware, Lack., Etc., R. R. Co. v. Sanderson, 109 Pa. 583; Lillibridge v. Lackawanna Coal Co., 143 Pa. 293; Kingsley v. Coal and Iron Co., 144 Pa. 613; Lazarus’ Est., 145 Pa. 1; Del. & Hudson Canal Co. v. Hughes, 183 Pa. 66; Hosack v. Crill, 18 Pa. Superior Ct. 90; Dorr v. Reynolds, 26 Pa. Superior Ct. 139; Arnold v. Cramer, 41 Pa. Superior Ct. 8; Lazarus v. The L. & W. Coal Co., 221 Pa. 415. The grant of Calvin was to Mitchell, his heirs and assigns. The subject of the grant was “all the coal in the vein known as the Lemon Vein.” There was no time limit within which the coal must be removed and the consideration fixed on the basis of a royalty was to be paid whether coal'was taken out or not. The whole estate in the coal covered by the agreement was transferred to Mitchell. The intention of the parties to make a sale of the coal is fairly inferable from the terms of the grant. The covenant with respect to insuring the payment of the purchase-money was made long after the execution of the original agreement and does not affect the nature of the estate j nor does the restriction on alienation. Whatever the effect of that covenant may be it did not operate to change the essential nature of the grant from Samuel Calvin to James Mitchell.
+It is contended on behalf of the appellant that the decisions in Denniston v. Haddock, 200 Pa. 426, and Coolbaugh v. Lehigh & Wilkes-Barre Coal Co., 213 Pa. 28, in effect reverse Hope’s App., supra, and the cases following it. It may be conceded that the comprehensive language used in Hope’s Appeal is qualified in the Denniston and Coolbaugh cases, but they have not the effect of reversing the earlier decisions. On the contrary, it was said by Mr. Justice Mitchell in Denniston v. Haddock, referring to Hope’s Appeal, Sanderson v. Scranton, King v. Hillside Coal and Iron Co., and other cases of that class: “With the decisions in these cases no fault can be found but the expression that a conveyance of coal in place even by a lease for a limited term is a sale, is inaccurate as a general proposition of law......The point to be noted is that the rules applicable to sales are not to be applied indiscriminately to such instruments but each is to be construed like any other contract, by its own terms.” The title there under consideration was a lease for twenty years. Time was held to be of the essence of the contract and as there was a period fixed as the end of the term that was held to be a limitation of the estate. All the interest which the lessee had was that which he could acquire during the continuance of the term and in this respect the facts were materially different from those now before us where all of the coal ivas granted and no limitation of time was imposed. The point in Coolbaugh v. Coal Co., was whether the interest of one of the lessors was subject to a lien during the continuance of the lease. The question of the retained security for the payment of the royalty by the grantor or lessor or the power of the latter to subject his right under the grant or lease to the lien of a judgment or mortgage did not arise in any of the cases on which the court relied in entering the judgment now appealed from. It is a very different question from that now presented where no interests are involved except those of the original parties to the contract or their successors. It might well be held as was done in the case last cited that the law relating to the interest retained by a vendor under an article of agreement for the sale of his land as security for the purchase-money should apply in the case of a judgment against the grantor. But this is not inconsistent with the rule that where the instrument conveying the title bears on its face evidence of a purpose to dispose of the whole subject of the contract the transaction should be treated as a sale rather than a lease. The question is discussed at length by the learned trial judge in his opinion which clearly states the law applicable to the facts.
+The judgment is affirmed.
