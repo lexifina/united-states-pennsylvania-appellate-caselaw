@@ -1,0 +1,21 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 659"
+decided: "1966-10-19"
+citations: ["208 Pa. Super. 770"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ervin, P. J., absent."]
+parties: ["Press Unemployment Compensation Case."]
+source_url: "https://static.case.law/pa-super/208/cases/0770-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 776763
+---
+
+# Press Unemployment Compensation Case
+
+## Majority
+
+Decision affirmed.
+Ervin, P. J., absent.
