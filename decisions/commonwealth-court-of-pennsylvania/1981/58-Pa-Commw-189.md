@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2476 C.D. 1979"
+decided: "1981-04-01"
+citations: ["58 Pa. Commw. 189"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Mencer, Rogers and Palladino, sitting as a panel of three."]
+parties: ["Emma Jene Lelik, Appellant v. Borough of Donora et al., Appellees."]
+source_url: "https://static.case.law/pa-commw/58/cases/0189-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1919488
+cites_cases: ["141 A.2d 197", "299 A.2d 585", "34 Pa. Commonwealth Ct. 71", "383 A.2d 954", "392 Pa. 421", "451 Pa. 108"]
+---
+
+# Lelik v. Borough of Donora
+
+## Majority (Judge Palladino,)
+
+Opinion by
+Judge Palladino,
+This is an appeal from an order of the court of common pleas which sustained preliminary objections in the nature of demurrers to certain counts of an Amended Complaint in Trespass and Assumpsit filed by Emma Jene Lelik (appellant). We affirm.
+Confining ourselves, as we must, to appellant’s pleadings and reasonable inferences therefrom, Allstate Insurance Co. v. Fioravanti, 451 Pa. 108, 299 A.2d 585 (1973); Port Authority of Allegheny County v. Division 85, Amalgamated Transit Union, 34 Pa. Commonwealth Ct. 71, 383 A.2d 954 (1978), we note the following facts.
+On August 10, 1976, appellant’s husband, William Lelik,. committed suicide. At the time of his death William Lelik .was the Police Chief of the Borough of Donora (Borough) and a 27-year veteran of the Borough police force. As such, he was covered by the provisions of the Borough’s police pension ordinance, ordinance 1135.
+Ordinance . 1135 was enacted by the Borough Council, pursuant to the provisions of the Act of May 29, 1956 (Act), on July 5, 1973. It established, inter alia, the Borough of Donor a Police Pension Fund (Fund) to finance pension and life insurance benefits for members of the Borough police force. The Fund is under the direction of the Borough Council, Article I, Section 1, but is administered by a pension trust committee which directs the actions of a pension trustee, Article III, Section 1. Article IV, Section 3 of the ordinance states that the pension trustee is empowered to purchase life insurance on the lives of participants in the plan upon the direction of the pension trust committee, and Article VII, Section 2 of the ordinance states that “[t]he death benefit for each Participant under his life insurance policy shall be Twenty Thousand Dollars ($20,000).”
+Shortly after the enactment of ordinance 1135 the Fund acquired a $20,000 life insurance policy on the life of Chief Lelik, who subsequently designated appellant as his beneficiary. If this policy had remained in effect at the time of Chief Lelik’s death it is undisputed that appellant would have qualified for a $20,000 death benefit. Shortly before Chief Lelik’s death, however, this original policy was replaced by a new policy issued by United Life and Accident Insurance Company (United). A clause in this new policy provided that “[i]f the Insured commits suicide, whether sane or insane, within two years from the date of issue, the Company will pay to the Beneficiary, in lieu of all other payments, an amount equal to premiums less any indebtedness.” As a result of this clause appellant, who was the beneficiary of the United policy, was unable to collect the policy’s $20,000 death benefit upon the death of her husband.
+Following the death of her husband, appellant filed a complaint in the court of common pleas seeking $20,000 in “damages” from the Borough, the Fund, and others, and certain widow’s benefits from the Fund pursuant to Article VII, Section 1(e). This complaint was subsequently amended pursuant to a court order upon the filing of preliminary objections by the Borough and Fund. In this amended complaint the appellant alleged in separate counts in trespass and assumpsit that the Borough and the Fund had a statutory duty to maintain insurance coverage for suicide deaths under Section 8 of the Act, 53 P.S. §774, and Article I, Section 4 of ordinance 1135, and that this duty had been violated by the acquisition of the United policy. The Borough and the Fund subsequently filed preliminary objections in the nature of demurrers which the lower court granted. The present appeal followed.
+Article I, Section 4 of ordinance 1135 adopts in nearly identical language the “vesting rule” specified in Section 8 of the Act by providing that “[n]o person participating in a police pension fund established pursuant to the provisions of this or prior Ordinances, who becomes entitled to receive a benefit therefrom, shall be deprived of his right to an equal proportionate share therein upon the basis upon which he first became entitled thereto.” Before this Court appellant alleges that her husband had a vested right in insurance coverage for suicide deaths since he had such coverage under the original insurance policy, that the cancellation of the original policy violated the vesting rule in Article I, Section 4 of the ordinance, and that the lower court therefore erred in dismissing her complaint. We disagree.
+In our view the vesting provisions of Section 8 of the Act and Article I, Section 4 of the ordinance reflect the general constitutional prohibition against arbitrarily altering legislated pension benefits recognized by the Pennsylvania Supreme Court in Harvey v. Allegheny County Retirement Board, 392 Pa. 421, 141 A.2d 197 (1958). In Harvey the court noted that when pension benefits are legislated they become part of the employment contract between the government body and its employees, and stated that “[a]n employe who has not attained eligibility to receive a retirement allowance may not be subject to legislation which changes the terms of his retirement contract____” Id. at 432, 141 A.2d at 203. (Footnote omitted.) In the present case, however, the Borough never passed any legislation promising insurance coverage for suicide deaths, and hence the vesting rule enunciated in Harvey is inapplicable.
+Ordinance 1135 only mentions life insurance in two Sections. Article VII, Section 2, noted above, states that the death benefit on insurance policies shall be $20,000, and Article II, Section 2 defines “Policy” as “any form of life insurance policy requiring evidence of insurability at issue.” (Emphasis added.) Hence, Chief Lelik only had a vested right to a $20,000 insurance policy requiring evidence of insurability at issue, and this right was not altered by the acquisition of the United policy. Since it is clear from appellant’s pleadings that the Borough and the Fund did not revoke any vested benefit, we will affirm the decision of the lower court.
+Accordingly we enter the following
+Order
+And Now, April 1, 1981, the order of the Court of Common Pleas of Washington County, dated October 4, 1979, sustaining the preliminary objections in the nature of demurrers of the Borough of Donora and the Borough of Donora Police Pension Fund, is affirmed.
+This decision was reached prior to the expiration of the term of office of Judge Wilkinson, Jr.
+Act of May 29, 1956, P.L. (1955) 1804, as amended, 53 P.S. §767 et seq.
+The original complaint alleged causes of action in trespass and assumpsit in a single count. In the amended complaint these alternative theories are presented in separate counts. The amended complaint also deletes the claim for widows benefits under Article VII, Section 1(e) of the ordinance.
