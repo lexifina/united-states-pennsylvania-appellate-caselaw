@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 52"
+decided: "1929-07-02"
+citations: ["96 Pa. Super. 434"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trbxler, Keller, Linn, Gawthrop, Cunningham and Baldrige, JJ."]
+parties: ["Lester G. Wagner, Appellant, v. County of Somerset."]
+source_url: "https://static.case.law/pa-super/96/cases/0434-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 683971
+cites_cases: ["284 Pa. 455", "294 Pa. 368"]
+---
+
+# Wagner v. County of Somerset
+
+## Majority (Gawthrop, J.,)
+
+Opinion by
+Gawthrop, J.,
+Plaintiff was elected to the office of sheriff of Somerset County for the term beginning the first Monday of January, 1928. On January 9, 1928, he and the county, by its commissioners, filed in the court below a joint petition under the Uniform Declaratory Judgments Act of June 18, 1923, P. L. 840, asking for a declaratory judgment determining the liability of the county, under the Act of May 11, 1925, P. L. 559, fixing the salary of sheriffs in counties of the sixth class (which includes Somerset County), as amended by the Act of March 24, 1927, P. L. 68, for the payment of certain expenses which “must necessarily be incurred by plaintiff in the performance of his duties as sheriff.” On February 9, 1928, a judgment was entered declaring the county liable for certain items of expense, but not for others. On the same day counsel for the respective parties filed exception's to the decree. On March 26, 1928, the parties filed a supplemental petition averring that the decree of February 9, 1928, is not sufficiently specific to enable the parties to adjust the accounts between the office of the sheriff and the office of the commissioners of the county, and praying that the decree may be supplemented in relation to the matters specifically set forth in the supplemental petition. On April 25, 1928, the court below entered an order dismissing the second “petition without prejudice,” to which on that day both parties filed exceptions.
+The record shows that this appeal by plaintiff was filed May 17,1928, which was not within three calendar months from the entry of the judgment of February 9, 1928. It might be quashed on that ground. But, as no motion to quash was made by appellee and the court below entertained the supplemental petition and did not dispose of it until April 25, 1928, which was less than three months prior to the filing of the appeal, we have decided to treat the appeal as properly before us. However, our action in doing so is not to be regarded as a precedent.
+As we view the record, the controlling question presented is whether the circumstances disclosed gave the court below any jurisdiction to enter a declaratory judgment. In his opinion dismissing the supplemental petition, the court below reached the conclusion that they did not; that no issue was raised between the parties; and that the case before him was moot. But he did not disturb the original order. We all agree with his conclusion. While the Declaratory Judgments Act provides that “any person ......... whose rights, status or other legal relations are affected by a statute ......may have determined any question of construction or validity arising under it,” our Supreme Court recently declared that the main purpose of the act is to provide a convenient method of determining the disputed interests of parties under “deeds, wills, written contracts or other writings constituting a contract, and the act has, to this, time, been applied in this State only to cases of the kind mentioned”: Ladner v. Siegel, 294 Pa. 368, 371. To be applicable, a real controversy must exist and moot questions will not be considered and mere advisory opinions are not contemplated: Kariher’s Petition (No. 1), 284 Pa. 455. The language of the present Chief Justice in that case is particularly applicable here. He said: “Moreover, in a declaratory judgment proceeding the court will not decide future rights in anticipation of an event which may not happen, hut, just as in the ordinary executory action, it will wait until the event actually takes place, unless special circumstances appear which warrant an immediate decision.” “There is no power granted by this act to give advisory opinions in moot cases (35 C. J. 1100), or to determine matters not essential to the decision of the actual controversy before the court, though such questions may in the future require adjudication”: Ladner v. Siegel, supra. It is manifest that in the present case the parties are Seeking no more than an advisory opinion construing a statute under which controversies probably would arise, but when the proceeding was begun, had not arisen. Under all the cases construing the Declaratory Judgments Act, the original petition disclosed no facts which gave jurisdiction to the court below to enter the declaratory judgment. Therefore, the proceeding .'should not have been entertained. We express no opinion as to the merits of the questions attempted to be raised.
+The judgment is reversed, and it is directed that the petition for a declaratory judgment be dismissed, the costs to be divided equally between the parties.
