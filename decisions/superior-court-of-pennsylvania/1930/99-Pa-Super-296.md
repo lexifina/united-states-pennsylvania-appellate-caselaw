@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 125"
+decided: "1930-07-10"
+citations: ["99 Pa. Super. 296"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Tbexleb, P. J., Keller, Linn, G-awthbop, Cunningham and Balubige, JJ."]
+parties: ["Hall, Appellant, v. Borough of Dormont."]
+source_url: "https://static.case.law/pa-super/99/cases/0296-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 688907
+---
+
+# Hall v. Borough of Dormont
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+The plaintiff brought an action of assumpsit in the county court of Allegheny County to recover the sum of $496.08 for insurance premiums for which he claimed the Borough of Dormont was liable. The judge, sitting without a jury, entered judgment for the defendant and an appeal to the common pleas was refused and this refusal is assigned for error.
+The plaintiff is engaged in the real estate and insurance business. On February 10, 1928, in response to defendant’s advertisement for bids for liability and fire insurance upon the defendant’s automobiles, plaintiff sent in a bid in which he enumerated the field of automobiles and motorcycles owned by the borough and gave the rates and then stated the liability and property damage would be placed with the Maryland Casualty Company whose financial statement was enclosed; the fire insurance would be placed in the Boston Insurance Company and its statement was also enclosed. A confirmation of the bid or acceptance of the plaintiff was sent to him in the form of a letter from the borough’s secretary or manager. Plaintiff delivered to defendant’s manager a policy of insurance issued by the Maryland Casualty Company, covering the liability and property damage. The date of this policy was February 26, 1928. On the same day, plaintiff delivered to defendant’s manager a binder of the Boston Insurance Company, effective the same day. The policy and the binder were received by the borough manager and placed in the safe in his office in the borough building.
+Later it appeared that the Boston Insurance Company was unable to issue a policy at the premium fixed or specified in plaintiff’s contract, for the reason that said company had bound itself as a member of a conference to demand certain rates. The plaintiff then secured a policy from the National Union Fire Insurance Company at the premium rate fixed by the bid and delivered said policy to the borough manager on March 16, 1928, receiving back at the same time the binder of the Boston Insurance Company, the reason for which was explained to the borough manager when the policy was taken. The Maryland Casualty Company’s policy remained in the possession of the borough manager.
+On March 19th, three days after the substitution, council held a special meeting, but the matter of these policies was not brought up at the meeting and not included in the call. On April 6th, another regular monthly meeting of council was called, but no action was taken. On April 10th, a resolution was offered, reciting that the bill of Mr. Hall for the insurance premium for the amount contained in the bid was submitted, but the fire insurance was written in the National Union Fire Insurance Company instead of the Boston Fire Insurance. Mr. Hall was present and stated that a mistake had been made as to the fire insurance by the Boston Company and that it had refused to write the business and that the Union National wrote the business at the rate bid. There was a motion then made that the bid be awarded to Hoover & Diggs, the second bidder, but this was lost. A motion that new bids be asked was passed and this was accordingly done.
+On June 12th, the borough secretary addressed a letter to the plaintiff in which letter he stated that plaintiff’s policies had been replaced on May 23, 1928. The policies furnished by the plaintiff were retained by the borough until June 13, 1928, on which day they were delivered to the plaintiff. The plaintiff demanded that the defendant make payment of the short rate premium specified in said policies, but said payment was refused and this action resulted.
+We think the borough had the right, although there is no apparent reason for its so doing to refuse to continue the substituted policy. It had a right to demand that the plaintiff’s bid be carried out strictly according to its terms. This fact, however, does not affect the position taken by the plaintiff that he actually furnished the insurance from the time the bid was accepted to the time the policies were replaced. We would be reluctant to sustain the argument advanced by the borough that they could get the benefit of the insurance policies and at the same time refuse to pay for them. If we assume, and there is no evidence to the contrary, that these policies actually bound the property and thus the consideration for the premiums paid passed to the borough, the premium should be paid for the time that the policies and binder remained effective. We do not agree with plaintiff’s view that the borough should pay the short rates for this period. It had a right to rescind and it should not be required to pay more for the period of time the plaintiff’s policy and binder were effective than the pro rata of the whole period. The plaintiff, we think, under the facts as presented, was entitled to receive the premiums for which he claims, not on the short rate term, but on the pro rata basis up to May 23rd, the date when the new policies went into effect.
+The judgment is reversed and the record remitted to the lower court with directions that the appeal from the county court be allowed.
