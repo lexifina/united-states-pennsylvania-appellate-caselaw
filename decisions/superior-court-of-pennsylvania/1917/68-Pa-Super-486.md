@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 52"
+decided: "1917-10-08"
+citations: ["68 Pa. Super. 486"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Kephart, Trexler and Williams, JJ."]
+parties: ["Mason v. Wilkes-Barre Twp., Appellant."]
+source_url: "https://static.case.law/pa-super/68/cases/0486-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 630955
+cites_cases: ["167 Pa. 569"]
+---
+
+# Mason v. Wilkes-Barre Twp.
+
+## Majority (Head, J.,)
+
+Opinion by
+Head, J.,
+At the time of the argument of this appeal in open court it was not clear the question involved was anything more or anything less than an academic one. The doubt yet remains whether any decree we enter will accomplish more than to dispose of the costs.
+The appeal was filed by a taxpayer of the defendant township which is one of the first class. It sought to restrain the township authorities from collecting the full amount of the taxes they undertook to assess on the ground that a portion of the money thus to>be collected was to be expended for an illegal purpose. An answer was - filed, testimony was taken, and the learned court below continued, until final hearing, the preliminary injunction which had been granted. Later on this injunction was made perpetual. Prom that decree this appeal followed.
+It ought to go without saying that it is no part of the functions of the courts to perform those administrative duties which by law are committed to other officers. But it should be equally clear that the public moneys are neither to be collected by taxation nor expended at the mere whim or caprice of those who have been selected to perform such important duties in the manner provided by law. If in the performance of such duties it should be made to appear that the plain provisions of the statutes on the subject have not been complied with, then it would not only be the right but the duty of a court in a proper proceeding to restrain such lawless conduct.
+We think it reasonably apparent, from an examination of the record, the board of commissioners of the defendant township undertook to so manage the funds in their hands as to bring about a clear violation of the provisions of the statutes. The Acts of April 27, 1909, P. L. 198, and of June 3, 1911, P. L. 626, very clearly designated the powers and duties of the board and its members. There should be no room for doubt that these statutory provisions are wise ones. They invest the board of commissioners with ample power to do everything reasonably necessary in the administration of the affairs of the township but they also carefully and distinctly prescribe the manner in which these things must be done. If the board, in its estimates for the necessities of the coming year, should happen to provide more than was necessary in one particular fund and less than was required in another, the statute declares how the surplus money may be lawfully transferred from one fund to the other. The learned court below finds from the evidence these statutory requirements were overlooked or ignored. The law also provides how an indebtedness, above the appropriation, honestly incurred in one year may be taken care of in the estimate for a succeeding year. The cause of the trouble in the present case arose from the fact that in the budget of 1914 an attempt was made to collect a sum of money, part of which was to be expended in the discharge of debts of the previous year, some of which at least were incurred in violation of the provisions of the law. The money thus to be collected and applied was not designated in the budget as money to be applied to such an expenditure but the amount thereof was included in other funds not necessary for the purpose for which they were apparently intended. The learned court below therefore restrained the commissioners from collecting all of the sum of money contemplated by them and reduced the amount of the levy for that year enough to exclude what had been determined to be the illegal expenditure.
+There is only one respect in which we have concluded to modify the decree entered. By the Act of June 5,1913, P. L. 424, the fiscal year for which the appropriation was made in December, 1912, was extended to January, 1914, instead, of ending as theretofore in December, 1913. As we understand it, some part of the alleged illegal indebtedness may have been incurred for the current expenses of the additional month thus added to that particular fiscal year. If that be so, we see no good reason why the board of commissioners may not, in a subsequent year, provide for the payment of the moneys necessarily expended to carry the township over so as to make its fiscal year conform with the requirements of the Act of 1913. But it must be done in the manner and form provided by the statute. We have therefore determined to affirm the decree of the learned court below with the understanding that our decree shall not be construed to prohibit the present or a future board from appropriating, in a lawful manner, a sum sufficient to discharge any outstanding indebtedness of the township arising from the fact that the fiscal year of 1914, by the operation of the statute, included thirteen months instead of but twelve. With this modification of the decree it is affirmed. The cost of this appeal to be paid by the appellees.
