@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 144"
+decided: "1931-07-08"
+citations: ["102 Pa. Super. 406"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J. Keller, Linn, Gawthrop, Cunningham, Baldrige, and Deeav, J J."]
+parties: ["Carr v. Smith, Appellant."]
+source_url: "https://static.case.law/pa-super/102/cases/0406-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 695592
+---
+
+# Carr v. Smith
+
+## Majority (Drew, J.,)
+
+Opinion by
+Drew, J.,
+This was a suit on a wage claim. After verdict for plaintiff in the sum of $139.50 with interest, judgment was entered on the verdict, and defendant took this appeal. It is not denied that plaintiff performed the service in question, nor is the amount claimed by him as compensation challenged. The sole question in the case is whether or not plaintiff was an employee of defendant. It is the contention of defendant that he was an employee of independent contractors, C. P. Carr (a brother of plaintiff), Leroy Deshong and Charles Carberry. It is admitted that these three men entered into an oral contract with the defendant, who did business under the registered name, Forest Service Company, and that they agreed to furnish the labor and equipment necessary to cut the timber on a tract of land in Woodbury Township, Blair County, and convert it into lumber and haul it to the railroad for shipment and sale. It is admitted that defendant agreed to pay them for this work 65% of the selling price of the lumber, f. o. b. railroad cars. It is admitted that these men were not able to finance their contract, and at their request defendant agreed to advance the money for their payrolls, he to be reimbursed out of the 65% they were to receive for their work. He did advance the money for three payrolls, but refused to advance the money for the fourth, and the men who were due wages, including this plaintiff, then brought suit.
+There was no testimony in the case to show that plaintiff was employed by defendant. Witnesses offered by the plaintiff to prove his case included Ms brother, C. P. Carr, and his testimony is summed up in this question and answer: Q. “Now, Mr. Carr, let us understand this. You saw Smith’s advertisement and you three men went to see him and after some negotiations you and Deshong and Carberry agreed to furnish all the macliinery and tools and labor and cut that timber, manufacture it, and take it down to the siding and put it on the cars and he was to pay you 65% of the price he received for it. Is that right? A. That is right.” Deshong testified for plaintiff and said' that he hired plaintiff and put him to work for C. P. Carr, Carberry and bimself; that he fixed the wages he was to pay him; and that he was not employed by defendant. The plaintiff himself testified that he was employed by his brother and Deshong and that the defendant did not employ him or pay him.
+This testimony would seem to be conclusive that plaintiff has no claim against defendant. He worked for his brother, Deshong and Carberry, independent contractors. It is true that defendant agreed to advance some money to help them meet their first payrolls but the agreement shows that these advances were to be deducted from the 65% which they were to receive for their work; the advances therefore were nothing better than loans. It cannot be said that because the money so advanced was used in payment of wages of men hired by Carr, Deshong and Carberry to carry out their contract, that a contractual relation was established between plaintiff and defendant.
+The case doubtless would not have been submitted to the jury if it had not been for a notice intended to comply with the provisions of Article 3 of the Workmen’s Compensation Act of Pennsylvania, which defendant had posted upon the premises. It was necessary for defendant to build two roads to get the timber from the stump to the railroad siding and this work he did at his own cost and with men employed by himself. ' He had this notice posted on these roads, which of course led through the tract being worked by Carr, Deshong and Carberry. The first paragraph in.it was as follows: “The undersigned, and employer, subject to the provisions of Article three of the Workmen’s Compensation Act of Pennsylvania, hereby gives notice to his employees and to all other persons interested that he has secured payment of the compensation payable under that article to his employees and their dependents, by insuring with the Pennsylvania Threshermen and Farmers Mutual Casualty Insurance Co., 311 Mechanics Trust Building, Harrisburg, Pa.”
+The trial court admitted this notice because of the contention of counsel for plaintiff that it showed a recognition by defendant of the relationship of employer and employee, and that the employees referred to included the men working in the woods on the clearing operation of Carr, Deshong and Carberry. All the testimony in the case shows that this was not the fact; that, the relationship aforesaid, mentioned in the notice, was applicable only to employees of defendant working in the building of the roads.
+It is not necessary to pass upon the various assignments of error. On the whole case it is clear that no relationship of employer and employee existed; therefore it follows that plaintiff had no claim for wages against defendant. The learned court below erred in refusing defendant’s second point, which was, that under the law and the evidence the verdict must be for the defendant.
+The judgment is reversed and is now entered in favor of the defendant.
