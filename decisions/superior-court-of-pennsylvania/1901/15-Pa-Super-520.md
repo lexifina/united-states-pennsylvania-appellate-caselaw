@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 112"
+decided: "1901-01-22"
+citations: ["15 Pa. Super. 520"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Or-lady, W. W. Porter and W. D. Porter, JJ."]
+parties: ["Commonwealth v. Sober."]
+source_url: "https://static.case.law/pa-super/15/cases/0520-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 829610
+cites_cases: ["101 Pa. 119", "105 Pa. 484", "107 Pa. 276", "114 Pa. 405", "126 Pa. 199", "13 Wend. 311", "149 Pa. 345", "15 Pa. Superior Ct. 158", "162 Pa. 646", "17 Wend. 540", "2 Pa. Superior Ct. 45", "29 Pa. 429", "35 N. J. L. 445", "38 N. J. L. 306", "48 Pa. 53", "67 Pa. 203", "8 Pa. 260", "8 Phila. 617", "85 Pa. 482", "97 Pa. 397", "99 Pa. 570"]
+---
+
+# Commonwealth v. Sober
+
+## Majority (Orlady, J.,)
+
+Opinion by
+Orlady, J.,
+The defendant was indicted under the 11th section of the Crimes’ Act of March 31,1860. A motion was filed setting out four reasons for quashing the indictment, which was granted by the court, and from that judgment the commonwealth takes this appeal. While the district attorney does not appear in person, the appeal, as presented, must be treated as if sued out under his official responsibility, since he represents the commonwealth in his county.
+By the act of May 19,1874, the commonwealth may take exception to any decision or ruling of the court in cases charging the offense as a nuisance, forcible entry or detainer, but such grant takes away no power in respect to other cases. Since the act of 1860, it has been decided that the powers of the Supreme Court are competent to review any judicial record, and the district attorney may take out a writ of error or certiorari without special allowance. As to erroneous decisions made in the trial which may cause the acquittal of the accused, except in the three misdemeanors mentioned, the commonwealth cannot except, and such decisions cannot be reviewed; but for error in quashing an indictment, arresting judgment after verdict of guilty, and the like, the commonwealth may remove the record for review without allowance of the proper writ: Commonwealth v. Wallace, 114 Pa. 405.
+In cases where the commonwealth has the right to a writ of error or certiorari no statute says that such right should depend upon the allowance of an exception by the trial judge. In the language of Chief Justice Woodward, Commonwealth v. Capp, 48 Pa. 53, “ It would be very strange if the commonwealth might not appeal to her own tribunals for justice without the special consent of certain of her officers.” See also Commonwealth v. Bartilson, 85 Pa. 482, Gilroy v. Commonwealth, 105 Pa. 484, Commonwealth v. McHale, 97 Pa. 397, and Commonwealth v. Kistler, 149 Pa. 345.
+The record is properly in this court, an’d as a part of it, we have the motion to quash, with the reasons therefor and the action of the court thereon. The indictment distinctly charges the defendant, in substantial compliance with the act of assembly, with unlawfully obtaining by false pretenses the signature of R. H. Bellman to a certain written instrument. The pleader details the means used to accomplish the alleged crime at greater length than is required by the decisions, but it certainly did not mislead the defendant as to the nature and character of the offense charged. Obtaining the signature of R. H. Bellman to the judgment note, and the misrepresentation of the defendant’s interest in the “ All Right Grocery Company ’’ are alleged as existing facts. The pretenses set out do not describe a separate offense so as to make the indictment defective ; but they are descriptive of the means employed to obtain the signature to the written instrument with intent to cheat and defraud R. H. Bellman. It is a well settled fact that the criminal law does not permit distinct offenses to be joined in the same count. The completed act charged was obtaining the signature to a written instrument by false pretenses, with intent to cheat and defraud by making it a valuable security. When a statute makes indictable two or more acts connected with the same transaction, each one of which may be considered as representing a phase of the same offense, it has, in many cases been ruled that they may be coupled in the one count. It is not regarded as duplicity thus to join successive statutory phases of the same offense: Commonwealth v. Miller, 107 Pa. 276.
+We must give the statute a reasonable construction, in accordance not only with its plain general intent, but also with the fundamental principles of our criminal law. The specified acts may be distinct and separate offenses, or they may be so entirely parts of the same transaction that they combine to make but one: Commonwealth v. Mentzer, 162 Pa. 646.
+The rule is clearly defined in the 11th section of the criminal procedure act of 1860, and pi’ovides that “ every indictment shall be deemed and adjudged sufficient and good in law which charges the crime substantially in the language of the act of assembly prohibiting the crime and prescribing the punishment, if there be any such, or if at common law, so plainly that the nature of the offense charged may be easily understood by the jury.” It is evident, from the current both of decision and legislation, that criminal pleading is no longer the technical thing it was, and that courts should look more to substantial justice than artificial nicety: Commonwealth v. Keenan, 67 Pa. 203; Commonwealth v. Wood, 2 Pa. Superior Ct. 45; Commonwealth, v. New Bethelehem Borough, 15 Pa. Superior Ct. 158. The indictment is sufficient to require a plea by the defendant.
+The judgment of the court below is reversed, the record to be remitted with a procedendo.
