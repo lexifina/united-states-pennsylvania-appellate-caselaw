@@ -1,0 +1,47 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1415 C.D. 1986"
+decided: "1987-06-22"
+citations: ["107 Pa. Commw. 48", "527 A.2d 629"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail and Doyle, and Senior Judge Blatt, sitting as a panel of three."]
+parties: ["Ira A. Shenk, Petitioner v. Commonwealth of Pennsylvania, State Real Estate Commission, Respondent."]
+source_url: "https://static.case.law/pa-commw/107/cases/0048-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1361129
+cites_cases: ["106 Pa. Commonwealth Ct. 232", "300 A.2d 922", "409 A.2d 941", "435 A.2d 284", "466 A.2d 780", "48 Pa. Commonwealth Ct. 330", "49 Pa. Code §35.103", "62 Pa. Commonwealth Ct. 110", "77 Pa. Commonwealth Ct. 642", "8 Pa. Commonwealth Ct. 89"]
+---
+
+# Shenk v. Commonwealth
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+Ira A. Shenk (Petitioner) appeals a decision by the State Real Estate Commission (Commission) to revoke Petitioners real estate brokers, associate brokers and salespersons licenses. We affirm.
+The activities which formed the basis for the license revocations in this case are undisputed. The Commission found, based on a stipulation of facts, that on three separate occasions Petitioner falsely informed lending institutions that prospective buyers had tendered, in escrow, sufficient funds to cover the closing costs for the purchase of a home. The letters drafted by Petitioner were included as part of applications for Federal Housing Administration (FHA) insured mortgages and were relied upon by the Department of Housing and Urban Development (HUD) to determine that the prospective buyers had met the minimum investment requirements for an FHA-insured mortgage. The purchasers, in fact, had only tendered a minimal down payment for the properties involved. The sellers in each case had agreed to pay the remaining settlement costs.
+Based on these admittedly false representations, the Commission concluded, following a hearing, that Petitioner had violated Sections 604(a)(1) (making substantial misrepresentations), 604(a)(2) (making false promises likely to induce another to enter into an agreement), 604(a)(3) (pursuing a continued and flagrant course of misrepresentation), 604(a)(15) (violating a Commission regulation) and 604(a)(20) (demonstrating bad faith, dishonesty and untrustworthiness in real estate transactions) of the Real Estate Licensing and Registration Act, 63 P.S. §455.604(a)(1), (2), (3), (15) and (20).
+On appeal, Petitioner has raised two issues for our consideration: (1) whether his due process rights were violated by Petitioners failure to intelligently waive his right to counsel before the Commission, and (2) whether the sanction imposed by the Commission was too severe in light of the mitigating factors presented by Petitioner.
+With regard to the due process issue, Petitioner points to the following colloquy at the Commission hearing to demonstrate that he did not intelligently and voluntarily waive his right to counsel:
+Hearing Examiner Claraval: . . . Mr. Shenk, do you understand that you have the right to have an attorney present today?
+Mr. Shenk: Yes, sir.
+Hearing Examiner Claraval: And it was your decision not to have an attorney?
+Mr. Shenk: I cannot afford an attorney sir. I would have chose [sic] to have one, but I could not afford to have one.
+Notes of Testimony from October 11, 1985 at 4, Reproduced Record at 49a. Petitioner contends that as a result of this colloquy, the Commission should have provided further information as to how he could locate an attorney to represent his interests. We disagree.
+Section 502 of the Administrative Agency Law, 2 Pa. C. S. §502, provides that “[a]ny party may be represented before a Commonwealth agency.” (Emphasis added.) While this provision clearly permits a party to have a representative present at an administrative hearing, it is also obvious that the party bears the responsibility for securing such representation. Included as a part of the notice accompanying the complaint against Petitioner was the following language:
+YOU ARE HEREBY NOTIFIED THAT YOU ARE ENTITLED TO BE REPRESENTED BY COUNSEL AT A HEARING ON THIS MATTER; OR, YOU MAY APPEAR ON YOUR OWN BEHALF WITHOUT COUNSEL. THE FAILURE TO HAVE COUNSEL PRESENT AND THE REQUEST FOR A CONTINUANCE TO RETAIN COUNSEL WILL NOT BE CONSIDERED AS A VALID REASON FOR THE GRANTING OF A CONTINUANCE ON THE DAY OF THE HEARING.
+Thus, Petitioner in this case admittedly received both written and oral notice of his right to representation. We believe that this notice fully satisfied due process requirements and that Petitioner intelligently waived his right to counsel when he appeared at the hearing ready to proceed pro se. See Novak v. Insurance Department, 106 Pa. Commonwealth Ct. 232, 525 A.2d 1258 (1987) (where no regulation requires oral notice of the right to counsel and where written notice of that right has been afforded, a party who appears without counsel has knowingly and voluntarily waived his right to counsel). We do not believe that Petitioners asserted inability to afford counsel can be said to have rendered his waiver ineffective. Moreover, we conclude that due process considerations would not require the Commission to provide assistance to Petitioner in locating counsel particularly since such assistance was never requested at or prior to the time of hearing.
+Petitioners remaining argument is that the Commission abused its discretion when it ordered his licenses revoked, as opposed to ordering a suspension. Petitioner points to several mitigating factors to support his position. First, Petitioner correctly notes that he has cooperated fully with the investigation into his conduct. He also argues that his actions in misrepresenting the financial capabilities of the buyers involved arose from his concern for their families who were in dire need of housing. Petitioner additionally emphasized his belief that the FHA/HUD requirements regarding closing costs were unequal in that veterans who applied for FHA-insured mortgages did not have to provide any closing costs. Next, Petitioner contends that the sanctions already imposed by HUD for his activities have adequately punished him for his wrongdoing. Finally, Petitioner submitted numerous letters attesting to his good character and reputation in the community.
+The Commission found in its adjudication that “[Petitioner] . . . has a good reputation for honesty, sincerity, and a willingness to help others.” Fact Finding No. 19, Adjudication at 6. The Commission further noted, however, that it did not consider the character references “persuasive enough to impel it to exercise leniency in this case, especially given the seriousness of [Petitioners] . . . misconduct.” Adjudication at 9. As to Petitioners allegations regarding his desire to assist those in need of adequate housing, the Commission concluded that such testimony was “an attempt to deflect the Commissions attention from the central consideration in this case: that [Petitioner] . . . knowingly defrauded an agency of the U.S. government.” Id.
+While this Court is duty bound to correct abuses of discretion in the imposition of a penalty by the Commission, Benford v. Real Estate Commission, 8 Pa. Commonwealth Ct. 89, 300 A.2d 922 (1973), we will not substitute our own discretion for that of the Commission absent a clearly unreasonable exercise of judgment by that administrative body. Pastorius v. State Real Estate Commission, 77 Pa. Commonwealth Ct. 642, 466 A.2d 780 (1983). Though the Commission did not specifically address every mitigating factor argued by Petitioner, its failure to do so is not fatal since the adjudication is sufficiently detailed to enable our appropriate review. Carr v. State Board of Pharmacy, 48 Pa. Commonwealth Ct. 330, 409 A.2d 941 (1980). We perceive no abuse of discretion by the Commission with regard to the penalties invoked in the instant case. Though Petitioners motivation may have been worthy, his testimony demonstrates his full awareness of the risk he was taking by his actions. We further observe that in ordering the revocations, the Commission considered the fact that Petitioner had been previously reprimanded for failing to maintain proper records. We, accordingly, are constrained to affirm the order of the Commission.
+Order
+The order of the State Real Estate Commission in the above-captioned matter is hereby affirmed.
+Based on its own investigation, HUD temporarily suspended Petitioner from participating in all HUD programs beginning in August, 1984. Petitioner alleges in his brief that he was subsequently debarred from participating in all HUD programs effective January 16, 1986.
+The regulation at issue provides that:
+No broker may make representations to give assurances or advice concerning any aspect of a real estate transaction which he knows or should know to be incorrect, inaccurate or improbable.
+49 Pa. Code §35.103.
+Act of February 19, 1980, P.L. 15, as amended.
+Our scope of review is limited to a determination of whether the Commission committed an abuse of discretion, error of law, or made feet findings which are not supported by substantial evidence. Shober v. State Real Estate Commission, 62 Pa. Commonwealth Ct. 110, 435 A.2d 284 (1981).
+See supra note 1.
