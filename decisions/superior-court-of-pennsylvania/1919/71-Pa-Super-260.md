@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 27"
+decided: "1919-03-03"
+citations: ["71 Pa. Super. 260"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Kephart, Trexler and Williams, JJ."]
+parties: ["Menhennet v. Davis, Appellant."]
+source_url: "https://static.case.law/pa-super/71/cases/0260-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 638163
+cites_cases: ["148 Pa. 541", "157 Pa. 358", "190 Pa. 263", "194 Pa. 1", "2 Pa. Superior Ct. 461", "206 Pa. 335", "210 Pa. 440", "210 Pa. 609", "211 Pa. 462", "214 Pa. 325", "216 Pa. 324", "244 Pa. 59", "248 Pa. 223", "25 Pa. Superior Ct. 617", "251 Pa. 466", "254 Pa. 430", "26 Pa. Superior Ct. 112", "3 Pa. Superior Ct. 461", "47 Pa. Superior Ct. 18", "55 Pa. Superior Ct. 104", "58 Pa. 371", "60 Pa. Superior Ct. 1", "65 Pa. Superior Ct. 337", "81 Pa. 139", "90 Pa. 89"]
+---
+
+# Menhennet v. Davis
+
+## Majority (Trexler, J.,)
+
+Opinion bt
+Trexler, J.,
+The minor son of the plaintiff was injured by being struck by the team of the defendant in charge of his servant. The plaintiff presented proof showing that the defendant had several conversations with the plaintiff and his wife and on these occasions agreed that he would in consideration of the plaintiff not bringing suit, pay all the trouble and expenses growing out of his injuries. The summary of the testimony in this respect is that after expressing his regret for the accident and the carelessness of his driver, defendant stated that if plaintiff would cause him no trouble nor go to law, nor cause him any notoriety, he would take care of the boy, pay all expenses including proper nourishment and do everything to get the boy well. The defendant who was a doctor, furthermore stated that the parents of the boy might call in another doctor and he would pay the expenses. This testimony if believed, was sufficient to support a contract. It was definite and based upon a valid consideration. The father of the child had a right of action against the defendant for the loss of the child’s services and the expenses attending the illness, provided negligence on the part of the defendant could be shown. In making the contract he parted with a right he had. Whether if suit had been brought he could have proven negligence is apart from the question. To both parties to the contract, negligence was apparently not in question as the injury was admitted and the liability for it conceded and was the basis of the arrangements. It is sufficient even if a future right which will probably arise, is given up: Kelly v. Burnham, 248 Pa. 223. Whether the contract was made and what were its terms was a quéstion for the jury. In his charge the learned trial judge alluded to the alleged conversations which formed the evidence of the contract and endeavored to give its terms. The defendant now urges that the judge assumed the contract to be as he stated it and that his statement was at variance with the testimony. We find no reversible error in this. The court distinctly left to the jury the question as to whether there was a contract, told them plainly if they found none they should bring in a verdict for the defendant and subsequently, affirmed several points of like tenor for the defendant. If there was a misquotation of the testimony the defendant had ample time to. correct this matter. The court before the jury retired, invited this action on defendant’s part. It was his duty to speak up when he had the chance: Hilty v. Saltsburg Coal Mining Co., 55 Pa. Superior Ct. 104 (115); Medis v. Bentley, 216 Pa. 324; Com. v. Razmus, 210 Pa. 609.
+There are several assignments directed to certain parts of the charge which, standing alone, might convict the court of error but taken with the context they do not bear out the contention. For the sake of illustration take the fourth assignment of error which is as follows: “In other words there was a proposal by Doctor Davis ‘if no suit is brought against me on account of that accident I will pay the expenses.’ The father said, ‘I will bring no suit. I will agree that no suit should be brought if you agree to pay the expenses.’ ” This standing alone certainly would lead to the conclusion that the court assumed that there was a contract made. If we look at the context we find the court repeated that it was the contention of the plaintiff that such conversations were had and the portion assigned for error was immediately followed by the words, “was that agreement made at that time? That is the first question for your decision.” It is always unsafe as well as unfair to the trial judge to select a single sentence from the body of the charge, sever it from its context and undertake to construe it by itself without regard to what he may have said in the same connection or in other parts of the charge: Knights of Pythias v. Leadbeter et al., 2 Pa. Superior Ct. 461 (474).
+All the assignments of error are overruled and the judgment is affirmed.
