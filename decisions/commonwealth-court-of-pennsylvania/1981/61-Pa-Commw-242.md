@@ -1,0 +1,33 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2059 C.D. 1979"
+decided: "1981-08-12"
+citations: ["61 Pa. Commw. 242"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Crumlish and Judges Blatt and Craig, sitting as a panel of three.", "Judge Wilkinson, Jr., did not participate in the decision in this case."]
+parties: ["Anthony F. Ramondo, t/a Ramondo’s Beer Distributors v. The Zoning Hearing Board of Haverford Township et al. Joseph Sacchetti and Joanna Sacchetti, his wife, et al., Appellants."]
+source_url: "https://static.case.law/pa-commw/61/cases/0242-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1923990
+cites_cases: ["22 Pa. Commonwealth Ct. 365", "263 A.2d 426", "270 A.2d 400", "28 Pa. Commonwealth Ct. 475", "349 A.2d 61", "368 A.2d 1332", "39 Pa. Commonwealth Ct. 447", "396 A.2d 859", "415 A.2d 946", "437 Pa. 481", "440 Pa. 101", "481 Pa. 479", "52 Pa. Commonwealth Ct. 224"]
+---
+
+# Ramondo v. Zoning Hearing Board
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+The Zoning Hearing Board of Haverford Township (Board) appeals from an order of the Court of Common Pleas of Delaware County which reversed a decision of the Board denying a variance to the appellee, Anthony F. Bamondo (Bamondo).
+Bamondo operates a wholesale and retail beer distributorship at the corner of County Line Boad and Loraine Street in Haverford Township, Delaware County. The plot plan shows that the property has a frontage of approximately 180 feet on Loraine Street. Immediately contiguous to the south side of the property along Loraine Street is another tract owned by Bamondo, which has a frontage of 180 feet on Loraine Street and a frontage of 100 feet on Chestnut Avenue (which runs perpendicular to Loraine and parallel to County Line Boad).
+Bamondo applied to the Board for the dimensional variances needed to permit him to build a new structure for his distributorship on the two properties. One such variance was necessary because the new building would create a total building coverage on the property of 44.36 percent instead of the coverage of 20 percent allowed under existing Haverford Township ordinances. The building also required a “front yard” setback from Loraine Street of 15 feet instead of the allowable 20 feet. The Board denied the variance on the grounds that 1) Bamondo failed to prove that the zoning regulation imposed an unnecessary hardship on his property and 2) that the proposed use would create a hazardous condition for the public by reason of a substantial increase in truck traffic.
+Without taking additional evidence the lower court ■reversed the Board’s order and allowed the variance on the grounds that it was a de minimus departure from the zoning regulations and that the proposed new building would actually result in a decrease in traffic congestion and an improvement in the aesthetic quality of the neighborhood.
+The threshold determination for the granting of a variance is the finding of the presence of “unique physical circumstances” of the particular property, causing an “unnecessary hardship” such that “the authorization of a variance is therefore necessary to enable the reasonable use of the property. ’ ’ Section 912 of the Municipalities Planning Code, Act of July 31, 1968, P.L. 805, as amended, 53 P.S. §10912. Upper Leacock Township Supervisors v. Zoning Hearing Board of Upper Leacock Township, 481 Pa. 479, 393 A.2d 5 (1978). The only contention as to an unnecessary hardship presented by Ramondo was evidence that his present business site was plagued by vandalism, theft and traffic congestion and other economic hardships. It is true that unnecessary hardship may be said to result when, due to the physical characteristics of the property, the permitted use is possible only at a prohibitive expense, Holmes v. Zoning Hearing Board of Kennett Township, 39 Pa. Commonwealth Ct. 447, 396 A.2d 859 (1979), but that is not the case here. Our review of the evidence leads us to conclude that Ramondo failed to show that his property cannot be used without the grant of a dimensional variance. Ramondo’s evidence indicates only that he would obtain an economic advantage from the grant of the variance. The absence of such advantage, however, does not constitute a hardship for the purposes of a variance. Clifton Heights Appeal, 440 Pa. 101, 270 A.2d 400 (1970).
+Although the failure to show a hardship is itself fatal to Ramondo’s position, we note that the variance request also fails because, if granted, the variance would detrimentally affect public safety. The Board found that Ramondo’s proposal to increase the size of his loading facilities would result in a dangerous condition through a substantial increase in traffic volume, especially trucks, in the largely residential neighborhood. The lower court, without taking additional evidence, concluded that the modifications would reduce the traffic and improve the quality of the neighborhood, hut in so finding, it exceeded its scope of appellate review under Section 754(h) of the Local Agency Law, 2 Pa. C.S. §.754(b), for the Board’s finding of an adverse effect on the neighborhood was based on substantial evidence.
+Finally, the lower court also erred in determining that the dimensional variance could he granted because it was of a de minimis nature. A variance allowing the building coverage area for commercial construction to he more than doubled, from 20 percent to 44 percent, on a lot with its frontage in a residential zone, is clearly not de minimus. See Pyzdrowski v, Pittsburgh Board of Adjustment, 437 Pa. 481, 263 A.2d 426 (1970) (residential sideyard variance of seven-tenths of a foot is de minimus); Marlowe v. Zoning Hearing Board of Haverford, 52 Pa. Commonwealth Ct. 224, 415 A.2d 946 (1980); Gottlieb v. Zoning Hearing Board of Lower Moreland Township, 22 Pa. Commonwealth Ct. 365, 349 A.2d 61 (1975).
+Order
+And Now, this 12th day of August, 1981, the order of the Court of Common Pleas of Delaware County is reversed.
+Judge Wilkinson, Jr., did not participate in the decision in this case.
+Where the court of common pleas did not take additional evidence its scope of review is to determine if the local agency committed an error of law and whether its necessary findings are supported by substantial evidence. The court may not substitute its judgment for that of the local agency unless the board manifestly abused its discretion. B. & B. Shoe Products Co. v. Zoning Hearing Board of Manheim Borough, 28 Pa. Commonwealth Ct. 475, 368 A.2d 1332 (1977).
