@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 794 and 876"
+decided: "1973-09-19"
+citations: ["226 Pa. Super. 319"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. J., Watkins, Jacobs, Hoffman, Spaulding, Cercone, and Spaeth, JJ."]
+parties: ["Commonwealth v. Rothman, Appellant."]
+source_url: "https://static.case.law/pa-super/226/cases/0319-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 807595
+cites_cases: ["137 A. 2d 463", "142 Pa. Superior Ct. 327", "16 A. 2d 314", "161 A. 2d 915", "192 Pa. Superior Ct. 276", "260 A. 2d 751", "271 A. 2d 230", "391 Pa. 212", "436 Pa. 459", "441 Pa. 318"]
+---
+
+# Commonwealth v. Rothman
+
+## Majority (Spaulding, J.,)
+
+Opinion by
+Spaulding, J.,
+Appellant David S. Rothman was convicted of forgery, uttering a forged instrument and conspiracy by a Montgomery County jury. He appeals from the order of the court below denying his motions for arrest of judgment and for a new trial, contending that the evidence presented at trial was insufficient to support his conviction.
+On May 3, 1971, appellant drove up to the drive-in window of a bank in Bala-Cynwyd, Pennsylvania. On reaching the teller’s window, the front-seat passenger accompanying him endorsed the back of a check and handed it to appellant in the drivex*’s seat who presented it to the teller to be cashed. On receipt of the f258.38 payroll check drawn on the account of Girard Chevrolet, the teller became suspicious. She did not recognize the signature on the check and was familiar with the handwriting of Girard’s authorized signators from having often in the past cashed that company’s payroll checks. When her attempt at verifying the check encountered some delay, appellant drove away from the window and parked nearby. His passenger subsequently walked back to the window and inquired into the delay. On being advised of the bank’s attempt at verification of the check, the passenger returned to the car and the two drove away. It was later established that a page was missing from the Girard Chevrolet check book, which was customarily left lying around that company’s office, accessible to all who passed through that place of business. [The check in question was found to have been forged, with a “Raymond Cart,” the named payee and endorser never having worked for Girard.] It Avas also established that appellant Avas an employee of Girard Chevrolet at the time of the ixicident, having worked from the prior two months as a salesxnan for the concern on whose payroll account the forged check was draAvn. It was this evidence which furnished the basis for appellant’s conviction.
+In reviewing such cases, we are bound to consider the evidence in a light most favorable to the Commonwealth, extending to the Commonwealth the benefit of all reasonable inferences to be drawn therefrom. Commonwealth v. Simpson, 436 Pa. 459, 260 A. 2d 751 (1970). In order to sustain a conviction in cases based on circumstantial evidence, as here, “the theme of guilt must flow from the facts and circumstances proved, and be consistent with them all.” Commonwealth v. Clinton, 391 Pa. 212, 218, 137 A. 2d 463 (1958). A conviction based solely on inference, suspicion and conjecture cannot stand. Viewed in this framework, we cannot accept appellant’s contention that the evidence presented was insufficient to convict.
+Appellant argues that the Commonwealth had proven no more than that he had acted as an unknowing driver and conduit of a forged instrument. He argues by analogy to Commonwealth v. Marino, 142 Pa. Superior Ct. 327, 16 A. 2d 314 (1940). There this Court reversed for insufficient evidence a conviction for operation of a lottery where the sole evidence presented by the Commonwealth was the defendant’s having been a brief and temporary passenger in a car used for numbers traffic and in which numbers slips were found. He argues further that the jury was unwarranted in inferring that he possessed the requisite knowledge that the check he passed to the teller was a stolen and forged instrument, citing Commonwealth v. Owens, 441 Pa. 318, 271 A. 2d 230 (1970). In Owens, our Supreme Court ruled that the mere possession of stolen weapons, the possibilities of innocent acquisition of which “seem myriad”, could not, without more, support a presumption that their possessor knew they were stolen for purposes of sustaining a receiving stolen goods conviction.
+The instant case is readily distinguishable from those cited by appellant in which the sole evidence to establish, scienter or active participation was mere possession or presence. Here, the additional factors of the forged check being that of appellant’s employer, coupled with the leaving of the bank upon learning of the bank’s efforts to verify the check provide sufficient circumstantial evidence for the jury to have found appellant to be a knowing participant. These factors take this case out of the category of cases where convictions cannot stand because “two equally reasonable and mutually inconsistent inferences can be drawn from the same set of circumstances”, one concluding in innocence and the other in guilt. Cf. Commonwealth v. Donald, 192 Pa. Superior Ct. 276, 282, 161 A. 2d 915 (1960); Commonwealth v. Owens, supra. Each element of the Commonwealth’s evidence, i.e., appellant’s presence in the car, his momentary possession and transfer of a forged check, his employment by a company whose checks were stolen, might, if taken separately, fail to support the instant conviction. In combination, however, we find them sufficient to warrant the jury’s finding of guilt.
+The judgment of sentence of the court below is affirmed.
+The passenger was not identified.
