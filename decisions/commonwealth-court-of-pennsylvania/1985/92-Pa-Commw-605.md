@@ -1,0 +1,38 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2299 C.D. 1984"
+decided: "1985-11-08"
+citations: ["92 Pa. Commw. 605"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Doyle and Colins, and Senior Judge Blatt, sitting as a panel of three."]
+parties: ["Bethlehem Mines Corporation, Petitioner v. Workmen’s Compensation Appeal Board (Luketich), Respondents."]
+source_url: "https://static.case.law/pa-commw/92/cases/0605-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1340792
+cites_cases: ["400 A.2d 225", "42 Pa. Commonwealth Ct. 22", "423 A.2d 1135", "437 A.2d 1301", "439 A.2d 1362", "468 A.2d 1193", "477 A.2d 16", "501 Pa. 93", "56 Pa. Commonwealth Ct. 20", "63 Pa. Commonwealth Ct. 340", "64 Pa. Commonwealth Ct. 381", "79 Pa. Commonwealth Ct. 217", "82 Pa. Commonwealth Ct. 643"]
+---
+
+# Bethlehem Mines Corp. v. Workmen's Compensation Appeal Board
+
+## Majority (Judge Colins,)
+
+Opinion by
+Judge Colins,
+Bethlehem Mines Corporation (employer) has filed a Petition for Review of a decision of the Workmen’s Compensation Appeal Board (Board). The Board ■affirmed a referee’s decision granting compensation on the grounds that Nick Luketich (claimant) was permanently and totally disabled by pneumoconiosis, a compensable injury under Section 301(c)(2) of The Pennsylvania Workmen’s Compensation Act (Act). The employer raises two issues for our consideration: (1) whether the claimant sufficiently proved that his disability resulted from pneumoconiosis rather than his cigarette smoking; and (2) whether the referee’s findings of fact were sufficiently detailed so as to determine what evidence, if any, he relied upon in making them.
+The record in this case reveals that the claimant worked for approximately thirty-five (35) yeans underground in the coal mining industry, having last been employed on November 23, 1976. In addition to his work underground, the claimant also smoked cigarettes. On October 31, 1979, he filed a petition for workmen’s compensation based on a diagnosis of pneumoconiosis, a compensable occupational disease.
+A workmen’s compensation claimant has the burden of proving his right to compensation and all of the elements necessary to support an aiward. Smith v. Workmen’s Compensation Appeal Board, 63 Pa. Commonwealth Ct. 340, 437 A.2d 1301 (1982). Where the party with the burden of proof prevails before the referee, as here, this Court’s review is limited to a determination of whether constitutional rights have been violated, whether an error of law has been committed, or whether a necessary finding of fact was unsupported by substantial evidence. Lehman v. Workmen’s Compensation Appeal Board, 64 Pa. Commonwealth Ct. 381, 439 A.2d 1362 (1982).
+The necessary finding of fact in this case is that the claimant was disabled by pneumoconiosis. In order to conclude that a disability resulted from an occupational disease, unequivocal medical evidence must be presented which establishes that the claimant’s disability resulted from the occupational disease, not simply that the disease was present. Brennan v. Workmen’s Compensation Appeal Board (Reading Anthracite Co.), 79 Pa. Commonwealth Ct. 217, 468 A.2d 1193 (1983). Medical testimony is unequivocal' when it establishes that the claimant’s work experience was a Cause of this disability and was not just a possible cause of the claimant’s condition. Ryan v. Workmen’s Compensation Appeal Board, 82 Pa. Commonwealth Ct. 643, 477 A.2d 16 (1984). The referee fpund that the claimant suffered from pneumoconiosis; therefore, in keeping with our scope of review we must determine whether. the medical evidence was sufficiently unequivocal so as to constitute substantial evidence.
+. Macy I. Levine, M.D., the claimant’s treating physician, testified as follows:
+Q • [by claimant’s counsel]: Doctor, did you come- to any opinion concerning his ability to continue work, particularly in the coal mine or any other type of work ? -
+A - [by Dr. Levine]: It ¡was my opinion that he was totally and permanently disabled because of the penumoconiosis due to coal dust. That opinion applied primarily to returning to work in the coal mine, and does not exclude the possibility that he could do some other kind of work in a clean atmosphere in a sedentary position.
+On cross-examination: Dr. Levine admitted that the claimant’s cigarette smoking may have contributed to the disability; however, on re-direct he characterized the exposure to the occupational hazard as “significant,” and posited that the combination of both together was worse than either alone.
+.Dr. Levine’s testimony, if accepted as credible by the fact-finder, would sufficiently establish that the claimant’s work experience was a cause of the disability, and would be, therefore, unequivocal. It must be noted that an occupational disease need not be the sole or exclusive cause of the claimant’s disability. It is sufficient if the disease materially contributed to the disability, rather than a disability resulting from the natural progress of a pre-existing condition. Asten Hill Mfg. Co. v. Workmen’s Compensation Appeal Board, 56 Pa. Commonwealth Ct. 20, 423 A.2d 1135 (1981). Exposure to an occupational hazard which is “significant ’ ’ in causing a disease certainly materially contributes to the disability.
+The petitioner in this case relies on the case of McCloskey v. Workmen’s Compensation Appeal Board, 501 Pa. 93, 460 A.2d 237 (1983). That case is factually distinguishable, and, therefore, inapposite to the case at hand. MeCloskey dealt with secondary, or contributory, factors of a disability such that when a disability is not immediately caused by a compensable injury, but a compensable injury is a secondary cause of the disability, and was a substantial factor in bringing about the disability the claimant may be compensated. The instant case is not a case of contributory factors, but rather of dual primary causes of the claimant’s disability. Therefore, MeCloskey is not controlling*.
+As regards the petitioner’s second contention that the referee ’-s findings of fact were not sufficiently detailed so as to determine what evidence, if any, he relied upon in making them, it must be recognized that neither the Act nor the Administrative Agency Law require a referee to make findings more detailed than necessary to support his decision. Interstate Truck Service, Inc. v. Workmen’s Compensation Appeal Board, 42 Pa. Commonwealth Ct. 22, 400 A.2d 225 (1979). Here -the referee found that the claimant was disabled due to an occupational disease after examining the medical evidence. This evidence included the testimony of Dr. Levine, wherein the doctor described and detailed hi.s clinical observations of the claimant, including radiological evidence and pulmonary function .studies. The necessary inference is that the referee found that the medical evidence showed that the claimant’s disability was significantly attributable ,to an occupational disease. Questions of credibility and weight of ¡the evidence are for the referee to- decide. Interstate Truck Service, Inc. v. Workmen’s Compensation Appeal Board, 42 Pa. Commonwealth Ct. 22, 400 A.2d 225 (1979). Therefore, the referee’s findings are in no way deficient.
+Accordingly, we affirm.
+Order
+•And Now, November 8, 1985, the order of the Workmen’s Compensation Appeal Board, No. A-84637, dated July 12, 1984, is affirmed.
+Act of June 2, 1915, PX. 736, as amended, 77 P.S. §411(2).
+Section 507 of the Administrative Agency Law, 2 Pa. C. S. §507.
