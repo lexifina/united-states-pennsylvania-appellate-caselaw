@@ -1,0 +1,19 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 1494"
+decided: "1976-11-05"
+citations: ["244 Pa. Super. 539", "371 A.2d 514"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth ex rel. Udry v. Udry, Appellant."]
+source_url: "https://static.case.law/pa-super/244/cases/0539-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 825199
+---
+
+# Commonwealth ex rel. Udry v. Udry
+
+## Majority
+
+Order affirmed.
