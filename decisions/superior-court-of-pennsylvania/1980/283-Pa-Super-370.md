@@ -1,0 +1,38 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "3029"
+decided: "1980-08-29"
+citations: ["283 Pa. Super. 370", "424 A.2d 510"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before BROSKY, WICKERSHAM and ROBERTS, JJ.", "WICKERSHAM, J., files a dissenting statement."]
+parties: ["COMMONWEALTH of Pennsylvania v. Nathan FISHER, Appellant."]
+source_url: "https://static.case.law/pa-super/283/cases/0370-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 157017
+cites_cases: ["259 Pa.Super. 536", "269 Pa.Super. 419", "464 Pa. 499", "485 Pa. 191"]
+---
+
+# Commonwealth v. Fisher
+
+## Majority (ROBERTS, Judge:)
+
+ROBERTS, Judge:
+Four hundred forty-four days after filing the complaint, the Commonwealth brought appellant Nathan Fisher to trial. At issue is whether trial was timely under the 180 day rule of Pa.R.Crim.P. 1100(a)(2). It is agreed that 193 days are excludible under Pa.R.Crim.P. 1100(d)(1) because during that time the trial court found appellant incompetent to stand trial. For 212 days, however, the court adjudged appellant competent to stand trial, but committed appellant to a mental health care facility for treatment. We must decide whether the period during which appellant was competent but committed was excludible time under the provisions of Rule 1100. Unlike the trial court, we conclude that appellant was available and thus, we hold that the Commonwealth failed to commence appellant’s trial within the run-time of the Rule. Accordingly, we reverse and order appellant discharged.
+On August 11, 1977, the Commonwealth issued a criminal complaint charging appellant with aggravated assault, possessing instruments of crime, and simple assault. Appellant’s case was listed for trial, but on September 19, 1977, before trial commenced, the court ordered appellant to undergo competency testing at Philadelphia State Hospital pursuant to section 402(b) of the Mental Health and Mental Retardation Act of October 20, 1966, P.L. 96, art. IV, § 402(b), 50 P.S. § 4402(b). From October 21, 1977, until December 21, 1977, a period of 93 days, appellant was incompetent to stand trial and committed to a mental health facility for treatment. The court reviewed appellant’s case on December 21, found appellant competent to stand trial, but concluded that appellant required hospitalization pending trial. Appellant’s condition remained stable a period of 82 days until March 13,1978. This period of 82 days was the first of two disputed periods when appellant was competent, but committed. On March 13, the court again found appellant incompetent and recommitted him for further evaluation. From March 13 until June 21, 1978, a period of 100 days, appellant continued to be incompetent to participate in his trial. It is agreed that this 100 day period was also excludible from the runtime of Rule 1100.
+On June 21, 1978, the court found appellant competent for the second time. The court, as before, determined that appellant required hospitalization during trial and thus, recommitted appellant for ninety days under section 405 of the Mental Health Act, 50 P.S. § 4405. There was no change in appellant’s condition during the 130 days between June 21 and the trial date, November 2, 1978.
+On July 27, 1978, the court granted the Commonwealth an extension of the runtime of the Rule until “105 days after [appellant’s] release.” The unavailability of a Commonwealth witness on September 9, 1978, resulted in the postponement of trial. Appellant was recommitted for an additional ninety days. On October 11, 1978, appellant filed a petition to dismiss all charges pursuant to Rule 1100, which the court denied on October 27, 1978.
+On November 2, 1978, appellant’s case was called for trial. The court, sitting without jury, convicted appellant of aggravated assault and possession of an instrument of crime. The court imposed sentence of two to five years imprisonment on the aggravated assault conviction and a consecutive term of three years probation on the conviction for possession. Post-verdict motions were denied and this appeal followed.
+In our view the trial court and the Commonwealth incorrectly concluded that appellant was unavailable throughout the period of hospitalization. Rule 1100(d)(1) provides that “[i]n determining the period for commencement of trial, there shall be excluded therefrom such period of delay at any stage of the proceedings as results from: (1) the unavailability of the defendant or his attorney.” The comments explain that a defendant is unavailable when “physically or mentally incompetent to proceed.” Thus it is clear that appellant was unavailable during the periods of incompetency and corresponding commitment. See also Act of July 9, 1976, P.L. 817, No. 143, 50 P.S. §§ 7402(b), 7403(b) (Supp. 1980-81).
+But once the court deemed appellant competent to stand trial, although continuing hospitalization under the civil commitment provisions, appellant was available for trial and the stay of prosecution lifted. At that time no reason existed to delay further the commencement of trial. In a similar case, this Court discharged a defendant who after transfer to a state mental institution for a competency determination was not brought to trial within the runtime of Rule 1100. Commonwealth v. Quinlan, 259 Pa.Super. 536, 393 A.2d 955 (1978). Following psychiatric examination the defendant was similarly deemed competent to stand trial. We held that the defendant’s unavailability ceased at the completion of the psychiatric examination and thus, that the Commonwealth improperly failed to obtain the defendant from the hospital for trial. So too, in this case, once appellant was adjudged competent, he was available for trial. Cf. Commonwealth v. McQuaid, 464 Pa. 499, 347 A.2d 465 (1975) (civil commitment provisions may apply to persons found not incompetent to stand trial).
+The Commonwealth now argues that the trial court’s grant of an extension for 105 days following appellant’s release from the institution operated to stay the runtime of Rule 1100. There are several reasons for rejecting this argument. Initially, appellant correctly notes that the Commonwealth’s petition for an extension did not allege specific grounds to support a finding that the extension was necessary. The bare allegation that the Commonwealth exercised due diligence and thus was entitled to an extension, without more, does not satisfy the requirements of Pa.R.Crim.Proc. 1100(c). Commonwealth v. Ehredt, 485 Pa. 191, 401 A.2d 358 (1979); Commonwealth v. Stickle, 269 Pa.Super. 419, 410 A.2d 327 (1979). Appellant is also correct that the trial court’s grant of an extension until “105 days after release” failed to specify the time for commencement of trial as required by Rule 1100(c). Although found competent to stand trial, appellant may have been hospitalized for a lengthy period, during which the runtime for Rule 1100 could not have been permanently tolled. Finally, we agree with appellant’s contention that the grant of such an open-ended extension directly contravenes the court’s adjudication of competency. As previously discussed, the policy of Rule 1100 would be thwarted if the Commonwealth were allowed to avoid the effect of the Rule when the defendant is found competent, but merely recommitted pending disposition of the case.
+Judgment of sentence reversed and appellant is discharged.
+WICKERSHAM, J., files a dissenting statement.
+
+## Dissent (WICKERSHAM, Judge,)
+
+WICKERSHAM, Judge,
+dissenting:
+I dissent.
+I would affirm the judgment of sentence on the opinion of the learned trial judge, the Honorable Michael E. Wallace.
