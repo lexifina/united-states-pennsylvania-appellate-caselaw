@@ -1,0 +1,36 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1706"
+decided: "1993-03-02"
+citations: ["423 Pa. Super. 334", "621 A.2d 144"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before OLSZEWSKI, TAMILIA and BROSKY, JJ."]
+parties: ["Fern DYE for Vicki McCOY, a Minor v. Alan McCOY and Rose Awman, Appellants."]
+source_url: "https://static.case.law/pa-super/423/cases/0334-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 924730
+cites_cases: ["340 Pa.Super. 552", "380 Pa.Super. 484", "402 Pa.Super. 276"]
+---
+
+# Dye v. McCoy
+
+## Majority (TAMILIA, Judge.)
+
+TAMILIA, Judge.
+Alan McCoy and Rose Awman, his girlfriend, appeal from the March 16, 1992 Protection From Abuse (PFA) Order enjoining them for one year from contact with McCoy’s minor child, Vicki McCoy. The child’s mother, appellee Fern Dye, requested protection for her child when Vicki returned home from a weekend visit with McCoy with a scratch on her nose, which Vicki testified was the result of her father striking her across the face with a belt buckle, and a visible handprint on her face, a consequence of an unprovoked slap by Awman. Dye had initially received a temporary ex parte PFA Order on February 19, 1992 which, after the March 16, 1992 hearing, was extended to remain in effect until March 16, 1993. The court also stated on the record the February 24, 1992 custody Order, issued by a judge other than the one presiding over this PFA proceeding, was to remain in effect.
+Appellants argue there was insufficient evidence to justify the PFA Order and the actual Order differed materially from the oral summation issued from the bench on the day of the hearing. Appellants’ argument there was insufficient evidence to warrant the issuance of a PFA Order because there was no specific finding they caused Vicki substantial pain is totally devoid of merit.
+The Protection From Abuse Act, 23 Pa.C.S. § 6102 et seq., provides an Order may be issued “to bring about a cessation of abuse of the plaintiff or minor children.” Id., § 6108(a). The Order may, inter alia, direct the defendants to refrain from abusing the victim and prohibit any contact. Id. Abuse is defined by the Act to include intentionally, knowingly or recklessly causing bodily injury, placing by physical menace another in fear of imminent serious bodily injury and physically abusing minor children. Id., § 6102(a)(1), (2) and (4).
+At the March 16, 1992 hearing conducted to address the allegations of abuse, testimony was received from the appellee, the child and the child’s aunt, Cathlene Reebanker, to whom Vicki had related the instances of abuse. The court conducted a voir dire examination of five-year old Vicki and found she was a competent witness, aware of the concepts of truth and falsity. Vicki testified that while she sat watching cartoons, her father struck her across the nose with his belt buckle and appellee Awman slapped her face. Vicki stated when she returned home she told her mother about the unprovoked incident and indicated she did not wish to visit her father at the next scheduled time. Dye testified she immediately sought an ex parte PFA Order.
+Based on Dye’s and Vicki’s demeanor and manner, the court found their testimony credible and found the injuries inflicted by appellants constituted bodily injury -within the meaning of the Act. The court also specifically found the testimony of the appellants incredible. Based on these findings the issuance of the PFA Order was appropriate. See Williamson v. Williamson, 402 Pa.Super. 276, 586 A.2d 967 (1991). (Finder of fact is entitled to weigh the evidence presented, assess its credibility and believe all, part or none of what is presented.)
+Next, appellant argues the monologue given by the court at the conclusion of the hearing was at variance with the March 16, 1992 written Order. Specifically, appellants argue the judge’s oral summation did not bar them from having contact with the child, while the written Order precluded contact.
+Our review of the court’s verbal summation and that of the written Order reveals no conflict and appellants are not entitled to relief. However, because we disagree with the court’s statement it did not, pursuant to 23 Pa.C.S. § 6108(a)(4), have authority to alter the February 24, 1992 custody Order, and because we are concerned solely with the best interests of the minor child, we are constrained to remand this case for further consideration. Section 6108(a)(4) states, in pertinent part, “[t]he court shall consider, and may impose on a custody award, conditions necessary to assure the safety of the plaintiff and minor children from abuse.” Moreover, because we are unfamiliar with the terms of the February 24, 1992 custody Order, we are unable to determine whether its continuation would be in direct conflict with the one year PFA Order. Indeed, should the custody Order grant McCoy visitation with or partial custody of Vicki, the PFA Order would be rendered a nullity. This is not a permissible resolution of these actions.
+A PFA Order may not impose other than an emergency support or custody Order pursuant to section 6108, Relief, (a)(4) regarding custody and (a)(5) regarding support. It appears, however, that section 6108(a)(4) precludes a custody award, pre-existing or following the PFA Order, from nullifying the PFA Order as its purpose is to assure the safety of a child or children above and beyond any other Orders or relationships involving the children. To hold otherwise would have the effect of emasculating the central and extraordinary feature of the PFA which is to prospectively control and prevent domestic violence. Commonwealth v. Smith, 380 Pa.Super. 484, 552 A.2d 292 (1988); Eichenlaub v. Eichenlaub, 340 Pa.Super. 552, 490 A.2d 918 (1985) (primary goal of PFA was not retrospective punishment but rather, advance prevention of physical and sexual abuse). The duration of a PFA Order may not be extended beyond one year in the absence of further abuse, however, either party may petition the court to amend the Order at any time. 23 Pa.C.S. § 6108(b), Duration and amendment of order or agreement. It is this amendment process which may be utilized to determine whether a more liberal custody/visitation Order may become operative.
+Based on the foregoing reasons of law and fact, therefore, we remand this matter for the sole determination whether the terms of the custody Order are in conflict with the PFA Order requiring a specific suspension or supersedance of the custody Order by the PFA to avoid conflict and continuing litigation over this issue.
+Order affirmed. Case remanded for consideration in conformance with this Opinion.
+Jurisdiction relinquished.
+. Although the Order in question spells appellant’s name Awman, the appellant’s brief spells it Alman.
+. Because neither party has seen fit to provide this Court with a copy of this Order and one is not included in the record, we are unaware of its terms and/or conditions.
+. Once again we note with disfavor the parties’ failure to include a transcript of this hearing. Accordingly, and because neither party contests its accuracy, we rely on the trial court opinion for a recitation of the facts and summation of testimony.
+. See footnote 3.
