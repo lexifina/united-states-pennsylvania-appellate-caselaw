@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1241"
+decided: "1986-04-08"
+citations: ["352 Pa. Super. 246", "507 A.2d 865"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before OLSZEWSKI, POPOVICH and MONTGOMERY, JJ."]
+parties: ["Eugene T. RIEK and Cecelia L. Riek, Husband and Wife, and Edward R. Mindyas and Josephine E. Mindyas, Husband and Wife, Appellees, v. Willit P. BINNIE and Betty Binnie, Appellants."]
+source_url: "https://static.case.law/pa-super/352/cases/0246-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 651032
+cites_cases: ["106 A.2d 461", "123 A.2d 715", "251 Pa.Super. 504", "378 Pa. 264", "385 Pa. 352"]
+---
+
+# Riek v. Binnie
+
+## Majority (MONTGOMERY, Judge:)
+
+MONTGOMERY, Judge:
+The Plaintiff-Appellees instituted this action seeking a declaratory judgment with regard to the rights of the Defendant-Appellees to use a private road in Westmont Borough, Cambria County, for ingress and egress. The Appellees own properties on either side of the private drive, known as Francis Alley, and sought to prevent the Appellants from using that road for ingress and egress. Property owned by the Appellants is situated at the end of Francis Alley, and they have asserted rights to use the alley based upon grounds including public easement, easement by necessity, private easement and rights obtained by prescriptive use of the property for ingress and egress for a period in excess of twenty-one years.
+Following a trial, the lower court entered an order in favor of the Appellees. It held that the Appellants only had a permissive right to continue to use Francis Alley so long as they did not interfere with the use of it by the Appellees. Moreover, the lower court’s order declared that if the Appellees gave notice to the Appellants of an intention to terminate and withdraw the alleged permissive right of the Appellants to use Francis Alley, or if the Appellants interfered in any way with the use by the Appellees of the right of way, the Appellants’ rights to use the alley could be terminated.
+The lower court determined that the Appellants had not established a public right of use with regard to the alley, had not established an easement on grounds of necessity, and had not supplied proof with regard to their claim of rights based on the theory of prescriptive easement. The lower court did not fully address the Appellants’ claims of a private right of easement. We need only address our attention in this case to the last mentioned basis upon which the Appellants claimed a right to use Francis Alley. We find that the pertinent facts and applicable law mandate a finding that the Appellants enjoy a private right to use Francis Alley, for ingress and egress, which cannot be extinguished by any notice or similar action by the Appel-lees.
+The record shows that all of the land in issue in this case, including the properties owned by the Appellees and Appellants, as well as Francis Alley, were acquired as part of a seventy-five acre plot by Christopher Palliser from Cambria Iron Company by deed dated December 1, 1877, recorded on January 28, 1878 in the Recorder’s Office of Cambria County. By a Plot Plan dated August 13, 1907, Christopher Palliser laid out streets and alleys and individual lots in the parcel, and his Plot Plan was thereafter filed in the Cambria County Recorder of Deeds Office on October 31, 1911, by Mr. Palliser’s heirs. That Plot Plan included Francis Alley. Subsequently, by a succession of conveyances wherein Francis Alley continued to be used as a boundary in the description of the properties conveyed, both the Appellees and the Appellants have acquired their parcels in the Palliser Plot Plan. It is noted that Francis Alley has never been formally accepted as a street by Westmont Borough.
+It is clear that any street, lane, or alley laid out by any person in a plot or plan of lots, which has never been opened to or used by the public for twenty-one years after the initial laying out of the same, may not thereafter be opened for public use or easement, without the consent of the owners of the abutting lots. Act of May 9, 1889, P.L. 173, No. 192, § 1, 36 P.S. § 1961; Rahn v. Hess, 378 Pa. 264, 106 A.2d 461 (1954). However, while the public easement or right of use in such lanes or alleys is lost as the result of the passage of such time and lack of use, the purely private rights of easement of individual property owners in the plan of lots to use the alley or way is not extinguished. See Cohen v. Simpson Real Estate Corporation, 385 Pa. 352, 123 A.2d 715 (1956); Rahn v. Hess, Supra; Drusedum v. Guernaccini, 251 Pa.Super. 504, 380 A.2d 894 (1977).
+Accordingly, it is evident that the Appellants enjoy the private right to use Francis Alley for ingress and egress as a result of the recorded Palliser Plot Plan, despite the fact that the municipal body never accepted Francis Alley as a public way. The lower court erred in its conclusion that the Appellants’ rights to use the alley could be defeated by any type of notice from the Appellees. Accordingly, we must reverse.
+The order of the lower court is hereby reversed, and this case is remanded to the lower court with directions that a declaratory judgment be entered in favor of the Defendant-Appellant. Jurisdiction is not retained.
+. In view of this finding, it would serve no purpose for us to address the Appellants’ remaining contentions regarding prescriptive use, easement based upon necessity, and a public right of access to Francis Alley. Also, we must deny the Appellees’ Motion to Dismiss, which was grounded upon the assertion that the Appellants wrongfully failed to print a part of the record for this appeal. The reproduced record before us was adequate to address the issue of private right of use upon which we have based our decision in this case.
