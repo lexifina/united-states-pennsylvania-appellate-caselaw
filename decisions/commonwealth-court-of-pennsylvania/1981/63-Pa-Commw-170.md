@@ -1,0 +1,32 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1765 C.D. 1980"
+decided: "1981-12-14"
+citations: ["63 Pa. Commw. 170"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Williams, Jb., MacPhail and Palladino, sitting as a panel of three."]
+parties: ["Fred W. Querry, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/63/cases/0170-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1926819
+cites_cases: ["15 Pa. Commonwealth Ct. 447", "27 Pa. Commonwealth Ct. 522", "31 Pa. Commonwealth Ct. 424", "327 A.2d 199", "367 A.2d 366", "376 A.2d 314", "397 A.2d 499", "398 A.2d 743", "40 Pa. Commonwealth Ct. 299", "41 Pa. Commonwealth Ct. 119", "414 A.2d 727", "421 A.2d 530", "51 Pa. Commonwealth Ct. 315", "54 Pa. Commonwealth Ct. 425"]
+---
+
+# Querry v. Commonwealth
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+This case arises out of an unemployment compensation claim which was filed by the Petitioner, Fred W. Querry (Claimant) on March 11, 1980. The Office of Employment Security issued a decision denying benefits under the provisions of Section 402(b) (l) of the Unemployment Compensation Law stating that Claimant failed to sustain Ms burden of proving that his voluntary termination was for a cause of necessitous and compelling nature. The Claimant appealed the referee’s decision to the Unemployment Compensation Board of Review (Board), where the decision of the referee was affirmed. The Claimant now appeals to the Commonwealth Court from that adverse ruling below.
+The Claimant was employed by Cornelius Brothers (Employer) as a log truck driver for two and one-half months at a rate of $3.75 per hour. On December 11, 1979, the Claimant took the Employer’s truck home after work. On December 12, 1979, the Claimant did not report to work as scheduled. He overslept that morning and was telephoned by his employer to report to work. The testimony is conflicting as to what transpired during their telephone conversation and later meeting when the Claimant returned the Employer’s truck. The Employer testified that in response to his question, “Why didn’t you come to work?” the Claimant said, “I am quitting, I am going on relief.” The Claimant testified that the Employer said, “What is the problem? I know, wages.” To that the Claimant contends he responded, “That’s part of it.” Claimant further contends he never said he was “quitting, ’ ’ but rather left his job because he did not have the correct class license to drive his Employer’s trucks. Claimant also alleges he did not say he was going on relief — but rather said that he was going to the relief office to get assistance for food stamps.
+The Board resolved the conflict in the testimony by finding that the Claimant overslept and reported late at which time he informed the Employer he was quitting and going on public assistance; that the Claimant quit because he was dissatisfied with his wages and the distance he was traveling to and from his place of employment; and that the Claimant made no effort on his own part to resolve whatever problem there may have been with his driver’s license.
+In a voluntary termination case, the Claimant bears the burden of proving a right to compensation. Walker v. Unemployment Compensation Board of Review, 27 Pa. Commonwealth Ct. 522, 525-26, 367 A.2d 366, 369 (1976). Where, as here, the party with the burden of proof does not prevail before the Board, our scope of review is limited to determining whether the findings of fact are consistent with each other and with the conclusions of law and whether’they can be sustained without a capricious disregard of competent evidence. Pease v. Unemployment Compensation Board of Review, 40 Pa. Commonwealth Ct. 299, 302, 397 A.2d 499, 451 (1979). Questions of credibility, resolution of conflicts in the evidence presented and a determination of the weight to be given to the evidence are, of course, matters for the Board to determine. Roach v. Unemployment Compensation Board of Review, 31 Pa. Commonwealth Ct. 424, 427, 376 A.2d 314, 315 (1977). In a ease such as this, where an employee voluntarily terminated his employment, the Court must determine if the Claimant met his burden of proving that he did so for a cause of necessitous and compelling nature. Whether one had cause of a necessitous and compelling nature to terminate employment is a legal conclusion subject to appellate review by this Court in the instant case. McNeil v. Unemployment Compensation Board of Review, 51 Pa. Commonwealth Ct. 315, 414 A.2d 727 (1980). It is well settled that neither dissatisfaction with one’s wages, working conditions, nor inconvenience of transportation to work is sufficient to establish the necessary justification for terminating employment. See Snyder v. Unemployment Compensation Board of Review, 54 Pa. Commonwealth Ct. 425, 421 A.2d 530 (1980); Mann v. Unemployment Compensation Board of Review, 41 Pa. Commonwealth Ct. 119, 398 A.2d 743 (1979); Mosley v. Unemployment Compensation Board of Review, 15 Pa. Commonwealth Ct. 447, 327 A.2d 199 (1974).
+Under this well settled law, the Claimant’s actions in the instant case cannot he held to constitute cause of a necessitous and compelling nature for leaving employment. Our review of the record reveals that in making its findings and reaching its conclusions of law, the Board did not disregard competent evidence; rather, it resolved the conflicts in the evidence against the Claimant. This is the proper function of the Board. Being satisfied that the Claimant failed to sustain his burden of proof, we will affirm the Board’s order.
+Order
+And Now, this 14th day of December, 1981, the Order of the Unemployment Compensation Board of Review, decision number B-185540, dated June 30, 1980, denying Fred W. Querry, Claimant, unemployment benefits, is hereby affirmed.
+Section 402(b) (1) of the Unemployment Compensation Law, Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §802(b) (1) provides in pertinent part:
+An employe shall be ineligible for compensation for any week—
+(b)(1) In which bis unemployment is due to voluntarily leaving work without cause of a necessitous and compelling nature. . . .
