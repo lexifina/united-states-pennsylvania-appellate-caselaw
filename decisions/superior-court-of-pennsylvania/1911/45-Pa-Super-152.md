@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 164"
+decided: "1911-03-01"
+citations: ["45 Pa. Super. 152"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rige, P. J., Henderson, Morrison, Orlady, Head, Beaver and Porter, JJ."]
+parties: ["Truby, Appellant, v. Steele."]
+source_url: "https://static.case.law/pa-super/45/cases/0152-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 419374
+cites_cases: ["114 Pa. 618", "172 Pa. 191", "195 Pa. 225", "196 Pa. 497", "21 Pa. Superior Ct. 351", "221 Pa. 131", "24 Pa. 143", "43 Pa. 155", "5 W. & S. 397"]
+---
+
+# Truby v. Steele
+
+## Majority (Beaver, J.,)
+
+Opinion by
+Beaver, J.,
+It was held in Cobaugh’s Appeal, 24 Pa. 143, that “The law limiting the lien of a decedent’s debts does not apply to the compensation earned by and allowed to the executor or administrator. That compensation is not a debt of the decedent, but a part of the expenses of administration. The right to it may accrue after the seven years have expired. The whole scope and spirit of the act show that it was intended to prevent heirs and purchasers from being surprised by claims against the decedent himself, not placed on record in proper time. An executor may retain his commissions out of the personal fund, and let the unpaid creditors look to the land. But if he chooses to exhaust the personal fund by paying the debts, and trust the real estate for his own compensation, he puts the heirs in no worse condition. This sale was, therefore, rightly ordered.” See also Demmy’s Appeal, 43 Pa. 155.
+So in Reynold’s Estate, 195 Pa. 225, decided since the act limiting the lien of a decedent’s debts to two years (Act of June 8,1893, P. L. 392, as amended by the Act of June 14, 1901, P. L. 562), it was held that “The orphans’ court has jurisdiction to decree the sale of the real estate of a decedent to pay the expenses of the administration of his estate. Such expenses are not debts of the decedent, and the law limiting the lien of his debts does not apply to them, and a sale for their payment may be decreed after the expiration of the lien of the debts of a decedent.”
+These well settled cases are conclusive of the main question involved in the case under consideration.
+The action was one of ejectment brought by the plaintiff, who was the granddaughter of Margaret Young, for the recovery of the undivided fifth part of a lot sold by John C. Young, the administrator of the grandmother’s estate, upon a petition presented to the orphans’ court, which was allowed and the sale decreed. It is now claimed that the court had no jurisdiction to decree the sale, the petition containing no jurisdictional facts upon which the decree could be based, and, upon the trial of the case, the court reserved the question, directing a verdict to be entered for the plaintiff. Upon a motion for judgment, non obstante veredicto, judgment was finally entered for the defendant, and the case is here upon appeal from that judgment.
+The plaintiff’s argument seems to regard Crawford’s Estate, 221 Pa. 131, as ruling this case, but that refers, as is clearly shown by the opinion of Mr. Justice Brown, to a sale under the Act of April 18, 1853, P. L. 503, and we expressly ruled in Kiskaddon v. Dodds, 21 Pa. Superior Ct. 351, that the Price act of 1853 does not apply to a case where a petition is filed in the orphans’ court by an executor or administrator for an order of sale for the payment of debts, -referring to Spencer v. Jennings, 114 Pa. 618. In the same case, we decided that the Act of April 4, 1901, P. L. 66, was constitutional and was proper as validating private sales of decedent’s real estate made by executors or administrators for the payment of debts. As is shown in the opinion of the court below, this sale was made under the provisions of placitum 2 of sec. 31 of the Act of March 29, 1832, P. L. 190, which is as follows: “The orphans’ court which possesses jurisdiction of the accounts of an executor, administrator or guardian shall have power to authorize a sale or mortgage of real estate by such executor, administrator or guardian in the following cases, namely: .... II. On the application of such executor or administrator, or of any person interested, setting forth, that on the final settlement of the administration account, it appears that there are not sufficient personal assets to pay the balance appearing to be due from the estate of such decedent, either to the accountant or others.”
+In the original petition for the sale, it is set forth: “That the personal estate of said decedent is insufficient to pay the just debts of the decedent, and that it is requisite to sell said lots to pay said debts. That the petitioner has annexed a true and perfect inventory and appraisement of the personal estate of said decedent, and a correct statement of the real estate of said decedent, as far as known to him, and of the debts of said decedent which came to your petitioner’s knowledge.”
+These facts gave the court jurisdiction originally, but it is alleged that the inventory and appraisement, etc., do not now appear. However that may be, it seems to us that, if the inventory and appraisement and the other papers necessary were exhibited to the court, it was all that was necessary to give the court jurisdiction, and the presumption is that the statements contained in the petition are true. However that may be, the subsequent order of March 7, 1886, based upon a reference to the original order and decree, which are recited in the petition and upon other facts which appear of record, including the filing of an account by the administrator, showing a balance due from the estate, would seem to have authorized the sale under the act hereinbefore recited.
+The sale thus ordered, however, under which the property for which this ejectment was brought was sold, was a private sale (which prior to the Act of May 9,1889, P. L. 182, was unauthorized), and was apparently so made. This irregularity, however, is cured by the Act of April 4, 1901, P. L. 66: Kiskaddon v. Dodds, 21 Pa. Superior Ct. 351.
+Taking the entire record of the orphans’ court, as it was in evidence at the trial, we are of opinion that the court below properly entered judgment non obstante veredicto for the defendant, as is clearly shown in its opinion.
+Judgment affirmed.
