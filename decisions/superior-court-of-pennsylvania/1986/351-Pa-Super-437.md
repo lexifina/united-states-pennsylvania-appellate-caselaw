@@ -1,0 +1,51 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "00167"
+decided: "1986-03-14"
+citations: ["351 Pa. Super. 437", "506 A.2d 428"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before BECK, JOHNSON and MONTGOMERY, JJ."]
+parties: ["Carl NACCARATI and Marion Naccarati, His Wife, Appellants, v. William S. GARRETT, Jr., Appellee."]
+source_url: "https://static.case.law/pa-super/351/cases/0437-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 649816
+cites_cases: ["282 A.2d 206", "305 Pa.Super. 302", "326 Pa.Super. 319", "335 Pa. 497", "373 Pa. 614", "444 Pa. 263", "504 Pa. 571", "7 A.2d 338", "96 A.2d 901"]
+---
+
+# Naccarati v. Garrett
+
+## Majority (BECK, Judge:)
+
+BECK, Judge:
+This is an action in medical malpractice that arose out of breast augmentation surgery performed by the defendantappellee, Dr. William S. Garrett, Jr., on plaintiff-appellant, Marian Naccarati, in April of 1979. Mrs. Naccarati claims that subsequent to insertion of the breast implants she developed extreme drooping of the breasts, hardness of the breasts, and bruises due to post-operative procedures designed to reduce the hardness. The Naccaratis brought the action on two theories: negligence in that Mrs. Naccarati’s prior condition did not warrant breast augmentation surgery and lack of informed consent in that Mrs. Naccarati was not fully informed of the risks of this kind of surgery. After trial, the jury returned a verdict in favor of the defendant, Dr. Garrett. The trial judge denied plaintiffs’ motion for a new trial, and this appeal followed.
+On appeal, appellants raise two issues: (1) whether the trial court erred in denying appellants’ motion to withdraw a juror on the basis that an answer given by the defendant on direct examination was hearsay and unfairly prejudiced the jury against the plaintiff; and (2) whether the trial court erred in instructing the jury on the issue of professional negligence.
+Appellants’ first issue requires us to consider a portion of the trial record. On direct examination, Dr. Garrett, the defendant-appellee, had testified that he had regarded as “acceptable” the result of the cosmetic surgery he had performed on Mrs. Naccarati. He testified that he believed Mrs. Naccarati did not need a mastopexy (breast lift surgery) to correct sagging breasts. There followed this exchange:
+Q. Could the implants be removed?
+A. Oh, yes, this operation is completely reversible. It’s rather easy to take the implants out. It’s much easier to take them out than to put them in. You can just put a little Novocaine in the incision and reopen the incision and express the implant and take it out very easily. It’s interesting that that’s an operation that is very infrequently done. I have had one patient who asked if I would remove her implants, and maybe without being too anecdotic, it might help you to understand some background if I told you—
+MR. MORAN: Your honor, excuse me. I would object to any statements about what other patients said to Dr. Garrett as hearsay.
+THE COURT: Well, this isn’t hearsay in a sense that it was a question of what — that any — it was related to the case. So, I’m going to overrule your objection.
+THE WITNESS: For an example, a patient who had implants put in really at the insistence of her husband, she knew that I would not have approved of that and she kept that information from me and I did the augmentation. It turned out her husband was a wife beater. It’s not related to this case, of course, but it turned out that her husband was a wife beater, and she finally went through counseling and she divorced him, and she came back and said, “Would you remove my implants? My husband did that, and I’m through with him and I want to be back like I was.” And I said, “Yes, I think that’s perfectly reasonable,” and I took her implants out. She’s the only patient who’s ever asked me to do that.
+N.T. May 15, 1984, at 82-88.
+After seven more questions and answers, defendant’s counsel, Mr. Heintzman, concluded his direct examination and this exchange followed:
+MR. MORAN: May we approach the bench, Your Honor?
+THE COURT: All right.
+(Whereupon the following Side-Bar discussion is held:)
+MR. MORAN: Your Honor, I have made the objection to the hearsay of Dr. Garrett. After the hearing the anecdote that he related, and specifically making some allusion to the fact that the woman who requested removal of her implants was married to a husband, a wife beater, I think that that is extremely prejudicial, and I’m going to move for the withdrawal of a juror.
+MR. HEINTZMAN: Well, but he also specifically said it has nothing to do with this case.
+THE COURT: I’m going to deny that.
+MR. MORAN: Thank you, Your Honor.
+(Whereupon the Side-Bar discussion is concluded.)
+N.T. May 15, 1984, 84-86.
+The issue as framed by appellant has two grounds: that the trial court erred in overruling the hearsay objection and that the court erred in not granting a mistrial based on the prejudicial nature of the answer. We hold that much of Dr. Garrett’s anecdote about the patient who asked to have implants removed was indeed hearsay. The statements that the patient’s husband was “a wife-beater,” that the patient “went through counseling,” and that she divorced her husband were clearly offered for their truth. Dr. Garrett did not say how he acquired this information, but it is unlikely that it was by personal observation. The source, therefore, was an out-of-court declaration, probably by the patient, to Dr. Garrett. Thus, the statements were hearsay. Kemp v. Qualls, 326 Pa.Super. 319, 327-28, 473 A.2d 1369, 1373 (1984).
+Appellee claims that the statements are admissible under the exception, to the hearsay rule for statements made to a physician for the purpose of obtaining advice and treatment. Fed.R.Evid. 803(4) provides that the hearsay rule does not exclude “[statements made for purposes of medical diagnosis or treatment and describing medical history, or past or present symptoms, pain or sensations, or the inception or general character of the cause or external source thereof insofar as reasonably pertinent to diagnosis or treatment.” Language very similar to this exception has been adopted in Pennsylvania. Descriptive statements of a sick or injured person as to the patient’s condition, symptoms, and feelings are admissible if made to a medical attendant for the purpose of medical treatment and advice. Caskie v. Coca-Cola Bottling Co., 373 Pa. 614, 618, 96 A.2d 901, 903 (1953).
+In the case sub judice, there is no evidence that Dr. Garrett learned of his patient’s having been abused by her husband, having had counseling, or having been divorced from the patient herself or during the course of treatment. Even if the patient was the source, such statements by no means related to the patient’s “symptoms, pain, or sensations.” Thus, no exception applies, and the statements made by Dr. Garrett at trial were inadmissible hearsay.
+This court, however, will not award a new trial based on an error of law alone. We must conclude that the trial error influenced the verdict and led to an incorrect result. O’Malley v. Continental Insurance Co., 305 Pa.Super. 302, 307-09, 451 A.2d 542, 545 (1982).
+Dr. Garrett pointed out that his anecdote was not related to the case sub judice. Moreover, the jury would certainly weigh the fact that this testimony was being offered by the defendant himself. Further, as the trial court suggested, it is untenable to propose that a jury would infer from this anecdote that all women who request removal of breast implants, or Mrs. Naccarati in particular, have the domestic problems or emotional characteristics of the patient in Dr. Garrett’s anecdote. We hold that the error in admitting the hearsay testimony was harmless.
+Appellants’ second ground for urging a mistrial is that the anecdote was prejudicial. Based on the same considerations as for our finding of harmless error on the first ground, we cannot agree that the defendant’s answer aroused the jury’s prejudices or influenced their verdict unfairly. We conclude, therefore, that the trial court did not abuse its discretion in denying appellants’ motion to withdraw a juror. O’Malley v. Continental Insurance Co., supra, 305 Pa.Superior Ct. at 309-10, 451 A.2d at 546.
+The second issue raised by appellants is based on that part of the court’s charge wherein the court defined negligence and then stated:
+“Now, under the law a physician is permitted a broad range of judgment in his professional duties. A physician, however, is not excused for an error of judgment when he is negligent. He must base his professional decisions on his knowledge, his skill, and a careful study and consideration of the case, and exercise of judgment must be founded on his learning and on his experience, and on his expertise. Of course, there may be errors in judgment that are so gross as to be inconsistent with that degree of skill, and under the circumstances it would be negligence.” N.T. May 15, 1984, at 138-39.
+Appellant argues that this instruction, by its use of the pronoun “his,” is contrary to the law, which is that “the medical judgment, itself, must be made with the degree of skill, knowledge and care as that normally exercised in the medical profession.”
+We note, however, that jury instructions “must be viewed in toto to determine if any error has been committed.” Riddle Memorial Hospital v. Dohan, 504 Pa. 571, 475 A.2d 1314 (1984). That part of the court’s charge quoted above was preceded by a lengthy definition of professional negligence, which included this statement: “A physician must have and use the same knowledge and skill, and exercise the same care as that which is usually had and exercised in the medical profession.” N.T. May 15, 1984, at 136. This statement, virtually identical to that urged by appellants, is a correct charge on professional negligence. See Incollingo v. Ewing, 444 Pa. 263, 274, 282 A.2d 206, 213 (1971); Hodgson v. Bigelow, 335 Pa. 497, 515, 7 A.2d 338, 346-47 (1939). Accordingly, the jury instructions as read in toto were proper. We therefore hold that the trial court made no error in instructing the jury.
+Judgment affirmed.
