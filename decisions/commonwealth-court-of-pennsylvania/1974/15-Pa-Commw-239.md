@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1728 C.D. 1973"
+decided: "1974-10-09"
+citations: ["15 Pa. Commw. 239"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Crtimlish, Jr., Wilkinson, Jr. and Rogers, sitting as a panel of three."]
+parties: ["Veronica George, Appellant, v. Commonwealth of Pennsylvania, Department of Education, Appellee."]
+source_url: "https://static.case.law/pa-commw/15/cases/0239-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1861588
+cites_cases: ["100 A. 2d 55", "191 A. 2d 897", "201 Pa. Superior Ct. 375", "375 Pa. 200", "71 Pa. D. & C. 216"]
+---
+
+# George v. Commonwealth
+
+## Majority (Judge Wilkinson,)
+
+Opinion by
+Judge Wilkinson,
+The narrow bnt important issue presented by this case is whether the Public School Code of 1949, Act of March 10, 1949, P. L. 30, as amended, 24 P.S. §1-101, permits a school district to grant a teacher professional employe status before the teacher has served a two-year probationary period in any school district in the Commonwealth. It would appear to be a case of first impression in the appellate courts of Pennsylvania. The Secretary of Education, albeit reluctantly, has ruled in this case that the School District is without such authority. We must affirm.
+Appellant was graduated from Slippery Rock State College in January, 1970, and immediately began substituting in area schools including New Castle Area Schools, where she had attended high school. On October 10,1972, appellant signed a contract with the School District of Union Area, Lawrence County, New Castle, Pennsylvania, to serve as a professional employe for a term of 183 days at an annual compensation of $6,700.00. The contract was expressly made subject to the provisions of the “Public School Code,” expressly provided that none of the provisions of the Code could be waived orally or in writing, and expressly provided that it would renew itself from year to year unless terminated by resignation or by notice of the Board designating the cause for the termination and providing an opportunity to be heard upon request. This was the standard form of contract used for a professional employe after serving a two-year probationary period. It is uncontradicted that this form of contract, rather than the one used for a temporary professional employe, was used as a result of a clerical error. The appellant had not served a two-year probationary period.
+Appellant received a satisfactory rating for her work in 1972-1973. Nevertheless, on July 18, 1973, following an oral notification, appellant was notified by letter that the contract was terminated because a tenured employe was returning from military leave. The letter stated: “I write this letter with regret, but as we just have the one job I have no choice. Your teaching in our district has been satisfactory and I would be most happy to recommend you for other positions.”
+Appellant requested and was granted a hearing before the Board which resulted in the termination being upheld. An appeal was filed, both in the appropriate Common Pleas Court of Lawrence County on the theory that appellant was a temporary professional employe, and to the Secretary of Education on the theory that appellant was a professional employe. The appeal in the Coui-t of Common Pleas of Lawrence County has been held in abeyance pending disposition of the appeal to the Secretary of Education.
+The classification of temporary professional employe was created by an amendment in 1939, Act of June 20, 1939, P. L. 482, to the Teacher Tenure Act of 1937, Act of April 6, 1937, P. L. 213. Prior to this amendment, the Act provided that the district shall enter into a contract with each professional employe at or before the time of first entering the service of the district. The 1939 amendment changed this to provide that the district shall enter into the contract with each professional employe who has satisfactorily completed two years’ service in any school district in this Commonwealth. Appellant would have us hold that the amendment resulted in the school district having authority to enter into a professional employe contract at any time prior to the two-year satisfactory probationary service and being required to do so after two years. In other words, appellant asserts that the amendment merely created an optional two-year probationary period. We cannot agree.
+Since we hold that the School District did not have authority to waive the two-year probationary period, it is not necessary to reach the second question of whether that authority could be considered to be properly exercised when it results, not from a conscious, deliberate exercise of authority, but rather from a clerical error of selecting the incorrect form of contract.
+The relevant decisional law in this State is consonant with this conclusion. Our Supreme Court, when confronted with a claim of professional status by a longtime substitute employe who had taught continuously for two years as a substitute, stated: “It is clear that the Legislature provided for two separate classifications to fill the positions created by the absence or leave of a professional employe. If the absence or leave were permanent then the position was to be filled by a temporary professional employe who later would be elevated to permanent status if found qualified.” Love v. School District of Redstone Township, 375 Pa. 200, 204, 100 A. 2d 55, 57 (1953). Our Superior Court has had occasion to discuss the relative categories of professional employe and temporary professional employe in a case quite similar but not on all fours with the instant case. In that case, it was held that when a district uses a form of contract containing terms applicable to professional employes and merely adds the word “temporary” before the word “professional” when the employe has not completed a two-year probationary period, the terms of a temporary professional employe contract obtained rather than the terms of the contract actually signed. See Johnson v. United School District Joint School Board, 201 Pa. Superior Ct. 375, 191 A. 2d 897 (1963). In Antel v. McDonald School District, 71 Pa. D. & C. 216 (1949), it ivas held that a substitute teacher, who was inadvertently given a professional employe contract without the necessary prerequisite qualifications to be a professional employe, was, in fact, a substitute employe.
+This Court does not comment on the questions to be treated in the appeal pending before the Court of Common Pleas of Lawrence County.
+Accordingly, we enter the following
+Order
+Now, October 9, 1974, the order of the Secretary of Education, dated December 7, 1973, dismissing the appeal in the above matter for lack of jurisdiction, is affirmed.
+Currently §1101 of the Public School Code of 1949, Act of March 10, 1949, P. L. 30, as amended, 24 P.S. §11-1101.
+24 P.S. §11-1121.
