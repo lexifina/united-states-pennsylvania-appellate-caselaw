@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1407 C.D. 1975"
+decided: "1977-01-14"
+citations: ["28 Pa. Commw. 180"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Ckumlish, Jk. and Wilkinson, Jb., sitting as a panel of three."]
+parties: ["Quakertown Borough v. Richland Township, Alan E. Yost, Walter Fox, Alec Jamieson and John R. Betterly. Quakertown Borough, Appellant."]
+source_url: "https://static.case.law/pa-commw/28/cases/0180-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1878350
+cites_cases: ["10 Pa. Commonwealth Ct. 270", "299 A.2d 599", "310 A.2d 91", "360 A.2d 607", "450 Pa. 282"]
+---
+
+# Quakertown Borough v. Richland Township
+
+## Majority (Judge Crumlish, Jr.,)
+
+Opinion by
+Judge Crumlish, Jr.,
+This is an appeal from an order of the Court of Common Pleas denying the motion of Quakertown Borough (Appellant) for summary judgment, sustaining the preliminary objections of Richland Township (Appellee) and dismissing the complaint.
+Appellant’s complaint in mandamus alleged that it proposed to build and maintain a public solid waste incinerator and/or trash transfer disposal facility jointly with the Boroughs of Sellersville and Perkasie on a tract of land owned by Appellant in Richland Township pursuant to Section 7 of the Pennsylvania Solid Waste Management Act, Act of July 31, 1968, P.L. 788, as amended, 35 P.S. §6007 (Act). Subsequently, its applications for zoning and building permits were refused which Appellant contends was con-. trary to Section 702 of The Second Class Township Code, Act of May 1, 1933, P.L. 103, added by Section 1 of the Act of Aug. 27,1963, P.L. 1280, 53 P.S, §65762 (Code). Appellant argued that the issuance of the permits involved no discretionary function, that the delay had caused great financial harm and could cause grave consequences to the health and well-being of its citizens and finally, that it lacked an adequate remedy at law to compel the issuance of the permits.
+Appellee’s answer alleged non-compliance with its zoning and building ordinances and denied that Section 702 of the Code required issuance of the requested permits. A three-judge panel denied the motion for summary judgment, sustained the demurrer and dismissed the complaint.
+Appellant contends that a second-class township cannot impose either its zoning or subdivision ordinances or its building code on land in its township owned and used by another political subdivision, relying on Section 702 of the Code which provides in part:
+No ordinance, by-law, rule or regulation shall be adopted which in any manner restricts, interferes with, hinders or affects the operation of any other political subdivision or instrumentality of the Commonwealth of Pennsylvania.
+City of Pittsburgh v. Commonwealth, Pa. , 360 A.2d 607 (1976), though, not directed to Section 702 of the Code, appears to give significant guidance in resolving the issues at hand. There, the Commonwealth’s Bureau of Corrections of the Department of Justice attempted to establish a pre-release center in Pittsburgh before it had obtained a certificate of occupancy. The Court recognized that the powers sought to be exercised by both parties emanated from the Commonwealth and were dependent upon the General Assembly for their existence. Since the Court viewed the problem as one of statutory interpretation, it looked to the intent of the legislature to determine which exercise of authority was to prevail. Because the Court found no indication in the Act which authorizes the establishment of pre-release centers that the legislature intended the Bureau to be immune from local zoning, nor had the legislature evinced an intent to override municipal zoning powers either by the inclusion of the power of eminent domain or clear language showing the overriding intent, the Court followed the standards imposed by the zoning regulations. As both parties here have only the power and authority given them by statutory legislation, weighing their conflicting powers, we hold that the legislalature did not intend that one municipality, acting pursuant to the Act, could override another municipality’s zoning regulations. Clearly, the objectives of zoning regulations are far more comprehensive than the objectives of the Act. As a result, the goals of both can be reconciled only if the borough’s land is held to be subject to the township’s zoning power.
+Appellant, however, relies upon Section 702 of the Code in conjunction with Middletown Township v. Delaware County Institution District, 450 Pa. 282, 299 A.2d 599 (1973). While it is unclear what effect City of Pittsburgh v. Commonwealth, supra, may have upon Middletown Township, supra, it is clear that the latter merely interpreted Section 702 of the Code as an indication that the legislature “intended not to subject state and county agencies to the preferences and prohibitions of every township’s local zoning and building regulation in the Commonwealth. ’ ’ Middletown Township, supra, at 288, 299 A.2d at 602. Hence, it is not relevant here.
+We next consider the power of a borough to purchase real estate for waste disposal purposes. Section 2512 of The Borough Code, Act of February 1, 1966, P.L. (1965) 1656, as amended, 53 P.S. §47512, requires that a borough desiring to locate a garbage or incinerator plant first petition the court of common pleas for approval of the location. The Boroughs of Quakertown, Perkasie and Sellersville filed such a petition with the court of common pleas. A stipulation subsequently was entered into which requested approval for the site, subject to the applicant’s compliance with “any and all applicable Township Ordinances and regulations.” Since we have established that the township’s ordinances are applicable, the consent order which embodied court approval conditioned upon this agreement must be met before the borough is in compliance with Section 2512 of The Borough Code. Since Quakertown Borough withdrew its application for a variance and decided not to proceed via a zoning and building permit application, it is clearly not in compliance with The Borough Code.
+With respect to the appropriateness of mandamus as the proper means of proceeding, we agree with the court below. As Judge Wilkinson wrote in General State Authority v. Borough of Moosic, 10 Pa. Commonwealth Ct. 270, 271, 310 A.2d 91, 92 (1973):
+It is incongruous on its face for the plaintiff to assert that the defendants must issue a permit for it to build a building which does not meet the requirements of defendants ’ ordinance on the grounds that the ordinance does not apply to it. If the ordinance does not apply to .plaintiff, then plaintiff does not need a permit. Clearly, mandamus is inappropriate.
+Affirmed.
+Order
+And Now, this 14th day of January, 1977, the decision and order of the Court of Common Pleas of Bucks County is hereby affirmed.
