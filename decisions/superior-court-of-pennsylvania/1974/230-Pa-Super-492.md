@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 906"
+decided: "1974-12-11"
+citations: ["230 Pa. Super. 492"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Watkins, P. J., Jacobs, Hoffman, Cercone, Price, Yan der Yoort, and Spaeth, JJ."]
+parties: ["Commonwealth v. Lipford, Appellant."]
+source_url: "https://static.case.law/pa-super/230/cases/0492-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 814756
+cites_cases: ["175 Pa. Superior Ct. 94", "219 Pa. Superior Ct. 18", "394 Pa. 324"]
+---
+
+# Commonwealth v. Lipford
+
+## Majority (Cercone, J.,)
+
+Opinion by
+Cercone, J.,
+This appeal arises from a jury verdict finding appellant guilty of larceny. Although appellant had also been charged with burglary and receiving stolen goods, the trial court sustained appellant’s motions for directed verdicts on those charges. Appellant contends that the trial court erred in its charge to the jury on the elements of the crime of larceny, entitling him to a new trial. Since we find no reversible error in that charge, we will affirm.
+The only evidence produced at appellant’s trial consisted of the testimony of one Mr. McCabe, a security officer at Lit Brothers’ Department Store in Philadelphia. That testimony may be summarized as follows: On February 23, 1973, appellant entered “Lits” through its subway level entrance carrying two “G-imbels” shopping bags partially obscured by a coat which appellant had draped over his arm. Apparently having determined that appellant’s conduct was suspicious, Mr. Mc-Cabe followed him into the women’s shoe department in the store’s basement. Appellant remained there for more than twenty minutes before he entered a restricted stock area where inventory was stored prior to its transfer to sales areas in the store. The stock area was demarked by various no trespassing signs in addition to a conspicuous “employees only” sign on the door to that area. Mr. McCabe observed appellant while he was inside that restricted zone filling his shopping bags with approximately $200 worth of merchandise. Mr. McCabe then followed appellant to one of the store’s exits where he arrested him.
+After cross-examination, appellant’s counsel moved for directed verdicts on the charges of burglary and receiving stolen goods. Those motions granted, the only issue submitted to the jury was the larceny charge. The instructions to the jury which, on the facts of this case, were predictably brief, contained the following charge on the crime of larceny.
+“Larceny, therefore is the only charge before you. As applied to this case, larceny, means taking merchandise from Lits, not paying for it, and meaning to keep it.” At the close of the charge, appellant excepted on the grounds that the element of intent to deprive the owner of his property was not sufficiently explained to the jury. That is the argument which he now proposes on this appeal.
+The crime of larceny has been defined as follows: “[T]he wrongful taking and carrying away of another’s property without any claim of right, and with the intent to convert it. . . .” 22 P.L.E., Larceny §1 (1959). It has also been defined less cryptically as consisting in “the taking and carrying away of the personal property of another with the mind of a thief, that is, with the specific intent to deprive the owner permanently of his property.” Commonwealth v. Lyons, 219 Pa. Superior Ct. 18, 22 (1971). By comparison, the definition offered to the jury in the instant case is perhaps imprecise but, nevertheless, is sufficiently adequate in explaining to the jury the requirement of permanency in the appellant’s taking of Bits’ property. When the court said, inter alia, that the jury would have to find that the appellant took the property “meaning to keep it” in order to convict, the element of intent required in larceny was adequately presented for the jury’s consideration.
+As Justice Mttsmanno put it in referring to classic definitions of negligence by Cooley and Wharton in a tort case where the adequacy of the jury instructions was also questioned: “Both of these definitions are brilliant but, in the eyes and ears of the average jury they might be more ecliptical than illuminating. A judge’s charge should appeal to a jury’s intelligence, not to Ms dictionary at home. A trial judge should aim at enlightening the persons who are to be guided by it. He should not raise his sights above the jury box and aim at the high court bench, loading his charge with language which will scintillate in stratospheric atmosphere and dazzle elevated reviewers, but accomplish only confusion on the level where it is intended to lead and direct.” Kurtz v. Philadelphia Transportation Co., 394 Pa. 324, 331-32 (1959). See also 38 P.L.E. Trial §261 (1961). We are of the opinion that the trial judge’s instruction regarding the definition of larceny was in consonance with Justice Mtjsmanno’s eloquent comment on a trial court’s duty to explain the law clearly enough for the jury to understand its meaning and purpose. “The court in instructing the jury cannot be held up to the exactitude of legal expression; it is sufficient if the instructions are substantially correct and contain no misleading errors.” 88 C.J.S. Trial §327 (1955). See also 53 Am. Jui\, Trial §539 (1945). Hence, the question in the instant case is whether, based on the facts of this ease, the trial judge’s charge was misleading or prejudicial. “The fact that instructions are not couched in the best language does not render them improper, and mere inelegancies of expression, while not to be commended, do not vitiate instructions.” Id.
+This is not a case where the evidence was complex or conflicting. The evidence in this case does not raise conflicting inferences, or even reasonably allow the inference that appellant removed the merchandise from Lits under a claim of right or with the intention of subsequently returning it. On the facts of the instant case, the trial court adequately informed the jury of those aspects of the crime of larceny which the jury required in order to return an intelligent verdict.
+Judgment of sentence is affirmed.
+See also Hilliard Lumber Co. v. Harleysville, Mut. Cas. Co., 175 Pa. Superior Ct. 94, 96 (1954).
