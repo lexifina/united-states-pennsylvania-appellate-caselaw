@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 18"
+decided: "1912-07-18"
+citations: ["51 Pa. Super. Ct. 265"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady and Head, JJ."]
+parties: ["Hershey v. Delone, Appellant."]
+source_url: "https://static.case.law/pa-super/51/cases/0265-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 430439
+cites_cases: ["1 Watts, 420", "107 Pa. 343", "117 Pa. 183", "16 Pa. Superior Ct. 462", "16 W. N. C. 226", "192 Pa. 462", "4 Pa. 366", "45 Pa. Superior Ct. 125", "8 Pa. 26"]
+---
+
+# Hershey v. Delone
+
+## Majority (Per Curiam,)
+
+Per Curiam,
+Section 43, relating to partition, of the Act of March 29, 1832, P. L. 190, 203, provides that, where a decree for the sale of real estate shall be made by the orphans’ court, in the event of the heirs refusing or neglecting to take, “the court shall direct that the share of the widow, if there be one, of the purchase money, shall remain in the hands of the purchaser during the natural life of the widow, and the interest thereof shall be annually and regularly paid to her by the purchaser, his heirs and assigns, holding the premises, to be recovered by distress or otherwise as rents are recoverable in this commonwealth.” The court held that an assign, as the defendant undoubtedly is, is personally liable for the annual interest accruing to the widow during his ownership of the land, if such accrued rent cannot be realized out of a sale of the land. Whether the widow, having obtained a general judgment for arrearages, may be compelled to resort, in the first instance, to the land before levying on the personalty of the defendant, is a question not raised by this appellant and need not be discussed. The principal question is, whether under the act the judgment must be entered de terris. The court held in the negative, and in that conclusion, we concur. We do not find it to be in conflict with Peters’s Est., 16 Pa. Superior Ct. 462, a case on which the defendant relies, or with any authoritative adjudication of our Supreme Court directly on the point. The words, “to be recovered by distress or otherwise as rents are recoverable in this commonwealth,” are broad enough to sustain a personal action and judgment, and, having regard to the subject-matter and to the judicial interpretation that had been put on similar provisions of earlier acts relating to the same subject, we entertain no doubt that such construction is in accordance with the actual intention of the legislature. This conclusion is so well supported, by reason and authority, in the clear and satisfactory opinion filed by the learned trial judge, that we do not deem it necessary to add anything on that general question.
+But it is contended that the defendant’s liability in this case is defined by the terms of sale, and not by the provisions of sec. 43 of the act of 1832. It is true, that, while the terms of sale provided that one-half the purchase money was to remain in the land to be secured by recognizance with security, the interest thereof to be paid annually to the widow during her life, they did not expressly state that it was to be “paid to her by the purchaser, his heirs and assigns, holding the premises, to be recovered by distress or otherwise as rents are recoverable in this commonwealth.” But it is also true, that there is nothing in the terms of sale that is inconsistent with the widow’s right to any of the remedies provided by the statute, and we cannot agree that the recital, in the terms of sale, of the words of the statute we have quoted, was absolutely essential to the exercise of the right they give. The defendant bought with notice of the partition proceedings, for they were in the line of his title, and, as counsel for appellee well say, "he must take the whole record and not such portion as may suit him best.” He must, therefore, be presumed to have known that the orphans’ court sale was under and pursuant to the provisions of sec. 43 of the act of 1832, and, as already intimated, he was not warranted in presuming, from anything contained in or omitted from the record, that the widow was estopped, either in pais or by the record, from pursuing the remedies the statute gave her.
+Another ground of defense urged is, that the annually accruing interest of the widow on a dower charge is an incumbrance, within the meaning of the Act of June 12, 1878, P. L. 205, and, therefore, the defendant is not personally liable, because he assumed no express obligation to pay it. This contention cannot be sustained. The right of a widow to annual interest is not a mere incumbrance: Kunselman v. Stine, 192 Pa. 462; and, therefore, is not within the very words of the act. It is equally plain that it was not the intention of the legislature to abrogate or modify, by the act of 1878, the liability that was imposed directly and mandatorily by sec. 43 of the act of 1832.
+The judgment is affirmed.
