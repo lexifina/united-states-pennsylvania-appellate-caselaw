@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 185"
+decided: "1944-03-03"
+citations: ["154 Pa. Super. 429"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Baldrige, Stadtpeld, Rhodes, Hirt, Kenworthey and Reno, JJ. (Keller, P. J., absent)."]
+parties: ["Brett, Appellant, v. Philadelphia Transportation Company"]
+source_url: "https://static.case.law/pa-super/154/cases/0429-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1053847
+cites_cases: ["103 Pa. Superior Ct. 467", "123 A. 308", "123 A. 323", "143 A. 5", "153 A. 323", "157 A. 348", "160 A. 862", "278 Pa. 366", "278 Pa. 414", "293 Pa. 343", "302 Pa. 220", "307 Pa. 214", "63 Pa. Superior Ct. 76"]
+---
+
+# Brett v. Philadelphia Transportation Co.
+
+## Majority (Baldrige, J.,)
+
+Opinion by
+Baldrige, J.,
+The plaintiff in an action of trespass has appealed from the entry of a judgment for the defendant, notwithstanding the verdict in his favor.
+'The question involved is whether the plaintiff’s testimony should be rejected because it conflicts with incontrovertible physical facts so clearly established that they cannot be erroneous: Cubitt v. New York Central R. R. Co., 278 Pa. 366, 123 A. 308; Hawk et ux. v. Penna. R. R. Co., 307 Pa. 214, 160 A. 862.
+The plaintiff testified that on March 17, 1942, about 6:10 a. m. he was travelling northeast in a Ford sedan in Philadelphia on the center lane of Roosevelt Boulevard approaching Oxford Circle, around a portion of which a trolley line is operated by the defendant company. As he was about to enter Oxford Circle he saw defendant’s trolley car some 300 feet away. He then proceeded in an easterly direction while the trolley car travelled westwardly and toward him, to enter Oxford Avenue which radiates out of Oxford Circle approximately 150 to 200 feet east of the center lane of Roosevelt Boulevard. When within 15 to 20 feet of the trolley track his automobile began “spitting and spatting” causing its speed to decrease and then it stopped on the track with the two front wheels between the rails. The right front wheel was about a foot west of the far, or eastern rail and the left front wheel about two feet west of that rail, so that the automobile was “slightly crooked......catercornered like.” Plaintiff indicated on a plan where the collision occurred at which point the rails are practically on a straightaway, although they soon thereafter curve onto Oxford Street. The width of the track is 5 feet 244 inches and the overhang of each side of the trolley car is 20 inches. The plaintiff said that he blew his horn six or seven times as a signal and unsuccessfully endeavored to move his automobile while the trolley car continued approaching until it violently hit his automobile and ran thereafter 150 feet before coming to a stop.
+The photographs of these vehicles were identified by the plaintiff as accurately representing their condition after the impact. They conclusively show that the entire front of plaintiff’s automobile was damaged. Both front wheels were badly bent, the lights, fenders, radiator and hood were crushed in, the bumper was knocked off and the springs were broken. The front of the trolley car was not harmed, but the side step and doors and a portion of the platform, etc., on the right front side were damaged. The pictures reveal a condition of the automobile and trolley car which could not possibly have resulted if the accident had occurred as plaintiff related. His testimony and the admittedly accurate photographs are irreconcilable.
+As the oral evidence is shown by proven physical facts to be untrue, it must be rejected. It was urged in this case as in Carlo v. Bessemer & Lake Erie R. R. Co., 293 Pa. 343, 143 A. 5, that as the credibility of the witnesses was involved as to how the accident occurred, the case was for the jury. It was said there, p. 347: “But where the indisputable physical conditions, as indicated by actual measurements, maps, or photographs, negative the existence of the facts ordinarily presumed, this is not true: (citing cases).”
+In Young v. Gill, 103 Pa. Superior Ct. 467, 157 A. 348, we have a somewhat similar situation. It was held there, as here, that the photographs of the defendant’s ear showing its condition immediately after the collision, which were admitted in evidence without objection, conclusively demonstrated that his car did not run into the truck as stated by the plaintiff; that therefore his testimony must be regarded as false.
+If the plaintiff’s automobile had been located on the tracks as alleged and had been run into by the trolley, there would have been more damage on its left side, than the right side, but the photographs show the contrary. They confirm the testimony of the witnesses called by the defendant, including a disinterested passenger on the trolley car, and are so revealing that we cannot evade concluding that the plaintiff did not give a true account of how the collision occurred. If his story of this occurrence were true he would have been entitled to recover under Mead v. Central Pa. Traction Co., 63 Pa. Superior Ct. 76, and Estep v. Beaver Val. Traction Co., 278 Pa. 414, 123 A. 323, and the other cases relied upon, but we cannot accept his version of the accident in view of what is shown by the photographs. We do not attempt to vary in the slightest degree the well founded rule that a position of a moving object that causes an injury, as shown by the evidence, cannot be called an “incontrovertible physical fact” when other evidence shows its position to be elsewhere at the time of the accident: Schaeffer v. Reading Transit Co., 302 Pa. 220, 153 A. 323, and kindred eases cited by the appellant. The facts before us are quite dissimilar to those in the cases where that principle was enforced.
+A careful consideration of the entire record in this case convinces us that the court below correctly disposed of the questions involved. Judgment is affirmed.
