@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 56"
+decided: "1915-02-24"
+citations: ["59 Pa. Super. 182"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Orlady, Head, Kephart and Trexler, JJ."]
+parties: ["Commonwealth v. Trembley."]
+source_url: "https://static.case.law/pa-super/59/cases/0182-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 448961
+cites_cases: ["126 Pa. 531", "16 Pa. Superior Ct. 561", "163 Pa. 1", "166 Pa. 179", "17 Pa. Superior Ct. 39", "200 Pa. 640", "209 Pa. 20", "21 Pa. Superior Ct. 217", "25 Pa. Superior Ct. 526", "52 Pa. 424", "53 Pa. Superior Ct. 278", "69 Pa. 286", "7 Pa. Superior Ct. 515", "78 Pa. 122", "82 Pa. 307", "82 Pa. 405"]
+---
+
+# Commonwealth v. Trembley
+
+## Majority (Rice, P. J.,)
+
+Opinion bt
+Rice, P. J.,
+The appellant raises no question as to the fairness of his trial or as to the competency and sufficiency of the evidence. The objections he raises are of a technical nature, which do not go to the merits of the case. Those that require particular notice will be discussed under general heads without taking up in detail each of the twenty-four assignments of error.
+Upon information and warrant, Trembley and Carpenter, two of the above-named defendants, were arrested, and, after hearing, were committed to jail to await trial. Two days later Harry Owens, the appellant, was arrested, and, after hearing, was likewise committed. The justice sent up to the quarter sessions separate transcripts. While the information against Owens did not, in so many words, charge him as a joint offender, yet the description of the offense was substantially identical, as to time, place, and nature, with that with which Trembley and Carpenter were charged. The district attorney joined the three defendants in one indictment, and in doing so had the express legislative sanction of sec. 65 of the Act of March 31, 1860, P. L. 445.
+Before the bill was sent to the grand jury Trembley and Carpenter pleaded guilty — the former to the second and third counts, and the latter to the first count. It is argued that sending the bill before the grand jury with these pleas indorsed on.it was in violation of the Act of April 15, 1907, P. L. 62. Whether Trembley and Carpenter could complain of this we need not decide. They are not complaining. Notwithstanding their pleas, the bill as drawn was good as against Owens, and in submitting it to the grand jury for action as against him no statutory right he had was violated. We are not convinced that the return of the grand jury should be interpreted as the finding of a true bill as to the. second and third counts against all of the defendants. But even if it should be so interpreted, yet, as Owens was accorded a separate trial, this irregularity was not ground for quashing the indictment or arresting the judgment as to him. See Com. v. Bradley, 16 Pa. Superior Ct. 561.
+In indorsing the pleas of Trembley and Carpenter on the indictment, the practice suggested in Com. ex rel. v. Francies, 53 Pa. Superior Ct. 278, as appropriate, was followed. The objection, that following this ordinarily appropriate practice operated to Owens’ prejudice in the grand jury’s consideration of his case, is based on pure speculation. Certainly, the knowledge of the grand jury that Carpenter had pleaded guilty to the first count was not prejudicial to Owens, for the grand jury ignored that count. This showed discrimination on their part, and strengthens our conclusion that the probability that they were prejudiced against him, by knowledge of the fact that Trembley had pleaded guilty to the second and third counts, is too remote to warrant us in holding that the court committed legal error or abuse of discretion in refusing to quash the indictment. See Com. v. Biddle, 200 Pa. 640; Com. v. Dietrich, 7 Pa. Superior Ct. 515, at p. 523.
+While the indictment was captioned in the oyer and terminer, the record shows, and this is undisputed, that it was found and returned in the quarter sessions, and that the trial and all the subsequent proceedings were had in that court. Moreover, the defendant recognized and invoked the jurisdiction of the quarter sessions by addressing his motion to quash to that court. We do not concur with counsel for the appellant in their contention that the offense charged in the first count was exclusively triable in the oyer and terminer. But we need not take up time in the discussion of that question, for, whatever may be said as to that count, the quarter sessions had undoubted jurisdiction of the crimes charged in the second and third counts, upon which the appellant was tried and convicted. This being so, the mistake in the caption of the indictment was a purely technical one, and, as was said in Brown v. Com., 78 Pa. 122, “it would be a shame if this were not amendable” even after verdict, judgment, and appeal. The case having been tried and disposed of in the court below as if the amendment had been actually made, it will be so treated here by remitting the record for execution to the court from which it came.
+All the assignments of error are overruled, the judgment is affirmed, and the record is remitted to the court of quarter sessions of Potter county, with direction that the appellant appear in that court at such time as he may be there called, and that he be by that court committed until he has complied with that part of his sentence which had not been performed at the time this appeal was made a supersedeas.
