@@ -1,0 +1,45 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1878 C.D. 1985"
+decided: "1987-04-01"
+citations: ["105 Pa. Commw. 129", "523 A.2d 427"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Doyle and Palladino, and Senior Judge Barbieri, sitting as a panel of three."]
+parties: ["William J. Knight, Appellant v. Civil Service Commission of the City of Philadelphia, Appellee."]
+source_url: "https://static.case.law/pa-commw/105/cases/0129-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1358394
+cites_cases: ["103 Pa. Commonwealth Ct. 529", "156 A.2d 821", "351 Pa. Code §7.7-303", "398 A.2d 1064", "398 Pa. 35", "40 Pa. Commonwealth Ct. 560", "423 A.2d 1351", "55 Pa. Commonwealth Ct. 594"]
+---
+
+# Knight v. Civil Service Commission
+
+## Majority (Senior Judge Barbieri,)
+
+Opinion by
+Senior Judge Barbieri,
+William J. Knight has appealed from an order of the Court of Common Pleas of Philadelphia County, which affirmed a decision of the Civil Service Commission of the City of Philadelphia (Commission) dismissing him from his employment with the Philadelphia Fire Department (Department).
+Knight, an epileptic, was hospitalized on May 27, 1982, for a seizure disorder and drug intoxication. A urine toxic drug screen ordered by Knights attending physician revealed the presence of methamphetamines, nicotine, and metabolites of Seco-barbital and Phenytoin. As a result, Knight was dismissed from the Department on July 5, 1982, for conduct unbecoming an officer.
+In the Notice of Dismissal, the Fire Commissioner stated that Knights condition on May 27, 1982, was “attributed to the mixing of drugs and alcohol with Dilantin (a prescription medication).” The Commissioner based this conclusion on the hospital discharge summary which noted that Knight had been advised of the ramifications of mixing these substances.
+The only witness to testify before the Commission was the physician who treated Knight during the course of his hospitalization. Subsequent to his dismissal, Knight secured a letter from this physician which was introduced into evidence. The letter amended the discharge summary and stated that all the drugs found in Knights system, with the exception of nicotine, were prescribed and that Knight had not mixed drugs and alcohol with Dilantin. The physician himself testified to this and explained further that the warning contained in the discharge summary regarding the mixing of drugs and alcohol with Dilantin was simply a routine admonition on the part of the hospital. The physician further testified that Knight had told him that the drugs found in his system were prescribed. The doctor did not ask Knight specifically whether the Seco-barbital had been prescribed but testified his representation to that effect was speculative.
+The parties originally intended to take the deposition of Knights treating physician to determine what medications had been prescribed for him; however, this deposition was never taken. Both parties appear to believe a typewritten letter from Knights treating physician dated October 13, 1982, listing the dates Knight was seen and all medications prescribed for him, was admitted into the record. Knights counsel produced a handwritten note from the treating physician which stated that he had been treating Knight for “medications for diet—Desoxyn, and Valium for his anxiety and seizure disorder.” However, a review of the record reveals that the October 13, 1982, letter was, in fact, never admitted.
+The parties appeared before the Commission a total of five (5) times. On one such occasion, counsel for the Department attempted to submit the October 13, 1982, letter from the treating physician, as well as a memorandum dated November 9, 1982, from a physician employed by the City for the purpose of showing that Seco-barbital was not prescribed for Knight. The Commission indicated it would prefer that the documents be admitted into the record at the next listing of the case. They were in fact never admitted.
+The parties appeared before the Commission for the last time on March 9, 1983, at which time counsel for the Department was informed that the only exhibits in the official file were the hospital records and the September 14, 1982, letter from the hospital physician who testified, amending the discharge summary. Counsel for the Department stated he felt “that there was more submitted” and the record was held open for him to submit additional evidence. Nothing further was submitted.
+The Commission failed to make a specific finding as to whether any of the drugs found in Knights system on May 27, 1982, were prescribed for him but determined his hospitalization was the result of drug abuse.
+Our scope of review is limited by Section 754(b) of the Local Agency Law, 2 Pa. C. S. §754(b). We must affirm the adjudication unless constitutional rights were violated, there was noncompliance with the provision of the Local Agency Law in the proceeding before the Commission, an error of law has been committed, or the findings of the Commission are not supported by substantial evidence. Strauss v. Civil Service Commission of Philadelphia, 40 Pa. Commonwealth Ct. 560, 398 A.2d 1064 (1979). Knight contends that the Commissions decision was not supported by substantial evidence.
+The Philadelphia Home Rule Charter requires that Knights dismissal be for just cause. Although the findings of fact of the Commission are conclusive upon appeal, its legal conclusions remain subject to judicial review. Foley v. Civil Service Commission of the City of Philadelphia, 55 Pa. Commonwealth Ct. 594, 423 A.2d 1351 (1980). Whether a dismissal was for “just cause” is a legal conclusion that must be supported by the findings of fact. Id. at 597, 423 A.2d at 1353.
+The alleged just cause for Knights dismissal was unprescribed drug intoxication which the Commission found to be conduct unbecoming an officer. The burden is on the municipality to support the charge of conduct unbecoming an officer and to establish just cause for dismissal. Civil Service Commission of the City of Philadelphia v. Putz, 103 Pa. Commonwealth Ct. 529, 520 A.2d 940 (1987).
+The only evidence before the Commission was the testimony of the hospital physician that the drugs which were found in Knights system were prescribed medications. Although his testimony that Seco-barbital was prescribed is speculative, there is no evidence from which the Commission could infer that it was not prescribed. The handwritten note from Knights treating physician cannot support such a finding because it does not claim to be an all-inclusive list of Knights prescriptions. Keeping in mind that the Department bears the burden of proof, we must reverse the decision of the lower court,
+Although the October 13, 1982, letter from the treating physician and the November 9, 1982, memorandum from the City’s physician would support an inference that Knight had illegally taken Seco-barbital on May 27, 1982, those documents are not a part of the record before us for consideration.
+It may be that Knight’s epilepsy renders him unable to fulfill his duties as a firefighter. However, the just cause for dismissing Knight was alleged drug abuse. The record before us will not support a finding that Knight illegally ingested unprescribed drugs. At best, the evidence supports a finding that Knight mismanaged medications which were prescribed.
+Accordingly, the decision of the lower court is reversed and we will order that Knight be reinstated with back pay, with deductions for monies earned and benefits received during the period of dismissal.
+Reversed.
+Order
+Now, April 1, 1987, the Order of the Court of Common Pleas of Philadelphia County, dated June 12, 1985, affirming the decision of the Civil Service Commission of the City of Philadelphia, is reversed. It is further ordered that William J. Knight be reinstated as a fireman with the City of Philadelphia Fire Department, with back pay, less any wages earned or benefits conferred under the public laws of Pennsylvania or the laws of the United States during the period of dismissal.
+The physician who attended Knight at the hospital testified before the Commission that he thought Knight may have shown him the handwritten note from the treating physician at the time he prepared the letter of September 14, 1982, amending the hospital discharge summary.
+The handwritten note from the treating physician was apparently overlooked.
+Pursuant to a stipulation between the parties, Commissioner Bailey was the sole finder of feet.
+351 Pa. Code §7.7-303.
+Unbecoming conduct, on the part of a municipal employee, especially a policeman or a fireman, is any conduct which adversely affects the morale or efficiency of the bureau to which he is assigned. . . . Unbecoming conduct is also any conduct which has a tendency to destroy the public respect for municipal employees and confidence in the operation of municipal services. Zeber Appeal, 398 Pa. 35, 43, 156 A.2d 821, 825 (1959).
