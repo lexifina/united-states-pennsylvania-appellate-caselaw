@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 173"
+decided: "1930-07-10"
+citations: ["99 Pa. Super. 252"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Linn, Gawthrop, Cunningham, Baldrige and Graee, JJ."]
+parties: ["Walker v. Quemahoning Coal Company, Appellant."]
+source_url: "https://static.case.law/pa-super/99/cases/0252-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 688900
+cites_cases: ["262 Pa. 1", "278 Pa. 84", "286 Pa. 52", "290 Pa. 480", "297 Pa. 172", "78 Pa. Superior Ct. 7"]
+---
+
+# Walker v. Quemahoning Coal Co.
+
+## Majority (Gawthrop, J.,)
+
+Opinion by
+Gawthrop, J.,
+Claimant, employed by defendant as a coal cutter in its mine, sustained an injury in the following circumstances: He and bis brother were in their working place in the mine on tbe morning of November 6,1928. He bad bored three boles for blasting and bis brother bad prepared tbe shots and had placed them in tbe boles, using an eighteen inch fuse with a stick and a half of grassel. Then each proceeded to light one fuse, using their carbide lights. When tbe brother announced that bis fuse was lit, both men retired to a point of safety. The shot lighted by the brother exploded. Then claimant, thinking that he had not lighted his fuse, returned to the hole. When he got there the shot exploded and he was injured. Claimant had been in the employ of defendant for three or four years prior to the accident and, during this period, had acted in the capacity of assistant mine foreman for a period of one year. Defendant had posted notices in the mine foreman’s office prohibiting the use of fuse in the mine and had endeavored to enforce the order since 19-22. Claimant testified that the superintendent of the mine had instructed him that the practice of using fuse and caps must be broken up and that he, claimant, was to see that everybody had batteries and caps, and that he knew that he was violating a rule of the company by using fuse to fire the shot.
+The referee and the board disallowed compensation and the court below reversed the board and awarded compensation at the rate of $12 per week for 175 weeks. Defendant has appealed.
+The question involved is whether claimant by the breach of the positive orders of his employer forbidding the use of fuse in the mine forfeited the right to compénsation for injuries sustained in the course of his employment.
+Our Supreme Court said in Shoffler v. Lehigh Valley Coal Co., 290 Pa. 480: “ ‘Course of employment’ does not include (a) injuries received while away from the actual place of • employment, where the deviation or departure is wholly foreign to his duties and amounts to an abandonment of employment; (b) injuries received in the commission of an act which is in direct violation of the law; or (c) an act contrary to the positive orders of the employer.” But in the recent case of Dickey v. Pittsburgh & L. E. R. R. Co., 297 Pa. 172, that tribunal said: “While there are authorities which sustain the principle announced in clause (c) (see Walcofski v. L. V. Coal Co., 278 Pa. 84; Pokis v. Buck Run Coal Co., 286 Pa. 52; Shoffler v. L. V. Coal Co., supra), it cannot be given the broad interpretation here suggested. It was not our intention to deny recovery under the Workmen’s Compensation Act for all violations of positive orders, and the cause mentioned in clause (c) as taking the employee out of the course of employment must be considered in connection with the facts in the cases to which it relates. Because of the scope it is here apparently made to cover, we give this phrase further explanation. Care must be taken not to confuse the principle enunciated, with negligent acts (Gurski v. Susquehanna Coal Co., 262 Pa. 1), wilful misconduct (Waite v. Pittsburgh Limestone Co., 78 Pa. Superior Ct. 7), or those acts in disregard of positive orders of the employer where the employee’s duties included the doing of the act that caused the injury, or where his duties were so connected with the act that caused the injury that, as to it, he was not in the position of a stranger or trespasser. The violation of positive orders under these circumstances does not prohibit compensation for injuries sustained therefrom. However, injuries resulting from those acts which are in direct hostility to and in defiance of positive orders of the employer concerning instrumentalities, places or things about or on which the employee has no duty to perform, and with which his employment does not connect him, are not compensable under the clause in question.”
+In the Shoffler ease decedent was injured as the result of his commission of an act wholly foreign to his employment (the starting of a locomotive), a duty not assigned to him and not performed in the furtherance of the interest of his employer, and also an act declared by statute to be a misdemeanor in violation of the Anthracite Mine Act of 1891, P. L. 176, and compensation was denied him. In the present case the claimant was injured in the performance of a- duty assigned to him and which was being performed by him in the furtherance of the interest of his employer. Although in the method of performing the act he was acting in defiance of his employer’s orders, he was not “in the position of a stranger or trespasser,” and was not acting in violation of law. We are of one mind that under the rule laid down in Dickey v. Pittsburgh & L. E. R. R. Co., supra, the claimant is entitled to compensation. It follows that the court below was right in reversing the board and making the award, as to the amount of which no complaint is made.
+The judgment is affirmed.
