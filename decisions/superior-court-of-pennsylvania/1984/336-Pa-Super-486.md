@@ -1,0 +1,42 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1365"
+decided: "1984-12-12"
+citations: ["336 Pa. Super. 486", "485 A.2d 1186"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before McEWEN, HESTER and LIPEZ, JJ.", "McEWEN, J., filed a concurring opinion."]
+parties: ["COMMONWEALTH of Pennsylvania v. John JACKSON, Appellant."]
+source_url: "https://static.case.law/pa-super/336/cases/0486-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 622192
+cites_cases: ["280 Pa.Super. 462", "297 Pa.Super. 216", "334 Pa.Super. 473", "469 Pa. 214", "497 Pa. 7", "501 Pa. 506", "504 Pa. 385"]
+---
+
+# Commonwealth v. Jackson
+
+## Majority (PER CURIAM:)
+
+PER CURIAM:
+A complaint was filed on June 24, 1980, charging appellant John Jackson with simple assault and burglary. Under Pa.R.Crim.P. 1100, December 22, 1980, would have been the last day for the Commonwealth to try appellant. Due to two continuances granted to appellant, the final day for trial was extended to January 23, 1981. Trial was set for December 11, 1980; however, on that date, the Commonwealth’s complaining witness failed to appear, and the case was relisted for January 28, 1981. On December 18, 1980, prior to the expiration of the original 180-day period, the Commonwealth filed a Petition for Extension under Rule 1100(c). A hearing was held on the Commonwealth’s petition on January 20, 1981, at which time the Commonwealth’s petition was granted, and an extension was granted until January 29, 1981. Appellant was tried non-jury on January 28, 1981, and was found guilty of simple assault and burglary. Timely post-trial motions were filed' and denied, and on April 6, 1982, appellant was sentenced to time served to five years on the burglary conviction, with one year of probation running concurrently on the assault conviction.
+On appeal to our Court, appellant first argues that the Commonwealth failed to exercise due diligence in bringing appellant’s case to trial within the time required by Pa.R.Crim.P. 1100. It is apparent from the notes of testimony of the hearing on the Commonwealth’s petition for extension of time that most of the delay in bringing the case to trial was attributable to appellant, and to the failure of the Commonwealth’s subpoenaed complaining witness to appear on December 11, 1980; however, since appellant did not raise this issue specifically in his post-verdict motions, we will not consider the issue on appeal. Commonwealth v. Manigault, 501 Pa. 506, 462 A.2d 239 (1983).
+The second part of appellant’s argument is more troublesome. Appellant argues that there is nothing on record to show that the case was scheduled for the earliest possible date consistent with the court’s business. As a panel of our Court noted in Commonwealth v. Freeman, 280 Pa.Super. 462, 467, 421 A.2d 814, 816 (1980), “Mayfield’s requirement that the record show that the trial was scheduled for the earliest date consistent with the court’s business has been strictly applied.” Our examination of the record in the case before us has disclosed no such certification. The closest thing to such certification is an allegation by the Commonwealth in its petition for extension of time that the Commonwealth on December 11, 1980, requested the “earliest possible date.”
+In reviewing a hearing court’s ruling that the Commonwealth has met its burden, however, we will view the record as a whole. Commonwealth v. Freeman, supra. Unfortunately, an important part of the record has not been provided our Court. The notes of testimony of the December 11, 1980 proceeding have not been included with the original record. At that proceeding, the lower court evidently granted the Commonwealth a continuance until January 28, 1981. It is possible that the Commonwealth carried its burden or that appellant and his counsel sat idly by while the trial judge announced a trial date beyond the last day that appellant, under Rule 1100, could be tried, thereby, under Commonwealth v. Brown, 497 Pa. 7, 438 A.2d 592 (1981), waiving appellant’s Rule 1100 rights. Or perhaps appellant or counsel was more assertive in approving the scheduling of trial beyond the rúndate. See Commonwealth v. Lee, 297 Pa.Super. 216, 443 A.2d 804 (1982).
+These possibilities, however, do not support the Commonwealth’s position, and we will not remand for an evidentiary hearing to determine waiver or whether the Commonwealth carried its burden of proving the commencement of trial on the earliest possible date. In Commonwealth v. Donaldson, 334 Pa.Super. 473, 483 A.2d 549 (1984), this Court ruled that the Commonwealth has the burden to prove that it exercised due diligence in bringing the accused to trial at the earliest possible moment. Where there is insufficient evidence that the Commonwealth carried this burden, it must prove that the accused waived his right to speedy trial. Therefore, the Donaldson court opined:
+____ it would be procedurally incorrect to remand this case for an evidentiary hearing to establish whether appellant or his attorney objected to the continuance. Aside from the fact that the Commonwealth did not allege to the court below that appellant had waived his Rule 1100 rights, we cannot place the burden on the appellant to prove that he did not waive his Rule 1100 rights without a prima facie showing of a valid waiver.
+Id., 334 Pa.Super. at 483, 483 A.2d at 555.
+For the above reasons, we are constrained to reverse and vacate judgment of sentence. Appellant discharged.
+McEWEN, J., filed a concurring opinion.
+. December 21, 1980 was the 180th day; however, since that was a Sunday, the last day for trial became December 22, 1980. In adding the 33 days chargeable to the defendant to December 22 thereby extending the last day for trial to January 24, 1981, the parties erred. Thirty-three days should have been added from December 21, 1980.
+. Commonwealth v. Mayfield, 469 Pa. 214, 364 A.2d 1345 (1976).
+. The issues involved in this appeal are identical to those in Commonwealth v. Donaldson. Donaldson was argued before a Court en banc. It was decided not to adjudicate the issues involved in this appeal until receipt of the opinion in Donaldson. Donaldson was filed on October 12, 1984.
+
+## Concurrence (McEWEN, Judge,)
+
+McEWEN, Judge,
+concurring:
+The excellent expression of the majority view reflects a quite careful analysis of the issue and I agree that the record in the instant case fails to reflect compliance with Rule 1100. I write simply to observe that, in my view, the Supreme Court in Commonwealth v. Terfinko, 504 Pa. 385, 474 A.2d 275 (1984), declared that the Rule 1100(c)(4) requirement that any scheduled trial date after the expiration of 180 days need be “the earliest date possible” is met if the record reflects either (1) presentation by the prosecution of sufficient evidence to form the basis for a conclusion by the court that the scheduled date is the “earliest possible date”, or (2) a declaration by the hearing judge that such conclusion has been made as a matter of judicial notice.
+In Terfinko, supra, the Supreme Court refused to find a violation of Rule 1100 even though, as in the instant case, the record did not expressly contain such a declaration or certification by the hearing judge. Rather, the Court utilized a “totality of the circumstances review” and found that the rescheduled date met the mandate of Rule 1100(c)(4) where the record amply established that the trial court “devoted a reasonable amount of its resources to the criminal docket and that it scheduled the criminal trial [for] the earliest possible date consistent with the court’s business.” Commonwealth v. Terfinko, supra, 504 Pa. at 392, 474 A.2d at 279.
+The record here, however, is devoid of any evidence that would indicate that the extended trial date was the earliest date consistent with the business of the court. Nor does the record reflect a declaration to that effect by the hearing judge. Thus, neither method of compliance afforded by Terfinko, supra, has been achieved. It is for that reason that I join in the order vacating the judgment of sentence.
+. Testimony was elicited in Terfinko both from the Lehigh County Deputy Court Administrator as well as from a member of the staff of the Clerk of Court. This testimony demonstrated the limited availability of judges and court rooms during the trial court sessions when appellant was scheduled for trial.
