@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 23"
+decided: "1927-07-08"
+citations: ["91 Pa. Super. 286"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, P. J., Henderson, Tresler, Keeler, Linn, Gawthrop and Cunningham, JJ."]
+parties: ["The Night Commander Lighting Company, Appellant, v. Brenneman."]
+source_url: "https://static.case.law/pa-super/91/cases/0286-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 674249
+cites_cases: ["19 Pa. Superior Ct. 642", "221 Pa. 160", "271 Pa. 332", "29 Pa. Superior Ct. 142", "61 Pa. Superior Ct. 379", "61 Pa. Superior Ct. 401", "71 Pa. Superior Ct. 178", "82 Pa. Superior Ct. 563", "83 Pa. Superior Ct. 92"]
+---
+
+# Night Commander Lighting Co. v. Brenneman
+
+## Majority (Porter, P. J.,)
+
+Ofinion' by
+Porter, P. J.,
+The plaintiff, a Michigan corporation, with its place of business located in the city of Jackson, in that state, brought this action to recover the price of a “ One Hundred Pound Capacity Michigan Pit Model D Generator -and appliances” home lighting plant, alleged to have been manufactured for and sold to the defendants. The defendants filed an affidavit of defense raising issues of fact. The case was tried in the court below and the jury found -a verdict in favor of the defendants, upon which verdict judgment was entered and the appeal is by the plaintiff. The only error assigned is the refusal of the court to grant a new trial.
+The brief for the appellant attempts to have this appeal disposed of upon a theory entirely different from that on which the case was tried in the court below; but, having taken the chances of a verdict by the jury, the plaintiff is not entitled to thus shift its position. The written order of the defendants for the generator was secured from the defendants by H. C. Day, agent for the plaintiff, on January 7,1926, and the evidence produced at the trial warranted a finding that the defendants had on the following day, and before the said agent had mailed the order to the plaintiff company, his principal, notified Day that they revoked the order. There was a conflict of evidence as to whether the defendants had notified Day of the revocation of the order before he had mailed it to the plaintiff. The written order did not constitute a contract, it was only an offer to purchase and by its express terms was not to become a binding contract until approved by the “Night Commander Lighting Company at its executive office at Jackson, Michigan. ’ ’ On January 11,1926, the plaintiff company mailed, at Jackson, Michigan, a written notice to the defendants that their offer to purchase the generator was accepted. The defendants, upon receipt of this notice immediately notified the plaintiff of their refusal to accept said generator, averring that their signatures had been obtained to said offer to purchase by false and fraudulent representations of the agent. The plaintiff subsequently shipped the generator to the defendants 'and the latter after an examination of the generator and appliances shipped it back to the plaintiff. The contract, if it ever became a contract, expressly provided that the plaintiff guaranteed the generator to be “a thoroughly good galvanized steel generator.” The defendants produced evidence which, if believed, warranted a finding that the generator was not made of galvanized steel but was constructed of tin plate. The court in its charge submitted to the jury two questions, which were thus stated: (1) “If you find that the defendant did countermand this order verbally to the agent of the plaintiff before the written order had been forwarded by him to the plaintiff company, your verdict should be for the defendants.” (2) “If you find, however, that this order was not countermanded, and also find that the tank was of galvanized steel your verdict should be for the plaintiff.” These propositions of fact were thus submitted to the jury at the conclusion of the charge and the court thereupon said: “I think I have now covered the law applicable to this case. It is a mere question of fact for you to determine on these two questions, and you are to bring in your verdict in accordance with these two facts, and none other. Do counsel desire to call the attention of the court to anything further?” In reply to this inquiry by the court counsel for the appellant, the plaintiff, said: “So far as I am concerned, your honor, I am content.” Having thus expressly consented and approved of the manner in which the case was submitted to the jury and no exception having been taken to the charge, the plaintiff is not now entitled to be heard to assert that the cause should have been tried upon some other theory. This being the case there is no just ground for holding that the court below was guilty of an abuse of discretion in refusing a new trial. No ruling of the court below at the trial, upon the admission or rejection of evidence, is assigned for error.
+The judgment is affirmed. '
