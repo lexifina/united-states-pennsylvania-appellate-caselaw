@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 104"
+decided: "1925-02-27"
+citations: ["84 Pa. Super. 481"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Trexler, Keller, Linn and Gawthrop, JJ."]
+parties: ["Commonwealth, v. Weiler, Appellant."]
+source_url: "https://static.case.law/pa-super/84/cases/0481-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 662740
+cites_cases: ["128 Pac. 218", "84 Pa. Superior Ct. 473"]
+---
+
+# Commonwealth v. Weiler
+
+## Majority (Keller, J.,)
+
+Opinion by
+Keller, J.,
+The appellant, Harry Weiler, was jointly tried with Liberty Products Company [103 April Term, 1925, 84 Pa. Superior Ct. 473] and several other defendants and was convicted of the unlawful manufacture and possession of intoxicating liquors, contrary to the Act of March 27, 1923, P. L. 34. The facts are reported in the appeal of Liberty Products Co. and need not be given again at length. It was shown that Weiler was the secretary and treasurer of Liberty Products Co., a corporation manufacturing cereal beverage, and there was some evidence — though it might have been strengthened —, that he was in general charge of its operations when beer containing 3%% to 6% alcohol by volume was being loaded by the company’s employees on board cars for shipment. The defense was that the beer, by an innocent mistake of one Haupt, the employee in charge of the storage room, had been drawn off from vat 10 containing beverage in process of manufacture from which the excess alcohol had not been boiled off, instead of from vat 9 which held lawful cereal beverage, ready for shipment.
+We held in Com. v. Liberty Products Co., supra, that the defendant corporation having undertaken to manufacture and sell a product, which required the initial manufacture of intoxicating liquor, was bound by the strict provisions of the Act of March 27, 1923, supra, to see that none Of this product was released from its brewing and storage vats until the unlawful percentage of alcohol had been reduced to a legal quantity; and that the mistake of the brew master or storage foreman in charge of the work furnished the corporation no legal justification for escape from the penalty imposed for a violation of the law.
+We are also of opinion that where a violation of the Act of 1923 of this character is proven the jury may infer that the officers in charge of its operation had knowledge of the illegal act and that on a prosecution against them it is not necessary to prove that they were present and participated in the violation of law or had expressly directed its commission. It may be inferred that acts done by employees in the regular course of their employment, and in the exact line of their prescribed duties, which were violative of police regulations of the State prohibiting them, were committed with the knowledge and acquiescence of the officials in charge: State v. Burnam, 128 Pac. 218 (Wash.). Hence we find no error in refusing defendant’s point for binding instructions. But we are not prepared to hold that the absolute liability imposed on the corporation employer also attaches to its managing officers and that they are criminally liable for an innocent mistake of a subordinate. Haupt testified that by an innocent error on his part, and contrary to his instructions, which were to draw and ship legal beverage, he had mistakenly drawn out beer in process of reduction to cereal beverage. This, we held, did not excuse his employer from the penalty imposed for a violation of the statute. But it does not follow that this appellant, another agent of the same employer, who was not shown to have had any part in its violation, must also be held guilty. Haupt’s story may not seem very probable nor appeal to a jury as worthy of belief, but in passing upon its legal effect we must assume it to be true. If Haupt was directed by appellant to draw and ship legal cereal beverage and by an innocent mistake, of which appellant had no knowledge, illegal beer was drawn to be shipped, there is no reason why the superior agent should be held criminally liable for the fault of his subordinate co-employee. To incriminate him with his fellow employee there must have been knowledge on his part of the illegal act. It is not necessary that such knowledge be directly proven; it may be inferred from the relation between the parties and the likelihood that the subordinate, in the performance of his regular duties, is acting under orders from his superior ; and the inference may be strengthened by circumstances such as the shipment of the beer in this case in the name of an unknown consignor. But without such knowledge either directly proven or implied from the relationship or other circumstances, there can be no conviction of an agent or employee for the default or dereliction of a fellow employee; and defendant’s twelfth point should have been affirmed, with proper instructions as to the knowledge required. The fifth assignment of error is sustained. The others are overruled.
+The judgment is reversed and a new trial awarded.
