@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 165"
+decided: "1922-07-13"
+citations: ["79 Pa. Super. 99"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Trexler, Keller, Linn and Gawthrop, JJ."]
+parties: ["Falk Company, Appellant, v. American Railway Express Company."]
+source_url: "https://static.case.law/pa-super/79/cases/0099-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 651789
+cites_cases: ["10 Pa. 61", "224 Pa. 292", "26 Pa. Superior Ct. 380", "261 Pa. 354", "51 Pa. 244", "56 Pa. Superior Ct. 285", "8 Watts 420"]
+---
+
+# Falk Co. v. American Railway Express Co.
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+The writ of foreign attachment is a proceeding against property and the thing to be attached must be within the jurisdiction of the court. This is evident from the terms of the writ as prescribed by the statute. The object is to bring the debtor within the jurisdiction to respond to the plaintiff’s demand. The sheriff is directed to return the writ on the return day named therein. If he fail to find any person in whose possession there is property tangible or intangible, of the debtor, there is no attachment and the proceeding falls. It does not avail that someone be garnished who has no visible property or chose in action to which the defendant is entitled for the sheriff is without authority to warn such person, nor is he subject to the process of the court,-for if no property is bound no one can be bound as garnishee. When the sheriff makes return of the writ, its function is accomplished. If property be seized the procedure is carried on in conformity to the statute and the appropriate practice, but if no property be seized, there is neither person nor property within the operation of the court’s process: Penna. R. R. Co. v. Pennock, 51 Pa. 244; Mindlin et al. v. Saxony S. Co. et al., 261 Pa. 354; Glenny v. Boyd, 26 Pa. Superior Ct. 380. This principle is subject to the qualification that actual seizure is only required in the case of tangible assets within the territorial jurisdiction of the court. It does not apply to debts or choses in action. Jurisdiction to levy on such rights by process of garnishment rests on the ability to serve the writ on the debtor of the defendant within the jurisdiction of the court issuing the process, but in such case there must be a debt or a chose in action ón which the attachment will operate through the garnishee. Where there is no debtor of the defendant in the foreign attachment, no chose of action within reach, of the court’s process, there can be no garnishment. Wiener v. American Insurance Co., 224 Pa. 292, goes no further than this — it draws the distinction between tangible and intangible property and shows that as to debts there is ordinarily no situs; they follow the debtor, and may be attached where he is found; but the case assumes the existence of the debt as the source of jurisdiction to support the attachment. Applying the forgoing principles to the case before us, it seems evident that when the writ of attachment was returned, no property of the defendant tangible or intangible was within the jurisdiction of the court. It was issued May 6,1920, and returned May 7th of the same year. The only evidence bearing on the subject of the defendant’s property was that none of it was within the State of Pennsylvania when the writ was issued or when it was returned. The answers of the garnishee to the plaintiff’s interrogatories were made about a year after the writ was returned and relate to the condition existing at the time the answers were made. It has been held that accumulations of property are subject to the operation of the attachment, but that clearly implies a subject to which accumulations may be referred; that is, a subsisting attachment of property. It was not intended to establish the rule that a writ of attachment returned by the sheriff and operating on nothing would have vitality through a period of months or years to bind property subsequently coming into the hands of the person named in the writ as garnishee and bring it under the control of the court Such a construction we regard as inconsistent with the letter and spirit of the foreign attachment legislation, and not in harmony with the decisions of our courts. Its effect would be to create surprise, vexation and loss in many instances and would make the writ of foreign attachment a trap in which the innocent might be ensnared. The trial court rightly concluded therefore that the appellant’s procedure could not be sustained because it appeared that neither was the defendant within the jurisdiction of the court nor was there tangible or intangible property of the defendant within the State when the writ was served.
+The judgment is affirmed.
