@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 357"
+decided: "1926-02-26"
+citations: ["87 Pa. Super. 463"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, Henderson, Trexler, Keller, Linn and Gawthrop, JJ."]
+parties: ["Kline v. Kratchman, Appellant."]
+source_url: "https://static.case.law/pa-super/87/cases/0463-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 571162
+cites_cases: ["236 Pa. 496", "274 Pa. 394"]
+---
+
+# Kline v. Kratchman
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+The plaintiff in this action of trespass seeks to recover for injuries to the person, lalleged to have been sustained through the negligence of the defendant. The defendant conducts a public bathing establishment in the city of Philadelphia. The plaintiff testified, at the trial, that he had been a patron of this establishment for several years, and that, on Feburary 2, 1924, he visited defendant’s place of business for the purpose of taking a “Russian Sweat.” He thus described the nature of the injury of which he complains and the manner in which it happened, viz: “I laid down on the bench and when I went to get up I supported myself with my thumb and a piece of splinter went in right here, under the nail.” He further testified that one of the employees of defendant’s establishment took a pair of pinchers and pulled out the splinter, and that the injury subsequently became infected; that he was compelled to have the services of a surgeon who operated on the thumb; that he paid out considerable money to a doctor and surgeon for treating the thumb and suffered great pain for a considerable period of time. The defendant produced evidence showing the manner in which the benches were constructed and used in the “Russian” bath-room, tending to establish that those benches were scrubbed and inspected every morning iand that the defendant had never heard anything about the injury to plaintiff until the plaintiff called on him about two weeks after the alleged occurrence. The case was tried by a judge of the court below without the intervention of a jury. The defendant submitted a point that under all the evidence the finding must be in his favor, which point the court refused and granted an exception. The learned judge found in favor of the plaintiff, to which finding defendant excepted and moved the court for judgment in his favor notwithstanding the finding, which motion the court dismissed and entered judgment on the finding. These rulings are assigned for error.
+While the evidence produced by the plaintiff disclosed that the bench upon which he was lying was intended to be so used by the patrons of the bathing establishment, he offered no evidence whatever as to the condition of the bench either before or after the alleged accident. The only evidence produced, during the entire trial, from which it was contended an inference of negligence might be inferred was that above quoted, that when plaintiff went to get up he supported himself with his thumb and a piece of splinter went in under his thumb nail. The plaintiff does not seem to have made any examination of the bench, which he might have done then and there, to ascertain whether it had been improperly constructed or that defects had developed therein which required- repair. This case is entirely different from one in which an injury has resulted from the breaking of machinery, because of a defect which reasonable inspection ought to have discovered. There was no breaking of the bench, nor was there any evidence that it had been in a defective condition before the accident or had been found so after the occurrence. The defendant introduced evidence showing the manner in which the benches had been constructed, used and inspected. There was nothing in the evidence so produced by the defendant which warranted a finding of negligence on his part. The burden was upon the plaintiff to show not only that he had been injured but that the injury had resulted from the negligence of the defendant. The only question in the case was, Did the fact that when plaintiff went to get np and supported himself with his. thumb a splinter of wood ran under the thumb nail, warrant a finding of negligence upon the part of the defendant? One who conducts a business establishment, while required to use ordinary care to keep his place of business in a reasonably safe condition so as not to expose his customers to unnecessary dangers, is not liable for accidents they may therein sustain, except upon proof of his default: Chapman v. Clothier, 274 Pa. 394; Spickernagle v. Woolworth, 236 Pa. 496. There was in the present case no evidence of such a defect in the bench as reasonable inspection ought to have discovered prior to the injury of which plaintiff complains; the request of the defendant for a finding in his favor, under all the evidence in the case, ought to have been affirmed. The assignments of error are sustained.
+The judgment is reversed and judgment is here entered in favor of the defendant.
