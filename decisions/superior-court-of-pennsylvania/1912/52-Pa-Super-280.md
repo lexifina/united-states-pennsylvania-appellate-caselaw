@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 59"
+decided: "1912-12-09"
+citations: ["52 Pa. Super. 280"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady, Head and Porter, JJ."]
+parties: ["Donnelly v. Hoopes, Appellant."]
+source_url: "https://static.case.law/pa-super/52/cases/0280-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 432866
+cites_cases: ["127 Pa. 389", "151 Pa. 415", "157 Pa. 174", "159 Pa. 612", "2 Watts, 424", "231 Pa. 68", "38 Pa. 147", "4 Wharton, 369", "52 Pa. 498", "6 Pa. Superior Ct. 411", "6 Wharton, 331", "61 N. Y. 362", "64 Pa. 473", "9 Pa. 220"]
+---
+
+# Donnelly v. Hoopes
+
+## Majority (Head, J.,)
+
+Opinion by
+Head, J.,
+The single contention of the defendant in this case is that the learned trial judge fell into error in refusing to direct a verdict in his favor. A brief consideration of the undisputed facts, viewing them in the light most favorable to the defendant that the circumstances will permit, will clearly show that the learned judge below could not have properly withheld from the jury the determination of at least one controlling question of fact.
+It is conceded that the defendant entered into an agreement with the plaintiff whereby he undertook to sell and convey to the latter certain property in the city of Philadelphia for the sum of $15,000. Being of opinion that he had made a bad bargain, he induced the plaintiff to cancel and surrender that agreement and accept in its stead another, by the terms of which the defendant promised and agreed to pay to the plaintiff one-half of any sum above $15,000 for which he might be able to sell the said property, it being stipplated that such sale should not be made for less than $16,000. The defendant subsequently sold the property for $17,500, and the plaintiff brought this action to recover his share of the excess over and above the purchase price named in the first agreement. By way of defense to this claim the defendant sets up a third agreement in the nature of an accord and satisfaction. He alleged that the plaintiff, being about to depart on a European trip, offered to accept the sum of 1500 cash in lieu of the unliquidated sum which he would have been entitled to receive under the second agreement referred to. He further declared in his affidavit of defense that he had accepted the plaintiff’s offer after his departure and had paid to one McSorley, as the plaintiff’s agent, the said sum of $500. Leaving aside for the present the consideration of a number of questions of more or less difficulty and importance, argued in the briefs of counsel, we naturally turn our attention to the disposition of the question of fact raised by the allegation of the affidavit of defense to which we have just referred. It appeared from the evidence that the plaintiff and McSorley were members of the bar, occupying the same offices, but that no partnership of any kind existed between them. Although the plaintiff had been requested, in a letter from the defendant, to leave his papers and contracts in the hands of McSorley when he went abroad, he declined to do it. The defendant, having completed or about completed a sale of his property for $17,500, undertook to accept what he alleged to be an offer from the plaintiff to relinquish his interest for $500 and to satisfy the terms of that agreement by paying $500 to McSorley. The latter at once declared that he was no agent of the plaintiff and had no authority to act for him. Being shown a letter from the plaintiff to the defendant and urged by the latter on the strength of that letter to accept the money and sign a receipt as the plaintiff’s agent, McSorley refused to' do that. He did finally agree to accept the money in his own name and gave the defendant a receipt for it signed by him individually.
+Upon the return of Donnelly, the plaintiff, from Europe and his receipt of information of the facts just stated,-he promptly repudiated the arrangement that had been made and directed McSorley to return the money to the defendant. This he undertook to do, but the defendant declined to receive it, and so far as this record shows it still remains in the hands of McSorley.
+Assuming that there was sufficient evidence to enable the learned trial judge to declare that the defendant had established a good accord upon a legal consideration, it must be manifest that, unless it was completed by satisfaction, the defense would fail. Although the evidence tending to establish any agency of McSorley was extremely meager, the learned trial judge submitted to the jury, in a charge of which the defendant can and does make no complaint, the determination of the question of fact whether or not McSorley had any authority whatever to receive the money and bind the plaintiff thereby. The verdict, under the terms of the submission, is an unmistakable answer to that question adverse to the defendant’s contention. The able counsel who argues for the appellant frankly admits at bar that this question of fact has been determined against his contention. That being true, the defendant’s plea of accord and satisfaction failed and there was nothing left for the court below to do but direct the entry of a judgment on the. verdict. The assignments of error are overruled.
+Judgment affirmed.
