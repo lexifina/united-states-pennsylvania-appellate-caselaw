@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 3"
+decided: "1939-03-16"
+citations: ["135 Pa. Super. 181"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Kellee, P. J., Cunningham, Baldeige, Stadtfeld, Paekee and Bhodes, JJ."]
+parties: ["Madajewski v. Susquehanna Collieries Company, Appellant."]
+source_url: "https://static.case.law/pa-super/135/cases/0181-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1017140
+cites_cases: ["124 Pa. Superior Ct. 194", "188 A. 413", "93 Pa. Superior Ct. 225", "99 Pa. Superior Ct. 58"]
+---
+
+# Madajewski v. Susquehanna Collieries Co.
+
+## Majority (Baldrige, J.,)
+
+Opinion by
+Baldrige, J.,
+The appellant’s chief contention in this case is that the award made by the compensation authorities, and approved by the court, for disfigurement under section 306(c) of the Workmen’s Compensation Act of June 2, 1915, P. L. 736, as amended May 20, 1921, P. L. 966 (77 PS §513), is not supported by competent evidence.
+Claimant, while in the course of his employment on August 2,1934, sustained an injury to his right eye and burns on the back of his head and neck. An agreement was entered into August 15, 1934, under which compensation was paid for the eye injury from August 9, 1934, for 25 4/7 weeks, at the rate of $15 per week, or a total of $383.57. On September 23, 1935, the employer filed its petition to terminate payments as of July 30, 1935, setting forth therein that claimant had recovered from his injuries. Claimant in his answer denied that averment, stating that he had lost the use of his right eye as the result of the injury received at the time of the accident. When the matter came on for hearing before a referee on January 17,1935, the claimant abandoned his claim for further compensation for his eye injury and conceded that he had vision by the use of glasses, but he moved to amend his answer to include a claim for disfigurement caused by burns on his head and neck. The appellant agreed to this amendment but denied that claimant was entitled to compensation for disfigurement.
+Dr. Waters testified that claimant has a permanent scar as the result of a burn “on the left side of his neck posteriorly, extending from the midline down to the superior scapular fossa on the left side a distance of about five inches,” two inches of which is above the collar line, and that it is about two and a half inches at its widest portion; that claimant has another sear on the back of his head, posterior to the right mastoid, which is about an inch and a half long and an inch wide, which may be covered by hair if it is permitted to grow long; there is also a third scar entirely below the collar line. These scars are white and blanched as compared with the rest of the skin. The first one mentioned is visible from the rear and side for a distance of about twelve feet.
+Section 306(c) of the Compensation Act, supra, which is immediately applicable here, provides that compensation may be awarded “For serious and permanent disfigurement of the head or face of such a character as to produce an unsightly appearance, and such as is not usually incident to the employment, sixty-five per centum of wages not to exceed one hundred and fifty weeks.” After seeing the nature, extent, location, and appearance of these scars, the referee found that claimant’s disfigurement is within the terms of the act, and accordingly awarded compensation. We cannot say otherwise.
+In so far as we are concerned, if there is competent evidence, which we think is present in this case, to sustain the findings of the referee and the board, we must accept them, as the duty of determining the question of disfigurement and the compensation to be awarded therefor, within the limitation of the statute, is imposed upon the compensation authorities, not upon us: Walsh v. Glen Alden Coal Co., 99 Pa. Superior Ct. 58, 62. We said in Muchnick v. Susquehanna Waist Co. et al., 124 Pa. Superior Ct. 194, 198, 188 A. 413: “In considering the entire gamut of degrees of disfigurement from the most trifling to the most serious, it is a continuous series without a clear line of demarcation showing when the serious condition is reached, and it is ordinarily for the referee or board to determine whether the disfigurement is of a degree where it may be said to be serious.”
+Confronted with the proof before us, we do not feel warranted in holding, as a matter of law, that the head scars are trivial and so hidden as to deprive the claimant of all compensation for disfigurement. They undoubtedly are permanent, and probably are visible and so unsightly as to attract attention and thus constitute such a defacement or disfigurement as comes within the contemplation of the statute.
+The referee made the following award: “And, now, therefore, we do hereby set aside the Final Settlement Receipt in this case for the purpose of allowing compensation for disfigurement, and for such disfigurement above described we do award compensation at the rate of $15 per week for the period of 35 weeks beginning as of August 9, 1934, and amounting to the sum of $525. It is directed, however, that the Defendant shall be given credit for any and all compensation heretofore paid for and during the period above mentioned.” That order is in proper form as the claimant is not entitled to additional compensation for disfigurement during the weeks he was paid for his eye injury: Helitski v. Glen Alden Coal Co., 93 Pa. Superior Ct. 225.
+It is conceded that the claimant received compensation of $15 a week for 25 4/7 weeks, amounting to $383.57, for the eye injury, and credit therefor should be given. The learned court below, in affirming the award, directed judgment to be entered at the rate of $15 per week and against the defendant in the sum of $525, but omitted to allow credit for compensation previously paid within the 35-week period.
+The award of compensation is affirmed but the judgment is modified. The record is remitted to the court below, with directions to enter judgment for compensation at the rate of $15 a week for 35 weeks, with a credit in the sum of $383.57, the amount paid claimant under the compensation agreement.
