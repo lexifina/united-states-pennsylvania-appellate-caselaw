@@ -1,0 +1,43 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2989 C.D. 1982"
+decided: "1984-01-31"
+citations: ["80 Pa. Commw. 93"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogers, Barry and Barbieri, sitting as a panel of three."]
+parties: ["Dolores Kempf, Executrix for the Estate of Henry G. Eiswerth, and in behalf of all others similarly situated, Petitioner v. Commonwealth of Pennsylvania, Department of Public Welfare et al., Respondents."]
+source_url: "https://static.case.law/pa-commw/80/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1318492
+cites_cases: ["105 A.2d 722", "11 Pa. Commonwealth Ct. 90", "21 Pa. Commonwealth Ct. 116", "266 A.2d 78", "289 Pa. Superior Ct. 84", "298 A.2d 643", "30 Pa. Commonwealth Ct. 595", "311 A.2d 368", "319 A.2d 890", "32 Pa. Commonwealth Ct. 296", "343 A.2d 695", "354 A.2d 250", "374 A.2d 991", "377 Pa. 636", "379 A.2d 333", "42 U.S.C. §§1396", "438 Pa. 506", "456 Pa. 530", "459 Pa. 268", "467 Pa. 15", "55 Pa. Code §257.21", "7 Pa. Commonwealth Ct. 291"]
+---
+
+# Kempf v. Commonwealth
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+The Secretary of Welfare and the Department of Public Welfare (DPW) have filed preliminary objections to a class action complaint in equity brought against them by the executrix of the estate of Henry G. Eiswerth, deceased, seeking restitution of medical assistance reimbursements received by the DPW from Pennsylvania decedents ’ estates and future restraint of DPW from, obtaining or attempting to obtain reimbursement of medical assistance payments.
+In Counts 1 through' 10 of her complaint, the plaintiff alleges that, pursuant to an erroneous interpretation of iSections 1396-1396.N of Title XIX of the Social Security Act, Section 1974(c) of The Support Law and a DPW regulation at 55 Pa. Code §257.21 (b), DPW wrongfully sought reimbursement of medical assistance payments made to the plaintiff’s decedent during the last six months of his life and that the DPW is wrongfully attempting to seek reimbursement from the estates of other decedents similarly situated. In Count 11 the plaintiff alleges that she has no adequate remedy at law; and the rest of the complaint consists of averments iof fact in support of the propriety of her proceeding by means of a class action.
+The defendants ’ preliminary objections are: (1) an allegation that the plaintiff has failed to pursue her statutory administrative remedy of first paying the claim and 'then petitioning the Board of Finance and Revenue for a refund as provided by Section 503 of The Fiscal Code, Act of April 9, 1929, P.L. 343, as amended, 72 P.S. §503; (2) a petition raising a question of ‘the court’s jurisdiction of 'the subject matter, which the def endants contend is vested exclusively in the court of common pleas, orphans’ court division; and (3) allegations of fact to the point that the plaintiff is not a proper representative of the class which she seeks to represent, that her claim is not typical and other issues of fact relating to the plaintiff’s class action allegations.
+DPW’s preliminary objection based upon the plaintiff’s failure to exercise her statutory right to petition for a refund from the Board of Revenue and Finance must be overruled. We are mindful of the cases Rochester and Pittsburgh Coal Co. v. Indiana County Board of Assessment and Revision of Taxes, 438 Pa. 506, 266 A.2d 78 (1970); Aldine Apartments Inc. v. Pennsylvania Department of Revenue, 32 Pa. Commonwealth Ct. 296, 379 A.2d 333 (1977); and Lilian v. Commonwealth, 11 Pa. Commonwealth Ct. 90, 311 A.2d 368 (1973), aff’d, 467 Pa. 15, 354 A.2d 250 (1976), in which preliminary objections to class action complaints seeking relief from taxing measures were sustained because of available statutory remedies. This case is quite different. In Rochester, Aldine and Lilian the taxpayers ’ purpose was to impede or alter the regular assessment or collection of public revenue; also it was found in each of these cases that the statutory remedy was adequate for the plaintiffs’ purposes. The class of plaintiffs here consists of the personal representatives of decedents who, during their lifetimes, because they were already receiving welfare grants or could show medical need, had received public assistance in the payment of their medical expenses. The statutory remedy proposed by DPW is that these decedents’ estates should pay the allegedly unlawful claims of DPW for reimbursement and then petition the Board of Finance and Revenue for refunds. This remedy in these eircum'S taraces is wholly inadequate. The conditions oí these plaintiffs are similar to those of the plaintiffs in Temple University of the Commonwealth System of Higher Education v. The Pennsylvania Department of Public Welfare, 30 Pa. Commonwealth Ct. 595, 374 A.2d 991 (1977), hospitals which complained that DPW unlawfully refused them reimbursement for the care of indigent patients. We found that the remedy of ¡an ¡appeal from DPW’® actions pursuant to the Administrative Agency Law, Act of June 4, 1945, P.L. 1388, as amended, 71 P.S. §1710.1, was not adequate:
+Equity has jurisdiction notwithstanding a failure to pursue an available ¡statutory remedy if that remedy is inadequate. Collegeville Borough v. Philadelphia Suburban Water Co., 377 Pa. 636, 105 A.2d 722 (1954); Metropolitan Hospital v. Department of Public Welfare, 21 Pa. Commonwealth Ct. 116, 343 A.2d 695 (1975), and, while this Court has ¡expressed reluctance to favor equity jurisdiction over administrative remedies, Allegheny County, Southern District, Tax Assessment Appeals, 7 Pa. Commonwealth Ct. 291, 298 A.2d 643 (1972), .rev’d on other grounds, 459 Pa. 268, 328 A.2d 819 (1974), it is appropriate to take equity jurisdiction if necessary to avoid a mutiplicity of actions. Luitweiler v. Northchester Corp., 456 Pa. 530, 319 A.2d 890 (1974).
+Id. at 601, 602, 374 A .2d at 995, 996.
+The defendants, citing Section 931 of ¡the Judicial Code and Section 711(1) of the Probate, Estates and Fiduciaries Code, also object that the disposition of the plaintiff’s cause of 'action lies exclusively within the jurisdiction of the Lycoming County 'Court of Common Pleas. We disagree.
+Section 931 of the Judicial Code, 42 Pa. C. ,S. §931 provides:
+Except where exclusive original jurisdiction of an action or proceeding is by ¡statute nr by ¡general rule ¡adopted pursuant to Section 503 . . . vested in ¡another court of the Commonwealth, the courts of common pleas shall have unlimited original jurisdiction of ¡all ¡actions____
+Section 711 of the Probate, Estates and Fiduciaries Code provides that the jurisdiction of the court of common pleas over decedents’ estates .shall be ¡exercised through its orphans.’ court division..
+The plaintiff does not however challenge the power of the common pleas ¡court to administer and distribute her decedent’s estate. Her complaint is against DPW and its purpose is to prevent continued violations of the law concerning reimbursement of medical assistance. .Surely, DPW is not immune from suits instituted in a court of competent jurisdiction by persons asserting that it is presenting .spurious claims against estates because the personal representatives might contest -the claims in the court of common pleas.
+The defendants have ¡also challenged factual averments made by the plaintiff in support of her class action. Issues of fact ¡with respect to class action allegations may not he raised by preliminary objections but instead should be .set forth ¡in an answer. Pa. R.C.P. No. 1017; Trevellini v. West Realty Co., 289 Pa. Superior Ct. 84, 432 A.2d 1062 (1981).
+The DPW also ,argues in its brief ¡that the plaintiff’s cause ¡of action against it is barred by .sovereign immunity. This objection was not raised by preliminary objection and will not be considered here.
+The preliminary objections are overruled; and the defendants ¡shall plead over within twenty days after notice of >this order.
+Order
+And Now, this 31st day of January, 1984, the preliminary ¡objections of the defendants are overruled 'and the defendants .shall plead over within twenty days after notice of this order.
+42 U.S.C. §§1396-1396N.
+Act of June 24, 1937, P.L. 2045, as amended, 62 P.S. §1974 (c).
+This Act has since been codified and the right to appeal from an action of any agency of the Commonwealth of Pennsylvania now appears at 2 Pa. C. S. §702.
+Secbion 931 of the Judicial Code, 42 Pa. C. S. §931.
+Section 711 oí the Probate, Esta'tefe and. fiduciaries .Code, 20 Pa. C. S. §711(1).
