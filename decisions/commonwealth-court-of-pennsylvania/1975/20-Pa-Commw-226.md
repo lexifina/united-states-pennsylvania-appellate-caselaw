@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "908 C.D. 1974"
+decided: "1975-07-11"
+citations: ["20 Pa. Commw. 226"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Mencer, Rogers and Blatt."]
+parties: ["City of Pittsburgh and Paul J. Imhoff, Superintendent of the Bureau of Building Inspection of the City of Pittsburgh, Plaintiffs, and June B. Cohen, Intervening Plaintiff, v. Commonwealth of Pennsylvania, Israel Packel, Attorney General of the Commonwealth of Pennsylvania; Joseph A. Pauza, Regional Director of the Bureau of Correction; Louis J. Harvey; Ethel Harvey; E. Louis Averbach and Edith S. Averbach, Defendants."]
+source_url: "https://static.case.law/pa-commw/20/cases/0226-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1868803
+cites_cases: ["10 Pa. Commonwealth Ct. 270", "10 Pa. Commonwealth Ct. 272", "108 N. J. Super. 65", "15 N.J. Super. 363", "170 Md. 245", "183 A. 531", "260 A. 2d 1", "310 A. 2d 90", "310 A. 2d 91", "83 A.2d 448"]
+---
+
+# City of Pittsburgh v. Commonwealth
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+The plaintiffs and the intervening plaintiff sought an order enjoining the defendants from establishing a prison pre-release center at 535 South Aiken Avenue, Pittsburgh. The grounds upon which the relief was sought were (1) that the defendants have failed to seek or obtain a certificate of occupancy from the zoning authorities of the City of Pittsburgh, and (2) that the Governor had not approved the location as required by Section 1 of the Act of July 16, 1968, P. L. 351, 61 P. S. §1051 (Supp. 1974-1975).
+The statute in question is as follows:
+“The Bureau of Correction, Department of Justice, shall have the power and its duty shall be to establish with the approval of the Governor such prisoner prerelease centers at such locations throughout the Commonwealth as it may deem necessary to carry out effective prisoner pre-release programs therefrom.”
+The plaintiffs sought a preliminary injunction which, after hearing, we granted on August 6, 1974, on the ground that it appeared to us that the Governor had not approved the location as a pre-release center.
+The public defendants moved to dissolve the preliminary injunction on the ground that they were able to prove gubernatorial approval. After hearing at which there was admitted a letter from the Governor to the Commissioner of the Bureau of Correction approving the Aiken Street property for use as a pre-release center, we entered an order from the bench on September 6, 1974 dissolving the preliminary injunction.
+We entered a decree nisi dismissing the complaint on January 24, 1975. The City of Pittsburgh and its Superintendent of the Bureau of Building Inspection filed exceptions which, after argument, are before us for disposition.
+The remaining question is that of whether the defendants or any of them were required to apply for and obtain a certificate of occupancy from City zoning authorities for the use of the premises by the Commonwealth for the purpose intended.
+The law of Pennsylvania is that the Commonwealth is not subject to the zoning requirements of municipal subdivisions and that it is not required to obtain or apply for zoning permits. The General State Authority v. The Borough of Moosic, 10 Pa. Commonwealth Ct. 270, 310 A. 2d 91 (1973); Township of Lower Allen v. Commonwealth, 10 Pa. Commonwealth Ct. 272, 310 A. 2d 90 (1973). The plaintiffs seek to distinguish these cases on the ground that they concerned State owned property sought to be subjected to local zoning regulations, whereas here the Commonwealth seeks to use rented property without compliance with City zoning requirements, which the plaintiffs contend are at least applicable to the lessors. There are several infirmities in this contention. The Commonwealth, not the landowner or his agent, seeks to occupy the property during the term of the lease. The Commonwealth may conduct its governmental functions in rented premises if it desires, and the pre-release program authorized by the Act of July 16, 1968, P. L. 351 clearly envisions the temporary use of premises in the community rather than institutions created and owned by the State. We reject the proposition that a muncipality may, by imposing the burden of applying for a certificate of occupancy on the owner as well as the tenant and by joining the owner as a defendant in a suit to enforce its permit requirements, impede, interfere with, delay and possibly frustrate the State’s power to pursue a program authorized by statute.
+The plaintiffs cite two cases which they contend support their contention that local zoning regulations may control the use of properties leased by a private person to the State for governmental purposes. The first, Major and City Council of Baltimore v. Linthicum, 170 Md. 245, 183 A. 531 (1936), held that the refusal of the application of a private person for use of property leased by him to the United States for a post office did not offend Article I, Section 8 of the United States Constitution (the Supremacy Clause) because the property was not within the exclusive jurisdiction of the United States. In the second, Carrol v. Board of Adjustment of Jersey City, 15 N.J. Super. 363, 83 A.2d 448 (1951), the application was by a private owner to erect an office building for government use. It is true that the court held that the immunity of the government from zoning regulations did not extend to a private person who had leased property to an agency of State government. The court recognized, however, that the rule it announced would not apply if a statute specifically authorized the governmental agency to acquire and use the property for the nonconforming purpose. The Maryland case turned on the construction of a provision of the United States Constitution and the New Jersey case, which is closer, recognizes that the rule announced would yield to statutory provision, which here can be found in the Act of July 16, 1968. Neither case, of course, is controlling of Pennsylvania Law, and the age of both and the present apparent strong public policy in favor of new and dynamic programs for the rehabilitation of criminal offenders, considerably weaken their persuasiveness.
+Whatever authority the Carrol case may have had is extinguished by Thanet Corporation v. Board of Adjustment, 108 N. J. Super. 65, 260 A. 2d 1 (1969), where the Appellate Division of the New Jersey Superior Court held that the lease by the Federal Government of privately owned land for post office use conferred immunity on the tract from local zoning regulations. It is further noted that the United States was not a party to the litigation in Thanet, as the Commonwealth here is.
+Final Decree
+And Now, this 11th day of July, 1975, it is ordered that the plaintiffs’ exceptions be and they are hereby dismissed and the Prothonotary is directed to enter the following as our final Order:
+Complaint dismissed.
