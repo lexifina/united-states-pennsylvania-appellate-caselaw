@@ -1,0 +1,41 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 58"
+decided: "1970-06-11"
+citations: ["216 Pa. Super. 405"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Weight, P. J., Watkins, Montgomery, Jacobs, Hoffman, Spaulding, and Cercone, JJ."]
+parties: ["Commonwealth v. Banks, Appellant."]
+source_url: "https://static.case.law/pa-super/216/cases/0405-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 790735
+cites_cases: ["124 A. 2d 407", "168 A. 244", "181 Pa. Superior Ct. 225", "185 A. 283", "248 A. 2d 301", "312 Pa. 543", "322 Pa. 125", "363 Pa. 435", "432 Pa. 557", "52 Pa. Superior Ct. 64", "70 A. 2d 226"]
+---
+
+# Commonwealth v. Banks
+
+## Majority (Jacobs, J.,)
+
+Opinion by
+Jacobs, J.,
+The issue in this case is whether a criminal defendant is precluded by Pa. R. Crim. P. 1119(b) from raising a basic and fundamental error in the charge of the trial judge in his motion for a new trial where he did not in any manner object or except during the trial.
+Appellant was convicted by a jury on two counts of simple assault and battery and acquitted on one in a trial concluded on May 14, 1969. The events giving rise to the charges occurred on a sidewalk outside a restaurant in the City of York. No weapons were involved, only fists. Appellant engaged in a fight with one Terry Lippert which resulted in Lippert being knocked down. At that point a friend of Lippert’s, Norman Lightner, and a bystander, Dennis Smith, intervened. Appellant was acquitted of assaulting Lip-pert but convicted of assaulting Lightner and. Smith.
+The defendant alleged self-defense. In its charge the lower court said defendant was under a duty to retreat before using force to defend himself, and that if he had an opportunity to retreat and did not avail himself of the opportunity he could not assert self-defense.
+That is not the law of Pennsylvania. We have so stated a number of times in decisions of this Court. Commonwealth v. Mitchell, 181 Pa. Superior Ct. 225, 124 A. 2d 407 (1956) and Commonwealth v. Roman, 52 Pa. Superior Ct. 64 (1912). In Mitchell we said at 230, 124 A. 2d at 409: “ ‘The doctrine of retreat as developed in homicide cases is not by the weight of authority regarded as applicable to cases involving a mere battery, especially where immediate action appears to be necessary for self-protection.’ 5 C.J., Assault and Battery, §236; 6 C.J.S., Assault and Battery, §92c. Also, ‘The ancient doctrine which makes it the duty of a person assaulted to “retreat to the wall” before he is justified in repelling force by force has been generally modified in the United States. The rule now generally accepted is that one who is assailed may meet force with force without retreating, so long as he uses only such force as is necessary, even though he might with absolute safety avoid the threatened injury or bodily harm by retreating.’ 4 Am. Jur., Assault and Battery, §47.” And, in Roman we said at 67: “It may be conceded that if the defendant had only used his naked hands in assaulting the prosecutor the court would not have been warranted in instructing the jury that before resisting, the defendant must have receded to the wall.”
+Appellant’s whole case depended on a showing of self-defense. The court’s charge required the appellant to prove an improper and unnecessary element in that affirmative defense. This deprived appellant of a fair trial and was fundamental and basic error.
+As a general rule an appellate court will not pass upon alleged errors in a judge’s charge where no exception was taken at trial. Commonwealth v. Stowers, 363 Pa. 435, 70 A. 2d 226 (1950). However, it has long been the law of Pennsylvania that the general rule will not be applied where there is basic and fundamental error in the charge. Commonwealth v. O’Brien, 312 Pa. 543, 168 A. 244 (1933). In O’Brien, involving a trial for bribery, the Court said at 546, 168 A. at 245, “A man is not to be deprived of his liberty and reputation because of the inadvertence of a trial judge or the carelessness of his counsel in failing to call the attention of the trial court to palpable error which offends against the fundamentals of a fair and impartial trial.” Even in the absence of a general exception an appellate court may reverse because of basic and fundamental error. Commonwealth v. Williams, 432 Pa. 557, 248 A. 2d 301 (1968); Patterson v. Pittsburgh Rys. Co., 322 Pa. 125, 185 A. 283 (1936).
+The law in effect prior to the effective date of Pa. R. Crim. P. 1119(b) persuades us to grant a new trial in this case because of the fundamental error in the charge particularly where, as here, a person’s liberty is at stake. However, the lower court refused to grant a new trial because of rule 1119(b) which became effective August 1, 1968, and provides as follows: “No portions of the charge nor omissions therefrom may be assigned as error, unless specific objections are made thereto before the jury retires to deliberate. All such objections shall be made beyond the hearing of the jury.”
+We must, therefore, determine whether rule 1119 (b) changes our case law. We think it does not.
+In our opinion rule 1119(b) expresses the general rule existing prior to its promulgation. We do not believe it was the intention of the Supreme Court to eliminate the exception to that rule that basic and fundamental error which affects the merits or justice of the case may be raised even though not excepted to at trial. Rule 1119(b) was apparently modeled after Fed. R. Crim. P. 30 which has substantially the same language. The federal rules, however, do not eliminate the long-standing exception for basic error but provide in Fed. R. Crim. P. 52(b) that “Plain errors or defects affecting substantial rights may be noticed although they were not brought to the attention of the court.” The Advisory Committee on the Federal Rules points out in its comment on rule 52(b) that it is a restatement of existing law.
+It may be argued with considerable weight that a party should not be permitted to sit through a trial without objecting to errors in the charge which could have been cured by the judge and then, when it is too late to cure such errors, except by granting a new trial, raise the objections. This argument is certainly sound in the vast majority of cases, but where an error is so basic that a person may have been convicted and sentenced to prison because of it, and the failure to object was not his but his counsel’s fault, justice and fairness far outweigh the argument.
+It might also be suggested that rule 1119(b) be strictly enforced and that appellant be required to seek his remedy under the Post Conviction Hearing Act. To do so would compel him to ask for relief because he was denied his constitutional right to representation by competent counsel. As a practical matter how can we expect trial counsel to suggest Ms own incompetence to Ms client and step aside for other counsel? Furthermore, it seems to us that such a suggestion increases litigation and requires a circuitous route to arrive at a conclusion which justice requires.
+Judgment of sentence reversed and a new trial granted.
+
+## Dissent (Wright, P. J.:)
+
+Dissenting Opinion by
+Wright, P. J.:
+In my view, this case of simple assault and battery was properly disposed of in the court below. As pointed out by President Judge Atkins, the purported error in the charge “was not assigned as a reason in support of either motion nor was it the subject of an objection at trial, notwithstanding an invitation to counsel at the conclusion of the charge to request any further instruction or to object to any that had been given”.
+Pa. R. Crim. P. 1119(b) expressly provides as follows : “No portions of the charge nor omissions therefrom may be assigned as error, unless specific objections are made thereto before the jury retires to deliberate”. The trial in the instant case took place on May 13, 1969, subsequent to the adoption of the rule which became effective August 1, 1968. As the majority concedes, the rule does not contain any exception for so-called basic or fundamental error.
