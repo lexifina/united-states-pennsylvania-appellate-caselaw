@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2222"
+decided: "1996-09-16"
+citations: ["453 Pa. Super. 224", "683 A.2d 681"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CIRILLO, DEL SOLE and OLSZEWSKI, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Glen OAKES, Appellant."]
+source_url: "https://static.case.law/pa-super/453/cases/0224-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 770955
+cites_cases: ["314 A.2d 513", "386 U.S. 738", "403 Pa.Super. 455", "430 Pa.Super. 649", "455 Pa. 106", "495 Pa. 467", "541 Pa. 564", "630 A.2d 463", "664 A.2d 1326"]
+---
+
+# Commonwealth v. Oakes
+
+## Majority (DEL SOLE, Judge:)
+
+DEL SOLE, Judge:
+Appellant pleaded guilty to rape, corruption of minors, incest, and indecent assault in connection with the i*ape of his daughter. The trial court imposed a sentence of nine to thirty five years and denied Appellant’s subsequent motion for reconsideration and reduction of sentence. On direct appeal, this court affirmed the judgment of sentence. Commonwealth v. Oakes, No. 773 Pittsburgh 1992, 430 Pa.Super. 649, 630 A.2d 463, filed April 16, 1993. Appellant thereafter filed a pro se Motion to Correct an Invalid Sentence. The trial court denied the motion and this appeal followed. We affirm.
+Three issues are raised on appeal: (1) whether the trial court considered improper factors in determining Appellant’s sentence; (2) whether the trial court employed proper procedure and followed applicable sentencing guidelines; and (3) whether failure to object to alleged prosecutorial overreaching constituted ineffective assistance of counsel in this case.
+On direct appeal, appellant’s counsel sought to withdraw on the ground that the appeal was wholly frivolous pursuant to Anders v. California, 386 U.S. 738, 87 S.Ct. 1396, 18 L.Ed.2d 493 (1967). In reviewing such a request, this court is required to “make a full examination of the proceedings and make an independent judgment to decide whether an appeal is wholly frivolous.” Commonwealth v. McClendon, 495 Pa. 467, 471, 434 A.2d 1185, 1187 (1981). The determination that an appeal is wholly frivolous involves a higher standard and should be distinguished from a determination that an appeal lacks merit. Commonwealth v. Greer, 455 Pa. 106, 314 A.2d 513 (1974). A request to withdraw under Anders can be granted only after counsel has advised the court of anything in the record which would support appeal, and the court has performed a full, independent review of the record and deter-, mined that no issues support appeal. Anders v. California, supra. In granting counsel’s motion to withdraw, we applied these standards and determined that an appeal would be wholly frivolous in this case.
+On a second appeal an appellate court may not reopen or alter the resolution of a legal issue decided on a prior appeal by the same court or a higher court. Commonwealth v. Starr, 541 Pa. 564, 664 A.2d 1326 (1995); Commonwealth v. Lenig, 403 Pa.Super. 455, 589 A.2d 700 (1991). This court has already decided that there are no issues in this case which would support an appeal. That decision is binding and precludes further consideration of Appellant’s case.
+Order affirmed.
