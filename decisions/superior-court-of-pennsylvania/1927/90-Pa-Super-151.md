@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals Nos. 119"
+decided: "1927-03-03"
+citations: ["90 Pa. Super. 151"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, P. J., Henderson, Trexler, Keller, Linn and Cunningham, JJ."]
+parties: ["McFarland, Jr., et al., Appellants, v. Martin and Glover."]
+source_url: "https://static.case.law/pa-super/90/cases/0151-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 671896
+---
+
+# McFarland v. Martin
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+The injured plaintiff received his hurt by falling on some broken brick and fragments of cement partly filling an excavation which had been used as a swimming pool when the premises were owned by the City of Philadelphia. The property had been abandoned for that purpose several years before the accident complained of. The building enclosing the pool had been gradually demolished by the children of the vicinity and older persons. Broken brick and pieces of cement covered other parts of the ground as well as the abandoned pool. Young McFarland fell from the wall surrounding the pool a distance of two and a half or three feet, and in the fall received a cut on the wrist which produced a serious injury to the arm. The plaintiff’s case rested on the assumption that the place where the boy was hurt was an open playground in a condition dangerous for the sports of young children; that the City had constructive notice of this condition for years before it disposed of the property; and that notice of the condition was attributable to the defendants. The rule of law is invoked that where persons are expressly or impliedly invited on the owner’s property, it is his duty to exercise ordinary care to prevent injury to them, and that in this case the long continued use of the city lot by children as a place for playing imposed on the owner the obligation of removing objects or conditions which in the nature of things might be productive of injury. It is necessary however in the first place that it be shown by sufficient evidence that the owners of the property had knowledge of the conditions with reference to the presence of children and the risks surrounding them there. We agree with the learned trial judge that there is little if any evidence from which constructive notice of the use which children made of the premises could be charged to the defendants. He based his conclusion however on substantial ground in holding that the conditions complained of were not such as would sustain the action. The defendants had placed no attractive device or concealed trap or any other structure on the premises alluring and dangerous to children of whose habits and impulses notice should have been taken. The reasoning of the court below and the authorities cited well support the judgment entered.
+Moreover, if there were a failure of duty on the part of the defendants it must have been a failure with respect to the injured plaintiff. Actionable negligence is a failure to exercise a legal duty to the person injured. Even if the defendants owed a duty to others but not to the person injured, no action would lie. It is very clear from, the plaintiff’s evidence that at the time the boy was hurt, he was not attracted to the place of the accident by anything on the premises. None of the playground cases are applicable therefore. He was in company with a neighbor boy at the latter’s home on the opposite side of the street. They were attempting to catch some butterflies there. One of the butterflies flew into the street and over the defendant’s lot. Young McFarland pursued it into the street, across the street, and to the place where by a misstep or otherwise he lost his footing and fell on to the rubbish at the shallow end of the basin. The occurrence was in broad daylight, there was no concealed condition of which he did not have knowledge, and the injury which he sustained was apparently the result of his heedless pursuit of the butterfly. He was hurt not because the defendants had by their silence invited him on the premises to play, but because his excited chase of the butterfly took him wherever it went. The law does not impose a duty on the owner of land to maintain it so that children may not be injured in trespassing on it, and where the owner has done nothing by way of enticing devices or invitation, express or implied, to make the place a playground, no liability arises for a disregarded duty with respect to the safety of trespassing children. In the circumstances the defendants were not bound to afford a safe place for the boy who was so unfortunately injured.
+The assignment is overruled and the judgment affirmed.
