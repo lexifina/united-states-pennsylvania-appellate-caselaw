@@ -1,0 +1,66 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "353 C.D. 1991"
+decided: "1991-11-27"
+citations: ["143 Pa. Commw. 601", "600 A.2d 622"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before COLINS and BYER, JJ., and BARBIERI, Senior Judge.", "BYER, J., concurs in the result only."]
+parties: ["COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF MOTOR VEHICLES, Appellant, v. Christopher M. ANDREWS and Kristina L. Griggs, Appellees."]
+source_url: "https://static.case.law/pa-commw/143/cases/0601-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1423165
+cites_cases: ["129 Pa. Commonwealth Ct. 97", "130 Pa. Commonwealth Ct. 143", "337 U.S. 541", "465 Pa. 225", "483 Pa. 68", "525 Pa. 637", "525 Pa. 638", "578 A.2d 931", "93 L.Ed. 1528"]
+---
+
+# Commonwealth v. Andrews
+
+## Majority (COLINS, Judge.)
+
+COLINS, Judge.
+Before the Court is an appeal by the Department of Transportation (Department) from an order of the Court of Common Pleas of Allegheny County that sustained the appeal of Christopher M. Andrews and Kristina L. Griggs (appellees) from the Department’s notice of suspension of the registration of their 1990 Nissan sedan pursuant to Section 1786(d) of the Vehicle Code (Code).
+Appellees’ insurance carrier terminated their automobile insurance effective July 23, 1990 for nonpayment of the premium and provided notice to the Department. By the Department’s official notice dated and mailed September 18, 1990, appellees were informed as follows:
+You were recently requested to provide proof of financial responsibility covering the operation of the described motor vehicle. Either no response was received or the insurance information you provided indicated a lapse in coverage.
+To prevent suspension:
+Submit a copy of your insurance identification card, the declaration page of your insurance policy, a valid binder of insurance, or an application for insurance to the Pennsylvania Auto Insurance Plan, as evidence that the described motor vehicle was continuously covered by liability insurance. It is necessary for you to provide copies of the specified documents and return with this notification. Original documents will not be returned. A self addressed label is enclosed for your convenience.
+If you do not comply with these instructions:
+1. Your registration privilege will be suspended for three months effective 10/23/1990 at 12:01 A.M. as authorized by Section 1786(D) of the Vehicle Code.
+2. You will be required to return any current registration card and license plate for the described motor vehicle.
+3. You will be required to pay a restoration fee in the amount of $50.00, to the department in accordance with Section 1960 of the Vehicle Code.
+4. You will be required to provide the department with proof that the described motor vehicle registered in your name is covered by a motor vehicle liability insurance policy or by a program of self-insurance approved by the department.
+5. You will not be permitted to operate the described motor vehicle until you have been advised in writing by this bureau that your privilege has been reinstated.
+6. If you do not comply with this notice, this bureau will refer this matter to the Pennsylvania state Police for prosecution under Section 1376(A) of the Vehicle Code.
+Department’s notice dated September 18, 1990.
+According to appellees, they complied with the instructions contained in the notice by mailing to the Department the requested information. Also according to appellees, on October 22, 1990, they received a letter from the Department, dated October 17, 1990, informing them that the information they had provided was not sufficient. On October 25, 1990, appellees filed a pro se appeal petition with Common Pleas.
+A de novo hearing was held, at which time the Department moved to quash the appeal as being untimely filed beyond the thirty day statutory appeal period. Appellees testified that they complied with the instructions on the notice and mailed the requested documents to the Department. Griggs stated:
+On the September 18 letter, we were told we were recently requested to provide financial responsibility covering the operation of the described vehicle. It says to prevent suspension, submit a copy of your declaration of your insurance policy, a valid binder of insurance, or application of insurance. We did that. It says if you do not comply with these instructions, your registration will be suspended. It does say you have thirty days to appeal. We did not know we were going to have to appeal. They sent everything back to us on October 17 with the date of the letter, but we didn’t receive it until the 22nd of October.
+By the time appellees received the Department’s October 17, 1990 letter informing them that the information they had provided was insufficient and appellees realized they had to file an appeal, the thirty-day appeal period had passed.
+On January 23, 1991, Common Pleas issued an order and brief opinion sustaining appellees’ appeal on the basis that appellees complied with all of the Department’s instructions and requests for information and were unfamiliar with the procedures of the court. The Department now appeals from that order to this Court.
+The Department presents two issues for our review: (1) whether Common Pleas erred in allowing appellees to appeal nunc pro tunc from the Department’s notice of suspension; and (2) whether Common Pleas erred in sustaining appellees’ appeal when the Department satisfied its burden of proving a lapse in coverage, and appellees failed to show that they fell within one of the two exceptions contained in' § 1786(d)(1) and (2).
+As pointed out by the Department in its brief, the issues presented herein pertaining to Section 1786(d), which was substantially amended by the Act of December 7,1990, P.L. 635, are matters of first impression before this Court.
+Unfortunately, we are unable to reach the issues raised by the Department on the merits, because we have determined that there never existed a final, appealable order. The record is most confusing in this respect. Presumably, the Department believes its official notice dated September 18, 1990 to be a final, appealable order. However, we are not in agreement.
+“A final order is one that ends the litigation, or alternatively disposes of the entire case and has the practical consequence of putting the litigant out of court.” In Re Bangor Memorial Park, 130 Pa. Commonwealth Ct. 143, 146, 567 A.2d 750, 752 (1989). “Whether an order is final and appealable cannot necessarily be ascertained from the face of a decree alone, nor simply from the technical effect of the adjudication. The finality of an order is a judicial conclusion which can be reached only after an examination of its ramifications.” Bell v. Beneficial Consumer Discount Company, 465 Pa. 225, 228, 348 A.2d 734, 735 (1975). Further, our Pennsylvania Supreme Court has stated that:
+[i]n determining what constitutes a final order we have followed the approach of Cohen v. Beneficial Industrial Loan Corporation, 337 U.S. 541, 69 S.Ct. 1221, 93 L.Ed. 1528 (1949), in that we look to ‘a practical rather than technical construction’ of an order.
+We have also said that if the practical consequence of the order by the trial court is effectively to put an appellant ‘out of court’ the order will be treated as final____ Similarly, an order is ‘final’ if it precludes a party from presenting the merits of his claim to the lower court.
+Pugar v. Greco, 483 Pa. 68, 73-4, 394 A.2d 542, 545 (1978) (citation omitted).
+Applying the definition of a final order to the case at bar, it is clear that the September 18, 1990 notice did not dispose of the entire case or put appellees out of court. Appellees rights would not have been irreparably lost if review had been postponed until actual notice of suspension of their registration privilege. Obviously, the subject notice provided appellees the opportunity of averting a suspension by submitting the specified information. At the time of their receipt of the notice, appellees were clearly not yet aggrieved parties. The notice on its face was conditional. Appellees believed they fulfilled the conditions and the Department believed appellees did not.
+The Department gives no indication as to whether, subsequent to the subject conditional notice, an additional notice was provided to the appellees at or near the date of actual suspension. The notes of testimony before Common Pleas indicate that appellees received subsequent correspondence from the Department informing them that the information they had provided was insufficient. Conceivably, if this alleged correspondence also informed appellees that their registration was revoked, this correspondence could constitute a final order. However, it was not introduced into evidence below and, therefore, cannot be considered.
+Interestingly, we note that Section 1377 of the Code, providing for judicial review of the denial or suspension of registration, states that:
+[a]ny person whose registration has been denied or suspended by the department shall have the right to appeal [within thirty days] to the court vested with jurisdiction of such appeals____ The filing of the appeal shall act as a supersedeas and the suspension of registration shall not be imposed until determination of the matter as provided in this section.
+75 Pa.C.S. § 1377 (emphasis added). The language of this section would seem to indicate that at the very least, the appropriate appeal period begins to run from the date of suspension.
+Having concluded that there is nothing in the record to indicate that a final order was ever entered in this matter, we will vacate Common Pleas’ order and will not address the Department’s first argument. For purposes of clarification, we will address the Department’s second argument insofar as it pertains to the parties’ respective burdens of proof required under Section 1786(d).
+Section 1786 of the Code, 75 Pa.C.S. § 1786, provides in pertinent part as follows:
+(a) General rule. — Every motor vehicle of the type required to be registered under this title which is operated or currently registered shall be covered by financial responsibility.
+(d) Suspension of registration and operating privilege.— The Department of Transportation shall suspend the registration of a vehicle if it determines the required financial responsibility was not secured as required by this chapter and shall suspend the operating privilege of the owner or registrant for a period of three months if the department determines that the owner or registrant has operated or permitted the operation of the vehicle without the required financial responsibility____ This subsection shall not apply in the following circumstances:
+(1) The owner or registrant proves to the satisfaction of the department that the lapse in financial responsibility coverage was for a period of less than 21 days and that the owner or registrant did not operate or permit the operation of the vehicle during the period of lapse in financial responsibility.
+(2) The owner or registrant is a member of the armed services of the United States, the owner or registrant has previously had the financial responsibility required by this chapter, financial responsibility had lapsed while the owner or registrant was on temporary, emergency duty and the vehicle was not operated during the period of lapse in financial responsibility. The exemption granted by this paragraph shall continue for 80 days after the owner or registrant returns from duty as long as the vehicle is not operated until the required financial responsibility has been established.
+Assuming there had been a final order issued by the Department, and assuming the Department met its initial burden of showing a lapse in the required financial responsibility, appellees would then have the burden of establishing that they met one of the exceptions contained in subsections (1) and (2). However, because we conclude the Department never entered a final order, we are unable to reach the issue of whether appellees met their burden.
+Accordingly, the order of Common Pleas is vacated and appellees’ registration is restored.
+BYER, J., concurs in the result only.
+ORDER
+AND NOW, this 27th day of November, 1991, the order of the Court of Common Pleas of Allegheny County, in the above-captioned matter, is vacated and the registration of Christopher M. Andrews and Kristina L. Griggs with respect to their 1990 Nissan sedan is restored.
+. 75 Pa.C.S. § 1786(d).
+. Section 1786(e)(2) of the Code, 75 Pa.C.S. § 1786(e)(2), requires an insurer to timely notify the Department upon termination of a contract of motor vehicle liability insurance.
+. Section 1377 of the Code, 75 Pa.C.S. § 1377; Section 5571(b) of the Judicial Code, 42 Pa.C.S. § 5571(b).
+. Although neither party raises this question concerning jurisdiction, "we are obligated to raise jurisdictional questions sua sponte.” Department of Transportation v. Kmetz, 129 Pa. Commonwealth Ct. 97, 99 n. 4, 564 A.2d 1040, 1041 n. 4 (1989), petitions for allowance of appeal denied, 525 Pa. 637, 578 A.2d 931, 525 Pa. 638, 578 A.2d 931 (1990).
