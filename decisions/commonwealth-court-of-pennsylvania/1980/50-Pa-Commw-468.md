@@ -1,0 +1,47 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2750 C.D. 1978"
+decided: "1980-04-11"
+citations: ["50 Pa. Commw. 468"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Mencer and Craig, sitting as a panel of three.", "President Judge Bowman did not participate in the decision in this case."]
+parties: ["Commonwealth of Pennsylvania, Department of Transportation, Bureau of Traffic Safety, Appellant v. F. David Searer, Jr., Appellee."]
+source_url: "https://static.case.law/pa-commw/50/cases/0468-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1907669
+cites_cases: ["170 A.2d 591", "296 A.2d 741", "34 Pa. Commonwealth Ct. 27", "34 Pa. Commonwealth Ct. 271", "382 A.2d 997", "383 A.2d 1283", "408 Pa. 598", "449 Pa. 187", "472 Pa. 348"]
+---
+
+# Commonwealth v. Searer
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+This is an appeal by the Commonwealth from an order of the Court of Common Pleas of Mifflin County reversing the order of the Director of the Bureau of Traffic Safety (Bureau) which suspended, for a 3-month period, the certificate of appointment as an official public inspection station issued to F'. David Searer, Jr., trading and doing business as Searer’s Garage (Searer). We reverse.
+On July 18, 1977, Gerald L. Wilson brought a 1965 Chevrolet to the Searer Garage. This vehicle was not, on that date, registered with the Pennsylvania Department of Transportation and did not have thereon a valid inspection sticker. Wilson requested that John M. Walker inspect the 1965 Chevrolet. Walker was a certified inspection mechanic employed by Searer. Wilson left the car at the garage but was contacted later that day and informed that the car could not be inspected without a current registration but that Walker had checked the vehicle. Wilson returned to Searer’s Garage and removed the car from the premises.
+On July 19, 1977, Wilson returned to the garage and told Walker that he had sold the car but that he was afraid to drive the car to the garage without an inspection sticker. Wilson asked Walker if Walker would give Mm an inspection sticker. Walker wrote out a sticker and handed it to Wilson who took it to Ms home and placed it on the 1965 Chevrolet vehicle.
+Searer was cited for a violation of the Vehicle Code (Code), 75 Pa. C.S. §4730(b). At tbe de novo bearing before tbe Court of Common Pleas following Searer’s appeal from tbe Bureau’s suspension of bis certificate of appointment, Trooper Vandzura of tbe Pennsylvania State Police identified tbe official inspection record reflecting that tbe 1965 Chevrolet bad been inspected at tbe Searer Garage on July 19,1977 and produced tbe sticker which Wilson bad placed on tbe vehicle in question. Trooper Vandzura testified to tbe conversation that be bad with Walker during which Walker admitted that be banded tbe inspection sticker to Wilson. Later in tbe bearing Walker testified that be bad given tbe sticker to Wilson.
+On two occasions during tbe bearing, tbe attorney for Searer acknowledged that Walker bad committed a violation of tbe Code. At one point tbe attorney stated: “We’re saying we did it. We’re saying we did it, there was a violation here.” Later in the bearing, Searer’s attorney stated: “So that there’s no question what tbe Commonwealth says was done was done. Tbe question is bow it affects Mr. Searer, in whether be knew....”
+Yet tbe trial court concluded tbe following: “We do not believe that tbe Commonwealth proved that Walker violated 4730(b) for three reasons.”
+We must agree with the Commonwealth that the trial court was in error when it ruled on an issue not presented to it. Searer at no time contended that Walker had not violated Section 4730(b) of the Code. Issues not raised in the trial court are waived. Commonwealth v. Agie, 449 Pa. 187, 296 A.2d 741 (1972); Cf. Hrivnak v. Perrone, 472 Pa. 348, 372 A.2d 730 (1977) (trial court’s sua sponte charge relating to a theory of recovery in a trespass action not raised by plaintiff held improper).
+The only issue raised in the trial court was Sear-er’s contention that the exculpatory language contained in Section 819(b) of The Vehicle Code of 1959 should be applicable to a suspension proceeding instituted under the Code, 75 Pa. C.S. §4724, which section does not contain such exculpatory language.
+Prior to July 1,1977, Section 819(b) was applicable law, and the suspension of an inspection station’s certificate of appointment as a result of an employee’s actions was subject to the limitation that
+if the servant or employe of any such inspection station shall without the authorization, knowledge or consent of his employer, violate any of the provisions of this act in reference to the inspection of vehicles, such violation or violations shall not be the cause of the suspension of the certificate of appointment, as herein provided, but such employe shall be subject to prosecution as hereinafter provided.
+The burden was on the employer to prove himself within the scope of the exception. Department of Transportation, Bureau of Traffic Safety v. Moraiti, 34 Pa. Commonwealth Ct. 27, 382 A.2d 997 (1978).
+The trial court did not reach or pass upon this issue and we would almost always remand for its consideration of the issue. However, since Searer’s position is devoid of merit, and this appears to be a case of first impression, we will, in the interest of judicial economy, rule upon the issue here.
+Authorization to make official inspections of motor vehicles in Pennsylvania is a privilege and not a right. Commonwealth v. W. J. Harris & Son, 408 Pa. 598, 170 A.2d 591 (1961). The inspection of motor vehicles is required in an effort to remove vehicles in an unsafe condition from being operated upon the highways, with the hoped-for result of reducing loss of life and injury. Therefore, once a violation of the inspection provisions of the Code has taken place, the Bureau has not only the power as set forth in Section 4724 of the Code, but the duty, to suspend the certificate of appointment. The limitation of Section 819(b) of The Vehicle Code of 1959 was an exception to the general authority of the Bureau. Id.
+Since the Code does not contain the exception set forth in Section 819(b) of the previous vehicle code, its elimination must be presumed to eliminate the opportunity for a holder of a certificate of appointment to bring himself within an exception to the general authority of the Bureau. The elimination of this exception places inspection station certificate holders in a position of being responsible for the actions of their employees committed in the scope of their employment.
+Thus, the general law of agency has application here and station operators do have strict responsibility for the conduct of their employees relative to the inspection of motor vehicles. A similar result attains under the provisions of the Liquor Code, since a holder of a liquor license cannot profess lack of knowledge as a defense to violations by his employees of the Liquor Code. Sapia Liquor License Case, 34 Pa. Commonwealth Ct. 271, 383 A.2d 1283 (1978). Licenses granted under the provisions of the Liquor Code are deemed to have a privilege status rather than one of right. Likewise, as we have noted, the authorization to make official inspections of motor vehicles is deemed a privilege.
+The trial court was of the view that, on this record, Section 4730(b) of the Code had not been violated. We have no difficulty in concluding to the contrary. Walker, the agent of Searer, admitted that he gave Wilson an inspection certificate and no evidence was offered to bring this event within the exception contained in Section 4730(b); namely, that the giving of the inspection certificate was upon an inspection made in accordance with Chapter 47 of the Code, 75 Pa. C.S. §§4701-4732. Thus, Searer, the official inspection station here, has violated the provisions of Section 4730(b).
+Accordingly, the trial court should have decided that the suspension was in accordance with the applicable law and should have affirmed the Bureau’s suspension. Therefore, we must reverse the order of the trial court.
+Order reversed.
+Order
+And Now, this 11th day of April, 1980, the order of the Court of Common Pleas of Mifflin County, dated November 15, 1978, sustaining the appeal of F. David Searer, Jr., trading and doing business as Searer’s Garage, is reversed, and the 3-month suspension of the certificate of appointment of said F. David Searer, Jr., trading and doing business as Searer’s Garage, ordered by the Director of the Bureau of Traffic Safety, is reinstated, with credit allowed for the time said suspension was in effect prior to the granting of the supersedeas by the court below.
+President Judge Bowman did not participate in the decision in this case.
+75 Pa. C.S. §4730(b) reads as follows:
+(b) Unauthorized use by official inspection station.— No official inspection station shall furnish, loan, give or sell certificates of inspection and approval to any other official inspection station or any other person except upon an inspection made in accordance with the requirements of this chapter.
+Act of April 29, 1959, P.L. 58, as amended, formerly 75 P.S. §819(b), repealed by tbe Act of June 17, 1976, P.L. 162.
+Act of April 12, 1951, P.L. 90, as amended, 47 P.S. §1-101 et seq.
