@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 99"
+decided: "1922-07-13"
+citations: ["79 Pa. Super. 85"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Trexler, Keller, Linn and Gawthrop, JJ."]
+parties: ["Commonwealth v. Zinkeris, Appellant."]
+source_url: "https://static.case.law/pa-super/79/cases/0085-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 651814
+cites_cases: ["138 Pa. 615"]
+---
+
+# Commonwealth v. Zinkeris
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+The information upon which this prosecution was commenced named the defendant as “Anton Zinkeris, alias William Palubinskos.” The defendant, after a hearing, entered into a recognizance with surety for his appearance to answer the charge at the next court of quarter sessions, his signature to the same beibg “William Palubinskos,” which he now asserts to be his true name. He. was indicted under the name of “Anton Zinkeris, alias William Palubinskos.” He entered the plea of not guilty, upon which the Commonwealth joined issue, and the trial resulted in his conviction. We are now asked to reverse the judgment for the supposed reason that the defendant is not indicted under his real name. It is argued that the indictment must be. construed as charging that the defendant’s real name was Anton Zinkeris, and that the purpose of the addition of the alias (William Palubinskos) was to more precisely identify the person to whose name it is attached. The learned counsel representing the appellant concedes that if the names had been reversed, so as to read' William Palubinskos, alias Anton Zinkeris, the indictment would have been good.
+When a prisoner desires to raise any question as to the name under which he is charged in an indictment he must, when called upon to plead, distinctly raise that question by a plea in abatement, stating his real name, for it is a rule upon all pleas in abatement that he who takes advantage of such a flaw must at the same time show how it may be amended. The question thus raised was, at common law, tried by a jury and if the finding was in favor of the defendant the indictment was abated. There was little advantage accruing to the, prisoner, however, because a new bill might be framed according to what the prisoner in his plea averred to be his true name. The proceeding under our practice is more simple and direct, for, under the authority conferred by section 13 of the Act of March 31,1860, P. L. 433, the indictment might at once be amended by changing the “Christian ¡name or surname, or both Christian name and surname, or other description whatsoever of any person or persons whomsoever therein named or described.” Cases may arise in which, for some unusual reason, the Commonwealth might join issue upon the question of fact raised by the plea, but ordinarily the name is only one element involved in the identification of the prisoner. When the prisoner pleads the general issue he waives any question as to the name under which he is charged in the indictment. The burden is always on the Commonwealth to clearly identify the man on trial as the one guilty of the ofíense for which he is being tried, no matter by what name he may be known. This burden the Commonwealth fully discharged in the present case, for while the witnesses for the prosecution said they had heard the defendant called by different names, those witnesses pointed out this defendant in open court as the man to whom their testimony referred.
+The indictment contained two counts, and the verdict was guilty as indicted. The sentence imposed by the court was, however, only such as a conviction upon the second count would have sustained. The defendant is not, therefore, in position to complain that there ought to have been a verdict of not guilty upon the first count. If the defendant desired more specific instructions as to the first count of the indictment he should have requested such instructions.
+The Act of March 23, 1865, P. L. 607, established a workhouse in Allegheny County for the keeping of prisoners, which act was amended by the Act of February 1, 1866, P. L. 8. The Act of March 8, 1871, P. L. 184, authorized the commissioners of any county in the western district, to contract with the managers of said workhouse for the reception and keeping of prisoners sentenced by any court or magistrate of said counties for any period not less than sixty days, and then provided that, in any county haying such an agreement, it should be the duty of courts and magistrates, sentencing any person to imprisonment for not less than sixty days, for any crime not punishable by imprisonment in the state penitentiary, to sentence such person to the Allegheny County workhouse. When any county has such a contract, said workhouse thereunder becomes, for such county, a place of imprisonment in lieu of the county jail, and the sentence in this case was in conformity with law: Com. v. Zelt, 138 Pa. 615. The assignments of error are dismissed.
+The judgment is affirmed and it is ordered that the appellant appear in the court below at such time as he may be there, called and that he be by that court committed until he has complied with the sentence or any part of it which had not been performed at the time the appeal in this case was made a supersedeas.
