@@ -1,0 +1,36 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 160"
+decided: "1937-09-29"
+citations: ["128 Pa. Super. 405"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Stadteeld, Parker, James and Rhodes, JJ."]
+parties: ["Krinks’ Case (McKeesport’s Appeal)."]
+source_url: "https://static.case.law/pa-super/128/cases/0405-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1001972
+cites_cases: ["127 Pa. Superior Ct. 28", "134 A. 409", "137 A. 630", "139 A. 619", "148 A. 308", "178 A. 3", "178 A. 813", "192 A. 139", "287 Pa. 259", "289 Pa. 458", "291 Pa. 109", "298 Pa. 276", "318 Pa. 346", "318 Pa. 582", "89 Pa. Superior Ct. 548"]
+---
+
+# Krinks' Case
+
+## Majority (Baldrige, J.,)
+
+Opinion by
+Baldrige, J.,
+McKeesport, a city of the third class, passed a zoning ordinance, effective October 16, 1933 (pursuant to the Act of June 23, 1931, P. L. 932, Art. XLI, §§4110-4113 [53 PS §§12198-4110 to 4113]). It provided a comprehensive plan to divide the city into districts, which were classified as residential, business, industrial, etc., and imposed restrictions on the use of the land and buildings thereon.
+Frederick Krinks is the owner of the premises in question, located at 1508 Ravine Street within “B” Residence District, which had been operated by Mathew W. J. Krinks, the appellee, and his brother as a storage garage and small repair shop since 1925.
+In the fall of 1934, Frederick Krinks made application to remodel his buildings, by making minor alterations, into a restaurant and beer garden. This request was refused by the zoning administrative officer, and his action was sustained by the zoning board of appeals, for the reason that a public restaurant and beer garden of this capacity were not permitted under article II, §7, of the ordinance, which provides that in “B” Residence District land and buildings thereon erected or altered may be used only for certain limited purposes. Article II, §8 (2), specifically prohibits the renting of rooms or lodgings or the serving of meals for compensation in “B” Residence District to more than eight persons. The appellee himself testified that he had an average of about fifty customers a day and that he had more business in the summer than in the winter.
+The conclusion reached by the board of appeals was not capricious, but was amply supported by the testimony.
+Thereafter, to wit, July 19, 1935, Mathew W. J. Krinks applied to the administrative officer for a certificate of occupancy under section 37 of the zoning ordinance, “for a change of one non-conforming use, existing at the time of the passage of the Ordinance, to another nonconforming use; that is, from occupying the premises as an automobile repair shop to a restaurant and beer garden.” The administrative officer again declined to grant a permit, and the board of appeals affirmed his action, holding that the restaurant and beer garden were not the same or a more restrictive use than a garage.
+Pending an appeal to the court of common pleas from this order, appellee procured a decree from the court, enjoining the zoning authorities from interfering with the conducting of the beer garden and restaurant. Mtjsmanno, J., sustained the appeal, giving as his sole reason that “from a personal observation of the premises in question the present Non-Conforming Use does not violate the Zoning Ordinance of the City of McKeesport, but is in conformity therewith.” This appeal followed.
+No question was raised that the municipality exceeded its authority by attempting to exercise an unwarranted police power, or that the ordinance is unreasonable and unconstitutional, as in White’s Appeal, 287 Pa. 259, 134 A. 409; Ward’s Appeal, 289 Pa. 458, 137 A. 630; Huebner et ux. v. Phila. Saving Fund Society, 127 Pa. Superior Ct. 28, 192 A. 139; Junge’s Appeal (No. 2), 89 Pa. Superior Ct. 548.
+The appellee confines his argument before us principally to the proposition that the board of appeals was guilty of a manifest abuse of discretion.
+Article IV, §18 (c), of the ordinance provides: “A non-conforming use of a building may be changed to another non-conforming use of the same or a more restrictive classification, provided no structural alterations are made, other than those ordered by an authorized public officer......”
+Factual questions which relate to the nature and use of premises are primarily within the province of the administrative officials and boards appointed to enforce the provisions of zoning laws. If a violation of the ordinance is found, as here, by a zoning board, a court is warranted in reversing the finding of the administrative body only when there is a manifest and flagrant abuse of discretion: Liggett’s Petition, 291 Pa. 109, 139 A. 619; Valicenti’s Appeal, 298 Pa. 276, 148 A. 308; Fleming v. Prospect Park Board, 318 Pa. 582, 178 A. 813.
+There was no evidence offered by the appellee at the hearing before the learned trial court below that the. use of these premises as a beer garden and restaurant was of the same or a more restrictive classification than the former non-conforming use, or that the administrative authorities had in any degree abused the discretion vested in them, and the court did not so find. Indeed, the proof was quite to the contrary, fully sustaining the action of the board.
+The appellee argues that the city is estopped from enforcing the provisions of the zoning ordinance as the city water department, upon application, granted 'KVin'lrs a permit to connect a %-inch service pipe with the water main; that pursuant to his request a duly-authorized plumbing inspector also granted him the privilege to install plumbing and sewer connection. It was not disclosed that these permits had any relation to the intended use of the premises as a beer garden and restaurant. The authorities who granted the permits were not bound to know what improvements to or uses of this property were contemplated by the appellee. See Valicenti's Appeal, supra. Moreover, the court below did not base its decree on that ground.
+It is unnecessary to discuss the appellant’s contention that, as Krinks did not appeal to the court of common pleas within thirty days from the board’s refusal of a permit on February 14, 1935, as provided by the Act of 1931, supra, the court was without jurisdiction. Undoubtedly, in zoning cases, the statutory remedy must be strictly followed: White et al. v. Old York Road Country Club et al., 318 Pa. 346, 178 A. 3. The last application — the one before us — was made on a different ground from the original one, namely, under the non-conforming use clause of the ordinance. We are placing our decision solely on the substantive ground that, in the absence of proof of a manifest and flagrant abuse of discretion on the part of the administrative authorities, the lower court erred in overruling their findings and conclusions.
+Order of the learned court below is reversed, and the action of the board of appeals in refusing appellee a permit under the non-conforming use clause of the ordinance is affirmed; appellee to pay the costs.
