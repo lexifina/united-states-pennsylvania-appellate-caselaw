@@ -1,0 +1,47 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "00312 and 00658"
+decided: "1986-04-28"
+citations: ["353 Pa. Super. 421", "510 A.2d 732"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before BROSKY, McEWEN and HESTER, JJ."]
+parties: ["Maurice M. ROSEN v. Sandra Ebersole ROSEN, Appellant."]
+source_url: "https://static.case.law/pa-super/353/cases/0421-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 570193
+cites_cases: ["229 Pa.Super. 428", "243 Pa.Super. 510", "297 Pa.Super. 14", "306 Pa.Super. 468", "318 Pa.Super. 460", "323 A.2d 766", "326 Pa.Super. 496", "327 Pa.Super. 326", "328 Pa.Super. 93", "501 A.2d 211", "509 Pa. 89"]
+---
+
+# Rosen v. Rosen
+
+## Majority (BROSKY, Judge:)
+
+BROSKY, Judge:
+This is a consolidated appeal from two orders: one denying a petition to vacate or strike a divorce decree and the other finding appellant in contempt for failing to adhere to the equitable distribution provisions of that decree. Appellant contends that the Court of Common Pleas was without jurisdiction to issue the divorce decree, as the case was then on appeal from an order awarding counsel fees. She also argues that since the Court of Common Pleas did not have jurisdiction to enter the divorce decree it also was without the power to enforce that decree via a contempt order. We agree and, accordingly, vacate both the divorce decree and the contempt order and remand for further proceedings.
+Procedural History
+The instant divorce proceeding was commenced on June 25, 1980. An order was entered on December 29, 1981, awarding appellant counsel fees and costs. Appellee herein took an appeal from that order on January 4, 1982. This Court affirmed the December 29th order on June 1, 1984. Rosen v. Rosen, 328 Pa.Super. 93, 476 A.2d 470 (1984).
+During the pendency of the above-mentioned appeal, the Court of Common Pleas entered a decree nisi on the issues of child custody, equitable distribution, child support, alimony, divorce and legal fees. On February 16, 1983, a final order was issued. Appellant filed a petition to open or strike the divorce decree and appurtenant orders on June 1, 1984. On January 3, 1985, the court sustained appellee’s preliminary objections and dismissed the petition. Appellant took an appeal from that order, which is one of the two consolidated appeals before us at this time.
+Also while the counsel fees appeal was before this Court, on May 3, 1984, appellee filed a petition to effectuate the divorce decree and accompanying orders. Such an order was issued and disregarded by appellant. In September of 1984 appellee filed a petition for contempt and special relief. An order was issued on September 17, 1984, finding appellant in contempt and on September 25 an order was issued imposing a fine of $100 per day of noncompliance with the previously issued decree. Appellant continued to disobey and, on November 15, 1984, appellee filed yet another petition for contempt. The trial court then escalated its order, imposing an additional fine of $250 per day. Evidently exasperated, the court imposed another order finding appellant in contempt of the divorce decree and subsequent orders. Appellant was incarcerated from March 8th through 14th, 1985. Notice of appeal was timely taken and the propriety of the contempt order is the second issue before us now.
+Jurisdiction
+Appellant contends that the trial court erred in denying her petition to open or strike the divorce decree. That court was, she says, without jurisdiction to enter the divorce decree because an appeal in the case was before this Court. We agree.
+First, as a factual matter, we note that the divorce decree was, indeed, entered while the counsel fees appeal was before this Court. Second, it is clear that, as the law stood at that time, the taking of an appeal acted to divest the trial court of jurisdiction over the case.
+In Wilson v. Wilson, 297 Pa.Super. 14, 23, 442 A.2d 1189, 1193-94 (1981), this Court held that the trial court was without jurisdiction to proceed after an appeal was taken from an alimony pendente lite order.
+We are, therefore, led to the inevitable conclusion that all proceedings in the lower court after February 26, 1980, when the record was lodged in the Superior Court, are null and void for lack of jurisdiction in the lower court to proceed with this matter after that date.
+Prozzoly v. Prozzoly, 327 Pa.Super. 326, 332, 475 A.2d 820, 824 (1984) treated an appeal from the denial of alimony pendente lite and an award of counsel fees. This Court wrote:
+“that an appeal from an order granting or denying alimony pendente lite and counsel fees operates to divest the trial court of jurisdiction to proceed further with the action in divorce....”
+In Sutliff v. Sutliff, 326 Pa.Super. 496, 502, 474 A.2d 599, 601-02 (1984), this Court held that interlocutory awards are appealable in a divorce proceeding. Of interest for our purposes is the statement: “In so holding, we recognize that some delay in the principal litigation may result because the general rule is that an appeal removes jurisdiction from the lower court, see Pa.R.A.P. 1701....”
+Wilson, Prozzoly and Sutliff are unanimous in holding that the pendency of an appeal divests the trial court of jurisdiction. In some instances this Court, upon petition, has granted a trial court permission to proceed in matters not related to issues under appeal. Pa.R.A.P. 1701(c). The Court of Common Pleas was, while the case was on appeal, without the power to proceed further in the case. Orders imposed in the absence of jurisdiction are, as Wilson held, null and void. Accordingly, the final divorce decree of February 16, 1983, as amended March 16, 1983, is vacated.
+Contempt
+Appellant contends that because the trial court was without jurisdiction to enter the divorce decree when it did, it could not hold appellant in contempt of court for failing to obey that decree. Again, we agree.
+“The basis for contempt is to provide punishment for contemptuous disregard of a court’s authority.” Commonwealth ex rel. Roviello v. Roviello, 229 Pa.Super. 428, 438, 323 A.2d 766, 772 (1974). Thus, in order to justify contempt, a court must, in that situation, have authority. It must at least have had jurisdiction to issue the order which was violated and on which the contempt was based. “In those instances where a court enters an order without authority or legal right to make such an order it is powerless to attempt its enforcement.” Roviello, supra, 229 Pa.Superior Ct. at 439, 323 A.2d at 772. Lack of jurisdiction over the matter in which any order is entered is a defense in any subsequent contempt proceeding for violation of that order. Leveto v. National Fuel Gas Distributing Corp., 243 Pa.Super. 510, 366 A.2d 270 (1976). “The disregarding of an order in excess of the court’s authority does not give rise to contemptuous conduct by the parties involved.” Roviello, supra, 229 Pa.Super. at 439, 323 A.2d at 772. See Commonwealth v. Miller, 306 Pa.Super. 468, 452 A.2d 820 (1982); Dover v. Philadelphia Housing Authority, 318 Pa.Super. 460, 465 A.2d 644 (1983).
+Accordingly, appellant should not have been held in contempt for failing to obey an order which was issued by a court which lacked jurisdiction to enter that order.
+The contempt order, along with the divorce decree, is vacated. Any fines paid under the contempt order are to be remitted.
+. Appellant also contends that the divorce decree should have been opened or stricken because her rights under a pre-nuptial agreement had not been determined. Our disposition of her other issues makes it unnecessary for us to reach this issue. Similarly, appellant’s other arguments as to the contempt order — lack of actual notice, improper procedures, excessive fines — are also moot in light of our vacation of the contempt order.
+. This case has taken, to date, six years and has already been the subject of two appeals; moreover, it is far from finished even now. This is not a record in which anyone associated with this case should take pride.
+. The counsel fees appeal was taken January 4, 1982; the final divorce decree was issued on February 16, 1983; and the appeal was decided on June 1, 1984.
+. Since that time, two changes have been made in the law and, were the same set of facts to occur today, the Court of Common Pleas could proceed with the rest of the divorce case. The first of these changes was a 1984 amendment to Pa.R.A.P. 1701:
+(b) Authority of a trial court or agency after appeal. After an appeal is taken or review of a quasijudicial order is sought, the trial court or other government unit may:
+(6) Proceed further in any matter in which a nonappealable interlocutory order has been entered, notwithstanding the filing of a notice of appeal or a petition for review of the order.
+The second change was Fried v. Fried, 509 Pa. 89, 501 A.2d 211 (1985). Fried reversed prior caselaw and announced that orders granting interim financial relief in divorce actions are interlocutorily and not appealable. Fried put the instant counsel fees and costs order under Pa.R.A.P. 1701(b)(6). However, during the relevant time periods under review here, neither (b)(6) nor Fried were in existence; hence, the order was properly appealable, and, even if it had not been, the trial court would still have been divested of jurisdiction.
