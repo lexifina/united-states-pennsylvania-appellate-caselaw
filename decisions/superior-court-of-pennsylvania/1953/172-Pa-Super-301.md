@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 105"
+decided: "1953-01-20"
+citations: ["172 Pa. Super. 301"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, Ross, Arnold and Gunther, JJ."]
+parties: ["Hunter v. Rossi, Appellant."]
+source_url: "https://static.case.law/pa-super/172/cases/0301-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 477205
+cites_cases: ["105 A. 73", "137 A. 867", "166 Pa. Superior Ct. 538", "167 Pa. Superior Ct. 616", "169 A. 106", "198 A. 66", "23 A. 2d 443", "25 A. 2d 718", "262 Pa. 150", "290 Pa. 21", "313 Pa. 71", "329 Pa. 324", "334 Pa. 262", "344 Pa. 1", "344 Pa. 460", "5 A. 2d 573", "72 A. 2d 609", "76 A. 2d 430"]
+---
+
+# Hunter v. Rossi
+
+## Majority (Reno, J.,)
+
+Opinion by
+Reno, J.,
+On Saturday, June 14, 1947, at about 3 p.m., plaintiff’s truck, operated by his employe Herbert Waite, was proceeding on state highway 220, and approximately seven miles west of Tyrone, Blair County, Waite observed defendant’s truck approaching from the opposite direction. When 50 to 100 feet away it commenced skidding on the wet road and spun around three times before striking plaintiff’s truck, which had pulled off the right side of the highway and practically stopped on the berm.
+At the conclusion of plaintiff’s case, defendant’s motion for a compulsory non-suit was refused. The jury found for the plaintiff for $1,499.49, and defendant’s motions for judgment n.o.v. and a new trial were refused. On his appeal, defendant contends that any presumption of agency was rebutted by tbe testimony of tbe driver of defendant’s truck, called as a witness by plaintiff, and that tbe evidence was insufficient to warrant a finding of negligence.
+Defendant’s truck was driven by bis brotber-in-law John Hensbaw, wbo was not in defendant’s employ. It was defendant’s practice to have tbe truck greased on Saturdays at bis own service station located on route 220 at Tipton Road. On tbe day of tbe accident tbe regular driver was absent and Henshaw drove tbe truck from Viola, where it was stored, down Tipton Road to tbe service station, a distance of 10 or 11 miles. He spoke with defendant and after the truck bad been lubricated and the oil changed, backed the truck off tbe grease rack and together with a friend drove 10 miles to Tyrone for tobacco. Instead of returning the truck to Viola by tbe Janesville Pike, tbe more direct way, Hensbaw returned by route 220, passed defendant’s station and bad continued a short distance for tbe purpose of transacting personal business in Coalport when tbe accident occurred. Defendant admitted be knew Hensbaw was driving bis truck and saw him back out of tbe station but did not see which direction be went nor did be give Hensbaw any instructions as to a return route. There is evidence that defendant with Henshaw went to plaintiff’s home several hours after tbe accident and stated to plaintiff that tbe truck was not insured and be, defendant, would be responsible. Henshaw denied the visit but defendant testified they called on plaintiff but be denied that be bad admitted liability for tbe accident.
+When a motor vehicle involved in an accident is, as here, a commercial one, as distinguished from a noncommercial one, and its ownership admitted by defendant, a presumption arises that the driver was defendant’s agent and that it was being operated at the time of the accident on the owner’s business. Marach v. Kooistra, 329 Pa. 324, 198 A. 66; Dugan v. McGara’s Inc., 344 Pa. 460, 25 A. 2d 718. The presumption is of course rebuttable but unless overcome by countervailing evidence it stands as a fact in the case and shifts the burden of proof to the defendant. Holzheimer v. Lit Brothers, 262 Pa. 150, 105 A. 73. However, the presumption does not arise where the plaintiff himself shows facts which rebut it, as where, for instance, his own evidence shows that the truck was not being used for defendant’s business. Hartig v. American Ice Co., 290 Pa. 21, 137 A. 867.
+In the instant case plaintiff relied upon the presumption, reinforced by his testimony that defendant had verbally assumed liability for the accident. Although defendant denied Henshaw’s agency and the alleged assumption of liability, the presumption and the conflicting testimony created an issue of fact for the determination of the jury, and its verdict is supported by substantial evidence. The assumption of liability, upon which the jury could have based its verdict, did not negate but supported the presumption, and its presence in the testimony distinguishes this case from those upon which defendant relies.
+On the question of negligence, the mere skidding of defendant’s truck to the wrong side of the highway, without more, does not constitute negligence. Lithgow v. Lithgow, 334 Pa. 262, 5 A. 2d 573; Master v. Goldstein’s Fruit & Produce, Inc., 344 Pa. 1, 23 A. 2d 443. It must be .shown that the skidding was the result of negligent conduct. Wilkerson v. Philadelphia Transportation Co., 167 Pa. Superior Ct. 616, 76 A. 2d 430. Henshaw testified the truck was equipped with vacuum booster brakes which locked all four wheels. He acknowledged his unfamiliarity with such brakes and that on the day in question the wheels had locked when he applied the brakes. The logical and natural inference, which the jury was warranted in drawing, was that the wheels would not have so locked and caused the skidding or spinning if the brakes had been properly applied. The combination of these factors was for the jury’s determination, under proper instructions, in determining whether defendant’s truck was negligently operated. Luderer v. Moore, 313 Pa. 71, 169 A. 106.
+Viewing the evidence in the light most favorable to plaintiff and giving him the benefit of all inferences and deductions reasonably drawn therefrom, Archer v. Penna. R. R. Co., 166 Pa. Superior Ct. 538, 72 A. 2d 609, we find the court below did not commit reversible error in submitting the questions of agency and negligence to the jury, nor in its charge with regard thereto.
+Judgment affirmed.
+Both motions have received our consideration although defendant in his argument before this court apparently abandoned his motion for a new trial.
+Henshaw testified he was going to Coalport in connection with a lease he had for a railroad siding. The lease was offered in evidence but the court below refused its admission as immaterial.
