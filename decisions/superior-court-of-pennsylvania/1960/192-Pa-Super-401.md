@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 3"
+decided: "1960-06-15"
+citations: ["192 Pa. Super. 401"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MacDougall v. Chalmers, Appellant."]
+source_url: "https://static.case.law/pa-super/192/cases/0401-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 748881
+cites_cases: ["110 A. 2d 178", "138 A. 2d 872", "14 A. 2d 105", "163 Pa. Superior Ct. 513", "185 Pa. Superior Ct. 510", "19 A. 2d 91", "339 Pa. 180", "341 Pa. 260", "350 Pa. 74", "358 Pa. 393", "363 Pa. 176", "38 A. 2d 40", "380 Pa. 273", "57 A. 2d 881", "63 A. 2d 369"]
+---
+
+# MacDougall v. Chalmers
+
+## Majority (Montgomery, J.,)
+
+Opinion by
+Montgomery, J.,
+Appellee recovered a verdict against appellant in an action of trespass for damages to his automobile caused by a collision between it and an automobile owned and driven by appellant. The lower court refused to grant judgment n.o.v. in appellant’s favor and entered judgment for appellee on the verdict. This appeal was taken from such action.
+Considering the evidence in the light most favorable to appellee and giving him the benefit of all reasonable inferences therefrom, the established facts may be stated briefly as follows: On March 16, 1955, at 1:10 p.m. appellee was operating his car north on Mill Street in the Borough of Wilkinsburg. As he approached Ross Street, he stopped to discharge a passenger. The point at which he stopped was at or near a “stop sign” indicating Ross Street to be a through street. The sign was located approximately ten feet south from the south curb line of Ross Street. The stop at the sign was the last one made by appellee before proceeding into the intersection, which was at right angles. From that point he could not observe traffic on Ross Street approaching from the west (his left) because of automobiles parked on the south side of Ross Street west of Mill Street. He proceeded from that point into the intersection at five miles per hour and was struck about the middle of his left side by the front of appellant’s car when the front of his car was at or a little beyond the medial line of Ross Street. At that time appellee was on the right side of Mill Street projected across Ross Street and appellant was on the right side of Ross Street as it was projected through Mill Street but close to the medial line of same because of the cars parked on the south side of Ross Street. Both cars stopped in approximately the same position that they were in at impact. Appellant’s speed was estimated by a witness for appellee at 35 miles per hour, which witness placed appellant’s car three to four car lengths “up Ross Avenue” when he saw that an accident was inevitable. Ross Street is 30 feet 1 inch wide and Mill Street is 18 feet 4 inches wide, each measured from curb to curb.
+Appellant’s motion for judgment n.o.v. was based on two reasons: first, that no negligence was shown on the part of appellant, and; second, appellee was contributorily negligent as a matter of law.
+The first contention is untenable. To travel 35 miles per hour when approaching an intersection in a residential district within a densely populated borough where parked cars are present might be found to be negligence under the circumstances even though the street is classified as a through one. Regardless of established speed limits or privileges, no person is privileged to drive except at a careful and prudent speed with his car under reasonable control; Act of 1929, May 1, P. L. 905, Article X, §§1002-1014(c), as amended (75 P.S. §§501, 573), and it is for a jury to say whether he has done so. His right on a through highway is a qualified one. Dayen v. Penn Bus Co., 363 Pa. 176, 69.A. 2d 151; Maio v. Fahs, 339 Pa. 180, 14 A. 2d 105.
+However, there can be no doubt that appellee’s actions charge him with contributory negligence as a matter of law. Appellee was required to grant to appellant the right of way and before entering into the through street to stop, not only at the stop sign, but at the intersection itself. Ketzel v. Lazzini, 163 Pa. Superior Ct. 513, 63 A. 2d 369. From that point he was required to look in both directions to satisfy himself that his crossing could be made in safety, and thereafter, as he proceeded, to continue to look and at all times have his car under such control that it could be stopped at any moment and a collision avoided. Mellott v. Tuckey, 350 Pa. 74, 38 A. 2d 40; Lehner v. Schellhase, 341 Pa. 260, 19 A. 2d 91; Kobsar v. Johnson, 185 Pa. Superior Ct. 510, 138 A. 2d 872. His duty was not fulfilled when he proceeded when he could not see nor when he proceeded in the face of danger that was present even though he says that he did not see it. A man may not say he looked and did not see when the danger is apparent. Katz v. Montague, 380 Pa. 273, 110 A. 2d 178) Sargeant v. Ayers, 358 Pa. 393, 57 A. 2d 881.
+Had appellee stopped at the intersection and looked to his left, he may have seen appellant or the cars that were following him; but, if he could not have seen from there, he should have stopped again at a point in the intersection from which his vision would have carried beyond the parked cars. He Avould surely have seen appellant from that point because there was no other obstruction. Appellant’s car was seen by appellee’s Avitness at a point three or four cars short of the intersection but, nevertheless, appellee did not see it until the impact. This Avas contributory negligence on his part Avhich must be declared as a matter of law.
+Judgment reversed and entered for appellant.
