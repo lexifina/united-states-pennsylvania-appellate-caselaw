@@ -1,0 +1,44 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 878 C.D. 1975"
+decided: "1976-05-18"
+citations: ["24 Pa. Commw. 519"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Crumlish, Jr., Rogers and Blatt, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania, Department of Transportation, Bureau of Traffic Safety v. John Freeman, Appellant."]
+source_url: "https://static.case.law/pa-commw/24/cases/0519-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1873522
+cites_cases: ["11 Pa. Commonwealth Ct. 551", "12 Pa. Commonwealth Ct. 593", "212 Pa. Superior Ct. 359", "24 Pa. Commonwealth Ct. 26", "243 A.2d 464", "284 A.2d 524", "3 Pa. Commonwealth Ct. 580", "315 A.2d 666", "317 A.2d 328", "354 A.2d 266"]
+---
+
+# Commonwealth v. Freeman
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+This is an appeal by John Freeman (appellant) from a decision of the Court of Common Pleas of Cumberland County which affirmed a revocation of the appellant's motor vehicle operator’s privileges by the Bureau of Traffic Safety, Department of Transportation (Bureau).
+Freeman was convicted in the Court of Common Pleas of Adams County on February 6, 1974 of operating a motor vehicle while under the influence of intoxicating liquors, a violation of Section 1087 of The Vehicle Code (Code). The Bureau notified him that his motor vehicle operating privileges were being revoked effective March 10, 1975 for one year, pursuant to Section 616 of the Code, 75 P.S. §616(a). This section provides, inter alia, that
+“[u]pon receiving a certified record, from the clerk of the court, of proceedings in which a person pleaded guilty, entered a plea of nolo contendere, or was found guilty by a judge or jury, of any of the crimes enumerated in this section, the Secretary shall forthwith revoke, for a period of one (1) year from the date of revocation, the operating privilege of any such person. . . . Cases requiring such certification follow: “(1) Operating a motor vehicle or tractor while under the influence of intoxicating liquor. . . .” (Emphasis added.)
+Freeman appealed to the Court of Common Pleas of Adams County and a change of venue was later granted to the Court of Common Pleas of Cumberland County, There a hearing was held in which the court limited the introduction of evidence to establishing that: (1) the appellant was convicted of violating Section 1037 of the Code; (2) a certified record of the conviction was sent to the Bureau of Traffic Safety; and (3) the appellant’s operating privileges were revoked pursuant to Section 616 of the Code. Freeman failed to show that he was not convicted, that the certified record had not been sent or that the Secretary’s records were otherwise incorrect.
+Our scope of review of a lower court’s affirmation of a license revocation is limited to: (1) a determination of whether or not there was substantial evidence presented to the court below which established a violation of the Code; and (2) a correction of errors of law. Martz v. Bureau of Traffic Safety, 24 Pa. Commonwealth Ct. 26, 354 A.2d 266 (1976) ; Civitello v. Bureau of Traffic Safety, 11 Pa. Commonwealth Ct. 551, 315 A.2d 666 (1974).
+Freeman argues that a full de novo hearing should have been held by the lower court and cites Commonwealth v. Denham, 12 Pa. Commonwealth Ct. 593, 317 A.2d 328 (1974), in support of his position. Denham, supra, dealt with a license revocation pursuant to Section 616(a) (2) of the Code, 75 P.S. §616 (a) (2), and not, as here, a revocation pursuant to Section 616(a) (1) of the Code. While the court below stated in its opinion that a de novo hearing was held, it also said that its scope of review regarding a license revocation was “ill defined.”
+Our Court in Department of Transportation v. Hosek, 3 Pa. Commonwealth Ct. 580, 584, 284 A.2d 524, 526 (1971), clearly established that, pursuant to Section 620 of the Code, 75 P.S. §620,
+“matters relating to revocation of operating privileges are properly appealable to the court of common pleas of the county in which the operator resides as in the case of appeals from suspensions.”
+Pursuant to Section 620 of the Code, therefore, both license suspensions and revocations are appealed to the court of common pleas of the county in which the operator resides whether the court reviews mandatory suspensions pursuant to Section 619.1 of the Code, 75 P.S. §619.1, or mandatory revocations pursuant to Section 616 of the Code. The scope of the hearing afforded will be the same.
+In Virnelson Motor Vehicle Operator License Case, 212 Pa. Superior Ct. 359, 243 A.2d 464 (1968), Judge Jacobs established the principle that, where the secretary is required to suspend operating privileges pursuant to Section 619.1 of the Code solely upon certification of the necessary conviction (s) of code violations, the lower court on appeal will merely determine whether or not there has been compliance with the Code. Judge Jacobs stated that section
+“619.1 . . . [has] . . . now divested the secretary of his discretion in suspending for the named violations. The necessity for de novo review of discretionary action has therefore been removed. What is now reviewed is action mandated to the secretary. De Novo review entails, as the term suggests, full consideration of the case anew. The reviewing body is in effect substituted for the prior decision maker and redecides ■the case. The reviewing court may not, however, change the statutory law under which the original decision was made.
+“[Pursuant to] section 620, the licensee may still appeal to the lower court from the action of the secretary suspending his operator’s license. However, in determining ‘whether the petitioner is subject to suspension,’ the lower court will merely determine whether there has been a compliance with section 619.1. At the hearing before the lower court the Commonwealth should produce the records of convictions received by the Department of Revenue from the magistrates and courts of record in the proper form, and the secretary’s record compiled therefrom which justified the suspension. If these documents show that the suspension was given in accordance with the mandate of section 619.1, the Commonwealth has produced a prima facie case for suspension. If the defendant wishes he may then proceed to show that he was not convicted or that the records or the computation of the secretary are incorrect. He may not go into the facts of his violation or mitigating circumstances thereof because the issue is whether he was convicted and not whether he should have been convicted. In violations of section 619.1, such as the speeding violation herein, since the secretary has no discretionary power he must proceed in accordance with the mandate of the legislature. The discretion in these cases has been exercised by the legislature. The merit of the suspension is no longer a matter for determination by either the secretary or the courts.” Virnelson, supra, 212 Pa. Superior Ct. at 367-368, 243 A.2d at 469.
+This reasoning applies equally to mandatory revocations pursuant to Section 616 of the Code.
+We find, therefore, that substantial evidence of conviction under Section 1037 of the Code and of a proper revocation pursuant to Section 616 of the Code was presented to the court below and we can find no errors of law having been committed. We, therefore, issue the following
+Order
+And Now, this 18th day of May, 1976, the decision of the Court of Common Pleas of Cumberland County, dated June 5, 1975, is hereby affirmed, the appeal of John Freeman from the revocation of his operator’s license is dismissed, the supersedeas granted by this Court is vacated, and the order of revocation is reinstated.
+. The Act of April 29, 1959, P. L. 58, as amended, 75 P. S. §101 et seq.
+. Section 616 (a) (2) of the Code provides, inter alia, that the secretary shall revoke an operator’s license upon certification of a conviction of
+“[a]ny crime punishable as a felony under the motor vehicle or tractor laws of this Commonwealth, or any other felony in the commission of which a motor vehicle or tractor is used.” (Emphasis added.)
+Clearly, the secretary exercises discretion in determining whether or not a motor vehicle was “used” in the commission of a felony and it is that discretionary act, i.e. defining the term “used”, which was reviewed in full by the court in Denham, supra, and which distinguishes that case from the instant one.
+. This section established the point system for driver education, testing and suspension. Section 619.1 (i) provides:
+“When any person’s record shows an accumulation of eleven (11) points or more, the secretary shall suspend such person’s operator’s license or learner’s permit.” (Emphasis added.)
