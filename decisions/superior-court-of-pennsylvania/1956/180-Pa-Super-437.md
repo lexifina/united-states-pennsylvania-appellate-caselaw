@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 110"
+decided: "1956-01-17"
+citations: ["180 Pa. Super. 437"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Beforé Rhodes, P. J., Hirt, Ross, Gunther, Wright, Woodside, and Ervin, JJ."]
+parties: ["Penner v. Napolitano et ux., Appellants."]
+source_url: "https://static.case.law/pa-super/180/cases/0437-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 730734
+cites_cases: ["112 A. 2d 449", "165 Pa. Superior Ct. 408", "167 Pa. Superior Ct. 150", "177 Pa. Superior Ct. 595", "68 A. 2d 442", "74 A. 2d 694"]
+---
+
+# Penner v. Napolitano
+
+## Majority (Gunther, J.,)
+
+Opinion by
+Gunther, J.,
+This is a suit in assumpsit by a real estate broker to recover a commission of $500.00 on an oral contract of employment. The jury rendered a verdict in favor of the plaintiff, defendant’s motion for a new trial was refused, and the defendants have appealed.
+The plaintiff testified that the defendants orally employed him to sell their home for a commission of $500.00; that the price was listed at various figures, but finally agreed on at $10,500.00; and that he produced a buyer ready, willing and able at that figure, but defendants refused to sell. The defendants admitted negotiations with an employe of plaintiff, but denied seeing plaintiff on the occasion that he stated they employed him. They also testified that they never authorized a sale at $10,500.00, the price ultimately offered by the purchasers procured by plaintiff.
+The primary question raised in this appeal is whether the trial judge committed error in the charge to the jury in respect to the issue of whether plaintiff was ever employed by defendants. The court charged, inter alia, as follows:
+“The whole thing boils down to one thing — did Mr. Penner have authority to sell this piece of property at $10,500.00? If he had authority to sell this piece of property at $10,500.00 and procured a buyer who was ready, willing and able to buy it at that figure, and at which there was no serious objection, and witnesses have been produced in Mr. and Mrs. Huss who agreed to buy it at $10,500.00, then Mr. Penner would have an agreement. However, if Mr. Penner never was authorized to take $10,500 and merely went to Mr. & Mrs. Huss and got their agreement to buy it at $10,500.00 and took it to the Napolitano’s and was ordered not to take that amount, and up until that time Mr. Penner had only been authorized to sell the house at $11,-500.00 or $11,300.00, then Mr. Penner would not have earned the commission. If he was authorized to sell it at $10,500.00 he is entitled to commission, but if not, if he never produced a buyer, he did not earn the commission.” Therefore at defense counsel’s request, the court added the following: “I will charge you that to entitle a real estate broker to the commission called for he must produce a person or persons who are ready, able and willing both to accept and live up to the terms offered by his principal. You must find that the broker was employed by his principal; that Mr. and Mrs. Napolitano employed Mr. Penner; that they authorized him to sell at $10,500.00, before he is entitled to a verdict at your hands. If you find from the evidence that Mr. Penner was not employed at all you would not have to go further for that would end the case, and you would not have to determine whether or not he was authorized to sell the property for $10,500.00.” The defendants complain primarily of a statement made thereafter by the trial judge, in response to discussion by counsel for defendants, as follows: “I do not think that is too important. We know Mr. Penner was an Agent and there were some dealings between Penner and the Napolitano’s and I do not think there is any question if he were employed, in as much as they testified they were always willing to sell the house at $11,-300.00. If there is something that would lead you to believe Mr. Penner was not employed at all, you would not have to go further to find out whether or not he was authorized to sell the house for $10,500.00.” It should be emphasized that this last statement was not part of the charge, but was a remark to counsel for defendants. Even assuming the trial judge’s last remark was overheard by the jury, we cannot conclude that it alone, by its apparent assumption of plaintiff’s employment, thereby overcame the weight of the entire charge.
+It is well settled that a charge must be viewed in its entirety. Simpson v. Montgomery Ward & Co., 165 Pa. Superior Ct. 408, 68 A. 2d 442, and that no charge can be judged merely by citing excerpts from it. Poulos v. Brady, 167 Pa. Superior Ct. 150, 74 A. 2d 694. Viewed in this light we find no error. Even if the trial judge’s last quoted remark had been part of the charge, it was at most a casual expression, insufficient to outweigh the positive statements that preceded clearly outlining the plaintiff’s burden to prove a contract of employment. The charge, taken as a whole, squarely put a duty on the jury to determine whether there was any contract of employment. The issue was fairly presented and no error or prejudice resulted.
+Defendants also attempt to raise two other issues, both going to the charge, that were not raised in the court below on the motions for a new trial. Only a general exception to the charge was taken by defendants. Under such circumstances, this court will consider only such alleged errors as are basic and fundamental. Palmer v. Sunshine Family Laundry Service Co., 177 Pa. Superior Ct. 595, 112 A. 2d 449. We find nothing basic or fundamental in the additional points raised by defendants, both of which allege improper emphasis on plaintiff’s testimony and ignoring of some of defendants’ testimony.
+Judgment affirmed.
