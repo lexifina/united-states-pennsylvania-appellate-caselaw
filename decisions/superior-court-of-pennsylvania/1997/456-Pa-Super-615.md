@@ -1,0 +1,47 @@
+---
+court: "Superior Court of Pennsylvania"
+decided: "1997-03-12"
+citations: ["456 Pa. Super. 615", "691 A.2d 485"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before McEWEN, P.J., and CAVANAUGH and TAMILIA, JJ."]
+parties: ["Louise HOY v. Dominick ANGELONE, Gregory Thomas, and Village Super Market, Inc. d/b/a Shop-Rite Of Easton."]
+source_url: "https://static.case.law/pa-super/456/cases/0615-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11983665
+cites_cases: ["377 Pa.Super. 181", "426 Pa.Super. 105", "466 A.2d 760", "510 U.S. 17", "516 Pa. 124", "540 Pa. 409", "658 A.2d 341", "890 F.Supp. 382", "895 F.2d 1469", "904 F.2d 853"]
+---
+
+# Hoy v. Angelone
+
+## Majority (CAVANAUGH, Judge.)
+
+CAVANAUGH, Judge.
+Louise Hoy appeals from a judgment entered in her favor and against Village Super Market, Inc. d/b/a Shop-Rite (“Shop-Rite”), after the trial court refused to award her counsel fees and costs. On appeal, Hoy contends that the court erred and abused its discretion in not awarding counsel fees and costs where the jury specifically made such an award. We affirm.
+Under the PHRA, the trial court may order legal or equitable relief as it deems appropriate. 43 P.S. § 962(c)(3). With respect to an award of counsel fees and costs, the PHRA provides:
+(c.2) If, after a trial held pursuant to subsection (c), the court of common pleas finds that a defendant engaged in or is engaging in any unlawful discriminatory practice as defined in this act, the court may award attorney fees and costs to the prevailing plaintiff.
+43 P.S. § 962(c.2) (emphasis added).
+The legislature’s use of the term “may” indicates that it intended the award of counsel fees and costs to lie within the discretion of the trial court. See 1 Pa.C.S.A. § 1921(b) (in interpreting legislative intent, when words of statute are clear and free from all ambiguity, the letter of it is not to be disregarded under the pretext of pursuing its spirit). As such, we will review the trial court’s decision under an abuse of discretion standard. An abuse of discretion will not be found merely because the appellate court might have reached a different conclusion, but requires a showing of manifest unreasonableness, or partiality, prejudice, bias, or ill-will, or such lack of support to be clearly erroneous. Paden v. Baker Concrete Construction, Inc., 540 Pa. 409, 658 A.2d 341, 343 (1995).
+After reviewing the voluminous record in this case, we find no abuse of discretion by the trial court in denying Hoy’s request for counsel fees and costs. Hoy received a large monetary award against Shop-Rite for its violation of the PHRA. Additionally, Shop-Rite expended a substantial sum of money in defending this suit, and there is nothing to suggest this defense was not undertaken and conducted in good faith. In view of all the circumstances attendant to this case, we cannot conclude that the trial court’s decision not to award counsel fees and costs was manifestly unreasonable or clearly erroneous.
+Judgment affirmed.
+McEWEN, President Judge, files a Concurring Statement.
+. As part of the verdict against Shop-Rite, the jury awarded Hoy, under the Pennsylvania Human Relations Act (‘'PHRA”), 43 P.S. §§ 951-963, "[t]he sum of $51,000.00 plus attorney's fees and costs.”
+. Hoy also contends that an analogous provision of Title VII of the Civil Rights Act of 1964, 42 U.S.C.A. § 2000e et seq., requires prevailing plaintiffs to be awarded counsel fees and costs unless special circumstances exist which justify no such award. We note that, although Pennsylvania courts may look to federal court decisions interpreting Title VII in interpreting die PHRA, Kryeski v. Schott Glass Technologies, 426 Pa.Super. 105, 626 A.2d 595, 598 (1993); Allegheny Housing v. Human Relations Commission, 516 Pa. 124, 532 A.2d 315 (1987), these decisions are not binding on our courts. Harrisburg School District v. Com. of Pa., Human Relations Commission, 77 Pa.Cmwlth. 594, 466 A.2d 760, 763 (1983). As such, we reject Hoy's argument.
+. In Shop-Rite’s cross-appeal, 01567 PHL 96, we vacated part of the judgment entered against Shop-Rite. Our disposition in this case affirms that judgment only insofar as the trial court’s denial of counsel fees and costs.
+
+## Concurrence (McEWEN, President Judge,)
+
+McEWEN, President Judge,
+concurring.
+After careful review of the entire transcript, I am unable to conclude that the trial court committed an abuse of discretion when it denied the motion for counsel fees filed by Mrs. Hoy. 1. therefore, concur in the decision of the majority to affirm that order, but must depart from the rationale of my colleagues in the majority, since I do not view the fact that “Shop-Rite expended a substantial sum of money in defending this suit” as relevant to the question of the entitlement of Mrs. Hoy to counsel fees.
+Rather, I am of the mind that where a violation of the PHRA has been found, counsel fees should, in most instances, be awarded to the prevailing plaintiff, but that where the question of violation was fairly debatable counsel fees should not be imposed.
+Mrs. Hoy established a violation of the PHRA under the “hostile work environment” theory of harassment, establishing, by a preponderance of the evidence:
+“1. That she suffered intentional discrimination because of her gender,
+2. That the discrimination was regular and pervasive,
+3. That the discrimination detrimentally affected her,
+4. That the discrimination would detrimentally affect a reasonable person of the same gender in the same position, and
+5. That Weis Markets knew or reasonably should have known that she was subjected to intentional discrimination because of her gender.”
+Stewart v. Weis Markets, Inc., 890 F.Supp. 382, 389-390 (M.D.Pa.1995) citing Harris v. Forklift Systems, Inc., 510 U.S. 17, 114 S.Ct. 367, 126 L.Ed.2d 295 (1993); Andrews v. Philadelphia, 895 F.2d 1469, 1482 (3rd Cir.1990); and Drinkwater v. Union Carbide Corporation, 904 F.2d 853, 860 (3rd Cir.1990). While the evidence produced by Mrs. Hoy as to the knowledge of Shop-Rite was sufficient to withstand a motion for judgment n.o.v., the evidence was not overwhelming and did not establish a pattern or practice on the part of Shop-Rite.
+Thus, the trial court, which weighed the evidence against the amount of the verdict returned against Shop-Rite could reasonably determine, in the exercise of its discretion, that an award of counsel fees was not warranted under the circumstances of this case. Thus, I concur in the decision of the majority which affirms that order.
+. In light of the absence of any right to a jury trial under the PHRA, Murphy v. Cartex Corp., 377 Pa.Super. 181, 192-94, 546 A.2d 1217, 1223 (1988), and the express statutoiy direction that the trial court is to rule on any request for counsel fees, the verdict of the jury was simply another factor to be considered by the trial court in determining whether to award counsel fees to Mrs. Hoy.
