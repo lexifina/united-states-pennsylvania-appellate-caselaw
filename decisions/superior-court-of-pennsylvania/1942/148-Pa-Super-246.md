@@ -2,7 +2,7 @@
 court: "Superior Court of Pennsylvania"
 docket: "Appeal, No. 22"
 decided: "1942-03-04"
-citations: ["148 Pa. Super. 246", "148 Pa. Super. 249"]
+citations: ["148 Pa. Super. 246"]
 reporter: "pa-super"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,6 @@ parties: ["Department of Labor and Industry, etc., Appellant, v. Unemployment Co
 source_url: "https://static.case.law/pa-super/148/cases/0246-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1040624
-cites_cases: ["133 Pa. Superior Ct. 518", "3 A. 2d 211"]
 ---
 
 # Department of Labor & Industry v. Unemployment Compensation Board of Review
