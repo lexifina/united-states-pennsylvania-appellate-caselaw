@@ -1,0 +1,36 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "3700"
+decided: "1996-10-16"
+citations: ["453 Pa. Super. 227", "683 A.2d 683"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before HUDOCK, EAKIN and HOFFMAN, JJ."]
+parties: ["PRUDENTIAL PROPERTY AND CASUALTY INSURANCE COMPANY, Appellant, v. Joel STEIN."]
+source_url: "https://static.case.law/pa-super/453/cases/0227-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 770969
+cites_cases: ["415 Pa.Super. 634", "427 Pa.Super. 449", "476 Pa. 456", "526 Pa. 179", "537 Pa. 623", "538 Pa. 337", "641 A.2d 588", "648 A.2d 755"]
+---
+
+# Prudential Property & Casualty Insurance v. Stein
+
+## Majority (HOFFMAN, Judge.)
+
+HOFFMAN, Judge.
+This is an appeal from an October 2, 1995 order denying appellant Prudential Property and Casualty Insurance Company’s petition to vacate an arbitration award. Appellant presents the following issues for our review:
+I. Whether the Lower Court should have vacated the Award of Arbitrators based upon the Award being unjust, conscience [sic] and against public policy.
+II. Whether or not [appellee] was an insured under his Prudential policy of insurance.
+III. Whether or not the policy language excluding coverage to [appellee] was clear and unambiguous and in accordance with current case law and public policy.
+Appellant’s Brief at 1.
+On September 19, 1993, appellee Joel Stein, while operating his motorcycle, was injured in an accident with another motorcycle whose driver was not insured. At the time of the accident, appellee’s motorcycle was insured with Progressive Casualty Insurance Company, but the insurance policy did not provide uninsured motorist benefits, as appellee had rejected this coverage. Appellee also owned a Chevrolet Citation and a Toyota Tercel which were insured with appellant under a motor vehicle insurance policy that provided uninsured motorist coverage.
+On April 14,1994, appellee notified appellant of his claim for uninsured motorist benefits under his Prudential insurance policy. On February 24, 1995, appellant filed a complaint seeking declaratory relief, claiming that uninsured motorist benefits were not available to appellee under his Prudential policy because his motorcycle was not a covered vehicle. However, pursuant to an arbitration provision in the insurance policy, the case was submitted to an arbitration panel. On June 14, 1995, after a hearing, the panel awarded appellee $200,000.00 in uninsured motorist benefits, finding that appellee was entitled to such benefits under the Prudential policy. Appellant subsequently filed a petition to vacate the arbitration award. On October 2, 1995, the trial court denied the petition to vacate, confirmed the arbitration award, and entered judgment against appellant. This timely appeal followed.
+Appellant’s three issues on appeal essentially challenge the propriety of the arbitration award. Appellant claims that the arbitration panel erred in finding that appellee was an insured under his Prudential policy and argues that the trial court erred in failing to disturb that determination.
+An agreement to arbitrate is an agreement for common law arbitration unless the agreement is in writing and expressly provides for arbitration pursuant to the Uniform Arbitration Act or a similar statute. 42 Pa.C.S. § 7302(a); Dearry v. Aetna Life & Cas. Ins. Co, 415 Pa.Super. 634, 637, 610 A.2d 469, 471 (1992). In the instant case, no reference is made in the arbitration clause of the insurance policy to the Uniform Arbitration Act or to any other statutory arbitration provisions. Accordingly, the arbitration clause here provides for common law arbitration.
+The standard of review for a common law arbitration is very limited:
+The award of an arbitrator in a nonjudicial arbitration which is not subject to (statutory arbitration) or [to] a similar statute regulating nonjudicial arbitration proceedings is binding and may not be vacated or modified unless it is clearly shown that a party was denied a hearing or that fraud, misconduct, corruption or other irregularity caused the rendition of an unjust, inequitable or unconscionable award.
+42 Pa.C.S. § 7341; Azpell v. Old Republic Ins. Co., 526 Pa. 179, 584 A.2d 950 (1991) (common law arbitration award cannot be vacated absent clear showing that losing party was denied a hearing, or that fraud, corruption, or other irregularity caused issuance of unjust, unconscionable, or inequitable award). The arbitrators are the final judges of both law and fact, and an arbitration award is not subject to reversal for a mistake of either. Runewicz v. Keystone Ins. Co., 476 Pa. 456, 461, 383 A.2d 189, 191-92 (1978). However, a trial court may review an arbitration award where the arbitration panel has ruled that an insurer’s policy provisions are contrary to legislative mandate and where the insurer seeks to defend the challenged provisions. Hall v. Amica Mut. Ins. Co., 538 Pa. 337, 344-46, 648 A.2d 755, 759 (1994). Finally, we note that a trial court order confirming a common law arbitration award will be reversed only for an abuse of discretion or an error of law. Hall v. Nationwide Mut. Ins. Co., 427 Pa.Super. 449, 629 A.2d 954 (1993), appeal denied, 537 Pa. 623, 641 A.2d 588 (1994).
+Our review of the certified record reveals that appellant has not established that the arbitration panel found its policy provisions to be contrary to legislative mandate. Moreover, appellant has failed to establish that it was denied a hearing or that fraud, misconduct, corruption, or other irregularity caused the entry of an unjust award. Accordingly, as appellant’s arguments do not fall within any of the statutory bases for vacating a common law arbitration award, these claims are not reviewable under the above standard. Therefore, the trial court order is affirmed. Dearry, supra; Azpell, supra; Runewicz, supra (common law arbitration award on insured’s claim for uninsured motorist benefits is conclusive even if it has the effect of varying the terms of the contract).
+Affirmed.
+. In fact, appellant merely asserts that its policy provisions are clear, unambiguous, and in accordance with public policy, and infers from the award for appellee that the arbitration panel must have found otherwise. See Appellant's Brief at 7. This unsupported inference falls short of establishing that the arbitration panel found a specific policy provision contrary to legislative mandate.
