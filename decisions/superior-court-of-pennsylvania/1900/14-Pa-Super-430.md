@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 19"
+decided: "1900-07-26"
+citations: ["14 Pa. Super. 430"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, W. W. Porter and W. D. Porter, JJ.", "Before Bechtel, P. J."]
+parties: ["Commonwealth v. Becker."]
+source_url: "https://static.case.law/pa-super/14/cases/0430-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 827863
+cites_cases: ["122 Pa. 547", "13 Leg. Int. 229", "40 Pa. 151", "65 Pa. 212", "67 Mo. 647"]
+---
+
+# Commonwealth v. Becker
+
+## Majority (Rice, P. J.,)
+
+Opinion by
+Rice, P. J.,
+The court below made the following order: “ And now, to wit: January 3,1900, the within copy of original bill being presented to the court, the court do direct the same to be filed to take place of original, lost or mislaid.” It is complained: (1) that it was irregular to make the order on the ex parte affidavit of the district attorney without other proof and without affording the defendant an opportunity to cross-examine and to show that this is not a true copy; (2) that it does not clearly appear by the affidavit that it is a correct copy of the indictment.
+The first objection, if well founded in fact, would be meritorious, but it is to be observed that it is not shown by the record that the defendant was not afforded an opportunity to be heard in opposition to the application, or that the order was made on insufficient proof. The fair inference from the bill of exceptions is that he was present either in person or by counsel. This shows that he objected to the order, but does not show that he objected to the procedure or to the insufficiency of the proof. There is a lack of that formality that is desirable in so important a proceeding, but it is not clearly apparent that there was any fatal irregularity. If the court had power to make such an order then on the principle omnia praesum untur rite esse acta, the presumption from this record is, that the court proceeded regularly, not arbitrarily, and that the facts expressed in the order, namely, that the original was lost or mislaid and that this was a copy, were established by proper and sufficient proof. It is not necessarily to be implied from this record that the only proof the court had was the ex parte affidavit of the district attorney. Furthermore, it was asserted at bar, and not denied, that, after this appeal was taken but prior to the argument, the indictment had been found. Being part of the record of the court below the appellant might have had it brought up at any time before the appeal came on for argument. If the copy upon which he was tried was not a correct copy, the fact might have been demonstrated by the record. We refer to this fact not as creating any presumption as to the correctness of the finding of the court below, nor as the basis of our judgment, but for the purpose of showing that the prima facie presumption of its correctness might easily have been rebutted if the finding was not warranted by the facts.
+We feel justified, therefore, in saying that the only meritorious question is, whether or not the court of quarter sessions has power to supply the place of a lost or mislaid indictment by a copy duly proved, and to require the defendant to plead thereto. The courts of several of the states of the Union have passed on this question, some holding that the power is included in the general inherent power of the court to preseiwe its own records, others holding that where the indictment is lost after the defendant has been arraigned and has pleaded, the substitution of a copy may be made, but that when it is lost before arraignment or plea it cannot be replaced by a copy. In other states the subject is regulated by special statutory provisions, and in some of the states where it is required that indictments be spread upon the record, it is held that a certified copy may be substituted for tbe lost indictment, upon which the trial may proceed. It cannot he said that the courts of this country have established any uniform rule upon the subject. The weight of authority, however, seems to be in favor of the proposition that the court having jurisdiction of the cause has power to supply the place of a lost, mislaid, destroyed or stolen indictment by a properly proved copy. Most of the cases are collected in 10 Am. & Eng. Eney. of PI. & Pr. 417, 418. We call particular attention to the case of State v. Simpson, 67 Mo. 647. We know of no decision of our Supreme Court upon the precise question, and in the absence of any binding adjudication of it, we conclude that the view above suggested is more in consonance with the general principles upon which the criminal law is administered at this day than the opposite view. The first five assignments are, therefore, overruled.
+The sixth assignment is not in accordance with our rules ; but passing that objection and going to the notes of evidence printed in the appendix, we find but two exceptions noted upon which the assignment could by any possibility be based, and neither of these shows that testimony of the kind complained of in the assignment was actually given by the witness.
+The judgment is affirmed and the record is remitted to the court below to the end that the sentence may be fully carried into effect.
