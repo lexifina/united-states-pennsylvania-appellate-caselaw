@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 25"
+decided: "1953-07-14"
+citations: ["174 Pa. Super. 22"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Reno, Ross, Gunther and Weight, JJ."]
+parties: ["Major v. MacLloyd, Appellant."]
+source_url: "https://static.case.law/pa-super/174/cases/0022-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 719081
+cites_cases: ["71 Pa. Superior. Ct. 501"]
+---
+
+# Major v. MacLloyd
+
+## Majority (Gunther, J.,)
+
+Opinion by
+Gunther, J.,
+This is a suit in assumpsit to recover damages for breach of contract and. unjust enrichment. Plaintiff obtained a verdict of $1500 and defendant filed motions for a new trial and judgment n.o.v., which were refused and from which defendant has appealed.
+Plaintiff bought an automobile in September, 1950, paying $964 down and the remainder to be paid in monthly installments under a bailment lease. Of the down money, $350 was borrowed from defendant, but later repaid and so does not enter into , the calculation of damages. After paying two monthly installments of $111.24 each, plaintiff encountered financial trouble and requested defendant’s help. According to plaintiff’s testimony, which was accepted by the jury, defendant took over the bailment lease on the understanding that plaintiff was to repay defendant for all moneys due by May, 1951. In March, 1951, plaintiff repaid the original $350; later the same month he paid defendant $400; in April he paid $293; and lastly he paid a regular monthly installment to defendant of $111.24. Plaintiff never received a reassignment of his rights to the car. The defendant eventually acquired title' to the car and sold it. Plaintiff therefore asked a verdict In the amount of the sums expended by him which, disregarding the $350 borrowed and repaid, totalled about $1990. ■ Defendant introduced a judgment note against plaintiff for $450, which was alleged to be unpaid and which .the jury deducted from the $1990 in order to arrive at their verdict of $1500.
+Defendant assigns a multitude of errors, none of which is meritorious. First, he contends that the verdict was not based on the natural result of a breach of contract, since some $1100 was paid by plaintiff prior to the assumption of the lease by defendant, leaving only some $800 paid to defendant under their agreement. The error in this allegation-is that it ignores the fact that defendant was unjustly enriched by the $1100 already paid, since he kept the automobile and acquired -title thereto. The contract called for reassignment to plaintiff and the failure to do so was a breach the natural result of which was to leave defendant in possession of a car into' which plaintiff had put $1100 prior to the agreement. The verdict is thus sustainable on the grounds of either breach of contract or restitution. "
+Defendant next complains of the charge of the court below on the matter of damages. Examination thereof, however, reveals no error. The court charged the jury that if they found that plaintiff made the payments he testified to, they would be justified in finding a ver-diet for the total of those payments, about $1990, less the $450 if they believed plaintiff received. that money and had not repaid it.- That, is certainly a fair, statement of the damages allowable. We see no other measure that could have been given,: since the damages here were liquidated and so ascertainable in definite amount. Pearce v. Bond, 71 Pa. Superior. Ct. 501, cited by defendant is not in point because there the damages were unliquidated and so it was error to instruct the jury that, if they believed plaintiff, they must return a verdict for the amount claimed.
+It is also contended that the action was premature because plaintiff had not repaid all moneys loaned on the car, as per the agreement. This- argument is based on the fact that the jury must have found that plaintiff still owed the $450 judgment note, which, defendant testified, was an early loan toward, the down payment on the ear. Plaintiff denied receiving $450 but admitted his signature on the note. The verdict, shows that the jury believed the defendant on this one issue, but that does hot mean that the suit was premature. Plaintiff’s receipt for the $293 payment recited “payment in full on repossession of note and repair on Buick auto.” The jury was warranted in concluding from that that the loans on the car were paid in full and that the $450 note must have related to an independent loan. Plaintiff’s testimony is therefore sufficient to sustain a finding that he fulfilled his part of the agreement and was in a position to demand performance by defendant.
+Defendant further objects to the admission of hearsay evidence by -the plaintiff in relation to his getting another finance company to agree to take over the car if he recovered it. Although this appears , to have been admitted over objection, it was harmless error at most. Contrary to defendant’s contention that 'this refinancing arrangement was necessary to plaintiff’s case, it was quite irrelevant. The only issues were whether defendant was obliged to reassign the right to the car and how much plaintiff had lost by defendant’s failure to do so. The agreement between the parties stood on its own and defendant had no right to withhold the title, once his loans were repaid, regardless of whether plaintiff could successfully refinance.
+The last point raised is that a prejudicial remark was made by the court below in its charge. In commenting on the case generally the court pointed out that the plaintiff was sworn and the defendant affirmed, yet both belonged to the same church. Tills was certainly á gratuitous and unnecessary remark, but we cannot sée wherein defendant was harmed by it. The court showed no preference between the two methods of •oath. Further, the net result of the whole, charge indicates that the issues were fairly and fully presented, defendant’s case as well as that of plaintiff.
+We conclude that the evidence is sufficient to support the verdict and that no reversible errors of law were committed.
+Judgment affirmed.
