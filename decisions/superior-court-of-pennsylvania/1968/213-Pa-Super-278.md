@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 515 to 524"
+decided: "1968-11-14"
+citations: ["213 Pa. Super. 278"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Weight, P. J., Watkins, Montgomery, Jacobs, Hoffman, Spaulding, and Hannum, JJ."]
+parties: ["Commonwealth v. Cephas, Appellant."]
+source_url: "https://static.case.law/pa-super/213/cases/0278-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 785286
+cites_cases: ["100 A. 2d 467", "109 A. 2d 224", "118 A. 2d 258", "12 A. 2d 492", "139 Pa. Superior Ct. 497", "176 Pa. Superior Ct. 608", "180 Pa. Superior Ct. 121", "212 Pa. Superior Ct. 100", "239 A. 2d 829", "352 U.S. 823", "375 Pa. 518", "52 Pa. Superior Ct. 215", "61 Pa. Superior Ct. 423"]
+---
+
+# Commonwealth v. Cephas
+
+## Majority (Jacobs, J.,)
+
+Opinion by
+Jacobs, J.,
+Appellant was charged with forgery and related offenses. He went to trial on August 14, 1967 before the Honorable Kendall H. Shoyer and a jury. Prior to selecting a jury appellant’s trial counsel was invited by the trial judge to question the jury panel. Counsel declined and instead moved for an individual voir dire of the jury panel. The judge refused because counsel gave no reason, but again gave permission to counsel to put such questions as he thought necessary to the jury panel. Again counsel declined. Twelve jurors were placed in the jury box, two were challenged by the Commonwealth and two other jurors were chosen to replace them. Counsel for appellant stated that he could not challenge for cause unless the judge permitted individual voir dire. The judge insisted that counsel address his questions to the jury as a group and counsel waived all challenges, either for cause or peremptorily.
+What did appellant mean when he moved for individual voir dire of the jury panel? Apparently this was a request that each prospective juror be placed under oath and examined individually before being accepted or rejected, a practice that has existed in capital cases for many years. This appeal raises the question of whether a defendant in a noncapital criminal case tried before August 1, 1968, had a right to individual voir dire of each prospective juror.
+In Commonwealth v. Exler, 61 Pa. Superior Ct. 423 (1915), we held that this procedure in capital cases was irregular in other criminal cases, and sanctioned the practice of calling the jurors into the box before examining them. In Commonwealth v. DiFilippo, 176 Pa. Superior Ct. 608, 109 A. 2d 224 (1954), we again approved the practice of the trial court in noncapital eases of calling twelve jurors and seating them in the box before the challenging began. We are satisfied that appellant had no right in this case to have the jurors called singly as in a homicide case and sustain the lower court in refusing such a request.
+The sole question presented in this case, as stated by appellant in his brief, is whether the court erred in denying defense counsel the right to address the prospective jurors individually in order to establish possible bases for challenges for cause.
+As appellant concedes, he had no right to examine the prospective jurors for the purpose of determining the exercise of his peremptory challenges. “The examination of jurors under voir dire is solely for the purpose of securing a competent, fair, impartial and unprejudiced jury.” Commonwealth v. McGrew, 375 Pa. 518, 525, 100 A. 2d 467, 470 (1953). The inquiry is limited to determining if a juror is subject to disqualification for cause for lack of qualifications or a fixed opinion. Commonwealth v. McGrew, supra.
+A defendant has a right to insist on a voir dire of prospective jurors. Commonwealth v. Grauman, 52 Pa. Superior Ct. 215 (1912). However, the scope of voir dire examination rests on the sound discretion of the trial judge. Commonwealth v. McGrew, supra. So also does the manner and procedure of such examination. Commonwealth v. Deysher, 139 Pa. Superior Ct. 497, 12 A. 2d 492 (1940).
+In Deysher the defendant was convicted of statutory rape, fornication and bastardy and nonsupport. Twelve jurors were called from the panel and placed in the box. Counsel for defendant then proposed to ask each one called a certain question. The trial court permitted the question to be addressed to the jurors as a group but would not allow it to be asked of each juror individually and separately. In affirming the action of the court below we said: “The trial courts have power to control the order and procedure of a trial so as to attain justice. If there is no statute violated or a defendant deprived of some right we do not disturb the procedure followed in the matter of obtaining the jury by a court below.” Commonwealth v. Deysher, supra at 501, 12 A. 2d at 494.
+Appellant argues that he would be unable to ascertain the information necessary to justify a challenge for cause by addressing questions to the jurors in a group. The appellant’s argument would be more forceful if he had tried and failed, but instead he elected to ask no questions and has no way of knowing what the result might have been. It is difficult to see how appellant was harmed when he chose to ask no questions. In our opinion he was given sufficient opportunity to determine the prejudice, bias or other lack of qualifications of any juror by addressing proper questions to the jury in a group. If such questions revealed possible lack of qualification on the part of any juror the trial judge should, and no doubt would, have permitted special inquiry of that juror. However, due to the election of appellant’s counsel, that stage was never reached. The practice in noncapital cases of addressing questions to the jurors in a group and then further examining those suspected of prejudice because of their answers has been the custom in many courts of the Commonwealth and been approved by this court. See Commonwealth v. Deysher, supra; Commonwealth v. Morrison, 180 Pa. Superior Ct. 121, 118 A. 2d 258 (1955), cert. denied, 352 U.S. 823 (1956); Common wealth v. Howard, 212 Pa. Superior Ct. 100, 239 A. 2d 829 (1968).
+Judgment of sentence affirmed.
+Rules 1106 and 1107 of the Pennsylvania Rules of Criminal Procedure covering Examination and Challenges of Trial Jurors became effective August 1, 1968, and are not applicable to this case.
