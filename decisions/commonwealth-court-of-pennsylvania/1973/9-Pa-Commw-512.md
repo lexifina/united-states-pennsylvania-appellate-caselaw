@@ -1,0 +1,29 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 876 C.D. 1972"
+decided: "1973-08-02"
+citations: ["9 Pa. Commw. 512"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Kramer, Wilkinson, Jr. and Blatt, sitting as a panel of three."]
+parties: ["Donald J. Hinkle, Appellant, v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Appellee."]
+source_url: "https://static.case.law/pa-commw/9/cases/0512-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1854152
+cites_cases: ["206 Pa. Superior Ct. 270", "213 A. 2d 221", "296 A. 2d 288", "300 A. 2d 299", "300 A. 2d 308", "6 Pa. Commonwealth Ct. 489", "7 Pa. Commonwealth Ct. 194", "7 Pa. Commonwealth Ct. 526"]
+---
+
+# Hinkle v. Commonwealth
+
+## Majority (Judge Kramer,)
+
+Opinion by
+Judge Kramer,
+This is an appeal by Donald J. Hinkle (Hinkle) from an order of the Unemployment Compensation Board of Review (Board), dated August 2, 1972, denying Hinkle’s claim for unemployment compensation.
+Hinkle was last employed by the General Battery Corporation (General Battery). He was in General Battery’s employ as a laboratory technician from October 19, 1971 through March 27, 1972. His employment was terminated on March 27th for excessive absenteeism. He applied for unemployment compensation, and his request was denied by the Bureau of Employment Security. Hinkle appealed, and a hearing was held on May 19,1972. The referee found that Hinkle had been warned about his excessive absences, that he had in fact been absent an excessive amount of time, and that he had not followed the company’s rules pertaining to reporting absences. The referee concluded that Hinkle’s conduct constituted “wilful misconduct” under Section 402(e) of the Unemployment Compensation Act, Act of December 5,1936, P. L. (1937) 2897, as amended, 43 P.S. §802 (e), and hence denied compensation. Hinkle appealed to the Board, and the Board affirmed the referee.
+Our scope of review in unemployment cases is confined to questions of law, and absent fraud, a determination as to whether the Board’s findings are supported by the evidence. Questions of credibility and the weight to be given evidence are for the Board. Furthermore, the party victorious below is to be given the benefit of any inferences which can reasonably and logically be drawn from the evidence. See James v. Unemployment Compensation Board of Review, 6 Pa. Commonwealth Ct. 489, 296 A. 2d 288 (1972).
+Although Section 402(e) of the Act does not define the term “wilful misconduct,” the courts have established a workable definition. In Harmer Unemployment Compensation Case, 206 Pa. Superior Ct. 270, 272, 213 A. 2d 221, 223 (1965), wilful misconduct was defined as: “[A]n act of wanton or wilful disregard of the employer’s interest, a deliberate violation of the employer’s rules, a disregard of standards of behavior which the employer has the right to expect of his employee, or negligence in such degree or recurrence as to manifest culpability, wrongful intent, or evil design, or show an intentional and substantial disregard of the employer’s interest or of the employee’s duties and obligations to the employer.”
+It has also been established that employe absences without notice in violation of the employer’s rules is behavior which constitutes wilful misconduct. See Horan v. Unemployment Compensation Board of Review, 7 Pa. Commonwealth Ct. 194, 300 A. 2d 308 (1973). We believe it is worth noting that Hinkle acknowledges having been warned about his absences. This admission of a warning is especially detrimental, since a prior warning is not a prerequisite to a discharge for such misconduct. Cf. Woodson v. Unemployment Compensation Board of Review, 7 Pa. Commonwealth Ct. 526, 300 A. 2d 299 (1973).
+Given the above, the sole issue before this Court is whether the Board’s findings are supported by the evidence. HinMe’s entire argument concerns the admissibility of General Battery’s records pertaining to HinMe’s absences. Hinlde contends that the records are hearsay evidence and cannot be used to support the Board’s decision because of timely objection by Hinkle’s counsel. Hinkle’s objection is based on the fact that the General Battery witness, Mr. Squitiero, who testified with respect to the records, was not the draftsman of the records. If the records are admissible competent evidence, the" Board’s order must be affirmed.
+Section 2 of the Uniform Business Records as Evidence Act, Act of May 4, 1939, P. L. 42, 28 P.S. §91 (b) provides: “A record of an act, condition or event shall, in so far as relevant, be competent evidence if the custodian or other qualified witness testifies to its identity and the mode of its preparation, and if it was made in the regular course of business at or near the time of the act, condition or event, and if, in the opinion of the court, the sources of information, method and time of preparation were such as to justify its admission.” Mr. Squitiero was General Battery’s Labor Relations Manager, who had access to company records. He was qualified to explain and identify the records in question, which were absentee reports set forth clearly on company forms. In addition, Hinkle admitted to having received the company’s manual which delineates its practice, and the employe’s responsibility with respect to absence. The record discloses, Hinkle, in fact, followed the procedures set out in the manual on many occasions. We conclude that Hinkle’s contention that the absentee records are not competent evidence is meritless. In summary then we hold that the Board’s findings are supported sufficient evidence. Therefore, we affirm the Board’s decision denying Hinkle unemployment compensation.
