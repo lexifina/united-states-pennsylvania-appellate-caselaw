@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 259"
+decided: "1973-04-12"
+citations: ["224 Pa. Super. 202"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["West Penn Realty Company, Appellant, v. Acme Markets, Inc."]
+source_url: "https://static.case.law/pa-super/224/cases/0202-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8857848
+cites_cases: ["121 A. 320", "129 A. 587", "180 F. 2d 617", "277 Pa. 504", "283 Pa. 529", "300 F. Supp. 341", "365 Pa. 123", "379 Pa. 255", "39 A.L.R. 1106", "406 Pa. 188", "421 Pa. 301"]
+---
+
+# West Penn Realty Co. v. Acme Markets, Inc.
+
+## Majority (Per Curiam,)
+
+Opinion
+Per Curiam,
+TMs case is before us on plaintiff lessor’s appeal from the lower court’s denial of its motion for judgment on the pleadings and/or for summary judgment and the granting of defendant lessee’s motion for judgment on the pleadings. Plaintiff lessor had filed a complaint seeMng a declaratory judgment that the defendant lessee was not entitled to an additional five year term because it had failed to give timely notice of intention to renew its current lease. The court below determined that timely notice had been given under the instruments made part of the pleadings which were the original lease, a lease supplement, and a rider. We disagree with the action of the court below.
+The option here at issue was contained in the original lease and provided for a five year renewal option to be exercised by written notice “one year before the end of the term of this lease, to-wit prior to September 30, 1970”. The original term was October 1, 1956 to September 30, 1971. However, that term was later modified in writing to May 1, 1957 to April 30, 1972, the modifying rider further providing: “All other terms and conditions to remain the same, including the options set forth therein.” Defendant lessee gave notice to plaintiff lessor of the exercise of its option to renew the lease by letter dated April 26, 1971. Plaintiff lessor, however, refused to recogMze the notice on the ground that the time specified in the original lease for exercising the option was one year before September 30, 1970 (one year prior to the expiration of the original term of September 30, 1971), notwithstanding the change in the expiration date of the term to April 30, 1972. Defendant lessee countered that it was sufficient to give notice one year prior to the expiration of the new term, to-wit, one year prior to April 30, 1972.
+Concededly an ambiguity exists between the option clause and its applicability to the term as later modified. In reconciling this ambiguity, the law does not give the defendant-tenant any advantage of interpretation : The law governing the interpretation of an option clause is as stated in McArthur v. Rosenbaum Co. of Pittsburgh, 180 F. 2d 617 (3d Cir. 1950), at page 619-20: “Ordinarily a clause in a contract cannot be disregarded if a reasonable meaning can be taken from it. This, however, does not apply to the present case for the reason that the clause under consideration purports to be an option. t . . When contracts are optional in respect to one party, they are strictly interpreted in favor of the party bound and against the party that is not bound . . .’ 3 Williston on Contracts, sec. 620, p. 1788. In an option the optionor is not bound beyond the point where the words of the option clearly and definitely bind him. Where, as in the present case, the words of the option are ambiguous, the optionor is not bound at all because the court cannot say to what obligation he is bound.
+“The rule of interpretation that cm ambiguous clause in a lease is interpreted in favor of the lessee does not apply to this case for the reason that the clause requiring interpretation is an option to enter into a new lease, and an option in a lease is a contract independent of the lease contract. Signor v. Keystone Consistory, 277 Pa. 504, 121 A. 320; Pettit v. Tourison, 283 Pa. 529, 129 A. 587, 39 A.L.R. 1106.” Defendant lessee therefore cannot rely on a rule of interpretation favorable to it even if the language of the lease was the product of the parties’ joint preparation. If lessee was the preparer, it is in an even less favorable position, for it is fundamental that ambiguous language in a lease is to be interpreted most strongly against the party who selected tbe language: U.S. Aviation Underwriters, Incorporation v. WTAE Flying Club, 300 F. Supp. 341 (D.C. Pa. 1969); Heidt v. Aughenbaugh Coal Co., 406 Pa. 188 (1962); Home Builders of Mercer Gounty v. Dellwood Corp., 379 Pa. 255 (1954). If the lease was prepared by the lessee, the applicable rule of construction is that the lease be construed against the party who prepared it: Galligwn v. Arovitch, 421 Pa. 301 (1966); Heidt v. Aughenbaugh, supra; Barrow v. Keystone 5, 10, 25, $1.00 Stores, Ine., 365 Pa. 123 (1950). Of course, that same rule of construction is equally applicable in the event the lessor prepared the lease. However, there is no evidence in the case now before us as to which of the parties prepared the lease. Such evidence, as hereinbefore indicated, is necessary to a proper determination of the issue presented.
+We therefore remand the case with a procedendo.
