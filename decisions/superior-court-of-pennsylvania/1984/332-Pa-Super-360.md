@@ -1,0 +1,37 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1199"
+decided: "1984-08-31"
+citations: ["332 Pa. Super. 360", "481 A.2d 655"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CAVANAUGH, POPOVICH and HESTER, JJ."]
+parties: ["In re ESTATE OF Betty T. THOMPSON, Deceased. Appeal of Thomas Merle CURRY."]
+source_url: "https://static.case.law/pa-super/332/cases/0360-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 614808
+cites_cases: ["108 A.2d 825", "176 Pa.Super. 513", "210 Pa.Super. 266", "231 A.2d 904", "247 A.2d 566", "299 A.2d 585", "332 Pa.Super. 364", "349 Pa. 255", "36 A.2d 786", "432 Pa. 342", "451 Pa. 108", "477 Pa. 243", "9 C.C. 235"]
+---
+
+# In re Estate of Thompson
+
+## Majority (POPOVICH, Judge:)
+
+POPOVICH, Judge:
+This is an appeal by Thomas Merle Curry from an order of the Court of Common Pleas, Orphans’ Court Division, Clearfield County, sustaining preliminary objections in the nature of a demurrer filed by the Estate of Betty T. Thompson, Deceased, (estate) to the appeal from the decision of the Register of Wills admitting to probate the Will of Betty T. Thompson (decedent). The lower court also dismissed appellant’s appeal to the Orphans’ Court. Appellant filed this appeal under Section 908 of the Probate, Estates & Fiduciaries Code (20 Pa.C.S.A. § 908) as a party-in-interest aggrieved by the decree of the register of wills probating a will of the decedent executed in 1981, of which appellant was not a beneficiary. Appellant petitioned the court to substitute in its stead a will executed in 1958. A rule was granted upon the executor and beneficiaries under the probated will to show cause why the prayer of the petition should not be granted, whereupon the estate filed preliminary objections in the nature of a demurrer to the petition. This appeal followed the order sustaining the preliminary objections and dismissing the appeal. We affirm.
+The only issue before us is whether, upon the facts averred, the law will not permit recovery by appellant, resolving any doubt in favor of a refusal to sustain the objections. Preliminary objections should be sustained only in cases which are clear and free from doubt. Allstate Insurance Co. v. Fioravanti, 451 Pa. 108, 299 A.2d 585 (1973), Legman v. School District of City of Scranton, 432 Pa. 342, 247 A.2d 566 (1968).
+Thomas Merle Curry is the son of John A. Thompson, deceased, and Thelma Irene Thompson. His parents divorced, and both remarried. Appellant was then adopted by his mother’s second husband, and his name was changed from John A. Thompson, Jr. In 1958, appellant’s father and his second wife, Betty T. Thompson, executed allegedly mutual or reciprocal wills in which each devised his estate to the surviving spouse or if the surviving spouse did not survive by 60 days then to appellant in trust. John A. Thompson predeceased decedent, and decedent became the sole beneficiary under his 1958 will, which was admitted to probate. Decedent executed a subsequent will in 1981, which was duly admitted to probate.
+In disposing of this appeal, we must assume that decedent’s 1958 will was executed pursuant to an enforceable contract and that the execution of the 1981 will, which revoked all prior wills, was an anticipatory breach of that contract which ripened into a breach upon decedent’s death. The issue then becomes whether probate of the second will should be set aside and the original will substituted therefor on appeal under 20 Pa.C.S.A. § 908. Appellee claims that the proper method of attack is to file an action in assumpsit for breach of contract or to contest the schedule of distribution filed in accordance with the terms of the 1981 will.
+We agree. The lower court properly sustained the preliminary objections and dismissed the appeal.
+“A will in violation of a contract to make a will should be probated. The contract is a question of distribution.” Hunter’s Orphans Court Practice & Procedure, Contract to Make A Will, § 10, p. 515. There are numerous lower court cases cited therein:
+Shaaber v. Johnston, 10 Sad. 566, Wrights’ Estate, 9 C.C. 235, Winters’ Estate, 34 Dela. 12, 57 D & C 433, Mornes Estate, 8 Lawr. 113, see 79 D & C 356, Snyder Estate, 86 D & C 449, Burns Estate, 34 Westm. 245, Kreider Estate, 85 D & C 443, Stevens Estate, 13 Fid.Rep. 39, 63 Lack. 199, Masisak Estate, 15 Fid.Rep. 233, 60 Schuyl. 190, Baron Estate, 35 D & C2d 571.
+“It is well established in Pennsylvania that an agreement to make a will or to devise one’s property to a particular person or for a particular purpose is binding and irrevocable when supported by what the law regards as valid consideration (citations omitted). Such agreements are not testamentary in nature but are rather contracts with part performance postponed until the death of one of the parties.”
+Zimnisky v. Zimnisky, 210 Pa.Super. 266, 270, 231 A.2d 904, 906 (1967).
+Although neither this Court nor our Supreme Court has expressly described the proper procedure to be followed, where both wills are bona fide and satisfy the statutory requirements, the courts have entertained claims relating to the proper distribution of the estate at audit after probate of the later will. See Estate of Kester, 477 Pa. 243, 383 A.2d 914 (1978), Swenk’s Estate, 176 Pa.Super. 513, 108 A.2d 825 (1954). Indeed, in Swenk’s Estate, the opinion refers to a caveat which had been filed protesting the prospective probate of the second will, but this was dismissed. Objectants were eventually successful before the Orphans’ Court and on appeal by presenting their claim as third party beneficiaries at the time of distribution. The lower court found that mutual wills had been executed pursuant to an oral contract. The execution of a later will was violative of that contract, and distribution was made pursuant to the mutual or reciprocal will.
+The court in Kester described the events leading up to the appeal by quoting from the trial court:
+“... even though the latter document was properly admitted to probate, it was contended that distribution should be made according to the former will...” at 477 Pa. at 248, 383 A.2d at 917.
+The probate of decedent’s last will and testament was properly within the register of wills’ jurisdiction. "... the courts have broadly held or recognized that the formally revocable nature of a joint will or of mutual and reciprocal wills is not to be denied merely because the will or wills are executed pursuant to a contract or arrangement between the testators not to revoke.” § 3, Agreement Not to Revoke Will, 17 ALR 4th at 180. If a particular writing meets the statutory requirements for a will, it is properly admitted into probate. However, “[t]he probate of a will without regard to its provisions is one thing, distribution of the estate of the testator in accordance with its terms is another. The former is for the register; the latter is none of his concern.” In Re Martins Estate, 349 Pa. 255, 36 A.2d 786 (1944).
+We hold that the lower court properly sustained appellee’s preliminary objections and properly dismissed the appeal.
+Order affirmed.
+. Thomas Merle Curry filed a complaint in assumpsit at No. 82-1820-CD in the Court of Common Pleas of Clearfield County which is concurrently before us on appeal after summary judgment was granted in his favor. Curry v. Estate of Thompson, et al., 332 Pa.Super. 364, 481 A.2d 658 (1984).
