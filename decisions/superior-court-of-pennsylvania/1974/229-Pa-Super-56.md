@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 136 and 137"
+decided: "1974-06-21"
+citations: ["229 Pa. Super. 56"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. J., Watkins, Jacobs, Hoffman, Spaulding, Cercone, and Spaeth, JJ.", "Watkins, P. J., dissents."]
+parties: ["Commonwealth v. MacKay, Appellant."]
+source_url: "https://static.case.law/pa-super/229/cases/0056-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 813249
+cites_cases: ["100 A.L.R. 2d 525", "209 Pa. Superior Ct. 70", "218 Pa. Superior Ct. 248", "219 Pa. Superior Ct. 181", "223 A. 2d 885", "276 A. 2d 314", "280 A. 2d 556", "287 U.S. 206", "297 A. 2d 471", "301 A. 2d 819", "305 A. 2d 341", "367 U.S. 643", "378 U.S. 108", "393 U.S. 410", "403 U.S. 573", "444 Pa. 110", "449 Pa. 249", "450 Pa. 624", "452 Pa. 333"]
+---
+
+# Commonwealth v. MacKay
+
+## Majority (Cercone, J.,)
+
+Opinion by
+Cercone, J.,
+This is an appeal from the denial of a motion for new trial and in arrest of judgment. The facts of the case are as follows.
+On January 11, 1971, Trooper James Anderson obtained a search warrant for the person of Richard Mac-Kay, his premises at 903 West Marshall Street, and his automobile. The warrant was issued pursuant to affidavit given by officer Anderson. The affidavit stated that officer Anderson had received information from three named informants. On December 8, 1970, Richard Frangiosa, a known drug user, informed officer Anderson that Frangiosa had sold narcotics to the defendant in the past. On December 18, 1970, officer Anderson received information from Pasquali Storti, a known drug user, that Storti had observed MacXay with heroin on numerous occasions in the past. Eobert Biddy, also a known drug user, informed officer Anderson on January 5,1971, that Eichard MacXay was “selling on Marshall Street.” Two other “confidential informants” supplied officer Anderson with information he used in the affidavit. Only one made any statement of any culpable conduct by MacXay, and it consisted of the mere conclusion that MacXay was “shooting seven bags a day.” However, the affidavit set forth no information upon which the district justice could conclude that the informants were reliable, except with respect to Frangiosa’s information. While Frangiosa’s reliability is arguably supplied because his statement was an admission against interest, it was clearly stale. Not only was the information itself thirty-four days old, but it related to events which occurred at some indefinite time in the past.
+The district justice issued the search warrant on January 11, 1971, and the warrant was executed on the same day. The search of the premises revealed neither drugs nor drug devices; however, the physical appearance of MacXay was such that officer Anderson suspected him of using drugs. Although a urine sample taken from MacXay proved positive for morphine, the only item of contraband found during the search of the premises was a 1938 machine gun which was inoperable in that it lacked a firing pin and recoil spring.
+Eichard MacXay was tried on May 4, 1972 and was found guilty of using a narcotic in violation of The Drug, Device and Cosmetic Act, and of trafficking in machine guns, a violation of the Act of June 24, 1939, P. L. 872, §629, 18 P.S. §4629 (1963). MacKay’s motions for a new trial and in arrest of judgment were denied, and this appeal followed.
+The question raised by this appeal is whether the affidavit given by Trooper Anderson meets the “two-pronged” test for probable cause as laid down in Aguilar v. Texas, 378 U.S. 108 (1964). This test requires that the affidavit state the underlying circumstances which caused the informant to reach his conclusion, and the underlying circumstances which led the affiant to believe that the informer is a reliable source of information: Commonwealth v. Simmons, 450 Pa. 624, 301 A. 2d 819 (1973); Commonwealth v. Hughes, 219 Pa. Superior Ct. 181, 280 A. 2d 556 (1971) ; Commonwealth v. Dial, 218 Pa. Superior Ct. 248, 276 A. 2d 314 (1971). A close scrutiny of the affidavit reveals that, aside from Prangiosa, none of the informants appeared to be reliable, and none of the informants indicated the underlying circumstances upon which they based their conclusions of drug violations by MacKay.
+While the affidavit is to be given a non-technical common sense reading, it must provide enough information to allow the magistrate to independently judge the validity of the informants’ conclusions: Spinelli v. United States, 393 U.S. 410 (1969); Commonwealth v. Conner, 452 Pa. 333, 305 A. 2d 341 (1973). The evidence presented in the affidavit must be enough to allow the magistrate to conclude that he is relying on something more than a rumor circulating in the underworld or an individual’s reputation in the neighborhood: Spinelli v. United States, supra. The Aguilar test is designed to ensure that such evidence is presented. While failure to meet the two-pronged test does not automatically negate a finding of probable cause; there must be some other fact or circumstance provided by the affidavit which insures the veracity of the statements therein: United States v. Harris, 403 U.S. 573 (1971); Commonwealth v. Mamon, 449 Pa. 249, 297 A. 2d 471 (1972). In the present case there is no “fresh” information in the affidavit which would allow a magistrate to conclude that he is acting on anything more than a rumor. The affidavit does not meet the Aguilar test nor does it provide any other guaranty of reliability. Since this written affidavit is conclusive of the evidence which was presented to the magistrate, Commonwealth v. Crawley, 209 Pa. Superior Ct. 70, 223 A. 2d 885 (1966); we must conclude that the search warrant was issued without probable cause. Such a search violates the 4th Amendment to the Constitution and any evidence obtained from such a search is inadmissible: Mapp v. Ohio, 367 U.S. 643 (1961).
+Therefore the judgment of sentence of the lower court is vacated, and appellant is granted a new trial.
+Watkins, P. J., dissents.
+See Sgro v. United States, 287 U.S. 206 (1932) ; Commonwealth v. Simmons, 450 Pa. 624 (1973) ; Commonwealth v. Shaw, 444 Pa. 110 (1971). See also Annot., 100 A.L.R. 2d 525.
