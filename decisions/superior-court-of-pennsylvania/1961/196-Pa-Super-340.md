@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 269"
+decided: "1961-11-16"
+citations: ["196 Pa. Super. 340"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Eevin, Weight, Woodside, Watkins, Montgomery, and Flood, JJ. (Rhodes, P. J., absent)."]
+parties: ["Heller Motor Vehicle Operator License Case."]
+source_url: "https://static.case.law/pa-super/196/cases/0340-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 754911
+---
+
+# Heller Motor Vehicle Operator License Case
+
+## Majority (Woodside, J.,)
+
+Opinion by
+Woodside, J.,
+This is an appeal by the Commonwealth from an order of the Court of Common Pleas No. 7 of Philadelphia County reversing an order of the Secretary of Revenue which suspended the operator’s license of Ralph Heller, a resident of Philadelphia.
+The record of the hearing before the court below establishes that Heller was convicted in New Jersey on June 9, 1956, for speeding; on March 20, 1957, for improper passing; on November 11, 1957, for speeding; on April 21, 1958, for speeding; on May 7, 1958, for speeding; on June 14, 1958, for speeding; on August 6, 1958, for speeding; and on December 12, 1958, for failure to stop at traffic signal. It is strange that there is no record of a conviction against Heller in Pennsylvania where he resided and worked, but it is not strange that he was the operator of a vehicle involved in an accident in Pennsylvania which resulted in personal injuries. Heller admits the convictions and testified, “I was at fault.” By his brazen and continual disregard of the law, Heller has demonstrated his gross abuse of a privilege entrusted to him by the Commonwealth.
+Upon receiving notice on January 7, 1959, of Heller’s last four convictions in New Jersey for .speeding, the Secretary of Revenue, after hearing, suspended his operator’s license for five months. See Section 618(e) of The Vehicle Code of April 29, 1959, P. L. 58, 75 P.S. §618 (e).
+Heller was notified on May 7, 1960, that the suspension would commence May 11, 1960. He appealed to the Court of Common Pleas of Philadelphia County and was granted a supersedeas. After conducting a hearing, that court filed its order on April 26,1961, sustaining the appeal and restoring Heller’s license. The sole reason given by the court below for its order was as follows: “Here, over sixteen months elapsed from the time the Secretary received notice from New Jersey until [Heller’s] Pennsylvania license was suspended. This is considerably more than a rehsonable period of time within which the Secretary could have acted . . . .”
+It is unfortunate that the wheels of justice ground so slowly in this case that Heller has been able to retain, for a far longer uninterrupted period than the law intended, a privilege that enabled him to speed over the highways in brazen disregard of the laws governing their use. It would be even more unfortunate if, having enjoyed a privilege during a period when the law did not intend him to have it, that very enjoyment would be used as an excuse for not suspending the privilege at all.
+The court below made no inquiry as to the reason for the delay in ordering the suspension. There is no evidence that Heller sought an early hearing before the secretary or a prompt disposition of the case. He’testified before the court below, but offered nothing to indicate that the delay was caused by the secretary’s neglect. The mere passing of time between tbe convictions and the suspension, standing alone, is not a reason for tbe court to set aside tbe action of tbe secretary.
+Ordinarily, tbe number of bearings before tbe secretary, their continuances and tbe reasons for them would not be relevant to tbe issue before the court below, which was to determine whether tbe operator’s conduct should subject him to a suspension of bis license. Tbe Commonwealth could not be expected to foresee tbe relevancy of tbe time when bearings were set by tbe secretary and tbe reason for any continuances. Although tbe bearing judge should have suspected from tbe record before him that Heller was at least partially responsible for the delay, be made no effort to ascertain tbe reasons for tbe elapse of time between tbe convictions and tbe ordering of tbe suspension.
+At tbe argument before our Court, tbe Commonwealth stated that if we would remand this case for taking testimony on tbe issue of tbe delay in ordering tbe suspension, it would bé prepared to prove tbe following facts: On April 23, 1959, tbe secretary notified Heller of receiving tbe notice of bis conviction for speeding on August 6, 1958, in New Jersey; a bearing was scheduled for July 8, 1959, at which Heller failed to appear; on July 10, Heller’s attorney wrote to tbe secretary that Heller was on vacation and did not receive the notice of tbe July 8th bearing until July 9th, and requested tbe secretary to set another bearing; tbe secretary set September 24,1959, for a bearing; on September 21, Heller’s attorney wrote to tbe secretary saying bis client was in Europe and could not appear at a bearing until after January 1, 1960; tbe secretary rescheduled a bearing for January 27, 1960; on January 22, 1960, Heller’s attorney wrote tbe secretary that be could not appear for tbe bearing and asked for still another continuance; tbe secretary granted tbe request and set March 7, 1960, for a bearing; on that date Heller appeared and testified; on May 11, 1960, the secretary notified Heller that his operator’s privilege was suspended. Counsel for Heller appearing before this Court (after requesting a continuance of the argument before us) said concerning the Attorney General’s statement of continuances before the secretary, “We don’t dispute these facts.”
+The details which would establish the cause of the delay is not a part of the record, but that the delay was largely due to Heller’s conduct is admitted. All that would be gained by remanding the case to establish facts which are admitted would be additional delay. There is no question that the suspension is deserved ; there is no question that delays are undesirable.
+But even ignoring the reasons for the delay which the Commonwealth is prepared to prove, the record as it stands does not support the order of the court below.
+Order of the court below is reversed, and the order of suspension imposed by the Secretary of Revenue is reinstated. A reinstated suspension shall be issued within thirty days.
+In the light of suspensions sometimes imposed for a single offense, the period of suspension for one who earned the title of scofflaw was lenient. ' • -
