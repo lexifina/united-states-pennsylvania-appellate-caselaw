@@ -1,0 +1,38 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1001 C. D. 1985"
+decided: "1986-05-07"
+citations: ["97 Pa. Commw. 101", "508 A.2d 1308"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Colins and Palladino, and Senior Judge Kalish, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania, Pennsylvania Liquor Control Board, Appellant v. Burrell Food Systems, Inc., Appellee."]
+source_url: "https://static.case.law/pa-commw/97/cases/0101-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1346987
+cites_cases: ["13 Pa. Commonwealth Ct. 415", "31 Pa. Commonwealth Ct. 265", "318 A.2d 763", "337 A.2d 914", "375 A.2d 1360", "425 A.2d 873", "462 Pa. 124", "477 A.2d 601", "489 A.2d 988", "57 Pa. Commonwealth Ct. 17", "83 Pa. Commonwealth Ct. 393", "88 Pa. Commonwealth Ct. 404"]
+---
+
+# Commonwealth v. Burrell Food Systems, Inc.
+
+## Majority (Judge Colins,)
+
+Opinion by
+Judge Colins,
+Since Henry Ford’s initiation of the American love affair with the family car, the unique marketing opportunities associated with the automobile have expanded to affect almost every facet of our daily lives. We are a society that dines at drive-in restaurants, attends to our vestments at drive-in dry cleaners, invests at drive-in banks, and takes advantage of services offered at a myriad of other drive-in establishments. Whether or not the Pennsylvania Liquor Code (Code) allows the sale of alcoholic beverages through drive-in windows, in an analogous fashion to the services offered by the above establishments, is the subject of this unique appeal.
+On July 19, 1983, Burrell Food Systems, Inc. (Burrell) submitted an application for transfer of a Restaurant Liquor License to the Pennsylvania Liquor Control Board (Board). The restaurant premises, as purchased by Burrell, included a kitchen, two serving areas on the first floor, and one in the .basement. Burrell planned extensive remodelling of the restaurant, including the addition of a drive-in facility on the east side of the building such as those commonly found adjoining “fast-food” restaurants. This proposed drive-in facility would adjoin the bar, and include a cooler and freezer. An examination of the proposed restaurant plans shows that the only interior passageway from the restaurant into the drive-in facility is through the bar. The kitchen will be located in the rear of the building, separated from the drive-in facility by a salad bar serving area, a hallway, and the bar itself. Burrell proposed to sell not only food items through this facility in the same manner as “fast-food” establishments, but also to sell malted and brewed beverages in closed containers for consumption off the premises. The Board denied the application for transfer, baséd solely on the proposed addition of the drive-in window. Burrell appealed this decision to the Court of Common Pleas of Indiana County, which reversed the Board. This appeal followed.
+The sole issue before this Court is whether the Board erred in determining that the Code prohibited drive-in service of alcoholic beverages. In considering this issue, we must preliminarily note that the Code does not explicitly permit or prohibit drive through sales of alcohol from a restaurant. When statutory language is not explicit, legislative intent may be ascertained through administrative interpretation. Section 1921(c)(8) of the Statutory Construction Act of 1972, 1 Pa. C. S. §1921(c)(8); Carol Lines, Inc. v. Pennsylvania Public Utility Commission, 83 Pa. Commonwealth Ct. 393, 477 A.2d 601 (1984). The construction given a statute by those charged with its execution and application is entitled to great weight and should be disregarded or overturned only for cogent reasons and if such construction is clearly erroneous. Chappell v. Pennsylvania Public Utility Commission, 57 Pa. Commonwealth Ct. 17, 425 A.2d 873 (1981).
+. The purpose of the Code, which is applied by the Board, is to regulate and restrain the sale of liquor, not to promote it. Pennsylvania Liquor Control Board v. Starr, 13 Pa. Commonwealth Ct. 415, 318 A.2d 763 (1974), aff'd per curiam 462 Pa. 124, 337 A.2d 914 (1975) . When considering the purpose of the Code, wé cannot see that the Boards ruling in the instant matter is erroneous.
+The Boards regulations clearly give it power to delineate where sales are allowed on a licensed premises:
+No licensee may conduct any business permitted by his license on any other premises or any portion of the same premises other than that for which the license was issued without the approval of the Board for the inclusion of such additional premises in the license.
+Having authority to restrict licensed sales, the Board concluded that a restaurant license did not permit drive-in sales because such sales would constitute a sale and delivery off the licensed premises. The interpretation by an agency of its own regulations is controlling unless such interpretation is clearly erroneous or .inconsistent with the regulation or the regulation itself is inconsistent with the underlying legislative scheme. Diehl v. Department of Public Welfare, 88 Pa. Commonwealth Ct. 404, 489 A.2d 988 (1985). We cannot conclude that this ■ decision was clearly erroneous. The sale of alcohol through a drive-in facility would be made into an automobile. While the automobile would be on the premises, it would not be a part of such premises, and would not be within the control of the licensed premises.
+We are cognizant of the feet that Section 401 of the Code, 47 PS. §4-401, authorizes sales of malted or brewed beverages for consumption off the premises where sold in quantities of not more than one hundred forty-four fluid ounces in a single sale to one person. However, the fact that sales in the instant matter would be by delivering the beverage directly into an automobile removes it from the specific authorization of Section 401 of the Code, 47 PS. §4-401. No great speculation is needed. to see that a drive-in fecililty such as that proposed, here would create additional enforcement problems for the Board.
+The cases cited by Burrell do not mandate a reversal of the Board. In feet, Latrobe Country Club v. Pennsylvania Liquor Control Board, 31 Pa. Commonwealth Ct. 265, 273, 375 A.2d 1360, 1363 (1977), held that licensees with multiple locations or quarters on the same premises are. not ipso fecto entitled to extensions of their licenses. Latrobe recognized that the licensed premises only include that portion of the total premises named in the license, and extensions of service areas are discretionary with the Board. To be sure, the Board cannot simply foreclose consideration of reasonable extensions; however, where the Board is not clearly erroneous in deciding that an extension would violate the Code, we will not disturb such decision.
+The order of the trial court is reversed.
+Order
+And Now, May 7, 1986, the order of the Court of Common Pleas of Indiana County, No. 181 Mise. 1984, dated March 14, 1985, is hereby reversed.
+Senior Judge Kalish concurs in the result only.
+Act of April 12, 1951, P.L. 90, as amended, 47 PS. §§1-101—9-902.
+We must note that the location of the proposed drive-through facility suggests that there is some anticipation that the sales will primarily be of alcoholic beverages. Its proximity to the bar, and its distance from the kitchen, indicates less of an interest in the sales of prepared food, than in sales of liquor from the bar area.
+The trial court reversed on the ground that there was no specific section within the Code prohiviting such drive-in sales.
