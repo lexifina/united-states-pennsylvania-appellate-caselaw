@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 39"
+decided: "1962-06-13"
+citations: ["198 Pa. Super. 147"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Ervin, Wright, Woodside, Watkins, Montgomery, and Flood, JJ."]
+parties: ["Strang Unemployment Compensation Case."]
+source_url: "https://static.case.law/pa-super/198/cases/0147-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 758580
+cites_cases: ["110 A. 2d 792", "111 A. 2d 174", "145 A. 2d 863", "161 Pa. Superior Ct. 569", "172 Pa. Superior Ct. 649", "176 A. 2d 632", "177 Pa. Superior Ct. 236", "177 Pa. Superior Ct. 294", "188 Pa. Superior Ct. 429", "406 Pa. 163", "56 A. 2d 380", "93 A. 2d 878"]
+---
+
+# Strang Unemployment Compensation Case
+
+## Majority (Flood, J.,)
+
+Opinion by
+Flood, J.,
+The claimant has appealed from a decision of the Unemployment Compensation Board of Review denying him unemployment compensation benefits on the ground that he is not able to work or available for suitable work as required by section 401(d) of the Unemployment Compensation Law, 43 PS §801 (d).
+On April 28, 1981, the claimant, then age seventy-five and employed as a janitor, watchman and laborer by the Yiko Furniture Company, was involuntarily retired. In the identification, retirement and claimant questionnaires which he filed with the Bureau of Employment Security he stated that, if not recalled to his regular occupation, he would not accept other suitable work. He also stated that he could not accept full-time work immediately and was not then able, willing or available for full-time work because he had retired. Finally, he stated that he was not then able to do any type of work. At Ms interview the claimant said: “I would not want to work full time as I have worked long and steady. I could do some light work part time close to home. I would have continued working at Viko if allowed to as it did not involve much work or walking.”
+From a decision of the bureau disapproving his application the claimant appealed on the ground that he “could do some light work”. When asked at a hearing before a referee whether he was able or available for work, the claimant testified: “I will if I can find something I’m able to do . . . Yes, anything I’m able to do. I can’t do any heavy work. Any light work that isn’t too far away from home, I’ll take it. But I don’t like to drive too far . . .” When questioned by the referee about the statements he had made in the various questionnaires, the claimant testified: “. . . I told them like this, that I was willing to accept part time work, because I thought 1 needed a rest. I had worked down there six straight years to a day and in six years I lost 30 working days, and I had one week’s vacation; and I thought I needed part time work to get a little bit of rest. I was worn out. . .”
+From a decision of the referee affirming the order of the bureau the claimant appealed to the Unemployment Compensation Board of Review on the grounds that he erroneously had thought he was automatically eligible for benefits at the time he made application and that, in fact, he was able and willing to work. However, at a remand hearing ordered by the board the claimant testified only that “. . . the lady asked me if I would accept any suitable work. That is what I could do in connection with what I had been doing. I told her I would . . . I . . . told them I would accept any work that I was able to do. I wasn’t capable of going out and digging ditches any longer. Anything I was capable of doing I would do. I have also been looking for work. I don’t like to be idle ... If I can find any work that I am able to do I will accept it.” The board affirmed the decision of the referee upon findings that the claimant himself had indicated he was not able to work or available for suitable work.
+The findings of the Board of Review as to the facts, if supported by the evidence, are conclusive. Progress Manufacturing Co., Inc. v. Unemployment Compensation Board of Review, 406 Pa. 163, 176 A. 2d 632 (1962). Studying the testimony in the light most favorable to the party in whose favor the board has found and giving that party the benefit of every inference which can logically and reasonably be drawn from it, as we are required to do (Stillman Unemployment Compensation Case, 161 Pa. Superior Ct. 569, 56 A. 2d 380 (1948)), we conclude that the board was justified in finding that the claimant was not able to work or available for suitable work.
+Although given ample opportunity to explain his previous disqualifying statements, the claimant failed to give any reasonable explanation for them. He also offered little or no evidence that he was in fact able to work or available for suitable work. He merely indicated that he was willing to do any work which he was capable of performing. So far as the record shows he was capable of working only at some job similar to his old job, which, in his own words, “did not involve much work or walking”. Furthermore, he did not retract or satisfactorily explain his previous statements that he was “worn out” and could do only part-time work close to home.
+The claimant’s age, his own characterization of his physical condition, his description of the only type of work which he apparently was capable of performing, and the conditions and limitations which he attached to future employment furnished sufficient evidence to support the board’s finding that he was not able to work or available for suitable work. Cf. Gryshavicz Unemployment Compensation Case, 188 Pa. Superior Ct. 429, 145 A. 2d 863 (1958); Rabinowitz Unemployment Compensation Case, 177 Pa. Superior Ct. 236, 110 A. 2d 792 (1955) ; Kazmierski Unemployment Compensation Case, 172 Pa. Superior Ct. 649, 93 A. 2d 878 (1953).
+Since the claimant failed to establish to the satisfaction of the board that he was able to accept part-time work of a “substantial” nature, the board was not required to make findings relative to the claimant’s “reasonable opportunity for securing such [part-time] work” in the vicinity in which he lived. Compare: Shay Unemployment Compensation Case, 177 Pa. Superior Ct. 294, 111 A. 2d 174 (1955).
+Decision affirmed.
