@@ -1,0 +1,47 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 379 C.D. 1975"
+decided: "1975-10-31"
+citations: ["21 Pa. Commw. 483"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Kramer and Mencer, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania, State Real Estate Commission and Louis P. Vitti, Commissioner, Department of Professional and Occupational Affairs v. Earl L. Miller, II, RS, Appellant."]
+source_url: "https://static.case.law/pa-commw/21/cases/0483-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1870054
+cites_cases: ["299 A.2d 375", "309 A.2d 77", "7 Pa. Commonwealth Ct. 74", "9 Pa. Commonwealth Ct. 506"]
+---
+
+# Commonwealth v. Miller
+
+## Majority (President Judge Bowman,)
+
+Opinion by
+President Judge Bowman,
+Earl L. Miller, II, appeals from an adjudication and order of the State Real Estate Commission (Commission) suspending his real estate broker’s license for 180 days for violating Subsections 10(a) (1), 10(a) (2) and 10 (a) (7) of the Real Estate Brokers License Act. We affirm.
+The sequence of events leading to the Commission’s action began in 1970 when Joseph Costanzo deposited $5000 with his friend, Earl L. Miller, Sr., appellant’s father (who was a licensed real estate broker) toward the purchase of a building on Walnut Street in Pittsburgh. Although that sale was never consummated Miller, Sr. nevertheless retained the money until another building could be purchased. In the spring of 1971, appellant, who was then a real estate salesman in his father’s agency, approached Costanzo about the purchase of a building on Murray Street in Pittsburgh. At the time appellant informed Costanzo that Gulf Oil Corporation might be interested in purchasing the property so that they might be able to sell it shortly after purchase at a sizable profit. The possibility of that resale, however, disappeared before the date set for the purchase by them.
+Appellant also approached Julius Tamburi who was then renting space for his bar business in the Murray Street building. Tamburi was naturally interested in acquiring a part-ownership in the building in order to avoid the possibility that his lease might not be renewed. Appellant promised him a fifteen-year lease and so Tamburi expressed interest in entering into a partnership with appellant and Costanzo for the purpose of acquiring the building. Appellant also indicated to Costanzo that he ¡was arranging for the creation of a partnership, consisting of himself, Costanzo and Tamburi for the purpose of acquiring the Murray Street property. Costanzo and Tamburi were each to invest $5000 toward the purchase, while appellant would pay certain costs and perform services connected with the transfer and would also eventually act as a rental agent for the property. Costanzo’s $5000 investment was to be derived from the deposit he had placed with Miller, Sr. for the Walnut Street property.
+The seller of the property and the three would-be partners convened on December 1, 1971, the scheduled date for closing. However, Tamburi’s attorney was also present and he advised his client not to go through with the deal for several reasons which he later explained to the Commission:
+1) The documents necessary to create the partnership had not been drafted;
+2) Mrs. Tamburi and Mrs. Costanzo were required at the last moment to sign the mortgage, contrary to a previous understanding;
+3) a fifteen-year lease, which the appellant had promised for Tamburi’s bar business had not been drafted; and
+4) the possibility of the resale to Gulf Oil was discovered for the first time by Tamburi.
+The sale was consequently called off and a dispute arose between Costanzo and the two Millers over Costanzo’s initial deposit, only $2500 of which was returned.
+Costanzo subsequently filed a complaint with the Commission and after a hearing the Commission issued its order accompanied by findings of fact and conclusions of law. Unfortunately, Tamburi died before the hearing and Miller, Sr. was unable to testify because of a severe illness which has since led to his death.
+Appellant’s first contention is that the Commission’s findings of fact are not supported by substantial evidence. In particular he takes issue with the findings numbered six and eleven:
+“6. Respondent never conveyed to Costanzo the fact that Gulf Oil had no continuing interest in purchasing the land.
+“11. Respondent never informed his partner Costanzo about the 15 year lease promised to Tamburi (N.T. 64).”
+Appellant explains that the possibility of resale to Gulf Oil fell through before closing and that he therefore never suggested the idea to Tamburi. But he denies that he failed to notify Costanzo that Gulf was no longer interested. Furthermore, appellant asserts that Costanzo was informed about the fifteen-year lease arrangement with Tamburi.
+The testimony of Tamburi’s attorney and of Costanzo, however, supports both contested findings. According to Tamburi’s attorney, Costanzo expressed surprise at the closing upon learning of Tamburi’s expectation of a fifteen-year lease because Costanzo still expected to resell to Gulf. Moreover, Costanzo himself testified that at the time of the closing he first learned of Tamburi’s desire for a fifteen-year lease and that Tamburi did not know of the possibility of resale to Gulf until then. It is unfortunate that neither Miller, Sr. nor Tamburi were present at the hearing to aid the fact finder’s search for the truth. But we do not agree with appellant’s contention that their testimony was essential. The findings, as they stand, are adequately supported and it is beyond our scope of review to consider whether the appellant’s version of the facts was more credible.
+The appellant also challenges the Commission’s conclusion that his actions constituted violations of the Act. The Commission obviously believed that the appellant induced Costanzo and Tamburi into the partnership by means of separate contradictory assurances. Costanzo was viewing the purchase as an investment which could possibly turn a quick profit, whereas Tamburi viewed the deal as guaranteeing security that his business would remain in its present location. As the Commission saw it, neither was aware until closing of the facts which induced the other to invest. Appellant’s failure to disclose those facts fully is at least conduct demonstrating “bad faith” within the meaning of Subsection 10(a)(7). It is an agent’s imperative duty to inform his principal of every fact or circumstance which may affect his conduct. See Moore v. State Real Estate Commission, 9 Pa. Commonwealth Ct. 506, 309 A.2d 77 (1973).
+Appellant also places great emphasis upon Costanzo’s testimony that the purchase would have been a good investment even without the resale to Gulf. He argues that there was therefore no reliance. But even if we assume that Costanzo would have purchased without the possibility of that specific resale, we certainly cannot assume that he would have consented to tying the property to a fifteen-year lease before selling. Appellant also points to Costanzo’s testimony that he knew Tamburi’s rent would be increased while he remained in the building after the purchase. But we certainly cannot infer from this that Costanzo would have consented to Tamburi’s remaining in the building for fifteen years. In fact there was testimony that appellant had assured Costanzo that Tamburi’s bar business would be moving to another location across the street.
+Appellant also attempts to minimize the effect of the Commission’s findings that he failed to have the partnership documents ready by closing, as he had promised. We would agree that his carelessness in that regard, if standing alone, might not constitute “incompetency” so as to justify the suspension. But in the record before us, his failure to have the papers simply stands as a link in the chain of “bad faith.”
+Finally, appellant argues that he was not acting as a real estate salesman but rather as a purchaser in the transaction and that, therefore, Subsection 2(c), 63 P. S. §432 (c)i, takes him outside the purview of the Act. That subsection does make it clear that owners are not to be included within the meaning of “real estate broker” or “real estate salesman” simply because they perform certain acts with reference to their own property. But we hardly believe that all those who would otherwise be “brokers” or “salesmen” may escape enforcement of the Act as to all property in which they have or seek an interest. Our review of the entire record in this case indicates unmistakably that appellant used his professional status to attempt to bring about the sale. In fact his investment in the partnership appears to have consisted in part of his professional abilities. Having held himself out as a real estate salesman throughout, he is in no position now to escape the Act’s enforcement.
+We, therefore, issue the following
+Order
+And, Now, this 31st day of October, 1975, the order of the State Real Estate Commission is hereby affirmed.
+. Act of May 1, 1929, P.L. 1216, as amended, 63 P.S. §440 (a) (1), 440(a) (2), 440(a)(7).
+. Subsequent to the events described, the appellant himself became a licensed real estate broker.
+. See Fibus v. State Real Estate Commission, 7 Pa. Commonwealth Ct. 74, 299 A.2d 375 (1973).
