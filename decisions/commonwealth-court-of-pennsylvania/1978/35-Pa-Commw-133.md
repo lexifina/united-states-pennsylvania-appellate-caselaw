@@ -1,0 +1,40 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "485 C.D. 1976"
+decided: "1978-04-28"
+citations: ["35 Pa. Commw. 133"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr. and Blatt, sitting as a panel of three.", "Held: Preliminary objections sustained. Complaint dismissed."]
+parties: ["Independent Association of Pennsylvania Liquor Control Board Employees, Plaintiff v. Commonwealth of Pennsylvania and David Kerr, Executive Director for the Pennsylvania Liquor Control Board, Defendants."]
+source_url: "https://static.case.law/pa-commw/35/cases/0133-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1885923
+cites_cases: ["24 Pa. Commonwealth Ct. 532", "357 A.2d 732", "4 Pa. Code §28.2"]
+---
+
+# Independent Ass'n of Pennsylvania Liquor Control Board Employees v. Commonwealth
+
+## Majority (Judge Crumlish, Jr.,)
+
+Opinion by
+Judge Crumlish, Jr.,
+This case, invoking our original jurisdiction, necessitates our consideration of the preliminary objections raised by the Commonwealth to the amended complaint in equity of the Independent Association of Pennsylvania Liquor Control Board Employees (Association) .
+In February of 1974, the Retail Clerks Union, the certified employee representative of State Liquor Store Clerks, filed a grievance charging the Commonwealth with a violation of the provision of their colleetive bargaining agreement, calling for the phasing out of the “ ‘past practice’ which permitted Liquor Store Managers to perform as Clerks during substantial periods of their work day.” In accordance with the provisions of the collective bargaining agreement, the dispute went to arbitration. The arbitrator found that the Commonwealth had not complied with the provision in question and ordered “specific performance of the Commonwealth’s duty” under the disputed provision. Neither the Commonwealth nor the Retail Clerks Union appealed the arbitration award.
+In March of 1976, Association, the certified representative of the Managers for meet and discuss purposes, filed a complaint in equity which, in essence, asks this Court to set aside the award of the arbitrator and remand the matter for further proceedings in which Association would be permitted to participate.
+In its complaint, Association alleged that the managers have an absolute right to perform certain clerical functions at various times by virtue of job specifications, written agreement, past practice and efficient store operation. It contends that, despite this absolute right, it was not permitted to participate in the arbitration proceeding which resolved the dispute between the Commonwealth and the Retail Clerks Union. Association alleges that the Commonwealth’s actions were part of a collusive agreement between the Commonwealth and the Retail Clerks Union. Subsequently, Association amended one count of its complaint to include an averment that it had requested, but was denied, permission to participate in the arbitration proceeding.
+The Commonwealth filed preliminary objections to Association’s initial complaint, followed by a substantially similar set of preliminary objections to Association’s amended complaint. Raised within the objections is a demurrer to the complaint alleging a failure by Association to set forth material facts entitling plaintiff to the requested relief. Since we grant the preliminary objection raising the demurrer and dismiss Association’s complaint on that basis, we need not consider the remaining preliminary objections raised by the Commonwealth.
+It is beyond discussion that, for purposes of preliminary objections, well-plead factual averments of a complaint are admitted, but conclusions of law are not. Clearview Land Development Co. v. Kassab, 24 Pa. Commonwealth Ct. 532, 357 A.2d 732 (1976). As we have indicated, it is Association’s contention that its members have an absolute right to perform the functions in question. To support this allegation, Association relies first upon its class or job specifications. As the Commonwealth contends in its brief, no such specifications are attached to the complaint or are set forth therein. Furthermore, as the Commonwealth indicates, these specifications are unilaterally promulgated and changeable by the Commonwealth in accordance with the Commonwealth Personnel Buies, 4 Pa. Code §28.2. Clearly, where the Commonwealth possesses the authority to unilaterally promulgate these class specifications, it cannot be said that the specifications alone invest Association’s members with an absolute right to continue these functions.
+Association alleges, as its second basis for this absolute right, the existence of a “written agreement.” However, as part of the Memorandum of Understanding to which Association refers, is the following language :
+It is understood that this Memorandum and the recommendations contained herein, whether or not implemented in whole or in part, do not and shall not constitute a collective bargaining agreement or contract binding on the parties, but shall represent a meet and discuss understanding and Memorandum of Recommendations. . . .
+Carefully considering this language, it is clear to us that, by its very terms, no absolute right to perform certain functions can be said to emanate from this document itself.
+Moreover, the Memorandum states that [m]anagement personnel shall be expected to perform clerical duties and functions where it is impractical because of operational requirements to assign such management personnel to strictly management duties and functions.
+This is, in fact, consistent with the language contained within the collective bargaining agreement which gave rise to the arbitration proceedings in question. That agreement, although first calling for the phasing out of the disputed past practice, contains the following qualification:
+The provisions of this Article shall not apply to any store or situation where it is impractical because operational requirements demand that there be a co-mingling of Liquor Store Manager and Retail Clerk duties in order to operate and provide adequate services to the public.
+Next, Association relies in its complaint upon past practice to establish its “absolute right” contending that managers have performed the duties in question since 1934. We reject this notion also and agree with the Commonwealth in viewing as baseless the suggestion that the past performance of certain duties provides an employee with an absolute right to continue to perform these duties into the future. Section 207 (f) of the Liquor Code, Act of April 12, 1951, P.L. 90, as amended, 47 P.S. §2-207 (f), provides specifically that the Liquor Control Board is given the power to define the duties of both managers and clerks.
+Finally, we reject Association’s allegation that concepts of “necessity” furnish its members with an absolute right to perform the work in question based upon what it perceives is a need derived from the efficient operation of liquor stores. Clearly, the Liquor Control Board is the proper authority to determine the efficient manner of liquor store operations and presumably, it has properly exercised this responsibility in negotiating the bargaining contract between the Board and the Retail Clerks Union. It cannot be said that efficient store operation vests Association’s members with an absolute right to continue the duties in question.
+Since we hold that Association’s members have no absolute right to continue the activities in question, its basis for seeking to set aside the arbitration award in question fails and, therefore, we grant the Commonwealth’s demurrer and dismiss Association’s complaint.
+Accordingly, we
+Order
+And Now, this 28th day of April, 1978, the preliminary objections of the Pennsylvania Liquor Control Board are sustained and the complaint of the Independent Association of Pennsylvania Liquor Control Board Employees is hereby dismissed.
