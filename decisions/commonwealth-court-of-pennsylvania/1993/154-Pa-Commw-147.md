@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1814, 1815, and 1816 C.D. 1992"
+decided: "1993-03-10"
+citations: ["154 Pa. Commw. 147", "623 A.2d 388"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before COLINS and SMITH, JJ., and KELTON, Senior Judge"]
+parties: ["TEACHERS INSURANCE COMPANY, Petitioner, v. INSURANCE COMMISSIONER OF the COMMONWEALTH of Pennsylvania, Respondent (Three Cases)."]
+source_url: "https://static.case.law/pa-commw/154/cases/0147-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1443708
+cites_cases: ["126 Pa.Commonwealth Ct. 600"]
+---
+
+# Teachers Insurance v. Insurance Commissioner
+
+## Majority (COLINS, Judge.)
+
+COLINS, Judge.
+The Teachers Insurance Company (Teachers) petitions for review of two orders of the Insurance Commissioner (Commissioner). The orders, both of which were issued on August 13, 1992, deny Teachers’ requests for formal administrative hearings for the purpose of reviewing its refusal to renew the automobile insurance policies of Patricia A. Pieja (Pieja) and William Stinger (Stinger).
+Teachers’ brief recites the following facts: On May 11, 1992 and June 4, 1992, respectively, Teachers mailed notices of nonrenewal to Pieja and Stinger. By undated letter, Pieja asked the Insurance Department (Department) to investigate the nonrenewal of her automobile insurance. The certified record contains nothing regarding Stinger’s request for an investigation. The certified record contains letters, each of which is entitled “investigative report/order,” dated July 6, 1992, from Bill Manley of the Department to the underwriting department of Teachers stating that it is the Department’s finding that Teachers violated Section 3(a) of the Act of June 5, 1968, P.L. 140, as amended (the Act), 40 P.S. § 1008.3(a), which sets forth fourteen reasons for which an automobile insurance policy cannot be legally cancelled. According to Teachers, it requested hearings in both matters on July 20, 1992, and its requests were denied by the Commissioner on August 13, 1992, because they were untimely. According to the Commissioner’s order in each matter, Teachers’ “request for a formal administrative hearing was not received- by the Insurance Department until July 20, 1992 (by fax), 14 days after the Investigative Report/Order was mailed.”
+Teachers presents the following issue for this Court’s review:
+Whether the Insurance Commissioner’s dismissal of Teachers Insurance Company’s requests for administrative hearings, based on alleged ‘untimeliness’ of said requests, is unsupported by the record and in violation of due process rights where the Commissioner incorrectly relied on a date of ‘mailing’ rather than the date of ‘receipt’ as prescribed by applicable regulations; there is no evidence that the Insurance Department properly notified Teachers of the issuance of ‘investigative reports/orders’ in accordance with the Department’s regulations; there is no competent factual record to support the Commissioner’s finding of ‘untimeliness’; and Teachers was never afforded an opportunity or process in which to rebut the Commissioner’s finding of ‘untimeliness’?
+“Our scope of review is limited to a determination of whether constitutional rights have been violated, an error of law has been committed, or the findings of fact are not supported by substantial evidence.” Erie Insurance Company v. Foster, 126 Pa.Commonwealth Ct. 600, 603, 560 A.2d 856, 857 (1989).
+Teachers essentially argues that the Commissioner committed errors of law. According to Teachers, the Commissioner erred when she found that Teachers’ requests for administrative hearings were untimely, because the Commissioner based her determination on a time period beginning with the date the investigative reports/orders were mailed and not with the date that they were received by Teachers, as required by 31 Pa.Code § 61.6. Also, according to Teachers, the Commissioner erred, because she did not comply with 31 Pa.Code § 61.11, which requires that a specified representative be notified when the Department is asked to review a refusal to renew. Teachers asserts that the investigative reports/orders should have been directed to its specified representative rather than to the underwriting department generally.
+We agree with Teachers that the Commissioner erred by basing her determination of timeliness on a period beginning with the date that the investigative reports/orders were mailed, thereby denying Teachers administrative due process. 31 Pa.Code § 61.6 clearly provides that a request for formal administrative hearing be made within ten days of receipt of an investigative report/order. At oral argument, the Department asserted that receipt of an investigative report/order is presumed to have been effectuated within three days. To be timely, therefore, a request for a formal administrative hearing must be made within thirteen days of the date an administrative report/order is mailed. We can find no statute or regulation authorizing the Department to presume receipt within three days of mailing. Additionally, our review of the record reveals that Teachers promptly responded to the Department’s investigative reports/orders, by faxing its requests for administrative hearings to the Department within fourteen days of the date that the investigative reports/orders were mailed, on July 20, 1992.
+Accordingly, the appeal docketed to No. 1814 C.D.1992 is dismissed as moot, and the orders of the Commissioner in the matters docketed to Nos. 1815 C.D.1992 and 1816 C.D.1992 are vacated. The matters at 1815 C.D.1992 and 1816 C.D.1992 are remanded to the Department for formal administrative hearings.
+ORDER
+AND NOW, this 10th day of March, 1993, the appeal docketed to No. 1814 C.D.1992 is dismissed as moot, and the orders of the Commissioner in the matters docketed to Nos. 1815 C.D.1992 and 1816 C.D.1992 are vacated. The matters at 1815 C.D.1992 and 1816 C.D.1992 are remanded to the Department for formal administrative hearings. Jurisdiction is relinquished.
+. This matter consists of three consolidated appeals, but in a footnote to its Statement of the Case, Teachers indicates that the appeal docketed to 1814 C.D.1992 is moot, because the policyholder "withdrew any objection he may have had to the legal propriety of the nonrenewal.” Neither party’s brief addresses 1814 C.D.1992.
+. Although Teachers argues that there is not substantial evidence to support the Commissioner’s findings, essentially Teachers is arguing that the Commissioner made errors of law by not acting in accordance with the regulations implementing the Act.
+. 31 Pa.Code § 61.6 provides, in pertinent part:
+(c) Upon completion of the investigation a copy of the investigative report will be supplied to both the insured and the insurer. Within 10 days of receipt of the report either party may submit written comments for consideration by the Insurance Commissioner.
+(d) At the time written comments are submitted, if either the insured or the insurer desires a formal administrative hearing, the request shall be made.
+. Having determined that the Commissioner erred in her determination of timeliness, we will not address Teachers’ second argument regarding whether the investigative reports/orders should have been forwarded to its representative specified pursuant to 31 Pa.Code § 61.11.
