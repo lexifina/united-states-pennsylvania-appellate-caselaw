@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 132"
+decided: "1936-11-19"
+citations: ["124 Pa. Super. 213"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Kellee, P. J., Cunningham, Baldbige, Stadtfeld, Paekeb, James and Rhodes, JJ.", "Rhodes, J., dissented."]
+parties: ["Hickey’s Appeal."]
+source_url: "https://static.case.law/pa-super/124/cases/0213-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 993997
+cites_cases: ["120 Pa. Superior Ct. 69", "129 A. 565", "140 A. 865", "148 A. 301", "170 A. 267", "172 A. 103", "173 A. 283", "179 A. 582", "181 A. 854", "184 A. 657", "192 Pa. 458", "236 Pa. 97", "245 Pa. 515", "249 Pa. 208", "28 Pa. Superior Ct. 144", "283 Pa. 476", "292 Pa. 177", "298 Pa. 294", "314 Pa. 130", "314 Pa. 382", "315 Pa. 458", "319 Pa. 286", "321 Pa. 433", "43 A. 998", "84 A. 76", "91 A. 889", "94 A. 827"]
+---
+
+# Hickey's Appeal
+
+## Majority (Baldbige, J.,)
+
+Opinion by
+Baldbige, J.,
+This is an appeal from an assessment of $42,900 on premises 255-257 South 15th Street, Philadelphia, for the year 1935, made by the Board of Revision of Taxes. The court below found as a fact that the market value of the property was $43,470, . and sustained the assessment of the board.
+We recognize that in an appeal from an assessment of taxes, the findings of fact of the court below have great weight and are not to be disregarded unless error clearly appears: Westbury Apts. Inc. Appeal, 314 Pa. 130, 170 A. 267; Edmonds’ Appeal, 314 Pa. 382, 172 A. 103; East Side Land Co’s Appeal, 315 Pa. 458, 173 A. 283; American Academy of Music Appeal, 321 Pa. 433, 184 A. 657.
+A sale of the property involved in this appeal was held June 29, 1934, under partition proceedings in the orphans’ court in the estate of Matilda J. Baptist, deceased, owner at her death. In the stipulation of facts agreed to by the parties, it was set forth that the sale was made necessary in order to distribute the assets of the estate to those entitled and to pay the 1934 taxes. The sale was duly advertised, was well attended, and, after competitive bidding, the property was sold to the highest bidder for $19,000, subject to confirmation by the orphans’ court. The sale was finally confirmed by that court upon the purchaser’s raising his bid to $22,-500, which all the parties interested agreed to accept. The appellant’s real estate expert and the expert called by the appellee estimated the market value of the property at $26,400 and $43,470, respectively. The lower court held that under the facts presented the price obtained therefor was not its fair market value.
+The Act of May 22, 1933, P. L. 853, sec. 402 ( 72 PS §5020), provides that it shall be the duty of assessors to assess, rate and value all objects of taxation for whatever purpose “according to the actual value thereof, and at such rates and prices for which the same would separately bona fide sell.” This is but a re-enactment of former legislation, as it has long been well established that the valuation of real estate for the purpose of taxation shall be determined upon the basis of market or actual value: Penna. Stave Co.’s Appeal, 236 Pa. 97, 102, 84 A. 76. It was said in D. L. & W. R. R. Co. v. Luzerne Co. Commrs., 245 Pa. 515, 518, 91 A. 889: “What the law requires cannot be disregarded no matter how desirable some method not authorized might prove to be.”
+The question, therefore, before us is whether the assessment, as fixed by the learned court below, comes within the rule which defines “fair market value” to be such sum “a purchaser, willing but not obliged to buy, would pay an owner, willing but not obliged to sell” (Lehigh & Wilkes-Barre Co. Co.’s Assessment, 298 Pa. 294, 300, 148 A. 301); “such sum as the property will sell for to a purchaser desiring to buy, the owner wishing to sell;” “such a price as a capable and diligent business man could presently obtain from the property after conferring with those accustomed to buy such property” : Market St. Nat. Bk. et al. v. Huff et al., 319 Pa. 286, 288, 179 A. 582.
+In Sailer’s Appeal, 120 Pa. Superior Ct. 69, 181 A. 854, the assessment was fixed at $23,000, although the property was sold for $10,300 at a public sale, duly advertised and attended by a number of bidders. We held there that the sale price was the best evidence of the markét value of the property. It is true we were not dealing with a property sold under an order of court, but by a private owner. It is well recognized, however, that it is not only the power, but also the duty, of the orphans’ court, which has supervision of and control over the settlement of an estate, to see that a fair value is received: Orr’s Est., 283 Pa. 476, 479, 129 A. 565.
+In Schnebly’s Estate, 249 Pa. 208, 94 A. 827, the court used the term “real value” as the basis of approval of the sale of real estate. Such a test applies generally in the orphans’ court, whether the sale is made under a partition proceeding, or by virtue of an order for the payment of debts, or by an executor under a power conferred by a will, so that distribution may b¿ rendered possible to those designated by the .testator: McCullough’s Estate, 292 Pa. 177, 182, 140 A. 865. In the exercise of due discretion, the court may decline an offer for inadequacy of price alone, or set aside a sale and direct a resale, if the best interests of the estate so require: Brittain’s Estate, 28 Pa. Superior Ct. 144, 148.
+In Myers’ Estate, 192 Pa. 458, 43 A. 998, the question before the court was the approval of a sale by the assignee for the benefit of creditors. The court took occasion to point out the distinction between an ordinary sheriff’s sale, where inadequacy, of price, without more, affords no reason for setting aside the sale, and a sale under the order of the orphans’ court, where inadequacy of price alone is sufficient for setting it aside.
+Although the partition sale in 1934 was made necessary to attain the wishes of the owners to make a distribution of the proceeds among themselves and to pay the 1934 taxes, it was not forced in the sense that it was compelled to be made to pay liens against the property. In our judgment, it came under the category of a voluntary sale, and, therefore, the sale price was the market and true price, which fixed the basis on which the assessment should have been made.
+The decree of the lower court is reversed, and the record is remitted in order that a reduced valuation may be made in accordance with the views expressed in this opinion; costs in this appeal to be paid by the appellee.
+Rhodes, J., dissented.
