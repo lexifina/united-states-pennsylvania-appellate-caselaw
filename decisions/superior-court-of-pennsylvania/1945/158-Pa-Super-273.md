@@ -1,0 +1,35 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 183 to 187"
+decided: "1945-12-12"
+citations: ["158 Pa. Super. 273"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Baldrige, P. J., Rhodes, ‘Reno, Dithrioh, Ross and Arnold, JJ. (Hirt, J., absent)."]
+parties: ["Gates et al., Appellants, v. Gates et al."]
+source_url: "https://static.case.law/pa-super/158/cases/0273-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1063349
+cites_cases: ["132 A. 806", "16 A. 2d 418", "200 A. 26", "286 Pa. 17", "330 Pa. 579", "340 Pa. 107"]
+---
+
+# Gates v. Gates
+
+## Majority (Baldrige, P. J.,)
+
+Opinion by
+Baldrige, P. J.,
+On April 16, 1941, Mrs. Susan R., Gates, then a widow, conveyed by a fee simple deed premises described therein as 1525 Gregg Avenue, Kenhorst Borough, Berks County, to her son Jesse P. Gates and her daughter Mrs. R. Ellen Helfrich, the appellees herein, for the consideration of $1.00 and natural affection. Mrs. Gates died December 15, 1943. About eight months later five of her other children, these appellants, filed a bill in equity averring that at the time of the conveyance defendants orally promised their mother that they would hold the property for her use during her life and at her death for the benefit of all her children, and that it was upon that promise the deed was delivered. The plaintiffs prayed that the defendants be ordered to convey a 5/7 interest in the described premises to them in equal shares.
+The defendants in their answer denied that they made any- promise to their mother, or that she, in reliance upon such, an agreement, delivered the deed to them. They averred that they never asked her to convey the property to them; that they had nothing to do with the preparation of the deed and did not know of its existence until the day the mother executed it.
+The chancellor found that the proof failed to support the plaintiffs’ allegations in the bill that the defendants made an oral promise to their mother at the execution of the deed to hold the property in trust and accordingly denied the relief sought. Exceptions filed to the chancellor’s findings and conclusions of law were dismissed by the court sitting in banc.
+Appellants in their assignments of error advanced three propositions. We will confine ourselves to the last one as it is decisive of this appeal. It is directed to the failure of the chancellor to find as a fact that the testimony established that Mrs. Gates made an oral statement at the time of the delivery of the deed that the conveyance “was for the benefit of all the children” and to enter a decree that a trust relationship existed.
+Under our statute of April 22, 1856, P. L. 532, 33 PS §2, all declarations to create a trust of any lands, tenements, or hereditaments must be manifested by Avriting, signed by the party holding the title thereto: “Provided, That where any conveyance shall be made of any lands or tenements by which a trust or confidence shall or may arise or result by implication or construction of law, or be transferred or extinguished by act or operation of law, then and in every such case, such triist or confidence shall be of the like force and effect as if this act had not been passed.” Oral trusts are not regarded with favor by the laAV. A heavy burden lies upon the proponent of such a trust as it must be strictly proved by evidence that is direct, positive, express, and unambiguous : Dorr v. Leippe et al., 286 Pa. 17, 132 A. 806; Kirk et al. v. Ford et ux., 330 Pa. 579, 200 A. 26; Moffitt v. Moffitt, 340 Pa. 107, 110, 16 A. 2d 418.
+There is grave doubt whether the plaintiffs’ testimony, even if undenied and viewed in its most favorable light, was sufficient to raise a trust relationship and thus reform the written instrument. Mr. Shapiro, the alderman who acknowledged the deed, and Mr. Liever, the attorney who prepared it, were witnesses upon whom the plaintiffs principally relied to make out their case. The alderman testified that he asked Mrs. Gates if she understood that this deed was to her son and daughter and that she replied in the affirmative “but she said it was for all her children, and something was discussed— by who I couldn’t tell you — for the purpose of saving tax, some tax, saving taxes. I am not interested in those things.” He went on to say that again he explained the deed to her and she said she understood it and that she stated: “ ‘It is for the benefit of all the children.’ ”
+The attorney testified that the alderman explained to Mrs. Gates that she was conveying her property to two of her children and “she said something, being for all of them. I didn’t say much of anything after I introduced Mr. Shapiro. I merely stood there. She signed the deed; I witnessed it. . . .” On cross-examination he was asked: “You have some vague recollection that something was said ‘being for all of them.’ A. Something along that line. I can’t remember it clearly.”
+Harold, one of the appellants, conceded on the witness stand that without consulting the grantees in the deed, he arranged for the preparation of that instrument. If it was the grantor’s intent that the premises be held in trust by the grantees, no reason is advanced to explain why the deed was in its present form.
+The appellees testified that there were not any statements by their mother that the conveyance was máde tó them to hold the property for her during: her lifetime and thereafter for all the children, or that they held it in any way other than absolute owners as provided in the deed. The chancellor stated that he was unable to come to any clear conclusion that the mother intended to do anything more than the deed purports, and we think very properly held that the proof failed to. measure up to the standard required to establish a trust relationship. In such circumstances the chancellor was not bound to accept as true and correct the testimony offered by the plaintiffs.
+It would appear from the evidence that the mother, long a widow, probably had a very good reason for giving the property to the two children. Jesse, a bachelor, lived with her, largely maintained the home and contributed a substantial amount toward the cost of building the bungalow conveyed to him and his sister. Mrs. Helfrich, the daughter and other defendant, for a long period of time frequently visited her aging mother, who eventually became an invalid, cleaned the house and gave her personal care and attention.
+As indicated above, in view of our conclusion that a trust relationship did not exist, it is unnecessary to discuss the proposition that the silence of the grantees operated as an acceptance of the alleged trust.
+Nothing appearing on this record would justify our disturbing the findings and conclusions of the learned chancellor, affirmed by the court below.
+Decree of the court below in each of these five appeals is affirmed at appellants’ costs.
