@@ -1,0 +1,45 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 123 and 153"
+decided: "1939-07-13"
+citations: ["136 Pa. Super. 381"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Stadteeld, Parker, Rhodes and Hirt, J J."]
+parties: ["Sniderman et al., Appellants, v. Nerone et al."]
+source_url: "https://static.case.law/pa-super/136/cases/0381-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1018253
+cites_cases: ["124 Pa. 455", "137 A. 815", "159 A. 541", "17 A. 18", "171 A. 594", "261 Pa. 354", "290 Pa. 38", "306 Pa. 317", "314 Pa. 277", "333 Pa. 449", "5 A. 2d 529"]
+---
+
+# Sniderman v. Nerone
+
+## Majority (Keller, P. J.,)
+
+Opinion by
+Keller, P. J.,
+Appeal No. 123 is primarily a contest for priority between two attaching judgment creditors of Domenic Nerone.
+Nerone brought an action in trespass for personal injuries against Equitable Gas Company, hereinafter called Equitable, and on May 25, 1937 recovered a verdict for $2500.
+Two days thereafter Sniderman, the appellee, issued an attachment execution on his judgment and served the same on Equitable as garnishee.
+Equitable thereafter obtained a new trial in said action. On the retrial a verdict of $1000 was rendered in Nerone’s favor on April 13, 1938, which was not further contested.
+On April 13, 1938 Nerone assigned of record his verdict to his attorney, J. Thomas Hoffman; and on the same day, the appellant, Morris A. Hershenson issued attachments in execution on two judgments which he held against Domenic Nerone et al., which were served simultaneously on Equitable the same day at 3:30 o’clock P. M.
+Equitable has in its hands no money or property of Nerone except the said sum of $1000, representing the verdict in said action.
+On motion of the garnishee, the defendant, Nerone, his assignee, Hoffman, and the attaching creditors appeared and interpleaded to determine which of them was entitled to the said sum of $1000; and the matter was submitted to the court of common pleas for decision, reserving the right of appeal.
+The court, in an opinion by Judge Thomas M. Marshall, entered judgment in favor of Sniderman, “subject to the rights and interest of J. Thomas Hoffman, Esq.” in the fund, to the amount of his attorney’s fees, costs and legal expenses.
+Hershenson appealed from the judgment in favor of Sniderman (No. 123).
+Sniderman appealed from, the order making his judgment subject to the rights and interest of Hoffman (No. 153).
+(1) We are of opinion that the appeal of Hershenson to No. 123 must be dismissed.
+While we recognize that an unliquidated claim for damages for personal injuries is not assignable nor subject to attachment, when Sniderman issued and served his attachment execution the defendant in the judgment, Nerone, had a claim against Equitable which had been liquidated and was subject to attachment. We think this was sufficient to bind any moneys or property thereafter coming into the hands of the garnishee, up to the time of the trial of the attachment or judgment on interrogatories. The fact that a new trial was afterwards granted Equitable did not destroy this priority as respects any verdict or judgment thereafter obtained in the action.
+The case in our opinion is ruled in favor of Snider-man by the decisions of the Supreme Court in Frazier v. Berg, 306 Pa. 317, 159 A. 541, and Penna. Co., Exr. v. Youngman et al., 314 Pa. 277, 171 A. 594.
+It is well settled in this State that a defendant’s contingent interest in realty or personalty cannot be seized by attachment execution: Patterson v. Caldwell, 124 Pa. 455, 17 A. 18; Overbrook Heights Assn. v. Wilson, 333 Pa. 449, 453, 464, 5 A. 2d 529; but in Penna. Co., Exr., v. Youngman et al., supra, it was ruled that while a contingent interest under a will cannot be seized by attachment execution, it becomes subject to the attachment when it vests, like any other property afterward coming into the hands of the garnishee prior to trial, as laid down in Frazier v. Berg, supra.
+A distinction in this respect exists between attachments in execution and foreign attachments. The primary purpose of a foreign attachment is to compel a foreign non-resident to appear within the jurisdiction and defend the plaintiff’s claim; a secondary purpose is by attaching the foreign defendant’s goods and property to secure a fund or property out of which the plaintiff’s claim, when reduced to judgment, may be made. In foreign attachment, accordingly, it has been ruled (See Kennedy v. Schleindl, 290 Pa. 38, 40-43, 137 A. 815, and the long line of cases following it), that it is absolutely essential to the writ of foreign attachment taking effect that the garnishee on whom the writ is served have in his possession goods or property of the defendant at the time of the service of the attachment on him, or that, at that time, he be indebted to the defendant. This was well expressed by Mr. Justice Schaffer, speaking for the court in Kennedy v. Schleindl, supra, in part, as follows: “The foundation for the writ is the nonresidence of the defendant and the existence of property belonging to him within the jurisdiction. ‘The object of a writ of foreign attachment is to compel the appearance of defendant; and, to authorize such writ, he must have property within the jurisdiction of the court; otherwise there is nothing to attach and no means of compelling an appearance or of securing the plaintiff’s claim......The first object of such proceeding is to seize the property of the absent debtor; when there is none, the action falls ......It does not follow because such writ binds property thereafter coming into the hands of the garnishee, that it can be sustained without something in the first instance to attach’: Mindlin v. Saxony Spinning Co., 261 Pa. 354, 356. Unless there is some property of the defendant in the garnishee’s hands when the writ is served, it has nothing it can attach. It is not process directed against the garnishee, who is a stranger to the transactions between plaintiff and defendant, but against property in his hands. When there is no property in his keeping at the time of service, the writ is a water haul and service on the empty handed garnishee amounts to nothing.”
+If the garnishee has property in his hands belonging to the defendant at the time the writ of foreign attachment is served, the attachment is good and binds money and property subsequently received by the garnishee; but if when the writ is served the garnishee has nothing belonging or owing to the defendant, the attachment is fruitless and a nullity.
+This last rule does not apply to an attachment in execution, because of the difference in the characteristics and purposes of the two writs — the attachment in execution being designed to satisfy by execution process a judgment already obtained by the plaintiff against the defendant in regular course. Consequently an attachment in execution binds property coming into the hands of the garnishee after service of the writ, whether or not there was an attachable interest or property in his hands when the writ of attachment was served on the garnishee. As was said by Mr. Justice Linn, speaking for the Supreme Court in Penna. Co., Exr., v. Youngman et al., supra, p. 282: “When the attachment execution issued, defendant’s contingent interest could not be seized: Patterson v. Caldwell, 124 Pa. 455, 17 A. 18; but, from the time it vested, it became subject to the attachment, like any other property afterward coming into the hands of the garnishee prior to the trial: Frazier v. Berg, 306 Pa. 317, 325, 159 A. 541. Defendant did not plead to the writ, or move to dissolve for laches in prosecution, irregularity, or for any other reason. It, therefore, remained alive as a continuous assertion of the claim in the circumstances.”
+Accordingly the appeal in No. 123 April Term, 1939, is dismissed.
+(2) As to appeal No. 153, we are of opinion that it is premature and must be quashed.
+The judgment of the court below appealed from does not fix or determine the rights or interest of J. Thomas Hoffman, attorney for Nerone, subject to which judgment was entered for Sniderman. Until that is done in an appropriate proceeding an appeal will not lie. The appeal to No. 153 was probably taken by Sniderman to forestall any argument as to his being concluded by his failure to appeal at this time. We now hold that he is not so concluded, but will be entitled to appeal, if he chooses to do so, when a final determination is made as to Mr. Hoffman’s rights and interest in the controversy, and to raise then the validity of the order subjecting the fund awarded him, Sniderman, to the payment of Mr. Hoffman’s attorney fee, costs and legal expenses in connection with the recovery of the judgment of Nerone against Equitable.
+The appeal is quashed, without prejudice, etc.
+No. 123 — Appeal dismissed.
+No. 153 — Appeal quashed, without prejudice, etc.
