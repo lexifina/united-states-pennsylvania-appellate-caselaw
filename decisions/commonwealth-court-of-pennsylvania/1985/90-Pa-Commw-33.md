@@ -1,0 +1,42 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1575 C.D. 1984"
+decided: "1985-06-11"
+citations: ["90 Pa. Commw. 33"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Doyle and Barry and Senior Judge Kalish, sitting as a panel of three.", "Judge Williams, Jr., did not participate in the decision in this case."]
+parties: ["Commonwealth of Pennsylvania, Department of Transportation, Petitioner v. Mosites Construction Company, Respondent."]
+source_url: "https://static.case.law/pa-commw/90/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1336178
+cites_cases: ["20 Pa. Commonwealth Ct. 103", "239 A.2d 785", "251 Pa. Superior Ct. 351", "33 Pa. Commonwealth Ct. 485", "340 A.2d 652", "357 Pa. 271", "382 A.2d 767", "429 Pa. 289", "430 A.2d 328", "447 A.2d 1065", "457 A.2d 995", "54 A.2d 35", "59 Pa. Commonwealth Ct. 246", "67 Pa. Commonwealth Ct. 531", "72 Pa. Commonwealth Ct. 620"]
+---
+
+# Commonwealth v. Mosites Construction Co.
+
+## Majority (Judge Barry,)
+
+Opinion by
+Judge Barry,
+This appeal results from an order of the Board of Claims which found in favor of Mosites Construction Company (Mosites) against the Pennsylvania Department of Transportation (DOT) for $18,158.00 plus six percent interest.
+Mosites contracted with DOT for highway and bridge repair. A problem with payment arose when, after approving several prior payments based on the weight of bolts, nuts and washers, DOT advised Mosites that these items were incidental and would not be included in tbe weight of the steel for purposes of payment.
+The Board of Claims determined that the contract was ambiguous regarding the payment schedule for bolts, nuts and washers used in repairs, and that this ambiguity should be resolved against the drafter of the contract, DOT.
+Resolution of this appeal centers on certain contractual specifications. Item 2056-0130 of the Contract Specifications states, in part:
+This work will be paid for at the contract unit price per pound for Fabricated Structural Steel Repairs, Method 1 and Method 2, which price will include welding, painting, materials, equipment, tools, labor and work incidental thereto.
+Prior to bidding, DOT issued an addendum to the bidders which changed the estimated quantity of structural steel repairs from 7800 pounds to 14,056 pounds which change was noted on Sheet two of eight of the structural drawings. Two asterisks appear on this sheet next to the revised estimated quantity figure for Fabricated Structural Steel Repairs Methods 1, 2, 4 and 5. The following legend then appears at the lower left hand corner of Sheet two of eight of the structural drawings:
+* All quantities are approximate
+** Does not include weight of washers, and nuts and bolts, which are incidental
+*## j^em includes two separate units
+Mosites did not inquire about any discrepancies or conflicts in the drawings and the specifications. DOT also did not discuss the asterisks or the legend with Mosites.
+Our scope of review is limited to determining whether the order of the Board of Claims is in accordance with the law and whether the findings ■ of fact are supported by the evidence. Argeros and Co. v. Department of Transportation, 67 Pa. Commonwealth Ct. 531, 447 A.2d 1065 (1982). The function of contract interpretation and construction is a question of law peculiarly within the province of this Court. Department of Transportation v. Bracken Construction Co., 72 Pa. Commonwealth Ct. 620, 457 A.2d 995 (1983).
+It is DOT’s position that the Board of Claims erred because it ignored clear language on the notations of the construction drawings which indicated that the costs for the weight of the bolts, nuts and washers was incidental. It asserts that the whole instrument should have been given effect in interpretation of the contract and that the Board of Claims ’ finding that an ambiguity existed was error. DOT maintains that Mosites had the duty to read and be familiar with all the contract obligations but that it failed to do so. DOT finally contends that the language of the contract was clear and, therefore, extrinsic evidence should not have been allowed to contravene the express language of the documents.
+We must initially examine the contract documents and accord them “a reasonable interpretation, according to the intention of the parties at the time of executing them, if that intention can be ascertained from their language.” Percy A. Brown and Co. v. Raub, 357 Pa. 271, 287, 54 A.2d 35, 43 (1947). If a contract is reasonably susceptible of different constructions, is obscure in meaning through indefiniteness of expression or has a double meaning, then it is ambiguous. State Highway and Bridge Authority v. E. J. Albrecht Co., 59 Pa. Commonwealth Ct. 246, 430 A.2d 328 (1981). The intention of the parties must control the interpretation of the contract but if the intent is unclear from the words of the contract, we may examine extrinsic evidence including consideration of the subject matter of the contract, the circumstances surrounding its execution and the subsequent acts of the parties. Redevelopment Authority of Johnstown v. Tross, 20 Pa. Commonwealth Ct. 103, 340 A.2d 652 (1975). We, furthermore, may properly consider the course of prior dealings between the parties in interpreting an ambiguity. Bracken.
+In our view, an ambiguity exists regarding the payment schedule for bolts, nuts and washers used in the structural steel repairs. Originally, the estimated quantity of structural steel to be used on the bridge repairs was 7800 pounds which, by addendum, was changed to 14,056 pounds. DOT placed a double asterisk next to this quantity on Sheet number two which was part of a multiplicity of drawings and contract documents. Only on Sheet number two, and nowhere else, is there indication that the payment schedule for structural steel repairs would not include bolts, nuts and washers. By using the asterisks, DOT effectuated a change in custom since there was competent testimony, accepted by the Board of Claims, which indicated that in the course of prior dealings between the parties the weight of bolts, nuts and washers had been included in the final quantities for structural steel repairs. (N.T., pp. 19-23).
+The maxim expressio unius est exclusio alterius translates into the proposition that the mention of particular items implies the purposeful exclusion of other items of the same general character. Checker Oil Co. of Delaware, Inc. v. Harold H. Hogg, Inc., 251 Pa. Superior Ct. 351, 380 A.2d 815 (1977). Under Item 2056-0130 of the Contract Specifications it is clear that the items included in the structural steel repairs were “welding, painting, materials, equipment, tools, labor and work incidental thereto.” The items at issue, however, are not included as incidental to the repairs; therefore, DOT should have more explicitly excluded the quantity of bolts, nuts and washers used in the structural steel repairs from payment had it so intended. Otherwise, this contractual provision is susceptible to different constructions, obscure in meaning, or has a double meaning. State Highway and Bridge Authority.
+Finally, we believe that Mosites is entitled to the benefit of the rule of construction that ambiguity is resolved against the drafter of the contract. Hafer v. Schauer, 429 Pa. 289, 239 A.2d 785 (1968). Decisional law has created an exception to this rule, however, when government construction contracts contain an obvious or glaring ambiguity in which case a public contractor is obliged to inquire and attempt to resolve the problem before entering the contract. Bracken; Department of Transportation v. Brayman Construction Co., 33 Pa. Commonwealth Ct. 485, 382 A.2d 767 (1978). We stated, in Bracken, that an ambiguity which creates this duty is “not subtle, hidden or minor but patent, blatant and significant.” 72 Pa. Commonwealth Ct. at 627, 457 A.2d at 999 (citations omitted). We believe, however, that in the present case the ambiguity is not blatant nor glaring but rather subtle and hidden and, therefore, the duty to resolve the ambiguity should not be imposed upon Mosites.
+For the reasons set forth above, we affirm the Board of Claims.
+Judge Williams, Jr., did not participate in the decision in this case.
+Order
+Now, June 11, 1985, the order of the Board of Claims, entered May 2, 1984 at Docket No. 763, is affirmed.
