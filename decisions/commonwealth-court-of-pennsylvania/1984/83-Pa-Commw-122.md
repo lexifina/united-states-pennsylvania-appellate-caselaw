@@ -1,0 +1,51 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1868 C.D. 1983"
+decided: "1984-06-07"
+citations: ["83 Pa. Commw. 122"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogers, Craig and Colins, sitting as a panel of three."]
+parties: ["In Re: Ames Shopping Plaza, Wellsboro Borough, Tioga County, Pennsylvania. Ames Shopping Plaza, Appellant."]
+source_url: "https://static.case.law/pa-commw/83/cases/0122-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1322417
+cites_cases: ["161 Pa. Superior Ct. 221", "180 A.2d 900", "209 A.2d 383", "209 A.2d 397", "235 A.2d 793", "255 A.2d 906", "38 Pa. Commonwealth Ct. 525", "394 A.2d 663", "407 Pa. 567", "417 Pa. 213", "417 Pa. 249", "426 Pa. 583", "435 Pa. 129", "447 A. 2d 317", "54 A.2d 98", "67 Pa. Commonwealth Ct. 121"]
+---
+
+# In re Ames Shopping Plaza
+
+## Majority (Judge Craig,)
+
+Opinion by
+Judge Craig,
+Ames Shopping Plaza, a limited partnership, questions an order by the Court of Common Pleas of Tioga County, dismissing the shopping plaza’s appeal from a decision by the county’s Board of Property Assessment, which fixed the fair market value of the property for 1982 at $1,097,800 and the assessed value at 50% of market value, or $548,900.
+We have been asked to decide if the trial court, in refusing to reduce the board’s assessment, (1) ignored relevant, credible, and unrebutted testimony concerning the shopping plaza’s fair market value and (2) relied on irrelevant evidence drawn from a federal income tax return of the taxpayer. Mindful that we must give the findings of the trial court great force and will not disturb its decision absent proof of an abuse of discretion, lack of supporting evidence, or clear error of law, Appeal of Chartiers Valley School District, 67 Pa. Commonwealth Ct. 121, 125-26, 447 A. 2d 317, 320 (1982), we affirm.
+Prom 1977 to 1980, the shopping plaza was subject to the county’s five-year graduated tax incentive plan designed to provide tax relief for new businesses in their first years of operation; under the plan, the taxing authorities assessed the property as follows:
+1977 Market Value = 1,075,530
+1977 16% assessment rate = $172,100 assessment
+1978 18% = $193,600
+1979 22% = $236,600
+1980 25% = $268,900
+In 1981, the county increased the overall assessment rate from 33%% to 50% and extended the benefit of the tax incentive plan to the shopping plaza, applying a 37%% assessment rate. With the expiration of the extended tax incentive plan, the shopping plaza was subject to the full tax and assessment rates otherwise generally applicable in the county.
+The board offered in evidence the assessment record. , The shopping plaza offered two independent appraisals of fair market value. Leroy E. Kean, a licensed Pennsylvania real estate broker and general partner of the property, stated that the fair market value of the shopping plaza was $650,000; by way of deposition, Mr. Joel D. Kulich, MAI, found the value to be $790,000. Thereafter, the board offered into evidence the shopping plaza’s limited partnership tax return for 1982 and the pnrchase price paid for the property in 1977.
+The shopping plaza first contends that the trial court committed clear error by ignoring the allegedly credible testimony of Messers. Kean and Kulick. We cannot agree.
+In Deitch Co. v. Board of Property Assessment, 417 Pa. 213, 209 A.2d 397 (1965) (rehearing denied), our Supreme Court described the proper order of proof in tax assessment cases as follows:
+The proceedings in the trial court are de novo and the proper order of proof in cases such as the present one has long been established. The procedure requires that the taxing authority first present its assessment record into evidence. Such presentation makes out a prima facie case for the validity of the assessment in the sense that it fixes the time when the burden of coming forward with evidence shifts to the taxpayer. If the taoopayer fails to respond with credible, relevant evidence, then the taxing body prevails. But once the taxpayer provides sufficient proof to overcome its initially allotted status, the prima facie significance of the Board’s assessment figure has served its procedural purpose, and its value as an evidentiary device is ended.
+Of course, the taxing authority always has the right to rebut the owner’s evidence and in such a case the weight to be given to all the evidence is always for the court to determine. The taxing authority cannot, however, rely solely on its assessment record in the face of countervailing evidence unless it is willing to run the risk of having the owner’s proof believed by the court. Where the taxpayer’s testimony is relevant, credible and unrebutted, it must be given due weight and cannot be ignored by the court. It must necessarily be accepted. [Emphasis added.]
+417 Pa. at 221-22, 209 A.2d at 402. See also Calcagni v. Board of Assessment Appeals, 38 Pa. Commonwealth Ct. 525, 527, 394 A.2d 663, 664 (1978).
+Here, a fair reading of the record supports the board’s view that the trial court basically rejected, as incredible, the market value testimony of the shopping plaza’s expert witnesses. Cf. Appeal of F. W. Woolworth Co., 426 Pa. 583, 586, 235 A.2d 793, 795 (1967) (no fair reading of record supports board’s contention that court below basically rejected market value testimony of taxpayers’ expert witness).
+For example, the court found that both appraisers lacked a specific factual basis for their conclusions and impermissibly relied to a certain extent on tax/income ratios. The’ trial court also made the following observations :
+It should be mentioned at this point that both appraisals advanced by appellant contain certain internal weaknesses that diminish their credibility. First, Mr. Kean’s appraisal was admittedly a rough approximation. No explanation was offered of how the composite capitalization rate of 12% used in the calculation was derived. Second, Mr. Kulich admitted that his appraisal “does not fully meet the usual standards of my office or generally accepted standards for a formal appraisal as set forth by the American Institute of Real Estate Appraisers.” Finally, although not explicit in the calculations, both appraisals expressed a certain reliance on comparisons of tax/income ratios discussed and rejected above. These comparisons were mentioned as a justification for the results achieved but nonetheless cast doubt on whether the considerations behind the appraisals were income security or fair market value.
+Although the trial court made no explicit finding of incredibility, we construe the court’s discussion to mean that the shopping plaza never met its evidentiary burden under Deitch. See Mathies Coal Co. Appeal, 435 Pa. 129, 138 n.1, 255 A.2d 906, 910 n.1 (1969) (rehearing denied). With insufficient evidence to support a finding that the total assessment was incorrect, the trial court had no alternative but to allow the board’s assessment to stand and dismiss the appeal. Id.
+The shopping plaza also contends that the trial court erred by relying partly on the partnership’s 1982 federal tax return. We agree that the return’s content was irrelevant to fair market value, but we conclude that the error was harmless.
+The trial court observed that, on a particular line in Schedule L of its partnership return, the limited partnership listed assets at $1,566,793; the court concluded that “[s]uch evidence of value carried on landowners books while not conclusive is credible and relevant to show fair market value.”
+The $1,566,793 figure, however, referred only to the value of “Buildings and other depreciable assets”, as placed in service in 1978; it therefore did not directly point to the value of the entire property in 1982. See Rieck Ice Cream Co. Appeal, 417 Pa. 249, 251, n.1, 209 A.2d 383, 384 n.1 (1965) (rehearing denied) (evidence should be directed to value of entire property, not merely to value of building on property).
+Even if the trial court had focused on a tax return figure which reflected the value of the entire property, with improvements depreciated for income tax purposes, we would be bound to regard that figure as irrelevant to a determination of fair market value. Market value is “the price which a purchaser, willing but not obliged to buy, would pay an owner, willing but not obliged to sell, taking into consideration all uses to which the property is adapted and might in reason be applied.” Buhl Foundation v. Board of Property Assessment, 407 Pa. 567, 570, 180 A.2d 900, 902 (1962). A depreciated value (i.e., adjusted basis) for real estate with improvements as stated in a federal income tax return is not fairly comparable to market value, even for the year of that return, because it is a figure developed by subtracting depreciation, according to federal income tax regulations, from the original cost (basis). Federal income tax laws provide for a variety of depreciation methods, and we cannot say that pursuing any one of them leads to present market value.
+Had the shopping plaza come forward with sufficient proof to overcome the board’s prima facie case, the partnership’s 1982 tax return — offered by the board as rebuttal evidence — would not have been competent to serve as countervailing evidence of market value. As noted above, however, the testimony of Messrs. Kean and Kulick was insufficient in the first instance to overcome the hoard’s prima facie case.
+Accordingly, we affirm.
+Order
+Now, June 7, 1984, the order of the Court of Common Pleas of Tioga County, No. 859, dated October 8, 1982, is affirmed.
+See Finding of Fact No. 9.
+The shopping plaza also contends that the trial court improperly weighed the evidence in considering the 1977 purchase price of the property. Because the shopping plaza never met its evidentiary burden under Deitch, we need not consider this challenge to the board’s rebuttal evidence. However, the sale price of land, while never controlling, is always an element of market value, Herold v. Butler Board, of Revision and Appeals, 161 Pa. Superior Ct. 221, 227, 54 A.2d 98, 101 (1947), and the weight given this factor was for the trial court to determine. Deitch, 417 Pa. at 222, 209 A.2d at 402.
