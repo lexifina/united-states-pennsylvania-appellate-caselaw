@@ -1,0 +1,36 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 135 C.D. 1976"
+decided: "1976-11-19"
+citations: ["27 Pa. Commw. 190"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to President Judge Bowman and Judges Mencek and Blatt, sitting as a panel of three."]
+parties: ["David Padilla v. Chain Bike Corporation and Workmen’s Compensation Appeal Board of the Commonwealth of Pennsylvania. David Padilla, Appellant."]
+source_url: "https://static.case.law/pa-commw/27/cases/0190-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1877320
+cites_cases: ["12 Pa. Commonwealth Ct. 579", "158 Pa. Superior Ct. 22", "205 Pa. Superior Ct. 255", "208 A.2d 887", "22 Pa. Commonwealth Ct. 543", "317 A.2d 355", "350 A.2d 212", "43 A.2d 408"]
+---
+
+# Padilla v. Chain Bike Corp.
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+In this case, David Padilla. (claimant) appeals from an order of the Workmen’s Compensation Appeal Board (Board) which dismissed his appeal and thus denied him benefits under The Pennsylvania Workmen’s Compensation Act (Act).
+The questions presented to this Court are three: whether the employer, Chain Bike Corporation (Bike), was given notice of claimant’s injury as required by Sections 311, 312, and 313 of the Act, 77 P.S. §§631-33; whether the claim for compensation is barred by the statute of limitations contained in Section 315 of the Act, 77 P.S. §602; and whether claimant proved that his disability was caused by a work-related injury. Because we will answer the first question in the negative, we need not reach or consider the others.
+The applicable law requires that unless the employer, or any agent of the employer regularly employed at the place of employment of the injured employee, has knowledge that a certain employee received an injury in the course of his employment on or about a specified time, at or near a place specified, within one hundred and twenty days after the occurrence, no compensation shall be allowed. The purpose of requiring such notice is, of course, to protect the employer from claims for accidental injuries of which he would have no knowledge, made after opportunity had passed for a full and complete examination thereof. Canterna v. United States Steel Corp., supra note 3; accord, Workmen’s Compensation Appeal Board v. Paris Neckwear Co., 22 Pa. Commonwealth Ct. 543, 350 A.2d 212 (1976). The time limit is mandatory and cannot be extended. Paris Neckwear, supra; Canterna, supra note 3.
+Claimant filed a petition for compensation for disability on February 21,1973, averring that he had sustained a back injury in “late October, 1971.” Claimant’s position before this Court is that within one hundred and twenty days of the injury Bike had knowledge of the occurrence sufficient to satisfy the Act. In particular, claimant asserts that Bike obtained knowledge, in either one of two ways. First, a foreman who was charged, inter alia, with filing accident reports for Spanish-speaking individuals (such as claimant) was advised a week or so after the injury that claimant had fallen and had been hurt. Second, an officer of Bike is alleged to have learned of the accident either through the foreman or through conversations with claimant’s physician, claimant’s brother, and with claimant himself while he was in the hospital.
+With regard to the first contention, the record supports a finding that the foreman’s duties included filing accident reports for Spanish-speaking persons. The foreman’s knowledge will be charged to Bike if he is a person “ ‘whose position justifies the inference that authority has been delegated to him by the employer, as his representative, to receive a report or notice of such accidental injury.’ ” Canterna, sufra note 3, 12 Pa. Commonwealth Ct. at 583, 317 A.2d at 357. We hold that the foreman’s position justifies such an inference, and his knowledge will therefore be charged to Bike. However, the record is unclear as to what the foreman knew about the accident. While it appears he knew claimant had fallen, it is unclear whether he also knew what type of accident had occurred, whether it had occurred in the course of employment, and, with any certainty, when it had occurred. Unless the foreman had actual knowledge of all these elements, the notice requirements of the law have not been satisfied. Regarding the knowledge of Bike’s officer, the claimant offered testimony that the foreman had fully discussed the accident with the officer and that the officer had also learned of the accident and its attendant circumstances through conversations with claimant, his brother, and his doctor. However, such knowledge was repeatedly denied by the officer, who asserted that he had not learned of the circumstances surrounding the accident until between eight months and one year after it had occurred.
+The referee assessed the testimony of the foreman regarding the extent of his actual knowledge and weighed the conflicting testimony concerning the notice given Bike’s officer. In reaching his decision, the referee (and hence the Board) relied heavily on evidence that claimant continued to work for about two weeks after his fall and that about two months elapsed before he ever consulted his physician. Bearing in mind that in a workmen’s compensation case questions of credibility and resolution of conflicting testimony are for the referee, not the reviewing court, and that a finding supported by sufficient competent evidence will not be disturbed although there is evidence to the contrary, we cannot say the referee erred in finding that “ [t]he claimant failed to prove timely and/or reasonable notice was given to the Employer, if at all, thus disenabling the Employer from adequately defending the allegations contained in the claim petition. ’ ’
+Accordingly, we issue our
+Order
+Now, this 19th day of November, 1976, the order of the Workmen’s Compensation Appeal Board dismissing the claim of David Padilla is affirmed.
+Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §1 et seq.
+Insofar as claimant’s injury is alleged to have occurred in “late October, 1971,” the sweeping substantive amendments to the Act (Act of February 8, 1972, P.L. 25, and Act of March 29, 1972, P.L. 159) do not apply and this case is governed by prior “accident” law. See generally 1 A. Barbieri, Pa. Work. Comp. §3.00 et seq. (1975).
+See Sections 311-13 of tlie Act. Although these procedural sections were amended in 1972 to make knowledge rather than formal notice the criterion, prior judicial construction had mandated a requirement equivalent to the knowledge standard sanctioned by the amendments. See Canterna v. United States Steel Corp., 12 Pa. Commonwealth Ct. 579, 317 A.2d 355 (1974). Prior case law charged employers with the knowledge of their agents in much the same way as do the 1972 amendments to Section 313. See McCann v. Cross Brothers Meat Packers, Inc., 205 Pa. Superior Ct. 255, 208 A.2d 887 (1965); see generally 1 A. Barbieri, Pa. Work. Comp. §5.40 (1975).
+Canterna, supra, note 3; Wilkinson v. United Parcel Service of Pennsylvania, Inc., 158 Pa. Superior Ct. 22, 43 A.2d 408 (1945).
+See Wilkinson, supra note 4.
