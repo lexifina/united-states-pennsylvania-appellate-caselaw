@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 688 C.D. 1975"
+decided: "1976-01-08"
+citations: ["22 Pa. Commw. 562"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Mencer, Rogers and Blatt."]
+parties: ["Appeal of James J. Foltz, Jr. From Zoning Hearing Board of Borough of Monroeville. Henry J. Borden, et al., Appellants."]
+source_url: "https://static.case.law/pa-commw/22/cases/0562-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1871569
+cites_cases: ["13 Pa. Commonwealth Ct. 309", "14 Pa. Commonwealth Ct. 515", "290 A.2d 269", "296 A. 2d 300", "318 A.2d 410", "6 Pa. Commonwealth Ct. 462", "822 A. 2d 787"]
+---
+
+# Appeal of Foltz
+
+## Majority (Judge Crumlish, Jr.,)
+
+Opinion by
+Judge Crumlish, Jr.,
+For a third time in the history of this complex litigation, this Court is visited with the opportunity to review a facet of landowner James J. Foltz, Jr.’s application for building permits to construct a shopping center in the Borough of Monroeville. In the two previous decisions in this case, we exposed the facts underlying these appeals, but due to the complexity, we reluctantly review the relevant mile posts.
+On October 8, 1970, Foltz appealed to the Zoning Hearing Board of the Borough of Monroeville (Board) when he was denied an application for building permits to construct a shopping center. That challenge was bottomed on procedural invalidity of the ordinance, and in the alternative requested a variance to develop commercially that portion of the property which was zoned residential. The Board’s denial of that appeal, entered some forty-six days after its last hearing, was initially challenged in mandamus to compel issuance of the permits pursuant to Section 908(9) of the Pennsylvania Municipalities Planning Code (MPC), Act of July 31, 1968, P.L. 805, as amended, 53 P.S. §10908(9). In that Foltz decision, on appeal to us, we sustained Foltz’s contention that the Board’s decision, having been recorded beyond the statutory forty-five day limit was deemed favorable to the applicant.
+In addition to the mandamus action in which Foltz was the ultimate victor, he had filed a precautionary zoning appeal (Foltz Appeal) from the “seemingly adverse” Board ruling. Protesting neighboring property owners, Henry J. Borden, et ah, were there permitted to intervene as appellees. After achieving success in the mandamus action, Foltz endeavored to discontinue and withdraw his zoning appeal which was then pending in the Court of Common Pleas. Our second decision in this matter was a result of Foltz’s appeal of the court below’s striking of the discontinuance and withdrawal, and the allowance of the intervening protestants to continue as appellants in the zoning appeal. To add to the confusion, the protestants in Foltz Appeal filed their own appeal (Bordon Appeal) from the July 22, 1971 Board decision, after the court below had granted summary judgment in Foltz’s mandamus proceeding. Foltz then intervened as an appellee-applicant in that appeal and moved to quash the appeal because it had not been filed within thirty days of receipt of actual notice of the Board’s deemed decision.
+Our second decision quashed the Foltz appeal on the ground that he had failed to file the appeal within twenty days of the lower court’s interlocutory order, and further, we held that appeal to the court below in the Borden Appeal was untimely.
+Seemingly, in response to our failure to dispose of the discontinuance and withdrawal sought by Foltz in his zoning appeal, Foltz filed a motion to quash in the court below because the intervenors Borden et ah, were pressing appeal as appellants, their own appeal having been quashed by our second decision. That court granted Foltz’s motion to quash “his” appeal on the following grounds:
+Since Foltz as appellant was in reality appealing a decision of the Board which had been held invalid by the Commonwealth Court in which the intervenors as appellees were defending a Board decision which was vacated, they were attempting to breathe life into a moot appeal by usurping Foltz’s standing as appellant, with no independent standing upon which to rest their claim to the position of appellant.
+We agree with Judge Farino’s characterization of the Protestants’ final procedural device to foil the Foltz application. As urged by Foltz, and as accepted by the court below, the instant situation is not unlike that which arose in Northampton Residents Ass’n. v. Northampton Township, 14 Pa. Commonwealth Ct. 515, 822 A. 2d 787 (1974). We there stated:
+“As to the petition to intervene filed by intervenors, we must affirm its dismissal by the court below. As noted above, the Association had no standing to institute this action, and therefore, such action was a nullity from its institution. The intervenors, although they might have had standing on their own to appeal in the first place, were seeking now to substitute themselves for the Association and thus breathe new life into this proceeding by attempting to intervene well over thirty days after the effective dates of the ordinances in question and this is clearly impossible. Frank v. Zoning Hearing Board, 6 Pa. Commonwealth Ct. 462, 296 A. 2d 300 (1972)”. Northampton Residents Ass’n. v. Northampton Township, supra, 14 Pa. Commonwealth Ct. at 522, 322 A. 2d at 791-92.
+Our initial decision in the mandamus action held as a matter of law that the Board’s failure to render a decision within the allowable forty-five (45) day period of Section 908(9) of the MPC, constituted a favorable determination of the permit applications by Foltz. This being so, Foltz was not “aggrieved” by the decision of the Board and therefore had no standing to initiate his precautionary zoning appeal. Since this (Foltz Appeal) was a nullity, intervenor protestants Borden, et al., could not intervene in non-existent litigation. Hence, intervenors cannot now assume to gain standing as Appellants in Foltz Appeal for 1) Foltz had no standing, 2) their standing, if at all, was as Appellees, and not as Appellants, and 3) dispositive is the fact that indisputably the appeal was a nullity.
+Most certainly the Borden interests were aggrieved by the Board decision, favorable to Foltz by operation of law, and it is not disputed that the Borden appeal therefrom was valid with respect to Borden’s standing, however, we quashed that appeal as being untimely and protestants Borden cannot now, after failing in their own appeal, bootstrap themselves into a position whereby they may relitigate the issue of the Board’s decision.
+Affirmed.
+. Foltz v. Zoning Hearing Board of the Borough of Monroe-ville, 13 Pa. Commonwealth Ct. 309, 318 A.2d 410 (1974) (zoning appeal); Foltz v. Monroeville, 5 Pa. Commonweath Ct. 304, 290 A.2d 269 (1972) (mandamus appeal).
+. We found it unnecessary to reach the withdrawal and discontinuance question as the timely appeal question was dis-positive.
