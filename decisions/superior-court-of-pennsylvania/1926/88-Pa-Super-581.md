@@ -1,0 +1,39 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 1"
+decided: "1926-07-08"
+citations: ["88 Pa. Super. 581"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, P. J., Henderson, Trexler, Keller, Linn, Gawthrop and Cunningham, JJ."]
+parties: ["Hawk et al. v. Hawk et al., Appellants."]
+source_url: "https://static.case.law/pa-super/88/cases/0581-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 667292
+cites_cases: ["147 Pa. 256", "232 Pa. 493", "42 Pa. Superior Ct. 542", "42 Pa. Superior Ct. 547", "72 Pa. 314", "9 Watts 341"]
+---
+
+# Hawk v. Hawk
+
+## Majority (Cunningham, J.,)
+
+Opinion by
+Cunningham, J.,
+The issue out of which this appeal arose was framed by the court below, sitting in equity, and certified to the law side of that court to be tried as an action of ejectment. Appellants were the defendants in said issue and the appellees sought to recover possession from them of a tract of land in Huntingdon County, containing eighteen acres, used as the headquarters of a hunting club and having a small lodge thereon erected.
+The plaintiffs presented a point for binding instructions which the trial' judge reserved ¡and instructed the jury to return a verdict for defendants. Upon plaintiffs’ motion for judgment n. o. v. the court below directed judgment to be entered in their favor and the defendants appealed. The single assignment charges error in the sustaining of this motion.
+It was admitted on both sides of the case that the title to the land in dispute was vested in Wilbur H. Foster prior to 1915. On January 27, 1915, the said Foster and his wife executed a deed therefor, purporting to convey the same to * ‘ The F'oster Hunting Club of Blair County” for a consideration of $300, and it is under this deed that defendants claim.
+This club is an unincorporated association and under the evidence seems to have originated, in so far as its name is concerned, as far back as 1904. In. that year Harry H. Hawk, one of the plaintiffs, in association with two of his brothers, Charles E. Hawk, another plaintiff, and N. F. Hawk, one of the defendants, being desirous of securing a location for a hunting lodge, purchased a half acre of land in Diamond Valley from the said Foster, built a small club house thereon and made it their headquarters for a number of hunting seasons. Shortly thereafter two men by the name of Brubaker, one of whom is one of the present plaintiffs, associated themselves with the Hawk brothers in their annual hunts. This group was known as the “Foster Hunting Club.” The personnel of the hunting party increased 'and changed from season to season until the year 1920, when a situation arose which is described by the said H. H. Hawk in his testimony in the following language:
+“A. I got tired keeping the men and their families and hired girl and taking the grub there, iand finally I put up a kick about what was going on, unless they would reimburse me. I had $1100 in the clubhouse, I had to keep it up, pay the taxes and pay for these people being hauled back and forth. I had to pay for the coal. I paid for the light, and they wouldn’t reimburse me. When they went they would pay just enough money to buy grub, and some — \
+Q. What happened in 1920?
+A. When I put up a kick about it, I wanted them to pay me some money, they got to holding meetings at houses and selling fellows shares.”
+By 1923 the club had a written constitution and bylaws, in which it was stated that it had been organized “for the preservation of fish and game, and to hunt and fish.” Under the by-laws members were required to pay $50 “as security for dues, fines and assessments incurred by the members,” and monthly dues of $1 “to defray the expense of our clubhouse and hunting expedition.” Certain sections of the by-laws provide for the taking of non-members on the fall hunt under certain conditions 'and many of the articles regulate the conduct of the hunt under a captain having control of the hunt and the camp, etc.
+The increase in the membership of the hunting club seems to have occurred about 1912, and after the delivery of said deed for siaid eighteen acres which, as we understand it, includes the half acre originally purchased, the old clubhouse was torn down and a new one erected on the tract.
+The consideration set forth in siaid deed was $300 and there is no evidence that any of the defendants in this case contributed any part of 'the money paid to Foster for the eighteen acres, with the possible exception of the said N. F. Hawk, and as he is named as one of the grantees in the deed hereinafter referred to his interest is protected. H. H. Hawk testified positively that he negotiated with Foster for the purchase of the eighteen acres in the fall of 1914 for $300 and paid him $275 because it was agreed that he should pay for seventeen and one-half acres, having previously acquired the said half acre. Such contributions as were made by the defendants from time to time were for the purchase of supplies during the hunting seasons.
+Controversies arose within the membership of the club with respect to the ownership and possession of the clubhouse and the tract in question; sometimes one and at other times the other group were in possession.
+Under date of August 4, 1923, the said Foster and his wife executed 'and delivered, for a consideration of $1, to the said Harry H. Hawk and the other four plaintiffs another deed for said eighteen acres, in which is contained the following recital:
+“Being also the same property which the grantors hereto attempted and intended to convey to the grantees herein by deed dated the 27th day of January, 1915, and recorded in the Recorder’s Office in and for the County of Huntingdon, in Heed Book Yol. A. No. 6, page 3, wherein the grantees herein were styled The Foster Hunting Club of Blair County. This deed being intended to legally convey the same premises to the said grantees herein.”
+The evidence does not justify the contention of appellants to the effect that the hunting club was a partnership, but shows, on the contrary, that it was merely a social club organized and existing to provide facilities for hunting during the open season each year. Nor was there any evidence to support the contention that the said Harry H. Hawk was a trustee for the defendants. The only question involved was whether it was the duty of the court to enter judgment for the plaintiffs upon all the evidence. The reasons assigned by the learned President Judge of the court below for his conclusions are stated by him in his opinion entering judgment for the plaintiffs n. o. v. in the following language:
+“The defendants are not an association protected by Section 10 of the Act of 1855, P. L. 328, 331. A grant to an organization of this sort is a grant to no one. Frazier v. St. Luke’s Church, 147 P'a. 256, 261. ‘The objections at common law to a voluntary association’s taking title to real estate or to a permanent fund are so nearly insurmountable that there is very great uniformity in the rulings that, in the absence of some trust device, a conveyance to such association of such property is void.’ R. C. L. Vol. 5, page 313. It follows, from the application of this doctrine to the instant case, that the legal title for the land here involved did not pass out of Wilbur H. Foster until the execution and delivery of the deed to the plaintiffs in 1923.”
+We are satisfied that the foregoing quotation contains a correct statement of the principles of law applicable to the facts appearing from the record in this case and that the conclusions reached are in harmony with the principle stated by this court in Trexler v. Africa, 42 Pa. Superior Ct. 542, 547, and affirmed by our Supreme Court in Africa v. Trexler, 232 Pa. 493, 499.
+The judgment is affirmed.
