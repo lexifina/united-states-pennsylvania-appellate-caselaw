@@ -1,0 +1,44 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2176 C.D. 1980"
+decided: "1981-07-10"
+citations: ["60 Pa. Commw. 462"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Mencer, Craig and Palladino, sitting as a panel of three."]
+parties: ["Brentwood Borough, Appellant v. Mel Cooper, Appellee."]
+source_url: "https://static.case.law/pa-commw/60/cases/0462-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1922458
+cites_cases: ["108 A.2d 134", "12 Pa. Commonwealth Ct. 104", "15 Pa. Commonwealth Ct. 16", "176 Pa. Superior Ct. 463", "288 A.2d 553", "315 A.2d 311", "324 A.2d 832", "35 Pa. Commonwealth Ct. 367", "387 A.2d 139", "398 A.2d 244", "4 Pa. Commonwealth Ct. 621", "41 Pa. Commonwealth Ct. 7", "411 A.2d 838", "411 A.2d 842", "414 A.2d 398", "49 Pa. Commonwealth Ct. 35", "49 Pa. Commonwealth Ct. 44", "50 Pa. Commonwealth Ct. 486"]
+---
+
+# Brentwood Borough v. Cooper
+
+## Majority (Judge Craig,)
+
+Opinion by
+Judge Craig,
+Brentwood Borough (borough) appeals from an order of the Allegheny County Court of Common Pleas directing the borough to approve a conditional use and site plan filed by Mel Cooper, applicant, for the construction of four buildings containing a total of forty-seven garden apartment units.
+The property in issue, a 2.5 acre tract owned by the applicant, is located in an R-3 Residential District under the borough’s zoning ordinance (ordinance) enacted in 1973 and amended in 1976. Garden apartments are a conditional use in R-3 districts. In 1975, the borough council approved the applicant’s site plan and granted him a conditional use to construct the apartments on the property, but difficulty in obtaining financing precluded the applicant from immediately going forward with the project.
+Later the applicant received a preliminary federal commitment to finance the project, and in January 1980 he made the reapplication involved here, which the borough council denied.
+In writing, the council justified its decision by citing concerns that the project would create (1) a fire hazard, (2) congestion in relation to the highway system, (3) an excessive burden upon the storm sewer system and (4) a reduction in the tax base of the community.
+On appeal, the common pleas court, without taking additional evidence, reversed the borough decision. Before us, the issue is whether the borough council committed any error of law or abused its discretion in rejecting the applicant’s site plan and conditional use request.
+As in the case of special exceptions administered by zoning hearing boards, conditional uses administered by governing bodies must be granted where there is compliance with the specific requirements set forth in the ordinance, if approval is not shown to be detrimental to public health, safety or general welfare. Greensburg City Planning Commission v. Threshold, Inc., 12 Pa. Commonwealth Ct. 104, 315 A.2d 311 (1974).
+The only specific requirements imposed upon the development of garden apartments in Brentwood are contained in subsection 201.4 of the ordinance, which reads:
+201.4 General Provisions for Garden Apartments and Multi-Family Dwellings
+a. Garden Apartments, above the first floor, may be provided with balconies; however, no such extensions shall extend into any required side yards.
+b. A garden apartment or multi-family dwelling shall not exceed two (2) dwelling units in depth unless the additional dwelling units abut a court with a minimum dimension of 25' in any direction.
+The borough does not contend, nor does the record reveal, that there is any noncompliance with the requirements of subsection 201.4.
+Instead, the borough grounded its denial of the conditional use and site plan upon public interest considerations of a general nature involved in all residential development planning. However, the existence of a conditional use provision in an ordinance indicates legislative acceptance that the use is consistent with the zoning plan, and should be denied only when the adverse impact upon the public interest exceeds that which might be expected in normal circumstances. See Pennypack Manor Nursing Home, Inc. v. Petrella, 35 Pa. Commonwealth Ct. 367, 371, 387 A.2d 139, 141 (1978) (holding that to be the rule in cases involving special exceptions). Thus, because the applicant complied with the specific requirements, the burden then lies upon the objectors, Greensburg, supra, and the borough is required to grant the conditional use unless it can show to a high degree of probability that the use will adversely impact on the public interest; the mere possibility of adverse impact is not enough. See Warren County Probation Association v. Warren County Zoning Hearing Board, 50 Pa. Commonwealth Ct. 486, 489, 414 A.2d 398, 399 (1980), applying that measure to special exceptions.
+Here the record shows that the borough received letters dated March 10, 1980 and March 12, 1980 from the borough engineer and fire chief respectively, which set forth the traffic congestion, storm sewer and fire hazard concerns upon which the borough grounded its denial of the applicant’s request. However, at the subsequent public hearing, on April 17, 1980, witnesses for the applicant outlined measures proposed by the applicant to alleviate the potential harm to the public interest as perceived by the borough’s fire chief and engineer! The borough at that time did not present any evidence as to the adequacy or inadequacy of the applicant’s proposals.
+Moreover, in Goodman v. Board of Commissioners of the Township of South Whitehall, 49 Pa. Commonwealth Ct. 35, 45, 411 A.2d 838, 843 (1980), a subdivi- . sion control case, this court held that general condemnations of anticipated traffic increases are not sufficient for the denial of approval when there is compliance with specific requirements. Although Goodman was a subdivision control case, the same principles obtain with respect to the similar approach we must take in a conditional use case. Goodman also pointed out, at 49 Pa. Commonwealth Ct. 44, 411 A.2d 842-43, that storm water sewerage matters become germane at the point of construction, rather than at the point of initial approval — which was preliminary subdivision plan approval in Goodman and is the zoning approval of the conditional use in this case.
+As to concerns about the effect of a particular development on the tax base, we have held that tax base concerns cannot be decisive in a zoning case. Zajac v. Zoning Hearing Board of Mifflin Township, 41 Pa. Commonwealth Ct. 7, 13, 398 A.2d 244, 247 (1979), a special exception case citing Putney v. Township of Abington, 176 Pa. Superior Ct. 463, 108 A.2d 134 (1954). Obviously, where municipal officials have legislated that a particular use is allowable upon compliance with specific physical conditions, as here, they cannot be heard to disown that allowance upon the ground that it may be lacking in revenue-producing possibilities.
+Consequently, although the garden apartment use here proposed will necessarily have some adverse impact upon the matters listed, the record does not establish that those impacts, individually or collectively, will exceed in degree the effects which normally accompany snch a use. Thus, we agree that the court below correctly determined that the borough abused its discretion in denying the applicant’s request.
+Accordingly, we affirm the decision of the court below.
+Obdeb
+Now, July 10, 1981, the order of the Allegheny County Court of Common Pleas dated August 21,1980, is hereby affirmed.
+The borough contends that the common pleas court erred by not conducting an evidentiary hearing to take additional evidence under Section 1010 of the Pennsylvania Municipalities Planning Code (MPC), Act of July 31, 1968, P.L. 805, as amended, 53 P.S. §11010. We cannot agree.
+Section 1010 of the MPC states that “[i]f upon motion it is shown that proper consideration of the zoning appeal requires the presentation of additional evidence, a judge of the court may hold a bearing to receive additional evidence or remand. . . .” (Emphasis added.) This section clearly provides the trial court judge with discretion as to determining when additional evidence is needed and in determining whether such evidence should be taken by the court or upon remand to the municipal tribunal. See DePaul Realty Co. v. Borough of Quakertown, 15 Pa. Commonwealth Ct. 16, 324 A.2d 832 (1974).
+Where, as here, the Court below did not take additional testimony or receive additional evidence, the scope of the review of this Court is to determine whether or not the Borough abused its discretion or committed an error of law. Brauns v. Swarthmore Borough, 4 Pa. Commonwealth Ct. 621, 288 A.2d 553 (1972).
