@@ -1,0 +1,36 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 219"
+decided: "1951-01-12"
+citations: ["168 Pa. Super. 168"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, Ross, Arnold and Gunther, JJ."]
+parties: ["Smith, Appellant, v. Philadelphia Transportation Co."]
+source_url: "https://static.case.law/pa-super/168/cases/0168-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 472020
+cites_cases: ["167 Pa. Superior Ct. 150", "22 A. 2d 667", "344 Pa. 63", "363 Pa. 220", "69 A. 2d 370", "74 A. 2d 694"]
+---
+
+# Smith v. Philadelphia Transportation Co.
+
+## Majority (Dithrich, J.,)
+
+Opinion by
+Dithrich, J.,
+In this action in trespass to recover for property damage and personal injuries alleged to have been caused by the negligent operation of a street car by defendant’s motorman, the jury returned a verdict for defendant. Plaintiff’s motion for a new trial was dismissed and judgment entered on the verdict. This appeal followed.
+Plaintiff testified that on November 30, 1946, at about 9:30 a.m., he was driving his automobile south on 36th Street in the City of Philadelphia. He stopped at the intersection of 36th Street and Woodland Avenue and then turned left into Woodland, a diagonal street running northeast and southwest on which defendant operated a double line of street railway tracks. Plaintiff, driving very slowly, proceeded upon or along the northeast bound track until he reached Locust Street, an east and west street which joins Woodland on the west, about 100 feet northeast of 36th Street. He intended to turn left into Locust, but opposing traffic forced him to stop. When the way was clear he proceeded to make his turn. At that moment defendant’s trolley car coming rapidly from the rear crashed into the left rear of plaintiff’s automobile.
+Defendant’s version of the accident, given by the operator of the trolley car and substantially corroborated by three disinterested witnesses, passengers on the car, varies materially from the account given by plaintiff. According to the defense, the street car had stopped on Woodland Avenue at 36th Street to pick up and discharge passengers. Plaintiff turned into Woodland Avenue from 36th Street, passing directly in front of the street car, crossed the track and then proceeded very slowly along the right-hand curb, as if looking for a place to park. The motorman started up and had reached a speed of 20 m.p.h. when plaintiff, then 12 to 15 feet in front of the street car, suddenly pulled away from the curb without warning and cut across the track. The collision was inevitable.
+One defense witness was not certain whether plaintiff’s car had completely cleared the track or ivas still partly on it as it preceded the street car along Woodland Avenue. She emphasized, however, that plaintiff did turn in front of the street car. Whether the turn was completely or only partly across the track was what she could not clearly recollect.
+The trial judge charged the jury: “. . . if all you had were the story of the plaintiff, I do not see why you should have any difficulty with the case, because if he got on there, if he was proceeding slowly, using the highway as he was, and was about to make a left-hand turn, and a trolley car bears down on him and does not give him an opportunity to make that turn and crashes into the rear, then I think it was negligent conduct, although you may disagree with me.”
+Then, after reviewing the motorman’s testimony, he stated: “I must say to you that I do not see why you should have any difficulty with this case if that is what happened. Here is a man who is operating a trolley car, he sees a car pulling to his right about to park, and he starts and goes . . . and all of a sudden a man pulls on the track in front of him, only about ten to fifteen feet in front of him, without any warning . . .1 do not see how you could say that this- trolley operator, if that were all you had, was negligent in this ease.”
+The court then reviewed the testimony of defendant’s other witnesses, concluding with that of the one who thought plaintiff might not have cleared the track. In regard to her testimony he instructed:
+“. . .if these two vehicles were following each other, it was the duty of the defendant’s operator, being in the vehicle to the rear, to have it under such control that he could stop in the clear distance ahead .... If he [plaintiff] was going ahead, he has no right to change his direction immediately without some warning behind him. That is obvious to you.
+“. . . I have stated to you that the defendant must have his car under control so as to stop in the clear distance ahead, . . . [and] a vehicle driving ahead [must] not change its direction without some sign, because whether or not the vehicle in the rear would be negligent, there would be negligence on the part of the vehicle ahead in making a quick turn without giving some notice to the vehicle behind of change in direction, because there again, a reasonable, prudent person proceeding ahead gives some notice if his direction is about to be changed.” (Italics supplied.)
+Later, the court repeated: “I have indicated to you that if you believe the plaintiff absolutely, I do not see why you should have any difficulty . .
+At the conclusion of the charge the following colloquy took place between plaintiff’s counsel and the court: “Mr. Boylan: Your Honor please, I do not think your Honor intended to say that the plaintiff had no right to change direction without giving warning to the vehicle behind. Mr. Smith said that he changed direction while he was in front of the trolley car. He did not have to give warning then, did he? The Court: I disagree with you. Mr. Boylan: May I have an exception? The Court: My charge is that no person has a right to change direction suddenly without giving notice.” (Italics supplied.)
+It is appellant’s contention that the jury was instructed to apply the law as to a turning without warning to plaintiffs version of the accident, notwithstanding the court’s clear statement that if they should believe plaintiff absolutely (plaintiff’s testimony made no mention of a signal or warning), they should have no difficulty with the case. It seems quite clear, however, that the court in so charging had reference to the testimony of the passenger who thought that the street car might have been “following” plaintiff closely on the rails. The use of the words “immediately,” “quick” and “suddenly” in describing the nature of the change of direction shows clearly what the court had in mind.
+Even though in answering the objection of counsel for plaintiff the court in re-emphasizing his prior statement may inadvertently have given the impression that what he said applied equally to plaintiff’s testimony, certainly his reply could not have had the effect of erasing all the prior instructions. Cf. Cain v. Kohlman, 344 Pa. 63, 22 A. 2d 667. A reading of the charge as a whole leaves no doubt that the jury was fully and correctly instructed on the law applicable to the case. Voitasefski v. Pittsburgh Railways Co., 363 Pa. 220, 69 A. 2d 370; Poulos v. Brady, 167 Pa. Superior Ct. 150, 74 A. 2d 694.
+Judgment affirmed.
