@@ -1,0 +1,36 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 863 C.D. 1973"
+decided: "1974-04-16"
+citations: ["13 Pa. Commw. 49"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Mencer, Rogers and Blatt."]
+parties: ["William O’D. Cotter, Appellant, v. Commonwealth of Pennsylvania, State Civil Service Commission, Appellee."]
+source_url: "https://static.case.law/pa-commw/13/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1859206
+cites_cases: ["2 Pa. Commonwealth Ct. 462", "279 A. 2d 368", "281 A. 2d 170", "291 A. 2d 808", "297 A. 2d 176", "3 Pa. Commonwealth Ct. 230", "301 A. 2d 427", "5 Pa. Commonwealth Ct. 642", "6 Pa. Commonwealth Ct. 498", "8 Pa. Commonwealth Ct. 6"]
+---
+
+# Cotter v. Commonwealth
+
+## Majority (Judge Mencer,)
+
+Opinion By
+Judge Mencer,
+The Department of Transportation dismissed William O’D. Cotter (Cotter) on November 9, 1971. He was a regular status employee and held the position of Management Analyst III.
+On September 27, 1971, a criminal complaint was filed by a member of the Pennsylvania State Police wherein it was alleged that Cotter was an accessory after the fact in the sale of a stolen motor vehicle with a defaced serial number. Cotter appealed his dismissal to the State Civil Service Commission which scheduled a hearing on the appeal for December 15, 1971. Cotter unsuccessfully sought a continuance of this hearing, and on an earlier appeal to this Court we remanded and held that the Commission had abused its discretion in refusing the continuance.
+After the conclusion of the pending criminal charges filed against Cotter, the Commission, on April 18, 1973, held a de novo hearing on Cotter’s dismissal. The Commission, by order dated June 8,1973, dismissed Cotter’s appeal and sustained the action of the Department of Transportation in dismissing Cotter. This appeal followed and we affirm.
+As stated in Corder v. Civil Service Commission, 2 Pa. Commonwealth Ct. 462, 465, 279 A. 2d 368, 369 (1971) : “The scope of review to be employed by our Court derives from the Administrative Agency Law [Act of June 4, 1945, P. L. 1388, as amended, 71 P.S. §1710.1 et seq.], 71 P.S. §1710.44, which states: ‘The court to which the appeal is taken shall hear the appeal without a jury on the record certified by the agency. After hearing the court shall affirm the adjudication unless it shall find that the same is in violation of the constitutional rights of the appellant, or is not in accordance with law, ... or that any finding of fact made by the agency and necessary to support its adjudication is not supported by substantial evidence.’ The review then is not de novo but rather one which looks to error of law or abuse of discretion as the determinative criteria.” The issue thus crystalizes into whether the Commission committed an abuse of discretion or error of law in affirming the removal of Cotter. Gibbs v. Civil Service Commission, 3 Pa. Commonwealth Ct. 230, 233-34, 281 A. 2d 170, 171 (1971).
+Cotter’s argument is that his removal was the result of consideration by his superiors of nonmerit factors. The natural corollary to this argument is that the Department lacked just cause for his removal. Judge Kramer, speaking for the majority in Corder, supra, at 467, 279 A. 2d at 371, considered Section 905.1 of the Act of August 5, 1941, P. L. 752, Art. IX, added August 27, 1963, P. L. 1257, §25, 71 P.S. §741.905a, and concluded “that the legislative intent relating to one’s relationship with the classified service turns upon a merit concept. This means that any ‘personnel action’ carried out by the Commonwealth is to be scrutinized in the light of such merit criteria, as has the party failed to properly execute his duties, or has he done an act which hampers or frustrates the execution of the same. The criteria must be job-related and in some rational and logical manner touch upon competency and ability.”
+In Baron v. Civil Service Commission, 8 Pa. Commonwealth Ct. 6, 301 A. 2d 427 (1973), we recognized that if activities outside of the job reflect upon the employee’s ability to perform his job, they can provide a basis either for removal or for a lesser punishment. We held in Lusane v. Civil Service Commission, 5 Pa. Commonwealth Ct. 642, 291 A. 2d 808 (1972), that evidence of illegal actions by an employee while off duty would support action dismissing such employee for just cause.
+Here the record discloses that Cotter’s position of Management Analyst III resulted in his being the liaison between the Bureau of Management Information Systems and the Bureau of Motor Vehicles. This position was described as being a sensitive one and one providing Cotter with access to the Bureau of Motor Vehicles files and records, including automobile titles. Cotter freely admitted in these proceedings that he falsified a sales tax report form in connection with the purchase by him of a 1970 Cadillac automo,'bile. Cotter introduced into evidence as his exhibit No. 4 a newspaper article from the September 30, 1971 issue of The Philadelphia Inquirer which reported that Cotter, “an employe of the State Department of Transportation,” was one of three men identified by the State Police Commissioner as being part of a ring that dealt in stolen luxury autos and foreign sports cars, of which 103 stolen autos with a value of $635,000 had been recovered.
+Under these circumstances and with this background, the Department of Transportation should not be required to risk Cotter’s actions in the future, where his job involved direct access to the Bureau of Motor Vehicles’ files and records, including those relating to automobile titles. By his own admission, Cotter falsified a sales tax form filed relative to his purchase of an automobile, and this act of dishonesty, coupled with the sensitive nature of his employment, has placed substantial doubt upon his competency to fulfill the responsibilities of his job.
+Therefore, we conclude that Cotter’s removal was based on a merit factor and that there was just cause for the Department’s action. Further, we conclude that the action of the Civil Service Commission in affirming the removal of Cotter from his position was not an abuse of discretion.
+Order
+And Now, this 16th day of April, 1974, the order of the State Civil Service Commission, dismissing the appeal of William O’D. Cotter from his removal as Management Analyst III, regular status, and sustaining the action of the Department of Transportation in such removal, is hereby affirmed.
+The record discloses that this complaint was dismissed and thereafter Cotter was charged on two counts with receiving stolen property. One count was dismissed on motion of the District Attorney of Dauphin County, and a judge sitting- without a jury returned a verdict of not guilty on the second count
+Cotter v. Civil Service Commission, 6 Pa. Commonwealth Ct. 498, 297 A. 2d 176 (1972).
+Cotter contends that the Commission erred in ordering a hearing de novo. We do not view such a hearing to have been contrary to our previous order of remand.
