@@ -1,0 +1,44 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2861"
+decided: "1983-07-22"
+citations: ["316 Pa. Super. 493", "463 A.2d 472"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CAVANAUGH, DiSALLE and WATKINS, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Michael McBALL, Appellant."]
+source_url: "https://static.case.law/pa-super/316/cases/0493-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 88446
+cites_cases: ["128 A.2d 131", "183 Pa.Superior Ct. 45", "232 Pa.Superior Ct. 412", "244 A.2d 723", "248 A.2d 289", "321 A.2d 913", "334 A.2d 710", "430 Pa. 627", "432 Pa. 386", "457 Pa. 594", "472 Pa. 259", "472 Pa. 435", "491 Pa. 300"]
+---
+
+# Commonwealth v. McBall
+
+## Majority (WATKINS, Judge:)
+
+WATKINS, Judge:
+This is an appeal by the defendant-appellant, Michael McBall, from the judgment of sentence of the Court of Common Pleas, Criminal Division, of Chester County, after his conviction by a jury of rape, unlawful restraint and terroristic threats. .Post-trial motions were denied.
+The facts are as follows: At approximately 1:30 a.m. on June 2, 1979, the victim in this case, Ms. Patricia Cox, was driving home from West Chester to Downingtown when she had a flat tire. She pulled off the road and flagged down the first vehicle she saw. The defendant stopped allegedly to assist her. He changed the victim’s tire and told her to drive to a nearby church parking lot where it was safe, so that he could spray something on the spare tire to keep it cool until the victim got home. By the time the victim drove to the church parking lot, her spare tire was flat also. (The spare tire was later tested by police and found to have no leaks).
+The defendant then offered to take the victim home. She got into his car and they started off. The defendant turned right and the victim told him he should have gone straight.
+The defendant drove a bit further then grabbed the back of the victim’s neck and told her to sit next to him. When she refused, he pulled her. She became scared and slid over. The defendant then told the victim that if she gave him all of her money that nothing would happen to her. She gave him her money.
+The defendant then told the victim that his pants were open and that she was to suck his penis. She said no, and wanted out of the car, but defendant forced her head down into his lap. She put her mouth on his penis. Two times she struggled to get free. Defendant told her he would kill her if she kept fighting him.
+The defendant finally stopped the car in a wooded area. He told the victim that if she screamed or made any noise he would kill her. Since she was afraid, she did not fight. Defendant pulled the victim out of the car, then shoved and pushed her into the weeds. He undressed her and told her to take her shirt off. She refused but he insisted. The defendant then had intercourse with the victim.
+Afterward the defendant asked the victim to describe him and tell him his name. She said she couldn’t, that she did not know what he looked like and she did not know his name. Defendant told her that she could not really prove that he had been there anyway. The defendant then left.
+The victim flagged down a car and got a ride to her ex-husband’s home. She was hysterical and told her family she had been raped. Her family took her to the police station. She later went to the hospital.
+The defendant, when arrested, told the police that he had been with friends on the evening in question. He denied having helped to change someone’s tire that night. When he testified at trial he stated that he had, after all, been with the victim that night, and that he had changed her tire. His testimony then indicated that they went to “a parking spot”, walked up a trail, talked, kissed, and had consensual sex.
+The victim, Patricia Cox, died prior to trial. Her testimony from the preliminary hearing was admitted at the suppression hearing and the subsequent trial.
+The defendant claims that the court improperly permitted the introduction of the identification evidence.
+The victim had testified at the preliminary hearing and was cross-examined by counsel for the defendant. She died between the time of the preliminary hearing and the trial. The pre-trial lineup was possibly suggestive and the photo lineup wherein she picked out the defendant as her assailant was found by the court below to be admissible. However, the admission of the testimony of the victim at the preliminary hearing clearly identified the defendant so that it was clearly independent of any possible taint.
+The victim had ample opportunity to make an independent identification. She spent one and one half hours with her attacker. The area was well lighted. She indicated he was light-skinned, heavy set, about 5' 7" and weighed about 200 pounds. She was confident of her identification under cross-examination. Moreover, the defendant admitted having intercourse with the decedent, but claimed it was consensual.
+The admission of the victim’s testimony at the preliminary hearing was proper. See, Commonwealth v. Hall, 232 Pa.Superior Ct. 412, 334 A.2d 710 (1975).
+Counsel was not ineffective for failing to raise this issue as it is well settled that the testimony is admissible. Commonwealth v. Rodgers, 472 Pa. 435, 372 A.2d 771 (1977). Commonwealth v. Scarborough, 491 Pa. 300, 316, 421 A.2d 147, 155 (1980).
+A careful examination of the charge in this case shows there was no expression of the court’s opinion as to the guilt of the defendant, either directly or indirectly so that Commonwealth v. Goins, 457 Pa. 594, 321 A.2d 913 (1974) is in apposite and the complaint without merit. Reasonable doubt was properly charged and the complaint is without merit.
+The defendant complains of the admission of the testimony of the daughter of the victim. Her testimony was that prior to trial when she was some five feet from a car in which the defendant was on the passenger side of the car, he looked at her, pointed at her, made a facial expression and saw him say she was next.
+“A witness who testifies to a fact which can be perceived by the senses must have had an opportunity to observe, and must have actually observed the fact.” McCormick on Evidence, 72, Chapter 3, Page 30.
+The court did not err in refusing to grant defendant’s demurrer to the charge of unlawful restraint. The terrified victim was certainly exposed to serious injury. She was pulled, grabbed by the neck and held down. He repeatedly threatened to kill her. He pushed and shoved her. He disrobed and raped her. The defendant was 5'8", weighed 225 pounds and was an Olympic class weight lifter. The victim was 5'2" and weighed less than 100 pounds. The complaint is clearly without merit.
+Defendant’s contentions concerning the failure to answer questions submitted by the jury is without merit. Where the jury requests reading of testimony given at the trial to refresh its memory the decision as to whether to grant the request is a matter within the discretion of the trial court. Commonwealth v. Peterman, 430 Pa. 627, 631, 244 A.2d 723 (1968). This discretion is an incident to the manner of trial and in the absence of flagrant abuse thereof, should rest with the trial court. Commonwealth v. Fontaine, 183 Pa.Superior Ct. 45, 47, 128 A.2d 131 (1956). It was not error to go beyond the questions and seek more specifics so all four questions could be answered at once. The Court did not refuse to answer the questions but recognized the duty to “be very careful about invading the jury province as a fact finder”. As asked the questions required the court “and counsel to hunt through the record to pick out certain parts of the testimony (as yet not transcribed)”. The court was within its proper discretion in asking that the request should be reduced to specifics. This was not error.
+The contentions of prosecutorial misconduct in discussing the questions of the victim talking with strangers was in answer to what counsel for the defendant said about the same problem. Such comments are not reversible error unless the “unavoidable effect would be to prejudice the jury, forming in their minds fixed bias and hostility toward the defendant, so that they could not weigh the evidence and render a true verdict.” Commonwealth v. Simon, 432 Pa. 386, 394, 248 A.2d 289, 292 (1968).
+The contentions that counsel was ineffective in choosing the jury, in failing to object at the time of the questions by the jury, and certain other instances are already answered by our disposition of the other issues in this opinion. Counsel cannot be deemed to be ineffective for not making frivolous objections. Commonwealth v. Hubbard, 472 Pa. 259, 372 A.2d 687 (1977).
+Judgment of sentence affirmed.
