@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 63"
+decided: "1954-11-09"
+citations: ["176 Pa. Super. 494"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Ross, Gunther, Wright, Woodside and Ervin, JJ."]
+parties: ["McNally, Appellant, v. McNally."]
+source_url: "https://static.case.law/pa-super/176/cases/0494-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 723052
+cites_cases: ["106 A. 2d 881", "122 Pa. Superior Ct. 238", "168 Pa. Superior Ct. 632", "171 Pa. Superior Ct. 69", "173 Pa. Superior Ct. 111", "176 Pa. Superior Ct. 108", "186 A. 219", "357 Pa. 441", "54 A. 2d 898", "82 A. 2d 280", "90 A. 2d 357", "95 A. 2d 358"]
+---
+
+# McNally v. McNally
+
+## Majority (Weight, J.,)
+
+Opinion by
+Weight, J.,
+Neyman P. McNally filed a complaint in divorce charging his wife, Martha E. McNally, with desertion for a period of two years from November 1, 1949. The Master recommended that a divorce be granted. The court below did not differ with the Master as to the credibility of the witnesses, but disagreed with his conclusion that the facts established desertion by the wife. A divorce was therefore refused, and this appeal followed. We have examined the evidence de novo for the purpose of determining whether the complaint alleged in the libel has been sustained. See Bobst v. Bobst, 357 Pa. 441, 54 A. 2d 898. Our conclusion is that the case was properly decided by the lower court.
+The parties were married at New Castle, Pennsylvania, on November 25, 1930, and established a family home there. They had one child, a daughter, who was twenty years of age at the time of the hearing. In November, 1938, because of a lack of work in the New Castle area, appellant secured employment at the Irwin Works of the United States Steel Company. He commuted between his work in Irwin and the home in New Castle (some seventy miles) over weekends until the date of the alleged desertion. Appellant’s position is that he wanted his wife to live with him near his employment, and made numerous efforts to secure suitable quarters, but that the wife was not satisfied with any place he suggested, and actually did not want to leave her job in New Castle. On the other hand, the wife’s position is that she was always willing to move. She testified that, on one occasion in March, 1949, she secured employment in Pittsburgh, whereupon the husband said: “You are not coming to Pittsburgh to live. You have lived this long in New Castle. I positively refuse to have you come to Pittsburgh to live”. In this occurrence the wife was corroborated by at least two witnesses.
+Howbeit, the evidence is uncontradicted that the parties lived together in New Castle until November 1, 1949, on which date, in the wife’s absence, appellant departed from the home leaving a note on the dining room table. The specific reason assigned by appellant for his action was a remark by the wife during an argument that maintenance of the home depended upon her earnings. The note was not offered in evidence, but the wife testified that it included a request that she make no attempt to communicate with her husband by telephone. Appellant returned at times to see his daughter. On some of these occasions he talked with his wife. However, at no time did he offer to provide a home, or request his wife to come to live with him.
+The Master relied solely upon Ruf v. Ruf, 168 Pa. Superior Ct. 632, 82 A. 2d 280, which holds that the husband’s choice of a home, if exercised in good faith, is controlling. But in that case the husband had a home in which he lived, and to which he requested his wife to come. The error in the Master’s position is readily demonstrated by the following excerpt from his report: “I find these past refusals of the defendant, Martha McNally, coming to the Clairton area to live constitute on her part a wilful separation which her husband consented to for an eleven year period of time” (italics supplied).
+A separation to which the husband consents does not support a charge of desertion by the wife. There can be no question from the testimony that the manner of living by the parties prior to November 1, 1949, was their own arrangement. If it was separation, it was apparently by necessity, Duncan v. Duncan, 171 Pa. Superior Ct. 69, 90 A. 2d 357, and in any event consensual, Knaus v. Knaus, 173 Pa. Superior Ct. 111, 95 A. 2d 358. Assuming arguendo that there was desertion, it did not occur until the husband’s departure in November, 1949. In the words of Judge Adams: “Until the husband withdrew from the home in November, 1949, the parties’ manner of living was in accordance with their agreement. If there was any desertion, it began on or after the husband’s departure in November, 1949. He then left because of a slighting remark; not because he refused any longer to agree to the manner of living the parties had followed for eleven years. He did not then, or since, indicate a willingness to live with his wife if she would come to live in a home provided by him. Under such circumstances it cannot be said that she has failed in her duty to live in a home provided by the husband”.
+We point out in addition that the intent to desert must be wilfully and maliciously persisted in for the entire period of two years. The evidence in the case at bar reveals that, after appellant’s departure, the wife on several occasions sought reconciliation, but her efforts were rebuffed. It appears from the testimony that appellant had no bona fide desire to again live with his wife. On the contrary he was interested in endeavoring to bring about a divorce. See Totino v. Totino, 176 Pa. Superior Ct. 108, 106 A. 2d 881.
+The order refusing a divorce is affirmed.
+The Master’s report contains the following statement: “The desertion that was occasioned here, if any, was a desertion by construction only”. We express no opinion on this subject
+During the hearing which resulted in an order of support for the wife, she expressed her willingness to live with appellant in Pittsburgh, but he refused. While the fact that the wife obtained a support order is not controlling, it is a circumstance to be given consideration, Sloan v. Sloan, 122 Pa. Superior Ct. 238, 186 A. 219.
