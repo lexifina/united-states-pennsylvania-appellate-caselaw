@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "3224 & 4219"
+decided: "1996-09-03"
+citations: ["453 Pa. Super. 231", "683 A.2d 889"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CIRILLO, DEL SOLE and CERCONE, JJ."]
+parties: ["LIBERTY STATE BANK, Central Pennsylvania Savings Association and the Union National Bank of Mount Carmel, Appellants, v. NORTHEASTERN BANK OF PENNSYLVANIA, Appellee. Two Cases."]
+source_url: "https://static.case.law/pa-super/453/cases/0231-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 771067
+cites_cases: ["429 Pa.Super. 440"]
+---
+
+# Liberty State Bank v. Northeastern Bank
+
+## Majority (DEL SOLE, Judge:)
+
+DEL SOLE, Judge:
+These consolidated appeals are filed from an Order granting Appellee, Northeastern Bank of Pennsylvania’s Motion in Limine and from the denial of Appellants, Liberty State Bank, Central Pennsylvania Savings Association and The Union National Bank of Mount Carmel’s Motion for Reconsideration. Because these appeals are not properly before us, we hold that they must be quashed.
+The record shows the trial court granted Appellee’s Motion in Limine by Order dated August 26, 1995 and entered in the docket on August 29, 1995. On November 10, 1995, the court denied Appellants, Liberty State Bank, Central Pennsylvania Savings Association and The Union National Bank of Mount Carmel’s Motion For Reconsideration and attempted to certify the August 26th Order for immediate appeal. The court wrote in its November 10th Order that it “also agrees with both parties and finds that pursuant to Pa.R.App.P. 341(b), our Order of August 26, 1995, constitutes a final Order in this matter and thus is appealable to our Superior Court.”
+Rule 341(b) defines a final Order as “any order that: (1) disposes of all claims or of all parties; or (2) any order that is expressly defined as a final order by statute; or (3) any order entered as a final order pursuant to subsection (c) of this rule.” The parties mistakenly argue that the Order granting Appellees’ Motion in Limine is final pursuant to 341(b)(1) because it had the practical effect of disposing of all of Appellants’ claims. A Rule 341(b)(1) Order, however, is not an order that has the “practical effect” of disposing of all claims, but, rather is an order that resolves all claims as to all parties. The court’s August 26, 1995 Order did neither. While the court’s grant of Appellee’s Motion in Limine may have hampered Appellant’s presentation of its case, at that point it was the responsibility of the parties to go forward with the case or for Appellee to file a Motion for Summary Judgment the grant of which would have led to an appeal.
+The Order in question also does not fit the criteria for a final Order under Rule 341(c). Rule 341(c) provides that a trial court may “enter a final order as to one or more but fewer than all of the claims or parties only upon an express determination that an immediate appeal would facilitate resolution of the entire case.” Here, the court did not enter a final order as to any specific claim or party. Even where a final determination has been made as to some of the parties or some of the counts of a multi-count complaint, it is not necessarily appropriate to certify a case. “A determination that an immediate appeal of a non-final order is appropriate should be made only in the most extraordinary circumstances because such action would frustrate the amendments to the Rule. The revisions to the Rule were designed to eliminate the confusion created by the prior case law and to prevent piecemeal appeals which unnecessarily result in delay.” Robert H. McKinney, Jr., Associates, Inc. v. Albright, 429 Pa.Super. 440, 443, 632 A.2d 937, 939 (1993). Here there is no requisite order dismissing a party or claim. Thus, it was error to certify this matter.'
+In addition, the court’s attempt to certify its August 26th Order for immediate appeal was untimely. Subsection (1) of Rule 341(c) states that “[a]n Order may be amended to include the determination of finality within SO days” of its entry (emphasis added) and Rule 341(c)(2) further directs that “[t]he trial court ... is required to act on an application for a determination of a finality under subdivision (c) within SO days of entry of the order.” (emphasis added). In the present case, the trial court’s original Order was entered on the docket on August 29, 1995 and its Order certifying the August 29th Order for immediate appeal was not entered until November 10, 1995. Rule 341(c)(1), required the trial court to amend its Order by September 28,1995.
+Therefore, we conclude these appeals must be quashed.
+Appeals quashed.
