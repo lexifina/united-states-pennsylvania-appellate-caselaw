@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 19"
+decided: "1912-04-23"
+citations: ["50 Pa. Super. 113"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Orlady, Head and Porter, JJ."]
+parties: ["Consolidated Fruit Jar Company v. Leonard, Appellant."]
+source_url: "https://static.case.law/pa-super/50/cases/0113-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 428481
+cites_cases: ["106 Pa. 237", "11 Pa. Superior Ct. 224", "120 Pa. 583", "13 Pa. Superior Ct. 303", "131 Pa. 267", "15 Pa. Superior Ct. 140", "17 Pa. Superior Ct. 188", "18 Pa. Superior Ct. 186", "24 Pa. Superior Ct. 184", "3 Rawle, 23", "42 Pa. Superior Ct. 601", "68 Pa. 149"]
+---
+
+# Consolidated Fruit Jar Co. v. Leonard
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+This action arises out of a parol contract for a large quantity of brass rings to be used by the defendant in the manufacture of mine lamps. A sample of the rings to be made was furnished by the defendant to the plaintiff and the kind of metal to be used was determined by the defendant. This metal was known in the trade as “high brass.” The plaintiff did not manufacture the metal but bought it in the market from responsible manufacturers. It differed from ordinary brass, known as “low brass” in that it was more brittle and subject to a greater degree to atmospheric influence. The sheets from which the rings were made were very thin and were known as twenty-eight gauge. There is a controversy between the parties as to whether the contract called for twenty-seven or twenty-eight gauge, but the difference is so inconsiderable as not to be discovered except by the use of an exact instrument. The rings were made in steel dies prepared by the plaintiff for that purpose and were shipped to the defendant in quantities from time to time, the whole amount delivered being 211,000. About 11,000 of these rings were returned as not being correct in size and for these the plaintiff gave the defendant credit. About 12,000 other rings used on the lamps were afterward found to have very small cracks which rendered them unserviceable and the defendant was obliged to take them off the lamps he had manufactured and replace them with other rings. The defense to the plaintiff’s demand for the balance of the price of the merchandise is that there was an implied warranty that the thing manufactured should be suitable for the purpose for which it was to be used and that the defendant sustained a considerable loss in removing the defective rings and replacing them with others, which expense he was entitled to set off against the plaintiff’s demand. The referee found that there was not an implied warranty and that the defendant was not entitled to a set-off although he did reduce the plaintiff’s claim to the extent of the price of the 12,000 defective rings which the defendant had used. In the view which we take of the case on the facts established by the finding of the referee there was not an implied warranty that the rings were adequate to the purpose for which they were to be used. The defendant had been for years extensively engaged in the manufacture of mine lamps and had used the brass rings in connection with the cups which fitted over them. He was familiar with the composition of brass and stipulated for “high brass.” The plaintiff used his sample and endeavored to produce rings of the kind called for, but it had no experience in t'he use of these rings and was not a guarantor of their efficiency. There is no evidence that the cracks developed in the lot of lamps referred to were the result of the use of metal of twenty-eight rather than twenty-seven gauge. If the cracks existed before they were put on the lamps they were probably due to the inherent quality of the metal which the plaintiff could not detect. Certain it is that about 180,000 of the whole amount delivered were used and answered the defendant’s purpose, and the referee has not found any evidence that a different quality of metal was used in the manufacture of one lot than another. The plaintiff did not hold itself out as a manufacturer of this device for use on mine lamps. The defendant applied to it to make the rings according to his model and from the material which he designated. The order was for a special thing to be made as required by the defendant. The case lacks, therefore, any feature of an implied warranty, and the conclusion of the learned referee as to the law applicable to the case was correct. As the defendant received credit from the plaintiff for the rings returned and was relieved by the report of the referee from liability for the 12,000 rings which cracked the amount found to be due in the report was correct under the evidence. We think there was no error in the proceeding.
+The judgment is affirmed.
