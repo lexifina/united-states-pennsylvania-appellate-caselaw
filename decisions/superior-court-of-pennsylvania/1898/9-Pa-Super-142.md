@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 173"
+decided: "1898-12-15"
+citations: ["9 Pa. Super. 142"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Wick-ham, Beaveb, Reedeb, Oblady, Smith and Pobtbb, JJ."]
+parties: ["Jacob Bensing v. The Peoples Electric Street Railway Company, Appellant."]
+source_url: "https://static.case.law/pa-super/9/cases/0142-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 817206
+cites_cases: ["113 Pa. 300", "116 Pa. 206", "128 Pa. 314", "153 Pa. 102", "153 Pa. 152", "153 Pa. 29", "157 Pa. 598", "169 Pa. 1", "174 Pa. 510", "181 Pa. 160", "2 Pa. Superior Ct. 189", "32 Pa. 292", "4 Pa. Superior Ct. 86", "5 Pa. Superior Ct. 5", "91 Pa. 226", "97 Pa. 91"]
+---
+
+# Bensing v. Peoples Electric Street Railway Co.
+
+## Majority (Smith, J.,)
+
+Opinion by
+Smith, J.,
+The plaintiff was a passenger on a street car of the defendant company. The railway track on New York street in the borough of Rochester, intersected a street leading to the station of the Pittsburg & Fort Wayne Railroad. Here the street cars were usually detained before crossing this railroad, and passengers frequently left and boarded them. The car on which the plaintiff rode was left in charge of the motorman while the conductor went forward to the railroad, some thirty feet or more, to look out for approaching trains. Finding the way clear, he signaled the motorman to start the car ahead, and as it approached he stepped'on and proceeded on his trip. The plaintiff and his companion, James Hicks, desired to get off where the car stopped and proceeded to do so while it remained standing. Mr. Hicks was in advance and alighted safely, but as the plaintiff was in the act of stepping from the car, it started forward and he was thrown to the ground and severely injured. He gave no notice to the motorman when he was about to leave the car, nor was he notified that it was about to start. According to the testimony of the conductor and the motorman neither of them saw the accident nor heard of it until some tim.e afterward. The plaintiff brought suit for the damages thus sustained and a verdict was rendered in his favor.
+The first and second specifications of error need not be considered. They relate to the refusal of a nonsuk and are not reviewable. The court had a right to give reasons for refusing to grant it. The third and fourth specifications may be considered together. By them the court was asked to take the case from the jury, because (a) the evidence showed that the negligence of the plaintiff contributed to the injury, and (5) that there was no proof of negligence on the part of the defendant. That the plaintiff was injured in the manner stated is . not denied, and both conductor and motorman testify that the point where the plaintiff left"the car was a customary stopping place, where passengers were allowed to get on and off. The plaintiff appears to have left the car in the customary manner while it was stopped, and the only cause for the injury was the unexpected starting while he was on the car steps. The contributory negligence imputed to the plaintiff, is his-failure to get off the car promptly after it stopped. It is not alleged that it was an improper place or that his manner of leaving was otherwise negligent. No notice was given that passengers should leave with celerity at this point, or that to leave otherwise was dangerous or forbidden. The right to leave the car at that place is admitted. Clearly it was for the jury to say whether the plaintiff’s manner and time of departure from the car contributed to the accident. It was also for the jury to determine whether the defendant was negligent in the management of the car and in the discharge of the duty it owed to the plaintiff. There is here no fixed measure of care to be declared by the court as matter of law. This duty varied with the circumstances. It has often been held that: “ When a duty is defined, a failure to perform it, is of course negligence and may be so declared by the court; but when the measure of duly is not unvarying, where a higher degree of care is demanded under some circumstances than under others, where both the duty and the extent of performance are to be ascertained as facts-, a jury alone can determine what is negligence, and whether it has been proved:” Baker v. Gas Co., 157 Pa. 598, and cases there cited.
+In the present case the defendant owed the plaintiff reasonably adequate care for his protection from the unforeseen perils of travel. It was for the jury to decide whether the motorman in charge looked to see, or from his position could have seen the plaintiff descending the steps, and whether the car might have been started with safety while he occupied this position. They also had the right to determine from the evidence whether “the car started with a jerk,” as the plaintiff swears, or started and moved slowly as testified to by the motorman; and whether starting it at all under the circumstances was negligence for which the company is responsible. These questions were all for the jury, and it would have been clearly erroneous to rule them as matter of law.
+Our conclusion is based bn principles of law, which have been uniformly followed in similar cases: Railroad Co. v. Kilgore, 32 Pa. 292; Railroad Co. v. Peters, 116 Pa. 206; Linch v. Traction Co., 153 Pa. 102; Holmes v. Traction Co., 153 Pa. 152.
+Judgment affirmed.
