@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 93"
+decided: "1902-01-21"
+citations: ["19 Pa. Super. 70"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beavek, Orlady, W. W. Porter and W. D. Porter, JJ."]
+parties: ["Hoffman’s Estate."]
+source_url: "https://static.case.law/pa-super/19/cases/0070-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 839527
+cites_cases: ["10 W. N. C. 235", "100 Pa. 197", "13 Pa. 409", "13 Pa. 569", "163 Pa. 35", "3 W. & S. 441", "7 Watts. 170", "9 W. & S. 98", "9 Watts,. 284", "99 Pa. 401"]
+---
+
+# Hoffman's Estate
+
+## Majority (W. D. Porter, J.,)
+
+Opinion bv
+W. D. Porter, J.,
+It is well settled that an executor is not bound to defend his testator’s will, but if he undertakes to do so it must be as the agent and in the interest of those benefited by his action, and he cannot charge the expenses of a contest to the estate he represents, unless the latter is benefited by the proceeding: Yerkes’s Appeal, 99 Pa. 401; Titlow’s Estate, 163 Pa. 35. The expenses of trying an issue devisavit vel non must be borne by those for whose benefit it is carried on: Geddis’s Appeal, 9 Watts,. 284; Scott’s Estate, 9 W. & S. 98; Royer’s Appeal, 13 Pa. 569. The learned court below was of opinion that this principle ruled the present case and disallowed the claim of the accountant for expenses incurred in sustaining the will which created the trust. The learned court overlooked the fact that this claim was not made by an executor. The will of Jacob Hoffman devised to the appellant the sum of $12,000 in trust, to pay the income thereof to Horace M. Hoffman during his life, with provisions which constituted this life estate a spendthrift trust, upon his death the principal sum was to be paid to his lawful child or children or their issue and, in default of children or issue surviving, to pay the sum of $6,000, to the Penn Asylum for Indigent Widows and Single Women of the District of Kensington. Horace M. Hoffman contested his father’s will and the expenses, which are the subject of controversy, were incurred by the accountant in sustaining the will. There seems to have been no dispute in the court below that the trustee had actually incurred the expense in question, and there was no suggestion that the expenditure was unreasonable in amount. The only question raised was as to the right of the trustee to be reimbursed for the expense which he had incurred in sustaining the will. This trustee was a legatee under the will and when it accepted the trust it owed to those whose interests it represented the duty of maintaining the will against the attack made upon it. It is true that the contestant was one of the beneficiaries of the trust and that he would have taken more by having the will set aside, but he was not the only party interested in the trust estate and his father had deemed it wise to guard the trust fund against the improvidence of his son by imposing strict limitations upon his enjoyment of the income. The principal of the trust fund was to he paid to the children of the contestant; to carry out the intention of the testator the fund must be preserved in order to protect the rights of children who might be born after the death of the testator. In default of children surviving the life tenant the sum of $6,000 was to be paid to a charity.' Had Horace M. Hoffman succeeded in his endeavor to overthrow his father’s will, the rights of those entitled to take the entire fund in remainder would have been defeated. It could not at that time have been assumed that he would die without leaving children surviving him, and it was the duty of the trustee to protect the interest of those whom the testator had designated as the objects of his bounty. When the life tenant under the spendthrift trust sought to defeat the trust created by the will of his father, the trustee upon whom the testator had imposed the duty of protecting the interest of those in remainder was not bound to suffer those interests to be swept awray, and having successfully defended them, it is entitled to be reimbursed out of the trust estate for the reasonable expenses of such defense: Titlow’s Estate, supra. The testator had so mingled the interests and rights of the beneficiaries of this fund that the duty of the appellant was to protect the trust estate as a whole, and the entire fund is chargeable for the expenses incurred in its defense. We are of opinion that the learned court erred in refusing to allow the items for counsel fee and stenographer’s bill for which the appellant claimed credit.
+The decree is reversed, and the record is remitted with direction to the court below to restate the account in accordance with the' foregoing opinion.
