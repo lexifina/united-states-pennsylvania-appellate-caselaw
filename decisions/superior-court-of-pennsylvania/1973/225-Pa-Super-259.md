@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 26"
+decided: "1973-03-27"
+citations: ["225 Pa. Super. 259"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Weight, P. J., Watkins, Jacobs, Hoffman, Spaulding, Ceecone, aud Spaeth, JJ.", "Weight, P. J., would affirm the judgment of the court below."]
+parties: ["Commonwealth v. Myers, Appellant."]
+source_url: "https://static.case.law/pa-super/225/cases/0259-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 806104
+cites_cases: ["222 Pa. Superior Ct. 296", "294 A. 2d 805"]
+---
+
+# Commonwealth v. Myers
+
+## Majority (Watkins, J.,)
+
+Opinion by
+Watkins, J.,
+This is an appeal from the judgment of sentence of the Court of Common Pleas of Dauphin County, Criminal Division, sentencing the appellant, Zootie Myers, as a third offender to a life sentence under The Drug, Device and Cosmetic Act, Act of 1961, September 26, P. L. 1664, §20, 35 P.S. §780-20(d), as amended.
+The appellant was convicted on February, 1972, on an indictment which recited that the defendant was being tried as a third offender and the penalty to be requested was a life sentence if convicted. The defendant was found guilty after a trial by jury and on April 11, 1972, was sentenced to life imprisonment.
+The Drug, Device and Cosmetic Act, supra, sets forth offenses and permissible sentences as follows:
+§780-20
+“(c) Any person who possesses any narcotic drugs in violation of the provisions of this act shall be guilty of a felony, and upon conviction thereof, shall be sentenced, as follows: For a first offense to pay a fine not exceeding two thousand dollars ($2,000.00) and to undergo imprisonment by separate or solitary confinement at labor of not less than two (2) years and not exceeding five (5) years; for a second offense, or in case of a first conviction of violation subject to the provisions of this subsection, the offender shall previously have been convicted of any violation of the laws of the United States or of any other state, territory or district, relating to narcotics drugs, and said violation would have been a violation of the provisions of the law to which this subsection is applicable, had it occurred in this Commonwealth, to pay a fine not exceeding five thous- and dollars ($5,000.00) and to undergo imprisonment by separate or solitary confinement at labor of not less than five (5) years and not exceeding ten (10) years, and for a third or subsequent offense, or if the offender shall previously have been convicted two or more times in the aggregate of any violation of the law of the United States or of any other state, territory or district, relating to narcotic drugs, and said violation would have been a violation of the provisions of this act relating to sale or possession of narcotics, had it occurred in this Commonwealth, to pay a fine not exceeding seven thousand five hundred dollars ($7,500.00) and to undergo an imprisonment by separate or solitary confinement at labor of not less than ten (10) years and not exceeding thirty (30) years.
+“(d) Any person who sells, dispenses or gives away any narcotic drugs in violation of the provisions of this act shall be guilty of a felony, and upon conviction thereof, shall be sentenced, as follows: For a first offense, to pay a fine not exceeding five thousand dollars ($5,000.00) and to undergo imprisonment by separate or solitary confinement at labor for an indeterminate term having a minimum of five (5) years and a maximum of twenty (20) years; for a second offense, or if in case of the first conviction of violation of any provisions of the law to which this subsection is applicable the offender shall previously have been convicted of any violation of the laws of the United States or of any other state, territory or district, relating to narcotic drugs, and said violation would have been a violation of the provisions of this act relating to sale or possession of narcotics, had it occurred in this Commonwealth, to pay a fine not exceeding fifteen thousand dollars ($15,000.00) and to undergo imprisonment by separate or solitary confinement at labor for an indeterminate term having a minimum of ten (10) years and a maximum of thirty (30) years, or both; and for a third or subsequent offense, or if the offender shall previously have been convicted two or more times in the aggregate of any violation of the law of the United States or of any other state, territory, or district, relating to narcotic drugs, and said violation would have been a violation of the provisions of the law to which this subsection is applicable, had it occurred in this Commonwealth, to pay a fine not exceeding thirty thousand dollars ($30,000.00) and to undergo an imprisonment by separate or solitary confinement at labor for the term of his natural life.”
+It is eminently clear that the Legislature created two separate classes of offenses in each of the subsections — one for possession and one for selling or dispensing or giving away any narcotic drugs. Subsection (d) of the Act permits a fine of thirty thousand dollars (|30,000.00) and imprisonment for the term of his natural life for conviction of a third or subsequent offense if tho offender previously had been convicted “two or more times in the aggregate of any violation of the law of the United States or of any other state, territory or district, relating to narcotic drugs, and said violation would have been a violation of the provisions of the law to which this subsection is applicable, had it occurred in this Commonwealth.” (Emphasis added.)
+This clearly indicates that the three offenses contemplated would have to be for selling, dispensing or giving away of narcotic drugs which is commonly referred to as “pushing”, and the more serious sentences are permitted for these offenses.
+It is, therefore, error for the court below to try the appellant as a third offender under this subsection as the prior convictions were (1) in 1957 in the United States District Court for the Middle District of Pennsylvania for the unlawful sale of narcotic drugs; and (2) in 1969, a conviction in Pennsylvania for two counts of unlawful possession, since the act intends that the life sentence only be imposed after three convictions for selling, dispensing or giving away of narcotic drugs.
+Judgment of sentence is reversed and the case remanded for re-sentencing in accord with Commonwealth v. Simpson, 222 Pa. Superior Ct. 296, 294 A. 2d 805 (1972), as a second offender.
+Weight, P. J., would affirm the judgment of the court below.
