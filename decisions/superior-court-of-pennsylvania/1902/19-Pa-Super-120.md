@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1; Appeal, No. 74"
+decided: "1902-01-21"
+citations: ["19 Pa. Super. 120"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, W. W. Porter and W. D. Porter, JJ."]
+parties: ["Hector Township Road"]
+source_url: "https://static.case.law/pa-super/19/cases/0120-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 839526
+cites_cases: ["10 Pa. Superior Ct. 87", "108 Pa. 250", "109 Pa. 118", "11 Pa. Superior Ct. 232", "114 Pa. 627", "12 Pa. Superior Ct. 491", "130 Pa. 190", "140 Pa. 632", "150 Pa. 512", "152 Pa. 319", "152 Pa. 819", "155 Pa. 53", "16 Pa. Superior Ct. 579", "18 Pa. 220", "18 Pa. Superior Ct. 160", "2 P. & W. 209", "35 Pa. 280", "4 Pa. Superior Ct. 511", "48 Pa. 314", "58 Pa. 66", "73 Pa. 127", "76 Pa. 189"]
+---
+
+# Hector Township Road
+
+## Majority (Rice, P. J.,)
+
+Opinion by
+Rice, P. J.,
+The report of viewers in this case was approved, and the width of the road fixed on February 26,1859. The report was confirmed absolutely on September 21,1859. On June 11,1900, the supervisors of the township applied for, and obtained, a rule to show cause why the confirmation absolute should not be opened and they be permitted to file exceptions nunc pro tunc. The court subsequently discharged the rule, and from that order this appeal was taken.
+So far as such an application is addressed to the discretion of the quarter sessions and is based on allegations of fact outside the record, the decision of that court is final. Hence the finding of the court upon the question whether the road has been actually opened is not reviewable on this appeal. Further, no irregularity in the proceedings which did not go to the jurisdiction of the court to make the original decree, or present on the face of the record an insuperable barrier to the execution of an order to open can now be considered: Cassville Borough Road, 4 Pa. Superior Ct. 511; Crescent Township Road, 18 Pa. Superior Ct. 160. See also Road in Herrick Township, 16 Pa. Superior Ct. 579. Therefore, the only exception proposed to be filed by the applicants, which we are called upon to discuss, is the third, namely: “ That the termini of the road are not sufficiently defined in the petition, nor in the report of viewers.” But absolute mathematical precision of definition is not required. It is sufficient if there be substantial conformity between the petition and the report and if they be described so that the road can be located with reasonable certainty. If there is substantial conformity between the petition and the report, and either terminus is definitely fixed in the report, a defect in the description of the other terminus is not necessarily fatal; for this may be ascertainable by tracing the courses and distances reported: Bean’s Road, 35 Pa. 280; Road in Sterrett, 114 Pa. 627, 633. See also Road in Dunbar Township, 12 Pa. Superior Ct. 491, at p. 494; Roche’s Private Road, 10 Pa. Superior Ct. 87. If these principles are applicable when the record is brought up for review in the mode, and within the time, prescribed by law, they apply with added force where it is sought to set aside a decree which has stood unquestioned for forty years. In such a case it is not our duty to examine, the record microscopically in a search for flaws, but to give to it every reasonable intendment. The report describes the road as follows:. “ Beginning in the road or highway near R. W. Moore’s, thence,” by given courses and distances, “ to the road a little west of Peter B. Lovell’s fields.”
+The draft annexed to the report is properly a part of it, and is to be considered in determining as to the sufficiency of the designation of the termini: Road in South Abington Township, 109 Pa. 118; Roche’s Private Road, supra. This shows the location of R. W. Moore’s house; a line, evidently indicating the highway running past it; the terminus of the proposed road at a point in that highway opposite the house; its direction from the house; the courses and distances ; P. B. Lovell’s house; and the highway passing it in which the proposed road terminated. This, by giving it reasonable intendment, is what the record shows. Thus viewing it, we are unable to say that it was absolutely impossible for the supervisors to locate the road.
+Possibly, if exceptions had been taken at the proper time, the court below would have felt constrained to refer the report back to the viewers with direction to define the termini with greater precision. But neither exception nor appeal was taken. The township officers ignored the remedies provided by law for the correction of errors and irregularities in the proceedings. Having done so, it is too plain for argument, that in order to prevail in their present mode of attack upon the decree they must show by the record, either that the court had not jurisdiction to make it, or that there is “ an insuperable barrier to its execution.” This was expressly conceded by the court in the Crescent Road Case, supra, where the attack was successful, and is sustained by the cases of Road in Salem Township, 108 Pa. 250; Road in Adams Township, 130 Pa. 190, and Road in Roaring Brook Township, 140 Pa. 632. Our conclusion is, that the record does not show such defects as would warrant us in directing the court below to open or set aside the decree.
+The order is affirmed, the appellants to pay the costs of the appeal.
