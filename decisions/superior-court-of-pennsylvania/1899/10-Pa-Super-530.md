@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+decided: "1899-07-28"
+citations: ["10 Pa. Super. 530"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Ort.attv, W. W. Porter, W. D, Porter and Beeber, JJ."]
+parties: ["Mrs. E. F. Dutton v. J. W. Wetmore and Fin Adams, Appellants."]
+source_url: "https://static.case.law/pa-super/10/cases/0530-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 819411
+cites_cases: ["136 Pa. 588", "31 Pa. 426", "37 Pa. 379", "8 Watts, 282"]
+---
+
+# Dutton v. Wetmore
+
+## Majority (Beaveb, J.,)
+
+Opmroir by
+Beaveb, J.,
+This case was clearly one for the jury. The charge of the court submitting it was adequate, full and clear and, on the whole, favorable to the appellants. That the plaintiff purchased the crop of wheat upon the farm subsequently leased to Adams, one of the defendants, was not denied. The plaintiff thereby acquired the right to the possession of the field upon which the wheat was growing, at least so far as it was necessary to enable her to harvest and remove her property. If that right was interfered with by the defendants, it was trespass and the action would lie.
+The plaintiff was aware of the fact that the defendant, Adams, was leasing the farm from Branchard, from whom she had purchased the wheat in the ground. The mere fact of the lease being made did not convey any intimation of its contents. The paragraph relating to the half of the crop is peculiar. It is not usual for the landlord to convey to the tenant a portion of the crop already in the ground. The mere fact, therefore, of the plaintiff’s knowledge of a lease being made and executed did not compel her to speak and give notice of her claim to the crop of wheat. Had she knowledge of the contents of the lease? This was a question of fact in dispute, upon which the jury was bound to pass. The court distinctly charged them that, if she had knowledge of the contents, she was es-topped from claiming the wheat, because it was her duty at the time to speak; and, if, with knowledge of the fact that Adams was purchasing a part of the crop, she kept silence, her silence would bind her and she could not subsequently claim what Adams was otherwise entitled to receive under the lease.
+The second assignment of error is not fair to the court below. The quotation from the charge of the court, set forth in it, stops in the midst of a sentence. The court did not charge, as set forth in the second assignment of error, “If Adams did nothing more than to harvest the crop to protect his own half and made no claim beyond that, you might find against Mr.. Wetmore and in favor of Mr. Adams; or you may find against both defendants,” but added in the same sentence, “or in favor of both defendants, as you find the facts to be, under the instructions I have and will give.” This conveys an entirely different impression from what is apparently sought to be conveyed by the quotation as made by the appellant. As quoted, it would seem to convey an intimation that the jury could find only against one or both defendants. The remainder of the sentence, however, clearly states the alternative proposition. The specification is practically a violation of our Rule 16 and might be entirely ignored but, inasmuch as there is no semblance of error in the portion of the charge partially quoted, when considered in its entirety, we prefer to pass upon it.
+There is no error in the answer of the court to the defendants’ second point. The claim therein made is that “ She (plaintiff) is estopped from subsequently asserting her ownership as against Adams.” Adams claimed no more than one half of the crop under his lease from Branchard. We cannot see, therefore, how the court could have answered the point differently. The qualification did not limit the force of the affirmance.
+The other assignments of error are to the refusal of the court to take the case from the jury as to either of the defendants. As to the defendant Wetmore, the court in its charge said: “As to Mr. Wetmore, was he concerned in this harvesting and sale of the wheat of Mr. Adams ? If he simply counseled Mr. Adams, as attorney, he would not be liable and you should not find against him; but, if Mr. Wetmore claimed an interest in this wheat and, as an owner or part owner, advised Mr. Adams to go on and harvest and sell the wheat and subsequently Mr. Wetmore received a portion of the proceeds, he would be liable as a joint trespasser. How do you find this fact? Was he simply acting as attorney or was he concerned in it, because of his alleged interest in the wheat ? That is a question for you to decide and as you decide that question your verdict will be as to Mr. Wetmore.” Then follows the portion of the charge partially quoted and assigned for error in the second specification. In all this there was no semblance of error. The testimony as to Mr. Wetmore’s acts and interest was such as to justify the jury in their finding. As to the other defendant, the jury could readily find from the evidence that he had cut the crop after notice of the plaintiff’s claim and in defiance of her alleged rights. We can find no error in the submission of the case to the jury and the judgment is, therefore, affirmed.
