@@ -1,0 +1,49 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "329"
+decided: "1981-05-15"
+citations: ["287 Pa. Super. 180", "429 A.2d 1160"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before SPAETH, WICKERSHAM and LIPEZ, JJ."]
+parties: ["FIRST PENNSYLVANIA SAVINGS ASSOCIATION, formerly known as Troy Savings and Loan Association, Appellant, v. FOUR SEASONS RACQUET CLUB, INC., William F. Choltko, Janice M. Olszewski, James A. Huet and Carol T. Huet, his wife."]
+source_url: "https://static.case.law/pa-super/287/cases/0180-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 164685
+cites_cases: ["117 A. 207", "136 A.2d 838", "165 Pa.Super. 119", "191 A.2d 814", "217 Pa. 321", "271 Pa. Super. 292", "273 Pa. 501", "349 Pa. 339", "37 A.2d 733", "390 Pa. 618", "411 Pa. 257", "66 A. 550", "67 A.2d 757"]
+---
+
+# First Pennsylvania Savings Ass'n v. Four Seasons Racquet Club, Inc.
+
+## Majority (SPAETH, Judge:)
+
+SPAETH, Judge:
+This is a deficiency judgment action. On petition to fix fair market value, the lower court, sitting without a jury, fixed the value of the property at $300,000. On exceptions, the court en banc fixed the value at $375,000. We have concluded that we are unable to accept the court’s explanation of the change and that the case must therefore be remanded for reconsideration.
+On July 2,1979, appellant bought the property at sheriff’s sale for $1,988.18. Interest and other charges were $5,472.74, and taxes were $2,143.78. On October 12, appellant filed a petition to fix fair market value, claiming the value to be $210,000. In their answer to the petition, appellees claimed the value to be $450,000. On October 26, the lower court held a hearing, without a jury, and on November 2, fixed the value at $300,000. Appellees filed exceptions, which were argued to the court en banc on February 29, 1980. On March 14, 1980, the court sustained the exceptions and fixed the value at $375,000. Appellant argues that we should vacate the court en banc’s determination of value and reinstate the trial judge’s determination.
+At the conclusion of the testimony the trial judge made the following statement:
+The Court is going to fix the fair market value for the property, land and buildings, and this is based upon in addition to the testimony of all the witnesses, in particular Mr. Reilly’s [sic; Rielly][] testimony concerning the depressed real estate market which I’m sure he didn’t need to testify to (everybody’s aware of it) and [sic; at ?] three hundred thousand dollars, and I’ll file an order and you gentlemen will receive copies of it. That’s all.
+(N.T. 36)
+This finding did not have the effect of preventing the trial judge from changing his mind. A judge who as trial judge makes a finding of fact may later as a member of a court en banc join in making a contrary finding, so long as the contrary finding is supported by sufficient evidence. McClements v. McClements, 411 Pa. 257, 191 A.2d 814 (1963); Morgan’s Home Equipment Corp. v. Martucci, 390 Pa. 618, 136 A.2d 838 (1957). Here, the trial judge was a member of, and wrote the opinion for, the court en banc. The question we must decide, therefore, is whether the finding by the court en banc that the fair market value of the property was $375,000 instead of $300,000 is supported by sufficient evidence.
+In approaching this question, we are mindful that on an appeal from an order fixing fair market value, our scope of review is limited. Union Nat. Bk. of Ptgh. v. Crump, 349 Pa. 339, 37 A.2d 733 (1944); Davis v. Shenandoah Boro, 273 Pa. 501, 117 A. 207 (1922); Jones v. Weir, 217 Pa. 321, 66 A. 550 (1907). We do not weigh the evidence, or resolve any conflicts in it, or pass upon the credibility of the witnesses. So long as the findings of the lower court are supported by competent evidence, we will not disturb them. Irwin Borough Annexation Case, 165 Pa.Super. 119, 67 A.2d 757 (1949); Union Ntl. Bank of Ptgh. v. Crump, supra.
+In his opinion for the court en banc, the trial judge explained the court’s finding that the fair market value of the property was $375,000 instead of $300,000 as follows:
+The defendants [appellees] make specific objection[] to the Court’s taking judicial notice of the depressed market value of the property, since there was no testimony that the market for the sale of the subject real estate was depressed at the time of the Sheriff’s Sale in July of 1979. The Court agrees with the defendants that its knowledge of the real estate market was insufficient to make such a finding.
+The defendants also point out that the plaintiff’s [appellant’s] real estate expert, William Rielly in his testimony limited the use of the building to a restaurant and failed to take into consideration 760 square feet of space on the second floor of the building on said real estate when he set the fair market value at $250,000.
+Slip op. at 2-3.
+As we have considered this explanation, we have encountered several difficulties.
+First: The statement that the trial judge “[took] judicial notice of the depressed market values of the property, since there was no testimony that the market . .. was depressed at the time of the Sheriff’s Sale ...” is not supported by the record. It is true that at the conclusion of the testimony, the trial judge said that Rielly “didn’t need to” testify to the depressed market because “everybody’s aware of it,” N.T. 36 but, as the judge also said, in fact there had been “testimony ... concerning the depressed real estate market,” id. It would appear, therefore, that the trial judge did not take judicial notice that the market was depressed.
+Second: The statement that Rielly “limited the use of the building to a restaurant” is also not supported by the record. Thus, Rielly testified:
+It’s a special purpose building and it was altered from a theatre building or, in my opinion, you’d have to alter it. It wouldn’t be economically sound to operate for that use, and you’d have to revert it to a commercial use, and I tried to weigh the property from this aspect.
+THE COURT: Only as a restaurant, or some other .. . A: Well, either as a restaurant, Your Honor, or for a commercial storeroom, either clothing or multipurpose cleaner stop type and barbershop, multi-stop.
+(N.T. 4-5)
+Finally: The only other reason given for the court en banc’s decision to increase fair market value was that Rielly “failed to take into consideration 760 square feet of space on the second floor of the building on said real estate when he set the fair market value at $250,000.” (Slip op. p. 3) Once again, however, our review of the record indicates that Rielly did indeed consider the second floor of the building in setting the property’s value. (N.T. 3)
+Given these several difficulties, we are unable to accept the court en banc’s explanation of its finding that the fair market value of the property was $375,000 instead of $300,-000, as the trial judge had found. We are nevertheless unwilling simply to reinstate the trial judge’s finding. Although we cannot determine from its opinion why the court en banc was dissatisfied with the trial judge’s finding, it is apparent that for some reason it was dissatisfied. For us to reinstate the trial judge’s finding would, we fear, represent too broad an exercise of our scope of review. Therefore, we shall remand to the lower court so that it may reconsider the case and decide whether the trial judge’s finding should be changed, and if so, by how much. The court should then enter a new order, accompanied by an opinion fully explaining the basis for the change. Bedillion v. W. A. Wilson Stave Co., Inc., 271 Pa. Super. 292, 300, 413 A.2d 411, 413 (1979). Any further appeal in this case must be from that new order.
+Reversed and remanded.
+. This was evidently an inadvertence. We did not find in the record any testimony by Mr. Rielly concerning the depressed real estate market; however, we did find such testimony by appellees’ witness John Paul Levinson. (N.T. 11)
+. We have been unable to find such an objection in the record; it is not, in any event, included among appellees’ exceptions, which are at pp. 98-100 of the reproduced record.
+. As noted above, although the trial judge referred to “the testimony of all the witnesses, in particular Mr. Reilly’s [sic] testimony concerning the depressed real estate market,” the testimony was not by Mr. Rielly but by Mr. Levinson. See footnote 1, supra.
+. We have not discussed the point, but apparently it is agreed by the parties that the judgment entered against appellees James A. Huet and Carol T. Huet should in any event be reduced by such amount as represents attorney’s fees, interest and other late payment charges assessed on a $20,000 note. On remand, the lower court may attend to this when it enters its new order.
+. Appellees have argued that we should award them reasonable counsel fees as part of the taxable costs, citing as authority for such an award Section 2503 of the Judicial Code, Act of July 9, 1976, P.L. 586, No. 142 § 2, 42 Pa.C.S.A. § 2503, which provides in part:
+The following participants shall be entitled to a reasonable counsel fee as part of the taxable costs of the matter:
+(9) Any participant who is awarded counsel fees because the conduct of another party in commencing the matter or otherwise was arbitrary, vexatious or in bad faith.
+Appellees claim that appellant acted in bad faith in causing judgment to be entered against James and Carol Huet on a note they had not guaranteed, and in failing to have its expert witness consider a recent sale of property in the vicinity of the mortgaged property. (Appellees’ Brief at 11.) However, we find this claim to have been waived by appellees’ failure to preserve it in the lower court.
