@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 152"
+decided: "1956-01-17"
+citations: ["180 Pa. Super. 534"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Ross, Gunther, Wright, Woodside, and Ervin, JJ."]
+parties: ["Welker Unemployment Compensation Case."]
+source_url: "https://static.case.law/pa-super/180/cases/0534-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 730768
+cites_cases: ["106 A. 2d 879", "112 A. 2d 405", "158 Pa. Superior Ct. 548", "158 Pa. Superior Ct. 564", "159 Pa. Superior Ct. 567", "165 Pa. Superior Ct. 376", "169 Pa. Superior Ct. 470", "176 Pa. Superior Ct. 290", "177 Pa. Superior Ct. 618", "356 Pa. 43", "45 A. 2d 898", "45 A. 2d 909", "49 A. 2d 260", "50 A. 2d 336", "67 A. 2d 801", "82 A. 2d 558"]
+---
+
+# Welker Unemployment Compensation Case
+
+## Majority (Ross, J.,)
+
+Opinion by
+Ross, J.,
+In tMs unemployment compensation case, benefits were denied to tbe claimant-appellant, Louise E. Welker, on tbe ground that she left her employment voluntarily and was therefore barred from benefits under tbe provisions of section 402 (b) of tbe Act, 43 P.S. sec. 802 (b).
+Claimant was employed by tbe Pittsburgh Coke and Chemical Company in Pittsburgh as a laboratory technician. Her duties are not clear from tbe record, but they did include, but were not limited to analyzing blood of tbe workers who bandied toxic chemicals as well as some general laboratory procedures. She claims that she was specifically hired to handle this toxic blood analysis but that the program did not fully develop to the extent of keeping her busy at these procedures full time; and consequently she either did nothing or did some other laboratory work. She explained: . . they laid off practically all the men that I had worked with and Dr. Osterritter tried to set up some system whereby they would have a program of examining the men yearly so that that would give me some work, but that fell through . . . Well, that just left us flat . . . there were just general laboratory procedures that I could have followed, but I had been familiar with that company for about twenty years since my senior work there and I had those jobs offered to me a dozen times before and I refused them because the training that I took, I wouldn’t take a general laboratory worker’s job.” Suitable work was still available, though, for immediately after she left the employment, her position was filled by another laboratory technician. In essence, claimant felt that her training was not being fully utilized and that in order to keep abreast, she would leave Pittsburgh to find something-in her specialty elsewhere and she went to Alaska. At the time of the hearing she still had not found new employment in her field there.
+Since there is no question that she left her employment voluntarily, the only issue is whether she did so with good cause. That burden was upon her. Seroskie v. Unemployment Compensation Board of Review, 169 Pa. Superior Ct. 470, 82 A. 2d 558. The principles governing decisions in these cases are well established; their application, though, depends upon the individual factual situation. Barclay White Co. v. Unemployment Compensation Board of Review, 356 Pa. 43, 48, 50 A. 2d 336. The cause of leaving employment must meet the test of ordinary common sense and prudence, Kaylock Unemployment Compensation Case, 165 Pa. Superior Ct. 376, 67 A. 2d 801; it must be compelled by circumstances which are “real not imaginary, substantial not trifling, reasonable not whimsical”, Sturdevant Unemployment Compensation Case, 158 Pa. Superior Ct. 548, 557, 45 A. 2d 898; and of course, good cause must rest in good faith, not only in the sense of freedom from fraud, but also in the sense of “conduct which is consistent with a genuine desire to work and be self supporting.” Brilhart Unemployment Compensation Case, 159 Pa. Superior Ct. 567, 569, 49 A. 2d 260. In the light of these principles, the claimant here has not shown such good cause as is contemplated by the Compensation Act.
+She made no effort to discuss the problem with the officials of the Pittsburgh Coke and Chemical Company before leaving because she thought that they “wouldn’t understand the technicalities involved.” In Albright Unemployment Compensation Case, 176 Pa. Superior Ct. 290, 106 A. 2d 879, the claimant, who was employed as a bookkeeper, left his employment because there was not enough work and because he had been promised certain responsibilities which did not materialize. He admitted that he never protested the lack of work. We held, despite his commendable desire to have sufficient and responsible duties, that the circumstances were not so compelling or necessitous as to amount to good cause for leaving. We indicated that he should first have discussed the matter with his employer in an effort to obtain more work. There is little difference on the facts, and no difference in principle between that and the instant case. Claimant’s conduct here was unreasonable and imprudent under the circumstances; and though she apparently satisfied herself of the sufficiency of her reasons for leaving, her actions, from the standpoint of the law, were impulsive and as such, of course, no proper base upon which to predicate good cause. Dames Unemployment Compensation Case, 158 Pa. Superior Ct. 564, 566, 45 A. 2d 909.
+Decision affirmed.
+If claimant’s contract of employment was breached, sbe should have resorted to legal remedies for breach of contract. Of. Horning Unemployment Compensation Case, 177 Pa. Superior Ct. 618, 620, 112 A. 2d 405.
