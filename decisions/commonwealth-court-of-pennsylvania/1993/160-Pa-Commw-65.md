@@ -1,0 +1,57 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "2623 C.D. 1992"
+decided: "1993-11-18"
+citations: ["160 Pa. Commw. 65", "634 A.2d 701"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CRAIG, President Judge, SMITH, J., and KELTON, Senior Judge."]
+parties: ["Julia GRAVES, Petitioner, v. PENNSYLVANIA HUMAN RELATIONS COMMISSION, Respondent."]
+source_url: "https://static.case.law/pa-commw/160/cases/0065-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1454610
+cites_cases: ["136 Pa. Commonwealth Ct. 216", "507 Pa. 325", "527 Pa. 619", "532 Pa. 547", "590 A.2d 759"]
+---
+
+# Graves v. Pennsylvania Human Relations Commission
+
+## Majority (KELTON, Senior Judge.)
+
+KELTON, Senior Judge.
+Julia Graves (Complainant), who sought to file a complaint for unlawful discrimination under the Pennsylvania Human Relations Act (the Act), petitions for review of the November 6, 1992 letter of the Human Relations Commission (Commission) dismissing her complaint for lack of jurisdiction. The Commission has filed a motion to dismiss Complainant’s petition for review asserting that the Commission’s letter is not an appealable final order.
+The primary issue for our determination is whether this Court has jurisdiction to review the Commission’s determination that Complainant had not timely filed her complaint. If jurisdiction lies in this Court, the issue on appeal is whether the Commission erred in finding no equitable grounds to toll the statute of limitations.
+FACTUAL HISTORY
+The Commission found that Complainant had filed her complaint beyond the 180-day time limitation period permitted by the statute of limitations in the Act. Because the Commission made no other findings of fact, we here summarize the relevant, undisputed events leading to this appeal.
+On March 8, 1991, Complainant was terminated from her job at the University of Pennsylvania Dining Services (Dining Services). Within days, Complainant contacted the Commission to initiate charges against the Dining Services for discrimination on the basis of race and/or disability. On March 13,1991, Complainant sent to the Commission three completed forms detailing her employment history and desired relief along with a two page letter explaining her allegations.
+By letter of April 4, 1991, the Commission’s investigator assigned to her case advised Complainant of the following:
+In order to assist you to file a formal complaint with our agency, it will be necessary to secure additional information. A written complaint must be received within one hundred eighty days (180) of the alleged discriminatory act; otherwise, we will be unable to help you.
+Please contact me at your earliest convenience so that we may schedule an appointment to secure the necessary information.
+If I do not hear from you within fifteen (15) days, I will assume you are not interested in pursuing this matter. (Certified Record at 11.)
+The parties disagree as to whether Complainant contacted the investigator within the time provided. Complainant avers that she telephoned the investigator within fifteen days to say that she had no further information. The investigator, however, inactivated her file on April 20, 1991 for Complainant’s alleged failure to respond within fifteen days.
+Complainant then contacted the investigator by telephone on September 24, 1991. The investigator responded by letter of October 2, 1991, informing Complainant that no complaint had been filed on her behalf and that the 180-day time limitation to do so had elapsed.
+On July 24, 1992, Complainant submitted a late filing questionnaire and formal complaint. The Commission uses the late filing questionnaire to determine whether any basis exists for waiving the statute of limitations. Complainant indicated in the questionnaire that she believed that she had timely filed a formal complaint.
+On September 14, 1992, the Commission informed Complainant that there were no equitable grounds for tolling the statute of limitations period. By letter of November 6, 1992, the Commission notified Complainant of the dismissal of her complaint as untimely. The Commission also advised Complainant of her right to request a preliminary hearing before the agency and to file a complaint in the court of common pleas. Complainant requested a preliminary hearing on November 16, 1992, which the Commission denied.
+On December 4, 1992, Complainant filed a petition for review in this Court. The Commission filed a motion to dismiss Complainant’s petition for review on January 26, 1993.
+DISCUSSION
+The Commission argues that its November 6, 1992 letter dismissing Complainant’s complaint as untimely is not a final appealable order. According to the Commission, the Commission’s dismissal of a complaint as untimely is not a final determination foreclosing a personal or property right because the complainant has the right to initiate a de novo proceeding in the court of common pleas. Section 12(c)(1) of the Act; Baker v. Pennsylvania Human Relations Commission, 507 Pa. 325, 489 A.2d 1354 (1985).
+In response to the Commission’s motion to dismiss, Complainant argues that the rationale of Baker, in which the Commission dismissed a complaint for lack of probable cause, is inapplicable to a dismissal for untimeliness because the complainant is precluded from proceeding in court for failure to exhaust administrative remedies. Vincent v. Fuller Co., 532 Pa. 547, 616 A.2d 969 (1992)
+On the merits, Complainant argues that the doctrine of equitable tolling, as provided in Section 12(e) of the Act, applies to this case where the Commission’s actions allegedly led her to believe that she had filed a timely complaint in March 1991. Commonwealth Bank & Trust Co., N.A. v. Winterberger, 136 Pa. Commonwealth Ct. 216, 582 A.2d 730 (1990), petition for allowance of appeal granted, 527 Pa. 619, 590 A.2d 759 (1991).
+In response to Complainant’s equitable tolling argument, the Commission contends that it properly dismissed her complaint as untimely. Under the circumstances of this case, the Commission argues that Complainant presented no evidence that the Commission had misled her into believing that a complaint had been filed on her behalf within the 180-day period. Therefore, the Commission concludes, there are no grounds to support equitable tolling of the statute of limitations in this case.
+CONCLUSION
+We do not discuss the issue of equitable tolling because we conclude that we lack jurisdiction to review the Commission’s decision to dismiss this case. The Judicial Code provides that this Court has jurisdiction of appeals from all final orders of Commonwealth agencies under Subchapter A of Chapter 7 of the Administrative Agency Law. 42 Pa.C.S. § 763(a). Under the Administrative Agency Law, a right of appeal to this court is provided to any person aggrieved by an adjudication of a Commonwealth agency. 2 Pa.C.S. § 702. An “adjudication” is defined as a final order, decision or determination by an agency affecting a personal or property right. 2 Pa.C.S. § 101.
+In Baker, which we find controlling, the Supreme Court determined that, where the complainant retains the right to proceed in court, the Commission’s decision not to exercise jurisdiction is not an adjudication affecting a personal or property right. Section 12(c) of the Act, as previously stated, specifically provides that where the Commission dismisses a complaint, the complainant has the right to proceed in the court of common pleas. The fact, therefore, that the Baker case involved the Commission’s determination of no probable cause does not affect the applicability of the Court’s rationale to our case. In neither case did the Commission’s denial of an administrative remedy preclude the complainant from seeking relief in court.
+Although we rely on the rationale that Complainant has the right to proceed in the court of common pleas, we recognize that Complainant’s right to judicial review of the merits of her claim is conditioned upon proper invocation of the court’s jurisdiction. Vincent. In Vincent, our Supreme Court ruled that to pursue the judicial relief authorized in Section 12(c), a complainant must have availed himself of the administrative process of the Commission. In that case, the Court held that “one who files a complaint that is later found to be untimely cannot be considered to have used the administrative procedures provided in the Act.” Vincent, 532 Pa. at 556, 616 A.2d at 974. Whether Complainant has exhausted her administrative remedies, therefore, is a jurisdictional issue within the purview of the court of common pleas and is not decided herein.
+For the foregoing reason, we conclude that judicial review of the Commission’s November 6, 1992 letter is not available to Complainant. Accordingly, we grant the Commission’s motion to dismiss Complainant’s petition for review for want of jurisdiction.
+ORDER
+AND NOW, this 18th day of November, 1993, the respondent’s motion to dismiss is granted and the petition for review is dismissed for want of jurisdiction.
+. Act of October 27, 1955, P.L. 744, as amended, 43 P.S. §§ 951-963.
+. Section 9(g) of the Act, 43 P.S. § 959(g).
+. The basis of Complainant’s charge of unlawful discrimination is that she was first demoted from a full-time to a part-time position requiring heavy lifting, despite the Dining Services’ knowledge of her back problems. While out on allegedly approved sick leave lor a subsequent back injury, the Dining Services dismissed Complainant. Complainant (race or ethnic origin not identified) states, however, that the Dining Services hired others with less seniority, including a white woman, for full-time and part-time positions within Complainant’s capabilities.
+. Section 12(c)(1) provides:
+If within one (1) year after the filing of a complaint with the Commission, the Commission dismisses the complaint or has not entered into a conciliation agreement to which the complainant is a party, the Commission must so notify the complainant. On receipt of such a notice the complainant shall be able to bring an action in the courts of common pleas of the Commonwealth based on the right to freedom from discrimination granted by this act.
+43 P.S. § 962(c)(1).
+. Section 12(e) provides that ”[t]he time limits for filing under any complaint or other pleading under this act shall be subject to waiver, estoppel and equitable tolling.” 43 P.S. § 962(e).
+. Our scope of review of a non-appealable agency action is analogous to the review available in a mandamus action within this Court’s original jurisdiction and is limited to questions of jurisdiction, the regularity of the proceedings, and constitutional issues. Baker. As held by the Supreme Court in Baker, Complainant is entitled to our review of whether the duties of the Commission have been discharged by the appropriate officials in accordance with the statute and the Commission’s own regulations. Id.
+Our independent review of the record reveals that the Commission properly exercised its power pursuant to 16 Pa.Code § 42.61 to dismiss Complainant's complaint as provided in Section 12(c) of the Act.
+. We note also that identical procedures apply whether the Commission dismisses a complaint on the basis of no probable cause as in Baker or for untimeliness as in this case. 16 Pa.Code § 42.61.
