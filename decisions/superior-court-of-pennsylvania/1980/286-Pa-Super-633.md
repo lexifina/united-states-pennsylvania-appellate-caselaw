@@ -1,0 +1,20 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "237"
+decided: "1980-05-16"
+citations: ["286 Pa. Super. 633", "427 A.2d 252"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before SPAETH, HOFFMAN and VAN der VOORT, JJ."]
+parties: ["Commonwealth v. Tedford, Appellant."]
+source_url: "https://static.case.law/pa-super/286/cases/0633-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 162207
+---
+
+# Commonwealth v. Tedford
+
+## Majority
+
+The order of the lower court is hereby affirmed.
