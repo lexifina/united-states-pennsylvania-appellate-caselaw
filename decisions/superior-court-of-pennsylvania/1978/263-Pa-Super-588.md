@@ -1,0 +1,20 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, No. 1435 and 1452"
+decided: "1978-12-22"
+citations: ["263 Pa. Super. 588", "400 A.2d 619"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CERCONE, SPAETH and LIPEZ, JJ."]
+parties: ["Jasper Wood Products Company, Inc. v. Carborundum Environmental Systems, Inc., Appellants. Jasper Wood Products Company, Inc., Appellant, v. Carborundum Environmental Systems, Inc."]
+source_url: "https://static.case.law/pa-super/263/cases/0588-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 117444
+---
+
+# Jasper Wood Products Co. v. Carborundum Environmental Systems, Inc.
+
+## Majority
+
+Order affirmed.
