@@ -1,0 +1,38 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "A-72591"
+decided: "1978-11-27"
+citations: ["38 Pa. Commw. 589"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Francis B. Campbell v. Cambria Mills Coal Co., Inc. and Commonwealth of Pennsylvania,"]
+source_url: "https://static.case.law/pa-commw/38/cases/0589-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1891102
+cites_cases: ["27 Pa. Commonwealth. Ct. 568", "353 A.2d 82", "367 A. 2d 360"]
+---
+
+# Campbell v. Cambria Mills Coal Co.
+
+## Majority (Judge Biatt,)
+
+Opinion by
+Judge Biatt,
+The Department of Labor and Industry (Commonwealth) appeals here from the decision of the Workmen’s Compensation Appeal Board (Board) that it pay fifty percent of a compensation award granted to Francis B. Campbell (claimant).
+The claimant filed a petition for compensation under the provisions of The Pennsylvania Workmen’s Compensation Act (Act) on October 10, 1974, alleging that he became totally disabled as a result of his exposure to coal dust while employed by Cambria Mills Coal Co., Inc. (employer) and also alleging that this disability began as of August 23, 1974, which was the date when he was examined by his physician. The claimant was subsequently examined by two other physicians at the request of the employer and also by an impartial physician appointed by the referee. On the basis of the medical testimony of the impartial physician, offered at the hearings, the referee awarded compensation for partial disability to the claimant beginning December 8, 1975, the date of the medical report submitted by the impartial physician. The referee assessed liability for payment of the compensation against the Commonwealth and the employed in the proportion of 75% payable by the employer and 25% payable by the Commonwealth pursuant to Section 305.1 of the Act, 77 P.S. §411.1.
+The employer appealed from this decision to the Board, arguing that the referee had erred by making inconsistent findings of fact and that the allocation of liability between the Commonwealth and the employer should have been equal, each contributing fifty percent. The relevant findings of fact are as follows:
+16. That your referee finds as a fact that because of the partial disability and limitations placed upon the claimant by the doctor as well as his education, training, experience, etc., the claimant’s partial disability has resulted in a total loss of earning power since December 8, 1975.
+17. That the claimant first learned the cause of his disability on October 1, 1974, and on that same date proper notice was given to the defendant and the Commonwealth of Pennsylvania, Department of Labor and Industry.
+The Board, however, sustained the employer’s appeal finding that the “[claimant knew of his disability on or about October 1, 1974.” It reallocated liability, therefore, holding that “under Section 305.1, liability of the employer and the Commonwealth are equal.” The Commonwealth has appealed this reallocation of liability.
+Section 427 of the Act, 77 P.S. §876.1, which limits our scope of review in workmen’s compensation appeals is that defined in Section 44 of the Administrative Agency Law, 71 P.S. §1710.44, which limits our scope of review here to a determination of whether or not an error of law was committed, constitutional rights were violated, or whether or not findings of fact are unsupported by substantial evidence.
+The Commonwealth argues that the Board erred by using the date on which the claimant first knew of his disability to determine the allocation of liability instead of the date on which disability was established. Although the Board’s opinion is not entirely clear, we believe that the Board’s change in the apportionment of liability essentially implies that the Board believed the date of disability to be on or about October 1, 1974 when he informed his employer that he was disabled pursuant to being so advised by his physician. It should be noted, however, that the facts of this case differ from those before us in Garden Goal Co., Inc. v. Workmen’s Compensation Appeal Board, 27 Pa. Commonwealth. Ct. 568, 367 A. 2d 360 (1976) where we held that it was proper for the referee, in determining when disability occurred, to utilize the date of medical confirmation of the claimant’s disability instead of the date upon which the claimant had “knowledge” of his disability. In the present case the claimant’s knowledge of his disability resulted from the medical opinion rendered by his physician and thus on this date he had both “knowledge” of his disability as well as “medical confirmation” of it.
+In the alternative, the Commonwealth argues that, if the Board did find the earlier date to be the date on which disability was established, it was improperly acting as a fact-finder. It is true, of course, that the findings of the referee concerning the date of disability are binding on the Board if supported by substantial evidence. Workmen’s Compensation Appeal Board v. Rochester and Pittsburgh Goal Co., 23. Pa. Commonwealth Ct. 441, 353 A.2d 82 (1976). In this case, however, although the referee accepted the findings of the impartial physician as to the existence of disability,, this physician made no mention of the date upon which such disability commenced. The only evidence, therefore, which was presented regarding the date of disability, established that the claimant was disabled on the earlier date.
+We affirm the decision of the Board.
+Order
+And Now, this 27th day of November, 1978, the order of the Workmen’s Compensation Appeal Board is hereby affirmed and judgment is entered in favor of Francis B. Campbell in the amount of $73.34 weekly compensation. The' Cambria Mills Coal Co., Inc. will pay compensation at the rate of 50 percent of $73.34 weekly (i.e., $36.67 per week) to continue within the limitations of The Pennsylvania Workmen’s Compensation Act. The Department of Labor and Industry, Bureau of Occupational Injury and Disease Compensation will pay $225.00 to Samuel M. Bradley, M.D. for medical services rendered and compensation at the rate of 50 percent of $73.34 weekly (i.e., $36.67 per week) to continue within the limitations of The Pennsylvania Workmen’s Compensation Act. The Cambria Mills Coal Co., Inc. and the Commonwealth will both make any back payments due and owing. Accrued compensation shall bear the statutory interest rate of ten percent.
+Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §1 et seq.
+This section provides:
+Any compensation payable under this act for silicosis, anthraco-silicosis or coal-worker’s pneumoconiosis as defined in Section 108 (q) for disability occurring on or after July 1, 1973 or for death resulting therefrom shall be paid as follows: if the disability begins between July 1, 1973 and June 30, 1974, inclusive, the employer shall pay twenty-five per' centum and the Commonwealth seventy-five per • centum; if the disability begins between July 1, 1974, and June 30, 1975, inclusive, the employer shall pay fifty per cenfum and the Commonwealth fifty per centum; if the disability begins between July 1, 1975 and June 30, 1976, inclusive, the employer shall pay seventy-five per centum and the Commonwealth twenty-five per centum; and if the disability begins on or after July 1, 1976, all compensation shall be payable by the employer. The procedures for payment of compensation in such cases shall be as prescribed in the rules and regulations of the department.
+Added by Act of December 6, 1972, P.L. 1627, as amended.
+Act of June 4, 1945, P.L. 1388, as amended, 71 P.S. §1710 et seq.
