@@ -1,0 +1,43 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "637 C.D. 1989"
+decided: "1989-08-31"
+citations: ["128 Pa. Commw. 368", "563 A.2d 603"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before COLINS and PALLADINO, JJ., and BARBIERI, Senior Judge."]
+parties: ["John CHAMBERS, Appellant, v. SOUTHEASTERN PENNSYLVANIA TRANSPORTATION AUTHORITY, Appellee."]
+source_url: "https://static.case.law/pa-commw/128/cases/0368-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1393389
+cites_cases: ["512 Pa. 567", "514 Pa. 351", "522 Pa. 424"]
+---
+
+# Chambers v. Southeastern Pennsylvania Transportation Authority
+
+## Majority (PALLADINO, Judge.)
+
+PALLADINO, Judge.
+John Chambers (Appellant) appeals from an order of the Court of Common Pleas of Philadelphia County (trial court) granting Southeastern Pennsylvania Transportation Authority’s (SEPTA) motion for summary judgment relying on to 42 Pa.C.S. § 8522. For the reasons stated below, we affirm.
+On September 15, 1986, Appellant and two friends boarded SEPTA’s Broad Street subway at City Hall in order to attend an “AC-DC” rock concert at the Spectrum. About three stops before Pattison Avenue (the stop at the Spectrum) nine loud and rowdy youths boarded the subway train and began making derogatory remarks about Appellant’s female companion. Upon exiting the train at Pattison Avenue, the youths followed Appellant, continuing the harassment with increasing profanity. A physical confrontation eventually ensued during which the Appellant was knocked unconscious and sustained a serious injury to his right eye.
+Appellant filed a complaint on March 30, 1987, alleging that SEPTA was negligent by failing to provide adequate lighting and security patrols and failing to warn Appellant and others of the unsafe conditions on its premises. SEPTA filed an answer and new matter, raising the defense of immunity. SEPTA filed a motion for summary judgment alleging that it was a commonwealth party, immune from suit under 42 Pa.C.S. § 8521, and that none of the exceptions set forth in 42 Pa.C.S. § 8522 were applicable. Appellant’s response alleged that SEPTA was not a commonwealth party and even if SEPTA was a commonwealth party, SEPTA was liable under the real estate exception, 42 Pa.C.S. § 8522(b)(4). The trial court granted SEPTA’s motion for summary judgment. Appellant appeals from this order.
+Appellant raises three issues in this appeal: (1) whether SEPTA is a commonwealth party for the purposes of the defense of immunity; (2) whether the complaint states a cause of action under the real estate exception to immunity; and (3) whether summary judgment should have been denied because there are issues of material fact outstanding.
+Appellant argues that for the purposes of the defense of immunity, SEPTA is not a commonwealth party, and the Pennsylvania Supreme Court decision in Feingold v. Southeastern Pennsylvania Transportation Authority, 512 Pa. 567, 517 A.2d 1270 (1986) is not controlling. In Feingold a motorist brought an action against SEPTA for injuries suffered when his vehicle was hit by a bus. A jury trial on the issue of damages followed, resulting in an award of both compensatory and punitive damages. The relevant issue before the supreme court was whether the award of punitive damages was proper. Punitive damages are generally not available against government agencies. Feingold, 512 Pa. at 579, 517 A.2d at 1276. After reviewing the various statutes under which SEPTA operated, the court concluded that SEPTA was an agency of the Commonwealth. Appellant argues that SEPTA’s status as a commonwealth party should be limited to the facts in Feingold. Such a result is absurd. If SEPTA is an agency of the Commonwealth for one aspect of the defense of immunity, it is an agency for all aspects of the defense of immunity.
+Having determined that SEPTA is generally immune from suit as a commonwealth party, we must address the question of whether the facts in this case require the waiver of immunity under the real estate exception, 42 Pa.C.S. § 8522(b)(4). As to this issue, Mascaro v. Youth Study Center, 514 Pa. 351, 523 A.2d 1118 (1987) is the controlling precedent. Under Mascaro the real estate exception can only be applied where “it is alleged that the artificial condition or defect of [the] land itself causes the injury____” Id., 514 Pa. at 363, 523 A.2d at 1124 (emphasis in original). In addition, “any harm that others cause may not be imputed to the local agency or its employees.” Id., 514 Pa. at 362, 523 A.2d at 1124. In the case at bar, there are no allegations in the complaint that Appellant’s injuries were caused by or the result of any defect in the land itself. Rather the complaint alleges that some unknown third party, who is neither a commonwealth agency nor an employee of a commonwealth agency, caused the injury.
+Appellant argues that because Mascaro is interpreting the real estate exception applicable to local agencies rather than commonwealth parties, it is not controlling. Appellant also argues that the differences in language between these two exceptions requires a different result. Neither of these arguments has any merit. In the recent Pennsylvania Supreme Court decision of Snyder v. Harmon, 522 Pa. 424, 562 A.2d 307 (1989) the court applied the reasoning of Mascaro to the real estate exception in question in the case at bar and held “that sovereign immunity is waived pursuant to 42 Pa.C.S. § 8522(b)(4), where it is alleged that the artificial condition or defect of the land itself causes an injury to occur.” Id., 522 Pa. at 434-435, 562 A.2d at 312. By so holding, the supreme court recognized the similarities between the governmental and sovereign immunity exceptions relating to real property, and discounted any differences in the language. Accordingly, we conclude that the complaint fails to state a cause of action under the real estate exception.
+The final question is whether summary judgment was appropriate. Summary judgment may be granted when:
+“[T]he pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law.”
+Pa.R.C.P. No. 1035(b). The Appellant alleges that certain facts are in dispute, including SEPTA’s knowledge about the event and past criminal behavior during similar events, and whether SEPTA failed to provide security. While these factual issues may be in dispute, they are not material facts on the issue of whether SEPTA is immune from suit. There is no question that the injury suffered was a result of an altercation with one or more unknown parties, whose conduct cannot be imputed to SEPTA, and not the direct result of a defect in the land controlled by SEPTA. Because SEPTA is immune from suit, and no set of facts will establish a waiver of this immunity under 42 Pa.C.S. § 8522, summary judgment was appropriate.
+Accordingly, the order of the trial court is affirmed.
+ORDER
+AND NOW, August 31, 1989, the order of the Court of Common Pleas of Philadelphia County, in the above-captioned matter is affirmed.
+. SEPTA plead in the alternative, asserting that it was either a commonwealth party immune from suit under 42 Pa.C.S. § 8521 or a local agency immune from suit under 42 Pa.C.S. § 8541.
+. This section reads as follows:
+Commonwealth real estate, highways and sidewalks.—A dangerous condition of Commonwealth agency real estate and sidewalks, including Commonwealth-owned real property, leaseholds in the possession of a Commonwealth agency and Commonwealth-owned real property leased by a Commonwealth agency to private persons, and highways under the jurisdiction of a Commonwealth agency, except conditions described in paragraph (5).
+. The real estate exception applicable to local agencies is set forth at 42 Pa.C.S. § 8542(b)(3) which reads as follows:
+Real property.—The care, custody or control of real property in the possession of the local agency, except that the local agency shall not be liable for damages on account of any injury sustained by a person intentionally trespassing on real property in the possession of the local agency. A [sic] used in this paragraph, "real property" shall not include:
+(i) trees, traffic signs, lights and other traffic controls, street lights and street lighting systems;
+(ii) facilities of steam, sewer, water, gas and electric systems owned by the local agency and located within rights-of-way;
+(iii) streets; or
+(iv) sidewalks.
