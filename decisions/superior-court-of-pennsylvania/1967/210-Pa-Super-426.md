@@ -1,0 +1,52 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 360"
+decided: "1967-09-14"
+citations: ["210 Pa. Super. 426"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, P. J., Wright, Watkins, Montgomery, Jacobs, Hoffman, and Spaulding, JJ."]
+parties: ["Chichester School District Division Case."]
+source_url: "https://static.case.law/pa-super/210/cases/0426-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 780246
+cites_cases: ["203 A. 2d 556", "210 Pa. Superior Ct. 338", "216 A. 2d 457", "234 A. 2d 184", "377 U.S. 695", "415 Pa. 438", "420 Pa. 305"]
+---
+
+# Chichester School District Division Case
+
+## Majority (Ervin, P. J.,)
+
+Opinion by
+Ervin, P. J.,
+This case arises under the School Reorganization Act of August 8, 1963, P. L. 564, 24 PS §2-290 et seq., and involves the construction of §303(b) thereof, 24 PS §3-303. That section reads as follows: “The interim operating committee or after the date of establishment the board of school directors of a newly established school district, may, if it so chooses, develop a plan to divide the school district into either three or nine regions. The boundaries of the regions shall be fixed and established in such manner that the population of each region shall be as nearly equal as possible and shall be compatible with the boundaries of election districts. Such plan for the division of the school district shall be submitted for approval to the court of quarter sessions. If approved by such court, the clerk thereof shall certify the regional boundaries contained therein to the county board of elections. In the event of any division, redivision, alteration, change or consolidation of election districts which renders regional boundaries incompatible with the boundaries of election districts, a new plan shall be developed and submitted for court approval in like manner. Any proposed change in an approved plan, including abolition of regional representation, shall be submitted for approval to the court of quarter sessions by the board of school directors. Where a three region plan is approved, three school directors who reside in each region shall be elected or appointed as hereinafter provided by and from each region and at all times each region shall be represented by three directors elected or appointed as hereinafter provided from that region. Where a nine region plan is approved, one school director who resides in each region shall be elected or appointed as hereinafter provided by and from each region and at all times each region shall be represented by a director elected or appointed as hereinafter provided from that region.”
+The Chichester School District encompasses the entire area of the Townships of Upper Chichester and Lower Chichester, and the Boroughs of Marcus Hook and Trainer in Delaware County.
+Pursuant to the provisions of §303 (b), supra, the school board, on January 24, 1967, enacted a resolution in which it chose to divide the district into nine regions. The description of these regions, together with their population, based on the 1960 Federal census, which was stipulated of record, is as follows:
+Region Population
+Region No. 1. The present boundaries of First Precinct of Lower Chichester Township 2,031
+Region No. 2. The present boundaries of Second Precinct of Lower Chichester Township 2,429
+Region No. 3. The present boundaries of the First and Third Wards of Marcus Hook 1,674
+Region No. 4. The present boundaries of the Second and Fourth Wards of Marcus Hook 1,625
+Region No. 5. The present boundaries of the Borough of Trainer 2,358
+Region No. 6. The present boundaries of the First and Second Wards of Upper Chichester Township 3,378
+Region No. 7. The present boundaries of the Third Ward of Upper Chichester Township 1,968
+Region No. 8. The present boundaries of the Fourth Ward of Upper Chichester Township 2,062
+Region No. 9. The present boundaries of the Fifth Ward of Upper Chichester Township 2,274
+On January 31, 1967 the board of school directors presented a petition to the Court of Quarter Sessions requesting the court to approve the foregoing plan. The present appellants, who are residents of Upper Chichester Township, were granted leave to intervene. After two hearings, at which the appellants contended that the plan submitted violated the “one man, one vote” mandate of the United States Supreme Court and at which they submitted an alternative plan dividing the district into three regions, the court below, on March 1, 1967, approved the plan as submitted by the school board. This appeal followed.
+This case raises the same questions which we have answered in Spring-Ford Area School District Division Case, 210 Pa. Superior Ct. 338, 234 A. 2d 184, and it would be redundant to repeat that opinion here.
+There are only two significant differences between the cases. In the Spring-Ford case the plan provided for three regions; in the present case the plan covers nine regions. In the Spring-Ford case the objection was made that the plan did not consider any factors beyond the present population of the district; in the present case the appellants contend that the court erred in considering other factors.
+We hold that the court below arrived at the right decision, even though it may have considered factors which it should not have regarded. Its opinion states: “The exceptants contend that the Act requires that Regions must be fixed on an equal population basis only. With this contention we cannot agree. The Act not only requires an equalization of population 'as nearly equal as possible’ but requires also that the divisions ‘shall be compatible with the boundaries of election districts.’ ” This was a correct statement of the law. However, it went on to say: “In addition, we are of the opinion that we must take into consideration ‘topography, pupil population, community character is tics, transportation of pupils, use of existing school buildings, existing administrative units, potential population changes and the capability of providing a comprehensive program of education.’ The financial responsibility of the component parts may also play a part in the final determination.” This went beyond the provisions of the act with respect to the division of the district into regions.
+In the Spring-Ford case, supra, we said: “Thus, the act sets up two, and only two, requirements, i.e.:
+“1. The boundaries of the regions shall be fixed and established in such manner that the population of each region shall be as nearly equal as possible, and
+“2. Shall be compatible with the boundaries of election districts.
+“It is necessary that both requirements be fulfilled.”
+However, sometimes this is easier said than done. If regions can be set up compatible with the boundaries of election districts and, at the same time, are nearly equal in present population, there is no problem. However, the boundaries of election districts are fixed and cannot be changed by the school directors. When it is impossible to maintain the boundaries, of existing election districts and, at the same time, form regions nearly equal in population, something has to give.
+We feel that the act itself furnishes the answer. It provides that the regions “shall” be compatible with the boundaries of election districts but only that the population shall be as nearly equal “as possible.” Therefore it is apparent that the integrity of the election districts must take priority over the population factor. However, the inequality of population, which necessarily results, must be free from any taint of arbitrariness or discrimination.
+This was the same problem, on a higher level, with which the Supreme Court of Pennsylvania was faced when it was required to redistrict the State Senate and to reapportion the State House of Representatives in Butcher v. Bloom, 415 Pa. 438, 203 A. 2d 556, and 420 Pa. 305, 216 A. 2d 457, and which was recognized by the Supreme Court of the United States.
+At page 466 of 415 Pa., our Supreme Court quoted from Roman v. Sincock, 377 U.S. 695, 84 S. Ct. 1449, 12 L. ed. 2d 620, as follows: "`Our affirmance of the decision below is not meant to indicate approval of the District Court's attempt to state in mathematical language the constitutionally permissible bounds of discretion in deviating from apportionment according to population. In our view the problem does not lend itself to any such uniform formula, and it is neither practicable nor desirable to establish rigid mathematical standards for evaluating the constitutional validity of a state legislative apportionment scheme under the Equal Protection Clause. Rather, the proper judicial approach is to ascertain whether, under the particular circumstances existing in the individual State whose legislative apportionment is at issue, there has been a faithful adherence to a plan of population-based representation, with such minor deviations only as may occur in recognizing certain factors that are free from any taint of arbitrariness or discrimination.'" (Emphasis in the original.)
+In the present case there is no evidence of any taint of arbitrariness or discrimination. It was just not possible to establish nine regions which were compatible with the existing election districts and come any closer to equality in population. The court below found: “In our opinion this is as fair a division, population wise as can be accomplished.” We agree.
+We also agree with President Judge Sweney when he said: “The first thought we have in the face of these facts is that the 1963 Act says ‘the board of school directors of a newly established school district may, if it so chooses, develop a plan to divide the school district into either three or nine regions.’ This language gives the choice to the school district and having exercised that choice, we do not feel that the Court has the right to set this choice aside and take another plan for three regions.”
+In an election at large or even an election in a three region plan, there is always a possibility, which is almost a probability, that a smaller region will be completely outvoted and end up with no representation at all. This can be minimized by a nine regional plan.
+It follows that the plan approved by the court below met the requirements of the School Reorganization Act and also the requirements of the Federal Constitution as interpreted by the Supreme Court.
+Decree affirmed.
