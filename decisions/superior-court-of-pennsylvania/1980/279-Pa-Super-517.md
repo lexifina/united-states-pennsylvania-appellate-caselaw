@@ -1,0 +1,36 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "327"
+decided: "1980-08-08"
+citations: ["279 Pa. Super. 517", "421 A.2d 319"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before SPAETH, HOFFMAN and VAN der VOORT, JJ."]
+parties: ["James R. LAIRD v. Violet P. LAIRD, Appellant."]
+source_url: "https://static.case.law/pa-super/279/cases/0517-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 148981
+cites_cases: ["123 A.2d 655", "173 A. 172", "185 A. 707", "200 A. 624", "217 Pa.Super. 7", "240 A.2d 477", "246 A.2d 384", "268 A.2d 215", "275 A.2d 323", "315 Pa. 225", "322 Pa. 315", "331 Pa. 476", "333 A.2d 920", "352 Pa. 476", "362 Pa. 554", "373 Pa. 423", "385 Pa. 403", "43 A.2d 132", "430 Pa. 33", "431 Pa. 407", "442 Pa. 249", "460 Pa. 574", "67 A.2d 273", "96 A.2d 318"]
+---
+
+# Laird v. Laird
+
+## Majority (HOFFMAN, Judge:)
+
+HOFFMAN, Judge:
+Appellant contends that the lower court erred in dismissing her preliminary objections to the venue of this equity action. For the reasons which follow, we vacate the order of the court below and remand for further proceedings.
+The parties, husband and wife, have been separated since 1976. Appellee-husband resides in Butler County, and appellant-wife resides in Armstrong County. The husband instituted this action in the Court of Common Pleas of Butler County and effected deputized service upon the wife in Armstrong County. The husband sought partition of personal property which he and his wife held as tenants by the entireties. The property consisted of a certificate of deposit purchased from an Armstrong County bank in 1970, checking and savings accounts opened at the same bank that year, and a savings account opened at a Butler County bank in 1974. The husband alleged in his complaint that the property should be partitioned because his wife had wrongfully appropriated the property to her own use and had excluded him from access thereto.
+The wife filed preliminary objections, alleging, inter alia, that venue did not lie in Butler County. The lower court, concluding that the action was properly brought in Butler County, dismissed the preliminary objections. This appeal followed.
+Rule 1503(a) of the Pennsylvania Rules of Civil Procedure provides, with certain exceptions not applicable here, that “an action may be brought only in a county in which (1) the defendant . . . may be served, or (2) the property or a part of the property which is the subject matter of the action is located . . . . ” The wife argues, that, pursuant to Rule 1503(a)(2), venue cannot lie in Butler County because intangible personal property, such as a bank account, has no location. We disagree.
+In Selig v. Selig, 217 Pa.Super. 7, 268 A.2d 215 (1970), our Court stated: “The res here involved is a bank account in which defendant has an intangible interest. That interest being merely an intangible legal concept, incapable of an actual physical situs, its situs is the domicile of the person who has control over the fund.” Id., 217 Pa.Super. at 10, 268 A.2d at 218. See also Gallagher v. Rogan, 322 Pa. 315, 318, 185 A. 707, 708-709 (1936) (“a bank account is a chose in action, and as such follows the domicile of the owner”). Our Supreme Court has described the nature of a tenancy by the entireties as follows:
+An estate by the entirety is a form of co-ownership in real and personal property held by a husband and wife with right of survivorship. Its essential characteristic is that each spouse is seized ... of the whole or the entirety and not of a share, moity, or divisible part.
+It is well-established that an estate by the entirety may only be destroyed or terminated by the joint acts of husband or wife, and not by the act of one of them.
+Gallagher Estate, 352 Pa. 476, 478, 43 A.2d 132, 133 (1945) (emphasis in original) (citations omitted). Consequently, our Supreme Court has held that funds which are withdrawn by one spouse from an account held as tenants by the entireties continue to be subject to the legal incidents of the entireties estate. See, e. g., Gallagher Estate, supra, 352 Pa. at 480, 43 A.2d at 134; Madden v. Gosztonyi Savings and Trust Co., 331 Pa. 476, 489, 200 A. 624, 630-631 (1938); Berhalter v. Berhalter, 315 Pa. 225, 227-28, 173 A. 172, 172-173 (1934). See also Momjian & Perlberger, Pennsylvania Family Law § 8.1.4(d) (1978).
+In the instant case, although the wife allegedly misappropriated the funds which had been held by the parties as tenants by the entireties, both parties legally continue to control and own the property. Consequently, because the situs of such property is the domicile of either party, the action was properly brought in Butler County pursuant to Pa.R.Civ.P. 1503(a)(2) if the husband’s domicile is in that county.
+Unfortunately, we cannot determine from the record before us whether the husband’s domicile is in Butler County. The only indication of the husband’s domicile is an averment in his complaint that since the parties’ separation, he has been a resident of Butler County. It is well established that the terms “domicile” and “residence” are not ■interchangeable. See Du Puy’s Estate, 373 Pa. 423, 427, 96 A.2d 318, 319-320 (1953), and cases cited therein. “ ‘The domicile of a person is the place where he has voluntarily fixed his habitation with a present intention to make it either his permanent home or his home for the indefinite future.’ ” Loudenslager Will, 430 Pa. 33, 37, 240 A.2d 477, 479 (1968) (quoting Publicker’s Estate, 385 Pa. 403, 405, 123 A.2d 655, 657-658 (1956)). Thus, unlike residence, which is a physical fact, domicile is a matter of intention. Robinson v. Robinson, 362 Pa. 554, 559, 67 A.2d 273, 275 (1949).
+Because the record does not disclose the county of the husband’s domicile, we must vacate the lower court’s order and remand the case to enable the lower court to determine whether the husband is a domiciliary of Butler County. If the Court concludes that the husband’s domicile is in Butler County, it shall reinstate its order dismissing the wife’s preliminary objections.
+Order vacated and case remanded for proceeding in accordance with this opinion.
+. At the time this interlocutory appeal was filed, our jurisdiction was conferred by the Act of March 5, 1925, P.L. 23, § 1, 12 P.S. § 672 (repealed). Although that Act does not refer to venue, our Supreme Court has construed the Act as authorizing review of trial court rulings on the propriety of venue. See, e. g., Stefanik v. Minucci, 460 Pa. 574, 576 n. 1, 333 A.2d 920, 921 n. 1 (1975); Smith Estate, 442 Pa. 249, 254, 275 A.2d 323, 325 (1971); Caplan v. Keystone Weaving Mills, Inc., 431 Pa. 407, 409, 246 A.2d 384, 385-386 (1968). Our jurisdiction over such appeals is now governed by Rule 311(b) of the Pennsylvania Rules of Appellate Procedure (effective April 22, 1979).
+The propriety of the lower court’s dismissal of appellant’s other preliminary objections is not before us on this appeal.
+. Accordingly, appellant argues that the action could be commenced only in the county in which she could be served. Pa.R.Civ.P. 1503(a)(1). Because, according to appellant, she could not be served in Butler County, the action could not properly be brought there.
