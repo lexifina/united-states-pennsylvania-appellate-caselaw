@@ -1,0 +1,22 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 20"
+decided: "1898-03-21"
+citations: ["7 Pa. Super. 145"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Wickham, Beaver, Orlady, Smith and Porter, JJ."]
+parties: ["Estate of John M. Evans, deceased, in the matter of Mary Evans, a Minor. Appeal of Evan M. Evans."]
+source_url: "https://static.case.law/pa-super/7/cases/0145-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 285505
+---
+
+# Estate of Evans
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+For the reasons given in the opinion this day filed in the matter of the appeal of Evan M. Evans, guardian of Lizzie Evans, the decree in this appeal is affirmed.
