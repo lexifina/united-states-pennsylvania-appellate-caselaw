@@ -1,0 +1,39 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "849"
+decided: "1983-12-09"
+citations: ["321 Pa. Super. 541", "468 A.2d 1121"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before HESTER, POPOVICH and HOFFMAN, JJ.", "HOFFMAN, J., filed a dissenting opinion."]
+parties: ["COMMONWEALTH of Pennsylvania, Appellant, v. Cynthia E. BEARISH."]
+source_url: "https://static.case.law/pa-super/321/cases/0541-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 590243
+cites_cases: ["262 Pa.Super. 151", "262 Pa.Super. 258", "472 Pa. 553", "475 Pa. 399", "896 A.2d 744"]
+---
+
+# Commonwealth v. Bearish
+
+## Majority (HESTER, Judge:)
+
+HESTER, Judge:
+On April 24, 1980, a complaint was filed against appellee Cynthia E. Bearish, charging her with operating a motor vehicle while under the influence of alcohol. A preliminary hearing was initially scheduled for May 20, 1980, but was not held on that date or on the next scheduled date, June 2. The magistrate’s office attempted to reschedule the preliminary hearing for June 24, 1980, a date agreeable to all but appellee. The secretary was informed that appellee would be on vacation and therefore “unavailable” on that date. The secretary then scheduled the preliminary hearing for July 7, 1980, the “first available date.” The hearing was eventually held on August 12, 1980.
+On October 31, 1980, the Commonwealth filed a petition for extension of time for commencing trial. Appellee filed a petition to dismiss under Pa.R.Crim.P. 1100, on November 3, 1980. The lower court granted the Commonwealth’s petition and denied appellee’s petition by orders dated November 7, 1980, on which date a jury also found appellee guilty. On September" 23, 1981, argument was held on appellee’s post-trial motions, and the court en banc, by order dated March 15, 1982, granted the motion in arrest of judgment and ordered appellee dismissed pursuant to Rule 1100. The Commonwealth has appealed to our court from this order.
+The Commonwealth argues that the lower court erred in failing to exclude two periods of time in calculating the time in which appellee had to be brought to trial. One of these periods was June 24 to July 7, 1980, a period of thirteen days. The Commonwealth argues that appellee was “unavailable” within the meaning of Rule 1100 on June 24, the day which the magistrate wished to set for the preliminary hearing, and that the days through July 7, the earliest date available, should therefore be charged to appellee. We agree.
+Pa.R.Crim.P. 1100(d)(1) provides: “In determining the period for commencement of trial, there shall be excluded therefrom such period of delay at any stage of the proceedings as results from: (1) the unavailability of the defendant or his attorney ____” In Commonwealth v. Smith, 262 Pa.Super. 258, 396 A.2d 744 (1978), six judges of our court held that a delay caused by the defendant’s attorney’s vacation would not be treated as a “continuance”, but rather as a period excludable because of the unavailability of the defendant’s attorney. In Commonwealth v. Jackson, 262 Pa.Super. 151, 396 A.2d 690 (1978), trial was set for August 4, but the case was still not reached by August 7, at which time the trial was set for September 15. Our court excluded the entire period from August 7 through September 15 as being caused “by appellant’s counsel’s unavailability”, since the date had been chosen so as not to interfere with the attorney’s vacation.
+We see no. basis for distinguishing the case before us from Smith and Jackson. We find that the period from June 24 to July 7,1980 was excludable because of appellee’s unavailability. Excluding these thirteen days means that the Commonwealth had until November 3, 1980, to bring Ms. Bearish to trial. The Commonwealth’s petition for extension of time filed on October 31, 1980, was therefore timely filed.
+Because the lower court en banc refused to exclude either period of time claimed excludable by the Commonwealth, and concluded that Rule 1100 required appellee’s discharge, the court did not consider appellee’s other arguments in the post-trial motions. We therefore remand this case for disposition of the remaining issues. Jurisdiction is relinquished.
+HOFFMAN, J., filed a dissenting opinion.
+. We find Commonwealth v. Wade, 475 Pa. 399, 380 A.2d 782 (1977), relied upon by the lower court en banc, distinguishable from the case before us. In Wade, a continuance was granted by the lower court for the purpose of permitting the defendant to obtain counsel. Since the defendant did not have counsel at the time he was granted the continuance, it would have been anomalous for the Supreme Court to find that counsel had been "unavailable” within the meaning of Rule 1100(d)(1).
+
+## Dissent (HOFFMAN, Judge,)
+
+HOFFMAN, Judge,
+dissenting:
+The majority finds the period from June 24, 1980 to July 7, 1980 excludable under rule 1100 and the Commonwealth’s petition to extend therefore timely filed. I disagree and, accordingly, dissent.
+The majority agrees with the Commonwealth’s assertion that June 24 through July 7 should be excluded because appellee was on vacation and was thus “unavailable.” I find this conclusion erroneous. The Commonwealth’s argument is based upon Commonwealth v. Smith, 262 Pa.Superior Ct. 258, 896 A.2d 744 (1978). In Smith, the trial date had been listed, and one week before the trial, defendant’s attorney advised the court that he would be unavailable on that date because of vacation. Therefore, the trial was continued to a later date. The court held that defendant’s attorney’s vacation time was excludable. The court acknowledged that the distinction between a delay caused by a continuance and a delay caused by unavailability is often hazy, especially if the defendant requests a continuance because of unavailability.
+Here, however, the preliminary hearing date had not been scheduled; rather, the magistrate’s office contacted all of the parties to determine the acceptability of June 24 as the preliminary hearing date. Upon learning that appellee would be on vacation, the magistrate scheduled the preliminary hearing for July 7, a date more convenient for all parties. Therefore, appellee’s unavailability did not disrupt a scheduled hearing date and the delay in the preliminary hearing was in effect a continuance. Because the period of the continuance was less than thirty days, I find none of the time excludable under rule 1100(d)(2).
+Although not addressed by the majority, I also find the period of time from April 24 to May 5 not excludable as well. The Commonwealth asserts the excludability of this period because appellee’s allegedly volitional act in refusing to pick up her notice made her unavailable, causing the delay in the preliminary hearing from May 20 to June 2. For excludable periods, the Commonwealth must show both defendant’s unavailability and its due diligence in attempting to determine defendant’s whereabouts. Commonwealth v. Mitchell, 472 Pa. 553, 372 A.2d 826 (1977). Appellee’s whereabouts, although unknown, could have been determined by due diligence. Appellee lived and worked in Allentown; thus the Commonwealth had means of locating her either at her home or place of employment. While sending a summons via certified mail is a reasonable form of notice, appellee did not in fact receive the notice and the Commonwealth has presented no evidence that appellee was at fault for not receiving it. Therefore, I hesitate to find appellee “unavailable,” and would not exclude April 24 to May 5.
+Because under rule 1100 I would not exclude either period discussed by the Commonwealth, I would find its petition to extend untimely and the lower court’s dismissal of the charges correct.
