@@ -1,0 +1,51 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1389"
+decided: "1987-09-22"
+citations: ["366 Pa. Super. 473", "531 A.2d 515"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before BECK, JOHNSON and CERCONE, JJ.", "BECK, J., concurs in the result."]
+parties: ["COMMONWEALTH of Pennsylvania v. Robert Clayton RUDD, Appellant."]
+source_url: "https://static.case.law/pa-super/366/cases/0473-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 679799
+cites_cases: ["109 A.2d 523", "281 Pa.Super. 400", "291 Pa.Super. 644", "337 Pa.Super. 216", "379 Pa. 599", "421 U.S. 519", "5 L.Ed. 37"]
+---
+
+# Commonwealth v. Rudd
+
+## Majority (CERCONE, Judge:)
+
+CERCONE, Judge:
+The question before us on appeal is whether a prior juvenile adjudication for driving under the influence of alcohol is a “conviction” for the purpose of mandatory minimum sentence enhancment under section 3731(e)(1) of the Vehicle Code. 75 Pa.C.S.A. § 3731. As an issue of first impression, we conclude that the trial court erred in treating for sentencing purposes appellant’s former adjudication of delinquency as a prior conviction.
+The facts in this matter are not in dispute. Appellant was arrested and charged with driving under the influence of alcohol on May 23, 1986. Subsequently, he entered a plea of guilty and was sentenced on September 26, 1986 to a mandatory minimum sentence of thirty (30) days. In determining sentence, the trial court considered a previous adjudication of delinquency for driving under the influence which occurred in 1982 when the appellant was 17 years of age. Appellant’s Petition for Reconsideration of Sentence, urging that his juvenile adjudication not be considered a prior conviction for sentencing purposes, was denied. This timely appeal followed.
+The source of our dilemma in this case is section 3731(e)(1) of the Vehicle Code. 75 Pa.C.S.A. § 3731(e)(1). This section, under which appellant was sentenced, provides in relevant part:
+(1) Any person violating any of the provisions of this section is guilty of a misdemeanor of the second degree and the sentencing court shall order the person to pay a fine of not less than $300 and serve a minimum term of imprisonment of:
+(i) not less than 48 consecutive hours.
+(ii) not less than 30 days if the person has previously been convicted of an offense under this section or of an equivalent offense in this or other jurisdictions within the previous seven years.
+Id. (emphasis added).
+The trial court, in sentencing, considered the adjudication of delinquency for driving under the influence of alcohol as an offense for which appellant had “previously been convicted” and therefore sentenced appellant for a term of imprisonment of 30 days rather than a minimum of 48 consecutive hours.
+Our analysis of this issue is mindful of the directive that provisions of a penal statute are to be strictly construed. 1 Pa.C.S.A. § 1928(b)(1). Consequent to our common law system of jurisprudence is the use of analogy to apply or construe an ambiguous rule or provision. As employed below, the sentencing court apparently drew a favorable analogy between section 3731(e)(1) and the use of adjudications of delinquency in calculating a prior record score under the Sentencing Guidelines. 42 Pa.C.S.A. § 9721; 204 Pa.Code § 303.7(b). Indeed, section 303.7(b)(l)(ii) specifically provides that juvenile adjudications may be counted in the computation of a prior record score where:
+There was an express finding by the juvenile court that the adjudication was for a felony or one of the weapons misdemeanors listed in subsection (a)(3). The offense occurred on or after the defendant’s 14th birthday; and [t]he currently sentenced offense is a felony.
+From its reading of section 303.7, the trial court discerned that a conviction in the instant case under section 3731(e)(1), supra, was broad enough to include within its meaning all adjudications of delinquency. We are not, however, as persuaded by this reference to the Sentencing Guidelines. Unlike the Vehicle Code, the Sentencing Guidelines expressly provide for the use of juvenile adjudications as prior convictions in certain instances, supra. Section 303.7 of the Guidelines imposes strict limitations on the use of such adjudications in sentencing for crimes committed when the defendant is an adult. As we stated in Commonwealth v. Bivens, 337 Pa.Super. 216, 486 A.2d 984 (1985),
+the Sentencing Commission, when drafting the Guidelines, meant for juvenile adjudications not to be counted in sentencing unless there was no doubt that the juvenile had been adjudicated delinquent for a specific offense that,would be a felony if committed by an adult. Otherwise, the juvenile adjudication may be counted against the adult defendant unfairly.
+Id. at 986.
+Thus, because of the express and limited nature of section 303.7 of the Guidelines, we cannot base our determination on the basis of the trial court’s finding. Rather, we turn to the terms of the pertinent statute for guidance.
+Section 6501 of the Vehicle Code defines a “conviction” as including “a plea of guilty, a plea of nolo contendere, a finding of guilty by a court or unvacated forfeiture of bail or collateral deposited to secure a defendant’s appearance in court.” 75 Pa.C.S.A. § 6501(a). This definition is substantially similar to that contained in the Crimes Code: “There is a conviction if the prosecution resulted in a judgment of conviction which has not been reversed or vacated, a verdict of guilty which has not been set aside and which is capable of supporting a judgment, or a plea of guilty accepted by the court.” 18 Pa.C.S.A. § 109(3).
+By contrast, an adjudication of delinquency under section 6354 of the Juvenile Act is not considered a criminal conviction:
+(a) General rule. — An order of disposition or other adjudication in a proceeding under this chapter is not a conviction of crime and does not impose any civil disability ordinarily resulting from a conviction or operate to disqualify the child in any civil service application or appointment.
+(b) Effect in subsequent judicial matters. — The disposition of a child under this chapter may not be used against him in any proceeding in any court other than at a subsequent juvenile hearing, whether before or after reaching majority, except:
+(1) in dispositional proceedings after conviction of a felony for the purposes of a presentence investigation and report; or
+(2) if relevant, where he has put his reputation or character in issue in a civil matter.
+42 Pa.C.S.A. § 6354 (emphasis added). It is apparent, that the Juvenile Act, under which appellant’s charges were disposed of in 1982, draws a distinction between a “conviction” and an “adjudication.” This differentiation, moreover, is consonant with the purpose of the Juvenile Act in removing “from children committing delinquent acts the consequences of criminal behavior.” Id. § 6301(b)(2). See also id. § 6354, Official Comment (“[section 6354(a) ] continues existing policy, the heart of the differentiation of juvenile proceedings from criminal proceedings.”). As we observed in In the Interest of Leonardo, 291 Pa.Super. 644, 436 A.2d 685 (1985):
+The purpose of juvenile proceedings is to seek treatment, reformation and rehabilitation, and not to punish. In the Interest of Tasseing H., 281 Pa.Super. 400, 422 A.2d 530 (1980).
+While scholars may disagree with respect to the goals of our criminal justice system, there can be no doubt that at least one of the goals is punishment. It is in this criminal respect that the juvenile system differs from the adult criminal system.
+The character of juvenile proceedings differs as well. In Breed v. Jones, 421 U.S. 519, 528, 95 S.Ct. 1779, 1785, 44 L.Ed.2d 346 (1975), the Supreme Court recognized that the juvenile court system was designed to provide “[a] distinctive procedure and setting to deal with the problems of youth____”
+Id., 291 Pa.Superior Ct. at 648, 436 A.2d at 687. Our Supreme Court has explained this fundamental distinction between juvenile and criminal proceedings: “The proceedings in [Juvenile Court] are not in the nature of a criminal trial but constitute merely a civil inquiry or action looking to the treatment, reformation and rehabilitation of the minor child. Their purpose is not penal but protective____” In re Holmes, 379 Pa. 599, 605, 109 A.2d 523, 525 (1954). See also F. McCarthy, Pennsylvania Juvenile Delinquency Practice and Procedure § 1-8 at 11-12 (1984). Accordingly, the use of prior adjudications of delinquency to enhance sentencing for adult criminal convictions would defeat the purpose of the Juvenile Act.
+In light of the stated goal of the Juvenile Act and in the absence of an express inclusion of juvenile delinquency adjudications as convictions by the Vehicle Code, we believe that the trial court erred in including such adjudications for the purpose of sentence enhancement. We are of the opinion that this conclusion is consistent with the intent of the legislature in rehabilitating delinquent juveniles rather than subjecting them to criminal punishment.
+Accordingly, the judgment of sentence is vacated. Remanded for resentencing in accordance with this decision. Jurisdiction relinquished.
+BECK, J., concurs in the result.
+. This rule, as enunciated by Chief Justice Marshall in United States v. Wiltberger, 18 U.S. (5 Wheat.) 76, 5 L.Ed. 37 (1820), "is founded on the tenderness of the law for the rights of individuals, and the plain principle that the power of punishment is vested in the legislature and not the judicial department.” Id. at 79, 5 L.Ed. 37.
+. The lower court concluded that it was unlikely that the legislature sought to exclude juveniles from the recidivist ambit of section 3731(e)(1) as statistics indicate that young drivers as a group are not as safe as more mature drivers and that less onerous treatment of juveniles adjudicated delinquent for driving under the influence would only increase the risk of highway accidents. While we are convinced that the trial court’s position is well-taken, we believe that the expansion of section 3731(e)(1) to include juvenile adjudications in response to this problem is more appropriately the responsibility of the legislature.
