@@ -1,0 +1,49 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 41"
+decided: "1911-07-13"
+citations: ["47 Pa. Super. 276"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Orlady, Head, Beaver, and Porter, JJ."]
+parties: ["Lieberman v. Columbia National Life Insurance Company, Appellant."]
+source_url: "https://static.case.law/pa-super/47/cases/0276-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 423149
+cites_cases: ["101 N. Y. Supp. 106", "91 N. Y. Supp. 176", "99 Me. 390"]
+---
+
+# Lieberman v. Columbia National Life Insurance
+
+## Majority (Beaver, J.,)
+
+Opinion by
+Beaver, J.,
+The plaintiff recovered in the court below on what is called a health insurance policy, the portions of the policy involved being included in a case stated, in which the facts were submitted by the parties for the judgment of the court. These will be set forth hereafter.
+Health is a relative term. There are good health and bad health and various conditions of health between the two extremes. What is meant by loss of health? Does it involve chronic invalidism or an attack of an incurable disease? If so, what is chronic invalidism? What is an incurable disease? If these were disputed facts, they would depend very largely upon expert testimony. If, therefore, a condition of health is insured against, it is important to have that condition stated in the policy upon which the parties have agreed, and that is the situation here.
+From the statement of facts, it is learned that “On July 28, 1908, the above named defendant issued to the above named plaintiff, for. a valuable' consideration, a policy of insurance known as 'Sterling Health Policy No. 5051.’
+“The provisions of said policy which are material to the present controversy are Article No. 1 and Article No. 2, which are as follows:
+“Illness not exceeding Fifty-two weeks.
+“Article 1. If any illness contracted by the insured during the term specified in the insuring clause, and not covered under Article 3, and not hereinafter excepted, necessarily confines the insured to the house for a period beginning during the said term, and prevents the insured throughout the period of such confinement from performing any and every kind of duty pertaining to his occupation, the Company will pay the insured for the period of such confinement not exceeding fifty-two consecutive weeks, the sum of ($25.00) Twenty-five and 00-100 Dollars per week.
+"Illness following Confinement to House.
+"Article 2. If the insured is confined to the house and disabled within the terms of the preceding Article, and if continuously thereafter the illness causing the said confinement to the house totally disables and prevents the insured (but not necessarily to the extent of confining him to the house) from performing any and every kind of duty pertaining to his occupation, the Company will pay the insured for the period of said disability, if any, subsequent to the said confinement to the house and within fifty-two weeks from the beginning thereof the sum of ($12.50) Twelve and 50-100 Dollars per week.”
+The time, extent and character of the sickness are set forth as follows:
+"Said policy was valid and in full force and effect July 19, 1909.
+"On July 19,1909, the plaintiff above named contracted tonsilitis, and from that date until July 26, 1909, he attended to a part of his regular business, but was not continuously, during this said time, confined to the house. During said period, he went, not only to his office but to the office of his Doctor, Dr. Goldsmith, in the Park Building, Pittsburg.
+“From July 27, 1909, until August 16, 1909, the plaintiff was under the care of Dr. Kronenberg, whose office is in the Liberty Bank Building, at the corner of Penn and Sheridan Avenues, East End, Pittsburg. The Doctor told him that he was suffering from bronchitis. Plaintiff made daily visits to the Doctor’s Office, on the occasion of each visit making the trip from his home on Bellefonte Street to the Doctor’s office at the point above mentioned. During this period, the plaintiff visited his office, but did .no business. He was out of the house daily — at least part of this time on the advice of his physician, who had advised him to spend an hour a day in the open air.
+“From August 16, until August 19, the plaintiff was able to attend a portion of his duties, but could not spend the whole of the time at his regular occupation. During said period, he was out of the house daily and at his office for a portion of each of said days.”
+The foundation fact upon which recovery must be based here seems to us to be necessary confinement in the house. This is provided for not only in art. 1 when the indemnity is $25.00 per week, but also in art. 2, where the indemnity depends on a previous confinement and illness which necessarily confined the insured to the house but from which he is recovering. It would seem to cover the period of convalescence, during which the indemnity or compensation is to be the half of what is provided for in sec. 1, during necessary confinement to the house. The facts, as agreed upon, show that the plaintiff was not confined to his house at any time during his entire sickness.
+The court, in its opinion, divides the period for which benefits are claimed, into three parts:
+“(a) July 19 to July 26, 1909, during which he was partially disabled, and capable of attending to business but half the time — for which, under Article 1, he claims $12.50; (b) July 27 to August 16, 1909, during which he was totally disabled and unable to attend any and every duty connected with his employment, but out of the house a portion of the time — for which he claims $75.00; (c) August 16 to August 19, 1909, during which he was able to attend a portion of his duties, but could not spend the whole of the time at his regular occupation, and was out of the house daily for a portion of the time — for which he claims $6.25.
+“Upon the case stated, plaintiff is entitled to indemnity not for the periods (a) and (c) but solely for the period (b), running from July 27 to August 16, 1909; and the amount of indemnity for that (b) is measured not by Article 1 but Article 2.
+“Judgment is entered in favor of the plaintiff and against the defendant for Thirty-seven and 50-100 Dollars with interest from August 16, 1909.”
+This entry of judgment is the sole error of which the defendant complains. We think its complaint is well founded.
+Article 2 requires a previous confinement to the house as a basis of recovery, but the plaintiff was not at any time confined to the house and we are at a loss, therefore, to discover upon what fact the recovery is based.
+The appellee, in his argument, claims that the terms of the policy are unreasonable and should not be enforced, but we • fail to see anything unreasonable in a simple agreement as to a fact upon the happening of which he is to receive indemnity or compensation. According to his own admission, there was no necessary confinement to the house; indeed during the entire time of his sickness he visited his physician either at the Park Building in Pitts-burg or at the Liberty Bank Building in East Liberty, and admits that he spent a certain part of each day, under the advice of Dr. Kronenberg, in the open air.. The contingency, therefore, upon which the policy was based never happened, a contingency which was easily foreseen, entirely reasonable and which must necessarily exist to justify recovery under the terms of the policy.
+We are not referred to any cases in Pennsylvania which precisely cover the point, but the appellant refers us to Dunning v. Mass. Mutual Accident Association, 99 Me. 390, in which Whitehouse, J., in delivering the opinion, says: “The plaintiff does not claim that his disability was such as to require ‘absolute and necessary confinement to the house’ or that he was in fact confined to the house continuously during the time for which he asks for indemnity, or during the first seven days, or any other consecutive days, of his illness. But it is contended in his behalf that his affliction was such as to ‘disable and prevent him, continuously and wholly, from attending to any business or duties pertaining to his occupation, profession or other remunerative employment’ and that such disability entitled him to the indemnity promised in Benefit 13, although not such as to require absolute and necessary confinement to the house.
+"An examination of the several clauses relating to 'indemnity for sickness,’ in comparison with all the other provisions of the policy, leaves no room for doubt that 'absolute and necessary confinement to the house’ was intended to be a conclusive test of liability, and not merely an evidentiary fact bearing upon the question of sickness.” In this case judgment was entered for the defendant.
+A like conclusion was reached in Schneps v. Fidelity & Casualty Co. of New York, 101 N. Y. Supp. 106, and in Bishop v. U. S. Casualty Co., 91 N. Y. Supp. 176, in which demurrer to the statement was entered on the ground that the plaintiff in his statement did not allege that the disease was such as to necessitate confinement indoors and treatment by a.physician and, inasmuch as such is the language of the policy, as stated in the complaint, Hooker, J., sustained the demurrer.
+We quite agree with the decision reached in both of these cases, as being based upon the terms of the policy, which were entirely clear, plain and reasonable and were assented to by the plaintiff.
+We fail to see wherein the claim of the plaintiff had any foundation under the terms of his policy.
+Judgment upon the case stated reversed and record remitted with directions to enter judgment for the defendant thereon.
