@@ -1,0 +1,40 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 221"
+decided: "1906-03-12"
+citations: ["30 Pa. Super. 521"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver., Orlady, Porter, Morrison and Henderson, JJ."]
+parties: ["Roats’s Estate."]
+source_url: "https://static.case.law/pa-super/30/cases/0521-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 862203
+cites_cases: ["175 Pa. 23", "20 W. N. C. 45"]
+---
+
+# Roats's Estate
+
+## Majority (Beaver, J.,)
+
+Opinion by
+Beaver, J.,
+It is difficult to state, as an abstract legal proposition, a question which arises out of the interpretation of any given will. When, therefore, the appellant states, as the question here involved: “ Is a substituted specific legacy attended with the same incidents as the original devise of real estate ? ” the obvious answer is: That will depend upon the intention of the testator, as manifested by the terms of his will. It is essential, therefore, to the proper interpretation of the testator’s will that the parts governing or affecting' the codicil which contains the substituted legacy should be fully stated. They are as follows:
+“Item. As to all the rest, residue and remainder of- my estate, real, personal and mixed, I give, devise and bequeath unto my daughter, Lavinia Clymer, to have and to hold the same to herself, her heirs and assigns forever, upon the uses and trusts following, namelyto collect and receive all the rents, income and profit arising therefrom during the lifetime of my wife, Emiline Roats, and to apply the whole of the said rents, income and profits as follows: to pay all taxes, insurance,, assessments, cost of repairs of said premises, and the costs of the execution of this trust, as well as all other obligations for which I am liable, and then divide the balance in four equal shares and pay one equal share thereof to my daughter, Elizabeth Lowder; one other equal share thereof unto my son John Roats, which is to be paid to him or his children by my said trustee as she shall deem advisable and expedient; one other share to my said daughter, Lavinia Clymer; and the other and remaining share to the children of my son Joseph Roats, and the issue of such as may be deceased. . . .
+“I give, devise and bequeath premises 2042 Germantown Avenue in the city of Philadelphia unto my daughter, Lavinia Clymer, for and during the term of her natural life, and at her decease I give, devise and bequeath the same unto the child or children of my said daughter, Lavinia Clymer, his, her, or their heirs and assigns, forever.”
+In a first codicil to his will, made about two months subsequent to the date thereof, the testator made the following bequest: “I hereby ratify and confirm said will in every respect save so far as any part of it is inconsistent with this codicil.
+“ To my daughter Lavinia Clymer I give and bequeath the sum of five hundred dollars, to be paid to her immediately after my death. This bequest is in addition to the provision I have already made for (her) in my said will.”
+In a subsequent codicil, made more than four years after the latter one, the testator provided as follows:
+“Item. I do revoke the devise in my said will contained of premises 2042 Germantown Avenue unto my daughter, Lavinia Clymer, and direct that the same shall become a part of my residuary estate, to be disposed of as I have in my said will directed of and concerning my residuary estate.
+“ Item. In lieu thereof, I give, devise and bequeath unto my said daughter, Lavinia Clymer, the bond and mortgage of twenty-five hundred dollars, given me by William J. Clymer, dated January 11th, 1895, and secured on premises S. W. Corner of Marshall and Diamond streets, Philadelphia, to have and to hold unto the said Lavinia Clymer, her heirs and assigns forever and I do ratify and confirm my said will and codicil in all other respects. ”
+The paragraph in the will relating to the residuary estate is as follows:
+“ All the rest, residue and remainder of my estate I direct to be equally divided among my children, and the issue of such as may be deceased. And T hereby give to my said trustee, Lavinia Clymer, full power and authority, if to her it should appear at any time advisable or expedient, to sell any or all of my real estate, at public or private sale, and invest the proceeds, and to apply the income and principal in the manner as I have heretofore indicated. ”
+The testator also appointed Lavinia Clymer the executrix of his will.
+There is no doubt as to the estate which the appellant took under the devise of the real estate — 2042 Germantown avenue, Philadelphia — contained in her father’s will. The fact that she took a life estate, only at the death of the testator’s widow, during whose lifetime the rents, issues and profits of the residue of the testator’s real and personal estate were to be divided as specifically set forth in his will, is not, as we understand it, in any way questioned. Was the legacy contained in the codicil, which was declared to be in lieu of the devise of the real estate in the will, subject to the same conditions ? That is, did it take effect immediately upon the death of the testator, or did the appellant hold it in trust during the lifetime of the testator’s widow, subject to the uses and trusts specifically set forth in the will?
+Can we gather the intention of the testator from the words which he used ? After revoking the devise, he says: “ Item. In lieu thereof, I give, devise and bequeath.” He also says, in closing the item, “ and I do ratify and confirm my said will and codicil in all other respects.” Unless the legacy in the codicil is just what it purports to be, namely, a substitute for and subject to all the provisions'relating to the devise of the real estate contained in the will, the will itself would be materially changed.
+In Whelen’s Estate, 175 Pa. 23, Judge Penrose, who was the adjudicating judge in this case, in an opinion upon which the decree of the orphans’ court was affirmed by the Supreme Court,- says: “ A codicil is to be interpreted in the light of the circumstances surrounding the testator at the time of its execution, and of the reasons which induced it, especially when they appear on its face; and as its purpose ordinarily is merely to modify and add to and not revoke, it is only permitted to change the will to the extent that it is inconsistent with it. ‘It is the established rule, 1 Jarman on Wills, 176, not to disturb the disposition of the will further than is absolutely necessary for the purpose of giving effect to the codicil. ’ ”
+In 1 Redfield on the Law of Wills, 3d edition, * 353, it is said: “ Where a codicil gave a devise, in terms described as being ‘ instead ’ of one contained in the will, but failed to dispose of the ultimate fee in the estate devised by the codicil, it was held that it must go according to the conditions expressed in the will. It was held that the terms ‘ instead of the devise and bequest contained in my said will ’ were satisfied by holding it to be a substitute for that, only to the extent that the disposition in the codicil was inconsistent with that contained in the will. ”
+It is urged by the appellant that the item in the original will for the benefit of the appellant, being a devise of real estate, and that, in the codicil, in lieu thereof, a legacy of personalty, the conditions ■ are so changed that the limitations which surround the one cannot be applied to the other. This we think is fully met by the opinion of Judge Penrose, dismissing the exceptions to the adjudication, and without repeating it here further discussion of the question would seem to be unnecessary.
+The surcharge of the interest arising from the mortgage, in the appellant’s account as executrix, is sustained.
+The decree of the court below is affirmed and the appeal dismissed at the costs of the appellant.
