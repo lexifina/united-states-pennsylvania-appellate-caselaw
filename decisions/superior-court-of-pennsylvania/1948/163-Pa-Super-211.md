@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 143"
+decided: "1948-07-23"
+citations: ["163 Pa. Super. 211"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Bhodes, P. J., Hirt, Beno, Dithrich, Boss, Arnold and Fine, JJ."]
+parties: ["Commonwealth v. Teeter, Appellant."]
+source_url: "https://static.case.law/pa-super/163/cases/0211-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 464225
+cites_cases: ["146 Pa. Superior Ct. 553", "160 Pa. Superior Ct. 104", "166 A. 842", "22 A. 2d 596", "311 Pa. 312", "50 A. 2d 39"]
+---
+
+# Commonwealth v. Teeter
+
+## Majority (Hirt, J.,)
+
+Opinion by
+Hirt, J.,
+The defendant was convicted on an indictment under The Penal Code of June 24,1939, P. L. 872, §732,18 PS 4732, charging his failure to support his child, born out of lawful wedlock. He was found guilty and was ordered to make weekly payments for the support of the child.
+The child was born on April 14, 1944. Defendant admitted sexual relations with the unmarried prosecutrix during, but not after, the month of April 1943. She testified to intercourse with him on July 15 or 16, 1943. The evidence is entirely sufficient to support the conclusion that the child is the fruit of coition in July 1943 and that the defendant is the father of the child.
+There is no merit in defendant’s contention that the prosecution is barred by statutory limitation. It is provided in the above section of the Code: “All prosecutions under this section must be brought within two (2) years of the. birth of the child, except where the reputed father shall have voluntarily contributed to the support of the child, or shall have acknowledged in writing his paternity, in which case a prosecution may be brought at any time within two (2) years of any such contribution or acknowledgment by the reputed father.” The “Affidavit for Warrant” in this case was signed and sworn to by the prosecutrix and was filed with the clerk of the lower court on June 2,- 1945, fourteen months after the birth of the child. A prosecution is “brought” in compliance with the Act when an information under oath is filed, as in this case, within two years after the birth of the child. Commonwealth v. O’Gorman, 146 Pa. Superior Ct. 553, 22 A. 2d 596. It is unimportant that the warrant here did not actually issue (undoubtedly because the defendant meanwhile was in military service and could not be served) until June 11, 1946, after the expiration of the two-year period. After a prosecution is brought by information or affidavit, the warrant issues out of the court in which, information is filed and is an official act over which a prosecutrix has no control. . The limitation of the right of action in the statute has no reference to the date of the actual issue of the warrant. The date of filing of the complaint under oath, controls. Similarly, in a civil case, by filing a prsecipe for summons, a litigant has set in motion the machinery of the court — has “brought” his action — and •will not be deprived of the benefit to be gained thereby because the summons has not been issued before the expiration of the statutory period. Gibson v. Pittsburgh Trans. Co., 311 Pa. 312, 166 A. 842. In referring to a defendant in military service overseas, in Commonwealth v. Shimpeno, 160 Pa. Superior Ct. 104, 109, 50 A. 2d 39, we said: “At any time during his absence a prosecution could have been brought against defendant upon the filing of a complaint made under oath or affirmation of the parent of the child, and the swearing out of a warrant; it was not necessary that defendant should also have been indicted in order to commence the prosecution.” Defendant confuses the complaint under oath which in the common idiom is the “swearing out of the warrant” with the issuance of the warrant itself. From what we said in the Shimpeno case, it is clear that the controlling date as regards the statute of limitation, is when the formal complaint is lodged and not when process of the court issues thereon.
+The defendant admitted sending prosecutrix four separate remittances of money, two of them before and the other two after the birth of the child. The last remittance of $10 was made on October 15, 1944 within the period of two years following the date of birth. From defendant’s letters which accompanied the payments, it was a fair inference for the jury that the last two payments ivere made to the prosecutrix for the support of the child. It is established by the verdict that defendant “voluntarily contributed to the support of the child” and since the prosecution was brought within two years of the last of such contributions the action is timely also on that ground, under the statute.
+There is no merit in defendant’s complaint that he was prejudiced by a ruling of the court limiting his cross-examination of the prosecutrix as to her association with another man. The record fails to disclose that the trial judge actually limited the cross-examination of prosecutrix in any material respect. She admitted on cross-examination that a former college friend occasionally called on her socially, but denied that she ever had sexual relations with him. The defendant voluntarily ended his cross-examination on the subject at that point. And no evidence was produced by the defendant of circumstances casting any suspicion upon the prosecutrix of improper relations with any man other than the defendant himself. The court properly refused a new trial in this case.
+Order affirmed.
