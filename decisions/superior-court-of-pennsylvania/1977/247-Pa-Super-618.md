@@ -1,0 +1,21 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 2316"
+decided: "1977-05-04"
+citations: ["247 Pa. Super. 618", "373 A.2d 1142"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HOFFMAN and SPAETH, JJ., dissent."]
+parties: ["Commonwealth ex rel. Meyers, Appellant, v. Meyers."]
+source_url: "https://static.case.law/pa-super/247/cases/0618-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 831298
+---
+
+# Commonwealth ex rel. Meyers v. Meyers
+
+## Majority
+
+Order affirmed.
+HOFFMAN and SPAETH, JJ., dissent.
