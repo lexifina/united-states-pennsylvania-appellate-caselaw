@@ -1,0 +1,29 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 764 C.D. 1973"
+decided: "1974-12-27"
+citations: ["16 Pa. Commw. 530"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Mencer, Rogers and Blatt, sitting as a panel of three."]
+parties: ["Grace Building Co., Inc., Appellant, v. Hatfield Township, Appellee."]
+source_url: "https://static.case.law/pa-commw/16/cases/0530-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1863396
+cites_cases: ["11 Pa. Commonwealth Ct. 420", "11 Pa. Commonwealth Ct. 607", "13 Pa. Commonwealth Ct. 363", "13 Pa. Commonwealth Ct. 440", "313 A. 2d 370", "314 A. 2d 565", "319 A. 2d 429", "319 A. 2d 432"]
+---
+
+# Grace Building Co. v. Hatfield Township
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+This is a zoning appeal brought by John S. Thomas and Johanne Thomas, the equitable owners, and Grace Building Co., Inc., the legal owner (appellants), of a plot of undeveloped land in Hatfield Township, Montgomery County.
+The subject plot is a corner lot located in a district zoned A-Residential. The applicable ordinance requires a minimum lot area of 20,000 square feet, minimum street fronts of 150 feet each, and other minimum yard requirements for development of the property. Because these minimums could not be met, the appellants applied to the Zoning Hearing Board of Hatfield Township (Board) on June 30, 1971 in the alternative for either a special dimensional exception or a dimensional variance to permit construction of a residential structure on the lot. Previously, on July 18, 1969, the Board had granted one of the appellants, Grace Building Company, Inc., a time-conditioned dimensional variance which expired when a building permit had not been obtained within the prescribed time limits. The making of a second application was, therefore, required. On September 24, 1971, after a hearing previously held on August 19, 1971, the Board denied the second application under both alternatives on the ground that the appellant had “made no showing that he endeavored to purchase additional ground so as to comply with the zoning requirement.” The Court of Common Pleas of Montgomery County affirmed and this appeal followed.
+In a zoning case where the court below took no additional evidence, as was the case here, we must limit our review to determine whether the zoning board abused its discretion or committed an error of law. Rothrock v. Zoning Hearing Board of Whitehall Town ship, 13 Pa. Commonwealth Ct. 440, 319 A. 2d 432 (1974).
+The appellants contend that the law imposes no duty upon them to purchase additional ground in order to become entitled either to the special exception or to the variance. They argue, therefore, that the Board erred in denying their application. We need not pass upon whether such a finding establishes a sufficient basis for denying the special exception under the circumstances in this case, for the Board abused its discretion in arbitrarily denying the appellants’ application for a variance where there was no substantial showing of a change of conditions subsequent to the grant of the first variance in 1969.
+In 1969 the Board had found that the lot “is of sufficient size to permit development on a reasonable basis with public sewer and water available. The lot suffers from unnecessary hardship because it could be developed properly as a compilation of lots if it were an interior lot and there is no further available ground to enlarge this lot.” The only testimony offered at the August 1971 hearing evidencing a change of conditions (and this was a hearing summarized in its entirety in less than three pages of paraphrased transcript), related to the existence of an undeveloped adjacent lot which might have been purchased to bring the lot within the dimensional minimums of the ordinance. Having once found that a hardship existed and having once granted a variance for the subject parcel, it was an arbitrary amd capricious abuse of discretion for the Board to refuse the second application in the absence of new findings based upon relevant new evidence that the variance was no longer warranted.
+We do not believe that the availability of adjacent land would be a relevant consideration in determining the presence of hardship in this case, and to impose such a consideration would create many collateral problems which have no rightful place in the decision making of the Zoning Board. Among these problems would be the determination on the part of the Board as to whether or not a fair price had been established for the adjacent parcel, an issue not generally within the expertise of zoning boards. It is true, of course, that an economic hardship does not qualify an owner for a variance. Chrysler Motors Corp. v. Zoning Board of Adjustment of the City of Philadelphia, 13 Pa. Commonwealth Ct. 363, 319 A. 2d 429 (1974); Surrick v. Zoning Hearing Board of the Township of Upper Providence, 11 Pa. Commonwealth Ct. 607, 314 A. 2d 565 (1974); Bamash v. Zoning Board of Adjustment, 11 Pa. Commonwealth Ct. 420, 313 A. 2d 370 (1974). The economic hardship envisioned by this rule, however, results where the owner may not realize the optimal value from the use of the land or results where the owner has expended money to improve the land in false anticipation that a variance would be granted, which is not the case here.
+Inasmuch as no new evidence was presented at the hearing to support a finding that this land is no longer subject to a hardship, the Board abused its discretion in denying the appellant’s application for a variance. The order of the court below, therefore, must be reversed, and the record remanded to the Zoning Hearing Board of Hatfield Township with the direction that the variance be granted for development on the subject property.
