@@ -1,0 +1,51 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2514 C.D. 1981"
+decided: "1983-06-07"
+citations: ["74 Pa. Commw. 628"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Blatt, Williams, Jr. and Craig, sitting as a panel of three."]
+parties: ["William Stanton, Appellant v. Ben Rubin Ajax Cleaners-Dyers and Commonwealth of Pennsylvania, Appellees."]
+source_url: "https://static.case.law/pa-commw/74/cases/0628-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1309403
+cites_cases: ["199 A.2d 525", "203 Pa. Superior Ct. 138", "32 Pa. Commonwealth Ct. 405", "36 Pa. Commonwealth Ct. 262", "379 A.2d 908", "387 A.2d 523", "407 A.2d 899", "411 A.2d 264", "412 A.2d 694", "427 A.2d 293", "427 A.2d 740", "445 A.2d 1362", "46 Pa. Commonwealth Ct. 567", "49 Pa. Commonwealth Ct. 15", "50 Pa. Commonwealth Ct. 227", "58 Pa. Commonwealth Ct. 208", "58 Pa. Commonwealth Ct. 38", "67 Pa. Commonwealth Ct. 68"]
+---
+
+# Stanton v. Ben Rubin Ajax Cleaners-Dyers
+
+## Majority (Judge Williams, Jb.,)
+
+Opinion by
+Judge Williams, Jb.,
+William Stanton (claimant) appeals from a decision of the Court of Common Pleas of Philadelphia County upholding the Workmen’s Compensation Appeal Board’s (Board) decision reversing the referee’s award of maximum compensation for total disability under the Pennsylvania Occupational Disease Act (Act). We affirm.
+For approximately eighteen years, claimant worked in defendant-firm’s laundry and dry cleaning plant where he was exposed to dust, irritants, detergents and noxious fumes. In April 1969, claimant, suffering from emphysema and chronic obstructive lung disease, left defendant-firm on his physician’s advice to obtain lighter work. In November 1970, claimant filed a total disability claim for benefits under Section 108(n) of the Act, 77 P.S. §1208(n). After numerous hearings, the referee awarded claimant total disability benefits upon finding that claimant contracted,, while in the employ of defendant-firm, the occupational diseases of obstructive lung disease, pulmonary fibrosis and emphysema. Upon appeal the Board reversed the referee and substituted its own findings of fact, to wit:
+4. Claimant’s said diseases were not caused by exposure in the employ of defendant-firm.
+5. Claimant’s said diseases were aggravated by exposure to fumes and .the like in tbe employ of the defendant-firm.
+Tbe Court of Common Pleas of Philadelphia County affirmed tbe decision and order of the Board. This appeal follows.
+Two issues are raised for resolution. First, is tbe work-related aggravation of a pre-existing disease an occupational disease under tbe Act? Second, did tbe Board capriciously disregard competent evidence in finding that claimant aggravated, but did not contract, tbe emphysema and chronic obstructive lung disease while in tbe employ of defendant-firm?
+Claimant’s first contention, that a work-related aggravation of a pre-existing disease constitutes an independent occupational disease under tbe Act is without merit. In Plasteel Products Corporation v. Workmen’s Compensation Appeal Board, 32 Pa. Commonwealth Ct. 405, 379 A.2d 908 (1977) we concluded that, under tbe occupational disease provisions of Tbe Pennsylvania Workmen’s Compensation Act (Compensation Act), tbe work place aggravation of a preexisting disease (not contracted by the claimant while in tbe employ of the defendant-employer), although not rising to the level of an independent occupational disease, must be construed as an “injury” within tbe meaning of Section 301(c) of tbe Compensation Act, 77 P.S. §411. Id. at 408, 379 A.2d at 910.
+Section 301(c) of the Compensation Act provides in pertinent part:
+(1) The terms “injury” and “personal injury,” as used in this act, shall be construed to mean an injury to an employe, regardless of his previous physical condition, arising in the course of his employment and related thereto, and such disease or infection as naturally results from the injury or is aggravated, reactivated or accelerated by the injury.. . .
+(2) The terms “injury,” “personal injury,” and “injury arising* in the course of his employment,” ... shall include,... occupational disease. . . . (Emphasis added.)
+Thus, by provisions peculiar to the Compensation Act a statutory basis exists, under Section 301(c), for determining that the work-related aggravation of a pre-existing occupational disease is an “injury” under the occupational disease provisions of the Compensation Act, even though the occupation-related aggravation is not a separate occupational disease. Id.
+Analogous provisions of the Occupational Disease Act, however, require proof that a claimant be disabled from an occupational disease, and not the occupational aggravation of a pre-existing disease, as a prerequisite for recovery. Sections 301(a) and (c) of the Act, 77 P.S. §1401 (a) and (c), provide, in pertinent part:
+(a) [0]ompensation for disability or death . . . caused by occupational disease, arising out of and in the course of employment, shall be paid by the employer.
+(c) Whenever compensable disability or death is mentioned as a cause for compensation under this act, it shall mean only compensable disability or death resulting from occupational disease. . . . (Emphasis added.) (Footnote ommitted.)
+Absent statutory language similar or identical to that of Section 301(c) of the Compensation Act which includes within its definition of “injury” the occupational aggravation of a pre-existing disease, we shall not judicially amend the Occupational Disease Act by making synonymous the work-related aggravation of pre-existing diseases with those disabling, designated occupational diseases contracted during employment and thus compensable under the Act. Although tthe Occupational Disease Act is to be construed liberally to effectuate its remedial and humanitarian purposes, this Court cannot distort the meaning of clear and plain statutory language. Porter v. Sterling Supply Corporation, 203 Pa. Superior Ct. 138, 141, 199 A.2d 525, 526 (1964).
+The next issue is whether the Board capriciously disregarded competent evidence in finding that claimant aggravated, but did not contract, his totally disabling lung disease while employed with the defendant-firm. The record reveals that the testimony of claimant’s examining physician was inconsistent in that he stated at one point that the working conditions caused claimant’s lung disease and, at another point, that the working condition aggravated claimant’s possibly congenital pre-existing lung disease. It is axiomatic that the Board, as the ultimate fact finder under the Act, Section 423 of the Act, 77 P.S. §1523, may weigh the evidence and accept or reject the testimony of any witness in whole or in part. Henry v. Workmen’s Compensation Appeal Board, 36 Pa. Commonwealth Ct. 262, 266, 387 A.2d 523, 525 (1978). Obviously the Board accepted, quite properly, that part of the expert’s testimony which established that claimant’s work environment aggravated, rather than caused, claimant’s lung ailment. See, Jasper v. Workmen’s Compensation Appeal Board, 58 Pa. Commonwealth Ct. 208, 210, 427 A.2d 740, 741 (1981).
+Since we have determined that the work-related aggravation of a pre-existing disease does not itself constitute an occupational disease, and that the Board did not-capriciously disregard competent evidence in finding that claimant aggravated but did not contract his disabling lung disease while employed with defendant-firm, claimant is not entitled to compensation under the provisions of the Act. Because claimant’s disability resulted not from an occupational disease contracted while claimant was in the employ of defendant-firm, but from the occupational aggravation of the pre-existing disease, we therefore deem it unnecessary to determine within the scope of our review whether the Board properly concluded that claimant failed to carry his burden of proof pursuant to Section 108(n) of the Act, 77 P.S. §120S(n). '
+The order of the lower court is hereby affirmed.
+Order
+And Now, this 7th day of June, 1983,- the order of the Court of Common Pleas of Philadelphia County dated September 4, 1981, is affirmed.
+Act of June 21, 1939, P.L. 566, §§101-503, as amended, 77 P.S, §§1201-1603.
+Act of June 21, 1939, P.L. 566, as amended, added by Section 1, Act of February 28, 1956, P.L. (1955) 1095, 77 P.S. §1208(n).
+In all cases brought under the Pennsylvania Occupational Disease Act, the Board is the ultimate fact finder and may disregard findings of fact of the referee without taking further testimony. See Section 423 of the Act, 77 P.S. 1523; see also, Schmeck v. General Battery Corporation, 49 Pa. Commonwealth Ct. 15, 19, 411 A.2d 264, 266 (1980); Deck v. Bethlehem Steel Corporation, 46 Pa. Commonwealth Ct. 567, 569, 407 A.2d 899, 900 n.1 (1979).
+Our scope of review where the party with the burden of proof did not prevail below is limited to determining whether the findings of fact are consistent with each other and with the conclusion of law and can he sustained without a capricious disregard of competent evidence. Wilson v. International Peripheral Systems, Inc., 58 Pa. Commonwealth Ct. 38, 41. 427 A.2d 293, 294 (1981).
+Act of June 2, 1915, P.L. 736. as amended, 77 P.S. §§1-1066.
+For this Court to find a capricious disregard of competent evidence by the Board “we must determine that [the fact finder] wilfully and deliberately disbelieved an apparently trustworthy witness whose testimony one of ordinary intelligence could not possibly challenge.” Sayre v. Workmen’s Compensation Appeal Board, 67 Pa. Commonwealth Ct. 68, 71, 445 A.2d 1362, 1363-64 (1982) (quoting Snyder v. Workmen’s Compensation Appeal Board, 50 Pa. Commonwealth Ct. 227, 229, 412 A.2d 694, 695 (1980)).
+Section 108(n) of the Act, 77 P.S. §1208(n), provides:
+The term “occupational disease,” as used in this act, shall mean only the following diseases:
+(n) All other occupational diseases (1) to which the claimant is exposed by reason of his employment, and (2) which are peculiar to the industry or occupation, and (3) which are not common to the general population. . . .
