@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 334"
+decided: "1917-10-08"
+citations: ["68 Pa. Super. 20"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Kephart, Trexler and Williams, JJ."]
+parties: ["Conn v. Lehigh Valley Railroad Co., Appellant."]
+source_url: "https://static.case.law/pa-super/68/cases/0020-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 630925
+---
+
+# Conn v. Lehigh Valley Railroad
+
+## Majority (Orlady, P. J.,)
+
+Opinion by
+Orlady, P. J.,
+The facts established by the verdict in this case are substantially as follows: The log which struck the plaintiff, was driven or forced by a gondola car, then standing on a siding of the defendant; this car was placed in front of a loading dock to receive mine props or logs; the place had been used for that purpose for a number of years; the initial force was applied by a shifting engine in moving other cars on this siding, and no notice was given by the defendant’s employees to the plaintiff and others working with him of this unexpected movement of the cars. Roof and Wilcox had used an old dock as a landing platform to facilitate the handling of mine props, etc., from the bank to the cars. A new dock of similar design was being constructed, as an extension of the old landing, and was to be used in conjunction with it for the sáme purpose. The evidence does not clearly disclose the circumstances under which the first dock had been constructed, but it is clear that its location and form had been accepted for a number of years by the railroad company as satisfactory, and well suited to its purposes. The new dock was being built in a similar relation to the railroad siding track. The defendant’s map designates its location as “the Rummerfield Log Loading Dock” and shows the new one to be thirty feet long on its front line, two and a half feet west of the old one, and both were twenty-three feet distant, and parallel 'with the near rail of the siding, which extended beyond the end of the new dock, so that cars could be as conveniently placed before it as at the old one. The right of Roof and Wilcox to maintain the old, and construct the new dock depended upon disputed facts, and these were fairly submitted to the jury, the court saying, “Did Roof and Wilcox have the right to enlarge the old dock, or build a new one adjacent to it, and were they acting within the permission accorded to them by the railroad company?” The jury resolved the disputed facts in the plaintiff’s favor, and under the circumstances, he could not be held to be a trespasser. His work at that place was proper in providing for the dispatch of heavy freight which the defendant had arranged to accept, and proof of a prior or formal consent by the defendant in regard to the exact location of the additional dock was not essential to sustain the plaintiff’s action. The evidence warranted the conclusions reached by the jury. The empty car at the dock, with the piles of logs on the adjacent bank and the track, were conspicuous objects in clear view of those operating the engine. And the fact, that the car was in use, or likely to be used, was evidently ignored by those in charge of the movement of the engine and ears, as no notice or warning was given to persons on the cars and siding. Moreover, the tracks, cars, and surrounding objects were viewed by the trial jury, so that the conflicting testimony was intelligently considered in determining whether, under all the circumstances, there was due and reasonable care used by the trainmen.
+The plaintiff’s statement might have been framed more “concisely and precisely” but, it was sufficiently clear, complete and accurate to fully inform the defendant, that the cause of action on which a recovery was sought, was the negligent movement of the car on this siding, without any notice to the plaintiff and others who were working on this track. The proof adduced was but an elaboration of the facts, as narrated in the plaintiff’s statement, and the defendant was not misled as to the defense it must make in order to avoid liability. The wrong shown in the evidence, was the wrong alleged in the statement. Whether the old dock and the new one were in fact on the land of the railroad, or on that of its adjoiner was not material, under the facts of the case. The dividing line, while it may have been in doubt was not a subject of controversy by either owner, and its true location was properly left to the jury to determine. The dock was used by Roof and Wilcox as the place fixed by the railroad company for delivery by them, and acceptance by it of this kind of freight, and after seven years acquiescence in its use in such a manner the plaintiff cannot be held, as a matter of law, to have been a trespasser.
+The trial was zealously conducted by able counsel, and after a charge, which is free from reversible error, counsel were asked if any further or special instructions were desired, when the last suggestions of counsel were fully considered.
+The opinion of the court, in refusing a new trial, and judgment for the defendant non obstante veredicto, furnishes sufficient reasons for sustaining the verdict.
+The judgment is affirmed.
