@@ -1,0 +1,55 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1171 C.D. 1980"
+decided: "1981-12-31"
+citations: ["63 Pa. Commw. 555"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Mencer, MacPhail and Palladino, sitting as a panel of three.", "Judge MacPhail dissents."]
+parties: ["West Allegheny Hospital v. Board of Property Assessment, Appeals and Review of Allegheny County West Allegheny School District, Appellant."]
+source_url: "https://static.case.law/pa-commw/63/cases/0555-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1926846
+cites_cases: ["178 A.2d 600", "23 Pa. Commonwealth Ct. 367", "27 Pa. Commonwealth Ct. 630", "291 A.2d 567", "293 A.2d 888", "351 A.2d 707", "361 Pa. 284", "367 A.2d 405", "39 Pa. Commonwealth Ct. 326", "395 A.2d 1023", "403 A.2d 613", "406 Pa. 579", "414 A.2d 134", "416 A.2d 1161", "42 U.S.C. §291", "43 Pa. Commonwealth Ct. 508", "5 Pa. Commonwealth Ct. 648", "51 Pa. Commonwealth Ct. 31", "53 Pa. Commonwealth Ct. 110", "6 Pa. Commonwealth Ct. 199", "65 A.2d 150"]
+---
+
+# West Allegheny Hospital v. Board of Property Assessment, Appeals & Review
+
+## Majority (Judge Palladino,)
+
+Opinion by
+Judge Palladino,
+West Allegheny School District appeals an order of the Court of Common Pleas of Allegheny County which sustained the consolidated appeals of West Allegheny Hospital (West Allegheny) from a denial of real estate tax exemptions by the Board of Property Assessment, Appeals and Review of Allegheny County (Board). We reverse the order of the court of common pleas and deny a tax exemption to West Allegheny.
+On April 5,1956, West Allegheny was chartered as a non-profit corporation. Through an application filed June 2, 1966, and a supplemental application filed June 7, 1974, West Allegheny sought a tax exemption for a building purchased for use as a medical facility. In January of 1975 the Board denied West Allegheny’s requested exemption. On March 1, 1974, West Allegheny filed an application for a tax exemption covering an edifice newly constructed as part of its health complex. This application was denied by the Board on April 23, 1974. The appeals of West Allegheny from the Board’s denials of tax-exempt status were consolidated before the court of common pleas which held that West Allegheny qualified for tax exemptions as a purely public charity. We disagree.
+To be eligible for an exemption pursuant to Article VIII, Section 2 of the Constitution of the Commonwealth of Pennsylvania and Section 204 of The General County Assessment Law, Act of May 22, 1933, P.L. 853, as amended, 72 P.S. §5020-204, an institution “ ‘must affirmatively show that the entire institution, (1) is one of “purely public charity”; (2) was founded by public or private charity; (3) is maintained by public or private charity.’ ” Robert Morris College v. Board of Property Assessment, Appeals and Review, 5 Pa. Commonwealth Ct. 648, 656, 291 A.2d 567, 572 (1972) (quoting Woods Schools Tax Exemption Case, 406 Pa. 579, 584, 178 A.2d 600, 602 (1962)); Point Park Junior College v. Board of Property Assessment, Appeals and Review of Allegheny County, 23 Pa. Commonwealth Ct. 367, 351 A.2d 707 (1976). “This Court has more recently restated the requisite characteristics which an institution must prove [as] ... freedom from a private profit motive, significant charitable support for the institution, and provision of charitable services through . . . financial assistance.” Wayne County Board of Assessment v. Federation of Jewish Philanthropies, 43 Pa. Commonwealth Ct. 508, 511, 403 A.2d 613, 615 (1979).
+Because the taxation of real estate is the rule and exemption is the exception, statutory provisions providing exemptions from taxation are strictly construed against the taxpayer. S. D. Richman Sons, Inc. v. Board of Finance and Revenue, 53 Pa. Commonwealth Ct. 110, 416 A.2d 1161 (1980); Appeal of Doctor’s Hospital, 51 Pa. Commonwealth Ct. 31, 414 A.2d 134 (1980); Section 1928(b)(5) of the Statutory Construction Act of 1972, 1 Pa. C. S. §1928(b)(5). “The resolution of whether an institution is a ‘purely public charity’ is a mixed question of law and fact and each case must be decided on its unique factual composition.” Appeal of Doctor’s Hospital, 51 Pa. Commonwealth Ct. at 34-35, 414 A.2d at 316; Appeal of Marple Newtown School District, 39 Pa. Commonwealth Ct. 326, 395 A.2d 1023 (1978).
+Although an institution may receive some reimbursement for its services and yet constitute a charity, Appeal of Marple Newtown School District, “to qualify as a ‘purely public charity’ the institution ‘must donate or render gratuitously a substantial portion of its ... services.’ ” Robert Morris College v. Board of Property Assessment, Appeals and Review, 5 Pa. Commonwealth Ct. at 659, 291 A.2d at 574 (emphasis added) (quoting Woods Schools Tax Exemption Case, 406 Pa. 579, 587, 178 A.2d 600, 604 (1962)). ‘“[A]n institution claiming to be charitable . . . must possess an eleemosynary characteristic not possessed by institutions . . . devoted to private gain or profit. What is “given” must be more nearly gratuitous than for a price which impresses one as being proportionate to the services rendered.’ ” Robert Morris College v. Board of Property Assessment, Appeals and Review, 5 Pa. Commonwealth Ct. at 658, 291 A.2d at 573 (emphasis in original) (quoting Ogontz School Tax Exemption Case, 361 Pa. 284, 294, 65 A.2d 150, 154 (1949)); Appeal of Doctor’s Hospital. A “charity becomes exempt because it is providing services to a group of recipients which would ordinarily be provided by the government at little or no cost.” Homewood-Brushton Citizens Renewal Council v. Department of City Treasurer, City of Pittsburgh, 27 Pa. Commonwealth Ct. 630, 634, 367 A.2d 405, 407-08 (1976).
+The present case is controlled by the decision of Judge Crumlish (now President Judge) in Appeal of Doctor’s Hospital. Like the revenues of Doctor’s Hospital, the revenues of West Allegheny derive from Blue Cross/Blue Shield, Medicare, Medicaid, other third-party insurers, and self-paid patients. Although West Allegheny adheres to an open admission policy required by its receipt of federal funding, West Allegheny, like Doctor’s Hospital, bills all patients who utilize its services regardless of the patients’ ability/ inability to pay. To assist in obtaining payment, West Allegheny also employs a debt collection agency. As did Doctor’s Hospital, West Allegheny regards uncollected payments as bad debts.
+Doctors at West Allegheny directly bill their patients for all treatment except emergency room care for which West Allegheny directly bills patients. According to the testimony of West Allegheny’s administrator, aggregate costs, including overhead, for the operation of the emergency room in 1978, a typical year, totalled approximately $210,000 while charges to patients for emergency treatment in 1978 totalled approximately $210,704, i.e., billings to patients equalled West Allegheny’s actual costs.
+“[Q]md pro quo permeates the entire operation” of West Allegheny. Lutheran Home at Topton, Pennsylvania Tax Appeal, 6 Pa. Commonwealth Ct. 199, 210, 293 A.2d 888, 894 (1972) (emphasis in original). Accordingly, since with respect to West Allegheny the record does not disclose any objects of charity, we will enter the following
+Order
+And Now, December 31, 1981, the order of the Court of Common Pleas of Allegheny County, dated April 17,1980, docketed at G.D. 75-3752, is reversed.
+Judge MacPhail dissents.
+Article VIII, Section 2 states in pertinent part: “(a) The General Assembly may by law exempt from taxation: . . . (v) Institutions of purely public charity. . . .”
+Section 204(a)(3) states in pertinent part: “(a) The following property shall be exempt from all county, city, borough, town, township, road, poor and school tax, to wit: ... (3) All hospitals . . . founded, endowed, and maintained by public or private charity.
+Mr. Lanni, West Allegheny’s administrator, testified before the court of common pleas .that the basic sources of West Allegheny’s funds were:
+In-Patient Care
+30% Blue Cross/Blue Shield (reimburses reasonable costs)
+30% Medicaid
+20% Medicare
+*20% Other Third-party Insurers and Self-paid Patients (*2-3% of this amount was bad debt)
+Emergency Owe
+30% Blue Cross/Blue Shield
+30% Medicaid
+5% Medicare
+15% Other Third-party Insurers
+*20% Self-paid Patients (*80% of this amount was bad debt)
+Under the open admission policy, a patient is admitted to West Allegheny without first being required to prepay any charges or supply security. Once admitted, a patient is not discharged from West Allegheny for inability to pay for services. However, all West Allegheny patients are billed for the costs of the services received by them, and West Allegheny employs a debt collection agency.
+West Allegheny receives federal grants pursuant to the Hill-Burton Act, 42 U.S.C. §291 (1970). Under the Act, West Allegheny liad to choose one of three options for providing care. Mr. Lanni, West Allegheny’s administrator, characterized the options as follows :
+One is the open door policy; the second is the .ten percent of the sum of Hill-Burton grants received, within the next twenty years. In a sense [West Allegheny] got a million and a half, and . . . should be able to give service, over a twenty year period, equivalent to one-twentieth of the million and a half. The third option is . . . three percent of charges, after you take medicare and medicaid costs out.
+While doctors at West Allegheny donate their services to West Allegheny for emergency room duty, West Allegheny bills patients for the emergency services which the doctors provide.
+West Allegheny sponsors a “free clinic.” From time to time the clinic provides free influenza vaccinations and free testing for, inter alia, diabetes and high blood pressure. However, in Appeal of Doctor’s Hospital this Court noted that an institution cannot be classified as a
+‘purely public charity’ simply because its staff physicians render diagnostic services at the clinic free of charge. First, there is some question as to whether services are in fact rendered by the doctors with a charitable intent or as a means of obtaining additional patients [as where the diagnosis is gratis but treatment pursuant to the diagnosis is rendered for a fee]. Second, though an enterprise may be commendable and involve the ‘generous contribution of much time and effort on the part of many public spirited people,’ it does not therefore automatically possess those eleemosynary characteristics essential .to classification as a ‘purely public charity.’
+Id. at 37, 414 A.2d at 137.
+Because we have considered this case on its merits and have found that West Allegheny does not qualify for a charitable tax exemption, we dispense not only with a discussion of the procedural issue raised by District but also with a discussion of whether all property owned by West Allegheny is actually and regularly used for an exempt purpose.
