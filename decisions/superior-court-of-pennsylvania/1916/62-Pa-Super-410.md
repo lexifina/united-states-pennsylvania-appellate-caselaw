@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 250"
+decided: "1916-03-01"
+citations: ["62 Pa. Super. 410"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Orlady, Head, Porter, Kephart and Trexler, JJ."]
+parties: ["Sellmer v. Ringling, Appellant."]
+source_url: "https://static.case.law/pa-super/62/cases/0410-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 455324
+cites_cases: ["116 N. W. 624", "135 Mass. 414", "150 Pa. 91", "168 Pa. 497", "169 Pa. 488", "18 Pa. Superior Ct. 474", "180 Pa. 444", "208 Pa. 175", "221 Pa. 25", "237 Pa. 153", "43 Pa. Superior Ct. 389", "5 Pa. Superior Ct. 609"]
+---
+
+# Sellmer v. Ringling
+
+## Majority (Trexler, J.,)
+
+Opinion bx
+Trexler, J.,
+Plaintiff’s foot was caught and injured between two boards as she was descending from her seat after a circus performance. Her testimony is to the effect, that as she trod on a board it gave way under her and her foot was pinched between two boards, one of which overlapped, the other. Her account of the accident is corroborated by two witnesses. The duty imposed upon the defendants to people who purchase tickets and attend the performance is thus stated in Thompson on Negligence, Yol. I, Sec. 996: “The duty assumed by the owners of places to which the public thus resort in large numbers is manifestly analogous to that which the law imposes on carriers of passengers. Doubtless the true theory is that such persons assume the obligation of exercising reasonable care, and that what will be a reasonable care will be a degree of care proportioned to the danger incurred and the number of persons who will be subjected to that danger. A good expression of the rule of liability, applicable to such cases, is found in the English case to the effect that the proprietor of such structure is not a warrantor or insurer that it is absolutely safe, but that he impliedly warrants that it is safe for the purpose intended, save only as to those defects which are unseen, unknown and undiscoverable. Such being the nature of the obligation, it is obvious that the proprietor of such a building is under a continuing duty of inspection, to the end of seeing that it is reasonably safe for the protection of those whom he invited to come into it; and that if he neglects his duty in this respect, so that it becomes unsafe, the question of his knowledge or ignorance of the defects which render it unsafe is immaterial.” Sheets v. Sunbury, Etc., Rwy. Co., 237 Pa. 153.
+Defendants called several witnesses who testified that the seats furnished for the accommodation of the public were duly inspected and they testified, in a general way, that they were in proper condition; that there were no overlapping boards in the aisles, and where boards did overlap the ends were supported by an underlying stringer. The testimony of the plaintiff and her witnesses shows plainly how the accident happened. When she left her seat, she had- the right to believe that she .could descend in safety. Defendants argue that as she came up the same aisle that she went down and as hundreds of others descended in safety, there could have been no defect in the construction of the benches and their supports. The trouble with this argument is that the plaintiff could not exactly tell whether she came up the same aisle and there was testimony that the seats in a portion of the circus where she sat were constructed with backs which in case of a full house were put down upon the seats, after the performance, and the people then used the seats as a means of egress, irrespective of the regular aisles. The regular aisles, so called, were in case of necessity occupied by spectators and the passage ways were thus obliterated and spectators after the performance chose their own course of descent.
+The jury could readily conclude that at the place where the boards overlapped, the supporting stringer had not been properly placed and that this negligence on the part of the defendants conld have been discovered by the inspection required to be made by them. This would not be mere guess work, but would be a fair inference from the testimony in the case. The happening of the accident in itself did not afford a presumption of negligence but the facts disclosed by the narration of the manner in which the accident occurred were sufficient in the absence of an explanation by defendant to show that it happened from a want of due care. See Shafer v. Lacock, 168 Pa. 497. The testimony of defendants was not of such a character as to compel the court to decide as a matter of law that the defendants were free of negligence. Taking the testimony of both sides, it could be reconciled in such a way that the jury might infer that the boards overlapped; that the stringer which should have been placed under the place where they overlapped was out of place; that a reasonable inspection on the part of the defendants would have disclosed this latter fact, and that the plaintiff’s injury was occasioned by the want of care in this respect on the part of the defendants.
+The assignments of error are overruled. Judgment affirmed.
