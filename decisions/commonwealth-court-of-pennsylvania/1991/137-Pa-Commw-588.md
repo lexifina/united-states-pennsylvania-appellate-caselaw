@@ -1,0 +1,46 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "999 C.D. 1990"
+decided: "1991-02-13"
+citations: ["137 Pa. Commw. 588", "587 A.2d 37"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before PALLADINO and KELLEY, JJ., and CRUMLISH, Jr., Senior Judge."]
+parties: ["Gary and Kathleen HUNT and Ingersoll Rand, Appellants, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, Appellee."]
+source_url: "https://static.case.law/pa-commw/137/cases/0588-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1410875
+cites_cases: ["109 Pa.Commonwealth Ct. 484", "120 Pa.Commonwealth Ct. 369", "122 Pa.Commonwealth Ct. 82", "319 A.2d 899", "354 Pa.Superior Ct. 291", "456 Pa. 530", "488 A.2d 77", "87 Pa.Commonwealth Ct. 504"]
+---
+
+# Hunt v. Commonwealth
+
+## Majority (PALLADINO, Judge.)
+
+PALLADINO, Judge.
+Gary and Kathleen Hunt and Ingersoll Rand (collectively, Appellants) appeal from an order of the Court of Common Pleas of Philadelphia County (trial court) which granted Department of Transportation’s (DOT) motion to dismiss. We affirm.
+Gary Hunt (Hunt) was injured when a truck he was driving slid on a natural accumulation of snow and ice and crashed through a guard rail along Interstate 81. Hunt suffered serious permanent injuries and the truck was damaged. Ingersoll Rand owned the truck operated by Hunt.
+Appellants allege that DOT was negligent in failing to properly clear the snow and ice, failing to warn of the dangerous condition caused by the ice and failing to close Interstate 81 after DOT knew of the dangerous condition. At a pre-trial conference held on the day the trial was scheduled to begin, DOT submitted a motion to dismiss Appellants’ complaint. DOT, citing Huber v. Department of Transportation, 122 Pa.Commonwealth Ct. 82, 551 A.2d 1130 (1988), asserted that Appellants failed to allege facts which would demonstrate that DOT owed a duty to Appellants regarding the clearing of the natural accumulation of snow and ice from the highway. Trial court granted the motion.
+The issues raised on appeal are as follows: 1) whether the trial court’s consideration of the motion to dismiss on the day of the trial was a procedural error; and 2) whether the trial court erred as a matter of law in granting the motion to dismiss.
+As to the first issue, Appellants argue that the Pennsylvania Rules of Civil Procedure do not allow for a motion to dismiss a complaint on the day of the trial. Appellants assert that the proper methods would be for DOT to either file a motion for summary judgment before trial or make a motion for non-suit at the close of Appellants’ evidence. Appellants contend that they were prejudiced by the late motion to dismiss because they were not given the opportunity to respond in writing.
+While we may agree with Appellants that DOT could have moved for summary judgment before the trial or moved for a non-suit at the appropriate stage of the trial, the Rules of Civil Procedure allow a motion to dismiss at a pre-trial conference. Pa.R.C.P. No. 1032(1) provides that the defense of failure to state a claim upon which relief can be granted is not waived by a failure to raise it by preliminary objection. This defense can be raised at later stages in the suit. See Luitweiler v. Northchester Corporation, 456 Pa. 530, 319 A.2d 899 (1974).
+Furthermore, Pa.R.C.P. No. 212 states in pertinent part as follows:
+Rule 212 Pre-trial Conference
+In any action the court, of its own motion or on motion of any party, may direct the attorneys for the parties to appear for a conference to consider:
+(a) The simplification of the issues;
+(f) Such other matters as may aid in the disposition of the action.
+In its opinion, the trial court cites Vogel v. Berkley, 354 Pa.Superior Ct. 291, 511 A.2d 878 (1986), in which the superior court interpreted Pa.R.C.P. No. 212 and held that it is appropriate for the court at a pre-trial conference to decide issues of law based on admitted or undenied facts appearing of record and to dismiss issues as a matter of law. We agree. The trial court’s authority to settle, at pre-trial conference, issues of law upon undisputed facts is implicit in Pa.R.C.P. No. 212.
+At pre-trial conference the trial court heard Appellants’ offer of proof of the evidence to be presented at trial. DOT submitted a motion to dismiss the complaint for failure to state a cause of action. The trial court concluded that, as a matter of law, the facts that Appellants were attempting to prove did not demonstrate that DOT owed a duty to Appellants for the clearing of the natural accumulation of snow and ice from the highway. Because DOT in no way waived its right to assert that Appellants failed to state a cause of action, and because the trial court had the authority to decide issues of law during the pre-trial conference, we hold that trial court did not err by considering the motion to dismiss at the pre-trial conference.
+As to the second issue, Appellants argue that the trial court erred in granting DOT’s motion to dismiss. In reviewing a trial court’s grant of a demurrer, all well-pleaded facts and all inferences that may be reasonably deduced therefrom, but not conclusions of law, must be accepted as true. County of Allegheny v. Dominijanni, 109 Pa.Commonwealth Ct. 484, 531 A.2d 562 (1987). A demurrer will not be sustained unless it is clear that the law will not permit recovery. Hawkins v. City of Harrisburg, 120 Pa.Commonwealth Ct. 369, 548 A.2d 399 (1988).
+Appellants argue that the trial court erred in holding that Huber is controlling. Appellants assert that Huber is distinguishable and that this case is controlled by Department of Transportation v. Phillips, 87 Pa.Commonwealth Ct. 504, 488 A.2d 77 (1985), because in the instant case DOT had notice of the dangerous conditions and made an attempt to correct the conditions.
+In Huber, a motorist alleged that DOT was negligent for failing to clear a natural accumulation of snow and ice after DOT had knowledge of the dangerous condition caused by the accumulation. This court held that DOT does not owe a specific duty to individual motorists to clear highways of natural accumulations of snow and ice. In Huber, we distinguished Phillips because in that case the ice which caused the accident was not the result of a natural accumulation and because DOT took affirmative steps to remedy the dangerous condition.
+Specifically, in Phillips, DOT was found to be negligent as a result of a two-car collision which occurred on a patch of ice on a state road. The patch of ice was caused by water run-off from a drainage ditch which was fed by water pumped from a nearby house. DOT workers attempted to place a trestle and a light adjacent to the ice patch. The
+DOT workers left the scene even though the light was not working. This court held that that DOT has a duty to warn and correct a dangerous ice condition and may be held liable for failure to do so after it receives actual knowledge of the condition.
+Phillips is inapposite to the case before us. Appellants do not allege that the snow and ice which allegedly caused the accident were the result of anything other than a natural accumulation. Appellants conclude that DOT attempted to correct the alleged dangerous conditions because DOT trucks began plowing and salting other areas of Interstate 81 but did not reach the area where the accident occurred. There is no dispute that DOT never reached the accident scene prior to the accident. DOT does not assume the duty to clear a highway on behalf of specific motorists because its vehicles have begun to remove ice and snow somewhere else on the highway. Because it is clear that only natural accumulation of ice and snow resulted in the accident and DOT made no effort to warn of or correct the alleged dangerous conditions caused by the snow and ice, we hold that Huber is controlling. Therefore, we conclude that the trial court correctly held that DOT owed no duty to Appellants to clear Interstate 81 of ice and snow at the scene of this accident.
+Finally, Appellants argue that the question of whether a dangerous condition existed is for the jury and therefore the trial court erred in dismissing this case before trial. As stated above, under Huber, DOT had no duty to Appellants to clear the highway of a natural accumulation of ice and snow. Therefore, there was no need to reach the question of whether a dangerous condition existed. We hold that trial court correctly dismissed Appellants’ complaint as a matter of law.
+Accordingly, we affirm.
+ORDER
+AND NOW, February 13, 1991, the order of the Court of Common Pleas of Philadelphia County in the above-captioned matter is affirmed.
+. Ingersoll Rand and the Hunts brought separate actions against DOT which were consolidated by the trial court. Mrs. Hunt's suit alleges a loss of consortium and Ingersoll Rand is seeking recovery of damages caused to its truck.
+. Although not so titled by DOT, it is clear that DOT's motion to dismiss the complaint is in the nature of a demurrer. DOT asserted that Appellants failed to and are unable to state a cause of action.
