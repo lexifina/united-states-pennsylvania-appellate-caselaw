@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 255"
+decided: "1914-02-20"
+citations: ["56 Pa. Super. 71"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady, Head and Porter, JJ."]
+parties: ["Brackbill’s Estate."]
+source_url: "https://static.case.law/pa-super/56/cases/0071-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 441936
+cites_cases: ["116 Pa. 232", "16 Pa. Superior Ct. 627", "175 Pa. 23", "18 Pa. Superior Ct. 530", "2 Yeates, 525", "205 Pa. 504", "209 Pa. 108", "221 Pa. 374", "30 Pa. Superior Ct. 145", "6 Pa. 97"]
+---
+
+# Brackbill's Estate
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+The language of the testator does not afford a place for doubt that his intention was to distribute his estate among his nephews and nieces peí capita, certain members of the class being excluded for reasons not disclosed in the will. The whole scheme of division shows an intelligent and fixed purpose to give to the designated members of this class notwithstanding the fact that a brother and sister of the testator survived him. The contention in the case arises out of the second paragraph of the first codicil which provides that: “In the distribution of my estate it is my desire and wish and I so order and direct that it shall be governed by the intestate laws of the State of Pennsylvania, excepting and excluding,«however, from any participation therein the following named persons,” If there Fere nothing else in the will or codicil casting light on the testator’s intention there would be much force in the argument presented, but a consideration of both of these instruments convinces us that it was not the intention to change the entire plan of distribution and to dispose of the estate remaining after the payment of the legacies provided for in the second and third paragraphs of the will as provided for by the intestate law of the commonwealth and as though Elias Brackbill had died intestate. The codicil does not disclose a purpose to adopt a new plan of distribution. Where a clear intention is expressed in a will such intention is not to be set aside except where the provisions of the codicil are manifestly inconsistent with it. The reference in the codicil to the intestate laws of the state of Pennsylvania is apparently introduced incidentally, not to determine a course of distribution but to provide for the working out of the testator’s scheme when the provision for the distribution of his estate is set in action after his death. If the codicil is to be given the effect claimed for it the estate must be distributed per stirpes, because the testator’s sister and brother would participate in his estate. The very clause in the codicil, however, on which the appellant relies excludes from participation two of the children of the brother, Amos, and the effect of this provision is not only by the terms of the codicil but by clear implication the ratification of the provision for a bequest to the remaining children of Amos. It is to be noticed, too, that there is no mention in the codicil of the sister who survived nor is Amos mentioned except for the purpose of description of the two nieces, his daughters, who were excluded from any share in the estate. The per capita plan must, therefore, have been in the mind of the testator when the codicil was executed, for under no circumstances would any of the children of Amos take if the intestate law is applied: There is much force in the argument, ffoo, that it might be impracticable to carry out the provisions of sec. 7 of the will with reference to the disposal of the real estate if the appellant’s construction be accepted. The testator evidently desired to have the family name perpetuated in the proprietorship of the farm and accordingly provided a method by which the title might be taken by one of his nephews and equalization in the distribution attained by an appraisement of the land and the payment of the excess of the value over the share of the nephew talcing it to the other devisees. It might be that one or the other of the sons of Amos would acquire the title under the arrangement for perpetuating the family ■ name, but they would both be excluded from any share in the estate under the construction sought to be. applied. Such an important change in the unambiguous disposal of the estate contained in the will should be manifested in clearer terms than are given in the codicil. The view entertained by the learned judge of. the orphans’ court renders the will and the codicil consistent and maintains the salient intention to distribute to certain nephews and nieces of the testator per capita, and with that construction we agree.
+The decree is affirmed.
