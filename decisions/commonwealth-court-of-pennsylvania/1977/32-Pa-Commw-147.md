@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1631 C.D. 1976"
+decided: "1977-10-12"
+citations: ["32 Pa. Commw. 147"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Wilkinson, Jr. and Rogers, sitting as a panel of three."]
+parties: ["Yellow Freight System, Inc., Petitioner v. Commonwealth of Pennsylvania, Workmen’s Compensation Appeal Board and Forrest E. Dennis, Jr., Respondents."]
+source_url: "https://static.case.law/pa-commw/32/cases/0147-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1883563
+cites_cases: ["19 Pa. Commonwealth Ct. 605", "25 Pa. Commonwealth Ct. 395", "339 A.2d 158", "360 A.2d 306"]
+---
+
+# Yellow Freight System, Inc. v. Commonwealth
+
+## Majority (Judge Wilkinson, Jr.,)
+
+Opinion by
+Judge Wilkinson, Jr.,
+The difficult question raised in this appeal from the dismissal of a petition to terminate a compensation agreement is whether an employer can be restricted in proving the availability of work, within a claimant’s physical limitations, to the area of the .claimant’s present residence as opposed to the area where he worked at the time of his injury. The Workmen’s Compensation Appeal Board (Board) affirmed a referee’s decision which considered only the area of the claimant’s present residence. We affirm.
+Respondent was employed by petitioner as a dock-man in Lancaster, Pennsylvania, when, in December 1972, he suffered a compensable injury for which he has received total disability payments. In October 1973, petitioner filed its petition to terminate, alleging that respondent’s physician had discharged him to return to work in March 1973 and that respondent was fully recovered from his disability and able to return to work. Sometime thereafter, respondent moved from the Lancaster area to a town with an approximate population of 4,500 in Delaware, where he presently resides. He has not been employed since incurring the injury.
+Petitioner’s physician testified that respondent has permanent work limitations preventing him from lifting more than 50 pounds and performing excessive bending or stooping, a diagnosis in agreement with the March 1973 discharge report of respondent’s treating physician, to which the parties stipulated. Petitioner’s employment expert testified that he had found three jobs available to a person with what were then considered respondent’s qualifications and physical limitations in the area of respondent’s Delaware residence, two as a security guard and the third as a tire salesman.
+The referee found that respondent has “at the minimum a permanent partial disability” with the lifting and bending restrictions, that respondent has made sincere efforts to find employment, that petitioner’s employment expert had not provided credible evidence as to available employment and that petitioner had not raised a reasonable contest as to respondent’s alleged recovery. The referee then dismissed the petition to terminate. The Board affirmed.
+Petitioner contends that it should have been given the option to meet its burden of proving job availability either in the area of respondent’s former employment or the area of his present residence. Although this problem is a novel one and has not been addressed in the cases, it is well established that “[w]here the injured person can perform only work specially fitted to his physical condition, the burden is on the employer to show that such work is in fact within reach and absent such proof the claimant must be compensated as for total disability.” Workmen’s Compensation Appeal Board v. State Workmen’s Insurance Fund, 19 Pa. Commonwealth Ct. 605, 609, 339 A.2d 158, 160 (1975). (Emphasis added.) The possible availability of work in the area of a claimant’s previous residence cannot realistically be said to be “in fact within reach” when, as here, the claimant has since resettled elsewhere under circumstances which do not indicate a lack of good faith in the move itself and in subsequent attempts to find work within his physical capabilities.
+Petitioner next alleges that the referee and Board erred in admitting into the record letters from respondent to his counsel regarding his attempts to find employment both as a tire salesman and as a security guard. Especially in light of a stipulation permitting inclusion of such a letter into the record, and the fact that no objection was made to the referee’s request for letters from both sides concerning the salesman’s job, we find no error below. Nor do we find error in the Board’s ruling that respondent was unqualified for either of the two security guard jobs which petitioner’s employment expert testified were available.
+Petitioner finally contends that the Board erred in upholding the referee’s award of attorney’s fees to respondent. With this position of petitioner we are in agreement. The general rule is that attorney’s fees are awarded unless a reasonable basis for the employer’s contest is established. E.g., Workmen’s Compensation Appeal Board v. Denny, 25 Pa. Commonwealth Ct. 395, 360 A.2d 306 (1976). Certainly considering the novelty and difficulty of the legal question of whether work availability in the general location of respondent’s former residence is controlling or is to be even considered supplies sufficient basis for a reasonable contest.
+Accordingly, we will enter the following
+Order
+Now, October 12, 1977, the order of the Workmen’s Compensation Appeal Board No. A-71337, dated September 9, 1976, is hereby modified and it is ordered that judgment be entered in favor of Forrest E. Dennis, Jr., directing that Yellow Freight System, Inc., self-insured, continue to pay to claimant compensation for total disability at the rate of $94.00 per week until the disability ceases or changes in extent within the provisions of the Workmen’s Compensation Act and it is ordered further that the portion of the order of the Workmen’s Compensation Appeal Board providing for petitioner to pay $350 as a reasonable counsel fee be deleted.
+Interest at the rate of 10% per annum is awarded on any deferred payments.
+The date on which respondent moved to Delaware is not given in the record. It appears, however, that respondent moved sometime after his discharge but before the filing of his petition to terminate.
+The stipulation, dated after the date of the Board’s decision, places into the record one of the letters from respondent to his attorney which respondent introduced in oral argument before the Board. The date of the letter is not included in the stipulation and therefore it is unclear as to whether the stipulation was intended to refer to the first letter from respondent to his counsel (dated four days after the second hearing), which relates respondent’s version of his unsuccessful attempt to seek employment as a tire salesman, or the second letter dated approximately three weeks later), which states that respondent was qualified for neither (as opposed to one) of the security guard jobs.
