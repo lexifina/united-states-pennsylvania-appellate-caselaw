@@ -1,0 +1,23 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2; Appeal, No. 78"
+decided: "1917-07-13"
+citations: ["67 Pa. Super. 462"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Kephart, Trexler and Williams, JJ."]
+parties: ["Kaufman’s Estate"]
+source_url: "https://static.case.law/pa-super/67/cases/0462-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 629120
+---
+
+# Kaufman's Estate
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+This is another case arising out of the distribution of the estate of Sibilla Kaufman. The claim is for services rendered in preparing the plans for the erection of a large building on a lot owned by Mrs! Kaufman. The authority of the sons of Mrs. Kaufman to enter into such a contract and the competency of the witnesses by whom the account was proved and the admissibility of the book of accounts of the claimants are questions raised by the appeal. Consideration was given to the authority of the four sons of Mrs. Kaufman to manage her estate in the appeal of Nellie S. Kaufman, No. 76, April Term, 1917, this day decided and reference is made to the opinion in that case for a fuller discussion than is deemed necessary here. An examination of all of the evidence on the subject leaves no room for doubt in our minds that all the authority which the sons had was given them by the power of attorney dated June 12, 1900. That was executed soon after the death of Mrs. Kaufman’s husband and the transactions involved in this distribution were had after this power of attorney was delivered. The reference to the sons as “general agents of their mother” must be understood, therefore, to be agents within the scope of the power of attorney. There is no evidence tending to show that they were otherwise constituted her agents. The fact that within a few weeks after the death of her husband she invested her sons with written authority to act for her excludes the inference that they were otherwise constituted her agents.' There ,i$. indeed no definite and satisfactory evidence that ..they tv,eye orally empowered to carry out her instructions ,or to manage her business. The plans prepared, by the. claimants involved an outlay of from $50,000 to $60,000 for the construction of a building on one of Mrs. Kaufman’s lots and a considerable expense in the reconstruction of a building. We do not find in the power of attorney the necessary authority to enter into such an undertaking at Mrs. Kaufman’s charge. The plan necessarily involved the encumbering of her real estate for it is not pretended she had available funds to pay for such an improvement. The proviso in the power of attorney that nothing contained therein should give authority “to sell, or convey, mortgage, pledge or otherwise encumber” the said property or any part thereof is a restriction against such a project as the sons contemplated. The specific provisions in the power of attorney as to the duties of the appointees in connection with this restriction preclude the idea that Mrs. Kaufman intended that such expenses should be incurred on her account without her special direction and authority and there is no evidence in the case that she authorized or approved of this plan. Taking into view the manifest purpose of the instrument, the words of general authority with which it concludes must be related to transactions growing out of the special business to which the instrument refers. There is nothing to show that the claimants were misled by Mrs. Kaufman or that she accepted the result of their work. The building project was abandoned by her sons and she received no advantage in any way from the service of the architects. It may be the sons, anticipating a division of the estate by their mother at some later time, proceeded as if they were the owners of the premises, but the right of the claimants is to be tested by the authority committed to the sons. We regard the testimony as insufficient against the estate of the decedent. It may well be doubted whether the plaintiff’s offer of their boók óf original entries was admissible as Such in view of the'timé- and manner in which the charges, were made but it is-unnecessary to consider that aspect of the case and also - the competency of the claimants as witnesses to support their account as the conclusion with reference to the authority of the agents to contract the debt disposes of the whole claim.
+The decree is reversed and the record remitted to the court below to make distribution in accordance with this opinion.
