@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 87"
+decided: "1937-07-15"
+citations: ["128 Pa. Super. 97"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Stadteeld, Parker, James and Rhodes, JJ."]
+parties: ["Commonwealth v. Gantz, Appellant."]
+source_url: "https://static.case.law/pa-super/128/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1002075
+cites_cases: ["124 Pa. Superior Ct. 277", "170 N. E. 471", "188 A. 425", "253 N. Y. 1"]
+---
+
+# Commonwealth v. Gantz
+
+## Majority (Cunningham, J.,)
+
+Opinion by
+Cunningham, J.,
+On November 23, 1936, Carl Gantz, appellant herein, was tided and convicted upon an indictment, framed under the Act of July 11, 1917, P. L. 773, 18 PS §2161, as amended by the Act of July 21, 1919, P. L. 1075, 18 PS §2162, and charging him as the father of certain minor children born of the body of Sarah Hooven, out of lawful wedlock, with having wilfully neglected and refused to contribute reasonably to tbeir support and maintenance. At the trial the testimony was limited to two of the six children named in the indictment— Dorothy, born December 31, 1929, and Everett, born May 7, 1933, — the others being cared for in an institution. Appellant did not take the stand and there was uneontradicted evidence that he had contributed to the support of these children until November, 1935, but had neglected and refused to make any contribution toward their maintenance since that time.
+The question of law, therefore, involved upon this appeal is whether there was sufficient legally competent evidence to support the finding of the jury that the children are illegitimate and that appellant is their father. The Commonwealth was permitted to show by their mother that at the time of the birth of each child she was the wife of one James A. Hooven, by whom she has a legitimate daughter, Catharine H. Hooven, fourteen years of age at the time of the trial. The mother was also permitted to testify to criminal connection with appellant; that she had been living with him for the past eight years; and that he is the father of the above named Dorothy and Everett. As soon as it developed in the testimony that the mother was the wife of Hooven when the children were begotten, the Commonwealth was required to assume the burden of rebutting the presumption of their legitimacy by sufficient competent proof to sustain a finding beyond a reasonable doubt of non-access to their mother by her husband during the periods each must have been begotten.
+We need not here consider the competency of a wife to testify to non-access. That matter was fully considered by us in the recent case of Com. v. DiMatteo, 124 Pa. Superior Ct. 277, 188 A. 425. We there held that a married woman whose husband is living and undivorced is competent, from the necessity of the case, to testify, in support of a charge of bastardy, to the criminal connection, bnt is not competent to prove non-access by her husband. It was also held that the modern rule is that “countervailing evidence may shatter the presumption [of legitimacy] though the possibility of access is not susceptible of exclusion to the point of utter demonstration.” See, In re Findlay, 253 N. Y. 1, 170 N. E. 471.
+The trial judge followed the principles announced in the DiMatteo case throughout the trial of the case now at bar. The incidental statements volunteered by the mother to the effect that she had not seen her husband for fifteen years were stricken from the record. The jury was specifically instructed that proof of non-access “must come from a source other than......the wife.”
+The evidence of non-access upon which the Commonwealth relied in this case was the testimony of Catharine H. Hooven, the above mentioned legitimate daughter of James A. and Sarah Hooven. The substance of her testimony was that she is fourteen years of age; that she has no recollection of James A. Hooven, her father; that she has been living constantly with her mother from the time of her birth but never saw her father at their home and never saw her father and mother together anywhere; that she lived with her mother in the same house with Gantz, the appellant, for the past seven or eight years and never saw any other man in the house except Gantz; that Gantz and her mother were known as “man and wife in the neighborhood;” and that Gantz “acted as a father” to Dorothy and Everett, who called him “Daddy.”
+After clearly explaining the issue to the jury and stating the legal principles applicable thereto, the trial judge, Rosen, J., summarized the testimony of Catharine Hooven and said: “That is the testimony that you have. What weight you place upon it, what credibility you give to that witness, is for you to determine, but that testimony, taken in connection with all other admissible testimony, must be of sufficient weight to convince you beyond a reasonable doubt, as I have defined it, that there was non-accessibility of the lawful married husband and Mrs. Hooven at the time these children, Dorothy and Everett, were conceived.” We think this evidence was sufficient in quantity and quality to justify the submission of the case to the jury. Cf. Com. v. Shepherd, 6 Binney 283, where there was testimony from witnesses, other than the mother of the child there involved, to the effect her husband had not been known to have been in her company for seven years prior to its birth.
+Pursuant to the authority conferred upon him by section 4 of the Act of 1917, supra, 18 PS § 2164, the trial judge, instead of imposing a fine or imprisonment, or both, as authorized by section 1, made an order directing appellant to contribute toward the support and maintenance of each child the sum of $1.00 a week for sixteen years, adding that “this order may be increased at direction of the court when defendant’s earnings increase.”
+Order affirmed.
