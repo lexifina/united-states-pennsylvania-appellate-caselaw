@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1428 and 1429"
+decided: "1996-01-31"
+citations: ["448 Pa. Super. 162", "670 A.2d 1159"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DEL SOLE, POPOVICH and OLSZEWSKI, JJ."]
+parties: ["Ann SMATHERS, Appellant, v. John SMATHERS, Appellee. (Two Cases.)"]
+source_url: "https://static.case.law/pa-super/448/cases/0162-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 732378
+cites_cases: ["299 Pa.Super. 64", "389 Pa.Super. 430", "427 Pa.Super. 566"]
+---
+
+# Smathers v. Smathers
+
+## Majority (OLSZEWSKI, Judge:)
+
+OLSZEWSKI, Judge:
+Appellant Ann Smathers and appellee John Smathers divorced on April 26, 1989. Following entry of the final divorce decree, appellant filed a series of appeals with this Court and the Supreme Court, all of which were unsuccessful.
+In February of 1995, appellant filed a pro se petition seeking a hearing on “alimony-modification.” The Honorable Paul B. Greiner denied appellant’s requested relief on May 19, 1995.' Additionally, Judge Greiner found that appellant’s petition was obdurate and vexatious. The court therefore ordered appellant to pay appellee’s counsel fees in the amount of $425. Appellant has appealed both the denial of the hearing and the award of counsel fees.
+While the essential facts outlined above were easily uncovered, appellant’s argument on appeal is not so easy to discern. Appellant’s handwritten brief contains no statement of jurisdiction, no reference to the order in question, no statement of questions involved, and no summary of the argument, as required by the Rules of Appellate Procedure. See Pa.R.A.P. Rule 2111. Rather, this brief contains only one lengthy and unorganized section entitled “Facts and Statements” and one very brief section called “Argumént.” In the abbreviated argument section, appellant has not cited any cases or statutes, and has not developed or explained any clear argument or theory. After review, it is clear that appellant has failed to clearly identify, let alone develop, her issues for appeal.
+In finding that appellant’s brief is inadequate, we particularly highlight the lack of a statement of questions presented. As this Court noted in Commonwealth v. Maris, the omission of a statement of questions presented is “particularly grievous since the statement ... defines the specific issues this court is asked to review.” 427 Pa.Super. 566, 569, 629 A.2d 1014, 1016, 629 A.2d 1014, 1016 (1993). When the omission of the statement of questions presented is combined with the lack of any organized and developed arguments, it becomes clear that appellant’s brief is insufficient to allow us to conduct meaningful judicial review. See id.
+We are mindful of the fact that appellant is proceeding pro se in this appeal. Nevertheless, this pro se representation does not relieve appellant of her duty to properly raise and develop her appealable claims. In O’Neill v. Checker Motors Corp., we noted the following:
+While this court is willing to liberally construe materials filed by a pro se litigant, we note that appellant is not entitled to any particular advantage because she lacks legal training. As our supreme court has explained, “any layperson choosing to represent [herself] in a legal proceeding must, to some reasonable extent, assume the risk that [her] lack of expertise and legal training will prove [her] undoing.”
+389 Pa.Super. 430, 434, 567 A.2d 680, 682 (1989) (citations omitted). In this case, a liberal construction of appellant’s brief cannot remedy the inadequacies. Appellant has chosen to proceed pro se and she cannot now expect this Court to act as her attorney. See Commonwealth v. Sanford, 299 Pa.Super. 64, 67, 445 A.2d 149, 150 (1982) (“We decline to become appellant’s counsel. When issues are not properly raised and developed in briefs, when the briefs are wholly inadequate to present specific issues for review, a court will not consider the merits thereof.”).
+Since the substantial defects in appellant’s brief preclude us from conducting meaningful judicial review, we find that quashal is the appropriate disposition for this appeal. See Pa.R.A.P. Rule 2101; Maris, supra; Sanford, supra.
+Appeal quashed.
+. Since we make no inquiry into the merits of this case, and no specific finding as to whether appellant’s behavior in bringing this appeal was obdurate or vexatious, we decline to award attorney fees to appellee. See Pa.R.A.P. Rule 2744 (allowing award of attorney fees after a court determination "that an appeal is frivolous or taken solely for delay or that the conduct of the participant against whom costs are to be imposed is dilatory, obdurate or vexatious.”). Hence, appellee’s petition entitled “Request For Costs” is hereby denied.
