@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 105"
+decided: "1923-07-12"
+citations: ["81 Pa. Super. 178"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, Henderson, Trexler, Keller, Linn and Gawthrop, JJ."]
+parties: ["Bohm v. Beckdol and Welker, Appellants."]
+source_url: "https://static.case.law/pa-super/81/cases/0178-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 655663
+cites_cases: ["247 Pa. 545", "252 Pa. 14", "274 Pa. 121", "77 Pa. Superior Ct. 36"]
+---
+
+# Bohm v. Beckdol
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+This is an action of trespass to recover damages for injuries resulting from the negligent operation of an automobile.
+It appears by the evidence produced by the plaintiff that after the completion of his day’s work he rode home in a street car along a street known as South Irvine Avenue, in the City of Sharon. The plaintiff wished to leave the car at the corner of Budd Avenue; when the car reached that point it came to a stop, the motorman opened the door of the car for passengers to alight and the plaintiff was the first person to alight from the front door of the car; he took one or two steps toward the curb, when he was struck by an automobile, (owned by defendants and operated by their employee) moving at a rapid rate in the same direction in which the street car had been moving, and which continued to run for a distance of thirty-five feet until it struck the curb on the opposite side of Budd Avenue. The plaintiff was severely injured and brought this action to recover damages. If the evidence produced by plaintiff was believed the automobile of the defendants was being rapidly driven past a standing street car on the side from which passengers were then being discharged and before the passengers who had alighted had an opportunity to reach the side of the highway, which was a flagrant violation of the Act of June 30, 1919, section 25, P. L. 694, regulating the use and operation of motor vehicles. The plaintiff did not look to see whether any automobile was being driven past the car, in violation of the statute, when he descended from the street car and immediately started for the side of the highway. The appellants contended that the failure of the plaintiff to look for approaching automobiles was such negligence as must prevent his recovery in this case, and submitted a point requesting binding instructions, which the court refused, and that ruling is here assigned for error. The plaintiff was where he had a right to be, the automobile of defendants was being operated where it had no legal right to move, and in violation of the express provision of a statute of the Commonwealth. The plaintiff had a right to assume that the defendants would obey the command of the statute, and not pass the street car “until the car has started and until any passengers who may have alighted shall have reached the side of the highway.” The finding of the jury establishes the fact that the car had stopped when the plaintiff descended from it and, therefore, he did not place himself in a position to be struck by the automobile except by the negligent act of the defendants’ employee in passing the car while it was at rest. The failure to look for the approaching automobile or to anticipate that the defendants’ machine would attempt to pass in violation of the statute was not sufficient, under the facts of the case, to charge the plaintiff, as matter of law, with negligence. The court did not err in holding that if the machine of the defendants was driven past the standing street car, in a manner expressly prohibited by the statute, the unlawful act was such negligence as to render the defendants liable for the natural and proximate consequences thereof. The case was for the jury: Frankel v. Norris, 252 Pa. 14; Hanley v. Bakey, 77 Pa. Superior Ct. 36. The charge of the court below, considered as a whole, submitted the questions of the negligence of the defendants and the contributory negligence, if any, of the plaintiff in a manner of which the appellants have no just ground for complaint.
+The plaintiff in his statement of claim had averred that the injuries which he received in the accident had “confined him to his bed for a long time”; that he had been rendered unable to lift or perform manual labor which required him to lift; that he had been compelled to expend large sums of money for hospital, nursing and doctor bills; and that his earning capacity had been greatly reduced. The court did not err in permitting the plaintiff to introduce evidence tending to establish all these averments. It was entirely proper to receive evidence as to how long t'he plaintiff had been confined to his bed; for what period of time he had been unable to work; his earning capacity previous to and at the time of the accident and his decreased earning power because of the accident. The evidence which was admitted under the exception upon which the fifth assignment of error is based, was competent and relevant to show during what period of time the plaintiff had been unable to earn money by his labor. All the assignments of error are overruled.
+The judgment is affirmed.
