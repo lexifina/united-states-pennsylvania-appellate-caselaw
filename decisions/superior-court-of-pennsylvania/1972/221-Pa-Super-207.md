@@ -1,0 +1,44 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 1203"
+decided: "1972-03-30"
+citations: ["221 Pa. Super. 207"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. J., Watkins, Montgomery, Jacobs, Hoffman, Spaulding, and Cercone, JJ.", "Jacobs and Spaulding, JJ., join in this dissenting opinion."]
+parties: ["Commonwealth v. Wideman, Appellant."]
+source_url: "https://static.case.law/pa-super/221/cases/0207-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 800033
+cites_cases: ["176 A. 2d 641", "211 Pa. Superior Ct. 171", "212 Pa. Superior Ct. 314", "216 Pa. Superior Ct. 23", "235 A. 2d 171", "242 A. 2d 901", "260 A. 2d 818", "270 A. 2d 207", "406 Pa. 45", "441 Pa. 64"]
+---
+
+# Commonwealth v. Wideman
+
+## Majority (Per Curiam,)
+
+Opinion
+Per Curiam,
+Order affirmed.
+
+## Dissent (Hoffman, J.:)
+
+Dissenting Opinion by
+Hoffman, J.:
+In this appeal from the denial of his Post Conviction Hearing Act petition appellant contends that his 1964 conviction should be vacated because his counsel was subject to a conflict of interest.
+At the commencement of appellant’s 1966 trial his court-appointed attorney stated to the court as follows: “I would further move to sever the case of James Wide-man from the other cases for several reasons: I believe justice will be done if this case is tried separately; secondly, as I notified the District Attorney’s office and also said in a letter to Mr. Blake (the Court Administrator) I am obliged to be out of the state Thursday evening, and I shall remain out of the state until the third week of December.” The Court denied this motion.
+In the third day of trial appellant’s attorney was forced to withdraw from the case due to the commitment previously brought to the court’s attention. At that point, A. Charles Peruto, Esquire, who represented a co-defendant, Louis DeMarco, agreed to take over the representation of both appellant and DeMarco for the balance of the trial. The appellant was called to the bar of the court and the following colloquy took place:
+“The Court: . . . Mr. Wideman, I don’t know whether you knew this at the start of the case, but I did, that Mr. Czap would not be able to be in court after noon today. Did he ever tell you that? Defendant Wideman: Yes, sir. The Court: You understood that? Defendant Wideman : Yes, sir. The Court : He told me that Mr. Peruto, who represents Mr. DeMarco, has agreed to represent you in this case. Defendant Wide-man: Yes, sir. The Court: And Mr. Czap will now withdraw and Mr. Peruto will be your counsel, do you understand that? Defendant Wideman : Yes, sir. The Court: Do you have any objection? Defendant Wide-man : No, sir. The Court : Do you want Mr. Peruto to represent you? Defendant Wideman: Yes, sir. The Court : You are willing and you feel you couldn’t find any reason to object to change counsel at this time? Defendant Wideman: No, sir. The Court: I think that covers it.”
+There is no indication on the record, however, that appellant was ever told of the perils of one counsel representing two co-defendants and that the defense of one co-defendant may be compromised to protect the interests of the other. Indeed, the uncontradicted testimony of the appellant at the post conviction hearing was that “I took Mr. Peruto for my attorney because I knew that he was a good lawyer and that I wouldn’t have an attorney, I’d be left stranded. And the Judge, he refused to give me a severance. So, I just agreed to Mr. Peruto as my lawyer.”
+Following Mr. Czap’s withdrawal, a conflict of interest as between the representation of DeMarco and appellant arose. The defense theory of the case was that the four co-defendants had been incorrectly identified as having participated in the robbery. Various witnesses identified DeMarco; other witnesses identified appellant.
+In trying to show the good character of DeMarco, whose prior criminal record had previously been established, Mr. Peruto called DeMarco to the stand and established that DeMarco had consistently plead guilty to the prior charges and did not assert his innocence. Implicit in this approach was the suggestion to the jury that DeMarco freely acknowledged his guilt on prior occasions and that accordingly, when he contested his guilt and asserted his innocence in the instant case that should be given weight by the jury.
+Mr. Peruto’s strategy is apparent from his direct examination of DeMarco:
+“Q. Now, on one occasion you even testified against Mr. Wideman, didn’t you? A. Yes, I did. Q. On another robbery, is that correct? A. Yes. Q. And Mr. Wideman at that time was pleading not guilty and you did perform the robbery that was in question, did you not? A. Yes, I did. Q. With Mr. Wideman, didn’t you? A. With Mr. Wideman. Q. And you testified against Mr. Wideman? A. I testified against Mr. Wideman, yes, I did. Q. As a matter of fact, up until this particular charge that you are serving time on, for years you only got a term of a few months for major felonies because you pleaded guilty and you tesified against your confederates, isn’t that so? A. I believe so.”
+The clear inference from this examination is that Mr. Peruto was demonstrating to the jury that DeMarco was an honest witness, and that he had even testified in the past against Wideman. The negative pregnant at this colloquy was that Mr. Wideman, by asserting his innocence, was in effect lying in the prior case.
+Further, this testimony revealed to the jury, prior to appellant talcing the stand, that he had committed another robbery. This information was severely damaging to appellant. In Commonwealth v. Allen, 212 Pa. Superior Ct. 314, 242 A. 2d 901 (1968), this Court quoted from Commonwealth v. Trowery, 211 Pa. Superior Ct. 171, 235 A. 2d 171 (1967), to the effect that “[i]t is almost too axiomatic to repeat the well-established common law rule that, in a criminal prosecution, proof which shows or tends to show that the accused is guilty of the commission of other crimes and offenses at other times is incompetent and inadmissible for the purpose of showing the commission of the particular crime charged.” Moreover, the Allen Court also noted that when such evidence is introduced, the effect is so prejudicial to the defendant that reversible error on this basis alone is committed.
+Appellant in the instant case, therefore, was severely prejudiced and harmed by the strategy of his defense counsel, who weakened appellant’s standing before the jury in hopes of bolstering the position of his other court appointed client, DeMarco. This is impermissible under the line of cases descending from Commonwealth ex rel. Whitling v. Russell, 406 Pa. 45, 176 A. 2d 641 (1962). In Whitling our Supreme Court stated that “[i]f, in the representation of more than one defendant a conflict of interest arises, the mere existence of such a conflict vitiates the proceedings, even though no actual harm results. The potentiality that such harm may result, rather than that such harm did result, furnishes the appropriate criterion. . . . ' . . . the rule is not intended to be remedial of actual wrong, but preventive of the possibility of it.’ As well expressed by appellant [in language clearly appropriate to the instant case] at the hearing in the court below: ‘I don’t see how my attorney expected to paint me white and paint Ralph black and get a Not Guilty verdict for us both’.” 406 Pa. at 48. The Court then continued “The very purpose of the rule which prohibits an attorney from representing conflicting interests is to preclude such an attorney from putting himself in a position where he may be required to choose between conflicting duties or to be led to an attempt to reconcile conflicting interests rather than to enforce, to their full extent, the rights of the party whom he should alone represent.” 406 Pa. at 49.
+In cases following Whitling our courts have held that whenever counsel finds himself in the position of sacrificing one client for the sake of another, a clear conflict arises which vitiates the proceedings. See Commonwealth v. Cullen, 216 Pa. Superior Ct. 23, 260 A. 2d 818 (1969); and Commonwealth v. Cox, 441 Pa. 64, 270 A. 2d 207 (1970).
+This is precisely what happened in the instant case. Accordingly I would vacate the judgment of sentence and order a new trial.
+Jacobs and Spaulding, JJ., join in this dissenting opinion.
+Appellant also contends that he was subjected to double jeopardy and denied his right to a speedy trial. These issues need not be considered since relief in my opinion can be granted on the basis that appellant’s trial attorney labored under a conflict of interest. Were appellant’s conviction to be vacated on this latter ground, appellant could raise anew his constitutional claims of double jeopardy and speedy trial in the lower court.
