@@ -1,0 +1,32 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 498 C.D. 1974"
+decided: "1974-10-21"
+citations: ["15 Pa. Commw. 355"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Mencer, Rogers and Blatt."]
+parties: ["James F. McCort and Muriel O. McCort, Appellants, v. Pennsylvania Public Utility Commission, Appellee, and Philadelphia Electric Company, Intervening Appellee."]
+source_url: "https://static.case.law/pa-commw/15/cases/0355-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1861614
+cites_cases: ["184 A. 2d 414", "199 Pa. Superior Ct. 3", "2 Pa. Commonwealth Ct. 319", "278 A. 2d 186", "284 A. 2d 808", "286 A. 2d 495", "288 A. 2d 837", "291 A. 2d 538", "3 Pa. Commonwealth Ct. 546", "4 Pa. Commonwealth Ct. 310", "4 Pa. Commonwealth Ct. 585", "5 Pa. Commonwealth Ct. 476"]
+---
+
+# McCort v. Pennsylvania Public Utility Commission
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+James E. McCort and Muriel O. McCort (appellants) filed complaints with the Pennsylvania Public Utility Commission (Commission) against the Philadelphia Electric Company (Philadelphia Electric), alleging that appellants had been overcharged for a period of years by Philadelphia Electric’s utilization of defective meters. Also, the complaints alleged that Philadelphia Electric “is talcing a major portion of the unpaid ghetto electric billings and supplying them to suburban areas where the minimal increase in cost would not be noticed.”
+The Commission held a hearing on March 20, 1973, and thereafter issued an order, entered March 21, 1974, dismissing the complaints. On April 17, 1974, appellants filed a notice of appeal from that order. On April 19, 1974, appellants filed a document with this Court entitled “Citation of Errors.” The document consisted of 32 paragraphs objecting to the sufficiency, competency, or completeness of the evidence offered by Philadelphia Electric in response to appellants’ complaints. The document concluded with the prayer that the Commonwealth Court “order and direct respondent to a trial before a judge or judges of the Commonwealth Court and be further directed to produce [at trial] all documents now in possession of respondents and refused under subpoena.”
+Philadelphia Electric filed a petition for leave to intervene as party appellee and this petition was granted on May 13, 1974. Both the Commission and Philadelphia Electric filed motions to quash this appeal. These motions are based upon the asserted failure of the appellants to file in this Court the petition, setting forth specifically and concisely the error or errors assigned to the order of the Commission, required by Section 1101(b) of the Pennsylvania Public Utility Law, Act of May 28, 1937, P. L. 1053, as amended, 66 P.S. §1431 (b). As an additional reason for the motions to quash the appeal, it is asserted that the appellants’ purported petition of appeal, captioned “Citation of Errors” seeks to obtain a de novo hearing before this Court and does not seek relief from the order of the Commission.
+In Pittsburgh v. Public Utility Commission, 3 Pa. Commonwealth Ct. 546, 284 A. 2d 808 (1971), we held that article XI of the Public Utility Law continues to enunciate the required procedure for appeals from the Commission to this Court and that neither the Appellate Court Jurisdiction Act of 1970, Act of July 31, 1970, P. L. 673, 17 P.S. §211.101 et seq., nor the rules of this Court have effected a change of the law in this regard. We adhered to this holding in Upper Merion Township v. Public Utility Commission, 5 Pa. Commonwealth Ct. 476, 291 A. 2d 538 (1972), find Basalyga v. Public Utility Commission, 4 Pa. Commonwealth Ct. 310, 286 A. 2d 495 (1972).
+Our examination of appellants7 “Citation of Errors77 convinces us that it is ineffective and is not in compliance with the statutory requirements of Section 1101(b) of the Pennsylvania Public Utility Law which provides: ‘ “(b) All appeals shall be by petition, setting forth specifically and concisely the error or errors assigned to the order of the commission, which petition shall be accompanied by a copy of the order appealed from, and shall also be accompanied by affidavit of the appellant, or of the agent or attorney of such appellant, that the appeal is not taken for the purpose of delay, but because the appellant verily believes that injustice has been done. Each error relied on must be specified particularly and set forth in a separate numbered paragraph of the petition.77
+Specifications must be self-sustaining and state wherein the Commission was in error or its order unlawful. The right of appeal in public utility proceedings is statutory. The conditions under which this right may be exercised are to be found in the provisions of the statute providing for such appeals and the prescribed procedure must be strictly pursued. George Hyam Associates, Inc. v. Pennsylvania Public Utility Commission, 199 Pa. Superior Ct. 3, 184 A. 2d 414 (1962).
+There is also merit in the additional reason advanced in support of the motions to quash this appeal. This Court is not empowered to receive evidence and hold a de novo hearing as requested by the appellants. Section 1106 of the Public Utility Law, 66 P.S. §1436, provides in part that “[n]o evidence shall be received at the hearing on any appeal. ...” Our scope of review is delineated by the Public Utility Law which provides, in Section 1107, 66 P.S. §1437, that the order of the Commission shall not be vacated or set aside on appeal except for error of law or lack of evidence to support it. Tranter v. Public Utility Commission, 4 Pa. Commonwealth Ct. 585, 288 A. 2d 837 (1972). We may not conceive an independent judgment and substitute it for the judgment of the Commission and we may not indulge in processes of weighing evidence and resolving conflicting testimony. McNaughton Bros., Inc. v. Pennsylvania Public Utility Commission, 2 Pa. Commonwealth Ct. 319, 278 A. 2d 186 (1971).
+Accordingly, for these reasons, we make the following
+Order
+And Now, this 21st day of October, 1974, the motions of the Pennsylvania Public Utiilty Commission and the Philadelphia Electric Company to quash the appeal of James P. McCort and Muriel O. McCort from the Commission’s order dated March 21, 1974, are hereby granted and the said appeal is hereby quashed.
