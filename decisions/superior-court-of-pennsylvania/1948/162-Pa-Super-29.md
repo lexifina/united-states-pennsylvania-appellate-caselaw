@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 85 and 104"
+decided: "1948-01-08"
+citations: ["162 Pa. Super. 29"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Dithrich, Ross, Arnold and Fine, JJ. (Reno, J., absent)."]
+parties: ["Commonwealth ex rel. DiPasquale, Appellant, v. DiPasquale, Appellant."]
+source_url: "https://static.case.law/pa-super/162/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 462928
+cites_cases: ["111 Pa. Superior Ct. 202", "127 Pa. Superior Ct. 360", "148 A. 524", "169 A. 470", "193 A. 380", "290 U. S. 202", "298 Pa. 416"]
+---
+
+# Commonwealth ex rel. DiPasquale v. DiPasquale
+
+## Majority (Dithrich, J.,)
+
+Opinion by
+Dithrich, J.,
+The principal question raised on these cross-appeals is whether or not the Court of Quarter Sessions of Erie County had jurisdiction to order a father, who is a resident of the State of New York, to support his children who are domiciled in this State with their mother. The father is resisting the order on the ground that he has been awarded the custody of the children by a court of competent jurisdiction in Chautauqua County, New York.
+The factual situation is somewhat involved. On June 3, 1946, Sarah DiPasquale instituted proceedings in the Supreme Court for Chautauqua County, New York, where the parties had resided for fifteen years, seeking a decree of separation from Anthony DiPasquale, and separate maintenance for herself and also the custody of, and support for, their two children. While the proceeding was pending, she left the domicile of her husband in New York because of his ill-treatment and abuse and returned to her former residence in Erie, Pennsylvania. About a month later, with the consent of their father, the two daughters joined their mother and have since resided with her.
+On November 18, 1946, she made an information before an alderman charging her husband with nonsupport of herself and the children. A warrant was issued for his arrest; he was taken into custody and subsequently released on bond conditioned for his appearance in the Court of Quarter Sessions. In the meantime, Sarah DiPasquale attempted to discontinue the action for separation brought by her in New York State, but she was informed by letter from the clerk of the court that an order for discontinuance was not the proper practice in that court.
+Anthony DiPasquale then filed a counterclaim for separation in Chautauqua County, New York, and took judgment by default without notice to his wife, and thereby secured an order in accordance with the prayer of his countersuit, separating him from the bed and board of his wife and awarding him custody of the children. He then moved to quash the desertion and nonsupport action instituted in Pennsylvania on the ground that the rights of the parties had been adjudicated in the State of New York and that the matter was therefore res adjudicata. The motion was refused. After the taking of testimony the court made an order for the support of the children, which was subsequently revoked and vacated with the consent of the parties, pending an unsuccessful endeavor on the part of Sarah DiPasquale to have the decree entered against her in the State of New York vacated. Eventually, on September 17,1947, the final order from which these appeals were taken was entered, the appeal of the wife being based on the denial of her claim for separate maintenance and support.
+During all the time the children have been living with their mother in Pennsylvania, the father has contributed nothing toward their support, nor has he evidenced any intention of asserting his right to their custody awarded him by the State of New York. As succinctly stated by the court below he “neither seeks custody nor supports his children.” He could have instituted proceedings in Pennsylvania to regain their custody had he so desired, Com. ex rel. v. Daven, 298 Pa. 416, 148 A. 524; but he elected to stand on the order which he had obtained in the State of New York, contending that since he had been awarded the custody of the children in the state where he resided, he could not be required to support the children by order of any court outside the State of New York. But all that was re-, quired to give the court below jurisdiction under section 733 of the Act of June 24, 1939, P. L. 872, 18 PS 4733, was the physical presence of the defendant within the limits of this Commonwealth. Com. v. Husinka, 127 Pa. Superior Ct. 360, 193 A. 380; Com. ex rel. Sanders v. Sanders, 111 Pa. Superior Ct. 202, 169 A. 470.
+Yarborough v. Yarborough, 290 U. S. 202, relied on by DiPasquale, is clearly distinguishable on the facts. There, a decrée of a state court fixing the obligation of a divorced father for the support and education of his minor daughter was held binding, under the full faith and credit clause of the Constitution, on the courts of another state to which the daughter and divorced mother had removed and in which it was sought to force additional contributions from the father, but solely on the ground that the obligation of the father was for the payment of permanent alimony which had been fixed by the state where the decree had been entered.
+But here, no order was made by the State of New York for the support of the minor children. Having been awarded the custody of the children the father would, , of- course, be required to support ■ them, under the law of the State of New York; but there was no' order fixing the amount of support as in the Yarborough case. The judgment relied on by the father as res adjudicata insofar as the children are concerned is merely an award of custody and, while it has generally been held that a judgment as to the custody of children is entitled to full faith and credit in all other states, the judgment is not conclusive if the conditions and circumstances existing at the time of the rendition of the judgment. have changed. 50 C. J. S. 487, Judgments, section 889 (h) (5); Com. ex rel. v. Daven, supra.
+As to the claim of the wife, the judgment entered against her on the separation proceeding instituted by her in the State of New York is final and binding on the courts of this State.
+Order affirmed.
