@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 405"
+decided: "1936-11-19"
+citations: ["124 Pa. Super. 115"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Stadteeld, Parker, James and Rhodes, JJ."]
+parties: ["Collins v. Horn, Appellant."]
+source_url: "https://static.case.law/pa-super/124/cases/0115-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 994015
+cites_cases: ["126 A. 791", "171 A. 457", "281 Pa. 320", "314 Pa. 558", "85 Pa. Superior Ct. 427"]
+---
+
+# Collins v. Horn
+
+## Majority (Parker, J.,)
+
+Opinion by
+Parker, J.,
+This is an action in assumpsit, brought by the payee against the maker of. a promissory note. The obligation was dated May 13,. 1935 and contained the promise of the defendant to pay the plaintiff the sum of $150 at $25 per month, beginning on that date. It also contained the following writing: “The consideration of the above, promise is a certain card issued to me this day, entitling mé, as described thereon, to two treatments per week during regular business hours for a period of one year from the date hereof at Collins Health Club, and my failure to call and receive the same does not reduce the above obligation of payment.” The statement of claim recited the obligation and averred that the defendant refused to pay after maturity and that during all that time plaintiff “has maintained his establishment and prepared. to give treatments to defendant, and has requested defendant to call for the same.” Plaintiff acknowledged the receipt of $10 to apply thereon, paid on the day the note was given. The defendant in his affidavit of defense did not deny the execution and delivery of the note, but averred that he thought he was signing an application to become a member of the “Collins Health Club” which would entitle him to treatment at a reduced rate. He further averred: “Defendant signed what he thought was such an application, and delivered the same to plaintiff on condition that it would not' be binding unless defendant were to be accorded by his employer the opportunity of taking off from business, the time required for such treatments. The defendant was not able to get off the required time and immediately did so notify the plaintiff and demand back the application and the Six dollars change from the trial treatment. At no time did defendant unconditionally deliver the note as per copy thereof set forth.” ’
+The defense cannot prevail in the face of the specific terms of the writing. The defendant was to receive two treatments a week during reghlar business hoiirs for the period of one year, but he did not avail himself of the privilege. He specifically agreed that his failure to call and receive the treatments should not reduce the obligation to pay. “Evidence of a parol agreement is not admissible to alter or vary tbe terms of a written instrument, complete in itself, except where omitted through fraud, accident or mistake”: Gill’s Est., 314 Pa. 558, 560, 171 A. 457.
+This case is ruled by Gianni v. Russell & Co., 281 Pa. 320, 324, 126 A. 791, where it was said: “In cases of this kind, where the cause of action rests entirely on an alleged oral understanding concerning a subject which is dealt with in a written contract, it is presumed that the writing was intended to set forth the entire agreement as to that particular subject. ‘In deciding upon this intent [as to whether a certain subject was intended to be embodied by the writing], the chief and most satisfactory index......is found in the circumstances whether or not the particular element of the alleged extrinsic negotiation is dealt with at all in the writing. If it is mentioned, covered, or dealt with in the writing, then presumably the writing was meant to represent all of the transaction on that element; if it is not, then probably the writing was not intended to embody that element of the negotiation’: Wigmore on Evidence (2d ed.) vol. 5, page 309.”
+Not only was the subject dealt with in the writing here sued upon, but the alleged oral agreement is directly opposed to the writing.
+The appellant in his brief relied solely upon the case of Central Trust & Savings Co. v. Klebanoff, 85 Pa. Superior Ct. 427 and the principle there applied. That case is easily distinguished from the situation with which we are here dealing. There the nóte, a negotiable instrument, was a plain promise to pay and there were no other statements in it. It was averred by defendant that when the note was handed by him to an officer of the plaintiff corporation it was not dated and the blank intended for the amount was not filled in. It was also asserted by defendant that the note was not to be dated, the amount filled in or to be effective unless the other creditors of defendant agreed to a composition and that the composition could not be accomplished. It was held that in view of section 14 of the Negotiable Instruments Act, dealing with notes executed in blank, the affidavit of defense set up a good defense, sufficient to carry the case to a jury, where full inquiry as to the facts averred could be had. Here, in so far as the pleadings disclose, the note was complete when delivered, and, as we have pointed out, the writing covered the very subject relied upon. No reason has been suggested why the parties could not contract with reference to the subject matter now in controversy. They did so contract and evidence is not admissible to alter or vary the writing.
+Judgment affirmed.
