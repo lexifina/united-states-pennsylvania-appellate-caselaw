@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "437"
+decided: "1984-05-18"
+citations: ["327 Pa. Super. 461", "476 A.2d 44"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WIEAND, TAMILIA and POPOVICH, JJ."]
+parties: ["Cheryl F. SANDERBECK v. Richard H. SANDERBECK, Appellant."]
+source_url: "https://static.case.law/pa-super/327/cases/0461-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 604404
+cites_cases: ["219 Pa. 24", "285 Pa.Super. 542", "289 Pa.Super. 137", "29 A.2d 533", "291 Pa.Super. 222", "304 Pa.Super. 571", "308 Pa.Super. 131", "312 Pa.Super. 391", "326 Pa.Super. 496", "337 U.S. 541", "346 Pa. 90", "472 Pa. 331", "483 Pa. 68", "484 Pa. 24", "487 Pa. 274", "67 A. 949", "93 L.Ed. 1528"]
+---
+
+# Sanderbeck v. Sanderbeck
+
+## Majority (WIEAND, Judge:)
+
+WIEAND, Judge:
+Before we can reach the merits of this appeal, we must determine whether an order denying a request for blood tests in a support action is an appealable order.
+Richard Sanderbeck, appellant, and Cheryl Sanderbeck, appellee, are the parents of two children who were born respectively on November 5, 1973 and August 7, 1978. By court order entered in Westmoreland County on June 7, 1979, appellant was directed to pay the sum of $200.00 per month for the support of his children. The parties were divorced by decree entered in Allegheny County on February 4, 1981. Thereafter, appellant filed in Westmoreland County a petition to terminate the order for the support of the two children. He also filed a petition requesting the court to order blood tests. He alleged that he had acquired information that he was not the biological father of the children and requested an order of court requiring blood testing of himself and the children which, he said, would determine the issue of paternity. The court, believing that appellant was collaterally estopped from denying paternity, refused to order blood tests. This appeal followed. The petition to terminate the support order, however, has not been decided.
+Unless otherwise permitted by statute or rule of court, this Court has jurisdiction to hear appeals from final orders only. State Farm Mutual Automobile Insurance Co. v. Morris, 289 Pa.Super. 137, 140, 432 A.2d 1089, 1091 (1981). An order is final if it terminates litigation or disposes of the entire case. Adoption of G.M., 484 Pa. 24, 27, 398 A.2d 642, 644 (1979); T.C.R. Realty, Inc. v. Cox, 472 Pa. 331, 337, 372 A.2d 721, 724 (1977). An order is interlocutory and not final if it does not effectively put a litigant “out of court.” Alessandro v. State Farm Mutual Automobile Insurance Co., 487 Pa. 274, 281, 409 A.2d 347, 351 (1979); T.C.R. Realty, Inc. v. Cox, supra, 472 Pa. at 337, 372 A.2d at 724; DeWald v. Pauline, 312 Pa.Super. 391, 393, 458 A.2d 1016, 1016 (1983); Foulke v. Lavelle, 308 Pa.Super. 131, 135, 454 A.2d 56, 58 (1982). The rule is sound. Piecemeal appellate review of litigation in the trial courts is both costly and inefficient. If we were to allow appeals from interlocutory orders, legal actions would become mired in endless journeys up and down the judicial ladder, and final determinations would be needlessly delayed.
+There is an exception to this rule which is applicable to collateral orders when the right involved is too important to be denied review and the question presented is such that if review were postponed until final judgment in the case, the claimed right would be irreparably lost. See: Pugar v. Greco, 483 Pa. 68, 73, 394 A.2d 542, 544-545 (1978) citing Cohen v. Beneficial Industrial Loan Corp., 337 U.S. 541, 546, 69 S.Ct. 1221, 1226, 93 L.Ed. 1528, 1536 (1949); Sutliff v. Sutliff, 326 Pa.Super. 496, 499, 474 A.2d 599, 600 (1984).
+In the present cafee, appellant’s petition to terminate the support order has not been decided; he has not been put “out of court.” The order denying a request for blood tests as an aid to determining paternity is clearly interlocutory. The denial of appellant’s asserted right to blood tests can as readily be reviewed, if necessary, after a final order has been entered. The present appeal, therefore, is premature.
+This determination is supported by the decided cases. In Givens v. Givens, 304 Pa.Super. 571, 450 A.2d 1386 (1982), this Court held an order unappealable which denied a motion for the appointment of a guardian ad litem for a minor child in a support action. In State Farm Mutual Automobile Insurance Co. v. Morris, supra 289 Pa.Super. at 140, 432 A.2d at 1091, we observed that “[a]s a general rule, orders requiring a party to submit to mental or physical examinations under Pa.R.C.P. No. 4010 are interlocutory and not appealable, because they do not preclude the party from further action.” In Hall v. Lee, 285 Pa.Super. 542, 428 A.2d 178 (1981), we held unappealable an order denying a pre-trial motion for sanctions and counsel fees in a discovery dispute. Finally, in In re McGovern, 291 Pa.Super. 222, 435 A.2d 878 (1981), we refused to allow an appeal from an order denying pre-trial discovery of a juvenile’s records for the purpose of assisting in preparation for trial. See also: Young v. Bradford County Telephone Co., 346 Pa. 90, 29 A.2d 533 (1943) (order allowing pre-trial inspection of books and records); Quinn v. Pennsylvania Railroad Co., 219 Pa. 24, 67 A. 949 (1907) (order directing production of documents).
+For these reasons, the present appeal must be quashed. If the trial court subsequently enters an order denying appellant’s petition to terminate the support order, an appeal from that final determination will bring the entire proceeding, or so much thereof as appellant wishes to challenge, before this Court for review. Until a final order is entered, however, this Court will not review the interlocutory orders of the trial court.
+Appeal quashed.
+. Although neither party has raised this issue, it is jurisdictional in nature and requires that we address it sua sponte. DeWald v. Pauline, 312 Pa.Super. 391, 458 A.2d 1016 (1983).
+. In Morris, the order in question was held appealable on independent grounds unrelated to the present inquiry.
