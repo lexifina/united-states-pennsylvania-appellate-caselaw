@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 40"
+decided: "1905-04-17"
+citations: ["27 Pa. Super. 648"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beavee, Oelady, Smith, Poetee, Mobbison and Hendebson, JJ."]
+parties: ["Commonwealth v. Rothermel, Appellant."]
+source_url: "https://static.case.law/pa-super/27/cases/0648-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 856438
+cites_cases: ["109 Pa. 109", "114 Pa. 265", "118 Pa. 165", "124 Pa. 219", "130 Pa. 32", "135 Pa. 389", "138 Pa. 642", "162 Pa. 55", "182 Pa. 581", "19 Pa. Superior Ct. 283", "195 Pa. 234", "195 Pa. 504", "198 Pa. 270", "20 Pa. Superior Ct. 110", "209 Pa. 589", "25 Pa. 126", "33 Pa. 511", "34 Pa. 398", "4 Pa. Superior Ct. 356", "4 Pa. Superior Ct. 362", "5 Pa. Superior Ct.. 29", "63 Pa. 465", "7 Pa. Superior Ct. 274", "77 Pa. 429", "77 Pa. 77"]
+---
+
+# Commonwealth v. Rothermel
+
+## Majority (Smith, J.,)
+
+Opinion by
+Smith, J.,
+Section 17 of the Act of June 3, 1878, P. L. 160, provides that “ There shall be no hunting or shooting or fishing on the first day of th'e week, called Sunday, and any person offending ■against the provisions of this section shall be liable to a penalty of twenty-five dollars.”
+The defendant, having been convicted of fishing on Sunday, contends that this act is unconstitutional (1), in containing two subjects, game and game fish; (2) in that the subject of the 17th section is not clearly expressed in the title; and also that this section is repealed by section 48 of the Act of May 29, 1901, P. L. 302.
+The title of the act of 1878 is “ An act to amend and consolidate the several acts relating to game and game fish.” As to the subject of the act, there has been from the beginning, in our acts of assembly relating to hunting and fishing, such an association of bird, beast and fish as subjects of regulation in common, with respect to time and manner of taking, and penalties for unlawful taking, that they are to be regarded as forming collectively a single subject for statutory regulation, within the purview of the constitution; a subject embracing those creatures, feree naturse, of the earth, the air and the waters, which are used by man as food. While this subject includes several divisions, a statute dealing with more than one of them is not for that reason unconstitutional. Neither is it a valid objection to the act of 1878 that the penalties which it imposes are not expressed in the title. The subject of the act, as set forth in its title, is the amendment and consolidation of pre-existing acts relating to game and game fish. Therefore anything germane to any of these acts, and which might properly have been embraced in any of them, under its title, may be included under the title of the amending act. The acts thus amended and consolidated aimed at regulating the taking of wild animals, birds and fish by restrictions on the time and method of taking. Since regulation is made effective only through penalties, a title expressing a purpose to regulate implies such penalties: Com. v. Sellers, 130 Pa. 32; Com. v. Silverman, 138 Pa. 642; Com. v. Jones, 4 Pa. Superior Ct. 362. There is, in principle, no distinction between a prohibition of hunting or fishing on a specified day and during a specified period; and it is for the legislature to fix the times and seasons in which these acts shall be permitted or forbidden. In the case before us, section 17 is not only germane to the acts which are amended and consolidated, but is in terms a re-enactment of section 16 of the act of May 5, 1876 P. L. 104, which is itself an act amending and consolidating the preceding acts in relation to game and fish.
+There is no substantial ground for regarding section 17 of the act of 1878 as repealed by section 48 of the act of 1901. The subject of the latter act, as expressed in its title, is the encouragement and regulation of the propagation of fish, by restricting methods of fishing, and establishing closed seasons for the different species. Section 48 provides that “ The following acts and parts of acts of assembly are intended to be supplied by this act, and the same are hereby repealed: (1) An act to amend and consolidate the several acts relating to game and game fish, approved the third day of June, Anno Domini one thousand eight hundred and seventy-eight; each and all ;thé several sections théreof in so far as they relate to fish.” ■The obvious construction of this is that it repeals those sections qf the act of 1878 relating to fish only so far as they are supplied by the act of 1901; such being the declared intention .of the repealing clause. The latter act supplies every provision óf the former relating to the subject of the latter — that is to say, the propagation and protection of fish. But it supplies neither the prohibition or the penalty of fishing on Sunday, and there is no apparent intention in either the title or the body of the act to repeal any prohibition or penalty not therein supplied. Section 17 of the act of 1878, applies alike to hunting, shooting and fishing. To remove the prohibition as to one, by an implied repeal, while it remains as to the others, is a mutilation of its provision for the prevention of all which cannot be regarded as within the legislative intent.
+Judgment affirmed.
