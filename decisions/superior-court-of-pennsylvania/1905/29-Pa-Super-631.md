@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 121"
+decided: "1905-12-11"
+citations: ["29 Pa. Super. 631"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, Porter, Morrison and Henderson, JJ."]
+parties: ["Pickup, Appellant, v. Philadelphia & Reading Railway Company."]
+source_url: "https://static.case.law/pa-super/29/cases/0631-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 860207
+cites_cases: ["100 Pa. 182", "14 W. N. C. 545", "169 Pa. 333", "197 Pa. 80", "2 Phillips, 469", "2 W, & S. 548", "29 Legal Int. 85", "47 Pa. 314", "5 W. N. C. 185", "54 Pa. 103", "56 Pa. 325", "58 Pa. 249", "8 W. & S. 334"]
+---
+
+# Pickup v. Philadelphia & Reading Railway Co.
+
+## Majority (Hendebson, J.,)
+
+Opinion by
+Hendebson, J.,
+The plaintiffs represent the owners of a lot at the corner of Crescent and Grape streets, in the city of Philadelphia. The defendant’s tracks are located on Crescent street in front of the plaintiffs’ property, and it is about to erect a safety gate and watch box upon and near the sidewalk in front of this property. To prevent this an injunction is sought. The defendant succeeded to the title and rights of the Philadelphia, Germantown and Norristown Railway Company, which was duly authorized by its charter and supplements to survey, mark and fix such route as the president and directors of the company should deem expedient for a railroad, not exceeding four rods wide, from the borough of Norristown to the city of Philadelphia; and also to make, erect and establish a double-track railroad on the route so laid out, and to erect, make and establish all such works, and devices on such railroad which might by said company be deemed expedient for the purpose of carrying into effect the object of its incorporation. This charter was approved February 17, 1881, and the tracks were laid pursuant to the authority thereby conferred. The city of Philadelphia adopted an ordinance requiring the defendant from October 21, 1902, to erect safety gates at Grape street on the line of the Philadelphia, Germantown and Norristown branch. It was in compliance with the direction of this ordinance that the erection of the structure was undertaken of which the plaintiffs complain. The safety gate adopted for this crossing is of an improved design, requiring the use of pneumatic machinery, and its construction involves the necessity for a watch box which in the present case is five feet wide, seven feet long and nine feet, seven inches high. The box incloses three feet, five inches of the sidewalk, the remainder being on the cartway. The sidewalk is ten feet wide in front of the plaintiffs’ property. There is also a small coal box included in the defendant’s plan.
+It appears from the evidence that the gates can. only be worked from the watch box, that the latter is located at the most convenient and practicable place for securing its efficient use; and that the agents of the defendant have exercised care and discretion in its location. The plaintiffs’ complaint is not that it is erected on the street, but that it encroaches on the sidewalk. The defendant justifies its action under the powers granted in the charter and under the requirements of the ordinance of October, 1902. It is not contended by the appellants that the structure might not be lawfully placed in the cartway, and yet the sidewalk is as much a part of the public highway as that over which vehicles pass. The designation of a part of the street for the exclusive use of pedestrians is convenient for the public, but does not give a character to it as private property different from the remainder of the street; The right of the city to control the use of the streets in a reasonable way is undoubted, and the inconvenience to which an adjoining property owner may be subjected is incidental to this right. The special burden cast upon him must be borne in subordination to the public welfare. Many of the structures in use in cities in supplying municipal needs and meeting the demand for convenience in travel, interfere to a greater or less degree with the undisturbed enjoyment of property by the . owners. But in most cases, such injuries are a part of the debt which persons so situated owe to the public. The city having lawfully exacted of the defendant the erection of a safety gate at the point in question, and it appearing that the plan adopted is reasonable, we think the action of the defendant is not in excess of its power. The very question was decided in the case of Wilson v. Phila. & Reading Railroad Co., 5 W. N. C. 185, where the authority of the same company to erect a watch box on the same street was recognized. It is true in that case the box was wholly on the driveway, but as • already stated that is not a controlling factor so far as the rights of the plaintiff are concerned. Where it appears that ample room remains on the sidewalk for the passage of pedestrians and the removal of the box into the street would interfere with the use of the driveway, an injunction should not be granted.
+The action of the court below is warranted by the facts presented.
+The decree is affirmed.
