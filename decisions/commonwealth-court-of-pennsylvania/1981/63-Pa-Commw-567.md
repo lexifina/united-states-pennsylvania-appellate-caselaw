@@ -1,0 +1,33 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "2014 C.D. 1980"
+decided: "1981-12-31"
+citations: ["63 Pa. Commw. 567"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Crumlish, Jr. and Judges Mencer, Craig, MacPhail and Palladino."]
+parties: ["Luzerne County Medical Society, Petitioner v. Commonwealth of Pennsylvania, Department of Health et al., Respondents."]
+source_url: "https://static.case.law/pa-commw/63/cases/0567-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1927124
+cites_cases: ["1 Pa. Code §35.1", "28 Pa. Code §301.1", "430 A.2d 393", "488 Pa. 292", "492 Pa. 68", "59 Pa. Commonwealth Ct. 549"]
+---
+
+# Luzerne County Medical Society v. Commonwealth
+
+## Majority (Judge Palladino,)
+
+Opinion by
+Judge Palladino,
+The Luzerne County Medical Society (Luzerne) has filed a petition for review, directed to our original jurisdiction, in the nature of an action in mandamus. Named as respondents are the Pennsylvania Department of Health (Department), the Secretary of the Department, Arnold Muller (Secretary), and the Greisinger Medical Center (Greisinger), the owner and operator of several health care facilities in Pennsylvania. In this action, Luzerne seeks an order from this Court which would direct the Secretary to inform the United States Department of Health and Human Services (1) that Greisinger has recently made several “capital expenditures” within the intendment of Section 1122(g) of the Social Security Act (Act), 42 U.S.C. §1320a-l(g), and (2) that Geisinger did not provide the Department with sixty days prior notice of its intent to incur these capital expenditures. In response to this action, Geisinger has filed preliminary objections (1) questioning this Court’s jurisdiction over the present matter on the basis that Luzerne has failed to exhaust administrative remedies, (2) challenging Luzerne’s standing to bring this action, and (3) alleging that Luzerne has failed to state a cause of action upon which a writ of mandamus can be issued. Since we agree with Geisinger’s assertion that Luzerne has failed to pursue available administrative remedies, we will dismiss Luzerne’s petition for review.
+“Well-settled case law of this Court precludes a party challenging administrative decision making from obtaining judicial review, by mandamus or otherwise, without first exhausting administrative remedies.” Canonsburg General Hospital v. Department of Health, 492 Pa. 68, 73, 422 A.2d 141, 144 (1980); Delaware Valley Convalescent Center v. Beal, 488 Pa. 292, 412 A.2d 514 (1980).
+In the present case, Luzerne avers that Geisinger recently made acquisitions and expenditures which amounted to capital expenditures under the Act, that Geisinger never notified the Department of these expenditures, that the Secretary knew of these capital expenditures, and that the Secretary violated Section 1122 of the Act by failing to report these expenditures, and Geisinger’s failure to report them, to the United States Department of Health and Human Services.
+In Canonsburg, the Pennsylvania Supreme Court dismissed for failure to pursue administrative remedies a petition for review filed by an applicant who alleged that the Secretary improperly considered his application for certification of a new hospital as conforming to the standards for federal financial assistance under Section 1122 as incomplete. In dismissing this petition, the Supreme Court concluded that the proper means of challenging the Secretary’s actions was not an action in mandamus, but was instead the filing of an administrative complaint pursuant to 1 Pa. Code §35.1 et seq. Similarly, in the present case, we believe that the complaint mechanism provided for in 1 Pa. Code §35.1 et seq. is available to Luzerne, and that Luzerne’s petition for review must accordingly be dismissed because of Luzerne’s failure to pursue this administrative remedy. Canonsburg.
+Finally, we note that we find no merit in Luzerne’s reliance on our decision in Citizens General Hospital of New Kensington v. Department of Health, 59 Pa. Commonwealth Ct. 549, 430 A.2d 393 (1981), for the proposition that it is not required to pursue the administrative complaint mechanism provided for in 1 Pa. Code §35.1 et seq. In Citizens General we concluded that the petitioner had exhausted available administrative remedies since it pursued the special hearing procedures provided for in 28 Pa. Code §301.1 et seq. Since these special hearing procedures are not applicable to the present case, however, and since Luzerne has failed to pursue available administrative remedies, we do not believe that our holding in Citi zens General is in any way inconsistent with the result we reach in this case.
+Accordingly, we enter the following
+Order,
+And Now, December 31, 1981, the preliminary objection of the respondent Geisinger Medical Center, Inc. to the jurisdiction of this Court over the petition for review filed by the petitioner, Luzerne County Medical Society, on the basis that the petitioner has failed to pursue available administrative remedies, is sustained, and the Luzerne County Medical Society’s petition for review is hereby dismissed.
+Section 1122 of the Act provides for a program which is designed to curb unnecessary capital expenditures by hospitals and other medical facilities. This goal is generally accomplished by requiring medical facilities to secure advance approval of capital projects from state health care planning agencies as a pre-condition to receiving full federal financial assistance. In Pennsylvania, the designated health planning agency is the Pennsylvania Department of Health.
+We note that Luzerne argues in the alternative in its brief that it exhausted available administrative remedies by sending a letter to .the United States Department of Health Education and Welfare requesting a reconsideration of a certificate of compliance given to Geisinger for a capital acquisition program. Suffice it to say that this letter does not, in our view, constitute an exhaustion of administrative remedies in this case since, inter alia, it does not pertain to the issue in this ease, i.e., whether the Secretary incorrectly failed to provide the Department of Health and Human Services with certain information.
+As a result of our conclusion that Luzerne’s petition for review must be dismissed for failure to pursue administrative remedies, we need not address the questions of whether Luzerne had standing to bring this action, or whether Luzerne stated a cause of action upon which relief in mandamus could be granted.
