@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 585 C.D. 1984"
+decided: "1985-01-08"
+citations: ["86 Pa. Commw. 645"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges MacPhail, Doyle and: Barry, sitting ‘as a panel of three."]
+parties: ["James D. Righter, Petitioner v. Commonwealth of Pennsylvania, Department of Labor and Industry, Respondent."]
+source_url: "https://static.case.law/pa-commw/86/cases/0645-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1326698
+cites_cases: ["24 Pa. Commonwealth Ct. 58", "354 A.2d 24", "460 A. 2d 1228", "460 A.2d 390", "475 A.2d 899", "486 Pa. 585", "74 Pa. Commonwealth Ct. 450", "75 Pa. Commonwealth Ct. 61", "82 Pa. Commonwealth Ct. 259"]
+---
+
+# Righter v. Commonwealth
+
+## Majority (Judge Barry,)
+
+Opinion by
+Judge Barry,
+This appeal follows an order of the Industrial Board of the Department of Labor and Industry (Board) dated January 27, 1984, granting the petitioner, James D. Bighter, a conditional variance from cited violations of the Fire and Panic Act (Act), Act of April 27,1927, P.L. 465, as amended, 35 P.S. §§1221-1235, provided petitioner comply with certain conditions.
+In 1978, the Department of Labor and Industry (Department) cited Richard and Bernice Knepp, the prior owners of 29 Chestnut Street, Lewistown, Pennsylvania, under the Fire and Panic Act, and revoked the occupancy permit. The Knepps submitted plans, as required under Section 8 of the Act, that would bring the building into compliance. The Department approved the plans. The Department, however, never issued a new occupancy permit since the Knepps never implemented these plans. In 1979, petitioner purchased the building from the Knepps. The Department reinspected the premises in January 1981, and found the same violations that had existed in 1979. In June 1981, the Department again issued a citation, this time in Righter’s name. In August 1983, the Department initiated proceedings for him to show cause why he should not comply with the citation.
+At the hearing before the Board, petitioner was able to prove that he had made improvements which rendered the building relatively safe for the tenants. As a result, the Board was willing to waive strict statutory compliance if the petitioner agreed to install an inter-connected smoke and heat detector system. At the hearing, petitioner agreed to install such a system; petitioner was given a conditional variance provided the work was completed within three months. Within three weeks, however, petitioner informed the Board he would appeal the order unless the Board dropped the condition of installing the inter-connected smoke and heat detection system which petitioner alleges is cost-prohibitive and mechanically questionable. When the Board informed petitioner it could not convene to consider his request until after the appeal period had run, petitioner filed this appeal.
+Petitioner first contends that he should not be required to bring the building into compliance since the original citation was not issued to him. He also contends that the Department should force the prior owners to bring the building into compliance. This Court has stated in connection with a similar claim that the Commonwealth had proceeded in an untimely fashion:
+We do not accept the argument that the Commonwealth has in some fashion slept on its right of enforcing the laws which it has created. This is not a case of a private party litigant seeking to enforce a right within a specified time as dictated by the legislature. We are here confronted with the Commonwealth’s enforcing a public safety law as codified by Departmental regulation. Surely, there is no limitation on when such an exercise of the police power may occur. Moreover, Section 1 of the Fire and Panic Act, 35 P.S. §1221, states:
+“Whenever any building designated in this act shall, in the opinion of the Department of Labor and Industry, become dangerous to further occupancy because of structural or other defects. ...” (Emphasis added.)
+To say that failure to object to an unlawful and perhaps dangerous condition in the past precludes present enforcement is a position which we cannot accept.
+Industrial Board v. Durbin, 24 Pa. Commonwealth Ct. 58, 61-62, 354 A.2d 24, 26 (1976).
+Mr. Righter also claims that the Department’s enforcing a citation upon him is an exercise of an ex post facto law and is unconstitutional. His argument is two-fold 1) that the Act shouldn’t apply to structures built before 1927; and 2) the Act should not be applied to him, an owner after the citation was issued. This Court has stated, “Since the case sub judice does not involve the imposition of penal sanctions, the constitutional prohibition of ex post facto laws does not apply.” Wood v. City of Pittsburgh, 74 Pa. Commonwealth Ct. 450, 460 A.2d 390 (1983). Wood also addresses and rejects petitioner’s contention that the Act doesn’t apply to structures built before 1927. What must be remembered is that Mr. Righter bought this property without a valid occupancy permit. He had a duty to inquire into why there was no permit. To state that because he failed to perform this duty immunizes this property from the effects of a legitimate public safety law is something that we refuse to do. In answer to another of petitioner’s allegations — that the sale resulted because of fraudulent representations by the previous owner — we note that this question is a matter of litigation in another forum. We conclude that the Department acted in accordance with the authority granted by the legislature in proceeding against the petitioner as owner of the building at 29 Chestnut Street.
+Petitioner next claims the Board erred in imposing certain conditions when granting him a conditional variance. On appeal from an order by an administrative agency, judicial review by this court, when the party with the burden of proof does not prevail below, is limited to a determination of whether or not constitutional rights were violated, an error of law was committed, or there was capricious disregard of competent evidence. Milbourne v. Pennsylvania Crime Victim’s Compensation Board, 82 Pa. Commonwealth Ct. 259, 475 A.2d 899 (1984). We conclude, after review, that the petitioner’s claim must be decided on the question whether the Board committed an error of law. Granting a conditional variance has been recognized as a proper function under the discretionary-powers of the Board. Petition of Dwyer, 486 Pa. 585, 406 A.2d 1355 (1979). More to the point, this Court has held that a conditional variance, requiring a smoke and heat detector system connected with the existing fire alarm system, was within the discretionary powers of the Board. Antrim Faith Baptist Church v. Industrial Board, 75 Pa. Commonwealth Ct. 61, 460 A. 2d 1228 (1983).
+We therefore conclude that Mr. Righter must perform the condition to obtain the variance. Should he find the condition unacceptable, he may comply with the original order of June 5, 1981.
+In view of our disposition of this case, it is unnecessary to discuss respondent’s contention raised by a Motion to Dismiss that the petitioner’s claim is barred by his acquiescence in the proposals embodied in the Board’s order.
+Affirmed.
+Order
+Now, January 8, 1985, the order of the Industrial Board of the Department of Labor and Industry, Commonwealth of Pennsylvania, dated on or about January 27, 1984, is affirmed.
