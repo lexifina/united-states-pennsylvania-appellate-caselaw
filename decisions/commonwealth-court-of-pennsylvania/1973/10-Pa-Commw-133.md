@@ -1,0 +1,33 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "773 C.D. 1972"
+decided: "1973-08-29"
+citations: ["10 Pa. Commw. 133"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Mender, Rogers and Blatt."]
+parties: ["Commonwealth of Pennsylvania Acting by Attorney General J. Shane Creamer, Plaintiff, v. Lewis Rozman, Individually and Co-Partner, and William Rozman, Individually and Co-Partner, t/a Rozman Brothers Furniture & Appliance Center, Defendants."]
+source_url: "https://static.case.law/pa-commw/10/cases/0133-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1855586
+cites_cases: ["175 A. 2d 58", "207 A. 2d 861", "265 A. 2d 127", "291 A. 2d 99", "299 A. 2d 294", "405 Pa. 259", "416 Pa. 599", "438 Pa. 291", "447 Pa. 521", "450 Pa. 535", "65 Pa. D. & C. 215"]
+---
+
+# Commonwealth v. Rozman
+
+## Majority (Judge Mencek,)
+
+Opinion by
+Judge Mencek,
+On August 8, 1972, the Attorney General of the Commonwealth filed a complaint in equity containing allegations that Lewis Rozman and William Rozman, as individuals, and trading as Rozman Brothers Furniture and Appliance Center (Rozmans), were “using or about to use practices declared illegal by Section 3” of the Unfair Trade Practices and Consumer Protection Law (Act). Immediately after filing the complaint, the Attorney General filed a “consent petition for permanent injunction,” dated August 7, 1972 and executed by the Attorney General for the Commonwealth of Pennsylvania and Louis M. Rozman and by counsel for the Rozmans. This petition, in accordance with its terms, became the basis of a consent decree entered on August 8, 1972.
+On March 1, 1973, Rozmans filed a petition to dissolve the permanent injunction and vacate the consent decree. We here dismiss this petition.
+The complaint was filed to terminate and prevent unfair trade practices. This Court has, under Section 4 of the Act, jurisdiction of a complaint in equity to enjoin and prevent such violations of the Act. The parties, for reasons of their own, agreed upon the character of injunction to issue to abate the unfair practices set forth in the complaint. Likewise, they agreed upon a procedure whereby the Attorney General, under certain circumstances, should have the “right to require cancellation of any contract secured or solicited by Defendants, their agents or representatives, since June 16, 1971.” The parties may or may not have agreed upon such a decree as the Court would have entered under the Act. It may be that the decree is broader than and of a character different from that which the Court would have entered, but Rozmans cannot now be heard to complain of the very order to which they agreed for purposes of their own nor can they assert lack of jurisdiction to enter the decree. See Cooper-Bessemer Company v. Ambrosia Coal and Construction Company, 447 Pa. 521, 291 A. 2d 99 (1972).
+It would be an untenable situation if Rozmans could agree to the kind of injunction and decree which was acceptable to them and if then, on the basis of such agreement, after no further proceedings were taken and the decree was entered as agreed upon, they could violate the decree and, when an attempt was made to hold them accountable for so doing, could reply that the decree was void and illegal and that the Court had no power to enter such a decree. We cannot accept such reasoning. Court decrees, approved in good faith by a court on the stipulation and consent of the parties, cannot be avoided by some of the parties on the contention that the court had no power to make the decree. See Commonwealth v. Trace, 65 Pa. D. & C. 215 (1948).
+Parties to an agreement cannot be allowed to repudiate that which they did with full knowledge, advice of counsel, and presumably for their own benefit.
+Rozmans correctly contend that an action under the Act may not be commenced by a consent petition providing for a permanent injunction. Hartmann v. Peterson, 438 Pa. 291, 265 A. 2d 127 (1970). Here, however, the record establishes that this action was properly commenced by the filing of a complaint in equity. The fact that the consent petition was dated one day prior to the filing of the complaint is of no import where the consent petition was filed subsequent to the complaint.
+A consent decree is not a legal determination by tbe court of the matters in controversy but is merely an agreement between tbe parties. It is in essence a contract binding tbe parties thereto. Universal Builders Supply, Inc. v. Shaler Highlands Corporation, 405 Pa. 259, 175 A. 2d 58 (1961). As a contract, sucb a decree requires a mutual understanding of and concerted action by tbe parties. Here tbe consent petition was signed for tbe Rozmans by Louis M. Rozman and William K. Wrigbt, “Counsel for Rozmans.” There is nothing before us to even suggest that Attorney Wrigbt did not have authority to execute tbe consent petition on behalf of William Rozman and Rozman Brothers Furniture and Appliance Center or that tbe Rozmans did not have an understanding of tbe consent decree to be entered in consequence of tbe consent petition. An attorney has authority to enter a consent decree with tbe client’s direction, knowledge or consent. Archbishop v. Karlak, 450 Pa. 535, 299 A. 2d 294 (1973). A court has neither the power nor tbe authority to modify or vary tbe terms set forth in a consent decree, under sucb circumstances, in tbe absence of fraud, accident or mistake. Rozmans make no sucb assertions here. See Jones Memorial Baptist Church v. Brackeen, 416 Pa. 599, 207 A. 2d 861 (1965).
+It is not of importance that tbe consent decree was entered without a bearing and tbe presentation of evidence to support tbe allegations of the complaint. If, without taking testimony, tbe parties chose to settle the litigation by a consent decree, the chancellor was not required to file an adjudication in tbe traditional form. Tbe consent decree derives its efficacy from tbe agreement of the parties and tbe approval of tbe chancellor. It bound tbe parties with tbe same force and effect as if a final decree had been rendered after a full bearing upon the merits.
+We hold that a decree entered by understanding consent of the parties is so conclusive that it will be vacated only on a showing that an objecting party’s consent was obtained by fraud or that it was based on accident or a mutual mistake. Rozmans have not established such to be the case here. Accordingly, their petition to dissolve is hereby dismissed.
+Act of December 17, 1968, P. L. 1224, 73 P.S. §201-3.
+73 P.S. §201-4.
