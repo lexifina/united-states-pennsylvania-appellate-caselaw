@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "95"
+decided: "1989-07-27"
+citations: ["385 Pa. Super. 546", "561 A.2d 810"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WIEAND, McEWEN and MELINSON, JJ."]
+parties: ["Anthony R. DeLUCA, Administrator De Bonis Non of the Estate of Angelina C. Viola, Deceased, Appellant, v. Carolyn J. SMALLER and the Goldbrick Co., Inc., Appellees."]
+source_url: "https://static.case.law/pa-super/385/cases/0546-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 468179
+cites_cases: ["359 Pa.Super. 499", "512 Pa. 60"]
+---
+
+# DeLuca v. Smaller
+
+## Majority (WIEAND, Judge:)
+
+WIEAND, Judge:
+This is an appeal from an order denying a petition to award delay damages pursuant to Pa.R.C.P. 238.
+On December 15, 1981, Angelina Viola, a sixty-seven year old homemaker, was struck by a vehicle operated by Carolyn Smaller and owned by The Goldbrick Co., Inc. Viola died a short time after the accident, leaving as survivors an elderly husband and two adult sons. On November 9,1982, the administrator of the decedent’s estate commenced wrongful death and survival actions against the owner and operator of the offending vehicle. On September 23, 1987, a jury returned a verdict in favor of the plaintiff and against the defendants which resulted in an award of $84,-000.00. A petition for delay damages was filed, and oral argument thereon was entertained by the court. Thereafter, the petition was denied. This appeal followed by the plaintiff.
+The trial court found that all delay in resolving the claim for Angelina Viola’s death had been caused by her heirs. This finding was based, inter alia, upon the fact that the decedent’s adult sons had started harassing Carolyn Smaller, the driver of the offending vehicle, immediately following the accident. This harassment, the court determined, had been sufficient to cause a reasonable person to apprehend imminent danger. It caused Smaller to move without leaving a forwarding address. Threats, the court found, had also been made upon defense counsel and increased the difficulty in settling the case. In addition, the decedent’s heirs were uncooperative with their own counsel regarding settlement.
+The petition and answer disclose that the defendant-appellees made numerous settlement offers, all of which were rejected. On September 29, 1982, before a complaint had been filed, an offer was made in the amount of $50,000.00. On November 22, 1982, the offer was increased to $60,-000.00. On April 7, 1983, defendants’ offer was increased to $65,000.00; and on October 19, 1983, the sum of $70,-000. 00 was offered. Negotiations for a structured settlement continued until July, 1984, when negotiations broke off. On September 3, 1987, an offer was made in the amount of $85,000.00. This was increased to $90,000.00 on September 16, 1987 and to $100,000.00 at the time of trial. All offers were rejected. The attitude of the decedent’s sons, according to the trial judge, was that they would abjure any settlement and leave it to the jury to determine the value of the case. The jury’s verdict, as we have observed, resulted in an award of $84,000.00.
+The applicable law, when this case was decided by the trial court, had been stated by the Supreme Court in Craig v. Magee Memorial Rehabilitation Center, 512 Pa. 60, 515 A.2d 1350 (1986). In suspending the mandatory provisions of Pa.R.C.P. 238, the Court said it was impermissible to presume conclusively that all fault in the delayed resolution of a claim rested with the defendant. Instead,
+[i]n making a decision on a plaintiffs entitlement to delay damages the mere length of time between the starting date and the verdict is not to be the sole criterion. The fact finder shall consider: the parties’ respective responsibilities in requesting continuances, the parties’ compliance with rules of discovery; the respective responsibilities for delay necessitated by the joinder of additional parties; and other pertinent factors.
+Id., 512 Pa. at 66, 515 A.2d at 1353. The trial court, in reliance on Craig, determined that the delay and inability to settle the claim in this case had not been caused by the defendant but by the unreasonable tactics of the heirs of the decedent.
+The Supreme Court, in Craig v. Magee Memorial Rehabilitation Center, supra, did not mandate a hearing, although it did suggest that “[p]rior to reaching a decision, the judge may hold a hearing to resolve any factual disputes.” Id., 512 Pa. at 65, 515 A.2d at 1353 (emphasis added). See: Shellhamer v. Grey, 359 Pa.Super. 499, 505, 519 A.2d 462, 465 (1986) (“the determination of ‘fault’ now injected into the assessment of one’s entitlement to Rule 238 damages, is to be decided by petition and answer at the trial level, with the option available to the judge to hold a hearing to resolve any factual disputes.”). In the instant case, appellant did not request a hearing. On the contrary, when the petition for delay damages came before the court for determination, appellant’s counsel told the court, “I don’t think there are any factual disputes here.” Counsel was correct. The offers of settlement made by the defendant-appellees had been documented by averments contained in the petition and admitted in the answer thereto. Moreover, the trial judge had tracked the litigation and was familiar with its background and movement through the courts. Therefore, we reject appellant’s present argument that the trial court erred in failing to convene a more formal hearing before rejecting appellant’s request for delay damages. Not only had plaintiff’s counsel suggested the lack of a need for a hearing, but the pleadings and the trial court’s familiarity with the case provided an adequate basis for the court’s determination.
+On November 7, 1988, the Supreme Court adopted a new Rule 238. There is nothing in the new rule, however, to suggest error in the determination made by the trial court in this case. Both Craig and the amended Rule 238 disallow recovery of delay damages where it is the plaintiff who has caused the delay. Thus, the new Rule 238 does not require that appellant’s request receive more favorable treatment than it received under Craig.
+Because we find neither error nor abuse of discretion in the trial court’s determination that plaintiff is not entitled to receive an award of delay damages, its order will be affirmed.
+Order affirmed.
+. An actual verdict of $105,000.00 was reduced to $84,000.00 by the court in accordance with the jury’s finding that plaintiffs causal negligence had contributed to the extent of twenty (20%) percent.
