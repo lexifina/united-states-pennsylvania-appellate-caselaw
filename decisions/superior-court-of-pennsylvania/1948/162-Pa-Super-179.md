@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 175"
+decided: "1948-01-08"
+citations: ["162 Pa. Super. 179"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, Ross, Arnold and Fine, JJ."]
+parties: ["Commonwealth v. One 1946 Chrysler Sedan."]
+source_url: "https://static.case.law/pa-super/162/cases/0179-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 462817
+cites_cases: ["14 A. 2d 600", "141 Pa. Superior Ct. 34", "85 Pa. Superior Ct. 188", "87 Pa. Superior Ct. 38"]
+---
+
+# Commonwealth v. One 1946 Chrysler Sedan
+
+## Majority (Fine, J.,)
+
+Opinion by
+Fine, J.,
+Jesse Sklaroff appeals from a decree of forfeiture of one. 1946 Chrysler sedán alleged to have been used for the “illegal transportation” of liquor in violation of Section 611 (a) of the Pennsylvania Liquor Control Act: Act of June 16, 1937, P. L. 1762, 47 PS section 744-611(a). An answer was filed to the Commonwealth’s petition for forfeiture admitting the presence of untaxed liquor in the vehicle but denying illegal transportation. After hearing, the court below enteréd a decree of forfeiture. This appeal followed.
+Faye Sklaroff, on December 11, 1946, was the owner of a 1946 Chrysler sedan. About 12:45 p.m. on that day, her husband, Jesse Sklaroff, who had the use of the vehicle, parked it at the southeast corner of Second and Market Streets, Philadelphia, and entered a restaurant to eat his lunch. Samuel Lerner, a friend of appellant’s, met him and informed him that a Mr. Travis of New York City had given him, Lerner, 16 bottles of liquor, and that a friend of Travis’ driving from New York to Florida had stopped off in Philadelphia to deliver the liquor. The liquor was then transferred to the trunk of the Sklaroff -Chrysler sedan. - As Sklaroff- was seated in the vehicle with the car key in the ignition, officers of the Liquor Control Board appeared and requested him to open the trunk of the sedan.. Sklaroff gave the key to the officers and the latter opened the trunk and found therein the 16 bottles of untaxed liquor. Appellant was arrested and the automobile and whiskey seized by the officers.
+Appellant testified that he had intended, immediately upon receipt of the liquor, to proceed to the offices of the Liquor Control Board and purchase the necessary stamps. The stamps were purchased by him about six days thereafter. He also stated that he intended to take the liquor home “eventually”. An agent of the Liquor Control Board testified that the vehicle had been under observation, that Sklaroff was seen opening the car door, taking his position in the driver’s seat in the automobile, and that he had his ear key in the ignition and turned on. It was admitted that the automobile did not move. - - -
+The sole assignment of error challenges the finding that’ the automobile was engaged in “illegal transportation” within the meaning of Section 611(a) of the Liquor Control Act of June 16,1937, P. L. 1762, Section 611(a), 47 PS 744 — 611(a). Appellant contends that no such transportation took place since the bottles of whiskey “had not been driven to that point in the' vehicle . . . that they had not been moved by virtue of the motion of that vehicle from the time -that the bottles had been deposited therein, and that there was no intention On the part of Sklaroff to drive them anywhere while the bottles remained in an untaxed status.” That the vehicle was not at the moment of seizure in actual motion does not derogate against á finding that the vehicle was engaged in illegal transportation within the -meaning of section-611 (a) of the Liquor Control Act, supra. In Commonwealth v. Reo Speed Wagon, 87 Pa. Superior Ct. 38, a similar contention was raised in a forfeiture proceeding instituted under the Act of March 27, 1923, P. L. 34, section 3, since repealed, but in many respects similar to the present Act. This Court in dismissing that contention, said, at page 41: “The beer had not been produced in the truck, there can ^e no doubt that it .was. placed there by some, person. Transportation, in its course, naturally includes various stages. The moment the movement commences from the place where the beer is stored in the brewery to some place outside the brewery premises, the transportation has begun; . . ‘Whether the truck was in motion or not at the instant of the seizure, it was being used in the transportation of liquor within the meaning of the statute.’ ” In Commonwealth v. One Ford Truck, 85 Pa. Superior Ct. 188, -this Court said at page 191: “We cannot adopt appellants’ first proposition that the evidence was insufficient to.establish, transportation! The place where the truck-and its contents, were seized shows that the liquor was in the course, of transportation; it did not originate there; it was transported there by somebody, whose manifest purpose was to move it further in the truck. Whether the truck was !in mo: tion or hot at the instant of the seizure, it. was being used in the transportation of liquor within the meaning of the statute.” - .
+The language of the statute in section 611(a) providing for condemnation is mandatory. “. . . forfeiture of the vehicle does not depend upon a wilful and intentional violation of the liquor laws”: Commonwealth v. One Dodge Sedan, 141 Pa. Superior Ct. 34, 37, 14 A. 2d 600.
+Appellant argues that certain departmental regulations of the Liquor Control Board are invalid. This is not assigned as error and is not properly before this Court.
+Decree affirmed.
+The pertinent portions of Section 611(a) provide: “No property-rights shall exist in any liquor, alcohol, malt or brewed beverage illegally possessed, or in any stiU, equipment, material, utensil, vehicle, boat, vessel . . . used in the illegal manufacture or, illegal transportation of liquor . and the same shall be deemed contraband and shall be forfeited to the Commonwealth.”
