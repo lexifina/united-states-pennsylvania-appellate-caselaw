@@ -1,0 +1,36 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2686 C.D. 1983"
+decided: "1986-01-06"
+citations: ["94 Pa. Commw. 67"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Doyle and Palladino, and Senior Judge Barbieri, sitting as a panel of three.", "Senior Judge Barbieri concurs in the result only.."]
+parties: ["Jerry Weissman, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/94/cases/0067-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1343433
+cites_cases: ["417 A.2d 872", "499 Pa. 455", "53 Pa. Commonwealth Ct. 431"]
+---
+
+# Weissman v. Commonwealth, Unemployment Compensation Board of Review
+
+## Majority (Judge Palladino,)
+
+Opinion by
+Judge Palladino,
+This is an appeal by Jerry Weissman (Employer) from an order of the Unemployment Compensation Board of Review (Board), which reversed a referee’s decision and awarded benefits to Margaret L. Monteleone (Claimant). The Board concluded that Claimant voluntarily terminated her employment for a cause of a necessitous and compelling nature pursuant to Section 402(b) of the Unemployment Compensation Law (Law). We affirm.
+The facts, as found by the Board, are as follows: Claimant was last employed as an optician by Employer on April 19, 1983, on which date she voluntarily terminated her employment because of continued sexual harassment from her employer and because she had been falsely accused of being rude to customers. Employer had made several sexually-oriented and embarrassing comments to and about Claimant in front of customers and co-workers during Claimant’s five years of employment. Two weeks prior to Claimant’s termination, Employer had grabbed Claimant’s hand and proceeded to kiss her hand and arm, saying “I want your body.” This incident occurred in the presence of Claimant’s co-workers. On Claimant’s last day at work she received a telephone call from Employer’s wife, who acted as Employer’s office manager. Employer’s wife falsely accused Claimant of being rude to a customer and stated ■that Claimant was required to do whatever a customer wanted, including “getting down on her hands and knees and barking like a dog.” The Board further found that Claimant had repeatedly requested that Employer “leave her alone,” and that Claimant’s husband had met with Employer in 1980 to discuss the sexual harassment.
+■ The Board concluded that the false accusations, and being told that she must do anything that a customer requested, coupled with the continued sexual harassment by Employer, constituted a cause of necessitous and compelling nature for Claimant to voluntarily terminate her employment. The Board, therefore, granted benefits to Claimant. On appeal from the Board’s order, Employer raises two arguments: 1) that the Board erred in making findings of fact'contrary to the findings made by the referee; and 2) that the facts, as found by the Board, are insufficient as a matter of law to constitute a cause of necessitous and compelling nature to terminate one’s employment.
+In support of his first argument Employer relies upon the Pennsylvania Supreme Court case of Treon v. Unemployment Compensation Board of Review, 499 Pa. 455, 453 A.2d 960 (1982) for the proposition that the Board may not make findings of fact contrary to those made by the referee. This proposition, however, is not what the Treon Court held. In Treon the only testimony presented was that of the claimant. The claimant’s testimony was consistent and uncontradicted. Based upon this testimony the referee made four findings of fact. On appeal to the Board, the Board adopted three of the four findings without giving any reason for its failure to adopt the fourth finding. When presented with this scenario, the Supreme Court of Pennsylvania acknowledged that the Board had the right to disbelieve even the uncontradieted testimony of the claimant, but stated that the Board may not “simply disregard findings made by the referee which are based upon consistent and uneontradieted testimony without stating its reasons for doing so. ’ ’ Treon, 499 Pa. at 461, 453 A.2d at 962.
+The situation presented in the case at bar, however, is very different from the situation presented in Treon. Here Claimant, in addition to her own testimony, presented the testimony of five witnesses. Claimant’s witnesses corroborated Claimant’s testimony that Employer had sexually harassed her and that Claimant had not been rude to Employer’s customer. Employer, in order to rebut Claimant’s testimony, presented the testimony of two witnesses, in addition to his own testimony.
+Thus, the instant case, unlike the situation in Treon, presents a situation where there is conflicting testimony. As the Treon Court stated, the Board has the right to disbelieve the testimony of any witness. See also Peak v. Unemployment Compensation Board of Review, Pa. , A.2d (45 W.D. 1984, filed December 12, 1985). Our comprehensive review of the record reveals that Employer’s testimony is seriously undermined by its evasiveness and inconsistencies. Claimant’s testimony, on the other hand, is supported by the corroborating testimony of Claimant’s witnesses. Although judicial review would be facilitated if the Board articulated its reasons for rejecting the referee’s credibility determination, on the record before us in this case the Board’s reasoning is abundantly clear . We conclude, thereto re, that the B o ard’s findings are supported by substantial evidence.
+We must also reject Employer’s second argument, that the facts as found by the Board are insufficient to constitute a cause of necessitous and compelling nature to terminate one’s employment. We have previously held that sexual harassment can be a neeessitous and compelling reason for quitting, provided that the claimant has taken reasonable and prudent steps to alleviate the problem. See West v. Unemployment Compensation Board of Review, 53 Pa. Commonwealth Ct. 431, 417 A.2d 872 (1980). Here the Board found, and the findings are supported by substantial evidence in the record, that not only did Claimant repeatedly tell Employer to leave her alone, but Claimant’s husband had met with Employer to discuss the sexual harassment.
+Accordingly, we affirm the Board’s conclusion that Claimant had cause of a necessitous and compelling nature to voluntarily terminate her employment.
+Order
+And Now, January 6,1986, the order of the Unemployment Compensation Board of Review, No. B-221701, dated August 29,1983, is affirmed.
+Senior Judge Barbieri concurs in the result only..
+Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43'P.S. §802(b).
+Claimant appealed ithe referee’s decision to the Board. The referee had determined that Claimant was ineligible to receive unemployment compensation benefits because she had voluntarily terminated her employment without cause of a necessitous and compelling nature. The referee had found that Claimant was not sexually harassed by Employer.
+The Board, without taking additional testimony, made its own findings of fact which were contrary to those made by the referee.
