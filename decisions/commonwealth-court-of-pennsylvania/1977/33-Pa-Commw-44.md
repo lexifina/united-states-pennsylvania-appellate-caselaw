@@ -1,0 +1,45 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 375 C.D. 1976"
+decided: "1977-12-15"
+citations: ["33 Pa. Commw. 44"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Wilkinson, Jr., Rogers and Blatt. Judge Crumlish, Jr. did not participate."]
+parties: ["Committee of Seventy et al. v. Sheldon Albert, Esq., City Solicitor of the City of Philadelphia, et al. Donald Barnhouse and Committee of Seventy, Appellants."]
+source_url: "https://static.case.law/pa-commw/33/cases/0044-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1884653
+cites_cases: ["170 A.2d 575", "182 A.2d 734", "28 Pa. Commonwealth Ct. 33", "28 Pa. Commonwealth Ct. 51", "301 A.2d 816", "367 A.2d 338", "367 A.2d 370", "403 Pa. 645", "408 Pa. 202", "450 Pa. 367"]
+---
+
+# Committee of Seventy v. Albert
+
+## Majority (President Judge Bowman,)
+
+Opinion by
+President Judge Bowman,
+By a complaint in equity upon which a rule to show cause was issued, appellants initiated proceedings in the Court of Common Pleas of Philadelphia County. They sought to preliminarily and permanently enjoin payment by the City of Philadelphia of attorney’s fees incurred by the hiring of private counsel to represent F. Emmett Fitzpatrick, Esquire, District Attorney of the City of Philadelphia, in disciplinary proceedings before the Disciplinary Board of the Supreme Court of Pennsylvania (Board). The petition for discipline filed by the Office of Disciplinary Counsel contained thirteen charges of various allegations of misconduct. These charges, after extended hearings, were dismissed.
+Section 4-400 of the Philadelphia Home Buie Charter (Charter) provides in pertinent part:
+The Law Department shall have the power and its ditty shall be to perform the following functions:
+(a) Legal Advice. It shall furnish legal advice ... to all officers . . . concerning any matter or thing arising in connection with the exercise of their official duties... .
+Section 8-410 of the Charter provides in pertinent part:
+Whenever any officer . . . shall require legal advice concerning his . . . official business or whenever any legal question or dispute arises or litigation is commenced or to be commenced in which any officer ... is officially concerned ... it shall be the duty of such officer ... to refer the same to the Law Department.
+It shall be unlawful for any officer ... to engage any attorney to represent him ... in any matter or thing relating to his . . . public business without the approval in writing of the City Solicitor.
+These sections have been construed to authorize the City Solicitor to approve the retention of private counsel at City expense in appropriate circumstances involving the ‘ ‘ official business ’ ’ of the City officer in question. Silver v. Dilworth, 403 Pa. 645, 170 A.2d 575 (1961). Such authorization was granted with regard to the defense of Mr. Fitzpatrick to the Board’s charges.
+Appellants asserted in the court below that, although no bill for services had at that time been presented, payment should be enjoined because the charges were leveled against Mr. Fitzpatrick as a member of the Bar and not as District Attorney per se.
+Appellees filed preliminary objections in the nature of a demurrer and in the nature of a motion to dismiss for lack of standing.
+A hearing conducted on November 21, 1975, before the Honorable Ned L. Hirsh of the Court of Common Pleas of Philadelphia County, resulted in an order dated February 4,1976, which reads in pertinent part: “ [T]he requested prayer for relief in plaintiffs’ complaint in equity is denied. ’ ’ On that same date, appellees ’ preliminary objections were dismissed.
+This appeal followed.
+On January 12,1977, argument was heard by Judge Wilkinson on appellants’ petition for a special injunction during the pendency of appeal. On February 1, 1977, said petition was denied on the ground that this Court is without authority under its appellate powers to grant interim relief pending the disposition of an appeal from an order denying the same preliminary relief in the court below. Preston v. City of Philadelphia, No. 348 C.D. 1976 (memorandum opinion filed March 11,1976).
+As it directly relates to our scope of review, the first point to be resolved is whether the appeal is one from the denial of a preliminary injunction or one from the dismissal of appellants’ complaint on the merits.
+Appellants recognize in their briefs the debatable posture of these proceedings. They urge, however, that the court below did indeed render a final decision on the merits and argne further that, in any event, we should address the merits because the court below, in their view, made clear its opinion that appellants were not likely to succeed. Accordingly, appellants have argued in this Court as if these proceedings were an appeal from the dismissal of their complaint in equity.
+Appellees, on the other hand, argue that the court below ruled only on the preliminary injunction issue but, because of appellants’ stance here, have felt constrained to also argue the merits.
+Despite the lack of clarity of the February 4, 1976 order of the court below, we believe that a review of the' record in its entirety compels the conclusion that only appellants’ prayer for preliminary relief was denied arid' appellees’ preliminary objections dismissed.
+At the hearing, Judge Hirsh, addressing appellants’ counsel, said: “You are here, sir, for a preliminary injunction, and for my sitting here as a Chancellor, I am going to have to understand what you are here for and'why you need it.” Throughout the hearing, the court and counsel addressed themselves solely to the'issue of a preliminary injunction. The memorandum opinion of Judge Hirsh frames the issue as whether a preliminary injunction should be granted and' it is in that context that Judge Hirsh discussed the applicable law. The February 4, 1976 order must be read in this context. Also, when Judge Wilkinson denied appellants ’ motion for relief pending appeal, he did so on the basis that the denial of the preliminary injunction'by-the court 'below was the issue on appeal. We would-note also that appellees’ preliminary objections having been dismissed, they have not yet been afforded an opportunity to answer appellants’ complaint' in equity.
+The posture of this ease being settled, our scope of review is narrowly limited to a determination,, following examination of the record, of whether there are any apparently reasonable grounds to support the order of the court below; Credit Alliance Corp. v. Philadelphia Minit-Man Car Wash Corp., 450 Pa. 367, 301 A.2d 816 (1973). “ [Ujnless it is clear that no reasonable grounds existed or that the rules of law relied upon are palpably wrong or. clearly inapplicable, the merits of the case or the reasons for or against the lower court’s action cannot be considered.” Mudd v. Borough of Rankin, 28 Pa. Commonwealth Ct. 33, 35, 367 A.2d 338, 339 (1976). Put another way, we may inquire only as to whether the court below committed a manifest abuse of discretion. Rush v. Airport Commercial Properties, Inc., 28 Pa. Commonwealth Ct. 51, 367 A.2d 370 (1976) (allocatur denied).
+Three criteria have been established for the.grant-, ing of a preliminary injunction, which, as a harsh and extraordinary remedy, is to be granted only when and if each criteria has been fully and completely established. Credit Alliance Corp., supra; Gillette Co. v. Master, 408 Pa. 202, 182 A.2d 734 (1962). They are: (1) the preliminary injunction must be necessary to prevent immediate and irreparable harm which could not be compensated for by damages; (2) greater injury would result from the denial of the preliminary injunction 'than from the granting of it; and (3) it would operate to restore the parties to the status quo as if existed prior to the alleged wrongful conduct. In addition to meeting all three criteria, the court must be convinced that plaintiffs’ right.to a.preliminary injunction is clear, Credit Alliance Corp., supra; Rush, supra, and general equity jurisdiction must be warranted.
+The court below made the specific finding, with which we agree, that appellants have failed to establish a showing of irreparable harm likely to be so great as* to be incapable of compensation in damages. Appellants, perhaps recognizing that an action at law to recover the fee,- if and when paid, would accomplish their purpose, have not even argued in this Court that on this point the court below committed a manifest abuse of discretion.: The first criteria not being met, whether or not the other two have been, is irrelevant. The lower court did not, therefore, manifestly abuse its discretion in denying appellants’ application for preliminary injunction. •
+Order
+Now, December 15, 1977, the order of the court below is hereby affirmed and the case is remanded to the lower, court for further proceedings on .the merits.
