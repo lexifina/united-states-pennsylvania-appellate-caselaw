@@ -1,0 +1,23 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 139"
+decided: "1926-12-10"
+citations: ["89 Pa. Super. 377"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, P. J., Henderson, Trexler, Keller, Linn, Gawthrop and Cunningham, JJ."]
+parties: ["Amorosa v. Ovelman et al., Appellant."]
+source_url: "https://static.case.law/pa-super/89/cases/0377-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 671301
+cites_cases: ["284 Pa. 3", "87 Pa. Superior Ct. 135", "87 Pa. Superior Ct. 421"]
+---
+
+# Amorosa v. Ovelman
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+This is an action for recovery of a commission by a real estate broker. The statement of claim sets forth an oral agreement to pay a commission of $100 for the services of the plaintiff in obtaining a purchaser for a piece of property which the defendants proposed to sell. The affidavit of defense denied the oral agreement but set forth a written agreement, entered into by the plaintiff, as their agent, with the purchaser, according to the terms of which the plaintiff was to receive a commission of $100 “at settlement.” No settlement was accomplished. The defendants offered to prove that it was agreed between the defendants and the plaintiff that they would sell •the property to a purchaser to be procured by the plaintiff for $6000 net to the sellers; that plaintiff stated that he would put in the 'agreement $6100 and that he would get the $100 for his services at the time of settlement, and that the prospective purchaser never went through with the settlement. On objection this offer was excluded and judgment was entered for the plaintiff, the case being disposed of on the statement of claim and affidavit of defense. The learned trial judge regarded the case as one of the ordinary engagements of a real estate agent whose compensation was earned when the agreement of sale was executed between the buyer and seller, the time of payment being postponed until the date of settlement. He further held that if the owner desired to protect himself against the payment of a commission to a broker whom he employs “concise and unequivocal language should be employed to effect such a purpose”; that where the language is susceptible of two interpretations according to the conflicting interests of the parties, or is in any wise ambiguous, the Court will not suspend the general rule of law that a broker is entitled to his commission as soon as he procures a buyer on terms acceptable to the seller. As the plaintiff acted for the defendants in procuring the contract with the purchaser and signed the agreement as agent for them, it may be assumed that the provision in the contract with reference to Commissions is his own language, and if ambiguous, is open to explanation. As there was, therefore, an express contract for payment of a commission at the occurrence of a future event and it does not appear that the happening of that event was prevented by the defendants, the cases which hold that the broker has earned his compensation when he procures a party with whom his principal is satisfied and who actually contracts for the property at a price satisfactory to the owner, do not apply: Matolicz v. Hess, 87 Pa. Superior Ct. 135. The case is to be disposed of on the agreement entered into by the parties which provided for payment “at settlement.” This was held in Kaiser v. Grossman, 87 Pa. Superior Ct. 421, in an opinion by President Judge Portee, to be at the time of actual settlement, and if the parties here agreed that payment was to be made out of the purchase money when settlement was had and this can be read into the agreement made by the parties as expressing their understanding, a good defense would be presented. If the words “at settlement” are not clear they are open to explanation by oral evidence. If they do not mean that payment is to be made when the settlement is accomplished they have little significance, for liability would arise without them to pay within a reasonable time. Oral evidence may be introduced to show the circumstances under which words ambiguous in meaning were understood by the parties to a contract: Simon v. Meyers, 284 Pa. 3. We are of the opinion, therefore, that the offer of proof eontained in the second assignment was relevant and competent to show the circumstances of the agreement and the understanding of the parties as to the use of the words “at settlement.” The second assignment is sustained and the judgment reversed with a venire de novo.
