@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 36"
+decided: "1925-04-28"
+citations: ["85 Pa. Super. 346"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, Henderson, Trexler, Keller, Linn and Gawthrop, JJ."]
+parties: ["Stone, Appellant, v. Stone."]
+source_url: "https://static.case.law/pa-super/85/cases/0346-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 665652
+---
+
+# Stone v. Stone
+
+## Majority (Gawthrop, J.,)
+
+Opinion by
+Gawthrop, J.,
+The only assignment of error in this case refers to the entering of judgment for the defendant notwithstanding the verdict. The plaintiff in his statement of claim averred that from the year 1893 to 1914 he and defendant were copartners conducting a bottling business in the City of Carbondale, Lackawanna County; that in 1908 a train, owned and operated by the New York, Ontario & Western Railway Company, ran into a sleigh driven by the defendant at a street crossing, and the defendant was injured thereby; that shortly after the accident the plaintiff and defendant agreed verbally as follows, — . “That during the disability of the defendant by reason of the injuries sustained by him as aforesaid, the plaintiff was to continue the said partnership business, and should pay out of the proceeds of said business the amount required to support and maintain the defendant and his family, as well as the bills for medical attendance and medicines, and other expenses incident to the injury, and that if a settlement or by suit, a recovery was had against the New York, Ontario & Western Railway Company, the plaintiff and defendant should each receive one-half of the amount so recovered;” that pursuant to this agreement the plaintiff continued to conduct the partnership business from the date of the entry until about one year before the filing of the suit, and during that time paid out of the proceeds of the business certain amounts made necessary by, and incidental to, the injuries sustained by the defendant on account of his inability to take part in the conduct of the business. It was further averred that the plaintiff paid counsel $1.00 in connection with the suit against the railway company and expended $250 in securing the attendance of witnesses for the trial of the case; that about one year prior to the bringing of this suit (July 16, 1915) the defendant settled with the railway company and received $5,000, but refused to pay any part thereof to the plaintiff, for one-half of which this suit is brought.
+One of the grounds upon which the court below based the entry of judgment for the defendant was that there was a fatal variance between the averments of the statement and the evidence produced at the trial. Being satisfied that that reason is amply sustained by the record, we deem it unnecessary to consider the other questions argued here.
+Beyond question, the evidence does not establish the agreement laid in the statement. There is evidence, if the jury believed it, to prove that the defendant promised to divide with the plaintiff what he recovered, half and half, although the defendant denied it. What, if anything, the plaintiff promised to do in consideration of this is not established. Therefore there is nothing but a promise by the defendant, without any consideration moving to him, to divide what he got. from the railway. Examination of the evidence discloses that at the time the defendant told the plaintiff to go ahead and hire the help that was needed to carry on the business nothing was said by the defendant about a division of the amount which the defendant might recover from the railway company. When the plaintiff was asked by his counsel what the defendant said at that time about the money which might be secured from the railway company, he answered: “Well, he didn’t say nothing then; this was later on when we went to the trial.” According to the plaintiff’s testimony, the only time the defendant spoke of the division of the amount which might be recovered from the railway company was when the defendant asked the plaintiff for $100 to pay his attorney. All that passed between the parties at that time was that the defendant asked for and got a check for that amount and, being asked by the plaintiff what he — the plaintiff— would get out of it, he assured the plaintiff that they would go half and half on what was recovered. When asked whether that was all that was said at the time the agreement was made, on which he relied, he answered : “That is all, yes.” Thus it conclusively appears that the agreement upon which the plaintiff sought to recover was not proved and when the question of variance between the allegations and the proofs'was raised in the proper manner (which we assume was done, although neither the points nor the charge are printed in the record), it would have been error to refuse to sustain the defendant’s motion for judgment n. o. v.
+The judgment is affirmed.
