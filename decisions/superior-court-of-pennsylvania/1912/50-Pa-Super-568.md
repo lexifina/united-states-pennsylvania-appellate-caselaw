@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 36"
+decided: "1912-07-18"
+citations: ["50 Pa. Super. 568"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Ordady, Head and Porter, JJ."]
+parties: ["Herler v. Pierce, Appellant."]
+source_url: "https://static.case.law/pa-super/50/cases/0568-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 428505
+cites_cases: ["104 Pa. 408", "114 Pa. 554", "134 Pa. 340", "141 Pa. 314", "144 Mass. 258", "16 Pa. Superior Ct. 276", "18 Pa. 489", "185 Pa. 12", "195 Pa. 52", "2 Dall. 58", "212 Pa. 201", "231 Pa. 325", "32 Pa. 273", "37 Pa. 130", "4 Pa. Superior Ct. 348", "53 Pa. 418", "53 Wis. 444", "91 N. Y. 83"]
+---
+
+# Herler v. Pierce
+
+## Majority (Rice, P. J.,)
+
+Opinion by
+Rice, P. J.,
+The plaintiff’s statement alleged that the defendant uttered these defamatory words: ‘“Charles Herler buys and sells No. 2 hams’ thereby meaning and intending to charge that the said Charles Herler sold hams that were inferior in quality, sour and unfit to eat, unmarketable, and which have to be sold contrary to the meat inspection law; and said term No. 2 hams is generally so understood among the trade.” Interpreting the verdict in the light of the instructions given to the jury, it implies a finding that the defendant uttered the alleged slanderous words, and that he intended them to have, and those hearing would understand and interpret them as having, the meaning ascribed to them by the innuendo. Although the evidence was conflicting, there was enough, if the jury believed the plaintiff’s witnesses, to sustain a finding that in the trade the terms used have the meaning ascribed to them. But it is argued that the alleged slanderous words are not equivocal or ambiguous, and are not actionable per se, and that an innuendo may not introduce new matter or enlarge the natural meaning of words. This statement of the scope of an innuendo means that it must not put upon defendant’s words a construction which they will not bear; but it does not mean that, if the words are susceptible of a double meaning, they must be taken in the milder sense. “If the words are incapable of the meaning ascribed to them by the innuendo, and are prima facie not actionable, the judge at the trial will stop the case. If, however, the words are capable of the meaning ascribed to them, however improbable it may appear that such was the meaning conveyed, it must be left to the jury to say whether or no they were in fact so understood:” Odgers on Libel and Slander, *p. 100. In the same connection, the learned author says that, where words prima facie are not actionable an innuendo is essential to the action; it is necessary to bring out the latent injurious meaning of the defendant’s words. It is to be borne in mind that the words are alleged to have been spoken of one engaged in the meat business, in the hearing of a dealer in meats, and, if they have the meaning peculiar to that trade ascribed to them in the innuendo, it cannot be doubted that it was competent for the plaintiff to prove that fact, and that it was the province of the jury to determine whether that was the meaning conveyed, having proper regard to the time, place and circumstances under which they were uttered. Parol evidence is always receivable to define and explain words which are purely technical or local, that is, which are not of universal use, but are familiarly known and employed, either in a particular district, or in a particular science or trade, among those who use them: 1 Greenl. on Ev., sec. 295; Newell on Libel and Slander, p. 277. Wherever the defendant’s words are capable both of a harmless and an injurious meaning, it will be a question for the jury to decide which meaning the hearers or readers would, on the occasion in question, have reasonably given to them: Odgers on Libel and Slander, *p. 112. Viewing the testimony in the light of these elementary principles, we think the court committed no error in submitting the questions, first, of the utterance of the words, and, second, of the meaning conveyed by them, to the jury. The manner in which this was done is not questioned by the assignment of error.
+It is argued that binding direction should have been given for the defendant, for the additional reason that no special damage was alleged or proved. But, as the words were spoken with special reference to the particular trade or business in which the plaintiff was engaged, and as they also charge, as found by the jury, an indictable offense involving moral turpitude and punishable by fine and imprisonment, the averment of special damage was not essential to the maintenance of the action and the .recovery of general damages: Price v. Conway, 134 Pa. 340; Meas v. Johnson, 185 Pa. 12; Leitz v. Hohman, 16 Pa. Superior Ct. 276; Holland v. Flick, 212 Pa. 201.
+We need not discuss the case further. For the reasons above suggested, taken in connection with what the learned trial judge has said in his clear and satisfactory opinion overruling the motion for a new trial, the judgment must be affirmed.
+Judgment affirmed.
