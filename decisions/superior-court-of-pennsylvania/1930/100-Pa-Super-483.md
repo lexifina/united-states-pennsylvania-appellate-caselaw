@@ -1,0 +1,42 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 240"
+decided: "1930-12-12"
+citations: ["100 Pa. Super. 483"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Linn, GIawthrop, Cunningham, Baldrige and Whitmore, JJ."]
+parties: ["Leo P. Rich, Appellant, v. G. W. Pifer Sons."]
+source_url: "https://static.case.law/pa-super/100/cases/0483-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 691295
+cites_cases: ["165 Pa. 402", "2 Pa. Superior Ct. 208", "262 Pa. 104", "27 Pa. Superior Ct. 366", "271 Pa. 536", "6 Pa. Superior Ct. 411", "73 Pa. Superior Ct. 307", "81 Pa. Superior Ct. 554", "82 Pa. Superior Ct. 563"]
+---
+
+# Rich v. G. W. Pifer Sons
+
+## Majority (Whitmore, J.,)
+
+Opinion by
+Whitmore, J.,
+This action of assumpsit was brought by one Leo P. Rich, the appellant, to recover the sum of $650, the price alleged to have been agreed upon between him and the appellee for the purchase of appellant’s second mortgage and bond against the property of Eugene D. Specht and Amelia Specht in Sandy Township, Clearfield County. The material facts are briefly as follows:
+On September 16, 1929, a telephone conversation occurred between J. H. Pifer, of Gr. W. Pifer Sons, appellee, and Miss Bella Maisel, of Anthony & Maisel, Buffalo, N. Y., attorneys for this appellant, in which said Pifer offered to purchase the mortgage and bond for $650, and Miss Maisel said she would let him .know later. On September 18, 1929, the appellant, by his said attorney, accepted the said offer conditionally, requiring immediate payment, and stating that on receipt of the said amount he would give a discharge of the mortgage. In reply to this letter, appellee wrote to the attorney on September 20th, agreeing to make payment when the mortgage was transferred to it through H. A. Moore, Esq., who had possession of it. On September 22nd, appellee withdrew its offer by telegram, and followed this by a letter on the 23d alleging substantially that the price was too high and giving reasons for their action. On September 25th, appellant’s attorney wrote to appellee insisting that it fulfill the agreement and stating that Mr. Rich “is ready and willing to transfer this mortgage to Gr. W. Pifer Sons as directed in your letter of September 20th.” Instead, however, of the appellant making the transfer as indicated, on October 25th he sent one L. W. Smiley as his agent to appellee, to. whom he presented an assignment of the bond and mortgage, properly executed, and demanded $800 or $1000. This was refused by the appellee and suit was instituted.
+Two questions are presented for our decision: (1) Did the conversation and correspondence amount to a contract binding upon all the parties; and (2) if so, was there a proper tender of performance on the part of the appellant.
+As before noted, the acceptance on the part of the appellant was conditional, requiring immediate payment, accompanied by an offer to discharge the mortgage on receipt of the money. The offer contemplated a purchase of the mortgage not a satisfaction or discharge, which would extinguish the- lien of the second mortgage upon the property. This was followed by a counter-offer on the part of the appellee to make payment when the mortgage was transferred through H. A. Moore. Whether this counter-offer was acceded to or not is immaterial since it was never performed. It is true that by letter of September 25th, insisting upon payment of the purchase money, the attorney for appellant stated that the client was ready and willing to transfer the mortgage as directed in the letter of September 20th, but instead of tendering the said assignment through H. A. Moore as directed and demanding the payment of $650, with interest from the date of acceptance, an assignment was presented on October 25th, coupled with demand for $800 or $1,000, as before noted. Here it is to be noted that up to September 22nd, there had been an offer to purchase by appellee, a conditional acceptance by the appellant, a counter-offer by appellee, which had not been accepted on the 22nd. On this latter date, the offer was withdrawn by appellee and the contractual relations between the parties were at an end, and the subsequent acceptance by appellant on September 25th would be of no avail toward reinstating the contract. We do not regard the reasons given by appellee for withdrawing the offer as of any materiality since the negotiations were terminated by telegram on September 22nd and before any binding obligation had been entered into. That the appellee had the right to terminate the negotations on September 22nd, as it did, is clearly recognized in the case of Vincent v. Oil Co., 165 Pa. 402, where the Supreme Court says in the opinion on page 409, referring to offer and acceptance: “Until it is accepted it may be withdrawn though that be at the next instant after it is made, and a subsequent acceptance will be of no avail.” This, decision was followed in Northwestern Consolidated Milling Co. v. Allebach, 82 Pa. Superior Ct. 563-567.
+Nothing is better settled than that in order to constitute a contract there must be an offer on one side and an unconditional acceptance on the other. So long as any condition is not acceded to by both parties to the contract, the dealings are mere negotiations and may be terminated at any time by either party while they are pending. There must be a meeting of minds in order to constitute a contract. This doctrine is very familiar and has been recognized many times in our Courts. In Swing v. Walker, 27 Pa. Superior Ct. 366, we said at page 372, quoting from Joseph v. Richardson, 2 Pa. Superior Ct. 208: “To constitute a- contract the acceptance of the offer must be absolute and identical with the terms of the offer. If one offers another to do a definite thing, and that other person accepts conditionally or introduces a new term into the acceptance, his answer is either a mere expression of willingness to treat or it is in effect a counter proposal.” We then stated “To bind the parties, an acceptance must be in exact conformity with the proposal. A qualified acceptance does not constitute a contract.” This was re-affirmed in Coastwise L. & S. Co. v. Stitzinger, 81 Pa. Superior Ct. 554-557, where we went even further and decided that ‘‘ as the letters show plaintiff did hot accept the terms, there was nothing to submit to the jury on the subject: Clements v. Bolster, 6 Pa. Superior Ct. 411-417; Swing v. Walker, 27 Pa. Superior Ct. 366-372; Brentwood Realty Co. v. Moses, 73 Pa. Superior Ct. 307-310; Ehrenstrom v. Hess, 262 Pa. 104-107.”
+The second question has to do with the tender of performance by the appellant. We have already said that the offer was to buy the mortgage for $650. The only testimony which shows any attempt at performance on the part of the appellant is that of L. W. Smiley, from which we quote the following:
+“Q. What did you do with that assignment of mortgage?
+A. I presented it to Gr. W. Pifer Sons.
+Q. What did you say to him?
+A. I asked him did he want to buy it—he said too much money against the property at the present time.
+Q. Did you tell him how much the purchase offer was?
+A. I think I did.
+Q. Did he pay you that sum of money?
+A. No sir.
+Q. For what sum did you offer it to him?
+A. I do not recall, believe $800 or $1,000.
+By Mr. Pentz:
+Q. You went there and was offered $800? You went there on the instance of Mr. Kramer, attorney for plaintiff in this case and following his instructions and offered the mortgage for $800?
+A. Yes sir.”
+We do not pass upon the question as to whether or not the telephone conversation did or did not constitute a contract under Section 4 of the Sales Act of May 19, 1915, P. L. 543, as it was clearly referred to for what it was worth in the subsequent correspondence. At best it amounted to no more than an offer on the part of the appellee, which was never unqualifiedly accepted by the appellant. We do' not pass upon the first assignment of error for the reason that we consider the same immaterial as there never was any controversy as to. the status of the mortgage. The second assignment is covered by what has been already said in this opinion. See also: Frick & Lindsay v. Johnstown & Somerset Ry. Co., 271 Pa. 536, cited by the learned counsel for the appellee. The assignments of error are overruled and the judgment is affirmed.
