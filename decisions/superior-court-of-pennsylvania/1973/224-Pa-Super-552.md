@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 41"
+decided: "1973-06-14"
+citations: ["224 Pa. Super. 552"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Slezynger, Appellant, v. Bischak."]
+source_url: "https://static.case.law/pa-super/224/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8861094
+cites_cases: ["150 Pa. Superior Ct. 499", "178 A. 837", "222 Pa. Superior Ct. 572", "235 A. 2d 368", "252 A. 2d 700", "28 A. 2d 813", "295 A. 2d 189", "319 Pa. 129", "427 Pa. 480", "434 Pa. 133"]
+---
+
+# Slezynger v. Bischak
+
+## Majority (Hoffman, J.,)
+
+Opinion by
+Hoffman, J.,
+In this appeal we must decide whether the lower court erred in dismissing a cause of action on the basis of lack of jurisdiction over the person of the defendant.
+This action stems from a motor vehicle accident which occurred on May 8, 1969 in Beaver County. At the time of the accident, appellant, the plaintiff below, was a resident of Allegheny County, while the defendant-appellee was a resident of Beaver County. Suit was instituted in the Court of Common Pleas of Allegheny County. Appellee was purportedly served with the Complaint through deputized service. Appellee entered an appearance and filed a Motion to Dismiss on the ground of lack of jurisdiction of the person and lack of venue in the Allegheny County court. The lower court granted appellee’s motion dismissing the case. This appeal followed.
+Before a court may determine a legal action, it must possess both subject-matter jurisdiction and jurisdiction of the person. As tort actions are transitory, all courts of common pleas have subject-matter jurisdiction to try an action arising out of a tort committed within the Commonwealth. See, Gossard v. Gossard, 319 Pa. 129, 178 A. 837 (1935); 17 P.S. §251. Jurisdiction of the person may only be obtained, however, through consent, waiver or proper service of process.
+Absent specific statutory authority, a defendant may be served in only one of two ways: (1) by service of process within the territorial limits of the issuing authority (i.e., within Allegheny county), or (2) by ex-traeounty service by deputization where suit is originally brought in the county where the cause of action accrued. Pa. R. C. P. 1009(e). Neither of those situations exists in the instant case. As such, the extra-county service of process was improper.
+The question then becomes whether the lower court properly dismissed the instant suit for lack of jurisdiction of the person. Appellant argues that such dismissal was improper, and that the court should have transferred the matter to Beaver County where service of process could properly be obtained. This, appellant argues, is provided for and mandated by the venue provisions of the Pennsylvania Rules of Civil Procedure. We agree.
+Rule 1006(a) of the Rules of Civil Procedure provides: “Except as otherwise provided . . ., an action against an individual may be brought in and only in a county in which he may be served or in which the cause of action arose or where a transaction or occurrence took place out of which the cause of action arose or in any other county authorized by law.” See also, Pa. R. C. P. 1042. This venue provision indicates that venue is proper when service of process is proper. As such, at the moment service is improperly made, venue becomes improper. Salay v. Braun, 427 Pa. 480, 235 A. 2d 368 (1967); Tyson v. Basehore, 222 Pa. Superior Ct. 572, 295 A. 2d 189 (1972), allocatur denied.
+In Tyson, supra, we affirmed the order of the lower court sustaining preliminary objections to the jurisdiction of the lower court and granting appellees’ petition to transfer the cause of action to a county having proper venue and in which service of process could be obtained. In the concurring opinion delivered by this writer, it was said that “Rule 1006(e) may be utilized whenever improper venue is established, regardless of whether a party objects on either jurisdictional or venue grounds.” 222 Pa. Superior Ct. at 578. Citing Standard Oil Co. v. Munday, 150 Pa. Superior Ct. 499, 501, 28 A. 2d 813 (1942), the concurring opinion noted in footnote 6 at 578 that “statutes regarding venue*— and the Rules of Civil Procedure have the effect of statutory enactment (Act of June 21, 1937, P. L. 1982) — deal only with the jurisdiction over the person.”
+We see no reason why our holding in Tyson, supra, should not be controlling to the instant matter. It is erroneous to conclude that a different result should obtain because defendant raised lack of jurisdiction and venue by a Motion to Dismiss and not by way of preliminary objections. Technically, a Motion to Dismiss may not be filed as a responsive pleading. Pa. R. C. P. 1017. However, it must be emphasized that mere form in the designation of pleadings in no way determines the intent and effect of the averments of parties. Pa. R. C. P. 126; 1 Geodrich-Amram §1017(b)-2. The purpose of defendant’s “Motion” was to object to the court’s jurisdiction. The effect of a lack of jurisdiction would necessarily compel the dismissal of the suit in Allegheny County. This does not mean, however, that the lower court could bar plaintiff from seeking relief altogther.
+In Nicolosi v. Fittin, 434 Pa. 133, 252 A. 2d 700 (1969), defendant objected to plaintiff’s Complaint raising only the question of personam jurisdiction. Our Supreme Court stated unequivocally at 135: “[WJhile the lower court sustained the preliminary objection raising a question of jurisdiction, it went further and dismissed the action. It should not have so done.” As Rule 1006(e) of our Rules of Civil Procedure provides : “If a preliminary objection [in whatever form it may appear] to venue [or jurisdiction of the person] is sustained and there is a county of proper venue within the State the action shall not he dismissed bnt shall he transferred to the appropriate court of that county.” (Parenthetical comments added).
+Therefore, the order of the lower court dismissing plaintiff’s cause of action is reversed, and the court is directed to transfer the case to Beaver County.
