@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "695 C.D. 1994"
+decided: "1994-09-02"
+citations: ["167 Pa. Commw. 290", "647 A.2d 994"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DOYLE and KELLEY, JJ., and NARICK, Senior Judge."]
+parties: ["The BOROUGH OF FOLCROFT, Petitioner, v. WORKMEN’S COMPENSATION APPEAL BOARD (ORSINE), Respondent."]
+source_url: "https://static.case.law/pa-commw/167/cases/0290-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1466747
+cites_cases: ["134 Pa.Commonwealth Ct. 573", "305 A.2d 757", "508 Pa. 360", "9 Pa.Commonwealth Ct. 176"]
+---
+
+# Borough of Folcroft v. Workmen's Compensation Appeal Board
+
+## Majority (NARICK, Senior Judge.)
+
+NARICK, Senior Judge.
+The Borough of Folcroft (Borough) appeals from the order of the Workmen’s Compensation Appeal Board (WCAB) that affirmed the referee’s grant of benefits to Louis Orsine (Claimant). We affirm.
+For the past sixteen years, Claimant worked for the Borough as a police officer. On February 12,1991, and on several other occasions following that date, Claimant experienced a series of episodes of chest pain (angina) stimulated by stressful activities as a police officer. Claimant reported at least two of these incidences of angina to his supervising officer. On April 10, 1991, Claimant suffered a myocardial infarction while at home.
+Claimant filed for workmen’s compensation benefits which the Borough contested. At a hearing before the referee, Claimant testified, as well as his treating physician, John D. Blannett, M.D., a cardiologist; John Helwig, M.D., testified for the Borough. Both physicians agreed that the episodes of angina experienced by Claimant between February 1991 and April 1991, were directly related to his employment. The referee credited Dr. Blannett’s testimony that Claimant’s employment precipitated his symptoms of angina causing his disability. The referee also credited Dr. Helwig’s testimony to the extent that it corroborated Dr. Blannett’s testimony; in all other respects, the referee found Dr. Helwig’s testimony not to be credible or persuasive. The WCAB affirmed.
+On appeal to this Court, the Borough contends that: (1) no substantial evidence exists to support the finding that Claimant’s disability was caused by, related to and/or aggravated by his work activities; (2) Claimant failed to provide adequate notice to the Borough as required by The Pennsylvania Workmen’s Compensation Act (Act), Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §§ 1-1031; and (3) the WCAB erred in holding that the Borough should be obligated to pay for medical treatment related to Claimant’s pre-existing medical condition.
+First, the Borough asserts that Claimant’s disability was not caused by, related to or aggravated by his employment. The Borough contends that the myocardial infarction, caused by pre-existing arteriosclerosis, created Claimant’s disability and not the work-related angina. However, the referee found Claimant’s disability was caused by the work-related angina, even though Claimant suffered from a pre-existing condition. We do not agree with the Borough’s argument.
+In Borough of Media v. Workmen’s Compensation Appeal Board (Dorsey), 134 Pa.Commonwealth Ct. 573, 577, 580 A.2d 431, 433 (1990), we held that:
+We have made it clear that even if the underlying disease which affects claimant’s heart is not caused by claimant’s employment, a claimant is not disqualified if work-related exertion causes the victim of such conditions to have a heart attack or suffer other disabling symptoms which may result from the heart disease. (Citations omitted, emphasis in original).
+Such is precisely the issue presented here. Both expert witnesses unequivocally testified and agreed that Claimant’s episodes of angina were precipitated by the physical and emotional stress and exertion related to his employment. Dr. Blannett specifically testified that these symptoms caused Claimant’s disability and would have done so regardless of the fact that Claimant also suffered a myocardial infarction. Because the referee is the ultimate fact-finder, Universal Cyclops Steel Corp. v. Krawczynski, 9 Pa.Commonwealth Ct. 176, 305 A.2d 757 (1973), and because Dr. Blannett’s testimony serves as substantial evidence to support the referee’s findings, Lewis v. Workmen’s Compensation Appeal Board (Pittsburgh Board of Education), 508 Pa. 360, 498 A.2d 800 (1985), we hold that the WCAB did not err in holding that Claimant’s angina conditions were disabling.
+Next, the Borough asserts that Claimant failed to give timely notice because he sustained the myocardial infarction on April 10, 1991, and did not provide notice to the Borough until July 10, 1991, beyond the twenty-one day time limitation set forth in Section 311 of the Act, 77 P.S. § 631. However, the referee found that it was the episodes of angina and not the myocardial infarction that caused the disability. Because the actual disabling condition, i.e., angina symptoms, were timely reported, we hold that Claimant gave timely notice to the Borough.
+The Borough also challenges the medical charges for services related to Claimant’s pre-existing condition. Both experts agreed that all medical services were reasonable and necessary for treatment of Claimant. (134a-135a, 222a). The course of treatment undertaken, including restriction from work activity, was necessitated by the existence of work-related angina symptoms and required to re-condition Claimant’s heart. The record is replete with testimony that the treatment and work restrictions would have been required even if Claimant would not have suffered a myocardial infarction. Because the referee and the WCAB held that Claimant’s disability was work-related and that the same course of treatment would have been recommended and followed had he presented himself to a cardiologist prior to the onset of the myocardial infarction, we are not persuaded by the Borough’s argument on this point.
+Accordingly, we affirm.
+ORDER
+AND NOW, this 2nd day of September, 1994, the order of the Workmen’s Compensation Appeal Board in the above-captioned matter is hereby affirmed.
+. Our scope of review is limited to a determination of whether constitutional rights were violated, an error of law was committed or whether necessary findings of fact are supported by substantial competent evidence. 2 Pa.C.S. § 704.
