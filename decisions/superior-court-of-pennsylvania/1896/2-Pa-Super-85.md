@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 26"
+decided: "1896-07-16"
+citations: ["2 Pa. Super. 85"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Willard, Beaver, Reeder, Orlady and Smith, JJ."]
+parties: ["Amy Swanson, by her Next Friend and Father, C. A. Swanson, v. Charles Crandall and Martha Crandall, Appellants."]
+source_url: "https://static.case.law/pa-super/2/cases/0085-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 270681
+cites_cases: ["1 Denio, 175", "112 Pa. 414", "117 Pa. 390", "13 Kan. 261", "14 Mich. 233", "149 Pa. 222", "152 Pa. 355", "156 Pa. 410", "16 Me. 362", "160 Pa. 359", "160 Pa. 365", "172 Pa. 646", "20 Pa. 171", "24 Mo. 219", "37 Tex. 406", "59 Ill. 51", "60 Wis. 511", "62 Pa. 353", "66 Cal. 368", "74 Pa. 316", "85 Pa. 293", "94 U. S. 475", "99 Pa. 1"]
+---
+
+# Swanson v. Crandall
+
+## Majority (Orlady, J.,)
+
+Opinion by
+Orlady, J.,
+(after stating the facts as above):
+The doctrine of proximate and remote cause has been decided in a great variety of cases. One of the most valuable of the criteria furnished by the authorities, is to ascertain whether any new cause has intervened between the fact accomplished and the alleged cause. If a new force or power, has-intervened of its elf, ^sufficient to stand as the cause of themnisfortune, the other-must-be-considered as too remote.: L. Mut. Ins. Co. v. Tweed, 7 Wall. (U. S.) 44-53.
+If two distinct causes are operating at the same time to produce a given result which might be produced by either, they are concurring causes. They run together as the word signifies to the same end. But if two distinct causes are successive and unrelated in their operation, they cannot be concurring. One of them must be the proximate and the other the remote cause. When they stand in this relation to each other and the result to be considered, the law regards the proximate as the efficient and responsible cause, and disregards the remote: Herr v. City of Lebanon, 149 Pa. 222.
+In determining what is proximate cause, the true rule is, that the injury must_be the natural and probable consequence of the negligencesuch a consequence as under the surrounding circumstances of the case might and ought to be foreseen by the wqngdbePas likely to flow from his act: Hoag v. The Railroad Co., 85 Pa. 293; Pass. Ry. Co. v. Trich, 117 Pa. 390; Railway Co. v. Kellogg, 94 U. S. 475.
+The natural consequence of an act is the consequence which ordinarily flows from it — the result which may reasonably be anticipated from it. The probable consequence is one that is more likely to follow the supposed cause than it is to fail to follow it: C. St. P. M. & O. Ry. v. Elliott, 5 (U. S.) C. C. A. 347.
+The evidence in the case shows that a loaded revolver was kept in the Crandall home, in an upper drawer of a chiffonier, which was used exclusively by the head of the family, and in his absence from the room, while the wife was in bed with her face averted, a five year old child in quest of play, discovered and accidently discharged it to the plaintiff’s injury. Can it be said that the injury was the natural and probable result of placing the revolver in the place as alleged by the plaintiff ?
+It was not a natural consequence, nor is there any reason for saying it would be a probable consequence. The utmost that can be said would be that such a consequence might possibly happen. But things or results which are only possible cannot be spoken of as either probable or natural. For the latter are those things or events which are likely to happen and for that reason should be foreseen. Things which are possible may never happen, but those which are natural or probable are those which do happen and happen with such frequency or regularity as to become a matter of definite inference. To impose such a standard of care as requires, in the ordinary affairs of life, precaution on the part of individuals against all the possibilities which may occur, is establishing a degree of responsibility quite beyond any legal limitations which have yet been declared: Pass. Ry. Co. v. Trich, supra. If the precautions .taken in this case to keep a proper weapon, admittedly of a dangerous character where it would be safe and convenient of access in time of emergency were not sufficient, it might be gravely doubted if such a weapon could be kept anywhere on the premises to be at all times secure from the infantile marauder.
+There was no dispute as to the material facts. The slight difference between Miss Swanson and Mrs. Crandall as to the revolver being handled the previous day would not change the result. The plaintiff did not pretend to say she knew where the child got the revolver the day of the accident. There was no proof as to that fact. All parties inferred it was taken from the drawer in which Mr. Crandall had placed it several days before. Negligence must be proved. When the uncontradicted evidence does not warrant the jury in inferring negligence as the proximate cause of an injury, the court should direct a verdict for the defendant: Behling v. Pipe Lines, 160 Pa. 359; Scott v. A. V. Ry. Co., 172 Pa. 646.
+As placed by Mr. Crandall the revolver was perfectly harmless, and, save for the intervention of baby fingers, would not have caused the injury. Its discovery by the child could not have been reasonably anticipated by him. He was not present at the time of the accident. The wife was not negligent in giving the care of Evelyn to the nurse girl, and had the right to expect that attention would be so given as to prevent injury to either child. In the moment of time following the dressing of the little girl, the plaintiff could not be charged with contributory negligence in its legal sense. The unfortunate occurrence was an event which resulted undesignedly and unexpectedly, and which, could not have been reasonably anticipated as a usual and natural result.
+The injury to the plaintiff was caused by a mere child, without the knowledge of its parents, not induced by negligence of either, without advantage to or ratification by them, and for which under the authorities there is no liability on their part: 17 Am. & Eng. Ency. of Law, 392 and notes; Hower v. Ulrich, 156 Pa. 410; Hagerty v. Powers, 66 Cal. 368; 56 Am. Repts. 100; Smith v. Davenport, 23 Am. Repts. 737; Haverson v. Noker, 50 Am. Repts. 383.
+The second and third assignments of error are sustained, which disposes of the case. The court should have directed a verdict for the defendant. The judgment is reversed. The costs to be paid by the appellee.
