@@ -1,0 +1,31 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2187 C.D. 1982"
+decided: "1984-09-21"
+citations: ["85 Pa. Commw. 211"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Williams, Jr., Doyle and Palladino, sitting as a panel of three."]
+parties: ["Carol Lines, Inc. Petitioner v. Pennsylvania Public Utility Commission, Respondent."]
+source_url: "https://static.case.law/pa-commw/85/cases/0211-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1325336
+cites_cases: ["1 Pa. Code §31.13", "1 Pa. Code §33.33", "214 A.2d 203", "419 Pa. 363", "480 A.2d 1253", "52 Pa. Code §3.1", "83 Pa. Commonwealth Ct. 379", "85 Pa. Commonwealth Ct. 61"]
+---
+
+# Carol Lines, Inc. v. Pennsylvania Public Utility Commission
+
+## Majority (Judge Doyle,)
+
+Opinion by
+Judge Doyle,
+Before this Court is an appeal by Carol Lines, Inc. (Petitioner) from a decision of the Pennsylvania Public Utility Commission (PUC) dismissing as untimely Petitioner’s appeal of a grant of passenger bus carrier rights to Ashbourne Transportation, Inc. (Ashbourne). We affirm.
+On May 25, 1982, an administrative law judge of the PUC issued a decision granting Ashbonrne passenger bus carrier rights in the Philadelphia metropolitan area, despite opposition thereto by Petitioner. Exceptions to this decision were filed by Petitioner. They were denied on July 15, 1982 and a copy of the ruling was sent to Petitioner’s counsel. Petitioner then filed an appeal with the PUC which was received on August 2,1982. On August 11,1982 that appeal was dismissed as untimely. An appeal to this Court was filed on September 3, 1982.
+Pursuant to Section 332(h) of the Public Utility Code (Code), 66 Pa. C. S. §332(h), an administrative law judge’s ruling on exceptions becomes final, without further PUC action, unless an appeal is taken by one of the parties within fifteen days of its issuance. The date of issuance of a ruling is the date it is mailed to the party so long as, as in the case at bar, such is clearly indicated on the ruling itself. Section 31.13 of the General Rules of Administrative Practice and Procedure, 1 Pa. Code §31.13. And, an appeal is deemed filed on the date it is actually received by the PUC. See Section 31.11 of the General Rules of Administration Practice and Procedure, 1 Pa. Code, §31.11. The parties herein agree that the administrative law judge’s ruling on the subject exceptions was issued on July 15, 1982. It is also agreed that Petitioner’s appeal therefrom was mailed on July 30, 1982 and received by the PUC on August 2, 1982. Hence, the appeal was indeed untimely. The PUC, however, is granted a limited degree of discretion insofar as whether an appeal should be dismissed for untimeliness. Section 332(h) of the Code provides that if within fifteen days' two or more commissioners request that the PUC review the matter regardless of its untimely filing, then proper review may be had for a period of ninety days. Whether such a request is made is clearly a matter within the discretion of the PUC’s individual commissioners. No such request was made herein and Petitioner has not substantiated any facts to this Court, such as fraud or improper influence, that would permit a conclusion that there was an abuse of discretion by the commissioners. Accordingly, the dismissal of Petitioner’s appeal as untimely must be affirmed. Moreover, as Petitioner has failed to preserve its appeal rights through the required exercise of available administrative remedies, this Court is not free to address the merits of its appeal. Borough of Ridgway v. Pennsylvania Public Utility Commission, 83 Pa. Commonwealth Ct. 379, 480 A.2d 1253 (1984).
+Order
+Now, September 21, 1984, the decision and order of the Pennsylvania Public Utility Commission in the above captioned matter, dated August 11,1982, is hereby affirmed.
+The PUC filed a motion to quash the appeal to this Court as untimely which was denied. Carol Lines, Inc. v. Pennsylvania Public Utility Commission (No. 2187 C.D. 1982, filed November 19, 1982). The issue before this Court now is whether the PUC’s dismissal of Petitioner’s appeal as untimely was correct.
+The rules and regulations governing practice and procedure before the PUC do not contain provisions regarding the timeliness of filings and the date of issuance of order for agency purposes and, hence, Sections 31.11 and 31.13 of the General Rules of Administrative Practice and Procedure are controlling for these purposes. 52 Pa. Code §3.1.
+Petitioner does assert that there was “fraud” sufficient to vitiate the untimely filing because the administrative law judge’s ruling on the exceptions was mailed to counsel for Petitioner but not Petitioner itself as a party. Serving only Petitioner’s counsel was proper and affords Petitioner no grounds for relief. Section 33.33 of the General Rules of Administrative Practice and Procedure, 1 Pa. Code §33.33.
+This is so even though the crux of Petitioner’s appeal is that the PUC was without subject matter jurisdiction to grant Ashbourne’s application because it involved passenger bus service in the metropolitan Philadelphia area and, pursuant to the Pennsylvania Urban Mass Transportation Law, Act of January 22, 1968, P.L. 42, as amended, 55 P.S. §§600.101-600.407, jurisdiction over the application therefore rested solely with the Southeastern Pennsylvania Transportation Authority. The fact that the issue of subject matter jurisdiction cannot be waived and may be raised at any time during a proceeding, even by the tribunal sua sponte, Commonwealth v. Yorktowne Paper Mills, Inc., 419 Pa. 363, 214 A.2d 203 (1965), can not, contrary to Petitioner’s assertions, be used to defeat filing deadlines. The addressing of any issue, including jurisdiction, is contingent on the matter being placed before a tribunal in a timely and proper fashion. We will, however, note that the precise jurisdictional issue herein was raised by, and resolved against, Petitioner in this Court’s recent decision in Carol Lines, Inc. v. Pennsylvania Public Utility Commission, 85 Pa. Commonwealth Ct. 61, A.2d (1984).
