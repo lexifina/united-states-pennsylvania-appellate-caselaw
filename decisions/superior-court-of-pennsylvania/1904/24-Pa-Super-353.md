@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 12"
+decided: "1904-03-14"
+citations: ["24 Pa. Super. 353"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Smith, Porter, Morrison and Henderson, JJ."]
+parties: ["Ephrata Water Company, Appellant, v. Ephrata Borough."]
+source_url: "https://static.case.law/pa-super/24/cases/0353-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 849873
+cites_cases: ["16 Pa. Superior Ct. 484", "20 Pa. Superior Ct. 149"]
+---
+
+# Ephrata Water Co. v. Ephrata Borough
+
+## Majority (Beaver, J.,)
+
+Opinion by
+Beaver, J.,
+This case has been twice previously considered by this court, 16 Pa. Superior Ct. 484, and 20 Pa. Superior Ct. 149. When it was last here complaint was made of the attitude assumed by the court below towards a proposition made by the plaintiff to the defendant for a lowering of the rates provided for in its original contract. As was said by the court below in that trial: This proposition was embodied into an ordinance and was passed by the borough council. It failed, however, to be carried out, by reason of the veto of the burgess and the inability of councils to pass the same over that veto. It was then that the water company fell back, on the old agreement, and is now here attempting to recover the original price..... We think that, they having treated that agreement, as dead, they cannot in this way instill it with life.”
+This court said, in reference to that position: “ Where a party to a contract or transaction induces another to act upon the reasonable belief that he will waive certain rights or terms, he will be estopped to insist upon such rights or terms to the injury of the one misled by his conduct; but it does not Appear in this case that the defendant was misled into any action in consequence of the' proposition submitted by the plaintiff. There is only the bare fact of an offer to enter into a new contract upon the same terms as the old, except as to the price, which was not accepted. The motive of the plaintiff may have been to avoid the litigation that would probably ensue if the offer of the rival company was accepted. This supposition is quite as probable as any that can be made. At any rate, its offer did not create an estoppel nor operate as a rescission of the original contract or as an abandonment of all claims thereunder. The utmost that can be claimed for it is that it was in effect an offer to rescind the old contract and relinquish all rights under it, if the borough would enter into the proposed new contract. Possibly it would have been evidence upon the question whether there was a mutual rescission but, standing alone, it would not establish that fact.”
+The court below, in attempting to give effect to the language of President Judge Rice in the quotation which has just been made, not only received in evidence the offer made by the plaintiff company to reduce its rates, notwithstanding the fact that it contained no offer to follow with other evidence what was said by us to be not sufficient standing alone to establish the fact of rescission; but, although quoting our language, left the question of mutual rescission to the jury in various ways. The case had been tried before. The counsel for the defendant was familiar with the evidence regarding rescission and his offer in relation thereto should have embraced the whole case. Under these circumstances, we do not think the offers which were objected to and the admission of which constitutes the first, second, third and fourth specifications of error should have been admitted; but, having been admitted, when the evidence was all in, the jury should have been told that it was insufficient to establish a rescission of the contract. We, therefore, sustain the first, second, third and fourth specifications which, although objected to as- not being within our rules, were subsequently amended so as to obviate the objection, and also the fifth, sixth, seventh and eighth assignments relating to the parts of the charge which practically leave the question of the rescission of the contract an open one for the consideration of the jury.
+We can see no error in the rejection of the evidence as to the condition of the reservoir and the sufficiency of the water supply at any time subsequent to the period during which the contract price for the fire plug service is sought to be recovered in this case.
+As to the admission of the testimony of the witness Dechant, complained of in the seventeenth assignment of error, the ground of objection is not stated. If it had been distinctly stated that only a portion of the population used the water of the plaintiff and that the testimony of the witness must be confined to the population thus supplied, we think that objection would have been good; but, as we understand the assignment, such an objection was not made and we cannot say that, in its absence, there was error in admitting the testimony.
+If the plaintiff desired more specific instruction as to the right of the plaintiff to recover for the period when the reservoir was full or for the water which was used by the borough, it should have been asked for at the time and the attention of the court should also have been called to any omission of which the plaintiff now complains.
+Without considering the assignments of error more in detail or going more fully into the case, inasmuch as it has been very thoroughly discussed heretofore, we think the court should have said to the jury, as was plainly stated in our opinion when the case was last here, that the evidence in regard to rescission was not sufficient to establish the fact and that that portion of the case was, for that reason, withdrawn from their consideration. The judgment is, therefore, reversed and a hew venire awarded.
