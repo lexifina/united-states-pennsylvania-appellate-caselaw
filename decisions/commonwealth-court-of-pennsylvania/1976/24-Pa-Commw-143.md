@@ -1,0 +1,33 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 882 C.D. 1975"
+decided: "1976-03-28"
+citations: ["24 Pa. Commw. 143"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Kramer and Rogers, sitting as a panel of three."]
+parties: ["Unemployment Compensation Board of Review of the Commonwealth of Pennsylvania v. Nelson DeVictoria, Appellant."]
+source_url: "https://static.case.law/pa-commw/24/cases/0143-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1873488
+cites_cases: ["10 Pa. Commonwealth Ct. 275", "14 Pa. Commonwealth Ct. 546", "17 Pa. Commonwealth Ct. 45", "20 Pa. Commonwealth Ct. 545", "23 Pa. Commonwealth Ct. 7", "305 A.2d 728", "310 A.2d 707", "322 A.2d 746", "331 A.2d 226", "342 A.2d 148", "349 A.2d 925", "9 Pa. Commonwealth Ct. 149"]
+---
+
+# Unemployment Compensation Board of Review v. DeVictoria
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+This is a claimant’s appeal from the decision of the Unemployment Compensation Appeal Board dismissing his appeal from a Bureau of Employment Security determination of ineligibility. The Board dismissed the appeal on the ground that it was untimely filed. We affirm.
+The. appellant, Nelson DeVictoria, was discharged from his employment on or about October 2, 1973. He filed an application for unemployment compensation benefits with the Bureau of Employment Security on November 4, 1973. On November 30, 1973, a “Notice of Determination” was mailed to the appellant informing him that he was disqualified from receiving benefits because his discharge was for wilful misconduct. On December 21, 1973, the appellant filed an appeal from that determination. His appeal was denied as untimely by the Bureau and Board. On appeal to this Court the case was by agreement of the parties remanded to the Board for the talcing of additional testimony. The Board appointed a referee who took evidence which was simply repetitive of that produced at the first hearing. On June 2, 1975, the Board again found as a fact that the appellant had not been misinformed or misled regarding his right of appeal and concluded as a matter of law the appeal failed for lack of timeliness under Section 501(e) of the Unemployment Compensation Law, Act of December 5, 1936, Second Ex. Sess. P.L. [1937] 2897, as amended, 43 P.S. §821 (e).
+Section 501(e) provides in pertinent part:
+“Unless the claimant . . . files an appeal with the board, from the determination contained in any notice . . . within ten (10) calendar days after such notice . . . was mailed to his last known post office address . . . such determination of the department, with respect to the particular facts set forth in such notice, shall be final____”
+The cases hold that the statutory time limit for filing an appeal is mandatory in the absence of fraud or manifestly wrongful or negligent conduct by the administrative agency. See Unemployment Compensation Board of Review v. Duffy, 23 Pa. Commonwealth Ct. 7, 349 A.2d 925 (1976); Unemployment Compensation Board of Review v. Dunofsky, 20 Pa. Commonwealth Ct. 545, 342 A.2d 148 (1975); and Kitchell v. Unemployment Compensation Board of Review, 9 Pa. Commonwealth Ct. 149, 305 A.2d 728 (1973) and cases cited therein.
+The appellant testified that he had appeared at the Bureau office on November 30, 1973, to sign up for his checks, that an employe of the Bureau told him to return on December 21, 1973, and that relying on this advice he did not return to the Bureau or do anything else until that date.
+In the meantime, in another section of the Bureau, the determination was made that the appellant was ineligible for benefits, and notice of that determination was mailed to him on November 30, 1973 — the same day on which appellant had appeared at the Bureau offices to sign for checks. The notice of determination was properly endorsed with notice that the appellant had ten days to file an appeal from the determination.
+The claimant had the burden to establish that fraud or its equivalent caused his failure to appeal on time. Our scope of review, after a finding against the party with the burden, is limited to a determination of whether or not the Board’s findings of fact are consistent with each other and with its conclusion of law and order and whether they can be sustained without a capricious disregard of competent evidence. Crumbling v. Unemploy merit Compensation Board of Review, 14 Pa. Commonwealth Ct. 546, 322 A.2d 746 (1974). Credibility of a witness and the weight given his testimony are matters for the compensation authorities, who are not required to accept even uncontroverted testimony as true. Edelman v. Unemployment Compensation Board of Review, 10 Pa. Commonwealth Ct. 275, 310 A.2d 707 (1973). The Board chose to disbelieve appellant’s testimony and we are unable to find that, in doing so, the Board capriciously disregarded competent evidence. Indeed, two evidentiary matters substantially support the Board’s finding that the Bureau was not at fault. A Bureau representative testified, that the employe who attended the appellant’s business of signing for checks on November 30, 1973 would not have known of the appellant’s disqualification decided on by persons in another section on the same day, and a friend of the appellant who attended the first hearing to assist him as an interpretor testified that the appellant showed him the November 30, 1973 notice of determination when received and that he pointed out to the appellant the notice concerning appeal and advised him to act on it.
+The appellant’s disqualification by the Bureau was based on information from his employer provided in November, 1973 that the appellant was discharged for excessive absenteeism. In May 1974, the employer wrote to the Bureau that he would like to “take back” his objection to appellant’s receiving compensation. The appellant’s contention that the employer’s change of heart should afford him the right to a new determination despite his failure to appeal timely from the first, is without merit. The ten day appeal requirement is mandatory and jurisdictional, Mercado v. Unemployment Compensation Board of Review, 17 Pa. Commonwealth Ct. 45, 331 A.2d 226 (1975), and the appellant’s unexcused failure to appeal from the determination of ineligibility made November 30,1973 was conclusive.
+Order
+And Now, this 23rd day of March, 1976, the decision of the Unemployment Compensation Board of Review, dated June 2, 1975, dismissing the appeal of Nelson DeVictoria, is affirmed.
