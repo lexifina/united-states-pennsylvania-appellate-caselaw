@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 10"
+decided: "1954-03-16"
+citations: ["175 Pa. Super. 369"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Ross, Gunther, Wright and Woodside, JJ. (Reno, J., absent)."]
+parties: ["Pennsylvania Threshermen and Farmers' Mutual Casualty Insurance Company v. Barco, Appellant."]
+source_url: "https://static.case.law/pa-super/175/cases/0369-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 720702
+cites_cases: ["163 A. 531", "166 Pa. Superior Ct. 233", "309 Pa. 287", "70 A. 2d 672"]
+---
+
+# Pennsylvania Threshermen & Farmers' Mutual Casualty Insurance v. Barco
+
+## Majority (Gunther, J.,)
+
+Opinion by
+Gunther, J.,
+On May 18, 1945, Claude E. Bucksbee while operating a truck for his employer, the Crawford Beverage Company of Meadville, was involved in an accident with a truck owned by the Hull Resurfacing Company. He suffered severe injuries which resulted in his death on August 3, 1945, leaving to survive him a widow and two minor children. On October 5, 1945, the appellee, Pennsylvania Threshermen and Farmers’ Mutual Casualty Insurance Company, insurer for Bucksbee’s employer, entered into a compensation agreement with the widow, Veronica Bucksbee, for $7,024.15. Before his death, Bucksbee employed appellant, George J. Barco, an attorney of Crawford County, to pursue' his claim against the Hull Resurfacing Compkny. When Bucksbee died, George J. Barco also became the attorney for the widow and minor children in their action for wrongful death for-a fee of 25%. The suit was settled for $20,000. After the settlement;- appellant' filed a petition with the compensation authorities claiming as his fee 25% of $7,024.15. The total compensation actually paid to Mrs. Bueksbee was $2,045.50. The appellee, therefore contends that it is liable only for 25% of the amount of compensation actually paid by it, and not for 25% of $7,024.15.
+Proceedings for declaratory judgment were instituted to recover the sum of $1,244.66; this is the difference between $1,756.03, the amount claimed, and $551.37, which is 25% of $2,045.50.
+The question to be decided involves the interpretation of the provisions of the Workmen’s Compensation Act relating to the subrogation of an employer to the right of a deceased employe’s dependents or personal representative against a third party tortfeasor. Section 319 of the Act of June 2, 1915, P. L. 736, 77 PS §671, provided: “Where a third person is liable to the employe or the dependents for the injury or death, the employer shall be subrogated to the right of the employe or the dependents against such third person, but only to the extent of the compensation payable under this article by the employer. Any recovery against such third person in excess of the compensation theretofore paid by the employer shall be paid forthwith to the employe or to the dependents, and shall be treated as an advance payment by the employer on account of any future instalments of compensation.” This section was subsequently amended in 1945 to read as follows: “Where the compensable injury is caused in whole or in part by the act or omission of a third party, the employer shall be subrogated to the right of the employe, his personal representative, his estate or his dependents, against such third .party for the balance of any sum recovered in litigation, or paid in compromise settlement, after subtraction of reasonable attorney’s fees and other proper disbursements, but only to the extent of the compensation payable under this article by the employer. Any recovery against such third person in excess of the compensation theretofore paid by the employer shall be paid forthwith to the employe or to the dependents, and shall be treated as an advance payment by the employer on account of any future installments of compensation.”
+The effective date of the amendment was July 1, 1945, which is prior to Bueksbee’s death and prior to the date of the compensation agreement. In Kratsas v. Guest, 166 Pa. Superior Ct. 233, 70 A. 2d 672, the Superior Court stated: “The precise question was first before the courts in Ellis v. Atlantic Refining Co., 309 Pa. 287, 163 A. 531, on appeal from a decision of the Court of Common Pleas of Allegheny County. The Supreme Court affirmed in a Per Curiam opinion, the gist of which was that ‘the expenses of the action must be first deducted from the verdict, after which the employer is entitled to receive, from the balance, the amount of compensation already paid, and be relieved from future payments, when as here, the fund is sufficient to pay all these amounts and leave a substantial sum to plaintiff.’ ” In Kratsas v. Guest, supra, the employe recovered a verdict for personal injuries in the sum of $3500; he also received compensation in the amount of $679. The employer claimed that it was entitled to reimbursement for the entire sum paid, i.e. $679, but plaintiff contended that a proportionate share of the attorney’s fee should be charged against $679. The court, however, held that the employer was entitled to full reimbursement under the 1945 amendment.
+The appellant in this case contends that the 1945 amendment does not apply since that was not the law at the time of the accident: It must be kept in mind that Bucksbee’s death did not occur and the cause of action for wrongful death did not accrue until after the effective date of the amendment. Under the Kratsas decision, supra, the employer was entitled to reimbursement in full without any deduction for fees on the amount of compensation paid.
+We agree with the opinion of Judge Mook that the appellee cannot be charged with more than its proportionate share of attorney’s fees which is based upon the sum actually paid and not upon the sum stated in the agreement.
+Judgment affirmed.
