@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1854 C.D. 1981"
+decided: "1982-10-25"
+citations: ["69 Pa. Commw. 442"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Ceumlish, Je. and Judges Rogues and MaoPhail, sitting as a .panel of three."]
+parties: ["Michael R. Sabarese v. Tax Claim Bureau of Monroe County et al. Robert E. Plank, Kenneth E. Plank and Howard D. Boyd, Jr., Appellants."]
+source_url: "https://static.case.law/pa-commw/69/cases/0442-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8732575
+cites_cases: ["2 Pa. Commonwealth Ct. 408", "208 Pa. Superior Ct. 384", "222 A.2d 602", "278 A.2d 172", "31 Pa. Commonwealth Ct. 505", "377 A.2d 826", "39 Pa. Commonwealth Ct. 492", "395 A.2d 703", "404 A.2d 437", "44 Pa. Commonwealth Ct. 439"]
+---
+
+# Sabarese v. Tax Claim Bureau of Monroe County
+
+## Majority (Judge Rogers,)
+
+OplntoN by
+Judge Rogers,
+Tbis is an appeal by Robert E. Plank, Kenneth E. Plank and Howard D. Boyd, Jr. (Appellants) from a decision and order of the Court of Common Pleas of the Forty-Third Judicial District setting aside as invalid a tax sale to Appellants of property owned by Michael R. Sabarese (Appellee). We affirm.
+The facts in this case are undisputed. The property at issue herein is located in Chestnuthill Township in Monroe County and was purchased by Appellee in 1972. The deed as recorded indicated Appellee’s address as being 122 Marcellus Place, Garfield, New Jersey, which is the location of his professional office. At some point the Tax Claim Bureau of Monroe County obtained Appellee’s home address which was 280 Kingston Road, Lake Parsippany, New Jersey. Beginning in 1974, it was to this address that Appellee’s tax bills were sent. Appellee p'aid Ms taxes in full in both 1974 and 1975. In June, 1975, however, Appellee moved from the 280 Kingston Road address to 11 Maple Avenue, Madison, New Jersey. As a result of this move, Appellee, while receiving the bill for his county and township taxes, did not receive his 1976 school tax bill, despite the fact that in paying his county and township taxes he circled in red the 11 Maple Avenue address as printed on his check and included a note to the tax collector indicating the address change.
+Appellee’s failure to pay his 1976 school taxes led the Tax Claim Bureau to sell the Chestnuthill property to Appellants ¡at a tax sale on September 18, 1978. Prior to that date, two notices of the impending sale were sent to Appellee by the Tax Claim Bureau. Both notices were sent by certified mail to the 280 Kingston Road address. The first, dated July 1, 1977 was returned “moved, address unknown” and the second, dated August 15, 1978 was returned “moved over one year.” Neither notice was sent “personal addressee only.” Appellee did not learn of the tax sale until 1980 when he contacted the Tax Claim Bureau after Ms accountant brought it to Ms attention that be bad not paid any taxes on tbe ChestnutMll property since 1976.
+On petition by Appellee, tbe common pleas court invalidated tbe tax sale on tbe grounds that tbe tax sale notices were not marked “personal addressee only” and therefore did not comply with tbe requirements of Section 602 of tbe Real Estate Tax Sale Law (Law), Act of July 7, 1947, P.L. 1368, as amended, 72 P.S. §5860.602 and that Appellee’s indication to the tax collector of Ms change of address sufficed to constitute notice to tbe Tax Claim Bureau such that tbe notices of tbe tax sale should have been sent to tbe 11 Maple Avenue address.
+Before this Court, Appellants contend that tbe common pleas court erred in invalidating tbe tax sale based on tbe failure of the Tax Claim Bureau to send tbe notices of tbe tax sale “personal addressee only” because Appellee would not have received tbe notices anyway and tbe error is therefore immaterial. Appellants also contest tbe trial court’s bolding that, because of Appellee’s notice to tbe tax collector of bis new address, tbe Tax Claim Bureau sent tbe notices of tbe tax sale to tbe incorrect address. Tbe bases for tMs challenge are the absence of any indication of tbe 11 Maple Avenue address in tbe tax collector’s records and Appellee’s failure to also notify tbe Tax Claim Bureau, in addition to the tax collector, of tbe address change.
+In reviewing tax oases such as that now before us, tMs Court will not overturn tbe decision of tbe trial court “absent proof of an abuse of discretion, a lack of supporting evidence, or a clear error of law.” Scott Township Tax Assessment Case, 31 Pa. Commonwealth Ct. 505, 508, 377 A.2d 826, 827 (1977).
+Section 602 of tbe Law explicitly requires tax sale notices to be sent, inter alia, to “personal addressee only. ’ ’ It has been held repeatedly that this and the other notice provisions of the Law “must be strictly complied with in order to guard against the deprivation of property without due process of law.” Tax Claim Bureau of Montgomery County v. Wheatcroft, 2 Pa. Commonwealth Ct. 408, 412, 278 A.2d 172, 175 (1971) (emphasis added) (quoting Chester County Tax Claim Bureau Appeal, 208 Pa. Superior Ct. 384, 387, 222 A.2d 602, 604 (1966)). Thus, in cases where, as here, there has not been strict compliance with the notice provisions of the law and notice was not actually received, the trial court’s invalidation of the tax sale is correct. Chester County Tax Claim Bureau Appeal.
+Moreover, Appellee’s notice to the tax collector of his change of address also establishes sufficient cause for the common pleas court’s invalidation of the tax sale. Said notice more than satisfied any obligation on the part of Appellee, to keep the tax authorities abreast of his current address. Clawson Appeal, 39 Pa. Commonwealth Ct. 492, 395 A.2d 703 (1979). The failure of the tax collector to record the change or to notify the Tax Claim Bureau is hardly attributable to Appellee and, under the circumstances, Appellee cannot be made to suffer for a breakdown in an element of the unified system of local tax administration. See Brown v. Barnes Real Estate Co., 44 Pa. Commonwealth Ct. 439, 404 A.2d 437 (1979); Clawson.
+Accordingly we affirm the trial court’s invalidation ¡of the tax sale herein.
+ORDER
+Now, October 25, 1982, the decision and order of the Court of Common Pleas of the Forty-Third Judicial District in the above captioned matter, No. 2385-1980 Civil, dated July 1, 1981, is hereby affirmed.
+The facts as found by the trial court are the product of a stipulation entered into by all parties herein.
+Appellants also contend that, because Appellee in his pleadings below stated that the tax sale notice should have been sent to the 122 Marcellus Place address, the common pleas court erred in holding that the tax sale must be invalidated because the correct mailing address was 11 Maple Avenue. This contention ignores the fact that the relevant aspect of the trial court’s decision is that the notice was not sent to the proper address and was not received. Therefore, we must reject Appellant’s argument.
