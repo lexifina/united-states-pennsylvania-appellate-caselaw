@@ -1,0 +1,42 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1945 C.D. 1983"
+decided: "1985-02-14"
+citations: ["87 Pa. Commw. 552"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Craig, Barry and Colins, sitting as a panel of three.", "This decision was reached prior to tbe resignation of Judge Williams, Jr."]
+parties: ["Municipality of Penn Hills, Appellant v. Municipality of Penn Hills Personnel Board/Civil Service Commission and Benjamin Westwood, Carmen Traficante and Harry E. Bruce, Appellees."]
+source_url: "https://static.case.law/pa-commw/87/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1327750
+cites_cases: ["127 A.2d 599", "25 A.2d 299", "344 Pa. 254", "387 Pa. 176", "428 A.2d 1052", "432 A.2d 288", "450 A.2d 253", "68 Pa. Commonwealth Ct. 632"]
+---
+
+# Municipality of Penn Hills v. Municipality of Penn Hills Personnel Board/Civil Service Commission
+
+## Majority (Judge Barry,)
+
+Opinion by
+Judge Barry,
+This appeal results from an order of the Court of Common Pleas of Allegheny County which affirmed a decision of the Penn Hills Civil Service Commission (Commission) reinstating appellees Benjamin West-wood, Carmen Traficante and Harry Bruce to the rank of specialist on the Penn Hills Police Force.
+The facts are not in dispute. The Municipality of Penn Hills (Municipality) has been a home rule charter community since 1976. The Municipality has, by ordinance, established the ranks in the police force of director, captain, lieutenant, sergeant, specialist and patrolman. In order to qualify for the rank of specialist, applicants must, inter alia, pass an examination. None of the appellees ever took the examination; they were merely assigned to the position.
+In January of 1982, the Municipality’s manager reassigned the appellees to the rank of patrolman. Appellees sought reinstatement from the Commission. Following public hearings, the Commission ordered the trio to be returned to their former rank. The trial court affirmed and this appeal followed.
+Our scope of review of a trial court’s order affirming a decision of the Commission permits us to consider whether an error of law has been committed. McLafferty v. Penn Hills Civil Service Commission, 68 Pa. Commonwealth Ct. 632, 450 A.2d 253 (1982). The Municipality argues that both the Commission and the trial court erred in reinstating appellees to the position of specialist since the appellees were never lawfully appointed to that rank.
+In Detoro v. Pittston, 344 Pa. 254, 260, 25 A.2d 299, 302 (1942), the court was discussing the civil service laws and stated, “Permanency of tenure applies only to those who have appointments in compliance with the law.” In that case, a policeman who had been discharged was seeking reinstatement, alleging he had been appointed in accordance with the civil service laws. The trial court reversed to allow the city to introduce evidence concerning irregularities in the appointment process. The court held that such evidence should have been admitted. The court went on to state:
+The legislature has declared in unmistakable terms that merit ascertained in a manner prescribed shall govern appointments to the police department and has formulated and announced the public policy of the state in that respect. An administrative officer is not permitted to violate such declared policy and no court may sanction its violation. An employment which in its inception violates such an act' as this is illegal and against public policy and it is the duty of the administrative officers of the state or its civil subdivisions to discontinue any illegal employment when they note its illegality. The illegality should not go unchallenged. In such a case the defense is not waived •by the action of the representatives of the municipality.
+Id. at 260-61, 25 A.2d at 303.
+In Manning v. Millbourne Borough Civil Service Commission, 387 Pa. 176, 127 A.2d 599 (1956), a police officer was dismissed without being afforded a hearing. Alleging that the civil service laws required he be given a hearing, the officer filed a complaint in mandamus, which the trial court granted. The Supreme Court reversed, holding that since the officer never took the required competitive exam to be lawfully appointed, he was not entitled to the statutory protections.
+Section 902 of the Penn Hill’s Administrative Code provides:
+Any police officer suspended, removed or reduced in rank may file with the Commission a written demand for a hearing. Such written demand . . . shall be filed no later than seven (7) calendar days from the date upon which the statement of charges were personally served or mailed. Within the period fixed by law, the Commission shall grant a hearing to any person accused who complies with the provisions of this section. (Emphasis added.)
+The trial court, however, held that Detoro and Manning were not controlling and relied instead on McCrory v. Municipality of Penn Hills, SA 1363 of 1981 (Allegheny County, April 21, 1982). There, the court stated:
+Where the filling of a position is' subject to passing a civil service test, the position is classified as a civil service position and an officer is entitled to a hearing into the causes of his demotion. Charley v. Felzer, Pa. Cmwlth.
+, 428 A.2d 1052 (1981). This is' so even where Appellant did not take the required civil service examination pursuant to the CIVIL SERVICE Rules. The specific Ordinances with which we are now dealing, once enacted, divested council, the head of the Police Force and Township Manager of the authority to promote or demote except in accordance with the provisions of the Ordinances and CIVIL SERVICE Rules and Regulations. Diehl v. City of McKeesport, Pa. Cmwlth. , 432 A.2d 288 (1981).
+McCrory, Slip. Op. at 5. We do not believe, however, that either Charley or Diehl compel such a holding.
+In Charley, the superintendent of police was demoted to a lesser rank. His request for a hearing was denied at all levels, essentially because it was found that Charley had not been appointed in accordance with the applicable civil service laws. We reversed, noting that the civil service law called only for a “non competitive examination” for the position of superintendent and Charley had in fact taken a non competitive exam. Thus, in Charley, there was no question but that the individual had been appointed to the position of superintendent in accordance with law.
+In Diehl, the officers in question had been promoted to various positions in the police force before the adoption of a personnel policy requiring that promotions and demotions be based on merit and/or tbe lack thereof. The city argued that only tbe officers promoted by merit selection were entitled to tbe statutory protections in cases of demotions. We disagreed and held those officers promoted before tbe adoption of tbe merit process were entitled to the new protections. Suffice it to say that in tbe case now before this Court, tbe promotions were made after tbe adoption of tbe civil service ordinance and yet did not follow that ordinance.
+Appellees argue that Detoro and Manning are inapplicable, since both of these cases involve original appointments to tbe force. Since there is no question concerning any of appellees ’ intial appointments, they argue tbe trial court must be affirmed. We do not agree. Tbe basic principle in all of tbe cases mentioned in this opinion is that tbe application of tbe civil service laws is a two way street, i.e., before one may invoke tbe protections afforded thereby, one must show that an appointment or promotion was in accordance with tbe laws in effect at tbe time of tbe appointment or promotion. In this case, tbe Municipality is not attempting to remove tbe appellees from tbe force; all that is being done is removing appellees from a position to which they were promoted not in accordance with law. Under such circumstances, tbe civil service protections are not applicable and tbe trial court erred in affirming the Commission’s reinstatement of appellees to tbe position of specialist.
+Order,
+Now, February 14, 1985, tbe order of tbe Court of Common Pleas of Allegheny County, dated June 24, 1983, at SA 38 of 1983, is reversed.
+This decision was reached prior to tbe resignation of Judge Williams, Jr.
