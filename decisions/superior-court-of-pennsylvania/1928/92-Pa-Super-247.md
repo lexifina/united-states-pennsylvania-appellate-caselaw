@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 168"
+decided: "1928-03-02"
+citations: ["92 Pa. Super. 247"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, P. J., Henderson Trexler, Keller, Linn, Gawtheop and Cunningham, JJ."]
+parties: ["Sokolowski, Gard. of Est. of Helen Pietrazko, v. A. Mickiewicz Polish Death F. Ass’n. of U. S. of America, Appellant."]
+source_url: "https://static.case.law/pa-super/92/cases/0247-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 676264
+cites_cases: ["107 Md. 374", "137 Pa. 412", "139 Pa. 264", "224 Pa. 298", "233 Pa. 107", "251 Pa. 489", "256 Pa. 381", "282 Pa. 389", "290 Pa. 43", "62 Pa. 308", "80 Pa. Superior Ct. 594", "90 Pa. 220", "90 Pa. Superior Ct. 1"]
+---
+
+# Sokolowski v. A. Mickiewicz Polish Death F. Ass'n. of U. S.
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+The matter came before this court on an appeal from the refusal of the lower court to enter judgment n. o. v. The appellant assumes, in his statement of questions involved, certain facts-which were disputed. Of course, all disputed facts must be resolved in favor of the plaintiff.
+The guardian of the infant plaintiff, the beneficiary and daughter of the insured, brings suit on a policy issued by the defendant association alleging that the policy was mislaid. The affidavit of defense filed denies the issuance of the policy of insurance on the date mentioned in plaintiff’s statement to Jennie Pietrazko, the insured, and alleges that the insured failed to pay the dues, premiums, fines and assessments due on the 7th day of July, 1924-, and for more than three months thereafter and that, therefore, she became suspended and no rights remain to her under the alleged policy. This was the issue as fixed by the pleadings.
+Upon the trial it developed that the policy which was produced by the defendant bore the date, 1922, and the court allowed an amendment to the plaintiff’s statement so as to make it contain the true date. The issue was thus narrowed down to the question whether the insured was in default in the payment of the July premium and if not, whether she, or someone for her, had thereafter paid or tendered to the defendant or its officers the proper amount required to preserve her rights under the policy.
+The book of the insured shows payments paid to the collector and his receipt for each item. There is no question that the premiums were paid- to April, 1924. Ellers, the collector, admits receiving the dues for May, but denies receipting for them. The signature following the May credit carries a flourish which covers June and the amount of premium for that month is inserted. On the face of it, the book shows that the premium was paid up to and including July. The court in its charge stated without objection that counsel admitted that in another book, not of the insured, the collector receipts for more than one month and signed his name but once and indicated the payment of subsequent months by a flourish put to his name, thus showing a habit. The denial of the collector and the comparison of the signatures were for the jury. The conclusion could be legitimately drawn that the payments were made up to and including July. "If the July premium was paid, were the subsequent dues paid up to October 6th, the date of the death of the insured? The plaintiff claims that there was an offer to pay and tenders of the money which were equivalent to payment.
+The guardian of the plaintiff testified that he was a member of the defendant association and that one month before October, 1924, he went to the president of the defendant company and offered him $3.12 or two months dues and he was assured by the president that he would send a collector who had theretofore failed to call for the August and September dues. The collector called in September and the guardian offered to pay the dues for his sister, the insured, but the collector said he wished to see her first. The guardian then called to see the general secretary and he refused to take the money and told him to see the president. He then saw the president in September and offered to pay the dues to him and he, in turn, referred him to the secretary and the secretary told him to see the collector. He went to see the collector at the place of his employment and offered him the dues which at that time amounted to $6.24 and he refused to accept them. He then went back to the secretary again and was told to go to the meeting. He went to the meeting, offered the money and the president wanted to take it, but the secretary and collector did not.
+The court properly instructed the jury that if a tender of the dues was made before her rights under the policy were forfeited, it was equivalent to payment. If at the time she died, she was, as claimed by defendant, four months in arrears, then no one could recover under her policy because she had gone over the period of three months within which she had the right to be reinstated. The issue was clearly left to the jury to ascertain whether the dues were tendered within the three months provided by the contract.
+The policy reads: “A member who was suspended for non-payment of dues after three months will still be a member if he pays up the three months he owes. ’ ’ This right to lift the suspension, appellant says, rests with, the company and not with the insured. We cannot agree with this interpretation. This clause is evidently inserted in the by-laws for the purpose of conferring a privilege to delinquents to pay up and be reinstated. The -word “may”, therefore, must be construed as giving a right to the insured. “Where the terms of a policy are susceptible, without violence, of two interpretations, that construction which is most favorable to the insured, in order to indemnify him against loss sustained, should be adopted.” Humphreys v. National Benefit Association, 139 Pa. 264. See Norlund v. Reliance Life Ins. Co., 282 Pa. 389.
+The assignments are overruled and the judgment is affirmed.
