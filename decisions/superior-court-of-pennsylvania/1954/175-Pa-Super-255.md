@@ -1,0 +1,39 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 166"
+decided: "1954-03-16"
+citations: ["175 Pa. Super. 255"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hikt, Reno, Ross, G.tjnther, .Wright and Woodside, JJ« ......"]
+parties: ["Commonwealth ex rel. Richter, Appellant, v. Burke."]
+source_url: "https://static.case.law/pa-super/175/cases/0255-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 720805
+cites_cases: ["100 A. 2d 142", "102 A. 2d 486", "145 Pa. Superior Ct. 11", "148 F. 2d 667", "159 Pa. Superior Ct. 542", "172 Pa. Superior Ct. 116", "172 Pa. Superior Ct. 287", "174 Pa. Superior Ct. 111", "175 Pa. Superior Ct. 1", "20 A. 2d 852", "24 A. 2d 1", "316 U.S. 455", "344 Pa. 41", "367 Pa. 102", "49 A. 2d 195", "79 A. 2d 401", "80 U. S. App. D.C. 5", "86 Pa. Superior Ct. 427", "92 A. 2d 267", "93 A. 2d 904"]
+---
+
+# Commonwealth ex rel. Richter v. Burke
+
+## Majority (Woodside, J.,)
+
+Opinion by
+Woodside, J.,
+This is an appeal by William Richter from the order of the Court of Common Pleas No. 5 of Philadelphia, dismissing his petition for writ of habeas corpus and remanding him to the custody of the warden of the penitentiary.
+On January 18, 1946 relator, while a fugitive, was indicted on six bills of indictment each charging burglary and receiving stolen goods.
+On April 9, 1947 he was apprehended in Richmond, Virginia, and returned to Philadelphia where he was confined in the county prison as a parole violator. Three months later, on July 10, 1947, he was tried on the above bills of indictment. In the course of the trial the relator withdrew his previous pleas of not guilty to these bills of indictment and entered pleas of guilty thereon. The court imposed judgment of sentence of eight to twenty years in the Eastern State Penitentiary on the first of these bills.
+On March 31, 1952, the instant petition for writ of habeas corpus was filed by the relator averring that he had been denied due process of law on the trial of his case.
+It is well established in this Commonwealth that in habeas corpus proceedings the judgment of conviction carries with it a presumption of regularity, and when one undertakes to overcome it, his evidence should be clear and convincing. Commonwealth ex rel. Howard v. Claudy, 175 Pa. Superior Ct. 1, 102 A. 2d 486 (1954).
+The relator has the burden of convincing the court of the truth of his averments. Commonwealth ex rel. Johnson v. Dye, 159 Pa. Superior Ct. 542, 49 A. 2d 195 (1946).
+The relator first contends that he had no notice of the charges against him at the time he was brought to trial. The records support a contrary conclusion. At the 1947 trial an officer categorically testified that the relator was informed of the charges at the time of his arrest and that in response thereto he admitted participation in the crimes. Although given the opportunity the relator did not take the stand at that time nor did he offer evidence contradictory to the testimony of the officer. Furthermore, the relator, at no time during the course of that trial informed the trial judge of this purported lack of knowledge.
+The relator has four times before been sentenced and served time for similar offenses. “His previous experience in criminal proceedings is pertinent in ascertaining whether he was aware of the gravity of the offenses and was competent to protect his legal and constitutional rights: See Betts v. Brady, 316 U.S. 455, 62 S. Ct. 1252, 86 L. Ed. 1595.” Commonwealth ex rel. Martin v. Baldi, 174 Pa. Superior Ct. 111, 115, 100 A. 2d 142 (1953).
+It is next contended that the trial court abused its discretion in refusing relator’s request for continuance for the purpose of engaging counsel of his own choosing. There is likewise no merit to this contention. It is well established in this Commonwealth that an application for a continuance is addressed to the sound discretion of the trial court whose action will not be disturbed unless that discretion has been abused. Com monwealth v. Donnelly, 86 Pa. Superior Ct. 427, 430 (1926). The relator had three months time to employ an attorney. If he desired counsel he should have employed him during the time elapsing between his arrest and the day he was to appear in court. “He could not delay until an indictment was returned and then for the first time attempt to engage counsel and start on the preparation of his defense. The law contemplates and brooks no such delay on the part of defendants in criminal cases.” Commonwealth ex rel. Hullig v. Ashe, 145 Pa. Superior Ct. 11, 14, 20 A. 2d 852 (1941).
+The trial court appointed competent counsel to represent the relator and at no time during the trial was objection made to this appointment.
+The third contention of the relator is that he was not adequately represented by his court appointed counsel. As was said in Commonwealth v. Thompson, 367 Pa. 102, 109, 79 A. 2d 401 (1951) “. . . it is easy to condemn the exercise of counsel’s judgment after the case is lost which would be praised if the case were won. But no lawyer can be expected to do more than exercise a reasonable skill which cannot be fairly judged by the result of the trial alone.”
+In the instant case relator levels his criticism chiefly at the failure of the defense counsel to ask questions on cross examination. This was a matter within the discretion of said counsel. Lawyers more often than laymen know how frequently it is wise not to cross examine.
+The absence of effective representation must be strictly construed. It must mean representation so lacking in competence that it becomes the duty of the court or the prosecution to observe it and correct it. It must be such that “the circumstances surrounding the trial shocked the conscience of the court and made the proceedings a farce and a mockery of justice.” See Diggs v. Welch, 148 F. 2d 667, 670, 80 U. S. App. D.C. 5 (1945). Measured by this test the allegations of the petitioner are insufficient.
+The relator further alleges he was coerced into pleading guilty. The only evidence produced at the habeas corpus hearing on this point was the testimony of the relator himself that an unknown court clerk had advised him to plead guilty if he did not want the judge “to give him the book.” No mention of this was made either by the relator or his counsel at the time motion was made to allow withdrawal of the original pleas of not guilty, and the lower court in its opinion on the petition for the writ indicated that it did not believe that any such conversation took place. However, even if the court clerk had advised the prisoner that he would receive a heavier sentence if he pleaded not guilty than if he pleaded guilty, such advice would not constitute coercion. “ ‘A judgment cannot be lightly set aside by collateral attack even on habeas corpus. When collaterally attacked, the judgment of a court carries with it a presumption of regularity.’ Johnson v. Zerbst, supra.” Commonwealth ex rel. McGlinn v. Smith, 344 Pa. 41, 47, 24 A. 2d 1 (1942).
+Relief should not be granted the relator if the court believes that his evidence is not credible, or is not legally sufficient to overcome the presumption of regularity. It is the function of the trial judge to weigh the evidence and judge the credibility of the witnesses. In the absence of a clear abuse of discretion his findings are conclusive. Commonwealth ex rel. Howard v. Claudy, (supra); Commonwealth ex rel. Carlini v. Burke, 172 Pa. Superior Ct. 116, 92 A. 2d 267 (1952) ; Commonwealth ex rel. Klinefelter v. Claudy, 172 Pa. Superior Ct. 287, 93 A. 2d 904 (1953).
+We are satisfied that none of the relator’s legal or constitutional rights was violated.
+Order affirmed.
