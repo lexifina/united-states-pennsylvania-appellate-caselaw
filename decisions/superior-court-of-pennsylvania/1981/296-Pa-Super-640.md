@@ -1,0 +1,20 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1257"
+decided: "1981-11-30"
+citations: ["296 Pa. Super. 640", "440 A.2d 1259"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WICKERSHAM, BECK and WIEAND, JJ."]
+parties: ["Commonwealth v. Smith, Appellant."]
+source_url: "https://static.case.law/pa-super/296/cases/0640-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 182907
+---
+
+# Commonwealth v. Smith
+
+## Majority
+
+Judgment of sentence affirmed.
