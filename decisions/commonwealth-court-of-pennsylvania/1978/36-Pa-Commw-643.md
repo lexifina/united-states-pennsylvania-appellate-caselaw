@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 712 C.D. 1976"
+decided: "1978-07-21"
+citations: ["36 Pa. Commw. 643"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Mencer and Bogers, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania, Department of Transportation v. Quentin S. Bailey, Appellant."]
+source_url: "https://static.case.law/pa-commw/36/cases/0643-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1888505
+cites_cases: ["18 Pa. Commonwealth Ct. 490", "2 Pa. Commonwealth Ct. 540", "218 Pa. Superior Ct. 347", "26 Pa. Commonwealth Ct. 201", "279 A.2d 77", "280 A.2d 658", "29 Pa. Commonwealth Ct. 536", "300 A.2d 844", "335 A.2d 882", "363 A.2d 870", "371 A.2d 1037", "7 Pa. Commonwealth Ct. 584"]
+---
+
+# Commonwealth, Department of Transportation v. Bailey
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+This is an appeal by Quentin S. Bailey from a decision of the Court of Common Pleas of Chester County which affirmed the suspension of his driving privilege. The decision was made pursuant to Section 624.1(a) of The Vehicle Code (Code), Act of April 29, 1959, P.L. 58, as amended, formerly found at 75 P.S. §624.1(a), as a result of his refusal to submit to a breathalyzer test. We affirm.
+On June 17,1975, Bailey was arrested and charged with operating a vehicle while under the influence of intoxicating liquor, a violation of Section 1037 of the Code, formerly found at 75 P.S. §1037. He was taken to the police station where the police officer requested that he submit to a breathalyzer test, which request he refused. On the basis of this refusal, the Secretary of Transportation suspended his driving privilege for six months.
+Section 624.1(a) provided:
+(a) Any person who operates a motor vehicle or tractor in this Commonwealth, shall be deemed to have given his consent to a chemical test of his breath, for the purpose of determining the alcoholic content of his blood. Provided, That the test is administered by qualified personnel and with equipment approved by the secretary at the direction of a police officer having reasonable grounds to believe the person to have been driving while under the influence of intoxicating liquor. Qualified personnel means a physician or a police officer who has received training in the use of such equipment in a training program approved by the secretary. If any person is placed under arrest and charged with the operation of a motor vehicle or tractor while under the influence of intoxicating liquor and is thereafter requested to submit to a chemical test and refuses to do so, the test shall not be given but the secretary may sibspend his license or permit to operate a motor vehicle or tractor with or without a hearing. Any person whose license or permit to operate a motor vehicle or tractor is suspended under the provisions of this act shall have the same right of appeal as provided for in cases of suspension for other reasons. (Emphasis added.)
+Appellant contends that “reasonable grounds” did not exist to support a conclusion that he had been driving while under the influence of alcohol.
+In Department of Transportation, Bureau of Traffic Safety v. Dreisbach, 26 Pa. Commonwealth Ct. 201, 205, 363 A.2d 870, 872 (1976), this Court said:
+The only valid inquiry on this issue at the de novo hearing is whether, viewing the facts and circumstances as they appeared at the time, a reasonable person in the position of the police officer could have concluded that the motorist was operating the vehicle and under the influence of intoxicating liquor.
+The evidence shows that, at about midnight, the police officer was following Bailey, who was driving unusually slow in a 35-mile-per-hour zone. He made a wide turn at an intersection which brought his vehicle into the improper lane of the highway. Without direction from the officer, Bailey stopped, walked to the police car, and spoke with the officer. The officer noticed a staggered gait, speech which seemed slurred, and an odor of alcohol on his breath. Bailey did not deny these observations; rather, he tried to establish a cause for this conduct other than intoxication. The evidence is clearly sufficient to support the trial court’s conclusion that the officer had reasonable grounds to believe Bailey was driving while intoxicated and to request a breathalyzer test. See Dreisbach, supra.
+Appellant also contends that the Commonwealth did not' meet its burden of showing that he had refused to take the breathalyzer test. The Commonwealth must prove that the defendant did in fact refuse to submit to the test upon request. Thereafter, the defendant has the burden of proving by competent evidence that he was physically unable to take the test or that he was incapable of a conscious and knowing refusal. See Department of Transportation, Bureau of Traffic Safety v. Tantlinger, 29 Pa. Commonwealth Ct. 536, 371 A.2d 1037 (1977); Department of Transportation, Bureau of Traffic Safety v. Kelly, 18 Pa. Commonwealth Ct. 490, 335 A.2d 882 (1975).
+The officer testified that he explained the test to Bailey and requested that he take it. Bailey’s response, as paraphrased by the officer, was a statement that he would not take the test. Bailey did not deny this. Rather, he testified that he did not recall the explanation of the test or the request since he was preoccupied with the security of his property; i.e., he was concerned that his van, although locked, but containing valuable tools, remained parked on the street where he had stopped, and he distrusted the police who inventoried a large amount' of money he carried. Clearly, the Commonwealth’s evidence supports the finding that Bailey, in fact, refused to take the breathalyzer test. See Morris Motor Vehicle Operator License Case, 218 Pa. Superior Ct. 347, 280 A.2d 658 (1971).
+Appellant argues that he was so preoccupied with. the security of his property that, if he did refuse, he was unaware of the significance and hence such refusal could not be characterized as a conscious and knowing refusal. However, the evidence is wholly insufficient to show that he was unable to make a conscious and knowing refusal. See Commonwealth v. Passarella, 7 Pa. Commonwealth Ct. 584, 300 A.2d 844 (1973). Further, his own testimony demonstrates that he was able to comprehend other events at the police station. For example, he agreed to sign certain papers at the officer’s request and he tried to contact a friend by telephone.
+Finally, appellant contends that the Secretary of Transportation aiid the lower court abused their discretion in ordering a six-month suspension, especially in view of the economic hardship suffered by Bailey as a result of the suspension. We find these contentions to be without merit in view of our opinion in Commonwealth v. McCartney, 2 Pa. Commonwealth Ct. 540, 279 A.2d 77 (1971), in which we held that the lower court had improperly reversed the order of the Secretary of Transportation suspending a driver’s license for one year where economic hardship was a factor.
+Order affirmed.
+Order
+And Now, this 21st day of July, 1978, the order of the Court of Common Pleas of Chester County, dated March 24, 1976, affirming the suspension of the driving privilege of Quentin S. Bailey, is hereby affirmed.
