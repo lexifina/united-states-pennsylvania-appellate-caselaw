@@ -1,0 +1,47 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2764 C.D. 1978"
+decided: "1980-04-16"
+citations: ["50 Pa. Commw. 554"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Wilkinson, Jr. and Mencer, sitting as a panel of three.", "President Judge Bowman did not participate in the decision in this case."]
+parties: ["Philip Inverso, Petitioner v. Commonwealth of Pennsylvania, State Real Estate Commission, Respondent."]
+source_url: "https://static.case.law/pa-commw/50/cases/0554-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1907630
+cites_cases: ["14 Pa. Commonwealth. Ct. 196", "18 U.S.C. §1014", "18 U.S.C. §§371", "304 A.2d 524", "320 A.2d 912", "398 A.2d 764", "41 Pa. Commonwealth Ct. 204", "8 Pa. Commonwealth Ct. 556"]
+---
+
+# Inverso v. Commonwealth
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+This appeal is from an order of the State Real Estate Commission (Commission), dated November 1, 1978, revoking the real estate saleman’s license issued to Philip Inverso (Inverso).
+Pursuant to citation and notice, the Commission held a hearing on May 30, 1978, at which it was established that, on October 12, 1976, Inverso had pleaded guilty in the United States District Court for the Eastern District of Pennsylvania to 34 counts of submitting false statements to a federally insured depository, in violation of Section 1014 of Title 18, U.S.C., one count of criminal conspiracy to defraud an agency of the United States, in violation of Section 371 of Title 18, U.S.C., and two counts of failing to file tax returns, in violation of Section 7203 of Title 26, U.S.C.
+Based on the evidence introduced at the hearing, the Commission determined that Inverso’s guilty plea to the first two above enumerated offenses placed him in violation of Section 11(b) of the Real Estate Brokers License Act of 1929, Act of May 1,1929, P.L. 1216, as amended (Act), 63 P.S. §441(b), and that Inverso bad engaged in conduct in connection with, a real estate transaction which demonstrated bad faith and dishonesty, in violation of Section 10(a)(7) of the Act, 63 P.S. $440(a)(7), and ordered that his real estate salesman’s license be revoked.
+Our scope of review requires that we must affirm an order of the Commission which revokes a real estate salesman’s license when it is supported by substantial evidence and where the Commission has not committed an error of law or abused its discretion in the imposition of the penalty. Yingling v. State Real Estate Commission, 8 Pa. Commonwealth Ct. 556, 304 A.2d 524 (1973).
+Inverso contends that the Commission’s evidence was insufficient to support its findings of fact and conclusions of law that he was in violation of Sections 10(a)(7) and 11(b) of the Act and that the Commission abused its discretion in the imposition of the penalty of revocation of his real estate saleman’s license.
+Inverso’s guilty plea to violation of 18 U.S.C. §1014 makes it indisputable that he knowingly made substantial misrepresentations in connection with a real estate transaction which, in violation of Section 10(a)(7) of the Act, demonstrates bad faith and dishonesty. Accordingly, we have no hesitancy in holding that the evidence before the Commission was sufficient to support its findings of fact 6 through 8 and its fourth conclusion of law.
+Likewise, Inverso’s guilty plea to violations of 18 U.S.C. §§371 and 1014 establishes a violation of Section 11(b) of the Act.
+Inverso disputes what seems to be obvious, that his guilty plea brings him within the provisions of Section 11(b) of the Act, by asserting that his real estate salesman’s license expired on April 30, 1976, he did not plead guilty to the federal charges filed against him until October 12, 1976, and therefore Section 11(b) of the Act would have no application here, since it is conditioned on the licensee’s entering a guilty plea during the term of the license. However, this assertion is in error since the license issued to him on May 3, 1951 did not expire on April 30, 1976 by his failure to pay a required biennial registration fee to keep his license current for a further 2-year period. Cf. Ullo v. State Board of Nurse Examiners, 41 Pa. Commonwealth Ct. 204, 398 A.2d 764 (1979); Grasso v. State Real Estate Commission, 14 Pa. Commonwealth. Ct. 196, 320 A.2d 912 (1974). The license here in question became inactive, subject to being placed on a current status by complying with the renewal procedure of Section 8(3) of the Act, 63 P.S. §483(3), and did not expire as a result of Inverso’s failure, in 1976, to renew his license for an additional 2-year period. If Inverso were correct on this assertion, he would nevertheless be ineligible for the issuance of a license prior to October 12, 1981, a date 5 years after the date of his guilty plea, because of the provisions of Section 11(g) of the Act, 63 P.S. §441(g).
+As to Inverso’s contention that the penalty of revocation imposed was an abuse of discretion by the Commission, we find no impropriety in the imposition of snch a penalty, since Section 10(a) of the Act, 63 P.S. §440(a), specifically provides the authority to the Commission to revoke licenses for a violation, inter alia, of Section 10(a)(7). We cannot substitute our own judgment for that of the Commission. Grasso v. State Real Estate Commission, supra. In addition, Section 11(b) of the Act mandates revocation of a license when a violation of that section has occurred.
+Accordingly, we enter the following
+Order
+And Now, this 16th day of April, 1980, the order of the State Real Estate Commission, dated November 1,1978, revoking real estate salesman’s license No. 20227, issued to Philip Inverso, is hereby affirmed.
+President Judge Bowman did not participate in the decision in this case.
+Section 11(b) provides:
+(b) Where during the term of any license issued by tbe department, tbe licensee shall have pleaded guilty, or entered a plea of nolo contendere, or has been found guilty in a court of competent jurisdiction, in this or any other state, of forgery, embezzlement, obtaining money under false pretenses, extortion, criminal conspiracy to defraud, bribery, or other offense or offenses, involving the misappropriation, larceny or burglary of money or property belonging to the Commonwealth or any of its political subdivisions or to private persons, businesses or corporations or involving obligations insured by tbe United States of America or any of its agencies or tbe Commonwealth of Pennsylvania or any of its agencies, and a duly certified or exemplified copy of the record in such proceeding shall be filed with the commission, the commission shall revoke forthwith the license by it theretofore issued to the licensee so convicted.
+Section 10(a) (7) provides:
+(a) The commission may, upon its own motion, and shall, promptly, upon the verified complaint in writing of any person setting forth specifically the wrongful act or acts complained of, investigate any action or business transaction of any licensed real estate broker or real estate salesman; and shall have the power temporarily to suspend or permanently to revoke licenses theretofore issued by the department, under the provisions of this act, at any time when, after due proceedings as hereinafter provided, it shall find the holder thereof to have been guilty,
+(7) Of any act or conduct in connection with a real estate transaction which demonstrates ineompetency, bad faith, or dishonesty. . . .
+Findings of fact 6, 7, and 8 may be fairly summarized as setting forth in detail the charges to which Philip Inverso entered pleas of guilty.
+Conclusion of law 4 reads:
+4. Findings of Fact 6 through 8 constitutes [sic] conduct in connection with a real estate transaction which demonstrates bad faith and dishonesty in violation of the Real Estate Brokers’ License Act, supra, §440(a) (7).
+Repealed by Section 401(a) of the Bureau of Professional and Occupational Affairs Fee Act, Act of July 1, 1978, P.L. 700, 63 P.S. §1401-401 (a), insofar as it establishes fixed fees inconsistent with those fees contained in. the act. Section 8(3) provides, in pertinent part:
+(3) It shall be the duty of all persons, licensed to practice as a real estate broker or. real estate salesman, to register biennially with the department. . . . Said applications for renewal of real estate broker’s or salesman’s license, shall be made to the department biennially on or before March first of the next succeeding biennium.
+Section 11(g) provides:
+(g) No license shall be issued by the department to any person known by it to have been, within five (5) years theretofore, convicted of forgery, embezzlement, obtaining money under false pretenses, extortion, criminal conspiracy to defraud, bribery, or other [like] offense or offenses, involving the misappropriation, larceny or burglary of money or property belonging to the Commonwealth or any of its political subdivisions or to private persons, businesses or corporations or involving obligations insured by the United States of America or any of its agencies or the Commonwealth of Pennsylvania or any of its agencies, or to any copartnership of which such person is a member, or to any association or corporation of which said person is an officer or employe, or in which as a stockholder such person has or exercises a controlling interest, either directly or indirectly.
