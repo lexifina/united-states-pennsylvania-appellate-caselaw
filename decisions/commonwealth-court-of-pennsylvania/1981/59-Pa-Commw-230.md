@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 872 C.D. 1980"
+decided: "1981-05-26"
+citations: ["59 Pa. Commw. 230"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Mencer, Rogers and Palladino, sitting as a panel of three.", "Judge Wilkinson, Jr. did not participate in the decision in this case."]
+parties: ["Norman James, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/59/cases/0230-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1920735
+cites_cases: ["32 Pa. Commonwealth Ct. 462", "379 A.2d 1069", "406 A.2d 1173", "409 A.2d 126", "423 A.2d 430", "426 A.2d 1307", "426 A.2d 756", "46 Pa. Commonwealth Ct. 347", "48 Pa. Commonwealth Ct. 138", "54 Pa. Commonwealth Ct. 604", "57 Pa. Commonwealth Ct. 494", "58 Pa. Commonwealth Ct. 52"]
+---
+
+# James v. Commonwealth, Unemployment Compensation Board of Review
+
+## Majority (Judge Palladino,)
+
+Opinion by
+Judge Palladino,
+Petitioner appeals an order of the Unemployment Compensation Board of Review (Board) which reversed the referee’s decision and denied benefits to Petitioner. We reverse the Board’s order.
+Petitioner was employed by Sears, Roebuck and Co. (Sears) as an electrical helper whose duties included the maintenance of batteries on fork-lift trucks. To facilitate the performance of his duties, Petitioner used his automobile to transport maintenance equipment to the buildings where the batteries were locáted. About to make service rounds one evening, Petitioner discovered that a heavy snowfall had obstructed the movement of his automobile. In order to free his vehicle, Petitioner took a shovel from the Sears stockroom. After Petitioner had freed his automobile, he drove to the building where his maintenance tools were kept. Sears security guards approached Petitioner and had Petitioner sign a statement saying Petitioner had used Sears equipment to free his own car. As a result of this incident, Petitioner was discharged from employment.
+Based upon the documentation of the Bureau of Employment Security and in the absence of appearances before the referee, the referee awarded benefits to Petitioner. Following the referee’s decision, a hearing was conducted by a second referee acting as hearing officer for the Board. The Board then issued an order denying compensation to Petitioner. Petitioner appealed to this Court which remanded the case to the Board for oral argument. After the argument during which no additional testimony was taken, the Board again denied benefits to Petitioner.
+The Board contends that Petitioner was properly discharged for willful misconduct and therefore is not entitled to. compensation. Section 402(e) of the Unemployment Compensation Law, Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43P.S. §802(e).
+In cases of willful misconduct, “the employer has the burden of proving the existence of a rule. . . .” Doyle v. Unemployment Compensation Board of Review, 57 Pa. Commonwealth Ct. 494, 496, 426 A.2d 756, 757 (1981). In the present case a Sears representative testified that Sears policy is contained in a handbook which states that, “taking part in unlawful seizure of .’. . company property . . . may result in termination of ... employment. ’ ’
+However, to prove willful misconduct, the employer must also establish that the employee “deliberately violated its rules. ...” Wirfel v. Unemployment Compensation Board of Review, 46 Pa. Commonwealth Ct. 347, 349, 406 A.2d 1173, 1175 (1979). “[A]n employee is only guilty of willful misconduct when he is, or should be, under the circumstances, conscious that his actions are inimical to the interests of his employer.” Curtis v. Unemployment Compensation Board of Review, 32 Pa. Commonwealth Ct. 462, 467, 379 A.2d 1069, 1071 (1977); accord, Lingenfelter v. Unemployment Compensation Board of Review, 58 Pa. Commonwealth Ct. 52, 426 A.2d 1307 (1981) (295 C.D. 1979; filed March 20, 1981).
+“When the party bearing the burden of proof [Sears] prevails before the Board, we must determine on appeal whether an error of law has been committed and whether any necessary finding of fact is unsupported by substantial evidence in the record.” Lake v. Unemployment Compensation Board of Review, 48 Pa. Commonwealth Ct. 138, 140, 409 A.2d 126, 127 (1979); accord, Maxwell v. Unemployment Compensation Board of Review, 54 Pa. Commonwealth Ct. 604, 423 A.2d 430 (1980).
+Before the referee, Petitioner asserted that he “was aware of no written policy” regarding using or borrowing company equipment to accomplish company work. Sears offered no testimony to refute Petitioner’s assertion. Moreover, Petitioner insisted that his work during an unsupervised night shift required greater initiative and flexibility. Petitioner testified that during his night-shift employment it was his usual practice to remove from Sears inventory any tools he needed to complete his work. “I would leave a note with the stock number on the supervisor’s desk who in turn the next morning would submit a requisition for the property which I had already used.” In addition, Petitioner maintained that he customarily wrote notes about stock requisitions at the end of his work shift when he “returned to the shop to clean up. ’ ’ On the evening in question, Petitioner had not yet written a note at the time he was approached by Sears security guards. However, Petitioner stated that the guards confronted him during the middle of his shift and thereafter prevented his entering the shop where he customarily left such notes. Finally, Petitioner contended that he was never warned or criticized for his use of Sears stock without prior authorization although the supervisor was entirely familiar with Petitioner’s practices in that regard.
+According to the facts on the record before us, Petitioner had no reason to suspect that he was violating a company policy when he used Sears tools to complete his work assignments and thereafter requested that a supervisor make a formal stock requisition for the used tools since (1) Petitioner did not have actual knowledge of Sears policy and (2) Petitioner had acted in this same manner on previous occasions without being reprimanded. Nor did Petitioner act in a manner contrary to that which Sears could rightfully expect of its employees because (1) Petitioner took from stock only those tools which were needed to accomplish his work and (2) Petitioner worked during an unsupervised night shift when there was no company supervisor available to authorize stock requisitions. Therefore, we conclude that Petitioner’s actions did not constitute willful misconduct.
+Accordingly, we will enter the following
+Order
+And Now, May 26, 1981, the order of the Unemployment Compensation Board of Review, dated March 31, 1980, Decision No. B-167582-B, Appeal No. B-78-1-M-458, is hereby reversed.
+Judge Wilkinson, Jr. did not participate in the decision in this case.
