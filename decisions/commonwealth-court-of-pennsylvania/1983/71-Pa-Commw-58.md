@@ -1,0 +1,85 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeals, Nos. 1996 C.D. 1980 and 812 C.D. 1982"
+decided: "1983-01-06"
+citations: ["71 Pa. Commw. 58"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogers, Williams, Jr. and MagPhail, sitting as a panel of three. . ‘ ."]
+parties: ["Inmates of the Cumberland County Prison et al., Petitioners v. Commonwealth of Pennsylvania, Department of Justice et al., Respondents. Allan Bowermaster et al., Intervening Party Petitioners. Inmates of the Cumberland County Prison et al., Petitioners v. Commonwealth of Pennsylvania, Department of Justice et al., Respondents."]
+source_url: "https://static.case.law/pa-commw/71/cases/0058-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1936895
+cites_cases: ["1 Pa. Commonwealth Ct. 204", "13 Pa. Commonwealth Ct. 85", "25 Pa. Commonwealth Ct. 3", "273 A.2d 920", "317 A.2d 925", "358 A.2d 745", "37 Pa. Code §95.222", "37 Pa. Code §95.225", "37 Pa. Code §95.226", "37 Pa. Code §95.230", "37 Pa. Code §95.231", "37 Pa. Code §95.232", "37 Pa. Code §95.238", "37 Pa. Code §95.241", "37 Pa. Code §95.248", "374 A.2d 671", "401 A.2d 885", "406 F. Supp. 287", "43 Pa. Commonwealth Ct. 124", "446 A.2d 1357", "473 Pa. 384", "496 Pa. 496", "67 Pa. Commonwealth Ct. 256"]
+---
+
+# Inmates of Cumberland County Prison v. Commonwealth, Department of Justice
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+Before this Court are the consolidated appeals of various inmates (Petitioners) of the Cumberland County Prison (Prison) from classification determinations made by the Pennsylvania Bureau of Correction, Special Services Division (Bureau). These classifications, made pursuant to the Bureau’s duty under Section 3(4) of Act 502 of 1965 (Act 502), Act of December 27,19.65, P.L. 1237, as amended, 61 P.S. §460.3 (4), permitted the Prison to accept prisoners with sentences np to five years less one day. Petitioners complain that such a classification was an abuse of discretion and in total disregard of the Bureau’s findings regarding the Prison.
+Facts
+Initially, various inmates of the Prison filed a mandamus action in this Court in 1980, seeMng, inter alia, a classification of the Prison in accordance with the standards (Minimum .Standards) for county prisons adopted by the Department of Justice. 37 Pa. Code §1§95.221-.248. By order entered July 11, I960, this Court directed the Bureau to classify the Prison in accordance with those Minimum Standards.
+Pursuant to that Order the Director of the Bureau’s Special Services Division, by letter dated July 25, 1980, certified the prison as approved to accept prisoners with sentences up' to five years less one day. Petitioners then filed case No. 1996 C.D. 1980 (1980 classification) as an appeal from that certification. Another inspection was performed by the Bureau in 1981, with the issuance of a new certification on December 4, 1981, again approving the Prison to accept prisoners with sentences up to five years less one day. Case No. 812 C.D. 1982 (1981 classification) was then filed to review this second certification. Numerous motions have been filed by both sides and disposed of by orders of this Court previous to argument on the merits.
+Basis and Scope oe Review
+Before discussing the central issue of this appeal, a discussion of this 'Court’s power to hear the appeal is in order. The parties do not contest the fact that this Court, pursuant to Section 763(a)(1) of the Judicial Code, 42 Pa. C. S. §763(a) (1), has jurisdiction of.all appeals from final orders of Commonwealth agencies in any case “under Subchapter A of Chapter 7 of Title 2 ... or otherwise.” Of course, this .section only vests jurisdiction of appeals in this Court; it does not operate to give to a person a right of appeal. La-Camera v. Board of Probation and Parole, 13 Pa. Commonwealth Ct. 85, 317 A.2d 925 (1974). Therefore, in order for this Court to act, Petitioners must have a right to appeal the classifications.
+In support of their claimed right of appeal, Petitioners rely upon Section 702 of the Administrative Agency Law, 2 Pa. C. S. §702. That section provides: “Any person aggrieved by an adjudication of a Commonwealth agency who has a direct interest in such adjudication shall have the right to appeal therefrom. ...” For Petitioners to have a .right of appeal under this section, two distinct matters must be shown. First of all, there must be an adjudication. Adjudication is defined in the Administrative Agency Law as “Any final order, decree, decision, determination or ruling by an agency affecting personal or property rights, privileges, immunities, duties, liabilities or obligations of any or all of the parties to the proceeding in which the adjudication is made.” 2 Pa. C. S. §101. Quite clearly, these decisions of the Bureau which certified the Prison as able to accept prisoners up to the five year maximum term for county jails is a “final . . . decision . . . affecting . . . privileges, . . . duties . . .or obligations” of the Prison. Certainly if a decision adverse to the Prison had been issued by ithe Bureau, the Prison Board could have appealed the decision under the Administrative Agency Law. See County of York v. Department of Labor and Industry, Industrial Board, 43 Pa. Commonwealth Ct. 124, 401 A.2d 885 (1979). Thus, the first requirement of 2 Pa. C. S. §702 has been met.
+The second standard of Section 702 which must be shown is that the Petitioners are “person[a] aggrieved ... who [have] a direct interest in such adjudication.” Initially, we note that this provision encompasses aggrieved persons, not solely aggrieved parties; therefore, the fact that Petitioners were not parties to the Bureau’s proceedings would not in itself bar Petitioners from appealing from the adjudication. Official Court Reporters v. Pennsylvania Labor Relations Board, 67 Pa. Commonwealth Ct. 256, 264, 446 A.2d 1357, 1360-61 (1982). As the Pennsylvania Supreme Court has recently stated: “ [P]ursuant to Section 702, we must inquire whether, under traditional concepts of standing, [Petitioners] have been ‘aggrieved’ . . . and whether they have a ‘direct interest’....” Application of El Rancho Grande, Inc., 496 Pa. 496, 503, 437 A.2d 1150, 1153 (1981).
+‘ Clearly, the Petitioners here satisfy this basic standing requirement. The classification of any prison under Act 502 as eligible to receive prisoners sentenced to- a maximum five year term, done as it is with -regard to various minimum health, safety and welfare •requirements, has a direct impact on the well-being of prisoners housed therein. A classification made in total disregard of the Bureau’s own standards would permit a county prison to house prisoners in a manner -directly contra to minimums which the state, through .its regulations, has said the prisoners have a -right to expect.
+' Wehow move to an anlysis of the Bureau’s find•ings and conclusions in ordering the Prison eligible to receive five year maximum term prisoners. Our scope of review, under the-Administrative Agency Law, is to ascertain whether constitutional rights have been violated, any errors of law have been committed and whether the decision is supported by substantial evidence in the record. 2 Pa. C. S. §704.
+Ah examination of the two letters which embody the 1980 and 1981 classifications readily discloses that no finding of fact or conclusion of law in the normal sense were made by .the Bureau. However, each classification was made based upon the reports of yearly Prison inspections and we consider these inspection reports to be, in effect, the ¡basic findings of the Bu- ' reau upon which it based its ultimate decision that this Prison could accept prisoners for the maximum term allowable.
+1980 Classification
+The 19.80 inspection report disclosed the following violations of the Minimum Standards:
+1) The personal property receipt given to Prisoners did not list prisoner clothing. A violation of 37 Pa. Code §95.222(a) (4).
+2) There was not enough hot water available for showers and water pressure was insufficient. A violation of 37 Pa. Code §95.226(b) (4) (iv) and 37 Pa. Code §95.231(2).
+3) Shaving arrangements were inadequate. A violation of 37 Pa. Code §95.231(2).
+4) Inmates were not given a medical exam within 48 hours of admission. A violation of 37 Pa. Code §95.232(a) (1).
+5) Pood Service staff members were not medically certified to be free of communicable diseases. A violation of 37 Pa. Code §95.230(a) (5).
+6) Indoor recreation for females was limited due to space limitations. A violation of 37 Pa. Code §95.238(l)-(2).
+7) Locking systems of cells are by padlocks. ‘ ‘ The antiquated padlock system used on many of the cells creates a serious problem in case of emergencies. Easy and quick access to these cells is seriously limited in the event of a fire or other emergency possibilities.” A violation of 37 Pa. Code §95.241(a) (3) (v).
+8) “Much of the renovation done in recent years was completed with wood construction such as:
+A. Wood paneling: doubtful if it is fire retardant type.
+B. Wood stairways to second floor.
+C. The narrow hallways throughout the prison: doubtful if they meet standards of fire and safety. These areas are considered to be immediate fire and safety hazards.” A violation of 37 Pa. Code §95.248.
+After receipt of this report, the Prison Board, by way of a letter dated May 5,1980, notified the Bureau of changes intended or made as a result of the inspection. These changes would correct violations number 1, 2, 3, 4 and 5 listed above. While we recognize that the Prison was attempting to correct certain violations, we believe that the extremely serious nature of the remaining violations, which the Prison did not even address, are such that this Court, even after giving due deference to the Bureau’s expertise and discretion in such matters, cannot agree that the record provides substantial evidence to support the Bureau’s classification. The classification must therefore be reversed.
+1981 Classification
+In May of 1981, the Bureau again inspected the Prison. Numerous violations of the Minimum Standards were again found. These violations were:
+1) A temporary holding cell, not equipped with water or toilet facilities, was used for detention. A violation of 37 Pa. Code §95.226 (b) (4) (iii).
+2) Many cells were cluttered and dirty. A violation of 37 Pa. Code §95.226(b) (4) (v).
+3) “Due to the limitation of the Physical Plant a satisfactory classification program is not possible.” Classification, a process intended to ensure that the Prison meets its dual duties of correction and rehabilitation, is required by 37 Pa. Code §95.225.
+4) Inmates do not receive outdoor recreation on Saturdays or Sundays, as these are scheduled visiting days. 37 Pa. Code §95.238(1) requires all jails to provide all prisoners with at least two hours of outdoor exercise daily, weather permitting.
+5) “Indoor recreation is very limited due to lack of physical plant space. ’ ’ Weight lifting in a poorly ventilated area, television and table games are the only indoor recreation provided. A violation of 37 Pa. Code §95.238.
+6) “Wood stairways, narrow hallways and padlocks on individual cells . . . coupled with overcrowded conditions, are immediate fire and safety hazards.” Violations of 37 Pa. Code §95.241(a) (3) (v), §95.248.
+In response to this report, the Prison Board, on August 14, 1981, wrote to the Bureau, indicating that some renovations regarding fire safety would be undertaken, inspections for cleanliness were now undertaken and that the possibility of changing visitation hours to allow for weekend outdoor exercise was being studied.
+On November 10, 1981, the Bureau conducted a reinspection of the Prison. In its report, the Bureau again noted the following violations:
+1) Major renovation of the Physical Plant for the same problems found previously was needed, although it was recognized that “many” of the Labor and Industry fire safety recommendations, required to be complied with under 37 Pa. Code §95.248(4), would be completed “in the near future. ’ ’
+2) The holding cell was still found to be not .properly equipped, with no present plans to improve the cell.
+3) “[N]o plan to provide outdoor recreation on Saturdays and Sundays as it interferes with visiting (stated by the Warden). "
+4) Indoor recreation still inadequate, with reference to the problems of the Physical Plant.
+The reinspection report further noted that “ [t]his institution is extremely overcrowded intensifying the need for expansion or replacement of the facility.”
+As with the 1980 classification, we are of the opinion that the continuing seriousness of these uncorrected violations are such that we cannot agree that the record provides substantial evidence to support the Bureau’s classification. The 1981 classification is similarly reversed.
+Remedy
+Section 706 of the Judicial Code, 42 Pa. C. S. §706, authorizes this Court to undertake a variety of dispositions where the order appealed from is not affirmed. Petitioners have requested a limited remand of the case to the Bureau, pursuant to an order requiring the promulgation of formal regulations regarding inspection and classification. We believe, however, that such an order would be an encroachment upon the discretionary powers of the Bureau and therefore beyond the power of this Court in this case.
+The Bureau has requested that this Court remand the matter to it for more complete findings of fact to justify its decision. We are of the opinion, however, that there are no “missing” findings which could be made from the record certified to this Court and that a remand therefore would serve no purpose. See Klingensmith v. Department of Labor and Industry, 1 Pa. Commonwealth Ct. 204, 209, 273 A.2d 920, 923 (1971).
+We are therefore of the opinion that, in light of the serious nature of the existing violation by the Prison of the Minimum Standards, the following order should be entered.
+Order
+The orders of the Bureau of Corrections, Special Services Division, dated July 25, 1980, and December 4, 1981, regarding the classification of the Cumberland County Prison, are hereby reversed and the Bureau is hereby ordered to classify the Prison as eligible to receive prisoners sentenced to no greater than the maximum term of six months.
+“The Department of Justice shall have the power and its duty shall be: . . . (4) 'to inspect county jails and to classify them in accordance with [promulgated] standards ... as eligible to receive prisoners sentenced .to maximum terms of six months or more but less than five years.”
+The Bureau previously had not undertaken a formal classification of the Prison, although inspection of the Prison for compliance with the standards had been made.
+Inmates of the Cumberland County Prison v. Department of Justice (No. 1495 C.D. 1980, filed July 11, 1980) (per the author of the present opinion). This original jurisdiction matter is continuing ■in this Court.
+See 42 Pa. C. S. §9762.
+Since there was no procedure fey which Petitioners could attain party status in the Bureau’s proceedings, Petitioners’ review rights would not fee barred by either the judicial principle of exhaustion of administrative remedies or by the limitations of Section 703(a) of the Administrative Agency Law, 2 Pa. C. S. §703(a).
+■However, not having been a party .to the proceedings, Petitioners cannot assert a violation of section 504 of the Administrative Agency Law. 2 Pa. C. S. §504. Whether the Petitioners, or any prisoners, had a right to be accorded party status in the Bureau’s proceedings we do not now decide. Cf. Insurance Department v. Pennsylvania Coal Mining Association, 25 Pa. Commonwealth Ct. 3, 8, 358 A.2d 745, 748 (1976) (“A person is a party to an administrative proceeding if named as such or he may become a party by timely action if authorized by other applicable statutory law 'to do so or his interest therein is of constitutional proportions.”)
+The 1981 classification was in faclt the result of two inspections of the Prison that year.
+1980 inspection report, at page 11.
+Id.
+1981 inspection report, at page 6.
+Id. at page 8.
+Id. at page 5.
+1981 reinspeetion report, at page 5.
+A federal district court lias held 'that overcrowding of a prison is a violation of 37 Pa. Code §95.226. Padgett v. Stein, 406 F. Supp. 287, 298 (M.D. Pa. 1975).
+We would note that such a request has been made twice previously in the original jurisdiction case, and both times denied. Inmates of the Cumberland County Prison v. Department of Justice (No. 1495 C.D. 1980, order of June 30, 1982 and order of July 11, 1980). It is a general principle of administrative law that standards may be developed via individual adjudication rather than by rule-making. See Pennsylvania Buman Relations Commission v. Norristown Area School District, 473 Pa. 384, 345, 374 A.2d 671, 677 (1977).
+The responsibility for filing the entire record lies with, the Bureau. Pa. R.A.P. 1952.
