@@ -1,0 +1,42 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 178"
+decided: "1967-04-12"
+citations: ["209 Pa. Super. 452"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, P. J., Wright, Watkins, Montgomery, Jacobs, Hoffman, and Spaulding, JJ.", "Montgomery, J., joins in this dissent."]
+parties: ["Commonwealth v. Heard, Appellant."]
+source_url: "https://static.case.law/pa-super/209/cases/0452-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 778031
+cites_cases: ["1 A. 2d 812", "120 Pa. Superior Ct. 22", "130 A. 2d 195", "130 Pa. Superior Ct. 600", "133 Pa. Superior Ct. 104", "138 A. 686", "182 A. 103", "183 Pa. Superior Ct. 229", "19 A. 2d 920", "198 A. 465", "290 Pa. 195", "342 Pa. 282", "374 Pa. 570", "97 A. 2d 343"]
+---
+
+# Commonwealth v. Heard
+
+## Majority (Watkins, J.,)
+
+Opinion by
+Watkins, J.,
+This appeal is from the judgment of sentence of the Court of Oyer and Terminer of Allegheny County. The appellant, Robert L. Heard, was indicted and tried on two counts, voluntary manslaughter and involuntary manslaughter; the jury convicted him of involuntary manslaughter and he was sentenced to pay a fine of 6% cents and undergo imprisonment in the Allegheny County Workhouse of not less than 9 months nor more, than 18 months. The jury returned a verdict of guilty and therefore we must view the facts in a light most favorable to the Commonwealth.
+Appellant, a police officer of the City of Pittsburgh, was off duty, in civilian clothes, in the Blue Bell restaurant with a woman companion at about 5:30 a.m.; on Sunday, April 12, 1964. The restaurant is on Brighton Place in the City of Pittsburgh. Appellant and his girl were seated in the second booth drinking coffee and appellant overheard two men in the next booth using foul and vulgar language. He got up from his seat and became engaged in an altercation with the men about their language. The one man, Keally, said he was sorry but one, Frank Daley, became incensed when appellant told him “he better be sorry for using such bad language”, and told appellant he was “a loser”. Appellant asked him to go outside with him.
+One Thomas Daley, a. police officer for the County of Allegheny, also not in uniform, came up and pulled Frank Daley back, as a Mr. Gizzo grabbed Keally. Then a general fracas broke out. Appellant stepped behind the counter and attempted to exhibit his badge and drew his gun. He shouted for those involved to “hold it” or “I’m the boss”. Appellant fired a warning shot high into the side wall and a few seconds later another shot was fired which killed Charles Mushinsky, who was not engaged in the fracas and was trying to leave the restaurant. The restaurant was small, 14 x 20 feet, with a row of booths on one side and a counter on the other. Most of the patrons present stopped for coffee after a night of drinking. Appellant was armed as required by police regulations of city policemen while off duty, but he was carrying a .25 caliber Ortgies semi-automatic pistol and not a regulation .38 caliber revolver as called for in the regulation.
+Appellant contends the court below erred in admitting evidence of the type of weapon used by appellant and not instructing the jury to disregard this evidence as having no causal relationship to the victim’s death.
+The identification of the weapon which caused the death was a logical and necessary part of the Commonwealth’s case. The evidence regarding the type of weapon and its operation was not prejudicial to the defendant but apparently strengthened appellant’s theory of how the second shot was discharged. However, we agree with the appellant that the court below did err in its charge regarding involuntary manslaughter, the violation of a police regulation being an unlawful act forming a basis for a guilty verdict and as to the relative ease in firing the appellant’s weapon.
+As to involuntary manslaughter the court below at one point charged as follows: “If you find that the defendant Robert L. Heard was violating this regulation at the time the fatal shot was fired, you would be warranted in finding that the fatal shot was done in performing an unlawful act, and you would then determine whether or not that conduct exhibited a heedlessness and recklessness of conduct”.
+The crime of involuntary manslaughter has been defined as follows: “. . . ‘Involuntary manslaughter consists in “the killing of another without malice and unintentionally, but (1) in doing some unlawful act not amounting to a felony nor naturally tending to cause death or great bodily harm, or (2) in negligently doing some act lawful in itself, or (3) by the negligent omission to perform a legal duty” . . .’ ”. Com. v. Comber, 374 Pa. 570, 97 A. 2d 343 (1953); Com. v. Aurick, 342 Pa. 282, 19 A. 2d 920 (1941); Com. v. Mayberry, 290 Pa. 195, 138 A. 686 (1927).
+This describes three separate means of committing the crime and not that of killing while doing an unlawful act negligently as indicated by the charge. This tended to confuse the jury. Also the first portion of the charge as cited was tantamount to a directed verdict of guilty of involuntary manslaughter which was improper as discussed below.
+The admission of evidence that appellant violated the police regulation by carrying a weapon other than a .38 caliber revolver, and the charge that this conld form the basis of a guilty verdict of involuntary manslaughter was improper. The act here proven, carrying other than a .38 caliber revolver, was not unlawful, nor did it tend to cause death or great bodily harm. This case falls within the purview of Com. v. Williams, 133 Pa. Superior Ct. 104, 1 A. 2d 812 (1938), wherein this Court said: “In Com. v. Ushka, 130 Pa. Superior Ct. 600, at page 604, 198 A. 465, at page 467, we said, quoting from Com. v. Gill, supra, 120 Pa. Superior Ct. 22, at page 35, 182 A. 103, at page 108: ‘ “If the Act is unlawful, — that is, is forbidden by law, illegal, contrary to law, — and the death of another results as a consequence of it, it constitutes involuntary manslaughter” ’ ”.
+In Com. v. Piper, 183 Pa. Superior Ct. 229, 130 A. 2d 195 (1957), at page 233, this Court said: “Operating an automobile without an operator’s license, or permitting another without such license to operate one’s automobile, does not alone make the parties guilty of involuntary manslaughter if the car is involved in a fatal accident. The unlawful act must be something more than a remote unit in a sequence of events culminating in a fatality, or an attendant condition without which the death could not have occurred; the death must be the natural result or probable consequence of the unlawful act.” In that case the defendant violated an act of assembly while the regulation in the instant case was not one intended to prevent injury to the person nor did it set forth any legal consequence for its violation. It did not rise to the level of an ordinance, much less that of a statute, nor that of a departmental regulation, sanctioned and authorized by statute, the violation of which bears a legal consequence.
+In our opinion, the language of the above cited statute and cases imply more than that the unlawful act should be a remote unit in a sequence of events culminating in a fatality. Not only was the violation of the regulation not such an unlawful act, it was only a remote incident in the sequence of events. There was also no basis in the record for the jury to compare the appellant’s weapon to the regulation .38 caliber revolver as to ease of firing or otherwise and in light of the above such a comparison and any comment upon this matter by the court was irrelevant and improper.
+Appellant’s motion in arrest of judgment is dismissed as there may be sufficient evidence in the record from which a jury might find the negligent doing of some act lawful in itself.
+Judgment reversed and a new trial granted.
+
+## Dissent (Wright, J.:)
+
+Dissenting Opinion by
+Wright, J.:
+This appellant police officer was fortunate in that he was not convicted of an offense more serious than involuntary manslaughter. His conduct was inexcusable. At 5:30 A.M., while off duty and out of uniform, he became involved in an altercation, drew and fired his revolver, and killed an innocent bystander. Finding no prejudicial error in the charge of the trial judge, I would affirm the judgment below.
+Montgomery, J., joins in this dissent.
