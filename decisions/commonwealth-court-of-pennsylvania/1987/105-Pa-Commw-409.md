@@ -1,0 +1,53 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 3010 C.D. 1985"
+decided: "1987-04-22"
+citations: ["105 Pa. Commw. 409", "524 A.2d 1036"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Craig and DOYLE, and Senior Judge Kalish, sitting as a panel of three."]
+parties: ["Kathleen Knudsen, Administratrix of the Estate of David E. Knudsen, Deceased, Appellant v. Delaware County Regional Water Quality Control Authority, Percy Jones, The Borough of Upland and Chester-Upland School District, Appellees."]
+source_url: "https://static.case.law/pa-commw/105/cases/0409-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1358344
+cites_cases: ["101 Pa. Commonwealth Ct. 514", "348 Pa. Superior Ct. 618", "359 Pa. Superior Ct. 499", "478 A.2d 533", "496 Pa. 52", "502 A.2d 747", "512 Pa. 114", "512 Pa. 60", "516 A.2d 1", "84 Pa. Commonwealth Ct. 36", "93 Pa. Commonwealth Ct. 563"]
+---
+
+# Knudsen v. Delaware County Regional Water Quality Control Authority
+
+## Majority (Judge Doyle,)
+
+Opinion by
+Judge Doyle,
+Kathleen Knudsen, administratrix of the estate of David Knudsen (Appellant), appeals from an order of the Court of Common Pleas of Delaware County denying Appellants motion for delay damages upon a verdict recovered by her against the Delaware County Regional Water Quality Control Authority (DELCORA). We reverse and remand for further proceedings.
+On April 18, 1982, David Knudsen, Appellants son, died from injuries received in an accident that occurred on December 2, 1981. On the day of the accident, David Knudsen, a five-year-old kindergarten student at the Main Street Elementary School in Upland, was struck by a vehicle while attempting to cross 6th Street in Upland. The vehicle was owned by DELCORA and driven by its employee, Percy Jones.
+Appellant subsequently instituted a wrongful death and survival action against DELCORA and Jones. The authority joined the Borough of Upland (Borough) and the Chester-Upland School District (District) as additional defendants. At trial, a compulsory nonsuit was entered by the court in favor of the Borough and the District. The case was then submitted to the jury, which rendered a verdict of $445,000 solely against DELCORA. The trial judge, acting pursuant to Section 8553(d) of the Judicial Code (Code), 42 Pa. C. S. §8553 (d), molded the verdict to exclude no-fault death benefits paid to Appellant, thereby reducing the verdict to $430,000.
+Appellant then filed a motion seeking to have delay damages added to the verdict pursuant to the then-operational provisions of Pa. R.C.P. 238 (Rule 238). The trial judge, relying on Section 333 of the JARA Continuation Act of 1980, which provides in relevant part that “[n]o interest shall accrue in any . . . action [against a local agency] prior to the entry of judgment,” denied the motion.
+The immediate issue on this appeal is whether delay damages may be assessed against a local agency, notwithstanding the provisions of Section 333 of the JARA Continuation Act of 1980. Our Court has answered this question in the affirmative in City of Pittsburgh v. Pivirotto, 93 Pa. Commonwealth Ct. 563, 502 A.2d 747 (1985), petition for allowance of appeal granted, 512 Pa. 114, 516 A.2d 1 (1986), and that case controls our decision here. Appellees arguments that Pivirotto should be overruled are not persuasive.
+Once we determine, however, that the case must be remanded for the assessment of delay damages, we then face the issue of what is the proper legal standard to be applied at that time; the solution to this question is somewhat clouded by our Supreme Courts decision in Craig v. Magee Memorial Rehabilitation Center, 512 Pa. 60, 515 A.2d 1350 (1986). In Craig the operation of Rule 238 was suspended and in its place the Supreme Court articulated a new set of criteria to be used in determining whether delay damages should be assessed upon a verdict. The Supreme Court in Craig also stated that:
+[T]he suspension of the mandatory provisions of Rule 238 is to be given prospective effect only. Those parties whose cases are now in the appellate or post-trial process, who have not asserted attacks on the Rule 238 aspect of the damage award, may not now assert such challenges. However, in those cases where the issue has been preserved, the court before, whom the case resides on or after this date [October 8, 1986] is to resolve the issue in a manner consistent with this opinion.
+Id. at 66, 515 A.2d at 1353.
+In the posture of the case now before us, of course, there would have been no reason for the Appellee, DELCORA, to directly attack Rule 238, because the trial judge denied delay damages. But in its memorandum of law to the trial court in response to Appellants motion for delay damages, the issue of whether delay damages should be assessed under Rule 238 was preserved when DELCORA brought to the attention of the court that the purpose underlying Rule 238 was to compensate an injured plaintiff for delay attributable to defendants unreasonable failure to settle cases. See Craig, 512 Pa. at 63, 515 A.2d at 1352-53; Laudenberger v. Port Authority of Allegheny County, 496 Pa. 52, 436 A.2d 147 (1981). DELCORA has contended that in this case, “it has been the plaintiff, not the defendants, whose refusal to be reasonable prevented a settlement short of trial.” Page 5 of DELCORAs memorandum of law. More specifically, DELCORA contended that any delay was caused by Appellants refusal to accept DELCORAs offer of its maximum statutory liability under Section 8553(b) of the Code and its consistent demand for more. Cf. Shellhamer v. Grey, 359 Pa. Superior Ct. 499, 519 A.2d 462 (1986); Berry v. Anderson, 348 Pa. Superior Ct. 618, 502 A.2d 717 (1986). Indeed, in Craig one reason the Supreme Court suspended Rule 238 was that the plaintiff and not the defendant had caused the delay in that case. Craig, 512 Pa. at 65, 515 A.2d at 1353. Thus, having preserved the issue of Appellants fault for delay in settling the case, DELCORA is entitled to the application of the Craig criteria upon remand.
+Upon remand the trial court should consider, as part of the other pertinent factors discussed in Craig, the Appellants reasons for not accepting offers equivalent to the statutory limitation on damages applicable to actions against local agencies.
+The order of the Court of Common Pleas of Delaware County is reversed and the case remanded for further proceedings consistent with this opinion.
+Order
+Now, April 22, 1987, the order of the Court of Common Pleas of Delaware County, No. 82-9247, dated October 23, 1985, is hereby reversed and the case remanded for further proceedings consistent with this opinion.
+For a prior history of this phase of the litigation, see Knudsen v. Delaware County Regional Water Quality Control Authority, 84 Pa. Commonwealth Ct. 36, 478 A.2d 533 (1984).
+The provisions of Pa. R.C.P. No. 238 are as follows:
+Except as provided in subdivision (e), in an action seeking monetary relief for bodily injury, death or property damage, or any combination thereof, the court or the arbitrators appointed under the Arbitration Act of June 16, 1836, PL. 715, as amended, 5 P.S. §30 et seq., or the Health Care Services Malpractice Act of October 15, 1975, P.L. 390, 40 P.S. §1301.101 et seq., shall
+(1) add to the amount of compensatory damages in the award of the arbitrators, in the verdict of a jury, or in the courts decision in a nonjury trial, damages for delay at ten (10) percent per annum, not compounded, which shall become part of the award, verdict or decision;
+(2) compute the damages for delay from the date the plaintiff filed the initial complaint in the action or from a date one year after the accrual of the cause of action, whichever is later, up to the date of the award, verdict or decision.
+(b) In arbitration under the Act of 1836, the amount of damages for delay shall not be included in determining whether the amount in controversy is within the jurisdiction of the arbitrators.
+(c) Except as provided in subdivision (e), damages for delay shall be added to the award, verdict or decision against all defendants found liable, no matter when joined in the action.
+(d) The court may, and on request of a party shall, charge the jury that if it finds for the plaintiff, it shall not award the plaintiff any damages for delay because this is a matter for the court.
+(e) If a defendant at any time prior to trial makes a written offer of settlement in a specified sum with prompt cash payment to the plaintiff, and continues that offer in effect until commencement of trial, but the offer is not accepted and the plaintiff does not recover by award, verdict or decision, exclusive of damages for delay, more than 125 percent of the offer, the court or the arbitrators shall not award damages for delay for the period after the date the offer was made.
+(f) If an action is pending on the effective date of this rule, or if an action is brought after the effective date on a cause of action which accrued prior to the effective date, damages for delay shall be computed from the date plaintiff files the initial complaint or from a date one year after the accrual of the cause of action, or from a date six (6) months after the effective date of this rule, whichever date is later.
+(g) This rule shall not apply to
+(1) eminent domain proceedings:
+(2) pending actions in which damages for delay are allowable in the absence of this rule.
+Act of October 5, 1980, P.L. 693, 42 P.S. §20043.
+The decision in Pivirotto was filed on December 19, 1985, well after the trial court here entered its order denying delay damages.
+The Supreme Court held that the fectfinder should at least consider the following criteria in making a decision on a plaintiffs entitlement to delay damages: (1) length of time between starting date, see Pa. R.C.P. 238(a)(2), and the verdict; (2) the parties’ respective responsibilities in requesting continuances; (3) the parties’ compliance with the rules of discovery; (4) the respective responsibilities for delay necessitated by the joinder of additional parties; and (5) other pertinent factors. Craig v. Magee Memorial Rehabilitation Center, 512 Pa. 60, 66, 515 A.2d 1350, 1353 (1986).
+42 Pa. C. S. §8553(b).
+We note our Courts decision in Loeffler v. Mountaintop Area Joint Sanitary Authority, 101 Pa. Commonwealth Ct. 514, 516 A.2d 848 (1986). In Loeffler we remanded the case to allow the trial court to determine whether the appellee had preserved an attack upon Rule 238.
