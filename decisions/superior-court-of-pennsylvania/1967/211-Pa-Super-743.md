@@ -1,0 +1,21 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 267"
+decided: "1967-12-08"
+citations: ["211 Pa. Super. 743"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Wright, J., took no part in the consideration or decision of this case."]
+parties: ["Engel, Appellant, v. Kuzma."]
+source_url: "https://static.case.law/pa-super/211/cases/0743-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 781386
+---
+
+# Engel v. Kuzma
+
+## Majority
+
+Judgment affirmed.
+Wright, J., took no part in the consideration or decision of this case.
