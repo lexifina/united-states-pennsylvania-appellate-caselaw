@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 73"
+decided: "1953-07-14"
+citations: ["173 Pa. Super. 263"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, Ross, Gunther and Wright, JJ."]
+parties: ["O’Donnell Unemployment Compensation Case."]
+source_url: "https://static.case.law/pa-super/173/cases/0263-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1067260
+cites_cases: ["15 A. 2d 898", "158 Pa. Superior Ct. 518", "163 Pa. Superior Ct. 436", "164 Pa. Superior Ct. 131", "62 A. 2d 113", "63 A. 2d 383", "67 A. 2d 801"]
+---
+
+# O'Donnell Unemployment Compensation Case
+
+## Majority (Rhodes, P. J.,)
+
+Opinion by
+Rhodes, P. J.,
+This is an appeal by claimant from the decision of the Unemployment Compensation Board of Review that she was ineligible to receive unemployment compensation as she was voluntarily unemployed without good cause. Section 402 (b) of the Act of December 5, 1936, P. L. (1937) 2897, as amended by the Act of April 23, 1942, P. L. 60, §4, 43 PS §802 (b). Claimant was employed as a clerk by the American Stores Company, in Philadelphia, from August, 1943, until October 15,1951. On October 15, 1951, she voluntarily left her employment to accept a new position elsewhere. However, on November 11, 1951, she returned and was rehired by her former employer.
+Throughout her employment with the American Stores Company claimant had been a member in good standing of the Retail Clerks International Association, A. F. of L. She was fully aware of the fact that her continued employment with the American Stores Company required her to maintain her union membership in good standing. Having quit her employment, she was obliged to obtain a withdrawal card or she would be suspended after sixty days. She did not ask for a withdrawal card because she had no intention of returning to her employment with the American Stores Company. Consequently, on January 1, 1952, when she was delinquent for sixty days in the payment of her dues, the local union suspended her, as it was required to do by the constitution of the international union. As she refused thereafter to pay the fee of $25 and be reinstated, her employer, upon notification by the union and in accordance with the collective bargaining agreement, necessarily discontinued her employment on February 2, 1952.
+We have held that “good cause” for voluntarily leaving employment connotes “adequate excuses that will bear the test of reason, just grounds for action, and always the element of good faith.” Sturdevant Unemployment Compensation Case, 158 Pa. Superior Ct. 518, 556, 15 A. 2d 898, 903. In Kaylock Unemployment Compensation Case, 165 Pa. Superior 376, 378, 67 A. 2d 801, 802, we said that a claimant must bear the burden of showing “that his conduct met the standards of ordinary common sense and prudence, and that he acted with good faith.” The present record indicates that claimant could have revived her good standing as a union member after her return to work with the American Stores Company if she had so desired. The Board from the evidence found “that claimant had ample opportunity to tender in full the union dues owed by her prior to her suspension, and even after this suspension had taken place, claimant had the further opportunity of complying by paying a reinstatement fee of $25.00. She refused to avail herself of these opportunities and instead chose to lose her status as an employe.”
+No serious consideration could be given to claimant’s argument that her professed ignorance and indifference concerning union rules excused her failure to maintain her union membership. As a matter of fact, claimant’s supervisor cautioned her shortly after her return to work in November to contact the union directly and to comply with the union requirements.
+There may be circumstances in which a union’s demands upon an employe are so severe and unreasonable as to constitute good cause for leaving his employment. But claimant’s unemployment resulted from her own fault, in that it was incurred entirely through her own procrastination, indifference, and arbitrary attitude. She was responsible for the situation, which could have been reasonably avoided, but which forced her employer to dispense with her services. See Michalsky Unemployment Compensation Case, 163 Pa. Superior Ct. 436, 439, 62 A. 2d 113. She knew the consequences of neglect to pay her dues after her reemployment, and of her persistent refusal to pay the reinstatement fee which was a condition for union membership after non-payment of dues brought about her suspension.
+The Board determined that the claimant’s loss of employment was “volitional,” and that the imposition of the reinstatement fee constituted “no compelling or necessitous reason” for her action in bringing about the termination of the employment relationship. The evidential facts sustain the conclusion of the Board. An employe is bound to exercise reasonable diligence in the conduct of his own affairs. “It seems entirely reasonable to hold that a claimant who neglects to take those precautions to guard his job, which a reasonably prudent person would take, ... in effect leaves his employment voluntarily”: Vernon Unemployment Compensation Case, 164 Pa. Superior Ct. 131, 135, 63 A. 2d 383, 384.
+Decision is affirmed.
+Section 34 of the constitution of the Retail Clerks International Association, A. If. of L., reads as follows: “Any member of a Local Union sixty days in arrears for dues, fines or assessments shall stand suspended. No local or officer shall accept and receipt for dues without a reinstatement fee after the expiration of said sixty days. No local or officer shall credit any member except as specified in Section 33 (d) under penalty of fine or expulsion or both.”
+Article II, §2, of the agreement between American Stores Company and the Retail Clerks International Association, A. F. of L., reads as follows: “The Union shall notify the Employer, in writing, of any failure of any employee to maintain good standing, and the Employer shall notify the employee of the receipt of such notice and if the employee does not adjust his standing upon such notification, the Employer shall discharge the employee.”
+See section 3, Art. I, of the Act of December 5, 1936, P. L. (1937) 2897, 43 PS §752.
