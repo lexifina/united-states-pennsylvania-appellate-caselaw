@@ -1,0 +1,49 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2173 C.D. 1978"
+decided: "1979-11-20"
+citations: ["47 Pa. Commw. 360"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Menceb, Blatt and Craig, sitting as a panel of three."]
+parties: ["Solomon Barnett, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/47/cases/0360-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1903605
+cites_cases: ["10 Pa. Commonwealth Ct. 235", "12 Pa. Commonwealth Ct. 550", "146 A.2d 615", "16 Pa. Commonwealth Ct. 558", "188 Pa. Superior Ct. 247", "25 Pa. Commonwealth Ct. 512", "25 Pa. Commonwealth Ct. 522", "309 A.2d 358", "309 A.2d 840", "317 A.2d 324", "332 A.2d 888", "35 Pa. Commonwealth Ct. 275", "360 A.2d 288", "360 A.2d 842", "365 A.2d 668", "385 A.2d 1047", "404 A.2d 770", "44 Pa. Commonwealth Ct. 646", "453 Pa. 488"]
+---
+
+# Barnett v. Commonwealth
+
+## Majority (Judge Cbaig,)
+
+Opinion by
+Judge Cbaig,
+Claimant, in this appeal from a denial of benefits by the Unemployment Compensation Board of Review (board), alleges that there is no evidence or finding of fact in the record that his past criminal convictions, the extent of which he concealed from his employer, concerned matters material to the nature of his employment, and therefore that the board erred in concluding that his discharge was a result of willful misconduct under Section 402(e) of the Unemployment Compensation Law.
+In response to the question on a state civil service job-application form, claimant admitted the existence of one previous criminal conviction and explained his affirmative response on that form as “suspicion of burglary. ” The Southeastern Pennsylvania Institutional Area Service Unit (SPISU) later hired him as a food service worker, a civil service job. The SPISU is under the direction of the Pennsylvania Department of Welfare (DPW).
+Claimant then came under consideration for promotion to a supervisory position with SPISU. During that time, the State Civil Service Commission reviewed his application and requested DPW to verify the nature and extent of Ms conviction record. He received the promotion, but shortly thereafter his superiors at SPISU questioned him about Ms convictions. At that time he claimed that the charge was “thrown out of court.” A subsequent check revealed his several burglary and larceny convictions and that he had been incarcerated for a period of time.
+Willful misconduct is conduct which involves a conscious disregard of the employer’s interests, Harbutz v. Unemployment Compensation Board of Review, 10 Pa. Commonwealth Ct. 235, 309 A.2d 840 (1973), and a disregard of standards of behavior which an employer has a right to expect of his employee. Lower Gwynedd Township v. Unemployment Compensation Board of Review, 44 Pa. Commonwealth Ct. 646, 404 A.2d 770 (1979).
+In cases involving an employee’s concealment or falsification of personal background information, it is settled that, to be willful misconduct, such concealment or falsification must be deliberate, not the result of error or inadvertence, MacFarlane v. Unemployment Compensation Board of Review, 12 Pa. Commonwealth Ct. 550, 317 A.2d 324 (1974), and the information concealed or falsified must be material to the qualifications of the employee for the job, Sun Shipbuilding & Dry Dock Co. v. Unemployment Compensation Board of Review, 35 Pa. Commonwealth Ct. 275, 385 A.2d 1047 (1978); Unemployment Compensation Board of Review v. Dixon, 27 Pa. Commonwealth Court 8, 365 A.2d 668 (1976); Cecchini Unemployment Compensation Case, 188 Pa. Superior Ct. 247, 146 A.2d 615 (1958).
+In reviewing the record to apply the relevant law, we must remember that our scope of review is confined to questions of law and, absent fraud, whether or not any necessary findings of fact are supported by substantial evidence, Unemployment Compensation Board of Review v. Finn, 25 Pa. Commonwealth Ct. 512, 360 A.2d 288 (1976). Additionally, the party prevailing below is to be given the benefit of any inferences which can reasonably be drawn from the evidence. In Re: Claim of James Wright, 25 Pa. Commonwealth Ct. 522, 360 A.2d 842 (1976).
+Claimant’s strongest argument is that a conclusion of willful misconduct is not warranted in this case because there is no evidence in the record to support any finding that the information which claimant concealed, concerning his convictions of burglary and larceny, is material to his job.
+If claimant’s only transgression had been his ambiguous and less-than-candid explanation of his previous criminal conviction on the form he filled out when he applied for entry-level employment, this might be a closer case because he did admit the conviction at that time, and was hired only as a food service worker, a position in which he was under supervision. In that posture, the materiality requirements of Dixon, supra, and Sun Shipbuilding & Dry Dock Co., supra, might not have been met.
+However, we consider the central finding in this case to be the referee’s Finding No. 4:
+On February 19, 1976, when the claimant was further questioned by his employer he claimed the record was complete as stated and that the case mentioned was ‘thrown out of court. ’
+The documentary evidence in the record reveals that this questioning was done in connection with his promotion to a supervisory position.
+Thus, when the commission requested a review of his record in connection with his promotion to a supervisory position, he consciously falsified and concealed a personal history of convictions for offenses directly related to the issue of his honesty and integrity.
+An employee’s trustworthiness is essential to his employment in a job which necessarily requires supervision of other employees and valuable equipment and goods.
+Claimant’s brief argues extensively that there is error in treating nondisclosure of a criminal record as a per se violation of employment duties such as to be considered willful misconduct under Section 402(e) of the Law, and mentions a policy that the state should not allow criminal records to haunt the lives of persons who have long since been rehabilitated and assumed careers and lives as responsible citizens. See Secretary of Revenue v. John’s Vending Corp., 453 Pa. 488, 309 A.2d 358 (1973).
+Such a policy is reasonable, but all the facts of each case must be considered.
+Here, we conclude only that claimant’s deception on his application for employment, together with his subsequent outright falsification of the nature and extent of his past convictions in connection with his pending promotion to a supervisory position, sufficiently distinguish his conduct from that involved in Dixon, supra, and Sun Shipbuilding, supra.
+In contrast, the Dixon case dealt with an assistant machine operator, and the record in that case did not reveal the nature of the offenses for which claimant was arrested. Consequently, nothing in the record could support any inference of materiality.
+Similarly, in Sun Shipbuilding & Dry Dock Co., supra, a case also involving a machinist, the record supported inferences that the claimant was charged with a relatively minor drug offense (the nature of which was not detailed), an offense which could not be assumed to be material to employment as a machinist’s helper.
+Moreover, both Dixon, supra, and Sun Shipbuilding & Dry Dock Co., supra, involved only arrests, not convictions.
+In this case, giving the prevailing party below, the employer, the benefit of favorable inferences, we cannot say that it was error to infer that convictions of larceny and burglary are material to employment in a capacity involving supervision of materials, personnel and equipment.
+Obdeb
+And Now, this 20th day of November, 1979, the order of the Unemployment Compensation Board of Review dated August 14, 1978, at No. B-163100, is hereby affirmed.
+Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §802 (e). This statute disqualifies any claimant discharged due to his own willful misconduct.
+Claimant argues that, based on our decision in Lebanon County Board of Assistance v. Unemployment Compensation Board of Review, 16 Pa. Commonwealth Ct. 558, 332 A.2d 888 (1975), the compensation authorities applied the wrong legal standard to this case.
+Claimant contends that, when the Commonwealth is the employer, willful misconduct must embrace the just-cause-for-dismissal requirements of the Civil Service Act, Act of August 5, 1941, P.L. 752, as amended, 71 P.S. §741.1 et seq.
+Although we need not decide whether a civil service employe must be held to a more exemplary standard of conduct than a private sector employee for purposes of the willful misconduct disqualification under the Unemployment Compensation Act, see, Lower Gwynedd Township v. Unemployment Compensation Board of Review, supra, (policeman’s conduct must conform to higher standards when viewed in light of expectations an employer may rightfully expect), it is clear that the Lebanon County Board of Assistance ease did not fuse the distinct concept of just-cause-for-dismissal under the Civil Service Act with the concept of willful misconduct under the Unemployment Compensation Act. We said there that the Commonwealth-employer “had the burden to prove wilful misconduct as we have defined it [in the applicable unemployment compensation case law].” 16 Pa. Commonwealth Ct. at 560, 332 A.2d at 889.
+Consequently we cannot agree that, for purposes of unemployment compensation, the SPISU bore the burden of showing that claimant was incompetent so as to constitute just cause in addition to demonstrating that his conduct was willful, deliberate and culpable.
