@@ -1,0 +1,50 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "490; No. 600"
+decided: "1983-12-02"
+citations: ["321 Pa. Super. 486", "468 A.2d 814"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CAVANAUGH, MONTEMURO and HESTER, JJ.", "CAVANAUGH, J., filed a dissenting statement."]
+parties: ["COMMONWEALTH of Pennsylvania, Appellant, v. Ronald C. DANIELS."]
+source_url: "https://static.case.law/pa-super/321/cases/0486-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 590369
+cites_cases: ["238 Pa.Super. 508", "288 Pa.Super. 414", "302 Pa.Super. 515", "305 Pa.Super. 283", "362 A.2d 1005", "493 Pa. 65"]
+---
+
+# Commonwealth v. Daniels
+
+## Majority (HESTER, Judge:)
+
+HESTER, Judge:
+On January 24, 1980, appellant, Ronald C. Daniels, was charged with possession with intent to deliver a controlled substance, knowingly or intentionally possessing a controlled substance and the manufacture of a controlled substance. He was held for court on all but the charge of manufacture of a controlled substance. The original 180-day run-date under Pa.R.Crim.P. No. 1100 was July 22, 1980.
+On July 21, 1980, the Commonwealth filed a Petition for Extension under Rule 1100(c). Said petition was granted and the run-date was extended to October 13, 1980. On October 9, 1980, a second petition for the extension of the 180-day period was filed; it too was granted with the proviso that no further extensions be granted. The run-date was therein extended to December 10, 1980.
+On December 10, 1980, the day of trial, the Commonwealth’s only witness, a police officer, was “on-call” and was on his way to court when the case was called. In deference to the “must be tried” order then in effect, the lower court dismissed the charges, sua sponte, pursuant to Rule 1100. The Commonwealth subsequently filed a Petition to Reconsider Discharge under Rule 1100. That petition was also denied and the Commonwealth filed this prompt appeal.
+Pennsylvania Rule of Criminal Procedure 1100 serves the dual purpose of protecting the accused’s speedy trial rights and assuring the public that trials will be commenced promptly so that those convicted will be readily punished. Where an extension of the trial date beyond the 180-day period is requested, and the Commonwealth neither purposefully abuses the accused’s speedy trial rights nor lacks due diligence in preparing the prosecution, said 180-day period should not be strictly enforced. Commonwealth v. Reihart, 302 Pa.Super. 515, 449 A.2d 35 (1982); Commonwealth v. Long, 288 Pa.Super. 414, 432 A.2d 228 (1981); Commonwealth v. Genovese, 493 Pa. 65, 425 A.2d 367 (1981).
+It is to be noted here this matter was continued on two occasions prior to the Commonwealth’s final request on December 10, 1980. These two earlier Commonwealth petitions for extensions were granted due to defense counsel’s illness, appellee’s illness and defense counsel’s busy schedule. The Commonwealth was prepared to proceed at each of the earlier trial listings.
+Normally, the Commonwealth’s due diligence is discussed where the court is considering the propriety of an application for an extension of the 180-day run-date. See, Pa.R. Crim.P. No. 1100(c)(3). Here, there was no such application. When the case was called for trial on the extended run-date and the Commonwealth’s only witness was not present, the court dismissed the charges. We do believe, however, that the due diligence standard and the reasonableness of the Commonwealth’s actions are also pertinent where the court, of its own volition, dismisses the charges on the run-date with a few hours remaining on that day’s court calendar.
+We have held that the practice of placing Commonwealth witnesses on call in order that they would be available for trial within a short period of time does not constitute lack of due diligence. Commonwealth v. Sheppard, 305 Pa.Super. 283, 451 A.2d 533 (1982). In Sheppard, supra, this Court held:
+The issue presented by this Commonwealth appeal is whether placing a Commonwealth witness on call, so that she would be available for trial within minutes, constitutes a lack of due diligence entitling defendant to a discharge from criminal liability under Pa.R.Crim.P. 1100. We hold that such is not a lack of due diligence; therefore appellant’s convictions for robbery and related offenses will be reinstated and the case remanded for further proceedings consistent with this opinion.
+Id., 305 Pa.Superior Ct. at 289, 451 A.2d at 535-536. In support of its holding, the Sheppard court made the following policy statements:
+The well-established practice of placing a witness on call at his or her home or place of business preserves the time, expense, and future availability of the witness. It insures that when the defense is actually ready to proceed to trial, the Commonwealth will be ready, unhampered by disillusioned witnesses who have “given up” on the case and stopped showing up for trial listings.
+The lower court granted relief on an erroneous legal theory and incorrectly concluded that the Commonwealth was not prepared or duly diligent simply because its complaining witness was on call. When the interest at risk is the public’s right to the imposition of appropriate punishment for defendant’s predatory conduct, the lower court’s eagerness to discharge defendant under Rule 1100 in order to express its disapproval of the Commonwealth’s following the well-established practice of having its witness on call, conveys the unfortunate impression of ‘[s]trained and illogical judicial construction, [which] adds nothing to our search for justice, but only serves to expand the already bloated arsenal’ of criminal defendants. Commonwealth v. Genovese, 493 Pa. at 72, 425 A.2d at 371.
+Id., 305 Pa.Superior Ct. at 290-291, 451 A.2d at 536-537.
+We further note that the court’s dismissal was premature. It would be anomalous indeed to permit the sua sponte dismissal of the action under Rule 1100 where several hours remained on the run-date, while it is firmly held that a petition to dismiss presented on the 178th or 179th day shall be denied because the period has not expired. Commonwealth v. Robinson, 238 Pa.Super. 508, 362 A.2d 1005 (1976).
+This case was dismissed at 12:45 p.m. There is no evidence that the assigned trial judge nor any other judge was unable to commence trial later that afternoon. Moreover, the Commonwealth did act reasonably and with due diligence in securing its only witness for trial. Unfortunately, that witness was a police officer whose presence in the station or on a beat is equally important for law enforcement purposes as his service as a prosecution witness. For this reason, we will not deem the Commonwealth’s trial preparation as slothful. The witness was “on call”, had been notified of the immediacy of trial and was, in fact, proceeding to the courtroom at the time of dismissal. Barring unforeseen circumstances, he would have arrived in court in time to justify the commencement of trial later that day.
+The Commonwealth was not frantically seeking time in order to prepare its case at the last moment; preparation was complete and it was simply waiting the arrival of its sole witness. More importantly, the run-date had not expired. For these reasons, we reverse and remand for trial.
+Reversed and remanded.
+CAVANAUGH, J., filed a dissenting statement.
+. The Commonwealth had actually subpoenaed two police officers for trial with the opinion that either one would sufficiently serve the prosecution. One officer was unavailable due to employment-related injuries. The other officer was summoned to court from the Police Administration Building in Philadelphia on the day of trial.
+. We are troubled by the court's dismissal of the proceedings without motion by appellee. Rule 1100 does not expressly preclude the court’s sua sponte dismissal; however, Rule 1100(f) discusses the defendant's motion to dismiss. No provision provides for the court’s sua sponte dismissal. • This issue, though deserving of attention, is not considered due to our disposition of the remaining issue raised by the Commonwealth.
+
+## Dissent (CAVANAUGH, Judge,)
+
+CAVANAUGH, Judge,
+dissenting:
+I respectfully dissent. The facts of this case must be viewed in the context of the trial judge’s obligation to manage the proceedings in his courtroom. In this case, an extension of time in which to commence trial was granted by Judge Caesar until December 10, 1980. The order provided that the trial date was “not to be further extended.” At the opening of court on December 10, 1980, the trial court was told by the prosecutor that the state’s only witness, a police officer, was “on call”. The judge was told at 10:30 a.m. that the witness was “on his way.” The court was waiting to commence trial but could not do so until the witness for the prosecution was present in court. At noon the court told the prosecutor that if the witness was not present by 12:30 the case would be dismissed, and, in fact, the case was dismissed at about 12:45 p.m. as the witness had not appeared.
+The court below in its opinion concisely sets forth the heart of the matter in this case. The judge stated:
+This Court defends itself in this matter due to the proper administration required by its supervisory capacity. In this case the Commonwealth being fully aware that the case was ordered tried on December 10, 1980, nevertheless indicated to the Court that it had placed a witness on call rather than have him present in the Courtroom at 9:30 A.M. as most witnesses are required.
+The court is charged with the duty of judicial administration. The trial judge must be in charge of his courtroom and he properly dismissed the case since the Commonwealth did not comply with his directive to proceed at 12:30 p.m. The prosecutor’s statement on the trial date that “we have until midnight to try this case” was improper in view of the trial judge’s directive that trial be commenced no later than 12:30 p.m.
+I would affirm.
