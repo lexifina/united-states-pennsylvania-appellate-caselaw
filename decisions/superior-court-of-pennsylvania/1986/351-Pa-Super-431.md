@@ -1,0 +1,59 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "582"
+decided: "1986-03-10"
+citations: ["351 Pa. Super. 431", "506 A.2d 424"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WICKERSHAM, CIRILLO and JOHNSON, JJ."]
+parties: ["Richard J. BELL and Ruth Bell, His Wife, Appellants, v. Ernest P. SANTIAGO."]
+source_url: "https://static.case.law/pa-super/351/cases/0431-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 649833
+cites_cases: ["101 Misc.2d 92", "278 Pa.Super. 547", "420 N.Y.S.2d 692", "435 N.Y.S.2d 551", "503 Pa. 286", "78 A.D.2d 775", "N.Y. Insurance Law § 671"]
+---
+
+# Bell v. Santiago
+
+## Majority (WICKERSHAM, Judge:)
+
+WICKERSHAM, Judge:
+This is an appeal from an order granting a motion for summary judgment entered September 28, 1984, in the Court of Common Pleas of Cumberland County.
+In an opinion supporting the entry of summary judgment the court discussed the underlying facts and the issue as:
+Defendant’s vehicle struck the rear of plaintiffs’ automobile at an intersection in Camp Hill, Pennsylvania, on March 21, 1980. Plaintiff Richard Bell sustained injuries to the cervical spine as a result of the accident. His symptoms continued to bother him; on April 11, 1980, he sought medical treatment in Corning, New York, where he resides. He was later advised that his injuries were serious and permanent. Plaintiff commenced this action in trespass on March 25, 1982. Defendant claims that the action is barred by Pennsylvania’s two-year statute of limitations; his motion for summary judgment is now before the court.
+Plaintiff and defendant agree that New York law will determine whether or not plaintiff may sue in tort. The Pennsylvania No-Fault Motor Vehicle Insurance Act states: “The right of a victim or a survivor of a deceased victim to sue in tort shall be determined by the law of the state of domicile of such victim.” 40 Pa.C.S. § 1009.-110(c)(2). Plaintiff contends that New York’s three-year statute of limitations should be applied in this case; defendant contends that 110(c)(2) does not require the court to apply the statute of limitations of the victim’s domicile state, and that the Pennsylvania Statute of limitations applies.
+This appeal timely followed. We reverse.
+Appellants raise a novel issue in this appeal by asking this court to determine whether under the Pennsylvania No-fault Motor Vehicle Insurance Act, a non-resident’s suit in tort is governed by Pennsylvania’s two-year statute of limitations set forth in 42 Pa.C.S. § 5524(2); or whether the statute of limitations period is governed by the law of the non-resident’s domicile state.
+Insofar as the right of a victim to sue in tort is concerned, section 110(c)(2) of the No-fault Act, states:
+The right of a victim or of a survivor of a deceased victim to sue in tort shall be determined by the law of the state of domicile of such victim. If a victim is not domiciled in a state, such right to sue shall be determined by the law of the state in which the accident resulting in injury or damage to property occurs.
+See Toter v. Knight, 278 Pa.Super. 547, 550-51, 420 A.2d 676, 678 (1980).
+Instantly, the victim was domiciled in New York and was injured in an automobile accident in Pennsylvania. Appellants’ right to sue in tort, therefore, is governed by the law of New York.
+Although appellants’ right to sue is governed by New York law, we hold that the Pennsylvania statute of limitations is applicable to the case. Section 110(c)(2) of the No-fault Act does not affect the application of this state’s statute of limitations to a given action. Rather, that provision merely specifies the right of a victim injured while in interstate travel to sue in tort as determined by the law of his domicile.
+Limitation laws are generally deemed to affect the remedy only and not the substantive right, and therefore, in the absence of a statute of the forum changing the rule, and subject to certain other exceptions which are hereinafter discussed, the statutes of limitation of the place where the action is brought and the remedy is sought to be enforced, and not those of the place where the contract was made, the right in tort arose, or the plaintiff resides, or of the domicil of one or the other of the persons affected by the litigation, control in the event of a conflict of laws. In short, under this rule, the lex fori determines the time within which a cause of action shall be enforced.
+51 Am.Jur.2d, Limitation of Actions, § 66 (footnotes omitted).
+Having established that Pennsylvania’s statute of limitations applies, we next address appellants’ allegation of error by the court below in holding that this action is barred by virtue of the two-year limitations statute. Specifically, appellants argue that a genuine issue of material fact still exists as to when the statute of limitations began to run, and that, therefore, the summary judgment should be overturned. We agree.
+Under the No-fault Act in Pennsylvania as it existed in 1982, there was no right to bring suit in tort for non-economic detriment until certain threshold requirements were met. 40 P.S. § 1009.301. For example, Pennsylvania had a $750.00 medical expense threshold. (Section 301(a)(5)(B).) New York’s “no-fault” law is intended to limit recoverable damage to those damages beyond the “no-fault” benefits, i.e., for a noncovered “serious injury” for which a suit for pain and suffering is maintainable.
+The New York three-year statute of limitations begins to run on the date of the accident, notwithstanding that a victim may not have yet reached the no-fault threshold. Taber v. Niagara Frontier Transit Authority, 101 Misc.2d 92, 420 N.Y.S.2d 692 (1979), aff'd, 78 A.D.2d 775, 435 N.Y.S.2d 551 (1980). Taber holds that a plaintiff is on immediate notice, as of the date of the accident, of the infliction of harm and subsequently need only' judge its extent or seriousness ... and that a diligent plaintiff should be able to determine whether a “serious injury” occurred. In Pennsylvania, the limitations period does not start to run until the claimant knows, or in the exercise of reasonable diligence should have known, that one of the section 301(a) thresholds has been reached. Bond v. Gallen, 503 Pa. 286, 469 A.2d 556 (1983). Bond holds that a claimant has no cause of action until a statutory threshold has been met, since part or all of the statutory period could run before a right to sue existed.
+We hold that the right of a victim of a motor vehicle accident to sue in tort shall be determined by the law of his domicile, (here, New York permitted such a suit), but when the tort action is brought in a Pennsylvania court, we will apply the Pennsylvania statute of limitations and the interpretation of our court as to when and under what circumstances our statute begins to run.
+Instantly, appellants’ cause of action must be examined by the trial court under a Bond analysis. This was not done.
+In summary, we hold that under a Pennsylvania interpretation of our statute of limitations, the non-resident plaintiff (appellants herein) had two years to file suit in Pennsylvania from the date that plaintiff knew, or in the exercise of reasonable diligence should have known, that he had sustained a “serious injury” as the New York statute defines that phrase.
+There being material issues of fact in dispute, the court could not properly grant appellee’s motion for summary judgment. We therefore reverse and remand for further proceedings not inconsistent with this opinion. Jurisdiction is relinquished.
+. Appellant properly raised the following preserved issues:
+1. Whether Pennsylvania’s two (2) year statute of limitations set forth at 42 PaCS § 5524 rather than New York’s three (3) year statute of limitations set forth at CPLR 203 applies to the instant case?
+2. Whether plaintiffs failed, as a matter of law, to commence the instant action within the applicable statute of limitations governing actions in tort for noneconomic detriment under the Pennsylvania No-fault Motor Vehicle Insurance Act (Act 1974, July 19th, PL 489, No. 176, 40 P.S. § 1009.101 et seq. “No-fault Act’’)?
+Brief for Appellant at 3.
+. Act of July 19, 1974, P.L. 489, No. 176, 40 P.S. § 1009.101 et seq, repealed by Act of February 12, 1984, P.L. 26, No. 11, § 8(a), effective October 1, 1984.
+. As our court stated in Toter v. Knight:
+This provision has been criticized as being "impossible of interpretation or execution.” Barrett, Pennsylvania No-Fault Motor Vehicle Insurance Act: Practice Under the Act 102 n. 51 (Pa.Bar Institute 1975). We do not find it all that obscure. The provision embodies two choice-of-law principles: 1) The right of the victim of a motor vehicle accident to sue in tort shall be determined by the law of his domicile; and 2) if the victim is not domiciled in a state, the victim’s right to sue shall be determined by the law of the state in which the accident occurred. The first principle applies to this case, for the amended complaint alleges that appellant was domiciled in New Jersey at the time of the accident. It therefore follows the appellant’s right to sue must be determined by the law of New Jersey, not Pennsylvania, and it further follows that appellant’s action [is] not barred by section 301(a).
+In holding that appellant’s action was barred, the lower court found an irreconcilable conflict between sections 110(c)(2) and 301(a). The lower court emphasized that under section 301(a) ”[t]ort liability is abolished with respect to any injury that takes place in this State,” and that the words "any injury" necessarily encompass injuries by non-residents. While we concede that section 301(a) might have been more tightly drafted, we nevertheless reject the assertion that it is in irreconcilable conflict with section 110(c)(2).
+Id., 278 Pa.Super. at 550-51, 420 A.2d at 678.
+. 40 P.S. § 1009.301 provides in pertinent part:
+§ 301. Tort liability.
+(a) Partial abolition. — Tort liability is abolished with respect to any injury that takes place in this State in accordance with the provisions of this act if such injury arises out of the maintenance or use of a motor vehicle, except that:
+******
+(5) A person remains liable for damages for non-economic detriment if the accident results in:
+(A) death or serious and permanent injury; or
+(B) the reasonable value of reasonable and necessary medical and dental services, including prosthetic devices and necessary ambulance, hospital and professional nursing expenses incurred in the diagnosis, care and recovery of the victim, exclusive of diagnostic x-ray costs and rehabilitation costs in excess of one hundred dollars ($100) is in excess of seven hundred fifty dollars ($750). For purposes of this subclause, the reasonable value of hospital room and board shall be the amount determined by the Department of Health to be the average daily rate charged for a semi-private hospital room and board computed from such charges by all hospitals in the Commonwealth____
+. ‘Serious injury’ means a personal injury which results in death; dismemberment; significant disfigurement; a fracture; permanent loss of use of a body organ, member, function or system; permanent consequential limitation of use of a body organ or member; significant limitation of use of a body function or system; or a medically determined injury or impairment of a non-permanent nature which prevents the injured person from performing substantially all of the material acts which constitute such person’s usual and customary daily activities for not less than ninety days during the one hundred eighty days immediately following the occurrence of the injury or impairment.
+N.Y. Insurance Law § 671(4) (McKinney).
