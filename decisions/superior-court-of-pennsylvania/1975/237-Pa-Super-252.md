@@ -1,0 +1,41 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 1322"
+decided: "1975-12-01"
+citations: ["237 Pa. Super. 252"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Watkins, P. J., Jacobs, Hoffman, Cercone, Price, Van der Voort, and Spaeth, JJ."]
+parties: ["Bollinger Appeal."]
+source_url: "https://static.case.law/pa-super/237/cases/0252-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6771148
+cites_cases: ["1 A.2d 812", "133 Pa. Superior Ct. 104", "148 Pa. Superior Ct. 142", "212 Pa. Superior Ct. 208", "239 A.2d 870", "24 A.2d 743"]
+---
+
+# Bollinger Appeal
+
+## Majority (Hoffman, J.,)
+
+Opinion by
+Hoffman, J.,
+Appellant, a juvenile, challenges the lower court’s order which required her to pay restitution under 11 Pa. C.S. §2002.
+On September 27,1974, appellant, who was then seventeen years old and who did not have a driver’s license, borrowed one Mrs. Mildred Salyard’s Ford Maverick. At about 2:00 p.m., appellant, accompanied by a schoolmate, was driving on Logan Boulevard in the City of Altoona, when her car collided with a 1970 Chevrolet owned by Joseph Blazevich. Appellant panicked because she had no license and sped from the scene of the accident. A witness to the accident picked up Blazevich and unsuccessfully attempted to overtake the Maverick. Although not stated explicitly in the record, police apparently discovered that Mrs. Salyard owned the car by tracing the license plate number. She apparently revealed that appellant had borrowed the car.
+After investigating the facts surrounding the accident, Officer Milliron of the Altoona Police Department swore out a complaint charging appellant with violation of §§601 and 1027 of The Vehicle Code. On March 13, 1975, a preliminary hearing was held before the juvenile court. Barbara Reiger, appellant’s companion at the time of the accident, testified that a man (Blazevich) had run the red light, that appellant then had hit Blaze-vich’s vehicle and that they had kept on going. The matter was returned to the juvenile court for an adjudicatory hearing. Appellant appeared before the court on April 16, 1975, at which time she admitted that she had no license and that she left the scene of the accident because she was afraid. The court issued the following order: “. . . we direct: ...
+“2. That you remain on probation in the custody of your mother until attaining the age of 18 during which period of time you shall neither receive a permit nor a license to operate a motor vehicle,
+“You and your mother further are directed to make restitution to Mr. Blazevich or his Insurance Carrier who has paid the same the costs of the repairs of his motor vehicle; to wit, the sum of $210 or such amount less than that as is determined by the Director of Fines and Costs to have been the damages sustained.”
+During the course of the hearing, appellant’s counsel contended that the court could not order restitution under 11 Pa.C.S. §2002 because appellant’s delinquent acts did not cause the accident: “Your Honor, while we are admitting to the charges we’re not admitting to any’restitution. The question of the responsibility of this accident is not clear cut as to any possible restitution Order . . . .
+“. . . Our position is the victim caused this damage.
+“BY THE COURT: He says he did not.
+“[BY APPELLANT’S COUNSEL] : That’s what makes Civil cases.”
+This appeal is taken from that part of the court’s Order that directs payment of restitution and does not challenge the finding of delinquency.
+11 Pa.C.S. §2002 provides that: “Any parent whose child under the age of eighteen years is found liable or is adjudged guilty by a court of competent jurisdiction of a wilful, tortious act resulting in injury to the person, or theft, destruction or loss of property of another, shall be liable to the person who suffers the injury, theft, destruction, or loss to the extent hereinafter set forth.” (Emphasis added.) Since the passage of the new act, this Court has not addressed the issue of the propriety of an order to pay restitution after a finding of delinquency. However, this Court resolved a similar factual situation in Trignani’s Appeal, 148 Pa. Superior Ct. 142, 24 A.2d 743 (1942). In Trignani, the juvenile court ordered appellant to make restitution in the amount of $1,040 to the victim of the juvenile’s negligence. This Court stated : “The original order was improper. In placing a juvenile on probation, a court undoubtedly may impose such terms as will bring home to the minor a realization of the seriousness of his delinquency. . . . But the order in itself indicates that reformation was not its primary purpose. By requiring the minor to make ‘restitution through the court’ to the injured woman, the court assumed jurisdiction to determine civil liability and to execute its finding. This is not a function of a juvenile court and is entirely outside of its jurisdiction.” 148 Pa. Superior Ct. at 144-45, 24 A.2d at 744-745. (Emphasis added.)
+The new act does permit the juvenile court to order a parent to pay restitution under certain circumstances— most importantly, when the injury or damage results from the juvenile’s “wilful, tortious” conduct. Further, violations of §§601 and 1027 of The Vehicle Code, supra, unquestionably are wilful acts — §601 prohibits the unlicensed operation of a motor vehicle on the highway; §1027 requires an operator of a motor vehicle involved in an accident to stop. Obviously, appellant’s failure to stop after the accident did not cause the accident. While §601 is intended to bar unqualified drivers from our highways, appellant’s violation of §601 was not the legal cause of the accident in the instant case. See, generally, Commonwealth v. Clowser, 212 Pa. Superior Ct. 208, 239 A.2d 870 (1968) ; Restatement of Torts, 2d, §9 Legal Cause. Appellant’s counsel made clear to the court that appellant did not concede civil liability. Both appellant and her passenger stated during the course of litigation that the operator of the Chevrolet caused the accident when he ignored a red traffic signal. To give effect to the lower court’s order would circumvent the normal course of civil litigation.
+Therefore, the order of the lower court is reversed insofar as it imposed liability upon appellant to pay restitution.
+Van der Voort, J., dissents.
+. Act of July 27, 1967, P.L. 186, §2.
+. Act of April 29, 1959, P.L. 58, §101 et seq.; as amended Act of December 2, 1971, P.L. 591, No. 157, §1.
+. The extent of the parents’ liability is set forth in §2004: “(a) Liability of the parents shall be limited to three hundred dollars . . . for injuries to the person, or theft, destruction, or loss of property suffered by any one person as a result of one wilful, tortious act or continuous series of wilful, tortious acts.”
+. The statute in effect at the time Trignani was decided, Act of June 2, 1933, P.L. 1433, §1, 11 P.S. §243 et seq., did not provide for the payment of restitution by the juvenile or by the child’s parents. The holding of the case, however, did not rely on the absence of express authority to impose restitution; rather, the Court found that such an order could be made pursuant to the general philosophy of the act as stated in §243.
+. The facts of the instant case are similar to those in Commonwealth v. Williams, 133 Pa. Superior Ct. 104, 1 A.2d 812 (1938). In Williams, the appellant failed to renew his license. He was subsequently involved in an accident that resulted in the death of another motorist. Thereafter, he was found guilty of involuntary manslaughter, a finding based on the appellant’s failure to renew his license. “The Court held that the operation of a motor vehicle without a license, although in violation of The Vehicle Code, was not an act sufficient, as a matter of law, to render the driver guilty of involuntary manslaughter. The Court emphasized that the defendant had been absolved of any negligent conduct, and thus, interpreted this as evidence that defendant’s conduct was not the legal cause of the accident.” Commonwealth v. Clowser, 212 Pa. Superior Ct. at 211-212, 239 A. 2d at 872.
