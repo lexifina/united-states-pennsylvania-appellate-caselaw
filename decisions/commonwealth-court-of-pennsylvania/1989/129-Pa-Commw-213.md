@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "2691 C.D. 1988"
+decided: "1989-10-18"
+citations: ["129 Pa. Commw. 213", "565 A.2d 201"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before COLINS and SMITH, JJ., and BARBIERI, Senior Judge."]
+parties: ["The MILTON S. HERSHEY MEDICAL CENTER OF the PENNSYLVANIA STATE UNIVERSITY, Petitioner, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF PUBLIC WELFARE, Respondent."]
+source_url: "https://static.case.law/pa-commw/129/cases/0213-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1395522
+cites_cases: ["492 A.2d 104", "55 Pa. Code § 1163.59", "89 Pa. Commonwealth Ct. 192", "99 Pa.Commonwealth Ct. 475"]
+---
+
+# Milton S. Hershey Medical Center of Pennsylvania State University v. Commonwealth
+
+## Majority (SMITH, Judge.)
+
+SMITH, Judge.
+Milton S. Hershey Medical Center of the Pennsylvania State University (Hershey) appeals from an order of the Secretary of the Department of Public Welfare (DPW) denying reimbursement of costs under Pennsylvania’s medical assistance program, 62 P.S. §§ 201-488. The issue before this Court is whether DPW’s decision to deny Hershey reimbursement for sixty days of inpatient medical services was supported by substantial evidence.
+Jennifer Kreiser was admitted to the pediatric intensive-care unit at Hershey on May 3, 1986 with a diagnosis of Leighs Syndrome. Subsequent examination revealed that this child had bleeding in her brain stem secondary to Leighs Syndrome. Upon admission, Jennifer was intubated and placed on mechanical ventilation and several weeks later a gastrostomy tube was inserted and a tracheotomy performed. Within one month of admission, Jennifer’s physicians concluded that she was in the terminal stage of Leighs Syndrome and “would continue a downward course with periods of stability on supportive therapy.” (Petitioner’s Exhibit C-4). Jennifer remained in Hershey’s intensive care unit until December 9, 1986, at which time she was transferred to Hummelstown Child Care Center (Hummelstown). Jennifer died in February of 1987.
+Effective July 1, 1984, DPW implemented a diagnosis specific payment system for inpatient hospital services which provides for a predetermined specific rate for each medical assistance recipient discharged from care. This predetermined rate is considered payment in full for the services rendered to the discharged recipient. 55 Pa.Code § 1163.51(f). In recognition of those cases in which care is required in excess of what DPW has determined to be average, 55 Pa.Code § 1163.56 permits additional reimbursement for “outlier” days, defined as “an inpatient hospital case having either an extremely long length of stay or extraordinarily high costs in comparison to most discharges for the same diagnosis related group (DRG).” 55 Pa.Code § 1163.2.
+Hershey requested that DPW certify or authorize payment for 190 outlier days of treatment for Jennifer; however, DPW refused certification for treatment between October 10, 1986 and December 9, 1986. DPW argues that this result is mandated by 55 Pa.Code § 1163.59(c)(3) which provides that certain days will not be treated as outlier days:
+(c) For purposes of determining a day outlier under § 1163.56 (relating to outliers) the following days are excluded:
+(3) Days of inpatient care due to unnecessary delays in applying for a court ordered commitment, grace periods, administrative days and custodial care related or unrelated to court commitments or to protective services. For purposes of this chapter, custodial care is defined as maintenance, rather than curative care, or an indefinite basis, while grace periods and administrative days relate to days of care while awaiting placement elsewhere.
+DPW contends that Hershey actually began its effort to transfer Jennifer within weeks of her admission and that the transfer would have been accomplished earlier if an alternate level care facility had been available and ready to accept her.
+DPW further argues that Jennifer did not require acute inpatient hospital services during the sixty day period following October 10, 1986 and that she could have been treated in a lower level of care facility although no medical testimony was presented to substantiate DPW’s position. This position was adopted by the hearing officer and affirmed by the Secretary in his final order of October 21, 1988. Hershey maintains that Jennifer was not receiving custodial care during her hospitalization but in fact required acute impatient care services up until the day she died. Medical records from Hershey indicate that Jennifer remained in intensive care on a respirator throughout her hospitalization, required suctioning every two hours, received antibiotic therapy and other medications and that she periodically experienced seizures.
+The hearing officer concluded that “efforts were being made to transfer this terminally ill patient as early as May 29,1986 and the patient would have been transferred earlier if an alternate level of care facility would have been available and ready to accept her.” Hearing Officer Adjudication, p.4. The mere attempt by Hershey to transfer a patient is not the situation which triggers 55 Pa. Code § 1163.59(c)(8). At issue is the level of care Jennifer received during the sixty day period and whether or not the care provided remained at the level of acute care. Mercy Hospital v. Department of Public Welfare, 89 Pa. Commonwealth Ct. 192, 492 A.2d 104 (1985). No finding was made by the hearing officer as to whether or not the care provided by Hershey was acute. Additionally, medical testimony concerning Jennifer’s level of treatment after her transfer to Hummelstown, which would aid in determining the ultimate issue, does not appear in the record.
+This case is therefore remanded to DPW for the purpose of taking evidence and making findings concerning the level of treatment provided to Jennifer during the sixty day period for which outlier payment is sought by Hershey as well as the level of treatment which was administered at Hummelstown to determine whether or not Jennifer’s treatment was merely custodial or rose to the level of acute care.
+ORDER
+AND NOW, this 18th day of October, 1989, the order of the Secretary of the Department of Public Welfare is vacated, and this case is remanded to the Department of Public Welfare to conduct further hearings and make additional findings as to the level of treatment provided by Petitioner to Jennifer Kreiser between October 10 and December 9, 1986 and the level of treatment provided by Hummelstown Child Care Center subsequent to December 9, 1986 in accordance with the opinion filed herein.
+Jurisdiction relinquished.
+. Act of June 13, 1967, P.L. 31, as amended, 62 P.S. §§ 201-488.
+. This Court's scope of review is limited to a determination of whether the adjudication is supported by substantial evidence, is in accordance with the law, or whether any constitutional rights were violated. Harston Hall Nursing & Convalescent Home, Inc. v. Department of Public Welfare, 99 Pa.Commonwealth Ct. 475, 513 A.2d 1097 (1986).
+. Although the adjudication of the hearing officer (adopted by the Secretary) does not specify precisely which language in 55 Pa.Code § 1163.59(c)(3) is relied upon, it appears that the hearing officer is denying certification on the basis of the custodial care exclusion.
