@@ -1,0 +1,41 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "137 C.D. 1989"
+decided: "1989-12-06"
+citations: ["130 Pa. Commw. 79", "566 A.2d 1283"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before COLINS and McGINLEY, JJ., and NARICK, Senior Judge."]
+parties: ["McKEESPORT AREA SCHOOL DISTRICT, Appellant, v. McKEESPORT AREA EDUCATION ASSOCIATION, Appellee."]
+source_url: "https://static.case.law/pa-commw/130/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1397384
+cites_cases: ["473 Pa. 576", "476 Pa. 27", "489 A.2d 945", "492 Pa. 515", "519 Pa. 380", "520 Pa. 266", "88 Pa. Commonwealth Ct. 141"]
+---
+
+# McKeesport Area School District v. McKeesport Area Education Ass'n
+
+## Majority (NARICK, Senior Judge.)
+
+NARICK, Senior Judge.
+The McKeesport Area School District (District) appeals from an order of the Allegheny County Court of Common Pleas, which affirmed an arbitrator’s award, sustaining the McKeesport Area Education Association’s (Association’s) grievance. Pursuant to the parties’ collective bargaining agreement (Agreement), they selected the arbitrator from a panel furnished by the American Arbitration Association. We affirm.
+The Association, specifically Thomas Lawrence, filed the grievance on April 29, 1986. Additional teachers later joined in the same. The basis for the grievance was the McKeesport Area School Board’s (Board’s) application of its July 11, 1955 resolution. It reads as follows: “That all teachers elected beginning with the term 1955-1956 who have already completed their required military training, be granted one increment in addition to the normal starting salary.”
+The claim submitted to the arbitrator reads as follows: “The McKeesport Area School District has acted in a discriminatory manner by failing to compensate or inequitably compensate all employees who have completed military service prior to being employed by the district.” Even though the Association filed the grievance over one month after meeting informally with the District’s superintendent on April 29, 1986, the arbitrator still found that it was timely filed.
+The issue before the arbitrator was whether the District acted in a discriminatory manner by failing to compensate or inequitably compensate all employees who had completed military service prior to being employed by the District. Finding in favor of the Association, on May 16, 1987 he entered the following award:
+The grievance is found to have merit to the extent that those grievants hired after the adoption of the 1955 Board policy ... were and are entitled to the increments it provides for, calculated in the same manner as it has calculated other increments voluntarily paid for it. The District shall tender payment therefore to them, coupled with interest thereon as provided for by the School Code, within thirty days of this date.
+Subsequent modifications to that award occurred, wherein the arbitrator made the following clarifications. On July 6, 1987, the arbitrator provided that only employees hired after the adoption of the 1955 Board policy should receive a lump sum of $200 or $300 depending upon the amount of the increment at the time they were hired. The arbitrator further clarified the award on July 27, 1987, deciding that the four employees hired after the increment was changed from $200 to $300, whom the School District had paid only $200, should receive an additional $100 for each year of their service.
+The sole issue before us is whether the arbitrator’s award drew its essence from the Agreement. County of Centre v. Musser, 519 Pa. 380, 548 A.2d 1194 (1988); Community College of Beaver County v. Community College of Beaver County, Society of Faculty, 473 Pa. 576, 375 A.2d 1267 (1977). As per our Supreme Court, it is implicit that the award not be manifestly unreasonable. Pennsylvania Liquor Control Board v. Independent State Stores Union, 520 Pa. 266, 553 A.2d 948 (1989).
+Even if the arbitrator failed to perceive properly the issue before him or resolved it erroneously, our Supreme Court has held that this does not justify judicial interference. Leechburg Area School District v. Dale, 492 Pa. 515, 424 A.2d 1309 (1981). Therefore, because these two parties negotiated together and produced an Agreement, we examine the award solely to determine whether the arbitrator’s award was rationally derived from the Agreement and not manifestly unreasonable.
+As per his opinion, the arbitrator’s rationale is twofold. First, he analyzed the past practice of the parties. Second, he alluded to Article X(f) of the Agreement, which reads as follows: “NONDISCRIMINATION CLAUSE—The provisions of this Agreement shall be applied equally to all professional employees in the bargaining unit without discrimination as to age, sex, marital status, race, color, creed, national origin, political affiliation, or handicap.”
+As per this Court in the case of Greater Johnstown Area Vocational Technical School v. Greater Johnstown Area Vocational Technical Educational Association, 88 Pa. Commonwealth Ct. 141, 489 A.2d 945 (1985), there are four arbitration situations where evidence of past practice can be used as indicia of parties’ intentions. This case involves the fourth type, where past practice evidence may prove a condition of employment that cannot be derived from specific language of the Agreement.
+The arbitrator noted that the past practice in this case was the District making military service payments before the Agreement took effect in 1971. He further observed that as of the date of his opinion, May 16, 1987, the District was still making payments to those teachers who had received them between July 1955 and 1971. It is not clear to this Court whether the District is currently making payments.
+In his opinion, the arbitrator stated that the Agreement and all subsequent modifications thereto did not address the military service increment. Nonetheless, he found that even though the parties had not incorporated the 1955 policy into the Agreement per se, he must treat it as a component of the parties’ overall bargain because of the District’s past practices described above. He further noted in his opinion that “had the School District simply ceased making military service payments when the initial Agreement between these Parties took effect in 1971, its argument that the policy was thereby superseded might be more cogent.” (Arbitrator’s opinion p. 8.)
+Because we held in Greater Johnstown that an arbitration award could draw its essence from an agreement if the arbitrator based his conclusions on a past practice, we find that this award drew its essence from the Agreement.
+For these reasons, we affirm the trial court’s order.
+ORDER
+AND NOW, this 6th day of December, 1989, the order of the Court of Common Pleas of Allegheny County in the above-captioned matter is hereby affirmed.
+. Section C of the Agreement requires the aggrieved party to attempt informal resolution of the grievance, prior to submitting it in writing.
+. As per Section C of the Agreement: “A grievance shall be deemed waived unless it is submitted within fifteen (15) calendar days after the aggrieved party knew or should have known of the events or conditions on which it is based.” However, the arbitrator found no untimeliness here because there was no convincing showing that the subject of military service payment was ever raised with Thomas Lawrence or any of the other grievants.
+. Because we find that the arbitrator’s first rationale demonstrates that the award drew its essence from the Agreement, we do not address the second reason here.
+. According to Greater Johnstown, the four situations are: (1) to clarify ambiguous contractual language; (2) to implement language of the contract which sets forth only a general rule; (3) to modify or amend apparently unambiguous language which has arguably been waived by the parties; and (4) to create or prove a separate, enforceable condition of employment which is not derived from the express language of the agreement. Id., 88 Pa.Commonwealth Ct. at 145 n. 3, 489 A.2d at 947 n. 3 (citing County of Allegheny v. Allegheny County Prison Employees Independent Union, 476 Pa. 27, 381 A.2d 849 (1977)).
