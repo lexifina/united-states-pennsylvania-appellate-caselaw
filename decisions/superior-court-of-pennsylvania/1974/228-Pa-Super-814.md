@@ -1,0 +1,21 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 529"
+decided: "1974-02-07"
+citations: ["228 Pa. Super. 814"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Spaulding, J., absent."]
+parties: ["Commonwealth v. Forba, Appellant."]
+source_url: "https://static.case.law/pa-super/228/cases/0814-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 811206
+---
+
+# Commonwealth v. Forba
+
+## Majority
+
+Judgment of sentence affirmed.
+Spaulding, J., absent.
