@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 135"
+decided: "1917-07-13"
+citations: ["67 Pa. Super. 615"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Kephart, Trexler and Williams, JJ."]
+parties: ["Moershfelder’s Estate."]
+source_url: "https://static.case.law/pa-super/67/cases/0615-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 629122
+cites_cases: ["100 Pa. 458", "100 Pa. 628", "114 Pa. 10", "116 Pa. 612", "134 Pa. 250", "208 Pa. 414", "220 Pa. 531", "244 Pa. 35", "246 Pa. 378", "61 Pa. 196", "61 Pa. 43", "75 Pa. 337"]
+---
+
+# Moershfelder's Estate
+
+## Majority (Kephart, J.,)
+
+Opinion by
+Kephart, J.,
+This is an appeal from an order refusing an issue devisavit vel non. The appellant claims the right to an issue under the forty-first section of the Act of March 15, 1832, P. L. 146, to determine the question of undue influence. This right, as it relates to what may be called a dispute upon a matter of fact, has been recently discussed in an opinion by Mr. Justice Moschzisker, in Phillips’ Est., 244 Pa. 35-41. “An issue devisavit vel non is a matter of right where the existence of a substantial dispute upon a material question of fact is demonstrated to the court by competent evidence which, under the circumstances of the case, measures in probative force up to the requirements of the law; or, in other words, — as the rule has heretofore most often been put, —when upon a review of all the proofs a verdict against the will could be properly sustained by a trial judge, the controversy must be submitted to a jury, even though the judge should feel that were he sitting as a juror he would not draw the inferences or reach the conclusions contended for by the contestants. But if the testimony is such that the judge would feel constrained to set aside a verdict against the will as contrary to the manifest weight of the evidence, determined according to relevant legal standards, it cannot be said that a substantial dispute has arisen.” “The ‘absolute right of the parties’ to a trial by jury depends upon ‘the strength of their evidence,’ and to determine that, on an application for an , issue, the Orphans’ Court must hear and weigh the proofs ás a whole.” Where the will is assailed upon the ground of undue influence, the trial judge sits as a chancellor bound by the same rules which concern the duties of a trial judge, and subject to the same limitations: Phillips’ Est., supra.
+The learned trial judge 'found as a fact “there does not seem to be any evidence to sustain the allegation of want of insufficient capacity of the decedent to make a will.” An examination of the testimony amply sustains this finding. The appellant asserts that the testatrix’s mind was so fettered and controlled by an unjust prejudice engendered against her through the conduct and acts of her brother, George, that the testatrix was compelled to make a will disinheriting the appellant. George’s motive was revenge for the trouble he was then having with the appellant, and the compulsion exercised came from his cruel treatment of his mother, which placed her in fear. There is not a scintilla of evidence to support this charge. There is no testimony tending to show that the testatrix had an unjust prejudice against the appellant, or that George used any language or committed any act which would cause her to have such prejudice. Hé did not suggest any of the provisions of the will tending to disinherit her, or favorable to himself. The estate was divided equally among the testatrix’s children with the exception of the appellant. There is no evidence of misrepresentation of character or conduct. The only suggestion coming from the mother that her son controlled her acts was that he had insisted on a will being made, and she did so because she was afraid of him. The uncontradicted testimony, however, shows that when the will was made the testatrix made it very plain what she proposed to do concerning the appellant, and over, the objection of this same son, who wanted his sister to share equally with the other children, the testatrix directed the bequest to be given this appellant. The reason comes from the appellant. She lived alone and frequently had trouble with her mother. Without elaborating further on this phase of the case, we may say that while the son may have misbehaved toward his mother, it frequently happens that such child stands high in the mother’s affection, and is ofttimes the chief object of her bounty. No such preference, however, is here shown. We conclude that the case does not present a dispute upon any question of fact. There was no undue influence exercised to control the deliberate will of the testatrix, and she acted wholly independent of any external influence or control. Had all the facts contained in this record been submitted to a jury, a verdict against the proponents of the will would have to be set aside.
+Decree affirmed.
