@@ -1,0 +1,47 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1155 C.D. 1978"
+decided: "1979-06-01"
+citations: ["43 Pa. Commw. 177"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Mencer, Rogers, Blatt, DiSalle and Craig. Judges Wilkinson, Jr. and MacPi-iail did not participate.", "President Judge Bowman concurs, in the result only.", "Judge Mencer dissents."]
+parties: ["Commonwealth of Pennsylvania, Petitioner v. Council 13, American Federation of State, County and Municipal Employees, AFL-CIO, by and through its Trustee ad Litem, Gerald W. McEntee, Respondent."]
+source_url: "https://static.case.law/pa-commw/43/cases/0177-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1897764
+cites_cases: ["17 Pa. Commonwealth Ct. 238", "28 Pa. Commonwealth Ct. 323", "291 A.2d 93", "331 A.2d 588", "363 U.S. 593", "368 A.2d 834", "380 A.2d 1302", "447 Pa. 439", "473 Pa. 493", "473 Pa. 576", "475 Pa. 413"]
+---
+
+# Commonwealth v. Council 13, American Federation of State, County & Municipal Employees
+
+## Majority (Judge Crumlish, Jr.,)
+
+Opinion by
+Judge Crumlish, Jr.,
+We affirm the arbitrator’s award which is the subject of this appeal.
+A three-week budget impasse in the General Assembly in August, 1977, temporarily suspended legislative appropriations. During the period of impasse, many state employees, including those represented by AFSCME, were not paid.
+Before ns to decide are the following questions: Does the arbitrator’s determination that the Commonwealth violated the collective bargaining agreement in failing to make the prescribed bi-weekly salary payments during the impasse draw its essence from the agreement? Secondly, is the arbitrator empowered to award interest on monies improperly withheld?
+Our scope of review of an arbitration award is stringently restricted to a consideration of whether the award draws its essence from the collective bargaining agreement or whether there is any rational basis in the agreement for such an award. Community College of Beaver County v. Community College of Beaver County, Society of the Faculty (PSEA/NEA), 473 Pa. 576, 375 A.2d 1267 (1977). On review, the arbitrator’s interpretation of the parties’ intent is treated as a finding of fact. Only will we disturb his findings when the arbitrator has manifestly disregarded the terms of the agreement; a claim that an arbitrator has incorrectly interpreted the intention of the parties to the agreement is not cognizable on appeal. Leechburg Area School District v. Leechburg Education Association, 475 Pa. 413, 380 A.2d 1302 (1977).
+The Commonwealth argues that the fact that the agreements themselves recognized the constitutional prohibition against its making any salary payments without legislative authorization militates against the interest award. We consider that the only issue which we must and do here decide is that the arbitrator did not manifestly disregard the agreements when he concluded that the Commonwealth’s failure to make bi-weekly payments did, in fact, violate the collective bargaining agreements.
+Next, the Commonwealth argues that (1) the imposition of interest on the Commonwealth is prohibited by sovereign immunity; (2) the imposition of interest penalizes the executive branch of the Commonwealth when the malfunction in enacting a timely budget was the sole responsibility of the General Assembly, thus offending the constitutional doctrine of separation of powers; and (3) the imposition of interest is in manifest disregard of the terms of the agreement.
+To allow interest or not is the bedrock of the Commonwealth’s contentions. The resolution of all three objections depends on the interpretation of the collective bargaining agreement.
+Our Supreme Court’s decision, Purdy Estate, 447 Pa. 439, 442, 291 A.2d 93, 95 (1972), is authority for the proposition that a sovereign state may be liable for interest in the absence of a specific contractual or statutory provision where the Commonwealth either “expressly or by reasonable construction of a contract or statute . . . has placed itself in a position of liability.” Thus, where, as here, an arbitrator determines that the Commonwealth has impliedly consented to liability, sovereign immunity is not a bar to the award of interest.
+Whether or not the award of interest is violative of the separation of powers doctrine likewise depends upon the terms of the agreement. Here, the arbitrator determined that the Commonwealth as sovereign, and not merely its executive branch, was party to the agreement. We read in the preambles to both agreements support for his interpretation.
+This Agreement entered into by Council 13 American Federation of State, County, and Municipal Employees, AFL-CIO, hereinafter referred to as the Union, and the Commonwealth of Pennsylvania, herein referred to as the Employer, has as its purpose the promotion of harmonious relations between the Union and the Employer; the establishment of an equitable and peaceful procedure for the resolution of differences; and the establishment of rates of pay, hours of work, and other conditions of employment. (Emphasis added.)
+From this, we must conclude that the Commonwealth’s argument, that the award of interest is a constitutionally prohibited assessment against its executive branch, is without merit.
+Finally, in determining whether the arbitrator has exceeded his authority by awarding interest paid on the delayed compensation, we look to both federal and state labor decisions which have recognized the existence of broad powers in arbitrators to fashion appropriate remedies for grievances. See United Transportation Union, Local 1594 v. Southeastern Pennsylvania Transportation Authority, Red Arrow Division, 28 Pa. Commonwealth Ct. 323, 368 A.2d 834 (1977); Teamsters Local Union No. 77 v. Pennsylvania Turnpike Commission, 17 Pa. Commonwealth Ct. 238, 331 A.2d 588 (1975). As Justice Douglas wrote in United Steelworkers of America v. Enterprise Wheel and Car Corp., 363 U.S. 593, 597 (1960):
+When an arbitrator is commissioned to interpret and apply the collective bargaining agreement, he is to bring his informed judgment to bear in order to reach a fair solution of a problem. This is especially true when it comes to formulating remedies. There the need is for flexibility in meeting a wide variety of situations. The draftsmen may never have thought of what specific remedy should be awarded to meet a particular contingency.
+This bargaining agreement provides no specific remedy if compensation is delayed. So the arbitrator heard extensive testimony on the enormity of the practical problems the impasse posed for the employees and considered with the evidence assessing the quantum of interest earned by the Commonwealth because of the payment delay, of which approximately $19,-000.00 is ascribable to salary retention of AFSCME members.
+The arbitrator, in interpreting the agreement’s silence on the issue, properly considered the resultant equities and we hold that he has not manifestly disregarded the agreements’ provisions in determining the propriety of awarding interest and we are therefore bound to affirm his award. The bedrock crumbles and so must this appeal.
+Accordingly, we
+Order
+And Now, this 1st day of June, 1979, we hereby affirm the order of Arbitrator Charles L. Mnllin dated April 28, 1978, which directed the parties to meet for the purpose of determining the amount of liability which attends an award of an annual 6% interest on all monies improperly withheld from the grievants under Article XIX, Section 6 of the collective bargaining agreement. We remand the case to Arbitrator Mullin with whom the parties are directed to meet and confer with on the manner of disposition of the monies here involved, with particular attention to he given to the deminimus nature of those payments which would individually accrue.
+President Judge Bowman concurs, in the result only.
+Judge Mencer dissents.
+Council 13, American Federation of State, County, and Municipal Employees, AFL-CIO (AFSCME) is the certified bargaining-agent for approximately 70,000 state employees pursuant to the Public Employe Relations Act, Act of July 23, 1970, P.L. 563, as amended, 43 P.S. §§1101.101-1101.2301.
+In accordance with two separate collective bargaining agreements, both of which provide for bi-weekly salary payments, AFSCME filed class grievances on behalf of rank-and-file Corrections Officers and Psychiatric Aides and other rank-and-file employees.
+Article 8, Sections 12 and 13 of the Pennsylvania Constitution required the passage of a budget for the fiscal year commencing July 1, 1977. An emergency “stopgap” budget was passed on June 30, 1977, which provided sufficient funds to pay state employees until the end of July. A final budget was not passed until August 20 and was passed retroactive to August 20, 1977. Salary payments that had fallen due during this three-week interim were made between August 20 and August 22, 1977.
+“Under the principle of separation of the powers of government, no branch should exercise the functions exclusively committed to another branch.” Sweeney v. Tucker, 473 Pa. 493, 508, 375 A.2d 698, 705 (1977).
+In so bolding, we need not reach the issue of the viability of the doctrine of sovereign immunity in light of recent judicial and legislative dictates.
