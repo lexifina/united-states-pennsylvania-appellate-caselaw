@@ -1,0 +1,56 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 1664 C.D. 1987"
+decided: "1989-02-21"
+citations: ["123 Pa. Commw. 510", "554 A.2d 604"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Barry and COLINS, and Senior Judge KALISH, sitting as a panel of three."]
+parties: ["Eastern Investment Company, Petitioner v. Commonwealth of Pennsylvania, Respondent."]
+source_url: "https://static.case.law/pa-commw/123/cases/0510-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1382653
+cites_cases: ["192 A.2d 371", "3 Pa. D. & C. 3d 502", "357 Pa. 329", "411 Pa. 530", "54 A.2d 277"]
+---
+
+# Eastern Investment Co. v. Commonwealth
+
+## Majority (Judge Barry,)
+
+Ofinion by
+Judge Barry,
+Eastern Investment Company (petitioner) petitions for our review of a decision of the Board of Finance and Revenue which denied petitioner’s request for a refund of the realty transfer tax paid under protest. We affirm.
+Petitioner and the Department of Revenue (Department) have stipulated to the following facts. On December 16, 1985, the petitioner conveyed a parcel of property by deed to the Redevelopment Authority of Berks County; that deed, which was recorded, recited the actual consideration of $3,880,000.00. At the time of recording, the petitioner claimed that the transfer was exempt from the realty transfer tax. In July of 1986, the Department issued a determination that the transfer was subject to the tax and that tax of $38,800.00 plus interest of $2,415.30 was due. The Department’s Board of Appeals sustained the determination in January of 1987. On March 6, 1987, petitioner, under protest, paid the tax plus accrued interest of $4,736.17, or a total of $43,536.17. Petitioner filed a timely request for refund with the Board of Finance and Revenue which was denied on June 23, 1987. Petitioner then filed a timely appeal to this Court.
+Petitioner makes but one argument. It argues that the Redevelopment Authority of Berks County is a “nonprofit industrial development agency”. At the time this deed was recorded, a tax of one percent of the value of the property was due upon recording of any document. Section 1102-C of the Tax Reform Code of 1971, Act of March 4, 1971, P.L. 6, as amended, added by Act of May 5, 1981, P.L. 36, as amended. When the deed was recorded, Section 1101-C defined “document” as “[a]ny deed ... but does not include ... any transfers to or from nonprofit industrial development agencies....” Petitioner argues that since a redevelopment authority performs many of the same functions as a nonprofit industrial development agency, no tax is due on this transfer under the language cited immediately above. We do not agree.
+“Nonprofit industrial development agency” is not defined in the Tax Reform Code. Section 3(g) of the Pennsylvania Industrial Development Authority Act, Act of May 17, 1956, P.L. (1955) 1609, as amended, 73 P.S. §303(g) defines “industrial development agency” as:
+a nonprofit corporation or a foundation or association organized and existing under the laws of this Commonwealth, regardless of the particular name, to whose members or shareholders no profit shall enure and which shall have as a purpose the promotion, encouragement, construction, development and expansion of new or existing industrial development projects in a critical economic area.
+That same section defines “government” as “the State or Federal governments, or any political subdivision, agency or instrumentality, corporate or otherwise, or either of them.” 73 P.S. §303(f).
+The Redevelopment Authority of Berks County was created pursuant to the Urban Redevelopment Law, Act of May 24, 1945, P.L. 991, as amended, 35 P.S. §§1701-1719.1. All redevelopment authorities created thereunder are agencies of the Commonwealth. Schwartz v. Urban Redevelopment Authority of Pittsburgh, 411 Pa. 530, 192 A.2d 371 (1963). That a redevelopment authority is an agency of the Commonwealth is crucial because the same definition of “document” quoted earlier in .this opinion as it pertains to “nonprofit industrial development agencies” also states that “document” “does not include ... transfers to the United States, the Commonwealth of Pennsylvania, or any of their instrumentalities, agencies, or political subdivisions, by gift, dedication or deed in lieu of condemnation, or deed in confirmation in connection with condemnation proceedings....” Transfers to redevelopment authorities were covered by this portion of the definition of “document”. We therefore believe petitioner’s argument that this transaction is not subject to tax because the transferee is a “nonprofit industrial development agency” is incorrect.
+Affirmed.
+Order
+NOW, February 21, 1989, the order of the Board of Finance and Revenue at No. M-RT-17, 297, dated June 23, 1987, is affirmed. The Prothonotary is directed to enter judgment in favor of respondent unless exceptions are filed within thirty (30) days of the entry of this order.
+In 1986, the sections of the Tax Reform Code of 1971 dealing with the realty transfer tax were restructured and the definition of “document” was shortened. Transactions previously were not taxable because that definition stated that “document” did not include certain transactions; following the latest amendments, a section was added which identified “excluded transactions”. Act of July 2, 1986, P.L. 318, 72 P.S. §§8101-C-8103-C.1. (Supp. 1988).
+At the time this deed was recorded, petitioner claimed that no tax was due because the Redevelopment Authority of Berks County was “an exempt redevelopment authority”. (Stipulation of Facts, #4, 8/17/88) As the definition makes clear, however, a transfer to a redevelopment authority is not subject to the tax only if the property was acquired by gift, dedication, deed in lieu of condemnation or a deed confirming condemnation proceedings, none of which is applicable here. Furthermore, petitioner does not contend in this appeal that this property was acquired by gift, dedication, deed in lieu of confirmation, or deed confirming condemnation.
+
+## Dissent (Senior Judge Kalish:)
+
+Dissenting Opinion by
+Senior Judge Kalish:
+I respectfully dissent. A Redevelopment Authority is an entity created pursuant to the Urban Redevelopment Law, Act of May 24, 1945, P.L. 991, 35 P.S. §§1701-1747, for the express purpose of the redevelopment of areas designated as “blighted”, and was given extensive powers in an effort to eliminate such areas. To that end it was given the power, inter alia, to acquire property by condemnation and if that cannot be accomplished, then by purchase in lieu of condemnation. All of this is accomplished pursuant to a plan of redevelopment proposed by a Planning Commission.
+The concept of a Redevelopment Authority was created as a slum clearance agency, and not as an industrial development agency which is an entirely different concept. For that purpose, the legislature enacted the Pennsylvania Industrial Development Authority Act, which has for its purpose the creation of industrial development projects with no power of condemnation by the Industrial Development Authority. Clearfield County Industrial Development Authority v. Rowles, 3 Pa. D. & C. 3d 502 (1977).
+While a blighted area may contain within it blighted industrial plants that were either eliminated or redeveloped, such action was incidental to the elimination or redevelopment of a blighted area and had nothing to do with the development of an industrial development project. The legislature recognized this distinction for realty transfer tax purposes and delinquent transfer transactions, and for those transactions which were exempt from the imposition of the tax. In that connection, a transfer to the Commonwealth or to any of its agencies or instrumentalities where the transfer is by “deed in lieu of condemnation” is exempt from the imposition of the tax.
+A Redevelopment Authority is an agency or instrumentality of the state. Schwartz v. Urban Redevelopment Authority, 411 Pa. 530, 192 A.2d 371 (1963). In the exercise of the power of eminent domain by the Redevelopment Authority, there is no deed of transfer since title passes by operation of law by the filing of a declaration of taking. No tax is due upon such a transfer. A fair reading of the Realty Transfer Tax Act shows an intent on the part of the legislature that where there is a transfer by deed “in lieu of condemnation,” no tax should be imposed.
+Here, the Department of Revenue contends that there is nothing on the face of the instrument or otherwise to indicate that the transfer was in lieu of condemnation. The fact that the deed of transfer mentions a consideration is not conclusive that it was not in lieu of condemnation. It may represent the fair market value of the property, which is the just compensation that petitioner is entitled to receive for condemnation.
+Furthermore, in view of section 608 of the Eminent Domain Code, where the question is liability for transfer taxes in amicably acquired property, it is not necessary that the face of the instrument indicate that the transfer was “in lieu of condemnation.”
+Section 608 of the Eminent Domain Code, 26 P.S. §1-608, which is entitled “Expenses incidental to transfer of title,” provides:
+Any acquiring agency shall, on the date of payment of the purchase price of amicably acquired real property . . . reimburse the owner for expenses he necessarily incurred for:
+(1) Recording fees, transfer taxes and similar expenses incidental to conveying such real property to the acquiring agency. (Emphasis added.)
+An acquiring agency is defined as “any entity vested with the power of eminent domain by the laws of the Commonwealth, including the Commonwealth.” Section 201(5) of the Eminent Domain Code, 26 P.S. §1-201(5) (emphasis added).
+Obviously, the legislature intended to place the property owner on par with the one whose property was taken by direct condemnation, and to make more equitable the “just compensation” to which an owner is entitled.
+Transfers of property to the Redevelopment Authority can only be taken to the extent reasonably required for the purpose for which the power is exercised. Belovsky v. Redevelopment Authority of Philadelphia, 357 Pa. 329, 54 A.2d 277 (1947). As a public body, with the power of eminent domain, the Redevelopment Authority stands in a fiduciary relationship to the public and the taxpayers. Schwartz.
+Since an acquiring agency is one vested with the power of eminent domain, any amicable acquisition must be in lieu of condemnation. The consideration mentioned in the deed covers all elements of damage used in determining the fair market value. Anything else would be a breach of the fiduciary relationship owed to the taxpayer and the public. There may be any number of reasons why the parties desired to use amicable acquisition in lieu of direct condemnation.
+In my opinion, the realty transfer tax is not applicable to this transaction. Accordingly, I would reverse.
+Act of May 17, 1956, P.L. 1609, 73 P.S. §§301-314.
+Section 402 of the Eminent Domain Code, Act of June 22, 1964, Special Sess., P.L. 84, as amended, 26 P.S. §1-402.
+Act of June 22, 1964, Special Sess., P.L. 84, as amended, 26 P.S. §1-608.
