@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 128"
+decided: "1927-07-08"
+citations: ["90 Pa. Super. 570"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Henderson, Trexler, Keller, Linn, Gawthrop and Cunningham, JJ."]
+parties: ["Biddle, Appellant, v. Public Service Commission."]
+source_url: "https://static.case.law/pa-super/90/cases/0570-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 671909
+cites_cases: ["142 Pa. 581", "208 Pa. 453", "225 Pa. 152", "288 Pa. 420", "63 Pa. Superior Ct. 1", "70 Pa. Superior Ct. 499", "83 Pa. Superior Ct. 507", "89 Pa. Superior Ct. 126", "89 Pa. Superior Ct., 352"]
+---
+
+# Biddle v. Public Service Commission
+
+## Majority (Tkexleb., J.,)
+
+Opinion by
+Tkexleb., J.,
+The Counties G-as & Electric Company constructed a line from its generating plant at Barbadoes Island, Montgomery County, through certain municipalities to Fort Hill in the same county to connect at that point with a sub-station of the Philadelphia Suburban G-as & Electric Company. Rights-of-way were acquired by the applicant for the entire route selected by it, except for a distance of six hundred feet along the Lancaster-ville Road. On the north side of the road at this point is the property of Lynford Biddle, the appellant, and on the south side, the property owned by the Commonwealth of Pennsylvania in trust for Fairmount Park. Neither Biddle or the park commissioners were willing to allow the construction of the line through or along their respective properties.
+The company, in order to put the line into service, made an agreement with the park commissioners by which they were allowed to erect the line on the highway along the park property, the crossarms extending beyond the road, on condition that it be removed within one year of the date of the agreement and that five hundred dollars be paid for the use during the year. The company, eleven days after making the agreement with the park- commissioners, took corporate action to construct the line over the Biddle property on the north side of the road and with that thought in view proceeded to acquire a right-of-way by its power of eminent domain. The application was made to- the Public Service Commission for a certificate of public convenience under the provisions of the Act of May 21, 1921, P. L. 1057, for the approval of the exercise of the power of eminent domain and acquiring the right-of-way through the private property of Lynford Biddle, for the construction, operation and maintenance of the transmission line. The Public Service Commission granted the certificate and Lynford Biddle has appealed.
+There is no question as to the necessity of the line. The protestant argues that as the company had originally intended to run the line along the park property that they cannot now change it so as to traverse his land, that the case is not one of locating and constructing a transmission line, but is a change of location. The Public Service Commission took the position that “the selection of the route for the lines is matter for the light company in the first instance and, unless it is shown that it proposes to exercise the powers conferred upon it wantonly, corruptly or capriciously, or that the rights of the land owner have been trifled with, or unreasonably disregarded, the law does not contemplate that the Commission should withhold its approval simply because another route might have been adopted.” Dickson v. Commission, 89 Pa. Superior Ct. 126.
+We think the decision of the case upon this basis was correct. The company merely made an agreement with the park commissioners which was temporary in its character and was only to be a location for one year and to tide it over until a permanent location would be decided upon. Whatever may have moved the Company to take the route over the Biddle property, there is no evidence that the change was due to any wrongful motive on the part of the Company. 'The making of this agreement conclusively shows that the Company did not contemplate having a permanent route over the park land. If it had such intentions, the agreement shows it had abandoned it before entry, and its prompt action thereafter in regard to the Biddle property is further evidence of this.
+If the Company desired to retain this temporary location and make it permanent, it would have been required to start condemnation proceedings against the Commonwealth. (Brown v. Electric Light Company, 208 Pa. 453.) It has in its discretion decided that it will not condemn against the Commonwealth of Pennsylvania and perhaps was led to that conclusion because it doubted its power so to do. That question we need not here decide.
+The Company had the right to select the route which it wished to take. We repeat, it has no permanent rights over the park route. If it would have been decided to keep that route, it would have been required to proceed after the expiration of the year in the same manner as if the agreement had never been made. The use of the route temporarily under the agreement gave it, after the year, no greater rights than if the agreement had never been made. To hold that the Company by adopting a temporary makeshift was irrevocably bound to persist in the route selected for that purpose would be drawing a conclusion for which there is no warrant. One can readily conceive that in the consideration of a route for an electric line that some temporary course might be taken by consent of land owners until some impediment in the permanent route could be removed. Selection of the route across the Biddle property was the exercise of the managerial judgment of the company in the selection of the route and there is no evidence that the company has exercised its powers beyond the limits granted it by law.
+The order of the Public Service Commission is approved.
