@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1623 C. D. 1984"
+decided: "1986-03-27"
+citations: ["96 Pa. Commw. 190", "506 A.2d 537"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Craig and MacPhail, and Senior Judge Blatt, sitting as a panel of three."]
+parties: ["City of Clairton, Petitioner v. Workmen's Compensation Appeal Board (Cantrell), Respondents."]
+source_url: "https://static.case.law/pa-commw/96/cases/0190-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1346107
+cites_cases: ["177 A.2d 455", "197 Pa. Superior Ct. 209", "442 A.2d 1223", "443 A.2d 1379", "458 A.2d 313", "471 A.2d 1320", "497 Pa. 115", "65 Pa. Commonwealth Ct. 461", "66 Pa. Commonwealth Ct. 299", "73 Pa. Commonwealth Ct. 401", "80 Pa. Commonwealth Ct. 552"]
+---
+
+# City of Clairton v. Workmen's Compensation Appeal Board
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+The City of Clairton (Clairton) and the Westmoreland Casualty Company (Westmoreland), who will also be jointly referenced herein as the petitioners, petition for review of the order of the Workmens Compensation Appeal Board (Board) affirming the decision of a referee awarding benefits to Robert L. Cantrell (claimant). The benefits asyarded were for total disability, beginning September 16, 1975, with a suspension of benefits from November 16, 1975 to November 6, 1976. The referee also, dismissed the Rockwood Insurance Company (Rockwood) from liability for benefits awarded.
+The claimant, a Clairton police officer, answered a call on July 3, 1975 concerning a large man who had collapsed at his home. After lifting the stricken man into a bed, the claimant ran to his car for an oxygen tank,. called an ambulance and later assisted in carrying the man to the ambulance. Subsequent to these exertions, the claimant developed a cold sweat and experienced chest pains. On July 7, 1975, he and another officer responded to a call which required them to lift a very heavy woman into an ambulance and, subsequently, he again experienced chest pains. The claimant did not work again until August 6, 1975 when, due to a manpower shortage, he was recalled to a desk job. Upon assuming these duties, however, he began to experience chest pains which radiated into his arms. He was hospitalized in intensive care at that time and did not report to work again until November 16, 1975, when he resumed his desk job.
+During the periods when the claimant was absent from work between July 3, 1975 and September 16, 1975, he utilized his paid sick leave. Between September 16, 1975 and November 16, 1975, however, he received no salary or benefits.
+He continued to work at his desk assignment until November 6, 1976, when he was assaulted, while on duty, by an intoxicated person who pulled him over a desk, fighting and wrestling with him. After this incident, the claimant immediately experienced weakness and felt feint. His supervisor advised him to go home due to his condition and he has not worked since that day. The next day he was hospitalized and had a cardiac catheterization. He later had a triple bypass operation. On May 14, 1977, he sustained multiple cardiac arrests and again was hospitalized for twenty-one days.
+The petitioners initially contend that the medical evidence presented by the claimant is not unequivocal and so does not establish the causal connection between his disability and his employment. Specifically, they aver that the claimants medical witness, Dr. Walrath, initially attributed the claimants injury to the November 6, 1976 incident but later recanted by claiming that all three of the work-related incidents caused the injury. They rely on Astro Remodeling v. Workmen's Compensation Appeal Board (Julye), 80 Pa. Commonwealth Ct. 552, 471 A.2d 1320 (1984) (a medical witness may admit to some uncertainty or doubt as to causal connection, so long as he does not recant his opinion).
+Contrary to these assertions, however, our review of Dr. Walrath’s testimony leads us to conclude that, taken as a whole, his testimony was sufficiently unequivocal to support the referee’s finding for the claimant. Haney v. Workmen's Compensation Appeal Board, 65 Pa. Commonwealth Ct. 461, 442 A.2d 1223 (1982). Moreover, we. read the testimony, which was offered subsequent to the passage upon which the petitioners rely, as merely explaining or clarifying an apparent ambiguity. We, therefore, do not believe that the petitioners’ challenge to the Board’s adjudication can be sustained on this basis.
+Next, Westmoreland contends that the compensation authorities erred in assessing against it the total liability for the claimant’s benefits. Westmoreland argues that, because the referee found that the occurrences of July 3, 1975, July 7, 1975 and November 6, 1976 all caused the claimants eventual heart attack on May 14, 1977, the liability for the claimants compensation should be apportioned between itself and Rockwood, and it cites as support Shiery v. Lauffer Tire, 197 Pa. Superior Ct. 209, 177 A.2d 455 (1962). We cannot accept this argument, however, because, the referee unequivocally found that the claimant became totally disabled as a result of the July 3, 1975 incident and that, except for certain periods when he returned to duty, he has been totally disabled from that date and will remain so indefinitely. Inasmuch as our review of this record discloses substantial evidence therein, in the form of the testimony of both the claimant and Dr. Walrath, to support this finding, we believe that Shiery, where the record evidence supported the administrative findings in favor of allocation, is inapposite. We, therefore, perceive no error in assigning all liability in this case against Westmoreland, Clairtons insurer at the time of the July 3, 1975 incident.
+Accordingly, we will affirm the order of the Board.
+Order
+And Now, this 27th day of March, 1986, the order of the Workmens Compensation Appeal Board in the above-captioned matter is affirmed.
+The burden is on the claimant to prove that his heart attack arose in the course of his employment and that it was related thereto. Krawchuk v. Philadelphia Electric Company, 497 Pa. 115, 439 A.2d 627 (1981). Where, as here, there is no obvious causal connection between the disability and the employment, that relationship must be established by unequivocal medical testimony. Mitchell v. Workmen's Compensation Appeal Board (Townsend & Bottum, Inc.), 73 Pa. Commonwealth Ct. 401, 458 A.2d 313 (1983). And, inasmuch as the burdened party prevailed below, our review is limited to determining whether or not there has been an error of law or a violation of constitutional rights and whether or not the necessary findings of feet are supported by substantial evidence. Jay Lines, Inc. v. Workmen's Compensation Appeal Board, 66 Pa. Commonwealth Ct. 299, 443 A.2d 1379 (1982).
+Westmoreland was the workmens compensation insurance carrier for Clairton until January 5, 1976, when Clairton transferred its coverage to Rockwood.
+The referees sixteenth finding is as follows:
+That Your Referee finds as a feet that Claimant was totally disabled from the injury of July 3, 1975 from September 16, 1975 to November 16, 1975 and from November 6,
+1976 to the present date and shall remain so indefinitely into the future.
