@@ -1,0 +1,52 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1709 C.D. 1981"
+decided: "1983-03-22"
+citations: ["73 Pa. Commw. 42"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Blatt, MacPhail and Doyle, sitting as a panel of three."]
+parties: ["Mountain Rest Nursing Home, Inc., Petitioner v. Commonwealth of Pennsylvania, Department of Public Welfare, Respondent."]
+source_url: "https://static.case.law/pa-commw/73/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1939890
+cites_cases: ["270 Pa. Superior Ct. 445", "313 A.2d 156", "421 A.2d 521", "455 Pa. 52", "54 Pa. Commonwealth Ct. 376", "79 Stat. 344"]
+---
+
+# Mountain Rest Nursing Home, Inc. v. Commonwealth
+
+## Majority (Judge MaoPhall,)
+
+Opinion by
+Judge MaoPhall,
+Mountain Rest Nursing Home, Inc. (Petitioner) has appealed from an order of the Department of Public Welfare (DPW) which dismissed Petitioner’s appeal from the disallowance of reimbursement by DPW for depreciation of Petitioner’s facility.
+The fact findings of the hearing examiner in this case, which are supported by substantial record evidence, establish that the subject facility was purchased by Petitioner on January 28, 1974. DPW subsequently adopted regulations, which were applied effective July 1, 1976, to implement the federally mandated1 “cost reimbursement” method of payment for services provided by skilled nursing and intermediate care facilities. Tbe regulations include a depreciation allowance as one of the allowable costs in determining reimbursement levels. Prior to July 1, 1976, tbe facilities were to continue to be paid on tbe basis of maximum flat per diem rates previously established by DPW. See 5 Pa. B. 2928 (1975).
+Tbe issues in the instant case concern, in particular, Section IY(D)(9)(f) of tbe regulations which provides, in pertinent part, that:
+Tbe cost basis for depreciable assets of a facility purchased as an ongoing operation shall be tbe lesser of tbe purchase price or tbe fair market value based on tbe lesser of at least two bona fide appraisals at tbe time of tbe sale and less any straight line depreciation by the prior owner. (Emphasis added.)
+Applying this regulation, DPW disallowed Petitioner’s claimed depreciation for tbe fiscal years ending December 31, 1977 and December 31, 1978 due to Petitioner’s inability to adequately document tbe prior owner’s depreciation. No attempt was made by DPW to estimate tbe prior owner’s depreciation based on those records which were available. Tbe facts surrounding Petitioner’s failure to provide adequate documentation are set forth in tbe following pertinent findings by the bearing examiner:
+9. Most of [Petitioner’s] records were destroyed in a 1976 fire in its accountant’s office.
+13. Subsequent to January 28, 1974 tbe [Petitioner] purchased a substantial amount of personal property for which no records are available due to the fire.
+15. The [Petitioner] has made a good faith attempt to secure the documentation requested by the Department but such attempts have proven unsuccessful.
+16. The facility has been denied reimbursement for depreciation for every year beginning January 1, 1977 resulting in severe financial strain and the calling of outstanding bank loans.
+Following a hearing, the hearing examiner determined that depreciation had been properly disallowed and recommended the dismissal of Petitioner’s appeal. The Office of Hearings and Appeals adopted the recommendation and Petitioner perfected its appeal to this Court.
+Two issues have been raised for our consideration: 1) whether DPW improperly applied its regulations in a retroactive manner and 2) assuming that the regulations are applicable, whether DPW properly disallowed depreciation for the years in question.
+Petitioner first argues that DPW effected a retroactive application of its regulation when it applied Section IV(D)(9)(f) to Petitioner’s facility which had been purchased before the regulation was promulgated. We must reject this analysis for it is clear that a regulation or statute does not operate retroactively simply because some of the facts pertinent to its application came into existence prior to its effective date. See Department of Labor and Industry, Bureau of Employment Security v. Pennsylvania Engineering Corp., 54 Pa. Commonwealth Ct. 376, 421 A.2d 521 (1980); Klug v. Gazey, 270 Pa. Superior Ct. 445, 411 A.2d 802 (1979). In the instant case, the relevant regulations provide for a depreciation allowance under specified circumstances. DPW has applied the regulations to those audit years following the promulgation of the regulations. The fact that records maintained before the existence of the regulations are now used to determine reimbursement levels does not, in our opinion, render the regulations retroactively applied. We observe that no attempt has been made to reduce payment levels for audit years prior to July 1, 1976. We, accordingly, conclude that the regulations here at issue have not been retroactively applied.
+Petitioner next argues that if the regulations are applicable to a facility purchased as an ongoing operation prior to their promulgation, the regulations were nevertheless unfairly applied to Petitioner’s facility. Particular reliance is placed by Petitioner on the hearing; examiner’s finding that the purpose of Section IV(D)(9)(f) “is to avoid paying depreciation in excess of the original cost basis.” Petitioner argues that since it was unable, despite a good faith effort, to reconstruct the required documentation, that the intent of Section IY(D)(9)(f) would still be satisfied by allowing Petitioner to use the book value of the prior owner as its cost basis. Petitioner contends that it is grossly unfair to completely disallow depreciation under the circumstances of this case.
+We must agree with DPW that Section IY (D)(9)(f) is applicable to Petitioner’s facility. We disagree, however, that application of the regulation must necessarily result in a disallowance of depreciation. Bather, we think that where, as here, depreciation records are destroyed due to no fault of the facility and where certain records do remain available for analysis, DPW must attempt to make an estimated calculation of the cost basis of depreciable assets pursuant to its rules. While we agree with the hearing examiner that depreciation might nevertheless be disallowed here if Petitioner’s purchase price was less than the estimated depreciation taken by the prior owner, we remain of the opinion that Petitioner is entitled to an actual calculation. We think that it was improper for the examiner to presume from the fact that a calculation based on available records “could” preclude any depreciation reimbursement, that Petitioner was entitled to no calculation at all.
+Finally, we address Petitioner’s contention that application of the regulation to a facility which, as here, was purchased at or below the prior owner’s book value would violate the intent of the regulation since it would result in the failure to allow complete depreciation of the facility’s original cost basis. This contention, in essence, is a challenge to the fairness of the formula set forth in Section IV(D) (9) (f). Our review of this regulation is restricted by the fact that Section IV(D)(9)(f) was promulgated pursuant to DPW’s legislative rule-making powers. See Sections 201 and 403 of the Public Welfare Code. As such, the rule may not be invalidated merely because it appears to be burdensome or inferior to another means of addressing this particular subject. Rather, the rule must be so unreasonable as to be the expression of a whim instead of an exercise of judgment. Uniontown Area School District v. Pennsylvania Human Relations Commission, 455 Pa. 52, 313 A.2d 156 (1973). Applying these standards we think the regulation clearly is valid. The fact that the regulation will in certain instances result in the failure to permit total depreciation of the original cost basis of a facility, while burdensome to those affected, is not enough to warrant an invalidation of the rule by this Court.
+We, accordingly, will reverse the order of the DPW and remand for further proceedings consistent with the foregoing opinion.
+Order
+The order of the Department of Public Welfare, dated June 12, 1981, dismissing the appeal of Mountain Rest Nursing Home, Inc. is hereby reversed and remanded for further proceedings consistent with the foregoing opinion.
+Jurisdiction relinquished.
+The order adopted the recommendation of the hearing examiner in its entirety.
+The applicable federal provision appeared at §1902(a) (13) (E) of the Social Security Act, Act of August 14, 1935, Ch. 531, Title XIX, added by the Act of July 30, 1965, §121(a), 79 Stat. 344 (current version at 42 U.S.C.A. §1396a(a) (13) (A) (West Supp. 1975-81)).
+The regulations are published at 5 Pa. B. 2928 (1975).
+We also note that the regulations appear to make provision for those eases where depreciation records were not maintained by facility owners prior to July 1, 1976. Thus, Section IV(D)(9)(e) provides, in pertinent part,, that:
+Facilities that previously did not maintain fixed asset records and did not record depreciation in prior years will be entitled to any straight-line depreciation of the remaining useful life of the asset. . . .
+Depreciation on facilities that have no fixed asset records and are sold will be recognized to the extent, to which the prior owner would have been entitled to depreciation.
+Petitioner has not argued the possible applicability of this provision to the instant case.
+This result was explained by the hearing examiner through the use of an illustrative hypothetical as follows:
+Assume a cost basis of $300,000 and prior owner’s depreciation of $200,000 and a purchase price of $175,000. Using the $175,000 as the lesser of purchase price or fair market value the regulation requires the subtraction, of the $200,000 prior owner’s depreciation from the $175,000 leaving a negative $25,000. On these facts, the facility would not be due any depreciation reimbursement despite the $175,000 purchase price and despite the fact that DPW has only reimbursed $200,000 depreciation of assets costing $300,000.
+See note 5, supra.
+Act of June 13, 1967, P.L. 81, as amended, 62 P.S. §§201, 403.
