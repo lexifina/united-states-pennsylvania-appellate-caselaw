@@ -1,0 +1,41 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 192"
+decided: "1932-07-14"
+citations: ["105 Pa. Super. 553"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, G-awthrop, Otnsrrnsrgham, Baldrige, Stadtfeld and Parker, JJ."]
+parties: ["Meddock v. National Transit Company, Appellant."]
+source_url: "https://static.case.law/pa-super/105/cases/0553-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 701643
+cites_cases: ["152 Pa. 355", "214 Pa. 109", "215 Pa. 399", "225 Pa. 494", "284 Pa. 215"]
+---
+
+# Meddock v. National Transit Co.
+
+## Majority (Baldeige, J.,)
+
+Opinion by
+Baldeige, J.,
+This action in trespass was instituted by the owner of a farm in Clarion County, Pennsylvania, on which was located a natural spring.
+The defendant was engaged as a common carrier in transporting crude oil through three pipe lines which extended across the appellee’s land.
+The appellee alleged that on November 4, 1927, on account of the negligence of the defendant, large quantities of oil ran out of the pipe lines and continued so to run for a long space of time and percolated through the soil and contaminated the waters of his spring, which were affected up to the time of the filing of the statement of claim.
+The case came on for trial and a verdict rendered for the plaintiff in the sum of $1000'. A motion for judgment n.o.v. was refused and this appeal followed.
+The assignments of error raise two general propositions: (1) Was the evidence of leaks or repairs in the pipe line, or lines, of defendant, at a different time and place than alleged in the statement of Jlaim, properly admitted? (2) Did the trial judge commit an error in submitting to the jury the question of liability of the defendant for failure to take care of the oil after it had escaped from the pipe line ?
+(1) The plaintiff averred in the eighth paragraph of his statement of claim as follows: “In the month of November, 1927, one or more of the said pipe lines, on account of the negligent care and inattention on the part of the defendant herein thereto, became so corroded and out of repair that a leak or leaks developed therein through which large quantities of the oil therein ran out of the said pipe line or lines and on to the premises immediately surrounding, and which continued to so run for a long space of time.”
+The defendant contended that there was no evidence that the pipes were corroded, but admitted that the leak in the pipe line, or lines, developed November 4, 1927, which it claims was repaired on the same day; that not more than two barrels of oil had escaped and that none of it had gotten into the water of the spring of the plaintiff;, and that no oil since that time has escaped from its lines into the plaintiff’s spring.
+The appellant vigorously argued that the plaintiff admitted, in offering the eighth paragraph of the affidavit of defense, that repairs were made the same day the leak was discovered. The record discloses the following discussion: “By Mr. Geary (attorney for plaintiff): Tour Honor, please, we now offer in evidence the admission on the part of the defendant in that part of the 8th paragraph in the affidavit of defense, filed January 22, 1929, which reads as follows: ‘Since the repair of the leak aforesaid to defendant’s No. 3 line on November 4,1927, no oil has leaked from defendant’s lines which could come into the spring or springs of plaintiff, and the small amount which then leaked from defendant’s line has since ceased to show in any spring or springs of plaintiff or in any way affect or injure the same.’
+“By Mr. Breene: In connection with that offer, the date when that leak was repaired should appear, and it does appear in the other part of the affidavit of defense filed at that time from which you are now reading.
+“By Mr. Geary: Well, it’s in there as of November 4,1927.
+“By Mr. Breene: Then there is no dispute as to the repairs being made November 4, 1927. If the date of the repair, November 4, 1927, is admitted there is no dispute.
+“By the Court: Admitted.”
+The trial judge in his ruling apparently had reference to that paragraph of the affidavit of defense and nothing else. Its admission, not the time of fixing the leak, was the subject of consideration. Mr. Breene, attorney for the defense, apparently interpreted paragraph 8 as averring that the leak occurred on November 4, 1927, and not that the repair was then made. Both parties seemed to assume that there was no averment by the defendant in the eighth paragraph that the repairs were' made that day.
+The testimony upon the part of the plaintiff is that he discovered the oil on Friday morning, November 4th, and on the same morning reported it to the engineer employed by the appellant; that on the following Monday he saw men repairing the pipe line and observed oil on the surface of the ground which had spread over a considerable area. About ten days thereafter, oil appeared in his spring, and oil of the same general character remained there continuously for about a year, when there was a noticeable change in its color from a greenish shade to black, and it threw off a foul odor.
+The appellant claims that the leak in November, 1927, and the leak in August, 1928, were separate and independent causes of action and that there can be no recovery in this suit for both; that the court erred, therefore, in admitting evidence as to what transpired in August. The burden of the plaintiff’s complaint is, that in November1 one or more of the defendant’s pipe lines developed leaks and that large quantities of oil ran out of the line, or lines, and continued so to run for a long time. The plaintiff, in support of his averment that the oil persisted in running, testified that the water in his spring continued to be contaminated; that on August 8,1928, he saw additional repairs being made to one of the defendant’s lines about 60 feet distant from the original leak; and that he observed black oil on the ground where the repairs were being made that had a very bad odor.
+Taking the plaintiff’s statement as a whole, it adequately avers the defendant’s negligence. The failure to exercise due care after the leak was discovered is the basis of the claim as the plaintiff states that the oil “continued to so run for a long space of time.” With that thought in mind, we think it was not an error for the court to show that as late as almost a year after the original leak was discovered, oil appeared on the surface of the ground 60 feet distant therefrom and the defendant was there making repairs to a pipe line. It was evidence, not of another and separate offense, but in support of the plaintiff’s theory that defendant had not taken adequate means to prevent the continued escape of oil.
+(2) The defendant acquired its charter rights prior to the Corporation Act of June 2, 1883, P, L. 61 (15 PS 2153), and was not, therefore, subject to the provisions of that act, which state that any company laying a pipe line under the act shall be liable for all damages caused by leakage, breaking of pipes or tanks. The burden was upon this plaintiff to show negligence. The mere fact that oil was escaping did not create a prima facie liability upon the defendant, and the court so instructed the jury. But when the plaintiff established the fact that a leak existed and that oil escaped for a long period of time in such an amount as to affect the water in his spring, the defendant became responsible for its failure to correct it. A duty was then imposed upon the defendant tq use efficient measures to prevent the continued escape of oil. That is not an unreasonable requirement and should have been immediately recognized in order to prevent damage to property. It was said in Morgan v. U. G. I. Co., 214 Pa. 109, 111, “Where the existence of a leak is known, means should be taken at once to avoid injury.” See also Koelsch v. Phila. Co., 152 Pa. 355; Shirey v. Consumer’s Gas Co., 215 Pa. 399; Diehle v. U. G. I. Co., 225 Pa. 494; Lawrence v. Scranton City, 284 Pa. 215.
+A careful review of the entire record and a consideration of the able arguments of counsel fail to reveal any reversible error.
+Judgment is affirmed.
