@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 76"
+decided: "1961-06-15"
+citations: ["195 Pa. Super. 646"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, Wright, Woodside, Watkins, Montgomery, and Flood, JJ. (Rhodes, P. J., absent)."]
+parties: ["Josal, Inc. v. Rolling Park Homes, Inc., Appellant."]
+source_url: "https://static.case.law/pa-super/195/cases/0646-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 753554
+cites_cases: ["112 Pa. Superior Ct. 50", "130 Pa. 438", "170 A. 871", "18 A. 732", "181 A. 792", "320 Pa. 487", "362 Pa. 30", "369 Pa. 112", "66 A. 2d 768", "85 A. 2d 698"]
+---
+
+# Josal, Inc. v. Rolling Park Homes, Inc.
+
+## Majority (Flood, J.,)
+
+Opinion by
+Flood, J.,
+The defendants Feinberg and Budwesky owned two adjoining tracts. The first they sold to the plaintiff, the second to the additional defendant, Rolling Park Homes, Inc. The contour of the land was such that the tract bought by the plaintiff had an excess of dirt whereas the tract bought by Rolling Park needed dirt for fill. In the agreement of sale to the plaintiff, defendants obligated themselves to remove the excess dirt from the plaintiff’s tract. In the agreement of sale to Rolling Park, the purchaser, Rolling Park undertook to remove the same dirt from the plaintiff’s tract, Rolling Park then contracted with the appellees, the D’Antonios, to remove the dirt from the plaintiff’s tract to that of Rolling Park and also to rough grade and back fill the Rolling Park tract. The dirt was removed but Rolling Park refused to pay, alleging that the D’Antonios did not fulfill their contract in that they merely scattered the dirt over Rolling Park’s land and did not rough grade or back fill the tract.
+Plaintiff sued the defendants for breach of their contract to remove the dirt from plaintiff’s tract, seeking as damages the sum of |6,500 which it alleges it was required to pay to have it removed. Defendants brought in Rolling Park as an additional defendant on the ground that it had assumed the obligation to reinove the dirt. Rolling Park then filed a complaint to join the D’Antonios, the appellees, as additional defendants upon the theory that they were liable over to Rolling Park for failure to fulfill their contract with Rolling Park to remove the dirt. The D’Antonios filed preliminary objections upon the ground that Rolling Park’s alleged cause of action was not the cause of action sued upon by the plaintiff. These preliminary objections were sustained and we have before us an appeal from this decision.
+An additional defendant may be properly joined on the theory of liability over only if he is liable over “on the cause of action declared upon”. Pa. R. C. P. 2252 (a). As is pointed out in Goodrich-Amram Civil Practice 2252 (a-7) the phrase “cause of action declared upon” can never be literally construed because the action of the defendant against the additional defendant is an assumpsit action based upon the theory of restitution of money paid to the use of additional defendant. Our eases have construed this phrase to mean that the additional defendant can be joined on the theory of liability over only if the plaintiff could have sued the additional defendant directly for the same injury for which he has sued the original defendant. Cf. Land Title Bank and Trust Co. v. Cheltenham National Bank, 362 Pa. 30, 66 A. 2d 768 (1949). Thus a master sued because of the tort of his servant may join the servant as an additional defendant. Koontz v. Messer, 320 Pa. 487, 181 A. 792 (1935). This rule is extended to allow the joinder even if the additional defendant who would otherwise be liable to the plaintiff is immune to suit by him because of family relationship to the plaintiff: Briggs et al. v. City of Philadelphia et al., 112 Pa. Superior Ct. 50, 170 A. 871 (1934), or by reason of a statute such as the Workmen’s Compensation Act. Shaull v. A. S. Beck New York Shoe Co., Inc., 369 Pa. 112, 85 A. 2d 698 (1952).
+Under the theory of the Pennsylvania cases there can normally be no liability over based upon a contract between the additional defendant and the defendant to which the plaintiff is not a party, such as a contract of insurance or indemnity. There may be an exception to this rule when the contract is such that the plaintiff might sue the additional defendant upon it as a third party beneficiary. Upon the third party beneficiary theory there might be liability here on the part of the first additional defendant Rolling Park to the plaintiff, although we express no opinion on this matter, which is not before us. Cf. Pittsburgh Carbon Co. v. Philadelphia Co., 130 Pa. 438, 18 A. 732 (1889).
+But we find no basis under our cases upon which the plaintiff here could sue the second additional defendants, the D’Antonios. The D’Antonios are liable to Rolling Park for breach of a contract of which the plaintiff might be an incidental beneficiary, but it is not the kind of third party beneficiary who could sue on that contract. Restatement, Contracts, §§133, 147. This being so, the joinder of the D’Antonios as liable over to Rolling Park is not authorized by the Procedural Rules.
+Further, we do not see how there is any way in which the plaintiff could sue the D’Antonios for reimbursement for the very money which it has paid over to them for fully performing the contract between them. But even if it could, the liability, if any, of the second additional defendants, the D’Antonios, to the plaintiff, would be upon a separate contract between them with which the first additional defendant, Rolling Park, Inc., had nothing to do. Plaintiff’s suit upon its contract with the D’Antonios would certainly not be the cause of action upon which it sued the original defendant.
+Order affirmed.
