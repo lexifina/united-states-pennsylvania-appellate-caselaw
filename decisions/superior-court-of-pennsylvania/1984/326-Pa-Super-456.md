@@ -1,0 +1,44 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "465 and 466"
+decided: "1984-04-06"
+citations: ["326 Pa. Super. 456", "474 A.2d 329"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before SPAETH, President Judge, and POPOVICH and HOFFMAN, JJ.", "SPAETH, President Judge, files a concurring statement."]
+parties: ["Joseph W. NORWICH, Appellant, v. Benjamin BEAVER and Michael Reese, their Heirs, Successors and Assigns, and Columbia Sportsmen Club, Inc. COLUMBIA SPORTSMEN CLUB, INC. v. TENCH COXE ESTATE, Charles S. Coxe, in Trust Executor of the Last Will and Testament of Tench Coxe, the Heirs, Successors and Assigns of Enoch Kester: Daniel Fetterman, his Heirs, Successors and Assigns: Mary E. Kester Estate, Lawson Lee, Executor of the Estate of Mary E. Kester, The Heirs, Successors and Assigns of Mary E. Kester. Appeal of Joseph W. NORWICH."]
+source_url: "https://static.case.law/pa-super/326/cases/0456-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 601464
+cites_cases: ["137 A.2d 866", "185 Pa.Super. 385", "235 Pa.Super. 450", "241 Pa.Super. 120", "241 Pa.Super. 150", "286 A.2d 370", "295 Pa.Super. 146", "344 A.2d 641", "446 Pa. 316"]
+---
+
+# Norwich v. Beaver
+
+## Majority (POPOVICH, Judge:)
+
+POPOVICH, Judge:
+This is an appeal from the January 5, 1982, Final Decree of the Court of Common Pleas of Columbia County dismissing appellant’s, Joseph W. Norwich’s, exceptions to the trial court’s opinion and decree nisi.
+In 1978, appellant filed an action to quiet title to two parcels of unimproved mountainous timberland. Appellee, Columbia Sportsmen Club, petitioned for and was granted leave to intervene; appellee also filed a separate action to quiet title. The two cases were consolidated, and, after a non jury trial, Judge Myers ruled in favor of appellee as to both parcels of land. Appellant is appealing this ruling only as to the ownership of one of these tracts, hereinafter “parcel A”.
+Appellant claims title to parcel A through a 1950 conveyance from James Cherrington, et al for a total of approximately 208 acres. In the early 1950’s, without benefit of a survey, appellant erected a telephone wire fence enclosing approximately 257 acres. Parcel A, consisting of an additional 36 acres, lies outside of this fence. Appellant used this fence as a boundary line (N.T. 29) and posted “no hunting” signs on the land within the fence (N.T. 27). Appellee became the owner in 1958 of several adjacent tracts of land by virtue of a deed from Florence Rhoads and posted “no hunting” signs on its property, including parcel A. The parties have used their respective lands primarily for hunting purposes. Since 1960, appellee has paid the taxes on parcel A. In 1971, Pennsylvania Power and Light Company (PP & L) paid appellee $7,000 for a right of way through parcel A. Appellant was paid $15,000 by PP & L for a right of way through the property enclosed by the fence. A dispute as to the true property line arose in 1978 resulting in the cases now before us.
+At trial each side presented testimony from professional surveyors, each reaching a substantially different conclusion. The trial court found “the testimony of Columbia’s surveyor to be more pursuasive [sic]” and concluded “that Columbia is the record owner of, and therefore holder of title in fee to [parcel A].” Trial Court Opinion of August 3, 1981, p. 5.
+The trial court’s findings where supported by credible evidence will not be reversed on appeal. See Bigham v. Wenschhof, 295 Pa.Super. 146, 148, 441 A.2d 391, 392 (1982). This court has also repeatedly said “[t]he question of what is a boundary line is a matter of law, but where a boundary line, or corner, is actually located is a question for the trier of fact.” Murrer v. American Oil Co., 241 Pa.Super. 120, 124, 125, 359 A.2d 817, 819 (1976); Guerra v. Galatic, 185 Pa.Super. 385, 391, 137 A.2d 866, 869 (1958).
+Appellant argues that the trial court erred in finding appellee to have record title because there was no evidence in support thereof. We disagree.
+Appellant’s surveyor testified that parcel A was entirely within the Michael Reese warranty tract (N.T. 48) and hence included in appellant’s deed description (N.T. 46). Appellee’s surveyor, on the other hand, testified that parcel A lay partly within the Michael Reese warranty tract and partly within the Henry Shaffer warranty tract (N.T. 102) and was in appellee’s chain of title. Appellant contends that on cross examination appellee’s surveyor conceded that none of the deeds in appellee’s chain of title included the disputed parcel A. A review of the entire cross examination and the testimony when read in context does not support this contention.
+Appellant argues that the testimony of appellee’s survey- or cannot be credited because this surveyor based his conclusions on a discussion with appellant in 1971 concerning the boundary line and ownership of parcel A. However, although it is clear that such a discussion took place when appellee’s witness surveyed the land in 1971, this surveyor did not solely rely on the discussion and the telephone wire fence to reach his conclusions but testified as to his extensive on-site survey and his analysis of existing records. He explicitly stated on direct examination “[h]ad I thought any reason at all it belonged to Norwich, I wouldn’t have included it in the survey for the [Columbia Sportsmen] Club. I would have gave it to Norwich.” [N.T. 102]
+We also note that while appellant’s surveyor prepared his report after the instant dispute arose, appellee’s surveyor completed his findings in 1971-1973 prior to any dispute.
+Appellant argues that the trial court erred in applying the “consentable line” doctrine. This argument is based upon the fact that there was no dispute or compromise as to the boundary when appellant erected the telephone wire fence; however, a boundary line may be proven by a fence even in the absence of a dispute and its settlement by a compromise. Inn Le’Daerda, Inc. v. Davis, 241 Pa.Super. 150, 360 A.2d 209 (1976). Our Supreme Court has said:
+It cannot be disputed that an occupation up to a fence on each side by a party or two parties for more than twenty-one years, each party claiming the land on his side as his own, gives to each an incontestable right up to the fence, and equally whether the fence is precisely on the right line or not. Our courts have always favored the settlement of disputes of this character by recognizing consent-able lines established by the parties themselves, and this without regard to whether the line agreed upon conforms to the exact courses, distances and bounds of the original surveys, (citations omitted) Dimura v. Williams, 446 Pa. 316, 319, 286 A.2d 370, 371 (1972).
+Nor are we persuaded by appellant’s contentions that the fence was not substantial. While a fence must be substantial if the enclosure of land by it is the basis for a claim of adverse possession, the law is different if a long standing fence is relied upon to establish a boundary between two adjacent parcels of land. Dimura v. Williams, supra. Appellant in this case erected the fence in the early 1950’s, and this fence was still in existence in 1973 and was recognized by appellant as a boundary long after this time.
+We recognize those cases which state the use of land for recreational purposes such as hunting does not show actual possession. Bigham v. Wenschhof, supra; Seven Springs Farm, Inc. v. King, 235 Pa.Super. 450, 344 A.2d 641 (1975). The reasoning behind these cases is that such uses do not give an aggrieved owner proper notice that such possession was in progress, and no owner of uninhabited land would be safe from the encroachment of strangers claiming his property.
+The trial judge in this case based his finding that appellant consented to the boundary on much more than appellee’s use of the land for hunting. The actions of both appellant and appellee formed a basis for the judge’s finding. These include: acceptance of the financial settlements made by PP & L in 1971; the payment of real estate taxes since 1960 by appellee; appellee’s erection of “no hunting” signs on parcel A; earlier statements by appellant acknowledging he did not consider the land to be his; and appellant’s installation of a gate consistent with the lines of the fence.
+We cannot say that either the trial judge erred as to a matter of law or that his conclusions of fact were not supported by the evidence.
+Decree affirmed.
+SPAETH, President Judge, files a concurring statement.
+
+## Concurrence (SPAETH, President Judge,)
+
+SPAETH, President Judge,
+concurring:
+I should affirm on the basis of the trial court’s acceptance of appellee’s survey as establishing record title.
