@@ -1,0 +1,38 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+decided: "1977-03-09"
+citations: ["29 Pa. Commw. 158"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Wilkinson, Jr. and Mencer, sitting as a panel of three."]
+parties: ["Nathaniel Firmstone, Appellant v. Unemployment Compensation Board of Review of the Commonwealth of Pennsylvania."]
+source_url: "https://static.case.law/pa-commw/29/cases/0158-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1879828
+cites_cases: ["12 Pa. Commonwealth Ct. 96", "174 Pa. Superior Ct. 59", "22 Pa. Commonwealth Ct. 144", "24 Pa. Commonwealth Ct. 136", "25 Pa. Commonwealth Ct. 237", "25 Pa. Commonwealth Ct. 588", "26 Pa. Commonwealth Ct. 278", "26 Pa. Commonwealth Ct. 632", "27 Pa. Commonwealth Ct. 1", "27 Pa. Commonwealth Ct. 224", "28 Pa. Commonwealth Ct. 57", "316 A.2d 159", "348 A.2d 434", "354 A.2d 46", "360 A.2d 315", "360 A.2d 813", "363 A.2d 852", "364 A.2d 963", "365 A.2d 1359", "365 A.2d 459", "367 A.2d 390", "98 A.2d 405"]
+---
+
+# Firmstone v. Unemployment Compensation Board of Review
+
+## Majority (Judge Mencer,)
+
+Opinion by
+Judge Mencer,
+This is an appeal by Nathaniel Firmstone (claimant) from an order of the Unemployment Compensation Board of Review (Board), dated April 13, 1976, affirming a referee’s decision which had held the claimant ineligible for unemployment benefits. Denial of benefits was based on the application to this case of Section 402(b) (1) of the Unemployment Compensation Law (Act) which, inter alia, provides:
+An employe shall be ineligible - for compensation for any week—
+(b)(1) In which his unemployment is due to voluntarily leaving work without cause of a necessitous and compelling nature....
+The claimant here had been employed as a painter by John F. Miles Company of Kulpmont, Pennsylvania, at a work site located in Williamsport, Pennsylvania. The Board found as a fact that “[o]n September 19 and 20, 1974 the claimant failed to report for work because he had left the area due to a death in the family.” Claimant did not notify his employer that he would not report for work on September 19 and 20, 1974. On the next work day after September 20, 1974, claimant reported for work and was notified to report the following day for a conference with his supervisor. The following day the claimant was advised by his supervisor that he had been replaced by another painter.
+In unemployment compensation cases, our scope of review is limited to questions of law and, in the absence of fraud, to a determination of whether or not the findings of the Board are supported by the evidence, giving the party prevailing below the benefit of all reasonable and logical inferences. Unemployment Compensation Board of Review v. Kessler, 27 Pa. Commonwealth Ct. 1, 365 A.2d 459 (1976). We must decide in this case whether or not claimant voluntarily left work and is therefore ineligible for unemployment benefits because of the provisions of Section 402(b)(1) of the Act. This question is one of law. Haseleu v. Unemployment Compensation Board of Review, 12 Pa. Commonwealth Ct. 96, 316 A.2d 159 (1974).
+In Morgan v. Unemployment Compensation Board of Review, 174 Pa. Superior Ct. 59, 98 A.2d 405 (1953), a painter left work, without permission, to go hunting and was informed on his return three days later that he no longer had a job. The Superior Court, in finding that the painter did not voluntarily leave work, stated: “Unauthorized absenteeism .. . may constitute just cause for dismissal by an employer, but is not tantamount to resignation.” 174 Pa. Superior Ct. at 61, 98 A.2d at 406.
+This language is applicable to the Board’s findings of fact in the instant case. The claimant’s failure to report for work, without notification to his employer, on two consecutive work days because he had left the work site due to a death in his family may have constituted just cause for his dismissal, but the conclusion of both the referee and the Board that such conduct constituted voluntarily leaving work under Section 402(b) (1) of the Act was incorrect as a matter of law.
+In Hutt v. Unemployment Compensation Board of Review, 28 Pa. Commonwealth Ct. 57, 367 A.2d 390 (1976), the claimant worked on Monday, January 20, 1975, and the next day he visited a hospital. His wife informed the employer that claimant was absent from work because of illness. Claimant did not contact Ms employer again until Friday afternoon, January 24, 1975, at wMcb time tbe employer notified tbe claimant that he had quit. We held that the only action taken regarding the termination of the claimant’s employment was taken by the employer and that claimant had not voluntarily left Ms work. On this record, we cannot distingMsh the facts in Hutt and therefore conclude that our holding in Hutt is controlling.
+We recognize, as we did in Unemployment Compensation Board of Review v. Thomas, 24 Pa. Commonwealth Ct. 136, 354 A.2d 46 (1976), that absence from work may become, through the lapse of an unreasonable amount of time, a voluntary termination. However, we do not believe that an unreasonable amount of time elapsed in this case.
+Had the Board ruled that claimant’s failure to notify his employer in advance of his planned absence from work for a two-day period constituted willful misconduct and made claimant ineligible for benefits under the provisions of Section 402(e) of the Act, 43 P.S. §802(e), then our scope-of-review limitation may well have resulted in an affirmance. However, we cannot assume on tMs record that the Board would have found willful misconduct on the part of the claimant when it did not consider that question.
+We would stress that our holding here is limited to the question of whether or not the claimant voluntarily quit his work or was absent without permission of his employer. Therefore, the many cases dealing with what is cause of a necessitous and compelling nature such as to justify voluntarily leaving work are not relevant, since in those cases the element of quitting or leaving work is not in dispute. Likewise, those eases holding claimants disqualified for benefits because their terminations were due to “marital, filial or other domestic obligations” within the.purview of Section 402(b) (2), 43 P.S. §802(b) (2), are not pertinent to the issue here.
+Since we conclude, as we must, that claimant did not voluntarily quit his work but took unauthorized absences on two days, we issue the following
+Order
+And Now, this 9th day of March, 1977, the April 13, 1976 order of the Unemployment Compensation Board of Review relative to the claim application of Nathaniel Firmstone is reversed. The record is hereby remanded to the Board for further proceedings or determinations consistent with this opinion.
+Act of December 5, 1936, Second Ex. Sees., P.L. (1937) 2897, as amended, 43 P.S. §802(b) (1).
+Representative of such cases are the following: Denby v. Unemployment Compensation Board of Review, 27 Pa. Commonwealth Ct. 224, 365 A.2d 1359 (1976); Owen v. Unemployment Compensa tion Board of Review, 26 Pa. Commonwealth Ct. 278, 363 A.2d 852 (1976); McGuire v. Unemployment Compensation Board of Review, 25 Pa. Commonwealth Ct. 588, 360 A.2d 315 (1976).
+See Bannon v. Unemployment Compensation Board of Review, 26 Pa. Commonwealth Ct. 632, 364 A.2d 963 (1976); Unemployment Compensation Board of Review v. Brown, 25 Pa. Commonwealth Ct. 237, 360 A.2d 813 (1976); Unemployment Compensation Board of Review v. Barnett, 22 Pa. Commonwealth Ct. 144, 348 A.2d 434 (1975).
