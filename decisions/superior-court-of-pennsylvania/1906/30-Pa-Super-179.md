@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 119"
+decided: "1906-03-12"
+citations: ["30 Pa. Super. 179"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, Porter, Morrison and Henderson, JJ."]
+parties: ["Tourison v. Engard, Appellant."]
+source_url: "https://static.case.law/pa-super/30/cases/0179-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 862259
+cites_cases: ["106 Pa. 155", "161 Pa. 241", "171 Pa. 369", "27 Pa. Superior Ct. 171", "48 Pa. 434", "5 W. N. C. 143", "64 Pa. 58", "7 Pa. Superior Ct. 343"]
+---
+
+# Tourison v. Engard
+
+## Majority (Rice, P. J.,)
+
+Opinion by
+Rice, P. J.,
+The plaintiff’s amended statement alleges that on June 6, 1904, and ,for a long time prior thereto, defendant occupied certain described premises of which certain persons,' surviving executors, etc., were the legal owners; that on that date the premises were sold at sheriff’s sale to the plaintiff; that on June 20, of the same year, by deed duly acknowledged and recorded, the sheriff conveyed the same to the plaintiff, that the defendant continued to occupy the premises for three months from said date; and, although frequently requested by the plaintiff to pay $75.00 a month for the use and occupation, refused to pay that sum, and has not paid any sum. We omit reference to the allegation of service of notice to surrender the premises within three months from the date of the acknowledgement of the sheriff’s deed, because that allegation is unequivocally denied in the supplemental affidavit of defense. It is assumed in the appellee’s printed brief that the defendant was in possession under a lease dated after the mortgage under which the sheriff’s sale was made. But this does not distinctly appear in the pleadings. For aught that is affirmatively alleged he may have been in possession under a right granted prior to the date of the mortgage which was not affected by the sheriff’s sale; therefore, it cannot be positively asserted from what now appears that the plaintiff was entitled either to the possession of the premises on June 20, 1904, or to compensation for the defendant’s use and occupation of the same during the succeeding three months. In general, the plaintiff in an action for use and occupation must prove a contract to pay either a stipulated compensation for the use of the land, or such sum as the use was reasonably worth: Brolasky v. Ferguson, 48 Pa. 434; Wilkes-Barre v. Chase, 7 Pa. Superior Ct. 343. It is true, as said in the first cited case, the proof may be either direct or presumptive, and it has been held in later decisions that in the case of tenancy by sufferance after termination of a lease the law will raise an implied promise to pay for use and occupation for the interval between the termination of the lease and the election of the lessor to treat him as a trespasser: Bush v. National Oil Refining Co., 5 W. N. C. 143; Williams v. Ladew, 171 Pa. 369. See also Stockton’s Appeal, 64 Pa. 58; Grove v. Barclay, 106 Pa. 155. We agree with the appellee’s counsel that notice to quit is not necessary in order to enable a landlord to recover for use and occupation; the difficulty is that the statement does not clearly show that, the defendant was a tenant at sufferance. But granting that he was, and that the action will lie, the measure of recovery is, not what the plaintiff demanded at a time not specified, but what the use and occupation of the premises were reasonably worth. We do not find any distinct averment in the statement as to this matter of fact. The averment that the sum claimed “is justly due and owing” is the plaintiff’s conclusion, which, if based solely on the fact that this was the sum the defendant was requested to pay, is unwarranted in law, and if based on facts not stated, is not such compliance with the procedure act as entitled the plaintiff to summary judgment for the aniount of his claim. “To entitle a plaintiff to judgment for want of an affidavit of defense, or for want of a sufficient affidavit of defense, the statement of his demand under the act of May 25, 1887* must be self-sustaining; that is to say, it must set forth in clear and concise terms a good cause of action, by which is meant such averments of fact as, if not controverted, would entitle him to a verdict for the amount of his claim: ” Chestnut Street National Bank v. Ellis, 161 Pa. 241; Bill Posting Sign Co. v. Jermon, 27 Pa. Superior Ct. 171. Passing other objections raised upon the argument, the rendition of judgment for the amount of the plaintiff’s claim was erroneous, because the plaintiff’s statement failed to show a complete right to recover the sum claimed.
+Judgment reversed and record remitted with a procedendo.
