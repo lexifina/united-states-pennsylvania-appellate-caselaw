@@ -1,0 +1,59 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1476 C.D. 1974"
+decided: "1975-07-30"
+citations: ["20 Pa. Commw. 548"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Kramer and Blatt, sitting as a panel o-f three."]
+parties: ["Workmen’s Compensation Appeal Board of the Commonwealth of Pennsylvania and Rhodi Chandler v. Power Systems Division, McGraw Edison, Appellant."]
+source_url: "https://static.case.law/pa-commw/20/cases/0548-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1868779
+cites_cases: ["10 Pa. Commonwealth Ct. 462", "12 Pa. Commonwealth Ct. 602", "15 Pa. Commonwealth Ct. 296", "252 A.2d 601", "305 A.2d 913", "311 A.2d 160", "317 A. 2d 341", "325 A.2d 496", "434 Pa. 90", "9 Pa. Commonwealth Ct. 281"]
+---
+
+# Workmen's Compensation Appeal Board v. Power Systems Division
+
+## Majority (Judge Kramer,)
+
+Opinion by
+Judge Kramer,
+This is an appeal by Power Systems Division, McGraw Edison, from a decision of the Workmen’s Compensation Appeal Board which affirmed a referee’s decision awarding compensation to Rhodi Chandler. The issue is whether there is substantial evidence in the record to support the referee’s adjudication. We conclude there is and, therefore, affirm.
+Chandler filed his claim petition on November 25, 1968, alleging that he had injured his back in a work-related accident on July 10, 1968. Following a series of hearings, a referee denied compensation in a decision dated September 21, 1970. The referee found that Chandler “failed to introduce competent medical evidence” to show a casual connection between the accidental injury and his subsequent disability. Chandler appealed from the referee’s decision to the Board and, in a decision dated March 17, 1971, the Board vacated the referee’s determination and remanded the case to a referee to give Chandler “an opportunity to present medical evidence” and to allow Power Systems to present additional evidence. Upon remand, an extensive series of hearings was conducted before a second referee. Finally, on January 17, 1974, the referee filed a decision, which contained the following pertinent findings of fact:
+“NINTH: That on July 10, 1968, while in the regular course of his employment, the claimant was pulling and lifting twenty (20). foot radiators weighing five hundred (500) pounds in order to position them for hooking up to a crane.
+“TENTH: That while the claimant and his helper were pulling and lifting one of the radiators, due to a tremendous overhang of the radiator off the skid, the weight shifted to the claimant pulling him down and causing his knees to buckle causing severe pain to his lower back.
+“ELEVENTH: That the claimant reported the injury immediately and went to the plant nurse who treated him with heat therapy and pain pills. Although in pain and under the care of the plant physician, he continued to work until September 3, 1968, when he was forced to quit work because of severe back pain radiating down into his legs.
+“TWELFTH: That the claimant was totally disabled as a result of his July 10, 1968 injuries from September 4, 1968 to August 11, 1969 inclusive, and from November 26, 1971 to the present.
+“THIRTEENTH: That the claimant was released for light duty work by Doctor Inghram and returned to work as a winder helper on August 12, 1969 through September 16, 1970 and from July 6, 1971 through November 25, 1971, inclusive. Although earning figures are not available for these periods the parties stipulate and agree that in case of an award, the claimant’s wage loss was sufficient to entitle him to a partial disability compensation rate of $2.64 per week or a total of $200.64.
+“FOURTEENTH: That on September 17, 1970 the claimant was involved in an automobile accident and was totally disabled, by injuries unrelated to his back injury on July 10, 1968, from September 17, 1970 through July 5, 1971.
+“FIFTEENTH: That your Referee finds as a fact that the claimant sustained compensable accidental injuries on July 10, 1968 within the meaning of Section 301(c) of the Workmen’s Compensation Act, as amended March 17, 1968, when he was subjected to the extreme and excessive weight of a five hundred (500) pound radiator, which he was handling, as a result of its shifting due to an extensive overhang off the pallet on which it was standing, and suffered discogenic backache and sciatica with a clinical diagnosis of disc herniation.”
+The referee concluded from these facts that Chandler had succeeded in proving the occurrence of a compensable accident under both the unusual strain doctrine and the unusual pathological result doctrine, and, therefore, the referee awarded compensation. Power Systems appealed to the Board, which affirmed the referee in a decision dated October 8, 1974.
+Power Systems contends (1) that the referee erred by concluding that Chandler suffered a compensable accident under both doctrines, and (2) that the referee’s finding that Chandler is totally disabled is not supported by substantial evidence.
+In a case such as this, where the party with the burden of proof prevailed before the referee and the Board did not take additional evidence, our scope of review is limited to a determination of whether constitutional rights were violated, an error of law was committed or any necessary finding of fact, as found by the referee, was unsupported by substantial evidence. See David v. Bellevue Locust Garage, 12 Pa. Commonwealth Ct. 602, 317 A. 2d 341 (1974).
+We need not discuss the unusual strain doctrine because the record supports the referee’s conclusion that an accident occurred under the unusual pathological result doctrine. Power Systems argues that the testimony of Chandler’s medical witness, Dr. Nemani, should have been disregarded by the referee, because Dr. Nemani, who examined Chandler after his automobile accident, admitted that Chandler never told him about the accident. Dr. Nemani was subjected to a vigorious cross-examination, during which he was informed of Chandler’s intervening automobile accident and of the symptoms Chandler complained about following the accident. During cross-examination Dr. Nemani refused to modify his opinion concerning causation. He stated that the symptoms Chandler complained about following the automobile accident were not related to the back ailment which he diagnosed and which, in his opinion, was caused by the accident of July 10, 1968. Dr. Nemani’s testimony is sufficient to support the referee’s findings concerning the nature and the cause of Chandler’s disability. The only issue raised by Power Systems about Dr. Nemani’s testimony concerns the weight and credibility of his testimony as opposed to the testimony of Power Systems’ medical witness. Questions concerning the weight and credibility of the evidence are for the appropriate fact finder, in this case the referee. Mauchly Associates v. Workmen’s Compensation Appeal Board, 15 Pa. Commonwealth Ct. 296, 325 A.2d 496 (1974).
+Power Systems argues that the referee’s finding of total disability is not supported by substantial evidence. The issue of the extent of Chandler’s disability was a question of fact to be. determined by the referee. The resolution of that issue required, in addition to medical evidence, a consideration of Chandler’s mental outlook, of his industrial background, of his education, of the occupations he could perform if his disability is not a total bar, and of whether such occupations are in fact available to him. See Rosenau Brothers, Incorporated v. Workmen’s Compensation Appeal Board, 10 Pa. Commonwealth Ct. 462, 311 A.2d 160 (1973). The medical testimony in this case shows that Chandler is unable to resume his former employment. Furthermore, there is no evidence in this record which indicates that light work, which Chandler might be able to perform, is in fact available to a person with his education and employment background. The referee’s finding of total disability is supported by the record.
+Power Systems complains that it made an offer to prove that light work in its plant was available to Chandler, but that the testimony was not allowed by the referee. The offer of proof was made, however, at the final hearing before the referee, which was scheduled not for the purpose of receiving testimony, but merely to allow Power Systems to submit documentary evidence. Power Systems’ counsel admitted at the final hearing that it was his “understanding” the record had been closed for further testimony. Also, the referee’s eighth finding of fact reads as follows:
+“EIGHTH: That all parties were given ample opportunity to present evidence and/or testimony, as witnessed by the eleven (11) hearings scheduled in the instant proceedings.”
+If Power Systems has offered, or in the future offers, light work which Chandler is capable of performing, it may properly file a petition to terminate or modify the award in this case.
+In summary, we hold that the referee’s findings and conclusions are supported by the record and, therefore, we affirm.
+Accordingly we
+Order
+And Now this 30th day of July, 1975, compensation is awarded and Power Systems Division, McGraw Edison, through its insurance carrier, American Mutual Insurance Company, is directed to pay the claimant, Rhodi Chandler, compensation for total disability at the rate of $60.00 per week, retroactive to September 4, 1968 through August 11, 1969, inclusive.
+Compensation is payable for partial disability, as stipulated between the parties, at the rate of $2.64 per week for the periods from August 12, 1969 through September 16, 1970, and from July 6, 1971 through November 25, 1971, a total of 76 (seventy-six) weeks or a total of $200.64.
+Compensation is suspended for the period from September 17, 1970 through July 5, 1971.
+Compensation for total disability is again payable at the rate of $60.00 per week commencing on November 26, 1971 continuing to the present and into the future until such time that the claimant’s disability changes in nature or extent or ceases and terminates, all within the meaning and provisions of the Pennsylvania Workmen’s Compensation Act, Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §1 et seq.
+Interest is assessed at the rate of six percent (6%) per annum in accordance with section 410 of the Act.
+Power Systems Division is further directed to pay the following statutory medical expenses:
+Colonial Pharmacy.......................$ 50.50
+203 Birnstein Avenue, Canonsburg, Pa.
+Dr. Patrick G. Laing..................... 20.00
+Suite 702 Medical Center East
+211 N. Whitfield Street, Pittsburgh, Pa. 15206
+Dr. John G. Inghram..................... 155.00
+831 Washington Trust Building,
+Washington, Pa. 15301
+Reasonable attorney fees, not to exceed twenty percent (20%) of the award, which have been agreed upon by the claimant and his counsel are approved and are to be paid by the claimant.
+. The testimony and evidence received by the first referee were made part of the record in the proceedings before the second referee.
+. We note, however, that Chandler could not have proven all of the elements necessary for recovery under both the unusual strain doctrine and the unusual pathological result doctrine. An accident under the unusual pathological result doctrine must occur during the claimant’s ordinary and usual work. See United States Steel Corporation v. Simon, 9 Pa. Commonwealth Ct. 281, 305 A.2d 913 (1973). An accident under the unusual strain doctrine must occur during unusual and excessive activity, which is outside the claimant’s normal work pattern. See Hamilton v. Procon, Inc. 434 Pa. 90, 252 A.2d 601 (1969). Although the referee found the radiators to be of “excessive” weight, the record indicates that handling such radiators was part of Chandler’s normal work pattern.
