@@ -1,0 +1,126 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "01707"
+decided: "1995-12-27"
+citations: ["448 Pa. Super. 250", "671 A.2d 689"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before ROWLEY, President Judge, and TAMILIA and HESTER, JJ."]
+parties: ["Charlayne CRAWFORD v. Kevin BURRITT, Appellant."]
+source_url: "https://static.case.law/pa-super/448/cases/0250-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 732417
+cites_cases: ["163 Pa.Super. 279", "329 Pa.Super. 383", "333 Pa.Super. 375", "435 Pa.Super. 297", "533 Pa. 441", "538 Pa. 122", "60 A.2d 831", "645 A.2d 868", "646 A.2d 565"]
+---
+
+# Crawford v. Burritt
+
+## Majority (HESTER, Judge:)
+
+HESTER, Judge:
+Following a trial on March 24, 1994, the jury returned a verdict for appellant-defendant, Kevin Burritt, and against appellee-plaintiff, Charlayne Crawford, in her suit to establish the paternity of her oldest child, Erin. Appellee filed a motion for post-trial relief on April 4, 1994, and the court heard oral argument on August 30, 1994. The next day, the common pleas court granted appellee-plaintiff a new trial on the basis that it erroneously had permitted testimony about the birth of another child out of wedlock. Appellant-defendant appealed on September 29, 1994. We determine that the trial court properly granted a new trial; we affirm.
+Sometime in late August or early September, 1984, the parties, in high school and fifteen years old, went for a ride one evening in appellant’s family car with another couple. They parked in a secluded area, and the other two teenagers left the vehicle and went for a walk. While the other couple was gone, the parties had sexual intercourse.
+Appellee bore a child, Erin, on June 1, 1985, the day after her due date. Appellee sought benefits through the Department of Social Services which advised her that she had to cooperate in identifying the father of her child. Initially, appellee named Jeffrey Ransom, her former boyfriend, as Erin’s father in a complaint for support filed August 8, 1985. She testified that she suspected that appellant was the father of the child, but she “was not ready to face that because I knew he did not' care about me.” Notes of Testimony (“N.T.”), 3/24/95, at 34. Appellee explained further:
+Jeff and I had dated for a good while, and I had a lot of feelings for Jeff. I feel — I had been with Jeff in June of 1984, and I was — I guess I was hoping that he would be [the father] because Jeff had at one time cared about me, and I knew Kevin did not.
+I had really had a lot of feelings for Jeff I was a teenager. I really didn’t understand how things were supposed to happen. I guess I was hoping that someone would marry me, sweep me off my feet, and I’d have my family, and I wouldn’t have people looking down on me____
+Id. at 9, 27. On September 17, 1985, appellee wrote to the court requesting that the suit against Jeff Ransom be discontinued. Id. at 31. Subsequent DNA testing excluded Jeff Ransom as a possible father of Erin. Id. at 110.
+The present support action naming appellant as Erin’s father was filed May 8, 1986. On November 10, 1987, blood samples were drawn from appellant, appellee, and Erin. Id. at 96. Roche Biomedical Laboratories conducted two categories of tests: the first was red cell antigens, better known as blood typing, and the second was leukocyte antigens, also known as HLA testing. Id. at 97-98. Dr. Clifton Harris, the associate director of the department of parentage testing at Roche, testified at trial that the combined paternity index in this case is 272 to one, which means “that Kevin Burritt is 272 times more likely than a man chosen at random from the North American white population to produce a sperm cell containing those genetic markers that Erin ... must have received.... ” Id. at 100. Dr. Harris testified further that the probability that appellant is the father of Erin is 99.63 percent. Id. at 101.
+Both parties testified to the events that transpired on that late August, early September night in 1984. The relevant testimony of appellee-plaintiff is as follows:
+THE WITNESS: The whole situation was embarrassing. We had sexual intercourse. And when we were done, we were waiting for them. And we got back in the front, and we sat there and talked.
+Q. Did the size of the car render the act itself — give you any problems with the act itself?
+A- It was very uncomfortable.
+Q. Was it difficult to — that’s okay. That’s fine.
+So you were in the back seat of an Opal, and you two had intercourse as you’ve testified. Now, again, I’m not trying to embarrass you, but when you say intercourse, could you be specific. And I’m going to ask you to use certain terms. You understand what penetration means?
+A. Yes, I do.
+Q. And do you understand what ejaculation means?
+A. Yes, I do.
+Q. Did Mr. Burritt penetrate your vagina that evening?
+A. Yes, he did.
+Q. Are you positive of that?
+A. I am.
+Q. Did he ejaculate that evening?
+A. I don’t know. When I was 15 years old, I did not know much about sex. I really didn’t.
+Id. at 20-21. In contrast, appellant-defendant testified as follows:
+Things got, you know — we started kissing and petting and things like that. Things started to go someplace like we were going to have sex.
+She started to remove her pants, but she wouldn’t take them all the way off. It was in a small car in the back seat, and we — I tried, but she wouldn’t take her pants off. So I couldn’t really do anything.
+Q. To your knowledge, did you achieve penetration of her vagina?
+A. No, I didn’t.
+Q. Did you ejaculate?
+A. No, I did not.
+Q. Are you positive?
+A. I’m positive.
+Q. I want you to in great detail — and I again apologize for this — explain to the jury what level of contact there actually was.
+A. Actually, there was little or no contact. It was a small car. Her pants were down to her knees; therefore, she couldn’t spread her legs. And I got on top of her, and I tried, but she wouldn’t cooperate. And then I just finally figured she wasn’t going to cooperate, and she actually — I don’t know whether she figured that she did want to and then she didn’t or what, but I figured she wasn’t going to cooperate, so I figured what was the use.
+Id. at 152-54, 157.
+Appellant also presented testimony that appellee had spent the night in a hotel with a construction worker during the relevant time period. Id. at 142. Appellee admitted being in the hotel room but denied any sexual activity. Id. at 47.
+As noted supra, the blood test results notwithstanding, the jury returned a verdict in favor of appellant. Appellee argued, inter alia, in her motion for post-trial relief, that the trial court erred in permitting appellant to question appellee concerning the parentage of her other children. She contended that the only purpose of such questioning was to portray her to the jury as a promiscuous person of general bad character. The trial court agreed and granted a new trial on this basis. The propriety of this decision is the focus of this appeal.
+As a preliminary matter, we set forth the proper scope and standard of review since appellant’s argument in this regard is erroneous. In Coker v. S.M. Flickinger Company, Inc., 533 Pa. 441, 625 A.2d 1181 (1993), the Pennsylvania Supreme Court reaffirmed the “fundamental and longstanding precept that the decision to order a new trial is one that lies within the discretion of the trial court.” Id., 533 Pa. at 446, 625 A.2d at 1184.
+Thus the standard for appellate review of such a decision is always an abuse of discretion standard. In contrast, the scope of the appellate court’s review of the trial court’s decision varies: It is determined by whether the trial court cites a finite set of reasons for its decision, indicating that but for the cited reasons it would not have granted a new trial, or “leaves open the possibility that it would have ordered a new trial for reasons other than those it specified.”
+Morrison v. Com., Department of Public Welfare, 538 Pa. 122, 131, 646 A.2d 565, 570 (1994) (emphasis in original), quoting Coker v. S.M. Flickinger Company, Inc., supra, 533 Pa. at 446, 625 A.2d at 1184. As we stated in Picca v. Kriner, 435 Pa.Super. 297, 299, 645 A.2d 868, 869 (1994):
+Our scope of review is limited to those reasons upon which the trial court relied. We consider whether any of the trial court’s reasons for granting a new trial have merit; if so, we defer to the trial court’s decision. Because the trial court is uniquely qualified to evaluate factual matters, we will not disturb its decision absent an abuse of discretion or error of law.
+The August 31, 1994 order of the trial court specifies:
+At the time of argument the court considered [plaintiffs] alleged points of error and is of the opinion that the Court erred as far as point one is concerned in that the Court permitted testimony as to the birth of another child out of wedlock. Since the appellate courts have ruled that such testimony is not proper, this Court will grant the plaintiff a new trial.
+Thus, we are confined to examining the propriety of the trial court’s decision to grant a new trial based on whether that court erred in permitting, over plaintiffs objection, testimony on the parentage of her two, later-born children.
+Appellant contends that appellee opened the door to this evidence since testimony elicited on direct examination “raised the inference to the jury that [appellee-plaintiff] was a virtuous person, who, for all intents and purposes, is leading a normal lifestyle, within the meaning that society would place upon it.” Appellant’s brief at 12. The testimony underscored by appellant, which was elicited -within the first questions posed by appellee’s counsel, is as follows:
+Q. Would you state your name, please.
+A. Charlayne Crawford.
+Q. And where do you live?
+A. In Columbia, South Carolina.
+Q. Keep your voice up, please, so the jury can hear you.
+A. Columbia, South Carolina.
+Q. Try to speak slowly too because — so that the words all come out and the jury can understand everything you have to say. All right?
+Ms. Crawford, do you have any children?
+A. Yes, I do.
+Q. And what are their names?
+A. Erin Crawford, Matthew and Victoria.
+Q. And their ages?
+A. Eight and a half, five—
+Q. That’s Erin?
+A. Erin is eight and a half, Matthew is five, and Victoria is two and a half.
+Q. Are you married?
+A. Yes, I am.
+Q. And what’s your husband’s name?
+A. Steve Kinlaw.
+N.T., 3/24/94, at 3-4. It is this introductory, background information that appellant contends raised the inference that appellee “was a virtuous person.... ” Appellant’s brief at 12.
+The testimony elicited on cross-examination of appellee, upon which the trial court apparently relied in granting a new trial, is as follows:
+Q. You say that you have two children now, correct?
+A. I have three.
+Q. Three children. Okay. You have Erin who you’re alleging is Mr. Burritt’s child, correct?
+A. That is correct.
+Q. And the second child is who now?
+A. Matthew.
+Q. That’s Matthew Anthony?
+A. Um-hum.
+Q. He is the child of who?
+MR. ROSS: Objection, Your Honor. That’s irrelevant to these proceedings.
+THE COURT: What’s your objection?
+MR. ROSS: Objection. That is irrelevant.
+THE COURT: I don’t think it is. Go ahead.
+BY MR. CLARKE:
+Q. Matthew Anthony you said?
+A. Yes.
+Q. And he is the child of who?
+A. Matthew Anthony, Sr.
+Q. That is another man, not your husband, correct?
+A. Correct.
+Q. And your third child is?
+A. Victoria.
+Q. She is who now? What’s her last name?
+A. Crawford.
+Q. She is the child of who?
+A. Of Steve Kinlaw, my husband.
+Q. And you’re married to Steve Kinlaw now, correct?
+A. Yes.
+N.T., 3/24/95, at 25-26. This testimony came directly on the heels of specific questions about the consummation of sexual intercourse between the parties.
+Appellant first contends that the above testimony which he elicited on cross-examination was mere background information, and as such, the trial court was not free to. exclude it. We reject such a claim. The information elicited by these questions was not mere background information; it was testimony elicited to suggest to the jury that appellee was a promiscuous woman and thereby prejudice the jury.
+Appellant further contends that the testimony he elicited on cross-examination “was properly admissible character evidence.” Appellant’s brief at 13. Again, we disagree. Appellant’s argument is premised on the assumption that the questions posed to appellee by her counsel when she began her testimony “was calculated to portray [appellee-plaintiff] in a positive light in . regards to her family situation.” Appellant’s brief at 14. Thus, appellant asserts that appellee “opened the door,” appellant’s brief at 15, by testifying on direct examination that she has three, children and that she is married. According to appellant, this testimony was calculated to portray appellee to the jury as a “virtuous person” who is leading a “normal lifestyle.” Id. at 8, 12. The door thus having been opened in this manner, appellant argues that he was entitled to negate the inference that appellee is a virtuous person by establishing that she had premarital sexual intercourse on at least one other occasion and gave birth to another child out of wedlock.
+The questions posed to appellee when she began her testimony were background questions of the type asked of virtually every party who testifies. She told the jury her name, where she lives, the names and ages of her children, and the name of her husband. Appellant’s suggestion that appellee offered this testimony for the purpose of bolstering her credibility by portraying herself as a virtuous person is groundless, especially in light of her later direct testimony wherein she acknowledged that she had premarital sexual intercourse with appellant when she was fifteen years old, admitted previous sexual intercourse with her prior boyfriend, Jeff Ransom, and told the jury that she initially had filed a support complaint against Ransom.
+This court has determined in a paternity action that evidence of a mother’s sexual activity is a “fact extremely important in the inquiry” but only “at or about the time the child was begotten.” Butler v. DeLuca, 329 Pa.Super. 383, 387, 478 A.2d 840, 843 (1984), quoting Commonwealth v. Young, 163 Pa.Super. 279, 283, 60 A.2d 831, 833 (1948). We determined in DeLuca that the trial court erred in failing to instruct the jury regarding the period during which sexual activity of the plaintiff-mother was relevant to the paternity issue after defendant testified that he saw plaintiff-mother nude on a couch with another man at a time that was not within the period of possible conception.
+The only other paternity case remotely applicable to this issue is Horton v. Appleby, 333 Pa.Super. 375, 482 A.2d 615 (1984). We determined in Horton that the trial court erred in admitting the marginally relevant and prejudicial evidence that plaintiff-mother was receiving public assistance and that such error was not harmless. Following discussion of the pivotal issue, we discussed at length an additional trial court error concerning the admission of evidence that the plaintiff-mother rented a room in a house in which two men reside. We addressed the issue even though plaintiff had failed to object to the testimony at trial “because we [were] remanding for a new trial ... and the error should not be repeated at the new trial.” Id., 333 Pa.Super. at 378, 482 A.2d at 618.
+We determined the testimony that the plaintiff lived with two men during a time which was outside the period of possible conception was not relevant and its admission was improper, stating, “The only inference to be drawn from the testimony was that [the plaintiff] was a bad person because she had lived with two men some time before becoming pregnant.” Id. at 381, 482 A.2d at 619.
+Similarly, in the present case, the only purpose served by asking appellee about the paternity of her other children was to portray her to the jury as a promiscuous person of bad character. That she had engaged in premarital sex during a time that is outside the period of possible conception is irrelevant and improper due to its potential prejudicial effect.
+Moreover, we cannot say that this error was harmless. As noted, the blood tests resulted in a 99.63 percent likelihood that appellant is the father of Erin and a 272 to one paternity index. Apparently, the jury rejected the HLA test results and found in favor of appellant on the basis of its appraisal of appellee’s credibility. In these circumstances, we cannot say that the admission of the- evidence that appellee had another child out of wedlock was harmless error. Thus, the trial court did not abuse its discretion in awarding appellee a new trial.
+Order affirmed.
+. The record offers no revelation, nor do the parties, as to why this matter languished in the court system for eight years before it proceeded to trial.
+. On April 19, 1995, the trial court rescinded its prior order of August 31, 1994, and withdrew its grant of a new trial. As the common pleas court was without jurisdiction to act in that the notice of appeal to this court was filed September 29, 1994, the order of April 19, 1995 is a nullity and merits no further discussion. See 42 Pa.C.S. § 5505.
