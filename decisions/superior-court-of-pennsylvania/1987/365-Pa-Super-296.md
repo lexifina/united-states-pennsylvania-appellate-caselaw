@@ -1,0 +1,35 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "00145"
+decided: "1987-08-10"
+citations: ["365 Pa. Super. 296", "529 A.2d 516"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WIEAND, OLSZEWSKI and HOFFMAN, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Ronald HARVEY, Appellant."]
+source_url: "https://static.case.law/pa-super/365/cases/0296-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 676320
+cites_cases: ["235 A.2d 349", "336 Pa.Superior Ct. 609", "339 Pa.Superior Ct. 373", "427 Pa. 599", "466 U.S. 668", "490 Pa. 251", "494 Pa. 154", "503 Pa. 336", "510 Pa. 363", "527 A.2d 973"]
+---
+
+# Commonwealth v. Harvey
+
+## Majority (HOFFMAN, Judge:)
+
+HOFFMAN, Judge:
+This is an appeal from the lower court’s order denying appellant’s petition for relief under the Post Conviction Hearing Act (PCHA), 42 Pa.C.S.A. §§ 9541-9551. Appellant contends that appellate counsel was ineffective for failing to argue on direct appeal that the sentencing court abused its discretion by considering an impermissible factor when it imposed sentence. Because we find this contention to be without merit, we affirm the order of the lower court.
+Appellant was convicted of murder in the third degree and possession of an instrument of crime. This conviction was affirmed on appeal. Commonwealth v. Harvey, 494 Pa. 154, 430 A.2d 1163 (1981). Appellant subsequently filed a pro se PCHA petition alleging appellate counsel’s ineffectiveness. Counsel was appointed and an amended petition was filed. Following a hearing, the lower court denied the petition and this appeal followed.
+Appellant contends that his appellate counsel was ineffective for failing to challenge the imposition of sentence on direct appeal. He argues that the sentencing court abused its discretion by considering his father’s criminal history before imposing sentence. We disagree.
+When confronted with a claim of ineffective assistance of counsel, we must conduct a two-part analysis. Initially, we determine whether counsel was, in fact, ineffective. If our review of the record reveals that counsel was ineffective, we must then determine whether appellant has shown that counsel’s ineffectiveness worked to his prejudice. Commonwealth v. Pierce, 515 Pa.-, -, 527 A.2d 973, 976 (1987).
+The determination whether counsel was, in fact, ineffective is itself arrived at through a two-part test. First, we must ascertain whether the issue underlying the claim of ineffectiveness has arguable merit. Commonwealth v. Buehl, 510 Pa. 363, 378, 508 A.2d 1167, 1174 (1986). This requirement is based upon the principle that we will not find counsel ineffective for failing to pursue a frivolous claim or strategy. Commonwealth v. Parker, 503 Pa. 336, 341, 469 A.2d 582, 584 (1982). Second, if we find that appellant’s claim does have arguable merit, we must next determine whether “the course chosen by counsel had some reasonable basis designed to serve the best interests of the client.” Commonwealth v. Buehl, supra, (citing Commonwealth ex rel. Washington v. Maroney, 427 Pa. 599, 605, 235 A.2d 349, 353 (1967)). With regard to the prejudice element, our Supreme Court in Pierce adopted the test announced by the United States Supreme Court in Strickland v. Washington, 466 U.S. 668, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984). Commonwealth v. Pierce, supra, 515 Pa. at —, 527 A.2d at 976. Under Strickland, to prove that counsel’s error resulted in prejudice, an appellant must show that it was “so serious as to deprive [him or her] of a fair trial, a trial whose result is reliable.” Strickland v. Washington, supra 466 U.S. at 687, 104 S.Ct. at 2064.
+Applying this analysis, we must now determine whether appellant’s claim of ineffective assistance of counsel has arguable merit. The imposition of sentence is vested within the sound discretion of the sentencing court. Commonwealth v. Sanders, 339 Pa.Superior Ct. 373, 381, 489 A.2d 207, 211 (1985). The court’s determination must not be disturbed on appeal absent a manifest abuse of discretion. Commonwealth v. Edrington, 490 Pa. 251, 255, 416 A.2d 455, 457 (1980). An abuse of discretion may be defined as:
+not merely an error of judgment, but if in reaching a conclusion the law is overridden or misapplied, or the judgment exercised is manifestly unreasonable, or the result of partiality, prejudice, bias, or illwill [sic], as shown by the evidence or the record, discretion is abused.
+Commonwealth v. Jackson, 336 Pa.Superior Ct. 609, 627, 486 A.2d 431, 441 (1984) (citations omitted).
+Here, in formulating its sentence, the sentencing court noted that it was considering the pre-sentence investigation, the appellant’s prior record and the chances of rehabilitation. N.T. February 20, 1984 at 12-14. In addition, the court clearly noted that it was not considering appellant’s father’s criminal record nor the appellant’s relationship with his father in imposing the sentence:
+... and I’m not taking into consideration the fact that he’s probably still — that he may — I can only speculate and I will not consider it as a fact that he’s been a hero worshipper of his father, not because of what good his father’s [sic] done for him apparently he didn’t do anything for him. But apparently of his father’s achievements over the years. That’s the impression I get from people that have interviewed him. I’m not taking that into consideration, however. I’m just judging him on himself and because it is what I thought a serious crime done openly. That is what the jury found, and I’m going to sentence the defendant as follows.
+N.T. supra at 14. We have no reason to believe that, despite the court’s disclaimer, it considered this impermissible factor. Nor will we find that the court’s mere mention of the factor constituted manifest abuse of discretion. Accordingly, because we will not find counsel ineffective for failing to pursue this frivolous issue, appellant’s claim of ineffective assistance of counsel lacks arguable merit. Commonwealth v. Parker, supra.
+For the above-stated reasons, we affirm the order of the lower court.
+Affirmed.
+. The Strickland Court premised its test for prejudice upon the constitutional right to a fair trial as ensured through the adversarial process. Strickland v. Washington, supra 466 U.S. at 686, 104 S.Ct. at 2064. The Court, therefore, limited the test to alleged errors at trial and at capital sentencing proceedings which, like trials, have an adversarial nature. However, the Court noted that because noncapi-tal sentencing proceedings are not wholly adversarial in nature, it "need not consider the role of counsel in an ordinary sentencing ... [which] may require a different approach to the definition of constitutionally effective assistance.” Id. Because we find here that appellant's claim lacks arguable merit, we need not address the question of the appropriate test for prejudice with regard to ineffective assistance allegations at non-capital sentencing proceedings.
