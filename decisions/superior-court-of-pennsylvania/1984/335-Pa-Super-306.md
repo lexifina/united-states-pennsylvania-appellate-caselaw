@@ -1,0 +1,40 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "980"
+decided: "1984-11-09"
+citations: ["335 Pa. Super. 306", "484 A.2d 146"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before McEWEN, OLSZEWSKI and HOFFMAN, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Robert SCHULTZ, Appellant."]
+source_url: "https://static.case.law/pa-super/335/cases/0306-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 620685
+cites_cases: ["148 Pa. 26", "160 Pa.Super. 269", "223 Pa.Super. 15", "23 A. 1110", "235 A.2d 349", "285 A.2d 480", "297 A.2d 161", "306 Pa.Super. 119", "306 Pa.Superior Ct. 127", "427 Pa. 599", "445 Pa. 558", "452 A.2d 247", "496 Pa. 188", "50 A.2d 722"]
+---
+
+# Commonwealth v. Schultz
+
+## Majority (OLSZEWSKI, Judge:)
+
+OLSZEWSKI, Judge:
+This appeal is undertaken from the judgment of sentence imposed after appellant was convicted by a jury and sentenced to serve a term of not less than four months nor more than two years for recklessly endangering another person and a similar and concurrent term for simple assault. We reverse and remand for a new trial.
+Appellant was charged with recklessly endangering another and simple assault after he was arrested for pointing a shotgun at his neighbor. This incident followed a heated exchange over a boundary dispute concerning their adjacent properties.
+During the presentation of his case, appellant called several character witnesses to attest to his good reputation in the community. After both sides rested, the court instructed the jury on the use of that character evidence:
+... the defendant produced several character witnesses who testified that the defendant’s reputation for truthfulness and honesty were “good” or “fine.”
+It’s important that you understand how this testimony by the character witnesses should be treated in this case. Of course, from time immemorial, a good reputation has been regarded as an asset of a person and the law permits that person to avail himself of that reputation evidence in support of his innocence once he has been accused in criminal court. Reputation evidence is substantive evidence to be weighed and considered along with all the other evidence and testimony in the case. But if the Commonwealth has shown beyond a reasonable doubt that the defendant is guilty, even though he may have had a good reputation, he is not free to go acquitted simply because of that reputation.
+You must decide for yourselves whether to accept the testimony of good reputation and whether it points to innocence in this case and whether it will raise a doubt in your mind that such a man with such a reputation would be likely to commit a crime of the nature charged herein. A distinct issue is not created by this type of testimony nor is it brought into the case as mere make-way evidence. It is to be taken into account with all the other evidence in the case and if the whole of the evidence, in total, is sufficient in your judgment to indicate that the defendant is not guilty or to create a reasonable doubt of his guilt in your minds, then the defendant is entitled to be found not guilty.
+Charge of the lower court at 14-15. Counsel for appellant did not object to this charge and appellant was subsequently convicted.
+In this appeal, appellant, represented by new counsel, contends that prior counsel was ineffective for not objecting to the court’s charge even though the charge failed to state that character evidence alone may be sufficient to raise a reasonable doubt and thus justify an acquittal. We agree.
+It has long been the law in this Commonwealth that a defendant in a criminal trial may introduce evidence of his own good character in order to attempt to convince the trier of facts of his innocence. Commonwealth v. Sampson, 445 Pa. 558, 285 A.2d 480 (1971); McCormick on Evidence, § 191 (2d.Ed.1972). As stated by our Court in Commonwealth v. Padden, 160 Pa.Super. 269, 50 A.2d 722 (1947):
+Evidence of good character is substantial and positive evidence, not a mere make way to be considered in a doubtful case, and according to all our authority, is an independent factor which may of itself engender a reasonable doubt or produce a conclusion of innocence. To be sure, it is to be considered with all the other evidence in the case. But it is not to be measured with or by other evidence. Its probative value, its power of persuasion, does not depend upon, and is not to be measured by, or appraised according to, the might or the strength in the Commonwealth’s case. Even though, under all the evidence a jury could reach a conclusion of guilt, still if the character evidence creates a reasonable doubt or establishes innocence a verdict of acquittal must be rendered.
+160 Pa.Super. at 275, 50 A.2d at 725 (citations omitted; emphasis in original).
+As is evidence from the above, character evidence is extremely important evidence and is not to be taken lightly. Indeed, our courts have buttressed the importance of this evidence further by requiring that a jury be instructed such evidence, in and of itself, may be sufficient to justify an acquittal. Commonwealth v. Arenella, 306 Pa.Super. 119, 452 A.2d 243 (1982); see also Commonwealth v. Scott, 496 Pa. 188, 436 A.2d 607 (1981); Commonwealth v. Cleary, 148 Pa. 26, 23 A. 1110 (1892); Commonwealth v. Shapiro, 223 Pa.Super. 15, 297 A.2d 161 (1972). The court in Arenel-la cited with approval the following charge: “In some instances, evidence of good reputation may of itself work an acquital or create a reasonable doubt.” See 306 Pa.Super. at 128-129, 452 A.2d at 248. In the instant case, appellant was entitled to an instruction that evidence of good character may by itself be sufficient to raise a reasonable doubt.
+Counsel, however, failed either to request such instruction or to challenge its absence. The instructions actually given in the case at bar are virtually indistinguishable from those given in Arenella. Id., 306 Pa.Superior Ct. at 127-128, 452 A.2d at 248. Since our Court has not approved the Arenella instruction, we must disapprove the instant instruction.
+We can find no reasonable basis for counsel’s inaction. Under the standard set forth in Commonwealth ex rel. Washington v. Maroney, 427 Pa. 599, 235 A.2d 349 (1967), we find appellant was denied the assistance of counsel. The judgment of sentence entered below is hereby reversed and a new trial granted.
+Judgment of sentence reversed. Remanded for proceedings consistent with this opinion. Jurisdiction relinquished.
+. Appellant was subsequently placed on probation, ordered to pay the costs of prosecution together with a $2,000.00 fine, and ordered to turn over his guns to the Montour County Adult Probation Office.
+. In his brief, appellant also contends that the lower court erred in failing to (1) charge the jury correctly on the crime of recklessly endangering; (2) provide trial counsel with transcription of the record in order to prepare for post-trial motions; (3) admit certain testimony and exhibits into evidence; and, (4) grant post-trial motions. We have reviewed each of these arguments thoroughly and we are convinced that they lack merit. Appellant also contends that the court abused its discretion at sentencing, particularly when it ordered the confiscation of his guns. Since we have determined that a new trial is warranted, we need not consider this argument.
+. We do not deem it necessary to reproduce in total the instruction given in Arenella. See 306 Pa.Superior Ct. 127-28, 452 A.2d 247-48.
+. We have chosen to grant a new trial, rather than remand for an evidentiary hearing on counsel’s effectiveness because we ourselves feel that counsel's failure to object to the lower court's instruction was totally unsubstantiated. In light of our strong sentiments, we believe that a remand for an evidentiary hearing would be a waste of precious judicial time. Accordingly, we order a new trial be granted.
