@@ -1,0 +1,46 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 254 C.D. 1985"
+decided: "1987-06-08"
+citations: ["106 Pa. Commw. 481", "527 A.2d 190"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges MacPhail and Barry, and Senior Judge Blatt, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania, Department of Transportation, Bureau of Driver Licensing, Appellant v. Thomas Cappo, Appellee."]
+source_url: "https://static.case.law/pa-commw/106/cases/0481-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1360297
+cites_cases: ["10 Pa. Commonwealth Ct. 563", "23 Pa. Commonwealth Ct. 260", "310 A.2d 81", "312 A.2d 74", "351 A.2d 694", "409 A.2d 492", "425 A.2d 49", "454 Pa. 38", "462 A.2d 925", "477 Pa. 525", "48 Pa. Commonwealth Ct. 135", "56 Pa. Commonwealth Ct. 352", "67 Pa. Code §175.51", "75 Pa. Commonwealth Ct. 541", "96 Pa. Commonwealth Ct. 553"]
+---
+
+# Commonwealth v. Cappo
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+The Commonwealth of Pennsylvania, Department of Transportation (DOT), appeals an order of the Court of Common Pleas of Philadelphia County (trial court) which reduced the DOT inspection license suspension of Thomas Cappo (appellee) from a period of one hundred and thirty-six years and three months to a period of one year.
+DOT, by official notice dated October 15, 1984, suspended the appellees Certificate of Appointment and his motor vehicle inspection license for one hundred and thirty-six years and three months, pursuant to Sections 4724 and 4726 of the Vehicle Code, 75 Pa. C. S. §§4724 and 4726, upon a finding of forty-seven counts of improper record keeping. The appellee filed a timely appeal to the trial court, which, after a hearing de novo, denied the appeal, but concluded that the appellees offenses did not involve fraud or deceit and that, therefore, these offenses rose only to the level of careless record keeping. The trial court, therefore, reduced the penalty to concurrent one year suspensions. DOT contends that the trial court erred in modifying the appellees suspension without making new and different findings of fact and in concluding that the appellees record keeping was merely “careless,” rather than “improper.”
+In Department of Transportation, Bureau of Traffic Safety v. Kobaly, 477 Pa. 525, 384 A.2d 1213 (1978), our Supreme Court established the conditions under which a trial court, after a hearing de novo, may modify a DOT inspection license suspension. Kobaly held that there could be a modification of a DOT penalty only if the trial court made different findings of fact and conclusions of law, relying on Carver House, Inc. Liquor License Case, 454 Pa. 38, 310 A.2d 81 (1973), and Barone’s, Inc. v. Pennsylvania Liquor Control Board, 10 Pa. Commonwealth Ct. 563, 312 A.2d 74 (1973) (materially different findings of fact must be made by the trial court in order for it to alter an LCB penalty).
+It is clear, therefore, that, where a trial court makes new findings of fact and new conclusions of law, it may modify a DOT penalty. Kenworth Trucks Philadelphia, Inc. v. Department of Transportation, Bureau of Traffic Safety, 56 Pa. Commonwealth Ct. 352, 425 A.2d 49 (1981). Accordingly, in cases such as Kobaly and Ken-worth, where the offenses are found, by the court to be of a different nature and carrying different penalties than those found by DOT, the court may properly modify the penalty. Commonwalth v. Lossie, 96 Pa. Commonwealth Ct. 553, 507 A.2d 1312 (1986) (where common pleas court found evidence to support only two of the four violations charged by DOT, courts conclusion of a violation required the imposition of the mandatory suspension for those violations). Where, however, the trial court makes new findings of fact but reaches the same legal conclusions as DOT, it may not alter the DOT penalty, and this is due to the mandatory nature of the penalties provided for in DOTs regulations. Id. If, on the other hand, the court reaches a conclusion of law different from that reached by DOT, it clearly has the authority to modify or correct the penalty imposed by DOT. Department of Transportation, Bureau of Traffic Safety v. Antram, 48 Pa. Commonwealth Ct. 135, 409 A.2d 492 (1979).
+In the case before us, DOT suspended the petitioners inspection license for one hundred and thirty-six years and three months upon a finding of improper record keeping. The trial court, finding no fraud or deception, concluded that the petitioners record keeping was merely careless, and, relying on Department of Transportation v. Sortino, 75 Pa. Commonwealth Ct. 541, 462 A.2d 925 (1983), reduced the suspension to concurrent one year terms. Its reliance on Sortino, however, was misplaced because, at the time the violations occurred in that case, the prohibition against improper record keeping had not yet been adopted. We believe, therefore, that, although the trial court found that “no facts were presented to prove deception and thus fraud,” this finding was irrelevant for purposes of determining whether or not the appellees conduct rose only to the level of “careless,” as opposed to “improper,” record keeping. However, while the trial courts finding of lack of fraud was irrelevant and its reliance on Sortino was incorrect, it did have the authority to reach a different conclusion of law and then modify DOTs penalty. Antram. Accordingly, we find no error of law or abuse of discretion in the trial courts conclusion that the appellee did not commit the violation for which the sanction was imposed. Department of Transportation, Bureau of Traffic Safety v. Verna, 23 Pa. Commonwealth Ct. 260, 351 A.2d 694 (1976).
+We must here determine, therefore, whether or not the evidence supports the trial courts conclusion of careless record keeping, and we note that there are three levels of erroneous record keeping defined by DOT regulations, i.e., “fraudulent,” “improper” and “careless.” The violations, here, occurred between March 25, 1983 and January 26, 1984 at which time DOT regulations provided:
+Duration of Suspension
+Type of Violation First Violation Second Violation Third and Subsequent Violation
+(a)
+(1) Category 1
+(iii) Fraudulent record keeping 1 year Permanent
+(iv) Improper record keeping 3 months 1 year 3 years
+(3) Category 3
+(iii) Careless record keeping Warning 3 months 6 months
+67 Pa. Code §175.51.
+While the terms “improper” and “careless” are not defined by statute, by DOT regulations, or by case law, it is clear that these violations do not include elements of fraud or deceit, for these latter are elements of the separate charge of fraudulent record keeping. Sortino. And, the charge of fraudulent record keeping would be mere surplusage if improper and careless record keeping involved the same elements. Section 1921(a) of the Statutory Construction Act of 1972, 1 Pa. C. S. § 1921(a) (statutes shall be construed, if possible, to give effect to all provisions). We must, therefore, construe these terms according to their common and approved usage. Section 1903 of the Statutory Construction Act of 1972, 1 Pa. C. S. §1903. “Improper” is defined as “not accordant with fact, truth, or right procedure,” i.e., incorrect, inaccurate. Webster’s Third New International Dictionary 1137 (1966). “Careless” is defined as “not taking ordinary or proper care,” i.e., neglectful, inattentive. Webster’s Third New International Dictionary 339 (1966). Inasmuch as fraud and deceit are elements of fraudulent record keeping, rather than of improper or careless record keeping, necessary factual findings are required, but are missing here, as to whether or not the appellee’s conduct satisfied the elements necessary for a conclusion of “careless,” as opposed to “improper,” record keeping. See Sortino.
+We will, therefore, remand this matter to the trial court for a new hearing in which to make factual findings and to impose a penalty consistent with those findings as provided for by DOT regulations.
+Order
+And Now, this 8th day of June, 1987, the order of the Court of Common Pleas of Philadelphia County in the above-captioned case is vacated and this matter is remanded for further proceedings consistent with this opinion.
+Jurisdiction relinquished.
+Inasmuch as 67 Pa. Code §175.51(a)(3)(iii) provides for a warning to be issued upon the first violation, a three month suspension for the second violation, and a six month suspension for the third and subsequent violations of the prohibition against careless record keeping, we are unable to determine how the trial court arrived at concurrent one year periods of suspension.
+Although it is within DOTs discretion to determine whether or not suspension periods shall be consecutive or concurrent, the trial court, after de novo review, may exercise its own discretion in determining whether or not the suspension periods will be consecutive or concurrent. Sortino.
+The Code was amended on October 4, 1983 to include the offense of improper record keeping. 67 Pa. Code §175.51(a)(2)(ii) (at the time of the violations here §175.51(a)(1)(iv)).
+Fraudulent record keeping, of course, requires an element of fraud or deceit. Sortino.
