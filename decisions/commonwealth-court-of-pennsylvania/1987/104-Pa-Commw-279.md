@@ -1,0 +1,48 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "52 T.D. 1986"
+decided: "1987-03-03"
+citations: ["104 Pa. Commw. 279", "521 A.2d 983"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail and Colins, and Senior Judge Kalish, sitting as a panel of three."]
+parties: ["Board of Commissioners of Upper Pottsgrove Township, Petitioner v. Red Hill Savings and Loan Association, et al., Respondents."]
+source_url: "https://static.case.law/pa-commw/104/cases/0279-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1356707
+cites_cases: ["25 Pa. Code §73.11", "468 A.2d 1160", "490 Pa. 156", "504 Pa. 92", "78 Pa. Commonwealth Ct. 629"]
+---
+
+# Board of Commissioners v. Red Hill Savings & Loan Ass'n
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+In the matter now before us, the Department of Environmental Resources (DER) seeks summary judgment against the Board of Commissioners of Upper Pottsgrove Township (Commissioners) with respect to the complaint filed against DER by the Commissioners. We will grant DER’s motion.
+Some recitation of the procedural history of the case is necessary for an understanding of the result we have reached. In 1983, the Commissioners commenced an action in equity in Montgomery County against twenty-five defendants seeking an order from that court to abate an alleged nuisance which, the Commissioners aver, is caused by a malfunctioning community sewage system. The complaint further avers that the defendants’ failure to service and repair that system has caused a pollution and health hazard in the township. The Commissioners state that the defendants have failed to obey an order of their Sewage Enforcement Officer, that they are in violation of a township ordinance regulating community sewage systems and that they are in violation of the Pennsylvania Sewage Facilities Act, Act of January 24, 1966, PL. (1965) 1535, as amended, 35 P.S. §§750.1-750.20.
+There then followed a flurry of pleadings by defendants including counterclaims against the Commissioners who, on April 15, 1985, by praecipe for a writ of summons, joined DER and others as additional defendants. DER filed preliminary objections to the Commissioners’ complaint including an objection to the jurisdiction of the court of common pleas.
+On February 25, 1986, the court of common pleas transferred the case to this Court.
+By prior order of this Court we overruled DERs other preliminary objections whereupon DER filed an answer with new matter which set forth that the action against DER was barred by the defenses of sovereign immunity and the applicable statute of limitations.
+DER then filed the instant motion for summary judgment, attaching thereto an affidavit and several communications from DERs file regarding relevant events in the case. The Commissioners replied to DERs motion setting forth that the applicability of either of DERs defenses cannot be determined at this time because there are genuine issues of material fact which first must be resolved.
+Pa. R.C.P. No. 1035(b) provides that we may grant summary judgment if there is no genuine issue as to any material feet and if the moving party is entitled to judgment as a matter of law. Our Court has held that in ruling upon a. motion for summary judgment we must view the record in the light most favorable to the non-moving party, that the moving party’s burden is to prove that its right to judgment is clear and free from doubt and that the burden is a heavy one. Kane v. Hilton, 78 Pa. Commonwealth Ct. 629, 468 A.2d 1160 (1983).
+Our statutory law is to the effect that “the Commonwealth and its officials and employees acting within the scope of their duties shall continue to enjoy sovereign and official immunity” except as the General Assembly shall specifically waive that immunity. 1 Pa. C. S. §2310 (Act). The effective date of the Act is September 28, 1978. The General Assembly then proceeded to provide for eight exceptions to the defense of sovereign immunity. Section 8522(b) of the Judicial Code, 42 Pa. C. S. §8522(b). We agree with DER that as an agency of the Commonwealth it is entitled to immunity and that none of the specific exceptions thereto apply to this case.
+There remains for our determination the issue of whether the Act applies in view of the Commissioners’ argument that their cause of action accrued prior to the effective date of the Act.
+Our Supreme Court has held that where the cause of action sued upon accrued prior to the effective date of the Act, it is not barred by the provisions thereof. Gibson v. Commonwealth, 490 Pa. 156, 415 A.2d 80 (1980). The Commissioners contend that their cause of action accrued prior to September 28, 1978 or, in the alternative, that it is impossible to determine from the pleadings when the cause of action accrued, thus preventing us from ruling on the motion before us because there is a genuine issue of material fact which must be resolved before we can determine whether the defense applies.
+As will be noted, the Commissioners’ complaint against DER is completely devoid of any reference to dates, but it must also be noted that the Commissioners’ original complaint against the original defendants has been incorporated as a part of the complaint against DER. Assuming the truth of all of the allegations set forth by the Commissioners against DER solely for the purpose of ruling on the defense pled by DER, we observe that none of the actions attributed to DER would be wrongful until and unless the community sewage system did not work. Referring back to the original complaint, it is there alleged that: the community sewage system “presently and for some time prior hereto,” has not been functioning properly; the Commissioners made many demands upon the defendants to provide service and make repairs to the system which have been ignored; the sewage enforcement officer issued an order on December 4, 1984 requiring the defendants to abate within thirty days the nuisance caused by the defendants’ negligence in maintaining the system and that order has not been obeyed; the Sewage Enforcement Officer on March 2, 1984 sent a notice to one of the defendants advising that the system was in violation of the DER regulation found at 25 Pa. Code §73.11 prohibiting the discharge of sewage to the surface of the ground; and, that the defendants are in violation of a township ordinance enacted September 26, 1983.
+From those allegations, it seems apparent that it was not until the early 1980s that the township was aware that the system was not working to the extent that it had become a health hazard. “The true test in determining when a cause of action arises or accrues is to establish the time when the plaintiff could have first maintained the action to a successful conclusion.” Kapil v. Association of Pennsylvania State College and University Faculties, 504 Pa. 92, 99, 470 A.2d 482, 485 (1983). Here, the Commissioners could have successfully maintained their action against DER only after they, themselves, had determined that the system was not functioning properly and had become a health hazard. As we have said, that point in time did not come until well after September 28, 1978.
+Because we find no genuine dispute with respect to the material facts relating to the defense of sovereign immunity and because we believe that that defense was timely and properly raised, we will grant DER’s motion for summary judgment.
+Our holding with respect to the defense of sovereign immunity makes it unnecessary for us to address the defense of the bar of the statute of limitations.
+Order
+The motion of the Department of Environmental Resources for summary judgment is granted and the complaint of the Board of Commissioners of Upper Pottsgrove Township against the Department of Environmental Resources is dismissed. The case is hereby transferred to the Court of Common Pleas of Montgomery County for further proceedings.
+Jurisdiction relinquished.
+The complaint against DER reads as follows:
+5. The averments in Paragraphs 1 through 4, [relating to prior pleadings in the case, including the complaint against the original defendants which is attached and incorporated by reference], above, are incorporated herein as if set forth in full.
+6. Additional Defendant, Department of Environmental Resources of the Commonwealth of Pennsylvania, is alone liable or is liable to indemnify Plaintiff on the cause of action set forth in the Counterclaims for the relief claimed therein based upon the following facts:
+A. Additional Defendant, Department of Environmental Resources of the Commonwealth of Pennsylvania, approved the community sewage system before, during and after construction.
+B. Additional Defendant, Department of Environmental Resources of the Commonwealth of Pennsylvania, advised Plaintiffs Sewage Enforcement Officer and Plaintiff that the aformentioned community sewage system was adequate to service the residences connected to it.
+C. Additional Defendant, Department of Environmental Resources of the Commonwealth of Pennsylvania, advised Plaintiffs Sewage Enforcement Officer and Plaintiff that the community sewage system complied with its regulations and the laws of the Commonwealth of Pennsylvania.
+D. Additional Defendant, Department of Environmental Resources of the Commonwealth of Pennsylvania, advised and directed Plaintiffs Sewage Enforcement Officer and Plaintiff to issue a permit for the proposed community sewage system.
+The answer specifically denied all of the Commissioners’ foctual allegations.
+See supra note 1.
