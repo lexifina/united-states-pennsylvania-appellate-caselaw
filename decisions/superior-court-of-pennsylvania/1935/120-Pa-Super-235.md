@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 337"
+decided: "1935-12-18"
+citations: ["120 Pa. Super. 235"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Baldrige, Stadtfeld, Parker, James and Rhodes, JJ,"]
+parties: ["Axe v. Stern, Appellant."]
+source_url: "https://static.case.law/pa-super/120/cases/0235-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 986876
+cites_cases: ["112 A. 551", "112 Pa. Superior Ct. 343", "171 A. 283", "179 A. 554", "181 A. 775", "204 Pa. 448", "227 Pa. 245", "269 Pa. 411", "319 Pa. 340", "320 Pa. 196", "54 A. 321", "55 Pa. Superior Ct. 141", "75 A. 1073"]
+---
+
+# Axe v. Stern
+
+## Majority (Baldrige, J.,)
+
+Opinion by
+Baldrige, J.,
+The parties to this action entered into a lease, October 1, 1930, which contained the following provision: “The lessee agrees to refund to the lessor all increase of taxes upon the demised premises in excess of $5,130.00 ...... Such payments shall be treated in all respects as rent due and shall be payable on August 1st of each year during the term.” The taxes on the demised premises were increased for 1931 and 1932. This action was brought by the plaintiff to recover from the lessee the amount of the increased taxes which she alleges were paid with her funds.
+At the trial it was shown that the increased taxes were not actually paid by the legal plaintiff but by the Philadelphia Saving Fund Society, mortgagee in possession, and that the sum paid was added to the principal of the mortgage. The legal plaintiff’s equity in the demised premises was thereby reduced to that extent.
+The appellant asserts that “refund,” as used by the parties in the clause aforesaid, contemplates that before the plaintiff is entitled to recover she must show that she individually paid the increased taxes. The decision of this case does not hinge on the word “refund.” This lease, as other contracts, must be construed to give effect to the mutual intentions of the parties, as evidenced not alone by one word or phrase but by the agreement in its entirety: Knickerbocker Tr. Co. v. Ryan, 227 Pa. 245, 75 A. 1073; 36 C. J. 1058; Robinson v. Huchestein, 55 Pa. Superior Ct. 141. Subjecting the writing to that recognized test, the conclusion is readily reached that the parties meant that if higher taxes were paid, the rent should be increased proportionately. The appellee concedes that, standing alone, an obligation made by a lessee to pay taxes assessed against the demised premises is an obligation to pay the municipality and not the lessor: Evans v. Lincoln Co., 204 Pa. 448, 54 A. 321. But, here, we have the provision as plain as words can make it, that, in the event of increase in taxes, such additional amount shall be treated in all respects as rent. That intention is shown in another part of the lease: “The lessee further agrees that all goods on the said premises or elsewhere......shall be liable to distress or may be taken in execution for rent or other charges herein reserved as rent.”
+It is also to be noted that the portion of the rent representing the increase in taxes shall be payable on August 1st of each year, without any condition attached of a prior payment thereof by the landlord. The tenant’s liability was fixed as of that date. If the payment of the taxes by the landlord was a condition precedent, and she did not pay them until after August 1st, then they would not be due from the lessee on that date. This clause would have to be disregarded if appellee’s argument is sound. We cannot so casually delete a portion of a formal, written agreement which is in entire harmony with other portions of the instrument.
+In Robeson v. Huchestein, supra (55 Pa. Superior Ct. 141, 146), suit was brought to recover rent, taxes, and water rent under a written lease which did not provide that the taxes should be paid as rent, and they were not recovered as such. In another clause it was stipulated that the determination of the lease should not “deprive the party of the first part of any other action against the parties of the second part for possession, for rent accrued before such determination, for any gas bills left unpaid,......or for damages.” This court held, speaking through Judge Porter, that standing alone, a covenant to pay taxes and water rent is a covenant to pay to the municipality and not to the lessor, but that as the lease provided that the lessors could bring an action for damages, a recovery could be had for the failure of the lessees to pay the taxes, as they became a charge upon the property, which the lessors would have to discharge.
+Judge Crane, who sat without a jury, upon the completion of the evidence, of his own volition, very properly amended the caption of this case to read “Jennie Axe to the use of the Philadelphia Saving Fund Society v. Charles Stern,” and found for plaintiff in the sum of $1,392.50, use-plaintiff to credit legal plaintiff with the amount as payment of taxes for 1931 and 1932. The legal plaintiff, who was more directly affected by this amendment, made no complaint thereto, and we find no just grounds for the appellant to object. Amendments of this character, in the circumstances as they appear here, may be allowed even after an appeal has been taken. The courts are liberal in allowing such amendments where no one is prejudiced: M. E. Church of Franklin v. Equitable S. Co., 269 Pa. 411, 112 A. 551; Overholt et ux. v. Reliance Ins. Co., 319 Pa. 340, 179 A. 554; Frey v. United Traction Co., 320 Pa. 196, 181 A. 775.
+The fact that the increased taxes were not paid personally by the lessor but by her mortgagee, quasi trustee (Integrity Tr. Co. v. St. Rita B. & L. Assn., 112 Pa. Superior Ct. 343, 348, 171 A. 283), does not change the lessee’s liability to his landlord. The learned trial judge below very aptly said: “The mere circumstances that the landlord is unable to pay the increased taxes should not operate to absolve the tenant to pay same as rent, as the primary liability remains upon the landlord to pay all taxes assessed upon the demised premises.”
+We find no reason to disturb the finding of the lower court.
+Judgment affirmed.
