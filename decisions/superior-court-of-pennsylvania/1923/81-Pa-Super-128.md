@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 149"
+decided: "1923-03-02"
+citations: ["81 Pa. Super. 128"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, Henderson, Trexler, Keller, Linn and Gawthrop, JJ."]
+parties: ["Golden v. Hill, Appellant."]
+source_url: "https://static.case.law/pa-super/81/cases/0128-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 655556
+cites_cases: ["271 Pa. 301", "42 Pa. Superior Ct. 11", "62 Pa. Superior Ct. 370", "74 Pa. Superior Ct. 460"]
+---
+
+# Golden v. Hill
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+The plaintiff was engaged with other men in repairing the pavement on Kensington Avenue, for the City of Philadelphia. His particular task was prying out paving stones between the north- and southbound tracks of the traction company where a depression in the street made necessary the elevation of the surface. The space between the tracks was four feet. A street car was passing northward, and at a signal from the car, the men at work on the track stepped to the east side of the northbound track. The plaintiff, being in what the witnesses described as the dummy, stepped toward the southbound track. After the street car passed, the plaintiff looked over his left shoulder to see whether a car or vehicle was coming southward, and not observing anything was about to proceed to work when he was struck by the rear end of a truck driven by the defendant’s employee, and was severely injured. There was evidence that1 the truck was moving at a speed of 25 or 30 miles an hour; that the front wheels were on the pavement and the rear wheels on the trolley rails; that the street was level and that the driver of the truck could have seen the plaintiff and his fellow workmen for a distance of about 300 feet as he approached the place of the accident. The driver of the truck testified that he did not see the plaintiff until he was within about 30 feet of him and that at that point he endeavored to turn the car into the street, but the rear wheels skidded and the plaintiff was struck by the rear overhang of the truck platform. There is little contradiction in the evidence except as to the speed of the car — the driver alleging that he was going about 10 miles an hour. He also stated that tbe plaintiff had one foot on tbe southbound track. He admitted that be was not paying attention to tbe street, that be was watching tbe crossing. He saw tbe men at work on tbe street1 when be was more than 30 feet away, but did not observe tbe plaintiff until be stepped to tbe side of tbe dummy. His explanation of tbe occurrence was: “I went to turn and tbe back skidded and knocked him (plaintiff) down.” With tbe fact’s shown by tbe evidence as above recited, tbe appellant requested binding instructions in favor of tbe defendant which tbe court refused, and tbe question for our consideration is whether there was such evidence of contributory negli-. gence as relieves the defendant from liability. There •can be no doubt of tbe propriety of a finding by tbe jury that tbe defendant’s driver was not giving attention to the control of tbe truck with reference to tbe safety of the men at work on tbe street. They were not there as .idle bystanders; their employment made it necessary that they occupy a portion of tbe street in tbe performance of tbe work assigned to them. In considering tbe question of tbe defendant’s negligence this fact could be taken into consideration by tbe jury. Tbe plaintiff was required to avoid tbe oncoming street car; tbe defendant’s truck was approaching in tbe opposite direction with tbe plaintiff in plain view, if tbe driver bad given attention to what was transpiring before him. What position tbe plaintiff should have taken in view of tbe approach of vehicles from opposite directions is not a question of law, but one of fact to be answered by tbe jury under all of tbe evidence relating to tbe circumstances in which tbe plaintiff was placed. There was evidence from which it might be found that the plaintiff was in a safe position in the dummy, and that bis hurt was caused by tbe sweep of tbe rear end of tbe truck resulting from tbe effort of the driver to turn it from the trolley track. If tbe driver bad been properly alert tbe car might have been stopped or driven to tbe right side of the street before the plaintiff was put in peril. It is not contended that the plaintiff was not in clear view for 300 feet as the truck approached Mm and a jury on the evidence might well conclude that the accident was t'he result of the failure of the driver to properly control his car under the circumstances.
+The evidence supports the action of the court below, and the judgment is therefore affirmed.
