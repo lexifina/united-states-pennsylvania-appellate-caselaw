@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "235"
+decided: "1984-07-27"
+citations: ["330 Pa. Super. 140", "479 A.2d 3"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before ROWLEY, WIEAND and HESTER, JJ."]
+parties: ["FRANKLIN DECORATORS, INC., Appellant, v. Donna KALSON."]
+source_url: "https://static.case.law/pa-super/330/cases/0140-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 610122
+cites_cases: ["10 A.2d 434", "108 Wash. 157", "112 Pa.Super. 299", "117 A. 59", "121 Pa.Super. 62", "124 A.2d 620", "124 S.W. 398", "125 Pa. 397", "136 Ky. 446", "14 Pa.Super. 125", "155 S.E.2d 238", "17 A. 338", "17 Pa.D. & C. 408", "171 A. 122", "181 Pa.Super. 167", "182 A. 767", "182 P. 957", "186 A.2d 399", "270 N.C. 486", "273 Pa. 282", "288 Pa.Super. 196", "306 Pa.Super. 504", "337 Pa. 1", "354 Pa. 535", "409 Pa. 357", "47 A.2d 671"]
+---
+
+# Franklin Decorators, Inc. v. Kalson
+
+## Majority (WIEAND, Judge:)
+
+WIEAND, Judge:
+If a creditor obtains two judgments of differing amounts against the same debtor on the same cause of action, does satisfaction of the smaller judgment effect a discharge of the larger judgment or is it merely a satisfaction pro tanto of the larger judgment? The trial court held that the larger judgment had been discharged by satisfaction of the smaller judgment. We affirm.
+Franklin Decorators, Inc. commenced an action in as-sumpsit against Donna and Charles Kalson to recover the balance due on nine separate contracts to provide services and materials to Donna Kalson. While the assumpsit action was pending, Franklin Decorators caused judgment to be confessed against Donna Kalson pursuant to warrants of attorney contained in the nine separate contracts. In addition to the principal balance remaining due, the confessed judgment included interest at the rate of fifteen percent and counsel fees of ten percent. The assumpsit action subsequently resulted in a judgment for principal and interest at the legal rate. This judgment was paid in full, and the judgment was marked “satisfied in full.”
+Donna Kalson then filed a petition to have the confessed judgment satisfied. An ex parte order directing satisfaction was reversed and remanded by this Court in Franklin Decorators, Inc. v. Kalson, 288 Pa.Super. 196, 431 A.2d 356 (1981), in order that the parties might establish a record pursuant to Pa.R.C.P. 2959. Thereafter, Franklin Decorators filed an answer, and, after depositions had been submitted, the court again ordered that the confessed judgment be satisfied. A second appeal followed.
+“It is a well-settled and familiar rule that a single claim, arising either in contract or in tort, cannot be divided and made the subject of several suits; and if actions are brought for different parts of a single demand, a judgment on the merits in one is available as a bar to the other.” Saber v. Supplee-Wills-Jones Milk Co., 181 Pa.Super. 167, 169-170, 124 A.2d 620, 621 (1956), quoting Fields v. Philadelphia Rapid Transit Co., 273 Pa. 282, 284, 117 A. 59, 60 (1922). See also: Philadelphia v. Philadelphia Rapid Transit Co., 337 Pa. 1, 4-5, 10 A.2d 434, 435 (1940). The purpose of the rule is worthy. It is intended to protect persons from being twice vexed with suits growing out of a single cause of action. It also serves to prevent the business of the courts from being encumbered by multiple actions when one will suffice. 3 Std.Pa.Prac.2d § 18:1 (1981).
+It is also well settled that a plaintiff is limited to one satisfaction for a single injury. Brown v. Pittsburgh, 409 Pa. 357, 362-363, 186 A.2d 399, 402 (1962); Seither v. Philad. Traction Co., 125 Pa. 397, 402, 17 A. 338, 338 (1889). See: Randall v. Fenton Storage Co., 121 Pa.Super. 62, 65, 182 A. 767, 768 (1936). See also: 14 Std.Pa.Prac.2d § 78:1 (1983).
+Franklin Decorators was possessed of a single cause of action against Donna Kalson. Claims for interest and counsel fees were ancillary to and part of the substantive cause of action. Goldberg v. Goldberg, 306 Pa.Super. 504, 452 A.2d 838 (1982). When Franklin Decorators obtained two valid judgments on the same cause of action, it could elect which judgment to pursue to satisfaction. Randall v. Fenton Storage Co., supra, 121 Pa.Super. at 65-66, 182 A. at 768; Brennan v. Huber, 112 Pa.Super. 299, 171 A. 122 (1934). See: Bergen v. Lit Bros., 354 Pa. 535, 539, 47 A.2d 671, 673 (1946). But see: Strause v. Braunreuter, 14 Pa.Super. 125, 132 (1900). See also: Thomas’ Adm’r v. Maysville St. Ry. & Transfer Co., 136 Ky. 446, 448, 124 S.W. 398, 399 (1910); Bowen v. Iowa National Mutual Insurance Co., 270 N.C. 486, 496, 155 S.E.2d 238, 246 (1967). However, there could be but one enforcement proceeding and one satisfaction. The payment or satisfaction of either judgment satisfied the other, except as to costs. 49 C.J.S. Judgments § 575 (1947). See also: Grant v. Plotts, 17 Pa.D. & C. 408 (1930). A similar result is achieved where several judgments have been obtained on the same cause of action against the same defendant in different jurisdictions. See: 47 Am.Jur.2d Judgments § 917 (1969).
+The satisfaction of a judgment is effective to satisfy all judgments obtained for the same cause of action even if the satisfied judgment is for a smaller amount. See: Bergen v. Lit Bros., supra; Randall v. Fenton Storage Co., supra; Brennan v. Huber, supra. See also: Thomas’ Adm’r v. Maysville St. Ry. & Transfer Co., supra; Larson v. Anderson, 108 Wash. 157, 182 P. 957 (1919). However, the creditor cannot be deprived of his right to elect to refuse satisfaction of the smaller amount. 49 C.J.S. Judgments § 575 (1947).
+Although Franklin Decorators was able to obtain two valid judgments for the same cause of action against Donna Kalson, it was entitled to only one satisfaction. After the judgment obtained in the assumpsit action had been paid and satisfied, the debtor was entitled to satisfaction also of the judgment entered against her by confession. The trial court properly ordered the same satisfied upon payment of the costs.
+Order affirmed.
