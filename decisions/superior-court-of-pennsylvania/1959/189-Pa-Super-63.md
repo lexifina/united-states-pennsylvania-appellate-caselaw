@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 413 and 414"
+decided: "1959-03-18"
+citations: ["189 Pa. Super. 63"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Gunther, Ervin, and Watkins, JJ. (Wright and Woodside, JJ., absent)."]
+parties: ["Commonwealth, Appellant, v. Hunsicker et al."]
+source_url: "https://static.case.law/pa-super/189/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 744955
+cites_cases: ["109 A. 2d 235", "124 A. 2d 666", "177 Pa. Superior Ct. 1", "181 Pa. Superior Ct. 382"]
+---
+
+# Commonwealth v. Hunsicker
+
+## Majority (Hirt, J.,)
+
+Opinion by
+Hirt, J.,
+On March 8, 1958 Wilson G. Hunsicker and Raymond Munshower (the appellees here) along with one John McBrearty, were charged with establishing a gambling place (in violation of §605 of The Penal Code of June 24, 1939, P. L. 872, 18 PS §4605) in an information lodged with a Justice of the Peace in Norris-town, this State. The information also charged conspiracy to set up gambling devices, at 820 West Marshall Street in Norristown. In a second information these defendants were charged with violations of the Liquor Code at the same place. Warrants were issued and arrests made, whereupon the defendants posted bail for their appearances. A hearing on the charges was held on March 12, 1958. The disposition of the case heard by the justice on that date is thus stated in his transcript: “After hearing the above testimony [referred to infra] hold each defendant, viz.: Hunsicker, Munshower, and McBrearty under $500.00 bail for court, each posted bail and was released for the next term of court.” McBrearty subsequently pleaded guilty to the charges in the court below.
+A preliminary hearing is held primarily to prevent a person from being imprisoned or required to enter bail when there is no evidence to support the charge against him. Commonwealth v. O’Brien, 181 Pa. Superior Ct. 382, 124 A. 2d 666. And although they had given bail, the defendants, Hunsicker and Munshower, On March 31, 1958, filed their petition “to quash the information and the warrants” issued thereon, and particularly for their release from their recognizances. The ground upon which they questioned the proceedings before the justice is thus stated in their petition: “They were neither identified nor in any way connected with the sale of alcoholic beverages, nor with the operation of the slot machine” in the testimony before the justice. The basis for the above assertion is the substance of the testimony of C. J. Arapolu, an enforcement officer of the Pennsylvania Liquor Control Board, the only witness called before the justice, as it was reviewed in the transcript. This testimony of the witness, as summarized, is to the effect that on a number of occasions he, although not a member of the club, bought both liquor and beer from John MeBrearty the bartender in charge of the clubhouse at 820 West Marshall Street in Norristown, known as Service Home, Inc.; that on another occasion he arranged with another bartender to play “electric slot machines” on the premises and was paid $2 by the bartender, the amount which he won on the 10-cent machine, and $1 representing his winnings on the 5-cent machine. In effect in their petition the appellees sought to be released from their recognizances, not because the evidence was insufficient, but because there was no evidence at all against them at the preliminary hearing.
+The summary of the testimony of Arapolu as it appears in the transcript does not mention the present appellees, but that does not mean that he did not actually testify that they were officers of the social club where the alleged offenses were commtted, or were otherwise responsible for the illegal acts of the bartenders. But whether he did so testify, or not, is unimportant. No irregularities appear on the face of the transcript which would entitle these defendants to their discharge. As distinguished from a summary proceeding, the justice’ transcript of a preliminary hearing on a charge of misdemeanor need not contain a summary of the testimony; it is sufficient that the transcript show the name of each witness, and that the witnesses were sworn and did testify. The present transcript complies with that requirement. In technical respects the review of the testimony was surplusage. But even if the transcript were defective, the defendants having entered bail, cannot take advantage of the deficiency.
+This appeal is ruled by our decision in Commonwealth v. Weinstein, 177 Pa. Superior Ct. 1, 109 A. 2d 235. In that case the only question presented was whether a defendant, not in custody, can attack the regularity of the magistrate’s hearing after he has given bail to await the action of the grand jury. We answered that question categorically in this language: “As the question has been frequently discussed, and language can be found to support both positions we feel we should make it clear that the illegality of the proceedings before a magistrate may not be questioned on a petition to discharge the defendant from his recognizance.” That ruling is controlling here. These defendants when bound over to court might have raised the question of the sufficiency, or the total lack of the evidence to hold them, on habeas corpus, but having given bail they can be discharged, before trial, for lack of evidence only by the grand jury.
+Order reversed.
