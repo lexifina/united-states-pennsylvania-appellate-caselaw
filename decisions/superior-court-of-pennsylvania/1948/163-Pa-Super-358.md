@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 30"
+decided: "1948-07-23"
+citations: ["163 Pa. Super. 358"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, Ross, Arnold and Fine, JJ."]
+parties: ["Kass Hardware Company v. Palmer, Appellant."]
+source_url: "https://static.case.law/pa-super/163/cases/0358-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 464231
+cites_cases: ["184 A. 116", "321 Pa. 320"]
+---
+
+# Kass Hardware Co. v. Palmer
+
+## Majority (Arnold, J.,)
+
+Opinion by
+Arnold, J.,
+Kass Hardware Company obtained a judgment for $50 in a magistrate’s court in Philadelphia against the defendant, Palmer, and entered a transcript thereof in the Municipal Court of Philadelphia.
+Shortly thereafter plaintiff issued a writ of Fieri Facias and directed the sheriff to levy upon defendant’s real estate. Without any inquisition or condemnation a sheriff’s sale under the Fieri Facias was had on August 4, 1947, and the real estate sold to Albert A. Kreider on a bid of $950.00.
+Before confirmation of the sale and acknowledgment of the sheriff’s deed, and- on August 14, 1947, defendant filed exceptions averring that inquisition and condémnation had not been had, and followed this by a formal petition to the municipal court praying that the same be set aside. That court granted a rule to show cause which, with a copy of the petition, was served on Kass Hardware Company, the plaintiff, and upon Albert A. Kreider, the purchaser at the sheriff’s sale. On August 29,1947, Kreider, the purchaser, entered his appearance in'the proceeding to set aside the sale, i.e. the petition and rule to show cause. Thereafter plaintiff’s attorney wrote defendant’s attorney that he had “no objection to the Court making absolute your rule to set aside the Sheriff’s Sale.”
+Neither the Kass Hardware Company nor Kreider filed an answer to the rule. There was no fact in dispute and admittedly there had been no inquisition and condemnation.
+The regularity of the proceedings in the sheriff’s sale having been challenged before confirmation and before acknowledgment of the deed, the sale was invalid and the court was compelled to set it aside: Goodyear Service, Inc. v. Moore, 321 Pa. 320, 184 A. 116. All the parties, including the purchaser, were in court on the'rule. If the court below had followed the requirements of the law and set the sale aside, no further difficulty would haye occurred.
+Instead the court set the sale aside on condition “that purchaser is refunded his costs within fifteen days.” The court had no power to annex any condition to its order, but was under the plain duty to set the sale aside. Incidentally, there were no costs to which the purchaser was entitled.
+Thereafter, and entirely informally, the purchaser sought to compel defendant to pay him, as a condition to the relief to which he was legally entitled, a $50 attorney fee and $16 for the preparation of the deed from the sheriff to the purchaser, etc. In the court’s final opinion it is said that the $50 attorney fee was disallowed, but that the defendant was required- to pay $16 for the preparation of the deeds, etc. There had neither been any adjudication of the costs nor any order made fixing the amount defendant was required to pay. This is not of too much importance because the court was without power to require any payment. On October 17,1947, the attorney for the purchaser filed an affidavit that “the costs” had not been paid. Without any rule or opportunity to be heard the court, eo instante, entered the following order: “. . . it appearing that the defendant has not refunded the costs [unadjudicated] to which the purchaser was put, and therefore not having complied with the condition set forth in the order on the rule to set aside the Sheriff Sale, the rule is discharged and the Sheriff is directed to sign,the Sheriff’s deed and confirm the sale of .the premises to Albert A. Kreider, upon the payment of all proper charges and the balance of the purchase price.” The defendant promptly petitioned to set aside this latter order and the court peremptorily refused even to issue a, rule thereon. On October 25 the defendant sued out the present appeal, notice of which was served on the Kass. Hardware Company and upon Kreider, the purchaser. Thereafter the court below filed an opinion which proceeds on the theory that it had a right to annex a, condition of the payment of costs, It also sets up that ten days’ notice had been given to the defendant of the issuance of the writ to sell the real estate. The court felt that the defendant, was bound to object to the validity and regularity of the sale before it was had. The court next states that there was no excuse for the defendant not having complied with the informal adjudication fixing $16 as the amount which he must pay the purchaser. Since the court was without power to make the condition, the defendant had an excellent excuse.
+We must reverse the court below and set aside the sale. The attorney for the purchaser, Kreider, entered his appearance on the rule to set aside the sale, and all the parties were before the court before the deed had been acknowledged or the sale confirmed. Indeed, the attorney for the purchaser caused the original order to be vacated and secured ex parte an order confirming the sale and directing delivery of the sheriff’s deed. Since, therefore, these orders were erroneous, and since all the parties were before the court, we will make the following order:
+The order of the court below entered October 17, 1947, discharging the rule to set aside the sheriff’s sale and directing the sheriff to execute and deliver a deed to Albert A. Kreider is reversed.
+The order of court entered September 16, 1947, setting aside the sheriff’s sale, is modified by striking out any condition annexed thereto so that it shall read: “Said sheriff’s sale is set aside,” and as modified is reinstated.
+It is also ordered that the deed executed and delivered by the sheriff to Albert A. Kreider be and it is hereby cancelled, and the Recorder of Deeds of Philadelphia County is directed to mark the same cancelled both on the index and on the record of the deed itself. It is further ordered that the said Albert A. Kreider shall deliver to the court below for cancellation the deed from the sheriff of Philadelphia County to him for said premises, and that the same shall thereupon be cancelled by the court; the court below to make such further orders as may be necessary to carry out the mandate of this court. Kass Hardware Company and Albert A. Kreider, appellees, shall pay the costs.
+See the Acts of June 11, 1879, P. L. 122, May 10, 1881, P. L. 13, 12 PS §2382; Act'of March 6, 1820, P. L. 50, 12 PS §2385; and. Act of June 16, 1836, P. L. 755, 12 PS §2386 et seq.
