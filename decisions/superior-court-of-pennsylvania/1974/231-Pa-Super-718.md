@@ -1,0 +1,20 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 328"
+decided: "1974-10-10"
+citations: ["231 Pa. Super. 718"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Bbadley, J., without a jury."]
+parties: ["Commonwealth v. Smith, Appellant."]
+source_url: "https://static.case.law/pa-super/231/cases/0718-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 816628
+---
+
+# Commonwealth v. Smith
+
+## Majority
+
+Judgment of sentence affirmed.
