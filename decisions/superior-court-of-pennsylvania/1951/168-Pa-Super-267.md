@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 100"
+decided: "1951-01-12"
+citations: ["168 Pa. Super. 267"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Hirt, Reno, Dithrich, Ross, Arnold and Gunther, JJ. (Rhodes, P. J., absent)."]
+parties: ["Commonwealth ex rel. Presecan, Appellant, v. Ashe."]
+source_url: "https://static.case.law/pa-super/168/cases/0267-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 471878
+cites_cases: ["133 Pa. Superior Ct. 437", "166 Pa. Superior Ct. 413", "2 A. 2d 560", "6 Pa. Superior Ct. 92", "72 A. 2d 150"]
+---
+
+# Commonwealth ex rel. Presecan v. Ashe
+
+## Majority (Per Curiam,)
+
+Per Curiam,
+This is an appeal by relator from an order of the Court of Common Pleas of Allegheny County dismissing his petition for writ of habeas corpus and refusing the writ. Relator was tried and convicted on two bills of indictment in the Court of Oyer and Terminer of Beaver County. He was found guilty on bill No. 15, September Term, 1942, in the Court of Oyer and Ter-miner of Beaver County, charging (1) robbery, and (2) receiving stolen goods, and on bill No. 87, September Term, 1942, in the Court of Quarter Sessions of Beaver County, charging assault and battery. Sentence was suspended as to the latter upon payment of the costs of prosecution. On bill No. 15 relator was sentenced to the Western State Penitentiary for a term of not less than ten years nor more than twenty years to be computed from July 8, 1942. On March 9, 1950, relator filed in the Court of Common Pleas of Allegheny County his petition for writ of habeas corpus. A rule to show cause why a writ of habeas corpus should not issue was granted, and answers were filed by the warden of the Western State Penitentiary, the District Attorney of Allegheny County, and the District Attorney of Beaver County. A number of aver-ments were set forth in relator’s petition, but on this appeal only one is pressed. It is relator’s contention that his conviction was in violation of his constitutional rights under the Fourteenth Amendment to the Constitution of the United States and Article I, §9, of the Constitution of the Commonwealth of Pennsylvania in that his counsel was absent during a part of the charge to the jury by the trial judge. Relator was represented by counsel, whom he personally retained, throughout his trial. He was tried together with two co-defendants, who were likewise represented by counsel, and who were found guilty on the same counts of the indictments as was relator. Relator was present throughout his trial including the charge of the court. Relator’s counsel, without notice to the trial judge and without any request, voluntarily absented himself and was not present during a portion of the charge of the court. Relator’s motion for a new trial was refused by the trial court, and no appeal was taken after sentence.
+In support of his contention that the absence of his counsel during a portion of the charge of the court deprived him of his constitutional right to the benefit of counsel during all stages of his trial, relator cites Com. v. House, 6 Pa. Superior Ct. 92, and Com. v. Cohen, 133 Pa. Superior Ct. 437, 2 A. 2d 560. In the House case the trial judge, after adjournment of court, permitted the jury to come in for additional instructions which he gave in the absence of defendant and his counsel and without notice to either. In the Cohen case the trial judge delivered, in the absence of defendants awaiting trial and that of their counsel, a general charge, not stenographically reported, to the entire panel of jurors at the beginning of their service, and, subsequently, in a portion of his charge to the jury in the trial of the defendant, referred to the general charge of the eourt which had been given to all the jurors, and stated that the general principles told to them at that time should be applied to the case being tried. These cases are not applicable to the facts in the instant proceeding.
+■ Eelator was not deprived of his constitutional right “to be heard by himself and his counsel,” nor was he deprived of his right to be present with his counsel when the jury was instructed upon the principles of law by which they were to be guided.
+Eelator’s counsel voluntarily absented himself without any request to the trial judge. Counsel for co-defendant was present during the temporary absence of relator’s counsel. Although represented by counsel throughout his trial, relator’s theory would require the trial judge to interrupt or defer the proceedings of the court whenever counsel for any reason temporarily absents himself without notice or request. A defendant cannot invalidate his conviction by such conduct of his own counsel during his trial.
+There is no averment that relator suffered any harm by the action of his counsel or that counsel was not present at the conclusion of the charge of the court to take an exception or exceptions thereto. It is not averred that there was any unfairness in his trial or that the verdict and sentence were improper. Eelator has not shown any circumstances which could be said to amount to a denial of due process. See Com. ex rel. Master v. Baldi, 166 Pa. Superior Ct. 413, 418, 72 A. 2d 150. Eelator’s present attempt to be released on habeas corpus is without any merit or justification.
+The order of the court below is affirmed.
