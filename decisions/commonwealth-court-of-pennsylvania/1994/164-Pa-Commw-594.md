@@ -1,0 +1,51 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "2803 C.D. 1993"
+decided: "1994-06-07"
+citations: ["164 Pa. Commw. 594", "643 A.2d 1143"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DOYLE and NEWMAN, JJ., and NARICK, Senior Judge."]
+parties: ["COMMONWEALTH of Pennsylvania v. Edward SCHILL. COMMONWEALTH of Pennsylvania v. 328 ROCKINGHAM ROAD, Radnor Township. Appeal of Edward SCHILL, Appellant."]
+source_url: "https://static.case.law/pa-commw/164/cases/0594-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1461135
+cites_cases: ["149 Pa.Commonwealth Ct. 132", "158 Pa. Commonwealth Ct. 109", "160 Pa.Commonwealth Ct. 58", "535 Pa. 321", "635 A.2d 128"]
+---
+
+# Commonwealth v. Schill
+
+## Majority (NARICK, Senior Judge.)
+
+NARICK, Senior Judge.
+Edward Schill (Schill), Appellant, appeals from an order of the Court of Common Pleas of Delaware County, which granted forfeiture to the Commonwealth of Pennsylvania of the interest of ownership and the title of Sehill’s house. We affirm.
+Schill was arrested on July 22, 1988 and subsequently charged with possession of cocaine, delivery of cocaine, possession with intent to deliver, possession of drug paraphernalia and conspiracy. These charges were based on a variety of activities including the sale of .25 grams of cocaine to an undercover police officer which occurred at the house in question as well as a second sale of cocaine by Schill to undercover officers at a different location.
+A search of Schill’s premises, immediately following his arrest, produced four packets of cocaine, two bottles of inositol, and a piece of glass, a credit card, various plastic bags, and a glass vial, all of which contained cocaine residue.
+Schill was subsequently convicted of possession, delivery and/or possession with intent to deliver, and possession of drug paraphernalia. The Commonwealth thereafter sought, and was granted, the forfeiture of Schill’s house under the Controlled Substance Forfeiture Act (Forfeiture Act), 42 Pa. C.S. §§ 6801-6802.
+The trial court found that Schill did indeed use his house to facilitate the commission of illegal drug transactions. The court granted the Commonwealth’s petition for forfeiture and condemned Schill’s residence to the Office of the District Attorney of Delaware County.
+Schill raises three issues on appeal to this Court. First, Schill argues that the forfeiture of his house was improper because there lacked the necessary substantial connection between his house and the illegal sale of narcotics.
+Section 6801(a)(6)(i)(C) of the Forfeiture Act, 42 Pa.C.S. § 6801(a)(6)(i)(C), states that all real property used or intended to be used to facilitate an illegal drag transaction is subject to forfeiture to the Commonwealth.
+This Court, in Commonwealth v. Nineteen Hundred and Twenty Dollars U.S. Currency, 149 Pa.Commonwealth Ct. 132, 612 A.2d 614 (1992), set forth the burden of proof in forfeiture cases. The Commonwealth bears the initial burden, which it must satisfy by a preponderance of the evidence, to show that a nexus exists between the unlawful activity and the property subject to forfeiture. When that burden is sustained, the burden shifts to the property owner to disprove the Commonwealth’s evidence or to establish a statutory defense to avoid forfeiture.
+Schill argues that because the Commonwealth only presented evidence of one undercover drug purchase, conducted at his house, this evidence is insufficient to prove the existence of an an on-going illegal operation. We disagree.
+Our review of the record reveals other evidence dispositive of Schill’s illegal drug activity. A detective, who testified as an expert in the field of illegal drug transactions, reviewed the items found in Schill’s house and concluded that Schill intended to distribute cocaine. The detective testified as to the various quantities of inositol that were seized at various locations of Schill’s house. The detective further testified that inositol is commonly used as a “cutting agent” for cocaine and is normally possessed by a distributor of cocaine and not a mere user. The trial court, in reaching its decision, relied on the detective’s testimony as well as Schill’s own testimony in reaching its conclusion.
+The trial court, as the finder of fact, is permitted to draw any reasonable inferences from the evidence. Commonwealth v. Fidelity Bank Account, 158 Pa. Commonwealth Ct. 109, 631 A.2d 710 (1993). We hold, therefore, that substantial evidence exists to prove, by a preponderance of the evidence, that Schill used his house to facilitate illegal drug transactions.
+Secondly, Schill argues that since the undercover police officer bought cocaine from his house before the Forfeiture Act was effective, seizing his house as a result of that transaction operates as an ex post facto law and is, therefore, unconstitutional.
+The Commonwealth counters this argument and asserts that, absent the undercover drug sale, there exists enough evidence to show that Schill’s house was used to sell drugs after the Forfeiture Act went into effect. We agree.
+The expert testimony previously discussed is enough to show, by a preponderance of the evidence, that Schill’s house was used to facilitate illegal drug transactions. Therefore, we will not discuss whether relying on evidence received before enactment of the Forfeiture Act in effect operates as an ex post facto law.
+Finally, Schill argues that the forfeiture of his property violates the Eighth Amendment’s Excessive Fines Clause because his crime involves only a small amount of narcotics, and thus, this forfeiture exacts too high a penalty in relation to the offense committed.
+The Supreme Court of Pennsylvania has recently decided this issue. In In re King Properties, 535 Pa. 321, 635 A.2d 128 (1993), the Court ruled that the question is not the value of the item which is forfeited, but rather the relationship of the offense to the property which is forfeited. They ruled that the item can be forfeited regardless of value as long as the property was significantly used in the commission of the offense. Further, the burden of establishing this pattern of criminal conduct should fall on the Commonwealth to prove by clear and convincing evidence that the criminal conduct in question is not a one time occurrence.
+Our review of the record below indicates under a standard of clear and convincing evidence that Schill did indeed use his home more than once to facilitate illegal drug transactions. The trial court found as persuasive the testimony of the detective and Schill himself. As this provides us with substantial evidence, we will not disturb his opinion.
+Accordingly, we affirm the decision of the Court of Common Pleas of Delaware County.
+ORDER
+AND NOW, this 7th day of June, 1994, the order of the Court of Common Pleas of Delaware County in the above-captioned matter is hereby affirmed.
+. The home is described as real property located at 328 Rockingham Road, Radnor Township, Delaware County, Pennsylvania.
+. Schill signed a written consent form which allowed the police to properly search his house.
+. Inositol is commonly used for diluting the strength of cocaine.
+. The Forfeiture Act was immediately effective on June 30, 1988.
+. As findings of fact by a trial judge are accorded the same weight as a jury verdict, our scope of review is limited to examining whether the findings are supported by competent evidence. Commonwealth v. $32,-950.00 U.S. Currency, 160 Pa.Commonwealth Ct. 58, 634 A.2d 697 (1993).
+. An illegal drug transaction is defined as any violation of the Controlled Substance, Drug, Device and Cosmetic Act, Act of April 14, 1972, P.L. 233, as amended, 35 P.S. §§ 780-101 to 780-144.
+. The Forfeiture Act was effective on June 30, 1988. However, the undercover police purchase at Schill’s house occurred on May 31, 1988, prior to the Forfeiture Act’s effective date.
+. This testimony was a review and analysis of items seized from Schill’s house on July 22, 1988, after the effective date of the Forfeiture Act.
+. The facts in King reveal stronger indications of drug transactions than in the instant case. In King, the defendant’s house and car were replete with large amounts, of cash, drugs and drug paraphernalia when searched. Indeed, the King defendant purchased his home entirely in cash, even when admitting to being unemployed.
+In this case, even though Schill’s house was given to him by his father, and there were small amounts of drugs found, we find the record contains ample proof that Schill conducted more than a few illegal drug transactions out of his home.
