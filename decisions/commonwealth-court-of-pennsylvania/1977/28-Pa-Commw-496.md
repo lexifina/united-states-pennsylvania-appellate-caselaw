@@ -1,0 +1,38 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1719 C.D. 1975"
+decided: "1977-02-08"
+citations: ["28 Pa. Commw. 496"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Mencer and Blatt, sitting as a panel of three."]
+parties: ["Patricia Elaine Pianelli v. Unemployment Compensation Board of Review of the Commonwealth of Pennsylvania. Patricia Elaine Pianelli, Appellant."]
+source_url: "https://static.case.law/pa-commw/28/cases/0496-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1878333
+cites_cases: ["12 Pa. Commonwealth Ct. 588", "18 Pa. Commonwealth Ct. 151", "19 Pa. Commonwealth Ct. 316", "21 Pa. Commonwealth Ct. 341", "22 Pa. Commonwealth Ct. 429", "25 Pa. Commonwealth Ct. 253", "26 Pa. Commonwealth Ct. 538", "303 A.2d 875", "305 A.2d 380", "317 A.2d 60", "338 A.2d 690", "338 A.2d 815", "345 A.2d 785", "349 A.2d 531", "360 A.2d 276", "364 A.2d 770", "6 Pa. Commonwealth Ct. 489", "8 Pa. Commonwealth Ct. 486", "8 Pa. Commonwealth Ct. 649"]
+---
+
+# Pianelli v. Unemployment Compensation Board of Review
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+Patricia Elaine Pianelli (claimant) has appealed from an order of the Unemployment Compensation Board of Review (Board) which affirmed a referee’s denial of unemployment compensation benefits. This denial was based on Section 402(b)(1) of the Unemployment Compensation Law (Law), 43 P.S. §802(b) (1) which provides, inter alia, as follows:
+An employe shall be ineligible for compensation for any week—
+. (b) (1) In which his unemployment is due to voluntarily leaving work without cause of a necessitous and compelling nature.... And provided further . . . that in determining whether or not an employe has left his work voluntarily ‘without cause of a necessitous and compelling nature, the department shall give consideration to the same factors, insofar as they are applicable, provided, with respect to the determination of suitable work under section four(t). . . .
+The claimant had been performing two job functions (export clerk and secretary) at a weekly salary of $130.00. When another employee quit, she assumed his job functions (domestic clerk and dispatcher) at a new salary of $160.00 per week. She subsequently requested the hiring of an additional employee to . relieve her of some of her duties, and, when such an employee was hired and her salary was reduced to $135.00 per week, she terminated her employment. Because it is clear that the claimant voluntarily terminated her employment, the issue presented here is whether or not she did so for cause of a necessitous and compelling nature.
+It was the claimant’s burden, of course, to prove that her voluntary termination was for suitable cause, Unemployment Compensation Board of Review v. Perry, 22 Pa. Commonwealth Ct. 429, 349 A.2d 531 (1975), and where, as here, the decision of the Board is adverse to the party with the burden of proof, our scope of review is limited. Absent fraud or errors of law, we are free only to determine whether or not the Board’s findings are consistent with each other and with the Board’s conclusions of law and whether or not the decision can be sustained without a capricious disregard of competent evidence. Unemployment Compensation Board of Review v. Patsy, 21 Pa. Commonwealth Ct. 341, 345 A.2d 785 (1975).
+The referee found that the claimant had. requested a quantitative reduction of her work, that the employer had told the claimant that such action would result in a reduction of her salary, and that the employer then hired an additional employee and assigned: some of the claimant’s work to him. The referee further found that the claimant terminated her employment because she was. dissatisfied with her new working arrangements. He concluded, therefore,, that her leaving had not been for reasons of q necessitous and compelling nature..
+' The employer’s testimony of record.was clearly substantial evidence upon which the referee- could base his findings and,, because these-findings are supported by such evidence,' they, are binding upon us as an appellate court. Pellegrino v. Unemployment Compensation Board of Review, 8 Pa. Commonwealth Ct. 486, 303 A.2d 875 (1973).
+Moreover, it is clear that the claimant requested that her- job responsibilities be reduced and that this request resulted in her receiving lower wages. She, therefore, cannot now assert that either her lower salary or her changed working conditions provided her with cause of a necessitous and compelling nature to terminate her employment. Unemployment Compensation Board of Review v. Holtz, 19 Pa. Commonwealth Ct. 316, 338 A.2d 690 (1975) (dissatisfaction with wages); Knox v. Unemployment Compensation Board of Review, 12 Pa. Commonwealth Ct. 588, 317 A.2d 60 (1974) (dissatisfaction with working conditions).
+We must note that the claimant has alleged in her brief that she was the victim of sex discrimination, allegedly being paid less than male employees for the same work. It is true that the failure to pay an employee equal compensation for equal'work on the basis of sex, if properly asserted and proved, would constitute such an illegality as to provide a cause of necessitous and compelling nature for the termination of employment, see Zinman v. Unemployment Compensation Board of Review, 8 Pa. Commonwealth Ct. 649, 305 A.2d 380 (1973) (illegal acts engaged in by employer); James v. Unemployment Compensation Board of Review, 6 Pa. Commonwealth Ct. 489, 296 A.2.d 288 (1972) (racial discrimination); Section 3 of the Equal Pay Law, 43 P.S. §336.3. There has been, however, no such assertion and proof here. The record merely indicates that the male domestic clerk and dispatcher who preceded the claimant received a salary of $200 per week. It contains no evidence whatsoever as to whether the claimant performed substantially the same work as her predecessor or not; nor does it reveal the existence or nonexistence of. any other legally permissible basis for a pay differential. Moreover, the issue was not raised before the referee or the Board, but was raised for the first time on appeal. We, therefore, need not consider it. Unemployment Compensation Board of Review v. Duray, 25 Pa. Commonwealth Ct. 253, 360 A.2d 276 (1976); see O’Leary v. Wisecup, 26 Pa. Commonwealth Ct. 538, 364 A.2d 770 (1976).
+' We, therefore, affirm the order of the Board.
+Order
+And Now, this 8th day of February, 1977, the order of the Unemployment Compensation Board of Review, dated October 20, 1975, is affirmed.
+Act of December 5, 1936, Second Ex. Sess., P.L. [1937] 2897, as amended, 43 P.S. §751 et seq.
+“Substantial evidence is that evidence which-a reasonable mind might accept as adequate to support the finding of.the Board.” O'Keefe v. Unemployment Compensation Board of Review, 18 Pa. Commonwealth Ct. 151, 157, 338 A.2d 815, 819 (1975).
+Section 3 of the Act of December 17, 1959, P.L. 1913, as amended, provides, mter alia, as follows:
+(a) No employer . . . shall discriminate . . . between employes on the basis of sex by paying wages to employes . . . at a rate less than the rate at which he pays wages to employes of the opposite sex . . . for equal work on jobs, the performance of which, requires equal skiU, effort, and responsibility, and which are performed under similar working conditions, except where such payment is made pursuant to (1) a seniority system; (2) a merit system; (3) a system which measures earnings by quantity or quality of production; or (4) a differential based on any other factor other than sex. . . .
