@@ -1,0 +1,36 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 406"
+decided: "1959-12-17"
+citations: ["191 Pa. Super. 315"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Gunther, Wright, Woodside, Ervin, and Watkins, JJ. (Hike, J., absent)."]
+parties: ["Commonwealth v. Johnson, Appellant."]
+source_url: "https://static.case.law/pa-super/191/cases/0315-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 747305
+cites_cases: ["151 A. 2d 441", "396 Pa. 222"]
+---
+
+# Commonwealth v. Johnson
+
+## Majority (Gunther, J.,)
+
+Opinion by
+Gunther, J.,
+This appeal is from the conviction and sentence imposed upon the appellant, Herman Johnson, charging him with burglary and larceny at No. 173 February Sessions, 1959 in the court below.
+On January 24, 1959, at about 6:45 A.M., Kay’s Sunoco Station located at 16th Street and Girard Avenue, in the city of Philadelphia, was burglarized. Entrance was obtained by breaking a window in the overhead garage door. Freddie Goldwire, an employe of this station and who was on his way to work, approached the station and saw the garage door up, and a Cadillac, which had been left in the alley behind the garage the night before, was backed up to the door. Goldwire testified that he saw appellant, also an employe of the station, standing at the cash register putting money in his pocket. He spoke to him and asked what had happened and was informed by defendant that the owner was robbed. When Goldwire went to the telephone to call the owner, defendant pulled away in the Cadillac which was recovered some three weeks later in a damaged condition.
+The proprietor of the station corroborated Gold-wire’s testimony as to his custody of the Cadillac which had been left in the alleyway. He also testified as to the amount of money that should have been in the cash register. He also testified that defendant saw him place f85.00 in the cash register the night before for the purpose of purchasing car parts the next morning. The proprietor testified that defendant was not due at work before eight o’clock in the morning and that he had no permission to enter the premises before that hour; that he had no key and that he had no permission to remove the automobile.
+Defendant’s defense was an alibi. He testified that he spent the night with friends of his family, Mr. and Mrs. Hall, at 1030 Dakota Street in the city of Philadelphia since he missed the bus to Atlantic City. He slept that night with one of the Hall children and did not get up until 7:10 A,M. on the morning of the burr glary. He left the Hall home about 7:40 A.M. and went directly to work where he learned of the burglary. He categorically denied any knowledge of it. Mrs. Hall corroborated . his testimony ■ in every material detail. She stated. that at' six o’clock in the morning, when she went to cover up the boy with whom defendant was sleeping, he was snoring; that she was awake from six to seven o’clock listening to a'.radio program and that she got iip at seven ‘o’clock' to fix .breakfast. She testified that her husband awakened the defendant about ten minutes after seven and -that defendant ate breakfast and departed for work .about 7:40 A.M. Mr. Hall testified that he got the defendant .up about 7:20 A.M. and thát they had breakfast together.
+During the course of the trial, certain testimony crept into the record regarding prior robberies suffered by the proprietor, indicating indirectly that the defendant might have had something to do with them. Also, appellant’s prior parole status was elicited on cross-examination of the proprietor. The court below gave no instruction to the jury concerning these matters. As to the defense of alibi, the court charged the jury in part as follows: “However, where a defendant sets up an alibi as a defense, the burden of proof of the alibi rests on the defendant, and he must prove it to. your satisfaction by a preponderance of the evidence. Now note the difference. The burden is on the Commonwealth to prove, the defendant’s guilt beyond a reasonable doubt, but an alibi, being an affirmative defense, must be proven by the defendant by only a preponderance of the evidence. You have a preponderance of the evidence when the credible , evidence on one side outweighs, even though slightly, the credible evidence on the other side. To constitute a complete de-. fense, an alibi must be air tight. It must show that the defendant was at another place during the full period of time when the crime was committed. However, even where the defendant fails to establish an air tight alibi, the evidence as to the alibi must nevertheless be given careful consideration, and if such evidence either by itself or along with other evidence raises a reasonable doubt in your minds as to the guilt of the defendant, he must be acquitted.”
+On this appeal, appellant raises several questions which to us raise serious doubts as to the propriety of the conviction obtained in this case. One of these is the charge on alibi as given by the court below. In view of our position in this regard, we deem it unnecessary to discuss the other questions raised. In this connection, it is only fair to state that the charge of the court below, at the time it was given, substantially complied with the law. However, subsequent to this trial, the Supreme Court, in the case of Commonwealth v. Bonomo, 396 Pa. 222, 151 A. 2d 441, clarified the law on this subject and, when tested by the standards there expressed, the charge as here given is fundamentally wrong. The court below recognized this view because it requested, through the office of the district attorney, that we remand the case so that the ends of justice may be served.
+Appellant charges that the court below committed fundamental error on the charge of alibi. No specific exceptions were taken to the charge and, normally, therefore, he could not be heard to complain in this regard. The court below charged on this issue in accordance with existing law and, therefore, cannot be charged with fundamental error. By the time this appeal reached us for consideration and review, the instiuictions became erroneous and required the case to be sent back for a new trial in the interest of justice. At the same time, we wish to make it clear that once the case has been placed on the appellate court dockets, a lower court cannot change its mind about the disposition of a case and request that the case be remanded for further consideration. In the administration of justice, every person involved in litigation, civil or criminal, has the right to expect the courts to consider the case strictly in accordance with the law and the evidence and with fairness and impartiality. If error is found to exist, on appeal, it is the function of the appellate courts to so declare and provide for suitable disposition for the correction of such error.
+Judgment of sentence is reversed and a new trial is granted.
+
+## Concurrence (Ervin, J.:)
+
+Concurring Opinion by
+Ervin, J.:
+I concur in the result but I would have remanded the case, as requested by the court below, so that a new trial could have been granted and the error corrected. Wright, J., joins in this concurring opinion.
