@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "01308"
+decided: "1990-01-08"
+citations: ["390 Pa. Super. 136", "568 A.2d 231"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before McEWEN, OLSZEWSKI and TAMILIA, JJ."]
+parties: ["Alonso DUQUE v. Ottavio D. D’ANGELIS, Appellant."]
+source_url: "https://static.case.law/pa-super/390/cases/0136-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 475959
+cites_cases: ["176 A.2d 446", "204 A.2d 490", "204 Pa.Super. 400", "206 A.2d 395", "22 Pa.Super. 275", "318 Pa.Super. 14", "353 Pa.Super. 409", "355 Pa.Super. 291", "365 Pa.Super. 74", "406 Pa. 127", "416 Pa. 397", "485 A.2d 1086", "506 Pa. 439"]
+---
+
+# Duque v. D'Angelis
+
+## Majority (TAMILIA, Judge:)
+
+TAMILIA, Judge:
+This is an appeal from the trial court’s Order denying appellant/defendant’s petition to open and/or strike confessed judgment.
+In the summer of 1986, appellant and appellee discussed plans to form a partnership to develop a shopping center in Chester County with two other individuals, Francis Allison and James Crowse. At the time, appellant owned and operated Tavio’s Mini Mart along with Allison, and appellee was the bookkeeper. Appellee purchased equipment for the business and also funded extensive renovations on the premises. Additionally, appellant received a loan from appellee to make a down-payment on a home. In all, appellee invested $83,570 for the benefit of appellant.
+In the spring of 1987, the plans for a shopping center fell through, at which time appellant signed a note confessing judgment in favor of appellee in the aforesaid amount. Appellee recorded the note and an affidavit of waiver of rights on September 28, 1987. The prothonotary posted a notice of judgment, by ordinary mail, to appellant in accordance with Pa.R.C.P. 236.
+On October 5, 1988, appellant filed a petition to open and/or strike the confessed judgment, which the court denied on April 17, 1989 after hearing arguments and reviewing briefs.
+Appellant contends the trial court erred in refusing to open the judgment by confession because the note in question was altered after he signed it. The trial court’s decision regarding whether or not to open a confessed judgment will not be overruled unless the court has committed an error of law or clearly and manifestly abused its discretion. Continental Bank v. Axler, 353 Pa.Super. 409, 510 A.2d 726 (1986). Appellee does not deny the alteration, namely that the name of Francis W. Allison was stricken from the note at appellee’s request, but claims the alteration is immaterial (Appellee’s brief p. 5). An immaterial change in the wording of a judgment note does not prevent the entry of judgment by confession. Krantz v. Kazenstein, 22 Pa.Super. 275 (1903). By signing the note, appellant recognized he owed $83,570 jointly and severally to appellee upon demand. By the very nature of joint and several liability, appellant authorized a judgment by confession against himself. See Pa. Confession of Judgment § 6.10.2. Consequently, the deletion of Allison’s name does not affect appellant’s liability to appellee or the amount of judgment. Moreover, a petitioner must not only aver a valid defense to open judgment, but he must also establish equitable considerations, which impress the court with the need for relief. McDonald v. Allen, 416 Pa. 397, 206 A.2d 395 (1965). Since appellant would be liable to appellee for the full amount of the note even with Allison’s signature, we do not see the need for relief as suggested by appellant. The lack of Allison’s signature does not change appellant’s liability. We agree then with appellee that the alteration was immaterial and insufficient to warrant the judgment by confession.
+Appellant claims further error by the trial court because the face amount of the note was incorrect. Pa.R. C.P. 2951(a) provides, in pertinent part the prothonotary may enter judgment by confession “for the amount which may appear to be due from the instrument.” Here, the judgment matches the amount of money appellant promised to pay appellee. Moreover, appellant, at the time of execution, did not contest the amount, nor did he raise the issue in his petition to strike and/or open confessed judgment. Such a defense is waived if not timely included in the petition to open or in the answer. Estate of Silvestri v. Kinest, 318 Pa.Super. 14, 464 A.2d 494 (1983); Pa.R.C.P. 2959(c). Hence, appellee cannot now raise this issue on appeal.
+Finally, we find no merit to appellant’s assertion the judgment by confession should be opened because he did not receive notice of the judgment until he attempted to sell his property in the fall of 1988. A petition to open may be granted only if the petitioner promptly files his petition. See McKeesport Nat. Bank v. Rosenthal, 355 Pa.Super. 291, 513 A.2d 434 (1986); First Seneca Bank & Trust Co. v. Laurel Mountain Development Corp. 506 Pa. 439, 485 A.2d 1086 (1984). Appellant claims he filed within 30 days of receiving actual notice of the judgment, although this was over a year after entry of confession of judgment. This court has found a time lapse of nine months excessive in seeking a petition to open. Cross v. 50th Ward Community Ambulance Co., 365 Pa.Super. 74, 528 A.2d 1369 (1987). In the instant case the record clearly shows notice of judgment was sent to appellant by ordinary mail on the same day the prothonotary entered confession of judgment (Court Docket, 9/28/87). Under Pa.R.C.P. 2958(a), notice sent by ordinary mail is sufficient in these circumstances. Accordingly, appellant’s petition to open fails because it was untimely.
+For all these reasons, we agree with the trial court’s decision and uphold the confession of judgment.
+Order affirmed.
+. We also note the Supreme Court, in Liberty National Bank of Pittston v. Degillio, 406 Pa. 127, 176 A.2d 446 (1962) found a mere technical irregularity insufficient to open judgment, and this Court, in Cam Vending Service v. Kessler, 204 Pa.Super. 400, 204 A.2d 490 (1964), held a mistake in the nature of a clerical error was not a proper ground for invalidating the entry of judgment by confession.
