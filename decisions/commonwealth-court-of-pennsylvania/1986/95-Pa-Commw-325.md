@@ -1,0 +1,39 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 431 C.D. 1985"
+decided: "1986-03-03"
+citations: ["95 Pa. Commw. 325", "505 A.2d 405"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Bogers and Doyle, and Senior Judge Kalish, sitting as a panel of three."]
+parties: ["Harold R. Reese, Jr., (deceased) by Marion M. Reese, Petitioner v. Workmen’s Compensation Appeal Board (Penn Nutrients, Inc.), Respondents."]
+source_url: "https://static.case.law/pa-commw/95/cases/0325-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1344970
+cites_cases: ["273 A.2d 512", "442 Pa. 11", "457 A.2d 174", "72 Pa. Commonwealth Ct. 513"]
+---
+
+# Reese v. Workmen's Compensation Appeal Board
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+This is the appeal of Marion M. Reese (petitioner), widow of Harold R. Reese, Jr. (decedent), from an order- of the Pennsylvania Workmen’s Compensation Appeal Board (board) determining the amount, on a weekly basis, to which the decedent’s employer is entitled to be subrogated from the proceeds of a settlement of a wrongful death action against a third party.
+The decedent died on December 15,1977 as a result of injuries he sustained, in a vehicular accident, in the course of his employment. He was survived by his wife, -and only child of their marriage and two children of the petitioner to whom the decedent stood in loco parentis.
+The petitioner and the employer entered into a workmen’s compensation agreement providing for the payment -of weekly compensation benefits of $113.33 in accordance with the schedule of compensation benefits payable to a widow with three children as set forth in Section 307(4 1/2) of The Pennsylvania Workmen’s Compensation Act (Act), Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §561(4 1/2).
+The Court of Common Pleas of Berks County approved a settlement of the wrongful death action the petitioner had brought on her own behalf and on behalf of the only child of her marriage to the decedent. Not being children of the decedent, the remaining children were not involved in this action. The case was settled for $150,000. One-half ($75,000) was in satisfaction of the petitioner’s claim as widow of the decedent and one-half was in satisfaction' of the claim of the decedent’s child.
+The parties agree that the employer is entitled to' he subrogated (under Section 319 of the Act, 77 P.S. §671) only to the $75,000 paid in satisfaction of the petitioner’s claim as widow. See Anderson v. Greenville Borough, 442 Pa. 11, 273 A.2d 512 (1971). The parties were unable to agree on the amount to which the employer should receive credit, as subrogation, against its obligation to pay compensation in the amount weekly of $113.33.
+The employer petitioned the board for an order that its weekly obligation to pay the petitioner should be reduced to $37.78, being its share of attorney’s fees and costs, contending that it was entitled to be subrogated to the full amount of the settlement of the widow’s claim, $75,000, less counsel fees and costs.
+The board agreed with the employer and ordered that the employer be subrogated each week at the full amount of the compensation it was obliged to pay the petitioner, $113.33; and that the employer pay the petitioner- weekly $37.78, reimbursement for counsel fees and costs.
+The petitioner asserts in her petition for review that the board’s order was erroneous because the employer was not entitled to be subrogated from the .third party settlement on account of the amounts of compensation paid to the widow on account of the three children and that the employer should be required to pay her this amount, $26.63, plus counsel fees 'and expenses, $37.78, or a total of $64.41 a week.
+We agree with the board that this case is controlled by Anderson. In that case the decedent was survived by a widow and six children. After his death in a work-related accident, .the widow began receiving compensation under Section 307 (4 1/2) of the Act, 77 P.S. §561(4 1/2) for herself and children. The widow .sued a third party as administratrix and settled the claim for $9,500. Of this amount the widow was entitled to one-third and the children to one-ninth each. The employer asked the Workmen’s Compensation Appeal Board to determine the distribution of the settlement proceeds among the beneficiaries and make an allocation of credit against compensation to which it, the employer, was entitled under Section 319, 77 P.S. §671. The board held that the employer should receive credit, or subrogation, (only to the extent of the widow’s share of the settlement; 'and that the employer was not entitled to credit against the children’s share of the .settlement. The Supreme Court affirmed.
+In Anderson the employer was attempting to receive credit for, or be ¡subrogated .to, the settlement received by the children on the assertion that it was paying compensation benefits to the children in their own right. The Anderson Court wrote, “subrogation is an equitable doctrine and is applicable whenever a debt or obligation is paid from the funds of one person although primarily payable from the funds of another.” The court held that the employer was not entitled to be subrogated to the children’s share of the settlement .since there was no .equatability between that fund and the fund represented by the compensation benefits. The Supreme Court reasoned that the children owned their share of the settlement fund in their own right and that this fund was in settlement of the debt or obligation the tort-feasor owed the children and held there was not equatability between the children’s share of settlement proceeds which they owned in their own right and the compensation which was paid the widow in her right alone, although accreted by reason of ber .responsibility for the children’s keep. See also Bowers v. Workmen’s Compensation Appeal Board (Stroehmann Bros.), 72 Pa. Commonwealth Ct. 513, 457 A.2d 174 (1983). Concerning the compensation, the Court wrote that the widow owned the compensation benefits solely in her own right because :
+Children, as provided in §307, 77 P.S. §561, are entitled to compensation in their own right only when the deceased is not 'Survived by ’an eligible 'widow. "When such a widow exists, the existence of children serves to generate a larger compensation payment to the widow. The children, however, in such a situation have no right of their own to recover compensation. . . . Therefore, it is clear . . . the payments to the ■widow are made so that she may acquit her legal obligation to support her children, . . . and are not recovered by the children in their own right. . . . (Citation omitted.)
+Anderson, 442 Pa. 11, 15-16, 273 A.2d 512, 514-515 (1971).
+In the instant case, however, there is equatability. The settlement is entirely due the widow, and the compensation as in Anderson is also hers although accreted by the presence of the children. Hence, the employer here is entitled to be subrogated to the settlement and obliged to pay weekly only the amount necessary to discharge its obligation of attorney’s fees ■and costs in the amount of $37.78.
+The petitioner’s counsel has requested that we make an order for the payment of counsel fees to be paid them by the employer, referring to an agreement attached to his brief between the petitioner and counsel for twenty percent of the total amount of any compensation settlement or award. Surely, an employer who has been successful in the cause cannot be asked to pay the adversary’s counsel. Moreover, no amount is suggested as appropriate. Hence, we deny the application for counsel fees.
+•Order affirmed.
+Order
+And Now, this 3rd day of March, 1986, the order •of the Workmen’s Compensation Appeal Board in the above-captioned matter is affirmed.
