@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1919"
+decided: "1980-09-26"
+citations: ["280 Pa. Super. 621", "421 A.2d 1105"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before SPAETH, BROSKY and VAN der VOORT, JJ."]
+parties: ["Edgar BLACK, Appellant, v. T. M. LANDIS, INC., American Bank & Trust Co. of Pa., and American Business Credit Corporation."]
+source_url: "https://static.case.law/pa-super/280/cases/0621-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 151246
+cites_cases: ["110 A.2d 186", "366 F.2d 402", "380 Pa. 407", "460 F.Supp. 643", "609 F.2d 504", "70 Yale L.J. 376"]
+---
+
+# Black v. T. M. Landis, Inc.
+
+## Majority (SPAETH, Judge:)
+
+SPAETH, Judge:
+This appeal is from an order sustaining preliminary objections and dismissing the complaint.
+Appellant is a cattle dealer. Appellees are a bank and its business credit subsidiary. T.M. Landis, Inc., which, with appellees, is also a defendant to the complaint, but is not a party to this appeal, is a cattle slaughterer. From the complaint and the several agreements made part of it, the following appears.
+Appellant had over a period of time been selling cattle to Landis, and Landis owed appellant $300,000 for cattle received but not paid for. Landis wanted to enter into a loan agreement with appellees, which would provide financing of $1,500,000, but as a condition of the loan, appellees required subordination of Landis’s existing debt to appellant. On October 11, 1977, appellant and Landis executed an agreement that began by reciting that Landis was concurrently entering into the loan agreement with appellees and that subordination of Landis’s debt to appellant was a condition of that agreement. The agreement between appellant and Landis went on to acknowledge and incorporate the subordination agreement concurrently executed by appellant, and to state that as an inducement to appellant to execute the subordination agreement, Landis would make appellant its sole supplier of cattle. The subordination agreement was executed only by appellant but began by reciting that it was given “[i]n consideration of the financial accommodations given, to be given or to be continued by” appellees to Landis. The body of the subordination agreement made numerous references to the loan agreement between appellees and Landis, and the operational provisions of the subordination agreement were intertwined with those of the loan agreement.
+Appellant’s complaint alleges that Landis has repeatedly violated the sole supplier agreement, and it prays for rescission of both the sole supplier agreement and the subordination agreement on the ground of failure of consideration. The complaint describes appellees as third party beneficiaries of the agreement between appellant and Landis. On appeal appellant has maintained that position; he argues that as third party beneficiaries, appellees are subject to any defects or defenses arising under the agreement between him and Landis.
+The opinion of the lower court begins by regarding the subordination agreement as being between appellant and appellees. Slip op. at 1. We agree that the agreement should be so regarded. However, because it was executed only by appellant and was attached to the agreement between appellant and Landis, it is necessary to analyze the agreement and its relationship to the other agreements in more detail in order to explain why we agree.
+In form the subordination agreement is unilateral; as just stated, it was executed only by appellant. Unilateral subordination agreements are not uncommon in commercial settings, and courts are frequently required to pass on their enforceability. One theory often used is that the senior creditor is a third party beneficiary. Calligar, Subordination Agreements, 70 Yale L.J. 376, 391 (1961). Most of the time it does not make any difference which of various possible theories of enforcement is used; what the court is really trying to do is effect the intent of the parties, and it selects a theory that will accomplish this. Id. See, e. g., In Re Credit Industrial Corporation, 366 F.2d 402 (2d Cir. 1966). However, in the present case, where appellant is arguing that the subordination agreement is only an attachment to another agreement and that that other agreement is subject to rescission for failure of consideration, it does make a difference.
+In holding that the subordination agreement was between appellant and appellees, in holding, in other words, that appellees were not beneficiaries of but parties to the subordination agreement, even though they had not signed it, the lower court looked beyond the form of the agreement to its substance. As we have already indicated, we agree that this is the way the agreement should be regarded.
+It is a basic principle of contract law that when two or more writings are executed at the same time and involve the same transaction, they should be construed as a whole. Von Lange v. Morrison-Knudsen Co., Inc., 460 F.Supp. 643 (M.D.Pa.1978), aff’d mem., 609 F.2d 504 (3d Cir. 1979); International Milling Co. v. Hachmeister, Inc., 380 Pa. 407, 110 A.2d 186 (1955). If the writings pertain to the same transaction, it does not matter that the parties to each writing are not the same. Von Lange v. Morrison-Knudsen, supra. See 4 Williston, Contracts § 628.
+Here, as appears from their own recitals, the subordination agreement and the sole supplier agreement were executed concurrently with each other and with the loan agreement between appellees and Landis. The three agreements represent different aspects of a single underlying transaction that involved all three parties-appellant, appellees, and Landis. When the three agreements are construed as a whole, it becomes clear that appellees were more than third party beneficiaries of the subordination agreement; they required, and insisted upon, the subordination agreement as a condition of their loan agreement with Landis, and appellant recognized and accepted this condition; appellees’ financial accommodations to Landis are recited as consideration in the subordination agreement. Appellant’s complaint nowhere alleges failure of that consideration.
+Affirmed.
