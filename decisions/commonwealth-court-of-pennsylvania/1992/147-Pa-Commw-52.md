@@ -1,0 +1,57 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1475 C.D. 1991"
+decided: "1992-04-03"
+citations: ["147 Pa. Commw. 52", "606 A.2d 1255"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before COLINS and PELLEGRINI, JJ., and LORD, Senior Judge."]
+parties: ["In re UPSET PRICE TAX SALE OF SEPTEMBER 10, 1990. Vincent J. SORTINO, Executor of the Estate of Marie Sortino, Deceased, v. DELAWARE COUNTY TAX CLAIM BUREAU and MJM Financial Services, Inc. Appeal of MJM FINANCIAL SERVICES, INC."]
+source_url: "https://static.case.law/pa-commw/147/cases/0052-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1431693
+cites_cases: ["113 Pa.Commonwealth Ct. 105", "123 Pa.Commonwealth Ct. 371", "124 Pa.Commonwealth Ct. 557", "125 Pa.Commonwealth Ct. 220", "132 A.2d 200", "24 Pa.D. & C.3d 709", "389 Pa. 93", "438 A.2d 1045", "445 A.2d 1356", "523 Pa. 652", "525 Pa. 588", "567 A.2d 655", "575 A.2d 117", "64 Pa.Commonwealth Ct. 30", "67 Pa.Commonwealth Ct. 86"]
+---
+
+# Sortino v. Delaware County Tax Claim Bureau
+
+## Majority (PELLEGRINI, Judge.)
+
+PELLEGRINI, Judge.
+M.J.M. Financial Services, Inc. (Purchaser) appeals from an order of the Court of Common Pleas of Delaware County (trial court) setting aside the tax sale to Purchaser of the property located at 309 Hill Road, Delaware County (premises) with a one-story residence and an attached garage owned , by Marie Sortino (Sortino).
+Real estate taxes had not been paid on the premises for the years 1987 through 1990, and after the 1990 taxes remained unpaid, the Delaware County Tax Claim Bureau (Bureau) set a date to sell the premises at a tax sale. On August 10, 1990, the 30-day notice of sale was sent by certified mail to Sortino but was returned marked “unclaimed”. On August 31, 1990, the 10-day notice of sale was sent by first class mail to Sortino and was not returned by the post office. Publication notice was also given.
+Twice on August 20, 1990, and once on August 21, 1990, the deputy sheriff attempted personal service, bringing a “posting notice” with him to the premises. Each time, he knocked on the door but received no answer. At the time of the third attempt, after noticing accumulated mail, the deputy sheriff folded the notice and thumbtacked it to the door frame between the storm door and the side door of the house, level with the key hole.
+On September 10,1990, Purchaser bought the premises at the tax sale for the bid of $34,622.00. Sortino signed for post-sale notice which was sent by certified mail on October 4,1990. The .sale was then confirmed on November 9,1990, by a decree nisi. Subsequent to the sale, Sortino died and her son Vincent Sortino became executor of her estate. Vincent Sortino filed exceptions to the decree nisi pursuant to 72 P.S. § 5860.607(d) challenging the validity of the sale due to the manner in which the premises was posted. Purchaser was allowed to intervene.
+Initially, the Bureau introduced an affidavit of posting signed by the deputy sheriff who visited the premises on August 21,1990. At the hearing, Sortino called the deputy sheriff to testify about the manner of posting. The trial court set aside the tax sale, holding that the Bureau failed to prove that it complied with the posting requirements of 72 P.S. § 5860.602(e)(3). Purchaser then filed this appeal.
+Purchaser contends that the deputy sheriffs posting complied with the notice requirement in the statute. Purchaser also contends that the trial court erred in placing the burden of proof on the Bureau, because once the affidavit of posting was admitted, a presumption arose of the regularity of the official act which Sortino had the burden to rebut.
+As to the presumption of the regularity of the acts of the deputy sheriff in tax sale cases, it exists only “until the contrary appears.” Hughes v. Chaplin, 389 Pa. 93, 132 A.2d 200 (1957). A property owner can overcome the presumption of regularity “by filing exceptions to a tax sale, averring that the tax claim bureau did not comply with statutory notice provisions.” Dolphin Service Corporation v. Montgomery County Tax Claim Bureau, 125 Pa.Commonwealth Ct. 220, 223, 557 A.2d 38, 39 (1989), petition for allowance of appeal denied, 525 Pa. 588, 575 A.2d 117 (1990). The Bureau, or a purchaser arguing that the tax sale was proper, has the burden of proving that the Bureau complied with the notice provisions. Id. 125 Pa.Commonwealth Ct. at 223, 557 A.2d at 39. Accordingly, the trial court correctly placed the burden on the Purchaser to establish that Sortino’s property was properly posted.
+Purchaser contends, regardless of the burden, that the deputy sheriffs action complied with the statutory notice requirements. Section 602 of the Real Estate Tax Sale Law, Act of July 7, 1947, P.L. 1368, as amended, 72 P.S. § 5860.602 (Section 602), sets forth the notices of a tax sale that must be given by the Bureau: publication, certified mail to owners and posting. Moreover, to guard against the deprivation of property without due process of law, there must be strict compliance with the notice provisions of Section 602. Kleinberger v. Tax Claim Bureau of Lehigh County, 64 Pa.Commonwealth Ct. 30, 35, 438 A.2d 1045, 1047-48 (1982).
+As to what is necessary to accomplish the requisite posting, Section 602 provides no specific method and only states:
+(e) In addition to such publications, similar notice of the sale shall also be given by the bureau as follows:
+(3) Each property scheduled for sale shall be posted at least ten (10) days prior to the sale.
+72 P.S. § 5860.602(e)(3).
+In applying this provision, this court has held: “[I]n the absence of specific statutory requirements, we hold that the method used must be reasonable and such as would likely inform the taxpayer of the intended sale of the premises.” Lapp v. County of Chester, 67 Pa.Commonwealth Ct. 86, 90, 445 A.2d 1356, 1358 (1982).
+Not only does public posting assist in informing a taxpayer that his or her property is to be exposed at tax sale, especially when, as here, personal service cannot be accomplished, it serves the additional purpose of notifying others whose interest may be affected by the sale such as mortgage and other lien holders. Posting also serves to notify the public at large that the property is going to be offered at tax sale. This increases the number of bidders for the property, aiding in the likelihood that the taxing bodies will receive the taxes owed, as well as making the sale fair to the delinquent taxpayer so that the property is sold for the highest amount possible so that the delinquent taxpayer may not be subject to any deficiency or, if the bid is over the amount of taxes owed, can receive any excess.
+While this court has not addressed what constitutes posting that adequately informs both the taxpayer and others who may be interested that the property is going to be offered at tax sale, common pleas courts have properly required that posting be accomplished by “placing the notices somewhere on the premises for all to observe,” rather than handing the notice to an owner, Tax Claim Bureau Upset Sale, 95 Montgomery County L.R. 262, 265 (1972), or in “such a manner as to attract attention,” Otto v. Dauphin County Tax Claim Bureau, 24 Pa.D. & C.3d 709, 710 (1980). We agree with the trial court that in this case, the manner in which the notice was posted informed no one that the subject property was being exposed to tax sale.
+Here, the deputy sheriff merely folded the notice and thumbtacked it at key hole level to the door frame of a side door of the house between the main door and the storm door. The posting was not conspicuous, it did not attract attention, nor was it placed for all to observe. It was, according to the deputy sheriffs testimony, placed to attract the attention of anyone entering that particular door, not the public or a passerby. There was more than adequate evidence to support the trial court’s decision that the posting was not reasonable and likely to ensure notice.
+Accordingly, the order of the trial court setting aside the tax sale is affirmed.
+ORDER
+AND NOW, this 3rd day of April, 1992, the order of the Court of Common Pleas of Delaware County dated June 3, 1991, No. 90-15,649, is affirmed.
+. A court order waived the necessity of personal service before the tax sale.
+. Section 607(a) of the Real Estate Tax Sale Law, Act of July 7, 1947, P.L. 1368, as amended, 72 P.S. § 5860.607(a), requires that the Bureau submit a consolidated return to the court of common pleas summarizing the procedure and result of the tax sale, and if it appears to the court of common pleas that the sale was "regularly conducted under the provisions of this act, the consolidated return and the sale so made shall be confirmed nisi.”
+. The affidavit stated in relevant part:
+I further depose and say that on my final attempt at service, August 21, 1990, in the a.m., that before I left the residence, I folded the posting copy of the Notice of Sale in half and thumbtacked it to the wooden door frame inside the storm door.
+(R.R. 31a.)
+. At the February 4, 1991 hearing, during direct examination, the deputy sheriff testified as to the posting of the property:
+A: After two attempts on a third attempt no one — no answer, no one apparently home, I placed a notice inside the storm door on a side door. I folded it in half and thumbtacked it to the door jamb. That it would be very obvious for anyone entering the door would see it. And that it wouldn’t blow away or anything like that.
+Q: Okay, is that the return that you made to the Bureau as your services as a Deputy Sheriff on the date of August 21st, with regards to the property, 309 Hill Road?
+A: Yes
+Q: Now at the top of that could you read into the record what appears at the top of that?
+A: Three attempts, 8-20-90 a.m., 8-20-90 p.m. Attempted service three times.
+A: It was posted the following day, The third attempt was the following day, the 21st.
+(R.R. 19a-20a.)
+. In tax sale cases, our scope of review is limited to determining whether the trial court abused its discretion, rendered a decision with a lack of supporting evidence or clearly erred as a matter of law. Chester County Tax Claim Bureau v. Griffith, 113 Pa.Commonwealth Ct. 105, 536 A.2d 503 (1988).
+. In Dolphin and Ali v. Montgomery County Tax Claim Bureau, 124 Pa.Commonwealth Ct. 557, 557 A.2d 35 (1989), we addressed the case law concerning the burden of proof and the presumption of regularity of the acts. We stated that the case law was not in conflict, because although the presumption exists in tax sales, a property owner rebuts the presumption by challenging the sale and alleging that notice was inadequate. Dolphin, 125 Pa.Commonwealth Ct. at 223, 557 A.2d at 39; Ali, 124 Pa.Commonwealth Ct. at 560, 557 A.2d at 37.
+In Ali, we also addressed the decision Thomas v. Montgomery County Tax Claim Bureau, 123 Pa.Commonwealth Ct. 371, 553 A.2d 1044 (1989), petition for allowance of appeal denied, 523 Pa. 652, 567 A.2d 655 (1989), on which Purchaser relies, and we concluded that in that case, the Bureau did have the burden of proof, but met it through an affidavit of proper posting and the property owner offered no contrary evidence. Ali, 124 Pa.Commonwealth Ct. at 560, n. 3, 557 A.2d at 37, n. 3.
+. Furthermore, the evidence indicates that the deputy sheriff was not attempting to post the premises but was attempting personal service.
