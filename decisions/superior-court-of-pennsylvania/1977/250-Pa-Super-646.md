@@ -1,0 +1,19 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 1804"
+decided: "1977-10-26"
+citations: ["250 Pa. Super. 646", "379 A.2d 616"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth v. Weston, Appellant."]
+source_url: "https://static.case.law/pa-super/250/cases/0646-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 836111
+---
+
+# Commonwealth v. Weston
+
+## Majority
+
+Order and judgment of sentence affirmed.
