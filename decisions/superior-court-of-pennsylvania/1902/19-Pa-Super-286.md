@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 249"
+decided: "1902-02-14"
+citations: ["19 Pa. Super. 286"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, Smith, W. W. Porter and W. D. Porter, JJ."]
+parties: ["Brown v. Schellenberg, Appellant."]
+source_url: "https://static.case.law/pa-super/19/cases/0286-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 839548
+cites_cases: ["101 Pa. 258", "143 Pa. 114", "152 Pa. 425", "160 Pa. 647", "174 Pa. 281", "175 Pa. 559", "183 Pa. 255", "186 Pa. 469", "187 Pa. 57", "2 Penny. 358", "47 Pa. 800", "8 Pa. Superior Ct. 210", "88 Pa. 520"]
+---
+
+# Brown v. Schellenberg
+
+## Majority (Oklady, J.,)
+
+Opinion by
+Oklady, J.,
+After a second trial in the court' below a verdict of $300 was rendered in favor of the plaintiff, and on this appeal the only assignment of error is that under all the evidence in the case the verdict should be for the defendant.
+The disputed question was whether the plaintiff, aged seven years at the time of the accident, suddenly and unexpectedly ran from the sidewalk into or against the horse which the defendant was driving along the public street.
+The trial judge was careful in his charge to the jury to instruct them that it was for them to determine whether the darting into the street was a thing totally unexpected by the driver and whether he exercised ordinary care and diligence, and in order to charge the defendant with negligence an ordinarily prudent person, by watching the movements of that child from the time she left the alley, should have foreseen that there was danger of the child running into the street. The accident did not happen at a street crossing, and the tender years of the child relieves the case of the question of contributory negligence. The only question submitted to the jury was one of fact: “Was the driver, Emil Shellenberg, negligent in driving ? ” which question depends upon the following one: Was the conduct of the child at the moment she reached the curb-stone such as to indicate to the defendant that she would continue her run into the street? Up to the point of her reaching that place there is no conflict in the evidence but just at that moment the evidence is conflicting. A witness, Sydney Hinchcliffe, who was seated in the wagon with the defendant, stated that the little girl was standing at the curb, but on cross-examination testified, viz : “ Did the child run backward into the street or sideways into the street? A. Sideways, facing south. Q. What distance did she travel from the curb to the horse before the accident ? A. I don’t know, about eight feet, I guess. Q. Did you see her leave the curb? A. Yes, sir. Q. - Did you see her from that time until the time of the accident? A. Yes,sir. Q. She kept up this uniform gait from the curb to the horse, did she, looking southward? A. Well, she just looked like she was playing with somebody in the alley. Q. I ask you whether she kept up a uniform gait from the time she left the alley up to the time of the accident? A. Yes, sir. Q. What would you call the gait (of the horse) was it a walk, a trot, or what? A. It was a regular trot, as an ordinary wagon would be going along the street.” Other witnesses testified that the child made a stop or halt at the curb.
+Cases involving the question of negligence depend upon, and often must be decided by, the peculiar facts of each particular case. The child was rightfully on the pavement as far as the defendant’s liability is raised on this appeal. If there is negligence by the defendant and no negligence by the parent, want of discretion in the child is no defense : Johnson v. Reading City Pass. Railway Co., 160 Pa. 647 ; Phillips v. Duquesne Traction Company, 8 Pa. Superior Ct. 210: s. c., 183 Pa. 255. If the child rushed suddenly from the curb in front of or against the horse there was no negligence on the part of the driver: Chilton v. Central Traction Company, 152 Pa. 425; Funk v. Electric Traction Company, 175 Pa. 559. This phase of the case was fairly submitted to the jury, but if the child was continuously moving backward or sideways from the alley to the point where the accident occurred, it was for the jury to say whether a careful driver should not have anticipated the act of the child by stopping his horse.
+The trial judge said to the jury: “ If, under all the evidence in the case, you believe that from the time this child left the alley an ordinarily prudent person would have supposed that the child was in danger of moving on beyond the curb into the cartway, then the defendant, in not stopping to permit the child to pass uninjured, would have been guilty of negligence and would be liable, but in order to find the defendant guilty of negligence, you must find that the child had not come to a definite stop at the curb; that the child did not suddenly and unexpectedly dart out into the roadway.”
+The defendant testified: “ I saw a little girl come out of the alley who stood on the curb just as if playing with someone; when I saw her come out of the alley I slackened up my horse; then I started up and ran on a slow jog. Just about the time I got even from her she came skipping out from the alley into my wagon.” No duty or care could be exacted from a child of seven years. The driver was the only one to- exercise care: Summers v. Bergner, etc., Brewing Co., 143 Pa. 114; Satinsky v. Mutual Brewing Co., 187 Pa. 57.
+The mere fact of childhood neither creates nor shields from liability. Injury to a child is a misfortune, without remedy in the absence of negligence on the part of him who caused the injury ; but if the latter be guilty of negligence, the heedlessness of danger by the child is no protection to him: Jones v. Harris, 186 Pa. 469. The case is a close one ; it has been tried twice and the doubt as to what actually happened is largely due to the confusing statements of the defendant and his witnesses.
+The judgment is affirmed.
