@@ -1,0 +1,52 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "2478 C.D. 1990"
+decided: "1991-08-15"
+citations: ["142 Pa. Commw. 57", "596 A.2d 1227"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before COLINS and PALLADINO, JJ., and SILVESTRI, Senior Judge."]
+parties: ["Rex A. PITTENGER, M.D., Petitioner, v. DEPARTMENT OF STATE, BUREAU OF PROFESSIONAL AND OCCUPATIONAL AFFAIRS, Respondent."]
+source_url: "https://static.case.law/pa-commw/142/cases/0057-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1421204
+cites_cases: ["129 Pa. Commonwealth Ct. 642", "471 A.2d 572", "490 A.2d 20", "501 A.2d 1155", "506 Pa. 83", "79 Pa. Commonwealth Ct. 608", "88 Pa. Commonwealth Ct. 452", "93 Pa. Commonwealth Ct. 291"]
+---
+
+# Pittenger v. Department of State, Bureau of Professional & Occupational Affairs
+
+## Majority (SILVESTRI, Senior Judge.)
+
+SILVESTRI, Senior Judge.
+Rex A. Pittenger, M.D, (Pittenger) petitions for review of an October 26, 1990 opinion and order of the State Board of Medicine (Board) which denied Pittenger’s application for renewal of his medical license.
+Pittenger received a license to practice medicine and surgery in the Commonwealth of Pennsylvania on May 27, 1954. On May 23, 1984, Pittenger pled guilty to eleven (11) felony violations of Section 13(a)(14) of the Controlled Substance, Drug, Device, and Cosmetic Act (Drug Act). On January 18, 1985, the Board issued an administrative complaint and order to show cause charging that Pittenger failed to conform to the standards of acceptable and prevailing medical practice, and that he had been convicted of felonies in violation of the Drug Act. A hearing on the charges was conducted by a Board hearing examiner on April 9, 1985. By order issued September 9, 1985, the hearing examiner found Pittenger guilty of both charges and revoked his medical license. Pittenger’s license was revoked for failure to comply with the Medical Practice Act of 1974, the applicable act at the time. On September 11, 1985, Pittenger filed an application for review of the hearing examiner’s decision. On November 26, 1985, the Board affirmed the order of the hearing examiner. An adjudication and order affirming the license revocation imposed by the hearing examiner was issued by the Board on February 26, 1986.
+By petition dated April 5, 1990, Pittenger applied to the Board requesting reinstatement of his license. His application detailed his successful course of continuing and improving rehabilitation, sobriety, maintenance of his professional skills, and fitness for practice. On October 26, 1990, the Board denied Pittenger’s application. In so doing, the Board determined that pursuant to Section 43(b) of the recently amended Medical Practice Act of 1985 (MPA), it was without authority to reinstate Pittenger’s license and, thus did not consider the merits of his request.
+Section 43(b), 63 P.S. § 422.43(b), of the MPA requires a ten-year waiting period after conviction of a felony drug violation before a physician can apply for license reinstatement. Section 43 concerning reinstatement of a license, states in subsection (b):
+(b) Reinstatement after felony conviction. — Any person whose license, certificate or registration has been suspended or revoked because of a felony conviction under the act of April 14, 1972 (P.L. 233, No. 64), known as The Controlled Substance, Drug, Device and Cosmetic Act, or similar law of another jurisdiction, may apply for reinstatement after a period of at least ten years has elapsed from the date of conviction. The board may reinstate the license if the board is satisfied that the person has made significant progress in personal rehabilitation since the conviction such that his reinstatement should not be expected to create a substantial risk of harm to the health and safety of his patients or the public or a substantial risk of further criminal violations and if the person meets all other licensing qualifications of this act, including the examination requirement. (Footnote omitted.)
+The previous 1974 act did not provide for any minimum waiting period for a physician to apply for restoration or reissuance of a license.
+Pittenger now argues that because revocation of his license occurred prior to the January 1, 1986 effective date of the MPA, the ten year waiting period for reinstatement cannot be applied retroactively. Pittenger contends that his license was revoked under the 1974 act which contained no time restrictions regarding reinstatement of his license and, hence, the Board may not apply the current restrictions of the MPA.
+In support of this contention, Pittenger maintains that he possessed, and still possesses, a property right in his medical license for which he is entitled to due process protection. In reliance upon Section 15(b)(6), formerly 63 P.S. § 421.-15(b)(6), of the 1974 act, Pittenger urges that he retained a property interest in his revoked license which would make it unconstitutional to retroactively apply the ten year relicensure delay provided for under the MPA. Section 15(b) provided:
+(b) When the Board finds that the license of any person may be refused, revoked or suspended under the terms of subsection (a) above, the Board may:
+(1) Deny the application for a license.
+(2) Administer a public or private reprimand.
+(3) Revoke, suspend, limit or otherwise restrict a license as determined by the board.
+(4) Require a licensee to submit to the care, counseling, or treatment of a physician or physicians designated by the board.
+(5) Suspend enforcement of its finding thereof and place a licensee on probation with the right to vacate the probationary order for noncompliance.
+(6) Restore or reissue, in its discretion, a license to practice medicine and surgery, and may impose any disciplinary or corrective measure which it might originally have imposed. Formerly, 63 P.S. § 421.15(b)(1)-(6).
+Upon review, it is apparent that Section 15(b)(6) authorizes the Board to restore a license to practice medicine and surgery; it does not create or even reference any right of a revoked licensee to apply for reinstatement. Pittenger’s reliance upon this section is inappropriate.
+Similarly, Pittenger’s reliance upon Brown v. State Board of Pharmacy, 129 Pa. Commonwealth Ct. 642, 566 A.2d 913 (1989) is misplaced. In Brown we were presented with a situation in which a holder of a suspended license to practice pharmacy petitioned for reinstatement of his license. In rendering our determination, we interpreted provisions of the Pharmacy Act similar to the relevant provisions of the MPA in this case. We determined that because the license was “susceptible to revival,” the applicant possessed a property right which was entitled to due process protection. We further determined that imposition of a waiting period for application for renewal or reissuance of a license imposed a burden which was unconstitutional if applied retroactively to impede an applicant’s right to petition the Board for license reinstatement. However, Pittenger fails to grasp the distinction between Brown and the matter sub judice. In Brown, 129 Pa. Commonwealth Ct. at 646, 566 A.2d at 915, we distinguished between suspension and revocation of a professional license, stating:
+Undoubtedly, the holder of a valid and existing professional license has a property interest in such license. “[T]he right to practice a profession, once acquired, does constitute a property right in the license.” Brady v. State Board of Chiropractic Examiners, 79 Pa. Commonwealth Ct. 608, 613, 471 A.2d 572, 575, appeal dismissed, 506 Pa. 83, 483 A.2d 1376 (1984). Once that license has been revoked, however, “through a procedure consistent with the individual’s due process guarantees, that individual is stripped of whatever property interest he possessed in the license.” Keeley v. State Real Estate Commission, 93 Pa. Commonwealth Ct. 291, 296, 501 A.2d 1155, 1158 (1985).
+It is undisputed that Pittenger’s license was revoked. In Keeley, this court previously determined:
+[W]hen a license or privilege is revoked, it is extinguished and the former possessor is returned to the same position he occupied had the license or privilege never been issued. The term “revoke” is defined as “[t]o annul or make void by recalling or taking back; to cancel, rescind, repeal or reverse.” Black’s Law Dictionary 1188 (5th Ed.1979). Therefore, once the license has been voided or annulled, any property rights or interest stemming from that license are likewise voided or annulled. 93 Pa. Commonwealth Ct. at 296, 501 A.2d at 1158.
+As such, Pittenger possesses no commensurate property right in a medical license which has been revoked consistent with due process of law.
+As to Pittenger’s argument of an unconstitutional retroactive application by the Board of Section 43(b), it is a well-settled principle that application of subsequent legislative revision involving procedural rather than substantive change is not improper. Brown; Long v. County of Delaware, 88 Pa. Commonwealth Ct. 452, 490 A.2d 20 (1985). Having determined that Pittenger possesses no property right in the revoked medical license, no substantive rights are affected. In this case, Section 43(b) of the MPA did not alter Pittenger’s substantive rights, it merely fixed a time period when Pittenger may apply for reinstatement of the license.
+Accordingly, the order of the Board is affirmed.
+ORDER
+AND NOW, this 15th day of August, 1991, the order of the State Board of Medicine is affirmed.
+. Act of April 14, 1972, P.L. 233, 35 P.S. § 780-113(a)(14).
+. Act of July 20, 1974, P.L. 551, as amended, formerly 63 P.S. §§ 421.1-421.18, repealed by the Medical Practice Act of 1985, Act of December 20, 1985, P.L. 457, as amended, 63 P.S. §§ 422.1 — 422.45.
+. The Board denied Pittenger’s request for a stay of the revocation pending review of the decision of the hearing examiner.
+. The Board reaffirmed its November decision the following month after review of an additional letter submitted in Pittenger’s behalf.
+. Act of December 20, 1985, P.L. 457, as amended, 63 P.S. §§ 422.1-422.45.
+. Pittenger's brief at p. 19, states: "As a matter of accomplished fact, and for all purposes, Pittenger’s license was totally revoked and physically surrendered by him on October 3, 1985____”
