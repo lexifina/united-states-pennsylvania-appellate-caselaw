@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 41"
+decided: "1935-04-22"
+citations: ["117 Pa. Super. 562"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Bald-rig®, Stadtpeld, Parker, James and Rhodes, JJ."]
+parties: ["Industrial Loan Society, Inc. v. Reed et al. (Downin, Appellant)."]
+source_url: "https://static.case.law/pa-super/117/cases/0562-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 981723
+cites_cases: ["100 Pa. Superior Ct. 69", "114 Pa. Superior Ct. 94", "117 Pa. Superior Ct. 559", "128 Pa. 100", "147 Pa. 466", "173 A. 704", "178 A. 528", "27 Pa. Superior Ct. 133", "4 Pa. Superior Ct. 196", "98 Pa. Superior Ct. 545"]
+---
+
+# Industrial Loan Society, Inc. v. Reed
+
+## Majority (Rhodes, J.,)
+
+Opinion by
+Rhodes, J.,
+This is an action in replevin. On March 12, 1934, Norman H. Downin, the intervening defendant, levied upon the property of Dorothy L. Reed and ¥m, M. Reed, the defendants, who were the tenants of the intervening defendant, for nonpayment of rent in the amount of $100. On March 26,1934, the Industrial Loan Society, Inc., the plaintiff, obtained a writ of replevin and seized the property therein described which had been previously levied upon under the landlord’s warrant of the intervening defendant. Norman H. Downin, the landlord, was permitted to intervene in the replevin action without objection.
+The plaintiff filed its declaration setting forth its title and right of possession to the property in question, based on a loan and a sale of the goods as security therefor and a default in repayment of the loan by the tenants. The intervening defendant then filed an affidavit of defense, which denied that the title and right of possession to the goods were in the plaintiff, and further stated “that the intervenor was the landlord of the said defendants, Dorothy L. Reed and William M. Reed, her husband, and the said tenants owed rent, namely, $100, under the lease to the landlord who issued a warrant of distress causing the constable to distrain the said itemized personal property March 12, 1934, then and there on the rented premises and while said goods were thus under distraint and in the custody of the law, the plaintiff wrongfully issued his said writ of replevin causing the sheriff wrongfully to take said property and remove the same and thus unjustly deprive the landlord, the intervenor in this case, of his rights as landlord under the law and of the rent moneys justly due and owing.”
+On August 31, 1934, the plaintiff filed a motion for judgment for want of a sufficient affidavit of defense. The lower court sustained the motion for judgment for want of a sufficient affidavit of defense and entered judgment for the plaintiff. The intervening defendant appealed.
+The question involved is the sufficiency of the affidavit of defense to prevent judgment.
+Plaintiff moved for judgment and questioned the affidavit of defense on two grounds: (1) that it failed to aver a proper and legal distraint; and (2) that defendant alleged no facts sustaining his contention that the property replevied was in custody of the law at the time it was replevied and therefore wrongfully taken by the plaintiff. It is well settled that property on which a distraint has been made is not in custodia legis to such an extent that it cannot be levied upon and taken by virtue of a writ issuing out of a court of record: Sookiasian v. Swift & Co., 100 Pa. Superior Ct. 69, 73. Defendant’s contention in this regard was therefore without merit.
+The court below took the position that the affidavit of defense was insufficient because it failed to show that any appraisement had been made, although twelve days intervened between the time of the distress and the issuing of the writ of replevin, and that therefore the distraint proceeding was incomplete and of no force and effect. The lower court seems to misconceive the purpose and scope of the Act of March 21, 1772, 1 Sm. L. 370, Sec. 1, 68 PS 291. This statute regulates the proceeding in distress and sets forth such steps as must be taken to permit a sale of the property of the tenant by the landlord for the rent in default. It is necessary to adhere strictly to these statutory requirements before a valid sale can be made of the tenant’s property, and if this is not done the landlord becomes a trespasser as to the goods dis-trained upon and may be sued as such: Snyder v. Boring, 4 Pa. Superior Ct. 196; Ramsdell v. Seybert, 27 Pa. Superior Ct. 133; Davis v. Davis, 128 Pa. 100; Esterly Machine Co. v. Spencer, 147 Pa. 466; Hemphill Co. v. Davis Knitting Co., 114 Pa. Superior Ct. 94, 173 A. 704. But the instant case does not involve a sale of the distrained goods.
+Where, as in this case, the goods are replevied and no sale takes place, the provisions of the Act of 1772 requiring notice of distress and an appraisement of the goods after a five day interval, etc., are not relevant, and a failure on the landlord’s part to have followed them will not invalidate the landlord’s lien, once acquired: Potts Dept. Store v. Lutz, 98 Pa. Superior Ct. 545; Greenberg v. Goldman Stores, 117 Pa. Superior Ct. 559, 178 A. 528. The plaintiff in the replevin action can question the landlord’s right to distrain at all by claiming that there was no rent due, etc.; but he cannot question the original distraint by alleging a failure to comply with the provisions of the Act of 1772, which relate only to sales under a distress for rent, where he replevies the goods before a sale takes place. Where there has been a valid distraint by the landlord for non payment of rent, the lien thus acquired continues where the goods had been replevied before sale even though there has been no appraisement by the landlord of the distrained goods.
+The affidavit of defense was not insufficient because it failed to aver an appraisement or the giving of a notice of the distress, since neither of these was necessary under the circumstances. The averment of the prior distraint was sufficient to prevent judgment, and the lower court erred in holding otherwise.
+Judgment is reversed with a procedendo.
