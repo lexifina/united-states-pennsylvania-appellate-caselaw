@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 24"
+decided: "1896-07-16"
+citations: ["2 Pa. Super. 278"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Willard, Wickham, Reeder, Orlady and Smith, JJ."]
+parties: ["John B. Ruffner v. Hugh A. Hooks, Appellant."]
+source_url: "https://static.case.law/pa-super/2/cases/0278-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 270679
+cites_cases: ["10 Watts, 118", "103 Pa. 151", "108 Pa. 142", "111 Pa. 619", "111 Pa. 622", "136 Pa. 382", "147 Pa. 594", "151 Pa. 86", "151 Pa. 90", "151 Pa. 96", "155 Pa. 200", "156 Pa. 408", "159 Pa. 365", "159 Pa. 374", "172 Pa. 349", "33 Pa. 501", "63 Pa. 234", "63 Pa. 239", "63 Pa. 240", "63 Pa. 241", "94 Pa 329", "99 Pa. 63", "99 Pa. 69"]
+---
+
+# Ruffner v. Hooks
+
+## Majority (Smith, J.,)
+
+Opinion by
+Smith, J.,
+This action of trespass was brought to recover damages from the defendant on the ground that he instigated a malicious prosecution against the plaintiff. In order to maintain the action it must appear that the prosecution was instituted without probable cause and that the defendant was actuated by malice. These are essential and must coexist. Probable cause is defined to be: “Areasonable ground of suspicion, supported by circumstances sufficient to warrant an ordinarily prudent man in believing the party is guilty of the offense.” Sterbett, C. J., in McClafferty v. Philp, 151 Pa. 90. Other definitions are given in the books, and though differently’worded are substantially the same as the above. The essential element is a reasonable ground for belief of guilt.
+“ Malice ” has been defined to be: “ The doing a wrongful act intentionally without just cause or excuse: ” 14 Am. & Eng. Ency. of Law, 5. And considered as an element in a malicious prosecution it is said: “ By the term ‘ malice ’ is meant any indirect motive of wrong. It may be any motive other than that of simply instituting a prosecution for the purpose of bunging a person to justice: ” 14 Am. & Eng. Ency. of Law, 22. It is the evil intention with which an act is done.
+That the motive of the defendant in this case in procuring the prosecution of the plaintiff was purely malicious can hardly be gainsaid; that he was at all prompted with a desire to vindicate the law or promote the public welfare, was not pretended ; and if the decision of the case depended upon the question of malice simply, there would be no hesitation about its disposition.
+The facts of the case, as disclosed by the testimony, are remarkable, concerning both the plaintiff and the defendant.
+(The court here recited the facts as set out in the statement of facts.)
+From all the testimony the fact that the plaintiff caused the death of Rosensteel might fairly be found and a conviction therefor sustained. It is not necessary however for us to pass upon that in this case. Our inquiry is whether probable cause for the prosecution was disproved by the plaintiff. The defendant’s belief of the plaintiff’s guilt is not denied, and upon an examination of the evidence we find nothing which would justify its denial. According to the testimony he was told by the father of Rosensteel before the prosecution was begun that the plaintiff killed young Rosensteel, and the defendant was evidently acquainted with the facts bearing most strongly against the plaintiff, before the latter’s arrest. There is neither evidence nor pretense that the defendant sought to coerce the plaintiff into paying money, or to yield any right or privilege, through the prosecution; his sole motive was one of revenge, and therefore the cases holding that, where prosecutions have been commenced for the purpose of gain, the plaintiff in an action for damages therefor need not prove malice or want of probable cause, do not apply here.
+The discharge or acquittal of the plaintiff ordinarily casts the burden of proof on the defendant to show that there was' probable cause. But it is well settled that this rule has no application in cases where the plaintiff’s own testimony shows its existence. Unfortunately for the plaintiff, in this case his own testimony not only shows' probable but actual cause for a prosecution against him. He admits that young Rosensteel was killed by being struck with a stone, that he threw stones at Rosensteel, one of which may have struck and killed him; and viewing his testimony as a whole, it cannot be said, as matter of law, that the killing was justifiable or excusable. By his own testimony he may have been guilty of manslaughter, and if the testimony of the other witnesses be true, it may have been murder. Under this state of facts the law will require no person to pay damages for instituting a prosecution, no matter how malicious the motive prompting it. “ If this were not so, the evil spirit of the prosecution might redeem the evil act of the criminal,” and grave crimes oftengo unpunished. It has beenrepeatedly decided that if there be reasonable or probable cause no malice, however distinctlyproved, will make the defendant liable: Dietz v. Langfitt, 63 Pa. 234; McCarthy v. De Armit, 99 Pa. 63; Gilliford v. Windel, 108 Pa. 142; Emerson v. Cochran, 111 Pa. 619; McCafferty v. Philp, 151 Pa. 86. Furthermore it has been said by our Supreme Court that all homicides are presumably unlawful, and therefore the fact that one has been committed is of itself probable cause for proceeding against the perpetrator, to ascertain whether there was guilt in it or not: Dietz v. Langfitt, 63 Pa. 239. And where the plaintiff’s own testimony shows probable cause it is the duty of the court to dispose of the case: Bernar v. Dunlap, 94 Pa. 329; McCarthy v. De Armit, 99 Pa. 63; Sutton v. Anderson, 103 Pa. 151; Emerson v. Cochran, 111 Pa. 619; Sloan v. Schomaker, 136 Pa. 382; Cooper v. Hart & Co., 147 Pa. 594; Nachtman v. Hammer, 155 Pa. 200; Sleimling v. Bower, 156 Pa. 408; Mitchell v. Logan, 172 Pa. 349.
+However reprehensible the motive of the defendant may have been in this case, the plaintiff’s regrettable connection with the transaction that caused the death of Shields A. Rosensteel, and the defendant’s knowledge of it before instituting the prosecution, bars a recovery against him.
+As these views are decisive of the case on its merits, it is unnecessary to consider the assignments of error specifically.
+The judgment is reversed.
