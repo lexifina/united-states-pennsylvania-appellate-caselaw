@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 75"
+decided: "1951-07-19"
+citations: ["169 Pa. Super. 120"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, Ross, Arnold and Gunther, JJ."]
+parties: ["Turner, Appellant, v. Turner."]
+source_url: "https://static.case.law/pa-super/169/cases/0120-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 473036
+cites_cases: ["105 A. 83", "12 A. 2d 23", "167 Pa. Superior Ct. 120", "262 Pa. 192", "338 Pa. 385", "351 Pa. 413", "41 A. 2d 559", "74 A. 2d 652"]
+---
+
+# Turner v. Turner
+
+## Majority (Dithrich, J.,)
+
+Opinion by
+Dithrich, J.,
+Plaintiff-appellant sued in assumpsit to recover from her husband certain sums of money which she had paid to third persons for repairs and improvements to premises owned by him.
+Preliminary objections to her complaint were sustained with leave to plaintiff to' file an amended complaint. Preliminary objections to the amended complaint were likewise sustained and judgment entered for defendant on the pleadings. The amended complaint averred, in substance, that prior to their marriage appellee promised appellant that, if after their marriage she would live with him in the aforesaid premises, he would make certain necessary improvements and repairs to make the dwelling house habitable and would place the title in their joint names as tenants by tbe entireties. After she had paid the third persons the sum of $1166.30, at appellee’s request, for the necessary repairs and improvements out of her own funds acquired prior to the marriage (this was a second marriage for both parties), he refused to convey the premises to himself and wife as tenants by the entireties, but promised to reimburse appellant for the money which she had expended for repairs and improvements, as aforesaid.
+The preliminary objections which the court sustained were as follows: “1. The facts alleged in the Amended Complaint do not set forth a contract between plaintiff and defendant in that there is no consideration averred. 2. The Complaint is void on its face since the wife does not have the capacity to sue her husband.” We will first consider objection No. 2.
+Appellant bases her right to recover not only on the Act of May 1, 1913, P. L. 146, 48 PS §114, but also on the Act of June 8, 1893, P. L. 344, as amended by the Act of March 27, 1913, P. L. 14, 48 PS §111.
+Appellee admits “that if the money in question had been paid directly to the husband by the wife under promise to repay . . . the present suit would be valid,” but contends that “a wife may not sue to recover property which the husband never had in his possession.”
+In Ertel v. McCloskey, 167 Pa. Superior Ct. 120, 74 A. 2d 652, we held that a wife who had been deserted by her husband had a right to sue him under the Act of May 1, 1913, P. L. 146, for rent owed by him and paid by her to a third person. Section 1 of the Act provides in part that “any wife, who has been deserted, abandoned, or driven from Tier home by her husband, may sue her husband civilly . . . upon any cause of action now existing or hereafter accruing, with like effect as if such wifé were a feme sole; . . .” (Emphasis added.) Mrs. McCloskey had taken, in the name of Philip Ertel, her brother, an assignment by the Drake Hotel in Philadelphia of its claim against her husband. In reversing the court below, which had refused recovery, we said, speaking through Reno, J. (p. 127) : “Before the divorce, Mrs. McCloskey could have taken the assignment in her own name and sued him upon it. Act of May 1, 1913, P. L. 146, §1, 48 P.S. §114. The divorce did not bar her claim. [Citing cases.] Or, without taking an assignment she could have sued him, before and after the divorce, for restitution, since she paid the Drake bill to protect her own property. Restatement, Restitution, §103; [citing cases].”
+Here appellant, at appellee’s request, “paid . . . out of her own separate funds . . ., which she accumulated prior to her marriage” to appellee, a sum for the repairs and improvements to his property. In Restatement, Restitution, §107(2), it is stated: “In the absence of circumstances indicating otherwise, it is inferred that a person who requests another to perform services for him . . . thereby bargains to pay therefor.” In Comment on Subsection (2) we find the following: “. . . it is the ordinary understanding that a person who asks another to do something for him . . . will pay for it unless the circumstances under which the request is made indicate otherwise.” On page 12, under the chapter heading “Introductory Matters,” in comment “b. What constitutes a benefit,” it is stated: “A person confers a benefit upon another . . . not only where he adds to the property of another, but also where he saves the other from expense or loss.” (Emphasis added.) Here the wife, unquestionably, saved her husband from the expense of making the repairs and improvements to his separate property by paying for them out of her own separate property and at his request.
+With reference to the Act of June 8,1893, P. L. 344, as amended, supra, commonly referred to as the Married Woman’s Property Act, the Supreme Court in Morrish v. Morrish, 262 Pa. 192, 105 A. 83, said (p. 198) : “. . . when the purpose of the act ... is considered, it is apparent the term ‘separate property/ is riot used therein in any technical, but in a broad and comprehensive, sense.” Quoted with approval in Geary v. Geary, 338 Pa. 385, 389, 12 A. 2d 23.
+In Ramsey v. Ramsey, 351 Pa. 413, 41 A. 2d 559, where a wife had filed a bill in equity seeking to compel her husband to return to her a certain sum of money “which she claimed she had ‘delivered to the defendant, her husband, for safekeeping with the distinct understanding that the same would be returned to her upon the successful termination of the operation’ she then contemplated undergoing,” the Court in reversing the court below, which had dismissed the bill on the ground that appellant had a full, complete and adequate remedy at law, said (p. 414) : “Under the facts pleaded the beneficiary of this trust could maintain an action at law as for a debt, but as we hereinafter point out, she is not bound to do so.”
+Judgment reversed and record remitted with directions to the court below to require the defendant to answer on the merits.
