@@ -1,0 +1,48 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 79 T.D. 1984"
+decided: "1985-12-13"
+citations: ["93 Pa. Commw. 468"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Craig and Palladino and Senior Judge Kalish, ¡sitting as a ¡panel of ■three."]
+parties: ["Paxton Hollow Estates, Limited, and United States Fidelity & Guaranty Company, Appellants v. Lower Paxton Township, Appellee."]
+source_url: "https://static.case.law/pa-commw/93/cases/0468-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1341833
+cites_cases: ["33 Pa. Commonwealth Ct. 230", "381 A.2d 497", "403 A.2d 192", "406 A.2d 832", "44 Pa. Commonwealth Ct. 72", "45 Pa. Commonwealth Ct. 532", "464 A.2d 625", "481 A.2d 692", "76 Pa. Commonwealth Ct. 488", "85 Pa. Commonwealth Ct. 104"]
+---
+
+# Paxton Hollow Estates, Ltd. v. Lower Paxton Township
+
+## Majority (Judge Padladino,)
+
+Opinion by
+Judge Padladino,
+Paxton Hollow Estates, 'Limited (Appellant) and United States FideEty & Guaranty Company (Guaranty Company) appeal from a decision of the Court of Common Pleas of Dauphin County (trial court) which denied their motions for judgment non obstante veredicto (n.o.v.) ¡and for new trial. For the reasons set forth below, we affirm.
+Paxton Hollow Estates constructed an ¡apartment complex in Lower Paxton Township (Township), Dauphin County, pursuant to an agreement with the Township. The agreement required Appellant to provide improvements to ¡streets, drains, sidewalks, and related projects intended for dedication for public use •in the apartment complex. The Guaranty Company had underwritten a bond for $152,¡600.00 ¡guaranteeing performance ¡of the agreement in conformity with an ¡approved plan. The contract ¡and bond agreement (agreement) was executed on March 25,1975.
+In September of 1978, Appellant sought acceptance by the Township of the dedicated improvements. The Township’s ¡engineer inspected and rejected the improvements on September 26, 1978, and on the foEowing ¡day prepared a memo Esting twenty-four deficiencies. On October 26,1978, the Township, its ¡engineer and AppeEant met to discuss 'the deficiencies in the improvements. Several meetings took place over the course of the next two years.
+In. July of 1979, to .protect its interests, the Township filed .suit in assumpsit against Appellant and the Guaranty 'Company. The complaint averred that Appellant had failed to complete the improvements as required by the agreement and demanded judgment against Appellant 'and the Guaranty .Company in the amount of $152,600.00, the full 'amount of 'the bond.
+Following a jury trial, a verdict was issued in favor of the Township in the amount of $98,800.00. Appellant filed motions for judgment n.o.v. and for new trial. The main contention presented by Appellant was 'that the Township had the burden of proving that it had complied with Section 510 of the Muncipalities Planning Code .(.MPiC) in its action in assumpsit on 'the agreement, and had failed to carry that burden. Section 510 governs the procedure to be used by a developer to obtain release from 'an improvement bond. The provision relied upon by Appellant is the deemed approval subsection, Section 510(c). The pertinent provisions of Section 510 are as follows:
+(a) When the developer has completed all of the necessary and appropriate improvements, .the developer shall notify the municipal governing body, in writing, by certified or registered •mail, of the completion of the aforesaid improvements and shall send a copy thereof to the municipal engineer. The municipal governing-body shall, within ten days 'after receipt of .such notice, direct and authorize the municipal engineer to inspect all of 'the .aforesaid improvements. The municipal engineer shall, thereupon, file a report, in writing, with the municipal governing body, and shall promptly mail a copy of the same to the developer by certified or registered mail. The report shall be made and mailed within thirty days after receipt by the. municipal engineer of the aforesaid authorization from the governing body; ¡said report shall be detailed and shall indicate approval ior rejection of ¡said improvements, either in whole or in part, and if .said improvements, or ¡any portion thereof, .shall not be approved or ¡shall be rejected by the municipal engineer, .said report shall contain a .statement of reasons for .such nonapproval o.r rejection.
+(h) The municipal .governing body shall notify the develo,per, in writing by certified or registered mail of the action of said municipal governing body with relation thereto.
+(c) If the municipal governing ¡body or the municipal engineer fails to comply with the time limitation provisions (contained herein, all improvements will be deemed to have been approved and the developer shall be released from all liability, pursuant to its performance guaranty bond or ¡other security agreement. (Emphasis added.)
+Appellant contended: 1) that the Township had the burden of proving ¡compliance with this ¡section; and 2) that the Township failed to comply with these provisions by not timely mailing the engineer’s report to it, thus entitling Appellant to a deemed approval of the improvements, and release from liability.
+The trial court held that Appellant’s failure to plead the defense waived it pursuant to Pa. R.C.P. 1032. Thus the motion for judgment n.o.v. was denied.
+Before this Court, Appellant 'argues that the improvements must foe deemed to have been accepted by the Township because the evidence presented at trial does not establish compliance with Section 510’s requirements. It is Appellant’is piosition that the burden under Section 510 rests ,on the Township. We disagree.
+The MPC contains .several “deeming” provisions. See §908(9), 53 P.S. §10908(9), deemed approval of zoning application if no written decision by zoning hearing board within forty days; §508, 53 P.C. §10508, deemed approval of 'subdivision plats if decision not rendered within ninety days after application is filed.
+This Court has held that under ¡Sections 908(a) and 508 of the MPC, mandamus is an appropriate method for obtaining recognition of an asserted deemed approval. See Bucks County Housing Development Corporation v. Zoning Hearing Board of the Township of Plumstead, 45 Pa. Commonwealth Ct. 532, 406 A.2d 832 (1979); Wilson of Wallingford, Inc. v. Township of Nether Providence, 85 Pa. Commonwealth Ct. 104, 481 A.2d 692 (1984). The burden of proof is placed upon the party .seeking to benefit from the deeming. We see no reason to proceed differently under Section 510. Our case law supports the use of mandamus under Section 510. See Mertz v. Lakatos, 33 Pa. Commonwealth Ct. 230, 381 A.2d 497 (1978). Therefore, the assertion by Appellant that it ,wias entitled to a deemed approval ¡of 'the improvements was an affirmative defense, not part of the 'Township’s cause of action on the agreement. Appellant ¡had the burden of pleading .and proving ;an entitlement to deemed approval, which it did not do. Accordingly, the trial court properly denied the judgment n.o.v. because the defense had been waived.
+Appellant’s argument in support of the Motion for New Trial is based on the trial court’s .charge to the jury. The trial court instructed the jury that if notice of the deficiencies was actually received by Appellant, then the fact that it was not sent by registered or certified mail as required by Section 510 would not release Appellant from his responsibilities. Because we hold that Section 510 was waived as a defense, we need not address Appellant’s contention that such instruction was erroneous.
+'Similarly it was not error for the trial court sua sponte to refuse to allow the defense. Appellant’s failure to plead Section 510 as an .affirmative defense precluded its consideration.
+Our examination of the record has revealed substantial evidence to support the verdict of the jury. Having found no error of law, the trial court’s decision denying the motions for judgment n.o.v. and new trial is affirmed.
+Order
+And Now, December 13, 1985, the decision of the Court of Common Pleas of Dauphin County at No. 3211iS-1979, dated February 23, 1983, is affirmed.
+Act of July 31, 1968, P.L. 805, as amended, 53 P.S. §10510.
+Pa. R.C.P. 1032 states:
+A party waives all defenses and objections which he does not present either by preliminary objection, answer or reply, except
+(1) that the defense of failure to state a claim upon which relief can .be granted, the defense of failure to join an indispensable party, and the objection of failure to state a legal defense to a claim may also be made by a later pleading, if one is permitted, or by motion for judgment on the pleadings or at the trial oh the merits, and
+(■2) that whenever it appears by suggestion of the parties or otherwise that the court lacks jurisdiction of the subject matter or that there has been a failure to join an indispensable party, the court shall dismiss the action.
+Our scope of review of a decision of a trial court denying motions for judgment n.o.v. or for hew trial is to determine whether the trial court abused its discretion or committed an error of law. City of Pittsburgh v. Readie, 44 Pa. Commonwealth Ct. 72, 403 A.2d 192 (1979).
+See also Croft v. Board of Supervisors of Middletown Township, 76 Pa. Commonwealth Ct. 488, 464 A.2d 625 (1983) (failure to comply with MFC’s provisions gives applicant right of relief through mandamus.)
+The trial court charged the jury following Appellant’s closing to the jury in which the Section 510 issue was apparently discussed.
