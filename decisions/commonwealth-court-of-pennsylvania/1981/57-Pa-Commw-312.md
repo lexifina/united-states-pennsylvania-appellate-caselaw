@@ -1,0 +1,50 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 191 C.D. 1980"
+decided: "1981-03-05"
+citations: ["57 Pa. Commw. 312"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Wilkinson, Jr., Blatt and Williams, Jr., sitting as a panel of three."]
+parties: ["Charles K. Gorby, M.D., Petitioner v. Commonwealth of Pennsylvania, Department of Public Welfare, Haverford State Hospital, Respondent."]
+source_url: "https://static.case.law/pa-commw/57/cases/0312-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1917495
+cites_cases: ["14 Pa. Commonwealth Ct. 339", "26 Pa. Commonwealth Ct. 550", "293 A.2d 147", "306 A.2d 419", "322 A.2d 133", "364 A.2d 967", "39 Pa. Commonwealth Ct. 194", "395 A.2d 304", "4 Pa. Code §101.21", "408 A.2d 893", "47 Pa. Commonwealth Ct. 588", "6 Pa. Commonwealth Ct. 82", "9 Pa. Commonwealth Ct. 437"]
+---
+
+# Gorby v. Commonwealth
+
+## Majority (Judge Wilkinson, Jr.,)
+
+Opinion by
+Judge Wilkinson, Jr.,
+This is an appeal from an adjudication and order of the Pennsylvania State Civil Service Commission (Commission) sustaining in part and reversing in part the decision of the Department of Public Welfare (Department) to twice suspend and then to remove Petitioner from his position as Physician HI, regular status and Assistant Hospital Director for Medical Services at Haverford State Hospital (Hospital).
+The appeal arose out of three separate disciplinary actions initiated by the appointing authority’s representative, the Hospital Director (Director). By letter dated August 30, 1978 Petitioner was suspended for three days effective September 6, 1978 for insubordination in failing to comply with a directive to provide the Director with a plan to implement unit rounds by staff physicians under Petitioner’s supervision. By letter dated October 30, 1978, Petitioner was suspended for five days effective November 1, 1978 for the same reason. By letter dated December 1, 1978, Petitioner was removed from his position effective November 30, 1978 for insubordination and abuse of sick time.
+Upon appeal to the Commission and after four days of hearings, an order was issued which upheld the two suspensions, but which overruled the removal of Petitioner and ordered his reinstatement. The Commission declined to award back pay. This appeal followed.
+If the Commission’s findings are supported by evidence sufficient to convince a reasonable mind to a fair degree of certainty, we must accept the findings and we may not substitute our own judgment. McClelland v. State Civil Service Commission, 14 Pa. Commonwealth Ct. 339, 322 A.2d 133 (1974).
+Petitioner’s initial argument is that the Commission’s finding of “good cause” for the suspensions pursuant to Section 803 of the Civil Service Act (Act), Act of August 5, 1941, P.L. 752, as amended, 71 P.S. §741.803 is not supported by substantial evidence.
+The Commission made 45 findings which we have carefully reviewed and which we conclude are supported by the evidence adduced at the hearings. Moreover, we believe that these findings adequately substantiate the conclusion that Petitioner was suspended for “good cause. ’ ’
+The record in this case reflects an extended conflict between two strong-willed administrators who differ with respect to the administration of medical services and the management of the medical staff at the Hospital.
+It appears that on February 14, 1977, the Director requested Petitioner’s opinion on the institution of hospital-type rounds to be made by the doctors under Petitioner’s supervision. The proposal would involve the doctors making visits to the various units in the Hospital rather than having the patients come directly to the clinics for medical treatment.
+On March 14,1977 Petitioner provided the Director with an outline of the procedures and requirements of such a program. In this memorandum, Petitioner took the view that “without the necessary increase in personnel the department may not undertake such a program without substantially compromising the care being offered our patients. ...” The Director did not respond to this memorandum.
+From late January until early February 1978 a medicare study was conducted at the facility. The study concluded that the nursing staff was spending an excessive amount of time escorting patients to the clinic and recommended the unit-rounds.
+Thereafter, the Director repeatedly instructed Petitioner to prepare and submit a plan for the institution of these unit-rounds. Petitioner, in response, continually asserted the inability of his department to make such rounds due to a shortage of physicians. No plan was ever submitted.
+On July 31, 1978, the Director limited his request to a plan for doctor’s rounds for one floor of a building in the Hospital. Again, no plan was forthcoming and the suspensions followed.
+Section 101.21(a) of the Rules of the Civil Service Commission, 4 Pa. Code §101.21(a) provides: “(a) Good cause for suspension shall be a just cause, suchas: (1) insubordination____”
+It is clear to us that Petitioner’s well documented failure to submit the requested plan constitutes insubordination, as defined, and hence “just cause ’ ’ for the suspensions. Failure to follow explicit instructions unquestionably falls within the criteria discussed above in Corder v. Civil Service Commission, supra. Gonzales v. Department of Public Welfare, 47 Pa. Commonwealth Ct. 588, 408 A.2d 893 (1979); Armstrong v. Governor’s Council on Drug and Alcohol Abuse, 26 Pa. Commonwealth Ct. 550, 364 A.2d 967 (1976); Mettee v. Civil Service Commission, 6 Pa. Commonwealth Ct. 82, 293 A.2d 147 (1972). The findings necessary to support the adjudication are thus supported by substantial evidence.
+Petitioner contends that his conduct had merit and did not evidence a willful refusal to carry out the directives. Petitioner explains that no plan, was submitted (1) because his department was unable to carry-out a unit-round program, and (2) because no useful plan could be developed given the personnel and equipment constraints under which his staff was operating.
+These explanations, however, cannot be construed to excuse Petitioner’s conduct. The instructions were not to implement a plan, but to prepare a plan. The Director was under no duty to explain what action would be taken, if any, upon receipt of the plan. Further, it is solely within the province of the Director to determine if a given plan is useful or feasible.
+In fact, whether such a plan could have ever been implemented is not at issue. Whether the overall health of the patients would have ultimately suffered if such a plan was utilized is not at issue. Petitioner herein has simply failed to comply with a directive that is both reasonable and explicit. We believe that the Director was entitled to expect that his assistants would cooperate and that they would obey his reasonable instructions. Gonzales v. Department of Public Welfare, supra.
+We will deal briefly with Petitioner’s remaining arguments. Petitioner claims that the Director did not comply with Department “regulations” regarding supervision and discipline. Petitioner has reproduced these provisions and it is clear that many of the techniques and procedures outlined therein have not been followed by the Director. The Commission in fact found that the Director’s management techniques unnecessarily exacerbated the situation. Nevertheless, the reproduced manual sections specifically state that the procedures described therein are “meant as guidelines only” and cannot therefore serve to support a reversal of the Commission’s order.
+Petitioner also claims that his due process rights were violated in that he was not granted a hearing before he was suspended. Such a claim is devoid of merit. Williams v. Civil Service Commission, 9 Pa. Commonwealth Ct. 437, 306 A.2d 419 (1973).
+Finally, Petitioner argues that the Commission improperly denied back pay. This contention is similarly without merit. The Commission has discretion to find that the facts of a case do not justify dismissal, yet warrant denial of back pay. Losieniecki v. Board of Probation and Parole, 39 Pa. Commonwealth Ct. 194, 395 A.2d 304 (1978). There has been no abuse of that discretion in this ease.
+Accordingly, we will enter the following
+Order
+And Now, March 5, 1981, the order of the State Civil Service Commission, dated January 9, 1980 and docketed at Appeal No. 2571 is hereby affirmed.
+Section 803 of the Act, 71 P.S. §741.803 provides in pertinent part:
+An appointing authority may for good cause suspend without pay for disciplinary purposes an employe holding a position in the classified service. Such suspension shall not exceed in the aggregate thirty working days in one calendar year. . . . What shall constitute good cause for suspension may be stated in the rules. (Emphasis added.)
+Beginning in June 1978 the Director sent seven items of correspondence to Petitioner in this regard. Petitioner answered with nine such items dealing with the subject. The Petitioner requested to meet with the Director to discuss the matter and asked that specific instructions be provided. These requests were denied.
+It is argued that finding of fact No. 45 — “The evidence of appellant is the credible evidence in this appeal” — requires that we review only the testimony and evidence offered by Petitioner. This finding is not inconsistent with a finding of insubordination since such a conclusion can, in fact, be drawn from Petitioner’s evidence alone.
+Petitioner also claims that conclusion of law No. 3 — “The appointing authority violated Section 905.1 of the [Act, added by Section 25 of the Act of August 27, 1963, P.L. 1257, 71 P.S. §741.905a] . . . by discriminating against appellant.” — precludes us from affirming the order with regard to the suspensions. We disagree and find that this conclusion of law applied to the removal action only, which the Commission overruled.
