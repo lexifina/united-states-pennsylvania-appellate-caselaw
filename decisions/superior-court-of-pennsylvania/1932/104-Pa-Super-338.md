@@ -1,0 +1,39 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals Nos. 421 and 423"
+decided: "1932-03-05"
+citations: ["104 Pa. Super. 338"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Teexler, P. J., Keller, Linn, Gawthrop, Cunningham, Baldrige and Stadteeld, JJ."]
+parties: ["Clifford v. City of Philadelphia et al., Appellants."]
+source_url: "https://static.case.law/pa-super/104/cases/0338-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 698455
+cites_cases: ["167 Pa. 41", "207 Pa. 431", "213 Pa. 573", "230 Pa. 251", "230 Pa. 295", "267 Pa. 183", "56 Pa. Superior Ct. 651"]
+---
+
+# Clifford v. City of Philadelphia
+
+## Majority (Stadtfeld, J.,)
+
+Opinion by
+Stadtfeld, J.,
+This was an action of trespass brought by John Clifford against the City of Philadelphia, to recover damages for personal injuries alleged to have been sustained as a result of the defective condition of a sidewalk in front of the premises at No. 2503 Waverly Street in said city. The city on a sci. fa. brought in Benjamin Dintenfass as additional defendant, averring that he owned and controlled the property, and was primarily responsible. An answer was filed by the additional defendant, denying that he owned the property, and averring that he owned the property together with one Harry Barag as tenants in common, and that he had no control over the property as it had been leased to a tenant by the name of Martha Drummond, who was in sole possession and control of the property. The jury returned a verdict in the amount of $2,000 against the City of Philadelphia, and a verdict in the same amount in favor of the city against Benjamin Dintenfass, the additional defendant. Both the defendant and the added defendant filed motions for judgment non obstante veredicto, and from the action of tbe court in overruling said motions these appeals are taken.
+For the purpose of this appeal, the verdict establishes the fact that there was a defect in the pavement on the northerly side of Waverly Street in front of No. 2503, and that the defect consisted of a hole nine inches long and twelve inches wide and about five inches deep, filled with water; also that defendant had notice thereof. The principal question for this court on the appeals is whether the plaintiff was negligent in stepping into the hole or puddle of water1 in broad daylight with nothing, it is alleged, to obstruct his view.
+The plaintiff testified that the sidewalk was covered with water, and that he did not see the hole in the sidewalk for this reason before stepping into it. The defendant also relied upon the fact that the plaintiff had signed several statements contradicting his testimony at this trial, and also a statement made by the plaintiff at a prior trial.
+The question of credibility was one properly submitted to the jury, and they have found in favor of plaintiff.
+When on part of the testimony of a witness a plaintiff is plainly entitled to go to a jury, while on the other part of it he plainly is not, or when the different parts' of the testimony of a witness are apparently inconsistent, leaving it uncertain just what his recollection of the facts respecting which he testifies is, it is the province of the jury to reconcile the conflicting statements, whether of the same or different witnesses, or to draw the line between them and say which shall prevail: Danko v. Pittsburg Railways Company, 230 Pa. 295.
+The city defendant relies on the ease of Brown v. Philadelphia, 267 Pa. 183. In that case, there was a hole about one yard long and half yard wide, and six inches deep. Between three and four o’clock in an afternoon in December, the plaintiff was walking along the pavement looking ahead of her. She saw the pool before stepping into it, but misjudged its depth. There appeared to be other parts, of the pavement upon which she could have walked in safety, and it was held that in stepping into the pool, she tested an obvious danger and could not recover.
+In the instant case, according to plaintiff’s testimony, the entire pavement was covered with water, rendering the danger invisible.
+Neither the city nor Dintenfass, the additional defendant, offered any oral testimony in contradiction of the plaintiff or his witnesses.
+As was said in Steck v. City of Allegheny, 213 Pa. 573, a person is not guilty of contributory negligence in using a road known by him to be defective, unless the danger is so apparent that in the use of ordinary care he ought not to have undertaken its passage. To the same effect see Patterson v. Philadelphia, 56 Pa. Superior Ct. 651, 654.
+The request for binding instructions was therefore properly refused, and there was no error in overruling the motion for judgment non obstante veredicto.
+Benjamin Dintenfass, the additional defendant, admitted that he was a joint owner of the property at the time of the accident. It was, therefore, incumbent upon him to show that he was out of possession and control of the property at the time the accident occured. In his answer he averred that Martha Drummond was lessee thereof and in sole possession and control.
+The lease was not produced at the trial. He testified that he was not able to find it, and that it was probably thrown out or destroyed. It was prepared at his office, but he was not personally familiar with its contents. He never saw it after it was made out. Harry Barag, the co-owner with Benjamin Dintenfass of the property in question, testified that the property was rented, hut did not remember the name of the tenant, but thought it was Drummond. That it had been rented about a year before the accident. He testified that he did not try to find this particular lease, and did not know exactly how long Drummond was in possession of the premises prior to January, 1927, the date of the accident.
+After having so testified he was again asked how long prior to January 23, 1927, Drummond was in possession of these premises. An objection to this question was sustained, and this ruling is made the basis of an assignment of error ex parte the additional defendant. A similar question having already been answered, the particular question was a mere repetition, and we see no error in the ruling of the trial judge.
+The plaintiff’s witnesses testified that the hole had existed in the pavement for* a year or more before the accident. There was no testimony as to when the property had been leased, or whether it had been leased to a tenant a year, or more than a year before the accident occurred. If the property was leased to the tenant with this defect in the pavement, the owner would be liable for any injury that might occur to a third party. The testimony as presented raised a question of fact for the jury, and the same was submitted in a fair and comprehensive charge. The question as to when the sidewalk was in a dangerous condition was one for the jury under all the evidence.
+As stated in Trickett on Landlord and Tenant (2nd Ed.): “So too the landlord will be held liable where he leases the premises in a defective condition knowing that the premises will be used for public purposes. He is responsible notwithstanding the fact that the lease contains a covenant by the lessee that he will repair.”
+When a landlord places a tenant in possession of premises on which there is a defective sidewalk, the mere fact of the tenant’s occupancy when an injury occurs will not relieve the landlord: Reading City v. Reiner, 167 Pa. 41; Kirchner v. Smith, 207 Pa. 431; McLaughlin v. Kelly, 230 Pa. 251.
+We find no merit in any of the assignments of error, and the same are overruled, and the judgment in each of the appeals is affirmed. Costs to be paid by the respective appellants.
