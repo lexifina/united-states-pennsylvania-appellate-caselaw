@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 4"
+decided: "1928-07-12"
+citations: ["93 Pa. Super. 503"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, P. J., Henderson, Trexlee, Keller, Linn, Gawthrop and Cunningham, JJ."]
+parties: ["Gearhart v. Altoona and Logan Valley Electric Railway Company, Appellant."]
+source_url: "https://static.case.law/pa-super/93/cases/0503-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 678508
+cites_cases: ["283 Pa. 533", "65 Pa. Superior Ct. 284", "92 Pa. Superior Ct. 189"]
+---
+
+# Gearhart v. Altoona & Logan Valley Electric Railway Co.
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+’The accident out of which this action arose occurred at the intersection of Thirteenth Street and Fifth Alley in the City of Altoona, early in the afternoon of October 24, 1925. The plaintiff was driving his truck in a southerly direction on Fifth Alley toward Thirteenth Street. The defendant’s trolley car was moving eastwardly on Thirteenth Street. When the plaintiff was within about thirty feet of Thirteenth Street, he had a view of the latter street below Sixth Avenue toward which he proceeded until his truck was within two feet of the trolley track when he saw the car of the defendant crossing that avenue about 140 or 150 feet distant. He then drove onto the track, the truck being in second gear, at which time the trolley ear was 120 or 130 feet away, and he had proceeded so far that half of the truck, which was twenty-one and a half feet long, was over the rails, when the trolley car collided with it, striking the rear part and driving it 12 or 15 feet. The truck weighed 9100 pounds. The street car was moving at a moderate speed when it crossed the avenue, but the speed was increased as it approached Fifth Alley. The day was wet. The driver of the trolley car did not see the plaintiff’s truck “until the wheels were on that rail.” In answer to the question, “What obstructed your vision from seeing that truck come out of the alley?” his answer was, “Well, the windows were steamed over and the rain was on the glass.”
+“Q. You had not wiped the glass on the outside?
+“A. No, sir.
+“Q. So the mist and rain would collect on the outside as well as on the inside?
+“A. Well, the steam collected on the inside.
+“Q. Well, you could have stopped it (the trolley car) and seen the truck in plenty of time had you not had this mist on the outside of the glass?
+“A. I suppose I could.”
+The testimony would have supported a finding of the facts by the jury as above recited and the verdict shows that the evidence for the plaintiff was deemed credible. We are asked to reverse the judgment because the trial judge refused to grant a non-suit or to enter judgment non obstante veredicto, these motions being based on the assumed contributory negligence of the plaintiff. The jury has relieved the plaintiff from the charge of contributory negligence and has sustained the complaint that the defendant was negligent, and giving credit to the evidence most favorable to the plaintiff and according to him all the inferences reasonably to be drawn from the evidence, we cannot hold that the case should have been taken from the jury. The case in its material facts is not unlike McLoughlin v. Philadelphia R. T. Co., 65 Pa. Superior Ct. 284, and Lowry Rodgers Co. v. P. R. T. Co., 92 Pa. Superior Ct. 189. It is not in doubtful cases or those in which the evidence of the contending parties is contradictory that the court is authorized to dispose of the controversy as a matter of law. Where the evidence and the legitimate inferences which may be drawn therefrom are not clear beyond peradventure, it is the province of the jury to pass on the evidence submitted: Suchy v. Buffalo and L. Erie T. Co., 283 Pa. 533. It is not disputed that there was an opportunity for a clear view from the position of the motorman on the trolley car to the crossing at Fifth Alley and a like view from the plaintiff’s position on the truck to Sixth Avenue and below. Whether the plaintiff acted with reasonable care in the circumstances, regard being had to the distance of the trolley car, could only be determined by tbe jury. Having arrived first at the crossing, the plaintiff was not bound to wait until the trolley car passed if he had reasonable grounds for believing that the crossing could be made before its arrival and he had a right to assume that having entered on the defendant’s track in making the crossing the driver of the trolley car would exercise reasonable care in avoiding the collision. It is evident from the motorman’s testimony that he was not looking for vehicles approaching the' track on Fifth Alley and therein is apparently the explanation of the accident as presented in the record. We do not find any justification for either a non-suit or a judgment non obstante veredicto.
+Objection was made to part of the evidence introduced by the plaintiff to establish the extent of his loss. The cost of the repair of the truck was $1,364.53, the correctness of which amount was not controverted. There was evidence to show that the truck, after it was repaired, was worth five or six hundred dollars less than it was before the accident, and no contradictory testimony was offered on that point. Evidence was admissible to prove that a car that had been the subject of repairs was not worth as much in the market after the repairs as it was before the collision. The court admitted evidence of the amount to which the plaintiff would be entitled for loss of the use of the truck. The evidence was that six weeks elapsed before it was ready for use, it having been necessary to obtain from the factory where it wa's made certain new parts essential in the repair. The evidence was that the plaintiff earned about $100 a week with the truck. As the verdict was $2,000, it is evident that much less than the plaintiff’s claim was allowed on this part of his demand. The undisputed amount for repairs and for the depreciation in value, placed at $500, left a comparatively trifling amount for the use of the truck. The court was not in error, therefore, in refusing to grant a new trial. The case was fairly heard by Judge Baldeige and carefully reviewed by his successor on the controverted questions and was well decided.
+The assignments are, therefore, overruled and the judgment affirmed.
