@@ -1,0 +1,41 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+decided: "1990-02-16"
+citations: ["131 Pa. Commw. 347", "570 A.2d 147"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CRUMLISH, Jr., President Judge, COLINS, J., and NARICK, Senior Judge."]
+parties: ["Robert L. MALONE, Appellant, v. WEST MARLBOROUGH TOWNSHIP BOARD OF SUPERVISORS, West Marlborough Township, Charles C. Brosius, Chairman, Board of Supervisors; Kenneth J. Cruse, Secretary/Treasurer, Board of Supervisors; Landis G. Hess, Co-Chairman, Board of Supervisors, Appellees. (Two Cases)"]
+source_url: "https://static.case.law/pa-commw/131/cases/0347-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1399166
+cites_cases: ["290 A.2d 269", "439 A.2d 1308", "464 A.2d 625", "481 A.2d 692", "5 Pa.Commonwealth Ct. 304", "507 Pa. 53", "64 Pa.Commonwealth Ct. 246", "76 Pa.Commonwealth Ct. 488", "85 Pa.Commonwealth Ct. 104"]
+---
+
+# Malone v. West Marlborough Township Board of Supervisors
+
+## Majority (NARICK, Senior Judge.)
+
+NARICK, Senior Judge.
+Robert L. Malone (Malone) appeals from an order of the Court of Common Pleas of Chester County that dismissed two complaints in mandamus docketed at 89-06062 (first complaint) and 89-06,063 (second complaint) which had been filed against West Marlborough Township (Township) and West Marlborough Township’s Board of Supervisors (Board) (collectively, appellees). We reverse and remand.
+The procedural history of this case is as follows. The first complaint alleges that the Board improperly rejected Malone’s preliminary subdivision plan by failing to comply with Section 508 of the Pennsylvania Municipalities Planning Code (MPC), Act of July 31,1968, P.L. 805, as amended, 53 P.S. § 10508. The second complaint alleges that the Board improperly rejected Malone’s final subdivision plan, again by failing to comply with Section 508 of the MPC. Malone asserts in both complaints that the Board did not inform him of the rejection of the plans within the time frame set forth in Section 508 of the MPC and in the Township’s subdivision ordinance. Additionally, Malone asserts that the Board failed to include' citations to the specific ordinance relied upon in its denial of the applications again relying on Section 508 of the MPC which requires deemed approval where the denial does not include the specific ordinance sections relied upon.
+Appellees filed preliminary objections and in response, numerous other “pleadings” were filed. The trial court, without ruling on the preliminary objections, ordered the complaints in mandamus dismissed, with prejudice, on the basis that a proper remedy existed at law. This decision was premised upon the fact that Malone had filed a statutory appeal from the denial of the final subdivision plan which was still pending before the trial court. The trial court concluded that Malone was seeking the same relief in the statutory appeal as he sought in the complaints in mandamus and this, therefore, was a clear remedy at law. We do not agree.
+It is well-settled law that mandamus may be used to obtain recognition of the right to deemed approval. National Development Corp. v. Harrison Township Planning Commission, 64 Pa.Commonwealth Ct. 246, 439 A.2d 1308 (1982). Mandamus is an extraordinary writ which will issue to compel performance by a governmental agency of a ministerial act, where there exists a clear legal right in the plaintiff, a corresponding duty in the defendant and want of any other equitable and appropriate remedy. Equitable Gas Co. v. Pittsburgh, 507 Pa. 53, 488 A.2d 270 (1985). Mandamus is used in instances where no decision has been rendered on an application or where the decision has been communicated to the applicant in an untimely manner. Croft v. Board of Supervisors of Middletown Township, 76 Pa.Commonwealth Ct. 488, 464 A.2d 625 (1983). “[T]he fact that a written decision is issued does not make a statutory appeal an adequate remedy where the decision is subject to the deemed approval sanctions of the MPC.” Id., 76 Pa. Commonwealth Ct. at 492, 464 A.2d at 627. In Foltz v. Monroeville & Borden, 5 Pa.Commonwealth Ct. 304, 310-11, 290 A.2d 269, 272 (1972), we stated:
+The statutory appeal challenges the content of the decision rendered while the mandamus action brought under the statute assaults the inaction of the Board. We are not persuaded that the availability of a remedy promulgated to challenge the content of a decision adequately affords the plaintiff the opportunity to challenge the failure to render a decision within the proper period of time.
+In this case, only the preliminary objections were before the trial court, when the judge sua sponte and without ruling on the preliminary objections, dismissed the complaints in mandamus on the basis that there was an adequate remedy at law. As noted above, if the facts as alleged in the complaints are established, i.e., that appellees’ denials of his plans were outside the statutory period, then Malone would be entitled to the relief of deemed approval which he seeks.
+Accordingly, we must reverse the Court of Common Pleas of Chester County’s order dismissing the complaints in mandamus and remand these actions for further proceedings.
+ORDER
+AND NOW, this 16th day of February, 1990, the order of the Court of Common Pleas of Chester County in the abovercaptioned matter is hereby reversed and the matter is remanded for further proceedings consistent with the foregoing opinion.
+Jurisdiction relinquished.
+. Malone desired to subdivide a plot of land into ten residential lots. The preliminary subdivision plan was filed with the Board on October 6, 1986.
+. At the time of the instant appeal, Section 508 provided in pertinent part as follows:
+All applications for approval of a plat (other than those governed by Article VII), whether preliminary or final shall be acted upon by the governing body or the planning agency within such time limits as may be fixed in the subdivision and land development ordinance but the governing body or the planning agency shall render its decision and communicate it to the applicant not later than ninety days after such application is filed.
+(1) The decision of the governing body or the planning agency shall be in writing and shall be communicated to the applicant personally or mailed to him at his last known address not later than five days following the decision;
+(2) When the application is not approved in terms as filed the decision shall specify the defects found in the application and describe the requirements which have not been met and shall, in each case, cite to the provisions of the statute or ordinance relied upon;
+(3) Failure of the governing body or agency to render a decision and communicate it to the applicant within the time and in the manner required herein shall be deemed an approval of the application in terms as presented unless the applicant has agreed in writing to an extension of time or change in the prescribed manner of presentation of communication of the decision, in which case, failure to meet the extended time or change in manner of presentation of communication shall have like effect ...
+. The final subdivision plan was submitted to the Board on January 5, 1987, with an amendment filed sometime thereafter.
+. Because of our disposition of this matter, the propriety of the documents filed by the parties need not be addressed.
+. C.D. No. 87-04137 Chester County Court of Common Pleas.
+. Our scope of review of an action in mandamus is to determine whether the trial court has abused its discretion or committed an error of law. Township of Nether Providence Appeal, 85 Pa.Commonwealth Ct. 104, 481 A.2d 692 (1984).
+. Because of the manner in which the, trial court disposed of this matter, the preliminary objections are still outstanding. One of those preliminary objections raises, via demurrer, the existence of an adequate remedy at law. For the sake of clarity on remand, we note that our decision here has established that, if the facts of the complaints are taken as true, as they must be for purposes of a demurrer, they are sufficient to withstand such a challenge.
