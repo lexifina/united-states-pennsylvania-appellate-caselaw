@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 26"
+decided: "1903-04-20"
+citations: ["22 Pa. Super. 587"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Beaver, Orlady, Smith, W. D. Porter and Morrison, JJ."]
+parties: ["Muthersbaugh, Appellant, v. McCabe."]
+source_url: "https://static.case.law/pa-super/22/cases/0587-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 846201
+cites_cases: ["149 Pa. 444", "192 Pa. 276", "31 Pa. 456"]
+---
+
+# Muthersbaugh v. McCabe
+
+## Majority (Peb Ctjbiam,)
+
+Peb Ctjbiam,
+Defendants, against whom ejectment was brought and from whom mesne profits were claimed, seemed to have entered into possession of the real estate in good faith, believing that they were the collateral heirs of John Heslin. The testimony, relating to the question of who the heirs of John Heslin were, is not printed and we are, therefore, unable to determine to what extent defendants were justified in taking possession of the property claimed by the plaintiff. From such light as we can gather from the charge of the court and the environment of the case,’it seems to us clear there were good grounds of controversy and that the defendants entered into possession in good faith, under color of title. The question of title having been decided by the jury, we do not see that it was necessary for the plaintiff to print that portion of the testimony relating thereto, the verdict of the jury having settled that question and his appeal relating, as it does, only to the question of mesne profits, but if printed it would have aided us in our inquiries in regard to the bona fides of the defendants.
+Whether or not the plaintiffs wantonly took possession of this property and thereby became trespassers in fact as well as in law was fairly left to the jury. The instructions of the court in regard to mesne profits fully covered the question and were in accordance with the well settled principles governing the subject. The rule is the same whether mesne profits be recovered in an action of trespass or under notice in the action of ejectment and the general rule, laid down in Morrison v. Robinson et al., 31 Pa. 456, fairly rules the case. In that case Mr. Chief Justice Loweie says : “ Our natural sense of justice furnishes the ground and the measure of compensation for injuries done by one man to the property of another and demands an adequate remedy to obtain it. On this sense of justice the action of trespass for mesne profits is founded and, of course, it is not intended to be administered so as to work injustice.” Laying down the principle that compensation is the purpose of the action and is the proper measure of damages, it is said in this case: “ It is everywhere admitted that a bona fide occupant under claim of title who makes permanent and valuable improvements is entitled to have them taken into account in ascertaining whether or not the real owner has sus tamed any damage and may show that they are a full compensation for the value of the property.”
+The chief cause of complaint of the appellant is that the court refused to affirm his points, in which he alleged that the full rental value of the property, whether that amount of rent was obtained or not, or whether the rents were collected or not, or whether a portion of the rents was expended in necessary repairs or not, was the measure of damages, or, in other words, the amount of mesne profits which he was entitled to collect. The court declined to read the points, saying that the questions involved therein had been answered in the general charge. They were answered against appellant’s contention and in this we think the court was entirely right. The jury evidently found that there had been no wantonness on the part of the defendants in taking possession and they allowed the full amount ascertained to be in the hands of the agent, after paying out of the rents collected, taxes, insurance, necessary repairs and agent’s commission.
+The judgment, as finally entered, dealt with some equities relating to a former recovery of one sixteenth and some items admitted by the defendants to be due the plaintiff and the judgment was, therefore, in excess of the verdict, but the main point of difference between the appellant and the court below was that which we have stated, and in which we think the court was correct.
+The appellant also complains that the court declined to read his points to the jury. When points are declined, we think this is the better practice, the reading of them tending only to confusion and uncertainty in the minds of the jury. As was said in Carey v. Buckley, 192 Pa. 276: “ The plaintiff presented seven points for charge but the judge, without reading them to the jury, declined to affirm them, preferring to state the law to the jury in his own terms. This was entirely within his discretion and appellant has no cause of complaint, if the charge contained nothing erroneous and omitted nothing favorable to him which the points properly called for. Kroegher v. McConway & Torley Co., 149 Pa. 444.” This appropriately applies here.
+There is nothing in the case requiring extended discussion and, as the exhaustive charge of the court below is its own vindication, we prefer to let it speak for itself. Judgment affirmed.
