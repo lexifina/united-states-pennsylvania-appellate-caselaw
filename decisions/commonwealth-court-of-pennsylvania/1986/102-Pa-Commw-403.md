@@ -1,0 +1,43 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 415 C.D. 1986"
+decided: "1986-12-10"
+citations: ["102 Pa. Commw. 403", "518 A.2d 618"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Craig and Palladino, and Senior Judge Barbieri, sitting as a panel of three."]
+parties: ["Mark Timothy Winters, Petitioner v. Commonwealth of Pennsylvania, Pennsylvania Board of Probation and Parole, Respondent."]
+source_url: "https://static.case.law/pa-commw/102/cases/0403-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1355478
+cites_cases: ["33 Pa. Commonwealth Ct. 293", "381 A.2d 513", "467 A.2d 112", "477 A.2d 22", "494 A.2d 10", "496 A.2d 419", "503 A.2d 488", "78 Pa. Commonwealth Ct. 193", "83 Pa. Commonwealth Ct. 42", "89 Pa. Commonwealth Ct. 635", "90 Pa. Commonwealth Ct. 580", "94 Pa. Commonwealth Ct. 236"]
+---
+
+# Winters v. Commonwealth
+
+## Majority (Judge Palladino,)
+
+Opinion by
+Judge Palladino,
+This is an appeal by Mark Timothy Winters (Petitioner) from a denial of administrative relief by the Pennsylvania Board of Probation and Parole (Board). For the reasons which follow, we affirm.
+The long and storied history of Petitioners travails has been set out in detail and with great precision in the able opinion of Judge MacPhail; Winters v. Pennsylvania Board of Probation and Parole, 94 Pa. Commonwealth Ct. 236, 503 A.2d 488 (1986) (Winters I). We will not duplicate Judge MacPhails recital.
+The following additional facts are necessary for our consideration herein:
+1) Prior to the date Judge MacPhail filed Winters I but after it had been submitted to this Court for consideration, the Board, by order dated October 24, 1985, shifted one month of backtime from Department of Corrections No. F-7628 to Department of Corrections No. F-6649 when it discovered that Petitioner was entitled to an additional one-month credit on No. F-7628.
+2) The Board submitted a certified record to this Court on April 22, 1986 which, Petitioner alleges, contains falsified documents.
+3) Pursuant to the October 24, 1985 order of the Board, Petitioner filed a timely request for administrative relief. Administrative relief was denied by the Board on February 7, 1986, from which Petitioner timely appealed to this Court.
+On appeal, Petitioner makes the following contentions: 1) The Board erred in recommitting Petitioner as both a technical parole violator (TPV) and a criminal parole violator (CPV) for violations stemming from the same incident; 2) The Board erred in computing commitment credit for his new sentences; 3) The Board erred in shifting one month of backtime to a different recommitment sentence while Winters I was pending with this Court; and 4) The Board committed criminal violations by submitting a certified record with alleged altered documents.
+Our scope of review of an order of the Board is to determine whether the order is in accordance with the law, whether necessary factual findings are supported by substantial evidence and whether Petitioners constitutional rights were violated. 2 Pa. C. S. §704; Cameron v. Pennsylvania Board of Probation and Parole, 90 Pa. Commonwealth Ct. 580, 496 A.2d 419 (1985).
+As to Petitioners first argument, this Court has already addressed it in Winters I and found that it lacked merit. 94 Pa. Commonwealth Ct. 236, 240, fn.2, 503 A.2d 488, 499, fn.2. Petitioner may not collaterally attack that decision by including the same issue in a subsequent appeal.
+Petitioner next asserts that the Board erred in computing the commitment credit due him on his new sentences. The instant appeal concerns only the October 24, 1985 order of the Board since Petitioner had the opportunity to fully litigate his recommitment in Winters I and failed to raise this issue. “A parolee challenging an act of the Board must raise all his claims at one time, rather than bring successive suits which seek the same relief but vary slightly in their allegations.” Choice v. Pennsylvania Board of Probation and Parole, 33 Pa. Commonwealth Ct. 293, 295, 381 A.2d 513, 514 (1978). Accordingly, Petitioners failure to raise this issue in his appeal from the Boards recommitment order constitutes a waiver.
+Petitioners third ground for appeal concerns the validity of the October 24, 1985 order. Petitioners argument is in two parts: 1) that the Board lacked the authority to shift backtime from one sentence to another without holding a new parole revocation hearing, and 2) that the Board lacked jurisdiction to take any action against Petitioner while he had an appeal pending with this Court.
+The first part of this issue is without merit. This Court has held that where notice given to a parolee contains his correct parole number, that parole number covers all sentences for which a parolee is under supervision. Oliver v. Pennsylvania Board of Probation and Parole, 89 Pa. Commonwealth Ct. 635, 494 A.2d 10 (1985). We note that F-6649 and F-7628 are Petitioners Department of Corrections identification numbers and not his parole number. Petitioners parole number is 1642-J. The Board ordered Petitioner to serve fifty-two months backtime for the violation of his parole. Absent an allegation that F-6649 had expired prior to the October 24, 1985 order, the distribution between the sentence identification numbers is without consequence.
+As to the second part of this issue, we note that R. A. P. 1701(a) prohibits further action by a governmental agency after an appeal from a final order has been filed. However, R.A.P. 1701(b)(1) provides for limited exceptions to the mandate of 1701(a). In relevant part, R. A.P. 1701(b)(1) provides that a government agency may “[t]ake such action as may be necessary to preserve the status quo. . . .” Petitioner was required to serve fifty-two months backtime both before and after the October 24, 1985 Board order. Further, Petitioner was to serve this backtime on Parole No. 1642-J. We can discern no error of law or violation of constitutional rights from the feet that one month of this backtime was shifted from one sentence to another. The Board discovered that Petitioner was entitled to an additional one month credit on F-7628. To maintain the status quo, a fifty-two month recommitment on backtime, the Board shifted one month backtime to F-6649. This does not entitle Petitioner to any form of relief. See generally, Oliver; Snyder v. Pennsylvania Board of Probation and Parole, 78 Pa. Commonwealth Ct. 193, 467 A.2d 112 (1983).
+Lastly, Petitioner contends that we should dismiss his entire parole sentence because two requests for the continuance of his Parole Revocation Hearing, signed by the Petitioner and dated July 22, 1983 and March 12, 1984, were altered after he signed them. We cannot agree.
+The alleged alterations merely consist of the reasons for the continuances requested by Petitioner. While we do not condone the alteration of any document by any employee of the Board of Probation and Parole regardless of how harmless, Petitioner does not allege that he did not request the continuances, that the dates of the continuances are incorrect or that the signatures appearing on these documents are not his. The reason stated on the continuance forms is “client wishes to continue his second level hearings until the final outcome of his open criminal cases, including sentences, if convicted.” Petitioner contends that the document was altered to add the above quoted reason in order to enlarge the time frame and, thus, make the August 25, 1984 hearing timely. Petitioner contends that the 120 day period should begin to run on April 2, 1984 although he does not explain the significance of that date.
+Winters was not returned to a state correctional institution until June 21, 1984. The 120 days in which the Board has to give a convicted parole violator a hearing does not commence until the violators return to such state correctional institution. Chancey v. Pennsylvania Board of Probation and Parole, 83 Pa. Commonwealth Ct. 42, 477 A.2d 22 (1984). The full Board hearing held on September 25, 1984 was therefore timely.
+Winters I, 94 Pa. Commonwealth Ct. at 248, 503 A.2d at 495.
+Thus the alterations alleged by Petitioner did not affect his rights. As such, and as Judge MacPhail has previously concluded in Winters 1, Petitioner was accorded a full Board hearing within the required 120 day time limit.
+Accordingly, we affirm.
+Order
+And Now, December 10, 1986, the order of the Pennsylvania Board of Probation and Parole at Parole No. 1642-J, dated February 7, 1986, is affirmed.
