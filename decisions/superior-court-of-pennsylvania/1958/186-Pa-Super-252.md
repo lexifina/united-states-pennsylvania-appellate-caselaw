@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 56"
+decided: "1958-06-11"
+citations: ["186 Pa. Super. 252"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Gunther, Wright, Woodside, Ervin, and Watkins, JJ."]
+parties: ["Zupancic Unemployment Compensation Case."]
+source_url: "https://static.case.law/pa-super/186/cases/0252-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 740659
+cites_cases: ["110 A. 2d 792", "110 A. 2d 843", "119 A. 2d 658", "124 A. 2d 401", "132 A. 2d 897", "158 Pa. Superior Ct. 548", "162 Pa. Superior Ct. 327", "172 Pa. Superior Ct. 389", "172 Pa. Superior Ct. 417", "177 Pa. Superior Ct. 236", "177 Pa. Superior Ct. 243", "180 Pa. Superior Ct. 534", "181 Pa. Superior Ct. 255", "184 Pa. Superior Ct. 262", "45 A. 2d 898", "57 A. 2d 439", "93 A. 2d 877", "94 A. 2d 178"]
+---
+
+# Zupancic Unemployment Compensation Case
+
+## Majority (Watkins, J.,)
+
+Opinion by
+Watkins, J.,
+This is an appeal from a decision of the Unemployment Compensation Board of Review holding that the claimant voluntarily terminated his employment without cause of a necessitous and compelling nature and was disqualified from receiving benefits under the provisions of Section 402 (b) of the Unemployment Compensation Law of December 5, 1936, P. L. 2897, as amended, 43 PS §802 (b).
+Section 402 (b) of the Unemployment Compensation Law, 43 PS §802 (b) provides that, “An employe shall be ineligible for compensation in any week— (b) In which his unemployment is due to voluntarily leaving work without cause of a necessitous and compelling nature . . .”.
+The claimant, Albin Zupaneic, was last employed as a general laborer for three days by the Pittsburgh Racing Association, Imperial, Pennsylvania. His last day of work was June 24, 1957. He admits that he voluntarily terminated his employment on that date. The record indicates that in his claim to the bureau and his testimony at the hearing and remanded hearing before the referee that he was dissatisfied with the work involved, and the wages he was receiving; that he was not laid cf. or discharged and continuing employment was available; that he did not understand the work and he left because it was of a temporary nature; and that he terminated his employment because he had no transportation to and from work since the fellow worker with whom he had been riding had quit his job.
+The referee had found as a fact that he left Ms work because he considered his wages too low, he did not understand his work and because the work was temporary in nature. The board, after a remanded hearing, vacated this finding of fact of the referee and substituted therefor: “Claimant voluntarily terminated his employment on June 24, 1957 because the fellow worker with whom he was riding quit his employment, and the claimant had no means of transportation to and from work.” The board affirmed the conclusion of the referee in disqualifying the claimant for benefits under section 402 (b) of the law.
+The only question before this Court is whether this transportation problem supports the burden of the claimant to prove a necessitous and compelling reason for leaving his work.
+As a general rule an employe who is out of work by his own decision is thereby removed from the protection of the law. This, however, is qualified to the extent that an unemployed worker may be eligible even if he voluntarily left work, if his leaving was prompted by good cause of necessitous and compelling nature. This Court has consistently held in a long line of cases that the circumstances compelling the decision to leave employment must be "real not imaginary, substantial not trifling, reasonable not whimsical. . .". Sturdevant Unemployment Compensation Case, 158 Pa. Superior Ct. 548, 557, 45 A. 2d 898 (1946). See also: Edwards Unemployment Compensation Case, 184 Pa. Superior Ct. 262, 132 A. 2d 897 (1957).
+The burden is upon a claimant who has voluntarily left his employment to show that he had good cause for doing so. In order to constitute such good cause, the cause of leaving employment must meet the test of ordinary common sense and prudence. Welker Unemployment Compensation Case, 180 Pa. Superior Ct. 534, 119 A. 2d 658 (1956); Goldstein Unemployment Compensation Case, 181 Pa. Superior Ct. 255, 124 A. 2d 401 (1956).
+The claimant testified the distance between his home at Imperial and the place of his employment at Heidelberg is 12 miles; that he did not own an automobile and there were no public transportation facilities; that the only way he could get to and from work was to ride with someone else; and that such a ride was not presently obtainable.
+This Court has held that if work were not available at a claimant’s home and he had no means of transportation to any other area where work opportunities existed, such claimant was unavailable for work and ineligible for benefits under section 401 (d) of the Unemployment Compensation Law. Availability for work requires that a claimant be actually and currently attached to the labor market. Rabinowitz Unemployment Compensation Case, 177 Pa. Superior Ct. 236, 110 A. 2d 792 (1955).
+The contention of the claimant that he has no public or private transportation available to him in order to get to and from his job, places him in the position, as argued by the appellee, of being unavailable for work and not attached to the labor market. So that the alleged necessitous and compelling reason advanced by the claimant for voluntarily leaving his work, in itself, makes him ineligible for benefits. Shellhammer Unemployment Compensation Case, 162 Pa. Superior Ct. 327, 57 A. 2d 439 (1948). A claimant, for benefits, must be at all times ready, able and willing to accept suitable employment. Barr Unemployment Compensation Case, 172 Pa. Superior Ct. 389, 93 A. 2d 877 (1953); Sweeney Unemployment Compensation Case, 177 Pa. Superior Ct. 243, 110 A. 2d 843 (1955).
+We agree with the board that he has not established that his reason for voluntarily leaving work was necessitous and compelling as required by law. His cause for leaving does not meet the test of ordinary common sense and prudence. His transportation problem is certainly not the insurmountable difficulty contemplated under this Court’s interpretation of what are necessitous and compelling reasons. His passive attitude in the face of his problem is not indicative of a genuine willingness to work and “a sincere desire for work that will overcome the surmountable obstacles which workers everywhere encounter.” Hanna Unemployment Compensation Case, 172 Pa. Superior Ct. 417, 94 A. 2d 178 (1953).
+The decision of the Unemployment Compensation Board of Review is affirmed.
