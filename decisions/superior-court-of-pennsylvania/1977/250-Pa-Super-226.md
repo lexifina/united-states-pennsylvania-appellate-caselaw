@@ -1,0 +1,38 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1800 and 1801"
+decided: "1977-10-06"
+citations: ["250 Pa. Super. 226", "378 A.2d 909"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WATKINS, President Judge, and JACOBS, HOFFMAN, CERCONE, PRICE, VAN der VOORT, and SPAETH, JJ.", "PRICE, J., dissents."]
+parties: ["In the Interest of SCOTT W., a minor. Appeal of Scott WILLS, a minor. Appeal of Attorney General Robert P. KANE and Superintendent Ernest S. Patton."]
+source_url: "https://static.case.law/pa-super/250/cases/0226-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 836473
+cites_cases: ["225 Pa.Super. 217", "310 A.2d 414"]
+---
+
+# Interest of Scott W.
+
+## Majority (CERCONE, Judge:)
+
+CERCONE, Judge:
+This is an appeal from the order of the Juvenile Court of Bucks County committing Scott Edward Wills to the State Correctional Institution at Camp Hill. As he was in the court below, Scott Wills is joined in challenging this commitment order by the Attorney General who contend that Camp Hill no longer qualifies as a proper facility for the commitment of delinquent children under the Juvenile Act, Act of December 6,1972, P.L. 1464, No. 331, 11 P.S. § 50-101 et seq. (Supp.1977). We agree.
+Since the entry of the lower court’s order committing Scott to Camp Hill, the legislature has amended the Juvenile Act so that it no longer authorizes commitment of a child to a “special facility for children operated by the Department of Justice.” The Juvenile Act, as now amended, authorizes commitment only to an “Institution, Youth Development Center, camp, or other facility for delinquent children operated under the direction or supervision of the court or other public authority and approved by the Department of Public Welfare” or an “Institution operated by the Department of Public Welfare.” Camp Hill, which is operated by the Department of Justice does not fit under any of these categories. The Juvenile Act has also been amended to prohibit, under all circumstances, the commitment of a child adjudged delinquent to “a penal institution or other facility used primarily for the execution of adults convicted of a crime.” Under the Juvenile Act as amended, Camp Hill can no longer, under any circumstances, be considered a proper facility for the commitment of a child adjudged delinquent.
+The order of the lower court committing appellant to Camp Hill is vacated. The lower court is directed to issue an order for the disposition of appellant Scott Wills consistent with the Act of August 3, 1977, P.L.-, No. 41, § 25 (amending the Juvenile Act, Act of December 6, 1972, P.L. 1464, No. 332, 11 P.S. § 50-100 et seq.) (Senate Bill 757, House Bill 1).
+It is so ordered.
+PRICE, J., dissents.
+. This case was previously before our court and we remanded it for a full hearing on petitions filed to vacate the Camp Hill commitment order. This appeal is from the lower court’s refusal to vacate the commitment following the hearing. Since we initially granted a supersedeas to the commitment order, Scott Wills has remained in the custody of the Bucks County Juvenile Probation Office.
+. Act of December 6, 1972, P.L. 1464, No. 333; § 25; 11 P.S. § 50-322 (Supp.1977) provided that the court in disposing of a child adjudged delinquent may issue an order: “committing the child to an institution operated by the Department of Public Welfare or special facility for children operated by the Department of Justice.” In Commonwealth ex rel. Parker v. Patton, 225 Pa.Super. 217, 310 A.2d 414 (1973) this court held that the words “special facility operated by the Department of Justice necessarily refers to Camp Hill, and that this section of the statute authorized the commitment of juveniles to that institution. This section has been amended by Act of August 3, 1977, P.L. 155, No. 41 (Senate Bill 757, House Bill 1) and no longer contains the words “or special facility for children operated by the Department of Justice.” See footnote 3 infra.
+. The Juvenile Act, § 25 has been amended by Act of August 3, 1977, P.L. 155 No. 41 (Senate Bill 757, House Bill 1) § 25 to read as follows:
+Disposition of delinquent child. — If the child is found to be a delinquent child the court may make any of the following orders of disposition best suited to his treatment, supervision, rehabilitation, and welfare:
+(1) Any order authorized by Section 24 for the disposition of a dependent child.
+(2) Placing the child on probation under supervision of the probation officer of the court or the court of another state as provided in Section 34, under conditions and limitations the court prescribes.
+(3) Committing the child to an institution, youth development center, camp, or other facility for delinquent children operated under the direction or supervision of the court or other public authority and approved by the Department of Public Welfare.
+(4) If the child is twelve years of age or older, committing the child to an institution operated by the Department of Public Welfare. In selecting from the alternatives set forth in this section, the court shall follow the general principal that the disposition imposed should provide the means through which the provisions of this Act are executed and enforced consistent with section 1 and when confinement is necessary, the court shall impose the minimum amount of confinement that is consistent with the protection of the public and the rehabilitation needs of the child.
+(5) Ordering payment by the child of reasonable amounts of money as fines, costs or restitution as deemed appropriate as part of the plan of rehabilitation considering the nature of the acts committed and the earning capacity of the child.
+(6) An order of the terms of probation may include an appropriate fine considering the nature of the act committed or restitution not in excess of actual damages caused by the child which shall be paid from the child’s earnings received through participation in a constructive program of service or education acceptable to the victim and the court whereby, during the course of such service, the child shall be paid not less than the state’s minimum wage. In ordering such service, the court shall take into consideration the child’s age, physical and mental capacity and the service shall be designed to impress upon the child a sense of responsibility for the injuries caused to the person or property of another. The court’s order shall be limited in duration consistent with the limitations in section 26 and in the Act of May 13, 1915 (P.L. 286, No. 177), known as the “Child Labor Law.” The court order shall specify the nature of the work, the number of hours to be spent performing the assigned tasks, and shall further specify that as part of a plan of treatment and rehabilitation that up to seventy-five percent of the child’s earnings be used for restitution in order to provide positive reinforcement for the work performed.
+. Previously the Juvenile Act, Act of December 6, 1972, P.L. 1464, No. 333; § 27, 11 P.S. § 50-324 (Supp.1977) provided;
+“A child shall not be committed or transferred to a penal institution or other facility used primarily for the execution of sentences of adults convicted of a crime, unless there is no other appropriate facility available, in which case the child shall be kept separate and apart from such adults at all times.” Act of August 3, 1977, P.L. 155, No. 41, § 27 (Senate Bill 757, House Bill 1) amending this section of the statute, has done away with the exception allowing commitment to a penal institution if no other appropriate facility is available.
