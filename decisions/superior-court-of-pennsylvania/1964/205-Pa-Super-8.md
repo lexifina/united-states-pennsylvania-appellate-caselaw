@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 241"
+decided: "1964-12-16"
+citations: ["205 Pa. Super. 8"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, Wright, Woodside, Watkins, Montgomery, and Flood, JJ. (Rhodes, P. J., absent)."]
+parties: ["Neyman v. Soutter, Appellant."]
+source_url: "https://static.case.law/pa-super/205/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 771469
+cites_cases: ["135 A. 2d 395", "155 A. 2d 343", "171 A. 2d 771", "203 A. 2d 350", "204 Pa. Superior Ct. 129", "390 Pa. 331", "397 Pa. 316", "404 Pa. 382"]
+---
+
+# Neyman v. Soutter
+
+## Majority (Flood, J.,)
+
+Opinion by
+Flood, J.,
+Erma Soutter has appealed from the refusal of the court below to grant her motion for judgment n.o.v. or a new trial after a verdict in favor of the plaintiff against both defendants. The other defendant, Harry Soutter, is the natural son of Erma Soutter. He was adopted by her parents, his grandparents, and lived with them until their death. In 1951 Erma also joined the household but Harry apparently regarded her as a sister, and regarded his grandparents who had adopted him, as his parents. The four lived together until the death of Erma’s father. Thereafter Erma, Harry and Katherine Soutter made their home together until September 15, 1960, the date of the occurrence giving rise to this action.
+On that day Harry, then 23, took a pistol from a drawer in the house and in the course of an argument with plaintiff shot him in the arm. The plaintiff ivas burning trash and Harry, thinking the fire was out of control, had called the fire department. The pistol used by Harry had belonged to his grandfather and was kept in the house which his grandmother, Katherine Soutter, then owned.
+The court below submitted to the jury the question of Erma Soutter’s negligence in allowing an irresponsible person to have possession of a firearm, on the theory that Harry and the gun he used were under her control.
+Two of plaintiff’s witnesses stated that Harry was “irresponsible”. Among the incidents relied upon to show irresponsibility were occasions when Harry sat on store counters and interfered with clerks who were busy. On another occasion he made a long distance phone call on a neighbor’s phone (which he charged to his own account) because he was not allowed to make such calls at home. He was subject to occasional blackouts and had never been steadily employed. After two months in the army he received a medical discharge.
+The evidence goes no further than to show that Harry was at times inconsiderate, impolite and unmannerly, that he acted “bossy” and stated he could take care of himself. The opinion of the two witnesses that he was irresponsible is not supported by evidence of any instance of irresponsible conduct prior to the occurrence giving rise to this suit. The finding of irresponsibility can only be based upon these opinions, supported by nothing but Alague generalities, and falls short of showing that Erma knew or should have known that Harry would be likely to injure others with the gun.
+At the time of the shooting Erma and Katherine Soutter Avere at a friend’s house having supper. While Erma knew that Harry had access to the gun, it was not her gun nor was it kept on property owned by her. Legal title to the real estate was not turned over to Erma until July 5, 1961, nine months after the incident. The gun had belonged to Erma’s father and had passed to his wife Katherine on his demise. Katherine was the head of the household at the time.
+Harry had previously used the gun, which was kept in his room, to shoot rats in the yard and cellar of the home. On one occasion he exhibited the gun in a clothing store on property owned by his mother, but did not threaten the witness, and stated he carried the gun for self protection. Appellant knew her son had access to the gun but there is no evidence of any instance where he harmed or threatened anyone with it.
+This case is clearly distinguishable from cases such as Kuhns v. Brugger, 390 Pa. 331, 135 A. 2d 395 (1957), where a grandfather who left a loaded pistol in an unlocked dresser drawer was held liable when his twelve year old grandson used the gun to shoot the plaintiff. Nor does the evidence bring it within the rule laid down in §308, comment b of the Restatement, Torts, as set forth in Anderson v. Bushong, 404 Pa. 382, 386, 171 A. 2d 771, 773 (1961), as follows: “It is negligence to permit a third person to use a thing or to engage in an activity which is under the control of the actor, if the actor knows or should know that such person intends or is likely to use the thing or to conduct himself in the activity in such a manner as to create an unreasonable risk of harm to others.” In Anderson v. Bushong, supra, the dangerous instrumentality was again used by a young minor, a fourteen year old boy. The plaintiff was injured by a car driven by the boy in a grossly negligent manner. The car had been stolen from defendant’s lot while unattended and not otherwise protected, by the use of keys which the defendant knew had been stolen two days before.
+In the present case the evidence does not show such control of the instrumentality or of the actor as would render Erma liable for Harry’s actions. Still less does it show facts that would charge her with knowledge or with a duty to know that Harry intended or was likely to use the gun in such a manner as to create an unreasonable risk of harm to others. Negligence cannot be based upon a state of facts which does not impose a legal duty. Yania v. Bigan, 397 Pa. 316, 155 A. 2d 343 (1959). Moreover, even if she had had such control of the gun as would give her the right to deny Harry the use of it, we find no evidence that Erma had knowledge or should have had knowledge that Harry was so inattentive, careless, unskillful, reckless or lawless that she failed in any duty to keep the gun from him. Cf. Anderson v. Bushong, supra, at 386, 171 A. 2d at 773; Restatement, Torts, §302(b), comment i.
+Even when tbe evidence is interpreted, as it must be on tbis appeal, in a light most favorable to plaintiff (Mack v. Ferebee, 204 Pa. Superior Ct. 129, 203 A. 2d 350 (1964)) it forms no basis for a finding that Erma Soutter bad sucb control over either tbe actor or tbe gun as would make her guilty of negligence in not preventing Harry’s action. Since tbe plaintiff failed to meet the burden of showing negligence upon tbe part of Erma Soutter, judgment in her favor must be entered n.o.v.
+Order reversed and judgment n.o.v. entered in favor of tbe appellant, Erma Soutter.
