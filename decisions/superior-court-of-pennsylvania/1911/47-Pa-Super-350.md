@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 102"
+decided: "1911-07-13"
+citations: ["47 Pa. Super. 350"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Head, Beaver and Porter, JJ."]
+parties: ["South Connellsville Borough Incorporation."]
+source_url: "https://static.case.law/pa-super/47/cases/0350-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 423273
+cites_cases: ["12 Pa. Superior Ct. 353", "130 Pa. 348", "147 Pa. 58", "160 Pa. 475", "171 Pa. 211", "25 L. R. A. 755", "25 Pa. Superior Ct. 623", "28 Pa. 256", "32 Pa. Superior Ct. 465", "35 Pa. 335", "46 Pa. Superior Ct. 19", "5 W. & S. 281", "56 Pa. 66"]
+---
+
+# South Connellsville Borough Incorporation
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+There is a single question presented in this case. The appellants complain that the granting of the decree for the incorporation of the borough was an abuse of discretion by the court of quarter sessions, the particular objection being that farm lands were improperly incorporated into the borough. The propriety of creating the borough does not seem to be questioned and the facts leave that subject free from doubt. The population within the included territory is about 2,000. There are about 400 residences therein. Two school buildings are attended by between 400 and 500 children. There are several stores and shops and a number of manufacturing establishments. The Youghiogheny river and the line of the borough of Connellsville bound the territory on two sides and naturally fix those lines of the new borough. The expansion of the town would therefore be eastwardly from the river and toward the land alleged to be farm land. The map put in evidence shows a large number of residences east of the school lot on Gibson avenue extending to the neighborhood of Lake Reidmore on the north side of the territory incorporated and a plan of lots near the south line extending eastwardly as far as Twelfth street; east of that there are improvements on the McElhaney and Búfano property. In the intermediate territory there are residences although that is not thickly populated. The greater part of the lots of the Connellsville Extension Company on the south have not been sold, but the fact that that section has been divided into lots and that streets and alleys have been laid out and some of the lots have been sold gives support to the conclusion of the court that this portion of the territory was properly included. The learned judge of the court of quarter sessions made a careful examination 'of the case and reached the conclusion that all of the territory embraced within the corporate lines is reasonably appurtenant to the built up portion of the town and that the expansion of the borough will be in the direction of the unoccupied lots. Some of the territory is said to consist of small farms, but this is not ipso facto a sufficient reason for denying the incorporation. If the land may be reasonably considered as part of the town or so related to the developed portion that it will naturally and within a reasonable time come to be built up and improved it may be considered appurtenant. If, taking into consideration the present development of the community and the relation of the improved and built up portions to the lots that are unoccupied for village purposes, the latter may be considered adaptable for development and improvement, the court was not in error in authorizing an incorporation which included them. The court has found that these conditions existed with reference to the land embraced in the exceptions of the appellants and we have not found in the testimony sufficient reasons for concluding that this was reversible error. It may be considered as the settled rule that a decree for the incorporation of a borough will not be set aside unless the court has been guilty of a clear abuse of discretion where there is no irregularity in the proceedings disclosed by the record. We have no authority to review the exercise of the discretion committed to the quarter sessions by the act of June 26, 1895, P. L. 389 in decreeing the incorporation of a borough except when abuse of discretion is distinctly charged and clearly established: Taylor Boro., 160 Pa. 475; Narberth Boro., 171 Pa. 211; Moosic Boro., 12 Pa. Superior Ct. 353; Mill Creek Boro., 32 Pa. Superior Ct. 465; Millbourne Boro., 46 Pa. Superior Ct. 19. The earnest argument of the learned counsel for the appellant has not persuaded us that there was such an abuse of discretion as justifies the interference of an appellate court.
+The decree is therefore affirmed and the appeal dismissed at the costs of the appellants.
