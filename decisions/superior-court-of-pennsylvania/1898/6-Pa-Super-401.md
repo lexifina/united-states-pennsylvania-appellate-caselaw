@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 144"
+decided: "1898-01-18"
+citations: ["6 Pa. Super. 401"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Reeder, Orlady, Smith and Porter, JJ."]
+parties: ["Estate of Samuel Royer, deceased. Appeal of Samuel Wolf."]
+source_url: "https://static.case.law/pa-super/6/cases/0401-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 281924
+cites_cases: ["100 Pa. 628", "101 Pa. 495", "110 Pa. 339", "13 Phila. 254", "134 Pa. 492", "17 Atl. 207", "178 Pa. 57", "179 Pa. 387", "2 Montg. 173", "21 Pa. 67", "3 Montg. 103", "36 W. N. C. 118", "39 Pa. 191", "46 L. 1", "54 Pa. 216", "65 Pa. 368", "76 Pa. 106", "8 W. N. C. 415", "89 Pa. 220", "9 Pa. 151"]
+---
+
+# Estate of Royer
+
+## Majority (Smith, J.,)
+
+Opinion by
+Smith, J.,
+In October, 1884, Samuel Royer made his will, disposing of his entire estate, and appointed Samuel Wolf, Sr. and Adam Konigmacher executors. Subsequently, Adam Konigmacher died, and in July, 1890, his son Jacob Konigmacher was substituted by codicil. In January, 1893, the testator executed another codicil, in which he revoked the appointment of Samuel Wolf and appointed Jacob Konigmacher and W. K. Seltzer executors, and expressly ratified the will in all other respects. The testator died about two months after the execution of the last codicil, and his will was duly proved before the register of' Lancaster county. From the decree admitting it to probate Samuel Wolf, Sr., appealed, alleging that he was interested in the estate by “ being named in will of date of October 9, 1884,- and codicil of date of July 31, 1890, as one of the executors of the will of said Samuel Royer,” and assigned as reasons for his appeal that the testator was not of sound mind when he executed the codicil of January 25, 1893, and that the codicil was procured by fraud, duress, and undue influence. Evidence wg,s submitted to the orphans’ court on the question of the testator’s mental capacity, with special reference to his ability to make • the codicil by which the appellant’s appointment was revoked. No attempt was made to invalidate the original will or the first codicil. The court made no comment on the effect of this evidence relating to the testator’s mental capacity, but disposed of the case on the ground that the appellant was a stranger to the testator, — “ a mere intruder ” — not a “ person interested ” within the meaning of the statutes allowing interested persons to institute a contest, and for this reason dismissed the appeal.
+Two questions are raised by this record: (1) Was the evidence produced sufficient to warrant the granting of an issue devisavit vel non ? (2) Has Samuel Wolf such an interest in the estate as entitles him to raise this issue ? Vague and indefinite indications of mental weakness will not suffice to deprive a man of his dominion over his estate, or defeat his right to dispose of it by will. The testator was advanced in years at the time of making his will, and was not exempt from the infirmities of his age or the impairment of the mental faculties incident thereto; but there is nothing in the evidence that shows positive mental debility, or incompetency to act understandingly, when making the codicil of January 25th. The sole act complained of is the displacement of the appellant, who was. then eighty-seven years of age, and the substitution of a younger man of unquestioned fitness for the active discharge of the duties of the position. The appellant was not connected with the testator or his wife by blood or marriage; and the heirs and legatees do not complain of the change.
+From a close examination of the evidence it fails, in our opinion, to show that the testator was not in the full possession of his'senses and entirely competent to dispose of his estate when he made the last codicil. In this class of cases, where an issue is asked for by one who has a right to demand it, “ the issue is of right, under the 41st section of the act of March 15, 1832, when the fact arising and in dispute is substantial and material to the inquiry, unless the whole evidence of the fact alleged be so doubtful and unsatisfactory that a verdict against the validity of the will should not be permitted to stand: ” Schwilke’s Appeal, 100 Pa. 628. This rule, so often repeated by the Supreme Court, has long been the established test as to whether an issue should be granted; hence there is no difficulty, so far as the law is concerned, in determining the proper course to pursue. An examination of tbe evidence in the present case leads unhesitatingly to the conclusion that it is “ so doubtful and unsatisfactory that a verdict against the validity of the will should not be permitted to stand.” The few incidents shown, and upon which the appellant relies to prove mental incapacity, are common in every day life, even in persons far younger than the testator; but such casual departures from what men regard as the rational standard are not sufficient to deprive such persons of the right to dispose of their property by will.
+Holding as we do that nothing was shown which would justify the framing of an issue devisavit vel non, it is unnecessary for us to pass upon the other question presented.
+The decree is affirmed.
