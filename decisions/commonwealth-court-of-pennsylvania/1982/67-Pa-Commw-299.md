@@ -1,0 +1,36 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 802 C.D. 1981"
+decided: "1982-07-07"
+citations: ["67 Pa. Commw. 299"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Blatt, Williams, Jr. and MacPhail, sitting as a panel of three.", "Judge Williams, Jr. dissents."]
+parties: ["In Re: Application for New Restaurant Liquor License, Amusement Permit and Provisional Sunday Sales Permit by Kenneth N. Ruse, t/a The Sun Porch. Commonwealth of Pennsylvania, Pennsylvania Liquor Control Board, Appellant."]
+source_url: "https://static.case.law/pa-commw/67/cases/0299-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1932920
+cites_cases: ["20 Pa. Commonwealth Ct. 490", "33 Pa. Commonwealth Ct. 320", "342 A.2d 493", "381 A.2d 1017", "403 A.2d 148", "414 A.2d 721", "417 A.2d 823", "422 A.2d 1195", "43 Pa. Commonwealth Ct. 446", "51 Pa. Commonwealth Ct. 274", "53 Pa. Commonwealth Ct. 203", "54 Pa. Commonwealth Ct. 588"]
+---
+
+# In re New Restaurant Liquor License
+
+## Majority (Judge MaoPhail,)
+
+Opinion by
+Judge MaoPhail,
+The Pennsylvania Liquor Control Board (Board) has appealed from an order of the Court of Common Pleas of Fayette County which reversed a Board decision refusing the application of Kenneth N. Ruse, t/a The Sun Porch (Applicant) for a new. restaurant liquor license, amusement permit and provisional Sunday sales permit for premises in North Union Township, Fayette County.
+Section 461(a) of the Liquor Code (Code), Act of April 12, 1951, P.L. 90, as amended, 47 P.S. §4.461 (a) provides for a quota of one retail liquor license per two thousand inhabitants of a municipality. Under this provision, the quota for North Union Township is six licenses. According to the Board’s evidence, seventeen restaurant licenses are presently in effect in the Township, along with four hotel licenses, one club license and one catering club license. Therefore, no new licenses may be issued under Section 461(a) authority.
+Section 461(b) of the Code, 47 P.S. §4.461 (b), however, gives to the Board a discretionary power to issue further licenses if the municipality is a resort area. The burden is on the Applicant under Section 461(b) to show 1) that the premises sought to be licensed are in a resort area and 2) that there is an actual need for the license. Appeal of Brandywine Valley Inn, Inc., 53 Pa. Commonwealth Ct. 203, 206, 417 A.2d 823, 825 (1980). A hearing was conducted by the Board to consider this question, with testimony taken from a Board enforcement officer and from the Applicant. After said hearing, the Board determined that North Union Township was in excess of quota, that the proposed licensed premises was not located in a resort area, that there was no evidence of necessity for an additional restaurant liquor license in the Township and that the proposed liquor license was located within 300 feet of a cemetery owned by a Catholic Church.
+On the appeal taken from this determination to the court of common pleas no further evidence was presented. Both parties also stipulated that the only issue to be presented to the trial court was that of necessity.
+The trial court determined that necessity was shown, based on Applicant’s testimony that he had received many requests from patrons for alcoholic beverages and that there were no establishments which served moderately priced dinners within five miles of Applicant’s premises. The Court therefore determined that there was an abuse of discretion by the Board in refusing to grant Applicant’s license.
+The standard of review for a court of common pleas of a Board decision denying a license request is provided by Section 464 of the Code, 47 P.S. §4-464. The review power of the trial court is not unlimited; the trial court “may not substitute its discretion for that of the Board and may reverse the Board only if it has committed a clear abuse of discretion or when de novo facts varying from those accepted by the Board are found.” Darlene Bar, Inc. v. Pennsylvania Liquor Control Board, 51 Pa. Commonwealth Ct. 274, 276, 414 A.2d 721, 722 (1980) (emphasis in original) (citations omitted). Moreover, we have held that the trial court may not substitute its own findings for those of the Board where there is no significant variance in the evidence presented to the court from that presented to the Board. Chiavaroli Liquor License Case, 54 Pa. Commonwealth Ct. 588, 592, 422 A.2d 1195, 1197 (1980); Barone Liquor License Case, 43 Pa. Commonwealth Ct. 446, 449-50, 403 A.2d 148, 149 (1979). In the instant case there was no new evidence received by the lower court. Therefore, in the light of our prior decisions, it was error for the court to make a finding of necessity, contrary to the Board’s finding that there was no evidence of necessity presented.
+In finding an abuse of discretion the trial court relied principally upon this Court’s decision in Application of Hohl, 20 Pa. Commonwealth Ct. 490, 342 A.2d 493 (1975). In Hohl, our Court held that the Board had abused its discretion when, in determining necessity, it failed to consider the disparate needs of the various types of patrons who may frequent a resort area. Suffice it to say that the evidence presented in the instant case was far different from that in Hohl. Here, the Applicant presented only his own self serving statements in an attempt to show that his establishment serves a different clientele from that served by the other 23 liquor licenses in the community, notwithstanding the fact that the Board’s agent testified that a present licensee located across the highway in another municipality serves the same type of menu as does the applicant. We do not believe, in this case, that the Board has committed a manifest abuse of discretion, see Penn State Faculty Club v. Pennsylvania Liquor Control Board, 33 Pa. Commonwealth Ct. 320, 324, 381 A.2d 1017, 1018 (1978), in finding that there is no need in this community for another liquor license which the Applicant will fulfill.
+We reverse.
+Order
+The order of the Court of Common Pleas of Fayette County, dated February 18, 1981, is hereby reversed.
+Judge Williams, Jr. dissents.
+The Board apparently conceded that since prior decisions of the Fayette County Court, of Common Pleas have denominated the entire County as a resort area because it is located in an, area known as the “Laurel Highlands”, it would not contest that fact in this case.
+Neither did the Board choose to press the fact that the application should be denied because the premises were within 300 feet of a cemetery. Section 404 of the Code, 47 P.S. §4-404 provides that the Board may refuse to grant a new license if the premises proposed to be licensed is witbin 300 feet of a eburch. The trial judge held that a church owned cemetery was not included within the term “church”. Since the Board elected not to press that issue in this appeal, we express no opinion regarding the resolution of that issue by the trial court.
+In Hohl, this Court found an abuse of discretion in a refusal “to issue a take out license for beer to a roadside snack bar on grounds that a luxury hotel one hundred feet away is equally accessible,” 20 Pa. Commonwealth Ct,. at 494, 842 A.2d at 495.
