@@ -1,0 +1,45 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+decided: "1990-02-16"
+citations: ["131 Pa. Commw. 333", "570 A.2d 140"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DOYLE and BARRY, JJ., and NARICK, Senior Judge."]
+parties: ["COMMONWEALTH of Pennsylvania, DEPARTMENT OF ENVIRONMENTAL RESOURCES, Petitioner, v. LANDMARK INTERNATIONAL, LTD., Respondent."]
+source_url: "https://static.case.law/pa-commw/131/cases/0333-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1399186
+cites_cases: ["100 Stat. 1613", "305 A.2d 764", "42 U.S.C. § 9601-9675", "430 U.S. 955", "466 Pa. 31", "469 Pa. 578", "493 A.2d 146", "51 L.Ed.2d 804", "89 Pa.Commonwealth Ct. 561", "9 Pa.Commonwealth Ct. 297", "97 S.Ct. 1600"]
+---
+
+# Commonwealth v. Landmark International, Ltd.
+
+## Majority (BARRY, Judge.)
+
+OPINION
+BARRY, Judge.
+We have before us preliminary objections to a petition for enforcement of a consent order filed by the Pennsylvania Department of Environmental Resources (DER). The facts as set forth in DER’s petition are as follows. Landmark International (Landmark) owns a piece of real estate on which a number of drums containing hazardous materials were stored. After some of these substances were found in the soil, the federal Environmental Protection Agency (EPA) placed the site on the National Priorities List, which was established pursuant to the Comprehensive Environmental Response, Compensation and Liability Act (CERCLA). The EPA delegated to DER the responsibility of overseeing Landmark’s performance of a remedial investigation/feasibility study (RI/FS) pursuant to CERCLA and the relevant regulations. Landmark entered into a “con-, sent order and agreement” with DER in December of 1987 by which it agreed to perform the RI/FS. The consent order contained a provision for penalties to be assessed if Landmark was untimely in meeting its obligations under the consent order.
+Landmark was in fact late in submitting two documents, the “scope of work” and the “work plan”. DER filed a petition for enforcement of the consent order with this Court and is seeking payment of the penalties. Landmark filed preliminary objections which are now before the Court. DER filed a motion to strike the preliminary objections, arguing that preliminary objections are not available for use in a statutory enforcement proceeding.
+It is not necessary for us to decide DER’s motion to strike. Landmark’s preliminary objections raise a question of jurisdiction which can be raised at any time in some manner.
+It is apparent to this Court that even if preliminary objections are not available, we must address preliminarily the question of whether we have jurisdiction in the present matter. We may always raise the issue of our subject matter jurisdiction. St. Clair v. Pennsylvania Board of Probation and Parole, 89 Pa.Commonwealth Ct. 561, 493 A.2d 146 (1985).
+Landmark argues that the statutes cited in the consent order, the Solid Waste Management Act and the Clean Streams Law, provide two alternatives for the assessment of civil penalties. One is the direct assessment of penalties with the right of the alleged polluter to appeal to the Environmental Hearing Board (EHB). Landmark cites Section 605 of the Solid Waste Management Act for this alternative. The other alternative is to proceed directly before the EHB by filing a complaint for the assessment of civil penalties pursuant to 25 Pa.Code § 21.56. Landmark argues that this Court does not have jurisdiction since the EHB has never considered the matter.
+Landmark goes on to argue that the statutory sections relied on by DER in its petition in support of this Court's jurisdiction do not support the procedure used by DER for enforcing the order. Landmark argues that Section 601 of the Clean Streams Law and Section 604 of the Solid Waste Management Act involve procedures for seeking injunctions, something not involved in the present case. Landmark is, in fact, correct in this assertion. However, in its brief DER asserts that it mistakenly cited § 604 of the Solid Waste Management Act in the petition and that the petition was actually brought under § 603 of the Act, 35 P.S. § 6018.603, which reads:
+It shall be the duty of any person and municipality to proceed diligently to comply with any order issued pursuant to section 602. If such person or municipality fails to proceed diligently, or fails to comply with the order within such time, if any, as may be specified, such person or municipality shall be guilty of contempt, and shall be punished by the court in an appropriate manner and for this purpose, application may be made by the department to the court.
+35 P.S. § 6018.603.
+Section 602(a) of the Act, 35 P.S. § 6018.602(a), authorizes DER to issue orders as it deems necessary to aid in the enforcement of the Act. Although § 603 does not specify to which court it is referring, 42 Pa.C.S. § 761(a)(2) grants this Court jurisdiction of civil actions by the Commonwealth government. We hold that these statutes give this Court jurisdiction over enforcement actions for orders issued under the Act.
+With respect to the Clean Streams Law, DER does not address the fact that it also mistakenly cited § 601 of the Law involving procedures for seeking injunctions. Presumably this is because there does not appear to be a section of the law addressing enforcement of orders. Such orders are authorized, however, under 35 P.S. § 691.610. An order issued under this section may be appealed to the EHB. Where a party voluntarily enters into a consent order, it is as if DER issued an order from which no appeal was filed. Department of Environmental Resources v. Bethlehem Steel Corp., 469 Pa. 578, 367 A.2d 222 (1976), cert. denied, 430 U.S. 955, 97 S.Ct. 1600, 51 L.Ed.2d 804 (1977). The only legal action left to be taken with respect to that order is enforcement. Landmark has not cited any authority nor even alleged that the EHB has enforcement powers (i.e., power to adjudicate contempt). What Landmark is seeking, in effect, is an appeal of the consent order, a right which it waived by voluntarily entering into the order. Since the consent order is the equivalent of an order from which no appeal was taken, any collateral attack on the content or validity of the order in an enforcement proceeding is barred. Commonwealth v. Derry Township, Westmoreland County, 466 Pa. 31, 351 A.2d 606 (1976).
+In Bethlehem Steel the Pennsylvania Supreme Court held that this Court has jurisdiction over enforcement of a consent order under § 10(a) of the Air Pollution Control Act, which specifically authorizes such proceedings. In the absence of such authorization, we nevertheless conclude that we have jurisdiction over enforcement of a consent order. The EHB has no power to enforce such an order. Its general power comes from 35 P.S. § 7514(a) which authorizes the board to hold hearings and issue adjudications on orders, permits, licenses or decisions of DER. The Solid Waste Management Act and the Clean Streams Law each contain language granting the EHB the specific power to grant a supersedeas if an appeal of an order has been filed, but neither statute contains language granting the EHB enforcement powers. In accepting jurisdiction in Department of Environmental Resources v. Leechburg Mining Co., 9 Pa.Commonwealth Ct. 297, 305 A.2d 764 (1973), this Court stated that where the statutory law does not make specific provisions for enforcement of a consent adjudication entered by the EHB, a court of law must be available to entertain and act in proceedings to enforce such a consent adjudication. The present situation is analogous. This Court must be available for enforcement of consent orders entered into by DER and private parties.
+We have examined the preliminary objections of respondent and are of the opinion that they all essentially raise a question of jurisdiction which we overrule.
+ORDER
+NOW, February 16, 1990, the preliminary objections filed by Landmark International, Ltd., in the above captioned matter are overruled.
+. 42 U.S.C. § 9601-9675, as amended by the Superfund Amendments and Reauthorization Act of 1986 (SARA), Pub.L. 99-499, 100 Stat. 1613 (Oct. 17, 1986). This portion of the United States Code is Commonly referred to as the "Superfund Act”.
+. Act of July 7, 1980, P.L. 380, as amended, 35 P.S. §§ 6018.101-6018.-1003.
+. Act of June 22, 1937, P.L. 1987, as amended, 35 P.S. §§ 691.1-691.-1001.
+. 35 P.S. § 6018.605.
+. 35 P.S. § 691.601.
+. 35 P.S. § 6018.604.
+. This is not to say that Landmark cannot challenge DER’s assertion that it has violated the consent order. They may merely not challenge the existence of the order, its language and its enforceability. The language of the order may very well be subject to such an interpretation that this Court could disagree with DER’s position that penalties are due.
+. Act of January 8, 1960, P.L. (1959) 2119, as amended, 35 P.S. § 4010(a).
+. Act of July 13, 1988, P.L. 530.
+. 35 P.S. § 6018.108 and 35 P.S. § 691.610, respectively.
