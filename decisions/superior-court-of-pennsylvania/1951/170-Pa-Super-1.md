@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 151"
+decided: "1951-11-15"
+citations: ["170 Pa. Super. 1"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Bhodes, P. J., Hirt, Beno, Dithrich, Boss and Arnold, JJ. (Gunther, J., absent)."]
+parties: ["Mersel, Appellant, v. Alper Blouse Co., Inc."]
+source_url: "https://static.case.law/pa-super/170/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 474741
+cites_cases: ["103 A. 916", "126 Pa. Superior Ct. 171", "127 A. 309", "17 A. 601", "260 Pa. 423", "282 Pa. 65"]
+---
+
+# Mersel v. Alper Blouse Co.
+
+## Majority (Rhodes, P. J.,)
+
+Opinion by
+Rhodes, P. J.,
+The court below sustained defendant’s preliminary objections by way of demurrer to plaintiff’s complaint in assumpsit. The order provided that plaintiff could file an amended complaint within twenty days. Plaintiff refused to amend, and judgment was entered in favor of defendant.
+Plaintiff, a dress designer, entered into a written contract of employment with defendant, a manufacturer of women’s wear, for a term of one year from August 23, 1949, and for further terms of two years until either party gave written notice of termination sixty days prior to the expiration of the then current term. The provisions of the contract relating to plaintiff’s compensation were as follows:
+“4. DESIGNER shall receive and EMPLOYER shall pay the following compensation:
+“(a) Two and one-half per cent (2%) commission based on annual merchandise sales, less discounts, made by EMPLOYER over and above One Million Dollars ($1,000,000.00) ; . . .
+“(b) DESIGNER shall not be entitled to commissions on discounts, sales cancelled, merchandise returned, merchandise not paid for, and/or sales to the United States Government or any of its sub-divisions, it being understood and agreed that commissions so dedetermined shall be DESIGNER’S sole and only compensation (but DESIGNER shall nevertheless receive against commissions the drawing account hereinafter provided for).
+“5. EMPLOYER agrees to advance to DESIGNER Two Hundred Dollars ($200.00) during each week that the employment under this contract continues, as advances against the said commissions. All sums so advanced are to be deducted in final accounting from commissions earned by DESIGNER under the provisions of this agreement.
+“6. Settlement shall be made by EMPLOYER with DESIGNER thirty (30) days after each year of employment. DESIGNER shall be furnished by EMPLOYER with duplicate copies of all sales.”
+The parties entered into performance of the contract, but on June 23, 1950, defendant exercised its option to terminate the contract at the end of its first term. On July 10, 1950, defendant refused to make any further weekly advances to plaintiff, who had received to that date, as provided by paragraph 5 of the contract, forty-four weekly advances of $200. On July 27, 1950, defendant refused plaintiff’s further services, although she was ready and willing to perform. Plaintiff instituted the present action on August 3, 1950, to recover the sum of $800, representing four weekly advances due from July 10, 1950, to the date of the complaint. The court, below in sustaining defendant’s preliminary objections held, in effect, that plaintiff’s sole compensation under the contract was 2y2 per cent\ commission on the annual merchandise sales made by | defendant over and above one million dollars; that the j weekly advances to plaintiff under the contract were ! not to be regarded as earnings or salary; and that upon entry of the order on October 30, 1950, the rights of the parties were susceptible of exact determination.
+We do not understand that plaintiff contends she was entitled to $200 per week, in the nature of a guaranteed minimum salary, irrespective of the amount of commission payable upon the annual merchandise sales made by defendant over $1,000,000. Whatever her contentions her “sole and only compensation” under the .contract was the commissions on merchandise sales; and the weekly payments were “advances against the /said commissions.” See Snellenburg Clothing Co. v. Levitt, 282 Pa. 65, 127 A. 309; Producers’ Lumber Co. v. Guiniven, 260 Pa. 423, 103 A. 916.
+Plaintiff contends, however, that under paragraph 5 of the contract she had the right, independent of her right to receive the commissions, to a continuation of the weekly advances for the full term of the contract regardless of whether the advances she had already received would equal or exceed the commissions to which she was entitled under paragraph 4; and that any excess of advances received over commissions payable could not be determined until thirty days after the contract was to have terminated. We may assume that plaintiff was prima facie entitled to the full commission provided in the contract of employment notwithstanding the fact that her employment was terminated prior to the expiration of the agreed term. Emery v. Steckel, 126 Pa. Superior Ct. 171, 17 A. 601. And where advances on a commission account are treated as a minimum salary, it is obvious that an employe is entitled to receive and retain the agreed periodic advances notwithstanding the absence of earned commissions. But plaintiff’s contract does not so provide. The commissions determined and measured the compensation to which plaintiff is entitled, and are the basis of what either party might recover from the other under the contract. The order of the court below sustaming defendant’s preliminary objections was not entered until after the expiration of the term of employment and until after the settlement date provided in paragraph 6 of the contract had passed. As said by the court belotv, at the time of entry of the order on October 30, 1950, the rights of the parties Avere susceptible of exact determination. It is also significant that the contract provided that plaintiff be furnished by defendant with duplicate copies of all merchandise sales. Unless there was noncompliance by defendant with this provision of the contract — there was no averment that defendant had failed to comply — , plaintiff at the time of the entry of the court’s order had the same knowledge as defendant of all sales upon which the commissions payable to her Avere to be determined finally. It would seem that plaintiff’s refusal to amend as permitted by the court’s order can be construed in no other manner than as an admission that the advances received by her equalled or exceeded the commissions to which she would be entitled under the contract at the end of the term. We find no reversible error in the court’s disposition of the procedural question involved.
+Judgment is affirmed.
+Rule 1017 (b) (4) of Pennsylvania Rules of Civil Procedure, 12 PS Appendix.
