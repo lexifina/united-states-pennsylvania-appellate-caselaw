@@ -1,0 +1,58 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2248"
+decided: "1987-09-18"
+citations: ["366 Pa. Super. 224", "530 A.2d 1372"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WIEAND, OLSZEWSKI and HOFFMAN, JJ.", "WIEAND, J., filed a concurring statement."]
+parties: ["COMMONWEALTH of Pennsylvania, Appellee, v. Arthur W. HECKMAN, Jr., Appellant."]
+source_url: "https://static.case.law/pa-super/366/cases/0224-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 679832
+cites_cases: ["309 Pa.Super. 529", "315 Pa.Super. 256", "324 Pa.Super. 456", "336 Pa.Super. 394", "344 Pa.Super. 108", "351 Pa.Super. 56", "360 Pa.Super. 246", "362 Pa.Super. 408", "445 A.2d 1203", "486 Pa. 194", "490 Pa. 91", "491 Pa. 598", "498 Pa. 245", "511 Pa. 610", "514 Pa. 124"]
+---
+
+# Commonwealth v. Heckman
+
+## Majority (OLSZEWSKI, Judge:)
+
+OLSZEWSKI, Judge:
+This is an appeal from the judgment of sentence imposed following appellant’s conviction for involuntary deviate sexual intercourse, corruption of minors, and indecent exposure. Appellant presents three issues for our review: (1) whether the trial court erred in ruling that the victim, age five at the time of the offense, possessed the requisite competency to testify; (2) whether the trial court properly imposed consecutive sentences for the three convictions; and (3) whether the evidence was sufficient to sustain the verdict in light of the trial court’s refusal to allow defendant’s alibi witness to testify. For the reasons which follow, we conclude that issues (1) and (3) are waived. Having considered appellant’s remaining issue, we find it to be without merit and therefore affirm the judgment of sentence.
+This matter involves appellant’s sexual assault of a five-year-old child. The victim, J.M., testified at trial that appellant licked his “pee-pee” and identified his “pee-pee” as being his penis. J.M. further stated that appellant “pulled his [appellant’s] pee-pee out” and made J.M. and his sister, H. M., touch it. The jury returned a verdict of guilty on November 15, 1984. Thirteen days later, on November 28, 1984, appellant filed post-verdict motions which the trial court subsequently denied. Appellant was then sentenced on August 12, 1985, to prison terms of five to ten years on his conviction of involuntary deviate sexual intercourse and six months to three years each on his convictions of corruption of minors and indecent exposure. Appellant’s sentence for indecent exposure was to be served concurrently with his sentence for corruption of minors and those sentences were to be served consecutively with appellant’s sentence for involuntary deviate sexual intercourse. Thereafter, on August 26, 1985, appellant filed a pro se motion for reconsideration and modification of sentence nunc pro tunc, which the trial court denied, treating it as having been timely filed. Appellant filed a timely notice of appeal on August 27, 1985.
+We do not address the merits of appellant’s first and third issues as they have not been properly preserved for our review. Pennsylvania Rule of Criminal Procedure 1123(a) states in pertinent part:
+Within ten (10) days after a finding of guilt, the defendant shall have the right to file written motions for a new trial and in arrest of judgment ... [0]nly those issues raised and the grounds relied upon in the motions that are stated specifically and with particularity may be argued or heard.
+Pa.R.Crim.P. 1123(a).
+Interpreting this rule, our courts have held that only those issues included in post-verdict motions will be considered preserved for appellate review. Commonwealth v. Gravely, 486 Pa. 194, 404 A.2d 1296 (1979); Commonwealth v. Cherpes, 360 Pa.Super. 246, 520 A.2d 439 (1987); Commonwealth v. Shain, 324 Pa.Super. 456, 471 A.2d 1246 (1984). Appellant’s first issue is not included in his post-verdict motions. Under the foregoing case law, this issue has been waived.
+Our courts have also addressed post-verdict motions set out in boilerplate fashion. In Commonwealth v. Holmes, 315 Pa.Super. 256, 461 A.2d 1268 (1983) (en banc), we held that:
+a post-verdict motion, either that “the evidence was insufficient to support the verdict,” or that “the verdict was against the weight of the evidence,” will preserve no issue for appellate review unless the motion goes on to specify in what respect the evidence was insufficient, or why the verdict was against the weight of the evidence.
+Id., 315 Pa.Superior Ct. at 259-260, 461 A.2d at 1270 (emphasis in original). See also Commonwealth v. Pronkoskie, 498 Pa. 245, 445 A.2d 1203 (1982); Commonwealth v. Taylor, 362 Pa.Super. 408, 524 A.2d 942 (1987). Appellant’s third issue was set out in boilerplate fashion. As a result, this issue has also been waived.
+We also observe that appellant’s post-verdict motions were not timely, having been filed thirteen days after entry of the jury’s verdict. In Commonwealth v. Gregory, 309 Pa.Super. 529, 455 A.2d 1210 (1983), we held that “a violation of the time requirements of R. 1123(a) will work a waiver on appeal, notwithstanding the trial court having treated a tardily filed post-verdict motion on its merits.” Id., 309 Pa.Superior Ct. at 535, 455 A.2d at 1213. As we stated in Gregory, “R. 1123(a) must be complied with; and trial court indulgence of violations will not serve to insulate parties on appeal from the consequence of violations of the Rule.” Id., 309 Pa.Superior Ct. at 533, 455 A.2d at 1212. See Commonwealth v. Philpot, 491 Pa. 598, 421 A.2d 1046 (1980).
+We now turn to appellant’s second issue. Appellant asserts that the acts which constituted corruption of minors and indecent exposure were basically the same as the acts required for the conviction of involuntary deviate sexual intercourse and that, as a result, the trial court erred in imposing consecutive sentences. We note that the trial court did impose separate sentences for each of these convictions, directing that the corruption of minors and indecent exposure sentences run concurrently with each other, and consecutively with the involuntary deviate sexual intercourse sentence.
+Our Supreme Court recently addressed the common law merger doctrine in Commonwealth v. Michael Williams, 514 Pa. 124, 522 A.2d 1095 (1987). There, the Supreme Court cited and approved of a two-pronged test adopted by an en banc panel of this court in Commonwealth v. Leon Williams, 344 Pa.Super. 108, 496 A.2d 31 (1985) {en banc), summarizing that test as follows:
+Under this test, merger is required only when two prerequisites are met. First, the crimes must “necessarily involve” one another. Second, even if the two crimes necessarily involve one another, they do not merge if there are substantially different interests of the Commonwealth at stake and the defendant’s act has injured each interest.
+Commonwealth v. Michael Williams, supra, 514 Pa. at 136-137, 522 A.2d at 1101, citing Commonwealth v. Leon Williams, supra, 344 Pa.Super. at 125, 496 A.2d at 50. See also Commonwealth v. Taylor, supra, 362 Pa.Super. at 408, 524 A.2d at 942.
+Our Supreme Court has previously held that the offenses of indecent exposure and corruption of minors do not merge, the court finding that they protect different interests of the Commonwealth. Commonwealth v. Sayko, 511 Pa. 610, 515 A.2d 894 (1986). We, therefore, address only whether either of these offenses merge with the offense of involuntary deviate sexual intercourse. We need not discuss the first prong of the foregoing merger test, however, because we find that, even if these crimes necessarily involve one another, substantially different Commonwealth interests have been injured by the appellant’s act. At stake with respect to the offense of involuntary deviate sexual intercourse is the Commonwealth’s interest in preventing people from being forced against their will to submit to sexual conduct and in preventing minors from being sexually used by adults, see Commonwealth v. Bonadio, 490 Pa. 91, 95, 415 A.2d 47, 49 (1980), while the offense of indecent exposure concerns the Commonwealth’s interest in proscribing exhibitionism and in shielding any victim from such conduct, and the offense of corruption of minors involves the Commonwealth’s interest in protecting minors from corrupting influences, “the consequences of which may follow them all their days,” Commonwealth v. Sayko, supra, 511 Pa. at 616, 515 A.2d at 897. These are substantially different interests, in our view, each of which has been injured by the appellant’s conduct in this case. For these reasons, appellant’s argument that the trial court erred in imposing consecutive sentences is without merit.
+Judgment of sentence is affirmed.
+WIEAND, J., filed a concurring statement.
+. 18 Pa.C.S.A. § 3123(5).
+. 18 Pa.C.S.A. § 6301(a).
+. 18 Pa.C.S.A. § 3127.
+. By order dated August 27, 1985, the trial court directed that the motion be treated as timely filed.
+. Appellant’s motion for a new trial and/or arrest of judgment set forth the issues as follows:
+1. The verdict is contrary to the law.
+2. The verdict is contrary to the evidence.
+3. The verdict is contrary to the weight of the evidence.
+4. The evidence was insufficient to sustain the verdict of the jury.
+5. The evidence was insufficient for the jury to determine that the defendant engaged in involuntary deviate sexual intercourse in that the Commonwealth failed to prove intercourse per os.
+. We note that appellant did not include this issue in his motion to modify sentence. As held by an en banc panel of this Court, however, ”[t]he question of the legality of multiple sentences, based on a claim that the convictions should have merged for sentencing, is not waived by the failure to raise it in the trial court." Commonwealth v. Campbell, 351 Pa.Super. 56, 63, 505 A.2d 262, 265 (1986) {en banc).
+. See also Commonwealth v. Maute, 336 Pa.Super. 394, 485 A.2d 1138 (1984).
+
+## Concurrence (WIEAND, Judge,)
+
+WIEAND, Judge,
+concurring:
+I agree that the first and third issues raised by appellant were waived when appellant failed to include them in his post-trial motions. I cannot agree, however, that these issues were waived merely because appellant’s post-trial motions were filed thirteen days after the verdict had been entered. In my judgment, counsel’s untimeliness should be overlooked where, as here, the trial court has allowed the same and has considered the issues raised therein as though the motions had been timely filed and where, as here, our ability to conduct a meaningful review has not been impaired in any way.
+I would also find that the second issue raised by appellant was waived because it was not included in appellant’s motion to modify sentence. In my judgment, issues concerning merger of convictions for purposes of sentencing do no call into question the legality of the sentence and, therefore, are waived if not included in a motion to modify sentence. See: Commonwealth v. Campbell, 351 Pa.Super. 56, 505 A.2d 262 (1986) (Wieand, J., concurring).
+. Appellant did allege in post-trial motions that the evidence was insufficient to sustain the conviction of involuntary deviate sexual intercourse because penetration had not been proved. However, on appeal, he has abandoned this issue and instead argues only that the evidence was insufficient in light of the victim’s inability to testify as to the exact date of the incident and the trial court’s refusal to permit appellant to prove alibi. Because this issue was not argued before the trial court, I agree that it was waived.
