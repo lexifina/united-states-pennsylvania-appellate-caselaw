@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 1458"
+decided: "1928-07-12"
+citations: ["94 Pa. Super. 106"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, P. J., Henderson, Trexler, Keller, Linn, Gawthrop and Cunningham, JJ."]
+parties: ["Baldwin, Appellant, v. The City of Erie et al."]
+source_url: "https://static.case.law/pa-super/94/cases/0106-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 679933
+cites_cases: ["109 Pa. 9", "152 Pa. 348", "223 Pa. 283", "254 Pa. 397", "276 Pa. 246", "31 Pa. Superior Ct. 413", "66 Pa. 155", "73 Pa. Superior Ct. 61"]
+---
+
+# Baldwin v. City of Erie
+
+## Majority (Gawthrop, J.,)
+
+Opinion by
+Gawthrop, J.,
+The city council of the city of Erie, being desirous of constructing a sanitary tile sewer in certain streets running through the property of appellant, undertook to exercise the jurisdiction, conferred by Article XIII of the Act of June 27, 1913, P. L. 568, to proceed without a petition of abutting property owners and assess the cost of such sewer against the abutting property according to benefits. After the work was completed an assessment was made and appellant was duly notified of the amount of his assessment and that a hearing thereon would be held by the city council on a date named. Whereupon he filed objections to the amount assessed against his land by the report of the viewers, but the council overruled the same and confirmed the assessment. He then filed a bill in equity against the city alleging that the assessment against his property is excessive and is for other reasons wholly illegal and void, and praying for’an injunction restraining the city from attempting to enforce the collection of the assessment made against him. The city filed preliminary objections to the under Equity Bule 48, asserting, inter alia, that the court was without jurisdiction to grant the relief sought for the reason that plaintiff has an adequate remedy at law. The chancellor sustained this objection to the bill and, in accordance with Equity Bule 49, certified it to the law side of the court for further proceedings under the Act of June 4, 1901, P. L. 364, relating to the filing of liens for municipal improvements. From that order plaintiff brings this appeal.
+We are of one mind that it has no merit. Appellant contends that as the Act of 1913, supra, authorizos tlie city council to appoint the viewers to make the assessment of the cost and expense of the sewers upon the lands abutting thereon according to the benefits resulting to each lot of land, and to hear and dispose of all objections to the assessments made by the viewers, and there is no provision for a review by the court, it follows that he can obtain no relief except in equity. With this we cannot agree. Fully adequate remedies at law are provided by section 14 of the Act of 1923, P. L. 207, whereby a jury trial may be had to determine how much, if anything, may be due the city. That section of the Act of 1923 is phrased in the identical language of section 15 of the Act of June 4, 1901, P. L. 364, which dealt with the same subject. This section of the Act of 1901 was under consideration in Geesey v. City of York, 254 Pa. 397, in which a bill in equity was filed to restrain the City of York from filing liens for paving the street in front of plaintiffs ’ lots, on the ground that the proceedings of city councils in authorizing said paving were irregular and illegal. One of the reasons stated by the chancellor for dismissing the bill was that the plaintiffs had an adequate remedy at law under section 14 of the Act of 1901, whereby they could make all the defenses against the paving claims which they had set up in the bill in equity. The bill was dismissed without prejudice and the decree was affirmed by the Supreme Court on the opinion of the chancellor. This decision is apposite to the present case.. See also Sharpsville Borough v. Randall, 73 Pa. Superior Ct. 61, as to the adequacy of the remedy provided by the 15th section of the Act of 1901. Where a statutory remedy exists and may be pursued, equity cannot interfere on the ground of irreparable mischief: Brown’s Appeal, 66 Pa. 155. The assistance of a court of equity cannot be invoked to change or supersede the' statutory remedy. Assessment for construction of sewers has always been regarded as a species of taxation: Oil City v. Oil City Boiler Works, 152 Pa. 348. “Belief against erroneous or illegal assessment will not be granted by a court of equity, if tbe property owner lias an adequate remedy at law. Thus if the statute or charter provides a remedy by appeal or otherwise for persons aggrieved by void or erroneous assessments, such remedy is generally exclusive, and will preclude any resort to equity”: McQuillan Municipal Corps., Vol. 5, p. 4524. The learned chancellor was right in certifying the bill to the law side of the court.
+The order is affirmed.
