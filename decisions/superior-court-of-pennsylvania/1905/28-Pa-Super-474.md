@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 133"
+decided: "1905-07-13"
+citations: ["28 Pa. Super. 474"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Beaver, Porter, Morrison and Henderson, JJ."]
+parties: ["Murray’s Estate."]
+source_url: "https://static.case.law/pa-super/28/cases/0474-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 858969
+cites_cases: ["111 Pa. 243", "137 Pa. 621", "183 Pa. 296", "76 Pa. 354"]
+---
+
+# Murray's Estate
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+W. P. Murray died on July 7, 1901, leaving a widow, the appellant, but no children. By his will, which was duly proved, he made certain provisions for his widow, and gave the residue of his estate to his six brothers and sisters, in varying proportions, and of the will appointed his widow, the appellant, and B. H. Murray, his brother, executrix and executor. The widow renounced her right to act as executrix and, on August 22, 1901, letters testamentary were issued to B. H. Murray, the appellee. The widow, on July 3, 1903, filed her declaration declining to accept under the will, and it does not appear that prior to that time the executor, the appellee, had any notice that the will was not to be executed according to its terms. B. H. Murray was a legatee and devisee under the will, as well as executor, and the action of the widow, in refusing to take under the will, resulted in decreasing the amount which he would have been entitled to receive out of the estate, had the will been executed according to its terms. In that clause of the will appointing Elizabeth A. Murray and B. H. Murray to be executrix and executor thereof, there was this provision: “ And for compensation for the collection, and distribution of my personal property to receive $100 each. Then for all other money received and paid out to get five per cent, to be divided according to service done.”
+The executor having filed his account, the appellant filed a number of exceptions which were passed upon by the court below and the only question involved in this appeal relates to the commissions of the executor. The court below awarded commissions in the amount of $838.68, being four per cent upon the amount of money which had passed through his hands, and there is no allegation that this was more than reasonable compensation for the service performed. The appellant contends, however, that the commissions of the executor should be limited to the $100, “ compensation for the collection and distribution of personal property,” as provided by the will, under which she had declined to take.
+Where an executor accepts the office with knowledge of a provision in the will fixing his compensation, he is ordinarily bound thereby: Harper’s Appeal, 111 Pa. 243; Hays’s Estate, 183 Pa. 296. These cases decided that the undertaking of the executor was in the nature of a contract; when he accepts the trust he is bound by the provision of the instrument which creates it fixing the compensation for its execution. But compensation for what? Manifestly for the execution of the will. An executor might willingly undertake to execute without compensation a will which gave him one half the entire estate remaining after the payment of debts. Would he, having accepted the trust, under such circumstances, be compelled to go without compensation if, when his labors were almost concluded and nothing remained but to distribute the fund, a later will was produced, which also named him as executor and directed that he serve without compensation but gave him no legacy, and such later will, with or without a contest, prevailed ? That case, it is true, would be harder than the present one, but the same principle is involved; the execution of the trust which the appellee undertook was made impossible by the act of the appellant, and the result has been to deprive him of property which he would have received had the will been executed according to its terms. If the relation of the appellee to the estate is to be considered in the light of a contract, then he has been compelled by the act of the appellant to do something which he did not contract to do. No creditor of the estate or legatee under the will made any objections to the commissions of the accountant in the court below, and no one except the widow is here complaining. It is not necessary to consider what would have been the effect of the disappointment of the appellee as a legatee upon his right to com missions as executor under the will, if all those claiming under the will had not acquiesced in the allowance of the commissions.
+The appellant having declined to accept under the will, the intestate laws supersede the will as to her ; as to her there is no will, and her rights are to be determined as if none had ever been written: Hoover v. Landis, 76 Pa. 354; Cunningham’s Estate, 137 Pa. 621. Having elected to set aside the will so far as she was concerned, and thereby decreased the amount which the appellee would have received as a legatee and devisee, she is now estopped to assert any provisions of the will requiring the executor to serve for a nominal compensation and thus increase her own interest in the estate. She was entitled to the share of the estate, remaining after the payment of debts and reasonable expenses of administration, given her by the intestate laws ; as awarded to her by the court below.
+The' decree is affirmed.
