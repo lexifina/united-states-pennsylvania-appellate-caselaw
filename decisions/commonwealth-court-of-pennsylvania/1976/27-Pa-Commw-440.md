@@ -1,0 +1,36 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "127 C.D. 1976"
+decided: "1976-12-09"
+citations: ["27 Pa. Commw. 440"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Mencer and Blatt, sitting as a panel of three."]
+parties: ["Raymond O. Coshey, Charles R. Kaylor and Dorothy M. Kerchner, Plaintiffs v. Frank S. Beal et al., Defendants."]
+source_url: "https://static.case.law/pa-commw/27/cases/0440-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1877245
+cites_cases: ["13 Pa. Commonwealth Ct. 339", "130 A.2d 700", "15 Pa. Commonwealth Ct. 524", "16 Pa. Commonwealth Ct. 254", "18 Pa. Commonwealth Ct. 394", "2 Pa. Commonwealth Ct. 614", "21 Pa. Commonwealth Ct. 116", "290 A.2d 428", "298 A.2d 916", "321 A.2d 392", "327 A.2d 397", "329 A.2d 304", "336 A.2d 455", "343 A.2d 695", "388 Pa. 61", "409 U.S. 413", "5 Pa. Commonwealth Ct. 287", "7 Pa. Commonwealth Ct. 71"]
+---
+
+# Coshey v. Beal
+
+## Majority (President Judge Bowman,)
+
+Opinion by
+President Judge Bowman,
+Raymond O. Coshey, Charles R. Kaylor and Dorothy M. Kerchner (Plaintiffs) seek by this proceeding in mandamus to compel defendants — more specifically, the Department of Public Welfare (Department) — to refund to Plaintiffs monies wrongfully paid to the Department out of delayed lump-sum social security benefits as reimbursement for public assistance previously received.
+It is not disputed by defendants that Plaintiffs are entitled to the funds they seek, and, therefore, the circumstances under which the funds were collected by the Department do not concern us. What we are concerned with are those events which transpired after Plaintiffs sought refund of their monies. As this case is before us on preliminary objections, we must treat as true all well and clearly pleaded facts. Metropolitan Hospital v. Department of Public Welfare, 21 Pa. Commonwealth Ct. 116, 343 A.2d 695 (1975).
+Upon learning that such reimbursement was not required of them, Plaintiffs individually contacted the Westmoreland County Board of Assistance (Board) to demand refunds. These demands were refused by the Board which contended that the monies had been transferred to the Claim Settlement Division of the Department. After being contacted' hy Plaintiffs’ counsel in January, February and March of 1974, the Claim Settlement Division replied that it would place “follow up controls” on Plaintiffs’ claims while awaiting judicial resolution of two independent cases and, in effect, advised Plaintiffs to wait.
+When no action was forthcoming from the Board, Plaintiffs, in mid-January, 1975, appealed to the Board: Hearings in February and April of 1975 culminated in orders dated June 10, 1975, directing the Department to pay back the monies received from Plaintiffs plus interest thereon. 'No appeals from these adjudications and orders were ever taken by defendants. Unable to secure compliance with the orders of June 10,1975, despite repeated and varied attempts to do so, Plaintiffs initiated this proceeding in mandamus within our original jurisdiction.
+Defendants take the position, not raised at the hearings below, that only the Board of Finance and Revenue is empowered to entertain Plaintiffs’ petition for refunds and, therefore, the Department and the Board are unable to do so. This is, of course, true under Section 503 of The Fiscal Code, Act of April 9,1929, P.L. 343, as amended, 72 P.S. §503. Section 503, however, requires that “ [a] 11 . . . petitions for refund must be filed with the Board within two years of the payment of which refund is requested. . . .” Charles R. Kaylor, the last Plaintiff to reimburse the Department, did so on September 5, 1973. Thus Plaintiffs are apparently barred by the two year limitation in Section 503 from pursuing their remedies before the Board of Finance and Revenue.
+Upon careful consideration of the arguments advanced and the evidence presented, we conclude that it would work an injustice to foreclose Plaintiffs ’ avenue of appeal to the Board of Finance and Revenue. We recognize that the timeliness of an appeal goes to the jurisdiction of the body appealed to and its competency to act. Department of Environmental Resources v. Wolford, 16 Pa. Commonwealth Ct. 254, 259, 329 A.2d 304, 306 (1974); Duggan v. Environmental Hearing Board, 13 Pa. Commonwealth Ct. 339, 342, 321 A.2d 392, 393 (1974). We also take note of our holdings to the effect that an appeal nunc pro tunc shall not be allowed without a showing of fraud or its equivalent or a breakdown in the operation of the judicial system. Alger-Rau Associates, Inc. v. General State Authority, 7 Pa. Commonwealth Ct. 71, 74, 298 A.2d 916, 917 (1973); Yatzor v. Washington Township Commissioners, 2 Pa. Commonwealth Ct. 614, 618 (1971). A showing of mere hardship is not sufficient. Philadelphia v. Rohm & Haas Co., 5 Pa. Commonwealth Ct. 287, 290, 290 A.2d 428, 431 (1972). Finally, we are cognizant of the holdings of our Supreme Court requiring strict construction of statutes granting a privilege to sue the Commonwealth for recovery of money erroneously paid to it. E.g., Land Holding Corp. v. Board of Finance and Revenue, 388 Pa. 61, 130 A.2d 700 (1957).
+We are of the view, however, that the factual posture of this case makes it a suitable one for the granting of leave to appeal nunc pro tunc. It is admitted that the Department, through its agents, was wrong when it demanded and collected reimbursement from Plaintiffs. This wrong was compounded by the refusal to refund Plaintiffs’ monies despite a Department directive dated October 19, 1973, retroactive to January 10, 1973, when the United States Supreme Court decided Philpott v. Essex County Welfare Board, 409 U.S. 413 (1973), which required such action, and by advising plaintiffs to await judicial resolution of two independent cases before pursuing their own remedies. At hearings before its own examiners the Department failed to raise the defense of lack of capacity to pay and then failed to appeal from the adverse decisions while ignoring Plaintiffs’ attempts to obtain compliance with the June 10, 1973, orders.
+This extraordinary combination of inexplicable behavior on the part of agents of the Commonwealth demands an extraordinary remedy.
+Order
+Now, December 9, 1976, leave is hereby granted to Plaintiffs to petition nunc pro tunc the Board of Finance and Revenue for a refund of their monies wrongfully collected by the Commonwealth, said petitions to be filed within thirty days of this Order. Bach party to bear his own costs.
+Plaintiff Coshey paid $1,693.00. Plaintiff Kaylor paid $3,898.00. Plaintiff Kerchner paid $1,967.00. Payments were made on May 11, 1973, September 5, 1973, and February 6, 1973, respectively.
+See Wohlgemuth v. Armacost, 18 Pa. Commonwealth Ct. 394, 336 A.2d 455 (1975), and Good v. Wohlgemuth, 15 Pa. Commonwealth Ct. 524, 327 A.2d 397 (1974), for factual circumstances virtually identical to those of the case at hand.
+Section 401(a) of the Appellate Court Jurisdiction Act of 1970, Act of July 31, 1970, P.L. 673, 17 P.S. §211.401 (a).
+We note that this defense was not raised in Armacost, supra, note 2 and Good, supra, note 2.
