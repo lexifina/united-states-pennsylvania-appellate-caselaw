@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 63"
+decided: "1909-12-13"
+citations: ["41 Pa. Super. 309"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Porter, Henderson, Morrison, Head and Beaver, JJ."]
+parties: ["Darlington, Appellant, v. Clemson."]
+source_url: "https://static.case.law/pa-super/41/cases/0309-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 884119
+cites_cases: ["126 Pa. 367"]
+---
+
+# Darlington v. Clemson
+
+## Majority (Per Curiam,)
+
+Per Curiam,
+The prayers of the plaintiff’s bill were, (a) for a decree requiring the defendants to contribute and pay to the plaintiff their respective proportionate shares of the amount of a certain judgment obtained against him by the First National Bank of Pittsburg, Kansas, in accordance with the number of shares of the capital stock of the Neosho Valley Investment Company, a Kansas corporation, owned or held by each defendant; (b) for such other and further equitable relief as he was entitled to. There was no prayer for discovery. In order to a final decree, that would give the plaintiff the entire relief prayed and end the whole matter, it was essential that he show the number of shares of stock held by each of the parties called upon to contribute. In strictness he ought to have set this forth in his bill, or to have averred his inability to do so and prayed for discovery. In this particular the bill was defective.
+But a more serious and substantial defect was that the bill did not distinctly aver all the facts essential to sustain the plaintiff’s claim for contribution. It was not sufficient to aver that he and the defendants were owners and holders of shares of the capital stock of the Neosho Valley Investment Company, and that the defendants were liable with him, under the laws of Kansas, for the indebtedness of that corporation. The equity of contribution arises when one of several parties, who are liable to a common debt, discharges the same for the benefit of all. Hence, it was essential that the plaintiff go further and aver that the judgment obtained against him by the First National Bank of Pittsburg, Kansas, which he paid, was for a debt of the Neosho Valley Investment Company. The averment in the stating part of the bill, that the bank, having first procured a judgment against the investment company, then brought suit against the plaintiff in the bill in the common pleas of Chester county “making certain claims against your orator which is fully set out in the plaintiff’s statement filed in said action,” is manifestly insufficient to meet the above requirement. That the judgment obtained against the plaintiff was for the indebtedness of the investment company was left wholly to surmise. Nor was the defect in this material particular of the plaintiff’s case cured by the vague, uncertain and ambiguous averment of the fourth paragraph of the bill. While the doctrine of a rigid and technical' construction of bills in equity no' longer prevails, it is clear, both upon principle and authority, that every averment necessary to entitle the plaintiff to the relief sought must be contained in the bill, and may not be supplied by inference, and that it should be free from ambiguity and uncertainty. See Thompson’s App., 126 Pa. 367; Story’s Eq. sec. 241. It is urged that where a bill makes a case for equitable relief, a general demurrer will not be sustained. This principle will not sustain the bill under consideration because, as we have seen, it does not distinctly and with certainty aver one of the prime essentials to the relief prayed for. Nor, as will be seen presently, are those cases applicable in which it has been held that where a bill in equity shows a substantial ground for relief and there has been a full hearing on the merits, an amendment as to form will be permitted even in the appellate court. But it is urged that the court erred in sustaining the demurrer without giving the plaintiff an opportunity to amend. Rule 35 of rules in equity reads as follows: “If, upon the hearing, any demurrer or plea shall be allowed, the court may, in its discretion, upon motion of the plaintiff, allow him to amend his bill upon such terms as it shall deem reasonable.” Here the plaintiff had notice, from the assignment of reasons in support of the demurrer, of the defects in the bill above referred to. He made no motion to amend either before or after argument on the demurrer, or even after the final order had been made. He is not in position to question the discretion of the court, since he did not invoke the exercise of that discretion as the equity rules provide.
+The decree is affirmed at the costs of the appellant.
