@@ -1,0 +1,37 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1678"
+decided: "1982-12-10"
+citations: ["307 Pa. Super. 459", "453 A.2d 674"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CAVANAUGH, CIRILLO and HOFFMAN, JJ."]
+parties: ["BUILDERS OF SANITARY SEWERS, INC. v. TAMAQUA BOROUGH AUTHORITY and Gannett, Fleming, Corddry and Carpenter, Inc. Appeal of TAMAQUA BOROUGH AUTHORITY."]
+source_url: "https://static.case.law/pa-super/307/cases/0459-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 204354
+cites_cases: ["206 Pa. Superior Ct. 51", "211 A.2d 91", "348 Pa. 286", "35 A.2d 264", "445 A.2d 1203", "475 Pa. 610", "479 Pa. 175", "491 Pa. 598", "498 Pa. 245"]
+---
+
+# Builders of Sanitary Sewers, Inc. v. Tamaqua Borough Authority
+
+## Majority (PER CURIAM:)
+
+PER CURIAM:
+Appellant contends that the lower court erred in (1) finding that appellee had not breached its contract with appellant; and (2) dismissing its counterclaim. We are unable to reach the merits of appellant’s contentions, however, because the lower court has failed to address them in its opinion below. Accordingly, we must remand.
+On January 8, 1974, appellant contracted with appellee, Builders of Sanitary Sewers, Inc. (BOSS) for construction and installation of a water main in Schuylkill County. A dispute arose during construction and appellant, with its engineer, Gannett, Fleming, Corddry and Carpenter, Inc. (Engineer), ordered BOSS off the job. Another contractor completed the work. BOSS sued appellant and Engineer, prompting a counterclaim by appellant. After a nonjury trial, the lower court awarded BOSS an $18,322 verdict against appellant, dismissed appellant’s counterclaim, and granted a non-suit in favor of Engineer. Appellant then filed the following post-trial motions:
+1. The Court erred in that the verdict is against the weight and credibility of the evidence.
+2. The Court erred in that [BOSS] breached its contract with the borough of Tamaqua Authority as a matter of law.
+3. The defendant excepts to the dismissal of its Counterclaim.
+4. Defendant, Tamaqua Borough Authority, excepts to the entry of a compulsory non-suit in favor of Gannett, Fleming, Corddry and Carpenter, Inc. on the basis that Borough Authority terminated its contract with [BOSS] on the advice from the engineers.
+5. Defendant requests leave of Court to supplement these exceptions with other exceptions which may become apparent when the record is transcribed, as the non-jury trial took place over a period of six months and was a highly complicated and protracted case.
+The lower court dismissed the first three exceptions as too general, addressed the fourth, and refused appellant’s request to file supplemental exceptions. This appeal followed.
+Although it is well-settled that boiler-plate post-verdict motions will not preserve allegations of error for appeal, Commonwealth v. Pronkoskie, 498 Pa. 245, 253, 445 A.2d 1203, 1207 (1982); Commonwealth v. Philpot, 491 Pa. 598, 600, 421 A.2d 1046, 1047 (1981), we cannot agree with the lower court that appellant’s second exception is too general to allow the court “to intelligently rule” upon it. Lower Court Op. at 3. Appellant’s exception alleged that the lower court’s verdict for BOSS in both the original suit and the counterclaim was in error because BOSS had breached the contract as a matter of law. Thus, the lower court was required to explain its apparent finding that BOSS had complied or substantially complied with the terms of the contract. We find the exception sufficiently specific to preserve the issue and, accordingly, remand the matter and direct the lower court to address its merits.
+Similarly, we find that the lower court abused.its discretion in finding appellant’s request to file additional exceptions improper. “[I]t is within the discretion of the trial court to allow exceptions under [Pa.R.Civ.P.] Rule 1038(d) to be filed out of time in a case where the particular circumstances indicate that there are good and sufficient reasons for so doing,” and its decision will not be disturbed absent an abuse of that discretion. E.J. McAleer & Co., Inc. v. Iceland Products, Inc., 475 Pa. 610, 614, 381 A.2d 441, 443 (1977). Appellant, averring that the “trial took place over a period of six months and was a highly complicated and protracted case,” requested that the lower court permit additional exceptions after the filing of the transcript. Rather than determine the sufficiency of appellant’s reasons for the request, however, the lower court dismissed it as procedurally improper. Although we agree with the lower court that the proper procedure for seeking an extension of time to file additional exceptions is to petition for a rule to show cause why the request should not be granted, see id., 475 Pa. at 612 n. 3, 381 A.2d at 442 n. 3, we cannot agree that the procedure employed here failed to adequately present the issue to the court below. Appellant presented its request within the time required for filing exceptions and stated its reasons for seeking the extension. Had the lower court needed a more detailed or better framed explication of the issue, it certainly could have ordered the issue briefed and argued. See Pa.R.Civ.P. 211. In choosing to ignore the underlying merit of appellant’s request and, instead, summarily dismissing it, the lower court has sacrificed justice for the sake of procedure. “Procedural rules are not ends in themselves, but means whereby justice, as expressed in legal principles, is administered. They are not to be exalted to the status of substantive objectives.” McKay v. Beatty, 348 Pa. 286, 286-87, 35 A.2d 264, 265 (1944). “The niceties of procedure and pleading make fine intelligence games for lawyers but should never be used to deny ultimate justice. This is the reason for our modern approach to rules of civil procedure.” Pomerantz v. Goldstein, 479 Pa. 175, 178, 387 A.2d 1280, 1281 (1978), quoting Godina v. Oswald, 206 Pa. Superior Ct. 51, 55, 211 A.2d 91, 93 (1965). In fact, Pa.R. Civ.P. 126 provides that:
+The rules shall be liberally construed to secure the just, speedy and inexpensive determination of every action or proceeding to which they are applicable. The Court at every stage of any such action or proceeding may disregard any error or defect of procedure which does not affect the substantial rights of the parties.
+Appellant apprised the lower court and appellees of its request and accompanying reasons within twenty days after the decision. No substantial rights of the parties would have been affected had the court addressed the merits of that request. In refusing to reach the merits, the court has abused its discretion, and thus we must remand for a determination of whether appellant’s reasons for the requested extension are sufficient to grant relief. Jurisdiction is retained.
+So ordered.
+. Appellant does not challenge the grant of the non-suit on this appeal.
+. We agree with the lower court that appellant’s first and third exception by themselves, amounted to nothing more than boilerplate motions and thus, did not preserve any issues for our review.
+. We cannot address the issue in the first instance, however, because its resolution requires the evaluation of the weight and credibility of testimony we have not witnessed.
