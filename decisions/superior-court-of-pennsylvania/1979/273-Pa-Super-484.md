@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "321 Special Transfer Docket"
+decided: "1979-12-28"
+citations: ["273 Pa. Super. 484", "417 A.2d 751"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before HOFFMAN, EAGEN and HESS, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. John Quincy ADAMS, Appellant."]
+source_url: "https://static.case.law/pa-super/273/cases/0484-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 136606
+cites_cases: ["226 Pa.Super. 32", "311 A.2d 620", "311 A.2d 704", "354 Pa. 188", "354 Pa. 35", "387 A.2d 385", "454 Pa. 337", "46 A.2d 491", "47 A.2d 450", "473 Pa. 141", "477 Pa. 562", "479 Pa. 63"]
+---
+
+# Commonwealth v. Adams
+
+## Majority (PER CURIAM:)
+
+PER CURIAM:
+John Quincy Adams has taken a direct appeal from his conviction and sentence for murder of the third degree. The charges against Adams arose out of the shooting death of a former business associate inside appellant’s apartment following an argument over money allegedly owed to him by the decedent. The Commonwealth’s evidence was largely circumstantial, and a written statement was suppressed but not prior notes taken down by an investigating officer. Adams relied on self-defense and contended that he fired after the victim made an assault upon him by picking up a chair in a threatening manner. Appellant obtained a hunting rifle from the bedroom of the apartment, returned to the room where the victim was and shot him twice in the stomach, causing his death. Thereafter Adams apparently dragged the body from his apartment, cleaned up the area and took the rifle to a friend’s apartment.
+It is first alleged that error was committed when the trial judge refused to affirm the following Point for Charge No. 25:
+“If the jury find that any circumstance relied upon which may be incriminating is equally susceptible of two interpretations, each of which appears to be reasonable and one of which points to the defendant’s guilt and the other to his innocence, it is your duty to accept that of innocence and reject that which points to guilt. Thus, when the testimony of the Commonwealth’s witnesses presents a set of circumstances from which a jury can draw two equally reasonable and inconsistent inferences, the jury cannot choose that which will deprive a man of his liberty: Commonwealth v. New, 354 Pa. 188, 47 A.2d 450.”
+We have examined New, a landmark case. Language similar to that set forth in Point 25 is present. As we view the language, it sets standards for trial judges to follow in deciding whether to submit a case to the jury or direct a verdict. See Commonwealth v. New, supra, 354 Pa. at 221, 47 A.2d 450. In Commonwealth v. Martin, 479 Pa. 63, 387 A.2d 385 (1978) similar language was referred to as an “evidentiary proposition.” To submit the language as quoted to a jury would confuse persons unlearned in the law, and perhaps many who are supposed to be learned. Circumstantial evidence “is sufficient if the circumstances are consistent with criminal activity even though they might likewise be consistent with innocent behavior.” (Emphasis supplied). Commonwealth v. Moore, 226 Pa.Super. 32, 34, 311 A.2d 704, 705 (1973). The familiar rule enunciated in Commonwealth v. Bausewine, 354 Pa. 35, 46 A.2d 491 (1946) and repeated many times is still the standard.
+“. . . guilt must be proved and not conjectured. The reasonable inference of guilt must be based on facts and conditions proved; it cannot rest solely on suspicion or surmise. These do not take the place of testimony.' The facts and circumstances proved must, in order to warrant a conviction, be such as to establish guilt of the defendant, not necessarily beyond a moral certainty, nor as being absolutely incompatible with his innocence, but at least beyond a reasonable doubt.”
+Id., 354 Pa. at 41, 46 A.2d at 493.
+We have examined the charge of the trial judge and are satisfied that it fully and adequately covered burden of proof and reasonable doubt and the trial judge properly refused Point No. 25.
+Complaint is also made regarding the charge of the trial judge on the' issue of self-defense. More specifically, that Point No. 41 was not affirmed and read to the jury, i. e.: “In this case, defendant contends that he shot and killed deceased in self-defense. The burden is upon the Commonwealth to prove beyond a reasonable doubt that defendant was not acting in self-defense.” It is not clear to us whether the failure to affirm and read the point was preserved by exception or waived. Nevertheless, we are satisfied that the charge correctly covered the pertinent law. Commonwealth v. Heatherington, 477 Pa. 562, 385 A.2d 338 (1978). The trial judge used more explicit language and fully covered the relevant law viz., that the burden is upon the Commonwealth to disprove self-defense, the rules relative to the use of force, the principle of justification, the reasonableness of defendant’s belief that force was necessary and the question of guilt of voluntary manslaughter if belief is not reasonable. Commonwealth v. Lesher, 473 Pa. 141, 373 A.2d 1088 (1977). We find no error.
+It is also contended that the suppression court was incorrect in failing to suppress appellant’s oral admission made within three to four hours after his arrest. This statement was in the form of oral admissions jotted down by a detective on a yellow legal pad and later transcribed onto an “interview record” at Homicide Headquarters. The original handwritten notes were not preserved. It is contended that the notes misrepresented what was said and did not contain every part of the conversation. This issue was determined otherwise by the suppression judge. That court also found a voluntary and intelligent waiver of defendant’s constitutional rights and the record supports the determination. Commonwealth v. Moore, 454 Pa. 337, 311 A.2d 620 (1973). Lastly, the jury apparently chose to accept the Commonwealth’s version of the facts surrounding the statement and that body is the appropriate fact finding portion of our judicial system. We are satisfied that in so doing there was sufficient credible evidence to support the finding and the verdict.
+Judgment of sentence affirmed.
