@@ -1,0 +1,38 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "3044"
+decided: "1992-12-29"
+citations: ["421 Pa. Super. 496", "618 A.2d 447"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WIEAND, FORD ELLIOTT and HOFFMAN, JJ."]
+parties: ["U.K. LaSALLE, INC., Appellee, v. Joseph F. LAWLESS, Jr., Appellant."]
+source_url: "https://static.case.law/pa-super/421/cases/0496-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 921953
+cites_cases: ["218 A.2d 756", "221 A.2d 185", "272 Pa.Super. 462", "307 Pa.Super. 426", "350 Pa.Super. 472", "384 Pa.Super. 625", "410 Pa.Super. 422", "421 Pa. 122", "422 Pa. 124", "525 Pa. 582", "575 A.2d 11", "8 Phila. 6"]
+---
+
+# U.K. LaSalle, Inc. v. Lawless
+
+## Majority (WIEAND, Judge:)
+
+WIEAND, Judge:
+This is an appeal from an order denying a petition to strike or open a default judgment entered against Joseph F. Lawless, Jr., Esquire, in an action by U.K. LaSalle, Inc. to recover moneys allegedly due under the terms of an office lease. The trial court erred, Lawless argues, because the complaint, by which the action was commenced against him, was not properly served and, therefore, failed to support a default judgment against him. After review, we agree with appellant and, therefore, reverse.
+By written agreement of lease dated July 1, 1984, LaSalle leased office space to Lawless for a period of five (5) years at a monthly rental of $1,068.42, to be adjusted in future months according to the consumer price index. In the summer of 1985, however, Lawless vacated the leased space, and a substitute tenant thereafter took possession of the premises. On or about May 18, 1989, LaSalle confessed judgment against Lawless for $12,171.02, pursuant to warrant of attorney contained in the lease. This judgment was thereafter opened on petition filed by William J.C. O’Donnell, Esquire, the lawyer employed by Lawless to represent him in that proceeding. This action, we are advised, remains open and undetermined.
+On or about August 23, 1990, LaSalle filed a second action against Lawless, seeking the same damages which had been asserted in the prior proceeding. The complaint was not immediately served and was reinstated on October 30, 1990. An affidavit of service thereafter filed recites that service was “made upon the defendant’s attorney by certified mail at the instructions of his attorney.” A notice of intention to enter default judgment was sent on January 14, 1991, to Lawless and William O’Donnell, Esquire. However, the notice of intent to enter a default judgment was sent to Lawless at Suite 925, 1411 Walnut Street, Philadelphia, Pennsylvania, 19102, an office last occupied by Lawless in October, 1990. The record does not disclose that the notice was received by Lawless or by an agent acting on his behalf. Moreover, a review of the record discloses that O’Donnell’s appearance was not at any time entered on Lawless’s behalf and that Lawless has at all times represented himself in this, the second action instituted against him by the landlord. On February 28,1991, LaSalle caused a default judgment to be entered against Lawless. A motion to strike or open the judgment was denied. This appeal followed.
+A petition to strike a default judgment and a petition to open a default judgment are two distinct remedies, which are generally not interchangeable. Pennwest Farm Credit, ACA v. Hare, 410 Pa.Super. 422, 430, 600 A.2d 213, 217 (1991). A petition to strike a judgment operates as a demurrer to the record. Id. As such, it is not a matter calling for the exercise of discretion. A petition to strike a judgment may be granted only where a fatal defect in the judgment appears on the face of the record. A judgment cannot be stricken when the record is self-sustaining. Clymire v. McKivitz, 350 Pa.Super. 472, 475, 504 A.2d 937, 938 (1986).
+If there is no valid' service of initial process, a subsequent judgment by default must be deemed defective. In the absence of valid service, a court lacks personal jurisdiction over a party and is powerless to enter judgment against him. Deer Park Lumber, Inc. v. Major, 384 Pa.Super. 625, 629, 559 A.2d 941, 943 (1989), allocatur denied, 525 Pa. 582, 575 A.2d 11.3 (1990);. Mischenko v. Gowton, 307 Pa.Super. 426, 432, 453 A.2d 658, 660 (1982). See also: Liquid Carbonic Corp. v. Cooper & Reese, Inc., 272 Pa.Super. 462, 466-67, 416 A.2d 549, 551 (1979).
+The authorized means for effecting service on an individual defendant are contained in Pa.R.C.P. 402(a) as follows:
+(a) Original process may be served
+(1) by handing a copy to the defendant; or
+(2) by handing a copy
+(i) at the residence of the defendant to an adult member of the family with whom he resides; but if no adult member of the family is found, then to an adult person in charge of such residence; or
+(ii) at the residence of the defendant to the clerk or manager of the hotel, inn, apartment house, boarding house or other place of lodging at which he resides; or
+(iii) at any office or usual place of business of the defendant to his agent or to the person for the time being in charge thereof.
+The Rules of Civil Procedure pertaining to service of process, the Supreme Court has held, are to be narrowly construed and strictly followed. Sharp v. Valley Forge Medical Center and Heart Hospital, Inc., 422 Pa. 124, 127, 221 A.2d 185, 187 (1966); Neff v. Tribune Printing Co., 421 Pa. 122, 124, 218 A.2d 756, 757 (1966).
+The record in this case reveals unequivocally that service of initial process was not made in a manner authorized by the applicable rule. The rule simply does not authorize service of initial process upon a defendant by either handing or mailing a copy thereof to the lawyer who happens to represent the defendant in a separate action. Indeed, the proposition that a lawyer who has filed an action on behalf of a client can thereafter be served as agent for the client in a separate action has been rejected uniformly by the trial courts in this Commonwealth. See: Turner v. Smack, 8 Phila. 6 (1982). A lawyer has no authority to accept service of process on behalf of his client in a suit other than that for which he was employed. Holzman v. Slutter, 42 D. & C.2d 409, 412 (Lack.1966). “[A]n attorney may not, without express authority, accept or waive service of original process by which jurisdiction of the court over the person of the client is first established.” Hopkins v. Hagenbuch, 50 D. & C.2d 531, 534 (Chest.1970), quoting 7 Am.Jur.2d, Attorneys at Law, § 146. Thus, as all courts acknowledge, where a lawyer has been served with process but does not have express authority to accept the same on behalf of his client, the court lacks jurisdiction to act against the person of the client. See: 7A C.J.S., Attorney and Client, § 196.
+The record in this case does not permit a finding that Lawless either waived his right to be served with original process or authorized O’Donnell, his lawyer in a separate action, to accept service of original process on his behalf. Because of this deficiency, there is a defective record which fails to support the entry of a default judgment against Lawless. This defect, being the failure to make valid service of original process, is fatal. The record does not support the entry of a default judgment.
+The order of the trial court is reversed, the default judgment is stricken, and the case is remanded to allow appellee to effect valid service of the complaint. Meanwhile, jurisdiction is not retained.
+. According to LaSalle, this amount represents the difference in rentals required by the lease and those paid by substitute tenants, plus interest and attorney's fees.
