@@ -1,0 +1,32 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1310 C.D. 1993"
+decided: "1994-04-07"
+citations: ["163 Pa. Commw. 258", "640 A.2d 1386"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before McGINLEY and KELLEY, JJ„ and KELTON, Senior Judge."]
+parties: ["George HOLLAND, Petitioner, v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, Respondent."]
+source_url: "https://static.case.law/pa-commw/163/cases/0258-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1459906
+cites_cases: ["118 Pa.Commonwealth Ct. 6", "26 Pa.Commonwealth Ct. 234", "363 A.2d 866", "478 A.2d 146", "487 Pa. 428", "83 Pa.Commonwealth Ct. 529"]
+---
+
+# Holland v. Pennsylvania Board of Probation & Parole
+
+## Majority (McGINLEY, Judge.)
+
+McGINLEY, Judge.
+George Holland (Holland) petitions for review of an order of the Pennsylvania Board of Probation and Parole (Parole Board), dated April 27, 1993, that denied Holland’s request for administrative relief from a November 9, 1992, revocation decision wherein the Parole Board recommitted Holland to serve thirty-six months backtime as a convicted parole violator. We affirm.
+Holland was previously convicted of crimes relating to an armed robbery that occurred in Philadelphia in 1986 and was sentenced to serve three to seven years. On April 8, 1988, Holland was released on parole from the sentence which had a maximum term expiration date of January 26, 1992. On November 2,1991, Holland was arrested shortly after committing a robbery. On November 4, 1991, the Parole Board lodged a detainer against Holland. On January 26, 1992, the Board cancelled its detainer because Holland’s original sentence expired without a new conviction for the robbery charge.
+On June 29, 1992, Holland was found guilty of robbery. On July 1, 1992, the Parole Board lodged a second detainer against Holland. On October 7, 1992, the Board held a revocation hearing to determine whether to recommit Holland as a convicted parole violator. At the hearing, Holland testified regarding his good behavior while on parole. On November 9, 1992, the Parole Board recommitted Holland, as a convicted parole violator, to serve thirty-six additional months of his original sentence. On December 8, 1992, Holland filed an administrative appeal. On April 27,1993, the Board denied Holland’s administrative appeal. Holland appeals here.
+Holland contends the Parole Board had no jurisdiction to sentence him after the expiration of the maximum term of his original sentence; and that the Board violated Holland’s due process rights by failing to state in its November 9, 1992, revocation decision whether it considered Holland’s mitigating evidence of good behavior while on parole. Our scope of review over adjudications of the Parole Board is limited to determining whether constitutional rights were violated, whether an error of law has been committed or whether the Board’s essential findings of fact are supported by substantial evidence. Pastuszek v. Pennsylvania Board of Probation and Parole, 118 Pa.Commonwealth Ct. 6, 544 A.2d 1051 (1988).
+Holland’s first contention is that the Parole Board no longer has jurisdiction over him, as a parolee, after the expiration of the maximum term of his sentence on January 26, 1992. Holland argues that because the Parole Board’s resentencing order came after January 26, 1992, it must be overturned as time-barred.
+In Young v. Pennsylvania Board of Probation and Parole, 487 Pa. 428, 409 A.2d 843 (1979) our state Supreme Court noted, “There is no doubt that the Board can recommit and recompute the sentence of a parolee who commits a crime while on parole but is not convicted until after his original sentence had expired.” Id. at 436, 409 A.2d at 848 (citing this Court’s decision in Kuykendall v. Pennsylvania Board of Probation and Parole, 26 Pa.Commonwealth Ct. 234, 237, 363 A.2d 866, 868 (1976)). In view of Young, we conclude that the Parole Board did not lack jurisdiction to recommit Holland.
+Holland’s second contention is that the Parole Board erred by not stating in its November 9, 1992, decision whether it considered Holland’s mitigating evidence concerning his good behavior while on parole. However, in Corley v. Pennsylvania Board of Probation and Parole, 83 Pa.Commonwealth Ct. 529, 83 Pa.Cmwlth. 529, 478 A.2d 146 (1984), this Court noted that a Parole Board decision need only set forth mitigating evidence where the recommitment time falls short of the presumptive range. Id. at 532, 478 A.2d at 148.
+In the present case, Holland’s thirty-six month recommitment does not exceed the applicable presumptive range of thirty to forty-eight months. Consequently, the Parole Board did not err by failing to refer to Holland’s mitigating evidence in its November 9, 1992, revocation decision.
+The order of the Parole Board is affirmed.
+ORDER
+AND NOW, this 7th day of April, 1994, the order of the Pennsylvania Board of Probation and Parole in the above-captioned matter is affirmed.
