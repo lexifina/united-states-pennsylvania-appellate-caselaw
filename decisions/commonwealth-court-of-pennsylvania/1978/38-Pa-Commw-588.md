@@ -6,6 +6,7 @@ citations: ["38 Pa. Commw. 588"]
 reporter: "pa-commw"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
+text_source: "CAP head matter (CAP holds no opinion text)"
 judges: ["before Judges Mencer, Blatt and Craig, sitting as a panel of three."]
 parties: ["Commonwealth of Pennsylvania and Department of Labor and Industry, Petitioners v. Commonwealth of Pennsylvania, Workmen’s Compensation Appeal Board, Francis B. Campbell and Cambria Mills Coal Co., Inc., Respondents."]
 source_url: "https://static.case.law/pa-commw/38/cases/0588-01.json"
@@ -15,4 +16,11 @@ cap_id: 1891015
 
 # Commonwealth v. Commonwealth
 
+## CAP head matter
 
+*CAP holds no separate opinion text for this decision: the text below is its head matter as CAP gives it, which may hold the court's opinion or order together with the publisher's syllabus, headnotes and counsel.*
+
+Commonwealth of Pennsylvania and Department of Labor and Industry, Petitioners v. Commonwealth of Pennsylvania, Workmen’s Compensation Appeal Board, Francis B. Campbell and Cambria Mills Coal Co., Inc., Respondents.
+Argued September 28, 1978,
+before Judges Mencer, Blatt and Craig, sitting as a panel of three.
+November 27, 1978:
