@@ -1,0 +1,41 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1346 C.D. 1979"
+decided: "1980-04-16"
+citations: ["50 Pa. Commw. 549"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Wilkinson, Jb., Mencer and MacPhail, sitting as a panel of three."]
+parties: ["Jack P. Maggs, Petitioner v. Commonwealth of Pennsylvania, Pennsylvania Labor Relations Board, Respondent."]
+source_url: "https://static.case.law/pa-commw/50/cases/0549-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1907628
+cites_cases: ["37 Pa. Commonwealth Ct. 598", "386 U.S. 171", "391 A.2d 45"]
+---
+
+# Maggs v. Commonwealth
+
+## Majority (Judge Wilkinson, Jr.,)
+
+Opinion by
+Judge Wilkinson, Jr.,
+Petitioner appeals from the refusal of the Pennsylvania Labor Relations Board (Board) to issue a complaint on a charge of unfair practices brought against the Department of Transportation (Department). We affirm.
+On June 30, 1978 petitioner was furloughed from his position as a Surveyor-Technician Supervisor in the District 3-0 Office of the Department. Petitioner was a member of the American Federation of State, County, and Municipal Employees (Union), his certified bargaining representative, and was subject to a Memorandum between the Commonwealth and the Union, including its provisions governing grievance and arbitration procedures. Pursuant to the terms of the Memorandum, petitioner individually filed a grievance with the District 3-0 office alleging that his furlough was the result of an improper classification of his position. Petitioner’s grievance was denied through the first four steps of the grievance procedure. By letter dated October 10,1978 the local Council of the Union requested submission of petitioner’s grievance to arbitration. Petitioner, individually, likewise requested submission of his grievance to arbitration. By letter dated October 30, 1978 the local Council of the Union withdrew its request for arbitration. On January 30, 1979 the Commonwealth Bureau of Labor Relations denied petitioner’s request for arbitration on the basis that individual employees cannot invoke arbitration under the terms of the Memorandum. On April 6, 1979 petitioner filed with the Board a Charge of Unfair Practices against the Department, alleging that the Department had engaged in unfair practices in violation of Section 1201(a)(5) of the Public Employe Relations Act (Act), Act of July 23, 1970, P.L. 563, as amended, 43 P.S. §1101.1201(a) (5). The Board refused to issue a complaint because the specification of charges did not state a cause of action under Article XII of the Act.
+In seeking from this Court an order that a complaint be issued against the Department for its failure to process to arbitration his grievance, petitioner argues that the provisions of the Act give an employee the right to individually take his grievance to arbitration. Petitioner offers in support of his position Section 903 of the Act, 43 P.S. §1101.903, which provides for the mandatory arbitration of disputes or grievances arising out of the interpretation of collective bargaining agreements in the public sector, and Section 606 of the Act, 43 P.S. §1101.606, which reads:
+Representatives selected by public employes in a unit appropriate for collective bargaining purposes shall be the exclusive representative of all the employes in such unit to bargain on wages, hours, terms and conditions of employment: Provided, That any individual employe or group of employes shall have the right at any time to present grievances to their employer and to have them adjusted without the intervention of the bargaining representative as long as the adjustment is not inconsistent with the terms of a collective bargaining contract then in effect: And, provided further, That the bargaining representative has been given an opportunity to be present at such adjustment.
+The Board contends that Section 606 should be read to mean that an individual employee has the right to seek redress of his grievances short of arbitration and that such redress may be sought notwithstanding the certification of an exclusive representative to represent the employees in a unit. The Board goes on to argue that any other reading of Section 606 would effectively emasculate the ability of the exclusive representative to properly represent the bargaining unit, would subject the employer to onerous numbers of requests to arbitrate from individual employees, and would defeat the public policy of the Act “to promote orderly and constructive relationships between public employers and their employees. ’ ’
+“[G-Jiving the union the responsibility for processing a grievance with the employer before an Arbitrator which is characteristic of the law in the private sector, is equally applicable to public sector labor law.” McGluskey v. Department of Transportation, 37 Pa. Commonwealth Ct. 598, 606, 391 A.2d 45, 50 (1978). That case involved the question of the standing of an individual employee to appeal from an arbitrator’s award. Holding that an individual employee had no standing to so appeal, we stated that only the union and the employer, as parties to the collective bargaining agreement which governed arbitration and empowered to invoke arbitration of a grievance, were parties to the arbitration proceeding and had standing to appeal the arbitrator’s award. In considering the above mentioned policy of the Act, we wrote in McCluskey, id. at 605-6, 391 A.2d at 49:
+[I] n holding that an individual employee had no absolute right to have his grievance arbitrated, our U.S. Supreme Court said in the landmark case of Yaca v. Sipes:
+£In providing for a grievance and arbitration procedure which gives the Union discretion to supervise the grievance machinery and to invoke arbitration, the employer and the union contemplate that each will endeavor in good faith to settle gievances short of arbitration. ... And finally, the settlement process furthers the interest of the union as statutory agent and coauthor of the bargaining agreement in representing the employees in the enforcement of the agreement....
+£If the individual employee could compel arbitration of his grievance regardless of its merit, the settlement machinery provided by the contract would be substantially undermined, thus destroying the employer’s confidence in the union’s authority and returning the individual grievant to the vagaries of independent and unsystematic negotiation. ’
+386 U.S. 171,191 (1967).
+In the instant case the Union and the Commonwealth were the signatories to the Memorandum. While Recommendation 39 of the Memorandum delineates the grievance procedures and permits either the employee or the Union to present grievances, Recommendation 40 delineates the procedures for arbitration and is replete with references to “the parties”, “both parties”, and “either party”. We cannot say that the Board’s refusal to issue a complaint on the charges of unfair practices was a manifest and flagrant abuse of its discretion.
+Accordingly, we will enter the following
+Order
+And Now, April 16,1980, the order of the Pennsylvania Labor Relations Board, in Case No. PERA-C12.633-C, refusing to issue a complaint of unfair practices filed to the above case number, is affirmed.
+Section 1201(a) (5) of the Act, provides that:
+(a) Public employers, their agents or representatives are prohibited from:
+(5) Refusing to bargain collectively in good faith with an employe representative which is the exclusive representative of employes in an appropriate unit, including but not limited to the discussing of grievances with the exclusive representative.
+It should be noted that individual employees are not left without an effective remedy if their union fails to represent them as they desire in an arbitration procedure. A union representing employees is obliged to represent the interest of all its members in good faith, in a reasonable manner without fraud and without discrimination, and any failure to perform this duty would constitute an unfair labor practice for which a member could hold the union responsible.
+McGluskey, supra at 607, 391 A.2d at 50.
