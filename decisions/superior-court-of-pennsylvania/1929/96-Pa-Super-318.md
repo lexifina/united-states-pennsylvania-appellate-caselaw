@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 155"
+decided: "1929-07-02"
+citations: ["96 Pa. Super. 318"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, Keller, Linn, Gawthrop, Cunningham and Baldrige, JJ."]
+parties: ["Tomlinson v. Clarion River P. Co. and Utilities Mut. F. Ins. Co., Appellants."]
+source_url: "https://static.case.law/pa-super/96/cases/0318-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 683908
+cites_cases: ["259 Pa. 578", "272 Pa. 56", "290 Pa. 480", "75 Pa. Superior Ct. 454", "92 Pa. Superior Ct. 374"]
+---
+
+# Tomlinson v. Clarion River P. Co.
+
+## Majority (Cunningham, J.,)
+
+Opinion by
+Cunningham, J.,
+William R. Tomlinson, claimant below and appellee herein, while on the premises of his employer, Clarion River Power Company, sustained an injury to the little finger of his right hand which resulted in a serious infection. Upon his claim for compensation the referee and board made an award; the court below, upon appeal to it, entered judgment on the award and the employer and its insurance carrier havei taken this appeal.
+The findings of ffict of the compensation authorities are sustained by competent and uncontradicted evidence; the only question in the court below and here is whether, in arriving at the conclusion that claimant’s ‘injury was sustained “in the course of his employment,” the law was correctly applied to the established facts. The only testimony relative to the circumstances of the accident is that of the claimant. It reads: “A. Mr. Wilson [a fellow employe] and I were working down in the cellar getting ready to take a manhole cover off of the Penn-stock, and the studs were very rusty and we couldn’t move it; and so I went and got some kerosene oil to soak around the studs and while waiting on that to soak, Mr. Wilson was having trouble getting his pipe cleaned out so he could get a smoke, so I told him I could probably open it for him. Q. The pipe ? A. The pipe 'stem, yes. In doing so somehow or other I run the wire through the little finger of my right hand. Q. How far away did you have to go to clean the pipe? A. Right on the job. Q. How long ‘were you cleaning it out? A. Probably just a couple of seconds.”
+True, the injury did not arise out of the employment, but it has been repeatedly held that a claimant is not required to show that the accident arose out of, or was due to the character of, his employment; it is sufficient to show that it occurred “in the course of” his employment although he may not have been actually engaged in his work at the time of the injury: Hale v. Savage Fire Brick Co., 75 Pa. Superior Ct. 454; Bradley v. Congoleum Nairn, Inc. et al., 92 Pa. Superior Ct. 374; Dzikowska v. Superior Steel Co. et al., 259 Pa. 578. In the case last cited the claimant’s husband was engaged, with other workmen, in a shipping room loading steel upon a railroad car. They had loaded that at hand and were waiting for the arrival of trucks with more steel. The injured employe, whose clothing was somewhat saturated with oil, left the shipping room and went into a box car to smoke. Through striking a match upon his trousers his clothing caught fire and he received fatal injuries. Our Supreme Court held that the fact that the employe met with the accident during a short interval of waiting for the arrival of more material to load did not affect the right of his dependents to recover and that his period of employment was not broken by the temporary suspension of the. work in which he was engaged. It was further held that it is not unreasonable for workmen to smoke during intervals of work when; it does not interfere with their duties and is not prohibited and that the circumstances of that case brought it within the established principle that the mere fact that a workman temporarily Stops his work to minister to his personal comforts or necessities does not amount to a break in his employment.
+The court below in the case at bar properly said: “These men were on their employer’s premises. They were engaged in work at which they had been set. They had begun the job. The bolts sticking because of rust, kerosene oil was poured over them to loosen them. This was done in ‘furtherance of their employers’ business.’ They were awaiting the action of the oil upon the rust. During this time they were as much in the ‘course of their employment’ as if they were actively engaged in endeavoring to remove the bolts by mechanical means. During the period of waiting the injury occurred. While self-inflicted there is no evidence that it was done intentionally. It came about through a gratuitous offer to aid a fellow employe to accomplish something recognized a's an incident to his employment, though only indirectly conducive to the purpose of the employment. ’ ’ If the claimant had received the injury for which compensation is here claimed while cleaning his own pipe, this case would be squarely ruled by Dzikowska v. Superior Steel Company, supra. But the disposition of this claim should not turn upon the narrow question whether claimant was ministering to his own comfort or that of a fellow workman; the material inquiry is whether he took himself out of the course of his employment. We think the fact that he was voluntarily assisting a fellow employe in the performance of an act which, under our decisions, would not amount to a break in their employment is not sufficient to defeat bis claim for compensation.
+The case falls within the principles of law relied upon by the learned judge of the court below and the assignments of error are accordingly overruled.
+Judgment affirmed.
