@@ -1,0 +1,42 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 93 Miscellaneous Docket No. 3"
+decided: "1983-12-01"
+citations: ["78 Pa. Commw. 587"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Blatt, Williams, Jr. and Doyle, sitting as a panel of three."]
+parties: ["Thomas D’Nicuola, Petitioner v. Commonwealth of Pennsylvania, Pennsylvania Board of Probation and Parole, Respondent."]
+source_url: "https://static.case.law/pa-commw/78/cases/0587-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1314980
+cites_cases: ["314 A.2d 842", "37 Pa. Code §71.4", "37 Pa. Code §71.5", "411 A.2d 886", "455 Pa. 8", "49 Pa. Commonwealth Ct. 581"]
+---
+
+# D'Nicuola v. Commonwealth, Pennsylvania Board of Probation & Parole
+
+## Majority (Judge "Williams, Jr.,)
+
+Opinion by
+Judge "Williams, Jr.,
+Petitioner Thomas D’Nicuola has petitioned this Court for review of the decision of the Pennsylvania Board of Probation and Parole (Board) recommitting him to prison as a convicted parole violator.
+On June 6, 1973, D ’Nicuola was sentenced by the Northampton County Court of Common Pleas to a term of six to twelve years on a charge of voluntary manslaughter. The effective date of the sentence was October 20, 1969. Petitioner was released on parole from that conviction on October 20,1975, after serving his minimum sentence in a state correctional institution.
+On February 26, 1979, while still on parole, petitioner was arrested in Northampton County on charges of robbery, recklessly endangering another person, and criminal mischief. Initially, he was released on his own recognizance, but the Board subsequently ordered him detained pending disposition of the criminal charges. While confined at the Northampton County Prison on the Board detainer, petitioner was arrested, on March 13, 1979, and charged with engaging in voluntary deviate sexual intercourse and involuntary deviate sexual intercourse between January, 1977 and January, 1979. He pleaded guilty to these charges on June 14, 1979; the charges of robbery, recklessly endangering another person, and criminal mischief were nol prossed. Sentencing on the guilty plea was deferred pending a pre-sentence investigation.
+Following his conviction on the new charges, D’Nicuola continued to be incarcerated at the Northampton County Prison. On June 19, 1979, he waived his right to a parole revocation hearing before the full Board, and was afforded a hearing before a Board Hearing Examiner on July 27, 1979. Based on the Hearing Examiner’s recommendation, the Board rendered a decision, on August 13, 1979, revoking petitioner’s parole and recommitting him to prison, as a convicted parole violator, to serve the balance of his original sentence when available.
+On August 15, 1979, D’Nicuola was sentenced on the charges of voluntary and involuntary deviate sexual intercourse to a term of one and one-half to four years, to be served at the Northampton County Prison. The effective date of the sentence was February 26, 1979, with a minimum expiration date of August 26, 1980, and a maximum expiration date of February 26,1983.
+On August 6, 1980, the Board paroled petitioner on his new sentence to Board detainer only, effective August 26, 1980, and reaffirmed its August 13, 1979 decision to recommit him to serve the balance of his original sentence on the voluntary manslaughter conviction. The maximum expiration date for the original sentence was recomputed to May 13,1986. Thereafter, pursuant to 37 Pa. Code §71.5(h), D’Nicuola applied to the Board for administrative review of its August 6, 1980 decision. His application was denied, and he then filed a petition for review with this Court.
+The petitioner contends that he is entitled to an order dismissing, with prejudice, the parole violation charges brought against him, and has advanced three arguments in support of this claim. First, he submits that the Board violated his right to due process by failing to provide him with timely, written notice of his revocation hearing. Next, he asserts that it was error for the Hearing Examiner to conduct the hearing, because he was not represented by counsel thereat and did not waive his right to such representation. Lastly, he maintains that his parole violation hearing was untimely held as a matter of law.
+Each of petitioner’s arguments is premised upon his belief that he was afforded his revocation hearing on June 27, 1980. However, there was no revocation hearing on June 27, 1980. Instead, on that date D’Nicuola was seen and heard in person by a Board district supervisor, as required by statute, with regard to parole on his new sentence. As we have noted, the Board granted that parole on August 6, 1980, and, on the same date, reaffirmed its August 13, 1979 decision to recommit him to serve the balance of his original sentence on his conviction for voluntary manslaughter. The Board’s action in reaffirming petitioner’s recommitment relates back to his revocation hearing, which, as previously stated, was in fact held on July 27,1979.
+At his hearing, D ’Nicuola was represented by privately retained counsel. He was provided with written notice of the hearing on June 20, 1979, thirty-seven days prior to the July 27, 1979 hearing date. Furthermore, as explained below, his hearing was timely held in accordance with the law.
+Pursuant to 37 Pa. Code §71.4(2), the Board is required to hold a revocation hearing within 120 days of the date it receives official verification of a parolee’s new conviction, except as follows:
+(i) If the parolee is confined outside the jurisdiction of the Pennsylvania Bureau of Correction, such as confinement out-of-state, confinement in a Federal correctional institution, or confinement in a county correctional institution where the parolee has not waived the full Board Revocation Hearing required by Commonwealth of Pennsylvania ex rel. Ram-beau v. Rundle, 455 Pa. 8, 314 A.2d 842 (1973), in which case the final Revocation Hearing shall be held within 120 days of the official verification of the Board of the return of the parolee to a State correctional facility. The parolee, who is confined in a county correctional institution and who waived the ' final Revocation Hearing by a quorum of the Board as required in the Rambeau decision shall be deemed to be within the jurisdiction of the Pennsylvania Bureau of Correction beginning with the date of his waiver of such Board hearing. (Emphasis added.)
+On June 19, 1979, petitioner executed a waiver of his right to a full Board revocation hearing. At the time he signed the waiver, he was confined at the Northampton County Prison pending sentencing on his June 14, 1979 conviction for voluntary and involuntary deviate sexual intercourse. Thereafter, pursuant to Section 71.4(2) (i), the Board acquired jurisdiction over D ’Nicuola on June 19, 1979, and the 120-day period within which the Board was required to hold a hearing began to run when petitioner came within its jurisdiction on that date. Petitioner’s revocation hearing was conducted on July 27, 1979, well within 120 days of June 19,1979.
+We find petitioner’s contentions to be without merit, and accordingly affirm the Board’s decision.
+Order
+And Now, the 1st day of December, 1983, the order of the Pennsylvania Board of Probation and Parole in the above-captioned matter, dated August 6, 1980, is hereby affirmed.
+See Commonwealth ex rel. Rambeau v. Rundle, 455 Pa. 8, 314 A.2d 842 (1973).
+Because petitioner was paroled on Ms original sentence from a state correctional institution and was to serve Ms new sentence in a county facility, lie was required to serve the new term before serving tbe balance of the original sentence. Section 21.1(a) of the Act of August 6, 1941, P.L. 861, added by Section 5 of the Act of August 24, 1951, P.B. 1401, as amended, 61 P.S. §331.21a(a).
+See Commonwealth ex rel. Rumbeau v. Rundle, 455 Pa. 8, 314 A.2d 842 (1973). See also 37 Pa. Code §§71.4(3) (ii), 71.4(5) (iv).
+Section 22 of the Act of August 6, 1941, P.L. 861, as amended, 61 P.S. §331.22. This Section provides, inter alia, that no parole may be granted, or an application for parole dismissed, unless a district supervisor sees and hears a prisoner in person in regard thereto within six months prior to the granting or dismissal thereof.
+Colon v. Pennsylvania Board of Probation and Parole, 49 Pa. Commonwealth Ct. 581, 411 A.2d 886 (1980).
