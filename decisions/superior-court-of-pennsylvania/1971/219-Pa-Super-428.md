@@ -1,0 +1,35 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 497"
+decided: "1971-09-21"
+citations: ["219 Pa. Super. 428"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. J., Watkins, Montgomery, Jacobs, Hoffman, Spaulding, and Cercone, JJ."]
+parties: ["Harrison v. Nichols, Appellant."]
+source_url: "https://static.case.law/pa-super/219/cases/0428-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 796991
+cites_cases: ["132 A.2d 675", "161 A.2d 595", "19 A.2d 370", "221 A.2d 309", "221 Pa. 611", "265 A.2d 783", "272 A.2d 171", "341 Pa. 433", "389 Pa. 329", "400 Pa. 240", "422 Pa. 373", "438 Pa. 468", "441 Pa. 230", "70 A. 874"]
+---
+
+# Harrison v. Nichols
+
+## Majority (Jacobs, J.,)
+
+Opinion by
+Jacobs, J.,
+James Harrison, a pedestrian, brought suit for his personal injuries after he was struck and injured on April 16, 1969, by a vehicle driven by Anna C. Nichols. The jury found in favor of the defendant. The court en bane awarded plaintiff a new trial and defendant appeals.
+The trial court has wide discretion in determining whether or not to grant a new trial. “On appeal such an order will not be reversed unless a palpable abuse of discretion clearly appears or unless an erroneous rule of law, which under the circumstances necessarily controlled the outcome of the case, is certified by the court below as the sole reason for its action or, without such certification, the court’s opinion clearly indicates this to be the case. . . .” Geelen v. Pennsylvania R.R. Co., 400 Pa. 240, 244, 161 A.2d 595, 598 (1960). The court below neither abused its discretion nor applied an erroneous rule of law and is affirmed.
+The trial judge who wrote the opinion for the court en banc gave two reasons for the grant of a new trial. The first reason was based on improper cross-examination of the plaintiff and the second reason concerned the trial judge’s charge on contributory negligence.
+On direct examination the plaintiff testified that he was living with his wife and children at the time of trial which occurred more than a year after the accident. On cross-examination it was brought out that he was living with another woman at the time of the accident. Objection was made but overruled. He was then asked when he began living with his wife again. When he answered that he had resumed living with her about two weeks after he got out of the hospital, defense counsel further cross-examined him on his deposition where he had indicated that he resumed living with his wife about three months after he left the hospital. The trial judge permitted the cross-examination despite objection. In its opinion the lower court concluded that the cross-examination was prejudicial to plaintiff and that contradiction on a collateral matter was improperly used to impeach the plaintiff’s credibility. The question of improper cross-examination was ably handled by the lower court and its determination of that question is affirmed on the opinion of Judge Lippincott for the court below.
+The court below felt that it had erred in its charge on negligence and contributory negligence. It analyzed its charge as instructing the jury that defendant’s negligence had to be a proximate cause or substantial factor in causing the accident and that plaintiff’s contributory negligence would bar him if it contributed in any manner, however insubstantial, to the accident. Accepting the lower court’s evaluation of its charge it was justified by following Crane v. Neal, 389 Pa. 329, 132 A.2d 675 (1957), where it was held reversible error to charge that contributory negligence must be a proximate cause of the accident to bar plaintiffs and that a plaintiff was barred if his negligence contributed in any degree, however slight, to the injury.
+This holding was followed by the Supreme Court and this Court in a number of eases. However, on May 27, 1970, about twenty days after this case was tried, Argo v. Goodstein, 438 Pa. 468, 265 A.2d 783 (1970), was handed down holding that the lower court correctly charged that .. to bar recovery, a plaintiff’s conduct must be a proximate cause of the happening of his own injury in any degree, however slight.” Id. at 481, 265 A.2d at 789.
+Although no mention was made of Crane, supra, it would appear to be overruled by Argo. Argo further clarified the apparent confusion between causation and negligence appearing in former cases by stating: “Although the degree of negligence on the part of the plaintiff need not be the same as the degree of negligence on the part of the defendant, the same test must be applied to causal relation between the plaintiff’s negligence and the resulting harm as between the defendant’s negligence and the resulting harm. See Sec. 465 (2) Restatement of Torts 2d.” Id. at 481, 265 A.2d at 790.
+Argo makes it clear that in Pennsylvania a plaintiff’s negligence in order to bar him must be a proximate cause of his injury and, since we do not have the doctrine of comparative negligence in Pennsylvania, no matter how slight plaintiff’s negligence may be it will bar him if it is a proximate cause of his injury.
+It is thus apparent that the lower court did not apply an erroneous rule of law in determining its original charge to be incorrect.
+Order affirmed.
+W. L. Prosser, The Law of Torts (4th ed. 1971) at p. 421, comments on this holding as follows: “It is said by a number of courts that the plaintiff is barred from recovery if his own negligence has contributed to his injury ‘in any degree, however slight.’ On the face of it this means that any insignificant contribution, such as the addition of a lighted match to a forest fire, would bar the action. In all probability this is nothing more than a confusion of words, which fails to distinguish slight negligence from slight contribution; and what is really meant is that the plaintiff’s negligence can be a defense, no matter how slight his departure from ordinary standards of conduct. The intent, in other words, is to reject any idea of comparative negligence. If so, it is a mistake peculiarly likely to mislead the jury when an instruction is given in such terms. Most courts, when the distinction has been pointed out to them, have held that the rules as to causation are the same for contributory negligence as for negligence, and that the plaintiff is not barred unless his negligence, of whatever degree, has been a substantial factor in causing his injury.”
+Another line of cases held that defendant’s negligence to bar him must either be a proximate or a juridical cause of the injury. Weir v. Haverford Elect. Light Co., 221 Pa. 611, 70 A. 874 (1908) ; McFadden v. Pennzoil Co., 341 Pa. 433, 19 A.2d 370 (1941) ; Geelen v. Penna. R. R. Co., 400 Pa. 240, 161 A.2d 595 (1960) ; Hamilton v. Fean, 422 Pa. 373, 221 A.2d 309 (1966).
+This principle was reaffirmed in Cebulskie v. Lehigh Val. R. R. Co., 441 Pa. 230, 272 A.2d 171 (1971).
