@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 159"
+decided: "1912-11-18"
+citations: ["52 Pa. Super. 68"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady and Porter, JJ."]
+parties: ["Commonwealth v. Yerkes, Appellant."]
+source_url: "https://static.case.law/pa-super/52/cases/0068-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 432828
+cites_cases: ["27 Pa. Superior Ct. 33", "45 Pa. Superior Ct. 43", "91 Pa. 145"]
+---
+
+# Commonwealth v. Yerkes
+
+## Majority (Morrison, J.,)
+
+Opinion by
+Morrison, J.,
+The defendants were tried on an indictment containing two counts charging them with conspiring and agreeing together by divers unlawful, false, fraudulent, etc., devices and contrivances and by publishing false statements of and concerning the ownership and value of the property of a corporation called the Kimberley Consolidated Mines Company, and by false statements of the financial standing and condition of said company, and by means of threats and menaces seeking to damage, injure, ruin and destroy the business and credit of the said corporation, and willfully, maliciously and oppressively attempting to extort, obtain and procure a large sum of money, to wit, $25,000, from the said corporation. The result of the trial was a verdict of guilty, and counsel for defendants moved for a new trial and in arrest of judgment, which motions were, on argument and opinion filed, both refused, and the defendants being sentenced each to pay a fine and costs and each to stand committed, etc., appealed to this court.
+The first assignment of error relates to the trial judge sustaining the objection of the commonwealth and refusing to permit the witness then on the stand to answer the following questions: “Q. At that time, in May, 1911, how many shares of stock did Stevens own? A. In May, 1911? Q. Yes. Objected to. Objection sustained and exception to defendant.” We think there are several reasons why this assignment is without merit. First, the question was not proper cross-examination, as the witness had not testified in chief to anything which would justify the question. In addition to this the witness Stevens had testified that he was a stockholder of the Kimberley Consolidated Mines Company in May, 1911, when he had the conversation with the defendants relative to their purposes and intentions toward the company. The fact that Stevens was a stockholder was thus brought before the jury and the number of shares of stock that he owned was not material. It was further immaterial because neither the bill of indictment nor the bill of particulars averred that the acts of the defendant were to the injury of the stockholders, but to the injury and prejudice of the corporation. But, of course, if the corporation was injured, it would incidentally injure the stockholders. We do not think the first assignment raises material error.
+The second and third assignments refer to a certain telegram. These assignments complain of the court for admitting in evidence a copy of the telegram. A sufficient answer to these assignments is that the copy was not offered and received in evidence. Both of the assignments complain of the court for admitting in evidence a copy of the telegram, referring to pages 175-176, notes of testimony, but the copy of said telegram is not printed in the assignments, and worse than this the notes of testimony only contain 140 pages, and, therefore, we do not find the telegram in appellant’s book at all. The defendant Respess was on the stand and he admitted having sent the telegram and said the copy was correct. It was then offered in evidence and objected to. The court said: “ Read it to him and ask him if he wrote such a telegram.” Exception to defendants. This is the end of these assignments and they are without merit, first, because the telegrarfi is not set forth in the assignments, and second, the defendant admitted that the copy was the correct copy of a message which he sent and he was in no way harmed even if the telegram was read to the jury. Rules of evidence are to protect parties against incompetent and improper evidence, but when a party admits that the paper produced is a correct copy of the original writing which he made and used, it is not easy to see how he is harmed by using the copy instead of the original.
+The fourth assignment complains because the court refused to- give a binding instruction in favor of the defendants. There was plenty of evidence from which the jury could find the defendants guilty of the charge contained in the indictment and therefore the court did not err in refusing such instruction. It has often been held that a conspiracy is an agreement to do an unlawful thing, or to do a lawful thing in an unlawful manner. The offense is complete the moment the agreement is made, whether acts be done in pursuance of it or not: Heine v. Com., 91 Pa. 145; Com. v. Stovas, 45 Pa. Superior Ct. 43; Com. v. Haun, 27 Pa. Superior Ct. 33.
+The fifth assignment complains that the court refused the request of counsel for the defendants to call the attention of the jury to the motive of the prosecution. The simple answer to this assignment is that the court did not so refuse. On the contrary, the court said the jury could consider that among the other evidence.
+Upon a careful consideration of this case we are of the opinion that the assignments of error are without merit.
+The judgment is affirmed and it is here ordered that each defendant forthwith surrender himself to the custody of the sheriff of Philadelphia county to the end that so much of the sentence of the court of quarter sessions as had not been complied with at the time when this appeal was made a supersedeas shall be completed.
