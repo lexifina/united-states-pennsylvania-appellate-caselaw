@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 131"
+decided: "1921-07-14"
+citations: ["77 Pa. Super. 312"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Or-lady, P. J., Porter, Henderson, Head, Trexler, Keller and Linn, JJ."]
+parties: ["Theil, Appellant, v. Wolfe."]
+source_url: "https://static.case.law/pa-super/77/cases/0312-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 648481
+cites_cases: ["128 Pa. 79", "136 Pa. 1", "196 Pa. 610", "210 Pa. 47", "228 Pa. 243", "244 Pa. 439", "252 Pa. 140", "252 Pa. 581", "262 Pa. 150", "262 Pa. 436", "263 Pa. 271", "268 Pa. 497", "53 Pa. 291", "60 Pa. Superior Ct. 202", "68 Pa. 559"]
+---
+
+# Theil v. Wolfe
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+The testimony in this case shows that the defendant was the owner of an automobile which was being operated under a license issued by the State Highway Department and that the machine was registered in what is known as the Dealer’s Class for the purpose of demonstrating, testing or selling. The presumption of law, therefore, was that the automobile was being used for such purposes, or as stated in Haring v. Connell, 244 Pa. 439, “The tag was, therefore, prima facie evidence that, at the time of the collision, the appellees, or someone acting under their authority, were operating the car, and the burden was shifted to them of showing that it was not so operated.” See also Herrington v. Hill, 60 Pa. Superior Ct. 202.
+The defendant produced testimony showing that the ear in question was loaned by the defendant to a Mr. Hill to go to the latter’s farm to get some produce. Defendant had no connection with the trip. On his return to the City of Erie where the parties reside, the collision with plaintiff’s team occurred. The lower court took the position that as the uncontradicted evidence was that as the accident was caused while the machine was being-driven by Hill, who was on an errand of his own, there could be no recovery and instructed the jury to find for the defendant. In this we think the court committed error. This court in Herrington v. Hill, supra, had occasion to say through Head, J., “When therefore the plaintiff in the present case had shown, by proof, the injury she had sustained and that such injury resulted from a collision with a car owned by the defendant which carried a dealer’s license tag and that such collision resulted solely from the negligent operation of the car, she had made out a prima facie case against this defendant. If then there had been no countervailing evidence offered by the defendant to overcome the presumption, the plaintiff’s case must have been submitted to the jury for their determination of the cause of the injury and the extent of the damages that would compensate it. The defendant of course did offer evidence for the purpose of overcoming such presumption, but it was all in parol, and the credibility of the witnesses, interested as they were, was necessarily a question for the consideration of the jury.” To the same purpose is the case of Williams v. Ludwig Floral Co., 252 Pa. 140; and that of Holzheimer v. Lit Brothers, 262 Pa. 150. In the latter case where the inference of ownership arose by reason of the fact that the truck, which caused the injury, bore the name of the defendant company, the Supreme Court said, “This was presumptive evidence and as has frequently been ruled, was quite sufficient to carry the case to the jury. As a presumption it was of course rebuttable, but this does not mean that it had any less probative force than it would have had had it rested on direct evidence. ......It was at no time a question between plaintiff’s witnesses and defendant’s, but simply a question of tbe sufficiency of tbe testimony adduced by tbe defendant to overcome tbe presumption on wbicb plaintiffs’ whole case rested. No reason can be suggested wby tbe general rule that commits tbe credibility of witnesses to tbe determination of tbe jury should not be applied in such case as it is where there is a conflict in tbe testimony.” Tbe cases of Dunmore v. Padden, 262 Pa. 436, and Beatty v. Firestone T. & R. Co., 263 Pa. 271, relied upon by tbe lower court have no application to tbe case before us. There are any number of cases wbicb bold that it is incumbent upon tbe plaintiff in a case arising out of tbe negligent operation of an automobile, to prove that tbe defendant was tbe owner of tbe car, and tbe driver or servant was engaged in bis business at tbe time the negligent act was done. These cases all refer to automobiles operated under a general license, and are clearly distinguishable from those where automobiles are operated under a special dealer’s license wbicb confines tbe use of tbe car solely to tbe owner’s business for tbe purposes set forth in tbe license.
+Tbe assignments of error are sustained and tbe judgment is reversed with a venire facias de novo.
