@@ -1,0 +1,33 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 83 C.D. 1977"
+decided: "1978-06-05"
+citations: ["35 Pa. Commw. 615"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Wilkinson, Jr., Menoer, Rogers, Blatt and DiSalle."]
+parties: ["Montgomery Development Company and B. C. Associates, Appellants v. Board of Supervisors of Plumstead Township, Appellee."]
+source_url: "https://static.case.law/pa-commw/35/cases/0615-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1885818
+cites_cases: ["16 Pa. Commonwealth Ct. 143", "164 A.2d 7", "328 A.2d 177", "401 Pa. 211", "459 Pa. 219"]
+---
+
+# Montgomery Development Co. v. Board of Supervisors
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+The appellants, Montgomery Development Company and B. C. Associates, filed a petition with the supervisors of Plumstead Township, Bucks County, requesting the amendment of the township zoning ordinance and map so as to rezone their 85 acre tract from the I (Li) Limited Industrial district to C-2 Highway Commercial. The appellants additionally asked for modifications in the requirements of the C-2 Highway Commercial District. The purpose of these requirements was to make it possible to construct and operate a shopping mall on the appellants’ land.
+The supervisors were initially receptive to the shopping mall proposal but decided to create a new C-3 Planned Shopping Center zoning district rather than to amend the provisions of the C-2 Highway Commercial district. A draft ordinance describing the new C-3 district was prepared with the assistance of the appellants and their counsel. The draft contained a section titled “Area to be Eezoned if this Ordinance is Adopted, ’ ’ which consisted only of a description of the appellants’ 85 acre tract.
+The proposed amendment was duly advertised as proposed for adoption at a meeting to be held on January 29, 1976. The supervisors then developed misgivings concerning either the zoning change or the appellants’ project and at the meeting on January 29, 1976 adopted the amendment only after deleting the section describing the appellants’ tract as the area to be rezoned. During the next several months the supervisors continued their consideration of the advisability of rezoning the appellants’ land as requested, assisted in technical matters by a traffic consultant.
+On the afternoon of May 18, 1976 the appellants, apparently forewarned of things to come, filed a substantive challenge to the Plumstead Township zoning ordinance pursuant to Section 1004 of the Pennsylvania Municipalities Planning Code, alleging that by creating a new zoning classification without designating any township land to be so classified, the Board of Supervisors had created a floating zone of the kind held to be invalid in Eves v. Zoning Board of Adjustment, 401 Pa. 211, 164 A.2d 7 (1960). They suggested as a cure an amendment to the amendment reinstating the section describing their land as located in the Cr3 Shopping Center district. At a scheduled meeting in the evening of May 18, 1976, the supervisors formally denied the prayer of the appellants’ petition to rezone their property. The Board of Supervisors repealed the ordinance which created the new C-3 Shopping Center district on June 22, 1976 and denied the prayer of appellants’ petition for a curative amendment on June 23,1976. The appellants then appealed the supervisors’ denial of their request for curative amendment to the Court of Common Pleas of Bucks County, which dismissed the appeal.
+The court below held that the history of the litigation clearly demonstrated that the appellants’ asserted substantive challenge of the Plumstead Township zoning ordinance made by the vehicle of appeal from the denial of their proposed curative amendment was in reality nothing more than a contrivance for review and reversal of the Plumstead Township’ Board of Supervisors’ refusal to rezone their tract so as to accommodate their proposed shopping mall. Since the actions of municipal bodies on applications for rezoning are not subject to judicial review (Board of Supervisors of Ferguson Township v. Strouse, 16 Pa. Commonwealth Ct. 143, 328 A.2d 177 (1974)), the .court below was impelled to dismiss the appeal. Our.review of the record leads us firmly to the- samé .conclusion and we affirm.
+Our conclusion that appellants’ appeal should be dismissed because it is essentially an appeal of a municipality’s refusal to rezone makes it unnecessary for: us to reach the appellants’ other arguments. However, we will comment briefly on the appellants ’ thesis that-,since they have shown that the amendment adopted by the supervisors created an invalid floating zone and since, under the rule of Casey v. Zoning Hearing Board of Warwick Township, 459 Pa. 219, 328 A.2d 464 (1974), one successfully challenging a zoning ordinance must have definitive relief, they must be provided the right to construct their shopping mall. The appellants’ argument is casuistical. In Casey, supra, and similar cases, the landowners given definitive relief had attacked ordinances which unconstitutionally prohibited their intended use and it was held that justice required definitive relief lest the appellants’ effort be merely an expensive academic exercise. Here, the appellants’ attack is on an ordinance which prohibits nothing; it proposes a zoning district in which the appellants’ proposed use would be permitted. Its invalidity, if any, lies not in what it prohibits but in what it might allow—the location of new uses not in accordance with a comprehensive plan and at the unfettered whim of supervisors. As Eves v. Zoning Board of Adjustment, supra, demonstrates, the relief to be granted in a successful attack on a floating zone is the denial of building permits in protection of the protesting landowning public, not the grant of permits to developers. Finally, there is no evidence that the Plumstead zoning ordinance unconstitutionally prohibits the use of all laud in the township for the construction and operation of shopping malls.
+Order affirmed.
+Order
+And Now, this 5th day of June, 1978, the order of the Court of Common Pleas of Bucks County dated December 27, 1976, dismissing the appeal of Montgomery Development Company and B. C. Associates, is affirmed.
+B. O. Associates was the record owner; Montgomery Development was equitable owner under an agreement to purchase.
+Act of July 31, 1968, P.L. 805, as amended, 53 P.S. §11004.
