@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1158 C.D. 1977"
+decided: "1979-01-11"
+citations: ["39 Pa. Commw. 636"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Blatt, DiSalle iand MaoPhail, sitting as a panel of three."]
+parties: ["Orville D. Anderson and Dorotha Anderson, Husband and Wife, Plaintiffs v. David L. Shaffer, Edgar Ramsey and F. Wayne Woods, Supervisors of East Lackawannock Township et al., Defendants."]
+source_url: "https://static.case.law/pa-commw/39/cases/0636-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1892577
+cites_cases: ["17 Pa. Commonwealth Ct. 329", "26 Pa. Commonwealth Ct. 545", "26 Pa. Commonwealth Ct. 70", "332 A.2d 575", "362 A.2d 478", "365 A.2d 447", "469 Pa. 1"]
+---
+
+# Anderson v. Shaffer
+
+## Majority (Judge DiSalle,)
+
+Opinion by
+Judge DiSalle,
+On May 24, 1977, Orville D. Anderson and his wife (Petitioners) filed a petition for review in the nature of mandamus with this Court seeking to compel the Department ¡of Transportation (PennDOT) and/or East Lacbaw,annock Township (Township) -and its supervisors to open, maintain and improve an access road to Petitioners’ property. The Township and PennDOT have filed preliminary objections in the nature of a demurrer to the petition.
+In 1963, Petitioners’ property became landlocked as a result of the condemnation of a portion of their land, occasioned by the construction of an interchange of 'an interstate highway. Petitioners allege 'that, pursuant to an -agreement entered into between the Petitioners and PennDOT, an access road to their property was constructed. They claim that PennDOT has since refused to maintain this road; that in January of 1972, PennDOT notified Township that Section 12 of the Act of May 29,1945 (Act), P.L. 1108, as amended, 36 P.S. §2391.12, required it to maintain the road, but that Township also refused to provide maintenance. The Petitioners further allege, that in the interim between the construction of the road and the notification of Township of its alleged statutory responsibilities, the .road was partially excavated by persons unknown, ‘and has, in fact, ceased to be usable.
+In reviewing preliminary objections, we are guided by the principles enunciated in Gekas v. Shapp, 469 Pa. 1, 364 A.2d 691 (1976):
+The standards for sustaining preliminary objections in the. nature of a demurrer .are quite ■strict. A demurrer admits every well-pleaded material fact .set forth in the pleadings to which it is addressed as well as all inferences reasonably deducible therefrom, but not conclusions of law. In order to sustain the demurrer, it is essential that the plaintiff’s complaint indicate ■on its face that his claim cannot be .sustained, .and the law will not permit recovery. If there is any doubt, this should be resolved in favor of overruling the demurrer. (Citations omitted.)
+469 Pa. at 5-6, 364 A.2d at 693.
+Township cites two specific grounds for its demurrer. Initially, it contends that the road in question is not a service highway within the meaning of the Act .and .that it is not, therefore, obliged to- maintain .such a road. See Section 12 of the Act. The petition for review alleges that the. access road was a local service highway. This 'allegation is supported by PennBOT’s .admission that the road was constructed as a local service highway pursuant to the authority .of the Secretary of Highways as set forth in Section 3 of the Act, 36 P.S. 2391.3. Thus, a clear issue of fact is raised which cannot be resolved at the preliminary objection stage.
+Township next contends that the road no longer exists and that any responsibility it may have had for maintaining it has therefore terminated. This contention is patently untenable'. Assuming the road was a local 'Service .highway within the meaning of the Act, Township’s maintenance responsibility attached upon ■the completion thereof. Certainly Township cannot argue that because the road is no longer usable (a condition which allegedly resulted from its own insufficient or improper maintenance) its responsibility for the maintenance thereof has ceased.
+Turning to PennDOT’s demurrer, its first objection .addressee a specific requirement of the writ of mandamus. It states that mandamus will lie to compel the performance of a ministerial act or a mandatory duty only where there is a clear legal right in ■the plaintiff, a corresponding duty in the defendant, and a want of any other appropriate and adequate, remedy. Burlington Homes, Inc. v. Kassab, 17 Pa. Commonwealth Ct. 329, 332 A.2d 575 (1975). Insofar as the Petitioners have .an appropriate remedy at law, PennDOT argues, the petition for review in the nature of mandamus will not lie.
+Specifically, PennDOT contends that Petitioners have recourse to the provisions of the Eminent Do-man Code (Code). It argues that if the access road in question has, in fact, been destroyed, Petitioners are entitled to just compensation. It is clear, however, that any such condemnation must be for a public purpose before the provisions of the Code apply. See Section 303 of the Code, 26 P.S. §1-303; Riehl v. Millereeh Township Sewer Authority, 26 Pa. Commonwealth Ct. 70, 362 A.2d 478 (1976). In this case, none of the parties has any knowledge as to the identity of the party or parties who excavated the road surface or the purpose of such excavation. Hence, it is by no means clear that the Petitioners have recourse to the Code or any other adequate remedy at law.
+PennDOT’s second objection in the nature of a demurrer is premised on its contention that it has no duty to open, maintain or improve the access road. Since it is undisputed that PennDOT did, in fact, build .an access road pursuant to some agreement (the nature of which is fiar from clear) the sole question becomes whether Petitioners have properly pleaded a further agreement by PennDOT to maintain the road as well. While making vague references to. Penn-DOT’s having “assured” Petitioners that the roiad would bie maintained, toe petition for review is notably deficient in this regard.
+Because of the absence of any averments setting forth a specific agreement by PennDOT to maintain the road, we are inclined to sustain PennDOT’s preliminary objection and dismiss the complaint as to it. However, we believe that toe circumstances of this case, as well as a liberal construction of the applicable rules of civil procedure, oblige us to .afford Petitioners an opportunity to amend so as to specifically avoir the exact nature and extent of PennDOT’s alleged agreement to maintain the road. See Marinucci Appeal, 26 Pa. Commonwealth Ct. 545, 365 A.2d 447 (1976). We will, therefore-, grant Petitioners leave to amend their petition for review.
+Order
+And Now, this 11th day of January, 1979, toe preliminary objections of East Lackawannock Township ar.e hereby 'overruled. The preliminary objections filed by 'the Department of Transportation are overruled .and, as to the Department, Petitioners are hereby granted leave to file an (amended petition for review consistent with this opinion within twenty (20) days .after notice of this Order.
+There is no question that if the road is a local service highway, the Township is responsible for maintaining it. See Section 12 of the Act.
+Act of June 22, 1964, Special Sess., P.L. 84, as amended, 26 P.S. §1-101 et seq.
