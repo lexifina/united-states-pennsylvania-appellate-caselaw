@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1; Appeal, No. 242"
+decided: "1919-01-03"
+citations: ["71 Pa. Super. 54"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Kbphart, Trexler and Williams, JJ."]
+parties: ["Commonwealth v. Auerbach, Appellant"]
+source_url: "https://static.case.law/pa-super/71/cases/0054-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 638118
+cites_cases: ["1 Pa. Superior Ct. 458", "10 Pa. Superior Ct. 171", "104 Pa. 518", "155 Mass. 54", "155 Pa. 572", "169 Mass. 338", "187 Pa. 408", "189 Pa. 563", "205 Pa. 101", "206 Pa. 135", "208 Pa. 434", "209 Pa. 412", "209 Pa. 529", "225 Pa. 113", "256 Pa. 257", "258 Pa. 442", "31 Pa. 65", "31 Pa. Superior Ct. 364", "59 Pa. Superior Ct. 166", "70 Pa. Superior Ct. 442", "73 N. J. Law 582", "9 Pa. 335"]
+---
+
+# Commonwealth v. Auerbach
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+The defendant was found guilty of aggravated assault and battery. There are twenty-seven assignments of error. They may all be considered under the three heads as presented at argument.
+The first objection urged is, there were no adequate instructions as to the meaning of “legal arrest.” The defendant, who was a policeman of the City of Philadelphia, claimed that he was making an arrest upon sufficient cause, and that therefore he was authorized to use such force as was necessary. The court stated that the policeman, in order to have the right to arrest, “must be acting within the scope of his duty, and must be acting upon proper cause.” We feel that the jury, with these instructions, must have known what the real issue was and that the failure of the court to elaborate further as to the meaning of the phrase “legal arrest” did the defendant no harm.
+The second objection urged referred to the refusal of the court to allow the prosecutor to be asked whether he had ever been convicted of crime. In Com. v. Racco, 225 Pa. 113, the Supreme Court held that the defendant might be asked whether he had ever been convicted of crime. In that case the question included larceny, assault and battery, and obtaining money under false pretensions. This was for the purpose of attacking his credibility. As to all defendants, this has since been changed by legislation, but it still remains that a* witness may be asked as to his conviction of crime, so as to attack his credibility. It is remarked in Com. v. Varano, 258 Pa. 442, citing Com. v. Racco, 225 Pa. 113, that the crime should be such as affects the witness’s credibility, and we have followed this in Com. v. Keegan, 70 Pa. Superior Ct. 442. See Wigmore .on Evidence, Section 926. The extent of such cross-examination is largely within the discretion of the trial judge: Com. v. Racco, supra. If we turn to the proposition of the defendant, the refusal of which forms the subject-matter of the assignments in this regard, we find that the offer was not only to prove conviction of crime, but certain occurrences leading up to it and forming part of the surroundings. Certainly it was not the part of the jury to go into the facts in the former trial, for if that were so, the defendant in such case might offer facts in extenuation, and thus the inquiry might be extended at great length. All that it was proper for the defendant to offer was the record showing the nature of the charge and the fact of the conviction and the sentence. It was not required of the court to sift out the good from the bad in the offer: Jacoby v. Insurance Co., 10 Pa. Superior Ct. 171; Hunter v. Bremer, 256 Pa. 257. The other offer which was refused and which must be considered under this same heading is to show that one of the witnesses plead guilty to the charge of selling liquor without a license. As there was no sen* tence in the case, .this, apart from the question of its relation to the credibility of the witness, was inadmissible: Bank v. Felder, 59 Pa. Superior Ct. 166. The attempt of the defendant to introduce, for the purpose of attacking the veracity of the prosecutor, the fact that he was conducting a speak-easy, that he sold liquor without á license to certain persons, and that he had the reputation of doing so, is so plainly objectionable that it requires no extended remarks. Until he was convicted by a competent court, the presumption of innocency of any criminal charge remained with him. It was the avowed purpose of the defendant, if the question were answered in the negative, to prove by witnesses that the prosecutor had kept a speak-easy. It would be carrying the jury far afield to have them go into the question and determine whether he was conducting a speak-easy or not. It is argued that the proof offered might show the bias of the witness. This is evidently an afterthought, and was not the purpose avowed at the trial.
+As to proof of reputation of conducting a speak-easy, there is no valid reason advanced to show that this is permissible. Character for truth is shown by general reputation. If this as it existed in the common speech of the neighborhood was to be proved, it should have been directly in the usual manner and not by showing specific acts or a course of conduct.
+The judgment is affirmed and the record remitted to the court below to the end that the sentence may be carried into effect.
