@@ -1,0 +1,43 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1595 C.D. 1983"
+decided: "1984-08-07"
+citations: ["84 Pa. Commw. 375"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Rogers, Colins and Barbieri, sitting as a panel of three."]
+parties: ["Izora Gadsden, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/84/cases/0375-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1324211
+cites_cases: ["32 Pa. Commonwealth Ct. 334", "34 Pa. Code §101.51", "34 Pa. Code §101.53", "379 A.2d 643"]
+---
+
+# Gadsden v. Commonwealth, Unemployment Compensation Board of Review
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+This unemployment compensation claimant appeals from an order of the Unemployment Compensation Board of Review (board) affirming a referee’s dismissal of the claimant’s appeal from a denial of benefits due to her failure to appear at a referee’s hearing.
+The claimant’s principal argument is that she did not attend the referee’s hearing because of a lack of notice, that is, that the referee’s Notice of Hearing was mailed to an incorrect address. The claimant also contends that, had she been afforded an opportunity to be heard, she would have presented evidence that would preclude a finding of disqualifying conduct on her part.
+On February 24, 1983, the date on which the Office of Employment Security (OES) denied the claimant’s application for benefits, the claimant resided at 8633 Gilbert Street, Philadelphia. Shortly thereafter, she moved her residence to 3559 North Marvine Street, Philadelphia, and on March 7, 1983, on which date the claimant filed a Petition for Appeal from the unfavorable OES determination, she mistakenly wrote as her new address on the petition “3553 No. Marvine St.” The claimant alleges that, on her next signing date, March 14, 1983, she realized her mistake and advised OES of the correct address. However, the referee’s Notice of Hearing, which was mailed on March 17, 1983, was mailed to “3553 No. Marvine St.,” the incorrect address, and the claimant asserts that she never received this notice.
+The referee dismissed the claimant’s appeal due to her nonappearance at the March 30, 1983 hearing. On the claimant’s Petition for Appeal to the board, filed in late April, 1983, which contains her correct address, she stated as her reason for appealing that “I did not receive a written notice of the hearing date.” She did not explain on the petition that the notice of the referee’s hearing had been mailed to the incorrect address and there is no evidence in the record that the board appreciated this circumstance. The claimant was unrepresented by counsel at that and at all times prior to her appeal to this Court. As noted, the board affirmed the referee’s dismissal of the claimant’s appeal.
+34 Pa. Code §101.53 provides:
+Mailing of any notices, orders, or decisions of a referee, or of the Board to the parties at their last hnown addresses as furnished by the parties to the referee, the Board, or the Department, shall constitute notice of the matters therein contained. (Emphasis added.)
+The record makes clear that, although the claimant gave the wrong address on her original Petition for Appeal to a referee, and it was to that incorrect address that the referee’s Notice of Hearing was mailed, the claimant indeed informed OES at some point of her mistake and furnished them with her correct address; This is evidenced from the claimant’s TJC-100 record, which on its face indicates an address correction. It is not clear from the UC-100 card, however, when the address correction was made. If, as the claimant alleges, she notified OES of the mistake on March 14, 1983, a week after she filed her appeal petition to the referee, then her correct address would have been the “last known” address furnished by the claimant to “the Department” within the meaning of 34 Pa. Code §101.53. As such, there.would have been a lack of proper notice of the referee’s March 30, 1983 hearing and, a consequent denial- of the claimant’s right to due process. An applicant for unemployment compensation benefits is entitled to notice and an opportunity to be heard prior to a final denial of benefits. Mileski v. Unemployment Compensation Board of Review, 32 Pa. Commonwealth Ct. 334, 379 A.2d 643 (1977).
+As we have noted, the claimant did not appear but the referee conducted a hearing, taking the' employer’s evidence. The referee then dismissed the claimant’s appeal because of her nonappearance. We believe that this was error.
+Section 502 of the Unemployment Compensation Law, Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §822 describes the referee’s duties as follows:
+Where an appeal from the determination ... of the department is taken, a referee shall, after affording the parties and the department reasonable opportunity for a fair hearing* a/firm, modify or reverse such findings of fact and the determination ... of the. department as to him shall appear just and proper. ...” (Emphasis added.)
+Regulations found at 34 Pa. Code §101.51 describe the referee’s duties to proceed in the event of a party’s absence:
+If any party duly notified of the date, hour and place of a hearing fails to attend a hearing without proper cause, the hearing may be held in his absence. In the absence of all the parties, the decision may be based upon pertinent-available records. The tribunal may take such other action as may be deemed appropriate.
+Section 502 of the Law, when read together with 34 Pa. Code §101.51, reveals, in our view, the Legislature’s intention that referees decide unemployment compensation cases on their merits, even in the absence of a party or indeed both parties. Moreover, the Pennsylvania Supreme Court recently wrote in Miller v. Unemployment Compensation Board of Review, Pa. , A.2d (No. 43 W.D. Appeal Dkt. 1983, filed May 25, 1984) that “ [w]e have long refused to give overly technical, restrictive readings to procedural rules, particularly when remedial statutes such as the Unemployment Compensation Act are involved____ Dismissals are particularly disfavored. ’ ’
+We believe, therefore, that the referee, despite the claimant’s absence, should have rendered a decision on the merits with findings of fact based on the evidence of record.
+As we have noted, the claimant alleges that she did not receive notice of the referee’s hearing because the notice was not sent to her last known address and that she had provided her correct address before the notice was sent. We are persuaded upon an examination of the OES records that the claimant must be given the opportunity to adduce evidence relating to the matter of when she advised the OES of her correct address. Therefore, we in any case would have been required to remand the record for an evidentiary hearing on this issue.
+We will, therefore, for the reasons explained, reverse the referee’s action of dismissal and remand the record to the Board of Review first, for a decision on the merits based upon the record of the referee’s hearing, as is required by Section 502 of the Law and our holding in this case and second, for a hearing on the matter of whether the notice of the referee’s hearing was mailed to the claimant’s last known address. If it is found that the notice was not sent to the claimant’s last known address, the Board should then conduct a hearing on the merits, including the, claimant’s evidence on the merits and decide the case based on the circumstances of the claimant’s discharge from her employment. If it is found that the notice of the referee’s hearing was indeed sent to the claimant’s last known address, the decision on the merits based on the record of the referee’s hearing only shall be entered as the decision of the Board of Review.
+Jurisdiction is relinquished.
+Order
+And Now, this 7th day of August, 1984, the order of the Unemployment Compensation Board of Review is reversed and the record remanded for proceedings consistent with the opinion herewith. Jurisdiction is relinquished.
+The OES determined that the claimant was disqualified for willful misconduct pursuant to Section 402(e) of the Unemployment Compensation Daw, Act of December 5, 1936, Second Ex. Sess., P.D. (1937 ) 2897, as amended, 43 P.S. §802 (e).
+The “Department.” in 34 Pa. Code §101.53 refers to the Department of Labor and Industry of the Commonwealth, of which the Office of Employment Security is a part.
