@@ -1,0 +1,35 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1236"
+decided: "1996-12-31"
+citations: ["455 Pa. Super. 76", "686 A.2d 1353"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DEL SOLE, HUDOCK and CERCONE, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania, v. Louie ARROYO, Appellant."]
+source_url: "https://static.case.law/pa-super/455/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 947355
+cites_cases: ["428 Pa.Super. 69", "538 Pa. 286", "648 A.2d 309"]
+---
+
+# Commonwealth v. Arroyo
+
+## Majority (DEL SOLE, Judge:)
+
+DEL SOLE, Judge:
+This is an appeal from the judgment of sentence following Appellant’s conviction on the charge of possession of a small amount of marijuana.
+Appellant was a passenger in a car that Officer Donald G. Bender stopped at 2:31 a.m. because the driver appeared to him to be under the age of 18 and, if so, in violation of 75 Pa.C.S.A. § 1503(c)(1) of the Motor Vehicle Code. This section provides, with few exceptions, that no licensed driver under the age of 18 may drive on a public highway between the hours of midnight and 5:00 a.m. Officer Bender activated his emergency lights and initiated the stop of the vehicle within his primary jurisdiction. However, the vehicle continued to travel approximately one-quarter mile before stopping beyond the limits of the primary jurisdiction. After he approached the car and detected an odor of burnt marijuana, Officer Bender asked the Appellant to step out of the car and empty his pockets. Appellant was then arrested when he revealed a partially burnt marijuana cigarette.
+A motion to suppress the case was presented by Appellant’s trial counsel alleging that Officer Bender was without reasonable suspicion or probable cause to stop the vehicle in which Appellant was a passenger. After hearing Officer Bender’s uncontradicted testimony, the suppression court found that the stop of the vehicle was based on probable cause. The suppression court then determined that its probable cause finding was dispositive of a second issue raised by Appellant’s trial counsel. Namely, that the Statewide Municipal Police Jurisdiction Act was violated when Officer Bender pursued the vehicle outside of his primary jurisdiction.
+The Statewide Municipal Police Jurisdiction Act provides in pertinent part:
+(a) General rule. — Any duly employed municipal police officer who is within this Commonwealth, but beyond the territorial limits of his primary jurisdiction, sháll have the power and authority to enforce the laws of this Commonwealth or otherwise perform the functions of that office as if enforcing those laws or performing those functions within the territorial limits of his primary jurisdiction in the following cases:
+(2) Where the officer is in hot pursuit of any person for any offense which was committed, or which he has probable cause to believe was committed, within his primary jurisdiction and for which offense the officer continues in fresh pursuit of the person after the commission of the offense.
+42 Pa.C.S.A. § 8953(a)(2).
+Pursuant to subsection (2), the suppression court found that a violation of the Act did not occur because Officer Bender’s pursuit of the vehicle outside of his primary jurisdiction was supported by probable cause to believe that the driver was operating the vehicle in violation of the Junior License provisions of 75 Pa.C.S.A. 1503(c)(1) within his jurisdiction.
+We need not determine, in the case before us, whether the suppression court erred in concluding that probable cause existed to justify the stop of the vehicle. A police officer is authorized to stop a vehicle and secure information necessary to enforce the Motor Vehicle Code if he has articulable and reasonable grounds to suspect a violation of the Code. 75 Pa.C.S.A. § 6308(b). The stop was, at the very least, supported by Officer Bender’s reasonable suspicion that the driver may be in violation of § 1503(c)(1) of the Motor Vehicle Code. Therefore, Officer Bender complied with § 6308(b) and the stop was legal under the “preferred standard” of “articulable and reasonable grounds to suspect.” Commonwealth v. McElroy, 428 Pa.Super. 69, 630 A.2d 35 (1993)(hoIding that while both probable cause and reasonable suspicion standards have been interpreted from § 6308, the preferred standard is reasonable suspicion).
+With respect to the suppression court’s conclusion that Officer Bender stopped the vehicle outside of his primary jurisdiction while complying with the provisions of the Statewide Municipal Police Jurisdiction Act, we reach the same result. However, we do so based upon different reasoning. We hold that when an officer activates his emergency lights and initiates a stop of a vehicle within his primary jurisdiction, the fact that the vehicle eventually comes to rest beyond the limits of the officer’s jurisdiction does not establish a violation of the Statewide Municipal Police Jurisdiction Act. This is so even when the stop was initiated based upon a reasonable suspicion of a violation, rather than based upon probable cause.
+Our holding is in accordance with 42 Pa.C.S.A. § 8953(a)(2) and the Pennsylvania Supreme Court’s interpretation of that statute in Commonwealth v. McCandless, 538 Pa. 286, 648 A.2d 309 (1994). The court held in McCandless that § 8953(a)(2) requires probable cause, not the lesser standard of reasonable suspicion, to believe that an offense was committed within an officer’s jurisdiction prior to a pursuit outside of his jurisdiction. Id. However, our holding rests upon a distinction between McCandless and the instant case.
+Specifically, the distinction is the point at which the stop of the vehicle was initiated. In McCandless, the police officer pursued a vehicle outside of his jurisdiction in order to clock the speed of the vehicle and he did not activate his emergency lights or instruct the driver to stop prior to his entry into the second jurisdiction. Id. at 288, 648 A.2d at 310. In contrast, the stop in this case was initiated within the officer’s jurisdiction when he signalled for the driver to pull over, and it would have culminated there if not for the fact that the driver continued for an additional one-quarter mile beyond the point of Officer Bender’s signal. (N.T. p. 37).
+A failure to stop when requested or signalled by a police officer is, in itself, a violation of the Motor Vehicle Code. 75 Pa.C.S.A. § 6308(a). Therefore, when Officer Bender observed that the driver was not responding to his signal, he observed that a Motor Vehicle Code violation was being committed within his jurisdiction. That observation of the driver’s violation justified his pursuit into the next jurisdiction, even though the stop was initiated for a different reason. As a result, § 8953(a)(2) was not violated and the stop of the vehicle was legal.
+Judgment of Sentence Affirmed.
