@@ -1,0 +1,39 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 36"
+decided: "1934-04-23"
+citations: ["113 Pa. Super. 168"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Tkexler, Keller, Cunningham, Baldrige, Stadteeld, Parker and James, JJ."]
+parties: ["Widson v. Phila. R. T. Co., Appellant."]
+source_url: "https://static.case.law/pa-super/113/cases/0168-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 974323
+cites_cases: ["110 Pa. Superior Ct. 374", "138 A. 830", "160 A. 125", "168 A. 777", "290 Pa. 288", "306 Pa. 427"]
+---
+
+# Widson v. Phila. R. T. Co.
+
+## Majority (Cunningham, J.,)
+
+Opinion by
+Cunningham, J.,
+Plaintiff has a verdict and judgment thereon in the sum of $1,500 ,as damages for personal injuries suffered in a right angle collision between her automobile and a trolley car of defendant at the intersection of Glenwood and Columbia Avenues in the City of Philadelphia. Each street is thirty-four feet from curb to curb and traffic is controlled at their intersection by automatic lights; defendant operates its cars east and west over double tracks on Columbia. Plaintiff was traveling north on Glenwood Avenue about seven o ’clock on the evening of March 12, 1932, and the rear of her automobile was struck by defendant’s westbound trolley car as she was passing over the northern rail of. the track upon which it approached. She testified the trolley car “was moving very fast.”
+Defendant’s contention upon this appeal is that plaintiff’s testimony convicts her of contributory negligence so clearly that its point for binding instructions should have been affirmed, or its subsequent motion for judgment n. o. v. granted.
+Plaintiff was obliged to drive over a double line of tracks and it was her “duty to look for the approach of cars at the entrance of each track before attempting to cross it”: Kilpatrick v. Phila. Rapid Transit Co., 290 Pa. 288, 138 A. 830; A. & P. Tea Co. v. Phila. Rapid Transit Co., 110 Pa. Superior Ct. 374, 168 A. 777.
+A crucial question at the trial was whether plaintiff looked immediately before entering upon the second track, i. e., the northern or westbound track upon which she was struck.
+It was not controverted that when plaintiff arrived at Columbia Avenue the traffic light was red against traffic moving north or south on Glenwood, and green for traffic flowing east or west on Columbia; that she stopped at the south house line of Columbia and waited until the light changed, thereby giving her a “qualified permission” to proceed across Columbia, “lawfully and carefully”: (Byrne et al. v. Schultz, Inc., 306 Pa. 427, 160 A. 125); or that she was traveling at a rate of about ten miles per hour, and in second gear, when struck. ‘While she was waiting for the light to change an eastbound trolley car passed in front of her.
+Giving plaintiff the benefit of the inferences most favorable to her, we think the following summary by her counsel (in their brief) of her testimony, relative to the points at which she looked, is supported by the record:
+“Plaintiff looked first when waiting south of the intersection for the light to change and saw the westbound trolley car half-way down the block; she started when the eastbound trolley car cleared the crossing and the traffic light changed green for her.
+“She looked a second time and saw the east and westbound trolley cars pass each other at a point seventy-five feet below the crossing, after she had started to cross and when she was at 'some point between her original starting point and the first rail and when she had shifted into second gear, picking up speed; she looked a third time when her automobile reached the first rail of the eastbound track and saw the westbound trolley car fifty feet down the block, with the red traffic signal against it. ’ ’
+For the purposes of this appeal, we assume that defendant’s motorman was grossly negligent in running through the intersection against a red light. But plaintiff’s counsel fix the last point at which she looked as the “first rail of the eastbound track.” If she did not look again before entering upon the westbound track, she neglected to perform a clear duty. That she did not look before driving upon the westbound track seems to he quite evident from a portion of her testimony on cross-examination, reading:
+“Q. I didn’t ask you that, how the accident happened. I am asking you this, when you were at the first rail, with the trolley car 50 feet away, approximately, traveling west — when you got to the dummy how close was the trolley car to you? A. I don’t know. I didn’t have to see just where it was. That trolley car should have stopped for the red light that was against it. Q. Then without looking to see, you continued on across the westbound tracks, and as you were nearly across, the trolley car hit you in the rear; is that correct? A. Yes.”
+The learned trial judge submitted the question of plaintiff’s contributory negligence to the jury. We think it apparent that his decision to submit that question was based upon a misapprehension of what plaintiff’s testimony had really been.
+In summarizing her testimony he used this language : ‘ ‘ She said that then the traffic light turned green for her, and red to close Columbia Avenue traffic. She then proceeded to cross the street, and when she got to the first rail of the second line of car tracks, she again looked to her right, to the east, and saw the westbound trolley car, to which I have referred, about fifty feet away from her, coming toward her at, as I recall her testimony and without attempting to estimate it — a fast rate of speed. She went on across, and when she had almost crossed the westbound tracks, so that the rear wheels of her car were on the westbound rails, the trolley car collided with her. At that time, she tells you, the traffic signal as to Columbia Avenue was red, and green as to her. ’ ’
+As we have already indicated, there was no testimony to support the statement that she looked “when she got to the first rail of the second line of car tracks.” Her own statement was that she “didn’t have” to look at that point, because the trolley car should have stopped for the red light. Later in the charge, the trial judge said, “You will observe that when this lady reached the first rail of the eastbound tracks — she was then at a point of safety — she looked and saw the trolley car to her right, about fifty feet away, coming, as she said, fast.” There was testimony that she looked at this point but the difficulty with her case is that she said she continued on across the second, or westbound track, without looking.
+It also appears from the opinion overruling defendant’s motion for judgment n. o. v. that the trial judge was still under the impression that plaintiff’s testimony had been to the effect that she looked to her right when “she got to the first rail of the second line of car tracks.”
+The inadvertent misstatement of fact contained in the charge should have been called to the attention of the trial judge, at its close, by counsel for the defendant. Although the trial judge concluded by asking whether there was anything counsel wished him “to add or correct,” counsel for defendant failed to direct his attention to the misquotation of plaintiff’s testimony relative to a most material fact. It may also be observed that nothing was said in the charge concerning the legal duty of the driver of an automobile approaching and about to cross a double line of tracks.
+Under all the circumstances, we are of opinion that the interests of justice will be best served by directing a new trial, at which plaintiff’s testimony may be subjected to the test of the principles to which we have referred.
+Judgment reversed with a venire.
