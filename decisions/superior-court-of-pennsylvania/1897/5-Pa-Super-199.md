@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 180"
+decided: "1897-07-23"
+citations: ["5 Pa. Super. 199"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Willard, Wickham, Beaver, Reeder, Orlad y and Smith, JJ."]
+parties: ["Poor District of Green Township, Forest County, v. Poor District of Highland Township, Clarion County, Appellant."]
+source_url: "https://static.case.law/pa-super/5/cases/0199-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 280119
+cites_cases: ["110 Pa. 153", "110 Pa. 158", "34 Pa. 231", "44 Pa. 484", "62 Pa. 479", "91 Pa. 431"]
+---
+
+# Poor District v. Poor District
+
+## Majority (Beaver, J.,)
+
+Opinion by
+Beaver, J.,
+The poor district of Green township, Forest county, secured on the 2d of July, 1894, an order of removal directed to the overseers of the poor of Highland township, Clarion county, for the removal of John Waterson and family who had become a charge upon the said township of Green. This order of removal was duly served upon the overseers of Highland township, August 22, 1894. No appeal was taken to the court of quarter sessions, as provided by the 19th section of the Act of June 13, 1836, P. L. 539. The overseers of the poor of Green township subsequently petitioned the court of quarter sessions of Clarion county for “ a rule on said Highland township to refund to the said Green township the said amount (expended for relief of Waterson and family) or show cause why it does not do so.” On the 15th of March, 1897, the said court made the following decree: “ After argument and upon due consideration of the testimony, rule absolute and it is adjudged, ordered and decreed that the poor district of Highland township, Clarion county, pay or cause to be paid unto the poor district of Green township, Forest county, Pa., the sum of 355 and dollars, with interest from this date, and with record costs, including costs of subpoenas, witnesses’ costs and costs of depositions, which the clerk of the court is hereby ordered to tax up as in other cases, together with the officers’ costs.” From this decree an appeal was taken by the appellants to this court, and the effort is made to secure a consideration of the questions which would have arisen if an appeal had been taken by the poor district of Highland township to the court of quarter sessions of Clarion county from the original order of removal. These questions could not have been considered by this court upon an appeal from the decree of the quarter sessions of Clarion county above recited, even if the appeal were authorized by law, inasmuch as an order of removal unappealed from is conclusive as to the settlement of the paupers removed and of the pertinent and material facts therein recited: Directors of the Poor of Westmoreland Co. v. Overseers of Conemaugh Township, 34 Pa. 231; Directors of Schuylkill v. Overseers of Montour, 44 Pa. 484; Sugar Creek Directors v. Washington Overseers, 62 Pa. 479; Directors of Blair County v. Overseers of Clarion Borough, 91 Pa. 431.
+But a motion is made to quash this appeal on the ground that the Act of March 16, 1868, P. L. 46, providing for “writs of error to the judgment of the courts of quarter sessions on appeals from the orders of removal of paupers ” does not apply to decrees by the quarter sessions for the payment of money incurred in the maintenance and support of paupers removed. The provisions of the act of March 16, 1868, supra, are specific and refer only to “ appeals before any court of .quarter sessions from the order of removal of paupers from one district to another.” They do not embrace proceedings for securing the repayment of money expended for, or costs and charges incurred in, the removal of paupers from one district to another. The question has been distinctly ruled however in Directors of the Poor of Perry County v. Overseers of the Poor of Chillisquaque Township, 110 Pa. 153, in which Mr. Justice Green, delivering the opinion of the court, says: “ To allow a writ of error in such a case we would be obliged to do so by implication only, contrary to the letter of the act which allows the .writ; and when for aught that we know to the contrary, the legislature never intended to allow a writ. The order for costs and charges is certainly of a discretionary nature. It may well be that the legislature did not. intend that a writ of error should lie to such an order. But it is enough for us to know that they have not given the writ in the act which imposes the liability and provides a jurisdiction to determine it. (Referring to the Act of April 15, 1867, P. L. 84.) We are unable to discover any necessary implication which requires us to give it in the face of the express legislation which gives it only in cases of appeals from orders of removal, and we therefore feel obliged to quash the present writ.” Following the authority of this case, we are bound to hold that the appeal from the court of quarter sessions of Clarion county is unauthorized.
+Appeal quashed.
