@@ -1,0 +1,35 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 12"
+decided: "1939-04-21"
+citations: ["135 Pa. Super. 423"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Stadteeld, Parker, Rhodes and Hirt, JJ."]
+parties: ["Fleming’s Estate."]
+source_url: "https://static.case.law/pa-super/135/cases/0423-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1017177
+cites_cases: ["113 A. 831", "165 A. 832", "175 A. 538", "176 A. 225", "184 A. 844", "271 Pa. 68", "3 A. 2d 320", "310 Pa. 453", "316 Pa. 553", "317 Pa. 86", "321 Pa. 248", "333 Pa. 92"]
+---
+
+# Fleming's Estate
+
+## Majority (Stadtfeld, J.,)
+
+Opinion by
+Stadtfeld, J.,
+This appeal is from an order of the orphans’ court, removing the appellant as co-executor of the will of Patrick J. Fleming, Sr.
+Testator died December 26, 1937, naming his son, George Fleming and George F. Hauber, the respondent, as executors. Letters testamentary were issued to the two executors. This was followed shortly by a petition by George Fleming, one of the executors, for the removal of the respondent, as one of the executors. Five of the ten heirs of the testator joined in a written request that Hauber, the respondent, should resign as executor. Later, two of these heirs joined in another request that he remain as executor. An answer was filed by the respondent. Hearing was had on February 18, 1938, before Rimer, P. J., specially presiding, and from the evidence offered, the court found certain facts and conclusions of law.
+On April 28, 1938, the court made an order and decree removing George F. Hauber, the respondent, as co-executor. Exception to this order and decree was allowed to the respondent and from this order and decree removing the respondent, an appeal was taken by George F. Hauber, co-executor, to this court. No exceptions were filed in the court below to the findings of fact or the court’s conclusions of law.
+The petitioner alleged that the testator’s will, dated February 11, 1937, was prepared and written by the respondent, Hauber, at a time when Hauber was not a member of the bar of a court of record of the Commonwealth of Pennsylvania, and further alleging in substance, that Hauber was acting in violation of the Act of Assembly of Pennsylvania, approved July 12, 1935. P. L. 708 (17 PS §1610) making it a misdemeanor to practice law without being authorized by law so to do, and that proceedings in equity were then pending against George F. Hauber, respondent, in the Court of Common Pleas in Elk County to restrain him from engaging in the practice of law.
+The respondent in his answer, admits that he was not a member of the bar of Elk County, and that such proceedings were pending in the Court of Common Pleas of Elk County.
+The petition further sets forth that the interests of the estate or property were likely to be jeopardized by the continuance of Hauber as executor. There was evidence that Hauber, while not a member of the bar, prepared testator’s will and prepared other walls and in connection with the affairs of the Patrick J. Fleming Estate, was engaged in the practice of law. After the death of the testator, the respondent called the petitioner, advising him that respondent had testator’s will in his office. When the will wms offered for probate, the Register of Wills refused probate until an attorney was present and A. J. Straub, Esq., was called and the wall was probated. Respondent advised his co-executor that they ought to have an appraisement, and exhibited the usual inventory blanks on which signatures of the appraisers appeared in the affidavit and the appraisement signed in blank. The respondent advised the parties in interest that the items of security could be entered at face value and not their real value. The respondent placed in the local paper, notice that letters of administration had been issued rather than letters testamentary. He did not consult petitioner about this. Respondent asked for a list of the indebtedness for inheritance tax purposes and respondent also discharged A. J. Straub, Esq., the attorney who had assisted in probating the will.
+The court below, in commenting on the testimony given by the respondent says in his sixteenth finding that the respondent gave such evidence of his “rule or ruin” character, as to convict himself of unfitness to continue in this trust; that he disdained the aid of his counsel in developing his side of the case; and that he introduced matters which were irrelevant to the issue, for the purpose of exposing those whom he assumed to be opposed to him, to the scorn and ridicule of the public. In the seventeenth finding, the court says, by his own evidence, the respondent added to the feeling of hostility and without regard to common decency, and in no way responsive to any question of his counsel, gave in evidence alleged statements of the testator at the time of drawing of the will, which must have outraged the feeling's of those at Avhom they were directed. In the eighteenth finding, by his manner of testifying and self-assertive disregard of the aid and counsel of his attorney throughout the trial, he showed himself to be unfit to this position of trust.
+We have examined the testimony Avith great care. To review it here would serve no useful purpose. Suffice it to say that it fully supports the findings and conclusions of: the learned judge. These findings, supported by evidence, are binding on this court: Patterson’s Estate, 333 Pa. 92, 3 A. 2d 320; Pusey’s Estate, 321 Pa. 248, 184 A. 844. The chancellor’s decision will not be reversed unless an abuse of discretion on his part appears: Dible’s Estate, 316 Pa. 553, 175 A. 538; Poster’s Estate, 271 Pa. 68, 113 A. 831; Fink’s Estate, 310 Pa. 453, 165 A. 832.
+The Fiduciaries Act of June 7, 1917, P. L. 447, Section 53 (a) 8 (20 PS §928) gives the orphans’ court jurisdiction to remove a fiduciary, such as an executor, inter alia, “When for any reason, the interest of the estate or property are likely to be jeopardized by the continuance of any such fiduciary.”
+The judge found, inter alia, “15. The feeling of hostility which exists betAveen respondent and his co-executor and several other of the heirs of testator, legatees under his will, is so marked that the interests of the estate are likely to be jeopardized by the continuance of respondent as one of the executors under the will of said testator.”
+In Friese’s Estate, 317 Pa. 86, 176 A. 225, the Supreme Court, in an opinion by Justice (now Chief Justice) Kephart on p. 89 gives among the disqualifications rendering any person unfit to administer an estate, the following: “Insolvency, nonresidence, conviction of crime, claim of interest hostile to the estate, unfriendly feeling between the parties, dissatisfaction and antagonism between the widow and the children.”
+We find no abuse of discretion on the part of the court below in the entry of the decree.
+The assignments of error are overruled and the decree affirmed at the costs of appellant.
