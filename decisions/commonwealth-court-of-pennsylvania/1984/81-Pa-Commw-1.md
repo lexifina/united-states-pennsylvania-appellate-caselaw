@@ -1,0 +1,47 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2233 C.D. 1981"
+decided: "1984-03-08"
+citations: ["81 Pa. Commw. 1"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Rogers, MacPhail and Barry, sitting as a panel of three."]
+parties: ["Rolando Martinez, Petitioner v. Commonwealth of Pennsylvania, State Horse Racing Commission, Respondent."]
+source_url: "https://static.case.law/pa-commw/81/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1319865
+cites_cases: ["426 A.2d 191", "434 A.2d 857", "56 Pa. Commonwealth Ct. 104", "61 Pa. Commonwealth Ct. 576"]
+---
+
+# Martinez v. Commonwealth, State Horse Racing Commission
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+This is an appeal from an order of the Pennsylvania State Horse Racing Commission (Commission) which upheld a ruling by the Board of Stewards (Board) to suspend the horse racing license of Rolando Martinez (Petitioner) for forty-five days; revoked his license until January 1, 1983; and affirmed Petitioner’s ejectment from the Penn National Race Track (Race Track).
+Petitioner is the owner and trainer of the horse “Impersonation.” On June 7,1981, after Impersonation ran the first race, the horse fell to the ground from heat exhaustion and possible shock. Petitioner used green plastic buckets, approximately eighteen inches in diameter and two and one-half feet high, to water down the horse. The horse stumbled towards Petitioner at which time the Petitioner struck the horse on the nose with the bucket. While the Petitioner testified that he struck the horse because it stepped on his ankle, the videotape of this incident did not show whether the horse actually came in contact with Petitioner. After track personnel sprayed the horse with water, the horse was brought to the paddock area.
+The Board held a hearing and on July 1, 1981 suspended Petitioner’s license for forty-five days.
+The Board based its decision on the negative crowd reaction to the incident and a veterinarian’s report which indicated that Petitioner’s actions in attempting to move the horse were contrary to the generally accepted method of treating heat exhaustion.
+On July 7, 1981, Petitioner received ejectment notices from the Race Track by Penn National Racing Association, Shamrock Racing Association and Mountain View Racing Association. The ejectment notices listed cooking and smoking violations, hiring undesirables or unlicensed persons and the incident at the Race Track as the basis for the ejectment. Petitioner brought an appeal of the Board’s decision and ejectment to the Commission.
+The Commission upheld the Board’s forty-five day suspension and further ordered that Petitioner’s license be revoked until January 1, 1983. While the Commission noted that there was conflicting testimony as to the hiring of undesirables or unlicensed persons, the Commission upheld the ejectment based on Petitioner’s cooking and smoking violations and the June 7, 1981 incident at the Race Track.
+In his petition for review, Petitioner requests that we vacate the suspension and revocation of his license. Since the Commission only revoked Petitioner’s license until January 1, 1983, the issue is moot. We have held in the past that this Court may decide on the merits a technically moot issue where a question of important public interest is involved. Southeastern Pennsylvania Transportation Authority v. Weiner, 56 Pa. Commonwealth Ct. 104, 107, 426 A.2d 191, 193 (1981). The issue of whether Petitioner’s license should have been revoked does not constitute a question of important public interest, and there is no evidence which indicates that we should resolve the issue now to avoid future controversy.
+The only justiciable issue before this Court is whether Petitioner’s ejectment from the Race Track was proper. Pursuant to Section 12.1 of the Act of December 11, 1967, P.L. 707, as amended, added by Section 1 of the Act of July 24,1970, P.L. 634, 15 P.S. §2662.1:
+(e) An association licensed by the commission may refuse admission to and eject from the enclosure of the race track operated by the association any person licensed by the State Horse Racing Commission pursuant to section 11, employed at his occupation at such race track, whose presence there is deemed detrimental to the best interests of horse racing, citing the reason or reasons for such determination. ...
+Petitioner argues that his Notices of Ejectment are defective because they did not allege that his conduct was detrimental to the best interests of horse racing. Petitioner’s argument is without merit because Section 12.1 requires the licensee association to cite the reason or reasons for its determination that the person’s presence is detrimental to the best interests of horse racing. As we have already observed, the notices did set forth the specific reasons for his ejectment. The notices, therefore, complied with the requirements of Section 12.1.
+Petitioner also challenges the validity of the notices because they were served on him thirty days after the incident of June 7, 1981. Petitioner contends that the notices were served on him as a punitive measure because they were served after criminal charges had been dismissed against him. John Schumaker, President of Penn National Turf Club, testified that he was aware that the criminal charges were dismissed and that they were going to be refiled. Schumaker testified that he decided to issue the notices of ejectment after being informed that the criminal charges against Petitioner were refiled because the matter was taking too long to resolve. Since Section 12.1 does not contain any statutory time limit in which a Notice of Ejectment must be served, a thirty-day delay does not render Petitioner’s notices invalid.
+Petitioner also alleges that there was insubstantial evidence for the Commission to conclude that Petitioner’s continued presence at the Race Track was detrimental to the best interests of horse racing. The Commission upheld the Board’s decision to eject Petitioner, based on the cooking and smoking violations and the incident at the Race Track. Petitioner does not dispute the cooking and smoking violations but claims that the Commission erred in relying on the crowd reaction to support its conclusion that Petitioner’s presence was detrimental to horse racing.
+At the Commission’s hearing, Schumaker testified that when Petitioner hit the horse with a bucket, the crowd was “really upset” with Petitioner’s treatment of the horse, and that after the incident Schumaker received several negative letters responding to the incident. It was not an error for the Commission to consider the negative crowd response in its determination that Petitioner’s presence was detrimental to horse racing. The Commission, furthermore, upheld the Board’s decision to eject Petitioner based on this incident and Petitioner’s cooking and smoking violations. Mr. Schumaker testified that cooking and smoking violations were very serious because two previous fires at the Race Track caused a substantial loss of horses. We agree with the Commission that cooking and smoking violations cannot be overemphasized in the operation of a race track. Since the Commission has the authority to consider the history of a licensee’s conduct in determining whether a licensee’s presence is detrimental to horse racing, the Commission was justified in considering Petitioner’s cooking and smoking violations. We find that there was substantial evidence in the record to support the Commission’s decision to eject Petitioner from the Race Track.
+We affirm.
+Order
+The order of the State Horse Racing Commission, No. 81-082, dated August 18, 1981 is affirmed.
+The Board found that Peiitioner violated rules 1.11 and 15.12(a) of the Pennsylvania Stale Horse Racing Commission.
+Rule 1.11: The Stewards may fine, suspend or rule off any ■person who, in their opinion, has acted to the detriment of racing or violated the rules.
+Rule 15.12(a): No licensee or other person under the jurisdiction of the Commission shall alone or in concert with any other person (s) subject, or permit any animal under his or her control, custody or supervision to be subjected to or to incur any form of cruelty, mistreatment, neglect or abuse or abandon, injure, maim or kill or administer any noxious or harmful substance to or deprive any animal of necessary care or sustenance, shelter or veterinary care.
+These rules arc unpublished.
+The smoking violations occurred on December 17, 1980 and March 9, 1981. The cooking violations occurred on September 25, 1980 and June 19, 1981.
+Since the Commission restricted its ejectment, decision to Petitioner’s cooking and smoking violations and the incident at the Race Track, we need not, address whether hiring undesirable or unlicensed persons was a proper ground for ejecting Petitioner.
+This provision has since been repealed by the Act of December IT, 1981, P.L. 485. This repeal was subsequent to the pertinent events of the instant case; therefore, Section 12.1 remains applicable,
+Criminal charges were brought against Petitioner by the Humane Society Members of Harrisburg. The charges were dismissed because they were brought under a citation and not under a warrant.
+See Russo v. State Horse Racing Commission, 61 Pa. Commonwealth Ct. 576, 434 A.2d 857 (1981).
