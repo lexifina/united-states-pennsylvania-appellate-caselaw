@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "00577"
+decided: "1996-12-30"
+citations: ["455 Pa. Super. 228", "687 A.2d 1144"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before McEWEN, President Judge, and POPOVICH and MONTEMURO , JJ."]
+parties: ["COMMONWEALTH of Pennsylvania, Appellee, v. Leon R. LINDSEY, Appellant."]
+source_url: "https://static.case.law/pa-super/455/cases/0228-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 947361
+cites_cases: ["427 Pa.Super. 566", "453 Pa.Super. 271", "683 A.2d 908"]
+---
+
+# Commonwealth v. Lindsey
+
+## Majority (POPOVICH, Judge.)
+
+POPOVICH, Judge.
+This is an appeal from the order of the Court of Common Pleas of Luzerne County dismissing appellant’s first petition, pro se, for post-conviction relief without appointment of counsel. On appeal, appellant’s sole contention is that the lower court erred in denying him the right to counsel to assist him in his petition. We agree, and, therefore, remand for the appointment of counsel.
+The record discloses the following pertinent facts and procedural history: On June 27, 1991, appellant was convicted of two counts of criminal attempt homicide, two counts of aggravated assault and five counts of recklessly endangering another person. He was sentenced to twelve and one-half years to twenty-five years incarceration. Following the denial of post-sentence motions, appellant filed a direct appeal to this Court. In an unpublished memorandum filed on September 1, 1993, a panel of this Court affirmed the judgment of sentence and permitted appellate counsel to withdraw his representation. Appellant then filed a pro se petition for post-conviction relief pursuant to the Post Conviction Relief Act, 42 Pa.C.S.A. § 9541 et seq. (PCRA), alleging that he was in forma pauperis and requesting the appointment of counsel. The PCRA Court dismissed appellant’s petition without the appointment of counsel. This appeal followed.
+In Commonwealth v. Peterson, 453 Pa.Super. 271, 683 A.2d 908 (1996), this Court recently examined the issue of whether an indigent defendant has the right to the appointment of counsel to aid in the completion of his first petition seeking post-conviction relief. We explicitly held that while there may be no federal constitutional right to counsel for post-conviction collateral proceedings, Pennsylvania Rule of Criminal Procedure 1504(a) provides that a petitioner is entitled to counsel for his first PCRA petition, regardless of the merits of his claim. We further held that the petitioner seeking appointment of counsel for his first PCRA claim needs only to show that (1) he is unable to afford counsel and that (2) this is the first petition seeking post-conviction collateral relief. Here, appellant has met both requirements. Accordingly, we find that the PCRA Court erred in denying appellant counsel for the purpose of assisting him in his first PCRA petition.
+Consequently, we reverse the order of the PCRA Court dismissing appellant’s petition and remand for the appointment of counsel. The Court of Common Pleas of Luzerne County shall then address the PCRA petition as amended by appellant with the assistance of counsel.
+Reversed and remanded. Jurisdiction relinquished.
+. The Commonwealth argues that we should quash this appeal because appellant’s pro se brief does not meet the requirements of Rule 2111 of the Pennsylvania Rules of Appellate Procedure. We find that appellant has complied substantially with Rule 2111 and that the minor defects in his brief do not preclude us from conducting a meaningful review of his claim. Commonwealth v. Maris, 427 Pa.Super. 566, 629 A.2d 1014 (1993). Accordingly, we have decided to review the merits of his appeal.
+. Act of April 13, 1988, as amended, P.L. 336, No. 47, § 3.
+. Rule 1504(a) provides the following: "When an unrepresented defendant satisfies the judge that the defendant is unable to afford or otherwise procure counsel, the judge shall appoint counsel to represent the defendant on the defendant’s first motion for post-conviction collateral relief." (emphasis added). The Comment to Rule 1504 provides the following: “Consistent with Pa. post-conviction practice under former Rules 1503 and 1504, it is intended that counsel be appointed in every case in which a defendant has filed a motion for post-conviction collateral relief for the first time and is unable to afford counsel or otherwise procure counsel. However, the rule now limits appointment of counsel on second or subsequent motions so that counsel should be appointed only if the judge determines that an evidentiary hearing is required.”
