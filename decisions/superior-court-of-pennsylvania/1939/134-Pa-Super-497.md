@@ -1,0 +1,37 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 19"
+decided: "1939-01-31"
+citations: ["134 Pa. Super. 497"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Stadt-pbld, Parker and Rhodes, JJ."]
+parties: ["Starr v. Starr, Appellant."]
+source_url: "https://static.case.law/pa-super/134/cases/0497-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1014221
+cites_cases: ["111 Pa. Superior Ct. 191", "116 Pa. Superior Ct. 592", "119 Pa. Superior Ct. 300", "12 Pa. Superior Ct. 290", "122 Pa. Superior Ct. 382", "125 Pa. Superior Ct. 323", "130 Pa. Superior Ct. 501", "131 Pa. Superior Ct. 321", "169 A. 408", "177 A. 215", "181 A. 69", "186 A. 245", "189 A. 566", "197 A. 77", "200 A. 220", "4 Rawle 460", "80 Pa. Superior Ct. 469", "81 Pa. Superior Ct. 231", "83 Pa. Superior Ct. 14", "87 Pa. Superior Ct. 581", "96 Pa. Superior Ct. 91"]
+---
+
+# Starr v. Starr
+
+## Majority (Stadtfeld, J.,)
+
+Opinion by
+Stadtfeld, J.,
+This is an appeal from the decree of the Court of Common Pleas of Huntingdon County entered by Fetterhoof, P. J., in a divorce proceeding wherein Moses Starr is the libellant and Mary Starr is the respondent. The alleged cause of divorce is wilful and malicious desertion. The parties were married April 29, 1929 and lived together until May 21, 1932. No children were born of this marriage. In January of 1932, a young girl, Olive Wibel, commenced to live at the home of these parties. Shortly after the girl’s arrival, the wife’s suspicions were aroused because of the time spent in the barn together by her husband and the girl. On May 17, 1932, and again on May 18, 1932, the wife followed them to the barn; she claimed that she saw them have intercourse on May 18. The libel-lant claimed that he was just kissing the girl a little. Notwithstanding her knowledge of the alleged improper relation and yet without any complaint, respondent occupied the same bed with her husband the following nights until her departure on May 21st.
+On May 21st when the libellant was about to go to town, the respondent stepped into the automobile and he refused to allow her to go along, stating that there was only room enough to take Olive and Homer, his son. That afternoon, the respondent left libellant’s home with her son-in-law and went to his home. Within five days, the respondent received a letter from libel-lant’s attorney, telling her that she was not to come back. Within one week from the time she had left, respondent returned by automobile to libellant’s home, offered to return, and her husband refused. The master who heard the testimony, found that the respondent was guilty of wilful and malicious desertion, and that the offer to return was not made in good faith but for the purpose of laying a foundation for a nonsiipport proceeding against her husband, and further found that the respondent had, in fact, caused the arrest of the libel-lant on a charge of desertion and non-support following the libellant’s refusal.
+The husband admits that Olive Wibel continued to live with him and that within four weeks after the respondent’s departure, he began having intercourse in his home with Olive Wibel. The libellant brought a proceeding in divorce on the ground of indignities to the person. At that time, the respondent again offered to return to her husband if Olive Wibel would leave the home. A divorce was refused in that case.
+Where an action is heard before a master, we are required to consider the evidence de novo, pass upon its weight and upon the credibility of witnesses, and reach an independent conclusion upon the merits as to whether a legal cause for divorce has been well established: Huston v. Huston, 130 Pa. Superior Ct. 501 197 A. 77 4.
+The burden is upon the libellant to prove his case by clear and satisfactory evidence, and there must be a preponderance of the evidence in his favor: Sleight v. Sleight, 119 Pa. Superior Ct. 300, 181 A. 69; Rinoldo v. Rinoldo, 125 Pa. Superior Ct. 323, 189 A. 566.
+The master found that even though improper relations were proved by respondent, she condoned these relations and they cannot be considered as an aid in determining whether the leaving of the common domicile was “wilful and malicious” and cited Arvin v. Arvin, 65 Pitts. 93; Giles v. Giles, 80 Pa. Superior Ct. 469.
+The master further found that the adultery by libel-lant after the alleged desertion will not defeat the right to a divorce, and cited Ristine v. Ristine, 4 Rawle 460; Mendenhall v. Mendenhall, 12 Pa. Superior Ct. 290.
+Without questioning the correctness of the master’s conclusions above referred to, a more serious question presents itself in connection with the alleged desertion and offer of respondent to return.
+In the case of Winner v. Winner, 122 Pa. Superior Ct. 382, 186 A. 245, President Judge Keller said, at p. 385: “There is no legal duty on an innocent spouse to seek a reconciliation with and the return of a spouse who is guilty of wilful and malicious desertion. He or she must leave the doot* open for two years; but is not required to go beyond this, and make active efforts to induce the deserting spouse to come back.” (Italics supplied). See also Irwin v. Irwin, 131 Pa. Superior Ct. 321, 200 A. 220.
+Although consent to a separation is not to be inferred from mere acquiescence, yet the absence of any real protest on the part of libellant is a fact to be considered in connection with the other circumstances in this case: Ulizio v. Ulizio, 96 Pa. Superior Ct. 91, 97.
+In Trussell v. Trussell, 116 Pa. Superior Ct. 592, 177 A. 215, Judge Keller said, at p. 598: “And, to justify a divorce in his favor, he must have been ready and willing to have her come back to him during the entire two year period. If during that time he expressed to her his reluctance or unwillingness to have her live with him, her subsequent remaining away would be excusable and not a wilful and malicious desertion.” (Italics supplied). See also Walter v. Walter, 83 Pa. Superior Ct. 14; Reinhardt v. Reinhardt, 111 Pa. Superior Ct. 191, 194, 169 A. 408.
+Libellant, in the instant case, admitted intercourse with Olive Wibel, within three or four weeks after Mrs. Starr, respondent, left. The latter simply demanded that the other woman, Olive Wibel, should leave the home, as a condition of her own returning. Respondent was entirely within her rights in making this demand.
+In the case of Betzko v. Betzko, 81 Pa. Superior Ct. 231, Judge Porter said, at p. 233: “Ever since early in 1915 the libellant had been openly living in adultery with another woman, and during that period the law would not have required his wife to return to him, even if he had requested her to do so, for his adultery was sufficient reason for continuance of the separation ......This respondent, however, did not refuse to resume marital relations, but merely demanded that the libellant should separate from the other woman.” See also the case of Evan v. Evan, 87 Pa. Superior Ct. 581, holding that the respondent wife was not under a duty to return to the husband while the libellant was living with another woman.
+Under the authorities referred to, we think the learned court below erred in entering a decree in favor of libellant.
+The assignments of error are sustained, the decree is reversed and the libel is dismissed.
