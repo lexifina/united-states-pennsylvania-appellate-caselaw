@@ -1,0 +1,44 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 547 C.D. 1982"
+decided: "1983-08-16"
+citations: ["76 Pa. Commw. 372"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogers, Craig and MaoPhail, sitting as a panel of three."]
+parties: ["Robert Brodbeck, Petitioner v. Workmen’s Compensation Appeal Board (Preston Trucking Company), Respondents."]
+source_url: "https://static.case.law/pa-commw/76/cases/0372-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1311878
+cites_cases: ["23 Pa. Commonwealth Ct. 203", "351 A.2d 295", "408 A.2d 592", "413 A.2d 432", "415 A.2d 1275", "424 A.2d 956", "440 A.2d 1275", "442 A.2d 1199", "47 Pa. Commonwealth Ct. 566", "50 Pa. Commonwealth Ct. 335", "52 Pa. Commonwealth Ct. 436", "56 Pa. Commonwealth Ct. 52", "64 Pa. Commonwealth Ct. 484", "65 Pa. Commonwealth Ct. 415"]
+---
+
+# Brodbeck v. Workmen's Compensation Appeal Board
+
+## Majority (Judge Craig,)
+
+Opinion by
+Judge Craig,
+Claimant Robert Brodbeck appeals an order of the Workmen’s Compensation Appeal Board, which affirmed a referee ’is determination to grant a modification petition filed by the claimant’s former employer, Preston Trucking Company. On the principal issue, substantiality of the evidence, we affirm, hut remand for additional determinations.
+While employed by Preston as a platform worker, the claimant, on September 19, 1976, sustained a disabling injury to his neck, for which he collected compensation benefits at the weekly rate of $187. On July 27,1978, Preston filed a petition to terminate compensation based on Dr. Henry Shaenkin’s “Physician’s Affidavit of Full Beoovery,” issued after his examination of the claimánt on July 14, 1978. The filing of that petition, which Preston subsequently amended to a petition to modify, automatically invoked a supersedeas on benefits under section 413 of The Pennsylvania Workmen’s Compensation Act.
+Following hearings at which four physicians testified as to the claimant’s physical and psychiatric status, and a psychologist testified as to the availability of jobs suitable for the claimant, the referee granted Preston’s modification petition on the basis of findings that:
+7. [T]he claimant’s psychiatric status does not prevent him from engaging in his former occupation as a platform worker and that in addition, the claimant could perform sedentary work under his present mental status and that such work would be beneficial.
+8. [T]he claimant is partially disabled and can do only sedentary work . . . there are sedentary jobs available which the claimant can perform and which provide a salary of $278.98 per week.
+On appeal, the claimant asserts that the testimony of the principal medical witness for the employer was not competent because his opinions were contradictory and were based ,on his examination of the claimant, which preceded the latter’s attempted suicide. Furthermore, the claimant makes numerous contentions regarding the referee’s computation of benefits, including a challenge to the referee’s conclusion as to work availability.
+As to the employer’s medical testimony, we note that failure to examine the claimant after the claimant’s suicide attempt does not render the conclusions incompetent, but goes only to the witness’ credibility. See Crucible Steel, Inc. v. Workmen’s Compensation Appeal Board, 65 Pa. Commonwealth Ct. 415, 442 A.2d 1199 (1982).
+The testimony of that physician, Dr. Byron, directly supports Finding No. 7.
+Even if other portions of Dr. Byron’s testimony can be considered to be contradictory, as the claimant asserts, we have recognized that, under our limited review, the factfinder may accept some testimony and. reject other testimony, even where such conflicting testimony is given by the same witness. K-Mart Corp. v. Workmen’s Compensation Appeal Board, 56 Pa. Commonwealth Ct. 52, 424 A.2d 956 (1981). Thus, the testimony of Dr. Byron, especially in conjunction with that of Dr. ShaenMn, who testified that the claimant had completely recovered, provides substantial evidence to support the referee’s finding.
+Concerning the computation of benefits, the claimant asserts that the referee’s Conclusion of Law No. 2, that “the claimant’s disability is reduced to a partial disability as of September 29, 1978, on which date the claimant was capable of performing sedentary work. . . . ” is not supported by findings of fact or substantial evidence because the only witness who testified as to work availability, Dr. Spergel, never said that work was available to the claimant before November 21, 1978. Because the employer has the burden to establish work availability, see Community Medical Center, we must remand this matter to the board to determine at what date Preston established that work was available to the claimant. That date would be the earliest date as to which the referee could grant the modification petition. See Workmen’s Compensation Appeal Board v. P.M.A.I.C., 23 Pa. Commonwealth Ct. 203, 351 A.2d 295 (1976).
+Also, whether the claimant’s compensation reduction becomes effective on September 29, 1978 or November 21,1978, the claimant has indicated that Preston deducted $456 from the claimant’s compensation for the two weeks between July 14, 1978 (the date Dr. Shaenkin signed the affidavit) and July 29, 1978 (.the date Preston filed the termination petition invoking the supersedeas). Because Preston failed to establish work availability in July, 1978, Preston must provide the claimant with the compensation he was receiving before the modification.
+The referee’s award also failed to make any provision for the payment of interest on past due benefits. In Klingler v. Rupert, 50 Pa. Commonwealth Ct. 335, 413 A.2d 432 (1980), we said that interest payments are part of the compensation due a claimant and held that any attempt to vary the amount of interest by execution of a waiver was null and void. Therefore, in remanding this matter to the board, we note that the claimant is entitled to interest on past due benefits.
+Finally, the referee’s award makes no provision for counsel fees, although the claimant’s counsel and Preston entered into a contingency fee agreement under which claimant’s counsel was to receive 20% of any award petitioner received. In modifying its order, the board should make this adjustment to insure that claimant’s counsel receives her fee pursuant to the agreement.
+Accordingly, the order of the board is affirmed, except as to matters involving the computations discussed above, for which a remand is necessary.
+Order
+Now, August 16,1983, the order of the Workmen’s Compensation Appeal Board, dated February 18, 1982, No. A-80796, is affirmed, except as to matters requiring further determination, as stated in the opinion, for which this case is remanded to the board.
+Jurisdiction relinquished.
+An employer, seeking to modify a compensation award, and asserting that the employee's condition of disability is no longer total must prove that such disability has been reduced and that work is available which is within the capabilities of the employee. Community Medical Center v. Workmen’s Compensation Appeal Board, 47 Pa. Commonwealth Ct. 566, 408 A.2d 592 (1979).
+Where the party bearing the burden of proof prevailed before the referee, and the board took no additional evidence, our review is limited to determining whether there hias been a violation of constitutional rights, an error of law Committed, or whether any necessary findings of fact are unsupported by substantial evidence. Mancini v. Workmen’s Compensation Appeal Board, 64 Pa. Commonwealth Ct. 484, 440 A.2d 1275 (1982).
+In its opinion, the board indicated that it was applying a scope of review applicable where the party with the burden of proof did not prevail below, which is to determine whether the findings of fact are consistent with each.other and with the conclusions of law and can be sustained without a capricious disregard of competent evidence. See Jones & Laughlin Steel Corp. v. Workmen’s Compensation Appeal Board, 52 Pa. Commonwealth Ct. 436, 415 A.2d 1275 (1980). Here, however, the employer had the burden and prevailed below, and therefore, the substantial evidence test was appropriate. An examination of the board’s opinion, however, indicates that the board, in effect, applied the substantial evidence standard, which is the same standard we apply on review. Therefore, we find the claimant’s assertion that the board’s application of the incorrect standard constitutes reversible error to be without merit.
+Act of June 21, 1939, P.L. 566, as amended, 77 P.S. §1513.
+The claimant, who Was admitted to a general hospital for psychiatric care due .to suicidal and homicidal inclinations on February 2, 1979, attempted suicide in September, 1979.
