@@ -1,0 +1,39 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1789 C.D. 1989"
+decided: "1990-06-01"
+citations: ["133 Pa. Commw. 338", "575 A.2d 171"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CRAIG and DOYLE, JJ., and BARRY, Senior Judge.", "CRUMLISH, former President Judge, did not participate in the decision in this case."]
+parties: ["Mary Deanne MORRELL, Appellant, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF TRANSPORTATION, BUREAU OF TRAFFIC SAFETY, Appellee."]
+source_url: "https://static.case.law/pa-commw/133/cases/0338-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1402883
+cites_cases: ["131 Pa.Commonwealth Ct. 83", "384 U.S. 436", "386 U.S. 738", "491 Pa. 549", "524 Pa. 500"]
+---
+
+# Morrell v. Commonwealth
+
+## Majority (BARRY, Senior Judge.)
+
+OPINION
+BARRY, Senior Judge.
+Mary Deanne Morrell appeals an order of the Court of Common Pleas of Chester County which dismissed Morrell’s appeal and affirmed a one year suspension of her operator’s privilege imposed by the Department of Transportation (DOT) pursuant to the Implied Consent Law, 75 Pa.C.S. § 1547 (refusing to submit to chemical testing). We affirm.
+On January 24, 1989, Morrell was stopped by Trooper Ward of the Pennsylvania State Police after he observed her driving at a high rate of speed on the Schuylkill Expressway. Upon approaching her vehicle, Trooper Ward saw Morrell place a can behind the passenger seat. He testified that he noticed a strong odor of alcohol emanating from the car. When Morrell exited her vehicle, she staggered and needed help in walking. Ward placed her under arrest for driving while intoxicated, advised her of her Miranda rights and told her of the Implied Consent Law. Ward then transported Morrell to nearby barracks of the state police.
+Upon arriving at the barracks, Morrell was again informed of the Implied Consent Law. She agreed to submit to a breathalyzer test. Initially, she supplied only short puffs of air. Eventually, however, she supplied sufficient breath to register a valid reading on the breathalyzer. She was then asked to take the test a second time. According to Ward, Morrell refused. She was informed that refusal to take the second test would result in the loss of her operator’s privilege for one year. She nonetheless refused to take the second test.
+DOT sent a notice to Morrell, informing her that her operator’s privilege was being suspended for one year for failing to comply with the Implied Consent Law. She appealed to the Court of Common Pleas of Chester County. A hearing was held. Both Ward and Morrell testified. The trial court found Ward’s testimony, as summarized by the factual recitation above, to be credible and dismissed Morrell’s appeal. Morrell then appealed to us.
+Morrell makes two allegations of error, both of which are based upon her testimony that she believed she had complied with the officers’ request to take the second test. We need not respond to her arguments except to say both are meritless in light of the trial court’s express finding that Ward’s testimony was credible. Accordingly, we will affirm the trial court’s order dismissing Morrell’s appeal and affirming the one year suspension of her operator’s privilege.
+DOT raises another issue, arguing that the appeal is “wholly frivolous” within the context of Pa.R.A.P. § 2744 which allows the award of costs and reasonable attorney’s fees for a frivolous appeal. DOT requests that the award of said costs and attorney’s fees be against Morrell’s appellate counsel, and not Morrell, stating “[T]he selection of ‘facts’ not found by the trial court is the fault of Morrell’s counsel alone. It is for that reason, as well as the reliance placed by Morrell in the advice of her counsel to pursue the appeal, that the Department is only requesting an award of costs and counsel fees against Morrell’s attorneys and not against Morrell.” (Brief of DOT, p. 13.)
+We agree with DOT that the present appeal is frivolous within the meaning of Pa.R.A.P. § 2744. Basing an appeal solely upon facts which are contrary to the factual findings of the trial judge, the sole arbiter of credibility, has been held to be frivolous, especially where the factual findings are not challenged on appeal. Polinsky v. Department of Transportation, 131 Pa.Commonwealth Ct. 83, 569 A.2d 425 (1990).
+We believe it is somewhat unusual that DOT would chose to pursue Morrell’s attorney alone in its quest for attorney’s fees for a frivolous appeal. Nonetheless, we are compelled to conclude that DOT’s request must be granted. In Smith v. Pennsylvania Board of Probation and Parole, 524 Pa. 500, 574 A.2d 558 (1990), the Court upheld the award of attorney’s fees against a court appointed attorney where that attorney pursued what was deemed to be a frivolous appeal. It is important to remember that one whose parole is subject to revocation is entitled to have counsel appointed if he or she is indigent. Bronson v. Pennsylvania Board of Probation and Parole, 491 Pa. 549, 421 A.2d 1021 (1980). If attorney’s fees can be awarded against counsel serving pursuant to court appointment to protect rights guaranteed by the United States Constitution, attorney’s fees surely can be awarded against counsel in this case where Morrells’ liberty is not at stake. This conclusion is buttressed by the Supreme Court’s discussion in Smith when it held that a lawyer had an obligation to the court system to apprise a court that, in his or her view, an appeal is frivolous, especially where a procedure exists for a court appointed attorney to so inform the court. Anders v. California, 386 U.S. 738, 87 S.Ct. 1396, 18 L.Ed.2d 493 (1967). As the Court stated in Smith, “An argument presented to an appellate court is presumed by the court to be advocated by counsel, and in counsel’s judgment to possess merit.” Id., 524 Pa. at 508, 574 A.2d at 562. Furthermore:
+The Board correctly highlights the distinction between offering an argument presented with an acknowledgment of its frivolousness and the same argument endorsed by counsel as being worthy of review. By filing an Anders brief, a lawyer does not advocate arguments he believes to be ‘wholly frivolous’; rather, he presents them for the court’s confirmation of his belief. Counsel serves the interests of both the client and the court by diligently investigating the possible grounds for appeal and advising the court of his decision that no legitimate grounds exist____ Pursuing a concededly frivolous argument engages the attorney in conduct which is deliberately designed to mislead the tribunal____ i
+Smith, 524 Pa. at 511, 574 A.2d at 564.
+We recognize that in many instances involving the suspension of one’s driver’s license, appeals are taken merely for the purpose of seeking a supersedeas, which if granted, would allow the driver to maintain, for a while, his privileges to operate a vehicle. We are likewise certain that in many instances, counsel has informed his or her client that the appeal is frivolous but nonetheless proceeds on the appeal at the insistence of the client. The Supreme Court has made clear, however, that if counsel proceeds under such circumstances, he or she can be liable for attorney’s fees under Rule 2744.
+Affirmed.
+ORDER
+NOW, June 1, 1990, the order of the Court of Common Pleas of Chester County, dated August 14, 1989, at No. 89-02075, is affirmed. The request for counsel fees filed by the Department of Transportation against Frank W. Hayes and Diane L. Romero is granted and the matter is remanded to the above mentioned court for the determination of reasonable attorney’s fees.
+Jurisdiction relinquished.
+CRUMLISH, former President Judge, did not participate in the decision in this case.
+. Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966).
