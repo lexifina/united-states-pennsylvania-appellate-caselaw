@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 19"
+decided: "1937-07-15"
+citations: ["127 Pa. Super. 243"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Stadteeld, Parker, James and Rhodes, JJ."]
+parties: ["Amey v. Scranton, Appellant."]
+source_url: "https://static.case.law/pa-super/127/cases/0243-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 999734
+cites_cases: ["103 A. 552", "108 A. 205", "221 Pa. 64", "223 Pa. 163", "260 Pa. 199", "265 Pa. 56", "39 Pa. Superior Ct. 597", "70 A. 274", "72 A. 345"]
+---
+
+# Amey v. Scranton
+
+## Majority (James, J.,)
+
+Opinion by
+James, J.,
+The City of Scranton has appealed from a judgment obtained against it, for personal injuries sustained by appellee while walking along a dirt road in a city park, used by pedestrians and vehicles. At bar, appellant’s counsel conceded that the city was guilty of negligence in failing to erect a guard rail at the point of the accident; but argued the facts establish that appellee was guilty of contributory negligence and its motion for judgment n. o. v. should have been granted.
+On the evening of July 1, 1934, between nine and ten o’clock, Sophia Amey, in company with her daughter and two male escorts, while walking along a road in Robinson Park on their way to Scranton Lake, stepped over a retaining wall and fractured her leg. The road was well graded, but not lighted, and was the main road forming a loop through the park. Some years prior, the city had built retaining walls 62 feet in length on the easterly side, and 97 feet in length on the westerly side of the road; on the easterly side, at the point of the accident, the level of the wall was even with the surface of the highway and could be walked on. At this point, the road was 17 feet in width and the height of the wall was 3 feet 11 inches. Appellee had never traveled this road before.
+Appellee testified: “Q. Now, after you got to the park — that is, to Robinson Park, you went on down through the park, did you? A. Yes. Q. And whom were you walking with? A. Mr. Grayson. Q. And which side were you on? A. On his right side. Q. Just before you got hurt, Mrs. Amey, you were walking in the road in the park? A. Yes. Q. Will you tell us what the condition was near the point where you got hurt with reference to iight? A. As we got down in further the shade of the trees made it very dark. Q. Were you able to see the road in front of you? A. No. Q. And as you walked along there, tell us what happened? A. It was very dark and we kept on walking and we eonld not tell whether we were on the road only by the feel of our feet — we were walking, and the first thing I know I went down in the hole. Q. How did you get down in what you call the hole? A. I walked right off the road and fell in it.” On examination by the court, she testified: “Q. Was it dark when you entered on this road? A. No. It was not, when we entered on the road, but as we got down in, with the shade of the trees is what made it dark in there. Q. The sun had set a long time before you started out on this road? A. Yes. Q. So it was dark before you got on the road? A. Yes. Q. And as you entered into the road the trees were alongside of the highway and it got darker? A. Yes.”
+The gist of appellant’s argument is that where a pedestrian proceeds along an unlighted, unguarded and unimproved park road at night, and because of the darkness cannot see the road where he is going, he is guilty of contributory negligence. Thus broadly stated, we find no authority to sustain it. It is the duty of a municipality to maintain a highway for its reasonable use both in the day and nighttime, and a pedestrian has the right to assume that the municipality has performed its full duty in keeping the road safe for the traveling public. Appellee had no knowledge of the condition of the road, and if, in feeling her way along, she proceeded upon the smooth portion of the roadway and fell over the wall, upon which a barrier should have been built, the question of her contributory negligence was for the jury.
+In Mountz v. North Versailles Township, 223 Pa. 163, 72 A. 345, the plaintiff was injured by falling into a hole at the side of a public road. She knew of the hole and while walking with her daughter on a dark night, tried to avoid it by keeping in the middle of the road; she stepped within 18 inches of the hole and the earth gave way under her foot. The court said: “Whether under the circumstances she should have taken greater care was not a question to be decided by the court.” In Clark v. Allegheny County, 260 Pa. 199, 204, 103 A. 552, where the question of contributory negligence was held to be for the jury, the facts, as appear from the opinion of the court, are as follows: “The plaintiff testified that he was walking along the road on New Year’s night, about seven or eight o’clock; that it was so dark that he could not see where he was going; that he did not know where he was on the road; that he was trying to keep in the middle of it; that he heard a vehicle coming and took a step or two from what he supposed was the middle of the road, and fell into the run.”
+Even had appellee known of the failure to erect the guard rail at the point of the accident, we cannot say that the danger was so obvious as to justify the trial judge in holding, as a matter of law, that the appellee was negligent in proceeding along the road in the darkness: March v. Phoenixville Boro., 221 Pa. 64, 70 A. 274; McKelvey v. Juniata Boro., 265 Pa. 56, 108 A. 205; Miller v. Montgomery Boro., 39 Pa. Superior Ct. 597.
+The assignments of error are overruled and the judgment is affirmed.
