@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 224"
+decided: "1906-03-12"
+citations: ["30 Pa. Super. 412"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, Porter, Morrison and Henderson, JJ."]
+parties: ["Lilly, Appellant, v. Krause."]
+source_url: "https://static.case.law/pa-super/30/cases/0412-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 862194
+cites_cases: ["171 Pa. 465", "175 Pa. 246", "180 Pa. 456", "35 Pa. 263", "41 Pa. 396", "43 Pa. 372", "44 Pa. 341", "47 Pa. 292", "6 Wharton, 475"]
+---
+
+# Lilly v. Krause
+
+## Majority (Orlady, J.,)
+
+Opinion by
+Orlady, J.,
+The merits of the plaintiff’s claim to a seat in the council of the consolidated borough of Bethlehem depend upon the construction to be given to the fifth section of the Act of June 6, 1893, P. L. 335, which is as follows : “ The Chief Burgess of that Borough which shall have been first incorporated shall be the Chief Burgess of the new borough, to serve as such until a Chief Burgess shall have been elected and duly qualified in accordance with the laws of the Commonwealth. The Chief Burgess of the other borough shall become a member of the town council of the new borough from that ward in which he shall reside, and shall continue a member thereof until the expiration of his term of office. The members of the town council of each of the said boroughs shall be members of the town council of the new borough from the wards in which they respectively reside, and no election for members of the council shall be held in any of the wards until the number of members from such ward shall have been reduced to three, by the expiration of terms of service of members in office at the time of such consolidation, and thereafter, annually, there shall be elected in each ward one member of council for the term of three years, and all vacancies in the office of Chief Burgess or member of the town council shall be filled in the manner provided by law. ”
+A. C. Huff had been the chief burgess, elect, of the borough of West Bethlehem for a term of three years which expires March, 1906. The new borough was created August 16,1904, and by the provisions of the above section, A. C. Huff was transferred to a seat in, and became a member of council of the consolidated borough from the new sixth ward of Bethlehem, in which he resided, for the remainder of his term. At the time of consolidation of the boroughs, the second ward of West Bethlehem, which subsequently became the sixth ward of the new borough of Bethlehem, was represented by three councilmen, who under the terms of the same section were continued as members of the council from the wards of their respective residences until the expiration of their terms. That of Frank V. Kleckner expired on March 6-, 1905. This plaintiff was duly nominated, voted for, and returned as elected at the February election in 1905, a member of council from the sixth ward of the new borough. He presented his certificate of election with his oath of office, and requested that he be permitted to exercise the rights and privileges of a member, which was refused him, and this petition for a mandamus was presented to enforce the alleged right. It thus appears that at the expiration of the term of councilman Kleekner, by the very terms of the act, there were yet three members of that body from the sixth ward of the borough. There was no vacancy to fill, and by the letter of the law, “ No election for members of the council shall be held in any of the wards of the new borough until the number of members of such ward shall have been reduced to three by the expiration of the terms of service in office at the time of such consolidation. ” It was not necessary that A. C. Huff, the former burgess of West Bethlehem, nor the town council, should take any affirmative action to continue him as a member. When the consolidation was effected he became at once a member of the town council. His status was continued by the provision, — “he shall become a member of the town council of the new borough from that ward in which he shall reside, and shall continue a member thereof until the expiration of his term of office. ”
+It so happened that the first year after the consolidation, the sixth ward had four members instead of three. This contingency was provided for and the remedy to prevent such further unequal representation guarded against by the other provisions ; the transition from two boroughs to one was intended to be effected with as little disturbance of office or membership in council as possible. No one was ousted from his elected place. As stated by Mitchell, C. J., in Commonwealth v. Keystone Benefit Association, 171 Pa. 465: “ The fabric of modern law is too complicated and the displacement of any part of it too far reaching for its entire effect to be foreseen by any legislator.”
+Under the facts agreed to the members from the sixth ward held, to wit: Jacob Franklin held until March, 1906 ; and John Clark until March, 1907. The title of A. C. Huff as a member from that ward was of the same quality as that of either of the other members. The ward had its full quota of representatives and the election of the plaintiff to fill a vacancy which did not exist was without any warrant of law.
+The mandamus was properly refused and the decree is affirmed.
