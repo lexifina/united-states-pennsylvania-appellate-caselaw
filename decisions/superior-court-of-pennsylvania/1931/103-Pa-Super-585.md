@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 319"
+decided: "1931-12-14"
+citations: ["103 Pa. Super. 585"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Tirexler, P. J., Keller, Linn, Gawthrop, Cunningham and Baldrige, JJ."]
+parties: ["The Ritchie B. & L. Assn. No. 2 v. Armstrong, Appellant."]
+source_url: "https://static.case.law/pa-super/103/cases/0585-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 697228
+cites_cases: ["267 Pa. 180"]
+---
+
+# Ritchie B. & L. Assn. No. 2 v. Armstrong
+
+## Majority (Gawthrop J.,)
+
+Opinion by
+Gawthrop J.,
+This is an appeal from a judgment entered for want of a sufficient affidavit of defense. Plaintiff averred in its statement of claim that on December 19, 1927, one Plishka gave to it seventeen bonds, each conditioned for the payment of $1,400, and seventeen second mortgages on properties owned by him to secure the payment of the several bonds; that on May 1, 1929, Plishka requested plaintiff to take assignments of seventeen first mortgages given by him, on the same properties to other persons; that, plaintiff took assignments of the first mortgages by paying the holders thereof $25,500 principal, and $216.75 interest; that in consideration of plaintiff’s taking said assignments Plishka verbally agreed to turn over the gross rents of the seventeen properties monthly to plaintiff; that the rents of the properties were being collected by defendant for Plishka; that Plishka directed defendant to remit the monthly gross rentals to plaintiff; that defendant remitted the rentals to plaintiff from June, 1929, to July 17, 1930; that on July 17, 1930, Plishka transferred and assigned to plaintiff all his right, title and interest in and to the leases on said properties, together with the rents then due or thereafter accruing, and also transferred and assigned to plaintiff the leases on two other properties with the rents due or accruing thereunder; that notice of the assignments of all these leases was given to defendant by delivering to him copies of the assignments; that defendant had then in hand certain rents collected during the month of July, 1930, and continued to collect the rents; that on September 17, 1930, defendant was notified in writing that his agency to collect the rents was revoked and he was notified to remit all rents collected to plaintiff; that on September 22, 1930, plaintiff became the owner of the seventeen properties above mentioned; that defendant has collected certain rents of said premises and has refused to account for the same to plaintiff; and that plaintiff does not know the amount due it from defendant. The demand was made for an accounting of defendant in accordance with the provisions of Section 11 of the Practice Act of 1915.
+Defendant challenged his amenability to suit by filing an affidavit of defense in the nature of a plea in abatement. This was proper practice: Miller Paper Co. v. Keystone C. & C. Co., 267 Pa. 180. The court below struck it off with leave to file an affidavit to the merits. Without taking an exception to this action defendant filed an affidavit of defense on the merits. Plaintiff then took a rule for judgment for want of a sufficient affidavit of defense. The court held this affidavit insufficient, made the rule absolute, and ordered that defendant file an account within thirty days in accordance with the rules of court.
+The only question presented for our consideration is whether it was error to enter a summary judgment for an accounting. Upon full consideration our conclusion is that the opinion filed by President Judge Ferguson contains sufficient justification for the order entered. We quote from it: “We entered judgment for plaintiff in this case because most of the averments of the statement of claim are either admitted or inadequately denied. Defendant therefore admits that he was collecting rents and remitting them to plaintiff by direction of Joseph Plishka. The only paragraph in the statement and affidavit of defense which required consideration was No. 9. In the affidavit there is no answer whatever to the averments of the statement, except the word ‘denied,’ which, of course, is inadequate. Defendant then proceeds to state that he had been notified by Apollonia Gleisher that she was the owner and that she would hold him responsible for rents collected after a certain date. If this averment is material it is ineffectual to prevent judgment. Defendant does not state that it is a fact that Plishka sold the houses to Gleisher. He merely states that Gleisher so informed him. Defendant had no right to regard any instructions received from Gleisher because at the time he was agent for plaintiff and was remitting rents to that corporation. He was not agent for Gleisher and if Gleisher had any right to the rents it was her duty to have her dealings with the tenants. In the last place it may be remarked that if this averment is intended as one to introduce another party as a claimant to the money in controversy, it was the duty of defendant to ask leave to pay the money into court and have an interpleader framed.”
+The order is affirmed.
