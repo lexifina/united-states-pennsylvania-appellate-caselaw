@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 249"
+decided: "1946-01-18"
+citations: ["158 Pa. Super. 410"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Baldrige, P. J., Rhodes, Reno, Dithrioh, Ross and Arnold, JJ. (Hirt, J., absent)."]
+parties: ["Spencer, Appellant, v. Feitelson & Sons"]
+source_url: "https://static.case.law/pa-super/158/cases/0410-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1063307
+cites_cases: ["109 A. 670", "143 Pa. Superior Ct. 37", "144 Pa. Superior Ct. 231", "152 Pa. Superior Ct. 599", "17 A. 2d 732", "173 Pa. 451", "19 A. 2d 509", "237 Pa. 24", "250 Pa. 78", "266 Pa. 529", "33 A. 2d 522", "85 A. 75", "92 Pa. Superior Ct. 275", "95 A. 382"]
+---
+
+# Spencer v. Feitelson & Sons
+
+## Majority (Ross, J.,)
+
+Opinion by
+Ross, J.,
+In this workmen’s compensation case the claimant filed a petition claiming compensation as the common law widow of the deceased employee, Willie Spencer, stating that she had been “married common-in-law 10 years”. Spencer was killed on December 13, 1940, while in the course of his employment with the defendant and the claim petition was filed August 21,1941. The referee found that a common law marriage existed between the claimant and the deceased. The board set aside the referee’s findings in part and substituted therefor the following : “Seventh: That Mrs. Florence Spencer was not the common law wife of the decedent at the time of his death. Thirteenth: That the claimant did not consummate a marriage between herself and Willie Spencer, either by ceremony or a new agreement of common-law marriage after she found out that her first husband was dead.” The board was affirmed by the court below and this appeal followed.
+At the first hearing before the referee on August 29, 1941, the claimant testified that a common law marriage took place between her and the decedent on December 18, 1931, and that they lived together as husband and wife thereafter until his death. It was brought out on cross examination of the claimant that she had married one Banis Mitchell on' July 11, 1911, and the marriage record was introduced in evidence. Mitchell deserted the claimant in 1923 and was not seen thereafter by the claimant. However, it is in evidence that Mitchell was alive in 1933 and there is no evidence in the record that the claimant was ever divorced from Mitchell.
+Under these facts the claimant could not contract a valid common law marriage with the decedent, Willie Spencer, at any time prior to 1933. This court, in Sharpe v. Federal Window and Office Cleaning Co., 144 Pa. Superior Ct. 231, 19 A. 2d 509, speaking through the late President Judge Kellek, stated: “One who has married once cannot lawfully marry again unless the first marriage has been dissolved by absolute divorce or by death. And if a second marriage is entered into it is void ab initio. Clark’s Estate, 173 Pa. 451 . . . The marriage of a man or woman, where one of them has by a prior marriage a husband or wife, who is then living and undivorced, is not merely voidable but void, whether it be meretricious or founded in mistake . . .” Consequently, with a husband living, from whom she had not been divorced, the claimant could not lawfully marry Spencer either by a ceremonial wedding or a common law marriage; and to validate the relation it would require affirmative action after the death of her husband, Mitchell, either in the way of a ceremonial wedding or a new agreement of common law marriage. Wilbert v. Commonwealth of Pennsylvania Second Injury Reserve Account et al., 143 Pa. Superior Ct. 37, 17 A. 2d 732.
+At a third hearing before the referee, held on February 17, 1942, the claimant testified that on Easter Sunday in 1937 she was told that Mitchell had died “about three or four years ago”, and that after she received that information she told the decedent and he said “Well, even at that, I will always stick to you and you will be my wife forever”, and she answered, “I will stick to you. I will always stick to you as my husband.” The claimant relies on this testimony of hers to support her contention that after she heard of Mitchell’s death, she and the decedent entered into a second common law marriage. The board refused to credit this testimony, and her credibility was for the board to determine. In its opinion the board stated: “We are of the opinion that the claimant’s testimony given at the third hearing in the case was an after thought, designed to escape the legal results following discovery at the first hearing that she was a married woman with a living husband, and not divorced, at the time she went through the form of a common-law marriage with Spencer.”
+Proof of cohabitation and reputation are not sufficient to establish marriage. They are but circumstances from which a matrimonial contract may be presumed; but such presumption will not prevail if in fact there is no marriage. Bisbing’s Estate, 266 Pa. 529, 109 A. 670; Murdock’s Estate, 92 Pa. Superior Ct. 275. Proof of mar riage must be present. Patterson’s Estate, 237 Pa. 24, 85 A. 75; Fuller’s Estate, 250 Pa. 78, 95 A. 382. A mere continuance of the former relations between the claimant and Spencer after the death of Mitchell does not constitute a valid marriage. Wilbert v. Commonwealth of Pennsylvania Second Injury Reserve Account et al., supra, 143 Pa. Superior Ct. 37, 17 A. 2d 732.
+There was sufficient substantial and competent evidence in the record to justify the findings of the board and the disallowance of an award can be sustained without a capricious disregard of competent evidence. Schrock v. Stonycreek Coal Co., 152 Pa. Superior Ct. 599, 33 A. 2d 522.
+Judgment is affirmed.
