@@ -1,0 +1,48 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 434 C.D. 1976"
+decided: "1982-08-03"
+citations: ["68 Pa. Commw. 112"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Chumlxsh, Jr. and Judges Rogers and MacPhail, sitting as a panel of three."]
+parties: ["In Re: Appeal of Alexander M. Haff, Jr. from Doylestown Borough Zoning Hearing Board. Alexander M. Haff, Jr., Appellant."]
+source_url: "https://static.case.law/pa-commw/68/cases/0112-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1934128
+cites_cases: ["291 A.2d 322", "340 N.Y.S. 2d 446", "440 A.2d 1284", "5 Pa. Commonwealth Ct. 399", "51 Pa. D. & C.2d 139", "64 Pa. Commonwealth Ct. 551", "72 Misc. 2d 1061"]
+---
+
+# In re Appeal of Haff
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+Alexander M. Haff, Jr. (Appellant) has appealed from an order of the Court of Common Pleas of Bucks County which affirmed the decision of the Doylestown Borough Zoning Hearing Board (Board) to deny the Appellant’s application for a building permit. We affirm.
+Appellant is the owner of a tract of land located in an O-Office zoning district within the Borough of Doylestown. Appellant filed an application for a building permit on May 30, 1975 to allow the construction of a McDonald’s fast food restaurant on his property. The application was denied by the zoning officer on the ground that a McDonald’s restaurant did not constitute a use which is permitted in the Office District. Appellant appealed this denial to the board which, after a hearing, affirmed. Upon further appeal the court of common pleas also affirmed the denial of the building permit.
+Two issues have been raised in the appeal now before this Court: 1) whether the Doylestown Borough zoning ordinance permits a McDonald’s restaurant as a use in an Office District and 2) if such a use is not permitted, is the ordinance unconstitutional?
+Where, as here, the court of common pleas has taken no additional testimony, our scope of review is to determine whether the Board committed an abuse of discretion or an error of law in reaching its decision. Abington Township v. Dunkin Donuts Franchising Corp., 5 Pa. Commonwealth Ct. 399, 291 A.2d 322 (1972).
+Two use definitions are pertinent to this appeal. “Use 30” is permitted in the Office District and is defined as an “Eating place for the sale and consumption of food and beverages without drive-in or take-out service (service at table or sit-down counter facilities only).” “Use 31” which is not permitted in the Office District is defined as an: “Eating place for the sale and consumption of food and beverages with drive-in or take-out service.” The zoning officer, Board and court of common pleas all concluded that the proposed McDonald’s restaurant falls within the definition of Use 31 and, therefore, is not a use permitted in the Office District. Appellant contends, however, that his proposed use is one within the definition of “Use 30” and, thus, is permitted as zoned.
+The first issue persented, then, requires an interpretation of the pertinent ordinance provisions. In interpreting zoning ordinance provisions, restrictive language must be strictly construed so as to allow the landowner the least restrictive use of his property. Lake Adventure, Inc. v. Zoning Hearing Board of Dingman Township, 64 Pa. Commonwealth Ct. 551, 440 A.2d 1284 (1982).
+In order to be within the definition of “Use 30”, Appellant’s proposed facility must not include “drive-in” or “take-out” service. While these terms might, in and of themselves, be subject to various interpretations, Abington Township, the ordinance further defines the permitted use as allowing service at tables or sit-down counters only. Implicit in this definition, we think, is a requirement that the food served be consumed within the restaurant building itself. Stated in negative terms, we interpret the definition to prohibit the purchase of food for consumption outside the confines of the restaurant building although still on the restaurant premises.
+Applying this definition to the facts of the instant case, we note the following pertinent findings of the Board which are based upon substantial competent evidence of record:
+7, All customers must enter the building in order to make an order. (N.T. 26)
+9. The proposed plans do not contain any formal outdoor eating area. (N.T. 32)
+12. A minimum of about 83% of the food would be consumed either within the four walls of the building or completely off the premises, resulting in a maximum of 17% of food consumption on the premises but not in the building. (N.T. 103, 104)
+23. Consumption of food, to a significant extent, in parked cars on the premises is contemplated. (N.T. 102 and 159)
+24. McDonald’s does not discourage customers from taking food out and eating in their cars or some other location on the premises. (N.T. 133 and 134)
+Based on these fact findings we have no hesitation in affirming the Board’s denial of the building permit in this case. Since it is contemplated that a significant portion of the food sold will be consumed either in parked cars or elsewhere on the premises outside the restaurant building, we conlcude that the proposed use is not within the definition of “Use 30”; thus, it is not a permitted use in the Office District.
+Although we have found no Pennsylvania cases which would control our disposition of this case, our conclusion that the building permit should be denied here is supported by á similar New York state court case. In Franchise Realty Interstate Corp. v. Rab, 72 Misc. 2d 1061, 340 N.Y.S. 2d 446 (1973) the Supreme Court of Nassau County determined that a McDonald’s restaurant was not permitted in a district where “drive-in establishments” and “stores which ... permit the consumption of food or beverage on the premises outside a building” were prohibited uses. Id. at 1063-64, 340 N.Y.S. 2d at 449. The court there noted that:
+Eating food in cars is not the problem, but rather the increased outdoor activity which it entails. This would seem to be the vice for land use purposes ... since it is the rapid flow and the visible presence outdoors of people, with greater opportunity for litter and aggravating noise and activity, which underlies singling out such restaurants....
+Id. at 1064, 340 N.Y.S. 2d at 450.
+In support of his position, Appellant has cited another case similar to the one presently before us, in which the Court of Common Pleas of Bucks County concluded that a proposed limited menu, fast service restaurant did not constitute an eating place with drive-in or take-out service. Meyer v. Warminster Township Zoning Board, 51 Pa. D. & C.2d 139 (1971). In contrast to the instant case, however, evidence that food was consumed outside the restaurant building was lacking in Meyer. The court noted that, “In the absence of an unequivocal determination that food would be consumed to any significant extent in parked cars or outside the building and still on the premises, the board was in error in refusing the instant application.” Id. at 144. Since the Board here made the “unequivocal determination” which was missing in Meyer, we think the reasoning in Meyer ac tually lends additional support to our conclusion that the Board committed no legal error or abuse of discretion in denying the subject building permit.
+Turning now to the second issue presented, Appellant argues that if his proposed use is not permitted within the Office District, then the provisions of the ordinance here at issue are unconstitutional because they make an invalid distinction between fast food restaurants and other restaurants which is not substantially related to the public health, safety or welfare. We need not reach the merits of this substantive challenge, however, due to fatal procedural defects in the manner by which Appellant has raised the challenge.
+Section 1004 of the Pennsylvania Municipalities Planning Code (MPC) provides the exclusive procedures to be followed in challenging borough zoning ordinances on substantive grounds. Lake Adventure, Inc. When proceeding before a zoning hearing board pursuant to Section 1004(l)(a) of the MPC, 53 P.S. §11004(l)(a), the landowner must present a written request to the board for a hearing on the challenge together with a statement of the grounds for the challenge. Public notice of the hearing must, in turn, include notice that the validity of the ordinance is in question. See Section 1004(2) of the MPC, 53 P.S. §11004(2).
+In the instant case, Appellant first raised his substantive challenge by oral motion to the Board at the hearing held on June 18, 1975. Thus, no written request for a hearing on the challenge was ever filed with the Board and the public notice of the June 18, 1975 hearing did not include notice that the ordinance was being challenged. Apparently as a result of these procedural defects, the Board did not address the substantive challenge in its decision. Whether or not that is the case, we must hold as a matter of law that Appellant, having failed to comply with the procedural mandates of the MPC, cannot now have this Court review the substantive issue.
+Order affirmed.
+Order
+It is ordered that the order of the Court of Common Pleas of Bucks County, dated February 11, 1976, No. 75-7299-04-5, is hereby affirmed.
+Act of July 31, 1968, P.L. 805, as amended, added by Section 19 of the Act of June 1, 1972, P.L. 333, 53 P.S. §11004.
+We also note that the Appellant presented no evidence at the hearing before the Board in support of his constitutional challenge to the ordinance.
