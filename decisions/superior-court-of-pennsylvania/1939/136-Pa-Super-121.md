@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 16"
+decided: "1939-06-26"
+citations: ["136 Pa. Super. 121"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Stadtfeld, Parker and Rhodes, JJ."]
+parties: ["Pugliese, Appellant, v. Pugliese."]
+source_url: "https://static.case.law/pa-super/136/cases/0121-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1018257
+cites_cases: ["110 Pa. Superior Ct. 189", "168 A. 488"]
+---
+
+# Pugliese v. Pugliese
+
+## Majority (Cunningham, J.,)
+
+Opinion by
+Cunningham, J.,
+The appeal in this divorce action is by the libellant husband from a decree of the court below dismissing his libel. Two grounds were averred therein — cruel and barbarous treatment and indignities to libellant’s person. The case was tried before Lewis, J., who filed, for the court below, a brief opinion, reading: “We deem the evidence insufficient to warrant the granting of a divorce.”
+As is our duty, in the absence of a jury trial, we have examined and weighed the evidence for the purpose of arriving at an independent conclusion upon the fundamental question in every divorce proceeding— whether the libellant has supported any of the grounds set forth in the libel by clear and convincing proofs. We find no evidence upon this record which would sustain a decree upon the ground of cruel and barbarous treatment. The single instance of violence to his person referred to by libellant in his testimony was the throwing by respondent, while intoxicated, of a pan of scalding hot water upon his shoulder. As to this incident, libellant’s testimony was corroborated by that of a neighbor, who stated she bandaged his arm and shoulder. This testimony, however, falls far short of proving cruel and barbarous treatment within the meaning of the statute. Moreover, as it was an isolated circumstance and the only one of that character, it is not entitled to serious consideration as a link in such a course of conduct as must be shown in order to support a charge of indignities.
+In considering the other branch of the case it must be borne in mind that the marriage, contracted on July 29, 1932, was between parties of Italian birth unable to express themselves adequately in English and requiring the assistance of an interpreter during the trial. Each was past middle life and had prior marital experiences. Libellant had six sons, four of whom lived with him; respondent had four sons and two daughters, all married. Their testimony indicates both were excitable and emotional and, as in Picciano v. Picciano, 110 Pa. Superior Ct. 189, 168 A. 488, had standards and habits of living which differed from those of the average American family. The testimony of the principals was conflicting on every material point and each was corroborated to some extent by their respective children.
+No useful purpose would be served by considering it in detail. Libellant, in reply to interrogations by the trial judge, stated his primary purpose in entering into a second marriage was to obtain a good housekeeper. Their relations seem to have been reasonably harmonious for a year or so; the scalding episode occurred in the fall of 1934 and the libel was filed on July 17,1935. When libellant is given the benefit of the conflicts in the testimony, the most shown against respondent was that she frequently became intoxicated and while drunk indulged in boisterous profanity in and around the house, neglected her household duties, and was irregular in her sleeping habits. Her profanity does not seem to have been directed at libellant or his children in particular, but to the world in general. The difficulties of the parties culminated in respondent leaving, or as she asserts being driven from, the house shortly after the return of one of libellant’s older sons from military service. There is uncontradicted testimony that because of quarrels between respondent and this stepson it became necessary to call the police upon one occasion. Referring to the date upon which libellant returned to his home after an illness at a hospital, respondent testified: “Q. Why did they chase you out? Did you have an argument with them? A. They told me that their father didn’t like me. I like my man. The boy no like me. Q. What did they do after they told you that their father didn’t like you? Did they hit you? Did they put you out? What did they do? A. The fellow came from the army, he came after me out in the street; he wanted to kill me; and he got me scared that I can’t use my right arm.”
+Granting that libellant had reason to be disappointed in his selection of respondent as a housekeeper and companion for his old age, he made his choice with his eyes open and after sufficient experience with matrimony to exclude any plea of immaturity of judgment. Having regard to the station in life and characteristics of the parties as disclosed by the evidence, we are not convinced that the excessive drinking, general profanity and neglect of household duties here charged would, even if clearly proven against respondent, justify the granting of the divorce sought by libellant. Although we have not had the advantage of seeing and hearing the parties and their witnesses, our reading of the testimony has led us to the same conclusion as that expressed by the trial judge, viz., that libellant has not shown such a course of conduct by the respondent as is contemplated by the statute as a sufficient ground for a divorce. The assignment of error to the action of the court below in dismissing the libel cannot be sustained.
+Decree affirmed at costs of appellant.
