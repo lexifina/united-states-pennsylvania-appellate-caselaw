@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 125"
+decided: "1965-04-15"
+citations: ["205 Pa. Super. 286"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ekvin, P. J., Wright, Watkins, Montgomery, Jacobs, and Hoffman, JJ. (Flood, J., absent).", "Montgomery and Jacobs, JJ., would grant a new trial."]
+parties: ["D. M. Bare Paper Company, Appellant, v. Steward."]
+source_url: "https://static.case.law/pa-super/205/cases/0286-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 771510
+cites_cases: ["110 A. 2d 210", "112 A. 2d 372", "201 A. 2d 207", "216 Pa. 584", "358 Pa. 149", "380 Pa. 181", "380 Pa. 484", "414 Pa. 477", "56 A. 2d 233", "66 A. 76"]
+---
+
+# D. M. Bare Paper Co. v. Steward
+
+## Majority (Ervin, P. J.,)
+
+Opinion by
+Ervin, P. J.,
+The D. M. Bare Paper Company, appellant, owner of a plant, instituted an action in trespass against Glenn McChessney, a truck driver and one of the appellees, and his employer, C. E. Steward, the other appellee, for damages sustained while the appellant’s plant operations were suspended for a period of two and one-half hours. It was stipulated that the damages were $5,000.00 in amount. The plant stoppage was caused when the truck driver struck a guy wire attached to a utility pole some 500 yards from appellant’s plant. The jury returned a verdict in favor of the defendants. Appellant’s motions for judgment n.o.v. and for new trial were dismissed and it thereupon took this appeal.
+Taking the evidence and the inferences therefrom in favor of the verdict winner, the defendants-appellees, the facts are as follows:
+On August 29, 1959, at 10:45 a.m., Glenn McChessney was operating a 1953 Super White dump truck, owned by C. E. Steward, on the property of the New Enterprise Stone and Lime Company and was hauling sand and gravel from bins to a weight scale. A road leading to and from the bins to the scale crossed a one-way bridge leading to the scales and other trucks had temporarily blocked passage from the bridge. Mc-Chessney, seeing that other trucks prevented passage over the bridge and desiring to drive to the bins, used a path at the side of the bridge and in so doing attempted to drive his truck between a pole and its guy wire. The right front corner of the body of the truck struck the guy wire and the power lines fell. This severed the power which was operating the machines in the plant and caused the cessation of work in the plant.
+McChessney testified that he could clearly see the guy wire in front of him as he approached it and that as soon as he heard the noise which came from the scraping of the guy wire on the truck, he stopped his truck. McChessney testified that he and other drivers had used this cutoff path on numerous occasions before without accident. In fact, he said that he had used it approximately a hundred times in the previous year.
+The court below refused the motion for judgment n.o.v. because it concluded that what McChessney did amounted to an “honest error in judgment rather than actionable negligence.” The case of Small v. Pittsburgh Railways Co., 216 Pa. 584, 66 A. 76, is cited as authority for this proposition. That was a case in which a streetcar motorman propelled his car down a hill when the rails were covered with ice. He attempted to use the brakes, which were provided with sand, but this operation did not cause the wheels to take hold even when reversed. As a consequence the car slid down the grade and caused injury to the plaintiff at the bottom of the hill. In that case the evidence was clear that the conditions on this night were extraordinary and exceptional. In fact, the motorman testified that this was the worst night he had seen in all of his 22 years of experience and that never before had the brakes and sand failed to work.
+In the present case it is crystal clear that if MeChessney had been attentive to his duties as a driver, this accident would never have occurred. By his own testimony, he had gone under this wire with his truck a hundred times and his truck never came in contact with the wire. If he had been attentive to his duties as a driver, his truck would not have come in contact with the wire on the hundred and first occasion. The negligence which caused this accident was the failure of McChessney to drive his truck near enough to the pole so that it would not come in contact with the guy wire. The standard by which the conduct of a person in a particular situation is judged in determining whether he is negligent, is the care which an ordinarily prudent person would exercise under the same or similar circumstances: Maternia v. Pa. Railroad Co., 358 Pa. 149, 56 A. 2d 233. Even though McChessney did not foresee the extent or the manner of the harm to the appellant that his act would cause, his conduct was a substantial factor in bringing about that harm and he and his employer should be held liable therefor: Restatement, Torts, §435; Churbuck v. Union Railroad Co., 380 Pa. 181, 185, 110 A. 2d 210.
+There being no dispute as to the essential facts in this case, the plaintiff’s point for binding instructions in its favor should have been granted. The court, having failed to do this, should have granted judgment n.o.v. for the plaintiff. Ordinarily judgment n.o.v. in a trespass action may not be given for the plaintiff because the damages must be determined by a jury. In this case, however, the stipulation of the parties fixed the damages at the definite sum of $5,000.00 and it therefore becomes unnecessary to submit the case to a jury to fix the amount of damages.
+The court below also took the position that there was some conflict in the testimony as to whether frhfa path had been used theretofore. An examination of the record reveals, however, that there was no conflict as to this point. McChessney’s testimony clearly showed the prior use and Mr. Biddle’s testimony showed that he had no knowledge on the subject.
+Ordinarily the question of whether negligence of a defendant was the proximate cause of the accident is for the fact-finding tribunal but where the relevant facts are not in dispute the question of actionable negligence is one of law for the court: Green v. Independent Oil Co., 414 Pa. 477, 201 A. 2d 207; DeLuca v. Manchester Laundry and Dry Cleaning Co., 380 Pa. 484, 491, 492, 112 A. 2d 372.
+Order reversed and it is hereby directed that judgment be entered by the court below in favor of the plaintiff, appellant, in the sum of $5,000.00.
+Montgomery and Jacobs, JJ., would grant a new trial.
