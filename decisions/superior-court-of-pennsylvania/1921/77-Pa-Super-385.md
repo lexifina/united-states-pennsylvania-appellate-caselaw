@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 18"
+decided: "1921-07-14"
+citations: ["77 Pa. Super. 385"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Trexler, Keller and Linn, JJ."]
+parties: ["Fritch, Appellant, v. Borough of Northampton."]
+source_url: "https://static.case.law/pa-super/77/cases/0385-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 648345
+cites_cases: ["100 Pa. 583", "108 Pa. 1", "111 Pa. 171", "131 Pa. 292", "148 Pa. 231", "148 Pa. 566", "152 Pa. 30", "154 Pa. 328", "154 Pa. 404", "21 Pa. Superior Ct. 17", "21 Pa. Superior Ct. 20", "211 Pa. 227", "215 Pa. 375", "215 Pa. 96", "27 Pa. Superior Ct. 481", "3 Pa. Superior Ct. 359", "35 Pa. 324", "38 Pa. Superior Ct. 76", "49 Pa. Superior Ct. 517", "73 Pa. 406", "93 Pa. 272"]
+---
+
+# Fritch v. Borough of Northampton
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+The plaintiff in this action of trespass seeks to recover damages for injury to his property caused by the flow of surface water upon and over the same, alleging that the injury resulted from the gráding and improvement of certain streets by the borough authorities. The court below entered a nonsuit, which it subsequently refused to take off, and the plaintiff appeals.
+The statement of the plaintiff averred it to be the duty of the borough to take care of all surface water that collected within the said borough and flowed upon its streets and to prevent the same from overflowing the said streets; that the borough had neglected to perform said duty and failed to take care of the surface water upon the streets and properly drain the same, and that said surface water had been permitted to flow upon plaintiff’s land during a considerable period of time and particularly upon the 29th of October, 1916, when the flow of said water did seriously damage the buildings upon plaintiff’s land. The statement as originally filed .did not set forth a good cause of action. The municipality was not liable for damages resulting from its mere failure to provide an adequate system of sewerage to take care of the surface water: Carr v. Northern Liberties, 35 Pa. 324; Fair v. Phila., 88. Pa. 309; Collins v. Phila., 93 Pa. 272; Fairlawn Coal Co. v. Scranton, 148 Pa. 231. The existence of the defect in the statement was recognized at the trial and the plaintiff added thereto an averment: “that the said borough did so divert the flow of said surface waters that the water which would naturally have flowed away from the property of the plaintiff was caused to flow in volume upon plaintiff’s .property from the streets which are designated as public -highways.” The statement contains no suggestion that the borough authorities had not taken all the steps necessary to render valid the grading and paving of the streets in question; or that the work was not done according to the plans regularly adopted or that the work had not been kept in good repair. Newport Avenue and 14th Street, the plans for the grading and improvement of which streets seem to be the principal subject of complaint, were graded, paved and curbed long before plaintiff acquired title to his property, and there was nothing in the evidence produced by the plaintiff to afford the slightest ground for suspicion that the work was not done according to plans legally adopted by the borough authorities. Stewart Street, upon which plaintiff’s property abutted, was improved by the borough authorities after plaintiff had acquired title to the property, and that improvement resulted in leaving plaintiff’s property below the grade of the street. Viewers had been duly appointed to assess the damages and benefits resulting from that improvement, before whom plaintiff appeared claiming damages, which were awarded him. The borough appealed from that award and the appeal was pending in the court below when plaintiff brought this action of trespass. The evidence produced by the plaintiff did not contain anything which would have warranted a finding that the streets, including Stewart Street, had not been graded and paved in strict accordance with the plans adopted by the municipal authorities, or that the work had not been done in a skillful manner and with proper material, or that there had been any failure on the part of the borough authorities to keep the entire system in good repair. The diversion of water, if any there was, was the direct and necessary result of the execution of the duly authorized plan, under which the streets were improved. The plaintiff was not, upon this state of facts, entitled to recover in an action of trespass, but, if entitled to recover, must pursue the statutory remedy before viewers: Cooper v. Scranton City, 21 Pa. Superior Ct. 17; Ringwalt v. Atglen Boro., 49 Pa. Superior Ct. 517; Robinson v. Norwood Boro., 215 Pa. 375.
+The judgment is affirmed.
