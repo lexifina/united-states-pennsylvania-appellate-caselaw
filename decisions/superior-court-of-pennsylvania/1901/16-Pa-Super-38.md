@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No, 247"
+decided: "1901-01-22"
+citations: ["16 Pa. Super. 38"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, W. W. Porter and W. D. Porter, JJ."]
+parties: ["Fricke’s Estate."]
+source_url: "https://static.case.law/pa-super/16/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 832704
+cites_cases: ["1 Wharton, 104", "103 Pa. 286", "112 Pa. 203", "114 Pa. 132", "12 W. N. C. 165", "13 Pa. 82", "140 Pa. 187", "156 Pa. 59", "156 Pa. 65", "165 Pa. 637", "176 Pa. 436", "22 Pa. 245", "30 Pa. 89", "37 Pa. 440", "37 Pitts. L. J. 8", "44 Pa. 9", "51 Pa. 58", "64 Pa. 325", "65 Pa. 480", "67 Pa. 404", "68 Pa. 409", "68 Pa. 53", "87 Pa. 202", "87 Pa. 487", "91 Pa. 68", "92 Pa. 265", "97 Pa. 349"]
+---
+
+# Fricke's Estate
+
+## Majority (William W. Porter, J.,)
+
+Opinion by
+William W. Porter, J.,
+Albert Fricke by his will directed and empowered the executor thereof to sell his real estate at public or private sale. Pursuant to this direction the executor offered a piece of the decedent’s real estate at public sale. It was purchased, by J. L. Cresse for $50.00, subject to an irredeemable grount rent. Petition was made by one of the parties interested under the will, to set aside the sale on the ground of inadequacy of price, and representing that one Tobler was ready to give $500 for the property. Answers were filed by Cresse, the purchaser, and by the executor, the latter containing a submission to such decree as the court should make in the premises. The orphans’ court thereupon entered a decree setting aside the sale, on bond being entered by Tobler, conditioned that the property should bring $500 at the resale therein ordered.
+The sole question for consideration now presented is, whether the sale having been made by the executor under the power conferred by the will, the orphans’ court had jurisdiction to intervene and order a resale. -No doubt the court might make such an order in the case of a sale made by virtue of its own decree : Armstrong’s Appeal, 68 Pa. 409, and cases cited. But it is contended that the power does not extend to a sale made by an executor by virtue of the expressed provisions of a will. This contention is met by the case of Dundas’s Appeal, 64 Pa. 325, where the question was fairly raised. After reviewing the legislation and authorities on the subject, Mr. Justice Agnew uses this language: “ It would appear from this legislation that the orphans’ court has power to control executors and other testamentary trustees in the exercise of their powers over real and personal estate. There would seem to be good reason, therefore, to hold that the orphans’ court has power to review, set aside and, if necessary, to order a resale of real estate made under a testamentary power. . . . This was a sale by authority of the testator, and needed no confirmation of the court or order to convey. The deed passed the estate directly to the purchaser and constituted an inviolable contract, which could be reached only by a judicial proceeding to which the purchaser should be a party, as well as the executors. . . . The orphans’ court within the limits of -its jurisdiction is strictly a court of equity (says Gibson, C. J.), proceeding by petition and answer, and enforcing its decrees by attachment, sequestration and execution, as the case may be. . . . In such a proceeding the orphans’ court can grasp the controversy, set aside the sale, order the purchase money to be restored, and direct a resale by the executors under the will.” This extended quotation is justified by its peculiar applicability to the case before us. It will be seen that the procedure here followed is that suggested and approved by the Supreme Court, and that here the sale has not been completed by the delivery of a deed and is, therefore, the more open to judicial intervention. The order setting aside the sale made for so palpably an inadequate price, and the ordering of a resale on bond being entered securing a sale at a largely increased price, was within the discretion of the chancellor entering the decree. See Brown’s Appeal, 68 Pa. 53, and Hamilton’s Estate, 51 Pa. 58. There was no abuse in the exercise of the discretion vested in him. We, therefore, have no disposition to disturb the order he has made (see Haslage’s Appeal, 37 Pa. 440, and Williams’ Estate, 140 Pa. 187) further than to make an amendment saving the right of the purchaser who has made a payment on account. From the opinion above quoted, it appears that the decree may, and we believe should, direct a restoration of such purchase money as has been paid.
+The record is remitted, with direction that the decree be amended by adding thereto an order to the executor to restore the cash payment made by Cresse, the costs of this appeal to be paid out of the estate of the decedent.
