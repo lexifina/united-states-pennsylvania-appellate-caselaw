@@ -1,0 +1,42 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2861 C.D. 1980"
+decided: "1983-03-10"
+citations: ["72 Pa. Commw. 504"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to President Jndge Crumlish, Jr. and Judges MacPhail and Doyle, sitting as a panel of three."]
+parties: ["Fran Wilson, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/72/cases/0504-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1938343
+cites_cases: ["39 Pa. Commonwealth Ct. 503", "395 A.2d 708", "419 A.2d 238", "425 A.2d 1203", "427 A.2d 1255", "431 A.2d 1155", "434 A.2d 869", "453 A.2d 960", "466 Pa. 81", "54 Pa. Commonwealth Ct. 6", "57 Pa. Commonwealth Ct. 186", "58 Pa. Commonwealth Ct. 362", "60 Pa. Commonwealth Ct. 428", "61 Pa. Commonwealth Ct. 568"]
+---
+
+# Wilson v. Commonwealth, Unemployment Compensation Board of Review
+
+## Majority (Judge Doyle,)
+
+Opinion by
+Judge Doyle,
+Before this Court is an appeal by Fran Wilson (Claimant) from a decision and order of the Unemployment Compensation Board of Review reversing a referee’s award of unemployment benefits. The Board’s denial of benefits was predicated on the finding that Claimant had engaged in disqualifying “willful misconduct” under Section 402(e) of the Unemployment Compensation Law (Law). We remand.
+Claimant was employed as a check-out clerk for a Thrift Drug Company .store (Employer). In its decision to deny her benefits, the Board made the following pertinent findings of fact:
+2. On April 25,1980, two employer security agents were operating in the store where the claimant worked.
+3. One of these agents purchased a package of cigars for $1.18 and the claimant properly recorded the sale on the cash register and deposited the money in the cash register.
+4. The agent then indicated to the claimant that he was going to look at batteries and left the register area.
+5. The agent did not take his package of cigars with him.
+6. The agent returned to the register with a second package of cigars priced at $1.18.
+7. He placed another $1.18 on the counter and picked up the first package of cigars which he had left there. The agent then left the store.
+8. The claimant did not record a sale on the register, but recorded a “no sale” and deposited the second $1.18 in the cash drawer.
+9. Later that day, the claimant ’s cash register and sales tape were audited and were found to be $0.01 over.
+10. The claimant, who was aware of the employer ’s policy which required each sale to be recorded individually on the register at the time of purchase, was discharged for violating this rule by no,t recording a sale when she placed the second $1.18 in the register and recorded a “no sale. ’ ’
+In her appeal to this Court, Claimant asserts that her conduct in violating Employer’s policy was no.t of a nature sufficient to constitute “willful misconduct” under Section 402(e) of the Law.
+The burden of establishing that an employee was discharged for “willful misconduct” such that will render her ’ineligible for unemployment compensation is on the employer. Bignell v. Unemployment Compensation Board of Review, 61 Pa. Commonwealth Ct. 568, 434 A.2d 869 (1981). Whether certain conduct constitutes “willful misconduct” is a question of law subject to this Court’s review. Nolan v. Unemployment Compensation Board of Review, 57 Pa. Commonwealth Ct. 186, 425 A.2d 1203 (1981). The deliberate violation of an employer’s reasonable work rule ordinarily constitutes disqualifying “willful misconduct” under the Law. Frumento v. Unemployment Compensation Board of Review, 466 Pa. 81, 351 A.2d 631 (1976). Where, however, the rule violation was inadvertent it may not be such “willful misconduct.” Morysville Body Works v. Unemployment Compensation Board of Review, 54 Pa. Commonwealth Ct. 6, 419 A.2d 238 (1980). Once the employer has established a deliberate rule violation, ¡the employee may retain eligibility for unemployment compensation benefits by establishing that there was good cause for the violation. Teasley v. Unemployment Compensation Board of Review, 60 Pa. Commonwealth Ct. 428, 431 A.2d 1155 (1981).
+In the case at bar, .the Board, in finding* that Claimant deliberately violated Employer’s rule, overturned the referee’s determination [that Claimant’s conduct derived from her being confused by the agents’ actions, that it was therefore not a deliberate violation of Employer’s policy -and that Employer had thus failed to meet its burden of 'establishing “willful misconduct.” We fiad the hoard’s decision to be deficient in two respects.
+Firstly, the testimony of Claimant which led the referee to her conclusion was essentially uncontradicted. The only witness present for the Employer was a district personnel representative who conveyed the circumstances leading to Claimant’s discharge as they were reported to her by the agents involved. The Board, in overturning the referee’s findings and determination, gave no reason for its actions. Only now, in its brief to this Court, does the Board 'indicate that its decision was predicated exclusively on the fact that, in light of Claimant’s five .and one-half years .experience as a cashier and her knowledge of Employer’s rules, it deemed her testimony to be incredible. It is well .settled that the Board, as the ultimate finder of fact in unemployment compensation oases, bas the authority to disbelieve a claimant’s uncontradicted testimony where it believes that testimony to be incredible. Rodrigques v. Unemployment Compensation Board of Review, 58 Pa. Commonwealth Ct. 362, 427 A.2d 1255 (1981). Under circumstances ,such as those in the instant case, however, where the Board, as a result of such a belief, .overturns findings of fact of .the referee specifically derived from the claimant’s unrebutted testimony to arrive at a different conclusion than that reached by the referee, the Board must state its reasons for doing so. Treon v. Unemployment Compensation Board of Review, Pa. , 453 A.2d 960 (1982). Accordingly we are obligated to remand the matter to the Board for the formulation of specific findings of fact as to why they have chosen ito disregard the essential findings herein of the referee.
+•Secondly, even were we to find the Board’s decision to be in compliance with the standards established in Treon, we would still be obligated to order a remand. Claimant’s testimony, as discussed in footnote ■two above, aside from indicating that her violation of the rule could have been inadvertent, clearly also raises the issue of whether there was good cause for her actions. The Board, by concluding that Employer established “willful misconduct” on the part of Claimant is thus not free to ignore this issue and must render separate findings of fact directed to its resolution. Teasley; Holomshek v. Unemployment Compensation Board of Review, 39 Pa. Commonwealth Ct. 503, 395 A.2d 708 (1979).
+Order
+Now, March 10, 1983, the decision and order of the Unemployment Compensation Board of Beview, No. B-188785, dated October 20, 1980, is hereby vacated and the matter is remanded for further proceedings consistent with this opinion. Jurisdiction is relinguished.
+Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §892 (e).
+Claimant testified that she was confused by .the agent’s actions and did not see the second package of cigars. She stated that she thus believed that the agent was leaving money to pay for the first pack of cigars, that she had therefore rung up a sale without receiving .any money and 'that she could only then properly enter the money into the register by using the “no sale” key. It was further indicated by Claimant that she believed at the time that, in light of a strong company policy in favor of accurate cash balances in its registers, her course of action was preferable to risking a shortage in her cash drawer and 'that she was unable to call a superior prior to the “pulling” of -her cash drawer a short time later because there was a line of customers. In light of Claimant’s testimony, we find it interesting to note that Claimant's cash drawer, when compared to her tape, had an overage of only $0.01 rather than $1.19. See Holomschek v. Unemployment Compensation Board, of Review, 39 Pa. Commonwealth Ct. 503, 395 A.2d 708 (1979) at n. 1.
