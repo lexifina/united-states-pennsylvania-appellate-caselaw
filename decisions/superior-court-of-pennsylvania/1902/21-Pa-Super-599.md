@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 153"
+decided: "1902-12-13"
+citations: ["21 Pa. Super. 599"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, W. W. Porter and W. D. Porter, JJ."]
+parties: ["Brainerd v. Davis, Appellant."]
+source_url: "https://static.case.law/pa-super/21/cases/0599-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 844271
+cites_cases: ["1 Grant, 204", "1 Pa. Superior Ct. 642", "10 Vt. 274", "11 Phila. 202", "12 Ill. 72", "131 Pa. 137", "154 Pa. 582", "161 Pa. 320", "17 W. N. C. 422", "172 Pa. 252", "178 Pa. 481", "2 P. & W. 301", "2 P. & W. 63", "2 Pa. 62", "2 Watts, 139", "24 Vt. 660", "27 Ill. 337", "28 Ill. 397", "3 W. & S. 295", "36 Pa. 509", "38 Mo. 545", "39 Ill. App. 309", "41 Ill. 397", "5 Minn. 392", "51 Pa. 165", "65 Mo. 494", "7 Watts, 380", "82 Pa. 368", "91 Pa. 234", "92 Pa. 364"]
+---
+
+# Brainerd v. Davis
+
+## Majority (Beaver, J.,)
+
+Opinion by
+Beaver, J.,
+The plaintiff, the trustee in bankruptcy of John W. McFadden, declared in assumpsit upon a book account for goods and merchandise sold and delivered.
+Defendant, in his affidavit of defense, distinctly avers that all of said goods and merchandise, save items aggregating $58.46, were sold and delivered under a special contract, in and by the terms of which the same were to be paid for by the defendant “ in trade, that is, he (defendant) would make gear wheels for said McFadden, and would cut any wheels for which he gave orders and would supply him, McFadden, any stock which defendant bad in hand that McFadden needed from time to time;” that McFadden “subsequently directed the defendant to cut some gears for him, which defendant did, and for which he has been allowed credit by the plaintiff in accordance with said agreement; ” that “ the prices for the work and materials in which the bill of goods purchased by defendant was to be paid, it was agreed should be the usual and customary market prices for such labor and material,” and that defendant has “ always been ready and willing to carry out said agreement in the terms in which it was made.”
+Defendant could not move in carrying out this contract, except at McFadden’s orders. Whether the gear wheels were to be straight or beveled and, if beveled, at what angle, the depth of the cogs and the distance apart all depended upon McFadden. And so of stock or materials on hand; defendant was to supply such as McFadden needed. There could be no tender, therefore, on the part of defendant. He could not take the initiative. He could supply only as McFadden ordered or needed. We think, therefore, the affidavit was good and should have prevented the entry of judgment, except for the amount admitted to be due, viz: $58.46.
+We are aiSked to quash this appeal, because no exception was taken to the action of the court below in entering the judgment and no bill of exceptions specially allowed, and the ground upon which the motion is based is that the affidavit of defense is not a part of the record, until made so by an exception allowed and sealed by the court. If the assumption of the appellant that the affidavit of defense is not a part of the record is correct, his contention would doubtless be well grounded, but it is not correct. The affidavit is a part of the record, necessarily so; else how could the court below pass upon its sufficiency? We intimated in Hutton v. McLaughlin, 1 Pa. Superior Ct. 642, that the statement and affidavit of defense in a case of this kind constituted the record. “ On an appeal from the action of a court of common pleas in granting or refusing judgment for want of a sufficient affidavit of defense nothing but the declaration and affidavit of defense can be considered by this court: Hunter v. Reilly, 36 Pa. 509; Allegheny City v. McCaffrey, 131 Pa. 137; Lane v. Penn Glass Sand Co., 172 Pa. 252.” In Danziger v. Williams, 91 Pa. 234, it was even held that, in an action for a quarter’s rent, the affidavit of defense filed in a previous suit for other rent under the same lease was a part of the record in the second suit, Mr. Justice Paxson, who delivered the opinion, saying: “ The record of the first suit shows that the only defense set up was that the defendant did not lease or occupy the premises, as claimed by the plaintiff. It is true there was no plea filed, but there was an affidavit of defense, in which this single ground of defense was taken. The affidavit is a part of the record and is entitled to be considered when we examine the record of the first suit to ascertain just what was claimed and denied.” The Procedure Act of 1887, P. L. 271, makes no change in this respect. We must, therefore, accept the affidavit as a part of the record for the purposes of this case as the court below did and rule upon its sufficiency, as that is the only question before us.
+We do not think a special bill of exceptions is necessary. The appeal brings the record before us. The cases to which the appellee refers us have no relevancy whatever to the question. The ground upon which the court held, in two of the cases referred to, that, in an appeal from a decree discharging the rule for judgment for want of a sufficient affidavit of defense, a bill of exceptions was necessary, was that the Act of April 18, 1874, P. L. 64, under which a writ of error in such cases was allowed, required an exception. We do not think the motion to quash is well founded and it is, therefore, dismissed.
+Judgment reversed and a procedendo awarded, with leave to the plaintiff to apply to the court below for judgment for the amount admitted to be due.
