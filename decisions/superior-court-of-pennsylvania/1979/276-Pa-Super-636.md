@@ -1,0 +1,21 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "191"
+decided: "1979-12-14"
+citations: ["276 Pa. Super. 636", "424 A.2d 547"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CERCONE, P. J., and WATKINS and LIPEZ, JJ.", "LIPEZ, J. concurred in the result."]
+parties: ["Commonwealth v. Miller, Appellant."]
+source_url: "https://static.case.law/pa-super/276/cases/0636-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 142677
+---
+
+# Commonwealth v. Miller
+
+## Majority
+
+Judgment of sentence affirmed of the able opinion of Judge Durham of the court below.
+LIPEZ, J. concurred in the result.
