@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 275"
+decided: "1941-01-30"
+citations: ["143 Pa. Super. 259"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Bald-rige, Stadteeld, Rhodes and Hirt, JJ."]
+parties: ["Eisenaucher, Appellant, v. Barron."]
+source_url: "https://static.case.law/pa-super/143/cases/0259-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1031792
+cites_cases: ["108 Pa. Superior Ct. 165", "117 Pa. Superior Ct. 605", "119 Pa. Superior Ct. 263", "122 Pa. Superior Ct. 565", "132 Pa. Superior Ct. 96", "133 Pa. Superior Ct. 507", "164 A. 731", "172 A. 293", "178 A. 530", "180 A. 731", "186 A. 404", "200 A. 186", "3 A. 2d 190", "315 Pa. 97"]
+---
+
+# Eisenaucher v. Barron
+
+## Majority (Baldrige, J.,,)
+
+Opinion by
+Baldrige, J.,,
+May a workmen’s compensation agreement for partial disability be reviewed for mistake after the expiration of 300 weeks, is the question involved in this appeal.
+The claimant was employed by the defendant in 1924 as a clerk in his retail store. She worked six days a week at a weekly wage of $20 until 1931, when, owing to a business depression, the defendant arranged with his two clerks that each was to work three days a week at a weekly wage of $10. On December 23, 1932 the claimant sustained a fracture of her left ankle in the course of her employment. A compensation agreement was executed, which set forth that the claimant’s wage was a “fixed weekly wage” of $10, and provided for the payment of compensation for total disability at the rate of $7 a week.
+Compensation was paid thereunder for 56 weeks when a supplemental agreement was entered into, which stated that the claimant’s disability had changed from total to partial and provided for the payment of compensation for partial disability at the rate of $2.60 a week, calculated on a weekly wage of $10. Payments were made under this supplemental agreement for 244 weeks or until September 30, 1938, the end of the 300 week period for the payment of compensation for partial disability.
+On November 21, 1938, the claimant filed a petition to review the agreement under Section 413 of the Act of June 26, 1919, P. L. 642, 661, as amended, 77 PS §771, on the ground that it was executed by mistake as the compensation should have been calculated on the basis of an average weekly wage of $20 instead of $10. Defendant interposed two defenses: (1) that $10 a week was the fixed weekly wage as per contract of hire, and (2) that the petition for review having been filed after the expiration of the 300 week period, was filed too late.
+The referee, without specifically ruling on the question of limitation, found claimant’s daily wage was $3.33-1/3 or a weekly wage of $18.33, and that the agreement was based on a mistake of fact and of law. He awarded the claimant the difference between the amount she received as compensation, based; on an average weekly wage of $10, and the amount of compensation payable on a basis of an average weekly wage of $18.33.
+Upon appeal the board reversed the referee’s award on the ground that the claimant’s petition for review was barred by limitation. The board’s action was affirmed by the court below and judgment entered for defendant. This appeal followed.
+Under Section 413 of the Act of 1919, supra, as amended by the Act of April 13, 1927, P. L. 186, the board was authorized at any time to review and modify or set aside an original or supplemental agreement if it was founded upon a mistake of law or fact. The amendment of this section by the Act of June 4, 1937, P. L. 1552, §1, 77 PS §771, provides that the agreement may be reviewed, modified, or set aside if it “in any material respect is incorrect.” The petition for review in this case alleged a mistake of law in that the claimant’s weekly wage was not calculated according to the decision in Romig v. Champion Blower & Forge Company, 315 Pa. 97, 172 A. 293. We think that case has no application to the question before us as the claimant was employed on a weekly, not a daily basis.
+We have in many cases reviewed Section 413, and have repeatedly held that the phrase “any time” as used therein means that the petition for review must be filed within 300 weeks for partial or 500 weeks for total disability. At the termination of the appropriate period the agreement expires; it no longer has any life. An attempt to modify something that is not in existence is futile. See Zupicick v. P. & R. C. & I. Co., 108 Pa. Superior Ct. 165, 168, 164 A. 731; Kessler v. North Side Packing Company et al., 122 Pa. Superior Ct. 565, 572, 186 A. 404; and Casper v. State Workmen’s Insurance Fund et al., 132 Pa. Superior Ct. 96, 100, 200 A. 186.
+In Lomancik v. Youghiogheny & Ohio Coal Company, 119 Pa. Superior Ct. 263, 180 A. 731, the claimant received a total compensation for 39-2/7 weeks under original and supplemental agreements for total disability. He filed a petition thereafter to have his claim reviewed, alleging that the supplemental agreement had been procured by fraud and coercion and that he was still disabled. The referee and the board sustained his contention, found a partial disability existed, and granted an award which was upheld by the court below. In reversing, we stated that as the claimant, who was injured May 24, 1927, had presented his petition for review after the 300 week period had expired, the award could not stand as the application was made too late to give the compensation authorities jurisdiction under the provisions of the statute.
+While there has been some modification in the language of Section 413 and the ground for seeking to review here is different in character than in those cases we have cited, the reasoning therein is applicable here. A review on any ground may not be had if the 300 week period for partial or 500 week period for total disability has expired. The appellant cites Pete v. MacDonald Engineering Company et al., 117 Pa. Superior Ct. 605, 178 A. 530, where there was a clerical error in the calculation fixing claimant’s weekly compensation. We there said it was not necessary to decide whether a plain clerical mistake comes within our rulings in Zupicick v. P. & R. C. & I. Co., supra, and kindred cases, as the defendant consented to the correcting of the error. Nor are we called upon to do so now as it is not contended by appellant that any clerical mistake was made in the calculation of the amount of her weekly wage as stated in the agreement. Of course if there exists such a mistake in the agreement it can be remedied within the term it has to run, Dazely v. Luckenbach Steamship Co., Inc., 133 Pa. Superior Ct. 507, 3 A. 2d 190.
+We have no alternative but to conclude that the application of the claimant was filed too late.
+Judgment affirmed.
