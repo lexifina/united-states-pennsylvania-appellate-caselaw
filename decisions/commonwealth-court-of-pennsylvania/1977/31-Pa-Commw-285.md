@@ -1,0 +1,38 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1399 C.D. 1976"
+decided: "1977-07-26"
+citations: ["31 Pa. Commw. 285"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Wilkinson, Jr., Mencer and Rogers, sitting as a panel of three."]
+parties: ["Wallace G. Ewing v. Dauphin County Tax Claim Bureau and Harry Thomas. Harry Thomas, Appellant."]
+source_url: "https://static.case.law/pa-commw/31/cases/0285-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1881862
+cites_cases: ["162 A. 161", "221 Pa. 238", "226 Pa. Superior Ct. 351", "308 Pa. 123", "313 A.2d 313", "53 Pa. 122", "70 A. 724"]
+---
+
+# Ewing v. Dauphin County Tax Claim Bureau
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+Harry F. Thomas, Jr. bought two 30 x 150 feet lots at a tax sale conducted by the Tax Claim Bureau of Dauphin County. The lots were exposed to sale for delinquent taxes as the property of “owner unknown.” The sale was conducted in September 1973, and in November 1975 Thomas sent a surveyor to the location of the lots with instructions to stake them out. When this occurred Wallace G. Ewing, who believed he owned the lots, consulted counsel and the lawsuit which led to this appeal was instituted.
+Ewing sued the Dauphin County Tax Claim Bureau and Harry Thomas in equity, seeking an order that the sale to Thomas be set aside and Thomas’s deed be declared a nullity. Ewing asserted that the tax sale was bad because notice of the sale was not posted and that he owned the lots because he had adversely possessed them for upwards of 21 years. Thomas and the Tax Claim Bureau filed answers demanding proof of Ewing’s title by adverse possession, asserting the regularity of the tax sale to Thomas and, in New Matter, asserting that Ewing had no capacity to sue because he had no title to the two lots.
+At the trial Ewing testified that he purchased most of the land included in a plan of lots of which the two lots here in question were a part in 1936, that he cleared the land near his dwelling house including the two lots in question at that time and that, except from 1942 until 1945 when he was in the Army, he kept this land cleared and mowed, and that he did this continuously and in plain view for all to see down to the time of the trial in March of 1976. The several owners of neighboring properties who lived within view of the two lots testified to Mr. Ewing’s attention to the land from, respectively, July 1959, sometime in 1954, and 1961. The same witnesses all testified that no tax sale notice was ever posted on the property prior to the 1973 tax sale to Thomas and the Chancellor properly so found.
+The Chancellor entered a decree nisi cancelling Thomas’s deed subject to reimbursement of the $49 he paid for the lots and declaring that Wallace Gr. Ewing ivas the owner. Thomas alone filed exceptions which were dismissed, and Thomas alone has appealed from the final order below.
+Possession, to be adverse, must be actual, continuous, exclusive, visible, notorious, distinct and hostile for 21 years. Thomas argues that Ewing’s possession was not visible and notorious, not continuous for 21 years, not exclusive and not hostile. lie cites as authority for his contention that Ewing’s possession was not visible and notorious the case of Robin v. Brown, 308 Pa. 123, 162 A. 161 (1932). In that ejectment ease the evidence upon which the defendant claiming title by adverse possession depended was that he surrounded an uncultivated piece of land used as a dumping ground and public commons Avith a fence Avhich it was found that he permitted to become delapidated. The Supreme Court affirmed Judge Finletter’s entry of judgment n.o.v. for the plaintiff, saying that where enclosure is depended on as proof of adverse possession, it must be of substantial character. Ewing does not depend on enclosure; he depends on his clearing of the land in 1936 and his almost uninterrupted care of the property as a lawn since 1945. As photographs in the record reveal, his possession was clearly visible and jnst as clearly notorious.
+Thomas says that Ewing’s possession was not continuous because, although he tended the lots by cutting and on some occasions planting grass, he abandoned the property in the wintertime. The cases relied on by the defendant on this subject, Wheeler v. Winn, 53 Pa. 122 (1866), and Lackawanna Lumber Co. v. Kelley, 221 Pa. 238, 70 A. 724 (1908), are clearly distinguishable. In Wheeler v. Winn the party claiming adverse possession used the property only to herd cattle during the summer, and in Lackawanna v. Kelley the claimant’s activity was that of occasionally trespassing for the purpose of cutting timber. Further, in Lackawanna v. Kelley, the opinion of the trial court, adopted by the Supreme Court, made a particular point of the fact that the claimant by adverse possession had not cultivated the land. Mr. Ewing’s testimony that he tended these lots continuously from 1945 during the season of the year when it needed such attention proved continuous cultivation.
+Thomas’s contention that Ewing’s possession was not exclusive was based on his, Thomas’s, testimony and the testimony of a friend, Paul Wambach, that as children they played in the fields in the general location of these lots and that they were not cultivated. Thomas admitted he had no knowledge of the premises after 1951, and Wambach clearly did not know whether he had ever been on the lots in question. Even if these two parties trespassed at the exact locations of the two lots in their childish games, they could not be said to have shared possession with Ewing.
+Thomas’s final contention that Ewing’s possession was not hostile because Ewing once tried to ascertain the identity of the record owner of the lots, and in 1965 he thought he had purchased the two lots at another tax sale, is without merit. The word hostile in adverse possession proceedings is one of art. It does not mean ill will or hostility; it means only that the person in possession intends to hold title against the record title holder. In Lyons v. Andrews, 226 Pa. Superior Ct. 351, 313 A.2d 313 (1973), a claimant’s possession was held to be hostile even though the claimant believed he owned the land. The same case holds that hostility is inferred if all other elements of possession have been established.
+Hence, the Chancellor’s conclusion that Ewing gained title to the lots in question by adverse possession was correct, as was his conclusion that the tax sale to Thomas was invalid. Section 602 of the Real Estate Tax Sale Law, Act of July 7, 1947, .P.L. 1368, as amended, 72 P.S. §5860.602, requires posting.
+We will therefore affirm the Chancellor’s final order.
+Obdeb
+And Now, this 26th day of July, 1977, the final order of the court below, dated June 30, 1976, is affirmed.
+The case was clearly one for an Action to Quiet Title. Pa. K.C.P. No. 1061. The defendant raised no objection on this account.
+Ewing pleaded in the alternative that he acquired title to the lots in question by deed from the Tax Claim Bureau in April 1965. The court below found, and it is not disputed, that Ewing’s deed did not include the lots in question.
+Lack of capacity to sue is properly raised by preliminary objection. Pa. K.C.P. No. 1017(b)(5).
+The plaintiff moved to quash the appeal because it was not filed within 30 days from the entry of the Chancellor’s final order. AVe dismissed the motion then and confirm that action here. The appeal was taken within 30 days from the date the order was filed as a “separate document" as recently required by Pa. R.A.P. No. 301.
