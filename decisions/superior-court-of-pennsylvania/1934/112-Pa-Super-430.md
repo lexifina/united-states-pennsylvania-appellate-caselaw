@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 188"
+decided: "1934-03-08"
+citations: ["112 Pa. Super. 430"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, Cunningham, Baldrige, Stadtfeld, Parker and James, JJ."]
+parties: ["Estate of Margaret C. Timmins, Deceased."]
+source_url: "https://static.case.law/pa-super/112/cases/0430-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 972591
+cites_cases: ["232 Pa. 159"]
+---
+
+# Estate of Timmins
+
+## Majority (Stadtfeld, J.,)
+
+Opinion by
+Stadtfeld, J.,
+This is an, appeal by Mary E. Devine from the decree of the orphans’ court of Philadelphia County, dismissing exceptions to the disallowance of her claim for services as nurse rendered decedent. The facts are correctly stated in the opinion of the auditing judge Marx, P. J., of orphans’ court of Berks County, specially presiding, from -which we quote as follows: “The decedent was adjudged a lunatic and a guardian of her estate was appointed in 1928. On petition, on November 16, 1923, court of common pleas No. 2 directed payment of $19.50 a week, to this claimant, for support and maintenance of the ward. The guardian complied with this order and no other, or additional order was made. The ward, Margaret C. Timmins, died September 19, 1931. This claim was for services rendered, nursing the ward, from April 25, 1929, to September 19, 1931. Claimant alleged no. express contract. The guardian filed a final account November 7, 1931, in the court of common pleas, and claimant was advised of the time and place of the audit. She did not prosecute her claim there and did not here present a claim adjudicated in that court. On the theory that whatever contract existed was traceable to the guardianship and was subject to adjudication in the common pleas, this court disclaimed jurisdiction and declined to consider the claim. Thereupon claimant applied to the court of common pleas for a reopening of the audit and hearing upon her claim. Reference was made to the notation on the petition for distribution there filed: ‘This claim should be presented before the orphans’ court for the County of Philadelphia at the audit of the estate of Margaret C. Timmins, deceased, where parties in interest under the will will have a right to be heard either on behalf or against this claim.’ The petition for rehearing set forth, inter alia, that on the faith and strength of that notation, the claim was not there presented or heard. The application was dismissed because of the assignment of jurisdiction to this court. It is clear that the claimant should be heard some where. She is entitled to a hearing on the merits of her claim.
+“Claimant was paid for ‘support and maintenance’ of the ward. She now asks payment for ‘nursing’ the ward, 124 weeks, $1,240. The value of the services, as charged, was not disputed. The claim was resisted on the ground of want of liability.
+“For more than five years claimant rendered support and maintenance and received payment according to her contract. The ward’s condition changed so as to require care and nursing. Through 124 weeks these additional services were rendered and claimant now seeks to recover on the theory that they constituted ‘necessaries’ and warrant payment.”
+The claim was disallowed in the opinion by the auditing judge for want of jurisdiction in the orphans’ court. Exceptions to his disallowance were dismissed by the court en banc in an opinion by Yaw Dusen, J.
+The lower court held that as the court appointing the guardian had full power under the Act of May 28, 1907, No. 222 P. L. 292, Sec. 6, (P. S. A. Title 50, Sec. 961), to direct an allowance for the ward, and as the guardian, upon the death of the weak-minded person, filed a full and complete account of its management of the property of the weak-minded person in the court of common pleas, which entered a final decree, which was not reversed or modified, the orphans’ court had no jurisdiction in the matter. The reasoning of the lower court, upon which it based its conclusion, appears in the opinion of Marx, P. J., as follows: “Where one furnishes, as here, necessary nursing to a ward, knowing of the existence of a committee of the ward’s estate and dealing with that committee, under an express order of the court, for maintenance and support of the ward, and continues such nursing through 124 successive weeks, without seeking compensation through the channel she knew to be necessary, the conclusion seems inevitable that she sought no compensation or expected it in the form of a gift. The facts here are quite like those in Wise v. Martin, 232 Pa. 159. ......Furthermore, it does not appear that the compensation paid was not intended to cover* all services rendered by the claimant. The presumption is that it did.”
+The sole question necessary for consideration, in the disposition of this appeal, is whether the fact that a guardian was in charge of the decedent’s estate during the time the alleged claim accrued is a valid reason for disallowing the same. Claimant’s contract was made with the guardian, and she has been fully paid in accordance with the order of the common pleas court. During the entire period of 124 weeks for which additional compensation is now sought, no claim was asserted, nor any modification of the order of the court sought. If claimant was not satisfied to do the extra work for the agreed compensation, she should have contracted with the guardian for a higher sum. Claimant had due notice of the filing of the guardian’s account, and of the time and place of the audit thereon. The decree of distribution was not appealed from, modified or reversed, and is conclusive upon her.
+Nothing can be profitably added to the learned opinion of the auditing judge, and of the opinion of the lower court in disposing of the exceptions to the supplemental adjudication. The cases cited by appellant are readily distinguishable from the instant case.
+The assignments* of error are overruled and the decree of the lower court is affirmed.
