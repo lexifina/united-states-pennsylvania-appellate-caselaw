@@ -1,0 +1,47 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "491"
+decided: "1984-06-08"
+citations: ["328 Pa. Super. 351", "476 A.2d 1366"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before ROWLEY, JOHNSON and POPOVICH, JJ.", "POPOVICH, J., concurred in the result."]
+parties: ["EQUIPMENT FINANCE, INC. v. Edward J. TOTH, Appellant."]
+source_url: "https://static.case.law/pa-super/328/cases/0351-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 607441
+cites_cases: ["198 A.2d 342", "202 Pa.Super. 517", "230 Pa.Super. 403", "257 Pa.Super. 348", "262 Pa.Super. 443", "306 Pa.Super. 137", "322 A.2d 114", "326 A.2d 586", "457 Pa. 255", "480 Pa. 93"]
+---
+
+# Equipment Finance, Inc. v. Toth
+
+## Majority (JOHNSON, Judge:)
+
+JOHNSON, Judge:
+Appellant seeks review of the trial court’s refusal to grant him a jury trial, where he had failed to demand such right by endorsement on a pleading or by a separate writing in compliance with Pa.R.C.P. 1007.1, and where the right was first requested when the case was called for trial. Because we find that appellant failed to comply with the local rules of court governing post-trial review, we conclude the only issue before us to have been waived and we, accordingly, dismiss the appeal.
+Suit had been instituted against appellant to recover an alleged indebtedness owed under the terms of a note and suretyship agreement. After the pleadings had been closed, the case was scheduled for pretrial conciliation. Neither appellant nor his counsel attended the pretrial conciliation conference which was held before a judge of the court of common pleas. Prior to the action being listed for the next trial list, neither party had made a formal demand for a trial by jury.
+On March 10, 1982, the case was regularly called for trial. The Calendar Control Judge, noting that neither party had demanded a jury trial, assigned the case for disposition on a non-jury basis, even though the pretrial conciliation judge had previously entered a pro forma order listing the case on the jury trial list when the case had not settled. Counsel for appellant asserted a claim of a right to trial by jury both to the Calendar Control Judge and the judge to whom the case was assigned for disposition. When this claim was rejected, appellant, through counsel, noted his exception to the court’s ruling. Counsel then withdrew from the trial courtroom.
+The case proceeded and a verdict was entered against appellant in the amount of $234,940.68. Upon receiving the verdict, appellant through counsel filed his exceptions. See Pa.R.C.P. 1038(d). In due course, these exceptions were scheduled for argument before the common pleas court en banc.
+Post-trial proceedings before the court en banc in the Court of Common Pleas of Allegheny County are controlled by Local Rule 249(c)(3). In accordance with that local rule, argument lists before the court en banc are printed in the daily edition of the Pittsburgh Legal Journal at least seventeen (17) days before the date scheduled for argument, all matters to be presented to the court en banc which have been filed twenty (20) or more days before the scheduled date for argument are to be placed on the argument list for that date, and the brief of the moving party is to be filed and served upon all other parties not later than seven (7) days after publication of the argument list.
+Although the date scheduled for argument of the exceptions filed on behalf of the defendant was properly printed in the Pittsburgh Legal Journal, the defendant neither filed a brief in support of his exceptions, in accordance with the local rules of court, nor did he appear at the scheduled argument to argue in support of his exceptions.
+The proper disposition of this case is controlled by Schneider v. Albert Einstein Medical Center, 257 Pa.Super. 348, 390 A.2d 1271 (1978). In that case, the hospital/appellant had raised eleven issues on appeal, after filing timely post-trial motions in the trial court following an adverse verdict. However, the hospital had not pursued its exceptions in the trial court. It neither filed a brief nor participated in oral argument before the trial court on those motions. There, as here, the local rules provided for the filing of briefs within certain time limits on pain of dismissal of the post-trial motions with prejudice. In a plurality opinion by Judge ROBERT VAN der VOORT, this court there concluded that:
+... we cannot countenance the Hospital’s complete avoidance of procedural requirements, which operated to deprive the lower court of any meaningful opportunity to assess the merits of post-trial motions. See Dilliplaine v. Lehigh Valley Trust Co., 457 Pa. 255, 322 A.2d 114 (1974). We therefore deem the hospital to have failed to properly preserve the issues raised in its appeal.
+257 Pa.Super. at 359-60, 390 A.2d at 1277. Cf., Straff v. Nationwide Mutual Fire Insurance Co., 230 Pa.Super. 403, 406-07, 326 A.2d 586, 587-88 (1974) (plurality opinion); Commonwealth v. Prisznyak, 306 Pa.Super. 137, 140-41, 452 A.2d 253, 254 (1982) (panel opinion); Commonwealth v. Dessus, 262 Pa.Super. 443, 452-53, 396 A.2d 1254, 1258 (1978) (majority opinion); Commonwealth v. Holzer, 480 Pa. 93, 100-01, 389 A.2d 101, 105 (1978).
+We agree with the pronouncement by Judge GWI-LYM A. PRICE, Jr., in Straff, supra, as restated by Judge VAN der VOORT in Schneider, that procedural rules, either at the state or local level, are absolutely essential to the orderly administration of justice and the smooth and efficient operation of the judicial process. Every court has a limited power to make such rules as the interest of justice or the business of the court may require. 42 Pa.C.S. § 323. Appellant has not contended, either in his brief or at oral argument, that Allegheny County Local Rule 249(c)(3) regulating the procedure to be followed on post-trial motions is in any way infirm. Nor do we find it so.
+The application, construction and interpretation of a local rule of court are matters primarily to be determined by the court promulgating the local rule and we will interfere only where the court commits an abuse of discretion. Caples v. Klugman, 202 Pa.Super. 517, 520, 198 A.2d 342, 343-44 (1964); accord, Commonwealth v. Prisznyak, 306 Pa.Super. at 140-41, 452 A.2d at 254.
+We recognize that counsel for appellant maintains his office for the practice of law in a county adjacent to the one wherein these proceedings occurred. However, it is clear from the record that opposing counsel also may be described as an “out-of-county” attorney. Opposing counsel had no difficulty appearing as scheduled at both the pretrial conciliation conference and the post-trial argument before the court en banc. Clearly, the filing of post-trial motions must be deemed to impose upon any party the obligation to be familiar with the local rules controlling disposition of the pending motions and the time and place that such motions will be heard.
+We do not find the local rule here under review to be in any way inimical to our unified judicial system under the Constitution of 1968 nor to the statewide practice of law under our Supreme Court’s general rules. Neither the requirement for the publication of argument lists in the daily edition of the Pittsburgh Legal Journal nor the requirement for the filing and service of briefs prior to argument imposes an undue burden, in our view, upon attorneys who desire to practice law in several counties. Appellant does not contend otherwise.
+Where, as here, a party litigant files post-trial motions but fails to either submit timely briefs or appear and argue the motions before a court en banc, we hold that any issues sought to be raised in such motions are waived and will not form the basis for an appeal to a reviewing court.
+Accordingly, the appeal is dismissed.
+POPOVICH, J., concurred in the result.
+. When the case was called for trial, appellant’s counsel moved "to proceed to jury trial nunc pro tunc.” Upon inquiry from the trial judge, counsel advised the court that appellant was "in the courthouse” but "not in the courtroom right now.” (N.T., March 10, 1982, at 3-4.)
+. Allegheny County Court of Common Pleas, Civil Division and Family Division, Local Rule 249(c)(3) provides, in pertinent part:
+(c)*(3) Court En Banc.
+(a) ...
+(b) ...
+(c) Arguments shall be scheduled in accordance with the court calendar. Lists shall be prepared by the Administrative Judge.
+(d) Argument lists shall be printed in the daily edition of the Pittsburgh Legal Journal at least seventeen (17) days before the date scheduled for argument.
+(e) All matters to be presented to the court en banc which have been filed twenty (20) or more days before a scheduled date for argument shall be placed on the argument list for that date.
+(f) The brief(s) on behalf of the moving party(ies) shall be filed and served upon all other parties no later than seven (7) days after publication of the argument list, except that the brief(s) on behalf of the moving party(ies) in motions for judgment on the pleadings and motions for summary judgment shall accompany the motions at the time of presentation and [be] served upon opposing counsel, and/or party(ies) within five (5) days thereafter...
+(Amended February 15, 1977, effective immediately; further amended June 1, 1982, effective immediately.)
