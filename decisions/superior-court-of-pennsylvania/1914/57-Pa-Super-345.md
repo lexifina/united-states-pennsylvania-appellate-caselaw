@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 37"
+decided: "1914-07-15"
+citations: ["57 Pa. Super. 345"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, Head, Porter and Henderson, JJ."]
+parties: ["Marcus, Appellant, v. People’s National Bank."]
+source_url: "https://static.case.law/pa-super/57/cases/0345-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 444596
+cites_cases: ["159 Pa. 46", "17 L. R. A. (N. S.) 519", "196 Pa. 230", "221 Pa. 599", "27 Pa. Superior Ct. 613"]
+---
+
+# Marcus v. People's National Bank
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+There is no uncertainty in regard to the relation of a bank to its depositor with reference to the payment of the checks of the latter. The implied agreement of the bank is to pay such checks to the persons therein appointed to be paid. If payable to order payment must be made to the payee or to such other person as is the holder by a genuine indorsement. Where payment from a depositor’s account is made on a check containing a forged indorsement the bank remains liable to the depositor unless the party against whom it is sought to enforce such payment is precluded from setting up the forgery or want of authority. This rule is embodied in the Notes and Bills Act of 1901. No specification is made either in the decisions of the Supreme Court or in the statute of the acts which will estop the party owning the fund from setting up a forgery, but it has been well declared that where the loss is the result of the drawer’s own fault or neglect he has no standing to complain of the action of the bank in paying the check. It was said in Iron City National Bank v. Fort Pitt National Bank, 159 Pa. 46, that “it is always a good defense that.the loss complained of is the result of the complainant’s own fault or neglect and it would require a statute in very explicit terms to do away with so universal a principle of law founded on so incontestable a principle of justice.” A duty rests on a depositor not to subject the bank to extraordinary risks with regard to the payment of his checks, such as intrusting a check to one who he has reason to suppose will make a fraudulent use of it, or in so carelessly filling up a check that it may easily be altered; and in Land, Title and Trust Co. v. Northwestern National Bank, 196 Pa. 230, the issuing of a check to a fictitious person was included in the class of acts which deprived the depositor of the protection of the rule referred to. It was there said that its application is confined to cases in which the depositor has done nothing to increase the risk of the bank. This risk is increased when a check is issued to a nonexisting person, for as was stated in the case last cited the bank is deprived of the protection afforded by the fact that a bona fide holder of a check will exercise care to preserve it from loss or theft which are the ordinary risks. In the case of Snyder v. Corn Ex. National Bank, 221 Pa. 599, Mr. Justice Brown quotes with approval from Land, Title and Trust Co. v. Northwestern National Bank, supra, as to the effect of issuing a check to a fictitious person and the effect of any act done by the drawer of the check increasing the risk of the bank. There is no dispute with regard to the facts in the case before us and the application of the law as expressed in the cases cited sustains the action of the trial judge. It is conceded that the payees named in the checks did not exist; the checks were drawn by the maker payable to imaginary persons. The plaintiff having confidence in Moskovitz accepted his statements that the transactions were loans to the persons named and handed the checks to Moskovitz to be delivered to the supposed borrowers. The whole transaction was between the plaintiff and Moskovitz so far as the pretended lending of money and the payment by the plaintiff to the borrowers were concerned. The effect of the drawing ■ of the checks on the bank was an implied representation by the drawer that the payees were existing persons and yet there could not be a genuine indorsement of such papers. It is not reasonable to charge the bank with the consequences of the payment of a forged indorsement when the plaintiff put in circulation checks which were not susceptible of a genuine indorsement. The case is one for the application of the rule that as between two innocent parties he who by his acting makes loss possible, must bear it. That the plaintiff was overconfident and that he was cheated by Moskovitz whom he was befriending is very evident, but we are not persuaded that there is substantial ground for shifting the result of his credulity to the bank which was in no way responsible for the putting of the checks in circulation.
+The judgment is affirmed.
