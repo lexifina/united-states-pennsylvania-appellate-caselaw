@@ -1,0 +1,35 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "848"
+decided: "1982-10-29"
+citations: ["307 Pa. Super. 274", "453 A.2d 349"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CERCONE, President Judge, and WIEAND and HOFFMAN, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Christina M. IVEY, Appellant."]
+source_url: "https://static.case.law/pa-super/307/cases/0274-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 204434
+cites_cases: ["249 Pa.Superior Ct. 1", "281 Pa.Superior Ct. 92", "288 Pa.Superior Ct. 290", "289 Pa.Superior Ct. 22", "290 Pa.Superior Ct. 158", "292 Pa.Superior Ct. 224", "293 Pa.Superior Ct. 381"]
+---
+
+# Commonwealth v. Ivey
+
+## Majority (PER CURIAM:)
+
+PER CURIAM:
+This is an appeal from the judgment of sentence of the Court of Common Pleas of Montgomery County which imposed on appellant a fine of $69.00 plus costs for a violation of the Vehicle Code, 75 Pa.C.S.A. § 3362(a)(2), exceeding the maximum speed limit. Appellant was found guilty of driving her vehicle seventy-seven miles per hour in a fifty-five miles per hour zone, first by her local district justice, and again, after proceedings in a de novo trial on the charge on March 6, 1980. This appeal followed.
+We are again presented with the situation in which the appellant has not been apprised of his right to file post-verdict motions, and therefore, are constrained to remand this case for that reason. As this Court stated in Commonwealth v. Picker, 293 Pa.Superior Ct. 381, 439 A.2d 162 (1981):
+The state of this record is reflective of the confusion which existed in the legal community before our en banc decision in Commonwealth v. Koch, 288 Pa.Superior Ct. 290, 431 A.2d 1052 (1981). That decision made it clear that post-verdict motions are required to be filed in order to preserve issues for appeal after the pronouncement of guilt in de novo trials held upon an appeal from the decision of a district justice. Id. See also Pa.R.Crim.P. 1123 and recent comment thereto. In the present case, we note that there were no post-verdict motions filed. We cannot, however, find a waiver on this basis because the lower court never apprised appellant Picker on the record of his right to file post-verdict motions as is mandated that the court do under Pa.R.Crim.Pr. 1123(c). Commonwealth v. Koch, supra. See also Commonwealth v. Johnston, 292 Pa.Superior Ct. 224, 437 A.2d 16 (1981); Commonwealth v. Williams, 290 Pa.Superior Ct. 158, 434 A.2d 179 (1981). Cf. cases with respect to motions to modify sentence under Pa.R.Crim.P. 1405(c), Commonwealth v. Koziel, 289 Pa.Superior Ct. 22, 432 A.2d 1031 (1981); Commonwealth v. Rush, 281 Pa.Superior Ct. 92, 421 A.2d 1163 (1980). In fact, the lower court, just as the lower courts in Koch, Williams and Johnston improperly pronounced verdict and sentence simultaneously through a written order made subsequent to the conclusion of the de novo trial. This effectively precluded the appellant from having the opportunity to file post-verdict motions which should properly be filed after the verdict is rendered, but before sentence, in this case a fine, is imposed. See Comment to Pa.R.Crim.P. 1123. The proper procedure for litigants to follow in this situation would be to file a motion to vacate the improperly imposed judgment of sentence in order to allow for the filing of post-verdict motions. Appellant, Picker, however, should not be faulted for his failure to do so because of the confusion which existed before Koch and the recent amendments to the Comments to Rules 67 and 1123 of the Rules of Criminal Procedure. See Commonwealth v. Johnston, supra [292 Pa. Superior Ct.] at 224 n. 3, 437 A.2d at 18 n. 3.
+Finally, we note that in this case the lower court, pursuant to Pa.R.App.P. 1925(b), issued an order directing appellant to file of record a concise statement of the matters complained of on appeal. Thus, the appellant did so and the lower court specifically addressed these issues in its opinion in support of an order pursuant to Pa.R. App.P. 1925(a). This, however helpful, is certainly not an adequate substitute for the filing of post-verdict motions because the latter ask the lower court to reconsider its decision in light of alleged errors whereas the former simply requires the court to justify and articulate the reasons for its decision. This distinction is crucial in light of the fact that one of the main purposes for requiring post-verdict motions is to give the lower court an opportunity to correct asserted errors at that early stage without necessitating the expenditure of time and judicial energy in taking a costly appeal to the appellate courts. See Commonwealth v. Koch, 288 Pa.Superior Ct. at 296, 431 A.2d at 1055. In Koch, we stated that “[t]he purpose of such motions is twofold: (1) to afford the trial court in the first instance, the opportunity to correct asserted trial errors; and (2) to clearly and narrowly frame issues for appellate review. Commonwealth v. Kinsey, 249 Pa.Superior Ct. 1, 375 A.2d 727 (1977).” While a concise statement of matters complained of on appeal may narrow the issues for review, it does not allow the lower court the opportunity to correct its errors because the notice of appeal has already been filed and the lower court is thereby divested of jurisdiction to act further on the case. Pa.R.App.P. 1701(a).
+Id., 293 Pa.Superior Ct. at 383-85, 439 A.2d at 163-64.
+Additionally, in this case, appellant’s fourth issue was not raised in either her concise statement of the matters complained of on appeal, nor in the supplement to that statement. Therefore, the lower court was not even afforded an opportunity to justify and articulate the reasons for its decision on this issue.
+For all of the foregoing reasons, the judgment of sentence is vacated and the case is remanded for the filing of post-verdict motions nunc pro tunc.
+Jurisdiction is relinquished.
+. Appellant does not challenge the sufficiency of the evidence against her, but rather, raises these questions on appeal:
+1. Having granted the Commonwealth a continuance expressly conditioned upon production of a physician’s certificate and the Commonwealth being unable to produce the same because the allegation of sickness was false, [sic] was the trial court bound by its alternative ruling that the case be dismissed?
+2. Did an adjudication of guilt and imposition of sentence, without hearing and during pendency of trial, [sic] so violate fundamental standards of due process as to require defendant be discharged?
+3. The defendant having appeared for trial as ordered and, on the basis of an erroneously entered prior adjudication of guilt, having been denied both a hearing and the opportunity to confront her accuser, should she have been discharged?
+4. Was the tried court’s refusal to receive evidence in support of pretrial motions such a denial of due process as to require defendant be discharged?
+Brief for appellant, p. 3.
