@@ -1,0 +1,40 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1261 C.D. 1975"
+decided: "1977-01-28"
+citations: ["28 Pa. Commw. 377"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Kramer, Wilkinson, Jr. and Rogers, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania, Department of Public Welfare v. Joseph C. Mawn, Appellant."]
+source_url: "https://static.case.law/pa-commw/28/cases/0377-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1878326
+cites_cases: ["17 Pa. Commonwealth Ct. 9", "207 A.2d 784", "225 A.2d 543", "281 A.2d 170", "293 A.2d 147", "3 Pa. Commonwealth Ct. 230", "309 A.2d 69", "330 A.2d 271", "417 Pa. 372", "424 Pa. 146", "6 Pa. Commonwealth Ct. 82", "9 Pa. Commonwealth Ct. 582"]
+---
+
+# Commonwealth v. Mawn
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+In Mawn v. State Civil Service Commission, 17 Pa. Commonwealth Ct. 9, 330 A.2d 271 (1975), we set aside an order of the State Civil Service Commission dismissing- Mawn’s appeal to the Commission from a determination by the Commission that he was not eligible for promotion to the. position of Public Welfare Administrator V, - so that he might be director of the Lackawanna County Board of Assistance. We remanded the record to the Commission for a new hearing so that Mr. Mawn might testify as to conversations with one Mrs. Kathryn McKenna, Acting' Regional Deputy Secretary of Welfare for Northeastern Pennsylvania, which testimony we concluded was improperly excluded at the first hearing. The purpose of the testimony referred to was to prove that Mrs. McKenna wás motivated by anti-union bias against Mawn, a former union president, when she intervened with the State Civil Service Commission to declare Mawn ineligible to be a Public Welfare Administrator V and that the declaration of -ineligibility was, therefore, based on unlawful discrimination in violation of Section 905.1 of the Civil Service Act, Act of August 5, 1941, P.L. 752, as amended, 71 P.S. §741.-905a.
+As we directed, the Commission conducted a hearing at which Mawn testified concerning his conversation with Mrs. McKenna and Mrs.-McKenna testified that she said nothing derogatory about unions.or Mr. Mawn’s affiliations with unions.
+A brief summary of the evidence adduced respectively by Mr. Mawn and the respondents is as follows:
+Mr. Mawn, with corroboration of friends, testified that on June 4, 1973 the chief evaluator for the State Civil Service Commission furnished him with a certification of his eligibility as Public Welfare Administrator Y, and that the executive director of the Commission told him to have the Lackawanna County Board of Assistance send his name to the Commission and that he, Mawn, would be certified for the job of director of that agency; that the County Board elected him its director on June 11, 1973; that on June 12, 1973 Mrs. McKenna prevented him from taldng the position as director, asserting that he was unqualified and ineligible; that Mrs. McKenna at a subsequent meeting questioned Mr. Mawn as to his union work and affiliations and told him to forget about getting a promotion in the Department of Welfare so long as he was in the union; and that, apparently as a result of Mrs. McKenna’s protestations, the State Civil Service Commission, on July 6, 1973, made a determination in writing that Mr. Mawn was not. eligible to be a Public Welfare Administrator V and hence not qualified to be director of a County Board of Assistance.
+On the part of the respondent, the executive director of the Commission denied that he told Mr. Mawn and his friends that Mr. Mawn was eligible, or would be certified by the Commission, for the job of director of the Lackawanna County Board of Assistance; the chief evaluator of the State Civil Service Commission testified that he did not tell Mr. Mawn that he was eligible to be Public Welfare Administrator V on June 4, 1973, and that the written certification which he delivered to Mr. Mawn on that date was intended to be conditioned on a proposed, but not yet adopted, change in specifications for the position by the Department of Welfare, of which fact he advised Mr. Mawn when he gave him this certification; and that he, the chief evaluator had erred when he executed the certification without qualification. Mrs. McKenna categorically denied that she told Mr. Mawn that he could not expect promotion in the Department of Welfare because of union affiliation or activities or that she had or expressed anti-union bias.
+After the second hearing the Commission made the following findings:
+13. On June 4, 1973, appellant was given an evalution form by the Chief of Evaluation of the State Civil Service Commission, indicating appellant was eligible for the class of Public Welfare Administrator V, contingent upon a change in specifications and substantiation of claimed experience.
+15. Appellant was orally informed his eligibility was based on approval of the proposed class specification change.
+17. Appellant was never told he could not be appointed or promoted to the position of Public Welfare Administrator V if he was a member of the Union.
+18. The Deputy Secretary for the Department of Public Welfare for the Northeastern Eegion of the Commonwealth did not conspire with or arrange with the State Civil Service Commission to prevent the appointment of appellant to a position as Public Welfare Administrator V.
+19. There was no discrimination or non-merit factors employed against appellant.
+20. Appellant was declared ineligible for tbe position of Public Welfare Administrator Y for not possessing tbe necessary administrative experience in a public welfare agency by letter of the State Civil Service Commission dated July 6, 1973, to the Department of Public Welfare.
+22. Appellant was informed by telephone on June 6, 1973, that his approval was contingent upon a change in class specifications and documentation.
+23. Richard A. Rosenberry, Executive Director of the State Civil Service Commission, had no conversation with Paul A. Notz or anyone else concerning the appellant being qualified for the position.
+24. The testimony of appellant and his witnesses is not credible.
+Mr. Mawn’s position was and is that, after being given a certification of eligibility on June 4, 1973, he was declared to be ineligible on July 6, 1973 as a result of the union bias of Mrs. McKenna who was able to influence the State Civil Service Commission to reverse its determination of his eligibility to be a Public Welfare Administrator V. One asserting that an unfavorable personnel action was the result of discrimination has the burden of proof; and we may not disturb findings adverse to the claimant unless the fact-finder has capriciously disregarded competent evidence of such discrimination. Hunter v. Jones, 417 Pa. 372, 207 A.2d 784 (1965); Beard v. State Civil Service Commission, 424 Pa. 146, 225 A.2d 543 (1967); Angel v. State Civil Service Commission, 9 Pa. Commonwealth Ct. 582, 309 A.2d 69 (1973) . In a case where testimony is conflicting it is for the fact-finder, not the reviewing court, to determine which witnesses are to be believed. Mettee v. Civil Service Commission, 6 Pa. Commonwealth Ct. 82, 293 A.2d 147 (1972). The court may not weigh the evidence or substitute its judgment on factual matters for that of the fact finder. Gibbs v. Civil Service Commission, 3 Pa. Commonwealth Ct. 230, 281 A.2d 170 (1971). Hence., here, the Commission chose to believe Mrs. McKenna’s denial of bias or improper motive and the, Commission witnesses’ explanation for the certificate of eligibility issued to Mr. Mawn. A reading of the new Commission adjudication reveals no evidence favorable to the appellant which was disregarded and we must therefore make the following:
+Order
+And Now, this 28th day of January, 1977, the order of the State Civil Service Commission made August 6,1975 dismissing the appeal of Joseph C. Mawn is affirmed.
