@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 321"
+decided: "1967-12-14"
+citations: ["211 Pa. Super. 323"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, P. J., Wright, Watkins, Montgomery, Jacobs, Hoffman, and Spaulding, JJ.", "Montgomery and Jacobs, JJ., dissent."]
+parties: ["Casey, Appellant, v. Donut Fair, Inc."]
+source_url: "https://static.case.law/pa-super/211/cases/0323-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 781418
+cites_cases: ["152 A. 2d 173", "19 A. 2d 165", "194 A. 2d 189", "208 A. 2d 252", "210 Pa. Superior Ct. 280", "232 A. 2d 73", "341 Pa. 177", "396 Pa. 592", "412 Pa. 166", "417 Pa. 135"]
+---
+
+# Casey v. Donut Fair, Inc.
+
+## Majority (Watkins, J.,)
+
+Opinion by
+Watkins, J.,
+Tills is an appeal in a workmen’s compensation case from the judgment of the Court of Common Pleas No. 3 of Philadelphia County by the claimant-appellant, Mary Lee Casey, widow of William R. Casey, deceased, employee of Donut Fair, Inc., the defendantappellee, holding that the claimant decedent was not in the course of his employment at the time he met his death in an automobile accident and so is not entitled to benefits.
+The procedural history is important in the disposition of this appeal. The Referee awarded benefits; the Workmen’s Compensation Board affirmed on March 12, 1964; the accident occurred in Montgomery County; the claimant was a permanent resident of Montgomery County; and the permanent place of business of the defendant corporation was in Montgomery County.
+Section 427 of the Workmen’s Compensation Law, 77 PS §872, reads as follows: “Any party may appeal from any action of the board on matters of the law to the court of common pleas of the county in which the accident occurred or of the county in which the adverse party resides or has a permanent place of business, or, by agreement of the parties, to the court of common pleas of any other county of this Commonwealth: . . .”
+This clearly shows absence of jurisdiction of the subject matter in Philadelphia County except by express agreement of the parties entered into and the appeal taken before the expiration of the statutory twenty-day period provided in §427 of the Workmen’s Compensation Law, 77 PS §873. The defendant filed its appeal eighteen days after the decision of the Workmen’s Compensation Board in Philadelphia County. On September 23, 1964, claimant-appellant’s counsel entered an appearance and at the same time a motion to quash on the jurisdictional ground and for the further purpose of substituting new counsel for counsel that had withdrawn. In the meanwhile a petition was filed by the appellee for a rehearing before the board while the appeal was pending, which was denied by the board and is nnappealed from.
+Judge Kelley of the court below, after argument, held that although it is admitted that there was no express agreement as provided in the Act, that the entry of an appearance, which the court treated as a general appearance, accomplished a waiver of the jurisdictional defects. Claimant-appellant’s petition to quash was denied. A petition to reconsider and permit a hearing on the matter was filed before Judge Kelley, which was also denied.
+The claimant-appellant appealed to the Superior Court from both decisions of Judge Kelley. The appeals were denied, in the one instance, as interlocutory, and in the other, that more than fifteen days had passed since the date of the order. The orders of this Court were dated July 16, 1965 and July 23, 1965 to No. 13 October Term, 1965.
+The Act of Assembly that permits the acquisition of jurisdiction of the subject matter must be strictly construed. The entry of an appearance, even when considered a general appearance cannot be a substitute for the agreement required nor constitute a waiver of the required agreement. It follows from the Act of Assembly that the agreement should be executed within the twenty-day period of appeal which most certainly was not true in this case, if we treat the appearance as an agreement. “Lack of jurisdiction of the subject matter may be raised at any time and it is fatal at any stage of the proceedings. Patterson’s Estate, 341 Pa. 177, 19 A. 2d 165 (1941). Jurisdiction of the subject matter cannot be acquired by a court through consent, waiver or estoppel of the parties. Bell Appeal, 396 Pa. 592, 152 A. 2d 173 (1959).” Com. ex rel. Posnansky v. Posnansky, 210 Pa. Superior Ct. 280, 282, 232 A. 2d 73 (1967).
+It should also be pointed out that in C. E. Williams Co. v. H. B. Pancoast Co., 412 Pa. 166, 194 A. 2d 189 (1963), upon which the court below relied, the Court said at page 170: “Now it may be said generally that an appearance for a purpose other than that of objecting to the jurisdiction of the court is usually considered a general appearance.” In the instant case the appearance was entered simultaneously with the petition to quash on jurisdictional ground. The doctrine of “general appearance” has been reviewed and clarified by the Supreme Court in Monaco v. Montgomery Cab Co., 417 Pa. 135, 208 A. 2d 252 (1965). It holds that the doctrine has been overruled by the Pennsylvania Rules of Civil Procedure. Pa. R.C.P. Rule 1012 provides as follows : “A party may enter a written appearance which shall state an address within the Commonwealth at which papers may be served. Such appearance shall not constitute a waiver of the right to raise any defense including questions of jurisdiction or venue.”
+The appeal in this case was taken from the judgment in favor of the defendant and against the claimant-appellant entered by Judge Spaeth of the court below. However, the jurisdictional question was raised before Judge Spaeth and he discussed it before entering into the merits as follows: “Claimant argues that this Court should review and set aside Judge Kelley’s order. HoAvever, this Court will not; the order Avas by a Court of concurrent jurisdiction and is the laAV of the case.” He also made the following statement in a footnote: “Defendant has argued that Judge Kelley’s order is final and will not be reviewed even by the Superior Court, should claimant take another appeal there. Defendant’s theory is that the Superior Court’s order of July 25, 1965, means that the Superior Court will not review Judge Kelley’s order. That, however, is for the Superior Court to say.”
+As we held in Com. ex rel. Posnansky v. Posnansky, supra, lack of jurisdiction of tlie subject matter can be raised at any time and it is now properly before us. If the Court of Common Pleas did not bave jurisdiction of the subject matter in tbe instant case, its judgment on the merits is a nullity.
+Judgment of the Court of Common Pleas is reversed and the decision of the Workmen’s Compensation Board is reinstated.
+Montgomery and Jacobs, JJ., dissent.
