@@ -1,0 +1,52 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1576 C.D. 1993"
+decided: "1994-05-24"
+citations: ["164 Pa. Commw. 301", "643 A.2d 139"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DOYLE, and FRIEDMAN, JJ., and LORD, Senior Judge."]
+parties: ["COMMONWEALTH of Pennsylvania, DEPARTMENT OF PUBLIC WELFARE, Appellant, v. MARYLAND CASUALTY COMPANY c/o John Burger."]
+source_url: "https://static.case.law/pa-commw/164/cases/0301-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1461137
+cites_cases: ["137 Pa.Commonwealth Ct. 103", "417 Pa.Superior Ct. 85", "533 Pa. 646", "533 Pa. 662", "622 A.2d 1377", "625 A.2d 1195"]
+---
+
+# Commonwealth v. Maryland Casualty Co.
+
+## Majority (FRIEDMAN, Judge.)
+
+FRIEDMAN, Judge.
+The Department of Public Welfare (DPW) appeals from an order of the Court of Common Pleas of Dauphin County granting Maryland Casualty Company’s motion for judgment on the pleadings on grounds that DPW’s suit against Maryland Casualty Company was barred by the statute of limitations. We affirm.
+The facts of this case as set forth in the complaint are as follows: On August 7, 1985, while covered by a no-fault automobile insurance policy with Maryland Casualty, Diane Tischler, then six months pregnant, was in an automobile accident caused by a driver who failed to observe a stop sign. As a result of the auto accident, Diane Tischler went into premature labor and delivered twin sons early. Jason Tischler survived, but Shawn Tischler died in January 1986. DPW paid $2,433 in medical assistance for Diane Tischler’s medical treatment, $12,061 for Jason Tischler’s medical treatment, and $39,891 for Shawn Tischler’s treatment.
+On May 22,1992, nearly seven years after the auto accident, DPW sought subrogation from Maryland Casualty in the total amount of $54,285, pursuant to §§ 1404(b) and 1409 of the Act of June 13, 1967, 62 P.S. § 1404(b) and § 1409 (hereinafter, § 1404 and § 1409).
+Section 1404(b) provides:
+Any person applying for medical assistance benefits shall as a condition to eligibility, give the department the right of subrogation to any other private or public health insurance benefits to which such person is or may become entitled.
+Section 1409 provides in pertinent part:
+(a)(3) Each publicly funded health care program that furnishes or pays for health care services to a recipient having private care coverage shall be entitled to be subrogated to the rights that such person has against the insurer of such coverage to the extent of the health care services rendered. Such action may be brought within three years from the date that service was rendered such person.
+Maryland Casualty moved for judgment on the pleadings, which the trial court granted based on the five-year statute of limitations found in § 1409(b)(4), which provides:
+Where an action is brought by the department pursuant to this section, it shall be commenced within five years of the date the cause of action arises.
+On appeal, DPW concedes, as it did at the trial level, that any action under § 1409 is time-barred. DPW maintains, however, that it should be able to proceed with its subrogation action under § 1404(b). In addition, DPW contends that it should be able to proceed with its subrogation action pursuant to Section 5 of the Act of June 24, 1937, P.L. 2045, 62 P.S. § 1975 (hereinafter, § 1975), which provides:
+(a) Whenever any person shall become a public charge or receive public assistance, the public body or public agency caring for or furnishing such assistance may sue for and recover any sum of money due such person;
+(b) Such suit shall be brought in the name of such person for the use of such public body or public agency.... If the amount due shall have been reduced to judgment, the public body or public agency may be substituted as plaintiff in the judgment. If the sum due is founded on an order or decree of court, the public body or public agency shall have the right to recover the same.
+We reject DPW’s argument that it is entitled to proceed with its subrogation action against Maryland Casualty pursuant to § 1975. DPW never pled § 1975 in its complaint. Furthermore, § 1975(b) requires actions based upon § 1975 to be brought in the name of the person(s) who received public assistance unless the cause of action has already been reduced to judgment. In this case, there is no allegation that the Tischlers have obtained a judgment against Maryland Casualty.
+We must also reject DPW’s argument that it may proceed under § 1404. § 1404 does not provide a cause of action independent from that contained in § 1409. To the contrary, § 1404 addresses only the relationship between the medical assistance recipient and the provider of the medical assistance payments, providing that receiving medical assistance is contingent upon the recipient giving the department the right of subrogation to any health insurance benefits to which the recipient is entitled. Section 1404 does not in itself authorize an independent action to recover from a third party any monies paid to the recipient. Rather, the authorization to bring such a suit is contained in § 1409. Suits under § 1409 are limited by a five-year statute of limitations. As we have already noted, DPW concedes that five years has already passed.
+DPW argues that the doctrine of nullum tempus occurrit regi (“time does not run against the king”) applies to this case. We disagree. If the statute of limitations expressly limits the time in which the Commonwealth may bring an action, then the doctrine of nullum tempus does not apply. Stroudsburg Area School District v. RKR Associates, 417 Pa.Superior Ct. 85, 611 A.2d 1276 (1992) appeal denied 533 Pa. 646, 622 A.2d 1377 (1993) and 533 Pa. 662, 625 A.2d 1195 (1993). Here, § 1409(b)(4) expressly imposes a five-year statute of limitations upon the Commonwealth in actions brought under that section. Therefore, nullum tempus is clearly inapplicable.
+Affirmed.
+ORDER
+AND NOW, this 24th day of May, 1994, the June 4, 1993 order of the Court of Common Pleas of Dauphin County is affirmed.
+. In reviewing a grant of judgment on the pleadings, our scope of review is limited to determining whether the trial court committed an error of law or abused its discretion. Ithier v. City of Philadelphia, 137 Pa.Commonwealth Ct. 103, 585 A.2d 564 (1991). The opposing parties' well-pled allegations are viewed as true, but only those facts specifically admitted by the opposing party may be considered against him. Id. The motion may only be granted where no material facts are at issue and the law is clear that a trial would be fruitless exercise. Id.
+. Because DPW has waived any argument under § 1975, we need not address whether DPW may proceed with Jason Tischler's action which, under 75 Pa.C.S. § 1721, does not expire until four years after he attains the age of 18.
+. Because DPW has waived its right to proceed under § 1975, we must decline to address whether nullum tempus applies to actions brought under that statute.
+
+## Concurring in part and dissenting in part (DOYLE, Judge,)
+
+DOYLE, Judge,
+concurring and dissenting.
+I concur in the well-reasoned opinion of the majority, except for one small part, and I dissent from that part which determined that the subrogation interest of the Department of Public Welfare for Jason Tischler’s action is precluded because the Department of Public Welfare asserts its subrogation interest through Section 5 of the Public Welfare Code, 62 P.S. § 1975.
+In my view, the Department of Public Welfare’s subrogation interest is conferred by Section 1975 of the Code, but the five-year statute of limitations under Section 1409(b)(4) of the Code is extended under Section 1721(b) of the Vehicle Code, 75 Pa.C.S. § 1721(b), which provides as follows:
+(b) Minors. — For minors entitled to benefits described in section 1711 (relating to required benefits) or 1712 (relating to availability of benefits), an action for benefits shall be commenced within four years from the date on which the injured minor attains 18 years of age.
+I would hold, therefore, that the Department of Public Welfare’s subrogation interest is not time-barred for Jason Tischler’s claim for $12,061.
+. Act of June 24, 1937, P.L. 2045, 62 P.S. § 1975.
