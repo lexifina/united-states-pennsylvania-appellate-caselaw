@@ -1,0 +1,34 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 670 C.D. 1982"
+decided: "1983-07-15"
+citations: ["75 Pa. Commw. 486"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Blatt, MacPhail and Doyle, sitting as a panel of three."]
+parties: ["The County of Luzerne, Appellant v. Robert Louis Ceccoli and Mary Ceccoli, his wife, Appellees."]
+source_url: "https://static.case.law/pa-commw/75/cases/0486-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1310800
+cites_cases: ["1 Pa. Commonwealth Ct. 66", "236 A.2d 112", "252 A.2d 650", "266 A.2d 718", "272 A.2d 279", "33 A.2d 22", "347 Pa. 622", "428 Pa. 74", "434 Pa. 172", "439 Pa. 333"]
+---
+
+# County of Luzerne v. Ceccoli
+
+## Majority (Judge Doyle,)
+
+Opinion by
+Judge Doyle,
+This appeal involves a claim for damages for the condemnation of 16.682 acres of unimproved land pursuant to the Eminent Domain Code. The land in question was owned by Robert Louis Ceccoli and Mary Ceccoli, his wife, and was condemned by Luzerne County (County) to preserve the integrity of the flood protection system in the Wyoming Valley. A Board of View awarded the landowners $63,000 and the landowners appealed to the Court of Common Pleas of Luzerne County. A jury returned a verdict for $87,000 in favor of the landowners. The County filed a timely motion for a new trial which was denied by the court of common pleas en banc. This appeal followed.
+It is undisputed that at the time of the taking and for many years prior, the land in question had been used for farming. At the jury trial in the court of common pleas, the landowners and the landowners’ expert witness testified that the highest and best use of the land was for recreational purposes and valued the land accordingly. The County alleges error as a matter of law in the allowance of the testimony over the objection of counsel for the County.
+“The market value of condemned property need not be measured in terms of the existing use of that land.” Condemnation by the Pennsylvania Turnpike Commission, 1 Pa. Commonwealth Ct. 66, 69, 272 A.2d 279, 281 (1970). “Recovery based upon a nonexisting use, however, may not be based upon ‘remote chances or future possibilities.’ ” Id. (quoting Stoner v. Metropolitan Edison Co., 439 Pa. 333, 337, 266 A.2d 718, 721 (1970)). “[T]o prove a highest and best use the condemnee must establish that the land in question is physically adaptable to such use and that there is a need for such use in the area which is reflected in the market for the property at the time of the condemnation.” Stoner at 338, 266 A.2d at 721 (citing Shillito v. Metropolitan Edison Co., 434 Pa. 172, 252 A.2d 650 (1969); Pennsylvania Gas and Water Co. v. Pennsylvania Turnpike Commission, 428 Pa. 74, 236 A.2d 112 (1967); A. D. Graham & Company, Inc. v. Pennsylvania Turnpike Commission, 347 Pa. 622, 33 A.2d 22 (1943)).
+There is little objection that the land is adaptable to recreational use. The County urges, however, that the testimony of the landowners regarding their intended development of the land as a chip and putt golf facility was insufficient to show the need for recreational facilities in the area. The County further argues that the expert’s opinion regarding highest and best use was based solely on conversations with the landowners with respect to the need for recreational facilities. Therefore, the County argues, insofar as the landowners’ testimony failed to show a need, the expert’s opinion was improperly founded and should not have been admitted. We do not agree. The record shows that the Ceccolis operated a golf driving range, a miniature golf course, a baseball batting range and an amusement arcade within a quarter mile of the land condemned. Robert Ceccoli testified that patrons of the driving range had expressed demand for other golf facilities in the area and that he and his son had traveled to other areas and other states to examine chip and putt facilities to evaluate the desirability of developing such a facility in Luzerne County. Clearly, the landowners had some measure of expertise in determining the market for recreational facilities in the area. In addition, the Luzerne County Engineer testified that County officials had considered other land in the immediate area for development as recreational land, giving further credence to the showing that a purchaser of the Ceccoli land might well have considered its potential for recreational use. See Stoner. The court of common pleas committed no error in admitting the testimony of the landowners with respect to need and in admitting the opinion of the landowners’ expert.
+The County also alleges error in the trial court’s refusal to allow cross-examination of the landowners’ expert with respect to the propensity of the land to flood. Assuming arguendo, that the cross-examination was permissible to challenge the expert’s opinion regarding highest and best use, we believe any error by the trial court was harmless. The record is replete with references to the land’s propensity to flood drawing into question the expert’s opinion that the highest and best use of the land was for recreation.
+Similarly, we find harmless error in the allowance of counsel for the landowners to cross-examine one of the County’s expert witnesses regarding the witness’ familiarity with news reports that the County planned to develop the Ceccoli land for recreational purposes. The witness had previously testified that he had not considered any recreational use in valuing the property. It was not improper to question him regarding his awareness of the plans of others to develop the land for recreation. There was little testimonial aspect to counsel’s questioning and we note that similar cross-examination was directed to the County Engineer without objection.
+Finding no reversible error in the trial before the court of common pleas, we affirm.
+Order
+Now, July 15, 1983, the order of the Court of Common Pleas of Luzerne County in the above referenced matter, dated February 26, 1982, is hereby affirmed.
+Act of June 22, 1964, Special Sess., P.L. 84, as amended, 26 P.S. §§1-101 through 1-903.
+The County does not raise any serious question that the land would not be adaptable to recreational use. The record contains uncontroverted testimony that the land is predominantly flat and contains good topsoil to a depth reaching three feet. The record shows the availability of utilities and access to major highway traffic. In addition, the County Engineer testified that with some limitations, the land could be used for recreational purposes.
+The County Engineer testified that the County Commissioners had at one point decided that land a thousand feet or less from the Ceccoli parcel was to be graded and seeded for softball fields.
