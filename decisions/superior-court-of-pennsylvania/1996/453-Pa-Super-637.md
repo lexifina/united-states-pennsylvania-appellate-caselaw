@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2128"
+decided: "1996-09-12"
+citations: ["453 Pa. Super. 637", "684 A.2d 579"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DEL SOLE, KELLY and MONTEMURO , JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. John NELSON, Appellant."]
+source_url: "https://static.case.law/pa-super/453/cases/0637-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 771084
+cites_cases: ["442 Pa.Super. 258", "448 Pa.Super. 238", "659 A.2d 573", "671 A.2d 235"]
+---
+
+# Commonwealth v. Nelson
+
+## Majority (DEL SOLE, Judge:)
+
+DEL SOLE, Judge:
+In this appeal, only one issue is raised for review. Appellant claims that the trial court erred in admonishing a juror who arrived late to resume deliberations, and followed that admonition with an improper charge. The facts giving rise to this question are reflected in the record for the proceedings of November 22,1994. They are:
+THE COURT: I brought you back here because I want to give you one additional charge at this time, insofar as we are now in the third day of deliberations.
+First, Juror No. 3, you were to be here at 9:15 this morning. I don’t know where you were, but you held up this entire Jury and I’ll deal with that when you’re finished.
+JUROR NO. 3: I made a phone call.
+THE COURT: You had to be here at 9:15. You weren’t. But we’ll deal with that later. Now, you, as jurors, have a duty to consult with one another and to continue consulting with one another and to deliberate with a view to reaching a unanimous agreement, if this can be done without violence 'to individual judgment. That is to say, that each juror must decide the case for himself or herself, but only after a careful consideration of the evidence with your fellow jurors. And in the course of such deliberations, a juror should not hesitate to re-examine his or her own views and to change his or her opinion if convinced that it is erroneous. No juror should surrender his or her honest conviction of the weight or effect of the evidence or as to the guilt or innocence of the defendants or either of them solely because of the opinion of their fellow jurors or for the mere purpose of returning a unanimous verdict.
+Following the remainder of the charge, the jury resumed deliberations and later delivered its verdict of guilty. At no time, did the defendant except to the court’s statements to the juror or jury.
+We begin by noting that following of the notice of Appeal, the trial judge directed the filing of a Concise Statement of Matters Complained of on Appeal. Pa.R.A.P. 1925(b), and no statement was filed. The Commonwealth invites us to find waiver because of this failure. We decline to do so, since such a ruling would merely return to the discredited practice of “double waiver” rejected by amendments to the Rules of Criminal Procedure. Waiver for failure to file a 1925(b) statement is not automatic. This court will discharge its appellate function, however, unless a failure to file the statement prevents meaningful appellate review. Commonwealth v. Cortes, 442 Pa.Super. 258, 659 A.2d 573 (1995); Commonwealth v. Taylor, 448 Pa.Super. 238, 671 A.2d 235 (1996).
+However, we do find that the failure of the defendant to object to these instructions at the time they were given constitutes a waiver of the issue. The changes to Post-trial practice for criminal proceedings established by Pa.R.Crim.P. 1410, did not eliminate the need for counsel to raise objections before or during trial to preserve issues for appellate review. This requirement is specifically embodied in R. 1410(B)(1)(c).
+Judgment of sentence affirmed.
