@@ -1,0 +1,43 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeals, Nos. 1944 C.D. 1985 and 1979 C.D. 1985"
+decided: "1986-07-29"
+citations: ["99 Pa. Commw. 295", "512 A.2d 1352"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail and Colins, and Senior Judge Rogers, sitting as a panel of three."]
+parties: ["Kenneth Dech and Janice Dech v. The Zoning Hearing Board of Lynn Township and David L. Davis, II. David L. Davis, II, Appellant. Kenneth Dech and Janice Dech v. The Zoning Hearing Board of Lynn Township and David L. Davis, II. David L. Davis, II, Appellant."]
+source_url: "https://static.case.law/pa-commw/99/cases/0295-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1350938
+cites_cases: ["412 A.2d 212", "454 A.2d 199", "49 Pa. Commonwealth Ct. 485", "501 Pa. 550", "70 Pa. Commonwealth Ct. 555"]
+---
+
+# Dech v. Zoning Hearing Board
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+David L. Davis, II (Appellant) appeals here from an order of the Court of Common Pleas of Lehigh County which reversed in part a decision of the Zoning Hearing Board of Lynn Township (Board). We will affirm.
+Appellant applied for and received a building permit for the erection of a mobile home and an adjacent pole barn building which was to be used for the storage of vehicles utilized in Appellants catering and concession business. These improvements were to be located in a conservation district.
+Mr. and Mrs. Dech, adjoining landowners, protested the issuance of a permit and requested a hearing before the Board. On April 4, 1983, the Board issued a written decision revoking the permit solely because the proposed construction failed to comply with township requirements in a high water table area. The Board specifically held that the pole barn building was not commercial in nature and, therefore, the proposed use of that building did not violate the Ordinance.
+On April 27, 1983, the Dechs appealed from the Boards decision to the court of common pleas, contending that the pole barn building was commercial in nature and, therefore, not a permitted use in the district and that the size of the pole building was such as to prohibit it from being classified as an accessory use under the Ordinance.
+While that appeal was pending, Appellant revised his plans for the location of the improvements including the pole barn to satisfy the high water table requirements, whereupon the zoning officer on May 23, 1983, issued a new permit permitting construction of the improvements. No appeal to the Board was taken from that action.
+Appellant argued to the trial court and argues here that the Dechs are precluded from obtaining any relief because they lack standing in that they failed to appeal from the new permit issued May 23, 1983.
+Finding that the Dechs did have standing to appeal, the trial court then proceeded to address the issue of whether or not the pole barn building was commerical in nature. For sound reasons, the trial court concluded that it was. It then entered an order reversing the Board in that respect and remanding the matter to the Board with directions to revoke that portion of the May 23 permit which permitted the erection of the pole barn building.
+For us, the most troublesome aspect of the case is the failure of the Dechs to take any action with respect to the May 23 permit. Section 1007 of the Pennsylvania Municipalities Planning code clearly requires that objections to the issuance of a permit must first be submitted to the zoning hearing board. See Mosside Associates, Ltd. v. Zoning Hearing Board, 70 Pa. Commonwealth Ct. 555, 454 A.2d 199 (1982). It, therefore, is somewhat difficult to perceive how the trial court could take any action with respect to that permit. We do note, however, that although the second permit was for a new location, the pole barn building and the intended use thereof were the same in both permit applications. The Boards initial decision that the pole building was not commercial was crucial to the issuance of the second permit. It would seem, therefore, that to deny Dechs the opportunity to have their timely appeal from the April permit adjudicated and require them to reprocess an appeal raising the same underlying issue in order to attack the validity of the May permit would be imposing an unreasonable burden upon them. This especially would be true where the issuing authority and the landowner were well aware that the use of the pole building, not its location, was the sole issue before the trial court for determination at the time the second application was filed and a permit’issued. We do not believe a landowner, should be permitted to bar an objector under these circumstances from a decision which will ultimately determine whether or not a valid permit was issued.
+• Addressing now the issue-of whether or not the pole barn building would qualify either as a permitted, or an accessory use, we are conscious that neither we nor the trial court may reverse the Board in the absence, of a finding that the Board committed- a manifest abuse of discretion or an error of law. Valley View Civic Association v. Zoning Board of Adjustment, 501 Pa. 550, 462 A.2d 637 (1983).
+• Notwithstanding the fact that the Appellant testified that he and his father intended to be engaged in a food catering and concession business, that three vehicles were to be stored in the pole building consisting of a 10-foot cube van with a self-contained kitchen and serving area, a 14-foot cube van with a self-contained unit and a trailer 14 feet in length used for the sale of food products, that these vehicles were to be used to pick up food and supplies, to take to auctions and carnivals and that the only officé the catering business would- have would be at the mobile home adjacent to the pole barn building, the Board concluded that that building would not be considered a commerical building as long as no food was stored on the' premises and no commercial activitiés took place “in violation of the Ordinance”.
+Finding a close similarity between the facts of this case and those in our decision in Taddeo v. Commonwealth, 49 Pa. Commonwealth Ct. 485, 412 A.2d 212 (1980), the trial court concluded that the Board abused its discretion when it held that the use of the pole building was not part of a commercial business. We agree. In Taddeo, we held that parking vehicles used in the business carried on by the occupant, of a residential dwelling was commerical in nature and that the storage of such vehicles was neither incidental to nor customary in a residential area.
+It is Appellants contention that the pole barn building qualifies as an accessory use permitted by Section 333 of the Ordinance because it will be used as a private garage. Section 930 of the Ordinance defines a private garage as:
+An accessory garage maintained primarily for the convenience of the occupant or occupants of the main building and in which no business or other use is carried on and no services rendered to the general public.
+We agree with the trial court that the storage of vehicles used in a business enterprise cannot be considered as a private garage for the convenience of the occupants of a residential dwelling. It is obvious that the building here is to be maintained for the advancement of the landowners business enterprise and for no other purpose. It, therefore, cannot qualify as an accessory use.
+We conclude that the trial court correctly found that the pole barn building would not qualify as a permitted use nor as an accessory use under the pertinent provisions of the townships zoning ordinance.
+Order
+The order of the Court of Common Pleas of Lehigh County in the above-captióned matter is hereby affirméd.
+It is provided in Section 331 of the Township Zoning Ordinance (Ordinance) with respect to a conservation district that:
+The purpose of this district is to provide for uses and for intensities of uses compatible with the severe topographic limitations and the minimal development related infrastructure such as roads and utilities available in the area. Further, the district is to protect the esthetic beauty of the Blue Mountain area.
+Permitted uses in the district include agriculture, animal husbandry, nurseries, greenhouses and related horticultural uses, logging, sale of agricultural products at roadside stands, wildlifé sanctuary, nature center, outdoor education laboratory, woodland preserve or arboretum, game hrm, hunting and fishing reserves, outdoor recreation areas, and single family detached dwelling.
+Act of July 31, 1968, P.L. 805,' as amended, 53 P.S. §11007.
