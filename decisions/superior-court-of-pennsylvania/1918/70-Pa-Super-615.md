@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 4"
+decided: "1918-12-12"
+citations: ["70 Pa. Super. 615"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Kephart, Trexler and Williams, JJ."]
+parties: ["Ritter, Appellant, v. Thomasky."]
+source_url: "https://static.case.law/pa-super/70/cases/0615-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 635537
+cites_cases: ["100 Pa. 551", "141 Pa. 511", "151 Pa. 630", "223 Pa. 520", "3 Dallas 506", "3 Grant 281", "3 Pa. Superior Ct. 254", "34 Pa. Superior Ct. 184", "34 Pa. Superior Ct. 346", "36 Pa. 108", "55 Pa. 504", "61 Pa. Superior Ct. 401", "81 Pa. 278", "85 Pa. 218", "86 Pa. 80", "91 Pa. 290", "94 Pa. 207"]
+---
+
+# Ritter v. Thomasky
+
+## Majority (Kephart, J.,)
+
+Opinion by
+Kephart, J.,
+It is a general rule of law that the assignee of a mortgage takes it subject to all the equities and set-offs existing between the original parties, and it is customary in such assignments to secure from the mortgagor a certificate of no defense. To bring a case within an exception to this general rule, viz: the assignee does not take it subject to equities or set-offs that arise from or grow out of an agreement or contract that is merely collateral to the mortgage, it must be made to appear that such agreement is in addition to the mortgage contract, and in no wise a part of the undertaking expressed in the mortgage. If it appears that this agreement forms a part of the consideration that was the foundation of the mortgage, it would not come within the exception.
+Thomasky, the mortgagor, purchased for $3,000 from the mortgagee, a farm and some personal property and at the same time the mortgagee promised to put new roofs on the barn and house. This was the finding of the jury upon a proper submission by the learned trial judge. Thomasky paid $1,700 in cash, gave a note for $300 and a mortgage for $1,000. This suit is on the mortgage. It represented a part of the total purchase-price as expressed in the entire contract of sale. There was no attempt to separate the farm, personal property and repair values in respect to the total purchase-price, or the cash and securities given. Possession of the farm was taken and the mortgagee promised to place a new roof on the house and barn, and promised to deliver the personal property purchased, for which he had given a bill of sale. Placing the roof on the house and barn and the value and delivery of the personal property helped make up the contract price; they were a part of the consideration for the mortgage contract. These agreements, though to be executed in part after the mortgage had been executed, were not collateral to it, but they were a part of the mortgage consideration. The mortgagee failed to put a roof on the house and barn and failed to deliver the personal property. When a scire facias was issued on the mortgage it was proper for the mortgagor to set up in defense this failure of consideration. It was the duty of the assignee of the mortgage to inquire if there was any defense to be made to the mortgage. It was not the duty of the mortgagor, who knew nothing of the transfer of the mortgage, to seek the assignee and inform him of his defense; nor was the execution and delivery of the mortgage before the property was secured and the work done, placing into the hands of the mortgagee an instrument that could be fraudulently used and cause the mortgagor without neglect to be responsible to an innocent party who secured it. It is not an uncommon occurrence to pay or give security in advance. The error comes when payment is made by an instrument placed in course that may be taken by innocent parties for value received with no duty to inquire as to any defense. But mortgages are not of such character. It was the duty of the assignee to.inquire. Having failed to do so, it is difficult to see how the case may be brought within the rule laid down in Jeffers v. Gill, 91 Pa. 290. It was there said that a certificate of no defense had been executed by the mortgagor. Nor do we consider the agreement to put a roof on the house and barn such a promise to be performed in the future as would not be enforceable. It was capable of being reduced to an exact money value. It was a part of the consideration for transfer and went into the farm value as the building and barn did. That the work itself was to be done in the future was not material. When it was not done, it was_ such a default in law as would have enabled the mortgagor to sustain a defense of failure of consideration. We are not impressed with the allegation of laches. A scire facias was not issued for three or four years. As long as the assignee of the mortgage remained inactive, the mortgagor should not complain. When he refused to pay, the holder of the mortgage must have known there was some reason for it.
+The assignments of error are dismissed and the judgment is affirmed at the cost of the appellant.
