@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 132"
+decided: "1919-07-17"
+citations: ["72 Pa. Super. 509"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Trexler, Williams and Keller, JJ."]
+parties: ["Lynch and Reagan, Appellants, v. Snowdon."]
+source_url: "https://static.case.law/pa-super/72/cases/0509-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 639794
+cites_cases: ["152 Pa. 88", "190 Pa. 321", "194 Pa. 318", "208 Pa. 189", "227 Pa. 591", "237 Pa. 186", "241 Pa. 164", "255 Pa. 417", "30 Pa. Superior Ct. 424", "60 Pa. Superior Ct. 641"]
+---
+
+# Lynch v. Snowdon
+
+## Majority (Keller, J.,)
+
+Opinion by
+Keller, J.,
+The defendant was the owner of a lot of ground fronting twenty-seven feet four inches on Market street, in the Borough of Brownsville, known as the Risbeck lot. He was also the owner of a large tract of land lying south of Market street, to which there was no convenient means of access from that street. For the purpose of making this tract of land more easily accessible to the business section of the borough, he filled up his lot fronting on Market street, built a concrete retaining wall along the east side, erected an iron railing upon this wall a short distance from and parallel with the eastern boundary line of his lot, constructed concrete sidewalks along both sides of the lot, paved the space between the sidewalks with brick, and opened the street to public use under the name of Brownsville avenue. He also constructed a building fronting on Brownsville avenue, as laid out through the large tract of land owned by him, which he leased to the United States government for use as the borough post office, and caused public announcement to be made in the newspapers that the street and its improvements had been given by him to the borough since when the street has been generally used by the public and is the only means of access to the post office. After the defendant had built the retaining wall above referred to along the east line of Ms property, and erected the iron railing thereon, the plaintiffs bought the property adjoining on the east and erected a one-story frame store room thereon. As first constructed, part of this building rested on the defendant’s Avail, but the defendant compelled its removal and thereafter it was located immediately east of the wall. The defendant then constructed a wooden fence or billboard about seven feet high on the strip of wall between the iron railing and the plaintiffs’ building.
+The plaintiffs, contending that there had been a dedication by the defendant of the Risbeck lot, to its full width, for street purposes, and that in consequence their lot was bounded by Brownsville avenue for its entire depth, filed this bill to compel the removal of the iron railing and the fence or billboard, and to enjoin the making or maintaining of any fence, wall or other obstruction between the plaintiff’s lot and Brownsville avenue.
+The learned judge of the court below after a full hearing refused the injunction and dismissed the bill, from which decree the plaintiffs appealed.
+Sufficient testimony was produced on the trial to justify a finding that there had been a dedication by the defendant, and an acceptance by public user, of the street known as Brownsville avenue: 13 Cyc. 451, 452; Kleinhans v. Northampton Traction Co., 60 Pa. Superior Ct. 641; Weida v. Hanover Township, 30 Pa. Superior Ct. 424. But this did not necessarily carry with it a dedication and acceptance of the defendant’s lot for its entire width on Market street. On the contrary,, the testimony failed to show an intention on the part of the defendant to dedicate for street purposes more than a twenty-five foot wide strip, leaving two feet four inches still belonging to the defendant, which he could deal with as his own and use to protect his remaining rights. Between the dedicated street and the plaintiffs’ property was a small strip of ground which had been separated from the traveled street by an iron railing, and which never had been used by the public for any purpose, and it was admittedly on this strip that the alleged obstruction complained of in the bill had been constructed. The fact that the defendant covered this strip with concrete on a level with the sidewalk, did not change its status. It remained the defendant’s property and he could use it in any lawful manner that he saw fit.
+We find no error in the findings of fact or conclusions of law of the court below and they fully sustain the decree appealed from.
+While the findings of fact and the conclusions of law of the court below are not paragraphed and numbered, they are sufficiently definite and specific. No requests for findings of fact or law were presented to the court by the appellants, and Equity Buie No. 62 does not require the judge to present his findings in any fixed form. It provides that “the judge may adopt or affirm these requests or any of them, qualify or deny them, or state his findings of fact or of law in his own language.” In the case of Mt. Carmel Boro. v. Lehigh Valley Coal Co., 237 Pa. 186, cited by the appellants, the action of the Supreme Court in referring the case back for a rehearing was based on the fact that the answers of the court to the requests for findings of fact and law were confused and conflicting, and that there were no findings as to certain facts which were necessary to make a just disposition of the case. No such state of affairs exists in the present suit. Furthermore, no objection was made by the plaintiffs in the court below to the form or sufficiency of the findings. Equity Rule No. 67.
+The assignments of error are all overruled, and the decree is affirmed.
