@@ -1,0 +1,42 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2688"
+decided: "1988-04-27"
+citations: ["373 Pa. Super. 241", "540 A.2d 957"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before ROWLEY, WIEAND and MONTEMURO, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Rohit SABHARWAL, Appellant."]
+source_url: "https://static.case.law/pa-super/373/cases/0241-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 695992
+cites_cases: ["323 Pa.Super. 363", "372 Pa.Super. 35", "506 Pa. 469"]
+---
+
+# Commonwealth v. Sabharwal
+
+## Majority (WIEAND, Judge:)
+
+WIEAND, Judge:
+Following a trial de novo in the Court of Common Pleas of Montgomery County, Rohit Sabharwal was found guilty of failing to stop at the scene of an accident with an attended vehicle in violation of 75 Pa.C.S. § 3743. Posttrial motions were denied, and Sabharwal was sentenced to pay a fine of three hundred ($300) dollars, plus the costs of prosecution. On appeal, Sabharwal contends that the evidence was insufficient to establish a violation of Section 3743 because the damage to the other vehicle was insignificant. Having concluded that the evidence was sufficient to support appellant’s conviction, we affirm the judgment of sentence.
+The factual scenario underlying appellant’s conviction was succinctly stated by the trial court as follows:
+[O]n the morning of April 3, 1986, while on her way to work Angela Zangardi noticed that a red sedan had been “tailgating” her for a distance of two and one-half miles. Upon stopping at a red light at the intersection of Croton and Gulph Roads in Upper Merion Township, she was alarmed by a “crash” against the rear of her vehicle, and observed the same red sedan against hers. Ms. Zangardi got out of her car, walked to the driver’s side of the red sedan, and asked the driver (Defendant herein) to pull over so that they could exchange information. After she returned to her car and proceeded to pull over to the side of the road, the Defendant drove up beside her car and shouted, “If you want any information, just take down my license plate number”, and drove off. Ms. Zangardi telephoned the Upper Merion Police Department, related the above incident to Officer Charles Narwich, and gave him the license number of the red sedan.
+(Trial Court Opinion at p. 2).
+In reviewing appellant’s challenge to the sufficiency of the evidence we must determine “whether, viewing all the evidence admitted at trial, together with all reasonable inferences therefrom, in the light most favorable to the Commonwealth, the trier of fact could have found that each element of the offense[] charged was supported by evidence and inferences sufficient in law to prove guilt beyond a reasonable doubt.” Commonwealth v. Jackson, 506 Pa. 469, 472-473, 485 A.2d 1102, 1103 (1984).
+The statute under which appellant was convicted provides as follows:
+§ 3743. Accidents involving damage to attended vehicle or property.
+(a) General rule. — The driver of any vehicle involved in an accident resulting only in damage to a vehicle or other property which is driven or attended by any person shall immediately stop the vehicle at the scene of the accident or as close thereto as possible but shall forthwith return to and in every event shall remain at the scene of the accident until he has fulfilled the requirements of section 3744 (relating to duty to give information and render aid). Every stop shall be made without obstructing traffic more than is necessary.
+(b) Penalty. — Any person violating this section is guilty of a summary offense, punishable by a fine of $300 or imprisonment for not more than 90 days, or both.
+75 Pa.C.S. § 3743.
+Appellant argues that the evidence was insufficient to support a conviction under this statutory provision because the Commonwealth was unable to prove that any damage had resulted to the vehicle with which he collided. He contends that the term damage, as used in 75 Pa.C.S. § 3743, requires a showing of pecuniary loss or impairment of the usefulness or value of property. • Because the Commonwealth introduced no evidence at trial concerning the cost of repairs for the Zangardi vehicle or of any loss in value, the argument continues, it failed to prove circumstances which required him to stop. We disagree.
+Our research has disclosed a dearth of appellate decisions which have discussed the requirements of Section 3743. However, in Commonwealth v. Kauffman, 323 Pa.Super. 363, 470 A.2d 634 (1983), a conviction under this statute was challenged on the grounds that the appellant had been unaware that he had been involved in an accident. In affirming the conviction, we held “that the duty to stop under section 3743 arises whenever a driver knows, or in the exercise of reasonable care should know, that his vehicle has been involved in an accident.” Commonwealth v. Kauffman, supra, 323 Pa.Superior Ct. at 374, 470 A.2d at 640. The writer of the Concurring Opinion added:
+Although it must be shown that the driver knew or should have known that he or she was involved in an accident, guilt or innocence does not depend upon knowledge of injury or damage. It is enough that the driver have knowledge that he or she was involved in an accident.
+Id., 323 Pa.Superior Ct. at 375, 470 A.2d at 640 (Wieand, J., concurring).
+In the instant case it is not disputed that appellant knew that he had been involved in an accident. The evidence at trial established that appellant’s reasons for not stopping were that he did not think that he had done any damage and because he did not “want the other party to claim some medical injury and go after him.”
+More recently, a panel of this Court addressed a similar issue in Commonwealth v. Stover, 372 Pa.Super. 35, 538 A.2d 1336 (1988). In Stover, the defendant’s car had collided with the rear of a tractor-trailer which had been stopped at a red traffic light. Traffic in the area had been bumper to bumper and had been moving very slowly. There was evidence that defendant’s car had been damaged in the hood and windshield; however, the only evidence that the tractor-trailer had been damaged was the fact that it had been struck in the rear. On appeal it was argued that the Commonwealth had failed to present sufficient evidence to support a conviction under Section 3743, because it had failed to establish that there was any “damage to a vehicle or other property” as required by the statute. In affirming the conviction, however, a unanimous panel, per McEwen, J., reasoned as follows:
+Appellant argues that the statute did not require him to stop and to provide information at the scene of the accident since he did not observe the damage to the truck. We do not agree since the evidence, including the testimony of appellant as to the damage sustained by his own vehicle, was sufficient to support the conclusion of the trial court that the truck sustained damage, however slight, as a result of the accident. Thus, this insufficiency argument is rejected as meritless.
+Commonwealth v. Stover, supra, 372 Pa.Superior Ct. at 38, 538 A.2d at 1338.
+In the instant case, the evidence included testimony by Ms. Zangardi, the driver of the car which had been struck, that she felt a crash or bang at the rear of her vehicle and was shocked by the impact. She testified further that she had observed a slight discoloration on the rubber part of her bumper. The investigating police officer, Officer Charles Narwich of the Upper Merion Police Department, testified that he also had observed a minor scratch on the rubber part of the bumper of Ms. Zangardi’s car. After reviewing this evidence, the trial court concluded that “[i]t is sufficient to note that a scratch on the bumper of an automobile, albeit slight, constitutes harm, and therefore constitutes damage to the vehicle under Section 3743 of the Vehicle Code.” (Trial Court Opinion at p. 4). We agree with this conclusion. The Commonwealth’s evidence was sufficient to support the finding that Ms. Zangardi’s car had sustained damage, however slight. See: Commonwealth v. Stover, supra.
+The judgment of sentence is affirmed.
+. Sabharwal was also prosecuted for and convicted of driving while his operating privileges were suspended, in violation of 75 Pa.C.S. § 1543(b). For this offense, he was sentenced to serve a ninety day term of imprisonment and to pay a fine of one thousand ($1,000) dollars, plus costs of prosecution.
