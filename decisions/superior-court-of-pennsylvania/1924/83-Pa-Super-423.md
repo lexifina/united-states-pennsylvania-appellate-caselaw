@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 48"
+decided: "1924-07-02"
+citations: ["83 Pa. Super. 423"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Hendeeson, Teexlee, Kelleb, Linn and Gawthbop, JJ."]
+parties: ["Gearing, Jr., v. Gearing, Appellant."]
+source_url: "https://static.case.law/pa-super/83/cases/0423-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 661242
+cites_cases: ["138 S. W. 205", "30 Pa. Superior Ct. 229", "33 Pa. Superior Ct. 4", "6 Pa. 449", "79 S. W. 74", "8 S. W. 440", "87 Ky. 243"]
+---
+
+# Gearing v. Gearing
+
+## Majority (Keller, J.,)
+
+Opinion by
+Keller, J.,
+It is a jurisdictional requirement of an action of divorce in Pennsylvania that the libellant shall have resided within this Commonwealth for one year previous to the filing of the petition or libel. The appellee, the libellant in the present action, attempted to comply with .this requirement by proof tending to establish a constructive domicile in the state without any actual residence therein. This is not sufficient. Our decisions hold that the residence contemplated by our statutes relating to divorce is a permanent one with domiciliary intent; a temporary residence without intention to establish a domicile is not enough. But, on the other hand, a domiciliary intent not accompanied by actual bona fide residence within the Commonwealth for a year cannot give jurisdiction to our courts. In Hollister v. Hollister, 6 Pa. 449, 452, it was held that the bona fide residence of the libellant in Pennsylvania for one year before filing his or her petition was a necessary preliminary to a decree granting a divorce. In Reed v. Reed, 30 Pa. Superior Ct. 229 we held that to entitle the libellant to a divorce there must be a “domiciliary intention conjoined with residence;”......“the statutes all require as evidence of good intention that there should be a continuous residence within the state for a period of one whole year previous to the filing of the petition [or] libel.” And in Dulin v. Dulin, 33 Pa. Superior Ct. 4, 5, we said, speaking through the present President Judge: “Our statutes and decisions require that it must affirmatively appear that there has been a clear intention to abandon a former residence, and to make this state a permanent one with domiciliary intent, coupled with an actual bona fide residence for one year within this commonwealth previous to the filing of the petition or libel. Each requirement is essential, and all must combine to warrant our courts in making a decree in divorce.” The law is correctly stated in Corpus Juris, Yol. 19, p. 30, as follows: “A mere legal residence in the state with an actual residence out of it is not sufficient.” This statement of the text is ably supported by the opinion in Tipton v. Tipton, 87 Ky. 243, 8 S. W. 440, as well as by the other citations: Dickinson v. Dickinson, (Texas) 138 S. W. 205; Michael v. Michael, (Texas) 79 S. W. 74; Manning v. Manning, L. R. 2 Probate & Divorce 223, (1869-72).
+In the present ease there was no evidence that the libellant had resided in Pennsylvania for a year previous to filing his libel in divorce; in fact there was no evidence that he had ever actually resided in this State. He was born at Annapolis, Md., where his father, an officer in the Navy, was an instructor in the IT. S. Naval Academy. His claim to a domicile in this State was based on the facts, as testified before the master, that his father was appointed a naval cadet from the “Pittsburgh District”; that his grandfather continued to reside in Pittsburgh until his death in 1910; that he himself was appointed to the Naval Academy in 1903 from the “Pittsburgh District”; and that he considered his home to be with his uncle in the Borough of Carrick, Allegheny County. His father never actually lived and resided in Allegheny County after his appointment to Annapolis, and now lives at Cobourg, Can. The libellant himself never actually lived and resided in Alie-gheny County; his actual presence there being confined to a few visits to his grandfather’s home in the latter’s lifetime and, possibly, a brief visit or two at his uncle’s home since his grandfather’s death as above. He never had a home or residence of his own within this Commonwealth. His grandfather’s residence was in the South Side, City of Pittsburgh; his uncle’s is in the Borough of Carrick. Just how the libellant’s domicile was shifted from the former to the latter place, without any actual residence in either, does not appear. The utmost that the evidence discloses is that libellant claimed his home was at Carrick, Allegheny County, without any actual residence there. A mere claim of residence, without an actual bona fide residing therein, will not do.
+These facts, which clearly appear from the evidence, in the light of the decisions above referred to, establish a want of jurisdiction in the lower court and the libel should have been dismissed on that ground.
+The first three assignments of error are sustained. The decree is reversed, and the libel dismissed for want of jurisdiction at the costs of the appellee.
