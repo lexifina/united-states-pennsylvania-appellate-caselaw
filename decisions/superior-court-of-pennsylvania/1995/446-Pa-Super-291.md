@@ -1,0 +1,37 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "00190"
+decided: "1995-10-25"
+citations: ["446 Pa. Super. 291", "666 A.2d 739"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before ROWLEY, President Judge, and POPOVICH and SAYLOR, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania, Appellant v. Mark A. ELISCO, Appellee."]
+source_url: "https://static.case.law/pa-super/446/cases/0291-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 727470
+cites_cases: ["1009 A, 42", "226 Pa.Super. 273", "308 A.2d 151", "353 Pa.Super. 258", "364 Pa.Super. 553", "386 Pa.Super. 547", "404 Pa.Super. 335", "509 A.2d 1263", "517 Pa. 594", "535 A.2d 83"]
+---
+
+# Commonwealth v. Elisco
+
+## Majority (POPOVICH, Judge:)
+
+POPOVICH, Judge:
+The Commonwealth appeals from an order entered in the Court of Common Pleas of Lawrence County dismissing its petition for a writ of certiorari. The Commonwealth sought review of a district justice’s dismissal of a summary driving offense charge filed against appellee, Mark Elisco. The Commonwealth now contends that the trial court erred in holding that the district justice did not commit an error that was reviewable on certiorari. After careful review, we vacate the order entered in the lower court and remand for proceedings consistent with this opinion.
+The origins of this case involve a traffic stop by a New Castle Police Officer Thomas Macri. Officer Macri observed appellee, Mark Elisco, operating a motor vehicle and believed, on the basis of an old and uncertified driving record, that Elisco’s license was suspended. Elisco proceeded to a parking lot and, after emerging from his car, was detained by Officer Macri who informed Elisco that he intended to issue a citation. Because Officer Macri was in plainclothes and driving an unmarked car, he contacted Officer Atkins who was driving a patrol car. Officer Atkins arrived and issued Elisco a citation for driving while under suspension.
+A hearing was held before District Justice Earnest Crawford during which Elisco made a motion to dismiss the charge of driving while under suspension because of an alleged violation of Section 1543(d) of the Vehicle Code. District Justice Crawford agreed with Elisco and dismissed the charges based upon Section 1543(d) and upon Commonwealth v. Heckman. The Commonwealth sought review of this ruling by filing a praecipe for a writ of certiorari with the Court of Common Pleas of Lawrence County. The Honorable Glenn McCracken, after oral argument, dismissed the Commonwealth’s petition finding that District Justice Crawford had not committed any errors that were reviewable on a petition for a writ of certiorari. The Commonwealth then brought this timely appeal.
+A lower court’s decision on the issuance of a writ of certiorari will not be disturbed absent an abuse of discretion. Commonwealth v. McGinley, 386 Pa.Super. 547, 563 A.2d 518 (1989). Certiorari provides a narrow scope of review in a summary criminal matter and allows review solely for questions of law. Commonwealth v. Cook, 226 Pa.Super. 273, 308 A.2d 151 (1973); Commonwealth v. Reese, 364 Pa.Super. 553, 528 A.2d 647 (1987). Questions of fact, admissibility, sufficiency or relevancy of evidence questions may not be entertained by the reviewing court on certiorari. Id. 308 A.2d at 153. A petition for a writ of certiorari provides an aggrieved party an alternative to a trial de novo in the Court of Common Pleas. Commonwealth v. Speights, 353 Pa.Super. 258, 509 A.2d 1263, allocatur denied, 517 Pa. 594, 535 A.2d 83.
+Here the court found that the district justice had not committed an error that was reviewable on a petition for certiorari. This was an erroneous conclusion. Cook clearly establishes that questions of law may be reviewed by a common pleas court on certiorari. The lower court stated that the petition for certiorari must be dismissed even though it disagreed with the application of the law by the district justice. This conclusion was reached because the lower court concluded that only procedural irregularities appearing on the face of the record were reviewable. Cf. Reese, supra, (holding that a writ of certiorari is the proper method for the Commonwealth to seek review of a procedural dismissal of a summary driving offense charges).
+In Commonwealth v. Heckman, 404 Pa.Super. 335, 590 A.2d 1261 (1991), a panel of this court held that prior to the filing of a citation issued under § 1543 the issuing police officer could verify the suspension by receiving a certified driving record from PennDot. Id. 590 A.2d at 1264. Here, the district justice held that the requirements of Heckman had not been met by the Commonwealth. District Justice Crawford stated “[n]o attempt to verify the record was made either by phone, or police clean teletype or in any other manner prior to the issuance of the citation.” The charge was then dismissed. Heckman only requires that the suspension be verified prior to the filing of a citation, not the issuance of a citation. A certified driving record was received by Officer Atkins three weeks after the citation was issued. Thus, the district justice misapplied the law, and the lower court erroneously believed that it could not review this application of the law.
+The lower court believed that it could not examine this application of the law based upon P.R.C.P.D.J. 1009 A (“Rule 1009 A”) which establishes procedures for petitioning for a writ of certiorari. Rule 1009 A is a rule of civil procedure and not applicable in the context of a summary criminal case. Thus, both appellee and the lower court believed that Rule 1009 A applied to this case and precluded review of the district justice’s application of the law. In light of the foregoing, the lower court erred in dismissing the Commonwealth’s petition for certiorari.
+The order of the lower court is reversed and this case is remanded for further consideration of the Commonwealth’s petition for a writ of certiorari. Jurisdiction relinquished.
+. 75 Pa.C.S.A. § 1543(a).
+. 75 Pa.C.S.A. § 1543(d) provides:
+(d) Citation of appropriate subsection. — Prior to filing a citation for a violation of this section with the issuing authority named in the citation, the police officer shall verify the basis for the suspension with the department. Upon receiving the verification, the officer shall cite the appropriate subsection of this section on the citation.
+75 Pa.C.S.A. § 1543(d).
+. 404 Pa.Super. 335, 590 A.2d 1261 (1991).
+. Pa.R.C.P.D.J. 1009 A specifically provides:
+Unless he was the plaintiff in the action before the district justice, a party aggrieved by a judgment may file with the prothonotary of the court of common pleas a praecipe for a writ of certiorari claiming that the judgment should be set aside because of lack of jurisdiction of over the parties or subject matter, jurisdiction over the parties or subject matter, improper venue or such gross irregularity of procedure as to make the judgment void. If the party aggrieved by the judgment was the plaintiff in the action before the district justice, he máy file a praecipe for a writ of certiorari only on the last mentioned ground.
+Pa.R.C.P.D.J., Rule 1009 A, 42 Pa.C.S.A.
