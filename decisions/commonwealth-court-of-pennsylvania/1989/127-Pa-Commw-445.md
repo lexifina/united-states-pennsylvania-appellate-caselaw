@@ -1,0 +1,59 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "2086 C.D. 1987"
+decided: "1989-07-24"
+citations: ["127 Pa. Commw. 445", "561 A.2d 1324"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DOYLE and PALLADINO, JJ., and BARBIERI, Senior Judge."]
+parties: ["The REFORMED SEVENTH DAY ADVENTIST CHURCH, INC., Appellant, v. The PHILADELPHIA ZONING BOARD OF ADJUSTMENT, Appellee."]
+source_url: "https://static.case.law/pa-commw/127/cases/0445-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1391591
+cites_cases: ["24 Pa.Commonwealth Ct. 525", "285 A.2d 538", "285 A.2d 905", "357 A.2d 713", "4 Pa. Commonwealth Ct. 137", "4 Pa.Commonwealth Ct. 341", "410 A.2d 909", "460 A.2d 1214", "48 Pa.Commonwealth Ct. 523", "501 Pa. 550", "74 Pa.Commonwealth Ct. 601"]
+---
+
+# Reformed Seventh Day Adventist Church, Inc. v. Philadelphia Zoning Board of Adjustment
+
+## Majority (DOYLE, Judge.)
+
+DOYLE, Judge.
+Before us for our consideration is an appeal by the Reformed Seventh Day Adventist Church, Inc. (Church) from an order of the Court of Common Pleas of Philadelphia County affirming the decision of the Philadelphia Zoning Board of Adjustment (Board) which denied the Church a variance. We affirm.
+The Church filed an application for a zoning permit and a use registration permit with the City of Philadelphia’s Department of Licenses and Inspections (Department) for a fifteen-unit, nonhousekeeping, rooming house for forty-eight persons. The Department issued a Notice of Refusal, from which the Church appealed to the Board. The Board treated the appeal as a request for a variance and denied the variance. The Church appealed that decision and the lower court affirmed. The Church now appeals to our Court, and Duval Manor Associates (Intervenor), adjacent property owner to the Church, has intervened in the appeal.
+The Church argues on appeal that it applied for a “Zoning Board of Adjustment certificate,” Philadelphia’s equivalent to a special exception, and that the lower court erred in treating the Church’s application for a permitted use by certificate as a petition for a variance. The Board and Intervenor argue on the other hand that the Church applied for a variance.
+The issues presented are whether the Church applied for a certificate, and if so, whether the Board may sua sponte convert an application for a certificate to one for a variance.
+The Church argues that the Board may not convert an application for a Board certificate to an application for a variance and cites Penrose v. Philadelphia Zoning Board of Adjustment, 24 Pa.Commonwealth Ct. 525, 357 A.2d 713 (1976), for that principle. In Penrose, however, we held only that the Board may not sua sponte grant a variance when it is clear from the applicant’s application for a zoning permit, its presentation of evidence before the Board, and its memorandum of law submitted to the Board, that the applicant applied for a permit on accessory use grounds.
+At the hearing before the Board in the case sub judice, the attorney for the Church indicated that the appeal was from the denial of a certificate, but the chairperson of the Board unequivocally stated that the appeal was from a denial of a variance (N.T. p. 9). However, even assuming that the Board was in error and that the application should have been considered as one requesting a Board certificate, the church nevertheless failed to overcome its burden in any event.
+The evidence that the Church offered at the hearing consisted of letters from various neighborhood community associations and petitions signed by individuals in the area of the rooming house, all in support of the proposed use. Also, the Church produced testimony by individuals residing in the neighborhood near the rooming house, lending support for the continued use of the house as a rooming house for the homeless. The Church, however, failed to fulfill its evidence presentation duty with respect to the criteria set forth in the Philadelphia Code (Code), dealing with Zoning Board of Adjustment certificates. Section 14-1803 provides:
+Criteria for Granting Zoning Board of Adjustment Certificates.
+(1) The Zoning Board of Adjustment shall consider the following criteria in granting a Zoning Board of Adjustment Certificate under § 14-1801(l)(d):
+(a) that the grant of the Certificate will not substantially increase congestion in the public streets;
+(b) that the grant of the Certificate will not increase the danger of fire or otherwise endanger the public safety;
+(c) that the grant of the Certificate will not overcrowd the land or create an undue concentration of population;
+(d) that the grant of the Certificate will not impair an adequate supply of light and air to adjacent property;
+(e) that the grant of the Certificate will not adversely affect transportation or unduly burden water, sewer, school, park, or other public facilities;
+(f) that the grant of the Certificate will not adversely affect the public health, safety, or general welfare;
+(g) that the grant of the Certificate will be in harmony with the spirit and purpose of this Title, and
+(h) that the grant of the Certificate will not adversely affect in a substantial manner any area redevelopment plan approved by the City Council or the Comprehensive Plan for the City approved by the City Planning Commission.
+(2) The applicant shall have the duty of presenting evidence relating to the criteria set forth herein. (Emphasis added.)
+In Bray v. Zoning Board of Adjustment, 48 Pa.Commonwealth Ct. 523, 410 A.2d 909 (1980), we discussed, in depth, the persuasion burden and the evidence presentation burden of an applicant and of any protestant with respect to Section 14-1803. In that case we recognized that, as to special exceptions (Zoning Board of Adjustment certificates in Philadelphia), generally the applicant has both the burden of persuasion and the initial duty to present evidence to show that the proposed use complies with the specific terms of the ordinance governing use, setbacks, etc. In addition, the applicant for a Board certificate in Philadelphia has both the burden of persuasion and the duty to present evidence specifically as to Section 14-1803(l)(a) through (e) and (h). But, the burden of persuasion and the duty of presenting evidence continue to rest upon those protesting with regard to the criterion at (f) “that the grant of the Certificate will not adversely affect the public health, safety or general welfare,” see Derr Flooring Co., Inc. v. Whitemarsh Township Zoning Board of Adjustment, 4 Pa.Commonwealth Ct. 341, 285 A.2d 538 (1971), and the criterion at (g) “that the grant of the Certificate will be in harmony with the spirit and purpose of this Title,” see Cherbel Realty Corp. v. Zoning Hearing Board, 4 Pa. Commonwealth Ct. 137, 285 A.2d 905 (1972).
+Therefore, in summary, dealing with Section 14-1803 under Bray, the applicant for a certificate in Philadelphia has the burden of persuasion and the initial duty to present evidence with respect to the specific criteria for (a) traffic congestion, (b) fire and safety, (c) overcrowding, (d) light and air, (e) public facilities and (h) the need for compliance with the City’s comprehensive and redevelopment plans. The protestants, on the other hand, have the duty to present evidence and bear the persuasion burden as to (f) detriment to health, safety and welfare and (g) harmony with the spirit and purpose of the ordinance.
+A careful inspection of the record reveals that the Church, as the applicant, failed to come forward with any evidence as to the criteria in (a) through (e) inclusive and (h) and thus did not satisfy its presentation duty and therefore failed in its persuasion burden according to the principles set forth in Bray. Even if the case should have been viewed by the Board as a certificate for a permitted use case, however, the Church still would have failed to meet its burden.
+The Church asserts that it does not need to satisfy the criteria found in Section 14-1803 and that all it needs to prove is that it is a “charitable institution” pursuant to Section 14-203 of the Code. We must disagree and hold that it also has the duty of presenting evidence relating to the criteria in Section 14-1803, because Section 14-203(2)(b) of the Code provides:
+(2) The following non-residential uses shall be permitted only if a Board of Adjustment certificate is obtained and provided that they are conducted in completely enclosed detached buildings:
+(b) Charitable institutions. (Emphasis added.)
+Moreover, the Board in its adjudication found that the Church failed to meet the criteria necessary for the grant of a variance pursuant to Section 14-1802 of the Code, and made the following conclusions of law:
+e. the grant of the variance will substantially increase congestion in the public streets;
+f. the grant of the variance will increase the danger of fire, or otherwise endanger the public safety;
+g. the grant of the variance will overcrowd the land or create an undue concentration of population;
+h. the grant of the variance will adversely affect the public health, safety or general welfare;
+i. the grant of the variance will not be in harmony with the spirit and purpose of this Title, and
+j. the grant of the variance will adversely affect in a substantial manner any area redevelopment plan approved by City Council or the Comprehensive Plan for the City approved by the City Planning Commission.
+While there may be some question as to whether the matter should have been adjudicated on a variance theory, inasmuch as the Church failed to prevail under the lighter burden of a permitted use theory as a matter of law, any error in treating the matter as a variance case was harmless.
+Finally, the Church argues that the lower court erred in not taking additional testimony or other evidence since material issues of fact were raised by the record before the court. The court of common pleas, however, is only warranted in taking additional testimony at a de novo hearing when the party seeking it demonstrates that the record is incomplete because it was denied an opportunity to be fully heard, or when the Board excluded relevant testimony that was offered. Borough Council of Churchill Borough v. Pagal, Inc., 74 Pa.Commonwealth Ct. 601, 460 A.2d 1214 (1983). The Church never argued on appeal that it was denied an opportunity to be heard, or that the Board excluded relevant testimony; therefore, the lower court did not err by not taking additional evidence and not conducting a de novo hearing.
+Accordingly, we affirm the order of the trial court.
+ORDER
+NOW, July 24, 1989, the order of the Court of Common Pleas of Philadelphia County in the above-captioned matter is hereby affirmed.
+. Section 14-1801(b) of the Philadelphia Code contains the idiosyncratic grant of authority to the Zoning Board of Adjustment to "(b) hear and decide special exceptions to the provisions of this Title”; but nowhere else in the Code is there reference to special exceptions. On the other hand, after Section 14 1801(d) grants to the Board the authority to "issue Zoning Board of Adjustment certificates required under this Title,” Section 14-1803 extensively sets forth lhe criteria for granting certificates under Section 14-1801(d), including the assignment of which party bears the burden of presenting evidence to establish qualification.
+. Where the trial court takes no additional evidence, our scope of review is limited to determining whether the Board has committed a manifest abuse of discretion or an error of law. And, we may conclude that the Board abused its discretion if its findings arc not supported by substantial evidence. Valley View Civic Association v. Zoning Board of Adjustment, 501 Pa. 550, 462 A.2d 637 (1983).
