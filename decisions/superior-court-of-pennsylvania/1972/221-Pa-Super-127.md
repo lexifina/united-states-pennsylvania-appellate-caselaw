@@ -1,0 +1,46 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 367"
+decided: "1972-03-24"
+citations: ["221 Pa. Super. 127"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. J., Watkins, Montgomery, Jacobs, Hoffman, Spaulding, and Cercone, JJ.", "Wright, P. J., and Montgomery, J., would affirm on the order below."]
+parties: ["Seltzer, Appellant, v. Ashton Hall Nursing and Convalescent Home."]
+source_url: "https://static.case.law/pa-super/221/cases/0127-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 800271
+cites_cases: ["119 A. 2d 239", "121 A. 405", "176 A. 2d 446", "207 A. 2d 852", "220 Pa. Superior Ct. 5", "264 A. 2d 623", "270 A. 2d 620", "277 Pa. 440", "281 A. 2d 646", "383 Pa. 464", "406 Pa. 127", "417 Pa. 438", "438 Pa. 364", "440 Pa. 164"]
+---
+
+# Seltzer v. Ashton Hall Nursing & Convalescent Home
+
+## Majority (Watkins, J.,)
+
+Opinion by
+Watkins, J.,
+This is an appeal from the order of the Court of Common Pleas of Philadelphia County opening a default judgment entered in favor of Bernard Seltzer, Administrator of the Estate of Morris Seltzer, deceased, plaintiff-appellant, and against Ashton Hall Nursing and Convalescent Home, defendant-appellee.
+The facts in this case are quite similar to the case of Ab v. Continental Imports, 220 Pa. Superior Ct. 5, 281 A. 2d 646 (1971), in which this Court held that the lower court abused its discretion in opening a default judgment where the facts indicated that it was clearly not a snap judgment but one where the defendant blatantly failed to follow the procedural rules and where the plaintiff’s attorney was exceedingly patient before entering judgment. This Court was also influenced by the fact that the petition to open did not set forth the existence of meritorious defense which is also true in the instant case.
+The plaintiff, Morris Seltzer, since deceased, had a cataract condition corrected at the Wills Eye Hospital and on June 14, 1969, the 84 year old plaintiff was transferred to the Ashton Hall Nursing and Convalescent Home. During the early morning hours of June 15, 1969, because of alleged negligence of the defendant nursing home the plaintiff was caused to fall and fracture his hip. Suit was instituted on July 3, 1969, by means of a summons with service made on July 9, 1969. On July 24, 1969, appearance was entered by the defendant and on September 4, 1969, a complaint was filed by the plaintiff which was served on the defendant on September 9, 1969.
+On March 16, 1970, the plaintiff filed and served interrogatories addressed to the defendant with notice to plead within twenty (20) days. The defendant, in his petition, states that he never received the interrogatories until May 25, 1970. However, a letter from defendant’s counsel dated March 17, 1970, specifically acknowledges his receipt of the interrogatories.
+The defendant also raised the question of the receipt of the complaint. However, the record shows a service return from the Sheriff on September 9, 1969, and a copy of the complaint was also sent to the defendant’s counsel on April 13, 1970, when for the second time the plaintiff requested answers to the interrogatories.
+On May 20, 1970, plaintiff for the third time requested answers to the interrogatories “within the next five days”. On May 25, counsel for the defendant requested another copy of the interrogatories which was immediately sent to him. On June 2, 1970, because of the advanced age and poor physical condition of the plaintiff, plaintiff’s counsel filed a motion for sanctions to compel the answers to the interrogatories. Copy of the motion was mailed to counsel.
+The motion was marked as “not contested”. The counsel for the plaintiff explained that this was done because of the failure to answer on three demands. However, in his praecipe he listed the motion for argument. The Motion Court, upon reviewing the motion, signed the order without argument, requiring the interrogatories to be answered within twenty (20) days. The defendant counsel was duly advised by the court and by a letter by plaintiff’s counsel on June 12, 1970.
+On June 25, counsel received a letter from the defendant’s counsel expressing surprise about the motion and asked that nothing be done until he had an opportunity to discuss it. He stated in that letter “we are proceeding to have the . . . Interrogatories answered.”
+Counsel discussed the matter and it was agreed that defendant counsel would answer those interrogatories to which no objection had been filed. On October 19, 1970, still not having answers, the plaintiff sent the following letter to the defendant’s counsel:
+“Please let me have answers to my interrogatories within ten (10) days of the date of this letter. Unless I have them at that time, I will have no choice but to move for judgment.
+“As you know, plaintiff is very old and your immediate attention to this matter will be appreciated.”
+No response was received so in accordance with the warning and the passing of the period of time set forth, plaintiff entered judgment.
+On November 24, 1970, the defendant filed his petition to open alleging as the reason for his failure to answer the interrogatories to be “work load of the counsel for the defendant”. A meritorious defense is not set forth in the Petition. The court granted the petition and this appeal folloAved.
+Judgment will only be opened if (1) the petition is promptly filed; (2) the default is reasonably explained or excused; and (3) a defense is shown to exist upon the merits. Fox v. Mellon, 438 Pa. 364, 264 A. 2d 623 (1970).
+In Young v. Mathews, 383 Pa. 464, 119 A. 2d 239 (1956), the Supreme Court said at pp. 465-66: “Before the court could open the judgment it was necessary for the petition to set forth (1) due diligence; (2) the grounds for opening the judgment; and (3) the existence of a meritorious defense, by averring the facts upon which the meritorious defense is based.” See also, Liberty National Bank of Pittston v. Degillio, 406 Pa. 127, 176 A. 2d 446 (1962). A mere technical defense is insufficient. Krall v. Lebanon Valley Savings and Loan Association, 277 Pa. 440, 121 A. 405 (1923). The petition to open must not only allege a meritorious defense, but such defenses must be set forth in precise, specific, clear and unmistaken terms. Young v. Mathews, supra.
+There seems to be no excuse for a seven month delay in providing the answers required by the interrogatories. This is especially true when counsel is under pressure because of the age and physical condition of his client. Tn addition, such delay as occasioned by the defendant’s counsel brings the legal profession and the courts under severe criticism on the theory of “Justice delayed is justice denied.”
+The most that can be said in support of the defendant’s petition is that he has been negligent of Ms duties because of overwork. This is not a sufficient reason for the opening of a judgment. 7 Standard Pennsylvania Practice 87.
+In Walters v. Harleysville Mutual Casualty Co., 417 Pa. 438, 207 A. 2d 852 (1965), as here, after several extensions, the plaintiff warned counsel that unless the pleadings were filed by a certain date, the plaintiff would take a default judgment. The judgment was taken. Petition to open was filed and in addition to stating a meritorious defense, which is absent in the instant case, stated that Ms failure to file the pleadings for over 100 days was caused by a busy trial and business appointments of the attorney for the defendant. The Supreme Court affirmed the action of the lower court in refusing to open the judgment. The court concluded in Walters, supra, at page 442:
+“We must, therefore, conclude that the court below fairly and adequately applied the guidelines for opening judgments as was set forth in Wheel v. Park Bldg., supra, when it found that the reason for the delay was not reasonably explained. The attorney for the defendants had ample time to prepare the answer or cause the answer to be prepared. The plaintiff gave him over 100 days in which to file the answer, five times the time required by the rules of civil procedure.
+“It is clear that the court below correctly decided that in this case defendant’s excuses were unacceptable and the delay was not reasonably explained.”
+In Triolo v. Philadelphia Coca Cola Bottling Co., 440 Pa. 164, 270 A. 2d 620 (1970), where the facts are almost identical to the instant case and involved failure to file interrogatories in a negligence case, the Supreme Court said at page 167: “Appellant carefully and explicitly preserved his rights. He certainly cannot be foreclosed from exercising them simply because he was courteous and extended the time limits.”
+There can be no excuse for failing to supply the information required by the interrogatories during the period of seven months (over 210 days) and further the defendant has failed to set forth a defense on the merits which is required in order to open a judgment.
+The order of the Court of Common Pleas opening the default judgment is reversed.
+Wright, P. J., and Montgomery, J., would affirm on the order below.
