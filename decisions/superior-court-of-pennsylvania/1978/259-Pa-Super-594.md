@@ -1,0 +1,21 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 56"
+decided: "1978-07-14"
+citations: ["259 Pa. Super. 594", "393 A.2d 1273"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HESTER, J., did not participate in the consideration or decision of this case."]
+parties: ["Bryant, Appellant v. Marszolok."]
+source_url: "https://static.case.law/pa-super/259/cases/0594-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 106373
+---
+
+# Bryant v. Marszolok
+
+## Majority
+
+Order affirmed.
+HESTER, J., did not participate in the consideration or decision of this case.
