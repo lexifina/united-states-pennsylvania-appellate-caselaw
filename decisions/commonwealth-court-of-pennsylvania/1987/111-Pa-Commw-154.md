@@ -1,0 +1,42 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 147 C.D. 1987"
+decided: "1987-11-19"
+citations: ["111 Pa. Commw. 154", "533 A.2d 794"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to President Judge Crumlisii, Jr., Judge Doyle, and Senior Judge Kalish, sitting as a panel of three."]
+parties: ["H. James Willard, Jr., Petitioner v. Commonwealth of Pennsylvania, Pennsylvania Housing Finance Agency Respondent."]
+source_url: "https://static.case.law/pa-commw/111/cases/0154-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1366570
+cites_cases: ["1 Pa. Code §33.1", "1 Pa. Code §35.186", "104 Pa. Commonwealth Ct. 128", "16 Pa. Code §40.207", "512 A.2d 1319", "99 Pa. Commonwealth Ct. 77"]
+---
+
+# Willard v. Commonwealth, Pennsylvania Housing Finance Agency
+
+## Majority (President Judge Crumlish, Jr.,)
+
+Opinion by
+President Judge Crumlish, Jr.,
+The Pennsylvania Housing Finance Agency denied H. James Willard, Jr., emergency mortgage assistance under the Homeowners Emergency Mortgage Assistanee Program (Act 91). An agency hearing examiner affirmed that order. Willard appeals; we affirm.
+Willard, a Fellow Scientist at the Bettis Atomic Power Laboratory, resigned in July 1983 because his career objectives could not be realized and because of his disagreement with his employers managerial philosophies. After initial employment searches in the physics field proved unsuccessful, Willard started a publishing business and authored three books on education.
+With financial assistance from his children, the return of his wife to the work force, and borrowing from his life insurance and pension funds, Willard managed to make monthly payments on all debts, including his mortgage liability, until February 1986. At that time Willard decided to discontinue mortgage bill payments. He reasoned that the equity in his home would sufficiently protect the mortgagee.
+The hearing examiner affirmed the agency’s conclusion that Willard’s arrearage was not due to “circumstances beyond his control.” Section 404-C(a)(4) of Act 91. Specifically, the hearing examiner concluded:
+The aforementioned findings of feet demonstrate that the Appellant consciously resigned from employment with a pay level sufficient to maintain the mortgage, thereby occasioning this mortgage delinquency. Moreover, he has voluntarily decided to maintain his other obligations while permitting the mortgage to go deeper in to default. Accordingly, ‘these circumstances are not beyond mortgagor’s control.’
+In this appeal, Willard, pro se, contends that (1) the hearing examiner failed to conduct a fair hearing, (2) his equal protection rights were violated, and (3) he managed his money properly.
+Our scope of review of a final administrative adjudication is limited to a determination of whether constitutional rights were violated, an error of law was committed, or the findings are not supported by substantial evidence. Johnson v. Pennsylvania Housing Finance Agency, 99 Pa. Commonwealth Ct. 77, 512 A.2d 1319 (1986).
+After a thorough review of the record developed below, we conclude that Willards constitutional rights were unabridged and that the hearing examiner committed no error of law in denying emergency mortgage assistance.
+Agency regulations require that its hearings be conducted under the requirements of the Administrative Agency Law. Prior to the hearing examiners review, Willard submitted two letters expounding his reasons for the appeal. In the letter dated October 14, 1986, Willard referred to memoranda exchanged with Westinghouse executives on his concerns about managerial deficiencies and ethics. Willard contends that the examiner erred by failing to request the production of the memoranda during the hearing.
+A hearing examiner has the duty to conduct a fair and impartial hearing. 1 Pa. Code §35.186. Herein, Willard testified as to the filing of complaints with the employer but noted that they were reviewed and not acted upon. Hence, we believe that the production of such documents in this proceeding would be irrelevant and redundant. The focus of an emergency mortgage assistance hearing is to examine whether an applicants financial hardship is due to circumstances beyond his or her control. Voluntary resignation from employment is not a hardship beyond ones control. Felegie v. Pennsylvania Housing Finance Agency, 104 Pa. Commonwealth Ct. 128, 523 A.2d 417 (1987).
+Willard next contends that the examiners financial focus on his corporate employment rather than his private publishing adventure violates “equal protection” of law. Again, this argument is misplaced. A morgagors employment record is a valid element to be reviewed by the agency. Section 404-C(a)(10) of Act 91. Herein, the examiner focused on Willards past employment because his position and earnings reflected valid fiscal potential. The lack of profits generated by the publishing business would make an isolated inquiry into that area unfair.
+Finally, Willard contends that his fiscal actions, i.e., paying all debts except mortgage because equity would protect the mortgagee, were responsible. We need not address this contention since his financial incapacity resulting from his resignation constitutes a valid reason to deny assistance. Section 404-C of the Act.
+Affirmed.
+Order
+The order of the Hearing Examiner in the above-captioned matter, dated December 12, 1986, is affirmed.
+Act of December 3, 1959, P. L. 1688, as amended, added by the Act of December 23, 1983, P.L. 385, as amended, 35 P.S. §§1680.401c — 1680.410c.
+Added by Section 2 of the act of December 23, 1983, as amended, 35 P.S. §1680.404c(a)(4).
+16 Pa. Code §40.207(f).
+2 Pa. C. S. §§501—508, 701—704. Hearings must also be conducted in accordance with the General Rules of Administrative Practice and Procedure. 1 Pa. Code §33.1 to 35.256.
+35 P.S. § 1680.404c(a)(10).
