@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1164"
+decided: "1983-07-22"
+citations: ["317 Pa. Super. 154", "463 A.2d 1131"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before ROWLEY, MONTEMURO and VAN der VOORT, JJ."]
+parties: ["Richard J. McCLAINE, Jr. and Clarissa J. McClaine, His Wife, as Administrators of the Estate of Peter James McClaine, a Minor, and Richard J. McClaine, Jr. and Clarissa J. McClaine, His Wife, in Their Own Right, Appellants, v. ALLSTATE INSURANCE COMPANY."]
+source_url: "https://static.case.law/pa-super/317/cases/0154-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 89524
+cites_cases: ["287 Pa.Superior Ct. 45", "301 Pa.Superior Ct. 344", "302 Pa.Superior Ct. 356", "309 Pa.Superior Ct. 247", "448 A.2d 1083", "491 Pa. 447", "494 Pa. 501", "494 Pa. 515"]
+---
+
+# McClaine v. Allstate Insurance
+
+## Majority (PER CURIAM:)
+
+PER CURIAM:
+On September 5, 1980, appellants Richard J. McClaine, Jr. and Clarissa J. McClaine, administrators of the estate and parents of the' deceased minor child Peter J. McClaine, commenced an action against their insurance carrier, Allstate Insurance Company. A two-count complaint was filed on January 14, 1981, demanding, inter alia, work loss benefits, survivor’s loss benefits, and punitive and exemplary damages allegedly due under a policy of insurance covering the McClaines’ automobile. Allstate filed a Preliminary Objection and Motion to Strike, arguing that neither count of the complaint stated a valid cause of action, that the complaint failed to allege that the plaintiffs were appropriate “survivors” of the decedent,' and that the claim for punitive and exemplary damages based on the alleged bad faith of the insurance company was without legal or factual foundation. Appellants filed a response to the preliminary objections, and also filed an amended complaint. On November 25, 1981, the lower court granted appellee’s preliminary objections, and dismissed appellants’ complaint, finding:
+1) that although the complaint asserted that appellants were dependent upon the deceased for support, because the complaint also asserted that the deceased was not employed fulltime, as a matter of law appellants could not be “survivors” within the meaning of the statute;
+2) that since the deceased was a student and was not employed full-time at the time of his death, decedent did not suffer accrued economic detriment in the form of work loss; and
+3) that Allstate had “acted properly” in denying appellants’ claims for survivor’s benefits and work loss benefits. The case is before us on appeal from the dismissal of appellants’ complaint.
+Appellants’ first argument on appeal is that the lower court erred in dismissing their claim for survivor’s loss benefits. In Chesler v. Government Employees Ins. Co., 302 Pa.Superior Ct. 356, 448 A.2d 1080 (1982), our court, sitting en banc, recently held that the parent of a deceased person was a “survivor” within the meaning of Section 103 of the Pennsylvania No-fault Motor Vehicle Insurance Act, and that there was no necessity of showing that the parent was dependent upon the deceased for support. In light of Chester, it is clear that appellants in the case before us did not have to prove dependency upon the deceased in order to recover survivor’s loss benefits, and that the complaint did state a valid claim for survivor’s loss benefits. The fact that the complaint stated that the deceased had not been employed full-time at the time of the accident was therefore irrelevant.
+Appellants’ second argument is that the lower court erred in dismissing their claim for work loss benefits. The lower court’s ruling was based on the fact that the deceased was a student “and therefore cannot be said to have suffered an ‘accrued economic detriment’ .... ” This issue has beén decided recently by our court sitting en banc. In Freeze v. Donegal Mut. Life Ins. Co., 301 Pa.Superior Ct. 344, 447 A.2d 999 (1982), our court held that the estate of a deceased victim may recover work loss benefits under the No-fault statute even if the deceased victim is a minor who never worked. Accordingly, we find that the lower court erred in dismissing appellants’ claim for work loss benefits.
+Appellants’ final argument is that the lower court erred in sustaining appellee’s preliminary objection challenging appellants’ claim for exemplary and punitive damages. We find that the lower court acted properly in sustaining that preliminary objection and dismissing that claim, notwithstanding the fact that appellants alleged “outrageous” conduct on the part of the insurance company. In Smith v. Harleysville Ins. Co., 494 Pa. 515, 431 A.2d 974 (1981), our Supreme Court upheld the lower court’s dismissal of a claim for punitive damages in a No-fault action, indicating that there was no basis for judicial creation of a cause of action for bad faith conduct. In D’Ambrosio v. Pa. Nat. Mut. Cas. Ins. Co., 494 Pa. 501, 431 A.2d 966 (1981) (a case not involving the No-fault statute), our Supreme Court held that an insured was not entitled to punitive damages for an insurance company’s alleged bad faith in denying a claim, even though the insured had alleged in his complaint that the insurance company had engaged in “outrageous” conduct. We find Smith and D’Ambrosio to be controlling in the case before us. We therefore affirm that part of the lower court’s order which dismisses appellants’ claim for punitive and exemplary damages.
+Reversed in part, and remanded for further proceedings.
+. Act of July 19, 1974, P.L. 489, No. 176; 40 P.S. §§ 1009.101 et seq. (Supp.1980-81).
+. It should be noted that a party that has qualified as a "survivor” must still plead and prove the loss, or contribution and expenses incurred. Wercoch v. Liberty Mut. Ins. Co., 287 Pa.Superior Ct. 45, 429 A.2d 712 (1981); Chesler, 302 Pa.Superior Ct. at 363 n. 14, 448 A.2d 1083-84 n. 14.
+. Since recovery of both work loss benefits and survivor’s loss benefits may involve some of the same potential earnings of the victim, duplication of recovery is avoided by deducting the decedent’s contribution of income under the No-fault survivor’s loss provisions from the amount recovered on behalf of the estate under the No-fault work loss provisions. Allstate Insurance Co. v. Heffner, 491 Pa. 447, 459-60, 421 A.2d 629, 636-37 (1980); Smiley v. Ohio Casualty Co., 309 Pa.Superior Ct. 247, 252-53, 455 A.2d 142, 144 (1983).
+. It should be noted that our decision does not preclude the recovery of counsel fees and interest.
