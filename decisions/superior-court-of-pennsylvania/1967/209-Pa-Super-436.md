@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 41 and 42"
+decided: "1967-04-12"
+citations: ["209 Pa. Super. 436"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, P. J., Weight, Watkins, Montgomery, Jacobs, Hoffman, and Spaulding, JJ."]
+parties: ["Commonwealth v. Lytes, Appellant."]
+source_url: "https://static.case.law/pa-super/209/cases/0436-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 778096
+cites_cases: ["138 A. 2d 215", "147 Pa. Superior Ct. 121", "152 Pa. Superior Ct. 648", "177 A. 2d 11", "185 Pa. Superior Ct. 332", "192 A. 2d 693", "197 Pa. Superior Ct. 110", "205 Pa. Superior Ct. 353", "209 A. 2d 22", "24 A. 2d 98", "240 Pa. 255", "33 A. 2d 531", "411 Pa. 437", "87 A. 684"]
+---
+
+# Commonwealth v. Lytes
+
+## Majority (Wright, J.,)
+
+Opinion by
+Wright, J.,
+Jay Lytes was indicted in the Court of Oyer and Terminer and Quarter Sessions of Philadelphia County on Bills Nos. 4040, 4041 and 4042 of 1966 Sessions. Bill No. 4040 charged entry with intent to commit a felony. Bill No. 4041 charged forcible rape. Bill No. 4042 charged assault with intent, and solicitation, to commit sodomy. Lytes entered pleas of not guilty and was tried non jury before Honorable David L. TJllman. As to Bill No. 4042, a demurrer was sustained on tbe second count charging solicitation, and Lytes was adjudged not guilty on the first count. As to Bills Nos. 4040 and 4041, Lytes was adjudged guilty. Oral motions for new trial and in arrest of judgment were argued and denied, and concurrent sentences of two and a half to five years were imposed. We allowed appeals in forma pauperis and directed that counsel be appointed to argue the appeals.
+The Commonwealth’s evidence is summarized in the opinion below as follows: “The facts elicited indicate that on March 12, 1966, about 5:45 a.m., at 1712 Jefferson Street, Philadelphia, the prosecutrix was attacked in her apartment by a man. The prosecutrix had been asleep and was awakened by a man who pulled a scarf over her eyes, choked her and threatened her with a knife. After the man had assaulted the prosecutrix, a light was turned on and as the scarf which was covering her eyes began to slip down the prosecutrix saw her attacker. The incident was fully reported to the police. The prosecutrix testified that on the day after the attack she saw her attacker come out of a house near 16th Street and Columbia Avenue, approximately four blocks from her apartment, and through inquiry she learned his name and immediately notified the police. The prosecutrix was later called to a police station where she recognized her assailant in a police lineup of three men . . . Again at the trial of this case, the prosecutrix positively identified the defendant as her assailant”.
+Appellant took the stand in his own defense. He testified.that he was not at the scene of the crime on the morning in question, but was in an apartment with four girls at 2424 North Broad Street. He stated that he did not know the prosecutrix, but did know her boy friend. A ten-day continuance was granted by the trial judge in order to afford the voluntary defender an opportunity to produce any alibi testimony which might be available. However, no alibi witnesses were thereafter presented, and the case proceeded to adjudication.
+The two contentions advanced on this appeal are stated in appellant’s brief as follows: “1. Did the trial judge err in convicting appellant where the only evidence connecting him with the rape and burglary charged was the unreliable and self-contradictory testimony of a single Commonwealth witness and the doctor who examined the complainant after the rape was not called to testify? 2. Did the improper remarks and insinuations of the prosecuting attorney create such prejudice as to require a new trial?”.
+(1) In considering the appeal of a defendant after a verdict of guilty, the test of the sufficiency of the evidence is whether, accepting as true all the evidence upon which the jury could have properly based its verdict, such evidence is sufficient in law to prove beyond a reasonable doubt that the defendant is guilty of the crime charged: Commonwealth v. Gockley, 411 Pa. 437, 192 A. 2d 693. In a criminal prosecution tried before a judge without a jury, the facts to be found and the credibility of the witnesses are entirely for the trial judge as the jury: Commonwealth v. James, 197 Pa. Superior Ct. 110, 177 A. 2d 11. In the case at bar, the trial judge expressly states in his opinion that he did not believe appellant’s alibi. The fact that the Commonwealth did not call the family doctor who examined the prosecutrix two days after the rape was not a material circumstance. The cases cited in appellant’s brief are readily distinguishable. We are of the opinion that tbe evidence presented by the Commonwealth, found credible by tbe trial judge, was entirely sufficient to sustain tbe guilty verdicts.
+(2) During cross-examination of tbe appellant, tbe assistant district attorney inquired if tbe four girls in tbe apartment were lesbians and if they bad performed a “queer” show. No objection was raised at the time by appellant’s trial counsel. The case of Commonwealth v. Shoemaker, 240 Pa. 255, 87 A. 684, is cited in appellant’s brief for tbe proposition that it is error for counsel to insinuate that be has knowledge of prejudicial facts. That case is here inapposite. In tbe words of Judge Ullman: “Since tbe alibi witnesses were never produced by tbe defendant, their credibility was never before the court . . . And whether or not tbe defendant associated with four girls who may or may not have been lesbians, had no bearing upon our determination of the defendant’s guilt”.
+Tbe judgments of sentence are affirmed.
+Commonwealth v. Rex, 147 Pa. Superior Ct. 121, 24 A. 2d 98; Commonwealth v. Bird, 152 Pa. Superior Ct. 648, 33 A. 2d 531; Commonwealth v. Reilly, 205 Pa. Superior Ct. 353, 209 A. 2d 22; Commonwealth v. Trignani, 185 Pa. Superior Ct. 332, 138 A. 2d 215.
