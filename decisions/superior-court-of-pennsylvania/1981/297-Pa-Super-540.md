@@ -1,0 +1,20 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "576"
+decided: "1981-12-29"
+citations: ["297 Pa. Super. 540", "441 A.2d 462"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CAVANAUGH, DiSALLE and WATKINS, JJ."]
+parties: ["Commonwealth v. Pitt, Appellant."]
+source_url: "https://static.case.law/pa-super/297/cases/0540-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 184623
+---
+
+# Commonwealth v. Pitt
+
+## Majority
+
+Order affirmed.
