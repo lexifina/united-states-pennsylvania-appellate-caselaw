@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 29"
+decided: "1899-12-11"
+citations: ["12 Pa. Super. 102"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, W. W. Porter, W. D. Porter and Beeber, JJ.", "Opinion by W. W. Porter, J."]
+parties: ["Margaret S. Custer v. The School District of the Borough of Prospect Park, Appellant."]
+source_url: "https://static.case.law/pa-super/12/cases/0102-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 823393
+cites_cases: ["145 Pa. 418", "145 Pa. 550"]
+---
+
+# Custer v. School District of Prospect Park
+
+## Majority (William W. Porter, J.,)
+
+Opinion by
+William W. Porter, J.,
+By the provisions of the act of May 8, 1854, a board of school directors have the power to dismiss a teacher for incompetency, cruelty, negligence or immorality'. They have jurisdiction to pass upon any charge of the kinds named, and are held merely to the exercise of good faith in reaching their determination. The action of the board, if it be properly entered upon the minutes in the form and manner required by the statute in the case of a dismissal, is conclusive, unless the board can be shown to have acted corruptly or in bad faith, or to have clearly abused their powers : McCrea v. School District, 145 Pa. 550; Whitehead v. School District, 145 Pa. 418.
+The plaintiff in this case was appointed to be a teacher. She replied to the notice of appointment by a letter which the-court below construed to be an acceptance. Subsequently the appointment was revoked by the board. The minutes of their meeting do not disclose that the revocation was based upon a charge of incompetency, cruelty, negligence or immorality. The allegation of the defendants is that subsequent to her appointment and acceptance the plaintiff sought employment in another school. They allege that this was a course so dishonorable as to be immoral. On this ground they seek to justify the revocation of the appointment. The plaintiff denies that she made such application for employment after her acceptance of the appointment by the defendants, but explains that before her acceptance she did apply for another position, but hearing that it had been filled by another, she accepted the position tendered by the defendants.
+The first assignment of error is that the court below erred in not directing a verdict as requested by the defendants. We find no error in this. The question that was submitted to the jury by the court below was: “ Did this lady, after she had accepted this appointment, seek employment at higher wages and offer herself to other persons to perform the duties which she had. contracted to perform for the defendants ? If she did that, they had a right to revoke the appointment and employ some one that they could rely upon in her place.” This stated the substance of the dispute, and, being a matter of fact, it was properly submitted to the jury.
+The second assignment of error is to the admission in evidence of a letter written by a third party to the defendants,, and received before their final action. The letter informed, the defendants that the plaintiff had applied to the Lansdowne school board, and that the position applied for had been filled before the acceptance by the plaintiff of the position with the defendants. This letter was clearly admissible, as it tended to show that the defendants had within their knowledge, from an independent source, information that the plaintiff had not applied for the position in the Lansdowne school after her acceptance of the defendants’ appointment.. The letter was also admissible as contradicting the testimony of one of the defendants, who asserted that he had never heard until the day of the trial that the plaintiff alleged that her application for other employment was before her acceptance to the defendants.
+The tim’d assignment is to the admission of the evidence of' Miss Groce, the writer of the letter referred to in the second assignment. The objection was upon the ground that the witness could not testify to any conversation had in the absence of the plaintiff. The court below rightly ruled that her testimony was of a fact, namely, that she communicated to the plaintiff on a given day the information that the plaintiff’s application to the Lansdowne school board had been rejected.
+The answer of the court to the plaintiff’s third point, which is made the subject of the fourth assignment, while not a categorical reply (to which, perhaps, the plaintiff was entitled), yet-did the defendants no harm. In the course of the answer he says, in substance, that the defendants gave the plaintiff “ a pretty full hearing,” although at the same time saying that their act was irregular and unjust if they did not give her a hearing.
+The fifth assignment is to the answer of the court to the defendants’ second point. By it the court was asked to say that, if the jury believed that the plaintiff intended to deceive the defendants, and purposely wrote the letter “ so that she could from its phraseology either affirm or deny that it was an acceptance,” and that the defendants believed that the plaintiff did so intend, then the defendants had a right to annul her appointment. The trial judge had in the body of his charge and in his rulings held the letter to be an acceptance of the appointment. This ruling is not assigned as error. Having pronounced the document to be an acceptance the court was asked to affirm a point which involved an admission to the jury that the letter Avas open to a construction other than that put upon it by the court. On this ground the point was objectionable, and might have been refused. The answer by the court that the letter was an acceptance* and. that no matter what was intendéd by the plaintiff the jury had a right to consider it as an acceptance and the plaintiff could not violate it, was a reiteration of a statement made in the body of the charge which was certainly not injurious to the defendants.
+The judgment is affirmed.
