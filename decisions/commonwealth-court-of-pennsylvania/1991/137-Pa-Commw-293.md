@@ -1,0 +1,47 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "68 and 996 C.D. 1990"
+decided: "1991-01-18"
+citations: ["137 Pa. Commw. 293", "585 A.2d 1157"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DOYLE, and McGINLEY, JJ., and BARRY, Senior Judge."]
+parties: ["WESTINGHOUSE ELEVATOR COMPANY, Petitioner, v. WORKMEN’S COMPENSATION APPEAL BOARD (LYNCH KIVLEN, LYNCH, JR.), Respondents. WESTINGHOUSE ELEVATOR COMPANY, Petitioner, v. WORKMEN’S COMPENSATION APPEAL BOARD (LYNCH-KIVLEN), Respondent."]
+source_url: "https://static.case.law/pa-commw/137/cases/0293-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1410859
+cites_cases: ["439 A.2d 215", "64 Pa.Commonwealth Ct. 94"]
+---
+
+# Westinghouse Elevator Co. v. Workmen's Compensation Appeal Board
+
+## Majority (BARRY, Senior Judge.)
+
+OPINION
+BARRY, Senior Judge.
+Westinghouse Elevator Co., the employer, has appealed from two orders of the Workmen’s Compensation Appeal Board (Board) which reversed an order of a referee which dismissed a fatal claim petition filed on behalf of James and Derek Lynch (respondents), children of James Lynch, Sr., the decedent, and his ex-wife, Irene Lynch Kivlen.
+The decedent was killed in a work related accident while working for the employer. At the time of his death, the decedent was survived by his second wife, Naomi Lynch, a daughter of that second marriage, Nicole Lynch, and the respondents. The employer and Naomi Lynch entered into an agreement for compensation arising out of the decedent’s death whereby Naomi Lynch received $306.00/week, the maximum allowable under Section 307 of the Workmen’s Compensation Act, Act of June 2, 1915, P.L. 736, as amended, 77 P.S. § 561 (Supp.1990-91).
+The decedent’s first wife then filed the present fatal claim petition on behalf of respondents, alleging that they too were entitled to benefits. The referee dismissed the petition concluding that the respondents were not entitled to benefits under the Act because Naomi Lynch alone was entitled to the entire $306.00/week. The Board reversed, ordering that the employer was to pay Naomi Lynch and her child 60% of wages and also pay 6%% of wages to the respondents. The employer appealed to this Court and also filed an application for rehearing with the Board. The Board filed an amended order which ordered the employer to pay 10% interest to the respondents on the amount due them and further stated that the 6%% payable to the respondents was in addition to the monies being paid to Naomi Lynch and her daughter Nicole. The employer also appealed that order to this Court. In addition, we granted the employer’s request for supersedeas and stayed the Board’s last order.
+Section 307 of the Act states:
+In the case of death, compensation shall be computed on the following basis, and distributed to the following persons; Provided, That in no case shall the wages of the deceased be taken to be less that fifty per centum of the Statewide average weekly wage for the purposes of this section:
+1. If there be no widow or widower entitled to compensation, compensation shall be paid as follows:
+(a) If there be one child, thirty-two per centum of wages of deceased, but not in excess of the Statewide average weekly wage.
+(b) If there be two children, forty-two per centum of wages of deceased, but not in excess of the Statewide average weekly wage.
+(c) If there be three children, fifty-two per centum of wages of deceased, but not in excess of the Statewide average weekly wage.
+(d) If there be four children, sixty-two per centum of wages of deceased, but hot in excess of the Statewide average weekly wage.
+(e) If there be five children, sixty-four per centum of wages of deceased, but not in excess of the Statewide average weekly wage.
+(f) If there be six or more children, sixty-six and two-thirds per centum of wages of deceased, but not in excess of the Statewide average weekly wage.
+2. To the widow or widower, if there be no children, fifty-one per centum of wages, but not in excess of the Statewide average weekly wage.
+3. To the widow or widower, if there be one child, sixty per centum of wages, but not in excess of the Statewide average weekly wage.
+4. To the widow or widower, if there be two children, sixty-six and two-thirds per centum of wages but not in excess of the Statewide average weekly wage.
+4V2. To the widow or widower, if there be three or more children, sixty-six and two-thirds per centum of wages but not in excess of the Statewide average weekly wage.
+77 P.S. § 561. As one can see from reviewing this section, the Legislature has provided first for the surviving spouse of a deceased employee. If Naomi Lynch and the decedent did not have any children, she, as the surviving widow, would have been entitled to 51% of decedent’s wages, or $388.77 ($746.60 x 51%). Because the Act specifically states, however, that death benefits shall not exceed the statewide average weekly wage, or $306.00, Naomi Lynch’s benefits, even without any children from her marriage to the deceased, would have reached the statutory maximum. The referee, in dismissing the respondents’ fatal claim petition, based that dismissal in part on his belief that death benefits could not exceed the statewide average weekly wage.
+The Board recognized that the Act does not specifically provide for the present situation, i.e., where there are children of the deceased employee from a prior marriage. Responding to this claimed inequity, the Board fashioned its own remedy. It decided that, since the decedent was survived by three children, the employer should be responsible for paying 66%% of decedent’s wages. See 77 P.S. § 561(4½). It treated Naomi Lynch and her daughter as one unit, entitled to 60% of decedent’s wages. See 77 P.S. § 561(3). Treating the respondents as another unit, the Board reasoned that they were entitled to the difference between 66%% and 60%, or 6%%. The Board, however, never dealt with Section 307’s limitation on death benefits which provides throughout that benefits shall not exceed the statewide average weekly wage. As the Board’s orders in this case require the employer to make payments in excess of that figure, we believe the Board has committed an error of law and must be reversed.
+In each portion of Section 307, the Legislature provided that death benefits shall not exceed the statewide average weekly wage. We do not see how such a clear statement of legislative intent can be ignored. The respondents cite Builders Exchange, Inc. v. Workmen’s Compensation Appeal Board (Sacik), 64 Pa.Commonwealth Ct. 94, 439 A.2d 215 (1982), as authority that the limitations of Section 307 can be ignored in certain situations. We do not believe that case provides authority for the Board’s order in this case. There, a widow and surviving children were receiving death benefits. The widow remarried; under another portion of Section 307, the remarrying widow is entitled to a lump sum payment of 104 weeks of her previous compensation. See 77 P.S. § 562 (Supp. 1990-91). The employer’s insurer then attempted to offset the compensation payable to the children by the amount paid to the widow during the 104 week period. We affirmed the Board’s order rejecting the employer’s position and ordered that the children be paid their entire compensation during the 104 week period. A reading of that case makes clear that the lump sum payment to the remarrying widow is in a different category from the death benefits she was receiving prior to her remarriage. As the payments Naomi Lynch is receiving are certainly death benefits, Builders Exchange cannot support the proposition that the limitation on death benefits can be ignored.
+Similarly, we must reject the respondents’ arguments which rely upon the line of cases which hold that the Act must be liberally construed to effect its humanitarian aims. That principle comes into play when borderline questions of interpretation are involved and cannot be used to disregard the clear manifestation of legislative intent expressed in Section 307.
+Respondents finally argue that denying them benefits as ordered by the referee would be a denial of equal protection. Specifically, they argue that the differentiation between children of two marriages cannot withstand constitutional scrutiny. Suffice it to say that respondents are not being denied benefits because they are being treated differently from the child of decedent’s second marriage. They are being denied benefits because Naomi Lynch’s death benefits leave nothing for them.
+For all of the foregoing reasons, we are constrained to reverse the orders of the Board and reinstate the order of the referee dismissing respondents’ fatal claim petition.
+ORDER
+NOW, January 18, 1991, the orders of the Workmen’s Compensation Appeal Board, dated December 6, 1989 and April 12, 1990, at No. A-92678, are reversed and the order of the referee dismissing the claim petition is reinstated.
+. As will be discussed in more detail later, the Act provides that an employer is responsible to pay a varying percentage of the decedent’s wages depending upon the number of children surviving. In no case, however, is the employer responsible for more than the statewide average weekly wage at the time of death, which all parties agree was $306.00. The parties have also stipulated that at the time of his death, the decedent’s average weekly wage was $746.60.
