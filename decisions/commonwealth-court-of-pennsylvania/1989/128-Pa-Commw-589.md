@@ -1,0 +1,40 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "703 C.D. 1989"
+decided: "1989-09-27"
+citations: ["128 Pa. Commw. 589", "564 A.2d 283"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CRUMLISH, Jr., President Judge, COLINS, J., and NARICK, Senior Judge."]
+parties: ["Lawrence MARRA, Appellant, v. The TAX CLAIM BUREAU OF LUZERNE COUNTY, Appellee."]
+source_url: "https://static.case.law/pa-commw/128/cases/0589-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1393391
+cites_cases: ["337 Pa. Superior Ct. 58"]
+---
+
+# Marra v. Tax Claim Bureau
+
+## Majority (CRUMLISH, Jr., President Judge.)
+
+OPINION
+CRUMLISH, Jr., President Judge.
+Lawrence Marra appeals a Luzerne County Common Pleas Court order dismissing his petition to cancel a scheduled public hearing and sale of three properties owned by Luzerne County (County). We affirm.
+The County acquired the properties by purchase at a public sale for tax delinquency. Subsequently, the County sought to sell the properties pursuant to the Real Estate Tax Sale Law (Tax Sale Law), which prescribes several procedures, three of which are pertinent to this appeal: (1) Section 612.1, 72 P.S. § 5860.612-1, authorizes the County to petition the common pleas court to schedule a hearing and sale after published notice; (2) Section 613, 72 P.S. § 5860.613, provides for private bid sales, with published notice of the proposed sale and an opportunity for formal objections by interested parties; and (3) Section 627, 72 P.S. § 5860.627, applicable only to properties within a special class known as “repository” property, authorizes acceptance of an offer at any price without court approval and published notice.
+In this case, the County filed a petition under Section 612.1, requesting the common pleas court to schedule a public hearing and sale. The trial court fixed a date for the sale and ordered publication of notice thereof in accordance with Section 612.1.
+Marra filed a petition to cancel the sale, alleging that the County’s Tax Claim Bureau (Bureau) had already agreed to sell him the properties for $100.00 apiece, pursuant to the repository procedure in Section 627. The trial court dismissed Marra’s petition, finding that he had no binding contract with the Bureau, and rejecting his legal argument that Section 627 precluded use of other statutory procedures for selling such properties.
+On appeal, Marra contends that Section 627, governing the sale of “repository properties,” preempts any authority to conduct a private bid sale under Section 613. Therefore, he argues, the trial court had no jurisdiction to entertain the County’s petition. This contention is misdirected. The County petitioned to schedule a public sale pursuant to Section 612.1, not Section 613 governing private bid procedures. Marra does not contend that Section 627 preempts Section 612.1. Thus, his argument provides no basis for holding that the trial court lacked jurisdiction to hear the County’s petition.
+However, inasmuch as Marra claims, apparently as an alternative argument, that he has also submitted a private bid for the same properties under Section 613, we will address the merits of his contention.
+The express legislative purpose behind Section 627 is “to establish a procedure” for disposing of repository properties, 72 P.S. § 5860.625 (emphasis added); there is nothing in that provision indicating that it is the exclusive procedure nullifying Section 612.1, Section 613 or any other provision authorizing tax sales. On the contrary, since these statutes regulate the same subject matter, we must construe them together so as to give effect to them all. 1 Pa.C.S. §§ 1932, 1933. Accordingly, we conclude that Section 627 does not prevent the County or Bureau from exercising discretion to conduct the Section 613 private bid procedure rather than the Section 627 repository procedure.
+Marra further contends that there is no authority to proceed under Section 612.1 because the County did not acquire the properties at a “judicial sale.” We disagree.
+Under Section 612.1, the County is authorized to request the court to schedule a sale for property which it previously purchased at a “public sale upon order of court.” The County’s petition avers that it acquired the subject properties at a “Public Tax Sale.” County’s Petition, para. 1. Marra’s argument that Section 612.1’s language means “judicial tax sale,” whereas the County’s petition refers only to “public tax sale,” merely creates artificial distinctions through semantics. Nothing in the Tax Sale Law suggests that there is a genuine difference between these phrases in the context of this case. Moreover, Marra admits in his own petition that the County purchased the properties at a “Judicial Tax Sale in 1967.” Marra’s Petition, para. 19.
+Aside from these contentions, Marra maintains that he has an enforceable agreement with the Bureau to purchase these properties. His petition alleges that the Bureau’s executive director made an offer to sell the properties from the repository list, and that he accepted by tendering checks. Marra’s Petition, para 6. However, Marra points to no evidentiary support establishing that the Bureau made an offer. Moreover, the trial court expressly found that “[t]estimony at the hearing reveals that such an agreement to sell these properties was never reached.” Marra v. Tax Claim Bureau of Luzerne County, (No. 3282-C of 1988, filed March 15, 1989), slip op. at 2. Inasmuch as the question of whether a contract existed was for the trier of fact, Ingrassia Construction Co. v. Walsh, 337 Pa. Superior Ct. 58, 486 A.2d 478 (1984), we will not disturb the trial court’s finding in the absence of an evidentiary or legal basis for Marra’s assertions.
+Accordingly, we affirm.
+ORDER
+The Luzerne County Common Pleas Court order, No. 3282-C of 1988 dated March 14, 1989, is affirmed.
+. Act of July 7, 1947, P.L. 1368, as amended, added by Section 2 of the Act of May 20, 1949, P.L. 1579, as amended, reenacted in Section 7 of the Act of September 27, 1973, P.L. 269, as amended, 72 P.S. §§ 5860.-101—5860.803.
+. There was no dispute before the trial court that the subject properties were "repository” properties under Section 626, 72 P.S. § 5860.626, meaning that as a result of not being sold at a previous judicial sale, they were placed in a special category termed "repository for unsold properties.” Under Section 627 the Bureau "may accept an offer of any price for property placed in the ‘repository for unsold properties’ without court approval and published notice of sale.”
+. For similar reasons, we reject Marra’s separate contention, that under Section 613, the trial court lacked jurisdiction to hear the County's petition because there were no timely objections to the private bid. Again, we must point out that the County petitioned for a sale pursuant to Section 612.1, not Section 613. While Section 613 may require that there be formal objections in order to invoke the court’s jurisdiction over a private bid sale, this was not a private bid proceeding and there is no such requirement in Section 612.1.
+. Marra also argues, in his brief to this Court at page 8, that a contract exists because he separately submitted a private bid, pursuant to Section 613, and the Bureau accepted it. Marra’s petition did not allege this as a basis for the existence of a contract. Moreover, as was the case in his previous argument, there is no evidentiary or legal basis showing the alleged intent to be bound on the Bureau’s part.
+Finally, we need not address Marra's contention that the trial court erred in stating that the Uniform Written Obligations Act of May 13, 1927, P.L. 985, as amended, 33 P.S. §§ 1-8, rendered the alleged contract invalid. Since the trial court relied on this only as an alternative basis, we need not address it because the trial court’s conclusion is otherwise supported by its finding that an agreement was never formed.
