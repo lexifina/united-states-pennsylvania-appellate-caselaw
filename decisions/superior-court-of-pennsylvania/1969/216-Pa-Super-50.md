@@ -1,0 +1,38 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 219"
+decided: "1969-12-10"
+citations: ["216 Pa. Super. 50"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Watkins, Montgomery, Jacobs, Hoffman, Spaulding, and Cercone, JJ. (Wright, P. J., absent).", "Hoffman, J., concurs in the result.", "Cebcone, J., filed a concurring and dissenting opinion, reported at 216 Pa. Superior Ct. 43.", "Weight, P. J., did not participate in the consideration or decision of this case."]
+parties: ["Klein, Appellant, v. Allegheny County Health Department."]
+source_url: "https://static.case.law/pa-super/216/cases/0050-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 790290
+cites_cases: ["214 Pa. Superior Ct. 9", "216 Pa. Superior Ct. 37", "216 Pa. Superior Ct. 43", "248 A. 2d 861", "261 A. 2d 616"]
+---
+
+# Klein v. Allegheny County Health Department
+
+## Majority (Montgomery, J.,)
+
+Opinion by
+Montgomery, J.,
+This is a companion case to The National Council of the Junior Order of United American Mechanics of the United States of North America v. The Allegheny County Health Department and Reuben Roberson and Minnie R. Roberson, his wife (Roberson II), decided in an opinion to be filed herewith. [216 Pa. Superior Ct. 37, 261 A. 2d 616]. The two cases arose under the “Rent Withholding” Act of 1966, P. L. 1534, as amended, 35 P.S. §1700-1, and involve related questions of law. However, there is a difference in the factual situations of the two cases.
+In the present case the appellant, Stanley Klein (Owner), is the owner of a six unit apartment house known as 2505 Fifth Avenue, Pittsburgh, Pennsylvania. Louise Brunson, the tenant-intervenor herein, and her husband, Joseph Brunson, now deceased, rented a second floor apartment under a written lease, dated September 1, 1966, for the term of one year, with a provision for the renewal of the lease from year to year. Other tenants, Clifton Jones et ux., occupy a third floor unit under a similar lease but they have not intervened in these proceedings.
+On or about June 25, 1968, The Allegheny County Health Department (Department) declared the entire structure unfit for human habitation and thereafter both tenants elected to pay their rent under the Rent Withholding Act of 1966, as amended, to The Mellon National Bank & Trust Company as escrow agent. Jones et ux. paid $300 from June 20, 1968, to December 20, 1968, and Brunson et vir paid $360 during the same period. The Brunsons continued to pay their rent into the escrow account after December 20, 1968, but the Jones have not paid rent since that date.
+On December 20, 1968, the entire building was again certified as unfit for human habitation although the Owner during the above period had expended $1,700 for labor and material to repair it.
+The Owner, by petition, seeks to recover all moneys paid to the escrow agent by both tenants by reason of the fact that he had expended for repairs more than the total sum of the rentals paid therein during the initial six-month period and, further contending, that the rentals paid after December 20, 1968, are without the protection of the Rent Withholding Act. He cites National Council of the Junior Order of United American Mechanics v. Roberson, 214 Pa. Superior Ct. 9, 248 A. 2d 861 (1969) (Roberson I), as his authority for this position.
+We need not discuss the question of whether general repairs to a multifamily dwelling are sufficient to satisfy the Rent Withholding Act since we have concluded in Roberson II that anything less than a restoration of the leased premises to a condition that meets the reasonable requirements of fitness for human habitation established by health and safety departments of a city or county does not give an owner the right to recover payments of rentals paid into escrow. Since the Department has never certified that these standards have been met, the Owner is not entitled to the return of the rentals paid during the initial six-month period. Furthermore, as we held also in Roberson II, the right to funds mistakenly paid into escrow after the expiration of the initial six-month period is not an issue to be resolved in proceedings under the Rent Withholding Act. Therefore, the Owner is not entitled to recover those payments in this proceeding.
+To accept the tenant’s interpretation of the Rent Withholding Act as extending the rights of a tenant to withhold his rents from his landlord for more than six months and thereby deny him the use of his property indefinitely would be unreasonable, to say the least. Such an interpretation would permit a tenant to assume possession of another’s property without limitation of time so long as he paid his rent into the escrow account, with the expectation of having it returned to him if the owner were unwilling or unable to make the required repairs. We do not think that the legislature intended that result and therefore affirm our conclusion that this is a temporary measure to compel an owner to make his property fit for human habitation, under the penalty of losing his rent for six months or having his property condemned as unsafe and unfit. However, we find nothing in the Act which in any way indicates that the legislature intended that tenants in such premises should have the right to continue to occupy them in an unfit condition for more than six months. The fact that the legislature reduced that period from one year as originally provided in the 1966 version of the Act to six months by the amendment of 1967 and retained that provision in still a later amendment of 1968 supports our interpretation. We do not interpret the amendment as evidencing legislative intention of compelling landlords to make the repairs sooner than one year. Therefore, the rentals paid into escrow by the Brunsons after December 20, 1968, were also made under the same mistaken view, as in Roberson II, that they were being made under the protection of the Rent Withholding Act.
+Our disposition of this case, which affirms the order of the lower court in dismissing the Owner’s petition and discharging the rule issued thereon, but reverses that part of the order returning the funds to the tenant, Louise Brunson, is without prejudice to either the Owner or the tenants to proceed by proper action to recover said money from the escrow agent as their legal right to same may be therein determined in such later action. Our decision herein is limited to appelplant’s right to recover under the Rent Withholding Act.
+That part of the order dismissing appellant’s petition and discharging the rule for the return of the escrow funds to appellant is affirmed; but it is reversed insofar as it orders the return of the money to Louise Brunson, intervenor, without prejudice as hereinbefore stated.
+Costs to be paid by appellant.
+Hoffman, J., concurs in the result.
+Cebcone, J., filed a concurring and dissenting opinion, reported at 216 Pa. Superior Ct. 43.
+Weight, P. J., did not participate in the consideration or decision of this case.
+The record does not disclose what action was taken by other tenants, if any.
+Under the Statutory Construction Act of May 28, 1937, P. L. 1019, 46 P.S. §501 et seq., §552 thereof provides that, to ascertain the intention of the Legislature, it is to be presumed that it did not intend an unreasonable or unconstitutional result.
+Neither The Allegheny County Health Department nor either of the tenants in this proceeding have made a claim to the escrow funds, nor has any order been made by the Department or direction given the escrow agent to pay the money to the tenants.
