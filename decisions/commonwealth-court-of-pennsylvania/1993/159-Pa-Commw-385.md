@@ -1,0 +1,49 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "2554 C.D. 1992"
+decided: "1993-10-29"
+citations: ["159 Pa. Commw. 385", "633 A.2d 246"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before PALLADINO and KELLEY, JJ., and LORD, Senior Judge."]
+parties: ["James SINGER, M.S., Petitioner, v. BUREAU OF PROFESSIONAL AND OCCUPATIONAL AFFAIRS, STATE BOARD OF PSYCHOLOGY, Respondent."]
+source_url: "https://static.case.law/pa-commw/159/cases/0385-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1452506
+cites_cases: ["113 Pa.Commonwealth Ct. 576", "119 Pa.Commonwealth Ct. 394", "135 Pa.Commonwealth Ct. 232", "143 Pa.Commonwealth Ct. 456", "153 Pa.Commonwealth Ct. 109", "460 A.2d 390", "522 Pa. 114", "522 Pa. 585", "529 Pa. 535", "559 A.2d 528", "560 A.2d 128", "74 Pa.Commonwealth Ct. 450"]
+---
+
+# Singer v. Bureau of Professional & Occupational Affairs
+
+## Majority (PALLADINO, Judge.)
+
+PALLADINO, Judge.
+James Singer (Singer) appeals from an order of the Bureau of Professional and Occupational Affairs, State Board of Psychology (Board) which imposed civil penalties against him and suspended indefinitely his license to practice psychology within the Commonwealth. We affirm.
+This case has a rather protracted procedural history which began on April 10, 1989, when the Board voted unanimously to institute formal disciplinary proceedings against Singer. Thereafter, on July 18, 1989, the Board issued an order to show cause, alleging fifty-eight violations of the Professional Psychologists Practice Act (Act). These alleged violations were based primarily upon Singer’s billing practices. Singer filed an answer denying the allegations and moved to dismiss. Following oral argument, the Board denied Singer’s motion.
+Thereafter, the Board filed several amended orders to show cause. After formal hearings were begun before the Board, the proceedings were stayed for a period of time during which the parties attempted to reach a settlement. However, these attempts were unsuccessful and the stay was vacated.
+On October 26, 1992, the Board issued its adjudication and order in this matter. Having determined that several of the counts against Singer were not supported by the evidence, the Board dismissed these counts. With respect to the remaining counts, the Board concluded that they were supported by the evidence: Accordingly, the Board imposed a civil penalty of $6,000 against Singer and suspended his license, upon condition that if Singer consulted and cooperated with a Board-approved psychologist regarding ethical matters, the suspension would be stayed in favor of a probationary period. Singer appealed the Board’s decision to this court.
+Singer raises three issues on appeal: 1) whether issuance by the Board of investigative subpoenas to the Board’s prosecutors, while denying them to Singer, violated his due process rights; 2) whether Singer’s due process rights were violated by the Board’s commingling of its prosecutorial and adjudicatory functions; and 3) whether the Board’s findings of fact are supported by substantial evidence.
+Singer includes the first issue in the “Statement of Questions Involved” section of his brief. However, he does not address it further in the “Argument” portion of his brief. Therefore, we deem this issue to be waived. Wood v. City of Pittsburgh, 74 Pa.Commonwealth Ct. 450, 460 A.2d 390 (1983).
+With respect to the second issue, Singer asserts that his procedural due process rights were violated by the impermissible commingling of prosecutorial and adjudicatory functions by the Board. It is the Board’s position, however, that because Singer did not raise this issue before the Board at any stage of its proceedings, Singer has waived the right to contest the Board’s procedures on appeal. We agree.
+Pennsylvania Rule of Appellate Procedure 1551 provides, in pertinent part, that
+[n]o question shall be heard or considered by [this] court which was not raised before the government unit except:
+(1) Questions involving the validity of a statute.
+(2) Questions involving the jurisdiction of the government unit over the subject matter of the adjudication.
+(3) Questions which [this] court is satisfied that the petitioner could not by the exercise of due diligence have raised before the government unit....
+Pa.R.A.P. 1551(a). Relying upon this rule, this court has previously held that commingling claims may be waived if they are not raised before the administrative board. Dowler v. Public School Employes’ Retirement Board, 153 Pa.Commonwealth Ct. 109, 620 A.2d 639 (1993).
+In the instant case, the record reveals that Singer did not raise before the Board the issue of whether the Board impermissibly commingled its prosecutorial and adjudicatory functions. As to whether Singer could have raised the issue before the Board by the exercise of due diligence, we note that on July 1, 1991, Singer brought an action against the Board in the United States District Court for the Middle District of Pennsylvania. Singer v. Lewis, et al., No. 1:CV-91-859. In that forum, the Board asserts, and Singer does not refute, that Singer raised for the first time the issue of whether the Board impermissibly commingled its prosecutorial and adjudicatory functions. Despite Singer’s apparent knowledge of the existence of the issue and its importance to his case before the Board, Singer did not, at any time during the course of formal proceedings before the Board, raise the issue.
+Because Singer failed to raise the issue, and could have raised it through the exercise of due diligence, at the Board level, we conclude that Singer waived the issue on appeal to this court.
+With respect to the third and final issue, Singer asserts that the Board’s findings are not supported by substantial evidence. This court has defined substantial evidence as such relevant evidence which a reasonable mind might accept as adequate to support a conclusion. Mormak v. Unemployment Compensation Board of Review, 135 Pa.Commonwealth Ct. 232, 579 A.2d 1383 (1990).
+Without challenging a specific finding of fact, Singer simply asserts that the testimony of a client identified as “Allen M.” and the testimony of his wife, “Mary Jane M.,” “borders on perjury” and, therefore, does not constitute substantial evidence upon which the Board could base its findings. Singer’s Brief at 4.
+Whether the evidence presented “borders on perjury” is clearly a question of credibility. This court has previously held that matters of credibility and evidentiary weight are within the exclusive province of the fact finder below and are not within our scope of review. Makris v. Bureau of Professional and Occupational Affairs, State Board of Psychology, 143 Pa.Commonwealth Ct. 456, 599 A.2d 279 (1991).
+An independent review of the record by this court reveals that the Board’s findings of fact relating to the incidents involving Allen M. are supported by the testimony of Mr. and Mrs. M., which the Board accepted as credible. We, therefore, conclude that the Board’s findings of fact are supported by substantial evidence.
+Accordingly, the order of the Board is affirmed.
+ORDER
+AND NOW, October 29, 1993, the order of the Bureau of Professional and Occupational Affairs, State Board of Psychology in the above-captioned matter is affirmed.
+. Act of March 23, 1972, P.L. 136, as amended, 63 P.S. §§ 1201-1218.
+. Our scope of review is limited to determining whether constitutional rights were violated, whether the decision is in accordance with the law and whether necessary findings of fact are supported by substantial evidence. Section 704 of the Administrative Agency Law, 2 Pa.C.S. § 704; Cassella v. State Board of Medicine, Bureau of Professional and Occupational Affairs, 119 Pa.Commonwealth Ct. 394, 547 A.2d 506 (1988), petition for allowance of appeal denied, 522 Pa. 585, 559 A.2d 528 (1989).
+. In support of his position, Singer relies upon Lyness v. State Board of Medicine, 529 Pa. 535, 605 A.2d 1204 (1992), in which our supreme court held that the State Board of Medicine violated a physician's due process rights because an administrative board cannot initiate a professional licensing prosecution and then act as the ultimate fact finder in determining whether a violation has occurred.
+. Section 703(a) of the Administrative Agency Law, 2 Pa.C.S. § 703(a), similarly provides that a party who proceeded before a Commonwealth agency may not raise on appeal any question, other than the validity of a statute, which was not raised before the agency, unless allowed by the court upon due cause shown.
+. We further conclude that the commingling issue raised by Singer was neither a question involving the validity of a statute nor a question involving the Board’s jurisdiction over the subject matter of the adjudication. Therefore, Singer was not able to raise this issue for the first time on appeal to this court on either of these bases.
+. Singer also asserts that the Board's findings are not binding because some Board members failed to attend all of the hearings. In this regard, this court has previously held that there is no requirement that all of the decision makers attend evidentiary proceedings as long as those not present give specific consideration to the testimony and exhibits by reading and examining the same. FR & S, Inc. v. Department of Environmental Resources, 113 Pa.Commonwealth Ct. 576, 537 A.2d 957 (1988), aff’d per curiam, 522 Pa. 114, 560 A.2d 128 (1989). Because the Board noted in its decision that "all Board members who participated in adjudicating this matter studied the complete record,” Board’s Adjudication and Order of October 26, 1992 at 3, we conclude that Singer's argument is without merit.
