@@ -1,0 +1,40 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1873 C.D. 1993 and 1874 C.D. 1993"
+decided: "1994-04-04"
+citations: ["163 Pa. Commw. 167", "639 A.2d 1345"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before SMITH and NEWMAN, Judges, and KELTON, Senior Judge."]
+parties: ["Anthony John MARICH, Jr., Petitioner, v. PENNSYLVANIA GAME COMMISSION, Respondent. Arn C. ANGLEKA, Petitioner, v. PENNSYLVANIA GAME COMMISSION, Respondent."]
+source_url: "https://static.case.law/pa-commw/163/cases/0167-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1459882
+cites_cases: ["109 Pa.Commonwealth Ct. 577", "466 Pa. 152", "503 A.2d 497", "518 Pa. 645", "529 Pa. 535", "542 A.2d 1373", "94 Pa.Commonwealth Ct. 277"]
+---
+
+# Marich v. Pennsylvania Game Commission
+
+## Majority (KELTON, Senior Judge.)
+
+KELTON, Senior Judge.
+Anthony John Marich, Jr. and Arn C. Engleka (Petitioners) petition for review of the July 16,1993 order of the Pennsylvania Game Commission (Commission), revoking, for one year, Petitioners’ hunting licenses for the unlawful' taking of waterfowl under the Game and Wildlife Code (the Code), 34 Pa.C.S. §§ 2102, 2741.
+The issue before us is whether an unconstitutional commingling of prosecutorial and adjudicative functions occurs when the Commission’s Hearing Officer, who is a member of the Commission’s Bureau of Law Enforcement, both presents the Commonwealth’s case and makes findings of fact based on the evidence adduced at the hearing. We conclude that such a commingling is inconsistent with Petitioners’ due process rights as guaranteed under the Pennsylvania Constitution.
+Background
+The facts as found by the Hearing Officer are summarized as follows. On October 31, 1992, Petitioners were hunting for waterfowl on Somerset Lake in Somerset County. When Wildlife Conservation Officer Daniel Jenkins checked the Petitioners, each was in possession of ten ducks. On the day in question, the daily limit of ducks was three. Officer Jenkins charged each Petitioner with killing two ducks over the limit of waterfowl established under Section 2102 of the Code. Petitioners each pled guilty on a Field Acknowledgment of Guilt form and paid a fine by mail.
+At a meeting on April 6, 1993, the Commission imposed a one-year revocation of Petitioners’ hunting licenses, effective July 1, 1993. Petitioners requested a hearing.
+On May 21,1993, a Hearing Officer from the Bureau of Law Enforcement of the Commission conducted a hearing to consider whether any mitigating or aggravating circumstances existed indicating that the revocation period was excessive or inadequate. Marich testified that he believed that regulations permitting a seven duck bonus remained in effect. Engleka testified that he relied on Marich’s knowledge of the hunting laws. The Hearing Officer presented the Commonwealth’s record in this case. Finding no mitigating circumstances preventing the revocation of Petitioners’ licenses, the Hearing Officer recommended that the revocation period remain as ordered.
+The Commission concurred with the findings of the Hearing Officer and ordered that the revocation stand as ordered.
+Petitioners attack the Commission’s order on the following substantive and procedural grounds: 1) that the Commission committed an abuse of discretion in revoking Petitioners’ licenses because the Field Acknowledgments of Guilt operated as a settlement agreement precluding further action by the Commission; 2) that the regulations establishing the current duck limit were not properly published; 3) that because the Hearing Officer was a member of the Bureau of Law Enforcement of the Commission, the hearing commingled prosecutorial and adjudicative functions in the Commission; 4) that Petitioners were treated differently than others; and 5) that the Commission abused its discretion by finding no mitigating circumstances.
+Because we conclude that the Commission’s proceedings unconstitutionally commingled prosecutorial and adjudicative functions, we do not discuss Petitioners’ other arguments.
+Discussion
+Our Supreme Court in Lyness v. State Board of Medicine, 529 Pa. 535, 605 A.2d 1204 (1992), held that a violation of due process occurs when an administrative board, which initiates a professional licensing prosecution, issues the ultimate adjudication in the case. Due process protection is not limited to the revocation of professional occupational licenses. See e.g. Brewster v. Department of Transportation, 94 Pa.Commonwealth Ct. 277, 503 A.2d 497 (1986) (holding that the Commonwealth cannot revoke a driver’s license without due process required by the Constitution).
+In determining what process is due, the Supreme Court has held, in cases involving the commingling of prosecutorial and adjudicative functions, that the mere appearance of bias is constitutionally impermissible. Lyness; Dussia v. Barger; 466 Pa. 152, 351 A.2d 667 (1975). In the case before us, the record clearly demonstrates that the Hearing Officer acted as both prosecutor and judge at the hearing. Specifically, the Hearing Officer, who was a member of the Bureau of Law Enforcement and the only Commonwealth employee present at the hearing, presented the Commonwealth’s evidence; questioned the parties; and made recommended findings of fact and conclusions of law to the Commission. The Commission accepted the Hearing Officer’s recommendations in toto. Thus, we conclude that the appearance of bias in the proceedings before the Hearing Officer is sufficient to create a fatal defect under the Pennsylvania Constitution. Id.
+In accordance with Lyness, we determine that the Commission is not precluded from performing both prosecutorial and adjudicative functions. However, as stated by the Supreme Court, “[w]hat our Constitution requires ... is that if more than one function is reposed in a single administrative entity, walls of division be constructed which eliminate the threat or appearance of bias.” Lyness 529 Pa. at 546, 605 A.2d at 1209. Thus, the constitutional infirmities of this case can be remedied by placing the prosecutorial functions in an individual or entity distinct from the individual or entity performing the role of adjudicator.
+Accordingly, we reverse and remand this matter to the Commission for further proceedings consistent with this opinion.
+ORDER
+AND NOW, this 4th day of April, 1994, the order of the Pennsylvania Game Commission of July 16, 1993 at PGC Docket Nos. RR-93-855 and 93-856 is hereby reversed and this matter is remanded to the Commission for further proceedings consistent with this opinion.
+Jurisdiction relinquished.
+. Our scope of review of the Commission’s adjudication is limited to determining whether constitutional rights were violated, an error of law was committed, or whether necessary findings of fact are supported by substantial evidence. Section 704 of the Administrative Agency Law, 2 Pa.C.S. § 704; Pfingstl v. Pennsylvania Game Commission, 109 Pa.Commonwealth Ct. 577, 531 A.2d 821 (1987), petition for allowance of appeal denied, 518 Pa. 645, 542 A.2d 1373 (1988).
+. Under the Commission’s regulations, although the Hearing Officer does not render the final adjudication, his findings of fact are not subject to reversal; the Director may only return the case for additional findings. 58 Pa.Code § 145.13(c).
