@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 1"
+decided: "1902-07-10"
+citations: ["21 Pa. Super. 27"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice P. J., Beaver, Orlady, W. W. Porter and W. D. Porter, JJ."]
+parties: ["Fuhrman’s Estate."]
+source_url: "https://static.case.law/pa-super/21/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 844298
+cites_cases: ["146 Pa. 415", "15 Pa. Superior Ct. 224", "32 Pa. 121", "4 Rawle, 271", "86 Pa. 169", "90 Pa. 353"]
+---
+
+# Fuhrman's Estate
+
+## Majority (W. D. Porter, J.,)
+
+Opinion by
+W. D. Porter, J.,
+The appellant filed her account, as administratrix of the estate of Daniel S. Fuhrman, deceased, showing a balance of $814.62 in favor of the estate, and in her hands for distribution. Exceptions to this account were filed on behalf of a creditor, and an auditor was appointed to pass upon the exceptions and distribute the balance in the hands of the accountant. No exception was sustained which involved a surcharge of the accountant; the auditor distributed the balance which the appellant by her account had admitted to be in her hands. The auditor found as a fact that the estate of the decedent was insolvent, to which finding of fact there has been no exception, and the distribution to the creditors was for a percentage of their claims. The auditor, notwithstanding the insolvency of the estate, distributed the sum of $411.84 to the widow and heirs of the decedent. The paper-books do not make clear how the widow and heirs could receive this sum as distributees of the insolvent estate, but no exception was taken to that part of the distribution. The auditor awarded the sum of $336.78 as a dividend upon a claim against the estate which was evidenced by a promissory note. The only exception filed to the report of the auditor was as to the amount of the debt evidenced by that note upon which the creditor was entitled to a dividend, payments having been made upon the claim by the administratrix, for which payment she had taken credit in her account. The learned judge of the court below sustained this exception and awarded as the dividend upon said claim the sum of $525.03 out of the fund. The amount distributed by the court was $814.62, the same which was the basis of distribution by the auditor, and which the appellant had by her account admitted to be in her hands for distribution. The result of the action of the learned judge of the court below was to cut down the amount distributed to the widow and heirs of the decedent to $63.64. The appellant, at the time she filed her account, and at every stage of the proceeding down to the present time, has conceded that there was a fund in her hands belonging to the estate and ready for distribution to those entitled to receive the same, amounting to $814.62. This amount was accepted by the auditor and by the court below as well, and both made the distribution upon that basis. The only question raised by the assignments of error is as to the amount which a certain creditor was entitled to receive out of the fund for distribution. The only question is, therefore, one of distribution. How much of the fund admitted to be in the hands of the accountant shall be paid to a certain creditor ?
+We must for the purposes of this case assume the record to be correctly printed in the paper-book of the appellant. That record shows that Sarah A. Fuhrman has appealed as administratrix and in no other character. A trustee who comes into the court to which she must account admitting that she has a specific balance in her hands for distribution has no standing, as trustee, to appeal from the decree of the court making that distribution, so long as the decree does not surcharge her, or make distribution of an amount larger than the admitted balance due the estate. If administrators “ were recognized as parties aggrieved by a decree of distribution, a door would be open to great abuses, delays and expenses, in the administration of their trusts.” It is true the record shows that this appellant was also the widow of the decedent, but she does not appeal in that capacity. As administratrix she had no right to appeal : Mellon’s Appeal, 32 Pa. 121; Singmaster’s Appeal, 86 Pa. 169 : Herbst’s and Buehler’s Appeal, 90 Pa. 353 ; Assigned Estate of Graff, Bennett & Company, 146 Pa. 415 ; Ahl’s Assigned Estate, 15 Pa. Superior Ct. 224. The case of Koch’s Estate, 4 Rawle, 271, stands on its peculiar circumstances ; in that case the appeal of the administrator was sustained upon the ground that the facts, which had been brought upon the record by the petition of the administrator to the court below, were such as to warrant the court in treating him as the representative of the actual parties, who resided beyond seas. There is nothing in this case which should take it out of the operation of the well established rule.
+The appeal is quashed.
