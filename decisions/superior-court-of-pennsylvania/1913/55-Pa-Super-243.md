@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 103"
+decided: "1913-10-13"
+citations: ["55 Pa. Super. 243"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady, Head and Porter, JJ."]
+parties: ["Leedom-Worall Company v. Wick, Appellant"]
+source_url: "https://static.case.law/pa-super/55/cases/0243-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 439376
+---
+
+# Leedom-Worall Co. v. Wick
+
+## Majority (Head, J.,)
+
+Opinion by
+Head, J.,
+The real and controlling issues between the parties were issues of fact. The plaintiff affirmed the existence not only of a contract of lease, creating the relation of landlord and tenant between the parties, but also of a covenant of guaranty or warranty by the defendant inducing the execution of the lease. The alleged breach of this covenant and the resulting damages were the bases of the plaintiff’s action. The defendant, a practical contractor and lumberman, was the owner of a warehouse which the plaintiff contemplated leasing. It was a matter of consequence to be assured that the building would be strong enough to carry the load to which the installation of the plaintiff’s business and stock of goods would subject it. The defendant determined to make certain repairs and the plaintiff alleged and proved that he guaranteed when such repairs would be made the building would safely stand the strain of the proposed load, and if it failed to do so, he, the defendant, would make good any loss or expense that would result from such failure. The defendant, on the other hand, strenuously denied the existence of any such guaranty and sought to establish by proof that no such covenant had been made; that the only relation existing between the parties was that of landlord and tenant, and as a consequence the rights and remedies of the plaintiff would be such, and such only, as were incident to that relation where the landlord neglected or refused to make promised repairs. The learned trial judge clearly and carefully submitted this basic question of fact to the jury and the verdict, responsive to the submission, establishes the existence of the contract of guaranty alleged by the plaintiff. If such covenant were made, there is no dispute about the fact there was a breach of it, nor does the testimony disclose any substantial conflict as to the amount of money necessary to restore the plaintiff to the position it occupied before the breach. The measure of damages for the breach of such a covenant would be compensation, and the jury were properly instructed their verdict should ascertain the amount of such compensation.
+The learned trial judge further instructed the jury that, even if such covenant had been made, it would be effective only to the extent of a reasonable use of the building by the plaintiff; that if the breaking down of the floor was caused by willfully or negligently overloading it, the plaintiff could not recover, because in such case the loss would be attributable to its own negligent act rather than to a breach of the defendant’s covenant. .Surely this instruction was as favorable to the defendant as he could fairly expect it to be.
+There was still another issue of fact about which the testimony was in conflict, and this too the learned judge properly submitted to the jury. The defendant alleged that the term of the lease, which was in parol, was three years and that the plaintiff, having vacated the demised premises during the term, was responsible for the rent for the entire period. This sum he claimed, under the defalcation act, to have allowed by the jury in the pending action. The answering testimony tended to show that whatever may have been the original intent of the parties as to the term of the lease, they had both reached the conclusion that it should terminate at or about the time the plaintiff company vacated the premises. There was testimony from the correspondence between the parties corroborating this view, and the jury determined this issue as it did the others in favor of the plaintiff.
+The legal positions taken by the defendant, both at the trial and at the argument of the appeal here, rested on the theory that the plaintiff’s remedies were confined to those given by the law to a tenant. His points submitted in the court below were affirmed and the jury were instructed accordingly, on the condition plainly kept before their eyes, that their finding on the all-important question of fact should be favorable to the contention of the defendant. We are unable to see wherein the learned judge below fell into any error, either in the answers to such points or in the general instructions given to the jury. As already stated, the controlling issues of fact were fairly submitted with intelligent instructions and the verdict of the jury upholds at every point the contentions of the plaintiff. Having established the existence of the covenant it sued on, having shown its breach and the resultant loss therefrom, we can find no good reason in law or morals why it should not recover compensation for such loss. The assignments of error are overruled.
+Judgment affirmed.’
