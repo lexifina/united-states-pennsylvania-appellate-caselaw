@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 172"
+decided: "1963-09-12"
+citations: ["201 Pa. Super. 642"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Eevin, Wright, Woodside, Watkins, Montgomery, and Flood, JJ."]
+parties: ["Commonwealth v. Sholder, Appellant."]
+source_url: "https://static.case.law/pa-super/201/cases/0642-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 764250
+cites_cases: ["125 A. 2d 442", "127 A. 2d 760", "156 A. 2d 615", "170 Pa. Superior Ct. 245", "183 Pa. Superior Ct. 79", "186 A. 2d 854", "188 A. 2d 809", "191 A. 2d 719", "191 Pa. Superior Ct. 200", "200 Pa. Superior Ct. 122", "200 Pa. Superior Ct. 216", "201 Pa. Superior Ct. 48", "386 Pa. 149", "76 Pa. Superior Ct. 488", "85 A. 2d 673"]
+---
+
+# Commonwealth v. Sholder
+
+## Majority (Montgomery, J.,)
+
+Opinion by
+Montgomery, J.,
+This is an appeal by Larue E. Sholder from a conviction and sentence on an indictment for the crimes of conspiracy and receiving stolen goods. The stolen goods consisted of twenty cartons of cigarettes stolen from a wholesale distributor. The indictment charged conspiracy with a codefendant, Walter Vanemon, who was indicted for the crimes of larceny, receiving stolen goods, and conspiracy. A third person, James H. Moyer, was indicted for larceny, receiving stolen goods, and conspiracy; Moyer pleaded guilty, was sentenced, and became the main Commonwealth witness against Yanemon and Sholder, the appellant.
+Sholder and Yanemon were tried jointly and convicted by a jury of both conspiracy and receiving stolen goods, but Vanemon was acquitted on the charge of larceny.
+Appellant’s motion for a new trial alleged: numerous errors, but at argument the appellant’s counsel stated that there were no errors of law and that the trial was fair. The sole remaining argument for the motion was based on the recantation by James H. Moyer of part of his testimony, which recantation was in the form of a letter written to his mother in which he confessed to perjury.
+James H. Moyer had testified that he had stolen the cigarettes from his employer, Aderhold and Fiester, and that on three different occasions the appellant, who was then a policeman, received cartons of cigarettes from him. In his letter to his mother Moyer states that the reason for his perjury was because of phone threats that he “would be in for it” if he did not implicate Sholder, and that he would be made to serve the remaining term of a three and one-half year sen-' fence from which he was then on' parole. In his recan-' tation he states that the appellant knew nothing about the theft of the cartons of cigarettes, and that he had made only one delivery to the appellant. At the trial he had fully implicated the appellant and stated that Sholder had made more than one pickup of the stolen cigarettes from him.
+The well established rule is that an appellate court may not interfere in the granting of a new trial where the sole ground is the recantation of the State’s witness unless there has been a clear abuse of discretion. Commonwealth v. Saunders, 386 Pa. 149, 125 A. 2d 442; Commonwealth v. Szocki, 183 Pa. Superior Ct. 79, 127 A. 2d 760. Recanting testimony is exceedingly unreliable and it is the duty of the court to deny a new trial where it is not satisfied that such testimony is true. There is no less reliable- form of proof. Commonwealth v. Saunders, supra; Commonwealth ex rel. Estelle v. Cavell, 191 Pa. Superior Ct. 200, 156 A. 2d 615; Commonwealth v. Brady, 76 Pa. Superior Ct. 488.
+Recanted testimony falls under the heading of after-discovered evidence. In such cases a new trial will not be granted unless four requirements are met: (1) it' has been discovered after the trial, and could not be obtained at or prior to the conclusion of the trial', by the exercise of reasonable diligence; (2) is not merely corroborative or cumulative; (3) will not be used solely for impeaching the credibility of a witness; and (4) is of such nature and character that a different verdict will likely result if a new trial is granted: Commonwealth v. Bradford, 200 Pa. Superior Ct. 216, 188 A. 2d 809; Commonwealth v. Coroniti, 170 Pa. Superior Ct. 245, 85 A. 2d 673.
+The lower court refused a new trial because the fourth requirement had not been satisfied. Judge Greevy, writing for the court said, “We are satisfied that there was ample testimony to convict the defendant even though Moyer had not testified as to defendant picking up the goods. We are of the opinion that no injustice has been done and that the so-called newly-discovered evidence would not result in a different verdict if a new trial were granted . . .”. He stated further, “. . . that we are not satisfied that the newly or after-discovered evidence, that is the so-called recanting testimony, of James H. Moyer, is true.”
+In Commonwealth v. Mickens, 201 Pa. Superior Ct. 48, 191 A. 2d 719 (1963), we recently considered the matter of recanted testimony and restated the principie that, “The appellate court will not interfere with an order refusing a new trial, applied for on the ground of recanted testimony, unless there has been a plain abuse of discretion.” We find no abuse of discretion present in this instance.
+The lower court earnestly considered the letter of recantation, the reasons assigned therein for the perjury of the writer, the fact that he was an accomplice, and disregarded the recantation as incredible. It was the prerogative of the lower court to pass on the credibility of the writer of the recantation in deciding the issue before it. Commonwealth v. Scull, 200 Pa. Superior Ct. 122, 186 A. 2d 854.
+Furthermore, the record discloses sufficient other evidence to support appellant’s conviction although the recantation be true. Except for the number of times the appellant removed cartons of cigarettes from the warehouse, there is no change in the original testimony from that given in his recantation. One act would be sufficient to sustain the conviction. The issue of the sufficiency of the evidence generally is not before us, so it is not necessary that it be considered. Commonwealth v. Szocki, supra. However, our examination of the record indicates no injustice is being done to appellant, that he has had a fair trial and stands convicted on competent evidence.
+Judgment of sentence is affirmed and the appellant is directed to appear before the lower court when directed to perform that part of his sentence which was not complied with at the time he was granted a supersedeas by the lower court.
