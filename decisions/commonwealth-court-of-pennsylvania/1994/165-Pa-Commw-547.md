@@ -1,0 +1,39 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "2440 C.D. 1993"
+decided: "1994-07-07"
+citations: ["165 Pa. Commw. 547", "645 A.2d 464"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before McGINLEY and FRIEDMAN, JJ., and NARICK, Senior Judge."]
+parties: ["LAWRENCE COUNTY CHILDREN AND YOUTH SERVICES, Petitioner, v. DEPARTMENT OF PUBLIC WELFARE, Respondent."]
+source_url: "https://static.case.law/pa-commw/165/cases/0547-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1463134
+cites_cases: ["132 Pa.Commonwealth Ct. 15", "528 Pa. 243"]
+---
+
+# Lawrence County Children & Youth Services v. Department of Public Welfare
+
+## Majority (FRIEDMAN, Judge.)
+
+FRIEDMAN, Judge.
+Lawrence County Children and Youth Services (CYS) appeals from a final order of the Secretary of the Department of Public Welfare (Secretary) affirming the Office of Hearings and Appeals’ (OHA) denial of CYS’s application for medical assistance benefits for William Zarella.
+On August 31, 1989, the Lawrence County Court of Common Pleas placed William Zarella into the custody of CYS. CYS, as Zarella’s representative payee, receives monthly Social Security checks in the amount of $729 and uses that amount to help cover Zarella’s support and care costs, which exceed $3000 per month.
+On July 10, 1991, CYS requested that the Lawrence County Assistance Office (CAO) recertify Zarella’s eligibility for medical assistance. CAO determined that Zarella was ineligible for medical assistance because the $729 Social Security payment paid to CYS on Zarella’s account exceeded the monthly income eligibility limit for receiving medical assistance. CYS appealed that determination. OHA conducted an administrative hearing and subsequently denied the appeal. CYS’s request for reconsideration resulted in the Secretary issuing a final order on the merits upholding OHA’s decision.
+CYS asks us to determine whether the Secretary committed an error of law by affirming OHA’s decision that Zarella was ineligible for medical assistance.
+CYS contends that 55 Pa.Code § 183.34(d)(2) provides that money not available to a child is not income. CYS argues that the Social Security benefits here are not available to Zarella because CYS maintains custody of the money. Therefore, Zarella did not have income and was eligible for medical assistance.
+On the other hand, the Department of Public Welfare (Department) asserts that 55 Pa.Code § 183.34(d)(2) provides that Social Security benefits, not made available by a representative payee for the support of the child, are not considered income for medical assistance eligibility purposes. The Department contends that Zarella’s $729 monthly Social Security benefit is not excludable income because CYS uses that money to cover Zarella’s support and care costs. Therefore, Zarella is ineligible for medical assistance benefits because the amount of social security benefits exceeds the applicable limit. We agree.
+Contrary to CYS’s belief, 55 Pa.Code § 183.34(d)(2) does not mandate the direct availability of benefits to the child. In Thorton v. Department of Public Welfare, 132 Pa.Commonwealth Ct. 15, 571 A.2d 1093 (1990), we held that when a representative payee uses a child’s benefit money to pay for the child’s clothing, school supplies, and electric and gas bills, and gives the child a portion of the money as spending money, the benefits are made available to the child and are not excluded under Section 183.34(d)(2). Here, CYS receives Zarella’s monthly benefit check directly and deposits the entire amount into a general fund which CYS uses to pay for Zarella’s care and support, making those benefits available to Zarella for purposes of Section 183.34(d)(2). Consequently, because Zarella receives income in excess of the allowable amount prescribed by the mandated income guidelines, he is ineligible for medical assistance.
+Accordingly, we affirm the decision of the Secretary.
+ORDER
+AND NOW, this 7th day of July, 1994, the order of the Secretary of the Department of Public Welfare, dated September 21, 1993, is hereby affirmed.
+. 55 Pa.Code § 3140.113 provides that the county agency shall recertify a child’s eligibility for placement maintenance no less than once every twelve months.
+. At the relevant time, the maximum allowable monthly income for non-money payment was $195, and the semi-annual income limit for medically needy only was $2550.
+. When reviewing a determination of the Secretary, our scope of review is limited. We must affirm the Secretary’s adjudication unless that determination violates the constitutional rights of the appellant, is contrary to the law or the Department of Public Welfare’s procedures, or is not supported by substantial evidence. J.S. v. Department of Public Welfare, 528 Pa. 243, 596 A.2d 1114 (1991).
+. 55 Pa.Code § 183.34(d) provides:
+(d) Income of a child is not counted in determining need and the amount of the monthly assistance payment if the income is one of the following:
+(1) Exempt under § 183.81 (relating to income exemptions).
+(2) Retirement, Survivor’s and Disability Insurance (RSDI) benefits paid to a representative payee who does not live in the same household as the child and which the representative payee does not actually make available for the support of the child.
+. This fund accounts for receipts and disbursements made on behalf of individual children recipients.
