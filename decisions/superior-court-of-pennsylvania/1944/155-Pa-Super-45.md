@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 14"
+decided: "1944-04-11"
+citations: ["155 Pa. Super. 45"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Baldrige, Rhodes, Hirt, Kenworthey and James, JJ. (Reno, J., absent).", "Reno, J., took no part in the consideration or decision of this case."]
+parties: ["Burgess, Appellant, v. Washington Camp No. 208, Patriotic Order Sons of America of Hazleton"]
+source_url: "https://static.case.law/pa-super/155/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1057034
+cites_cases: ["103 A. 588", "144 A. 897", "189 Pa. 446", "19 A. 2d 398", "20 A. 2d 786", "260 Pa. 205", "295 Pa. 82", "334 Pa. 10", "334 Pa. 581", "341 Pa. 320", "342 Pa. 342", "42 A. 118", "5 A. 2d 367", "50 Pa. 107", "6 A. 2d 99", "64 Pa. Superior Ct. 169"]
+---
+
+# Burgess v. Washington Camp No. 208
+
+## Majority (Baldrige, J.,)
+
+Opinion by
+Baldrige, J.,
+This is an appeal from the decree of the court below quashing a writ of alternative mandamus.
+The plaintiff in his petition averred the existence of the local Washington Camp, No. 208, Patriotic Order Sons of America of Hazleton, Pennsylvania, an unincorporated association, subordinate to the State Camp of Pennsylvania Patriotic Order Sons of America, a corporation with its principal office in the city of Philadelphia ; that since 1898 he had been an active member of the local camp until the officers thereof refused him admission to the meetings of that camp and struck his name from the “roster of membership allegedly because of orders received from State Secretary of the Patriotic Order of Sons of America, Charles B. Helms.” It is stated in paragraph 10 that certain charges of insubordination were presented against plaintiff by William Barr based upon plaintiff’s alleged membership in the “All American Sunshine Club” an organization within the Patriotic Order Sons of America, which severely criticized the management of the state camp, especially in regard to expenditures, assessment of dues, benefits, etc.; that a trial was had before a committee of the state camp which resulted in plaintiff’s acquittal. It is. averred in paragraph 12 that under the general laws of the state camp and the constitution of the subordinate camp the charges preferred against the plaintiff should have been submitted to the subordinate camp.
+Defendants’ motion to quash was based upon grounds that (1) it appears upon the face of the writ that plaintiff has no right to be enforced by a mandamus; (2) defendants had no legal duty to do the things plaintiff sought to compel; and (3) the petition upon which the writ was predicated is indefinite, uncertain, evasive and contradictory. The learned court below in an opinion sustaining the motion stated that it became known “by the statement of petitioner’s counsel and the voluntary admission by the petitioner himself, who was present in person,” that the order expelling plaintiff originated with the National Body of the Patriotic Order Sons of America upon appeal from the State Camp’s order taken in accordance with the nati'onal constitution and by-laws. No reference to that fact appears anywhere in the petition or exhibits attached thereto. If he has a grievance to be redressed it is against the national body, the responsible party.
+Mandamus is an extraordinary writ and is not granted as an absolute right. It is discretionary with the court (Gold v. Building Committee of Warren Borough et al., 334 Pa. 10, 11, 5 A. 2d 367) and is granted in clear cases only where no other adequate, specific and appropriate remedy is available: Homan v. Mackey et al., 295 Pa. 82, 85, 86, 144 A. 897; Chilli v. McKeesport School District, 334 Pa. 581 583, 6 A. 2d 99; Angelotti v. Rankin Borough et al., 341 Pa. 320, 323, 19 A. 2d 398. Where a doubt exists as to the plaintiff’s right or defendant’s duty this remedy may not be invoked: Leff v. N. Kaufman’s Inc. et al., 342 Pa. 342, 346, 20 A. 2d 786. This petition is vague and evasive as well as deficient in not including all the essential facts. It does not disclose if plaintiff was actually expelled from membership in the local and state camps after being vindicated of charges of insubordination upon a trial by the state body and if so by what body, or for what reason. If he was a member in good standing why was he barred from attending the meetings? Only his own oral statements at the argument in the court below give us information on those important matters, and they show that in fact he was not expelled by either of these defendants. He is apparently attempting to review the action of the national camp in excluding him from membership without bringing that body within the jurisdiction of the court. Mandamus may be resorted to upon proper showing to restore membership in a beneficial association where the expulsion is shown to have been illegal: Commonwealth v. Pennsylvania Beneficial Institution, 2 S. & R. 140; Evans v. Philadelphia Club, 50 Pa. 107; Weiss v. Musical Mutual Protective Union, 189 Pa. 446, 42 A. 118; Lazic v. National Croatian Soc. of U. S. et al., 64 Pa. Superior Ct. 169, affirmed in 260 Pa. 205, 103 A. 588. But here the plaintiff’s petition fails to show either the existence of clear right in him or any corresponding legal duty upon the part of the officers of either the state or local camps. It is fatally defective and the lower court was fully warranted in quashing the writ.
+Judgment is affirmed.
+Reno, J., took no part in the consideration or decision of this case.
