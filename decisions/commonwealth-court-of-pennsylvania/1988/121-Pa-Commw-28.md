@@ -1,0 +1,46 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 2449 C.D. 1987"
+decided: "1988-11-09"
+citations: ["121 Pa. Commw. 28", "549 A.2d 1356"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Craig and Palladino, and Senior Judge Barbieri, sitting as a panel of three.", "Judge MacPhail did not participate in the decision in this case."]
+parties: ["Gloria McKnight, Appellant v. Commonwealth of Pennsylvania, Department of Transportation, Appellee."]
+source_url: "https://static.case.law/pa-commw/121/cases/0028-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1379651
+cites_cases: ["111 Pa. Commonwealth Ct. 128", "356 Pa. 100", "428 A.2d 1044", "478 Pa. 147", "51 A.2d 609", "59 Pa. Commonwealth Ct. 156", "95 Pa. Commonwealth Ct. 117"]
+---
+
+# McKnight v. Commonwealth
+
+## Majority (Senior Judge Barbieri,)
+
+Opinion by
+Senior Judge Barbieri,
+Gloria McKnight appeals from an order of the Philadelphia County Court of Common Pleas, affirming a one-year suspension of her operating privileges imposed by the Department of Transportation (DOT) for refusal to submit to a breath test, pursuant to Section 1547(b) (1) of the Vehicle Code (Code).
+On May 17, 1987, Officer Mazzei of the Philadelphia Police Department, arrived at the scene of an accident where McKnights car had collided with a parked car. Officer Mazzei testified that upon arriving at the scene, a witness pointed to McKnight and informed him that she had been driving the car. The officer testified further that McKnight could hardly walk, was incoherent and had the odor of alcohol on her breath. Officer Mazzei proceeded to place McKnight under arrest for driving under the influence of alcohol despite the protests of McKnight’s neighbor Mrs. Selby who claimed that she and not McKnight was the driver. Mrs. Selbys son who was also in the car, testified that he too informed Officer Mazzei that his mother and not McKnight had been driving the car.
+On the night of the accident, McKnight had been at home visiting with her cousin. Both Mrs. Selby and her son testified that McKnight had been drinking and asked Mrs. Selby to drive her cousin home. Mrs. Selby testified that while making a turn at an intersection, a pedestrian forced her to swerve abruptly and hit the parked car. McKnight became excited and demanded her keys which Mrs. Selby stated she gave her prior to the arrival of the police officer.
+After McKnight was arrested, she was transported to the police station where she was asked to submit to a breath test. Despite being warned that she would lose her operating privileges for one year if she did not submit to such testing, McKnight refused.
+By notice dated June 11, 1987, DOT suspended McKnights operating privileges for one year and McKnight appealed. At the de novo hearing on September 29, 1987, the trial court found that McKnight was not the driver of the vehicle at the time of the accident. However, the trial court denied the appeal, holding that the arresting officer had reasonable grounds to believe McKnight had been driving while under the influence of alcohol.
+On appeal to this Court, McKnight contends that Section 1547 of the Code only applies to drivers rather than passengers and since the trial court found she was a passenger, she had no duty to submit to a breath test.
+The question is not whether after a de novo proceeding, the trial court found McKnight was not the driver but whether, viewing the facts and circumstances as they appeared at the time, a reasonable person in the position of the police officer could have concluded that McKnight was driving while intoxicated. Department of Transportation, Bureau of Driver Licensing v. Cantanese, 111 Pa. Commonwealth Ct. 128, 533 A.2d 512 (1987).
+The arresting officer testified that upon arriving at the scene he saw a vehicle belonging to McKnight in the middle of the street and another vehicle which was damaged across the street. A witness informed the arresting officer that McKnight was driving. Further, the officer testified that McKnights breath smelled of alcohol and that she had difficulty walking. Based on Mrs. Selby’s testimony, the trial court found that McKnight had the keys to the vehicle. We hold that at the time of the arrest the police officer had reasonable grounds for believing that McKnight was driving while intoxicated. This reasonable belief is not rendered ineffective simply because the trial court subsequently determined McKnight was not driving. See White v. Commonwealth, 59 Pa. Commonwealth Ct. 156, 428 A.2d 1044 (1981). Thus, McKnight was under a duty to submit to chemical testing and DOT properly suspended her operating privileges upon her refusal to do so.
+Along with her appeal seeking a reversal of the trial courts opinion, McKnight filed a Petition for a Writ of Error Coram Nobis and Coram Vobis, seeking a new hearing based on after-discovered evidence. This is an ancient writ whose purpose is to correct factual errors and “to bring before the court rendering the judgment matters of fact which if known at the time the judgment was rendered, would have prevented its rendition.” Commonwealth v. Mangini, 478 Pa. 147, 163, 386 A.2d 482, 490 (1978).
+In support of the petition, McKnight maintains that at the criminal trial on the charge of driving under the influence of alcohol, Officer Mazzei “testified that the bystander had told him that he had seen nothing and did not know who the driver had been; the officer then took both women into custody but let the sober one go because the other one was drunk.” McKnight contends this indicates that the arresting officer committed perjury at the de novo suspension hearing and therefore we must direct the trial court to conduct a new trial. We disagree.
+McKnight has failed to provide us with the relevant portions of the actual notes of testimony from the March 1, 1988 criminal trial and simply paraphrases the testimony at issue. Further, her petition is signed by her attorney and is not verified as required by Pa. R.C.P. No. 206. Mere averments in an unverified petition do not constitute evidence and thus we have absolutely no facts before us from which to make a proper determination as to whether or not the police office testimony. Further, as our Supreme Court has stated with regard to an appeal of a criminal conviction:
+The writ [of coram nobis] is not issued simply because later some witness offers to change or recant the testimony which he gave on the trial which resulted in the conviction of the petitioner. There would be no finality to any conviction of crime if verdicts and judgments could be thus easily nullified. (Emphasis added.)
+Commonwealth v. Mathews, 356 Pa. 100, 102, 51 A.2d 609, 610 (1947). Although Mathews was an appeal of a criminal conviction, we believe the rationale applies equally to the civil suspension hearing in this case. Accordingly, the Petition for Writ of Error Coram Nobis and Coram Vobis is denied and we will affirm the order of the trial court.
+Order
+And Now, this 9th day of November, 1988, the order of the Philadelphia County Court of Common Pleas dated September 29, 1987, at No. 1629 July Term, 1987, denying the appeal of Gloria McKnight from the one year suspension of her operating privileges imposed by the Pennsylvania Department of Transportation, is affirmed. The Petition for a Writ of Error Coram Nobis and Coram Vobis is denied.
+Judge MacPhail did not participate in the decision in this case.
+75 Pa. C. S. §1547(b)(l).
+We note that the trial court did not make formal findings of fact in its two-paragraph opinion in support of its order denying McKnights appeal. In that opinion, the trial court stated that the reasons for its decision are apparent from the record.
+Our scope of review is limited to determining whether findings of feet are supported by competent evidence, an error of law has been committed or there has been a manifest abuse of discretion. Department of Transportation v. McDonald, 95 Pa. Commonwealth Ct. 117, 504 A.2d 430 (1986).
+Although counsel for McKnight raised a hearsay objection to this statement at the de novo hearing, the trial court overruled the objection and the testimony was admitted. However, as McKnight has failed to raise the issue of whether or not this testimony was inadmissible hearsay on appeal, the matter is deemed to be waived. Pa. R.A.P. No. 2116.
+Although the trial court did not issue findings, the record reveals that the trial judge accepted Mrs. Selby’s uncontradicted testimony that McKnight had the keys to the vehicle when the police officer arrived on the scene. Notes of Testimony from September 29, 1987 de novo hearing at 23 and 26.
+A writ of coram nobis would be brought before the actual court which rendered the contested judgment and a writ of coram vobis is a directive by an appellate court to the trial court to correct an error of fact. Blacks Law Dictionary 305 (5th ed. 1979).
+See Paragraph 3 of Petition for Writ of Error Coram Nobis and Coram Vobis.
+We note that Section 9542 of the Post Conviction Hearing Act (Act), 42 Pa. C. S. §9542, provides that the Acts procedures encompass all common law and statutory procedures for the same purpose including coram nobis.
