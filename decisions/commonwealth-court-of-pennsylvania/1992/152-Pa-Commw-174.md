@@ -1,0 +1,30 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "736 C.D. 1992"
+decided: "1992-12-08"
+citations: ["152 Pa. Commw. 174", "618 A.2d 1150"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DOYLE and FRIEDMAN, JJ., and BARRY, Senior Judge."]
+parties: ["USX CORPORATION f/k/a United States Steel Corporation, Petitioner, v. WORKMEN’S COMPENSATION APPEAL BOARD (McDERMOTT), Respondent."]
+source_url: "https://static.case.law/pa-commw/152/cases/0174-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1439936
+cites_cases: ["127 Pa.Commonwealth Ct. 587", "150 Pa.Commonwealth Ct. 431"]
+---
+
+# USX Corp. v. Workmen's Compensation Appeal Board
+
+## Majority (BARRY, Senior Judge.)
+
+BARRY, Senior Judge.
+USX Corporation (USX) appeals from a decision of the Workmen’s Compensation Appeal Board (the Board) which affirmed a referee’s decision awarding Mark McDermott (McDermott) partial disability benefits. USX argues that the referee erred when computing McDermott’s average weekly wage by inflating McDermott’s earnings from a second employer. McDermott argues that the referee erred by deflating the earnings from the second employer. Because neither party’s argument has been properly preserved for review, we affirm.
+The referee made the following determinations of fact. McDermott was injured during the course of his employment with USX. At the time, McDermott also worked for K-Mart Corporation. McDermott has returned to light duty work at USX but has been unable to return to the position at K-Mart. The parties stipulated as to McDermott’s average weekly wage from USX and a statement of earnings was submitted as evidence of his earnings from K-Mart. The referee determined that McDermott earned $403.92 per week from K-Mart, added that figure to the stipulated earnings figure of $430.72 per week from USX and arrived at an average weekly wage of $834.64.
+The docketing statement of the certified record reveals the following procedural history after entry of the referee’s decision. McDermott filed a timely appeal to the Board. USX did not appeal the referee’s decision. The Board affirmed the referee’s decision. USX filed a timely petition for review with this Court. McDermott did not appeal the Board’s decision.
+Although it is apparent that USX argued that the referee erred in computing the average weekly wage when McDermott’s appeal was heard by the Board, that is not sufficient to preserve the specific issue presented by USX for review either in front of the Board or in this Court. Both USX and McDermott contend that a different weekly wage figure should have been used to compute the amount of partial disability benefits. Thus it is clear that both USX and McDermott were aggrieved by the referee’s decision. It was incumbent upon both parties to appeal that decision to the Board. Although the issues argued by the parties are mirror images: USX arguing that the referee’s determination is too high while McDermott argues that it was too low, the appeal taken by McDermott did not preserve the issue USX intended to pursue. By failing to appeal the referee’s decision to the Board, USX waived any argument that the referee’s decision was erroneous. Cf. Williams v. Workmen’s Compensation Appeal Board (Montgomery Ward), 127 Pa.Commonwealth Ct. 587, 562 A.2d 437 (1989), (failure to raise issues before the Board, creates a waiver of right to raise them before this Court); Pa.R.A.P. 1551(a).
+A similar defect dooms McDermott’s argument to this Court that the Board erred in affirming the referee’s decision. Although McDermott properly preserved his issues before the Board by appealing the referee’s decision, he failed to appeal the Board’s decision to this Court. Just as USX could not bootstrap its issues into McDermott’s appeal before the Board, McDermott cannot use USX’s appeal to this Court as a conduit to raise his own issue. McDermott was aggrieved by ■ the Board’s decision; it was imperative that he file a petition for review to preserve his issues for review by this Court.
+We emphasize that Pa.R.A.P. 501 provides that only an aggrieved party may file an appeal. The fact that another party is likewise aggrieved by the decision of the lower tribunal and files an appeal, however, will not prevent application of the waiver doctrine of Pa.R.A.P. 1551. An aggrieved party may not preserve his issues by allowing them to ride “piggyback” into the administrative appellate tribunal or this Court on another party’s appeal. This is true even if the issues which an aggrieved party wishes to present are mirror images of those presented by the other party’s appeal.
+ORDER
+NOW, December 8, 1992, the order of the Workmen’s Compensation Appeal Board, dated March 5, 1992, at A892037, is affirmed.
+. The situation presented herein must be distinguished from Tomczak v. Workmen's Compensation Appeal Board (Pro-Aire Transport, Inc.), 150 Pa.Commonwealth Ct. 431, 615 A.2d 993 (1992). In Tomczak, the defendanl/employer, Pro-Aire, filed a cross appeal from the Board’s decision which had affirmed a referee’s decision denying benefits. Pro-Aire attempted to use the cross-appeal to argue that the result of the referee’s decision was correct even if the reasoning was faulty. Pro-Aire’s cross-appeal was quashed because, as it was not aggrieved by either the referee or the Board’s decision, it had no standing to appeal. Pa.R.A.P. 501. By arguing the alternative basis to affirm the referee’s decision in front of both the Board and this Court, however, Pro-Aire preserved the alternative basis argument for review. Here, however, USX had standing to file its own appeal because it was aggrieved by the referee’s decision. Rather than arguing an alternative basis for affirmance, USX, like McDermott, argued for a modification of the referee’s decision. A party aggrieved by the decision of a lower tribunal cannot use its opponent’s appeal to present its own issues. Thus, although USX argued the issue to the Board, its failure to appeal the referee’s decision results in waiver.
