@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1220 C.D. 1989"
+decided: "1990-07-11"
+citations: ["133 Pa. Commw. 668", "577 A.2d 955"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CRUMLISH, Jr., President Judge, and PELLEGRINI, J., and SILVESTRI, Senior Judge."]
+parties: ["Bobby Lee RUDD, Petitioner, v. COMMONWEALTH of Pennsylvania, PENNSYLVANIA BOARD OF PROBATION AND PAROLE, Respondent."]
+source_url: "https://static.case.law/pa-commw/133/cases/0668-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1402871
+cites_cases: ["106 Pa.Commonwealth Ct. 63", "125 Pa.Commonwealth Ct. 38", "467 A.2d 112", "494 A.2d 10", "515 A.2d 637", "78 Pa.Commonwealth Ct. 193", "89 Pa.Commonwealth Ct. 635"]
+---
+
+# Rudd v. Commonwealth
+
+## Majority (SILVESTRI, Senior Judge.)
+
+SILVESTRI, Senior Judge.
+Petitioner, Bobby Lee Rudd (Rudd), petitions for review of an order of the Pennsylvania Board of Probation and Parole (Board) recommitting Rudd as a convicted parole violator.
+Rudd was sentenced in Delaware County to one to two years in a State Correctional Institution (SCI) with a minimum expiration date of November 16, 1983 and a maximum expiration date of November 16, 1984 for forgery. Rudd was also sentenced in Philadelphia County to a term of two and one-half years to five years in an SCI for theft by receiving stolen property with a minimum expiration date of March 2, 1983 and a maximum expiration date of June 9, 1985.
+On March 28, 1988 Rudd was convicted of two additional counts of forgery arising out of occurrences on February 13, 1985 at Mellon Bank in Upper Darby, and an arrest on April 18, 1985 for six attempted withdrawals from Provident National Bank in Philadelphia occurring between December 3, 1984 and December 12, 1984. On September 27, 1988, the Board received official verification of these convictions. On January 5, 1989 Rudd was given a copy of a notice charging him with the two forgery convictions.
+A revocation hearing was held on January 11, 1989 at which Rudd was represented by counsel. Subsequent to the hearing, Rudd and his counsel were each mailed a copy of an order recommitting Rudd as a convicted parole violator. Rudd now petitions for our review of that order of the Board.
+In reviewing decisions of the Board, our scope of review is limited to determining whether there has been a constitutional violation or an error of law and ensuring that the Board made necessary findings which are supported by substantial evidence. Hobson v. Pennsylvania Board of Probation and Parole, 125 Pa.Commonwealth Ct. 38, 556 A.2d 917 (1989).
+Rudd first argues that he received ineffective assistance of counsel for failure to raise the timeliness of the parole revocation hearing in either a request for administrative relief or an amended petition for review.
+In order to establish a right to relief due to ineffective counsel, a parolee must show two things: (1) counsel made errors of such a serious nature that counsel was not operating as “counsel” as guaranteed by law; and (2) the errors were so serious that a reasonable probability exists that but for counsel’s errors, the outcome of the proceeding would have been different. Vereen v. Pennsylvania Board of Probation and Parole, 106 Pa.Commonwealth Ct. 63, 515 A.2d 637 (1986). Rudd fails to establish either element. No evidence of “counsel” errors are apparent; nor does a reasonable probability exist that but for counsel’s failure to raise timeliness in either a request for administrative relief or an amended petition for review, a different outcome would have resulted. The transcript reflects that at the parole revocation hearing, counsel raised the issue of timeliness of the hearing and also reflects that this issue was fully considered by the Board at the hearing. Consequently, Rudd’s claim of ineffective assistance of counsel has no merit.
+Further, 37 Pa.Code § 71.4 states that the Board shall hold a revocation hearing within 120 days of official verification of a conviction. The Board received official verification of Rudd’s forgery convictions on September 27, 1988. Hence, the revocation hearing held on January 11, 1989 was within the 120 day time period.
+Rudd’s second argument is that the action by the Board to revoke his parole was predicated upon violations which occurred after the maximum expiration date of his parole and referenced the wrong institution number. Specifically, Rudd asserts that the January 11, 1989 revocation hearing panel referred only to his Delaware County sentence under institution number M-7344 which had a maximum expiration date of November 16, 1984; the February 27, 1989 decision recommitting him referred again to the Delaware County sentence; and the revocation was based on arrests and convictions after February 13, 1985. Hence, Rudd avers that the Board’s notification to him that the actions for which a violation hearing was being held was for violation of a sentence which had already expired prior to the filing of the criminal charges which were the basis for the revocation. Rudd argues that his due process rights were thus violated because the Board notification alleged violation only of the Delaware County parole whereas the reason for revocation thereof was based on another violation, namely the Philadelphia County parole violation under institution number M-3700.
+The record clearly establishes that Rudd was arrested twice, on February 13, 1985 and on April 18, 1985 for forgery. These arrests were for crimes that occurred during the parole period for his Philadelphia County sentence which had a maximum expiration date of June 9, 1985. Thus, Rudd was indeed a convicted parole violator.
+The record also reflects that though the notice and order of the Board made reference to institution number M-7344, the Delaware County sentence, they included Rudd’s correct parole number, 3666-P. We have consistently held that it is of no consequence that a Board’s revocation hearing notice references an incorrect institution number as long as the Board references the correct parole number. Oliver v. Pennsylvania Board of Probation and Parole, 89 Pa.Commonwealth Ct. 635, 494 A.2d 10 (1985). In this case, the correct parole number for Rudd, 3666-P, was referenced by the Board on all pertinent notices. Because the parole number covers all sentences for which a parolee is under supervision, the revocation hearing notice sent to Rudd was not defective. Snyder v. Pennsylvania Board of Probation and Parole, 78 Pa.Commonwealth Ct. 193, 467 A.2d 112 (1983).
+As the revocation hearing notice of the Board was not defective and did not deprive Rudd of his right of due process, and as the revocation hearing was properly determined to be timely and counsel was not ineffective, the order of the Board recommitting Rudd as a convicted parole violator is affirmed.
+ORDER
+AND NOW, this 11th day of July, 1990,’ the May 9, 1989 order of the Pennsylvania Board of Probation and Parole is hereby affirmed.
