@@ -1,0 +1,41 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 902 C.D. 1986"
+decided: "1987-02-25"
+citations: ["104 Pa. Commw. 201", "521 A.2d 522"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges MacPhail, Doyle and Barry, sitting as a panel of three."]
+parties: ["Charles E. Haines, Appellant v. Frank W. Jenkins, Sheriff of Montgomery County, Appellee."]
+source_url: "https://static.case.law/pa-commw/104/cases/0201-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1356781
+cites_cases: ["26 Pa. Commonwealth Ct. 519", "364 A.2d 988", "460 A.2d 880", "74 Pa. Commonwealth Ct. 522"]
+---
+
+# Haines v. Jenkins
+
+## Majority (Judge Barry,)
+
+Opinion by
+Judge Barry,
+Charles E. Haines, appellant, appeals from an order of the Montgomery County Court of Common Pleas denying his complaint in mandamus. Haines sought to compel appellee, Frank W. Jenkins, Sheriff of Montgomery County, to issue him a license to carry a firearm in his vehicle or concealed on or about his person pursuant to Section 6109(a) of the Uniform Firearms Act (the Act), 18 Pa. C. S. §6109(a).
+Haines is a seventy-four year old retiree who resides on a one and one quarter acre, wooded tract of land in Zieglersville, Pa. He was licensed in both 1982 and 1983 to carry a firearm in his vehicle or on or about his person pursuant to Section 6109(a) of the Act which read at the time relevant to this action:
+§6109. Licenses
+(a) Issue of License.—The Chief or head of any police force or police department of a city, and, elsewhere, the sheriff of a county, may, upon the application of any person, issue a license to such person to carry a firearm in a vehicle or concealed on or about his person within this Commonwealth for not more than one year from date of issue, if it appears that the applicant has good reason to fear an injury to his person or property, or has any other proper reason for carrying a firearm, and that he is a suitable person to be so licensed.
+In 1984, Sheriff Jenkins refused to issue the license. Appellant alleged that Jenkins abused his discretion and filed a complaint in mandamus seeking to compel Sheriff Jenkins to issue the license. The trial court believed that appellants fears over impending injury to his personal property were exaggerated in light of his actual experiences. Appellant appealed to this Court again raising the question of whether Sheriff Jenkins acted properly in denying the license.
+It should be noted that appellant improperly filed this action in mandamus. Mandamus is “an extraordinary writ which lies to compel the performance of a ministerial act where there is a clear legal right in the plaintiff, a corresponding duty in the defendant and a want of any other adequate and appropriate remedy.” Cottone v. Kulis, 74 Pa. Commonwealth Ct. 522, 460 A.2d 880 (1983). Because appellant could have appealed Sheriff Jenkins’ decision under Section 754 of the Local Agency Law, 2 Pa. C. S. §754, an action in mandamus was inappropriate. However, no objection was made in the trial court to the form of appellant’s complaint. Moreover, Section 708(a) and (c) of the Judicial Code, 42 Pa. C. S. §708(a) and (c) read as follows:
+§708. Improvident administrative appeals and other matters
+(a) General rule.—No objection to a governmental determination shall be defeated by reason of error in the form of the objection or the office of clerk of court in which the objection is filed.
+(c) Other matters.—If a complaint in the nature of equity, mandamus, prohibition, quo warranto or other original process is commenced in any court against a government unit or one or more of the persons for the time being conducting its affairs, as such, objecting to a governmental determination by any of them, where the proper mode of relief is an appeal from the determination of the government unit, this alone shall not be a ground for dismissal, but the papers whereon the process against the government unit or any of such persons was commenced shall be regarded and acted on as an appeal from such determination of the government unit and as if filed at the time such process was commenced. (Emphasis added.)
+42 Pa. C. S. §708(a) and (c). Accordingly, we will treat the matter as if appellant had properly appealed under the Local Agency Law. Under Section 754(a) of that law, the trial court may hear the appeal de novo. Our scope of review with respect to a proceeding which is brought pursuant to the Local Agency Law and in which the trial court has held a de novo hearing is limited to determining whether the trial court manifestly abused its discretion, committed an error of law or whether appellants constitutional rights have been violated. In Re: Appeal of Newland, 26 Pa. Commonwealth Ct. 519, 364 A.2d 988 (1976).
+After reviewing the appellants application, which contained appellants reasons for applying for the license, and taking testimony from officials of the Sheriffs Office responsible for the denial of appellants request, the trial court concluded that appellants fears were pervasive and genuine but not realistic in light of the lack of evidence of actual instances in which appellant experienced muggings, vandalism or similar acts of violence. Based on its findings that appellant had not demonstrated a sufficient need under the Act, it concluded that the Sheriffs decision was not an abuse of discretion. We believe that the trial court properly applied the Act to deny appellants challenge.
+It must be emphasized that the trial court did not rule, as appellant contends, that personal protection is not an adequate ground upon which to issue a license. Consequently, appellants argument that the right to carry a firearm for the purpose of personal protection is constitutionally recognized fells short of addressing the issue at hand. The trial court did rule that appellant failed to produce evidence that his fear of injury to his person or property was justified. He, therefore, feiled to meet the “good reason” requirement of Section 6109. We believe the trial court was correct in its conclusion, and for this reason, we need not address appellants argument that the word “may” as used in Section 6109 is mandatory and not permissive and that it must be construed to mean “shall.” The construction of the word “may” is irrelevant if the applicant has failed to meet the licensing requirements of the statute.
+We therefore affirm the denial of appellants application for a license to carry a firearm in a vehicle or concealed on or about his person under Section 6109(a) of the Act.
+Order
+Now, February 25, 1987, the order of Judge LAWRENCE A. Brown, Montgomery County Court of Common Pleas, No. 84-10947, dated March 5, 1986, is affirmed.
+Appellant contends that the Sheriff refused to issue the license because he was “cutting back” while the trial court indicated that the Sheriff denied the application because appellant foiled to demonstrate good reason to fear an injury to his personal property. The record is unclear on the subject; however, we believe that the Sheriffs rationale for his decision is not pertinent for the purposes of this appeal because the trial court conducted a de novo proceeding.
+The trial court in referring to appellants application recited appellants reasons for applying for the license:
+No local police protection, home 100 acres from the main road, valuables in the house and garage, coming in late at night when it’s dark, neighbor’s [sic] too for away and elderly, and conditions in the world in general today. During the hearing, he also testified that he is elderly, lives in a remote part of the county near Graterford prison, carries cash, and was run off the road twice by ‘hooligans.’
+Although the trial court erroneously limited its scope of review to determining whether the issuing authority was guilty of an abuse of discretion in refusing to grant the license, it reviewed appellants application and took testimony from both parties and made independent findings of feet. Hence, despite its misstatement of the scope of review, the court reached a proper result in this case.
