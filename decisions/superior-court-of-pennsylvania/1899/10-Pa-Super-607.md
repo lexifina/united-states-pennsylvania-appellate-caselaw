@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+decided: "1899-07-28"
+citations: ["10 Pa. Super. 607"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, W. W. Porter, W. D. Porter and Beeber, JJ."]
+parties: ["Henry T. McCormick, Appellant, v. L. B. Kinsey and D. H. Cramer, Supervisors of East Wheatfield Township, and C. A. Campbell."]
+source_url: "https://static.case.law/pa-super/10/cases/0607-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 819378
+cites_cases: ["11 Atl. Rep. 366", "26 Pa. 407", "26 Pa. 415", "35 Pa. 324", "47 Pa. 154", "68 Pa. 324", "8 W. & S. 40", "88 Pa. 309", "93 Pa. 272"]
+---
+
+# McCormick v. Kinsey
+
+## Majority (Beaver, J.,)
+
+Opinion by
+Beaver, J.,
+The first assignment of error is as to the failure of the court to find the facts. Subsequently to the preparation of the plaintiff’s paper-book, the president judge of the court below made a formal finding of the facts and conclusions of law based thereon which were filed May 1, 1899. Inasmuch as these findings and conclusions are presented for our consideration in the supplemental paper-book of the appellant and assignments of error based thereon are submitted with an argument relating thereto, we take it for granted that this assignment is practically withdrawn. The case seems to have been decided at the hearing and an oral finding of facts and conclusions of law and a decree based thereon announced. Whether taken down by the stenographer at the time or not does not affirmatively appear, but they were not filed and, as explanatory thereof, the trial judge says: “We were misled, because of a remark of one of the counsel for the plaintiff to us the same day after the hearing, that if there was an admonitory suggestion in the decree to the supervisors about care and caution in endeavoring to preserve the north bank of the so-called pond, that he thought all would be satisfactory. We were of impression the commissioner had written out and filed the decree.”
+All the assignments of error contained in the plaintiff’s original paper-book, except the formal ones, relate to the facts which the court failed to find. All contained in the supplemental paper-book relate to the facts which the court found. We have very carefully read the testimony and fail to see how the court could by any possibility have found the facts differently. So overwhelming was the testimony on the part of the defendant that, after hearing seventeen witnesses, the court declined to bear eleven others who were there ready to testify, as was announced by defendant’s counsel, to the same state of facts.
+Plaintiff’s farm was at the lowest point of a watershed which emptied itself from all points through a culvert in the public road, formerly the Philadelphia and Pittsburg turnpike, over his farm, into the waters of Black Lick creek. Nature had provided no other outlet. The oldest inhabitants, who had been familiar with the conditions which prevailed for half a century, testified that the waters had always so emptied themselves and could be emptied in no other way; that the water from the so-called pond upon the land of Campbell, who was joined with the supervisors as defendant, had always flowed over its slight embankment into the road and so through the culvert upon the plaintiff’s farm and through it to the creek. Whether the pond or swamp of the defendant, Campbell, was, therefore, made by surface water or wet weather springs, as alleged by the plaintiff, made but little difference. The overflow of it in wet weather must necessarily run over the plaintiff’s land, unless, as expressed by a number of the witnesses, it could be made to run uphill. The condition of which the plaintiff complained, although existing only in wet weather, was not new. Although, in consequence of the act of the supervisors in diverting the water from the roadway, by way of the defendant’s, Campbell’s, premises, the water flowing from the pond may have been increased, it decreased it on the road and could not, in the nature of things, have sent more water through the culvert and so on to the plaintiff’s land than if the water had not been so diverted. Indeed the filling of the plaintiff’s drains with sand and the wash of the water must necessarily have been lessened by the act of the supervisors, for the reason that the sand was carried into Campbell’s pond and the water therein would be diminished by evaporation, so that there would be less to flow through his land than if it had flo’wed down the road directly into the culvert.
+The court found that the acts of the supervisors were done in the exercise of their judgment; that the road, under their direction, was thereby greatly benefited and the expense to the township lessened and the plaintiff in no way injured. In this, after a careful examination of the testimony of the disinterested witnesses, we entirely concur. There was no ground, therefore, for restraining the supervisors or Campbell, the other defendant, and the bill was very properly dismissed.
+Decree affirmed and appeal dismissed at the costs of the appellant.
