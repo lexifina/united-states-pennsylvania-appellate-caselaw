@@ -1,0 +1,33 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "3075 C.D. 1993"
+decided: "1994-11-23"
+citations: ["168 Pa. Commw. 499", "650 A.2d 1208"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before COLINS and NEWMAN, JJ., and SILVESTRI, Senior Judge."]
+parties: ["Robert GABONAY, Petitioner, v. WORKMEN’S COMPENSATION APPEAL BOARD (UNITED AUTO WORKERS, LOCAL 2055 and Hartford Mutual Insurance), Respondents."]
+source_url: "https://static.case.law/pa-commw/168/cases/0499-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1469015
+cites_cases: ["142 Pa.Commonwealth Ct. 612", "157 Pa.Commonwealth Ct. 558", "412 A.2d 196", "481 A.2d 374", "50 Pa.Commonwealth Ct. 45", "512 Pa. 377", "517 A.2d 523", "85 Pa.Commonwealth Ct. 128"]
+---
+
+# Gabonay v. Workmen's Compensation Appeal Board
+
+## Majority (COLINS, Judge.)
+
+COLINS, Judge.
+Robert M. Gabonay (Gabonay) petitions for review of a November 23, 1993 order of the Workmen’s Compensation Appeal Board (Board) reversing the referee’s allowance of benefits. We affirm.
+From October 26, 1978 until February 23, 1988, Gabonay was employed full time by Volkswagen America (Volkswagen). Volkswagen employees were represented by the United Auto Workers of America, Local 2055 (UAW Local). While working at Volkswagen, Gabonay served on the UAW’s recreation and community services committees. Committee membership was voluntary and uncompensated.
+In December 1987, community services committee members received a memorandum announcing an opportunity to attend a one-week institute on Dislocated Workers Assistance sponsored by the International Union of UAW in Black Lake, Michigan. Interested members were directed to register for the institute as early as possible. The announcement said that the International Union would pay for travel expenses, lodging, and meals and that the UAW Local would pay for lost work time. Gabonay attended the institute on Monday and Tuesday, February 21 and 22, 1988, then suffered a heart attack during the night and was hospitalized on the morning of February 23.
+Gabonay applied for benefits, claiming a work-related injury caused by the stress of attending the institute for the UAW Local. The UAW Local and its insurance carrier, Hartford Mutual Insurance, contested Gabonay’s application on the grounds that Gabonay was not an employee of the union as defined in Section 104 of the Act, 77 P.S. § 22. The referee held hearings and concluded that Gabonay was a union employee and entitled to benefits. On appeal, the Board reversed, finding nothing in the record to substantiate a finding of an employer/employee relationship between Gabonay and the UAW Local.
+The issue before this Court is whether, for the purposes of the Workers’ Compensation Act (Act), Gabonay was an employee of the union when he was attending a union-sponsored institute and collecting compensation for lost work time. Gabonay argues that the referee’s decision was based on substantial evidence that Gabonay was an employee of the UAW Local. Gabonay also argues that the Board improperly usurped the function of the referee and substituted its own findings and conclusions. Our review on appeal is limited to determining violations of constitutional rights, errors of law, and whether the referee’s findings are adequately supported by substantial, competent evidence. Estate of McGovern v. State Employees’ Retirement Board, 512 Pa. 377, 517 A.2d 523 (1986).
+“The claimant has the burden of proving the existence of the employer/employee relationship at the time of the ... injury.” Southland Cable Co. v. Workmen’s Compensation Appeal Board (Emmett), 142 Pa.Commonwealth Ct. 612, 615, 598 A.2d 329, 330 (1991). ‘Whether an employer/employee relationship exists is a question of law which must be determined on the basis of the facts of an individual case.” Industrial Abrasives, Inc. v. Workmen’s Compensation Appeal Board (Caceres), 157 Pa.Commonwealth Ct. 558, 562, 630 A.2d 547, 548 (1993). Whether that relationship exists is determined by an indicia of control, which includes the employer’s right to control the work to be done and the manner of performance, the nature of the work, the skills required, which party supplies the tools, the method of payment, whether the work is part of the employer’s regular business, and the right to terminate the employment at will. Id.
+The Board in this case did not err in rejecting the referee’s findings. On appeal from the referee, the Board’s scope of review is the same as that of this Court. Moonblatt v. Workmen’s Compensation Appeal Board (City of Philadelphia), 85 Pa.Commonwealth Ct. 128,481 A.2d 374 (1984). The Board may disregard the referee’s findings of fact if not supported by competent evidence and may substitute such findings of fact as the evidence may, in the judgment of the Board, require. General Electric Company v. Workmen’s Compensation Appeal Board, 50 Pa.Commonwealth Ct. 45, 412 A.2d 196 (1980). The Board examined the record and found it devoid of facts upon which an employment relationship could be found. The Board specifically noted the absence of evidence to indicate an employer’s right to control or to terminate and that the manner of payment did not indicate an employer/employee relationship.
+The referee’s findings were not supported by substantial evidence in the record. Gabonay failed to meet his burden of proving facts necessary to establish an employment relationship with the UAW Local. The record indicates that Gabonay was not regularly paid for his committee activities. The payments made by the UAW Local for February 21 and 22 were compensation for time lost at Volkswagen at a per diem rate equal to Gabonay’s daily average wage at Volkswagen. The rate of payment was not related to hours of work or services performed at the institute. Gabonay’s activities there were not shown to be in furtherance of union business. Furthermore, the record does not show that the UAW Local had any control over any aspect of Gabonay’s attendance of the institute programs or his performance. Gabonay’s attendance and participation appear to have been voluntary. The record reveals no evidence that the union chose Gabonay as its representative or that it in any way solicited or directed his attendance.
+Accordingly, the Board’s order is affirmed.
+ORDER
+AND NOW, this 23rd day of November, 1994, the order of the Workmen’s Compensation Appeal Board in the above-captioned matter is affirmed.
+. Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §§ 1-1304.
