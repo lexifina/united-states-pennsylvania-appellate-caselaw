@@ -1,0 +1,43 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 108 Miscellaneous Docket No. 4"
+decided: "1985-06-24"
+citations: ["90 Pa. Commw. 284"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail and Barry and Senior Judge Barbieri, sitting as a panel of three."]
+parties: ["Southern Chester County Medical Center, Petitioner v. Commonwealth of Pennsylvania, Department of Health and Health Systems Agency of Southeastern Pennsylvania, Respondent."]
+source_url: "https://static.case.law/pa-commw/90/cases/0284-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1336246
+cites_cases: ["37 Pa. Code §197.33"]
+---
+
+# Southern Chester County Medical Center v. Commonwealth
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+Southern Chester County Medical Center (SCC-MC) appeals here from an order of the State Health Facility Hearing Board (Board) which reversed a decision of the Department of Health (Department). The Board concluded that the Department’s determination was not based upon substantial evidence and that SCCMC’s proposed addition of beds was subject to certificate of need review pursuant to Section 701 (a)(3) of the Health Care Facilities Act (Act), Act of July 19, 1979, P.L. 130, as amended, 35 P.S. §448.701(a) (3).
+The record shows that, in April, 1983, SCCMC informed the Department by means of a letter of intent, of its proposed increase of its bed capacity from fifty-three beds to seventy-seven beds. SCCMC alleged that this increase in bed capacity would be accomplished without any capital expenditure and sought a change in its license to reflect the increased bed capacity. The Department sought a recommendation from the Health Systems Agency of Southeastern Pennsylvania (HSA) on this proposal, and the HSA advised the Department that the addition of beds was subject to certificate of need review.
+On May 23, 1983, the Department, without a hearing, issued a determination of non-reviewability. The Department stated that because there was to be neither a capital expenditure nor the addition of a health service through the proposed additional bed capacity, the proposal did not fit the definition of a “new institutional health service.” The Department held that this addition of beds, therefore, was not subject to certificate of need review. See Section 701 of the Act, 35 P.S. §448.701.
+The HSA appealed this determination of nonreviewability to the Board. The Board, without a hearing, determined that the Department’s decision was not supported by substantial evidence. Further, on the basis of capital expenditures made by SCCMC in 1980 the Board concluded that the proposal was subject to certificate of need review.
+Both SCCMC and the Department argue here that an appeal by a health system agency of a decision by the Department that a proposal is non-reviewable is not within the Board’s jurisdiction. We agree.
+Section 502(a) of the Act, 35 P.S. §448.502(a), sets forth the powers and duties of the Board, stating in pertinent part
+(a) The hearing board shall have the powers and its duties shall be:
+(1) To hear appeals from departmental decisions on applications for certificates of need or amendments thereto.
+(3) To hear appeals from decisions of the department which require a person to obtain a certificate of need for major medical equipment or the acquisition of an existing health care facility.
+The Board has stated that the omission of appeals from determinations of non-reviewability from Section 502(a)(1) of the Act, 35 P.S. §448.502(a) (1) was clearly inadvertent, In re: Health Systems Agency of Southeastern Pennsylvania (Friends Hall at Fox Chase), CN 83-001, 1 S.H.F.H.B. 213 (1983), and that Section 502(a)(1) is broad enough to encompass determinations of non-reviewability because sending a letter of intent to the Department is an integral part of the procedure of applying for a certificate of need. Id.
+We find that the statutory provision for the Board’s authority is clear, and we will not disregard that clear language for an interpretation which the Board contends better comports with the spirit of the legislation. Section 1921(b) of the Statutory Construction Act of 1972,1 Pa. C. S. §1921 (b). This does not mean, however, that no appeal may be taken from a Department determination of non-reviewability.
+We hold that a Department determination that a proposed project is non-reviewable, that is, that an application for a certificate of need is not required for the project, is an adjudication as defined in 2 Pa. C. S. §101. It is a final administrative decision affecting both the health care provider and the health systems agency for the area in which the provider is located. Jurisdiction for an appeal from a determination of non-reviewability rests, therefore, with this Court. See Section 763 of the Judicial Code, 42 Pa. C. S. §763. Furthermore, the health systems agency serving the area in which the provider of the proposed service is located has standing to bring such an appeal by virtue of its statutory duties and responsibilities in the administration of health services in the Commonwealth and for the reasons stated below.
+Section 506 of the Act, 35 P.S. §448.506, provides that “ [decisions of the department on an application for a certificate of need or amendment thereto may be appealed within 30 days by any party or health systems agency who is involved in the proceeding.” In addition, 37 Pa. Code §197.33 grants standing to “[t]he health systems agency for the health service area in which the proposed new institutional health service is to be offered or developed[,] ” to appeal those decisions which the regulations designate as appealable. These provisions make it clear that a health systems agency has sufficient interest in decisions appealable to the Board to be permitted to bring such appeals. We likewise hold that a health systems agency for the area in which a new health service is proposed has a direct interest in Department determinations of non-reviewability such that the health systems agency may bring an appeal to this Conrt. See Section 702 of the Administrative Agency Law, 2 Pa. C. S. §702.
+In the instant ease the HSA should have directly appealed to this Court because the Board lacked jurisdiction to hear this appeal. In the interest of judicial economy, we would now undertake appellate review. It appears, however, that there is. a factual dispute at the core of the case. The HSA contends that the proposed addition of bed capacity is reviewable because of the related capital expenditure in 1980, while SCCMC alleges that no capital expendí-' ture will be made to implement the proposed change. The Department based its determination of non-reviewability upon the statements made by the parties without an evidentiary hearing. We, therefore, do not have the necessary findings of fact and conclusions of law upon which to exercise our appellate review pursuant to Section 704 of the Administrative Agency Law, 2 Pa. C. S. §704.
+For these reasons we must remand this matter to the Department for the purpose of holding an evidentiary hearing. Should the Department determine on the basis of substantial record evidence that the proposed addition of beds by SCCMC is non-reviewable the HSA may then appeal to this Court. On the other hand, should the Department determine that the addition is reviewable any appeal then would be to the Board.
+Order
+The order of the State Health Facility Hearing Board dated March 22, 1984, Docket No. CN 83-010, is hereby vacated and the matter is remanded to the Pennsylvania Department of Health for further proceedings consistent with the accompanying opinion.
+Jurisdiction relinquished.
+The Department and the Health Systems Agency of Southeastern Pennsylvania (HSA) are both named as respondents in this action; however, the Department and SOOMC argue for the same position, contrary to that of the HSA.
+The HSA is a nonprofit private corporation designated pursuant to federal law to assist the Department by reviewing proposals and making recommendations regarding the need for new institutional health services in Pennsylvania. See Sections 403 and 404 of the Act, 35 P.S. §§448.403 and 448.404 and National Health Planning and Resources Development Act of 1974 §3, 42 TJ.S.C.A. §300i-l (West 1982).
+The 1980 expenditures in the amount , of $60,000 were not subject to certificate of need review because they were below the threshold amount of $150,000 and there was no change in SCCMC’s overall bed capacity.
