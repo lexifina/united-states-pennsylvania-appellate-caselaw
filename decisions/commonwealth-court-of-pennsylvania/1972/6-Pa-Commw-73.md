@@ -1,0 +1,32 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 151 C.D. 1972"
+decided: "1972-07-11"
+citations: ["6 Pa. Commw. 73"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Mencer, Rogers and Blatt. President Judge Bowman did not participate."]
+parties: ["Sanko, et al. v. Zoning Hearing Board and Manheim Sportsmen’s Association, Inc., Additional Party."]
+source_url: "https://static.case.law/pa-commw/6/cases/0073-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1850591
+cites_cases: ["118 A. 2d 142", "119 A. 2d 506", "272 U.S. 365", "284 A. 2d 337", "285 A. 2d 905", "3 Pa. Commonwealth Ct. 495", "374 Pa. 277", "383 Pa. 191", "384 Pa. 100", "4 Pa. Commonwealth Ct. 137", "5 Pa. Commonwealth Ct. 29", "97 A. 2d 782"]
+---
+
+# Sanko v. Zoning Hearing Board & Manheim Sportsmen's Ass'n
+
+## Majority (Judge Crumlish, Jr.,)
+
+Opinion by
+Judge Crumlish, Jr.,
+This appeal is from the order of the Court of Common Pleas of Lancaster County, affirming the grant by the Zoning Hearing Board of Rapho Township of a special exception for the operation of trap shooting and rifle ranges by the Manheim Sportsmen’s Association on a tract in a “Rural” district of the Township. The lower court, without receiving additional testimony, held that the Board had committed neither a manifest abuse of discretion, nor an error of law. We agree.
+The appellant raises three questions in this appeal: (1) whether the Board committed an error of law in failing to hold that the gun club would be an occupation offensive to the inhabitants of the neighborhood; (2) whether the Board and court below erred in refusing to pass on the issue of whether the club would be a private nuisance; and, (3) whether the Board abused its discretion in granting the special exception upon the record presented. We will dispose of these issues in order.
+First, the Rapho Township Zoning Ordinance, at Section 702(6), permits “public or private recreation clubs, campgrounds and game clubs” by special exception in “Rural” districts. Additionally, Article XIY of the ordinance prohibits in all districts “any occupation, trade or process which may be in any way dangerous, noxious or injurious to the health or be offensive to the inhabitants of the neighborhood.” Appellant suggests that the gun club would be an “occupation” or possession of land, offensive to the inhabitants of the neighborhood. We must disagree for two reasons.
+We agree with the court below that “the operation of a trap shooting range for recreational purposes does not fall within the definition of occupation, trade or process.” Appellant would include in the interpretation of occupation as it appears in this ordinance, the possession of or physical presence upon the land. Clearly, however, “occupation” is intended by the ordinance to be read in conjunction with “trade or process.” As such there can be no doubt that “occupation, trade or process” is limited to commercial and manufacturing livelihoods and does not include occupation in the sense of possession of the land for other purposes.
+In addition, Article XIV when interpreted as appellant suggests would exceed the legislative authority granted the Township. Zoning laws are promulgated under the police power, and as such must bear a relationship to protection of the health, safety and general welfare of the community. Village of Euclid v. Ambler Realty Co., 272 U.S. 365 (1926). The Township, therefore, is without the authority to prohibit a use as offensive or disliked by neighbors, if that use is not injurious to the health, safety or general welfare. The Board and lower court were correct in refusing to prohibit the gun club as offensive to the community.
+The second issue raised by appellants also relates to the neighbors’ objection to the nature of the use requested. Appellants contend that a rifle club is a private nuisance, and that both the Board erred in granting a special exception to a nuisance, and the court below erred in refusing to consider the question of whether the use was a nuisance. The Board on the basis of evidence of noise levels which resulted from other nearby gun clubs, concluded that the requested use would not cause undue objection. It thus fulfilled its duty in ascertaining whether there would be danger to the health and safety of the community. It is not within the Board’s power to further determine whether a private nuisance exists. Peirce Appeal, 384 Pa. 100, 119 A. 2d 506 (1956).
+Similarly, the scope of review of both this Court and the lower court on appeal of the Board’s order is to determine whether the Board erred. Where the Board could not entertain the question of private nuisance, neither should we. The equitable question of nuisance abatement should not cloud the issue of the legality of that use for zoning purposes. See, Mazeika v. American Oil Co., 383 Pa. 191, 118 A. 2d 142 (1955); Schleifer v. Zoning Board of Adjustment, 374 Pa. 277, 97 A. 2d 782 (1953).
+Finally, we have carefully reviewed the evidence upon which the Board based its decision. We find ample basis for the Board’s conclusions that the use will not be offensive to the neighborhood; that the new location will buffer the club from neighbors to a greater extent than at its present location; and that with the numerous conditions imposed by the Board, the use will provide recreational activity for the community without endangering the health, safety or general welfare. The burden of proving the contrary was upon the protestants to the application. The record does not sustain the contention that they have met this burden. Indeed, to reverse the Board, we would have to find that the protestants’ proof was so overwhelming that for the Board to hold against it would have been a manifest abuse of discretion. Cherbel Realty Corp. v. Zoning Hearing Board, 4 Pa. Commonwealth Ct. 137, 285 A. 2d 905 (1972) ; Zoning Hearing Board v. Slavitz, 3 Pa. Commonwealth Ct. 495, 284 A. 2d 337 (1971).
+Appellants having failed to sustain the issues they raised, the order of the Court of Common Pleas of Lancaster County is affirmed.
+We agree with the court below, but this conclusion is not based on a review of that court’s decision but upon our own independent review of the Board’s decision which coincides with the lower court’s. See, Beebe v. Media Zoning Hearing Board, 5 Pa. Commonwealth Ct. 29, A. 2d (1972).
