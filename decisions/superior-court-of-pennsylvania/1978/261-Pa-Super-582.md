@@ -1,0 +1,21 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 843 and 844"
+decided: "1978-11-17"
+citations: ["261 Pa. Super. 582", "396 A.2d 59"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WATKINS, former P. J., and HOFFMAN, J., did not participate in the consideration or decision of this case."]
+parties: ["Commonwealth v. Edward Young, Appellant."]
+source_url: "https://static.case.law/pa-super/261/cases/0582-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 110030
+---
+
+# Commonwealth v. Young
+
+## Majority
+
+Judgment of sentence affirmed.
+WATKINS, former P. J., and HOFFMAN, J., did not participate in the consideration or decision of this case.
