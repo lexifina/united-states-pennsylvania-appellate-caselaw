@@ -1,0 +1,46 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "2622 C.D. 1991"
+decided: "1992-09-24"
+citations: ["150 Pa. Commw. 628", "616 A.2d 128"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CRAIG, President Judge, PELLEGRINI, J., and BLATT, Senior Judge."]
+parties: ["Ernesto ROMAN, Petitioner, v. WORKMEN’S COMPENSATION APPEAL BOARD (DEPARTMENT OF ENVIRONMENTAL RESOURCES), Respondent."]
+source_url: "https://static.case.law/pa-commw/150/cases/0628-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1436566
+cites_cases: ["103 Pa.Commonwealth Ct. 562", "124 Pa.Commonwealth Ct. 17", "131 Pa.Commonwealth Ct. 106", "33 Pa.Commonwealth Ct. 33", "380 A.2d 941", "452 A.2d 902", "70 Pa.Commonwealth Ct. 163"]
+---
+
+# Roman v. Workmen's Compensation Appeal Board
+
+## Majority (BLATT, Senior Judge.)
+
+BLATT, Senior Judge.
+Ernesto Roman (claimant) appeals here from an order of the Workmen’s Compensation Appeal Board (Board) which affirmed the referee’s decision denying the claimant compensation under Section 301(c)(1) of The Pennsylvania Workmen’s Compensation Act (Act) because he failed to prove that his injury arose in the course of his employment.
+Before this court, the claimant raises two issues. The first is that certain findings of the referee are not supported by substantial evidence. The second is that the referee’s findings do not support the conclusion that the claimant was not within the scope of his employment when he was injured.
+The necessary and undisputed facts indicate that the claimant was employed by the Department of Environmental Resources (employer) as an inspector. This work required that he travel to construction sites throughout the state in a car provided by the employer. He was also required to stay in hotels in the vicinity of the construction sites during the work week and he returned to his home in York, PA on the weekends. During June of 1987, the claimant was assigned to work at sites in the Scranton/Wilkes-Barre area. Although suitable lodging was available which was closer to some of the individual sites to which he was assigned, the claimant stayed at the Holiday Inn in Wilkes-Barre when he was working in the Scranton/Wilkes-Barre area. On Monday, June 15, 1987, the claimant reported to his job site in Olyphant (just north of Scranton). Upon completion of his inspections, the claimant left the job site at noon and was traveling south on Interstate 81 (toward Wilkes-Barre) when he was involved in a one-car accident which resulted when the right front wheel of the car he was driving collapsed. As a result of the injuries he sustained in this accident, the claimant has been totally disabled.
+The referee also made the following findings of fact with which the claimant has taken issue.
+8. The Claimant had a habit of visiting with his girlfriend on Monday mornings. The Claimant lived in York, Pennsylvania and his girlfriend lived in the Wilkes-Barre area.
+9. The Claimant had stayed at the Holiday Inn in Wilkes-Barre many miles from the job site in spite of the fact that he could have stayed at hotels with comparable accommodations at a much closer location to the job site.
+10. The Claimant testified that he had to check in on the first day of work and this was done in the morning.
+11. Claimant was not required to check into the motel during lunch hour.
+12. The Claimant worked at the job site (north of Scranton) for several weeks and made advance arrangement with the Holiday Inn in Wilkes-Barre on every Friday for the next week. Thus, the Claimant did not have to cheek in until the late afternoon or evening of his first day of work in the following week.
+Referee’s Decision of April 4, 1989 at 2, Reproduced Record (R.R.) at 144a.
+Based on these facts, the referee concluded that the claimant had failed to meet his burden of proving that his injury occurred within the scope and course of his employment. The Board affirmed the referee and the claimant now appeals to this court.
+Because we believe the Board erred as a matter of law by concluding that the claimant failed to meet his burden of proving that his injury was sustained in the course of his employment, we will reverse.
+Whether an employee is in the course of his employment at the time of his injury is a question of law which must be based on the findings of fact. Stillman v. Workmen’s Compensation Appeal Board (CBR Enterprises), 131 Pa.Commonwealth Ct. 106, 569 A.2d 983 (1990). The course of employment is necessarily broader for traveling employees and is liberally construed to effectuate the purposes of the Act. Aluminum Co. of America v. Workmen’s Compensation Appeal Board, 33 Pa.Commonwealth Ct. 33, 380 A.2d 941 (1977). When a traveling employee is injured after setting out on the business of his employer, it is presumed that he was furthering the employer’s business at the time of the injury. Investors Diversified Services v. Workmen’s Compensation Appeal Board, 103 Pa.Commonwealth Ct. 562, 520 A.2d 958 (1987). The employer bears the burden of rebutting this presumption. Aluminum Co. To meet its burden, the employer must prove that the claimant’s actions were so foreign to and removed from his usual employment that they constitute an abandonment of that employment. Port Authority of Allegheny County v. Workmen’s Compensation Appeal Board (Stevens), 70 Pa.Commonwealth Ct. 163, 452 A.2d 902 (1982). “[T]emporary departures from the work routine for the purpose of administering to the comforts of an off-the-premises employee, including authorized breaks for lunch, will not interrupt the continuity of the employee’s course of employment.” Id. at 167, 452 A.2d at 904.
+The undisputed facts in this case indicate that the claimant was a traveling employee who reported to his work site on Monday morning, June 15, 1987. At approximately noon on that day, the claimant left the job site on his lunch break and was injured in a car accident a few miles away. These facts raise the presumption that the claimant was in the course of his employment. The employer is now burdened with rebutting this presumption.
+To meet its burden, the employer introduced the testimony of the claimant’s co-worker to establish the claimant’s habit of meeting his girlfriend for breakfast or early lunch every Monday morning before she started working at noon. The referee accepted this testimony and made a finding of fact based upon it. However, we do not believe this finding is relevant to the claimant’s actions on June 15, 1987. The claimant’s car accident occurred at noon when he was still several miles from his girlfriend’s place of employment; therefore, he could not have met with her before her shift started, let alone share a meal with her. While the claimant may, indeed, have had a habit of meeting his girlfriend on Monday mornings, the time of the claimant’s accident means that it was impossible for him to have been acting in accordance with this habit on the date of his injury.
+Additionally, the employer presented evidence that contradicted the claimant’s statement that he was traveling to his hotel to check-in for the week. Because the referee accepted the employer’s evidence, it succeeded in establishing where the claimant was not going when he was injured. However, proof of this fact alone is woefully inadequate for the purpose of rebutting the presumption and showing that the claimant had abandoned his employment relationship.
+In summary, the claimant’s injury occurred a few minutes after he left the job site on his lunch break, raising the presumption that, as a traveling employee, he was within the scope of his employment. The employer proved that the claimant had a habit, from which he deviated on the day of his injury, of visiting his girlfriend and that the claimant was not going to check-in to his hotel. We hold that these facts are insufficient as a matter of law to show that the claimant was acting in a manner so foreign and removed from his usual employment that he had abandoned it.
+Accordingly, the order of the Board is reversed.
+ORDER
+AND NOW, this 24th day of September, 1992, the order of the Workmen’s Compensation Appeal Board in the above-captioned matter is reversed and the case is remanded for computation of benefits.
+Jurisdiction relinquished.
+. Act of June 2, 1915, P.L. 736, as amended, 77 P.S. § 411(1).
+. Our scope of review in workmen's compensation cases is limited to determining whether constitutional rights have been violated, errors of law committed, or whether findings of fact are supported by substantial evidence. Furnco Constr. Corp. v. Workmen’s Compensation Appeal Board (Dorogy), 124 Pa.Commonwealth Ct. 17, 555 A.2d 275 (1989).
+. “The general rule in Pennsylvania is that evidence of a person's habit is admissible to show that he or she acted in conformity with the habit on a given occasion.” Leonard Packel & Anne Bowen Poulin, Pennsylvania Evidence 185 (1987) (footnote omitted).
+. Although the claimant asserts that this finding of fact is not supported by substantial evidence, we need not address this issue due to our resolution of this case.
