@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 406"
+decided: "1932-11-23"
+citations: ["107 Pa. Super. 177"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trbxlkr, P. J., Keller, Gawthbop, Cunningham, Baldrige, Stadtfeld and Parker, JJ."]
+parties: ["Odessa Independent Beneficial Assn. v. Stechert B. & L. Assn., Appellant."]
+source_url: "https://static.case.law/pa-super/107/cases/0177-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 704681
+cites_cases: ["100 Pa. Superior Ct. 205", "103 Pa. Superior Ct. 526", "30 Pa. 42", "302 Pa. 254"]
+---
+
+# Odessa Independent Beneficial Assn. v. Stechert B. & L. Assn.
+
+## Majority (Parker, J.,)
+
+Opinion by
+Parker, J.,
+This action in assumpsit was brought to recover the withdrawal value of installment stock in defendant building and loan association. An affidavit of defense was filed which the court below held insufficient and entered judgment for the plaintiff. From this summary entry of judgment the defendant appeals.
+All that was averred by plaintiff in its statement of claim was the payment of certain dues by it as a member of defendant association, the giving of notice of withdrawal, demand upon the association for payment of the withdrawal value, and refusal of the defendant to pay. It is averred in the affidavit of, defense that at the time of the receipt of the notice of withdrawal, the defendant was insolvent, “and there was not at said time, nor any time since, in the treasury of said association, sufficient funds to meet the demand of said plaintiff; that one-half of the receipts and one-half of the funds in the treasury since the said notice of withdrawal have been insufficient to create any fund for the payment of plaintiff’s claim.” It also alleged the existence of indebtedness required to be paid to protect the interests of the association and that many other stockholders, who had not yet been paid, had given notice of withdrawal prior to the notice of this plaintiff and were entitled to be first paid.
+The Act of April 29, 1874, P. L. 73, section 37, and the supplementary Act of April 10, 1879, P. L. 16, section 2, governing voluntary withdrawals provide that at no time shall more than half the funds in the treasury of the association be applicable to the demands of withdrawing stockholders without the consent of the board of directors, and that payment of the value of the stocks withdrawn shall only be due when the funds applicable to the demand of withdrawing stockholders are sufficient to meet and liquidate the same, and then only in the order of the applications for such withdrawal Such facts must be alleged in the plaintiff’s statement: Brown v. Victor Building Assn., 302 Pa. 254. The plaintiff has, therefore, failed to aver sufficient facts to entitle it to a judgment, and the defendant has set up facts which, if true, entitle it to have a judgment in its favor.
+In the case of Brown v. Victor Building Association, supra, the pleadings disclose an exact parallel to the instant case, except that in the Brown case the affidavit of defense did not aver insolvency. The Supreme Court there said (p. 258): “We regard these averments as sufficient to prevent summary judgment in view of the deficiencies in plaintiff’s statement. Summary judgments against building associations in suits of this character should only be entered in clear cases.”
+The lower court in its opinion and appellant in its brief seem to concede the correctness of this conclusion, but contend that the defendant by other and independent averments disclosed a situation which entitled the plaintiff to judgment. The allegations referred to were contained in the affidavit of defense and were to the effect that after receipt of the notice of withdrawal, the Secretary of the Banking Department of the Commonwealth of Pennsylvania advised the defendant it was insolvent and required defendant “to mend its situation” by a merger with another association or submit to liquidation; that pursuant to such notice it entered into a merger with another association by agreement approved by the Secretary of Banking, and letters patent were issued to a new association under the name theretofore used by this defendant; that by the agreement of merger it was provided that the stock of all stockholders should “have a withdrawal value as of the date of said agreement of 80% of the paid-in value less arrearages at said time, which said value as to the stock of said plaintiff was $1573.50, and that said stockholders should have no right to withdraw their said stock for the period of two years.”
+The judgment cannot be sustained on the averments last referred to for two reasons. “When judgment is entered in an action of assumpsit for want of a sufficient affidavit of defense, it must be because the affidavit fails to aver a sufficient defense to the cause of action set up in the plaintiff’s statement. If the affidavit sufficiently answers the averments in the statement on which the plaintiff bases his right of recovery, judgment will not be summarily entered, without a trial, even though the affidavit lays the defendant open to a different attack from that pressed by the plaintiff in his statement.” Peraro to Use v. Loewe, 103 Pa. Superior Ct. 526.
+Again assuming the allegations in the affidavit of defense to be true — as we must in the consideration of this motion for judgment — the association was insolvent when notice of withdrawal was given, and such notice was of no effect “and was not validated or given life by the subsequent merger proceedings” effected with the consent and approval of the Secretary of Banking. See Allman v. Berg B. & L. Assn., 100 Pa. Superior Ct. 205, 207.
+The plaintiff has not founded its action upon any right it might have as a stockholder not satisfied with the merger, as in the leading case of Lauman v. Lebanon Valley R. R., 30 Pa. 42, but bases its claim on the right to receive the withdrawal value pursuant to a withdrawal notice. It must stand on the cause of action which it has pleaded. We are all of the opinion that this was not a proper case for the entry of judgment on the pleadings.
+The judgment is reversed with a procedendo.
