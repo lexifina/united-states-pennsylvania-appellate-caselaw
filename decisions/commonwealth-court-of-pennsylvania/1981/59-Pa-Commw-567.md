@@ -1,0 +1,39 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2676 C.D. 1979"
+decided: "1981-06-09"
+citations: ["59 Pa. Commw. 567"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Mencer, MacPhail and Palladino, sitting as a panel of three.", "Judge Wilkinson, Jr. did not participate in the decision in this case."]
+parties: ["James P. Cameron, Sr., Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/59/cases/0567-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1920815
+cites_cases: ["23 Pa. Commonwealth Ct. 7", "24 Pa. Commonwealth Ct. 326", "33 Pa. Commonwealth Ct. 565", "349 A.2d 925", "355 A.2d 604", "382 A.2d 487", "410 A.2d 1307", "413 A.2d 449", "415 A.2d 1263", "416 A.2d 1169", "422 A.2d 726", "488 Pa. 180", "49 Pa. Commonwealth Ct. 312", "50 Pa. Commonwealth Ct. 546", "52 Pa. Commonwealth Ct. 356", "53 Pa. Commonwealth Ct. 199", "54 Pa. Commonwealth Ct. 578"]
+---
+
+# Cameron v. Commonwealth, Unemployment Compensation Board of Review
+
+## Majority (Judge Palladino,)
+
+Opinion by
+Judge Palladino,
+Petitioner appeals an order of the Unemployment Compensation Board of Review (Board) which dismissed Petitioner’s appeal as being untimely filed. We affirm the Board’s order.
+On October 27, 1978, the Bureau of Employment Security (Bureau) issued a financial determination denying benefits to Petitioner. Petitioner filed a timely appeal, and a hearing was conducted before a referee who affirmed the Bureau’s determination. On or about December 18,1978, a copy of the referee’s decision was seasonably mailed to Petitioner. Pursuant to Section 502 of the Law, 43 P;S. §822, Petitioner then had fifteen days within which to appeal the referee’s decision. Petitioner did not attempt to appeal the referee’s decision until August 3, 1979, several months after the statutory appeal period had expired.
+In this appeal Petitioner does not allege that his appeal was delayed by any misleading, fraudulent, or negligent actions of the unemployment compensation huthorities. Rather, Petitioner asserts that upon receipt of his appeal dated August 3, 1979, the Board remanded the ease for further hearings before the referee and, according to Petitioner, thereby impliedly waived the issue of timeliness of the appeal.
+This Court has repeatedly and consistently held that the statutory time limit established for the filing of appeals is mandatory. Shimko v. Unemployment Compensation Board of Review, 54 Pa. Commonwealth Ct. 578, 422 A.2d 726 (1980); Unemployment Compensation Board of Review v. Digiacomo, 24 Pa. Commonwealth Ct. 326, 355 A.2d 604 (1976). The appeal period may be extended beyond the statutory limit only where, through acts constituting fraud or its equivalent, the compensation authorities have deprived a claimant of the right to appeal. Shimko, supra; Effort Foundry, Inc. v. Unemployment Compensation Board of Review, 52 Pa. Commonwealth Ct. 356, 415 A.2d 1263 (1980); Digiacomo, supra.
+Moreover, the heavy burden of proving fraudulent conduct by the authorities rests upon the claimant who attempts to justify a late appeal. Leight v. Unemployment Compensation Board of Review, 49 Pa. Commonwealth Ct. 312, 410 A.2d 1307 (1980). Without proof of fraud or its equivalent there is a presumption of the regularity of the acts of public officials such as the administrative authorities. Fuentes v. Unemployment Compensation Board of Review, 50 Pa. Commonwealth Ct. 546, 413 A.2d 449 (1980). In the instant case Petitioner admitted before the referee, and still acknowledges, that he failed to appeal within the statutory period solely because under the existing case law he was unlikely to succeed on the merits of his case. Petitioner does not allege any wrongdoing by the compensation authorities.
+However, Petitioner erroneously contends that the Board’s remand to the referee for consideration of Petitioner’s appeal dated August 3, 1979, reopened Petitioner’s case and operated as a waiver of the issue of timeliness of the appeal. Petitioner’s contention ignores the clear wording of the Board’s order of August 29,1979, to wit:
+WHEREAS, a review of the record discloses that a hearing is deemed proper to provide the [Petitioner] with an opportunity to testify regarding such [Petitioner’s] contentions that the appeal was timely filed, the case is remanded to the Beferee for the following purposes :
+(1) To schedule a hearing for the purpose of providing the [Petitioner] with the opportunity to present his . . . contentions regarding the timeliness of the application for further appeal.
+The Board’s primary inquiry was jurisdictional. Absent proof of fraud perpetrated by the administrative authorities, the Board lacked jurisdiction over Petitioner’s appeal and correspondingly lacked authority to extend the appeal period for Petitioner. On remand, the referee was instructed to take additional testimony to ascertain whether Petitioner’s appeal was timely, i.e., whether the statutory appeal period should be extended because the authorities prevented an earlier appeal by Petitioner.
+“Statutory requirements for the perfecting of an appeal are jurisdictional.” Unemployment Compensation Board of Review v. Duffy, 23 Pa. Commonwealth Ct. 7, 8, 349 A.2d 925, 926 (1976); accord, Pearce v. Unemployment Compensation Board of Review, 53 Pa. Commonwealth Ct. 199, 416 A.2d 1169 (1980). Therefore, in the present case the Board correctly dismissed Petitioner’s appeal upon concluding that it did not have “jurisdiction to decide the merits of such an untimely appeal. ”
+Petitioner also maintains that he is entitled to pursue his case because a recent unemployment compensation decision greatly enhances his opportunity for success on the merits of his claim. A similar argument failed before this Court in Berry v. Unemployment Compensation Board of Review [Berry I], 33 Pa. Commonwealth Ct. 565, 382 A.2d 487 (1978), aff’d, 488 Pa. 180, 411 A.2d 1198 (1980) [Berry II]. In affirming the Board’s denial of benefits to claimants who were deemed participants in a “work stoppage,” this Court refused to consider the Board’s ruling in a subsequent case that the “stoppage” was actually a compensable lockout. This Court reasoned in Berry 1 that the departmental decisions were final pursuant to Sections 501 [now 501(e)] and 509 of the Law, 43 P.S. §§821(e) and 829, since the claimants failed to appeal within the statutory periods. “Failure to file an appeal within the required time, . . . mandates that any appeal be dismissed and any collateral attack be denied.” Effort Foundry, Inc. at 361, 415 A.2d at 1265.
+Furthermore, in Berry II the Supreme Court of Pennsylvania disavowed requests to extend the appeal periods merely “upon proof of fraud by a party opponent to the proceedings or a showing of newly discovered, previously unavailable evidence.” Id. at 183, 411 A.2d at 1200. Discussing attempts to circumvent the mandatory appeal periods, the Supreme Court affirmed the decisions of “the Commonwealth Court and the Superior Court . . . that neither courts nor the compensation authorities have jurisdiction to extend the time for an appeal from denial of benefits, absent a showing of fraud or its equivalent on the part of the administrative authorities.” Id. at 183, 411 A.2d at 1200 (footnote omitted).
+' Accordingly, we will enter the following
+Order
+And Now, June 9, 1981, the order of the Unemployment Compensation Board of Beview, Decision No. B-177549, dated November 7, 1979, is hereby affirmed.
+Judge Wilkinson, Jr. did not participate in the decision in this case.
+Unemployment Compensation Law, Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended.
