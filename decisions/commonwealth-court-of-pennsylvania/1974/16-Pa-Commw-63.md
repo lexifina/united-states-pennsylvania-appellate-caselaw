@@ -1,0 +1,31 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1235 C.D. 1973"
+decided: "1974-12-13"
+citations: ["16 Pa. Commw. 63"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Wilkinson, Jr., Mencer, Rogers and Blatt. Judge Kramer did not participate."]
+parties: ["Harjef’s Corporation, Appellant, v. City of Philadelphia Tax Review Board, Appellee."]
+source_url: "https://static.case.law/pa-commw/16/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1863307
+cites_cases: ["11 Pa. Commonwealth Ct. 201", "258 A. 2d 850", "314 A. 2d 530", "435 Pa. 618"]
+---
+
+# Harjef's Corp. v. City of Philadelphia Tax Review Board
+
+## Majority (Judge Crumlish, Jr.,)
+
+Opinion by
+Judge Crumlish, Jr.,
+This is an appeal from an order of the Court of Common Pleas of Philadelphia County affirming the Philadelphia Tax Review Board’s dismissal of an appeal by Harjef’s Corporation (Appellant) in which Appellant challenged the applicability of the Philadelphia Realty Transfer Tax to a sale of a factory building which it owned.
+On March 28, 1969, Appellant sold a factory building located in Philadelphia to the Greater Philadelphia Enterprises Development Corporation (GPEDC) for a cash consideration of $2,500,000.00. At settlement, Appellant paid the Realty Transfer Tax under protest, at the rate of one percent of the stated consideration, in order to facilitate the recording of the deed. A claim for refund was then filed pursuant to Section 19-1703 of the Philadelphia Code (Code) which was denied by the Department of Collections. From this denial appeal was taken to the Tax Review Board pursuant to Section 19-1703 of the Code. Following a hearing, the Tax Review Board denied the appeal and further appeal was taken to the Court of Common Pleas. The court, following Section 8(b) of the Local Agency Law, Act of December 2,1968, P. L. 1133, as amended, 53 P.S. §11308(b), then affirmed the Tax Review Board and this appeal followed.
+At the outset, Appellant argues that the court erred in finding that it is not exempt from payment of the Realty Transfer Tax. Section 19-1402(1) of the Code provides: “Every person who makes, executes, issues or delivers any document . . . shall pay ... a tax at the rate of 1% of the value of the property represented by such document. . . .”
+The term “document” is defined in Section 19-1401 (2) with the following pertinent exemption: “Any deed, instrument, or writing whereby any lands . . . shall be . . . sold . . . except
+“(g) transfers to non-profit corporations formed for the purpose of promoting industrial development in the City and which corporations cure supported in whole or part from the City Treasury.” (Emphasis added.)
+Before us now for consideration is the issue of whether there is substantial evidence to show that vendee GPEDC is supported in whole or in part from the City Treasury since there is no claim made that GPEDC is not a non-profit corporation formed for the purpose of promoting industrial development. Statutory provisions exempting property from taxation are subject to strict construction, Board of Revision of Taxes of Philadelphia v. United Fund of Philadelphia, 11 Pa. Commonwealth Ct. 201, 206, 314 A. 2d 530, 532 (1973); Statutory Construction Act of 1972, 1 Pa. S. §1928 (b) (5), and the burden is on the taxpayer to bring himself within the exempted statute. Pittsburgh Institute of Aeronautics Tax Exemption Case, 435 Pa. 618, 258 A. 2d 850 (1969); Board of Revision of Taxes of Philadelphia v. United Fund of Philadelphia, supra.
+A review of the record makes it abundantly clear that there is substantial evidence to support the Tax Review Board’s decision. Quantitatively, the testimony in support of Appellants would tend to support the concept that “weight makes right,” but in plodding through it, we find the common thread of it all was that GPEDC as vendee of Appellant received no support from the City Treasury. Mr. Leo Rosen, Chief of Operating Budget, testified that GPEDC did not appear in the City Budget and received no money from the City Treasury. There was testimony that GPEDC was funded by the Department of Commerce, Economic Development Authority, the Urban Coalition, Model Cities Administration and private contributions, but in no way received money from the Philadelphia Treasury. Appellant relies on testimony that the City does provide 20% of the “administrative funding” of the Model Cities Program in Philadelphia, and therefore argues that funding by Model Cities of GPEDC is in fact “funding in whole or in part” by the City. This argument is without merit. Section 19-1401(2) (g) states, “in whole or in part from the City Treasury.” It does not state, “in whole or in part from the Model Cities Treasury which receives monies from the City of Philadelphia Treasury,” as Appellant would suggest.
+Appellant also argues that the City “supported” GPEDC, within the meaning of the ordinance, from August through December of 1967, by supplying a manpower specialist who was paid by the City. We agree with the court below that this does not constitute “support by the City Treasury” under Section 19-1401(2) (g). The lending of a single person for a few months is at best de minimus, and not the kind of support contemplated by this exemption. Given these facts, we cannot say the court erred in determining that Appellant had failed to sustain its burden.
+Finally, Appellant argues that the failure of the Tax Review Board to adhere to Section 11306 of the Local Agency Law, 53 P.S. §11306, which requires “findings and the reasons for the adjudication,” should be the basis for remand. We find that the Tax Review Board’s failure to file an adjudication is not fatal in the instant case. The issue of support by the City was the singular issue for determination by the Tax Review Board. Appellant’s motion and posture in the court below indicate a full understanding of the Tax Review Board’s action. In these circumstances, the failure to follow Section 11306 is not considered prejudicial, and therefore we affirm the order of the Court of Common Pleas and dismiss the appeal.
