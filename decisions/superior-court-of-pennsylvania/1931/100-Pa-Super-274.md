@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 264"
+decided: "1931-01-30"
+citations: ["100 Pa. Super. 274"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Tkexl.hu, P. J., Keller., Linn, Gawthrop, Cunningham, Baldrige, and Whitmore, JJ."]
+parties: ["Green et ux. v. Metro. Cas. Ins. Co. of N. Y., Appellant."]
+source_url: "https://static.case.law/pa-super/100/cases/0274-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 691330
+cites_cases: ["272 Pa. 386", "274 Pa. 292", "277 Pa. 200", "282 Pa. 380", "284 Pa. 129", "300 Pa. 555", "76 Pa. Superior Ct. 299", "90 Pa. Superior Ct. 142"]
+---
+
+# Green v. Metro. Cas. Ins.
+
+## Majority (Linn, J.,)
+
+Opinion by
+Linn, J.,
+The suit is to enforce payment under a burglary, theft or larceny insurance policy, of $1500, the value of a bracelet, alleged to have been stolen. Plaintiff has judgment after a jury trial.
+Defendant’s first complaint is that the proof of loss was not filed within sixty days as required by the policy. The requirement may be waived: Simons v. Safety Mutual Fire Ins. Co., 277 Pa. 200, 203; and the waiver may be inferred from circumstances shown: Hoffman v. Mutual Fire Ins. Co., 274 Pa. 292, 300; Thomas v. Employers L. Assur. Corp., 284 Pa. 129, 134. There was ample proof of waiver and no complaint of the instructions to the jury on the subject. In view of the elaborate argument of counsel for appellant, we may make some reference to the evidence, though, ordinarily, we should not have done so. The theft took place February 20, 1928 and immediate notice was given to defendant and to the police. On March 1, defendant’s superintendent of claims in its Philadelphia office acknowledged receipt of the report of the loss and enclosed two forms for attention; an information blank, and a proof of loss, required them to be completed and submitted to the Philadelphia office. The letter stated ‘ ‘ The information blank is to be completed and returned immediately; the proof of loss to be retained until such time as the full extent of the loss has been determined. When the same have been received, we will then be in a position to give the claim settlement attention.” The information blank was promptly filled out and given to defendant; the proof of loss was held by plaintiff pursuant to the terms of the letter “until such time as the full extent of the loss has been determined,” and was filed May 19,1928. Defendant made no objection to it. In July, 1928, plaintiff wrote to the home office of defendant in New York about payment and was advised by letter that he must look to the superintendent of claims at the Philadelphia office; on August 7, 1928, the superintendent of claims at Philadelphia denied liability “on the ground that sufficient evidence of theft has not been submitted and that the loss does not come within the scope of the policy. ’ ’ In addition, defendant obtained two signed statements from plaintiff’s wife of the circumstances surrounding the loss; she also participated in various interviews with representatives of defendant sent for the purpose; without stating all the evidence on the subject of waiver of the right to say that the proof of loss was not filed in time, we think it amply supports the verdict: see Jenkins v. Franklin Fire Ins. Co., 282 Pa. 380; Zoiler v. Hartford Fire Ins. Co., 272 Pa. 386; Marsh v. Dubuque Fire Ins. Co., 90 Pa. Superior Ct. 142; Fedas v. Ins. Co., 300 Pa. 555.
+The next contention is that the evidence did not show “a loss within the limitations of coverage in the policy.” It provided indemnity “for loss by burglary, theft or larceny......committed by a guest or by any domestic servant or other employee of the assured or by any person whose property is not covered hereby......” The bracelet was in a locked bureau drawer. After the assured took his young son to school on the morning in question, his wife, then alone in the house, locked the doors, and in her words, “was out with my baby probably twenty minutes...... when I came back......the lock was not closed in the way I had left it......” She left her baby outside, entered the house, and almost immediately came out again, “closing the door.” She stayed out “about half an hour” and on her return “the door was open;” she went upstairs and found the bureau drawer was open, and the bracelet missing. She gave an alarm immediately and participated in the investigation conducted by the city police and by the detectives employed by defendant. Plaintiff’s young son—aged seven—testified that he had not taken the bracelet. Plaintiff also produced other evidence tending to exclude the possibility that the theft was traceable to any one who might lawfully have had access to the house. We cannot understand why that was not sufficient evidence to go to the jury to determine whether the bracelet had been stolen within the terms of the policy, since the recent decisions in Schoenfeld v. Royal Indemnity Co., 76 Pa. Superior Ct. 299, 304; Perry v. Southern Surety Co., 78 Ib. 222; Hubbard v. Globe Indemnity Co., 87 Ib. 483, 485; Slomowitz v. Ins. Co., 90 Ib. 366, 369. Plaintiff’s duty was to satisfy the jury by a preponderance of evidence, not as in prosecution for the crime committed, beyond a reasonable doubt.
+The remaining assignments do not require discussion; they are also overruled.
+Judgment affirmed.
