@@ -1,0 +1,45 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1664 C.D. 1985"
+decided: "1987-03-16"
+citations: ["104 Pa. Commw. 617", "522 A.2d 707"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail, Colins and Palladino, sitting as a panel of three."]
+parties: ["Anthony L. Ginocchi, Appellant v. Burrell School District, Appellee."]
+source_url: "https://static.case.law/pa-commw/104/cases/0617-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1356767
+cites_cases: ["130 A.2d 661", "388 Pa. 301", "405 A.2d 964", "437 A.2d 1059", "44 Pa. Commonwealth Ct. 554", "485 A.2d 508", "494 Pa. 123", "500 A.2d 922", "516 A.2d 1186", "63 Pa. Commonwealth Ct. 204", "86 Pa. Commonwealth Ct. 206", "93 Pa. Commonwealth Ct. 28"]
+---
+
+# Ginocchi v. Burrell School District
+
+## Majority (Judge Palladino,)
+
+Opinion by
+Judge Palladino,
+Anthony L. Ginocchi (Appellant) appeals from an order of the Court of Common Pleas of Westmoreland County (trial court) which affirmed the decision of the Board of Directors of the Burrell School District (Board) denying Appellants request that he be appointed Junior High School Principal. We affirm.
+Appellant was hired by the school district in 1958. From 1972 thru 1980 he held several administrative positions in the district, including Upper Burrell Elementary School principal. Appellant was demoted on September 4, 1980 to the position of elementary teacher due to a substantial decrease in pupil enrollment. At the time of his demotion, Appellant did not have a secondary school principal certificate. He obtained the certificate in 1981.
+During the 1978-79 school year, the principal of the Junior High School, Mr. Cochran, announced he would retire in the 1981-82 school year. Dr. Anthony Burger was hired in 1978 for the position of Junior High School assistant principal.* On June 6, 1982, the school district superintendent, Charles A. Huston, issued a bulletin asking for applications for the Junior High School principal position from all qualified professional employees in the district. The position required a secondary school principal certificate. Four individuals, including Appellant and Dr. Burger, submitted application letters to Mr. Huston. Appellants letter contained an assertion that he was entitled to the position because of his seniority. The Board, based on a recommendation from Mr. Huston, appointed Dr. Burger to the Junior High School principalship on June 29, 1982.
+Appellant filed suit in the trial court on July 28, 1982, claiming that since he had not been given a hearing on his request for the position, the appointment of Dr. Burger was invalid. The trial court directed the Board to afford Appellant a local agency hearing on his claim that the Board had realigned its professional staff in contradiction of Section 1125.1(c) of the School Code of 1949 (Code) when it promoted Dr. Burger, an employee less senior than Appellant, to the principal position.
+A local agency hearing was held on June 29, 1983. Appellant claimed the principal position on the basis that the promotion was a realignment and must be filled in accord with Section 1125.1(c) of the Code. The Board, in its August 10, 1983 decision, concluded that the promotion was not a realignment and, therefore, Appellant was not entitled to the position, even though he had the most seniority.
+Appellant appealed this decision to the trial court. The trial court affirmed the Boards decision and dismissed Appellants appeal on the basis that Section 1125.1(c) does not apply when only one position, resulting from a vacancy, is being filled. On appeal to this Court, Appellant contends that the trial court erred in its interpretation of the application of Section 1125.1(c)* **
+The position which Appellant seeks is a promotion. He asserts that he is entitled to this position because it constitutes a realignment in light of his demotion and the fact that he is the most senior applicant. Appellant, on the basis of Shestack v. General Braddock Area School District, 63 Pa. Commonwealth Ct. 204, 437 A.2d 1059 (1981), would have us, by defining realignment to include the concept of promotion, extend the requirements of Section 1125.1(c) to situations in which a position is vacant and to which appointment would be a promotion.
+Section 1125.1(c) of the Code states that “[a] school entity shall realign its professional staff so as to insure that more senior employes are provided with the opportunity to fill positions for which they are certificated and which are being filled by less senior employes.” Although Section 1125.1 of the Code is entitled “persons to be suspended” and contains the procedure by which professional employees, allowed to be suspended under Section 1124,* **** are selected and the rights to which they are entitled, see Brisner v. Cumberland Perry Area Vocational-Technical School Joint-Operating Committee, 44 Pa. Commonwealth Ct. 554, 405 A.2d 964 (1979), aff'd 494 Pa. 123, 430 A.2d 276 (1981), this Court, in Shestack extended its application to demotions caused by a realignment of the professional staff within a school district.
+Realignment is not defined in the Code. The definition of realignment as used in Section 1125.1(c) was addressed in Fry Appeal, 86 Pa. Commonwealth Ct. 206, 485 A.2d 508 (1984). The issue in Fry was whether the demotion of a full time principal to teacher and his replacement with a part-time principal, due to a declining pupil enrollment, was a realignment under Section 1125.1(c). This Court, relying on the Shestack decision and the dictionary definition of realign (“to reorganize or make new grouping of”), concluded that the demotion and replacement constituted a realignment within the meaning of Section 1125.1(c). Id. at 209-10, 485 A.2d at 510.
+Realignment in connection with demotions has been associated with the need for staff changes resulting from those situations in which suspension is allowed under Section 1124. To include the concept of promotion within the definition of realignment would not be consistent with the purpose for which the tenure sections of the Code, which include Section 1125.1(c), were enacted.
+The legislature provided the safeguards of the tenure provisions “for the protection of professional employees from unjust or improper suspension, dismissal and demotion from their duties by the school district.” Smith v. Darby School District, 388 Pa. 301, 311, 130 A.2d 661, 667 (1957). It is incredible to suppose that the legislature intended these sections to apply to a situation in which a professional is being “raised in position.” The promotion to the principal position at issue here is not a realignment within the meaning of Section 1125.1(c).
+Accordingly, we affirm.
+Order
+And Now, March 16, 1987, the order of the Court of Common Pleas of Westmoreland County in the above-captioned matter is affirmed.
+This demotion was appealed to the Secretary of Education, who sustained the demotion, on July 9, 1982. This Court affirmed that decision in a memorandum decision. Ginocchi v. Burrell School District (No. 1914 C.D. 1982, filed May 3, 1985). Subsequently, Ginocchis petition for allowance of appeal was denied by our state Supreme Court on January 23, 1986 (497 W.D. Allocatur Docket 1985) and his appeal to the United States Supreme Court was dismissed, on June 6, 1986, for want of a substantial federal question.
+This position has since been eliminated.
+Act of March 10, 1949, P.L. 30, as amended, 24 P.S. §11-1125.1(c). This section states: “A school entity shall realign its professional staff so as to insure that more senior employes are provided with the opportunity to fill positions for which they are certificated and which are being filled by less senior employes.”
+Appellant also contends that the trial court violated Pa. R.C.P. No. 1517 because it did not discuss a request for equitable relief included in his local agency appeal. We find no merit in this contention and, therefore, will not address it.
+The trial court relied on the use of the plural in Section 1125.1(c) to support its interpretation that the section applies only where a realignment affects more than one position. It is unnecessary for us to determine whether or not the trial courts interpretation of the application of Section 1125.1(c) is correct. The applicability of Section 1125.1(c) depends on there being a realignment and no realignment has taken place here.
+24 P.S. §11-1124. The causes for suspension are (1) decrease in pupil enrollment, (2) curtailment or alteration of the educational program, (3) consolidation of schools, (4) reorganization of school districts.
+See Gibbons v. New Castle Area School District, 93 Pa. Commonwealth Ct. 28, 500 A.2d 922 (1985) (Palladino, J., dissenting), allocator granted 516 A.2d 1186 (1986); Fry Appeal, supra; Shestack, supra.
+24 PS. §§11-1121 thru 11-1133.
+Webster’s Third New International Dictionary 1815 (1986).
