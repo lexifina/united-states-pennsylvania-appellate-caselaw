@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 193"
+decided: "1900-04-23"
+citations: ["13 Pa. Super. 569"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaveb, Oblady, W. W. Pobteb, W. D. Pobteb and Beebeb, JJ.", "Before Finletter, P. J."]
+parties: ["Philadelphia v. Lockard."]
+source_url: "https://static.case.law/pa-super/13/cases/0569-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 825570
+cites_cases: ["100 Pa. 151", "120 Pa. 272", "139 Pa. 276", "19 Phila. 540", "2 Rawle, 38"]
+---
+
+# Philadelphia v. Lockard
+
+## Majority (Orlady, J.,)
+
+Opinion by
+Orlady, J.,
+The board of charities and correction for the city of Philadelphia made complaint before a magistrate of the city, setting forth that Edwin J. Lockard, late of that city, had separated himself from and deserted his wife and child without reasonable cause, thus leaving them a charge on the petitioners: that he had money, rights and credits to the amount of $1,800 per annum in the hands of the Fidelity Insurance, Trust & Safe Deposit Company, which should contribute to the support of said wife and child. The complaint was verified by the affidavit of the wife, and it prayed for a warrant of seizure, agreeable to the acts of assembly in such case made and provided.
+The proceeding was instituted under the Act of March 31, 1812, 5 Smith’s Laws, 396, with supplement of March 14, 1814, 6 Smith’s Laws, 131, and tire Act of April 14, 1853, P. L. 416. The former statutes are still in force in Philadelphia county, (West’s Digest, p. 325, sec. 33), and are more comprehensive in scope than the general desertion Act of June 13, 1836, P. L. 539, sec. 28, et seq.
+The magistrate issued a warrant of seizure, and all moneys, rights and credits, the property of Edwin J. Lockard in the hands of the trust company, were attached, seized and levied upon. The trust company appeared and filed an answer reciting that William F. Lockard died on January 21, 1889, leaving a last will and testament with codicils, in and by which the respondent and Edwin J. Lockard were appointed executors, and the respondent was appointed trustee to invest all the money of said estate; and out of the net annual income arising therefrom to pay over .... one sixth thereof to Edwin J. Lockard, the son, during his natural life .... And, in the words of the will, “ Tenth. All payments of income herein bequeathed to the members of my family or their connections shall be made quarterly. The foregoing provisions for the wives, or children of my children shall not include my son Samuel’s first wife, she having been divorced from him, nor her child by him. All moneys or legacies herein bequeathed are to be paid to the legatees in person and to no one else, and shall not be assignable nor transferable, nor subject or liable in any way whatever for any debt or obligations of any of said legatees, heretofore or hereafter created.” The trust company admitted that it then held, under the terms of the will, the sum of $366, for Edwin J. Lockard, and that his annual income from that source approximated the sum of $1,450, but contended that the said funds were not subject of seizure by virtue of the said warrant, etc.
+After hearing, the court confirmed the warrant and the proceedings thereunder, and ordered and decreed that the trust company should pay the sum of $12.00 per week for the support of “ wife, Alida Lockard, and minor child.” Edwin J. Lockard was not served, and does not appear in the case.
+The beneficence of William F. Lockard, as expressed in his will, was intended for the members of his family and their connections. The only persons excluded were Samuel’s first wife and her child, for which a sufficient reason was stated. Whatever his intention was as to the wife and child of his son, Edwin J., one thing is certain, that is, he created and provided for the distribution of a fund to be paid quarterly to this son, at which time there would be in the hands of the trustee, but under the control of the son, an ascertained sum of money that would be largely in excess of the amount fixed by the order of court, and in which fund, in the language of our Supreme Court, “ those dependent on him for support and maintenance are entitled to participate. It is neither improper nor illegal to compel him to do what it should have been his pleasure to do voluntarily, namely, to share that income with his helpless wife and child, at least to the extent that may be required for their economical maintenance and support: ” Decker v. Poor Directors, 120 Pa. 272. There is nothing in the will of William F. Lockard to justify us in holding that the wife and child of Edwin J. were intended to be excluded, or that they were to be considered as his creditors. The court cannot change the named beneficiaries nor the time of payments, but when the payments to this son are due, and when they are subject to his control, the court, on account of his inexcusable desertion of lfis wife and child, may rightly apportion a small part of the fund for the support of those who, through the bequest to Edwin J. Lockard, were in the contemplation of the testator prospective partakers of his bounty, and to whom Edwin J. owes a conspicuous duty under the law of nature as well as under the demands of public policy. Further than this it is not necessary to determine. The decree of the court of quarter sessions is affirmed.
