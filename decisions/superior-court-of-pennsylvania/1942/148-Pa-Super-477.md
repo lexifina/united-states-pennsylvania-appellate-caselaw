@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 19"
+decided: "1942-04-15"
+citations: ["148 Pa. Super. 477"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Baldrige, Stadtfeld, Rhodes, Hirt and Kenworthey, JJ."]
+parties: ["Westfall v. Westfall, Appellant."]
+source_url: "https://static.case.law/pa-super/148/cases/0477-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1040665
+cites_cases: ["113 Pa. Superior Ct. 206", "172 A. 403", "56 Pa. Superior Ct. 419", "85 Pa. Superior Ct. 74", "92 Pa. Superior Ct. 310"]
+---
+
+# Westfall v. Westfall
+
+## Majority (Kenwokthey, J.,)
+
+Opinion by
+Kenwokthey, J.,
+The court below granted the husband a divorce on the ground of desertion. The wife appeals. She contends he consented to the separation.
+The parties were married June 9, 1931. At that time respondent was fifty-six years of age, libellant somewhat older. She had not been previously married. He had adult children by a former marriage. He had lived practically all his adult life in Cumberland County and for over twenty years in Camp Hill. She had lived all her life in or near Portland, Maine. They met through a marriage bureau in 1929, and corresponded from that time until the marriage. She had paid a short visit to his home about a year before the marriage.
+About four weeks after the marriage, respondent became restless, discontented and homesick. She tried very hard to persuade libellant to sell or mortgage his home in Camp Hill and move to Maine. She continued to manifest a desire to return to Maine, and in early September, he testified: “Well, she wanted me to go along with her on a visit to Maine and I told her my work was such that I couldn’t possibly leave at that time, but I insisted that she take a visit herself on account of her being homesick, that if she would be home for a week or two, or a month, I could get along and she could get over her homesickness and would feel like coming back.” Her reply to the suggestion was that it was too cold in Maine and that she would not go until the middle of the following May. She also said: “When I go, I am not coming back.” Libellant testified: “......but I didn’t take that seriously. I thought she was just homesick and just made mention of that.”
+She left on May 15, 19&2. Libellant described what took place at that time as follows: “The morning she left to go to Maine, Mrs. Westfall and I were in the kitchen and she told me — ‘John, I hate to do this; no man could have been kinder to me than you have been, but my people come first and I can’t live away from them.’ But I thought when she would get home, she probably would get over this home-sickness and that she would want to return then. I didn’t take it seriously because she had a nervous stomach and I thought she just wasn’t feeling well.” Libellant expressed no protest to respondent’s departure and gave her $40 to cover her traveling expenses. In addition, after she left, he sent her $10 per month. Prior to leaving, respondent mailed a good many of her belongings by parcel post and packed a trunk, which she asked libellant to forward to her after she left. He did not forward the trunk until after she had made several requests for it, and on June 25, 1932, he wrote her in part as follows: “first I wish to State in Regards to your Trunk the reason I deladed in Sending it I thought possibley if you Regained your helth you would decide to Return to Penna. But as your letter Stated you Desired to have it at once, I have complyed with your wishes, it was Delivered to the Express Office 'Saturday 24 and went out at 3 P. M. Charges all Prepaid through to Dover. You Should Rec it by Wednesday. Trusting you will Rec it O K. I have given up all Hopes of your Return to my Home. I am very Sorry Indeed. I will now Dismiss that Part of our life and lay my Plans for the future it will Be Impossible for me to Continue on mutch longer with all the Responsibilities that now Rest on me. I Trust you will Reconize at once that I have not many Bright Spots in my life. And our Parting is a Severe Blow to me. when I look Back Just a little over a year ago when I was Bubling over with Happiness looking forward to the time when we would Be united and Could live Hapily together, Lotta I can not Express my feelings......”
+There is no contention that respondent had any justification for leaving. The only evidence offered on her behalf was her own brief testimony taken in Maine by commission. She said: “The only reason I left my husband’s home, or Camp Hill, Pa., was on account of my health. He made no objection thereto, and told me on several occasions that he would come to Maine to live. At the time I left Camp Hill, that was the understanding.”
+It seems pretty clear that when respondent left, she intended never to return and that libellant knew of the intention. No other conclusion is possible from his own testimony. But, although he didn’t openly protest, she knew her departure was not agreeable to him. If she hadn’t known it she wouldn’t have said, when she was about to leave, “John, I hate to do this.” Even if she didn’t know it, the burden was on her to prove that libellant actually consented to a permanent separation. His silence indicated not consent, which implies volition, but passive submission to an unhappy misfortune over which he had no control. If he consented to anything, it was to nothing more than a temporary separation. Smith v. Smith, 85 Pa. Superior Ct. 74; Little v. Little, 56 Pa. Superior Ct. 419; McIntyre v. McIntyre, 92 Pa. Superior Ct. 310.
+Libellant’s payment of traveling expenses and his continuance of monthly allowances to respondent after her departure are not inconsistent with the limited consent he gave. And since Halley v. Halley, 113 Pa. Superior Ct. 206, 172 A. 403, such payments are not per se evidence that the separation was consented to.
+Decree affirmed at appellant’s cost.
