@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 9"
+decided: "1906-04-23"
+citations: ["31 Pa. Super. 47"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Porter, Henderson, Morrison, Oelady, Head and Beaver, JJ."]
+parties: ["Weldon’s Estate."]
+source_url: "https://static.case.law/pa-super/31/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 864306
+cites_cases: ["117 Pa. 35", "13 Pa. 359", "150 Pa. 376", "160 Pa. 156", "162 Pa. 360", "192 Pa. 298", "201 Pa. 305", "203 Pa. 313", "21 Pa. 495", "212 Pa. 432", "23 Pa. Superior Ct. 321", "24 Pa. Superior Ct. 603", "25 Pa. 413", "26 Pa. 365", "3 Pa. 81", "3 Whart. 369", "4 Watts, 359", "69 Pa. 71", "7 Watts, 305", "74 Pa. 112", "86 Pa. 524", "91 Pa. 83", "94 Pa. 316"]
+---
+
+# Weldon's Estate
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+The judgment of the appellee which the appellants contest was entered April 15, 1891, and has been twice revived. It had for its origin a judgment promissory note given by the decedent to the accountant, his son. The appellants are creditors of the decedent, who allege that the note referred to was without consideration and given to hinder, delay and defraud creditors. The auditor found in a carefully prepared report that the note was given for a bona fide indebtedness, and that there was no collusion between the maker and the payee in the transaction, which conclusion was approved by the orphans’ court. It has been repeatedly said that findings of fact by an-auditor when approved by the court must be regarded as the verdict of a jury, aud are not to be disturbed except upon the clearest proof of mistake: Fritz’s Estate, 160 Pa. 156 ; McPherran’s Estate, 212 Pa. 432. The burden rested upon the appellants to show by satisfactory evidence that the decedent and the appellee had conspired to hinder, delay or defraud the creditors of the former. It was not sufficient to show that they bore the relationship to each other of father and son, nor that a judgment was confessed, the lien of which would exclude the appellants from participation in the proceeds of the sale of the decedent’s land. If the decedent was indebted to his son, the latter had a right to take a written obligation for such indebtedness and to secure it by obtaining a judgment against the land of the debtor. Business transactions between father and son are not prima facie fraudulent. . They are to be treated as are the'dealings between other debtors and creditors. Where the honesty of a debt between father and son is impeached and fraud alleged it must be distinctly proved : Reehling v. Byers, 94 Pa. 316. Such a claim cannot be invalidated by showing that a preference was given. Unless prohibited by an insolvent law the debtor may prefer one creditor before another. To do so is neither a fraud in law or fact: Brown’s Appeal, 86 Pa. 524. A creditor is under ■ no obligation to take care of other creditors under such circumstances, nor does the motive of the debtor affect the validity of the obligation unless the creditor is a party to the unlawful design. If the debt be an actual one and the creditor’s intention honest, he cannot be affected by the defendant’s intention. The stipulation indorsed on the amicable scire facias filed April 4,1896, that the judgment was to be without interest until paid, does not amount to a reservation of the property incumbered to the defendant in the judgment. It is rather an indulgence by the plaintiff, not prejudicial to any junior creditor and not forbidden. Various considerations might induce such an agreement, and it could hardly be considered evidence of fraud that a son was willing to postpone the time when interest should become due on a debt owed to him by his father.
+There was some evidence tending to support the contention of the appellants, or at least to excite suspicion in regard to the integrity of the judgment, but the auditor, exercising the functions of a jury in the premises, found that the transaction was honest and the debt valid, and there was evidence upon which such conclusion might be based. It was undisputed that the son had worked for his father about eight years after he reached his majority, and that the father declared at the time the obligation was given that it was to secure him compensation for his services. The amount charged, $100 a year, was apparently a very moderate sum, and it is not difficult to understand from the evidence why the auditor arrived at a conclusion sustaining the judgment. The appellee is not seeking to establish a parol contract for services. He not only offered proof of the work done but has the decedent’s written acknowledgment of his obligation therefor, and that in the form of a judgment. To set aside a judgment substantial proof is required, and we are not satisfied that the auditor committed an error in refusing to find that the judgment in question was fraudulent. '
+The assignments are overruled and the decree affirmed.
