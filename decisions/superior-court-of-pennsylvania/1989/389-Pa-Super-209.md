@@ -1,0 +1,37 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "299"
+decided: "1989-11-21"
+citations: ["389 Pa. Super. 209", "566 A.2d 1209"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DEL SOLE, MONTEMURO and POPOVICH, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. William BUTLER, Appellant."]
+source_url: "https://static.case.law/pa-super/389/cases/0209-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 474483
+cites_cases: ["251 Pa.Super. 162", "294 Pa.Super. 151", "362 Pa.Super. 9", "372 Pa.Super. 550", "466 U.S. 668", "487 Pa. 266", "515 Pa. 153", "527 A.2d 973"]
+---
+
+# Commonwealth v. Butler
+
+## Majority (DEL SOLE, Judge.)
+
+DEL SOLE, Judge.
+William Butler, appellant, pleaded guilty to burglary, possession of instruments of crime and retail theft. No appeal was filed after his conviction. Almost a year later, Butler filed a pro se petition for post-conviction relief. After counsel was appointed, an amended petition was filed. Butler’s post-conviction petitions were dismissed without a hearing and this appeal followed. Butler raises two issues on appeal which have merit. We reverse the order of the P.C.R.A. court and discharge the appellant.
+On October 5, 1985, Butler was charged with retail theft in Allegheny County. On October 20, 1985, he was charged with burglary and possession of instruments of crime, Butler did not appear for a preliminary hearing on the charges of burglary and possession of instruments of crime, and he failed to appear for a formal arraignment on the charge of retail theft. As a result, Butler’s bond was forfeited and a bench warrant was issued for his arrest.
+On June 10, 1986, the Pennsylvania Board of Probation and Parole discovered that Butler was detained by officials in South Carolina. Following disposition of criminal proceedings in South Carolina, an extradition hearing was conducted in South Carolina on September 9, 1986. As a result of that hearing, Butler was transported back to Pennsylvania on December 8, 1986.
+On April 15, 1987, in response to Butler’s motion to dismiss under Rule 1100, the trial court dismissed the retail theft, burglary and possessing the instruments of crime charges. The Commonwealth filed a Motion for Reconsideration on April 16, 1987 which was granted by the trial court on May 20, 1987.
+The two issues raised by Butler are centered on this grant of reconsideration. Butler argues that on May 20, 1987, the trial court no longer had jurisdiction to grant a reconsideration motion and Butler’s counsel was ineffective for not objecting to the trial court’s jurisdiction at trial or on appeal. We agree.
+Pennsylvania has adopted the U.S. Supreme Court’s standard of determining ineffective assistance of counsel. In Strickland v. Washington, 466 U.S. 668, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984), the U.S. Supreme Court announced a two-prong test for ineffectiveness claims: “First, the defendant must show that counsel’s performance was deficient____[and] ... [s]econd, the defendant must show that the deficient performance prejudiced that defense.” 466 U.S. at 687, 104 S.Ct. at 2064 in Commonwealth v. Pierce, 515 Pa. 153, 157-158, 527 A.2d 973, 974-975, (1987). The actions of Butler’s counsel in the present case satisfied both prongs of the Strickland/Pierce test.
+The performance of Butler’s counsel was deficient for not objecting to the trial court’s jurisdiction when the court granted the Commonwealth’s motion for reconsideration. The trial court granted the motion on May 20, 1987, thirty-five days after the court had granted Butler’s motion to dismiss. Generally, a trial court’s jurisdiction only extends for thirty days after such an action:
+Except as otherwise provided or prescribed by law, a court upon notice to the parties may modify or rescind any order within 30 days after its entry, notwithstanding the prior termination of any term of court, if no appeal from such order has been taken or allowed.
+42 Pa.C.S.A. § 5505
+An order sustaining a motion to, dismiss and discharging a defendant is a final order. Commonwealth v. Andrews, 251 Pa.Super. 162, 380 A.2d 428 (1977). Absent fraud, a trial court lacks jurisdiction to rescind a prior order granting a defendant’s motion to discharge the prosecution if the court did not act within thirty days of the dismissal order. Commonwealth v. Sheppard, 372 Pa.Super. 550, 539 A.2d 1333 (1988). PCRA relief is permitted where it is established that the tribunal lacked jurisdiction. 42 Pa.C. S.A. § 9543(a)(2)(viii). In the case of fraud or other equitable demands, our Supreme Court has allowed trial courts to modify or rescind orders beyond the statutory time limit. Estate of Gasbarini v. Medical Center of Beaver, 487 Pa. 266, 409 A.2d 343 (1979). There are no such extraordinary circumstances in the present case.
+The Commonwealth argues that this case is controlled by Commonwealth v. Kern, 294 Pa.Super. 151, 439 A.2d 795 (1982). In Kern, a panel of this court held that an order granting a rule to show cause that was issued within thirty days of an order which dismissed charges against a defendant tolled the time period of 42 Pa.C.S.A. § 5505. In Luckenbaugh v. Shearer, 362 Pa.Super. 9, 523 A.2d 399 (1987), however, this court en banc held that the granting of a “rule to show cause is not a grant of reconsideration and, therefore, did not operate to prevent the thirty-day appeal period from expiring.” 362 Pa.Super. at 13, 523 A.2d 399. We hold today that Luckenbaugh has overruled Kern. This en banc ruling requires the dismissal of the charges against Butler.
+An analogous situation with respect to the effect of a court’s scheduling a hearing date without specifically changing its order within thirty days is detailed in the comment to Pa. R.Cr.P. 1410. That rule involving the modification of sentences requires that a motion to modify be filed within ten days after the imposition of sentence. The comment states that there are four actions a trial court can take once a motion has been filed. One of these actions is to “schedule a hearing on the motion.” However, the comment further goes on to state as follows:
+Under this rule, the mere filing of a motion for modification of sentence and the court’s scheduling of a hearing on the motion do not effect the running of the thirty day period for filing a timely notice of appeal ...
+The practice should be no different where a party is seeking modification of the court’s final order. As has been said in Luckenbaugh, in the comment to Pa.R.Cr.P. 1410 and in numerous other cases where a trial court has thirty days in which to modify or change a final order, it must act within that time. Issuing a rule to show cause or scheduling a hearing will not suffice. If the trial court desires additional time to reexamine its ruling, it must expressly grant reconsideration (Pa.R.A.P. 1701) or vacate its order within thirty days. Thereafter, it may reimpose its order or change the order as the court deems appropriate.
+Accordingly, Butler’s counsel should have objected to the trial court’s extended jurisdiction over his client’s case. Because counsel failed to object to the reinstating of the charges against Butler, Butler was sentenced for charges which had actually been dismissed. It is hard to imagine a more prejudicial performance by counsel.
+Order of the P.C.R.A. court reversed. Appellant discharged.
