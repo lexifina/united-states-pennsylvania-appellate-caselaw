@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 153"
+decided: "1945-03-05"
+citations: ["156 Pa. Super. 644"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Baldrige, Rhodes, Hirt and Reno, JJ. (James, J., absent)."]
+parties: ["Lipstok, Appellant, v. Haddock Mining Company."]
+source_url: "https://static.case.law/pa-super/156/cases/0644-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1058335
+cites_cases: ["117 Pa. Superior Ct. 300", "135 A. 903", "136 Pa. Superior Ct. 318", "144 Pa. Superior Ct. 500", "147 Pa. Superior Ct. 328", "150 Pa. Superior Ct. 619", "156 Pa. Superior Ct. 640", "178 A. 323", "19 A. 2d 852", "24 A. 2d 51", "288 Pa. 140", "29 A. 2d 354", "41 A. 2d 423", "7 A. 2d 152"]
+---
+
+# Lipstok v. Haddock Mining Co.
+
+## Majority (Rhodes, J.,)
+
+Opinion ey
+Rhodes, J.,
+This workman’s compensation case has been fifteen years in the process of adjudication. It has been before several referees and workmen’s compensation boards, it has been before the court below five times, and it has been before this court on one occasion. Lipstok v. Haddock Mimng Co., 117 Pa. Superior Ct. 300, 178 A. 323.
+The present appeal is by claimant from the judgment of the court below, which reversed the board and entered judgment for defendant. The Workmen’s Compensation Board had affirmed the referee’s findings of fact, conclusions of law, and award in favor of claimant. Claimant was awarded compensation for total disability resulting from “the aggravation and acceleration of the hypertrophic osteoarthritis as caused by the accident of May 11, 1929, entirely apart from the natural progress of the disease.”
+It is unnecessary to recite the various proceedings which make up the voluminous record.
+We said, when we remanded this case “for further proceedings,” “that the interests of justice will be best served by affording claimant an opportunity to show what, if any, disability resulted from the accident, as distinguished from the disability attributable to the natural progress of the diseases from which claimant was suffering when it occurred, together with the right to the employer to present additional evidence upon the issues indicated.” The judgment for claimant was reversed because we found nothing “in the testimony of any of the witnesses as to the percentage of disability occasioned as a result of the accident, to support the finding of the board that the aggravation caused by the accident of May 11, 1929, apart from the natural progress of the disease, resulted in a permanent diminution or loss of earning power of fifty per cent.”
+We have recently made it clear that when a compensation case is returned to the board for determination of a basic question of fact it is fully open to be tried de novo. Dosen v. Union Collieries Co., 150 Pa. Superior Ct. 619, 622, 29 A. 2d 354. We there said (page 623) : “The verdict of a jury on a second trial is never open to the objection that it is inconsistent or wholly at variance with the verdict in a previous trial of the same case. The analogy between a verdict of a jury and the conclusions of the fact finders in a compensation case have been recognized. Ford v. Dick Co., 288 Pa. 140, 135 A. 903; Healey v. Carey Baxter & Kennedy, Inc., 144 Pa. Superior Ct. 500, 19 A. 2d 852.” See, also, Roland v. Frantz et al., 156 Pa. Superior Ct. 640, 41 A. 2d 423.
+The cause of claimant’s disability was a basic question of fact, and the compensation authorities upon remittitur property considered the case de novo on that issue. They were not bound by prior findings. The cause and extent of disability were for them to determine unhampered by any previous findings in respect thereto. See section 427 of the Act of June 2, 1915, P. L. 736, as amended and reenacted, 77 PS §879.
+In Roland v. Frantz et al., supra, 156 Pa. Superior Ct. 640, at page 642, 643, 41 A. 2d 423, at page 424, we said: “The board ...... was not bound by the action of the prior board any more than a court, when sitting as a fact-finding body, rehearing a case, is bound by the findings of a prior court, or a jury on a retrial is bound by the verdict of a former jury. Walsh v. Penn Anthracite Mining Co., 147 Pa. Superior Ct. 328, 334, 24 A. 2d 51; Icenhour v. Freedom Oil Works Co. et al., 136 Pa. Superior Ct. 318, 323, 7 A. 2d 152.”
+The only other question for consideration is whether the record contains sufficient competent evidence to support the findings of the present board that claimant’s total disability is attributable to the aggravation of a preexisting hypertrophic osteoarthritis separate and apart from the natural progress of the disease.
+When this case was previously before us we recited some relevant portions of the testimony, and especially of the medical experts. The testimony of Dr. A. M. Miller, one of those who had testified, contains the following: “Q. Is it your opinion the injury is causing his present condition? A. Yes; there is nothing revealed it wasn’t so. Q. Nothing else can be located responsible for his condition except his injury? A. His injury.” The competency of Dr. Miller was not and has not been questioned. In our opinion, Lipstok v. Haddock Mining Co., supra, 117 Pa. Superior Ct. 300, at page 306, 178 A. 323, at page 326, we said: “Upon a careful examination of the testimony, we cannot say that there is not sufficient legally competent testimony to support the conclusion that the injury aggravated an existing hypertrophic arthritis.”
+After the record was returned by us, claimant introduced additional testimony by medical and lay witnesses. Dr. John Nash and Dr. William Leach testified that the accident on May 11, 1929, aggravated the preexisting condition of hypertrophic osteoarthritis, and that the aggravation of this condition was the sole cause of claimant’s total disability. These physicians were not obliged to accept the findings theretofore made by the board, and there is no merit to the contention that they improperly disregarded such findings. The professional opinions of these experts were based upon the consideration of claimant’s condition as disclosed by their examinations of him and upon facts established by the evidence and assumed by them to be true. Counsel for defendant exhaustively cross-examined these medical experts. Their testimony, together with other testimony in the record, supports the award of the board in favor pf claimant.
+The judgment of the court below is reversed, and the record is returned to the court below with direction to enter judgment on the award in favor of claimant and against defendant.
