@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 178"
+decided: "1919-12-01"
+citations: ["73 Pa. Super. 129"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Trexler and Keller, JJ."]
+parties: ["Markowitz v. Ararat Dye Works, Appellant."]
+source_url: "https://static.case.law/pa-super/73/cases/0129-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 643405
+cites_cases: ["206 Pa. 274", "232 Pa. 1", "251 Pa. 407", "43 Pa. Superior Ct. 532"]
+---
+
+# Markowitz v. Ararat Dye Works
+
+## Majority (Head, J.,)
+
+Opinion by
+Head, J.,
+The plaintiff sued a nonexistent corporation. The writ commanded the sheriff to summon “Ararat Dye Works, a Corporation.” The sheriff returned that he had served the writ on the Ararat Dye Works, a corporation, “the within named defendant company” by handing personally a true and attested “copy of the writ together with a copy of the plaintiff’s statement of claim to David Sudjian the president of said defendant company.” If, as is now conceded, no such corporation existed, manifestly, the writ served as stated brought no person within the jurisdiction of court. Shortly after the date of the service the docket entries show that an answer was filed. The nature and character of this paper and the circumstances under which it found its way upon the record will be briefly adverted to later. The plaintiff then entered a rule “on the above named defendant Ararat Dye Works” to show cause why the plaintiff’s statement should not be amended by making the caption of the case read “Annie Markowitz v. David Sudjian and Hagop Sudjian, Trading as,” etc., and striking out the words “a corporation.” The record shows no service of this rule upon anyone. The rule was made absolute January 25, 1919. Up to this point we search the record in vain in an effort to discover what person or persons had been lawfully brought within the jurisdiction of the court. No general appearance for anyone was ever entered by counsel. After an ex parte hearing the court, on April 15, 1919, sitting without a jury, found in favor of the plaintiff and against the two individuals named in the rule last quoted. Six days thereafter counsel for these individuals appeared specially and moved the court “to strike off the finding and judgment of the court” for a number of reasons, but chiefly because the court had never acquired jurisdiction of the persons of the defendant. The learned court below dismissed the motion for the reason that no judgment had yet been formally entered and this appeal followed.
+If the jurisdiction of the two individuals against whom the court entered judgment cannot be rested on the alleged answer to which we have referred, we are unable to perceive any foundation on which it can rest. An examination of the original record discloses the presence of a paper not signed nor sworn to by any person. In the body of it we find a declaration that it is the affidavit of one, David Sudjian, setting forth that he is a partner trading with others unnamed as the Ararat Dye Works, etc., and that there is no such corporation as Ararat Dye Works and, therefore, this action is void for want of proper parties. No mention therein is made at all of one of the parties Hagop Sudjian against whom judgment has gone. The paper on its face discloses no reason for its existence as a part of the record. There is considerable difference of opinion among counsel as to the manner in which it became included in the record, but of this we can take no notice. We must regard it for what it appears to be, an unsigned paper, not verified by affidavit, and of no value whatever in the disposition of the case. We cannot affirm that by reason of its existence in the files of the court below jurisdiction had been created over the persons of those against whom the judgment of the court has gone. While it is true that when the motion to strike off was made no formal judgment had been entered by the clerk of the court, it is also true that the trial judge had filed his findings against the two defendants now appealing and the motion was to strike off the findings which would have left the record in no condition to support a judgment.
+The rule that should have controlled the learned court below in disposing of the rule to amend is thus stated in White Company, Appellant, v. Fayette Automobile Company, 43 Pa. Superior Ct. 532, “If the effect of the amendment will be to correct the name under which the right party was sued it should be allowed; if its effect will be to bring a new party on the record, it should be refused.” This language is quoted with approval by Mr. Justice Moschzisker in the later case of McGinnis v. Valvoline Oil Works, 251 Pa. 407, and the distinction is again carefully pointed out between a case where the right defendant is mistakenly sued under a wrong name and a case where the whole purpose of the amendment is to substitute entirely new parties not theretofore appearing in the record. In our opinion, the learned court below fell into error.
+The judgment is reversed.
