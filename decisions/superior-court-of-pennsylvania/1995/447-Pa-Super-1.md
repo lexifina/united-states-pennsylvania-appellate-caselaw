@@ -1,0 +1,41 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "01434 and 01435"
+decided: "1995-10-17"
+citations: ["447 Pa. Super. 1", "665 A.2d 1293"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before BECK, JOHNSON and HESTER, JJ."]
+parties: ["KIRBY ELECTRIC, INC., Appellant, v. JET CONTRACTING CORPORATION, United States Fidelity and Guaranty Company, Robinson-Conner, Inc., and Alexander Meleshenko. (Two Cases)"]
+source_url: "https://static.case.law/pa-super/447/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 730256
+cites_cases: ["411 Pa.Super. 347", "416 Pa.Super. 284", "420 Pa.Super. 18", "429 Pa.Super. 440", "436 Pa.Super. 559", "537 Pa. 274", "643 A.2d 81", "648 A.2d 551"]
+---
+
+# Kirby Electric, Inc. v. Jet Contracting Corp.
+
+## Majority (BECK, Judge:)
+
+BECK, Judge:
+We decide whether the 1992 amendments to Pennsylvania Rule of Appellate Procedure 341, regarding Final Orders, apply to the instant appeal. We conclude that new Rule 341 does apply to this case and therefore quash this appeal as interlocutory.
+In June 1992, appellant Kirby Electric, Inc. commenced this contract action against Jet Contracting Corporation (“Jet”), United States Fidelity and Guaranty Company (“USF & G”), Robinson-Conner, Inc., and Alexander Meleshenko. On August 5, 1994, the lower court sustained preliminary objections in the nature of a demurrer filed by appellees Jet and USF & G, and dismissed Kirby’s action against these parties. Kirby filed the instant appeal. In the meantime, the remaining defendants, Robinson-Conner and Alexander Meleshenko, filed their own preliminary objections in the nature of a demurrer against Kirby. These preliminary objections remain outstanding.
+On May 6, 1992, Pennsylvania Rule of Appellate Procedure 341 was amended to define a final order as one that disposes of all claims or of all parties and provides in relevant part:
+(a) General Rule. Except as prescribed in subdivisions (d), and (e) of this rule, an appeal may be taken as of right from any final order of an administrative agency or lower court.
+(b) Definition of Final Order. A final order is any order that:
+(1) disposes of all claims or of all parties; or
+(2) any order that is expressly defined as a final order by statute; or
+(3) any order entered as a final order pursuant to subsection (c) of this rule.
+(c) When more than one claim for relief is presented in an action, whether as a claim, counterclaim, cross-claim, or third-party claim or when multiple parties are involved, the trial court or other governmental unit may enter a final order as to one or more but fewer than all of the claims or parties only upon an express determination that an immediate appeal would facilitate resolution of the entire case. Such an order becomes appealable when entered. In the absence of such a determination and entry of a final order, any order or other form of decision that adjudicates fewer than all the claims or parties shall not constitute a final order....
+Pa.R.App.P. 341, 42 Pa.C.S. (Purdon Supp.1995).
+If new Rule 341 is applicable here, it is clear that the instant appeal is premature, as the order sustaining Jet and USF & G’s preliminary objections and dismissing Kirby’s action as to them alone did not dispose of all claims or all parties. See, e.g., Continental Bank v. Andrew Building Co., 436 Pa.Super. 559, 648 A.2d 551 (1994) (order dismissing counterclaim only is not final under new Rule 341); Robert H. McKinney, Jr., Assocs. v. Albright, 429 Pa.Super. 440, 632 A.2d 937 (1993) (order dismissing some but not all defendants is not final under new Rule 341).
+It is equally clear that under old Rule 341 and the decisions interpreting it, the court’s order dismissing Kirby’s action as to Jet and USF & G would be final and appealable. See Bash v. Bell Telephone Co., 411 Pa.Super. 347, 601 A.2d 825 (1992) (dismissal of all claims against one of multiple defendants was final and appealable order); Foflygen v. R. Zemel, M.D. (PC), 420 Pa.Super. 18, 615 A.2d 1345 (1992) (dismissal of all claims against two but not all defendants was final and appealable order). See also Note, Pa.R.App.P. 341.
+The Historical Notes appended to Rule 341 explain the amendment’s effective date:
+The order of May 6,1992 provides that the amendment of this rule shall become effective July 6, 1992, and shall govern only actions or administrative proceedings originally commenced in a court, Commonwealth agency or local agency after that date.
+Order of the Supreme Court dated January 10, 1994, effective March 1, 1994, provides that the amendment to Pa.R.A.P., Rule 341, adopted May 6, 1992, is made applicable to all orders entered on or after the effective date of said order, regardless of the date the-action or administrative proceeding was originally commenced in a court, Commonwealth agency or local agency. The order would not affect any orders entered by a court, Commonwealth agency or local agency after July 6, 1992, and before the effective date of said order in any action commenced on or before July 6, 1992.
+Pa.R.App.P. 341, 42 Pa.C.S., Historical Notes (emphasis added).
+A writ of summons was filed in this matter in May 1992 and reissued in June 1992. Under the rule’s original effective date, new Rule 341 would not apply herein. However, since the Pennsylvania Supreme Court’s further amendment of the rule’s effective date, the applicability of new Rule 341 is defined by reference to the date of the subject order. In this case, the order sustaining the preliminary objections and dismissing Kirby’s claim as to Jet and USF & G was entered on August 5, 1994. The supreme court order dictates that new Rule 341 applies to this appeal, since the subject order was entered after March 1, 1994. We therefore conclude that the instant appeal is from an interlocutory rather than a final order, and must be quashed.
+Appeal quashed.
+. The trial court evidently did not make an “express determination that an immediate appeal would facilitate resolution of the entire case" such that the matter would be considered final and appealable. Pa.R.App.P. 341(c).
+. Appellant argues that the Pennsylvania Supreme Court did not follow its own January 10, 1994 order in its holding that the new rule did not apply in Noll by Noll v. Harrisburg Area YMCA, 537 Pa. 274, 643 A.2d 81 (1994), and that the rule should therefore not be applicable here. However, in Noll, which was commenced in September 1988 and involved a trial court order dated June 5, 1991, see Noll v. Paddock Pool Builders, Inc., 416 Pa.Super. 284, 611 A.2d 219 (1992), the supreme court did not need to refer to its January 10, 1994 order to decide which version of Rule 341 would govern that case. The January 10, 1994 order referred only to trial court orders dated after March 1, 1994. Since the Noll order was dated June 5, 1991, the relevant date was the date of commencement, September 1988, and that date clearly placed the case within the parameters of old rule 341. Therefore, the supreme court did not ignore its order of January 10, 1994, but merely found it inapplicable, and it was necessary to refer only to the original effectiveness language of the May 6, 1992 amendments in its opinion. Noll by Noll v. Harrisburg YMCA, supra at 279 n. 2, 643 A.2d at 83 n. 2.
