@@ -1,0 +1,114 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2615"
+decided: "1983-07-22"
+citations: ["316 Pa. Super. 462", "463 A.2d 456"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before HESTER, CAVANAUGH and CIRILLO, JJ.", "CAVANAUGH, J., files a dissenting opinion."]
+parties: ["COMMONWEALTH of Pennsylvania v. William CASWELL, Appellant."]
+source_url: "https://static.case.law/pa-super/316/cases/0462-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 88445
+cites_cases: ["245 Pa.Super. 146", "265 Pa.Super. 159", "265 Pa.Super. 168", "275 Pa.Super. 184", "278 A.2d 902", "282 A.2d 276", "287 Pa.Super. 88", "291 Pa.Super. 69", "295 A.2d 842", "296 A.2d 777", "298 Pa.Super. 236", "305 Pa.Super. 340", "318 A.2d 705", "361 A.2d 282", "384 U.S. 436", "401 A.2d 1153", "432 U.S. 98", "443 Pa. 295", "445 Pa. 8", "449 Pa. 19", "450 Pa. 54", "451 A.2d 678", "451 U.S. 477", "456 Pa. 90", "461 Pa. 535", "465 Pa. 341", "468 Pa. 265", "470 Pa. 534", "479 Pa. 534", "482 Pa. 496", "485 Pa. 128", "485 Pa. 490", "489 Pa. 209", "489 Pa. 285"]
+---
+
+# Commonwealth v. Caswell
+
+## Majority (CIRILLO, Judge:)
+
+CIRILLO, Judge:
+This is an appeal from the judgment of sentence issued by Munley, J., on October 5, 1981. The appellant, William Caswell, was convicted in a jury proceeding and found guilty of robbery, receiving stolen property, and conspiracy. His motions for a new trial and in arrest of judgment were denied and this appeal followed.
+On February 16, 1980, the Giant Market located in Scranton, Pennsylvania, was held up by three men, apparently wearing false mustaches and beards. One of these men was identified as the appellant. At trial, the dairy manager testified that one of the men had a gun and that one was heavy-set. The manager of the store, Mr. Yaninek, testified that the appellant had the gun and announced that a hold up was taking place. He then directed Mr. Yaninek to open the store safe. The appellant then placed a good deal of money into a shopping bag. After the robbery, Mr. Yaninek described to the police the person who took the money from the safe as a heavy-set man weighing about 230 pounds with a mustache and goatee. At a police line-up on May 20, 1980, Mr. Yaninek also identified the appellant, although through an error he circled the wrong number on the paper given to him by the police. Additionally, at trial, the store manager unequivocally testified with respect to the appellant: “I’m positive that was the man.”
+The appellant was also identified by Barbara Zlotnicki, the head cashier in the store. She was a short distance from the appellant who held a gun on her and the manager as he removed money from the safe and placed it in a shopping bag. At trial she described the appellant’s appearance as follows:
+Q. How was he dressed?
+A. Well, he stuck out like a sore thumb. He had a sweatshirt on and he had a cap on, a ski cap. And he had a hood on the sweatshirt and the hood was down. He had a ski cap that came down over his eye and covered right to the back of his head.
+Q. What do you mean by over his eye?
+A. Well, above his eyebrow, is what I meant. It was right above his eyebrow, went right around his head. And he had a fake mustache and a fake goatee on.
+Q. How do you know it was a fake mustache and fake goatee?
+A. The mustache was on like scotch tape or something. It was coming off on the side. It just appeared to be. It wasn’t real at all.
+Q. Did you see his hair at all, the hair on his head?
+A. Part of it was hanging down over his ears and over the back, over the collar of his coat and sweatshirt.
+Q. What color?
+A. Sort of a darkish-brown, brassy-type.
+Q. Pardon?
+A. It was sort of like a brassy brown or something. That didn’t look real either.
+Q. What do you mean, it didn’t look real?
+A. It looked like it was dyed or something. It was hard to tell. It needed to be cut or trimmed or something. It looked like—it could have been a wig or it could have been his own hair pulled down by the hat, but whatever—
+Ms. Zlotnicki had observed the appellant from a distance of two and a half to three feet for about three minutes in a brightly lit office.
+One witness, Sharon Edmondson, also an employee of the store, testified that a heavy-set man, with a gun, was one of the robbers and that he “took” the manager into the office. She was in the presence of the heavy-set man for only a “second” and did not see his face. She did not identify the appellant at trial as being involved in the crime.
+On appeal, appellant challenges the validity of his identification and the effectiveness of trial counsel for not raising this issue in post-trial motions. Initially, the guidelines for identification are as follows:
+[T]he factors relevant to determining the reliability of the identification are:
+... the opportunity of the witness to view the criminal at the time of the crime, the witness’ degree of attention, the accuracy of his prior description of the criminal, the level of certainty demonstrated at the confrontation, and the time between the crime and the confrontation.
+Commonwealth v. Ransome, 485 Pa. 490, 496, 402 A.2d 1379, 1382 (1979), quoting Manson v. Brathwaite, 432 U.S. 98, 114, 97 S.Ct. 2243, 2253, 53 L.Ed.2d 140 (1977).
+As previously indicated, two of the witnesses had ample time to view the appellant at close range and in a well-lighted area. A third witness, Sharon Edmondson, did not identify the appellant at trial, but gave a general physical description which harmonized with the testimony of the other two witnesses.
+Appellant contends that because of inconsistencies brought out on cross-examination, trial counsel should have requested the court to rule on whether the identification was based on suggestive pre-trial identification procedures. We have reviewed the record, and we find that this argument is without merit.
+The mere fact that the defense counsel’s cross-examination may have provided some basis for the jury to question the validity of the identification by these witnesses, did not provide a basis for suggesting that there was any reason why this testimony was inadmissible and, therefore, subject to a motion to suppress.
+Commonwealth v. Brown, 489 Pa. 285, 306, 414 A.2d 70, 80 (1980).
+Accordingly, counsel was not ineffective for not raising this issue at trial nor in post-trial motions because it had no underlying merit. Counsel will not be deemed ineffective for not raising frivolous claims. Commonwealth v. Hosack, 485 Pa. 128, 401 A.2d 327 (1979); Commonwealth v. Rice, 456 Pa. 90, 318 A.2d 705 (1974).
+Appellant’s next contention is that the lower court erred in admitting certain incriminating statements which he made. Appellant was arrested on April 29, 1980 and taken to the police barracks. While he was waiting to be processed, Detective Klee and Trooper Carlson read him his rights and appellant stated that he understood them. He then indicated that he did not wish to talk. Approximately forty-five minutes later, appellant was advised by Detective Klee as to why he was arrested. He responded that he was a gentleman bandit and that he never hurt anyone. Thereafter, Trooper Carlson initiated a conversation with appellant and the incriminating statements ensued.
+Once a criminal defendant tells the police that he does not want to talk to them about the crime, the interrogation must cease. Commonwealth v. Walker, 470 Pa. 534, 368 A.2d 1284 (1977). However, the United States Supreme Court in the very case establishing this rule of law stated: “In dealing with statements obtained through interrogation, we do not purport to find all confessions inadmissible. Confessions remain a proper element in law enforcement.” Miranda v. Arizona, 384 U.S. 436 at 478, 86 S.Ct. 1602, 1630, 16 L.Ed.2d 694, 726 (1966). Therefore, to hold under the facts of this case that the appellant’s interview with the police was constitutionally defective would undesirably restrict the use of confessions as an element of law enforcement.
+After reviewing the record, we hold that the appellant waived his Miranda rights, because his statements were voluntary under the meaning of Edwards v. Arizona, 451 U.S. 477, 484-5, 101 S.Ct. 1880, 1884-5, 68 L.Ed.2d 378, 386 (1981):
+We further hold that an accused, such as Edwards, having expressed his desire to deal with the police only through counsel, is not subject to further interrogation by the authorities, unless the accused himself initiated further communication, exchanges, or conversations with police, (emphasis added.)
+In the instant case, appellant expressed his desire to remain silent. Then, when he volunteered that he was the gentleman bandit and never intended to hurt anyone, he initiated the discussion in which he made the incriminating statements. Under the meaning of Edwards, those statements were voluntary.
+Like the United States Supreme Court, the Pennsylvania Supreme Court has developed the rule of law that voluntary statements constitute a waiver of Miranda rights. In Commonwealth v. Kichline, 468 Pa. 265, 279, 361 A.2d 282, 289-90 (1976), our Supreme Court stated:
+Although there is no single litmus paper test for determining the voluntariness of a confession, it must establish that the decision to speak was a product of a free and unconstrained choice of its maker.... All attending circumstances surrounding the confession must be considered in this determination. These include: the duration and methods of the interrogation; the length of delay between arrest and arraignment; the conditions of detainment; the attitudes of police toward defendant; defendant’s physical and psychological state; and all other conditions present which may serve to drain one’s power of resistance to suggestion or to undermine one’s self-determination. (Citations omitted.)
+See also, Commonwealth v. O’Bryant, 479 Pa. 534, 539-40, 388 A.2d 1059, 1062 (1978); Commonwealth v. Simmons, 482 Pa. 496, 507-8, 394 A.2d 431, 437-8 (1978).
+In the instant case, the interview seems to have commenced approximately 45 minutes after the appellant was given his Miranda warnings. The appellant did not request the assistance of counsel before he made any statement. Nor does it seem that he requested at any time that the interview be terminated. In fact, his statements to the police suggest that he was alert and responsive. Also, there are no hints of threats or physical violence by the police during the interview. Therefore, the appellant’s incriminating statements were the product not of police compulsion, but of his own free will. Accordingly, we hold that the lower court did not err in permitting these statements at the trial.
+Appellant’s next contention is that Pa.R.Crim.P. Rule 1100 was violated because trial was not started prior to the run date of October 26, 1980. The appellant was arrested on April 29, 1980. His trial finally commenced on November 18, 1980. In the interim, on October 17, 1980, the Commonwealth filed a petition for an extension of time to commence trial. Because of various continuances requested by the appellant or his counsel, the hearing on the Commonwealth’s petition was not held until November 7, 1980. Accordingly, the appellant contends that because the hearing was held after the run date, his speedy trial rights were violated. Our review of the record indicates that the Commonwealth exercised due diligence and that it was the appellant’s requests which occasioned the delay in scheduling the hearing. See, Commonwealth v. Lane, 245 Pa.Super. 146, 369 A.2d 335 (1976). Additionally, there is no requirement that the hearing on an extension petition be held prior to the run date. See, Commonwealth v. Wroten, 305 Pa.Super. 340, 451 A.2d 678 (1982); Commonwealth v. Fairley, 298 Pa.Super. 236, 444 A.2d 748 (1982).
+Appellant’s last contention is that the verdict is contrary to the law and not supported by the evidence. The test for determining the sufficiency of the evidence is whether viewing all of the evidence and the reasonable inferences therefrom in the light most favorable to the verdict winner, the evidence is sufficient to sustain the verdict. Commonwealth v. Stockard, 489 Pa. 209, 413 A.2d 1088 (1980); Commonwealth v. Jones, 291 Pa.Super. 69, 435 A.2d 223 (1981); Commonwealth v. Allen, 287 Pa.Super. 88, 429 A.2d 1113 (1981).
+At trial, the Commonwealth produced four witnesses to the crime. Two of those witnesses positively identified the appellant from the scene of the crime, at subsequent line-ups, and in court. There is no question that the appellant was at the scene and that he participated in the robbery. Such eyewitness identification clearly supports the verdict and is not contrary to law. Accordingly, we find appellant’s final contention to be without merit.
+Judgment of sentence affirmed.
+CAVANAUGH, J., files a dissenting opinion.
+. 18 Pa.C.S.A. § 3701.
+. 18 Pa.C.S.A. § 3925.
+. 18 Pa.C.S.A. § 903.
+. Appellant was also convicted of various crimes in another robbery. On appeal to this court his conviction was affirmed. See Commonwealth v. Caswell, J. 903/82, No. 2255 Philadelphia 1981.
+. We decline to view the facts of the instant case in light of Commonwealth v. Rose, 265 Pa.Super. 159, 401 A.2d 1148 (1979). In Rose, no interrogation took place after the defendant decided to remain silent. Then police confronted him with a ballistics report and other facts which connected him with other crimes. After his Miranda warnings were readministered, he made a statement concerning the crime. We cannot say that the sine qua non of a legitimate confession’s admissibility is that the appellant’s Miranda warnings must be readministered. That is especially so in the instant case in which the intervening time period was so short. See, Commonwealth v. Abrams, 443 Pa. 295, 278 A.2d 902 (1971) (eight hour-old warnings not stale); Commonwealth v. Bennett, 445 Pa. 8, 282 A.2d 276 (1971) (five hour-old warnings not stale); Commonwealth v. Bradley, 449 Pa. 19, 295 A.2d 842 (1972) (55 minute-old warnings not stale); Commonwealth v. Swint, 450 Pa. 54, 296 A.2d 777 (1972) (two hour-old warnings not stale).
+
+## Dissent (CAVANAUGH, Judge,)
+
+CAVANAUGH, Judge,
+dissenting:
+I dissent from that part of the majority’s opinion which holds that the appellant’s incriminating statements to the police were voluntary.
+Appellant contends that the court erred in admitting certain incriminating statements which he made. I agree, and although the evidence apart from the incriminating statements appears to be sufficient to sustain the appellant’s convictions, the erroneous admission of the statements was prejudicial to him. After the appellant was arrested he was read his rights under Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966). At that time he stated that he did not want to talk to the police. Nevertheless the police continued conversation with the appellant and continued to question him. The conversation and interrogation lasted about forty-five minutes. Notwithstanding that appellant told detective Klee of the Scranton Police Department that he did not want to talk to the police the following occurred. Sergeant Klee testified as follows:
+Q. And after you told him why he was arrested, did he make a remark to you?
+A. Yes, sir, he did.
+Q. And what was that remark?
+A. After the reason being explained to him, Mr. Caswell stated that he was a gentleman bandit and he never hurt no one.
+Q. Is that a quote?
+A. Yes, quote, unquote.
+Q. And whether or not Trooper Carlson made any statements to the defendant?
+A. Yes, sir, he did.
+Q. And whether or not the defendant responded?
+A. Yes, he did.
+Q. And what was his response?
+A. The conversation and the statement made by Mr. Caswell was, “I thought that this was a hick town, and that you guys were ten years behind the time. But you guys sure did your homework.”
+Q. And was the defendant asked whether or not he knew he was under surveillance?
+A. Yes, sir, he was.
+Q. And whether or not he responded?
+A. Yes, sir, he did.
+Q. What did he say?
+A. His statement was he first became suspicious that the police were onto him was on April 27th of 1980 when a young boy came to his door—
+Q. Did you ask the question whether he knew he was under surveillance?
+A. Yes, sir.
+Q. And what did he respond?
+A. He stated that he became suspicious on April 27th of this year when a young boy came to the front door of his home at 943 South Main Avenue and advised him that police were across the street watching his home and taking pictures. At this point he indicated to us that he believed he was becoming hot and that he was going to leave town and go to Florida.
+Q. And did he say anything else?
+A. Yes. He indicated to us that he had his bag packed with his clothing and belongings, and that right before he was arrested, he was going to leave town.
+Q. Now, in fact, at the time of his arrest at 943 South Main Street, did you find a bag packed?
+A. Yes sir. On the date of the arrest, April 29th, when Mr. Caswell was taken into custody, he asked me personally if I would go upstairs...
+(Emphasis added).
+Once a criminal defendant tells the police that he does not want to talk to them about the crime, interrogation must cease:
+In [Commonwealth v.] Bullard [465 Pa. 341, 350 A.2d 797 (1976) ] appellant’s desire not to answer police questions was conveyed to the police through certain intermediaries. In the instant case appellant stated his desires directly to the interrogating officer involved, and the fact that he did not have the wherewithal to surrender himself to police in the presence of a judge, or did not have the presence of mind to request the assistance of an attorney at the same time he conveyed his desire not to speak, in no way derogates from his expression of a desire to exercise his constitutional right to remain silent. As stated by the Miranda court,
+“[i]f the individual indicates in any manner, at any time prior to or during questioning, that he wishes to remain silent, the interrogation must cease. (Footnote omitted.) At this point he has shown that he intends to exercise his Fifth Amendment privilege; any statement taken after the person invokes his privilege cannot be other than the product of compulsion, subtle or otherwise.” (Emphasis added.)
+384 U.S. 436, 473-474, 86 S.Ct. 1602, 1627-1628, 16 L.Ed.2d 694, 723 (1966).
+Commonwealth v. Walker, 470 Pa. 534, 542, 368 A.2d 1284, 1288 (1977). (Emphasis added).
+The majority relies on Edwards v. Arizona, 451 U.S. 477, 101 S.Ct. 1880, 68 L.Ed.2d 378 (1981). That case held that when an accused has invoked his right to have counsel present during custodial interrogation, a valid waiver of that right cannot be established by showing only that he responded to further police-initiated custodial interrogation, even if he has been advised of his rights. This case is distinguishable from our own on its facts, and in my opinion lends little support to the majority.
+The facts in the instant case should be read in the light of Commonwealth v. Rose, 265 Pa.Super. 159, 401 A.2d 1148 (1979). In that case the appellant contended that the police violated his rights under Miranda by interrogating him after he initially indicated he wished to remain silent. In Rose no interrogation took place after the appellant decided to remain silent. However, the police then confronted him with a ballistics report and other facts that they had gathered which connected him with other crimes and again read Miranda warnings. The appellant then made a statement concerning the crimes. This court stated at 265 Pa.Super. 168, 401 A.2d 1153: “... [AJfter a second reading of the Miranda warnings ... the appellant voluntarily relinquished his rights and made a statement concerning the crime.” The court also noted at 265 Pa.Super. 168, 401 A.2d 1153:
+The evidence that improper police tactics were used is not convincing. Cf. Commonwealth v. Milton, 461 Pa. 535, 337 A.2d 282 (1975). Informing appellant of additional developments in the case can go toward exculpating as well as inculpating appellant’s involvement in the crime. As long as the Miranda warnings were properly readministered, which they were in this case, no error was committed in allowing into evidence the statements of appellant made after requestioning.
+(Emphasis added)
+In the instant case the police told the appellant why he was arrested and his statement that he was a gentleman bandit and never hurt anyone may be considered as a purely voluntary remark and not in response to interrogation. However, the police were not satisfied and continued with their questions as to whether he knew that he was under surveillance. This interrogation was clearly related to the crimes with which he was charged. Also the testimony was that Trooper Carlson made “statements to the appellant and he responded.” The statements were undoubtedly in the form of questions as the appellant responded to them. If we are to give any serious meaning to the rule of law that interrogation must cease when one indicates during questioning that he wishes to remain silent, we should grant a new trial in this case as the result of the continuation of interrogation after appellant stated that he did not want to talk to the police. In my opinion admission of the testimony was erroneous and for a reviewing court to conclude that an error is harmless it must be convinced beyond a reasonable doubt that the error did not contribute to the verdict. Commonwealth v. Terry, 275 Pa.Super. 184, 418 A.2d 673 (1980). I am not convinced beyond a reasonable doubt that appellant’s statement as to when and why he became aware of police surveillance and that he was getting ready to leave town as things were getting hot, did not contribute to the verdict. Examination of the record leads me to the conclusion that the error was not harmless beyond a reasonable doubt.
+I would reverse the judgment of sentence and remand for a new trial.
+. The majority, in footnote 5, declined to apply Commonwealth v. Rose to the facts of the instant case, as the intervening time between the giving of the warnings and the statements was relatively short. In this respect, the majority misses the point. The issue is not how close in time a statement is made to the warning, but rather, is the statement voluntary. The majority cites Commonwealth v. Bradley, 449 Pa. 19, 295 A.2d 842 (1972) for the proposition that a "55 minute-old warning” is not stale. In Bradley, however, the accused after receiving the warnings did not tell the police officer, as in our case, that he did not want to talk to them. Another case cited by the majority in this respect is Commonwealth v. Bennett, 445 Pa. 8, 282 A.2d 276 (1971) in which the Supreme Court stated expressly that Miranda v. Arizona, supra, did not apply.
