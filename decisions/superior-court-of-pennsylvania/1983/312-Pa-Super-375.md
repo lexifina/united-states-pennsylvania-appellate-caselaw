@@ -1,0 +1,35 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1565"
+decided: "1983-04-15"
+citations: ["312 Pa. Super. 375", "458 A.2d 1007"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before SPAETH, BECK and JOHNSON, JJ.", "JOHNSON, J., concurred in the result."]
+parties: ["COMMONWEALTH of Pennsylvania v. Kenneth CASELLA, Appellant."]
+source_url: "https://static.case.law/pa-super/312/cases/0375-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 213247
+cites_cases: ["273 Pa.Super. 600", "280 Pa.Super. 470", "297 Pa.Super. 405", "421 A.2d 820", "468 Pa. 323", "479 Pa. 528", "482 Pa. 274"]
+---
+
+# Commonwealth v. Casella
+
+## Majority (SPAETH, Judge:)
+
+SPAETH, Judge:
+This is an appeal from judgments of sentence for burglary, criminal trespass, and simple assault. We have concluded that the convictions for burglary and criminal trespass merge, and accordingly we vacate the judgment of sentence for criminal trespass. Otherwise, we affirm.
+The testimony was that appellant secretly entered a woman’s apartment; that when discovered, he refused to identify himself; that he had “a hankie on his face and a pair of gloves and a rope around his neck,” N.T. 11/9/79 at 12; that when the woman began screaming, he came toward her and put his hand over her mouth to stop her screaming; and that eventually he ran off. Id. at 13.
+Appellant argues that criminal trespass is a lesser included offense of burglary, and that therefore the lower court erred in sentencing him on both criminal trespass and burglary. It is settled, however, that criminal trespass is not a lesser included offense of burglary. Commonwealth v. Carter, 482 Pa. 274, 393 A.2d 660 (1978) (unlike burglary, criminal trespass has scienter requirement); Commonwealth v. Cardogan, 297 Pa.Super. 405, 409 n. 2, 443 A.2d 1185, 1187 n. 2 (1982) (“For purposes of indictment, governed by a comparison-of-the-elements test, criminal trespass is not a lesser included offense of burglary, and must be indicted separately____”); Commonwealth v. Crocker, 280 Pa.Super. 470, 421 A.2d 818 (1980) (ibid.).
+Appellant further argues that the “offenses merged and appellant could not be sentenced on both charges [of criminal trespass and burglary].” Brief for Appellant at 8. In effect, appellant’s argument is identical to the one made in Commonwealth v. Crocker, supra, where the “[appellant’s argument [was] that by sentencing him for both burglary and criminal trespass the lower court impermissibly twice sentenced him for the same criminal act.” Id., 280 Pa.Super. at 474, 421 A.2d at 820. In Crocker we noted that
+in merger of sentences cases, we focus not only on the similarity of the elements of the crimes but also, and primarily, on the facts proved at trial, for the question is whether those facts show that in practical effect the defendant committed a single criminal act, in which case there will be merger and only a single sentence may be imposed, or more than a single act, in which case there will be no merger and a sentence may be imposed for each act.
+Id., 280 Pa.Super. at 475, 421 A.2d 820-821 (citations omitted).
+See also Commonwealth v. Cardogan, supra.
+Applying this principle here, we hold that the lower court erred in imposing two sentences, one for burglary and one for criminal trespass, for the evidence is that in practical effect appellant committed but one criminal act, specifically, one unlawful entry. It is clear that the sentence for criminal trespass did not affect the sentence for burglary: each sentence was to five years’ probation, the sentences to run concurrently. Accordingly, we shall not remand but shall merely vacate the sentence imposed for criminal trespass as the lesser crime. Commonwealth v. Crocker, supra; Commonwealth v. Cardogan, supra.
+Appellant also argues that his counsel was ineffective for failing to ask the trial judge, who was sitting without a jury, to recuse himself. The record shows that after pleading not guilty to burglary, appellant pleaded guilty to criminal trespass but then, after a brief discussion with his counsel off the record, changed his plea to not guilty. N.T. 11/9/79 at 7-8.
+“Counsel will not be held ineffective unless no reasonable basis exists for his course of action. It is reasonable for counsel to decline to file motions or enter objections which are without merit.” Commonwealth v. Roach, 479 Pa. 528, 530, 388 A.2d 1056, 1058 (1978) (citations omitted). Before it can be said that a judge should have recused himself, “the party seeking the disqualification [] has the burden of producing evidence tending to show bias, prejudice or unfairness by the judge.” Commonwealth v. McQuaid, 273 Pa.Super. 600, 609, 417 A.2d 1210, 1215 (1980) (citations omitted). The gist of appellant’s argument is that his counsel should have asked the trial judge to recuse himself because, once having heard appellant plead guilty, the judge could not give appellant the benefit of a reasonable doubt. While this argument has some force, we are not persuaded by it that we should find counsel ineffective and therefore .award appellant a new trial. It is not uncommon for a guilty plea to be entered on the basis of a mistaken belief. Here, for example, appellant may have pleaded guilty to criminal trespass because he believed that the fact of his entry into the apartment was by itself sufficient to demonstrate his guilt—a belief that counsel would have corrected, leading to the plea being changed. Of course we don’t know that that is what happened; the record is silent on why appellant changed his plea. We mention this possibility only by way of illustrating the fact that a judge may be relied upon to know—as a jury may not be—that a guilty plea is not an unambiguous event. Even so, if this were only a criminal trespass case, we might remand for a hearing, at which counsel could explain why he didn’t ask the judge to recuse himself. But as our discussion of merger has shown, this is not a criminal trespass case but a burglary case, and as to the charge of burglary, appellant pleaded not guilty. Nothing suggests any basis for recusal as to the burglary charge. We should enter an anomalous order indeed, were we to vacate the judgment of sentence for criminal trespass (as to which charge perhaps the judge should have recused himself), while awarding a new trial on the burglary charge (as to which no basis for recusal appears).
+Appellant finally argues that the evidence was insufficient to sustain his convictions of burglary and simple assault. We think this argument requires no discussion.
+Affirmed, except the judgment of sentence for criminal trespass is vacated.
+JOHNSON, J., concurred in the result.
+. Appellant did not argue merger below. Despite that failure, however, the argument is not waived. See Commonwealth v. Walker, 468 Pa. 323, 362 A.2d 227 (1976); Commonwealth v. Crocker, 280 Pa.Super. 470, 421 A.2d 818 (1980).
