@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 16"
+decided: "1936-04-16"
+citations: ["121 Pa. Super. 509"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Parker, James and Rhodes, JJ."]
+parties: ["Calvey Motor Company v. Coyer, Appellant."]
+source_url: "https://static.case.law/pa-super/121/cases/0509-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 988346
+cites_cases: ["114 Pa. Superior Ct. 569", "119 A. 482", "121 Pa. Superior Ct. 504", "135 A. 127", "141 A. 623", "165 A. 1", "165 A. 232", "174 A. 636", "174 Pa. 73", "184 A. 279", "245 Pa. 47", "246 Pa. 65", "275 Pa. 401", "287 Pa. 370", "293 Pa. 9", "310 Pa. 238", "310 Pa. 570", "34 A. 546", "84 Pa. Superior Ct. 80", "91 A. 525", "92 A. 63"]
+---
+
+# Calvey Motor Co. v. Coyer
+
+## Majority (Rhodes, J.,)
+
+Opinion by
+Rhodes, J.,
+This case and the case of Calvey v. Coyer, 121 Pa. Superior Ct. 504, 184 A. 279, were tried together. In this case the plaintiff company, an auto sales agency, brought an action of assumpsit against the defendant, who was formerly president of the plaintiff company and one of its principal stockholders, to recover for certain merchandise alleged to have been sold to the defendant, and for certain services alleged to have been rendered to him individually. The jury before which the case was tried returned a verdict for the full amount of the plaintiff’s claim. Defendant’s motion for a new trial was refused. Defendant appeals from the judgment entered on the verdict.
+Appellant first contends that the court below should have granted a new trial, because the verdict was against the weight of the evidence. We have carefully read and examined the evidence, • which, although conflicting, is sufficient to support the jury’s verdict. Plaintiff produced testimony that the appellant, while president of plaintiff company, ordered through it from the Supplee Biddle Hardware Co. $194.79 worth of table silverware, and authorized that the same be charged to him on the books of the plaintiff company; that the plaintiff serviced the appellant’s car to the extent of a charge of $7.65, on February 8, 1927, which service was rendered after the appellant had ceased to be active as president of the plaintiff company, although he did not formally resign until February 5,1927; that certain other services were rendered and articles sold by the plaintiff to the appellant, the evidence as to these services rendered and articles sold being conceded by the appellant to be sufficient to sustain the verdict as to such items.
+The refusal of appellant’s motion for a new trial, which was made on the ground that the verdict was against the weight of the evidence, is a matter largely within the trial court’s discretion; and we will not reverse the trial court’s action unless an abuse of that discretion clearly appears. Pfeffer et al. v. Johnstown, 287 Pa. 370, 375, 135 A. 127, 129; Hardy v. Millers Mutual Fire Ins. Ass’n, 293 Pa. 9, 141 A. 623; Jones v. Quaker City Cab Co., 84 Pa. Superior Ct. 80. The testimony was properly submitted to the jury, and it was for the jury to pass upon its value. See Trainer v. Fort, 310 Pa. 570, 577, 165 A. 232, 235. We find no abuse of discretion by tbe lower court in refusing appellant’s motion for a new trial.
+Appellant’s first and second assignments of error are to the charge of tbe court. Tbe first assignment is to tbe entire charge. Tbe second assignment is to that portion of tbe charge where tbe court below referred to tbe duty of tbe plaintiff to prove bis case by a preponderance of tbe evidence. Appellant complains that tbe charge was inadequate and misleading, because of tbe Use by tbe trial judge of tbe expression “fifty-fifty,” when be said in his charge: “In other words, if tbe case is fifty-fifty and tbe weight of tbe evidence is equal on both sides you do not take money away from one man and give it to another when bis case is no stronger than be who says that tbe money shall not be taken away — if tbe case is fifty-fifty — if tbe weight of tbe evidence is fifty-fifty, your verdict must be for tbe Defendant.” Tbe trial judge, in tbe charge, plainly instructed tbe jury that it was tbe duty of tbe plaintiff to prove bis case by tbe fair weight or preponderance of tbe testimony. Appellant’s criticism is not well founded. We feel that the issue was fairly submitted to tbe jury, and that tbe charge of tbe court contains no basic or fundamental error. As held in tbe case of Casey v. Siciliano, 310 Pa. 238, 241, 165 A. 1, 2: “Tbe charge must be considered as a whole, and, if when so considered tbe issues are fairly put up to the jury, tbe judgment will not be reversed, even though isolated portions of tbe charge may be tbe subject of criticism: Garver v. Lightner, 275 Pa. 401 [119 A. 482]; Price v. Hamscher, 174 Pa. 73, 78 [34 A. 546, 547].”
+Tbe trial judge, at tbe conclusion of bis charge, asked counsel if be bad misstated tbe evidence in any way, or if there was anything on which be bad neglected to charge. Counsel made no request for additional instructions, and took no exception to any particular part of tbe charge. Although a general exception to tbe charge of tbe court was taken by tbe appellant, we find therein no such error as requires the granting of a new trial, nor has any been assigned. See Mastel v. Walker, 246 Pa. 65, 92 A. 63; Fortney v. Breon, 245 Pa. 47, 91 A. 525; Klein et ux. v. Weissberg, 114 Pa. Superior Ct. 569, 174 A. 636.
+Assignments of error are overruled, and judgment of the court below is affirmed.
