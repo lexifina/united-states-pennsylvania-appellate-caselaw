@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 95 C.D. 1988"
+decided: "1988-10-24"
+citations: ["120 Pa. Commw. 554", "549 A.2d 256"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judge MacPhail did not participate in the decision in this case."]
+parties: ["Commonwealth of Pennsylvania, Pennsylvania Liquor Control Board, Appellant v. McKeesport Beer Distributor, Inc., Appellee."]
+source_url: "https://static.case.law/pa-commw/120/cases/0554-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1378471
+cites_cases: ["119 Pa. Commonwealth Ct. 555", "447 A.2d 725", "519 Pa. 103", "67 Pa. Commonwealth Ct. 487", "99 Pa. Commonwealth Ct. 73"]
+---
+
+# Commonwealth, Pennsylvania Liquor Control Board v. McKeesport Beer Distributor, Inc.
+
+## Majority (Judge McGinley,)
+
+Opinion by
+Judge McGinley,
+The Pennsylvania Liquor Control Board (Board) appeals an order of the Court of Common Pleas of Allegheny County (trial court) reversing the order of the Board which imposed a $250 fine on McKeesport Beer Distributor, Inc. (McKeesport) for its alleged violation of Section 431(b) of the Liquor Code (Code), 47 Pa. C. S. §4-431(b).
+Louis Acito, a Board Enforcement Officer, testified that when he reviewed McKeesport’s records on February 12, 1986, he discovered that McKeesport received a letter from All Brand Importers, Inc., dated November 10, 1982, which delineated the terrritories assigned to it. (Notes of Testimony, December 8, 1986, (N.T.) at 4.) McKeesport was responsible for Westmoreland, Greene, Washington, and Fayette Counties and a portion of Allegheny County which bordered on the north by Route 130 from the Westmoreland County line west to Braddock Avenue, on the west by Braddock Avenue south to Turtle Creek. McKeesport’s territory excludes Monroe-ville, but McKeesport’s records indicated to the Board Officer that sales were made to Richard Siegal, trading as Malt Beverage Store, and GTRT Inc. t/a Beer Lottery Store, licensees both located in Monroeville. Forty-seven cases were sold to Siegal on a series of dates (totally sixteen) from August through December, 1985. McKeesport was only permitted to sell certain brands of beer to GTRT and Siegal pursuant to the territorial agreement. McKeesport sold brands of Dos Equis, Foster’s Lager, Moosehead and Pilsner Urquell to GTRT and Siegal in violation of the territorial agreement and the Board imposed a $250 fine upon McKeesport. On appeal the trial court reversed the Board’s decision which the Board now appeals.
+Our scope of review in a liquor code violation appeal hearing has been recently changed by our Supreme Court in Adair v. Pennsylvania Liquor Control Board, 519 Pa. 103, 546 A.2d 19 (1988). The roles of the Board, the trial court and the appellate court have been modified. The trial court is to conduct a de novo review and make its own findings and conclusions and our scope of review is to determine whether the trial court has committed an error of law or an abuse of discretion and to determine whether the trial court’s findings are supported by substantial evidence. Adair. Using our former scope of review, the Board argues that the trial court committed an error of law and abused its discretion when it reversed the decision of the Board.
+The trial court found that the question presented was “whether the inadvertent delivery of a very small quantity of beer outside the designated geographic area specified for that particular brand where the. geographic assigned areas to the distributor for various brands do not coincide, constitutes a violation.” The trial court concluded that the employee of McKeesport who took the order for a number of different brands of beer was unaware that those in question were not available for sale in the specific geographical area of the purchaser. It sustained McKeesport’s appeal stating that “this unintentional minor misdelivery was not such that the act sought to punish, and therefore the appeal will be sustained.” (Opinion and Order of Court Sustaining Appeal of McKeesport Beer Distributor, Inc., December 7, 1987, at 2.)
+The Board argues that because the Board and Mc-Keesport provided no additional testimony at the de novo hearing the trial court abused its discretion in finding that the violation was dé minimis and there was no intent on the part of McKeesport to violate the Code under Pennsylvania Liquor Control Board v. Palumbo, 99 Pa. Commonwealth Ct. 73, 512 A.2d 108 (1986). In Palumbo, this Court stated that:
+[wjhile in a de novo hearing the Court of Common Pleas may make its own findings of fact and conclusions of law and then, in the exercise of its own discretion, either sustain, reverse, or modify the action of the Board, . . . this can only be done when new evidence is presented or a clear abuse of discretion exists.
+Id. at 76, 512 A.2d at 110. As stated herein, Adair has changed the role of the trial court on an appeal from the Board. However, Adair, has no effect on this Courts duty to review a conclusion of law made by the trial court and to reverse when an error is discovered. Pennsylva nia Liquor Control Board v. The Boardwalk, Inc., 119 Pa. Commonwealth Ct. 555, 547 A.2d 1271 (1988).
+The language of Section 431(b) of the Code does not require that intent be demonstrated in order to establish a violation of the section. In addition, our Court in Allegheny Beverage Company, Inc. v. Pennsylvania Liquor Control Board, 67 Pa. Commonwealth Ct. 487, 447 A.2d 725 (1982) held that intent to violate the Code is not a necessary element to establish a violation of the Code. The trial court committed an error of law when it held that lack of intent to violate the Code constituted a defense to a violation of Section 431(b) of the Code. McKeesport has committed a series of violations of Section 431(b) for which it must be held accountable. Accordingly, the order of the trial court is reversed and the fine imposed by the Board reinstated.
+Order
+And Now, this 24th day of October, 1988, the Order of the Court of Common Pleas of Allegheny County, dated December 7, 1987, at No. S. A. 849 of 1987, is hereby reversed and the fine imposed by the Pennsylvania Liquor Control Board reinstated.
+Judge MacPhail did not participate in the decision in this case.
+Act of April 12, 1951, P.L. 90, as amended. Section 431(b) of the Code provides in pertinent part:
+. . . Each out of State manufacturer of malt or brewed beverages whose products are sold and delivered in this Commonwealth shall give distributing rights for such products in' designated geographical areas to specific importing distributors, and such importing distributor shall not sell or deliver malt or brewed beverages manufactured by the out of State manufacturer to any person issued a license under the provisions of this act whose licensed premises are not located within the geographical area for which he has been given distributing rights by such manufacturer. . . .
