@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 120"
+decided: "1922-07-13"
+citations: ["79 Pa. Super. 81"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Trexler, Keller and Linn, JJ."]
+parties: ["Commonwealth v. Zeitler, Appellant."]
+source_url: "https://static.case.law/pa-super/79/cases/0081-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 651766
+cites_cases: ["107 Pa. 276", "162 Pa. 646", "23 Pa. Superior Ct. 104", "89 Pa. 480", "97 Pa. 503"]
+---
+
+# Commonwealth v. Zeitler
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+The fourth paragraph of section 23 of the Act of June 30,1919, P. L. 675, imposes a positive duty upon any operator of a motor vehicle who shall have injured the person or property of any other user,of the highway to “stop, and render such assistance as may be necessary, and shall, upon request, give his name and address to the injured party or his proper representative”; and the closing paragraph of the same section provides that a violation of that duty shall be deemed a misdemeanor, and provides for the punishment of the same. The indictment, upon which the appellant was convicted, charged that he had “operated a motor vehicle upon a public highway and did unlawfully injure the person and property of another person (named), then and there a user of said highway, and that the said defendant did then and there unlawfully fail and neglect to stop the said motor vehicle which he, the defendant, was then and there operating and did then and there unlawfully fail to render such assistance as was necessary, and did then and there unlawfully fail and neglect to give his name and address to the injured party.” The defendant moved to quash the indictment, upon the ground that it charged three separate and distinct offenses in one count, and the action of the court in overruling such motion is the subject of the first assignment of error. The operator of a motor vehicle, who knows that he has injured the person or property of another user of the highway, must perform the whole duty imposed by the statute. If he fails to promptly stop, he is guilty of an offense; if he does stop and then immediately drives on without making any attempt to render the assistance which he must have seen was necessary, he is still guilty of an offense; and if he stops and renders assistance, but refuses, upon request, to give his name and address this, also, constitutes an offense. But if, knowing that he has injured persons or property, he merely drives on, making no attempt to render assistance or give his name and address, the whole transaction involves only one offense, and evidence of it would authorize the imposition of but a single penalty. When a statute makes two or more distinct acts connected with the same transaction indictable, each one of which may be considered as representing a phase in the same offense, they may be coupled in one count, and under the rules of criminal pleading and the established practice of our criminal courts, it is competent for the jury, under this form of indictment, to find the defendant guilty of one or more of such distinct acts, as the proofs may warrant: Com. v. Rogers, 1 S. & R. 124; Fulmer v. Com., 97 Pa. 503; Com. v. Miller, 107 Pa. 276; Com. v. Mentzer, 162 Pa. 646; Com. v. Hall, 23 Pa. Superior Ct. 104. This indictment sufficiently charged that the defendant did unlawfully fail and neglect to stop the said motor vehicle, and did fail and neglect to render such assistance as was necessary, and the court did not err in overruling the motion to quash.
+The defendant was permitted, at the trial, to introduce evidence tending to establish that he had driven around the block and returned to the scene of the accident after the injured man had been taken away to the hospital, and that he then went to the hospital to inquire about the injured man, but was told that he could not see him, but he admitted that this was after two persons had hailed him and called his attention to the fact that a man had been injured. The court did not err in rejecting evidence as to subsequent visits to the hospital made by the defendant, as such evidence would throw no light upon what occurred at the time of the collision of the vehicles upon the public highway. The second specification of error is dismissed. The evidence was clearly sufficient, if believed by the jury, to warrant a verdict of guilty and we are not convinced that the learned judge of the court below was guilty of an abuse of discretion in refusing to grant a new trial.
+The judgment is affirmed and it is ordered that the defendant appear in the court below at such time as he may be there called and that he be committed until he has complied with the sentence or any part of it which had not been performed at the time the appeal in this case was made a supersedeas.
