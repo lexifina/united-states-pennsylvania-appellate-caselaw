@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 7"
+decided: "1944-07-15"
+citations: ["155 Pa. Super. 301"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Baldrige, Hirt, Kenworthey, Reno and James, JJ. (Rhodes, J., absent)."]
+parties: ["Collier v. Kaufmann & Baer Co. et al., Appellants."]
+source_url: "https://static.case.law/pa-super/155/cases/0301-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1056992
+cites_cases: ["105 Pa. Superior Ct. 488", "161 A. 887", "172 A. 293", "315 Pa. 97"]
+---
+
+# Collier v. Kaufmann & Baer Co.
+
+## Majority (Kenworthey, J.,)
+
+Opinion by
+Kenworthey, J.,
+The question raised by the employer’s appeal is whether there is competent evidence to sustain the referee’s fifth finding of fact, which was affirmed by the board and the common pleas, “that the girl’s average weekly wage was $20.00.”
+The formulae for determining the “average weekly wages of the employe” are contained in Sec. 309. It is obvious to anyone who reads the section that the legislature has exerted its utmost to devise those formulae which in each case will, as nearly as possible, determine the actual as distinguished from the theoretical earnings of the employee. With this ultimate purpose in mind it is the duty of the compensation authorities as well as ours to apply the law to the facts. And the interpretation of the law must be a reasonable one. Stat. Const. Act of May 28, 1937, P. L. 1019 art. IY §52, 46 PS 552.
+Sub-section (a) provides: “If at the time of the accident the wages are fixed by the week, the amount so fixed shall be the average weekly wage.”
+Sub-section (d) provides: “If at the time of the accident the wages are fixed by the day, hour, or by the output of the employe, the average weekly wage shall be the wage most favorable to the employe, computed by dividing by 13 the total wages of said employe earned in the employ of the employer in the first, second, third or fourth period of 13 consecutive calendar weeks in the fifty-two weeks immediately preceding the accident; 99
+The question boils down to whether claimant comes under Sub-section (a) or Sub-section (d).
+Claimant was employed on March 18, 1939, as an extra sales girl in the ladies’ shoe department. The accident happened May 10, 1941. ( She testified, “I was hired at $20.00 a week,” based on “40 hours a week.” According to the evidence offered by the employer, which was partly oral and partly records, she was employed by the hour at 50<i per hour, which would amount to '$20 per forty-hour week. ■ According to the employer’s records, which she made no effort to contradict, claimant, during the year immediately preceding the accident, was paid for the first quarter $4, for the second, $39.65, for the third, $57.60 and for the fourth, $72:50. Except on the rare occasions during the period of her employment when she worked a whole week claimant was actually paid by the day at the end of each day.
+Prior to the Act of 1939 the weekly wages were computed on the assumption, arbitrarily made by legislative mandate, that before the accident the employee worked five and a half days per week even though he was not employed by the week or paid by the week and even though he, in fact, worked but one or two days per week. See Romig v. Champion Blower & Forge Co., 315 Pa. 97, 172 A. 293; and O’Donnell v. S. Fayette Twp., 105 Pa. Superior Ct. 488, 161 A. 887. The effect wás to make of the law a combination Workmen’s Compensation and Unemployment Compensation Act. The principal objection to this was that only the disabled got the benefit of the unemployment compensation feature;; he was frequently paid more during his idleness than his fellow-workmen received for performing whatever work was available at times when available work was restricted by economic conditions.
+It was to correct the injustice it was felt resulted from this scheme .that the legislature amended the law in 1939. And in order to carry out the purpose of the amendment we must hold that in order to establish that her -wages were “fixed by the week” claimant had the burden of showing that she was employed by the week; when sub-sections (a) and (d) aré considered together, any other construction of them would be wholly. unreasonable. If during the fourth quarter, which we take because it is the most favorable to claimant, her employment had. been evenly distributed. throughout the 13 weeks her average earnings were $5.58. This would indicate that she worked less than 12 hours per week or an average of about 1% days per week. It is not contended that she earned wages from other concurrent employment which should be included in the determination of compensation under sub-section (e). It is plain to us that, on the record before us, claimant’s average weekly wage is to be determined under sub-section (d). And on the basis of the provision in 306(a) [77 PS 511], which provides full wages as compensation when the wages are less than nine dollars, she would be entitled to $5.58.
+But claimant’s complete employment record, at least for the year immediately before the accident, should have been introduced into evidénce. Claimant testified that she worked the entire week immediately preceding the accident. The employment records may or may not bear this out. During the quarter immediately preceding the accident, she worked a total of approximately 18 days, or three full weeks of six days each. It is conceivable — although we confess it is quite unlikely— she worked the three full weeks immediately preceding the accident. If that were the fact it would be some evidence that her employment had changed to . a weekly basis. The mere fact that she worked a full week immediately before the accident, without other evidence of the change in the nature of her employment, would not, in our opinion, be enough. But the record in its present state suggests a doubt, to resolve which we shall return it to the board.
+Judgment is reversed and the record remitted to the Workmen’s Compensation Board for further proceedings in accordance with this opinion.
+Act of June 21, 1939, P. L. 520 §1, 11 PS 582.
+The Act of 1939 made a substantial change in the prior laws. In them it was provided: “In continuous employments [us distinguished from seasonal employments] if immediately prior to the accident the rate of wages was fixed by the day or hour, hr by the output of the employe, his weekly wages shall be taken to be five and one-half times his average earnings at such rate for a working day......” Act of June 2, 1915, P. L. 736, art. Ill §309, as amended by the Acts of June 26, 1919, P. L. 642 13, and June 4, 1937, P. L. 1552 81, 77 PS 582.
