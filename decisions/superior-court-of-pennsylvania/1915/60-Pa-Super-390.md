@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 25"
+decided: "1915-07-21"
+citations: ["60 Pa. Super. 390"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Orlady, Head, Kephart and Trexler, JJ."]
+parties: ["Cooper, Appellant, v. Cooper."]
+source_url: "https://static.case.law/pa-super/60/cases/0390-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 451678
+cites_cases: ["102 Pa. 549", "111 Pa. 562", "13 Pa. Superior Ct. 363", "143 Pa. 24", "172 Pa. 44", "182 Pa. 634", "189 Pa. 415", "189 Pa. 460", "193 Pa. 312", "195 Pa. 589", "195 Pa. 590", "215 Pa. 410", "47 Pa. Superior Ct. 647", "53 Pa. Superior Ct. 311", "55 Pa. Superior Ct. 636", "57 Pa. 397", "59 Pa. 59", "62 Pa. 308", "65 Pa. 9"]
+---
+
+# Cooper v. Cooper
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+Henry Cooper held a note against his son, William V. Cooper, for $1,000, dated April 1, 1908. Payments of interest were endorsed on the note, the last being April 1, 1911, $40.00. William V. Cooper, the maker of the note, is dead and the payee has brought suit against his executrix. At the trial she offered in evidence, a receipt, as follows, “April 1, 1911. Received from W. V. Cooper, two hundred and twenty dollars, $220, in full (signed) Henry Cooper.” “At the trial, on the part of the plaintiff, it was claimed that the father, Henry Cooper, was making his home with his son, W. Y. Cooper, at the time of the latter’s death. That some of his (Henry Cooper’s) private papers were kept for some considerable time prior to and np to the time of the son’s death in the latter’s safe. That the note in suit together with some other papers or notes belonging to Henry Cooper were found in a separate envelope in the son’s sale marked across the one end or on the back thereof “Henry Cooper notes” or “Henry Cooper’s notes.” The above is quoted from the opinion of the lower court entering judgment for the defendant n. o. v. The reason that moved the court so to do was that the receipt was prima facie a settlement between the parties and that this prima facies was not overcome by any sufficient testimony in the case, citing: MacDonald v. Piper, 193 Pa. 312. There is no doubt that a receipt in full is prima facie evidence of settlement and requires some proof to be adduced by -the party giving it to overcome the presumption. In MacDonald v. Piper, supra, it is said, “It should only be set aside for weighty reason.” In this case we think there was enough to carry the matter to the jury. The receipt is not specific. It is not in full for all demands, but the words merely “in full” are used without particular reference to any subject. It certainly requires less evidence to overcome the presumption of settlement arising from such a receipt than in a case where the receipt is in full of all demands. In the case of Insurance v. Canan, 195 Pa. 590, the check was marked “in full claims against J. A. Canan.” The opinion of the lower court adopted in a per curiam by the Supreme Court, states that “such a receipt would not come in the same category as solemn receipts in deeds or receipts given as in full of all accounts after, a settlement betweén the parties, and the doctrine of Rhoad’s Est., 189 Pa. 460, as to the degree of proof necessary to overcome its force, would not, I think, be applicable.” The cases of Rhoad’s Est., 189 Pa. 460; MacDonald v. Piper, 193 Pa. 312; Harris v. Hay, 111 Pa. 562; Benseman v. Prudential Ins. Co., 13 Pa. Superior Ct. 363; Crawford v. Forest Oil Co., 189 Pa. 415; Hamsher v. Kline, 57 Pa. 397, were all cases where the words in the receipt were to the effect that it was in full of all demands or claims or there was specific reference in the receipt to some particular claim.
+On the very day the receipt was given, there appears an endorsement of interest paid, $40.00. It might be argued that such an endorsement of interest is inconsistent with the payment of the note. Why endorse interest when the entire amount is liquidated and a receipt given therefor? Furthermore, the amount of the receipt has no relation to the amount of the debt that it is claimed was paid. The amount endorsed as interest indicated that the entire principal of the note was still due and owing. There was some reference also mafie at the trial to other indebtedness existing between the maker and the payee, in addition to this. The possession of the note by the payee was evidence of nonpayment. All these circumstances taken together were sufficient to take the case to the jury. It was for them to determine whether the prima facies arising from the giving of the receipt in full was thus overcome. We think the court was right in the first instance in submitting these matters to a jury and erred in entering judgment for the defendant n. o. v.
+The assignments of error are sustained, the judgment entered in favor of the defendant reversed and judgment is now directed to be entered in favor of the plaintiff for the amount of the verdict with interest from the date of its rendition.
