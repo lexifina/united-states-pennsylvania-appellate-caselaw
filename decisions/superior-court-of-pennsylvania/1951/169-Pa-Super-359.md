@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 46"
+decided: "1951-07-19"
+citations: ["169 Pa. Super. 359"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, Ross, Arnold and Gunther, JJ."]
+parties: ["Seiler Estate."]
+source_url: "https://static.case.law/pa-super/169/cases/0359-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 473041
+cites_cases: ["11 A. 2d 499", "113 A. 361", "139 Pa. Superior Ct. 282", "154 Pa. Superior Ct. 437", "160 Pa. Superior Ct. 631", "270 Pa. 288", "36 A. 2d 193", "361 Pa. 340", "363 Pa. 42", "53 A. 2d 909", "64 A. 2d 821", "68 A. 2d 734", "83 Pa. Superior Ct. 31"]
+---
+
+# Seiler Estate
+
+## Majority (Ross, J.,)
+
+Opinion by
+Ross, J.,
+George A. Seiler, alias dictus G. A. Seiler, a resident of Unity Township, Westmoreland County, died intestate on July 11, 1949. Letters of administration were duly issued to George L. Seiler who, on August 15, 1950, filed his final account. At the audit of the account in the Orphans’ Court of Westmoreland County, Katherine M. Weis presented a claim for $2250 for nursing services rendered for decedent over a period of 45 weeks, from September 1, 1948 to July 11, 1949. The court below allowed the claim and dismissed exceptions to the allowance filed by Edward G. Seiler, heir at law of decedent, and he took this appeal.
+The claimant and the decedent lived on neighboring farms. They were not related. The decedent’s last illness began in September of 1948 and its nature made his care not only a difficult task, but a most unpleasant one. Claimant proved that she performed this task throughout the period for which she seeks compensation by the testimony of Frank Weis, her brother, Dr. J. F. Lechman, decedent’s physician, and Dr. B. F. Ober, a friend of the decedent. The doctors were agreed that the value of the services performed by the claimant for the decedent was $50 a week.
+In seeking a reversal of the decree of the court below, the appellant relies solely on the presumption of periodic payments and contends that not sufficient evidence was presented to rebut the presumption. That the presumption of periodic payment applies to nursing services is beyond dispute (Gilbraith’s Estate, 270 Pa. 288, 113 A. 361; Braden Estate, 363 Pa. 42, 68 A. 2d 734; Bemis et ux. v. Van Pelt, Exr., 139 Pa. Superior Ct. 282, 11 A. 2d 499); and, while the presumption is rebuttable (Snively Estate, 154 Pa. Superior Ct. 437, 36 A. 2d 193), it cannot be overcome by “vague and uncertain testimony concerning loose declarations of a decedent of an intention to generously reward those about him” (Braden Estate, supra; Collins’s Estate, 83 Pa. Superior Ct. 31).
+It is true that claims which could have been made against a decedent during his lifetime are viewed with the greatest suspicion when not presented until after his death (Monson Estate, 160 Pa. Superior Ct. 631, 53 A. 2d 909, and cases cited therein) for otherwise “no decedent’s estate would be safe from spoilation” (Braden Estate, supra). We must not, however, blindly pursue this policy to the detriment of persons who have faithfully served a decedent in his hour of greatest need. To view such claims with suspicion is just and expedient; to impose an impossible burden upon the claimant is unconscionable. To require direct evidence to rebut the presumption of periodic payment is a reasonable precautionary requirement for the protection of a decedent’s estate from the raids of unscrupulous persons; yet this requirement must be tempered with recognition of the difficulty of proving a negative.
+In the present case, the claimant relies not on “vague and uncertain testimony concerning loose declarations of a decedent of an intention to generously reward” her, but rather on the positive statement of a witness, found credible by the court below, that she “never got a red cent” in payment from the decedent. This testimony was given by claimant’s brother, Frank Weis, with whom she resided. The basis of this statement was the practice of the witness and his sister to pool whatever moneys they received and keep an account of it, and the fact that no payments by the decedent to the claimant came to his attention in this manner. The appellant does not deny, nor is there evidence indicating, that the claimant and the witness did not keep all their accounts together. This being so, it is perfectly reasonable to infer that if the decedent had made periodic payments to the claimant, the witness would have been aware of that fact.
+Additional' evidence to rebut the presumption of periodic payments in this case is that the claimant at the time of decedent’s death and for many years prior thereto was indebted to him on a mortgage bond in a sum greatly in excess of the amount of the claim presented here. Thus a debtor was performing services for her creditor. This certainly is a factor to be considered in determining whether periodic payments were made by the creditor to the debtor. As stated by the learned court below, “. . . there would be no payments made . . . under ordinary circumstances in this case because the claimant was indebted to the decedent as a co-obligor on a mortgage and judgments thereon in the sum of $16,942.62 ..
+Where one person renders personal services to another and there appears no known relation between them that accounts for the services, the law presumes a contract of hiring, and evidence of the value of such services rendered and accepted is sufficient if it affords a basis for estimating with reasonable certainty what the claimant is entitled to. Lach v. Fleth, Admr., 361 Pa. 340, 64 A. 2d 821. The present claimant proved that the services were rendered, that they were accepted by the decedent, and the value of the services so rendered, and when she produced competent evidence which was sufficient to rebut the presumption of payment, her claim was properly allowed.
+Decree affirmed at cost of the appellant.
