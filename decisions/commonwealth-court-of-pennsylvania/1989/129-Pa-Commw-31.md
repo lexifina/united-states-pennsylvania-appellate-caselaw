@@ -1,0 +1,54 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "314 C.D. 1989"
+decided: "1989-10-06"
+citations: ["129 Pa. Commw. 31", "564 A.2d 561"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CRAIG and DOYLE, JJ., and NARICK, Senior Judge."]
+parties: ["K.S., Petitioner, v. COMMONWEALTH of Pennsylvania, DEPARTMENT OF PUBLIC WELFARE, Respondent."]
+source_url: "https://static.case.law/pa-commw/129/cases/0031-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1395469
+cites_cases: ["104 Pa. Commonwealth Ct. 84", "55 Pa. Code § 3490.4"]
+---
+
+# K.S. v. Commonwealth
+
+## Majority (CRAIG, Judge.)
+
+CRAIG, Judge.
+K.S. appeals an order of the Office of Hearings and Appeals of the Department of Public Welfare (DPW), rejecting a Hearing Officer’s recommendation and denying K.S.’ request for expungement of an indicated report of child abuse maintained under the Child Protective Services Law implicating K.S., mother of J.S. We affirm.
+On September 30, 1981, Northampton County Children and Youth Services (CYS) received a report of suspected child abuse of four-month old J.S. The report indicated that J.S. had sustained a laceration under the tongue and a periosteal elevation of his tibia.
+CYS caseworker David Hankard investigated the matter by going to the Allentown Hospital to interview medical personnel, observe J.S., photograph the injuries, and interview the parents of J.S. In addition to the reported injuries, Hankard observed a bump on the back of the child’s head as well as lesions on the child’s hands and feet.
+The medical personnel informed Hankard that the injuries aroused their suspicions of abuse. K.S. stated that she believed that the laceration may have been caused by the child cutting himself with his fingernail. H.S., the father of J.S., told Hankard that the laceration was a result of the child’s spitting out a spoon, and that the lesions had been a condition since birth. Neither parent could explain how the child suffered fractures of the lower leg bones.
+Upon completion of his investigation, coupled with the fact that K.S. and H.S. (since divorced) were the child’s primary caretakers, Hankard filed an abuse and dependency petition. CYS later withdrew the abuse portion of the petition, in order to avoid an extended hearing, when the parents agreed to a Dependency Order placing J.S. in foster care for six months. Additionally, pursuant to section 14 of the Law, 11 P.S. § 2214, Hankard filed a report indicating that K.S. and H.S. are perpetrators of child abuse.
+The situation remained undisturbed until August, 1987, when K.S. applied for employment in the child care services field. At that time, she learned of her inclusion in DPW’s Statewide Central Register as a perpetrator of child abuse. K.S. requested expungement of the indicated report of child abuse, but DPW denied the request on October 27, 1987. On November 18, 1987, K.S. requested a hearing before DPW’s Office of Hearings and Appeals.
+On January 30, 1988, Hankard and Dr. Edward Hartle (J.S.’ treating physician at the hospital) testified before a hearing officer on behalf of CYS. Dr. Hartle stated that J. S. had a bleeding one-half-inch laceration under his tongue, mild anemia, two fractured tibias, skin lesions, and black and blue markings on both feet. Dr. Hartle concluded that external trauma caused all of the injuries.
+K.S., testifying on her own behalf, did not dispute that she was the primary caretaker, that Dr. Hartle accurately described her son’s condition, and that J.S. had been abused. Additionally, K.S. stated that the child’s tongue bled for two days before the parents took him to the hospital. However, K. S. maintained that she did not abuse the child, and stated that H.S., both grandmothers, and her brother-in-law and his girlfriend watched J.S. for various periods of time. K.S. offered no explanation for J.S.’ injuries, but did testify that the condition of the child’s hands and feet improved while he was under foster care.
+On January 4, 1989, the hearing officer, concluded that “although it is absolutely clear that the child was abused in a most serious fashion, there is no substantial evidence to indicate that this appellant either committed the abuse or caused the abuse to occur by omissions on her part,” and recommended that K.S.’ appeal be sustained and that DPW and CYS expunge from their records any indication that K.S. is the perpetrator of child abuse.
+On January 23, 1989, the director of the Office of Hearings and Appeals rejected the recommendation and concluded that
+the appellant admittedly was the primary caretaker of the child (Findings of Fact No. 50). Therefore, the appellant’s allegation that the injuries may have been caused by other persons who occasionally watched the child is incredible in light of the extensive, unexplained injuries to the child. There is substantial evidence that the injuries to the child were not accidental and were caused by either the acts or omissions of the appellant.
+K.S. now appeals to this court contending (1) that substantial evidence does not support a conclusion that K.S. is the perpetrator of child abuse; (2) that the indicated report is not being kept pursuant to DPW regulations; and (3) that she is being unconstitutionally deprived of her property right of child care service employment without due process of law.
+In expungement cases, our scope of review is limited to a determination of whether the adjudication of the Office of Hearings and Appeals violates constitutional rights, is in accordance with the law, or whether the findings of fact are supported by substantial evidence. Section 704 of the Administrative Agency Law, 2 Pa.C.S. § 704. Additionally, the Secretary of the Department of Public Welfare or his designee, the Office of Hearings and Appeals, is the final factfinder and may reject the recommendation of an appointed hearing officer. G.S. v. Pennsylvania Department of Public Welfare, 104 Pa. Commonwealth Ct. 84, 521 A.2d 87 (1987).
+Section 3 of the Law, 11 P.S. § 2203, defines child abuse as:
+[Sjerious physical or mental injury which is not explained by the available medical history as being accidental, or sexual abuse or sexual exploitation, or serious physical neglect, of a child under eighteen years of age, if the injury, abuse or neglect has been caused by the acts or omissions of the child’s parents or by a person responsible for the child’s welfare. (Emphasis added.)
+There is no dispute that the injuries sustained by J.S. qualify as child abuse.
+1.
+The first issue is whether substantial evidence supports DPW’s decision to file an indicated report listing K.S. as the perpetrator of child abuse. K.S. contends that insufficient evidence exists because of the absence of a judicial determination that she abused J.S. and because five other people spent time watching the child.
+CYS must file an indicated report if it determines that, based on either available medical evidence, the CYS investigation, or an admission of the acts of abuse by the perpetrator, substantial evidence of abuse exists. 55 Pa. Code § 3490.4. “Perpetrator” is defined as “[a] parent of a child, person responsible for the welfare of a child, individual residing in the same house as the child or a paramour of the child’s parent who has committed child abuse as defined in section 3 of the CPSL (11 P.S. § 2203) and this chapter.” 55 Pa.Code § 3490.4 (emphasis added).
+Although both parents indicated that the lesions had been a condition since birth, which the family physician was treating, they offer conflicting reasons as to how J.S. sustained his lacerated tongue and no opinion as to how the fractured leg bones and bump on the head occurred. Dr. Hartle testified that external trauma caused all of the injuries, and that a five-month old child is not capable of inflicting the bone and tongue injuries to himself. Furthermore, Dr. Hartle testified that the skin condition began to clear and the child gained over one ounce a day during his five-day stay in the hospital. Additionally, Hankard testified that the lesions continued healing during the child’s time out of the natural parents’ care.
+Whether K.S. personally committed physical abuse is not conclusive. Because J.S. sustained severe physical injuries while K.S., a primary caretaker, was responsible for her welfare, K.S.’ omissions (in this case—failure to protect or leave the child in the hands of a responsible caretaker) alone fulfill the definitions of both “child abuse” and “perpetrator,” quoted above. Therefore, we conclude that substantial evidence does support the Office of Hearings and Appeals’ conclusion to deny expungement of the indicated report.
+2.
+The second issue is whether the indicated report is being kept pursuant to DPW regulations. Specifically, K.S. asserts that the regulations require DPW to notify all subjects who are cited on founded and indicated reports of child abuse which have been entered into the central register.
+Although present regulations do require such notification, the statutory guidelines in effect at the time of J.S.’ abuse did not include a similar provision. Furthermore, the present regulations contain no retroactive clause. Therefore, DPW did not violate its regulations when it did not notify K.S. of her inclusion on an indicated report.
+3.
+The final issue is whether K.S. has been unconstitutionally deprived of a property right without due process by virtue of the fact that her name appears as the perpetrator of child abuse in the central register without her having received notice or an opportunity to be heard.
+Although the regulations provided for no such notice or hearing, we must recognize that her hearing and proceedings before a hearing officer, the Office of Hearings and Appeals and this court have clearly been sufficient to satisfy due process.
+Accordingly, we affirm the decision of the Office of Hearings and Appeals.
+ORDER
+NOW, October 6, 1989, the order of the Department of Public Welfare, No. 21-87-139, dated January 23, 1989, is affirmed.
+. Act of November 26, 1975, P.L. 438, as amended, 11 P.S. §§ 2201-2224.
+. Section 23.1(b)(2) of the Law, 11 P.S. § 2223.1(b)(2), requires all applicants for child care service employment to submit with their applications certification from DPW as to whether the person is named in the central register as the perpetrator of a founded or indicated report of child abuse. Furthermore, a child care service administrator cannot hire an applicant "who is named in the central register as the perpetrator of a founded report of child abuse committed within the five-year period immediately preceding verification.” 11 P.S. § 2223.1(d).
+. See 55 Pa.Code § 3490.58.
