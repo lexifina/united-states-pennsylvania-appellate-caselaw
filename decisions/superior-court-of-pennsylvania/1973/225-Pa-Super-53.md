@@ -1,0 +1,37 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 1623 and 1624"
+decided: "1973-06-21"
+citations: ["225 Pa. Super. 53"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. J., Watkins, Jacobs, Hoffman, Spaulding, Cercone, and Spaeth, JJ.", "Cercone and Spaeth, JJ., join in this dissenting opinion."]
+parties: ["Commonwealth v. Diamond, Appellant."]
+source_url: "https://static.case.law/pa-super/225/cases/0053-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 806086
+cites_cases: ["239 Pa. 533", "289 N.Y.S. 2d 879", "29 App. Div. 913", "395 U.S. 711", "408 U.S. 471", "411 U.S. 903", "50 Cal. Rptr. 751", "57 Cal. Rptr. 348", "87 A. 61", "93 S. Ct. 1977"]
+---
+
+# Commonwealth v. Diamond
+
+## Majority (Per Curiam,)
+
+Opinion
+Per Curiam,
+Judgment of sentence affirmed.
+
+## Dissent (Hoffman, J.:)
+
+Dissenting Opinion by
+Hoffman, J.:
+This appeal presents the question of whether or not the trial conrt erred in increasing appellant’s minimum sentence after learning that he had attempted to escape several hours subsequent to the imposition of sentence.
+Appellant Michael Diamond was charged with fraudulent conversion, larceny by employee, and two counts of forgery. On May 22, 1972, he was tried before the Honorable John Justus Bodlby, sitting without a jury, in Bucks County. After the presentation of the evidence, the court found appellant guilty on all counts. On August 24, 1972, Judge Bodlby sentenced him to a term of not less than five months nor more than five years in the state penitentiary. Several hours later the judge learned that the appellant had attempted to escape while being transported to the sheriff’s van. The trial judge ordered that the appellant be returned to the courtroom for resentencing; Judge Bodlby then imposed a sentence of not less than one year nor more than five years upon appellant. Defense counsel was not present at this proceeding, but the court later reimposed the one to five year sentence in the presence of appellant’s counsel.
+Appellant contends that his constitutional right not to be twice placed in jeopardy was violated when the trial judge imposed a harsher minimum upon him. The Commonwealth argues that double jeopardy does not attach where the court increased the minimum sentence because the minimum sentence is an administrative guideline and not a penalty imposed by the court. To bolster this argument, the prosecution cites Commonwealth v. Kalck, 239 Pa. 533, 87 A. 61 (1913) and its progeny: “ ‘. . . it necessarily follows that the maximum sentence is the only portion of the sentence which has legal validity, and that the minimum sentence is merely an administrative notice by the court to the executive department, calling attention to the legislative policy that when a man’s so called minimum sentence is about to expire, the question of grace and mercy ought to he considered and the propriety of granting a qualified pardon he determined.’ ” 239 Pa. at 541-542.
+Although the parole board may deny appellant’s request for parole and require that he serve the maximum sentence, the imposition of a harsher minimum sentence herein deprives the appellant of the opportunity to request parole at an earlier date. Thus, the imposition of a harsher minimum is of vital importance to the appellant; it is more than an administrative guideline. It is a crucial factor in determining when the appellant can and will be released from prison. “[T]he liberty of a parolee, although indeterminate, includes many of the core values of unqualified liberty and its termination inflicts a ‘grievous loss’ on the parolee and often on others. It is hardly usef ul a„ny longer to try to deal with this problem in terms of whether the parolee’s liberty is a ‘right’ or a ‘privilege’. By whatever name, the liberty is valuable and must be seen as within the protection of the Fourteenth Amendment.” Morrissey v. Brewer, 408 U.S. 471, 472, 92 S. Ct. 2593, 2601 (1972). Just as the parolee’s liberty is valuable, the right to request parole at the earliest possible date is of vital importance to the prisoner. To say that the Fifth Amendment rights of appellant have not been violated by the trial court’s imposition of a harsher minimum sentence upon appellant is to disregard reality.
+California and New York Courts have dealt with a similar issue and held that a minimum sentence may not be increased upon retrial. In California, the prosecutor may plead and prove prior convictions under the state’s penal code which provides for increased minimum sentences whenever prior convictions have been proven. In People v. Ali, 50 Cal. Rptr. 751 (Cal. App., 1966) modified on other grounds 66 C. 2d 277, 57 Cal. Rptr. 348 (1967), the state had introduced evidence of two prior convictions at the appellant’s first trial, but one of those convictions was stricken from the record. The appellate court ruled that the trial court erred in permitting the prosecution to introduce the stricken conviction at the second trial. The introduction of such evidence would have penalized Ali by permitting the Court to increase his minimum sentence for exercising his right to appeal. 50 Cal. Rptr. at 754. In People v. Thiel, 29 App. Div. 913, 289 N.Y.S. 2d 879 (Sup. Ct., Appellate Division, 4th Dept., 1968), the New York Court ruled that the trial judge erred in imposing a fifteen to twenty-five year sentence upon retrial where a ten to twenty year sentence was imposed following the first trial. “Certainly a more severe punishment should not be inflicted because the defendant had asserted his right to appeal and was granted a new trial. Fundamental fairness dictates that the new sentence should not have exceeded the old.” 289 N.Y.S. 2d at 880. The ten to twenty year sentence was reimposed.
+The California and New York decisions set forth the principle that an increase in the minimum sentence imposed upon a man subsequent to the initial imposition of sentence is a violation of ones right not to be twice placed in jeopardy. This principle applies to the instant case even though the harsher sentence was not imposed following appeal. Appellant’s futile attempt to escape should have no effect upon his original sentence; rather, this should be taken into account by the parole board in determining whether or not to grant appellant’s request for parole. The Commonwealth may also prosecute appellant for any crime which he committed during his attempted escape.
+The order of the lower court should be vacated and the original sentence reinstated.
+Cercone and Spaeth, JJ., join in this dissenting opinion.
+North Carolina v. Pearce, 395 U.S. 711 (1969) seta forth the instances in which a harsher penalty may bo imposed upon retrial. I'hese instances are not applicable herein. In Chaffin v. Stynchcombe, 411 U.S. 903, 93 S. Ct. 1977 (1973), the United Stales Supreme Court ruled that a harsher sentence may be imposed on retrial in states where the jury pronounces sentence; this may be done provided that (1) the jury on retrial is unaware of the prior sentence imposed on the defendant, (2) the second sentence is not a vindictive attempt to chill the defendant’s appellate rights. The facts of Chaffin are distinguishable from the instant case. Furthermore, Article I, §10 of the Pennsylvania Constitution accords the protection granted in this appeal: “No person shall, for the same offense, be twice put in jeopardy of life or limb”.
