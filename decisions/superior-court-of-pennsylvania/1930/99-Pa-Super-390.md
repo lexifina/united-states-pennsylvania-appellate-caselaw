@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 148"
+decided: "1930-07-10"
+citations: ["99 Pa. Super. 390"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Linn, Gawthrop, Cunningham and Baldrige, JJ."]
+parties: ["Di Rosa v. Caliando and Sena, Appellants."]
+source_url: "https://static.case.law/pa-super/99/cases/0390-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 688872
+cites_cases: ["1 W. & S. 195", "100 Pa. 561", "149 Pa. 375", "162 Pa. 3", "289 Pa. 331", "294 Pa. 300", "294 Pa. 488", "59 Pa. 19", "7 Watts 152", "95 Me. 564"]
+---
+
+# Di Rosa v. Caliando
+
+## Majority (Linn, J.,)
+
+Opinion by
+Linn, J.,
+Judgment was entered against the two defendants on a judgment note for $1,000; the appellant, Caliando, is the principal debtor, and Sena, the other appellant, is surety. The note was dated May 6, 1924, and the judgment entered August 4,1924. September 25,1924, Caliando filed a petition to open the judgment with leave to defend; he averred that the note was obtained by fraud and misrepresentation, and without consideration.
+The court granted a rule to show cause; plaintiff filed a responsive answer denying the averments of the petition and averring with much detail that the note was given for a loan of $1,000 made by him to Caliando. Some months later Sena, the surety, also filed a petition to open. After hearing on depositions, the court opened the judgment; the parties stipulated that the note, the petitions to open, and the answer should constitute the pleadings for purposes of trial. There was a verdict for the plaintiff. A motion for a new trial was refused and, judgment being entered on the verdict, this appeal was taken.
+Appellants’ evidence was to the effect that Caliendo’s brother had been sentenced to death for murder; that plaintiff and another (laborers by occupation) had represented to appellant, Caliando, that for $3,000, they could and would procure commutation of the sentence to four or five years imprisonment; that before this was accomplished, plaintiff demanded $1,000 and produced (in the words of Caliando’s petition) “a paper without divulging to him the character thereof, which paper was probably the judgment note upon which the above judgment is based, at the same time telling your petitioner that this paper would not be used in any way unless and until the death sentence of Antonio Caliando should be commuted and changed to a sentence of not more than five years in the penitentiary.” Sena’s petition differs slightly from Caliando ’s. He avers that the judgment note was executed and delivered as “collateral security,” and that, as the commutation of sentence as proposed was not obtained, there was failure of consideration justifying relief in this proceeding.
+On behalf of plaintiff, five persons testified that they saw the sum of $1,000 paid by plaintiff to Caliando, appellant, and saw the note delivered to plaintiff in consideration of the payment; a bank official testified that on the day before the date of appellant’s judgment note, he, on behalf of his bank, supervised the lending of $1,000 by the bank to plaintiff and his wife on their joint note; witnesses for plaintiff stated that it was that $1,000 which plaintiff loaned to Caliando on the judgment note in suit.
+While the consideration for the note as alleged in the petitions and supported by appellants’ evidence, is illegal (Hatzfield v. Gulden, 7 Watts 152; Bowman v. Coffroth, 59 Pa. 19, 23; Ormerod v. Dearman, 100 Pa. 561; Spalding v. Ewing, 149 Pa. 375, 379; Williston Contracts, Vol. III, section 1731, P. 3027; 6 R. C. L. pp. 765, etc.), we need not discuss its effect in the case, as the point was not considered by the parties in their arguments, and as the verdict is amply supported by the evidence in any view that might be taken. The appeal is based on the refusal of a new trial and on quotations from the charge.
+A number of assignments of error complain of extracts from the charge in which the learned trial judge referred to the judgment note as “a solemn written obligation,” and as a “solemn written promise,” and to the judgment as a “solemn judgment.” Appellants say they were prejudiced by the use of the adjective “solemn.’ There is no ground for the criticism; it is a word commonly used in the law to signify “formal” and “regular.” “Indeed as usual in legal nomenclature ‘solemn’ means no more than ‘formal,’— as ‘probate in solemn form,’ ‘to solemnize a marriage,’ etc.,” in re opinion of the Justices, 95 Me. 564. “Formal contracts in our system of law are (1) Promises under seal.......” Williston on Contracts, Vol. 1, section 4; (see, too, The American Law Institute’s re-statement of The Laws of Contracts, section 7, Formal Contracts; p. 29). Defendant’s judgment note was a formal contract; the learned trial judge merely employed ordinary legal language in designating the note as a “solemn” obligation: cf. Rishel v. Crouse, 162 Pa. 3, 4; the reporter’s syllabus in Certelli v. Braum, 294 Pa. 488, and Stine v. Sherk, 1 W. & S. 195, 202, which is not to be distinguished on the ground that the bond was given in a family settlement, as appellants suggest.
+Complaint is also made that the jury was instructed that the note could not be set aside for fraud or misrepresentation unless the evidence was clear, precise and indubitable. We need not discuss this farther than to note that the court left the case to the jury on a basis agreed to by both parties as appears by the following quotation from the opinion of the learned trial judge refusing a new trial, (and this is not questioned by appellants): “Moreover, there was in this case, before the court charged the jury, an interview with both counsel at ‘side-bar’ as to the measure of proof required, and it was assented to by both, that the measure to be presented was that which the court used, and which is now complained of by defendants’ counsel.” See, too, Cridge’s Est., 289 Pa. 331, 337; Bentz v. Barclay, 294 Pa. 300, 305.
+The evidence offered on behalf of plaintiff so completely supports his averments that he made a loan of $1,000 to Caliando that the verdict could hardly have been otherwise.
+Judgment affirmed.
