@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 163"
+decided: "1897-01-18"
+citations: ["3 Pa. Super. 278"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Willard, Wickham, Beaver, Reeder, Orlady and Smith, JJ."]
+parties: ["First National Bank of Tyrone, Pennsylvania, Appellant, v. J. W. Cooke."]
+source_url: "https://static.case.law/pa-super/3/cases/0278-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 274050
+cites_cases: ["127 Pa. 179", "15 Pa. 293", "154 Pa. 133", "154 Pa. 596", "20 W. N. C. 370", "20 W. N. C. 371", "3 P. & W. 170"]
+---
+
+# First National Bank v. Cooke
+
+## Majority (Beaver, J.,)
+
+Opinion by
+Beaver, J.,
+The act of June 13, 1836, P. L. 568, section 1, provides that “personal actions, except in cases where other process shall be especially provided, shall be commenced by a writ of summons,” the form of which is therein set forth. The second section of this act provides the manner in which the service of such a summons shall be made. A summons was issued in accordance with the provisions of this act in the present case September 12, 1896, returnable the third Monday of September, 1896. There was no service and the summons was returned “nihil habet.” An alias summons was issued October 2, 1896, returnable first Monday of October, 1896, which was served. The appellant alleges that on the 14th day of September, 1896, one, Samuel J. Moffett, “ served upon the defendant a copy of plaintiff’s statement filed in above case by handing same to him personally.” Where this statement was handed the defendant does not appear. The appellant alleges that, because the statement was handed the plaintiff more than fifteen days before the return day of the alias summons, he is entitled to judgment, notwithstanding the fact that the defendant was not actually summoned for more than fifteen days after the serving of the statement.
+The .act of the 25th of May, 1887, P. L. 271, “ providing for the abolition of the distinctions heretofore existing between actions ex contractu and actions ex delicto, so far as relates to procedure, providing for two forms of actions and regulating the pleadings thereunder,” does not in any way repeal or modify the provisions of the act of the 13th of June, 1836, supra, relating to the beginning of personal actions and the mode in which the summons therein is to be served.
+The first and essential step in the commencement of a personal action is to bring both parties within and under the jurisdiction of the court. The plaintiff does this by bringing his suit. The defendant is brought within the jurisdiction by a service of the summons or by an authorized appearance by attorney. The defendant was not within the jurisdiction of the court for the purposes of this suit at the time at which the statement was served upon him, even admitting that the statement was so served within the jurisdictional limits of the court, although this does not affirmatively appear in the affidavit of service. Such service was, therefore, a nullity, and the issuing of an alias summons returnable upon a different return day and a service thereof could not relate back to the issuing of the original summons and the service of the statement, so as to give the latter any value or validity, under the provisions of the act of May 25, 1887, supra.
+Whilst it has been held, as argued by the appellant, that alias and pluries writs are a continuance of the original process and not the inception of a fresh suit, so as “ to prevent the running of the statute of limitations from the tune of the issuing of the original summons,” as in McClurg v. Fryer et al., 15 Pa. 293, or as a compliance with the requirements of a clause of limitations as to the time within which an action was to be commenced under a policy of insurance, as in American Central Insurance Co. v. Haws, 20 W. N. C. 371, it has never been held that the service of an alias summons brings the defendant within the jurisdiction of the court as of the date of the issuing of the original summons. To so hold would be destructive alike of the rights of a defendant and of established practice. In Newbold v. Pennock, 154 Pa. 596, a summons had been regularly issued and served upon the defendant who was, therefore, under the jurisdiction of the court. The decision of the Supreme Court, therefore, in that and similar cases does not in any way apply to the facts of the case under consideration. The Procedure Act of 1887 was not intended nor does it in effect in any way modify the duty of the plaintiff to bring or the right of the defendant to be brought under the jurisdiction of the court in which a personal action like the present is pending in the mode pointed out by the statute, before the defendant can be called upon to answer the plaintiff’s statement by an affidavit of defense. The judgment in this case for want of such affidavit was, therefore, improvidently and prematurely taken, and the decree of the court below in making absolute the rule to strike off the judgment entered for want of an affidavit of defense October 6, 1896, and setting aside the fi. fa. issued thereon is affirmed, and the appeal dismissed at the cost of the appellant.
