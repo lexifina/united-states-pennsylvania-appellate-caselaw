@@ -1,0 +1,37 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "01190"
+decided: "1984-09-21"
+citations: ["333 Pa. Super. 162", "481 A.2d 1355"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CAVANAUGH, POPOVICH and HESTER, JJ."]
+parties: ["Gretchen Oswald HAVILAND v. Isaac John HAVILAND. Appeal of Gene FETTY, Executor of the Estate of Isaac John Haviland, Deceased."]
+source_url: "https://static.case.law/pa-super/333/cases/0162-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 616523
+cites_cases: ["104 A.L.R. 654", "119 Pa.Super. 341", "158 A.L.R. 1205", "160 Pa.Super. 526", "181 A. 252", "25 Pa.D. & C. 77", "293 Pa.Super. 491", "439 U.S. 880", "449 A.2d 1378", "457 A.2d 192", "477 Pa. 322", "498 Pa. 227", "498 Pa. 570", "52 A.2d 381", "58 L.Ed.2d 192", "682 P.2d 298", "72 Pa. Commonwealth Ct. 628", "9 Pa.D. & C. 228", "99 S.Ct. 216"]
+---
+
+# Haviland v. Haviland
+
+## Majority (CAVANAUGH, Judge:)
+
+CAVANAUGH, Judge:
+This appeal is from an order granting appellee-wife’s motion to strike appellant, executor of her deceased husband’s estate, as a substituted party to this divorce action and to terminate the action. We affirm.
+The relevant facts are not in dispute. On August 6, 1981, appellee filed a complaint in divorce against her husband, appellant’s decedent, based alternatively on theories of indignities and irretrievable breakdown. Appellant answered and counterclaimed for equitable distribution of the marital property. A master was appointed, but before any testimony was taken, appellant’s decedent died. Appellant filed a suggestion of death and voluntary substitution pursuant to 20 Pa.C.S. § 3371. By its order of September 1, 1983, the lower court struck appellant as a substituted party and terminated the action as of the date of decedent’s death. It is this order from which appeal is taken.
+Initially, appellant recognizes the long-standing rule that unlike most actions, pending divorce actions are abated by the death of one of the parties. Matuszek v. Matuszek, 160 Pa.Super. 526, 52 A.2d 381 (1947); Upperman v. Upperman, 119 Pa.Super. 341, 181 A. 252 (1935); Sirbaugh v. Sirbaugh, 46 D. & C. 417 (1943); Hammond v. Hammond, 9 Pa.D. & C. 228 (1927); 3 A. Freedman, Law of Marriage and Divorce in Pennsylvania, § 670 (2d ed. 1957). However, appellant contends that the recent passage of the Divorce Code, Act of April 2, 1980, P.L. 63, No. 26, 23 P.S. § 101, et seq., changed the law so that a pending divorce action involving the equitable distribution of marital property survives the death of one of the parties. We must disagree.
+It is true that enactment of the Divorce Code made fundamental changes in the law relating to the disposition of marital property upon divorce. Gordon v. Gordon, 293 Pa.Super. 491, 439 A.2d 683 (1981), aff'[d, 498 Pa. 570, 449 A.2d 1378 (1982); Divorce Code, supra, § 102, 23 P.S. § 102. In particular, the Code greatly expanded the protection afforded to the dependent spouse upon divorce. Bacchetta v. Bacchetta, 498 Pa. 227, 445 A.2d 1194 (1982); Gordon v. Gordon, supra. However, we find nothing in the Divorce Code which would indicate an intention to extend these protections to the estate of a deceased spouse. On the contrary, the economic provisions of the Divorce Code clearly look to the continued life and welfare of both spouses. For example, in dividing the marital property, the Divorce Code requires the court to consider such factors as the “sources of income, vocational skills, employability, estate, liabilities and needs of each of the parties,” id,. § 401(d)(3), 23 P.S. § 401(d)(3); “the opportunity of each party for future acquisitions of capital assets and income,” id. § 401(d)(5), 23 P.S. § 401(d)(5); and “the standard of living of the parties established during the marriage,” id. § 401(d)(9), 23 P.S. § 401(d)(9). Moreover, the Divorce Code only authorizes distribution of marital property in conjunction with a decree granting a divorce. See §§ 301(d)(1), 401(b). And, as has been often stated, a divorce will not be decreed where one party has died since
+a man can no more be divorced after he is dead than he can be married or condemned to death. Marriage is a union for two lives, which can be dissolved either by death or by process of law; but after it has been dissolved in one of those ways you cannot dissolve it again: you cannot untie a knot which has already been untied.
+Stanhope v. Stanhope, 11 P.D. 103, 108 (1886). See also Matuszek v. Matuszek, supra; Upperman v. Upperman, supra; Hammond v. Hammond, supra.
+Our conclusion that the property provisions of the Divorce Code are intended to apply to living spouses is further reinforced by reference to the Probate, Estates and Fiduciaries Code, 20 Pa.C.S., which is in pari materia with the Divorce Code because it also relates to the distribution of spousal property. In Re William L., 477 Pa. 322, 383 A.2d 1228 (1978), cert. denied, Beatty v. Lycoming County Children’s Services, 439 U.S. 880, 99 S.Ct. 216, 58 L.Ed.2d 192 (1978); 1 Pa.C.S. § 1932 (relating to construction of statutes in pari materia). As such, we must construe the statute so as to give effect to the provisions of both. Black v. Billy Penn Corp., 72 Pa. Commonwealth Ct. 628, 457 A.2d 192 (1983); 1 Pa.C.S. § 1922(2).
+If we were to accept appellant’s theory, the result would be that the mere unilateral filing of a divorce action, any time prior to the death of one spouse, would be sufficient to upset and evade the operation of settled, established rules of probate and intestate succession. In this regard, we must note that the Probate, Estates and Fiduciaries Code, supra, also contains substantial provisions designed to insure the fair distribution of the marital estate upon the death of one spouse. See, e.g., 20 Pa.C.S. § 2102 (intestate share of surviving spouse); § 2103(1) (intestate share of children); 20 Pa.C.S. Ch. 22 (elective share of surviving spouse); and 20 Pa.C.S. § 3121 (family exemption). In the absence of specific language, we will not construe the Divorce Code to have such a profound and potentially debilitating impact on the Probate, Estates and Fiduciaries Code.
+For the foregoing reasons, we hold that under the circumstances of this case, the lower court correctly determined that the divorce action abated upon the death of appellee’s husband. Our holding today is in accord with our own courts of common pleas, as well as other jurisdictions which have considered this question. See Chappell v. Chappell, 21 Pa.D. & C.3d (1981); Preece v. Preece, 682 P.2d 298 (Utah 1984); and cases collected at Annot., 104 A.L.R. 654 (1936), supplemented by Annot., 158 A.L.R. 1205 (1945).
+Order affirmed.
+. Appellant also seeks support from 20 Pa.C.S. § 3371 and 42 Pa.C.S. § 8302 (relating to survival of actions), which are as follows:
+§ 3371. Actions which survive
+All causes of action or proceedings shall survive as provided by 42 Pa.C.S. § 8302 (relating to survival action).
+§ 8302. Survival action
+All causes of action or proceedings, real or personal, shall survive the death of the plaintiff or of the defendant, or the death of one or more joint plaintiffs or defendants.
+However, it has been consistently held that divorce actions do not fall within these statutes. Upperman v. Upperman, supra; Sillers v. Sillers, 25 Pa.D. & C. 77 (1935).
