@@ -1,0 +1,50 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 3318 C.D. 1985"
+decided: "1988-06-03"
+citations: ["116 Pa. Commw. 532", "542 A.2d 613"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Craig, Doyle and Palladino, sitting as a panel of three."]
+parties: ["The Township of Ross, Petitioner v. Commonwealth of Pennsylvania, Department of General Services, Respondent."]
+source_url: "https://static.case.law/pa-commw/116/cases/0532-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1372556
+cites_cases: ["107 Pa. Commonwealth Ct. 349", "112 Pa. Commonwealth Ct. 182", "116 Pa. Commonwealth Ct. 43", "4 Pa. Code §89.1", "461 A.2d 353", "75 Pa. Commonwealth Ct. 118"]
+---
+
+# Township of Ross v. Commonwealth
+
+## Majority (Judge Palladino,)
+
+Opinion by
+Judge Palladino,
+The Township of Ross (Township) has petitioned for review of an order of the Department of General Services (Department) affirming the decision of the Bureau of Risk and Insurance Management (Bureau) denying the Townships claim for reimbursement of a $25,000 death benefit the Township paid to the widow of Leroy Ehrman.
+Leroy Ehrman was a volunteer fire fighter in the Township. On April 19, 1977, Mr. Ehrman was directing traffic at the scene of a fire to which he had responded. While directing traffic, Mr. Ehrman told a fellow fire fighter he did not feel well, and shortly thereafter Mr. Ehrman suffered a fatal heart attack. On November 24, 1980, the Township paid Mr. Ehrmans widow $25,000 because it believed Mrs. Ehrman was entitled to the money by virtue of section 1 of the Act of June 26, 1976 (Act 101), PL. 424, as amended, 53 PS. §891, which provides that a political subdivision shall pay that sum to a surviving spouse of a fire fighter killed in the performance of his duties. The Township then sought reimbursement from the Bureau, which denied reimbursement on March 24, 1981. The Township appealed the denial to the Department and, simultaneously, to this court. Then, on October 16, 1981, Act 101 was amended, with the amendment to be retroactive to January 1, 1976. The Department then advised the Township to resubmit the claim to the Bureau so the amended law could be applied.
+On resubmission, the Bureau again denied the claim, and the Township again appealed to the Department. The Department affirmed the Bureaus denial of reimbursement. The Township appealed to this court (2502 C.D. 1982). While the appeal was pending, this court decided Seybold v. Department of General Services, 75 Pa. Commonwealth Ct. 118, 461 A.2d 353 (1983) (Seybold I). In that decision we invalidated the definition of “killed” the Department had been using, and which was used in Mr. Ehrmans case. Thus, the parties requested we remand this case so the Bureau and Department could render a decision without reliance on the invalidated definition. We remanded and the case was decided once again. The Bureau again denied reimbursement, and the Department affirmed. The Township has petitioned for review.
+The Township has presented three issues for review. The Township asserts the Departments order is: 1) arbitrary and capricious because the Departments hearing examiner ignored evidence; 2) not in accord with the law because it conflicts with our decision in Seybold I; and 3) not in accord with the law because the Workmens Compensation Bureau awarded benefits. We shall address these issues in order.
+The Township first asserts that the hearing examiner ignored evidence and therefore the Departments order is arbitrary and capricious. This is actually a question of whether substantial evidence- exists to support the Departments findings. Our review of the record indicates the Departments findings are based on substantial evidence. Larry E. Hurwitz, M.D., was deposed and testified that Mr. Ehrman suffered very severe arteriosclerotic heart disease and had suffered a heart attack prior to the fatal one on April 19, 1977. Dr. Hurwitz stated, with a reasonable degree of medical certainty, that Mr. Ehrmans fire fighting activities on the day of his death were not a substantial contributing factor or cause of his death. Hurwitz deposition at 10-11. Also introduced was a letter from George R. Moffitt, Jr., M.D: in which Dr. Moffitt stated:
+I believe the cardiac arrest was spontaneous and in the course of progression of far advanced severe coronary artery disease. I see nothing in the record that would relate any stressful activity to his sudden death and believe he would have died at this same time even if he had been quiet and sedentary at home.
+Although conflicting medical evidence was offered, the hearing examiner found that Mr. Ehrmans death was not caused by performance of his duties as a fire fighter. This conclusion is supported by substantial evidence, in that Dr. Hurwitzs testimony and Dr. Moffitfs letter constitute “such relevant evidence as a reasonable mind might accept as adequate to support a conclusion.” Kassouf v. Zoning Hearing Board of Scott Township, 112 Pa. Commonwealth Ct. 182, 185, 535 A.2d 261, 263 (1987).
+The Township next argues that the present decision conflicts with our decision in Seybold I. We disagree. In Seybold I we invalidated the definition of “killed” which the Department had been using, holding that the Departments definition was too restrictive in light of the legislatures intent that social legislation be broadly construed. Although a heart attack can be an “injury” under Act 101, the Township seems to be arguing that because of the remedial nature of the legislation the causation requirement can be ignored. Section 3 of the Act of October 16, 1981, P.L. 295 (amending Act 101), mandates that causation be established:
+[Rjetroactive to January 1, 1976, [the original Act] shall be applicable to the deaths of all firefighters . . . dying on and after January 1, 1976 as a direct result of injuries sustained in the performance of their duties, regardless of the date when such injuries occurred. (Emphasis added.)
+See Crouse v. Department of General Services, 116 Pa. Commonwealth Ct. 43, 540 A.2d 1015 (1988). We also note that following the remand in Seybold I, benefits were again denied by the Department, and we affirmed that denial. Seybold v. Department of General Services, 107 Pa. Commonwealth Ct. 349, 528 A.2d 999 (1986) (Seybold II).
+Finally, the Township argues that the Department was required to find Mr. Ehrman’s death work-related because the Workers’ Compensation Bureau had so found. We do not agree. The Department and the Workers’ Compensation Bureau are each entitled to make credibility determinations, and one cannot be bound by the determinations of the other.
+Accordingly, the order of the Department is affirmed.
+Order
+And Now, June 3, 1988, the order of the Department of General Services in the above-captioned matter is affirmed.
+It is not clear why an appeal was taken to this court. However, a standard procedure in this area was not yet in place at the time of the initial appeal, and it seems likely that counsel for the Township was wisely assuring preservation of the issue. The appeal, at 875 C.D. 1981, was dismissed by order of this court dated May 7, 1984.
+The amendment appears to be an attempt to clarify the procedures and definitions to be used in these cases. Section 3 of the Act of October 16, 1981, P.L. 295 (Amending Act) states:
+This act shall take effect immediately and its provisions shall be retroactive to January 1, 1976 and shall be applicable to the deaths of all firefighters, ambulance service or, rescue squad members and law enforcement personnel dying on and after said date as the direct result of injuries sustained in the performance of their duties, regardless of the date when such injuries occurred.
+'Section 2 of the Amending Act states:
+This act shall take effect immediately and the provisions relating to the clarification in the definition of ‘firefighter, ambulance service or rescue squad member or law enforcement officer shall be retroactive to January 1, 1976 and shall be applicable to all claims for benefits under this act arising on and- after said date.
+The definition was as follows:
+Killed—Death as the direct and proximate result of a wound or other condition of the body caused by external force, including injuries by bullets; explosives; sharp instruments; blunt objects or other physical blows; chemicals; electricity; climatic conditions, including gasses, heat, and lack of air; infectious diseases; radiation; and bacteria; but excluding stress and strain and diseases which arise merely out of the general performance of duty.
+4 Pa. Code §89.1
+We have gleaned these issues from the Townships Statement of the Question, which is as follows:
+Is the Order of the Department of General Services arbitrary and capricious, and not in accord with the law in refusing the payment of a death benefit under applicable legislation where deceased was a volunteer fireman, had responded to a fire call, directed traffic until the fire apparatus arrived, further directed traffic and engaged in crowd control duties at the site of the fire, and while so engaged, collapsed and died, where conflicting medical opinions exist, and where another state agency (Workmens Compensation Bureau) found the death to be work-related, and the result of activity and exertion while performing duties at the fire?
+Our scope of review is confined to determining whether findings are supported by substantial evidence, whether constitutional rights were violated or whether an error of law was committed. Seybold v. Department of General Services, 107 Pa. Commonwealth Ct. 349, 528 A.2d 999 (1986) (Seybold II).
+Dr. Hurwitzs deposition was taken for purposes of a related workmens compensation proceeding, and was subsequently admitted into the present record.
+For the text of the invalidated definition, see note 1.
+Crouse v. Department of General Services, 116 Pa. Commonwealth Ct. 43, 540 A.2d 1015 (1988).
