@@ -1,0 +1,52 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 3182 C.D. 1984"
+decided: "1987-03-09"
+citations: ["104 Pa. Commw. 441", "522 A.2d 129"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges MacPhail and Barry, and Senior Judge Barbieri, sitting as a panel of three."]
+parties: ["Frank N. Covert, Petitioner v. Bensalem Township School District, Respondent."]
+source_url: "https://static.case.law/pa-commw/104/cases/0441-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1356719
+cites_cases: ["178 A.2d 751", "267 A.2d 848", "305 A.2d 382", "406 Pa. 515", "428 A.2d 1023", "439 Pa. 256", "444 A.2d 1319", "501 Pa. 534", "510 A.2d 337", "510 Pa. 504", "59 Pa. Commonwealth Ct. 63", "66 Pa. Commonwealth Ct. 421", "9 Pa. Commonwealth Ct. 62"]
+---
+
+# Covert v. Bensalem Township School District
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+Frank N. Covert (Petitioner) has filed a petition for review in which he challenges the decision of the Acting Secretary of Education (Secretary) to affirm his dismissal as a professional employee. Petitioners dismissal by the Board of School Directors (Board) of the Bensalem Township School District (District) was grounded on a charge of immorality, and followed Petitioners criminal conviction for harassment by communication or address. We affirm.
+Two issues have been raised in the instant appeal: (1) whether or not the dismissal proceedings were properly initiated under Section 1127 of the Public School Code of 1949 (Code), 24 PS. §11-1127, and (2) whether Petitioner was denied a fair and impartial hearing by virtue of bias on the part of certain Board members.
+A brief review of the procedural history of this case is important to a resolution of the first issue presented. Petitioner, who had been employed by the District since 1964, was arrested and charged with two counts of harassment by communication or address in August, 1983. On September 2, 1983, the District Superintendent notified Petitioner by letter that his dismissal was being recommended to the Board and that Petitioner was being suspended without pay pending further Board action. The letter also charged Petitioner with immorality and scheduled a dismissal hearing for September 14. Petitioners counsel subsequently requested and was granted a continuance of the hearing pending final resolution of the criminal proceedings.
+Petitioner was subsequently convicted in January, 1984 of one count of harassment by communication or address. On February 8, 1984, the Board President sent Petitioner a letter, attested to by the Board Secretary, scheduling a dismissal hearing and again charging Petitioner with immorality.
+Petitioner contends that the letter of September 2, 1983 was procedurally defective under Section 1127 of the Code, 24 PS. §11-1127, which provides, pertinently, as follows:
+Before any professional employe having attained a status of permanent tenure is dismissed by the board of school directors, such board of school directors shall furnish such professional employe with a detailed written statement of the charges upon which his or her proposed dismissal is based and shall conduct a hearing. A written notice signed by the president and attested by the secretary of the board of school directors shall be forwarded by registered mail to the professional employe setting forth the time and place when and where such professional employe will be given an opportunity to be heard either in person or by counsel, or both, before the board of school directors and setting forth a detailed statement of the charges.
+We observe that where dismissal proceedings are undertaken the procedures set forth in the Code are mandatory and must be followed strictly. Abington School Board v. Pittenger, 9 Pa. Commonwealth Ct. 62, 305 A.2d 382 (1973).
+While it would appear that the September 2 letter was improper in that it was signed by the District Superintendent rather than the Board President, we believe that any existing procedural defect was cured by the February 8 letter which complied fully with the specific requirements of Section 1127 of the Code. We, accordingly, reject Petitioners argument that the arguably defective September 2 letter rendered the entire dismissal proceedings void ab initio.
+Petitioners remaining argument is that his due process rights have been violated due to bias on the part of Board members. Specifically, Petitioner argues that since certain Board members were victims of activity similar to that for which Petitioner was convicted, they could not render an impartial judgment of Petitioners case. The Secretary rendered the following fact findings regarding the issue of prejudice:
+19. At the first hearing on February 29, 1984, the eight Board members present were asked by the Board Solicitor if they held a fixed opinion such that it would be impossible for them to reach an impartial decision on the question of [Petitioners] dismissal. (N.T. I, p. 3)
+20. At the same hearing one Board member of the eight was individually asked by the attorney for [Petitioner] if he held a fixed opinion on [Petitioners] dismissal to which he responded he did not. (N.T. pp. 11, 12, 13)
+21. All eight board members indicated that they held no such fixed opinion. (N.T. I, p. 3)
+22. At the second Board meeting on April 4, 1984, the Board member who had not been present at the first hearing regarding [Petitioners] dismissal similarly indicated that he held no fixed opinion as to whether [Petitioner] should be dismissed. (N.T. II, pp. 3-5)
+23. All the Board members reaffirmed that they did not hold a fixed opinion at the second hearing. (N.T. II, p. 15)
+26. One of the witnesses for [Petitioner] testified that in January of 1984, before the Board moved to dismiss [Petitioner], he had a telephone conversation with one Board member, Mr. Homberger, who said in relation to [Petitioner], ‘He’s got to go.’ (N.T. II, pp. 8-10)
+We must agree with .the Secretary’s conclusion, based on these findings, that the record reveals no impermissible bias. The following standard regarding bias is particularly pertinent here:
+The making of the charges presupposes that the members of the board had some knowledge of the facts upon which the charges were based. Unless they had an opinion that the charges, if sustained, would warrant dismissal, they should never have been made. . . . We do not think that anything more was required of the members of the board than that they could hear and determine the charges against appellant on the evidence given before them, uninfluenced by other previous impressions.
+Lomas v. Board of School Directors of Northwestern Lehigh School District, 66 Pa. Commonwealth Ct. 421, 433, 444 A.2d 1319, 1325 (1982) (quoting Flannery Appeal, 406 Pa. 515, 521, 178 A.2d 751, 754 (1962)). We think the Board members have met that standard in the matter sub judice.
+The inherent potential for bias on the part of school boards in cases of this nature, however, has long been recognized.
+[B]efore a tenured professional employee is dismissed he is entitled to notice of the charges against him and a public hearing before the board of school directors. At that hearing the board plays a dual role. It acts both as prosecutor and as judge, and because of this it can never be totally unbiased.
+Belasco v. Board of Public Education of the School District of Pittsburgh, 510 Pa. 504, 510, 510 A.2d 337, 340 (1986) (quoting Appeal of Spano, 439 Pa. 256, 262-63, 267 A.2d 848, 851 (1970)). As a result of this potential for bias, the Supreme Court recently held in Belasco, 510 Pa. at 515, 510 A.2d at 343, as follows:
+[I]n an appeal by an aggrieved professional employee under Section 1131 of the School Code, the Secretary is vested with the authority to conduct de novo review whether he takes additional testimony or merely reviews the official record of the proceedings before the board. . . . Minimum requirements of due process demand that a litigant have, at some stage of a proceeding, a neutral fact-finder.
+We believe that the Secretary has conducted appropriate review under the Belasco standard. In particular, we observe that the Secretary rendered fourteen feet findings in addition to those made by the Board. While many of those findings relate to the issue of bias, others involve the merits of the case including the following:
+31. [Petitioner] admitted to his conviction as well as to the commission of the acts leading to the conviction at the first hearing session. (N.T. I, pp. 74-75)
+In her analysis of the case, the Secretary further indicated her agreement with the Boards resolution of the matter by noting that “the admission of a crime is sufficient, regardless of past reputation, to create a' bad example for the students for whom a teacher is responsible.” Adjudication at 8. See also Neshaminy Federation of Teachers v. Neshaminy School District, 59 Pa. Commonwealth Ct. 63, 428 A.2d 1023 (1981), aff'd, 501 Pa. 534, 462 A.2d 629 (1983) (guilty verdict for criminal conduct will support a finding of immorality under Section 1122 of the Code). Thus, while we agree with the Secretary that bias on the part of the Board has not been established by Petitioner, we also believe that the Secretary’s own review has further insured that Petitioner’s due process rights were not infringed.
+Order affirmed.
+Order
+The order of the Secretary of Education in the above-captioned matter is hereby affirmed.
+Immorality is one of the causes for termination of a professional employee contract listed in Section 1122 of the Public School Code of 1949, Act of March 10, 1949, P.L. 30, as amended, 24 P.S. §11-1122.
+Section 5504 of the Crimes Code, 18 Pa. C. S. §5504. Petitioner admits that the conduct which led to his conviction and the resulting charge of immorality by the Board involved placing approximately thirty-five telephone calls to a Board member in the early hours of the morning. The cause for the calls was apparently related to Petitioners frustration over a protracted labor dispute between the District and the teachers’ union. Petitioner does not raise the issue of whether criminal verbal harassment, the sole charge against him in this case, fells within the meaning of immorality as that term is used in the Public School Code.
