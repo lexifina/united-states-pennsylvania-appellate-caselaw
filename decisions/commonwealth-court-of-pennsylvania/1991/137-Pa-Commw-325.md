@@ -1,0 +1,39 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1561 C.D. 1990"
+decided: "1991-01-23"
+citations: ["137 Pa. Commw. 325", "585 A.2d 1173"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before COLINS and SMITH, JJ., and BARBIERI, Senior Judge."]
+parties: ["Harry P. STORCH, Jr., William N. Hall, Jr., Joseph D. Roslyn, Jr., Michael R. Hoke, Terrance J. Snyder and William F. Folk, Jr., Appellants, v. Karen A. MILLER, Rodney E. Steffy and their successors and City of Reading, Appellees."]
+source_url: "https://static.case.law/pa-commw/137/cases/0325-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1410885
+cites_cases: ["136 Pa.Commonwealth Ct. 715", "42 U.S.C. § 1983", "467 A.2d 904", "78 Pa.Commonwealth Ct. 365"]
+---
+
+# Storch v. Miller
+
+## Majority (COLINS, Judge.)
+
+COLINS, Judge.
+Harry P. Storch, Jr. et al. (officers) appeal an order of the Court of Common Pleas of Berks County (trial court) which granted the Motion for Summary Judgment of Karen A. Miller et al. (City).
+The officers are six police officers who work for the City of Reading. All six opposed then Mayor Karen A. Miller during the 1983 primary election. Mayor Miller was reelected in November, 1983, and shortly thereafter, in January, 1984, the officers were transferred from day shift to night shift. The officers believe that they were transferred in retaliation for their opposition to Mayor Miller in the primary election.
+The officers filed a grievance with their union, the Fraternal Order of Police, alleging unwarranted discipline in violation of their collective bargaining agreement. The arbitrator ruled in favor of the officers, and they were reinstated to day shift. The City appealed the arbitrator’s ruling, first to the trial court, and then to this Court, which dismissed the appeal on December 20, 1986 for lack of prosecution.
+Pursuant to 42 U.S.C. § 1983, the officers filed an action in federal court alleging that the City had violated their rights to freedom of speech and assembly under the first and fourteenth amendments of the United States Constitution. That action was dismissed because the claims were time-barred.
+On October 28, 1988, the officers filed an action with the trial court, alleging that the City had violated their right to vote and their right to freedom of speech under Article I of the Pennsylvania Constitution. They also alleged that the City had breached the collective bargaining agreement. The City moved for summary judgment, asserting that the officers’ action was barred either by res judicata or by the applicable statutes of limitations. On April 10, 1990, the trial court granted the City’s motion for summary judgment, agreeing that the claims were barred by res judicata and by the applicable statutes of limitations.
+The officers filed a Notice of Appeal to the Superior Court of Pennsylvania on May 10, 1990. That court’s July 6, 1990 order transferred the case to this Court.
+The officers present three issues for our review: (1) did the trial court err by granting the motion for summary judgment because of the statute of limitations when the claims arise from public employment and the officers filed their action within two years of the final decision on the grievance; (2) did the trial court err in granting the motion for summary judgment because of res judicata when it is clear that the federal court would not have asserted jurisdiction over the state claim; and (3) did the trial court err in granting the motion for summary judgment because the officers failed to file a response to the motion? This Court finds that the claims are time-barred. We will not, therefore, address the officers’ second and third issues.
+When reviewing a trial court’s decision granting a motion for summary judgment, we may reverse if the trial court committed an error of law or abused its discretion in a clear or manifest manner. Peters Township School Authority v. United States Fidelity and Guaranty Company, 78 Pa.Commonwealth Ct. 365, 467 A.2d 904 (1983).
+Both parties agree that the two year statute of limitations at 42 Pa.C.S. § 5524(7) applies to the officers’ state constitutional claims, but the officers allege that the statute of limitations was tolled because they had filed a grievance. As a result, they believe that their suit was timely filed because it was filed within two years of the date that this Court dismissed the City’s appeal of the arbitrator’s ruling. The trial court held that the state constitutional claims are time-barred, because the cause of action arose in January, 1984; but the complaint was not filed until October, 1988. The trial court also stated that the state constitutional claims are independent of the grievance. The officers’ grievance involved contractual issues flowing from the collective bargaining agreement, whereas the present action questions whether the transfer to night shift violated the state constitution. The trial court determined that it is not necessary for the grievance to be finally decided in order to determine whether the state constitution was violated and held, therefore, that the statute of limitations was not tolled by the filing of a grievance. We agree.
+Both parties also agree that the four year statute of limitations at 42 Pa.C.S. § 5525(8) applies to the officers’ claim for breach of the collective bargaining agreement. The trial court held that the claim for breach of the collective bargaining agreement was time-barred because the officers were transferred to night shift in January, 1984, but the action was not filed until October, 1988. We agree.
+The officers’ contention that the statutes of limitations were tolled because they filed a grievance cannot be supported. Under the general rules governing the limitation of actions, the officers’ delay in filing this action is not protected. Specifically, 42 Pa.C.S. § 5535(c) does not protect the officers’ delay because no court has determined that the officers were not obligated to submit their claims to arbitration. The officers properly submitted their grievance to arbitration pursuant to the collective bargaining agreement, and they received relief from the arbitrator. No court found that they were not obligated to arbitrate their grievance. Therefore, 42 Pa.C.S. § 5535(c) is inapplicable to this action. For this reason, the officers’ state constitutional claims are barred by the two year statute of limitations and their claim for breach of the collective bargaining agreement is barred by the four year statute of limitations.
+Accordingly, the order of the trial court is affirmed.
+ORDER
+AND NOW, this 23rd day of January, 1991, the order of the Court of Common Pleas of Berks County in the above-captioned matter is affirmed.
+. 42 Pa.C.S. § 5524(7) provides: “Any other action or proceeding to recover damages for injury to person or property which is founded on negligent, intentional, or otherwise tortious conduct or any other action or proceeding sounding in trespass [must be commenced within two years.]"
+. 42 Pa.C.S. § 5525(8) provides: "An action upon a contract, obligation or liability founded upon a writing not specified in paragraph (7), under seal or otherwise [must be commenced within four years.]”
+. 42 Pa.C.S. § 5535(c) states: "Where it shall have been finally determined by a court that a party is not obligated to submit a claim to arbitration, the time which elapsed between the demand for arbitration and the final determination by a court that there is no obligation to arbitrate is not a part of the time within which a civil action or proceeding upon such claim must be commenced.”
+. Abernethy v. Williams, 136 Pa.Commonwealth Ct. 715, 584 A.2d 1085 (1990).
