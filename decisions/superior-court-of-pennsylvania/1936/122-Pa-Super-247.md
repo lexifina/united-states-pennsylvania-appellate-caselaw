@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 279"
+decided: "1936-07-10"
+citations: ["122 Pa. Super. 247"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Cunningham, Baldrige, Stadtfeld, Parker, James and Rhodes, JJ."]
+parties: ["Gambatese et ux., Appellants, v. Erie County Poor District."]
+source_url: "https://static.case.law/pa-super/122/cases/0247-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 990194
+cites_cases: ["175 A. 427", "316 Pa. 353"]
+---
+
+# Gambatese v. Erie County Poor District
+
+## Majority (Baldrige, J.,)
+
+Opinion by
+Baldrige, J.,
+This action in assumpsit was brought to recover $1,010.52 from the Erie County Poor District. The trial terminated in the entry of a compulsory nonsuit. This appeal is from the refusal to take off the nonsuit.
+The plaintiffs are the owners of certain dwelling houses situate in the city of Erie, which they leased to five different tenants. Owing to economic conditions, the tenants were thrown out of. employment, and became destitute. They were unable to pay their rent during portions of the years 1930, 1931, 1932, and 1933, and applied to the poor district for relief, through Harry E. Wagner, one of the directors. It is alleged that he had authority from the board to act in its behalf, and had thoroughly investigated the applicants, and orally agreed that if plaintiffs, who had threatened to evict the tenants, would permit them to continue occupying their properties, the poor district would pay the rent. The poor board failed to comply with the alleged agreement; hence this suit.
+No testimony was offered to prove a promise to pay the rent which was due by Nicola Lariccia and Domenico Tonty, two of the tenants.
+Under the lease with Mrs. Notarione, the appellants claimed rent at the rate of $33 per month from December 1, 1930, to April 1, 1932, and thereafter to July 1,1933, at $31 per month. The evidence was clearly insufficient to show that Wagner made an agreement to pay all the back rent and any that might accrue in the future. John Gambatese, one of the plaintiffs, was asked: “Did he (Wagner) say anything about the whole amount that they would pay, and how soon? A. Don’t say anything about the whole amount but he only give me $18.00 and then dropped it to $15.00, which wasn’t enough to pay the rent.” The plaintiffs offered in evidence a letter written by their attorney to Pivetta, another tenant, requesting him to vacate the leased premises and demanding the rent in arrears. When this letter was shown to Wagner, he made the following memorandum thereon: “Will pay up Notarione after Jan. 1st at $18.00 H. E. Wagner 11-2-32.” If we assume there was an agreement on the part of the defendant under this lease, it was not obligated to pay more than $18 a month for the 31 months that Mrs. Notarione occupied the premises, or a total of $558. As the plaintiffs acknowledged having received from the poor board for that period the sum of $583.98, it follows that there is nothing due the plaintiffs by the defendant on account of the alleged agreement to pay the Notarione rent.
+The plaintiffs originally claimed that under an agreement with Wagner there was due on the Pivetta lease 9 months’ rental at $20 a month, subject to a credit of $28.50 received from the defendant, or $151.50. After suit was brought, Pivetta paid 4 months’ rent. The sum claimed at the trial was accordingly reduced to $71.50. Concededly, this alleged agreement was to pay the balance due on back rent. Furthermore, when Mrs. Pivetta was asked: “Did Mr. Wagner promise to pay the rent up to June 1, 1933?” she answered: “Well he didn’t say. He said he would take care of us, but he didn’t specify.”
+The alleged agreement to pay the Camino rent, interpreted in its most favorable light, was, as the appellee stated, only a promise to grant some relief in the form of rent already accrued.
+It is obvious that all these alleged agreements with Wagner were very vague and general in character. There is no proof that he promised to pay a definite amount, with the possible exception of $18 per month, on the Notarione lease, and that was paid. It would have been impossible for a jury to have liquidated the other claims; nor was the evidence sufficient to sustain any claim for future rent. Wagner, called as on cross-examination by the plaintiffs, testified, in part, as follows: “Q. Did your office, while you were a poor director, make contracts for relief extending over a period of time? A. No, sir; we were very careful not to make any promise into the future.” This testimony was not specifically contradicted.
+We have failed to find sufficient evidence to establish an express promise, and we cannot agree with the contention of the appellants that the legal duty of the poor board raised an implied promise, to reimburse them for the houses they rented to these destitute people.
+The Act of June 24, 1839, P. L. 423, 424, relating to Erie county, provides: “The said directors......to provide all things necessary for the lodging, maintenance, and employment of said poor.” The General Poor Relief Act of May 14, 1925, P. L. 762, §900 (62 PS §900), states: “It shall be the duty of the directors of every district from time to time to provide, as herein directed, for every poor person within the district having a settlement therein who shall apply to them for relief where such directors are satisfied upon investigation that such relief is necessary.” The latter act is not incompatible with the provisions of the unrepealed special act of 1839 (Com. ex rel. Graham v. Collins et al., 316 Pa. 353, 355, 175 A. 427) ; but it contemplates that an investigation shall be made before relief is furnished, after which the poor board may give orders, or make contracts, within reason, so that food, clothing, and lodging may Be had by indigents.
+But no case has been cited, and we have found none, which holds that a poor board is obligated to pay the unauthorized indebtedness of needy persons, whether discreetly or improvidently incurred. That would inevitably result in many poor districts seriously depleting, if not entirely exhausting, their resources. The spirit and intent of our poor laws is to protect and provide for the poor, not indiscriminately, but after an investigation and with due regard for the revenue available.
+In view of what has already been said, it is unnecessary to discuss and decide whether Wagner was properly delegated to enter into the agreements to pay the plaintiffs the rents due them. If we assume, arguendo, that he had the authority, the evidence offered was insufficient to establish the liability of the defendant for any part of plaintiffs’ claim.
+Judgment affirmed.
