@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 131"
+decided: "1933-10-02"
+citations: ["110 Pa. Super. 274"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Cunningham, Baldrige, Stadteeld, Parker and James, JJ."]
+parties: ["Jeske v. City of Pittsburgh, Appellant."]
+source_url: "https://static.case.law/pa-super/110/cases/0274-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 969742
+cites_cases: ["137 Pa. 361", "169 Pa. 555", "212 Pa. 151", "214 Pa. 172", "279 Pa. 389", "32 A. 548", "54 Pa. Superior Ct. 183", "60 Pa. Superior Ct. 256", "63 A. 431"]
+---
+
+# Jeske v. City of Pittsburgh
+
+## Majority (Cunningham, J.,)
+
+Opinion by
+Cunningham, J.,
+In the center of the Boulevard of the Allies, and just east of its intersection with Smithfield Street, the City of Pittsburgh, appellant herein, constructed and maintained a wooden platform for the accommodation and safety of pedestrians crossing the boulevard; it was about twenty feet long, four feet wide, and five inches high.
+On the evening of October 20,1929, Catherine Jeske, plaintiff below, preceded by her daughter and grandson, was crossing the boulevard from its southern sidewalk. As she attempted to step upon the platform, her foot caught in a hole in one of the planks forming its surface; she was thrown to the cartway along the side of the platform and injured.
+The trial of her action against the city resulted in a verdict in her favor for $1,500; the court below refused a new trial and denied defendant’s motion for judgment n. o. v.; this appeal is by the city from the judgment entered on the verdict.
+Under the single assignment of error and the statement of questions involved, the sole inquiry before us is whether the evidence justified the learned trial judge, McNaugher, J., in submitting to the jury the question of constructive notice to appellant of the existence of the defect in the island platform. Its character was thus described in the testimony of plaintiff’s daughter. “Q. Did youj observe the place where she fell? A. I did. When I went to pick her up, she still had her foot caught in the break. Q. What is the break — what do you mean? A. Why, the board that was broken, was sticking up, was broken in the middle, and the part was sticking up, and she had her foot under that. Q. That is between the plank on the top, and the sill? A. Yes.”
+The testimony upon which the trial judge submitted the question of constructive notice was that of William Jeske, one of plaintiff’s sons. In 1929 the witness was employed at night in that portion of the city known as the South Side; one of the routes frequently followed by him in returning from his place of employment was along the east side of Smithfield Street, across the boulevard, and over the platform upon which the accident occurred. He testified he observed the hole in the platform about a week before his mother was injured and that it was there on the early morning of October 17th — the last time he crossed the platform prior to the accident.
+A portion of his testimony on cross-examination reads: “Q. What condition existed on that boardwalk at four o’clock in the morning when you saw it? A. The board had been broke. Q. Did you see it? A. Yes, sir. Q. How was it broken? A. Was broken right in the center, and the edge was sticking up.. Q. How high was the edge sticking up? A. I would say about two inches, or over, from the end. Q. You could see that as you walked along there? A. Yes, sir, I could.”
+The witness testified he examined the platform the day following the accident, October 21st, and found the hole in the same condition as on the morning of the 17th; he also stated there was but one plank of the platform broken.
+Again, on redirect examination, he testified: “Q. Where was this particular board? Was it in the line of foot traffic across there or not? A. On the platform? Q. Yes. A. About the center. It was right in line, yes. Broke right in the center. Q. On a line with the pavement on each side? A. Yes, sir. Q. Was there any other board than that one broken, the day following the accident? A. No, sir, there was not. Q. Was there any evidence of any repair having been made .that day? A. No, sir.”
+Counsel for appellant emphasize the fact that only one witness testified to the length of time the defect existed prior to the accident. As stated by this court in Switzer v. Pittsburgh, 54 Pa. Superior Ct. 183, the trial judge could not disregard this testimony merely because it was not corroborated. In determining •whether a defect was of such a character as to be, of itself, notice to the authorities, the rule does not require that every passerby should actually notice it, but only that it would be noticeable to those who looked: Rosevere v. Osceola Mills Boro., 169 Pa. 555, 32 A. 548, reaffirmed in Goff v. City of Philadelphia, 214 Pa. 172, 176, 63 A. 431. The trial judge submitted the question to the jury in this manner: “To make out a case, the plaintiff had to show what I have already indicated, first, a defect, second, that the defect was the cause of the injury to the plaintiff, and, third, that the defect existed over a period of time, such that the City of Pittsburgh would be said to have had notice that the defect existed.......The question for you will be whether or not there wás constructive notice, and I say with reference to that, that if you should find that this defect complained of, not only existed on the night in question, but existed for three or four days at such a prominent intersection as Smithfield Street and the Boulevard of the Allies in the City of Pittsburgh, then you may reasonably find that there was a constructive notice to the city. In other words, while three or four days might not be long enough to attach constructive notice to the city in some infrequently used crossings, three or four days, in the opinion of the court, would be a sufficient time to bind the City of Pittsburgh at this particular crossing, frequented by many people and by a great deal of traffic.”
+Having regard to the nature and location of the defect, we agree with the following excerpt from the opinion written for the court below in support of its denial of defendant’s motion for judgment n. O. v. “It is argued that only one witness was called to show its previous existence. This might have affected the weight of the evidence but does not entitle defendant to judgment. The period of three days was ample, taking into account the place where the accident occurred, to bring constructive notice to the city.”
+Upon a careful examination of all the testimony bearing upon the proposition advanced by counsel for appellant, we are of opinion that this feature of the case was necessarily for the jury.
+Judgment affirmed.
