@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 28"
+decided: "1945-04-23"
+citations: ["157 Pa. Super. 214"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Baldrige, P. J., Rhodes, Hirt, Reno, Dithrich and Ross, JJ."]
+parties: ["Santori, Appellant, v. North Scranton Bank & Trust Company, Exr."]
+source_url: "https://static.case.law/pa-super/157/cases/0214-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1061234
+cites_cases: ["11 A. 2d 449", "139 Pa. Superior Ct. 282", "147 Pa. Superior Ct. 404", "154 Pa. Superior Ct. 437", "194 A. 893", "24 A. 2d 457", "25 A. 2d 706", "328 Pa. 273", "345 Pa. 48", "36 A. 2d 193", "96 Pa. Superior Ct. 185", "99 Pa. Superior Ct. 211"]
+---
+
+# Santori v. North Scranton Bank & Trust Co.
+
+## Majority (Baldrige, P. J.,)
+
+Opinion by
+Baldrige, P. J.,
+Plaintiff brought this action in assumpsit alleging that she had entered into an express contract with the decedent, Henry Gullen, to pay her $50 per month for nursing services, cooking and serving his meals, and keeping house, etc., and that this contract was in effect from October 15, 1937, until January 19, 1943, the date of his death. The court below determined that the evidence was insufficient to take the case to the jury as the proof in support of the alleged contract consisted of loose declarations made by the decedent and that there was a presumption of payment, which was not successfully rebutted. The court below relied principally on Hoefner v. Franklin Trust Co., Admr., 147 Pa. Superior Ct. 404, 24 A. 2d 457, as controlling this case. This appeal by the plaintiff followed.
+The record shows that in the fall of 1937, decedent owned a double house, one-half of which he and his wife occupied. The plaintiff and her family lived in the other half and were paying a rental of $15 per month.
+The plaintiff’s sister, Josephine Gallo, testified that in October 1937, on the day of the funeral of the decedent’s wife, he asked the plaintiff if she would take care of him, furnish his meals, clean the house “and everything else;” that he would pay her $50 a month and she was to give him credit of $15 for the monthly rent; that her sister consented to that proposition. She stated that later in her presence the decedent told her sister that she needn’t worry if anything happened to him as “the house was hers, and he would see that she was well taken care of if anything happened to him.”
+Anthony Buzas, who conducted a grocery store in the neighborhood where these parties lived, testified that the decedent shortly after his wife’s death told him that he was going to pay the plaintiff approximately $10 per week for cooking his meals and taking care of him, and that later, before Christmas 1941, the plaintiff and decedent came to his store and he then expressed his appreciation of the care Mrs. Santori had taken of him and said further that “if it was the last thing he done, he was going to pay her.” Again he told the witness that he was thinking of selling one of his properties and from the proceeds going to pay the plaintiff what he owed her. Although the plaintiff was not present on the last occasion, the testimony was admissible: Estate of M. W. Griffin, 96 Pa. Superior Ct. 185, 188; Heck v. Rettick, Admrs., 99 Pa. Superior Ct. 211.
+We are aware that contracts of this type are subject to close scrutiny and must be established by definite, clear, and precise evidence: Mooney’s Estate, 328 Pa. 273, 194 A. 893; Rae’s Estate, 345 Pa. 48, 25 A. 2d 706. But this testimony to which we have referred met this legal test. Of course the question of the credibility of the witnesses was for the jury’s consideration.
+There was ample testimony, not only by plaintiff’s sister, but of a neighbor, and a maid employed by the plaintiff, as well as acknowledgments made by the decedent to others, of the services plaintiff rendered. Witnesses testified that for a time the decedent took his meals at plaintiff’s house, but later she carried three meals a day to him, washed the clothes, tended to the furnace, ■took care of the house and of him. Admittedly, the plaintiff received a monthly credit of $15 for the rent, which supports the contention that there was a contract, and that she performed certain services, otherwise the credit would not have been allowed. There can be no doubt as to the sufficiency of the evidence to establish the fulfillment of her part of the alleged contract.
+The next question for consideration is whether the presumption of payment, which arises in cases brought to recover for this type of services (Bemis et ux. v. Van Pelt, Exr. et al., 139 Pa. Superior Ct. 282, 11 A. 2d 449), was successfully rebutted: Snively Estate, 154 Pa. Superior Ct. 437, 440, 36 A. 2d 193. Witnesses testified that the decedent had acknowledged on different occasions his indebtedness to the plaintiff and that he intended to pay her. This testimony cannot be completely disregarded and treated as of no probative value. We think the evidence was sufficient in quality and quantity to rebut the presumption of payment for all services rendered. Certainly, it could not be said as a matter of law that it was insufficient for that purpose. Hoefner v. Franklin Trust Co., Admr., supra, does not, in our judgment rule this case. The facts there are quite different as shown by a single statement in our opinion, p. 406: “The only evidence upon which claimant relies to sustain a recovery is oral testimony of certain alleged declarations of the decedent which at most merely express gratitude for kindness and a desire that claimant be compensated after decedent’s death.” Here the plaintiff produced evidence sufficiently clear that a definite contract existed before she performed any services. We think the court fell into error in withdrawing this case from the jury’s consideration.
+The order of the court below is reversed ahd a new trial awarded.
