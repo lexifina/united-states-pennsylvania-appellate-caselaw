@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 172"
+decided: "1946-03-05"
+citations: ["158 Pa. Super. 614"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Baldrige, P. J., Rhodes, Hirt, Reno, Dithrich, Ross and Arnold, JJ."]
+parties: ["Urbaczewski v. Urbaczewski, Appellant."]
+source_url: "https://static.case.law/pa-super/158/cases/0614-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1063331
+cites_cases: ["10 A. 2d 824", "119 Pa. Superior Ct. 538", "135 Pa. 459", "139 Pa. Superior Ct. 1", "142 Pa. Superior Ct. 512", "149 Pa. Superior Ct. 508", "153 Pa. Superior Ct. 133", "157 Pa. Superior Ct. 329", "17 A. 2d 222", "180 A. 708", "19 A. 1061", "27 A. 2d 531", "33 A. 2d 281", "49 Pa. 249", "87 Pa. Superior Ct. 543", "88 Pa. Superior Ct. 417", "95 Pa. Superior Ct. 415"]
+---
+
+# Urbaczewski v. Urbaczewski
+
+## Majority (Ross, J.,)
+
+Opinion by
+Ross, J.,
+In this divorce action the master who heard the case recommended a divorce on the grounds of desertion. The court below dismissed the respondent’s exceptions and entered a final decree, and this appeal followed. At the time of the marriage of the parties in 1931, the libel-lant and his father were making their home with libel-lant’s sister and her husband at 12 Queen Street in the City of Philadelphia. After their marriage, the parties resided in the same household until 1934, when they moved to a house which had been located and rented by the wife respondent, situated at 126 Catherine Street in Philadelphia. When the parties moved to the latter address, the libellant’s father, a man approximately 65 years of age, with the consent of the respondent, went to live with them, agreeing to pay and paying to the respondent until the time of her withdrawal from the home, the sum of $10 a week for board and lodging. On September 15, 1937, according to libellant, and September 21, 1936, according to respondent, the respondent, while the libellant and his father were at work, left the home, taking with her the furniture and household belongings, and went to live with her sister at 122 Catherine Street, where she has since resided.
+Desertion is an actual abandonment of matrimonial cohabitation, Avith an intent to desert, wilfully and maliciously persisted in, without cause for two years. The guilty intent is manifested then without cause or consent, either party withdraws from the residence of the other. Ingersoll v. Ingersoll, 49 Pa. 249. In this case there is no dispute that the respondent abandoned the matrimonial cohabitation without the consent of the libellant, and she makes no charges of misconduct of any kind against him.
+Where a desertion is conceded or appears and is Avithout legal, reasonable cause, it is presumed to be Avilful and malicious, and if persisted in for two years or more, Avill entitle the injured party to a divorce. Van Dyke v. Van Dyke, 135 Pa. 459, 19 A. 1061; Lomax v. Lomax, 87 Pa. Superior Ct. 543; Headland v. Headland, 88 Pa. Superior Ct. 417. The burden of proving-reasonable cause for her withdrawing from the matrimonial domicile was on the respondent, Mertz v. Mertz, 119 Pa. Superior Ct. 538, 180 A. 708, and only such cause as would itself warrant a divorce is a reasonable and just cause for desertion. Rosa v. Rosa, 95 Pa. Superior Ct. 415; Bates v. Bates, 153 Pa. Superior Ct. 133, 33 A. 2d 281.
+The respondent contends that libellant’s father by abusive language and unwarranted interference made it necessary for her to leave the home and that she withdrew therefrom because her husband refused to provide a home for her separate and apart from his father.
+Upon request or demand, the libellant was obligated to provide a home for the respondent separate and apart from his father if the father’s interference caused difficulty between them. Latz v. Latz, 157 Pa. Superior Ct. 329; Duchossois v. Duchossois, 139 Pa. Superior Ct. 1, 10 A. 2d 824. The father-in-law was only a boarder in the home. The record is barren of any evidence that the respondent ever unequivocally demanded that he leave; she continued to prepare his meals, accepted his weekly payments for board, obtained loans from him from time to time, and in response to the question: “Mrs. Urbaczewsld, I want to know whether you spoke to your husband’s sisters about them taking your father-in-law into their house?” answered “I didn’t feel that it was my duty”, and this, notwithstanding the fact that the father-in-law had resided with a married daughter prior to moving into respondent’s home and, in his report, the master stated that the respondent impressed him “as being far from a timid and shrinking person. On the contrary, she appeared to be assertive and resourceful”. Libellant and his father denied that the father-in-law interfered in any way in the household or that he used abusive language or offensive conduct toward the respondent. The master who saw and heard the witnesses stated that he “was not favorably impressed by the testimony of respondent or her witnesses”, and in his able and comprehensive report concludes that the respondent’s testimony was not convincing and that her actions were not in good .faith. Where the credibility of the witnesses is involved, the master’s findings of fact are entitled to the fullest consideration. Fulton v. Fulton, 142 Pa. Superior Ct. 512, 17 A. 2d 222; Isaacs v. Isaacs, 149 Pa. Superior Ct. 508, 27 A. 2d 531.
+An examination of the record in this case convinces us that there existed no legal cause for respondent’s refusing to live with the libellant and that the real reason she left him was her unwillingness to live with him and not that he would not or could not provide a separate home. The libellant is, therefore, entitled to a divorce.
+Decree affirmed.
