@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 45"
+decided: "1929-07-02"
+citations: ["96 Pa. Super. 336"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, Keller, Linn, Gawthrop, Cunningham and Baldrige, JJ."]
+parties: ["Varner, Appellant, v. Lorain Steel Company."]
+source_url: "https://static.case.law/pa-super/96/cases/0336-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 683993
+cites_cases: ["283 Pa. 492", "286 Pa. 199", "292 Pa. 509"]
+---
+
+# Varner v. Lorain Steel Co.
+
+## Majority (Keller, J.,)
+
+Opinion by
+Keller, J.,
+This is a Workmen’s Compensation case. The plaintiff was awarded compensation for the loss of his left eye, resulting from a detached retina, which it was found had been caused by a strain while lifting a heavy wooden form. The court below reversed the award on the ground that there was no competent evidence in the case that the detached retina was caused by the lifting. As stated by the learned president of that court: “The effect of our conclusion here is not to reverse or set aside any finding of fact made by the Workmen’s Compensation Board, but their legal conclusion to the effect that there was testimony to sustain the conclusion and decision which they reached.”
+It is not necessary to give in detail all the circumstances of the case, which was twice before the referee and the board to find the facts. The following resume will be sufficient for an understanding of the opinion: On April 17, 1924, the plaintiff, a carpenter employed by defendant, while using a bandsaw thought he got some sawdust in his left eye, and complained of the irritation in his eye to his foreman and the manager, by whom he was referred to an eye specialist, who found.him suffering from iritis, or inflammation of the iris, a diseased condition of the eye, not attributable to a foreign body, but caused by some constitutional condition or focal infection, and treated him for that disease. Another eye specialist, who was associated with the first mentioned physician, also examined him, made the same diagnosis and assisted in the treatment for iritis. His eye becoming worse, the plaintiff on January 21, 1925, consulted Dr. L. M. Gurley, another eye specialist, who found that the retina of his left eye had become detached, resulting in the loss of the eye for industrial purposes. The plaintiff then remembered, what he had not stated to his foreman, the manager, or either of the two physicians whom he had first consulted, that on the day he thought he had got the sawdust in his eye he had lifted a heavy wooden form, which two men usually handled, and on looking up thought he had seen a flock of birds flying above, but found they were only black spots in front of his eye. On January 28, 1925, he filed his claim petition alleging that the loss of his left eye was due to the strain from lifting the heavy form above mentioned.
+To support his case, plaintiff called Dr. Gurley as a witness. He testified that the lifting could cause the detached retina, but he would not express his professional opinion that it did cause it. This was not sufficient to sustain an award: Vorbnoff v. Mesta Machine Co., 286 Pa. 199, 206; McCrosson v. Phila. R. T. Co., 283 Pa. 492, 495; Johnston v. Payne-Yost Const. Co., 292 Pa. 509, 515. On the other hand Drs. Barker and Griffith, the physicians whom he had first consulted, testified for the defendant that the detached retina could not have been caused by the lifting, but might have resulted from the iritis from which he was suffering when they first examined him, which would also account for the floating “spots” on the inside of his eye; and Dr. Griffith testified that the retina was not detached when he examined and treated the plaintiff from April 19th to April 25, 1924.
+An eye specialist, originally called in by the referee as a disinterested expert witness, testified on the second hearing, but his evidence was too contradictory to sustain the burden resting on the claimant. In answer to a hypothetical question, which, by the way, omitted all reference to Dr. Griffith’s statement that the plaintiff’s retina was not detached when he examined it shortly after the alleged lifting, and to the evidence of Drs. Barker and Griffith that plaintiff was then suffering from iritis, said that the lifting “could he a probable cause; I would not say it [was] the most probable! It could be a probable cause of the detached retina.” Counsel for plaintiff then asked him: “Well, Doctor, expressing your opinion in this particular case are you willing to state that this lifting was the probable cause of the detachment?” and he replied: “I would say it was the most probable cause.” This is not only inconsistent and contradictory, but it falls short of the requirements contained in the latest pronouncements of our Supreme Court. Though no particular form of words need be used, our Supreme Court has ruled that where the connection between the alleged accident and the disability for which claim is made is dependent on the expert testimony of physicians, the effect of their evidence to sustain an award must be that in their professional opinion the result in question did come from the cause alleged; evidence that the result most probably might have come from the cause alleged is not enough: McCrosson v. Phila. R. T. Co., supra; Vorbnoff v. Mesta Machine Co., supra; Johnston v. Payne-Yost Const. Co., supra.
+We agree with the learned court below that there was no competent evidence in the case to sustain the finding and award of the Workmen’s Compensation Board, and therefore affirm the judgment of the common pleas.
+As the case was referred back to the board once before for additional findings it is not necessary to do so again.
+Judgement affirmed.
