@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1056 C.D. 1981"
+decided: "1982-11-04"
+citations: ["69 Pa. Commw. 530"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogers, MacPhail and Doyle, sitting as a panel of three."]
+parties: ["Mary Shirley Moyer, Petitioner v. Workmen’s Compensation Appeal Board (W. F. Hofford, Inc.), Respondents."]
+source_url: "https://static.case.law/pa-commw/69/cases/0530-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8733012
+---
+
+# Moyer v. Workmen's Compensation Appeal Board
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+The claimant in this workmen’s compensation case suffered a work-related injury on April 27, 1966. She received compensation under agreements for both total disability and partial disability for various periods of time between 1966 and 1975. She received a last payment of compensation pursuant to Section 306(b) of Workmen’s Compensation Law, 77 P.S. §512 relating to partial disability on August 16, 1975.
+Section 306(h), 77 P.S. §583, was added to the Pennsylvania Workmen’s Compensation Act, Act of June 2, 1915, P.L. 736, by Section 11 of the Act of December 5, 1974, P.L. 782 and became effective July 1, 1975. This provides as follows:
+Any person receiving compensation under sections 306(a), 306(b), 306(c) (23), or section 307, as a result of an accident which occurred prior to the effective date of the amendatory act of January 17, 1968 (P.L. 6, No. 4) shall have the compensation rate adjusted to the level they would have received had the injury occurred on the effective date of the amenda-tory act of January 17, 1968 (P.L. 6, No. 4) and had the injured employe been earning wages equal to ninety dollary ($90) per week. The additional compensation shall be paid by the self-insured employer or insurance carrier making payment and shall be reimbursed in advance by the Commonwealth on a quarterly basis as provided in rules and regulations of the department. The payment of additional compensation shall be made by the carrier or self-insured employer only during those fiscal years for which appropriations are made to cover reimbursement.
+Pursuant to this enactment, the claimant’s employer’s insurance carrier paid her $236.68 on June 8, 1976.
+On September 11, 1978, a date within three years from the payment of compensation on June 8, 1976 but more than three years after the next earlier payment, August 16, 1975, the claimant filed a petition for reinstatement of compensation, alleging that she was now totally disabled. In answer, the employer alleged that the petition was not filed within the three year statutory period after August 16, 1975, and was therefore untimely, citing Section 413(a) of The Pennsylvania Workmen’s Compensation Act, Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §772.
+A hearing was held before a referee, who dismissed the petition because, as he viewed the matter, the petition was not filed within three years after the most recent payment of compensation, that is, within three years from the payment made August 16, 1975. The Workmen’s Compensation Appeal Board affirmed the referee’s decision, writing:
+the additional compensation provided by [Section 306(h)] was to be paid by the employer or insurance carrier, but was to be reimbursed in advance by the Commonwealth. Obviously, such increased payments were actually payments by the Commonwealth to give the claimants additional compensation, and the employer and insurance carrier were merely a conduit for the mechanics of the payment.
+We disagree with this resolution of the matter. Section 413(a) of the Act, 77 P.S. §772, reads:
+A referee designated by the department may, at any time, modify, reinstate, suspend, or terminate a notice of compensation payable, an original or supplemental agreement or an award of the department or its referee, upon petition filed by either party with the department, upon proof that the disability of an injured employe has increased, decreased, recurred, or has temporarily or finally ceased, or that the status of any dependent has changed. Such modification, reinstatement, suspension, or termination shall be made as of the date upon which it is shown that the disability of the injured employe has increased, decreased, recurred, or has temporarily or finally ceased, or upon which it is shown that the status of any dependent has changed: Provided, That, except in the case of eye injuries, no notice of compensation payable, agreement or award shall be reviewed, or modified, or reinstated, unless a petition is filed with the department within three years after the date of the most recent payment of compensation made prior to the filing of such petition: And provided further, That any payment made under an established plan or policy of insurance for the payment of benefits on account of nonoccupational illness or injury and which payment is identified as not being workmen’s compensation shall not be considered to be payment in lieu of workmen’s compensation, and such payment shall not toll the running of the Statute of Limitations.
+We hold that the compensation paid Moyer by the insurance carrier on June 8, 1976 pursuant to the adjustment of the rate of compensation made by Section 306(h) was the most recent payment of compensation and that her petition filed within three years after that date of payment was timely.
+Except for enlargements of the time for filing petitions for reinstatement, Section 413(a) of The Pennsylvania Workmen’s Compensation Act has remained materially unchanged since 1927. Section 306(h), as noted, was added by amendment to the Act in 1975, effective July 1, 1975. The Statutory Construction Act of 1972 provides that whenever a part of a statute is amended “the amendment shall be construed as merging with the original statute, become a part thereof, ... and the remainder of the original and the amendment shall be read together and viewed as one statute passed at one time.” 1 Pa. C. S. §1953. So viewing the Act, we find it clear that the payments provided by Section 306(h), being worker’s compensation on account of occupational injuries, “are payments] of compensation” for the purpose of Section 413(a)’s requirement that petitions for reinstatement must be filed within three years after the date of the most recent such payment. We see no merit at all in the thesis that, because the source of the Section 306(h) funding is the State instead of employers or their carriers, the legislature intended that such payments should not extend the time for filing petitions under Section 413(c); indeed, so apparent is the effect that Section 306(h) payments have on the time for filing Section 413(a) petitions it seems easier to infer from the failure of the legislature expressly to prevent the tolling of the statute that it intended the result we here reach.
+Furthermore, the second proviso of Section 413(a) tells us that payments of benefits for nonoccupational injuries will not toll the statute, suggesting that Section 306(h) benefits for occupational injuries should have the opposite effect.
+Order reversed, remanded for further proceedings on the merits.
+Order
+And Now, this 4th day of November, 1982, the order of the Workmen’s Compensation Appeal Board and the referee is reversed. The case is remanded for further proceedings on the merits.
+Judge MacPhail dissents.
