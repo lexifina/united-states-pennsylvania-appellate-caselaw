@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 56"
+decided: "1944-04-11"
+citations: ["154 Pa. Super. 591"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Kelleb, P. J., Rhodes, Hiet, Kenwoethey, Reno and James, JJ. (Baldbige, J., absent)."]
+parties: ["Commonwealth ex rel. Kolish v. Kolish, Appellant."]
+source_url: "https://static.case.law/pa-super/154/cases/0591-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1053823
+cites_cases: ["109 Pa. Superior Ct. 388", "142 Pa. Superior Ct. 140", "143 Pa. Superior Ct. 50", "148 A. 311", "148 A. 498", "15 A. 2d 539", "153 Pa. Superior Ct. 529", "167 A. 244", "17 A. 2d 738", "179 A. 599", "185 Pa. 208", "298 Pa. 319", "298 Pa. 384", "319 Pa. 309", "34 A. 2d 326", "39 A. 890", "92 Pa. Superior Ct. 275"]
+---
+
+# Commonwealth ex rel. Kolish v. Kolish
+
+## Majority (Rhodes, J.,)
+
+Opinion by
+Rhodes, J.,
+This is an appeal from an order of support. Appellee presented to the court below her petition for support in which she alleged that she was the wife of appellant by virtue of a common law marriage; that they had lived together thereafter as husband and wife for eleven years; and that appellant had deserted her without reasonable cause. No answer was filed to the petition. The court below made an order requiring appellant to pay appellee the sum of $6 per week.
+The scope of an appeal is limited to the statement of questions involved, and only assignments of error encompassed therein may be considered. Com. v. Cauffiel, 298 Pa. 319, 148 A. 311; West Penn Railways Co. v. Pennsylvania Public Utility Commission, 142 Pa. Superior Ct. 140, 145, 15 A. 2d 539.
+It follows that our first duty in the present case is to ascertain whether there was evidence to sustain the order of the court, which was based upon a finding that the parties entered into a valid common law contract of marriage. It is not denied that appellant deserted appellee on September 24, 1943, and that he has failed to support her since that time. The material question is whether, under the evidence, the court below was justified in finding that there was a common law marriage between the parties. Whether one person has been legally married .to another is a mixed question of fact and law. Baker v. Mitchell et al., 143 Pa. Superior Ct. 50, 55, 17 A. 2d 738, 741. There was testimony that appellee, while visiting appellant at the home of his-sister in Philadelphia in May, 1932, entered into a marriage contract with appellant at his suggestion. The parties had known each other for some time. Concerning the marriage contract appellee testified: “A. Well, he liked me, he loved me and I loved him, then one night he asked me if I would marry him and I said yes. Q. Then what happened? A. Then he said not by a minister. I said what do you mean. He said ‘I take you tú be my wife.’ I said ‘I take you to be my husband.’ He said we have to keep this a secret, we would only tell his sister about it.” They then went to the home of appellee’s sister in New Jersey to live, and there the marital relationship was first established. Sometime thereafter they returned to Philadelphia and lived with her people for two weeks, and then lived together in their own home. They continued to live as husband and wife for eleven years prior to the desertion. Appellant took out policies of insurance and named appellee as his wife. He bought war bonds in a similar manner. They introduced each other as husband and wife to members of their respective families, to neighbors, and to others. They had a charge account in their joint names, and a lease for the. apartment was executed by them as husband and wife. Appellant applied for public relief and represented that appellee was his wife. There was corroborative testimony as to reputation and cohabitation.
+Appellant’s testimony is in part a denial, but he did not deny that to all outward appearances they lived as husband and wife, that he introduced her as such among his friends, and that in July, 1943, he stated to his draft board that he was married.
+This evidence was in itself sufficient to sustain a finding that the parties had entered into a common law marriage upon which the order of support rests. Appellant urges the proposition that the court below should not have accepted appellee’s testimony as to the agreement which is disputed by appellant. This suggestion ignores the realities of the situation. The court below stated that it believed the testimony of appellee to be credible. The evidence of cohabitation and reputation could be received and considered in corroboration of her testimony that a marriage contract was in fact entered into. Murdock’s Estate, 92 Pa. Superior Ct. 275, 277. The evidence consequently justified a finding that a contract of marriage, per verba de praesenti, was entered into by appellant and appellee in May, 1932, and that they lived together thereafter as husband and wife until he deserted her on September 24, 1943. Goldman’s Estate, 109 Pa. Superior Ct. 388, 390, 167 A. 244; Baker v. Mitchell et al., supra, p. 53; Wydra v. Philadelphia & Reading Coal & Iron Co., 153 Pa. Superior Ct. 529, 34 A. 2d 326; McGrath’s Estate, 319 Pa. 309, 314, 179 A. 599; Brown v. James F. Nolen & Son et al., 298 Pa. 384, 148 A. 498; Comly’s Estate, 185 Pa. 208, 39 A. 890.
+Appellant complains that the court below unduly limited the cross-examination of appellee as to hospital treatment at the time she met appellant. As a matter of fact, further cross-examination elicited from appellee a negative answer to that which counsel for appellant apparently sought to establish. We find no such error as would justify us in setting aside the court’s finding and order.
+Order is affirmed.
