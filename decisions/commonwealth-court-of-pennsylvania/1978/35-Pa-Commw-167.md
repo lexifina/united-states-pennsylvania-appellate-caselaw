@@ -1,0 +1,34 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1897 C.D. 1976"
+decided: "1978-05-02"
+citations: ["35 Pa. Commw. 167"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Wilkinson, Jr., Blatt and DiSalle, sitting as a panel of three."]
+parties: ["West Bradford Township, Appellant v. Henson Evans, Jr. and Mary C. Evans, His Wife, and the Zoning Hearing Board of West Bradford Township, Appellees."]
+source_url: "https://static.case.law/pa-commw/35/cases/0167-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1885876
+cites_cases: ["138 A.2d 681", "22 Pa. Commonwealth Ct. 365", "263 A.2d 426", "31 Pa. Commonwealth Ct. 366", "349 A.2d 61", "358 Pa. 636", "376 A.2d 286", "391 Pa. 387", "437 Pa. 481", "57 A.2d 862"]
+---
+
+# West Bradford Township v. Evans
+
+## Majority (Judge Wilkinson, Jr.,)
+
+Opinion by
+Judge Wilkinson, Jr.,
+West Bradford Township (Township) appeals to this Court from a decision of the Court of Common Pleas of Chester County which affirmed the Township Zoning Hearing Board’s (Board) decision to grant a variance to the appellees. We affirm.
+Appellees own two tracts of land in the Township village known as Marshallton. These tracts are located in a commercial district possessing a one acre minimum lot size requirement. Lot number one encompasses between five and six acres of land, and has 021 it a house and a barn. Appellees reside on this tract of land. Lot number two, which contains .847 acres, has on it a duplex dwelling, a garage and a swimming pool. Lot number two is “L-shaped,” with a narrow frontage and a rear yard which widens out and runs the width of two other lots, numbers three and four, located to the east of lot number two. The rear yard of lot number two abuts on the rear portion of the west side of lot number one. Lots three and four separate the front portions of lot number one and lot number two.
+Appellees went before the Township Board of Supervisors to ask for permission to subdivide lot number two into two smaller lots. One of these smaller lots would contain .5 acres and would include the duplex, the garage and the swimming pool. The other lot would contain .347 acres, and would be completely open space. Appellees wanted to retain the .347 acre tract, while remaining free to convey the .5 acre tract. The Supervisors denied the requested subdivision, due mainly to possible sewage problems arising from the lack of public sewage.
+The appellees then went before the Board to request a variance, and a hearing was held. The record developed at the hearing demonstrates that appellees desire to retain as open space the .347 acre tract, which is the portion of lot number two which adjoins lot number one. Appellees currently use this portion of lot number two for a garden. Appellees informed the Board that they would be willing to refrain from building on the .347 acre tract, and further that they would be willing to burden this tract with a sewage easement in favor of the .5 acre tract. Based on this record, the Board granted the requested variance, but expressly incorporated into the grant a number of conditions, including a restriction against building on the .347 acre tract without prior approval from the Board or its successor, and also requiring that the .347 acre tract be burdened with a sewage easement in favor of the .5 acre tract until such time as public sewage becomes available.
+On appeal, the lower court affirmed the grant of a variance. In so doing, the lower court recognized that this was not the typical variance case. It relied on those Supreme Court cases which have held that where the requested variance is “de minimis,” it will be granted even though the traditional grounds for a variance may not have been met. See Pyzdrowski v. Pittsburgh Board of Adjustment, 437 Pa. 481, 263 A.2d 426 (1970). We agree with the lower court that the rationale underlying the “de minimis” rule is applicable to the instant case.
+We recognize that those cases wherein this rule •has previously been applied are, on a factual basis, somewhat different from the case presently before us, and further that on several occasions this Court has decided against applying the “de minimis” rule. See Ottaviano v. Zoning Board of Adjustment, 31 Pa. Commonwealth Ct. 366, 376 A.2d 286 (1977); Gottlieb v. Zoning Hearing Board, 22 Pa. Commonwealth Ct. 365, 349 A.2d 61 (1975). Still, we believe there are compelling reasons in favor of granting the variance requested by the appellees.
+First, the major objection raised by the appellant-Township relates to the sewage problems that could arise on the .5 acre tract due to the lack of public sewage. This objection is cured, however, by the express. conditions attached to the grant of the variance, which require that a sewage easement be created in favor of the .5 acre tract and against the .347 acre tract. Second, because tbe expressed purpose of tbe requested variance, as evidenced by the conditions attached to it, is to maintain the .347 acre tract as open land, the grant of the variance in this case will clearly further the public health, safety and welfare. Third, we believe that the following quote from Section 6.2.1 of Ryan, Pennsylvania Zoning Law and Practice (Supp. 1976), which refers to the Pysdrowshi case, supra, and which was cited by the lower court, supports our decision here:
+This case indicates that a zoning board may have power to grant a variance where the variance sought is ‘de minimis’ and the public interest is not affected, even though the traditional grounds for a variance have not been established. This makes sense, for there is no invasion of the legislative function in a minor dimensional variance of the type involved in the Pyzdrowski decision. It would seem appropriate, however, for the courts to leave the question of whether to grant such variances to the zoning boards.
+In closing, we wish to emphasize that this is a rather unique case, and should not be construed as the beginning of a marked departure from the traditional law of variances. In the typical case the party seeking a variance carries a very heavy burden, and must show that unless the variance is granted he will suffer unnecessary hardship. Only in rare instances, such as the present one, will this Court refrain from applying the traditional requirements for a variance. Accordingly, we will enter the following
+Order
+And Now, May 2, 1978, the decision of the Court of Common Pleas of Chester County, at No. 136 October Term, 1975, dated July 1, 1977, is affirmed.
+In addition to Pyzdrowski, supra, the other cases wherein this rule has been applied are Moyerman v. Glanzberg, 391 Pa. 387, 138 A.2d 681 (1958), and Crawford Zoning Case, 358 Pa. 636, 57 A.2d 862 (1948).
