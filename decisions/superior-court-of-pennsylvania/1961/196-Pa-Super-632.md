@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 319"
+decided: "1961-12-14"
+citations: ["196 Pa. Super. 632"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, Wright, Woodside, Watkins, Montgomery, and Flood, JJ. (Rhodes, P. J., absent).", "Before Flick, Jr., P. J."]
+parties: ["Commonwealth ex rel. Wert (et al., Appellant), v. Long."]
+source_url: "https://static.case.law/pa-super/196/cases/0632-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 754798
+cites_cases: ["103 A. 2d 480", "115 A. 2d 753", "145 A. 2d 732", "148 A. 524", "149 A. 2d 644", "163 A. 2d 673", "168 Pa. Superior Ct. 427", "175 Pa. Superior Ct. 157", "178 Pa. Superior Ct. 428", "188 Pa. Superior Ct. 95", "193 Pa. Superior Ct. 193", "298 Pa. 416", "395 Pa. 187", "79 A. 2d 126"]
+---
+
+# Commonwealth ex rel. Wert v. Long
+
+## Majority (Montgomery, J.,)
+
+Opinion by
+Montgomery, J.,
+This is an appeal from an order granting custody of two minor children, Robin Wert and John Wert, to their mother, Donna Long, the appellee. The action was commenced by a petition for a writ of habeas corpus in the Common Pleas Court of Warren County which directed the appellee to produce the two minor children and to show cause why the said children should not be delivered into the custody of their father, the appellant.
+Prior to the hearing as to custody, there was a legal argument as to which party had the burden of proof. The lower court ruled that custody had been restored to the father and that the mother had the burden of showing that he is not the proper person with whom the children should live. Testimony in support of the mother was given by: her present husband; their landlady, who lives next door and is in the mother’s house every day; a neighbor who resided ten houses away, who has children the same age as the Wert children and saw the Wert children almost every day; and the minister of the church attended by the mother and her present husband.
+Those who testified in support of the father knew the parties before their marriage and afterward, until their separation, but knew nothing of the mother’s present home in Bradford, Pennsylvania.
+The testimony shows that the parties were married August 21, 1955. They lived several different places and finally in a house in Clarendon which John C. Wert acquired from his father, and where he still lives. He had always been a hard worker, holding down two jobs, but she complained that he only came home to eat and sleep. He testified that she quarreled with him, threw things at him, and that he preferred working to going home. She left him three times before the final time on September 21, 1958. She testified that three or four months after their marriage he started coming home drunk, beat her up, and she left him, came back, and subsequently after quarrels left him again and only returned after discovering she was pregnant. After the birth of the second child, she arranged to have Virginia Eck take care of both children. That Virginia Eck was proficient in her duties and that she thought highly of the children is undisputed.
+In September 1958, the mother spoke to her husband’s parents, who agreed to see that the children were well cared for until she could do something about it. She left home to live with Frank Long, an acquaintance of whom she had become very fond. They have lived together ever since and have had two children. Appellant divorced her in July 1960, and she married Frank Long the following September. She subsequently maintained fairly close contact with the Wert children, calling them and visiting them frequently.
+On March 5, 1961 the mother and her second husband drove to the Wert home and took the children for a ride, promising to return them in two hours. The children were taken to the Long home in Bradford, where they have since lived. When the father requested their return and was refused, he commenced this action.
+It has been frequently held that in the absence of compelling reasons, the welfare of children of tender age is best promoted by giving custody to their mother. Urbani v. Bates, 395 Pa. 187, 149 A. 2d 644; Commonwealth ex rel. Gervasio v. Gervasio, 188 Pa. Superior Ct. 95, 145 A. 2d 732; Commonwealth ex rel. Sablosky v. Sablosky, 178 Pa. Superior Ct. 428, 115 A. 2d 753. Infidelity does not constitute a compelling reason for denial of the custody of children under six or seven years of age. Commonwealth ex rel. Blatt v. Blatt, 168 Pa. Superior Ct. 427, 79 A. 2d 126.
+The testimony against the mother, except for that of the father and his housekeeper, concerned events which happened two or more years prior to the hearing. As noted by the lower court, neither the father or any of his witnesses knew anything about the mother’s home in Bradford. All of the evidence concerning the mother’s home was uncontradicted. The mother’s witnesses impressed the court as being not only truthful, but persons of high standards, capable of exercising good judgment in assessing the present character of the mother and her husband. The court concluded that since her marriage to Frank Long the mother and her present husband have lived a reasonably good and respectable life.
+The court below observed all the witnesses personally and spoke to the children, who are the subject of this dispute. Although we are not bound thereby, this Court will give great weight to the findings of the hearing judge who had full opportunity to pass upon the ability and character of each parent and the credibility of their respective witnesses. Commonwealth ex rel. Maines v. McCandless, 175 Pa. Superior Ct. 157, 103 A. 2d 480.
+We conclude therefore, that the fitness of the mother at the present time, the stability and respectability of her domestic relations with Mr. Long, the comparative desirability of her home, all of which have been established by uncontradicted testimony, and the tender age of the children, qualify the mother to be the proper parent to whom the custody of these children should be entrusted at the present time. Her past misconduct is too remote under the circumstances to constitute a present compelling reason for the denial of custody. The controlling factor in cases of this nature is the welfare of the child at the time of the custody hearing and not at some former time. Commonwealth ex rel. v. Daven, 298 Pa. 416, 148 A. 524; Commonwealth ex rel. Horan v. Horan, 193 Pa. Superior Ct. 193, 163 A. 2d 673.
+Although a dispute as to the jurisdiction of the Warren County Court to entertain this matter was mentioned at the oral argument, no such issue has been stated in the “Questions Involved” or in the briefs of either counsel. We have not discussed it herein for that reason.
+Order affirmed.
