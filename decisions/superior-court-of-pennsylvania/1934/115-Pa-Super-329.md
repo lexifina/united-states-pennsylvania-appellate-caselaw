@@ -1,0 +1,37 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 264"
+decided: "1934-12-18"
+citations: ["115 Pa. Super. 329"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Teexleb, P. J., Ejellee, CunrrirrGHAM, Baldeige, Stadteeld, Paekeb and James, JJ."]
+parties: ["Adolph Bergman Building & Loan Association v. Blaul et al., Appellants."]
+source_url: "https://static.case.law/pa-super/115/cases/0329-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 977414
+cites_cases: ["108 Pa. Superior Ct. 197", "141 A. 302", "164 A. 143", "165 A. 405", "169 Ill. 517", "184 Pa. 318", "205 Pa. 229", "212 Pa. 165", "235 Pa. 194", "243 Pa. 253", "292 Pa. 476", "311 Pa. 169", "54 A. 901", "61 A. 799", "83 A. 622", "90 A. 69"]
+---
+
+# Adolph Bergman Building & Loan Ass'n v. Blaul
+
+## Majority (Stadtfeld, J.,)
+
+Opinion by
+Stadtfeld, J.,
+This is an appeal by Germantown Trust Company, from the order of the lower court making absolute a rule for judgment against it as garnishee for want of sufficient answers to interrogatories in attachment execution on a judgment of Adolph Bergman Building & Loan Association v. Louis A. Blaul and Mabel L. Blaul.
+On November 24, 1933, plaintiff entered judgment against defendants on a bond and warrant secured by a mortgage on which the latter were in default. On January 24,1934, plaintiff issued an attachment execution against the defendants and summoned the Germantown Trust Company, garnishee.
+In answer to the interrogatories filed by the plaintiff, the garnishee admits that there is a balance of $221.68 to the credit of Mabel L. Blaul on deposit account. The garnishee further answered that the defendant,-“"Mabel L. Blaul, is indebted to the garnishee in'the sum of $1,000, on two demand notes in the sum of $500 each, dated January 13, 1932, and August 23, 1933, respectively. As security the garnishee holds collateral of three bonds totalling in face value $3,000.
+The note of January 13, 1932, expressly provides: “It being further understood and agreed that said holder shall have a like lien upon any and all funds, moneys, balances, stocks, bonds, notes and other property at any time in the hands of said holder belonging to the undersigned, or any endorser or guarantor hereof, as security for this note and for any and all liability or liabilities, to said holder, matured or unmatured, or that may be hereafter contracted, whether direct or contingent and whether now or hereafter acquired, of the undersigned or any endorser or guarantor hereof; which lien shall be enforceable in like manner and shall be subject to all the provisions herein above and before mentioned and set out.”
+The note dated August 23, 1933, recites: “It is also agreed that said company shall have a lien upon all funds, moneys, balances, stocks, bonds, notes and other property, real or personal, at any time in its possession belonging to maker, for the payment of this note and any other of maker’s obligations to said company, matured or unmatured, or that may be hereafter contracted.”
+The garnishee avers that under the wording of the notes it has a lien upon the deposit account as well as upon the collateral securing the notes, ¡and that since the service of the writ of attachment the garnishee has been notified by Mary C. Blaul that the bonds totalling $3,000 face value belong to and are the property of Mary C. Blaul. In Landberg v. Equitable Investment Co., 292 Pa. 476, 141 A. 302, it was held, that where a person holds two securities for a debt, he is “not required to pursue one of the securities, and could avail itself of either as long as the debt remained unpaid: Jennings v. Loeffler, 184 Pa. 318.” That feature, therefore, is not involved in the decision of the main question in this case.
+Both notes are demand notes and therefore due upon the execution thereof, and the statute of limitations begins to run immediately: Cook v. Carpenter, 212 Pa. 165, 61 A. 799; Valiant Co. v. Pleasanton & Pa. Co. for Ins., etc., 108 Pa. Superior Ct. 197, 164 A. 143; Dominion Trust Co. v. Hildner, 243 Pa. 253, 90 A. 69. The indebtedness of the defendant to the garnishee being due, the latter could have enforced its lien at any time. The attachment issued January 24, 1934, two years after the date of the first note, and four months after the date of the second note. It does not appear that any demand had been made by the garnishee upon the maker of the notes for payment thereof.
+Appellant contends that by virtue of the' conditions in the notes held by it, it had a lien upon the deposit account of defendant which no third party could disturb, and that an attaching creditor would only be entitled to what is left in defendant’s interest in the deposit after appellant had enforced its rights which existed when the writ of attachment issued.
+Appellant permitted the account of defendant depositor to remain subject to her dominion and control during all the time appellant held the depositor’s demand notes. When the attachment execution was served, the fund still stood to the credit of the defendant depositor, and subject to her right to cheek against it, as no appropriation of it had been made by the bank.
+If the bank should be permitted to assert a lien under such circumstances, it would open the door to fraud and collusion by means of which a depositor could protect his bank account from just claims of his creditors by giving his bank a right of lien on his deposit account, and yet the bank allow the depositor absolute control of the account and check against it, and the bank not assert its right until after an attachment had been served on it. No court should lend its aid to a construction productive of such results.
+As stated in the opinion of the lower court, by Davis, P. J.: “The failure of the trust company garnishee to exercise its right to call the loan raises the question of estoppel. In Morse on Banks and Banking, Section 330, it was stated: ‘A bank is estopped from asserting its lien when it fails to exercise its right until rights of third persons have intervened.’ In Callahan v. Bank of Anderson, 69 South Carolina 374, it was held: ‘If the bank fails to notify the depositor that it exercised its right of lien until rights of third persons have intervened, then bank is estopped from exercising said rights afterward.’ ”
+In William C. Niblack v. The Park Nat. Bank of Chicago, 169 Ill. 517, it was held that when the rights of third parties have intervened, a banker’s lien for money loaned does not extend to money deposited with him by the debtor to be dealt with according to the usages and customs of banks.
+The language of Mr. Justice Maxey, in Gernerd, Tr., v. Union Indemnity, 311 Pa. 169, 173, 165 A. 405, is most pertinent: “ ‘When a vendee, or a pledgee, takes title to personal property, without taking possession of it, he takes the risk of the integrity and solvency of his vendor, or pledgor, when the rights of subsequent bona fide purchasers, or of levying creditors, arise: White v. Gunn, 205 Pa. 229, 54 A. 901’: Bank of N. A. v. Penn M. C. Co., 235 Pa. 194, 198, 83 A. 622.”
+While some other state jurisdictions, as also Federal Courts, have held otherwise, we believe the conclusion of the lower court in this case is most consistent with equitable principles.
+The assignments of error are overruled and judgment affirmed.
