@@ -1,0 +1,19 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 743"
+decided: "1967-02-15"
+citations: ["209 Pa. Super. 729"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth ex rel. McKnight, Appellant, v. Rundle."]
+source_url: "https://static.case.law/pa-super/209/cases/0729-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 777816
+---
+
+# Commonwealth ex rel. McKnight v. Rundle
+
+## Majority
+
+Order affirmed.
