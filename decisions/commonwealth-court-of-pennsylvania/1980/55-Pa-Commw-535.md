@@ -1,0 +1,47 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2398 C.D. 1979"
+decided: "1980-12-22"
+citations: ["55 Pa. Commw. 535"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail, Williams, Jr. and Palladino, sitting as a panel of three."]
+parties: ["Julia B. Cook, Carl H. Huber and Mabel Huber, His Wife, Michael B. Bradley and Joan P. Bradley, His Wife, Appellants v. Marple Township Zoning Hearing Board and Hardie Beloff, Apellees."]
+source_url: "https://static.case.law/pa-commw/55/cases/0535-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1915831
+cites_cases: ["19 Pa. Commonwealth Ct. 367", "23 Pa. Commonwealth Ct. 12", "298 A.2d 664", "339 A.2d 650", "350 A.2d 419", "39 Pa. Commonwealth Ct. 570", "397 A.2d 15", "414 A.2d 718", "51 Pa. Commonwealth Ct. 267", "7 Pa. Commonwealth Ct. 284"]
+---
+
+# Cook v. Marple Township Zoning Hearing Board
+
+## Majority (Judge Palladino,)
+
+Opinion by
+Judge Palladino,
+This is an appeal from an Order of the Court of Common Pleas of Delaware County, affirming the granting of a special exception by the Marple Township Zoning Hearing Board (Board) to the applicant to construct and operate a private raequetball club in an R-l Residential District. It is undisputed that the club will be a profit oriented venture with a limited membership subject to certain conditions set out by the Board below.
+Appellants are three contiguous landowners to the tract in question. The individual appellee is the equitable owner (under an agreement of sale) of the tract and applicant for the special exception.
+The appellants contend (1) that the Board failed to properly notify them or the Marple Summit Civic Association of public hearings conducted prior to the granting of the special exception; (2) that the Board erred in allowing an individual to apply for a special exception on behalf of a non-existent club; and (3) that the Board erred in concluding that a profit motivated endeavor was intended to qualify as a “club” within the meaning of the Marple Township Zoning Ordinance (Ordinance).
+We hold the appellants’ contentions to be without merit.
+Our scope of review is limited to a determination as to whether the Board abused its discretion or committed an error of law in its Findings of Fact or Conclusions of Law. Fotomat Corp. v. Zoning Hearing Board of Upper Dublin Township, 51 Pa. Commonwealth Ct. 267, 414 A.2d 718 (1980); Jones v. Zoning Hearing Board, 7 Pa. Commonwealth Ct. 284, 298 A.2d 664 (1972).
+Section 85-120 of the Ordinance provides for notice of public hearings concerning an application for special exception in pertinent part as follows:
+A. By publishing a notice thereof once a week for two (2) successive weeks in a newspaper of general circulation in the township and published in the county.
+C. By mailing a notice thereof to every resident or association of residents of the township, or other interested party, who shall have registered their names and addresses for this purpose with the Board....
+D. When the Board . . . shall so order, by mailing or delivering a notice thereof to the owner, if his residence is known, and to the occupier of every lot on the same street within five hundred (500) feet of the lot or building in question, and of every lot not on the same street within one hundred fifty (150) feet of said lot or building; provided, that failure to give the notice required by this paragraph shall not invalidate any action taken by the Board____ (Emphasis added.)
+Although the appellants are adjacent landowners in this case, the Board is not obligated to provide them with individual notice. The Ordinance specifically states that contiguous landowners are entitled to notice only when the Board “shall so order” or when they “shall have registered their names and addresses for this purpose with the Board.” There is no evidence in the record that the Board entered an order providing for such notice or that the appellants had properly registered with the Board for the purpose of receiving individual notification of public hearings. As such, the proper publication by the Board of notice of the public hearings in a newspaper of general circulation in Marple Township was sufficient under the Zoning Ordinance. Furthermore, the fact that the Marple Township Civic Association was not notified of the hearings is of no consequence here since the Association is not a party to this appeal, nor was it a party before the court below.
+Appellants’ second contention is that an individual should not be allowed to apply for a special exception on behalf of a non-existent club.
+Very simply the issue resolves itself into a determination of whether the use for which the special exception is sought must actually exist as a legal entity prior to the application for the exception.
+Appellants rely on Springton Tennis and Racquet Club v. Marple Township Zoning Hearing Board, 65 D. & C. 2d 546 (1974), for the proposition that a legal entity is an indispensable party to the proceeding to secure a special exception under the Ordinance. "While the court in that case found that the applicant for the exception was in fact a Pennsylvania nonprofit corporation, it did not conclude that the club must be the applicant, or that the club must be a legal entity in order to be granted a special exception. We can find no language in the Ordinance which prohibits an individual from applying for a special exception on behalf of a club which is to be organized at a future date upon the Board’s approval of the application. If the individual applicant fails to organize the club according to the regulations and conditions set out by the Board, the Board has the authority “to prevent the occupancy of said building, structure or land,” pending compliance with the applicable conditions.
+Appellants’ final contention is that the Board erred in concluding that a profit oriented club qualifies for a special exception under the Ordinance.
+Section 85-10 of the Ordinance provides in pertinent part that in an R-l Residential District permitted uses of the land include: “(C.) Club, fraternity house, lodge, animal farm, public stable or riding academy, when authorized as a special exception.”
+The major thrust of appellants’ argument lies in their interpretation of another provision of the Ordinance dealing with special exceptions which states in part at Section 85-124 that: “(B.) Nonprofit club, fraternity house, lodge, animal farm, public stable or riding. academy in residential districts shall be permitted only under the following limitations. . . . ’•’
+Appellants maintain that the above sections must be construed together and that the legislative intent was to restrict special exceptions to “non-profit clubs. ”
+The term “club” is not defined in the Ordinance. That being the case, the term must be taken in the broadest sense so as to accord the applicant the benefit of the least restricted use and enjoyment of his land; Wojtowicz v. Zoning Hearing Board of Hanover Township, 23 Pa. Commonwealth Ct. 12, 350 A.2d 419 (1976). While we concede that the use of terms “club” and “non-profit club” in different sections of the Ordinance might cause confusion in determining the scope of a permitted use, it has been the rule of this Court to resolve such ambiguities or conflicts in favor of the landowner. Heck v. Zoning Hearing Board for Harveys Lahe Borough, 39 Pa. Commonwealth Ct. 570, 397 A.2d 15 (1979); Desousa v. Zoning Hearing Board of Whitehall Township, 19 Pa. Commonwealth Ct. 367, 339 A.2d 650 (1975).
+On the other hand, the sections could just as easily be construed as non-conflicting with the specific limitations of Section 85-124 applying only to “non-profit clubs,” and having no effect on any other, type of club. This interpretation is most likely' the one espoused by the Board in its decision to grant the special exception for the profit-making racquetbalt club. The Board did not encounter any problems with conflicting sections or ambiguities in its Findings of Fact or Conclusions of Law. The Board found it sufficient to note that “the use proposed by the Applicant herein falls within the ordinary and common sense definition of the word ‘club,’ thus said use is permitted by Special Exception. ’ ’
+In accordance with our scope of review, we find that the Board did not abuse its discretion nor did it commit an error of law in concluding that an admittedly profit seeking club qualified for a special exception' under the Ordinance. While we are not unsympathetic to the appellants’ argument that the Board’s decision will make it easier for other commercial enterprises to locate in residential areas, the proper solution is amendment of the Ordinance rather than reliance on the appellants’ strained interpretation of it.
+Accordingly, we will enter the following
+Order
+And Now, December 22, 1980, the order of the Court of Common Pleas of Delaware County, docketed to Civil Action Law No. 78-18803 of 1979, dated October 25, 1979, sustaining the decision of the Zoning Hearing Board of Marple Township, is affirmed.
+The record indicates that notice of the public hearings held on July 19, 1978 and September 20, 1978 was published as required by Section 85-120 of the Marple Township Zoning Ordinance.
+Code of the Township of Marple, Article XIX, §85-145 (1938).
