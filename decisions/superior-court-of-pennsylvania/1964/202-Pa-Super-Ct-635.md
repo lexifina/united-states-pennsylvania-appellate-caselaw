@@ -1,0 +1,35 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 221"
+decided: "1964-03-17"
+citations: ["202 Pa. Super. Ct. 635"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Ervin, Wright, Woodside, Watkins, Montgomery, and Flood, JJ.", "Wright and Woodside, JJ., would reverse and grant the wife a divorce as recommended by the master."]
+parties: ["Nester, Appellant, v. Nester."]
+source_url: "https://static.case.law/pa-super/202/cases/0635-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 766751
+cites_cases: ["186 A. 2d 455", "200 Pa. Superior Ct. 29"]
+---
+
+# Nester v. Nester
+
+## Majority (Montgomery, J.,)
+
+Opinion by
+Montgomery, J.,
+In this action for a divorce a.v.m. instituted by the wife, Frances E. Nester (appellant), we have reviewed the record and are led to the same conclusion as that reached by the lower court, that this record does not support a decree in appellant’s favor although one was recommended by the master.
+The parties were married in 1941 and lived together until March 23, 1961, when appellant left the home which was owned by them as tenants by the entirety. They had maintained the marital status and occupied the same bedroom until a few months before the separation.
+Appellant was a widow and had a daughter eight months old when she married the appellee. This was the first marriage for appellee. Appellant bore him two children, a son and a daughter. All of the children were raised together in the home established by appellee. As a fireman for the City of Philadelphia most of his married life, appellee earned in the early years about $1,800 per year, but later earned as much as $4,900, from which earnings he paid the mortgage on the home, taxes, insurance, repairs, utilities, etc., and gave appellant $30 per week on an average and about $5 per week to the children as an allowance when they were in attendance at school. The family owned a car, the first one bought in 1954 and a new one in 1959. They also owned the usual household necessities of the day, an AM and FM radio, electric refrigerator, etc., which were bought by appellee. He did not lavish gifts on his wife but made it a practice to give her money at Christmas and on other occasions. Beginning in 1950 she was regularly employed as a record clerk at Temple University Dental School where she earned about $280 per month, which she retained for her personal use and household purposes, spending part of it in the purchase of the 1959 automobile aforesaid. At the time of the hearing appellee was on a retirement pension of $218 per month but had new employment as a guard at the Fidelity-Philadelphia Trust Company on Broad Street. During his married life appellee accumulated about $5,000 in bank deposits, one half of which was in an account in their joint names, and $400 in United States Savings Bonds, in addition to buying a home and furnishing it. He also maintained life insurance in which appellant was and still is named as beneficiary.
+Appellant’s complaints consisted of the following charges: (a) Insufficient support. This is not justified under the established facts. Appellee may have been overly thrifty; but he cannot be described as “stingy”, as appellant described him, in view of the fact that he paid the items previously mentioned and gave his wife a weekly sum, although she had a substantial income of her own.
+(b) Lack of interest by appellee in his wife and in his family. These charges consisted of appellee’s failing to attend school functions (although he did attend commencements), working in the back yard repairing automobiles for other people, and going down the street a short distance to visit at a gas station. His lack of interest in appellant is refuted by her own admissions, that they had cohabited until shortly before the separation, that he tried to prevent her from leaving on several occasions (which led to her charges that he assaulted her), and that he made a final effort to prevent a separation by asking the intercession of her pastor.
+(c) That he was silent. These silences usually followed some argument over finances and do not seem important.
+(d) That he was cruel and threatened to kill and injure her. These charges were not substantiated. On one occasion he lifted a knife to prevent her from leaving but put it down the instant she demanded him to do so. At no time did she need to call the police or secure the services of a physician on account of any of his alleged assaults, which, in our opinion, were never made with any malice but, on the contrary, were the results of provocation.
+(e) That he used obscene and profane language toward her. The strongest language testified to was that he referred to her as “my old lady”, “Mtchen bitch”, or “old battle axe”, the last one being explained by him as not referring to his wife but to his wife’s mother.
+(f) That he charged her with infidelity. There is no evidence that he ever charged her with infidelity directly or indirectly to anyone else. However, he admitted that he told her employer that she was seeing too much of a certain James Hazelwood, for whom she expressed concern if not affection, and whom she admitted visiting in his apartment ten or fifteen times, as well as going out with him to social functions. This association was the cause of appellee asMng her if she wanted to be a “whore”. This was the closest approach to a charge of infidelity that we can find in the record.
+Without continuing this analysis of the record, we may summarize it by saying that the events of this marriage were of the usual sort, with much harmony but with some discord, at least up until appellant began to show an interest in Hazelwood. Thenceforth her desire to be released from the ties that bound her to appellee began to appear, causing her to emphasize and exaggerate the items of discord that had previously arisen between them.
+Although we have given proper consideration to the master’s report, which recommended that a divorce be granted; and we realize that the master has seen the witnesses, whereas neither the lower court nor this Court has been afforded that opportunity, we do not feel that the matter of credibility of the witnesses is an important issue in this case because, even if we resolve appellant’s evidence and all the. reasonable inferenees therefrom in her favor, her case does not conform to the standard of proof which has been established to entitle her to a decree in divorce. She has not met her burden of proving a course of conduct on her husband’s part to establish that her condition became intolerable or her life burdensome, since no inference of settled hatred and estrangement can be deduced from this record. Taddigs v. Taddigs, 200 Pa. Superior Ct. 29, 186 A. 2d 455 (1962).
+Order affirmed.
+Wright and Woodside, JJ., would reverse and grant the wife a divorce as recommended by the master.
