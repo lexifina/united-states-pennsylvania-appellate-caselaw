@@ -1,0 +1,38 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 507 C.D. 1973"
+decided: "1975-12-12"
+citations: ["22 Pa. Commw. 344"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Rogers and Blatt, sitting as a panel of three."]
+parties: ["James R. Thompson et al. and the Recreation Board of The Borough of Tarentum, Appellants v. Pennsylvania Liquor Control Board and Elmer L. and Elizabeth S. Hollenbaugh, Appellees."]
+source_url: "https://static.case.law/pa-commw/22/cases/0344-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1871684
+cites_cases: ["10 Pa. Commonwealth Ct. 652", "13 Pa. Commonwealth Ct. 602", "298 A.2d 698", "314 A.2d 587", "319 A.2d 695", "40 Pa. Code §3.22", "40 Pa. Code §3.23", "7 Pa. Commonwealth Ct. 312"]
+---
+
+# Thompson v. Pennsylvania Liquor Control Board
+
+## Majority (Opinion by President Judge Bowman,)
+
+Opinion by
+President Judge Bowman,
+This case is an appeal from a decision of the Court of Common Pleas of Allegheny County reversing a determination by the Pennsylvania Liquor Control Board (Board) which refused the transfer of a liquor license within the Borough of Tarentum, Allegheny County. We affirm.
+Elmer L. and Elizabeth S. Hollenbaugh own property located at 610 East Seventh Avenue in Tarentum which they use as a residence and which they intend to use also as a restaurant-lounge. The property is situated in a district zoned commercial although the surrounding area has developed primarily residential.
+On January 24, 1972, the Hollenbaughs filed an application with the Board to transfer an existing restaurant liquor license to their East Seventh Avenue premises. Previously, they had entered into an agreement to purchase the license conditioned upon the Board’s approving the transfer. Protests, however, were lodged against the application by the Borough of Tarentum, the Tarentum Recreation Board, and 83 residents living within a 500-foot radius of the Hollenbaugh property.
+A hearing was held by the Board on April 18, 1972, at which uncontradicted testimony was presented which placed a public playground, known as Electric Playground, 278 feet from the property line and 303.5 feet from the building line of the Hollenbaugh premises. By an opinion and order, dated May 23, 1972, the Board refused the transfer application, making two specific findings of fact:
+'T. The premises proposed to be licensed are located within 300 feet of the borough-owned Electric Playground.
+“2. The granting of this license will adversely affect the welfare, health, peace and morals of the neighborhood within a radius of 500 feet.”
+The Hollenbaughs appealed to the Court of Common Pleas of Allegheny County which reviewed the case, by stipulation of the parties, on the record made at the Board hearing. Holding that the Board abused its discretion, the court sustained the appeal. The protesting neighbors and the Tarentum Recreation Board (appellants) now appeal to this Court.
+Section 404 of the Liquor Code, Act of April 12, 1951, P.L. 90, as amended, 47 P.S. §4-404, after providing for certain requirements, all of which the Hollenbaughs satisfy, allows the Board, in its discretion, to refuse the transfer of a restaurant liquor license to a new location “if such place proposed to be licensed is within three hundred feet of any . . . public playground. . . .” The section further states “[t]hat the board shall refuse any application for . . . the transfer of any license to a new location if, in the board’s opinion, such . . . transfer would be detrimental to the welfare, health, peace and morals of the inhabitants of the neighborhood within a radius of five hundred feet of the place proposed to be licensed. . .
+The refusal of a transfer application by the Board is appealable to the court of common pleas under Section 464 of the Liquor Code, 47 P.S. §4-464, subject to the limitation that the court may not substitute its discretion for that of the Board, but may reverse only if the Board commits a clear abuse of discretion. Bilinsky v. Liquor Control Board, 7 Pa. Commonwealth Ct. 312, 298 A.2d 698 (1972). Particularly, the court may not supplant the Board’s findings of fact with those of its own where there is no significant difference between the evidence presented to the court and that to the agency. Pennsylvania Liquor Control Board v. Two Guy’s Delicatessen, Inc., 13 Pa. Commonwealth Ct. 602, 319 A.2d 695 (1974).
+In the present controversy, the lower court held the Board’s first finding based upon measurements calculated from an incorrect reference point. Whereas the Board employed the distance of Electric Playground from the property line of the Hollenbaugh premises, the court used the distance from the building line, thereby finding the premises greater than 300 feet from the playground. Further, the court effectively held the Board’s second finding unsupported by substantial evidence, concluding that the transfer would not have deleterious consequences to the neighborhood.
+Appellants maintain, however, that the court abused its discretion. They urge that since the evidence before the court and the Board was identical, the court was precluded from substituting its own findings of fact. We disagree.
+Our scope of review is to determine whether the court below abused its discretion or committed an error of law. Pennsylvania Liquor Control Board v. Two Guy’s Delicatessen, Inc., supra. As to the application of the 300-foot rule of Section 404, 47 P.S. §4-404, appellants ignore that the determination of a reference point on a place proposed to be licensed from which to measure that place’s distance to a public playground is one related to law and not discretion. Board of Commissioners of Upper Darby Township v. Penn Continental Motor Inns, Inc., 10 Pa. Commonwealth Ct. 652, 314 A.2d 587 (1973). It is clear from a reading of Board regulations that the reference point used by the lower court was correct.
+In establishing uniform points of measurement between a public playground and a place proposed to be licensed, the regulations utilize the straight line distance from “ [t]he part of the place proposed to be licensed nearest to the . . . public playground (and/or the adjoining ground used in connection therewith). . . .” 40 Pa. Code §3.23. The “place proposed to be licensed” is defined as “ [t]he rooms designated in the application for license.” 40 Pa. Code §3.22(3). Therefore, the building line, rather than the property line, is the proper reference point from which to measure the distance of the Hollenbaugh premises to Electric Playground. Board of Commissioners of Upper Darby Township v. Penn Continental Motor Inns, Inc., supra.
+As to whether the license transfer would adversely affect the welfare, health, peace and morals of residents living within a radius of 500 feet, a review of the record indicates that evidence regarding the detrimental effects of the license transfer on the neighborhood is not substantial. As the lower court noted, testimony intended to demonstrate increased traffic hazards, parking problems, noise and littering which would result from the transfer was, at most, general and speculative.
+Accordingly, we hold that the court below did not commit an error of law or abuse its discretion in finding the Hollenbaugh premises greater than 300 feet from Electric Playground, or in failing to sustain the Board’s finding that the transfer would adversely affect the general welfare of the neighborhood.
+Affirmed.
