@@ -1,0 +1,47 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2914 C.D. 1980"
+decided: "1982-02-26"
+citations: ["65 Pa. Commw. 47"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Crumlish, Jr. and Judges Rogers and Blatt, sitting as a panel of three.", "Judge Palladino did not participate in the decision in this case."]
+parties: ["Harborcreek School District, Appellant v. Harborcreek Education Association, Appellee."]
+source_url: "https://static.case.law/pa-commw/65/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1930107
+cites_cases: ["259 A.2d 877", "423 A.2d 437", "432 A.2d 1152", "436 Pa. 211", "492 Pa. 515", "496 Pa. 239", "55 Pa. Commonwealth Ct. 102", "61 Pa. Commonwealth Ct. 191"]
+---
+
+# Harborcreek School District v. Harborcreek Education Ass'n
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+The appellant, the Harborcreek School District (District), appeals a decision of the Court of Common Pleas of Erie County which affirmed an arbitrator’s award granting a grievance filed by the appellee, the Harborcreek Education Association (Association), on behalf of grievant Paul M. Foust. The award directed the District to advance Mr. Foust on the salary scale from Step 20 to Step 25 and to reimburse him for his salary loss from September 7, 1978.
+Mr. Foust, a social studies teacher and professional employee of the District since 1958, purchased, before the commencement of the 1978 school year, additional years of “creditable nonschool service” from the Public School Employees’ Retirement Board. He purchased these additional years so that he could receive credit for the years he had served in the military and also be advanced on the teachers’ salary scale the equivalent number of years. On August 7, 1978, he requested by letter that he be advanced by the District because of his purchase inasmuch as the District had done so for other teachers who had made identical purchases. The District, however, refused his request and the Association then instituted a grievance procedure which was provided for in the 1978-79 collective bargaining agreement (agreement) covering the parties. The arbitrator granted the Association’s grievance and found that because “past practices” of advancing teachers on the salary scale for the purchase of military time existed and were also benefits or rights preserved by the terms of the agreement, the District had violated the agreement.
+The District’s first contention here is that the Court below erred because the evidence presented by the Association did not establish that any such “past practices” existed, and if so, that they were contained in the agreement. The District initially argues, therefore, that the arbitrator’s award could not have been drawn from the agreement. It claims alternatively that, should such “past practices” be deemed to have existed, the granting of such increases in salary status violated Section 508 of the Public School Code of 1949 (Code), and, consequently, would not be a valid basis for a “past practice” which would be capable of being incorporated into the agreement.
+Our review in this matter is limited to a determination of “whether or not the arbitrator, in relying on the past practice of the parties ... failed to draw his award from the essence of the contract.” Northwest Tri-County Intermediate Unit No. 5, Education Association v. Northwest Tri-County Intermediate Unit No. 5, 61 Pa. Commonwealth Ct. 191, 195, 432 A.2d 1152, 1154 (1981) (citing Leechburg Area School District v. Dale, 492 Pa. 515, 424 A.2d 1309 (1981)); see also Association of Pennsylvania State College and University Faculties v. Commonwealth, 496 Pa. 239, 436 A.2d 987 (1981).
+Article XXII of the 1978-79 agreement here concerned provided as follows:
+ARTICLE . XXII-MISCELLANEOUS PROVISIONS
+A. Except as this Agreement shall otherwise provide, all terms and conditions of employment applicable on the signing date of this Agreement as established by the rules, regulations and/or policies of the Board in force on said date, shall continue to be so applicable during the term of this Agreement. Unless otherwise provided in the Agreement, nothing contained herein shall be interpreted and/or applied so as to eliminate, reduce nor otherwise detract from any teacher benefit existing prior to its effective date.
+B. All conditions of employment ... and general teaching conditions shall be maintained at not less than the highest minimum standards in effect at the time this Agreement is signed, provided that such conditions shall be improved for the benefit of teachers as required by the express provisions of this Agreement. This Agreement shall not be interpreted or applied to deprive teachers of professional advantages heretofore enjoyed unless expressly stated therein. (Emphasis added.)
+We believe, as did the arbitrator, that a reasonable mind could conclude that this provision could include “past practices” between teachers and the District. Because we have concluded, as a matter of law, that the arbitrator “could have properly considered past practices in interpreting the agreement, we are unable under our limited scope of review, to determine whether or not past practices of teacher advancement for the purchase of military time actually existed here. Tri-County. Accordingly, the District’s first argument is without merit and we believe, therefore, that the arbitrator did draw his award from the “essence” of the 1978-79 agreement. Id.
+The district’s alternative contention concerns the effect of Section 508 of the Code, 24 P.S. §5-508, on the instant situation. Section 508 provides, inter alia, as follows:
+The affirmative vote of a majority of all the members of the board of school directors in every school district, duly recorded, showing how each member voted, shall be required in order to take action on the following subjects: —
+Fixing salaries or compensation of officers, teachers, or other appointees of the board of school directors....
+Failure to comply with the provisions of this section shall render such acts of the board of school directors void and unenforcible [sic].
+The District contends, therefore, that its past practice of advancing teachers on the salary scale for purchasing retirement credits violates Section 508 of the Code and consequently cannot constitute a basis for a past practice which could be included in the agreement via Article XXII of the agreement.
+Our Supreme Court in Mullen v. DuBois Area School District, 436 Pa. 211, 259 A.2d 877 (1969), has held, however, that Section 508 of the Code is only directory and that it should not be read to permit school boards “to advantage themselves of their own failures to the detriment of their employees.” Id. at 217, 259 A.2d at 880-81; see Appeal of Chester Upland School District, 55 Pa. Commonwealth Ct. 102, 423 A.2d 437 (1980). Here, the arbitrator found and our examination of the record discloses that sufficient evidence existed establishing that the school board affirmatively voted to accept the advanced salaries (upon the superintendent’s recommendation) for teachers who had, in the past, purchased retirement credit for time served in the military. In this respect, we refuse, as did the Supreme Court in Mullen, to apply Section 508 in a mandatory manner where the procedural defect asserted by the District is self-induced.
+We believe that the act of the District , of approving past salary advancements due to the purchasing of credit for time served in the military, and of agreeing to the inclusion of Article XXII of the agreement, satisfies Section 508’s directory requirements in this situation.
+We will, therefore, affirm the order of the court below.
+Order
+And, Now, this 26th day of February, 1982, the order of the Court of Common Pleas of Erie County in the above-captioned matter is affirmed.
+Judge Palladino did not participate in the decision in this case.
+Pursuant to Section 8304 of the Public School Employees’ Retirement Code, 24 Pa. C. S. §8304.
+Section 8304 of the Public School Employees’ Retirement Code. Specifically, he purchased 4.08 years of military time.
+The arbitrator and court below inferred that the superintendent allowed such advancement on the basis of the terms of the collective bargaining agreement covering the parties. Sufficient evidence in the record existed to support the arbitrator’s finding that the superintendent did recommend to the school board that these teachers be advanced on the salary scale and the board approved such recommendation.
+Act of March 10, 1949, P.L. 30, as amended, 24 P.S. §5-508.
+At the arbitration hearing, testimony was given alleging that approximately four teachers employed by the District had been advanced on the salary schedule when they purchased years of military credit. Additionally, it was alleged that in these instances, the modification of each of the individual contracts was performed by the superintendent and collectively approved by the school board. The arbitrator, who is the ultimate factfinder in this matter, found that this testimony established the existence of past practices of teacher advancement for the purchase of military time. Such a factual determination is entirely within the arbitrator’s province and will not be disturbed by this Court upon appeal. See TriCounty; Leechburg.
