@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 20"
+decided: "1918-12-12"
+citations: ["70 Pa. Super. 499"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Kephart, Trexler and Williams, JJ."]
+parties: ["Bethlehem City Water Company, Appellant, v. Public Service Commission."]
+source_url: "https://static.case.law/pa-super/70/cases/0499-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 635589
+cites_cases: ["109 Pa. 497", "148 Pa. 568", "166 Pa. 642", "197 Pa. 80", "20 Pa. 366", "256 Pa. 516", "63 Pa. Superior Ct. 1", "65 Pa. Superior Ct. 5"]
+---
+
+# Bethlehem City Water Co. v. Public Service Commission
+
+## Majority (Head, J.,)
+
+Opinion by
+Head, J.,
+The Northampton County Water Company was incorporated January 6, 1916, for the purpose of supplying water to the public in the Borough of Freemansburg in the said county. In April, 1917, it received a petition from a number of lot owners in Bethlehem Township, but adjacent to the Borough of Freemansburg, asking it to extend its pipes into the said adjacent territory where a considerable demand for a water supply had suddenly arisen. In undertaking to avail itself of the privileges conferred by the Act of 21st May, 1901, P. L. 270, it applied to the Public Service Commission for the certificate of public convenience which under the public service law it was obliged to secure before its original charter rights could be extended. The Bethlehem City Water Company, the present appellant, appears to be the legitimate owner of a franchise to supply the inhabitants of the Township of Bethlehem with water unless such franchise has lapsed or been forfeited by nonuser. That company protested before the Public Service Commission against the granting of the certificate prayed for. Public hearings were had, a considerable mass of testimony was taken, and after due consideration it was determined by the commission that the certificate prayed for should issue. An order was consequently made and from that order the‘Bethlehem City Water Company takes this appeal.
+We think it proper to state at this time that, in the judgment of this court, an appeal from an order of the Public Service Commission, either granting or refusing a certificate of public convenience, cannot be made a substitute for a writ of quo warranto or other legal proceeding in which it may be judicially determined what franchises, claimed by any chartered company, are active and in full force. In granting a certificate of public convenience the commission confers no new chartered powers on any company. It takes away from no company any right or power then legally existing. As it is not a judicial body but an administrative one, its order, made from the standpoint of the public convenience solely, cannot be made the foundation for the judicial determination of what franchises do or do not belong to any corporation interested. Such matters must be determined as heretofore in a legal proceeding properly instituted in the courts for that purpose.
+If we concede the appellant water company has a franchise that would enable it to supply water to the citizens of the Township of Bethlehem, we do not understand the order appealed from takes away any such franchise. Indeed, it is hard to see how it could be said to impair it or affect it in, any way unless the appellant company may assert it possesses the exclusive franchise to furnish such a supply of water. No such claim was made to the Public Service Commission, nor-does that tribunal assume jurisdiction to decide such a question. If the commission could not determine that the Northampton County Water Company was about to usurp any franchise vested in the appellant company, how can the latter be said to be aggrieved by the order complained of. It still possesses every chartered power and franchise with which it was legally invested before the order of the commission was made. The courts are open to protect it against any unwarrantable intrusion upon those rights.
+How then may we say, upon this appeal, that the order complained of was an unreasonable order? The questions involved are of a character that makes it clear to us they must be finally determined by the courts. We are not departing from the principle declared by our Brother Kephart in Electric Light, Heat & Power Co.’s Petition, 63 Pa. Superior Ct. 1, where it was said: “The commission should not be a party to what is manifestly an open violation of the law.” Had we such a case before us, we would be well within our rights, even in an appeal like the present one, in so holding. But, as already stated, we cannot here determine that the appellant company has any exclusive right to supply all of the inhabitants of Bethlehem Township with water. If it has not, it continues to be difficult to perceive wherein it is a party aggrieved by the.order complained of, which simply permits the petitioned company to proceed with the exercise of the chartered powers and franchises it claims to possess under,the laws of the Commonwealth. We cannot therefore say, from the record before us, that the order complained of is either unreasonable or not according to law.
+The order of the Public Service Commission is affirmed and the appeal dismissed at the costs of the appellant.
