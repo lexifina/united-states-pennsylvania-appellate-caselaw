@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 17"
+decided: "1906-05-14"
+citations: ["31 Pa. Super. 75"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, Porter, Morrison and Henderson, JJ."]
+parties: ["Philadelphia, Appellant, v. Reader."]
+source_url: "https://static.case.law/pa-super/31/cases/0075-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 864285
+cites_cases: ["108 Pa. 466", "117 Pa. 278", "118 Pa. 458", "13 Pa. 121", "13 Pa. Superior Ct. 164", "134 Pa. 445", "141 Pa. 233", "142 Pa. 39", "15 Pa. 245", "15 Pa. Superior Ct. 535", "150 Pa. 30", "176 Pa. 421", "18 Pa. 199", "18 Pa. Superior Ct. 639", "20 Pa. Superior Ct. 203", "20 Pa. Superior Ct. 209", "25 Pa. Superior Ct. 350", "28 Pitts L. J. 13", "30 Pa. 63", "33 Pa. 276", "33 Pa. 406", "38 Legal Int. 262", "41 Pa. 169", "5 Pa. Superior Ct. 600", "6 Phila. 389", "61 Pa. 455", "69 Pa. 110", "7 Pa. 128", "86 Pa. 215", "91 Pa. 444", "92 Pa. 78", "93 Pa. 25", "96 Pa. 186"]
+---
+
+# Philadelphia v. Reader
+
+## Majority (Portee, J.,)
+
+Opinion by
+Portee, J.,
+The city, on October 21, 1879, filed a claim for registered taxes for the years 1875, 1876, 1877 and 1878, against a lot of ground and Lewis P. Reader, as owner. A scire facias issued upon this claim, on September 27, 1884, was personally served upon Reeder, and judgment was entered in the scire facias, on August 30, 1889, for want of an appearance. .Writs of scire facias to revive and continue the lien were issued in 1893; and after two niliils judgment was entered on April 4,1894. Writs of scire facias to revive and continue the lien were again issued in 1899 and on March 29, 1899, judgment was again entered after two returns of nihil habet. On November 21, 1903, a suggestion was filed of record that D. Pellman Boyer was the actual and registered owner of the lot, and he was made a party to the scire facias which issued December 11, 1903. Boyer filed an affidavit of defense, which the court below held to be sufficient, and the city appeals.
+The affidavit of defense set forth that Boyer purchased the lot at orphans’ court sale, for payment of the debts of Annie Reeder, deceased, the former owner, on October 5, 1901; that the claim of the city was filed on October 21, 1879, and was for taxes for the years 1875, 1876, 1877 and 1878; and that “ the original scire facias thereon was issued September 27, 1884, more than five years after the first day of January-next succeeding the years in which the taxes became due.” These are the material averments of fact in the affidavit, and constitute the defense. The city had caused this defendant to be made a party to this proceeding, which was in the nature of a rule on him to show cause why the land should not in his hands be held liable for the tax. He was entitled to be heard and to allege any valid reason why the land in his hands was not bound by the claim. The rights of the city are to be determined under the provisions of the Act of March 11, 1846, P. L. 114, and registered taxes cease to be a lien, unless a scire facias is issued upon the claim filed therefor within five years from the first day of January next after the taxes become due ; Philadelphia v. Scott, 93 Pa. 25; Philadelphia v. Hiester, 142 Pa. 39 ; Philadelphia v. Kates, 150 Pa. 30. The fact alleged in the affidavit that the original scire facias had not issued in time appeared upon the face of the record, and was undisputed ; it was a conclusive answer to the plaintiff’s claim. The fact was sufficiently averred in the affidavit, and the effect of it upon the rights of the defendant is not to be nullified because he had erroneous views as to the rights of the former owner under the judgment which had been rendered against him. The judgment had not become a judgment in personam against Reeder, it was from its inception a proceeding • in rem: Northern Liberties v. Coates, 15 Pa. 245 ; Wistar v. Philadelphia, 86 Pa. 215 ; White v. Ballantine, 96 Pa. 186 ; Emrick v. Dicken, 92 Pa. 78; Delaney v. Gault, 30 Pa. 63. The courts may refuse to strike off a claim or open a judgment which has ceased to be enforceable against property, upon the ground that no irregularity appears upon the face of the record, or that no meritorious defense has been shown. That does not, however, have the effect of making the defendant personally liable for the claim: Pittsburg’s Appeal, 118 Pa. 458; Philadelphia v. Kates, 150 Pa. 30 ; Philadelphia v. Browning, 13 Pa. Superior Ct. 164; Philadelphia v. Unknown Owner, 20 Pa. Superior Ct. 203; Philadelphia v. Allen, 20 Pa. Superior Ct. 209; Philadelphia v. Peyton, 25 Pa. Superior Ct. 350. Facts which would not be sufficient to cause a court to open a judgment already- regularly entered may, when the city becomes the actor in a new scire facias, constitute a perfect defense : Philadelphia v. Adams, 18 Pa. Superior Ct. 639.
+The appeal is dismissed at the costs of the plaintiff, without prejudice, etc.
