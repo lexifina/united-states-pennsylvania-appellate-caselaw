@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+decided: "1899-07-28"
+citations: ["10 Pa. Super. 634"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Orlady, W. W. Porter, W. D. Porter and Beeber, JJ."]
+parties: ["J. G. Wheeling v. John T. Phillips, Appellant."]
+source_url: "https://static.case.law/pa-super/10/cases/0634-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 819442
+cites_cases: ["123 Pa. 491", "130 Pa. 222", "138 Pa. 576", "138 Pa. 592", "145 Pa. 640", "161 Pa. 276", "179 Pa. 175", "188 Pa. 602"]
+---
+
+# Wheeling v. Phillips
+
+## Majority (William W. Porter, J.,)
+
+Opinion by
+William W. Porter, J.,
+The lease in this case is dated June 22, 1885, and contains, inter alia, these provisions: “ The party of the second part covenants with the first party to commence operations for the said mining purposes within one year from the execution of this lease or thereafter pay the party of the first part twenty-five dollars per annum until work is commenced, to be paid annually, and after work is commenced it is to be prosecuted with due diligence until well shall be completed. . . . The failure of the party of the second part to make any one of the payments when due will render this lease null and void, not binding on either party.” On June 5, 1897, a notice was sent by the lessor to the lessee reciting the general provisions of the lease, and saying: “ As you have not begun operations or paid me any of the said annual payments for such failure therefore I hereby declare the said lease null and void from and after this date as I desire to lease the same to others, and you are further notified that you a,re indebted to me in the sum of twenty-five dollars per annum for the period of twelve years as per the terms of said contract of lease which said sum to wit $300 with interest thereon from the time each payment became due, is hereby demanded.”
+The defendant claims that as the plaintiff has declared the lease null and void, and as the claim is based upon the provisions of the lease, the payments cannot be demanded or compelled. It has been many times decided that the clause voiding such a lease on failure to make the payments provided for, is for the benefit of the lessor. The lessee cannot take advantage of his own wrong by defaulting on his payments and base a cancelation of the lease on such default: Wills v. Manufacturers Nat. Gas Co., 130 Pa. 222; Ray v. Natural Gas Co., 138 Pa. 576; Galey v. Kellerman, 123 Pa. 491; Ogden v. Hatry, 145 Pa. 640; Bartley v. Phillips, 179 Pa. 175.
+In this view of the clause of forfeiture, it requires some act of the lessor to invoke its provisions. Where there has been a default by the lessee mere silence or inaction on the part of the lessor will not render the lease void. He may, on default made, demand and compel the payments. By doing so he elects to continue the lease. Or he may on default made, notify the lessee that because thereof he declares a forfeiture.
+It is not necessary, in all cases, that a formal notice be given by the lessor. The making of a lease to another party after default by the original lessee is a declaration of forfeiture when done for that purpose: Stone v. Marshall Oil Co., 188 Pa. 602. By such releasing the original lease becomes a nullity; the rights and liabilities arising from it are extinguished and the act of the lessor prevents him from demanding from the lessee the payment for which the lease stipulated in case of default in prosecuting the work: Wolf v. Guffey, 161 Pa. 276. The same authority holds that if the lessor had accepted the payment the “ day after the right to declare a forfeiture was completely vested in him, such acceptance would have operated as a waiver of the right and would have protected the lessee as effectually as if the payment had been made or tendered the day before it so vested.”
+The lessor waited some twelve years in silence and inaction. He then formally notified the lessee that he declared a forfeiture under the lease and that it was “ null and void.” In the same notice he demanded the back payments. If these were made, it would work a continuance of the lease. The plaintiff cannot therefore insist upon the forfeiture and at the same time recover the payments, — the making of which would deprive him of the right to declare a forfeiture. After the end of the first year, the lessee was in the power of the lessor as to payment or forfeiture. He might be compelled to pay the accrued amounts or lose his hold upon the leased premises. The lessor might either forfeit the contract or affirm its continuance as he chose: Wills v. Manufacturers N. Gas Co., supra. He finally concluded that he preferred to have again the control of his property that he might, as he says, lease it to others. He has so notified the lessee and has relieved him from the making of the back payments as he has deprived him of all rights under the lease. To render a document an absolute nullity, by notice under its provisions, would seem to prevent any recovery upon any of its covenants. It is dead as a whole and there can be no reservation of vitality in certain of its parts. It is to be observed that in this case there is no clause reserving the right to recover accrued payments after forfeiture, such as are not of infrequent introduction and formed a part of the lease in the case of Wills v. Manufacturers N. Gas Co., supra.
+We are therefore of opinion that the judgment for the plaintiff upon the affidavit of defense was improperly entered.
+The judgment is reversed and a procedendo is awarded.
