@@ -1,0 +1,38 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "03030"
+decided: "1986-09-03"
+citations: ["356 Pa. Super. 294", "514 A.2d 618"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CAVANAUGH, WICKERSHAM and ROBERTS, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Edward O’BRIEN, Appellant."]
+source_url: "https://static.case.law/pa-super/356/cases/0294-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 655403
+cites_cases: ["106 S.Ct. 2411", "156 A.2d 114", "281 Pa.Super. 505", "333 Pa.Super. 265", "342 Pa.Super. 58", "347 Pa.Super. 640", "350 Pa.Super. 506", "389 Pa. Super. 428", "397 Pa. 543", "489 A.2d 235", "508 Pa. 114", "508 Pa. 25"]
+---
+
+# Commonwealth v. O'Brien
+
+## Majority (ROBERTS, Judge:)
+
+ROBERTS, Judge:
+This appeal is from a judgment of sentence entered after appellant was found guilty in non-jury trial of involuntary deviate sexual intercourse, statutory rape, indecent assault, and corruption of the morals of a minor. Appellant was sentenced to a term of imprisonment of five (5) to ten (10) years pursuant to the mandatory provisions of 42 Pa.C.S.A. § 9718 (sentences for offenses against infant persons). He now presents three challenges to the statute. First, appellant argues that § 9718 imposes a mandatory maximum rather than a mandatory minimum sentence. Consequently, as the sentence imposed relies upon the statute to set a minimum term, reversible error was committed. Second, appellant asserts that § 9718 is inapplicable here because his involuntary deviate sexual intercourse conviction merges with his statutory rape conviction and it is only the former which is punishable under the statute. Lastly, appellant maintains that § 9718 improperly casts a conclusive presumption against a convicted defendant at sentencing. Since we do not find these contentions to be meritorious, we affirm.
+Appellant relies on the rule that penal statutes are to be strictly construed in favor of defendants and if ambiguity exists in interpretation, “it must be turned to defendant’s advantage.” Commonwealth v. Pemberth, 389 Pa. Super. 428, 431, 489 A.2d 235, 237 (1985). On the basis of Commonwealth v. Glover, 397 Pa. 543, 156 A.2d 114 (1959), appellant initially argues that because the sentencing provisions of § 9718 do not include the words “minimum” or “maximum,” the sentence required by the statute is ambiguous. Appellant contends that this alleged lack of specificity requires that the lesser punishment be applied. We disagree.
+Unlike the sentencing statute construed in Glover, § 9718 clearly provides that a mandatory minimum sentence be imposed. The statute reads:
+(a) Mandatory sentence. — A person convicted of the following offenses when the victim is under 16 years of age shall be sentenced to a mandatory term of imprisonment as follows:
+18 Pa.C.S. § 2702(a)(1) and (4) (relating to aggravated assault) — not less than two years.
+18 Pa.C.S. § 3121 (relating to rape) — not less than five years.
+18 Pa.C.S. § 3123 (relating to involuntary deviate sexual intercourse) — not less than five years.
+The words “not less than” used in the statute unambiguously connote a minimum term of imprisonment. It strains all notions of common sense to suggest that “not less than” can reasonably be interpreted as meaning “maximum.” Under the present facts, if such construction was followed, the statute would effectively provide for a sentence of “not less than a maximum of five years.” This nonsensical application would simultaneously command a sentence of at least and of at most five years. We refuse to so adulterate the efforts of our Legislature.
+Additionally, construing § 9718 as imposing a mandatory minimum sentence comports with a reading of the entire statute. Subsection (b) of § 9718 provides that “[p]arole shall not be granted until the minimum term of imprisonment has been served.” Use of the phrase “minimum term” directly refers to the mandatory sentence of “not less than (two or five) years” contained in subsection (a). This reference further supports our conclusion that the Legislature clearly has demonstrated its desire to impose a mandatory minimum sentence for certain offenses against infant persons.
+Accordingly, giving effect to the plain and unambiguous mandate of the Legislature, we hold that the trial court properly construed § 9718 as requiring the imposition of a mandatory minimum sentence of five years for those defendants convicted of involuntary deviate sexual intercourse.
+Appellant next asserts that for the purposes of sentencing his involuntary deviate sexual intercourse conviction, an offense included in the mandatory sentencing provisions of § 9718, should merge with his statutory rape conviction, an offense not subject to mandatory sentencing. Under such construction, appellant maintains that he should be sentenced for the offense carrying a non-mandatory sentence. This claim is unavailing. As stated by this court in Commonwealth v. Sayko, “[w]hen crimes merge for sentencing purposes, the one for which a defendant may be sentenced is the one to which the legislature has attached the greatest penalty.” 333 Pa.Super. 265, 271, 482 A.2d, 559, 563 (1984) (allocatur granted Feb. 20, 1985) citing Commonwealth v. Boerner, 281 Pa.Super. 505, 422 A.2d 583 (1980); see also Commonwealth v. Adams, 350 Pa.Super. 506, 518, 504 A.2d 1264, 1270 (1986) (en banc). Here, as involuntary deviate sexual intercourse, a felony of the first degree, carries a greater sentence than statutory rape, a felony of the second degree, the court properly sentenced appellant on his involuntary deviate sexual intercourse conviction. Section 9718 clearly is applicable in the present situation.
+Appellant’s final claim is that under § 9718, the Commonwealth is impermissibly relieved of its burden of showing that the acts committed by a defendant merit a mandatory sentence with no parole. This contention has, at least implicitly, been rejected by the courts of the Commonwealth. As noted by this court in Commonwealth v. Cooke, “the creation of mandatory minimum sentences which remove judicial sentencing discretion in non-capital cases is not a constitutional violation.” 342 Pa.Super. 58, 70, 492 A.2d 63, 70 (1985) (holding mandatory sentencing for offenses committed with firearms, 42 Pa.C.S.A. § 9712, to be constitutional) as cited in Commonwealth v. Wildermuth, 347 Pa.Super. 640, 647, 501 A.2d 258, 262 (1985) (§ 9718 held not to be impermissible interference by legislature with sentencing powers of trial courts). Accordingly, if mandatory sentencing permissibly relieves trial courts from affording individualized sentencing consideration to non-capital defendants, similarly, there exists no burden on the Commonwealth to justify the mandatory sentences imposed on non-capital defendants. We must give effect to the Legislature’s desire to remove individualized sentencing consideration, to the extent of a mandatory minimum term of imprisonment, for certain criminal offenders. Accord Commonwealth v. Wright, 508 Pa. 25, 494 A.2d 354 (1985) aff'd sub nom. McMillan v. Pennsylvania, — U.S. —, 106 S.Ct. 2411, 91 L.Ed.2d 67 (1986) (mandatory minimum sentencing upheld under 42 Pa.C.S.A. § 9712); Commonwealth v. Allen, 508 Pa. 114, 494 A.2d 1067 (1985) (mandatory minimum sentencing upheld under 42 Pa.C.S.A. § 9714, sentencing for prior conviction of serious violent felony).
+Judgment of sentence affirmed.
+. 18 Pa.C.S.A. § 3123.
+. 18 Pa.C.S.A. § 3122.
+. 18 Pa.C.S.A. § 3126.
+. 18 Pa.C.S.A. § 6301.
