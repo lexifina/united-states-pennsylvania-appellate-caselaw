@@ -1,0 +1,38 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1178"
+decided: "1982-05-28"
+citations: ["300 Pa. Super. 274", "446 A.2d 612"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before SPAETH, BECK and LIPEZ, JJ."]
+parties: ["COMMONWEALTH ex rel. Patricia Ann ALLEN v. Augustus HENDERSON, Appellant."]
+source_url: "https://static.case.law/pa-super/300/cases/0274-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 192010
+cites_cases: ["240 Pa.Super. 202", "288 Pa.Super. 252", "297 Pa.Super. 270", "297 Pa.Super. 431", "362 A.2d 1101"]
+---
+
+# Commonwealth ex rel. Allen v. Henderson
+
+## Majority (BECK, Judge:)
+
+BECK, Judge:
+This is an appeal from an order of the Court of Common Pleas, Family Division, requiring appellant to pay support to his illegitimate child in the amount of $15.00 per week. The court found at a civil trial that appellant was the father of appellee’s child. Appellant questions the civil court’s subject matter jurisdiction over the paternity action after he elected to have the matter heard in criminal court.
+The instant action arose after appellee filed, on June 6, 1977, a petition for child support pursuant to the Pennsylvania Civil Procedural Support Law. That support law was replaced by 42 Pa.C.S.A. § 6701 et seq., effective June 27, 1978, which makes a cause of action for paternity exclusively civil:
+Where the paternity of a child born out of wedlock is disputed, the determination of paternity shall be made by the court without a jury unless either party demands trial by jury. The trial, whether or not a trial by jury is demanded, shall be a civil trial and there shall be no right to a criminal trial on the issue of paternity. The burden of proof shall be by a preponderance of the evidence.
+42 Pa.C.S.A. § 6704(g).
+Prior to June 27, 1978, a defendant had a statutory right to proceed in a criminal forum in a paternity action under 18 Pa.C.S.A. § 4323. That section stated that a defendant could be convicted of a misdemeanor of the third degree “if he, being a parent, willfully neglects or. refuses to contribute reasonably to the support and maintenance of a child born out of lawful wedlock.. .. ” That statute carried with it a two-year statute of limitations. This Court in Williams v. Wolfe, 297 Pa.Super. 270, 443 A.2d 831, 833 (1982) (emphasis added) summarized the role of such a criminal proceeding prior to the effective date of 42 Pa.C.S.A. 6701 et seq. in a paternity determination: “[W]hen paternity was contested, a criminal proceeding was an ancillary condition precedent to the right to recover. . . . ” That is, a civil court would be without jurisdiction if the civil action was brought after the expiration of the criminal statute of limitations period unless defendant waived his right to that criminal proceeding by opting for a civil adjudication of paternity or admitting his paternity. Commonwealth ex rel. Yentzer v. Carpenter, 240 Pa.Super. 202, 362 A.2d 1101 (1976).
+Section 4323 was repealed by Act of April 28, 1978 (“Repealer Act”), P.L. 106, No. 46, § 3(a), effective June 27,1978. The Repealer Act preserved prosecutions already commenced under Section 4323 and also amended the Pennsylvania Civil Procedural Law to include a six-year statute of limitations.
+In the instant case, a preliminary hearing was scheduled for July 13, 1978 which was subsequent to the effective date of the Repealer Act. At that hearing, the district attorney moved to dismiss the criminal case and to proceed with a civil adjudication. The lower court granted the motion to dismiss and transferred the case to the Family Division of the Court of Common Pleas. A hearing was scheduled for October 24, 1978.
+On July 28, 1978, appellant filed a motion to dismiss the civil proceeding for lack of jurisdiction stating that the civil court lacked subject matter jurisdiction once appellant chose to proceed criminally. On January 17, 1979, the lower court denied the motion.
+In its opinion accompanying the denial of the above motion, the lower court held that the election of appellant to proceed criminally did not commence the prosecution. Since no criminal complaint was filed, the language of the Repeal-er Act did not save the action as one already commenced prior to its effective date. The lower court reasoned that since the preliminary hearing took place after the effective date of the Repealer Act, the civil court did have subject matter jurisdiction.
+On August 18, 1980, a civil trial was held and appellant was found to be the father of appellee’s child.
+Appellant argues that once he exercised his statutory right to proceed with a criminal adjudication as to his paternity, the civil court was deprived of its subject matter jurisdiction. He cites Jackson v. Moultrie, 288 Pa.Super. 252, 431 A.2d 1033 (1981) for the above proposition. The Moultrie court held that since the criminal action in that case was commenced prior to the effective date of the Repealer Act, the civil court was without jurisdiction. It is clear, though, that the holding of the Moultrie court was premised upon the savings clause of the above Act. Id., 288 Pa. Super, at 255, 431 A.2d at 1035. The above facts are clearly distinguishable from those of the instant case in that no complaint was issued in the instant case and thus no prosecution was commenced. The Moultrie court quite explicitly delineated an exception to the conferral by 42 Pa.C. S.A. § 6701 et seq. of subject matter jurisdiction to the Family Division.
+We note that since the child was born on November 23, 1974, the action for support was filed after the two-year statute of limitations had run. We agree, therefore, with appellant’s conclusion that the Commonwealth was thus precluded from prosecuting appellant under 18 Pa.C.S.A. § 4323. But this Court in Wolfe, 297 Pa.Super. at 275-76, 443 A.2d at 834 (1982) held that where a support action is commenced after the effective date of 42 Pa.C.S.A. § 6701 et seq., “merely because the Commonwealth’s right to prosecute Appellee criminally has been barred it does not follow that Appellant’s civil action is barred.”
+While in the instant case the civil action was commenced before the effective date of 42 Pa.C.S.A. § 6701 et seq., no final determination of paternity was reached before the above effective date. The civil proceeding therefore was not barred by res judicata or collateral estoppel. Commonwealth ex rel. Johnson, v. King, 297 Pa.Super. 431, 434, 444 A.2d 108, 110 (1982). The King court followed Williams v. Wolfe in holding that the civil cause of action was not barred by the running of the two-year criminal statute of limitations. We are persuaded that the Wolfe and King decisions control this case.
+We conclude that the lower court had subject matter jurisdiction to hear the instant case and accordingly affirm the order of the court below.
+. Act of July 13, 1953, P.L. 431, § 1, as amended, Act of August 14, 1968, P.L. 872, 62 P.S. § 2043.31 et seq., repealed, Act of April 28, 1978, P.L. 202, No. 53, § 2(a) [1291], effective June 27, 1978.
+. This Court in Wolfe, 297 Pa.Super. at 276, 433 A.2d at 834, noted the same exception:
+It is clear then, that the Legislature intended the criminal statute to continue to be applicable only if a prosecution had been commenced prior to its repeal on June 27, 1978. This leads to the conclusion that as of June 27, 1978, the requirement of a criminal determination of paternity for actions involving disputed paternity was eliminated, even if the cause of action arose prior to that date, if no criminal action was pending.
