@@ -1,0 +1,30 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1817 C.D. 1976"
+decided: "1978-02-24"
+citations: ["34 Pa. Commw. 23"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Wilkinson, Jr. and Mencer, sitting as a panel of three."]
+parties: ["Linda Azar, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/34/cases/0023-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1887077
+cites_cases: ["16 Pa. Commonwealth Ct. 33", "21 Pa. Commonwealth Ct. 307", "309 A.2d 72", "328 A.2d 908", "33 Pa. Commonwealth Ct. 610", "345 A.2d 297", "382 A.2d 789", "9 Pa. Commonwealth Ct. 597"]
+---
+
+# Azar v. Commonwealth
+
+## Majority (Judge Wilkinson, Jr.,)
+
+• Opinion by
+Judge Wilkinson, Jr.,
+Petitioner (claimant) appeals a decision of the Unemployment Compensation Board of Beview (Board) which denied unemployment compensation benefits on the ground of wilful misconduct pursuant- to Section 402(e) of the Unemployment Compensation Law (Law), Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43, P.S. §802(e). We affirm.
+Claimant had been employed by Thomas Jefferson University as a radiology scheduler for four years when she was discharged for an unauthorized absence. On her last day of work, Friday, May 2, 1975, claimant was informed that her grandmother who lives in Arkansas had suffered a heart attack and she and her mother left Philadelphia that same day to care for her. Claimant did not notify her supervisor before leaving for Arkansas and instructed her sister to call her supervisor on her next scheduled workday, Monday, May 5, 1975, to report the family emergency and request a week’s leave of absence. This was done and a memorandum of the telephone conversation was made by the supervisor dated May 5, 1975. The supervisor testified and the memorandum supported that the leave of absence was denied due to the claimant’s prior record of absenteeism and lateness in reporting to work. The testimony and memorandum further indicated that the petitioner’s sister was instructed to tell the claimant to call her supervisor during the week and that “Linda [claimant] will probably be terminated upon phone call.” The sister, however, testified that she understood the supervisor to say that it was not necessary to call her supervisor and she so informed claimant. Consequently, when the claimant failed to call, the supervisor mailed a letter of discharge to the claimant on May 9, 1975.
+Claimant was denied unemployment compensation benefits by the Bureau of Employment Security (Bureau) under Section 102(e) of the Law. Following a hearing where petitioner was not represented by counsel but the employer was represented by a tax consultant, the referee issued a determination affirming the Bureau. A remand hearing was held before a Board hearing officer to afford petitioner an opportunity to be represented by counsel. Following the hearing the Board affirmed the findings of the referee and concluded the claimant’s conduct constituted willful misconduct.
+Claimant has raised two questions in this appeal: first, whether there was sufficient evidence to sustain the finding of the Board that claimant’s failure to personally contact her employer during the week of her absence pursuant to her employer’s instructions constituted willful misconduct; and second, whether her absence in order to care for a sick relative constituted willful misconduct. Since we find the resolution of •the first issue dispositive of this case, we need not address the second question.
+Failure to report the reason for an absence in the proper manner under company policy is conduct which can constitute willful misconduct sufficient to preclude the granting of benefits pursuant to Section 402(e) of the Law since such behavior constitutes a deliberate disregard of the standards of behavior an employer can rightfully expect of an employee. Chiango v. Unemployment Compensation Board of Review, 33 Pa. Commonwealth Ct. 610, 382 A.2d 789 (1978); Ferko v. Unemployment Compensation Board of Review, 9 Pa. Commonwealth Ct. 597, 309 A.2d 72 (1973). Claimant, however, contends that no company rule was violated since the reason for her absence was promptly reported by her sister. Claimant further contends that her failure to call her supervisor during the week of her absence could not constitute willful misconduct since the memorandum indicates that she would have been terminated whether or not she telephoned her employer. This assertion, however, is contrary to the findings of the Board that claimant was discharged only after her failure to telephone her supervisor, and this Court is bound by such findings if supported by substantial evidence. Yasgur v. Unemployment Compensation Board of Review, 16 Pa. Commonwealth Ct. 33, 328 A.2d 908 (1974). Questions of credibility, evidentiary weight, and the inferences to be drawn from the evidence are for the Board to decide. Unemployment Compensation Board of Review v. Haughton Elevator Co., 21 Pa. Commonwealth Ct. 307, 345 A.2d 297 (1975). We believe the Board might well have concluded both from the equivocal tone of the memorandum, i.e., that the claimant would probably be discharged, and from the testimony of the supervisor that the letter of discharge was not mailed until Friday, May 9, 1975, that claimant was discharged only when she failed to communicate directly with her employer regarding her requested, but unauthorized leave of absence. This conclusion is supported by evidence that claimant knew her job was in jeopardy due to absenteeism and lateness and a written rule of the employer that leaves of absence would only be granted at the discretion of the employee’s department head or supervisor.
+Accordingly, we will enter the following
+Order
+And Now, February 24, 1978, the order of the Unemployment Compensation Board of Beview, Decision No. B-134479, dated September 9, 1976, is hereby affirmed.
