@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "940"
+decided: "1983-01-07"
+citations: ["308 Pa. Super. 494", "454 A.2d 643"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before McEWEN, JOHNSON and HOFFMAN, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. William CANADA, Appellant."]
+source_url: "https://static.case.law/pa-super/308/cases/0494-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 205549
+cites_cases: ["244 Pa.Superior Ct. 505", "307 A.2d 255", "309 A.2d 576", "452 Pa. 554", "453 Pa. 475", "482 Pa. 33"]
+---
+
+# Commonwealth v. Canada
+
+## Majority (HOFFMAN, Judge:)
+
+HOFFMAN, Judge:
+Appellant contends, inter alia, that the lower court erred in denying his motion to suppress evidence of prior convictions. Because we find that admission of this evidence effectively prevented appellant from testifying, we reverse and remand for a new trial.
+Appellant was arrested on June 13, 1980 and charged with simple assault, burglary, criminal trespass, disorderly conduct, criminal conspiracy, criminal attempt, indecent assault, unlawful restraint, false imprisonment and corruption of children. At a preliminary hearing the prosecution withdrew the burglary charge, and the lower court dismissed the criminal trespass charge. Appellant’s pre-trial motion to suppress any use of his prior convictions was denied, and on November 7, 1980, appellant was found guilty by a jury of false imprisonment, criminal conspiracy, and indecent assault. Post-trial motions were denied and appellant received suspended sentences on each charge. This appeal followed.
+Appellant contends that the lower court abused its discretion in denying his motion to suppress evidence of prior convictions, resulting in his failure to take the stand and present a defense. “Where the defendant has no other means by which to defend himself, it would be particularly unjust to subject him to the introduction of prior convictions.” Commonwealth v. Bighum, 452 Pa. 554, 567, 307 A.2d 255, 263 (1973). “Since the avowed purpose of using prior convictions in rebuttal is to cast doubt upon the defendant’s veracity generally as a witness, it is important to limit the convictions so used to crimes involving dishonesty or false statement.” Id., 452 Pa. at 566, 307 A.2d at 262. Once it is established that the prior conviction was a crime involving veracity, the lower court “in making the determination as to the admissibility of a prior conviction for impeachment purposes ... should consider:”
+(1) the degree to which the commission of the prior offense reflects upon the veracity of the defendant-witness; (2) the likelihood in view of the nature and extent of the prior record, that it would have a greater tendency to smear the character of the defendant and suggest a propensity to commit the crime for which he stands charged, rather than .provide a legitimate reason for discrediting him as an untruthful person; (3) the age and circumstances of the defendant; (4) the strength of the prosecution’s case and the prosecution’s need to resort to this evidence as compared with the availability to the defense of other witnesses through which its version of the events surrounding the incident can be presented; and (5) the existence of alternative means of attacking the defendant’s credibility.
+Commonwealth v. Roots, 482 Pa. 33, 39-40, 393 A.2d 364, 367 (1978). “These factors were designed to limit the admission of this type of evidence to situations where its introduction was of essential evidentiary value to the prosecution and not reasonably unfair to the defense.” Id., 482 Pa. at 39, 393 A.2d at 367. Applying these criteria to the present case, we agree with appellant that the Commonwealth’s “need for this evidence” does not overcome “its inherent potential for prejudice.” Id., 482 Pa. at 41, 393 A.2d at 368; see Commonwealth v. Bobko, 453 Pa. 475, 480, 309 A.2d 576, 578-79 (1973). The convictions were five and eight years old. Testimony given by the alleged victim and her sister raises questions as to the voluntariness of the victim’s participation. The alleged victim testified that she accompanied her sister to purchase marijuana and then freely entered a dark, empty house to smoke the contraband with five men she did not know. She accompanied one of the men upstairs but became frightened and ran out of the house, only to voluntarily re-enter. She was then purportedly dragged to the basement and assaulted by three of the men. Of “critical importance” is “the extent to which it is more important to the search for truth in a particular case for the jury to hear the defendant’s story than to know of a prior conviction.” Commonwealth v. Bighum, supra, 452 Pa. at 567, 307 A.2d at 263. Here, the jury’s need to know appellant’s version of the events certainly outweighed the need to know of two remote convictions. Furthermore, the Commonwealth had the testimony of several witnesses including the victim, her sister, and a police officer who spoke with the victim directly after the incident, available to impeach appellant’s credibility. Finally, we cannot find that this “evidence was essential to the success of the prosecution,” Commonwealth v. Roots, supra, 482 Pa. at 42, 393 A.2d at 368, when the jury would have been presented with a clear case of a credibility determination after hearing the facts from both the appellant and the alleged victim.
+Therefore, we find that the lower court abused its discretion in holding the evidence of appellant’s prior convictions admissible for impeachment purposes, thereby impeding appellant’s testifying. Accordingly, we reverse and remand for a new trial.
+Reversed and remanded.
+. Robbery is a crime reflecting appellant’s veracity, Commonwealth v. Campbell, 244 Pa.Superior Ct. 505, 368 A.2d 1299 (1976) (aggravated robbery a crime involving serious moral turpitude).
+. Because of our disposition of this case, we need not address appellant’s remaining contentions.
