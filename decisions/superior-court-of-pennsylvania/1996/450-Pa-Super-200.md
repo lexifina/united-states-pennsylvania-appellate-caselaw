@@ -1,0 +1,37 @@
+---
+court: "Superior Court of Pennsylvania"
+decided: "1996-04-25"
+citations: ["450 Pa. Super. 200", "675 A.2d 730"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CIRILLO, President Judge Emeritus, and DEL SOLE and HOFFMAN, JJ.", "DEL SOLE, J., concurs in the result."]
+parties: ["RESOLUTION TRUST CORPORATION, as Receiver for Riverside Federal Savings Bank, Marked to the use of Toll Bros., Inc. v. WARWICK NURSERIES, LTD. Appeal of EASTERN FINANCIAL SERVICES CORP."]
+source_url: "https://static.case.law/pa-super/450/cases/0200-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 736315
+cites_cases: ["106 S.Ct. 67", "152 A.2d 904", "363 Pa.Super 607", "396 Pa. 234", "474 U.S. 819", "65 Pa. 278", "755 F.2d 38", "88 L.Ed.2d 54"]
+---
+
+# Resolution Trust Corp. v. Warwick Nurseries, Ltd.
+
+## Majority (CIRILLO, President Judge Emeritus:)
+
+CIRILLO, President Judge Emeritus:
+Eastern Financial Services Corporation appeals from an order entered in the Bucks County Court of Common Pleas denying its petition to set aside and/or strike or open a federal judgment and sheriffs sale against Warwick Nurseries, LTD. We affirm.
+On March 25, 1991, the Resolution Trust Corporation (“RTC”), in its capacity as receiver for Riverside Federal Savings and Loan (“Riverside”), commenced an action against Warwick Nurseries, LTD. (“Warwick”) and Jamison Properties, Inc. (“Jamison”) in the United States District Court of the Eastern District of Pennsylvania. The federal actions involved RTC’s rights under a mortgage granted by Warwick and Jamison to Riverside. On January 11, 1993, the court granted summary judgment in favor of RTC. Warwick appealed to the United States Court of Appeals for the Third Circuit, which affirmed the judgment.
+RTC assigned the mortgage and judgment against Warwick and Jamison to Toll Brothers, Inc. Toll Brothers transferred the judgment to the Bucks County Court of Common Pleas and obtained writs of execution against Warwick and Jamison, directing the sale of both properties. On January 20, 1995, Eastern Financial Services Corp. (“Eastern”) commenced a quiet title action against Warwick and Jamison in the Bucks County Court of Common Pleas. Eastern claimed to have acquired title to both properties (Warwick’s and Jamison’s) on October 22, 1992, by way of a quitclaim deed which it had misplaced and never recorded.
+A sheriffs sale was held. Toll Brothers successfully outbid its competitors and acquired the properties. Sheriffs deeds conveying the properties were executed on May 25, 1995 and recorded on May 30,1995. Eastern filed petitions to set aside the sheriffs sale and to strike and/or open the federal judgments against Warwick and Jamison. The Bucks County Court of Common Pleas entered an order denying Eastern’s petition and this appeal followed. Eastern raises the following issues for our consideration:
+(1) May Eastern’s ownership, acquired during the pending litigation, be divested through a sheriffs sale?
+(2) Should the RTC have named Eastern as an indispensable party in their Federal Court action against Warwick and/or Jamison, and did the Court of Common Pleas err in giving effect to the judgment of the United States District Court?
+Eastern first contends that its ownership may not be divested through a sheriffs sale. “A petition to set aside a sheriffs sale is based on equitable principles and is addressed to the sound discretion of the trial court, whose decision will not be disturbed absent a clear abuse of that discretion.” Bornman v. Gordon, 363 Pa.Super 607, 611, 527 A.2d 109, 111 (1987). “As a general rule, the burden of proving circumstances warranting the exercise of the court’s equitable powers is on the applicant, and the application to set aside a sheriffs sale may be refused because of the insufficiency of proof to support the material allegations of the application, which are generally required to be established by clear evidence.” Id.
+Eastern’s petition to set aside the sheriffs sale was based on its belief that as the legal owner of the properties, it should have been named a party to the litigation. This claim is without merit.
+It is perfectly well-settled, that encumbrances who become such pendente lite, are not necessary parties to a bill to foreclose, although they are bound by the decree, for they can claim nothing except what belonged to the person under whom they assert title, since they have constructive notice; and there would be no end to such suits, if a mortgagor might by new encumbrances, created pendente lite, require all such encumbrances to be made parties.
+Bradley v. Price, 396 Pa. 234, 152 A.2d 904, 908 (1959) (quoting Youngman v. Elmira, 65 Pa. 278, 287 (1870) (citations omitted)). Once the foreclosure action is commenced, anyone acquiring an interest in the subject property need not be joined in the action, but will be bound by the decree. Id.
+Eastern claims to have acquired title to the property on October 22, 1992. This was 18 months after the foreclosure action was commenced in federal court. Eastern, as a party acquiring an interest pending the litigation, is therefore bound by the federal decree. Bradley, supra. In addition, Eastern made no attempt to be joined in the federal action. This is particularly relevant because Eastern not only had constructive notice of the pending action, but also had actual notice. Consequently, Eastern acquired only the legal rights of Warwick and is bound by the federal judgment against Warwick. Bradley, supra. To hold otherwise would defeat the purpose of the rule stated in Bradley. Therefore, Eastern was unable to support the material allegations in its application to set aside the sheriffs sale, Bornman, supra, and the trial court correctly denied the petition.
+Eastern next argues that the Court of Common Pleas should not have given effect to the judgment of the United States District Court because the federal court failed to require Eastern to be joined as an indispensable party. This claim is also without merit.
+“Pennsylvania courts have long recognized the principle that state courts are bound by the judgments of federal courts.” Delaware Valley Citizens’ Council for Clean Air v. Commonwealth of Pa., 755 F.2d 38, 44 (3d. Cir.), cert. denied, 474 U.S. 819, 106 S.Ct. 67, 88 L.Ed.2d 54 (1985). State courts must give full faith and credit to the proceedings of federal courts. Id. Eastern’s challenge to the federal proceedings and judgment, therefore, should be addressed to the United States District Court, and not the Bucks County Court of Common Pleas. Thus, we decline to review the last issue on appeal, remaining bound by the federal court’s judgment. Delaware Valley, supra.
+Order affirmed.
+DEL SOLE, J., concurs in the result.
+. This was approximately 18 months after the commencement of the foreclosure action in the United States District Court, and 2'k months prior to the entry of judgment.
+. Even if the court of common pleas had the authority to address the federal judgments, the claim would still fail. Eastern acquired its interest in the property while the federal action was pending. Therefore, Eastern was not a necessary party to the foreclosure action. Bradley, supra. In addition, although Eastern had knowledge of the federal action, it made no attempt to intervene or be substituted as a defendant.
