@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 162"
+decided: "1944-12-15"
+citations: ["156 Pa. Super. 338"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Baldrige, Khodes, Hirt, Reno and James, JJ."]
+parties: ["Maitland v. Philadelphia Transportation Company, Appellant."]
+source_url: "https://static.case.law/pa-super/156/cases/0338-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1058369
+cites_cases: ["150 A. 153", "155 A. 98", "166 A. 868", "213 Pa. 463", "218 Pa. 219", "300 Pa. 55", "304 Pa. 106", "311 Pa. 251", "62 A. 1079", "67 A. 207"]
+---
+
+# Maitland v. Philadelphia Transportation Co.
+
+## Majority (James, J.,)
+
+Opinion by
+James, J.,
+This is an appeal from the dismissal of a motion for judgment n. o. v. in a trespass action.
+In view of a favorable verdict from the jury, the version of the plaintiff, though the only witness for her side, must be accepted.
+At nearly 11:30 P. M. on June 3, 1943, the plaintiff was riding in a trolley of a line which terminates at Wayne Avenue and Carpenter Lane, Philadelphia. When the car reached “just a few feet’ from the regular stop at the terminus of the route, the trolley pole slipped from the wire, and since the current was shut off, the motor stopped and all the lights, except the safety light, went ont. Without saying anything the motorman opened the door and walked to the rear of the ear to replace the pole, leaving the door open as a means of re-entry into the car. Aside from one Avoman who intended to return on the same trolley, all the passengers alighted while the motorman was in the rear of the street car, some preceding, and one folloAving, the plaintiff. Plaintiff, the only witness called on her behalf as to the accident, testified as follows: “Q. What happened when the trolley car had almost arrived at the terminus? A. The lights went out, and the motorman opened the door to go out and put on the lights. He went around to the back of the car to put on the pole....... Q. What had happened to the pole? A. It Avas off the wire. I was on the step, ready to step out, when the lights went on and the car gave a jolt and knocked me off.......” Neither the intensity nor the cause of the jolt was established and the only circumstance from which it could be inferred Avas the starting of the motor, when the trolley pole Avas replaced, when according to a witness for the defendant, “......when the current is applied to a motor a tork or rocking motion may take place, ......” Since the plaintiff had used this car frequently, she was familiar Avith the location of the regular stopping place.
+'Since the plaintiff knew that (1) the regular point of discharge had not been reached; (2) the car didn’t stop to unload passengers, but because the disengagement of the pole cut off the flow of current; (3) the mishap was easily corrected and of short duration; (4) the motorman left the car to restore the pole; (5) from the rear of the trolley Avhere he stood, the motorman could not observe the movements of the passengers, or warn and guard them from danger and accident; (6) the door was left open, not as an invitation to the passengers to alight, but to permit the motorman to return to the controls; she should h,ave waited until the trolley reached its destination, or at least until, by some act of the motorman, an express or implied invitation was extended to the passenger to leave the car, and she cannot recover for the risks assumed in her impatience to get off. While a common carrier for hire owes to its passengers the highest degree of care and diligence in enabling them to alight safely, Hughes v. Pittsburgh Transportation Co., 300 Pa. 55, 150 A. 153; O’Malley v. Laurel Line Bus Co., 311 Pa. 251, 166 A. 868, the passenger is also bound to use reasonable diligence and care in alighting from the carrier, Fordyce v. White Star Bus Lines, 304 Pa. 106, 111, 155 A. 98, and although a passenger on a street railway car is-entitled to a reasonable opportunity to alight when the car stops for the purpose of discharging passengers, Thomas v. P. R. T., 218 Pa. 219, 221, 67 A. 207, nevertheless “when it stops for some other purpose and a passenger is not invited to alight, he assumes the risk in attempting to do so,” Thomas v. P. R. T., supra, especially if the passenger is aware that the motorman is outside, in the rear of the trolley, unable to control either the car or the passengers. In entering upon the contract of transportation, the passenger undertakes to wait until the trolley reaches the points where customarily travelers are discharged, unless he notifies the employees of the common carrier that he intends to leave before and they consent. 13 C. J. S. §656, p. 1228. Since the plaintiff knew that while she was leaving the motorman was restoring the pole, she must have assumed the conser qnences of any jar which would result. The mishap to the trolley pole being easily adjustable, the employee acted properly in undertaking to restore electricity throughout the whole car before asking the passengers to alight.
+It is not the duty of a common carrier to prevent passengers from getting off at the wrong place, and not intended as a stopping place for passengers. Margo v. Penna. R. R. Co., 213 Pa. 463, 62 A. 1079. That other passengers left too merely shows that the risk was considered so small that many were willing to accept it.
+The fact that a passenger pays the carrier for the transportation does not relieve him from acting as a reasonably prudent man and rejecting any unnecessary risks. Travelers must expect some unavoidable delays and inconveniences and if they wish to make haste they must pay the price of their own folly.
+After giving the plaintiff the benefit of every fact and inference of fact pertinent to the issue which may reasonably be deduced from the evidence, she has failed to establish that the loss should be borne by the carrier.
+Judgment reversed and herewith entered for appellant.
