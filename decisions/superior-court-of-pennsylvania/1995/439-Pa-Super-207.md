@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+decided: "1995-01-19"
+citations: ["439 Pa. Super. 207", "653 A.2d 696"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CAVANAUGH, POPOVICH and SAYLOR, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania, Appellant, v. Jason Michael PROCTOR, Appellee."]
+source_url: "https://static.case.law/pa-super/439/cases/0207-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 713708
+cites_cases: ["11 L.Ed.2d 149", "190 A.2d 304", "358 Pa.Super. 207", "367 Pa.Super. 79", "368 Pa.Super. 488", "374 Pa.Super. 441", "375 U.S. 910", "396 Pa.Super. 357", "410 Pa.Super. 377", "411 Pa. 56", "506 Pa. 537", "514 Pa. 395", "84 S.Ct. 204"]
+---
+
+# Commonwealth v. Proctor
+
+## Majority (POPOVICH, Judge:)
+
+POPOVICH, Judge:
+This case involves a challenge to the order of the Court of Common Pleas of Clinton County by the Commonwealth regarding the grant of the appellee/Jason Michael Proctor’s motion to suppress.
+In Commonwealth v. Bosurgi, 411 Pa. 56, 190 A.2d 304 (1963), cert. denied, 375 U.S. 910, 84 S.Ct. 204, 11 L.Ed.2d 149 (1963), the Commonwealth was granted the right to appeal the grant of a suppression motion. In doing so, the Commonwealth was told simply that it was to plead that its case against the defendant would be substantially handicapped or terminated if the suppression order were to stand. These sentiments were echoed by the same Court in Commonwealth v. Dugger, 506 Pa. 537, 486 A.2d 382 (1985), with the caution that the Commonwealth’s “certification” that its case would be terminated or substantially handicapped without reversal of the suppression order was “uncontestable.” In fact, the “certification” was held to, “in and of itself, precipate[] and authorize[] the appeal. * * * Such certification [wa]s required as a means of preventing frivolous appeals and intended solely for delay.” Id. at 543—46, 486 A.2d at 385, 386.
+The Dugger Court’s directive has been interpreted by this Court to require that the order appealed be quashed where no certification of termination or substantial impairment of prosecution is alleged; to-wit:
+... the Dugger Court pointed out that the Commonwealth’s good faith certification that a suppression order terminates or substantially handicaps its prosecution is a condition precedent which “precipitates and authorizes the appeal.” In other words, as we interpret Dugger, because certification is the predicate for an appeal, i.e., authorizes it, the absence of such a certification by the Commonwealth “as to the impact of the suppression order upon its case” subjects the appeal to being quashed. See Dissenting Opinion by Justice Hutchinson in Commonwealth v. Duncan, 514 Pa. 395, 410, 525 A.2d 1177, 1184 (1987); cf. Commonwealth v. Conway, 368 Pa.Super. 488, 490-91, 534 A.2d 541, 542 (1987) (“... our Supreme Court held that the Commonwealth may appeal a suppression order as long as the Commonwealth certifies in good faith that the suppression order substantially handicaps or terminates the prosecution.” (Citation omitted; emphasis added)); Commonwealth v. Hoffman, 367 Pa.Super. 79, 532 A.2d 463 (1987) (Statement that the suppression order substantially handicapped the prosecution properly invoked the jurisdiction of the Superior Court to entertain the appeal from an otherwise interlocutory order).
+As an intermediate appellate court acting under the auspices of the Pennsylvania Supreme Court, in regard to maintaining and effectuating the decisional law of this jurisdiction, we find that the Commonwealth’s failure to satisfy the “prerequisite” for invocation of appellate jurisdiction to review a suppression order enunciated in Bosurgi and clarified by Dugger requires that we quash the Commonwealth’s appeal. Stated otherwise, the Commonwealth has failed to comply with the dictates of Dugger by not “certifying” (either at the hearing granting the motion to suppress or in its brief filed with this Court) that “the suppression order terminate[d] or substantially handicap[ped] its prosecution.” Accordingly, we have no “jurisdiction” to hear the Commonwealth’s appeal and must quash to implement the Supreme Court’s objective in requiring such a certification, i.e., a means to prevent frivolous appeals or appeals intended for delay. Dugger, supra; Commonwealth v. Hunsberger, 358 Pa.Super. 207, 309-11, 516 A.2d 1257, 1258 (1986).
+Commonwealth v. Slovikosky, 374 Pa.Super. 441, 543 A.2d 553, 554-555 (1988) (Emphasis in original; footnote omitted); cf. Commonwealth v. DeMarco, 396 Pa.Super. 357, 578 A.2d 942, 945 (1990) (Dugger’s certification of termination or substantial handicap of the case may be filed at “anytime” prior to the quashal of the Commonwealth’s appeal).
+At bar, we are dealing with a criminal case which transcends the interests of the immediate parties, i.e., the case impacts upon the citizenry of this Commonwealth. As such, “we do not believe the interests of public justice would be best served by penalizing the citizens of this Commonwealth for the district attorney’s failure to comply with an essentially pro forma requirement of Dugger’s certification]. This omission may be properly corrected on appeal.” Commonwealth v. Frankenfield, 410 Pa.Super. 377, 599 A.2d 1346, 1348 (1991).
+Toward that end, we direct that the Commonwealth file with this Court, within fifteen (15) days of the filing date of this Opinion, a certification explaining that the suppression order substantially handicaps or will, in fact, terminate the prosecution. Non-compliance with this Court’s order shall result in the present appeal being quashed by this Court. Id. Panel jurisdiction is retained.
