@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 28"
+decided: "1914-12-07"
+citations: ["62 Pa. Super. 430"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Oready, Head, Henderson, Kephart and Trexler, JJ."]
+parties: ["Brennan, Appellant, v. Felin."]
+source_url: "https://static.case.law/pa-super/62/cases/0430-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 455213
+---
+
+# Brennan v. Felin
+
+## Majority (Orlady, J.,)
+
+Opinion by
+Orlady, J.,
+The plaintiff was employed by the defendants at a salary of $25.00 per week, which is not in dispute in this action. In addition to the salary he was interested in a contract which provided as follows: “In addition to the weekly salary for the period aforesaid, the said John F. Brennan shall be entitled to receive from the said Charles F. Felin & Company, after the expiration of the year 1911, if he still be in their employ, and after the books of the business of the said Charles F. Felin & Company are closed for the year 1911, a sum equal to eight-tenths of one per centum (8-10 of 1 per cent.) of the net profits realized by the said Charles F. Felin & Company from the current business of the lumber and millwork business conducted by the said Charles F. Felin & Company in Philadelphia, after deducting all amounts allowed or charged for rentals, salaries, costs, charges and expenses of every nature and kind whatsoever, and after charging off to profit and loss such amounts as in the judgment and discretion of the Charles F. Felin & Company are properly chargeable thereto, and without any right of allowance to the said John F. Brennan to any subsequent accounting for any amount realized on such account so charged q|f as above.”
+The only fact in controversy is in determining the time when the plaintiff was entitled to receive the percentage of the profits as fixed by the contract. At the close of business, January 2, 1912, the defendants issued statements to financial institutions of the condition of their business, “As shown by our books January 2,1912, after inventory had been taken and books closed for 1911.” A loss and gain account showed that they had charged off against what would otherwise have been profit the sum of $20,000.00, for the purpose of taking care of possible losses, and as a credit on the loss and gain account under the title of undivided profits for the year 1911, they set out the sum of $93,890.07, as a book profit shown for the year 1911. Instead of distributing this sum it was carried forward to a suspense account, for the reason that there were several large outstanding open accounts, the collection of which was considered doubtful, and it was the purpose of the defendants to hold this amount undistributed until these accounts were finally adjusted.
+At the conclusion of the plaintiff’s testimony a compulsory nonsuit was entered on defendants’ motion and the plaintiff brings this appeal.
+The contract as above quoted did not contemplate an indefinite extension of time after 1911 for ascertaining the amount to which the plaintiff was entitled. By its very words “after the books of the business of the said Charles F. Felin & Company are closed for the year 1911,” the plaintiff was entitled to his money. The employer had the right to make up the statement so as to charge off all doubtful items and expenses, and exercised that right in fixing the item $20,000.00 to take care of possible losses. They had the right to not close the books for the year 1911 until they were satisfied of the actual state of their affairs. The arrangement and adjustment of these accounts was entirely in the hands of the defendant, and having closed the books, and notified the financial world of their “resources and liabilities?’ at the close of business for 1911, they ai^- not in position to either challenge the correctness of that account so far as this plaintiff is concerned, except for actual errors, or to delay further payment of the amount to which the plaintiff is entitled. A prima facie case at least was made out, and the plaintiff was entitled to recover unless further proof was adduced by the defendants. Among the liabilities noted was “Amount due employees who participate in profits, $12,403.21.” The trial was held nearly two years after the defendant issued its statement that the books. had been closed and the amount of profits determined. While the business for 1911 may not have been entirely, settled in the sense of receiving cash for outstanding claims and the payment of all indebtedness, the books 'of the business as referred to in the contract between the parties were closed for the year 1911, so as to show a bookkeeping result as ascertained by the defendants, and which they adopted as conclusive in their statement issued to the persons they wanted to advise of their, financial standing. A reasonable time hav ing elapsed before the trial for the adjustment of all doubtful claims, the matter should have been submitted to a jury under proper instructions, instead of a compulsory nonsuit being entered.
+The judgment is reversed and a procedendo awarded.
