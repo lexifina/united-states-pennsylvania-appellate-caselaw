@@ -1,0 +1,43 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1047"
+decided: "1983-08-19"
+citations: ["318 Pa. Super. 397", "465 A.2d 13"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before ROWLEY, WIEAND and POPOVICH, JJ.", "POPOVICH, J., concurs in the result."]
+parties: ["COMMONWEALTH of Pennsylvania v. Calvin Earle EWELL, Appellant."]
+source_url: "https://static.case.law/pa-super/318/cases/0397-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 91079
+cites_cases: ["297 Pa.Super. 216", "297 Pa.Super. 308", "297 Pa.Super. 444", "297 Pa.Super. 66", "299 Pa.Super. 113", "303 Pa.Super. 442", "309 A.2d 589", "322 A.2d 127", "437 A.2d 1162", "453 Pa. 449", "456 Pa. 559", "462 Pa. 595", "464 Pa. 367", "464 Pa. 604", "470 Pa. 172", "479 Pa. 353", "480 Pa. 601", "489 Pa. 285", "493 Pa. 164", "496 Pa. 521"]
+---
+
+# Commonwealth v. Ewell
+
+## Majority (WIEAND, Judge:)
+
+WIEAND, Judge:
+If, during a jury trial on a charge of driving while under the influence of alcohol, the prosecuting attorney deliberately elicits from a Commonwealth witness an extrajudicial statement attributed to the defendant “that he had an incident before for drunken driving,” can the prejudice be removed by an instruction from the court that the statement can be used to show the defendant’s state of mind or the state of his condition but that, in fact, “[tjhere is nothing in the record available for the prosecution or defense ... that the defendant was arrested or prosecuted for drunken driving or for any other drinking while driving related offense”? We conclude that the prosecuting attorney’s conduct deprived the defendant of a fair trial and that the prejudice was not repaired by the trial court’s instruction. Therefore, we reverse the judgment of sentence and remand for a new trial.
+Calvin Earle Ewell was arrested and charged with driving while under the influence of alcohol after his pickup truck overturned at night along Millersville Road in Lancaster County. One of the first persons to arrive at the scene was Arthur Shenberger, who was called as a Commonwealth witness at trial and testified in part as follows:
+Q. Now, did you have any other discussions with this person?
+A. Well, he asked me if I would pull his pickup over so he could leave.
+Q. All right.
+He asked you to assist him in moving the truck? A. He wanted—he said he had a chain, and he wanted me to pull him over, because I have a pickup identical to his at that time there, and I told him I couldn’t do it. I didn’t want to get into any trouble. He said he had a chain, he wanted me to pull him over, he wanted to leave before the police got there, that he had an incident before for drunken driving—
+MR. PYFER [defense attorney]: Objection.
+May we approach the bench, Your Honor?
+(Sidebar conference as follows:)
+MR. PYFER: I would move for a mistrial.
+The trial court denied the motion for mistrial but instructed the jury as follows:
+THE COURT: Ladies and gentlemen of the jury, before we recessed, the defendant, Mr. Sheneberger (sic) made reference to a statement of the defendant at the scene of the accident, that he wanted to leave before the police got there, that he had an incident before for drunken driving.
+Counsel for the prosecution and the defendant have entered in the following stipulation, which will be read into the record and can be considered by you as a stipulation of fact: There is nothing in the record available for the prosecution or defense from this Commonwealth or any other state of the United States that the defendant was arrested or prosecuted for drunken driving or for any other drinking while driving related offense. There is nothing in the record with reference to that stipulation.
+Now, the answer elicited on direct examination by the Commonwealth should not be considered by you in any sense as an admission which would tend to prove that there was an incident before for drunken driving.
+It can be considered by you in determining what the state of mind or the state of defendant’s condition was at the time that statement was elicited.
+“ ‘It is a fundamental precept of the common law that the prosecution may not introduce evidence of the defendant’s prior criminal conduct as substantive evidence of his guilt of the present charge. It has been succinctly stated that [t]he purpose of this rule is to prevent the conviction of an accused for one crime by the use of evidence that he has committed other unrelated crimes, and to preclude the inference that because he has committed other crimes he was more likely to commit that crime for which he is being tried. The presumed effect of such evidence is to predispose the minds of the jurors to believe the accused guilty, and thus effectually to strip him of the presumption of innocence.’ ” Commonwealth v. Spruill, 480 Pa. 601, 604-605, 391 A.2d 1048, 1049-1050 (1978), quoting Commonwealth v. Terry, 462 Pa. 595, 599-600, 342 A.2d 92, 94-95 (1975) and Commonwealth v. Clark, 453 Pa. 449, 452-453, 309 A.2d 589, 590-591 (1973). See also: Commonwealth v. Morris, 493 Pa. 164, 175, 425 A.2d 715, 720 (1981); Commonwealth v. Fuller, 479 Pa. 353, 357, 388 A.2d 693, 694-695 (1978); Commonwealth v. Turner, 303 Pa.Super. 442, 451, 450 A.2d 9, 13 (1982); Commonwealth v. Taylor, 299 Pa.Super. 113, 119, 445 A.2d 174, 176-177 (1982); Commonwealth v. Lee, 297 Pa.Super. 216, 219-220, 443 A.2d 804, 805-806 (1982); Commonwealth v. Gonzales, 297 Pa.Super. 66, 76, 443 A.2d 301, 306 (1982).
+The testimony of the witness in the instant case was not an inadvertent and unexpected response to a proper question. Compare: Commonwealth v. Richardson, 496 Pa. 521, 526-527, 437 A.2d 1162, 1165 (1981); Commonwealth v. Williams, 470 Pa. 172, 178-179 & n. 4, 368 A.2d 249, 252 & n. 4 (1977); Commonwealth v. Black, 464 Pa. 604, 606, 347 A.2d 705, 706 (1975); Commonwealth v. Bowermaster, 297 Pa.Super. 444, 451, 444 A.2d 115, 118-119 (1982); Commonwealth v. Harris, 297 Pa.Super. 308, 316, 443 A.2d 851, 855 (1982). The witness had testified in a similar manner during a suppression hearing held on the day preceding trial, and the prosecuting attorney was patently aware thereof. He was also aware that there was in fact no record that appellant had ever been arrested or prosecuted for driving while under the influence. Nevertheless, counsel led the witness directly into testimony regarding the extrajudicial statement attributed to appellant. The deliberate nature of his examination was confirmed by his expressed belief that the testimony was relevant and proper.
+Was this deliberate attempt to prejudice the accused neutralized by the court’s cautionary instructions? We think not. In the first place, the court did not tell the jury unequivocally that appellant had never been arrested and charged with driving while under the influence of alcohol. Rather, the court repeated the prejudicial testimony and then told the jury that records available to counsel did not reflect any prior misconduct. Secondly, the court did not instruct the jury to disregard the prejudicial evidence. It told the jury, instead, that it could be considered as evidence of appellant’s “state of mind or the state of [his] condi tion ” (emphasis added) at the time the statement was made. This instruction permitted the jury to consider the statement that appellant had previously had an incident of drunken driving as evidence of his condition at the time of the alleged offense for which he was being tried. Finally, it is questionable whether any attempt to cure the damaging testimony would have been adequate to erase the deliberate prejudice caused by the prosecuting attorney. See: Commonwealth v. Brown, 489 Pa. 285, 298, 414 A.2d 70, 76 (1980); Commonwealth v. Williams, supra, 470 Pa. at 178-179 & n. 4, 368 A.2d at 252 & n. 4; Commonwealth v. Fortune, 464 Pa. 367, 374, 346 A.2d 783, 787 (1975); Commonwealth v. Russell, 456 Pa. 559, 564-565, 322 A.2d 127, 130 (1974). To believe that a jury could erase from its mind testimony that appellant had previously been involved in a drunken driving incident because the trial judge told them to do so is not at all realistic. Appellant was unfairly prejudiced by the prosecuting attorney’s examination of a Commonwealth witness, and the trial court did not cure the prejudice. It can be corrected only by a new trial.
+Reversed and remanded for a new trial.
+Jurisdiction is relinquished.
+POPOVICH, J., concurs in the result.
+. This stipulation followed the trial court’s denial of the motion for mistrial. There was no waiver of appellant’s right to obtain post trial review of the court’s ruling.
