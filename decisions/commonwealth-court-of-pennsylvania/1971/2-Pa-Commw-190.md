@@ -1,0 +1,42 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+decided: "1971-05-19"
+citations: ["2 Pa. Commw. 190"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Manderino, M'encer and Rogers."]
+parties: ["Paul A. Simmons v. Delores Tucker, Secretary of the Commonwealth of Pennsylvania and Thomas D. Gladden, Intervenor."]
+source_url: "https://static.case.law/pa-commw/2/cases/0190-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1845121
+---
+
+# Simmons v. Tucker
+
+## Majority (Judge Wilkinson,)
+
+Opinion by
+Judge Wilkinson,
+The narrow issue before this Court in this case is whether the commissioning by the President of the United States of a Pennsylvania common pleas judge as a federal district judge, without a resignation by the judge or his assuming of the duties of his office as a federal district judge, constitutes his holding office within the meaning of the prohibition of section 17(a) of Article V of the Pennsylvania Constitution. We hold that it does not.
+The arguments of the plaintiff are directed to the prohibitions of the Act of May 15, 1847, P. L. 186, §1, as amended, 65 P.S. 1. However, this Act’s application is to local officers and applies to “the office or appointment of justice of the peace, notary public, mayor, recorder, burgess or alderman of any city, corporate toton or borough, resident physician of the lazaretto, constable, judge, inspector or cleric of election under this Commonwealth”. (Emphasis supplied.) Manifestly this refers to “judge, inspector or clerk of election” as election officials and not to judges of the several courts of the Commonwealth. Nevertheless, plaintiff’s arguments apply with equal validity or invalidity to the prohibition of Article V, section 17(a) of the Pennsylvania Constitution.
+Transparently, the abuse to be prevented by the constitutional prohibition was the assuming of duties incompatible with the duties of justice or judge of the courts of Pennsylvania.
+On December 8,1970, Honorable Barron P. McCune, then a judge of the Court of Common Pleas for Washington County, 27th Judicial. District, was nominated by the President of the United States to the office of U. S. District Judge for the Western District of Pennsylvania. On December 16, 1970, the nomination was confirmed by the United States Senate and on December 18, 1970, Judge McCune was commissioned a federal judge. Admittedly, he continued to perform actively his duties as a common pleas judge until December 31, 1970. He did not take his oath of office or otherwise become invested or assume his duties as a federal district judge until January 22, 1971.
+In the meanwhile, on December 28, 1970, Judge McCune notified the Governor of Pennsylvania of his intention to accept the appointment as a federal district judge and to resign effective 12:01 a.m., January 4, 1971. On January 4, 1971, the Governor accepted the resignation and appointed Honorable Thomas D. Gladden, intervenor herein, to fill the vacancy thus created. Judge Gladden’s commission was for a term to expire on the first day of January, 1974.
+The following statement of events is quoted from plaintiff’s brief:
+“On the morning of March 9,1971, at approximately 9:30 a.m., the last legal day to file nominating petitions, Paul A. Simmons, the Plaintiff herein, tendered to the Secretary of the Commonwealth of Pennsylvania filing fees in the proper amount, nomination petitions signed by over one thousand persons and properly executed and signed by a sufficient number of electors for both the Democrat and Republican parties for the office of a Judge of a Court of Record, being the Court of Common Pleas of the 27th Judicial District of the Commonwealth of Pennsylvania. The petitions were refused by the Secretary for the reason that the Secretary advised there was no vacancy for the office. Paul A. Simmons, through his attorney, protested the refusal to accept the petitions and insisted he had a legal right to have his name placed on both the Democrat and Republican ballots in the upcoming primary of May 18, 1971, and thereupon on the same day, to wit, March 9, 1971, filed a Complaint in Mandamus against the Secretary of the Commonwealth commanding her to accept the nominating petitions of the Plaintiff for the nomination as a candidate of both the Democrat and Republican parties.
+“On March 29, 1971, ten days later, a Petition to Intervene was filed by the Honorable Thomas D. Gladden with the Commonwealth Court and a hearing was set for the same 9 days later on April 6, 1971. At the hearing on April 6,1971, it was agreed between the parties that an attempt would be made to enter into a stipulation of facts, and on the same day the Commonwealth Court permitted intervention setting April 20, 1971, 14 days later for evidentiary hearings or in the alternative ordering that the case would be listed for argument in the month of May upon Petition of any party.
+“On April 15, 1971, eleven days later, a stipulation of facts having been filed with the Commonwealth Court, the Commonwealth Court issued an order fixing Wednesday, May 5, 1971, 20 days later, as the date for argument before the Court en banc and in addition this case was placed at the foot of the May argument list of cases scheduled for that day, with the Plaintiff to submit his brief on or before April 29, 1971, and the intervening Defendant to submit his brief on or before May 4, 1971.”
+If the vacancy to which Judge Gladden was appointed occurred by the resignation of Judge McCtjne on January 4, 1971, the defendant, DeLores Tucker, Secretary of the Commonwealth of Pennsylvania, acting on the advice of the Attorney General of Pennsylvania, acted appropriately in declining plaintiff’s nominating petition. We hold that it did and that the action of DeLores Tucker was entirely appropriate.
+It is the plaintiff’s position that inasmuch as the federal law provides that the term of a federal judge begins from the date of his commission, it must follow that he holds the office from that date within the prohibition of the Pennsylvania Constitution. This is not correct, for in the same federal law it is provided that he may not perform any duties of the office of Federal District Judge until he has taken the oath of office. See 28 U.S.C.A. 488.
+We do not decide that in every position or office in the Commonwealth an incumbent must have taken his oath of office before he can be said to “hold that office” for many purposes, including the right to receive pay or other emoluments of the office. What we do decide is that a person commissioned as a federal district judge must have taken his oath of office and thereby become eligible to perform his duties under the federal law as it applies to that office before it can be said that he “holds” the office within the meaning of the Pennsylvania constitutional provision which makes it incompatible with holding the office of justice or judge in Pennsylvania.
+Having thus decided that Judge McCune did not hold a federal judgeship within the meaning of the Pennsylvania constitutional prohibition prior to January 4, 1971, it is not necessary to discuss or decide what the appropriate remedy would have been had he held the office of federal judge before resigning as a state judge and whether the vacancy in that event would occur on the date of his removal or on the date when he assumed the duties of the incompatible office.
+Accordingly, we enter the following Order
+Now, May 6, 1971, plaintiff’s complaint in mandamus is hereby dismissed and judgment entered in favor of defendant.
+
+## Concurrence (Judge Kramer:)
+
+Concurring Opinion by
+Judge Kramer:
+I concur with the opinion of the majority. However, I believe it important to point out that even the plaintiff agrees that Judge McCune could have rejected the federal judicial commission to the moment he accepted it, which was at some time subsequent to January 4, 1971. In view of that fact, there was no vacancy in the office of Judge of the Court of Common Pleas of Washington County, until the date and time Judge McCune fixed for the offering of his resignation and the acceptance of it by the Governor, viz., January 4, 1971.
+Therefore, the Secretary of the Commonwealth was correct in refusing to accept the nomination petitions of plaintiff.
