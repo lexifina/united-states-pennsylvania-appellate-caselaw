@@ -1,0 +1,35 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 220"
+decided: "1905-01-17"
+citations: ["27 Pa. Super. 288"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlad y, Porter, Morrison and Henderson, JJ."]
+parties: ["Wanamaker v. Quinn, Appellant."]
+source_url: "https://static.case.law/pa-super/27/cases/0288-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 856520
+cites_cases: ["18 Pa. Superior Ct. 488", "19 Pa. Superior Ct. 73", "29 Pa. 192", "59 Pa. 450", "6 W. & S. 439", "82 Pa. 128"]
+---
+
+# Wanamaker v. Quinn
+
+## Majority (Morrison, J.,)
+
+Opinion by
+Morrison, J.,
+The plaintiff brought an action in assumpsit, and filed a declaration for goods sold and delivered to the defendant upon book account, and attached a copy of the account and made it part of the declaration. The declaration does not state when the goods were sold and delivered, but that is ascertained by referring to the copy of the account attached, which shows an itemized statement of goods sold in June, 1898, and on July 1 and 2 of the same year. The amount of the claim stated in the declaration is $823.27, with interest from March 15,1899.
+The defendant filed an affidavit of defense in which he alleged a just and true defense to part of the plaintiff’s demand, to wit: a set-off of $500, with interest from July 1, 1898, which sum he claimed to be justly due him by the plaintiff, leaving a balance due plaintiff of $243, which sum he averred a willingness to pay. The affidavit as to the set-off is as follows : “ The defendant being the owner of two cottages in Sea Isle City, N. J., in the month of June, 1898, entered into a verbal contract with Dr. Wilson of Philadelphia, to rent them to him for the sum of $500 for the season, under the condition that said cottages (then being unfurnished) should be fully furnished and ready for occupancy before July 1, 1898. That upon the day following this contract with Dr. Wilson, deponent called at plaintiff’s place of business in Philadelphia, and then made known the same to Mr. G.illis, the agent in charge of plaintiff’s contract department. Whereupon the said agent for plaintiff then and there agreed with deponent to sell him such articles of furniture as he might require for the furnishing the said two cottages, and to deliver them at Sea Isle City before July 1, 1898. That in pursuance of this agreement deponent purchased the articles charged against him in copy of plaintiff’s book entries, filed under date of June 29 and July 1 and 2, 1898, amounting to 1784.45.
+“ That plaintiff failed to comply with his agreement to deliver the goods at Sea Isle City before July 1, 1898, and did not deliver them there until some time thereafter, thus leaving said cottages unfurnished on the first day of July, by reason whereof Dr. Wilson declined and refused to rent them from deponent or to pay him the $500, as conditionally agreed upon.
+“ That deponent made every effort to rent said cottages during the season of 1898, but was unable to obtain tenants therefor.
+“ That deponent, by reason of plaintiff’s failure to keep his contract, lost the sum of $500, rental of said cottages, which he would otherwise have received and enjoyed on July 1,1898, and therefore sets up said loss against plaintiff’s claim.
+“ All of which facts he believes to be true and expects to prove the same on the trial of the cause.”
+Upon the plaintiff’s declaration and the above affidavit of defense, the learned court below made absolute a rule for judgment for the whole amount of the plaintiff’s claim, and this is assigned for error.
+Unliquidated damages arising ex contractu from any bargain may be set off under the defalcation act of 1705, 1 Sm. Laws, 49, whenever they are capable of liquidation by any known legal standard: Halfpenny v. Bell, 82 Pa. 128; Hunt v. Gilmore, 59 Pa. 450; Lierz v. Morris, 19 Pa. Superior Ct. 73; North German Lloyd Steamship Co. v. Wood, 18 Pa. Superior Ct. 488.
+The damage averred by the defendant, assuming it to be true as we must in this proceeding, is readily liquidated. He plainly avers that by the failure of the plaintiff to deliver the goods before the first day of 'July he suffered a loss of 1500, and specifically states how the loss occurred. It is argued by the counsel for the appellee that the defendant did not buy the goods until Julyl and 2, and therefore it was not possible .to deliver them before July 1.
+The declaration does not, in fact, state when the goods were purchased and when they were, delivered. But it is argued that reference to the copy of account attached shows that the goods were sold and delivered on July 1 and 2. This is not very satisfactory. The defendant may have purchased the goods at an earlier date, as he avers in his affidavit, and they may not have been charged upon the books until they were delivered. In the declaration the sale and delivery are joined by the conjunction “ and ” thus : “ Sold and delivered by them to the defendant.” Now this may be true, in a sense, and yet the sale may have been actually made in June, in time to make the delivery before the first day of! July. -And the plaintiff may not have charged and delivered the goods until after July 1 and 2. If the goods were not sold until July 1 and 2, it would have been easy to have so stated'in the body of the declaration.
+Counsel for appellee argues that his statement avers that the merchandise was sold to the defendant at the times and in the amounts specified in the copy of the-plaintiff’s book of original entries. But this is not correct. The averment is sold and delivered, as we have already seen. And the very thing the defendant complains about is that they were not delivered before July 1. It is further argued that the defendant does not aver with certainty, the time when he informed Mr. Gillis of the alleged agreement with Dr. Wilson, but he does aver ■that he informed him of the contract, aud he agreed to sell him the goods and deliver them before July 1. This is not- susceptible of any other construction than that it was long enough before July l, so that thé goods could be delivered prior to that date.
+It is further argued that the defendant should have gone into the open market and purchased other goods, and therefore the amount of rent he was to receive from Dr. Wilson is not a correct measures of damages. But how can this be so ? Under the contract set up in the affidavit, the plaintiff had until the last hour of the last day of June to. make the delivery and the defendant was justified in assuming that the goods would be delivered, until it was too late for him to buy other goods and thus comply with his contract with Dr. Wilson.
+We are constrained to hold that the learned court erred in granting judgment for want of a sufficient affidavit of defense and the assignment of error is sustained and the judgment is reversed, with a procedendo.
