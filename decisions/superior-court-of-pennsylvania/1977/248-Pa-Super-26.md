@@ -1,0 +1,51 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "2336"
+decided: "1977-06-29"
+citations: ["248 Pa. Super. 26", "374 A.2d 1299"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WATKINS, President Judge, and JACOBS, HOFFMAN, CERCONE, PRICE, VAN der VOORT and SPAETH, JJ.", "VAN der VOORT, J., concurs in the result.", "PRICE, J., dissents."]
+parties: ["COMMONWEALTH of Pennsylvania v. Samuel Joseph POLOF, Appellant."]
+source_url: "https://static.case.law/pa-super/248/cases/0026-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 832425
+cites_cases: ["224 A.2d 188", "237 Pa.Super. 280", "238 Pa.Super. 565", "239 A.2d 296", "352 A.2d 539", "362 A.2d 427", "423 Pa. 177", "429 Pa. 24", "466 Pa. 430"]
+---
+
+# Commonwealth v. Polof
+
+## Majority (JACOBS, Judge:)
+
+JACOBS, Judge:
+Samuel Joseph Polof, the appellant, was subpoenaed to appear as a witness before the Special Investigating Grand Jury of Philadelphia County, which was convened to investigate alleged payoffs to police officers and public officials for the protection of illegal gambling operations. After appellant’s appearance and testimony before the Investigating Grand Jury, a presentment was issued, approved and submitted to the Indicting Grand Jury, which subsequently resulted in appellant’s indictment for perjury and false swearing. Appellant’s counsel filed a Motion to Quash the Indictments which was denied. Appellant pleaded not guilty to the four counts of the indictment, and trial commenced January 17, 1975, before Judge KUBACKI and a jury. On January 30, 1975, the jury returned a guilty verdict on one count of perjury.
+Boiler plate post-trial motions were filed on February 6, 1975, and on April 10, 1975, supplemental post-trial motions were argued before the court below. However, because of the absence of any indication that supplemental post-trial motions had been filed, and the general nature of appellant’s post-trial motions of record, this Court held that appellant’s eighteen assignments of error were not properly preserved for appellate review. This Court denied appellant’s petition for reargument on April 16, 1976, and on August 2, 1976, our Supreme Court ordered the case remanded to us for disposition on the merits.
+Appellant contends that the indictment should have been quashed because he was not notified of the impending indictment which deprived him of his right to challenge any individual juror or the array of the indicting grand jury. We agree. The Commonwealth does not challenge Or deny appellant’s assertion that he received no notice of hi$ impending indictment. Rather, it contends that Rule 203 of the Pennsylvania Rules of Criminal Procedure does not apply in this case, and that the appellant’s recourse was to make a post-indictment challenge to the array of the grand jury. While it is true that Pa.R.Crim.P. 203 does not literally apply to indictments initiated by special investigating grand juries, as we specifically held in Commonwealth v. Sills, 237 Pa.Super. 280, 285, 288, 352 A.2d 539 (1975), it is also true that an accused has the constitutional right to challenge the array of the grand jury and prove by legally competent evidence that one or more of the grand jurors should be disqualified for cause. Commonwealth v. Collemacine, 429 Pa. 24, 239 A.2d 296 (1968); Commonwealth v. Dessus, 423 Pa. 177, 224 A.2d 188 (1966).
+In Commonwealth v. Sills, supra, the defendant appeared before a special investigating grand jury convened to investigate cigarette smuggling in Philadelphia. After several unsuccessful attempts by the defendant to avoid testifying, the last of which coincided with the conclusion of the grand jury’s investigation, the investigating grand jury recommended Sills’ indictment. Judge TARIFF then directed the Commonwealth to submit the presentment to the indicting grand jury, and defendant was notified by certified mail of his impending indictment. Even though we held that the indictment should not have been quashed for failure to supply ten days actual notice to defendant prior to submitting the bill of indictment to the indicting grand jury, we said
+“[W]e must also decide whether the notice supplied by the Commonwealth was sufficient to allow appellee the opportunity to challenge the array of the grand jury, or challenge individual grand jurors for cause.” 237 Pa.Super. at 288, 352 A.2d at 543.
+Analysis of this same question in the present case leads to the inescapable conclusion that appellant was deprived of his constitutional right to challenge the indicting grand jury. The Commonwealth contends, however, that appellant could have challenged the grand jury post-indictment, and failed to do so. Our Supreme Court expressly rejected a similar contention in Commonwealth v. Wasserman, 466 Pa. 430, 353 A.2d 430 (1976). Additionally, we specifically applied the Rule 203(a) provision that a challenge must be made before the bill of indictment is submitted to the grand jury to cases of this nature in Sills, supra.
+“While the accused must have an opportunity to challenge within a reasonable time the grand jury array or prove by legally competent evidence that one or more of the grand jurors should be disqualified for cause, Rule 203(a) specifically provides, ‘in any event, a challenge must be made before the bill of indictment is submitted to the grand jury.’ ” 237 Pa.Super. at 290, 352 A.2d at 544.
+For the foregoing reasons, the judgment of sentence is vacated and the indictment quashed.
+VAN der VOORT, J., concurs in the result.
+PRICE, J., dissents.
+. Act of December 6, 1972, P.L. 1482, No. 334, § 1, 18 Pa.C.S. § 4902.
+. Act of December 6, 1972, P.L. 1482, No. 334, § 1, 18 Pa.C.S. § 4903.
+. Appellant’s counsel filed a Motion to Quash Indictments on the four counts of perjury on October 8, 1974. This motion was denied after argument on November 24, 1974. Two of the indictments were subsequently amended to delete certain allegedly false statements, and an additional Motion to Quash Indictments was filed on January 13, 1975. The trial judge also denied this motion, noting that the application to quash the indictments has been denied on the record.
+. Upon original, thorough examination of the record by this Court, no supplemental Post-Trial Motions could be found. See Commonwealth v. Polof, 238 Pa.Super. 565, 362 A.2d 427, 429 (1976). Additionally, the opinion filed by the lower court states that appellant’s post-trial motions were filed without a supporting brief, were general in nature, and advanced no meritorious arguments on appellant’s behalf.
+. Commonwealth v. Polof, 238 Pa.Super. 565, 362 A.2d 427 (1976).
+. The remand order read:
+“August 2, 1976 Petition granted. Matter remanded to the Superi- or Court for disposition on the merits. Per Curiam.” Commonwealth v. Polof, No. 2464 Allocatur Docket.
+. In appellant’s Application to Quash Indictments, paragraphs six and seven allege:
+“6. Applicant was not informed as to which Grand Jury would be presented with his case, nor was he informed that he had a right
+to challenge either the array of the Grand Jury which would indict him or to challenge any individual Grand Juror or to prove that one or more of the Grand Jurors who would indict him could be disqualified for cause.
+“7. Petitioner was prejudiced when he was not informed as to which Grand Jury would indict him or that he had a right to challenge any individual Grand Juror or the entire array of the Grand Jury, and this right is given to him pursuant to the Constitution of the Commonwealth of Pennsylvania and is preserved by Rule 203 of the Pennsylvania Rules of Criminal Procedure.
+In the Commonwealth’s response to this Application to Quash Indictments, the Commonwealth admitted paragraph six, and essentially admitted paragraph seven, as follows:
+“6) Admitted.
+“7) Admitted in part, denied in part. Petitioner was not in any way prejudiced by not being informed as to which Grand Jury would indict him or that he had a right to challenge the array of the Grand Jury or an individual grand juror. It must be assumed that counsel for the Petitioner was aware of Rule 203; therefore, assuming arguendo, that any prejudice did flow to the Petitioner, it must be considered to have resulted from Petitioner’s failure to raise such issue until eight weeks after the bills of indictment were issued.”
+Additionally, the Commonwealth admitted in argument on Supplemental Post-Trial Motions that its policy was not to give notice in this situation and admitted in its brief that appellant was given no opportunity to challenge the grand jury before his indictment. Brief of Appellee at 4.
+. Pa.R.Crim.P. 203 provides:
+“(a) A defendant who has been held for court or the attorney for the Commonwealth may challenge the array of the grand jury or an individual grand juror. A challenge to the array may be made only on the ground that the grand jury was not selected, drawn or summoned substantially in accordance with law. An individual grand juror may be challenged for cause. All challenges must be made before the grand jurors are sworn, unless reasonable opportunity did not exist prior thereto; in any event a challenge must be made before the bill of indictment is submitted to the grand jury as provided in subdivision (c) hereof.
+“(b) All challenges shall be in writing and shall specify the grounds therefor. The parties shall not have a right to examine grand jurors on voir dire. If a challenge to the array is sustained, the grand jury shall be discharged; if a challenge to an individual grand juror is sustained, the court shall make an appropriate order which may include standing the challenged juror aside for a particular case or discharging him from further service. Where necessary, the court may replace a juror who has been stood aside or discharged.
+“(c) A bill of indictment shall not be submitted to a grand jury for action until 10 days after a defendant is held for court unless he consents to an earlier submission and the Commonwealth agrees thereto, or the court, for cause, permits an earlier submission.”
+. Brief for Appellee at 3-4.
