@@ -1,0 +1,38 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 1955 C. D. 1987"
+decided: "1988-06-10"
+citations: ["117 Pa. Commw. 79", "542 A.2d 226"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail and Smith, and Senior Judge Barbieri, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania, Department of Public Welfare, Petitioner v. R. Lee Ziegler, Respondent."]
+source_url: "https://static.case.law/pa-commw/117/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1373775
+cites_cases: ["107 Pa. Commonwealth Ct. 117", "34 Pa. Code §101.41", "456 A.2d 247", "475 A.2d 902", "480 A.2d 356", "483 Pa. 503", "72 Pa. Commonwealth Ct. 162", "82 Pa. Commonwealth Ct. 266", "84 Pa. Commonwealth Ct. 554"]
+---
+
+# Commonwealth, Department of Public Welfare v. Ziegler
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+Petitioner Department of Public Welfare (DPW) appeals an order of the Board of Claims (Board) which awarded attorney fees to R. Lee Ziegler (Respondent). For the reasons set forth below, we vacate the Boards order and dismiss the suit.
+Respondent entered into an attorney-client relationship with Stephen Harris ini July of 1982, in order to obtain unemployment compénsation benefits for Harris. He appeared at a referees hearing on Harris’ behalf and then appealed an adverse decision to.the Unemployment Compensation Board of Review (UCBR). When Harris was again denied benefits, Respondent filed a petition for review with this Court. The matter was eventually remitted to the UCBR, and, on November 4, 1983, Harris was awarded benefits in the amount of $8,249.78. ...
+On November 18, 1983, Respondent discovered that Harris had assigned his claim to DPW because, unknown to Respondent, Harris was a public assistance recipient. The amount of $4,356.00 was subsequently paid to DPW. Respondent requested from DPW a portion of this amount as legal fees in letters dated November 21, 1983; January 10, 1984; February: 21, 1984; and March 12, 1984.
+• Respondent received no, response-from DPW until. March 27, 1984, when it informed him that, “there is no authority under which the Department, may award a fee for your representation of Stephen Harris.” Exhibit E, R. R. at 9a. DPW s letter stated further that the unemployment compensation referee has statutory and,regulatory authority to award,compensation and that DPW cannot determine appropriate fees without an award from a referee. On November 20, 1984, Respondent filed a petition for approval, of counsel fees with the UCBR, In a letter dated December 13, 1984, the UCBR informed Respondent that it did not need to approve his counsel fees because there was no. issue raised as to the amount of fees. See 34 Pa. Code §101.41(a).
+On December 20, 1984, Respondent filed a claim against DPW with the Board-in the amount of $1,793.09. Following the dismissal of DPW’s preliminary objections and the filing of an answer and new matter, the claim was heard before a hearing panel of the Board. The panel, after hearing the evidence of Respondent and Harris, -opined that Respondent should receive his claimed attorney fees. Relying on the decision of this Court in Department of Public Welfare v. Moran, 84 Pa. Commonwealth Ct. 554, 480 A.2d 356 (1984), the Board concluded that Respondent was entitled to recover his fees from DPW and ordered DPW to pay him $1,798.52, plus interest. DPW has appealed this June 23, 1987 order to our Court.
+The sole issue before us is the timeliness of Respondents claim, filed with the Board on December 20, 1984, an issue raised by DPW in new matter in its answer to' Respondents claim, but not addressed by the Board in its adjudication. We agree with DPW that Respondents claim was not timely and that, therefore, the Board was without jurisdiction.
+Section 6 of the Act of May 20, 1937, P.L. 728, as amended, 72 P.S. §4651-6, provides that the Board “shall have no power and exercise no jurisdiction over a claim asserted against, the Commonwealth unless the claim shall have been filed within six months after it accrued.” We have interpreted this section as deeming a cause of action to accrue when the injured party is first able to litigate a claim, i.e., when the amount due under the claim is known and a concise and specific written statement detailing the injury is preparable. Department of Public Welfare v. School District of Philadelphia, 107 Pa. Commonwealth Ct. 117, 527 A.2d 1094 (1987). The statute of limitations runs from the time a Board claimant is affirmatively notified that he will not be paid by the Commonwealth. Department of Reve nue, Bureau of State Lotteries v. Irwin, 82 Pa. Commonwealth Ct. 266, 475 A.2d 902 (1984).
+DPW contends that Respondents claim with the Board accrued when he received DPWs letter of March 27, 1984. In this letter, DPWs Director of Fraud, Abuse, Investigations and Restitution informed Respondent that “the Department must respectfully deny your claim for an attorneys fee for your representation of Stephen Harris.” We agree with DPW that this was an unequivocal denial of fees and that, accordingly, Respondent should have filed his claim with the Board within six months of March 27, 1984.
+Respondent argues that DPW should be estopped from raising the statute of limitations on Board claims because it ignored three of his letters and, when it finally did respond, responded in “administrative doubletalk”. We do not believe there was anything in DPWs March 27, 1984 letter that should have confused or misled Respondent. This letter did not direct Respondent to file a motion for approval of fees, but only informed Respondent that the unemployment compensation referee has the authority to award attorney fees in unemployment proceedings, and not DPW.
+We are satisfied that this is not a situation where DPW intentionally misled Respondent or misrepresented to him the status of his claim. There is nothing in DPWs conduct to suggest the “fraud or concealment” necessary to support the application of the doctrine of estoppel as our courts have required under other circumstances. See Department of Public Welfare v. UEC, Inc., 483 Pa. 503, 397 A.2d 779 (1979); Department of Community Affairs v. Craftech International, 72 Pa. Commonwealth Ct. 162, 456 A.2d 247 (1983).
+Accordingly, we conclude that Respondents claim, filed with the Board on December 20, 1984, was not filed within six months of March 27, 1984, the date on which his claim against DPW accrued. The Board, therefore, was without jurisdiction over Respondents untimely claim.
+Order
+The order of the Board of Claims in the above-captioned proceeding is , vacated, and the suit is dismissed.
+See Section 702 of the Unemployment Compensation Law, Act of December 5, 1936, Second Ex. Sess., P.L, (1937) 2897, as amended, 43 P.S. §862; and 34 Pa. Code §101.41.
+This figure represents 52.8% of Respondents total fees from Harris’ case, the percentage of Harris’ unemployment award of $8,249.78 which was paid over to DPW.
+In Moran, an attorney representing a social security claimant obtained an award which was transferred to DPW. We concluded that the attorney had a quasi-contract with DPW within the Boards jurisdiction and that he was entitled to his fee from the award because [t]o allow DPW to retain this entire amount without compensating the respondent [attorney] for his efforts would offend all notions of fairness.” 84 Pa. Commonwealth Ct. at 557, 480 A.2d at 358 (footnote omitted).
