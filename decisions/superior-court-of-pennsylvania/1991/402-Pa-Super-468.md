@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1168"
+decided: "1991-03-13"
+citations: ["402 Pa. Super. 468", "587 A.2d 345"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before ROWLEY, President Judge, and DEL SOLE and MONTGOMERY, JJ."]
+parties: ["John COUY, John L. Spiegel, Jack W. Plowman, Joseph F. Mulach, Pete A. Teodori, Walter F. Chebatoris, Angelo Noce, John Kosky and Edward Rawlings, v. NARDEI ENTERPRISES and John Nardei, Appellant."]
+source_url: "https://static.case.law/pa-super/402/cases/0468-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 891723
+cites_cases: ["134 A. 103", "286 Pa. 493", "314 Pa.Super. 177", "396 U.S. 375", "483 A.2d 1003", "511 Pa. 535", "562 A.2d 926"]
+---
+
+# Couy v. Nardei Enterprises
+
+## Majority (DEL SOLE, Judge:)
+
+DEL SOLE, Judge:
+In this case we are asked to determine if counsel fees should be awarded to Appellees, plaintiffs in the trial court, under the common fund doctrine, codified in subdivision 8 of 42 Pa.C.S. § 2503. We affirm the trial court and hold that Appellees are entitled to counsel fees from the common fund created as a result of common law arbitration.
+The underlying dispute in this case concerns Appellees, who are limited partners, and Appellant, John Nardei, the managing partner of Nardei Enterprises. Appellees submitted a claim to common law arbitration charging that John Nardei had improperly used partnership funds. The arbitrators entered an award imposing a surcharge against Mr. Nardei in the amount of approximately $106,000.00. Shortly after the entry of the award, he paid this amount to the partnership, Nardei Enterprises.
+Appellees filed a motion to confirm arbitration to the Court of Common Pleas, Allegheny County, and an ancillary motion requesting reimbursement of counsel fees. The trial court found that the Appellees paid fair and reasonable counsel fees of $31,035.26 to their attorney for legal services for the arbitration proceedings, and ordered Nardei Enterprises to pay Appellees that sum from the common fund created by the arbitration proceedings.
+It is the American rule that parties to adversary litigation are required to pay their own counsel fees. The common fund doctrine, a common law exception to this rule, has been statutorily codified at subdivision (8) of § 2503. Jones v. Muir, 511 Pa. 535, 515 A.2d 855 (1986). In essence, the common fund doctrine applies when an attorney’s services:
+protect a common fund for administration or distribution under the direction of the court, or where such fund has been raised for like purpose, it [the fund] is liable for costs and expenses, including counsel fees incurred. This is the case even though the protection given or the raising of a fund results from what may be properly termed adversary litigation. Hempstead v. Meadville Theological School, 286 Pa. 493, 134 A. 103 (1926).
+In other words, when several people have a common interest in a fund, the assets of which may be created through adversary litigation, and one or more of these people, for the benefit of all, but at their own cost and expense, bring suit to administer or preserve that fund, the court will order plaintiff or plaintiffs to be reimbursed for costs and expenses, including counsel fees, from the property of the fund, or order those benefited to contribute proportionately toward that expense. Pennsylvania Association of State Mental Health Hospital Physicians v. State Employees’ Retirement Board, 87 Pa.Cmwlth. 108, 483 A.2d 1003 (1984).
+Furthermore, 42 Pa.C.S. § 2503(8) authorizes the award of attorneys’ fees to “[a]ny participant who is awarded counsel fees out of a fund within the jurisdiction of the court pursuant to any general rule relating to an award of counsel fees from a fund within the jurisdiction of the court.” This authorization has been taken to mean that the common fund exception applies not only when the fund is before the court prior to litigation, but where the successful litigation of the underlying suit resulted in a substantial benefit to a “group of others in the same manner as plaintiff,” Mills v. Electric Auto-Lite Co., 396 U.S. 375, 392, 90 S.Ct. 616, 625, 24 L.Ed.2d 593 (1970), quoted in, Pennsylvania Assoc., supra., 87 Pa.Commonwealth 116, 483 A.2d at 1007.
+Here the underlying suit resulted in a benefit to the partnership. Further, although there is a dispute as to the exact percentages involved, it is clear that the plaintiffs hold less than 50% of the partnership assets. Consequently, other limited partners, and the general partner, who is also a limited partner, benefitted from the litigation which preserved and augmented the assets of the partnership. Therefore, the common fund exception, which rests on the perception that persons who obtained the benefit of a lawsuit without contributing to its cost are unjustly enriched at the successful litigant’s expense, applies. See, Estate of Wanamaker, 314 Pa.Super. 177, 460 A.2d 824, 825 (1983).
+This circumstance distinguishes the instant case from City of Reading v. Feltman, 127 Pa.Cmwlth. 618, 562 A.2d 926 (1989), upon which Appellant relies. In Reading, there is no evidence in the opinion that others, apart from the plaintiffs, who were the dependants or widows of police officers who retired or died before a certain date, benefitted from this suit interpreting the provisions of the Police Pension Fund Ordinance. Therefore, the court held that there was no fund within the jurisdiction of the court, as required by statute, and therefore no attorneys’ fees were awarded.
+Here, the fund was within the jurisdiction of the court because the court entered an order confirming the arbitration award and entered judgment in conformity with that order, as required by 42 Pa.C.S. § 7342(b). Therefore, Appellant’s argument that the fund is not within the jurisdiction of the court, because it was created as a result of common law arbitration procedures required by the partnership agreement, has no merit. It is even less persuasive because the partnership, the recipient of the fund created by the litigation and confirmed by the court, was a party to the underlying arbitration proceedings.
+We therefore affirm the judgment entered on the order directing the payment of counsel fees from the common fund created by the arbitration proceedings.
