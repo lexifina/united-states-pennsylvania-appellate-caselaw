@@ -1,0 +1,42 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 178 C.D. 1983"
+decided: "1984-06-19"
+citations: ["83 Pa. Commw. 286"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Craig, Barry and Palladino, sitting as a panel of three."]
+parties: ["Thiele, Inc. and Westmoreland Casualty Company, Petitioners v. Workmen’s Compensation Appeal Board (Sulosky, Jr.), Respondents."]
+source_url: "https://static.case.law/pa-commw/83/cases/0286-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1322366
+cites_cases: ["18 Pa. Commonwealth Ct. 352", "208 Pa. Superior Ct. 224", "222 A.2d 431", "308 A.2d 637", "336 A.2d 440", "36 Pa. Commonwealth Ct. 352", "387 A.2d 1339", "448 A.2d 673", "68 Pa. Commonwealth Ct. 118", "9 Pa. Commonwealth Ct. 470"]
+---
+
+# Thiele, Inc. v. Workmen's Compensation Appeal Board
+
+## Majority (Judge Barry,)
+
+Opinion by
+Judge Barry,
+This appeal follows an award of benefits by a referee, affirmed by the Workmen’s Compensation Appeal Board (Board), to William P. Sulosky (claimant).
+The claimant was injured on July 8, 1976, while employed by Thiele, Inc., (petitioner), when during the course of his employment, a metallic foreign body penetrated the cornea and lens of his left eye. Dr. Edward Sorr surgically removed the metallic object from claimant’s left eye the next day. Following postoperative recovery, a traumatic cataract developed in claimant’s left eye which necessitated surgical extraction by Dr. Sorr on December 9, 1976.
+The claimant received workmen’s compensation benefits for twenty-eight weeks and executed a Final Receipt on March 25, 1977, which recited that the claimant returned to work for the employer at no loss of earnings on February 28, 1977.
+The claimant subsequently filed a Petition to Set Aside a Final Receipt which the referee granted on July 20, 1978. The Board, however, remanded the ease to the referee to review the medical testimony and determine the proper legal criteria for the loss of use of an eye.
+Additional medical testimony was presented to the referee who again granted relief to claimant in his Petition to Set Aside a Final Receipt and awarded benefits for the loss of use of his left eye. The Board affirmed the order of the referee and this appeal followed.
+The scope of review of this Court, where the party with the burden of proof prevails below, is limited to a determination of whether necessary findings of fact were supported by substantial evidence. Forbes Pavillion Nursing Home v. Harden, 18 Pa. Commonwealth Ct. 352, 336 A.2d 440 (1975). The claimant, having the burden of proof in a proceeding to set aside a final receipt, prevailed before the Board by proving the loss of use of his injured eye. We, therefore, must consider whether substantial evidence supports the findings by the fact finder who awarded benefits to the claimant for loss of use of his injured eye.
+The standard for determining whether compensation for the specific loss of an eye should be awarded where the eye has been injured but not destroyed, is as follows:
+[W]hether the injured eye was lost for all practical intents and purposes, not whether claimant in fact has vision in the injured eye. [If so, compensation follows.] In facilitation of the application of the ultimate test, a further standard has been adopted: Compensation may not be had if, using both eyes, the claimant can see better, in general, than by using the uninjured eye alone ... or, as otherwise stated, there may be compensation if the use of the injured eye does not contribute materially to the claimant’s vision in conjunction with the use of the normal eye. . . . (Emphasis added.)
+Hershey Estates v. Workmen’s Compensation Appeal Board, 9 Pa. Commonwealth Ct. 470, 473, 308 A.2d 637, 639 (1973).
+The employer contends that the medical evidence indicates that claimant had better general vision using his uninjured eye together with his injured eye as compared to using his uninjured eye alone, and that his injured eye uncorrected used in conjunction with his uninjured eye contributes materially to claimant’s vision. The employer further argues that claimant suffered no detrimental effect to his vision in general and that he has the use of normal functions when he uses his uninjured eye in conjunction with his injured eye. The petitioner, therefore, maintains that the fact finder committed errors of law in not applying the correct standard for determining loss of use of an eye and that the findings of facts are not supported by substantial evidence because claimant has not lost the use of his injured eye for all intents and purposes. We disagree with these contentions.
+A number of cases which set forth the legal test to determine whether a claimant has lost an eye involve eye injuries and loss of vision similar to the claimant’s in the present case. In DeVore v. Atlantic Manufacturing Co., 208 Pa. Superior Ct. 224, 222 A.2d 431 (1966), the injured employee could discern only shadows and could not distinguish objects when he used his injured eye and his uninjured eye together. The Court determined that the claimant had lost the use of his injured eye for all practical intents and purposes because he did not have better vision using his injured eve and his uninjured eye than when he used his uninjured eye alone.
+In Hershey, the claimant sustained an injury to an eye which led to double vision in all fields of vision when using both eyes together except when he looked to the right. The Court concluded that the claimant had lost the use of the injured eye for all practical intents and purposes and that the injured eye did not contribute materially to his vision in conjunction with the use of his normal eye but rather was a detriment. We, therefore, sustained the award of benefits.
+In Steele v. Workmen’s Compensation Appeal Board, 36 Pa. Commonwealth Ct. 352, 387 A.2d 1339 (1978), claimant suffered an eye injury which when used in conjunction with his uninjured eye left the claimant with haziness, “floaters” (dark slits with floats around the visual field), double vision, and ineffective binocular vision. We reversed the Board which had denied the benefits because, although the claimant had some material benefit when he used both eyes together, that benefit was outweighed by the negative factors which the claimant encountered in his vision.
+Finally, in Armco Steel Corp. v. Workmen’s Compensation Appeal Board (Magnone), 68 Pa. Commonwealth Ct. 118, 448 A.2d 673 (1982), the claimant sustained an injury to an eye which rendered him unable to read with the injured eye, able only to distinguish light and images, and unable to judge distances without great difficulty. We agreed with the referee that the claimant’s eye was useless for normal functions when used in conjunction with his uninjured eye and that, therefore, the use of the claimant’s uninjured eye with his injured eye was only a negligible benefit.
+In the immediate case, the claimant’s testimony and medical testimony indicated that when claimant used both eyes his injured left eye could distinguish night and day, could not properly focus, could count fingers at four feet, and had a visual acuity of 20/400. Medical testimony did indicate that he still had form field vision (that is, claimant could see something, an image or shadow, for example) but that any object he saw either in front of him or peripherally was blurry or hazy.
+We believe the evidence presented supports claimant’s contention that his injured eye, used in conjunction with his uninjured eye, does not materially contribute to his vision. The claimant derives minimal benefit from the use of the injured eye together with the uninjured eye when all the positive and negative effects that the use of the injured eye has on claimant’s total vision ar considered. His injured eye is useless for normal functions such as reading and identification when used in conjunction with his uninjured eye.
+We therefore agree with the referee and the Board that the claimant has lost the use of vision in his left eye for all practical intents and purposes and thus affirm an award of compensation benefits to him.
+Order,
+And Now, June 19, 1984, the Order of the Workmen’s Compensation Appeal Board entered December 23, 1982, at No. A-78155, is affirmed.
+Visual acuity means that given a certain distance a person can see what he is supposed to see at that distance.
