@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 14"
+decided: "1930-05-06"
+citations: ["99 Pa. Super. 26"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Linn, Gawthrop, Baldrige and Graff, JJ."]
+parties: ["Badurka v. Home Life Insurance Company of America, Appellant."]
+source_url: "https://static.case.law/pa-super/99/cases/0026-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 688824
+cites_cases: ["93 Pa. Superior Ct. 314"]
+---
+
+# Badurka v. Home Life Insurance Co. of America
+
+## Majority (Graff, J.,)
+
+Opinion by
+Graff, J.,
+The Home Life Insurance Company of America issued a policy of insurance to Joseph Badurka upon November 14, 1924, and in said policy Mary Badurka, the assured’s mother, was named as beneficiary. The terms of the policy required that premiums be paid in quarterly sums of $12.43. The policy provided that: “Premiums are payable in advance at the executive offices, or to any agent of the company upon delivery, on or before the date due, of a receipt signed by the president, secretary or treasurer of the company and duly countersigned by said agent.”
+Upon trial of the cáse, it was undisputed that four payments were made, keeping the policy in force until November 14, 1925. It is contended by the defendant that the policy lapsed upon said date, and was invalid at the date of the death of the assured. A verdict was returned in favor of the plaintiff in the sum of $1,000, with interest from October 30, 1926. Defendant’s motions for judgment n. o. v. and a new trial were refused, and this appeal was taken from the final judgment of the court below. The assignments of error raise two questions for determination; first, as to the sufficiency of the evidence to sustain the verdict and judgment, and second, whether the court erred in the exclusion of certain testimony.
+The controlling question, as we view this case, is whether the evidence was sufficient to warrant the case being submitted to the jury. Section 410- of the Insurance Company Law of 1921, P. L. 682, provides as follows: ‘ ‘ That all premiums shall be payable in advance, whether at the home office of the company or to an agent of the company, on delivery of receipt signed by one or more officers of the company who shall be named in the policy.” The appellant contends that the only competent proof, under said Act of Assembly, of payment of premiums due is the official receipt, signed by officers of the insurance company, and that the evidence offered by the plaintiff below was not sufficient to warrant the submission of the case to the jury. No receipts of payment of the quarterly premium due upon any of the due dates were offered in evidence by the plaintiff. However, testimony was introduced to the effect that all quarterly payments were made to agents who admittedly were authorized to receive such payments. Several witnesses testified that upon October 27, 1926, three days prior to the death of the assured, payment was made of the premium due November 14th, and a receipt therefor given to the assured. This receipt was not offered in evidence, for the apparent reason -that it had been lost. In support of its contention the appellant relies upon the Pyrich v. Scranton Life Insurance Company, Appellant, 94, Pa. Superior Ct. 159. In this case the controlling questions were the authority of the agent to receive the premiums, and the authority of such agent to waive a forfeiture. The sufficiency of the proof of payment of premiums was neither raised nor considered by the court.
+This court in Mellosky v. Eureka-Maryland Assurance Corporation, 93 Pa. Superior Ct. 314, has decided that it was not the intent of the Insurance Company Law of 1921, P. L. 682, to invalidate the payment of premiums to the authorized agent of an insurance company, when not accompanied by the delivery of the receipt signed by an officer of the company, and to limit proof of payment to the production of receipts signed by such officer. All that is required is proof of payment. of all premiums in advance, or within the grace period, either to the home office or to an authorized agent, and the payment is not invalid merely because an official receipt therefor was not delivered simultaneously therewith.
+The evidence of the plaintiff below, if believed, establishes the proof of all payments as they became due upon the policy in suit. Some of said payments were admittedly received by the company, as shown by entries upon its books. The receipt given upon October 27,1926, has been accounted for. In our opinion under the authority of Mellosky v. Eureka-Maryland Assurance Corporation, supra, this was all the plaintiff below was required to prove. Considerable evidence was offered by the appellant which would tend to throw doubt upon the veracity of the witnesses of the appellee. After a careful examination of all of the evidence, we have come to the conclusion that there was sufficient conflict to warrant the submission to the jury, and its finding thereon is final.
+The appellant contends that the court below erred in limiting the cross-examination of one of the appellee ’s witnesses, when interrogated as to whether other insurance policies had not been issued to several members of the deceased assured’s family. The apparent purpose of these questions Avas to attack the credibility of the witness, by indicating to the jury that she might have been confused as to what policy the premiums were paid upon. We regard the questions propounded as immaterial. However, it is to be noted that the evidence here excluded was later introduced, and fairly before the jury in its consideration of the case.
+The judgment is affirmed.
