@@ -1,0 +1,52 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1428"
+decided: "1994-03-02"
+citations: ["432 Pa. Super. 54", "637 A.2d 659"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WIEAND, HUDOCK and MONTGOMERY, JJ.", "HUDOCK, J., files a Concurring Statement."]
+parties: ["Andre ANDERSON, Appellant, v. PENNSYLVANIA FINANCIAL RESPONSIBILITY ASSIGNED CLAIMS PLAN t/a Constitution State Service Co. and Randy Perrin, Appellees."]
+source_url: "https://static.case.law/pa-super/432/cases/0054-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 939979
+cites_cases: ["251 Pa.Super. 568", "319 Pa.Super. 141", "398 Pa.Super. 421", "410 Pa.Super. 541", "415 Pa.Super. 113", "518 Pa. 94"]
+---
+
+# Anderson v. Pennsylvania Financial Responsibility Assigned Claims Plan
+
+## Majority (WIEAND, Judge.)
+
+WIEAND, Judge.
+This action was commenced by the filing of a complaint by Andre Anderson against Pennsylvania Financial Responsibility Assigned Claims Plan and Randy Perrin to recover damages when Anderson was struck by an uninsured vehicle owned and operated by Perrin. The case was submitted to compulsory arbitration and resulted in an award for defendants when plaintiff and his lawyer failed to appear for hearing. Plaintiff thereupon filed an appeal, requesting a trial de novo before a jury. A mandatory settlement conference was scheduled, and, for reasons not here relevant, a second settlement conference became necessary. When the second settlement conference was scheduled, notice was sent to plaintiffs counsel and received. When plaintiff and his counsel failed to appear at the second settlement conference and the trial court’s efforts to find counsel were unsuccessful, an order was entered which quashed the appeal and reinstated the award of arbitrators.
+The prothonotary’s file contains a motion by plaintiffs counsel to vacate the trial court’s order quashing the appeal. Neither that copy nor the prothonotary’s docket contains a notation that the motion was ever filed, however, and neither the file nor the docket suggests that it was ever pursued. No evidence was offered in support of the motion, and the motion was never decided by the trial court. An appeal was taken by plaintiff from the order quashing the appeal and reinstating the award of arbitrators.
+Counsel is under the same duty to appear at conciliatory or pre-trial conferences as he or she is to appear for trial. Lee v. Cel-Pek Industries, Inc., 251 Pa.Super. 568, 570, 380 A.2d 1243, 1244 (1977). See also: Stock v. Arnott, 415 Pa.Super. 113, 118, 608 A.2d 552, 554 (1992); Broglie v. Union Township, 319 Pa.Super. 141, 144, 465 A.2d 1269, 1271 (1983); 1 Goodrich-Amram 2d § 218:8 (1991 ed.). The consequences for failing to appear for trial appear in Pa.R.C.P. 218, which provides as follows:
+Rule 218. Party Not Ready When Case is Called for Trial
+(a) Where a case is called for trial, if without satisfactory excuse a plaintiff is not ready, the court may enter a nonsuit on motion of the defendant or a non pros on the court’s own motion.
+(b) If without satisfactory excuse a defendant is not ready, the plaintiff may
+(1) proceed to trial, or,
+(2) if the case called for trial is an appeal from compulsory arbitration, either proceed to trial or request the court to dismiss the appeal and reinstate the arbitration award.
+(c) A party who fails to appear for trial shall be deemed to be not ready without satisfactory excuse.
+Note: The mere failure to appear for trial is a ground for the entry of a nonsuit or a judgment of non pros or the reinstatement of a compulsory arbitration award.
+A nonsuit is subject to the filing of a motion under Rule 227.1(a)(3) for post-trial relief to remove the nonsuit and a judgment of non pros is subject to the filing of a petition under Rule 3051 for relief from a judgment of non pros.
+Appellant argues that the trial court’s order was improper under decisions of the Superior Court in Elcomp, Inc. v. Drolet, 398 Pa.Super. 421, 581 A.2d 203 (1990) and Christopher’s Auto Parts, Inc. v. Gilmore, 410 Pa.Super. 541, 600 A.2d 585 (1991). See also: Stock v. Arnott, supra. These cases, however, have been overruled by the Supreme Court’s adoption of Rule 218(c) which provides: “A party who fails to appear for trial shall be deemed to be not ready without satisfactory excuse.” The purpose of the amendment was explained by the Explanatory Comment as follows:
+Explanatory Comment—1993
+Rule of Civil Procedure 218 provides certain procedural consequences when a party is not ready “without satisfactory excuse” when a case is called for trial. Two recent cases had interpreted the rule so that a failure to appear for trial was not sufficient to invoke the provisions of the rule unless the court made a determination that the failure to appear was without satisfactory excuse. See Elcomp, Inc. v. Drolet, 398 Pa.Superior Ct. 421, 581 A.2d 203 (1990) and Christopher’s Auto Parts v. Gilmore, 410 Pa.Superior Ct. 541, 600 A.2d 585 (1991).
+These cases added a procedural step which was both absent from the rule and unnecessary. As stated in the dissent to the Christopher’s Auto Parts case, 410 Pa.Superi- or Ct. at 548, 600 A.2d at 589:
+the trial court must first ascertain the absent party’s reason or reasons for failing to appear. How [this is] to be done without the presence of the absent party the court did not explain. Presumably, it would require an additional hearing, with full notice to the parties and findings of fact by the hearing court.
+Consequently the rule has been amended by adding new subdivision (c) which provides that a “party who fails to appear for trial shall be deemed to be not ready without satisfactory excuse.” The trial court may grant relief under the rule without a separate determination that the failure to appear was without satisfactory excuse.
+Of course, if the court has before it information which demonstrates that the failure to appear is satisfactorily excused, then the presumption of subdivision (c) would not be warranted and the court would not exercise its powers under the rule.
+If the court enters a nonsuit or a judgment of non pros or dismisses an appeal and there exists a sufficient excuse, the aggrieved party may present the excuse through a motion to remove the nonsuit or a petition to open the judgment or reinstate the appeal. The petition or post-trial procedure will result in a record which will enable an appellate court to review the trial court’s action to determine if there has been an abuse of discretion.
+The revised procedure was characterized by the dissent in the Christopher’s Auto Parts case as follows, 410 Pa.Superi- or Ct. at 548, 600 A.2d at 589:
+neither an innocent party who is present for trial nor the trial court will be prevented from proceeding at the time set for trial, and the burden will be placed upon the party who has failed to appear to show cause why the trial court should reopen the proceedings.
+The trial court in this case gave appellant’s counsel ample opportunity to appear for the conference. When counsel failed to appear despite the receipt of sufficient notice, the trial judge attempted to reach him by calling his office. It was only after counsel’s whereabouts could not be determined that an order was entered which dismissed the appeal. Under these circumstances, it cannot be said that the trial court’s order constituted an abuse of discretion. In the absence of an abuse of discretion, the trial court’s order, according to the decided cases, should be affirmed. See: Narducci v. Mason’s Discount Store, 518 Pa. 94, 98, 541 A.2d 323, 325 (1988).
+The plaintiff-appellant, who is now represented by new counsel, argues that prior counsel’s “absence from the settlement conference resulted from illness compounded by personal problems.” This assertion, however, is not supported by the record. Appellant should have pursued a formal motion to remove the trial court’s order. This would have resulted in a record which would have enabled this Court to conduct meaningful appellate review to determine whether the trial court committed an abuse of discretion. Because appellant failed to follow this procedure, the record before this Court discloses only that appellant’s counsel failed to appear for a mandatory conference of which he had notice and that he could not be located at the time of the conference despite the trial judge’s efforts to do so. Quite aside from the issue of waiver by failing to follow the correct procedure, therefore, we must affirm. The trial court’s order dismissing the appeal from compulsory arbitration cannot be deemed an abuse of discretion. It will, therefore, be affirmed.
+Order affirmed.
+HUDOCK, J., files a Concurring Statement.
+
+## Concurrence (HUDOCK, Judge,)
+
+HUDOCK, Judge,
+concurring.
+In view of the amendment to Pennsylvania R.C.P. 218(c), which now provides that a party who fails to appear for trial shall be deemed not ready without satisfactory excuse, I join the majority opinion. I disassociate myself, however, from its embrace of the Supreme Court Rules Committee Explanatory Comments which state that Elcomp, Inc. v. Drolet, 398 Pa.Super. 421, 581 A.2d 203 (1990) and Christopher’s Auto Parts v. Gilmore, 410 Pa.Super. 541, 600 A.2d 585 (1991) “added a procedural step which was both absent from the rule and unnecessary”. While I agree the prior rule was cumbersome and burdensome for trial judges, its language was clear: sanctions could only be imposed against a party who was not ready for trial if the party had “no satisfactory excuse”. A determination that there was no excuse for being unready was a precondition to the imposition of sanctions by the trial court. When the language of a rule is clear, it is not for us to distort it to achieve a result we think is more appropriate and workable.
