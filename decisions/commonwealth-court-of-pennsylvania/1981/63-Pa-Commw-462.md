@@ -1,0 +1,41 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2896 C.D. 1980"
+decided: "1981-12-29"
+citations: ["63 Pa. Commw. 462"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Mencer, Williams, Jr. and Palladino, sitting as. a panel of three."]
+parties: ["Elizabeth B. Vavro, Widow of Method F. Vavro, Petitioner v. Commonwealth of Pennsylvania, Workmen’s Compensation Appeal Board and Bethlehem Mines, Respondents."]
+source_url: "https://static.case.law/pa-commw/63/cases/0462-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1927147
+cites_cases: ["319 A.2d 14", "37 Pa. Commonwealth Ct. 412", "397 A.2d 490", "40 Pa. Commonwealth Ct. 390", "415 A.2d 148", "423 A.2d 1142", "424 A.2d 637", "487 Pa. 313", "52 Pa. Commonwealth Ct. 41", "56 Pa. Commonwealth Ct. 413", "56 Pa. Commonwealth Ct. 57"]
+---
+
+# Vavro v. Commonwealth
+
+## Majority (Judge Palladino,)
+
+Opinion by
+Judge Palladino,
+Claimant-widow appeals an order of the Workmen’s Compensation Appeal Board (Board) which reversed a referee’s order sustaining her fatal claim petition in accordance with Section 301(c)(2) of The Pennsylvania Workmen’s Compensation Act (Act), Act of June 2,1915, P.L. 736, as amended, 77 P.S. §411 (2). We affirm the Board’s order denying benefits.
+The referee found that Claimant’s husband was employed in the anthracite industry from 1937 until January 8, 1977, and subsequently died on January 24, 1977, “as a result of anthracosilieosis. ...” Additionally, the referee determined that the decedent was “presumed to have been exposed to the dust of anthracite during his employment ... in the anthracite industry.”
+Upon considering the appeal filed by decedent’s employer, the Board concluded that Claimant’s medical evidence of record failed to substantiate the referee’s finding that death resulted from anthracosilicosis. Therefore, the Board deleted said finding as well as the derivative presumptive finding that decedent was exposed to anthracite dust during his employment.
+On appeal to this Court Claimant argues that the referee’s factual findings were supported by competent evidence which the Board improperly ignored.
+In workmen’s compensation cases “the claimant has the burden of establishing the right to compensation and all of the elements necessary to support an award.” Halaski v. Hilton Hotel, 487 Pa. 313, 317, 409 A.2d 367, 369 (1979). Where, as here, the party with the burden of proof did not prevail before the Board, this Court’s scope of review consists of determining whether the factual findings are consistent with each other and with the conclusions of law and can be sustained without a capricious disregard of competent evidence. Republic Steel Corp. v. Workmen’s Compensation Appeal Board, 56 Pa. Commonwealth Ct. 57, 423 A.2d 1142 (1981).
+Although the Act accords to the referee the responsibility for making factual determinations, under Section 413 of the Act, 77 P.S. §854, “the Board may disregard the findings of fact of the referee ... if they are not supported by sufficient competent evidence. ’ ’ Cornman v. Workmen’s Compensation Appeal Board, 56 Pa. Commonwealth Ct. 413, 415, 424 A.2d 637, 638 (1981).
+Concerning the cause of her husband’s death, Claimant offered the testimony of the neurosurgeon who treated her husband. The neurosurgeon testified that in preparing the death certificate of his deceased patient, he listed “the immediate cause of death [as] a massive right cerebral infarction” with “an occlusion of the internal carotid” and “hardening of the arteries.” When asked if the aforementioned conditions were “in any way related to [decedent’s] occupation,” the doctor opined that they were unconnected. Reviewing the autopsy report filed by the pathologist who testified on behalf of decedent’s employer, Claimant’s doctor stated that in his opinion “the report of autopsy does not confirm the presence of anthraeosis to a degree that would produce . . . [the] dusky complexion and cyanotic characterizations” exhibited by decedent.
+Moreover, despite having listed “chronic obstructive lung disease” on his patient’s death certificate under the heading of “other significant conditions contributing to death but not related to the immediate cause” of death, Claimant’s doctor asserted that decedent’s “disease process was not that of strictly obstructive lung disease,... but his basic disease was the blood vessel disease ... of the neck membrane of the heart and [the chronic obstructive lung disease] was a contributory mechanism rather than primary. ’ ’
+The pathologist called as employer’s witness, maintained that in the process of doing the autopsy on decedent, he had reviewed the hospital x-ray records pertaining to decedent and noted that the x-ray records did not contain “any findings . . . concerning the presence of silicosis or anthracosilicosis.” Employer’s doctor further declared his belief that decedent “died as a result of a massive right cerebral infarction, secondary to the atherosclerotic disease and the occlusion of the vessels ... superimposed on an acute myocardial infarction.” Asked specifically to discuss any evidence of anthracosilicosis in decedent’s lungs, the pathologist replied that there was no evidence of antliracosilieosis in the lnngs. However, the doctor did report his finding of “anthracotic pigmentation” which, he explained, “would be due to the inhalation of pigmentary material from the atmosphere” as “commonly seen in the lungs of those who live in industrial areas or are smokers; and is a very common finding. ’ ’ The doctor concluded his testimony by stating that he did not know of any “relationship between the events described here [decedent’s autopsy report] in the brain and heart and anthraeosilieosis.”
+When the causal nexus between a compensable occupational disease and a worker’s death is not obvious, the nexus must be proven by unequivocal medical testimony. Breen v. Pennsylvania Crime Commission, 52 Pa. Commonwealth Ct. 41, 415 A.2d 148 (1980). “[T]he Act requires medical evidence to be presented which establishes that a [worker’s] death resulted from an occupational disease, not simply that the disease was a contributing factor.” Consolidation Coal Co. v. Workmen’s Compensation Appeal Board, 37 Pa. Commonwealth Ct. 412, 422, 319 A.2d 14, 19 (1978) (emphasis in original).
+In the present case Claimant failed to produce evidence showing that her husband had suffered from an occupational disease (here, anthraeosilieosis), and consequently, did not prove that an occupational disease caused her husband’s death. Therefore, the Board properly deleted the referee’s finding that Claimant’s husband died “as a result of anthraeosilieosis.”
+The Board also correctly deleted the referee’s finding that the decedent was “presumed to have been exposed to the dust of anthracite during his employment. . . .” Under Section 301(e) of the Act, added by Section 3 of the Act of October 17, 1972, P.L. 930, 77 P.S. §413, the presumption that a worker’s occupational disease arose out of and in the course of his employment applies only where it has been established that said worker actually suffered from an occupational disease. Harrigan v. Workmen’s Compensation Appeal Board, 40 Pa. Commonwealth Ct. 390, 397 A.2d 490 (1979).
+Accordingly, we enter the following
+Order
+And Now, December 29, 1981, the order of the Workmen’s Compensation Appeal Board, Docket No. A-79103, dated October 30,1980, is affirmed.
+In pertinent part Section 301(c) (2) states:
+[Wjlienever occupational disease is the basis for compensation, for disability or death under this act, it shall apply only to disability or death resulting from such disease and occurring within three hundred weeks after the last date of employment in an occupation or industry to which he [the worker] was exposed to hazards of such disease. . . .
+According to Claimant’s testimony, Claimant’s husband worked in strip mines, primarily as a truck driver, but occasionally as “an oiler on the shovel and a pit man.”
+Under Section 422 of the Act, 77 P.S. §834, “all findings of fact shall be based upon sufficient competent evidence to justify same.”
