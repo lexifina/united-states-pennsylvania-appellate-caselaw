@@ -1,0 +1,42 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 111"
+decided: "1969-06-13"
+citations: ["214 Pa. Super. 376"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. J., Watkins, Montgomery, Jacobs, Hoffman, Spaulding, and Cercone, JJ.", "Hoffman, J., joins in this dissent."]
+parties: ["De Welles v. Dwelle, Appellant."]
+source_url: "https://static.case.law/pa-super/214/cases/0376-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 786598
+cites_cases: ["101 A. 2d 452", "146 A. 2d 362", "146 A. 2d 365", "173 Pa. Superior Ct. 424", "174 Pa. Superior Ct. 292", "188 Pa. Superior Ct. 232", "188 Pa. Superior Ct. 241"]
+---
+
+# De Welles v. Dwelle
+
+## Majority (Per Curiam,)
+
+Opinion
+Per Curiam,
+This appeal is from an order dismissing, after hearing, appellant’s petition for the privilege of visiting his two children as he “is now able to provide support or some payment on the arrears.” The petition disclosed that appellant was in arrears $2,252.77 in his support payments at the time it was filed. Although at the hearing conducted by Judge Guffey appellant testified that he would be able to pay $40 per month toward the support order, this is doubtful. For two months prior to the hearing appellant was living on temporary public assistance grants of $89, which he had been receiving; and his future income as a substitute teacher in the public schools of Pittsburgh was conjectural. He expected to get eight days a month at $30.50 a day less deductions, but had no assurance of this.
+A review of the history of this ease may aid in. our disposition of this appeal. The parties were married on November 24, 1962 and had two children, David Joseph and Darrell Rice. On October 20, 1966 the mother first petitioned for support, alleging desertion as of April 1, 1966. At that time David Joseph was three and Darrell Rice was one year of age. Pursuant to that petition an order was made by Judge Guffey for their support in the amount of $250 per month. This order was modified on February 8, 1967 to $200 per month, with partial custody awarded to the father on alternate Saturdays and Sundays, 1:00 p.m. to 6:00 p.m. Thereafter, on April 24, 1967, by agreement of the parties, the order was reduced to $160 per month and the father was granted the privilege “: . . to have custody on alternate Saturdays and Sundays once weekly from 1 P.M. to 6 P.M., and when wife commences full time employment, and additional visitation once every two weeks.” Appellant, having failed to make his payments, was held in contempt and on September 25, 1967 was ordered to pay $210 by October 15, 1967. On September 25, 1967 he filed a petition to have the order reduced because of reduced income and to have his visitation and partial custody order enforced. After several postponements of the hearing on this petition an order was entered by Judge Guffey on May 2, 1968 as follows: “. . . on trial list and after hearing, order for support suspended and also partial custody order is reversed, by agreement of prosecutrix and on order of court. Defendant pay costs by May 17, 1968. Body attachment is dismissed.” No appeal was taken from this order. However, on November 25, 1968 the petition on which this appeal is based, which we previously mentioned at the inception of this discussion, was filed.
+Although at the oral argument of this appeal we indicated that the matter should be remanded for a transcript of the record of the hearing on the current petition and an opinion of the lower court, our examination of the original record discloses the transcript of the testimony taken at that hearing; and the reason for the order is obvious, i.e., there has been no change in circumstances which justify a change in the unappealed order agreed to on May 2, 1968. The fact that the mother has remarried and the children are being provided for by her new husband, in the absence of any support proffered by their father, is not a circumstance which should give him renewed visitation privileges. If and when he is able to demonstrate his ability and willingness to support his children, he may again appeal to the lower court for an appropriate order. He failed to do so at the last hearing.
+The welfare of the children is of paramount interest in matters of this nature; and we cannot say that the lower court failed to recognize this in dismissing appellant’s petition, particularly in light of its close association with the case during its troublesome course.
+Our decision is based on the facts of this case which clearly demonstrate that appellant neglected or refused to provide necessary support for his children when he was able to do so. We do not intend to establish the general principle that a father may visit his children only when he is contributing to their support. However, we do hold that when the assertion of the privilege of visitation is used for purposes of harassment it may be suspended. Such is the present situation.
+Order affirmed.
+December 18, 1968, on trial list December 10, 1968, and after decision, rule for visitations dismissed, same order of May 2, 1968, to remain in force. Defendant pay costs. (Guefey, J.)
+
+## Dissent (Spaulding, J.:)
+
+Dissenting Opinion by
+Spaulding, J.:
+I respectfully dissent. The majority opinion asserts two grounds for affirming the denial of visitation rights to appellant: (1) the petition for visitation was brought for the purposes of harassment, and (2) appellant neglected or refused to provide support for his children when able to do so.
+No authority is cited for the proposition that a visitation petition may be denied if brought for the purpose of harassment. However, even if this is the law, there is no justification for its application in the present case. There is no indication in the testimony before us or in an opinion of the lower court that this was the motive for bringing the petition or a consideration in its denial below. Consequently, denial of the petition cannot properly be founded on this ground.
+Insofar as the majority’s decision rests upon appellant’s failure to support the children it disregards the numerous cases holding that failure to support is not a ground for denial of visitation. Commonwealth ex rel. Lotz v. Lotz, 188 Pa. Superior Ct. 241, 146 A. 2d 362 (1958); Guiseppi Appeal, 188 Pa. Superior Ct. 232, 146 A. 2d 365 (1958); Commonwealth ex rel. Heller v. Yellin, 174 Pa. Superior Ct. 292, 101 A. 2d 452 (1953); Leonard v. Leonard, 173 Pa. Superior Ct. 424, 98. A. 2d 638 (1953).
+The standard for determining visitation is of course the welfare of the child. Visitation may be denied if a parent has mental or moral deficiencies such that visitation would threaten the welfare of the child. Guiseppi Appeal, supra. However, the mere fact that a father has failed to pay a court order for support does not indicate that his character is such that his child’s welfare will be impaired by exposure to him during the visitation.
+Furthermore, although the majority cites “harassment” as a basis for denying visitation, it fails to recognize the potential for harassment created by this decision. Children often become pawns in the vengeful maneuvering engaged in by embittered parents. Permitting denial of visitation for failure to support can only encourage contentious parents to seek to deny visitation for harassment purposes.
+The Court’s error is compounded by the suggestion that appellant will be entitled to visitation only “when he is' able to demonstrate his ability and willingness to support his children.” (Emphasis added.) This statement clearly indicates that visitation is being denied not because of appellant’s character or to protect his children’s welfare but as punishment for his failure to pay support. Moreover, to the extent that appellant’s future right to visitation rests upon his ability to support, the best interests of the children have been clearly disregarded. While a consideration in' custody matters, a father’s wealth or lack of wealth is irrelevant where visitation is concerned. Basing visitation upon a parent’s financial position is not only discriminatory but may deny children the beneficial contact with the parent.
+I would remand the record to the court below with directions to fix reasonable visitation periods.
+Hoffman, J., joins in this dissent.
