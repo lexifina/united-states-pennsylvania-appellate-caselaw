@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 86"
+decided: "1906-12-14"
+citations: ["32 Pa. Super. 259"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Nice, P. J., Porter, Henderson, Morrison, Orlady, Head and. Beaver, JJ."]
+parties: ["Moore, Appellant, v. Eyre."]
+source_url: "https://static.case.law/pa-super/32/cases/0259-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 866975
+cites_cases: ["110 Pa. 254", "115 Mass. 278", "120 Cal. 521", "146 U. S. 499", "163 Ill. 117", "196 Pa. 187", "208 Pa. 115", "27 Pa. Superior Ct. 531", "28 N. Y. Supp. 525", "7 N. J. Eq. 489", "8 Misc. 84", "8 Pa. 403", "8 Pa. Superior Ct. 511", "85 N. Y. 616", "9 Heisk. (Tenn.) 501", "99 U. S. 191"]
+---
+
+# Moore v. Eyre
+
+## Majority (Rice, P. J.,)
+
+Opinion by
+Rice, P. J.,
+This action of assumpsit was brought by the receiver for rent, part of which fell due before his appointment, and the residue thereafter, under a lease executed before his appointment. In his affidavit of defense the defendant admitted the correctness of the plaintiff’s claim so far as the amount was concerned, but averred that at the date of the appointment of the receiver, as well as at the prior date when the trust company closed its doors, the company was indebted to him in a considerably larger amount than the rent claimed, which, he asserted, should be set off against the plaintiff’s claim to the extent thereof. It is now conceded that as to the rent which fell due before the appointment of the receiver, the set-off is proper, but if the same concession was made in the court below, the record does not show it. The rule taken was simply for judgment for want of a sufficient affidavit of defense, the exception was a general one to the discharge of this rule, the single assignment of error is to the same effect, and there is nothing in the opinion filed by the learned judge below to indicate that the plaintiff demanded judgment for less than his whole claim, or asked the court to consider the question as to his right to judgment for part thereof. “ When a plaintiff moves for judgment for part of his demand under the Act of July 15, 1897, P. L. 276, it would be good practice to require him to specify the part as to which he claims the'affidavit of defense to be insufficient, and to set this forth in the rule to show cause. If that be done the defendant will know with certainty the issue he is called upon to meet, the record will show what the court was called upon to decide, and the hearing on appeal from the discharge of the rule will be confined, as it ought always to be, to a review of the decision upon the point raised in the court below:” Shea v. Wells, 8 Pa. Superior Ct. 511. Following this decision we held in Smucker v. Grinberg, 27 Pa. Superior Ct. 531, that where a statement of claim embraces two distinct items, and a rule is taken for judgment for want of a sufficient affidavit of defense for the amount of one of the items, fully specifying it, the court may give all judgment by the simple entry, rule absolute, without filing any opinion designating the item for which judgment is given. We do not say that in disposing of a general rule for judgment for the'whole claim for want of a sufficient affidavit of defense, the court may not adjudge a portion or portions of the affidavit of defense insufficient, specifying them in the mode suggested in Pierson v. Krause, 208 Pa. 115, and make an order permitting the plaintiff to take judgment and issue execution for the portion or portions of the claim as to which the affidavit is adjudged insufficient, and to proceed with the action for the recovery of the balance. But the better practice is to require the plaintiff, in the first instance, to point out specifically the part of the claim as to which he deems the affidavit to be insufficient, and we think it quite clear that the court ought not to be convicted of error in not making an order permitting the plaintiff to take judgment for part of his claim, and to proceed with his action for the recovery of the balance, where neither in the application for the rule, nor in the rule itself, nor in any other manner, so far as the record shows, was the court asked to exercise the power conferred by the act of 1897.
+The appeal is dismissed at the costs of the plaintiff, but without prejudice to his right to trial by jury, and a second appeal after final judgment; also without prejudice to his right to move the court below for permission to take judgment for that part of his claim as to which he deems the affidavit.of defense insufficient, as provided in the Act of July 15, 1897, P. L. 276, and to any right of appeal from the refusal of such order which he would have had if the specific motion therefor had been made in the first instance.
