@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 212"
+decided: "1929-07-02"
+citations: ["96 Pa. Super. 606"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, Keller, G-awthrop, Cunningham: and Baldrige, JJ."]
+parties: ["Commonwealth to the Use of Fawner, Appellant, v. Fawner and Young."]
+source_url: "https://static.case.law/pa-super/96/cases/0606-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 683996
+cites_cases: ["127 Pa. 122", "83 Pa. Superior Ct. 593", "95 Pa. Superior Ct. 108"]
+---
+
+# Commonwealth ex rel. Fawner v. Fawner
+
+## Majority (Cunningham, J.,)
+
+Opinion by
+Cunningham, J.,
+Florence Fawner, appellant, brought suit, as use plaintiff, in the common pleas of Allegheny County against her husband, Albert H. Fawner, and Edward A. Young, as his surety, on a bond given to the Commonwealth pursuant to an order of the county court of that county, made in the course of certain desertion and non-support proceedings; Young, alone, was served and the case proceeded to trial against him. The trial judge entered a compulsory nonsuit; the court in banc refused to take it off and plaintiff has appealed. The only assignment of error covered by the statement of the question involved and argued in the briefs is to the refusal to take off the nonsuit.
+The record discloses these uncontroverted and controlling facts: Upon the information of appellant the county court of Allegheny County (exercising the jurisdiction conferred upon it by paragraph (b) of section 6 of the Act of May 5, 1911, P. L. 198, 200, to make orders in desertion and non-support proceedings, instituted under the Act of April 13, 1867, P. L. 78) made an order under date of June 19, 1922, adjudging her husband, Albert H. Fawner, the defendant therein, guilty of non-support, directing him to pay, through the probation officer, to appellant for her support the sum of $6 per week and the sum of $1 per week upon certain arrearages then aggregating $42, and decreeing that he “enter his recognizance with surety in the sum of $500 conditioned for his compliance with the provisions of this order.”
+On the same day the bond upon which this suit was brought was executed by Fawner, as principal, and Edward A. Young, as his surety, to the Commonwealth in compliance with the order of the county court. Between the date of this order and March 29, 1923, Fawner and Young each made certain payments on account thereof to the office of the probation officer, but the arrearages thereon up to that date amounted to $91.50. The Commonwealth never instituted any proceedings to forfeit the bond and Young paid these arrearages before this suit was brought. Under the terms of the bond, Fawner’s undertaking was to make the payments as directed in the order and Young bound himself to be liable for the penalty in case Fawner did not pay in accordance with the order; the payments made by Young (no breach having been asserted) were not in discharge, pro tanto, of his obligation under the bond but as a volunteer for Fawner: Com. v. Grady et al., 95 Pa. Superior Ct. 108. On the said 29th of March, 1923, the county court entered another order in the proceedings before it entitled “Modified Order of Court by Agreement,” by which Fawner was directed to pay, in the same way, the sum of $3 per week for the support of appellant, and it was further ordered “that the defendant enter his own recognizance in the sum of $300 conditioned for his compliance with the conditions of this order. ’ ’ This second bond was executed by Fawner alone.
+By January 5, 1928, the payments directed by the modifying order of March 29,1923, were in arrears to the amount of $648.50. Young denied that he was liable for Fawner’s defaults under that order and this suit was brought on the first bond to recover that amount. The evidence for appellant showed that the surety had paid all arrearages under the order of June 19, 1922, in compliance with which order the bond upon which he was surety had been given, and the nonsuit was entered upon the ground that he was not liable for Fawner’s default under the modifying order of March 29, 1923, which did not direct him to give a bond with surety but only required him to “enter his own recognizance.”
+If the county court by its last order had merely reduced the amount of the weekly allowances and said nothing about the security for their payment, Young’s liability upon the bond would have continued notwithstanding such change in the order: Com. v. Mendelsohn, 83 Pa. Superior Ct. 593. But that is not this case: here the proper court, in the exercise of the discretion vested in it, not only reduced the amount of the order but also made a radical change in the method by which compliance should be secured. "We agree with the court below in the proposition that when the county court decreed in its last order that Fawner need not be imprisoned if he entered his own recognizance in the sum of $300, conditioned for his compliance with the terms of that order, and such recognizance was given, the provision of the prior order, relative to the giving of a bond by the defendant, “with surety,” was superseded, with the effect that neither the Commonwealth nor the complainant could proceed against Young for any defaults arising under the last order. As the clerk in the office of the probation officer testified that all arrearages at the time of bringing this suit were under the last order, the court below properly refused to take off the nonsuit.
+Judgment affirmed.
