@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 24"
+decided: "1921-07-14"
+citations: ["77 Pa. Super. 106"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Trexler, Keller and Linn, JJ."]
+parties: ["Brown v. Judge, Appellant."]
+source_url: "https://static.case.law/pa-super/77/cases/0106-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 648495
+cites_cases: ["15 Pa. Superior Ct. 372", "22 Pa. Superior Ct. 85", "221 Pa. 152", "53 Pa. 150", "54 Pa. Superior Ct. 82", "71 Atl. Rep. 745"]
+---
+
+# Brown v. Judge
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+The plaintiff brought replevin to recover possession of certain household furniture and ornaments, alleging that she had purchased and paid for certain of the articles with her own money, stating the persons from whom she had derived title and averring that she had acquired title to the more valuable of the articles enumerated in and by the last will and testament of Mary M. Judge. The defendant filed an affidavit of defense alleging that certain of the articles to which plaintiff asserted title through the will of Mary M. Judge had not be'en the property of Mary M. Judge, but were the property of Katherine Judge, a sister who died in 1911 and whose estate had not yet been administered; and averred further that certain other articles, specified, had been the property of Mary M. Judge at the time of her death, but that the estate of the said Mary M. Judge had not been administered. The parties went to trial upon the issue thus made and, after hearing the evidence, the court gave binding instructions in favor of the plaintiff and judgment was subsequently entered on the verdict, from which the defendant appeals.
+The first assignment of error refers to the action of the court in giving to the jury binding instructions to find in favor of the plaintiff. The plaintiff produced evidence which, if believed, clearly established that the title to the articles in controversy had been in Mary M. Judge. Mary M. Judge died April 24,1917, leaving a last will and testament devising and bequeathing all her property to this plaintiff and appointing the plaintiff executrix of her will, and letters testamentary were duly issued to the appellee. The appellee, as the sole beneficiary under the will, took the property belonging to the estate, and in her account filed in the orphans’ court charged herself with the appraised value of the articles in question. The oral evidence would have warranted a finding that Mary M. Judge left no debts and that the appellee was the only person interested in the settlement of her estate. The appellant offered no evidence at the trial, but prayed for binding instructions to the jury upon the ground that the plaintiff ought to have brought the action in her representative capacity, as executrix of the will of. Mary M. Judge, and not in her individual right. The court being of opinion that the action was properly brought by the plaintiff in her own name, and the defendant not having offered any' testimony, gave binding instructions in favor of plaintiff. The oral testimony was certainly sufficient to warrant a finding that the ownership of the articles in question had been in 'Mary M. Judge, and not in Katherine Judge. The finding of that fact was, however, dependent upon oral testimony and the credibility of the witnesses was for the jury. The learned judge of the court below, therefore, fell into error and the first specification of error is sustained.
+We are not convinced of the soundness of the position taken by the appellant at the trial in the court below. The plaintiff was the executrix of the will of Mary M. Judge and the sole legatee under that will. The evidence would have warranted a finding that there were no debts of the estate. In such a case no distribution is needed, and the appellee might assert her rights to the property by an action in her own name: McLean’s Executors v. Wade, 53 Pa. 150. Mary M. Judge had been dead for more than two years at the time this writ of replevin issued, she was the sister of the appellant and if the latter knew of any debts of her estate or any other fact which rendered an administration of the estate necessary he certainly could have produced the evidence establishing such facts at the trial. The court did not err in refusing binding instructions in favor of the defendant, nor in overruling his motion for judgment non obstante veredicto. The second and third specifications of error are overruled.
+It appears from the record that possession of at least some of the articles in question remained with the defendant. The verdict was simply in favor of the plaintiff for the goods described in the writ, without any determination by the jury of the value thereof and without any assessment of damages for the detention. Upon such a verdict the plaintiff, by virtue of the 7th section of the Act of April 19, 1901, P. L. 90, is entitled to a return of the property, and may have a writ to enforce that right. The judgment on such a verdict is not invalid, but it does not give to the prevailing party, when the goods have been given into the possession of his adversary, all to which he is entitled: Reber v. Schroeder, 221 Pa. 152; Green & Sons v. Bauer, 15 Pa. Superior Ct. 372.
+The judgment is reversed and a venire facias de novo awarded.
