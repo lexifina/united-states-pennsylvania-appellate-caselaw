@@ -1,0 +1,34 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 802 C. D. 1985"
+decided: "1987-02-10"
+citations: ["103 Pa. Commw. 578", "520 A.2d 963"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Craig and Palladino, and Senior Judge Kalish, sitting as a panel of three."]
+parties: ["Raymond A. Westrick, Appellant v. Approval of Bond of The Peoples Natural Gas Company and Surety Under Right of Eminent Domain, Appellee."]
+source_url: "https://static.case.law/pa-commw/103/cases/0578-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8732578
+cites_cases: ["11 Pa. Commonwealth Ct. 304", "133 A.2d 797", "141 Pa. 621", "183 A.2d 547", "21 A. 779", "21 Pa. Commonwealth Ct. 30", "314 A.2d 880", "33 Pa. Commonwealth Ct. 162", "342 A.2d 824", "380 A.2d 1322", "389 Pa. 429", "408 Pa. 295"]
+---
+
+# Westrick v. Approval of Bond of The Peoples Natural Gas Co.
+
+## Majority (Opinion by Senior Judge Kalish,)
+
+Opinion by Senior Judge Kalish,
+Raymond A. Westrick appeals from a decision of the Court of Common Pleas of Cambria County which dismissed his exceptions to its earlier order denying his preliminary objections to the petition of the Peoples Natural Gas Company for approval of a bond to secure a taking. We affirm.
+The Gas Company condemned a portion of West-ricks property for a gas pipeline right-of-way. The declaration of taking described the proposed pipeline as a six-inch line with thirty feet on each side that could not be utilized at any time for any surface structure. The plan or description received as part of the declaration of taking did not show the depth of the taking. The declaration did indicate that as a public utility it proposed to transport gas. Since the Gas Company does not have taxing authority, it was required to file a bond with the declaration, securing the compensation, pursuant to section 403(a) of the Eminent Domain Code (Code), Act of June 22, 1964, Special Sess., P.L. 84, as amended, 26 P.S. §l-403(a). The bond shows the intent of the Gas Company to appropriate a pipeline right-of-way, and not a fee.
+The pipeline was permanently installed in a straight line across Westricks property for a distance of seventy feet, connecting an old pipeline to a newly constructed pipeline. Westrick filed preliminary objections contending that the declaration of taking should be amended to reflect a taking in fee simple. After a hearing, the preliminary objections were denied and exceptions were dismissed. Westrick contends that the taking interferes substantially with his right to extract coal below the surface of the taking, and therefore constitutes a taking in fee, rather than a right-of-way. The Gas Company contends that only an easement was taken.
+Condemnation is accomplished by the filing of a declaration of taking. The declaration must contain a statement of the nature of the title acquired, if any, a brief description of the purpose of the condemnation, and a description or a plan of the property condemned. Section 402(b) of the Code, 26 P.S. §l-402(b).
+To determine whether a fee simple or an easement was taken by the Gas Company in its exercise of the power of eminent domain, we must look to its declaration of taking in conjunction with the statutory authorization by which it acted. Cavalier Appeal, 408 Pa. 295, 183 A.2d 547 (1962). The declaration of taking is an act of general application concerning the title acquired in eminent domain or the interpretation of laws or descriptions of the condemnor.
+Section 3549 of the Natural Gas Companies Act (Act), Act of May 29, 1885, P.L. 29, as amended, 15 P. S. §3549, repealed in part by the Act of July 20, 1968, P.L. 459, provides that “[a]ny and all corporations . . . engaged in such business shall have the right of eminent domain for the laying of pipelines for the transportation and distribution of natural gas. . . .” Section 3541 of the Act, 15 P.S. §3541, provides that a natural gas company shall “have and possess the right also to enter upon, take and occupy such lands, easements and other property as may be required for the purpose of laying its pipes for transporting and distributing gas.” Moreover, section 3547 of the Act, 15 P.S. §3547, declares the transportation and supply of natural gas to be a public use. Section 322 of the Business Corporation Law (Law), Act of May 5, 1933, P.L. 364, as amended, 15 P.S. §1322(D), provides that “[t]he estate in property condemned . . . shall be in fee simple absolute unless the resolution of condemnation shall specify a lesser estate.”
+Thus, the quantum of land to be acquired is within the discretion of the Gas Company. However, that discretion is not without limit. A power to acquire land is the power to acquire an interest that is not greater than is necessary to carry out the public purpose of the body on which such power is conferred. Cavalier Appeal; Truitt v. Borough of Ambridge Water Authority, 389 Pa. 429, 133 A.2d 797 (1957); Wilson v. City of Scranton, 141 Pa. 621, 21 A. 779 (1891); Commonwealth v. Renick, 21 Pa. Commonwealth Ct. 30, 342 A.2d 824 (1975).
+Condemnation presupposes considered judgment and the exercise of discretion prior to formal action by a condemnor. Our scope of review is limited to a determination of whether the court below abused its discretion or committed an error of law. Blank v. Columbia Gas of Pennsylvania, Inc., 11 Pa. Commonwealth Ct. 304, 314 A.2d 880 (1974).
+Administrative decisions of a condemnor concerning the amount, location, or type of estate condemned are not subject to judicial review unless such decisions are in bad faith, arbitrary, capricious, or an abuse of power. There is a presumption that the acts of the condemnor are for the public good, and a court will not substitute its discretion for that of the administrative body. It is the condemnees burden to prove an administrative abuse, and this burden is a heavy one to meet. Pidstawski v. South Whitehall Township, 33 Pa. Commonwealth Ct. 162, 380 A.2d 1322 (1977).
+The declaration of taking and the accompanying documents show an intent to acquire less than a fee simple estate, i.e., an easement. The pipe, as laid, was nothing more than a continuation of the existing pipelines supplying gas needs to the community. It was not necessary to take a fee to carry out this purpose. To the contrary, it would have been an abuse of discretion, and an excessive taking, to take a fee. Furthermore, Westricks contention of an interference with his fee interest goes to the question of the extent of damages, which is a matter for the Board of Viewers, rather than a question of the administrative exercise of bad faith or lack of discretion.
+Accordingly, we affirm.
+Order
+Now, February 10, 1987, the order of the Court of Common Pleas of Cambria County, No. 1984-2418, dated February 25, 1985, is affirmed.
