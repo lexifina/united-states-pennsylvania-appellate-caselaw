@@ -1,0 +1,43 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 1646"
+decided: "1971-06-22"
+citations: ["219 Pa. Super. 291"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. J., Watkins, Montgomery, Jacobs, Hoeeman, Spaulding, and Ceecone, JJ.", "Montgomery, J., joins in this dissenting opinion."]
+parties: ["Brennan v. Ennis, Appellant."]
+source_url: "https://static.case.law/pa-super/219/cases/0291-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 796841
+cites_cases: ["139 At. 144", "163 Pa. Superior Ct. 624", "183 A. 2d 318", "196 A. 2d 294", "214 Pa. Superior Ct. 294", "257 A. 2d 605", "263 A. 2d 324", "290 Pa. 348", "355 Pa. 394", "364 Pa. 334", "408 Pa. 236", "413 Pa. 174", "437 Pa. 409", "44 A.L.R. 1310", "50 A. 2d 289", "63 A. 2d 380", "72 A. 2d 65", "82 Pa. Superior Ct. 528"]
+---
+
+# Brennan v. Ennis
+
+## Majority (Spaulding, J.,)
+
+Opinion by
+Spaulding, J.,
+Appellant Dr. Gordon J. Ennis appeals from the August 27,1970 order of the Court of Common Pleas of Bucks County, denying liis petition to strike a judgment entered by warrant of attorney against Ms late wife, Anna S. Ennis, after her death.
+The warrant of attorney appeared in a 1960 bond accompanying a mortgage on property held by appellant and Anna S. Ennis as tenants by the entireties. The obligation on the bond by its terms bound the obligors and “their heirs, executors and administrators, jointly and severally”. The mortgage and bond were held by John and Catherine Brennan, appellees.
+Anna S. Ennis died on November 24, 1966. No estate was opened for her and no personal representative appointed. On March 4,1969, after default on the mortgage, judgment was entered under the warrant in the sum of $22,174.98 with costs of $22.50. Pursuant to Philadelphia Local Rule 3129(f) (1) and (2) (formerly Rules 910a and 910b), notice of entry of judgment and forthcoming execution was sent by certified mail, addressed to both appellant and Anna S. Ennis. A return receipt signed by appellant shows delivery on March 25, 1969. On April 11, 1969, the mortgaged property was sold at sheriff’s sale. A sheriff’s return, filed May 28, 1969, shows the purchase price of $25,500.00, and a deed to the purchasers was filed June 3, 1969. The net return from the sale, $22,842.81, was $332.17 less than the amount required for satisfaction of the judgment.
+On July 1, 1969, appellant filed a petition to strike the judgment only against Anna S. Ennis. Since all her interest in the mortgaged realty terminated with her death, striking the judgment against her would result only in removing her liability under the deficiency judgment lien for $332.17.
+Appellant does not contest the underlying obligation on the bond, the entry of judgment against himself, or the conveyance of the property at sheriff’s sale. His sole contention is that the warrant of attorney granted by Ms wife ceased to be valid against her at her death. Appellees urge that this power survived Anna S. Ennis’s death.
+Although the applicable law on judgments entered by warrant of attorney after the maker’s death is unsettled, we do not reach this issue. As the court below found, since no estate has been opened or settled for Anna S. Ennis, no personal representative has been appointed for her, and the court has no information on the existence or nature of her assets, appellant is precluded from striking the judgment because of lack of standing. Appellant’s reliance on Kummerle v. Cain, 82 Pa. Superior Ct. 528 (1924), and Kingston Nat. Bk. v. Walters et ux., 163 Pa. Superior Ct. 624, 63 A. 2d 380 (1949), is misplaced.
+In Cain, a petition to strike was brought by the decedent’s administrator. The Court’s descriptions of the persons entitled to relief in such a case — “the legal representative or heirs of the decedent,” and “persons representing the estate” — clearly contemplate legal identification of estate, representative, and heirs.
+In Kingston National Bank, a petition to strike was brought by a surviving wife jointly liable with her deceased husband on a confession judgment. The decision made no mention of the need for a personal representative. The reason, however, is that the matter was not at issue. The judgment creditor did not raise the question of standing in his argument on the petition, and did not appeal from the striking of judgment as to the deceased husband. The sole issue on appeal was the striking of judgment as to the surviving wife, which was reversed.
+The necessity for appointment of a personal representative in actions by or against a decedent is recognized in practice, see Schor v. Becker, 437 Pa. 409, 263 A. 2d 324 (1970), although the Fiduciaries Act (20 P.S. §320.101 et seq.), couches the requirement in permissive language: “An action or proceeding to enforce any right or liability which survives a decedent may be brought by or against his personal representative alone or with other parties as though the decedent were alive.” (Emphasis added.) 20 P.S. §320.603. This section must be read in light of the fact that our Fiduciaries Acts have made it possible to take legal action against or in favor of a decedent, where at common law it was largely impossible.
+Under the procedures set out in the Fiduciaries Act, the power to represent the decedent is coupled with the duty to settle his affairs. Here, the appellant purports to act as both personal representative and the possessor of an interest in his wife’s estate, without following these procedures. But the court has no knowledge of whether he has such an interest, or whether there are any assets in which to have an interest. Compare Schantz v. Clemmer, 355 Pa. 394, 50 A. 2d 289 (1947) and Land Title Bank & Trust Co. v. Kauffman, 40 D. & C. 608 (1941). More importantly, the court cannot act at appellant’s behest where a later, legally appointed representative could successfully challenge the authority of his position. If the appellees were determined to proceed against Anna S. Ennis rather than against appellant, paying the deficiency judgment might be a smaller burden on her estate than defending an action on the surviving obligation under the bond.
+Appellant did not give appellees timely notice of his Wife’s death. In sustaining the refusal of the court below to strike the judgment, we leave the parties where they are, since execution against Anna S. Ennis cannot be taken without either the appointment of a personal representative or approval by the Orphans’ Court Division. 20 P.S. §320.607(a). (Compare §320.607(b).)
+The order of the court below is affirmed.
+Cases citing the general rule that judgment cannot be entered by confession after the mater’s death have done so without discussion of any underlying rationale. Stucker v. Shumaker, 290 Pa. 348, 351, 139 At. 144 (1927) ; First Fed. S. & L. v. Porter, 408 Pa. 236, 241, 183 A. 2d 318 (1962) ; Kummerle v. Cain, supra; Kingston Nat. Bk. v. Walters et ux., supra. Kummerle v. Cain (1924), is the latest Pennsylvania appellate case actuaUy implementing the rule, and recent cases have placed possible reasons for the rule in question. See Mid-City Federal S. & L. Assoc. of Phila. v. Allen, 413 Pa. 174, 196 A. 2d 294 (1964) ; Chaniewicz v. Chaniewicz, 214 Pa. Superior Ct. 294, 257 A. 2d 605 (1969) ; Restatement of Agency 2d, §§138, 139 (1) (d) ; Annot., 44 A.L.R. 1310, 1311 et seq.
+The Fiduciaries Act of 1949 provides for settling small estates by petition to the Orphans’ Court. Act of April 18, 1949, P. L. 512, §202, as amended, December 22, 1965, P. L. 1201, §1, 20 P.S. §320.202.
+
+## Dissent (Jacobs, J.:)
+
+Dissenting Opinion by
+Jacobs, J.:
+The warrant of attorney to confess judgment is revoked by the death of the maker and it is proper to strike off a judgment entered by confession or on a warrant of attorney after the death of the debtor. Klein, Judgment by Confession in Pennsylvania, p. 46 (1929); Shuchman, Judgment Notes in Pennsylvania, §23.1, p. 83 (1961); Ehnes v. Kissinger, 364 Pa. 334, 72 A. 2d 65 (1950) ; The Kingston Nat'l Bank v. Walters, 163 Pa. Superior Ct. 624, 63 A. 2d 380 (1949). The lower court must come to this conclusion if an effort is made to enforce the judgment against the deceased obligor’s separate property. It, therefore, appears to me that unnecessary litigation may result from holding that the husband of the deceased obligor has no standing to move to strike the judgment against his deceased wife simply because he hasn’t taken out letters on her estate. I respectfully dissent and would reverse and strike the judgment.
+Montgomery, J., joins in this dissenting opinion.
