@@ -1,0 +1,38 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 965"
+decided: "1974-12-11"
+citations: ["231 Pa. Super. 451"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Watkins, P. J., Jacobs, Hoffman, Cercone, Price, Yan der Yoort, and Spaeti-i, JJ."]
+parties: ["Commonwealth, Appellant, v. Wilson."]
+source_url: "https://static.case.law/pa-super/231/cases/0451-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 816816
+cites_cases: ["18 Ill. App. 3d 527", "191 A.2d 758", "301 A.2d 605", "310 N.E.2d 15", "451 Pa. 102", "79 N.J. Super. 379"]
+---
+
+# Commonwealth v. Wilson
+
+## Majority (Jacobs, J.,)
+
+Opinion by
+Jacobs, J.,
+On October 12,1971, while serving a sentence in the State of New Jersey, the appellee was indicted by the Bucks County (Pennsylvania) Grand Jury on a charge of possession of 0.2 gram of marijuana. On April 27, 1973, pursuant to the Interstate Agreement on Detainers, which requires that a defendant, upon request, be brought to trial within 180 days, the appellee filed a request for disposition of that indictment. On April 30, 1974, the lower court granted appellee’s motion to dismiss the indictment for failure to comply with the time proscriptions of the aforesaid Act. It is the propriety of that order which is presently before the Court in this Commonwealth appeal.
+The record reveals the following pertinent facts. Pursuant to his April 27, 1973, request for disposition, the appellee was delivered to Bucks County authorities on June 1, 1973, for trial the following Tuesday, June 5, 1973. On that date the court granted the public defender’s request for a continuance in order to prepare the case and contact witnesses. The next trial listing was October 24, 1973, and on that date defense counsel orally moved to dismiss the indictment under the misconception that the time proscription under the Act was 120 rather than 180 days. The hearing judge reserved decision pending transcription of the notes of testimony taken at the hearing of the June 5, 1973, continuance motion.
+At this point the record ceases, and the only chart through the succeeding months is provided by the opinion of the court below. “The court stenographer acted promptly, but due to inexplicable inadvertence of the hearing judge (the writer of this opinion) the case was lost sight of until it was brought to his attention by the district attorney on April 18,1974. This delay has resulted in a total time lapse in excess of 180 days even if the number of days due to the continuance of June 5 is deducted. The hearing judge felt he could not in good conscience ignore his own delay in the computation of time.” Opinion of Judge Walsh at 2. The court then granted appellee’s October 24, 1973, motion to dismiss the indictment.
+The question thus before this Court is whether the indictment ivas properly dismissed where the Commonwealth complied with the time limits of the Interstate Agreement on Detainers; but where the trial court, through administrative inadvertence, failed to effect an orderly or efficient progression of the case. We hold that in view of the policy and purpose of the Act, the court acted properly in dismissing the indictment.
+The policy of the Interstate Agreement on Detainers is “to encourage the expeditious and orderly disposition” of charges and its purpose “is to promote and foster prisoner treatment and rehabilitation programs by eliminating uncertainties which accompany the filing of detainers.” Commonwealth v. Fisher, 451 Pa. 102, 106, 301 A.2d 605, 607 (1973). To that end it is unimportant whether delay is occasioned by the prosecutor’s office or by the court; so long as the delay is neither reasonable nor necessary, and not occasioned by the defendant, the legislative policy must be heeded.
+The Commonwealth argues, that the delay was both reasonable and necessary and that it was caused by the appellee. Both of these ¿rguments may be discounted. Even assuming that the time period between June 5 and October 24 is properly chargeable to the appellee, the 180 day period was still exceeded when the continuance period is excluded. We do not believe that by moving for dismissal of the indictment the appellee can be said to have caused the delay between October 24,1973, and April 30,1974, a period of some 188 days. Also, the Commonwealth’s argument that the delay was a reasonable one required by the court, to rule on the motion, especially in light of the appellee’s erroneous citing of the 120 day rule, is rejected by the court itself. The court excludes the possibility that it was considering the case, stating that “due to inexplicable inadvertence . . . the case was lost sight of until it was brought to [the court’s] attention by the district attorney on April 18, 1974.” The court thus implicitly finds that the delay was neither reasonable nor necessary.
+The Interstate Agreement on Detainers is legislation “obviously remedial in character and, thus, by familiar principal [sic] should be construed liberally in favor of the prisoner.” Commonwealth v. Fisher, supra at 106, 301 A.2d at 607, quoting, State v. West, 79 N.J. Super. 379, 384, 191 A.2d 758, 760 (1963).
+Order affirmed.
+Act of Sept. 8,1959, P.L. 829, No. 324, §1, 19 P.S. §1431 (1964).
+19 P.S. §1431, Article III (a) provides in relevant part: “Whenever a person has entered upon a term of imprisonment in a penal or correctional institution of a party state, and whenever during the continuance of the term of imprisonment there is pending in any other party state any untried indictment, information or complaint on the basis of which a detainer has been lodged against the prisoner, he shall be brought to trial within one hundred eighty days after he shall have caused to be delivered to the prosecuting officer and the appropriate court of the prosecuting officer’s jurisdiction written notice of the place of his imprisonment and his request for a final disposition to be made of the indictment, information or complaint: Provided, That for good cause shown in open court, the prisoner or his counsel being present, the court having jurisdiction of the matter may grant any necessary or reasonable continuance.”
+The sanction for failure to afford trial within the statutory period is found in Article V (c): “If the appropriate authority shall refuse or fail to accept temporary custody of said person, or in the event that an action on the indictment, information or complaint on the basis of which the detainer has been lodged is not brought to trial within the period provided in article III or article IV hereof, the appropriate court of the jurisdiction where the indictment, information or complaint has been pending shall enter an order, dismissing the same with prejudice, and any detainer based thereon shall cease to be of any force or effect.”
+Article IV of the Act provides a 120 day limit where the prosecution requests that the defendant be returned for trial
+Act of Sept. 8, 1959, P.L. 829, No. 324, §1, Article I, 19 P.S. §1431 (1964).
+Tbe Act provides in Art. Ill, Subsection (a) : “Provided, That for good cause shown in open court . . . the court having jurisdiction of the matter may grant any necessary or reasonable continuance.”
+When the defendant causes the delay he is not entitled to be discharged. See, e.g., People v. Leonard, 18 Ill. App. 3d 527, 310 N.E.2d 15 (1974).
+We need not decide the question of whether the conveniences of court calendars (including a summer recess) may properly be chargeable to the appellee even though he might have had his case prepared long before the next available trial date of October 24, 1973). .
