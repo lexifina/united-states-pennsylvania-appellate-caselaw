@@ -1,0 +1,41 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2157 C.D. 1976"
+decided: "1977-10-26"
+citations: ["32 Pa. Commw. 261"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges Rogers and Blatt, sitting as a panel of two."]
+parties: ["Kenneth R. Schaffer and Erma M. Schaffer v. Zoning Hearing Board of Upper Darby Township and Catherine M. Toppitzer. Catherine M. Toppitzer v. Zoning Hearing Board of Upper Darby Township. Kenneth R. Schaffer and Erma M. Schaffer, Appellants."]
+source_url: "https://static.case.law/pa-commw/32/cases/0261-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1883460
+cites_cases: ["17 Pa. Commonwealth Ct. 213", "195 A.2d 101", "331 A.2d 242", "364 Pa. 616", "412 Pa. 429", "73 A.2d 407"]
+---
+
+# Schaffer v. Zoning Hearing Board
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+This is an appeal of protesting neighbors from an order of the Delaware County Court of Common Pleas affirming the grant by the Upper Darby Township Zoning Hearing Board (Board) of variance for the expansion of Catherine M. Toppitzer’s funeral home.
+In 1934, George Toppitzer established a funeral business at the southwest corner of Garrett Road and Lansdowne Avenue in Upper Darby Township, Pennsylvania. After the enactment of the Upper Darby Zoning Ordinance (Ordinance) in 1938, the funeral home was a nonconforming use of the original lot. George Toppitzer died in 1966 and his widow, Catherine M. Toppitzer, became the sole owner of the business which she has carried on since that time, and of the real estate at Garrett Road and Lansdowne Avenue, on which i't was located.
+In 1942, George Toppitzer purchased the premises at 354 Lansdowne Avenue which adjoins the Toppitzer Funeral Home to the south. A variance which permitted the parking of some cars in connection with the funeral business on a portion of this lot was granted to George Toppitzer in 1957. Mrs. Toppitzer was the owner of this property at the time this case was begun by her application for a variance.
+In 1959, George Toppitzer acquired the premises at 357 Owen Avenue. The rear boundary of this property abuts the original Toppitzer Funeral Home property. In July of 1959, the Zoning Board of Adjustment granted Mr. Toppitzer a variance to construct a twenty-eight foot driveway across this lot and to allow off-street parking at the rear of the premises for use in connection with the funeral business. Mrs. Toppitzer also owned this property at the time she applied for the variance in this case.
+In 1972, Catherine M. Toppitzer acquired premises at 359 Owen Avenue, the rear line of which also abuts the original Toppitzer Funeral Home property. The record in this case contains evidence that in 1959 a variance was granted to a predecessor in title to Mrs. Toppitzer to allow the use of a portion of the building on this property as an office. The exact provisions of this variance and its relevance to this proceeding are not explained in this record.
+Catherine M. Toppitzer applied to the Zoning Hearing Board for variances for the construction of an addition to the funeral home and a garage on the Garrett Road and Lansdowne Avenue property and for the use of a portion of the premises at 359 Owen Avenue for parking in connection with the funeral business. 'This application was denied by the Board and Mrs. Toppitzer appealed to the Delaware County Count of Common Pleas. The matter was remanded to the Board for the taking of additional testimony. At a supplemental hearing before the Board, Mrs. Toppitzer amended her application to request only a one-story addition to the funeral home on the Garrett Road and Lansdowne Avenue property and for permission to construct additional parking spaces not only on the 359 Owen Avenue lot, but also on her properties at 354 Lansdowne Avenue and at 357 Owen Avenue. The Board granted all of the variances and the appellants, Mr. and Mrs. Kenneth R. Schaffer, appealed to the court below, which, without taking additional evidence, affirmed the Board’s determination as to all of the variances.
+The appellants do not challenge the grant of the variance for the construction of additions to the funeral home. They do challenge the variances permitting the construction of additional parking accommodations at 354 Lansdowne Avenue and 357 and 359 Owen Avenue, all of which properties were acquired after the enactment of the township zoning ordinance. They, contend that the Board erred in treating Mrs. Toppitzer’s requests for variances as applications for the extension of a nonconforming use and in granting the variances on a record containing no evidence that the applicant, as owner, suffered unnecessary hardship uniquely affecting her property. We agree and reverse the order below.
+Our scope of review where the court below has not taken additional evidence is limited to determining whether the Zoning Hearing Board committed an abuse of discretion or an error of law. Zoning Board of Adjustment of the City of Philadelphia v. Liberty Bell Medical Center, 17 Pa. Commonwealth Ct. 213, 331 A.2d 242 (1975).
+The evidence presented by Mrs. Toppitzer in support of her application dealt with the need of her assertedly expanding business for more parking in the cure of traffic congestion in the vicinity of the funeral home. The Board concluded that “ [T]he applicant has amply demonstrated a need for additional parking consequent to the normal growth of her business,” that “as in the case of the other two properties . . . the expansion of parking onto premises 359 Owen Avenue constitutes no detriment to the public interest,” and that “the grant of the variance will not adversely affect the public interest. ’’
+Mrs. Toppitzer needed a variance to use the lots acquired after the enactment of the zoning ordinance for parking because her nonconforming use of the Garrett Road and Lansdowue Avenue property did not entitle her to extend that use over land not occupied when the ordinance became effective. Humphreys v. Stuart Realty Corp., 364 Pa. 616, 73 A.2d 407 (1950). Indeed, the record contains references to, but not descriptions of, variances granted for parking on two of the three after-acquired lots. These allowances by variance did not create nonconforming uses; they created uses which, by reason of variances granted by competent authorities from the terms of the ordinance, conformed to the zoning regulations. We conceive, and hold, that a use allowed by variance is not one upon which a right of extension may be erected as though it were a nonconforming use.
+Mrs. Toppitzer, as we have already observed, adduced no evidence that variances for her desired parking were required to prevent unnecessary hardship. The proofs that she might suffer economic hardship did not support her requests for variance. Cooper v. Board of Adjustment, 412 Pa. 429, 195 A.2d 101 (1963).
+Since we are reversing the order below on the merits of Mrs. Toppitzer’s entitlement to the variances granted by the Board, it is not necessary to consider the appellants’ procedural challenge to the Zoning Hearing Board’s hearing.
+The order of the court below affirming the grant of variances for parking lots on premises 354 Lansdowne Avenue and 357 and 359 Owen Avenue is reversed ; the order is otherwise affirmed.
+Order,
+And Now, this 26th day of October, 1977, the decision and order of the Delaware County Court of Common Pleas dated November 19,1976, affirming the grant of variances for parking lots on premises 354 Lansdowne Avenue and 357 and 359 Owen Avenue is reversed; the order is otherwise affirmed.
+This ordinance placed this lot and the other properties in this ease in a zoning district where only residential uses were permitted.
+The terms of this variance are not in this record.
+There is some testimony in the record suggesting that this permission may have been granted by a court order. However, a letter from the Zoning Hearing Board informing Mr. Toppitzer that his application for a variance had been approved appears in the record and we assume in the absence of proof to the contrary that the variance was granted by the Board.
+These quotations are from the Board’s opinion dated June 24, 1976.
