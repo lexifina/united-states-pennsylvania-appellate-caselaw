@@ -1,0 +1,68 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "328"
+decided: "1995-11-22"
+citations: ["446 Pa. Super. 633", "667 A.2d 1155"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before ROWLEY, President Judge, and HUDOCK and CERCONE, JJ.", "CERCONE, J., files a dissenting opinion."]
+parties: ["Gloria Rich CURRAN v. John J. CURRAN, Appellant."]
+source_url: "https://static.case.law/pa-super/446/cases/0633-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 727444
+cites_cases: ["348 Pa.Super. 237", "349 Pa.Super. 423", "378 Pa.Super. 89", "417 Pa.Super. 528", "527 Pa. 448", "541 Pa. 3", "660 A.2d 25"]
+---
+
+# Curran v. Curran
+
+## Majority (ROWLEY, President Judge:)
+
+ROWLEY, President Judge:
+This is an appeal from the December 22, 1994 order of the Court of Common Pleas of Schuylkill County. We affirm.
+John J. Curran, appellant, filed a Complaint in Divorce in Carbon County. Gloria Rich Curran, appellee, filed a Complaint in Divorce in Schuylkill County. Appellant filed a petition for bifurcation which was subsequently withdrawn. Appellee then filed a petition for bifurcation. A hearing was held on the issue of venue and bifurcation, and the trial court determined that venue was appropriate in Schuylkill County. The Carbon County action was consolidated with the Schuylkill County action. No ruling was made on the issue of bifurcation. The order concerning venue was appealed by appellant to this Court. Venue was affirmed. A petition for reargument before this Court en banc was filed and denied. A Petition for Allowance of Appeal to the Supreme Court was filed and denied. On November 30, 1994, the trial court entered an order granting the petition for bifurcation. On December 22, 1994, a bifurcated divorce decree was entered. This timely appeal followed.
+Initially we must determine whether the bifurcated decree of divorce entered here is “final”, thus conferring jurisdiction on the Court to entertain and decide the issues presented. Pa.R.A.P. 341 might suggest that a decree of divorce, following an order for bifurcation, is not a final order since there are outstanding economic claims between the parties which remain unresolved. Additionally, one might argue that it is not a final order because it is not expressly defined as such by statute. However, we hold that in deciding whether a decree of divorce entered pursuant to an order for bifurcation is a final order, it is necessary to examine the ramifications of the order. In Flowers v. Flowers, 417 Pa.Super. 528, 612 A.2d 1064 (1992), this Court concluded that an order denying a motion to vacate a decree of divorce would be a final order because “it effectively puts a defendant ‘out of court’ on both the question of the right of the former spouses to remarry or their right to make an effective will which designates a third party as legatee regarding their interests in property originally held by the entireties.” Id. at 531, 612 A.2d at 1065 (citation omitted). Analogously, a decree of divorce following an order for bifurcation is a final order because its ramifications are the same.
+Furthermore, it is well established that “[i]n interpreting any statute, the legislative intent behind the enactment of the statute controls its ultimate meaning and application.” DeLellis v. Borough of Verona, 541 Pa. 3, 10, 660 A.2d 25, 28 (1995) (citations omitted). The legislative intent of the Divorce Code is to “effectuate economic justice between parties who are divorced or separated....” 23 Pa.C.S. § 3102(a)(6).
+It is well established that the Divorce Code permits the severance of divorce claims from economic claims.
+In the event that the court is unable for any reason to determine and dispose of the matters provided for in this subsection within 30 days after the master’s report has been filed, it may enter a decree of divorce or annulment.
+Moreover, the Pennsylvania Rules of Civil Procedure provide the court with discretion and latitude in dealing with the economic aspects of the divorce proceeding.
+Fenstermaker v. Fenstermaker, 348 Pa.Super. 237, 249, 502 A.2d 185, 191 (1985) (emphasis in original) (citation omitted).
+Pursuant to statute, the court is empowered in all matrimonial causes to do one of the following: (a) dismiss the complaint, (b) enter a decree of divorce, or (c) enter a decree of annulment of the marriage. 23 Pa.C.S. § 3323(a). The court can also enter an order for bifurcation when it is not possible to determine and dispose of the matters provided for in 23 Pa.C.S. § 3323(b). Once the court determines that it is necessary to separate the granting of a divorce from the resolution of the economic claims, as in the instant case, “it may enter a decree of divorce or annulment ... and may make a temporary order necessary to protect the interests of the parties pending final, disposition of the matters in subsection (b).” 23 Pa.C.S. § 3323(c)(emphasis supplied). No distinction is made between section 3323(a) and (c) regarding the status to be afforded to the decree which the court may enter.
+The Divorce Code makes no distinction between a divorce decree entered pursuant to subsection (a) or (c) in terms of the rights that follow from the entry of a decree of divorce. 23 Pa.C.S. § 3331 provides for certain limitations on attacks upon the validity of a decree of divorce or annulment. 23 Pa.C.S. § 3332 addresses the issue of opening or vacating a decree of divorce or annulment. 23 Pa.C.S. § 3333 provides that the validity of a divorce or annulment decree cannot be attacked unless it is established by clear and convincing evidence that fraud by the other party prevented the taking of a timely appeal from the divorce or annulment decree. Likewise, the Pennsylvania Rules of Civil Procedure do not make any distinction between a decree of divorce entered pursuant to section 3323(a) or (c). See Pa.R.C.P. 1920.52(a)(4) and (d); 1920.55(c); and 1930.2(a) and (b).
+If a divorce decree entered following a bifurcation order is not a final order, this would vitiate the purpose of bifurcation which is to separate the divorce claim and the economic claims of the parties. See Jawork v. Jawork, 378 Pa.Super. 89, 548 A.2d 290 (1988). The severance of the divorce and economic claims furthers the goals of the Divorce Code so that the parties’ personal lives will not be held hostage to economic disputes. Taylor v. Taylor, 349 Pa.Super. 423, 503 A.2d 439 (1986). Therefore, we hold that a decree of divorce that is entered after an order has been entered severing the economic issues from the action for divorce is final for purposes of appeal and this Court has jurisdiction to decide the divorce issues raised.
+Appellant raises the following issues for our consideration:
+(1) Did the trial court abuse its discretion in entering a bifurcated divorce decree?
+(2) Did the trial court abuse its discretion in determining the Appellee, Mrs. Curran, demonstrated that there were advantages to a bifurcated divorce decree?
+(3) Did the trial court abuse its discretion in failing to give proper consideration to the substantial disadvantages created by a bifurcated decree?
+After having reviewed the record, the relevant case law, and the parties’ briefs, we conclude that the opinion authored by the Honorable William W. Lipsitt has carefully and properly disposed of Appellant’s issues on appeal. Accordingly, we rely upon the opinion authored by Judge Lipsitt.
+Decree of divorce affirmed. Jurisdiction relinquished.
+CERCONE, J., files a dissenting opinion.
+. RULE 341. FINAL ORDERS; GENERALLY
+(a) General Rule. Except as prescribed in subdivisions (d), and (e) of this rule, an appeal may be taken as of right from any final order of an administrative agency or lower court.
+(b) Definition of Final Order. A final order is any order that:
+(1) disposes of all claims or of all parties; or
+(2) any order that is expressly defined as a final order by statute; or
+(3) any order entered as a final order pursuant to subsection (c) of this rule.
+(c) When more than one claim for relief is presented in an action, whether as a claim, counterclaim, cross-claim, or third-party claim or when multiple parties are involved, the trial court or other governmental unit may enter a final order as to one or more but fewer than all of the claims or parties only upon an express determination that an immediate appeal would facilitate resolution of the entire case. Such an order becomes appealable when entered. In the absence of such a determination and entry of a final order, any order or other form of decision that adjudicates fewer than all the claims or parties shall not constitute a final order.. . .
+Pa.R.A.P. 341.
+. We cannot ignore the legislative intent of the Divorce Code and hold that because Flowers was decided prior to Pa.R.A.P. 341, as amended, it no longer has application. We find no indication that the concept of a decree of divorce entered pursuant to a bifurcation order has been abrogated.
+. In subsection (c) however, we find the word "temporary” which qualifies the range of orders which the court can order to protect the parties' interests so defined in subsection (b). The word “final” is used with reference to the disposition of the outstanding claims pursuant to subsection (b). From the absence of any qualifying terms in reference to the phrase "decree of divorce” in subsections (a) and (c), it is clear that the same final status is afforded to both decrees, notwithstanding the unresolved claims pursuant to subsection (b). When a court attempts to ascertain the meaning of language within a statute, its goal is to effectuate the intent of the Legislature. Frontini v. Commonwealth Dept. of Trans., 527 Pa. 448, 593 A.2d 410 (1991).
+
+## Dissent (CERCONE, Judge,)
+
+CERCONE, Judge,
+dissenting.
+I dissent from the majority’s determination that the order appealed from is a final one. Since the enactment of the new Rule 341 of the Rules of Appellate Procedure, final orders have been defined as follows:
+(b) Definition of final order. A final order is any order that:
+(1) disposes of all claims or of all parties; or
+(2) any order that is expressly defined as a final order by statute; or
+(3) any order entered as a final order pursuant to subsection (c) of this rule.
+(c) When more than one claim for relief is presented in an action, whether as a claim, counterclaim, cross-claim, or third-party claim or when multiple parties are involved, the trial court or other governmental unit may enter a final order as to one or more but fewer than all of the claims or parties only upon an express determination that an immediate appeal would facilitate resolution of the entire case. Such an order becomes appealable when entered. In the absence of such a determination and entry of a final order, any order or other form of decision that adjudicates fewer than all of the claims or parties shall not constitute a final order.
+Pa.R.A.P., Rule 341(b) and (c), 42 Pa.C.S.A. (Supp.1995).
+In the instant case, the economic claims of the parties have not yet been adjudicated. Thus, the order appealed from does not dispose of all of the claims pertinent to this action. Id., Rule 341(b). In addition, the trial court has not determined that an immediate appeal of the order would facilitate resolution of the entire case. Id., Rule 341(c). The reasons given by the majority for the conclusion that the order is “final” are based on the type of reasoning employed under the former Rule 341 to determine the finality of an order. Since the present Rule 341 explicitly defines a final order, this type of analysis is inapplicable.
+Because I do not believe that the order appealed from constitutes a final order as presently defined in Rule 341, I would quash the appeal.
+. Pa.R.A.P., Rule 341, 42 Pa.C.S.A. (Supp.1995).
+. Pa.R.A.P., Rule 341, 42 Pa.C.S.A. Former Rule 341 provided in pertinent part:
+(a) General Rule. Except as prescribed in Subdivisions (b) and (c) of this rule, an appeal may be taken as of right from any final order of an administrative agency or lower court.
+Id.
+. Another reason exists in favor of quashing this appeal. The lower court granted wife's (appellee's) petition to bifurcate on November 30, 1994. Husband (appellant) did not immediately file an appeal of this order, but rather waited until the decree of divorce was entered before filing his notice of appeal on January 17, 1995. Since appellant essentially is challenging the correctness of the lower court’s decision to allow bifurcation, appellant should have filed a notice of appeal within thirty days of the November 30, 1994 order. Thus, the present appeal is untimely and for that reason also, the appeal should be quashed.
