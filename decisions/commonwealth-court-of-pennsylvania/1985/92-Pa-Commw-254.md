@@ -1,0 +1,41 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 626 C.D. 1985"
+decided: "1985-10-15"
+citations: ["92 Pa. Commw. 254"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to President Judge Crumlish, Jr., Judge Rogers, and Senior Judge Kalish, sitting as a panel of three."]
+parties: ["Lukens, Inc., Petitioner v. Workmen’s Compensation Appeal Board (Parks), Respondents."]
+source_url: "https://static.case.law/pa-commw/92/cases/0254-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1340786
+cites_cases: ["105 Ga. App. 487", "125 S.E. 2d 72", "465 Pa. 249", "468 A.2d 1178", "79 Pa. Commonwealth Ct. 203"]
+---
+
+# Lukens, Inc. v. Workmen's Compensation Appeal Board
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+On March 6, 1985, Willie Parks, a workmen’s compensation claimant, filed in this court a Petition for Review of an order of the Workmen’s Compensation Appeal Board made February 7,1985 affirming a referee’s order made March 23, 1983 awarding the claimant compensation in the amount of $100 per week for 260 weeks for the complete loss of hearing in both ears. The case was begun in 1973 when the claimant filed a claim petition alleging loss of hearing in one ear and proceeded through three decisions of the referee and the board, culminating with the board order here under review.
+The claimant was employed by Lukens from the year 1957 or 1958 until July 7,1973 when he quit work. He worked eight-hour shifts as a ladleman at Lukens ’ electric furnaces which were in operation continuously during his shifts. The furnaces emitted noise so intense that a conversation could not be carried on in their presence.
+The claimant testified at a hearing conducted on December 19, 1973, that about two years earlier his right ear commenced giving him trouble; that he eventually lost all hearing in his right ear; that about a year and a half before the hearing his left ear began to bother him; and that the left ear is still “going.” He testified that using both ears he cannot hear the telephone ring; that he can hear television only with an ear phone; that he can no longer understand his wife in conversation; and that he cannot hear automobile horns.
+Dr. Maury Hoberman, an ear specialist, in a report stated that as of June 13, 1973 the claimant had a marked hearing loss, that the loss was progressive and that he had no discrimination in the right ear and very poor discrimination in the left ear. Dr. Hoberman made an audiogram which a Dr. Walter Vernon interpreted as showing that the claimant had a hearing loss of 100% in the right ear, of 51% in the left ear and a combined hearing loss of 59%. A Dr. Maurice Saltzman, who examined the claimant on July 28, 1973, found that he was totally deaf in the right ear and that he had a profound sensori-neural deafness as to pure tone in the left.
+The referee found that the claimant had suffered a 59 % loss of hearing in his left ear, a total loss of hearing in the right ear and a complete loss of hearing in both ears for all practical intents and purposes as of June 13, 1973.
+Mr. Parks’ employer, Lukens Steel Company, states two questions: Was the referee’s finding of fact that the claimant has suffered complete loss of hearing for all practical intents and purposes supported by substantial evidence; and was the referee’s finding that this loss occurred as of June 13, 1973 supported by substantial evidence?
+In Workmen’s Compensation Appeal Board v. Hartlieb, 465 Pa. 249, 348 A.2d 746 (1975), the court held that the word “complete” in Section 306(c)(8) of The Pennsylvania Workmen’s Compensation Act, Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §513, with respect to compensation for the complete loss of hearing in both ears is not to be read in a literal and absolute sense. The court in Eartlieb held that an injured claimant has suffered a complete loss of hearing in both ears whenever the loss is complete for all practical intents and purposes, citing Shipman v. Employers Mutual Liability Insurance Company, 105 Ga. App. 487, 125 S.E. 2d 72 (1962), holding that a claimant with a severe loss in one ear and a 51% loss in the other had suffered the complete loss of hearing in each ear. In Latrobe Steel Company v. Workmen’s Compensation Appeal Board, 79 Pa. Commonwealth Ct. 203, 468 A.2d 1178 (1983), where we upheld an award for complete loss of hearing in both ears, the medieal evidence was that the claimant had suffered a severe sensory, neural hearing loss in both ears. We held in Latrobe that it is not necessary that one claiming a complete loss of hearing show that his ears are totally useless; it is sufficient that he has lost so much of his hearing that he cannot hear as nature intended.
+Mr. Parks, it will be recalled, has totally lost hearing in one ear and has, according to Dr. Saltzman, a profound sensori-neural deafness in the other. The claimant’s testimony concerning his inability to hear normal conversation, the ring of the telephone, the tocsin of automobile horns and, without assistance, the sound of television, sufficiently supports, under the rule of the cases cited, the referee’s finding that he has suffered á complete loss of hearing in both ears.
+Before May 1, 1972, Section 306(c)(8) of the Act provided compensation for complete loss of hearing in both ears but did not provide compensation for complete loss of hearing in one ear. By the Act of March 29, 1972, P.L. 159, effective May 1, 1972, Section 306(c)(8) was amended to provide also for compensation for sixty weeks for the complete loss of hearing in one ear.
+The employer says that the referee’s finding of a complete loss of hearing in both ears is not supported by the record because the claimant testified, according to the employer, that he lost the hearing in his right ear two years before he testified in December, 1973, that is, in 1971. Therefore, the employer contends, the claimant may not, under the unamended version of Section 306(c)(8), have compensation for loss of hearing in the right ear; and, that even if it should be concluded that the claimant later lost the hearing in his left ear, he can under the present version of Section 306(c)(8) have compensation only for sixty weeks for that one ear. Unfortunately for the employer, the claimant did not testify that he lost the hearing in his right ear in 1971. He testified in December, 1973 that he was then completely deaf in his right ear; and that he first had problems in the right ear “about two years ago, I guess” when “that noise caused buzzing and buzzing and buzzing and it got to the place where it went out. ’ ’ He testified further:
+Q. What happened two years ago 1 A. All I know is that noise.
+Q. Tell us what happened two years ago.
+A. Well, this ear [the right] commenced to go out. It went completely out.
+This evidence clearly does not support a finding that the claimant had completely lost the use of the right ear in 1971. Indeed, it is more consistent with a finding that his difficulty with the right ear commenced about December, 1971 but that deafness occurred at some later time. No more definite time was fixed than the one which the referee found, June 13, 1973, when Dr. Hoberman made his audiogram.
+The referee’s findings that the claimant suffered a complete loss of hearing in both ears as of June 13, 1973 were therefore supported by the evidence.
+Order affirmed.
+Order
+And Now, this 15th day of October, 1985, the order of the Workmen’s Compensation Appeal Board in the above-captioned matter is affirmed.
+The referee’s finding may be contrasted with Dr. Vernon’s interpretation of Dr. Hoberman’s audiogram as showing a 51% loss in the left ear. None of the doctors was called to testify so that the referee had little help with his findings. He may, as an experienced referee, have interpreted the audiogram himself or he may have inadvertently used the 59% combined loss information to describe the condition of the left ear. It does not particularly matter since the issue of the case is that of whether the claimant had completely lost hearing in both ears for all practical intents and purposes.
