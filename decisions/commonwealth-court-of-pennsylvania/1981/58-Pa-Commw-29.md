@@ -1,0 +1,42 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2233 C.D. 1979"
+decided: "1981-03-19"
+citations: ["58 Pa. Commw. 29"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Wilkinson, Jr., MacPhail and Williams, Jr., sitting as a panel of three."]
+parties: ["Margaret McCloskey, Widow of Harold G. McCloskey, Deceased, Petitioner v. Commonwealth of Pennsylvania, Workmen’s Compensation Appeal Board and J. H. France Refractories, Inc., Respondents. Commonwealth of Pennsylvania, Department of Labor & Industry, Bureau of Worker’s Compensation, Intervenor."]
+source_url: "https://static.case.law/pa-commw/58/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1919428
+cites_cases: ["35 Pa. Commonwealth Ct. 73", "37 Pa. Commonwealth Ct. 412", "384 A.2d 1050", "391 A.2d 14", "403 A.2d 1372", "404 A.2d 778", "405 A.2d 1358", "408 A.2d 585", "424 A.2d 1237", "44 Pa. Commonwealth Ct. 493", "45 Pa. Commonwealth Ct. 67", "46 Pa. Commonwealth Ct. 150", "47 Pa. Commonwealth Ct. 554"]
+---
+
+# McCloskey v. Commonwealth
+
+## Majority (Judge Williams, Jr.,)
+
+Opinion by
+Judge Williams, Jr.,
+This is an appeal by the widow of a deceased employe of J. H. France Refractories, Inc. (employer), seeking reversal of an Order of the Workmen’s Compensation Appeal Board (Board) which dismissed her fatal claim petition. The Board reversed a referee’s award of benefits to Mrs. Harold McCloskey (appellant) on the grounds that the record before the Board failed to establish that Harold McCloskey (decedent) died from an occupational disease compensable under Section 301(c)(2) of The Pennsylvania Workmen’s Compensation Act (Act).
+Harold McCloskey was employed by J. H. France as a laborer and brick-setter. His job consisted of loading green bricks in and out of a kiln, which exposed him to a silica dust hazard. The decedent died on January 5, 1974, of acute myocardial infarction. The appellant filed a fatal claim petition on December 4, 1974, alleging that the death of her husband was the result of pneumoconiosis, an occupational disease from which the decedent suffered during the course of his employment with J. H. France. The issue presented by this appeal is whether the decedent’s death was caused by an occupational disease which he contracted due to his job at the J. H. France refractory, and is thus compensable; or whether the pneumoconiosis was merely a non-compensable, contributing factor to his death.
+The appellant’s claim was initially upheld by the referee, who awarded death benefits to her after a hearing. The Board, however, vacated the referee’s Order and remanded the matter solely for the purpose of allocating responsibility for payment of the compensation awarded. On remand, the referee made substantial alterations to his findings of fact, without taking any additional testimony; and concluded that the employer was fully responsible for all payments to appellant. The employer appealed the referee’s decision to the Board, which reversed the referee on the grounds that: (1) the referee committed error by altering his findings of fact in the absence of additional evidence; and (2) that the referee’s decision on causation was not supported by the medical evidence of record. Appellant brings this appeal from the Board’s Order dismissing her petition.
+The Board’s reversal of the referee’s award to the appellant was premised on two conclusions of law. The first of these conclusions, that the referee erred in revising his Findings of Fact without taking additional evidence, must be rejected. Our Supreme Court has recently addressed this issue, holding that revised findings of fact, which are not contradictory to the referee’s original findings, may be made by the referee on remand, so long as the revised findings have a sufficient foundation in the record originally before the referee; such findings need not always be accompanied by the taking of additional evidence. Colt Industries v. Borovich, 44 Pa. Commonwealth Ct. 493, 403 A.2d 1372 (1979), rev’d, Borovich v. Colt Industries, Pa. , 424 A.2d 1237 (No. 80-1-4, filed January 30, 1981).
+However, the Board’s second conclusion of law, that the referee erred in awarding benefits to the appellant because the record lacked competent evidence to support the award, is dispositive of this appeal. In order to be granted benefits on a fatal claim petition filed under the Act, a claimant has the burden of establishing that his or her spouse’s death was causally related to a compensable injury. Martinique v. Workmens Compensation Appeal Board, 45 Pa. Commonwealth Ct. 67, 404 A.2d 778 (1979); Hatboro-Horsham School District v. Workmens Compensation Appeal Board, 35 Pa. Commonwealth Ct. 73, 384 A.2d 1050 (1978). Where the claim alleges death resulting from an occupational disease under Section 301(c)(2) of the Act, to carry his statutory burden a claimant must present medical evidence which establishes that the death resulted from an occupational disease; medical evidence that an occupational disease was merely a contributing factor is not sufficient. Hauck v. Workmens Compensation Appeal Board, 47 Pa. Commonwealth Ct. 554, 408 A.2d 585 (1979); Consolidation Coal Co. v. Workmens Compensation Appeal Board, 37 Pa. Commonwealth Ct. 412, 391 A.2d 14 (1978).
+The appellant in the case at bar presented the testimony of two physicians on causation. Neither doctor definitively stated that decedent’s pneumoconiosis was more than a contributing cause of death; rather, their testimony supported only the conclusion that decedent’s occupational disease was a contributing factor in his demise. Consequently, the Board held that the referee erred in awarding death benefits to the appellant based on this testimony; and we must agree with this conclusion. Our review of the record indicates that the evidence adduced by the appellant to support her fatal claim petition falls short of the burden imposed upon her by the appropriate authority herein cited.
+Therefore, the Order of the Workmen’s Compensation Appeal Board dismissing appellant’s fatal claim petition is affirmed.
+Order
+And Now, the 19th day of March, 1981, the order of the Workmen’s Compensation Appeal Board at Docket No. A-76623, is affirmed.
+Act of June 2, 1915, P.L. 736, as amended, 77 P.S. §411(2).
+On June 21, 1977, the referee made the following findings of fact:
+10. That the claimant offered into evidence the medical depositions of both Dr. William H. Dreibelbis and Dr. Robert L. Hall. Dr. Dreibelbis concluded that pneumoconiosis was a contributing cause to the death of Harold G. McCloskey. Dr. Hall concluded in his deposition that silicosis was a major contribution to the death of Harold G. McCloskey.
+11. That after considering all the testimony and medical evidence and testimony presented, your Referee finds as a fact that the decedent’s underlying, pre-existing silicosis and pneumoconiosis was a significant, contributing causative factor in his demise.
+On December 26, 1978 the Referee entered the following findings of facts:
+11. That the claimant offered into evidence the medical depositions of both Dr. William Dreibelbis and Dr. Robert L. Hall. Dr. Dreibelbis concluded that pneumoconiosis was the cause of the death of Harold Mc-Closkey. Dr. Hall concluded in his depositions that silicosis was the cause of death of Harold G. McCloskey.
+12. That after considering all of the testimony and medical evidence and testimony presented your Referee finds as a fact that the decedent’s underlying, pre-existing silicosis and pneumoconiosis was the cause of his demise.
+“Injury” in this context includes occupational diseases. 77 P.S. §411(2).
+77 P.S. §411(2).
+One of the physicians, Dr. Robert Hall, stated that it may have been possible that McCloskey would have died from the heart attack he suffered even if he did not have silicosis.
+In seeking reversal of the Board’s Order, appellant relies on Duquesne Light Co. v. Gurick, 46 Pa. Commonwealth Ct. 150, 405 A.2d 1358 (1979); such reliance is misplaced. In that case, medical testimony was presented which established that decedent’s anthracosilicosis was one of several causes of death; the instant case is clearly distinguishable in that the medical testimony presented by the appellant herein supports only the conclusion that pneumoconiosis was a contributing factor in the death of Harold McCloskey.
