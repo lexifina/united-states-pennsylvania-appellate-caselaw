@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 145"
+decided: "1917-12-13"
+citations: ["68 Pa. Super. 452"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Henderson, Head, Kephart, Trexler and Williams, JJ."]
+parties: ["Bellow, Appellant, v. Lintott."]
+source_url: "https://static.case.law/pa-super/68/cases/0452-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 630989
+---
+
+# Bellow v. Lintott
+
+## Majority (Head, J.,)
+
+Opinion by
+Head, J.,
+The issue which was determined in the court below, the disposition of which by that court gives rise to this appeal, was an exceedingly simple one. It had its origin in this state of facts: The present plaintiff, appellant here, claiming to be the owner of a certain automobile which was in the physical possession of the defendant, caused a writ of replevin to be issued out of the Court of Common Pleas of Philadelphia County. When the sheriff, armed with the writ, undertook to deliver the possession of the automobile to the plaintiff, he was met by a counterbond given by the defendant which, under the law, prevented any disturbance of the possession of the latter at least until the question involved by the issue of the writ of replevin was tried out. Although defendant had been duly advised of the beginning of the action of replevin and had been legally summoned to attend, he took no further steps whatever in the way of defending against the pending action. By giving the counterbond, he asserted his right to the unqualified possession of the car but took no steps whatever to defend the right he advanced. He did not admit the ownership of the car to be in the plaintiff, advancing merely his right to a qualified possession of it to secure a lien for the price of repairs he had made upon it. As we have said, he did nothing; and not having appeared and not having filed any affidavit of defense, the plaintiff obtained a judgment by default in the Court of Common Pleas whence the writ issued.
+Before his damages had been in any way assessed by the court in which he obtained his judgment, he brought an action in the Municipal Court against the defendant and the sureties on his bond to recover what he claimed to be the damages. On appeal to this court from the judgment recovered in that action, we held that before he could proceed against the sureties on the defendant’s counterbond, he must first have his damages assessed in the court wherein he had obtained his judgment. Following the decision of that case, this proceeding was begun in the Court of Common Pleas simply for the purpose of ascertaining the damages that had accrued to the plaintiff. This liquidation would measure in money the value of the general judgment he had obtained. There is much in the record to indicate that this simple inquiry was rendered more or less difficult by the attempt of counsel on both sides to inject into it many questions which properly had no place in such an investigation. The jury rendered a verdict in favor of the plaintiff, fixing his damages at the sum of $100. Being dissatisfied with the amount fixed by the jury, the plaintiff takes this appeal.
+There are six assignments of error, no one of which in our judgment warrants any especial mention, save only the third. It complains of the refusal of the court below to affirm the third point for charge presented by the plaintiff, to wit: “The court instructs you as a matter of law that the defendant has no right in this proceeding to set off against the claim of the plaintiff any alleged claim for storage or for repairs of the automobile in question.” If we concede the point contained a correct statement of an abstract proposition of law, how did it become pertinent to the issue that was being tried? The docket entries, printed for our information, show that a petition was filed for a rule to show cause why the damages should not be assessed by a jury in open court. They disclosed no answer, but an entry that the rule was made absolute and that a few days later an order was made upon the rule to assess the damages. Neither the petition for the rule or the order sur rule appears in the printed record before us. We do not know, therefore, whether a feigned issue was directed to try the question, what plea answer or the like, if any, was made by the defendant. The plaintiff has printed in his brief a statement of claim. It appears from its face to be rather a statement of claim in the original action of replevin than anything with relation to the execution of a writ of inquiry of damages. However, it nowhere appears either from the testimony, from the charge of the court in the disposition of this case or otherwise that the court submitted to the jury any question of set-off or in any way considered such question as of any importance in the case. His charge we regard as an entirely clear and fair submission to the jury of the single question of fact involved. That being true, it appears to us the plaintiff’s point on the subject of set-off in an action of replevin, was entirely outside the issue being tried, and the learned court below was warranted in refusing to affirm it.
+All of the assignments of error are overruled,
+Judgment affirmed.
