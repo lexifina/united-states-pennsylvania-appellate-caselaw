@@ -1,0 +1,20 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "46 Special Transfer Docket"
+decided: "1979-11-28"
+citations: ["275 Pa. Super. 631", "423 A.2d 1331"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before VAN der VOORT, LARSEN and LAVELLE, JJ."]
+parties: ["Commonwealth v. Tooks, Appellant."]
+source_url: "https://static.case.law/pa-super/275/cases/0631-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 140608
+---
+
+# Commonwealth v. Tooks
+
+## Majority
+
+Judgment of sentence affirmed.
