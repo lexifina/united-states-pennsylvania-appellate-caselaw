@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 6"
+decided: "1921-07-14"
+citations: ["77 Pa. Super. 27"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Oelady, P. J., Porter, Henderson, Head, Trexler, Keller and Linn, JJ."]
+parties: ["Commonwealth of Pennsylvania v. Stefanczyk, Appellant."]
+source_url: "https://static.case.law/pa-super/77/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 648459
+cites_cases: ["190 Pa. 10", "25 Pa. Superior Ct. 490", "74 Pa. Superior Ct. 463"]
+---
+
+# Commonwealth v. Stefanczyk
+
+## Majority (Orlady, P. J.,)
+
+Opinion by
+Orlady, P. J.,
+The defendant was convicted of breaking and entering a railroad box car on October 3,1920, and the only question urged on this appeal is the sufficiency of the testimony to sustain a conviction under the Act of May 23, 1887, P. L. 177, which provides as follows: “If any person shall break or enter any car, caboose or locomotive, or wilfully and maliciously, either by day or by night, with or without breaking, enter the same with intent to commit any felony therein, the person so offending shall be guilty of felony.” The testimony adduced on the part of the Commonwealth established the fact beyond question, that this defendant, with others, on the night in question, acting together “tried to get into one of these soft coal cars, but they couldn’t open the door, and then they came to a Boston and Maine car, the biggest man had his hand on the hasp, broke the seal which fell to the ground, and tried to open the door; the middlesized man and the biggest man tried to open the door; they opened the door probably three or four inches. After they were seen to break the car the record of that car was taken; the seal was found on the ground.
+• Upon being alarmed, the defendant and his confederates attempted to make their escape by running away, but defendant was arrested shortly thereafter in the vicinity and at that time had in his hand a bag and a screw driver. This testimony is a sufficient compliance with the statutory requirement to warrant the jury in finding that this defendant broke the seal on the car and entered it with intent to commit a felony therein. The fact that the car happened to be loaded with brick is immaterial.
+We held in Commonwealth v. Flaherty, 25 Pa. Superior Ct. 490, that a person may be convicted of breaking, with attempt to commit larceny when it appears that he broke a transom window; of a store in the night time with intent to feloniously enter the store, but before he succeeded in making the entry was discovered and fled. This was followed with approval in Com. v. Puretta, 74 Pa. Superior Ct. 463, “An attempt, in general, is an overt act done in pursuance of an intent to do a specific thing, tending to the end but falling short of the complete accomplishment of it.” In law the definition must have this further qualification, that the overt act must be sufficiently proximate to the intended crime to form one of the natural series of acts which the intent requires for its full execution. Even in the case of burglary where definitions have been rigidly followed it has been held that it is not necessary that the defendant should get his whole body into the house. That the least entry of any part of the body is sufficient, as the entry of the hand, or the fingers only, or of the head or foot. It is not even necessary in order to constitute burglary, that the entry shall be by any part of the body; it may be by an instrument, as in the case where a hook or other instrument is put in with intent to take out goods, or a pistol or gun with intent to kill, and that whatever instrument be used it shall be inserted for the immediate purpose of committing the felony or aiding in its commission: 6 Cyc. of Law and Procedure, 183-197; 3 Words and Phrases, title, Enter. Or as otherwise stated, to constitute an attempt there must be an intent to do the thing, combined with an overt act which falls short of the thing intended. In many cases it is quite difficult to determine the difference between preparations and attempt to commit crime. So long as the acts are confined to preparations only, and can be abandoned before any transgression of the law, they are within the sphere of intent and do not amount to attempt: Com. v. Egan, 190 Pa. 10.
+While the case may be considered a close one in literally following definitions, we feel that under the undisputed evidence in this case, where the defendant in the nighttime broke the seal of a box car, and had a screw driver with which to do the work in his hand, a bag under his right arm, a revolver and flashlight in his pocket, and succeeded in breaking into the ear by forcing the door, is a sufficient compliance with the definition of crime prescribed by the act of assembly, and that it would be refining definitions to say that, because he was disappointed in finding brick in the car he had broken into instead of other commodities, he fell short of feloniously breaking and entering the car.
+The assignment of error is overruled, the judgment is affirmed, the record remitted to the court below, and it ■ is ordered that the appellant appear therein at such time as he be called, and that he be by that court committed until he has complied with the sentence imposed or any part of it that had not been performed at the time this appeal became a supersedeas.
