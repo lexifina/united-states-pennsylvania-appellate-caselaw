@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 81"
+decided: "1928-11-21"
+citations: ["94 Pa. Super. 353"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, P. J., Henderson, Trexler, Keller, Linn, Gawthrop and Cunningham, JJ."]
+parties: ["Commonwealth v. Thomas, Appellant."]
+source_url: "https://static.case.law/pa-super/94/cases/0353-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 679903
+---
+
+# Commonwealth v. Thomas
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+The first complaint of the appellant is set forth in the first assignment of error challenging the admissibility of the dying declaration of Violet McNanny oñ whose person the accused was charged with having produced an abortion. The declaration referred to was in writing signed by Miss McNanny. It was written by Dr. Flemming, one of the physicians attached to the Presbyterian Hospital in Pittsburgh where Miss McNanny was a patient, from information given him by her. It was read to her before she signed it and two nurse's Avho were present at the time signed the paper as witnesses. The evidence showed that her mind was clear and that she understood the nature of the paper when she signed it. She had been informed by the physician and one of the nurses that she could not recover, and the court Avas satisfied of the sufficiency of the evidence to render the paper admissible under the Act of June 26, 1895, P. L. 387. The declaration having been admitted, the Commonwealth introduced evidence to corroborate it. This evidence related to the cause of death and the connection of the defendant with that cause. Competent and uncontradicted evidence Avas presented to the effect that the young woman died as the result of treatment to produce an abortion. The corroboration also extended to the identification of the defendant as the person who produced the operation. This appears in the written declaration and in the testimony of Bay Davison shoAvn to be an accomplice, and in some degree by the testimony of the defendant himself. The description of the place to which Davison went Avith the young woman, the name on the door plate, the personal appearance of the defendant as stated in the declaration, and the admission by the defendant that a young woman came to his residence for treatment at the time described by Davison, furnished sufficient corroboration to make the statement admissible under the statute. The court was satisfied of its competency and submitted to the consideration of the jury the inquiry whether the corroboration Avas convincing as to the participation of the defendant in the commission of the crime charged. As the evidence related both to the nature of the transaction and the identity of the defendant, there can be no doubt that the demands of the statute were complied with in respect to the competency of the paper in question.
+Objection was made in tbe second assignment to a part of the 'statement following the signature of Miss McNanny containing the words: “Supposed to be V. F. Thomas; had grey hair; rather tall, 6-2/12 feet,” but this objection is not well founded inasmuch as it appears from the testimony of witnesses present at the time the paper was signed that the words objected to were read to the declarant and approved by her. That part of the statement is also corroborated by Davison and the description seems not to be contradicted.
+The third assignment is based on the assumption that the dying declaration was not admissible by reason of which the court should not have overruled the defendant’s motion for binding instructions. In view of our conclusion as to the competency of the declaration this assignment mu'st necessarily be overruled.
+The fourth assignment assumes that there was no corroborating evidence of the declaration, but this is without support in the record.
+An attempt is made in the fifth assignment to sustain the appeal for the reason that the court interrupted the defendant’s counsel while the latter was addressing the jury with reference to the dying declaration, and advised him that the question of the admissibility of that paper had been passed on by the court and that it was the duty of the jury to consider it in disposing of the case. As neither the language of the counsel referred to nor the statement of the court is set forth in the assignment, and as no exception was taken to the action of the court at the time, the record presents nothing to which our attention can be properly directed. The assignment must therefore be dismissed.
+The sixth assignment is without merit. It complains that the court said to the jury in the charge that every person is presumed to be of 'sound mind. As an abstract proposition of law that is correct and its relevancy in the case appears when the context is read. The casé for the Commonwealth did not rest on this presumption however. There was affirmative proof that the mind of the declarant was sound and clear at the time the statement was made. A careful examination of the record satisfies us that the case was fairly tried and submitted to the jury in an impartial charge. We are unable to find any substantial basis on which a reversal could rest.
+The assignments are therefore dismissed and the judgment affirmed. It is further ordered that the defendant appear in the court below at such time as he may be there called and that he be by that court committed until he has complied with the sentence or any part of it which had not been performed at the time the appeal in this ease was made a supersedeas.
