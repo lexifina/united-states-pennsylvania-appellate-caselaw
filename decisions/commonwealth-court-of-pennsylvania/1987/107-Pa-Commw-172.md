@@ -1,0 +1,80 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 466 C.D. 1986"
+decided: "1987-06-30"
+citations: ["107 Pa. Commw. 172", "527 A.2d 1109"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Craig and Palladino, and Senior Judge Barbieri, sitting as a panel of three."]
+parties: ["Donna Homan, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/107/cases/0172-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1361100
+cites_cases: ["102 Pa. Commonwealth Ct. 417", "106 Pa. Commonwealth Ct. 191", "32 Pa. Commonwealth Ct. 142", "33 Pa. Commonwealth Ct. 376", "378 A.2d 495", "381 A.2d 1343", "408 A.2d 1207", "417 A.2d 872", "441 A.2d 502", "443 A.2d 1211", "474 Pa. 351", "48 Pa. Commonwealth Ct. 185", "502 A.2d 782", "53 Pa. Commonwealth Ct. 431", "64 Pa. Commonwealth Ct. 639", "66 Pa. Commonwealth Ct. 252", "94 Pa. Commonwealth Ct. 67"]
+---
+
+# Homan v. Commonwealth
+
+## Majority (Judge Palladino,)
+
+Opinion by
+Judge Palladino,
+Donna Homan (Petitioner) appeals an order of the Unemployment Compensation Board of Review (Board) which upheld a referees determination that she is ineligible for benefits under Section 402(b) of the Unemployment Compensation Law for voluntarily terminating her employment without cause of a necessitous and compelling nature. We reverse.
+Petitioner was employed as a clerk-steno in the Construction Department at Pennsylvania Power and Light Company’s Montour Susquehanna Steam Electric Station for approximately two (2) years. Petitioner was the only female employee working in a storeroom with approximately three hundred (300) men. Petitioner terminated her employment on May 3, 1985, because of sexual harassment from some of the men with whom she worked.
+Prior to quitting, the record shows that Petitioner complained to her supervisors of harassment which included: (1) that the union steward asked her out on several occasions and she did not like it; (2) that a subforeman asked her out and was difficult to work with after she refused by not giving her necessary information to do her job and giving her “a rough time;” and (3) that male workers pounded on the door of a bathroom she had to share with them while she was inside. The Board found that Petitioner had been subjected to sexual remarks from male employees; had received several notes on her car containing remarks of a sexual nature; and was kissed by a male employee against her will.
+Petitioner testified that she did not continue to complain to her supervisors about these latter incidents of harassment because she was embarrassed, and recognized the total indifference of her supervisors to her concerns. Petitioner stated: “[T]he other times I complained about something, it didn’t do any good, . . . I didn’t get a very encouraging response.” For example, when she complained about the subforeman her supervisor responded that “some people never grow up.”
+The Board determined that Petitioner was ineligible for benefits because she did not take appropriate action to report the incidents to her supervisor. The decision was based on findings that Petitioner had never filed a formal complaint of sexual harassment and had not complained about each specific incident of sexual harassment. On appeal, Petitioner contends that the Board erred in determining she had not established a cause of necessitous and compelling nature for voluntarily quitting her job.
+Sexual harassment can be a necessitous and compelling reason for quitting, provided the employee has taken reasonable and prudent steps to alleviate the problem. Weissman v. Unemployment Compensation Board of Review, 94 Pa. Commonwealth Ct. 67, 502 A.2d 782 (1986). Petitioner bears the burden of proving she took such steps. Colduvell v. Unemployment Compensation Board of Review, 48 Pa. Commonwealth Ct. 185, 408 A.2d 1207 (1979). Whether a claimant has established a cause of necessitous and compelling nature is a question of law reviewable by this court. Adamski v. Unemployment Compensation Board of Review, 64 Pa. Commonwealth Ct. 639, 441 A.2d 502 (1982). This court has held that a claimant must take “common sense action” so that the employer is given “an opportunity to understand” what she is objecting to. Colduvell, 48 Pa. Commonwealth Ct. at 187, 408 A.2d at 1208.
+Petitioner asserts that she took reasonable and prudent steps. Petitioner argues she is not required to complain about each and every incident and is not required to make a formal complaint of sexual harassment. She contends that under the circumstances present here, the actions she took were sufficient to meet her burden of providing her supervisors with “an opportunity to understand” prior to quitting.
+Petitioner did report several incidents of harassment to her supervisors, but a review of their testimony shows that they did not consider these to be harassment. The construction supervisor, George Smith, when being examined about the bathroom incident testified as follows:
+Q: Did Donna ever complain to you about any sort of harassment?
+A: No.
+Q: She mentioned in her testimony about people banging at the door.
+A: That she did, yes, if you call that harassment.
+When questioned about whether Petitioner ever complained about language used towards her in the office, this same supervisor testified:
+A: She never come in to me in a complaint form tell me that there was a problem.
+Q: You did hear it?
+A: Sure.
+Q: But you just assumed that it didn’t cause a problem for her?
+A: I would say an occasional slip happened, yes. Anything that was meant derogatory, no.
+The record also reveals that Petitioner attempted, on at least eleven occasions, to secure a job transfer or a new position without success. This supports her contention that she took reasonable and prudent steps to alleviate the problem and remain in the work force.
+Although Petitioner did not complain about all the incidents of sexual harassment which she experienced, the steps which she did take were sufficient to meet her burden. The law does not require a claimant to complain of each and every incident of sexual harassment nor does it require a formal complaint be filed. We conclude that Petitioner “acted as a reasonable person would under these circumstances.” Danner v. Unemployment Compensation Board of Review, 66 Pa. Commonwealth Ct. 252, 254, 443 A.2d 1211, 1213 (1982). Therefore, the Board erred, as a matter of law, in determining that Petitioner had not established a necessitous and compelling reason for voluntarily quitting her job.* ***56*
+Accordingly, we reverse.
+Order
+And Now, June 30, 1987, the order of the Unemployment Compensation Board of Review in the above-captioned case is reversed.
+Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §802(b).
+N.T. (second hearing) at 10.
+N.T. (first hearing) at 11.
+Our scope of review is limited to determining whether necessary findings of fact are supported by substantial evidence, an error of law was made or constitutional rights were violated. 2 Pa. C. S. §704.
+N.T. (first hearing) at 8-9.
+N.T. (first hearing) at 11, 12.
+St. Barnabas, Inc. v. Unemployment Compensation Board of Review, 106 Pa. Commonwealth Ct. 191, 525 A.2d 885 (1987) held that employee foiled to produce substantial evidence to support a finding that she made her employer aware of the harassment.
+Petitioner also contends that two of the Boards findings are not supported by substantial evidence. Since we have concluded that the Board made an error of law, it is not necessary to reach this issue.
+
+## Dissent (Senior Judge Barbieri:)
+
+Dissenting Opinion by
+Senior Judge Barbieri:
+Most respectfully I must dissent. There can be no doubt that Claimant left her employment because of what she considered to be sexual harassment, and I might agree with the majority view that she was justified in leaving her employment. My disagreement, however, is with the majority’s conclusion that the Board erred in failing to award benefits, because I can find no basis for a decision that the Board was guilty of reversible error.
+The Board found:
+5. The claimant did not register a specific complaint alleging sexual harassment following any of these incidents.
+6. The Claimant did complain to the supervisor about her salary and other working con-
+ditions but never registered a formal complaint alleging sexual harassment.
+There is substantial evidence to support those findings and pursuant to Section 704 of the Administrative Agency Law, 2 Pa. C. S. §704, we must affirm a Board adjudication unless a party’s constitutional rights were violated or there was an error of law or necessary findings of fact are not supported by substantial evidence. Wurster v. Unemployment Compensation Board of Review., 102 Pa. Commonwealth Ct. 417, 518 A.2d 350 (1986). While the majority points to certain testimony which it states supports its factual view different from that of the Board, such court revision of the factual and credibility determinations of the Board represents to me an exercise in judicial discretion in derogation of the Board’s fact finding prerogatives that I believe to be unjustified in this case. We recognize that there is evidence in the record that conflicts with the findings adopted by the Board, but our prior decisions hold that the mere existence of such conflicting evidence does not deprive the Board’s findings of support by substantial evidence. See Kells v. Unemployment Compensation Board of Review, 32 Pa. Commonwealth Ct. 142, 378 A.2d 495 (1977). It is the sole province of the Board, not an appellate court, to resolve conflicts in testimony, weigh evidence, and evaluate witness credibility. Geesey v. Unemployment Compensation Board of Review, 33 Pa. Commonwealth Ct. 376, 381 A.2d 1343 (1978). When reviewing the record to ascertain whether substantial evidence supports the Board’s findings, an appellate court will not substitute its discretion for that of the Board. Id.
+Contrary to these established principles, it would appear to me that the majority opinion is based upon attributing credibility to the Claimant’s testimony, whereas in the particulars that are crucial here it was not accepted by the Board.
+The burden is on Claimant to prove her voluntary separation from employment was for a cause of a necessitous and compelling nature. West v. Unemployment Compensation Board of Review, 53 Pa. Commonwealth Ct. 431, 417 A.2d 872 (1980). Sexual harassment can be a necessitous and compelling reason for quitting, provided the employee has taken reasonable and prudent steps to alleviate the problem. Weissman v. Unemployment Compensation Board of Review, 94 Pa. Commonwealth Ct. 67, 502 A.2d 782 (1986). We have held that the claimant has the burden of proving a reasonable attempt to stay on the job; and in order to do so, she must prove that she informed her supervisor of the existence of the harassment. Danner v. Unemployment Compensation Board of Review, 66 Pa. Commonwealth Ct. 252, 443 A.2d 1211 (1982), citing Colduvell v. Unemployment Compensation Board of Review, 48 Pa. Commonwealth Ct. 185, 408 A.2d 1207 (1979).
+In passing, we note that there apparently are two categories of sex harassment cases; those where the harassment is by the employer, or a principal of the employers company, and those that are by fellow employees. It makes sense that in order to impose liability in the latter category, there must be notice to the employer of the objectionable conduct. Colduvell. It was the right and privilege of the Board to accept the testimony offered by the employer.
+It does appear that Claimant told her immediate supervisor that her union steward had asked her out on several occasions and that she did not like him to do so. She also told two supervisors that a subforeman had asked her out and was difficult to work with when she refused. The immediate supervisor testified that he attempted to counsel the subforeman on the matter and that Claimant did not bring any further complaints. Claimant also complained to one of her supervisors that she was forced to use the foremans bathroom which was also used by other male workers, some of whom would pound on the door while she was inside. The supervisor testified that he talked to employees he felt could be responsible and also told Claimant to let him know who was doing this if it happened again. Claimant never indicated that it happened again.
+After a careful review of the record, I find that those matters which Claimant did report do not amount to sexual harassment which would justify her voluntary separation from employment. I agree that Claimant was not required to register a specific formal complaint of sexual harassment in order to show that she made a reasonable attempt to stay on the job. However, she must at least have informed her supervisor of those incidents which she considered to be sexual harassment before quitting. Claimant did not do so here, and, therefore, did not sustain her burden of proof.
+Claimants own testimony supports the Boards finding that she did not report the fact that while on the job a male co-worker had kissed her against her will. Although Claimant testified that she told her supervisors of the comments of a sexual nature which were directed at her by some of the male employees, the supervisors testified that she never complained of these comments. The Board had the right to accept this testimony.
+The Board found that Claimant received several notes on her car containing remarks of a sexual nature. Claimant would also receive anonymous phone calls at work, some of which were of a sexual nature and some where the caller would say nothing. Claimant never reported these notes or calls to her supervisors, but her immediate supervisor discovered the fact inadvertently when he happened to overhear one call. However, when he asked Claimant if she wanted him to pursue the matter by initiating an investigation, she responded that she did not want him to do so.
+Claimant also testified that she opened her desk drawer one morning and found a lollipop shaped like the head and torso of an “overly-endowed” woman with a note attached stating that this is what she wanted for Christmas.* ** However, she did not report this incident to her supervisors and did not prove that any of them were aware of the fact that she had received it.
+After Claimant quit, one of her supervisors asked her to explain her reasons for doing so, in an attempt to alleviate any problem she was having. Claimant refused to explain why she quit. Although Claimant complained of dissatisfaction with her salary to two of her supervisors, she never complained of the majority of those incidents she felt to be sexual harassment. Therefore, as previously noted, I find that the Boards Findings of Fact Nos. 5 and 6 are supported by substantial record evidence.
+Although Claimant may have been subjected to illegal sexual harassment, in order to qualify for unemployment compensation benefits, she was required to make a reasonable attempt to stay on the job by notifying her supervisor of the situation. Colduvell. Accordingly, I would affirm the Boards order.
+Notes of Testimony from October 29, 1985, Board Remand Hearing (N.T. II) at 16.
+N.T. at 8; 10-11; 15.
+The supervisor testified that when he asked Claimant if she would like him to initiate an investigation, “. . . she didn’t respond that she wanted to do anything about it.” N.T. at 14. We must accord the employer, as prevailing party below, every reasonable inference which may be drawn from the testimony. Taylor v. Unemployment Compensation Board of Review, 474 Pa. 351, 378 A.2d 829 (1977). With that in mind, we must infer that the supervisors testimony is that Claimant told him she did not want to initiate an investigation into the anonymous phone calls and letters.
+N.T. II at 5-6.
+N.T. at 10.
+N.T. at 11; 18.
