@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 4"
+decided: "1926-07-08"
+citations: ["88 Pa. Super. 284"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, P. J., Henderson, Trexler, Keller, Linn, Gawthrop and Cunningham, JJ."]
+parties: ["Commonwealth v. R. C. Haldeman, Appellant."]
+source_url: "https://static.case.law/pa-super/88/cases/0284-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 667350
+cites_cases: ["123 Pa. 594", "13 Pa. 103", "15 Pa. Superior Ct. 612", "151 Pa. 454", "152 Pa. 244", "172 Pa. 173", "191 Pa. 1", "195 Pa. 634", "196 Pa. 614", "20 Pa. Superior Ct. 110", "204 Pa. 372", "250 Pa. 472", "251 Pa. 135", "263 Pa. 211", "274 Pa. 448", "275 Pa. 483", "279 Pa. 234", "281 Pa. 200", "282 Pa. 84", "31 Pa. 69", "39 Pa. 73", "58 Pa. 119", "60 Pa. 445", "81 Pa. Superior Ct. 105", "82 Pa. Superior Ct. 149"]
+---
+
+# Commonwealth v. Haldeman
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+The defendant was charged with the violation of the fourth section of the Act of the 11th of May, 1921, P. L. 522, being the “Dog Law of 1921,” in that he kept in his possession three dogs over six months old, for which licenses were issued but which had no tags attached to their collars and upon a hearing held before a magistrate, he was summarily convicted.
+An appeal was allowed to the Court of Quarter Sessions and at the hearing, the court found the defendant guilty and sentenced him accordingly.
+The act in question which relates to dogs, provides for the licensing of dogs, for their enumeration, regulates their keeping, provides for the protection of certain classes of dogs, for the assessment of damages done to Eve stock and poultry by .dogs, and directs the method of the coEection of licenses and the payment of all moneys collected into the “Dog Fund” of the state treasury and directs the disposition thereof.
+Section 39 of the act provides “In so far as this act provides for the licensing of dogs and the payment of damages for Eve stock or poultry injured by dogs or for licensed dogs illegally killed, it shall not apply to cities of the first and second class. Snch licensing and payment of damages in cities of the first and second class shall continue to be carried on under the provisions of existing laws.”
+The appellant contends that this exemption from the operation of the act so far as certain classes of cities are concerned is in violation of the first section of Article IX of the Constitution of Pennsylvania which provides that “All taxes shall be uniform, upon the same class of subjects, within the territorial limits of the authority levying the tax, and shall be levied ......under the general laws.” The lower court held that this was not a tax, that the object of the act was to regulate and restrain the keeping of dogs, that it was of the same type as the license fee collected under the liquor laws which were formerly in operation and passed by virtue of the police power of the state and not subject to the prohibition of the above mentioned section.
+Further, the lower court pointed out that if the view it took was wrong, the act in question was so framed that the sustaining of the defendant’s position in this regard would not relieve him from the sentence imposed and we coincide in this conclusion. The act, in Section 41, provides “The provisions of this act shall be severable, and, if any of its provisions shall be held to be unconstitutional, the decision of the court shall not affect or impair any of the remaining provisions of the act. It is hereby declared as a legislative intent that this act would have béen adopted had such unconstitutional provision not been included therein.”
+A provision almost like this was present in the case of N. R. Bagley Co. v. Cameron, 282 Pa. 84; and in Commonwealth v. Snyder, 279 Pa. 234, and its effectiveness recognized. “Wherever part of an act found to be unconstitutional can be severed from the rest of the statute without destroying its entirety of thought, a saving clause such as we have here creates a presumption that the legislature would have passed the act notwithstanding its unconstitutional parts, always leaving open, however, the questions whether the statute in its reduced form remains a workable piece of legislation, or for any other reason is unconstitutional.” Bagley v. Cameron, supra.
+It will be noticed that the act which we are considering gives no reference in its title to the fact that first and second class cities shall be exempt from some of its provisions so if we drop the provisions that are now in question, we still have left a complete act, complete as to its title and containing only provisions applicable to every county of the commonwealth and the act in no way is mangled by the excision of the provisions excluding first and second class cities.
+The appellant further objects that the act gives no notice in its title of the fact that a new liability is imposed upon the commonwealth by reason of' its provision, citing Investor’s Realty Co. v. Harrisburg, 281 Pa. 200. The act is a general iact. It provides a “dog fund” and out of such fund, officers of the commonwealth are provided with means of carrying out the provisions of the act. In the general scheme provided by the act there is no new liability placed on the commonwealth. The state merely furnishes a medium to carry out the provisions of the act as was said in Commonwealth v. Friebertshauser, 263 Pa. 211, when the title to the “Bog Act of 1917, P. L. 818” was in question. “The title .is sufficiently comprehensive to give notice of the intent to deal with the entire subject matter of licensing dogs and protecting live stock and necessarily the disposition of funds realized under its provisions is one of the incidents to its enforcement and requiring no express mention in the title. ”
+We do not intend to go into the questions raised as to the fund obtained from the licenses which is largely in excess of the requirements of the act, nor into the legality of its application. The defendant has paid his licenses, the only charge against him was that he failed to tag his dogs. ‘ ‘ There is a well recognized rule, however, to the effect that a court will never heed objections to the constitutionality of an act of assembly unless' the complainant is affected by the particular feature alleged to be in conflict with the Constitution.” - Mesta Machine Co. v. Dunbar Co., 250 Pa. 472, 476; Commonwealth v. Alderman, 275 Pa. 483; Commonwealth v. Amato, 82 Pa. Superior Ct. 149.
+The assignments are overruled and the judgment of the lower court is affirmed.
