@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 28"
+decided: "1917-07-13"
+citations: ["67 Pa. Super. 415"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Kephart, Trexler and Williams, JJ."]
+parties: ["W. F. Frederick Piano Co. v. Landau, Appellant."]
+source_url: "https://static.case.law/pa-super/67/cases/0415-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 629314
+cites_cases: ["221 Pa. 160", "221 Pa. 165", "251 Pa. 455", "253 Pa. 257", "254 Pa. 585", "38 Pa. Superior Ct. 580", "61 Pa. Superior Ct. 379", "61 Pa. Superior Ct. 401", "62 Pa. Superior Ct. 422", "62 Pa. Superior Ct. 76", "63 Pa. Superior Ct. 597"]
+---
+
+# W. F. Frederick Piano Co. v. Landau
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+Plaintiff leased to the defendants a piano which had been used in a theater. Defendants took possession of the place and at the solicitation of the plaintiff, became the lessees of the piano, The written contract of lease, among other things, included the following: “Read this contract before signing. Notice — No agent or salesman of this company is permitted to make any change whatever in this contract, nor will any understanding or agreement, either verbal or written, other than that expressed in this contract be recognized. This contract is also subject to the approval and acceptance of an officer of this company.” “All verbal agreements and understandings are merged in the above instrument of writing which compromises the entire contract as concluded.” Default having been made in the payment of rental, suit was brought. Defendants filed an answer in which they admitted the execution of the lease, but alleged that at the time of the making of the lease the lessor in order to secure the signature of the defendants “through its officers and agents represented that said instrument was in good condition and that it the said plaintiff company would during the period of the bailment keep the instrument in good condition and the signatures to the said lease were secured on the faith and credit of the oral representations made.” That the instrument was mechanically defective and could not be properly operated. In short was useless.
+The affidavit of defense is deficient in a number of respects. The officers and agents' who made the representations should be identified. It should appear that they were authorized to act. In Folsom Real Est. Co. v. Esmark, 38 Pa. Superior Ct. 580, this court stated that the affidavit should state that the agent had authority to bind the corporation, and in W. E. Heyser L. Co. v. Whiting L. Co., 62 Pa. Superior Ct. 76, we held that where an agreement of the character set up by the defendant was entered into it is not unreasonable that the defendants name or describe the agents who acted, for the plaintiff. See also Villar v. Coupe, 62 Pa. Superior Ct. 422.
+■ We do not think that- under the circumstances as disclosed in the affidavit, the defendants can rely upon the? contemporaneous agreement. The agreement expressly provides against it and was admittedly made by some one other than the company, no corporate action being alleged and was made subject to the approval of an officer of the company and there is no allegation that the treasurer who approved knew of any collateral agreement. The cases of Ridgeway Dynamo & Engine Co. v. Penna. Cement Co., 221 Pa. 160, and S. Morgan Smith Co. v. Monroe County W. P. & S. Co., 221 Pa. 165, rule the one before us. We followed them in Philadelphia & Gulf S. S. Co. v. Pechin, 61 Pa. Superior Ct. 401. From the latter we quote the words of Rice, P. J. “In the last cited case (S. Morgan Smith Co. v. W. P. & S. Co., supra) it was held that it is a rule too firmly rooted in justice and honesty to be easily eradicated from any system of wise laws, that all negotiations, all conversations, all oral promises, all verbal agreements are forever merged in, superseded and extinguished by the written instrument,' which is the final outcome and result of the bargaining of the parties. The written contract of subscription, containing the provision above quoted, constituted the contract between the parties to this suit, and where defendant had notice that his agreement could not be changed in any manner whatsoever by any agent, under the authorities cited, he cannot now defend upon the ground of a broken oral agreement made with such agent at and before the signing of the written contract.” See also Tranter Mfg. Co. v. Blaney, 61 Pa. Superior Ct. 379, and Outcault A. Co. v. Ritchey, 63 Pa. Superior Ct. 597. We may add that the representations alleged to have been made by the plaintiff’s agents do not appear to amount to a warranty, but in view of what we have already said, it is not necessary to discuss this phase of the affidavit.. . Nor dp we.attach any importance to the allegations that plaintiffs vice-president admitted that the piano was in bad Condition and requested that it be permitted to-remain on the premises. These acts do not constitute a termination of the lease, nor does the affidavit so allege.
+Judgment affirmed.
