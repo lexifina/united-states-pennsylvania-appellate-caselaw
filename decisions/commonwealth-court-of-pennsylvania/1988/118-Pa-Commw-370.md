@@ -1,0 +1,36 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeals Nos. 1287 C.D. 1987 and 1627 C.D. 1987"
+decided: "1988-08-04"
+citations: ["118 Pa. Commw. 370", "545 A.2d 969"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Doyle and Barry, and Senior Judge Barbieri, sitting as a panel of three. Application for reargument filed and granted. Heard July 19, 1988."]
+parties: ["William C. Vernocy and Mary Irene Vernocy, Appellants v. T. W. Phillips Gas and Oil Co., Appellee. In Re: Condemnation by T. W. Phillips Gas and Oil Co. v. Kovalchick Salvage Company and W. C. Leasure. W. C. Leasure, Appellant."]
+source_url: "https://static.case.law/pa-commw/118/cases/0370-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1375532
+cites_cases: ["153 Pa. Superior Ct. 271", "222 Pa. 285", "244 A.2d 42", "287 A.2d 917", "33 A.2d 761", "360 U.S. 185", "4 Pa. Commonwealth Ct. 571", "42 Pa. 303", "430 Pa. 266", "71 A. 101"]
+---
+
+# Vernocy v. T. W. Phillips Gas & Oil Co.
+
+## Majority (Judge Barry,)
+
+Opinion by
+Judge Barry,
+In these consolidated appeals, landowners/condemnees W. C. Leasure (at No. 1627 C.D. 1987) and William C. Vernocy and his wife, Mary Irene Vernocy (at No. 1287 C.D. 1987) appeal orders of the Court of Common Pleas of Indiana County which approved a bond of T. W. Phillips Gas and Oil Co., the condemnor.
+The condemnor is a regulated natural gas utility company. It signed a contract with Indiana University of Pennsylvania (IUP) to provide natural gas to a cogeneration plant being constructed by IUP. The plant would provide heat and power for all of IUP s facilities. To provide the natural gas, the condemnor had to construct a pipeline approximately ten miles long. When negotiations with the landowners concerning the price for the eighteen foot wide right of way proved fruitless, the condemnor filed a petition for approval of a bond. The landowners filed various preliminary objections. Following a consolidated hearing involving these appellants and other landowners who did not appeal, the trial court dismissed the preliminary objections and approved the bond.
+Section 322 of the Business Corporation Law, Act of May 5, 1933, P.L. 364, added by the Act of August 27, 1963, P.L. 1381, as amended, 15 P.S. §1322 (Supp. 1987), clothes a natural gas company with the power of eminent domain. It has been clear, however, that whenever the. power of eminent domain is exercised, whether by private corporations with authorization of the Legislature or by governmental entities, this power may be exercised only for a public use. Pa. Const. art. 1, §10; Allegheny County v. Frank Mashuda Co., 360 U.S. 185 (1959).
+The landowners argue that since the land acquired here is for the benefit solely of IUP, no public purpose is served and the condemnation is not permitted under law. In support of this argument, the landowners cite Fayette County Gas Company v. Pennsylvania Public Utility Commission, 153 Pa. Superior Ct. 271, 33 A.2d 761 (.1943), where the court, in discussing the eminent domain power,of natural gas companies, stated:
+[The power] does not apply to service lines laid for the benefit of an individual consumer. The property of A can be taken in eminent domain proceedings, as a public use, for the benefit of the public generally. It cannot be taken for the sole benefit of B. Therefore, if a service pipe intended for the sole use and benefit of B, must cross the land of A, B must secure such right of way from A. The company has no right to condemn it. . . . Nor can the Public Utility Commission order the utility company to condemn it for Bs individual benefit. (Citations omitted.)
+Id. at 280, 33 A.2d at 764.
+There, “B” was a lunch stand to which the Commission ordered the natural gas utility to provide service. Upon appeal by the utility, the Superior Court reversed. Our “B” in the present case is a state owned educational institution. To argue that the benefit to IUP does not serve a public purpose is not correct.. Cf. Pittsburgh School District Condemnation Case, 430 Pa. 266, 244 A.2d 42 (1968) (The acquisition of property for off street, parking of school district facilities :was a proper school purpose.)
+The Vernocys also raise three arguments not set forth by Leasure, two of which are related and will be dealt with first. They argue that the condemnor failed to prove that they rejected the condemnors offer of damages because, having received no offer in writing, no rejection could occur. They also argue that the trial court prevented them from presenting evidence in this regard.
+With regard to proof of an attempted but unsuccessful settlement attempt, we do not believe that such proof is required. Section 41 of the Act of April 29, 1874, P.L. 73, as amended, 15 P.S. §3022,. states, “In all cases where the parties cannot agree upon the amount of damages claimed . . . the corporation shall tender a bond. . . .” That act is still applicable and for our purposes has remained essentially unchanged since its enactment. In Bland v. Tipton Water Co., 222 Pa. 285, 293, 71 A. 101, 104-05 (1908) (quoting Wadhams v. Lackawanna & Bloomsburg Railroad Co., 42 Pa. 303, 310 (1862)), the Court, in discussing the same argument as made here, stated unequivocally that the act “does not in terms require any attempt to make a settlement before the tender of a bond . . .” Therefore, the Vernocys’ argument in this regard is without merit. Since a settlement attempt is unnecessary the court also acted properly in refusing to permit the Vernocys to introduce evidence in this regard. Further, if the Vernocys wanted to introduce any other evidence, they foiled to specify what evidence they wished to introduce and its relevance to this proceeding.
+Finally, the Vernocys argue that the condemnor failed to comply with Section 409 of the Eminent Domain Code (Code), Act of June 22, 1964, P.L. 84, as amended, 26 P.S. §1-409 (Supp. 1987), which requires a condemnor to give a landowner ten days notice before entering the property. Section 901 of the Code, however, states that only Article VI of the Code, dealing with the measure of damages, applies to condemnations of less than a fee by, inter alia, gas companies. In Philadelphia Electric Co. v. Carr, 4 Pa. Commonwealth Ct. 571, 287 A.2d 917 (1972), we held that Section 405 of the Code did not apply where the condemnation provisions of the Business Corporation Law were applicable. Article IV of the Code is entitled “Procedure to Condemn” and we believe our decision in Carr applies to any of the procedures set forth in Article IV. The Vernocys argue that Section 409 does not deal with condemnation procedures but that argument is meritless, given the Legislature’s placement of Section 409 in the Article of the Code dealing with condemnation procedures.
+Affirmed.
+Order
+Now, August 4, 1988, the orders of the Court of Common Pleas of Indiana County dated May 11, 1987, at No. 369 C.D. 1987 and May 12, 1987 at No. 350 C.D. 1987, are hereby affirmed.
+On July 19, 1988, we granted reconsideration to correct a non-material factual misstatement contained in our original opinion which had been filed on May 6, 1988.
