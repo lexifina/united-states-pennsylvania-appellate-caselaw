@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 60"
+decided: "1911-07-13"
+citations: ["47 Pa. Super. 290"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Orlady, Head, Beaver and Porter, JJ."]
+parties: ["Clark v. Battaglia, Appellant."]
+source_url: "https://static.case.law/pa-super/47/cases/0290-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 422966
+---
+
+# Clark v. Battaglia
+
+## Majority (Head, J.,)
+
+Opinion by
+Head, J.,
+The plaintiff was a licensed real estate broker in the city of Pittsburg and brought this action to recover an agreed on compensation for negotiating a sale of the defendant’s property. Upon the trial he offered in evidence a written obligation of the defendant reciting that the plaintiff had secured a purchaser, one Waxman, for his property at the price of $53,000, and that he agreed to pay as compensation for services in negotiating the sale “the sum of two per cent, viz., one thousand and sixty ($1,060.00) dollars upon the consummation of said sale.” He further offered a formal agreement between the defendant and the said purchaser Waxman respecting the sale of the property of the former. From this agreement it appears that the defendant was to receive $53,000 for his property, fully described in the paper. In payment thereof the purchaser was to pay to him $5,000 in cash, convey to him certain property in the agreement described and execute and deliver a mortgage on the purchased premises for the sum of $36,000. Of the cash payment referred to $500 was paid down. The oral testimony produced by the plaintiff tended to establish that upon an examination of the title of the defendant’s property it appeared that the building thereon, which constituted a large part of the value, stood out on a public street or alley; that this fact had been ascertained by three separate surveys, one made at the instance of the defendant himself, and that a like conclusion resulted from each of these surveys. It further appeared that the purchaser had filed a bill in equity asking for a rescission of the contract and the return of his hand money on the ground that the vendor was unable to convey a marketable title and that this proceeding had .resulted in a decree, made practically; with the consent of the vendor, granting the relief prayed for.
+The defendant, although he had filed an affidavit of defense in the present action, failed to appear and offered no testimbny to controvert that produced by the plaintiff and already referred to. The jury returned a verdict in favor of the plaintiff upon which the court entered judgment. Counsel for defendant at the trial simply presented a point for binding instructions in favor of the defendant which was refused. This was followed by motions for a new trial and for judgment n. o. v. on the entire record, both of which were likewise refused, and this appeal follows.
+The learned trial judge held that the expression in the defendant’s agreement to pay, viz., “upon the consummation of the said sale” “meant the completion of the negotiations with the proposed purchaser and not the actual delivery of deeds by the parties.” It is argued with much earnestness by the able counsel for the appellant that because the evidence disclosed the execution of.this paper by the defendant followed the agreement between him and the purchaser that the expression quoted could not have been intended to have the meaning given to it by the learned trial judge. If it did not, then it seems clear to us that the most favorable construction which the defendant could ask to have placed upon the expression would be to have it interpreted to refer to the time when the money earned was to be paid. It nowhere appears that the plaintiff was to do anything further in the premises. He had brought seller and buyer together. He had arranged prices and conditions of sale satisfactory to both and had armed each of the parties with an enforceable contract against the other. Under all the authorities, therefore, the plaintiff had earned his compensation, and the only question that could remain was as to the time when it should be paid. We need not stop to consider the questions that would arise had the proposed sale fallen through from some other cause than the act or default of the defendant, but even if the expression “upon the consummation of said sale” was intended to fix a time before which payment to the plaintiff could not be legally demanded, when it further appears that such date would never arrive because of the inability of the defendant to perform his contract with his purchaser, we can see no way in which it can be convincingly argued that the plaintiff might not sue for and recover the compensation he had earned. We are therefore of opinion that the judgment entered by the lower court on the verdict of the jury was a proper one and the assignments of error must be dismissed.
+Judgment affirmed.
