@@ -1,0 +1,73 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "01665"
+decided: "1995-05-02"
+citations: ["442 Pa. Super. 12", "658 A.2d 395"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before McEWEN, POPOVICH and CERCONE, JJ.", "POPOVICH, J., concurs in the result."]
+parties: ["COMMONWEALTH of Pennsylvania v. Terri CHAMBERLAIN, Appellant."]
+source_url: "https://static.case.law/pa-super/442/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 719743
+cites_cases: ["114 S.Ct. 2123", "128 L.Ed.2d 678", "317 A.2d 233", "342 Pa.Super. 202", "377 Pa.Super. 419", "419 Pa.Super. 591", "439 Pa.Super. 70", "455 Pa. 488", "472 Pa. 602", "499 Pa. 357", "529 Pa. 149", "529 Pa. 160", "535 Pa. 350", "635 A.2d 603", "653 A.2d 35"]
+---
+
+# Commonwealth v. Chamberlain
+
+## Majority (CERCONE, Judge:)
+
+CERCONE, Judge:
+This is an appeal from the judgment of sentence entered by the trial court on August 23, 1994. We affirm.
+A jury found appellant guilty of driving under the influence. The court entered a guilty verdict on the summary offense of failing to drive on the right side of roadway. Appellant filed post-sentence motions which the trial court denied. After sentencing, appellant filed the instant timely appeal purportedly from the trial court’s order denying post-sentence motions. See Notice of Appeal filed September 23, 1994.
+The post-sentence procedure in this case is governed by Pennsylvania Rule of Criminal Procedure 1410, 42 Pa. C.S.A. (effective January 1, 1994). New Rule 1410 provides:
+(a) The defendant in a court case shall have the right to make a post-sentence motion. All requests for relief from the trial court shall be stated with specificity and particularity, and shall be consolidated in the post-sentence motion, which may include:
+(i) a motion challenging the validity of a plea of guilty or nolo contendere, or the denial of a motion to withdraw a plea of guilty or nolo contendere;
+(ii) a motion for judgment of acquittal;
+(iii) a motion in arrest of judgment;
+(iv) a motion for a new trial; and/or
+(v) a motion to modify sentence.
+Pa.R.Crim.P., Rule 1410B(1), 42 Pa.C.S.A. Thus, a criminal defendant may, at his discretion, file post-sentence motions or proceed directly with an appeal to the Superior Court.
+If the defendant elects to file post-sentence motions, “the trial judge shall decide the post-sentence motion, including any supplemental motion, within 120 days of the filing of the motion. If the judge fails to decide the motion with 120 days, or to grant an extension as provided in subsection (3)(b), the motions shall be deemed denied by operation of law.” Pa.R.Crim.P., Rule 1410B(3)(a), 42 Pa.C.S.A. Once post-sentence motions are denied, the defendant has 30 days within which to file an appeal to the Superior Court. However, Rule 1410 does not specify whether the defendant takes his appeal from the order denying post-sentence motions, or from the judgment of sentence previously imposed by the trial court.
+The comments to Rule 1410 supply the necessary guidance in this matter:
+Under Subsection B(3)(a), on the date when the court disposes of the motion, or the daté when the motion is denied by operation of law, the judgment becomes final for the purposes of appeal. See Judicial Code, 42 Pa.C.S. §§ 102, 722, 742, 5105(a) and Commonwealth v. Bolden, 472 Pa. 602, 373 A.2d 90 (1977).
+Comments to Rule 1410, 42 Pa.C.S.A. (emphasis added). According to the comment set forth above, the order denying post-sentence motions acts to finalize the judgment of sentence for purposes of appeal. Thus, the appeal is taken from the judgment of sentence, not the order denying post-sentence motions.
+We also note that new Rule 1410 does not relieve the trial court of its obligation to file an opinion in criminal cases. Pennsylvania Rule of Appellate Procedure 1925 specifically provides:
+Upon receipt of the notice of appeal the judge who entered the order appealed from, if the reasons for the order do not already appear of record, shall forthwith file of record at least a brief statement, in the form of an opinion, of the reasons for the order, or for the rulings or other matters complained of, or shall specify in writing the place in the record where such reasons may be found.
+Pa.R.A.P., Rule 1925(a), 42 Pa.C.S.A. Criminal Rule 1410 in no way conflicts with or modifies Appellate Rule 1925. See Commonwealth v. Donnelly, 439 Pa.Super. 70, 653 A.2d 35 (1995) (discussing the trial court’s continuing responsibilities under Pa.R.A.P. 1925).
+Whether an appeal is taken following disposition of post-sentence motions or directly from the judgment of sentence, a trial court must comply with Appellate Rule 1925(a) and file an opinion setting forth the reasons for its rulings. The Supreme Court provides trial courts with the appropriate mechanism for determining the issues raised on appeal. Appellate Rule 1925(b) authorizes the trial court to enter an order directing appellant to file a Concise Statement of the Matters Complained of on Appeal. In light of the changes to post-trial procedures, the need for trial courts to utilize this authority cannot be understated.
+Here, appellant presents two issues for our consideration:
+I. WHETHER THE COURT ERRED IN INSTRUCTING THE JURY ON THE MISSING WITNESS ADVERSE INFERENCE THAT CAN BE DRAWN.
+II. WHETHER THE COURT ERRED IN INSTRUCTING THE JURY ON THE MISSING WITNESS ADVERSE INFERENCE THAT CAN BE DRAWN WHEN THE MISSING WITNESS WAS THE SPOUSE OF THE DEFENDANT?
+We shall address these issues in order.
+. Appellant first argues that the trial court improperly instructed the jury that an adverse inference may be drawn from appellant’s failure to call her husband, Richard Lykens, as a witness. Specifically, appellant contends that (1) Mr. Lykens was equally available to both the prosecution and the defense; (2) there was a satisfactory explanation as to why the witness was not available when called; and (3) it was not within the defense’s ability to have Mr. Lykens testify.
+In Commonwealth v. Sam, 535 Pa. 350, 635 A.2d 603 (1993), cert. denied, — U.S.—, 114 S.Ct. 2123, 128 L.Ed.2d 678 (1994), our Supreme Court set forth the “missing witness” inference rule as follows:
+[W]hen a potential witness is available to only one of the parties to a trial, and it appears this witness has special information material to the issue, and this person’s testimony would not be merely cumulative, then if such party does not produce the testimony of the witness, the jury may draw an inference it would have been unfavorable.
+Id. at 366, 635 A.2d at 610 (quoting Commonwealth v. Jones, 455 Pa. 488, 495, 317 A.2d 233, 237 (1974) (citations omitted)). However, the missing witness inference does not apply where:
+1. The witness is so hostile or prejudiced against the party expected to call him that there is a small possibility of obtaining the unbiased truth;
+2. The testimony of such a witness is comparatively unimportant, cumulative, or inferior to that already presented;
+3. The uncalled witness is equally available to both parties;
+4. There is a satisfactory explanation as to why the party failed to call such a witness;
+5. The witness is not available or not within the control of the party against whom the negative inference is desired; and
+6. The testimony of the uncalled witness is not within the scope of the natural interest of the party failing to produce him.
+Commonwealth v. Sparks, 342 Pa.Super. 202, 208, 492 A.2d 720, 723 (1985).
+Our review of the record in the instant case discloses that defense counsel objected to the missing witness instruction solely on the basis of Mr. Lykens’ equal availability to the Commonwealth. N.T. 6/17/94 at 128, 129, 130. Thus, appellant waived any other objection to the issuance of a missing witness instruction. See Pa.R.Crim.P., Rule 1119(b), 42 Pa. C.S.A. (no portion of jury charge may be assigned as error unless appellant raises specific objection to charge).
+In Commonwealth v. Dorman, 377 Pa.Super. 419, 547 A.2d 757 (1988), this court discussed the term “available” as it applies to the missing witness instruction. This court opined:
+For the negative inference to be inappropriate, as appellant argues, the missing witness must not just be “available” to the Commonwealth, but equally so. Secondly, the Commonwealth should not be required to subpoena an alibi witness, who, because of his relationship with the defendant, would naturally be expected to testify favorably toward the defendant. Obviously, it would not be in the best interest of the Commonwealth to procure such a potentially hostile witness.
+Id. at 434, 547 A.2d at 764. Our holding in Commonwealth v. Dorman applies where the missing witness would present an alibi for the defendant. Although appellant in the instant case did not present an alibi defense, we find the similarities between an alibi defense and the defense presented by appellant to be striking.
+An “alibi” is “a defense that places the defendant at the relevant time in a different place than the scene involved and so removed therefrom as to render it impossible for [her] to be the guilty party.” Commonwealth v. Roxberry, 529 Pa. 160, 163, 602 A.2d 826, 827 (1992) (citations omitted).
+If the defendant presents evidence which covers the time period when the crime was committed and which puts [her] at a different location than that of the crime scene, [she] has presented an alibi. See Commonwealth v. Jones, 529 Pa. 149, 150-54, 602 A.2d 820, 821-22 (1992) (acknowledging alibi charge to jury as accurately stating the law: “whether the testimony given covers the entire time the offense is shown to have been committed and whether it precludes the possibility of defendant’s presence at the scene”). The evidence presented, taken as true, must make it impossible for the defendant to have committed the crime. Id., 529 Pa. at 152-54, 602 A.2d at 822[.]
+Commonwealth v. Repaci, 419 Pa.Super. 591, 594-95, 615 A.2d 796, 798 (1992). According to appellant, Mr. Lykens would have testified that she was not in the driver’s seat at the time of the infraction. Instead, Mr. Lykens’ testimony would place appellant in the passenger seat at the crucial point in time. Although Mr. Lykens’ testimony would place appellant at the scene of the infraction, his testimony precluded the possibility that she was driving the vehicle.
+As in Dorman, Mr. Lykens would naturally be expected to testify favorably toward his wife. In his opening statement, defense counsel confirmed the nature of Mr. Lykens’ testimony. Obviously, it would not be in the best interest of the Commonwealth to procure such a potentially hostile witness. For this reason, we find no error by the trial court in determining that Mr. Lykens was not equally available to the Commonwealth. See id. (citing Commonwealth v. Leonard, 499 Pa. 357, 453 A.2d 587 (1982) in which the Supreme Court implicitly rejected the equal availability exception to missing witness inference when defendant asserts alibi defense and testifies to named alibi witness).
+Appellant next argues that the trial court improperly issued a missing witness instruction because the missing witness is her spouse. As noted supra, appellant did not object to the missing witness instruction on the basis of spousal privilege. Accordingly, appellant cannot be afforded relief on this basis. See Pa.R.Crim.P., Rule 1119(b), 42 Pa.C.S.A. (no portion of jury charge may be assigned as error unless appellant raises specific objection to charge).
+Judgment of Sentence is Affirmed.
+POPOVICH, J., concurs in the result.
+. 75 Pa.C.S.A. § 3731.
+. Our interpretation of Rule 1410 is supported by both the language of Rule 1410 and the comments to the rule. Rule 1410 provides, in pertinent part:
+Issues raised before or during trial shall be deemed preserved for appeal whether or not the defendant elects to file a post-sentence motion on those issues.
+Pa.R.Crim.P., Rule 1410B(l)(c), 42 Pa.C.S.A. The comments to this portion of Rule 1410 provide:
+Because the post-sentence motion is optional, the failure to raise an issue with sufficient particularity in the post-sentence motion will not constitute a waiver of the issue on appeal as long as the issue was preserved before or during trial. See subsection B(a)(c).
+Comment to Rule 1410, 42 Pa.C.S.A. This language precluding waiver of issues not raised in post-sentence motions implicitly requires an appeal to be taken from the judgment of sentence, not the order denying post-sentence motions.
+An appeal from an order denying post-sentence motions would necessarily challenge only those issues raised in the motion. However, Rule 1410 permits a defendant to raise additional issues on appeal. An appeal taken from the judgment of sentence permits the Superior Court to review all properly preserved issues raised by the defendant.
+. In the instant case, the trial court properly filed an opinion disposing of appellant’s post-sentence motions. Fortunately, appellant chose not to raise additional issues in his appeal from the judgment of sentence. We take this opportunity to caution trial courts that pursuant to Rule 1410, a criminal defendant may raise additional issues on appeal thereby necessitating a second opinion by the trial court.
