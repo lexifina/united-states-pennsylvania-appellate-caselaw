@@ -1,0 +1,41 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1688 C.D. 1980"
+decided: "1982-02-11"
+citations: ["64 Pa. Commw. 504"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogers, Blatt and Craig, sitting as a panel of three.", "Judge Palladino did not participate in the decision in this case."]
+parties: ["Carol L. Esper, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/64/cases/0504-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1928480
+cites_cases: ["27 Pa. Commonwealth Ct. 180", "28 Pa. Commonwealth Ct. 516", "365 A.2d 1341", "368 A.2d 1341", "409 A.2d 1389", "460 Pa. 128", "49 Pa. Commonwealth Ct. 21"]
+---
+
+# Esper v. Commonwealth
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+The claimant, Carol L. Esper, appeals from an order of the Unemployment Compensation Board of Review (Board) reinstating its prior order to affirm a referee’s decision. The referee had denied the claimant benefits pursuant to Section 402(a) of the Pennsylvania Unemployment Compensation Law (Law).
+The claimant was last employed by the Bureau (now Office) of Employment Security (Office) under the Compresensive Employment and Training Act (CETA) as a full-time clerk-typist at $4.02 per hour until December 7,1979. As a participant in the CETA program, she was advised at the time of her hiring that the purpose of the program was to place her into unsubsidized employment and that she was obliged to take job interviews and to accept suitable employment if offered; however, she was not apprised by the Office that a refusal to accept suitable employment constituted grounds for dismissal from the program and barred the payment of further benefits. On November 21, 1979, the claimant was referred by the Office to Fox Industries for possible permanent full-time employment as, according to the referee, an accounting clerk at a $3.20 per-hour rate. She reported to Fox Industries for an interview and was offered and accepted the aforesaid position but sometime before the date that she was to commence working she informed her prospective employer that she was not interested in the position due to her dissatisfaction with the job’s duties and rate of remuneration. She was subsequently dismissed from the CETA program and was denied further benefits under Section 402(a) of the Law for failing to accept suitable employment. The referee, assuming that the claimant was unemployed, concluded that the proffered work was suitable, and that her refusal of such work was without good cause and therefore evinced a lack of good faith in seeking employment. The Board affirmed without an opinion.
+"Where, as here, the party with the burden of proof does not prevail before the Board, our scope of review is limited to determining whether or not the constitutional rights of the petitioner have been violated, an error of law has been committed, or competent evidence has been capriciously disregarded. See, e.g., Eichman v. Unemployment Compensation Board of Review, 49 Pa. Commonwealth Ct. 21, 409 A.2d 1389 (1980). The claimant contends that she was not unemployed at the time of her refusal of the Fox Industries job and therefore was not within the ambit of Section 402(a) of the Law, or, in the alternative, that the proffered work was not suitable. The respondents, however, counter that the claimant was unemployed and failed to meet her burden of demonstrating good cause for her refusal of the job offer.
+We recognize that the dispositive issue in this matter is one of first impression before this court: namely, whether or not the claimant, as a full-time CETA participant for approximately one year, is considered to be “unemployed” at the time of her refusal of the proffered job for purposes of Section 402(a) in its provisions as to ineligibility.
+Section 4(u) of the Law, 43 P.S. §753(u) defines “unemployed” as follows:
+(u) ‘Unemployed.’
+An individual shall be deemed unemployed (I) with respect to any week (i) during which he performs no services for which remuneration is paid or payable to him and (ii) with respect to which no remuneration is paid or payable to him, or (II) with respect to any week of less than his full-time work if the remuneration paid or payable to him with respect to such week is less than his weekly benefit rate plus his partial benefit credit. (Emphasis added.)
+It is uncontested that the claimant performed services in her CETA program participation for which remuneration was paid to her. We believe, therefore, that she was noit unemployed and was therefore not subject to the ineligibility standard set forth in Section 402(a) of the Law. We also believe that this extension of the definition of unemployed to include CETA participants for purposes of Section 402(a) is an inherently legislative function which is beyond our duty to interpret legislative enactments. And, of course, it is axiomatic that we cannot and will not usurp the province of the legislature. See, e.g., Mayhugh v. Coon, 460 Pa. 128, 331 A.2d 452 (1975). Moreover, inasmuch as Section 402(a)’s standards do not apply here, we need not reach the suitability of work and good cause issues herein raised by the respondents.
+We will, therefore, reverse the Board’s order upholding the denial of benefits.
+Order
+And Now, this 11th day of February, 1982, the order of the Unemployment Compensation Board of Review in the above-oaptioned matter denying the claimant herein benefits is reversed and remanded to the Board for a computation of benefits.
+Judge Palladino did not participate in the decision in this case.
+Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §802(a), which states in, pertinent part that
+An employe shall be ineligible for compensation for any week—
+(a) In which his unemployment is due to failure, without good cause, either to apply for suitable work at such time and in such manner as the department may prescribe, or to accept suitable work when offered to Mm by the employment office or by any employer, irrespective of whether or not such work is in ‘employment’ as defined in this act. . .. (Emphasis added.)
+Although the referee used the term “accounting clerk” to describe the proffered position at Fox Industries, testimony in the record given by the claimant and admitted t,o be the Office’s representative indicated that the true nature of the job was that of a mail room worker who sorted and distributed mail. On this point, the referee capriciously disregarded competent evidence.
+Stated differently, we find that the claimant, although originally unemployed in order to qualify for unemployment compensation benefits, became “employed” for purposes of Section 402(a) of the Law once her CETA job commenced.
+Inasmuch as this case is disposed of on narrower grounds, we need not address the issue of whether or not the claimant’s initial acceptance of the job operated as an admission of suitability under Section 402(a) of the Law even though such an acceptance coupled with actually working and quitting (here the claimant never commenced the Fox Industries job) has, under Section 402(b)(1) of the Law, been held to be an admission of job suitability in voluntary quit cases. See, e.g., Stockdill v. Unemployment Compensation Board of Review, 28 Pa. Commonwealth Ct. 516, 368 A.2d 1341 (1977). We note, however, that we have recognized that Section 402(b)(1) sets forth a stricter standard than Section 402(a) according to the legislative intent and that different tests are to be utilized. Trexler v. Unemployment Compensation Board of Review, 27 Pa. Commonwealth Ct. 180, 365 A.2d 1341 (1976).
+We note that the legislature could have, as it did for purposes of Article X, XI, and XIII, excepted work by an individual in a “work-relief or work-training program assisted or financed in whole or in part by any Federal agency or an agency of a State or political subdivision thereof . . .” from the definition of “employment.” Section 4(1) (4) (8) (e) of the Law, 43 P.S. §753(1) (4) (8) (e).
