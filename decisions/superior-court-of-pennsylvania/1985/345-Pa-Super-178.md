@@ -1,0 +1,43 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "01890"
+decided: "1985-09-06"
+citations: ["345 Pa. Super. 178", "497 A.2d 1362"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CAVANAUGH, CIRILLO and HESTER, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Dennis BANNISTER, Appellant."]
+source_url: "https://static.case.law/pa-super/345/cases/0178-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 639162
+cites_cases: ["133 A.2d 800", "137 A.2d 472", "145 A. 797", "156 A.2d 114", "2 L.Ed.2d 186", "239 Pa.Super. 43", "295 Pa. 571", "342 Pa.Super. 58", "355 U.S. 182", "361 A.2d 350", "389 Pa. 639", "391 Pa. 486", "397 Pa. 543", "460 Pa. 1", "490 Pa. 91", "494 A.2d 354", "496 Pa. 159", "504 Pa. 244", "78 S.Ct. 267"]
+---
+
+# Commonwealth v. Bannister
+
+## Majority (CIRILLO, Judge:)
+
+CIRILLO, Judge:
+This is an appeal from the judgment of sentence entered by the Court of Common Pleas of Philadelphia County. Appellant was sentenced to five to ten years in the State Correctional Institute in accordance with the Firearms provision of the Mandatory Sentencing Act, 42 Pa.C.S. § 9712. Appellant challenges the constitutionality of the Act, which in pertinent part provides:
+§ 9712. Sentences for offenses committed with firearms
+(a) Mandatory sentence.—Any person who is convicted in any court of this Commonwealth of murder of the third degree, voluntary manslaughter, rape, involuntary deviate sexual intercourse, robbery as defined in 18 Pa.C.S. § 3701(a)(l)(i), (ii) or (iii) (relating to robbery), aggravated assault as defined in 18 Pa.C.S. § 2702(a)(1) (relating to aggravated assault) or kidnapping, or who is convicted of attempt to commit any of these crimes, shall, if the person visibly possessed a firearm during the commission of the offense, be sentenced to a minimum sentence of at least five years of total confinement notwithstanding any other provision of this title or other statute to the contrary.
+(b) Proof at sentencing.—Provisions of this section shall not be an element of the crime and notice thereof to
+the defendant shall not be required prior to conviction, but reasonable notice of the Commonwealth’s intention to proceed under this section shall be provided after conviction and before sentencing. The applicability of this section shall be determined at sentencing. The court shall consider any evidence presented at trial and shall afford the Commonwealth and the defendant an opportunity to present any necessary additional evidence and shall determine, by a preponderance of the evidence, if this section is applicable.
+(c) Authority of court in sentencing.—There shall be no authority in any court to impose on an offender to which this section is applicable any lesser sentence than provided for in subsection (a) or to place such offender on probation or to suspend sentence. Nothing in this section shall prevent the sentencing court from imposing a sentence greater than that provided in this section. Sentencing guidelines promulgated by the Pennsylvania Commission on Sentencing shall not supersede the mandatory sentences provided in this section.
+The facts that led to this attack on the Mandatory Minimum Sentencing Act are as follows: Appellant accompanied the victim, Arlington Lawrence, and a third party, Jose Montanez, on an excursion by car to Philadelphia. When the three men arrived at their destination, Montanez parked the car and got out, leaving appellant and Lawrence alone in the car. A short time later appellant reached under the front seat of the car and removed a gun. Appellant then pointed the gun at Lawrence and demanded that Lawrence surrender his wallet. When Lawrence hesitated, appellant fired the gun wounding Lawrence in the leg. Lawrence then handed his wallet to appellant who emptied it of its cash. After removing approximately $280.00 from the wallet, appellant ordered Lawrence out of the car. Lawrence obeyed the order and promptly went to a phone booth to call the police. Appellant was arrested approximately two months after the incident. Upon his arrest, appellant freely admitted to participating in the robbery and using the firearm.
+Before trial the Commonwealth gave defendant notice of its intent to invoke Section 9712. Following the non-jury trial, the Honorable Victor J. Dinubile, Jr., convicted appellant of robbery, aggravated assault, recklessly endangering the life of another person, and possessing the instrument of a crime. Appellant filed a motion to bar application of the Mandatory Sentencing Act which the trial court denied. Judge Dinubile sentenced appellant to five-to-ten years imprisonment for robbery and lesser concurrent terms for aggravated assault and recklessly endangering another. This appeal followed.
+Appellant raises four different, but closely related issues: (1) Whether the Mandatory Sentencing Act is unconstitutional under the Due Process Clause because it requires proof only by a preponderance of the evidence that a defendant visibly possessed a firearm during the commission of a crime?
+(2) Whether the Mandatory Sentencing Act violates Due Process of Law by expressly providing that notice of the Act’s invocation need not be given until after trial?
+(3) Whether the Mandatory Sentencing Act is unconstitutional because it gives the prosecutor discretion to decide after a determination of guilt whether or not to invoke the Act?
+(4) Whether the Mandatory Sentencing Act violates the constitutional separation of powers doctrine by delegating too much power to the Legislature to determine the burden of proof to be employed at the sentencing hearing?
+Our analysis of the constitutional challenge to this legislation must begin with a strong presumption of constitutionality. Commonwealth v. Mikulan, 504 Pa. 244, 470 A.2d 1339 (1983); Commonwealth v. Cooke, 342 Pa.Super. 58, 492 A.2d 63 (1985). We will not strike down a statute unless its violation of the Constitution is so clear, palpable and plain as to preclude doubt or hesitation as to its validity. Snider v. Thornburgh, 496 Pa. 159, 436 A.2d 593 (1981); Tosto v. Pennsylvania Nursing Home Loan Agency, 460 Pa. 1, 331 A.2d 198 (1975); See also Commonwealth v. Bryant, 239 Pa.Super. 43, 361 A.2d 350 (1976).
+The Supreme Court of Pennsylvania recently upheld the constitutionality of Section 9712, specifically addressing the same issues raised by appellant in the instant case:
+Visible possession of a firearm is a simple, straightforward issue susceptible of objective proof. There is scant potential that suspicion and conjecture will enter into the factfinder’s decision. In addition, evidence of visible possession is amendable to meaningful appellate review. Thus we are convinced that the preponderance standard satisfies the minimum requirements of due process as employed in the legislature’s mandatory sentencing scheme.
+Commonwealth v. Wright, 508 Pa. —, 494 A.2d 354 (1985).
+Our State’s highest Court further stated that it is the province of the legislature to determine the punishment imposable for criminal conduct. Id., (citing Commonwealth v. Glover, 397 Pa. 543, 156 A.2d 114 (1959)); Commonwealth v. Redline, 391 Pa. 486, 137 A.2d 472 (1958); Commonwealth v. Cano, 389 Pa. 639, 133 A.2d 800, cert. denied and appeal dismissed 355 U.S. 182, 78 S.Ct. 267, 2 L.Ed.2d 186 (1957). For this reason the Court held that: (1) Section 9712 does not violate the separation of powers doctrine by depriving the sentencing court of its discretion; nor does it (2) improperly delegate legislative power to the executive by giving the prosecution discretion whether to invoke the Mandatory Sentencing procedure. Commonwealth v. Wright, supra, 508 Pa. at —, 494 A.2d at 361.
+Finally, we hold moot appellant’s argument that Section 9712 is unconstitutional because notice of its invocation need not be given until after trial.
+The question of the constitutionality of a statute cannot generally be determined abstractly but rather is to be determined only as it applies and is sought to be enforced in a particular case before the court____ [A]nd furthermore, one who is unharmed by a particular feature of a statute will not be heard to complain of its alleged unconstitutionality.
+Commonwealth v. Bonadio, 490 Pa. 91, 94, 415 A.2d 47, 49 (1980) (citing Knowles Estate, 295 Pa. 571, 145 A. 797 (1929)).
+Because the arguments raised in the case sub judice are essentially identical to those decided in Commonwealth v. Wright, and as we are bound by the decisions of our Supreme Court, we find appellant’s constitutional challenges without merit.
+Affirmed.
