@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 18"
+decided: "1924-05-01"
+citations: ["83 Pa. Super. 210"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Trexler, Keller, Linn and Gawthrop, JJ."]
+parties: ["Alexander’s Estate."]
+source_url: "https://static.case.law/pa-super/83/cases/0210-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 661160
+cites_cases: ["1 L. R. A. 203", "1 Mona. 402", "10 Pa. Superior Ct. 352", "114 N. W. 7", "117 Fed. 707", "124 Pa. 193", "167 Pa. 609", "201 Pa. 513", "209 Pa. 108", "23 W. N. C. 261", "27 Pa. 58", "35 Pa. 528", "73 N. W. 100", "98 Ind. 511"]
+---
+
+# Alexander's Estate
+
+## Majority (Tkexler, J.,)
+
+Opinion by
+Tkexler, J.,
+By a codicil to the will of Solomon A. Alexander dated June 21, 1916, lie disposed of part of bis estate as follows: “I, Solomon A. Alexander, of York, Pennsylvania, do assert that my nurse, Mrs. Jennie K. Jacoby, bas attended me faithfully for so many years and should she continue so to do to tbe end of my life, she is to be rewarded in tbe sum of three thousand dollars ($3,-000.00); any of my children who dispute this claim must be disinherited.” It appears that on October 16, 1916, tbe decedent assigned and transferred to tbe said Jennie K. Jacoby 40 shares of Pennsylvania Railroad stock then of tbe value $57.75 per share or a total value of $2,310. This assignment was executed in tbe presence of two reputable citizens who both testified that tbe testator stated that Mrs. Jacoby bad been taking care of him for quite a while and be wanted her to have tbe stock to tbe value of about $2,000. Tbe witnesses further on said tbe testator wanted to present her with it for having taken care of him. Tbe question which confronts us is,— Was this gift to Jennie K. Jacoby in satisfaction pro tanto of tbe legacy given to her? It will be noticed that in tbe codicil tbe legacy given as a reward for faithful attendance upon tbe testator was conditioned upon such attendance continuing to tbe end of bis life. At tbe transfer of tbe stock tbe same purpose, that is, tbe reward for faithful attendance, was declared. While a distinction may be drawn between tbe gift and tbe legacy in that tbe gift was a reward for past service and tbe legacy for past and future service, still the general purpose was tbe same. Where a testator is not tbe parent of tbe legatee or does not stand in loco parentis, no presumption arises that a prior legacy is satisfied by a subsequent payment or gift, but when a legacy is given to a stranger for a particular purpose and tbe testator subsequently makes a payment or gift to tbe legatee for tbe same purpose, such payment or gift is presumed to be a satisfaction of tbe legacy to tbe extent of tbe amount of tbe gift: Keiper’s App., 124 Pa. 193; Estate of Paul Ritter, 10 Pa. Superior Ct. 352; Johnson’s Est., 201 Pa. 513; Benson’s Est., 209 Pa. 108; Appeal of Ursinus College, 23 W. N. C. 261, 40 Cyc. 1916; Richardson v. Eveland, 1 L. R. A. 203. It is settled in a number of cases that a legacy to be adeemed by a subsequent gift, tbe gift and tbe legacy must be ejusdem generis: Swoop’s App., 27 Pa. 58; Miner v. Atherton, 35 Pa. 528. It is argued by tbe appellant that tbe legacy was to be paid in money and the gift of tbe railroad stock was in kind and not of the same nature as money. Tbe answer to this is that tbe intention of the testator was that tbe railroad stock should be regarded as money. He set tbe value at about $2,000. This was the amount, which in bis mind be was giving to bis nurse in anticipation of part of tbe legacy be bad provided in bis will. Tbe learned auditor states tbe proposition thus: “tbe donor of land or specific chattels is not supposed to have in mind tbe money value of tbe thing given, and the gift is not, therefore, presumed to be a satisfaction of a prior pecuniary legacy; but where it appears from tbe donor’s expressions that be does have in mind tbe pecuniary value of his gift and gives it as tbe equivalent of so much money, then, in a case where tbe presumption applies, tbe gift will be presumed to be a satisfaction of tbe prior legacy, no matter bow unlike tbe two may be:” In re Lawes, L. R. 20 Ch. Div. 81; Holmes v. Holmes, 1 Brown Ch. 555, 28 Eng. Rep. 1295; Bengough v. Walker, 15 Vesey Jr. 502; Pym v. Lockyear, 5 Mylne & C. 48, 41 Eng. Rep. 283; In re Jacques (1903), 1 Ch. 267. No Pennsylvania cases bearing on this precise question have been found.
+We think however the amount to be deducted from appellant’s legacy in satisfaction pro tanto should be two thousand dollars instead of twenty-three hundred and ten and to that extent the order entered below is modified.
+The order of the orphans’ court is affirmed with the modification that the amount to be deducted from appellant’s legacy is fixed at two thousand dollars. Costs of this appeal to be paid by the estate.
