@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "00461"
+decided: "1996-11-14"
+citations: ["454 Pa. Super. 138", "684 A.2d 1092"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before McEWEN, President Judge, and TAMILIA and HOFFMAN, JJ. •"]
+parties: ["Michael L. ETTER, Appellant, v. Wanda ROSE."]
+source_url: "https://static.case.law/pa-super/454/cases/0138-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 772892
+cites_cases: ["436 Pa.Super. 83", "437 Pa.Super. 534", "647 A.2d 253", "650 A.2d 882"]
+---
+
+# Etter v. Rose
+
+## Majority (TAMILIA, Judge:)
+
+TAMILIA, Judge:
+Michael L. Etter appeals from the March 25, 1996 Order denying his request for visitation with his minor son at the prison where appellant is presently incarcerated. The court reasoned it would not be in the child’s best interests to allow such visitation, and it is the court’s policy to deny a request for a minor’s visitation with an inmate when the custodial parent objects.
+Appellant argues the court abused its discretion by denying his request for visitation in that the court erred by applying the “best interest” standard and improperly based its decision on personal and biased opinions. Appellant also contends the court’s policy of denying visitation when the custodial parent objects contravenes the legislature’s intent to guarantee a child’s continued contact with both parents and unconstitutionally denies visitation without allowing him the opportunity to respond to the objections of the child’s mother.
+When considering a request for visitation, the primary concern of the court is what is in the best interest and permanent welfare of the child. In Interest of C.F., 436 Pa.Super. 83, 647 A.2d 253 (1994). This determination will be made on a case-by-case basis and premised on a weighing of all factors which legitimately affect the child’s physical, intellectual, moral and spiritual well-being. Id. The trial court had before it for consideration appellant’s petition and mother’s response. In denying appellant’s request, the trial judge reasoned a “prison is not conducive to establishment of a positive parent/child relationship____” (Slip Op., Rehkamp, J., 5/16/96, p. 2.)
+While encouraging an on-going, healthy parent/child relationship is certainly an aim of the judicial system, of paramount concern must be, after considering all factors, what is best for the child. We cannot agree that the trial court carefully weighed all factors in determining the best interests of the child. Rather, the court established a policy which consisted of one factor, the wishes of the mother, the custodial parent. By doing so, the court did not consider the best interests of the child but created two categories of visitation, that approved by the mother and that not approved by the mother. Although in general we believe “[violation of the laws with its resulting confinement subsumes very serious restrictions on the freedom to do many things and to exercise many rights, the least of which is to have a normal relationship with one’s family[,]” Sullivan v. Shaw, 437 Pa.Super. 534, 542, 650 A.2d 882, 886 (1994) (Dissenting Opinion by Tamilia, J.), in this case, the result is illogical and inconsistent in that the child is permitted to visit his step-father, who is also in prison, but not his natural father because he would suffer trauma by prison visitation with him.
+While there is no case law which permits denial of visitation with a parent because of incarceration alone, we believe there is a basis for creation of a presumption, to be rebutted by the prisoner parent, that such visitation is not in the best interest of the child. Appellant must, however, be afforded a hearing in which both parties are permitted to establish the relative benefits or harm to the child occasioned by visitation with father while in prison. All relevant factors must be considered, including age of the child, distance and hardship to the child in traveling to the visitation site, the kind of supervision at the visit, identification of the person(s) transporting him and by what means, the effect on the child physically and emotionally, whether the father has and does exhibit a genuine interest in the child, whether he maintained reasonable contacts in the past and any other relevant matters impinging on the child’s best interest. We emphasize that for all of the reasons presented in both the majority and Dissenting Opinions in Sullivan, supra, the trial court is not obliged to require the attendance of appellant at any further hearing.
+Appellant has indicated to this Court that he will be eligible for parole from his current term of incarceration in January, 1997. Since the likelihood is present that partial custody will be granted to father, it would be appropriate to explore seriously visitation before his release.
+We find the trial court abused its discretion and committed error in refusing visitation without fully exploring the merits of the petition. Accordingly, we reverse the Order denying appellant’s request for visitation with his minor son while incarcerated and remand for a hearing consistent with this Opinion.
+Order reversed.
+Jurisdiction relinquished.
+. Although the child's actual age doesn't appear in the record, appellant indicates his son was born October 19, 1986 and lived with both parties, his natural parents, until he was two and one-half. Thereafter, the child resided with his mother while father has become a repeat offender in the criminal justice system.
+. Appellee mother has not filed a brief in this matter.
+. We note that appellant’s objection to appellee taking his son to visit her current husband at his place of incarceration is understandable, but is not relevant to the resolution of his visitation petition.
