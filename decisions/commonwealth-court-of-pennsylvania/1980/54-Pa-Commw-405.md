@@ -1,0 +1,47 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeals, No. 1429 C.D. 1979 and 1430 C.D. 1979"
+decided: "1980-10-29"
+citations: ["54 Pa. Commw. 405"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Crumlish and Judges Craig and Williams, Jr., sitting as a panel of three."]
+parties: ["Martin M. Berger et al. v. Zoning Hearing Board of Cheltenham Township and Barry Moyerman. Barry Moyerman, Appellant. The Township of Cheltenham v. Zoning Hearing Board of Cheltenham Township and Barry Moyerman. Barry Moyerman, Appellant."]
+source_url: "https://static.case.law/pa-commw/54/cases/0405-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1914132
+cites_cases: ["10 Pa. Commonwealth Ct. 251", "11 Pa. Commonwealth Ct. 410", "138 A.2d 681", "14 Pa. Commonwealth Ct. 334", "17 Pa. Commonwealth Ct. 356", "21 Pa. Commonwealth Ct. 284", "23 Pa. Commonwealth Ct. 361", "25 Pa. Commonwealth Ct. 140", "31 Pa. Commonwealth Ct. 366", "310 A.2d 444", "315 A.2d 911", "324 A.2d 851", "331 A.2d 925", "344 A.2d 734", "352 A.2d 248", "359 A.2d 182", "36 Pa. Commonwealth Ct. 96", "376 A.2d 286", "38 Pa. Commonwealth Ct. 178", "387 A.2d 970", "39 Pa. Commonwealth Ct. 447", "391 Pa. 387", "392 A.2d 888", "396 A.2d 859"]
+---
+
+# Berger v. Zoning Hearing Board
+
+## Majority (Judge Williams, Jr.,)
+
+Opinion by
+Judge Williams, Jr.,
+This appeal is from an order of the Court of Common Pleas of Montgomery County that reversed the grant of a zoning variance to property owner Barry Moyerman, the instant appellant.
+Appellant Moyerman is the owner of a 3.52 acre parcel of land in Cheltenham Township, Montgomery County. The appellant gained title to the property in 1976 by a deed of gift from his mother, who had succeeded to ownership on the death of the appellant’s father.
+In its southeasterly section the parcel abuts the cul de sac of a street named Academy Lane. The northwesterly interior quarter of the parcel connects with another street, Juniper Avenue, but only by a narrow strip of land approximately 25 feet wide and 175 feet long.
+Moyerman proposed to subdivide the 3.52 acre parcel into four residential lots, ranging in size from slightly under 26,000 square feet to slightly over 29,000 square feet. According to the subdivision plan, three of the four lots would front on the cul de sac of Academy Lane. The fourth lot (Lot Four) would have frontage on a street solely by virtue of the 25 foot wide strip extending in a southwesterly direction to Juniper Avenue.
+In 1978 Moyerman applied to the township building inspector for building permits for the four proposed lots. However, the building inspector denied the application because two of the proposed lots would not have seventy feet of frontage on a street, as required by Section 602 of the Cheltenham Zoning Ordinance of 1929. One of the two frontally deficient lots was on the cul de sac of Academy Lane; and the other was Lot Four, which had only 25 feet of frontage on Juniper Avenue, and that by virtue of the narrow strip of land.
+Moyerman appealed the building inspector’s decision to the Zoning Hearing Board of Cheltenham Township (Board). On July 25, 1978, after a hearing, the Board granted Moyerman a variance permitting the four-lot subdivision. In so deciding the Board made only one conclusion of law; which, in pertinent part, was as follows:
+The Appellant, Barry Moyerman, has presented sufficient evidence to meet the criteria for granting a variance pursuant to . . . the Cheltenham Township Zoning Ordinance. . . and the Municipalities Planning Code. . . .
+The Board’s decision to grant the variance brought two separate appeals to the Court of Common Pleas of Montgomery County, one by a group of protesting neighbors and the other by the township government.
+The lower court dismissed the appeals insofar as the three lots on the cul de sac were concerned; and no further appeal was taken from that part of the lower court’s order. However, the lower court sustained the appeals as to Lot Four, concluding that its frontage deficiency was the result of a self-inflicted hardship, which precluded a variance for that lot as a matter of law. It is only that latter part of the lower court’s order that has been appealed to this Court.
+Because the lower court took no additional evidence, our scope of review is restricted to determining whether the Board abused its discretion or committed an error of law. E.g., Holmes v. Zoning Hearing Board of Kennett Township, 39 Pa. Commonwealth Ct. 447, 396 A.2d 859 (1978). It is our conclusion that the Board did commit an error of law in granting the variance for Lot Four.
+In order to warrant the grant of a zoning variance, Section 912 of the Pennsylvania Municipalities Planning Code requires the applicant to establish, inter alia, that the zoning restriction imposes an unnecessary hardship unique to his property. E.g., Ottaviano v. Zoning Board of Adjustment of Philadelphia, 31 Pa. Commonwealth Ct. 366, 376 A.2d 286 (1977); Hager v. Manheim Township Zoning Hearing Board, 23 Pa. Commonwealth Ct. 361, 352 A.2d 248 (1976).
+It is well settled that the degree of hardship required to justify the grant of a zoning variance cannot exist where the subject property can be reasonably used for a permitted purpose. Hager, supra; Abrams v. Zoning Hearing Board of Danville, 21 Pa. Commonwealth Ct. 284, 344 A.2d 734 (1975); Borough of Latrobe v. Sweeney, 17 Pa. Commonwealth Ct. 356, 331 A.2d 925 (1975).
+According to the appellant’s formal subdivision plan the lot here in question, Lot Four, is 25,927 square feet and is fully contiguous on its eastern boundary with another proposed lot of 26,916 square feet. That other lot, fronting on the cul de sac, has been granted a variance which is now final. It is clear from the appellant’s subdivision plan that Lot Four could be merged into that other lot, thereby creating out of them a single lot of slightly more than 1.20 acres.
+Where the applicant for a variance owns other property adjoining the lot for which a dimensional variance is in issue, and a merger of the two properties would allow the latter lot to be given a use permitted by the zoning ordinance, then no unnecessary hardship has been shown to justify the grant of a variance. In Re: Application of BCL, Inc., 36 Pa. Commonwealth Ct. 96, 387 A.2d 970 (1978); Ephross v. Solebury Township Zoning Hearing Board, 25 Pa. Commonwealth Ct. 140, 359 A.2d 182 (1976). Upon that principle, we conclude that no variance should have been granted as to the instant appellant’s Lot Four. Having three lots to develop instead of four may, or may not, cause some loss of economic advantage to Moyerman. However, that consideration standing alone does not entitle an applicant to a zoning variance. E.g., Alfano v. Zoning Hearing Board of Marple Township, 14 Pa. Commonwealth Ct. 334, 324 A.2d 851 (1974); Campbell v. Zoning Hearing Board of Plymouth Township, 10 Pa. Commonwealth Ct. 251, 310 A.2d 444 (1973).
+Although in the case at bar the decision of the Board did not include any specific, formal finding on the issue of unnecessary hardship, such a deficiency in the record does not preclude our review of the merits where, as here, the record clearly reveals that a variance was granted contrary to law. Hager, supra.
+Because of the result we have reached, we have no need to decide whether the frontage deficiency of the proposed Lot Four is the result of a self-inflicted hardship. In passing, however, we note certain salient features in the history of the appellant’s tract of land.
+The entire tract was acquired by the appellant’s father in 1946. Between 1946 and 1953 the senior Moyerman also owned another separate lot that fronted on Juniper Avenue. The other lot had a frontage of 80.38 feet and a depth of 175 feet. It abutted both the main tract and the 25 foot strip that would provide Lot Four’s only frontage. In 1953 the senior Moyerman sold the Juniper Avenue lot, and granted the purchaser an easement over the abutting 25 foot strip, which the seller retained in fee.
+If the appellant’s father had not sold the Juniper Avenue lot the appellant’s present tract, more specifically the proposed Lot Four, would have a frontage on Juniper Avenue of about 105 feet, which would by far exceed the zoning requirement. These facts suggest that any hardship created by the present frontage deficiency was self-inflicted by the appellant’s father. See Grace Building Co. v. Zoning Hearing Board of Upper Merion Township, 38 Pa. Commonwealth Ct. 178, 392 A.2d 888 (1978). The right of the instant appellant to a variance rises no higher than that his father would have enjoyed had he sought a variance after the sale of the separate lot. Ephross, supra; Borough of Baldwin v. Bench, 11 Pa. Commonwealth Ct. 410, 315 A.2d 911 (1974).
+For the reasons set forth, we affirm the order of the court below.
+Judge Blatt concurs in the result only.
+Order
+And Now, the 29th day of October, 1980, the order of the Court of Common Pleas of Montgomery County dated June 8, 1979, at Nos. 78-14107 and 78-14386, is affirmed.
+Act of July 31, 1968, P.L. 805, as amended, 53 P.S. §10912.
+No further appeal was taken from the lower court’s affirmance of the variances granted for the three lots on the cul <le sac.
+See Moyerman v. Glanzberg, 391 Pa. 387, 138 A.2d 681 (1958).
