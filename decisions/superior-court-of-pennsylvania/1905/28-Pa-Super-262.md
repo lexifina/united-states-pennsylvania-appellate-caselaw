@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, 119"
+decided: "1905-07-13"
+citations: ["28 Pa. Super. 262"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, Smith, Porter, Morrison and Henderson, JJ."]
+parties: ["Braddock Borough v. Monongahela Street Railway Company, Appellant."]
+source_url: "https://static.case.law/pa-super/28/cases/0262-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 858876
+cites_cases: ["140 U. S. 1", "166 Pa. 265", "210 Pa. 1", "24 Pa. Superior Ct. 77", "51 Pa. 41"]
+---
+
+# Braddock Borough v. Monongahela Street Railway Co.
+
+## Majority (Orlady, J.,)
+
+Opinion by
+Orlady, J.,
+This is an action of assumpsit brought by the borough of Braddock, to recover a tax on street cars run within the borough, against the Monongahela Street Railway Company, which company by consolidation and merger, had acquired the property and franchises of the Braddock and Homestead Street Railway Company. The latter company, by ordinance approved November 18, 1896, was granted tbe right to construct and maintain a line of street railway on Talbot avenue in Braddock. The defendant accepted the conditions imposed by the ordinance and should be now held to the reasonable performance of the contract. The only phase of the ordinance which is to be considered in this case is as follows: “ Condition 16, Said Company shall pay into the Borough treasury, for the use of said Borough, commencing at the expiration of one year after cars begin to run on said road at the same date annually thereafter the sum of Ten Dollars for each car running within the said Borough for the first five years, and thereafter the sum of Twenty Dollars per annum for each car run within the Borough; but this shall not be held to apply to cars used on extraordinary occasions, such as holidays, or to cars used in case of accident or damage to other cars.”
+The testimony adduced on the trial was so conflicting and directly contradictory that the jury were specially instructed to examine it with care; and the system of calculation to be adopted was to be grounded upon the points and answers in the second and third specifications of error, as follows: “ That the number of cars running on the defendant’s road during the year ending July 3, 1902, is to be ascertained not by averaging the number of cars in operation from day to day during said year, but by taking the actual number of different cars run on the road, whether for a longer or shorter period; subject only to the qualifications set forth in the last clause of condition 16 of the ordinance.” And “ That the liability of the defendant is not limited to a proportionate part of the yearly charge based upon the time the cars were in operation.” And the defendant’s point: “ That the defendant is not liable to pay any amount to the plaintiff under the contract of December 8, 1896, except for cars regularly scheduled and operated over the lines of the defendant company.” Which was affirmed with this qualification: “But they need not have been scheduled and run every day, nor for the whole of any particular day, as I have explained to you.”
+A request was made by the borough authorities of the defendant’s officials to furnish an accurate list of the number of cars operated on Talbot avenue during the time covered by the suit, and although it appears that the company had a daily record of every car in its service, the request was not complied with, and as a substitute for this accurate and specific proof, the borough placed policemen at given points, who made and preserved a list of the numbers of the cars passing on three different days, which record showed a total of eighty-two different car numbers. The defendant, by as positive proof, adduced testimony showing that not a single car of the numbers given was operated on Talbot avenue. The trial resulted in a verdict based on the plaintiff’s testimony at the rate of $10.00 per car number for the whole time, with a credit for an amount previously paid.
+The consolidated company had six main routes which were operated under scheduled directions, and under the verdict, which we must take as conclusively fixing the fact that there' were eighty-two cars operated on Talbot avenue during the time covered by the controversy. The measure of proof adduced was as good as any that could be furnished by the borough, under the circumstances. It could have been made positive beyond question by an exhibit from the Company’s records.
+The fair meaning of the language used in condition 16 of the ordinance is that each car using the tracks on Talbot avenue (on other than extraordinary 'occasions, such as, holidays, or cars used in case of accident or damage to other cars) would make the company liable under the ordinance, after July B, 1897, when it began running cars, for the payment at the rate of $10.00 per car per annum for the first five years, and thereafter at $20.00 per car, for each car run within the borough; and the words, “ Commencing at the expiration of one year after cars begin to run on said road ” fixed the time when payment was to be made for the preceding year. The number of cars run could only be ascertained at the end of the year," and it was not intended that payment should be made in advance. No question arises as to the assembling of trucks and bodies to complete a car as in Erie City v. Erie Electric Motor Company, 24 Pa. Superior Ct. 77, as the verdict is based upon the number of complete cars in actual movement on the tracks.
+The assignments of error are overruled and the judgment is affirmed.
