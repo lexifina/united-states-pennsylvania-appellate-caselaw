@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 306"
+decided: "1965-12-16"
+citations: ["207 Pa. Super. 88"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, P.. J., Wright, Watkins, Montgomery, Jacobs, and Hoffman, JJ. (Flood, J., absent)."]
+parties: ["Commonwealth v. Schubert, Appellant."]
+source_url: "https://static.case.law/pa-super/207/cases/0088-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 775313
+cites_cases: ["153 A. 2d 497", "166 A. 2d 496", "167 Pa. Superior Ct. 106", "397 Pa. 106", "402 Pa. 109", "74 A. 2d 489"]
+---
+
+# Commonwealth v. Schubert
+
+## Majority (Watkins, J.,)
+
+Opinion by
+Watkins, J.,
+This is an appeal from the judgment of sentence after conviction of the defendant-appellant, John H. Schubert, for a violation of The Vehicle Code of Pennsylvania in the Court of Quarter Sessions of Beaver County. He was charged with violation of Section (a) of the Act of May 1, 1929, P. L. 905, Art. IX, §903, as amended, 75 PS §453, which makes it unlawful to operate a commercial vehicle on any highway with a gross weight in excess of the schedule set forth in the Act. He was sentenced to pay the costs and a fine of $12,200. ' • '
+On September 1, 1964, the appellant was observed by the' Pennsylvania State Police operating an Auto-car Tractor with an oversized I-Beam Trailer loadéd with a Bucyrus-Erie Dragline through Beaver County. He was observed operating this rig through the Borough of Big Beaver, Darlington Township, the Borough of Darlington and South Beaver Township. He was stopped by the police in South Beaver Township and directed by the police to drive to Darlington Township where the load' was weighed. After weighing it was determined that he was overweight and he was charged before a Justice of the Peace in Darlington Township with an overload of 61,400 pounds and the information alleged the violation occurred in Darlington Township. The defendant had a special hauling permit.
+Under the record in this case we agree with the decision of Judge Sohn of the court below that a casé of overweight was made out. However, for the first time in this case, the question of jurisdiction was raised in this appeal. The appellant argues that the case is governed by Commonwealth v. Muth, 397 Pa. 106, 153 A. 2d 497 (1959). The Commonwealth contends that the' appellant cannot raise an issue on appeal to this Court that was not raised below. Ordinarily this contention of the Commonwealth is true. Segriff v. Johnston, 402 Pa. 109, 113, 166 A. 2d 496 (1960). However, in Com. v. Germsback, 167 Pa. Superior Ct. 106, 74 A. 2d 489 (1950), this Court held that lack of jurisdiction may be taken advantage of at any stage of the proceedings.
+In Com. v. Muth, supra, the defendant was apprehended in Strasburg Township and taken to Providence Township where the information was lodged before a Justice of the Peace in the latter township. The Supreme Court held that the Justice of the Peace did not' have jurisdiction, and discharged the defendant. The Supreme Court said, at page 110: “The Act of May 1, 1929, P. L. 905, Art. XII, §1211, as latest amended, 75 PS §741, provides, inter alia: ‘Whenever an arrest is made upon view . . . under the provisions of this section, the officer making the arrest shall forthwith take the defendant before the nearest available magistrate in the city, borough, incorporated town, or township, where the alleged offence occurred.’ The arrest, however, does not of itself constitute the commencement of a judicial proceeding. It is necessary after having arrested the accused that the arresting officer file an information. Such informations ‘shall be brought before the nearest available magistrate within the city, borough, incorporated town, or township, in the county where the alleged violation occurred: . . .’ Act of May 1, 1929, P. L. 905, Art. XII, §1201, as amended, 75 PS §731. These provisions are mandatory and jurisdiction depends upon their observance.” And at page 113: “Although the law was violated both in Providence Township and in Strasburg Township, the ‘offense’ for which defendants were arrested was that committed in Strasburg Township. It was therefore the duty of the arresting officer to bring the offender to the nearest available magistrate in Strasburg Township. Instead he ignored, through inadvertence, the just claim of Strasburg Township to adjudicate this proceeding and brought the offender back to Providence Township. Our conclusion as to arrests on view is in accord with the-legislative mandate as to arrests on warrant. In the1 latter instance where the circumstances justify the issuance of a warrant, it is the duty of the officer who serves such warrant to take the defendant before a magistrate in the municipality where the arrest is made in order to facilitate entry of bail or waiver of hearing. Act of May 1, 1929, P. L. 905, Art. XII, §1202, as amended, 75 PS §732. Certainly the legislature did not intend to invest peace officers with greater discretion when arresting without warrant than when arresting with one.”
+In the instant case Schubert’s offense was complete when the law took charge of him in South Beaver Township. His further actions were under the direction of the police and as in Com. v. Muth, supra, the officers through inadvertence ignored the just claim of South Beaver Township to adjudicate the proceedings and took the alleged offender into Darlington Township.
+Judgment of sentence is reversed and the appellant Schubert is discharged.
