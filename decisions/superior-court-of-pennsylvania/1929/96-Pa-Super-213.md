@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 101"
+decided: "1929-07-02"
+citations: ["96 Pa. Super. 213"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, Keller, Linn, Gawthrop, Cunningham and Baldrige, JJ."]
+parties: ["Martz and Sullenberger v. McKinley et ux., Appellant."]
+source_url: "https://static.case.law/pa-super/96/cases/0213-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 683988
+---
+
+# Martz & Sullenberger v. McKinley
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+On August 14, 1926, Thomas PI. McKinley and Virginia K. McKinley, bis wife, gave a judgment note to Martz and Sullenberger for $523.90, payable one year after date. Judgment was entered on August 18,1926, for tbe above amount, with ten per cent added as attorney’s fees. On April 29, 1927, Virginia K. McKinley presented a petition to the court asking that tbe judgment be opened, alleging therein that tbe note was signed by her as accommodation maker or surety for her husband (who bad since died) and that she bad no interest in tbe automobile for which tbe note was given in part payment. A denial of these facts was filed by the plaintiffs, depositions were taken by a commissioner appointed by tbe court who recommended that tbe petition should be dismissed in which conclusion tbe court concurred and made an order accordingly.
+Presumably, tbe note was given for a consideration and is valid, but we, after a careful examination of the record, have all come to the conclusion that the matters involved should be submitted to a jury.
+On August 14, 1926, Thomas H. McKinley gave to Martz and Sullenberger an order for a Stutz car at the price of $3,498 which was to be paid for by a note of $523.90 (the note in question) and a Chandler sedan at the price of $1,400 in exchange and the balance subject to an agreement of lease in deferred payments of $1,574.10, thus totalling the above price. The order ■was signed, “Purchaser, Thos. H. McKinley.” There is certainly nothing in this papel' which would involve Mrs. McKinley. On the same-day, an agreement of lease was made between the same parties for the same ear, the rental being the above amount of $1,574.10, payable in monthly installments and this lease was signed by Thomas H. McKinley only. At the same time a statement was required of Mr. McKinley, as lessee, of his financial standing, the details of his earnings, his purchase of a previous car (evidently the Chandler which was traded in), his references, his bank, his relatives, and his real estate possessions, their value and the encumberances thereon. In his statement, he alleges that the house in which he lived was owned jointly by himself and wife. In the lease he further agrees to pay the installments ensuing on the car promptly, to register and procure a license in his name and all possible contingencies which might arise were covered in the lease for the protection of the lessor, and at the expiration of the term, the machine was to be surrendered to the lessor and no title at any time was to be vested in the lessee, except as lessee.
+The lower court attached very little importance to the written documents in the case, but they appear to furnish strong corroboration of the stand taken by Mrs. McKinley that she had nothing to do with the transaction, other than signing the note to accommodate her husband. There may be doubt as to what the parties may have said to each other, what they have written cannot be questioned. "Whether McKinley was lessee or purchaser, it may well be argued that he was the only one with whom the plaintiffs dealt. The only matter to connect the wife with the transaction is her note. As stated, presumably the note is valid as to both makers. Did she give the note to fulfill his engagements, or to comply with the contract she had made? "What did she get for the note? The title of the car was never vested in her. It is not claimed that she was present when these papers were signed by her husband. When we consider the oral testimony, we find that the plaintiffs have offered substantially the following: in a general way, Sullenberger testified that he had sold Mr. and Mrs. McKinley a car, but when questioned further, he stated that only on one occasion had he talked with Mrs. McKinley and that was “at the demonstration.” In answer to the question as to what he said if anything, to Mrs. McKinley about the purchase of the automobile, he disclaimed recollection of the exact words, but “she seemed pleased with the car, said it was a fine car that it rode very easily.” The sum and substance of the conversation was that she seemed satisfied. When the note was given, he states he went to the house and said, “here is the note for part of the down payment of your new car that Mr. McKinley has just phoned you about,” and she replied, “I will go up and sign it.” There appears to be no testimony anywhere to the effect that Mrs. McKinley agreed to take the car.
+In view of the inconsistency between the written contract of purchase and lease to which the husband alone was a party and the position which the appellee must assume in order to hold the wife as a party to the same transaction, we all agree that the judgment should be opened and the ease be tried before a jury.
+The assignments of error are sustained, the order is reversed and the rule to open the judgment is made absolute.
