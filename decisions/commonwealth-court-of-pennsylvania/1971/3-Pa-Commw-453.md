@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 236 C. D. 1971"
+decided: "1971-09-23"
+citations: ["3 Pa. Commw. 453"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Manderino and Rogers, sitting as a panel of three."]
+parties: ["The Carver House, Inc. v. Liquor Control Board."]
+source_url: "https://static.case.law/pa-commw/3/cases/0453-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1846609
+cites_cases: ["167 Pa. Super. 44", "252 A. 2d 568", "269 A. 2d 712", "3 Pa. Commonwealth Ct. 64", "433 Pa. 458", "440 Pa. 310", "75 A. 2d 171"]
+---
+
+# Carver House, Inc. v. Liquor Control Board
+
+## Majority (Judge Crumlish, Jr.,)
+
+Opinion by
+Judge Crumlish, Jr.,
+This is an appeal by Carver House, Inc., a licensee of the Pennsylvania Liquor Control Board from an order of the Common Pleas Court of Philadelphia County revoking appellant’s restaurant liquor license. Carver House contends that the penalty imposed by the Liquor Control Board and affirmed by the court below was excessive. We find this contention to be without merit.
+On March 29, 1967, the Board issued a citation to show cause why appellant’s restaurant liquor license should not be revoked, alleging that appellant’s employee had sold narcotics in the licensed premises on two occasions. After hearing, the Board issued an Opinion and Order revoking appellant’s license.
+On August 16, 1967, appellant filed an appeal from this order to the Court of Quarter Sessions of Philadelphia County. Judge Raymond Pace Alexander heard the appeal on the basis of testimony taken before the Board. The appeal was dismissed on January 5, 1968 because the appellant’s counsel had failed to file a brief within the time allowed by the court. After an explanation of the circumstances which led to failure to file the brief, the dismissal order was vacated on January 12, 1968 and leave was granted to counsel to file a brief.
+On December 12, 1968, Judge Alexander sustained the appeal and remanded the matter to the Board for reconsideration in accordance with his opinion. The opinion of Judge Alexander noted that in other cases involving very similar circumstances, a suspension penalty, and not a revocation penalty, had been imposed.
+The Board did not then appeal this order nor did it petition for reconsideration. Instead, on May 22, 1969, the Board orally requested reconsideration of the matter and while that request was pending, it filed a new opinion and order on June 26, 1969, again revoking appellant’s license. This order was appealed by Oarver House, Inc. On February 24,( 1971, Judge Alexander filed an opinion and order dismissing the appeal and affirming the Board’s order of June 26, 1969.
+The order of Judge Alexander dismissing the licensee’s appeal is the subject of the appeal now before us.
+Appellant advances three arguments in this appeal: (1) that the court below was without the authority to affirm the second opinion of the Board, Clarendon V. F. W. Liquor License Case, 167 Pa. Super. 44, 75 A. 2d 171 (1950); (2) that the Board was bound by the lower.court’s initial order to abate the revocation penalty; and (3) that for the Board and court below to reimpose a revocation penalty was a manifest abuse of discretion.
+For clarity, we will first turn to the second argument raised. When Judge Alexander remanded this matter to the Board for reconsideration of the penalty in light of previous Board decisions, his order only required “reconsideration” of the Board’s decision. The court did not mandate a lessening of the penalty imposed. Therefore, the Board could and did reaffirm its position based upon the factual circumstances of this ease.
+Appellant appealed to the court below the June 26, 1969 order of the Board. This appeal was taken pursuant to Section 471 of the Liquor Code, Act of September 15, 1961, as amended, P. L. 1325, 47 P.S. §4-471, as was the initial appeal. The court below reviewed and affirmed the decision of the Board. The mere fact that the Board’s action was precipitated by the court’s initial decision does not transform this second appeal into a review of that first court decision. The court below did not modify or reject its initial decision by its affirmance of the Board’s most recent determination. We therefore hold that the doctrine found in Clarendon, supra, that a court may not on its own review its own decision, is not applicable to the matter before us.
+The third issue raised by Carver House has been discussed by our Supreme Court in Noonday Club of Delaware Co., Inc. Liquor License Case, 433 Pa. 458, 252 A. 2d 568 (1969). In discussing the review power of the Superior Court regarding the penalty imposed by the Board, Justice Cohen stated: “We hold, therefore, as a matter of judicial restraint and in the interests of a more effective and efficient administration of our entire judicial system in this Commonwealth, that penalties imposed by lower courts which are within the prescribed maximum and minimum allowable penalties under the applicable statutory provisions are not subject to review on appeal except in rare and unusual circumstances involving constitutional rights. The mere fact that each individual judge both on the Superior Court and this Court might have imposed a less severe penalty had he been the trial judge below, is not sufficient to permit a higher tribunal to substitute its judgment for the judgment of the lower tribunal. . . . While the lower court under tbe statute as interpreted by case authority may reduce the penalty imposed by the Board when material changes in the findings of the Board are made, we find no sound, judicious reason why an appellate court should be permitted to review the penalty imposed by the lower court. If we were to hold otherwise, litigants could appeal solely on the basis that the penalty was too harsh or too lenient, a result of which undoubtedly would overburden an already overburdened appellate court system.” 433 Pa. at 464-65.
+Order affirmed.
+Section 402(3) of the Appellate Court Jurisdiction Act, Act of July 31, 1970, P. L. Act No. 223-1970, 17 P.S. 211.402(3) transferred intermediate appellate jurisdiction over appeals such as here involved from the Superior Court to the Commonwealth Court.
+In the past, this Court has envisioned its scope of review regarding penalties imposed by the governmental licensing boards to include at least consideration of manifest abuses of discretion or errors of law. See D’Anjolell v. State Board of Funeral Directors, 3 Pa. Commonwealth Ct. 64, A. 2d (July 13, 1971). In light of the creation of this Court as a special tribunal maintaining a check upon the discretionary power of all administrative agencies (See Smethport Area School District v. Bowers, 440 Pa. 310, 269 A. 2d 712 (1970) for a dissertation on the importance of this role) the continued adherence to the restricted scope of review set forth in Noonday would seem to be ripe for reconsideration by the Supreme Court.
