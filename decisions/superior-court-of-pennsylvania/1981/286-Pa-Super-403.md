@@ -1,0 +1,40 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1010"
+decided: "1981-04-10"
+citations: ["286 Pa. Super. 403", "429 A.2d 1"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before HESTER, BROSKY and VAN der VOORT, JJ.", "HESTER, J., concurs in result."]
+parties: ["Karen S. SIMON v. Dennis J. SIMON, Appellant."]
+source_url: "https://static.case.law/pa-super/286/cases/0403-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 162183
+cites_cases: ["169 A.2d 51", "244 A.2d 763", "256 Pa.Super. 91", "275 Pa.Super. 131", "403 Pa. 38", "431 Pa. 192", "465 Pa. 558", "491 Pa. 120"]
+---
+
+# Simon v. Simon
+
+## Majority (BROSKY, Judge:)
+
+BROSKY, Judge:
+Appellant asks us to reverse the decision of the trial court to divide all jointly held personal property which existed before any appropriation by either party. We hold the trial court acted properly and affirm.
+Dennis Simon raises four issues on appeal. First, were the trial court’s calculations in error? Second, did the trial court err in not granting appellant’s full counterclaim? Third, did the trial court err in refusing to consider the Protection from Abuse Order obtained by appellee as evidence of removal from home. And, fourth, did the trial court err in its determination of relevant dates as they affected the rights of the parties.
+This appeal arises out of the following facts. The parties were married on April 20, 1978. They have no children. They owned joint property in the form of real estate. A mortgage on this property is paid by appellee. They held two jointly held bank accounts during their marriage. On July 10, 1978, Dennis Simon traded a truck titled in his name alone plus money he obtained from a joint bank account for a truck. This transaction occurred with the knowledge of Karen Simon. This truck has been in Dennis Simon’s exclusive use since the couple’s initial separation. On July 16, 1978, Dennis Simon left the marital domicile. On July 17, 1978, Karen Simon withdrew all money from their jointly held accounts. However, after Dennis Simon returned to the marital domicile that same day, Karen Simon redeposited the money she had withdrawn plus an additional amount into their joint bank account. Dennis Simon then left the marital domicile for the final time on August 18, 1978, under resistance of Karen Simon, and he removed a substantial portion of their savings from their joint accounts.
+Thus, out of a joint savings account of the Irwin Bank and Trust Company, amounting to Four Thousand Six Hundred Seventy-Two Dollars ($4,672), appellant withdrew for his own purposes Three Thousand Seven Hundred Dollars ($3,700), and, from a joint savings account at the Union National Bank in the amount of Three Thousand Nine Hundred Twenty-One Dollars and Fifty-Four Cents ($3,921.54), appellant withdrew Two Thousand Five Hundred Dollars ($2,500) for his exclusive use. This money ($2,500) was subsequently deposited at the Southwest National Bank under the name of Dennis Simon.
+Dennis Simon asserts that these funds were withdrawn for the use of the marriage. He specifically challenges the trial court’s holding that his automobile purchase was for his own use. We disagree and hold that the trial court’s findings of fact were proper. They are supported by the record. We will not disturb those findings. Stauffer v. Stauffer, 465 Pa. 558, 351 A.2d 236 (1976).
+Property held in joint bank accounts by husband and wife as joint tenants constitutes property held by the entireties. Cohen v. Goldberg, 431 Pa. 192, 244 A.2d 763 (1968). Appropriation of property held by the entireties by one party for his or her exclusive use results in an offer by that party to change the nature of their assets held by the entireties to individually owned assets. That is to say, such action constitutes an offer to partition jointly held property. Vento v. Vento, 256 Pa.Super. 91, 389 A.2d 615 (1978). An offer to partition is accepted by the non-appropriating spouse when he or she files suit to partition. Karen Simon filed suit in the instant case. And, “[furthermore all property of the parties held by the entireties is affected, not merely the unit that has been improperly drawn upon.” Citations omitted; Id., 256 Pa.Super. at 94, 389 A.2d at 617.
+Accordingly, the trial court correctly calculated the value of property and held that the appellee properly petitioned them to have all jointly held property partitioned.
+Dennis Simon appropriated property by the entireties to purchase the truck he held under his own name. While it first appeared that this new truck was to be used by the marriage, it became obvious that his intentions when appropriating the funds was to purchase a truck for his exclusive use. Furthermore, we are satisfied that the appropriation of the truck for exclusive use was an appropriation of entireties property. (See Footnote 1.) Accordingly, we are satisfied that the trial court determined by proper calculations the amount of money misappropriated from entireties property for Dennis Simon’s exclusive use.
+Secondly, the trial court acted correctly in not granting appellant’s full counterclaim. It properly held that his misappropriation of entireties property infected all entireties property. Accordingly, the court ordered that property partitioned. Clearly, the relevant dates were properly determined. We are well aware that the amount of money misappropriated for use to purchase a truck and the dates of such transactions were stipulated below. The record supports the conclusion of the trial court as to which dates Dennis Simon and Karen Simon were married and separated.
+Appellant also contends that the trial court should have considered Karen Simon’s obtainment of an ex parte protection from abuse order on August 23, 1978 as an exclusion of Dennis Simon from entireties property. This order was dismissed on September 1, 1978. We remain unpersuaded by this argument for two reasons. First, the order was obtained five (5) days after appellant voluntarily left the home against his wife’s wishes, and second, an ex parte protection from abuse order is supported by very strong public policy of preventing violence in the household. The fact that it was subsequently dismissed is irrelevant. There could have been any number of reasons why the order was dismissed, including changed circumstances, changed desires of the petitioner, or any number of other causes. We are unwilling to set a standard for partition proceedings proclaiming a protection from abuse order as a misappropriation of entireties property. The risk that a spouse may subject himself or herself to abuse in order to obtain a partition or prevent a partition is simply too great.
+Appellant’s final argument remonstrates that the trial court erred in not granting the full relief he requested in his counterclaim. While we do not in any way approach the merits of this claim, we do hold that the trial court erred in not considering partitioning all property held by the entire-ties pursuant to the holding in Steminski v. Steminski, 403 Pa. 38, 169 A.2d 51 (1961); Gray v. Gray, 275 Pa.Super. 131, 418 A.2d 646 (1980); Vento v. Vento, supra. Therefore, the Opinion and Decree of the trial court are affirmed, in part, and remanded, in part, for further proceedings to partition all property held by the entireties.
+HESTER, J., concurs in result.
+. While this truck was in Dennis Simon’s name alone and the truck he traded in was previously owned by the Simon family was in his name alone, we are satisfied that the truck was used for the benefit of the marriage with access to use equally permitted Karen Simon and Dennis Simon. Therefore, this was entireties property. Hengst v. Hengst, 491 Pa. 120, 420 A.2d 370 (1980).
+. The trial court reached the following assessment of the entireties estate:
+Joint Savings - Irwin Bank and Trust - $ 4,672.15
+Joint Savings - Union National Bank - 3,921.54
+Value of Truck traded by Dennis Simon for a truck - 3,500.00
+Joint Checking Account - 462.00
+$12,555.69
