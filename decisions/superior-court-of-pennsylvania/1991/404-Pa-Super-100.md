@@ -1,0 +1,44 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "225"
+decided: "1991-04-08"
+citations: ["404 Pa. Super. 100", "590 A.2d 300"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before ROWLEY, POPOVICH and MONTGOMERY, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania, Appellant, v. Elsie LOGAN, Appellee."]
+source_url: "https://static.case.law/pa-super/404/cases/0100-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 894987
+cites_cases: ["348 Pa.Super. 160", "389 Pa.Super. 66", "508 Pa. 25", "512 Pa. 334", "515 Pa. 272", "515 Pa. 454", "516 A.2d 1172", "889 F.2d 477"]
+---
+
+# Commonwealth v. Logan
+
+## Majority (POPOVICH, Judge:)
+
+POPOVICH, Judge:
+In this appeal from the judgment of sentence entered in the Court of Common Pleas of Allegheny County, we are faced by a question of first impression: Whether a sentencing court may impose a sentence below the minimum sentence mandated by 18 Pa.C.S.A. § 7508(a)(3)(iii). Having reviewed the record and the legal arguments presented, we find that the lower court erred when sentencing appellee to one (1) to three (3) years incarceration for possession with intent to deliver approximately 102 grams of cocaine, a crime which carries a mandatory mandatory minimum sentence of four (4) years in prison and a $25,000.00 fine. Accordingly, we vacate appellee’s sentence and remand for resentencing in accordance with 18 Pa.C.S.A. § 7508(a)(3)(iii).
+On January 19, 1989, appellee, Elsie Logan, was found guilty of possession with intent to deliver cocaine, possession of cocaine and possession of drug paraphernalia. The following day, appellant, the Commonwealth of Pennsylvania, provided written notice to appellee and the trial court of its intention to request imposition of the mandatory minimum sentence of four (4) years and a $25,000.00 fine as provided for in the Crimes Code, 18 Pa.C.S.A. § 7508.
+On March 23, 1989, the sentencing court imposed a sentence of four (4) to eight (8) years of incarceration and a fine of $25,000.00. However, upon review of appellee’s motion to modify sentence, the sentencing court vacated appellee’s sentence and, on January 30, 1990, resentenced appellee to one (1) to three (3) years of incarceration to be served in the Female Offenders Program and five (5) years probation for her possession with intent to deliver conviction. The court also sentenced appellee to serve one (1) year on probation for her simple possession conviction. When resentencing appellee, the lower court reasoned that it should be permitted “to temper justice [with mercy]”, regardless of the mandatory language of the statute. Trial Court Opinion, p. 10. The court also believed that the “unfettered discretion” of the prosecution to compel imposition of the four year mandatory minimum sentence, in the present case, would result in an “arbitrary and capricious” sentence. Trial Court Opinion, p. 8.
+The language of the mandatory minimum sentencing statute for drug trafficking, 18 Pa.C.S.A. § 7508, is quite specific and unambiguous and, in pertinent part, reads:
+(a) General rule.—Notwithstanding any other provision of this or any other act to the contrary, the following provisions shall apply:
+******
+(3) A person who is convicted of violating section 13(a)(14) [sic] or (3) of The Controlled Substance, Drug, Devise and Cosmetic Act where the controlled substance is ... [cocaine] ... shall, upon conviction, be sentenced to a mandatory minimum term of imprisonment and a fine as set forth in this subsection:
+******
+(iii) upon the first conviction when the amount of the substance involved is at least 100 grams: four years in prison and a fine of $25,000 or such larger amount as is sufficient to exhaust the assets utilized in and the proceeds from the illegal activity____
+******
+(c) Mandatory sentencing.—There shall be no authority in any court to impose on an offender to which this section is applicable a lesser sentence than provided for herein or to place the offender on probation, parole, work release or prerelease or to suspend sentence. ...
+(d) Appellate review.—If a sentencing court refuses to apply this section where applicable, the Commonwealth shall have the right to appellate review of the action of the sentencing court. The appellate court shall vacate the sentence in accordance with this section if it finds that the sentence imposed was in violation of the section.
+* * * * * *
+Instantly, the facts clearly reveal that appellee possessed with the intent to deliver in excess of 100 grams of cocaine. Therefore, it was error for the lower court, for whatever reason, to impose a sentence less than that mandated by § 7508(a)(3)(iii). The language of § 7508 evinces an unequivocal intent by the legislature that persons committing drug offenses be punished according to the minimum sentences set forth therein. Commonwealth v. Brown, 389 Pa.Super. 66, 71, 566 A.2d 619, 621 (1989).
+Presently, the sentencing court placed its own assessment of the proper punishment before that of the legislature and, in so doing, clearly committed reversible error. While, in general, sentencing is within the broad discretion of the trial court, 18 Pa.C.S.A. § 7508 does not unconstitutionally infringe upon the sentencing prerogative of the judiciary, as it is the province of the legislature to prescribe punishment for crimes. Cf., Commonwealth v. Bell, 512 Pa. 334, 516 A.2d 1172 (1986) (commenting upon the mandatory sentencing provisions of 42 Pa.C.S.A. § 9712, Sentences for offenses committed with firearms). Accordingly, we vacate appellee’s sentence and remand for resentencing in strict compliance with 18 Pa.C.S.A. § 7508(a)(3)(iii).
+Judgment of sentence vacated. Case remanded for imposition of sentence in accordance with 18 Pa.C.S.A. § 7508(a)(3)(iii).
+. 35 Pa.S.A. § 780-113(a)(30).
+. 35 Pa.S.A. § 780-113(a)(16).
+. 35 Pa.S.A. § 780-113(a)(32).
+. We note that the sentence for the possession offense should have been merged into the sentence for possession with intent to deliver. Commonwealth v. Johnston, 348 Pa.Super. 160, 501 A.2d 1119 (1985), affirmed 515 Pa. 454, 530 A.2d 74 (1987). Thus, the lower court imposed an illegal sentence in addition to its other errors.
+. The court’s legal justification for its departure from the mandatory sentence was based on the case of U.S. v. Cheape, 889 F.2d 477 (3rd.Cir.1989) (Appeal of Klinefelter). Therein, the Third Circuit held that under the Federal Sentencing Guidelines, the sentencing court had the discretion to depart from the minimum range of the guidelines where the court finds evidence of coercion which mitigates the offense. Therein, the Third Circuit did not hold that a sentencing court may ignore a statute mandating a minimum sentence for the offense in question. Consequently, reliance on Cheape, supra, was misplaced.
+. We comment further to address the court’s concern that the "unfettered discretion” of the prosecutor to decide whether to proceed under 18 Pa.C.S.A. § 7508 could result in arbitrary and capricious sentences. However, it is clear that the delegation of this type of discretion to the prosecutor is constitutionally permissible and within the traditional powers accorded to prosecutors. Cf., Commonwealth v. Pittman 515 Pa. 272, 528 A.2d 138 (1987) (grant of discretionary authority to prosecutor as whether to invoke provisions of mandatory minimum sentencing provision for use of a firearm in commission of enumerated felony was constitutionally permissible); Bell, supra; Commonwealth v. Wright, 508 Pa. 25, 40 n. 4, 494 A.2d 354, 361 n. 4 (1985). Despite whatever mitigating circumstance may exist, appellee did, in fact, constructively possess in excess of 100 grams of cocaine with the intent to deliver, and, as such, the prosecution was well within its discretion to proceed under the mandatory sentencing statute.
+In addition, the court sentenced appellee to serve her sentence in the Allegheny County Jail’s Female Offenders Program to be followed by five years of probation. The Female Offenders Program is designed to provide alternative housing in the County Jail and supervision for work release. In light of the statutory proscription against probation, parole, work release, prerelease or suspended sentences detailed in 18 Pa.C.S.A. § 7508(c), the legislature clearly intended persons sentenced under § 7508(a)(3)(iii) to serve their sentence in prison, i.e., a state correctional facility. The legislature enacted the mandatory minimum sentencing statute to deter drug traffickers with the imposition of harsh penalties. See Legislative Journal, Senate, February 23, 1988, p. 1784. Thus, we are convinced that sentencing appellant to the Female Offenders Program and probation was also reversible error.
