@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 38"
+decided: "1900-03-21"
+citations: ["13 Pa. Super. 77"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, W. W. Porter, W. D. Porter and Mitchell, JJ.", "Before Woodward, P. J."]
+parties: ["J. H. Van Leuven v. W. H. Holmes."]
+source_url: "https://static.case.law/pa-super/13/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 825590
+cites_cases: ["1 Pa. Superior Ct. 29", "1 W. N. C. 379", "111 Pa. 471", "156 Pa. 217", "158 Pa. 513", "174 Pa. 602", "190 Pa. 263", "2 W. N. C. 174", "40 Pa. 107", "44 Pa. 107", "7 W. & S. 317", "7 W. N. C. 66", "71 Pa. 280", "76 Pa. 97", "78 Pa. 257"]
+---
+
+# Van Leuven v. Holmes
+
+## Majority (Beaver, J.,)
+
+Opinion by
+Beaver, J.,
+The defendant by an agreement in writing contracted for the erection of a house. He paid for materials and labor upon orders drawn by the contractor. The plaintiff was a mechanic who worked upon the house; the orders drawn by the contractor for Ms wages were regularly paid by the defendant, until that for the last work done by him which was not paid upon presentation, but which plaintiff testifies he promised to pay after collecting the unpaid bills for which he was liable. There is evidence also that he made a distinct promise to pay the workmen at the time when a previous order was presented. It is also in evidence that at the time the order, upon which recovery is sought, was presented, the defendant had in his hands, as due upon the contract for the erection of his house, more than the amount of the order. There is conflict of testimony between the plaintiff and the defendant as to the promise to pay this particular order, or of any previous promise to pay the workmen. If any promise was made, it was not in writing, and the defendant invokes the protection of the act of April 26, 1855, P. L. 308, known as the statute of frauds, for that reason. The jury believed the testimony of the plaintiff and found a verdict in his behalf.
+No exception was taken in the court below to the charge of the court or to the answers to the points submitted, and the specifications of error are not made in accordance with our rules, but the appellee has distinctly waived all technical objections and has requested that the case be disposed of as if the exceptions had been regularly taken and the specifications of error properly assigned.
+The single question involved is whether the statute of frauds applies in the present case. As was said in Malone v. Keener, 44 Pa. 107, “ It is a general principle which prevails in all cases under the fourth section of the statute of frauds, from which our act is copied, that whenever the defendant’s promise is in effect to pay his own debt, though that of a third person be incidentally guaranteed, it is not necessary it should be in writing.” This principle was reasserted in Crawford v. Pyle, 190 Pa. 263, and applies in the present case. The defendant preferred to pay upon the orders of his contractor. The debt discharged was his own, although incidentally it may have been also the indebtedness of his contractor to his workmen. See also Bailey v. Marshall, 174 Pa. 602, in which it was held that the act relied upon here “ was never intended to relieve him who had a personal beneficial interest in the assumption.”
+It may be urged, and the effort was made to show, that at the time of trial the defendant was not only not indebted to but had actually overpaid his contractor. This was denied and raised an issue which, of course, could not then be determined. Admitting, however, for the purposes of this case that the defendant’s allegation was true, his liability upon his alleged verbal promise could not be changed, if such a liability at any time existed. At the time of the first alleged promise work upon the house had scarcely more than commenced. At the time of the presentation of and alleged promise to pay the order of the contractor upon the defendant, which is the basis of the present suit, defendant, according to his testimony, had at least $1,300 in his hands, which was afterwards paid upon lumber furnished for his building. He preferred to pay the material men, who had a right to file a mechanic’s lien, rather than the laborers who had no such right. The question involved in the case, therefore, was simply one of fact. Did the defendant make the promise or did he not? If he did, he was liable. This question was fairly submitted to the jury by the court below. The court in the charge to the jury discussed the question of the indebtedness of the defendant to the plaintiff, and the contradictory claims made by the contractor and the defendant, but did not submit that as the crucial question in the case. The real question submitted was “ Did this defendant bind himself to pay all orders issued by the contractor upon him during the progress of this building, no matter what they amounted (to) in the aggregate, that is, without reference to the contract at all, or was the bargain such as the defendant alleges that, while he (the contractor ?) was to issue orders to the workmen, and he was not bound to issue (pay) more orders in the aggregate sum than the contract price called for ? That is the main question for you to decide.”
+There was no error in the answers to points. The propositions affirmed are all based upon well settled cases.
+Upon a consideration of the whole case, we see nothing in it which would justify a reversal. The assignments of error are, therefore, all overruled and the judgment is affirmed.
