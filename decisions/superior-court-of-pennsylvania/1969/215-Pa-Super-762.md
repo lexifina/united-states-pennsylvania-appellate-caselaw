@@ -1,0 +1,21 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 717"
+decided: "1969-08-07"
+citations: ["215 Pa. Super. 762"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Montgomery and Spaulding, JJ., absent."]
+parties: ["Terry Appeal."]
+source_url: "https://static.case.law/pa-super/215/cases/0762-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 788525
+---
+
+# Terry Appeal
+
+## Majority
+
+Order affirmed.
+Montgomery and Spaulding, JJ., absent.
