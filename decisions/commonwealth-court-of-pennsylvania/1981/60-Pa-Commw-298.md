@@ -1,0 +1,60 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 667 C.D. 1980"
+decided: "1981-07-02"
+citations: ["60 Pa. Commw. 298"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Mencer, Craig and Palladino, sitting as a panel of three."]
+parties: ["North Point Breeze Coalition et al., Appellants v. The City of Pittsburgh and the City Council of The City of Pittsburgh, Appellees. Women’s Center and Shelter of Greater Pittsburgh, Inc., Intervenor."]
+source_url: "https://static.case.law/pa-commw/60/cases/0298-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1922461
+cites_cases: ["14 Pa. Commonwealth Ct. 236", "15 Pa. Commonwealth Ct. 462", "16 Pa. Commonwealth Ct. 63", "160 Pa. Superior Ct. 475", "322 A.2d 157", "327 A.2d 411", "329 A.2d 325", "35 Pa. Commonwealth Ct. 440", "386 A.2d 622", "51 A.2d 526"]
+---
+
+# North Point Breeze Coalition v. City of Pittsburgh
+
+## Majority (Judge Craig,)
+
+Opinion bt
+Judge Craig,
+The North Point Breeze Coalition and several individual landowners (objectors) appeal an order of the Court of Common Pleas of Allegheny County, which quashed their appeal from the grant of a conditional use permit to the Women’s Center and Shelter of Greater Pittsburgh (applicant) by Pittsburgh City Council (council).
+In March of 1979, the applicant entered into a contract to purchase an old funeral home located in an R-4 residential district in the Point Breeze section of Pittsburgh; the applicant intends to use the home as a temporary shelter for women who are victims of domestic abuse. That service, classified as an institutional facility, is permitted as a conditional use under Section 993.01 (a) A(10) of the Pittsburgh zoning ordinance (ordinance) by council approval, when in compliance with specific area, bulk and height requirements very similar to the kind of requirements typically applied to special exceptions by zoning ordinances.
+Following the procedure outlined in Section 993.01 (a)C of the ordinance, the applicant filed an application for the conditional use with the City Planning Department. After a public hearing, the planning commission recommended to the council that the application be denied. Notwithstanding the recommendation, the council passed Resolution No. 1156 approving the use of the premises as an institutional facility.
+The use of a resolution is apparently a matter of councilmatic custom. The zoning ordinance makes no mention of resolutions with respect to conditional uses; it refers only to “approval” of conditional uses by council.
+The objectors, who had protested the conditional use application at the public hearings before the council and commission, appealed to common pleas court. The city filed a motion to quash the appeal on the basis that there was no authority to appeal from the passage of a council resolution. The applicant filed for, and was granted, the right to intervene.
+The court, after argument, issued an order quashing the objector’s appeal on the grounds that the council’s grant of the conditional use permit was a legislative enactment from which no right of appeal existed.
+The objectors maintain that their appeal below was proper; they submit that council acted in an administrative, not legislative, capacity, and that a right of appeal exists under the Local Agency Law, 2 Pa. C. S. §751, by virtue of the council’s “adjudication” of the application.
+Thus, we must decide whether the Local Agency Law provides objectors a statutory right of appeal from the grant of a conditional use by the governing body of a second class city.
+We cannot conclude, as the court did below, that council’s action was legislative in nature simply because the conditional use was granted by resolution. Reflecting that a municipal governing body may act in an administrative role as well as in a legislative capacity, a resolution may be administrative in nature. The Superior Court, in Castle Shannon Borough Annexation Case, 160 Pa. Superior Ct. 475, 51 A.2d 526 (1947), expressly recognizing that a resolution may or may not be legislative in character, held that the resolution in that case, involving a specific annexation was “purely administrative.” According to 56 Am. Jur. 2d, Municipal Corporations, §344, a resolution normally “provides for the disposition of a particular item of the administrative business of a municipal corporation. ’ ’
+The council, in passing the resolution, did not enact a new ordinance or amend the existing ordinance. The resolution was not legislative in nature because it established no rule of general application. See, e.g., Insurance Company of North America v. Insurance Department, 15 Pa. Commonwealth Ct. 462, 466, 327 A.2d 411, 413 (1974). On the contrary, the council, by allowing the applicant to use the property as an institutional facility through a conditional use permit, applied the specific criteria outlined in Section 993.01 (a)A(10) of the ordinance to a single applicant and one designated piece of land. Council essentially approved the issuance of a permit, nothing more.
+Therefore, we must reject the conclusion that the objectors were attempting to appeal from a legislative act of council.
+The applicant, in arguing against objectors’ right to appeal, accurately notes that the Pennsylvania Municipalities Planning Code (MPC) — which allows aggrieved persons to appeal from the grant of a conditional use — does not govern Pittsburgh, because it is a second class city, MPC §105, 53 P.S. §10105. The Applicant argues that the legislature’s obvious exemption of second and first class cities from application of the MPC’s appeal provisions indicates legislative awareness of such a “gap” in appeal remedies and an intention not to fill that gap.
+"We cannot agree with that reasoning. The Local Agency Law clearly fills the gap by stating:
+Any person aggrieved by an adjudication of a local agency wbo has a direct interest in such adjudication shall have the right to appeal therefrom to the court vested with jurisdiction of such appeals by or pursuant to Title 42 (relating to the judiciary and judicial procedure).
+2 Pa. C. S. §752.
+The applicant acknowledges that this provision now governs zoning appeals from the Pittsburgh Zoning Board of Adjustment.
+“Local agency” is defined in 2 Pa. C. S. §101 as 1 ‘ [a] government agency other than a Commonwealth agency.” A “government agency” is “[a]ny Commonwealth agency or any political subdivision or municipal or other local authority, or any officer or agency of any such political subdivision or local authority.” Pittsburgh City Council, like Pittsburgh’s zoning board, unquestionably is a local agency within the terms of law when it acts administratively.
+We have no trouble concluding that the resolution granting the conditional use was an adjudication; that term is defined at 2 Pa. C. S. §101 as “ [a]ny final order, decree, decision, determination or ruling by an agency affecting personal or property rights, privileges, immunities, duties, liabilities or obligations of any or all of the parties to the proceeding in which the adjudication is made....”
+The council’s decision clearly affected the property rights of the applicant at least; the resolution operated in a concrete manner to change the position of the individual parties.
+Our conclusion that the Local Agency Law provides objectors with a statutory right of appeal is in accord with Article Y, Section 9 of the Pennsylvania Constitution, which provides:
+There shall be a right of appeal in all cases to a court of record from a court not of record] and there shall also be a right of appeal from a court of record or from an administrative agency to a court of record or to an appellate court, the selection of such court to be as provided by law.] and there shall be such other rights of appeal as may be provided by law.
+Thus the law effectuates the intention that parties aggrieved by an administrative adjudication be provided the same opportunity to pursue relief as those aggrieved by a judicial determination.
+Accordingly, we reverse the court’s order quashing the objectors’ appeal, and remand for proceedings on the merits.
+Order
+And Now, July 2, 1981, the order of the Court of Common Pleas of Allegheny County, No. SA 11 of 1980, dated March 12, 1980 quashing the appeal, is reversed, and the case is remanded for proceedings on the merits of the appeal.
+Title Nine of the Pittsburgh Code of Ordinances.
+The definition of a conditional use, found at Section 903.02(c) of the ordinance, states that it is a specific exception to the ordinance “which requires approval by Council under terms and procedures and with conditions prescribed herein.”
+The resolution stated:
+Be it resolved by the Council of the City of Pittsburgh as follows:
+Section 1. Under the provisions of Section. 993.01 (a)A(10) of the Pittsburgh Code, approval is hereby granted for authority to use the existing structure located at 7211 Thomas Boulevard by the Women’s Center and Shelter of Greater Pittsburgh, Inc., for an Institutional facility on property zoned ‘R4’ Multiple-Family Residence District identified as Lot No. 131, Block 175-A in the Allegheny County Block and Lot System, 14th Ward, City of Pittsburgh, in accordance with Conditional Use Application No. 442 and accompanying Plot Plan as revised April 11, 1979 filed by the Women’s Center and Shelter of Greater Pittsburgh, Inc., which are on file in the office of the Zoning Administrator, Department of City Planning, and which are incorporated herein by reference thereto.
+Applicant argues that every act of city council is legislative because the enabling legislation found in the Second Class City Code, Act of March 7, 1901, P.L. 20, as amended, 53 P.S. §22221 provides that “the legislative power of cities of the second class shall be vested in one body, which shall be Known as The Council. . . .”, and because Section 22230 provides that “[e]very legislative act of the council shall be by resolution or ordinance. . . .”
+First, the City of Pittsburgh is now governed by a home rule charter, displacing that Code on these points.
+Moreover, we cannot agree with such a single-minded interpretation of the Second Class City Code. By vesting all local legislative power in the city council, the state legislature clearly did not prohibit that body from performing other non-legislative functions as a governing body. In addition, we cannot read the mandate that every legislative act be by resolution or ordinance to mean either expressly or by implication that all resolutions are therefore legislative. Such an interpretation would broadly overextend the clear meaning of the section.
+Act of July 31, 1968, P.L. 805, as amended, 53 P.S. §10101.
+See Section 1007, 53 P.S. §11007.
+Act of April 28, 1978, P.L. 202, 2 Pa. C. S. §751.
+See Davis, Administrative Law at 123 (1927). See also Wagonhoffer v. Philadelphia Board of Incense and Inspection Review, 35 Pa. Commonwealth Ct. 440, 386 A.2d 622 (1978) (letter of Philadelphia Board of License and Inspection Review to lessee, informing him that his appeal from board determination was untimely, was an, adjudication; Kretzler v. Ohio Township, 14 Pa. Commonwealth Ct. 236, 322 A.2d 157 (1974) (board of township supervisors’ reduction in rank of two police officers was an adjudication).
+Our determination that city council’s resolution was an adjudication invokes the possible applicability of 2 Pa. C. S. §555, which requires that all local agency adjudications be in writing, and contain findings and the reasons therefor. Although the council heard testimony on the application, no specific findings were incorporated into the resolution granting the conditional use. However, neither the applicant nor the objectors have complained of that lack, and, as we held in Harjefs Corp. v. City of Philadelphia Tax Review Board, 16 Pa. Commonwealth Ct. 63, 329 A.2d 325 (1974), the absence of formal findings is not per se fatal.
