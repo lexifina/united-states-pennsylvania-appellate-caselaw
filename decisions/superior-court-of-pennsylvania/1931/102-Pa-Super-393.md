@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 125"
+decided: "1931-07-08"
+citations: ["102 Pa. Super. 393"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before .Tkexler, P. J., Keller, Linn, Gawthrop, CunninGHAM, Baldrige and Drew, JJ."]
+parties: ["Appeal of John B. Shrum, Administrator."]
+source_url: "https://static.case.law/pa-super/102/cases/0393-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 695556
+---
+
+# In re Shrum
+
+## Majority (Gawthrop, J.,)
+
+Opinion by
+Gawthrop, J.,
+The township auditors of Hempfield Township, County of Westmoreland, audited the accounts of the Hempfield Township School District, a district of the third class, for the fiscal year ending July 1, 1929, and filed a report in which they surcharged all ¡of the school directors with three items, $436 paid to R. W. Robinson, supervising principal of schools of said district for delivering supplies to the various schools and $12.55 and $5.80 paid to a restaurant and hotel for meals served to the school directors during meetings which were being held by them. From the surcharge the directors appealed to the common pleas, which sustained the appeal on the ground that the expenditures were legally made. From the order of the common pleas, the township auditors have appealed.
+The court below states in his opinion that at the time of the argument before him it was agreed by counsel for the auditors that the appeal in so far as the expenditures for meals were concerned should be sustained. As the correctness of that statement was conceded- by counsel for appellants at the oral argument, we shall confine our review to the question whether the court was right in relieving the school directors of the surcharge of $436.
+Hempfield Township School District is a large one. It has within its limitations one hundred and nine schools, widely scattered. In 1928 E. W. Eobinson was supervising principal of the schools of said district at a salary of four thousand dollars per annum. It appears by the minutes of the school board for the meeting of August 17, 1928, that it was regularly moved and seconded that the supervising principal be authorized to have the supplies delivered to the schools at the price of $4 per room, and that all the members voted in the affirmative. Subsequently at a meeting of the school board held September 7, 1928, all the members being present, the principal presented a bill for distributing supplies to the one hundred and nine different rooms in the township at $4 per room, total $436, and a motion that the bill be paid was carried unanimously. It is not contended that the services for which the supervising principal was paid $436 were not rendered by him. The contention is that as Mr. Eobinson was in the employ of the school district as supervising principal he could not be paid for delivering the supplies. We are asked to hold that the payment to him, which is the subject of this surcharge, Avas in violation of Sections 1147, 403 and 707-708 of the School Code of 1911.
+Section 1147 refers to county, district and assistant county or district superintendents only, and does not refer to supervising principals.
+Section 403 of the code provides that the affirmative vote of a majority of all the members of the board of school directors, duly recorded, shoAving how each member voted, shall be required in order to take action on the folloAving subjects: .......entering into contracts of any kind, ......where the amount exceeds $100; fixing salaries or compensation of officers or other appointees of the board of school directors. The minutes referred to above show that all the school directors voted affirmatively for the employment of Mr. Robinson and the fixing of his compensation for delivering supplies to the schools.
+Sections 707 and 708 of the code refer exclusively to the purchase of supplies and have no application to the present controversy, which involves the distribution of supplies already purchased and in hand.
+After a full examination of the School Code in the light of the argument of counsel for appellants, we have been unable to find anything that prohibits a supervising principal of a school district of the third class from being employed by the school board of the district and paid for the rendering of services which are outside of his regular employment. It is clear that Mr. Robinson’s duties as supervising principal did not require him to deliver supplies to the various schools. We find no legal objection to his being employed by the school board to perform that extra service. If the board had not employed him to do this work, it would have been necessary to employ some other person to do it.
+The suggestion made in the brief of counsel for appellants and at the oral argument that the $436 paid to the supervising principal for delivering supplies to the schools was divided among the members of the school board is not supported by any testimony in the record. A witness who was employed as a clerk in the school district testified that Mr. Eobinson endorsed the voucher made to his order for $436 and asked her to have it cashed at the bank, and that she had it cashed and gave Mr. Eobinson the money. The witness thought that the school board was not in session at the time. Another witness for the members of the school board testified that he was a member of the board from 1921 to 1927, and was secretary for the last four years of that period, and that it had been the custom of the school board to have the supplies delivered to the different schools by the supervising principal at “so much per room.” On cross-examination this witness testified that the school board of which he was a member “divided up the salaries.” Whatever may be said in condemnation of the practice of dividing salaries the evidence of these witnesses did 'not touch the question whether the $436 received by Mr. Eobinson for the fiscal year ending July 1, 1929, was divided by him with all or any of the members of the school board which was operating during the fiscal year here involved.
+The conclusion is that the action of the court below in relieving the school directors of this item of the surcharge was right.
+The decree is affirmed.
