@@ -1,0 +1,50 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "305"
+decided: "1988-05-25"
+citations: ["373 Pa. Super. 515", "541 A.2d 1143"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before ROWLEY, DEL SOLE and MONTGOMERY, JJ.", "ROWLEY, J., files a concurring statement."]
+parties: ["Arthur OTT, Appellee, v. BUEHLER LUMBER COMPANY, Appellant."]
+source_url: "https://static.case.law/pa-super/373/cases/0515-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 696012
+cites_cases: ["160 A. 770", "307 Pa. 36", "352 Pa.Super. 359", "63 Pa.Super. 196"]
+---
+
+# Ott v. Buehler Lumber Co.
+
+## Majority (DEL SOLE, Judge:)
+
+DEL SOLE, Judge:
+This direct appeal is taken from the judgment entered in the Court of Common Pleas of Elk County. The questions presented for review stem from the discharge of Appellee, Arthur Ott, by the Buehler Lumber Company while Appellee was under a five-year employment contract. For the reasons which follow, we reverse and grant Appellant a new trial.
+Buehler Lumber Company, through its president, offered Mr. Ott a written employment contract for employment at its plant. Under the terms of this contract, Mr. Ott was to serve as Plant Maintenance Supervisor for electrical and mechanical maintenance problems for a period of five years. In addition to the recitation of salary and benefits, the contract outlined various preventative and corrective maintenance plans to be implemented by Ott. His work was characterized as instructing, supervising, and participating in plant maintenance functions. Ott accepted employment under these terms.
+Approximately seven weeks later, Ott received a written notice from Buehler that he was being temporarily terminated due to a lack of orders. Six months thereafter, during which time Ott received no information regarding when he would be returning to work, he commenced an action in the Court of Common Pleas of Elk County alleging he had been discharged without just cause and in violation of his employment contract.
+Buehler Lumber Company answered the Complaint and admitted that a lack orders was one of numerous factors which caused the layoff of several Buehler employees. However, it further stated that its ultimate decision not to recall Ott was reasonably based upon his failure to perform and persistent failure to fulfill the express duties outlined in his employment contract.
+Following a trial before a jury, a verdict was returned in favor of Ott. Buehler then filed timely post-trial motions which were subsequently denied.
+On appeal, Buehler Lumber Company maintains that the trial court erred when it instructed the jury that it must find both of the following circumstances as a condition precedent to a finding that Appellee’s discharge by Appellant was justified: (1) that the employee’s conduct was a breach of the employment contract, and (2) that an injury or loss to the business or a disorganization of the affairs of the business was likely to follow from such breachful conduct if it was permitted to continue. The contested charge in the instant appeal was given as follows:
+I instruct you that, utilizing an objective standard, if from all the circumstances, you find that the Defendant Employer was justified in believing that the employee’s conduct was in breach of the contract and was such that an injury or loss to the business or a disorganization of the affairs of the business was likely to follow from such breachful conduct if it is permitted to continue, the employer would then be warranted in discharging the employee, (emphasis added).
+For the following reasons, we find this instruction to be erroneous.
+Buehler’s defense to the lawsuit for wrongful discharge was that the employee failed to perform specific duties enumerated in the parties’ written employment contract. Notably, that he failed to stock, organize, maintain and inventory the maintenance rooms; he failed to keep daily or weekly records of the machines’ down time, and he failed to implement a preventative maintenance program. In short, the Appellant defended the action on the basis that Ott breached numerous express, written promises contained in the employment agreement.
+“When a formal written contract of employment has been entered into, courts historically have accepted the position that discharge of the employee before the end of the contract can give rise to liability under ordinary breach of contract principles.” Employment Dismissal Law and Practice, 2d., § 4.1 p. 172. The general rule is that a party who has materially breached a contract may not complain if the other party refuses to perform his obligations under the contract. 17 Am.Jur.2d, § 365. A party also may not insist upon performance of the contract when he himself is guilty of a material breach of the contract. 17 Am.Jur.2d, § 425. See also: J. Murray, Murray on Contracts, § 215 (1974). Moreover, where the evidence to sustain the justification for discharge is disputed, the jury must pass on it. Bernstein v. Lipper Manufacturing Co., 307 Pa. 36, 160 A. 770 (1932). As such, the instruction for the jury should have simply focused upon whether Appellee’s conduct amounted to a material breach of the employment agreement.
+The charge given in the instant case is an incorrect statement of the law regarding the discharge of an employee for the breach of an express promise in an employment contract. The contested instruction created a two-step standard as a condition precedent to a finding of just cause. The portion of the charge requiring the findings that the employee’s action be detrimental to the business is irrelevant where the discharge is based upon a breach of an express promise in the employment contract.
+The court’s instruction may well have caused the jury to incorrectly believe that Appellant was required to show an actual harm to the business entity before Appellee’s dismissal for just cause would be permitted.
+Analogous to the instant case is the case of O’Neil v. Schneller, 63 Pa.Super. 196 (1916). In O’Neil, the plaintiff had been employed for a definite term. The testimony was conflicting on whether he had performed his duties satisfactorily and whether he had conducted himself properly toward his fellow employees. In its charge to the jury, the trial court offered the following instruction which reads, in part:
+Now you take his [plaintiff’s] conduct as you got it from the testimony, his language, his demeanor, his behavior when he was in his employment, working for the defendants, to say whether he was reasonably obedient and subordinate or not. You will remember that the defendant must prove that he was disobedient and insubordinate to such an extent as to injure the defendants.
+Id. at 198.
+In reversing and remanding for a new trial, the court stated:
+This [charge] imposed too heavy a burden on the defendants. It was not necessary for the defendants to show that appellee’s conduct caused them to suffer any loss. A master is not compelled to keep an employee, hired for a given term, in his service until the master’s business has suffered pecuniary loss, where the employee is disobedient and quarrelsome with co-employees____ When the master is justified in believing that the employee’s conduct is such that an injury or loss to the business or disorganization of affairs is likely to follow from such conduct if it is permitted to continue, the master would be warranted in discharging the employee.
+Id. at 200.
+The O’Neil court concluded that the jury should have been instructed that if the charge of incompetence was true, the defendant would have been justified in discharging the plaintiff. With respect to the plaintiff’s breach of the implied provisions of his contract, the O’Neil court held that the defendant was not required to show that the plaintiff’s behavior resulted in actual harm to his business before he may discharge the plaintiff. The rationale in O’Neil, as it pertains to the instant wrongful discharge action, leads us to conclude that if Mr. Ott breached an express term of his employment agreement, his employer was not required to show a deleterious effect on its business in order to justify the termination. Instead, it was only required to establish that Ott was in breach and that the breach was material.
+Erroneous instructions may be the basis for a new trial if it is shown that the instructions were fundamentally in error and might have been responsible for the verdict. Hawthorne v. Dravo Corp., Keystone Div., 352 Pa.Super. 359, 508 A.2d 298 (1986). In view of the authority found in O’Neil, we are satisfied that the instant jury instruction was erroneous as a matter of law.
+The Judgment is thereby reversed and a new trial is ordered. Jurisdiction relinquished.
+ROWLEY, J., files a concurring statement.
+. In light of our disposition of this appeal on the issue of the trial court’s erroneous jury instruction, we will not address Appellant’s remaining assignment of error regarding the exclusion of lay opinion testimony. Through this testimony, Appellant sought to establish that Appellee no longer desired to perform the required maintenance work at Appellant’s place of business.
+
+## Concurrence (ROWLEY, Judge,)
+
+ROWLEY, Judge,
+concurring:
+I join in the majority’s opinion insofar as it concludes that the jury charge given by the trial court in the instant case included an incorrect statement of the law regarding the discharge of an employee for breach of an express promise in an employment contract, and that the jury instruction should have focussed only on the questions of whether there was a breach and whether or not that breach was material. I do not join in the majority’s discussion of O’Neil v. Schneller, 63 Pa.Super. 196 (1916), and write separately because in my opinion O’Neil is neither analogous nor relevant to the present case. It is factually distinguishable because it involves only breaches of an employee’s implied promises.
