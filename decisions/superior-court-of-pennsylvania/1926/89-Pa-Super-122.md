@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 235"
+decided: "1926-02-26"
+citations: ["89 Pa. Super. 122"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Portee, Henderson, Trender, Keeler, Linn and Gawtheop, JJ."]
+parties: ["Cowan v. Nagel et al., Appellants."]
+source_url: "https://static.case.law/pa-super/89/cases/0122-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 671300
+cites_cases: ["194 Pa. 516", "2 P. & W. 292", "22 Pa. 54", "270 Pa. 556", "4 W. & S. 179", "49 Pa. 322"]
+---
+
+# Cowan v. Nagel
+
+## Majority (Keller, J.,)
+
+Opinion bt
+Keller, J.,
+Plaintiff contracted to buy -a dwelling in the City of Philadelphia and employed defendants, who are real estate agents, to secure a mortgage for part of the purchase money and make arrangements for the settlement within the time limited in the agreement of sale. Through the negligence of the defendants the siale was not consummated and plaintiff lost her down money and the advantage, if any, of her bargain.
+She brought this action in assumpsit to recover the losses she had thus sustained through the defendants’ neglect.
+The thirteenth paragraph of her statement of claim contained the following averment or averments: “Plaintiff avers that the price of $4700 which she was to pay for the premises hereinbefore mentioned was far below $5500 which was the market value of the premises at the time fixed for delivery of the premises to her, in accordance with the terms of the agreement hereto attached, as ‘Exhibit A.’ ” Defendants’ reply to this paragraph in their affidavit of defense was, “Denied.”
+On the trial the learned court below admitted in evidence these paragraphs of the statement of claim and 'affidavit of defense as a conclusive admission that the value of the property at the time fixed for settlement was $5500; and refused defendants’ offers to prove the market value by witnesses. In our opinion this was error.
+The thirteenth paragraph of the plaintiff’s statement did not comply strictly with section 5 of the Practice Act, 1915 (P. L. 483) which provides that every pleading shall contain, and contain only, a statement in a concise and summary form of the material facts on which the party pleading relies and that each paragraph shall contain but one material allegation. The paragraph did not aver directly that the market value of the premises at the time fixed for settlement was $5500; but “that the price of $4700......was far below $5500, which was” etc. The reference to market value was only a clause subordinate to the one concise averment of fact which the paragraph contained.
+But apart from such technical considerations, we are of opinion that the nature of the claim and the character of the damages demanded were such as to prevent the general denial in the affidavit of defense from operating as a conclusive admission of the market value of the property, thus inferentially averred in the statement of claim. While the action was founded on contract and therefore correctly brought in assumpsit, it nevertheless sounded in tort, could have been brought in trespass [case]: Reeside’s Exr. v. Reeside, 49 Pa. 322, 331; Zell v. Arnold, 2 P. & W. 292; and had many of the features of such an action. The gist of the action was the negligence of the defendants: Zell v. Arnold, supra, p. 294. That was the real issue submitted by the court to the jury; their verdict was to depend on whether or not they found that the defendants had been guilty of neglect.
+In Corry v. Penna. R. Co., 194 Pa. 516, it was held that an affidavit of defense was not required under the P'ractice Act of 1887 in an action of assumpsit which wias essentially ex delicto; that the provision requiring affidavits of defense to be filed was limited to such actions as were founded on contract alone and did not include cases in which the cause of action was ex delicto, or of a mixed character of contract and tort. It is true that case was decided prior to the Practice Act of 1915, but it was cited as authority by the Supreme Court in Parry v. First Nat’l. Bank of Lunsford, 270 Pa. 556, 562, lan action in assumpsit sounding in tort, because “while the recent statute, (Act of 1915), provides, to a limited extent, for affidavits of defense in actions of tort, there is nothing in it which requires such an affidavit to meet plaintiff’s averments in the present case, particularly so far as they relate to the description of the tort itself, or the damages suffered. ’ ’ In other words, if a claim is essentially one to recover damages for negligence, even though the liability arose out of a contract, the averments of the statement as to the negligent act and the damages resulting therefrom are not admitted by mere default of the defendant and must be proven. To take an extreme example, if a common carrier contracted to carry a passenger safely to a certain destination, and through negligence failed to do so and the passenger suffered injury, he could not by bringing his action in assumpsit, as he would have the right to do (McCall v. Forsyth, 4 W. & S. 179; Pittsburgh City v. Grier, 22 Pa. 54, 65) bind the defendant as to the money value of his pain and suffering because the defendant could not definitely state how much he should be compensated therefor, iand made no denial or only a general one on the subject. In defending an action essentially tortious in character, even though brought in assumpsit, the provisions of the act relative to affidavits of defense in actions of tort (sec. 13) will be applied in so fiar as they relate to the averments relied on to establish negligence and the damages claimed. This is especially the case, where as here, the damages sustained are not fixed by the contract or their amount intrinsically established, but must be determined by the opinion of witnesses.
+The fourth, fifth, eighth and tenth assignments of error are sustained. We find nothing of merit in the rest. The judgment is reversed and a new trial awarded.
