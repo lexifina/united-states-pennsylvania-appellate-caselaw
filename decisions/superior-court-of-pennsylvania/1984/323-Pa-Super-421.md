@@ -1,0 +1,51 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "9"
+decided: "1984-01-13"
+citations: ["323 Pa. Super. 421", "470 A.2d 990"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CERCONE, President Judge, and WICKERSHAM and MONTEMURO, JJ."]
+parties: ["William O. HOYER and Virginia A. Hoyer, Appellants, v. Murray B. FRAZEE, Jr. and Swope & Frazee."]
+source_url: "https://static.case.law/pa-super/323/cases/0421-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 594352
+cites_cases: ["266 Pa.Super. 396", "275 Pa.Super. 65"]
+---
+
+# Hoyer v. Frazee
+
+## Majority (WICKERSHAM, Judge:)
+
+WICKERSHAM, Judge:
+Appellants William and Virginia Hoyer have taken this appeal from a determination by the Adams County Court of Common Pleas, Judge Keith B. Quigley specially presiding, that appellees Murray B. Frazee and Swope & Frazee were not liable for damages resulting from an error in the sale of land. This litigation began when the Hoyers filed a complaint in trespass and assumpsit against their attorney Murray B. Frazee and his law firm, Swope & Frazee, alleging that Frazee’s negligence caused the Hoyers to purchase a thirty-three (33) acre parcel of land rather than the forty-five (45) acre parcel the Hoyers believed they were buying. The Hoyers also sued the seller of the property and the seller’s attorneys, but after procedural maneuvers irrelevant to us now, the seller and its lawyers were dropped from the suit.
+The matter was tried before the Honorable Keith B. Quigley, sitting without a jury. Judge Quigley made the following factual findings:
+On July 23, 1973, plaintiffs executed articles of agreement offering to buy the land from the estate of Gladys J. Berry, deceased, which land was described as containing 45 acres, more or less.
+At the time of this transaction, plaintiffs were residents of New York State. On or about August 3, 1973, they retained defendant attorneys to perform an examination record title and to represent plaintiffs in the closing of the sale.
+According to the terms of the articles of agreement, the seller was to do a survey of the 45 acres. However, the estate did not agree to this provision and amended the agreement to provide that the sale would be accomplished with the use of an existing survey and a new survey to define the boundary where the subject property had been subdivided. Plaintiffs responded that this would be acceptable only if the existing survey were “certified.”
+In a letter dated August 21, 1973, Defendant Frazee indicated to the plaintiffs that he anticipated no difficulty with plaintiff’s requirements as to the survey.
+A subsequent letter from Defendant Frazee, dated September 12, 1973, advised plaintiffs that defendant attorneys had compared the description of the land in the deed with existing surveys as well as with the description in the Mapping Department in the Adams County Courthouse. Defendants also noted that the description was satisfactory by local standards and that they, the defendants, had no hesitancy in certifying the title. While it was pointed out that a title insurance company would insist on an exception to the description because it was not taken from an entirely up-to-date survey, defendants recommended that the plaintiffs accept the deed as prepared.
+Closing was held on September 21, 1973 at which time the land was conveyed by deed, the containing clause of which recited that the acreage was “45 acres, more or less.” A certificate of title issued to plaintiffs by defendants on October 1, 1973 likewise recited that the acreage was 45 acres, more or less.
+Plaintiffs moved to Pennsylvania in 1976 and began constructing a home on the subject property. It was sometime during this construction in the fall of 1976 or early 1977 that plaintiffs learned that, in fact, the real estate conveyed to them was 33.861 acres and not the 45 acres they had expected. Accordingly, plaintiffs filed suit against the co-executors of the estate of Gladys J. Berry as well as their settlement attorneys. This Court sustained the demurrer of the sellers, but required the defendant attorneys to answer the complaint. At this time, the Court also ruled that the transaction was an en gros sale and not a per acre sale as plaintiffs have asserted.
+This action proceeded to a non-jury trial on May 14-15, 1981 at which time the Trial Court entered an order in favor of defendants and against the plaintiffs. In so ordering, the Court concluded that defendants were not negligent or in breach of their contract of employment. From this order the plaintiffs have made certain post-trial exceptions.
+Slip op. at 1-3. The exceptions were denied and this appeal timely followed.
+Three of the Hoyers’ first four assignments of error relate to the trial court’s finding that the Hoyers’ attorney was not negligent in his use of a certified survey. The Hoyers state the third issue as follows: “Did the lower court err by importing a standard of care into an assumpsit cause of action?” Brief for Appellants at 3. The Hoyers assert that the court below should have found that Frazee breached his contract with the Hoyers and that Frazee’s certificate of title was a guarantee that the Hoyers would receive forty-five acres. Further, the Hoyers contend that the lower court should not have used a standard of care analysis in a contract case.
+Initially, we note that the Hoyers’ complaint alleges breach of contract and negligence on the part of their attorney Frazee. Nevertheless, it was not error for the judge below to adopt a standard of care analysis. We recognize that there are cases in which a plaintiff could assert two distinct causes of action against an attorney, one in contract and one in tort. In Duke & Company v. Anderson, 275 Pa.Super. 65, 418 A.2d 613 (1980), a panel of this court noted that an aggrieved client has a choice:
+either to sue the attorney in assumpsit, on the theory that the attorney by failing to follow specific instructions committed a breach of contract; or to sue the attorney in trespass, on the theory that the attorney failed to exercise the standard of care that he was obliged to exercise.
+Id., 275 Pa.Superior Ct. at 70, 418 A.2d at 616.
+In the instant case, the Hoyers’ complaint contains both a breach of contract count and a negligence count. Nevertheless, we believe that the assumpsit claim, like the negligence claim, is based on the appellants’ averment that their attorney failed to exercise the requisite duty of care toward them. The Hoyers did not allege that the appellees failed to follow specific instructions. See Duke & Company, supra. Appellants also did not aver a breach of a specific provision of their contract with appellees. Thus, we do not believe that the first count of the Hoyers’ complaint states a true contract cause of action. Rather, the entire complaint sounds in negligence; that is, the appellees failed to exercise the appropriate standard of care. The essence of the Hoyers’ complaint is that Frazee was negligent and that his negligence was a breach of his contract with them. It was, therefore, appropriate to consider whether Frazee’s conduct breached the standard of care owed the Hoyers.
+The Hoyers maintain that Frazee did not exercise the requisite duty of care when he failed to guarantee them forty-five acres of land. The lower court judge rejected this argument and held that an attorney is not a guarantor. The standard of care in a legal malpractice case is whether the attorney has exercised ordinary skill and knowledge. Schenkel v. Monheit, 266 Pa.Super. 396, 405 A.2d 493 (1979). The trial judge found that the Hoyers’ attorney relied on an old certified survey. The Hoyers themselves agreed to use the old survey if it was certified. The certified survey contained two errors; it did not close and it miscalculated the acreage in the parcel. The trial judge also found that the closure error was not significant, that the acreage error was not obvious, and that nothing on the face of the survey revealed the mistake in acreage. Expert testimony supported this finding, and we will not disturb it now.
+The Hoyers also claim that an attorney certifying title to real estate is negligent per se if he or she fails to protract a deed description. Appellants ask us to set a statewide standard requiring protraction of deed descriptions by attorneys certifying title to real estate. As the Hoyers concede, attorneys in Adams County do not uniformly protract deed descriptions. Under the circumstances of this case, we decline to make a broad rule requiring protraction in each and every case.
+Finally, the Hoyers contend that the lower court erred by refusing to accept evidence of the increase in value of similar acreage since the deed was transferred. Our disposition of the other issues involved in this case makes discussion of this issue unnecessary; the attorney was not negligent and calculation of damages is thus moot.
+Judgment affirmed.
+. Appellants state these issues as follows:
+A. Did the lower court err by refusing to find that the Certificate of Title certified the existence of 45 acres?
+B. Did Frazee breach his duty to the Hoyers by failing to report noted discrepancies in the chain of title?
+******
+C. Did the lower court err by failing to find breach of contract and negligence by Frazee for failure to compare the proposed deed language against the survey calls of the existing survey?
+Brief for Appellants at 3.
+. The pertinent paragraphs of the Hoyers’ complaint aver:
+17. Defendant-Frazee and Defendant-Swope & Frazee breached its contractual obligation to Plaintiffs in that Defendant-Frazee and Defendant-Swope & Frazee failed to discover that the area conveyed was less than represented and had advised Plaintiffs to accept the deed as written without a survey.
+18. Defendant-Frazee and Defendant-Swope & Frazee failed to perform properly in that they failed to discover that the description in the deed is “open-ended”, that is, the calls in the deed when surveyed and plotted do not return to the Beginning Point and does not convey any property to Plaintiffs.
+Complaint at 4.
