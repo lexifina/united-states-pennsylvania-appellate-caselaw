@@ -1,0 +1,20 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1021"
+decided: "1981-08-07"
+citations: ["295 Pa. Super. 543", "435 A.2d 907"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CERCONE, P. J., and BROSKY and HOFFMAN, JJ."]
+parties: ["Commonwealth v. Dosch, Appellant."]
+source_url: "https://static.case.law/pa-super/295/cases/0543-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 180015
+---
+
+# Commonwealth v. Dosch
+
+## Majority
+
+Order affirmed.
