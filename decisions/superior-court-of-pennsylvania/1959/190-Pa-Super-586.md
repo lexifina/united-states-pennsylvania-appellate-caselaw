@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 354"
+decided: "1959-11-11"
+citations: ["190 Pa. Super. 586"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Wright, Woodside, Ervin, and Watkins, JJ. (Gunther, J., absent)."]
+parties: ["Johnson v. B & N, Inc., Appellant."]
+source_url: "https://static.case.law/pa-super/190/cases/0586-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 745873
+cites_cases: ["106 Pa. Superior Ct. 463", "119 Pa. Superior Ct. 584", "123 A. 2d 425", "142 Pa. Superior Ct. 293", "150 Pa. Superior Ct. 653", "16 A. 2d 680", "162 A. 332", "168 Pa. Superior Ct. 430", "181 A. 370", "29 A. 2d 219", "371 Pa. 212", "375 Pa. 509", "385 Pa. 547", "79 A. 2d 123", "81 Pa. Superior Ct. 399", "88 A. 2d 720", "99 A. 2d 897"]
+---
+
+# Johnson v. B & N, Inc.
+
+## Majority (Hirt, J.,)
+
+Opinion by
+Hirt, J.,
+In the late afternoon or early evening of January 28, 1956, the plaintiff, with a Miss Williams, went to the defendant’s restaurant for dinner, and to see a style show. There were about 200 people present, which number was about the capacity of the club. Some time after they were seated plaintiff and her companion decided to check their coats and Miss Williams took the two coats to the check room for that purpose. There, according to her testimony, the check room was filled with coats; that the attendant, referred to as Patty, told her that there were no more checks, but that she knew both Miss Williams and the plaintiff, and for that reason would accept the coats without giving checks for their later identification when claimed. When the two women were ready to leave, there was no attendant at the cheek room. This was a small room, open to the restaurant, except for a “half gate” across the doorway. Patty appeared later and delivered Miss Williams’ coat to her, but was unable to find the plaintiff’s Persian Lamb coat. Plaintiff reported the loss of the coat to the manager of the club and to the police, but it was never recovered. In this action to recover the value of the coat, tried before a judge without a jury, the finding was for the plaintiff in the sum of $500. The lower court on entering judgment on tlie finding, discharged the defendant’s rules for judgment n.o.v. and for a new trial; hence this appeal.
+Check room service was an incident of the defendant’s business and was necessary for the accommodation of its patrons. And the authority of Patty, the check room attendant, to accept plaintiff’s coat, without giving her a check, must be implied from the circumstances. Robertson O. & C. Co. v. Rothey, 106 Pa. Superior Ct. 463, 162 A. 332. When a case is tried before a judge without a jury every finding of the trial judge — even a general finding — has the force and effect of a verdict of the jury, if supported by the evidence. Jann v. Linton’s Lunch, 150 Pa. Superior Ct. 653, 29 A. 2d 219; Robinson Elec. Co. v. Capital Truck Corp., 168 Pa. Superior Ct. 430, 79 A. 2d 123. And in the light of the finding of the trial judge in the present case, supported as it is by the evidence, we must take it that a bailment for hire resulted — in reality a mutual benefit bailment — notwithstanding the plaintiff paid nothing for the service. O’Malley v. Penn Athletic Club, 119 Pa. Superior Ct. 584, 181 A. 370. The defense was that the coat was never delivered to the check room attendant. But the question of credibility raised by that issue — a question for the trial judge — was. resolved in plaintiff’s favor. When the bailment was established, coupled with a demand for the return of the coat and the defendant’s failure to produce it, the burden of proving the loss through the defendant’s negligence remained with the plaintiff in this case. Moss v. Bailey Sales & Service, Inc., 385 Pa. 547, 123 A. 2d 425. Cf. Schell v. Miller N. Broad Storage Co., 142 Pa. Superior Ct. 293, 16 A. 2d 680. That burden was met.
+Under the findings, the plaintiff is entitled to the most favorable inferences from the testimony and the defendant is chargeable with negligence under the circumstances. In accordance with the duties of her employment Patty served the defendant as a hostess in the restaurant as well as the only check room attendant at the time. Plaintiff’s evidence was to the effect that during dinner, Patty was seen moving about the restaurant and that when plaintiff and her friend came to the check room to claim their coats, no attendant was there. On this evidence the trial judge properly concluded: “The evidence was clear and precise that the cloak room attendant was absent therefrom at times, leaving it and its contents unguarded and an easy prey to the covetous eyes of a purloiner, an early departing patron perhaps or one entering, taking the coat and leaving unseen.” The defendant in this instance failed to exercise ordinary care as bailee of the plaintiff’s coat, and accordingly was liable for the loss. O'Malley v. Penn Athletic Club, supra.
+The cases relied on by the defendant (Toole v. Miller, 375 Pa. 509, 99 A. 2d 897; Anderson v. Murdoch S. & T. Co., Inc., 371 Pa. 212, 88 A. 2d 720 and Moss v. Bailey Sales & Service, Inc., supra) are clearly distinguishable in that negligence was not proven in any of them.
+The value of plaintiff’s coat at the time of the loss was properly established by a furrier whose qualifications were not questioned. Defendant therefore may not complain as to the amount of the judgment. Altman v. Lande, 81 Pa. Superior Ct. 399.
+Judgment affirmed.
