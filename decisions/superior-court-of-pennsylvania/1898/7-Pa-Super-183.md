@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 9"
+decided: "1898-04-18"
+citations: ["7 Pa. Super. 183"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Wickham, Beaver, Reeder, Orlady, Smith and Porter, JJ."]
+parties: ["S. C. Alexander, Appellant, v. Pennsylvania Railroad Company."]
+source_url: "https://static.case.law/pa-super/7/cases/0183-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 285546
+cites_cases: ["167 Pa. 166", "167 Pa. 170", "20 Ill. 623", "25 S. W. Rep. 150", "3 Phila. 82", "5 W. N. C. 228", "71 Ill. 627"]
+---
+
+# Alexander v. Pennsylvania Railroad
+
+## Majority (Smith, J.,)
+
+Opinion by
+Smith, J.,
+On the afternoon of November 16,1895, the plaintiff shipped two carloads of cattle at Dublin, Va., consigned to himself at Landisburg, Pa. In transit they passed over five railroads, one of which was that of the defendant. They reached the defendant’s road at Marysville, November 18, at 5:35 p. M., and within twenty minutes thereafter were received by the defendant’s freight agent. It was not shown when they were forwarded from Marysville, and it does not appear that they reached Duncannon, seven miles distant, until about seven o’clock on the morning of the 19th. Thence they were forwarded to Landisburg by the Perry County railroad, arriving at about eleven o’clock a. m. From having been kept in the cars so long they had fallen off materially in condition. The plaintiff, contending that this was due to the delay on the defendant’s road, brought this action for the depreciation in value.
+There were but two trains daily from Duncannon to Landisburg, the first leaving at 9:15 A. M., and the other at 4:30 p. M. Thus the cattle, having been received by the defendant after the departure of the latter train on November 18, could not be forwarded from Duncannon, -on- a regularly scheduled train, until 9:15 A. M., on the 19th. The defendant therefore contends that it was immaterial whether they were kept meanwhile at Marysville or at Duncannon, and hence that the delay in forwarding them was not negligence.
+While there seems to have been no direct adjudication of the question thus raised, the principles on winch it is to be determined are well settled, and there is no difficulty in their application. A common carrier is bound to exercise reasonable diligence in forwarding freight, having regard to its character, and his facilities for transportation. That a connecting carrier, to whom it is to be transferred, may be unprepared to continue the transportation with due promptness, does not excuse a neglect to observe such diligence. The obligation of the first carrier is in no sense contingent on the readiness or ability of the second to act in the premises. It is for him to discharge his own obligation, as it arises, and he cannot be relieved from failure therein by any default of the other. Whether by special contract his obligation in this respect could be made to depend on the train schedules of a connecting carrier, is not a question here. In the present case, therefore, it was the defendant’s duty to forward the plaintiff’s cattle from Marysville to Duncannon with reasonable dispatch, irrespective of conditions that might affect their transit from Duncannon to Landisburg. This done, its obligation as a carrier would cease, and its duty thereafter would become that of a warehouseman or forwarder. Consequently, unless there were other reasons for delay than the lack of a close connection between the roads, a failure by the defendant to forward the cattle with due promptness from Marysville to Duncannon was a breach of its duty as carrier. >
+It appears that the cattle were received at Bridgeport, on the Northern Central railroad, at 2:25 p.m., November 18th, and reached Marysville seven miles distant, at 5:35. Nothing was shown as to the defendant’s facilities for moving them, nor was it explained why they could not have been carried seven miles farther before seven o’clock next morning. As to the defendant’s ability or inability to forward them more promptly, nothing is to be assumed; and since there is no fixed standard by which the defendant’s duty under the circumstances is to be measured, it cannot be declared as a matter of law. Taking into account the defendant’s means of transportation, compared ' with the volume and nature of the business reasonably to be expected, the number and character of the trains on its road, and all the conditions affecting its operations, whether the plaintiff’s cattle were forwarded with reasonable dispatch, and if not so forwarded, whether injury arose from default in transportation, or in the mode of keeping them while in the defendant’s care, were questions for determination by a jury.
+It further appears that on the evening of November 18th, until eleven o’clock, a locomotive was kept in readiness to proceed from Landisburg to Duncannon, for the purpose of taking the plaintiff’s cattle from the latter place to their destination; but that, intelligence of their nonarrival at Duncannon having been received by telephone, the locomotive was not sent. This, however, was not known to the defendant. Nevertheless, had the cattle been sent from Marysville with the same despatch as from Bridgeport, — which would seem no more than reasonable diligence, — they would apparently have reached the plaintiff that evening.
+During the trial, some references were made, by counsel, and by the court, to a paper alleged to be a written contract between the parties relative to the shipment of the cattle; but as this does not appear to have been offered in evidence, and is not printed in the paper-books, we cannot consider its effect.
+Judgment reversed, and procedendo awarded.
