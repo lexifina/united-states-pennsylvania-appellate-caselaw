@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 87"
+decided: "1944-12-13"
+citations: ["156 Pa. Super. 264"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Baldrige, Rhodes, Hirt, Reno and James, JJ."]
+parties: ["McConomy Tax Assessment Case."]
+source_url: "https://static.case.law/pa-super/156/cases/0264-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1058350
+cites_cases: ["127 A. 441", "147 Pa. Superior Ct. 385", "186 A. 105", "193 A. 645", "236 Pa. 97", "24 A. 2d 109", "282 Pa. 69", "284 U. S. 23", "323 Pa. 185", "327 Pa. 190", "350 Pa. 421", "39 A. 2d 601", "84 A. 761"]
+---
+
+# McConomy Tax Assessment Case
+
+## Majority (Hirt, J.,)
+
+Opinion by
+Hirt, J.,
+This is an appeal from tbe city assessment of land in Lancaster for the triennium beginning with 1943. The vacant lot in question has a frontage of slightly more than 27 feet on North Queen Street and a uniform depth eastwardly of 247 feet to an alley known as North Christian Street. The property, an asset of Parmer’s Trust Company of Lancaster, had been on the market for almost ten years. It was finally offered at public sale by the liquidating trustee of the Trust Company in December 1941 and was bought by appellant for $20,000. He was the highest and best bidder and the sale was bona fide. At first view the wide variance between that sale price and the assessed valuation of $55,000, one year later, as affirmed by the court, gives weight to appellant’s argument that the assessment is excessive. But in considering the limited record in this case, while we agree that the assessment was above the market value of the land, we may not reduce it on other grounds.
+Under the Third Class City Law of June 23, 1931, P. L. 932, real estate assessments were on the basis of “fair public sale” values. This standard of assessment was changed by the amendment of M!ay 25, 1939, P. L. 225, §1, 53 PS 12198-2504, to the “actual value thereof” —that is, actual value as determined and limited by market value. Pennsylvania Stave Company’s Appeal, 236 Pa. 97, 84 A. 761; Suermann et al. v. Hadley, Treas., 327 Pa. 190, 203, 193 A. 645. Thus, the value of land for assessment purposes is not fixed by what a seller may have to accept under the circumstances of a forced sale, but what a purchaser, not obliged to buy, would pay to an owner not obliged to sell, “taking into consideration all uses to which the property is adapted and might in reason be applied”: Appeal of Penna. Co. for Ins. on L. & G. Annuities, 282 Pa. 69, 127 A. 441. The land in question is used as a parking lot for automobiles and there is no evidence that it could be profitably applied to any other use unless improved.
+Especially in periods of generally falling real estate values, assessors may not comply with the letter of the law by reducing assessments to actual market values to keep pace with the recession. But their failure in that respect, ordinarily, will not in itself work a reduction in the assessment of one property if the same standard of valuation has been applied to all. A uniformly high assessment above market values cannot be sustained if it is the means of evading a statutory requirement that the levy, in terms of millage based on actual values, be kept within stated limits. Cf. 1931 Act, 53 PS 12198-2551. But otherwise a tax payer is not usually harmed by a too-high valuation if the over-assessment is general throughout the city and is uniformly determined, by applying the same standard of measuring value. A corresponding reduction in the millage will fix the tax payer’s proportionate fair share of the cost of government at the same amount as a higher millage based on market value. The rule therefore is that between the standard of actual or market value and the uniformity required by law, the latter is to be given effect “as the just and ultimate purpose of the law”: Cumberland Coal Co. v. Board of Revision, Etc., 284 U. S. 23, Allentown’s Appeals, 147 Pa. Superior Ct. 385, 24 A. 2d 109. This rule has been recognized in the 1939 amendment, supra, which in effect provides that “selling price, estimated [i. e. market value] or actual” shall not be controlling, in the interest of uniformity of assesment “to accomplish equalization with other similar property within the taxing district.” •
+The prima facie case made out by the assessment in this case (Pennsylvania. Stave Company’s Appeal, supra,) was rebutted by appellant’s two well qualified witnesses who testified that the market value of the property was no more than $25,000. But the city supported the assessment by competent testimony that land value was at the rate of $2,000 a foot front. And it was a fair inference, as found by the hearing judge, that real estate throughout the neighborhood of this property was so assessed, with additions for the value of buildings or other improvements — in this instance $750 for the asphalt paving covering the entire surface of the lot. The lower court sustained the assessment on the ground of uniformity. Where there is testimony on disputed issues, the conclusion of the lower court is entitled to great weight and is controlling on appeal where the findings are supported by sufficient evidence. Park Tax Assessment Case, 350 Pa. 421, 39 A. 2d 601. Such findings will not be disturbed unless there is error in the ultimate determination. P. & R. C. & I. Co. v. North’d Co. Com’rs., 323 Pa. 185, 186 A. 105.
+On the record in this appeal we are not justified in reducing the assessment.
+Order affirmed at appellant’s costs.
