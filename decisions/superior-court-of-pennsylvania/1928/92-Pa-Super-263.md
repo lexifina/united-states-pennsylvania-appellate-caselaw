@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 75"
+decided: "1928-03-02"
+citations: ["92 Pa. Super. 263"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, P. J., Henderson, Trexler, Keller, Linn, Gawthrop and Cunningham, JJ."]
+parties: ["Miller, now to the use of The Pennsylvania Trust Company, Appellant, v. Bucks et al."]
+source_url: "https://static.case.law/pa-super/92/cases/0263-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 676253
+cites_cases: ["1 Pa. 493", "104 Pa. 64", "155 Pa. 613", "162 Pa. 348", "162 Pa. 443", "235 Pa. 110", "269 Pa. 261", "3 Pa. 79", "31 Pa. 293", "34 Pa. 191", "4 Pa. 123", "45 Pa. 172", "48 Pa. 96", "49 Pa. 353", "49 Pa. 9", "57 Pa. 126", "7 W. & S. 335", "83 Pa. 211"]
+---
+
+# Miller ex rel. Pennsylvania Trust Co. v. Bucks
+
+## Majority (Keller, J.,)
+
+Opinion by
+Keller, J.,
+The decision of the question involved in this appeal depends, in our opinion, on the effect to be given the words in the deed from Mrs. Miller and husband to Bucks and Ilg reciting the consideration for the conveyance, viz., “In consideration of the sum of $1,000; subject to a purchase money mortgage of $4,000, of even date herewith in favor of Agnes D. Miller,” Unless this amounts to a charge in the deed in favor of Mrs. Miller, which was not affected by the failure to record the purchase money mortgage within thirty days after its execution, (Act of May 28, 1915, P. L. 631), the appellee’s judgment takes precedence over it: Foster’s App., 3 Pa. 79; Friedley v. Hamilton, 17 S. & R. 70; Semple v. Burd, 7 S. & R. 286.
+The decisions are clear that a mere recital in a deed that part of the purchase money remains unpaid does not of itself create a lien: Hiester v. Green, 48 Pa. 96; Heist v. Baker, 49 Pa. 9.
+On the other hand if part of the purchase money is expressly charged in the deed, the charge creates a lien on the land so conveyed prior to the lien of any judgments thereafter recovered against the vendee: Neas’ App., 31 Pa. 293; Heist v. Baker, supra, p. 14; Blank v. Kline, 155 Pa. 613, 618; Strauss’ App., 49 Pa. 353. And this is SO' irrespective of whether the deed is recorded when the judgment is obtained or not; for the judgment binds only the debtor’s interest in the land, and if this be subject to a charge in the conveyance creating it, the lien of the judgment is likewise subject to the charge. A judgment creditor is not a purchaser of an interest in his debtor’s land: Cover v. Black, 1 Pa. 493; Davey v. Ruffell, 162 Pa. 443; Beman Thomas Co. v. White, 269 Pa. 261, 264.
+It was held in Strauss ’ App., supra, that the words “subject to the payment of” etc., were sufficient to constitute such a charge. To the same effect, see Heist v. Baker, supra; Rohn v. Odenwelder, 162 Pa. 348; Eichelberger v. Gitt, 104 Pa. 64, 72. Hence it follows that if the vendor had been content to charge the unpaid purchase money, $4,000, in the deed, without taking a purchase money mortgage as additional security, she would have been entitled to priority over appellee’s judgment on any judicial sale which discharged them both. Does the fact that she also took a purchase money mortgage, which is recited in the charge change the situation? We think not. The charge did not merge in the mortgage immediately on the latter’s contemporaneous execution: DeHaven v. Bartholomew, 57 Pa. 126, 128; Pierce v. Gardner, 83 Pa. 211, 214; for if such had been the intention there could be no purpose in inserting the charge in the deed, only to have it annulled at once by the delivery of the contemporaneously executed mortgage. The transaction, as put into effect, gave the vendor two securities for the unpaid purchase money: The one, a mortgage, limited in priority by statute to thirty days, within which time it must be recorded to retain its priority; the other, a charge, created in the very conveyance which was the source of the vendee’s title, and not affected, as respects judgment creditors, (Beman Thomas Co. v. White, supra, p. 264, by the recording of, or failure to record, either deed or mortgage. The principle is somewhat like that governing a debt secured by mortgage and judgment bond. If the bond is entered subsequently to the mortgage its lien relates back to the mortgage, and an execution issued on the judgment discharges the mortgage: Keene Home v. Startzell, 235 Pa. 110; but neither invalidates the other, and a failure to revive the judgment on the bond within five years has no effect at all on the mortgage. Plere, in like manner, the lien of the purchase money mortgage, when recorded, related back to the charge in the deed, to the extent that the sale under the mortgage discharged the charge; and the charge was not invalidated by the failure to record the mortgage.
+We are of opinion that the failure to record the purchase money mortgage until after appellee’s judgment was entered, while it postponed the mortgage, qua mortgage, to the previously entered judgment, had no effect on the charge in the deed itself for the unpaid purchase money, for which the mortgage was given; and that, as determined by the auditor, the charge was entitled to payment out of the fund realized by the sale on the mortgage before-appellee’s judgment.
+The assignments of error are sustained. The decree of the court below is reversed and the record is remitted with directions to make distribution in accordance with the schedule contained in the first report of the auditor, filed February 18, 1926. Costs subsequent thereto and on this appeal to be paid by the appellee, Reading Investment Company.
