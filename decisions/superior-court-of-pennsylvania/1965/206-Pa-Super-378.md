@@ -1,0 +1,41 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 561"
+decided: "1965-03-18"
+citations: ["206 Pa. Super. 378"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, P. J., Wright, Watkins, Montgomery, Flood, Jacobs, and Hofeman, JJ."]
+parties: ["Fleisher v. Kaufman, Appellant."]
+source_url: "https://static.case.law/pa-super/206/cases/0378-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 773151
+cites_cases: ["104 Pa. 1", "112 A. 2d 625", "151 A. 2d 805", "190 Pa. Superior Ct. 11", "191 A. 2d 848", "198 A. 2d 342", "201 A. 2d 247", "201 Pa. Superior Ct. 216", "202 Pa. Superior Ct. 517", "204 Pa. Superior Ct. 36", "381 Pa. 223"]
+---
+
+# Fleisher v. Kaufman
+
+## Majority (Flood, J.,)
+
+Opinion by
+Flood, J.,
+On April 24, 1964, the plaintiff, Mercer Fleisher, obtained an award in a personal injury suit, referred to compulsory arbitration under the Act of June 16, 1836, P. L. 715, as amended, January 14, 1952, P. L. (1951) 2087, and June 20, 1957, P. L. 336, §1, 5 PS §30. On April 27, 1964, the plaintiff’s bill of costs in the amount of |43.75 was filed and served on the defendant but was improperly captioned as of “March Term, 1964” instead of “March Term, 1963”. On April 30, 1964, the defendant filed exceptions to the bill of costs but repeated the incorrect caption “March Term, 1964” and the exceptions were not entered on the appearance docket until May 4, 1964. The plaintiff in turn filed exceptions to defendant’s exceptions as untimely, under the requirement of Philadelphia Common Pleas Rule *308(c) (followed by the County Court) that they be filed within four days of service of plaintiff’s bill of costs. No decision has been rendered by the prothonotary as to the bill of costs, or the exceptions, and the costs have not been taxed, and as we see it we do not have to decide whether the exceptions were timely filed.
+On May 6, 1964, within the twenty day limitation fixed by statute, the defendant filed an appeal from the arbitrators’ award but did not pay any of the record costs. The court below quashed defendant’s appeal, relying upon §27 of the Arbitration Act, supra, Act of June 16, 1836, P. L. 715, as amended, 5 PS §71, Rule VX-A of the County Court of Philadelphia, and our opinion in Budde v. Sandler, 204 Pa. Superior Ct. 36, 39, 201 A. 2d 247 (1964).
+The court below also pointed out that the exceptions to the bill of costs were not filed within the four day period and therefore all objections to the bill were waived. Johnson v. Lake City Borough, 201 Pa. Superior Ct. 216, 191 A. 2d 848 (1963). Whether under the circumstances the exceptions were timely filed, even though wrongly captioned, following the plaintiff’s own earlier error, we need not decide.
+The real basis of Judge O’Donnell’s decision, as we read it, is in the following excerpt from his opinion :
+“The defendant’s appeal from the Arbitration Award was quashed, not because the bill of costs filed by the plaintiff had not been paid, but because all the record costs accrued to the time of the taking of the appeal had not been paid, as required by law and the Rule of this Court, which rule in this particular, as it must, substantially follows the statute making provisions for compulsory arbitration of certain claims.”
+With this we fully agree. There is no provision for taxing the statutory fees of the prothonotary or sheriff or for exceptions to such costs in Philadelphia except by rule to show cause. Philadelphia Common Pleas Rule *308 (e). It is only items collectible through a filed bill of costs which are taxed by the prothonotary. Philadelphia Common Pleas Rule *308(a) to (d).
+The appellant has asked us to reconsider our decision in Budde v. Sandler, supra, and we have carefully re-examined that opinion in the light of appellant’s brief and the opinion of the able and experienced Judge Burch in the case of Morris v. Womble, County Court of Philadelphia, December Term, 1963, No. 178-C. Judge Burch expressed the view that the rule of Budde v. Sandler, supra, was harsh and unnecessary because the plaintiff-appellee is protected by the bond which must be filed by the appellant as security for costs, and that our decision is opposed to the beneficent purpose of the Arbitration Act to reduce court congestion since it may give rise to separate litigation by successful appellants to recover the costs so paid. It is to be noted that the hardship that Judge Burch envisions applies to the requirement as to payment of any costs, not merely witness fees and other items which are chargeable only if a bill of costs is properly filed. However, it is the act, not this Court, which laid down the rule that the party appealing “shall pay all the costs that may have accrued in such suit or action”. Act of June 16, 1836, P. L. 715, §27, II, as amended, 5 PS §71, II.
+Judge Burch’s fear as to multiplicity of suits seems unwarranted. The act specifically provides that a successful appellant may recover costs so paid. Ibid., §32, as amended (5 PS §77). However, ordinarily this need not be by a separate action as Judge Burch fears, since under §32, a successful appellant may include these costs in his bill of costs. Consequently he may issue execution for these costs without bringing a separate suit.
+We have no quarrel with the prothonotary’s memorandum quoted in the appellant’s brief, which contains the following note: “Note: Where a Bill of Costs has been filed and exceptions interposed but not taxed by the Prothonotary, such costs need not be paid at time of taking appeal.” But this extends only to costs which are collectible only if they are listed in a bill of costs timely filed. Since the appellant has neither paid the costs of the prothonotary or the sheriff nor filed a rule to. show cause why he should not do so, the appeal from the award must be quashed. The same memorandum of the prothonotary makes the distinction between, these .two types of costs clear in an earlier paragraph: “Accrued costs shall include the record costs, namely, costs paid to the Prothonotary and/or Sheriff, and costs that have been taxed as costs as reflected in a Bill of Costs to which no exceptions have been filed.”
+As was said by Stern, C. J., in the Smith Case, 381 Pa. 223, at 231, 112 A. 2d 625, at 630 (1955) : “There can be no valid objection, therefore, to the provisions of the Act of 1836, unchanged by the Act of 1952, regarding the payment of the accrued costs and the giving of a recognizance for the payment of the costs to accrue in the appellate proceedings as the condition for the allowance of an appeal from the award of the arbitrators.”
+After re-argument we re-affirm this opinion of March 18, 1965.
+Order and judgment affirmed.
+
+## Dissent (Wright, J.,)
+
+Dissenting Opinion by
+Wright, J.,
+filed March 18, 1965, and reaffirmed after reargument:
+To affirm the quashing of defendant’s appeal is, in my view, unduly harsh and entirely unnecessary. In Budde v. Sandler, 204 Pa. Superior Ct. 36, 201 A. 2d 247, I concurred only in the result. The opinion in that case has been criticized, not only in Morris v. Womble, to which the majority refers, but also in a scholarly article appearing in the current Temple Law Quarterly, Volume 38, page 159. It must be remembered that the law favors the right of appeal. See Womelsdorf v. Heifner, 104 Pa. 1; Romberger Appeal, 190 Pa. Superior Ct. 11, 151 A. 2d 805. The instant record discloses that defendant followed the customary practice under the Philadelphia Arbitration Rules, including payment of the fees of the arbitrators. Cf. Caples v. Klugman, 202 Pa. Superior Ct. 517, 198 A. 2d 342. He is now being penalized for failure to pay certain costs which, because of the filing of exceptions, had not yet been taxed. It should be noted that he did pay the costs demanded by the prothonotary, who marked on the docket “all record costs paid to date”. It should also be noted that defendant’s appeal bond covered all costs. To hold that an appeal must be quashed merely for failure to pay costs which were not taxed and hot demanded by the prothonotary, and which are in any event covered by the appeal bond, seems to me to constitute a miscarriage of justice.
