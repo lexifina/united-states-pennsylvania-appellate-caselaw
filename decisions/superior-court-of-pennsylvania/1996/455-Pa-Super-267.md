@@ -1,0 +1,93 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "00722"
+decided: "1996-12-17"
+citations: ["455 Pa. Super. 267", "687 A.2d 1163"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before HUDOCK, FORD ELLIOTT and HESTER, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Harry Burton BARNES, Jr., Appellant."]
+source_url: "https://static.case.law/pa-super/455/cases/0267-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 947351
+cites_cases: ["269 A.2d 669", "304 A.2d 131", "340 Pa.Super. 9", "394 A.2d 497", "440 Pa. 61", "451 Pa. 366", "475 Pa. 427", "482 Pa. 626"]
+---
+
+# Commonwealth v. Barnes
+
+## Majority (HESTER, Judge.)
+
+HESTER, Judge.
+Harry Burton Barnes, Jr., appeals from the April 3, 1996 order denying his motion for post-sentence relief. We affirm.
+On June 3, 1994, a jury convicted appellant of first degree murder, burglary, and arson. The portion of appellant’s trial wherein the evidence was introduced is not transcribed. However, the affidavit of probable cause for appellant’s arrest warrant indicates the following. On August 29, 1990, Lelitia A. Reynolds was found dead in her residence in Hickory Township, Lawrence County. A neighbor discovered the body at 9:00 p.m., and the victim’s home had been set on fire. She died of strangulation and smoke inhalation. Her right hand was bound with a wire which also was wrapped around her throat. An investigation revealed that a petroleum-based accelerant had been used to set the fire, and it was discovered throughout the home as well as on the victim’s body. Ms. Reynolds was alive when the fire was started. When firemen came to extinguish the fire, the front door had been kicked open.
+Mrs. Reynolds’ children determined that her purse, car keys, and check book had been stolen. Appellant was interviewed by police and admitted being in the home but said that he came upon the house after it was on fire, went inside to look for people, and left when he could not find anyone. Boot prints consistent with shoes appellant was wearing at the time of the interview were discovered in Mrs. Reynolds’ home. At the time of the incident, appellant was on parole, and he had committed nine other burglaries.
+In this case, the Commonwealth sought the death penalty. Accordingly, after the jury returned its verdict of guilty as to first degree murder, the death penalty phase of the trial was set to occur on June 4,1994. Fearful that the Commonwealth would be successful in obtaining the death penalty, appellant elected to forego his rights to file any motions for post-trial relief, including his right to file post-sentencing motions, appeal to any higher courts, and to seek federal habeas corpus relief. In return, the Commonwealth agreed not to seek the death penalty.
+A colloquy was held June 4, 1994, wherein these decisions were discussed, and appellant was sentenced. The transcript of that hearing indicates the following. Appellant’s counsel said that after negotiations with the prosecution, the defense and the Commonwealth arrived at an agreement. The agreement was, “In exchange for the Commonwealth not seeking the death penalty in this case and this Court sentencing my client to life imprisonment on the charge of first degree murder and as well as the Court sentencing my client at the Court’s discretion [on the remaining charges] ... my client will waive ... any rights that he may have to file post-trial motions, including the right to raise any pre-trial error or post-verdict error.” Notes of Testimony (“N.T.”) 6/4/94, at 2.
+Appellant also agreed to relinquish “the right to file any further appeal to the Superior or' Supreme Courts of the Commonwealth of Pennsylvania [and] he will waive any right he may have to file for habeas corpus relief in the federal courts----” Id. at 2-3. Counsel then stated that he wanted to ask appellant some questions about his understanding of this agreement and “to determine that it is being voluntarily entered into by him.” Id. at 3. A colloquy ensued.
+Appellant indicated that he can read, write, and understand English and that he understood the proceedings. He said that he had not consumed any alcohol or drugs, legal or illegal, which would have interfered with his ability to undei’stand the proceedings. Appellant next indicated that he understood that the jury had convicted him of one count of first degree murder, two counts of arson, and one count of burglary, and that the proceedings were at the point where the death penalty phase could be entered.
+Appellant said that before the death penalty proceedings started, appellant and defense counsel discussed the possibility of entering into an agreement wherein the Commonwealth would agree to a penalty of life imprisonment instead of death in exchange for which appellant would waive his appellate rights. The following exchange then occurred on the record between defense counsel and appellant:
+Q And you understand that that proposal will be in exchange for their agreeing that the judge sentence you to life in prison on the charge of first degree murder, that you’re going to give up your right to file post-trial motions in this matter?
+A Yes.
+Q Do you understand that?
+A Yes.
+Q And by post-trial motions, do you understand that I am including your right to challenge pre-trial error, trial error, and post-verdict error?
+A Yes.
+Q You also understand that in exchange for what the Commonwealth is agreeable to, you will give up any right to file any appeal to the Superior or the Supreme Court of Pennsylvania?
+A Yes.
+Q Do you understand also, Harry, that you will be giving up your right to file a federal habeas corpus petition challenging your convictions on the charges of first degree murder, burglary or arson or any of the pre-trial or post-verdict complaints that you might have? Do you understand that?
+A Yes.
+Q Now, the Court, Harry, is going to sentence you — the agreement is that the sentence will be life imprisonment on first degree, it will be up to the judge as to the sentences on burglary and one count of arson. Do you understand that?
+A Yes.
+Q Have I explained to you, Harry, that the maximum penalty for burglary is 10 to 20 years and up to a $25,000 fine?
+A Yes.
+Q And have I explained to you that the maximum penalty for arson is 10 to 20 years and up to a $25,000 fine?
+A Yes.
+Q Now, Harry, you also understand, or do you understand that as a result of your conviction, that you will no doubt face some sort of action by the board of — the Pennsylvania Board of Probation and Parole regarding your existing parole status?
+A Yes.
+Q That that may order an additional period of incarceration as a result of those convictions?
+A Yes.
+Q Harry, are you satisfied with my representation of you in this matter?
+A Yes.
+Q Have I been your lawyer since nearly the inception of these charges against you?
+A Yes.
+Q And you are satisfied with what I’ve done for you in this matter to date?
+A Yes.
+Q Do you understand the agreement that I have asked you about and have put on the record?
+A Yes.
+Q Do you agree to it, Harry?
+A Yes.
+Q Do you understand the agreement?
+A Yes.
+Q Are you voluntarily agreeing to it?
+A Yes.
+Q Has anybody made any threats to you to make you enter into this agreement?
+A No.
+Q Has anybody coerced you in any way?
+A No.
+Q Have any promises been made to you other than those promises set forth in the agreement, particularly that the Commonwealth will agree to a penalty of life imprisonment and not the death penalty?
+A No.
+Q Are you answers today truthful?
+A Yes.
+Q Do you understand that you’re bound by your answers today because you have indicated that they’re truthful and you can’t later say that you didn’t mean your answers and that they weren’t the truth?
+A Yes.
+Id. at 6-9. The prosecutor explained appellant’s federal habeas corpus rights and appellant indicated that he understood that he was relinquishing those rights. Next, defense counsel indicated that appellant suffers from diabetes and asked appellant, “Is there anything in your health condition today that interferes with your ability to understand what’s taking place today?” Id. at 12. Appellant responded, “No.” Id.
+Appellant’s general educational background was explored as well as his mental health. Appellant indicated that he suffers from migraine headaches and said that he had one at the proceeding. The following colloquy then ensued:
+Q Have you had any migraine headaches since this trial began?
+A I have one right now, sir.
+Q You have one now?
+A But it’s not affecting anything, I understand perfectly.
+Q Is there much pain associated with your migraine?
+A Quite a bit, but I can continue with no problem.
+Q Are you hearing and understanding what’s going on?
+A Yes, sir.
+Id. at 16. Appellant then indicated that he had refused to eat lunch but that did not affect his ability to think or understand.
+Then, appellant’s appellate rights were explained as well as the Commonwealth’s proof required in order to successfully seek the death penalty. Id. at 17-19. Appellant also was informed that he was losing his right to complain of any error which had occurred in the proceedings by entering the agreement. The trial court then asked appellant, “Is this what you want to do?” Id. at 24. Appellant responded that he did not want to die. Appellant was sentenced to life imprisonment with a consecutive sentence of fifteen to thirty years imprisonment.
+After sentence was imposed, the court explained that appellant had ten days to file post-sentencing motions and thirty days after those motions were denied to file an appeal. The court also indicated that those rights had been waived by the agreement.
+Appellant nonetheless filed post-trial motions which were untimely by one day. When those motions were denied due to untimeliness, appellant appealed, and we reversed. On April 6, 1995, a hearing was held. Post-trial motions then were denied based on the trial court’s conclusion that appellant knowingly and voluntarily waived his post-sentencing and appellate rights. This appeal followed.
+Appellant presents two challenges to the denial of his post-trial motions. He contends that the agreement was invalid under the reasoning of Commonwealth v. Falcone, 440 Pa. 61, 269 A.2d 669 (1970), and Commonwealth v. Floyd, 451 Pa. 366, 304 A.2d 131 (1973). In Falcone, the defendant knew of his right to appeal a first degree murder conviction but did not do so out of fear that he might receive a sentence of death if a new trial were awarded, and his trial counsel indicated that he did not believe that a death penalty was a reasonable possibility in that case. Under those circumstances, the Supreme Court concluded that the defendant had not voluntarily, knowingly, and understandingly relinquished his appellate rights. In Floyd, the defendant’s counsel informed him that he might receive the death penalty if he appealed.
+The case at issue cannot be compared to either Falcone or Floyd. Herein, appellant was about to enter the death penalty phase of his trial. Both he and counsel discussed the matter and concluded that there was a possibility that he might receive the death penalty. The Commonwealth agreed not to seek death in exchange for appellant’s relinquishment of post-trial review rights. An extensive colloquy ensued. Appellant indicated that it was his decision, after full disclosure of what rights he was relinquishing, to enter the agreement.
+In this case, appellant entered the functional equivalent of a plea of guilt. A plea of guilt that is motivated by a fear that the prosecution may obtain the death penalty is valid as long as the guilty plea is entered knowingly and voluntarily. Commonwealth v. Bhillips, 475 Pa. 427, 380 A.2d 1210 (1977). A well-reasoned decision to plead guilty in order to avoid the death penalty does not render the plea invalid. Commonwealth v. Chumley, 482 Pa. 626, 394 A.2d 497 (1978).
+In this case, it is clear that the decision was well-reasoned. Appellant just had been convicted of strangling and setting an elderly woman on fire in the course of a burglary. He faced the death penalty and had a past history of nine burglaries and three other misdemeanors. Counsel and appellant agreed that he faced the possibility of receiving the death penalty. An agreement was reached with the Commonwealth. We also note that the Commonwealth initially refused the agreement. Our review of the colloquy indicates that the agreement was reached by appellant in a knowingly, voluntary, and intelligent manner. Hence, it is valid.
+Appellant also suggests that his health, specifically the migraine headache and diabetes, rendered the June 4, 1994 agreement invalid. Again, we turn to applicable case law in the guilty plea area. In that area, a defendant is bound by the statements which he makes during his plea colloquy. Commonwealth v. Cappelli, 340 Pa.Super. 9, 489 A.2d 813 (1985)(en banc). A defendant may not assert grounds for withdrawing the plea that contradict statements made when he pled guilty. Id. Herein, appellant stated clearly that neither his diabetes nor his migraine headache affected his ability to understand the proceedings. Counsel informed appellant that he was bound by those statements, as well he is under applicable law. Therefore, the agreement to relinquish post-trial review rights is not invalid based on the fact that appellant had diabetes and had a migraine headache at the time it was entered.
+Order affirmed.
