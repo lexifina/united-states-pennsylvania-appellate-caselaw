@@ -1,0 +1,43 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 10"
+decided: "1943-04-21"
+citations: ["152 Pa. Super. 242"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Keller, P. J., Bald-rige, Stadteeld, Rhodes, Hirt and Kenworthey, J'J. (Reno, J., absent)."]
+parties: ["Commonwealth v. Hettinger, Appellant."]
+source_url: "https://static.case.law/pa-super/152/cases/0242-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1048189
+---
+
+# Commonwealth v. Hettinger
+
+## Majority (Stadteeld, J.,)
+
+Opinion by
+Stadteeld, J.,
+This is an. appeal from a summary conviction of defendant before an alderman of Reading, Berks County, who imposed a fine of $50.00 plus costs of prosecution for an alleged violation of the Carbonated Beverages and Still Drinks Law of May 14, 1925, P. L. 730, Amendatory Act of June 25, 1937, P. L. 2140, Sec. 3, Purdon Title 3.1, Sec. 765, P.P., upon an information lodged by the Pennsylvania Department of Agriculture, charging that defendant did '“......unlawfully make, manufacture, and bottle, a certain 'Carbonated beverage and still drink, to-wit: 'Green 'Spot Orangeade,’ in which a certain color, to-wit: Artificial Color (Coal Tar) was then and there used in said orange drink which then and there might tend to mislead the public by imitating and simulating the natural juice of the orange.......”
+Upon appeal to the Court of Quarter Sessions of Berks County, the case was tried de novo, before Shana-pviAN, J., who, on October 29, 1942, adjudged defendant guilty and handed down an opinion accordingly.
+From that decision an appeal was taken to this court.
+The pertinent proviso appears in Section 3 of the Amendatory Act of 25 June 1937, P. L. 2140, (30 PS 765) ais follows: “Provided, that no color ishall be used in orangeade or orange drinks which may tend to mislead the public by imitating or simulating the appearance of the natural juice of the orange.”
+Dr. Kuhlman, Chemist for the Bureau of Foods and Chemistry of the 'State Department of Agriculture, and a witness for the Commonwealth, testified that his analysis of the appellant’s beverage revealed the presence of artificial coal tar color, a combination of tar-trazine and sunset yellow, which produces an orange Color. Kuhlman also testified that appellant’s beverage contained 11.66% natural orange juice.
+A bottle containing appellant’® beverage, “'Green Spot Orangeade,” was offered in evidence as Commonwealth’s Exhibit No.i 2 for identification and admitted in evidence.
+The Commonwealtli .then introduced in evidence a bottle of pure, undiluted orange juice, marked Commonwealth’s Exhibit No. 3, for identification, for the purpose of showing a similarity between the appearance of appellant’s beverage and natural orange juice.
+Since appellant’s beverage, “Green Spot Orangeade,” admittedly contained no more than 15% orange juice, ■the 'Commonwealth introduced in evidence Commonwealth’s Exhibit No. 4 a bottle containing 15% orange juice and 85% water, without any added coloring matter, for .the purpose of showing that appellant’s beverage was colored to imitate natural orange juice.
+From a comparison of these exhibits:, .the court below made the fallowing findings of fact and conclusion's of law in its opinion: “From a different aspect, however, there is a kind of deception worked by the addition of coloring. The Commonwealth introduced in evidence a bottle of water mixed with 15% orange juice. It was pale, thin and watery in color, altogether unattractive. The Commonwealth also introduced a bottle filled with pure fruit juice. This latter bottle, when compared with defendant’s product, was barely distinguishable from it. Both alike had the golden, rich color of an orange. The addition of the color made the product look like pure orange juice and made it of course far more attractive to the customer. It is fair to conclude 'that the customer is at least deceived into thinking it is an orange drink made with water and containing far more orange juice than is actually the fact.'”
+Accordingly, (there is no doubt that appellant’s beverage imitated and simulated natural orange juice by reason of the addition of artificial color.
+The only question in the court below, and in this court is whether the addition of artificial coloring matter to appellant’s beverage tended to mislead the public.
+Appellant contends that Section 3 of the Amendatory Act of June 25, 1937, P. L. 2140 (30 PS 765) prohibiting the addition of artificial coloring matter to orangeade or orange drinks was intended to mean that artificial coloring matter may be used in orangeade, so long ais the public is not thereby deceived into believing the product to be 106% orange juice. 'This construction is too strained to merit .serious consideration. The language of the Act of Assembly is ¡so clear that he who runs may read.
+Orangeade is defined by Webster, “A drink made of orange juice and water.” The Century Dictionary: “A drink made of orange juice and water sweetened.” Orangeade is generally recognized as being pure orange juice diluted with water.i
+A reasonable, common sense construction of the statute compels the conclusion that the addition of artificial color to orangeade, which results in transforming a pale, watery beverage into one practically indistinguishable from pure orange juice, does tend to mislead the public into thinking that the beverage actually contained more orange juice than was the fact. The court below, after comparing appellant’s 'beverage with pure orange juice, found as a fact that the public would be deceived into thinking that appellant’s beverage at least contained far more than 15% orange juice.
+Appellant further contends that inasmuch os the juices of various oranges differ in color, there is no such thing as the color of the natural' juice of the orange which can serve as a standard of comparison.
+Quoting from the opinion of the court below: “The statute must be construed reasonably. The color of the spectrum known as orange is generally accepted as the characteristic color of the orange or its juice, and an imitation of 'that color will be taken by the public, at least in Pennsylvania, to indicate a drink made from ■the juice of 'the orange.”
+Appellant finally contends that the public could not be misled by the addition of artificial color to his product, isince the words, “Green Spot Orangeade— Water, 15% Orange Juice From Concentrated Juice, Sugar, Citric Acid, Artificial Color — Cacoosing Dairy, West Lawn, Pa.” are imprinted on the bottle cap. Tbis is fully answered by the court below in it® opinion from which we quote: “A® to the cap, the drinker at a public bar, fountain, counter or table never sees it. He may ;see the server remove the bottle from the ice box and rem’ove the cap and then the bottle is handed to him or its contents poured into a glass. He may possibly have an opportunity to read the label on the side of the bottle but it tells him nothing of the fruit juice content or of the presence of artificial coloring. Those essential matters are only set forth on the bottle cap which the customer hardly ever sees. Even if he knew the rules of the State Board, the coloring would lead Mm to suppose the product an unusually fine one, rich in 'the natural juice.”
+Appellant contends 'that since the bottle cap complied' with Section 6 of the Act of May 14, 19'25, P. L. 730 (30 PS 766), providing that “whenever 'artificial colors ...... are used in the manufacture of carbonated beverages or still drink® the bottle or other container shall 'be distinctly marked, labeled, or capped ‘artificially colored,’ ” there could be no tendency to mislead the public.
+'As was found by the court below that the addition of 'the coloring matter does produce a simulation of the pure orange juice, the legend on the cap- is self convicting.
+The court below correctly held that the legislature, in adopting the proviso of 1937 must be taken to have had before it and under consideration, the existing laws upon the subject. When it enacted the proviso of 1937, proMbiting the addition of artificial color if it tended to mislead the public by imitating the natural juice, the legislature was necessarily strengthening and stiffening the regulations with regard to orange drink and orangeade. It intended to enhance the protection of the public with regard to these ¡drinks beyond that obtained by the truthful labeling ¡of the cap or bottle, in accordance with the act of 1925.
+Nothing can profitably be added to the able opinion of the court below.
+Judgment affirmed at cost of appellant.
