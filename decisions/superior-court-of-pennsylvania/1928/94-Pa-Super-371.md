@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal Nos. 76 and 77"
+decided: "1928-03-02"
+citations: ["94 Pa. Super. 371"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, P. J., Henderson, Trexler, Keller, Linn, Gawthrop and Cunningham, JJ."]
+parties: ["Riddel et al., Appellants, v. Philadelphia Rapid Transit Company."]
+source_url: "https://static.case.law/pa-super/94/cases/0371-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 679870
+---
+
+# Riddel v. Company
+
+## Majority (Porter, P. J.,)
+
+Opinion by
+Porter, P. J.,
+This is an action of trespass to recover for personal injuries sustained by the minor plaintiff, alleged to have resulted from the negligent operation of a street car of the defendant company which came into collision, on the night of May 8,1924, shortly before midnight, with an automobile in which the plaintiff was riding with a friend, who was driving the vehicle. The plaintiffs recovered verdicts in the court below, but the court entered judgment in favor of the defendant, notwithstanding the verdict, which ruling is here assigned for error.
+The man who was driving the automobile at the time of the accident could not be found and was not called as a witness. 'The automobile was being driven south on 22nd 'Street toward Wharton Street, upon which there was a street car track, on which the cars of the defendant company ran in an easterly direction. The testimony of the plaintiff clearly indicated that he was of opinion that the rights of those in the automobile at the intersection of streets were superior to those of the public riding in the street cars. With regard to the circumstances of the accident he testified as follows: “We were coming south on 22nd Street, and we had Mowed our horn before we got about 50 feet away from Wharton Street and we Mowed our horn and this trolley car was letting off passengers.” The trolley car was thus discharging passengers on Wharton Street at the western intersection of 22nd Street. The plaintiff further testified that the trolley car was lighted and that he first saw it when the automobile-was about 20^, feet north of Wharton Street. The plaintiff was subsequently asked by his counsel: “Q. Where was the automobile in which you were when the trolley ear first started to cross 22nd Street? A. About the house line.” His subsequent testimony clearly indicated that when the trolley car passed in front of the automobile the latter was about 4 feet away from the first track of the street railway; the driver of the automobile then made an attempt to avoid a collision, according to the testimony of the plaintiff, by making “a hard right-hand turn to avoid the accident and he kept on going.” The street car was going in an easterly direction and this turning of the automobile to the right would carry that vehicle in a westerly direction, and if the street car had not then passed the point where their paths would intersect the result would have been a head-on collision. This clearly indicates that the street car had first reached the intersection.
+The only other witness called by plaintiff as to the circumstances attending the collision was Thomas J. Gorman, who was walking upon the south side of Wharton Street about 20 feet away from the east side of 22nd Street. This witness testified as follows: “I seen the automobile coming down 22nd Street; when I. would judge it to be about a couple of houses away from the north side of Wharton Street. I seen the trolley car standing there, taking on passengers, or letting them off, and I seen the automobile starting across Wharton Street. At the same time the trolley ear started to cross, at that moment I happened to turn around and I hears the crash and I sees the driver had banged right into the side of the car.” If this was true the rights of the street car, the public carrier, were superior to the rights of the automobile, and it was the duty of the driver of the latter to have the vehicle under such control that he could stop before coming into collision with the side of the trolley car. The testimony of this witness was clearly to the effect that the' automobile was driven into the side of the street car. The evidence presented by the plaintiff was not sufficient to warrant a finding of negligence on the part of those operating the street car. A large number of witnesses, among them city policemen and passengers on the trolley car, all seemingly disinterested, testified that the automobile was driven against the side of the trolley car near the rear end of the latter vehicle. All the witnesses on both sides testified that the street car was stopped almost immediately and that the automobile was then wedged against the side of the oar. The learned judge of the court below did not err in holding that there was not sufficient evidence of negligence on the part of the employees of the defendant and in entering judgments notwithstanding the verdict.
+The judgments are affirmed.
