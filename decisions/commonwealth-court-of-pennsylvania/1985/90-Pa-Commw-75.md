@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "3672 C.D. 1984"
+decided: "1985-06-11"
+citations: ["90 Pa. Commw. 75"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges MacPhail, Doyle and Barry, sitting as a panel of three."]
+parties: ["Kent Allen Brewer, Petitioner v. Commonwealth of Pennsylvania, Pennsylvania Board of Probation and Parole, Respondent."]
+source_url: "https://static.case.law/pa-commw/90/cases/0075-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1336228
+cites_cases: ["249 A.2d 549", "314 A.2d 842", "424 A.2d 561", "433 Pa. 328", "455 Pa. 8", "491 Pa. 549", "56 Pa. Commonwealth Ct. 32"]
+---
+
+# Brewer v. Commonwealth
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+In this rather unusual proceeding, the Centre County Public Defender Office (Centre) seeks relief from an order of our Court dated February 6, 1985 directing that office to enter an appearance on behalf of Mr. Kent Allen Brewer (Brewer) who had filed an appeal with this Court from the denial of administrative relief by the Pennsylvania Board of Probation and Parole (Board). We affirm our order of February 6, 1985 with certain modifications.
+Only a brief description of the background of this case is necessary to focus upon the narrow issue presented. Brewer was arrested while on parole in Montgomery County. The Board undertook to revoke Brewer’s parole. The Montgomery County Public Defender Office (Montgomery) represented Brewer at the revocation hearing and filed a petition for administrative review with the Board after the Board had revoked Brewer’s parole. The Board denied administrative relief. Brewer filed a petition for review pro se with this Court, appealing the Board’s action.
+At all pertinent times in the proceedings up to this point, Brewer was incarcerated in the State Correctional Institution at Graterford. When Brewer’s appeal was filed, this Court appointed Montgomery to represent him. Shortly after that order was entered, Brewer was transferred to the State Correctional Institute at Rockview in Centre County. Montgomery filed an amended petition for review on Brewer’s behalf on January 4, 1985.
+On or about February 1, 1985 Brewer filed a pro se motion with this Court asking that Centre be appointed to represent him. Our order of February 6, 1985, first referred to above, followed.
+It is well settled that Brewer, an indigent, incarcerated prisoner, is entitled to the assistance of counsel at any hearing on the revocation of parole as a technical parole violator, Commonwealth v. Tinson, 433 Pa. 328, 249 A.2d 549 (1969), at any hearing on the revocation of parole as a convicted parole violator, Commonwealth ex rel. Rambeau v. Rundle, 455 Pa. 8, 314 A.2d 842 (1973), and in the prosecution of his appeal from such decisions, Bronson v. Pennsylvania Board of Probation and Parole, 491 Pa. 549, 421 A.2d 1021 (1980). Regarding the appointment of counsel in the first two situations, we have previously resolved the issue of whether the county of conviction or the county of incarceration should provide counsel to indigent prisoners. Passaro v. Pennsylvania Board of Probation and Parole, 56 Pa. Commonwealth Ct. 32, 424 A.2d 561 (1981). In concluding that the county of incarceration should bear this responsibility, we stated:
+Implications aside, we are further and ultimately drawn to this conclusion by our primary concern for the parolee’s right to effective counsel, lest his guaranteed constitutional rights give way to convenience, protocol and economics. To this end, we must honor that alternative which attends the best interests of justice and the individual. It is patently absurd, for whatever reason, to require defense counsel to travel the width and breadth of this Commonwealth, to necessitate the transportation of parolees and the attendant security problems, and to incur wholly unnecessary expenses in time and money when those same interests can be served by the incarceration site’s public defender.
+We are certainly not unmindful of the potential economic inequities to be borne by individual counties. However, given the fundamental rights to be protected, whether they be of the parolee or the people of this Commonwealth, the long-term aggregate costs to be borne for this process will be minimized by allowing the county public defenders to do their job. Should the proposed solution reach crisis proportions, legislation in the form of direction and/or funding can provide a solution.
+56 Pa. Commonwealth Ct. at 42, 43, 424 A.2d at 565.
+Although we were concerned there only with the appointment of counsel at revocation hearings, this Court administratively lias followed the policy of appointing counsel from the county of incarceration in matters of appeal from administrative denials of relief from parole revocations. The case now before us presents the not uncommon issue of who should represent a prisoner who is transferred while his appeal is pending — the county where he was incarcerated at the time his appeal was filed and counsel was first appointed (here Montgomery) or the county of incarceration to which he is transferred (here Centre).
+We believe the rationale set forth by President Judge Crumlish in Passaro is equally applicable to the situation now before us. While our primary objective is to appoint effective counsel for the prisoner, we also must weigh the logistical and economic considerations in the choice of public defender offices. Even though Centre argues that there should be minimal contacts necessary between counsel and Brewer now that the appeal has been perfected, we believe the prisoner must have reasonable access to his counsel even during the appeal process. We hold that Centre must prosecute Brewer’s appeal.
+Order
+The order of this Court dated February 6, 1985 is affirmed in part and modified in part. The Public Defender Office of Centre County shall enter its appearancé on behalf of Kent Allen Brewer within ten (10) days from the date of this order. Leave is granted to the Public Defender Office of Centre County to file a second amended petition for review within thirty (30) days of the date of this order. Leave is granted to the Public Defender Office of Montgomery County to withdraw its appearance on behalf of Kent Allen Brewer in this proceeding.
+Our policy in this regard has been the subject of much consternation on the part of the counties where state correctional institutions are located. We recognize that the policy places an increased burden upon already heavily burdened public defender offices in such counties, but faced with the mandate by the Supreme Court that counsel must be provided and left without guidance from either that Court or the legislature as to how the mandate should be implemented, this Court undertook what we thought was a pragmatic approach to assure the effective assistance of counsel to indigent prisoners. See Passaro.
