@@ -1,0 +1,56 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeals, Nos. 1390, 1391, 1392, 1393, 1394 and 1395 C.D. 1977"
+decided: "1979-10-03"
+citations: ["46 Pa. Commw. 319"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Mencer and Craig, sitting as a panel of three."]
+parties: ["Carl Colteryahn Dairy, Inc., Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/46/cases/0319-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1902283
+cites_cases: ["10 Pa. Commonwealth Ct. 305", "158 Pa. Superior Ct. 548", "173 A.2d 680", "196 Pa. Superior Ct. 76", "21 Pa. Commonwealth Ct. 576", "309 A.2d 742", "332 U.S. 761", "347 A.2d 340", "356 Pa. 43", "36 Pa. Commonwealth Ct. 599", "388 A.2d 785", "45 A.2d 898", "50 A.2d 336"]
+---
+
+# Carl Colteryahn Dairy, Inc. v. Commonwealth
+
+## Majority (Judge Craig,)
+
+Opinion by
+Judge Craig,
+The Unemployment Compensation Board of Review (Board), reversing a referee’s decision, determined that claimants were eligible for benefits under the provisions of Section 402(a) of the Pennsylvania Unemployment Compensation Law, 43 P.S. §802(a), on the ground that, after being laid off, their failure to accept work offered to them by a prospective new employer was based on good cause.
+Carl Colteryahn Dairy, Inc., claimants’ original employer, appeals from the Board’s decision.
+Claimants were last employed by Colteryahn as driver-salesmen at a final weekly salary of approximately $275. On September 22, 1976, that employer informed claimants that because of economic pressures, their services would be terminated September 30, 1976. On that day, employer told claimants that Schneider Dairy was interested in hiring claimants in their same capacity at the same salary, beginning October 1, 1976.
+The Board’s finding that, as a prerequisite to employment with Schneider Dairy, claimants were required to take a cut in seniority and vacation time by one-half, is not wholly accurate because claimants’ own testimony indicates that their union contract provided for the half-cut in seniority. However, Schneider Dairy’s offer of employment did propose to cut claimants’ vacation entitlement for the first year of employment, allegedly not in accordance with their union contract.
+The referee and Board also found that, as a prerequisite to employment, Schneider Dairy required each claimant to sign a statement to the effect that he would not initiate any grievance against Schneider Dairy under the applicable union agreement. The record does not support this finding. The record is somewhat confusing, and our review is hampered because a copy of the waiver agreement was not submitted in evidence, but claimants’ testimony supports a finding that the waiver of the grievance proceeding was only with respect to the cut in vacation time.
+The referee held that claimants’ failure to accept employment with Schneider Dairy indicated a lack of good faith, and therefore the claimants were ineligible to receive unemployment compensation benefits for failure to accept suitable work as required by Section 402(a) of the Law.
+The Board concluded, however, that Schneider Dairy’s precondition to employment — the abrogation of claimants’ right to file a grievance — amounted to good cause for refusing employment under Section 402(a) of the Law.
+No question as to the suitability of the proffered employment with Schneider Dairy otherwise has been raised; Schneider offered similar positions at the same pay rates.
+In an unemployment compensation case, review by the Commonwealth Court of Pennsylvania is limited to questions of law and a determination of whether findings of fact are supported by substantial evidence. Gallagher v. Unemployment Compensation Board of Review, 36 Pa. Commonwealth Ct. 599, 388 A.2d 785 (1978).
+The issue before us is whether the Board erred as a matter of law in finding that the claimants had “good cause” for refusing to accept the offer of employment under the conditions proposed. "We reverse the Board’s decision.
+“Good cause” and “suitable work” represent distinct concepts and must be considered separately. Barclay White Co. v. Unemployment Compensation Board of Review, 356 Pa. 43, 50 A.2d 336 (1947), cert. denied, 332 U.S. 761.
+This Court has construed the term “good cause” to require a “substantial and reasonable ground for refusing the offered work.” Trella v. Unemployment Compensation Board of Review, 10 Pa. Commonwealth Ct. 305, 307, 309 A.2d 742, 743 (1973). In reaching a “good cause” determination, we must bear in mind that “ [presumably, an unemployed worker in a covered employment is entitled to benefits, and loses them only when he falls under the condemnation of a disqualifying provision of the act, fairly, liberally and broadly interpreted.” Sturdevant Unemployment Compensation Case, 158 Pa. Superior Ct. 548, 560, 45 A.2d 898, 904 (1946).
+In this case, the prospective employer’s proposal created the issue under the “good cause” exception to Section 402(a). Schneider’s only proffered alternative to the abrogation of the claimants’ right to utilize the union’s grievance procedure was employment as “new men” without any of their accrued union standing. Either alternative seemingly would result in claimants giving up all or a portion of their union entitlement as a precondition to accepting the proffered employment.
+Employer relies on Barclay White Co., supra, for the proposition that courts will not consider practice and procedures of collective bargaining in the determination of an employee’s eligibility for unemployment compensation. In that case, the court denied claimant compensation under the provisions of Section 402(a) where claimant refused an offer of “suitable ’ ’ employment on the ground that his union would expel him because the offered employment was with a nonunion plant.
+In reaching that determination, the Pennsylvania Supreme Court stressed the dominant intent of the Law, as stated in Article I, Section 3, 43 P.S. §752, to provide “for the benefit of persons unemployed through no fault of their own.” (Emphasis added.) The court held that where an employee voluntarily enters into membership in his union and is unemployed because he refuses to accept a referral at wages less than those established by the union, rather than be fined, suspended or expelled from membership by the union, he is not involuntarily unemployed but rather out of work through his own choosing. Barclay White Co., supra, 356 Pa. at 50, 50 A.2d at 341.
+This case is distinguishable from Barclay White Co. in that the pre-condition to employment there affected the employee’s status with his union, while here the pre-condition interferes with the employee’s status as to the employer.
+Hence, D’Amato v. Unemployment Compensation Board of Review, 196 Pa. Superior Ct. 76, 173 A.2d 680 (1961) is controlling. In D’Amato, the court held that claimant’s failure to accept reemployment at a wage below the union pay scale — an offer in violation of the collective bargaining agreement — did not constitute “good cause” under the statute; claimant’s failure to accept the work rendered him ineligible under Section 402(a).
+Noting that the law was not designed to implement or impede collective bargaining between unions and employers, nor was it within the jurisdiction of the compensation authorities to render decisions governing violations of collective bargaining agreements, the court held :
+It logically follows that an individual who refuses employment on the grounds of violation of his union’s contract by the employer could not be entitled to benefits, as he is, in effect, involving himself in a one-man labor dispute with the employer. As a member of the union he has delegated his bargaining rights concerning wage scales to the union. Any remedial action deemed necessary for violation of the collective bargaining agreement is the sole concern of the union and its collective membership.
+D’Amato v. Unemployment Compensation Board of Review, supra, 196 Pa. Superior Ct. at 78-79, 173 A.2d at 682. See also Unemployment Compensation Board of Review v. Homsher, 21 Pa. Commonwealth Ct. 576, 347 A.2d 340 (1975).
+In this case, the issue is essentially the same; prima facie, claimants were being asked to give up a union contract right to full vacation entitlement and, at least, their union contract right to file a grievance over that matter. Alternatively, claimants could start as new men, thus relinquishing their contract right to half seniority. Either way, claimants ’ refusal to accept re-employment was based on their claim that the employer’s offer violated their union contract.
+Following D’Amato, we must conclude that a compensation proceeding is not the place to adjudicate an alleged collective bargaining agreement violation or a claimed unfair labor practice.
+This conclusion we reach with reluctance because it could encourage prospective employers to avoid industry-wide labor agreements by seeking to extract waivers from employees who are placed in difficult situations by loss of former jobs.
+However, should that occur, the remedy must be one sought by the union, not through the intervention of the compensation authorities in collective bargaining agreement implementation.
+Therefore, the Board having erred as a matter of law, we reverse its order, and find claimants ineligible for benefits under Section 402(a).
+Order
+And Now, this 3rd day of October, 1979, the orders of the Unemployment Compensation Board of Review, dated June 17, 1977, awarding benefits to claimants, are reversed.
+Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, which provides: “An employe shall be ineligible for compensation for any week — (a) [i]n which his unemployment is due to failure, without good cause, either to apply for suitable work. . . , or to accept suitable work when offered to him ... by any employer. . .
+The only pertinent passage is the testimony of the spokesman claimant, as follows:
+A: Definite, but we would only go under his employment at his, with his conditions, and that was if we didn’t sign a letter to the effect that we won’t file a grievance once we are under his employment.
+Q: What do you mean ? In regards to anything that you would file a grievance?
+A: No. The thing was that they were going against the contract, our union contract, and he was afraid of once we went out and worked for him we would file a grievance and he said he didn’t want any trouble with the union, that he wanted each and every one of us to sign the form or he didn’t want us to work for him. (Emphasis in original.)
+Lacking the written “form”, we necessarily conclude that the grievance waiver was only as to the vacation matter because the witness answered negatively when asked about a waiver of a grievance “[i]n regards to anything. . . .”
+Two of the claimants, Mr. McMahon and Mr. Pferdehirt, did not appear to testify. However, in the view we take of the applicable law, the result does not differ, as among them and the other claimants.
