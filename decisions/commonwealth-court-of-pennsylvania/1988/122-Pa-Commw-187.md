@@ -1,0 +1,40 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 2506 C.D. 1987"
+decided: "1988-12-16"
+citations: ["122 Pa. Commw. 187", "551 A.2d 648"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Craig, Barry and McGinley, sitting as a panel of three.", "Judge MacPhail did not participate in the decision in this case."]
+parties: ["Gail Borger, Appellant v. Pleasant Valley School District, Appellee."]
+source_url: "https://static.case.law/pa-commw/122/cases/0187-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1381133
+cites_cases: ["265 A.2d 799", "397 A.2d 453", "40 Pa. Commonwealth Ct. 312", "438 Pa. 460", "508 Pa. 11"]
+---
+
+# Borger v. Pleasant Valley School District
+
+## Majority (Judge Barry,)
+
+Opinion by
+Judge Barry,
+Gail Borger appeals an order of the Court of Common Pleas of Monroe County which issued a writ of mandamus directing her to collect occupational and per capita taxes levied by the Pleasant Valley School District.
+Appellant is the duly elected tax collector of Eldred Township, having last been elected to that office in the general election of 1985. The school district adopted resolutions providing for the levy, assessment and collection of an occupational tax and a per capita tax pursuant to the Local Tax Enabling Act, Act of December 31, 1965, P.L. 1257, as amended, 53 P.S. §§6901-24. In 1987, appellant refused to collect the occupational tax and the per capita tax. The school district filed an action in mandamus, seeking to compel her to collect the taxes in question. Following a hearing, the trial court issued the writ and ordered her to collect the taxes. This appeal followed.
+The remedy of mandamus will lie to compel the performance of the ministerial mandatory duty of a public official where there is clear legal right to performance and there is no adequate legal remedy. Delaware River Port Authority v. Thornburgh, 508 Pa. 11, 493 A.2d 1351 (1985). In the present case, the dispositive question concerns the duty of appellant to collect these taxes.
+Section 570 of the Second Class Township Code, Act of May 1, 1933, P.L. 103, as amended, 53 P.S. §65570 provides in pertinent part, “The tax collector of townships shall collect all county, township, school, institution district and other taxes levied by authorities empowered to levy taxes.” Appellant argues, however, that Section 10(a) of the Local Tax Enabling Act supercedes the above quoted provision. Section 10(a) provides:
+Any such political subdivision is hereby authorized to provide by ordinance or resolution for the creation of such bureaus or the appointment and compensation of such officers, clerks, collectors, and other assistants and employes, either under existing departments, or otherwise as may be deemed necessary, for the assessment and collection of taxes imposed under the authority of this act.
+53 P.S. §6910. In the resolution adopting the two taxes, the school district provided that the tax collectors of the individual townships must collect these taxes. Appellant argues that this is an appointment separate and distinct from her elected duties, from which she may resign without resigning from the elected office. Her argument has two prongs which are interrelated. Finding no merit to either argument, we will affirm.
+Appellant first relies upon Sullivan v. Peters, 438 Pa. 460, 265 A.2d 799 (1970). There, the Upper Merion School District passed an occupational privilege tax pursuant to the Local Tax Enabling Act and directed that the tax should be collected by the employers (rather than by the tax collector). Several employers filed an action in equity arguing that no authority existed to permit the school district to compel the employers to collect the tax. The Supreme Court held that Section 10 of the Local Tax Enabling Act provided such authority.
+Appellant next points to Section 2 of the Local Tax Collection Law, Act of May 25, 1945, PL. 1050, as amended, 72 P.S. §5511.2 which defines taxes as “all taxes levied and assessed by taxing districts except those levied and assessed under the authority of the act of June 25, 1947 (P.L. 1145). . . .” That act, commonly referred to as the Tax Anything Act, was repealed and replaced by the Local Tax Enabling Act. Appellant argues that' since the Tax Anything Act was the predecessor of the Local Tax Enabling Act, the definition of taxes in the Local Tax Collection Law excludes taxes enacted pursuant to the Local Tax Enabling Act. Operating on this premise, appellant thus posits that there is no duty to collect the taxes at issue in her capacity as elected tax collector and that she can be required to, do so only by appointment. We believe this argument is flawed for the following reasons.
+Sullivan, in our view is of little help to the appellant. While that opinion establishes that a political subdivision may provide for someone other than the elected tax collector to collect the taxes, there is nothing in that opinion that requires the political subdivision to appoint someone other than the elected tax collector. Furthermore, Section 10(a) of the Local Tax Enabling Act does not mandate an alternative appointment. We believe the Legislature intended this to be an option left to the discretion of the political subdivision. We therefore construe the portion of the resolution here naming the elected tax collector as the individual responsible for collection of these taxes as merely confirmatory of the statutory duty of the elected tax collector set. forth in Section 570 of the Second Class Township Code.
+The second prong of appellants argument gives no support for the appellants argument. Section 2 of the Local Tax Collection Act says only that taxes do not include any taxes adopted pursuant to the Tax Anything Act. That section does not exclude from the definition of taxes any taxes passed pursuant to the Local Tax Enabling Act. That the Tax Anything Act is the predecessor of the Local Tax Enabling Act is of no moment. The taxes here were passed pursuant to the latter and are therefore taxes as defined in the Local Tax Collection Act. Appellant in essence is asking this Court to amend the Local Tax Collection Law. We will not, however, intrude in the Legislatures domain.
+The only case which arguably would give us concern about our holding is Abington School District v. Yost, 40 Pa. Commonwealth Ct. 312, 397 A.2d 453 (1979). There, the school district attempted to take away collection duties from- the tax collector and give those duties to the district itself and a bank. In holding that the district did not have such power, we stated:
+[T]he Legislature . . . has given some school boards the power to appoint collectors for school taxes where that office is vacant, and the power to appoint collectors of delinquent taxes. These powers, and the power to fix and change compensation provided by the Local Tax Collection Act, are the extent of the authorized active involvement of school districts in local tax collection. For the rest, the collection of local taxes has been committed exclusively and in great detail to local elected tax collectors.
+Id. at 319-20, 397 A.2d at 457 (emphasis added) (footnotes omitted). Although the opinion does not specify the taxes involved, it is obvious from the holding that only real estate taxes were involved and those taxes were not passed pursuant to the Local Tax Enabling Act. For that reason, Abington School District is inapposite.
+As we are convinced that the appellant had a statutory duty as elected tax collector to collect the taxes involved here, the trial court did not err in issuing the writ of mandamus.
+Order
+Now, December 16, 1988, the order of the Court of Common Pleas of Monroe County dated October 13, 1987, at No. 1521 Civil 1987 is hereby affirmed.
+Judge MacPhail did not participate in the decision in this case.
+To confirm wbat seemed obvious, we reviewed the paper books wherein the appellees stated that the levy in question involved only real estate taxes.
