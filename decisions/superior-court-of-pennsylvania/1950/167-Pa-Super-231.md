@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 168"
+decided: "1950-07-20"
+citations: ["167 Pa. Super. 231"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, Ross and Arnold, JJ'"]
+parties: ["Wittlinger, Appellant, v. Millersville Borough et al."]
+source_url: "https://static.case.law/pa-super/167/cases/0231-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 470501
+cites_cases: ["145 Pa. Superior Ct. 77", "146 Pa. Superior Ct. 70", "147 Pa. Superior Ct. 381", "20 A. 2d 867", "22 A. 2d 61", "25 A. 2d 90"]
+---
+
+# Wittlinger v. Millersville Borough
+
+## Majority (Ross, J.,)
+
+Opinion by
+Ross, J.,
+This is a workmen’s compensation case involving injuries sustained by a volunteer fireman. The claimant has appealed from an order of the court below dismissing his appeal.from a disallowance of compensation by the referee and the board.
+On August 20, 1946, the claimant, a member of the Millersville Fire Company, was in the employ of the Borough of Millersville as a volunteer fireman. On that day, in response to a request by the president of the fire company, the claimant was assisting fellow firemen to return bleacher stands from the fire company’s premises to the Manor Township High School and while so engaged suffered injuries resulting in total disability. The stands had been borrowed from the school district by the fire company to be used by it in connection with a festival sponsored by the fire company for the purpose of raising money to assist in carrying out its functions as a volunteer fire company.
+The question involved is whether the claimant is entitled to compensation under the provisions of Section 104 of the Workmen’s Compensation Act of 1915 which, as amended by the Act of July 2, 1941, P. L. 222, 77 PS 22a, provides in part as follows: “In addition to those persons included within the definition of the word ‘employe’ as defined in Section 104 of the [Workmen’s Compensation Act of 1915] . . . there shall be included all members of volunteer fire companies or volunteer fire departments of the various cities, boroughs, incorporated towns, and townships, who shall be and are hereby declared to be ‘employes’, of such cities, boroughs', incorporated towns, townships, for all the purposes of said Act, and shall be entitled to receive compensation in ease of injuries received while actually engaged as firemen or while going to or returning from any fire which the fire companies or fire department of which they are members shall have attended, or while performing any other duties of such companies or fire department authorized by such cities, boroughs, incorporated towns and townships.” . ' '
+Members of volunteer fire companies as such were first brought under the provisions of the Workmen’s Compensation Act by the Act of May 14, 1925, P. L. 714, which provided that they were to be considered as “employes” of cities, boroughs, etc., “while actually engaged as firemen or while going to or returning from any fire which the fire companies of which they are members shall have attended”. By the amendment of June 4, 1937, P. L. 1552, this protection was extended to include injuries sustained “while performing any other duties of such companies”. This amendment was repealed by the Act of June 21, 1939, P. L. 566, and the limitations of the Act of 1925 reenacted. The amendment of 1941, supra, restores the provisions concerning the performance of “other duties” by adding the following: “or while performing any other duties of such companies or fire department authorized by such cities, boroughs, incorporated towns and townships”.
+The claimant was only a limited or provisional employe of the Borough of Millersville and was only entitled to compensation if he was accidentally injured while, as an employe, he was actually engaged as a fireman or while going to or returning from any fire, which the fire company of which he was a member attended, or while performing any other authorized duty of such company. Lees v. State Workmen’s Insurance Fund, 146 Pa. Superior Ct. 70, 22 A. 2d 61. Liability for compensation without negligence on the part of the borough can arise only by virtue of statutory enactment. An injury to be compensable must have occurred within the restricted circumstances which alone give rise to the right under the Act and courts can sustain only such compensation awards as are within the scope of liability imposed by the legislature. Shindledecker v. Borough of New Bethlehem, 145 Pa. Superior Ct. 77, 20 A. 2d 867.
+The claimant’s first contention is that at the time that he suffered injury he was “actually engaged as a fireman”. This contention, however, is ruled against him by the Shindledecker case, supra. In that case the volunteer fireman was injured while returning from a meeting which had been called to promote a convention, the purpose of which was to further the interests and promote the efficiency of volunteer fire companies, including the one to which the claimant belonged. In refusing compensation we held that at the time the claimant suffered his injury he was not “actually engaged as fireman”.
+Since he was not actually engaged as a fireman at the time he suffered his injury, the burden was on the claimant to show that at the time of his injury he was performing a “duty” of the fire company and that such duty was “authorized” by the employer. Lees v. State Workmen’s Insurance Fund, 146 Pa. Superior Ct. 70, 22 A. 2d 61, supra; Delahunty v. Lower Chichester Twp., 147 Pa. Superior Ct. 381, 25 A. 2d 90.
+The referee, affirmed by the board, held that the claimant was not performing a duty which had been authorized by the employer and there is no evidence in the record that would support a contrary finding. It is in evidence that the burgess had “permitted” the holding of the festival and that the municipal authorities had not “objected” to the holding of the affair. However, by no extension of the well established principle that the Workmen’s Compensation Act is to be liberally construed can it be said that such evidence constitutes “authorization” by the borough so as to impose liability upon it as an employer.
+Order affirmed.
