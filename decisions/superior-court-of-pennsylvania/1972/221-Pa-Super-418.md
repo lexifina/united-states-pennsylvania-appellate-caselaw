@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 186"
+decided: "1972-06-16"
+citations: ["221 Pa. Super. 418"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. J., Watkins, Jacobs, Hoffman, Spaulding, Cercone, and Packel, JJ."]
+parties: ["Commonwealth v. Thomas, Appellant."]
+source_url: "https://static.case.law/pa-super/221/cases/0418-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 800258
+cites_cases: ["269 A. 2d 709", "284 A. 2d 700", "285 A. 2d 480", "285 A. 2d 521", "290 A. 2d 62", "400 U.S. 25", "405 U.S. 987", "440 Pa. 199", "445 Pa. 558", "446 Pa. 52", "446 Pa. 61", "448 Pa. 114"]
+---
+
+# Commonwealth v. Thomas
+
+## Majority (Hoffman, J.,)
+
+Opinion by
+Hoffman, J.,
+This is an appeal from appellant’s 1971 guilty plea to possession and sale of narcotic drugs.
+Prior to the imposition of sentence, appellant was asked by the lower court if there was anything he wanted to say. The appellant then stated: “. . . As far as using drugs, I have never used drugs. I have never sold drugs.” The Court: “Now wait a minute, wait a minute. You pleaded guilty.” Appellant: “I did plead guilty, Your Honor, because I had no alternative really.” Defense Counsel: “There is no function in attacking the merits of the complaint, [sic] It has been entered. You cannot enter a plea of guilty say well, really, I am not guilty.” The Court: “Let him say his piece. Have you anything further?” Appellant: “Well, I was just going to say that at 2303 [appellant’s residence] I am buying [the house]. I have two fellows there, one of my nephews, and another fellow living with me. One of the fellows, I understand, was selling drugs. One case, I came home one night and they had a raid at the house. I was not aware that drugs were being sold from my house. That is all I have to say, Your Honor.”
+The lower court then sentenced appellant to five to ten years, pursuant to the Act of September 26, 1961, P. L. 1664, §20; August 24, 1963, P. L. 1147, §§1, 2, 35 P.S. §780-20. This statute provides in relevant part that a person convicted of a first offense for the sale of narcotics shall be sentenced “to pay a fine not exceeding five thousand dollars ($5,000.00) and to undergo imprisonment by separate or solitary confinement at labor for an indeterminate term having a minimum of five (5) years and a maximum of twenty (20) years.”
+Appellant contends that his sentencing under this statute amounts to cruel and unusual punishment because of the mandatory provisions of the act. Arguing that he has been denied his rights under the Equal Protection Clause of the Fourteenth Amendment to the United States Constitution, appellant notes that men and women are sentenced differently under the Act. A woman would not receive a minimum sentence under the act because of the provisions of the “New Muncy Act,” 61 P.S. §566. However, a man would have to receive a minimum sentence. 35 P.S. §780-20. We do not reach this issue because we find that the trial judge should not have accepted appellant’s guilty plea.
+Although counsel failed to raise the validity of appellant’s guilty plea on appeal, we consider it here because it would be “basic and fundamental error” for the lower court to accept appellant’s pleas in these circumstances. “Were we not to consider allegations of ‘basic and fundamental’ error on appeal because counsel failed to make objections at trial, we would be requiring a defendant to file a post-conviction petition alleging ineffective representation if he wished to have the alleged error considered. In such case, a post-conviction hearing would be required, possibly followed by a second appeal, thereby requiring a two-step consideration of the question which could just as easily be determined in the format of the first appeal. Such a procedure would, in our view, be wholly unwarranted and inconsistent with our desire to conserve already scarce judicial resources.” Commonwealth v. Miller, 448 Pa. 114, 290 A. 2d 62 (1972).
+In Commonwealth v. Sampson, 445 Pa. 558, 285 A. 2d 480 (1971), our Supreme Court examined thoroughly the question of a guilty plea accepted by a judge after a defendant’s statement of innocence. In that case the Court held that “it is logical and correct that if a defendant pleads guilty to a criminal charge, and in the next breath contravenes the plea by asserting facts, which, if true, would establish that he is not guilty, then his guilty plea is of no effect and should be rejected. For on its face, such a situation would show that the plea was not entered with a complete comprehension of its impact. [Citations omitted.] In other words, a defendant should not be allowed to plead ‘guilty’ from one side of his mouth and ‘not guilty’ from the other.” Commonwealth v. Sampson, supra at 562, citing Commonwealth v. Roundtree, 440 Pa. 199, 202, 269 A. 2d 709, 711 (1970).
+In North Carolina v. Alford, 400 U.S. 25, 37 (1970), the United States Supreme Court held that “[a]n individual accused of crime may voluntarily, knowingly, and understandingly consent to the imposition of a prison sentence even if he is unwilling or unable to admit his participation in the acts constituting the crime.” In Commonwealth v. Blackman, 446 Pa. 61, 285 A. 2d 521 (1971), our Supreme Court considered the Alford case, and held that even though its holding in Sampson and Roundtree might not be constitutionally required, the Court was “convinced of its wisdom.” Cf. Commonwealth v. Ware, 446 Pa. 52, 284 A. 2d 700 (1971), cert. den., 405 U.S. 987 (1972).
+In the instant case appellant’s statements clearly indicated that he was making an affirmative defense to the charges against him. The acceptance of a plea of guilty in such circumstances is not permitted under Pennsylvania law. Commonwealth v. Sampson, supra.
+For the above reasons the judgment of sentence is vacated, and appellant is granted a new trial.
+Mr. Justice Roberts in his concurring opinion in Commonwealth v. Sampson, supra, stated that “a guilty plea should not be accepted if coupled either (a) with the assertion of exculpatory facts, or (b) with a proclamatiou of innocence.” The majority in Sampson adopted a different standard, indicating that a guilty plea may be accepted when it is “coupled solely with a flat denial of responsibility,” but may not be accepted when it is “accompanied by an assertion of facts establishing an affirmative defense.”
+It is apparent, however, that the acceptance of the guilty plea in the circumstances of the instant case would be error under either standard.
