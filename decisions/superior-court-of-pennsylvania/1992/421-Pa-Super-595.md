@@ -1,0 +1,46 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "137"
+decided: "1992-11-18"
+citations: ["421 Pa. Super. 595", "618 A.2d 969"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CIRILLO, MONTEMURO and TAMILIA, JJ.", "Decision rendered prior to MONTEMUEO, J. leaving the bench."]
+parties: ["COMMONWEALTH of Pennsylvania, Appellant, v. Dominic EVOLA."]
+source_url: "https://static.case.law/pa-super/421/cases/0595-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 921932
+cites_cases: ["106 Pa.Commw. 500", "377 Pa.Super. 623", "391 Pa.Super. 449", "404 Pa.Super. 281", "518 Pa. 556", "544 A.2d 1305"]
+---
+
+# Commonwealth v. Evola
+
+## Majority (TAMILIA, Judge:)
+
+TAMILIA, Judge:
+The Commonwealth takes this appeal from the orders granting defendant/appellee Dominic Evola’s petition for early parole. The factual and procedural history of this case are as follows.
+On February 14, 1991, [the trial court] found the defendant guilty of two counts of Involuntary Manslaughter (Bills 2934 & 2989) and of Driving Under the Influence (Bill 2983) for causing the deaths of Jason Gammuto and Mark Mulhern through his reckless operation of a motor vehicle with noticeably balding tires at a high rate of speed. On May 1, [the trial court] sentenced Evola to a term of eight to twenty-three months on each count of Involuntary Manslaughter to run consecutively and to forty-eight hours on DUI to run concurrently. [The trial court] specified on the record that Evola was to be confined at a Philadelphia County prison facility. (N.T. 5/1/91, p. 50) and permitted the defendant to surrender on May 13th.
+On October 8, 1991, after receiving approval from [the trial court], defense counsel, Joseph Santaguida, Esquire, filed a Petition for Early Parole/Work Release. [The trial court] set a héaring on this petition for October 21, 1991. Before the hearing could be held, the Philadelphia County Prison System submitted an Earned Time/Good Time Parole Petition on behalf of Evola . Evola had earned a total of fifty-two days. [The trial court] then granted the petition which the Philadelphia County Prison System Population Management Unit correctly calculated to reduce the defendant’s minimum date of release on the first count of Involuntary Manslaughter, Bill No. 2984, from January 13, 1992 to November 22, 1992. The original Petition for Early Parole had therefore been mooted.
+On November 22,1991, [the trial court] permitted defense counsel to file a new Petition for Early Parole on the second charge. [The trial court] set a hearing on this petition for November 26th. On that day, [the trial court] granted the defendant’s petition and placed Evola on parole for the remainder of this sentence on the second court [sic] of Involuntary Manslaughter, Bill No. 2989.
+On December 5th, [the trial court] received the Commonwealth’s Petition to Modify and/or Vacate [the trial court’s] order granting the defendant’s early parole.
+[The trial court] denied the petition without a hearing. On December 26, the Commonwealth filed a Notice of Appeal. Pursuant to such notice, [the trial court] ordered the District Attorney of Philadelphia County to file a concise Statement of Matters Complained of on appeal in accordance with Pa.R.A.P. 1925(b). The Commonwealth filed the statement on January 22, 1992.
+(Slip Op., Richette, J., 6/8/92, pp. 1-3.)
+It is abundantly clear under Pennsylvania law that the authority to parole convicted offenders lies with both the common pleas courts and the Pennsylvania Board of Probation and Parole. “When an offender is sentenced to a maximum term of imprisonment of less than two years, the common pleas court retains authority to grant and revoke parole; when the maximum term is two years or more, authority to grant and revoke parole is vested in the Parole Board.” Commonwealth v. McDermott, 377 Pa.Super. 623, 631, 547 A.2d 1236, 1239 (1988); see also 61 Pa.S. §§ 331.17, 331.26.
+In the present case, appellee was serving consecutive sentences of eight (8) to twenty-three (23) months. At first blush, then, this case would appear to involve the trial court’s authority rather than that of the Parole Board. Pertinent statutory law, however, provides:
+Whenever the court determines that a sentence should be served consecutively to one being then imposed by the court, or to one previously imposed, the court shall indicate the minimum sentence to be served for the total of all offenses with respect to which sentence is imposed. Such minimum sentence shall not exceed one-half of the maximum sentence imposed.
+42 Pa.C.S. § 9757 (emphasis added). “Our Commonwealth Court has interpreted [section 9757] to mandate automatic aggregation of sentences once the trial court imposes a consecutive sentence. Gillespie v. Commonwealth Department of Corrections, 106 Pa.Commw. 500, 508, 527 A.2d 1061, 1065 (1987).” Commonwealth v. Ford-Bey, 404 Pa.Super. 281, 284, 590 A.2d 782, 783 (1991). This Court in Fordr-Bey adopted the rationale of Gillespie, and we continue to follow Ford-Bey today.
+Nevertheless, the trial court discounts the holdings of Gillespie and Fordr-Bey, relying instead on a discussion of state versus county incarceration. The issues of state and county incarceration, and of consecutive and aggregate sentences, operate independently of each other, and are relevant only to the extent that they indicate where the trial court diverted from its intention to its result. We do not dispute that the decision requiring a sentence to be served in a state as opposed to a county institution “is purely within the discretion of the trial judge limited only by statutes or Department of Correction regulations as to where a sentence, of particular duration ..., may be served.” Commonwealth v. Morrison, 391 Pa.Super. 449, 457, 571 A.2d 453, 457 (1990).
+The trial court, however, states:
+Even where a consecutive sentence is imposed, unless the Court specifically orders aggregation, the county sentence prevails. The Webster definition of aggregation is “to collect or gather into a mass or whole, to total.”
+The adjective “consecutive,” on the other hand, means “following one after the other in order,” “successive.”
+(Slip Op. at 4-5.) It appears the trial court sought to have appellee serve his sentence in a county institution rather than a state one, and believed that unless it “specifically order[ed] aggregation, the county sentence prevailed].” The decision to confine appellee in a county institution is always within the trial court’s discretion, where the sentence was more than two years but less than five years. 42 Pa.C.S. § 9762(2); Allegheny County v. Commonwealth, 518 Pa. 556, 544 A.2d 1305 (1988). However, aggregation of consecutive sentences was not within the trial court’s discretion, but occurred by operation of law under section 9757.
+Therefore, as the trial court’s parole Orders are contrary to the clear statutory provisions concerning the imposition of consecutive sentences, as well as the appellate decisions thereon, they are hereby vacated, and we order appellee to surrender to the custody of the Superintendent of the Philadelphia Department of Prisons for completion of each of his two eight-month minimum sentences as aggregated.
+Orders vacated; case remanded for proceedings consistent with this Opinion.
+Jurisdiction relinquished.
+Decision rendered prior to MONTEMUEO, J. leaving the bench.
+. Earned Time/Good Time is a program which allows county prisoners to earn time off their sentences in return for good behavior and/or working in the prison pursuant to Joing [sic] Regulation No. 90-7.
+. See attached Exhibit 1 which is a copy of the petition and Order submitted by Philadelphia Prison Population management Unit effectuating Mr. Evola’s release on parole on bill # 2984—Involuntary Manslaughter.
+. We note with some concern that a copy of the Philadelphia County Prison System Population Management Unit (“PPMU”) parole petition filed in appellee’s behalf is contained nowhere in the Quarter Session file for this case, nor is there any indication in the file that the petition was filed with the Clerk of Quarter Sessions, let alone properly served on the district attorney, as required. 61 Pa.S. § 314; Pa.R.Crim.P. 9023(b). Indeed, the only indication that the PPMU petition was filed is the trial court's statement in its Opinion that this occurred. Further, although the trial court in footnote 2 of its Opinion states the PPMU petition is attached thereto as Exhibit 1, such was not appended.
+. We note with some sympathy the able trial court’s position that legislation and prosecutorial discretion have increasingly limited the ability of trial courts to use their discretion in evaluating appropriate sentencing of offenders. However, we too have diminished discretion as appellate judges to consider individualized findings and are constrained by legislation and case law to follow the legislative intent.
+. In light of our finding that the aggregate sentence is one which comes under the exclusive jurisdiction of the Parole Board, it necessarily follows that the good time provisions under the Philadelphia County Prison Regulations do not apply and release is governed by Parole Regulations.
