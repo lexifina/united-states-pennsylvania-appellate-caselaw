@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 132"
+decided: "1897-07-23"
+citations: ["5 Pa. Super. 422"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Willard, Wickham, Beaver, Reeder, Orlady and Smith, JJ."]
+parties: ["Jarecki Manufacturing Company, Limited, Appellant, v. Hart Brothers and John R. Hart."]
+source_url: "https://static.case.law/pa-super/5/cases/0422-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 280017
+cites_cases: ["1 Pa. 263", "103 Pa. 114", "103 Pa. 115", "105 Pa. 49", "108 Pa. 630", "114 Pa. 596", "14 Conn. 140", "15 W. N. C. 351", "173 Pa. 428", "2 Grant, 472", "2 Phila. 354", "29 Conn. 245", "34 Pa. 299", "37 Pa. 491", "38 Pa. 217", "40 Pa. 248", "49 Pa. 147", "59 Pa. 398", "7 Pa. 89", "79 Pa. 354", "91 Pa. 96"]
+---
+
+# Jarecki Manufacturing Co. v. Hart Bros.
+
+## Majority (Smith, J.,)
+
+Opinion by
+Smith, J.,
+The appellant issued an attachment execution on a judgment against Hart Brothers and John R. Hart, and attached moneys in the possession of the Philadelphia Company, as garnishee. This money was claimed by the Oil Well Supply Company under an assignment by the defendants in the judgment, whereupon a feigned issue was formed to determine the question: “ Was the fund in the hands of the garnishee duly assigned to the Oil Well Supply Co. by the defendants before service of the attachment herein, so that the said Oil Well Supply Co. ought to be preferred to said attachment creditor, in the distribution of said money ? ” The jury rendered a verdict in favor of the plaintiff subject to a question of law reserved at the appellant’s request, to wit: “ Whether or not, the plaintiff, having a valid assignment of this claim, its rights are affected as between it and an attaching creditor, by the failure to give notice prior to the service of the attachment.” No objection was made to the form of the issue or of the reserved question ; and the assignment in good faith before the service of the attachment, was settled by the verdict of the jury. Under these circumstances there would seem to be no doubt about the correctness of the judgment-entered, on principle and authority.
+An attaching creditor necessarily claims through his debtor and can acquire no greater right than was vested in the latter at the time the writ was served upon the garnishee: Reed v. Penrose, 2 Grant, 472 ; Patten v. Wilson, 34 Pa. 299. This principle is not, as contended, limited in its purpose and application to the garnishee and for his protection only. It extends to the rights of all persons interested in the fund at the time the attaching creditor seeks to appropriate it, whether as joint owners, copartners, or assignees of the defendant debtor; and the attaching creditor’s right is subordinate to all bona fide claims existing before the writ is served. He is permitted to attach and take what may be due to his debtor, but he cannot by this proceeding affect the rights of other persons which had vested before the attachment became operative. A valid assignment of a fund cannot be set aside by attachment proceedings subsequently instituted in favor of a third party. And while want of notice of an assignment would subject the assignee to all the equities of the garnishee, should any exist, arising from a failure to give notice, the omission of notice cannot avail an attaching creditor, who pursues his legal remedy irrespective of contractual changes ; no more than notice of an assignment, fraudulent as to creditors, would defeat attachment proceedings. The rights of contending claimants are based upon the more substantial fact of a bona fide assignment of the fund for a valuable consideration before the service of the writ on the garnishee. If such a transfer be made neither notice nor the want of it can aid the attaching creditor: Pellman v. Hart, 1 Pa. 263; Noble v. Thompson Oil Co,, 79 Pa. 354.
+The effort of the appellant’s counsel to bring this case within the rule which avoids private sales of chattels without a transfer of possession or other act equivalent thereto, when assailed by execution creditors, is ingenious but not convincing. Ownership of choses in action does not involve an open visible possession which may mislead others into giving credit on the faith of it, as in the case o£ chattels, and therefore the reason for the rule invoked does not exist with regard to choses in action. The assignment of a claim against a third person is more analogous to the sale of chattels while in the possession of a bailee, and it has been uniformly held that in such cases no actual delivery or further change of possession is necessary in order to pass the title against creditors: Linton v. Butz, 7 Pa. 89; Caulfield v. Van Brunt, 173 Pa. 428. We are not called upon to consider the question, of fraud in fact which has been argued at considerable length by the appellant’s counsel; it is not a part of the reserved point, and furthermore, that question was settled by the verdict and thus eliminated from the case.
+Finding no error in the record the assignments are overruled and the judgment is affirmed.
