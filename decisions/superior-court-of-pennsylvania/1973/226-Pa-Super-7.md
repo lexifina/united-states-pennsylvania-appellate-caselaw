@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 298 and 299"
+decided: "1973-11-16"
+citations: ["226 Pa. Super. 7"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Weight, P. J., Watkins, Jacobs, Hoffman, Cercone, and Spaeth, JJ. (Spaulding, J., absent).", "Cercone and Spaeth, JJ., join in this opinion in support of reversal."]
+parties: ["Commonwealth v. Johnson, Appellant."]
+source_url: "https://static.case.law/pa-super/226/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 807749
+cites_cases: ["222 Pa. Superior Ct. 531", "290 A. 2d 417", "295 A. 2d 180", "301 A. 2d 701", "307 A. 2d 238", "309 A. 2d 784", "318 U.S. 332", "322 U.S. 65", "354 U.S. 449", "447 Pa. 389", "451 Pa. 241", "453 Pa. 547", "454 Pa. 79"]
+---
+
+# Commonwealth v. Johnson
+
+## Majority (Per Curiam, Hoffman, J.:)
+
+Opinion
+Per Curiam,
+The six judges who heard this appeal being equally divided, the judgment of sentence is affirmed.
+Opinion in Support of Reversal by
+Hoffman, J.:
+Appellant contends that the lower court erred in denying a pretrial motion to suppress statements made to the police, as the statements were the product of an unnecessary delay in taking appellant before the proper issuing authority for a preliminary arraignment.
+Appellant, Ronald Johnson, was arrested on December 12, 1971, at approximately 9:45 p.m., following an identification by the complainant. Appellant was taken to the West Detective Division in Philadelphia at about 9:55 p.m. where he was kept incommunicado until 12:15 a.m., when a series of interrogations began. Appellant remained at all times handcuffed to a metal chair in a room. He was permitted freedom of movement during the ensuing twelve hours only for purposes of consuming two meals and making two trips to the bathroom. The first interrogation lasting almost two hours resulted in a statement in which appellant denied the rape of the complainant, stating that he did attempt to have consensual intercourse with her. At about 12:30 p.m. on the day after his arrest, appellant was taken to the Police Administration Building where a polygraph test was administered. At about 3:15 p.m. appellant was informed that “he had failed the test.” Appellant then gave an incriminating statement, in which he admitted breaking into the house where the victim was babysitting, then stating that he struck the victim and forced her to participate in various sexual acts. The statement was never signed. Appellant was then returned to the police station where he remained until 6:00 p.m., ■when lie was finally brought before an issuing authority and preliminarily arraigned.
+In Commonwealth v. Futch, 447 Pa. 389, 290 A. 2d 417 (1972), our Supreme Court held that a fourteen-hour interim between the arrest and preliminary arraignment was an “unnecessary delay” contrary to Pa. R. Crim. P. 118, and that evidence obtained as a product of this delay was inadmissible. The Court stated at 392: “The Commonwealth concedes that it had ample probable cause to arrest defendant, thus there existed no necessity for additional time to ascertain whether the police did indeed have the light man .... In view of the uncontested availability of a magistrate during much of this fourteen-hour interim, the record can only support a conclusion that defendant’s lengthy custody prior to presentment before a magistrate constituted ‘unnecessary delay’ contrary to Rule 118.” The Court then reviewed the Pennsylvania law and federal standards with respect to this kind of a situation. Noting that the Pennsylvania law created a burden upon the defendant to demonstrate “actual prejudice” before evidence could be suppressed, the Supreme Court adopted the federal approach as enunciated in the McNabb-Mallory cases and in United States v. Mitchell, 322 U.S. 65 (1944). As the Court said at 394: “While this Court has never articulated precisely what constitutes ‘prejudice’ in the context of ‘unnecessary delay’ proscribed by Rule 118, we think it appropriate to follow the federal approach and exclude all evidence obtained during ‘unnecessary delay’ except that which, as in Mitchell, supra, has no reasonable relationship to the delay whatsoever.” (Emphasis added).
+Since Futch, our Supreme Court has repeatedly held inadmissible evidence obtained during a period of “unnecessary delay” between arrest and preliminary arraignment. See, Commonwealth v. Tingle, 451 Pa. 241, 301 A. 2d 701 (1973) (confession obtained during 21% hour delay); Commonwealth v. Dutton, 453 Pa. 547, 307 A. 2d 238 (1973) (confession during 26-hour delay); Commonwealth v. Wayman, 222 Pa. Superior Ct. 531, 295 A. 2d 180 (1972), rev’d, 454 Pa. 79, 309 A. 2d 784 (1973) (confession during 24-hour delay).
+In the instant case, appellant was kept incommunicado in a room handcuffed to a metal chair for approximately 15 hours. His incriminating statement was not given to the police until almost 18 hours after his arrest. His arraignment for some inexplicable reason did not come until almost 21 hours after his arrest. As in Futch, the identification of the appellant by the complainant immediately after the arrest was sufficient to permit the police to conclude that they had the right man. As the arrest took place in Philadelphia County, there can be no contention that a magistrate could not be obtained for 21 hours. In addition, this is not a case where it can be argued that the statements made by the appellant had “no reasonable relationship to the delay whatsoever.” Futch, supra at 394. Certainly, if the appellant had spontaneously made a statement immediately or soon after his arrest, there could be no relationship between the evidence and the delay. But, when, as in the instant case, 18 hours pass before the incriminating statement is given and during this time, the appellant is handcuffed and placed in a room by himself, interrogated several times for hours on end, and forced to submit to a polygraph test which results are kept secret but which are used to persuade the appellant to make a confession, there can be no doubt that the evidence is a product of the delay contrary to the Rules of Criminal Procedure. The statements taken from the appellant should have been suppressed.
+The judgment of sentence should be reversed, and appellant granted a new trial consistent with this opinion.
+Cercone and Spaeth, JJ., join in this opinion in support of reversal.
+Mallory v. United, States, 354 U.S. 449 (1957); McNabb v. United States, 318 U.S. 332 (1943).
+In Philadelphia County, magistrates are available for arraignment purposes on a 24-hour basis. Magistrates sit on a rotation basis in 8-hour shifts, at the Roundhouse at 8th and Race Streets.
