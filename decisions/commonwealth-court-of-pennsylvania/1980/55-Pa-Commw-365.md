@@ -1,0 +1,47 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2492 C.D. 1979"
+decided: "1980-12-16"
+citations: ["55 Pa. Commw. 365"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MaoPhail, Williams, Jr. and Palladino, sitting as a panel of .three."]
+parties: ["Geoffrey Hopkins, Beth Hopkins and Ken-Crest Centers, Inc. v. Zoning Hearing Board of Abington Township. Township of Abington, Appellant."]
+source_url: "https://static.case.law/pa-commw/55/cases/0365-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1915875
+cites_cases: ["17 Pa. Commonwealth Ct. 386", "332 A.2d 841", "402 A.2d 1162", "416 U.S. 1", "417 A.2d 830", "44 Pa. Commonwealth Ct. 123", "53 Pa. Commonwealth Ct. 216"]
+---
+
+# Hopkins v. Zoning Hearing Board
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+The Township of Abington (Township) has filed an appeal from the order of the Court of Common Pleas of Montgomery County reversing the denial by the Zoning Hearing Board of Abington Township (Board) of a request by Geoffrey Hopkins, Beth Hopkins, and Ken-Crest Centers, Inc. (Appellees) to add one more unrelated person in an area zoned single family residential than the zoning ordinance allows. We affirm.
+Appellees Geoffrey and Beth Hopkins purchased a house in an area zoned “T ’ ’ residential by the township zoning ordinance. Mr. and Mrs. Hopkins were assured by their real estate agent and by an unknown woman in the zoning office that they could use the house as a site for a Community Living Arrangement Program (CLA).
+A CLA is a program developed by the Commonwealth of Pennsylvania through the Department of Public Welfare. The purpose of the program is to place persons disabled by mental retardation into a family setting as nearly normal as possible and into the mainstream of society.
+Geoffrey and Beth Hopkins entered into a lease agreement with Ken-Crest Centers, Inc., a non-profit corporation providing services to Montgomery County, whereby the house would be used as a home for three mentally retarded children. Beth Hopkins was hired to serve as full-time house parent; Geoffrey Hopkins works for Ken-Crest Centers, Inc. in an area unrelated to the CLA in question.
+In January of 1979, approximately one month after the Appellees had begun the CLA program, the township zoning officer informed Appellees that their use of the property was prohibited by the zoning ordinance.
+Appellees appealed to the Zoning Hearing Board from the decision of the zoning officer. After a hearing the Board entered its decision refusing Appellees permission to continue such use.
+Appellees filed an appeal to the lower court asserting, inter alia, that the Board had arbitrarily and capriciously denied the request and that the definition of family contained in the zoning ordinance is arbitrary and unconstitutional. The lower court sustained the appeal and ordered the Township to issue a permit to Appellees for their use of the subject property as a CLA program. In reaching its decision, the lower court relied almost exclusively upon this Court’s decision in Children’s Aid Society v. Zoning Board of Adjustment, 44 Pa. Commonwealth Ct. 123, 402 A.2d 1162 (1979).
+In that case, a foster home sought a use permit as a charitable institution in a residential neighborhood; the application was in the nature of a special exception. Such an application could be granted unless the proposed use posed a threat to the public interests as set forth in the zoning ordinance. In affirming the Court of Common Pleas of Philadelphia, we held that the applicant had met its burden to show that the foster home was in harmony with the purpose of the ordinance and that a use permit should be granted. Id.
+In the instant case, Appellees sought a variance. The Township argues, and we agree, that Appellees have not sustained their burden to prove such an unnecessary hardship that a variance would be appropriate. Section 912 of the Pennsylvania Municipalities Planning Code (Code), Act of July 31, 1968, P.L. 805, .53 P.S. §10912. Children’s Aid, supra, therefore, does not control the instant case because the holding therein was that the applicants had met their burden to prove entitlement to a special exception.
+The issue presented by the instant case is whether the definition of family in the zoning ordinance is constitutionally valid as applied to Appellees. We hold that it is not.
+The definition of “family” in the ordinance is as follows:
+[o]ne (1) or more persons related by blood, adoption, or marriage, or not more than two (2) unrelated persons living and cooking together as a single housekeeping unit.
+The purpose of the definition is clearly to preserve the area in question as a residential neighborhood where family values may prosper. The power to zone is the power to regulate land use and, where there is a rational relationship between a zoning restriction and the public health, safety, morals or general welfare, such a restriction will be upheld. Here, however, the Board specifically found that, “The use by applicants of this property has not caused any problems in the area different from those caused by a family with related children. ”
+Our recent decision in Children’s Home of Easton v. City of Easton, 53 Pa. Commonwealth Ct. 216, 417 A.2d 830 (1980) controls the- instant case. In Children’s Home, a foster home agency desired to place three unrelated children and foster parents in a residential area. The definition of family in Easton’s zoning ordinance was similar to the definition herein. We held that there was no rational relationship between the restrictive definition of family and the purported state interest of controlling population density. Id.
+Here, Appellees seek to set up a family life as nearly normal as possible with the three handicapped children in their care. Appellees’ use of the property is consciously striving to mirror the residential family life that surrounds them and, in light of the Board’s finding, appears to have been successful. What we said in Children’s Home is equally valid here, i.e. “[i]n sum, the foster family in this instance would be the functional equivalent of a biologically related family.” Id. at 220, 417 A.2d at 832.
+The decision of the United States Supreme Court in Village of Belle Terre v. Boraas, 416 U.S. 1 (1974) relied upon by the township is distinguishable from the instant case. In Belle Terre, six college students sought to reside together in an area where a definition of family similar to that found herein was at issue. The Court held that the ordinance definition was constitutional. In Children’s Home, we said
+Contrary to the factual situation presented to the United States Supreme Court in Belle Terre, where six unrelated college students chose to live together for a temporary period of time as a matter of convenience, here we are concerned with a functional family unit which would promote the very values the United States Supreme Court held in Belle Terre to be worthy of preservation: 'A quiet place where yards are wide, people few, and motor vehicles restricted are legitimate guidelines in a land-use project addressed to family needs. . . . The police power is not confined to elimination of filth, stench, and unhealthy places. It is ample to lay out zones where family values, youth values, and the blessings of quiet seclusion and clean air make the area a sanctuary for people. ’ (Emphasis added.) Village of Belle Terre v. Boraas, supra, 416 U.S. at 9, 94 S. Court at 1541.
+Children’s Home of Easton v. City of Easton, supra at 220, 417 A.2d at 832-33. That same language is relevant here.
+Therefore, because we find that there is no rational relationship between the restrictive definition of family in the Township ordinance and the state interest to preserve the residential character of the neighborhood, we hold that the definition is unconstitutional as applied to Appellees.
+Order
+And Now, this 16th day of December, 1980, the order of the Court of Common Pleas of Montgomery County, dated November 15, 1979, is hereby affirmed.
+Permitted uses in a “T” residential zone include single family dwellings; certain public uses such as administrative buildings or libraries; and specified special exceptions.
+The proceedings before the Board were designated as “an appeal from the decision of the Zoning Officer.” At the hearing before the Board, however, it was clear that Appellees sought a variance.
+We note that' while the Appellees challenge the validity of the provision of the ordinance defining family only as it applies to them, the remedy of a variance is not appropriate herein. The remedy of a variance depends upon hardship that results from unique physical characteristics of the land. See, Robin Corp. v. Board of Supervisors, Lower Paxton Township, 17 Pa. Commonwealth Ct. 386, 332 A.2d 841 (1975).
+Appellees should have proceeded under Sections 910 and 1004 of the Code, 53 P.S. §10910 and §11004. However, at no stage of this proceeding has the Township challenged or objected to the procedures followed or the time when issues were raised. Given the newness of the type of challenge presented here and the lack of objection by the Township, we will decide the merits despite Appellees’ failure to invoke the proper sections of the Code.
