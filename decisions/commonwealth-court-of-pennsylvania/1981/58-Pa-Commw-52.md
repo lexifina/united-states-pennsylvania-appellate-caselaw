@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 295 C.D. 1979"
+decided: "1981-03-20"
+citations: ["58 Pa. Commw. 52"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Craig, Williams, Jr. and Palladino, sitting as a panel of three."]
+parties: ["Terry P. Lingenfelter, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/58/cases/0052-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1919446
+cites_cases: ["32 Pa. Commonwealth Ct. 462", "33 Pa. Commonwealth Ct. 610", "379 A.2d 1069", "382 A.2d 789", "400 A.2d 694", "403 A.2d 221", "404 A.2d 773", "406 A.2d 1173", "406 A.2d 1177", "409 A.2d 126", "42 Pa. Commonwealth Ct. 266", "44 Pa. Commonwealth Ct. 242", "45 Pa. Commonwealth Ct. 35", "46 Pa. Commonwealth Ct. 347", "46 Pa. Commonwealth Ct. 357", "48 Pa. Commonwealth Ct. 138"]
+---
+
+# Lingenfelter v. Commonwealth, Unemployment Compensation Board of Review
+
+## Majority (Judge Palladino,)
+
+Opinion by
+Judge Palladino,
+Petitioner appeals an order of the Unemployment Compensation Board of Review (Board) which affirmed a referee’s decision denying unemployment compensation benefits to Petitioner. We reverse the Board’s order.
+After seven weeks of employment as an assistant manager trainee at a grocery store, Petitioner was put in charge of the store during a holiday weekend. En route to depositing the store sales receipts in a bank, Petitioner was robbed. Subsequently, Petitioner was discharged from employment and applied for unemployment compensation. The Bureau of Employment Security (Bureau) determined that Petitioner was ineligible for benefits because his discharge was for willful misconduct. Section 402(e) of the Unemployment Compensation Law, Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §802(e). In affirming the Bureau’s determination, the referee found that Petitioner “was well aware of the employer’s bookkeeping and cash control procedure in regards to deposits which indicates that not more than $5,000 in cash may be deposited at any one time on a local bank depository unless police protection is afforded.” Without taking additional testimony or making additional findings, the Board affirmed the referee’s decision.
+Petitioner contests the referee’s (and by its affirmance of the referee’s decision, the Board’s) finding that the Petitioner “was well aware of’ his employer’s policy requiring police protection for bank deposits exceeding $5,000 in currency.
+In willful misconduct cases, “the employer has the burden of proving the existence of a rule....” Stevens v. Unemployment. Compensation Board of Review, 44 Pa. Commonwealth Ct. 242, 245, 403 A.2d 221, 222 (1979). In the present case testimony from Petitioner’s employer disclosed that the store’s rule regarding cash deposits was contained in a manual to which Petitioner could have obtained access. According to Petitioner’s employer, the proper cash deposit procedure, as outlined in the manual, consisted of an employee’s making deposits (1) while the store was open; (2) while in the company of another employee, and (3) with police protection for currency deposits exceeding $5,000.
+However, to establish willful misconduct, the employer must also prove that the employee “has deliberately violated its rules....” Wirfel v. Unemployment Compensation Board of Review, 46 Pa. Commonwealth Ct. 347, 349, 406 A.2d 1173, 1175 (1979) (emphasis added); Philadelphia Geriatric Center v. Unemployment Compensation Board of Review, 46 Pa. Commonwealth Ct. 357, 406 A.2d 1177 (1979). This Court has “stated on several occasions that an employee is only guilty of willful misconduct when he is, or should be, under the circumstances, conscious that his actions are inimical to the interests of his employer.” Curtis v. Unemployment Compensation Board of Review, 32 Pa. Commonwealth Ct. 462, 467, 379 A.2d 1069, 1071 (1977) (emphasis added) (citations omitted). Accordingly, this Court has held that an employee may be discharged for willful misconduct where (1) the employee has been warned to comply with his employer’s rule and has failed to do so; (2) the employer has notified the employee of his basic policy and the employee has not disputed the existence of the policy, and (3) the employer’s clear policy has been made known to all employees and the employee has not argued that he was unaware of the policy.
+In the instant case Petitioner maintained before the referee that he did not know of the existence of a manual which described the store’s cash policy and that he had never been asked to read said manual. Petitioner stated that at the time of his hiring he was not instructed with respect to the store’s cash deposit procedure. Moreover, Petitioner testified that although he had occasionally accompanied other employees who were making bank deposits for the store, he had never discussed the store’s deposit rule with any store personnel. Finally, Petitioner stated that the store manager knew thát Petitioner often made bank deposits by himself but neither reprimanded Petitioner nor advised Petitioner that store policy required Petitioner to be joined by another employee when making small deposits or to request police protection when making cash deposits exceeding $5,000. Since the only evidence presented on the issue of Petitioner’s actually having been notified of the store’s policy regarding cash deposits was Petitioner’s testimony that he was unaware of a rule mandating either police protection or the presence of a second employee, the referee’s finding (and the Board’s affirmance of the finding) that Petitioner “was well aware of the employer’s ... cash control procedure” is not supported by substantial evidence.
+Therefore, we will enter the following
+Order
+And Now, March 20, 1981, the order of the Unemployment Compensation Board of Review, Appeal No. B-78-6-A-582, Decision No. B-167741, dated January 10, 1979, is hereby reversed, and this case is remanded to the Board for a determination of benefits to be awarded to Petitioner in accordance with this opinion for the compensable weeks ending September 30, October 7, and October 14, 1978.
+Chiango v. Unemployment Compensation Board of Review, 33 Pa. Commonwealth Ct. 610, 382 A.2d 789 (1978).
+Torelli v. Unemployment Compensation Board of Review, 45 Pa. Commonwealth Ct. 35, 404 A.2d 773 (1979).
+Braxton v. Unemployment Compensation Board of Review, 42 Pa. Commonwealth Ct. 266, 400 A.2d 694 (1979).
+Because Petitioner’s employer had the burden of proof and prevailed before the Board, this Court “must determine on appeal whether an error of law has been committed and whether any necessary finding of fact is unsupported by substantial evidence in the record.” Lake v. Unemployment Compensation Board of Review, 48 Pa. Commonwealth Ct. 138, 140, 409 A.2d 126, 127 (1979) (citations omitted).
