@@ -1,0 +1,38 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 279"
+decided: "1968-03-20"
+citations: ["212 Pa. Super. Ct. 65"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, P. J., Watkins, Montgomery, Jacobs, Hofpman, and Spaulding, JJ. (Wright, J., absent)."]
+parties: ["Wolf et al., Appellants, v. Mount Lebanon Township."]
+source_url: "https://static.case.law/pa-super/212/cases/0065-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 783336
+cites_cases: ["186 A. 2d 243", "223 A. 2d 24", "28 Pa. D. & C. 2d 529", "409 Pa. 281", "422 Pa. 473"]
+---
+
+# Wolf v. Mount Lebanon Township
+
+## Majority (Spaulding, J.,)
+
+Opinion by
+Spaulding, J.,
+Appellants (plaintiffs) appeal from an order denying their motion for judgment on the pleadings and from judgment entered for appellees (defendants) in the Court of Common Pleas of Allegheny County.
+Pursuant to a plan of complete liquidation, the Lemm Land Company, a Pennsylvania corporation, transferred its real estate to Morris Wolf and Mary Wolf; Edward Goldberg and Selma Goldberg; Rose Sparks; Jane Plung, Howard Plung and Donald Plung, deceased, the appellants and sole shareholders of the Lemm Company. The plan of liquidation and dissolution was approved by a stockholders’ resolution on January 3, 1966 and the Internal Revenue Service was notified on January 10, 1968. The deed in question dated January 15 was recorded January 17, 1966. On January 20, 1966, the Commonwealth approved and filed a certificate of election to dissolve the Company. The January 15th deed concerns property located in the Township and School District of Mount Lebanon, appellees. A real estate transfer tax in the amount of $922.01 was paid to the appellees.
+Subsequent to payment, appellants concluded that the real estate transfer tax which had been paid was improperly imposed, and suit in assumpsit was instituted by appellants to obtain a refund. The trial court, adjudging that the tax was properly paid, denied appellants’ motion for judgment on the pleadings, and entered judgment for appellees.
+Appellants allege that neither the Township nor the School District has the authority to impose a transfer tax on a transaction made pursuant to a plan of complete dissolution and liquidation of a corporation. This contention is based on appellants’ assertion that the tax imposed by the Township and the School District is the same tax imposed by the Commonwealth of Pennsylvania. We find this position without merit.
+The Commonwealth is authorized to impose a tax on realty transfers pursuant to The Realty Transfer Tax Act of 1951 which in part provides: “Every person who makes, executes, delivers, accepts or presents for recording any document . . ., shall be subject to pay for and in respect to the transaction or any part thereof ... a State tax . . . ,” In contrast, as local taxing entities, appellees are authorized to tax realty transfers by virtue of The Local Tax Enabling Act of 1947, which provides for the levy, assessment and collection of taxes upon: “. . . persons, transactions, occupations, privileges, subjects and personal property within the limits of such political subdivisions, and upon the transfer of real property, or of any interest in real property, situate within the political subdivision. . . .” (Emphasis added.)
+Appellants assert that a transaction made according to a plan of complete liquidation and dissolution is not a “transfer” within the meaning of The Local Tax Enabling Act, placing primary reliance on Commonwealth v. Passell, 422 Pa. 473, 223 A. 2d 24 (1966). That case, as does the instant matter, involved the transfer of real estate from a corporation to its sole stockholders pursuant to a plan of complete liquidation. The only question presented was whether this transfer was subject to the state tax under The Eealty Transfer Tax Act. It was there held that it was not. Justice Jones speaking for the Court in Passell stated: “. . . it was not the legislative intent to tax all but only certain transfers of realty and that the type of realty transfer transaction intended to be taxable was such as involved a real transfer of an interest in realty in which such interest is actually conveyed through the medium of a ‘document.’ ... [I]f the conveyance ... is by operation of law and not by a ‘document’ . . . such transaction does not fall within the category of transactions made taxable under the statute.” (at 476-477) (All emphasis in original.) Clearly this decision is based on a narrow issue relating only to the authority of the state to tax under that Act, not here relevant on the question of the authority of the appellees to tax under The Local Tax Enabling Act. In enacting this Act, the legislature expressly stipulated areas, set forth in detail, in which “local authorities shall not have authority by virtue of this act.” A transfer of real estate to the stockholders of a corporation pursuant to a plan of complete liquidation is not listed in the prohibited areas and the doctrine of “inclusio unius est exclusio alterius” applies. There is yet another stipulation in this legislative fiat stating: “It is the intention of this section to confer upon such political subdivision the power to levy, assess and collect taxes upon any and all subjects of taxation except as above.”
+In accordance with The Local Tax Enabling Act, the Board of Commissioners of Mount Lebanon Township enacted an Ordinance imposing a realty transfer tax upon certain transactions occurring within its boundaries during the fiscal year commencing July 1, 1965. Section 2(c) of the Township’s 1966 Realty Transfer Tax Ordinance and the same provision of the School District’s 1965-66 Realty Transfer Tax Resolution imposes a tax upon: “. . . transfers conveying real estate to shareholders of a corporation in connection with the dissolution of the corporation. . . .” Thus, the Ordinance and the Resolution expressly tax the transaction in this case.
+The appellants’ only response to this specific authority is Braddock v. Bartoletta, 409 Pa. 281, 186 A. 2d 243 (1962), affirming per curiam the opinion of Judge Smart, 28 Pa. D. & C. 2d 529 (1961). Brad dock, however, dealt with a condemnation proceeding and concluded that an agreement in such a proceeding was not a transfer of an interest in real estate but merely set forth the damages to be paid. This conclusion is not relevant to the instant case in light of the subsequent holding in Passell that a corporate liquidation is a transfer of an interest in realty.
+Finally, the appellants note that the Commonwealth has refunded the full amount of tax paid to it and the City of Pittsburgh has refunded the sum of $3,668.91. This is not persuasive for, as we have stated, the Commonwealth is operating under The Realty Transfer Tax Act and the Pittsburgh Ordinance has no bearing on the case at bar. Since the Mount Lebanon Township and School District have specifically taxed the transaction in the instant case pursuant to The Local Tax Enabling Act, we are not here concerned with the tax policy of other municipalities.
+Judgment affirmed.
+The Lemm Land Company was listed as the grantor and the appellants as the grantees.
+There were fire other deeds concerning property located in the City of Pittsburgh.
+Act of December 27, 1951, P. L. 1742, as amended, 72 P.S. §§3283-3292.
+Act of June 25, 1947, P. L. 1145, as amended, 53 P.S. §6851, re-enacted 53 P.S. §6902 (known as Tax Anything Act).
+53 P.S. §§6851-6901.
+53 P.S. §6903.
