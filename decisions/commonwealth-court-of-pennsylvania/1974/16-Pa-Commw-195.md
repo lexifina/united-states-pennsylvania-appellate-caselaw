@@ -1,0 +1,31 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 508 C.D. 1974"
+decided: "1974-12-20"
+citations: ["16 Pa. Commw. 195"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Kramer, Wilkinson, Jr. and Rogers, sitting as a panel of three."]
+parties: ["Donald Gregory, Guardian for the children of Ann L. Vilsack Levine, Deceased, Appellant, v. Workmen’s Compensation Appeal Board, Universal Welding, Inc. and Hartford Accident and Indemnity Company, Insurance Carrier, Appellees."]
+source_url: "https://static.case.law/pa-commw/16/cases/0195-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1863338
+cites_cases: ["297 A. 2d 520", "305 A. 2d 757", "6 Pa. Commonwealth Ct. 539", "9 Pa. Commonwealth Ct. 176"]
+---
+
+# Gregory v. Workmen's Compensation Appeal Board
+
+## Majority (Judge Wilkinson,)
+
+Opinion by
+Judge Wilkinson,
+Appellant’s decedent was the President, Treasurer, Chairman of the Board of Directors and Chief Executive Officer of appellee, Universal Welding, Inc. She owned 76% of the stock of the company, the other 24% being owned by the sister of her deceased first husband. She died as a result of choking on a piece of steak while dining in a public restaurant with her second husband, her mother, and her brother who was a Senior Yice President and a Director of the company. The sole issue before us is whether the referee’s findings, affirmed by the Workmen’s Compensation Appeal Board, were supported by competent evidence when it was determined that the decedent did not suffer an accident and subsequently die while in the course of her employment. We answer this question in the affirmative and must affirm the Board.
+A careful review of the record and the opinions of the referee and the Board, as well as the briefs of both parties, makes it clear that this issue is really whether the brother was negotiating on behalf of himself and others with his sister as an individual for the purchase of her stock, or whether he was negotiating with her as President, Chairman of the Board and Chief Executive Officer of the company for the purchase of all of the assets of the corporation. The referee, in a well considered opinion, set forth his reasons for stating: “The accident and subsequent death of Ann Vilsack Levine did not occur while she was in the pursuit of corporate business, on the contrary your referee feels that the decedent was attempting to negotiate a price for her individual share of the corporation at the time of the accident.”
+The referee states many reasons for so finding, including his reservations as to the credibility of the brother, the only non-medical witness, as well as the fact that there were no corporate records or notes of the meeting, and a charge was made to the company for the cost of the dinner only after a month’s delay. At one point the brother testified that he was negotiating for the decedent’s individual holdings. In addition, not specifically noted by the referee, it is significant to us that the original offer to purchase her stock was made in writing in a letter directed to the decedent as an individual and not as an officer of the corporation. This letter assumes even more significance when it is realized that it was written by an attorney representing the brother and his group.
+Appellant’s decedent’s mother attended the dinner at which the accident occurred. She had not been called as a witness. Following the hearing, appellees requested permission to take her deposition. This request was made by writing a letter to the referee and appending to the letter, as supportive of her having relevant testimony to offer, an affidavit. Appellees appropriately sent a copy of both the letter and the affidavit to appellant. Appellant asserts that the contents of the affidavit were prejudicial and having been exposed to the referee, he should be disqualified. Subsequently the mother came to Pittsburgh to testify, but neither party elected to call her as a witness. The referee indicated very strongly to the appellant that he felt the mother should be called to support, if she could, the testimony of her son, the brother of decedent and appellant here. Appellant asserted that it was not his idea to bring the mother there; he had done so only in response to the request submitted by appellees to have the mother’s deposition taken. Certainly if appellant was concerned that the affidavit had been prejudicial, it was his mother’s affidavit and he had a perfect opportunity to have her remove the prejudice, if any, and he did not elect to do so.
+In Bullock v. Building Maintenance, Inc., 6 Pa. Commonwealth Ct. 539, 297 A. 2d 520 (1972), Judge Kramer reviews in depth, the law with regard to the referee’s and the Board’s duty and responsibility with regard to finding whether an injury was incurred while the deceased employee was in the course of his employment. In Bullock, the employee had returned to the employer’s property on his day off to discuss union matters when he mysteriously met his death. The referee found he was in the course of his employment, but was reversed by the Board on appeal. This being before Universal Cyclops v. Kramczynski, 9 Pa. Commonwealth Ct. 176, 305 A. 2d 757 (1973), we affirmed the authority of the Board to so find, if supported by the testimony, which clearly it was. That case is controlling here and, while cited by appellant, is squarely against him. Here, both the referee and the Board have found that the decedent was not within the scope of her employment when the accident happened.
+Finally, with regard to the question of possible prejudice on the part of the referee, upon a careful review of this entire record, or even limiting ourselves to the four comers of appellant’s case, it is doubtful whether a decision of the referee in appellant’s favor could have been said to have been based on competent testimony so as to be affirmed by the Board or by this Court on review.
+Accordingly, we enter the following
+Order
+Now, December 20, 1974, the decision of the Workmen’s Compensation Appeal Board, dated April 4, 1974, affirming the determination of the referee and dismissing the appeal, is affirmed.
