@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 115"
+decided: "1933-07-14"
+citations: ["109 Pa. Super. 216"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Cunningham, Baldrige, Stadtfeld and James, JJ."]
+parties: ["Gordon v. Iron City Industrial Cleaning Co., Appellant."]
+source_url: "https://static.case.law/pa-super/109/cases/0216-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 967800
+cites_cases: ["104 Pa. Superior Ct. 518", "120 Pa. 425", "126 A. 791", "181 Pa. 8", "195 Pa. 200", "281 Pa. 320", "303 Pa. 66"]
+---
+
+# Gordon v. Iron City Industrial Cleaning Co.
+
+## Majority (Trexler, P. J.,)
+
+Opinion by
+Trexler, P. J.,
+On the 23rd day of January, 1928 Archie Fineman, J. A. Freedman and Isaac Gordon, trading as the Industrial Cloth Company for a consideration of $5,500 paid to them, in writing, conveyed to J. J. Leavitte and Cecil Rudin, partners trading as Iron City Wiping Materials Company, all the merchandise, equipment and machinery, etc., mentioned in a schedule attached. The conveyance was absolute and with the usual covenant to warrant and defend vendees’ title. On the 27th day of August, 1930, Gordon filed a bill in equity alleging that Leavitte and Rudin, had prior to the making of the above transfer approached him, the plaintiff, and informed him of their desire to buy his partners’ two-thirds of the business with the view of subsequently organizing a corporation in which the plaintiff was to have one-third of the capital stock; that the deal was consummated, and although it called for the transfer of the entire equipment, it was merely to pass the two-thirds of Fineman and Freedman, but not Gordon’s one-third, that Gordon’s one-third of the shares of stock was not to be actually conveyed, but he was to retain his interest, and that prior to the sale the vendees and Gordon had such an understanding. The bill goes on to state that the defendants “fraudulently are retaining possession of the stock in question and prays for the appointment of a receiver and an order restraining the disposal of said stock and a mandatory order to transfer it to the plaintiff in the bill.” There is no allegation of either fraud, accident or mistake in the procuring of the agreement, the fraud alleged being the failure to keep the contemporaneous verbal bargain, which induced the making of the transfer. The question for decision is whether parol testimony is admissible under the circumstances as here presented, to show that the plaintiff’s interest in the partnership did not pass by the transfer. The court held that the testimony was admissible and, after hearing, ordered a transfer of a third of the stock of the corporation that had been formed to the plaintiff, Gordon. .
+There is no doubt that the intention of the parties plainly expressed in the writing was for the consideration therein mentioned to transfer the entire assets enumerated in the schedule. Gordon who joined in the transfer now asserts that, to quote his words, “The one-third share of Gordon was not actually conveyed and transferred.” The appellee seeks relief on the proposition that the contract in writing shows upon its face that it is not the whole contract and, therefore, parol testimony is admissible to show what the entire contract was. There is nothing to be supplied in relation to the subject-matter ,in dispute. The contract transfers the articles, the entire interests without any qualification. The plaintiff claims that his one-third share did not pass. If this does not vary the terms of the written contract then it is hard to conceive of any condition that would. The plaintiff asserts that that was the verbal understanding, but we seek to ascertain what the bargain was, not by what was said at the time, for the parties are liable to differ in their memory of what passed, but by the writing itself in which we have the sure record of the meeting of the minds of the parties in a form which does away with all uncertainties. The subject-matter of the so-called parol agreement was germane to the subject of the written transfer. It should have been incorporated in the writing. It will not be necessary to refer to the many cases in which this principle has been recognized. Gianni v. Russell & Co., 281 Pa. 320, 126 A. 791, is a leading case and has been repeatedly cited. “In deciding upon this intent (as to whether a certain subject was intended to be embodied by the writing), the chief and most satisfactory index...... is found in the circumstances whether or not the particular element of the alleged extrinsic negotiation is dealt with at all in the writing. If it is mentioned, covered, or dealt with in the writing, then presumably the writing was meant to represent all of the transaction on that element; if it is not, then probably the writing was not intended, to embody that element of the negotiation.” Wigmore on Evidence (2d ed.) vol. 5, page 309.
+We all agree that the plaintiff failed to produce competent evidence to move the court to interfere and set aside the written contract, and that the decree in plaintiff’s favor should be reversed.
+The decree is reversed, the bill is dismissed, plaintiff to pay the costs.
