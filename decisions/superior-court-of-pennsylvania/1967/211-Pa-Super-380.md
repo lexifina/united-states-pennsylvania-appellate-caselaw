@@ -1,0 +1,38 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 221"
+decided: "1967-12-14"
+citations: ["211 Pa. Super. 380"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ervin, P. J., Watkins, Montgomery, Jacobs, Hoffman, and Spaulding, JJ. (Wright, J., absent)."]
+parties: ["Peirce, Appellant, v. Hoffstot."]
+source_url: "https://static.case.law/pa-super/211/cases/0380-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 781366
+cites_cases: ["111 Pa. Superior Ct. 242", "123 Pa. Superior Ct. 355", "127 Pa. Superior Ct. 286", "169 Atl. 250", "180 A. 2d 227", "187 Atl. 65", "193 Atl. 106", "244 Pa. 358", "257 F. Supp. 273", "30 Pa. Superior Ct. 615", "407 Pa. 359", "47 Pa. Superior Ct. 10", "90 Atl. 642", "93 Pa. Superior Ct. 389"]
+---
+
+# Peirce v. Hoffstot
+
+## Majority (Spaulding, J.,)
+
+Opinion by
+Spaulding, J.,
+This is an appeal from a judgment for $1630 awarded to Jason D. Hoffstot and Jason J. Hoffstot, appellees, by the Court of Common Pleas of Allegheny County, sitting without a jury, in a replevin action instituted by Harry Peirce, appellant. He sought the establishment of his title to and right of possession and custody of articles of personal property upon which a levy and distraint had been made by appellees for an alleged breach of lease by appellant.
+Hazel C. McClelland owned a two-story house in Pittsburgh which she had leased to appellees over a period of years. Appellees, in turn, subleased the second floor to appellant by written agreement effective for one year beginning November 1, 1962 at a monthly rental of $135. In October, 1963, prior to the expiration of the one-year lease, appellant signed the reverse side of the lease in a space beneath the printed “bail absolute” clause and above the printed renewal clause. By letter dated October 1, 1964 appellant’s attorney notified appellees of appellant’s intention to vacate the premises on or before October 31, 1964. Twelve days later, pursuant to an acceleration clause in the lease, appellees caused a levy and distraint to be made on goods and chattels of the appellant for payment of rent alleged to be due to the end of the term of the lease, viz., October 31, 1965, amounting to $1620, plus constable’s charges of $10. Appellant thereupon instituted his replevin action. On January 22, 1965, before the matter came to trial, the entire property was destroyed by fire.
+On appeal from the judgment against him, appellant contends, as he contended at trial, that the renewal execution of his lease with the appellees was in blank,® and therefore constituted as a matter of law an extension whereby he became a tenant at will, required to give only 30 days notice of his intention to vacate.
+The thrust of appellant’s argument is blunted, however, by an explicit finding of the trial court that a two-year renewal was effected, and we are of course bound by such a finding absent a showing that it is capricious, against the weight of the evidence and results in a miscarriage of justice. Simon v. H. K. Porter Co., 407 Pa. 359, 363, 180 A. 2d 227 (1962). We hold that the finding is adequately supported by the record.
+Appellant next contends that, even under the acceleration clause, he is not liable for any rent which would have been due after the destruction of the premises by fire. He avers that appellees’ right to recovery is measured by what they would have received had there been no cause for acceleration.
+Rental acceleration clauses similar to the one in the case at bar have long been held valid in this Commonwealth. Brumbaugh v. Feldman, 47 Pa. Superior Ct. 10 (1911); American Seating Co. v. Murdock, 111 Pa. Superior Ct. 242, 169 Atl. 250 (1933). These clauses are held to be “in the nature of penalties in favor of the lessor,” Moretti v. Zanfino, 127 Pa. Superior Ct. 286, 193 Atl. 106 (1937), and that the “landlord may or may not take advantage of them.” The acceleration clause is viewed as a guarantee to the lessor that he will receive immediately all of the monies (or other compensation) to which he is entitled under the lease without having to harass a reluctant tenant as periodical payments become due. In the case of Matovich v. Gradich, 123 Pa. Superior Ct. 355, 187 Atl. 65 (1936), this court held that in such cases the landlord can accelerate for future rent accruing under the lease or eject the tenant, but not both. The tenant, then, does not forfeit all. of his rights when the landlord accelerates, but must thereafter be accorded his possessory rights on payment of the accelerated rent.
+Viewed in this light, the question devolves to an inquiry as to what is due the landlord under the terms of the lease, that is, what the landlord may accelerate.
+The lease between appellant and appellees has no “destruction clause” fixing rental liability in case the property is destroyed. Absent such a clause, the effect of destruction of the premises depends on whether the lease is for an entire structure or merely a demise of a part of a building. The general rule is that destruction of the premises by fire, does not eliminate the tenant’s obligation to pay rent. Sankey v. Martin and Frisbie, 93 Pa. Superior Ct. 389 (1928). Accord, Supermarkets Operating Co. v. Arkwright Mutual Ins. Co., 257 F. Supp. 273 (E.D. Pa., 1966). This rule is held inapplicable, however, in the case of the demise of an apartment in a building, for in such a case the tenant does not acquire a right to the possession of the land. Accordingly, the estate is extinguished by the destruction of the building, and the tenant’s liability for rent thereupon ceases. Moving Picture Co. of America v. Scottish Union Nat’l. Ins. Co. of Edinburgh, 244 Pa. 358, 363, 90 Atl. 642 (1914); Paxson & Comfort Co. v. Potter, 30 Pa. Superior Ct. 615 (1906).
+Since appellant leased only the second floor of the building, this reasoning dictates that appellees are entitled to recovery of rent payable under the lease only up to the point in time when fire destroyed the premises.
+The decision of the court below is affirmed as modified and the cause is remanded thereto for proceedings consistent with this opinion.
+Since the signature was not under the renewal clause its legal significance would be ambiguous without the finding of the trial court as to the intent of the parties.
+The lease provides, “As security for the rent, the tenant grants, bargains and sells to the lessor all property of every hind on or to be brought on the premises and whenever rent ... is unpaid, the lessor may seize or distrain said property on or off the premises ... it is further agreed that if the tenant shall default in the payment of any Installment of rent ... or shall remove or express or declare an intention to remove any of the goods and chattels from the premises ... in such case the entire rent for the balance of the term shall at once become due and payable as if by the terms of this lease it were all payable in advance,”
+Subsequent allegedly unauthorized entries fix the period at two years.
+There was no holdover clause.
+There was such a clause in the primary lease between the Hoffstots and Mrs. McClelland relieving the Hoffstots from the payment of rent “until the lessees can resume operation,”
+Appellant has also contended that since the primary lease between appellees and Mrs. McClelland relieved appellees of the payment of rent in these circumstances, to compel appellant to pay rent would amount to unjust enrichment of the Hoffstots. This was put forth as a contingent argument, but on the basis of the above disposition we need not examine this allegation.
