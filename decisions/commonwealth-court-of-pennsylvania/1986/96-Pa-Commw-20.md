@@ -1,0 +1,42 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2843 C.D. 1984"
+decided: "1986-03-18"
+citations: ["96 Pa. Commw. 20", "506 A.2d 501"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Craig and Palladino, and Senior Judge Kalish, sitting as a panel of three."]
+parties: ["Roosevelt Anthony, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/96/cases/0020-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1346139
+cites_cases: ["34 Pa. Code §101.107", "34 Pa. Code §101.87", "35 Pa. Commonwealth Ct. 437", "385 A.2d 615", "447 A.2d 1127", "448 A. 2d 664", "466 A.2d 750", "491 A. 2d 325", "496 Pa. 113", "67 Pa. Commonwealth Ct. 636", "68 Pa. Commonwealth Ct. 52", "77 Pa. Commonwealth Ct. 554", "89 Pa. Commonwealth Ct. 30"]
+---
+
+# Anthony v. Commonwealth, Unemployment Compensation Board of Review
+
+## Majority (Judge Craig,)
+
+Opinion by
+Judge Craig,
+Roosevelt Anthony appeals from a decision of the Unemployment Compensation Board of Review which denied his request for benefits. The board affirmed the referees decision that Anthony was ineligible for benefits because of willful misconduct. We vacate and remand.
+Swift & Company employed Anthony as a laborer for eight years and his last day of work was on June 19, v 1984. Swift closed its plant for vacation purposes during the week of July 1 and reopened on July 9, 1984. Because of his seniority, Anthony was entitled to three weeks of paid vacation, including one week that Swift had paid to him earlier, On his last day of work, Anthony received his remaining two weeks of vacation pay and assumed that he was entitled to take a second week off even though the plant was scheduled to reopen on July 9. Anthony foiled to report for work on July 9, 10 and 11, 1984. When Anthony contacted Swift, Swift terminated him because of his three-day unauthorized absence. The referee found that Swift did not authorize Anthony to be absent a second week, and that Anthony did not follow Swifts policy regarding vacation scheduling.
+Anthony applied for benefits at the Reading branch of the Office of Employment Security (OES). In its statement on form UC-45A, regarding Anthony’s dismissal, the employer checked the block marked “voluntary quit” and explained that Anthony “abandoned his position for three (3) consecutive days and did not call in or report off.” The OES issued its decision on a “NOTICE OF DETERMINATION (Voluntary Quit)” form, stating that Anthony
+last worked with Swift & Co. on 06/28/84 and: Left this employment voluntarily without cause of a necessitous and compelling nature because following a one week vacation shutdown you failed to report for scheduled work on three consecutive days.
+The OES disapproved benefits and checked the block marked “402(b).”
+Anthony, proceeding without counsel, appealed from the OES decision because he felt that he had not quit his job. The referee conducted a hearing and issued findings that affirmed the OES denial of benefits but reached his conclusion by deciding a different legal issue than that ruled on by the OES. The referee found Anthony ineligible because of willful misconduct, 43 P.S. §802(e), rather than the voluntary quit issue, 43 P.S. §802(b), relied on by the office in its decision to refuse benefits.
+In Corressel v. Unemployment Compensation Board of Review, 35 Pa. Commonwealth Ct. 437, 385 A.2d 615 (1978), we interpreted 34 Pa. Code §101.87 as requiring that “the evidence adduced and determination made at the referees hearing be limited to the legal issue ruled on” by the office. 35 Pa. Commonwealth Ct. at 439, 385 A.2d at 616. “To allow a determination of a legal issue which the claimant is unprepared to defend or explain (absent, of course, both parties’ consent) is fundamentally unfair and, as such, will not be allowed by this Court.” Goodman v. Unemployment Compensation Board of Review, 68 Pa. Commonwealth Ct. 52, 56, 447 A.2d 1127, 1128 (1982).
+Properly stated, the issue before this court is: Did Anthony’s testimony at the referee’s hearing come within the exception to 34 Pa. Code §101.87, which allows any issue to be considered with “the approval of the parties”?
+Anthony’s testimony before the referee is substantively similar to the statement he gave to the office on a “summary of interview” sheet. Both the statement and his testimony indicate that Anthony thought he was on vacation and when he returned he found out that he did not have permission to take a two-week vacation and that he had been fired. Because of the similarity in content between his interview statement and his testimony, we need not and do not reach the issue of whether a claimant may give implied consent to a hearing on additional issues. Clearly the similarity between interview statement and testimony, because the OES decided ineligibility on a voluntary quit basis, indicates that Anthony did not knowingly give approval to consideration of other issues on appeal.
+The board here stresses Kligge v. Unemployment Compensation Board of Review, 89 Pa. Commonwealth Ct. 30, 491 A. 2d 325 (1985), and Gould v. Unemployment Compensation Board of Review, 77 Pa. Commonwealth Ct. 554, 466 A.2d 750 (1983), but those cases dealt with the power of the board to consider a new issue, rather than the power of a referee to do so. New issues before the board are governed by a different provision of the regulations, 34 Pa. Code §101.107, which, in subsection (b) requires the board to obtain the approval of the parties to consider a new issue only if that issue was not indicated in the notice of hearing, while its subsection (a) otherwise permits the board alone to decide, pursuant to stated standards, whether it will consider a new issue not previously determined. The separate regulation governing new issues before referees, 34 Pa. Code §101.87, requires the approval of the parties for consideration of any issue not previously determined. If there is some inconsistency between those two provisions of the regulations, resolution of the discrepancy is an administrative responsibility, not one for this court at this time; the board, of course, has made no attack upon its own regulations.
+There remains the question of the proper mode of relief when the authorities have breached the restrictions of their own regulation at 34 Pa. Code §101.87. In Feinberg v. Unemployment Compensation Board of Review, 67 Pa. Commonwealth Ct. 636, 448 A. 2d 664 (1982), this court remanded for further hearing as a cure for the problem, and that remedy appears also to be proper here. In Gould, we concluded that Wing v. Unemployment Compensation Board of Review, 496 Pa. 113, 436 A.2d 179 (1981), does not bar a remand order when the new issue has emerged before the administrative authorities at some point, and has not been deferred until appellate court review is reached.
+Study of the record indicates that remand for a further hearing is warranted. Even though the claimant logically opposed the voluntary quit disqualification on the basis that the employer had fired him, there is obviously a distinction in scope between seeking to prove that the discharge occurred and seeking to prove that there was no justification for the discharge.
+This courts order will be to vacate the board decision and remand for a further hearing.
+Order
+Now, March 18, 1986, the order of the Unemployment Compensation Board of Review, Decision No. B-234463, dated September 19, 1984, is vacated and this case is remanded for further hearing, on the willful misconduct question.
+Jurisdiction relinquished.
+Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §802(e).
+34 Pa. Code §101.87 states:
+Issues considered on original appeal.
+When an appeal is taken from a decision of the Department, the Department shall be deemed to have ruled upon all matters and questions pertaining to the claim. In hearing the appeal the tribunal shall consider the issues expressly ruled upon in the decision from which the appeal was filed. However, any issue in the case may, with the approval of the parties, be heard, if the speedy administration of justice, without prejudice to any party, will be substantially served thereby.
