@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1; Appeal, No. 204"
+decided: "1922-03-03"
+citations: ["78 Pa. Super. 465"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Trexler, Keller and Linn, JJ."]
+parties: ["Hadley v. City of Coatesville, Appellant"]
+source_url: "https://static.case.law/pa-super/78/cases/0465-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 650196
+cites_cases: ["130 Pa. 123", "191 Pa. 562", "213 Pa. 573", "232 Pa. 439", "255 Pa, 185", "260 Pa. 179", "266 Pa. 63", "270 Pa. 346", "51 Pa. Superior Ct. 50"]
+---
+
+# Hadley v. City of Coatesville
+
+## Majority (Hendekson, J.,)
+
+Opinion by
+Hendekson, J.,
+The complaint in this appeal is that the court refused to give binding instructions for the defendant. The reason stated as a basis for such instruction was the contributory negligence of the appellee. The default of the defendant having been conceded, the defense rested wholly on the ability of the appellant to make it clearly appear that Mrs. Hadley negligently received her injury. This negligence is alleged to have existed in the failure of the plaintiff to have selected another route than the one over which she was going at the time she was hurt. The injury was received while she was crossing Oak Street diagonally in going to First Avenue. There was neither sidewalk nor crossing on Oak Street in this locality, but a path was used by pedestrians going toward First Avenue from the hillside on which the plaintiff lived. The other way led down a flight of stairs and up a bank. The latter way is that which the appellant alleges the plaintiff should have taken, and evidence was introduced to show that it was in a safe condition. That there was a choice of ways seems not to be disputed, but the instinct of self-preservation stands for proof of the exercise of care and there is affirmative evidence that the route taken by the plaintiff was a better one than that which the appellant contends is the way she should have gone. It appears from the evidence that she proceeded carefully in crossing the street and there is nothing in the testimony to suggest that she acted wilfully with the intention to test a hazardous crossing. The route was used not only by the plaintiff, but by other people, and it cannot be declared as a matter of law that the way chosen was so obviously dangenous as to have subjected the plaintiff to a charge of negligence in adopting it. The plaintiff testified that the route alleged by the defendant to have been the proper one was dangerous because of a long flight of steps without a handrail and was inconvenient because of the presence of deep mud resulting from a continued rain. The locality and the position of the plaintiff at the time of the accident were shown by photographs to which more than fifty references were made by the witnesses, the counsel and the court during the progress of the trial. The disclosure of these photographs doubtless aided the jury in reaching a conclusion. As the verdict relieved the plaintiff from the imputation of negligence, we could not reverse that finding without the light which the photographs afforded if the case were clear in other respects. Moreover it is not clear that the other way was safer. The plaintiff’s testimony on that subject, and the fact of the use of the route taken by the plaintiff by many people raise a doubt on that subject. If the plaintiff, weighing the advantages of the respective routes, took that which in her judgment was the better way, she cannot be held to have been guilty of negligence as a matter of law. The convenience and risk of the ways was relative and it was for the jury to say whether she exercised ordinary care under the circumstances. “It is only when the danger is so great and apparent that an ordinarily prudent person would regard it as dangerous and therefore avoid it that a trial court can say as a matter of law that a person using the more dangerous route is guilty of contributory negligence. If the alternative route has dangers of its own and the dangers of the route actually taken are not so great and obvious as to deter the general public and ordinarily prudent and careful people from using it, the question of the contributory negligence of the person injured in using it is a question for the jury”: Mellor v. Bridgeport Boro., 191 Pa. 562; Steck v. Allegheny, 213 Pa. 573; Forker v. Sandy Lake Boro., 130 Pa. 123; McManamon v. Hanover Twp., 232 Pa. 439; Stonecipher v. Booth & Flynn, Ltd., 51 Pa. Superior Ct. 50. We have reviewed the evidence carefully and are satisfied that the question of contributory negligence was one for the jury not for the court.
+The judgment is affirmed.
