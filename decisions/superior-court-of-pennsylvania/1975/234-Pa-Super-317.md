@@ -2,7 +2,7 @@
 court: "Superior Court of Pennsylvania"
 docket: "Appeal, No. 1899"
 decided: "1975-04-22"
-citations: ["234 Pa. Super. 317", "232 Pa. Super. 758"]
+citations: ["234 Pa. Super. 317"]
 reporter: "pa-super"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
