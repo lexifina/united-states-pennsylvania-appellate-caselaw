@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1262 C.D. 1989"
+decided: "1989-12-08"
+citations: ["130 Pa. Commw. 89", "566 A.2d 1288"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CRAIG and BARRY, JJ., and BLATT, Senior Judge."]
+parties: ["COMMONWEALTH of Pennsylvania, PENNSYLVANIA LIQUOR CONTROL BOARD, Appellant, v. LUXURY ENTERPRISES, INC., Appellee."]
+source_url: "https://static.case.law/pa-commw/130/cases/0089-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1397371
+cites_cases: ["489 A.2d 306", "502 Pa. 186", "518 Pa. 500", "88 Pa. Commonwealth Ct. 244"]
+---
+
+# Commonwealth v. Luxury Enterprises, Inc.
+
+## Majority (BLATT, Senior Judge.)
+
+BLATT, Senior Judge.
+The Pennsylvania Liquor Control Board (Board) appeals an order of the Court of Common Pleas of Berks County (trial court) which sustained the appeal of Luxury Enterprises, Inc. (licensee) thereby reversing the Board’s three-day suspension of the licensee’s liquor license.
+On June 28, 1984, Trooper Mindler entered the Penn View Motel as part of an investigation. He observed a Chicken Draw Video Poker Machine plugged in along the south wall of the bar. After informing the bartender on duty that the video poker machine was a gambling device, Trooper Mindler confiscated it. This machine was later found to contain $2.75, and was equipped with a knock-off button and a metering device. It also allowed a player to carry over credits from one game to another. In Commonwealth v. Two Electronic Poker Game Machines, 502 Pa. 186, 465 A.2d 973 (1983), the Pennsylvania Supreme Court held that these characteristics may satisfy the elements necessary to characterize a machine as a gambling device per se. In fact, the trial court expressly found that the machine in question was a gambling device per se. In re: Luxury Enterprises, Inc., 81 Berks 48 (C.P.Pa.1986).
+The Board issued a citation to the licensee charging it with a violation of the Liquor Code for “permitting gambling, gambling devices, paraphernalia and/or lotteries on the licensed premises, on or about June 28, 1984 in violation of Section 5512” and/or Section 5513 of the Criminal Code, 18 Pa.C.S. §§ 5512, 5513. Following a hearing, the Board issued an order suspending the licensee’s liquor license for three days.
+The licensee appealed the Board’s order to the trial court which, after admitting into evidence the notes of the testimony recorded at the hearing before the Board and taking additional testimony on its own, held that the Board failed to present evidence and establish by any criteria that the licensee possessed the requisite “scienter” to justify the suspension of its liquor license. Reproduced Record at 156a.
+On appeal to this Court, the Board contends that the trial court committed an error of law and/or abused its discretion when it concluded that the licensee had not violated the Liquor Code despite finding that the properly seized video poker machine was a gambling device per se.
+Initially, we note that our scope of review in this case is limited to determining whether the Board’s order was supported by sufficient evidence and whether the trial court abused its discretion or committed an error of law. Pennsylvania Liquor Control Board v. Abraham, 88 Pa. Commonwealth Ct. 244, 489 A.2d 306 (1985). The Board here charged the licensee with “permitting” gambling on its premises in violation of Section 5512 and/or Section 5513 of the Crimes Code. Section 5512, however, deals only with lotteries and numbers games which are clearly not at issue here. The focus of our inquiry, therefore, must be on Section 5513. In Pennsylvania Liquor Control Board v. TLK, Inc., 518 Pa. 500, 544 A.2d 931 (1988), our Supreme Court held that:
+[o]nly when the violation involves the Liquor Code or its related laws and regulations may a license be revoked without scienter on the part of the licensee. If the misconduct by an employee or patron is outside the liquor laws, a license is revocable only if the licensee knew or should have known of the misconduct and if he fails to prove that he took substantial affirmative measures to prevent the misconduct.
+Id., 518 Pa. at 505-06, 544 A.2d at 934. Applying the foregoing standard to this case requires us to reverse the order of the trial court.
+We believe that the testimony of the state trooper who examined the video poker machine subsequent to its confiscation clearly establishes that the licensee should have known of the misconduct complained of. The trooper, an expert in the field of video poker machines, testified that if the machine in question had been used strictly for amusement purposes, there would have been no credits knocked off as evidenced by the machine’s accounting mechanism. Reproduced Record at 63a-64a. In short, we believe that there is sufficient evidence in the record indicating that the licensee should have known that the video poker machine was set up for gambling purposes and had indeed been used for gambling purposes. In addition, because the licensee failed to offer any testimony before the Board or trial court, there is no evidence that it took any measures whatsoever to prevent the misconduct complained of. Finally, under the circumstances of this case, we do not believe that the observation or receipt of payoffs is a prerequisite to a finding of guilty under Section 5513, especially where the licensee totally failed to rebut the Board’s evidence.
+Accordingly, we will reverse the order of the trial court.
+ORDER
+AND NOW, this 8th day of December, 1989, the order of the Court of Common Pleas of Berks County in the above-captioned matter is reversed. The three-day suspension of the licensee’s liquor license imposed by the Pennsylvania Liquor Control Board is hereby reinstated.
+. The three elements are: consideration, a result determined by chance rather than skill and a reward.
+. Act of April 12, 1951, P.L. 90, as amended, 47 P.S. §§ 1-101 to 9-803.
+. This section states, in pertinent part: (b) offense defined.—A person is guilty of a misdemeanor of the first degree if he: (1) sets up, or maintains, any lottery or numbers game; (2) manufacturers or prints, or sells, exposes for sale or has in his possession with intent to sell any unlawful lottery or numbers ticket or share, or any writing, token or other device purporting or intending to entitle the holder or bearer, or any other person, to any prize to be drawn or obtained in any lottery, or numbers game; or (3) publishes any advertisement of any lottery or numbers game. 18 Pa.C.S. § 5512(b).
+. This section states, in pertinent part: (a) offense defined.—A person is guilty of a misdemeanor of the first degree if he: (1) intentionally or knowingly makes, assembles, sets up, maintains, sells, lends, leases, gives away, or offers for sale, loan, lease or gift, any punchboard, drawing card, slot machine or any device to be used for gambling purposes, except playing cards; (2) allows persons to collect and assemble for the purpose of unlawful gambling at any place under his control; (3) solicits or invites any person to visit any unlawful gambling place for the purpose of gambling; or (4) being the owner, tenant, lessee or occupant of any premises, knowingly permits or suffers the same, or any part thereof, to be used for the purpose of unlawful gambling. 18 Pa.C.S. § 5513(a).
