@@ -1,0 +1,43 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 499 Misc. Docket No. 4"
+decided: "1989-04-28"
+citations: ["125 Pa. Commw. 475", "557 A.2d 462"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges CRAIG and McGiÑley, and Senior Judge NARICK, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania, Department of Environmental Resources, Petitioner v. Ronald Burr and Roy and Marcia Cummings and Charles and Mary Haudenshield, Respondents."]
+source_url: "https://static.case.law/pa-commw/125/cases/0475-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1387411
+cites_cases: ["11 Pa. D. & C. 2d 607", "123 Pa. Commonwealth Ct. 591", "140 A.2d 41", "210 Pa. Code §67.55", "34 Pa. Commonwealth Ct. 610", "384 A.2d 289", "392 Pa. 67"]
+---
+
+# Commonwealth v. Burr
+
+## Majority (Senior Judge Narick,)
+
+Opinion by
+Senior Judge Narick,
+This Court granted permission to the Department of Environmental Resources (DER) to appeal from án interlocutory order of the Environmental Hearing Board (EHB) denying DER’s motion to dismiss Appellees’ appeals to the EHB for lack of jurisdiction.
+Appellees filed three separate appeals to the EHB from denials of their claims on mine subsidence insurance policies. The policies were issued under subscriptions to the Coal and Clay Mine Subsidence Insurance Fund (Fund), a fund established by the Act of August 23, 1961, EL. 1068, as amended, 52 ES. §§3201-3241 (Subsidence Fund Act). The Fund is administered by the Coal and Clay Mine Subsidence Insurance Board (Subsidence Board), a division of DER. In the three cases at issue, the Subsidence Board denied the Appellees’ claims, concluding that mine subsidence had not damaged their houses.
+Appellees appealed to the EHB and DER moved to dismiss the appeals on the grounds that the Board of Claims had exclusive jurisdiction over these appeals. The EHB concluded that it did have jurisdiction and denied the motion. We affirm.
+The sole issue before us is whether jurisdiction over these types of appeals lies in the Board of Claims or the EHB.
+DER asserts that it has historically taken the position that the Board of Claims is the proper forum for the resolution of claim disputes arising under the Fund. The Board of Claims was established by the Act of May 20, 1937, EL. 728, as amended, 72 ES. §§4651-1—4651-10, “to arbitrate claims against the Commonwealth arising from contracts entered into by the Commonwealth ... .” 72 ES. §4651-1. DER argues that since the insurance policies here at issue are contracts (citing Cleland Simpson Co. v. Firemen's Insurance Co. of Newark, 11 Pa. D. & C. 2d 607 (1957), aff’d, 392 Pa. 67, 140 A.2d 41 (1958)), the Board has exclusive jurisdiction to resolve these claim disputes. 72 ES. §4651-4 provides, in pertinent part: “The Board of Claims shall have exclusive jurisdiction to hear and determine all claims against the Commonwealth arising from contracts hereafter entered into with the Commonwealth, where the amount in controversy amounts to $300.00 or more.”
+Appellees, on the other hand, maintain that jurisdiction over this action lies in the EHB, relying on 52 ES. §3224.1. That section provides: “Any party aggrieved by an action of the [Subsidence Board] hereunder shall have the right to appeal to the [EHB].”
+There are several facets to Appellees’ persuasive argument. First, they argue that the language of 52 ES. §3224.1 is clear and unambiguous. Accordingly, under Section 1921(b) of the Statutory Construction Act of 1972 (Statutory Construction Act), 1 Pa. C. S. §1921(b), “the letter of [a statute] is not to be disregarded under the pretext of pursuing its spirit.” 52 ES. §3224.1 clearly provides for EHB jurisdiction over actions, of the Subsidence Board.
+Second, Appellees argue that the specific provisions of 52 ES. §3224.1 must prevail over the more general language of both 52 ES. §3216 (which provides, essentially, that the Fund is entitled to all defenses against policy claims and that it may sue and be sued) and 72 E S. §4651-4 (providing for Board of Claims jurisdiction over contract claims). Section 1933 of the Statutory Construction Act provides:
+Whenever a general provision in a statute shall be in conflict with a special provision in the same or another statute, the two shall be construed, if possible, so that effect may be given to both. If the conflict between the two provisions is irreconcilable, the special provisions shall prevail and shall be construed as an exception to the general provision, unless the general provision shall be enacted later and it shall be the manifest intention of the General Assembly that such general provision shall prevail.
+1 Pa. C. S. §1933 (emphasis added).
+DER has provided us with a lengthy analysis of the evolution of 52 ES. §3216. Briefly summarized, its argument is that the section, when originally enacted in 1961, provided that the Fund could sue in any county or be sued in the Court of Common Pleas of Dauphin County to enforce rights given against or to any subscriber. In 1972, when the Subsidence Fund Act was substantially amended,, the section s language was amended to allow suit against the Fund in Commonwealth Court rather than the Dauphin County court. The section was further amended in 1978 by Section 20002(a) [1351] of the Judiciary Act Repealer Act, Act of April 28, 1978, EL. 202, as amended, 42 ES. §20002(a) [1351], which removed reference to suit in Commonwealth Court, noting that 42 Pa. C. S. §761 would apply. That section outlines this Court’s jurisdiction, specifically exempting contract actions to be brought before the Board of Claims. 42 Pa. C. S. §761(a)(l)(iv). As it now reads, 52 ES. §3216 provides:
+In every case where a claim is made against the fund, the fund shall be entitled to every defense against such claim under the policy and shall be subrogated to every right of the subscriber arising out of such accidents against any third persons. The fund may, in the name of the fund, sue or be sued to enforce any right given against or to any subscriber or other persons under this act.
+Were it not for the fact that 52 E S. §3224.1 expressly and unambiguously provides for EHB jurisdiction over the Subsidence Board’s actions, we might be persuaded by DER’s argument. However, as Section 1933 of the Statutory Construction Act makes abundantly clear, the more specific language of 52 ES. §3224.1 must control here in the absence of any manifest intention on the part of the Legislature that the more general provision should control.
+Finally, Appellees argue that their claims are not simply contract actions, in that they involve a threshold determination of whether or not mine subsidence actually occurred. This determination involves technical issues within the EHB’s expertise and is the reason, Appellees submit, for EHB jurisdiction over these sorts of claims. As Appellees note, this Court typically defers to the EHB on matters which involve application of its technical expertise. See, e.g., Department of Environmental Resources v. Big B Mining Co., Inc., 123 Pa. Commonwealth Ct. 591, 554 A.2d 1002 (1989); Harman Coal Co. v. Department of Environmental Resources, 34 Pa. Commonwealth Ct. 610, 384 A.2d 289 (1978). DER does not deny that these cases involve issues which are outside the realm of pure contract law and, indeed, admits in its brief that Appellees’ arguments are “entirely reasonable.” (Brief, p. 16.) When this factor of technical expertise is considered in conjunction with the explicit language of 52 ES. §3224.1, we are convinced that jurisdiction over these claims properly lies in the EHB.
+For these reasons, we affirm the interlocutory order of the EHB denying DER’s motion to dismiss and remand for further proceedings.
+Order
+And NOW, this 28th day of April, 1989, the interlocutory order of the Environmental Hearing Board entered in the above-captioned matter is hereby affirmed and the matter is remanded to that Board for further proceedings.
+Jurisdiction relinquished.
+Ronald Burr, Roy and Marcia Cummings, and Charles and Mary Haudenshield.
+The EHB consolidated the three appeals.
+In addition, DER contends, citing an unreported order of this Court, that we have previously held that jurisdiction over these sorts of claims properly lies in the Board of Claims. Given that our internal operating procedures proscribe the citation of unreported opinions of this Court in “any brief, argument or opinion,” see 210 Pa. Code §67.55, we have not considered this argument.
