@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 132"
+decided: "1934-12-18"
+citations: ["115 Pa. Super. 333"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Cunningham, Baldrige, Stadtfeld, Parker and James, JJ."]
+parties: ["Yorkshire Worsted Mills v. Braman, Appellant."]
+source_url: "https://static.case.law/pa-super/115/cases/0333-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 977380
+cites_cases: ["112 A. 632", "154 A. 127", "160 A. 610", "166 A. 913", "169 A. 79", "269 Pa. 428", "303 Pa. 66", "306 Pa. 586", "311 Pa. 299", "313 Pa. 49"]
+---
+
+# Yorkshire Worsted Mills v. Braman
+
+## Majority (Baldbige, J.,)
+
+Opimosr by
+Baldbige, J.,
+The plaintiff in this action of assumpsit averred in his statement of claim that he became a holder in due course of a promissory note, in the sum of $1,500, which defendant failed to pay at maturity. The note was originally delivered to Samuel Rosenthal, who gave it to S. Rosenthal & Company, and it, in turn, delivered it to plaintiff, who endorsed it to the First National Bank of Media. On the failure of the maker to pay the note, plaintiff paid the bank, and the note was returned to the plaintiff. The affidavit of defense admits the execution of the note, But averred that it was delivered to the payee as collateral security under a contemporaneous oral agreement, providing that when plaintiff collected $1,500, on account of a larger obligation in the amount of $15,500 owed by S. Rosenthal & Company to the plaintiff, the note would be returned to the payee, Samuel Rosenthal; that the $1,500 was collected, but the plaintiff refused to return the note.
+At the trial, plaintiff made out a prima facie case by offering the note in evidence and the material portions of the statement of claim, which were not adequately denied. The defense called several witnesses to prove the alleged oral contemporaneous agreement. Objections were sustained to the testimony offered to prove that agreement. No other evidence being adduced, the trial judge gave binding instructions in favor of the plaintiff. This appeal followed.
+The appellant argues that the defense “in effect” was a payment of the note. The difficulty with that contention is that if the oral testimony offered to establish a contemporaneous oral agreement was inadmissible, there is no proof of payment. The averments set out in the affidavit of defense, which the appellant maintains substantiate the defense of payment of the note, were not offered, and, therefore, can not be considered part of the evidence: Buehler v. U. S. Fashion Plate Co., 269 Pa. 428, 112 A. 632.
+The principal questions raised therefore hinge on the admissibility of the alleged contemporaneous oral agreement. The defendant’s contention is that the negotiable note does not correctly and fully represent the agreement between the parties; that to determine the whole transaction, the oral agreement must be considered without alleging and proving that the note was obtained as a result of fraud, accident or mistake. This can not be done ás the outside agreement materially affects the terms of the note. We must assume that all the essential features to carry out the intention of the parties were embodied in the written instrument. Notwithstanding the former more liberal tendency to admit oral testimony of a contemporaneous oral agreement to modify a written instrument, the later eases emphatically frown upon the admission of such an agreement, unless fraud, accident or mistake is alleged and proven. “Any parol agreement that subjects the obligation on the instrument to any condition or contingency, whether in person, time of amount, is ineffective, and the instrument is unconditional, unless fraud, accident or mistake was the means through, which the instrument was procured”: Speier v. Michelson, 303 Pa. 66, 72, 154 A. 127. See, also, Russell v. Sickles et al., 306 Pa. 586, 160 A. 610; Architectural Title Co. v. McSorley, 311 Pa. 299, 166 A. 913; Rosenblum & Co. v. Rosenblum, 313 Pa. 49, 169 A. 79, which strongly reaffirm the rule.
+The appellant complains also of the court’s action in sustaining an objection to an offer to prove by a deputy clerk in the United States District Court that three creditors petitioned the court to put Rosenthal & Company into bankruptcy; that three days later, this appellee, one of the creditors, petitioned the court to dismiss the bankruptcy proceedings, as it was the owner of a large portion of the goods remaining in the alleged bankrupt’s place of business, and demanded return of the goods; that a stipulation was filed between counsel for the creditors and appellee’s counsel, withdrawing the latter petition; and that the record does not disclose any further reclamation proceedings filed on behalf of the appellee. The appellant argues that he had a right to contend that if the assets were insufficient to show payment of the note, he is relieved of any liability as a legal consequence of the appellee’s action. A petition to dismiss a petition in bankruptcy would have the effect only of restoring the status quo. The offer was insufficient to establish that a reclamation proceeding had, in fact, been instituted.
+The appellant further charges error in the admission of paragraph 7 of the statement of claim, which avers that the plaintiff gave value for the note and received it without any notice of infirmity or defect in the title. The affidavit of defense denied generally those statements, and averred that “the plaintiff received the said note under circumstances that will be related more fully hereinafter.” It then set up in new matter the contemporaneous oral agreement, which the court properly excluded. The denial, therefore, lacked supporting and specific facts required to make it adequate.
+We have examined with care all the assignments of error, and have reached the conclusion that the learned trial judge in his disposition of this case can not be convicted of error.
+Judgment is affirmed.
