@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 355"
+decided: "1917-03-16"
+citations: ["66 Pa. Super. 290"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Kephart, Trexler and Williams, JJ."]
+parties: ["Wood, Appellant, v. Griffith."]
+source_url: "https://static.case.law/pa-super/66/cases/0290-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 628142
+cites_cases: ["141 Pa. 10", "209 Pa. 201", "22 Dist. Rep. 46", "22 Dist. Rep. 707", "221 Pa. 331", "232 Pa. 5", "248 Pa. 394", "43 Pa. Superior Ct. 489", "62 Pa. Superior Ct. 80"]
+---
+
+# Wood v. Griffith
+
+## Majority (Oblady, P. J.,)
+
+Opinion by
+Oblady, P. J.,
+This is an appeal from the decree of the Court of Common Pleas in sustaining a demurrer, and dismissing the bill of complaint filed by a taxpayer against the Civil Service Commission, the Director of Public Safety, the City Controller, the City Treasurer, John T. Frawley, and the City of Philadelphia. From the facts stated in the bill, which are conceded to be true by the demurrer, it appears that on February 19, 1916, William H. Wilson, Director of the Department of Public Safety, notified one John T. Frawley, that “on the 24th day of February, 1916, you will be discharged from your position as an elevator operator, electrical bureau, for the following reasons : First charge — disobedience of orders, with a specification, of leaving his car without an excuse; second charge — carelessness,” with a specification as in the other charge, and concluding, “you are further notified that you are allowed, as set forth in Section 20 of the Act of March 5,1906 (Civil Service Act), to furnish the director within four days of the above date, with such written answer as you may desire to the notification of your intended discharge.”
+On February 21st, John T. Frawley made answer in writing to the notice, specifying his defense and denying the charges in every particular. On February 24, 1916, the director formally discharged Frawley from his position, “As stated in my said notification, for the reasons therein set forth.” On March 15, 1916, Director Wilson gave notice in writing, to the. Civil Service Commission as follows: “I desire to reinstate John T. Frawley, position of elevator operator, to which he was originally appointed June 24,1913. He was separated from the service by reasons of alleged delinquency or misconduct, on February 24, 1916. The conditions of good administration require the reinstatement, as the charges against this person were not true, and dismissal was not justified. See my letter of March 15,1916, which accompanies this requisition. This person possesses all the qualifications necessary for this position.”
+Accompanying this there was the following explanatory letter: “In requesting the reinstatement of John T. Frawley, an elevator operator, I desire to advise you that. after an investigation was made, I find that there are extenuating circumstances in the case, which justify placing this man back in the service, I therefore request you to reinstate him to the position from which he was dismissed on February 24.”
+Pursuant to this request the Civil Service Commission approved the requisition for reinstatement of Frawley and notified the director of the Department of Public Safety to that effect, and he has since that date been acting in his former position by virtue of that order.
+The contention of the appellant is, that the action of the director and the Civil Service Commission in reinstating Frawley was nugatory, it being in violation of the provisions of the Rule No. 13, Section 4, which is as follows: “No one dismissed from the service for delinquency or misconduct shall be eligible for reinstatement, nor for appointment in any municipal capacity in any department of the municipal service, within one year from the date of the dismissal, and then only in the same manner as original appointments are made.” It is conceded that the Civil Service Commission was authorized to review the decision of the director, and to reinstate Frawley, if on examination it was determined that the charges against him were unfounded, but it is urged that this rule should be construed strictly, and that no exception or departure may be made from its literal provisions.
+The efficiency of the civil service is to be secured, not only through the qualifications of the candidate as shown in the preliminary examination, but, fully as much, by the fair treatment of the employee, who after successfully passing the tests imposed in the first instance, renders faithful and loyal adherence to the regulations of the board.
+All of our courts assert as an inherent power, and regard it as a duty, to modify or reverse an erroneous judgment, to the end that justice may be done to an injured party. Where an error is clearly shown, either as a conclusion of fact or of law, it follow^ that the mistake should be remedied if promptly presented for review before the proper tribunal. “Next to being right, nothing should give more pleasure than to correct the error”: Fuller v. Fisk, 43 Pa. Superior Ct. 489; Kelly v. Sun Fire Office, 141 Pa. 10.
+If the letter of Director Wilson of March 15th, in which he says “the charges against this person were not true, and his dismissal was not justified,” and “This person possesses all the qualifications necessary for this position,” had been presented to the Civil Service Commission at the same time the notification of dismissal to Frawley of February 24th was submitted, it could not be reasonably urged by the most zealous advocate of civil service that the board should make an order “separating him from the service.”
+Section 4, of Rule 13, has no greater efficacy or higher standing than a rule of court, and it is to be construed, so as faii’ly to apply to the facts presented at the time. Ho tribunal in our system is credited with such accuracy of judgment that a mistake may not happen, and to hold that the Civil Service Commission cannot correct an admitted oversight of the director, would make the section 4, such a hard and fast rule as to be unfair and unreasonable in its application.
+After due examination, the Civil Service Commission joined with the director in finding as a fact, that no offense had been committed by Frawley — hence, there was no original delinquency or misconduct, for which he could have been rightly dismissed. Having all the facts before them, the commission construed its Rule 13, Section 4, so as to remedy an admitted error of judgment by the director.
+In the light of the facts of the case, and for the reasons given in the opinion by the court below, the conclusion reached by the director and approved by the Civil Service Commission was correct.
+The decree is affirmed.
