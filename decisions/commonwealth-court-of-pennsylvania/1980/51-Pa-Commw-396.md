@@ -1,0 +1,59 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2676 C.D. 1978"
+decided: "1980-05-15"
+citations: ["51 Pa. Commw. 396"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Wilkinson, Jr. and Mencer, sitting as a panel of three.", "President Judge Bowman did not participate in tbe decision in tbis case."]
+parties: ["Jamelle King, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/51/cases/0396-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1909551
+cites_cases: ["10 Pa. Commonwealth Ct. 90", "23 Pa. Commonwealth Ct. 188", "27 Pa. Commonwealth Ct. 180", "309 A.2d 165", "35 Pa. Commonwealth Ct. 43", "350 A.2d 882", "365 A.2d 1341", "37 Pa. Commonwealth Ct. 401", "37 Pa. Commonwealth Ct. 9", "38 Pa. Commonwealth Ct. 342", "383 A.2d 533", "384 A.2d 1035", "388 A.2d 801", "390 A.2d 890", "393 A.2d 43", "397 A.2d 494", "40 Pa. Commonwealth Ct. 422", "466 Pa. 81", "476 Pa. 617"]
+---
+
+# King v. Commonwealth
+
+## Majority (Judge Crumlish, Jr.,)
+
+Opinion by
+Judge Crumlish, Jr.,
+This is an appeal from the Unemployment Compensation Board of Review’s denial of unemployment benefits pursuant to Section 402(e) of tbe Unemployment Compensation Law. We reverse.
+Jamelle King was- last employed as a Library Assistant I by the Free Library of Philadelphia. On or about March 3, 1976, she was informed of an impending transfer, effective March 29, 1976, from the South Philadelphia Children’s Library at Broad and Ritner Streets to the South Philadelphia Library Branch at Broad and Morris Streets. King was employed at the Children’s Library to work Monday and Wednesday from 9:45 A.M. to 6:00 P.M. and Tuesday, Thursday and Friday from 8:45 A.M. to 5:00 P.M. The transfer would reschedule her working hours to Monday and Wednesday from 11:45 A.M. to 8:00 P.M.; Tuesday, Thursday and Friday from 8:45 A.M. to 5:00 P.M.; and Saturday from 9:00 A.M. to 5:00 P.M. Separated from her husband since February of 1976, and the mother of two children, aged eighteen months and three years, the transfer required King to find child-care services on the nights she would be forced to work late. After exhausting child-care sources within her means, King did not report on March 29th to the new assignment, and was suspended for one week without pay. Still without reliable child care, she failed to report again on April 5, 1976, and was suspended an additional two weeks. King was permanently dismissed on April 19,1976 for abandoning her position.
+The Unemployment Compensation Board of Be-view denied benefits and affirmed the referee’s determination that the repeated failure to report for work was in violation of her employment responsibilities and Section 402(e)’s “willful misconduct” clause.
+Our Courts have defined those types of behavior which properly characterize “willful misconduct,” as follows:
+(1) .the wanton and wilful disregard of the employer’s interest, (2) the deliberate violation of rules, (3) the disregard of standards of behavior which an employer can rightfully expect from his employee, or (4) negligence which manifests culpability, wrongful intent, evil design, or intentional and substantial disregard for the employer’s interests or the employee’s duties and obligations.
+Unemployment Compensation Board of Review v. Williams, 23 Pa. Commonwealth Ct. 188, 191, 350 A.2d 882, 884 (1976); Kentucky Fried Chicken of Altoona, Inc. v. Unemployment Compensation Board of Review, 10 Pa. Commonwealth Ct. 90, 97, 309 A.2d 165, 168-9 (1973).
+Petitioner asserts that the only issue is whether the Board erred in characterizing her conduct within category (3) above as disregarding behavior standards which an employer could rightfully expect from employees. The decision in the present matter actually turns upon whether domestic child-care obligations constitute “good cause” for failing to report to work at the new location pursuant to Section 402(e) of the Law.
+The Supreme Court has recently expressed the “good cause” principle in terms of its .Section 402(e) application:
+Thus, we must evaluate both the reasonableness of the employer’s request in light of all the circumstances, and the employee’s reasons for noncompliance. The employee’s behavior cannot fall within ‘wilful misconduct’ if it was justifiable or reasonable under the circumstances, since it cannot then be considered to be in wilful disregard of conduct the employer ‘has a right to expect.’ In other words, if there was ‘good cause’ for the employee’s actions, it cannot be charged as wilful misconduct.
+McLean v. Unemployment Compensation Board of Review, 476 Pa. 617, 620, 383 A.2d 533, 535 (1978). See also Frumento v. Unemployment Compensation Board of Review, 466 Pa. 81, 87, 351 A.2d 631, 634 (1976), and Bajor v. Unemployment Compensation Board of Review, 37 Pa. Commonwealth Ct. 401, 405, 390 A.2d 890, 892 (1978).
+Historically, the term “good cause” has been connected with the disqualification of benefits per Section 402(a) for a claimant’s failure without good cause to accept suitable work. Though undefined in the Unemployment Compensation Act for either Section 402 (a) or 402(e) purposes, this Court has held Section 402(a) good cause as not amenable to either general rules or rigid formulas:
+[I]ts meaning must be deduced from the facts of each case ... consistent with the Act’s fundamental purpose, which is to insure that employes who become unemployed through no fault of their own are provided with some semblance of economic security. . . . Viewed in this setting ‘good cause’ may cover reasons which are extraneous to the employment and strictly personal to the claimant, provided, however, that such personal reasons involve real and substantial circumstances which compel the decision to refuse suitable work and rest on ‘good faith.’ . . . ‘[G]ood faith . . . includes positive conduct on the part of the claimant which is consistent with a genuine desire to work and be self-supporting. ’
+Trexler v. Unemployment Compensation Board of Review, 27 Pa. Commonwealth Ct. 180, 185, 365 A.2d 1341, 1344 (1976). We are asked to extend this Section 402(a) “good cause” standard of review and its corresponding case law to the present Section 402(e) controversy, and see no reason why we should not do so.
+The Board advances our decision in Wolford v. Unemployment Compensation Board of Review, 35 Pa. Commonwealth Ct. 43, 384 A.2d 1035 (1978), for the argument that petitioner failed to make reasonable efforts to find substitute child-care services, and therefore, Section 402(a) “good cause” was absent. In Wolford, the unemployed claimant did not report for suitable work on the ground that he had to babysit for his two children while his wife went to work. Using the parameters of geographic location, time available to make search, and overall domestic responsibilities, we held that claimant failed to demonstrate reasonable attempts to find alternate child care. Wolford, supra, at 47, 384 A.2d at 1037. Where an earnest effort to overcome the obstacle to employment placed upon an employee by domestic responsibilities is not clearly shown, unemployment benefits must be denied.
+However, our prior Section 402(a) decision in Trexler v. Unemployment Compensation Board of Review, supra, identifies a more analogous factual pattern and probable result. In Trexler, the claimant refused an offer of suitable employment because the referred job would have occasionally required her to work overtime, and she was unable to make alternate child-care plans for her 12 month old child for the additional hours. Reversing the denial of unemployment benefits, we held claimant’s conduct evidenced “good cause ’ ’ in that her parental duty was a substantial and reasonable basis for refusing the offered employment, especially in light of the flexible standard within which we must review the circumstances. Trexler, supra, at 185, 365 A.2d at 1344.
+We are further persuaded by our decision in Wallace v. Unemployment Compensation Board of Review, 38 Pa. Commonwealth Ct. 342, 393 A.2d 43 (1978), where the claimant, a nurse, was faced with the necessity for evening care for her two children. After repeated requests for a transfer to day shift work and a diligent search for babysitters, she reluctantly resigned, and was denied unemployment benefits. This Court held that Section 402(b)(2)(II) of the Law, 43 P..S. §802(b) (2) (II), which absolutely disqualified claimants who voluntarily terminated employment for domestic reasons, was unconstitutional as violative of the equal protection clause. Though turning upon the constitutional issue, dicta addresses the fact that domestic child-care problems are deserved of both recognition and individualized determinations.
+When taken in both the factual and legal context and compared to the claimants in Trexler and Wallace, petitioner King fares well. Left alone with two young children in a dangerous residential neighborhood, she was forced to find child care commensurate with the new odd hours. The record reveals that King’s efforts to make child care arrangements with friends, neighbors, relatives and day care centers were more than reasonable when compared to the cited cases. Her “good faith” conduct in this regard convinces us that there was “good cause” for her actions, and that the Board erred in denying benefits on tbe basis of Section 402(e)’s willful misconduct provision.
+Accordingly, we
+Obdeb
+And Now, this 15th day of May, 1980, tbe order of tbe Unemployment Compensation Board of Review, dated July 11,1977, denying tbe claim of Jamelle Kang pursuant to Section 402(e) of tbe Unemployment Compensation Law is hereby reversed, and tbe case is remanded to tbe Board for tbe proper computation and payment of benefits.
+President Judge Bowman did not participate in tbe decision in tbis case.
+Act of December 5, 1936, P.L. (1937) 2897, as amended, 43 P.S. §802(e), provides in pertinent part:
+An employe shall be ineligible for compensation for any week—
+(e) In which his unemployment is due to his discharge or temporary suspension from work for willful misconduct connected with his work. . . .
+Section 402(a), 43 P.S. §802(a), provides in pertinent part that:
+An employe shall be ineligible for compensation for any week—
+(a) In which his unemployment is due to failure, without good cause ... to accept suitable work when offered to him by . . . any employer. . . . (Emphasis added.)
+
+## Dissent (Judge Mencer:)
+
+Dissenting Opinion by
+Judge Mencer:
+I respectfully dissent. Tbe Unemployment Compensation Board of Review (Board) is tbe factfinder. Here, tbe Board has not made necessary findings relative to tbe claimant’s alleged efforts to procure a babysitter for ber children. We have held that tbe Board’s failure to make necessary findings of fact to resolve tbe issue of good cause requires a- remand. Hughes v. Unemployment Compensation Board of Review, 40 Pa. Commonwealth Ct. 422, 397 A.2d 494 (1979); Kindrew v. Unemployment Compensation Board of Review, 37 Pa. Commonwealth Ct. 9, 388 A.2d 801 (1978).
+Hence, I would remand to tbe Board and not conclude, as does tbe majority, that ber conduct “convinces us that there was ‘good cause’ for ber actions.”
+Obdeb
+And Now, tbis 26th day of June, 1980, upon consideration of respondent’s application to correct opinion and order, our opinion and order is hereby amended as follows:
+And Now, this 15th day of May, 1980, the order of the Unemployment Compensation Board of Eeview, dated November 2, 1978, denying the claim of Jamelle King pursuant to Section 402(e) of the Unemployment Compensation Law is hereby reversed, and the case is remanded to the Board for the proper computation and payment of benefits.
