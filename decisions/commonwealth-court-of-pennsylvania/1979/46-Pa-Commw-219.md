@@ -1,0 +1,50 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1016 C.D. 1979"
+decided: "1979-09-27"
+citations: ["46 Pa. Commw. 219"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to President Judge Bowman and Judges Crumlish, Jr., Wilkinson, Jr., Mencer, Bogers, Blatt, DiSalle, Craig and MacPhail."]
+parties: ["Robert L. Killian, Petitioner v. Commonwealth of Pennsylvania, Unemployment Compensation Board of Review, Respondent."]
+source_url: "https://static.case.law/pa-commw/46/cases/0219-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1902172
+cites_cases: ["16 Pa. Commonwealth Ct. 545", "330 A.2d 589"]
+---
+
+# Killian v. Commonwealth
+
+## Majority (President Judge Bowman,)
+
+Opinion by
+President Judge Bowman,
+Respondent, Unemployment Compensation Board of Review (Board), has moved to quash this petition for review because petitioner failed to first exhaust his administrative remedies by seeking Board review of a referee’s determination denying petitioner’s claim for benefits. The Board correctly points out that this is self-evident from the petition for review itself which discloses that on March 29, 1979, the referee disallowed benefits which “order became final on April 13, 1979”, sets forth a statement of reasons why the order of the referee is erroneous, and prays that we “set aside the order of the Referee for the Unemployment Compensation Board of Review. ’ ’
+Lurking behind this last quoted language is a series of statutory enactments which produce two distinct but related issues focusing upon the jurisdiction of this Court to entertain this petition for review: May an aggrieved claimant appeal from an adverse determination by a referee directly to this Court on the theory that since neither contesting party appealed to the Board from the referee determination it “shall be deemed the final decision of the [BJoard”? Section 502, Unemployment Compensation Law (UCL), Act of December 5,1936, P.L. (1937) 2897, as amended, 43 P.S. §822. If so, from what date is the thirty day time for appeal measured?
+Prior to enactment of the Judiciary Act Repealer Act (JARA), Act of April 28, 1978, P.L. 202, 42 P.S. §20002 et seq., the statutory scheme for administrative and judicial review of referee determinations was prescribed in several sections of UCL.
+Section 502 of UCL then read in pertinent part as follows:
+Where an appeal from the determination or revised determination, as the case may be, of the department is taken, a referee shall, after affording the parties and the department reasonable opportunity for a fair hearing, affirm, modify, or reverse such findings of fact and the determination or revised determination, as the case may be, of the department as to him shall appear just and proper. The parties and the department shall be duly notified of the referee’s decision, and the reasons therefor, which shall be deemed the final decision of the [Bjoard, unless within fifteen days after the date of such decision the [B]oard acts on its own motion, or upon application, permits any of the parties or the department to institute a further appeal before the [B]oard.
+Section 509 of UCL, 43 P.S. §829, then read in pertinent part as follows:
+Any decision made by the department or any referee or the [Bjoard shall become final fifteen days after the date thereof, and shall not be subject to collateral attack as to any application claim or claims covered thereby or otherwise be disturbed, unless appealed from, as hereinbefore provided; but any decision of the [B]oard or of a referee, where an appeal has been disallowed by the [Bjoard, shall nevertheless be subject to appeal to the Court after the same has become final.
+Subject to appeal proceedings and judicial review as provided in this act, any right, fact or matter in issue which was directly passed upon or necessarily involved in any decision of a referee or the [B]oard or the Court and which has become final shall be conclusive for all purposes of this act and shall not be subject to collateral attack as among all affected parties who had notice of such decision. . . .
+Section 510 of UCL, 43 P.S. §830, then read in pertinent part as follows:
+An appeal to the Superior Court [now the Commonwealth Court] may be taken by the department or by any party claiming to be aggrieved, but only after such appellant has exhausted its remedies before the [B]oard.
+Considered together, these provisions clearly allow for a judicial review only after one has exhausted his administrative remedy by seeking Board review of an adverse referee determination. If such review is not timely sought or the Board does not on its own motion order a review of the referee’s determination, such determination is “deemed” the final decision of the Board. This is to afford finality to the referee’s determination but such “deemed” finality does not vitiate one’s duty to seek Board review of the referee’s determination as an administrative remedy to be exhausted before the matter is ripe for judicial review.
+We now turn to JARA to determine its impact, if any, upon the statutory scheme of UCL that one must exhaust his administrative remedy by seeking Board review of an adverse referee determination before judicial review may be sought.
+Section 502 of UCL remains the same unaffected by JARA.
+Section 2(a) of JARA, 42 P.S. §20002(a) [1172], however, repeals absolutely portions of Section 509 of UCL with the surviving provisions reading as follows :
+Any decision made by the department or any referee or the [B]oard shall not be subject to collateral attack as to any application claim or claims covered thereby or otherwise be disturbed unless appealed from.
+Subject to appeal proceedings and judicial review any right, fact or matter in issue which was directly passed upon or necessarily involved in any decision of a referee or the [B]oard or the Court and which has become final shall be conclusive for all purposes of this act and shall not be subject to collateral attack as among all affected parties who had notice of such decision.. ..
+This same section of JARA also repeals absolutely all of the provisions of Section 510 of UCL whereupon it is then provided:
+A determination of the Unemployment Compensation Board of Review, under the act, including action by the [Bjoard disallowing an appeal from a referee, shall be final upon the entry thereof. (Emphasis added.)
+As a result of this legislative history, we are without a flat declaration that one must exhaust his administrative remedy by an appeal to the Board before lie may seek judicial review of an adverse referee’s determination. The answer must, therefore, be found in legislative intent. '
+Section 3(b) of JARA, 42 P.S. §20003 (b), expresses the intended purpose of Section 2 of JARA. It says, in part:
+(b) Interpretation. — The specific repeals effected by section 2 are intended to eliminate obsolete, unnecessary or suspended statutory provisions. General rules promulgated pursuant to the Constitution of Pennsylvania and the Judicial Code in effect on the effective date of the repeal of a statute, shall prescribe and provide the practice and procedure with respect to the enforcement of any right, remedy or immunity where the practice and procedure had been governed by the repealed statute on the date of its repeal. If no such general rules are in effect with respect to the repealed statute on the effective date of its repeal, the practice and procedure provided in the repealed statute shall continue in full force and effect, as part of the common law of the Commonwealth, until such general rules are promulgated.
+Considering this legislative purpose, the above quoted substantive language found in Section 2 of JARA directed particularly to the finality of Board action in disallowing an appeal from a referee and the provisions of Section 763 of the Judicial Code, 42 Pa. C.S. §763, affording this Court appellate jurisdiction from final orders of government agencies in which the Board is specifically referenced leads us to the conclusion that one must exhaust his administrative remedy by seeking Board review of an adverse referee’s determination before his right to judicial review comes into being. A “deemed” final decision of the Board for want of an appeal to it is not sufficient to directly seek judicial review of an adverse referee’s determination.
+As a matter of statutory construction, any other interpretation would produce an absurd and illogical result. If a person aggrieved by a referee’s determination could directly seek judicial review without first seeking Board review by the expedient of doing nothing until fifteen days after the referee’s determination, the Board’s quasi-judicial role in the administrative review process if not totally frustrated would be seriously proscribed at the option of the disappointed litigant. The legislature could not have intended such a result. Section 1922(1), Statutory Construction Act of 1972, 1 Pa. C.S. §1922(1). Furthermore, as a matter of common law, one must exhaust all available administrative remedies before there arises a right to judicial review. Borough of Baldwin v. Department of Environmental Resources, 16 Pa. Commonwealth Ct. 545, 330 A.2d 589 (1974).
+Having so concluded, we need not reach the second issue.
+Order
+Now, September 27,1979, the motion to quash petition for review filed by respondent, Unemployment Compensation Board of Review, is granted and the petition for review is quashed.
+Section 508(e) of the Appellate Court Jurisdiction Act of 1970, Act of July 31, 1970, PX. 673, as amended, formerly 17 P.S. §211.50S(e), repealed by Section 2(a) of JARA, 42 Pa. C.S. §20002(a) [1443], provid; d :
+The" jurisdiction of the Superior Court specified in section 510, act of December 5, 1936 (1937, PX. 2897), known as the ‘Unemployment Compensation Daw,’ ... is transferred to and vested in the Commonwealth Court and such provisions are hereby repealed in so far as inconsistent with such transfer.
