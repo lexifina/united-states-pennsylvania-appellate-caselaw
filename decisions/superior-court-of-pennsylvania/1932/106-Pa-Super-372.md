@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 161"
+decided: "1932-11-21"
+citations: ["106 Pa. Super. 372"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Gawthrop, Cunningham, Baldrige, Stadtfeld and Parker, JJ."]
+parties: ["Vondersmith v. Sullenberger, Appellant."]
+source_url: "https://static.case.law/pa-super/106/cases/0372-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 703091
+cites_cases: ["174 Pa. 543", "247 Pa. 374", "269 Pa. 400"]
+---
+
+# Vondersmith v. Sullenberger
+
+## Majority (Gawthrop, J.,)
+
+Opinion by
+Gawthrop, J.,
+This is an action of assumpsit brought by the payee of a promissory note against the maker thereof to recover the sum of $315.16, which is alleged to be the balance due thereon. The copy of the note attached to the statement of claim shows that it was a renewal note. The court below entered judgment for want of a sufficient affidavit of defense and defendant appeals.
+The affidavit of defense admits the execution and delivery of the note to plaintiff; but denies liability for payment of any part of the balance claimed. It denies that the plaintiff is the holder of the note for value and alleges that when the original note for $450, of which the note in suit is a renewal, was executed by defendant and delivered to plaintiff, “the consideration for the giving of said promissory note from the defendant to the plaintiff was the oral representation by the plaintiff to the defendant that there was four hundred twenty-five ($425) dollars due plaintiff on a certain motor vehicle belonging to the daughter of the defendant, Anna Sullenberger, and that the automobile in question having been seized by the Federal Government for a violation of the law and the plaintiff having filed his claim with the Federal Government and four hundred twenty-five ($425) dollars having been awarded by the Federal Court in Trenton, New Jersey, requested the defendant to give him a promissory note in the sum of four hundred fifty ($450) dollars to enable him to get this money at the plaintiff’s banking institution, with the distinct understanding and agreement that when the plaintiff received the four hundred twenty-five ($425) dollars due him from the Federal Government he would return the aforesaid note to the defendant. The additional twenty-five ($25) dollars on the aforesaid note to the defendant represented a balance due the plaintiff by the defendant on a separate account which was paid at the first renewal period.” It is further alleged that at a later date the Federal Government refused to award the sum of $425 to plaintiff on his claim against the automobile and awarded him only the sum of $190, which he received, less legal •fees of $50, “therefore accounting for the credit of one hundred nine and 84/100 ($109.84) dollars which plaintiff acknowledged in paragraph 6 of plaintiff’s statement.”
+The learned judge of the court below was of the opinion that the giving of the renewal note estopped defendant from contesting the consideration for the note in suit, and entered the judgment on that ground. We are of one mind that in doing so he fell into error.
+To us it seems clear that defendant sufficiently averred that he signed the note on the request of plaintiff and merely for his accommodation, no consideration passing. The averment that plaintiff requested defendant to give him a promissory note in the sum of $450 to enable him to get that amount of money from his bank, amounts to an averment that plaintiff requested defendant to lend him his name by making him an accommodation note. This is the clear effect of the averment, although the pleader did not use the words “accommodation note” or “accommodation maker.” The averment of an oral representation by plaintiff to defendant at the time of the giving of the original note that there was due plaintiff from the Federal Government an amount equal to the face of the note, and the averment that at that time plaintiff promised defendant to return the note to him when he (plaintiff) received the money from the Federal Government, if proved, would not have the effect of destroying the accommodation character of the note. This is not a case in which the maker of a note undertakes to set up as a defense the payee’s violation of a parol agreement made between the parties at the time a note was given for money borrowed. Defendant seeks to avoid payment on the ground that he borrowed no money from plaintiff, but merely gave him an accommodation note without consideration. Therefore Chatham & Phoenix National Bank v. Tull, 269 Pa. 400, and kindred cases, relied on by counsel for appellee are not controlling. If the averments of the affidavit of defense are established, the original note was an accommodation note. As between the accommodated and the accommodating party the latter can be under no liability to tbe former: Peale v. Addicks, 174 Pa. 543. As the note in suit was merely a renewal of the original note, defendant has a good defense if he can establish to the satisfaction of a jury that the original note was given for the accommodation of plaintiff, without consideration: King C. & S. Co. v. Am. Brewers’ Sup. Co., 247 Pa. 374. He should have an opportunity to do so.
+The judgment is reversed with a procedendo.
