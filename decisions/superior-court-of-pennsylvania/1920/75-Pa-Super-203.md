@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 103"
+decided: "1920-12-10"
+citations: ["75 Pa. Super. 203"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, Henderson, Trexler, Keller and Linn, JJ."]
+parties: ["Bower’s Estate."]
+source_url: "https://static.case.law/pa-super/75/cases/0203-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 646969
+cites_cases: ["15 Pa. 128", "203 Pa. 191", "48 Pa. 58", "71 Pa. Superior Ct. 468"]
+---
+
+# Bower's Estate
+
+## Majority (Keller, J.,)
+
+Opinion by
+Keller, J.,
+For a proper understanding of the matters involved in this appeal we shall have to state the facts at some length.
+Immediately following the death of the decedent, his wife, who was the executrix of, and sole legatee under, his will called on the appellant, an undertaker, to procure á casket for the burial. He accompanied her and her daughter to the Boyertown Casket Company where she selected a bronze casket. Before accepting it, the appellant, Mrs. Bowers and her daughter went to the family mausoleum to find out whether the casket would go into the crypt. They found the crypt very small, but on removing a slab of stone at the back the measurements indicated that the space was large enough to permit the casket to be placed in it. It is proper to state that the crypt opens at the side not the end.
+The casket was accordingly bought, the decedent’s body was placed in it, the funeral was held under appellant’s direction and following the burial services thé casket containing the body was laid in the crypt, and the marble slab closing the front of the crypt was placed in position and sealed. When securely fastened it was found that the slab, although secure and tight, projected about a quarter of an inch beyond the adjoining mausoleum wall, and the cemetery officials told appellant it would have to be made level with the wqll. He requested them to have it smoothed down as soon as possible, but due to some misunderstanding this was not done. Instead the cemetery officials wrote to Mrs. Bowers that the marble front of the crypt had not been properly replaced but stated that the matter could be easily remedied by the undertaker and the stoneman who replaced the crypt front.
+Mrs. Bowers at once notified appellant who said lie wonld take care of the matter. She insisted, however, in addition that appellant take the casket out of the crypt, open it and show it to her so that she could see the body again. Appellant told her he could not do this unless he had a permit from the State Board of Health —the cemetery was in Montgomery County — and that it would probably take a week to secure it; that when he got the permit from Harrisburg he would open the casket for her. Mrs. Bowers, or her daughter acting for her, replied if that was necessary they would attend to that themselves.
+Without communicating further with appellant, she went to another undertaker, who seems to have been advising her, and in the course of two months they secured or had made a copper casket slightly narrower, had the marble slab removed and rubbed thinner so that it would not project, got a permit from the State Board of Health, opened the crypt, took out the casket, and removed from it the body which had lain in it for two months and placed it in the new casket which was put in the crypt and the marble slab replaced and cemented. She sent the first casket to a storage warehouse and refused to pay appellant his bill for the same. The orphans’ court disallowed his claim.
+The learned auditing judge seems to have been misled by the inferences drawn by Mrs. Bowers and her daughter, and the statements of counsel who then represented the estate, that the Board of Health had complained and required the slab to be leveled with the wall of the mausoleum, for he said in his adjudication that the note from the cemetery authorities had been sent in conformity with the regulations of the Board of Health. The evidence failed to show that the Board of Health had anything to do with the notice. It was sent by the cemetery people on their own motion and showed on its face that the trouble was not serious and could be easily remedied. It is true that Mrs. Bowers and her daughter several times referred to the matter as if the notice had come from the Board of Health but it clearly appears that they were referring solely to the letter from the cemetery which was offered in evidence and which did not mention the Board of Health. It was Mrs. Bowers’s insistence on having the casket removed from the crypt and opened that brought the Board of Health into it, as that could only be done after such a permit had been secured. No permit was necessary to smooth down the slab.
+Mrs. Bowers had a right to demand that appellant fix the marble front so as to comply with the cemetery rules, but she had no right after the funeral was over to demand that he open the crypt, remove the casket, open it and let her view the body. That was no part of his contract, and it was her insistence upon these matters that caused all the trouble.
+Much of the testimony in opposition to the claim was proven unworthy of belief by the very sensible suggestion of the auditing judge that the parties and their counsel should together go and measure the first casket. It was found that the two caskets were of precisely the same length, though the second one was slightly narrower in width and lower in height, and that the casket was in good condition except for a slight dent in the moulding at the bottom, so that the testimony as to the first one being much too long and the handles pulling put, etc., may be disregarded.
+The appellant bought and used the casket which the appellee selected, after measurements had been taken showing it would go into the crypt. It did go in, leaving however a slight projection of the front slab, which could be easily remedied and which appellant was entirely willing to fix.
+But because the appellee insisted on having the crypt unsealed, the casket removed and opened and the body of her husband shown her, which under the law required a permit from the State Board of Health, and appellant could not immediately secure it, she arbitrarily discarded the casket which had held her husband’s remains for two months and no one else would want to use, and substituted another for it, and then refused to pay for the casket she thus chose to reject.
+She could do this if she wanted to but it furnished no justification for refusing to pay the bill which she had contracted with appellant.
+The decree is reversed at the costs of the appellee, and the record is remitted to the orphans’ court with directions that appellant’s claim, less the cost of fixing the front marble slab, be allowed and distribution made accordingly.
