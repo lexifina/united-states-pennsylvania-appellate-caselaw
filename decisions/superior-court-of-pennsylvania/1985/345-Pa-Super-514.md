@@ -1,0 +1,49 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1252, 1254"
+decided: "1985-09-18"
+citations: ["345 Pa. Super. 514", "498 A.2d 942"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WICKERSHAM, BROSKY and TAMILIA, JJ.", "BROSKY, J., concurring."]
+parties: ["REGAL VENDING, LTD., Appellant, v. COMMISSIONER OF POLICE. COMMONWEALTH of Pennsylvania v. TWO ELECTRONIC POKER GAME MACHINES. Appeal of REGAL VENDING CORPORATION."]
+source_url: "https://static.case.law/pa-super/345/cases/0514-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 639176
+cites_cases: ["148 Pa.Super. 101", "149 A.2d 483", "156 A.2d 107", "176 A.2d 115", "188 Pa.Super. 480", "192 A.2d 240", "197 Pa.Super. 10", "201 Pa.Super. 28", "224 F.Supp. 794", "24 A.2d 756", "284 Pa.Super. 623", "289 Pa.Super. 259", "297 Pa.Super. 54", "302 Pa.Super. 350", "337 F.2d 857", "363 U.S. 720", "378 U.S. 347", "397 Pa. 430", "4 L.Ed.2d 1521", "405 U.S. 313", "430 U.S. 188", "437 A.2d 67", "448 A.2d 104", "502 Pa. 186", "80 S.Ct. 1596"]
+---
+
+# Regal Vending, Ltd. v. Commissioner of Police
+
+## Majority (TAMILIA, Judge:)
+
+TAMILIA, Judge:
+These consolidated appeals are from the lower court Orders granting the forfeiture to the Commonwealth of gambling devices and denying the return of them to appellants.
+The facts of these cases are identical. On May 10, 1983, Philadelphia police seized coin-operated electronic video poker machines from Jarrett’s Lounge. The Commonwealth moved to have the machines forfeited under 18 Pa.C.S.A. § 5513(b). Appellants filed answers to the Commonwealth’s petition in the form of a Petition for Return of Property. On February 1, 1984, the lower court found these machines to be gambling devices per se as the machines had both a “knockdown” switch and “meter” to record the number of games knocked down, following the Supreme Court’s decision and rationale in Commonwealth v. Two Electronic Poker Game Machines, 502 Pa. 186, 465 A.2d 973 (1983). Stays were granted, and reconsideration was denied following an evidentiary hearing. These appeals followed.
+Appellants concede the propriety of the lower court’s determination that these machines are gambling devices per se Appellants, however, argue that the application of the Supreme Court decision in Two Electronic Poker Game Machines, filed after the seizure of the machines in the present case, violates their due process rights to the sense of fair warning that their conduct constitutes a crime, since the machines prior to the decision in Two Electronic Poker Game Machines were not found to be gambling devices per se by this court in Commonwealth v. One Electro-Sport Draw Poker Machine, 297 Pa.Super. 54, 443 A.2d 295 (1981), reversed on appeal by the Supreme Court in Two Electronic Poker Game Machines. We disagree that there has been a retroactive application of the law violative of appellants’ due process rights and accordingly affirm.
+[A]n unforeseeable judicial enlargement of a criminal statute, applied retroactively, operates precisely like an ex post facto law, such as Art. I, § 10, of the Constitution forbids---- If a state legislature is barred by the Ex Post Facto Clause from passing such a law, it must follow that a State Supreme Court is barred by the Due Process Clause from achieving precisely the same result by judicial construction.
+Bouie v. Columbia, 378 U.S. 347, 353-54, 84 S.Ct. 1697, 1702, 12 L.Ed.2d 894, 899 (1964).
+The constitutional proscription against making an act, which was innocent when done, a criminal act by an unexpected and unforeseeable judicial enlargement of a statute, operates to guarantee the accused fair warning that his conduct will give rise to criminal penalties. Bouie v. Columbia, supra; see also, Marks v. United States, 430 U.S. 188, 97 S.Ct. 990, 51 L.Ed.2d 260 (1977); Rabe v. Washington, 405 U.S. 313, 92 S.Ct. 993, 31 L.Ed.2d 258 (1972); Wilson v. Codorus Township, 67 Commwth.Ct. 380, 448 A.2d 104 (1982). See generally, Commonwealth v. Hoetzel, 284 Pa.Super. 623, 426 A.2d 669 (1981).
+Here, however, machines that contain the elements of chance, consideration, and reward have long been held to be gambling devices. See Commonwealth v. 9 Mills Mechanical Slot Machines, 62 Cmmwth.Ct. 397, 437 A.2d 67 (1981); In Re Gambling Devices Seized at American Legion Post No. 109, 197 Pa.Super. 10, 176 A.2d 115 (1961). The section of the Crimes Code that provides for forfeiture of such gambling devices, 18 Pa.C.S.A. § 5513(b), was in effect long before the seizure of these machines.
+The fact that the machines in the present case were seized after this court decided Commonwealth v. One Electronic Poker Game Machine, 302 Pa.Super. 350, 448 A.2d 1077 (1982) and Commonwealth v. One Electro-Sport Draw Poker Machine, 297 Pa.Super. 54, 443 A.2d 295 (1981) and before these decisions were overruled on appeal by the Supreme Court, does not support appellants’ argument that they were deprived of fair warning that their conduct was proscribed.
+The Supreme Court’s decision in Two Electronic Poker Game Machines did not unforeseeably enlarge the statutory proscription against possession of gambling devices embodied in the existing law of this Commonwealth, and it was this court’s decisions which were inconsistent with established law. The Supreme Court in Two Electronic Poker Game Machines accepted the principles established by the Commonwealth Court in 9 Mills Machines and affirmed the reasoning therein, which was consistent with established Pennsylvania authority. See Laris Enterprise, Inc. Appeal, 30 D & C 2d 179, aff’d 201 Pa.Super. 28, 192 A.2d 240 (1963); American Legion No. 109, supra; In Re Gaming Devices Seized at American Legion Post 51 Appeal, 188 Pa.Super. 480, 149 A.2d 483, aff’d per curiam, 397 Pa. 430, 156 A.2d 107 (1959), appeal dismissed 363 U.S. 720, 80 S.Ct. 1596, 4 L.Ed.2d 1521 (1960); Urban’s Appeal 148 Pa.Super. 101, 24 A.2d 756 (1942); see also United States v. Bally Barrel O’Fun Coin Operated Gaming Device, 224 F.Supp. 794 (MD Pa.1963), aff’d, 337 F.2d 857 (3rd Cir.1964).
+Hence, appellants’ contention that the machines in the present case were not illegal at the time that they were seized is unsupported by prevailing law. The Supreme Court’s decision in Two Electronic Poker Game Machines was not an unforeseen judicial enlargement of the applicable law, as the machines in the present case, which contain the elements of chance, consideration and reward, were gambling devices per se before the Court’s pronouncement.
+The order of the court below which denied the petition for the return of contraband property is affirmed. (No. 1252 Philadelphia, 1984). The order of the court below which granted the forfeiture of the gambling devices is affirmed. (No. 1254 Philadelphia, 1984). That part of the orders which left open a consideration of the return of the machines to the operators upon removal of the “knockdown switches” and “meters” is rendered null by this Opinion, as there is no provision in the law to rehabilitate a gambling device and permit reclamation by the owner.
+Jurisdiction relinquished.
+BROSKY, J., concurring.
+. Section 5513(a)(1) provides in relevant part: A person is guilty of a misdemeanor of the first degree if he:
+(1) intentionally or knowingly ... maintains, ... any device to be used for gambling purposes, except playing cards;
+Section 5513(b) provides:
+Any gambling device possessed or used in violation of the provisions of subsection (a) of this section shall be seized and forfeited to the Commonwealth. All provisions of law relating to the seizure, summary and judicial forfeiture, and condemnation of intoxicating liquor shall apply to seizures and forfeitures under the provisions of this section.
+See 47 P.S. § 6-601 et seq. for provisions governing seizure and forfeiture.
+. Appellants in their briefs concede that the machines in the present case are legally indistinguishable from those in One Electro-Sport Draw Poker Machine, 297 Pa.Super. 54, 443 A.2d 295 (1981), reversed, 502 Pa. 186, 465 A.2d 973 (1983).
+. We note that our court's decisions in Commonwealth v. One Electronic Poker Game Machine, supra, and Commonwealth v. One Electro-Sport Draw Poker Machine, supra, were on appeal at the time of the seizure. Supreme Court had granted allocatur. Appellants were on notice that these decisions were subject to reversal.
+
+## Concurrence (BROSKY, Judge,)
+
+BROSKY, Judge,
+concurring:
+I agree with the majority that the Supreme Court’s decision in Two Electronic Poker Game Machines did not unforeseeably enlarge the statutory proscription against possession of gambling devices. However, even if it had been an unforeseeable enlargement, I do not believe that the present forfeiture of these machines based on Two Electronic Poker Game Machines would constitute a retroactive application of that case. I reach this conclusion because of the Supreme Court’s decision that this type of machine constitutes a gambling device per se (an object the possession of which, without more, constitutes a crime). It would be the height of absurdity to return the machines in question to appellant when, since they are gambling devices per se, they would be subject to seizure and forfeiture immediately upon their return to appellant’s possession. Thus, the present forfeiture of the machines does not require a retroactive application of Two Electronic Poker Game Machines, but simply reflects the fact that machines, the possession of which is illegal, cannot be given to appellant.
+For these reasons, I agree with the majority that the judgment of the court below should be affirmed.
+. Appellant’s argument to the contrary, the forfeiture provisions of 18 Pa.C.S. § 5513(b) governing gambling devices are applicable to mere possession. Commonwealth v. Bretz, 289 Pa.Super. 259, 433 A.2d 55 (1981).
