@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1574 C.D. 1979"
+decided: "1980-10-06"
+citations: ["54 Pa. Commw. 182"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Mencer, Rogers and Williams, Jr., sitting as a panel of three."]
+parties: ["Northeast Dodge Co. et al., Petitioners v. Commonwealth of Pennsylvania, State Board of Motor Vehicle Manufacturers, Dealers & Salesmen, Respondent."]
+source_url: "https://static.case.law/pa-commw/54/cases/0182-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1914174
+cites_cases: ["16 Pa. Commonwealth Ct. 237", "25 Pa. Commonwealth Ct. 295", "328 A.2d 886", "361 A.2d 497", "402 A. 2d 1050"]
+---
+
+# Northeast Dodge Co. v. Commonwealth
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+These are the appeals of Northeast Dodge Co., Inc. and Wesley M. Johnson from an order of the State Board of Motor Vehicle Manufacturers, Dealers and Salesmen (Board) suspending Northeast’s dealer’s license and Johnson’s motor vehicle salesman’s license, each for 60 days. Johnson is president of Northeast. In addition to Johnson four other Northeast officers or employees were charged by the Board with offenses in connection with car sales at the Northeast agency. The charges against three of these persons were dismissed after hearing and no appeal was taken by the fourth from a 60 day suspension of his salesman’s license.
+In a lengthy and detailed citation the appellants were charged with making substantial misrepresentations and false promises to customers, with knowingly failing or refusing to account for or to pay over moneys or other valuables belonging to others and with doing things which demonstrated incompetency, in violation of Subsections 4(2) (i) (ii) (iv) and (vi) of the Motor Vehicle Manufacturers’, Dealers’ and Salesmen’s License Act, Act of December 21,1973, P.L. 408, 63 P.S. §805(2) (i), (ii), (iv), and (vi). Avoiding the great detail of the charges, we record that their substance is that Northeast and its named employees represented to named customers that Northeast could and would obtain financing for purchasers of cars which in fact it could not and did not do, that it took customers’ cars in trade and sold or traded them before financing arrangements were completed so that they could not be restored when the deals fell through and that it used so-called installment contracts in which there was but one installment provided, this for the full purchase price of the vehicle being purchased.
+After five days of hearings the Board handed down an adjudication with extensive findings of fact concerning each of the charges and the persons charged. With respect to Johnson, the Board found that he sold one customer’s trade-in vehicle before completing financing arrangements, that he failed promptly to return a $2000 deposit to another customer when the deal fell through and that he established Northeast’s policy of requiring employees to have customers execute installment contracts with one installment for the whole purchase price. One of the questions posed by the appellants is that of whether the record supports the Board’s conclusion that Northeast and Johnson violated the Act. One argument in support of the contention that the record is insubstantial is that the actions of other employees cannot be imputed to Northeast or Johnson. Of course, Johnson’s salesman’s license was suspended not for what others did but what he did, described above and clearly supported in the record. Northeast, a corporation, is an entity distinct from its employees and is severally liable for their acts, even criminally, and certainly in administrative proceedings. Commonwealth v. J. P. Mascaro and Sons, Inc., Pa. Superior Ct. , 402 A. 2d 1050 (1979). Furthermore, the testimony of Northeast’s customers, residents of Philadelphia who took time to come to Harrisburg for the hearings, amply supports the Board’s findings and these findings support the Board’s conclusions that misrepresentation, false promises, failure to return money and property when it should have been returned and incompetency on the pari of Northeast had been demonstrated.
+The appellants more urgently press three questions concerning the conduct of the hearings below. None has merit.
+They first say that there was an impermissible intermingling of prosecutorial and adjudicatory functions, first because the citation listing the charges and fixing the time for hearing was sent out over the signature of the chairman of the Board, and second because one Assistant Attorney General was trial counsel in support of the charges, and another Assistant Attorney General assisted the Board during the hearings. As to the first reason, we note that the Act imposes on the Board the duty to investigate complaints such as those lodged by Northeast’s customers, to discipline offenders and of course to provide a notice of the charges and of a hearing. There is nothing whatsoever in this record suggesting that the chairman’s act of signing the citation and notice was other than part of the performance by the Board of which he was head of a ministerial duty required by statute and the constitution.
+Nor is there anything in the record indicating improper commingling of their functions on the part of the two Assistant Attorney Generals, one who tried the case and the other who assisted the Board during the hearings. Neither is disclosed as having concerned himself with the other’s activities. The case in this aspect is ruled by Pennsylvania Human Relations Commission v. Thorp, Reed and Armstrong, 25 Pa. Commonwealth Ct. 295, 361 A.2d 497 (1976), where we found no violation of due process in one person’s handling the prosecutory and another from the same branch of an agency, the adjudicatory function.
+The appellants also complain that each of the ten members of the Board did not attend each of the five hearings conducted in this matter. Eight of the ten members were present at the first hearing, all ten attended the next three hearings and seven attended the last — a remarkably good record of attendance. In any event, it is not required that every member of the Board be present at every hearing. A majority of the Board, the quorum required by law attended each of the sessions. Further, we have held that due process is satisfied if members of Boards not present at hearings review the testimony before the adjudication is made. General State Authority v. Loffredo, 16 Pa. Commonwealth Ct. 237, 328 A.2d 886 (1974).
+Order affirmed.
+Order
+And Now, this 6th day of October, 1980, the order of the State Board of Motor Vehicle Manufacturers, Dealers & Salesmen, made June 28, 1979, is affirmed.
+Order
+Now, November 10, 1980, having considered petitioners’ application for reargument and respondent’s answer thereto, said application is hereby denied.
+Section 1905(b) of the Statutory Construction Act of 1972, 1 Pa. C. S. §1905(b).
