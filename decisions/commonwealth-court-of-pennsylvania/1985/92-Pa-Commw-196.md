@@ -1,0 +1,36 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1162 C.D. 1984"
+decided: "1985-10-09"
+citations: ["92 Pa. Commw. 196"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["to Judges Rogers, Barry and Palladino, sitting as a panel of three.", "Judge Palladino dissents."]
+parties: ["Commonwealth of Pennsylvania, Pennsylvania Liquor Control Board, Appellant v. Herrmann Brothers, Inc., Appellee."]
+source_url: "https://static.case.law/pa-commw/92/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1340829
+cites_cases: ["288 A.2d 560", "5 Pa. Commonwealth Ct. 33"]
+---
+
+# Commonwealth, Pennsylvania Liquor Control Board v. Herrmann Bros.
+
+## Majority (Judge Barry,)
+
+Opinion by
+Judge Barry,
+This appeal results from an order of the Court of Common Pleas of Philadelphia, sustaining an appeal by applicant, Herrmann Brothers, Inc., and reversing an order of the appellant, the Pennsylvania Liquor Control Board (Board), which had denied applicant’s request for the transfer of a restaurant liquor license to the premises at 3500 Kensington Avenue in Philadelphia.
+In April of 1982, one Bill S. Memis purchased the premises referred to above, including the equipment and fixtures. Mr. Memis, however, did not purchase the existing liquor license which had been held by the previous owner, A.R.F. Bar, Inc., as that license R-2193, was scheduled to be revoked because of a 1981 violation. After purchasing the premises, Mr. Memis gave License R-2193 to the Board which revoked the license.
+Mr. Memis then purchased a license, R-7398, which had been held by Herrmann Brothers, Inc. Mr. Memis intended to transfer the license to the 3500 Kensington Avenue premises. That license had been in safekeeping since 1978 due to the then principal’s intent to sell. Since the sale of the license, the corporate structure of Herrmann Brothers, Inc. has been completely changed and Mr. Memis is the sole officer and stockholder. By order dated October 18, 1982, the Board denied the requested transfer.
+Mr. Memis then renewed the license for a period ending October 31, 1983 and placed it in safekeeping with the Board. Mr. Memis then asked the Board to reconsider its original denial. Following a hearing, the Board again denied the requested transfer. This denial was based on three grounds: (1) the premises at 3500 Kensington Avenue was within 300 feet of Harrogate Park, a city playground; (2) the premises were not reputable as evidenced by the revocation of the license held by A.R.F. Bar, Inc.; and (3) approval of the application would adversely affect the health, welfare, morals and peace of the neighborhood within a radius of 500 feet.
+Applicant then took an appeal to the trial court which took additional evidence. The court first found that Mr. Memis had no connection with A.R.F. Bar, Inc. and, therefore, none of the violations of the prior owner could in any way be attributed to Mr. Memis and used to deny the transfer. Secondly, the court found as a fact that approval of the transfer would not affect the health, welfare, peace and morals of the community as Mr. Memis was an upstanding citizen whose family resided one block away from 3500 Kensington Avenue. Finally, the court found that the premises at 3500 Kensington Avenue had been operating as a restaurant-tavern since shortly after the repeal of Prohibition and prior to the existence of the playground. As the premises predated the playground, the court held that the Board was without authority to deny the transfer based on the existence of the playground within 300 feet of the proposed licensed premises. The Board filed this appeal to our Court.
+Section 404 of the Liquor Code, Act of April 12, 19,51, P.L. 90, as amended, 47 P.S. §4-404 (Supp. 1985), provides:
+Upon receipt of the application . . . and upon being satisfied . . . that the applicant is a person of good repute . . . and that the issuance of such license is not prohibited by any of the provisions of this act, the board shall in the case of a hotel or restaurant, grant and issue to the applicant a liquor license . . . Provided, however, that in the ease of a new license or the transfer of any license to a new location the board may, in its discretion, grant or refuse such . . . transfer if such place proposed to be licensed is within three hundred feet of any . . . public playground. . . . (Emphasis added.)
+The Board in this appeal raises only two issues, neither of which has any merit. Hence, we affirm.
+The Board first argues that the court abused its discretion in finding, as a fact, that the premises at 3500 Kensington Avenue had been continuously licensed as a restaurant-tavern since shortly after the repeal of prohibition. The Board argues this finding is not supported by the record since documentary evidence proves that the license of A.R.F. Bar, Inc. was revoked some eighteen days prior to this application for transfer. The court, however, made no such finding. Rather, it stated, “ [T]he licensee offered unrebutted testimony that the premises at 3500 Kensington Avenue has been operating as a licensed restaurant-tavern since the end of prohibition and prior to the existence of the [city playground].” (Page 3, trial court’s opinion, March 21, 1984) (emphasis added). The Board’s first assertion of error is clearly meritless.
+The Board next argues that Section 404 of the Liquor Code allows it discretion to deny this transfer as it views the transfer as one “to a new location.” In Lousil, Inc. v. Pennsylvania Liquor Control Board, 5 Pa. Commonwealth Ct. 33, 288 A.2d 560 (1972), we reversed the Board’s denial of an application to transfer a license on facts remarkably similar to those of this case. There, a license holder proposed to transfer the license at the existing premises to a new licensee. The Board denied the application, citing the fact that a church and a school were within 300 feet of the premises. We held, however, that the transfer was not to a new location and, therefore, the existence of a school or church erected after the original licensing (again, shortly after the repeal of Prohibition) offered no discretion to the Board to deny the transfer provided the transferee met all other requirements of the Liquor Code.
+In the present ease, the Board does not challenge the court’s holding that the transferee meets all other requirements of the Liquor Code. The Board argues only..that the revocation of A.R.F. Bar, Inc.’s license somehow changes this transfer to one to a new location. We believe the Board’s view is too restrictive. Here, the surrendering of the A.R.F. Bar, Inc. license to the. Board for revocation was part of the same proceeding whereby Mr. Memis attempted to open his establishment with a “clean” license. The premises were never used for any other purpose. We ,. believe that Lousil is applicable to the present case. The trial court, therefore, committed no error of law in sustaining applicant’s appeal and reversing the Board’s denial of the transfer.
+Order
+Now, October 9, 1985, the March 21, 1984 order of the Court of Common Pleas of Philadelphia, at No. 266Í March Term 1983, is affirmed.
+Judge Palladino dissents.
