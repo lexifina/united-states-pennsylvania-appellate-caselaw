@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 315"
+decided: "1917-03-16"
+citations: ["66 Pa. Super. 586"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Kephart, Trexler and Williams, JJ."]
+parties: ["Jameson Piano Co. v. Earnest, Appellant."]
+source_url: "https://static.case.law/pa-super/66/cases/0586-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 628099
+cites_cases: ["1 R. 249", "135 Pa. 246", "137 U. S. 287", "202 Pa. 313", "22 Pa. Superior Ct. 275", "233 Pa. 581", "58 Pa. Superior Ct. 587", "60 Pa. Superior Ct. 225", "70 Pa. 231", "73 Pa. 354"]
+---
+
+# Jameson Piano Co. v. Earnest
+
+## Majority (Kephart, J.,)
+
+Opinion by
+Kephart, J.,
+The lease, the subject of this litigation, was executed by the defendant in New Jersey, and it authorized and empowered “any attorney of any court of record of Pennsylvania or elsewhere to appear for me and to enter judgment against me.” The appellee entered a judgment in the Municipal Court of Philadelphia County. The plaintiff’s statement or declaration was addressed to the clerk of the Municipal Court, and the judgment was entered by the clerk in accordance witb/the direction of the attorney for the plaintiff. There was no appearance in behalf of the defendant, nor was the declaration signed by any attorney for the defendant.
+There is no doubt that had the judgment been entered in the Court of Common Pleas of Philadelphia County by the prothonotary, though the praecipe for the entry of judgment and the declaration or statement filed was not signed by the defendant or an attorney for him, the judgment would have been good under the 28th section of the Act of February 24,1806, 4 Sm. L. 278: Krantz v. Kazenstein, 22 Pa. Superior Ct. 275; Dalton v. Willingmyre, 60 Pa. Superior Ct. 225. The contract on its face clearly had in view a performance.in the State of Pennsylvania. By the express direction of the contract, payment on account of the piano leased' was to be made in Pennsylvania, and the authority was given to any attorney of any court of record of the State of Pennsylvania. With these provisions in the contract, it may be inferred that the defendant knew of the laws of this State, which are made a part of the language used in instruments of this character, and he would be bound thereby.
+We need not, in this appeal, decide whether the Municipal Court has jurisdiction to enter a judgment on a note or lease containing authority such as is expressed in this lease. It is a court of record, but the Act of 1806 authorizes the prothonotary of any court of record to enter the judgment. The Municipal Court of Philadelphia County does not have a prothonotary, and when the appellee seeks to justify his judgment under the Act of 1806, he must do so by force of that act, and the act under which the Municipal Court was created. The prothonotary is, by virtue of his office, clerk of the Municipal Court, but because he is the clerk or chief clerk of that court, and exercises certain duties as a chief clerk, similar to the duties of prothonotary of the Courts of Common Pleas, it does not necessarily follow that he is the prothonotary of that court within the meaning of the Act of 1806. The Act of 1806, being in derogation of the common law, should be strictly construed: Commonwealth v. Black, 1 R. 249; Hope v. Everhart, 70 Pa. 231; Whitney v. Hopkins, 135 Pa. 246; Connay v. Halstead, 73 Pa. 354. The powers of the prothonotary of the Courts of Common Pleas of Philadelphia County are much more extensive than- those of the clerk of the Municipal Court. The office of “clerk” in the Municipal Court does not have the same import as the office of “prothonotary” in the Courts of Common Pleas, or as intended by the Act of 1806. If the legislature intended that the prothonotary of the Courts of Common Pleas of Philadelphia County should be prothonotary of the Municipal Court, it would have so stated. Wé cannot give powers to the clerk of the Municipal Court which are delegated by law to the prothonotary merely because the duties are similar, and for the time being the same person holds both offices.
+This judgment could have been entered in the Municipal Court as a court of record, only by a specific execution of the letter of authority contained in the instrument upon which judgment was to be confessed. It required an appearance for the defendant. The record must show that the defendant was served with a process or voluntarily appeared, or that the judgment was confessed by an attorney of a court of record of Pennsylvania. The defendant had the right to insist upon this letter of authority contained in the lease being complied with. The rule to strike off should have been made absolute : Grover Machine Co. v. Radcliffe, 137 U. S. 287.
+It is conceded that the prothonotary of the Court of Common Pleas of Philadelphia County is, by profession, an attorney at law. This would not aid the plaintiff. Under the Act of 1834 he could not practice as an attorney. “He has no authority by virtue of his office ......to act as a clerk, agent or attorney for any person. His commission as prothonotary gives him no right to act as an attorney in fact or in law for suitors or others”: .Whitney v. Hopkins, supra. His name as clerk of the Municipal Court is not signed to the assessment of damages, or the entry of the proceeding. It- is signed by Schofield, who is presumably a docket clerk.
+The order of the court below is reversed, the rule to strike off the judgment is reinstated, and is here made absolute.
