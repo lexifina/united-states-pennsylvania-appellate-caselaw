@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 207"
+decided: "1909-12-13"
+citations: ["41 Pa. Super. 292"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Porter, Henderson, Morrison, Qrlady and Beaver, JJ."]
+parties: ["Wagner v. King, Appellant."]
+source_url: "https://static.case.law/pa-super/41/cases/0292-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 884149
+cites_cases: ["120 Mass. 244", "127 N. Y. 224", "133 Pa. 189", "15 Wend. (N. Y.) 380", "167 Pa. 296", "169 Mass. 492", "19 Pa. 19", "33 N. J. L. 523", "37 N. J. Eq. 94", "4 Pa. 353", "4 Watts, 317", "51 Ill. App. 538", "62 Barb. 311", "75 Conn. 662", "84 Cal. 585", "94 Md. 462", "96 Ga. 562"]
+---
+
+# Wagner v. King
+
+## Majority (Henderson, J.,)
+
+Opinion by
+Henderson, J.,
+The agreement between the plaintiff and the defendant with reference to the erection of the wall which is the occasion of their controversy was verbal. The trial judge found that a part of that agreement was that the wall should be erected on the defendant’s ground along the division line between the properties, and this finding is supported by all of the evidence. The further fact was found that the plaintiff located and erected the wall on the defendant’s lot three and three-fourth inches beyond the dividing line at the front and seven and three-fourths inches beyond it at the rear end thereof. As a result of this location a strip of the defendant’s land three and three-fourth inches wide at one end and seven and three-fourth inches wide at the other is thrown into the passageway of the plaintiff. This the latter says was inadvertently done. In his answer to the defendant’s cross bill he makes the following statement: “I allege that any encroachment of said wall on King’s lot beyond the dividing line was made and done wholly without my knowledge and consent.” It is evident, therefore, that the wall is not where the parties agreed that it should be, and that the defendant is practically excluded from the enjoyment of the strip of ground across which the plaintiff encroached on his lot. The license was for the wall in a particular place. By mistake or otherwise it was not located in accordance therewith. Upon what principle, then, has the plaintiff standing to insist that he be protected in this intrusion on the defendant’s estate? Certainly not on the ground of estoppel, for the defendant avers in the cross bill that he did not discover until after the wall was built that it encroached on the line agreed upon, and the plaintiff in his answer to the cross bill, as we have seen, declares he did not know that the face of the wall was beyond the established line, nor is there any evidence leading to a different conclusion. It is true that the defendant was present at times during the erection of the wall, but there is not a suggestion in the case that he knew that the plaintiff was trespassing in doing the work. There is Some evidence in the testimony of Mr. Strasberger, who put up the cribbing for the wall, that the plaintiff was present when the cribbing was built, and that the intention was to follow the line of the lots but that the plaintiff told him to keep over an inch or two on the defendant’s property, but none of the evidence intimates that the defendant knew of the encroachment. In the absence of an estoppel the defendant has a right to insist that the license be exercised on the conditions subject to which it was granted. This is a well-recognized rule: Mumford v. Whitney, 15 Wend. 380; Freeman v. Headley, 33 N. J. L. 523; Dempsey v. Kipp, 62 Barb. 311. If then the plaintiff is occupying land of the defendant not covered by the license the latter is in the strict exercise of his right in insisting that the objectionable occupancy be discontinued. And this may be done by a mandatory injunction: Long v. Regan, 94 Md. 462; Stanford v. Lyon, 37 N. J. Eq. 94; Norwalk Heating, etc., Co. v. Vernam, 75 Conn. 662; Pile v. Pedrick, 167 Pa. 296; Harrington v. McCarthy, 169 Mass. 492. The disclaimer to the strip in question filed by the plaintiff does not put the defendant in the possession or enjoyment of his property, nor secure to him the incidents of ownership to which, both in law and equity, he is entitled.
+But as the wall was constructed under a license from the defendant, and its present location is the result of a mistake on the part of the plaintiff, we think it would not be equitable to require its removal from the defendant’s premises and the construction of it wholly on the plaintiff’s land, as requested by the defendant. The ends of justice will be met and full effect given to the intention of the parties to the license by a decree that the wall be so moved or reconstructed that the face of it fronting the plaintiff’s lot shall be along the dividing line between the lots of the plaintiff and the defendant.
+The decree of the court is therefore reversed, the cross bill is reinstated, and the record remitted to the court below with direction to enter a decree in accordance with this opinion.
+It is further ordered that the costs of this appeal be paid by the appellee.
