@@ -1,0 +1,42 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "975 C.D. 1991"
+decided: "1992-03-09"
+citations: ["146 Pa. Commw. 242", "605 A.2d 440"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CRAIG, President Judge, KELLEY, J., and LORD, Senior Judge."]
+parties: ["CITY OF HARRISBURG, Petitioner, v. PENNSYLVANIA LABOR RELATIONS BOARD, Respondent."]
+source_url: "https://static.case.law/pa-commw/146/cases/0242-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1428595
+cites_cases: ["107 Pa.Commonwealth Ct. 561", "130 Pa.Commonwealth Ct. 397", "130 Pa.Commonwealth Ct. 426", "465 A.2d 731", "473 Pa. 101", "527 Pa. 625", "592 A.2d 46", "77 Pa.Commonwealth Ct. 259"]
+---
+
+# City of Harrisburg v. Pennsylvania Labor Relations Board
+
+## Majority (CRAIG, President Judge.)
+
+CRAIG, President Judge.
+The City of Harrisburg appeals an order of the Pennsylvania Labor Relations Board (board) adopting a hearing examiner’s proposed opinion and order (1) determining that the city committed an unfair labor practice by adopting a policy allowing park rangers to issue citations for violations of park regulations, and (2) directing the city to rescind that policy. We affirm.
+The facts of the case, as determined by the hearing examiner, are as follows. In 1989, the city established a park ranger program. Before the city implemented that program, city police officers, who are represented by the Fraternal Order of Police, Capital City Lodge No. 12 (FOP), were solely responsible for issuing citations for summary violations of park rules and regulations. Under the park ranger program, rangers, who are employed by the city’s Department of Parks and Recreation, are also allowed to issue citations for summary violations of the rules and regulations. No collective bargaining concerning the city’s park ranger program and the rangers’ duties occurred between the city and the FOP before the city implemented the ranger program.
+The FOP filed an unfair labor charge with the board. In a proposed decision and order, a hearing examiner determined that the city committed an unfair labor practice by unilaterally transferring to non-members of the bargaining unit, bargaining unit work which, historically, police officers performed.
+The city filed exceptions to the examiner’s proposed order. The board dismissed the city’s exceptions and adopted the proposed order as a final order.
+On appeal, the city argues that the board erred because (1) the record does not support the board’s finding that the city unilaterally transferred unit work to non-members, because the city encourages police officers to continue issuing citations for park violations, and (2) the city’s action in creating the ranger program was one of managerial policy concerning public safety and welfare and thus not an unfair labor practice.
+Our scope of review of a board order is limited to determining whether there has been a constitutional violation or an error of law and whether the necessary findings of fact are supported by substantial evidence. City of Reading v. Pennsylvania Labor Relations Board, 130 Pa.Commonwealth Ct. 397, 568 A.2d 715 (1989).
+1. Unilateral Transfer of Unit Work
+First, the city argues that it did not unilaterally transfer unit work to non-members, because the city still permits and encourages police officers to patrol city parks and to issue citations for summary violations of park rules and regulations. However, a public employer commits an unfair labor practice when it unilaterally transfers any unit work to non-members without first bargaining with the unit. County of Bucks v. Pennsylvania Labor Relations Board, 77 Pa.Commonwealth Ct. 259, 465 A.2d 731 (1983).
+In County of Bucks, the county terminated its park ranger program following the rangers’ certification as employees under the Act of June 24, 1968 (Act 111), P.L. 237, 43 P.S. §§ 217.1-217.10. This court affirmed the board’s determination that the county had committed an unfair labor practice:
+The County may not under any guise avoid its Act 111 duty to bargain by subsequently directing its employees or others to resume any of the duties principally performed by the rangers prior to their termination; if it wishes to resume these duties, the County must reinstate the rangers and bargain with their Association.
+Id., 77 Pa.Commonwealth Ct. at 259, 465 A.2d at 734. (Emphasis in original.)
+There is substantial evidence in the record to support the finding that the police officers were responsible for issuing citations for park violations before the city established the park ranger program and that, after the program was established, the rangers shared that responsibility with the officers. (R.R. 49-50, 51-53.) As this court stated in County of Bucks, a public employer commits an unfair labor practice if it unilaterally shifts any unit work to nonmembers without first bargaining. In this case, the city directed non-unit rangers to assume some of the unit’s duties, but did not fulfill its obligation under Act 111 to engage in collective bargaining. Thus, the hearing examiner and board correctly concluded that the city committed an unfair labor practice.
+Contrary to the city’s argument that all of the officers’ former duties remain intact, the rangers are issuing citations which police officers would issue if the ranger program had not been established. Obviously, because the rangers are fulfilling some of the former duties of officers, the officers are not doing all the work for which they bargained. Thus, the unit lost work and there was a demonstrable impact on the unit members. See, e.g., Commonwealth v. Pennsylvania Labor Relations Board, 130 Pa.Commonwealth Ct. 426, 568 A.2d 730 (1990), appeal denied, 527 Pa. 625, 592 A.2d 46 (1991).
+2. Managerial Policy Concerning Public Safety
+The city also argues that its action in creating the ranger program was one of managerial policy concerning the public’s safety and welfare and thus not an unfair labor practice. However, this court rejected a similar argument in City of Clairton v. Pennsylvania Labor Relations Board, 107 Pa.Commonwealth Ct. 561, 528 A.2d 1048 (1987), and determined that any management action concerning police and fire personnel is bargainable when that action bears a rational relationship to the employees’ duties. The city’s unilateral transfer of the officers’ work to the rangers bears a rational relationship to the officers’ duties and, therefore, is bargainable.
+Finally, the city argues that police officers are not exclusively responsible for issuing citations for non-traffic violations and that other city employees are empowered under a city ordinance to also issue citations. The city cites St. Joseph’s Hospital v. Pennsylvania Labor Relations Board, 473 Pa. 101, 373 A.2d 1069 (1977), in support of its argument that a municipality cannot commit an unfair labor practice by unilaterally transferring unit work to non-members unless the unit members were solely responsible for performing the work.
+However, St. Joseph’s involved only discharges for union organizing activities. In no way does that case relate to the proposition that a public employer may transfer unit work to non-members if the unit members are not exclusively responsible for performing the work. Furthermore, the record in this case reveals that the police were solely responsible for patrolling the parks and issuing citations for violations of park rules and regulations before the city established the ranger program. (R.R. 49-50.)
+Accordingly, the record contains substantial credible evidence supporting the board’s finding and conclusion that the city committed an unfair labor practice.
+ORDER
+Now, March 9, 1992, the order of the Pennsylvania Labor Relations Board, dated April 16, 1991, at No. PF-C-90-89E, is affirmed.
+. Although the city did not except to the board hearing examiner’s specific finding that the city unilaterally transferred unit work to nonmembers, the city did file an exception to the hearing examiner’s conclusion that the city committed an unfair labor practice, which was based on the hearing examiner’s finding that the city unilaterally transferred unit work to non-members. Accordingly, the city did argue before the board that the city did not unilaterally transfer work to the rangers, and this court will consider the city’s argument.
