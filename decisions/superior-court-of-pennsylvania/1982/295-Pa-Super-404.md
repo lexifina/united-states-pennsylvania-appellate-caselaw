@@ -1,0 +1,42 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "898"
+decided: "1982-02-19"
+citations: ["295 Pa. Super. 404", "441 A.2d 1295"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before PRICE, BROSKY and MONTEMURO, JJ."]
+parties: ["Mario LUDMER, Appellant, v. ERIE INSURANCE EXCHANGE."]
+source_url: "https://static.case.law/pa-super/295/cases/0404-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 180195
+cites_cases: ["461 F.2d 58", "522 F.2d 1"]
+---
+
+# Ludmer v. Erie Insurance Exchange
+
+## Majority (MONTEMURO, Judge:)
+
+MONTEMURO, Judge:
+This case presents the problem of whether a doctor who has allegedly rendered medical services to an insured victim of a motor vehicle accident has the right to sue an insurance company directly as third party beneficiary of the contract between the company and its insured.
+We affirm the court below in its decision that neither the No-Fault Motor Vehicle Insurance Act nor the insurance contract itself mandates this result.
+This is not to say that payment of a claim cannot be made directly to the doctor. Section 1009.106(a)(2) states in pertinent part:
+... an obligation for basic loss benefits for an item of allowable expense may be discharged by the obligor by reimbursing the victim or by making direct payment to the supplier or provider of products, services or accommodations . . . (emphasis supplied)
+Section 1009.106(d)(2) contemplates that assignment of claims for benefits for cost of medical services as well as products and accommodations shall be lawful. Section 1009.111(a)(3) further states that a provider of services is not precluded from contracting “or otherwise providing for a right of reimbursement” for the benefits he renders in the “allowable expense” category.
+It appears, however, that the plaintiff-appellant doctor in the instant action has simply insisted upon payment by the insurer while also insisting that the cooperation of the insured, the alleged recipient of services, is unnecessary. He sees no need for the covered party to agree that services indeed were rendered, or that services were satisfactory, or that the payment to the service provider would indeed discharge the duties of the insurer from further payment. Appellant claims third party beneficiary status under the contract as read in conjunction with the No-Fault Act. We disagree.
+Pennsylvania Rule of Civil Procedure 2002 provides that “all actions shall be prosecuted by and in the name of the real party in interest.” (Emphasis supplied.) Standard Pennsylvania Practice, Vol. 3 at p. 103 defines “real party in interest” as follows:
+. . . “the real party in interest in a given chose in action is the person who can discharge it and can control an action brought to enforce it .. . and in many cases he will also be a person beneficially interested in the cause of action but this is not necessary.” Under this Rule assignees are the real party in interest; third party beneficiaries may bring an action in their own name . . .
+A third party may recover on a contract only if the intent of the contract is to confer benefits upon that third party. Restatement of Contracts, 2d, § 113(d).
+Appellant argues, from the No-Fault Act rather than from the contract wording, that the intent of the Act supports a finding that the provider of services shall be paid directly upon application and may sue directly if denied payment. As appellant’s brief argues the matter:
+It is much easier, efficient [sic], and quicker, for the health care provider, pursuant to Section 106(a)(2) to submit his bill directly to the carrier. This system obviates the necessity for the insured to become actively involved in seeking payment of his medical bills. Again, this procedure demonstrates the underlying policy of the No-Fault Act in limiting the extent to which the insured needs to become involved in payment of his medical bills. Id at p. 13, (Emphasis supplied).
+Appellant argues further that the two parties to the contract knew that the contract was written “pursuant to” the provisions of the Act which permit health care providers to submit bills directly to the insurance company and receive payment directly. Therefore, he reasons, any provider becomes a third party beneficiary of such a contract and thus also becomes, in effect, the “real party in interest” with, obviously, the rights of discharge, control and enforcement.
+This is a simplistic view and deserves close scrutiny by any court asked to determine the issue. Can we really assume that all insurance purchasers are uninterested in the bills submitted for services they have allegedly received? Can we assume that insurance companies entering such contracts on a regular basis are uninterested in whether the insured has in fact received adequate services and has in fact relinquished his personal claims to repayment of his benefits owing to a service provider who can discharge the action lawfully after payment? Can we assume a legislative intent to “obviate” an insured (or his representative in cases of incapacity or death) from any necessity to be involved in the payment of benefits owed under a contract he signed for services allegedly rendered to him? We think not.
+Where the service provider and his insured patient disagree about his right to reimbursement, the provider may proceed under § 106(f)(1) and obtain a judgment against the insured and then may garnish his claims for benefits due. Or, of course, where the patient and provider agree, assignment of the claim is possible.
+The cases cited by appellant in support of his argument found a third party beneficiary relationship in the Government which rendered medical care to servicepersons and then sought reimbursement from their insurers. United States v. Automobile Club Insurance Co., 522 F.2d 1 (5th Cir. 1975); United States v. Government Employees Insurance Co., 461 F.2d 58 (4th Cir. 1972). These cases, however, are easily distinguishable from the instant action. The courts in the Federal cases specifically based their findings of third party beneficiary status in the government on the wording of the individual contracts in those cases, and not on a statutory construction. The contracts in those cases were not similar to the contract in the instant matter.
+The wording of the contract that concerns us in this action provides that the insurance company will pay “damages which a covered person is legally entitled to recover . . . because of bodily injury”. ... (R. p. 43a. Emphasis original). Obligation runs directly to the entitled, covered person. There is no wording implying an obligation on the part of the insurance company to pay out any monies to a third party.
+To the contrary, there is a specific provision to the effect that the insurance company shall control even as to the decision of automatic payment to a provider on request of the insured. Paragraph 3 of Part F. of the contract provides in pertinent part:
+... no legal action may be brought against us until we agree in writing that the covered person has an obligation to pay or until the amount of that obligation has been finally determined by judgment after trial. No person or organization has any right under this policy to bring us into any action to determine the liability of a covered person. (R. 46a, emphasis original).
+The scheme of the No-Fault Act itself, and the contract between the parties in the instant action, certainly do not preclude direct payment to a service provider by an insurance company. Ordinarily, such a course is efficient and sensible. It is not mandated, however, and the ordinary and prudent scheme of the law of contracts is not abrogated by the No-Fault Act. We cannot find that a service provider becomes a third party beneficiary of the contract in the instant action, and thus the real party in interest, merely upon the allegation that he has rendered services to the insured and presented a bill for those services to the insurer.
+As the lower court states, the service provider is not seriously hampered in his ability to recover monies genuinely owed him. Where the parties amicably agree to assignment of the claim, as is usual, payment will be direct and prompt. Where problems develop, the service provider may obtain judgment against the insured and institute garnishment proceedings against the insurer.
+For all the above reasons, therefore, we affirm the holding of the court below.
