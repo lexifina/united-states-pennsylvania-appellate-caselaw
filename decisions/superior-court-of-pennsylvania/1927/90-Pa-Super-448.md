@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 107"
+decided: "1927-07-08"
+citations: ["90 Pa. Super. 448"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, P. J., Henderson, Trexler, Keller, Linn, Gawthrop, and Cunningham, JJ."]
+parties: ["Braum’s Estate."]
+source_url: "https://static.case.law/pa-super/90/cases/0448-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 671884
+cites_cases: ["112 Pa. 427", "225 Pa. 66", "227 Pa. 502", "239 Pa. 270", "254 Pa. 346", "270 Pa. 310", "288 Pa. 337", "86 Pa. Superior Ct. 245", "88 Pa. Superior Ct. 109", "88 Pa. Superior Ct. 482"]
+---
+
+# Braum's Estate
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+Gertrude L. Braum, a minor, married August Braum, the decedent, and after living with him three months separated from him. He died sometime thereafter and the question of her right to participate in his estate was before us twice. We held in Braum’s Estate, 86 Pa. Superior Ct. 245, that, although neither of the parties could have maintained an action for divorce, she was not entitled to claim the widow’s exemption because the family relation bad ceased to exist, but in Braum’s Estate, 88 Pa. Superior Ct. 109, we held that she was entitled to participate in the inheritance as his widow since there had been a separation by consent of both parties.
+The present proceeding was started by a petition for a review claiming the discovery of testimony which-clearly established wilful and malicious desertion by Gertrude L. Braum and alleging that the interests of justice required that the testimony of the various affiants should be heard, the petition being accompanied by five affidavits.
+The Fiduciaries Act, June 7, 1917, P. L. 447, Section 48, provides that “Within five years after the final decree confirming the original or supplementary account of any fiduciary, which has been or may be hereafter passed upon, petition of review being presented by such fiduciary or his legal representatives, or by any person interested therein, alleging errors in such account, or in any adjudication of the Orphans’ Court, or any report of an auditor of sudf account, which errors shall be specifically set forth in said petition of review, said petition and errors being verified by oath or affirmation, the Orphans’ Court shall grant a rehearing of so much of said account, adjudication, or auditor’s report as is alleged to be error in said petition of review, and give such relief as equity and justice may require, by reference to auditor’s, or otherwise, with like right of appeal to the proper appellate court as in other cases: Provided, That this act shall not extend to any cause when the balance found due shall have been actually paid and discharged by any fiduciary. ’ ’ The last deliverance of the Supreme Court we have found in regard to this section is in Willings Estate, 288 Pa. 337, 343, from which we quote: “We are not unmindful of the cases prior to the Fiduciaries Act, holding that a review is of right only where errors of law appear on the face of the record, or when new matters have arisen since the decree, and to he allowed as of grace upon subsequent discovery of new evidence as to the facts upon which the decree was grounded, which could not have been procured by the use of due diligence: Scott’s Appeal, 112 Pa. 427; Nixon’s Estate, 239 Pa. 270; Millikin’s Appeal, 227 Pa. 502; Michener’s Estate, 225 Pa. 66. But the power formerly existing has been extended, and relief should be granted where justice and equity require, and no one suffers thereby: Troutman’s Estate, supra; Turnbull’s Estate, 88 Pa. Superior Ct. 482. Irrespective of any legislation, the Orphans’ Court possesses an inherent discretionary power ‘to correct its own records in the interest of justice, even to protect parties from the effect of their own mistakes and blunders’: Sloan Estate, 254 Pa. 346, 350.” See Troutman’s Estate, 270 Pa. 310.
+The change in the law certainly does not compel the court to grant a review in every case. The grounds for -a review must be stated in the petition and as stated above, when justice and equity require it, then the review is a matter of right. Certainly, the mere fact of asking for it does not settle the matter.
+In consideration of the present case, we note that the affidavits presented by the parents and brother of Gertrude L. Braum depose that Gertrude L. Braum expressed a desire that she did not want to live with her husband and called him vile names and after she had left him, said she did not want to live with bim and did not want his money.
+The testimony of Braum’s grandson was to the effect that on the night before she left his grandfather he heard a conversation between them, he being in the next bedroom, in which conversation she said she was going to leave him. The testimony of the boarder in the Braum home was of the same import. The learned judge who wrote the opinion in the lower court, points out the fact that all the members of Mrs. Braum’s family were in court at every hearing held in the case and testified and at each hearing they were distinctly in favor of their relative, Gertrude L. Braum, and are now on the other side of the controversy. Moreover, all the allegations contained in the several affidavits submitted may be accepted as verity and still they would not show that the finding heretofore made by the Orphans’ Conrt upon competent evidence that the separation in this case was by mutual consent was incorrect. Of course, if they separated by mutual consent, she was willing to leave him. She might have declared her intention, still that would not prove that the separation was not consentable. The consent Avas the act of both. She was willing to go and he Avas Avilling to have her go.
+The decree of the lower court is affirmed.
