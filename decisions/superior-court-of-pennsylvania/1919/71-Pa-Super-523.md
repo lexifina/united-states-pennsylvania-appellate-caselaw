@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 4"
+decided: "1919-04-21"
+citations: ["71 Pa. Super. 523"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orladv, P. J., Porter, Trexler, Williams and Keller, JJ.", "Porter, J., dissents."]
+parties: ["Miller et al., Appellants, v. Hays and McCrea."]
+source_url: "https://static.case.law/pa-super/71/cases/0523-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 638124
+cites_cases: ["20 Pa. Superior Ct. 400", "203 N. Y. 469", "204 U. S. 228", "210 Pa. 109", "213 Pa. 620", "219 Pa. 287", "246 Pa. 348", "255 Pa. 612", "45 Pa. Superior Ct. 278", "56 Pa. Superior Ct. 523", "68 Pa. 42", "68 Pa. Superior Ct. 232", "68 Pa. Superior Ct. 361", "82 Pa. 420", "97 N. E. 43"]
+---
+
+# Miller v. Hays
+
+## Majority (Keller, J.,)
+
+Opinion by
+Keller, J.,
+John Graham was the owner of real estate in the City of Harrisburg. The appellants, who were real estate agents and brokers, were instrumental in leasing the property to one, Soutter. The lease contained a clause giving Soutter the privilege of purchasing the leased property until March 31, 1917, for the sum of $115,000. The verdict of the jury established the fact that there was an implied contract that Graham should pay the appellants reasonable compensation for their services in securing a purchaser, in case Soutter exercised the option and purchased the property in pursuance of its terms. Graham died on December'15, 1915, leaving a will, of which he appointed the appellees executors, and in which he devised the leased premises to the Carlisle Trust Company, in trust for certain purposes expressed therein.
+If Soutter, Graham’s lessee, desired to exercise the option contained in his lease and purchase the leased premises for $115,000 all that he had to do was, to notify the lessor, in writing, or, after his death, his devisee, of his election to exercise the option within the time fixed in the lease, March 31,1917, and there would have been created a valid contract, binding on both parties and capable of being specifically enforced by appropriate proceedings: Helsel’s Est., 255 Pa. 612; Barnes v. Rea, 219 Pa. 287; Rockland-Rockport Lime Co. v. Leary, 203 N. Y. 469, 97 N. E. 43; and the appellants would have been entitled to reasonable compensation for having secured a purchaser for the real estate. But Soutter did not do this. Whatever may have been the subject of the conversation between Soutter and Fisher, the appellants’ representative, there was, prior to June 1, 1916, no binding acceptance of the option by Soutter, such as created a contract between the parties and could be enforcedly proceedings for specific performance. On that day, an agreement of sale was executed between the appellants, as agents for the estate of John Graham, deceased, and Soutter, which was joined in by the executors of Graham and the Carlisle Trust Company, as trustee under Graham’s will, by the terms of which Soutter agreed to purchase the property for $115,000, of which $1,000 was paid in cash, $1,000 was to be paid on January 1, 1917, and $113,000 on or before April 1, 1917, when The Carlisle Trust Company, trustee as aforesaid, would execute a deed in fee simple for the premises. It was provided in said agreement, however, that, upon failure of Soutter to pay the purchase money in full on or before April 1, 1917, “then this agreement to be void and the one thousand ($1,000) dollars payment in cash at the execution of this agreement and any additional payment prior to the execution and delivery of the deed shall be forfeited and retained by the parties of the first part as liquidated damages.” This agreement was, therefore, not an unconditional acceptance by Soutter of the option given by Graham to him, for by its very terms it could not be specifically enforced against him. Soutter had the right to withdraw from the purchase by forfeiting his initial payment of $1,000, or $2,000, if he had made his second payment. It amounted to nothing more than a new option (Verstine v. Yeaney, 210 Pa. 109) given, not by Graham, for he was then dead, but by the Carlisle Trust Company, trustee under his will, the holder of the legal title, and assented to by the executors, granting Soutter the right to purchase the property on or before April 1, 1917, for. $115,000, the same price at which Graham had agreed in his option to sell it, or a new agreement of sale between the Carlisle Trust Company, trustee, and Soutter, with provisions for forfeiture of payments as liquidated damages in case of default on his part.
+It is true that Soutter subsequently purchased the property and paid the purchase-price, but that was done under the terms of the new agreement of June 1, 1916, and not under the option given by Graham, for there never was, as appears by the evidence, an unconditional acceptance by Soutter of that option, and in order to bind Graham’s estate, an unconditional acceptance of the option contained in the lease was necessary: Barton v. Thaw, 246 Pa. 348; Henry v. Black, 213 Pa. 620. The fact that the Carlisle Trust Company, the devisee in trust of the property under Graham’s will, subsequently conveyed it to the same person and at the same price as specified in the original option did not make Graham’s estate liable for the plaintiffs’ commissions or compensation under the original option: Crowe v. Trickey, 204 U. S. 228.
+The court below was, therefore, right in entering judgment non obstante veredicto in favor of the defendants.
+The assignments of error are overruled and the judgment is affirmed.
+Porter, J., dissents.
