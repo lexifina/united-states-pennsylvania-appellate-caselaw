@@ -1,0 +1,42 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 52"
+decided: "1916-12-18"
+citations: ["65 Pa. Super. 82"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Kephart, Trexler and Williams, JJ.", "The judgment should be reversed and a new trial granted. Judges Kephart and Trexler concur in the dissenting opinion."]
+parties: ["Commonwealth, v. Hartman, Appellant."]
+source_url: "https://static.case.law/pa-super/65/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 625420
+cites_cases: ["1 Watts. 365", "2 Bin. 79"]
+---
+
+# Commonwealth v. Hartman
+
+## Majority (Orlady, P. J.,)
+
+Opinion by
+Orlady, P. J.,
+The only error alleged on this appeal is, that the court below erred in not granting the defendant a new trial. He was found guilty of wilfully setting fire to his dwelling house, with intent to defraud an insurance company. One Fred. Stoy was separately indicted for having aided and assisted this defendant in the commission of the offense. By consent of counsel, the two defendants, were tried at the same time, and by the same jury. A verdict of guilty was returned as to each. After a careful examination of the testimony adduced at the trial, supplemented by additional evidence, a new trial was granted as to Stoy, and refused as to Hartman.
+The grounds for this conclusion are set out at length in an opinion filed by the trial judge. The principal reason urged by the appellant is that the testimony of a named witness was given undue weight, but after consideration of the whole record, we agree with the trial judge, “that there are many circumstances showing the defendant’s guilt; sufficient to convict him, even if the testimony of the named witness is thrown out of the case entirely.” There is no such abuse of discretion shown, as would warrant a reversal of the finding of the trial judge.
+The judgment is affirmed, and it is ordered that the defendant, the appellant, appear in the court below at such time as he may be there called, and that he be by that court committed until he has complied with the sentence, or any part of it, that had not been performed at the time this appeal was made a supersedeas.
+
+## Dissent (Williams, J.,)
+
+Dissenting Opinion by
+Williams, J.,
+December 18, 1916:
+I regret that I cannot agree with either the reasons or the conclusion of the majority opinion.
+The facts are that since the trial, Stoy, one of the two defendants, convicted upon the testimony of William Bachman who since the trial presents himself as a confessed perjurer, is granted, while the other, Hartman, is refused, a new trial.
+The charge of the court to the jury says (after reciting Hartman was the owner óf real and personal property which he had insured; that coal oil was found sprinkled on the floor and stairs and that the property had been partly burned) : “Whether he set fire to it or not depends largely upon the testimony of William Bachman.” The court then recites the testimony of Bachman and says: “Now that is the testimony upon which you must depend to find whether or not Hartman did set fire to these premises.”
+Subsequently William Bachman made an affidavit that he had perjured himself so far as Stoy was concerned. Upon a deposition he says he was paid to make the affidavit and that he was drunk when he made it.
+The court in its opinion granting a new trial to Stoy says: “At the trial there was no testimony whatever connecting the defendant with the commission of the offense except that of William Bachman.” In the opinion refusing the new trial to Hartman the court says: “It is also urged that the said Bachman is unworthy of belief, because since the trial he made an affidavit in which he says that Fred Stoy is innocent of the offense, and that he did not see him- at the Hartman property, which directly contradicts its testimony on the trial'. We have this day granted a new trial to Stoy, for these reasons, but they do not apply to this defendant.” The court says, speaking of the Bachman affidavit: “It exonerates Stoy, but is silent as to Hartman. In Stoy’s case there was nothing to connect him with the commission of the offense except the testimony of William Bachman. In the case of the defendant there are many circumstances showing the defendant’s guilt, in fact we think sufficient to convict him even though the testimony of William Bach-man is thrown out of the case entirely.”
+Let us turn back to the charge of the court to the jury to ascertain the “many circumstances showing the defendant’s guilt.” “The defendant owned the house. It was set on fire at or shortly after, midnight on April 5, 1915. The carpets, furniture and floor were saturated with coal oil. The defendant was away from the house all evening, arriving home a few minutes after twelve o’clock. A few minutes after that he called up a neighbor, John Otto, who first discovered the fire. The defendant then went half a square away to the house of Eugene Gates, and half a square further to the house of Fred Stoy, to get them to help to put out the fire at his house. When all returned Otto had the fire out, though the defendant says it afterwards started up on the stairs. It was only after the defendant’s return to his house that a call was sent in for the fire department. The defendant had the house and contents insured, each for «$1,000, and afterwards made claim on the insurance .company for the damages to his property to the amount of over $400. He subsequently withdrew it, stating he intended to make a claim for something over $500.”
+The entire superstructure in the conviction of Hartman is founded upon the testimony of William Bachman, so says the court in its charge. There is a new trial granted Stoy because the conviction was only made possible if the jury believed the testimony of a self-confessed perjurer. If this is so — that it warrants a new trial as to Stoy, why does it not also, warrant a new trial as to Hartman? As the court practically charged the jury that Hartman’s guilt depended upon the testimony of Bachman, whose veracity was not at that time questioned, it might well be said that the jury did believe Bachman and upon his testimony convicted the defendant. In view, however, of the Bachman affidavit as to Stoy and the subsequent deposition, a serious doubt arises as to the probative value of Bachman’s testimony. A new question is thus presented; it is stronger than after-discovered evidence; it questions the very foundation of the Commonwealth’s case, for without the Bachman testimony, under the charge, there could be no conviction. The confession that the witness perjured himself shows that his testimony is incredible; and is equivalent to new testimony which attacks the very basis of the conviction. The case is analogous to one in which the testimony as to the fact decisive of the question involved is subsequently found to be absolutely untrue.
+The court below said certain facts and circumstances warranted a conviction even if Bachman’s testimony was eliminated. The majority opinion is based upon the same thought. In doing this it is forgotten that the jury must be convinced of the guilt of the defendant beyond a reasonable doubt; that no matter how weak may be the defense still the jury must pass upon it; and that it is not within the province of the court to determine questions of fact. Whether the jury would have convicted without Bachman’s testimony is not a question for the court to assume or to decide; it is a question to be answered by the jury itself.
+It is not alone Bachman’s credibility that is attacked, but also his testimony. The opinion of the court below, granting a new trial to Stoy well expresses what should have been said as to Hartman: “We feel that it would not be just to permit the conviction of the defendant to stand on the uncorroborated testimony of a witness, such as the testimony shows William Bachman to be, unless the jury, after knowing all the circumstances that had been discovered or had occurred since the trial, shall so decide.”
+As there are now new material facts bearing, upon the issue, the court in assuming to pass upon them usurped the functions of the jury, and in doing this there was a clear abuse of discretion.
+The judgment should be reversed and a new trial granted. Judges Kephart and Trexler concur in the dissenting opinion.
