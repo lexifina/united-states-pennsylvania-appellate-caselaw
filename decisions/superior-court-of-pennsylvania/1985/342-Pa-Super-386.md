@@ -1,0 +1,41 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "01126"
+decided: "1985-05-24"
+citations: ["342 Pa. Super. 386", "492 A.2d 1388"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before OLSZEWSKI, HESTER and SHIOMOS, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Vivian S. COGAN, Appellant."]
+source_url: "https://static.case.law/pa-super/342/cases/0386-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 632952
+cites_cases: ["278 Pa.Super. 283", "303 Pa.Superior Ct. 153", "319 Pa.Super. 398"]
+---
+
+# Commonwealth v. Cogan
+
+## Majority (HESTER, Judge:)
+
+HESTER, Judge:
+This appeal presents the interesting question of whether a local municipality has the power to regulate speed limits on a state highway within its boundaries when the Pennsylvania Department of Transportation (hereinafter “Department”) has failed to do so.
+The facts which gave rise to the above issue are as follows. On May 1, 1980, appellant was traveling along Route 480 within the municipal limits of Latrobe Borough, when she was stopped and cited for traveling 42 m.p.h. in a posted speed limit zone of 25 m.p.h. Appellant was adjudged guilty following a hearing before the Honorable Joseph Hudock of the Court of Common Pleas of Westmoreland County on October 28, 1980. A timely appeal was taken to this Court. By Opinion Per Curiam dated August 2, 1982, the Superior Court remanded this matter for the filing of post-verdict motions nunc pro tunc, 303 Pa.Superior Ct. 153, 449 A.2d 624. Said motions were argued and denied on January 24, 1983. Appellant was sentenced to pay a fine of $59.00 plus costs, and thereafter pursued the instant appeal.
+Appellant does not contest the accuracy of the device which determined her speed nor the validity of the citation issued, nor the fact that a speed limit of 25 m.p.h. was posted. Rather, she contends that the evidence adduced at trial was insufficient to support the verdict. Appellant further argues that the Department’s established speed limit of 40 m.p.h. must prevail over the lower maximum speed limit established by the local authority. Having closely considered appellant’s arguments, we affirm the decision of the trial court.
+Appellant’s initial contention is not supported by the record. She specifically asserts that the Commonwealth failed to establish beyond a reasonable doubt that the 40 m.p.h. speed limit signs were never posted. The lower court considered the testimony of three witnesses and a Penn Dot District Engineer in concluding that the roadway had never been posted by the Commonwealth at 40 m.p.h. Moreover, counsel stipulated for the record that there was no 40 m.p.h. posting along the highway in question.
+Our scope of review in cases where the lower court has heard a matter de novo is to determine whether or not the findings of fact are supported by competent evidence and to correct erroneous conclusions of law. Commonwealth v. Gussey, 319 Pa.Super. 398, 402, 466 A.2d 219, 221 (1983). An application of this standard leads us to conclude that the lower court was correct in its ruling on this issue.
+Appellant next avers that the speed limit established by the Department, although unposted, must prevail over a differing speed limit posted by a local authority on the highway in question. Thus, she contends the local ordinance is rendered null and void and cannot support a conviction.
+In 1968, the Department established a speed limit of forty miles per hour for Route 480 based upon an engineering and traffic investigation. Said action was taken pursuant to 75 P.S. § 1002(b)(8) of the 1959 Vehicle Code. The present Vehicle Code, 75 Pa.C.S.A. § 101 et seq. became effective on July 1, 1977. That Code provides:
+(b) Posting speed limits — no maximum speed limit ... shall be effective unless posted on fixed or variable official traffic-control devices erected in accordance with regulations adopted by the department which regulations shall require posting at the beginning and end of each speed zone and at intervals not greater than one-half mile.
+75 Pa.C.S.A. § 3362(b). As determined above, no signs were posted assigning that speed limit to the roadway.
+In fact, the Borough of Latrobe had posted the roadway in question with 25 m.p.h. signs in 1958, and had since maintained that speed limit and the signs so indicating. Section 3363 and 6109 explicitly permit the Department or local authorities to alter maximum speed limits on highways under their respective jurisdictions when traffic studies indicate such a need.
+Appellant argues, and not without persuasive force, that although these sections vest power in the local authorities to alter speed limits, once action has been taken by the Department for a particular road, any limit set by the local authority is void without the consent of the Department. To support this contention, appellant refers to 75 Pa.C.S.A. § 6109(d) which provides that “the Department may require local authorities to obtain department approval in advance of regulating traffic on state-designated highways within their physical boundaries.” From this language, appellant infers a legislative intent for the Department determinations to prevail over those of local authorities.
+Having studied the relevant statutory authorities, we are convinced otherwise. Concededly, the Department established a lawful maximum speed zone over Route 480 in 1968. The Vehicle Code of 1976 did not invalidate lawfully established speed restrictions existing prior to its enactment. Commonwealth v. Kerns, 278 Pa.Super. 283, 420 A.2d 542 (1980). However, the lower court concluded, and we believe there is sufficient evidence to support that inference, that the Department never posted that limit in compliance with the requirements of both the Code then in effect and the Code of 1976. In light of this omission, we hold that the Department’s recommended speed limit of 40 m.p.h. was never in effect for Route 480.
+We further find that, in the absence of a due exercise of the Department’s power, the local authority was within its rights to establish and post a speed limit in accordance with 75 Pa.C.S.A. § 3363 and 6109. Moreover, appellant cites no Department regulations requiring local authorities to seek departmental approval prior to regulating speed limits on state highways. Thus, 75 Pa.C.S.A. § 6109(d) does not apply to our analysis of the instant action.
+For the foregoing reasons, we find that only the Borough of Latrobe has effectively exercised its authority to establish a speed limit for Route 480. Accordingly, this speed limit was lawful and appellant’s violation of that speed limit must stand.
+Judgment of sentence affirmed.
+. This conduct constituted a violation of 75 Pa.C.S.A. § 3362(a)(3), which states:
+"no person shall drive a vehicle at a speed in excess of ... (3) any other maximum speed limit established under this subchapter.
+. The Department submitted an amicus curiae brief in support of appellant’s position that Latrobe was without authority to unilaterally establish a speed limit for Route 480. It argued that 75 Pa.C.S.A. § 3363 only granted the power to alter speed restrictions to municipalities on highways under their respective jurisdictions. Since Route 480 had been adopted as a "state highway,” it fell under the exclusive jurisdiction of the Department, and Latrobe Borough lacked authority to alter the speed limits thereon.
+However, the above interpretation of statutory language would render 75 Pa.C.S.A. § 6109(d) meaningless. If local authorities had no power to assign speed limits to state highways within their jurisdiction in the absence of Department-designated and posted speed limits, § 6109(d) would require local authorities to seek department approval prior to such action. Instead, § 6109(d) states that the Department may require such approval. Thus, we must conclude that, in want of such regulations, the local authorities may proceed to regulate speed restrictions for state highways within their boundaries.
+. The fact that Latrobe established this speed limit in 1958 is irrelevant to our review of its power to do so in accordance with the Vehicle Code of 1976.
