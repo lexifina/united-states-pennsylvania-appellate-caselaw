@@ -1,0 +1,20 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 748"
+decided: "1975-01-16"
+citations: ["231 Pa. Super. 795"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Jubelirer, P. J."]
+parties: ["Commonwealth v. Patterson, Appellant."]
+source_url: "https://static.case.law/pa-super/231/cases/0795-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 816657
+---
+
+# Commonwealth v. Patterson
+
+## Majority
+
+Judgment of sentence affirmed.
