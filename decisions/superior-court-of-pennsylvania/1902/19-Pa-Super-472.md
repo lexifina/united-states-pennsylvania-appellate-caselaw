@@ -1,0 +1,33 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 90"
+decided: "1902-03-14"
+citations: ["19 Pa. Super. 472"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, W. W. Porter and W. D. Por- . ter, JJ."]
+parties: ["Butler v. Keller, Appellant."]
+source_url: "https://static.case.law/pa-super/19/cases/0472-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 839538
+cites_cases: ["103 Pa. 23", "103 Pa. 507", "108 Pa. 69", "11 Pa. 238", "11 Pa. Superior Ct. 499", "112 Pa. 203", "114 Pa. 166", "114 Pa. 35", "12 Pa. Superior Ct. 83", "132 Pa. 40", "141 Pa. 390", "142 Pa. 271", "147 Pa. 607", "148 Pa. 503", "153 Pa. 634", "157 Pa. 473", "169 Pa. 447", "180 Pa. 165", "180 Pa. 166", "182 Pa. 634", "194 Pa. 126", "2 Pa. Superior Ct. 587", "201 Pa. 135", "4 Pa. 493", "52 Pa. 356", "67 Pa. 459", "73 Pa. 93", "85 Pa. 369", "86 Pa. 191", "89 Pa. 22", "90 Pa. 82", "92 Pa. 424"]
+---
+
+# Butler v. Keller
+
+## Majority (Orlady, J.,)
+
+Opinion by
+Orlady, J.,
+The court below entered a judgment, for want of a sufficient affidavit of defense, in a suit on a promissory note for $600, payable on demand after date to the order of George Downing without defalcation, value received. This suit was instituted by the executor of George Downing, the payee; and the defense interp osed is, that the note was signed pursuant to an express parol contemporaneous agreement between the parties which induced the making of the note, providing that in the case of the death of George Downing before that of the maker, the note should be canceled and destroyed; and to effectuate the agreement that the note should not be used except in the event of the prior death of the maker; that the said George Downing, some time -after the giving of the said note, made and executed his last will and testament wherein he made the defendant his sole legatee and executrix; that George Downing died on February 8,1900 ; and that after his death a paper purporting to be his last will was probated, as such, which made George D. Butler the sole legatee and executor, and in the latter capacity the said George D. Butler is plaintiff in this suit.
+By the affidavit it appears that the contingency mentioned in the parol agreement happened prior to any demand made upon Lottie B. Keller for payment of the note. The execution of the note is admitted and it is not alleged that there was any fraud, accident, mistake, or misrepresentation practiced upon-, her to induce its execution. The most that can be urged is that after a free conference between parties who fully understood the subject and purpose of the note, the defendant executed and delivered it without incorporating in it its most important condition so far as she was concerned.
+The contingency of George Downing’s death was to render the note absolutely void, and over that contingency the parties did not have any legal control. On its face the note is an express promise to pay a certain sum of money on demand. The alleged parol agreement not only changes its legal effect, but it destroys the effect' of the writing. The averment that the maker was not to be held liable in the event of the death of George Downing does hot vary,-explain, or modify the writing, but does contradict the single promise which the parties reduced to writing,
+The authorities on this subject are numerous and the Supreme Court has not relaxed the general rule that parol evidence is not admissible to contradict or alter the terms or provisions of a written instrument, the reason being that the writing is the most exact as well as the most deliberate and solemn mode of evidencing contracts. Oral evidence is generally inadmissible unless a foundation for its introduction is previously laid by competent proof of fraud, accident, or mistake; Union Storage Co. v. Speck, 194 Pa. 126.
+In Martin v. Berens, 67 Pa. 459, it was said: “Where the parties, without any fraud or mistake, have deliberately put' their engagements in writing, the law declares the writing not only to be the best, but the ouly, evidence of their agreement, and we are not disposed to relax the rule,” and this has been repeatedly affirmed in subsequent cases. All the preliminary negotiations, conversations,- and verbal agreements are merged in and superseded by the subsequent written contract which is the final outcome and result of the bargaining of the parties, and unless fraud, accident, or mistake be averred the writing constitutes the agreement between the parties, and its terms cannot be added to nor subtracted from by parol evidence: Irvin v. Irvin, 142 Pa. 271; Wodock v. Robinson, 148 Pa. 503.
+The reason for the rule applies with special force to a promissory note, its condensed form and plain simple terms are free from ambiguity, it is drawn so as to be current among men and when the maker issues such a contract it presents its own argument of good faith and completeness. With an outstanding secret agreement as urged in this case the life of the writing would be taken away by its author. The terms of the parol agreement were either purposely omitted from the writing or were not considered of sufficient importance to insert them. In' either event they cannot be considered now as contradicting what was so plainly declared.
+To bring any case within the exceptions noted in the decisions, the evidence of fraud, accident, or mistake at the time of the execution of the contract must be clear, precise and indubitable ; that it induced the execution of the contract and is of such grade and weight that a chancellor would feel himself bound to reform the instrument: Wolf v. Rosenbach, 2 Pa. Superior Ct. 587; Plunkett v. Roehm, 12 Pa. Superior Ct. 83 ; Streator v. Paxton, 201 Pa. 135.
+The cases of the class of Walker v. France, 112 Pa. 203, Thomas v. Loose, 114 Pa. 35, Martin v. Kline, 157 Pa. 473, and Martin v. Fridenberg, 169 Pa. 447, are to be distinguished from the one before us, which is governed by Clarke v. Allen, 132 Pa. 40, and Ziegler v. McFarland, 147 Pa. 607, for in these cases the agreement set up was wholly inconsistent with the terms of the note: Clinch Valley Coal & Iron Co. v. Willing, 180 Pa. 165.
+The plaintiff is the person authorized by law to maintain this action, having received from the register of wills his appointment as executor, and we cannot pass upon the integrity of his title as executor in advance of the issue pending on the appeal from that tribunal.
+In the view above taken it is not necessary to consider the other item of defense.
+The judgment is affirmed.
