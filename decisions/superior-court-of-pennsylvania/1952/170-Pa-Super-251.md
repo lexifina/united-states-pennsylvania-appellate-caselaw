@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 160"
+decided: "1952-01-17"
+citations: ["170 Pa. Super. 251"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, ' Ross, Arnold and Gunther, JJ."]
+parties: ["Commonwealth v. Brewer, Appellant."]
+source_url: "https://static.case.law/pa-super/170/cases/0251-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 474714
+cites_cases: ["179 Wis. 646", "185 Pa. 602", "192 N. W. 65", "193 A. 585", "24 S. W. 8", "32 Pac. 38", "351 Pa. 325", "38 Del. 451", "40 A. 97", "41 A. 2d 688", "50 Kan. 523", "58 Ark. 229"]
+---
+
+# Commonwealth v. Brewer
+
+## Majority (Hirt, J.,)
+
+Opinion by
+Hirt, J.,
+Appellant Henry Brewer pleaded guilty in open court, with a co-defendant, to three separate charges of armed robbery. His pleas were endorsed on each of the indictments and were signed by him. As of May 10, 1946, he was sentenced on each of the three bills to a term of imprisonment of from 2 to 6 years in the Western Penitentiary to be served consecutively; he concedes that the sentences on two of the bills, Nos. 21 and 25 May Sessions 1946, were proper. On June 7, 1951 he presented his petition for a writ of coram nobis, seeking to have the sentence on bill 24, May Sessions 1946, set aside on the ground that the indictment did not charge armed robbery and no robbery was in fact committed. Under the circumstances the lower court, by order entered by the sentencing judge, properly refused the writ.
+The ancient remedy of error coram nobis is still in existence in Pennsylvania. Fisher v. Railway Co., 185 Pa. 602, 40 A. 97. But the writ is an extraordinary remedy rarely invoked (Cf. Commonwealth v. Harris, 351 Pa. 325, 329, 41 A. 2d 688) and one which in practice has become almost obsolete because of the more convenient remedies by motion and, in criminal cases, also by petition for habeas corpus when a final judgment of sentence is sought to be set aside on the ground that it was unlawfully imposed. At eommon law the remedy of coram nobis was used to correct errors of fact unknown at the time of - trial to both the party seeking relief and to the court. Under the writ' in an appropriate case a judgment can be set aside by the court which entered it, for material errors of fact, but not of law, affecting its validity, and unknown to the court when it was entered. Howard v. State, 58 Ark. 229, 24 S. W. 8; Smulski v. H. Feinberg Furniture Co., 38 Del. 451, 193 A. 585. Accordingly, where such errors of fact are made to appear the remedy ordinarily will not be denied because of the mere lapse of time. In a proper criminal case the writ may be invoked long after the term in which judgment of sentence was entered, on the theory that if the sentence was invalid in the first instance, it remained a nullity despite the lapse of time. Thus in In re Ernst, 179 Wis. 646, 192 N. W. 65, the writ issued more than four years after the defendant was sentenced, to correct errors of fact which induced his plea of guilty. And in State v. Calhoun, 50 Kan. 523, 32 Pac. 38, the remedy was properly invoked by a defendant who then had served more than seven years of a 42-year prison sentence.
+The uses of the writ are limited in scope and it would be presumptuous at this late day to attempt to enlarge them. Appellant clearly was not entitled to the benefit of the remedy afforded by coram nobis since the sentence on bill No. 24 was not imposed by the court upon any misconception of the facts. All of the material facts were then known both to this appellant and to the court, among them, the following: On Feb-, ruary 9, 1946, petitioner Brewer with his co-defendant Theodore Perdue entered the office of the Jesse C. Stewart Company in Allegheny County and there robbed the clerk in charge of $40 in cash. This was the subject of bill No. 25, charging armed robbery, on which petitioner was properly sentenced. In the midst of the holdup Ottis Turner an employe of the company unwittingly entered the office. At the point of a gun Perdue made him stand aside to prevent him from interfering with the Stewart Company holdup and for no other reason. There was no attempt by either of the defendants to rob him. Turner was present in court when appellant appeared for sentence and he then informed the court that defendant Perdue “put a gun” on him but no money was taken from him. The averments of bill 24 are consistent with the above facts. The indictment does not charge more than an assault with intent to rob, and the admitted facts would not support a conviction of any other offense except pointing a firearm. Act of June 24, 1939, P. L. 872, §716, 18 PS §4716.
+With full knowledge of all of the attending circumstances the court sentenced the appellant on Bill 24 for a crime which not only was not committed by him, but for a crime not charged jn the indictment. The invalidity of the sentence therefore resulted from error of law. Brewer was represented by counsel and since the error was wholly of law on known facts, habeas corpus and not coram nobis is the appropriate remedy.
+Order affirmed.
+He in like manner pleaded guilty to five other crimes charged in separate bills as follows: No. 16 May Sessions, 1946, charging larceny; .No. 111 May Sessions, 1946, burglary.; Nos,- 4X4,..475 and 476 May Sessions, 1946, respectively charging forgery, .carrying.concealed weapons, and'violating the'Firearm's Act. ' On each'of the pleas on these bills sentence was suspended.
