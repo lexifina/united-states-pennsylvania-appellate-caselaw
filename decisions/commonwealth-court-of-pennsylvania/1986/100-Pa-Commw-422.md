@@ -1,0 +1,43 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 434 C.D. 1985"
+decided: "1986-09-10"
+citations: ["100 Pa. Commw. 422", "514 A.2d 1000"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Rogers and Doyle, and Senior Judge Kalish, sitting as a panel of three."]
+parties: ["Commonwealth of Pennsylvania, Department of Transportation, Appellant v. Ronald and Margaret Smoluk, Appellees."]
+source_url: "https://static.case.law/pa-commw/100/cases/0422-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1352494
+cites_cases: ["100 Pa. Commonwealth Ct. 427", "100 Pa. Commonwealth Ct. 436", "412 A.2d 214", "495 A.2d 630", "50 Pa. Commonwealth Ct. 144", "90 Pa. Commonwealth Ct. 342", "97 Pa. Commonwealth Ct. 485", "99 Pa. Commonwealth Ct. 386"]
+---
+
+# Commonwealth v. Smoluk
+
+## Majority (Judge Doyle,)
+
+Opinion by
+Judge Doyle,
+The Pennsylvania Department of Transportation (Department) appeals from the order of the Court of Common Pleas of Delaware County which dismissed the Departments preliminary objections to a petition alleging a de facto taking under Section 502(e) of the Eminent Domain Code.
+Ronald E and Margaret V. Smoluk are the present owners of a property located on the corner of Calcon Hook Road and Elmwood Avenue in Sharon Hill, Pennsylvania. Situated on the property, feeing Elmwood Avenue, is a single-femily residential dwelling in which the Smoluks currently reside. On October 15, 1981, the Department held a public hearing in which it was announced that the Department planned to widen a portion of Calcon Hook Road in conjunction with a bridge reconstruction project. At that time the Department indicated that the plan would require the condemnation of a portion of the Smoluks’ frontage along Calcon Hook Road.
+On March 15, 1984, the Department informed the Smoluks that it would require 650 square feet of the Smoluks’ land, representing a strip of approximately six and one-half feet in width along the Calcon Hook Road frontage. As a result, the Smoluks’ side yard would be reduced and their house located only two feet from the road’s right of way. The Department thereafter appraised the property, and made an offer of $6,000.00 for the land to be taken.
+On June 20, 1984, the Smoluks filed a petition for appointment of viewers alleging that the Department’s activities had resulted in a de facto taking of their entire property on or about November 1982. On July 5, 1984, the Department filed a declaration of taking for the 650 square feet of Smoluks’ property necessary for the project. Each party filed preliminary objections to the others petition and the two actions were consolidated by the court of common pleas. After a hearing, the trial court found that the Departments activities had diminished the fair market value of Smoluks’ property resulting in the inability of the Smoluks to sell their property. The court thus concluded that there had been a de facto taking of the entire property as of October 15, 1981. The Department appeals from the court’s order which dismissed its preliminary objections to Smoluks’ petition.
+On appeal the Department argues that the trial court erred in finding that there was a de facto taking, contending that the Department’s activity did not substantially deprive the Smoluks of the use and enjoyment of their property.
+In order for a condemnee to prove that a de facto taking has occurred, he must show exceptional circumstances which have substantially deprived him of the use and enjoyment of his property. Department of Transportation v. Lawton, 50 Pa. Commonwealth Ct. 144, 412 A.2d 214 (1980). A condemnee must show that an entity, clothed with the power of eminent domain, exercised that power and that the damages sustained by the condemnee were the immediate, necessary and unavoidable consequence of that exercise. Holmes Protection of Pittsburgh, Inc. v. Port Authority of Allegheny County, 90 Pa. Commonwealth Ct. 342, 495 A.2d 630 (1985); Lawton. In Department of Transportation v. (1985); Lawton. In Department of Transportation v. Kemp, 100 Pa. Commonwealth Ct. 436, 515 A.2d 68 (1986) , we considered whether a de facto condemnation of a residential property had occurred under facts almost identical to the present case. Kemp involved a condemnation of residential property across the street from the Smoluks on the opposite corner of Calcon Hook Road and Elmwood Avenue. In Kemp we held the mere unmarketability of a residential property does not substantially deprive the owner of his residential use unless the unmarketability is a result of the property’s inevitable condemnation. Id. at 444, 515 A.2d at 73. In Kemp the taking contemplated by the Department consisted of a strip of land along Calcon Hook Road with no evidence that the owner’s house and remaining property were in the path of future highway development and were to face eventual condemnation. In addition, despite the fact that the property in Kemp was found to be unmarketable, it continued to serve as residence for the owner without disruption. Under these facts, we concluded that the owner in Kemp was not deprived of her residential use of her property, and thus that no de facto condemnation occurred. Id.
+In the present case, as in Kemp, the Smoluks’ house itself was not threatened by eventual condemnation and, despite the imminent loss of the property’s side yard, the Smoluks were able to live in the house and continue to do so. In addition, although the court’s finding that the property had diminished in fair market value is clearly supported by the evidence, there was no evidence to suggest that the entire property had been rendered completely valueless due to any concern about its eventual condemnation. Indeed, the only evidence presented on this matter was that of Smoluks’ expert witness who clearly testified that although the property had diminished in market value it could still be sold on the market. Under these facts the loss in market value and the resulting difficulty in selling the property have not themselves substantially deprived the Smoluks of their residential use and enjoyment of the property and thus do not constitute a de facto taking.
+For these reasons we are constrained to reverse the trial court and sustain the Departments preliminary objections to the petition for appointment of viewers.
+Order
+Now, September 10, 1986, the order of the Court of Common Pleas of Delaware County, No. 84-7370, dated January 22, 1985, is hereby reversed.
+Act of June 22, 1964, Special Sess., P.L. 84, as amended, 26 P.S. §l-502(e).
+We note that the present case does not involve a feet situation where the Pennsylvania Public Utility Commission itself appropriates property under Section 2702(b) of the Public Utility Code, 66 Pa. C. S. §2702(b), and thus has initial jurisdiction to determine damages. See Huss v. Department of Transportation, 99 Pa. Commonwealth Ct. 386, 512 A.2d 1356 (1986).
+The Departments condemnation proceedings in connection with this bridge reconstruction project on Calcon Hook Road have been the subject of other litigation in the Delaware County Court of Common Pleas and this Court. See Department of Transportation v. Southeast Delco School District, 97 Pa. Commonwealth Ct. 485, 509 A.2d 981 (1986).
+In Southeast Delco, argued the same day as the present case, we also reversed the trial courts finding of a de fecto taking under similar fects where, despite the imminence of condemnation of a portion of a school’s property, the school was not threatened with actual loss of the property and continued to use its remaining property for its intended use, constructing a new school upon it. Id. at 488, 509 A.2d at 983. We believe the result reached here is consistent with the result reached in that opinion.
+The Department also appealed the courts separate order sustaining Smoluks’ preliminary objections to the Department’s declaration of taking. This appeal was initially dismissed by this Court due to the failure of the Department to timely file its briefs. In response to a petition for reconsideration, this Court vacated its order dismissing the case on April 11, 1986. The appeal was submitted on briefs before a different panel of this Court, and is disposed of by a separate opinion, Department of Transportation v. Smoluk, 100 Pa. Commonwealth Ct. 427, 514 A.2d 1002 (1986).
+
+## Dissent (Senior Judge Kalish:)
+
+Dissenting Opinion by
+Senior Judge Kalish:
+I respectfully dissent for the reasons set forth in my dissenting opinion in Department of Transportation v. Kemp, 100 Pa. Commonwealth Ct. 436, 515 A.2d 68 (1986).
