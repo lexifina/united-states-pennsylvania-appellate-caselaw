@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 172"
+decided: "1925-12-14"
+citations: ["86 Pa. Super. 574"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter, Henderson, Trexler, Keller, Linn and Gawthrop, JJ.", "Before Bartlett, J."]
+parties: ["Charles F. Kolb, Appellant, v. The Norbom Engineering Company."]
+source_url: "https://static.case.law/pa-super/86/cases/0574-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 570356
+cites_cases: ["199 Pa. 221"]
+---
+
+# Kolb v. Norbom Engineering Co.
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+The plaintiff in his statement claims for commissions in securing a mortgage loan of $18,000 on property of the defendant. His claim is founded upon a writing dated August 1, 1922, in which the defendant addressed the plaintiff, stating, “We are desirous of procuring a mortgage on our property of $18,000 to $25,000.00. ’ ’ “We would like to have this mortgage for a period of from three to five years. ’ ’ The plaintiff alleges that in carrying out this agreement or order of the plaintiff, they secured a mortgage from The Cayuga Building and Loan Association, for $18,000. The affidavit of defense admits the writing of the letter, but avers that the mortgage contemplated by the parties was an ordinary mortgage and not :a building and loan association mortgage. The issue was fairly joined in this way, but when the case came to trial the plaintiff was allowed to testify that in a telephone conversation between the parties, the president of the defendant corporation said it was immaterial whether it was a three or five year mortgage, or whether it was a building and loan association mortgage. There was subsequent correspondence between the parties which was also offered in evidence ¡and the court left it to the jury whether from the correspondence and from the testimony in the case, the defendant authorized the obtaining of a building and loan mortgage, or whether the understanding of the parties was that the mortgage was to be a straight mortgage for from three to five years. The jury found in favor of the defendant and that settled the controversy, as presented at the trial. The plaintiff, however, put a point for binding instructions to the court and under cover of this, counsel now argues that the securing of the building and loan mortgage was a compliance with the terms of the defendant’s letter, that all he was required to get was a mortgage, that there is nothing in the law relating to building and loan associations fixing any time limit for which they must be drawn, that the defendant could pay off the mortgage at the end of three or five years or in fact at any time, that if the defendant wished to confine himself to any particular kind of a mortgage, he should have so stated in the letter, that the contract being in writing, its meaning is to be ascertained by the court and not by the jury.
+We do not, however, take this view of the matter. The building and loan association mortgage is an entirely different thing from a mortgage in the ordinary acceptation of the term. As was stated by Mr. Justice Fell in B. & L. Association v. Watts, 199 Pa. 221, 228 (1901): “In carrying out the plan on which building associations are organized and conducted, it is not intended that a stockholder who borrows from the association will discharge the debt he incurs by direct payments on account of it. He pays at stated periods the dues on his stock, the interest on the money borrowed, and, when the premium bid for the loan has not been deducted, the installments on it. When by the receipt of dues, interest, premiums and fines for nonpayment of dues, all of the stock of the association or of the series to which the borrower’s stock belongs, becomes full paid or matured, the value of his stock equals the amount of his debt, and the transaction is then ended by the surrender of the stock by him and the cancellation of his obligation by the association. ’ ’
+It will thus be seen that instead of the mortgage for three or five years, which without any stretch of the meaning is ¡a clear reference to the maturity or due date of the entire principal, the defendant would have been required to pay a premium on the loan, and to pay monthly installments, to take out shares in the association, which shares under the law would be pledged as collateral for the loan. We repeat, we do not think the securing of a building and loan mortgage was in compliance with the terms set forth in the letter of the defendant to the plaintiff, and that the court would Have been wrong in directing a verdict in favor of the plaintiff. The language of the letter plainly indicates that the mortgage was to be a straight mortgage, and even if by the use of the term mortgage, any kind of a mortgage was indicated, the definite fixing of the date of maturity as three or five years would show that a building and loan .association mortgage was not intended. The assignments are overruled and the judgment is affirmed.
