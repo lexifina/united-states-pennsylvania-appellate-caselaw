@@ -1,0 +1,32 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 68"
+decided: "1954-03-16"
+citations: ["175 Pa. Super. 85"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J.,. IIirt, Reno, Ross, Gunther and Wright, JJ."]
+parties: ["Muchant Unemployment Compensation Case."]
+source_url: "https://static.case.law/pa-super/175/cases/0085-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 720752
+cites_cases: ["101 A. 2d 421", "120 N.Y.S. 2d 142", "174 Pa. Superior Ct. 412", "281 App. Div. 426", "323 Mich. 188", "35 N.W. 2d 237", "358 Pa. 224", "56 A. 2d 254"]
+---
+
+# Muchant Unemployment Compensation Case
+
+## Majority (Rhodes, P. J.,)
+
+Opinion by
+Rhodes, P. J.,
+Claimant was regularly employed as a coal miner at the Bethlehem Mines Corporation, Ellsworth, Pennsylvania. By reason of lack of work due to a work stoppage in the steel industry, he was laid off from June 2, 1952, to July 28, 1952. He filed applications for unemployment compensation benefits for various weeks during that period. The bureau found him ineligible for the reason that he was not unemployed during those weeks as prescribed by the Unemployment Compensation Law.
+The referee affirmed the decision of the bureau and found that during such period the claimant worked part time as a bartender and janitor at a taproom owned and operated by his sister, and that he was not totally unemployed. Upon appeal the Unemployment Compensation Board of Review vacated the referee’s finding to that effect, and found that claimant did not perform any services for remuneration in the taproom during the period of his lay off. However, the Board made the following findings of fact, upon the basis of which it affirmed the decision of the referee:
+“3. Claimant resides, rent free, on a farm containing 80 acres, which farm is owned by members of his family. In connection with a plan to establish a beef cattle herd of approximately 30 cattle, claimant has acquired and maintains upon the farm 8 beef cattle. He also has acquired and maintains upon the farm two sheep, intending to build up a sheep herd of approximately 10. In order to maintain the cattle and sheep, claimant cultivates approximately 50 acres, producing from such cultivation hay, corn, wheat, and oats, all of which is used as feed for the cattle and sheep.
+“4. During the period in question, claimant devoted full time to the operation of his farm. Even when otherwise employed, claimant performs the necessary work in connection with the farm operation.”
+The Board thereupon concluded that claimant was engaged in an activity sufficiently substantial in nature to constitute “employment,” and that by reason of such farming operations he was disqualified under section 4 (u) of the Unemployment Compensation Law, 43 PS §753 (u). Claimant appealed to this Court from the Board’s decision.
+Section 4 (u) of the Law, as amended by the Act of September 29, 1951, P. L. 1580, 43 PS §753, provides that “An individual shall be deemed unemployed (I) with respect to any week (i) during which he performs no services for which remuneration is paid or payable to him and (ii) with respect to which no remuneration is paid or payable to him, . . .” The claimant admittedly had a relatively large farm which he personally worked during the period in question. The fact that he received no remuneration therefor during that time does not remove him from the purview of the above definition of “unemployed.” The efforts expended in those weeks may well contribute to his receipt of remuneration in the form of future profits from his farming enterprise. It cannot be said that such services are of a type with respect to which no remuneration is payable. See Phillips v. Unemployment Compensation Commission, 323 Mich. 188, 35 N.W. 2d 237.
+We have no doubt that claimant was available for recall to the mines at all times during the lay-off period. But the fact remains that he operated his farm during this interval, and therefore he was not unemployed while awaiting the call for the basic reason that one who is self-employed is not unemployed. Claim of Emery, 281 App. Div. 426, 120 N.Y.S. 2d 142. We agree with the observation of the Board that such a ruling may tend to penalize the ambitious and energetic, but it must be borne in mind that the purpose of the Unemployment Compensation Law is to provide temporary benefits for the worker who is unemployed through no fault of his own. See Dawkins Unemployment Compensation Case, 358 Pa. 224, 234, 56 A. 2d 254. It was not designed to insure a weekly income to those engaged in business ventures who may not realize a profit therefrom during various weekly periods. There may be a hardship in some cases where a regularly employed worker is also engaged in the conduct of a part-time business enterprise. However, if, as here, it is established that the claimant is actually engaged in the conduct of such an enterprise, the fact that he realizes no present weekly profit from the business for the services rendered cannot operate to make him eligible for unemployment compensation benefits.
+We indicated our position in this respect in Martin Unemployment Compensation Case, 174 Pa. Superior Ct. 412, 101 A. 2d 421, wherein we stated: “Conceivably, where a person divides his time and labor between work for another and potentially profitable work for himself, as where, e.g., a factory worker also operates, say, a store, a farm or a work-shop, a suspension of work at the factory may not and probably does not expose him to the rigors of unemployment which the Law is designed to alleviate. See Law, §3, 43 PS §752."
+The decision is affirmed.
+Q. How many acres do you cultivate? A. 50 aeres. Q. What do you raise? A. Hay, corn, wheat, oats. . . . Q. You started out with how many [cattle] ? A. Six heifers, one registered bull, and one steer, an offspring of one of the heifers. . . . Q. How much time is spent per day in connection with this farm? A. It varies, depending upon the urgency of the work. Haying time requires longer hours, but there have been days when I spent as much as 10 hours, and then days where I do nothing but a little feeding. . . . Q. During the period of the strike, did you spend a good deal of time on the farm? A. Practically all of the time. . . . Q. And you intend to add to the number of cattle and sheep? A. Yes.”
