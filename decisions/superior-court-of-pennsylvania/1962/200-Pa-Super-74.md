@@ -1,0 +1,40 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 160, 161, 162, 163, 164, 166, 167, 168, and 169"
+decided: "1962-12-12"
+citations: ["200 Pa. Super. 74"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Ervin, Wright, Watkins, Montgomery, and Flood, JJ. (Woodside, J., absent)."]
+parties: ["Paull v. Meyers (et al., Appellants)."]
+source_url: "https://static.case.law/pa-super/200/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 763000
+cites_cases: ["124 A. 2d 703", "149 Pa. Superior Ct. 545", "168 Pa. Superior Ct. 637", "181 Pa. Superior Ct. 121", "230 Pa. 498", "27 A. 2d 425", "30 A. 2d 115", "346 Pa. 352", "350 Pa. 35", "38 A. 2d 55", "79 A. 713", "82 A. 2d 588"]
+---
+
+# Paull v. Meyers
+
+## Majority (Watkins, J.,)
+
+Opinion by
+Watkins, J.,
+These appeals are from orders of the Court , of Common Pleas of Allegheny County, refusing the motions of Catherine Geris, executrix of the Estate of Gus Geris, the appellant, for judgment non obstante veredicto and for a new trial.
+Verdicts having been rendered in favor of appellees, George J. Pauli, individually, and as administrator of the Estate of Clara Pauli, deceased, Richard J. Meyers and Antoinetta Pisano, the testimony must be read in a light most favorable to them and all conflicts resolved in their favor.
+The facts appear to be as follows: On November 19, 1957, at or about 7:0Q o’clock a.m., in rainy weather, at a time when it was fairly dark, Antoinetta Pisano was driving her automobile in a westwardly direction on Liberty Avenue in the City of Pittsburgh. Accompanying her as passengers were Mary Stasukevish, Helen Stasukevish, Jennie Esper, and Clara Pauli.
+As Antoinetta Pisano approached the Ninth Street intersection, which is a “T” intersection to the left controlled by traffic lights, she turned on her left turn signal. She observed an automobile approaching from the west on Liberty Avenue, later learned to be operated by Gus Geris, in the curb lane of traffic, about three quarters of a block to the west of the intersection. Liberty Avenue is a six-lane street, having a lane for parking on either side and two lanes for travel in each direction, with streetcar tracks on either side of the center line. Antoinetta Pisano then started her turn left into Ninth Street and when the front end of her car was into Ninth Street it was struck in the middle of the right side by the automobile driven by Gus Geris. Gus Geris’ automobile was then struck in the rear by a third automobile driven by Richard J. Meyers, who had been following the Geris automobile west on Liberty Avenue.
+Clara Pauli and Gus Geris died after the accident but before trial of causes not related to this accident.
+Verdicts were rendered against Catherine Geris, executrix of the estate of Gus Geris in favor of Antoinetta Pisano, in the amount of $1552; for George J. Pauli, as administrator of the estate of Clara Pauli, for $2870; and for George Pauli individually, for $1865. The jury found in favor of Antoinetta Pisano and Richard J. Meyers where they appeared as defendants.
+The first question raised by appellant is: Was Antoinetta Pisano guilty of contributory negligence as a matter of law? To establish contributory negligence as a matter of law requires evidence which is so clear and unmistakable that there is no room for fair and sensible men to differ in their conclusions. All facts and inferences must be free from doubt. Zeigler v. Gullong, 168 Pa. Superior Ct. 637, 82 A. 2d 588 (1951) ; Tancredi v. Buten & Sons, 350 Pa. 35, 38 A. 2d 55 (1944).
+Each case must be determined from its own peculiar circumstances, and no hard and fast rule can be fixed to cover every case. In the present case, Antoinetta Pisano, began her turn from near the center line of Liberty Avenue, at a time when Geris was a half a block away and was all but clear of the intersection when struck. Geris bore right into Pisano when there was a free lane to go around her, and, as witness Jennie Esper stated, he was driving unwisely, and at a “wide” pace, while Pisano accelerated her turn to try to avoid him. Doubt existing as to the inferences to be drawn, the question of contributory negligence of Antoinetta Pisano was properly left to the jury.
+The next question is: Did the court below err in limiting use of admissions by parties for impeachment purposes only?
+First, appellant urges that the allegations in the complaints of Pisano and Pauli be admitted as substantive evidence of the sequence of events of the accident and not as inconsistent statements tending to impeach credibility only.
+The court below properly ruled on this question. The allegations in the complaint set forth in the alternative how the accident could have happened, i.e., that Geris struck Pisano and then Meyers struck Geris; or Meyers struck Geris who then struck Pisano. The entire paragraph must be read and offered as a whole. Brandeis v. Charter Mutual Benefit Association, 149 Pa. Superior Ct. 545, 27 A. 2d 425 (1942). Clearly this could not he given the status of substantive evidence.
+Appellant urges also that testimony of the police officers given from their report of the investigation of this accident also be admitted as substantive evidence of the sequence of events in this accident. A reading of the record shows that neither officer Doyle nor Duke could say that the report, which was admittedly a reproduction in department terminology of a conglomeration of information secured and not a verbatim statement was secured solely from Antoinetta Pisano.. This is not the clear, unequivocal and uncontradicted type of statement constituting an admission which may be the basis of a finding of fact. Dougherty v. Pennypack Woods Home, 181 Pa. Superior Ct. 121, 124 A. 2d 703 (1956); Lambert v. Polen, 346 Pa. 352, 30 A. 2d 115 (1943).
+Also the testimony of Dr. Aspiote secured in a history taken from Geris, which purportedly fixed the sequence of events in the accident, would not be substantive evidence even though admissible as part of the history since they were entirely self-serving and contradicted.
+The next question raised by appellant is: Was the verdict of the jury finding Geris solely responsible for the accident against the weight of the credible evidence? A review of the testimony favorably to those who received verdicts, together with the reasonable inferences to be drawn therefrom, show sufficient evidence to sustain the verdicts rendered after the matter was properly submitted to the jury.
+Next, appellant contends that the court erred in its instructions to the jury in that it allegedly did not charge as to the duty of a driver about to make a left turn in face of oncoming traffic. The charge of the court must be considered as a whole. A review of the charge shows the court read pertinent portions of The Vehicle Code; made clarifying comments of his own and sufficiently covered the questions raised in the trial and the proposed points for charge. This question is without merit.
+Finally, appellant claims that the court below erred in admitting certain testimony of Dr. McCollum as to whether an ulcerated condition on one of Mrs. Pauli’s legs was due to this accident.
+Mrs. Pauli was treated by a Dr..Kline following the accident and marked her chart released on February, 1958. Mrs. Pauli went to Dr. McCollum in June, 1959 for another reason and later treated her for an ulcerated condition on her leg caused by phlebitis. Dr. McCollum, who was associated with Dr. Kline was not able to testify because of a heart condition, but the nature of Mrs. Pauli’s injuries and his treatment of her was elicited from his records by Dr. McCollum who then testified that it was apparent that her condition was a continuing one and the ulcer he treated recurred as a result of the accident. This was properly admitted into evidence by the court below. Brown v. Chester Traction Company, 230 Pa. 498, 79 A. 713 (1911).
+Judgment affirmed.
