@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "02378"
+decided: "1985-05-24"
+citations: ["342 Pa. Super. 582", "493 A.2d 744"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before BECK, POPOVICH and TROMMER, JJ."]
+parties: ["WILKES-BARRE CLAY PRODUCTS CO., Appellant, v. Steve KORONEOS, Appellee."]
+source_url: "https://static.case.law/pa-super/342/cases/0582-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 632992
+cites_cases: ["230 Pa.Super. 352", "244 Pa.Super. 467", "245 Pa. Super. 1", "305 Pa.Super. 536", "308 Pa.Super. 131", "326 A.2d 637", "483 Pa. 68"]
+---
+
+# Wilkes-Barre Clay Products Co. v. Koroneos
+
+## Majority (BECK, Judge:)
+
+BECK, Judge:
+On December 1, 1983, appellant Wilkes-Barre Clay Products Co. commenced an action before a district magistrate seeking to recover for certain brick and building materials purchased by appellee Steve Koroneos. A hearing on the matter was scheduled for December 19, 1983. By letter dated December 16, 1983, appellee’s counsel informed the district magistrate that appellee would agree to the entry of a default judgment with the intention of taking an immediate appeal. Appellee did not appear at the hearing on December 19, 1983, and the district magistrate accordingly entered judgment in favor of appellant in the amount of $2,482.68.
+On January 3, 1984, appellee filed a notice of appeal and praecipe for rule to file a complaint pursuant to Pa.R.C.P. D.J. 1002 and 1004 with the court of common pleas. However, neither the notice nor the praecipe and rule were served upon the district magistrate and appellant as required by Pa.R.C.P.DJ. 1005. Thereafter, on February 14, 1984, appellant filed a praecipe to strike the appeal pursuant to Pa.R.C.P.DJ. 1006. Simultaneously with the striking of the appeal, appellant entered its judgment against appellee in the court of common pleas and issued an execution thereon.
+On February 22, 1984, appellee filed a petition to reinstate its appeal from the district magistrate’s award. Appellee’s petition averred that both opposing counsel and the district justice had actual notice of the appeal and that the failure to serve notice in a form complying with the rules was due to the inadvertence of counsel. After the filing of an answer by appellant and oral argument, the trial court granted the petition on July 28, 1984. This appeal followed.
+We are unable to reach the merits of this issue because the appeal must be quashed. The order appealed from does not end the litigation or effectively put appellant out of court. In fact, the effect of the order is to bring appellant into court for a de novo hearing on the merits. Hence, the order reinstating appellee’s appeal is not a final order appealable under 42 Pa.C.S. § 742 and Pa.R.A.P. 341. Pugar v. Greco, 483 Pa. 68, 394 A.2d 542 (1978); Foulke v. Lavelle, 308 Pa.Super. 131, 454 A.2d 56 (1982).
+Evidently recognizing this lack of finality, appellant contends in his statement of jurisdiction that jurisdiction is vested in this court by virtue of 42 Pa.C.S. § 5105(c) and Pa.R.A.P. 311(a)(1). Rule 311 lists those interlocutory orders which are appealable as of right; subsection (a)(1) specifically provides that an appeal may be taken from “[a]n order opening, vacating or striking off a judgment, or refusing to open, vacate or strike off a judgment.”
+Plaintiff/appellant obtained a default judgment in the district court. He is now attempting to equate the court’s order reinstating defendant/appellee’s appeal to an order opening a default judgment.
+We hold that the order of the court of common pleas is not appealable under Rule 311. An appeal of a judgment as of right to a trial de novo in a higher tribunal is simply not the same, procedurally or substantively, as a petition asking the tribunal which entered a default judgment to exercise its equitable powers to open that judgment. A party aggrieved by the judgment of a district justice may appeal that judgment as of right to a court of common pleas under Pa.R.C.P.DJ. 1002. Because the definition of “judgment” in Pa.R.C.P.DJ. 1001(1) includes a default judgment entered pursuant to Pa.R.C.P.DJ. 319, this right of appeal extends to default judgments. Short v. Steacker, 8 D. & C.3d 497 (C.P. Bucks Co. 1980).
+The order which has been appealed to this court reinstates such an appeal pursuant to Pa.R.C.P.D.J. 1006. The reinstated appeal has no greater or lesser force and effect on the judgment appealed from than any other appeal from a judgment of a district justice which was properly perfected in the first instance. An appeal under Pa.R.C.P. D.J. 1002 does not strike off, open or vacate the judgment of the district justice or otherwise remove it from the record.
+Although no reported decision of our courts addresses this precise issue with respect to appeals from district justices, we believe a profitable comparison may be made to decisions involving de novo appeals to the courts of common pleas from compulsory arbitration awards. In this context, we have held that orders which have the effect of allowing the appeal to proceed, thereby putting the parties in court, are interlocutory and unappealable. MacKanick v. Rubin, 244 Pa.Super. 467, 368 A.2d 815 (1976) (order allowing appeal nunc pro tunc from arbitrators held interlocutory and unappealable); Polascik v. Baldwin, 245 Pa. Super. 1, 369 A.2d 263 (1976) (order denying petition to quash appeal from arbitrators held interlocutory and unappealable). In MacKanick, we specifically rejected an argument that the order appealed from was equivalent to an order opening a judgment. See 244 Pa.Super. at 472 n. 3, 368 A.2d at 818 n. 3.
+We are persuaded by the reasoning of MacKanick and Polascik and believe that the holding of these cases should be applied to similar rulings concerning de novo appeals from district justices. Therefore, we hold that the order appealed from in the instant case is neither a final order nor an interlocutory order appealable as of right and the appeal must be quashed.
+Appeal quashed.
+. Under Pa.R.C.P.D.J. 1008 A an appeal does operate as a supersedeas. However, a supersedeas merely stays execution on the judgment during the pendency of the appeal (see Pa.R.C.P.D.J. 1001(4) ); it does not open, strike off or vacate the judgment or otherwise remove the judgment from the record or render it invalid.
+. Significantly, though, the cases cited by the parties in their arguments on the merits involve appeals from orders denying reinstatement of the appeal. Such orders put the appellant out of the court are therefore clearly appealable. See Quarato v. Facelifters, Ltd., 305 Pa.Super. 536, 451 A.2d 777 (1982); City of Easton v. Marra, 230 Pa.Super. 352, 326 A.2d 637 (1974).
