@@ -1,0 +1,36 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 113 C.D. 1973"
+decided: "1974-06-07"
+citations: ["13 Pa. Commw. 451"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Mencer, Rogers and Blatt."]
+parties: ["Commonwealth of Pennsylvania, Department of Transportation, Appellant, v. Meadville Cooperative Association, Appellee."]
+source_url: "https://static.case.law/pa-commw/13/cases/0451-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1859134
+cites_cases: ["1 Pa. Commonwealth Ct. 274", "133 Pa. Superior Ct. 598", "238 Pa. 365", "246 A. 2d 124", "247 A. 2d 623", "274 A. 2d 215", "298 A. 2d 614", "3 A. 2d 184", "431 Pa. 341", "432 Pa. 243", "7 Pa. Commonwealth Ct. 490", "86 A. 186"]
+---
+
+# Commonwealth v. Meadville Cooperative Ass'n
+
+## Majority (Judge Wilkinson,)
+
+Opinion by
+Judge Wilkinson,
+This eminent domain case is before us on appeal from the lower court’s order dismissing the appellantcondemnor’s rule to show cause why a new trial should not be awarded and refusing a new trial. The appellantcondemnor had condemned appellee’s property for highway purposes. A board of view awarded damages of $93,700. The appellant-condemnor appealed to the Court of Common Pleas. A five-day jury trial ensued with a transcript of 450 pages. The jury awarded $93,500.
+Appellant-condemnor filed a motion for a new trial alleging the “standard” five reasons, i.e., that the verdict was (1) excessive, (2) against the evidence, (3) against the weight of the evidence, (4) against the law, and (5) against the charge. The appellant-condemnor asked for and was granted leave to assign additional reasons for a new trial within 30 days after the transcript of the testimony and the charge of the court were filed. The transcript was filed and notice thereof served on appellant-condemnor on July 10, 1972. Contrary to the leave requested and granted, additional reasons for a new trial were not filed until October 24, 1972, 106 days later. As pointed out by the learned court below, this in itself would have been sufficient cause to dismiss the two additional reasons filed, one of which is the only reason being pressed here. That one reason, was stated in the late filing for a new trial as follows: “The Court erred in sustaining an objection by the Condemnee in excluding the sale price of a property which has (sic) already been judicially determined as comparable.”
+One of the appellant-condemnor’s expert witness was testifying on direct examination that in fixing the value of the condemned property, he relied on the sale of a similar property some 35 miles from the condemned property, in another county. Photographs of the property in the adjoining county were offered. Appelleecondemnee objected to the admission of the photographs on the basis that comparability had not been established. After a few additional questions on comparability on direct examination, the court overruled the objection to the admissibility of the photographs, stating: “The ruling of the court is the objection is overruled. Due to the uniqueness of this type of business, we feel that this comparable is for the jury’s consideration even though it’s in another County.”
+Appellant-condemnor then asked the expert witness to state the consideration for the sale of the property in the adjoining county. Appellee-condemnee objected that such a question was improper on direct examination. The entire matter is quoted as follows: “Q. What was the consideration — [Attorney for appellee-condemnee] : Wait a minute. We object to that, your Hon- or. That isn’t proper testimony to be brought out on direct examination. The Coubt : Sustained.” Without appellant-condemnor pressing the court that the question was proper, that the objection should not be sustained, or giving the court reasons therefor and, most importantly, without placing in the record, by way of an offer at side bar, what the witness would have testified if permitted to answer, appellant-condemnor casually moved on to another question.
+It seems that prior to the Eminent Domain Code, Act of June 22, 1964, Special Sess., P. L. 84, 26 P.S. §1-101 et seq., it was improper on direct examination, to permit a witness to give the sale price of comparable property. Snitzer, Pennsylvania Eminent Domain, page 388 (1965). Such information could be admitted only by way of cross-examination. However, this rule was changed by Section 705(2) of the Eminent Domain Code, 26 P.S. §1-705(2).
+The learned court’s explanation for what appellantcondemnor would have us consider inconsistent rulings is that it admitted the photographs as evidence of comparability and expected more evidence on comparability, followed by an opportunity for appellee-condemnee to cross-examine the witness on comparability, before allowing evidence of consideration to be offered on direct examination. Such a procedure is certainly good practice, but we are not prepared to hold that it is required. See Snitzer, Pennsylvania Eminent Domain, page 397 (1965). See also Commonwealth v. 108.8 Acres of Land, 431 Pa. 341, 246 A. 2d 124 (1968); North Side Deposit Bank v. Urban Redevelopment Authority of Pittsburgh, 1 Pa. Commonwealth Ct. 274, 274 A. 2d 215 (1971). Appellant-condemnor refers to this explanation by the lower court of its reasons for its rulings as a “post-trial basis” entirely different from that stated by the court when the ruling was made. In fact, the record shows that no reason was given by the court at the time of the ruling and no reason was requested. The only “explanation” in the record is the reason advanced by the appellee-condemnee in his objection. The reason for the objection was not contested at the time nor was contrary authority called to the court’s attention.
+Finally, and fatal to the appellant-condemnor’s attempt to secure a new trial, no offer of proof was placed in the record to establish that the refusal to receive the evidence was prejudicial to appellant-condemnor. The rule is clearly and succinctly stated in Cockcroft v. Metropolitan Life Insurance Co., 133 Pa. Superior Ct. 598, 602, 3 A. 2d 184, 186 (1938) : “In the trial of a case, where an objection to a question is sustained, it is essential to put in the record, an offer of proof of the relevant facts that it is desired to prove by testimony then available. The reviewing court can then consider both the relevancy of the evidence and whether the refusal to receive it was harmful [citing cases].” See also Granowitz v. Erie Redevelopment Authority, 432 Pa. 243, 247 A. 2d 623 (1968); Munkkonen v. Trevaskis, 238 Pa. 365, 86 A. 186 (1913).
+Affirmed.
+
+## Concurrence (Judge Blatt :)
+
+Concurring Opinion by
+Judge Blatt :
+I concur in the opinion of the majority. 1 would have preferred, however, to make clear that this decision need not, and, in my opinion, should not, affect our holding in Faith United Presbyterian Church v. Redevelopment Authority, 7 Pa. Commonwealth Ct. 490, 298 A. 2d 614 (1972), where the introduction of photographs of comparable properties was also considered.
