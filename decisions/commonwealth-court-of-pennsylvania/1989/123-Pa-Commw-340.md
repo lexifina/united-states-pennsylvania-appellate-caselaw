@@ -1,0 +1,56 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal No. 2064 C.D. 1987"
+decided: "1989-02-03"
+citations: ["123 Pa. Commw. 340", "553 A.2d 521"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Crumlish, Jr., Judge Colins, and Senior Judge Blatt, sitting as a panel of three."]
+parties: ["Haviland Day Harper, Petitioner v. Commonwealth of Pennsylvania, Department of Public Welfare, Philadelphia County Assistance Office, Respondent."]
+source_url: "https://static.case.law/pa-commw/123/cases/0340-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1382647
+cites_cases: ["102 Pa. Commonwealth Ct. 426", "107 Pa. Commonwealth Ct. 414", "417 A.2d 1292", "476 A.2d 996", "491 A.2d 299", "512 Pa. 377", "517 A.2d 523", "53 Pa. Commonwealth Ct. 363", "83 Pa. Commonwealth Ct. 49", "88 Pa. Commonwealth Ct. 610"]
+---
+
+# Harper v. Commonwealth
+
+## Majority (Judge Colins,)
+
+Opinion by
+Judge Colins,
+Haviland Day Harper (petitioner) appeals an order of the State Civil Service Commission (Commission) which removed him from the position of Income Maintenance Case Worker, regular status, with the Philadelphia County Assistance Office (PCAO), Department of Public Welfare, effective at the close of business on August 28, 1986.
+In February, 1985, petitioner was reinstated to his former position as an Income Maintenance Case Worker, with back pay, pursuant to Commission order No. 5098, which was the result of an earlier appeal filed by petitioner. However, before petitioner could resume the duties of an Income Maintenance Case Worker, he was required to undergo a standard training program (STP), as required by PCAO. STP was not offered until May, 1985, and as a result, petitioner was assigned to receptionist duties.
+Petitioner attended the STP from May 31, 1985, to August 30, 1985, and satisfactorily completed this training program with a rating of 90. Thereafter, petitioner was assigned a full case load on October 7, 1985. Reports from petitioner’s supervisors indicated that as early as November, 1985, petitioner’s job performance was consistently unacceptable, as he did not produce the volume of work expected of an Income Maintenance Case Worker.
+In March, 1986, the quantity of work that petitioner submitted to his supervisor continued to be substandard. Accordingly, petitioner’s immediate supervisor, Myralin Johnson, initiated a plan for frequent conferences and close supervision of petitioner. In addition, Mrs. Johnson distributed 78 cases which petitioner had not serviced in a timely fashion to other workers in order to have them completed. Despite the close supervision and ongoing assistance, petitioner continually failed to complete tasks assigned to him.
+By letter dated August 12, 1986, petitioner was removed from his position as an Income Maintenance Case Worker, effective at the close of business on August 28, 1986. The basis for petitioner’s removal from employment was unsatisfactory job performance. Petitioner subsequently filed the present appeal challenging the agency’s personnel action pursuant to Sections 951(a) and 951(b) of the Civil Service Act (Act). Petitioner charged that he was removed from his position without just cause and that the agency discriminated against him on the basis of his age, which was 59 at the time of his removal. As a result of these alleged violations of the Act, petitioner requested reinstatement to the position oflncome Maintenance Case Worker, back pay, and an order directing the agency to cease and desist its discrimination and harassment against him.
+A hearing was held before the Commission on February 5, 1987. By an adjudication and order issued July 30, 1987, the Commission dismissed the appeal of petitioner from removal from employment with PC AO. The Commission concluded that petitioner was properly removed from his position in accordance with Section 807 of the Act and that the appointing authority did not violate Section 905a of the Act, by discriminating against the petitioner. This appeal followed.
+Our scope of review in this matter is limited by Section 704 of the Administrative Agency Law. Accordingly, we must affirm the order of the commission unless constitutional rights were violated, an error of law committed, or findings of fact are not supported by substantial evidence. Estate of McGovern v. State Employees’ Retirement Board, 512 Pa. 377, 517 A.2d 523 (1986).
+In this appeal, we are asked to determine whether the Commission properly concluded (1) that the Department did not discriminate against petitioner on the basis of his age and (2) that PCAO had just cause for petitioner’s removal from his position as an Income Maintenance Case Worker. Our review of the record reveals that the Commission’s findings of fact are substantially supported by the evidence, and we conclude that the Commission properly upheld petitioner’s removal.
+When a civil service employee alleges discrimination in a personnel action, that employee has the burden of going forward with evidence to support such charges. Department of Public Welfare v. Sanders, 102 Pa. Commonwealth Ct. 426, 518 A.2d 878 (1986). Moreover, discrimination cannot be inferred by the Commission; rather there must be some affirmative support adduced to sustain the allegations of discrimination. Zielinski v. Luzerne County Assistance Office, Department of Public Welfare, 107 Pa. Commonwealth Ct. 414, 528 A.2d 1028 (1987).
+In the case sub judice, petitioner contends that he was dismissed from his position as an Income Maintenance Case Worker because of his age. The only evidence presented by petitioner in support of his discrimination claim was a statement, allegedly made by the District Administrator (Gerald Lewis) at a staff meeting, during which three staff members were promoted. While recognizing the individuals who had been promoted, the District Administrator allegedly commented to the staff that the agency “needs more young people like this.” However, petitioner produced no evidence, aside from his own testimony, to substantiate that such a statement was ever made. The PCAO, on the other hand, produced several witnesses who were also present at this meeting who testified that the alleged statement was never made.
+It is well settled that questions of credibility are for the Commission, as fact finder, to determine. Department of Public Welfare v. Sanders, 102 Pa. Commonwealth Ct. 426, 518 A.2d 878 (1986). The Commission here obviously found petitioner’s unsubstantiated assertion not credible and, thus, concluded that he had failed to sustain his burden of establishing a prima facie case of discrimination against PCAO. Accordingly, we affirm the decision of the Commission which dismissed petitioner’s discrimination charge.
+Petitioner also contends that the evidence is insufficient, as a matter of law, to support the personnel action against him by PCAO. Petitioner contends that when he returned to his position as an Income Maintenance Case Worker and was assigned a full case load, he received an “out of coverage” case load in order to unduly burden him, since PCAO was displeased with having to reinstate him as a result of his earlier appeal. In addition, petitioner contends that the close supervision under which he was placed by his supervisors actually served to hinder his work rather than facilitate the achievement of his monthly work goals. Thus, petitioner maintains that the reason for his low level of productivity was a direct result of PCAO’s harassment and not of his inability to perform his job. We disagree.
+It is well established that pursuant to Section 807 of the Act, “just cause” for dismissal of a regular civil service employee must be related to the employee’s job performance and touch in some rational and logical manner upon the employee’s competency and ability. Doerr v. Pennsylvania Liquor Control Board, 88 Pa. Commonwealth Ct. 610, 491 A.2d 299 (1985). The burden of proving just cause for removal is borne by the appointing authority pursuant to Section 951(a) of the Act. Caldwell v. Clearfield County Children and Youth Services, 83 Pa. Commonwealth Ct. 49, 476 A.2d 996 (1984).
+The pertinent findings of fact as made by the Commission are as follows:
+5. On or about March 7, 1986, as a result of the appellant’s failure to demonstrate significant improvement, he and his supervisor met to discuss the appellant’s job performance difficulties. N.T. pp. 11, 12, 80, 96.
+6. At the meeting, the appellant was directed to process five (5) client reapplications per day; 25 per week. N.T. p. 12.
+7. During the following week, the appellant completed three (3) reapplications. N.T. pp. 12-13.
+8. On or about April 1, 1986, the appellant was placed on ‘Progress’—an intensive, closely monitored, system of organizing an employe’s caseload so as to facilitate accomplishment of monthly goals. N.T. pp. 19-20, 65, 143, 145.
+9. Concurrent with his placement on the ‘Progress’ system, the appellant’s entire backlog of overdue cases was re-assigned to other Caseworkers throughout the various units. N.T. pp. 20, 123.
+10. The appellant’s new monthly goal was to complete 26 reapplications and ten (10) food stamp recertifications. N.T. p. 21.
+11. In the next month, the appellant completed 14 reapplications and seven (7) food stamp certifications. N.T. p. 21.
+12. Throughout the time period in question, the appellant was scheduled to meet with his supervisor on a regular basis. The appellant often missed the appointment and had to be summoned by his supervisor. N.T. pp. 18, 19, 22.
+Our review of the record in this matter leads us to conclude that the findings of fact as made by the Commission are supported by substantial evidence and lead to the conclusion that petitioner’s removal was for just cause.
+Having determined that the Commission’s findings are supported by substantial evidence, no error of law committed, nor constitutional rights violated, we affirm the Commission’s order.
+Order
+And NOW, this 3rd day of February, 1989, the order of the State Civil Service Commission in the above-captioned matter is hereby affirmed.
+"STP” is a standard procedure followed by PCAO which requires new workers, as well as workers who have experienced a break in service, to attend classes in order to receive updates on the agency’s regulations and policies.
+Act of August 5, 1941, P. L. 752, as amended, added by Section 27 of the Act of August 27, 1963, P.L. 1257, 71 P.S. §741.951(a).
+71 P.S. §741.951(b).
+71 P.S. §741.807.
+71 P.S. §741.905a.
+2 Pa. C. S. §704.
+Petitioner also asserts that when he was reinstated to his position as an Income Maintenance Case Worker and assigned receptionist duties (prior to attending STP), he was actually demoted and, thus, PCAO was not in compliance with the Commission’s order No. 5098. However, this question was not raised before the Commission and, therefore, cannot be raised on appeal to this Court. Reichenbach v. Civil Service Commission of the Borough of Wilkinsburg, 53 Pa. Commonwealth Ct. 363, 417 A.2d 1292 (1980).
+“Out of coverage” means, cases which present unique problems unrelated to any fault on the part of petitioner.
