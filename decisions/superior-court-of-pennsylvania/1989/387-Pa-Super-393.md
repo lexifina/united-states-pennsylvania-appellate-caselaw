@@ -1,0 +1,64 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1421"
+decided: "1989-09-19"
+citations: ["387 Pa. Super. 393", "564 A.2d 235"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before TAMILIA, JOHNSON and HOFFMAN, JJ.", "TAMILIA, J., files a concurring statement.", "JOHNSON, J., files a dissenting opinion."]
+parties: ["COMMONWEALTH of Pennsylvania, Appellant, v. Orick ALSTON."]
+source_url: "https://static.case.law/pa-super/387/cases/0393-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 471232
+cites_cases: ["366 Pa.Super. 54", "368 Pa.Super. 94", "380 Pa.Super. 280", "462 Pa. 613", "476 A.2d 474", "486 Pa. 194", "520 Pa. 586", "551 A.2d 213"]
+---
+
+# Commonwealth v. Alston
+
+## Majority (HOFFMAN, Judge:)
+
+HOFFMAN, Judge:
+This is an appeal from a judgment of sentence for driving under the influence of alcohol, which was entered following appellee’s guilty plea. Appellant, the Commonwealth, contends that the trial court erred in refusing to consider appellee’s prior acceptance of Accelerated Rehabilitative Disposition (ARD) for an unrelated driving under the influence offense, a prior conviction as prescribed by 75 Pa.C.S.A. § 3731(e)(2). Although we agree with the Commonwealth that appellee should not have been sentenced as a first offender, we also find that appellee’s guilty plea was not knowingly and voluntarily entered because he was misinformed as to the potential sentence he could receive. Accordingly, we vacate the judgment of sentence and remand with directions to allow appellee to withdraw his guilty plea.
+Appellee was arrested on July 3, 1984 and charged with driving under the influence of alcohol in violation of § 3731 of the Pennsylvania Motor Vehicle Code. 75 Pa.C.S.A. § 3731. Appellee appeared in Philadelphia Municipal Court on June 11, 1986 and entered a plea of guilty. On February 18, 1987 at sentencing, the Commonwealth notified the court that appellee was a second time offender and that they would be seeking the mandatory minimum sentence of 30 days. The municipal court refused to sentence appellee as a second time offender, but instead imposed a sentence of forty eight hours imprisonment. The Commonwealth filed a petition for reconsideration of the sentence, which was denied. The Commonwealth appealed to the Court of Common Pleas which affirmed the Municipal Court’s sentence. This timely appeal followed.
+The Commonwealth contends that appellee was sentenced improperly. We agree. 75 Pa.C.S.A. § 3731(e)(1) states:
+Any person violating any of the provisions of this section is guilty of a misdemeanor of the second degree and the sentencing court shall order the person to pay a fine of not less than $300 and serve a minimum imprisonment of:
+(i) not less than 48 consecutive hours.
+(ii) not less than 30 days if the person has previously been convicted of an offense under this section or of an equivalent offense in this or other jurisdiction within the previous seven years.
+A prior inclusion in the ARD program is considered a first conviction for purposes of this section. Id. § 3731(e)(2). Here, appellee had a prior arrest for drunk driving on July 22, 1983, and he was placed in the ARD program. Therefore, his 1984 offense constituted a second conviction for purposes of § 3731(e)(1)(ii). Commonwealth v. Becker, 366 Pa.Super. 54, 63-64, 530 A.2d 888, 893 (1987) (en banc), allocatur denied 520 Pa. 586, 551 A.2d 213 (1988); see also Commonwealth v. Gretz, 368 Pa.Super. 94, 97, 533 A.2d 732, 734 (1987). Appellee thus should have been sentenced to the thirty day term of imprisonment specified for second offenders. Accordingly, the sentence of the trial court must be vacated.
+Appellee argues that, if this Court holds that he should have been sentenced as a second offender, he should be allowed to withdraw his guilty plea. Specifically, he argues that his plea was not knowingly and voluntarily entered because the court misinformed him regarding the potential sentence he would have received. We agree. A person may attack a guilty plea after sentencing on three grounds: (1) the legality of the sentence; (2) the jurisdiction of the court; and (3) the voluntary, knowing, and intelligent nature of the guilty plea itself. See Commonwealth v. Pyle, 462 Pa. 613, 342 A.2d 101 (1975); see also Pa.R.Crim.P. 319(a). The comment to Rule 319 notes that, at a minimum, a judge should inquire into the following six areas before accepting a plea:
+(1) Does the defendant understand the nature of the charges to which he is pleading guilty?
+(2) Is there a factual basis for the plea?
+(3) Does the defendant understand that he has the right to trial by jury?
+(4) Does the defendant understand that he is presumed innocent until he is found guilty?
+(5) Is the defendant aware of the permissible range of sentences and/or fines for the offenses charged?
+(6) Is the defendant aware that the judge is not bound by the terms of any plea agreement tendered unless the judge accepts such agreement?
+Id. (emphasis supplied). With regard to the fifth question, this Court has noted:
+A knowing and voluntary guilty plea must provide the opportunity to a defendant to assess his chances of obtaining a reduced sentence as opposed to going to trial. A defendant may well take his chances at trial rather than entering a guilty plea if he is made aware that entering a guilty plea will require an imposition of a five-year mandatory minimum sentence by the court.
+Commonwealth v. Crum, 380 Pa.Super. 280, 288, 551 A.2d 584, 589 (1988). During the trial colloquy in the instant case, appellee was informed of all the essential elements of a guilty plea. However, when explaining the possible sentence to appellee, the trial court misinformed appellee regarding the sentence it could impose. The trial court informed appellee that it would impose the mandatory minimum sentence of 48 hours and that it would give appellee credit for 24 hours. N.T. June 11, 1986 at 12-13. Because appellee was misinformed as to the potential sentence he could receive, we must conclude that his guilty plea was not knowingly and voluntarily entered. Accordingly, we remand with directions that appellee be permitted to withdraw his plea.
+For the foregoing reasons, we vacate the judgment of sentence and remand with directions to allow appellee to withdraw his guilty plea.
+Vacated and remanded. Jurisdiction relinquished.
+TAMILIA, J., files a concurring statement.
+JOHNSON, J., files a dissenting opinion.
+. Appellee also contends that his trial counsel was ineffective for not appealing the denial of his motion to withdraw his guilty plea. Because of our disposition of appellee’s first claim, we need not address this issue.
+
+## Concurrence (TAMILIA, Judge,)
+
+TAMILIA, Judge,
+concurring.
+I vote to join Judge Hoffman in the above-captioned case. While I agree with Judge Johnson’s dissent that appellee has not appealed his sentence on the basis of denial of his motion to withdraw his guilty plea and we are considering the Commonwealth’s appeal of an improper sentence, it is in the interest of judicial economy and would be circuitous not to direct that appellee be permitted to withdraw his guilty plea. Otherwise, the matter must be remanded for resentencing, at which time a motion to withdraw the guilty plea, if presented, would most certainly be entertained, prior to resentencing. See Pa.R.Crim.P. 320.
+This also appears to be one of the rare instances when granting a motion to withdraw guilty plea is justified. The trial court was emphatic in telling the district attorney and appellee that the sentence would be a mitigated sentence which was a condition under which the plea was accepted. See Plea hearing, 6/11/86, p. 13. It would be an injustice not to permit a withdrawal of that plea, when, in fact, an entirely different sentence would be imposed than that stated by the court, without objection from the district attorney at the time the plea was accepted. If this case was remanded for imposition of the mandatory sentence, the status of the case still would be at the stage where sentence had not yet been imposed, which would permit a motion to withdraw pursuant to Pa.R.Crim.P. 320. If sentence was imposed forthwith without permitting such a motion, then a motion challenging the guilty plea would be required pursuant to Pa.R.Crim.P. 321. Since these rules were promulgated to provide a record upon which appellate review could be founded, that requirement has been satisfied as the record is absolutely clear in establishing that the plea, upon remand, cannot now be considered to have been voluntary. Since, on appeal, appellee alleges the lack of voluntariness of the plea coupled with an allegation of ineffectiveness of prior counsel, raised at the first opportunity, in failing to present a motion to withdraw the plea in the post-trial proceedings, when it became known that the district attorney was pursuing the higher sentence, we may properly decide that issue.
+There are no issues which need to be considered nor any further proceedings necessary by the trial court to bring about a just and proper result. The appellee desires his day in court which would be improperly denied him under any circumstances other than to permit him to withdraw his guilty plea.
+
+## Dissent (JOHNSON, Judge,)
+
+JOHNSON, Judge,
+dissenting.
+I agree with so much of the Majority Opinion as concludes that Orick Alston should have been sentenced as a second offender. Alston’s acceptance into the Accelerated Rehabilitative Disposition (ARD) program after being charged with driving under the influence (DUI) exposes him to sentence as a second offender after a guilt determination on a second DUI charge. Commonwealth v. Becker, 366 Pa.Super. 54, 530 A.2d 888 (1987).
+I must dissent from that portion of the Majority Opinion which seeks to review the voluntariness of Alston’s guilty plea. As the Commonwealth points out in their Reply Brief, we have before us the Commonwealth’s appeal from an illegal sentence, not Alston’s appeal from the denial of a motion to withdraw a guilty plea. I do not believe we can reach this issue on this appeal.
+If the issue of the voluntariness of Alston’s plea were before us, I would reject his claim for the reasons set forth in the Opinion of Administrative Judge Edward J. Blake, filed February 9, 1989. As Judge Blake correctly observed, the record in this case establishes that Alston did receive notice that the Commonwealth intended to seek the application of the recidivist provision of the Drunk Driving Law prior to sentencing.
+Prior to the imposition of sentence on February 18, 1987, the assigned prosecutor specifically requested that Alston be sentenced as a second offender because of the prior A.R.D. matter. N.T. February 18, 1987, pages 5-7. The prosecutor also objected to the 48 hour to one year sentence immediately after it was imposed. Id. at page 9.
+On March 2, 1987, Alston filed his Motion to Withdraw Guilty Plea and/or Motion to Vacate, Reconsider, and Modify Sentence. In that motion, Alston did not allege that he was unaware that the mandatory sentence for second offenders applied to him. Rather, the basis for the withdrawal motion was that the plea had not been voluntarily, knowingly and intelligently entered because Alston’s prior attorney did not advise him that his operator’s license would be suspended for a period of one year following his conviction. Motion, paras. 5-6, R.R., page 13a. The motion was denied by the trial court on March 6, 1987. Alston took no appeal from the order denying his motion to withdraw guilty plea.
+Based upon my independent review of the record, I agree with Judge Blake that Alston received ample notice of the Commonwealth’s intention to seek application of the recidivist provision of the Drunk Driving Law, 75 Pa.C.S. § 3731(e)(2) prior to the imposition of sentence in this case. Without taking a cross-appeal, Alston may not raise an issue already decided adversely to him. Appeal of Pesante, 82 Pa.Cmwlth. 242, 476 A.2d 474 (1984). Moreover, only those issues included in post-verdict motions will be considered preserved for appellate review. Commonwealth v. Gravely, 486 Pa. 194, 404 A.2d 1296 (1979).
+The Commonwealth correctly argues that Alston must initiate appropriate proceedings in the trial court, if he wishes to litigate a basis for withdrawing his plea that has not been previously presented to that court. I join the Majority Opinion in deciding that the judgment of sentence must be vacated. I dissent from that portion of the Majority Opinion which would direct the trial court to allow withdrawal of the guilty plea.
+Based upon the certified record before us, this case should be remanded to the trial court for the imposition of the mandatory minimum sentence set forth in 75 Pa.C.S. § 3731(e)(l)(ii).
