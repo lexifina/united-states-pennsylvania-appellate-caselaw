@@ -1,0 +1,31 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 982 C.D. 1971"
+decided: "1972-05-31"
+citations: ["5 Pa. Commw. 509"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Mencbr and Blatt, sitting as a panel of three."]
+parties: ["Catanzaro v. Unemployment Compensation Board of Review."]
+source_url: "https://static.case.law/pa-commw/5/cases/0509-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1849308
+cites_cases: ["286 A. 2d 19", "4 Pa. Commonwealth Ct. 292"]
+---
+
+# Catanzaro v. Unemployment Compensation Board of Review
+
+## Majority (Judge Blatt,)
+
+Opinion by
+Judge Blatt,
+This is an appeal from a decision of the Unemployment Compensation Board of Review (“Board”) denying the appellant’s request for extended benefits as provided for in the Act of February 9, 1971, P. L. , No. 1, 13 P.S. §811 (hereinafter “Act No. 1”).
+The appellant was employed as an electrical equipment repair helper at the Tobyhanna Army Depot until he was laid off, and his last day of work was Friday, January 30,1970. On Monday, February 2, he appeared at the local office of the Bureau of Employment Security (“BES”) at Carbondale, which had been closed throughout Saturday and Sunday, January 31 and February 1, filed his application for unemployment compensation benefits and registered for work. As was then permissible and customary under BES regulations, the appellant’s application was back-dated to Saturday, January 31, considered as his first day of unemployment. This procedure allowed an applicant the earliest possible eligibility date for the receipt of benefits, and the appellant raised no objection to it. The appellant thereafter received 30 weekly checks each in the amount of $56.00, with his last claim filed September 14, 1970, for the week ending September 9.
+On February 16, 1971, following the enactment of Act No. 1, the appellant applied for extended benefits but was refused. The basis for this refusal was the determination by BES that the appellant’s benefit year had ended on January 30, 1971, prior to the eligibility period for extended benefits, which began on January 31, 1971. On appeal to the Board, and after a hearing before a Referee, the appellant’s claim was dismissed and he then brought an appeal to this Court.
+Section 401-A(a) (2) (B) of Act No. 1 provides that “. . . no extended benefit period may become effective in this State prior to January 31, 1971. . . .” Section 402-A(i) of Act No. 1 defines the “eligibility period” of an individual as “. . . the period consisting of the weeks in his benefit year which begin in an extended benefit period and, if his benefit year ends within such extended benefit period, any weeks thereafter which begin in such period.” It is clear, therefore, that, if the appellant’s benefit year began on January 31, 1970, it would have ended on January 30, 1971, a day before the earliest date on which an extended benefit period could begin. It is the appellant’s position, however, that his benefit year did not begin until February 2, 1970, the day he first applied for'.benefits and that. BES acted improperly at that time in back-dating his application to January 31, 1970. In support of this position, the appellant cites the definition of “benefit year” contained in Section 4(b) of the Unemployment Compensation Law, Act of December 5, 1936, Second Ex. Sess., P. L. (1937). 2897, as amended, 43 P.S. §753(b), which is “. . . the one-year period beginning with the day as of which such ‘Valid Application for Benefits’ is filed. . . .” The date on which the appellant’s application was filed was February 2, 1970, and the appellant asserts, therefore, that his benefit year should not have ended until February 1, 1971.
+The appellant’s attack on the back-dating by BES of his application might at first appear to have some merit, because, there was no .specific statutory authorization for. BES to take such action. But as was pointed out in the decision of the Referee, which was adopted by the Board, the appellant had ample opportunity to. object to this back-dating, at the time it was done and later but failed to do so, choosing instead to take the advantage which the back-dating then afforded him. In addition, Section 501 of the Unemployment Compensation Law, 43 P.S. §821, provides that the notice which the appellant received of his eligibility should include notice of the beginning date of his benefit year, and that if the employee is dissatisfied with the notice in any respect he must request a hearing on the matter within ten days of receiving the notice. The appellant here received the required notice but made no request for review. To the contrary, the Board’s Finding of Fact No. 7 states: “From the time the claimant filed his original Application for Benefits through to the end of his benefit year, the claimant made no protest concerning the established, date of the application for benefits or the claim, week ending dates established by the application for benefits date.” There is no mystery, of course, as to why the appellant waited over a year to question the beginning date of his benefit year, for until that time he undoubtedly believed that the earlier date was to his advantage.
+This action is merely a collateral attack on the initial BES determination as to the beginning date of the appellant’s unemployment. The Referee and the Board were clearly correct in finding that the appellant could have questioned the correctness of the indicated starting date of the benefit year within the time established by Section 501, and, inasmuch as he failed to do so, the Board was also correct in finding that his benefit year began on January 31, 1970, as originally noted on his application. The Referee and the Board had substantial evidence on which to base this decision, and we must affirm it. Holland v. Unemployment Compensation Board of Review, 4 Pa. Commonwealth Ct. 292, 286 A. 2d 19 (1972).
+For the above reasons, therefore, we issue the following
+Order
+Now, May 31, 1972, the appeal of Anthony Catanzaro is hereby dismissed and the decision and order of the Unemployment Compensation Board of Review are affirmed.
