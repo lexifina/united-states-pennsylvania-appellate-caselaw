@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 246"
+decided: "1919-12-08"
+citations: ["73 Pa. Super. 189"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Oklady, P. J., Porter, Henderson, Head, Trexler, Keller and Linn, JJ."]
+parties: ["Borough of Mountville v. Gable, Appellant."]
+source_url: "https://static.case.law/pa-super/73/cases/0189-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 643368
+cites_cases: ["109 Pa. 150", "109 Pa. 152", "135 Pa. 256", "136 Pa. 294", "140 Pa. 396", "190 Pa. 321", "2 Pa. Superior Ct. 148", "208 Pa. 189", "241 Pa. 164", "5 W. & S. 141", "60 Pa. Superior Ct. 641", "63 Pa. Superior Ct. 121", "64 Pa. Superior Ct. 495"]
+---
+
+# Borough of Mountville v. Gable
+
+## Majority (Keller, J.,)
+
+Opinion by
+Keller, J.,
+That an owner may dedicate his ground to public use by any act which sufficiently evinces his will, was recognized in this State as early as the case of Gowen v. The Philadelphia Exchange Co., 5 W. & S. 141; whether land has been dedicated to public use as a highway is a question of intention: Waters v. Philadelphia, 208 Pa. 189; and it is generally for the jury to determine from the facts in evidence as to the opening of the land, the character of the use by the public, the character of the land, and its surroundings, and all the other circumstances in the case, whether there was an intention on the part of the owner to dedicate the land to public use: Weiss v. South Bethlehem, 136 Pa. 294; Kleinhans v. Traction Co., 60 Pa. Superior Ct. 641. In suits in equity this duty devolves on the judge sitting as a chancellor. The learned judge who tried this case found there had been a dedication of the land in question to the public by the owner as far back as 1885, and that it had been used as a public road or street continuously since that time. Our only concern is to determine whether there was evidence adduced at the trial to support his findings.
+The learned judge, and properly, we think, found that there was no dedication by the owners before the elder Binkley of the triangle at the front of their property formed by the intersection at a sharply acute angle of Main street and College avenue. Whatever use the pub-. lie may have made of the land prior to 1885, was by permission of the owners and consistent with their claim of ownership. This was shown by its being partly fenced in, by the erection of hitching posts at the place where the defendant was about to lay his curb when enjoined; by its continued use by the owners for their own private purposes, for loading and unloading goods from the store maintained by them on the premises and by leaving their wagons standing on it not only in daytime but over night. The situation then approximated closely to the conditions in the case of Griffin’s Appeal, 109 Pa. 150, where the owner temporarily set back his fence for his own convenience so as to provide standing room for his wagons at night, and never parted with his dominion over the land.
+But after Binkley became the owner in 1885 and used the premises as a dwelling and sales stable, conditions were materially changed, with respect to the land in question. Within a short time, the fence remaining around any part of the land now in dispute was removed, the hitching posts along the College avenue side were taken away and an unobstructed triangle was left, forming with the two roads or streets an open place, popularly known as the square. A stone curb, elevated above the street surface, was built by Binkley, or with his consent and assistance, along the perpendicular of the triangle, leading from Main street to College avenue; a pavement was laid east of the curb and a fence was built by him four feet further east of the curb to enclose his house. The surface of the triangle was filled by the public authorities with crushed stone to make it level with the two streets, and from that time to the filing of the bill, the triangle has been used by the public generally as a public road in connection with Main street and College avenue.
+When Binkley had sales he exercised his horses over this triangular lot just as he did over College avenue and on Main street up to the trolley tracks. He never attempted, however, in any way to limit the rights of the public thereon and he used it no differently from the way in which he used the streets or roads adjoining it: Binkley’s son, who became the owner in 1909 and who lived on the property from his birth in 1886 or 1887 to 1918, testified that the whole “square,” including this triangular lot, was lying open to public use and was used by the public, by everybody, as he put it, and that his father never tried to fence it up or do anything with regard to it that the general public did not do.
+This brief review of the testimony presents sufficient evidence to support the finding by the learned judge, both of an intention to dedicate and an actual dedication of the land, and forbids any interference on our part with the decree of the court below.
+As the learned counsel for the appellant laid so much stress in his argument on the case of Weiss v. South Bethlehem, supra, we deem it proper to point out that, in our opinion, the evidence in favor of a dedication in that case was not as strong as in this, yet the question of dedication was held properly to have been left to the jury and would have been sufficient to support a verdict if the jury had seen fit to find for the defendant instead of the plaintiff. In the face of stronger evidence we certainly cannot disturb the findings of the trial judge.
+The assignments of error are overruled and the appeal is dismissed at the costs of the appellant.
