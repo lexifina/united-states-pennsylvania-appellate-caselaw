@@ -1,0 +1,71 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "378"
+decided: "1976-09-27"
+citations: ["243 Pa. Super. 69", "364 A.2d 454"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WATKINS, President Judge, and JACOBS, HOFFMAN, CERCONE, PRICE, VAN der VOORT and SPAETH, JJ.", "JACOBS, J., dissents."]
+parties: ["COMMONWEALTH of Pennsylvania v. Domenick W. DeCAMPLI, Appellant."]
+source_url: "https://static.case.law/pa-super/243/cases/0069-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 823514
+cites_cases: ["10 Pa. Super. 651", "155 Pa.Super. 347", "216 Pa.Super. 201", "217 Pa.Super. 384", "218 Pa.Super. 209", "223 Pa.Super. 7", "225 Pa.Super. 465", "226 Pa.Super. 13", "226 Pa.Super. 245", "229 Pa.Super. 540", "231 Pa.Super. 327", "237 A.2d 192", "240 Pa.Super. 471", "241 Pa.Super. 470", "241 Pa.Super. 62", "263 A.2d 913", "272 A.2d 476", "272 A.2d 512", "275 A.2d 835", "280 A.2d 119", "281 A.2d 866", "292 A.2d 373", "296 A.2d 854", "303 A.2d 917", "305 A.2d 1", "309 A.2d 576", "310 A.2d 381", "311 A.2d 708", "311 A.2d 711", "318 A.2d 327", "331 A.2d 503", "331 A.2d 856", "361 A.2d 356", "38 A.2d 425", "428 Pa. 281", "441 Pa. 534", "444 Pa. 11", "444 Pa. 397", "448 Pa. 177", "452 Pa. 15", "452 Pa. 49", "453 Pa. 475", "456 Pa. 365"]
+---
+
+# Commonwealth v. DeCampli
+
+## Majority (HOFFMAN, Judge.)
+
+HOFFMAN, Judge.
+Appellant contends that the evidence was insufficient to sustain his conviction of possession 2and possession with intent to deliver a controlled substance. He also contends that the lower court should have granted his motion for a mistrial after a prosecution witness made repeated references to prior criminal activity by the appellant.
+On February 27,1975, deputies from the Beaver County Sheriff’s Department and Chief Douglas Young of the North Sewickley Township Police Department executed a search warrant for 1355 Brentwood Avenue, North Sewickley Township, Beaver County. The officers seized several bags of marijuana, a small quantity of hashish, various other quantities of marijuana in several parts of the house, a scale, and assorted paraphernalia used , in selling and smoking marijuana. Appellant was the sole occupant and tenant of the premises, but was not present when the search warrant was executed.
+The case was called for trial on June 20, 1975. Immediately following the selection of the jury, appellant’s counsel asked for permission to file an application to suppress. Because appellant’s application was clearly late, the court denied appellant’s request; and the case proceeded to trial.
+The jury found appellant guilty of both possession and possession with intent to deliver marijuana. After the court denied appellant’s post-verdict motions, it sentenced appellant to serve a term of 2i/2 to 5 years’ imprisonment and to pay a fine of $10,000 on the count charging possession with intent to deliver and to serve a concurrent term of 1% to 3 years’ imprisonment and to pay a $5,000 fine on the possession count.
+I. Sufficiency of the Evidence
+The appellant contends that, because other persons have been in his apartment at various times, the evidence was not sufficient to show that he was in possession of the contraband,seized from his house.
+We are required to evaluate the sufficiency of the evidence, after a verdict of guilty, in the light most favorable to the Commonwealth, i. e., we must accept as true all of the evidence, direct and circumstantial, and all reasonable inferences arising from the evidence, upon which the factfinder could properly have based the verdict. Commonwealth v. Fortune, 456 Pa. 365, 318 A.2d 327 (1974); Commonwealth v. Malone, 444 Pa. 397, 281 A.2d 866 (1971); Commonwealth v. Maurer, 240 Pa.Super. 471, 361 A.2d 356 (Filed April 22,1976).
+Our courts have repeatedly held that the illegal possession of drugs is a crime which is unique to the individual and which, by definition, can only be committed by the possessor. Guilt by association is unacceptable. Commonwealth v. Fortune, supra; Commonwealth v. Tirpak, 441 Pa. 534, 272 A.2d 476 (1971); Commonwealth v. Maurer, supra; Commonwealth v. Updegrove, 223 Pa.Super. 7, 296 A.2d 854 (1972). Absent literal possession, the Commonwealth may sustain its burden by showing constructive possession, which requires that the Commonwealth prove that the accused had the power to control the contraband and the intent to exercise that control. Commonwealth v. Townsend, 428 Pa. 281, 237 A.2d 192 (1968); Commonwealth v. Maurer, supra; Commonwealth v. Updegrove, supra. “Undoubtedly, the fact of possession loses all persuasiveness if persons other than the accused had equal access with him to the place in which the property was discovered: 9 Wigmore on Evidence (3rd ed.) § 2513. Cf. Com. v. Ault, 10 Pa. Super. 651.” Commonwealth v. Davis, 444 Pa. 11, 16, 280 A.2d 119, 121 (1971), quoting Commonwealth v. Kauffman, 155 Pa.Super. 347, 351, 38 A.2d 425, 427 (1944). See also Commonwealth v. Schuloff, 218 Pa.Super. 209, 275 A.2d 835 (1971). It is equally true, however, that constructive possession may properly be inferred from the totality of circumstances which attend each case. Exclusive control of a dwelling may be inferred from proof that the accused is the sole occupant or tenant of the place in which contraband is found. See Commonwealth v. Davis, supra; Commonwealth v. Maurer, supra. An accused may be charged with the knowledge of the location of the contraband, which is essential to the proof of an intent to exercise control, if the contraband is found in places peculiarly within the control of the accused. Commonwealth v. Armstead, 452 Pa. 49, 305 A.2d 1 (1973); Commonwealth v. Maurer, supra; Commonwealth v. Ferguson, 231 Pa.Super. 327, 331 A.2d 856 (1974). Compare Commonwealth v. Hannan, 229 Pa.Super. 540, 331 A.2d 503 (1974) with Commonwealth v. Gladden, 226 Pa.Super. 13, 311 A.2d 711 (1973), and Commonwealth v. Walley, 225 Pa.Super. 465, 310 A.2d 381 (1973). Individually, the circumstances may not be decisive; but, in combination, they may justify an inference that the accused had both the power to control and the intent to exercise that control, which is required to prove constructive possession. Commonwealth v. Gladden, supra.
+In the instant case, the Commonwealth proved that appellant was the sole occupant and tenant of the dwelling by producing utility bills for the premises which were addressed to the appellant. In fact, appellant’s only contention is that visitors to his home could have been the true possessors of the contraband. This contention was made, and rejected, in Commonwealth v. Ferguson, supra. We find it similarly unpersuasive here. This is particularly true because of the location of some of the contraband: five bags of marijuana in the appellant’s bedroom, approximately a gram of hashish in a jewelry box on his dresser, and an envelope of marijuana on the dresser. Taken together with the other evidence, it is very clear that appellant possessed the contraband in question. We, therefore, hold that the evidence was sufficient and that the court below properly denied appellant’s motion in arrest of judgment.
+II. Evidence of Other Crimes
+Appellant contends that the lower court should have declared a mistrial because the prosecutor elicited testimony implying that appellant had engaged in criminal activity other than those offenses charged in the indictment.
+It is well-settled that presenting the jury with information indicating that the accused is charged with other crimes is prejudicial error. “The purpose of this rule is to prevent the conviction of an accused for one crim,e by the use of evidence that he has committed other unrelated crimes and to preclude the inference that because he has committed other crimes he was more likely to commit the crime for which he is being tried.” Commonwealth v. Bonnano, 216 Pa.Super. 201, 263 A.2d 913 (1970). See also, Commonwealth v. Bobko, 453 Pa. 475, 309 A.2d 576 (1973); Commonwealth v. Allen, 448 Pa. 177, 292 A.2d 373 (1972); Commonwealth v. Elmore, 241 Pa.Super. 470, 362 A.2d 348 (Filed June 28, 1976); Commonwealth v. Strohl, 226 Pa.Super. 245, 311 A.2d 708 (1973); Commonwealth v. Trapp, 217 Pa.Super. 384, 272 A.2d 512 (1970). When the Commonwealth introduces evidence which does not directly establish appellant’s prior criminal conduct, but which is merely suggestive of it, “. . . the operative question is whether the jury ‘could reasonably infer from the facts presented that the accused had engaged in prior criminal activity.’ ” Commonwealth v. Groce, 452 Pa. 15, 20-21, 303 A.2d 917, 919 (1973).
+In the instant case, appellant objects to four references to criminal activity by a prosecution witness, Chief of Police Douglas E. Young:
+“Q. [By the District Attorney] Chief, among your duties as the law enforcement officer in North Sewickley Township have you had occasion to become acquainted with the house known and numbered as 1355 Brentwood Drive, Beaver Falls?
+“A. Yes, sir, I have.
+“MR. GALLOWAY [appellant’s Counsel]: May we approach the bench?
+(At Side Bar)
+“MR. GALLOWAY: I’d like to know what the chief is going to testify to. I’d like an offer.
+“MR. NEISH: He’s going to testify that among his duties he passes this home and that this Defendant was seen there in this home living there and what have you.
+“MR. GALLOWAY: That’s all? Then I have no objection to that.
+(In Open Court)”
+“. . . Q. My question to you is are you familiar with this residence?
+“A. Yes, sir, I am.
+“Q. Can you tell us how you became familiar with it?
+“A. I have answered numerous complaints—
+“MR. GALLOWAY: If the Court pleases, I object because this goes beyond the scope of the offer and I move for a mistrial.
+“THE COURT: The motion for mistrial is denied. The objection is sustained. Members of the Jury, you are instructed to disregard the testimony about any complaints. That is not what we are here for and it is not what we are here about. We are instructing you to disregard that answer.
+“Q. Chief, I want you to tell us just how you familiarized yourself with this residence?
+“A. I have been to Mr. DeCampli’s house numerous times previous to this incident in regard to other incidents.
+“MR. GALLOWAY: If the Court please, I.object and I again renew my motion for a mistrial.
+“THE COURT: The motion is denied. Members of the Jury, we are not here about anything else except the charges contained in this indictment and Chief, you will have to restrict yourself just to this case and what you know about this Defendant occupying that house. That was the offer that was made and that is what the testimony is to be about.
+“A. Yes, Your Honor . . . .”
+Shortly thereafter, the District Attorney asked the Police Chief how he made his acquaintance with the appellant. Appellant’s Counsel objected and a sidebar conference was granted. Again, the District Attorney assured the court that he was not seeking to elicit testimony concerning other criminal episodes. The court again admonished the District Attorney and the witness. It denied appellant’s motion for a mistrial, but did concede that “we are getting into an area that is awfully close to suggesting to the jury other crimes and other charges.”
+Questioning of the witness continued. The appellant’s counsel cross-examined the Police Chief. Then, during redirect examination, the following occurred:
+“Q. Chief, do you have any other notes concerning the Defendant DeCampli regarding occasions other than the morning of February 27th?
+“A. You are referring to the same case that was—
+“MR. GALLOWAY: If the Court please, I object to the question as going beyond the scope of cross. I asked him specifically about February 27, 1975, and whether those notes contained anything about it.
+“THE COURT: Overruled.
+“Q. Do you have my question?
+“A. Okay. Is this in regard to the same basic case we are working on now? No.
+“MR. GALLOWAY: May we approach the bench? (At Side Bar)
+“MR. GALLOWAY: Your Honor, I renew my motion for a mistrial. This is the fourth time we have gotten into the fact there are other cases. I think it is entirely prejudicial to the Defendant. There is no question in the minds of the jury that there are other criminal cases involved and I most earnestly and sincerely ask for a mistrial.”
+The court refused appellant’s motion, and the case proceeded.
+We hold that the systematic, repetitive references to “other incidents”, “prior acquaintance”, and “other cases” could not possibly have been interpreted by the jury in any other way except that appellant had engaged in prior criminal activity. Any doubt in the minds of the jury about appellant’s prior criminal conduct was eradicated by the sheer number of times that the court was forced to give cautionary instructions, which only served to underscore the meaning of the prejudicial testimony.
+We therefore, reverse the judgment of sentence and remand for a new trial.
+JACOBS, J., dissents.
+. Uniform Controlled Substance, Drug, Device and Cosmetic Act, Act of April 14, 1972, P.L. 233, No..64, § 13; as amended October 26, 1972, P.L. 1048, No. 263, § 1, Dec. 30, 1974, P.L. 1041, No. 340, § 1; 35 P.S. § 780-113(a)(16).
+. Uniform Controlled Substance, Drug, Device and Cosmetic Act, supra; 35 P.S. § 780-113(a)(30).
+. Appellant also contends that the lower court permitted the Commonwealth to ask questions in rebuttal which did not, in fact, rebut appellant’s testimony, that the lower court erroneously refused a mistrial when the prosecutor made certain prejudicial remarks during closing, that the lower court abused its discretion in refusing appellant’s motion that closing remarks be transcribed, and that appellant’s sentence was illegal. Because we reverse and remand for a new trial, it is not necessary to reach appellant’s other claims.
+. Appellant also challenges on appeal the lower court’s refusal to consider the merits of appellant’s suppression motion. Because we grant a new trial, it is unnecessary to decide appellant’s contention. It is not raised, and we do not decide, what procedure should be followed on remand if appellant renews his suppression application. But see Commonwealth v. Throckmorton, 241 Pa.Super. 62, 359 A.2d 444 (Filed June 28, 1976).
