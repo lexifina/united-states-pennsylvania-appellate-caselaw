@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals Nos. 536 and 537"
+decided: "1935-02-01"
+citations: ["116 Pa. Super. 461"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Cunningham, Baldrige, Stadteeld, Parker and James, JJ."]
+parties: ["Barrilo et al. v. Frank et al. (J. Frank & Sons, Inc., Appellant)."]
+source_url: "https://static.case.law/pa-super/116/cases/0461-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 979476
+cites_cases: ["105 Pa. Superior Ct. 75", "107 A. 810", "159 A. 182", "201 Pa. 341", "206 Pa. 274", "251 Pa. 407", "264 Pa. 439", "50 A. 769", "55 A. 978", "72 Pa. 236", "83 Pa. Superior Ct. 149", "96 A. 1038"]
+---
+
+# Barrilo v. Frank
+
+## Majority (Pabkeb, J.,)
+
+Opinion by
+Pabkeb, J.,
+Plaintiffs, husband and wife, have judgments against J. Frank & Sons, Inc., in an action in trespass. The defendant has appealed, complaining of the refusal of its motions for judgment n. o. v. and for a new trial.
+Appellant, in support of its motion for judgment n. o. v., alleges that it was not properly made a party to this action. In the original statement of claim, J. Frank & Sons, a partnership, was named as the defendant. After the partnership had filed an affidavit of defense, the plaintiff moved to amend the statement of claim and the title of the case by naming J. Frank & Sons, Inc., as defendant in place of J. Frank & Sons, a partnership. A rule to show cause was granted and later made absolute and the cause as amended was placed on the trial list. At the trial, counsel appeared for the corporation, cross-examined plaintiffs’ witnesses, and made offers of proof on its behalf. The corporation by appearing and defending the action cured any previous defect in the processes.
+Where the statute of limitations has not run, “statutes of amendment are liberally construed to give effect to their clearly defined intent to prevent a defeat of justice through a mere mistake as to the parties or the form of action”: Wright v. Eureka T. Copper Co., 206 Pa. 274, 55 A. 978; Radel v. Seib, 105 Pa. Superior Ct. 75, 159 A. 182; Dress v. Schuylkill Ry. Co., 83 Pa. Superior Ct. 149. Amendments even as to names have been allowed where the statute of limitations has run, if it is only to correct the name under which the right party was sued: Wright v. Eureka. T. Copper Co., supra; McGinnis v. Valvoline Oil Wks., Ltd., 251 Pa. 407, 96 A. 1038. When the title and statement of claim were amended, the proper practice would have been to issue an alias summons and bring the corporation into court in the manner prescribed by statute, or perhaps by a rule to appear and plead: Pittsburgh v. Eyth, 201 Pa. 341, 50 A. 769; Leonard v. Parker, 72 Pa. 236.
+The corporation was under no duty to appear or plead until required so to do in a legal manner. In fact, that is the course which was pursued by an added defendant in Pittsburgh v. Eyth, supra, and as the Supreme Court there said, a judgment did not bind the person not properly brought upon the record. But here the corporation did appear and defend. As it is more specifically stated by Mr. Justice Simpson in Bergman v. Straus, 264 Pa. 439, 442, 107 A. 810, “When in accordance with the allowance of the court below the record was amended to make appellants parties defendant, they had the option of assenting to that action and acting under it, or of refusing to recognize it as valid, but they could not do both.” Here, the corporation likewise assented by appearing and defending.
+Appellant also asserts that the plaintiff failed to show that the corporation was responsible for the accident that occasioned the damages to plaintiffs. The record does not support this contention. The plaintiffs were struck by a truck driven by one Daniel Polo. The driver was called as a witness by plaintiffs and testified that at the time of the accident he was employed as a truck driver by J. Frank & Sons, Inc.; that he was so employed at the time he testified and for four years prior thereto; and that he received his pay from the corporation. He also gave a complete description of the truck which he was driving. Counsel for appellant suggests the novel proposition that such agency could not be proven by the agent. We do not know of any better proof or any stronger proof of such a fact unless it would be an admission of the defendant or something equivalent thereto. From the brief filed, we conjecture that counsel has confused the well established rule that agency may not be shown by proving the declarations of the agent out of court. Here, the proof was not as to something that an alleged agent had said, but was made by calling the agent and offering proof of a fact as to which he was fully competent to testify.
+The reasons assigned in support of the right to have a new trial are without merit. The husband plaintiff included in his claim the damages to the car which he was driving. After the accident, B'arrilo called a garage and ordered his car towed there. The owner of the garage who received the car did not see the car until the next morning. He based his estimate of the damage done to the car on the basis of its condition the next morning and the statement of the plaintiff as to its condition before the accident. We have no doubt of the competency of this evidence, particularly as the defendant offered no proof except an exhibit to which we will later refer.
+The defendant complains of the refusal of the court to receive a certain exhibit. When the husband plaintiff was on the stand, he verified his signature and that of his wife to a bill of sale for a ear. Although defendant was invited by the court to show any connection that the exhibit might have with the issue, he furnished no further proof and did not indicate the purpose of his offer. That exhibit was a bill of sale from the plaintiffs to a finance company. If a proper offer had been made or it had been accompanied by further proofs which would indicate its purpose, it might have been properly received. Under the circumstances, the court correctly ruled.
+We have examined all the remaining assignments of error and find no merit in them.
+Judgments of the court below are affirmed.
