@@ -1,0 +1,91 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 26 C.D. 1976"
+decided: "1977-06-24"
+citations: ["30 Pa. Commw. 632"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Crumlish, Jr., Kramer and Mencer, sitting as a panel of three. Reargued May 4, 1977, before President Judge Boavman and Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Mencer, Rogers and Blatt."]
+parties: ["Wheeling-Pittsburgh Steel Corporation, Appellant v. Unemployment Compensation Board of Review of the Commonwealth of Pennsylvania. United Steelworkers of America, AFL-CIO, Intervening Appellee."]
+source_url: "https://static.case.law/pa-commw/30/cases/0632-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1880953
+cites_cases: ["10 Pa. Commonwealth Ct. 295", "15 Pa. Commonwealth Ct. 78", "155 A.2d 461", "165 A.2d 131", "17 Pa. Commonwealth Ct. 494", "18 Pa. Commonwealth Ct. 71", "190 Pa. Superior Ct. 582", "193 Pa. Superior Ct. 349", "23 Pa. Commonwealth Ct. 237", "310 A.2d 94", "324 A.2d 854", "333 A.2d 199", "333 A.2d 807", "351 A.2d 297"]
+---
+
+# Wheeling-Pittsburgh Steel Corp. v. Unemployment Compensation Board of Review
+
+## Majority (Judge Rogers,)
+
+Opinion by
+Judge Rogers,
+Wheeling-Pittsburgh Steel Corporation has appealed from a decision of the Unemployment Compensation Board of Review awarding benefits to Carlo E. D’Angelo. By stipulation of counsel Mr. D’Angelo’s circumstances are agreed to be those of about 150 other persons formerly employed by Wheeling-Pittsburgh who sought unemployment compensation. Mr. D’Angelo and the other claimants whose entitlement to unemployment compensation is questioned are represented by the United Steelworkers of America, AFLCIO, which intervened in their behalf.
+Wheeling-Pittsburgh decided to close its rod and wire facilities at Monessen and Allenport, Pennsylvania, because it was unable to compete with lower cost foreign products. Wheeling-Pittsburgh and the Union arranged for each of the employes affected by the shutdown to be personally interviewed in the presence of representatives of the Union as well as management. Each of the employes was informed of his pension rights, if any, and of his rights under a seniority agreement between the Company and the Union Local to bump into positions held by others with less seniority and to bid on vacant positions in the mill. There were 63 positions into which certainly Mr. D ’Angelo and probably the other persons affected by the rod plant closing, by reason of their high seniority, could have taken, and an additional 38 job vacancies on which they would have high bidding privileges occurred during the phase out period. Each of the employes was asked to state his preference (a) of going on normal pension if over age 65, (b) of going on 30 year pension if under 65 with 30 years service, (c) of going on deferred vested pension if age 40 with 15 years service, (d) of going on 60/15 pension if age 60 with more than 15 or less than 30 years continuous service, (e) of going on 70/80 pension if age 55 or over with age plus continuous service equaling at least 70, or age plus continuous service equaling at least 80, or finally (f) of electing to continue to work under the provisions of paragraph 9 of the December 9, 1964 seniority supplemental agreement between Wheeling-Pittsburgh and the Local. The provision just mentioned says that a senior employe involved in a departmental layoff has no claim to any specific position in the plant and that the management has the option of placing the employe on some other position elsewhere in the plant or replacing the last employe hired in the plant, providing his plant seniority warrants such placement. D ’Angelo and the employes whom he represents elected to accept retirement on pension rather than to continue work at other jobs laid before them for bumping or available for bidding.
+D’Angelo was 62 years of age and had 40 years continuous service in unskilled work. At the time of his interview he was making $3,792 per hour plus incentive plus cost of living. The 63 jobs into which he could have bumped paid between $3,886 and $3.51 per hour plus incentive plus cost of living, and the 38 jobs on which he would have been in position to bid paid between $4,223 and $3,635 per hour plus incentive plus cost of living.
+Mr. D’Angelo as lie was entitled to do chose to accept 70/80 retirement. A section of the pension agreement between Wheeling-Pittsburgh and its employes concerning the 70/80 and disability pensions reads as follows:
+Increased Regular Pensions-Permanent Incapacity, 70/80
+In the determination of the amount of any regular pension for permanent incapacity or 70/80 retirement, the monthly pension amounts otherwise applicable in making such determination shall, prior to any reductions pursuant to paragraphs 3.10, 3.11 and 3.12, be increased by $105 provided, however, that such increase shall not be applicable with respect to such a regular pension payable for any month for which the participant is eligible for Public Pension.
+The Unemployment Compensation Board of Review decided that Mr. D’Angelo was entitled to receive unemployment compensation because although he voluntarily quit his employment he did so for a cause of a necessitous and compelling nature. The Board’s holding is expressed in the following paragraphs of its decision:
+In the instant case, the claimant chose to retire and his eligibility must be determined under Section 402(b)(1) of the Unemployment Compensation Law.
+Section 402(b)(1) of the Law provides that a claimant shall be ineligible for compensation for any week in which his unemployment is due to voluntarily leaving work without cause of a necessitous and compelling nature. Since the claimant voluntarily terminated his employment, the burden rests upon him to show cause of a necessitous and compelling nature for so doing. The claimant has met this burden.
+In the instant case, the claimant voluntarily chose early retirement under the terms of the pension plan plus receipt of a $105 monthly phaseout allowance. The claimant was offered the opportunity to bid on 38 jobs and to bump into 63 jobs. The record reveals that the claimant was not offered a definite job; the record also indicates that some of these jobs were permanent jobs while others were temporary. Furthermore, the record reveals that had the claimant chosen to bid or bump into any of the available jobs, he would have lost the opportunity to get the $105 monthly phaseout allowance. Also, the claimant would have become the lowest man in seniority in his new department.
+The factual situation in the instant case is strikingly similar to that which existed in Aluminum Company of America v. Unemployment Compensation Board of Review, 15 Pa. Commonwealth Ct. 78, 324 A.2d 854 (1974). The offer in the instant case included an entire range of mere possibilities and was a vague and tenuous proposition as was the case in Aluminum Company. The Board of Review, after a careful review of the entire record, believes that the claimant did have cause of a compelling and necessitous nature to retire under Section 402(b)(1). The Board of Review takes special note of the following language from Aluminum Company, 15 Pa. Commonwealth Ct., supra 85, 324 A.2d at 858.
+‘The record clearly shows that [the claimant’s] decision to retire was consistent with ordinary common sense and prudence. He was offered a concrete benefit as an inducement to retire and was led to believe that he would lose that benefit if he “bumped.’ ’ In contrast to the concrete benefit offered for retirement, the “bumping” option was presented as a vague and tenuous proposition which would be of short term duration. ’
+The Board of Review believes that the instant case is controlled by the above language from Aluminum Company.
+As to the $105 payment, the Board of Review agrees with the Referee that these payments, although authorized by the pension agreement between the employer and the claimant’s union, are really phaseout allowances given to the claimant as a result of the claimant’s department being phased out.
+Our examination of the record and our consideration of the law compels us to disagree with the Board in most of what it writes in the paragraphs just recorded.
+The Board first says that Mr. D’Angelo was not offered a definite job. In fact he was offered a choice of jobs comparable in pay, location and type of work to the one he then held. We deem it appropriate here to reproduce some of the testimony of the employer’s representative. Under questioning by the company’s counsel he testified:
+Q. At the time the representative claimant elected retirement do you have any idea how many available jobs were offered to him or how many were available at the time?
+A. At that time there were 63 jobs.
+Q. Do you know offhand the range in the hourly rates of those 63 jobs?
+A. Let me see, oh anywhere between 3.510 and 3.886.
+Q. Did those figures include cost of living and/or incentive ?
+A. No.
+Q. So they should be added also ?
+A. Yes, they should be added, yes.
+Q. So just to refresh my recollection, Mr. D’Angelo’s rate was $3.79 at the time he elected retirement?
+A. Yes.
+Q. And these jobs that were available paid between $3.51 and $3,886 without cost of living and incentive ?
+A. Eight.
+Q. Did Mr. D’Angelo elect to take any one of these prof erred jobs?
+A. No, he elected pension.
+Q. Just so we’re clear on the record. I believe the Eeferee asked whether the people were apprised of the available jobs?
+A. Oh, yes, they were apprised.
+Q. So they knew beforehand before they made their choice ?
+A. Oh, yes.
+Q. Did these 63 jobs involve any—what sort of prior training and experience were needed to handle these jobs ?
+A. In the main there was hardly none, hut those people that had a skill if they were a craneman for instance, if they had a special skill, and we had such a joh available why they would be put on the job; if there wasn’t any, why they would have to take whatever job was available for them.
+Q. And you also have a training program?
+A. Yes, we also have a training program so that means we would train the people on the job if they didn’t know it.
+Q. With respect to these 63 jobs did they involve any greater distance of traveling to get to work?
+A. Oh, no.
+Q. They were in the same location?
+A. Same location.
+Q. At this time the claimant had not been unemployed at all, is that correct?
+A. That’s right.
+Q. Going back to Mr. Kutska’s last question, was it your testimony that while these employees were not offered a specific job they were offered a range of jobs—I believe you said 63?
+A. We told them that there would be work for all of these people.
+Two Union representatives attended the referee’s hearing and both cross-examined the company’s representative. Some of that testimony is reproduced:
+Q. When the Union and company agreed that we would have interviews, did we not agree that we would first let the man know that he had a job in the plant?
+A. Right.
+Q. And that if he did not want to accept a job—no specific job, bnt a job—you couldn’t have told where he might have been at that time, then he could then take his phaseout pension?
+A. Right.
+Q. And you’re not able to say certainly that he would have got some of these jobs. You’re not able to say certainly. Oh, yes, he could have.
+A. Oh, yes, he could have. Definitely.
+Finally, the representative claimant testified as follows :
+Q. Mr. D’Angelo, you just testified that you knew some work was available about the time when you decided to retire, right?
+A. It isn’t availability of work. They would have to make room for me, that’s all.
+Q. You would have to bump out somebody younger?
+A. Right, I would have had work.
+Exactly contrary to the Board’s statement, Mr. D’Angelo and the other persons affected by the discontinuance of the rod and wire operations were offered jobs in the plant. There was nothing vague or tenuous about the offer or the jobs. Nor is there anything in the record which justifies the Board’s statement that the positions which were offered were temporary. The jobs offered were regular full-time positions, concerned with the employer’s continuing operations. We can only speculate that the Board may have thought the jobs offered were temporary because Mr. D’Angelo may have been filling a temporary position at the time he was interviewed and offered a regular position by bumping or bidding, or because it became confused by the employer’s argument that the claimant conld have taken one of the jobs offered temporarily until other jobs which- he liked better became available for bidding.
+The Board’s statement that if the claimant had taken a job he would have lost the $105 monthly phase out allowance, is disingenuous. Of course, if the claimant had continued to work he would not have been entitled to 70/80 early retirement of which the $105 supplement is a part. If, however, he had continued to work and thereafter and prior to attaining the age of 65 had again been laid off, he would then have become entitled to the supplement. Further, the Board was either unaware of or ignored the fact that the supplement is available not only to persons voluntarily retiring under the 70/80 early retirement plan, but also to persons suffering from permanent incapacity. The Board’s equation of this pension benefit with the $100 one-time cash offer in Aluminum Company v. Unemployment Compensation Board of Review, 15 Pa. Commonwealth Ct. 78, 324 A.2d 854 (1974), is difficult to understand. We repeat, if Mr. D’Angelo, after having taken a job, had become the victim of a layoff, a shutdown, disability or any other conceivable nonvoluntary loss of his position he would have been entitled to early retirement under the 70/80 plan and received the $105 supplement. •
+Finally, the Board says that the circumstances of this case are strikingly similar to those of Aluminum Company v. Unemployment Compensation Board of Review, supra. It is in our view strikingly dissimilar to that case in every respect. The positions offered in Ahiminum Company were of several weeks to a month’s duration; here they are regular jobs in the mill. The $100 payment offered by Aluminum Company to its employes was not a part of its pension plan and was offered to induce them to retire; the $105 involved in this case with respect to D’Angelo and others entitled to 70/80 retirement derived from the Company’s existing pension agreement, was applicable to at least one other type of separation and was not subject to loss or forfeiture by the claimants’ continuing to work. Other than the apparent fact that Mr. D’Angelo and the others would lose seniority by accepting continued employment, we find no difference between Mr. D’Angelo’s old job in the rod and wire operation and the new ones offered. This single difference was not, in our opinion, so significant as to constitute a necessitous and compelling cause for Mr. D’Angelo’s refusal of Wheeling-Pittsburgh’s offer to place him in a job in all other respects comparable to the work he had. In our view, this case is factually strikingly similar to Unemployment Compensation Board of Review v. W. R. Grace Company, 23 Pa. Commonwealth Ct. 237, 351 A.2d 297 (1976), as the following quotation will show:
+The claimant was a technician for appellant, a position he had held for two years, on August 23, 1974, when his position was affected by a reduction of work force by the appellant. The technician position was classified by the employer as a grade 6 labor position at a pay rate of $4.25 per hour. Claimant was informed of his right to ‘bump’ into a grade 5 position in another department within the Company at the pay rate of $3.85 per hour or a grade 4 position at $3.55 per hour within the same department in which he had been employed. Rather than exercise his option of bumping a lower level labor position, claimant accepted a voluntary layoff.
+It is our determination that the grade 5 labor position constituted suitable work, and its rejection therefore disqualified claimant from unemployment compensation benefits. Both grade 6 and grade 5 positions were of a semi-skilled nature, both were in tbe same industry and, in fact, for tbe same employer at tbe same plant. If tbe claimant bad been unemployed for a long period of time, tbe result in this case would be too obvious for argument. But even without a gap of unemployment between tbe claimant’s last job and tbe offer of work, tbe claimant must be willing to accept some work slightly different from that which be bad been employed to do and at some variance in pay. In tbe case now before us, claimant was offered tbe job next to bis on tbe employer’s grade scale.
+Tbe suitability of work offered must be determined on a case-by-case basis. United States Steel Corporation v. Unemployment Compensation Board of Review, 18 Pa. Commonwealth Ct. 71, 333 A.2d 807 (1975). However, a claimant seeking benefits must have substantial and reasonable grounds to refuse offered employment and still remain eligible for compensation. MacDonald v. Unemployment Compensation Board of Review, 17 Pa. Commonwealth Ct. 494, 333 A.2d 199 (1975); Sparano Unemployment Compensation Case, 193 Pa. Superior Ct. 349, 165 A.2d 131 (1960); Bentz Unemployment Compensation Case, 190 Pa. Superior Ct. 582, 155 A.2d 461 (1959). As we noted in United States Steel Corporation v. Unemployment Compensation Board of Review, 10 Pa. Commonwealth Ct. 295, 300, 310 A.2d 94, 96 (1973), an ‘ individual who is unemployed or about to be laid off may [not] decide for himself whether a position is “suitable” simply because tbe position offered is not to bis liking.’
+23 Pa. Commonwealth Ct. at 238-40, 351 A.2d at 298-99.
+Accordingly, we enter the following
+Order,
+And Now, this 24th day of June, 1977, the order of the Unemployment Compensation Board of Review, dated November 28, 1975, affirming the decision of the referee and awarding benefits is hereby reversed.
+Section 402 of the Unemployment Compensation Law, Act of December 5, 1936, Second Ex. Sess., P.L. (1937) 2897, as amended, 43 P.S. §802(b) (1).
