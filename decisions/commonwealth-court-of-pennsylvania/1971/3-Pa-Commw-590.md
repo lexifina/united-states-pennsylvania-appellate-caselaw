@@ -1,0 +1,29 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 613 C.D. 1971"
+decided: "1971-12-14"
+citations: ["3 Pa. Commw. 590"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Wilkinson, Jr., Mencer and Rogers, sitting as a panel of three."]
+parties: ["Department of Revenue v. Salvatore."]
+source_url: "https://static.case.law/pa-commw/3/cases/0590-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1846615
+---
+
+# Department of Revenue v. Salvatore
+
+## Majority (Judge Wilkinson,)
+
+Opinion by
+Judge Wilkinson,
+This is an appeal by the Commonwealth, Department of Revenue, from a decision of the State Civil Service Commission. Appellee had been dismissed on May 6, 1971, effective May 7, 1971, from his civil service position as Field Auditor III in the Liquid Fuels Tax Bureau of the Department of Revenue. The notice he received on May 6, 1971, gave as the reason, “This termination results from the interpretation of Section 904 of the Civil Service Act, copy attached.” Appellee promptly engaged counsel who notified the Civil Service Commission on May 12, 1971, that he represented appellee and filed an appeal which, on request, appellee confirmed in writing over his own signature.
+On May 21, 1971, the Commission notified all parties that the hearing on the appeal would take place on Thursday, June 3, 1971, at 9:30 a.m., Eastern Daylight Time, in the 18th Floor Conference Room, State Office Building, 1400 Spring Garden Street, Philadelphia, Pennsylvania. The Commonwealth, Department of Revenue, does not deny that it received this notice in timely fashion. Indeed, in response thereto, the hearing was called to order on schedule with the Commonwealth, Department of Revenue, represented by the Assistant Director of Personnel of the Department of Revenue. The only testimony offered by the Commonwealth was the following statement by the Assistant Director of Personnel: “Q. Now, would you just present what you have, Mr. Sciotto? A. In addition to the exhibits that have been entered, the Revenue Department took the position that by interpretation of section 904 of the Civil Service Act Mr. Salvatore was in violation of the act by filing for candidacy in the primary on May 19, 1970, while he was still a regular civil service employee. He resigned May 22, 1970, three days after the primary. By Mr. Coyle: Q. Is that the testimony? Is that the entire testimony? A. That is the basis upon which the dismissal decision was made.”
+On cross-examination it was developed that there was no evidence that appellee had in fact filed for candidacy in the primary. The appellee did not offer any evidence, taking the valid position that no proper case had been presented against him. The representative of the Commonwealth, Department of Revenue, did not ask for a continuance. It is quite apparent from the record that this was not the first instance that the Department of Revenue had failed to appear before the Commission with legal counsel properly prepared. Indeed, the Assistant Director of Personnel testified, on questioning by the Commission, as follows: “Commissioner McCarthy : Mr. Sciotto, doesn’t the department have a lawyer that they can send in on these cases? Mr. Sciotto : Yes, they do. Commissioner McCarthy : Well, when the appellant comes in with a lawyer and the department does not have a lawyer — a lawyer looks over the case beforehand, is able to examine it — this does not belittle your knowledge as a personnel officer — Mr. Sciotto : I understand. Commissioner Jones : He would know what is required. Mr. Sciotto: Mr. McCarthy, after the last hearing the department was advised of the advisability of having counsel. Commissioner McCarthy : Well, I think you ought to tell Mr. Kane, the man who is Secretary of Revenue, that just one individual, the minority commissioner, thinks the department is very derelict in not having counsel. Mr. Sciotto : Yes, sir.”
+On June 22, 1971, 19 days after the hearing was closed, the Commonwealth, Department of Revenue, filed a Petition for Rehearing. On July 16, the parties were served with an Adjudication and Order dated June 17, 1971, by the Civil Service Commission sustaining the appeal and restoring appellee to his position. The Commonwealth, Department of Revenue, was notified that its petition for rehearing was denied, having been filed subsequent to the adjudication, and that the Civil Service Act does not make any provision for re-opening a hearing.
+The strongest case the Commonwealth, Department of Revenue, could make for its position in this appeal is that the Civil Service Commission abused its discretion in failing to grant a rehearing. We do not agree. In fact, a stronger case could be made that it would have been an abuse of discretion, if any there be, after adjudication and order, to grant a rehearing in this case. The representative of the Department of Revenue had testified that as a result of previous admonitions of the Civil Service Commission, the likelihood of this situation arising was specifically brought to the attention of the Department. The only allegation and justification is failure of communication within the Department. This might have been the basis for the Commission responding favorably to a request for a continuance, but is a weak reed indeed on which to rest a request for a rehearing 19 days after the hearing was closed.
+Accordingly, we enter the following
+Obdeb
+Now, December 14, 1971, the appeal of Frank A. Salvatore is sustained and the Department of Revenue is ordered to reinstate appellant to his position as Field Auditor III with full back pay and other emoluments, less any other earnings received by appellant during the period May 8, 1971 and July 14, 1971.
