@@ -1,0 +1,35 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1004 C.D. 1993"
+decided: "1994-05-09"
+citations: ["164 Pa. Commw. 28", "641 A.2d 1275"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CRAIG, President Judge, and KELLEY, J., and DELLA PORTA, Senior Judge."]
+parties: ["Joel E. MURPH a/k/a James Springs, Petitioner, v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, Respondent."]
+source_url: "https://static.case.law/pa-commw/164/cases/0028-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1461168
+cites_cases: ["297 Pa.Superior Ct. 292", "314 A.2d 513", "386 U.S. 738", "455 Pa. 106", "495 Pa. 467", "502 A.2d 758", "93 Pa.Commonwealth Ct. 586"]
+---
+
+# Murph v. Pennsylvania Board of Probation & Parole
+
+## Majority (CRAIG, President Judge.)
+
+CRAIG, President Judge.
+Joel Murph, also known as James Springs, is a convicted parole violator serving his sentence in the State Correctional Institution at Dallas. He has filed a petition for review of a decision of the Pennsylvania Board of Probation and Parole dated August 14, 1991, that denied his request for administrative relief in the form of credit against his sentence for time served. His counsel, A1 Flora, Jr., a first assistant public defender, has filed an Anders brief in this court seeking permission to withdraw his representation in Murph’s case. We grant Flora’s request to withdraw and quash Murph’s appeal here as untimely.
+The facts, as set forth in the briefs and the record, are as follows. The Court of Common Pleas of Montgomery County sentenced Murph on June 7, 1984, to four concurrent terms of one-to-five years imprisonment, beginning on March 1, 1984. Also, at bill 1069.4-84, the trial court sentenced Murph for possession of a weapon on school grounds to two years of county probation that will be served when he is paroled. On April 24, 1985, the board released Murph to participate in an in-patient drug treatment facility. He remained there for five months and seven days.
+On February 16, 1990, the sentencing court ordered that Murph receive credit against his sentence for the time he spent in drug treatment. The trial court wrote the following:
+Defendant’s Petition for Credit for Imprisonment While in Custody Prior to Sentence and defendant’s Petition for Credit for Time Served are GRANTED in part and defendant is granted credit for time served on bill 1069.4-84 for the period of his treatment at Genesis II from April 24,1985 through October 1, 1985, a period of five (5) months and seven (7) days.
+In July of 1991, Murph filed a petition for administrative relief asking to receive the credit to his sentence awarded by the trial court. The board denied his request on August 14, 1991, stating that the trial court lacked jurisdiction to modify Murph’s sentence. Then, on April 8, 1993, Murph filed a pro se petition for a writ of Habeas Corpus in this court which we have treated as a petition for review. Now, Murph’s appointed counsel, Flora, has asked this court for permission to withdraw from representing Murph based on an unavoidable conclusion that Murph’s petition is wholly frivolous and without merit.
+This court set forth the requirements for allowing appointed counsel to withdraw from probation and parole proceedings in Craig v. Pennsylvania Board of Probation and Parole, 93 Pa.Commonwealth Ct. 586, 502 A.2d 758 (1985). In that case this court held that our standard of review requires us “to make a full examination of the proceedings and make an independent judgment to decide whether the appeal is in fact wholly frivolous.” Id. at 593, 502 A.2d at 761 (citing Anders v. California, 386 U.S. 738, 87 S.Ct. 1396, 18 L.Ed.2d 493 (1967) and Commonwealth v. McClendon, 495 Pa. 467, 434 A.2d 1185 (1981)). In addition, the Pennsylvania Supreme Court has held that “wholly frivolous” means a complete lack of points present that might arguably support an appeal. Commonwealth v. Greer, 455 Pa. 106, 108, 314 A.2d 513, 514 (1974).
+In this case, Flora acknowledges that the trial court did not have jurisdiction to modify Murph’s sentence in 1990, more than six years after the June 1984 sentencing. In addition, counsel must note that Murph filed his pro se petition for review approximately one year and eight months after the board’s August 1991 decision rejecting his request for relief.
+We agree with counsel that Murph has no basis upon which he can appeal the board’s 1991 decision. Under Pa.R.Crim.P. 1410, “[a] motion to modify sentence shall be in writing and shall be filed with the sentencing court within ten (10) days after imposition of a sentence.” Because the trial court here attempted to modify Murph’s sentence under bill 1069.4-84, more than six years after the 1984 sentencing, we agree with the board that the trial court did not have jurisdiction to modify Murph’s sentence, Commonwealth v. Canady, 297 Pa.Superior Ct. 292, 443 A.2d 843 (1982).
+Furthermore, appeals from the board’s decisions are required by Pa.R.A.P. 1512(a) to be filed within 30 days after the entry of the order in question. Because the board filed its decision in August of 1991, and Murph filed his appeal in April of 1993, one year and eight months later, Murph waived his right to appeal the board’s decision by missing the deadline.
+In addition, our review of the record does not suggest any reason for Murph’s delay in appealing. Nor does Murph provide any explanation for his delay. Thus, we also agree that Murph waived his right to appeal the board’s decision by failing to appeal within 30 days of the 1991 decision.
+Accordingly, because we conclude that Murph’s appeal is wholly frivolous, we grant Flora’s request to withdraw from Murph’s case, and we quash Murph’s appeal here as untimely.
+ORDER
+NOW, May 9, 1994, we grant Flora’s request to withdraw from representing the petitioner Joel Murph in this case docketed at 1004 C.D. 1993, and we quash Joel Murph’s appeal as untimely.
+. This rule has been rescinded for all cases in which the determination of guilt occurs after January 1, 1994. However, this case does not fall within that category.
