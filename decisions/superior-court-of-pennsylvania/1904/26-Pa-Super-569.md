@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 126"
+decided: "1904-11-21"
+citations: ["26 Pa. Super. 569"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, Smith, Porter and Morrison, JJ."]
+parties: ["Commonwealth v. Fetterman, Appellant."]
+source_url: "https://static.case.law/pa-super/26/cases/0569-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 853824
+cites_cases: ["101 Pa. 192", "25 Pa. 11", "7 Pa. 371", "8 Pa. 223"]
+---
+
+# Commonwealth v. Fetterman
+
+## Majority (Smith, J.,)
+
+Opinion by
+Smith, J.,
+In prescribing the punishment, on conviction of crime, in the oyer and terminer and quarter sessions, our penal statutes direct, in some cases, simple “ imprisonment,” and in others, “separate or solitary confinement at labor.” The distinction between these penalties should receive careful attention in passing sentence.
+As to the place of confinement, in some instances the county jail is specifically fixed by the statute prescribing the punishment ; in others, the penitentiary, or the state prison. As a general direction, section 74 of the code of penal procedure of March 31,1860, P. L. 427, provides that, “ Whenever any person shall be sentenced to imprisonment at labor by separate or solitary confinement, for any period not less than one year, the imprisonment and labor shall be had and performed in the State penitentiary for the proper district; Provided, That nothing in this section contained shall prevent such person from being sentenced to imprisonment at labor by .separate or solitary confinement, in the county prisons now or hereafter authorized by law to receive convicts of a like description.” And section 75 of the same act provides that “ No person shall be sentenced to imprisonment at labor, by separate or solitary confinement, for a period of time less than one year, except in the counties where, in the opinion of the court pronouncing the sentence, suitable prisons have been erected for such confinement and labor; and all persons sentenced to simple imprisonment for any period of time shall be confined in the county jail where the conviction shall take place; Provided, That in the counties where suitable prisons for separate or solitary confinement at labor do not exist, and the sentence shall be for less than one year, simple imprisonment shall be substituted in all eases for the separate or solitary confinement at labor required by the act to consolidate, revise and amend the penal laws of this commonwealth.” Summarizing the sections quoted, which govern the question here, when the penalty is simple imprisonment, for whatever period, the place of confinement is tlie county jail. When the penalty is imprisonment at labor, by separate or solitary confinement, and tlie sentence is for one year or more, the place is either the penitentiary or a suitable county prison; when the sentence is for less than a year, the place is a suitable county prison, or, in the absence of such prison, simple imprisonment in the county jail is to be substituted. Thus “ imprisonment ” or “ simple imprisonment ” means confinement in the county jail; “ imprisonment at labor, by separate or solitary confinement ” means imprisonment in the penitentiary or in a suitable county prison.
+Section 111 of the penal code of 1860, P. L. 382, under which the appellant was convicted, prescribes, as the penalty, a fine not exceeding $500 and an imprisonment not exceeding three years. Therefore the punishment is simple imprisonment, and the legal place of confinement is the county jail. The appellant, however, was sentenced toa fine, and “ an imprisonment in the eastern penitentiary, at separate or solitary confinement at labor, for a period of one year and six months.”
+Penal statutes are to be strictly construed, and upon a conviction tire sentence must be that which the statute prescribes. A sentence to a different penalty, especially a more severe one, is erroneous. Separate or solitary confinement at labor, in the penitentiary, is not only different in character from imprisonment in the county jail, but is a more severe punishment. Hence the sentence was erroneous, both in the character of the imprisonment and the place of confinement. The error may be corrected here by reversing the judgment and remitting the record for a sentence in conformity with the statute ; or this court may modify the judgment by passing the sentence which the court below should have passed: Beale v. Com., 25 Pa. 11; Pittsburg, etc., Railway Company v. Com., 101 Pa. 192; Clellans v. Com., 8 Pa. 223. In the case last cited, the Supreme Court reversed the judgment and discharged the prisoners, saying : “ As the prisoners have been confined in the eastern penitentiary about three fourths of a year, we deem this as severe a punishment as if they had been confined in the county jail, where they legitimately should have been sent, for two years.” Here the prisoner has been confined in the penitentiary about eleven months, on a sentence of a year and a half. By the test indicated in Clellans v. Com., this is more than equivalent in severity to imprisonment in the county jail for two years, and we regard it as a fully adequate punishment for the offense.
+The judgment is reversed, and it is ordered that the prisoner be discharged.
