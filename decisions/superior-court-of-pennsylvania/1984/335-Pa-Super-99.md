@@ -1,0 +1,62 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "03187"
+decided: "1984-11-02"
+citations: ["335 Pa. Super. 99", "483 A.2d 974"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WIEAND, OLSZEWSKI and POPOVICH, JJ."]
+parties: ["COMMONWEALTH of Pennsylvania v. Thomas K. THOMAS, Appellant."]
+source_url: "https://static.case.law/pa-super/335/cases/0099-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 620721
+cites_cases: ["226 Pa.Super. 203", "233 Pa.Super. 77", "233 Pa.Superior Ct. 82", "268 Pa.Super. 142", "275 Pa.Super. 373", "300 Pa.Super. 510", "304 Pa.Super. 494", "310 Pa.Super. 339", "312 Pa.Super. 379", "313 A.2d 342", "314 Pa.Super. 311", "333 Pa.Super. 42", "334 A.2d 722", "479 Pa. 209"]
+---
+
+# Commonwealth v. Thomas
+
+## Majority (POPOVICH, Judge:)
+
+POPOVICH, Judge:
+This is an appeal by appellant, Thomas K. Thomas, from a judgment of sentence of 10 to 20 years’ imprisonment entered following a plea of nolo contendere to rape. This is the maximum sentence permitted by 18 Pa.C.S.A. § 3121, 18 Pa.C.S.A. § 1103.
+Appellant was charged with kidnapping, rape and related crimes arising from an incident which took place on July 1, 1983. On that day, the victim, responding to a request from one of appellant’s friends, agreed to give appellant a ride. He subsequently abducted and raped her in a wooded area on the Appalachia Trail in Monroe County in the presence of her 10-week old son. He then bound, gagged and blindfolded her and left her lying naked at this distant outpost. After appellant, departed, the victim, still bound, was forced to leave her son and walk a distance of approximately five miles before she was able to secure help.
+On September 14, 1983, appellant entered his pleas of nolo contendere to the charges of rape and kidnapping. On October 31, 1983, he was sentenced to a term of five to ten years’ incarceration on the kidnapping charge to be served consecutively with the sentence which is the subject of this appeal. This appeal follows denial, after a hearing, of appellant’s motion for reconsideration. We affirm.
+Appellant herein raises three issues for our consideration. First, he argues that the lower court erred in imposing a sentence in excess of the aggravated minimum range of the Pennsylvania Sentencing Guidelines.
+It is true that the lower court imposed a sentence in excess of the minimum aggravated range for an offense with a gravity offense score of “9”; however, the court provided its reasons for so doing. 204 Pa.Code 303.1(h), 42 Pa.C.S.A. § 9721 et seq., effective July 22, 1982, provides
+In every case where the court imposes a sentence outside the sentencing guidelines, the court shall provide a contemporaneous written statement of the reason or reasons for the deviation from this chapter.
+The court listed the following reasons in the departure report:
+The facts of this case show that the Defendant acted in an extremely brutal and calculating fashion in raping the victim in that:
+1. The Defendant committed this act against a woman who had gone out of her way to befriend him;
+2. The Defendant forced the woman into submission by exercising threats of physical violence against her ten-week-old child;
+3. After committing the rape, Defendant jbound [sic] and gagged the victim while she was completely naked and left her in that condition in a remote part of the county as to virtually insure that she would not be found, thereby imperiling her life and the life of her ten-week-old child;
+4. The victim, after she was fortunate enough to extricate the bindings from her feet, walked five miles through the woods, bound and gagged, before she was able to obtain assistance. During that time, the ten-week-old child was left in the woods because the victim was unable to extricate her hands from the bindings to take the child with her;
+5. Defendant, in 1982, assaulted another woman with her young child in the Borough of Stroudsburg. Although the assault was foiled by a passer-by, the circumstances bear a degree of similarity to this case;
+6. The Defendant has shown no remorse for his actions; and
+7. The Defendant appears to have a violent nature.
+Adequate reasons for the departure were supplied, and we hold that the lower court was justified in so sentencing appellant. Commonwealth v. Gunderman, 268 Pa.Super. 142, 407 A.2d 870 (1979). A more heinous and appalling crime would be difficult to imagine; only through fortuitous circumstances were the victim and her baby spared their lives.
+Moreover, the sentencing court extensively and completely recorded its reasons for the imposition of sentence. Commonwealth v. Mead, 300 Pa.Super. 510, 446 A.2d 971 (1982). The judge’s statement, read as a whole, disclosed that proper weight was accorded to the particular circumstances of the offense and the character of the defendant. Commonwealth v. Gunderman, supra. The sentencing judge fulfilled his responsibilities under the Code. Commonwealth v. Doyle, 275 Pa.Super. 373, 418 A.2d 1336 (1981).
+Appellant next contends that' the sentencing judge’s statement of reasons for departure from the aggravated minimum was insufficient in that it failed to explain why a sentence within the aggravated minimum was not sufficient. By so setting forth reasons justifying departure, the Court was, in effect, attempting to elucidate its rationale therefor. For the reasons stated therein and for the reasons set forth at sentencing, the trial judge was implicitly stating why the aggravated minimum was insufficient. The imposition of a proper sentence under the Sentencing Code is a matter vested in the sound discretion of the trial court, whose determination must be respected unless it is an abuse of discretion. Commonwealth v. Knight, 479 Pa. 209, 212-213, 387 A.2d 1297, 1299 (1978). We find no abuse of discretion.
+Finally, appellant contends that the lower court considered as a prior conviction an offense to which the defendant pled guilty but for which he had not yet been sentenced.
+Appellant argues herein that the sentencing court improperly considered a prior conviction for which he had not yet been sentenced but to which he had pled guilty. This claim is meritless.
+In reviewing the imposition of sentence, this court should ordinarily defer to the trial court which was better able to weigh the various considerations and should not replace the trial court’s judgment with its own unless the sentence demonstrates that the sentencing court clearly abused its discretion. Commonwealth v. Long, 310 Pa.Super. 339, 456 A.2d 641 (1983), Commonwealth v. Brown, 314 Pa.Super. 311, 460 A.2d 1155 (1983).
+Although the Sentencing Guidelines do not permit consideration of a conviction for which sentence has not been imposed in computing a previous record score, such a consideration is proper as it relates to a defendant’s character.
+For scoring purposes, a “prior conviction” is defined as a case in which a verdict of guilty has been entered in the record and sentence has been imposed for an offense which occurred prior to the date of the current offense, notwithstanding any appeal taken on the prior offense.
+204 Pa.Code. § 303.7(g), 42 Pa.C.S.A. § 9721 et seq., effective July 22, 1982. (Emphasis added)
+At the Sentencing Hearing, the lower court Judge observed
+THE COURT: You have a history of violent conduct and I realize that the sentencing guidelines as far as they are concerned, are such that we can’t attribute a prior record score to you. But, the guidelines are only guidelines, they are not hard and mandatory requirements that we must follow with the circumstances deemed proper. But, I think there is one thread that comes through this and that is that you apparently are a violent person. We checked out the action in Northhampton County and my recollection is that this took place back in ’78 and you still haven’t been sentenced on those charges. However, the effect of the charge was that you beat a college student with a tire iron and broke his arms and legs.
+(Sidebar discussion off record between the Court, Counsel and the Probation Officer.)
+THE COURT: I have got you confused with someone else. You beat up a college student, but you didn’t use a tire iron. Now, there was another offense to my recollection in East Stroudsburg where you had another woman and a young child with you, apparently, attempted to attack her by pretending you had a gun and pointed it in her back for which the charges were ultimately reduced and you pled to Simple Assault. Apparently, the episode was broken up before any harm came to those people. (Sentencing Transcript 8, 9)
+At the hearing on the motion for reconsideration, the Judge exposed his reasoning in response to defense counsel’s questioning.
+MR. ZULICK: I didn’t have a transcript at the time I prepared this motion, Your Honor. I knew that it had been raised and I also knew that the Court didn’t consider it in computing the prior record score, but I wasn’t clear on whether or not the Court had considered it as a prior conviction generally in determining what the sentencing case should be.
+THE COURT: Well, the only consideration that I think we can give to it is that it shows that Mr. Thomas is prone to violent conduct. The specifics of the offense were taken into consideration, itself a conviction, for the purpose of showing that he had been involved in violent conduct. It is like reputation evidence or character evidence and that is his history, he can’t do anything about that. That is the way it is and the effect of it, of course, is nothing we can consider, but at least it shows if he was a law-abiding person or peaceable person. That would have some play in it, but in this instance, he isn’t in that respect.
+MR. ZULICK: My argument is that since the guidelines say that a prior conviction includes a case where there is no sentence rendered, that it shouldn’t be considered at all in the sentencing process.
+THE COURT: Well, only for the limited purpose that it shows that he is not a peaceable person and in that respect, we had to take account of it, I think, and we didn’t consider it any further than that and it wasn’t used in the computation of the prior record score and I think we would be remiss not to at least take note of that. (Reconsideration Hearing Transcript 8, 9)
+“It has been held that a court in imposing sentence may consider prior arrests ... as long as the court realizes that the defendant had not been convicted on those prior charges.” Commonwealth v. Craft, 304 Pa.Super. 494, 500, 450 A.2d 1021, 1024 (1982).
+Moreover, in Commonwealth v. Tisdale, 233 Pa.Super. 77, 334 A.2d 722 (1975), this court noted
+In [Com. v.] Shoemaker (226 Pa.Super. 203, 313 A.2d 342 (1973)) our court held that a sentencing court could consider as “prior criminal record” the arrests of defendant, whatever the outcome, that took place prior to the day of sentencing. However, the Court cautioned sentencing judges that a reference to an arrest may not be ambiguous, i.e. it may not be mistaken for a conviction. Therefore, our court placed upon the sentencing judge the requisite of using sound judgment in making use of the reference.
+Commonwealth v. Tisdale, 233 Pa.Superior Ct. 82, 334 A.2d at 724. See also Commonwealth v. Harold William Johnson, 333 Pa.Super. 42, 481 A.2d 1212 (1984), Commonwealth v. Bryant, 312 Pa.Super. 379, 458 A.2d 1010 (1983). Certainly, the relevancy of a prior conviction is far greater than that of a mere arrest since a defendant could conceivably be exonerated thereafter.
+The most important prerequisite to consideration of any past acts of a defendant has been satisfied here, i.e., that the judge fully understood the status and disposition of charges brought against a defendant so as not to confuse a conviction with an arrest or a judgment of sentence imposed with a conviction. This prerequisite is satisfied to the fullest extent possible where the sentencing judge interposes on the record his understanding of the current status of such charges.
+Accordingly, we affirm the judgment of sentence.
+. A motion for reconsideration appears to have been untimely filed; however, the Commonwealth concedes that said motion was presented within ten days of sentencing.
+. A prior record score of “1” is listed on the aforementioned guideline report; however, this error was corrected at sentencing. (Sentencing Transcript 2, 3)
