@@ -1,0 +1,24 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 313"
+decided: "1917-07-13"
+citations: ["67 Pa. Super. 301"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Henderson, Head, Kephart, Trexler and Williams, JJ."]
+parties: ["Pottsville Union Traction Co., Appellant, v. Public Service Commission (Moyer’s Application)."]
+source_url: "https://static.case.law/pa-super/67/cases/0301-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 629173
+cites_cases: ["177 Pa. 643", "4 P. C. R. 359", "63 Pa. Superior Ct. 1"]
+---
+
+# Pottsville Union Traction Co. v. Public Service Commission
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+Walter L. Moyer presented his petition to the Public Service Commission for the allowance of a certificate of public convenience for the running of one twenty-passenger auto-bus and an additional twenty-six-passenger auto-bus. The application was opposed by the Pottsville Union Traction Company on the ground that its approval was not necessary or proper for the service, accommodation, convenience or safety of the public. Appellant contends that the service furnished by .the electric railway company now operating is adequate and affords sufficient transportation facilities between the points named in the application and that the operation of the auto-busses will curtail the operation of the electric railway line and reduce its receipts. The trolley line extends from ..Centre street, Pottsville, through Mount Carbon and North Manheim Township to Schuylkill Haven mostly over private right of way. The route of the auto-bus is between the termini above named and the highway used practically parallels the trolley line. There was testimony that at rush times the street cars were overcrowded, that not sufficient seats were provided to accommodate the passengers and they were compelled to stand on both platforms for a long distance. It did not appear in the testimony that the running of one auto-bus and an occasional extra one would seriously affect the finances of the trolley company. There was testimony to the effect that the auto rendered service to persons not reached by the trolley. Some experts called stated that generally auto service is not reliable. There was a numerously signed petition by citizens of the vicinity in favor of the bus line. The theory of the appellant is that as it is reasonably supplying the means of transportation between the points named that no other company or individual should be allowed to interfere or be permitted to enter into competition with it. We cannot hold the Public Service Commission to the rigid rule that if there be one carrier supplying service between certain points, and that service is ordinarily adequate, that it is obliged invariably to refuse a certificate to other applicants including those using other methods of carriage. Where a steam car line occupies a certain route and furnishes adéquate service, we can readily conceive of situations where a paralleling trolley company should also be allowed to serve the public although it may take a part of the patronage from the steam road. The fact that light is already served to a town by a gas company would not of necessity prevent an electric light company from obtaining a certificate to enter such a place. From the testimony before us, it can fairly be taken that some persons prefer auto-bus service to trolley and that others by: reason of its freedom of motion are better served by the former than the latter and that the busses to some degree at least relieve the congestion at “rush”, hours. As stated before we cannot establish a rigid standard for these cases. In some cases no doubt a refusal to allow auto-bus competition is proper depending upon existing conditions. Some leeway must be allowed to the commission for the exercise of the discretion which the legislature has put in its hands and each case must be decided on its particular facts. The primary object of the public service laws is not to establish a monopoly or to guarantee the security of investment in public service corporations but first and at all times in the just exercise of its powers to serve the interests of the public. Unrestricted competition is ordinarily to be avoided not because in the first place it injures the corporation against which it is directed but that ultimately the usual experience of man tells us that the losses ensuing are visited upon the public. So after all the question remains,, is it for the public interest considered as to “service, accommodation, convenience or safety” that these two auto-busses should be allowed to run? We cannot say that the Public Service Commission has abused its discretion in deciding the question in the affirmative.
+The order is affirmed. Appellant for costs.
