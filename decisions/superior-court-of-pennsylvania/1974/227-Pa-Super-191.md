@@ -1,0 +1,41 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 916"
+decided: "1974-04-03"
+citations: ["227 Pa. Super. 191"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. J., Watkins, Jacobs, Hoffman, Spaulding, Cercone, and Spaeth, JJ.", "Before Mirarchi, Jr., J., without a jury.", "Hoffman, J., joins in this dissenting opinion."]
+parties: ["Commonwealth v. Valle, Appellant."]
+source_url: "https://static.case.law/pa-super/227/cases/0191-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 809454
+cites_cases: ["156 Pa. Superior Ct. 329", "167 Pa. Superior Ct. 642", "186 A. 2d 632", "199 Pa. Superior Ct. 631", "237 A. 2d 192", "40 A. 2d 112", "426 F. 2d 233", "428 Pa. 281", "453 S.W. 2d 600", "76 A. 2d 483"]
+---
+
+# Commonwealth v. Valle
+
+## Majority (Watkins, P. J.,)
+
+Opinion by
+Watkins, P. J.,
+This is an appeal from the judgment of sentence of the Court of Common Pleas of Philadelphia County by the defendant-appellant, Martin Valle, after conviction by the court below, sitting without a jury, for a violation of the Uniform Firearms Act.
+The contention of the appellant is that the evidence was not sufficient to establish his guilt beyond a reasonable doubt of the violation of the Uniform Firearms Act, June 24, 1939, P. L. 872, §628, as amended, 18 P.S. §4628(e). The pertinent part of the Act here involved reads: “(e) No person shall carry a firearm in any vehicle . . . without a license therefor. . .
+The evidence viewed in the light most favorable to the Commonwealth clearly established that the appellant was in possession of the car. The evidence indicates that he was the sole occupant of the car and was seated behind the wheel of the car. He lied to the officer about ownership. When the officer asked him to step from the car, the appellant was able to shut off the motor with the key. As the driver, the appellant was in control and possession of the vehicle including the trunk and as the case in the trunk was unlocked, it is reasonable to infer that he had knowledge of its contents, the weapons, consisting of a loaded .38 revolver and a loaded sawed-off shotgun. Prior to the arrival of the police, the plant foreman had testified that the appellant and two other men had entered the Adams Eug Cleaning Plant after 5 p.m. As he was locking the doors and as the men turned to leave, the foreman noticed a bulge beneath the appellant’s shirt. As the result of this information, the officer pulled the rear seat of the car out and retrieved an unlocked attache case from the trunk. Commonwealth v. Festa, 156 Pa. Superior Ct. 329, 338, 40 A. 2d 112 (1944). See also, Gaylor v. U. S. 426 F. 2d 233 (9th Cir. 1970). The fact that his co-defendant had the key to the case in the trunk of tlie car is immaterial as the case was unlocked and clearly in control of the appellant who was in sole possession and control of the vehicle and the trunk.
+The appellant also contends that the search was unlawful. However, he failed to litigate a motion to suppress and thus, waived his right to raise this issue on appeal. Rule 323(b), Pa. R. Crim. P.
+Judgment of sentence affirmed.
+
+## Dissent (Spaeth, J.:)
+
+Dissenting Opinion by
+Spaeth, J.:
+Appellant was convicted by a judge sitting without a jury of violating Section 628 of the Uniform Firearms Act, Act of June 24, 1936, P. L. 872, as amended by Act of August 18, 1963, P. L. 660, No. 346, §1, 18 P.S. §4628(e), now 18 Pa.S. §6106(a) (1973), which provides: “No person shall carry a firearm in any vehicle or concealed on or about his person . . . without a license therefor. . . .” Appellant claims that the evidence was insufficient. There is merit to his claim.
+About 5:00 p.m. on June 14, 1973, a number of Philadelphia police cars responding to a radio call proceeded to 2843 Emerald Street. Parked in front was a Pontiac with its engine running. Appellant was seated behind the steering wheel. Two men (one of whom was tried with appellant) were apprehended on the sidewalk about twenty to twenty-five feet away from the car. Appellant was told to step out of the car and to shut off the engine, which he did. When asked who owned the car, appellant said it was his. The driver’s license and owner’s card that he handed an officer indicated, however, that the car belonged to another. As a result of information received from citizens who had gathered about, a police officer pulled up the rear seat of the car. An attache case was retrieved from the trunk. The case was not locked. Inside were a .38 caliber pistol and a 12-gauge sawed-off shotgun, both of which were loaded. The key to the attache case was found in the pocket of appellant’s co-defendant.
+Since appellant and his co-defendant were both occupants of the car, to obtain appellant’s conviction the Commonwealth had to prove the elements of joint constructive possession, i.e., that appellant had (1) the power of control over the weapons and (2) an intent to exercise that control. Commonwealth v. Townsend, 428 Pa. 281, 284, 237 A. 2d 192, 194 (1968); Commonwealth v. Thurman, 167 Pa. Superior Ct. 642, 645, 76 A. 2d 483, 484 (1950). See also Comment, Possession of Narcotics in Pennsylvania: “Joint Possession” 76 Dick L. Eev. 499 (1972). One has power of control over a weapon if it is located “in such proximity ... as to be convenient of access and within immediate physical reach.” Collier v. Commonwealth, 453 S.W. 2d 600, 601 (Ky. 1970). Knowledge of the presence of a weapon is “a necessary predicate to a finding of intention to exercise control.” Commonwealth v. Townsend, supra at 285, 237 A. 2d at 194. Knowledge “need not be proven by [the defendant’s] admission of such knowledge, or by testimony . . . that he saw [the weajions]. The defendant’s knowledge of the presence of these articles may be inferred from all the surrounding circumstances.” Commonwealth v. Whitman, 199 Pa. Superior Ct. 631, 634, 186 A. 2d 632, 633 (1962).
+We must examine the evidence in the light most favorable to the Commonwealth. Doing so, we might infer that appellant had control of the weapons inasmuch as he was the driver and so had the keys to the car and access to the trunk. It cannot be inferred, however, that appellant knew that the weapons were in the attache case in the trunk. The weapons were not visible, nor were they accessible from the driver’s seat. Appellant’s false statement that he owned the car is not significant; it is in no way related to the weapons. The fact that the car did not belong to appellant is against an inference that he knew about the weapons, as is the fact that the key to the attache case was found in the possession of the co-defendant.
+The Commonwealth has cited Commonwealth v. Festa, 156 Pa. Superior Ct. 329, 40 A. 2d 112 (1944), where this court stated that to make out the offense of carrying a firearm without a license “[t]he Commonwealth need not prove more than the presence of the firearm in the car while accused was inside.” Id. at 338, 40 A. 2d at 116. This statement, however, must not be taken out of context. Festa did not proceed on a theory of joint constructive possession. The defendant was the sole possessor and occupant of the car. The weapon — a revolver- — was in the glove compartment and so accessible to the defendant; indeed, he admitted that he knew it had been in the compartment for the past three months. The statement that it was enough to show “presence of the firearm in the car while accused was inside” was made in response to the argument that the Commonwealth had not proved that the defendant had been “carrying” the revolver.
+Since at best only one of the two elements of joint constructive possession was proved, appellant’s conviction should be revei’sed.
+Hoffman, J., joins in this dissenting opinion.
+Appellant was also charged with carrying a concealed deadly weapon and burglary. He was found not guilty of carrying a concealed deadly weapon. A demurrer was sustained to the charge of burglary.
+In Ms brief, appellant argues that this constituted an illegal search and seizure. However, appellant may not present this argument now, since his pre-trial motion to suppress was withdrawn. Pa. R. Crim. P. 323(b).
