@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeals Nos. 68 T.D. 1987 and 69 T.D. 1987"
+decided: "1988-05-20"
+citations: ["116 Pa. Commw. 254", "541 A.2d 443"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail and Colins, and Senior Judge Kalish, sitting as a panel of three."]
+parties: ["Thomas E. Larrimer, Appellant v. Commonwealth of Pennsylvania, Appellee. William S. Larrimer, Appellant v. Commonwealth of Pennsylvania, Appellee."]
+source_url: "https://static.case.law/pa-commw/116/cases/0254-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1372468
+cites_cases: ["472 Pa. 259"]
+---
+
+# Larrimer v. Commonwealth
+
+## Majority (Judge MacPhail,)
+
+Opinion by
+Judge MacPhail,
+Petitioners appeal from the denial of their motion in arrest of judgment following their conviction for two violations of the Fish and Boat Code (Code), 30 Pa. C. S. §§101—7314. William S. Larrimer was convicted of violating Section 5123(a)(5) of the Code, 30 Pa. C. S. §5123(a)(5), relating to equipment requirements for boats, and Thomas E. Larrimer was convicted of violating Section 2102(b) of the Code, 30 Pa. C. S. §2102(b), relating to the number of devices and fishing tackle allowed. Both violations were summary offenses. Each Petitioner was fined $25.00 and the costs of prosecution. We will affirm the judgment of sentence.
+It appears that Petitioners and a female companion were fishing in a 16-foot open aluminum boat on Lake Erie when three patrol officers of the Pennsylvania Fish Commission pulled alongside for a routine boat check. As a result of their observations and conversation with the occupants of the boat, the patrolmen issued a citation to William Larrimer for failure to have visual flares on board and issued a citation to Thomas Larrimer for having three fishing rods in use when the limit is two. The patrolmen also confiscated the fishing rods.
+Petitioners were afforded a hearing before a District Justice where they were found guilty. Petitioners then appealed to the Court of Common Pleas of Erie County. After a non-jury trial, the Petitioners were again found guilty, and judgment of sentence was entered. As we have noted, Petitioners’ post-trial motion was denied. Petitioners’ application for reconsideration of that order was also denied. The appeal to this Court followed.
+At the non-jury trial, after the witnesses for the prosecution testified and the Commonwealth rested, counsel for the Petitioners orally moved to suppress the testimony and evidence presented by the Commonwealth on the ground of illegal search and seizure. The trial judge denied the motion because no pre-trial motion for suppression was filed and because he was of the opinion that the search and seizure was not illegal. The Petitioners presented no evidence.
+In Petitioners’ motion in arrest of judgment, a constitutional challenge is made to many of the provisions of the Code and the regulations adopted by the Fish Commission. In particular, Petitioners contend that the statutory provisions authorizing random routine checks of boats by waterways patrolmen, the confiscation of fishing equipment and the authority given to waterways patrolmen to ascertain whether one about to be charged will plead guilty and pay a fine to the arresting officer or plead not guilty and be cited, are violative of their constitutional rights.
+The trial judge, in his opinion in support of his order denying post-trial relief, again noted Petitioners’ failure to file a pre-trial motion to suppress, as required by Pa. R. Crim. P. 323, was a bar to the relief requested after the prosecution had rested. He also held that Petitioners’ constitutional challenges were barred because their post-trial motion did not conform with the provisions of Pa. R. Crim. P. 1123(a).
+In the comment to Pa. R. Crim. P. 86, it is stated that the Rules of Criminal Procedure are applicable generally to appeals from judgments in summary proceedings. Pa. R. Crim. P 323(b) provides that:
+Unless the opportunity did not previously exist, or the interests of justice otherwise require, such motion [to suppress evidence] shall be made only after a case has been returned to court and shall be contained in the omnibus pretrial motion set forth in Rule 306. If timely motion is not made hereunder, the issue of suppression of such evidence shall be deemed to be waived.
+In the matter now before us, it is quite clear that Petitioners did not file an omnibus pretrial motion. Petitioners argue that they had no opportunity to file a motion to suppress until after they heard the testimony at the trial. The Commonwealth points out that there was a hearing before the District Justice and that Petitioners should have been aware at that point in time, which of course was pretrial, of the testimony to be offered at trial.
+We agree with the trial judge that Pa. R. Crim. P. 323(b) is fully applicable to this case and that Petitioners had the opportunity and hence the duty, to file a pretrial motion to suppress. See Commonwealth v. Hubbard, 472 Pa. 259, 372 A.2d 687 (1977). In addition, we note that Pa. R. Crim. P. 323(d) provides that a motion to suppress shall state specifically and with particularity the evidence sought to be suppressed, the grounds for suppression and the facts and events in support thereof. Here, Petitioners’ counsel moved to suppress “the testimony and evidence.” Record (R.) at 36, Reproduced Record (R.R.) at 42a. When the trial judge inquired of the basis for the motion, counsel’s reply was, “Unreasonable search and seizure.” R. at 36, R.R. at 42a. The trial judge inquired of counsel’s position apart from illegal search and seizure and counsel replied: “I do not wish to make an issue of the facts, your Honor. I’m resting the case on the issue of search and seizure.” R. at 37, R.R. at 43a. These generalities hardly comply with the particularity and specificity required by Pa. R. Crim. P. 323(d).
+We will affirm the trial courts decision that by reason of Petitioners’ failure to timely file a suppression motion, the matter of the suppression of the Commonwealth’s testimony and evidence has been waived.
+Apart from the motion to suppress on the basis of illegal search and seizure, Petitioners made no other objection at trial to the Commonwealth’s evidence. As we have noted, the constitutional challenges to provisions of the Code and regulations were not made until the motion in arrest of judgment was filed. Having informed the trial court at trial that their sole basis for objection to the Commonwealth’s evidence was the illegal search and seizure, Petitioners cannot later assert other defenses as well. Pa. R. Crim. P. 1123(a) provides that only those grounds may be considered in post-verdict motions which were raised in pre-trial proceedings or at trial unless the trial judge, on cause shown, allows otherwise. No such allowance appears here, of course. Since nothing was preserved for review except the suppression issue, we need not rule on Petitioners’ constitutional challenges to the Code and regulations.
+After reviewing the record, we are well satisfied that the Commonwealth’s evidence was sufficient to prove Petitioners’ guilt beyond a reasonable doubt and that the trial judge properly denied Petitioners’ motion in arrest of judgment.
+Order
+The order of the Court of Common Pleas of Erie County denying Petitioners’ motion in arrest of judgment is affirmed.
