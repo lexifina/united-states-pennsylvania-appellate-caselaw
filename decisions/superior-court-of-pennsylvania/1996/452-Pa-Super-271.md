@@ -1,0 +1,37 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "1136"
+decided: "1996-08-14"
+citations: ["452 Pa. Super. 271", "681 A.2d 813"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DEL SOLE, HUDOCK and BROSKY, JJ."]
+parties: ["Darlene S. WEINZETL v. Richard M. WEINZETL, Appellant."]
+source_url: "https://static.case.law/pa-super/452/cases/0271-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 769259
+cites_cases: ["386 Pa.Super. 289"]
+---
+
+# Weinzetl v. Weinzetl
+
+## Majority (DEL SOLE, Judge:)
+
+DEL SOLE, Judge:
+This matter comes before us as a result of a request filed by Appellee/wife seeking to have the court determine the value of Appellant/husband’s pension and its manner of distribution. Because of the procedural irregularities found in this case, this court does not have an opportunity to review the ultimate issue concerning the pension.
+The relevant procedural history begins with an Order of April 22, 1994, which was docketed April 25, 1994 to which Wife filed a petition for reconsideration. The court, in response, issued an Order dated May 18,1994 and docketed May 24, 1994 which expressly granted reconsideration. No action was noted on the docket for over one year.- Then, following a phone call from Wife’s attorney the court issued a reconsidered Order dated May 25, 1995. The present appeal has been taken from the May 1995 order. The trial court attempted to explain its delay in issuing the order following reconsideration in an Opinion written in accordance with Pennsylvania Rule of Appellate Procedure 1925(b), Pa.R.A.P., 42 Pa.C.S.A. The trial court stated that it had made a decision in July of 1994, however due to clerical errors by court staff, the decision was misfiled and never docketed or sent to the parties.
+The Rule governing the procedure in this case is found in Pa.R.C.P., No. 1930.2, 42 Pa.C.S.A. It provides in relevant part:
+(b) A party aggrieved by the decision of the court may file a motion for reconsideration in accordance with Rule of Appellate Procedure 1701(b)(3). If the court does not grant the motion for reconsideration within the time permitted, the time for filing a notice of appeal will run as if the motion for reconsideration had never been filed.
+(c) The reconsidered decision, except as set forth in subdivision (e), shall be rendered within 120 days of the date the motion for reconsideration is granted. If it is not rendered within 120 days, the motion shall be deemed denied.
+(d) The time for filing a notice of appeal will begin to run anew from the date of entry of the reconsidered decision, or, if the court does not enter a reconsidered decision within 120 days, from the 121st day.
+(e) If the court grants the motion for reconsideration, and files same, within the 30 day appeal period, it may, at any time within the applicable 120 day period thereafter, issue an order directing that additional testimony be taken. If it does, the reconsidered decision need not be rendered within 120 days, and the time for filing a notice of appeal will run from the date the reconsidered decision is rendered.
+Pa.R.C.P., No. 1930.2, 42 Pa.C.S.A.
+In the present situation the court did grant reconsideration within the time permitted, Rule 1930.2(b), but did not order additional testimony or take any further action within the next 120 days, Rule 1930.2(e). Therefore, according to Rule 1930.2(c) the motion shall be deemed denied, and the 30 day time for appeal ran from 121st day, Rule 1930.2(d). Thus, since the court granted reconsideration on May 24, 1994, it had 120 days in which to act and either direct that additional testimony be taken or issue a new reconsidered order. Neither action was taken within 120 days and on the 121st day, or September 22, 1994, the motion was deemed denied. The aggrieved party then had 30 days in which to file an appeal. In this case, no appeal was filed until after the court issued a new reconsidered order approximately one year after granting reconsideration. This 1995 order, which was rendered well beyond the 120 day time period in which the court is to act, is a nullity, and the appeal from that order will not be entertained.
+The trial court in its Opinion has attempted to offer reasons why the Rule should not apply in this case. It notes that there was a clerical error on the part of court staff and that it would be “inequitable to permit a judicial error to preclude Wife from further proceeding in this case.” Trial court opinion, 6/24/95 at p. 5. The court wrote: “In this case, the reconsideration request was filed timely by Wife and the court fully intended to issue a timely order. Wife did not act in any way to delay the case and, to this point, has proceeded appropriately.” Id. at 4.
+Whether because of clerical error, as in this case, or inattentiveness by the court, Rule 1930.2, applies and directs that where a reconsidered decision is not rendered within 120 days, the reconsideration motion is deemed denied. Wife, if she so desired, should have appealed that “denial” within 30 days. It was not appropriate for Wife to wait beyond the 120 day period and then contact the court regarding a decision. When no decision was rendered by the 121st day, the proper course was for Wife to file an appeal. As stated in the explanatory comment: “If the court grants the motion for reconsideration, it has 120 days in which to enter a reconsidered decision. The appeal period begins to run anew upon the entry of the reconsidered decision, or on the 121st day if the decision is not entered within the 120 day period.” See Explanatory Comment — 19U, following Rule 1930.2. Wife’s inaction in failing to take an appeal following the 121st day cannot be excused regardless of the reason why a new reconsidered order was not entered on the docket before that day. Wife had the ability to view the docket to see if an order had been entered. When none was filed, a direct appeal should have been taken.
+Accordingly, we vacate the Order of May 25, 1995, and hold that the previous Order of April 22, 1994 is final and dictates the respective rights of the parties regarding the Husband’s pension.
+Order vacated. Jurisdiction relinquished.
+. The court's order expressly granting reconsideration was timely signed and docketed within 30 days of the date upon which the reconsidered order was docketed. See Pa.R.A.P., 108, 42 Pa.C.S.A., Pa.R.Civ.P. 236(b), 42 Pa.C.S.A. and Schoff v. Richter, 386 Pa.Super. 289, 562 A.2d 912 (1989).
+. We note that under Pa.R.A.P. 1701 when a trial court expressly grants reconsideration of a final order, the time for filing an appeal is postponed until the decision on reconsideration is entered. This is the general procedure. However, where a Rule of Civil or Criminal procedure specifically sets forth different time restrictions, the specific requirements will supersede the general requirement.
+. This rule was adopted March 30, 1994, and became effective July 1, 1994, while this matter was pending. Neither party or the trial court dispute its application to the facts of this case.
