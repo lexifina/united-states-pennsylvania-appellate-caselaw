@@ -1,0 +1,46 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+decided: "1990-03-01"
+citations: ["131 Pa. Commw. 605", "571 A.2d 528"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CRUMLISH, Jr., President Judge, McGINLEY, J., and NARICK, Senior Judge."]
+parties: ["Bruce COLEMAN, Appellant, v. CITY OF PHILADELPHIA and Philadelphia Gas Works, and Philadelphia Electric Company, Appellees."]
+source_url: "https://static.case.law/pa-commw/131/cases/0605-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1399204
+cites_cases: ["103 Pa. Commonwealth Ct. 437", "107 Pa. Commonwealth Ct. 61", "358 Pa. Superior Ct. 178", "387 Pa. Superior Ct. 283", "497 Pa. 247", "503 Pa. 160", "517 Pa. 461", "519 Pa. 274"]
+---
+
+# Coleman v. City of Philadelphia
+
+## Majority (McGINLEY, Judge.)
+
+McGINLEY, Judge.
+This is an appeal by Bruce Coleman (Coleman) from an order of the Court of Common Pleas of Philadelphia County (trial court) dismissing Coleman’s complaint against the City of Philadelphia (City).
+On April 22, 1982, Coleman was injured as he walked across a City street. The paved surface caved in and collapsed and Coleman fell into the breach. At the time of the accident, Coleman was collecting trash for the City.
+On February 17, 1984, Coleman filed a complaint against the City, the Philadelphia Electric Company (PECO) and the Philadelphia Gas Works (PGW), alleging that he was a “pedestrian” walking across “Simms Street” when the accident occurred. (Coleman’s Complaint, paragraph 6, Reproduced Record (R.R.) at 5a.) Coleman also alleged that the “accident was caused by a dangerous condition of a street owned by the City”, that “the City had actual notice of said dangerous condition” and that the “accident was caused by the carelessness, negligence and recklessness of the City in failing to properly maintain ... and keep said street in good repair____” (Coleman’s Complaint, paragraphs 7 and 8, R.R. at 5a.)
+The trial court granted the City’s motion for summary judgment and dismissed Coleman’s complaint.
+Our scope of review of the grant of a motion for summary judgment is limited to determining whether there has been an error of law or a manifest abuse of discretion. Miller v. Emelson, 103 Pa. Commonwealth Ct. 437, 520 A.2d 913 (1987). Summary judgment is properly granted where there is no genuine issue of material fact and the moving party has clearly established entitlement to judgment as a matter of law. Kuehner v. Parsons, 107 Pa. Commonwealth Ct. 61, 527 A.2d 627 (1987).
+On appeal Coleman contends that the exclusivity provision of Section 303(a) of The Pennsylvania Workmen’s Compensation Act (Act) does not apply. Coleman asserts that his injury was a result of a defect in a City street open to the general public and not as a result of his employment, and that recovery should be permitted under the “dual capacity doctrine.”
+Section 303(a) of the Act relevantly provides: “The liability of an employer under this act shall be exclusive and in place of any and all other liability to such employes, ... on account of any injury ... as defined in section 301(c)(1)....”
+Section 301(c) of the Act, 77 P.S. § 411, relevantly provides:
+(1) The terms ‘injury’ and ‘personal injury’ shall be construed to mean an injury to an employe, ... arising in the course of his employment; ... and wherever death is mentioned as a cause for compensation under this act, it shall mean only death resulting from such injury____ The term ‘injury arising in the course of his employment,’ ... shall include ... other injuries sustained while the employe is actually engaged in the furtherance of the business or affairs of the employer, whether upon the employer’s premises or elsewhere, and shall include all injuries caused by the condition of the premises____
+In support of his argument, Coleman relies upon the concurring opinion of Justice Roberts in Tatrai v. Presby teñan University Hospital, 497 Pa. 247, 439 A.2d 1162 (1982) which was joined by three members of the Court. Therein Justice Roberts stated:
+[WJhether appellant’s injury arose in the course of employment is irrelevant to appellant’s right to proceed in trespass and assumpsit. All that is relevant is that appellant was injured in the course of receiving treatment in appellee’s emergency room, a facility serving the general public. In holding itself out to the public as a provider of medical services, Appellee hospital owed a duty to all its patients.
+Tatrai, 497 Pa. at 255-256, 439 A.2d at 1166. Coleman asserts that the City owed him the duty to provide and maintain reasonably safe streets. Coleman asserts that the duty is the same owed to the general public and, therefore, the City functioned in a dual capacity.
+Recently the Superior Court of Pennsylvania in Callender v. Goodyear Tire & Rubber, 387 Pa. Superior Ct. 283, 285, 564 A.2d 180, 181 (1989) addressed the issue of “whether an employer, who is also a manufacturer of a product sold to the general public, may be liable under the dual capacity doctrine for a tort claim in the nature of a products liability action brought by an employee ... when the employee is injured by the product in the course of his employment.” In determining that the dual capacity doctrine was not applicable, the Superior Court analyzed the Supreme Court’s decisions in Tatrai, Budzichowski v. Bell Telephone Co. of Pa., 503 Pa. 160, 469 A.2d 111 (1984), Lewis v. School District of Philadelphia, 517 Pa. 461, 538 A.2d 862 (1988) and Heath v. Church’s Fried Chicken, Inc., 519 Pa. 274, 546 A.2d 1120 (1988). The Superior Court noted:
+An examination of Tatrai, Budzichowski, Lewis and Heath reveals that the Supreme Court has used two distinct analyses in deciding whether the dual capacity doctrine applies to a particular situation. In its two earlier cases, Tatrai, and Budzichowski, it addressed the issue from the standpoint of whether there was a separate duty owed by the employer to the public, and whether the employee could be distinguished from a member of the public to whom that duty was owed. However, in its most recent cases, Lewis and Heath, it has retreated from application of the traditional dual capacity analysis of whether the employer was acting in a separate capacity, and instead has focused exclusively on whether the employee was acting in the course of his or her employment. We find the change in the Court’s analysis significant particularly in light of the fact that the Court could have reached the same result in both Lewis and Heath had it applied its previously established Tatrai/Budzichowski analysis. (Emphasis in original.)
+Callender, 387 Pa. Superior Ct. at 295, 564 A.2d at 186-187.
+In the present controversy, Coleman was performing his duties as an employee at the time of the accident and was injured in the course of his employment as a trash collector for the City. Heath. Therefore the trial court appropriately determined that the exclusivity provision of Section 303(a) of the Act applies.
+Accordingly, we are constrained to affirm the decision of the trial court.
+ORDER
+AND NOW, this 1st day of March, 1990, the order of the Court of Common Pleas of Philadelphia County, at No. 3130, dated July 30, 1989, is affirmed.
+. PECO and PGW are not parties to the present appeal. (See Appellant’s Brief at p. 3.)
+. In the City’s request for admissions, Coleman admitted that he was in the course of his employment at the time of accident and his status as an employee of the City is not at issue. (See City's Request for Admissions and Plaintiffs Answer to Defendant’s Request for Admissions, R.R. at 20a-23a.)
+. On April 16, 1984, Coleman filed an amended complaint, which included by reference the original complaint, alleging that the City had actual prior notice of the condition of the street. (Amended Complaint, paragraph 3 and 5, R.R. at 17a-18a.)
+. Act of June 2, 1915, P.L. 736, as amended, 77 P.S. § 481.
+. The dual capacity doctrine exposes the employer to liability in tort by its employee "if it occupies, in addition to its capacity as employer, a second capacity that confers upon it obligations independent of those imposed upon it as employer.” Taynton v. Dersham, 358 Pa. Superior Ct. 178, 516 A.2d 1241 (1986).
+. In Tatrai, Ms. Tatrai, an operating room technician, became ill at work and was directed by her supervisor to go to the emergency room for medical treatment. In the emergency room, Ms. Tatrai was placed on an x-ray table which broke causing her to fall from the table. The Supreme Court held that the exclusivity provision of the Act did not bar Ms. Tatrai from pursuing an action in trespass and assu'mpsit.
+. In Callender, Gary Callender was employed by the Goodyear Tire & Rubber Company (Goodyear) as a tire changer when he was killed in the course of his employment after the tire that he had been working on exploded. Gary Callender was working in the Port Authority of Allegheny County (PAT) maintenance garage when the accident occurred pursuant to a lease agreement between Goodyear and PAT. The lease agreement provided that Goodyear would provide PAT with all bus tires and maintain them.
