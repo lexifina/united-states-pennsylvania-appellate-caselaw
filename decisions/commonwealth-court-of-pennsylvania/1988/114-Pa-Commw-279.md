@@ -1,0 +1,59 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "2118 C.D. 1987"
+decided: "1988-03-08"
+citations: ["114 Pa. Commw. 279", "538 A.2d 651"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Crumlish, Jr., and Judges Barry and Colins, sitting as a panel of three."]
+parties: ["Paratransit Association of Delaware Valley, Inc., Petitioner v. Honorable Howard Yerusalim, Secretary of Transportation and Commonwealth of Pennsylvania, Department of Transportation, Respondent."]
+source_url: "https://static.case.law/pa-commw/114/cases/0279-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1370774
+cites_cases: ["104 Pa. Commonwealth Ct. 385", "107 Pa. Commonwealth Ct. 216", "107 Pa. Commonwealth Ct. 441", "313 A.2d 156", "33 Pa. Commonwealth Ct. 518", "382 A.2d 490", "422 U.S. 490", "455 Pa. 52", "464 Pa. 168", "464 Pa. 377", "471 A.2d 605", "505 Pa. 294", "515 Pa. 224", "67 Pa. Code §425", "67 Pa. Code §§425.1", "67 Pa. Code §§425.1-425.16", "80 Pa. Commonwealth Ct. 329"]
+---
+
+# Paratransit Ass'n of Delaware Valley, Inc. v. Yerusalim
+
+## Majority (President Judge Crumlish, Jr.,)
+
+Opinion by
+President Judge Crumlish, Jr.,
+The Paratransit Association of Delaware Valley (PADV) has filed a petition for review in our original jurisdiction, seeking declaratory judgment and a permanent injunction prohibiting the Pennsylvania Department of Transportation (DOT) from implementing coordination regulations of the Shared-Ride Transportation Reimbursement Program. DOT has filed preliminary objections asserting (1) lack of standing; (2) lack of jurisdiction; and (3) failure to join indispensable parties. DOT also demurs on the ground that PADVs challenges to the coordination regulations fail to state a claim upon which relief may be granted. The preliminary objections are before us at this time.
+History
+The instant litigation has its genesis in regulations governing the 203 Program which include a provision for coordinating shared-ride services in operation areas. On November 8, 1986, DOT published final coordination regulations, 67 Pa. Code §425.13a. After requesting letters of interest from operators willing to organize Philadelphia County, DOT sent interested bidders a Request for Proposal (RFP) to contract for those services. DOT accepted an RFP from a paratransit service company, which states unequivocally that the chosen coordinator will (1) create a plan to determine the level of service in Philadelphia County; (2) define how that service will be provided; (3) select service providers on a competitive basis; (4) develop a fare structure which will fund the subcontractors costs; and (5) assume ongoing operational responsibilities.
+Standing
+DOT argues that PADV lacks standing because its petition for review fails to establish any injury to itself or its individual members. To have standing, one must plead facts which establish a direct, immediate and substantial injury. Wm. Penn Parking Garage, Inc. v. City of Pittsburgh, 464 Pa. 168, 346 A.2d 269 (1975).
+In Wm. Penn Parking Garage, Inc., our Supreme Court held that an aggrieved party “must show causation of the harm to his interest by the matter of which he complains.” A “substantial” interest is one where there is a “discernible adverse effect' to some interest other than the abstract interest of all. citizens.” Id. at 195, 346 A.2d at 282. Further, the requirement that the interest be present or immediate and” not remote or speculative involves “the nature of the causál connection between the áction complained of and the injury to the person challenging it.” Id. at 173, 346 A.2d at 283. Thus, as the causal connection becomes more remote, there is less likelihood that a party will have standing to assert his cause of action. Id.
+In the, instant matter, the causál connection is neither remote nor speculative. In accepting an RFP, and selecting a program coordinator, DOT has, committed itself to changes which can no longer be considered speculative. Although PADV may not achieve the remedy it seeks solely on the basis that it may suffer financial setbacks, First National Bank of Maryland v. Insurance Department, 107 Pa. Commonwealth Ct. 441, 528 A.2d 696 (1987), the petition alleges more than mere economic harm,
+Here, PADV asserts that DOTs implementation of the coordination regulations will adversely affect shared-ride service by (1) reducing the number of carriers from eleven to four or five; and (2) altering the “demand responsive” nature of the program by, allocáting territories and rationing the provision of services. Thus, the petition alleges harm to PADV members sufficiently imminent and substanital that we must conclude that PADV has standing to bring its'petition. Wm. Penn Parking Garage, Inc.
+Moreover, an association, even in absence of injury to itself, may have standing solely as the representative of its members to initiate a cause of action if its members are suffering immediate or threatened injury as a result of the contested action. Concerned Taxpayers of Allegheny County v. Commonwealth, 33 Pa. Commonwealth Ct. 518, 524, 382 A.2d 490, 493 (1978) (citing Warth v. Seldin, 422 U.S. 490, 511 (1975)).
+Jurisdiction
+DOT next contends that PADV improperly invokes this Courts original jurisdiction because the averments in its petition for review fail to state a case or controversy. DOT argues that since the coordination plan has not been implemented in Philadelphia, the events which could give rise to an actual controversy have not yet occurred, and may never occur. Thus, DOT contends that no declaratory relief will lie. We cannot agree.
+DOT’s plan to implement coordination in Philadelphia County is set forth clearly in the selection of a coordinator and the adoption of an RFP. Therefore, we hold that the events giving rise to the controversy have, in essence, already taken place and there is no sense of latency which would preclude declaratory relief.
+Since PADV seeks a declaration invalidating a Commonwealth agency’s regulations, it has properly filed its petition in our original jurisdiction.
+Indispensable Parties
+DOT further contends that since the petition for review foils to include as parties all shared-ride coordinators in the Commonwealth, it should be dismissed for its failure to join all indispensable parties. DOT argues that coordinators throughout the Commonwealth will be adversely affected if the coordination regulations are declared invalid. We again disagree.
+It is well established that an indispensable party is one whose rights are so directly connected with and affected by the litigation that he must be a party of record to protect such rights, and his absence renders any order or decree of court null and void for want of jurisdiction. Columbia Gas Transmission Corp. v. Diamond Fuel Co., 464 Pa. 377, 346 A.2d 788 (1975).
+Here, the challenged coordination regulations apply only to the shared-ride program in Philadelphia County. The action does not affect DOTs ability to contract with coordinators in other counties; therefore, those other coordinators will not be affected by the litigation, and they do not meet the criteria for indispensable parties.
+Demurrer
+Finally, DOT asserts that PADVs averments fail to state a claim for relief. It is well settled that a demurrer will be sustained only where it appears clear from the face of the pleading that the law will not permit the relief sought. Rauser v. Pennsylvania Board of Probation and Parole, 107 Pa. Commonwealth Ct. 216, 528 A.2d 290 (1987). Moreover, any doubts must be resolved in favor of overruling the demurrer. International Association of Firefighters, Local 2493 v. Loftus, 80 Pa. Commonwealth Ct. 329, 471 A.2d 605 (1984). .Our inquiry, then, is to determine whether the facts PADV has pleaded, if proven, cannot without a doubt support a claim on those grounds. Goodheart v. Thornburgh, 104 Pa. Commonwealth Ct. 385, 522 A.2d 125 (1987).
+The petition alleges that the coordination regulations are illegal because (1) they are interpretive and fail to adhere to the underlying purpose of the PUMTL, and (2) they usurp the Public Utility Commissions (PUC) rate-making authority. In the alternative, PADV avers that the regulations have no rational basis.
+Our standard of review over regulations is limited. We will not substitute our judgment for the agency or strike down its regulations unless a clear abuse of discretion is shown or it is apparent that the agency has exceeded its statutory powers. Brocal Corp. v. Department of Transportation, 515 Pa. 224, 528 A.2d 114 (1987).
+Thus, in order to be valid, regulations must be (1) within the granted power; (2) properly promulgated; and (3) reasonable. Uniontown Area School District v. Pennsylvania Human Relations Commission, 455 Pa. 52, 313 A.2d 156 (1973). Here, although PADV does not contest the propriety of their promulgation,, it has alleged that the regulations are unreasonable because DOTs decision to implement lacks any factual support or foundation. The petition for review further alleges that Secretary Yerusalim admitted that there was no basis to conclude that coordination would be cost-effective or would improve shared-ride service.
+DOT counters in its preliminary objections that these coordination regulations are reasonable and based on factual studies. If PADV were to prove that these regulations had no basis in fact and were unrelated to the purpose of PUMTL, then they would appear to be unreasonable. However, we cannot determine the reasonableness of the regulations in a vacuum. Thus, because we cannot say with certainty that the facts PADV has pleaded; if proven, will-be insufficient to establish any right to relief, DOTs preliminary objection in the nature of a demurrer must be overruled. If any theory of law will support a claim, preliminary objections are not to be sustained. Cianfrani v. State Employees' Retirement Board, 505 Pa. 294, 479 A.2d 468 (1984).
+Accordingly, we dismiss DOTs preliminary objections.
+Order
+Respondent Department of Transportations preliminary objections in the nature of a demurrer are overruled.
+It is ordered that respondents file a responsive pleading within thirty (30) days of the date of this Order.
+PADV is a non-profit Pennsylvania corporation comprised of businesses which provide shared-ride transportation services to persons in Philadelphia and the surrounding communities.
+42 Pa. C. S. §761(a)(l).
+67 Pa. Code §425.13a, adopted November 7, 1986, effective November 8, 1986.
+Pursuant to Section 203 of the Pennsylvania Urban Mass Transportation Law (PUMTL), Act of January 22, 1968, P.L. 42, as amended, added by Section 3 of the Act of July 10, 1980, P. L. 427, as amended, 55 P.S. §600.203, of the Shared-Ride Program (hereinafter referred to as the 203 Program) provides grants from the State Lottery Fund to pay the estimated losses of public transportation companies and private common carriers resulting from their transportation of senior citizens at reduced feres on a shared-ride basis. Under the 203 Program, a senior citizen pays twenty-five cents, or ten percent of the cost of an- individual fere, whichever is greater.
+67 Pa. Code §§425.1-^25.16.
+Other shared-ride regulations were published as final on January 4, 1986, 67 Pa. Code §§425.1—425.16.
+PADV also submitted an RFP, which was rejected.
+We note, however, that the individual PADV members are not precluded from' being chosen to be one of thé four or five carriers.
+Both the petition for review and the preliminary objections aver that the actual start-up date for coordination is July 1, 1988.
+Inasmuch as we overrule DOTs demurrer, we need not now address PADVs contentions that the coordination regulations exceed the PUMTL’s scope and usurp the PUCs rate-making authority.
