@@ -1,0 +1,25 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 90"
+decided: "1931-04-15"
+citations: ["101 Pa. Super. 330"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Linn, Gawthrop, Cunningham, Baldrige and Drew, JJ."]
+parties: ["Com. ex rel. Wiley, Appellant, v. Wiley."]
+source_url: "https://static.case.law/pa-super/101/cases/0330-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 692924
+---
+
+# Com. ex rel. Wiley v. Wiley
+
+## Majority (Linn, J.,)
+
+Opinion by
+Linn, J.,
+The relator, wife of the respondent, appeals from an order of the municipal court refusing an application filed September 3, 1930, for an order for her support pursuant to the Act of April 13, 1867, P. L. 78. The evidence clearly shows that respondent separated “himself from his wife......without reasonable cause......” within the terms of the statute, and that she needs support. As support was refused, we turn to the evidence to see whether respondent was relieved from the performance of his duty because he had nothing and ivas unable to earn anything.
+There is some evidence that he had been in a hospital for a major operation from September 17, 1930, and that on the date of the hearing, December 17, 1930, he was not yet able to work. While so incapacitated, he could, of course, not contribute to relator’s support, unless possessed of property of which part could lawfully be ordered payable to her. Assuming, for purposes of this appeal only, that the lawn mower business, described in the evidence, -was not owned by respondent, and that he had been merely employed by his son, the alleged owner, we note that counsel for relator produced at the hearing photographs copies of bank statements issued by the National Bank of Germantown showing an active bank account in respondent’s name. His testimony that the account, though in his name, was in fact his son’s, and that before entering the hospital, he paid the balance to his son, was directly contradicted by the son, who was not in the court room when respondent testified. The son stated that his bank account was in his own name, and he had no other account and that he kept no money in his father’s account; he also denied that his father transferred to him any bank account or any money before going to the hospital. When the photographs of respondent’s bank account were produced, objection was made to their use on the ground that a bank employee, said to have been subpoenaed to testify concerning them, was absent; because of that absence, (the court declining to suspend the hearing to bring in the witness), no consideration of these accounts was given by the court, and they did not get into the record. If the photographs accurately show the account, lie deposited $549.67 in September alone. They were exhibited to this court, as excluded evidence, at the oral argument. If the respondent had a bank account, as these photographs would indicate, or had money in the possession of another, the fact should have been elicited and considered. It might have been prudent for counsel to have moved for the attachment of the absent witness pursuant to the usual procedure employed where a witness who has been subpoenaed fails to comply with the subpoena; so, too, it would not have been unwise to suspend the hearing a day or so, to have the witness brought in to give the additional testimony, suggested by counsel on an element of such obvious importance. It is desirable, in hearing cases of this general character, to keep in mind that the Commonwealth is not only a nominal but a real party to the proceedings, vitally interested in their prompt and full hearing and decision, and that the judge conducting the hearing should, by the wise exercise of judicial discretion, see that such result is attained. We are all of opinion that in this case time would have been saved, and perhaps this appeal and consequent re-hearing would have been unnecessary, if a broader view of the function of the court had been taken at the hearing below.
+It may be, on consideration of respondent’s age and infirmities resulting from the operation performed on him (prostatectomy) that the court must conclude that respondent may not be able now, or for sometime to come, to earn any money whatever, and may himself be required to be supported by his son (by a former marriage) who, as stated in the evidence, paid his hospital bills; but, on the other hand, the evidence, when fully taken, may show, as contended by appellant, that immediately before going to the hospital he transferred to his son a considerable sum of money which may now be available for his wife’s support. If a proper judicial inquiry shows that respondent has no property and is physically unable to work, the petition should be dismissed; if on the other hand, though unable to work now, he has available property, an order should be made pursuant to the statute.
+Order reversed; record remitted for further proceedings.
