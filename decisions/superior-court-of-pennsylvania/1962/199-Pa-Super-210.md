@@ -1,0 +1,34 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 178"
+decided: "1962-09-13"
+citations: ["199 Pa. Super. 210"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Weight, Woodside, Watkins, Montgomery, and Flood, JJ. (Ervin, J., absent)."]
+parties: ["Williams Retail Stores, Inc., Appellant, v. Toltzis."]
+source_url: "https://static.case.law/pa-super/199/cases/0210-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 760675
+cites_cases: ["101 A. 2d 705", "152 A. 2d 458", "156 A. 2d 884", "166 A. 2d 496", "175 A. 2d 864", "191 Pa. Superior Ct. 295", "376 Pa. 57", "397 Pa. 58", "402 Pa. 109", "405 Pa. 463"]
+---
+
+# Williams Retail Stores, Inc. v. Toltzis
+
+## Majority (Montgomery, J.,)
+
+Opinion by
+Montgomery, J.,
+This is an appeal from the order of the Philadelphia County Court awarding a new trial to the appellee against whom a jury had rendered a verdict in the sum of $1,740.
+On July 8, 1948, appellant, Williams Retail Stores, Inc., entered into a lease with the appellee, Abraham Toltzis, to occupy a retail store.
+Sometime in July, 1958, there was an overflow of water in the catch-basin in the basement which did extensive damage to appellant’s carpeting, bags, hangers, and boxes, all of which were located in said basement. There had been prior leakage of the same plumbing, with several complaints to the appellee who promised to remedy the condition.
+Appellant filed a complaint in trespass against the appellee alleging the above facts and attributing the damage to defective plumbing. Appellee did not file any answer and thereby admitted the allegations concerning his control over the basic plumbing in the building. The appellee claimed that the overflow came from an improperly maintained air conditioner under the control of the appellant. At the trial the issue of liability was resolved in favor of the appellant, and the jury rendered a verdict in the amount of $1,740. The appellee’s motion for judgment n.o.v., raising the question of liability, was dismissed by the court below and no appeal was taken.
+The court en banc did grant the landlord’s motion for a new trial on the ground that the verdict was in excess of the amount of damages claimed in the complaint, and was generally excessive. The opinion further states that a new trial should be granted in the “interest of justice”. It is from this grant of a new trial that this appeal has been taken.
+A reviewing court will not reverse the grant of a new trial unless there was a clear abuse of discretion or an error of law which controlled the outcome, and the error is the sole reason for granting the new trial. Bohner v. Eastern Express, Inc., 405 Pa. 463, 175 A. 2d 864; Segriff v. Johnston, 402 Pa. 109, 166 A. 2d 496; Kuzma v. Kuzma, 191 Pa. Superior Ct. 295, 156 A. 2d 884.
+Where, in addition to a statement to the effect that in justice a new trial is required, it is clearly inferrible from the trial judge’s discussion of the testimony that he justifiably considered the verdict to be against the weight of the evidence, an order requiring a new trial will not be disturbed. Morse Boulger Destructor Company v. Arnoni, 376 Pa. 57, 101 A. 2d 705. To determine whether the action of a trial court in granting a new trial on the ground that a finding of the jury was against the weight of the evidence showed a palpable abuse of discretion, a reviewing court is required to examine the record and assess the weight of the evidence, not, as the trial judge, to determine whether the preponderance of the evidence opposed the verdict, but rather to determine whether the trial court in so finding plainly exceeded the limits of judicial discretion and invaded the exclusive domain of the jury. Exner v. Gangewere, 397 Pa. 58, 152 A. 2d 458.
+The damage claimed with respect to the boxes, bags, and hangers are of small consequence and need not be discussed. The principal item of damage was the carpet. A review of the record in this case shows that according to appellant’s own proof, it installed 283% linear yards of carpeting at a cost of $2,463.62 or $8.69 per yard. Of this total, 120 linear yards or 42 per cent were installed in the basement. The damage occurred ten years later, after which all of the carpet was removed and shipped to New York. To establish its damages appellant called one witness, a dealer in rugs and carpeting, who was permitted to testify as an expert. He stated that although he had never seen the carpet either prior to or after the water damage, similar carpet in 1958 would sell at $11.45 per yard, and that after ten years usage the carpet would still be worth 75 to 80 per cent of its value. He then computed the value of the carpet to be $9.00 per yard immediately prior to the water damage in 1958. The net result of this testimony, which was admitted over the objection of the appellee, was to leave to the jury’s consideration on the subject of the damages to the carpet a figure calculated at $11.45 per yard, $2.76 per yard in excess of what the carpet cost ten years prior to the occurrence.
+These matters were called to the attention of the court en banc, and it is clear from its opinion that it thought the principal item of damage claimed was excessive. The court below also considered other aspects of this case in connection with this item of damage. In the original complaint appellant alleged damage to the carpeting to be $650, and also averred that there was subsequent damage in the spring of 1959, not at the time ascertained but which appellant believed would not exceed $1,000. The total demand in the complaint was for a sum in excess of $1,900. Prior to the trial appellant amended its complaint by agreement to extend the damage to the carpet from between $1,000 and $1,500, presumably to include the damage alleged to have occurred in the spring of 1959. However, at the trial no evidence whatsoever was offered by the plaintiff to establish any water damage in the spring of .1959.
+.As stated by the court below in its opinion, the plaintiff was awarded damages for a carpet, after ten years of wear, in the sum of $1,410, although the original cost was $1,042.80, where the carpet was not replaced but removed to New York and no explana: tion offered as to its disposition; where the only evidence of value was the testimony of a dealer who never saw the carpet; and where the sworn complaint of the plaintiff based the value of the carpet at $650.
+■ It is clear from this discussion that the court below justifiably considered the verdict to be against the weight of the evidence and one which resulted in a case of unjust enrichment, and, therefore, it cannot be said to have exceeded the limits of judicial discretion in awarding a new trial.
+Order affirmed.
