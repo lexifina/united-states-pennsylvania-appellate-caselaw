@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 236"
+decided: "1906-01-13"
+citations: ["30 Pa. Super. 84"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Beaver, Orlady, Porter, Morrison and Henderson, J J."]
+parties: ["Bitler’s Estate."]
+source_url: "https://static.case.law/pa-super/30/cases/0084-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 862186
+cites_cases: ["104 Pa. 330"]
+---
+
+# Bitler's Estate
+
+## Majority (Morrison, J.,)
+
+Opinion by
+Morrison, J.,
+This is an attempt of Mary Kurtz, distributee, and John Kurtz, creditor, to maintain a joint appeal from the decree of the orphans’ court of Berks county. The alleged rights of these parties are separate and distinct, and they have no power to maintain a joint appeal, and for this reason their appeal might be quashed. But inasmuch as we have examined the testimony, the exceptions and the decree of the court, and have reached the conclusion that there is no merit in the assignments of error, we conclude to dispose of the appeal upon its merits.
+The first assignment of error is : “ The learned court erred in allowing the claims of Jacob Dethample against the estate of Henry Bitler, deceased.” Dethample’s claims were upon four promissory notes, dated respectively October 6 and November 1, 1899, and March 12 and May 9, 1900, each payable one year after date, with interest at five per cent, and each was signed by John Bitler and Henry Bitler. It is conceded that Henry Bitler was surety on these notes, but they were jointly executed, and upon their face showed a joint liability on the part of the makers. The sole reason urged by the learned counsel for Mary Kurtz, appellant, in support of this assignment is that Dethample, from time to time, received interest due upon said notes from John Bitler, and upon this fact the argument is predicated that Henry Bitler was released. There is not a scintilla of evidence that any interest was ever paid in advance, or that Dethample accepted any money or valuable thing, or entered into any agreement whereby he varied the terms of the contracts, as evidenced by the notes, by agreeing to any extension of time, or otherwise.
+In support of the contention that- the payment of interest upon the notes released the surety, a number of decisions are cited, and among them Riddle v. Thompson, 104 Pa. 330. But that was a case where the payee agreed to a valid extension of time for the payment of the obligation, without the consent of the surety, and of course, under all of the decisions, such extension released the surety.
+The argument of the counsel that “ an agreement between the creditor and the principal debtor, which varies essentially the terms o£ the contract by an extension of time, or otherwise, without the assent of the surety, will discharge the latter from responsibility,” is good law, but the difficulty in the present case is that the payee did nothing to change the contract by an extension of time, or otherwise. It is equally good law that a mere forbearance on the part of the creditor will not discharge the surety. The question raised by this assignment is so well settled, and the ruling of the court being strictly in accordance with the facts and the law, it is unnecessary to cite other cases or to spend time in a further discussion of this assignment, as it cannot be sustained.
+The second assignment is : “ The learned court erred in refusing'to allow the clainf of John Kurtz against the estate of Henry Bitler, deceased.” A careful reading of the testimony, the opinion of the court and the exceptions, satisfy us that this exception is entirely without merit. After the death of Henry Bitler, John Kurtz presented a claim against the estate for $386, alleged to be due him for nursing the deceased. The testimony offered in support of this claim, in our.opinion, shows a labored effort to sustain a worthless claim against a dead man’s estate. The evidence tends to show that the deceased was able to be about the house and out of doors frequently almost to the day of his death, and it further shows that John Kurtz was staying at the home of the deceased engaged zealously in courting his daughter, during the old gentlemen’s last illness, whom he subsequently married. The evidence also shows that John Kurtz executed and delivered, after the death of Henry Bitler, the following receipt: “ Gibraltar, Pa. May 11, 1903. Received of Rebecca M. Bitler, one of the executors of the estate of Henry Bitler, deceased, $25.00, for nursing Mr. Bitler. John Kurtz.” It may be that there was evidence from which the court could have found that the services were rendered by John Kurtz and that they were of greater value than the amount actually paid him. On the other hand, there was also evidence consisting of circumstances which tended to cast serious doubt upon the bona fides of his claim. The receipt, while it may not be necessary to consider it as in full, is consistent with the claim of the appellee that it was for a payment in full for all his services. The appellant’s claim rested upon oral testimony of witnesses and the court who heard them and observed their manner of testifying was better able to judge of the credibility of the testimony than this court. It is a case where the finding of a court that the claim was not sustained ought not to be set aside except for manifest error and we do not discover any such error.
+The question as to the competency of John Kurtz and his wife to testify as to the circumstances under which the receipt was given is not raised by either of the assignments of error, therefore it is dismissed without discussion or decision.
+The appeal is dismissed at the costs of the appellants and the decree affirmed.
