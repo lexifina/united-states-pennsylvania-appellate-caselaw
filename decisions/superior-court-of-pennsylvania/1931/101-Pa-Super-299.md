@@ -1,0 +1,31 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 25"
+decided: "1931-04-15"
+citations: ["101 Pa. Super. 299"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller, Linn, Gawthrop, Cunningham, Baldrige and Drew, JJ."]
+parties: ["Moreland v. City of Philadelphia, Appellant."]
+source_url: "https://static.case.law/pa-super/101/cases/0299-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 692908
+---
+
+# Moreland v. City of Philadelphia
+
+## Majority (Trexler, P. J.,)
+
+Opinion by
+Trexler, P. J.,
+William Moreland, the plaintiff, was first appointed patrolman of the City of Philadelphia on August 31, 1908. He was dismissed on October 17, 1917, and was reappointed on October 13, 1920. The director of public safety sent in a report to the civil service commission on December 18, 1928, charging Moreland with conduct unbecoming an officer and disobedience of orders, for which he had been suspended December 15, 1928.
+The case was listed for trial before the commission on December 28, 1928. The commission found that Moreland was guilty of the charges, but ordered him restored to duty with the sentence that he forfeit his pay during the suspension. That decision was transmitted to the director of public safety.
+The patrolman resumed his duties on December 28, 1928, and continued to discharge them for 289 days, during which time, he received no compensation. He brings suit for 300 days, from December 18, 1928, less 11 days in which he was suspended. There is no dispute as to the time he served without pay and there is no charge against the man that he did not perform his duties satisfactorily during that period. The only defense to the action brought for the recovery of the pay is that after the sentence of the civil service commission was pronounced, the director of public safety, in view, as he alleges, of the previous bad record of the plaintiff, considered the punishment entirely inadequate and decided to fine him under the rules and regulations of the department for conduct unbecoming an officer and disobedience of orders, 300 days pay. The only question before us is whether after the matter had been adjudicated by the civil service commission, the director of public safety could increase the penalty imposed by the commission.
+The Charter Act of June 25, 1919, P. L. 581, Article XIX, Section 18, p. 620, provides:
+“No police officer or fireman, except those dismissed during probationary period, shall be removed or discharged, except for cause, upon written charges, and after an opportunity to be heard in his own defense. Such charges may be filed by any superior officer, or by any citizen or taxpayer, and shall, within thirty days after filing, be heard, investigated, and determined by the commission or by one of the commissioners or by some person or board appointed by the commission to hear, investigate, and determine the same. Where one person is appointed by the commission to hear such charges, he shall be a person learned in the law. Where a board is appointed to hear such charges, at least one member of such board shall be learned in the law. The hearing shall be public, and the accused and his counsel shall have the right to be heard.”
+“The finding and decision of the commission or commissioner or of such person or board, when approved by the commission, shall be certified to the appointing authority, and shall be forthwith enforced by such authority.”
+“Nothing herein contained shall limit the power of any superior officer to suspend a subordinate for a reasonable period, not exceeding thirty days, pending hearing and decision. Every such suspension shall be without pay. Provided, however, That the commission shall have authority to investigate every such suspension, and, in case of its approval, it shall have power to restore pay to the employe so suspended.”
+The proceeding's which we are considering were carried on under the provisions of this section. The officer was suspended pending the hearing and decision of the civil service commission. The commission, having authority to investigate, restored the officer charged to his position, merely fining him his pay during the period of suspension. This matter having been submitted to a proper tribunal, its order put an end to it.
+The Charter Act in Article 3, Section 3, provides that: “Each department shall have power to prescribe rules and regulations, not inconsistent with any law or ordinance or with the provisions of this act, for its own government, regulating the conduct of its officers and employes, the distribution and performance of its business, and the custody, use, and preservation of the books, records, papers, and property under its control.” At the trial of this case, the city offered to prove that such rules and regulations had been established and that by virtue of these rules, the director of public safety had a right to fine the patrolman for violation of said rule. The court declined to admit this evidence' and we think properly so. Whatever authority the director of public safety has to punish for violation of the rules of the department, after he suspended this man and charged him with certain misconduct, the report of which he sent to the civil service commission, the matter passed out of his hands and he had no further control over the sentence after it was imposed by the commission. The fine of 300 days pay which he attempted to impose was for the same matters which were considered by the commission and for which he was found guilty.- It may be true, as the director alleges, that he should have been discharged, but that is apart from, the present inquiry. The commission decided upon the punishment which they considered fitted the misconduct and the director had no veto power over them. We do not- decide whether he had any power to fine under the rules and regulations of the department, independent of the commission, but we all are of the opinion that, having once committed the decision of the case to the commission, he could not veto or modify its action.
+The judgment is affirmed.
