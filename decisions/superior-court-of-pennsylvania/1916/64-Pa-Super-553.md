@@ -1,0 +1,27 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 98"
+decided: "1916-10-09"
+citations: ["64 Pa. Super. 553"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady,' P. J., Henderson, Kephart,- Trexler and Williams, JJ."]
+parties: ["Crow, Appellant, v. Ursina & North Fork Railway Company."]
+source_url: "https://static.case.law/pa-super/64/cases/0553-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 458038
+cites_cases: ["156 Pa. 220", "171 Pa. 284", "192 Fed. 330", "209 U. S. 56", "219 U. S. 467", "227 U. S. 111", "233 U. S. 334", "236 U. S. 157", "241 Pa. 515", "241 Pa. 536", "251 Pa. 460", "32 Pa. Superior Ct. 5"]
+---
+
+# Crow v. Ursina & North Fork Railway Co.
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+In 1910 the United Lumber Company made a contract with the Ursina & North Fork Railway Company in which the latter agreed for a period of ten years, with the option of ten more, to transport the cars of the lumber company over its road to the junction point of. the B. & O. Railroad, at a charge of $5 per loaded car. In 1915 the railway company filed with the Interstate Commerce Commission its tariff and rates in which the rate between the two points named in the contract was advanced about three times the amount per car.
+■ The question before us is whether the lumber company can hold the railway company to its contract or whether the rate it has filed with the Interstate Commerce Commission governs. To determine this question we must of course ascertain whether the shipments made by the lumber company were interstate or intrastate.
+Upon the facts as found by the court, we find that all the lumber was sold to the Palmer & Semans Lumber Company to be delivered to it at Ursina which was the junction point of the Ursina & North Fork Railway Company with the Baltimore & Ohio Railway Company. Representatives of the plaintiff, the United Lumber Company, made requisition upon the railway company for cars and indicated in said requisition the points to which said cars of lumber were, destined. When a car was loaded the waybill showing its destination was attached to the car or the lumber company delivered to the agents of the railway company a waybill taken out in the name of the Palmer & Semans Lumber Company to be attached to the car at the junction point, upon which waybill the point of destination was designated. ' The railway company did not issue to the plaintiff company through bills-of-lading but transported the cars to the junction point of the B. & O. Railroad Company. On all the product of the lumber company the Palmer & Semans Lumber Company received a commission based upon the prices they received for the same. They were responsible for the prices reported at the time the shipments were made, and under the contract between the parties, and as stated above, the lumber was delivered to them at the junction point of the B. &0. Railroad Company. The cars were not unloaded at the junction point but continued on their journey uninterrupted to the points of destination outside of Pennsylvania. When the lumber was loaded on the cars its destination was determined. Every one connected with the shipping knew it or could readily ascertain it. The cars were not held for resale at the junction point. The sale was made before the cars were loaded by the lumber company.
+In determining whether this was interstate or intrastate commerce, the rule laid down is that the essential character of the commerce determines under which of the above cases it falls and the mere billing and form of contract is not governing: Chicago, Milwaukee & St. Paul R. R. Co. v. Iowa, 233 U. S. 334. When freight actually starts its course of transportation through and out of the State, it becomes a part of interstate commerce and the essential nature of the movement and not the form of the bill-of-lading determines the character of the commerce involved: Illinois Central R. R. Co. v. DeFuentes, 236 U. S. 157. Considering all the circumstances of the case, we have come to the conclusion that the lower court was right in holding that the shipments in question came under the Interstate Commerce Act, The shipment of the cars by the lumber company and their journey to the places of destination formed a continuous movement which was not interrupted at the junction point of the B. & O. Railroad Company. Had the lumber been shipped to the Palmer & Semans Lumber Company and been held at the junction point and then forwarded to purchasers, the case might present a different phase, but as stated before, when the lumber was shipped its destination was certain, and the journey to its destination was not broken by any one. Both the United Lumber Company and the shipping company knew and intended that the movement of the cars would finally end at a point oustide the State. The facts disclosing a continuous journey which was not interrupted at the junction point give the shipment the character of an interstate transaction and therefore governed by the rates filed with the Interstate Commerce Commission. Had the lumber been shipped to the junction point and there reshipped by the United Lumber Company even in carload lots to such customers as they may have obtained for them, the continuity of the journey would have been destroyed: Chicago, Milwaukee & St. Paul R. R. Co. v. Iowa, 233 U. S. 334.
+Judgment affirmed.
