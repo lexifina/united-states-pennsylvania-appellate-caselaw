@@ -1,0 +1,39 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 2788 C.D. 1983"
+decided: "1985-01-16"
+citations: ["87 Pa. Commw. 93"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges MacPhail, Colins and Senior Judge Barbieri, sitting as a panel of three."]
+parties: ["York-Green Associates, Appellant v. Board of Supervisors of South Hanover Township, Dauphin County, Pennsylvania, Appellee."]
+source_url: "https://static.case.law/pa-commw/87/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1327830
+cites_cases: ["229 A.2d 906", "28 Pa. Commonwealth Ct. 13", "367 A.2d 760", "370 Pa. 326", "413 A.2d 1142", "425 Pa. 535", "427 A.2d 275", "50 Pa. Commonwealth Ct. 354", "57 Pa. Commonwealth Ct. 548", "87 A.2d 177"]
+---
+
+# York-Green Associates v. Board of Supervisors of South Hanover Township
+
+## Majority (Judge Colins,)
+
+Opinion by
+Judge Colins,
+York-Green Associates (appellant) appeals an order of the Court of Common Pleas of Dauphin County dismissing appellant’s Complaint in Mandamus. Appellant claims that the Board of Supervisors of South Hanover Township (appellee) improperly reneged on a written agreement to issue building permits for a real estate development known as Greenbriar II. We affirm the trial court’s dismissal of the Complaint.
+In April of 1976 appellant’s final plans for a subdivision development were approved by appellee. In July of the same year, however, the Department of Environmental Resources (DEE) objected to the proposed use of on-lot sewage systems. The parties then entered into a written agreement on July 26, 1977, revising the development plan and approving construction of a sanitary sewer system. Revised final plans were approved by appellee on July 25, 1978.
+By December, 1981 two of the sections comprising the development plan had not been completed. For reasons not explained in the record, there had been no attempt to commence work on the remaining sections for the three-year period from plan approval in 1978 through 1981. During this three-year lapse, the composition of the Board of Supervisors changed as a result of regularly-scheduled municipal elections. The new Board of Supervisors had amended the Township’s zoning and subdivision ordinances, the result of which was that the two remaining sections no longer complied with the current township ordinances. On March 10, 1982, appellee informed appellant that construction could not be commenced on the two remaining sections but that revised plans could be resubmitted. No appeal was taken from this decision, nor were revised plans submitted.
+On August 26, 1983 appellant filed a petition with the Court of Common Pleas of Dauphin County for a Writ of Mandamus ordering appellee to issue building .permits to allow completion of the development project. The Court of Common Pleas dismissed the complaint and this appeal followed.
+. Appellant contends that a mandamus action is appropriate here. It alleges that it is entitled to receive building permits and to continue development of the project. Appellant bases this contention on appellee’s original approval of the plan, as well as the separate agreement made by the parties revising the plan so that it satisfied DEE standards and the then-existing Township ordinance.
+It is Appellant’s contention that the amendment of Section 508 of the Pennsylvania Municipalities Planning Code, effective August 9, 1982, dictates the issuance of a writ in mandamus. This section states in pertinent part:
+When an application for approval of a plat, whether preliminary or final, has been approved or approved subject to conditions acceptable to the applicant, no subsequent change or amendment in the zoning subdivision or other governing ordinance or plan shall be applied to affect adversely the right of the applicant to commence and to complete any aspect of the approved development in accordance with the terms of such approval within five years from such approval. Where final approval is preceded by preliminary approval, the five-year period shall be counted from the date of the preliminary approval.
+This assertion is incorrect. Assuming arguendo that the plans submitted in 1978 were merely preliminary, rather than final, there still has been a hiatus in excess of five years from approval to the effective date of the amendment (August 9, 1982). The record is devoid of any evidence that appellant commenced the installation of the improvements regarding the two undeveloped sections within the required time.
+This Court has consistently held that “Mandamus is an extraordinary writ which lies to compel the performance of a ministerial act or mandatory duty where there is clear legal right in the plaintiff, a corresponding duty in the defendant, and a want of any other appropriate and adequate remedy.” Boslover Ahavas Achim Belzer Association v. Philadelphia Redevelopment Authority, 425 Pa. 535, 538, 229 A.2d 906, 908 (1967); (quoting Travis v. Teter, 370 Pa. 326, 330, 87 A.2d 177, 179 (1952)) (emphasis in original).
+Based on facts very similar to the present case, this Court, in Altland v. Sprenkle, 57 Pa. Commonwealth Ct. 548, 427 A.2d 275 (1981), affirmed a county court’s refusal to issue a Writ of Mandamus directing a township to issue permits. In Altland a subdivision plan had been approved by the Township. Tears later the Township amended its zoning ordinances to require larger lot sizes than those remaining in the originally-approved subdivision plan. The developer was denied building permits because the lots did not conform to the requirements of the new ordinances. The Court, citing Kirk v. Smay, 28 Pa. Commonwealth Ct. 13, 367 A.2d 760 (1976), stated: “Where, as here, it is obvious that all of the requirements of the zoning ordinance are not met, then the right to a building permit is not clear, and a zoning officer is acting beyond the scope of his authority if he issues a permit under such conditions.” Altland, 57 Pa. Commonwealth Ct. at 551, 427 A.2d at 276.
+Moreover, this Court has held that a condominium developer was not entitled to building permits for unbuilt units where the township had changed the zoning subsequent to plan approval because “ ‘a vested right to build in futuro a structure which violates a zoning ordinance can only be acquired by first securing a permit and thereafter expending substantial sums in reliance thereon.’ ” Bensalem Township Appeal, 50 Pa. Commonwealth Ct. 354, 358, 413 A.2d 1142, 1144 (1980). Here, appellant has neither the permits nor has it ever commenced work on the remaining lots.
+In addition to appellant not being able to establish a clear legal right, it has not pursued any other possible remedies available to it. Appellant did not appeal appellee’s decision denying the permits. Moreover, where there is a dispute between two parties to a contract as to their rights and obligations under that contract, an appropriate and adequate legal remedy is available under the Declaratory Judgments Act (Act). The purpose of the Act is “to settle and to afford relief from uncertainty and insecurity with respect to rights, status, and other legal relations”, and it is to be “liberally construed and administered”. 42 Pa. O. S. §7541. If the 1978 “agreement” is as explicit as claimed by appellant, it would have contractual rights.
+Since appellant has failed to show that it is entitled to relief in mandamus, we affirm the order of the Court of Common Pleas of Dauphin County.
+Order.
+And Now, January 16,1985, the Order of the Court of Common Pleas of Dauphin County refusing to is-sure a Writ of Mandamus in the above-captioned case is hereby affirmed.
+Act of July 31, 1908, P.L. 805, as amended, 53 P.S. §10508.
+42 Pa. C. S. §§7531-7541.
