@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal No. 315"
+decided: "1925-07-09"
+citations: ["86 Pa. Super. 126"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Porter., Henderson, Trexler, Keller, Linn and G-awthrop, J J.", "Before Davis, J."]
+parties: ["City of Philadelphia v. Subin & Subin, Appellants."]
+source_url: "https://static.case.law/pa-super/86/cases/0126-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 569586
+cites_cases: ["124 Pa. 52", "130 Pa. 463", "15 W. N. C. 343", "2 York 21", "274 Pa,. 256", "63 Pa. 162", "80 Pa. Superior Ct. 392"]
+---
+
+# City of Philadelphia v. Subin
+
+## Majority (Porter, J.,)
+
+Opinion by
+Porter, J.,
+This is an action of scire facias sur municipal claim for paving a sidewialk. The defendants challenged the right of plaintiff to recover upon the following grounds; (1) That no notice had been served by the city authorities upon the owners to do the work; and (2) That the notice alleged by the plaintiff to have been served was not in such form as to authorize a recovery for the work which was done.
+The claim filed averred that notice had been served. The averments of the claim were prima facie evidence of the facts therein stated. The affidavit of defense admitted that the notice was served, on or about March 22,1921, upon one Sam Eoseman, but averred that Sam Eoseman was not a representative or agent acting for the defendants. It further averred that, while the defendants were the real and registered owners of the property, “at no time during the year 1921 were they residents or occupants of said premises......and that at no time during that year did they have any agents in possession of said premises nor any person in charge for them upon whom any notice could be served or with whom for and on behalf of themselves, business could be transacted.” The plaintiff offered the claim in evidence and rested. The defendants, in order to rebut the prima facie case arising from the averment of the lien that the notice had been served, called as a witness the employee of the city who had served the notice, who testified that he served it upon Sam Eoseman, upon the premises in question, who was the superintendent in charge of the business there being carried on by the Philadelphia Furniture Frame Company; that said Eoseman retained the notice, signed his name, indicating his receipt for the same, upon a copy retained by the officer, which copy was returned by the officer to the proper office, and was by witnesses identified at the trial. The defendants, David and Benjamin Subin, were called as witnesses, and testified that, at the time in question, they had, through an agent, rented the property to the Philadelphia Furniture Frame Company which company was in possession of the property, but they testified, also, that they did not know who composed that company and did not know whether Roseman was a member of the company. There was no evidence as to whether the Philadelphia Furniture Frame Company ivas a corporation, a partnership, or an individual doing business under a fictitious name. Roseman, so far as the evidence in this case indicated, may have been the only person interested in the Philadelphia Furniture Frame Company; he may have been, individually, doing business under that name. The officer who served the notice found Roseman in possession and control of the premises, and there was no evidence which would warrant a jury in finding that his possession was not exclusive. The statute does not require personal service upon the owner in such cases. “Such notice may be served (1) on the owner or (2) his agent or (3) the person in possession or (4) it may be posted on the most public part of the property if there is no one in physical possession”: Phila. v. Peters, 80 Pa. Superior Ct. 392. The court did not err in holding that the evidence was not sufficient to rebut the averments of the claim.
+The notice was to “repair brick foot-way.” This was sufficient to require everything to be done necessary to put the sidewalk in the condition required by the said ordinances and render it reasonably safe for use by the public, even if that involved renewing the entire pavement. The notice having been served and the defendants being in default, they were clearly liable to the plaintiff for the cost of putting the sidewalk in proper condition. There was no evidence , in the case as to what it would have cost to relay the sidewalk with brick pavement, nor as to the amount of any difference in the cost between the construction of such a pavement and the cost of the work which the city did. The defendants being in default and clearly liable for the cost of what was necessary, in order to comply with the notice, the jury could not he permitted to guess, in the absence of evidence, that the cost of what the city did was greater: Pittsburgh v. MacConnell, 130 Pa. 463. The case is clearly different from one in which no notice has been given and the defendant is not in default, for in the latter the defendant is not liable for any part of the cost. The court did not err in giving binding instructions in favor of the plaintiff.
+The judgment is affirmed.
