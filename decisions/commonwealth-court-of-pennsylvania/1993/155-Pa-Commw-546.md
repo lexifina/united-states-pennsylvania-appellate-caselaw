@@ -1,0 +1,37 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "1982 C.D. 1992"
+decided: "1993-05-14"
+citations: ["155 Pa. Commw. 546", "625 A.2d 746"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DOYLE and PALLADINO, Judges, and LORD, Senior Judge."]
+parties: ["Danilo ZAMMATTIO, Petitioner, v. DEPARTMENT OF PUBLIC WELFARE, Respondent."]
+source_url: "https://static.case.law/pa-commw/155/cases/0546-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1445870
+cites_cases: ["2 Pa.Commonwealth Ct. 110", "277 A.2d 171", "284 A.2d 727", "445 Pa. 622", "457 A.2d 1020", "480 A.2d 369", "503 A.2d 86", "509 Pa. 1", "73 Pa.Commonwealth Ct. 169", "84 Pa.Commonwealth Ct. 609", "94 Pa.Commonwealth Ct. 88"]
+---
+
+# Zammattio v. Department of Public Welfare
+
+## Majority (DOYLE, Judge.)
+
+DOYLE, Judge.
+Danilo Zammattio appeals from the order of the Secretary of the Department of Public Welfare (DPW) which denied Zammattio’s claim for chronically needy general assistance.
+The following are the undisputed facts. Zammattio applied for chronically needy general assistance (GA) in December 1991 to the Westmoreland County Assistance Office (CAO) pursuant to the Public Welfare Code (Welfare Code), Act of June 13, 1967, P.L. 31, as amended, 62 P.S. §§ 101-1411. CAO requested that Zammattio provide documentation of his medical disability pursuant to DPW regulations and provided him with form PA 635 which is the medical assessment form used by DPW to determine chronically needy status.
+Zammattio was granted GA as transitionally needy, but final determination of his eligibility for chronically needy GA was deferred pending receipt of form PA 635. Zammattio took this form to his treating physician who refused to complete and sign it. CAO then provided Zammattio with a list of other doctors who could complete the form, but Zammattio refused to see them. Instead, Zammattio provided CAO with the depositions of three physicians from his workmen’s compensation proceeding, two of which were taken in 1984 and the third in March of 1990. However, Zammattio never provided CAO with a completed form PA 635.
+CAO scheduled Zammattio for an appointment with its medical review team (MRT) to evaluate his eligibility for GA, but Zammattio refused to participate in this process. CAO then denied Zammattio’s claim for chronically needy GA, and terminated his transitionally needy GA after 90 days pursuant to Section 432(3)(iii) of the Welfare Code, 62 P.S. § 432(3)(iii).
+Zammattio appealed and a hearing was held before a DPW hearing officer on May 12,1992. The hearing officer affirmed CAO’s determination. Following Zammattio’s timely request for reconsideration, which was timely granted by the Secretary, the Secretary issued a final order on August 21, 1992, denying Zammattio’s request on the merits. This appeal followed.
+On appeal, Zammattio argues that DPW’s denial of chronically needy GA based on his failure to supply the proper form is capricious, elevates form over substance, and exceeds the authority given by the enabling statute. Zammattio alleges that he has supplied DPW and CAO with sufficient legal proof of his disability. Basically, Zammattio contends that DPWs blind adherence to such technicalities as requiring a specific form frustrates the purpose of the Welfare Code to “rehabilitate or maintain those persons not able to rehabilitate or maintain themselves.” Travis v. Department of Public Welfare, 2 Pa.Commonwealth Ct. 110, 119, 277 A.2d 171, 175, (emphasis in original) (Crumlish, Jr. concurring, affirmed 445 Pa. 622, 284 A.2d 727 (1971).
+The single issue before us is whether Zammattio must comply with DPWs requirement that he complete form PA 635 in order to be eligible and qualify for GA.
+First, the Welfare Code itself clearly authorizes DPW to promulgate such requirements. It defines those who are eligible for chronically needy and provides that, “[tjhe department may require that documentation of disability be submitted from a physician or psychologist.” Section 432(3)(i)(C) of the Welfare Code, 62 P.S. § 432(3)(i)(C) (emphasis added). DPW’s regulation, 55 Pa.Code § 141.61(d)(iii)(B), provides, in part, that, “[djocumentation shall be on a form provided by the Department....” Form PA 635, therefore, is specifically authorized by a valid regulation and is in accord with legislative intent to allow DPW to require proof of disability.
+Zammattio argues that DPW’s regulation is overly technical, but an agency’s regulations are binding if they are in accord with the legislature’s intent. Federal Kemper Insurance Co. v. Insurance Department, 509 Pa. 1, 500 A.2d 796 (1985). Zammattio is, therefore, bound to comply with DPW’s regulation. Furthermore, a GA recipient has the burden of demonstrating eligibility. Juras v. Department of Public Welfare, 73 Pa.Commonwealth Ct. 169, 457 A.2d 1020 (1983). Zammattio failed to bear this burden by not complying with DPW’s regulation.
+Zammattio cites both Travis and Dickson v. Department of Public Welfare, 94 Pa.Commonwealth Ct. 88, 503 A.2d 86 (1986), in support of the proposition that DPW is acting contrary to the intent of the Welfare Code. However, both cases are inapposite. In Dickson, GA was awarded because the claimant did not violate DPWs regulations, rather the CAO did. In Travis, the claimant failed to comply with the regulations and this Court denied her claim, finding her ineligible by her own action. Zammattio cites extensively from Judge Crumlish’s concurring opinion, but fails to include Judge Crumlish’s conclusion that, “the courts of this Commonwealth are powerless to compel thoughtful administration of the state’s public assistance programs.” Travis, 2 Pa.Commonwealth Ct. at 119, 277 A.2d at 175. We are likewise powerless to compel the grant of GA to a claimant who has failed through his own inaction to demonstrate his eligibility by complying with DPW’s statutorily authorized regulations.
+Based on the foregoing discussion, we affirm.
+ORDER
+NOW, May 14, 1993, the order of the Secretary of the Department of Public Welfare in the above-captioned matter is hereby affirmed.
+. Transitionally needy GA differs from chronically needy GA only in its duration. Transitionally needy GA may be provided for a maximum of only 90 days per year. Section 432(3)(iii) of the Welfare Code, 62 P.S. § 432(3)(iii). Chronically needy GA is provided for as long as the recipient is disabled. Section 432(3)(i) of the Welfare Code, 62 P.S. § 432(3)(i).
+. In reviewing orders of DPW, this Court’s scope of review is limited to a determination of whether an error of law was committed, constitutional rights were violated, or findings of fact were unsupported by substantial evidence. Knier v. Department of Public Welfare, 84 Pa.Commonwealth Ct. 609, 480 A.2d 369 (1984).
+. Based on our resolution of this issue we need not consider whether previous PA 635 forms (not of record here) submitted by Zammattio at other times demonstrated a permanent handicap and whether the medical depositions establish a handicap. We cannot help but observe, however, that one of the depositions that Zammattio gave to CAO was taken at least 21 months earlier and the others were taken over 6 years before he submitted his claim for GA benefits. Moreover, they failed to contain some of the information required by form PA 635.
