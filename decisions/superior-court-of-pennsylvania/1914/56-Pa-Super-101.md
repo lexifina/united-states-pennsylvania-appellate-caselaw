@@ -1,0 +1,26 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 129"
+decided: "1914-02-20"
+citations: ["56 Pa. Super. 101"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Henderson, Morrison, Orlady, Head and Porter, JJ."]
+parties: ["People’s Trust Company v. Ehrhart, Appellant."]
+source_url: "https://static.case.law/pa-super/56/cases/0101-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 441970
+cites_cases: ["11 Phila. 342", "2 Phila. 71", "211 Pa. 165", "34 Pa. Superior Ct. 16", "34 Pa. Superior Ct. 19", "53 Pa. Superior Ct. 319"]
+---
+
+# People's Trust Co. v. Ehrhart
+
+## Majority (Rice, P. J.,)
+
+Opinion by
+Rice, P. J.,
+This is an appeal by the defendant from the refusal of the court to set aside a fieri facias issued upon the judgment entered by the common pleas pursuant to the order made by this court on his former appeal: People’s Trust Co. v. Ehrhart, 53 Pa. Superior Ct. 319.' The question as to the appropriate process to be issued on the judgment in the common pleas was not directly involved in that appeal, but it was legitimately brought under consideration by the argument of counsel for the appellee there, the appellant here, and was thus disposed of: “Another reason suggested for denying the plaintiff’s right to judgment upon defendant’s appeal to the common pleas from the judgment of revival entered by the justice of the peace, upon the scire facias is, that incident to such judgment would be the right to issue an execution- out of that court, and that it was expressly decided when this case was here before (34 Pa. Superior Ct. 16) that this could not be done. This involves an entire misapprehension of that decision. What was decided was, that the acts authorizing transcripts of judgments of justices of the peace to be filed in the office of the prothonotary, and providing that such judgments thereafter shall have all the force and effect of judgments originally obtained in the court of common pleas, do not comprehend by their terms or intent judgments entered by justices of the peace in possessory proceedings, such as that involved in this case. That decision was based on a construction of those acts and involves no principle which is applicable to the questions raised in this case. The learned judge below in a well-considered opinion held that the defendant in the present case had a right to appeal from the judgment of the justice in the scire facias proceeding, and in that conclusion we concur: Guilky v. Gillingham, 3 S. & R. 93. But that necessarily involves the further conclusion that if the justice of the peace had jurisdiction to issue the scire facias and to enter judgment thereon in the plaintiff’s favor, the court of common pleas on the defendant’s appeal therefrom, has jurisdiction to enter a judgment in the plaintiff’s favor, if the facts and the law warrant it, and to issue appropriate process for the collection of that judgment. If this were not so then it would be in the power of the defendant to defeat the plaintiff absolutely by appealing.” After full reconsideration of the question, we adhere to the conclusion that the court of common pleas had jurisdiction to enter judgment in the plaintiff’s favor and to issue appropriate process for the collection of that judgment. We add that a fieri facias issued to the sheriff is appropriate process.
+As to the allegation of the defendant’s petition that he was discharged as a bankrupt on December 14, 1901, under proceedings instituted on June 23, 1900, it is sufficient to say that this furnishes no ground for setting aside the fi. fa. This alleged defense has not arisen since the judgment in the common pleas, but, if available at all, was so on the trial. The defendant, not having presented it then, is concluded by the judgment, according to the general rule, that a judgment will be conclusive not only as to matters actually litigated and decided, but as to every ground of recovery and defense that might have been presented and decided: Long v. Lebanon Nat. Bank, 211 Pa. 165.
+With regard to the argument that is based on the repeal of secs. 105 to 118, inclusive, of the Act of June 16, 1836, P. L. 755, 780, by the Act of April 20, 1905, P. L. 239, very little need be said. The original judgment was entered by the justice of the peace five years before the passage of the act of 1905, and there is nothing in that act to indicate that the legislature intended the unjust thing of striking down valid judgments previously entered under the act of 1836. True, the scire facias issued and the appeal was taken to the common pleas from the justice’s judgment thereon after the passage of the act of 1905, but not in contravention of any of its provisions or by virtue of the repealed sections of the act of 1836. As pointed out in our former opinion, the jurisdiction of the justice to issue the scire facias, and the jurisdiction of the common pleas to entertain and decide the appeal from his judgment thereon, rests on other grounds, and these were not affected by the act of 1905.
+The order is affirmed at the costs of the appellant.
