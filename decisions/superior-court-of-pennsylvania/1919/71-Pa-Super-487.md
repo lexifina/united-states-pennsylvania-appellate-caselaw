@@ -1,0 +1,28 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeal, No. 7"
+decided: "1919-04-21"
+citations: ["71 Pa. Super. 487"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Orlady, P. J., Porter, Trexler, Williams and Keller, JJ."]
+parties: ["Szajnecki, Appellant, v. Szajnecki."]
+source_url: "https://static.case.law/pa-super/71/cases/0487-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 638104
+cites_cases: ["108 Pa. 6", "14 Pa. 417", "155 Pa. 5", "193 Pa. 461", "196 Pa. 123", "2 Penny. 187", "253 Pa. 232", "256 Pa. 363", "27 Pa. 90", "3 W. & S. 444", "3 W. & S. 507", "49 Pa. Superior Ct. 239", "6 Watts 231", "62 Pa. Superior Ct. 523", "78 Pa. 473"]
+---
+
+# Szajnecki v. Szajnecki
+
+## Majority (Trexler, J.,)
+
+Opinion by
+Trexler, J.,
+Szajnecki was a member of the Polish Union of America, a fraternal beneficial association. In 1915 the society-issued a certificate to him in which his brother^ the plaintiff herein was named beneficiary. Afterwards the insured with the consent of his brother, the beneficiary, agreed with Maryanna Szajnecki the defendant that if she would marry him he would substitute her as the beneficiary. A few days after this arrangement was made they were married but the husband being killed within four days, the contract as to the insurance was never carried out. The brother named in the policy brought suit against the society. The latter applied to the court for an interpleader, alleging that the identical fund was claimed by the decedent’s widow. A rule was granted and the court hearing counsel for all the parties granted the prayer of the petitioner and an issue was framed in which the brother of the decedent, the beneficiary in the policy, was made plaintiff and the widow the defendant. Both parties agréed in writing that there was but one question for the jury, was there a marriage contract? The jury decided there was.
+1. Should the court have granted the interpleader? The Act of March 11, 1836, P. L. 76, Section 4, provides that a defendant may disclaim all interest in the subject matter of the action and if he alleges that the right thereto is claimed by or supposed to belong to some person not party to the action who has sued or is about to sue or is expected to sue for the same, the court may thereupon, order the plaintiff to interplead with such third person. The granting of the interpleader is not mandatory but is within the discretion of the court but the court must exercise a judicial and not an arbitrary discretion. The situation before the lower court was such as amply justified the granting of this issue. There were two rival claimants for the fund, each having a show of right. The legality of their respective claims could not be determined on the petition and answer. It was apparent that the defendant was in a position that he would be compelled to defend both actions and might be subject to the likelihood of paying the money twice. The purpose of the Act of 1836 was to relieve the defendant from such a situation: Schmidt Brwg. Co. v. Pgh. L. & Tr. Co., 256 Pa. 363, and cases there cited.
+We do not agree with appellant that the naming of the brother as the beneficiary in the certificate irrevocably fixed the liability of the company and deprived the company of any relief under the interpleader act. Under the by-laws of the company a beneficiary could be changed and it would be a hard rule which would make the company pay to some one, not entitled to it, the proceeds of a policy, merely because of the name put therein. We do not think the case of Sargent v. Hancock M. Life I. Co., 49 Pa. Superior Ct. 239, supports the position taken by the appellant. In that case an inter-pleader was refused. Our brother, Porter, amply sustained the view there taken, for had an issue been framed, the result would have been inevitably a judgment for the appointee of the insured. The claimant argued that the policy was a wagering contract but it was shown that the policy had remained in control of the deceased until her death and it therefore did not come within that designation. The interpleader act did not require the court to do a vain thing and grant an issue when the matter could only be determined one way. .The case before us is entirely different.
+2. We think the court properly excluded the offer that the naming of the plaintiff as beneficiary was on the express condition that there should be no change of beneficiary thereafter and upon this agreement the plaintiff had paid the dues and assessments. The issue agreed upon and submitted to the jury was, was there an agreement of .marriage? The relation between the decedent and his brother had nothing to do with this. Admittedly the proceeds of the policy would go to him if the widow failed to show that she had the superior right.
+3. Was the contract to make the defendant the beneficiary if she would marry the insured enforceable, having been made on Sunday. The parties themselves consummated the agreement by marrying and thus ratified the contract. Certainly under no principle of equity would we hold that the defendant having married the insured and performed her part of the agreement, he could be released of the consideration which moved her to enter into the contract. Contracts made on Sunday are not void in the sense that they do not admit of ratification. See Cook v. Forker, 193 Pa. 461; Markley v. Kessering, 2 Penny. 187, and Gangwere’s Est., 14 Pa. 417.
+All the assignments are overruled and the judgment is affirmed.
