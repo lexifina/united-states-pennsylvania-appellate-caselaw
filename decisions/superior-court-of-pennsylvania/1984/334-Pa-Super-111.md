@@ -1,0 +1,42 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "00785"
+decided: "1984-10-12"
+citations: ["334 Pa. Super. 111", "482 A.2d 1106"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before CAVANAUGH, BECK and TAMILIA, J."]
+parties: ["Sherry I. ALTSCHULER, Appellant, v. Stanley L. ALTSCHULER."]
+source_url: "https://static.case.law/pa-super/334/cases/0111-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 618596
+cites_cases: ["168 A.2d 315", "238 Pa.Super. 369", "240 Pa.Super. 527", "309 Pa.Super. 351", "357 A.2d 566", "359 A.2d 465", "368 U.S. 826", "402 Pa. 616", "7 L.Ed.2d 40", "82 S.Ct. 46"]
+---
+
+# Altschuler v. Altschuler
+
+## Majority (CAVANAUGH, Judge:)
+
+CAVANAUGH, Judge:
+In this appeal, appellant-wife challenges an order of the Court of Common Pleas of Montgomery County transferring her support action from Montgomery County to Philadelphia County. The relevant facts are not in dispute, and may be summarized as follows:
+Appellant-wife and appellee-husband were married on June 29, 1968, and have two minor children. In September of 1981, the parties separated. At that time, appellee moved to Philadelphia County while appellant continued to reside in the marital residence located in Montgomery County with the two children. On February 24, 1982, appellee filed a complaint in divorce in Philadelphia, and on April 18, 1982, appellant’s attorney entered an appearance and accepted service in Philadelphia. Thereafter, appellant obtained new counsel, and on September 22, 1982, filed her own complaint in divorce in Montgomery County which contained, inter alia, a count seeking support. On July 7, 1982, appellee petitioned the lower court to stay appellant’s Montgomery County divorce action and/or transfer venue to Philadelphia. After a conference in chambers, at which both counsel were present, a rule was entered on appellant to show cause why the requested relief should not be granted and for the meantime a temporary stay of all Montgomery County proceedings was entered.
+Thereafter, on October 27, 1982, before a decision had been made on appellee’s petition to stay and/or transfer, appellant filed a new and separate support action in Montgomery County. Appellee filed preliminary objections to the support action and on December 15, 1982, the lower court issued an order specifically including this separately filed support action within the operation of its previously issued, temporary stay order. On February 17, 1983, the matter was again before the lower court on appellee’s petition to hold appellant’s counsel in contempt of court. After a conference in chambers, at which the lower court entertained argument from both counsel, an order was entered which, inter alia, transferred both the divorce and the separate support actions to Philadelphia for consolidation with appellee’s prior, pending divorce action. This appeal is taken from the part of that order which transfers the separate support action.
+Appellant contends that the recently promulgated support rules, specifically Pa.R.C.P. 1910.2(3), afford her an unfettered right to have her support claim heard in Montgomery County, notwithstanding the pendency of appellee’s Philadelphia divorce action. We disagree.
+Pa.R.C.P. 1910.2 provides:
+Rule 1910.2. Venue
+An action may be brought in any county in which
+(1) the defendant resides, or
+(2) the defendant is regularly employed, or
+(3) the plaintiff resides.
+It is true that subparagraph (3) changed the law concerning venue in support actions. This rule, taken together with Pa.R.C.P. 1910.6(b) (relating to service), permits a support action to be brought in the county of plaintiff’s residence even though the defendant no longer resides there, provided that it is also the county of the last family domicile. See Pa.R.C.P. 1910.2(3) and official comment thereto. This alters prior practice, which required a transfer to the county of defendant’s residence in such cases. See, e.g., Commonwealth ex rel. Powell v. Powell, 238 Pa.Super. 369, 357 A.2d 566 (1976). In support of her position, appellant argues that the official comment to Pa.R.C.P. 1910.2(3) flatly requires Montgomery County, the county of plaintiff-appellant’s residence and last family domicile, to hear the support matter. The comment provides in pertinent part:
+Subparagraph (3), in conjunction with Rule 1910.6(b), alters the intercounty statutory provision where the county of the plaintiff’s residence is also the county of the last family domicile and the plaintiff has continued to reside in that county. In such case, the matter will be heard in the county of plaintiffs residence, if the action is brought there, and defendant must return there to defend the action, (emphasis added).
+Although we must concede that this comment is broadly drawn, we disagree that the venue provision to which it relates strips the lower court of its discretion to transfer a support matter once it has been brought. On the contrary, Pa.R.C.P. 1910.8, (relating to transfers under the doctrine of forum non conveniens) provides:
+Rule 1910.8. Transfer of Case
+For the convenience of parties and witnesses the court may transfer an action to the appropriate court of any other county where the action could have been brought originally or at the time of transfer.
+We will not construe Pa.R.C.P. 1910.2(3) so as to nullify the transfer provisions of Pa.R.C.P. 1910.8. Both Rules 1910.2(3) and 1910.8 relate to the same subject and are thus in pari materia. Pa.R.C.P. 131. As such, they must be construed so as to give effect to both. Pa.R.C.P. 128(b). Moreover, we will resolve an unavoidable conflict between the text of a rule and its comment so that the text prevails. See 1 Pa.C.S. § 1939 (relating to use of comments and reports, to similar effect).
+In this case, it was undisputed that a divorce action between the parties which raised issues of child custody, as well as equitable distribution of marital property, was pending in Philadelphia County, and that appellant’s counsel had entered an appearance and a master had been appointed in that proceeding. Furthermore, we cannot ignore the fact that Montgomery and Philadelphia are adjoining counties easily accessible to each other. We must also take note of the practical and humane considerations running through the current law of domestic relations favoring the consolidation and coordination, rather than fragmentation, of related proceedings concerning the family. See, e.g., The Divorce Code, Act of April 2, 1980, P.L. 63, No. 26, § 301, 23 P.S. § 301, (allowing consolidation of property, child custody, support, and any other matters pertaining to the marriage, with the divorce action); 1 J. Rounick, Pennsylvania Matrimonial Practice § 13:5 (1982). Since the support issues raised in appellant’s Montgomery County support action are closely related to the child custody and equitable distribution questions raised in conjunction with appellee’s Philadelphia divorce action, the consolidation effected by the lower court’s order is reasonably calculated to promote judicial economy and minimize the delay which would likely result from separate proceedings in different counties. We, therefore, hold that the lower court properly exercised its discretion under Pa.R.C.P. 1910.8. in ordering the transfer of appellant’s Montgomery County support action. See Plum v. Tampax, Inc., 402 Pa. 616, 168 A.2d 315 (1961), cert. denied, 368 U.S. 826, 82 S.Ct. 46, 7 L.Ed.2d 40 (1961); Beatrice Foods Co. v. Proctor & Schwartz, Inc., 309 Pa.Super. 351, 455 A.2d 646 (1982); Daugherty v. Inland Tugs Company, 240 Pa.Super. 527, 359 A.2d 465 (1976).
+Order affirmed.
+. The order in question also transfers various other related matters to Philadelphia; however, it is only the transfer of the support action which is at issue now.
+. The new support chapter, Pa.R.C.P. 1910.1, et seq. was adopted April 23, 1981, and made effective on July 22, 1981.
+, Appellant also cites Pa.R.C.P. 1910.24 contending that the lower court stayed proceedings without affording her notice and hearing as required by this rule. However, we note that the order from which she appeals does not have the effect of a stay, but rather transfers the proceedings to Philadelphia County. Furthermore, the operative facts were admitted in appellant's Answer to appellee's Preliminary Objections to the Complaint in support.
