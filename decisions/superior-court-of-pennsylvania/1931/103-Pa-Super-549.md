@@ -1,0 +1,30 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals No. 307 and 308"
+decided: "1931-12-16"
+citations: ["103 Pa. Super. 549"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Trexler, P. J., Keller., Linn, Gawthrop, Cunningham and Baldrige, JJ."]
+parties: ["Evans and Evans, Appellants, v. Stewart."]
+source_url: "https://static.case.law/pa-super/103/cases/0549-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 697237
+cites_cases: ["285 Pa. 177", "292 Pa. 543", "298 Pa. 244", "301 Pa. 467", "302 Pa. 72", "92 Pa. Superior Ct. 586", "95 Pa. Superior Ct. 230", "97 Pa. Superior Ct. 131"]
+---
+
+# Evans v. Stewart
+
+## Majority (Keller, J.,)
+
+Opinion by
+Keller, J.,
+On the trial of this action in trespass by a judge of the municipal court without a jury, findings were entered in favor of the plaintiffs: That of the minor plaintiff, (an eight year old child), for her personal injuries; and that of her father, the adult plaintiff, for the property damage to his automobile. Both were the result of a collision with defendant’s automobile.
+Defendant moved the court (1) to grant a new trial, and (2) to enter judgment non obstante veredicto. The court refused a new trial, but entered judgments non obstante veredicto in favor of the defendant as against both plaintiffs, on the ground of the contributory negligence of Mrs. Evans, the driver of the adult plaintiffs ’ car.
+In the opinion filed by the lower court pursuant to Rule 58, it is admitted that error was made in entering judgment against the minor plaintiff, since the alleged contributory negligence of her mother could not be imputed to her.
+We are, however, also of the opinion that the contributory negligence of Mrs. Evans was not so clearly established as to justify the court below in ruling upon it as matter of law. Having as the trier of fact found in favor of the plaintiff, the judge of the court below, even if he subsequently changed his mind as to the weight of the evidence, could not enter a judgment in favor of the defendant unless the facts were so clear as to convict the plaintiff of contributory negligence as matter of law. If he became convinced that he had drawn wrong inferences from conflicting evidence his only course was to grant a new trial. The functions of a judge sitting as a trier of fact must not be confused with those of a court passing on matters of law. When his findings of fact have once been made his functions as a trier of fact — a substitute for a jury — are ended; his subsequent actions are performed in the capacity of a judge of the court.
+Considering the evidence in the light most favorable to the plaintiff, as we are bound to do, the facts may be briefly stated as follows: Plaintiff’s wife was driving his automobile south on Morton Street, on the west side of the street, at a speed of about twenty miles an hour. As she approached Johnson Street her view to the left was interfered with by some shrubbery or heavy growths. Morton Street at this point is thirty feet wide between curbs, Johnson Street twenty-six feet wide between curbs. When she was about thirty feet north of Johnson Street, she saw defendant’s automobile on her left, traveling westward on Johnson Street, about seventy feet east of the street intersection. She could not say how fast he was then traveling, but defendant said he was going at. the rate of twenty-five miles an hour. She slowed up her speed somewhat and when she got to the north curb she saw that defendant was traveling at a faster rate, about thirty-five miles an hour. She could have stopped her car within fifteen or twenty feet, but if she did so, she would be past the middle of the twenty-six feet wide street and right in his path and be liable to be hit broadside, unless he stopped at once. She accordingly turned to her right, west, into Johnson Street and had gone fifteen feet past the street intersection, when she was sidewiped by defendant’s ear, which had plenty of room to pass south of her, but failed to do so.
+It must be remembered that she had the statutory right of way; that she had a right to assume that the defendant would use reasonable care in approaching the intersection, and would have his car under control and slacken his speed, or at least not increase it, as he approached the crossing; and that he was not traveling at such a rate of speed that he could not have stopped his car or slowed down his speed, while he was traveling the greater distance to the street intersection, — (over twice her distance) — , sufficiently to permit the car approaching from his right, with the statutory right of way in its favor, safely to make the crossing. The question of the plaintiff’s contributory negligence was for the jury, or the trier of fact, under all the evidence, rather than for the court as matter of law.
+Most of the cases relied on by the appellee, (six out of eight), dealt with collisions where the statutory right of way was against the plaintiff. In the other two cases the driver having the right of way failed to observe the approach of' the vehicle on his left and went blindly into apparent danger. Of course one having the right of way may not blindly proceed irrespective of obvious approaching danger, but his rights, duties and obligations are not the same as those of one with the right of way against him. The distinction was observed by thé Supreme Court in Davis v. American Ice Co., 285 Pa. 177; Swift v. Corrado, 292 Pa. 543; McNulty v. Horne, 298 Pa. 244; Curry v. Wilson, 301 Pa. 467; Hayes v. Schomaker, 302 Pa. 72; and by this court in Ensell v. Atlantic Refining Co., 92 Pa. Superior Ct. 586; Concannon v. Little, 95 Pa. Superior Ct. 230; and Fry v. Derito, 97 Pa. Superior Ct. 131. We think the case is ruled by these decisions rather than by those cited by appellee.
+The ássignment of error in each appeal is sustained. The judgment in each is reversed and is now entered in favor of the plaintiff on the finding of the judge of the court below.
