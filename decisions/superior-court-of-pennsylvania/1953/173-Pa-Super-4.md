@@ -1,0 +1,29 @@
+---
+court: "Superior Court of Pennsylvania"
+docket: "Appeals, Nos. 164 and 165"
+decided: "1953-01-20"
+citations: ["173 Pa. Super. 4"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rhodes, P. J., Hirt, Reno, Dithrich, Ross and Gunther, JJ. (Arnold, J., absent)."]
+parties: ["Wood v. Lit Brothers, Appellant."]
+source_url: "https://static.case.law/pa-super/173/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1067148
+cites_cases: ["359 Pa. 610", "363 Pa. 585", "59 A. 2d 916", "70 A. 2d 325"]
+---
+
+# Wood v. Lit Bros.
+
+## Majority (Gunther, J.,)
+
+Opinion by
+Gunther, J.,
+Thomas Wood and Margaret Wood, his wife, appel-lees, instituted this action in trespass against Lit Brothers, appellant, for personal injuries sustained by the wife as a result of a fall in the basement exit of the appellant’s department store. The jury rendered a verdict for the wife in the amount of $1,000 and for the husband in the sum of $750. This appeal is from the dismissal of the appellant’s motions for new trial and judgment n.o.v.
+Appellant urges that the court below erred in failing to conclude that the wife-plaintiff was guilty of contributory negligence as a matter of law.
+Mrs. Wood entered appellant’s department store on August 30, 1950 at about 9:30 A.M., made some purchases and on her way out was planning to take a subway-elevated car by way of appellant’s basement store exit. She, at the time, was carrying several packages, i.e. a hat, a coat and a lamp shade. She was holding these packages in her right hand when she arrived at the swinging doors which lead from the basement store to the subway. At this exit there is a wall of six doors, and .each door consists of a wooden frame with a glass center. Mrs. Wood testified: “I was ready to leave the store and I was walking towards the entrance and I had put my bundles in my right hand and I approached the door. I put my hand on the wooden frame of the door and I was going to push the door, swing the door open, and hold it so I could ease my packages out, and as I did I went through the space where the window, the glass window, should have been.”
+There is no question raised concerning the negligence of the appellant; that question is not raised on this appeal and was not argued in the briefs. The single inquiry is limited to the question of whether or not the wife-appellee was guilty of contributory negligence as a matter of law. It has often been held that it is only in a clear ease where the minds of reasonable men cannot honestly differ concerning the facts and circumstances that a court is justified in declaring a plaintiff guilty of contributory negligence as a matter of law. Gaines v. Philadelphia Transportation Co., 359 Pa. 610, 613, 59 A. 2d 916; Johnson v. Rulon, 363 Pa. 585, 70 A. 2d 325. The instant case is not such a clear case, and there is no merit to appellant’s contention that she should have been declared contributorily negligent as a matter of law because of her failure to observe, as appellant alleges, an obviously dangerous condition. Appellee was justified in assuming that appellant had performed its affirmative duty of keeping its premises reasonably safe for customers or business invitees and of giving warning of any failure to maintain them in that condition. In the instant case the entire panel of glass was absent from the door through which she fell. She testified that her packages did not interfere with her view; that the transparency of the glass led her to believe that the glass was intact and in place; that, if absent, she assumed some affirmative notice thereof would have been given by appellant. There was no shattered door glass around the site of the accident which would have put Mrs. Wood on notice of a condition which proved to be dangerous and misleading. It is clear that the jury was justified in concluding that the absence of the glass pane from the door was not easily discernible to all by mere observation. Certainly, reasonable minds could differ whether the appellee, laden as she was with merchandise, was contributorily negligent in not observing the absence of the pane of glass. That factual question was eminently for the jury. The court below aptly said: “We cannot charge the plaintiff as a matter of law with contributory negligence for not observing the absence of a pane of plate glass which by its very nature, if properly maintained, approximates the appearance of invisibility.” Viewing the testimony in a light most favorable to the appellees the court below did not err in submitting this issue of fact and subsequently dismissing appellant’s motion for judgment n.o.v.
+Appellant also complains that the court below erred in admitting evidence showing back injuries under a general averment of injury to the spine; that appellee’s pleading did not give notice that a back injury was claimed; that an aggravation of a back injury condition was improperly admitted and proved under a general allegation of a back injury. The pleadings clearly aver that appellee “was seriously and severely injured in her left thigh and in her spine ...” A physician testified that Mrs. Wood had previously suffered from a curvature of the spine. This was in 1944, but he explicitly testified further that when he examined Mrs. Wood shortly after the accident in question, she had very definite symptoms referable to the spine and to the lumbo-sacral region, which were not previously present.
+The evidence establishes that the plaintiff pleaded an injury to the spine, and the testimony of appellee’s physician and the evidence to which appellant points was clearly admissible on the averment. The court below properly refused appellant’s motion for a new trial.
+Judgment affirmed.
