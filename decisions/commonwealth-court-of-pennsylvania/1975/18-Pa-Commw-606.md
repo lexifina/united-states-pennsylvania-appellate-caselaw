@@ -1,0 +1,45 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1531 C.D. 1974"
+decided: "1975-04-30"
+citations: ["18 Pa. Commw. 606"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before President Judge Bowman and Judges Crumlish, Jr., Kramer, Wilkinson, Jr., Mencer, Rogers and Blatt."]
+parties: ["Commonwealth of Pennsylvania, for itself and on behalf of its citizens and residents, Appellant, v. Metropolitan Edison Company, Appellee."]
+source_url: "https://static.case.law/pa-commw/18/cases/0606-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1865668
+cites_cases: ["14 Pa. Commonwealth Ct. 245", "170 A.2d 565", "305 A.2d 788", "310 A.2d 271", "403 Pa. 647", "453 Pa. 554", "822 A.2d 735", "9 Pa. Commonwealth Ct. 375"]
+---
+
+# Commonwealth v. Metropolitan Edison Co.
+
+## Majority (Judge Wilkinson,)
+
+Opinion by
+Judge Wilkinson,
+Able counsel for the appellant has accurately and succinctly stated the history of this case as follows:
+“This is an appeal from the denial by the Court of Common Pleas of Berks County of Plaintiff’s Motion for a Preliminary Injunction sought to prevent collection by an electric utility of rates which plaintiff asserts are being collected illegally. The Court below denied plaintiff’s Motion after hearing an undisputed set of facts, on the basis that it lacked ‘jurisdiction over the subject matter of the action.’
+“Defendant, Metropolitan Edison Company, has its principal place of business in Berks County, Pennsylvania; it supplies and sells electrical energy in Berks County and various other counties of Pennsylvania.
+“Defendant filed with the Pennsylvania Public Utility Commission on July 26, 1974, three proposed schedules of rates (called tariffs), each of the said schedules covering all of the company’s customers. The first two of the tariffs, Supplements 22 and 23, representing successive proposed increases, respectively of 8.12% and 23.9%, were sought to be put into effect September 24, 1974. The third tariff, Supplement 24, representing an additional increase of 10% over the rates reflected in Supplement 23, that is, an overall increase of 44.78% over the pre-existing rates, was sought to be put into effect on July 1, 1975.
+“A timely Complaint was filed with the Pennsylvania Public Utility Commission against all three tariffs by plaintiff, as well as by others, imposing upon the defendant the burden to prove the justness and reasonableness of the proposed rates after hearing.
+“The Public Utility Commission, by orders dated September 16, 1974, suspended Supplement 23 for six months from September 24, 1974, and Supplement 24 for six months from July 1, 1975, and ordered its own investigations into both Supplements 23 and 24, but took no action to suspend or investigate the base rate set forth in Supplement 22. On September 24th the company began to collect pursuant to Supplement 22 the Commission not having acted on a petition filed by plaintiff asking it to suspend Supplement 22.
+“Plaintiff brought this action in the Court of Common Pleas of Berks County, seeking to enjoin collection under Supplement 22 on the ground that this collection was illegal under the Pennsylvania Public Utility Law in view of the Commission’s suspension of Supplement 23 and unless and until such a schedule of rates encompassed by Supplement 22 was fixed by the Pennsylvania Public Utility Commission as a temporary rate pursuant to Section 310 of the Public Utility Law (66 P.S. §1150) after notice and hearing.
+“Plaintiff [appellant] took such action in three separate capacities — (a) as an affected customer of defendant, (b) in its role of parens patriae attempting to protect the interest of Metropolitan Edison’s other customers, particularly those of limited needs, and (c) finally pursuant to the power of the Attorney General to enforce the Public Utility Law and orders of the Pennsylvania Public Utility Commission. The gravamen of Plaintiff’s complaint is that in view of the fact that Supplement 23 was filed to become effective as to the same customers on the same day as Supplement 22, the latter is simply not an appropriate basis for collection pursuant to Section 308 of the Public Utility Law (66 P.S. §1148). Conceptually, we [appellant] assert that the lower of the two tariffs (Supplement 22) had become a nullity (or had merged into Supplement 23) ; an alternative view, to the same effect, is that the Commission’s action in suspending Supplement 23 automatically amounted to suspension of Supplement 22 as well.
+On July 17, 1974, this Court, with an opinion by Judge Rogers, had affirmed a somewhat similar action of the Public Utility Commission in a multi-stage filing of tariffs. Baker v. Pennsylvania Public Utility Commission, 14 Pa. Commonwealth Ct. 245, 822 A.2d 735 (1974). (Allocatur denied January 10, 1975.)
+As indicated in footnote 2 above, the validity of multistage filing of tariffs in this very instance, on the merits, is on appeal to this Court at this time. Appellant asserts that it should not be necessary for it to await the normal processes of the law to determine the validity of the tariffs in cases where large segments of the public may be forced to pay what it asserts are illegal rates or risk having their electrical power disconnected. Unfortunately for appellant, such arguments must be addressed to the Legislature and indeed have been as noted by Judge Rogers in Baker, supra.
+The statutory law is about as clear as the English language could make it:
+“No injunction shall issue modifying, suspending, staying, or annuling any order of the commission, or of a commissioner, except in a proceeding questioning the jurisdiction of the commission, and then only after cause shown upon a hearing.” Section 1111 of the Public Utility Law, Act of May 28, 1937, P. L. 1053, as amended, 66 P. S. §1441 (Supp. 1974-1975).
+This provision applies to the original jurisdiction of this Court as set forth in Judge Crumlish’s recent opinion in Rutledge Construction Co. v. Public Utility Commission, 9 Pa. Commonwealth Ct. 375, 305 A.2d 788 (1973). In that instance, it was the Public Utility Commission properly invoking the provisions of the statute.
+Decisional law is equally clear:
+“Although we still possess the right of judicial scrutiny over the acts of the PUC, no principle has become more firmly established in Pennsylvania law than that the courts will not originally adjudicate matters within the jurisdiction of the PUC. Initial jurisdiction in matters concerning the relationship between public utilities and the public is in the PUC— not in the courts. It has been so held involving rates, service, rules of service, extension and expansion, hazard to public safety due to use of utility facilities, installation of utility facilities, location of utility facilities, obtaining, alerting, dissolving, abandoning, selling or transferring any right, power, privilege, service, franchise or property and rights to serve particular territory.” Lansdale Borough v. Philadelphia Electric Company, 403 Pa. 647, 650-51, 170 A.2d 565,566-67 (1961) (footnotes omitted).
+With the recent opinion of Justice POMEROY in Akron Borough v. Pennsylvania Public Utility Commission, 453 Pa. 554, 310 A.2d 271 (1973), our Supreme Court has taken a narrow view of the language of Section 1111, equating its limited authority to grant injunctions in a proceeding questioning the jurisdiction of the Commission to the power to issue a writ of prohibition.
+Finally, appellant asserts the authority of the Attorney General under the provisions of Section 904 of the Public Utility Law, 66 P. S. §1344:
+“Enforcement proceedings by Attorney General
+“The Attorney General, in addition to the exercise of the powers and duties now conferred upon him by law, shall also, upon request of the commission, or upon his own motion, proceed in the name of the Commonwealth, by mandamus, injunction, or quo warranto, or other appropriate remedy at law or in equity, to restrain violations of the provisions of this act, or of the regulations or orders of the commission, or the judgments, orders, or decrees of any court, or to in-force obedience thereto.”
+Appellant does not cite a case, nor have we found one, that holds this Section to be a vehicle to challenge the Commission’s authority in a tariff-making process. To so interpret it would put it in direct conflict with Section 1111.
+Affirmed.
+“1. The Order of the Commission at R.I.D. 170 did in fact suspend the ‘Line extension rule’ set forth in Supplement 22 and ordered its investigation. Although the partial suspension of a tariff is without legal justification, the issue is not one substantially affecting plaintiff therefore and is not raised in the instant proceeding.”
+“2. Subsequently, the Commission denied plaintiff’s Petition to Suspend' Supplement 22 by Order dated November 26, 1974, from which Order plaintiff has filed appeal with this Honorable Court as of December 24, 1974, at No. 1661 C. D. 1974.”
