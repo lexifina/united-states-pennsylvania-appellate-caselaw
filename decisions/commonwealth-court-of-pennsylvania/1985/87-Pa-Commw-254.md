@@ -1,0 +1,41 @@
+---
+court: "Commonwealth Court of Pennsylvania"
+docket: "Appeal, No. 1929 C.D. 1983"
+decided: "1985-01-29"
+citations: ["87 Pa. Commw. 254"]
+reporter: "pa-commw"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["before Judges Craig, Doyle and Senior Judge Blatt, sitting as a panel of three."]
+parties: ["In Re: Appeal of Harry D. Miller, Jr., and Jean E. Miller. Harry D. Miller, Jr. and Jean E. Miller, Appellants."]
+source_url: "https://static.case.law/pa-commw/87/cases/0254-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1327785
+cites_cases: ["19 Pa. Commonwealth Ct. 110", "340 A.2d 597", "403 A.2d 134", "416 A.2d 1157", "43 Pa. Commonwealth Ct. 320", "452 A. 2d 718", "481 A.2d 1249", "500 Pa. 1", "53 Pa. Commonwealth Ct. 89", "85 Pa. Commonwealth Ct. 362"]
+---
+
+# In re Appeal of Miller
+
+## Majority (Judge Doyle,)
+
+Opinion by
+Judge Doyle,
+This is the appeal of Harry D. Miller, Jr. and Jean E. Miller (Owners) from the order of the Court of Common Pleas of Delaware County which dismissed Owners’ appeal from the denial of their challenge to the substantive validity of the Thornbury Township Zoning Ordinance by the Thornbury Township Board of Supervisors (Township).
+On March 17, 1982, Owners filed with the Township a Request for Hearing pursuant to Section 1004 of the Pennsylvania Municipalities Planning Code (M.P.O.) and a proposed curative amendment pursuant to Section 609.1 of the M.P.O. The basis of Owners’ challenge was that the Township had failed to provide for its fair share of mobile home parks. The amendment proposed to cure this alleged deficiency by creating a new zoning district for mobile home park development.
+On March 24,1982, Owners submitted to the Township a survey of their 38.355 acre parcel of land, showing 36.249 acres shaded in red as the area to be rezoned. The survey gave no detail within the area, but it did include the location of the perimeter roads to the north (Looksley Road) and the east (Slitting Mill Road), as well as the names of the abutting landowners to the south and west.
+A public hearing on the proposed curative amendment was held on May 24, 1982, and on July 6, 1982, the Township issued its decision denying Owners’ challenge and refusing to enact the proposed curative amendment. On June 20, 1983, without taking any additional evidence, the Court of Common Pleas of Delaware County affirmed the decision of the Township.
+Mobile homes are permitted in Thornbury Township only under Section 504 of its Zoning Ordinance as part of a Planned Residential Development (PRD). A PRD requires development of at least 100 acres of land at a maximum density of .4 units per acre. Mobile homes are permitted to make up no more than 10% of the units in a PRD. Thus, in a one hundred acre PRD, for example, mobile homes could comprise no more than four out of forty units.
+Both tribunals preceding us addressed the constitutionality of this provision and found that it was not exclusionary because it did permit some use of mobile homes. In this regard we note that the issue appears to have been misconstrued, as Owners’ challenge clearly runs to the exclusion of mobile home parks, not merely mobile homes. It is well settled in this Court that the mobile home park is a separate and distinct land development use. Geiger v. Zoning Hearing Board of North Whitehall Township, 85 Pa. Commonwealth Ct. 362, 481 A.2d 1249 (1984). Nevertheless, we find that we need not reach the constitutional issue with respect to this particular ordinance since the dismissal of Owners’ claim must be affirmed on procedural grounds. As both the Township and the common pleas court correctly found, Owners’ failed to submit the plans and materials required of them under Section 1004(2) (e) of the M.P.C. Union Run Corp. v. Lower Paxton Township Board of Supervisors, 53 Pa. Commonwealth Ct. 89, 416 A.2d 1157 (1980); Appeal of Ralph W. Connelly, Inc., 19 Pa. Commonwealth Ct. 110, 340 A.2d 597 (1975). Section 1004(2) (c) provides, in pertinent part:
+[A request for a curative amendment under section 609.1] shall be accompanied by plans and other materials describing the use or development proposed by the landowner in lieu of the use or development permitted by the challenged ordinance or map. Such plans and other materials shall not be required to meet the standards prescribed for preliminary, tentative or final approval or for the issuance of a permit so long as they provide reasonable notice of the proposed use or development and a sufficient basis for evaluating the challenged ordinance or map in the light thereof.
+As a defense to their procedural shortcoming, Owners assert that they did submit a “sketch plan” to the Township, but that the Township failed to forward it to the County Planning Commission as required by Section 609 of the M.P.C. This accusation has no support in the record. Furthermore, the document Owners describe as a “sketch plan” is merely the line survey referred to above. Since this drawing is insufficient to satisfy the requirements of Section 1004, whether the Planning Commission received it or not becomes irrelevant.
+Owners argue that the drawing provides reasonable notice of their proposed use if considered in conjunction with their proposed curative amendment. The thrust of this argument seems to be that since mobile home parks were not provided for by the Township at all, merely showing that one intends to build a mobile home park is enough to enable a court to evaluate the constitutionality of the omission.
+This argument ignores the clear requirement outlined in Union Run and Connelly that a landowner establish his standing to challenge a zoning ordinance under Section 1004 of the M.P.C. The doctrine of standing requires an interest in the outcome of the matter one seeks to challenge which is substantial, direct and immediate. Franklin Township v. Department of Environmental Resources, 500 Pa. 1, 452 A. 2d 718 (1982). Unless a landowner demonstrates not only that he intends to develop his land in a manner currently prohibited, but also that it would be feasible for him to do so at some point in the near future, the alleged harm has been shown to be neither direct nor immediate. Thus, a mere token compliance with Section 1004 is inadequate to confer standing on a challenger. Although plans need not be in the form required for preliminary or final approval, at least some physical description of the terrain, as well as a tentative layout of the structures to be erected and of proposed points of access to public roads, is necessary to determine whether the land in question is suited to the proposed development. These are requirements with which any property owner can comply with little expense or assistance from experts.
+Finally, Owners assert that their failure to submit detailed plans should be excused because their testimony at the hearing provided the missing information. Under some circumstances, oral testimony can cure a deficiency of this type. See H & K Materials, Inc. Appeal, 43 Pa. Commonwealth Ct. 320, 403 A.2d 134 (1979). In this case, however, Owners’ testimony indicated nothing more than an intent to develop at a density of five to six units per acre and to otherwise comply with the law and with the terms of their proposed amendment. Many questions from concerned neighbors, including several dealing with potential pollution and traffic problems, were met with a “no comment” response. Nor is there any indication that the landowners here (as distinguished from the owner in H & K) attempted at any point in the proceedings to submit additional materials.
+For the reasons given above, we affirm the decision of the court of common pleas.
+Order
+Now, January 29, 1985, the Order of the Court of Common Pleas of Delaware County, No. 82-9985, dated June 20, 1983, is hereby affirmed.
+Act of July 31, 1968, P.L. 805, as amended, added by Section 19 of the Act of June 1, 1972, P.L. 333, 53 P.S. §11004.
+Added by Section 10 of the Act of June 1, 1972, P.L. 333, 53 P.S. §10609.1.
+53 P.S. §11004(2) (e).
+53 P.S. §10609.
+The testimony of the Owners at the hearing was actually provided by their son, Harry D. Miller, III.
